@@ -1,5 +1,9 @@
 var NAVTREEINDEX403 =
 {
+"df/ddc/classTaskScheduler.html#a3b51566771e127c2d8b59b69aa441c3e":[6,0,4152,9],
+"df/ddc/classTaskScheduler.html#a506cce7f63a31174db2b929982e8f658":[6,0,4152,54],
+"df/ddc/classTaskScheduler.html#a529b1284294a63217e3f9fa56c170743":[6,0,4152,10],
+"df/ddc/classTaskScheduler.html#a54a010883bcd86ef7ed9ed017945d0c1":[6,0,4152,7],
 "df/ddc/classTaskScheduler.html#a710aca9b74eabea0163fcb2b321a39e3":[6,0,4152,23],
 "df/ddc/classTaskScheduler.html#a752db7785ee3a4cb54e674a7a85e1156":[6,0,4152,50],
 "df/ddc/classTaskScheduler.html#a762836fbd5252c247acedbe4d740cf09":[6,0,4152,38],
@@ -56,10 +60,10 @@ var NAVTREEINDEX403 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,726,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX403 =
 "df/dec/classspell__algalon__supermassive__fail.html#aac131aa2d2e5342cf0303b918a077b45":[6,0,2605,2],
 "df/dec/classspell__algalon__supermassive__fail.html#af280f3880e2e567188ba8ca3e45c00c0":[6,0,2605,0],
 "df/ded/classnpc__tortured__rifleman.html":[6,0,2210],
-"df/ded/classnpc__tortured__rifleman.html#a32e4164864c3873b3684ad531a2e924a":[6,0,2210,1],
-"df/ded/classnpc__tortured__rifleman.html#aaef71feb7077c561eb2bcf7d4fc411c7":[6,0,2210,2],
-"df/ded/classnpc__venomhide__hatchling.html":[6,0,2269],
-"df/ded/classnpc__venomhide__hatchling.html#a404d875592b847ddb9f3250c9d954bfc":[6,0,2269,3],
-"df/ded/classnpc__venomhide__hatchling.html#a4dc217dd5950db7b270b7cce3e594e4d":[6,0,2269,1]
+"df/ded/classnpc__tortured__rifleman.html#a32e4164864c3873b3684ad531a2e924a":[6,0,2210,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"db/d14/classLootTemplate.html":[6,0,1458],
 "db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1458,7],
 "db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1458,9],
 "db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1458,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "db/d1d/structboss__ouro.html#a2b8d88aeb824890a090f3bec544f5de2":[6,0,648,2],
 "db/d1d/structboss__ouro.html#a53fb0c076ce60d769d21fa740fa73308":[6,0,648,9],
 "db/d1d/structboss__ouro.html#a624700c5010edda9e7880070bd7495d7":[6,0,648,0],
-"db/d1d/structboss__ouro.html#a7b9682b239a2d436069b9e6be1d90648":[6,0,648,1],
-"db/d1d/structboss__ouro.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf":[6,0,648,8]
+"db/d1d/structboss__ouro.html#a7b9682b239a2d436069b9e6be1d90648":[6,0,648,1]
 };

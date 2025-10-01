@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9":[6,0,950,9],
 "d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed":[6,0,950,14],
 "d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6":[6,0,950,12],
 "d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5":[6,0,950,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470af7d716eafc442e0c20086f4df8868263":[7,0,0,0,1,3,5,9,2,1,25,17],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470af9c5d99f0073884dc3742bdcc6f76e86":[7,0,0,0,1,3,5,9,2,1,25,30],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a576c16bc9ed4c6daad0b111bd899f56a":[7,0,0,0,1,3,5,9,2,1,16],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a":[7,0,0,0,1,3,5,9,2,1,14],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a71c363a6bd8f78db60380665c82bb7b3":[7,0,0,0,1,3,5,9,2,1,20]
+"d9/d88/boss__assembly__of__iron_8cpp.html#a62c2e253126f0f260aebfb5e1566f59a":[7,0,0,0,1,3,5,9,2,1,14]
 };

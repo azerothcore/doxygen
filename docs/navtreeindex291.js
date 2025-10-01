@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#abe711cd2da225fdc73eabe2ad6bd3f5d":[6,0,11,5,9,3],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#abe711cd2da225fdc73eabe2ad6bd3f5d":[5,0,31,5,9,3],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[5,0,31,5,9,8],
 "db/db8/classWorldPackets_1_1Guild_1_1GuildBankQueryResults.html#ad36f0ae1d897ef504ad9761c00db77ca":[6,0,11,5,9,8],
@@ -126,15 +127,15 @@ var NAVTREEINDEX291 =
 "db/dc5/classspell__axe__flurry.html#aeaf1955aece958a8e7d7773a33177e5d":[6,0,2631,3],
 "db/dc6/classMPQArchive.html":[6,0,1534],
 "db/dc6/classMPQArchive.html#a2026335b9ede29197acfaac8513456d5":[6,0,1534,8],
-"db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1534,2],
 "db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1534,0],
+"db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f":[6,0,1534,2],
 "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1534,3],
 "db/dc6/classMPQArchive.html#a5bce22525ca16381fbb4729540a165e2":[6,0,1534,1],
 "db/dc6/classMPQArchive.html#a72b9fb96b1e3db6c7be652e426978b4a":[6,0,1534,9],
-"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1534,7],
 "db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1534,6],
-"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1534,4],
+"db/dc6/classMPQArchive.html#ab91bd82370a1ebcf6b46fc3047188640":[6,0,1534,7],
 "db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1534,5],
+"db/dc6/classMPQArchive.html#ac40182c8e52d70aa1f53325f1b48f259":[6,0,1534,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html":[6,0,3471],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a0e7e246c322b89c3b6ee08797984f7e6":[6,0,3471,4],
 "db/dc6/classspell__morogrim__tidewalker__watery__grave.html#a21fd59ba177fd7b04eb1fcafe869f33a":[6,0,3471,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/dca/structboss__felmyst.html#ae5181c789809a859edb40488e206c0d3":[6,0,464,6],
 "db/dca/structboss__felmyst.html#af29021c428a9c7ffcea517d91b1d4b39":[6,0,464,1],
 "db/dca/structboss__rajaxx.html":[6,0,667],
-"db/dca/structboss__rajaxx.html#a8dad79921559359b6aa7149641925fe5":[6,0,667,2],
-"db/dca/structboss__rajaxx.html#a9231a20150ed6eae0cbc79c8386f7371":[6,0,667,1]
+"db/dca/structboss__rajaxx.html#a8dad79921559359b6aa7149641925fe5":[6,0,667,2]
 };

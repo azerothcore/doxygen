@@ -1,5 +1,6 @@
 var NAVTREEINDEX251 =
 {
+"da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI.html#a04a9f0cc28cd8cab89120e66972b74cf":[6,0,1756,0,3],
 "da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI.html#a1c991305f4ef30146930747881e57de4":[6,0,1756,0,6],
 "da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI.html#a2a6484216abd731ad016284a79575e1c":[6,0,1756,0,7],
 "da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI.html#a566fba51edcddab8c5b0bf5688571f80":[6,0,1756,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX251 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ead1d21561a1d51aa165ba0fbbf03f0":[7,0,0,0,1,2,41,0,0,6,278],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a0ee9b3a7d5427e1baacf407cd1dfd589":[7,0,0,0,1,2,41,0,0,6,30],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1015c47e51e396ce6bac8260ce380831":[7,0,0,0,1,2,41,0,0,6,71],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[7,0,0,0,1,2,41,0,0,6,3],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1156dae2e392ceb801c50846a22f915b":[7,0,0,0,1,2,41,0,0,6,206]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad":[7,0,0,0,1,2,41,0,0,6,3]
 };

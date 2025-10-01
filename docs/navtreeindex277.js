@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd":[6,0,750,0,3],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a6ab1d215ed077883781b0c0188282c5e":[6,0,750,0,7],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#a9c945841926d5b08f37c6a720dd25a14":[6,0,750,0,6],
 "db/d30/structboss__twilight__halion_1_1boss__twilight__halionAI.html#aab05bab963d603c3cb70edfd62a84b49":[6,0,750,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a0809e6024759cb0ef204b524b35071f0":[6,0,2123,0,11],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a0b6aa4612a5c82e24f8edf787a163081":[6,0,2123,0,7],
 "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a13aa3b345c2788c587131e07879380da":[6,0,2123,0,28],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1b6e6ac99d24bc8a426e53b50ca2b35d":[6,0,2123,0,23],
-"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1e42fdd4ba0253469e1d8f66f57ee4e8":[6,0,2123,0,18]
+"db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1b6e6ac99d24bc8a426e53b50ca2b35d":[6,0,2123,0,23]
 };

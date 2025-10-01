@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d9/d3c/classSpellScript_1_1CastHandler.html#afdbd455bd010bd93e84c334fe3987bf1":[6,0,4111,1,1],
 "d9/d3c/classspell__oculus__dream__funnel__aura.html":[6,0,3499],
 "d9/d3c/classspell__oculus__dream__funnel__aura.html#a4638b99dac7653f13d59c3928a78b3b9":[6,0,3499,1],
 "d9/d3c/classspell__oculus__dream__funnel__aura.html#a691d5a99eec9e367c518d0244f25bd41":[6,0,3499,2],
@@ -27,16 +28,16 @@ var NAVTREEINDEX233 =
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#a803108e6a515d2d210d8e79a9fb6ce18":[6,0,286,12,2],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#a938e987363972fbd58e42f19880016d8":[6,0,286,12,1],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#aad44956783e9c044eb92065cc62e97f6":[6,0,286,12,0],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[6,0,11,8,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[5,0,31,8,3],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[6,0,11,8,3,3],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[6,0,11,8,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,31,8,3,3],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[6,0,11,8,3,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,31,8,3,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[6,0,11,8,3,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[5,0,31,8,3,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[6,0,11,8,3,1],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,31,8,3,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,11,8,3,2],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,31,8,3,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,31,8,3,4],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,11,8,3,4],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html":[6,0,3874],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html":[6,0,2132,0],
 "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html#a42466b7c6af30727b8872bd2ddfddb6f":[6,0,2132,0,2],
 "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html#a4b4511ac7258c1182e428bddb2db6519":[6,0,2132,0,5],
-"d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html#a5f6ef34741a6d726c3fecd66d768bd67":[6,0,2132,0,7],
-"d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html#a738ceaa68f13c084fedee2add6fba99e":[6,0,2132,0,0]
+"d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html#a5f6ef34741a6d726c3fecd66d768bd67":[6,0,2132,0,7]
 };

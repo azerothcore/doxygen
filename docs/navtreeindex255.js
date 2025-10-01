@@ -1,5 +1,6 @@
 var NAVTREEINDEX255 =
 {
+"da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a7cb5e81a09283c1ca915ec4419363af4":[6,0,1981,0,12],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#a7fe22201514986bc20fbe9e7f27d410a":[6,0,1981,0,9],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#aa29123d2482962c17a48e66db205207b":[6,0,1981,0,0],
 "da/d4b/structnpc__muradin__bronzebeard__igb_1_1npc__muradin__bronzebeard__igbAI.html#ab72a5bf5b6313b51002ff96ca8ee4971":[6,0,1981,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX255 =
 "da/d53/classnpc__frozen__orb__stalker.html":[6,0,1802],
 "da/d53/classnpc__frozen__orb__stalker.html#a7f025c829106aa6668427f913d07a722":[6,0,1802,1],
 "da/d53/classnpc__frozen__orb__stalker.html#af33e27138a70286bac561113ed09f350":[6,0,1802,2],
-"da/d53/classnpc__tooga.html":[6,0,2208],
-"da/d53/classnpc__tooga.html#a6ea6a9e4dea1ab98475dae13680ceeaf":[6,0,2208,1]
+"da/d53/classnpc__tooga.html":[6,0,2208]
 };

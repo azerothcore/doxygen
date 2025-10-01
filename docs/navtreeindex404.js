@@ -1,5 +1,9 @@
 var NAVTREEINDEX404 =
 {
+"df/ded/classnpc__tortured__rifleman.html#aaef71feb7077c561eb2bcf7d4fc411c7":[6,0,2210,2],
+"df/ded/classnpc__venomhide__hatchling.html":[6,0,2269],
+"df/ded/classnpc__venomhide__hatchling.html#a404d875592b847ddb9f3250c9d954bfc":[6,0,2269,3],
+"df/ded/classnpc__venomhide__hatchling.html#a4dc217dd5950db7b270b7cce3e594e4d":[6,0,2269,1],
 "df/ded/classnpc__venomhide__hatchling.html#a96110b752965d751ab7b466c4f67e333":[6,0,2269,2],
 "df/ded/mechanar_8h.html":[7,0,0,0,1,3,7,5,3,6],
 "df/ded/mechanar_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,5,3,6,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX404 =
 "df/df6/structHealthCheckEventData.html#a1b28487d683827c43d1a8054678bdb73":[6,0,1262,0],
 "df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[6,0,1262,3],
 "df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1262,8],
-"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1262,7],
-"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[6,0,1262,9],
-"df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c":[6,0,1262,1],
-"df/df6/structHealthCheckEventData.html#aae2283a58be68424fbe01c37a29e1c5e":[6,0,1262,4],
-"df/df6/structHealthCheckEventData.html#abe8549b1e96fc3ea7e4154cd30ff5389":[6,0,1262,2]
+"df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1262,7]
 };

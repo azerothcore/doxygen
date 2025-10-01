@@ -616,6 +616,7 @@ var group__u2w =
       [ "SendCharCustomize", "d8/d74/classWorldSession.html#a70c69a222cc1e1656961810fa91dfcf2", null ],
       [ "SendCharDelete", "d8/d74/classWorldSession.html#a53e18e97d6204b9e135e4101b7740066", null ],
       [ "SendCharFactionChange", "d8/d74/classWorldSession.html#a8f9b10f53561390829a99b0f34016fcd", null ],
+      [ "SendCharLoginFailed", "d8/d74/classWorldSession.html#a33e2c85d2687be6b5905306f9b0d3845", null ],
       [ "SendCharRename", "d8/d74/classWorldSession.html#a62090370256c6050a095287d185af787", null ],
       [ "SendChatRestrictedNotice", "d8/d74/classWorldSession.html#aa5239d0d34442a38a0700a41d1f79b74", null ],
       [ "SendClientCacheVersion", "d8/d74/classWorldSession.html#a213fee488c9ca92e6f98209869c6eaf5", null ],

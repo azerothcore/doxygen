@@ -1,5 +1,8 @@
 var NAVTREEINDEX342 =
 {
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab33d820d98797835fcb46449daf38223":[7,0,0,0,1,3,5,10,1,3,4,25],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abe68c10bafa671ad4099c28c503ae2d0":[7,0,0,0,1,3,5,10,1,3,4,22],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac648beb61bb04b9ac3a2dd037f1b55d6":[7,0,0,0,1,3,5,10,1,3,4,24],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad2dd30eb9b2f59ea3831da53267d4941":[7,0,0,0,1,3,5,10,1,3,4,4],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adaae0e0909497649135b3a0b9826a90d":[7,0,0,0,1,3,5,10,1,3,4,14],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aea82b49c8cb6517b9907d00d994f4701":[7,0,0,0,1,3,5,10,1,3,4,30],
@@ -246,8 +249,5 @@ var NAVTREEINDEX342 =
 "de/d07/classnpc__depth__charge.html#ad16e3431b06fdd6797bfb51dda9005f5":[6,0,1744,1],
 "de/d09/classspell__apothecary__lingering__fumes.html":[6,0,2613],
 "de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[6,0,2613,3],
-"de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2613,2],
-"de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[6,0,2613,1],
-"de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[6,0,2613,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html":[6,0,3424]
+"de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2613,2]
 };

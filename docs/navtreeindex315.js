@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/db3/structnpc__dark__iron__guzzler.html#a47295b69eaecf3c001c43a1550dd1a80":[6,0,1732,1],
 "dc/db3/structnpc__dark__iron__guzzler.html#a53ce152d0bf8e727ed0b385bb2293363":[6,0,1732,0],
 "dc/db3/structnpc__dark__iron__guzzler.html#a5decab6f76369ec9ce037dd050898423":[6,0,1732,12],
 "dc/db3/structnpc__dark__iron__guzzler.html#a620df1502373954020a910853cb6dd3a":[6,0,1732,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ae69afba77636c962045160b610177bd9":[6,0,416,0,8],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ae8218b69e6dc7489e65d891048d84da1":[6,0,416,0,7],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html":[6,0,577],
-"dc/dc4/structboss__kologarn__pit__kill__bunny.html#a0ecbc2ae8850d4cfb84f40d2a13f4976":[6,0,577,0],
-"dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6":[6,0,577,3]
+"dc/dc4/structboss__kologarn__pit__kill__bunny.html#a0ecbc2ae8850d4cfb84f40d2a13f4976":[6,0,577,0]
 };

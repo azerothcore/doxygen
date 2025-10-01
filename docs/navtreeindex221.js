@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63da9545669ca68caa507220b5b121475d3c":[7,0,0,0,1,3,5,9,2,5,17,0],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1":[7,0,0,0,1,3,5,9,2,5,18],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a125b0648552bfc958d34496bef00c8cb":[7,0,0,0,1,3,5,9,2,5,18,13],
 "d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1a148f3fde9450a6d3880ad03449c03bb8":[7,0,0,0,1,3,5,9,2,5,18,16],
@@ -157,12 +158,12 @@ var NAVTREEINDEX221 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1658,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1658,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1658,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,31,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,31,2,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,31,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,31,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,31,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,31,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,31,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2504],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d8/da3/classCalendarMgr.html#a3e208ff7446f2744f12ddc66d20f3057":[6,0,834,9],
 "d8/da3/classCalendarMgr.html#a435c969a99a408b030fd9c2b2d1f0541":[6,0,834,40],
 "d8/da3/classCalendarMgr.html#a4871ffc6701b73b1af7d5fbf19c7b1bc":[6,0,834,38],
-"d8/da3/classCalendarMgr.html#a48f84b1d49ca51c215c4f1efd33b62f7":[6,0,834,22],
-"d8/da3/classCalendarMgr.html#a4c84a59be61ff39bf5de5e9c7fa46dbc":[6,0,834,27]
+"d8/da3/classCalendarMgr.html#a48f84b1d49ca51c215c4f1efd33b62f7":[6,0,834,22]
 };

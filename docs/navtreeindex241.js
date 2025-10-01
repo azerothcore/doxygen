@@ -1,5 +1,6 @@
 var NAVTREEINDEX241 =
 {
+"d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#a945ec4037120992e8a2986e7fd2e2c96":[6,0,3946,2],
 "d9/d97/classspell__valanar__kinetic__bomb__absorb__aura.html#aa6582457cd0502ca263433d04b40b64f":[6,0,3946,0],
 "d9/d98/classPlayerDumpWriter.html":[6,0,2419],
 "d9/d98/classPlayerDumpWriter.html#a060152c060b37c4bf1208a99edc4a840":[6,0,2419,0],
@@ -157,8 +158,8 @@ var NAVTREEINDEX241 =
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[6,0,11,5,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[6,0,11,5,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,31,5,46,1],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,31,5,46,0],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,11,5,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,31,5,46,3],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[6,0,11,5,46,3],
 "d9/d9d/cs__account_8cpp.html":[7,0,0,0,1,3,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX241 =
 "d9/da5/GameTime_8cpp.html#a6d0d49f37e25e497391157b2a2ec90c1":[7,0,0,0,1,2,44,0,1],
 "d9/da5/GameTime_8cpp.html#a78088a0637670a1ab5125a1388f7ca52":[7,0,0,0,1,2,44,0,11],
 "d9/da5/GameTime_8cpp.html#a872d34d3f9d420cfc749073c809931f9":[7,0,0,0,1,2,44,0,2],
-"d9/da5/GameTime_8cpp.html#a874057035d37aa57afc5064acffba119":[7,0,0,0,1,2,44,0,9],
-"d9/da5/GameTime_8cpp.html#a9a28ffdb4bb387919d2dd70a51080ce0":[7,0,0,0,1,2,44,0,8]
+"d9/da5/GameTime_8cpp.html#a874057035d37aa57afc5064acffba119":[7,0,0,0,1,2,44,0,9]
 };

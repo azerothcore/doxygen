@@ -1561,7 +1561,8 @@ var SharedDefines_8h =
       [ "Disabled", "de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75ab9f5c797ebbf55adccdd8539a65a0241", null ],
       [ "NoCharacter", "de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75afa6a721b205c824b937f235bfead2055", null ],
       [ "LockedForTransfer", "de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75ab3189eed46e36120420600546d81e4d8", null ],
-      [ "LockedByBilling", "de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75acd1bcacb2170a31158e7564378f714b0", null ]
+      [ "LockedByBilling", "de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75acd1bcacb2170a31158e7564378f714b0", null ],
+      [ "UsingRemote", "de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75ad682ce19a5108b390b8142c280181d1c", null ]
     ] ],
     [ "LootModes", "de/d0a/SharedDefines_8h.html#aa7ea1b1c5f83714142d0ab23ddea3b44", [
       [ "LOOT_MODE_DEFAULT", "de/d0a/SharedDefines_8h.html#aa7ea1b1c5f83714142d0ab23ddea3b44a560af9c60a98958fda2a2a8a5f97a214", null ],

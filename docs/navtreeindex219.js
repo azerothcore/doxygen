@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1897,1],
 "d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2257],
 "d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2257,2],
 "d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2257,1],
@@ -60,8 +61,8 @@ var NAVTREEINDEX219 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,964,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,5,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,5,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,5,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,5,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,5,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,5,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,5,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1579],
@@ -248,6 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfa6ec10262dc2e8311b1ac9ca6d510cbf6":[7,0,0,0,1,3,2,1,2,0,6,8],
 "d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfa78ed4b47b79cd08aabb9b655256e8a02":[7,0,0,0,1,3,2,1,2,0,6,3],
 "d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfa848d513b1c682d90ac41e7d3082a852a":[7,0,0,0,1,3,2,1,2,0,6,5],
-"d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfaa0bead73520ed546966f6819fbd930cd":[7,0,0,0,1,3,2,1,2,0,6,6],
-"d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfac4721074356592da23a4529af848b78f":[7,0,0,0,1,3,2,1,2,0,6,10]
+"d8/d83/blackwing__lair_8h.html#a6c868993469921a4050cdd9cbc9e4abfaa0bead73520ed546966f6819fbd930cd":[7,0,0,0,1,3,2,1,2,0,6,6]
 };

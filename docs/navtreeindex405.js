@@ -1,5 +1,9 @@
 var NAVTREEINDEX405 =
 {
+"df/df6/structHealthCheckEventData.html#a787509d0963c134539e4dec7525b5608":[6,0,1262,9],
+"df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c":[6,0,1262,1],
+"df/df6/structHealthCheckEventData.html#aae2283a58be68424fbe01c37a29e1c5e":[6,0,1262,4],
+"df/df6/structHealthCheckEventData.html#abe8549b1e96fc3ea7e4154cd30ff5389":[6,0,1262,2],
 "df/df6/structHealthCheckEventData.html#ad23fcf00ca53ef2772185b2008a84de5":[6,0,1262,6],
 "df/df6/structHealthCheckEventData.html#aff327c455fbd912579725956c99c3a2d":[6,0,1262,5],
 "df/df7/boss__drakos_8cpp.html":[7,0,0,0,1,3,5,8,2,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX405 =
 "dir_c7e05c53196747da9983be071547f846.html":[7,0,0,0,1,3,7,0],
 "dir_c804a11c5cb2ec92995074d92081ceb0.html":[7,0,0,0,1,3,7,2,2],
 "dir_c818e5878076a3731e7c7d0d4061bd6b.html":[7,0,0,0,1,3,3],
-"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1],
-"dir_c8498b4bff487486cc5ffdac4c412cf7.html":[7,0,0,0,1,0],
-"dir_ca38c8f641e293b4dda7eec68c8e9454.html":[7,0,0,0,1,3,7,4,0],
-"dir_ca5ba42e50e3e5f9337c0c8d18fe983c.html":[7,0,0,0,1,3,4,4],
-"dir_cba61ad2b7214e5ed281a3632d359d7b.html":[7,0,0,0,1,0,1,2]
+"dir_c82f813a65ca3ac2a4f36b7f63ade20a.html":[7,0,0,0,1,2,11,1]
 };

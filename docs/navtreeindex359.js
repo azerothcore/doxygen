@@ -1,5 +1,9 @@
 var NAVTREEINDEX359 =
 {
+"de/d25/ObjectMgr_8h.html#a53b3cc2aa86f0b2b85e4bf5c6be3203a":[7,0,0,0,1,2,18,3,55],
+"de/d25/ObjectMgr_8h.html#a56de512074e494da452d4d4c243df7d8":[7,0,0,0,1,2,18,3,74],
+"de/d25/ObjectMgr_8h.html#a5e723b66ad85198f3b0625903f5edac6":[7,0,0,0,1,2,18,3,94],
+"de/d25/ObjectMgr_8h.html#a628c13edbfd025ca095cdd76a505bcc3":[7,0,0,0,1,2,18,3,48],
 "de/d25/ObjectMgr_8h.html#a67c5dcf85a804223c359aec2c1f64b50":[7,0,0,0,1,2,18,3,68],
 "de/d25/ObjectMgr_8h.html#a692ffe2a45110a63b66e0293f1d2aca0":[7,0,0,0,1,2,18,3,66],
 "de/d25/ObjectMgr_8h.html#a69bda637aad0ed6affa5026dc0ae10c9":[7,0,0,0,1,2,18,3,61],
@@ -245,9 +249,5 @@ var NAVTREEINDEX359 =
 "de/d2f/structFactionTemplateEntry.html#ac70cef62b2ec646d593d8742a3c02f08":[6,0,1034,2],
 "de/d2f/structFactionTemplateEntry.html#ae53f6799be5ae4bf7ab047fd97a4a969":[6,0,1034,6],
 "de/d2f/structFactionTemplateEntry.html#af0d102e7e7ae480b2c61cf121bcd012a":[6,0,1034,0],
-"de/d2f/structFactionTemplateEntry.html#af20e4983d34c419b4a14c60d8049d9f4":[6,0,1034,8],
-"de/d30/SpellMgr_8h.html":[7,0,0,0,1,2,41,9],
-"de/d30/SpellMgr_8h.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,9,76],
-"de/d30/SpellMgr_8h.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,9,75],
-"de/d30/SpellMgr_8h.html#a183ff5e89f6053b74daa4e3c73b28684":[7,0,0,0,1,2,41,9,38]
+"de/d2f/structFactionTemplateEntry.html#af20e4983d34c419b4a14c60d8049d9f4":[6,0,1034,8]
 };
