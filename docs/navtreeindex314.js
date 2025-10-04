@@ -1,5 +1,7 @@
 var NAVTREEINDEX314 =
 {
+"dc/da9/structboss__illidari__council__memberAI.html#a203310b84d71a24145b1c39e7faff182":[6,0,547,2],
+"dc/da9/structboss__illidari__council__memberAI.html#a5c43bfb6e1781a83bfad36668ac724f2":[6,0,547,5],
 "dc/da9/structboss__illidari__council__memberAI.html#a8e75d47f56d14d9b66d10b74c3479839":[6,0,547,7],
 "dc/da9/structboss__illidari__council__memberAI.html#a9bf2376cd75e0dc825de3839eda857eb":[6,0,547,3],
 "dc/da9/structboss__illidari__council__memberAI.html#aa0cb7a373d521038e8e41e354f6bc3f7":[6,0,547,6],
@@ -22,8 +24,8 @@ var NAVTREEINDEX314 =
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,11,7,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,31,7,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,11,7,0,6],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,11,7,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,31,7,0,1],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,11,7,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,31,7,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,11,7,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,31,7,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX314 =
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1":[7,0,0,0,1,3,7,2,2,1,1,9],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a9aa3518f4196a7c844ab6ffafbc91068":[7,0,0,0,1,3,7,2,2,1,2],
 "dc/db3/structnpc__dark__iron__guzzler.html":[6,0,1732],
-"dc/db3/structnpc__dark__iron__guzzler.html#a018513f23158fcd6f929a90cfecfde4c":[6,0,1732,6],
-"dc/db3/structnpc__dark__iron__guzzler.html#a076305d37ce348b24b35f7956385e8fc":[6,0,1732,4],
-"dc/db3/structnpc__dark__iron__guzzler.html#a18a1d7e61b99819666366c6791154e01":[6,0,1732,13]
+"dc/db3/structnpc__dark__iron__guzzler.html#a018513f23158fcd6f929a90cfecfde4c":[6,0,1732,6]
 };

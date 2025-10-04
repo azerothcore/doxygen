@@ -1,5 +1,7 @@
 var NAVTREEINDEX306 =
 {
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a6c88f2f38d3072f5192fc0b9bd2c6e04":[6,0,372,0,7],
+"dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a79138cf6c886c843544b948778f91145":[6,0,372,0,4],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a80aaeb0ce3a5fe101aedbdfc2489bafe":[6,0,372,0,10],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#a9ec61ccf9984a9a68091ca9fba7582df":[6,0,372,0,5],
 "dc/d34/structboss__ambassador__flamelash_1_1boss__ambassador__flamelashAI.html#ae2dd71a0edfc489645de130a8b731392":[6,0,372,0,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3073],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3073,3],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3073,2],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3073,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3073,0],
-"dc/d44/classspell__sha__flurry__proc.html":[6,0,3793]
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3073,1]
 };

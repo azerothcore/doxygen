@@ -1,10 +1,11 @@
 var NAVTREEINDEX132 =
 {
+"d4/d99/classMovement_1_1MoveSplineInit.html#af667cfb398e7048e20960ec92ad050cd":[6,0,7,8,14],
 "d4/d99/classMovement_1_1MoveSplineInit.html#af667cfb398e7048e20960ec92ad050cd":[5,0,21,8,14],
-"d4/d99/classMovement_1_1MoveSplineInit.html#af8fe59057046110c0f036101a51f0fbd":[6,0,7,8,25],
 "d4/d99/classMovement_1_1MoveSplineInit.html#af8fe59057046110c0f036101a51f0fbd":[5,0,21,8,25],
-"d4/d99/classMovement_1_1MoveSplineInit.html#afe85fd38450d1f8ca0e6d5f305cbd7fd":[5,0,21,8,15],
+"d4/d99/classMovement_1_1MoveSplineInit.html#af8fe59057046110c0f036101a51f0fbd":[6,0,7,8,25],
 "d4/d99/classMovement_1_1MoveSplineInit.html#afe85fd38450d1f8ca0e6d5f305cbd7fd":[6,0,7,8,15],
+"d4/d99/classMovement_1_1MoveSplineInit.html#afe85fd38450d1f8ca0e6d5f305cbd7fd":[5,0,21,8,15],
 "d4/d99/classnpc__avatar__of__freya.html":[6,0,1623],
 "d4/d99/classnpc__avatar__of__freya.html#a020e8e41b32eb65ff906c9ca934a03fe":[6,0,1623,1],
 "d4/d99/classnpc__avatar__of__freya.html#a3a6c4f6d8f05d606c6f545d91acdb2c1":[6,0,1623,0],
@@ -221,8 +222,8 @@ var NAVTREEINDEX132 =
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
-"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
+"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/da3/classboss__grobbulus.html#acf1b781e86e33a363b68354d34d3c015":[6,0,510,1],
 "d4/da3/classboss__grobbulus.html#ae918614566a0b9979aef4e1aeaac394c":[6,0,510,2],
 "d4/da4/classspell__ulduar__squeezed__lifeless.html":[6,0,3940],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#a46f2c2658e6b55f091bf8894f06a787c":[6,0,3940,2],
-"d4/da4/classspell__ulduar__squeezed__lifeless.html#a593786eb89bf77e05dad4b502ffc1925":[6,0,3940,0]
+"d4/da4/classspell__ulduar__squeezed__lifeless.html#a46f2c2658e6b55f091bf8894f06a787c":[6,0,3940,2]
 };

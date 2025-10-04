@@ -1,5 +1,7 @@
 var NAVTREEINDEX369 =
 {
+"de/d8f/classspell__dk__blood__caked__blade.html#a88277eeea14f7799e27a4a897e6e8c0c":[6,0,2758,2],
+"de/d8f/classspell__dk__blood__caked__blade.html#a8a3eab47b8214b59275aeaa8a02e4240":[6,0,2758,1],
 "de/d90/InstanceMapScript_8cpp.html":[7,0,0,0,1,2,38,0,57],
 "de/d90/InstanceMapScript_8cpp.html#a1271f70bb9300f8012216659f38edaee":[7,0,0,0,1,2,38,0,57,0],
 "de/d90/OutdoorPvPZM_8h.html":[7,0,0,0,1,3,6,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX369 =
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b":[7,0,0,0,1,3,4,32,5,0],
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7":[7,0,0,0,1,3,4,32,5,10],
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484":[7,0,0,0,1,3,4,32,5,7],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9":[7,0,0,0,1,3,4,32,5,9],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b":[7,0,0,0,1,3,4,32,5,5],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64":[7,0,0,0,1,3,4,32,5,3]
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9":[7,0,0,0,1,3,4,32,5,9]
 };

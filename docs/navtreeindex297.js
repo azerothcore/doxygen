@@ -1,5 +1,7 @@
 var NAVTREEINDEX297 =
 {
+"db/dec/classspell__midsummer__ribbon__pole__firework.html#af219083d127afe24b2541a95bfd449ff":[6,0,3456,0],
+"db/dec/instance__violet__hold_8cpp.html":[7,0,0,0,1,3,5,12,7],
 "db/dec/instance__violet__hold_8cpp.html#a3d339190942c6b50cafaf9780d32ffb4":[7,0,0,0,1,3,5,12,7,3],
 "db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65":[7,0,0,0,1,3,5,12,7,2],
 "db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65a009be97ca2bddcb508aeed20f057fd61":[7,0,0,0,1,3,5,12,7,2,2],
@@ -116,14 +118,14 @@ var NAVTREEINDEX297 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1526,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,5,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,5,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,5,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,5,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,5,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,5,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,5,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,5,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,5,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,5,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,5,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3176],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3176,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3176,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX297 =
 "db/df4/classspell__hodir__biting__cold__player__aura.html#aa62be73e00d9cb512806787eaf1c4144":[6,0,3097,0],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#ab31989a4abd6b5cb08818b0e082c7d9f":[6,0,3097,1],
 "db/df4/classspell__hodir__biting__cold__player__aura.html#ad9664bff267b330565d3c706e1752e9d":[6,0,3097,2],
-"db/df4/classspell__hodir__biting__cold__player__aura.html#ad971837f4f0da07b21271fb2b5ac1715":[6,0,3097,3],
-"db/df4/structTransportRotationEntry.html":[6,0,4194],
-"db/df4/structTransportRotationEntry.html#a16782e722a5bada41691841fe594b7a6":[6,0,4194,0]
+"db/df4/classspell__hodir__biting__cold__player__aura.html#ad971837f4f0da07b21271fb2b5ac1715":[6,0,3097,3]
 };

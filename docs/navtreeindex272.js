@@ -1,5 +1,11 @@
 var NAVTREEINDEX272 =
 {
+"da/de9/classspell__item__noggenfogger__elixir.html":[6,0,3286],
+"da/de9/classspell__item__noggenfogger__elixir.html#a0385a22f908ac62ab987fe9f84cad330":[6,0,3286,2],
+"da/de9/classspell__item__noggenfogger__elixir.html#a1212726a4fcbac06b527648dff58c546":[6,0,3286,3],
+"da/de9/classspell__item__noggenfogger__elixir.html#ab014db76cf4656e10665f12fb18c5997":[6,0,3286,4],
+"da/de9/classspell__item__noggenfogger__elixir.html#ac6db67f521a8fd1e8de4cd22220b45fe":[6,0,3286,0],
+"da/de9/classspell__item__noggenfogger__elixir.html#af767de9953372e5e56509a0be9e90958":[6,0,3286,1],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,4,0,0],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a33a5e996e7a90acefb8b1c0bea47e365":[7,0,0,0,3,4,0,0,10],
 "da/de9/vmap4__extractor_2loadlib_2loadlib_8h.html#a7cde0074dfd288f2d70c0e035dacb28a":[7,0,0,0,3,4,0,0,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX272 =
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaa57c56a0afc1fe774f661feddaaa1739":[7,0,0,0,1,0,0,0,1,0,24],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaaa299fabdc18e5c6c89cf53c18f039b9":[7,0,0,0,1,0,0,0,1,0,18],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceac6b47ed0785815782ffcaa9ddcc61f34":[7,0,0,0,1,0,0,0,1,0,5],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d":[7,0,0,0,1,0,0,0,1,0,9],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceaf7e9abc937534a7f909fcb07b744942d":[7,0,0,0,1,0,0,0,1,0,7],
-"da/df4/AuthCodes_8h.html#a96896fc9dad2c304f681a24776f6726b":[7,0,0,0,1,0,0,0,1,5],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2":[7,0,0,0,1,0,0,0,1,1],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2ac848c9323f3ff5625ac2122c586c09bb":[7,0,0,0,1,0,0,0,1,1,0],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2ad8e812d2ea9331912047df7fce86831d":[7,0,0,0,1,0,0,0,1,1,2],
-"da/df4/AuthCodes_8h.html#aa4677c9d14c49d7eb90bf81f278756e2aeee886490e199b04b3ef987de2fefb64":[7,0,0,0,1,0,0,0,1,1,1]
+"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fceae2aacd0fb4634fa66489baa619e4955d":[7,0,0,0,1,0,0,0,1,0,9]
 };

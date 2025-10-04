@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac41880d016fa8fd7dce6578173c55e3a":[7,0,0,0,1,2,48,7,0,282],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac419fe26d11bc75d1330fbf43fb3ce3b":[7,0,0,0,1,2,48,7,0,429],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac44c34b3a18bb02fc03973b719699c08":[7,0,0,0,1,2,48,7,0,172],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac47c72c9d07f9764ad42845581411983":[7,0,0,0,1,2,48,7,0,503],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d4f/classachievement__staying__buffed__all__winter__10.html#a40afd6db0bf6cff2b9b6163b7d4c31da":[6,0,93,0],
 "d3/d4f/classachievement__staying__buffed__all__winter__10.html#a67587b1659a8d026e73b42311148541a":[6,0,93,1],
 "d3/d4f/classnpc__alchemist__adrianna.html":[6,0,1580],
-"d3/d4f/classnpc__alchemist__adrianna.html#a02ec6a66037d72e30bbe821ceee38691":[6,0,1580,1],
-"d3/d4f/classnpc__alchemist__adrianna.html#a310d375bc73c51e407580b063a6543fa":[6,0,1580,0]
+"d3/d4f/classnpc__alchemist__adrianna.html#a02ec6a66037d72e30bbe821ceee38691":[6,0,1580,1]
 };

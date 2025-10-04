@@ -1,5 +1,11 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0262850db660d2366c7fa07991153ca1":[7,0,0,0,1,3,10,13,1,14],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a05a2ec2642f23a2cbd150ba71ef2df04":[7,0,0,0,1,3,10,13,1,6],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4d9ed0038709b80dbbb68a7d3abd091e":[7,0,0,0,1,3,10,13,1,13],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a67d73daa85947d4f135f5342a1fbbb86":[7,0,0,0,1,3,10,13,1,12],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8c11512197ac7cf230e9af958c3e3db4":[7,0,0,0,1,3,10,13,1,0],
+"d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa34f27f6313f335110d9a9271dd87e85":[7,0,0,0,1,3,10,13,1,10],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aae268b0c35a399f6e7b0a135646316f0":[7,0,0,0,1,3,10,13,1,5],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8fa214b55ea772749b0bd654d205971":[7,0,0,0,1,3,10,13,1,4],
 "d9/dc7/npc__taxi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abe64374ca36158d4ed929191d707aac7":[7,0,0,0,1,3,10,13,1,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX244 =
 "d9/dda/structPositionTrait_3_01GameObjectModel_01_4.html#a492d4a0b0071bfa4a57d4ce643a435df":[6,0,2441,0],
 "d9/ddb/ObjectVisibilityContainer_8h.html":[7,0,0,0,1,2,16,5,9],
 "d9/ddb/ObjectVisibilityContainer_8h.html#a52b38df575afa7eef8fb58759ee03bd8":[7,0,0,0,1,2,16,5,9,1],
-"d9/ddb/ObjectVisibilityContainer_8h.html#a6fe979433a4dd2c9023626ecc74bf6a5":[7,0,0,0,1,2,16,5,9,2],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html":[7,0,0,0,1,2,16,4,4],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a25026e783b088b45eebd4db8295b1b87":[7,0,0,0,1,2,16,4,4,3],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a376fabf7bba54eaf928217f860f1c33b":[7,0,0,0,1,2,16,4,4,5],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a6aeb6f30f019ca8d9839fcf41beb1ac7":[7,0,0,0,1,2,16,4,4,6],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#a76d03c9ceb2d3ac35582eaea4624544f":[7,0,0,0,1,2,16,4,4,4],
-"d9/ddc/ItemEnchantmentMgr_8cpp.html#ab462bc366dd954f1c0b539c408b74c01":[7,0,0,0,1,2,16,4,4,1]
+"d9/ddb/ObjectVisibilityContainer_8h.html#a6fe979433a4dd2c9023626ecc74bf6a5":[7,0,0,0,1,2,16,5,9,2]
 };

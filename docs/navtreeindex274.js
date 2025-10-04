@@ -1,5 +1,11 @@
 var NAVTREEINDEX274 =
 {
+"db/d03/classboss__sartharion.html":[6,0,683],
+"db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,683,1],
+"db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,683,2],
+"db/d03/classspell__gen__model__visible.html":[6,0,2985],
+"db/d03/classspell__gen__model__visible.html#a1527c59b43a26db344e5a4d2900ea9b0":[6,0,2985,2],
+"db/d03/classspell__gen__model__visible.html#a28c06ecd352466e0d1076d9eb4fa8e9b":[6,0,2985,5],
 "db/d03/classspell__gen__model__visible.html#ab0de0c0459d3414f69a0dde7669b6f79":[6,0,2985,3],
 "db/d03/classspell__gen__model__visible.html#ac977d07e0b054af33345538f10d80c56":[6,0,2985,0],
 "db/d03/classspell__gen__model__visible.html#acd9c460acb60eae5db8874c246014147":[6,0,2985,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX274 =
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a0e14a306db46e817e6d8f7a358519f83":[6,0,2306,0,1],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a142359bf1661542d044a7d27b764832b":[6,0,2306,0,2],
 "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a17c00619bcf5818e49f67d4d8b8b35b0":[6,0,2306,0,4],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2":[6,0,2306,0,5],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a4e17e9642ec11712652f41495974b716":[6,0,2306,0,3],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a60212e1504bcb6f7db05ba5ed09df71f":[6,0,2306,0,7],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a95e8039b174f6db267197e04b6bd2dd2":[6,0,2306,0,0],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af2c272de51aa15a41af9837f99256a62":[6,0,2306,0,8],
-"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#af5a9e355c2a5a927d38ea22fe96d89f0":[6,0,2306,0,6],
-"db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4]
+"db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2":[6,0,2306,0,5]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX51 =
 {
+"d2/d1b/classWorldSocket.html#a5f6a4aa9fc5b0a2bc3284485b078cf12":[6,0,4316,21],
+"d2/d1b/classWorldSocket.html#a60c43563ba97403b807822c3d5070a6a":[6,0,4316,13],
+"d2/d1b/classWorldSocket.html#a62eb40d8a6ed9793092982ffc9832572":[6,0,4316,33],
+"d2/d1b/classWorldSocket.html#a7a58e6bff13926de4109a338a9e9f37f":[6,0,4316,30],
 "d2/d1b/classWorldSocket.html#a7c2143888fdf82a284f340fd700b7124":[6,0,4316,29],
 "d2/d1b/classWorldSocket.html#a7e5bd5454c788e5e71057996734f12e8":[6,0,4316,9],
 "d2/d1b/classWorldSocket.html#a7f66197c2456497e6c010853881a9695":[6,0,4316,34],
@@ -219,18 +223,18 @@ var NAVTREEINDEX51 =
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[6,0,11,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[6,0,11,5,5,2],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a249a204f5d72d42f562c989b1cb92fc9":[5,0,31,5,5,2],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,31,5,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[6,0,11,5,5,3],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[6,0,11,5,5,8],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a3ca816132a756d3dc939877c57f6045d":[5,0,31,5,5,3],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[5,0,31,5,5,8],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,31,5,5,4],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a55545d4d1b752e4f08bd05350b22892c":[6,0,11,5,5,8],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[6,0,11,5,5,4],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a5dc7e8b40834dba07c63322d80ed73ae":[5,0,31,5,5,4],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[5,0,31,5,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9":[6,0,11,5,5,1],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,31,5,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[6,0,11,5,5,5],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[6,0,11,5,5,0],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[5,0,31,5,5,0],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[6,0,11,5,5,0],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[5,0,31,5,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[6,0,11,5,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[5,0,31,5,5,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX51 =
 "d2/d21/boss__infinite_8cpp.html":[7,0,0,0,1,3,4,1,1,1],
 "d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,1,4],
 "d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,1,1,4,1],
-"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2ae4e6a98f2ff50cacca426b400367dd":[7,0,0,0,1,3,4,1,1,1,4,3],
-"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,1,1,4,0],
-"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a636ac4f9a79661edee736d7f55288204":[7,0,0,0,1,3,4,1,1,1,4,2],
-"d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,1,3],
-"d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298ca76a999851a14a46f9224410246330d96":[7,0,0,0,1,3,4,1,1,1,3,0]
+"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2ae4e6a98f2ff50cacca426b400367dd":[7,0,0,0,1,3,4,1,1,1,4,3]
 };

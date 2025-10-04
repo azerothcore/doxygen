@@ -1,5 +1,6 @@
 var NAVTREEINDEX165 =
 {
+"d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[6,0,3070,4],
 "d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[6,0,3070,3],
 "d6/d1f/classspell__halion__marks__aura.html#aeef9d928c6a8739337251e144558b169":[6,0,3070,5],
 "d6/d21/ArenaTeamScript_8h.html":[7,0,0,0,1,2,38,0,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d2a/classinstance__wailing__caverns.html#a906f59c39f59237e9eedb479dfc7d825":[6,0,1357,1],
 "d6/d2a/classspell__sha__item__lightning__shield.html":[6,0,3796],
 "d6/d2a/classspell__sha__item__lightning__shield.html#a096f4ecd857cc642ff1d1e5119933921":[6,0,3796,2],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[6,0,3796,3],
-"d6/d2a/classspell__sha__item__lightning__shield.html#a3878044c77e9560bcc7d531d5c119e0f":[6,0,3796,0]
+"d6/d2a/classspell__sha__item__lightning__shield.html#a1592084736ebe5b10a343aee4dba8050":[6,0,3796,3]
 };

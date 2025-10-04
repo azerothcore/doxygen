@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d6/d38/classAchievementGlobalMgr.html#a5057e0b9b55f64716949c2b3e443a705":[6,0,115,35],
 "d6/d38/classAchievementGlobalMgr.html#a5350b38399c758ed6af49d4526b65d5e":[6,0,115,16],
 "d6/d38/classAchievementGlobalMgr.html#a5858c3ad8ef6b24f9ce60b731c5caad2":[6,0,115,3],
 "d6/d38/classAchievementGlobalMgr.html#a5999c47a86e58fd7b5437da05385d59a":[6,0,115,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a04f09361f6bc4bc752ca773878187f79":[6,0,1908,0,0],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a0fa884bf3003267501f048d3f1287d42":[6,0,1908,0,11],
 "d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a1b1757dd6e0775f1f4791b4feafd86fb":[6,0,1908,0,9],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a3515e873adf5a097f66764887e3cc5a3":[6,0,1908,0,4],
-"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a4edf558dbc54ff1acab15d6daf0a5613":[6,0,1908,0,10]
+"d6/d3c/structnpc__jungle__punch__target_1_1npc__jungle__punch__targetAI.html#a3515e873adf5a097f66764887e3cc5a3":[6,0,1908,0,4]
 };

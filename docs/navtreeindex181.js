@@ -1,7 +1,8 @@
 var NAVTREEINDEX181 =
 {
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[6,0,11,13,0,2],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[6,0,11,13,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[5,0,31,13,0,2],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[6,0,11,13,0,2],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[6,0,11,13,0,6],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[5,0,31,13,0,6],
 "d6/dd8/classboss__arlokk.html":[6,0,385],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca1c75bdb2d8f74e9c82be27ff56c2e08f":[7,0,0,0,1,3,2,12,2,9,6],
 "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d42ce1be721513f7f1cd5f283d900cf":[7,0,0,0,1,3,2,12,2,9,15],
 "d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca422840d814bc81a60a9882a064129ccd":[7,0,0,0,1,3,2,12,2,9,16],
-"d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca600ceefecbba53f85f3897c50e5bbe0d":[7,0,0,0,1,3,2,12,2,9,7],
-"d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca686771a2a35ebe34ae5bd00751ceba92":[7,0,0,0,1,3,2,12,2,9,18]
+"d6/de9/boss__felmyst_8cpp.html#a5bd342133be8c2137b831460acc9298ca600ceefecbba53f85f3897c50e5bbe0d":[7,0,0,0,1,3,2,12,2,9,7]
 };

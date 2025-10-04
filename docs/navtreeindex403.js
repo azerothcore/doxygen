@@ -1,5 +1,11 @@
 var NAVTREEINDEX403 =
 {
+"df/ddc/classTaskScheduler.html#a32b427f48c112891c6914243975d75e5":[6,0,4152,44],
+"df/ddc/classTaskScheduler.html#a34a5818482e3b5c4dd804c559badc988":[6,0,4152,31],
+"df/ddc/classTaskScheduler.html#a35107fe7973581813395a168025f4602":[6,0,4152,16],
+"df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9":[6,0,4152,48],
+"df/ddc/classTaskScheduler.html#a3abfcecb4541a2847c27c90d0f090c29":[6,0,4152,47],
+"df/ddc/classTaskScheduler.html#a3b2df04710a7d6a4d15e0776eb077920":[6,0,4152,46],
 "df/ddc/classTaskScheduler.html#a3b51566771e127c2d8b59b69aa441c3e":[6,0,4152,9],
 "df/ddc/classTaskScheduler.html#a506cce7f63a31174db2b929982e8f658":[6,0,4152,54],
 "df/ddc/classTaskScheduler.html#a529b1284294a63217e3f9fa56c170743":[6,0,4152,10],
@@ -60,8 +66,8 @@ var NAVTREEINDEX403 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX403 =
 "df/deb/structboss__grizzle_1_1boss__grizzleAI.html#aa392b5a5db08d8676614923ae4838d05":[6,0,509,0,3],
 "df/dec/classnpc__cos__stratholme__citizien.html":[6,0,1706],
 "df/dec/classnpc__cos__stratholme__citizien.html#a4f5f132b903241021a4e53dd60c0f43b":[6,0,1706,2],
-"df/dec/classnpc__cos__stratholme__citizien.html#a92f8d88ecfa9cc47d6799107e5de0107":[6,0,1706,1],
-"df/dec/classspell__algalon__supermassive__fail.html":[6,0,2605],
-"df/dec/classspell__algalon__supermassive__fail.html#a54c26d24f62c36108f9fceb7a0c53e37":[6,0,2605,1],
-"df/dec/classspell__algalon__supermassive__fail.html#aac131aa2d2e5342cf0303b918a077b45":[6,0,2605,2],
-"df/dec/classspell__algalon__supermassive__fail.html#af280f3880e2e567188ba8ca3e45c00c0":[6,0,2605,0],
-"df/ded/classnpc__tortured__rifleman.html":[6,0,2210],
-"df/ded/classnpc__tortured__rifleman.html#a32e4164864c3873b3684ad531a2e924a":[6,0,2210,1]
+"df/dec/classnpc__cos__stratholme__citizien.html#a92f8d88ecfa9cc47d6799107e5de0107":[6,0,1706,1]
 };

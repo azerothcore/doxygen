@@ -1,5 +1,9 @@
 var NAVTREEINDEX52 =
 {
+"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,1,1,4,0],
+"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a636ac4f9a79661edee736d7f55288204":[7,0,0,0,1,3,4,1,1,1,4,2],
+"d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,1,3],
+"d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298ca76a999851a14a46f9224410246330d96":[7,0,0,0,1,3,4,1,1,1,3,0],
 "d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298caaafb436f3d319528c49566d80fa0a847":[7,0,0,0,1,3,4,1,1,1,3,2],
 "d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298cacb6598caeaa1ac28bd3bbff89e638890":[7,0,0,0,1,3,4,1,1,1,3,1],
 "d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298caece08fa024dea0628f85476990e6f85f":[7,0,0,0,1,3,4,1,1,1,3,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaab43f4c6841032578ec09ee87ff279bf":[7,0,0,0,1,2,36,2,21,5],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedac2c8698c4a2f6fc698323b700ce7c1f4":[7,0,0,0,1,2,36,2,21,6],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedadb3dfef23e8aff7d9e91e0d6ddc6b7d1":[7,0,0,0,1,2,36,2,21,4],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaf8423750a58d8e63bfb7ea95c6919aed":[7,0,0,0,1,2,36,2,21,8],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaffb007d66bf0c7f4c9329ccedd9ef888":[7,0,0,0,1,2,36,2,21,9],
-"d2/d27/QuestDef_8h.html#a5b538720bd7de8c4468dc6d21b412f10":[7,0,0,0,1,2,36,2,8],
-"d2/d27/QuestDef_8h.html#a63297dd973bbf1f493882c44e7b32d75":[7,0,0,0,1,2,36,2,7],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6c":[7,0,0,0,1,2,36,2,17]
+"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaf8423750a58d8e63bfb7ea95c6919aed":[7,0,0,0,1,2,36,2,21,8]
 };

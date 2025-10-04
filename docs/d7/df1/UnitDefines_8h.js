@@ -59,6 +59,7 @@ var UnitDefines_8h =
       [ "MOVEMENTFLAG_MASK_TURNING", "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daa2e9ddee8dbec3c72868b748635f090d", null ],
       [ "MOVEMENTFLAG_MASK_MOVING_FLY", "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9dabe2f5551fe3132011452e1fb1ab3a6f8", null ],
       [ "MOVEMENTFLAG_MASK_PLAYER_ONLY", "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da025fc8349887310b1f1e564e7be468c2", null ],
+      [ "MOVEMENTFLAG_MASK_MOVING_OR_TURN", "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da22fb4e714d734c4f411b5ff8e75a94c8", null ],
       [ "MOVEMENTFLAG_MASK_HAS_PLAYER_STATUS_OPCODE", "d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9dac6905d70fe051120241f4749882e5a2c", null ]
     ] ],
     [ "MovementFlags2", "d7/df1/UnitDefines_8h.html#ad49d5d051bf6daf8c3608ad96b3d472f", [

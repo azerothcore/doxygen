@@ -1,5 +1,6 @@
 var NAVTREEINDEX192 =
 {
+"d7/d6b/classUtherBatteredHiltEvent.html#a7bb34b75a3e371260a231aea72f75b40":[6,0,4230,0],
 "d7/d6b/classUtherBatteredHiltEvent.html#ad2eb37877155b6dbc9916338e30d0306":[6,0,4230,1],
 "d7/d6b/instance__the__eye_8cpp.html":[7,0,0,0,1,3,7,5,2,4],
 "d7/d6b/instance__the__eye_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,7,5,2,4,7],
@@ -135,10 +136,10 @@ var NAVTREEINDEX192 =
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[5,0,1,69],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[6,0,0,57,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[5,0,1,69,3],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,1,69,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[6,0,0,57,1],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,69,2],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,1,69,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[6,0,0,57,2],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,69,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[6,0,0,57,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,1,69,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,57,5],
@@ -189,14 +190,14 @@ var NAVTREEINDEX192 =
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#aab87f0308fc4546718bcb5209f69764d":[6,0,740,0,12],
 "d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,37],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,37,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,31,2,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,11,2,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,31,2,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,11,2,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,31,2,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,31,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,2,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,31,2,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,11,2,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,31,2,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3651],
@@ -248,6 +249,5 @@ var NAVTREEINDEX192 =
 "d7/d83/WheatyExceptionReport_8h.html#a2c952cc0fe3c670bb1d829b51e483755":[7,0,0,0,0,5,3,4],
 "d7/d83/WheatyExceptionReport_8h.html#a5562a6136a28726d82fc486fd3b81ab1":[7,0,0,0,0,5,3,6],
 "d7/d83/WheatyExceptionReport_8h.html#a5ca750f3bbda2b3eab451528de39aa3c":[7,0,0,0,0,5,3,5],
-"d7/d83/WheatyExceptionReport_8h.html#a5fe525a539348aba0a42a9832dfceef1":[7,0,0,0,0,5,3,8],
-"d7/d83/WheatyExceptionReport_8h.html#a8b8500b4792f1666a4ae9b19ce264875":[7,0,0,0,0,5,3,3]
+"d7/d83/WheatyExceptionReport_8h.html#a5fe525a539348aba0a42a9832dfceef1":[7,0,0,0,0,5,3,8]
 };

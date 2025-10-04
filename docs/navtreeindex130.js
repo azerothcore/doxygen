@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2664,3],
 "d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2664,2],
 "d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2664,0],
 "d4/d82/structboss__ambassador__hellmaw.html":[6,0,373],
@@ -126,8 +127,8 @@ var NAVTREEINDEX130 =
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,851],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1a93e3f262a737b13e135460a00fbe0246":[7,0,0,0,1,3,7,1,6,9,5],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1a99fc2ff738fb6e03af9d7990f59297d0":[7,0,0,0,1,3,7,1,6,9,0],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aa18876c50b4e379d7ae395007fd0d915":[7,0,0,0,1,3,7,1,6,9,1],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aecd476d2379264974ffe4fd995e527b8":[7,0,0,0,1,3,7,1,6,9,2],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,7,1,6,7]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a16774215bba3b38580ea51987d64cff1aecd476d2379264974ffe4fd995e527b8":[7,0,0,0,1,3,7,1,6,9,2]
 };

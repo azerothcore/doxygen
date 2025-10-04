@@ -105,6 +105,11 @@ var Unit_8h =
       [ "DIMINISHING_LEVEL_4", "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a6a87e4624cd0ceb45668005528094937", null ],
       [ "DIMINISHING_LEVEL_TAUNT_IMMUNE", "d1/daf/Unit_8h.html#aa8baff9cbdf61bbb483c1e7ae739f930a955f8a1e9b85ae1f13831001779d0dc9", null ]
     ] ],
+    [ "DualWieldMode", "d1/daf/Unit_8h.html#a1769e25b63c7fa4ad80ea05008afacee", [
+      [ "AUTO", "d1/daf/Unit_8h.html#a1769e25b63c7fa4ad80ea05008afaceeae1f2d5134ed2543d38a0de9751cf75d9", null ],
+      [ "DISABLED", "d1/daf/Unit_8h.html#a1769e25b63c7fa4ad80ea05008afaceea055c1a591abb0e8cd86dc969727bcc0b", null ],
+      [ "ENABLED", "d1/daf/Unit_8h.html#a1769e25b63c7fa4ad80ea05008afaceeac8cf6eea8f096ed51160b484d97c5bbd", null ]
+    ] ],
     [ "ExtraAttackSpells", "d1/daf/Unit_8h.html#acbae0b3833c77496bf4cff9429476408", [
       [ "SPELL_SWORD_SPECIALIZATION", "d1/daf/Unit_8h.html#acbae0b3833c77496bf4cff9429476408a808f9b7965f5d2344868b2bb70497a8d", null ],
       [ "SPELL_HACK_AND_SLASH", "d1/daf/Unit_8h.html#acbae0b3833c77496bf4cff9429476408a1e08998d2114a6246cdee19d526a55d2", null ]

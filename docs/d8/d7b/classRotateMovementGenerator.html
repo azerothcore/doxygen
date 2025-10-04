@@ -241,9 +241,9 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:141</div></div>
 <div class="ttc" id="aclassObject_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition</b> Object.h:205</div></div>
 <div class="ttc" id="aclassObject_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition</b> Object.h:206</div></div>
-<div class="ttc" id="aclassUnit_html_a0234fee1df2999bda3ca22449164f7b5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">Unit::ClearUnitState</a></div><div class="ttdeci">void ClearUnitState(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:692</div></div>
+<div class="ttc" id="aclassUnit_html_a0234fee1df2999bda3ca22449164f7b5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">Unit::ClearUnitState</a></div><div class="ttdeci">void ClearUnitState(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:699</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00692">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l00161">CreatureAI::MovementInform()</a>, <a class="el" href="../../#l00055">ROTATE_MOTION_TYPE</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00190">UNIT_STATE_ROTATING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00141">Creature::AI()</a>, <a class="el" href="../../#l00699">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l00161">CreatureAI::MovementInform()</a>, <a class="el" href="../../#l00055">ROTATE_MOTION_TYPE</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00190">UNIT_STATE_ROTATING</a>.</p>
 
 </div>
 </div>
@@ -313,14 +313,14 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   44</span> </div>
 <div class="line"><span class="lineno">   45</span>    owner-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aee07e22b70ed433a845b0673579d5fee">AttackStop</a>();</div>
 <div class="line"><span class="lineno">   46</span>}</div>
-<div class="ttc" id="aclassUnit_html_a03b7d419687e45a3dd0a1fc4f94398b3"><div class="ttname"><a href="../../df/dd9/classUnit.html#a03b7d419687e45a3dd0a1fc4f94398b3">Unit::IsStopped</a></div><div class="ttdeci">bool IsStopped() const</div><div class="ttdef"><b>Definition</b> Unit.h:1680</div></div>
-<div class="ttc" id="aclassUnit_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16733</div></div>
-<div class="ttc" id="aclassUnit_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../df/dd9/classUnit.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:690</div></div>
-<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:850</div></div>
-<div class="ttc" id="aclassUnit_html_ae2ce6a171e27e575ad183809a78286ae"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae2ce6a171e27e575ad183809a78286ae">Unit::SetInFront</a></div><div class="ttdeci">void SetInFront(WorldObject const *target)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20363</div></div>
-<div class="ttc" id="aclassUnit_html_aee07e22b70ed433a845b0673579d5fee"><div class="ttname"><a href="../../df/dd9/classUnit.html#aee07e22b70ed433a845b0673579d5fee">Unit::AttackStop</a></div><div class="ttdeci">bool AttackStop()</div><div class="ttdoc">Force the unit to stop attacking. This will clear UNIT_STATE_MELEE_ATTACKING, Interrupt current spell...</div><div class="ttdef"><b>Definition</b> Unit.cpp:10498</div></div>
+<div class="ttc" id="aclassUnit_html_a03b7d419687e45a3dd0a1fc4f94398b3"><div class="ttname"><a href="../../df/dd9/classUnit.html#a03b7d419687e45a3dd0a1fc4f94398b3">Unit::IsStopped</a></div><div class="ttdeci">bool IsStopped() const</div><div class="ttdef"><b>Definition</b> Unit.h:1694</div></div>
+<div class="ttc" id="aclassUnit_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16735</div></div>
+<div class="ttc" id="aclassUnit_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../df/dd9/classUnit.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition</b> Unit.h:697</div></div>
+<div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:863</div></div>
+<div class="ttc" id="aclassUnit_html_ae2ce6a171e27e575ad183809a78286ae"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae2ce6a171e27e575ad183809a78286ae">Unit::SetInFront</a></div><div class="ttdeci">void SetInFront(WorldObject const *target)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20371</div></div>
+<div class="ttc" id="aclassUnit_html_aee07e22b70ed433a845b0673579d5fee"><div class="ttname"><a href="../../df/dd9/classUnit.html#aee07e22b70ed433a845b0673579d5fee">Unit::AttackStop</a></div><div class="ttdeci">bool AttackStop()</div><div class="ttdoc">Force the unit to stop attacking. This will clear UNIT_STATE_MELEE_ATTACKING, Interrupt current spell...</div><div class="ttdef"><b>Definition</b> Unit.cpp:10496</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00690">Unit::AddUnitState()</a>, <a class="el" href="../../#l10498">Unit::AttackStop()</a>, <a class="el" href="../../#l00850">Unit::GetVictim()</a>, <a class="el" href="../../#l01680">Unit::IsStopped()</a>, <a class="el" href="../../#l20363">Unit::SetInFront()</a>, <a class="el" href="../../#l16733">Unit::StopMoving()</a>, and <a class="el" href="../../#l00190">UNIT_STATE_ROTATING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00697">Unit::AddUnitState()</a>, <a class="el" href="../../#l10496">Unit::AttackStop()</a>, <a class="el" href="../../#l00863">Unit::GetVictim()</a>, <a class="el" href="../../#l01694">Unit::IsStopped()</a>, <a class="el" href="../../#l20371">Unit::SetInFront()</a>, <a class="el" href="../../#l16735">Unit::StopMoving()</a>, and <a class="el" href="../../#l00190">UNIT_STATE_ROTATING</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00040">Reset()</a>.</p>
 
@@ -416,10 +416,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   69</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   70</span>}</div>
 <div class="ttc" id="aMotionMaster_8h_html_a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a">ROTATE_DIRECTION_LEFT</a></div><div class="ttdeci">@ ROTATE_DIRECTION_LEFT</div><div class="ttdef"><b>Definition</b> MotionMaster.h:79</div></div>
-<div class="ttc" id="aclassUnit_html_a15935c3f574e8b3e72952561c75e6faf"><div class="ttname"><a href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">Unit::SetFacingTo</a></div><div class="ttdeci">void SetFacingTo(float ori)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20369</div></div>
+<div class="ttc" id="aclassUnit_html_a15935c3f574e8b3e72952561c75e6faf"><div class="ttname"><a href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">Unit::SetFacingTo</a></div><div class="ttdeci">void SetFacingTo(float ori)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20377</div></div>
 <div class="ttc" id="astructPosition_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition</b> Position.h:124</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00046">m_direction</a>, <a class="el" href="../../#l00045">m_duration</a>, <a class="el" href="../../#l00045">m_maxDuration</a>, <a class="el" href="../../#l00079">ROTATE_DIRECTION_LEFT</a>, and <a class="el" href="../../#l20369">Unit::SetFacingTo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00046">m_direction</a>, <a class="el" href="../../#l00045">m_duration</a>, <a class="el" href="../../#l00045">m_maxDuration</a>, <a class="el" href="../../#l00079">ROTATE_DIRECTION_LEFT</a>, and <a class="el" href="../../#l20377">Unit::SetFacingTo()</a>.</p>
 
 </div>
 </div>
@@ -506,7 +506,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d7b/classRotateMovementGenerator.html">RotateMovementGenerator</a></li>
-    <li class="footer">Generated on Fri Oct 3 2025 06:23:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 4 2025 06:21:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

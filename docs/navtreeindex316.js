@@ -1,5 +1,7 @@
 var NAVTREEINDEX316 =
 {
+"dc/dc4/structboss__kologarn__pit__kill__bunny.html":[6,0,577],
+"dc/dc4/structboss__kologarn__pit__kill__bunny.html#a0ecbc2ae8850d4cfb84f40d2a13f4976":[6,0,577,0],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6":[6,0,577,3],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#ad863666aec3db81f73165148ffc98033":[6,0,577,2],
 "dc/dc4/structboss__kologarn__pit__kill__bunny.html#afd7482896b66f040b8d57b9b6ac37059":[6,0,577,1],
@@ -137,10 +139,10 @@ var NAVTREEINDEX316 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a63c0fede080591df9ebf8b3de2cd2fc3":[6,0,3629,0],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a7d60c5b18bbf77a18ab683a101782ada":[6,0,3629,2],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[6,0,3629,3],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,69],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,1,81],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,81,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,69],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,81,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,69,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,81,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,69,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX316 =
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[6,0,3907,2],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[6,0,3907,1],
 "dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[6,0,3907,0],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[6,0,3907,3],
-"dc/dd8/classachievement__all__you__can__eat.html":[6,0,30],
-"dc/dd8/classachievement__all__you__can__eat.html#a0995024862a445ea1f0ff5c82475fc64":[6,0,30,0]
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[6,0,3907,3]
 };

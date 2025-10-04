@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a1a034601a7dda94becbf1801bda63d55":[6,0,393,0,5],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a2c3ed57dd0336ce8ac1a85c957da9e4a":[6,0,393,0,2],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a3a85b2a6e958a965e52a9fde87c08177":[6,0,393,0,0],
 "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html#a8c5e43b4b4e0583db7dcc93694202bd8":[6,0,393,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "d7/db0/classMap.html#aa9b5bb86f1587c7d68dde0f30e022d53":[6,0,1478,197],
 "d7/db0/classMap.html#aac08f57892cff35a0d8f3216a9706aa4":[6,0,1478,216],
 "d7/db0/classMap.html#aac4872f039e434e42170fb5eb45691f2":[6,0,1478,82],
-"d7/db0/classMap.html#aacf7286dae69a90d212fdef84a7686b1":[6,0,1478,42],
-"d7/db0/classMap.html#aad4660ab136a74469c5cf790d932391f":[6,0,1478,124]
+"d7/db0/classMap.html#aacf7286dae69a90d212fdef84a7686b1":[6,0,1478,42]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"d5/d09/classPetAura.html#a8cd7e3284837b30a8a3c6739ab5cb9b3":[6,0,2396,1],
 "d5/d09/classPetAura.html#aa5b3219cd2021341ce0910dce81d8b56":[6,0,2396,9],
 "d5/d09/classPetAura.html#abacd738dfb04687810b981297b1a1567":[6,0,2396,7],
 "d5/d09/classPetAura.html#adc1b329e1f303b5ad3f353abb4343cdf":[6,0,2396,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "d5/d19/classspell__shockwave__knockback.html#a5eee46784bfbeaad3a9af069ca7f69a7":[6,0,3822,0],
 "d5/d19/classspell__shockwave__knockback.html#a734b735c7e87938bff185be91f9de6e8":[6,0,3822,1],
 "d5/d1b/classspell__hun__pet__carrion__feeder.html":[6,0,3131],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a3f36968d10bde12c7e2eda8db4145252":[6,0,3131,2],
-"d5/d1b/classspell__hun__pet__carrion__feeder.html#a51b075f95211025b2a7719a3ee70a6be":[6,0,3131,5]
+"d5/d1b/classspell__hun__pet__carrion__feeder.html#a3f36968d10bde12c7e2eda8db4145252":[6,0,3131,2]
 };

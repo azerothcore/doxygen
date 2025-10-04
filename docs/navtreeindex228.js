@@ -1,5 +1,11 @@
 var NAVTREEINDEX228 =
 {
+"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#aab878773508fcbb437661d316266b942":[6,0,477,0,1],
+"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#ab7b5df914ee5b22c25098c188306d123":[6,0,477,0,2],
+"d8/deb/structboss__freya__elder__ironbranch_1_1boss__freya__elder__ironbranchAI.html#afd87a8fc3ca55d1a91f4cc08b34095c8":[6,0,477,0,4],
+"d8/ded/classat__cthun__center.html":[6,0,213],
+"d8/ded/classat__cthun__center.html#a75cf2b77215e0d50c1c89ec9b522ebc3":[6,0,213,0],
+"d8/ded/classat__cthun__center.html#af744df9577e84ab64749076324e574c9":[6,0,213,1],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html":[6,0,1657,0],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d":[6,0,1657,0,4],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html#a13efa2a2a0c5c796b3fd9f36a54ce523":[6,0,1657,0,2],
@@ -242,12 +248,6 @@ var NAVTREEINDEX228 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,447,0,0],
 "d8/dfc/CreatureAIRegistry_8h.html":[7,0,0,0,1,2,3,8],
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[5,0,1,121],
 "d8/dfc/structAcore_1_1unary__function.html":[6,0,0,109],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,109,1],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,121,1],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[6,0,0,109,0],
-"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,1,121,0],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[6,0,541,0],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[6,0,541,0,8]
+"d8/dfc/structAcore_1_1unary__function.html":[5,0,1,121]
 };

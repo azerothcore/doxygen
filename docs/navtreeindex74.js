@@ -1,5 +1,6 @@
 var NAVTREEINDEX74 =
 {
+"d2/dd6/classOutdoorPvP.html#af20e003de861bb9f9589b26fbad77cf8":[6,0,2351,26],
 "d2/dd6/classOutdoorPvP.html#af29db712d138f6c37113153a59913bc1":[6,0,2351,5],
 "d2/dd6/classOutdoorPvP.html#aff00edc6783bc27182eb3f6b605ab2fe":[6,0,2351,13],
 "d2/dd6/classachievement__been__waiting__long__time.html":[6,0,35],
@@ -23,10 +24,10 @@ var NAVTREEINDEX74 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2457],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[6,0,2457,2],
 "d2/ddb/structPyramidEventData.html#a44a9f5e58bfa58e2e2325e116e988f07":[6,0,2457,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[6,0,4094,174],
 "d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591":[6,0,4094,133],
 "d2/de9/classSpellInfo.html#a0446ea6e99c6af9731c43a1f0708d299":[6,0,4094,6],
-"d2/de9/classSpellInfo.html#a05440c40b5df16a65decb684f884d33b":[6,0,4094,161],
-"d2/de9/classSpellInfo.html#a058fff88ac7c8f681101c4d7999cce19":[6,0,4094,102]
+"d2/de9/classSpellInfo.html#a05440c40b5df16a65decb684f884d33b":[6,0,4094,161]
 };

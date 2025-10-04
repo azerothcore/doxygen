@@ -1,5 +1,11 @@
 var NAVTREEINDEX268 =
 {
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a0a32b88a868441a88e249fee4e55dc7a":[7,0,0,0,1,2,16,7,5,136,16],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a1da76e51b88ee8189bd817f7d625275a":[7,0,0,0,1,2,16,7,5,136,22],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a230541a7ba7338e610a979f2f6c2b840":[7,0,0,0,1,2,16,7,5,136,14],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a34fc2e99991ba8b5ae177c69735d61f9":[7,0,0,0,1,2,16,7,5,136,15],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a37bd72a7a49f1870a58343cac2a214e2":[7,0,0,0,1,2,16,7,5,136,29],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a3cdef22028c85bfd3336cee111c66933":[7,0,0,0,1,2,16,7,5,136,18],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a4a66547eec1e3f748d5a2fe358bbb188":[7,0,0,0,1,2,16,7,5,136,20],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a4b225082cd7ac3e368957fc33fe6bb64":[7,0,0,0,1,2,16,7,5,136,4],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a54280d64be122db9921a84e13dcc0d0c":[7,0,0,0,1,2,16,7,5,136,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX268 =
 "da/dca/structCharacterCustomizeInfo.html#a7f4241aa9ecc051c75f779af132a52ed":[4,1,16,0],
 "da/dca/structCharacterCustomizeInfo.html#ade5b2dff213547ab4d707070f8979085":[4,1,16,6],
 "da/dca/structCharacterCustomizeInfo.html#aeaa7ce4ecea7f42def63049424a2dd6b":[4,1,16,5],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html":[6,0,542,0],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a0cc9573f8e2a35faaeee48ff9095e93f":[6,0,542,0,17],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a11dc0853f1262b11c7d58559864698e2":[6,0,542,0,16],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a2eb918a85cd7025f5f65c1aec7e9fd1f":[6,0,542,0,12],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a3b04d35967c6e475f54e7bc52e828954":[6,0,542,0,10],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4312f74f67649f5f2f3cfaf2a46b09e8":[6,0,542,0,2],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4ae6bd152ccfa4813ba5ea4ba5fd14ee":[6,0,542,0,18]
+"da/dca/structboss__ichoron_1_1boss__ichoronAI.html":[6,0,542,0]
 };

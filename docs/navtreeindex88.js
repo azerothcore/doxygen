@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df6/DBCStores_8h.html#a155a342b9ae217cf65b09570727c8403":[7,0,0,0,1,2,14,1,32],
 "d2/df6/DBCStores_8h.html#a1611914a99682fc964ef95b9a788a969":[7,0,0,0,1,2,14,1,24],
 "d2/df6/DBCStores_8h.html#a173f98dd9664500fdbdd2f7dadb5885c":[7,0,0,0,1,2,14,1,9],
 "d2/df6/DBCStores_8h.html#a1a79dd4c705e4e52ad78394b48986723":[7,0,0,0,1,2,14,1,142],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d2/dfc/structnpc__sanguine__spirit.html":[6,0,2098],
 "d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[6,0,2098,0],
 "d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[6,0,2098,1],
-"d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[6,0,2098,2],
-"d2/dfd/GuildMgr_8cpp.html":[7,0,0,0,1,2,21,2]
+"d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[6,0,2098,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX395 =
 {
+"df/da7/classBattleground.html#ad9d9477db10cb63be48148c66d68fca3":[6,0,312,41],
+"df/da7/classBattleground.html#ada82891b0df636385045ce4a8aa9e265":[6,0,312,27],
 "df/da7/classBattleground.html#adaa7c7b4db6828792ab1e2866ef732b6":[6,0,312,54],
 "df/da7/classBattleground.html#adb039c35985c751f5d13a73a8ca46c50":[6,0,312,75],
 "df/da7/classBattleground.html#adb606f987828217052b250766029a7f4":[6,0,312,66],
@@ -28,8 +30,8 @@ var NAVTREEINDEX395 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,312,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,312,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,312,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,1,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,1,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,1,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,1,9,1],
@@ -177,12 +179,12 @@ var NAVTREEINDEX395 =
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,11,8,6],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,31,8,6,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,8,6,2],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,11,8,6,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,31,8,6,3],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,11,8,6,1],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,11,8,6,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,31,8,6,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,31,8,6,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,11,8,6,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,11,8,6,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,31,8,6,0],
 "df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX395 =
 "df/db8/structboss__alar.html#aa53951ef1e41fc7009c5bc53470095de":[6,0,367,11],
 "df/db8/structboss__alar.html#aa6d22f66e285a61fb4f1f945674aef53":[6,0,367,18],
 "df/db8/structboss__alar.html#aa769636777d2fbaef9b0ffdc057fa3d4":[6,0,367,15],
-"df/db8/structboss__alar.html#aad585c013fd3a9a87ddb0ae94ca41d45":[6,0,367,22],
-"df/db8/structboss__alar.html#aad92b4171c7e76781a72bac1ca7b257b":[6,0,367,25],
-"df/db8/structboss__alar.html#ab3e2e227822dd11e2530cd900c065b18":[6,0,367,26]
+"df/db8/structboss__alar.html#aad585c013fd3a9a87ddb0ae94ca41d45":[6,0,367,22]
 };

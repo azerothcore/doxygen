@@ -1,5 +1,11 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018b":[7,0,0,0,1,3,9,4,170],
+"db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018ba2300b3ebe9d37cb1c4ecd0935b0a98b0":[7,0,0,0,1,3,9,4,170,0],
+"db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018bad966ee5be314524a04f8a46899af53d4":[7,0,0,0,1,3,9,4,170,1],
+"db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018baea85156ec95109b1c90bdf8420254cf8":[7,0,0,0,1,3,9,4,170,2],
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69":[7,0,0,0,1,3,9,4,154],
+"db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69a2a57b2dd3a2a01096553a1e0902b791e":[7,0,0,0,1,3,9,4,154,3],
 "db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69abd12b6f9c9e7a2f52a167070abee422e":[7,0,0,0,1,3,9,4,154,2],
 "db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69acfe5dbb572c8b8fb11f7a37fa7049ae4":[7,0,0,0,1,3,9,4,154,0],
 "db/d6e/spell__item_8cpp.html#a3604a2e9b6a04f5b621c62597f927e69ae4d29be8f6561ecd034fac94950d655a":[7,0,0,0,1,3,9,4,154,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX281 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[6,0,2525,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[6,0,2525,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2525,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2]
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0]
 };

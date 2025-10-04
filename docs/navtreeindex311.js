@@ -1,5 +1,7 @@
 var NAVTREEINDEX311 =
 {
+"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#a98e6aaa14d458228e97ced45e553c2bf":[6,0,1697,0,12],
+"dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#aa47d7c8a0c34fc2cf4a7b1d31d21cd4a":[6,0,1697,0,7],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#aabca8fe8385fe88d6ed6ad7ae6da0261":[6,0,1697,0,10],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#ab8f80e5b25f58028abdd2077c2e9de7f":[6,0,1697,0,13],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html#ac9c4473578ba8a19b280548b4257bafa":[6,0,1697,0,1],
@@ -118,8 +120,8 @@ var NAVTREEINDEX311 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aec2878e51a12749914e3a30c0ddea900":[6,0,428,0,2],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#afc16e2da1f40ec0c0257e3bedc04c8a7":[6,0,428,0,1],
 "dc/d8a/classnpc__sergeant__bly.html":[6,0,2111],
-"dc/d8a/classnpc__sergeant__bly.html#ad54ff5aabbc30de759c8f31b7ef9f46e":[6,0,2111,2],
-"dc/d8a/classnpc__sergeant__bly.html#afd5c6129098e4939e2b9f3d12b8c7058":[6,0,2111,1],
-"dc/d8a/structSpellPair.html":[6,0,4103]
+"dc/d8a/classnpc__sergeant__bly.html#ad54ff5aabbc30de759c8f31b7ef9f46e":[6,0,2111,2]
 };

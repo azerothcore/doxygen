@@ -1,5 +1,7 @@
 var NAVTREEINDEX363 =
 {
+"de/d42/classspell__kiljaeden__shadow__spike__aura.html#aec1ff41f0051a6c6dfbd11ea7741b1af":[6,0,3366,0],
+"de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html":[6,0,2220,0],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a16f8f9fd368832aac7906c3fd8cb9698":[6,0,2220,0,1],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#a819e987eeb8eb8d580a5ad22001a641d":[6,0,2220,0,3],
 "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html#ab41fdff3612b29e7d0d94fb6aaa8c085":[6,0,2220,0,5],
@@ -152,8 +154,8 @@ var NAVTREEINDEX363 =
 "de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,38],
 "de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1":[7,0,0,0,1,2,38,0,38,4],
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[6,0,0,68],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,68,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
@@ -162,8 +164,8 @@ var NAVTREEINDEX363 =
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,68,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[6,0,0,68,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,80,0],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html":[6,0,3850],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a1e63e7798ab5e55415eb0277f3160fa3":[6,0,3850,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a727093fec8cc8422cbbaa79d821338c8":[6,0,3850,2],
@@ -244,10 +246,8 @@ var NAVTREEINDEX363 =
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,3,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,3,0,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,3,0,2],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,3,0,1],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,11,3,0,1]
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,3,0,2]
 };

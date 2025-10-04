@@ -1,5 +1,6 @@
 var NAVTREEINDEX151 =
 {
+"d5/da0/TicketMgr_8h.html#aeedacb4a8f5a99f7c38b120ef230820dae8a849a379231ad568354acea3c1686a":[7,0,0,0,1,2,43,1,5,1],
 "d5/da0/map__extractor_2mpq__libmpq04_8h.html":[7,0,0,0,3,1,7],
 "d5/da0/map__extractor_2mpq__libmpq04_8h.html#a8d76af4bfff910da40b4f93a1c465744":[7,0,0,0,3,1,7,2],
 "d5/da0/map__extractor_2mpq__libmpq04_8h.html#aff3add09c98fece7ace91b0e7c90435e":[7,0,0,0,3,1,7,3],
@@ -175,16 +176,16 @@ var NAVTREEINDEX151 =
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a447c2cd258d784ca1d79c79412a1a426":[6,0,2029,0],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a694ee5f884f1bd404f0ef3d3030a212f":[6,0,2029,3],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#ac68f18d68a313623c04e885f9506f287":[6,0,2029,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,9,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,9,3],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,9,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,11,9,3,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,9,3,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,9,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,9,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,9,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,9,3,4],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,9,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,9,3,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,9,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,9,3,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,31,9,3,3],
 "d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX151 =
 "d5/dac/classAllMapScript.html#aea5284ac6b227dd44b83dc944e220f00":[6,0,151,0],
 "d5/dac/classConfigEnvTest.html":[6,0,892],
 "d5/dac/classConfigEnvTest.html#a3bc271279472966f9dae906f9f77119b":[6,0,892,1],
-"d5/dac/classConfigEnvTest.html#aaaccdda1669c76b94483bf2db2615d4e":[6,0,892,2],
-"d5/dac/classConfigEnvTest.html#af04bbb2661f10d3bf442c590ebdf1a2b":[6,0,892,0]
+"d5/dac/classConfigEnvTest.html#aaaccdda1669c76b94483bf2db2615d4e":[6,0,892,2]
 };

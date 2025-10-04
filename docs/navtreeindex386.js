@@ -1,14 +1,16 @@
 var NAVTREEINDEX386 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a7d855e64a9aaf284a67c32b27a135d15":[5,0,18,2,15],
+"df/d3e/classlfg_1_1LfgGroupData.html#a89a70ef6e1daae615b46cb457e648400":[5,0,18,2,21],
 "df/d3e/classlfg_1_1LfgGroupData.html#a89a70ef6e1daae615b46cb457e648400":[6,0,5,2,21],
-"df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[5,0,18,2,16],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[6,0,5,2,16],
-"df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[5,0,18,2,14],
+"df/d3e/classlfg_1_1LfgGroupData.html#a8ae808d3a58fb0c0f529873ee082fa11":[5,0,18,2,16],
 "df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[6,0,5,2,14],
+"df/d3e/classlfg_1_1LfgGroupData.html#a8b879db5cc148f96678fe765e42a8f5c":[5,0,18,2,14],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[5,0,18,2,24],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9216815fd208442e4358811810149851":[6,0,5,2,24],
-"df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[6,0,5,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[5,0,18,2,8],
+"df/d3e/classlfg_1_1LfgGroupData.html#a9d8e902e911cc889b7c2e820e509cd52":[6,0,5,2,8],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[6,0,5,2,17],
 "df/d3e/classlfg_1_1LfgGroupData.html#a9e7dd73c28e1dace3a96da551ab01378":[5,0,18,2,17],
 "df/d3e/classlfg_1_1LfgGroupData.html#aa272606655d08afc1763caf9311035c3":[5,0,18,2,5],
@@ -17,8 +19,8 @@ var NAVTREEINDEX386 =
 "df/d3e/classlfg_1_1LfgGroupData.html#aac29414393890237f16203443190c72b":[5,0,18,2,23],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab081bd042f880ff9e1b5f7fcbc80db74":[6,0,5,2,0],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab081bd042f880ff9e1b5f7fcbc80db74":[5,0,18,2,0],
-"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[6,0,5,2,6],
 "df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[5,0,18,2,6],
+"df/d3e/classlfg_1_1LfgGroupData.html#ab54de77d96e5a9c5445916ee253dfed7":[6,0,5,2,6],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[6,0,5,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[5,0,18,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,18,2,7],
@@ -178,8 +180,8 @@ var NAVTREEINDEX386 =
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a295d4bef97b97c7deb31a81274f0818d":[6,0,1571,0,2],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a9353ac81b0c209a56313b52f2257ddd2":[6,0,1571,0,1],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1571,0,0],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,78],
+"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[6,0,2127,0],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a147921788b07f5e776e03aaf15049cf0":[6,0,2127,0,4],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a677990d64d2963ff995d9d8522c5aa81":[6,0,2127,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX386 =
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html":[6,0,3872],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a25e3078f0b2d71ea0e6802aae0a6c7a4":[6,0,3872,3],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a3240b42a9122e61b57ea91486cb3c97b":[6,0,3872,1],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a99f80adcebdd9726a8df51f99d415651":[6,0,3872,2],
-"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a9f368396cef39ba3bd70480f11c44700":[6,0,3872,0],
-"df/d51/classspell__prince__taldaram__flame__sphere__summon.html":[6,0,3586]
+"df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a99f80adcebdd9726a8df51f99d415651":[6,0,3872,2]
 };

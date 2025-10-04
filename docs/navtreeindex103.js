@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a38bf9abef479846a5b7962e7c6661947":[7,0,0,0,1,3,5,7,6,2,5],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a433c241f2b80d08bfe9c5822231e2d8b":[7,0,0,0,1,3,5,7,6,2,4],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89121271f4b28a781a1419fb040082ff":[7,0,0,0,1,3,5,7,6,2,0],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a965a1c4a685b66429571b3764be702b0":[7,0,0,0,1,3,5,7,6,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d9d/classspell__item__goblin__weather__machine.html":[6,0,3257],
 "d3/d9d/classspell__item__goblin__weather__machine.html#a479832175a4c77ce0c0a2f3d3f98f08c":[6,0,3257,1],
 "d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[6,0,3257,0],
-"d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[6,0,3257,2],
-"d3/d9d/structChrRacesEntry.html":[6,0,872]
+"d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[6,0,3257,2]
 };

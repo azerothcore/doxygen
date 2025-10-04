@@ -1,5 +1,7 @@
 var NAVTREEINDEX340 =
 {
+"dd/dda/structboss__marli.html#abba94b400523047bfa9e3a5b34b1ee54":[6,0,612,0],
+"dd/dda/structboss__marli.html#ac74bd382c3dc826f7e4426bec3557094":[6,0,612,5],
 "dd/dda/structboss__marli.html#ad6977930dac1cddd2162f7db1b239c83":[6,0,612,3],
 "dd/dda/structboss__marli.html#ada18ae0feb0c512267ec6bd83b8ac591":[6,0,612,6],
 "dd/dda/structboss__marli.html#af2b3f0e75ad60b6a9d013a3e9654021e":[6,0,612,7],
@@ -232,22 +234,20 @@ var NAVTREEINDEX340 =
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,2976,3],
 "dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,2976,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2976,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3053],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[6,0,3053,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[6,0,3053,0],
-"dd/deb/classspell__grobbulus__mutating__injection__aura.html#aaefd5b15f7a3725b2663c0717fe22c92":[6,0,3053,1],
-"dd/deb/classspell__grobbulus__mutating__injection__aura.html#ad7ba015a7878adad0820cf378d2632ca":[6,0,3053,2],
-"dd/dec/classChannelMgr.html":[6,0,846]
+"dd/deb/classspell__grobbulus__mutating__injection__aura.html#aaefd5b15f7a3725b2663c0717fe22c92":[6,0,3053,1]
 };

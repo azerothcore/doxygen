@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/dfd/GuildMgr_8cpp.html":[7,0,0,0,1,2,21,2],
 "d2/dff/boss__balinda_8cpp.html":[7,0,0,0,1,3,2,0,1],
 "d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,0,1,1],
 "d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a192438ec5d0934ed1bec419036328553":[7,0,0,0,1,3,2,0,1,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da580d466d9e6b22cf0c3842e1b31bffe8":[7,0,0,0,1,3,5,15,59,19],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da59ce8370e9e0681dea90798e78fcb920":[7,0,0,0,1,3,5,15,59,11],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da5ed3507511898ba4ba2445d451c7b602":[7,0,0,0,1,3,5,15,59,30],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da604dea7cbf3c04c998febd8a2deb50a0":[7,0,0,0,1,3,5,15,59,7],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da632babe58c5f6fd70c0c12641e70a2b9":[7,0,0,0,1,3,5,15,59,52]
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da604dea7cbf3c04c998febd8a2deb50a0":[7,0,0,0,1,3,5,15,59,7]
 };
