@@ -151,6 +151,7 @@ var classUnit =
     [ "CreateVehicleKit", "df/dd9/classUnit.html#aa8ccfbea62971de629706f3800a09f52", null ],
     [ "DealDamage", "df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98", null ],
     [ "DealDamageMods", "df/dd9/classUnit.html#af0c5f2f98b065f2d3976f18e4bc964a4", null ],
+    [ "DealDamageShieldDamage", "df/dd9/classUnit.html#ad330a634cb3f9e8f57f83381da974f5a", null ],
     [ "DealHeal", "df/dd9/classUnit.html#a724ee0c4edc9ee0b05ba1cc56893264c", null ],
     [ "DealMeleeDamage", "df/dd9/classUnit.html#ab5df9e5817c19d90be4456ae28f9f921", null ],
     [ "DealSpellDamage", "df/dd9/classUnit.html#a1834e2b07bdde3d3a20a2479b6384bb1", null ],

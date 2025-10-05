@@ -1,5 +1,7 @@
 var NAVTREEINDEX334 =
 {
+"dd/dab/boss__sjonnir_8cpp.html":[7,0,0,0,1,3,5,9,1,2],
+"dd/dab/boss__sjonnir_8cpp.html#a2d30eac68e5c2c089e34ea2ab4c7dc02":[7,0,0,0,1,3,5,9,1,2,14],
 "dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,1,2,9],
 "dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405":[7,0,0,0,1,3,5,9,1,2,9,1],
 "dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40":[7,0,0,0,1,3,5,9,1,2,9,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,12,1,8,2],
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,12,1,8,0],
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a6a49ad063cca1e1de9f3a34dd822759e":[7,0,0,0,1,3,5,12,1,8,4],
-"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a766d483bf9ac79e7f400d68801efb7b9":[7,0,0,0,1,3,5,12,1,8,5],
-"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,12,1,8,1],
-"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,5,12,1,8,3]
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a766d483bf9ac79e7f400d68801efb7b9":[7,0,0,0,1,3,5,12,1,8,5]
 };

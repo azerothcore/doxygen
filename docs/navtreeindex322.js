@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"dd/d16/classnpc__razael__and__lyana.html#a9c9085db92853d5275c12e804a68b0fc":[6,0,2081,1],
+"dd/d16/classnpc__razael__and__lyana.html#aec7257a1136a3580e2b4542e032429d6":[6,0,2081,0],
 "dd/d16/classspell__deliver__gryphon.html":[6,0,2743],
 "dd/d16/classspell__deliver__gryphon.html#a29bf5a9615e02281f426bf521a045567":[6,0,2743,3],
 "dd/d16/classspell__deliver__gryphon.html#a996ea344ea2a3312cb8886565b80972d":[6,0,2743,2],
@@ -91,8 +93,8 @@ var NAVTREEINDEX322 =
 "dd/d1a/classnpc__vortex__ride.html":[6,0,2279],
 "dd/d1a/classnpc__vortex__ride.html#a23ef53feb432127db2620810a55d02ff":[6,0,2279,2],
 "dd/d1a/classnpc__vortex__ride.html#ad794cda407c9dfc35dd9bc2724f5014a":[6,0,2279,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,67],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,55],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,67],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,67,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,67,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d25/classGuildScript.html#acfc89fe841629beca8de15c23c48a6c7":[6,0,1256,5],
 "dd/d25/classGuildScript.html#ad0733568cee8ded5c89d8404166201bb":[6,0,1256,7],
 "dd/d26/SocialMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
-"dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,8,9],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,11,8,9]
+"dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87]
 };

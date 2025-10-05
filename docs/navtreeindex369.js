@@ -1,5 +1,9 @@
 var NAVTREEINDEX369 =
 {
+"de/d8f/classSessionKeyGenerator.html#a8fa39e01cd3ed24e13735343ad658cbb":[6,0,2550,0],
+"de/d8f/classspell__dk__blood__caked__blade.html":[6,0,2758],
+"de/d8f/classspell__dk__blood__caked__blade.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89":[6,0,2758,3],
+"de/d8f/classspell__dk__blood__caked__blade.html#a64414347ed5e132c3268451653082821":[6,0,2758,0],
 "de/d8f/classspell__dk__blood__caked__blade.html#a88277eeea14f7799e27a4a897e6e8c0c":[6,0,2758,2],
 "de/d8f/classspell__dk__blood__caked__blade.html#a8a3eab47b8214b59275aeaa8a02e4240":[6,0,2758,1],
 "de/d90/InstanceMapScript_8cpp.html":[7,0,0,0,1,2,38,0,57],
@@ -245,9 +249,5 @@ var NAVTREEINDEX369 =
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728":[7,0,0,0,1,3,4,32,5,8],
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51":[7,0,0,0,1,3,4,32,5,12],
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766":[7,0,0,0,1,3,4,32,5,11],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e":[7,0,0,0,1,3,4,32,5,2],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b":[7,0,0,0,1,3,4,32,5,0],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7":[7,0,0,0,1,3,4,32,5,10],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484":[7,0,0,0,1,3,4,32,5,7],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9":[7,0,0,0,1,3,4,32,5,9]
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e":[7,0,0,0,1,3,4,32,5,2]
 };

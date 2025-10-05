@@ -1,5 +1,9 @@
 var NAVTREEINDEX375 =
 {
+"de/dbb/classChatLogScript.html#ac9a4dc6a35325a87c69f08f50a26750c":[6,0,869,3],
+"de/dbb/classChatLogScript.html#ade8c407083cf094f0767412e7b6d7730":[6,0,869,0],
+"de/dbb/classChatLogScript.html#af6e61405ba6642fa451465e27c4b47d8":[6,0,869,4],
+"de/dbb/classWretchedGhoulCleaner.html":[6,0,4323],
 "de/dbb/classWretchedGhoulCleaner.html#a8176fb574f0eac852ed3528dcadac288":[6,0,4323,0],
 "de/dbb/classspell__freezing__circle.html":[6,0,2891],
 "de/dbb/classspell__freezing__circle.html#a627bffccdd78c00f0f5a4241f36aeec8":[6,0,2891,2],
@@ -189,10 +193,10 @@ var NAVTREEINDEX375 =
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,1,2,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,1,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[6,0,0,1,3,0],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,1,2,3,5],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,1,2,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX375 =
 "de/dcc/zone__thousand__needles_8cpp.html#a9d831677b4e878c5a76e7bc332ba6730":[7,0,0,0,1,3,4,30,13],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102":[7,0,0,0,1,3,4,30,9],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c":[7,0,0,0,1,3,4,30,9,3],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239":[7,0,0,0,1,3,4,30,9,0],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de":[7,0,0,0,1,3,4,30,9,4],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045":[7,0,0,0,1,3,4,30,9,1],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd":[7,0,0,0,1,3,4,30,9,2],
-"de/dcc/zone__thousand__needles_8cpp.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1":[7,0,0,0,1,3,4,30,11]
+"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239":[7,0,0,0,1,3,4,30,9,0]
 };

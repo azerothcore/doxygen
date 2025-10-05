@@ -1,5 +1,9 @@
 var NAVTREEINDEX380 =
 {
+"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651acdae31cd04ffe19515b94f6b02cefa4a":[7,0,0,0,1,3,2,1,1,0,3,1],
+"df/d13/blackrock__spire_8h.html#a31d630c40753c29f94ceac2db5e451a8":[7,0,0,0,1,3,2,1,1,0,9],
+"df/d13/blackrock__spire_8h.html#a827f0b5fa02456e320d9ee1624b0fa52":[7,0,0,0,1,3,2,1,1,0,2],
+"df/d13/blackrock__spire_8h.html#ac5499e1cfc098e10297f82ed43c1e130":[7,0,0,0,1,3,2,1,1,0,7],
 "df/d13/blackrock__spire_8h.html#ac5499e1cfc098e10297f82ed43c1e130a6c905d4e8ba544bafcf0540ed99d8a35":[7,0,0,0,1,3,2,1,1,0,7,0],
 "df/d13/blackrock__spire_8h.html#ad3bc9bdd2aa9c179fedc567b4ab2b7db":[7,0,0,0,1,3,2,1,1,0,0],
 "df/d13/blackrock__spire_8h.html#af34c80ed07e23d3f7de50ee8405c8fb1":[7,0,0,0,1,3,2,1,1,0,8],
@@ -204,16 +208,16 @@ var NAVTREEINDEX380 =
 "df/d14/classPet.html#af641ae2d7d873000862ac953f850d068":[6,0,2393,49],
 "df/d14/classPet.html#af98d9932f6260f70dee8e43526790ec2":[6,0,2393,84],
 "df/d14/classPet.html#afeb6b4e172c202a327ae853c132a1247":[6,0,2393,41],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,1,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,31,1,4],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,1,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,1,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,1,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,1,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,1,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,1,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,31,1,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,1,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
@@ -243,11 +247,7 @@ var NAVTREEINDEX380 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0be":[7,0,0,0,1,2,16,8,1,4],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3":[7,0,0,0,1,2,16,8,1,4,0],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,5,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,5,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,5,17,2],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,11,5,17,0],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,31,5,17,0],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[5,0,31,5,17,1]
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,5,17],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2]
 };

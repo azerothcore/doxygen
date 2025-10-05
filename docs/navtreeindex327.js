@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1936,0,2],
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1936,0,0],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1936,0,4],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1830,0],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1830,0,1],
@@ -58,8 +60,8 @@ var NAVTREEINDEX327 =
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0":[6,0,91,1],
 "dd/d47/classachievement__snakes__whyd__it__have__to__be__snakes.html#a4245e53260b83f77f9b4313e13f1f7d3":[6,0,91,0],
 "dd/d48/UpdateMask_8h.html":[7,0,0,0,1,2,16,5,0,5],
-"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[5,0,8,0,0,0],
+"dd/d48/classboost_1_1asio_1_1ip_1_1basic__endpoint.html":[6,0,2,0,0,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html":[6,0,430,0],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a06e21c4e5bd1a882ada074b9595d4088":[6,0,430,0,3],
 "dd/d48/structboss__drakos_1_1boss__drakosAI.html#a10b2ca39887e906e6e1e33df82afc1da":[6,0,430,0,5],
@@ -92,18 +94,18 @@ var NAVTREEINDEX327 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[7,0,0,0,1,3,2,1,1,1,2,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,1,1,2,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[7,0,0,0,1,3,2,1,1,1,2,5],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,6,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,6,2],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,6,2,0],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,6,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,6,2,0],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,6,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,6,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,6,2,4],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,6,2,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,11,6,2,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,6,2,2],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html":[6,0,2736],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#a11620e4d645b3bfd35924700b5dad289":[6,0,2736,0],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2736,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1784,2],
 "dd/d55/classspell__shredder__delivery.html":[6,0,3823],
 "dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3823,1],
-"dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3823,2],
-"dd/d55/classspell__shredder__delivery.html#a95de3ae27cfd764380ab1648b49af38d":[6,0,3823,0],
-"dd/d55/classspell__shredder__delivery.html#af9d8f764a6a02737f8b559f067156df6":[6,0,3823,3]
+"dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3823,2]
 };

@@ -2294,7 +2294,7 @@ var annotated_dup =
     [ "npc_frost_sphere", "d9/d9b/classnpc__frost__sphere.html", "d9/d9b/classnpc__frost__sphere" ],
     [ "npc_frost_tomb", "d1/d71/structnpc__frost__tomb.html", "d1/d71/structnpc__frost__tomb" ],
     [ "npc_frostbrood_skytalon", "d8/d21/classnpc__frostbrood__skytalon.html", "d8/d21/classnpc__frostbrood__skytalon" ],
-    [ "npc_frosthound", "dd/de7/classnpc__frosthound.html", "dd/de7/classnpc__frosthound" ],
+    [ "npc_frosthound", "d6/d79/structnpc__frosthound.html", "d6/d79/structnpc__frosthound" ],
     [ "npc_frostwing_vrykul", "df/d92/classnpc__frostwing__vrykul.html", "df/d92/classnpc__frostwing__vrykul" ],
     [ "npc_frozen_core", "d7/d96/structnpc__frozen__core.html", "d7/d96/structnpc__frozen__core" ],
     [ "npc_frozen_orb", "d5/d47/classnpc__frozen__orb.html", "d5/d47/classnpc__frozen__orb" ],

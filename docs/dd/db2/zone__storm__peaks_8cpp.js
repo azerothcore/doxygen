@@ -1,7 +1,6 @@
 var zone__storm__peaks_8cpp =
 [
-    [ "npc_frosthound", "dd/de7/classnpc__frosthound.html", "dd/de7/classnpc__frosthound" ],
-    [ "npc_frosthound::npc_frosthoundAI", "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI.html", "dc/de1/structnpc__frosthound_1_1npc__frosthoundAI" ],
+    [ "npc_frosthound", "d6/d79/structnpc__frosthound.html", "d6/d79/structnpc__frosthound" ],
     [ "npc_iron_watcher", "db/d2e/classnpc__iron__watcher.html", "db/d2e/classnpc__iron__watcher" ],
     [ "npc_iron_watcher::npc_iron_watcherAI", "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI.html", "dd/d58/structnpc__iron__watcher_1_1npc__iron__watcherAI" ],
     [ "npc_time_lost_proto_drake", "d8/dc3/classnpc__time__lost__proto__drake.html", "d8/dc3/classnpc__time__lost__proto__drake" ],
@@ -79,9 +78,14 @@ var zone__storm__peaks_8cpp =
       [ "SPELL_JORMUNGAR_SUBMERGE_VISUAL", "dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26a216b4c566f3bb6e1ccb804989b5534ec", null ],
       [ "SPELL_COLOSSUS_GROUND_SLAM", "dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26a392dcbdfd30138c1cc769a3bfeb68430", null ]
     ] ],
-    [ "qSniffing", "dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687a", [
-      [ "SPELL_SUMMON_PURSUERS_PERIODIC", "dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687aae8457fa3c07267f329e0540b0a3b1549", null ],
-      [ "SPELL_SNIFFING_CREDIT", "dd/db2/zone__storm__peaks_8cpp.html#a72aa32e04cd59045853af5772e3d687aa5436d9053113a8e073fc91da29feae33", null ]
+    [ "qSniffingOutThePerpetrator", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530", [
+      [ "NPC_FROSTHOUND", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ae711329488894689e0f1358640cd9399", null ],
+      [ "SPELL_SUMMON_PURSUERS_PERIODIC", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ae8457fa3c07267f329e0540b0a3b1549", null ],
+      [ "SPELL_SNIFFING_CREDIT", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a5436d9053113a8e073fc91da29feae33", null ],
+      [ "TALK_EMOTE_FROSTHOUND_SNIFF", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a163c9ce3b14c4dc839912b2acfed43dc", null ],
+      [ "TALK_SEEN", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a10134bf581c9c70666065b71b0f762f4", null ],
+      [ "TALK_CONFRONT", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a9e44cf3b9850cdf13cdac25dc598a7e8", null ],
+      [ "TALK_EMOTE_TRACKED_COMPLETE", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ad5b32ae894fa82cc4251ea6d2d7f658b", null ]
     ] ],
     [ "RoxiRamrocket", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaff", [
       [ "SPELL_MECHANO_HOG", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe", null ],

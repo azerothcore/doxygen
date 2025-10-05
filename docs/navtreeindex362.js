@@ -1,5 +1,9 @@
 var NAVTREEINDEX362 =
 {
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a4466ddcdc8acdd99e4c46a2128ac696c":[6,0,2180,0,25],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a4d73a0a63409d251652289db36e9fe8d":[6,0,2180,0,3],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5211d82bf6c3bb5d6be665cced01018b":[6,0,2180,0,21],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a5f30e1257412cc2dcc9b7b085b8b7bc5":[6,0,2180,0,7],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a7fccc11c62d1d898d9c6f40456626ab7":[6,0,2180,0,20],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a":[6,0,2180,0,15],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a9a948a3a8dd472dce54a1921272b5994":[6,0,2180,0,23],
@@ -245,9 +249,5 @@ var NAVTREEINDEX362 =
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a2b553c29823e5ef888ee02a3ed413386":[6,0,1591,0,3],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a59ccca7093575f4bcac57a4751d977d4":[6,0,1591,0,0],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a9778a1648ca0007f7daf4ee98308d8d2":[6,0,1591,0,2],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[6,0,1591,0,4],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#aec5788f0be3c1dcb63b3e61b50ae39c1":[6,0,1591,0,1],
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html":[6,0,3366],
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[6,0,3366,1],
-"de/d42/classspell__kiljaeden__shadow__spike__aura.html#ad3c0a2c270d1b8c31761674f89500b8a":[6,0,3366,2]
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[6,0,1591,0,4]
 };

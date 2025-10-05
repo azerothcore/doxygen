@@ -1,5 +1,9 @@
 var NAVTREEINDEX343 =
 {
+"de/d07/classnpc__depth__charge.html":[6,0,1744],
+"de/d07/classnpc__depth__charge.html#a16de1a207304ea2ad7f47d5674deeec1":[6,0,1744,2],
+"de/d07/classnpc__depth__charge.html#ad16e3431b06fdd6797bfb51dda9005f5":[6,0,1744,1],
+"de/d09/classspell__apothecary__lingering__fumes.html":[6,0,2613],
 "de/d09/classspell__apothecary__lingering__fumes.html#a4a898b0b096583af33f1f691a252b2ed":[6,0,2613,3],
 "de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2613,2],
 "de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[6,0,2613,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX343 =
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a021661eb47d13dfad7806bf852e430d0":[7,0,0,0,1,4,7,58,11],
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a15ba99166b680d543e2853ad217de69b":[7,0,0,0,1,4,7,58,6],
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a1d8f6305b34b44a1eceb768bc87e0cab":[7,0,0,0,1,4,7,58,2],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a3bd68e4cf36d662d1b631c96ed214af2":[7,0,0,0,1,4,7,58,4],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a41cfafcdb855fcbaf1f4fed3077a156c":[7,0,0,0,1,4,7,58,8],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6030a0360569b37805120507c10ffa94":[7,0,0,0,1,4,7,58,7],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6bc506f5e0886c6933d90cd052ec086c":[7,0,0,0,1,4,7,58,3],
-"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a7b75711fb68e1b84be230ae34e960fcc":[7,0,0,0,1,4,7,58,9]
+"de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a3bd68e4cf36d662d1b631c96ed214af2":[7,0,0,0,1,4,7,58,4]
 };
