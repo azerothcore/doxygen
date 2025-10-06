@@ -1,11 +1,12 @@
 var NAVTREEINDEX364 =
 {
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,3,0,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,3,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,3,0,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,3,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,3,0,2],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,3,0,1],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,3,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,11,3,0,1],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,3,0,1],
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1311],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[6,0,1311,1],
 "de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1311,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a15ca9b400e4a3baf1954bd20880b6bd8":[7,0,0,0,1,2,13,1,12,39],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a1d8ee8916d1dd3f760c81cdaaaf3c200":[7,0,0,0,1,2,13,1,12,26],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a218fc8f3a5a6b5cd18fbc9ddd1332e9a":[7,0,0,0,1,2,13,1,12,48],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a242c4448dc81e7f48fc7c2b718f23a29":[7,0,0,0,1,2,13,1,12,43],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a253b100542c4eab659d45953fa66d8af":[7,0,0,0,1,2,13,1,12,55]
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a242c4448dc81e7f48fc7c2b718f23a29":[7,0,0,0,1,2,13,1,12,43]
 };

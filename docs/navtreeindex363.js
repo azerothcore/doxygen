@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[6,0,1591,0,4],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#aec5788f0be3c1dcb63b3e61b50ae39c1":[6,0,1591,0,1],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html":[6,0,3366],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[6,0,3366,1],
@@ -162,12 +163,12 @@ var NAVTREEINDEX363 =
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,68,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,80,1],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,68,1],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,80,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[6,0,0,68,2],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,80,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html":[6,0,3850],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91":[6,0,1629,0,3],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#ac17dc46bfe75582a789a2056978218fb":[6,0,1629,0,4],
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,3,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,3,0]
 };

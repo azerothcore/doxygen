@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651aab30fb7a7a6487a9928db1f547342d50":[7,0,0,0,1,3,2,1,1,0,3,2],
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651acdae31cd04ffe19515b94f6b02cefa4a":[7,0,0,0,1,3,2,1,1,0,3,1],
 "df/d13/blackrock__spire_8h.html#a31d630c40753c29f94ceac2db5e451a8":[7,0,0,0,1,3,2,1,1,0,9],
 "df/d13/blackrock__spire_8h.html#a827f0b5fa02456e320d9ee1624b0fa52":[7,0,0,0,1,3,2,1,1,0,2],
@@ -210,8 +211,8 @@ var NAVTREEINDEX380 =
 "df/d14/classPet.html#afeb6b4e172c202a327ae853c132a1247":[6,0,2393,41],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,31,1,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,1,4],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,1,4,1],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,1,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,1,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,1,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3":[7,0,0,0,1,2,16,8,1,4,0],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,5,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,5,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2]
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,5,17]
 };

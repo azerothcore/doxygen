@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/de3/classspell__dk__death__and__decay.html#a834484683d2d782b4f4c027091108172":[6,0,2767,2],
 "de/de3/structMySQLType.html":[6,0,1544],
 "de/de3/structboss__ick_1_1boss__ickAI.html":[6,0,543,0],
 "de/de3/structboss__ick_1_1boss__ickAI.html#a1ad5a6809ffe750a5538dc650a437b81":[6,0,543,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "de/deb/structM2Header.html#a8ea82d3a657beb4ccb7a536c7186ec7a":[6,0,1464,63],
 "de/deb/structM2Header.html#a8f0e0ee5b86676aeca52169482a064df":[6,0,1464,27],
 "de/deb/structM2Header.html#a9481f813c0509802e511d326a4d9ef3c":[6,0,1464,24],
-"de/deb/structM2Header.html#a95dd62284219efb375c5e258ca676bc6":[6,0,1464,50],
-"de/deb/structM2Header.html#a96fbb6535b0a3b6fe789cfbc4a42c0b2":[6,0,1464,40]
+"de/deb/structM2Header.html#a95dd62284219efb375c5e258ca676bc6":[6,0,1464,50]
 };

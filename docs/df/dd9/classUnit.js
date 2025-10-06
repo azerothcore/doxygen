@@ -581,6 +581,7 @@ var classUnit =
     [ "isPossessing", "df/dd9/classUnit.html#a482a2318752d73be351a4421cb5bddbf", null ],
     [ "IsPvP", "df/dd9/classUnit.html#a48fcb3d403534171f69d0be3b6003762", null ],
     [ "IsQuestGiver", "df/dd9/classUnit.html#a66aca559340b09926d956b58773398cb", null ],
+    [ "IsRooted", "df/dd9/classUnit.html#aa73e9515cb9f4dd260da8a548a0f56a4", null ],
     [ "IsScriptOverriden", "df/dd9/classUnit.html#a5f074967d76067c52aaebbf8edd580f4", null ],
     [ "IsServiceProvider", "df/dd9/classUnit.html#ae14f845a10a217e4cd1ebea3fdf6f901", null ],
     [ "IsSitState", "df/dd9/classUnit.html#af6696bf5e96e75486d812e3e3e621e20", null ],

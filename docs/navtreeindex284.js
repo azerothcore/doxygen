@@ -1,6 +1,6 @@
 var NAVTREEINDEX284 =
 {
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,11,10,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,31,10,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,11,10,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,31,10,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,31,10,1,0],

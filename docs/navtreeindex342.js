@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c68e56ebc91734d36f5446eea454f4a":[7,0,0,0,1,3,5,10,1,3,4,20],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a783c7b41db9c6b8418d0e3f1a7d5257f":[7,0,0,0,1,3,5,10,1,3,4,23],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a878d5d93e9ae7b811a96ad1b3e2fd22b":[7,0,0,0,1,3,5,10,1,3,4,18],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a975d05f6a76f99c43c524028cec1a3ae":[7,0,0,0,1,3,5,10,1,3,4,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a43cb03f70352747a1b21db3ad18d45cc":[7,0,0,0,1,3,7,4,0,0,3,8],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,4,0,0,3,3],
 "de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ab4ee9b3fa6f2378216eaad263527118d":[7,0,0,0,1,3,7,4,0,0,3,1],
-"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ace1340baa905bd7fe4ac0274481197c3":[7,0,0,0,1,3,7,4,0,0,3,2],
-"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521add420385ff32f4362b994bc24207cde2":[7,0,0,0,1,3,7,4,0,0,3,9]
+"de/d07/blood__furnace_8h.html#ae8bfbe71365d644cb4c1b500e73ec521ace1340baa905bd7fe4ac0274481197c3":[7,0,0,0,1,3,7,4,0,0,3,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239":[7,0,0,0,1,3,4,30,9,0],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de":[7,0,0,0,1,3,4,30,9,4],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045":[7,0,0,0,1,3,4,30,9,1],
 "de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd":[7,0,0,0,1,3,4,30,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/de2/structgo__bells_1_1go__bellsAI.html#abf6ca2fc64f5764936a6d0179d40c2fa":[6,0,1121,0,4],
 "de/de3/classspell__dk__death__and__decay.html":[6,0,2767],
 "de/de3/classspell__dk__death__and__decay.html#a1fe9f9d4892b0ca8cb6699b555fb9268":[6,0,2767,1],
-"de/de3/classspell__dk__death__and__decay.html#a2585b06bbebf291d170df58daf6fdd4e":[6,0,2767,0],
-"de/de3/classspell__dk__death__and__decay.html#a834484683d2d782b4f4c027091108172":[6,0,2767,2]
+"de/de3/classspell__dk__death__and__decay.html#a2585b06bbebf291d170df58daf6fdd4e":[6,0,2767,0]
 };

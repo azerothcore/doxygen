@@ -1,5 +1,6 @@
 var NAVTREEINDEX336 =
 {
+"dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,626,5],
 "dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,626,4],
 "dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[6,0,626,6],
 "dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,626,10],
@@ -7,10 +8,10 @@ var NAVTREEINDEX336 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,626,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,626,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,626,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2174],
@@ -248,6 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a97841264cd19f450483856b9eb8afb33":[7,0,0,0,1,3,5,9,2,10,25,3],
 "dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa3e8be56375c00dd43ca1945495eb049":[7,0,0,0,1,3,5,9,2,10,25,1],
 "dd/dca/boss__razorscale_8cpp.html#a4522a9f95d5ef799965bfe7267743aae":[7,0,0,0,1,3,5,9,2,10,30],
-"dd/dca/boss__razorscale_8cpp.html#a5446f0dfdaa37cea52e903643b50e24c":[7,0,0,0,1,3,5,9,2,10,31],
-"dd/dca/boss__razorscale_8cpp.html#a54d00a99b402e834cfc5b17c95fa9c00":[7,0,0,0,1,3,5,9,2,10,22]
+"dd/dca/boss__razorscale_8cpp.html#a5446f0dfdaa37cea52e903643b50e24c":[7,0,0,0,1,3,5,9,2,10,31]
 };

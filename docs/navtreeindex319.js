@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/de6/structboss__skarvald__the__constructor.html#ab5b773a9960f611a6383578a607ba258":[6,0,705,8],
 "dc/de6/structboss__skarvald__the__constructor.html#ada2068f8b5d125062ec0b7fde0d05c7f":[6,0,705,5],
 "dc/de7/structboss__fathomlord__karathress.html":[6,0,462],
 "dc/de7/structboss__fathomlord__karathress.html#a02812a3cc7de22348058dedd107bb6d0":[6,0,462,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/df7/classspell__alar__ember__blast.html#a912dc3b17ab7d0818089c32610d82a16":[6,0,2597,0],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html":[6,0,4035],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,4035,2],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,4035,1],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4035,0]
+"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,4035,1]
 };

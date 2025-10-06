@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/dd4/classBattlegroundEY.html#a2874eadcf5031b6841f68c0e167cde0d":[6,0,320,8],
 "dd/dd4/classBattlegroundEY.html#a2d8ae1fcfade0c8708cfb38542f4b926":[6,0,320,43],
 "dd/dd4/classBattlegroundEY.html#a339332b31cdd306910baf139b97d13f7":[6,0,320,37],
 "dd/dd4/classBattlegroundEY.html#a3aba31ef0af6e0a389729e4cf98df213":[6,0,320,13],
@@ -198,14 +199,14 @@ var NAVTREEINDEX339 =
 "dd/dd6/classnpc__aeranas.html":[6,0,1570],
 "dd/dd6/classnpc__aeranas.html#a6ea71481ef6a223a329b805081122537":[6,0,1570,1],
 "dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[6,0,1570,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[6,0,11,5,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,31,5,6],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[6,0,11,5,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,31,5,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[6,0,11,5,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[6,0,11,5,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,31,5,6,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,31,5,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[6,0,11,5,6,4],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,31,5,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,11,5,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,31,5,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,11,5,6,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#a4dd74c81dc67291ed04861cf542b0d24":[6,0,2257,0,2],
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#a8a4af969b8d340d5492f89499e3e90c2":[6,0,2257,0,5],
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#aa31a968cb89f2c4bb4fde836fd600ab9":[6,0,2257,0,4],
-"dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#aa800617f887a21d8a61cac099c86faed":[6,0,2257,0,0],
-"dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#ab0eb414e7c9385e4831c4fbc6ba1de49":[6,0,2257,0,1]
+"dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#aa800617f887a21d8a61cac099c86faed":[6,0,2257,0,0]
 };

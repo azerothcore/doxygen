@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1936,0,3],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1936,0,2],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1936,0,0],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1936,0,4],
@@ -100,12 +101,12 @@ var NAVTREEINDEX327 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,6,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,6,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,6,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,6,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,6,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,6,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,6,2,4],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,11,6,2,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,6,2,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,11,6,2,2],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html":[6,0,2736],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#a11620e4d645b3bfd35924700b5dad289":[6,0,2736,0],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2736,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d55/classnpc__flamewaker__priest.html#a2ae4d75192f8ddc60d092b9a129e636e":[6,0,1784,1],
 "dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1784,2],
 "dd/d55/classspell__shredder__delivery.html":[6,0,3823],
-"dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3823,1],
-"dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3823,2]
+"dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3823,1]
 };
