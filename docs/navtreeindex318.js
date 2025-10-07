@@ -1,5 +1,8 @@
 var NAVTREEINDEX318 =
 {
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cae7d77304e23ba7ad5b4feab5c71266da":[7,0,0,0,1,3,7,0,0,2,3,7],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298caf51ee5a16ea9ca6146d52ef59116e8f1":[7,0,0,0,1,3,7,0,0,2,3,5],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html":[6,0,1100],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a4ea4d3b165a196482ebe96af9c462658":[6,0,1100,0],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[6,0,1100,4],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[6,0,1100,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX318 =
 "dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[6,0,705,7],
 "dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[6,0,705,0],
 "dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[6,0,705,3],
-"dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[6,0,705,1],
-"dc/de6/structboss__skarvald__the__constructor.html#a9180dcb3c22944c75e5e424dc1a78339":[6,0,705,2],
-"dc/de6/structboss__skarvald__the__constructor.html#a9c1f74c20a5a9f47f9430450742938a2":[6,0,705,6],
-"dc/de6/structboss__skarvald__the__constructor.html#a9d65e24161dd1f7bac9fe991624c5c80":[6,0,705,4]
+"dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[6,0,705,1]
 };

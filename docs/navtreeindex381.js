@@ -1,5 +1,8 @@
 var NAVTREEINDEX381 =
 {
+"df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,5,17],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,5,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,5,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,11,5,17,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX381 =
 "df/d1e/classspell__pri__shadowfiend__scaling.html#a4ac5ffabf820d73d4a92a4a0628370e9":[6,0,3582,3],
 "df/d1e/classspell__pri__shadowfiend__scaling.html#a611247fcbdaeeb416a8cfbaf1a0fc415":[6,0,3582,0],
 "df/d1e/classspell__pri__shadowfiend__scaling.html#a88520214bd87511b615965593f1b927f":[6,0,3582,6],
-"df/d1e/classspell__pri__shadowfiend__scaling.html#a9ae59870127884029a938684786e67a9":[6,0,3582,2],
-"df/d1e/classspell__pri__shadowfiend__scaling.html#aa3fd9aa18ea2afa20c7c2298a8699812":[6,0,3582,1],
-"df/d1e/classspell__pri__shadowfiend__scaling.html#aa90952337607986eaf7485200a32c353":[6,0,3582,5],
-"df/d1e/classspell__pri__shadowfiend__scaling.html#aaca0801f75839ebd9568c4cd31011a1e":[6,0,3582,4]
+"df/d1e/classspell__pri__shadowfiend__scaling.html#a9ae59870127884029a938684786e67a9":[6,0,3582,2]
 };

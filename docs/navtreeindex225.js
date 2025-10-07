@@ -1,5 +1,7 @@
 var NAVTREEINDEX225 =
 {
+"d8/dd2/boss__warp__splinter_8cpp.html":[7,0,0,0,1,3,7,5,1,4],
+"d8/dd2/boss__warp__splinter_8cpp.html#a087a0bf698d1b09fd21edaa988fa66b2":[7,0,0,0,1,3,7,5,1,4,3],
 "d8/dd2/boss__warp__splinter_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,5,1,4,1],
 "d8/dd2/boss__warp__splinter_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,1,4,1,3],
 "d8/dd2/boss__warp__splinter_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,1,4,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd8/structguard__shattrath__scryer_1_1guard__shattrath__scryerAI.html#adfcd8bce42148d303fe6ec9b615ffdb1":[6,0,1249,0,1],
 "d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html":[6,0,1719,0],
 "d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#a17c02a83b522c9717de3d89517104e42":[6,0,1719,0,3],
-"d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#a709b75f4b1519bc7c6988985a22d076f":[6,0,1719,0,1],
-"d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#a7448fdf85cccfcb12509b0274205bff4":[6,0,1719,0,5],
-"d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#a766e536288b84110f88a8bd282e97932":[6,0,1719,0,0]
+"d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#a709b75f4b1519bc7c6988985a22d076f":[6,0,1719,0,1]
 };

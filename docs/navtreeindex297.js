@@ -1,5 +1,8 @@
 var NAVTREEINDEX297 =
 {
+"db/deb/classspell__leotheras__insidious__whisper__aura.html#a246c20ab26d1490fe38afd558a7ae406":[6,0,3389,2],
+"db/deb/classspell__leotheras__insidious__whisper__aura.html#a3893fffea480b47d06c4903deb051aa9":[6,0,3389,0],
+"db/deb/classspell__leotheras__insidious__whisper__aura.html#a8f120ed0d8cbce6dd0640f02ea488669":[6,0,3389,1],
 "db/deb/classspell__leotheras__insidious__whisper__aura.html#aea639a3ae0f003c6213143427f3b1d23":[6,0,3389,3],
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html":[6,0,1681,0],
 "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42":[6,0,1681,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX297 =
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b":[7,0,0,0,1,2,8,15,1,6],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412":[7,0,0,0,1,2,8,15,1,1],
 "db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027":[7,0,0,0,1,2,8,15,1,12],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015":[7,0,0,0,1,2,8,15,1,14],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527":[7,0,0,0,1,2,8,15,1,4],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80":[7,0,0,0,1,2,8,15,1,16],
-"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e":[7,0,0,0,1,2,8,15,1,15]
+"db/df4/BattlegroundScore_8h.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015":[7,0,0,0,1,2,8,15,1,14]
 };

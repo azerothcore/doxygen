@@ -1,5 +1,8 @@
 var NAVTREEINDEX336 =
 {
+"dd/dba/structboss__moroes.html#a651f53f476f205785d596ed9d52fdb89":[6,0,626,11],
+"dd/dba/structboss__moroes.html#a677f2b8375981d904183dd804f4b32b8":[6,0,626,9],
+"dd/dba/structboss__moroes.html#a73f4b3c1a3a46261cf62143f8359b55e":[6,0,626,2],
 "dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,626,5],
 "dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,626,4],
 "dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[6,0,626,6],
@@ -12,8 +15,8 @@ var NAVTREEINDEX336 =
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2174],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2174,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2174,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,2,10,25],
 "dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a05199099406aad0582e0efc308c8c563":[7,0,0,0,1,3,5,9,2,10,25,0],
 "dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a61a023722ef4002934768251314eaa2e":[7,0,0,0,1,3,5,9,2,10,25,2],
-"dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a97841264cd19f450483856b9eb8afb33":[7,0,0,0,1,3,5,9,2,10,25,3],
-"dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa3e8be56375c00dd43ca1945495eb049":[7,0,0,0,1,3,5,9,2,10,25,1],
-"dd/dca/boss__razorscale_8cpp.html#a4522a9f95d5ef799965bfe7267743aae":[7,0,0,0,1,3,5,9,2,10,30],
-"dd/dca/boss__razorscale_8cpp.html#a5446f0dfdaa37cea52e903643b50e24c":[7,0,0,0,1,3,5,9,2,10,31]
+"dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a97841264cd19f450483856b9eb8afb33":[7,0,0,0,1,3,5,9,2,10,25,3]
 };

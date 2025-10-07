@@ -1,5 +1,8 @@
 var NAVTREEINDEX392 =
 {
+"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[6,0,4111,19],
+"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[6,0,4111,14],
+"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[6,0,4111,10],
 "df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7":[6,0,4111,70],
 "df/d92/classSpellScript.html#afd67b4fda44df03e43327c80bc2eacdc":[6,0,4111,9],
 "df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493":[6,0,4111,29],
@@ -246,8 +249,5 @@ var NAVTREEINDEX392 =
 "df/d9c/classHostileRefMgr.html#adda97e72581a9cf804abb5483ca82e8a":[6,0,1273,7],
 "df/d9c/classHostileRefMgr.html#af19a7681493ed53a3a8bafbed2c80f76":[6,0,1273,3],
 "df/d9c/structMySQLType_3_01uint64_01_4.html":[6,0,1553],
-"df/d9d/classMessageBuffer.html":[6,0,1502],
-"df/d9d/classMessageBuffer.html#a042a4b72f69338a44f20f11454bec374":[6,0,1502,21],
-"df/d9d/classMessageBuffer.html#a1b6f18821fdf7688de020adfef80760b":[6,0,1502,15],
-"df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b":[6,0,1502,18]
+"df/d9d/classMessageBuffer.html":[6,0,1502]
 };

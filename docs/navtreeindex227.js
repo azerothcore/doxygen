@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deeac3bf23e78473f3a300ff0e560c249076":[7,0,0,0,1,2,8,1,19,6,0],
+"d8/de0/BattlegroundSA_8h.html#a2fdde502d58fcad4ec4e86e7d4753deead4839dd8ea380fcc8ee3ea2590c5c1f5":[7,0,0,0,1,2,8,1,19,6,3],
 "d8/de0/BattlegroundSA_8h.html#a53220f7ce5fdbb409918270e4f8158fd":[7,0,0,0,1,2,8,1,19,15],
 "d8/de0/BattlegroundSA_8h.html#a618d60620199e19e1cf637471ac184d4":[7,0,0,0,1,2,8,1,19,4],
 "d8/de0/BattlegroundSA_8h.html#a6dced036258c6cf42426f1cf0cd838f9":[7,0,0,0,1,2,8,1,19,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "d8/dea/structboss__ormorok.html#a65a1512bad7c773a0aede6ba2cb9700e":[6,0,646,4],
 "d8/dea/structboss__ormorok.html#a88a1c308790e45a6fa09f0d740116f4e":[6,0,646,5],
 "d8/dea/structboss__ormorok.html#aa4862339ed41d5c593a93ef605d85a39":[6,0,646,0],
-"d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[6,0,646,3],
-"d8/dea/structboss__ormorok.html#af84a958b2f16b082fe3b2e1dc70dd8fa":[6,0,646,1],
-"d8/deb/SpellAuraEffects_8h.html":[7,0,0,0,1,2,41,0,2]
+"d8/dea/structboss__ormorok.html#acc149b49e6658454610a7871e3c82b5e":[6,0,646,3]
 };

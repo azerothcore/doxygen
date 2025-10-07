@@ -1,5 +1,8 @@
 var NAVTREEINDEX379 =
 {
+"de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10":[7,0,0,0,1,3,6,4,2,1],
+"de/dfd/classboss__ick.html":[6,0,543],
+"de/dfd/classboss__ick.html#a355285766712a31b704c23fe85d19e5f":[6,0,543,2],
 "de/dfd/classboss__ick.html#af97d7f96bc48ba245e28c18614b9369e":[6,0,543,1],
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html":[6,0,2669],
 "de/dfd/classspell__blood__queen__essence__of__the__blood__queen__aura.html#a52b1231f37e8b3d810614365659a98b6":[6,0,2669,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX379 =
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651":[7,0,0,0,1,3,2,1,1,0,3],
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a04a798596253400e56aa5d0bc400fde5":[7,0,0,0,1,3,2,1,1,0,3,0],
 "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a2bb5be33f037d886f8df2406455fb2ef":[7,0,0,0,1,3,2,1,1,0,3,6],
-"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a3d76a0781f88ad5ad001c8e70b5d6ce5":[7,0,0,0,1,3,2,1,1,0,3,7],
-"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a487f2d32f03a1835e30c42ab2023c696":[7,0,0,0,1,3,2,1,1,0,3,3],
-"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a4fce6c03cd599fa00b8279ea4df56372":[7,0,0,0,1,3,2,1,1,0,3,4],
-"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651aa13e5048f80baa1564874303f6f81db0":[7,0,0,0,1,3,2,1,1,0,3,5]
+"df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a3d76a0781f88ad5ad001c8e70b5d6ce5":[7,0,0,0,1,3,2,1,1,0,3,7]
 };

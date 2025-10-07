@@ -1,5 +1,8 @@
 var NAVTREEINDEX368 =
 {
+"de/d80/classPetitionMgr.html#af5f18d9200b61cd5e84652c51206f1d7":[6,0,2400,12],
+"de/d80/structCliCommandHolder.html":[6,0,880],
+"de/d80/structCliCommandHolder.html#a416a66ac78f1d2cb1ee2d0d93f276f43":[6,0,880,8],
 "de/d80/structCliCommandHolder.html#a44ca7e8af5c717b1cff7b143afc077ee":[6,0,880,3],
 "de/d80/structCliCommandHolder.html#a4579ce86ff43da89524b62eefe308a59":[6,0,880,6],
 "de/d80/structCliCommandHolder.html#a5a45e891607114cd070721fd51926cd5":[6,0,880,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX368 =
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8cf65be6cb8de4377425b4d7b735d911":[7,0,0,0,1,3,5,4,2,1,6,0],
 "de/d8f/boss__krickandick_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97989e823ec77d02c224f173791a7d70":[7,0,0,0,1,3,5,4,2,1,6,2],
 "de/d8f/classSessionKeyGenerator.html":[6,0,2550],
-"de/d8f/classSessionKeyGenerator.html#a1eb1aafb255ccf771b0a49dcab869297":[6,0,2550,2],
-"de/d8f/classSessionKeyGenerator.html#a2162fde8dbb84fc165faedaafed706b5":[6,0,2550,1],
-"de/d8f/classSessionKeyGenerator.html#a462354aed63797a90fc228e6399cb740":[6,0,2550,4],
-"de/d8f/classSessionKeyGenerator.html#a617205c872f2163026d511809776a775":[6,0,2550,5]
+"de/d8f/classSessionKeyGenerator.html#a1eb1aafb255ccf771b0a49dcab869297":[6,0,2550,2]
 };

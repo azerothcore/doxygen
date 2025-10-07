@@ -1,5 +1,8 @@
 var NAVTREEINDEX375 =
 {
+"de/dbb/classChatLogScript.html":[6,0,869],
+"de/dbb/classChatLogScript.html#a64e047261c3d3de22614950c6b6f6f79":[6,0,869,2],
+"de/dbb/classChatLogScript.html#a9962307a0e073ee3f5e7139f059e01b8":[6,0,869,5],
 "de/dbb/classChatLogScript.html#a9dc39835aac01da34c57c420fc82790e":[6,0,869,1],
 "de/dbb/classChatLogScript.html#ac9a4dc6a35325a87c69f08f50a26750c":[6,0,869,3],
 "de/dbb/classChatLogScript.html#ade8c407083cf094f0767412e7b6d7730":[6,0,869,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX375 =
 "de/dcc/zone__thousand__needles_8cpp.html#a58e024bcebfefe3b44080ac0751c36bd":[7,0,0,0,1,3,4,30,12],
 "de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502":[7,0,0,0,1,3,4,30,10],
 "de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84":[7,0,0,0,1,3,4,30,10,0],
-"de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe":[7,0,0,0,1,3,4,30,10,1],
-"de/dcc/zone__thousand__needles_8cpp.html#a9d831677b4e878c5a76e7bc332ba6730":[7,0,0,0,1,3,4,30,13],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102":[7,0,0,0,1,3,4,30,9],
-"de/dcc/zone__thousand__needles_8cpp.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c":[7,0,0,0,1,3,4,30,9,3]
+"de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe":[7,0,0,0,1,3,4,30,10,1]
 };

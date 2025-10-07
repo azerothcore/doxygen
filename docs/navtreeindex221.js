@@ -1,5 +1,7 @@
 var NAVTREEINDEX221 =
 {
+"d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a3e6898dbc2ee537b1ceb3ec010f41e9a":[7,0,0,0,1,3,5,9,2,5,15,2],
+"d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a4085e50ab24b1c850f3d2bd794e7bcfd":[7,0,0,0,1,3,5,9,2,5,15,10],
 "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a4429f60bd78c6a9ed9807e56dcd85468":[7,0,0,0,1,3,5,9,2,5,15,4],
 "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a6a9dab42d0ab9faad58f5a6150641dba":[7,0,0,0,1,3,5,9,2,5,15,6],
 "d8/d93/boss__general__vezax_8cpp.html#a04c25e824f5c3d2c058222ce5ffa6546a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,9,2,5,15,9],
@@ -179,12 +181,12 @@ var NAVTREEINDEX221 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1658,0,7],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,31,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,31,2,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,2,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,2,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,31,2,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,31,2,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,2,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2504],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2504,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2504,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX221 =
 "d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a2ae1c178a84c6d6899cf6400cb963e44":[6,0,1819,0,6],
 "d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a32bd4ed61bc62206ccedcf4acaeb8df8":[6,0,1819,0,4],
 "d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a3dfe1f28c9301c30186beb27ab76f9a9":[6,0,1819,0,8],
-"d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a4d4bd899a40ff44f8ee517b2a0328538":[6,0,1819,0,0],
-"d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a5457c18c60a8301ea60ef34d810a14c9":[6,0,1819,0,1],
-"d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a89ce158e08b3da1e54b0be6caa3950b8":[6,0,1819,0,9]
+"d8/da1/structnpc__green__dragon__combat__trigger_1_1npc__green__dragon__combat__triggerAI.html#a4d4bd899a40ff44f8ee517b2a0328538":[6,0,1819,0,0]
 };

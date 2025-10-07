@@ -4,6 +4,7 @@ var structinstance__gundrak_1_1instance__gundrak__InstanceMapScript =
     [ "Initialize", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a680e2b0263e64f4f0b0a71f011199202", null ],
     [ "OnGameObjectCreate", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
     [ "OnGameObjectRemove", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
+    [ "OnUnitDeath", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
     [ "SetBossState", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
     [ "SetData", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a39611dead845510e26b16e8eb54114a2", null ],
     [ "Update", "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a50b5e4d1ff3baf4698483f47828ee492", null ],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX313 =
 {
+"dc/d97/classnpc__auriaya__sanctum__sentry.html#a6a8843d3f24378a2fd334e773618ab72":[6,0,1621,2],
+"dc/d97/classnpc__auriaya__sanctum__sentry.html#aa275374ba3a19a2e6a8768d4f01752b2":[6,0,1621,1],
+"dc/d97/classnpc__phalanx.html":[6,0,2039],
 "dc/d97/classnpc__phalanx.html#a947ee4659fe2a46d775119ddcefeb939":[6,0,2039,1],
 "dc/d97/classnpc__phalanx.html#ab1e2a0950ab286d5abae3d46aef3c623":[6,0,2039,2],
 "dc/d97/classspell__warl__seduction.html":[6,0,3997],
@@ -17,10 +20,10 @@ var NAVTREEINDEX313 =
 "dc/d97/structTaxiPathNodeEntry.html#aef005db912b0a57ecc5d62c66d838826":[6,0,4155,2],
 "dc/d97/structTaxiPathNodeEntry.html#af48d85940d7f204091e8438427a72e2d":[6,0,4155,9],
 "dc/d97/structTaxiPathNodeEntry.html#af9f8e03c2d9c1bdf266b3d62f1174224":[6,0,4155,4],
-"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[6,0,11,11,1],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[5,0,31,11,1],
-"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[6,0,11,11,1,0],
+"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[6,0,11,11,1],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[5,0,31,11,1,0],
+"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[6,0,11,11,1,0],
 "dc/d97/structboss__apoko.html":[6,0,381],
 "dc/d97/structboss__apoko.html#a3ae4752839f47bbfce5f7df03c427cd2":[6,0,381,0],
 "dc/d97/structboss__apoko.html#a7ad52b258863bd818b3e5d1143de7629":[6,0,381,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac8ca49b75dcb00ab09580e7f6aab2d48":[7,0,0,0,1,3,4,9,8,9,0],
 "dc/da8/boss__viscidus_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,4,9,8,14],
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7":[7,0,0,0,1,3,4,9,8,7],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a1b785791616e3693f6729f05db08ca25":[7,0,0,0,1,3,4,9,8,7,3],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a33260e404b79422a7861543d35a092b5":[7,0,0,0,1,3,4,9,8,7,0],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a383be1ad0cf8f03dde4b61254614ad7c":[7,0,0,0,1,3,4,9,8,7,5],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7ac73c3f5a048d6f5aa269225f23dbdac7":[7,0,0,0,1,3,4,9,8,7,1]
+"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a1b785791616e3693f6729f05db08ca25":[7,0,0,0,1,3,4,9,8,7,3]
 };

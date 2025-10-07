@@ -1,5 +1,8 @@
 var NAVTREEINDEX396 =
 {
+"df/db8/structboss__alar.html#a6528ce377b6a3d1b89ae2d85646305e9":[6,0,367,27],
+"df/db8/structboss__alar.html#a87eb5de70e5cc72f68f11be07fc3b8b3":[6,0,367,13],
+"df/db8/structboss__alar.html#a9216a80c34fddef60d5c8756e2b5b102":[6,0,367,4],
 "df/db8/structboss__alar.html#aa2e0377eb03bb5bdcc773ea6639625b6":[6,0,367,16],
 "df/db8/structboss__alar.html#aa53951ef1e41fc7009c5bc53470095de":[6,0,367,11],
 "df/db8/structboss__alar.html#aa6d22f66e285a61fb4f1f945674aef53":[6,0,367,18],
@@ -246,8 +249,5 @@ var NAVTREEINDEX396 =
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2":[7,0,0,0,0,9,3,1,8],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81":[7,0,0,0,0,9,3,1,10],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3":[7,0,0,0,0,9,3,1,0],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88":[7,0,0,0,0,9,3,1,1],
-"df/dc8/classNullCreatureAI.html":[6,0,2321],
-"df/dc8/classNullCreatureAI.html#a12c54c92a08e81751563ec9522236b28":[6,0,2321,3],
-"df/dc8/classNullCreatureAI.html#a726edd296c16ed2414fcc1827f88238f":[6,0,2321,2]
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88":[7,0,0,0,0,9,3,1,1]
 };

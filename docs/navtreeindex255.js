@@ -1,5 +1,7 @@
 var NAVTREEINDEX255 =
 {
+"da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,1,117,0],
+"da/d4b/classCastArmageddon.html":[6,0,837],
 "da/d4b/classCastArmageddon.html#a1e70887099a7a47b7c26517d4363ad93":[6,0,837,2],
 "da/d4b/classCastArmageddon.html#a2e90929b63e6151252aa01a55dbd801f":[6,0,837,0],
 "da/d4b/classCastArmageddon.html#a4f0651a38eaf03a07bcd73d0f88dda16":[6,0,837,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX255 =
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3758183c8861bf06b306d425ee3277e2":[7,0,0,0,1,3,5,8,2,1,6,3],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c228b425f8b70001e3ea83230ba978a":[7,0,0,0,1,3,5,8,2,1,6,4],
 "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca408d8bb8db80db05d285009d31b403e6":[7,0,0,0,1,3,5,8,2,1,6,10],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca446d4017e711f785f72f7d1acbbb4276":[7,0,0,0,1,3,5,8,2,1,6,2],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca46acf1ed335ab27fd8b571fadaab2553":[7,0,0,0,1,3,5,8,2,1,6,11],
-"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca58cb58cfc2215580b0b435d80c915be1":[7,0,0,0,1,3,5,8,2,1,6,7]
+"da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca446d4017e711f785f72f7d1acbbb4276":[7,0,0,0,1,3,5,8,2,1,6,2]
 };

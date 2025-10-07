@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7ec":[7,0,0,0,1,3,2,12,1,11],
+"dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca1fc81e84c9fd36562ef930b498151954":[7,0,0,0,1,3,2,12,1,11,2],
+"dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca29a371143c4e7f8140404f7d8f9a29ee":[7,0,0,0,1,3,2,12,1,11,1],
 "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca91bbcc3808c94e9f9f27c03c1cb93002":[7,0,0,0,1,3,2,12,1,11,0],
 "dc/dd6/boss__eredar__twins_8cpp.html#a9c5bef89bea407c4bf2b7d6c4011c7eca9c18ef85f72e2f6f200c311478e6f5e8":[7,0,0,0,1,3,2,12,1,11,3],
 "dc/dd6/classRespawnEvent.html":[6,0,2507],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca1de3d76595bb0c4e35568eaa92ec":[7,0,0,0,1,3,7,0,0,2,3,3],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dff932661b864d3df21370e3cdee19f":[7,0,0,0,1,3,7,0,0,2,3,1],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e3377c92da71e4bb87a6621c82e94fd":[7,0,0,0,1,3,7,0,0,2,3,6],
-"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cab151d62dbb3f9b3af29b5b025c27fbc7":[7,0,0,0,1,3,7,0,0,2,3,4],
-"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cae7d77304e23ba7ad5b4feab5c71266da":[7,0,0,0,1,3,7,0,0,2,3,7],
-"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298caf51ee5a16ea9ca6146d52ef59116e8f1":[7,0,0,0,1,3,7,0,0,2,3,5],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html":[6,0,1100]
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cab151d62dbb3f9b3af29b5b025c27fbc7":[7,0,0,0,1,3,7,0,0,2,3,4]
 };

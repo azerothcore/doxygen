@@ -1,5 +1,8 @@
 var NAVTREEINDEX363 =
 {
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a2b553c29823e5ef888ee02a3ed413386":[6,0,1591,0,3],
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a59ccca7093575f4bcac57a4751d977d4":[6,0,1591,0,0],
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a9778a1648ca0007f7daf4ee98308d8d2":[6,0,1591,0,2],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[6,0,1591,0,4],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#aec5788f0be3c1dcb63b3e61b50ae39c1":[6,0,1591,0,1],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html":[6,0,3366],
@@ -246,8 +249,5 @@ var NAVTREEINDEX363 =
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a38bf10a96c8eae45b4aa0bd095924f85":[6,0,1629,0,7],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a924ceb13552f0f01d55375af0324bf5a":[6,0,1629,0,6],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9cabb9053b3c6b51be184b2144e5ec54":[6,0,1629,0,5],
-"de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91":[6,0,1629,0,3],
-"de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#ac17dc46bfe75582a789a2056978218fb":[6,0,1629,0,4],
-"de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,3,0]
+"de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91":[6,0,1629,0,3]
 };

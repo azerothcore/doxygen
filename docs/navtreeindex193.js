@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d81/classOPvPCapturePointEP__EWT.html#ac0bcdfb9f2aeabc78b72c3cce674c479":[6,0,2339,7],
+"d7/d81/classOPvPCapturePointEP__EWT.html#ad70a8cc485072cd9af892290584062d8":[6,0,2339,6],
 "d7/d81/classOPvPCapturePointEP__EWT.html#aed78ccf9ad517b4a94431e3355cba1dd":[6,0,2339,3],
 "d7/d81/classspell__challenge__veraku.html":[6,0,2713],
 "d7/d81/classspell__challenge__veraku.html#a0d995c6ae6d1da0014c053a62b37a7b7":[6,0,2713,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d8f/structWardenInitModuleRequest.html#a5581ce736e7775672e3dfddac30f93a6":[6,0,4257,8],
 "d7/d8f/structWardenInitModuleRequest.html#a5c9088f1afebb8e6eb3681559c4a0335":[6,0,4257,6],
 "d7/d8f/structWardenInitModuleRequest.html#a5d703b2e3f2db47e48b9fddc42188b3f":[6,0,4257,1],
-"d7/d8f/structWardenInitModuleRequest.html#a6df8356687ff82f7a761829e29138ea1":[6,0,4257,4],
-"d7/d8f/structWardenInitModuleRequest.html#a82bde8faee080fe079ee5788e80f367d":[6,0,4257,7],
-"d7/d8f/structWardenInitModuleRequest.html#a941149a5bc9c7b46fd245b2a89d017d4":[6,0,4257,12]
+"d7/d8f/structWardenInitModuleRequest.html#a6df8356687ff82f7a761829e29138ea1":[6,0,4257,4]
 };

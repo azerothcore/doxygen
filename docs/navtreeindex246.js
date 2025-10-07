@@ -1,5 +1,7 @@
 var NAVTREEINDEX246 =
 {
+"d9/df1/structSpellFocusObjectEntry.html#a34a2bcafda3bfe22d829f1782031bb4b":[6,0,4090,0],
+"d9/df2/classnpc__q24545__vegard.html":[6,0,2068],
 "d9/df2/classnpc__q24545__vegard.html#a9a7accfb3eea9f08efbb82fbd4bd7e76":[6,0,2068,2],
 "d9/df2/classnpc__q24545__vegard.html#ac12e2f143fab6b93950eaea06f5f7d85":[6,0,2068,1],
 "d9/df2/classspell__najentus__remove__spines.html":[6,0,3486],
@@ -247,7 +249,5 @@ var NAVTREEINDEX246 =
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ac7d5c147983433f8d4c7b8a907cad3a7":[7,0,0,0,1,3,5,9,2,16,3,10],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acf1fb682eb9a04679d941e02b7bfd470":[7,0,0,0,1,3,5,9,2,16,3,27],
 "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ad8828c678b2dfc9e6712c730388aaa02":[7,0,0,0,1,3,5,9,2,16,3,24],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2adc7d3dd1e424bae9564dead1249783d2":[7,0,0,0,1,3,5,9,2,16,3,9],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae3c24bcd411ea3dea5d4b30962003fdc":[7,0,0,0,1,3,5,9,2,16,3,12],
-"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ae9eac7645b4f2648d0af2f3d0ea22ebc":[7,0,0,0,1,3,5,9,2,16,3,28]
+"d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2adc7d3dd1e424bae9564dead1249783d2":[7,0,0,0,1,3,5,9,2,16,3,9]
 };

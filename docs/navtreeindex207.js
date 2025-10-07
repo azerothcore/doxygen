@@ -1,5 +1,7 @@
 var NAVTREEINDEX207 =
 {
+"d7/dee/classspell__eredar__twins__apply__touch.html#a9f8c58013add0fc5a05a78e1b90a32e1":[6,0,2870,5],
+"d7/def/classFrozenThroneResetWorker.html":[6,0,1070],
 "d7/def/classFrozenThroneResetWorker.html#a7119548d30d760ae817a87cacf712cf6":[6,0,1070,1],
 "d7/def/classFrozenThroneResetWorker.html#afd21e9c1449d4e391713256e197bc92b":[6,0,1070,0],
 "d7/def/classboss__four__horsemen.html":[6,0,474],
@@ -247,7 +249,5 @@ var NAVTREEINDEX207 =
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cab77bbfbe52ce8a4876d6c762735cfbc9":[7,0,0,0,1,2,16,10,6,7,16],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac0d940f97165e877e8c3ec0fed5074c6":[7,0,0,0,1,2,16,10,6,7,6],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac2743246d577352cdae533578e3c8c1b":[7,0,0,0,1,2,16,10,6,7,4],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac5b4b27f0234cd99d2a201732a392b85":[7,0,0,0,1,2,16,10,6,7,28],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac6f4bdb76e70e28c403bbd02bf4a969d":[7,0,0,0,1,2,16,10,6,7,17],
-"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cad1fdce3b8651f9cc379452c672b19245":[7,0,0,0,1,2,16,10,6,7,12]
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547cac5b4b27f0234cd99d2a201732a392b85":[7,0,0,0,1,2,16,10,6,7,28]
 };

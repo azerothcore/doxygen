@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
+"d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da177a9970dc48b6b76efcc2b0598c66b1":[7,0,0,0,1,3,10,13,2,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652":[7,0,0,0,1,3,10,13,2,12],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da2643442342f258b423a515f080a54e20":[7,0,0,0,1,3,10,13,2,5],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da3fbc05f4296e0da814e110a6f7b8f859":[7,0,0,0,1,3,10,13,2,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#add67e02f44e3658bff98faf7a9466ba3":[6,0,3915,0],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html":[6,0,2331,0],
 "d9/dd7/structObjectPosSelector_1_1UsedPos.html#a2b5f97425309d56482a1f287b6d5be69":[6,0,2331,0,2],
-"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a4ad5a2df36ae9c1cd9130c5efd27af58":[6,0,2331,0,3],
-"d9/dd7/structObjectPosSelector_1_1UsedPos.html#ae73cbe8b0cf3ce714f6654df3a8874de":[6,0,2331,0,1],
-"d9/dd7/structObjectPosSelector_1_1UsedPos.html#aef230e392619ad4abc2da649d11b2394":[6,0,2331,0,0]
+"d9/dd7/structObjectPosSelector_1_1UsedPos.html#a4ad5a2df36ae9c1cd9130c5efd27af58":[6,0,2331,0,3]
 };

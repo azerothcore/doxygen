@@ -1,5 +1,8 @@
 var NAVTREEINDEX386 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#a645e2fd76111f49ccf80e11bd1e05fd1":[5,0,18,2,10],
+"df/d3e/classlfg_1_1LfgGroupData.html#a6b55dde22dda026859e9a2e25aee39a6":[5,0,18,2,2],
+"df/d3e/classlfg_1_1LfgGroupData.html#a6b55dde22dda026859e9a2e25aee39a6":[6,0,5,2,2],
 "df/d3e/classlfg_1_1LfgGroupData.html#a6fa7cde38f9e3b2dcea18b0be1d13005":[5,0,18,2,18],
 "df/d3e/classlfg_1_1LfgGroupData.html#a6fa7cde38f9e3b2dcea18b0be1d13005":[6,0,5,2,18],
 "df/d3e/classlfg_1_1LfgGroupData.html#a77bb4f006c53bac1d457dd21dc8c54d9":[5,0,18,2,19],
@@ -246,8 +249,5 @@ var NAVTREEINDEX386 =
 "df/d50/boss__keristrasza_8cpp.html#a94963838fa62017b6c828d31ff1061ee":[7,0,0,0,1,3,5,8,1,2,5],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,8,1,2,3],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a17bfc27de87051c2b38ca746bfb1b732":[7,0,0,0,1,3,5,8,1,2,3,2],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,8,1,2,3,5],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[7,0,0,0,1,3,5,8,1,2,3,1],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[7,0,0,0,1,3,5,8,1,2,3,4],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,8,1,2,3,3]
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,8,1,2,3,5]
 };

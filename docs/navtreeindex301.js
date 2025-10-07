@@ -1,5 +1,8 @@
 var NAVTREEINDEX301 =
 {
+"dc/d07/classInstanceMapScript.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8":[6,0,1362,2],
+"dc/d07/classInstanceMapScript.html#ab77651bb427813a7e119057c3dc53ca8":[6,0,1362,3],
+"dc/d07/classnpc__captain__brandon.html":[6,0,1677],
 "dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[6,0,1677,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[6,0,1677,1],
 "dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3144],
@@ -246,8 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html#ac4f39049ba15caf314939f12b82ccd05":[6,0,1576,0,1],
 "dc/d0c/AllPackets_8h.html":[7,0,0,0,1,2,39,0,0],
 "dc/d0c/classspell__dru__tiger__s__fury.html":[6,0,2853],
-"dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2853,1],
-"dc/d0c/classspell__dru__tiger__s__fury.html#a56ecd2ea05f48b874b2890d7f15cc362":[6,0,2853,0],
-"dc/d0c/classspell__dru__tiger__s__fury.html#a7cd2cc858eeb7805a3efb72b081c284e":[6,0,2853,2],
-"dc/d0d/cs__disable_8cpp.html":[7,0,0,0,1,3,0,12]
+"dc/d0c/classspell__dru__tiger__s__fury.html#a0d74ce7c43f0cb7329ca990f1b0eecdf":[6,0,2853,1]
 };

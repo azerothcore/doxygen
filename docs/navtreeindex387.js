@@ -1,5 +1,8 @@
 var NAVTREEINDEX387 =
 {
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[7,0,0,0,1,3,5,8,1,2,3,1],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[7,0,0,0,1,3,5,8,1,2,3,4],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,8,1,2,3,3],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[7,0,0,0,1,3,5,8,1,2,3,0],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html":[6,0,3872],
 "df/d50/classspell__teron__gorefiend__shadow__of__death__remove.html#a25e3078f0b2d71ea0e6802aae0a6c7a4":[6,0,3872,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX387 =
 "df/d5c/classnpc__commandscript.html#a8686af61d6197dc490848a357db3bf4f":[6,0,1694,7],
 "df/d5c/classnpc__commandscript.html#a9476a80d830149da97934707ffcc31c7":[6,0,1694,15],
 "df/d5c/classnpc__commandscript.html#a99754050720ac6703d09ca3e2d1007ff":[6,0,1694,11],
-"df/d5c/classnpc__commandscript.html#aa8896b4302ed0626d0ae02d218a9a36e":[6,0,1694,0],
-"df/d5c/classnpc__commandscript.html#aa95dc7156bbca64a885882fc3cbbdacb":[6,0,1694,13],
-"df/d5c/classnpc__commandscript.html#aaf6746d287ad6f59ddfc54e20f5fd5e7":[6,0,1694,28],
-"df/d5c/classnpc__commandscript.html#ab16b17e314d718747ed066c418f4f61b":[6,0,1694,17]
+"df/d5c/classnpc__commandscript.html#aa8896b4302ed0626d0ae02d218a9a36e":[6,0,1694,0]
 };

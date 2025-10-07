@@ -3,6 +3,7 @@ var gundrak_8h =
     [ "DataHeader", "d7/d1b/gundrak_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "GundrakScriptName", "d7/d1b/gundrak_8h.html#a3212386787be4354697162a8be43d3e9", null ],
     [ "Creatures", "d7/d1b/gundrak_8h.html#a25a619e6b66096a4f05d048e4a96df08", [
+      [ "NPC_RUINS_DWELLER", "d7/d1b/gundrak_8h.html#a25a619e6b66096a4f05d048e4a96df08a8a40ee54d91e17413d5da741425f6c53", null ],
       [ "NPC_ECK_THE_FEROCIOUS", "d7/d1b/gundrak_8h.html#a25a619e6b66096a4f05d048e4a96df08a4611480f360f1dd703a22b1547d7d501", null ]
     ] ],
     [ "Data", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
@@ -10,7 +11,6 @@ var gundrak_8h =
       [ "DATA_MOORABI", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe", null ],
       [ "DATA_DRAKKARI_COLOSSUS", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a32975304248dc504bd8206a2e3a33d14", null ],
       [ "DATA_GAL_DARAH", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d", null ],
-      [ "DATA_ECK_THE_FEROCIOUS_INIT", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a3683686008191891e5e1c027669afca4", null ],
       [ "DATA_ECK_THE_FEROCIOUS", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288", null ],
       [ "MAX_ENCOUNTERS", "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ]
     ] ],
@@ -29,6 +29,9 @@ var gundrak_8h =
       [ "GO_GAL_DARAH_DOORS0", "d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf", null ],
       [ "GO_GAL_DARAH_DOORS1", "d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34", null ],
       [ "GO_GAL_DARAH_DOORS2", "d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be", null ]
+    ] ],
+    [ "GDTexts", "d7/d1b/gundrak_8h.html#a02d507e024e1a2e0a227bc83912947c0", [
+      [ "EMOTE_SUMMON_ECK", "d7/d1b/gundrak_8h.html#a02d507e024e1a2e0a227bc83912947c0a346323082578c2b88bb07dd4f602be99", null ]
     ] ],
     [ "GetGundrakAI", "d7/d1b/gundrak_8h.html#a50e309a7e739dcdd074e5281d54e0e8d", null ]
 ];

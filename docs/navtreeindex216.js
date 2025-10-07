@@ -1,5 +1,7 @@
 var NAVTREEINDEX216 =
 {
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[6,0,3362,1],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a7dc81b47954ee8c10b99f389740de0be":[6,0,3362,2],
 "d8/d6c/classspell__kiljaeden__darkness__aura.html#afd94a159c0f429f2a63ffbd0a38d32e3":[6,0,3362,3],
 "d8/d6d/classboss__faerlina.html":[6,0,456],
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[6,0,456,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX216 =
 "d8/d74/classWorldSession.html#a2e114eefda540260da138191ebcff45c":[4,1,19,267],
 "d8/d74/classWorldSession.html#a2f6f8217cc88555da15b0338405eb6aa":[4,1,19,624],
 "d8/d74/classWorldSession.html#a3008a6d3b0bfa667b1378ddaa13fd35a":[4,1,19,320],
-"d8/d74/classWorldSession.html#a30657b23cffcb5781db3d66d3be59bba":[4,1,19,310],
-"d8/d74/classWorldSession.html#a30a2db8deeea54dc5bf2bfa41292656b":[4,1,19,577],
-"d8/d74/classWorldSession.html#a30c3562923214a78b3d4c55d8ecca613":[4,1,19,103]
+"d8/d74/classWorldSession.html#a30657b23cffcb5781db3d66d3be59bba":[4,1,19,310]
 };

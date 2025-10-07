@@ -1,5 +1,7 @@
 var NAVTREEINDEX228 =
 {
+"d8/dea/structboss__ormorok.html#af84a958b2f16b082fe3b2e1dc70dd8fa":[6,0,646,1],
+"d8/deb/SpellAuraEffects_8h.html":[7,0,0,0,1,2,41,0,2],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354":[7,0,0,0,1,2,41,0,2,3],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf":[7,0,0,0,1,2,41,0,2,3,2],
 "d8/deb/SpellAuraEffects_8h.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa":[7,0,0,0,1,2,41,0,2,3,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX228 =
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html":[6,0,2352],
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#a5178152ee493eb90b1c1c0f611c6cd92":[6,0,2352,0],
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[6,0,2352,1],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html":[6,0,447,0],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#a120a2c9a6af821ce9a5e68dbab6e800d":[6,0,447,0,5],
-"d8/dfb/structboss__erekem_1_1boss__erekemAI.html#a12e7fb5389977dcacb4e1eadda771467":[6,0,447,0,3]
+"d8/dfb/structboss__erekem_1_1boss__erekemAI.html":[6,0,447,0]
 };

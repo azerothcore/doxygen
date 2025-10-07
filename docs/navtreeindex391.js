@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"df/d87/structFireworkShowGameobject.html#a6e527854cf0959995d6b0133dedc94c9":[6,0,1045,5],
+"df/d87/structFireworkShowGameobject.html#a71696fa3f95eb20d950b6ba2ada153f4":[6,0,1045,2],
+"df/d87/structFireworkShowGameobject.html#a7536047696bd4883237369976b503131":[6,0,1045,6],
 "df/d87/structFireworkShowGameobject.html#ac2e4113330ebc9d9db379fb87eb55c03":[6,0,1045,3],
 "df/d87/structFireworkShowGameobject.html#af0a1551e7a1ced5413b6096ba15db8b2":[6,0,1045,0],
 "df/d88/BattlegroundQueue_8h.html":[7,0,0,0,1,2,8,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "df/d92/classSpellScript.html#ad3b76d0716ab3113b56ef35336e75709":[6,0,4111,36],
 "df/d92/classSpellScript.html#ad3fb0c4ae38db059329d9a7e6d11fc61":[6,0,4111,39],
 "df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c":[6,0,4111,45],
-"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[6,0,4111,32],
-"df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48":[6,0,4111,19],
-"df/d92/classSpellScript.html#aecd0691fc6d21cb60a541a90b54a0752":[6,0,4111,14],
-"df/d92/classSpellScript.html#af5ed45bb5bb6861d998872bb8209e1f9":[6,0,4111,10]
+"df/d92/classSpellScript.html#ae3a346f0c6d7b3d49722a4ba064d2104":[6,0,4111,32]
 };

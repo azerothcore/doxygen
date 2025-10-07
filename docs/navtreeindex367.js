@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"de/d79/classGuild.html#a19ab0b7ff433180bafc6461c7588084c":[6,0,1252,21],
+"de/d79/classGuild.html#a19f2098d79ea84109f24e78120783f0f":[6,0,1252,106],
+"de/d79/classGuild.html#a1cf2f6743e8ca60a2ea0a384e5efbb72":[6,0,1252,92],
 "de/d79/classGuild.html#a1da2ede98657c593c8c19b598055369b":[6,0,1252,44],
 "de/d79/classGuild.html#a1f3d236dfe2a86fa6c965cc6edbf3e70":[6,0,1252,131],
 "de/d79/classGuild.html#a2083addbe913158d6e369d72c1f4444a":[6,0,1252,97],
@@ -246,8 +249,5 @@ var NAVTREEINDEX367 =
 "de/d80/classPetitionMgr.html#ab4284c466ee19dfb7d5214c598289441":[6,0,2400,17],
 "de/d80/classPetitionMgr.html#abf63ac05499b814d0d8f560803f57be4":[6,0,2400,4],
 "de/d80/classPetitionMgr.html#ad3fa9f06bda57a2ff4bac0f1650f5257":[6,0,2400,15],
-"de/d80/classPetitionMgr.html#ad6ad64ff57918817def0f948a3c03717":[6,0,2400,16],
-"de/d80/classPetitionMgr.html#af5f18d9200b61cd5e84652c51206f1d7":[6,0,2400,12],
-"de/d80/structCliCommandHolder.html":[6,0,880],
-"de/d80/structCliCommandHolder.html#a416a66ac78f1d2cb1ee2d0d93f276f43":[6,0,880,8]
+"de/d80/classPetitionMgr.html#ad6ad64ff57918817def0f948a3c03717":[6,0,2400,16]
 };

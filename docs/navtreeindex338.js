@@ -1,5 +1,8 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcb/classChaseMovementGenerator.html#a30cd5471f5737157cf09bc3eca69758f":[6,0,865,11],
+"dd/dcb/classChaseMovementGenerator.html#a40340fa8d9408a63c564b2a08e9b892a":[6,0,865,19],
+"dd/dcb/classChaseMovementGenerator.html#a4ca225d9e4ded1e7de6249595f69f912":[6,0,865,16],
 "dd/dcb/classChaseMovementGenerator.html#a529672fc598fa3c38cbf309c4e95c7bc":[6,0,865,4],
 "dd/dcb/classChaseMovementGenerator.html#a54601925140f09b330caaba240a43037":[6,0,865,8],
 "dd/dcb/classChaseMovementGenerator.html#a54e73981951bb609a81ab261e22a316e":[6,0,865,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd3/zone__netherstorm_8cpp.html#af18063468550fc13e844aa9bdecb6ab7":[7,0,0,0,1,3,7,12,17],
 "dd/dd3/zone__netherstorm_8cpp.html#af18063468550fc13e844aa9bdecb6ab7abd31c036b8a79a737cae978516c5f087":[7,0,0,0,1,3,7,12,17,0],
 "dd/dd3/zone__netherstorm_8cpp.html#af18063468550fc13e844aa9bdecb6ab7af8e60521d2a469bf01d03351ca50b206":[7,0,0,0,1,3,7,12,17,1],
-"dd/dd3/zone__netherstorm_8cpp.html#af51d6fe8cee4df374fd97aee6f3b65ca":[7,0,0,0,1,3,7,12,18],
-"dd/dd4/classBattlegroundEY.html":[6,0,320],
-"dd/dd4/classBattlegroundEY.html#a0150b390b2e3107d0c5a4e73b9676174":[6,0,320,27],
-"dd/dd4/classBattlegroundEY.html#a019b1c6bbcc16fb7723dec92115cd2f0":[6,0,320,10]
+"dd/dd3/zone__netherstorm_8cpp.html#af51d6fe8cee4df374fd97aee6f3b65ca":[7,0,0,0,1,3,7,12,18]
 };

@@ -1,18 +1,21 @@
 var NAVTREEINDEX274 =
 {
+"db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068":[7,0,0,0,1,3,4,22,2],
+"db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149":[7,0,0,0,1,3,4,22,2,4],
+"db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99":[7,0,0,0,1,3,4,22,2,1],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,22,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,22,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,22,2,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
 "db/d03/classboss__sartharion.html":[6,0,683],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,683,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,683,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX274 =
 "db/d10/MotionMaster_8h.html#a6386d0a4b64b17a25a60627bb55b360c":[7,0,0,0,1,2,31,7,3],
 "db/d10/MotionMaster_8h.html#af0544189c7fc748059c3075861102b40":[7,0,0,0,1,2,31,7,4],
 "db/d13/ScriptMgr_8cpp.html":[7,0,0,0,1,2,38,2],
-"db/d13/ScriptMgr_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc":[7,0,0,0,1,2,38,2,1],
-"db/d13/SmartAI_8h.html":[7,0,0,0,1,2,3,2,1],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54":[7,0,0,0,1,2,3,2,1,3],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19":[7,0,0,0,1,2,3,2,1,3,1]
+"db/d13/ScriptMgr_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc":[7,0,0,0,1,2,38,2,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX233 =
 {
+"d9/d3a/classVec2D.html#acd5750b1090398a34acda59a60aaf1cc":[6,0,4233,9],
+"d9/d3a/classVec2D.html#ad11003cd2e77b3fb8842c6d08a9015a6":[6,0,4233,13],
 "d9/d3a/classVec2D.html#ad66db7fcc2684dedb47d020c84320673":[6,0,4233,11],
 "d9/d3a/classVec2D.html#aef1e5692cc26e743df07eea6f52ad769":[6,0,4233,18],
 "d9/d3a/classVec2D.html#aef55118fd10700a28945da564dc79875":[6,0,4233,7],
@@ -47,12 +49,12 @@ var NAVTREEINDEX233 =
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#a803108e6a515d2d210d8e79a9fb6ce18":[6,0,286,12,2],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#a938e987363972fbd58e42f19880016d8":[6,0,286,12,1],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#aad44956783e9c044eb92065cc62e97f6":[6,0,286,12,0],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[6,0,11,8,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[5,0,31,8,3],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[6,0,11,8,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,31,8,3,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[6,0,11,8,3,3],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,31,8,3,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[6,0,11,8,3,0],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,31,8,3,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[6,0,11,8,3,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[5,0,31,8,3,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,11,8,3,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a0e57ee42e45e55b1a69ac7cb0f1d2666":[6,0,578,0,4],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a102c10792d9e7df61d920b5a43f58e51":[6,0,578,0,2],
 "d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a3f5bc42a141011e543d1215eac09dc74":[6,0,578,0,0],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a4bdea1a9d7e46d4ef71cd43ce969e59c":[6,0,578,0,7],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa7503618dd09e0aebac44394595f4715":[6,0,578,0,3],
-"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#aa84e6e9a302172e134163cd07ca57864":[6,0,578,0,1]
+"d9/d4f/structboss__koralon_1_1boss__koralonAI.html#a4bdea1a9d7e46d4ef71cd43ce969e59c":[6,0,578,0,7]
 };

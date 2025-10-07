@@ -1,5 +1,8 @@
 var NAVTREEINDEX306 =
 {
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d343d8659aac6c2c356387e867baf5f":[7,0,0,0,1,3,4,1,0,4,2,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ae0ef67fad278c0f119dd3ceb49e475":[7,0,0,0,1,3,4,1,0,4,2,0],
+"dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298cab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,4,1,0,4,2,2],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,4,3],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,4,3,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aab11c139c2084261fe97e62ba3aa6c37":[7,0,0,0,1,3,4,1,0,4,3,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,11,0,4,2],
 "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[7,0,0,0,1,3,5,11,0,4,3],
 "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec0cacf230c40894b2d6e9f94c3f7022":[7,0,0,0,1,3,5,11,0,4,1],
-"dc/d42/IntermediateValues_8h.html":[7,0,0,0,3,2,1],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html":[6,0,1298,0],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1":[6,0,1298,0,6],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a095202af8915f8a1d8888c045e18d6c4":[6,0,1298,0,4]
+"dc/d42/IntermediateValues_8h.html":[7,0,0,0,3,2,1]
 };

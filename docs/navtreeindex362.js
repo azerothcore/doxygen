@@ -1,5 +1,8 @@
 var NAVTREEINDEX362 =
 {
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a1f3968dbd3168e745815c45c0b1f044c":[6,0,2180,0,12],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a2a58331b6282602891e98d84921ed600":[6,0,2180,0,1],
+"de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a2f03d831bd3217366741716f671fcde6":[6,0,2180,0,16],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a34f9a36d0bdb6dea215d21da3bdf54de":[6,0,2180,0,24],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a4466ddcdc8acdd99e4c46a2128ac696c":[6,0,2180,0,25],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a4d73a0a63409d251652289db36e9fe8d":[6,0,2180,0,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX362 =
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ad8310db74874b9f870f4f41dc866c7be":[6,0,1353,0,7],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#add59d5cf1b5098bc303fef469ccfb034":[6,0,1353,0,11],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#aea59c925ddafa04fbfc7c0df32c0e6d8":[6,0,1353,0,3],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html":[6,0,1591,0],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a2b553c29823e5ef888ee02a3ed413386":[6,0,1591,0,3],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a59ccca7093575f4bcac57a4751d977d4":[6,0,1591,0,0],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a9778a1648ca0007f7daf4ee98308d8d2":[6,0,1591,0,2]
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html":[6,0,1591,0]
 };

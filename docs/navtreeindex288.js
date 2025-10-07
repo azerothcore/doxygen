@@ -1,5 +1,8 @@
 var NAVTREEINDEX288 =
 {
+"db/d9d/classnpc__boneguard__footman.html#aba17f89b9546deff5401ad33224b2b3e":[6,0,1656,1],
+"db/d9d/classspell__pal__hand__of__salvation.html":[6,0,3531],
+"db/d9d/classspell__pal__hand__of__salvation.html#a1f717d941f8d100eb73d7e2a3b638bad":[6,0,3531,2],
 "db/d9d/classspell__pal__hand__of__salvation.html#a5bd55cb8b992f7ceb52f7193bcdbf210":[6,0,3531,1],
 "db/d9d/classspell__pal__hand__of__salvation.html#a9c4a38bb60cc61156da5bd1b89b3e116":[6,0,3531,0],
 "db/d9e/classachievement__flirt__with__disaster__perf__check.html":[6,0,53],
@@ -243,11 +246,8 @@ var NAVTREEINDEX288 =
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c":[7,0,0,0,1,3,4,15,4,2],
 "db/da5/zone__azshara_8cpp.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7":[7,0,0,0,1,3,4,15,4,11],
 "db/da5/zone__azshara_8cpp.html#ad86bcd16e9f7f0d1b823153be725f9ce":[7,0,0,0,1,3,4,15,5],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[6,0,0,5,0,17],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[5,0,1,8,0,17,15],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[6,0,0,5,0,17,15],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a17d8dd1747fd24663accd2e2af45551b":[5,0,1,8,0,17,12],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a17d8dd1747fd24663accd2e2af45551b":[6,0,0,5,0,17,12],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a1aaa40278958d49e19a443817811d807":[5,0,1,8,0,17,11]
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[5,0,1,8,0,17,15]
 };

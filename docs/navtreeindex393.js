@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"df/d9d/classMessageBuffer.html#a042a4b72f69338a44f20f11454bec374":[6,0,1502,21],
+"df/d9d/classMessageBuffer.html#a1b6f18821fdf7688de020adfef80760b":[6,0,1502,15],
+"df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b":[6,0,1502,18],
 "df/d9d/classMessageBuffer.html#a3cfe272533d018af34b8e83cf7a05138":[6,0,1502,10],
 "df/d9d/classMessageBuffer.html#a3eff504d5c954e7d5fcaa386bdbf2bb9":[6,0,1502,23],
 "df/d9d/classMessageBuffer.html#a466f6fde17f5a239307cec5ec1fffb6d":[6,0,1502,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "df/da3/classspell__kiljaeden__shield__of__the__blue.html#ae06b9dc2d00998ce288f015bfc04b323":[6,0,3367,1],
 "df/da4/boss__loken_8cpp.html":[7,0,0,0,1,3,5,9,0,2],
 "df/da4/boss__loken_8cpp.html#a0396b238fb9b45748a0056f14b3b5c34":[7,0,0,0,1,3,5,9,0,2,6],
-"df/da4/boss__loken_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,9,0,2,5],
-"df/da4/boss__loken_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,9,0,2,5,8],
-"df/da4/boss__loken_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,5,9,0,2,5,1],
-"df/da4/boss__loken_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,0,2,5,2]
+"df/da4/boss__loken_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,9,0,2,5]
 };

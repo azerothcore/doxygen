@@ -1,8 +1,11 @@
 var NAVTREEINDEX284 =
 {
+"db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1cca":[7,0,0,0,1,3,5,10,0,4,4],
+"db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b":[7,0,0,0,1,3,5,10,0,4,4,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,31,10,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,11,10,1,2],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,11,10,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,31,10,1,2],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,11,10,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,31,10,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,11,10,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,31,10,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX284 =
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea45a41c17c17360092217decc587afa84":[7,0,0,0,1,2,16,4,6,45,0],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea481aabd062516995139de79b60343d53":[7,0,0,0,1,2,16,4,6,45,34],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea4a24cc418954f07e4203499769485349":[7,0,0,0,1,2,16,4,6,45,1],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea5fd9103615b5db7d243688749c4e302e":[7,0,0,0,1,2,16,4,6,45,22],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea62a6b671434df4cc1904cfaa866efdb0":[7,0,0,0,1,2,16,4,6,45,19],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea62ac8ad88cde02bfbc96892495707317":[7,0,0,0,1,2,16,4,6,45,5],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea64eda96b81fcff756346feddb3e24e2a":[7,0,0,0,1,2,16,4,6,45,39]
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea5fd9103615b5db7d243688749c4e302e":[7,0,0,0,1,2,16,4,6,45,22]
 };
