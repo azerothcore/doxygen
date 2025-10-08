@@ -5,13 +5,7 @@ var zone__isle__of__queldanas_8cpp =
     [ "spell_bh_cleanse_quel_delar", "d5/dcd/classspell__bh__cleanse__quel__delar.html", "d5/dcd/classspell__bh__cleanse__quel__delar" ],
     [ "npc_grand_magister_rommath", "d0/d2a/classnpc__grand__magister__rommath.html", "d0/d2a/classnpc__grand__magister__rommath" ],
     [ "npc_grand_magister_rommath::npc_grand_magister_rommathAI", "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html", "d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI" ],
-    [ "npc_greengill_slave", "d7/dd2/classnpc__greengill__slave.html", "d7/dd2/classnpc__greengill__slave" ],
-    [ "npc_greengill_slave::npc_greengill_slaveAI", "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI.html", "d8/d03/structnpc__greengill__slave_1_1npc__greengill__slaveAI" ],
     [ "spell_gen_weapon_coating_enchant", "d9/d17/classspell__gen__weapon__coating__enchant.html", "d9/d17/classspell__gen__weapon__coating__enchant" ],
-    [ "DM", "df/d9d/zone__isle__of__queldanas_8cpp.html#a9a9aac904e687286501946469e2903d6", null ],
-    [ "ENRAGE", "df/d9d/zone__isle__of__queldanas_8cpp.html#a86d4061361d537399219ef314efffca7", null ],
-    [ "ORB", "df/d9d/zone__isle__of__queldanas_8cpp.html#a24a9b050b733edb162cbeb44b1a417b1", null ],
-    [ "QUESTG", "df/d9d/zone__isle__of__queldanas_8cpp.html#ad0762b57282cb563e9f6633b502fab10", null ],
     [ "SUNWELL_DEFENDER_NUM", "df/d9d/zone__isle__of__queldanas_8cpp.html#aef5ca77e7ede1b475f9ed203d1bb6d2e", null ],
     [ "PurificationIds", "df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75", [
       [ "GO_QUEL_DELAR", "df/d9d/zone__isle__of__queldanas_8cpp.html#a63b786515108536b8a2f43cd78f41a75a260cc488ab65b6242168ba0017320d9a", null ],

@@ -11,6 +11,5 @@ var searchData=
   ['quest_5freputations_5fcount_8',['QUEST_REPUTATIONS_COUNT',['../d2/d27/QuestDef_8h.html#aca7218f1a80ba33fb21a51073850202e',1,'QuestDef.h']]],
   ['quest_5freward_5fchoices_5fcount_9',['QUEST_REWARD_CHOICES_COUNT',['../d2/d27/QuestDef_8h.html#ad2f1fa1fe4676a225f4c3319310907aa',1,'QuestDef.h']]],
   ['quest_5frewards_5fcount_10',['QUEST_REWARDS_COUNT',['../d2/d27/QuestDef_8h.html#a15eafb369f3711f92bd7ec296be6af15',1,'QuestDef.h']]],
-  ['quest_5fsource_5fitem_5fids_5fcount_11',['QUEST_SOURCE_ITEM_IDS_COUNT',['../d2/d27/QuestDef_8h.html#acf2c83159c7b7d9270380dafa7ab8d11',1,'QuestDef.h']]],
-  ['questg_12',['QUESTG',['../df/d9d/zone__isle__of__queldanas_8cpp.html#ad0762b57282cb563e9f6633b502fab10',1,'zone_isle_of_queldanas.cpp']]]
+  ['quest_5fsource_5fitem_5fids_5fcount_11',['QUEST_SOURCE_ITEM_IDS_COUNT',['../d2/d27/QuestDef_8h.html#acf2c83159c7b7d9270380dafa7ab8d11',1,'QuestDef.h']]]
 ];

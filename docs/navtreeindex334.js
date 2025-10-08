@@ -1,13 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7fd22259ac2f55edd6fc2b9e91e3f1d9":[7,0,0,0,1,3,5,8,1,0,3,3],
-"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c8da4467139a401695c6d198a881b25":[7,0,0,0,1,3,5,8,1,0,3,1],
-"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e2dfa5bf1445d38702a7028e447be03":[7,0,0,0,1,3,5,8,1,0,3,0],
-"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ade340f8659eddf57af5cdf36fb534649":[7,0,0,0,1,3,5,8,1,0,3,2],
-"dd/dab/boss__sjonnir_8cpp.html":[7,0,0,0,1,3,5,9,1,2],
-"dd/dab/boss__sjonnir_8cpp.html#a2d30eac68e5c2c089e34ea2ab4c7dc02":[7,0,0,0,1,3,5,9,1,2,14],
-"dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,1,2,9],
-"dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405":[7,0,0,0,1,3,5,9,1,2,9,1],
 "dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40":[7,0,0,0,1,3,5,9,1,2,9,0],
 "dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6":[7,0,0,0,1,3,5,9,1,2,9,2],
 "dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73":[7,0,0,0,1,3,5,9,1,2,9,3],
@@ -54,10 +46,10 @@ var NAVTREEINDEX334 =
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234":[7,0,0,0,1,3,5,9,1,2,8,0],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a":[7,0,0,0,1,3,5,9,1,2,8,5],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631":[7,0,0,0,1,3,5,9,1,2,8,8],
-"dd/dac/classspell__valkyr__touch__aura.html":[6,0,3953],
-"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,3953,1],
-"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,3953,0],
-"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,3953,2],
+"dd/dac/classspell__valkyr__touch__aura.html":[6,0,3952],
+"dd/dac/classspell__valkyr__touch__aura.html#a45118f9887d248a5eb840b945dee5b79":[6,0,3952,1],
+"dd/dac/classspell__valkyr__touch__aura.html#a8775f4e2cb6be96f57596413d560206c":[6,0,3952,0],
+"dd/dac/classspell__valkyr__touch__aura.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35":[6,0,3952,2],
 "dd/dac/pit__of__saron_8h.html":[7,0,0,0,1,3,5,4,2,5],
 "dd/dac/pit__of__saron_8h.html#a00d27e7195019de0c937829f8acb548f":[7,0,0,0,1,3,5,4,2,5,38],
 "dd/dac/pit__of__saron_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,2,5,3],
@@ -249,5 +241,13 @@ var NAVTREEINDEX334 =
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a75b13fc62a4d1499ac5db4508a22b31c":[7,0,0,0,1,3,5,12,1,4,3],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7961a2f4ed5c4dc560b7f16b26ecb49d":[7,0,0,0,1,3,5,12,1,4,5],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af7367c4fd2983cfdf945a7c40dae1fe0":[7,0,0,0,1,3,5,12,1,4,1],
-"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,12,1,8]
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,12,1,8],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,12,1,8,2],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,12,1,8,0],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a6a49ad063cca1e1de9f3a34dd822759e":[7,0,0,0,1,3,5,12,1,8,4],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a766d483bf9ac79e7f400d68801efb7b9":[7,0,0,0,1,3,5,12,1,8,5],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,12,1,8,1],
+"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,5,12,1,8,3],
+"dd/dae/boss__erekem_8cpp.html#a7ca432272eaa02df22ec89371e09a4e0":[7,0,0,0,1,3,5,12,1,9],
+"dd/dae/boss__erekem_8cpp.html#a88a86dcfb5795bb62d1c6e0c137def92":[7,0,0,0,1,3,5,12,1,7]
 };

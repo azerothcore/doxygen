@@ -1,13 +1,5 @@
 var NAVTREEINDEX337 =
 {
-"dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa3e8be56375c00dd43ca1945495eb049":[7,0,0,0,1,3,5,9,2,10,25,1],
-"dd/dca/boss__razorscale_8cpp.html#a4522a9f95d5ef799965bfe7267743aae":[7,0,0,0,1,3,5,9,2,10,30],
-"dd/dca/boss__razorscale_8cpp.html#a5446f0dfdaa37cea52e903643b50e24c":[7,0,0,0,1,3,5,9,2,10,31],
-"dd/dca/boss__razorscale_8cpp.html#a54d00a99b402e834cfc5b17c95fa9c00":[7,0,0,0,1,3,5,9,2,10,22],
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,9,2,10,27],
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca104814a14eeb9d1870ff64a125311ef5":[7,0,0,0,1,3,5,9,2,10,27,11],
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca143e68bf55a1c961d061a18d9b1a5cdd":[7,0,0,0,1,3,5,9,2,10,27,8],
-"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca184a82424312923dd0101fd411de77b7":[7,0,0,0,1,3,5,9,2,10,27,12],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d2d704cf6611ae28770ea801039a7e5":[7,0,0,0,1,3,5,9,2,10,27,6],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6791d75c6ac0d022d5c7ef927a9757af":[7,0,0,0,1,3,5,9,2,10,27,10],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a610c6f18c6cd20ed7af23635e46a06":[7,0,0,0,1,3,5,9,2,10,27,1],
@@ -53,9 +45,9 @@ var NAVTREEINDEX337 =
 "dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566":[7,0,0,0,1,3,5,9,2,10,21],
 "dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435":[7,0,0,0,1,3,5,9,2,10,18],
 "dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0":[7,0,0,0,1,3,5,9,2,10,19],
-"dd/dca/classnpc__spiritual__insight.html":[6,0,2138],
-"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2138,2],
-"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2138,1],
+"dd/dca/classnpc__spiritual__insight.html":[6,0,2137],
+"dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2137,2],
+"dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2137,1],
 "dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
 "dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
 "dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
@@ -249,5 +241,13 @@ var NAVTREEINDEX337 =
 "dd/dcb/classChaseMovementGenerator.html#a074cf741ec57fa7ea41621f58e6a4b4b":[6,0,865,10],
 "dd/dcb/classChaseMovementGenerator.html#a11b7bbb07819ac4cbe6c9268429047ea":[6,0,865,15],
 "dd/dcb/classChaseMovementGenerator.html#a1fb849d253927d30f7f88de68341d621":[6,0,865,28],
-"dd/dcb/classChaseMovementGenerator.html#a2e116b448b83e35c0c7dc63337516fa3":[6,0,865,9]
+"dd/dcb/classChaseMovementGenerator.html#a2e116b448b83e35c0c7dc63337516fa3":[6,0,865,9],
+"dd/dcb/classChaseMovementGenerator.html#a30cd5471f5737157cf09bc3eca69758f":[6,0,865,11],
+"dd/dcb/classChaseMovementGenerator.html#a40340fa8d9408a63c564b2a08e9b892a":[6,0,865,19],
+"dd/dcb/classChaseMovementGenerator.html#a4ca225d9e4ded1e7de6249595f69f912":[6,0,865,16],
+"dd/dcb/classChaseMovementGenerator.html#a529672fc598fa3c38cbf309c4e95c7bc":[6,0,865,4],
+"dd/dcb/classChaseMovementGenerator.html#a54601925140f09b330caaba240a43037":[6,0,865,8],
+"dd/dcb/classChaseMovementGenerator.html#a54e73981951bb609a81ab261e22a316e":[6,0,865,7],
+"dd/dcb/classChaseMovementGenerator.html#a6aa7761c76b70e6a171696f1afaac141":[6,0,865,5],
+"dd/dcb/classChaseMovementGenerator.html#a802b80cc6ae928821c06121001365db6":[6,0,865,6]
 };

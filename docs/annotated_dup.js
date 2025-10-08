@@ -2316,7 +2316,6 @@ var annotated_dup =
     [ "npc_grandmother", "da/d16/structnpc__grandmother.html", "da/d16/structnpc__grandmother" ],
     [ "npc_great_bear_spirit", "d8/d41/classnpc__great__bear__spirit.html", "d8/d41/classnpc__great__bear__spirit" ],
     [ "npc_green_dragon_combat_trigger", "dd/d36/classnpc__green__dragon__combat__trigger.html", "dd/d36/classnpc__green__dragon__combat__trigger" ],
-    [ "npc_greengill_slave", "d7/dd2/classnpc__greengill__slave.html", "d7/dd2/classnpc__greengill__slave" ],
     [ "npc_grimstone", "d5/d18/classnpc__grimstone.html", "d5/d18/classnpc__grimstone" ],
     [ "npc_grizzlemaw_cw_trigger", "d3/d86/classnpc__grizzlemaw__cw__trigger.html", "d3/d86/classnpc__grizzlemaw__cw__trigger" ],
     [ "npc_guardian", "db/d68/classnpc__guardian.html", "db/d68/classnpc__guardian" ],
