@@ -14,5 +14,7 @@ var MiscPackets_8h =
     [ "WorldPackets::Misc::StopMirrorTimer", "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html", "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer" ],
     [ "WorldPackets::Misc::DurabilityDamageDeath", "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html", "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath" ],
     [ "WorldPackets::Misc::CrossedInebriationThreshold", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold" ],
-    [ "WorldPackets::Misc::UITime", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime" ]
+    [ "WorldPackets::Misc::UITime", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime" ],
+    [ "WorldPackets::Misc::Complain", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain" ],
+    [ "WorldPackets::Misc::ComplainResult", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult.html", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult" ]
 ];

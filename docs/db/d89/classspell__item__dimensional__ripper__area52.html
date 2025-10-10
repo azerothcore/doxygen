@@ -314,34 +314,34 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2224</span>    {</div>
-<div class="line"><span class="lineno"> 2225</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(50)) <span class="comment">// 50% success</span></div>
-<div class="line"><span class="lineno"> 2226</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2227</span> </div>
-<div class="line"><span class="lineno"> 2228</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 2229</span> </div>
-<div class="line"><span class="lineno"> 2230</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = 0;</div>
-<div class="line"><span class="lineno"> 2231</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 3))</div>
-<div class="line"><span class="lineno"> 2232</span>        {</div>
-<div class="line"><span class="lineno"> 2233</span>            <span class="keywordflow">case</span> 0:</div>
-<div class="line"><span class="lineno"> 2234</span>                spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a">SPELL_TRANSPORTER_MALFUNCTION</a>;</div>
-<div class="line"><span class="lineno"> 2235</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2236</span>            <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno"> 2237</span>                spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6">SPELL_SOUL_SPLIT_EVIL</a>;</div>
-<div class="line"><span class="lineno"> 2238</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2239</span>            <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno"> 2240</span>                spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167">SPELL_SOUL_SPLIT_GOOD</a>;</div>
-<div class="line"><span class="lineno"> 2241</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2242</span>            <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno"> 2243</span>                <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
-<div class="line"><span class="lineno"> 2244</span>                    spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926">SPELL_TRANSFORM_HORDE</a>;</div>
-<div class="line"><span class="lineno"> 2245</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 2246</span>                    spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e">SPELL_TRANSFORM_ALLIANCE</a>;</div>
-<div class="line"><span class="lineno"> 2247</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2248</span>        }</div>
-<div class="line"><span class="lineno"> 2249</span> </div>
-<div class="line"><span class="lineno"> 2250</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, spellId, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2251</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2260</span>    {</div>
+<div class="line"><span class="lineno"> 2261</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(50)) <span class="comment">// 50% success</span></div>
+<div class="line"><span class="lineno"> 2262</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2263</span> </div>
+<div class="line"><span class="lineno"> 2264</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 2265</span> </div>
+<div class="line"><span class="lineno"> 2266</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = 0;</div>
+<div class="line"><span class="lineno"> 2267</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 3))</div>
+<div class="line"><span class="lineno"> 2268</span>        {</div>
+<div class="line"><span class="lineno"> 2269</span>            <span class="keywordflow">case</span> 0:</div>
+<div class="line"><span class="lineno"> 2270</span>                spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a">SPELL_TRANSPORTER_MALFUNCTION</a>;</div>
+<div class="line"><span class="lineno"> 2271</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2272</span>            <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno"> 2273</span>                spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6">SPELL_SOUL_SPLIT_EVIL</a>;</div>
+<div class="line"><span class="lineno"> 2274</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2275</span>            <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno"> 2276</span>                spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167">SPELL_SOUL_SPLIT_GOOD</a>;</div>
+<div class="line"><span class="lineno"> 2277</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2278</span>            <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno"> 2279</span>                <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
+<div class="line"><span class="lineno"> 2280</span>                    spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926">SPELL_TRANSFORM_HORDE</a>;</div>
+<div class="line"><span class="lineno"> 2281</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 2282</span>                    spellId = <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e">SPELL_TRANSFORM_ALLIANCE</a>;</div>
+<div class="line"><span class="lineno"> 2283</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2284</span>        }</div>
+<div class="line"><span class="lineno"> 2285</span> </div>
+<div class="line"><span class="lineno"> 2286</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, spellId, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2287</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aRandom_8h_html_a50320d4edff86db31b25138ae72161ad"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a></div><div class="ttdeci">bool roll_chance_i(int chance)</div><div class="ttdef"><b>Definition</b> Random.h:63</div></div>
@@ -351,15 +351,15 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:627</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1195</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e">SPELL_TRANSFORM_ALLIANCE</a></div><div class="ttdeci">@ SPELL_TRANSFORM_ALLIANCE</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2209</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6">SPELL_SOUL_SPLIT_EVIL</a></div><div class="ttdeci">@ SPELL_SOUL_SPLIT_EVIL</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2210</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926">SPELL_TRANSFORM_HORDE</a></div><div class="ttdeci">@ SPELL_TRANSFORM_HORDE</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2208</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a">SPELL_TRANSPORTER_MALFUNCTION</a></div><div class="ttdeci">@ SPELL_TRANSPORTER_MALFUNCTION</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2207</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167">SPELL_SOUL_SPLIT_GOOD</a></div><div class="ttdeci">@ SPELL_SOUL_SPLIT_GOOD</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2211</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e">SPELL_TRANSFORM_ALLIANCE</a></div><div class="ttdeci">@ SPELL_TRANSFORM_ALLIANCE</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2245</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6">SPELL_SOUL_SPLIT_EVIL</a></div><div class="ttdeci">@ SPELL_SOUL_SPLIT_EVIL</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2246</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926">SPELL_TRANSFORM_HORDE</a></div><div class="ttdeci">@ SPELL_TRANSFORM_HORDE</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2244</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a">SPELL_TRANSPORTER_MALFUNCTION</a></div><div class="ttdeci">@ SPELL_TRANSPORTER_MALFUNCTION</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2243</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167">SPELL_SOUL_SPLIT_GOOD</a></div><div class="ttdeci">@ SPELL_SOUL_SPLIT_GOOD</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2247</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01195">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l02108">Player::GetTeamId()</a>, <a class="el" href="../../#l00063">roll_chance_i()</a>, <a class="el" href="../../#l02210">SPELL_SOUL_SPLIT_EVIL</a>, <a class="el" href="../../#l02211">SPELL_SOUL_SPLIT_GOOD</a>, <a class="el" href="../../#l02209">SPELL_TRANSFORM_ALLIANCE</a>, <a class="el" href="../../#l02208">SPELL_TRANSFORM_HORDE</a>, <a class="el" href="../../#l02207">SPELL_TRANSPORTER_MALFUNCTION</a>, <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01195">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l02108">Player::GetTeamId()</a>, <a class="el" href="../../#l00063">roll_chance_i()</a>, <a class="el" href="../../#l02246">SPELL_SOUL_SPLIT_EVIL</a>, <a class="el" href="../../#l02247">SPELL_SOUL_SPLIT_GOOD</a>, <a class="el" href="../../#l02245">SPELL_TRANSFORM_ALLIANCE</a>, <a class="el" href="../../#l02244">SPELL_TRANSFORM_HORDE</a>, <a class="el" href="../../#l02243">SPELL_TRANSPORTER_MALFUNCTION</a>, <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00202">Object::ToPlayer()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02253">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02289">Register()</a>.</p>
 
 </div>
 </div>
@@ -387,9 +387,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2219</span>    {</div>
-<div class="line"><span class="lineno"> 2220</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
-<div class="line"><span class="lineno"> 2221</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2255</span>    {</div>
+<div class="line"><span class="lineno"> 2256</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
+<div class="line"><span class="lineno"> 2257</span>    }</div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:201</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00201">Object::IsPlayer()</a>.</p>
@@ -446,16 +446,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2254</span>    {</div>
-<div class="line"><span class="lineno"> 2255</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052">spell_item_dimensional_ripper_area52::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aea1b56989980b9b6059bcd31de21bf59">SPELL_EFFECT_TELEPORT_UNITS</a>);</div>
-<div class="line"><span class="lineno"> 2256</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2290</span>    {</div>
+<div class="line"><span class="lineno"> 2291</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052">spell_item_dimensional_ripper_area52::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aea1b56989980b9b6059bcd31de21bf59">SPELL_EFFECT_TELEPORT_UNITS</a>);</div>
+<div class="line"><span class="lineno"> 2292</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97aea1b56989980b9b6059bcd31de21bf59"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aea1b56989980b9b6059bcd31de21bf59">SPELL_EFFECT_TELEPORT_UNITS</a></div><div class="ttdeci">@ SPELL_EFFECT_TELEPORT_UNITS</div><div class="ttdef"><b>Definition</b> SharedDefines.h:794</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__item__dimensional__ripper__area52_html_a7c7f92d21898322c501f582a524f4052"><div class="ttname"><a href="../../db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052">spell_item_dimensional_ripper_area52::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2223</div></div>
+<div class="ttc" id="aclassspell__item__dimensional__ripper__area52_html_a7c7f92d21898322c501f582a524f4052"><div class="ttname"><a href="../../db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052">spell_item_dimensional_ripper_area52::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:2259</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02223">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00794">SPELL_EFFECT_TELEPORT_UNITS</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02259">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00794">SPELL_EFFECT_TELEPORT_UNITS</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -468,7 +468,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d89/classspell__item__dimensional__ripper__area52.html">spell_item_dimensional_ripper_area52</a></li>
-    <li class="footer">Generated on Thu Oct 9 2025 06:25:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 10 2025 06:43:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

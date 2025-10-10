@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"d0/d5b/classPlayerScript.html#a14f343d8f00f07fa163a1858af8cd145":[6,0,2423,14],
 "d0/d5b/classPlayerScript.html#a15a60aa20ccac522f3400af23f6bdabe":[6,0,2423,91],
 "d0/d5b/classPlayerScript.html#a166cf44004f28c16e157a693f574cd91":[6,0,2423,51],
 "d0/d5b/classPlayerScript.html#a175648bcaf1ab89b65003f6cc24b083a":[6,0,2423,108],
@@ -248,6 +249,5 @@ var NAVTREEINDEX6 =
 "d0/d5e/classWorldSessionMgr.html#aa602b4bb999b7ce347c1169f50e6aafe":[6,0,4314,13],
 "d0/d5e/classWorldSessionMgr.html#ab53abc7759de051e8ae5758b15f0b394":[6,0,4314,5],
 "d0/d5e/classWorldSessionMgr.html#aca405a0eb8b98eabf38a5f7b10cd0177":[6,0,4314,42],
-"d0/d5e/classWorldSessionMgr.html#ace35cfc22e857bb204ffa929f985e2a2":[6,0,4314,11],
-"d0/d5e/classWorldSessionMgr.html#aceb362636b5fe7b4061d5870de4558cc":[6,0,4314,44]
+"d0/d5e/classWorldSessionMgr.html#ace35cfc22e857bb204ffa929f985e2a2":[6,0,4314,11]
 };

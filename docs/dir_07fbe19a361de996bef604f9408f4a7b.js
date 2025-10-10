@@ -3,6 +3,8 @@ var dir_07fbe19a361de996bef604f9408f4a7b =
     [ "AllPackets.h", "dc/d0c/AllPackets_8h.html", null ],
     [ "BankPackets.cpp", "df/dbb/BankPackets_8cpp.html", null ],
     [ "BankPackets.h", "d1/d78/BankPackets_8h.html", "d1/d78/BankPackets_8h" ],
+    [ "CalendarPackets.cpp", "dd/d66/CalendarPackets_8cpp.html", null ],
+    [ "CalendarPackets.h", "d0/dd9/CalendarPackets_8h.html", "d0/dd9/CalendarPackets_8h" ],
     [ "CharacterPackets.cpp", "d4/d40/CharacterPackets_8cpp.html", null ],
     [ "CharacterPackets.h", "d7/df2/CharacterPackets_8h.html", "d7/df2/CharacterPackets_8h" ],
     [ "ChatPackets.cpp", "db/d34/ChatPackets_8cpp.html", null ],

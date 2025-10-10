@@ -314,15 +314,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3395</span>    {</div>
-<div class="line"><span class="lineno"> 3396</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno"> 3397</span>        {</div>
-<div class="line"><span class="lineno"> 3398</span>            <span class="keywordflow">if</span> (caster-&gt;HasSkill(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a7a0d322b18f0c6717a86c627b04a4e99">SKILL_ENGINEERING</a>))</div>
-<div class="line"><span class="lineno"> 3399</span>            {</div>
-<div class="line"><span class="lineno"> 3400</span>                <a class="code hl_function" href="../../df/d92/classSpellScript.html#a16e04c9fb0bd78166cc72eaadcb2648d">SetEffectValue</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30">GetEffectValue</a>() * 1.25f);</div>
-<div class="line"><span class="lineno"> 3401</span>            }</div>
-<div class="line"><span class="lineno"> 3402</span>        }</div>
-<div class="line"><span class="lineno"> 3403</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3431</span>    {</div>
+<div class="line"><span class="lineno"> 3432</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno"> 3433</span>        {</div>
+<div class="line"><span class="lineno"> 3434</span>            <span class="keywordflow">if</span> (caster-&gt;HasSkill(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a7a0d322b18f0c6717a86c627b04a4e99">SKILL_ENGINEERING</a>))</div>
+<div class="line"><span class="lineno"> 3435</span>            {</div>
+<div class="line"><span class="lineno"> 3436</span>                <a class="code hl_function" href="../../df/d92/classSpellScript.html#a16e04c9fb0bd78166cc72eaadcb2648d">SetEffectValue</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30">GetEffectValue</a>() * 1.25f);</div>
+<div class="line"><span class="lineno"> 3437</span>            }</div>
+<div class="line"><span class="lineno"> 3438</span>        }</div>
+<div class="line"><span class="lineno"> 3439</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_af4541d30ebbff76b1f9f689519789234a7a0d322b18f0c6717a86c627b04a4e99"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a7a0d322b18f0c6717a86c627b04a4e99">SKILL_ENGINEERING</a></div><div class="ttdeci">@ SKILL_ENGINEERING</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3173</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1072</div></div>
 <div class="ttc" id="aclassSpellScript_html_a16e04c9fb0bd78166cc72eaadcb2648d"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a16e04c9fb0bd78166cc72eaadcb2648d">SpellScript::SetEffectValue</a></div><div class="ttdeci">void SetEffectValue(int32 value)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:610</div></div>
@@ -331,7 +331,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00600">SpellScript::GetEffectValue()</a>, <a class="el" href="../../#l00610">SpellScript::SetEffectValue()</a>, and <a class="el" href="../../#l03173">SKILL_ENGINEERING</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03405">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03441">Register()</a>.</p>
 
 </div>
 </div>
@@ -359,9 +359,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3390</span>    {</div>
-<div class="line"><span class="lineno"> 3391</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
-<div class="line"><span class="lineno"> 3392</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3426</span>    {</div>
+<div class="line"><span class="lineno"> 3427</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
+<div class="line"><span class="lineno"> 3428</span>    }</div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:201</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00201">Object::IsPlayer()</a>.</p>
@@ -418,16 +418,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3406</span>    {</div>
-<div class="line"><span class="lineno"> 3407</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b">spell_item_mana_injector::HandleEnergize</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97ab0727b6312cbc0d83b93ab5d5578fe8b">SPELL_EFFECT_ENERGIZE</a>);</div>
-<div class="line"><span class="lineno"> 3408</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3442</span>    {</div>
+<div class="line"><span class="lineno"> 3443</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b">spell_item_mana_injector::HandleEnergize</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97ab0727b6312cbc0d83b93ab5d5578fe8b">SPELL_EFFECT_ENERGIZE</a>);</div>
+<div class="line"><span class="lineno"> 3444</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97ab0727b6312cbc0d83b93ab5d5578fe8b"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97ab0727b6312cbc0d83b93ab5d5578fe8b">SPELL_EFFECT_ENERGIZE</a></div><div class="ttdeci">@ SPELL_EFFECT_ENERGIZE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:819</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__item__mana__injector_html_a283e713252166a863aa96530d6e7608b"><div class="ttname"><a href="../../db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b">spell_item_mana_injector::HandleEnergize</a></div><div class="ttdeci">void HandleEnergize(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3394</div></div>
+<div class="ttc" id="aclassspell__item__mana__injector_html_a283e713252166a863aa96530d6e7608b"><div class="ttname"><a href="../../db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b">spell_item_mana_injector::HandleEnergize</a></div><div class="ttdeci">void HandleEnergize(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3430</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03394">HandleEnergize()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00819">SPELL_EFFECT_ENERGIZE</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03430">HandleEnergize()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00819">SPELL_EFFECT_ENERGIZE</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -440,7 +440,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d3d/classspell__item__mana__injector.html">spell_item_mana_injector</a></li>
-    <li class="footer">Generated on Thu Oct 9 2025 06:25:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 10 2025 06:43:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

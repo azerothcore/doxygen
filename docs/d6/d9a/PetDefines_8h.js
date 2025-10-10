@@ -2,8 +2,6 @@ var PetDefines_8h =
 [
     [ "PetStable", "d6/d8c/classPetStable.html", "d6/d8c/classPetStable" ],
     [ "PetStable::PetInfo", "d8/d99/structPetStable_1_1PetInfo.html", "d8/d99/structPetStable_1_1PetInfo" ],
-    [ "PET_FOLLOW_ANGLE", "d6/d9a/PetDefines_8h.html#a346068e848cb7777695f170d2c7958de", null ],
-    [ "PET_FOLLOW_DIST", "d6/d9a/PetDefines_8h.html#a83e96c6d024ceb5d1189baac7b823d5d", null ],
     [ "ActionFeedback", "d6/d9a/PetDefines_8h.html#aeb5551b3f37a2573e008d2d5d865359d", [
       [ "FEEDBACK_NONE", "d6/d9a/PetDefines_8h.html#aeb5551b3f37a2573e008d2d5d865359dac70a05f4ef81ef0dd1eb55ab74779fba", null ],
       [ "FEEDBACK_PET_DEAD", "d6/d9a/PetDefines_8h.html#aeb5551b3f37a2573e008d2d5d865359da482a5e311921dbd1dfab7521309f18c1", null ],
@@ -128,5 +126,9 @@ var PetDefines_8h =
       [ "HUNTER_PET", "d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2", null ],
       [ "MAX_PET_TYPE", "d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97cacb8090a59681ea6d194c6a00b73423ea", null ]
     ] ],
-    [ "MAX_PET_STABLES", "d6/d9a/PetDefines_8h.html#ad8cb525a1566956fd2dd5baf811ab5b1", null ]
+    [ "MAX_PET_STABLES", "d6/d9a/PetDefines_8h.html#ad8cb525a1566956fd2dd5baf811ab5b1", null ],
+    [ "MINI_PET_FOLLOW_ANGLE", "d6/d9a/PetDefines_8h.html#a4957a90340dbf72fc1e78027fc825e5c", null ],
+    [ "MINI_PET_SUMMON_ANGLE", "d6/d9a/PetDefines_8h.html#a2f001127b7dc43cdc0367d187229324c", null ],
+    [ "PET_FOLLOW_ANGLE", "d6/d9a/PetDefines_8h.html#a614e66564b4c3d044cd6e1b5880de654", null ],
+    [ "PET_FOLLOW_DIST", "d6/d9a/PetDefines_8h.html#a72390f1dacad9f741f303cec18519217", null ]
 ];

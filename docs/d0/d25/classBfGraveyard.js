@@ -1,6 +1,7 @@
 var classBfGraveyard =
 [
     [ "BfGraveyard", "d0/d25/classBfGraveyard.html#a2e10ab7e731167473f5bbf194163660d", null ],
+    [ "~BfGraveyard", "d0/d25/classBfGraveyard.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
     [ "AddPlayer", "d0/d25/classBfGraveyard.html#acce3c0eade3e8e8afe08359de4dd7c88", null ],
     [ "GetControlTeamId", "d0/d25/classBfGraveyard.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
     [ "GetDistance", "d0/d25/classBfGraveyard.html#ae290db2a83278c27803d62267aebfb71", null ],

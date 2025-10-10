@@ -1,6 +1,7 @@
 var namespaceWorldPackets =
 [
     [ "Bank", "db/d7a/namespaceWorldPackets_1_1Bank.html", "db/d7a/namespaceWorldPackets_1_1Bank" ],
+    [ "Calendar", "de/dd7/namespaceWorldPackets_1_1Calendar.html", "de/dd7/namespaceWorldPackets_1_1Calendar" ],
     [ "Character", "d7/d5c/namespaceWorldPackets_1_1Character.html", "d7/d5c/namespaceWorldPackets_1_1Character" ],
     [ "Chat", "d4/d6c/namespaceWorldPackets_1_1Chat.html", "d4/d6c/namespaceWorldPackets_1_1Chat" ],
     [ "Combat", "d1/db8/namespaceWorldPackets_1_1Combat.html", "d1/db8/namespaceWorldPackets_1_1Combat" ],

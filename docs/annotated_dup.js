@@ -343,6 +343,12 @@ var annotated_dup =
         [ "BuyBankSlotResult", "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html", "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult" ],
         [ "ShowBank", "d0/d08/classWorldPackets_1_1Bank_1_1ShowBank.html", "d0/d08/classWorldPackets_1_1Bank_1_1ShowBank" ]
       ] ],
+      [ "Calendar", "de/dd7/namespaceWorldPackets_1_1Calendar.html", [
+        [ "ArenaTeam", "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html", "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam" ],
+        [ "CalendarComplain", "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html", "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain" ],
+        [ "GetEvent", "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html", "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent" ],
+        [ "GuildFilter", "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html", "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter" ]
+      ] ],
       [ "Character", "d7/d5c/namespaceWorldPackets_1_1Character.html", [
         [ "LogoutCancel", "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html", "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel" ],
         [ "LogoutCancelAck", "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html", "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck" ],
@@ -449,6 +455,8 @@ var annotated_dup =
         [ "LFGLeave", "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html", "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave" ]
       ] ],
       [ "Misc", "d5/d57/namespaceWorldPackets_1_1Misc.html", [
+        [ "Complain", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain" ],
+        [ "ComplainResult", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult.html", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult" ],
         [ "CrossedInebriationThreshold", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold" ],
         [ "DurabilityDamageDeath", "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html", "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath" ],
         [ "LevelUpInfo", "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html", "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo" ],
@@ -3739,7 +3747,6 @@ var annotated_dup =
     [ "spell_item_essence_of_life", "d6/dc8/classspell__item__essence__of__life.html", "d6/dc8/classspell__item__essence__of__life" ],
     [ "spell_item_eye_of_grillok", "d3/d63/classspell__item__eye__of__grillok.html", "d3/d63/classspell__item__eye__of__grillok" ],
     [ "spell_item_eye_of_grillok_aura", "d4/d52/classspell__item__eye__of__grillok__aura.html", "d4/d52/classspell__item__eye__of__grillok__aura" ],
-    [ "spell_item_eye_of_gruul_healing_discount", "d1/dcb/classspell__item__eye__of__gruul__healing__discount.html", "d1/dcb/classspell__item__eye__of__gruul__healing__discount" ],
     [ "spell_item_fate_rune_of_unsurpassed_vigor", "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html", "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor" ],
     [ "spell_item_feast", "d0/df3/classspell__item__feast.html", "d0/df3/classspell__item__feast" ],
     [ "spell_item_fel_mana_potion", "d1/d97/classspell__item__fel__mana__potion.html", "d1/d97/classspell__item__fel__mana__potion" ],
@@ -3758,6 +3765,7 @@ var annotated_dup =
     [ "spell_item_greatmothers_soulcatcher", "d2/d0a/classspell__item__greatmothers__soulcatcher.html", "d2/d0a/classspell__item__greatmothers__soulcatcher" ],
     [ "spell_item_green_whelp_armor", "d4/dc8/classspell__item__green__whelp__armor.html", "d4/dc8/classspell__item__green__whelp__armor" ],
     [ "spell_item_healing_injector", "d6/dea/classspell__item__healing__injector.html", "d6/dea/classspell__item__healing__injector" ],
+    [ "spell_item_healing_trance", "d3/d3f/classspell__item__healing__trance.html", "d3/d3f/classspell__item__healing__trance" ],
     [ "spell_item_impale_leviroth", "de/dcb/classspell__item__impale__leviroth.html", "de/dcb/classspell__item__impale__leviroth" ],
     [ "spell_item_instant_statue", "d4/dc9/classspell__item__instant__statue.html", "d4/dc9/classspell__item__instant__statue" ],
     [ "spell_item_light_lamp", "d5/dc5/classspell__item__light__lamp.html", "d5/dc5/classspell__item__light__lamp" ],

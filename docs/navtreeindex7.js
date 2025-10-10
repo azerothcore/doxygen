@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5e/classWorldSessionMgr.html#aceb362636b5fe7b4061d5870de4558cc":[6,0,4314,44],
 "d0/d5e/classWorldSessionMgr.html#acf06a5c5685db9b266d9323bb915d4aa":[6,0,4314,36],
 "d0/d5e/classWorldSessionMgr.html#ad3fff5792a80dad203969742016922aa":[6,0,4314,18],
 "d0/d5e/classWorldSessionMgr.html#add68fe299373743ca2b1f50530939d6d":[6,0,4314,22],
@@ -150,12 +151,12 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[6,0,3903,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[6,0,3903,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3903,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,1,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,1,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,1,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,1,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,1,2,0],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,1,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,2,2],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,2,2],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,2,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,2,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,2,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2329,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2329,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2329,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d66/classWorldMock.html#aad629e6c11cbb7713cc83e725fa6d585":[6,0,4307,15],
 "d0/d66/classWorldMock.html#ab44951f7d3f0d2cd873694fda60461ad":[6,0,4307,42],
 "d0/d66/classWorldMock.html#abbb4a520bc39aaed2a3e648b7a3a50a4":[6,0,4307,38],
-"d0/d66/classWorldMock.html#ac085b6979d0596abc57c950f9284f9ba":[6,0,4307,13],
-"d0/d66/classWorldMock.html#ac4a652fc74cdc208c7b182ee46697e7a":[6,0,4307,47]
+"d0/d66/classWorldMock.html#ac085b6979d0596abc57c950f9284f9ba":[6,0,4307,13]
 };

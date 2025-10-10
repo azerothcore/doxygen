@@ -1,5 +1,7 @@
 var namespaceWorldPackets_1_1Misc =
 [
+    [ "Complain", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain.html", "d0/d6b/classWorldPackets_1_1Misc_1_1Complain" ],
+    [ "ComplainResult", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult.html", "d9/d7b/classWorldPackets_1_1Misc_1_1ComplainResult" ],
     [ "CrossedInebriationThreshold", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html", "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold" ],
     [ "DurabilityDamageDeath", "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html", "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath" ],
     [ "LevelUpInfo", "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html", "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo" ],

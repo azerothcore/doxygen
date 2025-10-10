@@ -314,15 +314,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3809</span>    {</div>
-<div class="line"><span class="lineno"> 3810</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno"> 3811</span> </div>
-<div class="line"><span class="lineno"> 3812</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* rookery = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a96ba2eed3fb3e3c62b3d68f3676a7062">GetHitGObj</a>())</div>
-<div class="line"><span class="lineno"> 3813</span>        {</div>
-<div class="line"><span class="lineno"> 3814</span>            <span class="keywordflow">if</span> (rookery-&gt;getLootState() == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc">GO_READY</a>)</div>
-<div class="line"><span class="lineno"> 3815</span>                rookery-&gt;UseDoorOrButton(0, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 3816</span>        }</div>
-<div class="line"><span class="lineno"> 3817</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3845</span>    {</div>
+<div class="line"><span class="lineno"> 3846</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
+<div class="line"><span class="lineno"> 3847</span> </div>
+<div class="line"><span class="lineno"> 3848</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d1c/classGameObject.html">GameObject</a>* rookery = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a96ba2eed3fb3e3c62b3d68f3676a7062">GetHitGObj</a>())</div>
+<div class="line"><span class="lineno"> 3849</span>        {</div>
+<div class="line"><span class="lineno"> 3850</span>            <span class="keywordflow">if</span> (rookery-&gt;getLootState() == <a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc">GO_READY</a>)</div>
+<div class="line"><span class="lineno"> 3851</span>                rookery-&gt;UseDoorOrButton(0, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 3852</span>        }</div>
+<div class="line"><span class="lineno"> 3853</span>    }</div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc">GO_READY</a></div><div class="ttdeci">@ GO_READY</div><div class="ttdef"><b>Definition</b> GameObject.h:111</div></div>
 <div class="ttc" id="aclassGameObject_html"><div class="ttname"><a href="../../de/d1c/classGameObject.html">GameObject</a></div><div class="ttdef"><b>Definition</b> GameObject.h:120</div></div>
 <div class="ttc" id="aclassSpellScript_html_a56ed3ad5cf4ebc848946a9d8f1c35d5f"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">SpellScript::PreventHitDefaultEffect</a></div><div class="ttdeci">void PreventHitDefaultEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:590</div></div>
@@ -330,7 +330,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00494">SpellScript::GetHitGObj()</a>, <a class="el" href="../../#l00111">GO_READY</a>, and <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03819">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03855">Register()</a>.</p>
 
 </div>
 </div>
@@ -384,16 +384,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3820</span>    {</div>
-<div class="line"><span class="lineno"> 3821</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d0/d69/classspell__item__freeze__rookery__egg.html#ab658c13615fac1861470bb4b853e76a4">spell_item_freeze_rookery_egg::HandleOpenObject</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aef9e266be3bbaf4fb858584a5a61bf7e">SPELL_EFFECT_OPEN_LOCK</a>);</div>
-<div class="line"><span class="lineno"> 3822</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3856</span>    {</div>
+<div class="line"><span class="lineno"> 3857</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d0/d69/classspell__item__freeze__rookery__egg.html#ab658c13615fac1861470bb4b853e76a4">spell_item_freeze_rookery_egg::HandleOpenObject</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aef9e266be3bbaf4fb858584a5a61bf7e">SPELL_EFFECT_OPEN_LOCK</a>);</div>
+<div class="line"><span class="lineno"> 3858</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97aef9e266be3bbaf4fb858584a5a61bf7e"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97aef9e266be3bbaf4fb858584a5a61bf7e">SPELL_EFFECT_OPEN_LOCK</a></div><div class="ttdeci">@ SPELL_EFFECT_OPEN_LOCK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:822</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__item__freeze__rookery__egg_html_ab658c13615fac1861470bb4b853e76a4"><div class="ttname"><a href="../../d0/d69/classspell__item__freeze__rookery__egg.html#ab658c13615fac1861470bb4b853e76a4">spell_item_freeze_rookery_egg::HandleOpenObject</a></div><div class="ttdeci">void HandleOpenObject(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3808</div></div>
+<div class="ttc" id="aclassspell__item__freeze__rookery__egg_html_ab658c13615fac1861470bb4b853e76a4"><div class="ttname"><a href="../../d0/d69/classspell__item__freeze__rookery__egg.html#ab658c13615fac1861470bb4b853e76a4">spell_item_freeze_rookery_egg::HandleOpenObject</a></div><div class="ttdeci">void HandleOpenObject(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3844</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03808">HandleOpenObject()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00822">SPELL_EFFECT_OPEN_LOCK</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03844">HandleOpenObject()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00822">SPELL_EFFECT_OPEN_LOCK</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -406,7 +406,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d69/classspell__item__freeze__rookery__egg.html">spell_item_freeze_rookery_egg</a></li>
-    <li class="footer">Generated on Thu Oct 9 2025 06:25:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 10 2025 06:43:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

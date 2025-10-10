@@ -216,7 +216,7 @@ var searchData=
   ['arenaseasonrewardgroup_213',['ArenaSeasonRewardGroup',['../d5/dd9/structArenaSeasonRewardGroup.html',1,'']]],
   ['arenaseasonteamrewarder_214',['ArenaSeasonTeamRewarder',['../d4/d07/classArenaSeasonTeamRewarder.html',1,'']]],
   ['arenaseasonteamrewarderimpl_215',['ArenaSeasonTeamRewarderImpl',['../dc/d4b/classArenaSeasonTeamRewarderImpl.html',1,'']]],
-  ['arenateam_216',['ArenaTeam',['../d4/dc6/classArenaTeam.html',1,'']]],
+  ['arenateam_216',['arenateam',['../d4/dc6/classArenaTeam.html',1,'ArenaTeam'],['../df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html',1,'WorldPackets::Calendar::ArenaTeam']]],
   ['arenateamfilter_217',['ArenaTeamFilter',['../d4/d74/classArenaTeamFilter.html',1,'']]],
   ['arenateamfilterallteams_218',['ArenaTeamFilterAllTeams',['../d4/df6/classArenaTeamFilterAllTeams.html',1,'']]],
   ['arenateamfilterbytypes_219',['ArenaTeamFilterByTypes',['../d7/d19/classArenaTeamFilterByTypes.html',1,'']]],

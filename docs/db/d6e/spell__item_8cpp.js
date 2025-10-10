@@ -38,7 +38,7 @@ var spell__item_8cpp =
     [ "spell_item_draenic_pale_ale", "d4/d55/classspell__item__draenic__pale__ale.html", "d4/d55/classspell__item__draenic__pale__ale" ],
     [ "spell_item_direbrew_remote", "d1/d5b/classspell__item__direbrew__remote.html", "d1/d5b/classspell__item__direbrew__remote" ],
     [ "spell_item_direbrew_remote_aura", "da/d8a/classspell__item__direbrew__remote__aura.html", "da/d8a/classspell__item__direbrew__remote__aura" ],
-    [ "spell_item_eye_of_gruul_healing_discount", "d1/dcb/classspell__item__eye__of__gruul__healing__discount.html", "d1/dcb/classspell__item__eye__of__gruul__healing__discount" ],
+    [ "spell_item_healing_trance", "d3/d3f/classspell__item__healing__trance.html", "d3/d3f/classspell__item__healing__trance" ],
     [ "spell_item_summon_argent_knight", "d4/dc5/classspell__item__summon__argent__knight.html", "d4/dc5/classspell__item__summon__argent__knight" ],
     [ "spell_item_instant_statue", "d4/dc9/classspell__item__instant__statue.html", "d4/dc9/classspell__item__instant__statue" ],
     [ "spell_item_trigger_spell", "de/d1b/classspell__item__trigger__spell.html", "de/d1b/classspell__item__trigger__spell" ],
@@ -236,12 +236,6 @@ var spell__item_8cpp =
       [ "SPELL_EYE_OF_GRILLOK", "db/d6e/spell__item_8cpp.html#a9f5032b464220654fdc27d1be320628bad7e628e6e8c71527d7fe34904e0233bc", null ],
       [ "NPC_EYE_OF_GRILLOK", "db/d6e/spell__item_8cpp.html#a9f5032b464220654fdc27d1be320628bafcef54b19be784a3b3cd47d62ddc1799", null ]
     ] ],
-    [ "EyeOfGruul", "db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923", [
-      [ "SPELL_DRUID_ITEM_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923aa3c3045a9fe95dae08ef3a8f16453c98", null ],
-      [ "SPELL_PALADIN_ITEM_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923ab60620f9ee854a1b11f7a659d166da38", null ],
-      [ "SPELL_PRIEST_ITEM_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923afc6cdc6aa58e5609f93e57d1465799e0", null ],
-      [ "SPELL_SHAMAN_ITEM_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#aee84f4a67ba9fdb3e463a3975ea8d923a63b15fd509bec30938bc419f84dfde0a", null ]
-    ] ],
     [ "FateRuneOfUnsurpassedVigor", "db/d6e/spell__item_8cpp.html#a831fec3d98e7e10389443578a66b7532", [
       [ "SPELL_UNSURPASSED_VIGOR", "db/d6e/spell__item_8cpp.html#a831fec3d98e7e10389443578a66b7532adda98ed024901d3349d18f8249af04b8", null ]
     ] ],
@@ -289,6 +283,18 @@ var spell__item_8cpp =
     ] ],
     [ "GreatmothersSoulcather", "db/d6e/spell__item_8cpp.html#a788e0d41070e3be21e51ba780dac2712", [
       [ "SPELL_FORCE_CAST_SUMMON_GNOME_SOUL", "db/d6e/spell__item_8cpp.html#a788e0d41070e3be21e51ba780dac2712a46e6b7156184c4c39da9a7cff9968220", null ]
+    ] ],
+    [ "HealingTrance", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05f", [
+      [ "SPELL_HEALING_DISCOUNT", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa4a039e59d8b3cae8a44c2456c3a770b9", null ],
+      [ "SPELL_SOUL_PRESERVER", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa4e955ad762871b3697ac8ac526f4020c", null ],
+      [ "SPELL_PRIEST_EYE_OF_GRUUL_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05faa2586315a2eb1cebd0dbbe2aaaa87e5e", null ],
+      [ "SPELL_DRUID_EYE_OF_GRUUL_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa1a72ffd8d599c7547d01334e4b3dc691", null ],
+      [ "SPELL_SHAMAN_EYE_OF_GRUUL_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05faed78359ba2fbb6ace4849f582fc32abc", null ],
+      [ "SPELL_PALADIN_EYE_OF_GRUUL_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fab0c274c4cbe8bd737bad71fbd30248d4", null ],
+      [ "SPELL_DRUID_SOUL_PRESERVER_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa05f3de5da63a0642ea3ae391b1035562", null ],
+      [ "SPELL_PALADIN_SOUL_PRESERVER_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fad0dca2bbd5ae23a64c2e93cf0c92b728", null ],
+      [ "SPELL_PRIEST_SOUL_PRESERVER_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fab46417246a53176f70e01fcfff7eb734", null ],
+      [ "SPELL_SHAMAN_SOUL_PRESERVER_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa5cfa4eb2b192a9a3e266b4af6b2a0e7a", null ]
     ] ],
     [ "ImpaleLeviroth", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063", [
       [ "NPC_LEVIROTH", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063a31043daa70bd527bed8ae1ddb4815d50", null ],
