@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a00f0379b4e4fadf73bed7d483e406ac5":[6,0,3760,1],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a7009dd0e842898d03caa89e92447749d":[6,0,3760,0],
 "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a8f21cb8ab1145fe32a78a682445cfc2d":[6,0,3760,2],
 "df/da2/Battlefield_8h.html":[7,0,0,0,1,2,7,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#a89ad7beedc7aca0506c87d983b74eee4":[6,0,312,1],
 "df/da7/classBattleground.html#a8a2f64b459fdd5c3fe6c556a44202a7f":[6,0,312,207],
 "df/da7/classBattleground.html#a8a507c4d4237c30326bcf1a0bf8f82b3":[6,0,312,25],
-"df/da7/classBattleground.html#a8c095e425130c2460d3ad85f85238ffe":[6,0,312,104],
-"df/da7/classBattleground.html#a8c499d8b29631281063c066fe908a9be":[6,0,312,251]
+"df/da7/classBattleground.html#a8c095e425130c2460d3ad85f85238ffe":[6,0,312,104]
 };

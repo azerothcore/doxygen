@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/dd6/classcharacter__commandscript.html#aaaeccd99c33ef4fdc3794d5f1052cd45":[6,0,849,28],
 "dd/dd6/classcharacter__commandscript.html#aacb45e7e90071908d2029ed2a11bef35":[6,0,849,23],
 "dd/dd6/classcharacter__commandscript.html#acd6b14efed2366e2a202ba17be781801":[6,0,849,2],
 "dd/dd6/classcharacter__commandscript.html#acf117a67ef10b7894190ff2c0cd881fd":[6,0,849,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/de2/classspell__summon__toxin__slime.html#a9e568a1608715973fc438ff5e4356714":[6,0,3851,1],
 "dd/de4/classnpc__air__force__bots.html":[6,0,1576],
 "dd/de4/classnpc__air__force__bots.html#a00b8f274bde3260a113ea21e0f68cdf8":[6,0,1576,1],
-"dd/de4/classnpc__air__force__bots.html#ae971e34d61b0f960d8f5940f9015523d":[6,0,1576,2],
-"dd/de4/structnpc__memory_1_1npc__memoryAI.html":[6,0,1963,0]
+"dd/de4/classnpc__air__force__bots.html#ae971e34d61b0f960d8f5940f9015523d":[6,0,1576,2]
 };

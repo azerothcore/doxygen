@@ -1,5 +1,6 @@
 var NAVTREEINDEX182 =
 {
+"d6/de7/classGuild_1_1EventLogEntry.html#a31726d40f7b89077b45ffbaca8396a9d":[6,0,1252,3,0],
 "d6/de7/classGuild_1_1EventLogEntry.html#a8d6bf0a5a53fdc8e99ad53293d96af7c":[6,0,1252,3,2],
 "d6/de7/classGuild_1_1EventLogEntry.html#a96a2e3a6d565db452e7d0f1a152f63c7":[6,0,1252,3,1],
 "d6/de7/classGuild_1_1EventLogEntry.html#ab733c92f478dc36e3b5ffc61799a6ce7":[6,0,1252,3,6],
@@ -123,8 +124,8 @@ var NAVTREEINDEX182 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,95,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,95,5],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,107,5],
 "d6/dee/boss__nethekurse_8cpp.html":[7,0,0,0,1,3,7,4,3,0],
@@ -234,8 +235,8 @@ var NAVTREEINDEX182 =
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,1,2,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,1,2,8,1],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
 "d6/df0/classspell__summoning__rhyme__aura.html":[6,0,3852],
 "d6/df0/classspell__summoning__rhyme__aura.html#a49db8ade3bc3a3da9e043e8b9ad1759d":[6,0,3852,1],
 "d6/df0/classspell__summoning__rhyme__aura.html#a789d2d4d2bc75e412abe80a33102fa06":[6,0,3852,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX182 =
 "d6/df1/classspell__sha__astral__shift.html#aa443ab0eed74229883884fbced0426d7":[6,0,3780,4],
 "d6/df1/classspell__sha__astral__shift.html#ad7a3e297fcd38fc9d020a3c3db32ace2":[6,0,3780,3],
 "d6/df1/classspell__sha__astral__shift.html#adf0783559d4ca95bc09a5ef217291bc9":[6,0,3780,0],
-"d6/df1/structnpc__toc__boomkin_1_1npc__toc__boomkinAI.html":[6,0,2191,0],
-"d6/df1/structnpc__toc__boomkin_1_1npc__toc__boomkinAI.html#a0b367855092884b2ce30834e89fced87":[6,0,2191,0,4]
+"d6/df1/structnpc__toc__boomkin_1_1npc__toc__boomkinAI.html":[6,0,2191,0]
 };

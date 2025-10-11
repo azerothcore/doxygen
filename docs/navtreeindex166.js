@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d6/d28/structSpellProcEventEntry.html#a2aa57bf419ab51129fe7240750ee8910":[6,0,4105,7],
 "d6/d28/structSpellProcEventEntry.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a":[6,0,4105,8],
 "d6/d28/structSpellProcEventEntry.html#a911770f28fe36243593b12fe92d6fbec":[6,0,4105,3],
 "d6/d28/structSpellProcEventEntry.html#a931b2df4a187482e32ef252c3320080a":[6,0,4105,2],
@@ -68,12 +69,12 @@ var NAVTREEINDEX166 =
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[6,0,2920,3],
 "d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[6,0,2920,1],
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[6,0,2920,2],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,11,10,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,31,10,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,11,10,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,11,10,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,31,10,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,10,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,31,10,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,10,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,31,10,0,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,11,10,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2438,1],
@@ -180,8 +181,8 @@ var NAVTREEINDEX166 =
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aab662b1ba92ab8eb76558f97191142cc":[6,0,0,5,0,4,0],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[6,0,0,5,0,4,2],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#ae2a889829917ed0dd76194194efc9b13":[5,0,1,8,0,4,2],
-"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[6,0,0,5,0,4,1],
 "d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[5,0,1,8,0,4,1],
+"d6/d34/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Acore_1_1ChatCommands_1_1Variant_3_01Ts_8_8_8_01_4_01_4.html#aeff1865d7499b0b112cc39c44fd07112":[6,0,0,5,0,4,1],
 "d6/d34/structModuleString.html":[6,0,1522],
 "d6/d34/structModuleString.html#a2258fd4a2b331369a95988cfa6b42f4c":[6,0,1522,0],
 "d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html":[6,0,1307,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d35/structHolidaysEntry.html#a6f9cf483200ac982bab7a66ff8bef33d":[6,0,1266,1],
 "d6/d35/structHolidaysEntry.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0":[6,0,1266,7],
 "d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b":[6,0,1266,2],
-"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[6,0,1266,5],
-"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html":[6,0,769,0]
+"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[6,0,1266,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9980b74fcece706b35f1723dd2c9bf9d":[7,0,0,0,1,1,0,0,3,1,70],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9a7cf024b0e5c28895f91c09000ac1af":[7,0,0,0,1,1,0,0,3,1,33],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9c6bf80dfd213b44e55395bc10e8ab0d":[7,0,0,0,1,1,0,0,3,1,45],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba9c73f070fb33a0ff785f2e7193b0387f":[7,0,0,0,1,1,0,0,3,1,54],
@@ -213,14 +214,14 @@ var NAVTREEINDEX213 =
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,31,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,31,7,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[6,0,11,7,9,2],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[6,0,11,7,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,31,7,9,5],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,31,7,9,1],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[6,0,11,7,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[6,0,11,7,9,1],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,31,7,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,31,7,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[6,0,11,7,9,0],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,11,7,9,3],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,31,7,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,11,7,9,3],
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html":[6,0,3442],
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html#a88f5ca3aaa575cff0ba778f9b575d656":[6,0,3442,1],
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html#ac7337b4ee8511f72b129fccc83b3241e":[6,0,3442,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d4b/classObject.html#a1ca2dc2f577c6c2b99f747cc08646090":[6,0,2322,40],
 "d8/d4b/classObject.html#a1d0aed1f0b94a4eeca8be2952189dc0d":[6,0,2322,12],
 "d8/d4b/classObject.html#a1dd144f55a02384903919242dbf17505":[6,0,2322,86],
-"d8/d4b/classObject.html#a1ff0a1e26222445cfe693d7ce0f8742b":[6,0,2322,25],
-"d8/d4b/classObject.html#a219c875817057a6189178a0d5b9d5a09":[6,0,2322,85]
+"d8/d4b/classObject.html#a1ff0a1e26222445cfe693d7ce0f8742b":[6,0,2322,25]
 };

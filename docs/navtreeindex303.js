@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,415,3],
 "dc/d1b/structboss__curator.html#af6fbf3c3d77f9f052f11974f7b54feab":[6,0,415,5],
 "dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3106],
 "dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[6,0,3106,2],
@@ -35,8 +36,8 @@ var NAVTREEINDEX303 =
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
 "dc/d1f/classnpc__rizzle__sprysprocket.html":[6,0,2090],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3a42f3ffc35683b55de5bcc8d2b24647":[6,0,2090,3],
 "dc/d1f/classnpc__rizzle__sprysprocket.html#a3bd65f716b42200cc37d2264ddedf735":[6,0,2090,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a58e186fe43676ece0ad48ce5ee2d9653":[7,0,0,0,1,3,5,9,2,9,44,0],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a5ce330c4705ba5622b7913e967a6c800":[7,0,0,0,1,3,5,9,2,9,44,6],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a6377e64d66de6d8095d0820df8ec6d36":[7,0,0,0,1,3,5,9,2,9,44,13],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a75ca3259263ef9048c9a8541f38dfdca":[7,0,0,0,1,3,5,9,2,9,44,5],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a79f252fbb61bce9106d0b5b3618499f7":[7,0,0,0,1,3,5,9,2,9,44,18]
+"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a75ca3259263ef9048c9a8541f38dfdca":[7,0,0,0,1,3,5,9,2,9,44,5]
 };

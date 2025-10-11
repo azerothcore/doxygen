@@ -1,13 +1,14 @@
 var NAVTREEINDEX235 =
 {
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,113,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,113,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,125,0],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,113,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,125,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,125,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,113,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,113,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,125,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,125,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,113,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,125,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[6,0,3466],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[6,0,3466,0],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[6,0,3466,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d62/databasePCH_8h.html":[7,0,0,0,1,1,2,0],
 "d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html":[6,0,1290,0],
 "d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#a564a49814ceb3b3161a6476335ab653a":[6,0,1290,0,2],
-"d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#a814ac33238558b4e2a2ff57e6039d4fc":[6,0,1290,0,1],
-"d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#a85fa9c5231f13529a0741b0f92266c90":[6,0,1290,0,4]
+"d9/d62/structinstance__black__temple_1_1instance__black__temple__InstanceMapScript.html#a814ac33238558b4e2a2ff57e6039d4fc":[6,0,1290,0,1]
 };

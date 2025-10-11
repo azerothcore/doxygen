@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a27277d90d4a58a89386a39f4affbaee8":[6,0,1886,0,1],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a5347858d5da4f0718479b1d702125366":[6,0,1886,0,3],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a644616bab96e1bd9bbe2500bf1b14988":[6,0,1886,0,7],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a704c1d3e07d028b04e2bddee37039941":[6,0,1886,0,0],
@@ -149,12 +150,12 @@ var NAVTREEINDEX321 =
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[6,0,11,6,10,0],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[6,0,11,6,10,3],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[5,0,31,6,10,3],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[6,0,11,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,31,6,10,4],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[5,0,31,6,10,1],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[6,0,11,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[6,0,11,6,10,1],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[5,0,31,6,10,2],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[5,0,31,6,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[6,0,11,6,10,2],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[5,0,31,6,10,2],
 "dd/d0c/classspell__gen__brood__power.html":[6,0,2929],
 "dd/d0c/classspell__gen__brood__power.html#a3ad038e7bf43dceedb0fceebd4070bfa":[6,0,2929,3],
 "dd/d0c/classspell__gen__brood__power.html#aa8ad85cbf0403d79e55bbe0ae184407b":[6,0,2929,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a947f97388142548dfa279218697d9347":[6,0,421,0,19],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a98ee80efda5186715d1a421706fd0cbe":[6,0,421,0,9],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ab4aace4aa38d8675f7dc6d782831579a":[6,0,421,0,8],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#abb61bde3297dae343db32cd689decbcb":[6,0,421,0,18],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac18af44a38a78e43d9754495da21dd17":[6,0,421,0,6]
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#abb61bde3297dae343db32cd689decbcb":[6,0,421,0,18]
 };

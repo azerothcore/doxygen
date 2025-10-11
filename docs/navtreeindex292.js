@@ -1,5 +1,6 @@
 var NAVTREEINDEX292 =
 {
+"db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb":[6,0,2526,65],
 "db/dc8/structScriptedAI.html#a63cc63198b59f5cd7c5301ad02eabed0":[6,0,2526,29],
 "db/dc8/structScriptedAI.html#a671ed92586143776b08dfa277546f53b":[6,0,2526,18],
 "db/dc8/structScriptedAI.html#a6a56d302c82f957dec50dd07225e407f":[6,0,2526,61],
@@ -92,10 +93,10 @@ var NAVTREEINDEX292 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2698,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX292 =
 "db/dce/classAura.html#afa8b3462e2d68da5a9972c6cbd637022":[6,0,279,20],
 "db/dce/classAura.html#afb6874ab08b221b2f1f9d7582c1c93be":[6,0,279,8],
 "db/dce/classAura.html#afb782970ace7a9385038481911d388fc":[6,0,279,91],
-"db/dce/classboss__lavanthor.html":[6,0,590],
-"db/dce/classboss__lavanthor.html#aa935ffe07f59db59b9b8484f22927026":[6,0,590,1]
+"db/dce/classboss__lavanthor.html":[6,0,590]
 };

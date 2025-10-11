@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3a/BattlegroundMgr_8h.html#a33858c5514cd62b25f056e4ba170de59":[7,0,0,0,1,2,8,12,5],
 "dd/d3a/BattlegroundMgr_8h.html#a356842317f4215b2ee31abb25b4d54e7":[7,0,0,0,1,2,8,12,7],
 "dd/d3a/BattlegroundMgr_8h.html#a91490e6276f571e959bcc65a1a7e4007":[7,0,0,0,1,2,8,12,8],
 "dd/d3a/BattlegroundMgr_8h.html#aa4d7efc49483e1820c6d759f0f3613f2":[7,0,0,0,1,2,8,12,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a56f2753ef630b76882cc1dce6b5a8fb9":[6,0,2278,0,6],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a77234a8f4ec9c687b194a8c332820609":[6,0,2278,0,4],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a810c0c03317672d5a4a904a1e96cbba9":[6,0,2278,0,1],
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd72c6ae18b84cee94a295e51fae9ac3":[6,0,2278,0,8],
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd7a8c972db52077f8b02317f5398ff0":[6,0,2278,0,7]
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd72c6ae18b84cee94a295e51fae9ac3":[6,0,2278,0,8]
 };

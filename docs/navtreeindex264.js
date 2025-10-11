@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/d9d/classachievement__cant__do__that__while__stunned.html#a0b108bdcab0bc412975e61247f226bf8":[6,0,43,1],
 "da/d9d/classachievement__cant__do__that__while__stunned.html#a4d474b36f61631688ea723d2e4033574":[6,0,43,0],
 "da/d9d/namespaceWorldPackets_1_1LFG.html":[5,0,31,8],
 "da/d9e/classSmartAIMgr.html":[6,0,2571],
@@ -248,6 +249,5 @@ var NAVTREEINDEX264 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a1b5f3041ee91b4a664528018eed0166e":[7,0,0,0,1,3,7,13,36,1],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a307d891e05530d70a32ad2047cfe6dab":[7,0,0,0,1,3,7,13,36,0],
 "da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a4de29e3fa18189011f62fd209e6be3fc":[7,0,0,0,1,3,7,13,36,3],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a6ab0bda74bcf7baf41bcd485a9ce0edc":[7,0,0,0,1,3,7,13,36,2],
-"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a70ce837fb348f11956c1228a3ef9c325":[7,0,0,0,1,3,7,13,36,9]
+"da/da4/zone__shadowmoon__valley_8cpp.html#ae554d834b3961877059bec92621b0103a6ab0bda74bcf7baf41bcd485a9ce0edc":[7,0,0,0,1,3,7,13,36,2]
 };

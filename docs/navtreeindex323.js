@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dd/d1f/structnpc__arcanite__dragonling.html#a4468d91430add821bf7a7ab11d8063da":[6,0,1608,4],
 "dd/d1f/structnpc__arcanite__dragonling.html#a65f6d779681861117f750b70154b3e0d":[6,0,1608,3],
 "dd/d1f/structnpc__arcanite__dragonling.html#a921b35a91c4f21258efdb41fd87413db":[6,0,1608,2],
 "dd/d1f/structnpc__arcanite__dragonling.html#a9b7e4cefa312a16c90018d655ad94758":[6,0,1608,0],
@@ -74,8 +75,8 @@ var NAVTREEINDEX323 =
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,9,11,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,31,9,11,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[6,0,11,9,11,0],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,31,9,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[6,0,11,9,11,3],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,31,9,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[6,0,11,9,11,5],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,31,9,11,5],
 "dd/d26/structtf__tower__world__state.html":[6,0,4161],
@@ -125,8 +126,8 @@ var NAVTREEINDEX323 =
 "dd/d27/Timer_8h.html#afe6fb6cf9a0829f40c9ba45356eec815":[7,0,0,0,0,15,33,21],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html":[6,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html":[5,0,1,0,3],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[6,0,0,0,2,0],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,1,0,3,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[6,0,0,0,2,0],
 "dd/d27/classOPvPCapturePointTF.html":[6,0,2344],
 "dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[6,0,2344,7],
 "dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[6,0,2344,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dd/d27/structSmartAction.html#a5dc1df9eded9a0de9b0440688d161869":[6,0,2569,11],
 "dd/d27/structSmartAction.html#a5e6a4daf2d6e10f5d07b3d7a2eae37f7":[6,0,2569,288],
 "dd/d27/structSmartAction.html#a5eefeb95a2fa3000ec244d83528aa3a4":[6,0,2569,195],
-"dd/d27/structSmartAction.html#a5fe45da32ba01c1ce2cdfb9c87140f0b":[6,0,2569,101],
-"dd/d27/structSmartAction.html#a622f16ef99b42106e5ddec59f549f41a":[6,0,2569,21]
+"dd/d27/structSmartAction.html#a5fe45da32ba01c1ce2cdfb9c87140f0b":[6,0,2569,101]
 };

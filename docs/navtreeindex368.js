@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[7,0,0,0,1,3,7,0,0,1,3,13],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b41ef3af71d15719535ced60a0de398":[7,0,0,0,1,3,7,0,0,1,3,4],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca70102f1e7ebc514c9875b92e5490b":[7,0,0,0,1,3,7,0,0,1,3,5],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca20e455c0ae51cf9a08598dfbd3cfad1a":[7,0,0,0,1,3,7,0,0,1,3,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af76ba553395433c9d18c314780c339ad":[7,0,0,0,1,3,2,16,2,2,4],
 "de/d89/boss__grilek_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afa798d6a1b21d8558d1088ff3a8b29af":[7,0,0,0,1,3,2,16,2,2,2],
 "de/d89/classGridObjectUnloader.html":[6,0,1224],
-"de/d89/classGridObjectUnloader.html#a412c9cbe22dc645c87e002ddb1772a90":[6,0,1224,2],
-"de/d89/classGridObjectUnloader.html#a7624bb11d51edffdc49fc9a95df847ef":[6,0,1224,1]
+"de/d89/classGridObjectUnloader.html#a412c9cbe22dc645c87e002ddb1772a90":[6,0,1224,2]
 };

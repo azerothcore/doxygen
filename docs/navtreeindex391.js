@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa4705fae31b43738ff35bbe733c3340da":[7,0,0,0,1,3,5,9,2,4,42,41],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa474d49e7254a578477d3c3ca4e0f60e7":[7,0,0,0,1,3,5,9,2,4,42,49],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,42,25],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa53b570ac1203fbe44290d3ff38438fa2":[7,0,0,0,1,3,5,9,2,4,42,28],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/d91/structboss__high__botanist__freywinn.html#a7b370482ea195d0305cba339ce0cbab3":[6,0,529,1],
 "df/d91/structboss__high__botanist__freywinn.html#a7f1a02d4b944191471f59ba728b6372e":[6,0,529,5],
 "df/d91/structboss__high__botanist__freywinn.html#a80a997e0d12c175da0a46d7362890b9c":[6,0,529,3],
-"df/d91/structboss__high__botanist__freywinn.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b":[6,0,529,2],
-"df/d91/structboss__high__botanist__freywinn.html#aeecf6ed56e34cf1d9a552aab82f1f64a":[6,0,529,0]
+"df/d91/structboss__high__botanist__freywinn.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b":[6,0,529,2]
 };

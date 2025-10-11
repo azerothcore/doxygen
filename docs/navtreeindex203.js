@@ -1,5 +1,6 @@
 var NAVTREEINDEX203 =
 {
+"d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa4f1d578423c04b16414575365bbc4e00":[7,0,0,0,1,3,3,0,1,3,24],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa4f78b2161c527cad45d2851a92786e54":[7,0,0,0,1,3,3,0,1,3,8],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa5d0d683844dcf126a16099bb8c98a7e6":[7,0,0,0,1,3,3,0,1,3,19],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa6097510945f53abb088a289583e7058e":[7,0,0,0,1,3,3,0,1,3,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dc0/structboss__flame__leviathan__seat_1_1boss__flame__leviathan__seatAI.html#a9d0624a45613676a39def53b2a2fdce0":[6,0,472,0,7],
 "d7/dc0/structboss__flame__leviathan__seat_1_1boss__flame__leviathan__seatAI.html#ab830db7804ee9b9815e4ea3398a6d856":[6,0,472,0,0],
 "d7/dc0/structboss__flame__leviathan__seat_1_1boss__flame__leviathan__seatAI.html#ac3d1d8f405a37d2344c5f4e34519e2cb":[6,0,472,0,6],
-"d7/dc0/structboss__flame__leviathan__seat_1_1boss__flame__leviathan__seatAI.html#aeda2ad4d596c86aa5c19acb1c710cc9f":[6,0,472,0,2],
-"d7/dc0/structboss__flame__leviathan__seat_1_1boss__flame__leviathan__seatAI.html#af4939f3daef8aae9a1eafe2020ab205e":[6,0,472,0,3]
+"d7/dc0/structboss__flame__leviathan__seat_1_1boss__flame__leviathan__seatAI.html#aeda2ad4d596c86aa5c19acb1c710cc9f":[6,0,472,0,2]
 };

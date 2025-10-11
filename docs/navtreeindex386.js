@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d3c/classinstance__arcatraz.html#a6fc8860651573353b54fd26bddea32aa":[6,0,1287,1],
 "df/d3c/classinstance__arcatraz.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb":[6,0,1287,2],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,286,16],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[6,0,286,16,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html":[6,0,1571,0],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a021b82aa6bd2e118fe810f18349fda42":[6,0,1571,0,3],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a295d4bef97b97c7deb31a81274f0818d":[6,0,1571,0,2],
-"df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a9353ac81b0c209a56313b52f2257ddd2":[6,0,1571,0,1],
-"df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1571,0,0]
+"df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a9353ac81b0c209a56313b52f2257ddd2":[6,0,1571,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX377 =
 {
+"de/dd9/AccountMgr_8h.html#adb1b210137b09011677c74011addeefa":[7,0,0,0,1,2,0,1,15],
 "de/dd9/AccountMgr_8h.html#af911e3860ec519c541d6df35468ee41b":[7,0,0,0,1,2,0,1,12],
 "de/dd9/classspell__dk__chains__of__ice__aura.html":[6,0,2762],
 "de/dd9/classspell__dk__chains__of__ice__aura.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5":[6,0,2762,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX377 =
 "de/dea/structnpc__corrupted__totem.html#a953cf5af625b9b5a4ab6704d5b1b664c":[6,0,1703,6],
 "de/dea/structnpc__corrupted__totem.html#aa3c6b1a3df61c9e98c62efadff637578":[6,0,1703,2],
 "de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[6,0,1703,5],
-"de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[6,0,1703,1],
-"de/deb/LogCommon_8h.html":[7,0,0,0,0,9,10]
+"de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[6,0,1703,1]
 };

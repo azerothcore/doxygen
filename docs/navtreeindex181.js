@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html#af336c2afbf6c2850679fd7d8d1f0d5e9":[6,0,1633,0,1],
 "d6/dd6/structLoadedLiquidData.html":[6,0,1436],
 "d6/dd6/structLoadedLiquidData.html#a025eadf79f31d447fc80efabbb2f9f22":[6,0,1436,0],
 "d6/dd6/structLoadedLiquidData.html#a1d69fc74b38f6e596704e26e93281314":[6,0,1436,3],
@@ -66,8 +67,8 @@ var NAVTREEINDEX181 =
 "d6/dd8/classnpc__sindragosa__trash.html":[6,0,2124],
 "d6/dd8/classnpc__sindragosa__trash.html#a9634ea10e767b4d6e293fc3fdd491702":[6,0,2124,1],
 "d6/dd8/classnpc__sindragosa__trash.html#ab1de715d98236a853a793d830bc601d7":[6,0,2124,2],
-"d6/dd8/structAcore_1_1find__type__if_3_01Check_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,52],
 "d6/dd8/structAcore_1_1find__type__if_3_01Check_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,1,64],
+"d6/dd8/structAcore_1_1find__type__if_3_01Check_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,52],
 "d6/dd9/boss__skadi_8cpp.html":[7,0,0,0,1,3,5,10,1,1],
 "d6/dd9/boss__skadi_8cpp.html#a2b02990fe865bfd78ada58f3bab76840":[7,0,0,0,1,3,5,10,1,1,10],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,10,1,1,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/de7/classGuild_1_1EventLogEntry.html#a00216643e6856591402c21df490c1fec":[6,0,1252,3,5],
 "d6/de7/classGuild_1_1EventLogEntry.html#a06a2b45d16860c711829f49f97624272":[6,0,1252,3,7],
 "d6/de7/classGuild_1_1EventLogEntry.html#a1f66e71f9536e484663e437bbcbcefca":[6,0,1252,3,8],
-"d6/de7/classGuild_1_1EventLogEntry.html#a2ca71e291a44f95bb42d51083aa84985":[6,0,1252,3,3],
-"d6/de7/classGuild_1_1EventLogEntry.html#a31726d40f7b89077b45ffbaca8396a9d":[6,0,1252,3,0]
+"d6/de7/classGuild_1_1EventLogEntry.html#a2ca71e291a44f95bb42d51083aa84985":[6,0,1252,3,3]
 };

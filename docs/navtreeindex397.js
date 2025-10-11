@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[7,0,0,0,1,3,2,1,2,1,8,2],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca27fe30ac398369e590388303632044c8":[7,0,0,0,1,3,2,1,2,1,8,3],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f43fa504fe38a5c52ef443b23bb1274":[7,0,0,0,1,3,2,1,2,1,8,4],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298caf449fe258d0ab41f9eea3eb1ff26dda1":[7,0,0,0,1,3,2,1,2,1,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a841e96bbe93dc3366867eb77250dc0a2":[7,0,0,0,1,3,9,10,32,13],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a8d0782da4d8d3aea933835cbb7dc83ef":[7,0,0,0,1,3,9,10,32,26],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120":[7,0,0,0,1,3,9,10,32,17],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a9a807b28eb58d2f4f4539bebd6dec4da":[7,0,0,0,1,3,9,10,32,12],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a9d65d3bf8bf2cf95bcfcce2b8a50f5a6":[7,0,0,0,1,3,9,10,32,29]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a9a807b28eb58d2f4f4539bebd6dec4da":[7,0,0,0,1,3,9,10,32,12]
 };

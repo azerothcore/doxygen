@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/d4d/events__script__loader_8cpp.html#acd28b6b284f9e0f8caa1194e2dc904f8":[7,0,0,0,1,3,3,3,5],
 "de/d4d/events__script__loader_8cpp.html#adc17dd3d30524a3c73b564d6eed54f1c":[7,0,0,0,1,3,3,3,6],
 "de/d4d/events__script__loader_8cpp.html#af7a6296c13b6615a14e0823fe7e5b577":[7,0,0,0,1,3,3,3,3],
 "de/d4f/Object_8cpp.html":[7,0,0,0,1,2,16,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/d5e/classnpc__gilthares.html#a018cc6240a79216acb371241f63e3234":[6,0,1812,3],
 "de/d5e/classnpc__gilthares.html#a96293e28237a092c64f6a91d91bc7ff3":[6,0,1812,2],
 "de/d5e/classnpc__gilthares.html#af1e0746350b32b68825710e1c3ed91a5":[6,0,1812,1],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html":[6,0,1815,0],
-"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a18a8135ab0395991afc4896950783ae5":[6,0,1815,0,6]
+"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html":[6,0,1815,0]
 };

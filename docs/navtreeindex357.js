@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"de/d11/structboss__novos_1_1boss__novosAI.html#ac62d82368e71dcb58cbac04d90731d35":[6,0,641,0,8],
 "de/d11/structboss__novos_1_1boss__novosAI.html#acba9623bd90132a4042c2fb9923a1c3c":[6,0,641,0,10],
 "de/d11/structboss__novos_1_1boss__novosAI.html#acd01b87b1f481de8f3327c3a958dd12d":[6,0,641,0,7],
 "de/d11/structboss__novos_1_1boss__novosAI.html#adb1ddbf486ee7690d25c00db3902e408":[6,0,641,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d1c/classGameObject.html#a5662ed03277c30259f7f4c88c403b63b":[6,0,1077,181],
 "de/d1c/classGameObject.html#a56d1b5bc4a1892417e3384f6fb51b815":[6,0,1077,19],
 "de/d1c/classGameObject.html#a5719e02e07ed707bcb3f69d2c321f70d":[6,0,1077,109],
-"de/d1c/classGameObject.html#a594f9c1cadd8eac4e07c81be4d2095d3":[6,0,1077,185],
-"de/d1c/classGameObject.html#a5aae646746017d2cab8aa0f625cb4d42":[6,0,1077,140]
+"de/d1c/classGameObject.html#a594f9c1cadd8eac4e07c81be4d2095d3":[6,0,1077,185]
 };

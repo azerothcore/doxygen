@@ -1,12 +1,13 @@
 var NAVTREEINDEX193 =
 {
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,31,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,11,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,31,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,11,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,31,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,11,3,1,3],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,31,3,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,11,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,31,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3650],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[6,0,3650,2],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[6,0,3650,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f":[7,0,0,0,1,3,2,20,2,4],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde":[7,0,0,0,1,3,2,20,2,8],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e":[7,0,0,0,1,3,2,20,2,0],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e":[7,0,0,0,1,3,2,20,2,7],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41":[7,0,0,0,1,3,2,20,2,6]
+"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e":[7,0,0,0,1,3,2,20,2,7]
 };

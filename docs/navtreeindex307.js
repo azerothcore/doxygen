@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d3b/classspell__the__lich__king__infest__aura.html#aa4a548a222dd79554e3e4e8f837c1d49":[6,0,3891,3],
 "dc/d3b/classspell__the__lich__king__infest__aura.html#aa7dea3d079ae88aafd145ce949a6eb02":[6,0,3891,2],
 "dc/d3b/classspell__the__lich__king__infest__aura.html#abd725d08f2ef14cd375b6b94e9c1dcf0":[6,0,3891,1],
 "dc/d3b/classspell__the__lich__king__infest__aura.html#accd12b06341f3168c74cb18926614f7f":[6,0,3891,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7460c86126f29fe941d171186f81631e":[7,0,0,0,1,2,26,2,1,55],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba749687f0b98762ba7b58242f0ce6d47a":[7,0,0,0,1,2,26,2,1,38],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7851f9f99ce7c2c8f237ce7e0f25b74e":[7,0,0,0,1,2,26,2,1,70],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7856028541d80d6749b88b1d8e2dd999":[7,0,0,0,1,2,26,2,1,56],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7909afbd4e04b036c4d7301fed932635":[7,0,0,0,1,2,26,2,1,22]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7856028541d80d6749b88b1d8e2dd999":[7,0,0,0,1,2,26,2,1,56]
 };

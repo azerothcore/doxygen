@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[6,0,504,0,2],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[6,0,504,0,16],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,504,0,3],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a756a5816615e02be0fc8308cc5088e49":[6,0,504,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/d7a/classspell__tharon__ja__dummy__aura.html#a7f7750933e122e8c672b6b93f4801cd7":[6,0,3879,4],
 "df/d7a/classspell__tharon__ja__dummy__aura.html#a9160c940913e4829bd0a6fe269c3b5d3":[6,0,3879,3],
 "df/d7a/classspell__tharon__ja__dummy__aura.html#a92b98d9b9be98c330b6efbe34dae235b":[6,0,3879,0],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html":[6,0,678,0],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a28e859c796fc210cba9a1ac7bfd0124a":[6,0,678,0,10]
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html":[6,0,678,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3931],
 "dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3931,2],
 "dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3931,0],
 "dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3931,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d1b/structboss__curator.html#a41b65078d0822ba87f3e40fc7bb10a40":[6,0,415,0],
 "dc/d1b/structboss__curator.html#a5617f51f51304682d48af11fdb0c6b8b":[6,0,415,1],
 "dc/d1b/structboss__curator.html#a848f477a101956662389cab5ffcc0727":[6,0,415,2],
-"dc/d1b/structboss__curator.html#a9bfb89a8747251e4a84eb2f94a547f0d":[6,0,415,4],
-"dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,415,3]
+"dc/d1b/structboss__curator.html#a9bfb89a8747251e4a84eb2f94a547f0d":[6,0,415,4]
 };

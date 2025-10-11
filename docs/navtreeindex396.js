@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,31,9,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,11,9,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,31,9,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,11,9,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa803d2e7c4916d465806dda8c50193087":[7,0,0,0,1,3,2,1,2,1,5,1],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a3fc7453a5ca35d531ba76a09d0ae9ef5":[7,0,0,0,1,3,2,1,2,1,9],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,1,8],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,2,1,8,0],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[7,0,0,0,1,3,2,1,2,1,8,2]
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,2,1,8,0]
 };

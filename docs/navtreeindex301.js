@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d05/structnpc__shade__of__jindo.html#aaf4eed2de98601844a32fec159f2f5fc":[6,0,2111,1],
 "dc/d05/structnpc__shade__of__jindo.html#abc18dabb6f4f0b85a3b5b2e6f830804f":[6,0,2111,3],
 "dc/d06/boss__curator_8cpp.html":[7,0,0,0,1,3,2,4,1],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#a16bc6247d220c1b6c52808cb4a522c11":[6,0,856,3],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,856,0],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a73a5ddacd8892d2300be313cfc12f534":[6,0,856,1],
-"dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,856,2],
-"dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3931]
+"dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,856,2]
 };

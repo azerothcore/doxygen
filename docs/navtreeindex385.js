@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d2a/classboss__sjonnir__dwarf.html":[6,0,700],
 "df/d2a/classboss__sjonnir__dwarf.html#a3589ae3bef1bbfe0fc5381e341c0995b":[6,0,700,1],
 "df/d2a/classboss__sjonnir__dwarf.html#a945d8e753e1a54dc348848b9c2dd6cce":[6,0,700,2],
 "df/d2a/instance__pit__of__saron_8cpp.html":[7,0,0,0,1,3,5,4,2,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d3b/classnpc__bunthen__plainswind.html#a117f28d513ac645b9d3d908d052d2146":[6,0,1669,2],
 "df/d3b/classnpc__bunthen__plainswind.html#ad9b789ad3e958dee4733b142813b6302":[6,0,1669,0],
 "df/d3b/classnpc__bunthen__plainswind.html#ae2fe8bfb957dd8ea84d2585293c3b6eb":[6,0,1669,1],
-"df/d3c/classinstance__arcatraz.html":[6,0,1287],
-"df/d3c/classinstance__arcatraz.html#a6fc8860651573353b54fd26bddea32aa":[6,0,1287,1]
+"df/d3c/classinstance__arcatraz.html":[6,0,1287]
 };

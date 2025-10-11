@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3acd12913f9e062c9e2987d5af039fd4":[7,0,0,0,1,4,7,108,88],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3af49f9a16451cb0223c24ed478b34cb":[7,0,0,0,1,4,7,108,80],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3b2177187a258dac53cd400b6828fe62":[7,0,0,0,1,4,7,108,37],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a3b66fd0c0ab642c75463a8e1b7819da4":[7,0,0,0,1,4,7,108,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d11/structboss__novos_1_1boss__novosAI.html#a9c79a08d0f1814e265dc7dad59946c02":[6,0,641,0,14],
 "de/d11/structboss__novos_1_1boss__novosAI.html#ab0d05b5f01943a2a1a4b9942b7af6a4f":[6,0,641,0,4],
 "de/d11/structboss__novos_1_1boss__novosAI.html#ab1e9ef1780d53447e3e39c69de2111f8":[6,0,641,0,1],
-"de/d11/structboss__novos_1_1boss__novosAI.html#ab4c51470b6e1492922fa507566cfb01b":[6,0,641,0,2],
-"de/d11/structboss__novos_1_1boss__novosAI.html#ac62d82368e71dcb58cbac04d90731d35":[6,0,641,0,8]
+"de/d11/structboss__novos_1_1boss__novosAI.html#ab4c51470b6e1492922fa507566cfb01b":[6,0,641,0,2]
 };

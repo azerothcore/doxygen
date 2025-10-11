@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"df/d91/structboss__high__botanist__freywinn.html#aeecf6ed56e34cf1d9a552aab82f1f64a":[6,0,529,0],
 "df/d92/LootItemStorage_8h.html":[7,0,0,0,1,2,24,1],
 "df/d92/LootItemStorage_8h.html#a06515a8a4bd76cd02aa0ab99d3d7c64e":[7,0,0,0,1,2,24,1,2],
 "df/d92/LootItemStorage_8h.html#a06cc23df363d1d767959d7ab5ec29ad5":[7,0,0,0,1,2,24,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "df/d9a/OutdoorPvPNA_8h.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c":[7,0,0,0,1,3,6,8,9,2],
 "df/d9a/OutdoorPvPNA_8h.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c":[7,0,0,0,1,3,6,8,9,1],
 "df/d9a/OutdoorPvPNA_8h.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413":[7,0,0,0,1,3,6,8,9,0],
-"df/d9a/OutdoorPvPNA_8h.html#aa4cf9c47955c274ca0bdce61e98a3a5a":[7,0,0,0,1,3,6,8,13],
-"df/d9a/OutdoorPvPNA_8h.html#aac17891901d073bcbdc4b9b919bb8f43":[7,0,0,0,1,3,6,8,24]
+"df/d9a/OutdoorPvPNA_8h.html#aa4cf9c47955c274ca0bdce61e98a3a5a":[7,0,0,0,1,3,6,8,13]
 };

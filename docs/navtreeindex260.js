@@ -1,5 +1,6 @@
 var NAVTREEINDEX260 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#ac49be0ea0e458117d08dcf114393c2e3":[7,0,0,0,1,3,5,6,10,84],
 "da/d78/boss__the__lich__king_8cpp.html#ad4e69e3de965779321acd45af7b7c71b":[7,0,0,0,1,3,5,6,10,71],
 "da/d78/boss__the__lich__king_8cpp.html#ad6af8790756d9e08db1cc80a45ed446a":[7,0,0,0,1,3,5,6,10,93],
 "da/d78/boss__the__lich__king_8cpp.html#ad87376e6ca5b12d8996ebb4e9fe119b9":[7,0,0,0,1,3,5,6,10,87],
@@ -84,8 +85,8 @@ var NAVTREEINDEX260 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,3920,1],
 "da/d7b/MapMgr_8h.html":[7,0,0,0,1,2,26,8],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[7,0,0,0,1,2,26,8,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,27,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,27,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[7,0,0,0,1,3,2,12,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX260 =
 "da/d7f/structPosition_1_1PositionXYStreamer.html":[6,0,2438,0],
 "da/d7f/structPosition_1_1PositionXYStreamer.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b":[6,0,2438,0,0],
 "da/d7f/structPosition_1_1PositionXYStreamer.html#afb17e60540233b8861b6e967d0e44e07":[6,0,2438,0,1],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html":[6,0,1843,0],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a04be4c12a255c082b2a00daf40e86d96":[6,0,1843,0,0]
+"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html":[6,0,1843,0]
 };

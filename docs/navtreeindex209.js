@@ -1,5 +1,6 @@
 var NAVTREEINDEX209 =
 {
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,2,0,5,4,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a41a52fd6f17cc3f3f1fda66dd75d6c56":[7,0,0,0,1,3,7,2,0,5,4,6],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,0,5,4,0],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4f776a9f44c506399528b3edc1023f9c":[7,0,0,0,1,3,7,2,0,5,4,7],
@@ -33,14 +34,14 @@ var NAVTREEINDEX209 =
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html":[6,0,2244,0],
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a3c254e16f62e7d2414d81062c91c2468":[6,0,2244,0,1],
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a6308129d11989dadf0a5948c4a268e4b":[6,0,2244,0,0],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[6,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,1,7,0,2],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[6,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[6,0,0,4,0,2,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,1,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,1,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[6,0,0,4,0,2,0],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[7,0,0,0,0,3,5],
 "d7/dfe/World_8cpp.html":[4,2,4],
 "d7/dfe/classLootValidatorRef.html":[6,0,1459],
@@ -137,8 +138,8 @@ var NAVTREEINDEX209 =
 "d8/d03/structDungeonEncounterEntry.html#a61c1ac724c8eb96907d2ea9402a8f9ce":[6,0,994,4],
 "d8/d03/structDungeonEncounterEntry.html#aa9828ccc644a11f9cb35fbcc7d31a827":[6,0,994,3],
 "d8/d03/structDungeonEncounterEntry.html#af4f26f56526b945e392ddaf6b2d43fa1":[6,0,994,2],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ad5de1a56b0253c8fe37933a4a816616d":[7,0,0,0,1,3,9,12,32,18],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ae04cc461efc31f2bd955feb06e5cb2b9":[7,0,0,0,1,3,9,12,32,19],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af0eb8067f814fe86f0cb1418cdce7571":[7,0,0,0,1,3,9,12,32,21],
-"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af8b1d4445a94577776bf6fc435c834e8":[7,0,0,0,1,3,9,12,32,14],
-"d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0":[7,0,0,0,1,3,9,12,28]
+"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af8b1d4445a94577776bf6fc435c834e8":[7,0,0,0,1,3,9,12,32,14]
 };

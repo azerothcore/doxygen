@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html":[6,0,3190],
 "d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a09124a4351930a35e33359e95ca88580":[6,0,3190,0],
 "d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc":[6,0,3190,3],
 "d9/def/classspell__illidan__parasitic__shadowfiend__trigger__aura.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33":[6,0,3190,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78":[7,0,0,0,1,3,5,9,2,16,6],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a06e56523043bff1d28dc30bd1ebd531d":[7,0,0,0,1,3,5,9,2,16,6,21],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a084b9c81c7882feecb5bace81983bede":[7,0,0,0,1,3,5,9,2,16,6,27],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d":[7,0,0,0,1,3,5,9,2,16,6,20],
-"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a1c4aa0e2fdf9f6fad7a373bcae622fae":[7,0,0,0,1,3,5,9,2,16,6,28]
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a09eab20d82c1a916d3803d0d9ba5ea1d":[7,0,0,0,1,3,5,9,2,16,6,20]
 };

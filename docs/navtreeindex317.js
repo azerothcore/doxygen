@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"dc/dd3/structboss__aeonus.html#a62df4db3ead6f9be5c3ead974613c8d5":[6,0,364,4],
 "dc/dd3/structboss__aeonus.html#a649275c31e61f542a13fd791ee85277b":[6,0,364,2],
 "dc/dd3/structboss__aeonus.html#af823ef2187b852dc72d2f63020e1701b":[6,0,364,0],
 "dc/dd4/classflag96.html":[6,0,1048],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab3f2a91fe096585f54078e8884cb25f7":[7,0,0,0,1,3,2,17,123],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab467ba90e5636027f0ef7f7806d64d25":[7,0,0,0,1,3,2,17,92],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab4f90333bccf7ce490dc2bc4122c40d7":[7,0,0,0,1,3,2,17,65],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab5f9b5dcc2449941412d5a0629c1e6ba":[7,0,0,0,1,3,2,17,45],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab70bfc3e35342b240112821c6713855a":[7,0,0,0,1,3,2,17,51]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ab5f9b5dcc2449941412d5a0629c1e6ba":[7,0,0,0,1,3,2,17,45]
 };

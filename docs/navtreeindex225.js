@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"d8/dcd/classspell__rog__shiv.html#ae6c5ba4ed1918125594b31368c3bcf2f":[6,0,3748,2],
 "d8/dcf/structItemSetNameEntry.html":[6,0,1396],
 "d8/dcf/structItemSetNameEntry.html#a5d2733f6b8e3fda906f18fb45330d437":[6,0,1396,0],
 "d8/dcf/structItemSetNameEntry.html#a67245cff18aad700717b7b7af9f07458":[6,0,1396,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2930,1],
 "d8/dd8/ObjectMgr_8cpp.html":[7,0,0,0,1,2,18,2],
 "d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,2,15],
-"d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[7,0,0,0,1,2,18,2,8],
-"d8/dd8/ObjectMgr_8cpp.html#a288e20914d793779cf9f2bfd9951b812":[7,0,0,0,1,2,18,2,5]
+"d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[7,0,0,0,1,2,18,2,8]
 };

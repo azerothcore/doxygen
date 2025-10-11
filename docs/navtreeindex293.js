@@ -1,5 +1,6 @@
 var NAVTREEINDEX293 =
 {
+"db/dce/classboss__lavanthor.html#aa935ffe07f59db59b9b8484f22927026":[6,0,590,1],
 "db/dce/classboss__lavanthor.html#aae09ecbe56efac6538bdfb6120e0be40":[6,0,590,2],
 "db/dcf/MapUpdater_8h.html":[7,0,0,0,1,2,26,12],
 "db/dd1/classspell__gen__gadgetzan__transporter__backfire.html":[6,0,2966],
@@ -248,6 +249,5 @@ var NAVTREEINDEX293 =
 "db/dd5/classCreature.html#a08fc34c69555dc63d9955e624392986c":[6,0,914,158],
 "db/dd5/classCreature.html#a096755f413dc56cc48c19631e0a28bcf":[6,0,914,302],
 "db/dd5/classCreature.html#a0985639e7886c553c1af84d8d8511697":[6,0,914,82],
-"db/dd5/classCreature.html#a0a2f8439b4136fe557e025d0321029af":[6,0,914,12],
-"db/dd5/classCreature.html#a0aa6b0526eeec473ca465cf4a1c23b31":[6,0,914,76]
+"db/dd5/classCreature.html#a0a2f8439b4136fe557e025d0321029af":[6,0,914,12]
 };

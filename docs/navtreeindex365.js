@@ -1,5 +1,6 @@
 var NAVTREEINDEX365 =
 {
+"de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a18a8135ab0395991afc4896950783ae5":[6,0,1815,0,6],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a35be0135b77a3e62ac8d421910cf0674":[6,0,1815,0,4],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#a388a20d6d720f5f44a67073fc40e98b6":[6,0,1815,0,8],
 "de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aae212c3aecdf82f509ed0bf841f16e59":[6,0,1815,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX365 =
 "de/d6e/structAUTH__LOGON__PROOF__S.html":[6,0,289],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[6,0,289,4],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a5846630b9df94b9f4784e59e7f320257":[6,0,289,1],
-"de/d6e/structAUTH__LOGON__PROOF__S.html#a5cbbda99be5cd0549dd43fc0e546007e":[6,0,289,2],
-"de/d6e/structAUTH__LOGON__PROOF__S.html#aa8e111f748d165f854b2deff5a81577f":[6,0,289,0]
+"de/d6e/structAUTH__LOGON__PROOF__S.html#a5cbbda99be5cd0549dd43fc0e546007e":[6,0,289,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1571,0,0],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,78],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[6,0,2126,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/d57/blackrock__depths_8cpp.html#a45b983ab1cb7b86457cb9e2996c3db7e":[7,0,0,0,1,3,2,1,0,0,15],
 "df/d57/blackrock__depths_8cpp.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6":[7,0,0,0,1,3,2,1,0,0,15,0],
 "df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21":[7,0,0,0,1,3,2,1,0,0,17],
-"df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251":[7,0,0,0,1,3,2,1,0,0,17,2],
-"df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df":[7,0,0,0,1,3,2,1,0,0,17,1]
+"df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251":[7,0,0,0,1,3,2,1,0,0,17,2]
 };

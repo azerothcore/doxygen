@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d7/d46/classAuraEffect.html":[6,0,283],
 "d7/d46/classAuraEffect.html#a00cc9725cd708174a15de260fef84bda":[6,0,283,58],
 "d7/d46/classAuraEffect.html#a037803186b7a5a458d1b7d451fc57d2b":[6,0,283,56],
 "d7/d46/classAuraEffect.html#a03f0b850af3051c8815fba75d502c658":[6,0,283,182],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#a5e6022926c19360e6aa784acd6e3d964":[6,0,784,0,10],
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#a60903f0bcf827503254d6e18c319e5d3":[6,0,784,0,15],
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#a611d8e9ff1c84665f893a5638500dd29":[6,0,784,0,17],
-"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a6152a51884e5617ce76deae550df3e5c":[6,0,784,0,4],
-"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a67a123574487a9d8a45023105fcdbd3f":[6,0,784,0,7]
+"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a6152a51884e5617ce76deae550df3e5c":[6,0,784,0,4]
 };

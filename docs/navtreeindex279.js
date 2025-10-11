@@ -1,5 +1,6 @@
 var NAVTREEINDEX279 =
 {
+"db/d50/classspell__halion__twilight__phasing__aura.html#a53c56711e31500f827123c08f44072cb":[6,0,3079,3],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a781994b0be4588f4df29399fc900ec69":[6,0,3079,1],
 "db/d50/classspell__halion__twilight__phasing__aura.html#aee648b80e7352edffb20fd60697e1d88":[6,0,3079,2],
 "db/d50/structVehicleAccessory.html":[6,0,4235],
@@ -77,8 +78,8 @@ var NAVTREEINDEX279 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2232,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX279 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d":[7,0,0,0,1,2,3,0,9,1,12],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99":[7,0,0,0,1,2,3,0,9,1,2],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1":[7,0,0,0,1,2,3,0,9,1,13],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406":[7,0,0,0,1,2,3,0,9,1,4],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5":[7,0,0,0,1,2,3,0,9,1,8]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406":[7,0,0,0,1,2,3,0,9,1,4]
 };

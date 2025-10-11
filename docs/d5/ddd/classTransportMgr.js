@@ -13,6 +13,7 @@ var classTransportMgr =
     [ "instance", "d5/ddd/classTransportMgr.html#a843726202931931587280fefd703cff8", null ],
     [ "LoadTransportTemplates", "d5/ddd/classTransportMgr.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
     [ "operator=", "d5/ddd/classTransportMgr.html#accb329967e8129ddcf857ecb6269c4d5", null ],
+    [ "PreloadGridsFromQuery", "d5/ddd/classTransportMgr.html#abbb04cc2b20a061c8044735cd1db7446", null ],
     [ "SpawnContinentTransports", "d5/ddd/classTransportMgr.html#afff76c3893f5a76d83d48f0074e77349", null ],
     [ "Unload", "d5/ddd/classTransportMgr.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
     [ "LoadDBCStores", "d5/ddd/classTransportMgr.html#a0bbf145faec5eed353431235243dbcbf", null ],

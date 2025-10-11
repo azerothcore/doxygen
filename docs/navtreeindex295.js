@@ -1,5 +1,6 @@
 var NAVTREEINDEX295 =
 {
+"db/dd5/classCreature.html#add32bb97aeb2ae61ed296007696e6fce":[6,0,914,70],
 "db/dd5/classCreature.html#addb5417748578aa68cb39de764c5e998":[6,0,914,67],
 "db/dd5/classCreature.html#addfadfbf1d491f97420fa7d9d6042914":[6,0,914,201],
 "db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c":[6,0,914,155],
@@ -245,9 +246,8 @@ var NAVTREEINDEX295 =
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1653,2],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1653,1],
 "db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,15],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,31,6,48],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,6,48,2]
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,6,48,1]
 };

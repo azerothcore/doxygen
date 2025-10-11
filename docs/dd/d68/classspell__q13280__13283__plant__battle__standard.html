@@ -314,22 +314,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1585</span>    {</div>
-<div class="line"><span class="lineno"> 1586</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 1587</span>        <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660">IsVehicle</a>())</div>
-<div class="line"><span class="lineno"> 1588</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* player = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>()-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">GetPassenger</a>(0))</div>
-<div class="line"><span class="lineno"> 1589</span>                player-&gt;ToPlayer()-&gt;KilledMonsterCredit(<a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b">NPC_KING_OF_THE_MOUNTAINT_KC</a>);</div>
-<div class="line"><span class="lineno"> 1590</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1588</span>    {</div>
+<div class="line"><span class="lineno"> 1589</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 1590</span>        <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660">IsVehicle</a>())</div>
+<div class="line"><span class="lineno"> 1591</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* player = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>()-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">GetPassenger</a>(0))</div>
+<div class="line"><span class="lineno"> 1592</span>                player-&gt;ToPlayer()-&gt;KilledMonsterCredit(<a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b">NPC_KING_OF_THE_MOUNTAINT_KC</a>);</div>
+<div class="line"><span class="lineno"> 1593</span>    }</div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:627</div></div>
 <div class="ttc" id="aclassUnit_html_a0414b693087d7f3acc4a13eadb619660"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660">Unit::IsVehicle</a></div><div class="ttdeci">bool IsVehicle() const</div><div class="ttdef"><b>Definition</b> Unit.h:760</div></div>
 <div class="ttc" id="aclassUnit_html_ae54fce65a1c084c982043777288895ec"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">Unit::GetVehicleKit</a></div><div class="ttdeci">Vehicle * GetVehicleKit() const</div><div class="ttdef"><b>Definition</b> Unit.h:1858</div></div>
 <div class="ttc" id="aclassVehicle_html_a250a3ae75407ecbf79d3235a9c56679f"><div class="ttname"><a href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">Vehicle::GetPassenger</a></div><div class="ttdeci">Unit * GetPassenger(int8 seatId) const</div><div class="ttdef"><b>Definition</b> Vehicle.cpp:228</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b">NPC_KING_OF_THE_MOUNTAINT_KC</a></div><div class="ttdeci">@ NPC_KING_OF_THE_MOUNTAINT_KC</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1577</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a6bdc1122de0713077e88831c53acf115abbe9ca1f0aa0a428dde94a192d2f4a8b">NPC_KING_OF_THE_MOUNTAINT_KC</a></div><div class="ttdeci">@ NPC_KING_OF_THE_MOUNTAINT_KC</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1580</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00228">Vehicle::GetPassenger()</a>, <a class="el" href="../../#l01858">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00760">Unit::IsVehicle()</a>, and <a class="el" href="../../#l01577">NPC_KING_OF_THE_MOUNTAINT_KC</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00228">Vehicle::GetPassenger()</a>, <a class="el" href="../../#l01858">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00760">Unit::IsVehicle()</a>, and <a class="el" href="../../#l01580">NPC_KING_OF_THE_MOUNTAINT_KC</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01592">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01595">Register()</a>.</p>
 
 </div>
 </div>
@@ -383,16 +383,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1593</span>    {</div>
-<div class="line"><span class="lineno"> 1594</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../dd/d68/classspell__q13280__13283__plant__battle__standard.html#aa530b0e27c9b9ba1978a80fd4a47f68d">spell_q13280_13283_plant_battle_standard::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1595</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1596</span>    {</div>
+<div class="line"><span class="lineno"> 1597</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../dd/d68/classspell__q13280__13283__plant__battle__standard.html#aa530b0e27c9b9ba1978a80fd4a47f68d">spell_q13280_13283_plant_battle_standard::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1598</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:792</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a55b352390f66a1d2314566de232343f9"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">SpellScript::OnEffectHit</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:335</div></div>
-<div class="ttc" id="aclassspell__q13280__13283__plant__battle__standard_html_aa530b0e27c9b9ba1978a80fd4a47f68d"><div class="ttname"><a href="../../dd/d68/classspell__q13280__13283__plant__battle__standard.html#aa530b0e27c9b9ba1978a80fd4a47f68d">spell_q13280_13283_plant_battle_standard::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1584</div></div>
+<div class="ttc" id="aclassspell__q13280__13283__plant__battle__standard_html_aa530b0e27c9b9ba1978a80fd4a47f68d"><div class="ttname"><a href="../../dd/d68/classspell__q13280__13283__plant__battle__standard.html#aa530b0e27c9b9ba1978a80fd4a47f68d">spell_q13280_13283_plant_battle_standard::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1587</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01584">HandleDummy()</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01587">HandleDummy()</a>, <a class="el" href="../../#l00335">SpellScript::OnEffectHit</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -405,7 +405,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d68/classspell__q13280__13283__plant__battle__standard.html">spell_q13280_13283_plant_battle_standard</a></li>
-    <li class="footer">Generated on Fri Oct 10 2025 06:43:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 11 2025 06:21:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX369 =
 {
+"de/d89/classGridObjectUnloader.html#a7624bb11d51edffdc49fc9a95df847ef":[6,0,1224,1],
 "de/d89/classGridObjectUnloader.html#ae01a3252ecf5083da0c5be5d4a845636":[6,0,1224,0],
 "de/d8c/classspell__sha__sentry__totem.html":[6,0,3802],
 "de/d8c/classspell__sha__sentry__totem.html#aa266e794be35b51a399b13ee2d06199d":[6,0,3802,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX369 =
 "de/d98/classspell__gen__teleporting.html#a8c727b2b00858abcce058b16d66ca62a":[6,0,3029,2],
 "de/d98/classspell__gen__teleporting.html#a8ec57aed0788f58e2c50fc08793a5749":[6,0,3029,0],
 "de/d98/classspell__gen__teleporting.html#af3ffb9930eaba8703065719bbcf02f56":[6,0,3029,3],
-"de/d98/zone__shattrath__city_8cpp.html":[7,0,0,0,1,3,7,14],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04b":[7,0,0,0,1,3,7,14,5]
+"de/d98/zone__shattrath__city_8cpp.html":[7,0,0,0,1,3,7,14]
 };

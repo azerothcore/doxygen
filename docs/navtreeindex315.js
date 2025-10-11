@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/db2/SpellScript_8h.html#ae0e218d3b7359beb034b0a6f929ced84":[7,0,0,0,1,2,41,11,40],
 "dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826":[7,0,0,0,1,2,41,11,33],
 "dc/db2/SpellScript_8h.html#aecb97d532499a4b7bfaccc898401260c":[7,0,0,0,1,2,41,11,51],
 "dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc":[7,0,0,0,1,2,41,11,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html#a71f8c9bad4a102914a1047ef61d20f92":[6,0,2690,0],
 "dc/dbf/structboss__priestess__lackey__commonAI.html":[6,0,657],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a23aaa0a619470898dd617a18130ca17b":[6,0,657,7],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[6,0,657,11],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2e0e387ae4645c9bbd4625d1469403a8":[6,0,657,3]
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[6,0,657,11]
 };

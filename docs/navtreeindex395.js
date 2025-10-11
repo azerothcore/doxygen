@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/da7/classBattleground.html#a8c499d8b29631281063c066fe908a9be":[6,0,312,251],
 "df/da7/classBattleground.html#a8ca3356d984db0c5b6e09d61cf7a406c":[6,0,312,101],
 "df/da7/classBattleground.html#a8f4e174fb4339f237fd3974f3612d1ff":[6,0,312,210],
 "df/da7/classBattleground.html#a9134a256f1e54669787889cd597c8869":[6,0,312,250],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[6,0,1713,0,3],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1713,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1713,0,2],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1713,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,31,9,8]
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1713,0,0]
 };

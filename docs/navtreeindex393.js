@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"df/d9a/OutdoorPvPNA_8h.html#aac17891901d073bcbdc4b9b919bb8f43":[7,0,0,0,1,3,6,8,24],
 "df/d9a/OutdoorPvPNA_8h.html#ac9bda252b1c34c9a478d3251069384b8":[7,0,0,0,1,3,6,8,14],
 "df/d9a/OutdoorPvPNA_8h.html#ae9287f13e383331fe53c5a514989ca99":[7,0,0,0,1,3,6,8,16],
 "df/d9a/boss__sartura_8cpp.html":[7,0,0,0,1,3,4,9,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "df/da1/classspell__q12730__quenching__mist.html#ac924ebbc893476cabab5f05120d0cd8d":[6,0,3682,2],
 "df/da1/classspell__q12730__quenching__mist.html#ada327cf500aec62fdf34f9d8a4ccd6e2":[6,0,3682,3],
 "df/da1/classspell__q12730__quenching__mist.html#ae0e3b459c71933c25da8136cdcddf200":[6,0,3682,1],
-"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html":[6,0,3760],
-"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html#a00f0379b4e4fadf73bed7d483e406ac5":[6,0,3760,1]
+"df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html":[6,0,3760]
 };

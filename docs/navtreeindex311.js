@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d76/structAuctionSortInfo.html":[6,0,278],
 "dc/d76/structAuctionSortInfo.html#a0077ee9a4d8727c460e07efd517ae0c6":[6,0,278,1],
 "dc/d76/structAuctionSortInfo.html#a4ceca7230706e6906942306595686502":[6,0,278,0],
 "dc/d76/structAuctionSortInfo.html#ac6afc258e0eca83f8e2fd8996e83231b":[6,0,278,2],
@@ -193,16 +194,16 @@ var NAVTREEINDEX311 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,2001,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,2001,0,9],
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3286],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a10e18592d163d4be586701de47da48c9":[6,0,409,0,8],
 "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a2805052cd90212ecb9b5f313f4ecc384":[6,0,409,0,4],
 "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a4643974601831ced1f6173965009ad20":[6,0,409,0,1],
-"dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a4a120f99c6586fd06af6699bfe913d24":[6,0,409,0,7],
-"dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a66b6f31ebcfdb2fe9adba85311e655bb":[6,0,409,0,3]
+"dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a4a120f99c6586fd06af6699bfe913d24":[6,0,409,0,7]
 };

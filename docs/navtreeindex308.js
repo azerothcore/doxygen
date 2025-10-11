@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7909afbd4e04b036c4d7301fed932635":[7,0,0,0,1,2,26,2,1,22],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8042aff64bde7d3eef7074fd7f58e7a4":[7,0,0,0,1,2,26,2,1,47],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba80550fe8aa02247ad9d89a84ae5691bc":[7,0,0,0,1,2,26,2,1,67],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba816e56ed100f5b887cccfd79e654906d":[7,0,0,0,1,2,26,2,1,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3538],
 "dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3538,0],
 "dc/d4c/classspell__pal__seal__of__command__aura.html#a4f31c76184e4ae5bc03763e04cdac72e":[6,0,3538,3],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3538,1],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[6,0,3538,2]
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3538,1]
 };

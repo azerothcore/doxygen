@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"d8/dd8/ObjectMgr_8cpp.html#a288e20914d793779cf9f2bfd9951b812":[7,0,0,0,1,2,18,2,5],
 "d8/dd8/ObjectMgr_8cpp.html#a288fa8c196f7adce5d43050849366b84":[7,0,0,0,1,2,18,2,6],
 "d8/dd8/ObjectMgr_8cpp.html#a2e3e576d2e15a5033a24dec106b42453":[7,0,0,0,1,2,18,2,12],
 "d8/dd8/ObjectMgr_8cpp.html#a34339a53afbec181844cc9d936d1d9a2":[7,0,0,0,1,2,18,2,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "d8/ddf/classnpc__spectral__footman.html":[6,0,2133],
 "d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2133,1],
 "d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2133,2],
-"d8/ddf/structboss__heigan_1_1boss__heiganAI.html":[6,0,526,0],
-"d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a12da8a2326f0ac72e6ee8733c55139c8":[6,0,526,0,11]
+"d8/ddf/structboss__heigan_1_1boss__heiganAI.html":[6,0,526,0]
 };

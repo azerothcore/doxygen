@@ -1,5 +1,6 @@
 var NAVTREEINDEX379 =
 {
+"de/df7/classWorldPackets_1_1Packet.html":[5,0,31,22],
 "de/df7/classWorldPackets_1_1Packet.html":[6,0,11,22],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[5,0,31,22,2],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[6,0,11,22,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX379 =
 "df/d09/structinstance__auchenai__crypts_1_1instance__auchenai__crypts__InstanceMapScript.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c":[6,0,1288,0,0],
 "df/d0a/ObjectPosSelector_8h.html":[7,0,0,0,1,2,16,5,7],
 "df/d0a/ObjectPosSelector_8h.html#a083d37b8f4388d54d83aeb6562b5fe09":[7,0,0,0,1,2,16,5,7,3],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[7,0,0,0,1,2,16,5,7,2],
-"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e":[7,0,0,0,1,2,16,5,7,2,0]
+"df/d0a/ObjectPosSelector_8h.html#a2f1e7723f9d73cff4490d29d2b3df397":[7,0,0,0,1,2,16,5,7,2]
 };
