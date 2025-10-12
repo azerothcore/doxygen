@@ -294,7 +294,6 @@ var classWorldSession =
     [ "HandleMoveSplineDoneOpcode", "d8/d74/classWorldSession.html#a118217e3cd5b6408858db5f61dacda10", null ],
     [ "HandleMoveTeleportAck", "d8/d74/classWorldSession.html#a18cf6d9d877660f65fe82220d0ed8762", null ],
     [ "HandleMoveTimeSkippedOpcode", "d8/d74/classWorldSession.html#a4cae6fa037851f93e47abf1cf90e6697", null ],
-    [ "HandleMoveUnRootAck", "d8/d74/classWorldSession.html#a9a4b86826e1571cefe3d1ffd09205742", null ],
     [ "HandleMoveWorldportAck", "d8/d74/classWorldSession.html#a254ad53e84318bac5a8f7fa8de9a7726", null ],
     [ "HandleMoveWorldportAckOpcode", "d8/d74/classWorldSession.html#ae53af3bae9cdfb58e4c894a209e072d6", null ],
     [ "HandleNameQueryOpcode", "d8/d74/classWorldSession.html#aaa9f00667aa975814b8dd074117c36f2", null ],

@@ -1,6 +1,7 @@
 var structboss__moorabi_1_1boss__moorabiAI =
 [
     [ "boss_moorabiAI", "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
     [ "JustDied", "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
     [ "JustEngagedWith", "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
     [ "KilledUnit", "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a265855d2972e534e927bfa609fbf2cf5", null ],

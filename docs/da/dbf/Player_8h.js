@@ -393,8 +393,6 @@ var Player_8h =
       [ "MAX_PLAYER_LOGIN_QUERY", "da/dbf/Player_8h.html#af771ff47a13b9f47e9729c8194ff7642a13e3b1b23530ab3ae516dd6b39df0164", null ]
     ] ],
     [ "PlayerMovementType", "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91", [
-      [ "MOVE_ROOT", "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91a174faae27f7a5cb43fd776338f97b0be", null ],
-      [ "MOVE_UNROOT", "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91a26df74b6f6d136c8c7ec9f503e66f152", null ],
       [ "MOVE_WATER_WALK", "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91acedb9d51561c12e42f385009d07e2207", null ],
       [ "MOVE_LAND_WALK", "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91ad3c6af56c3c0aa946a3b53a0fb05078c", null ]
     ] ],

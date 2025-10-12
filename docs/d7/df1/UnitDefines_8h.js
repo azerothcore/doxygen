@@ -356,6 +356,7 @@ var UnitDefines_8h =
       [ "UNIT_STATE_IGNORE_PATHFINDING", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aa1f9ce0e24f1efdfee3e190a2e5bd80d", null ],
       [ "UNIT_STATE_NO_ENVIRONMENT_UPD", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ab272e3fe4edd5b0f25024c9da85e83a2", null ],
       [ "UNIT_STATE_NO_COMBAT_MOVEMENT", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ad492c7a0f9db9197052bd1aadc30b0fe", null ],
+      [ "UNIT_STATE_LOGOUT_TIMER", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aa2b9dc224157f6968aaed48f685e4909", null ],
       [ "UNIT_STATE_ALL_STATE_SUPPORTED", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a372703534a1de05ecbc66340e2c27fb2", null ],
       [ "UNIT_STATE_UNATTACKABLE", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a317ba3b10e7353c1ff94260b4dcafebf", null ],
       [ "UNIT_STATE_MOVING", "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544ab8cffa5c4c0fe73c83358a50e733c202", null ],

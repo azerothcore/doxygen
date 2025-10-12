@@ -2,7 +2,6 @@ var kalimdor__script__loader_8cpp =
 [
     [ "AddKalimdorScripts", "da/d9a/kalimdor__script__loader_8cpp.html#ace30a63c79022e9c238e630fae8333ba", null ],
     [ "AddSC_ashenvale", "da/d9a/kalimdor__script__loader_8cpp.html#a5bc25863ec332eb1c8498f84556810c2", null ],
-    [ "AddSC_azshara", "da/d9a/kalimdor__script__loader_8cpp.html#ad86bcd16e9f7f0d1b823153be725f9ce", null ],
     [ "AddSC_azuremyst_isle", "da/d9a/kalimdor__script__loader_8cpp.html#a92fc206251c5ac3ca89e584f0e69e0cb", null ],
     [ "AddSC_bloodmyst_isle", "da/d9a/kalimdor__script__loader_8cpp.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
     [ "AddSC_boss_aeonus", "da/d9a/kalimdor__script__loader_8cpp.html#a823d3a37eeaefe7ecff6a68197460425", null ],

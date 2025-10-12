@@ -15,7 +15,6 @@ var dir_5ee14a0f6ab8ad29bd27b6821baacc69 =
     [ "boss_azuregos.cpp", "d8/dd0/boss__azuregos_8cpp.html", "d8/dd0/boss__azuregos_8cpp" ],
     [ "kalimdor_script_loader.cpp", "da/d9a/kalimdor__script__loader_8cpp.html", "da/d9a/kalimdor__script__loader_8cpp" ],
     [ "zone_ashenvale.cpp", "df/d42/zone__ashenvale_8cpp.html", "df/d42/zone__ashenvale_8cpp" ],
-    [ "zone_azshara.cpp", "db/da5/zone__azshara_8cpp.html", "db/da5/zone__azshara_8cpp" ],
     [ "zone_azuremyst_isle.cpp", "d5/d8c/zone__azuremyst__isle_8cpp.html", "d5/d8c/zone__azuremyst__isle_8cpp" ],
     [ "zone_bloodmyst_isle.cpp", "d6/d9c/zone__bloodmyst__isle_8cpp.html", "d6/d9c/zone__bloodmyst__isle_8cpp" ],
     [ "zone_darkshore.cpp", "d1/db7/zone__darkshore_8cpp.html", "d1/db7/zone__darkshore_8cpp" ],

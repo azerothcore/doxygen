@@ -128,8 +128,8 @@ Inheritance diagram for go_southfury_moonstone:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aed27e57e8232e156177c293ad0c0b4bb" id="r_aed27e57e8232e156177c293ad0c0b4bb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d90/classgo__southfury__moonstone.html#aed27e57e8232e156177c293ad0c0b4bb">go_southfury_moonstone</a> ()</td></tr>
 <tr class="separator:aed27e57e8232e156177c293ad0c0b4bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c0870f0e03708f1fdc073abadbe5de8" id="r_a4c0870f0e03708f1fdc073abadbe5de8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d90/classgo__southfury__moonstone.html#a4c0870f0e03708f1fdc073abadbe5de8">OnGossipHello</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, <a class="el" href="../../de/d1c/classGameObject.html">GameObject</a> *) override</td></tr>
-<tr class="separator:a4c0870f0e03708f1fdc073abadbe5de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d9708da940c1ee37f9eb4558ed97737" id="r_a9d9708da940c1ee37f9eb4558ed97737"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d90/classgo__southfury__moonstone.html#a9d9708da940c1ee37f9eb4558ed97737">OnGossipHello</a> (<a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *player, <a class="el" href="../../de/d1c/classGameObject.html">GameObject</a> *go) override</td></tr>
+<tr class="separator:a9d9708da940c1ee37f9eb4558ed97737"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classGameObjectScript"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classGameObjectScript')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></td></tr>
 <tr class="memitem:a020e07dfd6e99b55bf5c8e56cfdd3948 inherit pub_methods_classGameObjectScript" id="r_a020e07dfd6e99b55bf5c8e56cfdd3948"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de9/classGameObjectScript.html#a020e07dfd6e99b55bf5c8e56cfdd3948">IsDatabaseBound</a> () const override</td></tr>
 <tr class="separator:a020e07dfd6e99b55bf5c8e56cfdd3948 inherit pub_methods_classGameObjectScript"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -212,8 +212,8 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a4c0870f0e03708f1fdc073abadbe5de8" name="a4c0870f0e03708f1fdc073abadbe5de8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4c0870f0e03708f1fdc073abadbe5de8">&#9670;&#160;</a></span>OnGossipHello()</h2>
+<a id="a9d9708da940c1ee37f9eb4558ed97737" name="a9d9708da940c1ee37f9eb4558ed97737"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d9708da940c1ee37f9eb4558ed97737">&#9670;&#160;</a></span>OnGossipHello()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -231,7 +231,7 @@ Additional Inherited Members</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../de/d1c/classGameObject.html">GameObject</a> *&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramname"><em>go</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -256,16 +256,18 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1076</span>            <span class="comment">// no need casting spell blackjack, it&#39;s casted by script npc_rizzle_sprysprocket.</span></div>
 <div class="line"><span class="lineno"> 1077</span>            <span class="comment">//creature-&gt;CastSpell(player, SPELL_BLACKJACK, false);</span></div>
 <div class="line"><span class="lineno"> 1078</span>            creature-&gt;AI()-&gt;AttackStart(player);</div>
-<div class="line"><span class="lineno"> 1079</span>        }</div>
-<div class="line"><span class="lineno"> 1080</span> </div>
-<div class="line"><span class="lineno"> 1081</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1082</span>    }</div>
+<div class="line"><span class="lineno"> 1079</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#aa42104cda151bf8c6c33cc98fa716f36">DespawnOrUnsummon</a>(8000ms);</div>
+<div class="line"><span class="lineno"> 1080</span>        }</div>
+<div class="line"><span class="lineno"> 1081</span> </div>
+<div class="line"><span class="lineno"> 1082</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1083</span>    }</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_DEAD_DESPAWN</div><div class="ttdef"><b>Definition</b> Object.h:54</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:43</div></div>
+<div class="ttc" id="aclassGameObject_html_aa42104cda151bf8c6c33cc98fa716f36"><div class="ttname"><a href="../../de/d1c/classGameObject.html#aa42104cda151bf8c6c33cc98fa716f36">GameObject::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds delay=0ms, Seconds forcedRespawnTime=0s)</div><div class="ttdef"><b>Definition</b> GameObject.cpp:932</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2334</div></div>
 <div class="ttc" id="ago__scripts_8cpp_html_ad784f07f99f6ed64508c001519a95e32ae867798151e6822d90985ba96e4bb1c6"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#ad784f07f99f6ed64508c001519a95e32ae867798151e6822d90985ba96e4bb1c6">NPC_RIZZLE</a></div><div class="ttdeci">@ NPC_RIZZLE</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:1059</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01059">NPC_RIZZLE</a>, <a class="el" href="../../#l02334">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00054">TEMPSUMMON_DEAD_DESPAWN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00932">GameObject::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01059">NPC_RIZZLE</a>, <a class="el" href="../../#l02334">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00054">TEMPSUMMON_DEAD_DESPAWN</a>.</p>
 
 </div>
 </div>
@@ -278,7 +280,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d90/classgo__southfury__moonstone.html">go_southfury_moonstone</a></li>
-    <li class="footer">Generated on Sat Oct 11 2025 06:21:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Oct 12 2025 06:21:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
