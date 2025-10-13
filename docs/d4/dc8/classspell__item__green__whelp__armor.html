@@ -324,18 +324,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3867</span>    {</div>
-<div class="line"><span class="lineno"> 3868</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() &amp;&amp; eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() &lt;= 50)</div>
-<div class="line"><span class="lineno"> 3869</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 3870</span> </div>
-<div class="line"><span class="lineno"> 3871</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 3872</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3871</span>    {</div>
+<div class="line"><span class="lineno"> 3872</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>() &amp;&amp; eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() &lt;= 50)</div>
+<div class="line"><span class="lineno"> 3873</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 3874</span> </div>
+<div class="line"><span class="lineno"> 3875</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 3876</span>    }</div>
 <div class="ttc" id="aclassProcEventInfo_html_a89d8ab0bf0b01e3e1ca4ae10a3cbde10"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">ProcEventInfo::GetActor</a></div><div class="ttdeci">Unit * GetActor()</div><div class="ttdef"><b>Definition</b> Unit.h:440</div></div>
 <div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1042</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00440">ProcEventInfo::GetActor()</a>, and <a class="el" href="../../#l01042">Unit::GetLevel()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03874">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03878">Register()</a>.</p>
 
 </div>
 </div>
@@ -389,14 +389,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3875</span>    {</div>
-<div class="line"><span class="lineno"> 3876</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d4/dc8/classspell__item__green__whelp__armor.html#a1da9fe2fa918a8f92a53de8eee9d1830">spell_item_green_whelp_armor::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 3877</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3879</span>    {</div>
+<div class="line"><span class="lineno"> 3880</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d4/dc8/classspell__item__green__whelp__armor.html#a1da9fe2fa918a8f92a53de8eee9d1830">spell_item_green_whelp_armor::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 3881</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:818</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:817</div></div>
-<div class="ttc" id="aclassspell__item__green__whelp__armor_html_a1da9fe2fa918a8f92a53de8eee9d1830"><div class="ttname"><a href="../../d4/dc8/classspell__item__green__whelp__armor.html#a1da9fe2fa918a8f92a53de8eee9d1830">spell_item_green_whelp_armor::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3866</div></div>
+<div class="ttc" id="aclassspell__item__green__whelp__armor_html_a1da9fe2fa918a8f92a53de8eee9d1830"><div class="ttname"><a href="../../d4/dc8/classspell__item__green__whelp__armor.html#a1da9fe2fa918a8f92a53de8eee9d1830">spell_item_green_whelp_armor::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3870</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l03866">CheckProc()</a>, and <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00818">AuraCheckProcFn</a>, <a class="el" href="../../#l03870">CheckProc()</a>, and <a class="el" href="../../#l00817">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -409,7 +409,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/dc8/classspell__item__green__whelp__armor.html">spell_item_green_whelp_armor</a></li>
-    <li class="footer">Generated on Sun Oct 12 2025 06:21:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 13 2025 06:26:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

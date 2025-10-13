@@ -37,7 +37,7 @@ var searchData=
   ['conditionlist_34',['ConditionList',['../de/d5f/ConditionMgr_8h.html#ae942a8e25dc24ce42e62625bb583c0dd',1,'ConditionMgr.h']]],
   ['conditionreferencecontainer_35',['ConditionReferenceContainer',['../de/d5f/ConditionMgr_8h.html#a4c1f0e761de822234ec4585acaf1d999',1,'ConditionMgr.h']]],
   ['conditiontypecontainer_36',['ConditionTypeContainer',['../de/d5f/ConditionMgr_8h.html#aedfef73cf0a88e6988a11fe7bb7fc304',1,'ConditionMgr.h']]],
-  ['const_5fiterator_37',['const_iterator',['../d4/dbe/classMapRefMgr.html#a78bdb53e78488faa65effb2706140558',1,'MapRefMgr::const_iterator'],['../d6/df5/classSummonList.html#a35c8f1dc80c0dc5bc0bf172a1e873566',1,'SummonList::const_iterator'],['../d2/d27/structBossBoundaryData.html#ac52d3ebfa7eaeb9d6fd08f0089b13918',1,'BossBoundaryData::const_iterator'],['../df/dd9/classWorldPackets_1_1Array.html#addf94a15196be64e78daef56971456f3',1,'WorldPackets::Array::const_iterator']]],
+  ['const_5fiterator_37',['const_iterator',['../d2/d27/structBossBoundaryData.html#ac52d3ebfa7eaeb9d6fd08f0089b13918',1,'BossBoundaryData::const_iterator'],['../df/dd9/classWorldPackets_1_1Array.html#addf94a15196be64e78daef56971456f3',1,'WorldPackets::Array::const_iterator'],['../d4/dbe/classMapRefMgr.html#a78bdb53e78488faa65effb2706140558',1,'MapRefMgr::const_iterator'],['../d6/df5/classSummonList.html#a35c8f1dc80c0dc5bc0bf172a1e873566',1,'SummonList::const_iterator']]],
   ['const_5fpointer_38',['const_pointer',['../d0/d45/classLinkedListHead_1_1Iterator.html#ac036f8ac7b4ff2112eb77d23de5140d6',1,'LinkedListHead::Iterator']]],
   ['const_5freference_39',['const_reference',['../df/dd9/classWorldPackets_1_1Array.html#af7498377cf931f643d8322d3a28c06f1',1,'WorldPackets::Array::const_reference'],['../d0/d45/classLinkedListHead_1_1Iterator.html#a08df6fce951ba2b79a28b60ba4a99866',1,'LinkedListHead::Iterator::const_reference']]],
   ['controlarray_40',['ControlArray',['../d4/d2d/classMovement_1_1SplineBase.html#a1519aa715d924d84efc27560b523f869',1,'Movement::SplineBase']]],
@@ -70,9 +70,8 @@ var searchData=
   ['creaturetextgroup_67',['CreatureTextGroup',['../d1/dfa/CreatureTextMgr_8h.html#a9baeb5ff5e542c90d9058942cf0b4bbd',1,'CreatureTextMgr.h']]],
   ['creaturetextholder_68',['CreatureTextHolder',['../d1/dfa/CreatureTextMgr_8h.html#aad09b58ddf486cb766cdeb242824cd2d',1,'CreatureTextMgr.h']]],
   ['creaturetextmap_69',['CreatureTextMap',['../d1/dfa/CreatureTextMgr_8h.html#ac48698bcbe36b82577c41f42f3f23f09',1,'CreatureTextMgr.h']]],
-  ['creaturetextrepeatgroup_70',['CreatureTextRepeatGroup',['../d1/dfa/CreatureTextMgr_8h.html#aa92b7ce1a721a3955751ae25cf01b22a',1,'CreatureTextMgr.h']]],
-  ['creaturetextrepeatids_71',['CreatureTextRepeatIds',['../d1/dfa/CreatureTextMgr_8h.html#a4a74e5d0af63228e47e1f663570018ae',1,'CreatureTextMgr.h']]],
-  ['creaturetextrepeatmap_72',['CreatureTextRepeatMap',['../d1/dfa/CreatureTextMgr_8h.html#a919aeba9f103d29372eb10a72f3b1142',1,'CreatureTextMgr.h']]],
-  ['criteriaprogressmap_73',['CriteriaProgressMap',['../d7/dc5/AchievementMgr_8h.html#a649527d8ab61f39ad17fe709d2b1aabc',1,'AchievementMgr.h']]],
-  ['customspellvaluemod_74',['CustomSpellValueMod',['../d0/d60/SpellDefines_8h.html#a9712a6b6a8f9f5f194085aed5e4ef7b4',1,'SpellDefines.h']]]
+  ['creaturetextrepeatgroup_70',['CreatureTextRepeatGroup',['../df/d66/Creature_8h.html#aa92b7ce1a721a3955751ae25cf01b22a',1,'Creature.h']]],
+  ['creaturetextrepeatids_71',['CreatureTextRepeatIds',['../df/d66/Creature_8h.html#a4a74e5d0af63228e47e1f663570018ae',1,'Creature.h']]],
+  ['criteriaprogressmap_72',['CriteriaProgressMap',['../d7/dc5/AchievementMgr_8h.html#a649527d8ab61f39ad17fe709d2b1aabc',1,'AchievementMgr.h']]],
+  ['customspellvaluemod_73',['CustomSpellValueMod',['../d0/d60/SpellDefines_8h.html#a9712a6b6a8f9f5f194085aed5e4ef7b4',1,'SpellDefines.h']]]
 ];

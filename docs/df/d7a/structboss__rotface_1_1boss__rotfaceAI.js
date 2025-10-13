@@ -12,5 +12,5 @@ var structboss__rotface_1_1boss__rotfaceAI =
     [ "UpdateAI", "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
     [ "_oozeFloodDummyGUIDs", "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
     [ "_oozeFloodStage", "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
-    [ "infectionCooldown", "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#ae6fb76012902540a55870ed7b2f3fc7b", null ]
+    [ "infectionCooldown", "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a3b9c9223da7cd6163ea6369fee6439f5", null ]
 ];

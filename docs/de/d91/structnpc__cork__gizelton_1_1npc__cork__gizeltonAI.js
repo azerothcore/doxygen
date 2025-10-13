@@ -12,7 +12,7 @@ var structnpc__cork__gizelton_1_1npc__cork__gizeltonAI =
     [ "RelocateSummons", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
     [ "RemoveSummons", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
     [ "SetData", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a26576302fc0f6897d604030431651908", null ],
-    [ "SetGUID", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ada67b8aa3de368daa6e143924cce6a9e", null ],
+    [ "SetGUID", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a280f23ef905d43679562fc24466582f3", null ],
     [ "SummonedCreatureDespawn", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
     [ "SummonedCreatureDies", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a85cd2486bad6cda8867eba29538842e9", null ],
     [ "SummonHelpers", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a38986eddc806f76fdefa99de1cd46fb5", null ],

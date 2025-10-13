@@ -1,5 +1,11 @@
 var NAVTREEINDEX123 =
 {
+"d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84afd5ace2f46f54788b16af10faadbe086":[7,0,0,0,1,3,5,9,1,3,20,26],
+"d4/d3c/brann__bronzebeard_8cpp.html#ad69093d251198970c46efa1deec3177d":[7,0,0,0,1,3,5,9,1,3,17],
+"d4/d3c/brann__bronzebeard_8cpp.html#ae1a59d257c3fd890a3da77af8e5d80c8":[7,0,0,0,1,3,5,9,1,3,18],
+"d4/d3c/brann__bronzebeard_8cpp.html#af29954c04100a3f9567cc28ec229d4f4":[7,0,0,0,1,3,5,9,1,3,24],
+"d4/d3d/classnpc__suppresser.html":[6,0,2154],
+"d4/d3d/classnpc__suppresser.html#a48869515abbac1491337a93b987231da":[6,0,2154,2],
 "d4/d3d/classnpc__suppresser.html#a5db40aecba3c45281fe963c6b2bd8d1e":[6,0,2154,1],
 "d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI.html":[6,0,1957,0],
 "d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI.html#a3a49df32c788497d3e82912d423683b7":[6,0,1957,0,5],
@@ -129,8 +135,8 @@ var NAVTREEINDEX123 =
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,11,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,31,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,11,6,8,3],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,31,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,11,6,8,2],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,31,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,31,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,31,6,8,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d50/classKillRewarder.html#a498d48217450a88719c9411e24f6d07a":[6,0,1404,4],
 "d4/d50/classKillRewarder.html#a49f6f684f2fdeeb15642c8aaadbcc1a2":[6,0,1404,6],
 "d4/d50/classKillRewarder.html#a67d38f9bbf5ceffc4f1a5d3015d5894f":[6,0,1404,15],
-"d4/d50/classKillRewarder.html#a7166686977002152a99f929a82625def":[6,0,1404,2],
-"d4/d50/classKillRewarder.html#a7898dee0f9855664d07ca834ceabd3bb":[6,0,1404,24],
-"d4/d50/classKillRewarder.html#a8a93e28b0b7734d72f1104e5cb70742f":[6,0,1404,12],
-"d4/d50/classKillRewarder.html#a8e8c3f10b1a2055c90820360dd04bfab":[6,0,1404,22],
-"d4/d50/classKillRewarder.html#a97a338868eaf192e847726a23edb6685":[6,0,1404,3],
-"d4/d50/classKillRewarder.html#a981fa4d51f166c69dbcbbfba2f17dff1":[6,0,1404,21],
-"d4/d50/classKillRewarder.html#a9a6ce23ed555e7bff286d01e5df841f1":[6,0,1404,23]
+"d4/d50/classKillRewarder.html#a7166686977002152a99f929a82625def":[6,0,1404,2]
 };

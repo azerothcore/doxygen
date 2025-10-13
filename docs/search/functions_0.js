@@ -30,7 +30,7 @@ var searchData=
   ['_5fcanmeleeattack_27',['_canMeleeAttack',['../db/da4/classPetAI.html#a25fb8a89f10d36e1189c8c77e0d9345e',1,'PetAI']]],
   ['_5fcast_28',['_cast',['../d1/d16/classSpell.html#a29119785bd77e5c194088b95dc730797',1,'Spell']]],
   ['_5fchargeplayer_29',['_chargePlayer',['../dd/dda/structboss__marli.html#a54efa8663716fb32d6e390b76dc89ee1',1,'boss_marli']]],
-  ['_5fcheckcontact_30',['_checkContact',['../d2/d56/classPlayerSocial.html#a56e7be93e0ed5e55e21c2b827e73f16b',1,'PlayerSocial']]],
+  ['_5fcheckcontact_30',['_checkContact',['../d2/d56/classPlayerSocial.html#a1c94f00cd1955a8c93dea5d4e67f166a',1,'PlayerSocial']]],
   ['_5fcheckmemory_31',['_checkMemory',['../d5/d23/classScriptRegistry.html#a8d784f25a47c9ca4be72fca0215bf1c8',1,'ScriptRegistry']]],
   ['_5fcheckpathbounds_32',['_checkPathBounds',['../dc/d2f/structMovement_1_1MoveSplineInitArgs.html#a984db18cdbd061605a9d486b061dc7c0',1,'Movement::MoveSplineInitArgs']]],
   ['_5fchecksafepositions_33',['_CheckSafePositions',['../df/da7/classBattleground.html#acd572202c9170c89cf1c2fd0534e2fb0',1,'Battleground']]],

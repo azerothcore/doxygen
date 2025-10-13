@@ -39,5 +39,6 @@ var classBattlegroundWS =
     [ "_honorEndKills", "d7/dc9/classBattlegroundWS.html#a62ccdb593de95cc1e6b9c4b5ac2eceed", null ],
     [ "_honorWinKills", "d7/dc9/classBattlegroundWS.html#aff1dc12ffacc903cac2de86b7efc17c6", null ],
     [ "_lastFlagCaptureTeam", "d7/dc9/classBattlegroundWS.html#a583a646596ac5d9c5293672f3e2afe9f", null ],
-    [ "_reputationCapture", "d7/dc9/classBattlegroundWS.html#abf4e7956728ae0088a6c949cfdf77a33", null ]
+    [ "_reputationCapture", "d7/dc9/classBattlegroundWS.html#abf4e7956728ae0088a6c949cfdf77a33", null ],
+    [ "_wsReputationRate", "d7/dc9/classBattlegroundWS.html#a33b2e77f0a57b304cd9ab2c1be84f7fd", null ]
 ];

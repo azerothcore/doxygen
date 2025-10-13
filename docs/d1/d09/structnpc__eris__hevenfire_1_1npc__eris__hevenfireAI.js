@@ -6,7 +6,7 @@ var structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI =
     [ "JustSummoned", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a21f91de064bec6943aae5d710e6ec485", null ],
     [ "Reset", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a0b328182914ca26786808b6fd2491619", null ],
     [ "SetData", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a8c012a9c083921770980fb8c037d6ccc", null ],
-    [ "SetGUID", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#ac637ff6ea69427f8120be1cf5bf353e3", null ],
+    [ "SetGUID", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a09db4a9cf9ccab011271cc671187c9be", null ],
     [ "SummonArchers", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#aa415baa9bff7c93c57f327b661689ac3", null ],
     [ "SummonPeasants", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#ab5a69679bad85ed42b2f408231781da9", null ],
     [ "UpdateAI", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a3f3da888c1076f4f728157f7ba9edf1c", null ],

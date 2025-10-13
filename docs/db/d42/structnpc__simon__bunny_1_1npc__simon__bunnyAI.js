@@ -12,7 +12,7 @@ var structnpc__simon__bunny_1_1npc__simon__bunnyAI =
     [ "PrepareClusters", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ad759dbf8afc7f9c5e86a05521c5bcdc8", null ],
     [ "ResetNode", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a46add6c2b7724d6234c10ef59bf02cec", null ],
     [ "SetData", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a0809e6024759cb0ef204b524b35071f0", null ],
-    [ "SetGUID", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#aa75280461678148abe836c28d117d5cf", null ],
+    [ "SetGUID", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ac96a6424076d55ce336d5c4346bbc86a", null ],
     [ "SetUpPreGame", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afea578c38df569699ad66ae2ce06610e", null ],
     [ "SpellHitTarget", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#ae0bc5a848784255b909b8318e3ae30a2", null ],
     [ "StartGame", "db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#afd7378e117564cd01d47ef068aeb410d", null ],

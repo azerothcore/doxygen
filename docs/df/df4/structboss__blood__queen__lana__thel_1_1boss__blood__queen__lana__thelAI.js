@@ -11,7 +11,7 @@ var structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI =
     [ "KilledUnit", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
     [ "MovementInform", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
     [ "Reset", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
-    [ "SetGUID", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
+    [ "SetGUID", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a7a6f58a3af0e9b2bf4665f6ab161cf88", null ],
     [ "UpdateAI", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
     [ "WasBloodbolted", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
     [ "WasVampire", "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a7a74b7241f0ff736bdff7088ee384695", null ],

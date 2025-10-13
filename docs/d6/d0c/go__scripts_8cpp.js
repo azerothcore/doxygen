@@ -110,14 +110,6 @@ var go__scripts_8cpp =
       [ "EVENT_BM_SELECT_MUSIC", "d6/d0c/go__scripts_8cpp.html#a293cc7f2c3a00fda78cf9095ed587754a9872f5e337c0487193d65486f5aa1230", null ],
       [ "EVENT_BM_START_MUSIC", "d6/d0c/go__scripts_8cpp.html#a293cc7f2c3a00fda78cf9095ed587754aaf65f53796fb05df9667bac4db0883bf", null ]
     ] ],
-    [ "BrewfestMusicTime", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514", [
-      [ "EVENT_BREWFESTDWARF01_TIME", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514ad74bc2fac0b21c1b284989297b3a714f", null ],
-      [ "EVENT_BREWFESTDWARF02_TIME", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514ae44738b283f7ee2223d595c677b55a5e", null ],
-      [ "EVENT_BREWFESTDWARF03_TIME", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514a7340a4a606adf2de5d12323199601106", null ],
-      [ "EVENT_BREWFESTGOBLIN01_TIME", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514a6525b251fb13f1c31fab3f15a36dbdbd", null ],
-      [ "EVENT_BREWFESTGOBLIN02_TIME", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514a13e8973bb9e6a05ce7102c35b84ea104", null ],
-      [ "EVENT_BREWFESTGOBLIN03_TIME", "d6/d0c/go__scripts_8cpp.html#a5303c6cb3569261af3a3c3e2eb979514a0c230db496ff28f6fe23037ba7a5e3e8", null ]
-    ] ],
     [ "DalaranCrystal", "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29ced", [
       [ "QUEST_LEARN_LEAVE_RETURN", "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29cedae2e298b0385483a254dfe93caea9ea7c", null ],
       [ "QUEST_TELE_CRYSTAL_FLAG", "d6/d0c/go__scripts_8cpp.html#ade3a4e0d612bfa05079d991c96e29ceda3a62854b3a4bf50563697b1f3d8522e5", null ]
@@ -241,6 +233,12 @@ var go__scripts_8cpp =
       [ "NPC_WINTERFIN_TADPOLE", "d6/d0c/go__scripts_8cpp.html#a5837f163fbede79a2e128c803b8c205fa209cd862cd12d8e15eaebe3f74172f46", null ]
     ] ],
     [ "AddSC_go_scripts", "d6/d0c/go__scripts_8cpp.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "EVENT_BREWFESTDWARF01_TIME", "d6/d0c/go__scripts_8cpp.html#a13128a3cbd03278aec63b829a3ecfc5b", null ],
+    [ "EVENT_BREWFESTDWARF02_TIME", "d6/d0c/go__scripts_8cpp.html#a81e83bef2247a21efb3fadc085f2732e", null ],
+    [ "EVENT_BREWFESTDWARF03_TIME", "d6/d0c/go__scripts_8cpp.html#a45896acbffe36541235d19c345deba8f", null ],
+    [ "EVENT_BREWFESTGOBLIN01_TIME", "d6/d0c/go__scripts_8cpp.html#a81fc9cdfcaece70ada4f4f80dfa8670e", null ],
+    [ "EVENT_BREWFESTGOBLIN02_TIME", "d6/d0c/go__scripts_8cpp.html#a6927dcb73705403ef11b9629bcaeaae1", null ],
+    [ "EVENT_BREWFESTGOBLIN03_TIME", "d6/d0c/go__scripts_8cpp.html#ab1491d39f2c0db10910a2216c3ba8711", null ],
     [ "NpcPrisonEntry", "d6/d0c/go__scripts_8cpp.html#a6365b842c73f0ec2257c6e8933ee63e0", null ],
     [ "NpcStasisEntry", "d6/d0c/go__scripts_8cpp.html#adaf5cc3bde92e64d742c2afd8184d0b8", null ]
 ];

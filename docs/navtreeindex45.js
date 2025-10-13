@@ -1,18 +1,17 @@
 var NAVTREEINDEX45 =
 {
-"d1/dd1/classgo__veil__skith__cage.html":[6,0,1202],
 "d1/dd1/classgo__veil__skith__cage.html#a6724dc73ecf83305e5234eb0a2ad1d3c":[6,0,1202,1],
 "d1/dd1/classgo__veil__skith__cage.html#ac3fe1fdf2f12571fafc56e71a932994e":[6,0,1202,0],
 "d1/dd1/structboss__gahzranka.html":[6,0,485],
 "d1/dd1/structboss__gahzranka.html#a82cc1a44a967f859039957e41f38dd77":[6,0,485,0],
 "d1/dd1/structboss__gahzranka.html#ac1cc43194c00fda1729f8a068d4e8779":[6,0,485,2],
 "d1/dd1/structboss__gahzranka.html#ad68be854f95c398dc5dd9e5b22f538a8":[6,0,485,1],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,28,28],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[6,0,9,28],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,28,28],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[5,0,28,28,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[6,0,9,28,0],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,9,28,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,28,28,2],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,9,28,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,9,28,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,28,28,1],
 "d1/dd4/Item_8h.html":[7,0,0,0,1,2,16,4,3],
@@ -191,10 +190,10 @@ var NAVTREEINDEX45 =
 "d1/dd5/classRandomMovementGenerator.html#ae53e616aeb31ebc90c17a12b1954527d":[6,0,2479,5],
 "d1/dd5/classRandomMovementGenerator.html#af055ec2b1a95f0338ccbbaabd0e82483":[6,0,2479,20],
 "d1/dd5/classRandomMovementGenerator.html#af06aa5a3173151c6a8d42f30dd61b497":[6,0,2479,3],
-"d1/dd5/classspell__item__snowman.html":[6,0,3309],
-"d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[6,0,3309,0],
-"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[6,0,3309,1],
-"d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[6,0,3309,2],
+"d1/dd5/classspell__item__snowman.html":[6,0,3317],
+"d1/dd5/classspell__item__snowman.html#a14bd28450fb989b1deb1854e2118cb6b":[6,0,3317,0],
+"d1/dd5/classspell__item__snowman.html#a2a53af0cc911e1a68b365d692df1f0af":[6,0,3317,1],
+"d1/dd5/classspell__item__snowman.html#a67c43c4dabfb72ca54c160228b4b21c0":[6,0,3317,2],
 "d1/dd5/spell__warlock_8cpp.html":[7,0,0,0,1,3,9,11],
 "d1/dd5/spell__warlock_8cpp.html#a2054657c41c2347732a7d2903e3b8138":[7,0,0,0,1,3,9,11,37],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570":[7,0,0,0,1,3,9,11,36],
@@ -249,5 +248,6 @@ var NAVTREEINDEX45 =
 "d1/dd9/classnpc__av__marshal__or__warmaster.html#a7ffc93248d66d50d5d75d1fcf1f907ee":[6,0,1622,1],
 "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html":[6,0,1909,0],
 "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a3b43992dfeeb7b3b19e777b9629c55ce":[6,0,1909,0,0],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1909,0,3]
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1909,0,3],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#ac365753a428009f4fc4d01ead8fe46fd":[6,0,1909,0,1]
 };

@@ -437,36 +437,32 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  496</span>    <span class="keywordflow">if</span> (ssl == <span class="stringliteral">&quot;ssl&quot;</span>)</div>
 <div class="line"><span class="lineno">  497</span>        args.emplace_back(<span class="stringliteral">&quot;--ssl-mode=REQUIRED&quot;</span>);</div>
 <div class="line"><span class="lineno">  498</span> </div>
-<div class="line"><span class="lineno">  499</span>    <span class="comment">// Execute sql file</span></div>
-<div class="line"><span class="lineno">  500</span>    args.emplace_back(<span class="stringliteral">&quot;-e&quot;</span>);</div>
-<div class="line"><span class="lineno">  501</span>    args.emplace_back(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;BEGIN; SOURCE {}; COMMIT;&quot;</span>, path.generic_string()));</div>
+<div class="line"><span class="lineno">  499</span>    <span class="comment">// Database</span></div>
+<div class="line"><span class="lineno">  500</span>    <span class="keywordflow">if</span> (!database.empty())</div>
+<div class="line"><span class="lineno">  501</span>        args.emplace_back(database);</div>
 <div class="line"><span class="lineno">  502</span> </div>
-<div class="line"><span class="lineno">  503</span>    <span class="comment">// Database</span></div>
-<div class="line"><span class="lineno">  504</span>    <span class="keywordflow">if</span> (!database.empty())</div>
-<div class="line"><span class="lineno">  505</span>        args.emplace_back(database);</div>
+<div class="line"><span class="lineno">  503</span>    <span class="comment">// Invokes a mysql process which doesn&#39;t leak credentials to logs</span></div>
+<div class="line"><span class="lineno">  504</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> ret = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#acfaf2f89a55d299aa04c494719dfedc8">Acore::StartProcess</a>(<a class="code hl_function" href="../../d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9">DBUpdaterUtil::GetCorrectedMySQLExecutable</a>(), args,</div>
+<div class="line"><span class="lineno">  505</span>        <span class="stringliteral">&quot;sql.updates&quot;</span>, path.generic_string(), <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  506</span> </div>
-<div class="line"><span class="lineno">  507</span>    <span class="comment">// Invokes a mysql process which doesn&#39;t leak credentials to logs</span></div>
-<div class="line"><span class="lineno">  508</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> ret = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#acfaf2f89a55d299aa04c494719dfedc8">Acore::StartProcess</a>(<a class="code hl_function" href="../../d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9">DBUpdaterUtil::GetCorrectedMySQLExecutable</a>(), args,</div>
-<div class="line"><span class="lineno">  509</span>        <span class="stringliteral">&quot;sql.updates&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  510</span> </div>
-<div class="line"><span class="lineno">  511</span>    <span class="keywordflow">if</span> (ret != EXIT_SUCCESS)</div>
-<div class="line"><span class="lineno">  512</span>    {</div>
-<div class="line"><span class="lineno">  513</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.updates&quot;</span>, <span class="stringliteral">&quot;Applying of file \&#39;{}\&#39; to database \&#39;{}\&#39; failed!&quot;</span> \</div>
-<div class="line"><span class="lineno">  514</span>            <span class="stringliteral">&quot; If you are a user, please pull the latest revision from the repository. &quot;</span></div>
-<div class="line"><span class="lineno">  515</span>            <span class="stringliteral">&quot;Also make sure you have not applied any of the databases with your sql client. &quot;</span></div>
-<div class="line"><span class="lineno">  516</span>            <span class="stringliteral">&quot;You cannot use auto-update system and import sql files from AzerothCore repository with your sql client. &quot;</span></div>
-<div class="line"><span class="lineno">  517</span>            <span class="stringliteral">&quot;If you are a developer, please fix your sql query.&quot;</span>,</div>
-<div class="line"><span class="lineno">  518</span>            path.generic_string(), pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#aa97cb925f2294d32bb1fbe23d6057867">GetConnectionInfo</a>()-&gt;<a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a">database</a>);</div>
-<div class="line"><span class="lineno">  519</span> </div>
-<div class="line"><span class="lineno">  520</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun())</div>
-<div class="line"><span class="lineno">  521</span>        {</div>
-<div class="line"><span class="lineno">  522</span>            <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;Updates.ExceptionShutdownDelay&quot;</span>, 10000))</div>
-<div class="line"><span class="lineno">  523</span>                std::this_thread::sleep_for(<a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(delay));</div>
-<div class="line"><span class="lineno">  524</span> </div>
-<div class="line"><span class="lineno">  525</span>            <span class="keywordflow">throw</span> <a class="code hl_class" href="../../d0/d11/classUpdateException.html">UpdateException</a>(<span class="stringliteral">&quot;update failed&quot;</span>);</div>
-<div class="line"><span class="lineno">  526</span>        }</div>
-<div class="line"><span class="lineno">  527</span>    }</div>
-<div class="line"><span class="lineno">  528</span>}</div>
+<div class="line"><span class="lineno">  507</span>    <span class="keywordflow">if</span> (ret != EXIT_SUCCESS)</div>
+<div class="line"><span class="lineno">  508</span>    {</div>
+<div class="line"><span class="lineno">  509</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;sql.updates&quot;</span>, <span class="stringliteral">&quot;Applying of file \&#39;{}\&#39; to database \&#39;{}\&#39; failed!&quot;</span> \</div>
+<div class="line"><span class="lineno">  510</span>            <span class="stringliteral">&quot; If you are a user, please pull the latest revision from the repository. &quot;</span></div>
+<div class="line"><span class="lineno">  511</span>            <span class="stringliteral">&quot;Also make sure you have not applied any of the databases with your sql client. &quot;</span></div>
+<div class="line"><span class="lineno">  512</span>            <span class="stringliteral">&quot;You cannot use auto-update system and import sql files from AzerothCore repository with your sql client. &quot;</span></div>
+<div class="line"><span class="lineno">  513</span>            <span class="stringliteral">&quot;If you are a developer, please fix your sql query.&quot;</span>,</div>
+<div class="line"><span class="lineno">  514</span>            path.generic_string(), pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#aa97cb925f2294d32bb1fbe23d6057867">GetConnectionInfo</a>()-&gt;<a class="code hl_variable" href="../../d4/dcc/structMySQLConnectionInfo.html#a7e65a418ad668772e4ce1b298d92f10a">database</a>);</div>
+<div class="line"><span class="lineno">  515</span> </div>
+<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;isDryRun())</div>
+<div class="line"><span class="lineno">  517</span>        {</div>
+<div class="line"><span class="lineno">  518</span>            <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;Updates.ExceptionShutdownDelay&quot;</span>, 10000))</div>
+<div class="line"><span class="lineno">  519</span>                std::this_thread::sleep_for(<a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(delay));</div>
+<div class="line"><span class="lineno">  520</span> </div>
+<div class="line"><span class="lineno">  521</span>            <span class="keywordflow">throw</span> <a class="code hl_class" href="../../d0/d11/classUpdateException.html">UpdateException</a>(<span class="stringliteral">&quot;update failed&quot;</span>);</div>
+<div class="line"><span class="lineno">  522</span>        }</div>
+<div class="line"><span class="lineno">  523</span>    }</div>
+<div class="line"><span class="lineno">  524</span>}</div>
 <div class="ttc" id="aConfig_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aDuration_8h_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition</b> Duration.h:27</div></div>
@@ -474,10 +470,9 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aclassDBUpdaterUtil_html_a8ab8efffe5408f97f438e06766f65ec9"><div class="ttname"><a href="../../d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9">DBUpdaterUtil::GetCorrectedMySQLExecutable</a></div><div class="ttdeci">static std::string GetCorrectedMySQLExecutable()</div><div class="ttdef"><b>Definition</b> DBUpdater.cpp:31</div></div>
 <div class="ttc" id="aclassUpdateException_html"><div class="ttname"><a href="../../d0/d11/classUpdateException.html">UpdateException</a></div><div class="ttdef"><b>Definition</b> DBUpdater.h:39</div></div>
 <div class="ttc" id="anamespaceAcore_1_1String_html_a712bea71ec99d750664fd46c690a1ad9"><div class="ttname"><a href="../../d3/d53/namespaceAcore_1_1String.html#a712bea71ec99d750664fd46c690a1ad9">Acore::String::AddSuffixIfNotExists</a></div><div class="ttdeci">AC_COMMON_API std::string AddSuffixIfNotExists(std::string str, const char suffix)</div><div class="ttdoc">Util function to add a suffix char. Can be used to add a slash at the end of a path.</div><div class="ttdef"><b>Definition</b> StringFormat.cpp:73</div></div>
-<div class="ttc" id="anamespaceAcore_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:34</div></div>
 <div class="ttc" id="anamespaceAcore_html_acfaf2f89a55d299aa04c494719dfedc8"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#acfaf2f89a55d299aa04c494719dfedc8">Acore::StartProcess</a></div><div class="ttdeci">int StartProcess(std::string const &amp;executable, std::vector&lt; std::string &gt; const &amp;args, std::string const &amp;logger, std::string input_file, bool secure)</div><div class="ttdef"><b>Definition</b> StartProcess.cpp:169</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00073">Acore::String::AddSuffixIfNotExists()</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00071">DatabaseWorkerPool&lt; T &gt;::GetConnectionInfo()</a>, <a class="el" href="../../#l00031">DBUpdaterUtil::GetCorrectedMySQLExecutable()</a>, <a class="el" href="../../#l00154">LOG_FATAL</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00169">Acore::StartProcess()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00073">Acore::String::AddSuffixIfNotExists()</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00071">DatabaseWorkerPool&lt; T &gt;::GetConnectionInfo()</a>, <a class="el" href="../../#l00031">DBUpdaterUtil::GetCorrectedMySQLExecutable()</a>, <a class="el" href="../../#l00154">LOG_FATAL</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00169">Acore::StartProcess()</a>.</p>
 
 </div>
 </div>
@@ -1314,6 +1309,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aclassDBUpdater_html_a4c57e0e07d384f0bd0622e40965fbe0a"><div class="ttname"><a href="../../d0/d66/classDBUpdater.html#a4c57e0e07d384f0bd0622e40965fbe0a">DBUpdater::Apply</a></div><div class="ttdeci">static void Apply(DatabaseWorkerPool&lt; T &gt; &amp;pool, std::string const &amp;query)</div><div class="ttdef"><b>Definition</b> DBUpdater.cpp:428</div></div>
 <div class="ttc" id="aclassDBUpdater_html_af1edc78d5fff2964c8aeade0914627a0"><div class="ttname"><a href="../../d0/d66/classDBUpdater.html#af1edc78d5fff2964c8aeade0914627a0">DBUpdater::GetDBModuleName</a></div><div class="ttdeci">static std::string GetDBModuleName()</div></div>
 <div class="ttc" id="aclassUpdateFetcher_html"><div class="ttname"><a href="../../d6/d7f/classUpdateFetcher.html">UpdateFetcher</a></div><div class="ttdef"><b>Definition</b> UpdateFetcher.h:43</div></div>
+<div class="ttc" id="anamespaceAcore_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition</b> StringFormat.h:34</div></div>
 <div class="ttc" id="astructUpdateResult_html"><div class="ttname"><a href="../../d0/d0e/structUpdateResult.html">UpdateResult</a></div><div class="ttdef"><b>Definition</b> UpdateFetcher.h:30</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00428">DBUpdater&lt; T &gt;::Apply()</a>, <a class="el" href="../../#l00434">DBUpdater&lt; T &gt;::ApplyFile()</a>, <a class="el" href="../../#l00039">DBUpdaterUtil::CheckExecutable()</a>, <a class="el" href="../../#l00048">MySQLConnectionInfo::database</a>, <a class="el" href="../../#l00071">DatabaseWorkerPool&lt; T &gt;::GetConnectionInfo()</a>, <a class="el" href="../../d0/d66/classDBUpdater.html#af1edc78d5fff2964c8aeade0914627a0">DBUpdater&lt; T &gt;::GetDBModuleName()</a>, <a class="el" href="../../#l00042">BuiltInConfig::GetSourceDirectory()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00154">LOG_FATAL</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00422">DBUpdater&lt; T &gt;::Retrieve()</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
@@ -1428,7 +1424,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d66/classDBUpdater.html">DBUpdater</a></li>
-    <li class="footer">Generated on Sun Oct 12 2025 06:21:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 13 2025 06:25:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

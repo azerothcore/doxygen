@@ -21,8 +21,6 @@ var blackrock__depths_8cpp =
       [ "SAY_TEXT6", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803", null ]
     ] ],
     [ "IronhandData", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779", [
-      [ "IRONHAND_FLAMES_TIMER", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97", null ],
-      [ "IRONHAND_FLAMES_TIMER_RAND", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb", null ],
       [ "IRONHAND_N_GROUPS", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
       [ "SPELL_GOUT_OF_FLAMES", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
     ] ],
@@ -51,6 +49,8 @@ var blackrock__depths_8cpp =
       [ "SPELL_DRUNKEN_RAGE", "df/d57/blackrock__depths_8cpp.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125", null ]
     ] ],
     [ "AddSC_blackrock_depths", "df/d57/blackrock__depths_8cpp.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
+    [ "IRONHAND_FLAMES_TIMER", "df/d57/blackrock__depths_8cpp.html#aaeadf68886d098aa12fbc52043317c2c", null ],
+    [ "IRONHAND_FLAMES_TIMER_RAND", "df/d57/blackrock__depths_8cpp.html#a66b9acb193a7b1cc44113a9db0539905", null ],
     [ "RingBoss", "df/d57/blackrock__depths_8cpp.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
     [ "RingMobs", "df/d57/blackrock__depths_8cpp.html#a26123366b238dd51ab03de9e763db822", null ]
 ];

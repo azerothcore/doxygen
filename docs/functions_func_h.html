@@ -334,6 +334,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HandleBinderActivateOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a46d2c5eafeb7750f0d082489da756511">WorldSession</a></li>
 <li>HandleBindSight()&#160;:&#160;<a class="el" href="d7/d46/classAuraEffect.html#aeeed00e5103faf76fec0eb8f88b8d071">AuraEffect</a></li>
 <li>HandleBindSightCommand()&#160;:&#160;<a class="el" href="d9/d4d/classmisc__commandscript.html#aa6453e7996667ccec1595c16eec9760c">misc_commandscript</a></li>
+<li>HandleBMCommand()&#160;:&#160;<a class="el" href="d9/d4d/classmisc__commandscript.html#a5712c979f5ffe069fa0a29b55b9f2772">misc_commandscript</a></li>
 <li>HandleBuffUse()&#160;:&#160;<a class="el" href="dd/dd4/classBattlegroundEY.html#ac7e9a8b36744b49bb4be75217b01b67e">BattlegroundEY</a></li>
 <li>HandleBugOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a7102015c6bbbb91bcd3720e14f44cca3">WorldSession</a></li>
 <li>HandleBusyTradeOpcode()&#160;:&#160;<a class="el" href="d8/d74/classWorldSession.html#a641582f709c6ace653b46d675f2982af">WorldSession</a></li>
@@ -1559,7 +1560,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasEffectType()&#160;:&#160;<a class="el" href="db/dce/classAura.html#a6890e111fba863b7163fa5eb0b0870f5">Aura</a>, <a class="el" href="d5/d0f/classAuraScript.html#a80da96635d7bab5bebd929ce9a82628d">AuraScript</a></li>
 <li>HasEmptySeat()&#160;:&#160;<a class="el" href="dc/d23/classVehicle.html#a8a9a154b924fdf1f59ccede811dd644f">Vehicle</a></li>
 <li>HasEnchantRequiredSkill()&#160;:&#160;<a class="el" href="d0/dae/classItem.html#a8f2b36b50a6a8c249373b46d9615e024">Item</a></li>
-<li>HasEnoughMoney()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a8fa5951f43c70307efa20fa42a9e4371">Player</a></li>
+<li>HasEnoughMoney()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">Player</a></li>
 <li>HasEnoughWater()&#160;:&#160;<a class="el" href="d7/db0/classMap.html#a6ab58ada562dad3844ad7728765d7447">Map</a></li>
 <li>HasEntry()&#160;:&#160;<a class="el" href="d0/d0a/classObjectGuid.html#ac33a7138c8b1631484e324671da06f28">ObjectGuid</a>, <a class="el" href="d6/df5/classSummonList.html#a1d3372abcb785493a5f363893c038b31">SummonList</a></li>
 <li>HasErrorMessage()&#160;:&#160;<a class="el" href="db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a74f331d2e68ddf7cefc14b4c47369311">Acore::Impl::ChatCommands::ChatCommandResult</a></li>
@@ -1580,7 +1581,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasFreeBattlegroundQueueId()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a8f5699b99a1453ab9b3135aa3be5f69b">Player</a></li>
 <li>HasFreeSlots()&#160;:&#160;<a class="el" href="df/da7/classBattleground.html#aab85160874fef33419e5cb9e0f2a63e9">Battleground</a></li>
 <li>HasFreeSlotSubGroup()&#160;:&#160;<a class="el" href="d0/db7/classGroup.html#aafeaef93c3c515654678785f54b013ac">Group</a></li>
-<li>HasFriend()&#160;:&#160;<a class="el" href="d2/d56/classPlayerSocial.html#a85c9c9320e8fa0c673e75d11d7e7b91c">PlayerSocial</a></li>
+<li>HasFriend()&#160;:&#160;<a class="el" href="d2/d56/classPlayerSocial.html#a8c5e3e13b6e912de5048c6a1d6e4003a">PlayerSocial</a></li>
 <li>HasGameObjectActiveEventExcept()&#160;:&#160;<a class="el" href="d3/d92/classGameEventMgr.html#a626716a2a50a4d425dddaef336977f84">GameEventMgr</a></li>
 <li>HasGameObjectFlag()&#160;:&#160;<a class="el" href="de/d1c/classGameObject.html#ac7430ba1890f44cd50253ae177bc748a">GameObject</a></li>
 <li>HasGameObjectQuestActiveEventExcept()&#160;:&#160;<a class="el" href="d3/d92/classGameEventMgr.html#a6c843d3098a8ca9b40198f0460749160">GameEventMgr</a></li>
@@ -1594,13 +1595,13 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasHealthRegenInCombatAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a902b04049d0e50c05c3c24982dcb29d7">Unit</a></li>
 <li>HashMapHolder()&#160;:&#160;<a class="el" href="da/dd8/classHashMapHolder.html#ad10240097462af2a8a76c9429bd7cbca">HashMapHolder&lt; T &gt;</a></li>
 <li>HasHoverAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a98c1063458adcb4b98e3ca5b34d14a10">Unit</a></li>
-<li>HasIgnore()&#160;:&#160;<a class="el" href="d2/dbc/classlfg_1_1LFGMgr.html#ae1fa847ffd43358c2bb5c0576f53e3d5">lfg::LFGMgr</a>, <a class="el" href="d2/d56/classPlayerSocial.html#ab4a6c0eab682fbdfa98a0a71fa6aced8">PlayerSocial</a></li>
+<li>HasIgnore()&#160;:&#160;<a class="el" href="d2/dbc/classlfg_1_1LFGMgr.html#ae1fa847ffd43358c2bb5c0576f53e3d5">lfg::LFGMgr</a>, <a class="el" href="d2/d56/classPlayerSocial.html#afdda7de77a9c5b48730b9b7fca36b080">PlayerSocial</a></li>
 <li>HasIgnoreHitDirectionAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a0d0ef0eaccdb2627741e0e15d9a8edd6">Unit</a></li>
 <li>HasIgnoreTargetResistAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a70e673924c534be8487a3aca89f82b2f">Unit</a></li>
 <li>HasInArc()&#160;:&#160;<a class="el" href="d0/df4/structPosition.html#a7e91a07c89b5645ddff795e0b5495632">Position</a></li>
 <li>HasIncreaseMountedFlightSpeedAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ad14ac5966d6a1e6e29b1d0c8116bfc7d">Unit</a></li>
 <li>HasIncreaseMountedSpeedAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a8f32d4ffe9eaab2fe4ecefe581e275c4">Unit</a></li>
-<li>HasInLine()&#160;:&#160;<a class="el" href="d0/df4/structPosition.html#a0c809407f6a671597467291f811e4a27">Position</a></li>
+<li>HasInLine()&#160;:&#160;<a class="el" href="d0/df4/structPosition.html#a591be9768b6f4f1451e54af79a78ebaf">Position</a></li>
 <li>HasInterruptRegenAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a144195033adfe0e98f9c567da2e8cc60">Unit</a></li>
 <li>HasInvisibilityAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ac2640adea6b2fc9d3688312e363bc6e7">Unit</a></li>
 <li>HasInvisibilityDetectAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aebb129d6e22e20b704e420957d23a809">Unit</a></li>
@@ -1624,8 +1625,8 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasLowerSecurity()&#160;:&#160;<a class="el" href="d6/d38/classChatHandler.html#afacb4b59756372ec32810be0d46da49c">ChatHandler</a></li>
 <li>HasLowerSecurityAccount()&#160;:&#160;<a class="el" href="d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4">ChatHandler</a></li>
 <li>HasMainhandWeapon()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#af8454dc2cdff77f66954f13f0e4c6c6c">Unit</a></li>
-<li>HasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83">Unit</a></li>
 <li>hasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#aab7fe92591712206a22aea2b7eb8dc13">Unit</a></li>
+<li>HasMainhandWeaponForAttack()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#abfa289b04f9cd62d0ef5457b078fdd83">Unit</a></li>
 <li>HasMechanicTemplateImmunity()&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a5ac302b3e937ddf1c2c5198d99226369">Creature</a></li>
 <li>HasMeleeSpec()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a336633d1a73d1ccb1a546e5b0c38ae79">Player</a></li>
 <li>HasMinion()&#160;:&#160;<a class="el" href="db/d14/structnpc__necrotic__shard.html#a1180dc1fa894886b492508afbc692667">npc_necrotic_shard</a></li>
@@ -1707,6 +1708,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <li>HasTaxiPath()&#160;:&#160;<a class="el" href="d2/dc2/structEntryPointData.html#afd310b2f367ec7df76f01689ea120e6e">EntryPointData</a></li>
 <li>HasTempSpell()&#160;:&#160;<a class="el" href="df/d14/classPet.html#a029e483c79cb68affc04d04ca0c81d0e">Pet</a></li>
 <li>HasThreatAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ab1944c9a538a085dff25b468892d2077">Unit</a></li>
+<li>HasTimeUntilEvent()&#160;:&#160;<a class="el" href="d1/d2e/classEventMap.html#a40b956090fb03afea7bda154e82904d3">EventMap</a></li>
 <li>HasTitle()&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a628f13470513a252159124d61e87ca3e">Player</a></li>
 <li>HasTraj()&#160;:&#160;<a class="el" href="d4/d3a/classSpellCastTargets.html#a45632eab24f67bdbfdbf3ea72751f53e">SpellCastTargets</a></li>
 <li>HasTransformAura()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a43284005898d74aee02034f1d1749028">Unit</a></li>
@@ -1774,7 +1776,7 @@ $(document).ready(function(){initNavTree('functions_func_h.html',''); initResiza
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Oct 12 2025 06:21:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 13 2025 06:26:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

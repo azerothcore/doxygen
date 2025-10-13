@@ -10,7 +10,7 @@ var structboss__razorgore_1_1boss__razorgoreAI =
     [ "JustSummoned", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#abd240288ed85bb26c07be2892cd990bb", null ],
     [ "OnCharmed", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#af39972324073464ed9ec625afbebc51f", null ],
     [ "Reset", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a94013866e5275d7956c09e82459c29df", null ],
-    [ "SetGUID", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9a452940701988febe58083682c59f99", null ],
+    [ "SetGUID", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#abc92a37f4c9eed1a12d3a911e7c7f55d", null ],
     [ "SummonMovementInform", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ab0b8fe3e7478638cd0ac9d87181934d6", null ],
     [ "UpdateAI", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac813528b31e7c39d2f8b74dfe6d2c556", null ],
     [ "_charmerGUID", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9", null ],

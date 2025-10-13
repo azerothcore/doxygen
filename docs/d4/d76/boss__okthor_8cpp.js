@@ -8,11 +8,9 @@ var boss__okthor_8cpp =
       [ "SPELL_POLYMORPH", "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f", null ],
       [ "SPELL_SLOW", "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c3d41eb1b68da0f3943e5df04bfcb5c", null ]
     ] ],
-    [ "Timers", "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18b", [
-      [ "TIMER_ARCANE_BOLT", "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18baf091b9387e9cc48ce229952f91fbe4af", null ],
-      [ "TIMER_ARCANE_EXPLOSION", "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18bafc8a7eb8bea277a636f75e1b8ad24462", null ],
-      [ "TIMER_POLYMORPH", "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18ba5546158bce555f0fd42306a800b838d6", null ],
-      [ "TIMER_SLOW", "d4/d76/boss__okthor_8cpp.html#ab4d1592137d12427d186be538badd18ba439d42554249fd90a0394bf41d747c49", null ]
-    ] ],
-    [ "AddSC_boss_okthor", "d4/d76/boss__okthor_8cpp.html#ae4736d19ec246f377527359fac0e8e8b", null ]
+    [ "AddSC_boss_okthor", "d4/d76/boss__okthor_8cpp.html#ae4736d19ec246f377527359fac0e8e8b", null ],
+    [ "TIMER_ARCANE_BOLT", "d4/d76/boss__okthor_8cpp.html#afc50db66669b42128172e3dae8533e9a", null ],
+    [ "TIMER_ARCANE_EXPLOSION", "d4/d76/boss__okthor_8cpp.html#aa9ef9998ef1b9630e8409446664e9600", null ],
+    [ "TIMER_POLYMORPH", "d4/d76/boss__okthor_8cpp.html#aed90b041a8d92991cb8ef6655b7e58e3", null ],
+    [ "TIMER_SLOW", "d4/d76/boss__okthor_8cpp.html#aacaf4f6c3bd0f27549dd615e00da29c6", null ]
 ];

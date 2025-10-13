@@ -14,7 +14,7 @@ var structboss__ragnaros_1_1boss__ragnarosAI =
     [ "KilledUnit", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a4051c5bcb73419a8a5459732a148da4d", null ],
     [ "Reset", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a04a206275d57f0e0f2af0d7e98323696", null ],
     [ "ScheduleCombatEvents", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
-    [ "SetGUID", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a29f05ceecaaa0582b24430eb87e840f0", null ],
+    [ "SetGUID", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a6cfdec28239e47c35f5f3a8bbeb07dbc", null ],
     [ "SummonedCreatureDies", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
     [ "UpdateAI", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#afd770319814d46976e3d946b43e909a4", null ],
     [ "_hasSubmergedOnce", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a1e9b96abd69fce032a7ca6dff275703c", null ],

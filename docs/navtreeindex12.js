@@ -1,5 +1,7 @@
 var NAVTREEINDEX12 =
 {
+"d0/d89/boss__thorim_8cpp.html#aae21944cc64a0ed7f231be2dd159582c":[7,0,0,0,1,3,5,9,2,11,37],
+"d0/d89/boss__thorim_8cpp.html#ab33cbeef4c0c9b8f231792fb64105c37":[7,0,0,0,1,3,5,9,2,11,31],
 "d0/d89/boss__thorim_8cpp.html#ab3577f502ae3fde7557eafe5ae8369b4":[7,0,0,0,1,3,5,9,2,11,46],
 "d0/d89/boss__thorim_8cpp.html#ab5647942ca8ea67470d3d6289f9ae6c1":[7,0,0,0,1,3,5,9,2,11,38],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445":[7,0,0,0,1,3,5,9,2,11,43],
@@ -236,18 +238,16 @@ var NAVTREEINDEX12 =
 "d0/d8c/classnpc__mistress__of__pain.html":[6,0,1972],
 "d0/d8c/classnpc__mistress__of__pain.html#a0261ed835454725e0e5629c295be4330":[6,0,1972,1],
 "d0/d8c/classnpc__mistress__of__pain.html#ae32e9b907e2e31556e72d7feb4e24e8a":[6,0,1972,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3412],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3412,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3412,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3412,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3412,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3420],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3420,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3420,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3420,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3420,3],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html":[6,0,1318,0],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a080decfc444d3d89f0334a76bfb5e757":[6,0,1318,0,10],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a0849a6d1a98b6c49cca7341f6341179c":[6,0,1318,0,2],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a2a46b6d841d988dce9c5e54b19a1967a":[6,0,1318,0,17],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a38a20534aeb08f52fbf6e57f49763bdd":[6,0,1318,0,8],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a42ba68922c644e8a3c752bdaefbadb57":[6,0,1318,0,13],
-"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a44a6c18c9e1d279cfb16a087d1313845":[6,0,1318,0,12],
-"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a644bfe3309b765ba8df750acdb81d496":[6,0,1318,0,3],
-"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a7bdd42ce9cf698f6d78fde784ac0b32f":[6,0,1318,0,15]
+"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a44a6c18c9e1d279cfb16a087d1313845":[6,0,1318,0,12]
 };

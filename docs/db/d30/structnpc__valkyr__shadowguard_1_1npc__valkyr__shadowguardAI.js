@@ -8,7 +8,7 @@ var structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI =
     [ "MovementInform", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a9b75af98b11bf1115dfd7ce852ab7591", null ],
     [ "OnCharmed", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b99d9de8ccc94725510c97e170ac8d5", null ],
     [ "PassengerBoarded", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#ada0a8d7e47f22f1c80dd9e9cdd30e9cd", null ],
-    [ "SetGUID", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a91766f8e2fb70b1452cbb2c075717b1a", null ],
+    [ "SetGUID", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#aabc369e1ceb36292f22ddd58f2901d9a", null ],
     [ "UpdateAI", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a0a6516088aa077f3e01c892cde9e05ae", null ],
     [ "_destPoint", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a2b8c47299a68e7d69008083d49aa1c33", null ],
     [ "_events", "db/d30/structnpc__valkyr__shadowguard_1_1npc__valkyr__shadowguardAI.html#a46c748273b495368255f8668f5da8bdd", null ],

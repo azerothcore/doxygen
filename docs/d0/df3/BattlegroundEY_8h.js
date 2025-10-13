@@ -185,13 +185,11 @@ var BattlegroundEY_8h =
       [ "BG_EY_NETHERSTORM_FLAG_SPELL", "d0/df3/BattlegroundEY_8h.html#aec53ca448bfad6176aa5d4989d5dfc4ea5030a66c793e5cdc9348af7e0463e0ed", null ],
       [ "BG_EY_PLAYER_DROPPED_FLAG_SPELL", "d0/df3/BattlegroundEY_8h.html#aec53ca448bfad6176aa5d4989d5dfc4eaa6910b3b490e6f975842867a43d0b7a8", null ]
     ] ],
-    [ "BG_EY_Timers", "d0/df3/BattlegroundEY_8h.html#aa913fdeba53a9cb691f4ffc2c07fe9f7", [
-      [ "BG_EY_FLAG_RESPAWN_TIME", "d0/df3/BattlegroundEY_8h.html#aa913fdeba53a9cb691f4ffc2c07fe9f7aa5a44e6be94b8b80c9616809988b3ee6", null ],
-      [ "BG_EY_FLAG_ON_GROUND_TIME", "d0/df3/BattlegroundEY_8h.html#aa913fdeba53a9cb691f4ffc2c07fe9f7aae1e994b8fe737c74e7a083941653b03", null ],
-      [ "BG_EY_FPOINTS_CHECK_TIME", "d0/df3/BattlegroundEY_8h.html#aa913fdeba53a9cb691f4ffc2c07fe9f7a25d62bdff8c90994c8ddfe3266d666d8", null ],
-      [ "BG_EY_FPOINTS_TICK_TIME", "d0/df3/BattlegroundEY_8h.html#aa913fdeba53a9cb691f4ffc2c07fe9f7a9e2e13559003976c2ee8d75021e2fd48", null ]
-    ] ],
+    [ "BG_EY_FLAG_ON_GROUND_TIME", "d0/df3/BattlegroundEY_8h.html#a43b33a4ac5cc0cc0964deff18e869ef8", null ],
+    [ "BG_EY_FLAG_RESPAWN_TIME", "d0/df3/BattlegroundEY_8h.html#a20379e8546921e8b4f6f0a06889f4372", null ],
     [ "BG_EY_FlagPoints", "d0/df3/BattlegroundEY_8h.html#aa2132c3dcbe5186f641ae60bf860ea16", null ],
+    [ "BG_EY_FPOINTS_CHECK_TIME", "d0/df3/BattlegroundEY_8h.html#a41ba15a34804f6e992edf81e0b205faa", null ],
+    [ "BG_EY_FPOINTS_TICK_TIME", "d0/df3/BattlegroundEY_8h.html#a8d51b67b702b283b6ed9b563e2a7171e", null ],
     [ "BG_EY_TickPoints", "d0/df3/BattlegroundEY_8h.html#ad71d14dc4e1f0233f6c96b950c6d3148", null ],
     [ "BG_EY_TriggerPositions", "d0/df3/BattlegroundEY_8h.html#ac399dbd16f4ac693d97918e24d01005a", null ],
     [ "m_CapturingPointTypes", "d0/df3/BattlegroundEY_8h.html#a8f5680e97e802622e042e9db979d09d6", null ],

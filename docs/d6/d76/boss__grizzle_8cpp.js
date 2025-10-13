@@ -7,9 +7,7 @@ var boss__grizzle_8cpp =
       [ "SPELL_FRENZY", "d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
       [ "EMOTE_FRENZY_KILL", "d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
     ] ],
-    [ "Timer", "d6/d76/boss__grizzle_8cpp.html#a6e0035edd58cc6ca8c94b5f9723a0d80", [
-      [ "TIMER_GROUNDTREMOR", "d6/d76/boss__grizzle_8cpp.html#a6e0035edd58cc6ca8c94b5f9723a0d80a5046fe24f2bd1c59407d77496c82dd59", null ],
-      [ "TIMER_FRENZY", "d6/d76/boss__grizzle_8cpp.html#a6e0035edd58cc6ca8c94b5f9723a0d80a31ac972cb44128c4662a608b8f6eeb83", null ]
-    ] ],
-    [ "AddSC_boss_grizzle", "d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be", null ]
+    [ "AddSC_boss_grizzle", "d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
+    [ "TIMER_FRENZY", "d6/d76/boss__grizzle_8cpp.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
+    [ "TIMER_GROUNDTREMOR", "d6/d76/boss__grizzle_8cpp.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
 ];

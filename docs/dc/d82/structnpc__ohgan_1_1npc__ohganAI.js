@@ -5,7 +5,7 @@ var structnpc__ohgan_1_1npc__ohganAI =
     [ "JustEngagedWith", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
     [ "KilledUnit", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a4e202eef928e54bd52160705bba5cc35", null ],
     [ "Reset", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
+    [ "SetGUID", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a575531a144c46ae3084e56e452125f16", null ],
     [ "UpdateAI", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
     [ "_scheduler", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
     [ "instance", "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],

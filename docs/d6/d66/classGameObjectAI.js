@@ -21,7 +21,7 @@ var classGameObjectAI =
     [ "QuestReward", "d6/d66/classGameObjectAI.html#a68acb343e76a0c45513113b650929683", null ],
     [ "Reset", "d6/d66/classGameObjectAI.html#ae2f0f24cae721a75e4df8e7aa1c75b7c", null ],
     [ "SetData", "d6/d66/classGameObjectAI.html#a91fab7def40a89b070cce085915b0f8a", null ],
-    [ "SetGUID", "d6/d66/classGameObjectAI.html#a17bfc941a0c59cabe122b0b62a834bb1", null ],
+    [ "SetGUID", "d6/d66/classGameObjectAI.html#a3d314dc7b78be791545c130884e0254d", null ],
     [ "SpellHit", "d6/d66/classGameObjectAI.html#ac129aa1ba32e0cfb0f6f3d1bb116f5d7", null ],
     [ "SummonedCreatureDespawn", "d6/d66/classGameObjectAI.html#aa690137e5f5d6acee12e1b5f903935db", null ],
     [ "SummonedCreatureDies", "d6/d66/classGameObjectAI.html#a1eb34e87f4d7e66363b4270210e4aee3", null ],

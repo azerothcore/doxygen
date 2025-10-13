@@ -206,7 +206,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  951</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_tablet_of_the_seven&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  948</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_tablet_of_the_seven&quot;</span>) { }</div>
 <div class="ttc" id="aclassGameObjectScript_html"><div class="ttname"><a href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></div><div class="ttdef"><b>Definition</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -247,15 +247,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  955</span>    {</div>
-<div class="line"><span class="lineno">  956</span>        <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a7a8cef98e188ac088c48db167d1f46ac">GetGoType</a>() != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1">GAMEOBJECT_TYPE_QUESTGIVER</a>)</div>
-<div class="line"><span class="lineno">  957</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">  952</span>    {</div>
+<div class="line"><span class="lineno">  953</span>        <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a7a8cef98e188ac088c48db167d1f46ac">GetGoType</a>() != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1">GAMEOBJECT_TYPE_QUESTGIVER</a>)</div>
+<div class="line"><span class="lineno">  954</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  955</span> </div>
+<div class="line"><span class="lineno">  956</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(4296) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
+<div class="line"><span class="lineno">  957</span>            player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, 15065, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  958</span> </div>
-<div class="line"><span class="lineno">  959</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(4296) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
-<div class="line"><span class="lineno">  960</span>            player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, 15065, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  961</span> </div>
-<div class="line"><span class="lineno">  962</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  963</span>    }</div>
+<div class="line"><span class="lineno">  959</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  960</span>    }</div>
 <div class="ttc" id="aQuestDef_8h_html_abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a></div><div class="ttdeci">@ QUEST_STATUS_INCOMPLETE</div><div class="ttdef"><b>Definition</b> QuestDef.h:103</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9a6a57ca6d40b18de6228dc353a4a3ace1">GAMEOBJECT_TYPE_QUESTGIVER</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_QUESTGIVER</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1573</div></div>
 <div class="ttc" id="aclassGameObject_html_a7a8cef98e188ac088c48db167d1f46ac"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a7a8cef98e188ac088c48db167d1f46ac">GameObject::GetGoType</a></div><div class="ttdeci">GameobjectTypes GetGoType() const</div><div class="ttdef"><b>Definition</b> GameObject.h:202</div></div>
@@ -275,7 +275,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d5a/classgo__tablet__of__the__seven.html">go_tablet_of_the_seven</a></li>
-    <li class="footer">Generated on Sun Oct 12 2025 06:21:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 13 2025 06:25:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

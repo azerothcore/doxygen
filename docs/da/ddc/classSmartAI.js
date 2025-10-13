@@ -59,7 +59,7 @@ var classSmartAI =
     [ "SetEvadeDisabled", "da/ddc/classSmartAI.html#ac941fa3822c07722f7afd52789f43beb", null ],
     [ "SetFly", "da/ddc/classSmartAI.html#ab2c2a0c3b99e27b7093473bb2402247a", null ],
     [ "SetFollow", "da/ddc/classSmartAI.html#ad9c0fe767f56e081276682eca3b50e2b", null ],
-    [ "SetGUID", "da/ddc/classSmartAI.html#a21c5665f60632d010999919e331e8e6d", null ],
+    [ "SetGUID", "da/ddc/classSmartAI.html#a2bff70def5fccd6b6388bd55a450a17c", null ],
     [ "SetInvincibilityHpLevel", "da/ddc/classSmartAI.html#ae12d7b3a2c9a8f69c69ca0cc795c0e10", null ],
     [ "SetRun", "da/ddc/classSmartAI.html#ae3aa654bee5217b41c0d9e7b02cf1a0b", null ],
     [ "SetScript9", "da/ddc/classSmartAI.html#a613858d346747d285b74378c04a43f9c", null ],

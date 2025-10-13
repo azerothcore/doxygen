@@ -43,6 +43,7 @@ var classBattlegroundAV =
     [ "UpdateNodeWorldState", "d2/d04/classBattlegroundAV.html#abaaac91c092d7bd8c7c7cd1807a74d5e", null ],
     [ "UpdatePlayerScore", "d2/d04/classBattlegroundAV.html#a63bcb42e763575d625e1c8d2ed20ebf1", null ],
     [ "UpdateScore", "d2/d04/classBattlegroundAV.html#ab5a231317f4f9730714ef5a97dc5b837", null ],
+    [ "_avReputationRate", "d2/d04/classBattlegroundAV.html#ac12d64da87bd105293b900cf9af0534a", null ],
     [ "_reputationBoss", "d2/d04/classBattlegroundAV.html#a8463be82a090a96403e01a75ae2f4a6a", null ],
     [ "_reputationCaptain", "d2/d04/classBattlegroundAV.html#a18388190341c6f52b45e48afdfff2578", null ],
     [ "_reputationPerOwnedGraveyard", "d2/d04/classBattlegroundAV.html#a1b3bfb47f2d39694d3fe4a280d662dee", null ],

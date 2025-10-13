@@ -5,7 +5,7 @@ var structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI =
     [ "JustSummoned", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a6049433795be30eb31e240a4939ad42f", null ],
     [ "Reset", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#aebd396de51edef790cd0b599c94f78a0", null ],
     [ "SetData", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
+    [ "SetGUID", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ac7c41ebfa7979907aea246af20bcf368", null ],
     [ "SpellHitTarget", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
     [ "SummonedCreatureDespawn", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
     [ "UpdateAI", "de/d7c/structnpc__q24545__lich__king_1_1npc__q24545__lich__kingAI.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],

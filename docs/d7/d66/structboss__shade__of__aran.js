@@ -9,7 +9,7 @@ var structboss__shade__of__aran =
     [ "KilledUnit", "d7/d66/structboss__shade__of__aran.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
     [ "OnPowerUpdate", "d7/d66/structboss__shade__of__aran.html#a3ac487d431bc444cd8c39bb813260737", null ],
     [ "Reset", "d7/d66/structboss__shade__of__aran.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
-    [ "SetGUID", "d7/d66/structboss__shade__of__aran.html#a92e6d82da2a865220432c919d8593d00", null ],
+    [ "SetGUID", "d7/d66/structboss__shade__of__aran.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
     [ "UpdateAI", "d7/d66/structboss__shade__of__aran.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
     [ "_atieshReaction", "d7/d66/structboss__shade__of__aran.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
     [ "_currentNormalSpell", "d7/d66/structboss__shade__of__aran.html#a4384769fb6eb868c612ed34cbb6b2409", null ],

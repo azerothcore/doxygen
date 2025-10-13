@@ -4,7 +4,7 @@ var structboss__faction__championsAI =
     [ "AttackStart", "d5/d76/structboss__faction__championsAI.html#a465492574894303cbce6df2107b87252", null ],
     [ "EnemiesInRange", "d5/d76/structboss__faction__championsAI.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
     [ "EnterEvadeMode", "d5/d76/structboss__faction__championsAI.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
-    [ "EventMapGCD", "d5/d76/structboss__faction__championsAI.html#a8f993213b96d47f12258f6182b876042", null ],
+    [ "EventMapGCD", "d5/d76/structboss__faction__championsAI.html#ad5d17a7895d0c92f8c63fe5689564569", null ],
     [ "GetThreatMod", "d5/d76/structboss__faction__championsAI.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
     [ "IsCCed", "d5/d76/structboss__faction__championsAI.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
     [ "JustDied", "d5/d76/structboss__faction__championsAI.html#aa8976d148ac4882063787f144ebeeea8", null ],

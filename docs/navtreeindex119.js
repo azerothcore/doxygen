@@ -1,5 +1,11 @@
 var NAVTREEINDEX119 =
 {
+"d4/d1d/classspell__gen__lifeblood.html#a66b009487462241e573ea23f081a140a":[6,0,2984,0],
+"d4/d1d/classspell__gen__lifeblood.html#afeafc6922b0a0389fec969e3c7191dda":[6,0,2984,2],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html":[6,0,3868],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#a7535ef148e047e32a5f7a1944585e396":[6,0,3868,0],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#ab44b362197e74b98b3ffeb98eff52742":[6,0,3868,2],
+"d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#ad5305dd5a32a18802a9fce5daccf3051":[6,0,3868,1],
 "d4/d1d/instance__stratholme_8cpp.html":[7,0,0,0,1,3,2,10,2],
 "d4/d1d/instance__stratholme_8cpp.html#a1a89feed6c582c3bf3e51bf3a1027081":[7,0,0,0,1,3,2,10,2,7],
 "d4/d1d/instance__stratholme_8cpp.html#a3c5bc53064d7ed19146d61fbe2f25502":[7,0,0,0,1,3,2,10,2,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX119 =
 "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,5,4,1,3,8,7],
 "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7c17895efac016c0e522d6ec34b7be22":[7,0,0,0,1,3,5,4,1,3,8,10],
 "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7d1be3a006196888b236f5ba5e2f19dd":[7,0,0,0,1,3,5,4,1,3,8,5],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aab96ba8bed84beb930d0d88de6d091cd":[7,0,0,0,1,3,5,4,1,3,8,2],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab25b2f2755f49b04581b62a7e1fad748":[7,0,0,0,1,3,5,4,1,3,8,6],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab35e94d3f1c375ac318099e383e21d21":[7,0,0,0,1,3,5,4,1,3,8,1],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab8e10ca903fb36c37526a471beb5119c":[7,0,0,0,1,3,5,4,1,3,8,16],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac1747b726f5dc8f3d9fc3578da1a6bb4":[7,0,0,0,1,3,5,4,1,3,8,15],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63adb683ca05b5dc26b9eeba5bc23b4a9fb":[7,0,0,0,1,3,5,4,1,3,8,4],
-"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ae3dcdaa982379d53e39039263ddb95a1":[7,0,0,0,1,3,5,4,1,3,8,9]
+"d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aab96ba8bed84beb930d0d88de6d091cd":[7,0,0,0,1,3,5,4,1,3,8,2]
 };

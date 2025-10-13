@@ -8,7 +8,7 @@ var structnpc__arthas_1_1npc__arthasAI =
     [ "JustSummoned", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a2e582bfb89c21ec6bc1451b70d0664ea", null ],
     [ "ReorderInstance", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#aca7309b36c531ffdbdee842a69d11e84", null ],
     [ "Reset", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a4d839cda5bd7a6e20b2ee3052624f23a", null ],
-    [ "ScheduleNextEvent", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a17eb5452fed26a8c4f64dd41b018fe74", null ],
+    [ "ScheduleNextEvent", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#ab811bf2cab2982ef2f65021a61b0cee3", null ],
     [ "SendNextWave", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#ace215df8a11c009aa5b4f29ffa6ec5e3", null ],
     [ "SpawnTimeRift", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#aa4908055e48e76ee1189c7bc7046b01d", null ],
     [ "SummonedCreatureDespawn", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a29e7be7b161f8add8e7f502dc29efcb2", null ],

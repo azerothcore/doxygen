@@ -42,7 +42,7 @@ var classUnitAI =
     [ "SelectTargetList", "d0/ddd/classUnitAI.html#a0732b1835b79a9b866e1932f63f87db0", null ],
     [ "SelectTargetList", "d0/ddd/classUnitAI.html#a7057b419b4fdcb9a4a87344aa59e97b3", null ],
     [ "SetData", "d0/ddd/classUnitAI.html#a14c40dcfec28989cc630fa571c67ebb7", null ],
-    [ "SetGUID", "d0/ddd/classUnitAI.html#aed57e805b8792eda265a1a426fcf152a", null ],
+    [ "SetGUID", "d0/ddd/classUnitAI.html#adc7dfa9aae02724d3a46efa8cd1c57ec", null ],
     [ "sGossipHello", "d0/ddd/classUnitAI.html#a8de6be511eebe0cc7a3332a9bb74d01e", null ],
     [ "sGossipSelect", "d0/ddd/classUnitAI.html#ab4adb2abfabe081acf0e4c5670607f87", null ],
     [ "sGossipSelectCode", "d0/ddd/classUnitAI.html#a3ff4994ac5dff9fe23091a864e69cc9f", null ],

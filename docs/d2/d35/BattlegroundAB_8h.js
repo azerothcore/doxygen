@@ -43,9 +43,7 @@ var BattlegroundAB_8h =
       [ "BG_AB_REP_TICK_NORMAL", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba1546a9ed57db30f84bf7171a342cd3d2", null ],
       [ "BG_AB_REP_TICK_WEEKEND", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba1b44cf78923307fdbb2d2d48579928f9", null ],
       [ "BG_AB_WARNING_NEAR_VICTORY_SCORE", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba3f2ba4902de6da31bbf923ed4dee5d9b", null ],
-      [ "BG_AB_MAX_TEAM_SCORE", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba", null ],
-      [ "BG_AB_FLAG_CAPTURING_TIME", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba3de28f8d2bbeffeb1df9d791dda332db", null ],
-      [ "BG_AB_BANNER_UPDATE_TIME", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba5bf93a57912ec884f19961a82ab6488f", null ]
+      [ "BG_AB_MAX_TEAM_SCORE", "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba", null ]
     ] ],
     [ "BG_AB_NodeStatus", "d2/d35/BattlegroundAB_8h.html#a57b60dbaa9b05ef4b896e2b8ffebf130", [
       [ "BG_AB_NODE_STATE_NEUTRAL", "d2/d35/BattlegroundAB_8h.html#a57b60dbaa9b05ef4b896e2b8ffebf130a462423d2f622b94627c152cb7e50618e", null ],
@@ -109,11 +107,13 @@ var BattlegroundAB_8h =
       [ "BG_AB_SOUND_NEAR_VICTORY_HORDE", "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b", null ]
     ] ],
     [ "ABNodes", "d2/d35/BattlegroundAB_8h.html#a5ce5aced5b18a9136cfd7a03348a9979", null ],
+    [ "BG_AB_BANNER_UPDATE_TIME", "d2/d35/BattlegroundAB_8h.html#a8a2e075b59b1fc0fc4993c2c10a8a023", null ],
     [ "BG_AB_BuffPositions", "d2/d35/BattlegroundAB_8h.html#a51ad679e6affe77350ba6d21554463c3", null ],
     [ "BG_AB_DoorPositions", "d2/d35/BattlegroundAB_8h.html#a6d6a352719d503f3002b193c412ec53b", null ],
+    [ "BG_AB_FLAG_CAPTURING_TIME", "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139", null ],
     [ "BG_AB_GraveyardIds", "d2/d35/BattlegroundAB_8h.html#a6f996d495e116848d3bd6384e501d51e", null ],
     [ "BG_AB_NodePositions", "d2/d35/BattlegroundAB_8h.html#af981815b69f9cc306f4740e809a90f77", null ],
     [ "BG_AB_SpiritGuidePos", "d2/d35/BattlegroundAB_8h.html#a86650176a2fbeee8806e5281e56c0a42", null ],
-    [ "BG_AB_TickIntervals", "d2/d35/BattlegroundAB_8h.html#accc3ec988e6f59e7774947ed53d23bc4", null ],
+    [ "BG_AB_TickIntervals", "d2/d35/BattlegroundAB_8h.html#abd40a7cae8fb8d49746d0e92e482e50f", null ],
     [ "BG_AB_TickPoints", "d2/d35/BattlegroundAB_8h.html#acc55e240ec4cc628722f56c5fa4d2c84", null ]
 ];

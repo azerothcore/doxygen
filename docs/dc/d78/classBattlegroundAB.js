@@ -25,6 +25,7 @@ var classBattlegroundAB =
     [ "StartingEventCloseDoors", "dc/d78/classBattlegroundAB.html#a242fc37f9ef07c5e2b2c5c4aa9df6c89", null ],
     [ "StartingEventOpenDoors", "dc/d78/classBattlegroundAB.html#a21f09f8740e7be714c1e0dc88904cddc", null ],
     [ "UpdatePlayerScore", "dc/d78/classBattlegroundAB.html#acb2e6aa203a1587d0ac3bc9b3723e115", null ],
+    [ "_abReputationRate", "dc/d78/classBattlegroundAB.html#a15e2f3de75d65863a1a4c92a2f7d1803", null ],
     [ "_bgEvents", "dc/d78/classBattlegroundAB.html#a0a5e9c6942ab421be303e84c0a8c20c8", null ],
     [ "_capturePointInfo", "dc/d78/classBattlegroundAB.html#a8e4540ac02ee30fbf5284ca19807ed0a", null ],
     [ "_configurableMaxTeamScore", "dc/d78/classBattlegroundAB.html#a69b7366af72520d2aaaaa22df94f3728", null ],

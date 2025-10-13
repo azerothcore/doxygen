@@ -26,17 +26,13 @@ var boss__darkmaster__gandling_8cpp =
       [ "SPELL_SHADOW_SHIELD", "d9/d61/boss__darkmaster__gandling_8cpp.html#a5bd342133be8c2137b831460acc9298ca2fcb01e85962bcea2a551a342be01ebd", null ],
       [ "SPELL_SHADOW_PORTAL", "d9/d61/boss__darkmaster__gandling_8cpp.html#a5bd342133be8c2137b831460acc9298cad2085c47dc0b4a80b7fc167048295543", null ]
     ] ],
-    [ "Timers", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18b", [
-      [ "TIMER_ARCANE_MIN", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18ba6b8703386c66c5bd86cd18fb83a241e9", null ],
-      [ "TIMER_ARCANE_MAX", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18babf05b2eed713cc29949be61a189c214a", null ],
-      [ "TIMER_CURSE_MIN", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18baffbc0590e88de384608b34a9524cd164", null ],
-      [ "TIMER_CURSE_MAX", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18ba2fa1ce3318d84110c7f6be85a5b5c0d2", null ],
-      [ "TIMER_SHIELD_MIN", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18babe8d1a1cccb01e54f7fc7762dd821ba7", null ],
-      [ "TIMER_SHIELD_MAX", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18ba3b33a59b3d7f93cbef2042f0c2ffc971", null ],
-      [ "TIMER_PORTAL", "d9/d61/boss__darkmaster__gandling_8cpp.html#ab4d1592137d12427d186be538badd18ba8268915aa8356b4e82df95a7bf76bc0d", null ]
-    ] ],
     [ "AddSC_boss_darkmaster_gandling", "d9/d61/boss__darkmaster__gandling_8cpp.html#a3fe8ae8f04d71de6c639b0b09ba03ec5", null ],
     [ "GandlingGateIds", "d9/d61/boss__darkmaster__gandling_8cpp.html#a45473b591639615bafba316d625177e8", null ],
     [ "GandlingPortalSpells", "d9/d61/boss__darkmaster__gandling_8cpp.html#aebc370db1fc581d496f8352cd08d5834", null ],
-    [ "SummonPos", "d9/d61/boss__darkmaster__gandling_8cpp.html#a01a14f02037286f8670aa0c95add8dc4", null ]
+    [ "SummonPos", "d9/d61/boss__darkmaster__gandling_8cpp.html#a01a14f02037286f8670aa0c95add8dc4", null ],
+    [ "TIMER_ARCANE_MAX", "d9/d61/boss__darkmaster__gandling_8cpp.html#aaf6a834681e188598f109d3d31e49cc0", null ],
+    [ "TIMER_ARCANE_MIN", "d9/d61/boss__darkmaster__gandling_8cpp.html#a647223b463aad4b76a854aedd730ac6e", null ],
+    [ "TIMER_CURSE_MIN", "d9/d61/boss__darkmaster__gandling_8cpp.html#a9d8d5fade8fbd1c6bcf0c26734709143", null ],
+    [ "TIMER_PORTAL", "d9/d61/boss__darkmaster__gandling_8cpp.html#a1990dcf74fdda63d24fcbdee85de4085", null ],
+    [ "TIMER_SHIELD_MIN", "d9/d61/boss__darkmaster__gandling_8cpp.html#abc3d3c1b49f8ce2be974a099c73ecee7", null ]
 ];

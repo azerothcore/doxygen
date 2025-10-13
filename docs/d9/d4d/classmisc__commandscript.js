@@ -8,6 +8,7 @@ var classmisc__commandscript =
     [ "HandleAuraCommand", "d9/d4d/classmisc__commandscript.html#a2a089b189d1dbc9b61da2a1fe1512a6d", null ],
     [ "HandleAuraStacksCommand", "d9/d4d/classmisc__commandscript.html#a1de4c9d4a549fe6f531116b00df84c26", null ],
     [ "HandleBindSightCommand", "d9/d4d/classmisc__commandscript.html#aa6453e7996667ccec1595c16eec9760c", null ],
+    [ "HandleBMCommand", "d9/d4d/classmisc__commandscript.html#a5712c979f5ffe069fa0a29b55b9f2772", null ],
     [ "HandleChangeWeather", "d9/d4d/classmisc__commandscript.html#a4d77ebd8451b181b500a4084a12775a1", null ],
     [ "HandleCombatStopCommand", "d9/d4d/classmisc__commandscript.html#ad19d4ed2e392cfe265c8ad6496188433", null ],
     [ "HandleComeToMeCommand", "d9/d4d/classmisc__commandscript.html#aa79412507e472f460a6a8e01e951bc28", null ],

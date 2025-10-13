@@ -7,7 +7,7 @@ var classCorpse =
     [ "Create", "d3/dc4/classCorpse.html#a34e2fc9d1f64dedd9da4428b532f145c", null ],
     [ "Create", "d3/dc4/classCorpse.html#a0f709c964269b438fcc2562868e72834", null ],
     [ "DeleteFromDB", "d3/dc4/classCorpse.html#af1d47fcea8651554eb239bb7d9816491", null ],
-    [ "DeleteFromDB", "d3/dc4/classCorpse.html#ad94f5d1a37d734eda3ea92a315b2b5b3", null ],
+    [ "DeleteFromDB", "d3/dc4/classCorpse.html#a0797893bed1654fac3a6bd7a0cbd7225", null ],
     [ "GetCellCoord", "d3/dc4/classCorpse.html#a9345be6ba96317ba7efc9ef1bbbf9b44", null ],
     [ "GetGhostTime", "d3/dc4/classCorpse.html#a92e3fd5bebe85204829e5ff97bd3c44f", null ],
     [ "GetOwnerGUID", "d3/dc4/classCorpse.html#a50a75a8cf344fdb395d456d5cc947489", null ],

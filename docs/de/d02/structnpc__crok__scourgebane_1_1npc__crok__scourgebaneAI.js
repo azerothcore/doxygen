@@ -5,7 +5,7 @@ var structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI =
     [ "DamageTaken", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6", null ],
     [ "DoAction", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#aaf9b034a97510ce7d58aa2d9ecfc0c14", null ],
     [ "Reset", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a6c1d480fff0a4a6361986dc82a945534", null ],
-    [ "SetGUID", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ad2493bd37a68c9b2709e25231863a863", null ],
+    [ "SetGUID", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a185a5ebbf77067ce9e233c55d47f84d0", null ],
     [ "UpdateAI", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a109b1bf28de7903557c9c03957fa7d71", null ],
     [ "UpdateEscortAI", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae424685131ee51e8d6390e4ddb341b04", null ],
     [ "WaypointReached", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],

@@ -325,7 +325,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  163</span> </div>
 <div class="line"><span class="lineno">  164</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/dbe/classPointMovementGenerator.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a> &amp;&amp; <a class="code hl_variable" href="../../da/dbe/classPointMovementGenerator.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a> == unit-&gt;GetTarget())</div>
 <div class="line"><span class="lineno">  165</span>        {</div>
-<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a>(*unit, <a class="code hl_variable" href="../../da/dbe/classPointMovementGenerator.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a>))</div>
+<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*unit, <a class="code hl_variable" href="../../da/dbe/classPointMovementGenerator.html#a26496f8fcfeb2097d7c4c35bfdbdb357">_chargeTargetGUID</a>))</div>
 <div class="line"><span class="lineno">  167</span>            {</div>
 <div class="line"><span class="lineno">  168</span>                unit-&gt;Attack(target, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  169</span>            }</div>
@@ -342,7 +342,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aboss__icecrown__gunship__battle_8cpp_html_a9c317db681d954aca490545ed2c1b929"><div class="ttname"><a href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a></div><div class="ttdeci">#define EVENT_CHARGE_PREPATH</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:108</div></div>
 <div class="ttc" id="aclassPointMovementGenerator_html_a6bb0bf8d9225906331756383ef0bb418"><div class="ttname"><a href="../../da/dbe/classPointMovementGenerator.html#a6bb0bf8d9225906331756383ef0bb418">PointMovementGenerator::MovementInform</a></div><div class="ttdeci">void MovementInform(T *)</div><div class="ttdef"><b>Definition</b> PointMovementGenerator.cpp:191</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:627</div></div>
-<div class="ttc" id="anamespaceObjectAccessor_html_a02c2dfb59db7d7e2501dcc9a4f9baf07"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a02c2dfb59db7d7e2501dcc9a4f9baf07">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
+<div class="ttc" id="anamespaceObjectAccessor_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l03577">EVENT_CHARGE</a>, <a class="el" href="../../#l00108">EVENT_CHARGE_PREPATH</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00187">UNIT_STATE_CHARGING</a>, <a class="el" href="../../#l00174">UNIT_STATE_ROAMING</a>, and <a class="el" href="../../#l00192">UNIT_STATE_ROAMING_MOVE</a>.</p>
 
@@ -981,7 +981,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/dbe/classPointMovementGenerator.html">PointMovementGenerator</a></li>
-    <li class="footer">Generated on Sun Oct 12 2025 06:21:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 13 2025 06:25:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

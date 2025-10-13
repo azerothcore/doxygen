@@ -56,9 +56,6 @@ var instance__blackrock__spire_8cpp =
       [ "SAY_SOLAKAR_FIRST_HATCHER", "df/d1e/instance__blackrock__spire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aeffeacca1c36567caeef73d6d6b4ff3d", null ],
       [ "SAY_SCARSHIELD_INF_WHISPER", "df/d1e/instance__blackrock__spire_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2fd20ea5679d634e89b01a758391b119", null ]
     ] ],
-    [ "Timers", "df/d1e/instance__blackrock__spire_8cpp.html#ab4d1592137d12427d186be538badd18b", [
-      [ "TIMER_SOLAKAR_WAVE", "df/d1e/instance__blackrock__spire_8cpp.html#ab4d1592137d12427d186be538badd18ba86ab36a5daa39bcff946ba110a36f0d4", null ]
-    ] ],
     [ "AddSC_instance_blackrock_spire", "df/d1e/instance__blackrock__spire_8cpp.html#ab279af946b201e9b7ca1f80c6fd590c4", null ],
     [ "doorData", "df/d1e/instance__blackrock__spire_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "DragonspireMobs", "df/d1e/instance__blackrock__spire_8cpp.html#a9eb021d478426f4a44742c4c07bd04e0", null ],
@@ -66,6 +63,7 @@ var instance__blackrock__spire_8cpp =
     [ "SolakarPosBoss", "df/d1e/instance__blackrock__spire_8cpp.html#a67bd6d2ff0d16853cfa44844688b9483", null ],
     [ "SolakarPosLeft", "df/d1e/instance__blackrock__spire_8cpp.html#abb7abbf47054a5a5b64d1494e4766223", null ],
     [ "SolakarPosRight", "df/d1e/instance__blackrock__spire_8cpp.html#a6b54dc34d8e5e6fc0a8e5333b4c86f83", null ],
+    [ "TIMER_SOLAKAR_WAVE", "df/d1e/instance__blackrock__spire_8cpp.html#a7b9e990a9918c5501d447eb2d0f5e324", null ],
     [ "VaelastraszTheRedPosNorth", "df/d1e/instance__blackrock__spire_8cpp.html#a6e2b9576004e728ce158557924a38741", null ],
     [ "VaelastraszTheRedPosSouth", "df/d1e/instance__blackrock__spire_8cpp.html#a59a2ff14071727e718e217d2e7ba3454", null ]
 ];

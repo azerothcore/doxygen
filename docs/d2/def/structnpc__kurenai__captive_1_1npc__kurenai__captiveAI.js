@@ -5,7 +5,7 @@ var structnpc__kurenai__captive_1_1npc__kurenai__captiveAI =
     [ "JustEngagedWith", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a9e36749629568d7917353bee51be08b8", null ],
     [ "JustSummoned", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a19a5190b72f78ee698d5fa2df6ac9b4b", null ],
     [ "Reset", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#aea5af2579f9be13620f15b82b5cc8436", null ],
-    [ "SetGUID", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a20edaf98031d7683d07b325c0b89ff69", null ],
+    [ "SetGUID", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a5ae293f5444f08f7ea58b3b58f4a7279", null ],
     [ "SpellHitTarget", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
     [ "UpdateEscortAI", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
     [ "WaypointReached", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],

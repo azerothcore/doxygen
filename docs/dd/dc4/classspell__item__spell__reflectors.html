@@ -340,17 +340,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 4233</span>    {</div>
-<div class="line"><span class="lineno"> 4234</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;GetLevel() &gt; 70)</div>
-<div class="line"><span class="lineno"> 4235</span>            amount = 4;</div>
-<div class="line"><span class="lineno"> 4236</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;GetLevel() &gt; 60)</div>
-<div class="line"><span class="lineno"> 4237</span>            amount = 50;</div>
-<div class="line"><span class="lineno"> 4238</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4237</span>    {</div>
+<div class="line"><span class="lineno"> 4238</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;GetLevel() &gt; 70)</div>
+<div class="line"><span class="lineno"> 4239</span>            amount = 4;</div>
+<div class="line"><span class="lineno"> 4240</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;GetLevel() &gt; 60)</div>
+<div class="line"><span class="lineno"> 4241</span>            amount = 50;</div>
+<div class="line"><span class="lineno"> 4242</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04240">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04244">Register()</a>.</p>
 
 </div>
 </div>
@@ -404,16 +404,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4241</span>    {</div>
-<div class="line"><span class="lineno"> 4242</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed">spell_item_spell_reflectors::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc67ff244902b3217c447ada79c45ea8">SPELL_AURA_REFLECT_SPELLS_SCHOOL</a>);</div>
-<div class="line"><span class="lineno"> 4243</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4245</span>    {</div>
+<div class="line"><span class="lineno"> 4246</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed">spell_item_spell_reflectors::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc67ff244902b3217c447ada79c45ea8">SPELL_AURA_REFLECT_SPELLS_SCHOOL</a>);</div>
+<div class="line"><span class="lineno"> 4247</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799adc67ff244902b3217c447ada79c45ea8"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799adc67ff244902b3217c447ada79c45ea8">SPELL_AURA_REFLECT_SPELLS_SCHOOL</a></div><div class="ttdeci">@ SPELL_AURA_REFLECT_SPELLS_SCHOOL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:137</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:772</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:771</div></div>
-<div class="ttc" id="aclassspell__item__spell__reflectors_html_a2010f58ba86d6266e9549753fdec52ed"><div class="ttname"><a href="../../dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed">spell_item_spell_reflectors::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:4232</div></div>
+<div class="ttc" id="aclassspell__item__spell__reflectors_html_a2010f58ba86d6266e9549753fdec52ed"><div class="ttname"><a href="../../dd/dc4/classspell__item__spell__reflectors.html#a2010f58ba86d6266e9549753fdec52ed">spell_item_spell_reflectors::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:4236</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l04232">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00137">SPELL_AURA_REFLECT_SPELLS_SCHOOL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l04236">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, and <a class="el" href="../../#l00137">SPELL_AURA_REFLECT_SPELLS_SCHOOL</a>.</p>
 
 </div>
 </div>
@@ -426,7 +426,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dc4/classspell__item__spell__reflectors.html">spell_item_spell_reflectors</a></li>
-    <li class="footer">Generated on Sun Oct 12 2025 06:21:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 13 2025 06:26:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

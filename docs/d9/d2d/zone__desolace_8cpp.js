@@ -18,8 +18,6 @@ var zone__desolace_8cpp =
       [ "SAY_CARAVAN_LEAVE", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa", null ],
       [ "SAY_CARAVAN_HIRE", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728ab0f9b346c5f60c1ec44e45615f360ef3", null ],
       [ "MAX_CARAVAN_SUMMONS", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362", null ],
-      [ "TIME_SHOP_STOP", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728abbe7d7ba7ba0306763dbae08e8d04afd", null ],
-      [ "TIME_HIRE_STOP", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a988424f7f1f59cb5b30cef0ba4b8f3f7", null ],
       [ "NPC_KOLKAR_WAYLAYER", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece", null ],
       [ "NPC_KOLKAR_AMBUSHER", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a7a9eb27a8fb0e7ef6c66a86720d9233c", null ],
       [ "NPC_LESSER_INFERNAL", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728aae0903900c838cf1102ca86baa598224", null ],
@@ -40,5 +38,7 @@ var zone__desolace_8cpp =
       [ "SPELL_KODO_KOMBO_DESPAWN_BUFF", "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5", null ],
       [ "SPELL_KODO_KOMBO_GOSSIP", "d9/d2d/zone__desolace_8cpp.html#af45ec6fee60329d3c66726e0fa939663a08489d27d91546512009b1555fa59de3", null ]
     ] ],
-    [ "AddSC_desolace", "d9/d2d/zone__desolace_8cpp.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ]
+    [ "AddSC_desolace", "d9/d2d/zone__desolace_8cpp.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ],
+    [ "TIME_HIRE_STOP", "d9/d2d/zone__desolace_8cpp.html#a4242da8a27377879882360b83ee517d5", null ],
+    [ "TIME_SHOP_STOP", "d9/d2d/zone__desolace_8cpp.html#a74a579d621e86ff3a69ffef7b34efe7e", null ]
 ];

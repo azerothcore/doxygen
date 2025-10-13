@@ -42,11 +42,12 @@ var searchData=
   ['equipmentset_39',['EquipmentSet',['../d8/db8/structEquipmentSet.html',1,'']]],
   ['escort_5fwaypoint_40',['Escort_Waypoint',['../da/d80/structEscort__Waypoint.html',1,'']]],
   ['escortmovementgenerator_41',['EscortMovementGenerator',['../d8/d3e/classEscortMovementGenerator.html',1,'']]],
-  ['event_5fcommandscript_42',['event_commandscript',['../d7/df0/classevent__commandscript.html',1,'']]],
-  ['eventemitter_43',['EventEmitter',['../d9/d51/classEventEmitter.html',1,'']]],
-  ['eventlogentry_44',['EventLogEntry',['../d6/de7/classGuild_1_1EventLogEntry.html',1,'Guild']]],
-  ['eventmap_45',['EventMap',['../d1/d2e/classEventMap.html',1,'']]],
-  ['eventprocessor_46',['EventProcessor',['../d2/d58/classEventProcessor.html',1,'']]],
-  ['exactsequence_47',['ExactSequence',['../d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html',1,'Acore::ChatCommands']]],
-  ['exception_48',['Exception',['../dd/d96/classDBCFile_1_1Exception.html',1,'DBCFile']]]
+  ['event_42',['Event',['../da/d37/structEventMap_1_1Event.html',1,'EventMap']]],
+  ['event_5fcommandscript_43',['event_commandscript',['../d7/df0/classevent__commandscript.html',1,'']]],
+  ['eventemitter_44',['EventEmitter',['../d9/d51/classEventEmitter.html',1,'']]],
+  ['eventlogentry_45',['EventLogEntry',['../d6/de7/classGuild_1_1EventLogEntry.html',1,'Guild']]],
+  ['eventmap_46',['EventMap',['../d1/d2e/classEventMap.html',1,'']]],
+  ['eventprocessor_47',['EventProcessor',['../d2/d58/classEventProcessor.html',1,'']]],
+  ['exactsequence_48',['ExactSequence',['../d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html',1,'Acore::ChatCommands']]],
+  ['exception_49',['Exception',['../dd/d96/classDBCFile_1_1Exception.html',1,'DBCFile']]]
 ];

@@ -6,6 +6,7 @@ var structboss__grand__champion_1_1boss__grand__championAI =
     [ "DoAction", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a1bba80af4c24dc0fada7adbf640204d0", null ],
     [ "EnterEvadeMode", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#af09ee00c4d023c61b6801daa44ae9f1c", null ],
     [ "JustEngagedWith", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a273b248eb7b8ffab709d393670cb8f72", null ],
+    [ "MoveInLineOfSight", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#ad3e29841dc53cb4a38e8326bd1baaec2", null ],
     [ "MovementInform", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a228c0e4867afde4008cf7e12158b7e28", null ],
     [ "Reset", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a1a8d1674250a7fe75b418b812bc6dd93", null ],
     [ "ScheduleAbilitiesEvents", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a84dd10a0922577986ea0680c9bde9d41", null ],

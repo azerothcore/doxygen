@@ -7,7 +7,7 @@ var structboss__ossirian =
     [ "KilledUnit", "d3/d0a/structboss__ossirian.html#a716acecfc8e38eb663557fafb56719fd", null ],
     [ "MoveInLineOfSight", "d3/d0a/structboss__ossirian.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
     [ "Reset", "d3/d0a/structboss__ossirian.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "d3/d0a/structboss__ossirian.html#a20dcef7e211a7aecbf46ecf6ba3d3fed", null ],
+    [ "SetGUID", "d3/d0a/structboss__ossirian.html#a87369e8995c096301908ec209e17b274", null ],
     [ "SpawnNextCrystal", "d3/d0a/structboss__ossirian.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
     [ "SpellHit", "d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
     [ "SummonedCreatureDespawn", "d3/d0a/structboss__ossirian.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],

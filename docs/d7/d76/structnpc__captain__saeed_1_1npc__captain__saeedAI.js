@@ -8,7 +8,7 @@ var structnpc__captain__saeed_1_1npc__captain__saeedAI =
     [ "JustEngagedWith", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#abbe76c4dbe8292e3ec00cb0f396b7da8", null ],
     [ "MoveInLineOfSight", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a92e8d7c84407a16d608a163cb8dadc6e", null ],
     [ "Reset", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#aae80afee1e69e188264e04ba12b00682", null ],
-    [ "SetGUID", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a6351c8cab1e99414f49d8f095cae0c7d", null ],
+    [ "SetGUID", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a4a50d7299d5d2b7a6756781dca62b624", null ],
     [ "SummonsAction", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a7ffef7c2b998062ecc3544b2b8508a4c", null ],
     [ "UpdateAI", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a2e3fd3ec84807f5b35ba6745c5ca7788", null ],
     [ "WaypointReached", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a2af760112f66b315ee36ecc2c4205d44", null ],

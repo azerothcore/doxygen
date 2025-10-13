@@ -9,12 +9,10 @@ var boss__anubshiah_8cpp =
       [ "SPELL_DEMON_ARMOR", "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae83871ceb366127a4916a8c197250e60", null ],
       [ "SPELL_ENVELOPING_WEB", "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae1ec2f172e62528644ddad62bf99e5bb", null ]
     ] ],
-    [ "Timers", "d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18b", [
-      [ "TIMER_SHADOWBOLT", "d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18ba332f1bb7b8077ebb87199295c6cd670b", null ],
-      [ "TIMER_CURSE_TONGUES", "d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18ba6106b6ca1a91f0d885fcbe377dc1d3f4", null ],
-      [ "TIMER_CURSE_WEAKNESS", "d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18baa55fdc8d821d86a4faa453db8c1c2196", null ],
-      [ "TIMER_DEMON_ARMOR", "d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18ba4918ce09be76d8920814280ad7de4723", null ],
-      [ "TIMER_ENVELOPING_WEB", "d8/df3/boss__anubshiah_8cpp.html#ab4d1592137d12427d186be538badd18bada32e406437a65f513f2f5226e607b5e", null ]
-    ] ],
-    [ "AddSC_boss_anubshiah", "d8/df3/boss__anubshiah_8cpp.html#acc90f01f6cb133b1ad00d753f3d11913", null ]
+    [ "AddSC_boss_anubshiah", "d8/df3/boss__anubshiah_8cpp.html#acc90f01f6cb133b1ad00d753f3d11913", null ],
+    [ "TIMER_CURSE_TONGUES", "d8/df3/boss__anubshiah_8cpp.html#ae93ad6c1747bf265a5125392f6a37696", null ],
+    [ "TIMER_CURSE_WEAKNESS", "d8/df3/boss__anubshiah_8cpp.html#a5b0b0ddb8c9a1bf61e5e6ba929fc307a", null ],
+    [ "TIMER_DEMON_ARMOR", "d8/df3/boss__anubshiah_8cpp.html#a911731d0c6cc285f5a1dd80934cdbac0", null ],
+    [ "TIMER_ENVELOPING_WEB", "d8/df3/boss__anubshiah_8cpp.html#a3d39ee48be6f8e7cc557969c144e7811", null ],
+    [ "TIMER_SHADOWBOLT", "d8/df3/boss__anubshiah_8cpp.html#a29a0f8102133b2b7a4725af19e7af487", null ]
 ];
