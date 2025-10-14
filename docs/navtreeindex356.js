@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6e0194937dc723d3d95abfea29f859ac":[7,0,0,0,1,4,7,108,39],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6e6bb83078b1f21d133d6fcd60fb7cb9":[7,0,0,0,1,4,7,108,63],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6ea21a0c5450c1518909a1ee49aced35":[7,0,0,0,1,4,7,108,142],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6f4c4b96be2a27a4a697493add6832cf":[7,0,0,0,1,4,7,108,71],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d12/classspell__q12619__emblazon__runeblade.html#a29eb3f3dadd45ccab069222fc36cea09":[6,0,3675,0],
 "de/d12/classspell__q12619__emblazon__runeblade.html#aaa8296439ffe69eafdd1cece8ec346ad":[6,0,3675,1],
 "de/d12/classspell__q12851__going__bearback.html":[6,0,3694],
-"de/d12/classspell__q12851__going__bearback.html#a111ce5c9e70ed563bc7b9c2ec8e79b76":[6,0,3694,0],
-"de/d12/classspell__q12851__going__bearback.html#a707504eccf42af77f6e6e927d208bc8c":[6,0,3694,1]
+"de/d12/classspell__q12851__going__bearback.html#a111ce5c9e70ed563bc7b9c2ec8e79b76":[6,0,3694,0]
 };

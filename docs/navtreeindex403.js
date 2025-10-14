@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dad6302f8ffe09fd98e570bf4426163b94":[7,0,0,0,1,3,5,6,4,55,16],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5daf0cc69d7cd65918e3ba90b32016f9341":[7,0,0,0,1,3,5,6,4,55,12],
 "df/dda/classspell__mage__focus__magic.html":[6,0,3417],
 "df/dda/classspell__mage__focus__magic.html#a5b791c7cb8dae574fef801ce42dc6aa1":[6,0,3417,1],
@@ -112,16 +113,16 @@ var NAVTREEINDEX403 =
 "df/dde/classnpc__rinji.html":[6,0,2084],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2084,2],
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2084,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,726,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,726,0,3],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a16771a7a854f85dcc26e3510d31454af":[6,0,726,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/de5/namespaceAcore_1_1Hyperlinks.html":[5,0,1,7],
 "df/de5/namespaceAcore_1_1Hyperlinks.html#a02761d9aa335689ff1b8dc1155b2a3c6":[5,0,1,7,9],
 "df/de5/namespaceAcore_1_1Hyperlinks.html#a2c5596879f4531eeedbe15d1e4987918":[5,0,1,7,10],
-"df/de7/classOutdoorPvPTF.html":[6,0,2365],
-"df/de7/classOutdoorPvPTF.html#a025bf734eb6357a72f2286822f7cc7c6":[6,0,2365,7]
+"df/de7/classOutdoorPvPTF.html":[6,0,2365]
 };

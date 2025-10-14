@@ -1,5 +1,6 @@
 var NAVTREEINDEX366 =
 {
+"de/d71/classgo__ulduar__working__harpoon.html#a164bdd0a9538293699665a821c4f25f3":[6,0,1201,1],
 "de/d71/classgo__ulduar__working__harpoon.html#a9aaaa16f23f07e402f20a048fd69d347":[6,0,1201,0],
 "de/d72/classFollowerAI.html":[6,0,1055],
 "de/d72/classFollowerAI.html#a0c833da3d0096607828aeeefef2f313b":[6,0,1055,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX366 =
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html":[6,0,1570,0],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2142cebc84e64919fa5c2ef630453282":[6,0,1570,0,0],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c1bbe079c065745782adfa13b030515":[6,0,1570,0,1],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[6,0,1570,0,3],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aac071887c100f91cc7ffc545ea6439d9":[6,0,1570,0,4]
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[6,0,1570,0,3]
 };

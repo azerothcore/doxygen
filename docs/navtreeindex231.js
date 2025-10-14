@@ -1,5 +1,7 @@
 var NAVTREEINDEX231 =
 {
+"d9/d13/classAppender.html#a0efa3e131b7c130a9ece375135682ea4":[6,0,154,8],
+"d9/d13/classAppender.html#a2cf4849307b65727645d3caf4205064f":[6,0,154,13],
 "d9/d13/classAppender.html#a2dd9209b754c6676ef86f1a6f7f2295f":[6,0,154,14],
 "d9/d13/classAppender.html#a33d9f53e1853633d15c78f4edc33e5d3":[6,0,154,11],
 "d9/d13/classAppender.html#a57fad2f7bd4da733633051f47efd6555":[6,0,154,3],
@@ -11,16 +13,16 @@ var NAVTREEINDEX231 =
 "d9/d13/classAppender.html#ae13f18ba2b26260f64aedc1ce1806fef":[6,0,154,10],
 "d9/d13/classAppender.html#ae6c4e7120a54b7069e157fe9a397d455":[6,0,154,9],
 "d9/d13/classAppender.html#aed555d5a182fefce9bb570201e9f005f":[6,0,154,0],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[6,0,11,9,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[5,0,31,9,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[6,0,11,9,4,3],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html":[6,0,11,9,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[5,0,31,9,4,3],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a1765f693918fdd1f51d7b8dc7b2494a2":[6,0,11,9,4,3],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[6,0,11,9,4,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a580e4a3cd77631e960b7753542375d6d":[5,0,31,9,4,5],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[6,0,11,9,4,4],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#a697da64ac234c24fe73e68d408697ee6":[5,0,31,9,4,4],
-"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,31,9,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[6,0,11,9,4,2],
+"d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ab654fc42947c0c783d3a26e6df32b29d":[5,0,31,9,4,2],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[5,0,31,9,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#ae856bb717d6ae4b03775b7bfb026850d":[6,0,11,9,4,0],
 "d9/d13/classWorldPackets_1_1Misc_1_1LevelUpInfo.html#af09dd1c6470516ea9422d22ed22e6d10":[5,0,31,9,4,1],
@@ -244,10 +246,8 @@ var NAVTREEINDEX231 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3259,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3259,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3259,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,12,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,12,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,12,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,12,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,12,2,0],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1]
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,12,2,0]
 };

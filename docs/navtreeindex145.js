@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d5/d4d/classIWorld.html#a2aea79380f6a456208dbce5f1a084510":[6,0,1400,1],
+"d5/d4d/classIWorld.html#a325294771c12b3a097363856a9bdd260":[6,0,1400,29],
 "d5/d4d/classIWorld.html#a32b749f1cf1e1c5c969909bb36c337fa":[6,0,1400,41],
 "d5/d4d/classIWorld.html#a38068b1a5d89536f1e945f21d21d1956":[6,0,1400,20],
 "d5/d4d/classIWorld.html#a3d8424194e6c62e0751d34823740b6e4":[6,0,1400,21],
@@ -127,16 +129,16 @@ var NAVTREEINDEX145 =
 "d5/d52/classspell__the__lich__king__defile.html#a9022b9efab89bc562428520b3551ff37":[6,0,3894,1],
 "d5/d52/classspell__the__lich__king__defile.html#a998b810cdbecbca2bf65f18cee14d286":[6,0,3894,3],
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3894,4],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,6,52],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,6,52,2],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,6,52,3],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,6,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,6,52,1],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,6,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,31,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,31,6,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3377],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[6,0,3377,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[6,0,3377,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a0cf5f0413b1cded835252a38e272f835":[6,0,2255,0,3],
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a65718076e65b68cae0a54ff4112fdb4b":[6,0,2255,0,1],
 "d5/d5e/structnpc__valiance__keep__cannoneer_1_1npc__valiance__keep__cannoneerAI.html#a75f16f2b028ca341db6e08536be06bfa":[6,0,2255,0,2],
-"d5/d5f/classOutdoorPvPHP.html":[6,0,2360],
-"d5/d5f/classOutdoorPvPHP.html#a117149e3db7fa02fdcfab05a6ff6de18":[6,0,2360,5],
-"d5/d5f/classOutdoorPvPHP.html#a19118d7facc4a745e391491fb7d95421":[6,0,2360,0]
+"d5/d5f/classOutdoorPvPHP.html":[6,0,2360]
 };

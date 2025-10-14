@@ -1,5 +1,6 @@
 var NAVTREEINDEX370 =
 {
+"de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a199697361e9df438f94b8b8b408fa004":[7,0,0,0,1,3,7,14,6,8],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a1e5488e704368dac9d9b2bef56535dd4":[7,0,0,0,1,3,7,14,6,3],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a234ce36e5d6eb7a707e5fb680ca34c84":[7,0,0,0,1,3,7,14,6,23],
 "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a25f5325817667cf2fabf195b8c55c84e":[7,0,0,0,1,3,7,14,6,12],
@@ -63,12 +64,12 @@ var NAVTREEINDEX370 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,31,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,31,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,11,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,31,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,11,6,43,1],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,6,43,5],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,31,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,11,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,31,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,11,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,31,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[6,0,11,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,31,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[6,0,11,6,43,2],
@@ -175,12 +176,12 @@ var NAVTREEINDEX370 =
 "de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[5,0,20,0,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,0,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[6,0,6,0,4],
-"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,0,2],
-"de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[6,0,6,0,1],
+"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,0,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[5,0,20,0,1],
-"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,0,3],
+"de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[6,0,6,0,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[5,0,20,0,3],
+"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,0,3],
 "de/da2/classachievement__resilient__victory.html":[6,0,83],
 "de/da2/classachievement__resilient__victory.html#a21445d406f67771a20608260b3f9b033":[6,0,83,1],
 "de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[6,0,83,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX370 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a174946fd7e78a09721b7cd5fef366d78":[7,0,0,0,1,1,0,0,1,1,285],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a1756027a04e366cc7afa9aad46f6f929":[7,0,0,0,1,1,0,0,1,1,448],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a178ff5e37c01b537b78db31f923ec9aa":[7,0,0,0,1,1,0,0,1,1,45],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a17c0210bfb27b9e5e63454af3ca79932":[7,0,0,0,1,1,0,0,1,1,185],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a18817ef3c477b6eb9413bc55c5e9c536":[7,0,0,0,1,1,0,0,1,1,251]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a17c0210bfb27b9e5e63454af3ca79932":[7,0,0,0,1,1,0,0,1,1,185]
 };

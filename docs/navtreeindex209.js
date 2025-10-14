@@ -1,5 +1,7 @@
 var NAVTREEINDEX209 =
 {
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a97550fc0161d7b942d2ce0b40f6592":[7,0,0,0,1,3,7,2,0,5,3,1],
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa0a7a9fa54d48f1012726646e8d584f5":[7,0,0,0,1,3,7,2,0,5,3,11],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298caac67da3612ed49374d883e0b2bc17258":[7,0,0,0,1,3,7,2,0,5,3,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298caafc57480a93bc06e3b8e84c37530d38d":[7,0,0,0,1,3,7,2,0,5,3,8],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298cab3364a2d5e3f2d23a63981fdb298524c":[7,0,0,0,1,3,7,2,0,5,3,0],
@@ -125,12 +127,12 @@ var NAVTREEINDEX209 =
 "d8/d03/structDungeonEncounterEntry.html#af4f26f56526b945e392ddaf6b2d43fa1":[6,0,994,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[6,0,0,4,0,7],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html":[5,0,1,7,0,7],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[6,0,0,4,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[7,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[6,0,468,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376ab102180ca5b128f6a6454fc6c45f59d9":[7,0,0,0,1,3,9,12,27,0],
 "d8/d09/classFormulaScript.html":[6,0,1063],
 "d8/d09/classFormulaScript.html#a0c850c1a09bc78a4ceee5f27615d50d7":[6,0,1063,0],
-"d8/d09/classFormulaScript.html#a1098d29595b4f9206cccf3c3c1dad5f3":[6,0,1063,7],
-"d8/d09/classFormulaScript.html#a2208a5684c95b936aa9ca1ae863d9682":[6,0,1063,3],
-"d8/d09/classFormulaScript.html#a54a5e523ad5a9d3eb2dd061ced2d209f":[6,0,1063,8]
+"d8/d09/classFormulaScript.html#a1098d29595b4f9206cccf3c3c1dad5f3":[6,0,1063,7]
 };

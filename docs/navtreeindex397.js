@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"df/dc5/structTransportTemplate.html#aea9903b7c5643061dc9f401e78d3dfd3":[6,0,4201,3],
 "df/dc5/structTransportTemplate.html#aef4781a37808827e3ceaffc782c3af1e":[6,0,4201,0],
 "df/dc5/structTransportTemplate.html#afc385d824c171d13a184bc0a16121110":[6,0,4201,1],
 "df/dc7/classOPvPCapturePointEP__PWT.html":[6,0,2338],
@@ -15,10 +16,10 @@ var NAVTREEINDEX397 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2338,8],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,31,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,31,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,31,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,31,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,31,2,1,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
 "df/dc8/AccountScript_8cpp.html#a737db11e5096ba1c596f469d64c2cc97":[7,0,0,0,1,2,38,0,0,0],
 "df/dc8/AppenderConsole_8h.html":[7,0,0,0,0,9,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a96ff03de70b433e2ff5c35f50d062c55":[6,0,2075,0,9],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ab9e42364744d89301944b7baa852bc9f":[6,0,2075,0,10],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ad930520b705ab63f903f7b68d660adbb":[6,0,2075,0,4],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ade38de77f83da2f084a9ad3f8ada01d3":[6,0,2075,0,1],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ae5289a2645f3d17da452810b22a77713":[6,0,2075,0,12]
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ade38de77f83da2f084a9ad3f8ada01d3":[6,0,2075,0,1]
 };

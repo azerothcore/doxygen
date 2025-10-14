@@ -1,5 +1,7 @@
 var NAVTREEINDEX138 =
 {
+"d4/dd8/structAchievementCriteriaData.html#aaddf9d4d29c70dacea12046ccd97e86c":[6,0,110,14],
+"d4/dd8/structAchievementCriteriaData.html#ab81e576de595f9bccfceccad550af4b2":[6,0,110,52],
 "d4/dd8/structAchievementCriteriaData.html#ab933b3028a3d90c87fa071c38cb24813":[6,0,110,43],
 "d4/dd8/structAchievementCriteriaData.html#abedd0fbd952a3e4b0e8eb52818c5f958":[6,0,110,47],
 "d4/dd8/structAchievementCriteriaData.html#ac5b25a3f590d333d1f006517eebca8f9":[6,0,110,24],
@@ -148,8 +150,8 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1047,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,31,18],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,18],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,31,18,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,18,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,31,18,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1892,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1892,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1892,0,0],
@@ -237,17 +239,15 @@ var NAVTREEINDEX138 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a85d27ac9fb0b9dbb92b2b17a99eaa612":[6,0,1643,0,3],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#ad7251cda20f3e2821077d2327528fd2d":[6,0,1643,0,2],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[6,0,1643,0,7],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[5,0,31,6,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[6,0,11,6,35],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,31,6,35,1],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[5,0,31,6,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[6,0,11,6,35,1],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,31,6,35,1],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[6,0,11,6,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,31,6,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[6,0,11,6,35,3],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[5,0,31,6,35,3],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[5,0,31,6,35,2],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[6,0,11,6,35,2],
-"d4/de2/classlfg__commandscript.html":[6,0,1412],
-"d4/de2/classlfg__commandscript.html#a2376288a2ef82d8a19602cd66ff880f2":[6,0,1412,3],
-"d4/de2/classlfg__commandscript.html#a324310f9b04675c277ceae44ea09fbaf":[6,0,1412,1]
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#ac3ae572bb65d5ea156151e5fc7abf5b8":[5,0,31,6,35,2],
+"d4/de2/classlfg__commandscript.html":[6,0,1412]
 };

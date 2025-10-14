@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3b/classspell__kormok__summon__bone__minions.html":[6,0,3381],
 "dd/d3b/classspell__kormok__summon__bone__minions.html#a034195e58f02225c172b70c3967fe3ad":[6,0,3381,1],
 "dd/d3b/classspell__kormok__summon__bone__minions.html#a03f8c24445ee4ac82a4cf2caece38f90":[6,0,3381,0],
 "dd/d3b/classspell__kormok__summon__bone__minions.html#a8ac78c00c49b1eb2fade4100a810d367":[6,0,3381,3],
@@ -229,18 +230,18 @@ var NAVTREEINDEX326 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,28,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,28,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,28,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
-"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,28,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,28,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,457,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,457,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,457,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a4a8b45eb85c1328af6beec69f2db1842":[6,0,457,0,5],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a4ee3163afcda23102d639740fd628f39":[6,0,457,0,3],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a640036111dcd14e40016342ffdef7d63":[6,0,457,0,7],
-"dd/d3f/structboss__falric_1_1boss__falricAI.html#a8b333fe1571f98b4e9f44152d130a22d":[6,0,457,0,0],
-"dd/d3f/structboss__falric_1_1boss__falricAI.html#aa94ca00db157378071b78142b213de23":[6,0,457,0,8]
+"dd/d3f/structboss__falric_1_1boss__falricAI.html#a8b333fe1571f98b4e9f44152d130a22d":[6,0,457,0,0]
 };

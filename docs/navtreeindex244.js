@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e":[7,0,0,0,1,3,2,1,0,14,8,0],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ce":[7,0,0,0,1,3,2,1,0,14,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937cea5c4d361adb271b629d0c1cc8dbd7f85d":[7,0,0,0,1,3,2,1,0,14,4,2],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937ceaa870a0450434115486a875748b1516ad":[7,0,0,0,1,3,2,1,0,14,4,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a1b739772d9e8937e0f81dda0d28937cead4b3ebc1d8570c9223664c6afd3b6689":[7,0,0,0,1,3,2,1,0,14,4,3],
@@ -29,10 +31,10 @@ var NAVTREEINDEX244 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/dd2/classtitles__commandscript.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d":[6,0,4180,3],
 "d9/dd2/classtitles__commandscript.html#ac088fd907013150a0508b79c99f6c2f3":[6,0,4180,0],
 "d9/dd2/classtitles__commandscript.html#af7d00111b3190f8bc9c46cedda3621d6":[6,0,4180,1],
-"d9/dd2/structoutdoorpvp__na__halaa__creatures.html":[6,0,2352],
-"d9/dd2/structoutdoorpvp__na__halaa__creatures.html#a16c8cb2d19396e6db4700a37e0d02feb":[6,0,2352,1],
-"d9/dd2/structoutdoorpvp__na__halaa__creatures.html#a9656bb7620967f1c9db6ff28a1c6bfe2":[6,0,2352,0]
+"d9/dd2/structoutdoorpvp__na__halaa__creatures.html":[6,0,2352]
 };

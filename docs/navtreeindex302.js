@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4d20aa2066110c45ea06024dda04bb32":[6,0,670,0,1],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4ea0982f190aa21077b6237cac4e4368":[6,0,670,0,12],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5b73fdcb503cef89e87a1e50cc11e825":[6,0,670,0,14],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5cdc692e17c3d331f1f1b12c8160408e":[6,0,670,0,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d1d/classnpc__scarlet__courier.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5":[6,0,2100,2],
 "dc/d1d/classnpc__scarlet__courier.html#ac9bb46ff40bdf5c83d55c14e52243004":[6,0,2100,1],
 "dc/d1d/classspell__q12611__deathbolt.html":[6,0,3674],
-"dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3674,0],
-"dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3674,2]
+"dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3674,0]
 };

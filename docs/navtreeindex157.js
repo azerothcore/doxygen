@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"d5/dd8/structCreatureAddon.html":[6,0,916],
+"d5/dd8/structCreatureAddon.html#a20695ff7997e1ebd6fe898a8b41aeddb":[6,0,916,0],
 "d5/dd8/structCreatureAddon.html#a4d84276a45de1b62e507ac5c763dce3a":[6,0,916,4],
 "d5/dd8/structCreatureAddon.html#a82f7be10807af7b25dd41c643be066fc":[6,0,916,3],
 "d5/dd8/structCreatureAddon.html#aa86bac734e0e652b6bb4ea273cf62571":[6,0,916,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a03e885f46c880c24a27a11e84fafc295":[6,0,1339,0,4],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a062e0a35de2b60655434aeaae97c980b":[6,0,1339,0,23],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a07009c1f4c3d278fb620bf5d01cea76f":[6,0,1339,0,32],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a0d625756414ac9dd88a9b3f2e36a4bce":[6,0,1339,0,10],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a1deb1d344704fa07ab78ad29f21814e4":[6,0,1339,0,21],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a22ba7cb52076decbbbd73cb7898d88eb":[6,0,1339,0,11]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a0d625756414ac9dd88a9b3f2e36a4bce":[6,0,1339,0,10]
 };

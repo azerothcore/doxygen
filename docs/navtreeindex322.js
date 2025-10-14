@@ -1,6 +1,7 @@
 var NAVTREEINDEX322 =
 {
 "dd/d13/classDBCFile.html#af9946ba472555e6f3d38d124759d3e4d":[6,0,956,13],
+"dd/d13/classDBCFile.html#af9946ba472555e6f3d38d124759d3e4d":[6,0,956,12],
 "dd/d13/classspell__request__second__mug.html":[6,0,3739],
 "dd/d13/classspell__request__second__mug.html#a051d0fe383e5675e39e4ac8ed7a6e329":[6,0,3739,2],
 "dd/d13/classspell__request__second__mug.html#a56f71954e122f651c6e2ec68453e16cc":[6,0,3739,3],
@@ -17,10 +18,10 @@ var NAVTREEINDEX322 =
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a44261fbc379b3137548922faf4b5cbda":[6,0,11,6,19,5],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a66284a4d9cb40b025ef265d443e6e62f":[5,0,31,6,19,3],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a66284a4d9cb40b025ef265d443e6e62f":[6,0,11,6,19,3],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a75a219a9e2ab677a41920f39a1613a1b":[6,0,11,6,19,4],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a75a219a9e2ab677a41920f39a1613a1b":[5,0,31,6,19,4],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[5,0,31,6,19,2],
+"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a75a219a9e2ab677a41920f39a1613a1b":[6,0,11,6,19,4],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[6,0,11,6,19,2],
+"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[5,0,31,6,19,2],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#ac261ff0102489efb4d69bd866ffc9283":[6,0,11,6,19,1],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#ac261ff0102489efb4d69bd866ffc9283":[5,0,31,6,19,1],
 "dd/d14/classnpc__rotting__frost__giant.html":[6,0,2092],
@@ -135,8 +136,8 @@ var NAVTREEINDEX322 =
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,67,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,55,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,55,1],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
 "dd/d1b/classhonor__commandscript.html":[6,0,1269],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d22/structnpc__icc__lk__checktarget_1_1npc__icc__lk__checktargetAI.html#a4dfce75e23f1093c3de0ce75b049a20a":[6,0,1869,0,1],
 "dd/d22/structnpc__icc__lk__checktarget_1_1npc__icc__lk__checktargetAI.html#a9a5953a9353be61a3fa96eaf7df7c489":[6,0,1869,0,0],
 "dd/d23/classGuardAI.html":[6,0,1250],
-"dd/d23/classGuardAI.html#a238f38bd3fc7cfa8ace3549f4a6199fb":[6,0,1250,3],
-"dd/d23/classGuardAI.html#a91b12b6a50641d17a79550b9ffb5284a":[6,0,1250,4]
+"dd/d23/classGuardAI.html#a238f38bd3fc7cfa8ace3549f4a6199fb":[6,0,1250,3]
 };

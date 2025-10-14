@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"d5/d2a/structBattlemasterListEntry.html#adbdae47b424c3b61b76b48ea5798f52d":[6,0,342,3],
+"d5/d2c/namespaceAcore_1_1Asio.html":[5,0,1,0],
 "d5/d2c/namespaceAcore_1_1Asio.html#a47f8fe35925492e3f01d723115279f2e":[5,0,1,0,4],
 "d5/d2c/namespaceAcore_1_1Asio.html#ac437e3511a92ead72c7d3c1f6004daaf":[5,0,1,0,5],
 "d5/d2d/classMySQLPreparedStatement.html":[6,0,1541],
@@ -169,8 +171,8 @@ var NAVTREEINDEX143 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[6,0,1105,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[6,0,1105,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1105,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,102],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d40/classspell__item__refocus.html#aeda7eba9ab0b80b549976a4db6e9712c":[6,0,3300,0],
 "d5/d41/boss__gruul_8cpp.html":[7,0,0,0,1,3,7,3,0],
 "d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,3,0,8],
-"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,3,0,8,4],
-"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a1f38bf94f4f9d356d78a6a5e408dfd96":[7,0,0,0,1,3,7,3,0,8,5],
-"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,3,0,8,0]
+"d5/d41/boss__gruul_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,3,0,8,4]
 };

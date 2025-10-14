@@ -1,5 +1,7 @@
 var NAVTREEINDEX274 =
 {
+"da/dfe/structCreatureTextId.html#af1d1f3f310c219c32ca9b8917d8fb67d":[6,0,936,3],
+"da/dfe/structGtChanceToSpellCritBaseEntry.html":[6,0,1240],
 "da/dfe/structGtChanceToSpellCritBaseEntry.html#ad5e8b55760b9007284e8acf719d7647c":[6,0,1240,0],
 "da/dff/classspell__blood__council__summon__shadow__resonance.html":[6,0,2664],
 "da/dff/classspell__blood__council__summon__shadow__resonance.html#a86609d6cd708de9ead02c6134cbb6f64":[6,0,2664,0],
@@ -50,8 +52,8 @@ var NAVTREEINDEX274 =
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX274 =
 "db/d0f/structnpc__ahune__bunny.html#ae28e0d2dbaab082488d5582b75cd8482":[6,0,1574,0],
 "db/d0f/structnpc__ahune__bunny.html#af84154fff16cbdb15586b3b07223e010":[6,0,1574,6],
 "db/d10/ModelInstance_8h.html":[7,0,0,0,0,1,2,4],
-"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccce":[7,0,0,0,0,1,2,4,2],
-"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46":[7,0,0,0,0,1,2,4,2,1],
-"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2]
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccce":[7,0,0,0,0,1,2,4,2]
 };

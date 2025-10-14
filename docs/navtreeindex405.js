@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/df3/structboss__grand__warlock__nethekurse.html#a8288f8c28b61dac574254435534b5e3f":[6,0,506,1],
 "df/df3/structboss__grand__warlock__nethekurse.html#a8837d810df1d8b8a505d2d6c98ac8be8":[6,0,506,13],
 "df/df3/structboss__grand__warlock__nethekurse.html#a886a0e792cf5ac6afa9670703cb568ff":[6,0,506,12],
 "df/df3/structboss__grand__warlock__nethekurse.html#a9c577798d5bc87654e6984af02d95c34":[6,0,506,10],
@@ -52,7 +53,7 @@ var NAVTREEINDEX405 =
 "df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[6,0,3600,3],
 "df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[6,0,3600,0],
 "df/df6/structHealthCheckEventData.html":[6,0,1262],
-"df/df6/structHealthCheckEventData.html#a1b28487d683827c43d1a8054678bdb73":[6,0,1262,0],
+"df/df6/structHealthCheckEventData.html#a2610f9688b27212eb3470f55718c61f0":[6,0,1262,0],
 "df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311":[6,0,1262,3],
 "df/df6/structHealthCheckEventData.html#a420edc39ff982d55ae82207a0cfe7689":[6,0,1262,8],
 "df/df6/structHealthCheckEventData.html#a66c38460690d77fb021c91fa676c3a12":[6,0,1262,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "dir_8303d6c15c2da3f083d7d0da7d55e7c8.html":[7,0,0,0,2,2,0,2],
 "dir_8439b06d1222f15d9722cd90fc7c13a2.html":[7,0,0,0,1,3,2,3],
 "dir_847bfdbe3e0168e0f84c6c83bf557aa9.html":[7,0,0,0,1,3,5,8,0],
-"dir_86b42cc1a54e6d04672764bc481d77b5.html":[7,0,0,0,1,3,3,0],
-"dir_87d82bd3a9fae8fbcd48bbc4fd72b131.html":[7,0,0,0,1,3,7,4,2]
+"dir_86b42cc1a54e6d04672764bc481d77b5.html":[7,0,0,0,1,3,3,0]
 };

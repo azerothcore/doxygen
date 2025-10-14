@@ -1,5 +1,7 @@
 var NAVTREEINDEX255 =
 {
+"da/d48/classnpc__spinestalker.html#a725f1b1db90d700772bfb76e0f85f1f3":[6,0,2132,2],
+"da/d48/structICNpc.html":[6,0,1280],
 "da/d48/structICNpc.html#a0ebd9ea966eb66cf80b8f3c003db60c0":[6,0,1280,1],
 "da/d48/structICNpc.html#a2238cabe763a588a5572611e0aefe6ba":[6,0,1280,0],
 "da/d48/structICNpc.html#a34de8c83a7bc8b33ac0cabdfb1bd3459":[6,0,1280,4],
@@ -34,14 +36,14 @@ var NAVTREEINDEX255 =
 "da/d4a/classspell__torch__tossing__training.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b":[6,0,3931,2],
 "da/d4a/classspell__torch__tossing__training.html#acf650fe6fe65164c12fbb06b45e092c9":[6,0,3931,0],
 "da/d4b/GuardAI_8h.html":[7,0,0,0,1,2,3,0,5],
-"da/d4b/classAcore_1_1SignalHandler.html":[5,0,1,117],
 "da/d4b/classAcore_1_1SignalHandler.html":[6,0,0,105],
-"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[6,0,0,105,3],
+"da/d4b/classAcore_1_1SignalHandler.html":[5,0,1,117],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,1,117,3],
-"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[6,0,0,105,2],
+"da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[6,0,0,105,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,1,117,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,105,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[6,0,0,105,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,1,117,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,105,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[6,0,0,105,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,1,117,0],
 "da/d4b/classCastArmageddon.html":[6,0,837],
@@ -247,7 +249,5 @@ var NAVTREEINDEX255 =
 "da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330":[7,0,0,0,1,2,25,1,9,1],
 "da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d":[7,0,0,0,1,2,25,1,9,3],
 "da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c":[7,0,0,0,1,2,25,1,9,2],
-"da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258":[7,0,0,0,1,2,25,1,9,4],
-"da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a":[7,0,0,0,1,2,25,1,9,0],
-"da/d4f/classachievement__xt002__nerf__gravity__bombs.html":[6,0,104]
+"da/d4f/Mail_8h.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258":[7,0,0,0,1,2,25,1,9,4]
 };

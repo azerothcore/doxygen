@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[6,0,3953,0],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a35a7758630c1769228fedff84ad929e8":[6,0,3953,2],
 "df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[6,0,3953,1],
 "df/d7c/structboss__taldaram.html":[6,0,718],
@@ -82,14 +83,14 @@ var NAVTREEINDEX390 =
 "df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,426,4],
 "df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,426,12],
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,426,6],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,31,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,31,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,31,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,6,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,31,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,31,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,31,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,31,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,11,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,31,6,36,1],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html":[6,0,597,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a2b39a384ac7133aa013e21b0e873c4e2":[6,0,597,0,8],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a4c9bd060e62f1c4d3819350bf549a39a":[6,0,597,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faabd648726170895695e74b2c960e1b50":[7,0,0,0,1,3,5,9,2,4,42,23],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faad52a5bfe620f3f58b4d743c7003f79b":[7,0,0,0,1,3,5,9,2,4,42,67],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fab9fd2e0e260691d1930affba1bfd7934":[7,0,0,0,1,3,5,9,2,4,42,9],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faba75bf71c6edb08e61e849a79033bc04":[7,0,0,0,1,3,5,9,2,4,42,36],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabb7aab4925f7809c409cd469c06787f7":[7,0,0,0,1,3,5,9,2,4,42,68]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faba75bf71c6edb08e61e849a79033bc04":[7,0,0,0,1,3,5,9,2,4,42,36]
 };

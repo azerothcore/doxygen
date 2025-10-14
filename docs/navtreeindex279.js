@@ -1,5 +1,7 @@
 var NAVTREEINDEX279 =
 {
+"db/d51/classspell__dk__death__gate.html#a931d7a6aa2f1b574c225d3e803edbab4":[6,0,2767,0],
+"db/d51/classspell__dk__death__gate.html#ab184b23aa446c826db39928eb3ff3ecc":[6,0,2767,3],
 "db/d52/boss__eck_8cpp.html":[7,0,0,0,1,3,5,5,1],
 "db/d52/boss__eck_8cpp.html#a1cb981f8cde0e4abfb38b82efb4fadfb":[7,0,0,0,1,3,5,5,1,4],
 "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,5,1,2],
@@ -61,10 +63,10 @@ var NAVTREEINDEX279 =
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,12],
 "db/d53/boss__prince__taldaram_8cpp.html#aba2148c075727cb24738046dd2f9e8ae":[7,0,0,0,1,3,5,0,0,5,5],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2230,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX279 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac":[7,0,0,0,1,2,3,0,9,1,7],
 "db/d5e/classspell__gruul__shatter__effect.html":[6,0,3063],
 "db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a":[6,0,3063,0],
-"db/d5e/classspell__gruul__shatter__effect.html#a197fce87e22a3e4055cabbb925b13aa1":[6,0,3063,1],
-"db/d5e/classspell__gruul__shatter__effect.html#aac3c6a6b34af795cb08fc299e763f6a8":[6,0,3063,2],
-"db/d5f/IPLocation_8cpp.html":[7,0,0,0,0,8,0]
+"db/d5e/classspell__gruul__shatter__effect.html#a197fce87e22a3e4055cabbb925b13aa1":[6,0,3063,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX214 =
 {
+"d8/d4b/classObject.html#a4b62be47cbc5fd5a051e250c363b8bdc":[6,0,2320,20],
+"d8/d4b/classObject.html#a4c613745685559316e2eb38a3c84391a":[6,0,2320,9],
 "d8/d4b/classObject.html#a4e3d8fcd13270a10fa1509178c9399eb":[6,0,2320,49],
 "d8/d4b/classObject.html#a4fa288b272e9ae7e10a3d7cf1e5fb29f":[6,0,2320,55],
 "d8/d4b/classObject.html#a4feda5e6ca74034f95bd463f44352854":[6,0,2320,14],
@@ -182,14 +184,14 @@ var NAVTREEINDEX214 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02":[6,0,1938,0,5],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[6,0,1938,0,3],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[6,0,1938,0,6],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,76],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,64],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,64,2],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,76],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,76,2],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,64,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,76,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[6,0,0,64,1],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[6,0,0,64,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[5,0,1,76,3],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[6,0,0,64,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[6,0,0,64,0],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[5,0,1,76,0],
 "d8/d54/classspell__the__black__stalker__levitate.html":[6,0,3886],
@@ -246,8 +248,6 @@ var NAVTREEINDEX214 =
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#acf062337317d98e491e40cf6ae9bb3ea":[6,0,1567,0,0],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#ae1ff67fb743b4125b015c1ecce4bc9db":[6,0,1567,0,5],
 "d8/d57/structnpc__a__special__surprise_1_1npc__a__special__surpriseAI.html#af0b183b951f1eba8114da1f7a1284d09":[6,0,1567,0,2],
-"d8/d58/classAcore_1_1RaidCheck.html":[5,0,1,113],
 "d8/d58/classAcore_1_1RaidCheck.html":[6,0,0,101],
-"d8/d58/classAcore_1_1RaidCheck.html#a0c076b737e8e1eacb9aab0981ff66f51":[6,0,0,101,1],
-"d8/d58/classAcore_1_1RaidCheck.html#a0c076b737e8e1eacb9aab0981ff66f51":[5,0,1,113,1]
+"d8/d58/classAcore_1_1RaidCheck.html":[5,0,1,113]
 };

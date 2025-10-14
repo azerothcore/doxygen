@@ -1,5 +1,7 @@
 var NAVTREEINDEX151 =
 {
+"d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[7,0,0,0,1,2,43,1,10],
+"d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40a08a09aed9108054a1ffb663d6be0a95e":[7,0,0,0,1,2,43,1,10,0],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40a39e587cb50470c90ae82c9d1570e1896":[7,0,0,0,1,2,43,1,10,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40abdad221a4e0aac30acd6b1989781f190":[7,0,0,0,1,2,43,1,10,1],
 "d5/da0/TicketMgr_8h.html#a620665e68b03e8238c0f67a7d156ff20":[7,0,0,0,1,2,43,1,8],
@@ -206,16 +208,16 @@ var NAVTREEINDEX151 =
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a447c2cd258d784ca1d79c79412a1a426":[6,0,2027,0],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a694ee5f884f1bd404f0ef3d3030a212f":[6,0,2027,3],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#ac68f18d68a313623c04e885f9506f287":[6,0,2027,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,10,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,10,3],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,10,3,2],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,10,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,11,10,3,2],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,10,3,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,10,3,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,10,3,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,10,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,10,3,4],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,10,3,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,10,3,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,10,3,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,10,3,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,31,10,3,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,10,3,3],
 "d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX151 =
 "d5/dab/structIntervalTimer.html#a2538976b639e25e63a8ab5927663ade1":[6,0,1368,0],
 "d5/dab/structIntervalTimer.html#a28d95330f971d3a37aaf53e4f16aad4a":[6,0,1368,6],
 "d5/dab/structIntervalTimer.html#a93a456d6ff6d74cc889517fc585626e8":[6,0,1368,1],
-"d5/dab/structIntervalTimer.html#a986bec1dcb7325088517f6721636abcc":[6,0,1368,2],
-"d5/dab/structIntervalTimer.html#a99c5aec27af00ffbbd83c5adbd2e2016":[6,0,1368,8],
-"d5/dab/structIntervalTimer.html#a9b3ac2407baf9763fa899e35a5c55fbe":[6,0,1368,3]
+"d5/dab/structIntervalTimer.html#a986bec1dcb7325088517f6721636abcc":[6,0,1368,2]
 };

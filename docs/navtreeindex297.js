@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/de9/classboss__thorim__pillar.html#a7a2cbafc1d359d7b33bb735342cdfe2d":[6,0,739,1],
 "db/de9/classboss__thorim__pillar.html#af95d5e819292af9b54a022674b74af70":[6,0,739,2],
 "db/de9/classspell__pursue.html":[6,0,3592],
 "db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3592,0],
@@ -166,10 +167,10 @@ var NAVTREEINDEX297 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1526,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,6,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/df2/classHealInfo.html#af2fd7934b1b1cd08dd4dcfeadc9c02df":[6,0,1261,15],
 "db/df2/classHealInfo.html#af95a6d6c94a72874c150a3deabce20ee":[6,0,1261,4],
 "db/df2/structGossipMenuItems.html":[6,0,1212],
-"db/df2/structGossipMenuItems.html#a0b73f7ce36e7703725e6b0d01c2a4564":[6,0,1212,9],
-"db/df2/structGossipMenuItems.html#a12882942190a9a568b9dc30214ee6a88":[6,0,1212,2]
+"db/df2/structGossipMenuItems.html#a0b73f7ce36e7703725e6b0d01c2a4564":[6,0,1212,9]
 };

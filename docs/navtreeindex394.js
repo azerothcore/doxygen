@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"df/da2/classPoolGroup.html#a1ac0f26dc780d8320d70430a3c78c21f":[6,0,2432,14],
 "df/da2/classPoolGroup.html#a1d042f8e7dfbb20edac8121f7a4c1c46":[6,0,2432,11],
 "df/da2/classPoolGroup.html#a20e8e8f1db5333436f339ee5805900f2":[6,0,2432,7],
 "df/da2/classPoolGroup.html#a235cd9ecd41ebd961b5b91ffc6b5e8cd":[6,0,2432,6],
@@ -61,14 +62,14 @@ var NAVTREEINDEX394 =
 "df/da5/classspell__ice__spear__control__aura.html#a94bee50f214d0a61fa81c4cca1b38fb2":[6,0,3162,0],
 "df/da5/classspell__ice__spear__control__aura.html#ade8d57db324f02734e1752f49976dc9d":[6,0,3162,3],
 "df/da5/classspell__ice__spear__control__aura.html#ae1479b53d8c0575947a7ce7cae4747c4":[6,0,3162,2],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[6,0,11,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[5,0,31,1,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,11,1,0,1],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[6,0,11,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[5,0,31,1,0,1],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,11,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[6,0,11,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,31,1,0,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,11,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,31,1,0,2],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,11,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[6,0,3065],
 "df/da6/classspell__gurtogg__eject.html#a21740b341acce23e284a3d4ceea9b6e0":[6,0,3065,0],
 "df/da6/classspell__gurtogg__eject.html#aad6959f74932db219e991efd3b3af44a":[6,0,3065,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#aa0b5122402b27314d7c46e05fec88e1a":[6,0,312,84],
 "df/da7/classBattleground.html#aa1eb8678ca1f6599e497ecce2df37624":[6,0,312,102],
 "df/da7/classBattleground.html#aa24da8c1e9ae0d11941e2ccdf053f022":[6,0,312,224],
-"df/da7/classBattleground.html#aa581b911d9d56c719740195687e298bb":[6,0,312,143],
-"df/da7/classBattleground.html#aa6cccb08a3e0650487dbd564f9dc07a0":[6,0,312,19]
+"df/da7/classBattleground.html#aa581b911d9d56c719740195687e298bb":[6,0,312,143]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"df/d9b/structboss__jarien.html#a06b02c7f7dff885a86609e0116f2fd96":[6,0,555,9],
 "df/d9b/structboss__jarien.html#a19e07a3da93e487b5984a8de0c7f26c9":[6,0,555,0],
 "df/d9b/structboss__jarien.html#a2e54c5ae404be944eeff3a57c96aa8ca":[6,0,555,2],
 "df/d9b/structboss__jarien.html#a418380b56f3432b5aec84737012f4693":[6,0,555,3],
@@ -134,22 +135,22 @@ var NAVTREEINDEX393 =
 "df/d9e/structMMAP_1_1MeshData.html":[6,0,6,4],
 "df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[5,0,20,4,2],
 "df/d9e/structMMAP_1_1MeshData.html#a52796933ab018f27d12f625673f7f8a9":[6,0,6,4,2],
-"df/d9e/structMMAP_1_1MeshData.html#a56bbdeb5028302de0c5eb5a02cffa44c":[5,0,20,4,4],
 "df/d9e/structMMAP_1_1MeshData.html#a56bbdeb5028302de0c5eb5a02cffa44c":[6,0,6,4,4],
+"df/d9e/structMMAP_1_1MeshData.html#a56bbdeb5028302de0c5eb5a02cffa44c":[5,0,20,4,4],
 "df/d9e/structMMAP_1_1MeshData.html#a58350c36d5b88fe255880f6c217d4ef9":[5,0,20,4,3],
 "df/d9e/structMMAP_1_1MeshData.html#a58350c36d5b88fe255880f6c217d4ef9":[6,0,6,4,3],
 "df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[5,0,20,4,5],
 "df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[6,0,6,4,5],
-"df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[6,0,6,4,7],
 "df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[5,0,20,4,7],
+"df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[6,0,6,4,7],
 "df/d9e/structMMAP_1_1MeshData.html#a915387c2cfa7111de4a957646a2aace4":[5,0,20,4,9],
 "df/d9e/structMMAP_1_1MeshData.html#a915387c2cfa7111de4a957646a2aace4":[6,0,6,4,9],
 "df/d9e/structMMAP_1_1MeshData.html#ad166656bfa449d3093cb23e7bef2cc76":[6,0,6,4,0],
 "df/d9e/structMMAP_1_1MeshData.html#ad166656bfa449d3093cb23e7bef2cc76":[5,0,20,4,0],
 "df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[5,0,20,4,8],
 "df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[6,0,6,4,8],
-"df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[6,0,6,4,6],
 "df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[5,0,20,4,6],
+"df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[6,0,6,4,6],
 "df/d9e/structMMAP_1_1MeshData.html#afbbb20fcb4e597c2addcc47893a33f92":[6,0,6,4,1],
 "df/d9e/structMMAP_1_1MeshData.html#afbbb20fcb4e597c2addcc47893a33f92":[5,0,20,4,1],
 "df/da0/classspell__item__fetch__ball.html":[6,0,3252],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187f":[7,0,0,0,1,2,7,2,5],
 "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010":[7,0,0,0,1,2,7,2,5,0],
 "df/da2/classPoolGroup.html":[6,0,2432],
-"df/da2/classPoolGroup.html#a05ceb647a0702cc1e2b97b040b8edcf8":[6,0,2432,12],
-"df/da2/classPoolGroup.html#a1ac0f26dc780d8320d70430a3c78c21f":[6,0,2432,14]
+"df/da2/classPoolGroup.html#a05ceb647a0702cc1e2b97b040b8edcf8":[6,0,2432,12]
 };

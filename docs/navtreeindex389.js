@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a07a6b1e14855eaaf023a4ca6c1ddfb32":[7,0,0,0,1,3,5,1,0,0,17,1],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a0ff642014e871005007bc3ea69a72f69":[7,0,0,0,1,3,5,1,0,0,17,25],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a1062c7a6d406daee37f5167ad66ccb7a":[7,0,0,0,1,3,5,1,0,0,17,8],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a37191cdc843aa3fe0d584b06596a4d97":[7,0,0,0,1,3,5,1,0,0,17,19],
@@ -164,8 +165,8 @@ var NAVTREEINDEX389 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2804,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2804,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2804,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,118],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2772],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2772,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2772,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[6,0,2464,0],
 "df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[6,0,2464,2],
 "df/d7b/structQuestGreeting.html#aa5189cb250b3f46086ecd69dee23414b":[6,0,2464,1],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[6,0,3953],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[6,0,3953,0]
+"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[6,0,3953]
 };

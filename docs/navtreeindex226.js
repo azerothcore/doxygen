@@ -1,5 +1,7 @@
 var NAVTREEINDEX226 =
 {
+"d8/dd8/ObjectMgr_8cpp.html#abc01124dd1fecdf98bbe1948541557b0":[7,0,0,0,1,2,18,2,4],
+"d8/dd8/ObjectMgr_8cpp.html#acc60b4b0ead06280f2b3289f8da57cb9":[7,0,0,0,1,2,18,2,11],
 "d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1":[7,0,0,0,1,2,18,2,20],
 "d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34":[7,0,0,0,1,2,18,2,0],
 "d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c":[7,0,0,0,1,2,18,2,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX226 =
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a848fbc5aa8a497ae01057c6f0ba59e7a":[6,0,526,0,9],
 "d8/ddf/structboss__heigan_1_1boss__heiganAI.html#a9009ae9392e183758a48ebe59b9c0cf0":[6,0,526,0,7],
 "d8/de0/BattlegroundSA_8h.html":[7,0,0,0,1,2,8,1,19],
-"d8/de0/BattlegroundSA_8h.html#a10f9b0e47e9f7cab36a6148a69fd9277":[7,0,0,0,1,2,8,1,19,5],
-"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675":[7,0,0,0,1,2,8,1,19,9],
-"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a1a78f58ff71eedf3c6ab08e93805495d":[7,0,0,0,1,2,8,1,19,9,1]
+"d8/de0/BattlegroundSA_8h.html#a10f9b0e47e9f7cab36a6148a69fd9277":[7,0,0,0,1,2,8,1,19,5]
 };

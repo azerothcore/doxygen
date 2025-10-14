@@ -256,7 +256,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1694</span>            <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = childrenList.begin(); itr != childrenList.end(); ++itr)</div>
 <div class="line"><span class="lineno"> 1695</span>            {</div>
 <div class="line"><span class="lineno"> 1696</span>                player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a05924f5e9df8d5f06ba422e159a4fd8a">KilledMonsterCredit</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a577a6598330417dc1d106fea0bbd214f">NPC_CAPTIVE_CHILD</a>, (*itr)-&gt;GetGUID());</div>
-<div class="line"><span class="lineno"> 1697</span>                (*itr)-&gt;DespawnOrUnsummon(5000);</div>
+<div class="line"><span class="lineno"> 1697</span>                (*itr)-&gt;DespawnOrUnsummon(5s);</div>
 <div class="line"><span class="lineno"> 1698</span>                (*itr)-&gt;GetMotionMaster()-&gt;MovePoint(1, go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>() + 5, go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), go-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>());</div>
 <div class="line"><span class="lineno"> 1699</span>                (*itr)-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#adfd97b04315971acc0c9d330812c4548a5a1dd659f4a6438f260cddfc7a9faaf4">SAY_FREE_0</a>);</div>
 <div class="line"><span class="lineno"> 1700</span>                (*itr)-&gt;GetMotionMaster()-&gt;Clear();</div>
@@ -290,7 +290,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dd1/classgo__veil__skith__cage.html">go_veil_skith_cage</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 06:25:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Oct 14 2025 06:24:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

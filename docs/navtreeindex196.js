@@ -1,5 +1,7 @@
 var NAVTREEINDEX196 =
 {
+"d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#a96e27eaba5c9e422981d78123ed9c83d":[6,0,399,0,1],
+"d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#ac8e4c5a7a251173a2afb369498c88a1d":[6,0,399,0,2],
 "d7/d9e/structboss__blight__worm_1_1boss__blight__wormAI.html#af267e395fbd539f871e498dc6745c610":[6,0,399,0,0],
 "d7/d9f/Language_8h.html":[7,0,0,0,1,2,28,2],
 "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6":[7,0,0,0,1,2,28,2,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa390ed5ca18828e0496135dbfc9d53c13":[7,0,0,0,1,2,28,2,0,759],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa3939b5dba8a835d37cd68088079934a4":[7,0,0,0,1,2,28,2,0,52],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa3945da9e15f39d6caeb0b2be5dea0c4c":[7,0,0,0,1,2,28,2,0,501],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa395be2d29e58a2bae9d8c7db0c9bd9e0":[7,0,0,0,1,2,28,2,0,797],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa39753763054ee805bb2419de11b3af2d":[7,0,0,0,1,2,28,2,0,678],
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa39aba2f78cbd9b0610f4952c1b108a24":[7,0,0,0,1,2,28,2,0,732]
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa395be2d29e58a2bae9d8c7db0c9bd9e0":[7,0,0,0,1,2,28,2,0,797]
 };

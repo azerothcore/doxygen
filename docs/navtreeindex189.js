@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d7/d45/structboss__moragg_1_1boss__moraggAI.html#ab1d4d863a537a3c567eeda6f95f385ca":[6,0,625,0,3],
+"d7/d45/structboss__moragg_1_1boss__moraggAI.html#acd021e4216e3920f0534da95d69ba5eb":[6,0,625,0,7],
 "d7/d45/structboss__moragg_1_1boss__moraggAI.html#aec7645eaae190d1e7982aae181ff9224":[6,0,625,0,6],
 "d7/d46/classAuraEffect.html":[6,0,283],
 "d7/d46/classAuraEffect.html#a00cc9725cd708174a15de260fef84bda":[6,0,283,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#a26c4d37ac38434682e6ed357cb03c3f2":[6,0,784,0,1],
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#a46db16865544e10ba05bb637dade4bc3":[6,0,784,0,12],
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html#a4d00f75136c7770bb9f5fdfcc3e6a7bb":[6,0,784,0,5],
-"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a5e6022926c19360e6aa784acd6e3d964":[6,0,784,0,10],
-"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a60903f0bcf827503254d6e18c319e5d3":[6,0,784,0,15],
-"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a611d8e9ff1c84665f893a5638500dd29":[6,0,784,0,17]
+"d7/d46/structboss__xt002_1_1boss__xt002AI.html#a5e6022926c19360e6aa784acd6e3d964":[6,0,784,0,10]
 };

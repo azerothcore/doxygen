@@ -1,5 +1,7 @@
 var NAVTREEINDEX249 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7ec54f60ae2781bf1ad79691b68df081":[7,0,0,0,1,2,48,4,1,260],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7f939ea572672b04fd929f72f3be6f73":[7,0,0,0,1,2,48,4,1,168],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7ffa8f6003e464fa28caa2ea706b3bb5":[7,0,0,0,1,2,48,4,1,420],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8012124d7e890ca232aa229dba9d19dc":[7,0,0,0,1,2,48,4,1,281],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8022155187be48b8d30e2bbce0d5a948":[7,0,0,0,1,2,48,4,1,121],
@@ -247,7 +249,5 @@ var NAVTREEINDEX249 =
 "da/d02/namespaceAcore_1_1Time.html#afe6fb6cf9a0829f40c9ba45356eec815":[5,0,1,14,7],
 "da/d03/classspell__midsummer__summon__ahune__lieutenant.html":[6,0,3463],
 "da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a2254e486bda73e07f8327c3412c7852b":[6,0,3463,2],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[6,0,3463,1],
-"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a5e0797e5af760b618b1498f405766de8":[6,0,3463,0],
-"da/d04/classspell__item__the__eye__of__diminution.html":[6,0,3324]
+"da/d03/classspell__midsummer__summon__ahune__lieutenant.html#a3be664b18a2474857e8a2b199ea93aaf":[6,0,3463,1]
 };

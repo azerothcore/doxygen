@@ -1,5 +1,7 @@
 var NAVTREEINDEX273 =
 {
+"da/df2/classspell__warl__ritual__of__summoning.html":[6,0,4001],
+"da/df2/classspell__warl__ritual__of__summoning.html#a1fb9a924ddba358d6d67943c5b2ffa24":[6,0,4001,1],
 "da/df2/classspell__warl__ritual__of__summoning.html#a703b21a93ba41211ac6e6ee182eecb8b":[6,0,4001,2],
 "da/df2/classspell__warl__ritual__of__summoning.html#acdb69e605c4e3b5eb3e48f400957db28":[6,0,4001,0],
 "da/df3/classmmaps__commandscript.html":[6,0,1512],
@@ -102,8 +104,8 @@ var NAVTREEINDEX273 =
 "da/df5/classAcore_1_1AsyncProcessResult.html":[5,0,1,45],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[5,0,1,45,0],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[6,0,0,33,0],
-"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[6,0,0,33,1],
+"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,1,45,2],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[6,0,0,33,2],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,31,10,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX273 =
 "da/dfe/structCreatureTextId.html#a5d45808a0b84ca11c8d05c25d26341a2":[6,0,936,4],
 "da/dfe/structCreatureTextId.html#ad69afcf7be87d1f96611fe925b68f26a":[6,0,936,2],
 "da/dfe/structCreatureTextId.html#ae0c693f6cf1959c79e1b3773a2f54db9":[6,0,936,1],
-"da/dfe/structCreatureTextId.html#ae8058e922bafc69b718ca4be1be39688":[6,0,936,0],
-"da/dfe/structCreatureTextId.html#af1d1f3f310c219c32ca9b8917d8fb67d":[6,0,936,3],
-"da/dfe/structGtChanceToSpellCritBaseEntry.html":[6,0,1240]
+"da/dfe/structCreatureTextId.html#ae8058e922bafc69b718ca4be1be39688":[6,0,936,0]
 };

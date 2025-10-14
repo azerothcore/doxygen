@@ -10,7 +10,7 @@ var classSummonList =
     [ "begin", "d6/df5/classSummonList.html#aa48913073174e466d097a92c3ef8ae15", null ],
     [ "clear", "d6/df5/classSummonList.html#a8dad67aa276b924891670f3ffc29be0b", null ],
     [ "Despawn", "d6/df5/classSummonList.html#a2022b190043330dce78fdd60a15670a7", null ],
-    [ "DespawnAll", "d6/df5/classSummonList.html#a902c1d4535ccdb1b82801547a94151bb", null ],
+    [ "DespawnAll", "d6/df5/classSummonList.html#af6200864d90c65b27aca4146ae0fa1f6", null ],
     [ "DespawnEntry", "d6/df5/classSummonList.html#a4364fa04f8e65b19c721a704acfed26b", null ],
     [ "DespawnIf", "d6/df5/classSummonList.html#a46e2d0454bfe9003f576973cde7f3865", null ],
     [ "DoAction", "d6/df5/classSummonList.html#ae2d5732e8c83010c52ff0efeac1f9493", null ],

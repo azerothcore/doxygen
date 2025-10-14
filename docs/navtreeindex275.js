@@ -1,5 +1,7 @@
 var NAVTREEINDEX275 =
 {
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46":[7,0,0,0,0,1,2,4,2,1],
+"db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673":[7,0,0,0,0,1,2,4,2,0],
 "db/d10/MotionMaster_8h.html":[7,0,0,0,1,2,31,7],
 "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233":[7,0,0,0,1,2,31,7,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX275 =
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a686314ffe4a588a1ba8722a6cab56fc7":[6,0,1737,0,10],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a92a6cbe0515752440284d18bae0adf66":[6,0,1737,0,3],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ab4fb75f1b84c2722f936387a6942028b":[6,0,1737,0,5],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ac78f94033239dcf247be9a48d0535081":[6,0,1737,0,7],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#acf362c9e3eb844db9f66cc8c969cd22e":[6,0,1737,0,8],
-"db/d1b/SkillExtraItems_8cpp.html":[7,0,0,0,1,2,40,2]
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ac78f94033239dcf247be9a48d0535081":[6,0,1737,0,7]
 };

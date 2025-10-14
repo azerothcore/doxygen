@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/d53/classspell__tractor__beam__creator.html#a7daa26f4035912bff4811b0bfee35fee":[6,0,3932,2],
 "de/d53/classspell__tractor__beam__creator.html#a846fa43c9907ddb6243c006327757a1c":[6,0,3932,1],
 "de/d53/classspell__tractor__beam__creator.html#abba5817280db6579e3e6e0b964655c6e":[6,0,3932,0],
 "de/d53/structboss__blackheart__the__inciter.html":[6,0,398],
@@ -35,8 +36,8 @@ var NAVTREEINDEX364 =
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,4,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,4,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,4,0,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,4,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,4,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,11,4,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa52afa855ce9210293720109f9e5e3968":[7,0,0,0,1,2,13,1,11,12],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa5bf0865be8b0cc0ee949e4ea3b6f4597":[7,0,0,0,1,2,13,1,11,22],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa6b2a53c31569f588860df2126814887e":[7,0,0,0,1,2,13,1,11,8],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa6e1f4448ed7bb110a2722d38018b4cc7":[7,0,0,0,1,2,13,1,11,9],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fab433bd63ced2d7b9d1794d868aaf0975":[7,0,0,0,1,2,13,1,11,17]
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa6e1f4448ed7bb110a2722d38018b4cc7":[7,0,0,0,1,2,13,1,11,9]
 };

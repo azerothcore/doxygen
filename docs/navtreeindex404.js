@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/de7/classOutdoorPvPTF.html#a025bf734eb6357a72f2286822f7cc7c6":[6,0,2365,7],
 "df/de7/classOutdoorPvPTF.html#a23ef36361746c9fae0a14b1094914d22":[6,0,2365,4],
 "df/de7/classOutdoorPvPTF.html#a2c79f67ee87306c7944c86e745e1bfc9":[6,0,2365,10],
 "df/de7/classOutdoorPvPTF.html#a36f7e385fa4ca85ec31f96f8ff9b3048":[6,0,2365,12],
@@ -89,14 +90,14 @@ var NAVTREEINDEX404 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22a9c9004add3c23b6c6ec35743282a18f6":[7,0,0,0,1,3,7,5,3,6,4,4],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22aa27967dfb2f00440ea6227a1ba33e4f2":[7,0,0,0,1,3,7,5,3,6,4,1],
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,31,14,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,11,14,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,14,0,0,2],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,31,14,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,31,14,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,14,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,14,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,14,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,14,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,14,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,31,14,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,14,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,359],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,359,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,359,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/df3/structboss__grand__warlock__nethekurse.html#a117d2d737433ea89b37ea1ee58e6c237":[6,0,506,4],
 "df/df3/structboss__grand__warlock__nethekurse.html#a48a2ec7beeb5c9685fc627317acea949":[6,0,506,3],
 "df/df3/structboss__grand__warlock__nethekurse.html#a4eefeb639cf5f0753feb6cfd99cda187":[6,0,506,0],
-"df/df3/structboss__grand__warlock__nethekurse.html#a6c647262ce7df78c46af6b725cbcc250":[6,0,506,8],
-"df/df3/structboss__grand__warlock__nethekurse.html#a8288f8c28b61dac574254435534b5e3f":[6,0,506,1]
+"df/df3/structboss__grand__warlock__nethekurse.html#a6c647262ce7df78c46af6b725cbcc250":[6,0,506,8]
 };

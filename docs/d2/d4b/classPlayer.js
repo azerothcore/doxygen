@@ -1021,7 +1021,7 @@ var classPlayer =
     [ "StoreNewItemInBestSlots", "d2/d4b/classPlayer.html#a01a1018b463179a2135f2c704e80530e", null ],
     [ "StoreRaidMapDifficulty", "d2/d4b/classPlayer.html#ae22efe65831f0fd0916201548c709e1f", null ],
     [ "SummonIfPossible", "d2/d4b/classPlayer.html#a1faef661a7ce93290cb2d2dee4f2ae98", null ],
-    [ "SummonPet", "d2/d4b/classPlayer.html#ab1c48c77a4cc02c2ccb067a137f7bbdd", null ],
+    [ "SummonPet", "d2/d4b/classPlayer.html#ab180ed7460de85bd24e07dbd623e380f", null ],
     [ "SwapItem", "d2/d4b/classPlayer.html#a613ef93bed586a887ef8e573cbebb82d", null ],
     [ "SwapQuestSlot", "d2/d4b/classPlayer.html#a7a9d65800a3093729efcb7642bc9fb6b", null ],
     [ "TakeQuestSourceItem", "d2/d4b/classPlayer.html#ab5a791e5b6f12cdf6eff3bab46449b5d", null ],

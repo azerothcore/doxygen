@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#a2189fd9205722664b55f0f4b8504050c":[7,0,0,0,1,3,4,1,1,6,18],
+"d5/dcf/culling__of__stratholme_8h.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,1,1,6,2],
 "d5/dcf/culling__of__stratholme_8h.html#a250372292659bed7ae290d8621f88ccfa180e6a8f7bf3103300afc4e9b89b5cac":[7,0,0,0,1,3,4,1,1,6,2,1],
 "d5/dcf/culling__of__stratholme_8h.html#a250372292659bed7ae290d8621f88ccfa2473f1ff244918f350d1c5c678246e44":[7,0,0,0,1,3,4,1,1,6,2,6],
 "d5/dcf/culling__of__stratholme_8h.html#a250372292659bed7ae290d8621f88ccfa45d7c0da801872259d7f2d2310f2489a":[7,0,0,0,1,3,4,1,1,6,2,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,2,5,3],
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a205166e04da1b06f87e762c2cc05ff80":[7,0,0,0,1,3,2,1,2,5,3,1],
 "d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acfbd0b3d8c5edf866b4b7b17adf6ade3":[7,0,0,0,1,3,2,1,2,5,3,2],
-"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db":[7,0,0,0,1,3,2,1,2,5,3,0],
-"d5/dd8/structCreatureAddon.html":[6,0,916],
-"d5/dd8/structCreatureAddon.html#a20695ff7997e1ebd6fe898a8b41aeddb":[6,0,916,0]
+"d5/dd8/boss__flamegor_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db":[7,0,0,0,1,3,2,1,2,5,3,0]
 };

@@ -1,8 +1,8 @@
 var NAVTREEINDEX52 =
 {
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[6,0,11,6,5,6],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[6,0,11,6,5,7],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[5,0,31,6,5,7],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[6,0,11,6,5,7],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html":[6,0,1868,0],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html#a3e202f9bde2a202d329066f7aab8897c":[6,0,1868,0,4],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html#a42842e92926e18ef2589687d81a7d0d4":[6,0,1868,0,5],
@@ -129,8 +129,8 @@ var NAVTREEINDEX52 =
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3575,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1325,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[6,0,1325,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[6,0,1325,0,7],

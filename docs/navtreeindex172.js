@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa7072d87ff9a03f9584e4f489880a272":[7,0,0,0,1,3,2,1,1,8,4,2],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac37be0fe31927a91e2a89d0ace445d39":[7,0,0,0,1,3,2,1,1,8,4,8],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acb479b353fa088bba14a35c37aba7de1":[7,0,0,0,1,3,2,1,1,8,4,0],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8058a1f18fd6afa598c118a12fe3f5b":[7,0,0,0,1,3,2,1,1,8,4,5],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec483c5dc4dd347726124f4364c7fffd":[7,0,0,0,1,3,2,1,1,8,4,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d6e/EnumFlag_8h.html#a27ef39aed098304d7387af8257f7cee3":[7,0,0,0,0,15,7,4],
 "d6/d6e/EnumFlag_8h.html#a7294b75cb336d554d5ce2b75b05c37d6":[7,0,0,0,0,15,7,2],
 "d6/d6e/EnumFlag_8h.html#a7808a2b72bed2b70553d802ed11e27c4":[7,0,0,0,0,15,7,7],
-"d6/d6e/EnumFlag_8h.html#a9f556f9c539f21ae6fd639abe4c39c75":[7,0,0,0,0,15,7,1],
-"d6/d6e/EnumFlag_8h.html#abe3f4d2eafbceebe9ec46ffcd15cfa76":[7,0,0,0,0,15,7,8],
-"d6/d6e/EnumFlag_8h.html#ac8aaa198de31cb5a3b217d0968f30a3b":[7,0,0,0,0,15,7,6]
+"d6/d6e/EnumFlag_8h.html#a9f556f9c539f21ae6fd639abe4c39c75":[7,0,0,0,0,15,7,1]
 };

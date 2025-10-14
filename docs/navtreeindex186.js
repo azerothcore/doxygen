@@ -1,5 +1,7 @@
 var NAVTREEINDEX186 =
 {
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ff71e63988ee36ea0dfb82be3941636":[7,0,0,0,1,3,2,1,3,9,5,0],
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298caa870a0450434115486a875748b1516ad":[7,0,0,0,1,3,2,1,3,9,5,7],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298cace00400987bd4444f7fe64180848cf5b":[7,0,0,0,1,3,2,1,3,9,5,2],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298cad7eca6d43ab783ab3f5b8a24e413bae4":[7,0,0,0,1,3,2,1,3,9,5,3],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298caf5269185ad49e0b10a95a4c29601d993":[7,0,0,0,1,3,2,1,3,9,5,6],
@@ -216,8 +218,8 @@ var NAVTREEINDEX186 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,31,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,31,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,11,6,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,31,6,47,7],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,11,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,31,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,11,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,31,6,47,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d28/classachievement__kologarn__with__open__arms.html":[6,0,69],
 "d7/d28/classachievement__kologarn__with__open__arms.html#a03c1fb5f141a15f8f63e28700b98f9b5":[6,0,69,1],
 "d7/d28/classachievement__kologarn__with__open__arms.html#a94af961be5bbdf7783925148731ce7e4":[6,0,69,0],
-"d7/d28/classguild__commandscript.html":[6,0,1253],
-"d7/d28/classguild__commandscript.html#a2d2c2414b9b08a5d510fccd223b34a36":[6,0,1253,2],
-"d7/d28/classguild__commandscript.html#a4394d242740505ad128e4cebf4b617f0":[6,0,1253,0]
+"d7/d28/classguild__commandscript.html":[6,0,1253]
 };

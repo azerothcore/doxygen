@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a9ff54856dfb80a6a8e2edb3523e6a66d":[7,0,0,0,1,3,5,4,2,5,7,10],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22aa65ac0ac68c78f1c2ea895c7db9bf159":[7,0,0,0,1,3,5,4,2,5,7,5],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab354c925e25991c45e63ec89601569a3":[7,0,0,0,1,3,5,4,2,5,7,18],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab7e058e22823b1ecd7808431ad954776":[7,0,0,0,1,3,5,4,2,5,7,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[6,0,152,11],
 "dd/db8/classnpc__massive__jormungar.html":[6,0,1954],
 "dd/db8/classnpc__massive__jormungar.html#a68e3557e967ef633ba59fa81e661b80c":[6,0,1954,2],
-"dd/db8/classnpc__massive__jormungar.html#ad17b632fcfe78019dcb9e6b58fa1ac01":[6,0,1954,1],
-"dd/db8/classspell__ioc__parachute__ic__aura.html":[6,0,3213]
+"dd/db8/classnpc__massive__jormungar.html#ad17b632fcfe78019dcb9e6b58fa1ac01":[6,0,1954,1]
 };

@@ -200,7 +200,7 @@ var NAVTREEINDEX60 =
 "d2/d4b/classPlayer.html#ab14c782f5ff7349f0aaca2df7f832be9":[6,0,2404,1268],
 "d2/d4b/classPlayer.html#ab17aa17e78fda3217af0d7281e92b98b":[6,0,2404,1096],
 "d2/d4b/classPlayer.html#ab17e0b5481a3ee2585f2743d5a00ca28":[6,0,2404,188],
-"d2/d4b/classPlayer.html#ab1c48c77a4cc02c2ccb067a137f7bbdd":[6,0,2404,1021],
+"d2/d4b/classPlayer.html#ab180ed7460de85bd24e07dbd623e380f":[6,0,2404,1021],
 "d2/d4b/classPlayer.html#ab247f7e2170880b37372f1fd6948df89":[6,0,2404,666],
 "d2/d4b/classPlayer.html#ab252ed0ee3038f75c2ae63cbe51582f9":[6,0,2404,669],
 "d2/d4b/classPlayer.html#ab30ba59ac679fdc6ef38e4c85e708b44":[6,0,2404,578],

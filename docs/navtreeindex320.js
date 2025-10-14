@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/df0/zulgurub_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,16,15,5],
 "dc/df0/zulgurub_8h.html#acd8b54d8672687df8df94cb3d9a2a744a4d71bc6dda713409335dccfd9224c1cb":[7,0,0,0,1,3,2,16,15,5,1],
 "dc/df0/zulgurub_8h.html#acd8b54d8672687df8df94cb3d9a2a744ac105595980d08e30052b055a49d6be01":[7,0,0,0,1,3,2,16,15,5,0],
 "dc/df0/zulgurub_8h.html#ae55796445ff99fef95cd522a4da3a931":[7,0,0,0,1,3,2,16,15,2],
@@ -38,12 +39,12 @@ var NAVTREEINDEX320 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4040,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,761],
@@ -193,11 +194,11 @@ var NAVTREEINDEX320 =
 "dd/d01/SmartScriptMgr_8cpp.html":[7,0,0,0,1,2,3,2,4],
 "dd/d01/classDelayedCastEvent.html":[6,0,969],
 "dd/d01/classDelayedCastEvent.html#a85471a151a3165cc906f3a41103c3f5d":[6,0,969,5],
+"dd/d01/classDelayedCastEvent.html#a96b86f3f1ee23d6f25ec3c13f9a03235":[6,0,969,0],
 "dd/d01/classDelayedCastEvent.html#abe28a6749101233302634ed226a289e8":[6,0,969,4],
-"dd/d01/classDelayedCastEvent.html#acc9e22eb1908e4c458199fc4cccd56c6":[6,0,969,2],
 "dd/d01/classDelayedCastEvent.html#adb07c24a947d59d2ef1f61b8ab18d328":[6,0,969,3],
 "dd/d01/classDelayedCastEvent.html#ae2925429b3049e44d2afd2e8b990af71":[6,0,969,1],
-"dd/d01/classDelayedCastEvent.html#ae6d57612065d56ce79197aedebedf9f9":[6,0,969,0],
+"dd/d01/classDelayedCastEvent.html#afcaeafb72df77c36b5496588c219fac4":[6,0,969,2],
 "dd/d01/classinstance__mechanar.html":[6,0,1317],
 "dd/d01/classinstance__mechanar.html#ab31a66a0eb8b9ac6f79af479528ff4fd":[6,0,1317,1],
 "dd/d01/classinstance__mechanar.html#ae8e9810a9bfd6b0ec256dd6a288392ed":[6,0,1317,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d06/classspell__valithria__suppression__aura.html#a9844b3d82680bfc9756b141fcf29e1f9":[6,0,3955,1],
 "dd/d06/classspell__valithria__suppression__aura.html#ac35f5d98980f54470a75a72b3578681f":[6,0,3955,0],
 "dd/d07/boss__illidari__council_8cpp.html":[7,0,0,0,1,3,7,1,3],
-"dd/d07/boss__illidari__council_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,1,3,15],
-"dd/d07/boss__illidari__council_8cpp.html#a16774215bba3b38580ea51987d64cff1a76616db2d6d043942bde8724bbbf7b66":[7,0,0,0,1,3,7,1,3,15,3]
+"dd/d07/boss__illidari__council_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,1,3,15]
 };

@@ -1,14 +1,15 @@
 var NAVTREEINDEX303 =
 {
+"dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3674,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3674,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[6,0,0,13,1],
 "dc/d20/DBCStore_8h.html":[7,0,0,0,1,4,0,6],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html":[7,0,0,0,1,3,2,1,0,4],
 "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[7,0,0,0,1,3,2,1,0,4,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a651b7ef9576ff4c8ea52dcc9d8a73788":[7,0,0,0,1,3,5,9,2,9,47,35],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a74cf71052c4d04dcdede4915edec87d7":[7,0,0,0,1,3,5,9,2,9,47,10],
 "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a794b297a4ffb6b21853631fb47999f6c":[7,0,0,0,1,3,5,9,2,9,47,37],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a7d54a0e92a20042c08728a8c32aaee87":[7,0,0,0,1,3,5,9,2,9,47,14],
-"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a91fa946a31de2e120c040553e40e9a34":[7,0,0,0,1,3,5,9,2,9,47,24]
+"dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a7d54a0e92a20042c08728a8c32aaee87":[7,0,0,0,1,3,5,9,2,9,47,14]
 };

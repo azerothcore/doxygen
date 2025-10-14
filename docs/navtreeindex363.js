@@ -1,5 +1,6 @@
 var NAVTREEINDEX363 =
 {
+"de/d3d/classnpc__ulduar__proximity__mine.html#ac33beb07e17712cdda1b3434d9dc8222":[6,0,2241,1],
 "de/d3f/BattlegroundMgr_8cpp.html":[7,0,0,0,1,2,8,11],
 "de/d3f/classspell__igb__overheat__aura.html":[6,0,3175],
 "de/d3f/classspell__igb__overheat__aura.html#a24f79a4c59d4bf615a6de745ffa11d81":[6,0,3175,5],
@@ -195,16 +196,16 @@ var NAVTREEINDEX363 =
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,38,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[6,0,0,68],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,68,4],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,68,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,80,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[6,0,0,68,2],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,80,0],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[6,0,0,68,0],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a9b7700f2a4958b91a67375ec9a40072c":[5,0,1,80,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html":[6,0,3855],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a1e63e7798ab5e55415eb0277f3160fa3":[6,0,3855,0],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#a727093fec8cc8422cbbaa79d821338c8":[6,0,3855,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX363 =
 "de/d53/classspell__oscillating__field.html#ac2b2bd2581a638553167d5c8099a70cd":[6,0,3519,2],
 "de/d53/classspell__oscillating__field.html#acb353dbdd050bfc6aa4b4b5f6433dc03":[6,0,3519,0],
 "de/d53/classspell__oscillating__field.html#ad95bc33917e1aa968eedc636f6e3ddcb":[6,0,3519,1],
-"de/d53/classspell__tractor__beam__creator.html":[6,0,3932],
-"de/d53/classspell__tractor__beam__creator.html#a7daa26f4035912bff4811b0bfee35fee":[6,0,3932,2]
+"de/d53/classspell__tractor__beam__creator.html":[6,0,3932]
 };

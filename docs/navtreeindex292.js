@@ -1,5 +1,8 @@
 var NAVTREEINDEX292 =
 {
+"db/dc8/structScriptedAI.html#ac91263675c34a59bbd53b15988a9183e":[6,0,2524,57],
+"db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8":[6,0,2524,0],
+"db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8a3e69e41ce011d74658d6ccce110e5f1a":[6,0,2524,0,1],
 "db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8afb7ec808a21c7770ccd7060e715983ba":[6,0,2524,0,0],
 "db/dc8/structScriptedAI.html#ad572f86a14c50afb9da4d751a4c75109":[6,0,2524,55],
 "db/dc8/structScriptedAI.html#adb935c5628c1149cfb21a4380c67d152":[6,0,2524,2],
@@ -8,7 +11,6 @@ var NAVTREEINDEX292 =
 "db/dc8/structScriptedAI.html#adfa4a30a87f888edaf155e148f5264b3":[6,0,2524,31],
 "db/dc8/structScriptedAI.html#ae42895b19083d367b23bf44acb8e9939":[6,0,2524,6],
 "db/dc8/structScriptedAI.html#ae4f7745f11ada2597eac7150fbb679bd":[6,0,2524,49],
-"db/dc8/structScriptedAI.html#aeb72f345e457d646bd873550147fe13f":[6,0,2524,47],
 "db/dc8/structScriptedAI.html#aed92985b04ceba51543d50cefc1644a5":[6,0,2524,46],
 "db/dc8/structScriptedAI.html#af3190fbc551d405b6284e12c29f3793c":[6,0,2524,44],
 "db/dc8/structScriptedAI.html#af5c4c2aa7107593244f0d4cf02c47dcb":[6,0,2524,15],
@@ -64,8 +66,8 @@ var NAVTREEINDEX292 =
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3678],
@@ -247,7 +249,5 @@ var NAVTREEINDEX292 =
 "db/dd3/icecrown__citadel_8cpp.html#a32363ea6863e46b9be021fd6a1bf45a4":[7,0,0,0,1,3,5,6,12,93],
 "db/dd3/icecrown__citadel_8cpp.html#a36ff056c6991e966c8a486f5fbf56593":[7,0,0,0,1,3,5,6,12,87],
 "db/dd3/icecrown__citadel_8cpp.html#a36ff056c6991e966c8a486f5fbf56593a2e865573185a84ac265ebe136ccb6065":[7,0,0,0,1,3,5,6,12,87,0],
-"db/dd3/icecrown__citadel_8cpp.html#a36ff056c6991e966c8a486f5fbf56593a731771361dfc9af5f2e45a424e92dd1e":[7,0,0,0,1,3,5,6,12,87,1],
-"db/dd3/icecrown__citadel_8cpp.html#a36ff056c6991e966c8a486f5fbf56593a7d87ce535af061c17aa4d43ff1472184":[7,0,0,0,1,3,5,6,12,87,4],
-"db/dd3/icecrown__citadel_8cpp.html#a36ff056c6991e966c8a486f5fbf56593ad00e482a91b79f4246442d866c12094d":[7,0,0,0,1,3,5,6,12,87,3]
+"db/dd3/icecrown__citadel_8cpp.html#a36ff056c6991e966c8a486f5fbf56593a731771361dfc9af5f2e45a424e92dd1e":[7,0,0,0,1,3,5,6,12,87,1]
 };

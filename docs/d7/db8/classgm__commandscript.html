@@ -386,8 +386,8 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  100</span>        }</div>
 <div class="line"><span class="lineno">  101</span>        <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  102</span>        {</div>
-<div class="line"><span class="lineno">  103</span>            canFly = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a381c4b83550850c19147ac45509aad44">CanFly</a>();</div>
-<div class="line"><span class="lineno">  104</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(!canFly);</div>
+<div class="line"><span class="lineno">  103</span>            canFly = !handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a381c4b83550850c19147ac45509aad44">CanFly</a>();</div>
+<div class="line"><span class="lineno">  104</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a70430c45bdb96d66a3dcbadf5a18d527">SetCanFly</a>(canFly);</div>
 <div class="line"><span class="lineno">  105</span>        }</div>
 <div class="line"><span class="lineno">  106</span> </div>
 <div class="line"><span class="lineno">  107</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8a704ac654ca43fc44b3d36d44b786df">LANG_COMMAND_FLYMODE_STATUS</a>, handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a0e2b0a9da9e25f17c2f995505eeea940">GetNameLink</a>(target), canFly ? <span class="stringliteral">&quot;on&quot;</span> : <span class="stringliteral">&quot;off&quot;</span>);</div>
@@ -792,7 +792,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/db8/classgm__commandscript.html">gm_commandscript</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 06:25:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Oct 14 2025 06:24:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dc/d93/classnpc__braug__dimspirit.html#a87ea1ba3e247c9b14c1f6c72b3addea0":[6,0,1662,2],
 "dc/d93/classnpc__braug__dimspirit.html#ade08e9ad549d80c2f7918dbfcfbf41dc":[6,0,1662,0],
 "dc/d93/classnpc__braug__dimspirit.html#aeaed026edf5a1fa82c941f667c05815b":[6,0,1662,1],
 "dc/d93/classspell__summon__amanishi__sentries.html":[6,0,3853],
@@ -16,16 +17,16 @@ var NAVTREEINDEX313 =
 "dc/d95/classnpc__khunok__the__behemoth.html#a201aa35dd119d23126b192a1e3786c09":[6,0,1912,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[5,0,1,87,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[5,0,1,87,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[5,0,1,87,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,1,87,5],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html":[6,0,1621],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da7/scourge__invasion_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7":[7,0,0,0,1,3,10,16,15],
 "dc/da8/boss__viscidus_8cpp.html":[7,0,0,0,1,3,4,9,8],
 "dc/da8/boss__viscidus_8cpp.html#a1c081ae69dc68589ab11764025bb0312":[7,0,0,0,1,3,4,9,8,12],
-"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,4,9,8,5],
-"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa146270df180e2203a510a0f182363721":[7,0,0,0,1,3,4,9,8,5,0]
+"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,4,9,8,5]
 };

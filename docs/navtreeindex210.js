@@ -1,5 +1,7 @@
 var NAVTREEINDEX210 =
 {
+"d8/d09/classFormulaScript.html#a2208a5684c95b936aa9ca1ae863d9682":[6,0,1063,3],
+"d8/d09/classFormulaScript.html#a54a5e523ad5a9d3eb2dd061ced2d209f":[6,0,1063,8],
 "d8/d09/classFormulaScript.html#a7755c35bc56e6645e36de08c12a4847d":[6,0,1063,9],
 "d8/d09/classFormulaScript.html#a83893099062d1fb7ce69fe38bf8c4699":[6,0,1063,4],
 "d8/d09/classFormulaScript.html#aa3510b1cfb4661cf6028e1b9f443c865":[6,0,1063,1],
@@ -31,12 +33,12 @@ var NAVTREEINDEX210 =
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,28,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[6,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,28,0,1,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[6,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,28,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,28,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[6,0,9,0,1,2],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,28,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1929,0],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a4b6986a392aee0741ba47651e809c76c":[6,0,1929,0,1],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[6,0,1929,0,2],
@@ -141,8 +143,8 @@ var NAVTREEINDEX210 =
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[5,0,31,20,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,11,20,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,31,20,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,11,20,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,31,20,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,11,20,2],
 "d8/d12/structboss__ayamiss.html":[6,0,388],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[6,0,388,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[6,0,388,0],
@@ -180,8 +182,8 @@ var NAVTREEINDEX210 =
 "d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#aedf26a4b5baaf464d70316ce79ec32b3":[6,0,743,0,4],
 "d8/d14/classAllianceChannelMgr.html":[6,0,149],
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,149,0],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,21],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,31,21],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,21],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,31,21,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,11,21,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d17/ObjectAccessor_8h.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[7,0,0,0,1,2,18,1,6],
 "d8/d17/classspell__gen__create__lance.html":[6,0,2943],
 "d8/d17/classspell__gen__create__lance.html#a30cc03ed0c19074dc1fde4951a061815":[6,0,2943,3],
-"d8/d17/classspell__gen__create__lance.html#a628fbc7ef23ce8f93d132f7bf518d4d8":[6,0,2943,0],
-"d8/d17/classspell__gen__create__lance.html#a8e5aa0a33907c5216299734a928de2fd":[6,0,2943,1],
-"d8/d17/classspell__gen__create__lance.html#a9e25da03bbbea35f13420c14c6fab0d5":[6,0,2943,2]
+"d8/d17/classspell__gen__create__lance.html#a628fbc7ef23ce8f93d132f7bf518d4d8":[6,0,2943,0]
 };

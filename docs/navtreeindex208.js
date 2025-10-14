@@ -1,5 +1,7 @@
 var NAVTREEINDEX208 =
 {
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2af7e06b8b4d7b6d6bb16accfa1c48409d":[7,0,0,0,1,2,16,10,6,5,15],
+"d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547c":[7,0,0,0,1,2,16,10,6,7],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca104eb15c414a7006998ae56cf4b64f4c":[7,0,0,0,1,2,16,10,6,7,8],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca1eb0a56ef3fbef183e32a6dc1a8a5f73":[7,0,0,0,1,2,16,10,6,7,23],
 "d7/df1/UnitDefines_8h.html#ab1b67dd15f243c850f589f66747e547ca28e5c8f9dbe323d4b96def6b2ffaeabc":[7,0,0,0,1,2,16,10,6,7,20],
@@ -218,8 +220,8 @@ var NAVTREEINDEX208 =
 "d7/df9/classspell__the__lich__king__play__movie.html#a162e50b7136687aae7a8df0bb93dd8fe":[6,0,3905,3],
 "d7/df9/classspell__the__lich__king__play__movie.html#a471bac09c68708daefe6a39f283caa4c":[6,0,3905,2],
 "d7/df9/classspell__the__lich__king__play__movie.html#a598baad08c685bba54ad5306e0d521b4":[6,0,3905,1],
-"d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,1,57],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[6,0,0,45],
+"d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,1,57],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[6,0,0,45,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,1,57,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[6,0,0,45,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX208 =
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca030b841724ccf07ccbdcc86568a6c763":[7,0,0,0,1,3,7,2,0,5,3,10],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca28494a79e9aeab976661d13564d078cd":[7,0,0,0,1,3,7,2,0,5,3,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ac868eb7744b844bd7e88dbf4ce424f":[7,0,0,0,1,3,7,2,0,5,3,9],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[7,0,0,0,1,3,7,2,0,5,3,6],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a97550fc0161d7b942d2ce0b40f6592":[7,0,0,0,1,3,7,2,0,5,3,1],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa0a7a9fa54d48f1012726646e8d584f5":[7,0,0,0,1,3,7,2,0,5,3,11]
+"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[7,0,0,0,1,3,7,2,0,5,3,6]
 };

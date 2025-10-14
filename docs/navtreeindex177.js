@@ -1,5 +1,7 @@
 var NAVTREEINDEX177 =
 {
+"d6/d8e/ProcessPriority_8h.html#a714853b6677573f2aa289978eee5b83f":[7,0,0,0,0,14,5,1],
+"d6/d8e/ProcessPriority_8h.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b":[7,0,0,0,0,14,5,2],
 "d6/d8e/classgo__celestial__planetarium__access.html":[6,0,1129],
 "d6/d8e/classgo__celestial__planetarium__access.html#a20b7c895dd0fc2cb37bf3c113bf91278":[6,0,1129,1],
 "d6/d8e/classgo__celestial__planetarium__access.html#a4fc9ac64f7dceefbdda02297f7dfc42b":[6,0,1129,2],
@@ -45,20 +47,20 @@ var NAVTREEINDEX177 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1107,1],
 "d6/d96/classDBCFile_1_1Record.html":[6,0,956,3],
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[6,0,956,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,956,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,956,3,8],
-"d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,956,3,3],
+"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,956,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,956,3,4],
-"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,956,3,1],
+"d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,956,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,956,3,0],
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,956,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,956,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,956,3,12],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,956,3,5],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,956,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[6,0,956,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[6,0,956,3,2],
-"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,956,3,10],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,956,3,9],
+"d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,956,3,10],
 "d6/d96/classDBCFile_1_1Record.html#adffc3b9545883356dd9bed0a0613a1fe":[6,0,956,3,15],
 "d6/d96/classDBCFile_1_1Record.html#ae76eb8b329fb6d580aa42484de46c95e":[6,0,956,3,16],
 "d6/d97/structboss__magmadar_1_1boss__magmadarAI.html":[6,0,601,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d9f/classspell__symbol__of__life__dummy.html#afb85971597df327fa44271ee0c4b3d04":[6,0,3866,0],
 "d6/d9f/structCondition.html":[6,0,888],
 "d6/d9f/structCondition.html#a37333d2f5e007c96d2808b51cd95ce4e":[6,0,888,2],
-"d6/d9f/structCondition.html#a39ec8f2115b587bbdc87b9f90ac749ae":[6,0,888,17],
-"d6/d9f/structCondition.html#a3af1f0d924f6840b8a15c1a0847d6f13":[6,0,888,6],
-"d6/d9f/structCondition.html#a4296c140947f7b0abf41e29b36f1bbdf":[6,0,888,3]
+"d6/d9f/structCondition.html#a39ec8f2115b587bbdc87b9f90ac749ae":[6,0,888,17]
 };

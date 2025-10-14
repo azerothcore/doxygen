@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/dcb/classspell__item__impale__leviroth.html#a8d83f9e52ba19f75647e99760439c380":[6,0,3268,2],
 "de/dcc/GridNotifiers_8cpp.html":[7,0,0,0,1,2,19,1,0],
 "de/dcc/GridNotifiers_8cpp.html#a6dd107031f342074ca560b711fe188d7":[7,0,0,0,1,2,19,1,0,0],
 "de/dcc/MoveSpline_8h.html":[7,0,0,0,1,2,31,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/ddd/classspell__entropius__black__hole__effect.html#a6da76afd5feaa0d60be70ff8469d78bc":[6,0,2862,3],
 "de/ddd/classspell__entropius__black__hole__effect.html#ad6dfdf70e9ffd43510c4791f804ce340":[6,0,2862,2],
 "de/ddd/classspell__entropius__black__hole__effect.html#aec00f82a35c8154e7d4c1f47c52d486f":[6,0,2862,1],
-"de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html":[6,0,904],
-"de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html#a7d3b640a8d68089436c3792b3db088f1":[6,0,904,1]
+"de/ddd/structContainerUnorderedMap_3_01TypeList_3_01H_00_01T_01_4_00_01KEY__TYPE_01_4.html":[6,0,904]
 };

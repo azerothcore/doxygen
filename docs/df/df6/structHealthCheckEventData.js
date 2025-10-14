@@ -1,6 +1,6 @@
 var structHealthCheckEventData =
 [
-    [ "HealthCheckEventData", "df/df6/structHealthCheckEventData.html#a1b28487d683827c43d1a8054678bdb73", null ],
+    [ "HealthCheckEventData", "df/df6/structHealthCheckEventData.html#a2610f9688b27212eb3470f55718c61f0", null ],
     [ "GetDelay", "df/df6/structHealthCheckEventData.html#a9bab6c9834517c4260f814f258d52d5c", null ],
     [ "HasBeenProcessed", "df/df6/structHealthCheckEventData.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
     [ "IsPending", "df/df6/structHealthCheckEventData.html#a367c865eb488a2a95ce7e98536ccb311", null ],

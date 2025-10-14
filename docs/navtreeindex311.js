@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d78/classBattlegroundAB.html#a69b7366af72520d2aaaaa22df94f3728":[6,0,313,28],
 "dc/d78/classBattlegroundAB.html#a7ce0db7a287d0406997f63b8f7b17fe0":[6,0,313,29],
 "dc/d78/classBattlegroundAB.html#a7d2c1b947db4840496ef3affec40ff37":[6,0,313,1],
 "dc/d78/classBattlegroundAB.html#a81f8d55d10294bb0f376b01515736bc1":[6,0,313,16],
@@ -164,16 +165,16 @@ var NAVTREEINDEX311 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3292],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3292,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3292,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d88/classTempSummon.html#a9171c6fa87d58744029776bd7d182320":[6,0,4164,2],
 "dc/d88/classTempSummon.html#a96cef2650b6ccfb07f2c05266f8d1f28":[6,0,4164,5],
 "dc/d88/classTempSummon.html#a976f9dc646a72b1e642458f7f9943657":[6,0,4164,17],
-"dc/d88/classTempSummon.html#a9faee852e2cbc450ca043bda9ee906e3":[6,0,4164,24],
-"dc/d88/classTempSummon.html#aac572ed0079d43d9a706423aaeea91a7":[6,0,4164,26]
+"dc/d88/classTempSummon.html#a9faee852e2cbc450ca043bda9ee906e3":[6,0,4164,24]
 };

@@ -277,8 +277,7 @@ var spell__quest_8cpp =
       [ "NPC_SICKLY_GAZELLE", "db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ada13a3f582e9dee99ba09c84cba6b582fd", null ],
       [ "NPC_CURED_GAZELLE", "db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ada1cc36bdca60c705833310ae2f04ac5d7", null ],
       [ "NPC_SICKLY_DEER", "db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ada04c1a30db888636f3dbf9570bd007fb9", null ],
-      [ "NPC_CURED_DEER", "db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ada864e6ef013e29b5130f834688c072755", null ],
-      [ "DESPAWN_TIME", "db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49adac1d6778e1005a45c53c0fb312aa5ef92", null ]
+      [ "NPC_CURED_DEER", "db/dfb/spell__quest_8cpp.html#aeac2ef79da71bd8a10482ab4253e49ada864e6ef013e29b5130f834688c072755", null ]
     ] ],
     [ "QuestShyRotam", "db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70b", [
       [ "NPC_SHY_ROTAM", "db/dfb/spell__quest_8cpp.html#af57af37ce3e616f0df8c97a5c520e70ba13a9e7c6ea9d0532a012ef19bf7719b7", null ]
@@ -313,5 +312,6 @@ var spell__quest_8cpp =
       [ "SPELL_GENERIC_DISGUISE", "db/dfb/spell__quest_8cpp.html#a2868a013693d0c5d2d3825d051b841cfa10ecfcbeb3286a3292832d54efaa59fa", null ]
     ] ],
     [ "AddSC_quest_spell_scripts", "db/dfb/spell__quest_8cpp.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
+    [ "DESPAWN_TIME", "db/dfb/spell__quest_8cpp.html#a625d1892e04f12a55350f01fc8abb07d", null ],
     [ "ShooterPos", "db/dfb/spell__quest_8cpp.html#a6fd831c15d53eb8662709430ed88d7a3", null ]
 ];
