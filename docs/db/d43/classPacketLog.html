@@ -263,14 +263,14 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
-<div class="line"><span class="lineno">   84</span>    std::string logsDir = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   84</span>    std::string logsDir = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   85</span> </div>
 <div class="line"><span class="lineno">   86</span>    <span class="keywordflow">if</span> (!logsDir.empty() &amp;&amp; (logsDir.at(logsDir.length() - 1) != <span class="charliteral">&#39;/&#39;</span>) &amp;&amp; (logsDir.at(logsDir.length() - 1) != <span class="charliteral">&#39;\\&#39;</span>))</div>
 <div class="line"><span class="lineno">   87</span>    {</div>
 <div class="line"><span class="lineno">   88</span>        logsDir.push_back(<span class="charliteral">&#39;/&#39;</span>);</div>
 <div class="line"><span class="lineno">   89</span>    }</div>
 <div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    std::string logname = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;PacketLogFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   91</span>    std::string logname = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;PacketLogFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (!logname.empty())</div>
 <div class="line"><span class="lineno">   93</span>    {</div>
 <div class="line"><span class="lineno">   94</span>        <a class="code hl_variable" href="../../db/d43/classPacketLog.html#a03346a709f7586f6445e03b9a3b6af04">_file</a> = fopen((logsDir + logname).c_str(), <span class="stringliteral">&quot;wb&quot;</span>);</div>
@@ -292,9 +292,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  110</span>        }</div>
 <div class="line"><span class="lineno">  111</span>    }</div>
 <div class="line"><span class="lineno">  112</span>}</div>
-<div class="ttc" id="aConfig_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
 <div class="ttc" id="aTimer_8h_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../dd/d27/Timer_8h.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition</b> Timer.h:103</div></div>
 <div class="ttc" id="aclassPacketLog_html_a322cf3a0d8707becb9dcc64548d4cce5"><div class="ttname"><a href="../../db/d43/classPacketLog.html#a322cf3a0d8707becb9dcc64548d4cce5">PacketLog::CanLogPacket</a></div><div class="ttdeci">bool CanLogPacket() const</div><div class="ttdef"><b>Definition</b> PacketLog.h:45</div></div>
+<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
 <div class="ttc" id="anamespaceGameTime_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition</b> GameTime.cpp:38</div></div>
 <div class="ttc" id="astructLogHeader_html"><div class="ttname"><a href="../../d6/d5d/structLogHeader.html">LogHeader</a></div><div class="ttdef"><b>Definition</b> PacketLog.cpp:29</div></div>
 <div class="ttc" id="astructLogHeader_html_a1884076ea4fe5af08964471d0058fd4d"><div class="ttname"><a href="../../d6/d5d/structLogHeader.html#a1884076ea4fe5af08964471d0058fd4d">LogHeader::SniffStartTicks</a></div><div class="ttdeci">uint32 SniffStartTicks</div><div class="ttdef"><b>Definition</b> PacketLog.cpp:37</div></div>
@@ -520,7 +520,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d43/classPacketLog.html">PacketLog</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

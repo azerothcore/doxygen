@@ -165,6 +165,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
+<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -563,7 +565,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1032</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(pCreature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1033</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(pCreature) { }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -594,15 +596,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1043</span>        {</div>
-<div class="line"><span class="lineno"> 1044</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adb72665839c4e1a455c082fd2ab65b43">SPELL_SHADOW_NOVA</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1045</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1044</span>        {</div>
+<div class="line"><span class="lineno"> 1045</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adb72665839c4e1a455c082fd2ab65b43">SPELL_SHADOW_NOVA</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1046</span>        }</div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08adb72665839c4e1a455c082fd2ab65b43"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08adb72665839c4e1a455c082fd2ab65b43">SPELL_SHADOW_NOVA</a></div><div class="ttdeci">@ SPELL_SHADOW_NOVA</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:71</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:627</div></div>
-<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1195</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1193</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01195">Unit::CastSpell()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00071">SPELL_SHADOW_NOVA</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01193">Unit::CastSpell()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, and <a class="el" href="../../#l00071">SPELL_SHADOW_NOVA</a>.</p>
 
 </div>
 </div>
@@ -630,14 +632,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1037</span>        {</div>
-<div class="line"><span class="lineno"> 1038</span>            <a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> = 0;</div>
-<div class="line"><span class="lineno"> 1039</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
-<div class="line"><span class="lineno"> 1040</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1038</span>        {</div>
+<div class="line"><span class="lineno"> 1039</span>            <a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> = 0;</div>
+<div class="line"><span class="lineno"> 1040</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">SetInCombatWithZone</a>();</div>
+<div class="line"><span class="lineno"> 1041</span>        }</div>
 <div class="ttc" id="aclassCreature_html_a01ccacf28df6336a774bf1672caf3571"><div class="ttname"><a href="../../db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571">Creature::SetInCombatWithZone</a></div><div class="ttdeci">void SetInCombatWithZone()</div><div class="ttdoc">Set in combat all units in the dungeon/raid. Affect only units with IsAIEnabled.</div><div class="ttdef"><b>Definition</b> Creature.cpp:2829</div></div>
-<div class="ttc" id="astructboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI_html_a45dec8609328d65413ae6c88f693ba15"><div class="ttname"><a href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">boss_yoggsaron_guardian_of_ys::boss_yoggsaron_guardian_of_ysAI::_spellTimer</a></div><div class="ttdeci">uint32 _spellTimer</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:1034</div></div>
+<div class="ttc" id="astructboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI_html_a45dec8609328d65413ae6c88f693ba15"><div class="ttname"><a href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">boss_yoggsaron_guardian_of_ys::boss_yoggsaron_guardian_of_ysAI::_spellTimer</a></div><div class="ttdeci">uint32 _spellTimer</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:1035</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01034">_spellTimer</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l02829">Creature::SetInCombatWithZone()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01035">_spellTimer</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, and <a class="el" href="../../#l02829">Creature::SetInCombatWithZone()</a>.</p>
 
 </div>
 </div>
@@ -668,24 +670,24 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1048</span>        {</div>
-<div class="line"><span class="lineno"> 1049</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno"> 1050</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1051</span> </div>
-<div class="line"><span class="lineno"> 1052</span>            <a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> += diff;</div>
-<div class="line"><span class="lineno"> 1053</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> &gt; 8000)</div>
-<div class="line"><span class="lineno"> 1054</span>            {</div>
-<div class="line"><span class="lineno"> 1055</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c">SPELL_DARK_VOLLEY</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1056</span>                <a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> = 0;</div>
-<div class="line"><span class="lineno"> 1057</span>            }</div>
-<div class="line"><span class="lineno"> 1058</span> </div>
-<div class="line"><span class="lineno"> 1059</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno"> 1060</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1049</span>        {</div>
+<div class="line"><span class="lineno"> 1050</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno"> 1051</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1052</span> </div>
+<div class="line"><span class="lineno"> 1053</span>            <a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> += diff;</div>
+<div class="line"><span class="lineno"> 1054</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> &gt; 8000)</div>
+<div class="line"><span class="lineno"> 1055</span>            {</div>
+<div class="line"><span class="lineno"> 1056</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c">SPELL_DARK_VOLLEY</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1057</span>                <a class="code hl_variable" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html#a45dec8609328d65413ae6c88f693ba15">_spellTimer</a> = 0;</div>
+<div class="line"><span class="lineno"> 1058</span>            }</div>
+<div class="line"><span class="lineno"> 1059</span> </div>
+<div class="line"><span class="lineno"> 1060</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno"> 1061</span>        }</div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c">SPELL_DARK_VOLLEY</a></div><div class="ttdeci">@ SPELL_DARK_VOLLEY</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:72</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01034">_spellTimer</a>, <a class="el" href="../../#l01195">Unit::CastSpell()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00072">SPELL_DARK_VOLLEY</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01035">_spellTimer</a>, <a class="el" href="../../#l01193">Unit::CastSpell()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00072">SPELL_DARK_VOLLEY</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -702,7 +704,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01036">Reset()</a>, and <a class="el" href="../../#l01047">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01037">Reset()</a>, and <a class="el" href="../../#l01048">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -715,7 +717,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d31/classboss__yoggsaron__guardian__of__ys.html">boss_yoggsaron_guardian_of_ys</a></li><li class="navelem"><a class="el" href="../../d4/d8c/structboss__yoggsaron__guardian__of__ys_1_1boss__yoggsaron__guardian__of__ysAI.html">boss_yoggsaron_guardian_of_ysAI</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

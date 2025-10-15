@@ -170,6 +170,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
+<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -637,13 +639,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassTempSummon_html"><div class="ttname"><a href="../../dc/d88/classTempSummon.html">TempSummon</a></div><div class="ttdef"><b>Definition</b> TemporarySummon.h:40</div></div>
 <div class="ttc" id="aclassThreatMgr_html_a6e1716a276a5c87fa37d5aff81501b83"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#a6e1716a276a5c87fa37d5aff81501b83">ThreatMgr::ClearAllThreat</a></div><div class="ttdeci">void ClearAllThreat()</div><div class="ttdef"><b>Definition</b> ThreatMgr.cpp:417</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:627</div></div>
-<div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14740</div></div>
+<div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14738</div></div>
 <div class="ttc" id="aclassUnit_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition</b> Unit.h:693</div></div>
 <div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:913</div></div>
 <div class="ttc" id="aclassUnit_html_ada48afda515b2bf5acc45c5872972114"><div class="ttname"><a href="../../df/dd9/classUnit.html#ada48afda515b2bf5acc45c5872972114">Unit::KillSelf</a></div><div class="ttdeci">void KillSelf(bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, SpellInfo const *spellProto=nullptr, Spell const *spell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.h:1178</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l14740">Unit::AddThreat()</a>, <a class="el" href="../../#l00417">ThreatMgr::ClearAllThreat()</a>, <a class="el" href="../../#l00913">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l01178">Unit::KillSelf()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, and <a class="el" href="../../#l00693">Unit::ToTempSummon()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l14738">Unit::AddThreat()</a>, <a class="el" href="../../#l00417">ThreatMgr::ClearAllThreat()</a>, <a class="el" href="../../#l00913">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l01178">Unit::KillSelf()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, and <a class="el" href="../../#l00693">Unit::ToTempSummon()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00165">EnterEvadeMode()</a>, and <a class="el" href="../../#l00143">IsSummonedBy()</a>.</p>
 
@@ -678,7 +680,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  125</span>    }</div>
 <div class="ttc" id="aclassCreature_html_aa8a50e4ad6c377c87844b6db31c1489f"><div class="ttname"><a href="../../db/dd5/classCreature.html#aa8a50e4ad6c377c87844b6db31c1489f">Creature::SetCorpseDelay</a></div><div class="ttdeci">void SetCorpseDelay(uint32 delay)</div><div class="ttdef"><b>Definition</b> Creature.h:74</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00074">Creature::SetCorpseDelay()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00282">ScriptedAI::me</a>, and <a class="el" href="../../#l00074">Creature::SetCorpseDelay()</a>.</p>
 
 </div>
 </div>
@@ -821,7 +823,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d59/structnpc__raging__flames.html">npc_raging_flames</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

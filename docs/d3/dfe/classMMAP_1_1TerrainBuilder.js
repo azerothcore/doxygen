@@ -1,6 +1,6 @@
 var classMMAP_1_1TerrainBuilder =
 [
-    [ "TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html#aa902f249e17be94980cc0b06da42d47e", null ],
+    [ "TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a915ff1fba60d09fd0e3fc9d89fe7fa1d", null ],
     [ "~TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a731cd606fd85b176b116512a2ccf86ee", null ],
     [ "TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a8f23adef45880c3cd771ce9d29054bd8", null ],
     [ "cleanVertices", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a7a3f53367758b6effcc7899894c148de", null ],
@@ -20,5 +20,7 @@ var classMMAP_1_1TerrainBuilder =
     [ "loadVMap", "d3/dfe/classMMAP_1_1TerrainBuilder.html#ae816d445265bde3c3866069bcd9e5184", null ],
     [ "transform", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
     [ "usesLiquids", "d3/dfe/classMMAP_1_1TerrainBuilder.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
-    [ "m_skipLiquid", "d3/dfe/classMMAP_1_1TerrainBuilder.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ]
+    [ "m_mapsPath", "d3/dfe/classMMAP_1_1TerrainBuilder.html#a3870ff6d7c9614cadca3d9d89f3fd810", null ],
+    [ "m_skipLiquid", "d3/dfe/classMMAP_1_1TerrainBuilder.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ],
+    [ "m_vmapsPath", "d3/dfe/classMMAP_1_1TerrainBuilder.html#ab4c289c4c91d84378e531ebbef85988f", null ]
 ];

@@ -1,5 +1,6 @@
 var namespaceMMAP =
 [
+    [ "Config", "d8/da7/classMMAP_1_1Config.html", "d8/da7/classMMAP_1_1Config" ],
     [ "IMMapMgr", "de/da2/classMMAP_1_1IMMapMgr.html", "de/da2/classMMAP_1_1IMMapMgr" ],
     [ "IntermediateValues", "de/d79/structMMAP_1_1IntermediateValues.html", "de/d79/structMMAP_1_1IntermediateValues" ],
     [ "MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html", "d4/dab/classMMAP_1_1MapBuilder" ],
@@ -8,10 +9,10 @@ var namespaceMMAP =
     [ "MMapData", "d7/d64/structMMAP_1_1MMapData.html", "d7/d64/structMMAP_1_1MMapData" ],
     [ "MMapFactory", "dc/d5c/classMMAP_1_1MMapFactory.html", "dc/d5c/classMMAP_1_1MMapFactory" ],
     [ "MMapMgr", "df/d8e/classMMAP_1_1MMapMgr.html", "df/d8e/classMMAP_1_1MMapMgr" ],
+    [ "ResolvedMeshConfig", "de/d4a/structMMAP_1_1ResolvedMeshConfig.html", "de/d4a/structMMAP_1_1ResolvedMeshConfig" ],
     [ "TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html", "d3/dfe/classMMAP_1_1TerrainBuilder" ],
     [ "Tile", "d2/dc0/structMMAP_1_1Tile.html", "d2/dc0/structMMAP_1_1Tile" ],
     [ "TileBuilder", "dd/d2d/classMMAP_1_1TileBuilder.html", "dd/d2d/classMMAP_1_1TileBuilder" ],
-    [ "TileConfig", "d4/d1e/structMMAP_1_1TileConfig.html", "d4/d1e/structMMAP_1_1TileConfig" ],
     [ "TileInfo", "d0/d9d/structMMAP_1_1TileInfo.html", "d0/d9d/structMMAP_1_1TileInfo" ],
     [ "MMapDataSet", "de/d19/namespaceMMAP.html#a7c987e5b93af6a44b28948b66804ad88", null ],
     [ "MMapTileSet", "de/d19/namespaceMMAP.html#a1e41f7222e3ee601b787809808325f2c", null ],
@@ -48,7 +49,11 @@ var namespaceMMAP =
       [ "BOTTOM", "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
       [ "ENTIRE", "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
     ] ],
+    [ "ComputeBaseUnitDim", "de/d19/namespaceMMAP.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "executableDirectoryPath", "de/d19/namespaceMMAP.html#acc9fa8dfc5903454eab1eb410866b694", null ],
     [ "getDirContents", "de/d19/namespaceMMAP.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
+    [ "isCurrentDirectory", "de/d19/namespaceMMAP.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "de/d19/namespaceMMAP.html#a45540263b1795bfc48c91a117c239a6c", null ],
     [ "matchWildcardFilter", "de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ],
     [ "g_MMapMgr", "de/d19/namespaceMMAP.html#a7ca17c8e81612c16a92e901cac65113e", null ],
     [ "GRID_PART_SIZE", "de/d19/namespaceMMAP.html#a39bc2d4fa649e77addef85b06c49b369", null ],
@@ -57,6 +62,7 @@ var namespaceMMAP =
     [ "holetab_v", "de/d19/namespaceMMAP.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
     [ "INVALID_MAP_LIQ_HEIGHT", "de/d19/namespaceMMAP.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
     [ "INVALID_MAP_LIQ_HEIGHT_MAX", "de/d19/namespaceMMAP.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "MAP_FILE_NAME_FORMAT", "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc", null ],
     [ "MAP_FILE_NAME_FORMAT", "de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc", null ],
     [ "MAP_VERSION_MAGIC", "de/d19/namespaceMMAP.html#aee23c8e21c084824373ce587f8fe1f04", null ],
     [ "TILE_FILE_NAME_FORMAT", "de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a", null ],

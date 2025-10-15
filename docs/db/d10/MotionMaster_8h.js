@@ -5,6 +5,12 @@ var MotionMaster_8h =
     [ "MotionMaster", "de/d3b/classMotionMaster.html", "de/d3b/classMotionMaster" ],
     [ "SPEED_CHARGE", "db/d10/MotionMaster_8h.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
     [ "VISUAL_WAYPOINT", "db/d10/MotionMaster_8h.html#af0544189c7fc748059c3075861102b40", null ],
+    [ "ForcedMovement", "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
+      [ "FORCED_MOVEMENT_NONE", "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece", null ],
+      [ "FORCED_MOVEMENT_WALK", "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37", null ],
+      [ "FORCED_MOVEMENT_RUN", "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2", null ],
+      [ "FORCED_MOVEMENT_MAX", "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f", null ]
+    ] ],
     [ "MMCleanFlag", "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5", [
       [ "MMCF_NONE", "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79", null ],
       [ "MMCF_UPDATE", "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5", null ],

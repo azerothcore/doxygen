@@ -1,5 +1,6 @@
 var MapDefines_8h =
 [
+    [ "MmapTileRecastConfig", "d1/d05/structMmapTileRecastConfig.html", "d1/d05/structMmapTileRecastConfig" ],
     [ "MmapTileHeader", "d1/d1b/structMmapTileHeader.html", "d1/d1b/structMmapTileHeader" ],
     [ "MAX_NUMBER_OF_CELLS", "d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
     [ "MAX_NUMBER_OF_GRIDS", "d6/d2a/MapDefines_8h.html#a857252154f120575d940ffbdf63bace6", null ],

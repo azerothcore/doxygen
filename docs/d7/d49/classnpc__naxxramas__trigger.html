@@ -536,7 +536,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  745</span>                    if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;SummonCreature(<a class="code hl_enumvalue" href="../../d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fac3a44c697fd59432ad619f877fb02b2b">NPC_LIVING_POISON</a>, entry.Start, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a>, entry.DespawnTime))</div>
 <div class="line"><span class="lineno">  746</span>                    {</div>
 <div class="line"><span class="lineno">  747</span>                        cr-&gt;AddUnitMovementFlag(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a>);</div>
-<div class="line"><span class="lineno">  748</span>                        cr-&gt;GetMotionMaster()-&gt;MovePoint(0, entry.End, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  748</span>                        cr-&gt;GetMotionMaster()-&gt;MovePoint(0, entry.End, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a>, 0.f, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  749</span>                    }</div>
 <div class="line"><span class="lineno">  750</span> </div>
 <div class="line"><span class="lineno">  751</span>                <a class="code hl_variable" href="../../d7/d49/classnpc__naxxramas__trigger.html#a1ab25fd0b40f373d30b0f60462dd276b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a34b5df29c85bce0873752b353a13fe5b">Repeat</a>(5s);</div>
@@ -546,6 +546,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  755</span>                <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  756</span>        }</div>
 <div class="line"><span class="lineno">  757</span>    }</div>
+<div class="ttc" id="aMotionMaster_8h_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a></div><div class="ttdeci">@ FORCED_MOVEMENT_NONE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:85</div></div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN</div><div class="ttdef"><b>Definition</b> Object.h:50</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daf3910f63fbfc30d508a4fd6a461ab84d">MOVEMENTFLAG_WALKING</a></div><div class="ttdeci">@ MOVEMENTFLAG_WALKING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:377</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
@@ -557,7 +558,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="anaxxramas_8h_html_a47060e5981fa834b2a68f3c948d41f7fac3a44c697fd59432ad619f877fb02b2b"><div class="ttname"><a href="../../d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fac3a44c697fd59432ad619f877fb02b2b">NPC_LIVING_POISON</a></div><div class="ttdeci">@ NPC_LIVING_POISON</div><div class="ttdef"><b>Definition</b> naxxramas.h:159</div></div>
 <div class="ttc" id="astructLivingPoisonData_html"><div class="ttname"><a href="../../d8/d59/structLivingPoisonData.html">LivingPoisonData</a></div><div class="ttdef"><b>Definition</b> instance_naxxramas.cpp:29</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00760">_events</a>, <a class="el" href="../../#l00273">EVENT_SUMMON_LIVING_POISON</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00036">LivingPoisonDataList</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00377">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00159">NPC_LIVING_POISON</a>, <a class="el" href="../../#l00076">EventMap::Repeat()</a>, <a class="el" href="../../#l02358">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00050">TEMPSUMMON_TIMED_DESPAWN</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">_events</a>, <a class="el" href="../../#l00273">EVENT_SUMMON_LIVING_POISON</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00085">FORCED_MOVEMENT_NONE</a>, <a class="el" href="../../#l00036">LivingPoisonDataList</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00377">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00159">NPC_LIVING_POISON</a>, <a class="el" href="../../#l00076">EventMap::Repeat()</a>, <a class="el" href="../../#l02358">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00050">TEMPSUMMON_TIMED_DESPAWN</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
 
 </div>
 </div>
@@ -595,7 +596,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d49/classnpc__naxxramas__trigger.html">npc_naxxramas_trigger</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

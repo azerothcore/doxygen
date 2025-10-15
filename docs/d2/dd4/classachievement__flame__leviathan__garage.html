@@ -202,13 +202,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1987</span>                                                                                       : <a class="code hl_class" href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a>(name),</div>
-<div class="line"><span class="lineno"> 1988</span>        <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#af482d6c1b2681b9fec572281620a86b7">_entry1</a>(entry1), <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#a41e83b47c411dc6a6aff310ae7059f4e">_entry2</a>(entry2)</div>
-<div class="line"><span class="lineno"> 1989</span>    {</div>
-<div class="line"><span class="lineno"> 1990</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1986</span>                                                                                       : <a class="code hl_class" href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a>(name),</div>
+<div class="line"><span class="lineno"> 1987</span>        <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#af482d6c1b2681b9fec572281620a86b7">_entry1</a>(entry1), <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#a41e83b47c411dc6a6aff310ae7059f4e">_entry2</a>(entry2)</div>
+<div class="line"><span class="lineno"> 1988</span>    {</div>
+<div class="line"><span class="lineno"> 1989</span>    }</div>
 <div class="ttc" id="aclassAchievementCriteriaScript_html"><div class="ttname"><a href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a></div><div class="ttdef"><b>Definition</b> AchievementCriteriaScript.h:24</div></div>
-<div class="ttc" id="aclassachievement__flame__leviathan__garage_html_a41e83b47c411dc6a6aff310ae7059f4e"><div class="ttname"><a href="../../d2/dd4/classachievement__flame__leviathan__garage.html#a41e83b47c411dc6a6aff310ae7059f4e">achievement_flame_leviathan_garage::_entry2</a></div><div class="ttdeci">uint32 const _entry2</div><div class="ttdef"><b>Definition</b> boss_flame_leviathan.cpp:2002</div></div>
-<div class="ttc" id="aclassachievement__flame__leviathan__garage_html_af482d6c1b2681b9fec572281620a86b7"><div class="ttname"><a href="../../d2/dd4/classachievement__flame__leviathan__garage.html#af482d6c1b2681b9fec572281620a86b7">achievement_flame_leviathan_garage::_entry1</a></div><div class="ttdeci">uint32 const _entry1</div><div class="ttdef"><b>Definition</b> boss_flame_leviathan.cpp:2001</div></div>
+<div class="ttc" id="aclassachievement__flame__leviathan__garage_html_a41e83b47c411dc6a6aff310ae7059f4e"><div class="ttname"><a href="../../d2/dd4/classachievement__flame__leviathan__garage.html#a41e83b47c411dc6a6aff310ae7059f4e">achievement_flame_leviathan_garage::_entry2</a></div><div class="ttdeci">uint32 const _entry2</div><div class="ttdef"><b>Definition</b> boss_flame_leviathan.cpp:2001</div></div>
+<div class="ttc" id="aclassachievement__flame__leviathan__garage_html_af482d6c1b2681b9fec572281620a86b7"><div class="ttname"><a href="../../d2/dd4/classachievement__flame__leviathan__garage.html#af482d6c1b2681b9fec572281620a86b7">achievement_flame_leviathan_garage::_entry1</a></div><div class="ttdeci">uint32 const _entry1</div><div class="ttdef"><b>Definition</b> boss_flame_leviathan.cpp:2000</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -254,16 +254,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/d9f/classAchievementCriteriaScript.html#a9fab6f158219db6d5a65b0b302cf285e">AchievementCriteriaScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1993</span>    {</div>
-<div class="line"><span class="lineno"> 1994</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicle = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
-<div class="line"><span class="lineno"> 1995</span>            <span class="keywordflow">if</span> (vehicle-&gt;GetCreatureEntry() == <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#af482d6c1b2681b9fec572281620a86b7">_entry1</a> || vehicle-&gt;GetCreatureEntry() == <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#a41e83b47c411dc6a6aff310ae7059f4e">_entry2</a>)</div>
-<div class="line"><span class="lineno"> 1996</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1997</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1998</span>    }</div>
-<div class="ttc" id="aclassUnit_html_a0839378167049038c2857252d3b14738"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0839378167049038c2857252d3b14738">Unit::GetVehicle</a></div><div class="ttdeci">Vehicle * GetVehicle() const</div><div class="ttdef"><b>Definition</b> Unit.h:1859</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1992</span>    {</div>
+<div class="line"><span class="lineno"> 1993</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicle = player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
+<div class="line"><span class="lineno"> 1994</span>            <span class="keywordflow">if</span> (vehicle-&gt;GetCreatureEntry() == <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#af482d6c1b2681b9fec572281620a86b7">_entry1</a> || vehicle-&gt;GetCreatureEntry() == <a class="code hl_variable" href="../../d2/dd4/classachievement__flame__leviathan__garage.html#a41e83b47c411dc6a6aff310ae7059f4e">_entry2</a>)</div>
+<div class="line"><span class="lineno"> 1995</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1996</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1997</span>    }</div>
+<div class="ttc" id="aclassUnit_html_a0839378167049038c2857252d3b14738"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0839378167049038c2857252d3b14738">Unit::GetVehicle</a></div><div class="ttdeci">Vehicle * GetVehicle() const</div><div class="ttdef"><b>Definition</b> Unit.h:1857</div></div>
 <div class="ttc" id="aclassVehicle_html"><div class="ttname"><a href="../../dc/d23/classVehicle.html">Vehicle</a></div><div class="ttdef"><b>Definition</b> Vehicle.h:28</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01859">Unit::GetVehicle()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01857">Unit::GetVehicle()</a>.</p>
 
 </div>
 </div>
@@ -321,7 +321,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/dd4/classachievement__flame__leviathan__garage.html">achievement_flame_leviathan_garage</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:23:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

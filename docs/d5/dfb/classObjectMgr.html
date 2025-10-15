@@ -6421,9 +6421,9 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="ttc" id="aclassObject_html_a0958df7e77da48c2cfb6fad103a9ea44"><div class="ttname"><a href="../../d8/d4b/classObject.html#a0958df7e77da48c2cfb6fad103a9ea44">Object::GetByteValue</a></div><div class="ttdeci">uint8 GetByteValue(uint16 index, uint8 offset) const</div><div class="ttdef"><b>Definition</b> Object.cpp:312</div></div>
 <div class="ttc" id="aclassPlayer_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition</b> Player.h:2108</div></div>
 <div class="ttc" id="aclassUnit_html_a0d13935c40d0392f7f7b5a34540461b2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2">Unit::getGender</a></div><div class="ttdeci">uint8 getGender() const</div><div class="ttdef"><b>Definition</b> Unit.h:808</div></div>
-<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:20941</div></div>
+<div class="ttc" id="aclassUnit_html_a60368071d6d8e6a23977ea4b44249de1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a60368071d6d8e6a23977ea4b44249de1">Unit::getRace</a></div><div class="ttdeci">uint8 getRace(bool original=false) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:20939</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01637">_playerShapeshiftModel</a>, <a class="el" href="../../#l00063">GENDER_NONE</a>, <a class="el" href="../../#l00312">Object::GetByteValue()</a>, <a class="el" href="../../#l00808">Unit::getGender()</a>, <a class="el" href="../../#l20941">Unit::getRace()</a>, <a class="el" href="../../#l02108">Player::GetTeamId()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00181">PLAYER_BYTES</a>, and <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01637">_playerShapeshiftModel</a>, <a class="el" href="../../#l00063">GENDER_NONE</a>, <a class="el" href="../../#l00312">Object::GetByteValue()</a>, <a class="el" href="../../#l00808">Unit::getGender()</a>, <a class="el" href="../../#l20939">Unit::getRace()</a>, <a class="el" href="../../#l02108">Player::GetTeamId()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00181">PLAYER_BYTES</a>, and <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>.</p>
 
 </div>
 </div>
@@ -9439,7 +9439,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <p>Load config option Creatures.CustomIDs into Store. </p>
 <div class="fragment"><div class="line"><span class="lineno">  950</span>{</div>
 <div class="line"><span class="lineno">  951</span>    <span class="comment">// Hack for modules</span></div>
-<div class="line"><span class="lineno">  952</span>    std::string stringCreatureIds = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;Creatures.CustomIDs&quot;</span>, <span class="stringliteral">&quot;190010,55005,999991,25462,98888,601014,34567,34568&quot;</span>);</div>
+<div class="line"><span class="lineno">  952</span>    std::string stringCreatureIds = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;Creatures.CustomIDs&quot;</span>, <span class="stringliteral">&quot;190010,55005,999991,25462,98888,601014,34567,34568&quot;</span>);</div>
 <div class="line"><span class="lineno">  953</span>    std::vector&lt;std::string_view&gt; CustomCreatures = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(stringCreatureIds, <span class="charliteral">&#39;,&#39;</span>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  954</span> </div>
 <div class="line"><span class="lineno">  955</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; itr : CustomCreatures)</div>
@@ -9447,7 +9447,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div class="line"><span class="lineno">  957</span>        <a class="code hl_variable" href="../../d5/dfb/classObjectMgr.html#a2ec5f2a7984079b6fb4911fe7cfb7638">_creatureCustomIDsStore</a>.push_back(Acore::StringTo&lt;uint32&gt;(itr).value());</div>
 <div class="line"><span class="lineno">  958</span>    }</div>
 <div class="line"><span class="lineno">  959</span>}</div>
-<div class="ttc" id="aConfig_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
+<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01585">_creatureCustomIDsStore</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
@@ -22102,7 +22102,7 @@ template&lt;<a class="el" href="../../dc/dc9/ObjectGuid_8h.html#abe8666ac87665ba
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dfb/classObjectMgr.html">ObjectMgr</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

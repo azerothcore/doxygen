@@ -159,6 +159,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
+<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -558,9 +560,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  169</span>    }</div>
 <div class="ttc" id="aclassWorldObject_html_a7182e916128ed9d0942413c0f14315a7"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7182e916128ed9d0942413c0f14315a7">WorldObject::setActive</a></div><div class="ttdeci">void setActive(bool isActiveObject)</div><div class="ttdef"><b>Definition</b> Object.cpp:1065</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l01065">WorldObject::setActive()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00282">ScriptedAI::me</a>, and <a class="el" href="../../#l01065">WorldObject::setActive()</a>.</p>
 
 </div>
 </div>
@@ -608,11 +610,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  177</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a23e0ca69f748d880379bfa4f9a617f76">SPELL_COMMUNIQUE_TIMER_NECROPOLIS</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  178</span>    }</div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:391</div></div>
-<div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5790</div></div>
+<div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5788</div></div>
 <div class="ttc" id="ascourge__invasion_8h_html_a4f93bde7f07c5ec51a8cfd8df0954824a23e0ca69f748d880379bfa4f9a617f76"><div class="ttname"><a href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a23e0ca69f748d880379bfa4f9a617f76">SPELL_COMMUNIQUE_TIMER_NECROPOLIS</a></div><div class="ttdeci">@ SPELL_COMMUNIQUE_TIMER_NECROPOLIS</div><div class="ttdef"><b>Definition</b> scourge_invasion.h:38</div></div>
 <div class="ttc" id="ascourge__invasion_8h_html_a4f93bde7f07c5ec51a8cfd8df0954824aa4d76e0baf2656a5f29cd25b928ecce8"><div class="ttname"><a href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824aa4d76e0baf2656a5f29cd25b928ecce8">SPELL_COMMUNIQUE_PROXY_TO_NECROPOLIS</a></div><div class="ttdeci">@ SPELL_COMMUNIQUE_PROXY_TO_NECROPOLIS</div><div class="ttdef"><b>Definition</b> scourge_invasion.h:42</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00391">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l05790">Unit::HasAura()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00042">SPELL_COMMUNIQUE_PROXY_TO_NECROPOLIS</a>, and <a class="el" href="../../#l00038">SPELL_COMMUNIQUE_TIMER_NECROPOLIS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00391">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l05788">Unit::HasAura()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00042">SPELL_COMMUNIQUE_PROXY_TO_NECROPOLIS</a>, and <a class="el" href="../../#l00038">SPELL_COMMUNIQUE_TIMER_NECROPOLIS</a>.</p>
 
 </div>
 </div>
@@ -625,7 +627,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/dd4/structnpc__necropolis.html">npc_necropolis</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

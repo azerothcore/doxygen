@@ -58,6 +58,7 @@ var structScriptedAI =
     [ "SetAutoAttackAllowed", "db/dc8/structScriptedAI.html#abd114e8ede4c3543d6d134393939a881", null ],
     [ "SetEquipmentSlots", "db/dc8/structScriptedAI.html#a3576525c6a84c0110304496b935929eb", null ],
     [ "SetInvincibility", "db/dc8/structScriptedAI.html#a24d913e15199a26fe8e57a368ed9112a", null ],
+    [ "SetRun", "db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51", null ],
     [ "SetUniqueTimedEventDone", "db/dc8/structScriptedAI.html#ad572f86a14c50afb9da4d751a4c75109", null ],
     [ "SpellHit", "db/dc8/structScriptedAI.html#a7c4ff5a7547e75576c127ba4a514e548", null ],
     [ "SpellHitTarget", "db/dc8/structScriptedAI.html#ac91263675c34a59bbd53b15988a9183e", null ],

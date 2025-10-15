@@ -166,6 +166,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
+<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -564,7 +566,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1094</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(c) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1096</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(c) { }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -597,10 +599,10 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1102</span>        {</div>
-<div class="line"><span class="lineno"> 1103</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>, 6s);</div>
-<div class="line"><span class="lineno"> 1104</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>, 4s);</div>
-<div class="line"><span class="lineno"> 1105</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1104</span>        {</div>
+<div class="line"><span class="lineno"> 1105</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>, 6s);</div>
+<div class="line"><span class="lineno"> 1106</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>, 4s);</div>
+<div class="line"><span class="lineno"> 1107</span>        }</div>
 <div class="ttc" id="aboss__sartura_8cpp_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="abrann__bronzebeard_8cpp_html_ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23"><div class="ttname"><a href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a></div><div class="ttdeci">@ EVENT_IGC_GROUND_SMASH</div><div class="ttdef"><b>Definition</b> brann_bronzebeard.cpp:104</div></div>
 <div class="ttc" id="abrann__bronzebeard_8cpp_html_ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191"><div class="ttname"><a href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a></div><div class="ttdeci">@ EVENT_IGC_CRUSH</div><div class="ttdef"><b>Definition</b> brann_bronzebeard.cpp:103</div></div>
@@ -633,9 +635,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1097</span>        {</div>
-<div class="line"><span class="lineno"> 1098</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
-<div class="line"><span class="lineno"> 1099</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1099</span>        {</div>
+<div class="line"><span class="lineno"> 1100</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
+<div class="line"><span class="lineno"> 1101</span>        }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -666,43 +668,43 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../df/d8e/structiron__golem__custodian_1_1iron__golem__custodianAI.html#acd67b8d4df95eb8b0d0365184e47a29c" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1107</span>        {</div>
-<div class="line"><span class="lineno"> 1108</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno"> 1109</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1110</span> </div>
-<div class="line"><span class="lineno"> 1111</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
-<div class="line"><span class="lineno"> 1112</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
-<div class="line"><span class="lineno"> 1113</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1114</span> </div>
-<div class="line"><span class="lineno"> 1115</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
-<div class="line"><span class="lineno"> 1116</span>            {</div>
-<div class="line"><span class="lineno"> 1117</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>:</div>
-<div class="line"><span class="lineno"> 1118</span>                    {</div>
-<div class="line"><span class="lineno"> 1119</span>                        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae">SPELL_IGC_CRUSH_ARMOR</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1120</span>                        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(6s);</div>
-<div class="line"><span class="lineno"> 1121</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1122</span>                    }</div>
-<div class="line"><span class="lineno"> 1123</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>:</div>
-<div class="line"><span class="lineno"> 1124</span>                    {</div>
-<div class="line"><span class="lineno"> 1125</span>                        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">IsHeroic</a>() ? <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad134a3a8adb0fcce809659e730fc1fd1">SPELL_IGC_GROUND_SMASH_H</a> : <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80">SPELL_IGC_GROUND_SMASH</a>, false);</div>
-<div class="line"><span class="lineno"> 1126</span>                        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(5s);</div>
-<div class="line"><span class="lineno"> 1127</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1128</span>                    }</div>
-<div class="line"><span class="lineno"> 1129</span>            }</div>
-<div class="line"><span class="lineno"> 1130</span> </div>
-<div class="line"><span class="lineno"> 1131</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno"> 1132</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1109</span>        {</div>
+<div class="line"><span class="lineno"> 1110</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno"> 1111</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1112</span> </div>
+<div class="line"><span class="lineno"> 1113</span>            <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno"> 1114</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
+<div class="line"><span class="lineno"> 1115</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1116</span> </div>
+<div class="line"><span class="lineno"> 1117</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno"> 1118</span>            {</div>
+<div class="line"><span class="lineno"> 1119</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>:</div>
+<div class="line"><span class="lineno"> 1120</span>                    {</div>
+<div class="line"><span class="lineno"> 1121</span>                        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae">SPELL_IGC_CRUSH_ARMOR</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1122</span>                        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(6s);</div>
+<div class="line"><span class="lineno"> 1123</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1124</span>                    }</div>
+<div class="line"><span class="lineno"> 1125</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>:</div>
+<div class="line"><span class="lineno"> 1126</span>                    {</div>
+<div class="line"><span class="lineno"> 1127</span>                        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">IsHeroic</a>() ? <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad134a3a8adb0fcce809659e730fc1fd1">SPELL_IGC_GROUND_SMASH_H</a> : <a class="code hl_enumvalue" href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80">SPELL_IGC_GROUND_SMASH</a>, false);</div>
+<div class="line"><span class="lineno"> 1128</span>                        <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(5s);</div>
+<div class="line"><span class="lineno"> 1129</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1130</span>                    }</div>
+<div class="line"><span class="lineno"> 1131</span>            }</div>
+<div class="line"><span class="lineno"> 1132</span> </div>
+<div class="line"><span class="lineno"> 1133</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno"> 1134</span>        }</div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:185</div></div>
 <div class="ttc" id="abrann__bronzebeard_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80"><div class="ttname"><a href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80">SPELL_IGC_GROUND_SMASH</a></div><div class="ttdeci">@ SPELL_IGC_GROUND_SMASH</div><div class="ttdef"><b>Definition</b> brann_bronzebeard.cpp:71</div></div>
 <div class="ttc" id="abrann__bronzebeard_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae"><div class="ttname"><a href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae">SPELL_IGC_CRUSH_ARMOR</a></div><div class="ttdeci">@ SPELL_IGC_CRUSH_ARMOR</div><div class="ttdef"><b>Definition</b> brann_bronzebeard.cpp:70</div></div>
 <div class="ttc" id="abrann__bronzebeard_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ad134a3a8adb0fcce809659e730fc1fd1"><div class="ttname"><a href="../../d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad134a3a8adb0fcce809659e730fc1fd1">SPELL_IGC_GROUND_SMASH_H</a></div><div class="ttdeci">@ SPELL_IGC_GROUND_SMASH_H</div><div class="ttdef"><b>Definition</b> brann_bronzebeard.cpp:72</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
-<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1195</div></div>
+<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1193</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:863</div></div>
 <div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:698</div></div>
-<div class="ttc" id="astructScriptedAI_html_a14abf83c60abf99df6186e0247ce20bd"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">ScriptedAI::IsHeroic</a></div><div class="ttdeci">bool IsHeroic() const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:379</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="astructScriptedAI_html_a14abf83c60abf99df6186e0247ce20bd"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">ScriptedAI::IsHeroic</a></div><div class="ttdeci">bool IsHeroic() const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:381</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00103">EVENT_IGC_CRUSH</a>, <a class="el" href="../../#l00104">EVENT_IGC_GROUND_SMASH</a>, <a class="el" href="../../#l00070">SPELL_IGC_CRUSH_ARMOR</a>, <a class="el" href="../../#l00071">SPELL_IGC_GROUND_SMASH</a>, <a class="el" href="../../#l00072">SPELL_IGC_GROUND_SMASH_H</a>, and <a class="el" href="../../#l00185">UNIT_STATE_CASTING</a>.</p>
 
@@ -732,7 +734,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d1d/classiron__golem__custodian.html">iron_golem_custodian</a></li><li class="navelem"><a class="el" href="../../df/d8e/structiron__golem__custodian_1_1iron__golem__custodianAI.html">iron_golem_custodianAI</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -267,6 +267,7 @@ var annotated_dup =
       [ "RBInternalInfo", "d5/d65/structlfg_1_1RBInternalInfo.html", "d5/d65/structlfg_1_1RBInternalInfo" ]
     ] ],
     [ "MMAP", "de/d19/namespaceMMAP.html", [
+      [ "Config", "d8/da7/classMMAP_1_1Config.html", "d8/da7/classMMAP_1_1Config" ],
       [ "IMMapMgr", "de/da2/classMMAP_1_1IMMapMgr.html", "de/da2/classMMAP_1_1IMMapMgr" ],
       [ "IntermediateValues", "de/d79/structMMAP_1_1IntermediateValues.html", "de/d79/structMMAP_1_1IntermediateValues" ],
       [ "MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html", "d4/dab/classMMAP_1_1MapBuilder" ],
@@ -275,10 +276,10 @@ var annotated_dup =
       [ "MMapData", "d7/d64/structMMAP_1_1MMapData.html", "d7/d64/structMMAP_1_1MMapData" ],
       [ "MMapFactory", "dc/d5c/classMMAP_1_1MMapFactory.html", "dc/d5c/classMMAP_1_1MMapFactory" ],
       [ "MMapMgr", "df/d8e/classMMAP_1_1MMapMgr.html", "df/d8e/classMMAP_1_1MMapMgr" ],
+      [ "ResolvedMeshConfig", "de/d4a/structMMAP_1_1ResolvedMeshConfig.html", "de/d4a/structMMAP_1_1ResolvedMeshConfig" ],
       [ "TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html", "d3/dfe/classMMAP_1_1TerrainBuilder" ],
       [ "Tile", "d2/dc0/structMMAP_1_1Tile.html", "d2/dc0/structMMAP_1_1Tile" ],
       [ "TileBuilder", "dd/d2d/classMMAP_1_1TileBuilder.html", "dd/d2d/classMMAP_1_1TileBuilder" ],
-      [ "TileConfig", "d4/d1e/structMMAP_1_1TileConfig.html", "d4/d1e/structMMAP_1_1TileConfig" ],
       [ "TileInfo", "d0/d9d/structMMAP_1_1TileInfo.html", "d0/d9d/structMMAP_1_1TileInfo" ]
     ] ],
     [ "Movement", "db/db7/namespaceMovement.html", [
@@ -298,7 +299,8 @@ var annotated_dup =
       [ "TransportPathTransform", "d6/d88/classMovement_1_1TransportPathTransform.html", "d6/d88/classMovement_1_1TransportPathTransform" ]
     ] ],
     [ "std", "d8/dcc/namespacestd.html", [
-      [ "hash< ObjectGuid >", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4" ]
+      [ "hash< ObjectGuid >", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4" ],
+      [ "hash< std::pair< uint32_t, uint32_t > >", "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html", "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4" ]
     ] ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", [
       [ "AreaAndLiquidData", "d7/dcc/structVMAP_1_1AreaAndLiquidData.html", "d7/dcc/structVMAP_1_1AreaAndLiquidData" ],
@@ -2019,6 +2021,7 @@ var annotated_dup =
     [ "mmaps_commandscript", "da/df3/classmmaps__commandscript.html", "da/df3/classmmaps__commandscript" ],
     [ "MMapTargetData", "d8/d7d/classMMapTargetData.html", "d8/d7d/classMMapTargetData" ],
     [ "MmapTileHeader", "d1/d1b/structMmapTileHeader.html", "d1/d1b/structMmapTileHeader" ],
+    [ "MmapTileRecastConfig", "d1/d05/structMmapTileRecastConfig.html", "d1/d05/structMmapTileRecastConfig" ],
     [ "MockArenaSeasonTeamRewarder", "d8/d8b/classMockArenaSeasonTeamRewarder.html", "d8/d8b/classMockArenaSeasonTeamRewarder" ],
     [ "Model", "d6/d18/classModel.html", "d6/d18/classModel" ],
     [ "ModelEquip", "dd/dac/structModelEquip.html", "dd/dac/structModelEquip" ],

@@ -113,7 +113,7 @@ $(document).ready(function(){initNavTree('d2/d50/tools_2dbimport_2Main_8cpp.html
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
@@ -203,7 +203,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  140</span>        (<span class="stringliteral">&quot;help,h&quot;</span>, <span class="stringliteral">&quot;print usage message&quot;</span>)</div>
 <div class="line"><span class="lineno">  141</span>        (<span class="stringliteral">&quot;version,v&quot;</span>, <span class="stringliteral">&quot;print version build info&quot;</span>)</div>
 <div class="line"><span class="lineno">  142</span>        (<span class="stringliteral">&quot;dry-run,d&quot;</span>, <span class="stringliteral">&quot;Dry run&quot;</span>)</div>
-<div class="line"><span class="lineno">  143</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>);</div>
+<div class="line"><span class="lineno">  143</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>);</div>
 <div class="line"><span class="lineno">  144</span> </div>
 <div class="line"><span class="lineno">  145</span>    variables_map variablesMap;</div>
 <div class="line"><span class="lineno">  146</span> </div>
@@ -223,12 +223,12 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  160</span>    }</div>
 <div class="line"><span class="lineno">  161</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
 <div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  163</span>        <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  164</span>    }</div>
 <div class="line"><span class="lineno">  165</span> </div>
 <div class="line"><span class="lineno">  166</span>    <span class="keywordflow">return</span> variablesMap;</div>
 <div class="line"><span class="lineno">  167</span>}</div>
-<div class="ttc" id="aConfig_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
+<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
 <div class="ttc" id="atools_2dbimport_2Main_8cpp_html_a97392c73658eeeb49d256527b19ad90f"><div class="ttname"><a href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a></div><div class="ttdeci">#define _ACORE_DB_IMPORT_CONFIG</div><div class="ttdef"><b>Definition</b> Main.cpp:36</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, and <a class="el" href="../../#l00074">sConfigMgr</a>.</p>
@@ -268,7 +268,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   49</span>    signal(SIGABRT, &amp;<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#ad49ea597ac6ffd8eb9ae06bab8c38b43">Acore::AbortHandler</a>);</div>
 <div class="line"><span class="lineno">   50</span> </div>
 <div class="line"><span class="lineno">   51</span>    <span class="comment">// Command line parsing</span></div>
-<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> configFile = fs::path(<a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>));</div>
+<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> configFile = fs::path(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>));</div>
 <div class="line"><span class="lineno">   53</span>    <span class="keyword">auto</span> vm = <a class="code hl_function" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a>(argc, argv, configFile);</div>
 <div class="line"><span class="lineno">   54</span> </div>
 <div class="line"><span class="lineno">   55</span>    <span class="comment">// exit if help is enabled</span></div>
@@ -276,12 +276,12 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> 0;</div>
 <div class="line"><span class="lineno">   58</span> </div>
 <div class="line"><span class="lineno">   59</span>    <span class="comment">// Add file and args in config</span></div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;Configure(configFile.generic_string(), std::vector&lt;std::string&gt;(argv, argv + argc));</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;Configure(configFile.generic_string(), std::vector&lt;std::string&gt;(argv, argv + argc));</div>
 <div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;LoadAppConfigs())</div>
+<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;LoadAppConfigs())</div>
 <div class="line"><span class="lineno">   63</span>        <span class="keywordflow">return</span> 1;</div>
 <div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    std::vector&lt;std::string&gt; overriddenKeys = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;OverrideWithEnvVariablesIfAny();</div>
+<div class="line"><span class="lineno">   65</span>    std::vector&lt;std::string&gt; overriddenKeys = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;OverrideWithEnvVariablesIfAny();</div>
 <div class="line"><span class="lineno">   66</span> </div>
 <div class="line"><span class="lineno">   67</span>    <span class="comment">// Init logging</span></div>
 <div class="line"><span class="lineno">   68</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#ab5487500f5b4b12072043104b916d582">sLog</a>-&gt;Initialize();</div>
@@ -293,7 +293,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   74</span>        },</div>
 <div class="line"><span class="lineno">   75</span>        []()</div>
 <div class="line"><span class="lineno">   76</span>        {</div>
-<div class="line"><span class="lineno">   77</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using configuration file:       {}&quot;</span>, <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetFilename());</div>
+<div class="line"><span class="lineno">   77</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using configuration file:       {}&quot;</span>, <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetFilename());</div>
 <div class="line"><span class="lineno">   78</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using SSL version:              {} (library: {})&quot;</span>, OPENSSL_VERSION_TEXT, OpenSSL_version(OPENSSL_VERSION));</div>
 <div class="line"><span class="lineno">   79</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using Boost version:            {}.{}.{}&quot;</span>, BOOST_VERSION / 100000, BOOST_VERSION / 100 % 1000, BOOST_VERSION % 100);</div>
 <div class="line"><span class="lineno">   80</span>        }</div>
@@ -350,7 +350,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  104</span>    <a class="code hl_function" href="../../d0/dc2/namespaceMySQL.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a>();</div>
 <div class="line"><span class="lineno">  105</span> </div>
 <div class="line"><span class="lineno">  106</span>    <span class="comment">// Load modules conditionally based on what modules are allowed to auto-update or none</span></div>
-<div class="line"><span class="lineno">  107</span>    std::string modules = <a class="code hl_define" href="../../d5/de3/Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;Updates.AllowedModules&quot;</span>, <span class="stringliteral">&quot;all&quot;</span>);</div>
+<div class="line"><span class="lineno">  107</span>    std::string modules = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;Updates.AllowedModules&quot;</span>, <span class="stringliteral">&quot;all&quot;</span>);</div>
 <div class="line"><span class="lineno">  108</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;Loading modules: {}&quot;</span>, modules.empty() ? <span class="stringliteral">&quot;none&quot;</span> : modules);</div>
 <div class="line"><span class="lineno">  109</span> </div>
 <div class="line"><span class="lineno">  110</span>    <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a> loader =</div>
@@ -419,7 +419,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_641f68e763fd61f0f25b36c08d43d6d4.html">dbimport</a></li><li class="navelem"><a class="el" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html">Main.cpp</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:23:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

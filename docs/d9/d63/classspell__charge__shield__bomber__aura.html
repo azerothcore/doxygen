@@ -342,11 +342,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1149</span>    {</div>
-<div class="line"><span class="lineno"> 1150</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> absorbPct = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() / 2;</div>
-<div class="line"><span class="lineno"> 1151</span>        absorbAmount = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(dmgInfo.<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>(), absorbPct);</div>
-<div class="line"><span class="lineno"> 1152</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1);</div>
-<div class="line"><span class="lineno"> 1153</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1146</span>    {</div>
+<div class="line"><span class="lineno"> 1147</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> absorbPct = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() / 2;</div>
+<div class="line"><span class="lineno"> 1148</span>        absorbAmount = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(dmgInfo.<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>(), absorbPct);</div>
+<div class="line"><span class="lineno"> 1149</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1);</div>
+<div class="line"><span class="lineno"> 1150</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aUtil_8h_html_ae00607f8188c59ffcea5a3997c0120b0"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a></div><div class="ttdeci">T CalculatePct(T base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:61</div></div>
 <div class="ttc" id="aclassAuraScript_html_aeec67792a625ebfcd9c5f3e431d5da32"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">AuraScript::GetStackAmount</a></div><div class="ttdeci">uint8 GetStackAmount() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1125</div></div>
@@ -355,7 +355,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00061">CalculatePct()</a>, <a class="el" href="../../#l00365">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l01125">AuraScript::GetStackAmount()</a>, and <a class="el" href="../../#l01135">AuraScript::ModStackAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01155">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01152">Register()</a>.</p>
 
 </div>
 </div>
@@ -398,12 +398,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1143</span>    {</div>
-<div class="line"><span class="lineno"> 1144</span>        <span class="comment">// Set absorbtion amount to unlimited</span></div>
-<div class="line"><span class="lineno"> 1145</span>        amount = -1;</div>
-<div class="line"><span class="lineno"> 1146</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1140</span>    {</div>
+<div class="line"><span class="lineno"> 1141</span>        <span class="comment">// Set absorbtion amount to unlimited</span></div>
+<div class="line"><span class="lineno"> 1142</span>        amount = -1;</div>
+<div class="line"><span class="lineno"> 1143</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01155">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01152">Register()</a>.</p>
 
 </div>
 </div>
@@ -457,13 +457,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1156</span>    {</div>
-<div class="line"><span class="lineno"> 1157</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f">m_scriptSpellId</a> == <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6daf8880f5742eb86c5b357836440147506">SPELL_INFRA_GREEN_SHIELD</a>)</div>
-<div class="line"><span class="lineno"> 1158</span>        {</div>
-<div class="line"><span class="lineno"> 1159</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766">spell_charge_shield_bomber_aura::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08">SPELL_AURA_SCHOOL_ABSORB</a>);</div>
-<div class="line"><span class="lineno"> 1160</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">OnEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045">spell_charge_shield_bomber_aura::Absorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
-<div class="line"><span class="lineno"> 1161</span>        }</div>
-<div class="line"><span class="lineno"> 1162</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1153</span>    {</div>
+<div class="line"><span class="lineno"> 1154</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f">m_scriptSpellId</a> == <a class="code hl_enumvalue" href="../../d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6daf8880f5742eb86c5b357836440147506">SPELL_INFRA_GREEN_SHIELD</a>)</div>
+<div class="line"><span class="lineno"> 1155</span>        {</div>
+<div class="line"><span class="lineno"> 1156</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766">spell_charge_shield_bomber_aura::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08">SPELL_AURA_SCHOOL_ABSORB</a>);</div>
+<div class="line"><span class="lineno"> 1157</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">OnEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045">spell_charge_shield_bomber_aura::Absorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
+<div class="line"><span class="lineno"> 1158</span>        }</div>
+<div class="line"><span class="lineno"> 1159</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08">SPELL_AURA_SCHOOL_ABSORB</a></div><div class="ttdeci">@ SPELL_AURA_SCHOOL_ABSORB</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:132</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:772</div></div>
@@ -471,11 +471,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:771</div></div>
 <div class="ttc" id="aclassAuraScript_html_a909387711ea2be188172d2f72391e2cf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">AuraScript::OnEffectAbsorb</a></div><div class="ttdeci">HookList&lt; EffectAbsorbHandler &gt; OnEffectAbsorb</div><div class="ttdef"><b>Definition</b> SpellScript.h:789</div></div>
 <div class="ttc" id="aclass__SpellScript_html_ae2ab4203d324b2179ad06ffdb5d8626f"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f">_SpellScript::m_scriptSpellId</a></div><div class="ttdeci">uint32 m_scriptSpellId</div><div class="ttdef"><b>Definition</b> SpellScript.h:107</div></div>
-<div class="ttc" id="aclassspell__charge__shield__bomber__aura_html_a456ee99a71062f6217bda7561e4e7766"><div class="ttname"><a href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766">spell_charge_shield_bomber_aura::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1142</div></div>
-<div class="ttc" id="aclassspell__charge__shield__bomber__aura_html_a784b48553696734abac77545df2fc045"><div class="ttname"><a href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045">spell_charge_shield_bomber_aura::Absorb</a></div><div class="ttdeci">void Absorb(AuraEffect *, DamageInfo &amp;dmgInfo, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1148</div></div>
-<div class="ttc" id="azone__icecrown_8cpp_html_adb47ccee11b7adba160adeac2db87c6daf8880f5742eb86c5b357836440147506"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6daf8880f5742eb86c5b357836440147506">SPELL_INFRA_GREEN_SHIELD</a></div><div class="ttdeci">@ SPELL_INFRA_GREEN_SHIELD</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1046</div></div>
+<div class="ttc" id="aclassspell__charge__shield__bomber__aura_html_a456ee99a71062f6217bda7561e4e7766"><div class="ttname"><a href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a456ee99a71062f6217bda7561e4e7766">spell_charge_shield_bomber_aura::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1139</div></div>
+<div class="ttc" id="aclassspell__charge__shield__bomber__aura_html_a784b48553696734abac77545df2fc045"><div class="ttname"><a href="../../d9/d63/classspell__charge__shield__bomber__aura.html#a784b48553696734abac77545df2fc045">spell_charge_shield_bomber_aura::Absorb</a></div><div class="ttdeci">void Absorb(AuraEffect *, DamageInfo &amp;dmgInfo, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1145</div></div>
+<div class="ttc" id="azone__icecrown_8cpp_html_adb47ccee11b7adba160adeac2db87c6daf8880f5742eb86c5b357836440147506"><div class="ttname"><a href="../../d6/d81/zone__icecrown_8cpp.html#adb47ccee11b7adba160adeac2db87c6daf8880f5742eb86c5b357836440147506">SPELL_INFRA_GREEN_SHIELD</a></div><div class="ttdeci">@ SPELL_INFRA_GREEN_SHIELD</div><div class="ttdef"><b>Definition</b> zone_icecrown.cpp:1043</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01148">Absorb()</a>, <a class="el" href="../../#l00790">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l01142">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00107">_SpellScript::m_scriptSpellId</a>, <a class="el" href="../../#l00789">AuraScript::OnEffectAbsorb</a>, <a class="el" href="../../#l00132">SPELL_AURA_SCHOOL_ABSORB</a>, and <a class="el" href="../../#l01046">SPELL_INFRA_GREEN_SHIELD</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01145">Absorb()</a>, <a class="el" href="../../#l00790">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00772">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l01139">CalculateAmount()</a>, <a class="el" href="../../#l00771">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00107">_SpellScript::m_scriptSpellId</a>, <a class="el" href="../../#l00789">AuraScript::OnEffectAbsorb</a>, <a class="el" href="../../#l00132">SPELL_AURA_SCHOOL_ABSORB</a>, and <a class="el" href="../../#l01043">SPELL_INFRA_GREEN_SHIELD</a>.</p>
 
 </div>
 </div>
@@ -488,7 +488,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d63/classspell__charge__shield__bomber__aura.html">spell_charge_shield_bomber_aura</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:25:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

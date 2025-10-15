@@ -16,5 +16,6 @@ var TerrainBuilder_8cpp =
     [ "MAP_LIQUID_TYPE_WATER", "df/d09/TerrainBuilder_8cpp.html#a5ec110bd30ec47fcd087aaf5d572de28", null ],
     [ "holetab_h", "df/d09/TerrainBuilder_8cpp.html#abeb39e913287295598939165f99abe3b", null ],
     [ "holetab_v", "df/d09/TerrainBuilder_8cpp.html#a8c5ddef856ef804076860bb176c6d9e1", null ],
+    [ "MAP_FILE_NAME_FORMAT", "df/d09/TerrainBuilder_8cpp.html#a1d57d156046bda88886b7488ab0b83bc", null ],
     [ "MAP_VERSION_MAGIC", "df/d09/TerrainBuilder_8cpp.html#aee23c8e21c084824373ce587f8fe1f04", null ]
 ];

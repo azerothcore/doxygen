@@ -374,12 +374,12 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  166</span>{</div>
-<div class="line"><span class="lineno">  167</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
-<div class="line"><span class="lineno">  168</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a> | <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b">UNIT_STATE_CONFUSED_MOVE</a>);</div>
-<div class="line"><span class="lineno">  169</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  170</span>        unit-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380">SetTarget</a>(unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  171</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  167</span>{</div>
+<div class="line"><span class="lineno">  168</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">  169</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a> | <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b">UNIT_STATE_CONFUSED_MOVE</a>);</div>
+<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  171</span>        unit-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a50cbb98572134a854c21c0ff8221c380">SetTarget</a>(unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  172</span>}</div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a></div><div class="ttdeci">@ UNIT_STATE_CONFUSED</div><div class="ttdef"><b>Definition</b> UnitDefines.h:181</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b">UNIT_STATE_CONFUSED_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_CONFUSED_MOVE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:193</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a></div><div class="ttdeci">@ UNIT_FLAG_CONFUSED</div><div class="ttdef"><b>Definition</b> UnitDefines.h:276</div></div>
@@ -408,14 +408,14 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>{</div>
-<div class="line"><span class="lineno">  159</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
-<div class="line"><span class="lineno">  160</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a> | <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b">UNIT_STATE_CONFUSED_MOVE</a>);</div>
-<div class="line"><span class="lineno">  161</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  162</span>}</div>
-<div class="ttc" id="aclassUnit_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16719</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a889affbf3beefd9704c68058b2bc79e3">UNIT_FLAG_CONFUSED</a>);</div>
+<div class="line"><span class="lineno">  161</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a> | <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b">UNIT_STATE_CONFUSED_MOVE</a>);</div>
+<div class="line"><span class="lineno">  162</span>    unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno">  163</span>}</div>
+<div class="ttc" id="aclassUnit_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16717</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00699">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00711">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l16719">Unit::StopMoving()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_CONFUSED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00699">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00711">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l16717">Unit::StopMoving()</a>, <a class="el" href="../../#l00276">UNIT_FLAG_CONFUSED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>.</p>
 
 </div>
 </div>
@@ -624,12 +624,13 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  146</span>            <span class="keywordtype">float</span> z = <a class="code hl_variable" href="../../d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1">i_waypoints</a>[<a class="code hl_variable" href="../../d2/d2b/classConfusedMovementGenerator.html#ad36fe1fd2d07af01691a319c425dc92c">i_nextMove</a>][2];</div>
 <div class="line"><span class="lineno">  147</span>            <a class="code hl_class" href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a> init(unit);</div>
 <div class="line"><span class="lineno">  148</span>            init.MoveTo(x, y, z, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  149</span>            init.Launch();</div>
-<div class="line"><span class="lineno">  150</span>        }</div>
-<div class="line"><span class="lineno">  151</span>    }</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  154</span>}</div>
+<div class="line"><span class="lineno">  149</span>            init.SetWalk(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  150</span>            init.Launch();</div>
+<div class="line"><span class="lineno">  151</span>        }</div>
+<div class="line"><span class="lineno">  152</span>    }</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  155</span>}</div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_NOT_MOVE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:222</div></div>
 <div class="ttc" id="aclassMovement_1_1MoveSplineInit_html"><div class="ttname"><a href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition</b> MoveSplineInit.h:71</div></div>
@@ -637,7 +638,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="astructTimeTracker_html_a798cf19378c4de243fac01d7d51a3572"><div class="ttname"><a href="../../db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572">TimeTracker::Reset</a></div><div class="ttdeci">void Reset(time_t interval)</div><div class="ttdef"><b>Definition</b> Timer.h:217</div></div>
 <div class="ttc" id="astructTimeTracker_html_a9a13002766153882150b1985a84013ad"><div class="ttname"><a href="../../db/d88/structTimeTracker.html#a9a13002766153882150b1985a84013ad">TimeTracker::Passed</a></div><div class="ttdeci">bool Passed() const</div><div class="ttdef"><b>Definition</b> Timer.h:212</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00024">MAX_CONF_WAYPOINTS</a>, <a class="el" href="../../#l00226">Movement::MoveSplineInit::MoveTo()</a>, <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00024">MAX_CONF_WAYPOINTS</a>, <a class="el" href="../../#l00226">Movement::MoveSplineInit::MoveTo()</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00193">UNIT_STATE_CONFUSED_MOVE</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -757,7 +758,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d2b/classConfusedMovementGenerator.html">ConfusedMovementGenerator</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:24:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

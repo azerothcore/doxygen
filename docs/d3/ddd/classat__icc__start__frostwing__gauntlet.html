@@ -177,7 +177,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2252</span>: <a class="code hl_class" href="../../d3/d57/classAreaTriggerScript.html">AreaTriggerScript</a>(<span class="stringliteral">&quot;at_icc_start_frostwing_gauntlet&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2253</span>: <a class="code hl_class" href="../../d3/d57/classAreaTriggerScript.html">AreaTriggerScript</a>(<span class="stringliteral">&quot;at_icc_start_frostwing_gauntlet&quot;</span>) { }</div>
 <div class="ttc" id="aclassAreaTriggerScript_html"><div class="ttname"><a href="../../d3/d57/classAreaTriggerScript.html">AreaTriggerScript</a></div><div class="ttdef"><b>Definition</b> AreaTriggerScript.h:24</div></div>
 </div><!-- fragment -->
 </div>
@@ -218,23 +218,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/d57/classAreaTriggerScript.html#abb6cdada718e9fad7da98fbb667c6d53">AreaTriggerScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2255</span>    {</div>
-<div class="line"><span class="lineno"> 2256</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 2257</span>            <span class="keywordflow">if</span> (instance-&gt;GetBossState(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a593b10f1773f86a8a6c172bcedc323c7">DATA_SISTER_SVALNA</a>) != <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
-<div class="line"><span class="lineno"> 2258</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* crok = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*player, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a601956707a30bb3939256f13ac2175f3">DATA_CROK_SCOURGEBANE</a>)))</div>
-<div class="line"><span class="lineno"> 2259</span>                {</div>
-<div class="line"><span class="lineno"> 2260</span>                    <span class="keywordflow">if</span> (!crok-&gt;IsAlive())</div>
-<div class="line"><span class="lineno"> 2261</span>                    {</div>
-<div class="line"><span class="lineno"> 2262</span>                        <a class="code hl_class" href="../../d9/d9c/classFrostwingGauntletRespawner.html">FrostwingGauntletRespawner</a> respawner;</div>
-<div class="line"><span class="lineno"> 2263</span>                        <a class="code hl_struct" href="../../d6/d85/structAcore_1_1CreatureWorker.html">Acore::CreatureWorker&lt;FrostwingGauntletRespawner&gt;</a> worker(crok, respawner);</div>
-<div class="line"><span class="lineno"> 2264</span>                        <a class="code hl_function" href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a>(crok, worker, 333.0f);</div>
-<div class="line"><span class="lineno"> 2265</span>                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2266</span>                    }</div>
-<div class="line"><span class="lineno"> 2267</span>                    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 2268</span>                        crok-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa840f14c0588f0609c97c592a3413780f">ACTION_START_GAUNTLET</a>);</div>
-<div class="line"><span class="lineno"> 2269</span>                }</div>
-<div class="line"><span class="lineno"> 2270</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2271</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2256</span>    {</div>
+<div class="line"><span class="lineno"> 2257</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 2258</span>            <span class="keywordflow">if</span> (instance-&gt;GetBossState(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a593b10f1773f86a8a6c172bcedc323c7">DATA_SISTER_SVALNA</a>) != <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
+<div class="line"><span class="lineno"> 2259</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* crok = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*player, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/d6a/icecrown__citadel_8h.html#afb6eb4f28419b652027fad41104a6d22a601956707a30bb3939256f13ac2175f3">DATA_CROK_SCOURGEBANE</a>)))</div>
+<div class="line"><span class="lineno"> 2260</span>                {</div>
+<div class="line"><span class="lineno"> 2261</span>                    <span class="keywordflow">if</span> (!crok-&gt;IsAlive())</div>
+<div class="line"><span class="lineno"> 2262</span>                    {</div>
+<div class="line"><span class="lineno"> 2263</span>                        <a class="code hl_class" href="../../d9/d9c/classFrostwingGauntletRespawner.html">FrostwingGauntletRespawner</a> respawner;</div>
+<div class="line"><span class="lineno"> 2264</span>                        <a class="code hl_struct" href="../../d6/d85/structAcore_1_1CreatureWorker.html">Acore::CreatureWorker&lt;FrostwingGauntletRespawner&gt;</a> worker(crok, respawner);</div>
+<div class="line"><span class="lineno"> 2265</span>                        <a class="code hl_function" href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a>(crok, worker, 333.0f);</div>
+<div class="line"><span class="lineno"> 2266</span>                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2267</span>                    }</div>
+<div class="line"><span class="lineno"> 2268</span>                    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 2269</span>                        crok-&gt;AI()-&gt;DoAction(<a class="code hl_enumvalue" href="../../db/dd3/icecrown__citadel_8cpp.html#a250372292659bed7ae290d8621f88ccfa840f14c0588f0609c97c592a3413780f">ACTION_START_GAUNTLET</a>);</div>
+<div class="line"><span class="lineno"> 2270</span>                }</div>
+<div class="line"><span class="lineno"> 2271</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2272</span>    }</div>
 <div class="ttc" id="aInstanceScript_8h_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition</b> InstanceScript.h:61</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassFrostwingGauntletRespawner_html"><div class="ttname"><a href="../../d9/d9c/classFrostwingGauntletRespawner.html">FrostwingGauntletRespawner</a></div><div class="ttdef"><b>Definition</b> icecrown_citadel.cpp:320</div></div>
@@ -260,7 +260,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/ddd/classat__icc__start__frostwing__gauntlet.html">at_icc_start_frostwing_gauntlet</a></li>
-    <li class="footer">Generated on Tue Oct 14 2025 06:24:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Oct 15 2025 06:23:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

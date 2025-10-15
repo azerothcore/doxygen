@@ -2,7 +2,6 @@ var MapBuilder_8h =
 [
     [ "MMAP::MapTiles", "df/d51/structMMAP_1_1MapTiles.html", "df/d51/structMMAP_1_1MapTiles" ],
     [ "MMAP::Tile", "d2/dc0/structMMAP_1_1Tile.html", "d2/dc0/structMMAP_1_1Tile" ],
-    [ "MMAP::TileConfig", "d4/d1e/structMMAP_1_1TileConfig.html", "d4/d1e/structMMAP_1_1TileConfig" ],
     [ "MMAP::TileInfo", "d0/d9d/structMMAP_1_1TileInfo.html", "d0/d9d/structMMAP_1_1TileInfo" ],
     [ "MMAP::TileBuilder", "dd/d2d/classMMAP_1_1TileBuilder.html", "dd/d2d/classMMAP_1_1TileBuilder" ],
     [ "MMAP::MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html", "d4/dab/classMMAP_1_1MapBuilder" ],
