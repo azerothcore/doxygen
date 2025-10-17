@@ -1761,7 +1761,6 @@ var hierarchy =
       [ "RedirectSpellEvent", "df/d36/classRedirectSpellEvent.html", null ],
       [ "ReflectEvent", "d3/d03/classReflectEvent.html", null ],
       [ "ResetEncounterEvent", "d8/d9c/classResetEncounterEvent.html", null ],
-      [ "ResetToHomeOrientation", "da/dc6/classResetToHomeOrientation.html", null ],
       [ "RespawnEvent", "dc/dd6/classRespawnEvent.html", null ],
       [ "RestoreAttack", "d2/d61/classRestoreAttack.html", null ],
       [ "RestoreFight", "d2/d0f/classRestoreFight.html", null ],

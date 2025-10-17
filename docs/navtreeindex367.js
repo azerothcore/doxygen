@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[5,0,18,45,7],
 "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b":[5,0,18,45,4],
 "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57":[5,0,18,45,3],
 "de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33":[5,0,18,45,6],
@@ -104,11 +105,11 @@ var NAVTREEINDEX367 =
 "de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,972,0],
 "de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,972,1],
 "de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,972,4],
-"de/d75/classspell__dk__death__pact.html":[6,0,2770],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2770,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2770,1],
-"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2770,2],
-"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2770,0],
+"de/d75/classspell__dk__death__pact.html":[6,0,2769],
+"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2769,3],
+"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2769,1],
+"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2769,2],
+"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2769,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[6,0,1354,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[6,0,1354,0,11],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[6,0,1354,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d79/classGuild.html#aaf69ed8372cb3ba9e26856d1930008ae":[6,0,1252,37],
 "de/d79/classGuild.html#aaf78aa36da22b99c10df4a971d538b3d":[6,0,1252,31],
 "de/d79/classGuild.html#ab3284a1160d2e339cbdccc8bc5c659eb":[6,0,1252,95],
-"de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649":[6,0,1252,48],
-"de/d79/classGuild.html#ab8ca3dad15779135af492a0b26597868":[6,0,1252,135]
+"de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649":[6,0,1252,48]
 };

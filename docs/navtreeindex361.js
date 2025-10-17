@@ -1,5 +1,6 @@
 var NAVTREEINDEX361 =
 {
+"de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[7,0,0,0,1,2,41,9,20],
 "de/d30/SpellMgr_8h.html#aaf44c511d7aca68a0e2f56287dc2999d":[7,0,0,0,1,2,41,9,19],
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dd":[7,0,0,0,1,2,41,9,69],
 "de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda46a0c095d861d5528e67a20473b207e4":[7,0,0,0,1,2,41,9,69,1],
@@ -193,11 +194,11 @@ var NAVTREEINDEX361 =
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[7,0,0,0,1,2,16,7,18,1,2],
 "de/d33/classHordeChannelMgr.html":[6,0,1271],
 "de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1271,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2875],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2875,1],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2875,2],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2875,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2875,3],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2874],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2874,1],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2874,2],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2874,0],
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2874,3],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html":[6,0,1297,0],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a02fc56dddc6b300f06c7cc5f8fb3ded7":[6,0,1297,0,12],
 "de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a09088000395dbd2b1255c02b4867898d":[6,0,1297,0,10],
@@ -231,10 +232,10 @@ var NAVTREEINDEX361 =
 "de/d33/structnpc__healing__ward.html#a65f227041ad4bdc7240637dd6cb680ec":[6,0,1835,4],
 "de/d33/structnpc__healing__ward.html#a756d27a43d86c7ecde859df255c6bd62":[6,0,1835,2],
 "de/d33/structnpc__healing__ward.html#a8b8635af33ce814602206064e0815520":[6,0,1835,3],
-"de/d34/classspell__gordunni__trap.html":[6,0,3057],
-"de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3057,2],
-"de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3057,1],
-"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3057,0],
+"de/d34/classspell__gordunni__trap.html":[6,0,3056],
+"de/d34/classspell__gordunni__trap.html#a7d09808ea2fdec450fcd129e996bd245":[6,0,3056,2],
+"de/d34/classspell__gordunni__trap.html#adc581ed46587afcc8be3800ae79105f6":[6,0,3056,1],
+"de/d34/classspell__gordunni__trap.html#af9c26a7e5f6cba4f1146cb626dbcf8ed":[6,0,3056,0],
 "de/d34/instance__halls__of__lightning_8cpp.html":[7,0,0,0,1,3,5,9,0,5],
 "de/d34/instance__halls__of__lightning_8cpp.html#acb5e7d848388449d05e307ed07fbcfc6":[7,0,0,0,1,3,5,9,0,5,2],
 "de/d34/structBroadcastText.html":[6,0,821],
@@ -248,6 +249,5 @@ var NAVTREEINDEX361 =
 "de/d34/structBroadcastText.html#a627971cd4d55f9e3e17c885791a0cfbf":[6,0,821,2],
 "de/d34/structBroadcastText.html#aae69d8b9ca72f1cb20869b69a9601595":[6,0,821,14],
 "de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416":[6,0,821,13],
-"de/d34/structBroadcastText.html#abab322532f769f25ad0241422e066c3c":[6,0,821,0],
-"de/d34/structBroadcastText.html#acbce2101751bdaed47315c23f5058a7b":[6,0,821,7]
+"de/d34/structBroadcastText.html#abab322532f769f25ad0241422e066c3c":[6,0,821,0]
 };

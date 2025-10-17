@@ -326,7 +326,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1062</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>())</div>
 <div class="line"><span class="lineno"> 1063</span>            {</div>
 <div class="line"><span class="lineno"> 1064</span>                <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_variable" href="../../d0/da1/classspell__kaelthas__gravity__lapse.html#a0ad25535ba345fe9672150af67687305">_currentSpellId</a>++, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1065</span>                target-&gt;m_Events.AddEvent(<span class="keyword">new</span> <a class="code hl_class" href="../../dd/d60/classlapseTeleport.html">lapseTeleport</a>(target), target-&gt;m_Events.CalculateTime(1));</div>
+<div class="line"><span class="lineno"> 1065</span>                target-&gt;m_Events.AddEventAtOffset(<span class="keyword">new</span> <a class="code hl_class" href="../../dd/d60/classlapseTeleport.html">lapseTeleport</a>(target), 1ms);</div>
 <div class="line"><span class="lineno"> 1066</span>            }</div>
 <div class="line"><span class="lineno"> 1067</span>    }</div>
 <div class="ttc" id="aboss__kaelthas_8cpp_html_a8d44417781bf0641f80d9dd6b3744974a3224437e784177aaff6f9996ccf89838"><div class="ttname"><a href="../../d4/d67/boss__kaelthas_8cpp.html#a8d44417781bf0641f80d9dd6b3744974a3224437e784177aaff6f9996ccf89838">SPELL_GRAVITY_LAPSE_TELEPORT1</a></div><div class="ttdeci">@ SPELL_GRAVITY_LAPSE_TELEPORT1</div><div class="ttdef"><b>Definition</b> boss_kaelthas.cpp:104</div></div>
@@ -474,7 +474,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/da1/classspell__kaelthas__gravity__lapse.html">spell_kaelthas_gravity_lapse</a></li>
-    <li class="footer">Generated on Thu Oct 16 2025 06:24:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 17 2025 06:24:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

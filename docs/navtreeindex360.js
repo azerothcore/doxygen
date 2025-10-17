@@ -1,10 +1,11 @@
 var NAVTREEINDEX360 =
 {
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3250],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3250,1],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[6,0,3250,2],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3250,3],
-"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3250,0],
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980":[6,0,1166,0,0],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3249],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3249,1],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad907078d049340da77dcfd25a312e32b":[6,0,3249,2],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#ad9987f6b17c9522be954a1b75aed1fc5":[6,0,3249,3],
+"de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#aee71de2c7f718a443dd48ed649c72a2f":[6,0,3249,0],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html":[6,0,2008],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#a3bd893f08212dc94a321beb7a95eea08":[6,0,2008,2],
 "de/d2a/classnpc__overlord__drakuru__betrayal.html#af4092356ea86c25d91c73af1310c2eb0":[6,0,2008,1],
@@ -52,10 +53,10 @@ var NAVTREEINDEX360 =
 "de/d2d/namespaceObjectAccessor.html#ad7a6a08850b890d65a5e38a77ef92502":[5,0,23,6],
 "de/d2d/namespaceObjectAccessor.html#ae98f0c5bc69acfddbb05d43599b07195":[5,0,23,8],
 "de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3863],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3863,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3863,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3863,2],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3862],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3862,1],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3862,0],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3862,2],
 "de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2],
 "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[7,0,0,0,1,2,16,1,2,30],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae":[7,0,0,0,1,2,16,1,2,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7057c645998b72657fb18e41e12dc25f":[7,0,0,0,1,2,41,9,57,0],
 "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0":[7,0,0,0,1,2,41,9,57,2],
 "de/d30/SpellMgr_8h.html#aa10abaefa9eb85e4ab3ae20543519d8e":[7,0,0,0,1,2,41,9,29],
-"de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[7,0,0,0,1,2,41,9,18],
-"de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[7,0,0,0,1,2,41,9,20]
+"de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[7,0,0,0,1,2,41,9,18]
 };

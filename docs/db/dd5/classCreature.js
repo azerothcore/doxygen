@@ -42,7 +42,7 @@ var classCreature =
     [ "DoFleeToGetAssistance", "db/dd5/classCreature.html#a8127401b1a832cca416fa63f6a705a3d", null ],
     [ "DoImmediateBoundaryCheck", "db/dd5/classCreature.html#a14a19fbd5f1d2fd7be25ddfe7a112b43", null ],
     [ "FocusTarget", "db/dd5/classCreature.html#a9dd21b89113c15d7b1bf853a48bbc1f1", null ],
-    [ "ForcedDespawn", "db/dd5/classCreature.html#a804ebf801404df64612628545e87f0db", null ],
+    [ "ForcedDespawn", "db/dd5/classCreature.html#af0904a097484d473442bd04d3d6803ba", null ],
     [ "GetAggroRange", "db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f", null ],
     [ "GetAIName", "db/dd5/classCreature.html#aeb904f603839b901b04460660c6d2a1d", null ],
     [ "GetAttackDistance", "db/dd5/classCreature.html#a26eefd4b39d582228f970322c8c44ac5", null ],

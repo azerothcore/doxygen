@@ -1,10 +1,11 @@
 var NAVTREEINDEX381 =
 {
-"df/d13/classspell__pal__avenging__wrath.html#a42590a0ef43a48c5309f995f9bec5c9b":[6,0,3523,2],
-"df/d13/classspell__pal__avenging__wrath.html#a84e7337494dc2e1772ca10dea26c675f":[6,0,3523,3],
-"df/d13/classspell__pal__avenging__wrath.html#aafdf3712f163919f010d11d0becb398f":[6,0,3523,0],
-"df/d13/classspell__pal__avenging__wrath.html#ac2558aafb3ce66ca7bbfd718eb8c6338":[6,0,3523,4],
-"df/d13/classspell__pal__avenging__wrath.html#ac3e33cb37d13b633f3938a48917a4975":[6,0,3523,1],
+"df/d13/classspell__pal__avenging__wrath.html":[6,0,3522],
+"df/d13/classspell__pal__avenging__wrath.html#a42590a0ef43a48c5309f995f9bec5c9b":[6,0,3522,2],
+"df/d13/classspell__pal__avenging__wrath.html#a84e7337494dc2e1772ca10dea26c675f":[6,0,3522,3],
+"df/d13/classspell__pal__avenging__wrath.html#aafdf3712f163919f010d11d0becb398f":[6,0,3522,0],
+"df/d13/classspell__pal__avenging__wrath.html#ac2558aafb3ce66ca7bbfd718eb8c6338":[6,0,3522,4],
+"df/d13/classspell__pal__avenging__wrath.html#ac3e33cb37d13b633f3938a48917a4975":[6,0,3522,1],
 "df/d14/ObjectDefines_8h.html":[7,0,0,0,1,2,16,5,3],
 "df/d14/ObjectDefines_8h.html#a076c4dc8a346115fe776c593c413ef2c":[7,0,0,0,1,2,16,5,3,0],
 "df/d14/ObjectDefines_8h.html#a07b26e77b0b1266a3addb26d71a74344":[7,0,0,0,1,2,16,5,3,34],
@@ -142,10 +143,10 @@ var NAVTREEINDEX381 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,31,2,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,2,4,1],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,2,4,3],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,2,4,3],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,2,4,2],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,31,2,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
@@ -179,8 +180,8 @@ var NAVTREEINDEX381 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,6,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,6,17],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,6,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,6,17,2],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,6,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[6,0,11,6,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,31,6,17,0],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#af20bd5c8e58b891028613625fb14807d":[6,0,11,6,17,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX381 =
 "df/d17/group__world.html#gga06d1e4f345fc9b7a45e5b1b9f1919efcaf9a655efa1811bdc5e1b8ed0f1dfdd08":[4,2,16,1],
 "df/d17/group__world.html#gga11501f5782bd40fa2c7b56d7b12221e2a8198be8f6c6a5b3e7588ffd64a95312f":[4,2,17,0],
 "df/d17/group__world.html#gga11501f5782bd40fa2c7b56d7b12221e2aecfb61fe30dad8b80bb93881cafe105d":[4,2,17,1],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba03d0c4dd430afeb66acc56c0a9c104aa":[4,2,15,18],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba09e6d6b40910f762c092171266a042cc":[4,2,15,26]
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba03d0c4dd430afeb66acc56c0a9c104aa":[4,2,15,18]
 };

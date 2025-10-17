@@ -4,7 +4,6 @@ var Unit_8cpp =
     [ "spellIdImmunityPredicate", "d9/d89/classspellIdImmunityPredicate.html", "d9/d89/classspellIdImmunityPredicate" ],
     [ "ProcTriggeredData", "da/d26/structProcTriggeredData.html", "da/d26/structProcTriggeredData" ],
     [ "AuraMunchingQueue", "df/d7b/classAuraMunchingQueue.html", "df/d7b/classAuraMunchingQueue" ],
-    [ "ResetToHomeOrientation", "da/dc6/classResetToHomeOrientation.html", "da/dc6/classResetToHomeOrientation" ],
     [ "ProcTriggeredList", "d1/deb/Unit_8cpp.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
     [ "createProcExtendMask", "d1/deb/Unit_8cpp.html#afb539370dad036ff97905efdbb4270c0", null ],
     [ "createProcFlags", "d1/deb/Unit_8cpp.html#a7d920511c20f084098c0f68a75006159", null ],

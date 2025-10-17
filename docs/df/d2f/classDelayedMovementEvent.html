@@ -183,9 +183,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  496</span>: <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>(owner), <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58">_dest</a>(dest) { }</div>
-<div class="ttc" id="aclassDelayedMovementEvent_html_a046942728282a997068de447271f3cbe"><div class="ttname"><a href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">DelayedMovementEvent::_owner</a></div><div class="ttdeci">Creature * _owner</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:511</div></div>
-<div class="ttc" id="aclassDelayedMovementEvent_html_a9a0cd9830509ffdecd98ac8231350d58"><div class="ttname"><a href="../../df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58">DelayedMovementEvent::_dest</a></div><div class="ttdeci">Position const  &amp; _dest</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:512</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  497</span>: <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>(owner), <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58">_dest</a>(dest) { }</div>
+<div class="ttc" id="aclassDelayedMovementEvent_html_a046942728282a997068de447271f3cbe"><div class="ttname"><a href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">DelayedMovementEvent::_owner</a></div><div class="ttdeci">Creature * _owner</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:512</div></div>
+<div class="ttc" id="aclassDelayedMovementEvent_html_a9a0cd9830509ffdecd98ac8231350d58"><div class="ttname"><a href="../../df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58">DelayedMovementEvent::_dest</a></div><div class="ttdeci">Position const  &amp; _dest</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:513</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -225,16 +225,16 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d22/classBasicEvent.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  499</span>    {</div>
-<div class="line"><span class="lineno">  500</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !<a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>())</div>
-<div class="line"><span class="lineno">  501</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  502</span> </div>
-<div class="line"><span class="lineno">  503</span>        <span class="keywordtype">float</span> x, y, z, o;</div>
-<div class="line"><span class="lineno">  504</span>        <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58">_dest</a>.<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z, o);</div>
-<div class="line"><span class="lineno">  505</span>        <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>()-&gt;<a class="code hl_function" href="../../d0/d0f/classTransport.html#ae4e716194ce5e9c466a8fe5c53ee0980">CalculatePassengerPosition</a>(x, y, z, &amp;o);</div>
-<div class="line"><span class="lineno">  506</span>        <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a798c576206cc676da0e2be1c4bedf18e">MovePoint</a>(<a class="code hl_define" href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a>, x, y, z, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a>, 0.f, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  507</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  508</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  500</span>    {</div>
+<div class="line"><span class="lineno">  501</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() || !<a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>())</div>
+<div class="line"><span class="lineno">  502</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  503</span> </div>
+<div class="line"><span class="lineno">  504</span>        <span class="keywordtype">float</span> x, y, z, o;</div>
+<div class="line"><span class="lineno">  505</span>        <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58">_dest</a>.<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  506</span>        <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>()-&gt;<a class="code hl_function" href="../../d0/d0f/classTransport.html#ae4e716194ce5e9c466a8fe5c53ee0980">CalculatePassengerPosition</a>(x, y, z, &amp;o);</div>
+<div class="line"><span class="lineno">  507</span>        <a class="code hl_variable" href="../../df/d2f/classDelayedMovementEvent.html#a046942728282a997068de447271f3cbe">_owner</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#a798c576206cc676da0e2be1c4bedf18e">MovePoint</a>(<a class="code hl_define" href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a>, x, y, z, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a>, 0.f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  508</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  509</span>    }</div>
 <div class="ttc" id="aMotionMaster_8h_html_a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece">FORCED_MOVEMENT_NONE</a></div><div class="ttdeci">@ FORCED_MOVEMENT_NONE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:85</div></div>
 <div class="ttc" id="aboss__icecrown__gunship__battle_8cpp_html_a9c317db681d954aca490545ed2c1b929"><div class="ttname"><a href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a9c317db681d954aca490545ed2c1b929">EVENT_CHARGE_PREPATH</a></div><div class="ttdeci">#define EVENT_CHARGE_PREPATH</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:108</div></div>
 <div class="ttc" id="aclassMotionMaster_html_a798c576206cc676da0e2be1c4bedf18e"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#a798c576206cc676da0e2be1c4bedf18e">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true)</div><div class="ttdef"><b>Definition</b> MotionMaster.h:222</div></div>
@@ -244,7 +244,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassWorldObject_html_a9ffd4691b1ebdb5011e800739b4dd4f5"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a9ffd4691b1ebdb5011e800739b4dd4f5">WorldObject::GetTransport</a></div><div class="ttdeci">Transport * GetTransport() const</div><div class="ttdef"><b>Definition</b> Object.h:683</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:126</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00512">_dest</a>, <a class="el" href="../../#l00511">_owner</a>, <a class="el" href="../../#l00033">Transport::CalculatePassengerPosition()</a>, <a class="el" href="../../#l00108">EVENT_CHARGE_PREPATH</a>, <a class="el" href="../../#l00085">FORCED_MOVEMENT_NONE</a>, <a class="el" href="../../#l01690">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00683">WorldObject::GetTransport()</a>, <a class="el" href="../../#l01725">Unit::IsAlive()</a>, and <a class="el" href="../../#l00222">MotionMaster::MovePoint()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00513">_dest</a>, <a class="el" href="../../#l00512">_owner</a>, <a class="el" href="../../#l00033">Transport::CalculatePassengerPosition()</a>, <a class="el" href="../../#l00108">EVENT_CHARGE_PREPATH</a>, <a class="el" href="../../#l00085">FORCED_MOVEMENT_NONE</a>, <a class="el" href="../../#l01690">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l00683">WorldObject::GetTransport()</a>, <a class="el" href="../../#l01725">Unit::IsAlive()</a>, and <a class="el" href="../../#l00222">MotionMaster::MovePoint()</a>.</p>
 
 </div>
 </div>
@@ -269,7 +269,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00498">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00499">Execute()</a>.</p>
 
 </div>
 </div>
@@ -293,7 +293,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00498">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00499">Execute()</a>.</p>
 
 </div>
 </div>
@@ -306,7 +306,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d2f/classDelayedMovementEvent.html">DelayedMovementEvent</a></li>
-    <li class="footer">Generated on Thu Oct 16 2025 06:24:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 17 2025 06:23:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

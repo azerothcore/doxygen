@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a7ab83bc59e26f2a76b49c41feebe0726":[7,0,0,0,1,2,41,11,70,20],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9bab1f8dcc1dccde2a98e7f492c9d5a9":[7,0,0,0,1,2,41,11,70,10],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9c2d093615242927901d1c4c256212b2":[7,0,0,0,1,2,41,11,70,15],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aa70d783c590006f1a8cbf2b3d144e94c":[7,0,0,0,1,2,41,11,70,0],
@@ -71,10 +72,10 @@ var NAVTREEINDEX315 =
 "dc/db2/SpellScript_8h.html#aecb97d532499a4b7bfaccc898401260c":[7,0,0,0,1,2,41,11,51],
 "dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc":[7,0,0,0,1,2,41,11,35],
 "dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b":[7,0,0,0,1,2,41,11,44],
-"dc/db2/classspell__calling__korkron__or__wildhammer.html":[6,0,2703],
-"dc/db2/classspell__calling__korkron__or__wildhammer.html#a0deddf7497d3bdb82901d612dce28dc9":[6,0,2703,1],
-"dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[6,0,2703,2],
-"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2703,0],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html":[6,0,2702],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a0deddf7497d3bdb82901d612dce28dc9":[6,0,2702,1],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[6,0,2702,2],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2702,0],
 "dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html":[6,0,2171,0],
 "dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html#a8611ef17700c739dbd5e7a70660f1379":[6,0,2171,0,1],
 "dc/db2/structnpc__thassarian_1_1npc__thassarianAI.html#a92e873dc3aa97f81919225ce75a5f894":[6,0,2171,0,0],
@@ -177,10 +178,10 @@ var NAVTREEINDEX315 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2222],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2222,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2222,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3611],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3611,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3611,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3611,0],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3610],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3610,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3610,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3610,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,937],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,937,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html":[6,0,74],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,74,0],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#ac91196d094f159932ad871ffa9c0f405":[6,0,74,1],
-"dc/dbb/namespaceWMO.html":[5,0,30],
-"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7]
+"dc/dbb/namespaceWMO.html":[5,0,30]
 };

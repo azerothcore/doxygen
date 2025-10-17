@@ -1,5 +1,7 @@
 var NAVTREEINDEX90 =
 {
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a7f336843c54de072cf58bc87ff08b068":[6,0,1824,0,4],
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a8bab1a755c2262e9f36f295781d30909":[6,0,1824,0,5],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a9c1825ec51aaecedd1035ae9a1ded6a0":[6,0,1824,0,1],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#aa19c815ad64f81fb5240c5e0667bccc9":[6,0,1824,0,3],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#af4480427460748bccae214737469ddb7":[6,0,1824,0,6],
@@ -194,13 +196,13 @@ var NAVTREEINDEX90 =
 "d3/d0a/classnpc__augustus__the__touched.html#a81e0d4f2aaa685cd5231ea430c86e7b4":[6,0,1620,1],
 "d3/d0a/classnpc__augustus__the__touched.html#a992da9b22693c1fac1148b4ba545b819":[6,0,1620,2],
 "d3/d0a/classnpc__augustus__the__touched.html#abc84c884345f44cf780410569cdee10c":[6,0,1620,0],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html":[6,0,3049],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[6,0,3049,0],
-"d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[6,0,3049,1],
-"d3/d0a/classspell__necropolis__beam.html":[6,0,3493],
-"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[6,0,3493,0],
-"d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[6,0,3493,1],
-"d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[6,0,3493,2],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html":[6,0,3048],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[6,0,3048,0],
+"d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[6,0,3048,1],
+"d3/d0a/classspell__necropolis__beam.html":[6,0,3492],
+"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[6,0,3492,0],
+"d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[6,0,3492,1],
+"d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[6,0,3492,2],
 "d3/d0a/structboss__ossirian.html":[6,0,647],
 "d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f":[6,0,647,9],
 "d3/d0a/structboss__ossirian.html#a16aa4ac59c1c8f6f844c311745b6e969":[6,0,647,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d0b/namespaceAcore.html#a355df1d62e245473475d330ef6c45bae":[5,0,1,199],
 "d3/d0b/namespaceAcore.html#a35e02be24dcc816ed590cfd782fba6cd":[5,0,1,212],
 "d3/d0b/namespaceAcore.html#a36e61ba9bc4e287e215444ea9314a656":[5,0,1,206],
-"d3/d0b/namespaceAcore.html#a3714737e66e682a43beb71292ccd564e":[5,0,1,203],
-"d3/d0b/namespaceAcore.html#a3a037512e9797c04705502307818fe99":[5,0,1,160],
-"d3/d0b/namespaceAcore.html#a3bc394692e5fd3b096a149b1208e3675":[5,0,1,185]
+"d3/d0b/namespaceAcore.html#a3714737e66e682a43beb71292ccd564e":[5,0,1,203]
 };

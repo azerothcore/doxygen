@@ -14,7 +14,7 @@ var classlfg_1_1LFGMgr =
     [ "AddPlayerToGroup", "d2/dbc/classlfg_1_1LFGMgr.html#a3600fa2ef1859716f4d687925e388b9e", null ],
     [ "AddProposal", "d2/dbc/classlfg_1_1LFGMgr.html#accfe2a215ef9ae1c1c386baf8f333a95", null ],
     [ "AllQueued", "d2/dbc/classlfg_1_1LFGMgr.html#aa790e51506b549878ef8a0b6e366b7cc", null ],
-    [ "CheckGroupRoles", "d2/dbc/classlfg_1_1LFGMgr.html#ac159a837079df16b3aaf07f90f08f84c", null ],
+    [ "CheckGroupRoles", "d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3", null ],
     [ "Clean", "d2/dbc/classlfg_1_1LFGMgr.html#a87e0e10c1932e2bef30c19393eae35ea", null ],
     [ "ClearState", "d2/dbc/classlfg_1_1LFGMgr.html#a9af28d73eaadc74175755876729ea522", null ],
     [ "DecreaseKicksLeft", "d2/dbc/classlfg_1_1LFGMgr.html#ad92960f8d14a4b940e98552e4cf50aea", null ],

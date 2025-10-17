@@ -1,5 +1,6 @@
 var NAVTREEINDEX299 =
 {
+"db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aaba524e70e6cb58c449346e74b9404faa":[7,0,0,0,1,3,9,8,99,2],
 "db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aac1a0bd0e5cba3d9ec177fd27adb4c8da":[7,0,0,0,1,3,9,8,99,4],
 "db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aace77d85994d74fcf63aa22411d0f8297":[7,0,0,0,1,3,9,8,99,5],
 "db/dfb/spell__quest_8cpp.html#a1b085578075f12a11a077833b608316aadb304b2c523fd7ab68318d2ac251bfd5":[7,0,0,0,1,3,9,8,99,3],
@@ -216,10 +217,10 @@ var NAVTREEINDEX299 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#affb313b502fbebaa6937fc3f2a380906":[6,0,610,0,21],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,31,10,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,10,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,10,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,31,10,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,11,10,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,10,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,31,10,1,2],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,11,10,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,31,10,1,0],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[6,0,11,10,1,0],
 "db/dfd/classboss__anubarak__trial.html":[6,0,377],
@@ -248,6 +249,5 @@ var NAVTREEINDEX299 =
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca15633358238754c81bf91e5fcfee6208":[7,0,0,0,1,3,4,8,0,11,17],
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e550fcd50e5e0557030571a885e4fd2":[7,0,0,0,1,3,4,8,0,11,11],
 "db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca3057eb92e7569b34262b1356cf5af0c4":[7,0,0,0,1,3,4,8,0,11,9],
-"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca30ca9e323dcdec722a2f688d395c83e8":[7,0,0,0,1,3,4,8,0,11,22],
-"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca3699988d1ea08dfab68c0b996cbc1d60":[7,0,0,0,1,3,4,8,0,11,19]
+"db/dfe/boss__ayamiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca30ca9e323dcdec722a2f688d395c83e8":[7,0,0,0,1,3,4,8,0,11,22]
 };

@@ -18,7 +18,7 @@ var classTempSummon =
     [ "SetTempSummonType", "dc/d88/classTempSummon.html#a5b711bd3a4003da1507be950e4d33d0f", null ],
     [ "SetTimer", "dc/d88/classTempSummon.html#ab4a878bb7338a3b3a20b35a44a910235", null ],
     [ "SetVisibleBySummonerOnly", "dc/d88/classTempSummon.html#a976f9dc646a72b1e642458f7f9943657", null ],
-    [ "UnSummon", "dc/d88/classTempSummon.html#a198ec16a2673b1e481427549b6029d56", null ],
+    [ "UnSummon", "dc/d88/classTempSummon.html#a5181f042a68a54c93797fc9afa7a4440", null ],
     [ "Update", "dc/d88/classTempSummon.html#a7340f280c2550fc495d3045a06ef5536", null ],
     [ "UpdateObjectVisibilityOnCreate", "dc/d88/classTempSummon.html#ac246039218939b5dab563277617d4227", null ],
     [ "_visibleBySummonerOnly", "dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25", null ],

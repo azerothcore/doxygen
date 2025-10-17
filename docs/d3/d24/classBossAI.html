@@ -1671,7 +1671,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  819</span>{</div>
-<div class="line"><span class="lineno">  820</span>    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">AddEventAtOffset</a>([<span class="keyword">this</span>, spellId, textId]</div>
+<div class="line"><span class="lineno">  820</span>    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#a1da0c3001bd6009d6bac25a969ed7196">AddEventAtOffset</a>([<span class="keyword">this</span>, spellId, textId]</div>
 <div class="line"><span class="lineno">  821</span>    {</div>
 <div class="line"><span class="lineno">  822</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
 <div class="line"><span class="lineno">  823</span>            <span class="keywordflow">return</span>;</div>
@@ -1682,11 +1682,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  828</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(spellId, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  829</span>    }, timer);</div>
 <div class="line"><span class="lineno">  830</span>}</div>
-<div class="ttc" id="aclassEventProcessor_html_ac4cfbe963d7e9335f6404666a6b95bad"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#ac4cfbe963d7e9335f6404666a6b95bad">EventProcessor::AddEventAtOffset</a></div><div class="ttdeci">void AddEventAtOffset(BasicEvent *event, Milliseconds offset)</div><div class="ttdef"><b>Definition</b> EventProcessor.h:107</div></div>
+<div class="ttc" id="aclassEventProcessor_html_a1da0c3001bd6009d6bac25a969ed7196"><div class="ttname"><a href="../../d2/d58/classEventProcessor.html#a1da0c3001bd6009d6bac25a969ed7196">EventProcessor::AddEventAtOffset</a></div><div class="ttdeci">void AddEventAtOffset(BasicEvent *event, Milliseconds offset, uint8 eventGroup=0)</div><div class="ttdef"><b>Definition</b> EventProcessor.h:108</div></div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:391</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00107">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00391">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l01725">Unit::IsAlive()</a>, <a class="el" href="../../#l00731">WorldObject::m_Events</a>, and <a class="el" href="../../#l00282">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00108">EventProcessor::AddEventAtOffset()</a>, <a class="el" href="../../#l00391">UnitAI::DoCastSelf()</a>, <a class="el" href="../../#l01725">Unit::IsAlive()</a>, <a class="el" href="../../#l00731">WorldObject::m_Events</a>, and <a class="el" href="../../#l00282">ScriptedAI::me</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00080">boss_brutallus::JustEngagedWith()</a>, <a class="el" href="../../#l00136">boss_sacrolash::JustEngagedWith()</a>, <a class="el" href="../../#l00267">boss_alythess::JustEngagedWith()</a>, and <a class="el" href="../../#l00173">boss_felmyst::JustEngagedWith()</a>.</p>
 
@@ -2135,7 +2135,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d24/classBossAI.html">BossAI</a></li>
-    <li class="footer">Generated on Thu Oct 16 2025 06:24:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 17 2025 06:23:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

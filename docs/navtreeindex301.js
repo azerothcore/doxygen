@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d00/chapter5_8cpp.html#aed30148e36f529292aee0375972d6f64a4fd124c494a8e74d20869f88e0208b62":[7,0,0,0,1,3,2,6,3,10,0],
 "dc/d00/chapter5_8cpp.html#aed30148e36f529292aee0375972d6f64a5b78205459a6b5e1f720249a6c64bd37":[7,0,0,0,1,3,2,6,3,10,1],
 "dc/d00/chapter5_8cpp.html#aed30148e36f529292aee0375972d6f64a608d56f35d323aa9a56f118fb29a0b61":[7,0,0,0,1,3,2,6,3,10,12],
 "dc/d00/chapter5_8cpp.html#aed30148e36f529292aee0375972d6f64a6693716351aab589f99f56bb5622d072":[7,0,0,0,1,3,2,6,3,10,8],
@@ -25,10 +26,10 @@ var NAVTREEINDEX301 =
 "dc/d01/classdisable__commandscript.html#ac5088383c36894c7bd753ee99086e508":[6,0,981,10],
 "dc/d01/classdisable__commandscript.html#ae49c0e3ad4aa3147194478180837c07e":[6,0,981,0],
 "dc/d01/classdisable__commandscript.html#aea64728b1a70aab3813190c4d5df3859":[6,0,981,4],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2672],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2672,1],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2672,0],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2672,2],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2671],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2671,1],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2671,0],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2671,2],
 "dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4],
 "dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[7,0,0,0,1,3,7,4,1,4,2],
 "dc/d02/WeatherScript_8h.html":[7,0,0,0,1,2,38,0,89],
@@ -130,10 +131,10 @@ var NAVTREEINDEX301 =
 "dc/d07/classnpc__captain__brandon.html":[6,0,1678],
 "dc/d07/classnpc__captain__brandon.html#a3d77951d8d9dbc14fad2fd52d84118a3":[6,0,1678,2],
 "dc/d07/classnpc__captain__brandon.html#ad522dd280882d894b5d32e7c888f2360":[6,0,1678,1],
-"dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3150],
-"dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3150,1],
-"dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[6,0,3150,0],
-"dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[6,0,3150,2],
+"dc/d07/classspell__hydross__mark__of__hydross.html":[6,0,3149],
+"dc/d07/classspell__hydross__mark__of__hydross.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6":[6,0,3149,1],
+"dc/d07/classspell__hydross__mark__of__hydross.html#adbfce9b247a8a36d143243955372dc91":[6,0,3149,0],
+"dc/d07/classspell__hydross__mark__of__hydross.html#afb919ed484440d382b9d1ac7cf6f3f14":[6,0,3149,2],
 "dc/d07/halls__of__reflection_8cpp.html":[7,0,0,0,1,3,5,4,1,2],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543":[7,0,0,0,1,3,5,4,1,2,32],
 "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a045c165c307fd58d9f2a27b2ffdef086":[7,0,0,0,1,3,5,4,1,2,32,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8088a4751cd9af720c9ae312eeef28a2":[7,0,0,0,1,3,5,4,1,2,33,48],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a84134b5ddbcab8d05e2b0bd4bdb0d53e":[7,0,0,0,1,3,5,4,1,2,33,31],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8a5dfcf40b73dcd57d1043cdd2a337b5":[7,0,0,0,1,3,5,4,1,2,33,34],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8bbc0b9a8aa71ae1e54861cc6a93433c":[7,0,0,0,1,3,5,4,1,2,33,58],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8d01f39f06bba3fe7a46a859f6ea4277":[7,0,0,0,1,3,5,4,1,2,33,9]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8bbc0b9a8aa71ae1e54861cc6a93433c":[7,0,0,0,1,3,5,4,1,2,33,58]
 };

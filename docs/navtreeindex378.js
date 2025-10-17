@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5":[7,0,0,0,1,3,5,6,9,39],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a0930e81ee0cdfdd929154ab1493abb60":[7,0,0,0,1,3,5,6,9,39,1],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a1c6e632d42e6df5451aed43bb661d6f0":[7,0,0,0,1,3,5,6,9,39,3],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a4a31ac9e94cf15cdb51d30c3318b86f5":[7,0,0,0,1,3,5,6,9,39,0],
@@ -64,10 +65,10 @@ var NAVTREEINDEX378 =
 "de/de5/classnpc__tesla.html":[6,0,2168],
 "de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2168,2],
 "de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2168,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2706],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2706,1],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2706,2],
-"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2706,0],
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2705],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2705,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2705,2],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2705,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html":[6,0,773,0],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a14c65e87caf2f0e815955946357aebf2":[6,0,773,0,14],
 "de/de7/structboss__volkhan_1_1boss__volkhanAI.html#a3305529d3a25a929c4c6c5128773a4b6":[6,0,773,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/def/classboss__highlord__omokk.html#afb8efb012791c6a2fc18975a1ec7f984":[6,0,535,2],
 "de/df0/SpellInfoCorrections_8cpp.html":[7,0,0,0,1,2,41,7],
 "de/df0/SpellInfoCorrections_8cpp.html#ab2692a866ddb9539875213c10f37b84e":[7,0,0,0,1,2,41,7,0],
-"de/df0/classnpc__xt002__heart.html":[6,0,2299],
-"de/df0/classnpc__xt002__heart.html#ab914ce1e945080b873cf6f93e3a6a32c":[6,0,2299,1]
+"de/df0/classnpc__xt002__heart.html":[6,0,2299]
 };

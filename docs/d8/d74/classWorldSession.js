@@ -564,6 +564,7 @@ var classWorldSession =
     [ "SetLatency", "d8/d74/classWorldSession.html#aeb4031e1c420ca9647ae9d55d1095957", null ],
     [ "SetLogoutStartTime", "d8/d74/classWorldSession.html#a6d57a7c4612e576f5de4fdb97843384c", null ],
     [ "SetOfflineTime", "d8/d74/classWorldSession.html#a2932892fe992dd518fd5929aaa7a46b7", null ],
+    [ "SetPacketLogging", "d8/d74/classWorldSession.html#ad2d4732a541b5738b20932e0d433c32d", null ],
     [ "SetPlayer", "d8/d74/classWorldSession.html#a042ad75b067904a2ee258408ced305f5", null ],
     [ "SetSecurity", "d8/d74/classWorldSession.html#ae9a2ad8418b1ccff1061ffe4ad7a5537", null ],
     [ "SetTotalTime", "d8/d74/classWorldSession.html#a340452fde95ade9c681b9c1c47f1da18", null ],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d34/namespaceVMAP.html":[5,0,28],
 "dd/d34/namespaceVMAP.html#a166f3eeee53079ac9df4f15ccd577974":[5,0,28,41],
 "dd/d34/namespaceVMAP.html#a28dc2e567f8620fed1128b6c4cf5b749":[5,0,28,30],
 "dd/d34/namespaceVMAP.html#a3424b44a092b5f3d8074649ae11ee481":[5,0,28,33],
@@ -57,8 +58,8 @@ var NAVTREEINDEX326 =
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html":[5,0,1,8,0,31],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[6,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,1,8,0,31,0],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
 "dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12],
@@ -92,11 +93,11 @@ var NAVTREEINDEX326 =
 "dd/d3a/structKeyFrame.html#aee298cdd32a7593baf6ad00234120781":[6,0,1402,13],
 "dd/d3a/structKeyFrame.html#afc5d26078e42a2170d43c864542f676f":[6,0,1402,3],
 "dd/d3b/GuardAI_8cpp.html":[7,0,0,0,1,2,3,0,4],
-"dd/d3b/classspell__kormok__summon__bone__minions.html":[6,0,3382],
-"dd/d3b/classspell__kormok__summon__bone__minions.html#a034195e58f02225c172b70c3967fe3ad":[6,0,3382,1],
-"dd/d3b/classspell__kormok__summon__bone__minions.html#a03f8c24445ee4ac82a4cf2caece38f90":[6,0,3382,0],
-"dd/d3b/classspell__kormok__summon__bone__minions.html#a8ac78c00c49b1eb2fade4100a810d367":[6,0,3382,3],
-"dd/d3b/classspell__kormok__summon__bone__minions.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2":[6,0,3382,2],
+"dd/d3b/classspell__kormok__summon__bone__minions.html":[6,0,3381],
+"dd/d3b/classspell__kormok__summon__bone__minions.html#a034195e58f02225c172b70c3967fe3ad":[6,0,3381,1],
+"dd/d3b/classspell__kormok__summon__bone__minions.html#a03f8c24445ee4ac82a4cf2caece38f90":[6,0,3381,0],
+"dd/d3b/classspell__kormok__summon__bone__minions.html#a8ac78c00c49b1eb2fade4100a810d367":[6,0,3381,3],
+"dd/d3b/classspell__kormok__summon__bone__minions.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2":[6,0,3381,2],
 "dd/d3b/structGameObjectTemplate.html":[6,0,1090],
 "dd/d3b/structGameObjectTemplate.html#a00eb000816f295001a68a3b4b75be832":[6,0,1090,104],
 "dd/d3b/structGameObjectTemplate.html#a01bfeb15be2a8e1d59805c83a2a75ac8":[6,0,1090,138],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d3b/structGameObjectTemplate.html#ac3d37219dab971cd5a9b891d8ce3042b":[6,0,1090,79],
 "dd/d3b/structGameObjectTemplate.html#ac5314d6e2c76eae67b79cd47806958f6":[6,0,1090,34],
 "dd/d3b/structGameObjectTemplate.html#ac554dcfb749e8ff22e515dee9bee9075":[6,0,1090,155],
-"dd/d3b/structGameObjectTemplate.html#ac742ba457283faf214f1c2b8d8ab6fe1":[6,0,1090,67],
-"dd/d3b/structGameObjectTemplate.html#ac8062a688436c1fa252b40a028e00448":[6,0,1090,33]
+"dd/d3b/structGameObjectTemplate.html#ac742ba457283faf214f1c2b8d8ab6fe1":[6,0,1090,67]
 };

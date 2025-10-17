@@ -341,14 +341,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2557</span>    {</div>
-<div class="line"><span class="lineno"> 2558</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6">BeforeHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a1c689e0b0dba326dd700a7ad62303d26">BeforeSpellHitFn</a>(<a class="code hl_function" href="../../d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2">spell_igb_below_zero::RemovePassengers</a>);</div>
-<div class="line"><span class="lineno"> 2559</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2558</span>    {</div>
+<div class="line"><span class="lineno"> 2559</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6">BeforeHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a1c689e0b0dba326dd700a7ad62303d26">BeforeSpellHitFn</a>(<a class="code hl_function" href="../../d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2">spell_igb_below_zero::RemovePassengers</a>);</div>
+<div class="line"><span class="lineno"> 2560</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a1c689e0b0dba326dd700a7ad62303d26"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a1c689e0b0dba326dd700a7ad62303d26">BeforeSpellHitFn</a></div><div class="ttdeci">#define BeforeSpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:342</div></div>
 <div class="ttc" id="aclassSpellScript_html_ab8177fcfbc8a9b93ae3cc68baff952d6"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ab8177fcfbc8a9b93ae3cc68baff952d6">SpellScript::BeforeHit</a></div><div class="ttdeci">HookList&lt; BeforeHitHandler &gt; BeforeHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:341</div></div>
-<div class="ttc" id="aclassspell__igb__below__zero_html_a77c63e85233e2ef14bf06c82ad27c4b2"><div class="ttname"><a href="../../d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2">spell_igb_below_zero::RemovePassengers</a></div><div class="ttdeci">void RemovePassengers(SpellMissInfo missInfo)</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:2545</div></div>
+<div class="ttc" id="aclassspell__igb__below__zero_html_a77c63e85233e2ef14bf06c82ad27c4b2"><div class="ttname"><a href="../../d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2">spell_igb_below_zero::RemovePassengers</a></div><div class="ttdeci">void RemovePassengers(SpellMissInfo missInfo)</div><div class="ttdef"><b>Definition</b> boss_icecrown_gunship_battle.cpp:2546</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00341">SpellScript::BeforeHit</a>, <a class="el" href="../../#l00342">BeforeSpellHitFn</a>, and <a class="el" href="../../#l02545">RemovePassengers()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00341">SpellScript::BeforeHit</a>, <a class="el" href="../../#l00342">BeforeSpellHitFn</a>, and <a class="el" href="../../#l02546">RemovePassengers()</a>.</p>
 
 </div>
 </div>
@@ -375,15 +375,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2546</span>    {</div>
-<div class="line"><span class="lineno"> 2547</span>        <span class="keywordflow">if</span> (missInfo != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>)</div>
-<div class="line"><span class="lineno"> 2548</span>        {</div>
-<div class="line"><span class="lineno"> 2549</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2550</span>        }</div>
-<div class="line"><span class="lineno"> 2551</span> </div>
-<div class="line"><span class="lineno"> 2552</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a41781ed2f15641ad0aa30b2767ab2b66">SetPower</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a535f3e3322566811e43bef82808b5288">POWER_ENERGY</a>, 0);</div>
-<div class="line"><span class="lineno"> 2553</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>(), <a class="code hl_enumvalue" href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cacc4b7f3e1e9f4c62a0dd6237c4ab0207">SPELL_EJECT_ALL_PASSENGERS</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
-<div class="line"><span class="lineno"> 2554</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2547</span>    {</div>
+<div class="line"><span class="lineno"> 2548</span>        <span class="keywordflow">if</span> (missInfo != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>)</div>
+<div class="line"><span class="lineno"> 2549</span>        {</div>
+<div class="line"><span class="lineno"> 2550</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2551</span>        }</div>
+<div class="line"><span class="lineno"> 2552</span> </div>
+<div class="line"><span class="lineno"> 2553</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a41781ed2f15641ad0aa30b2767ab2b66">SetPower</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a535f3e3322566811e43bef82808b5288">POWER_ENERGY</a>, 0);</div>
+<div class="line"><span class="lineno"> 2554</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>(), <a class="code hl_enumvalue" href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cacc4b7f3e1e9f4c62a0dd6237c4ab0207">SPELL_EJECT_ALL_PASSENGERS</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a>);</div>
+<div class="line"><span class="lineno"> 2555</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414a535f3e3322566811e43bef82808b5288"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414a535f3e3322566811e43bef82808b5288">POWER_ENERGY</a></div><div class="ttdeci">@ POWER_ENERGY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:283</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a></div><div class="ttdeci">@ SPELL_MISS_NONE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1530</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967a10578b171eb74dc9851866cc6eb53f3a">TRIGGERED_FULL_MASK</a></div><div class="ttdeci">@ TRIGGERED_FULL_MASK</div><div class="ttdoc">Will return SPELL_FAILED_DONT_REPORT in CheckCast functions.</div><div class="ttdef"><b>Definition</b> SpellDefines.h:150</div></div>
@@ -394,7 +394,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01193">Unit::CastSpell()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00283">POWER_ENERGY</a>, <a class="el" href="../../#l15651">Unit::SetPower()</a>, <a class="el" href="../../#l00187">SPELL_EJECT_ALL_PASSENGERS</a>, <a class="el" href="../../#l01530">SPELL_MISS_NONE</a>, and <a class="el" href="../../#l00150">TRIGGERED_FULL_MASK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02556">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02557">Register()</a>.</p>
 
 </div>
 </div>
@@ -423,9 +423,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2541</span>    {</div>
-<div class="line"><span class="lineno"> 2542</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cacc4b7f3e1e9f4c62a0dd6237c4ab0207">SPELL_EJECT_ALL_PASSENGERS</a> });</div>
-<div class="line"><span class="lineno"> 2543</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2542</span>    {</div>
+<div class="line"><span class="lineno"> 2543</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298cacc4b7f3e1e9f4c62a0dd6237c4ab0207">SPELL_EJECT_ALL_PASSENGERS</a> });</div>
+<div class="line"><span class="lineno"> 2544</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00187">SPELL_EJECT_ALL_PASSENGERS</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -441,7 +441,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d2e/classspell__igb__below__zero.html">spell_igb_below_zero</a></li>
-    <li class="footer">Generated on Thu Oct 16 2025 06:24:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 17 2025 06:24:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var NAVTREEINDEX195 =
 {
+"d7/d96/structRedirectThreatInfo.html#ae206110e4d7155bb87079ebd58800e3d":[6,0,2491,1],
+"d7/d96/structnpc__frozen__core.html":[6,0,1800],
 "d7/d96/structnpc__frozen__core.html#a3a5efec3279644ef713722e1556a3c84":[6,0,1800,5],
 "d7/d96/structnpc__frozen__core.html#a476e086b0379e0cef3a44d250b020d6a":[6,0,1800,3],
 "d7/d96/structnpc__frozen__core.html#a7b2c684f0c4e88720fb0d921815026ab":[6,0,1800,1],
@@ -25,13 +27,13 @@ var NAVTREEINDEX195 =
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html":[6,0,2223],
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html#a3884f50f894770ff94ad6977f62c45f3":[6,0,2223,2],
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html#ac59aa042fd188eaf1eb6a04eb7d545a9":[6,0,2223,1],
-"d7/d99/classspell__dru__savage__defense.html":[6,0,2841],
-"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[6,0,2841,3],
-"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2841,2],
-"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2841,5],
-"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2841,4],
-"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2841,0],
-"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2841,1],
+"d7/d99/classspell__dru__savage__defense.html":[6,0,2840],
+"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[6,0,2840,3],
+"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2840,2],
+"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2840,5],
+"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2840,4],
+"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2840,0],
+"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2840,1],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html":[7,0,0,0,3,4,10],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#a8d76af4bfff910da40b4f93a1c465744":[7,0,0,0,3,4,10,2],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#aff3add09c98fece7ace91b0e7c90435e":[7,0,0,0,3,4,10,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ab667ca6a3e3fd1572cc3a5d0ee4efa60":[6,0,820,0,19],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#abb8463fcd6b642f7dbcd459296c81f86":[6,0,820,0,3],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ac40734fb9f32d736174781d67908c6d6":[6,0,820,0,7],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ac738ee9f48cf95623c02d398a889726a":[6,0,820,0,0],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#acb32e7867b43d1ebd1393d4e716df808":[6,0,820,0,20],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#acbcecd90533986c2a6185e7a7b5387f0":[6,0,820,0,15]
+"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ac738ee9f48cf95623c02d398a889726a":[6,0,820,0,0]
 };

@@ -995,7 +995,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  522</span>                    darnavan-&gt;GetMotionMaster()-&gt;MoveIdle();</div>
 <div class="line"><span class="lineno">  523</span>                    darnavan-&gt;StopMoving();</div>
 <div class="line"><span class="lineno">  524</span>                    darnavan-&gt;SetReactState(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">  525</span>                    darnavan-&gt;m_Events.AddEvent(<span class="keyword">new</span> <a class="code hl_class" href="../../d3/dce/classDaranavanMoveEvent.html">DaranavanMoveEvent</a>(*darnavan), darnavan-&gt;m_Events.CalculateTime(10000));</div>
+<div class="line"><span class="lineno">  525</span>                    darnavan-&gt;m_Events.AddEventAtOffset(<span class="keyword">new</span> <a class="code hl_class" href="../../d3/dce/classDaranavanMoveEvent.html">DaranavanMoveEvent</a>(*darnavan), 10s);</div>
 <div class="line"><span class="lineno">  526</span>                    darnavan-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d3/df6/boss__lady__deathwhisper_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaa9d0ed446aaefca16046a3117e1655eea">SAY_DARNAVAN_RESCUED</a>);</div>
 <div class="line"><span class="lineno">  527</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* owner = killer-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3bd4bddb1a2ef1b1aaf427576b78a683">GetCharmerOrOwnerPlayerOrPlayerItself</a>())</div>
 <div class="line"><span class="lineno">  528</span>                    {</div>
@@ -1787,7 +1787,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d24/classboss__lady__deathwhisper.html">boss_lady_deathwhisper</a></li><li class="navelem"><a class="el" href="../../d2/dd1/structboss__lady__deathwhisper_1_1boss__lady__deathwhisperAI.html">boss_lady_deathwhisperAI</a></li>
-    <li class="footer">Generated on Thu Oct 16 2025 06:24:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 17 2025 06:23:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

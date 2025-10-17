@@ -785,7 +785,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  390</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>))</div>
 <div class="line"><span class="lineno">  391</span>            {</div>
 <div class="line"><span class="lineno">  392</span>                <span class="comment">// Turn Dawnforge</span></div>
-<div class="line"><span class="lineno">  393</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a549e721b14f15635bd6572505b366e78">SetFacingToObject</a>(ardonis);</div>
+<div class="line"><span class="lineno">  393</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(ardonis);</div>
 <div class="line"><span class="lineno">  394</span> </div>
 <div class="line"><span class="lineno">  395</span>                <span class="comment">// Turn Ardonis</span></div>
 <div class="line"><span class="lineno">  396</span>                ardonis-&gt;SetFacingToObject(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
@@ -797,11 +797,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  402</span>        }</div>
 <div class="ttc" id="aUnitDefines_8h_html_a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a></div><div class="ttdeci">@ UNIT_STAND_STATE_STAND</div><div class="ttdef"><b>Definition</b> UnitDefines.h:32</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:627</div></div>
-<div class="ttc" id="aclassUnit_html_a549e721b14f15635bd6572505b366e78"><div class="ttname"><a href="../../df/dd9/classUnit.html#a549e721b14f15635bd6572505b366e78">Unit::SetFacingToObject</a></div><div class="ttdeci">void SetFacingToObject(WorldObject *object)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20361</div></div>
+<div class="ttc" id="aclassUnit_html_a0e580411696501dcadadf1db0c34bd19"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">Unit::SetFacingToObject</a></div><div class="ttdeci">void SetFacingToObject(WorldObject *object, Milliseconds timed=0ms)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20343</div></div>
 <div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16802</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l20361">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l20343">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00404">CanStartEvent()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
 
@@ -837,10 +837,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  374</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  375</span> </div>
 <div class="line"><span class="lineno">  376</span>            <span class="comment">// Turn Dawnforge</span></div>
-<div class="line"><span class="lineno">  377</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a549e721b14f15635bd6572505b366e78">SetFacingToObject</a>(pathaleon);</div>
+<div class="line"><span class="lineno">  377</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(pathaleon);</div>
 <div class="line"><span class="lineno">  378</span> </div>
 <div class="line"><span class="lineno">  379</span>            <span class="comment">// Turn Ardonis</span></div>
-<div class="line"><span class="lineno">  380</span>            ardonis-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a549e721b14f15635bd6572505b366e78">SetFacingToObject</a>(pathaleon);</div>
+<div class="line"><span class="lineno">  380</span>            ardonis-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(pathaleon);</div>
 <div class="line"><span class="lineno">  381</span> </div>
 <div class="line"><span class="lineno">  382</span>            <span class="comment">//Set them to kneel</span></div>
 <div class="line"><span class="lineno">  383</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a>);</div>
@@ -849,7 +849,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aUnitDefines_8h_html_a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a></div><div class="ttdeci">@ UNIT_STAND_STATE_KNEEL</div><div class="ttdef"><b>Definition</b> UnitDefines.h:40</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a8d1cda6b98832b29fcb437c654fd8ae9"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00341">pathaleonGUID</a>, <a class="el" href="../../#l20361">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, and <a class="el" href="../../#l00040">UNIT_STAND_STATE_KNEEL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00341">pathaleonGUID</a>, <a class="el" href="../../#l20343">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, and <a class="el" href="../../#l00040">UNIT_STAND_STATE_KNEEL</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
 
@@ -1162,7 +1162,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d20/classnpc__commander__dawnforge.html">npc_commander_dawnforge</a></li><li class="navelem"><a class="el" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html">npc_commander_dawnforgeAI</a></li>
-    <li class="footer">Generated on Thu Oct 16 2025 06:24:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 17 2025 06:23:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

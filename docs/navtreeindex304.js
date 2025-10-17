@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a8da033f3738fc55f3cd12d06769d7204":[7,0,0,0,1,3,5,9,2,9,42,16],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a8fd6977e33f5fc581e068963142f3452":[7,0,0,0,1,3,5,9,2,9,42,10],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a91bbc93d990dcc68032b35e48f76f864":[7,0,0,0,1,3,5,9,2,9,42,2],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a937e5e392fcd4266b4675fb6fd53088b":[7,0,0,0,1,3,5,9,2,9,42,38],
@@ -152,14 +153,14 @@ var NAVTREEINDEX304 =
 "dc/d29/boss__mimiron_8cpp.html#ab0dca2575c382d513c0da2b0dd92d576":[7,0,0,0,1,3,5,9,2,9,40],
 "dc/d29/boss__mimiron_8cpp.html#acb8328e170a92d1db4eabfe0852921c0":[7,0,0,0,1,3,5,9,2,9,34],
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[7,0,0,0,1,3,5,9,2,9,32],
-"dc/d29/classspell__gen__clone__weapon__aura.html":[6,0,2938],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[6,0,2938,3],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[6,0,2938,0],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a1fe8240f5c553ba56ce9c2ff9338f75b":[6,0,2938,1],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a29834c598d6ef8299d54e48a3461e603":[6,0,2938,2],
-"dc/d29/classspell__gen__clone__weapon__aura.html#a5174f07fde3469c2314a3c1fbba5f432":[6,0,2938,4],
-"dc/d29/classspell__gen__clone__weapon__aura.html#ad4c0402ae71e663534ed8fd137a9afd2":[6,0,2938,6],
-"dc/d29/classspell__gen__clone__weapon__aura.html#aeaf16594f569af671d221234a4aa2c8b":[6,0,2938,5],
+"dc/d29/classspell__gen__clone__weapon__aura.html":[6,0,2937],
+"dc/d29/classspell__gen__clone__weapon__aura.html#a0529b56b30fa7bb97c014bbc2ee4a96a":[6,0,2937,3],
+"dc/d29/classspell__gen__clone__weapon__aura.html#a18e05511c2dc0b934a97e323fccc3f50":[6,0,2937,0],
+"dc/d29/classspell__gen__clone__weapon__aura.html#a1fe8240f5c553ba56ce9c2ff9338f75b":[6,0,2937,1],
+"dc/d29/classspell__gen__clone__weapon__aura.html#a29834c598d6ef8299d54e48a3461e603":[6,0,2937,2],
+"dc/d29/classspell__gen__clone__weapon__aura.html#a5174f07fde3469c2314a3c1fbba5f432":[6,0,2937,4],
+"dc/d29/classspell__gen__clone__weapon__aura.html#ad4c0402ae71e663534ed8fd137a9afd2":[6,0,2937,6],
+"dc/d29/classspell__gen__clone__weapon__aura.html#aeaf16594f569af671d221234a4aa2c8b":[6,0,2937,5],
 "dc/d2a/black__temple_8h.html":[7,0,0,0,1,3,7,1,0],
 "dc/d2a/black__temple_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,1,0,1],
 "dc/d2a/black__temple_8h.html#a0b64fe674ad16039fc11cab49bc4ef87":[7,0,0,0,1,3,7,1,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html":[5,0,31,6,53],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a44fdd025f87e13db6d83afca6c49f5f8":[5,0,31,6,53,4],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a44fdd025f87e13db6d83afca6c49f5f8":[6,0,11,6,53,4],
-"dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a48cfbac2214bfc406d8bc80c175dac8f":[5,0,31,6,53,2],
 "dc/d2a/classWorldPackets_1_1Guild_1_1SaveGuildEmblem.html#a48cfbac2214bfc406d8bc80c175dac8f":[6,0,11,6,53,2]
 };

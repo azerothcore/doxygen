@@ -9,7 +9,7 @@ var classTotem =
     [ "InitSummon", "da/d40/classTotem.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
     [ "IsImmunedToSpellEffect", "da/d40/classTotem.html#a25d245ac788196851f748d84b529bd98", null ],
     [ "SetTotemDuration", "da/d40/classTotem.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
-    [ "UnSummon", "da/d40/classTotem.html#a0386ad240e6b7b9be1c744ac4a62d28e", null ],
+    [ "UnSummon", "da/d40/classTotem.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
     [ "Update", "da/d40/classTotem.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],
     [ "UpdateAllStats", "da/d40/classTotem.html#a515d54b852bbedf597f9f69cb7c0982b", null ],
     [ "UpdateArmor", "da/d40/classTotem.html#a0b587243be09d58f5693570933680bff", null ],

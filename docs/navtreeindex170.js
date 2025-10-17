@@ -1,5 +1,7 @@
 var NAVTREEINDEX170 =
 {
+"d6/d4d/structgo__sand__trap.html#a58d45acac672cb05988ddca78185b469":[6,0,1174,0],
+"d6/d4d/structgo__sand__trap.html#a7071a3e420e9137ca133b471bc217bf3":[6,0,1174,1],
 "d6/d4d/structgo__sand__trap.html#af845c0efb3d8ebe53d3620970a84f1e4":[6,0,1174,3],
 "d6/d4e/EventProcessor_8cpp.html":[7,0,0,0,0,15,11],
 "d6/d4f/BattlefieldWG_8h.html":[7,0,0,0,1,2,7,0,1],
@@ -208,10 +210,10 @@ var NAVTREEINDEX170 =
 "d6/d4f/classboss__thorim__ancient__rune__giant.html":[6,0,735],
 "d6/d4f/classboss__thorim__ancient__rune__giant.html#aa8a0ff1416d5678a5d6bb7bdc36d6617":[6,0,735,2],
 "d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,735,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3116],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3116,0],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3116,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3116,2],
+"d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3115],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3115,0],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3115,1],
+"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3115,2],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[6,0,2023],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[6,0,2023,1],
 "d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[6,0,2023,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5":[7,0,0,0,1,3,2,9,0,13,5],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90":[7,0,0,0,1,3,2,9,0,13,8],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4":[7,0,0,0,1,3,2,9,0,13,4],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23":[7,0,0,0,1,3,2,9,0,13,11],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a4e21cd5458c7f5e47183151858fd0776":[7,0,0,0,1,3,2,9,0,16],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302":[7,0,0,0,1,3,2,9,0,12]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23":[7,0,0,0,1,3,2,9,0,13,11]
 };

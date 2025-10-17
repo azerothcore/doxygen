@@ -1,5 +1,9 @@
 var NAVTREEINDEX227 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca789d92286c7852f63de28dbc3d8a0dcb":[7,0,0,0,1,3,5,6,7,35,14],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f2c0e886a9a6522b4fd5258e070ce10":[7,0,0,0,1,3,5,6,7,35,37],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca81498ebb71ead2764c1b918fafd3668c":[7,0,0,0,1,3,5,6,7,35,34],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca839c78300887b398d443416370ad130f":[7,0,0,0,1,3,5,6,7,35,10],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca8cb5e1f16aa167f606a16f232bb3f93f":[7,0,0,0,1,3,5,6,7,35,12],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca928dc3a2f23f4796c151995c1f82007f":[7,0,0,0,1,3,5,6,7,35,17],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca92947234328108ce62b7af3372f81164":[7,0,0,0,1,3,5,6,7,35,40],
@@ -209,11 +213,11 @@ var NAVTREEINDEX227 =
 "d8/de1/structnpc__zealot__zath.html#a845840d0a45dd6c4b6368ee4ecf6917b":[6,0,2307,0],
 "d8/de1/structnpc__zealot__zath.html#abc4e40afd644f2c89444f3fe475817c0":[6,0,2307,3],
 "d8/de1/structnpc__zealot__zath.html#ae56e2e89a6ba623200e9ee36977cee13":[6,0,2307,1],
-"d8/de2/classspell__hodir__storm__power__aura.html":[6,0,3110],
-"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[6,0,3110,1],
-"d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[6,0,3110,3],
-"d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[6,0,3110,2],
-"d8/de2/classspell__hodir__storm__power__aura.html#adab765d78094eec673abce5140145267":[6,0,3110,0],
+"d8/de2/classspell__hodir__storm__power__aura.html":[6,0,3109],
+"d8/de2/classspell__hodir__storm__power__aura.html#aab4331a7a55dc6f713db02726ec22e3a":[6,0,3109,1],
+"d8/de2/classspell__hodir__storm__power__aura.html#ac1007ce2ee5e046639829558855f0188":[6,0,3109,3],
+"d8/de2/classspell__hodir__storm__power__aura.html#acb827ae4299ae482d9b7f3fb09bbcc52":[6,0,3109,2],
+"d8/de2/classspell__hodir__storm__power__aura.html#adab765d78094eec673abce5140145267":[6,0,3109,0],
 "d8/de3/Warden_8cpp.html":[7,0,0,0,1,2,46,2],
 "d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc":[7,0,0,0,1,2,46,2,1],
 "d8/de3/classnpc__murkdeep.html":[6,0,1981],
@@ -245,9 +249,5 @@ var NAVTREEINDEX227 =
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ac128df2d0c92bf7377c0df59a379330c":[7,0,0,0,1,3,5,9,1,1,3,2],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af3454b7726ff200f857b79943aac2cf8":[7,0,0,0,1,3,5,9,1,1,3,0],
 "d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498fa":[7,0,0,0,1,3,5,9,1,1,2],
-"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faa0992d683bc7d0448b2e32fdf931c00d3":[7,0,0,0,1,3,5,9,1,1,2,4],
-"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faa2f956980ba952c8febcd4bde3fa27d5c":[7,0,0,0,1,3,5,9,1,1,2,2],
-"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faa939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,9,1,1,2,0],
-"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faab8f407096c5f3f605cb87401cd5dd01e":[7,0,0,0,1,3,5,9,1,1,2,1],
-"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faad95330b3d45c48517e7d806752878756":[7,0,0,0,1,3,5,9,1,1,2,3]
+"d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faa0992d683bc7d0448b2e32fdf931c00d3":[7,0,0,0,1,3,5,9,1,1,2,4]
 };

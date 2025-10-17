@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4a/classAuctionHouseWorkerThread.html#a31f1510cd146eac4718c6577caf72cc4":[6,0,267,12],
 "dc/d4a/classAuctionHouseWorkerThread.html#a3cc7697e74c9acd6dd902a75044d64d3":[6,0,267,4],
 "dc/d4a/classAuctionHouseWorkerThread.html#a4f645c52213b513d3869c3934fec56df":[6,0,267,2],
 "dc/d4a/classAuctionHouseWorkerThread.html#a64414f54c6a84546bee85eb4e46ae04f":[6,0,267,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7648b25c80ab6b38b3aab5449abdb89":[7,0,0,0,1,2,26,2,0,11],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae7e1320fd0c7cf9303bc905eb83f7094":[7,0,0,0,1,2,26,2,0,3],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae88321c626be966eda1d5aca34feda6e":[7,0,0,0,1,2,26,2,0,40],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aeb6623be1bf02bcf8e2599425e11931b":[7,0,0,0,1,2,26,2,0,136],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aee81dadad1ccb4a63ee0a8b0f85fefb6":[7,0,0,0,1,2,26,2,0,19]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aeb6623be1bf02bcf8e2599425e11931b":[7,0,0,0,1,2,26,2,0,136]
 };

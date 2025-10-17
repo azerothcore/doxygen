@@ -3010,7 +3010,6 @@ var annotated_dup =
     [ "reset_commandscript", "d5/da7/classreset__commandscript.html", "d5/da7/classreset__commandscript" ],
     [ "ResetEncounterEvent", "d8/d9c/classResetEncounterEvent.html", "d8/d9c/classResetEncounterEvent" ],
     [ "ResetNotifier", "d2/dfb/structResetNotifier.html", "d2/dfb/structResetNotifier" ],
-    [ "ResetToHomeOrientation", "da/dc6/classResetToHomeOrientation.html", "da/dc6/classResetToHomeOrientation" ],
     [ "RespawnEvent", "dc/dd6/classRespawnEvent.html", "dc/dd6/classRespawnEvent" ],
     [ "RestoreAttack", "d2/d61/classRestoreAttack.html", "d2/d61/classRestoreAttack" ],
     [ "RestoreFight", "d2/d0f/classRestoreFight.html", "d2/d0f/classRestoreFight" ],

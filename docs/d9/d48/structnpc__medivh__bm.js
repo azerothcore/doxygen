@@ -7,7 +7,7 @@ var structnpc__medivh__bm =
     [ "JustSummoned", "d9/d48/structnpc__medivh__bm.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
     [ "MoveInLineOfSight", "d9/d48/structnpc__medivh__bm.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
     [ "Reset", "d9/d48/structnpc__medivh__bm.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d9/d48/structnpc__medivh__bm.html#aa0a50952374866ef02af83efe81c9e49", null ],
+    [ "SummonOrcs", "d9/d48/structnpc__medivh__bm.html#a13964b4c460a664442be7eebe768edf5", null ],
     [ "UpdateAI", "d9/d48/structnpc__medivh__bm.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
     [ "_airArray", "d9/d48/structnpc__medivh__bm.html#a6e766596b69b52690635ee91e6e8d164", null ],
     [ "_events", "d9/d48/structnpc__medivh__bm.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
