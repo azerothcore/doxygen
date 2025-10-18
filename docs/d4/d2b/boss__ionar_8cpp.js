@@ -1,9 +1,7 @@
 var boss__ionar_8cpp =
 [
-    [ "boss_ionar", "df/d73/classboss__ionar.html", "df/d73/classboss__ionar" ],
-    [ "boss_ionar::boss_ionarAI", "df/d16/structboss__ionar_1_1boss__ionarAI.html", "df/d16/structboss__ionar_1_1boss__ionarAI" ],
-    [ "npc_spark_of_ionar", "df/de1/classnpc__spark__of__ionar.html", "df/de1/classnpc__spark__of__ionar" ],
-    [ "npc_spark_of_ionar::npc_spark_of_ionarAI", "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI.html", "d9/d4f/structnpc__spark__of__ionar_1_1npc__spark__of__ionarAI" ],
+    [ "boss_ionar", "de/df1/structboss__ionar.html", "de/df1/structboss__ionar" ],
+    [ "npc_spark_of_ionar", "d4/dc0/structnpc__spark__of__ionar.html", "d4/dc0/structnpc__spark__of__ionar" ],
     [ "spell_ionar_static_overload", "d4/d68/classspell__ionar__static__overload.html", "d4/d68/classspell__ionar__static__overload" ],
     [ "IonarEvents", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],

@@ -1,5 +1,10 @@
 var NAVTREEINDEX133 =
 {
+"d4/d9f/classTriangleBoundary.html#acd21a26ca6b830c4d4c6ed2b4a186a30":[6,0,4202,0],
+"d4/d9f/classTriangleBoundary.html#afa03a5b23a6e0d3d4e134fe7b1599df0":[6,0,4202,7],
+"d4/d9f/structget__packet__class.html":[6,0,1101],
+"d4/da0/classboss__apothecary__hummel.html":[6,0,382],
+"d4/da0/classboss__apothecary__hummel.html#a86d23ff3569e5e86b8787bb3ea7816c7":[6,0,382,3],
 "d4/da0/classboss__apothecary__hummel.html#a87a01f4d6eaac7c5e1795133e8aa1ccd":[6,0,382,2],
 "d4/da0/classboss__apothecary__hummel.html#af1672c0b7f67d9013e3769a7009c2ee9":[6,0,382,1],
 "d4/da0/structnpc__living__mojo_1_1npc__living__mojoAI.html":[6,0,1931,0],
@@ -22,10 +27,10 @@ var NAVTREEINDEX133 =
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
-"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
+"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2585],
 "d4/da1/classspectator__commandscript.html#a15e661891f4e08c3efa0bd844c3954aa":[6,0,2585,3],
 "d4/da1/classspectator__commandscript.html#a1bf79d739a6af02405bc268c9bb50c26":[6,0,2585,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX133 =
 "d4/da9/boss__ignis_8cpp.html#af92b06a5ffb669c8807c8d69306a31bb":[7,0,0,0,1,3,5,9,2,7,20],
 "d4/da9/boss__ignis_8cpp.html#afa53aa1262456e69b82d5fae81ebb295":[7,0,0,0,1,3,5,9,2,7,13],
 "d4/da9/boss__ignis_8cpp.html#afec87e2908f1f0899a8fe205c2144bab":[7,0,0,0,1,3,5,9,2,7,28],
-"d4/da9/classBattlegroundScript.html":[6,0,338],
-"d4/da9/classBattlegroundScript.html#a306231f1c7346a00a3f877c7cef3897b":[6,0,338,0],
-"d4/da9/classBattlegroundScript.html#a35b571d570c85a861af6f949b51453cb":[6,0,338,2],
-"d4/da9/classBattlegroundScript.html#a782c6e81f4ed9a63f9276dcc4f0f9116":[6,0,338,1],
-"d4/da9/classspell__item__skull__of__impeding__doom.html":[6,0,3314],
-"d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe":[6,0,3314,0]
+"d4/da9/classBattlegroundScript.html":[6,0,338]
 };

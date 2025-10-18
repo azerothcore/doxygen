@@ -1,11 +1,8 @@
 var boss__volkhan_8cpp =
 [
-    [ "boss_volkhan", "d0/df1/classboss__volkhan.html", "d0/df1/classboss__volkhan" ],
-    [ "boss_volkhan::boss_volkhanAI", "de/de7/structboss__volkhan_1_1boss__volkhanAI.html", "de/de7/structboss__volkhan_1_1boss__volkhanAI" ],
-    [ "npc_molten_golem", "d0/d66/classnpc__molten__golem.html", "d0/d66/classnpc__molten__golem" ],
-    [ "npc_molten_golem::npc_molten_golemAI", "d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI.html", "d8/dbf/structnpc__molten__golem_1_1npc__molten__golemAI" ],
-    [ "npc_hol_monument", "dc/da2/classnpc__hol__monument.html", "dc/da2/classnpc__hol__monument" ],
-    [ "npc_hol_monument::npc_hol_monumentAI", "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI.html", "dd/d45/structnpc__hol__monument_1_1npc__hol__monumentAI" ],
+    [ "boss_volkhan", "d4/d09/structboss__volkhan.html", "d4/d09/structboss__volkhan" ],
+    [ "npc_molten_golem", "df/d2a/structnpc__molten__golem.html", "df/d2a/structnpc__molten__golem" ],
+    [ "npc_hol_monument", "dd/d33/structnpc__hol__monument.html", "dd/d33/structnpc__hol__monument" ],
     [ "monumentEvents", "d9/dc6/boss__volkhan_8cpp.html#a0e84888e4867ffbf0dc32bd8666f0bc0", [
       [ "EVENT_PIERCING_HOWL", "d9/dc6/boss__volkhan_8cpp.html#a0e84888e4867ffbf0dc32bd8666f0bc0a89b86fe98dee6056077272582a710ef0", null ],
       [ "EVENT_PENETRATING_STRIKE", "d9/dc6/boss__volkhan_8cpp.html#a0e84888e4867ffbf0dc32bd8666f0bc0a36bc0710106e0e0bcd38677fe87a4522", null ],

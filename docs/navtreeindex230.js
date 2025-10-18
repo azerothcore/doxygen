@@ -1,13 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[6,0,0,4,8,2],
-"d9/d01/structGtChanceToMeleeCritEntry.html":[6,0,1239],
-"d9/d01/structGtChanceToMeleeCritEntry.html#a4df2f98014dd653657b80b4d98e54896":[6,0,1239,0],
-"d9/d02/Arena_8h.html":[7,0,0,0,1,2,8,3],
-"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9":[7,0,0,0,1,2,8,3,2],
-"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd":[7,0,0,0,1,2,8,3,2,4],
-"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c":[7,0,0,0,1,2,8,3,2,0],
-"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0":[7,0,0,0,1,2,8,3,2,2],
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222":[7,0,0,0,1,2,8,3,2,3],
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f":[7,0,0,0,1,2,8,3,2,1],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71":[7,0,0,0,1,2,8,3,1],
@@ -249,5 +241,13 @@ var NAVTREEINDEX230 =
 "d9/d03/structModelHeader.html#ae91914678dff064bc9f73bac7223aa20":[6,0,1519,62],
 "d9/d03/structModelHeader.html#af380a1b8594ed0db8680d31a3a01c8a1":[6,0,1519,51],
 "d9/d03/structModelHeader.html#af9868234251a6f1eb7e809a7d183d68d":[6,0,1519,47],
-"d9/d03/structModelHeader.html#afa18360276cbf9324675c0716079eecf":[6,0,1519,42]
+"d9/d03/structModelHeader.html#afa18360276cbf9324675c0716079eecf":[6,0,1519,42],
+"d9/d03/structModelHeader.html#afe6561867455a787dfd9a2d784cc9546":[6,0,1519,41],
+"d9/d04/classboss__azuregos.html":[6,0,390],
+"d9/d04/classboss__azuregos.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83":[6,0,390,2],
+"d9/d04/classboss__azuregos.html#a48590db0037870ca5c9425a468e5ea3a":[6,0,390,1],
+"d9/d04/classboss__azuregos.html#a73220e54a3a53931e740f3c53c3bf20c":[6,0,390,3],
+"d9/d06/classspell__q11515__fel__siphon__dummy.html":[6,0,3651],
+"d9/d06/classspell__q11515__fel__siphon__dummy.html#a0d122972fc036d1f1e49c49acda58be3":[6,0,3651,1],
+"d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[6,0,3651,0]
 };

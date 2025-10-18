@@ -1,7 +1,6 @@
 var boss__loken_8cpp =
 [
-    [ "boss_loken", "db/d17/classboss__loken.html", "db/d17/classboss__loken" ],
-    [ "boss_loken::boss_lokenAI", "da/d82/structboss__loken_1_1boss__lokenAI.html", "da/d82/structboss__loken_1_1boss__lokenAI" ],
+    [ "boss_loken", "da/d96/structboss__loken.html", "da/d96/structboss__loken" ],
     [ "spell_loken_pulsing_shockwave", "d1/dca/classspell__loken__pulsing__shockwave.html", "d1/dca/classspell__loken__pulsing__shockwave" ],
     [ "LokenEvents", "df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0", [
       [ "EVENT_LIGHTNING_NOVA", "df/da4/boss__loken_8cpp.html#a77575461d3289e4cd9f6432f5f6e01c0a44944e59a1877f181fcd2a7b0255a74a", null ],

@@ -1,8 +1,5 @@
 var NAVTREEINDEX16 =
 {
-"d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffa1baf59a0a788e72a73485f39f293533f":[7,0,0,0,1,3,2,1,3,12,4,12],
-"d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffa2d57d7e25b335a77d478132292031a6b":[7,0,0,0,1,3,2,1,3,12,4,5],
-"d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffa2e0d26d7d94ca957caee24dd39bb3c79":[7,0,0,0,1,3,2,1,3,12,4,15],
 "d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffa328d228c802052925da5bf4b748e5a9f":[7,0,0,0,1,3,2,1,3,12,4,16],
 "d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffa5bf23a7f86bfa5049bcc9f2009f0f41a":[7,0,0,0,1,3,2,1,3,12,4,4],
 "d0/dad/molten__core_8h.html#ab11424284c564126f8efcb3146af28ffa6807a36580c6fe6b4ac41c365bebd70e":[7,0,0,0,1,3,2,1,3,12,4,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX16 =
 "d0/db7/classGroup.html#a10f5d72624a125ef8c08bdb2d30c63ef":[6,0,1230,17],
 "d0/db7/classGroup.html#a1101d47775045aa77c2fd621d5148c4f":[6,0,1230,25],
 "d0/db7/classGroup.html#a1197204e86337fd941f2adb4d33b63e1":[6,0,1230,109],
-"d0/db7/classGroup.html#a15d3ca102217cba8de1f7a928d752d27":[6,0,1230,14]
+"d0/db7/classGroup.html#a15d3ca102217cba8de1f7a928d752d27":[6,0,1230,14],
+"d0/db7/classGroup.html#a16cf33f0e6c72d5fa089928ef3952a13":[6,0,1230,99],
+"d0/db7/classGroup.html#a18c962060f2a618f7e01de311e36cff9":[6,0,1230,36],
+"d0/db7/classGroup.html#a19c4ec51d2dbbd1f17157dec458ea129":[6,0,1230,90]
 };

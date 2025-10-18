@@ -1,9 +1,7 @@
 var boss__bjarngrim_8cpp =
 [
-    [ "boss_bjarngrim", "d8/d22/classboss__bjarngrim.html", "d8/d22/classboss__bjarngrim" ],
-    [ "boss_bjarngrim::boss_bjarngrimAI", "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI.html", "d8/de7/structboss__bjarngrim_1_1boss__bjarngrimAI" ],
-    [ "npc_stormforged_lieutenant", "d4/d02/classnpc__stormforged__lieutenant.html", "d4/d02/classnpc__stormforged__lieutenant" ],
-    [ "npc_stormforged_lieutenant::npc_stormforged_lieutenantAI", "d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI.html", "d7/d2e/structnpc__stormforged__lieutenant_1_1npc__stormforged__lieutenantAI" ],
+    [ "boss_bjarngrim", "df/dda/structboss__bjarngrim.html", "df/dda/structboss__bjarngrim" ],
+    [ "npc_stormforged_lieutenant", "de/d00/structnpc__stormforged__lieutenant.html", "de/d00/structnpc__stormforged__lieutenant" ],
     [ "BjarngrimEvents", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dc", [
       [ "EVENT_BJARNGRIM_CHANGE_STANCE", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688", null ],
       [ "EVENT_BJARNGRIM_REFLECTION", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca248b5d28ba71eaca7bebb2db0e87af8b", null ],

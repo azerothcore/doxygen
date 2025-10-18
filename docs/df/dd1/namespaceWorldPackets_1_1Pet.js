@@ -2,6 +2,8 @@ var namespaceWorldPackets_1_1Pet =
 [
     [ "DismissCritter", "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html", "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter" ],
     [ "PetAbandon", "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html", "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon" ],
+    [ "PetActionSound", "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html", "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound" ],
+    [ "PetDismissSound", "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html", "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound" ],
     [ "PetLearnedSpell", "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html", "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell" ],
     [ "PetSpellAutocast", "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html", "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast" ],
     [ "PetStopAttack", "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack.html", "d6/d8a/classWorldPackets_1_1Pet_1_1PetStopAttack" ],

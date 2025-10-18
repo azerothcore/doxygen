@@ -39,6 +39,10 @@ var PetDefines_8h =
       [ "NPC_GENERIC_IMP", "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444afca2c65aa34112502cc617b12374e988", null ],
       [ "NPC_GENERIC_VOIDWALKER", "d6/d9a/PetDefines_8h.html#a639089e6e6026ab7c06fbbe23f857444accb660cc28729ef2eae9139f280e09b1", null ]
     ] ],
+    [ "PetAction", "d6/d9a/PetDefines_8h.html#a8f1e333f5ef88551b058036c187c1200", [
+      [ "PET_ACTION_SPECIAL_SPELL", "d6/d9a/PetDefines_8h.html#a8f1e333f5ef88551b058036c187c1200aeb884ae019d02b41d359a6fcd13c0725", null ],
+      [ "PET_ACTION_ATTACK", "d6/d9a/PetDefines_8h.html#a8f1e333f5ef88551b058036c187c1200a111c922202fb690b727738b6344ec766", null ]
+    ] ],
     [ "PetLoadState", "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6b", [
       [ "PET_LOAD_OK", "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba398819a3c83d6ad80812d1dca2039d64", null ],
       [ "PET_LOAD_NO_RESULT", "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba2e0f5a56669ad0bd1e738d94090e06cc", null ],
@@ -116,10 +120,6 @@ var PetDefines_8h =
       [ "PETSPELL_NORMAL", "d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550ceabb53c3a4462fa50e5c8ad926465f63bb", null ],
       [ "PETSPELL_FAMILY", "d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550cead8f157e9e157c6042ec5fa09e17edafb", null ],
       [ "PETSPELL_TALENT", "d6/d9a/PetDefines_8h.html#ac12b13d4da0688112812b2c7976550ceab009e82a28fb4f233fba32a0d71782ea", null ]
-    ] ],
-    [ "PetTalk", "d6/d9a/PetDefines_8h.html#aa01f2535df94effa749383327aaea2b7", [
-      [ "PET_TALK_SPECIAL_SPELL", "d6/d9a/PetDefines_8h.html#aa01f2535df94effa749383327aaea2b7a44499e435b353774d3ec3ce0bdfea28d", null ],
-      [ "PET_TALK_ATTACK", "d6/d9a/PetDefines_8h.html#aa01f2535df94effa749383327aaea2b7a803c3c41784bfcad6b7dd2b15f4db7f7", null ]
     ] ],
     [ "PetType", "d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97c", [
       [ "SUMMON_PET", "d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca3167e28bcafa6bb3b3e2b2dc72557ecd", null ],

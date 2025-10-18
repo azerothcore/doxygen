@@ -1,8 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a1bbc9ffd506dcd3a19925a860f94418f":[6,0,387,0,0],
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a1cfc503178c3c59ee87d2ffb9372636d":[6,0,387,0,12],
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a23b5c1258b56f0eb752abc77e622cc8a":[6,0,387,0,15],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a4b939a5e446aeac12fe6dc006a21fe3b":[6,0,387,0,4],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a61c3887481f8f7119357ef3402ed82be":[6,0,387,0,6],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a6bd69d474df1db36bd020fad50fbcee4":[6,0,387,0,11],
@@ -249,5 +246,8 @@ var NAVTREEINDEX9 =
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a2f25555ca2884f6bffb289d209e87740":[6,0,759,0,3],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a36746118770c936e7606962365e102d8":[6,0,759,0,8],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a3e6815b80a3f9f5e8c53bb762e9058f2":[6,0,759,0,0],
-"d0/d79/structboss__varos_1_1boss__varosAI.html#a87f743f03dc19659d0e77ee23cd2c327":[6,0,759,0,5]
+"d0/d79/structboss__varos_1_1boss__varosAI.html#a87f743f03dc19659d0e77ee23cd2c327":[6,0,759,0,5],
+"d0/d79/structboss__varos_1_1boss__varosAI.html#a9cf7c0159753512ae7dea8a2f6a9da74":[6,0,759,0,9],
+"d0/d79/structboss__varos_1_1boss__varosAI.html#acc1ac3c2bf5cb1a7732f375285467423":[6,0,759,0,7],
+"d0/d79/structboss__varos_1_1boss__varosAI.html#aef225fcf580c5e500d3242ac4be24260":[6,0,759,0,11]
 };

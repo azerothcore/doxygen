@@ -1,11 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58":[7,0,0,0,1,2,38,0,56,1,5],
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51":[7,0,0,0,1,2,38,0,56,1,1],
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d":[7,0,0,0,1,2,38,0,56,1,0],
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b":[7,0,0,0,1,2,38,0,56,1,11],
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f":[7,0,0,0,1,2,38,0,56,1,3],
-"d1/d55/QueryCallback_8h.html":[7,0,0,0,1,1,0,25],
 "d1/d55/classachievement__chaos__theory.html":[6,0,44],
 "d1/d55/classachievement__chaos__theory.html#a3068009fa1fb400439a2c72f00296484":[6,0,44,0],
 "d1/d55/classachievement__chaos__theory.html#a68d9a577cb7e005d81f52077707e3555":[6,0,44,1],
@@ -249,5 +243,11 @@ var NAVTREEINDEX33 =
 "d1/d61/structCreatureTemplate.html#aa174cd6d183b65271be32dfb5f972eaf":[6,0,933,23],
 "d1/d61/structCreatureTemplate.html#aa240bd7b6c02968ac4e60c18dc5fb751":[6,0,933,51],
 "d1/d61/structCreatureTemplate.html#aa2991334854e283ea6726f2e07f973a8":[6,0,933,4],
-"d1/d61/structCreatureTemplate.html#aa34daeb17da26781547c39fcc3d7b975":[6,0,933,28]
+"d1/d61/structCreatureTemplate.html#aa34daeb17da26781547c39fcc3d7b975":[6,0,933,28],
+"d1/d61/structCreatureTemplate.html#aa7c863739e5b400853986c0b82d96a87":[6,0,933,47],
+"d1/d61/structCreatureTemplate.html#aadf6014ed198a856b8b2b9c075f458fc":[6,0,933,68],
+"d1/d61/structCreatureTemplate.html#aae9527ede9a8dad2bbd4a93815d58c9b":[6,0,933,21],
+"d1/d61/structCreatureTemplate.html#ab2096a032a742c27a0ab23d8f2aee4dc":[6,0,933,71],
+"d1/d61/structCreatureTemplate.html#ab46a70c1ad6e66e2425a355dbfc2227f":[6,0,933,17],
+"d1/d61/structCreatureTemplate.html#ab562ded879398960d2c0c92b8cb51953":[6,0,933,16]
 };

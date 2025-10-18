@@ -6,5 +6,7 @@ var PetPackets_8h =
     [ "WorldPackets::Pet::PetSpellAutocast", "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html", "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast" ],
     [ "WorldPackets::Pet::PetLearnedSpell", "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html", "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell" ],
     [ "WorldPackets::Pet::PetUnlearnedSpell", "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html", "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell" ],
-    [ "WorldPackets::Pet::RequestPetInfo", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo" ]
+    [ "WorldPackets::Pet::RequestPetInfo", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html", "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo" ],
+    [ "WorldPackets::Pet::PetActionSound", "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html", "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound" ],
+    [ "WorldPackets::Pet::PetDismissSound", "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html", "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound" ]
 ];
