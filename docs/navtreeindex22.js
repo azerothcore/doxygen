@@ -234,8 +234,8 @@ var NAVTREEINDEX22 =
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[6,0,0,49],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,1,61,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,49,1],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,61,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[6,0,0,49,2],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,61,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[6,0,0,49,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,61,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[6,0,0,49,5],
@@ -244,10 +244,10 @@ var NAVTREEINDEX22 =
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[6,0,0,49,3],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,1,61,0],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[6,0,0,49,0],
-"d0/dfe/classBattleExperienceEvent.html":[6,0,308],
-"d0/dfe/classBattleExperienceEvent.html#a0155536d5c2be329a1f3b57c4d852098":[6,0,308,2],
-"d0/dfe/classBattleExperienceEvent.html#a22f0d7e59f579362be4576180d0977b8":[6,0,308,3],
-"d0/dfe/classBattleExperienceEvent.html#a3091b403089533ce2ebbb40fa38f28c9":[6,0,308,0],
-"d0/dfe/classBattleExperienceEvent.html#a3971962ec90f682baeae96fe6098fa97":[6,0,308,1],
-"d0/dfe/classBattleExperienceEvent.html#a5e2e06a386059ba2d9aff676648fa56b":[6,0,308,4]
+"d0/dfe/classBattleExperienceEvent.html":[6,0,309],
+"d0/dfe/classBattleExperienceEvent.html#a0155536d5c2be329a1f3b57c4d852098":[6,0,309,2],
+"d0/dfe/classBattleExperienceEvent.html#a22f0d7e59f579362be4576180d0977b8":[6,0,309,3],
+"d0/dfe/classBattleExperienceEvent.html#a3091b403089533ce2ebbb40fa38f28c9":[6,0,309,0],
+"d0/dfe/classBattleExperienceEvent.html#a3971962ec90f682baeae96fe6098fa97":[6,0,309,1],
+"d0/dfe/classBattleExperienceEvent.html#a5e2e06a386059ba2d9aff676648fa56b":[6,0,309,4]
 };

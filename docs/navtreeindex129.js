@@ -1,14 +1,11 @@
 var NAVTREEINDEX129 =
 {
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[6,0,623,0,8],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[6,0,623,0,3],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a265855d2972e534e927bfa609fbf2cf5":[6,0,623,0,4],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a60a03c3840a3743719996929d2ca9e59":[6,0,623,0,0],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a6d866bf54dc06e4f20eb4d62ea97928a":[6,0,623,0,2],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a7b77a6da820e9b3be80c94a37fe07db4":[6,0,623,0,1],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9daf89ed0f4e5795cafc63a6a81e5d1d":[6,0,623,0,5],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9f9956aaaa60d5d0005a55a87d0424eb":[6,0,623,0,7],
-"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#af1f30a0f3bf0f88725f8a146c528b77a":[6,0,623,0,6],
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a60a03c3840a3743719996929d2ca9e59":[6,0,624,0,0],
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a6d866bf54dc06e4f20eb4d62ea97928a":[6,0,624,0,2],
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a7b77a6da820e9b3be80c94a37fe07db4":[6,0,624,0,1],
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9daf89ed0f4e5795cafc63a6a81e5d1d":[6,0,624,0,5],
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a9f9956aaaa60d5d0005a55a87d0424eb":[6,0,624,0,7],
+"d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#af1f30a0f3bf0f88725f8a146c528b77a":[6,0,624,0,6],
 "d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html":[6,0,2133,0],
 "d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a263d897b4c94c71fe6597c0753722ce8":[6,0,2133,0,1],
 "d4/d80/structnpc__spinestalker_1_1npc__spinestalkerAI.html#a324cd480e056750c61318446c97df48d":[6,0,2133,0,11],
@@ -249,5 +246,8 @@ var NAVTREEINDEX129 =
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a9203ecb14e14edb80a8277f5776b9799":[7,0,0,0,1,3,5,2,1,1,67,5],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a99eaf912c120c7fa6d85748ebf96aebb":[7,0,0,0,1,3,5,2,1,1,67,6],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5abc542daa55be8c65656cab5672d1cdf5":[7,0,0,0,1,3,5,2,1,1,67,0],
-"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5adf350c6db442c32362b5e39aa06ad747":[7,0,0,0,1,3,5,2,1,1,67,1]
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5adf350c6db442c32362b5e39aa06ad747":[7,0,0,0,1,3,5,2,1,1,67,1],
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5afa4e2a4c2a24bc29010bc0903e35ee22":[7,0,0,0,1,3,5,2,1,1,67,4],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647":[7,0,0,0,1,3,5,2,1,1,53],
+"d4/d81/boss__faction__champions_8cpp.html#ab711d5e753f65c1c6a35b2625df0b647a305a5a2f53f51a3c0d615dfe5a729345":[7,0,0,0,1,3,5,2,1,1,53,7]
 };

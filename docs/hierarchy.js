@@ -3331,6 +3331,7 @@ var hierarchy =
         [ "AreaTrigger_at_sentry_point", "d6/dab/classAreaTrigger__at__sentry__point.html", null ],
         [ "AreaTrigger_at_stormwright_shelf", "d7/d48/classAreaTrigger__at__stormwright__shelf.html", null ],
         [ "OnlyOnceAreaTriggerScript", "d7/d4b/classOnlyOnceAreaTriggerScript.html", [
+          [ "at_hol_hall_of_watchers", "d9/d2c/classat__hol__hall__of__watchers.html", null ],
           [ "at_icc_spire_frostwyrm", "d4/df1/classat__icc__spire__frostwyrm.html", null ],
           [ "at_karazhan_side_entrance", "dd/ded/classat__karazhan__side__entrance.html", null ],
           [ "at_rp_nethekurse", "d7/d09/classat__rp__nethekurse.html", null ],
@@ -5608,7 +5609,6 @@ var hierarchy =
           [ "npc_hive_zara_larva", "dd/da4/structnpc__hive__zara__larva.html", null ],
           [ "npc_hive_zara_swarmer", "db/d31/structnpc__hive__zara__swarmer.html", null ],
           [ "npc_hivezara_stinger", "d6/d15/structnpc__hivezara__stinger.html", null ],
-          [ "npc_hol_monument", "dd/d33/structnpc__hol__monument.html", null ],
           [ "npc_hor_lumbering_abomination::npc_hor_lumbering_abominationAI", "da/da0/structnpc__hor__lumbering__abomination_1_1npc__hor__lumbering__abominationAI.html", null ],
           [ "npc_hor_raging_ghoul::npc_hor_raging_ghoulAI", "d4/d39/structnpc__hor__raging__ghoul_1_1npc__hor__raging__ghoulAI.html", null ],
           [ "npc_hor_risen_witch_doctor::npc_hor_risen_witch_doctorAI", "d7/d0a/structnpc__hor__risen__witch__doctor_1_1npc__hor__risen__witch__doctorAI.html", null ],

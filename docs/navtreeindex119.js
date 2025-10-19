@@ -1,6 +1,6 @@
 var NAVTREEINDEX119 =
 {
-"d4/d19/classBfGraveyardWG.html#ae1dfdc2d5a36f10f1a116d56b27545ed":[6,0,346,1],
+"d4/d19/classBfGraveyardWG.html#ae1dfdc2d5a36f10f1a116d56b27545ed":[6,0,347,1],
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html":[6,0,4076],
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html#a31271cd4668d3cbc4f4bdbeb693fe141":[6,0,4076,1],
 "d4/d19/classspell__zulfarrak__summon__zulfarrak__zombies.html#a730e0c865f8c0c12544be951a48fe9ff":[6,0,4076,0],
@@ -13,10 +13,10 @@ var NAVTREEINDEX119 =
 "d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html#ac4bbe0a3cccb6878d050b717b9efb320":[6,0,2272,0,1],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[5,0,31,3,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html":[6,0,11,3,0],
-"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[6,0,11,3,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[5,0,31,3,0,0],
-"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[6,0,11,3,0,3],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#aa649857ceeba6b2f9e060f7d502cdb7a":[6,0,11,3,0,0],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[5,0,31,3,0,3],
+"d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#ac39a08d84c8f5934d0fe26e91809e60a":[6,0,11,3,0,3],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[5,0,31,3,0,1],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#af8bad4d39693290674bda2e2ad8685bf":[6,0,11,3,0,1],
 "d4/d1b/classWorldPackets_1_1Chat_1_1ChatServerMessage.html#afde854fc17313d214fa0f0cdc48ca9a9":[5,0,31,3,0,2],

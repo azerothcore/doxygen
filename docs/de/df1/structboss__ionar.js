@@ -8,6 +8,5 @@ var structboss__ionar =
     [ "ScheduleEvents", "de/df1/structboss__ionar.html#af74dda7ad9cd156036689694b3bb9986", null ],
     [ "SpellHit", "de/df1/structboss__ionar.html#a85c0ba28de5a684435246539d2106dcd", null ],
     [ "Split", "de/df1/structboss__ionar.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "de/df1/structboss__ionar.html#ad6fb218e743bad9fec357ea7d862744d", null ],
-    [ "HealthCheck", "de/df1/structboss__ionar.html#aa287f16bdc09bca9005224668ba2cfab", null ]
+    [ "UpdateAI", "de/df1/structboss__ionar.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

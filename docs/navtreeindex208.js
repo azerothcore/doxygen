@@ -1,8 +1,5 @@
 var NAVTREEINDEX208 =
 {
-"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343":[7,0,0,0,1,2,16,10,6,18],
-"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a2a68c5a1b9533356c3ad598fe72ee951":[7,0,0,0,1,2,16,10,6,18,3],
-"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a4430ff1eaa752bd460f0f69bc74af7db":[7,0,0,0,1,2,16,10,6,18,4],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a6856bef881835abf4ffdab1928fd0993":[7,0,0,0,1,2,16,10,6,18,5],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae7a00847753ec69b3b36986ea7a94a7b":[7,0,0,0,1,2,16,10,6,18,0],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae886d5d056abd0ef34207cb400c54bca":[7,0,0,0,1,2,16,10,6,18,1],
@@ -219,15 +216,15 @@ var NAVTREEINDEX208 =
 "d7/df3/classspell__algalon__big__bang.html#a996db37b678143fbc0a392032d29fff5":[6,0,2597,1],
 "d7/df3/classspell__algalon__big__bang.html#ac780614674e748274081f9f99a5165fe":[6,0,2597,5],
 "d7/df3/classspell__algalon__big__bang.html#aed312a4408134589fd02bbcb844fd1b7":[6,0,2597,4],
-"d7/df4/classnpc__alexstrasza.html":[6,0,1582],
-"d7/df4/classnpc__alexstrasza.html#aa28858e8368031c2882e7e3c1c5968dd":[6,0,1582,1],
-"d7/df4/classnpc__alexstrasza.html#ad155ccc4f7bca786229ee015d365e3ce":[6,0,1582,2],
+"d7/df4/classnpc__alexstrasza.html":[6,0,1583],
+"d7/df4/classnpc__alexstrasza.html#aa28858e8368031c2882e7e3c1c5968dd":[6,0,1583,1],
+"d7/df4/classnpc__alexstrasza.html#ad155ccc4f7bca786229ee015d365e3ce":[6,0,1583,2],
 "d7/df4/classnpc__qiraj__war__spawn.html":[6,0,2070],
 "d7/df4/classnpc__qiraj__war__spawn.html#a2afba33e9fd879ac3fea206768b14334":[6,0,2070,1],
 "d7/df4/classnpc__qiraj__war__spawn.html#a32339f20251c188b895c02b6cc9217e9":[6,0,2070,2],
-"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html":[6,0,1157,0],
-"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html#a424b51b08d17ceb04b015cd535256889":[6,0,1157,0,1],
-"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html#a603641bc52d26521d64afaaeed3abc4d":[6,0,1157,0,0],
+"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html":[6,0,1158,0],
+"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html#a424b51b08d17ceb04b015cd535256889":[6,0,1158,0,1],
+"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html#a603641bc52d26521d64afaaeed3abc4d":[6,0,1158,0,0],
 "d7/df5/StringConvert_8h.html":[7,0,0,0,0,15,27],
 "d7/df5/StringConvert_8h.html#a71739ada07c2f1b12bcd0aa811eea903":[7,0,0,0,0,15,27,4],
 "d7/df5/StringConvert_8h.html#ac2cb308fb001c35fbaa90489ea6cf478":[7,0,0,0,0,15,27,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX208 =
 "d7/df8/classnpc__icc__skybreaker__luminary.html#ad1378aaa7438758f8a796d8e74ae0ce8":[6,0,1875,2],
 "d7/df8/classnpc__icc__skybreaker__luminary.html#aff97d0425cf86a8b411ef3e2bd0cc054":[6,0,1875,1],
 "d7/df9/classnpc__suns__reach__reclamation.html":[6,0,2152],
-"d7/df9/classnpc__suns__reach__reclamation.html#a459e53b21778cf901cbbb15c9f6e5cdd":[6,0,2152,1]
+"d7/df9/classnpc__suns__reach__reclamation.html#a459e53b21778cf901cbbb15c9f6e5cdd":[6,0,2152,1],
+"d7/df9/classnpc__suns__reach__reclamation.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb":[6,0,2152,0],
+"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html":[6,0,2669],
+"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html#a9c92c88bf261f1da2143e7dee41a77ec":[6,0,2669,2]
 };
