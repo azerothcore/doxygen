@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa33826a53bbfb1f0544453cb36c55b0da":[7,0,0,0,1,3,2,12,7,6,2],
 "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa40135006b5b885773aeced5b59f94632":[7,0,0,0,1,3,2,12,7,6,8],
 "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa41a52f5e53bb796196d3a37538b470b9":[7,0,0,0,1,3,2,12,7,6,0],
 "dd/d2c/sunwell__plateau_8h.html#a57d2d4154291532e405ab880a40a999fa58ec6eb3dc5640f283fd5b470e8e5326":[7,0,0,0,1,3,2,12,7,6,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a3f9cca96886b97f7657edc04f4997d41":[6,0,1337,0,2],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a8381b4ead52e3515359cc2c10d52c29a":[6,0,1337,0,1],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a83a24703aafb973809618d3ac3ac0375":[6,0,1337,0,4],
-"dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a8be19e9a77d3796d3c09e75c5b31c19c":[6,0,1337,0,6],
-"dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#aabb179f16f6a61d1cfc842482880ea0b":[6,0,1337,0,0]
+"dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#a8be19e9a77d3796d3c09e75c5b31c19c":[6,0,1337,0,6]
 };

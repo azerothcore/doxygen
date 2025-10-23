@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/db0/classnpc__xerestrasza.html#a49023756b5dab130e4ffd7e62fa80ce4":[6,0,2297,1],
 "de/db0/classnpc__xerestrasza.html#a5e0ede0054969d4787db56781dc55846":[6,0,2297,2],
 "de/db0/classspell__warl__siphon__life.html":[6,0,4009],
 "de/db0/classspell__warl__siphon__life.html#a19e8f1b9aab5ee4e718b304c87303627":[6,0,4009,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/dc1/classadt__MCNK.html#a575a0027fe15f5e4330f74163395915e":[6,0,135,12],
 "de/dc1/classadt__MCNK.html#a5953077720c95f2de92b965ac87b0cf9":[6,0,135,35],
 "de/dc1/classadt__MCNK.html#a627b6a73173e2b43a9186d4dabee1fe9":[6,0,135,29],
-"de/dc1/classadt__MCNK.html#a66e1b90532822cdfd7e1d2b6f4cdf053":[6,0,135,2],
-"de/dc1/classadt__MCNK.html#a6a8bcea16beff9628c0a7410ad176466":[6,0,135,34]
+"de/dc1/classadt__MCNK.html#a66e1b90532822cdfd7e1d2b6f4cdf053":[6,0,135,2]
 };

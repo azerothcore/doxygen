@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a36ade8abc263c1398eb69758317a9109":[6,0,2525,55],
 "d2/d8f/structScriptInfo.html#a3d28f689741a523173d1b50f74c62f8a":[6,0,2525,39],
 "d2/d8f/structScriptInfo.html#a3d9b589329b6dcf5b347890fa8c03889":[6,0,2525,38],
 "d2/d8f/structScriptInfo.html#a4142362e0de372e5fc6a28039ba917bc":[6,0,2525,37],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d9f/classAchievementCriteriaScript.html#a9fab6f158219db6d5a65b0b302cf285e":[6,0,113,2],
 "d2/d9f/classspell__pal__blessing__of__faith.html":[6,0,3523],
 "d2/d9f/classspell__pal__blessing__of__faith.html#a61923f636ad8b3d48eb2dbc6a1803527":[6,0,3523,3],
-"d2/d9f/classspell__pal__blessing__of__faith.html#a6856f05f2cc25267f1d3023d3cb48dc2":[6,0,3523,1],
-"d2/d9f/classspell__pal__blessing__of__faith.html#a82ff05f6150750ecb6ef3b5f8c40f703":[6,0,3523,0]
+"d2/d9f/classspell__pal__blessing__of__faith.html#a6856f05f2cc25267f1d3023d3cb48dc2":[6,0,3523,1]
 };

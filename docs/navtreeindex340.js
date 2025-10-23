@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,1,1,2,30,1],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc65d63f8314014fe67d0ed998bf552e":[7,0,0,0,1,3,5,1,1,2,30,19],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adeb0fb1e137ba8b9c897fe50bf05c1e8":[7,0,0,0,1,3,5,1,1,2,30,20],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaf6200614150c4f6cda75640ae1005c":[7,0,0,0,1,3,5,1,1,2,30,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/de1/zone__grizzly__hills_8cpp.html#ad837ae5bbaaefb5e6e7b60a2bb5a587aae8e535ff3425a55b5f81bab068fcfb3b":[7,0,0,0,1,3,5,19,30,0],
 "dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111":[7,0,0,0,1,3,5,19,37],
 "dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111a1be59b93a1b6b1119cbaac8759f934b2":[7,0,0,0,1,3,5,19,37,0],
-"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8ca":[7,0,0,0,1,3,5,19,31],
-"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa082c55dac60e1f7decc47914ff323ecb":[7,0,0,0,1,3,5,19,31,3]
+"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8ca":[7,0,0,0,1,3,5,19,31]
 };

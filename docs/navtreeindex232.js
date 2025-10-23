@@ -1,5 +1,6 @@
 var NAVTREEINDEX232 =
 {
+"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a9a8c2afff61ad8457aab8a9c23a4b755":[6,0,2281,0,0],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#adf5094ba2bee34ec793124e798d5af8f":[6,0,2281,0,3],
 "d9/d24/MovementHandler_8cpp.html":[7,0,0,0,1,2,22,20],
 "d9/d24/MovementHandler_8cpp.html#a69e254ae3a119a96053add6b9732296c":[7,0,0,0,1,2,22,20,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX232 =
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a8dc1415e2f1211753059ba2569fa049e":[5,0,1,8,7,5],
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a9d3fab78ba706e1d71141d1baff733cb":[6,0,0,5,7,9],
 "d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a9d3fab78ba706e1d71141d1baff733cb":[5,0,1,8,7,9],
-"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a9f8078da8ab86b94c5bdb6f683094e76":[5,0,1,8,7,13],
-"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a9f8078da8ab86b94c5bdb6f683094e76":[6,0,0,5,7,13]
+"d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a9f8078da8ab86b94c5bdb6f683094e76":[5,0,1,8,7,13]
 };

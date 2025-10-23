@@ -1,5 +1,6 @@
 var NAVTREEINDEX405 =
 {
+"df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,842,22],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3351],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3351,2],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3351,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX405 =
 "dir_2b33e2640b4790028fefa7ce3e766c20.html":[7,0,0,0,1,2,16,8],
 "dir_2cf920b86eaa90086c9e49d169beb484.html":[7,0,0,0,1,3,5,4,2],
 "dir_2d6e14335221653bd0e1ab947f5581bf.html":[7,0,0,0,0,7],
-"dir_2e841367dc54c4bfb9664988ca9a6769.html":[7,0,0,0,1,3,2,15],
-"dir_2ed3c669151de9056318ddb9d5154bad.html":[7,0,0,0,1,3,7,1]
+"dir_2e841367dc54c4bfb9664988ca9a6769.html":[7,0,0,0,1,3,2,15]
 };

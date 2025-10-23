@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a82ac8947c4b6b88beb3cb8998f508986":[7,0,0,0,1,3,5,6,9,37,9],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8a99903c35c62193afa45bec5d27a112":[7,0,0,0,1,3,5,6,9,37,19],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a90ab1cd6b8e1b4a5b662074b15e42686":[7,0,0,0,1,3,5,6,9,37,25],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,6,9,37,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a9d889b5112f6c93a0707227fc65dd902":[6,0,1269,1],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa203c37c8259c8b54ad5ec70db484f1":[6,0,1269,7],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aaa6f7b1aa064be00a726539830d6c30e":[6,0,1269,4],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1269,10],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ab1ce2df22dba7759ca28a77532a17db1":[6,0,1269,3]
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1269,10]
 };

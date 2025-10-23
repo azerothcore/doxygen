@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/d95/classspell__q12823__remove__collapsing__cave__aura.html#a0d8925effced854471e2fbec9c631b91":[6,0,3693,2],
 "db/d95/classspell__q12823__remove__collapsing__cave__aura.html#a66849cb61f056e861d8887dc98f6ccbf":[6,0,3693,0],
 "db/d95/classspell__q12823__remove__collapsing__cave__aura.html#afa4ad1b205bf963b4230881738baf938":[6,0,3693,1],
 "db/d95/eye__of__eternity_8h.html":[7,0,0,0,1,3,5,8,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca4b25bab9a77a4cbdbec035eb4e588a03":[6,0,7,7,0,6],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca4b25bab9a77a4cbdbec035eb4e588a03":[5,0,21,7,0,6],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca4ce199e7c9a3520cff17a5f2af8d19ee":[6,0,7,7,0,17],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca4ce199e7c9a3520cff17a5f2af8d19ee":[5,0,21,7,0,17],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca593416e180d36af9ab09946e90800c0d":[6,0,7,7,0,12]
+"db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca4ce199e7c9a3520cff17a5f2af8d19ee":[5,0,21,7,0,17]
 };

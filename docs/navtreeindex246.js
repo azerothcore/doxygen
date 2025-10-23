@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,11,7,8,2],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,31,7,8,2],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2625],
 "d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2625,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61":[6,0,890,9],
 "d9/df7/classConditionMgr.html#aedbbcc49f4cfcbcdb6fbb6574079af27":[6,0,890,20],
 "d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e":[6,0,890,8],
-"d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,890,14],
-"d9/df7/classConditionMgr.html#afef825ca94a043d238af8cd4ae2acda4":[6,0,890,23]
+"d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,890,14]
 };

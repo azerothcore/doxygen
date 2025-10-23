@@ -1,5 +1,6 @@
 var NAVTREEINDEX280 =
 {
+"db/d5c/classWarden.html#afac740e6d1e2b7c9df4a282b43fa24b5":[6,0,4257,10],
 "db/d5c/classWarden.html#affe98268403db8e661541e7cc2b4714c":[6,0,4257,1],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html":[6,0,2599],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6":[6,0,2599,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX280 =
 "db/d68/classPlayerTextBuilder.html#ab44fe12e73da36acb1199987e8573467":[6,0,2428,8],
 "db/d68/classPlayerTextBuilder.html#ac97cf187d079c5162e47bebb7024faa5":[6,0,2428,7],
 "db/d68/classPlayerTextBuilder.html#aece205d3d523dcf6fefbdd9914943723":[6,0,2428,2],
-"db/d68/classPlayerTextBuilder.html#af546f2788870b8b10b3405695ef81171":[6,0,2428,4],
-"db/d68/classboss__yoggsaron__lich__king.html":[6,0,801]
+"db/d68/classPlayerTextBuilder.html#af546f2788870b8b10b3405695ef81171":[6,0,2428,4]
 };

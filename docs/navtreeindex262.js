@@ -1,5 +1,6 @@
 var NAVTREEINDEX262 =
 {
+"da/d85/structboss__morogrim__tidewalker.html#a63edb4b20baa9e1cf5238c3db5974c56":[6,0,628,6],
 "da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[6,0,628,5],
 "da/d86/classspell__toc5__light__rain.html":[6,0,3929],
 "da/d86/classspell__toc5__light__rain.html#a3d523f92cb8123f30cb068cbac39a9c3":[6,0,3929,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX262 =
 "da/d91/classVMAP_1_1ModelSpawn.html#acfc7a76db09013abfad8e42aaae59f52":[5,0,28,16,5],
 "da/d91/classVMAP_1_1ModelSpawn.html#ae1dac1aa360c4d49b61a0cd8af92399c":[5,0,28,16,6],
 "da/d91/classVMAP_1_1ModelSpawn.html#ae1dac1aa360c4d49b61a0cd8af92399c":[6,0,9,16,6],
-"da/d91/classVMAP_1_1ModelSpawn.html#ae8623dcb78a2af4c9aebd60f67649f34":[6,0,9,16,3],
-"da/d91/classVMAP_1_1ModelSpawn.html#ae8623dcb78a2af4c9aebd60f67649f34":[5,0,28,16,3]
+"da/d91/classVMAP_1_1ModelSpawn.html#ae8623dcb78a2af4c9aebd60f67649f34":[6,0,9,16,3]
 };

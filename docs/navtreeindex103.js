@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d8e/structnpc__demonic__vapor__trail.html":[6,0,1745],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a21e2223f58156da2fbe1803554623ecd":[6,0,1745,3],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d":[6,0,1745,1],
 "d3/d8e/structnpc__demonic__vapor__trail.html#a5bd024ea050372e982a183da59b45904":[6,0,1745,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d9a/classspell__dk__corpse__explosion.html#a9e67ea51300569a0e163cb3e427b086e":[6,0,2761,6],
 "d3/d9a/classspell__hadronox__leech__poison__aura.html":[6,0,3067],
 "d3/d9a/classspell__hadronox__leech__poison__aura.html#a34b88963dd81e6a8855daaedb9c238d4":[6,0,3067,1],
-"d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6":[6,0,3067,0],
-"d3/d9a/classspell__hadronox__leech__poison__aura.html#a7690603bd7b01ca6da2a73ac8ed36114":[6,0,3067,3]
+"d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6":[6,0,3067,0]
 };

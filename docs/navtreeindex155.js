@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc7/structSpellEntry.html#a2a1761914824472cbc7eb55293d1ff46":[6,0,4093,42],
 "d5/dc7/structSpellEntry.html#a2a76a4db284742bee6b7293fb291c18d":[6,0,4093,40],
 "d5/dc7/structSpellEntry.html#a2e383e622cc9856cff49dfd9319297ba":[6,0,4093,24],
 "d5/dc7/structSpellEntry.html#a33db9e9f7aa3a65e22dc9ae4e905af7d":[6,0,4093,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dce/outland__script__loader_8cpp.html#accf317168271361913093466ba7f8f0e":[7,0,0,0,1,3,7,8,84],
 "d5/dce/outland__script__loader_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[7,0,0,0,1,3,7,8,60],
 "d5/dce/outland__script__loader_8cpp.html#acec84fbe8af840c8c469310441c65025":[7,0,0,0,1,3,7,8,10],
-"d5/dce/outland__script__loader_8cpp.html#ad5a5411f82e58d3f11f4c053776e0c04":[7,0,0,0,1,3,7,8,41],
-"d5/dce/outland__script__loader_8cpp.html#ad8948ff8ccd6c3cee367ad7227308846":[7,0,0,0,1,3,7,8,86]
+"d5/dce/outland__script__loader_8cpp.html#ad5a5411f82e58d3f11f4c053776e0c04":[7,0,0,0,1,3,7,8,41]
 };

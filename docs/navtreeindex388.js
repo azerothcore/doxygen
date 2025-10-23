@@ -1,5 +1,6 @@
 var NAVTREEINDEX388 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,28,22,2],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[6,0,9,22,19],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac1aa74427870cd65aaf41da8af215d4a":[5,0,28,22,19],
 "df/d56/classVMAP_1_1VMapMgr2.html#ac298aeb50ad8c1215b639f7d1dd8fc05":[6,0,9,22,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX388 =
 "df/d6a/firework__show__Teldrassil_8h.html#a8999f3fc85a14b073f5037adea6f7496":[7,0,0,0,1,3,3,0,9,2],
 "df/d6a/firework__show__Teldrassil_8h.html#ade54ff9545ac94f914ea82994571e3a0":[7,0,0,0,1,3,3,0,9,0],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html":[6,0,1781,0],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1781,0,0],
-"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a08a3005db6d192663a835b9ee192352b":[6,0,1781,0,4]
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a075481689af110f8c20cd5ca13258ba3":[6,0,1781,0,0]
 };

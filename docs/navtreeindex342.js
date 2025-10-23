@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"dd/df9/classnpc__ulduar__expedition__engineer.html#a1ff99e62b9c2222d8c08e71bfda600ea":[6,0,2227,1],
 "dd/df9/classnpc__ulduar__expedition__engineer.html#a6f1beaab42e42981e152db920e516616":[6,0,2227,2],
 "dd/df9/classspell__kaelthas__summon__nether__vapor.html":[6,0,3348],
 "dd/df9/classspell__kaelthas__summon__nether__vapor.html#a724e857ad8604ef4546c8823bb7bd632":[6,0,3348,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "de/d03/Channel_8h.html#ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918":[7,0,0,0,1,2,11,0,1,8,2],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048":[7,0,0,0,1,2,11,0,1,7],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c":[7,0,0,0,1,2,11,0,1,7,2],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112":[7,0,0,0,1,2,11,0,1,7,16],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a":[7,0,0,0,1,2,11,0,1,7,26]
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112":[7,0,0,0,1,2,11,0,1,7,16]
 };

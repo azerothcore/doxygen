@@ -1,5 +1,6 @@
 var NAVTREEINDEX180 =
 {
+"d6/dc7/classCreatureGroup.html#afca7fafddd0f361507469f875bf5d17c":[6,0,925,3],
 "d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333":[6,0,925,19],
 "d6/dc7/classPacketHandler_3_01WorldPacket_00_01HandlerFunction_01_4.html":[6,0,2375],
 "d6/dc7/classPacketHandler_3_01WorldPacket_00_01HandlerFunction_01_4.html#a42ac77b81d5280c7f1c54991649ab501":[6,0,2375,1],
@@ -152,8 +153,8 @@ var NAVTREEINDEX180 =
 "d6/dcc/classspell__warr__intimidating__shout.html#ad7478a1a70ebc52eda1c57dd4f143b67":[6,0,4026,1],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[5,0,31,23],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html":[6,0,11,23],
-"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[5,0,31,23,0],
 "d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[6,0,11,23,0],
+"d6/dcd/classWorldPackets_1_1PacketArrayMaxCapacityException.html#ad71e0267bc6c9e5d182954eaa174c40e":[5,0,31,23,0],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html":[6,0,2618],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html#a438a8ba3688e0832853bae4183695494":[6,0,2618,2],
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html#a52a86cce0afa66203cc5982ddbe5de4f":[6,0,2618,3],
@@ -162,16 +163,16 @@ var NAVTREEINDEX180 =
 "d6/dcd/classspell__arcatraz__soul__steal__aura.html#ad75c8c6279e606d6a557a61d97ee8f42":[6,0,2618,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,31,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[6,0,11,6,28],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,11,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,31,6,28,2],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,11,6,28,0],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,11,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,31,6,28,0],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,11,6,28,3],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,11,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,31,6,28,3],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,11,6,28,4],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,11,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,31,6,28,4],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,31,6,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,11,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[6,0,11,6,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,31,6,28,1],
 "d6/dce/classspell__hun__lock__and__load.html":[6,0,3132],
 "d6/dce/classspell__hun__lock__and__load.html#a00f06f18b6874302f88c3af193d8e4ed":[6,0,3132,1],
 "d6/dce/classspell__hun__lock__and__load.html#a02590da9b97a4d6bc7a6cbd0e670480f":[6,0,3132,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX180 =
 "d6/dd4/classspell__hun__tame__beast.html#ad6867dad8bda358bd1479935c80b82e7":[6,0,3141,1],
 "d6/dd4/classspell__ice__spear__target__picker.html":[6,0,3163],
 "d6/dd4/classspell__ice__spear__target__picker.html#a0a29926e43bd5ff58ca7ad79df6f8cc1":[6,0,3163,4],
-"d6/dd4/classspell__ice__spear__target__picker.html#a1650962493d48f5553a9e2771e594f1f":[6,0,3163,3],
-"d6/dd4/classspell__ice__spear__target__picker.html#a8687ba9c22299e62e5911a3729fa4a0a":[6,0,3163,0]
+"d6/dd4/classspell__ice__spear__target__picker.html#a1650962493d48f5553a9e2771e594f1f":[6,0,3163,3]
 };

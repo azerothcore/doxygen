@@ -1,5 +1,6 @@
 var NAVTREEINDEX254 =
 {
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[6,0,11,6,33],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[5,0,31,6,33,3],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a2e8a4768292d3566bb61009056a8a230":[6,0,11,6,33,3],
 "da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html#a74d4e1690c07a647c97ca2225e8488dd":[5,0,31,6,33,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX254 =
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca635ffde766d84b327abaae46cd9ec574":[7,0,0,0,1,3,4,9,1,14,8],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca6eeab981f524a79b02d2511d228297b1":[7,0,0,0,1,3,4,9,1,14,13],
 "da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca7298f46e8bba14f602fe05eaf9287e91":[7,0,0,0,1,3,4,9,1,14,1],
-"da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca82c804f166ad650de8492743faffa1b0":[7,0,0,0,1,3,4,9,1,14,9],
-"da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca8b97edb0c4beeee35801924697a04cb6":[7,0,0,0,1,3,4,9,1,14,14]
+"da/d47/boss__cthun_8cpp.html#a5bd342133be8c2137b831460acc9298ca82c804f166ad650de8492743faffa1b0":[7,0,0,0,1,3,4,9,1,14,9]
 };

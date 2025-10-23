@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab60deaa76fed2e9ceae02ee00562473d":[7,0,0,0,1,2,48,7,0,234],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab6abf6c1bf213f520c837e0b501faad7":[7,0,0,0,1,2,48,7,0,103],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab6e77a0e4919ff64649247bfedcab145":[7,0,0,0,1,2,48,7,0,104],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bab7ec9ef8be8be0130547bbe88b9eeee8":[7,0,0,0,1,2,48,7,0,478],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#a3def0a0dd57ed732242a09d6390ab1f0":[6,0,1741,0,2],
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#aa3c6822db09bc40dc87d556f6b3cc880":[6,0,1741,0,0],
 "d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#ae4789c26cbb00b4ac04d646617a48a40":[6,0,1741,0,1],
-"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#af200e269d3f4b51bb5cfd08e9bf7ecc5":[6,0,1741,0,3],
-"d3/d4b/structnpc__violet__hold__defense__system.html":[6,0,2274]
+"d3/d4b/structnpc__deathstalker__erland_1_1npc__deathstalker__erlandAI.html#af200e269d3f4b51bb5cfd08e9bf7ecc5":[6,0,1741,0,3]
 };

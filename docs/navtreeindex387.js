@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#a7021d13dceb9af343f0e820cf086046e":[6,0,482,0,3],
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#a972bd7d390d444e0ea2bc513d5d3816a":[6,0,482,0,1],
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#ae421aa209690e4a2908995b6b7d322cd":[6,0,482,0,0],
 "df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#afb06c217c1012d6463e44689359eada9":[6,0,482,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ab441e5fb8260bc466ff01ba1d68f9a5a":[5,0,28,22,16],
 "df/d56/classVMAP_1_1VMapMgr2.html#ab7d19479a52a1e829f4e0c93b4222f60":[6,0,9,22,14],
 "df/d56/classVMAP_1_1VMapMgr2.html#ab7d19479a52a1e829f4e0c93b4222f60":[5,0,28,22,14],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,9,22,2],
-"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[5,0,28,22,2]
+"df/d56/classVMAP_1_1VMapMgr2.html#ac16d324a4ab5f27b18fe5f992f5288cd":[6,0,9,22,2]
 };

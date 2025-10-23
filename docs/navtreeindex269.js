@@ -1,5 +1,6 @@
 var NAVTREEINDEX269 =
 {
+"da/dc1/classspell__karazhan__overload__aura.html#a9a5f11a3024a14911b478cdf59a7abb9":[6,0,3358,3],
 "da/dc1/classspell__karazhan__overload__aura.html#ab75f10a475a4302897cbb90a3adb5b03":[6,0,3358,1],
 "da/dc2/WorldScript_8cpp.html":[7,0,0,0,1,2,38,0,94],
 "da/dc2/WorldScript_8cpp.html#a4b01e55b7bd36b85062bfc12bfef108f":[7,0,0,0,1,2,38,0,94,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX269 =
 "da/ddc/classSmartAI.html#a1bf5b14038fae82f76fc0012007d4b26":[6,0,2568,81],
 "da/ddc/classSmartAI.html#a20acef24c5cf90445dec51e347e8a49b":[6,0,2568,83],
 "da/ddc/classSmartAI.html#a2115f2efdaecabd032c37338cecec36b":[6,0,2568,5],
-"da/ddc/classSmartAI.html#a21b4ba63a0e9908284558eced9da47df":[6,0,2568,92],
-"da/ddc/classSmartAI.html#a2761cba8d20d409c23080f7a0579688c":[6,0,2568,40]
+"da/ddc/classSmartAI.html#a21b4ba63a0e9908284558eced9da47df":[6,0,2568,92]
 };

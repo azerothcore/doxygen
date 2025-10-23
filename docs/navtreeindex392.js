@@ -1,5 +1,6 @@
 var NAVTREEINDEX392 =
 {
+"df/d8e/classMMAP_1_1MMapMgr.html":[5,0,20,8],
 "df/d8e/classMMAP_1_1MMapMgr.html":[6,0,6,8],
 "df/d8e/classMMAP_1_1MMapMgr.html#a09b83a0d5246838d42a49c5103957480":[5,0,20,8,1],
 "df/d8e/classMMAP_1_1MMapMgr.html#a09b83a0d5246838d42a49c5103957480":[6,0,6,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX392 =
 "df/d99/structnpc__dark__iron__attack__generator.html#aef208e008b00af62710c8479bf7b6618":[6,0,1732,0],
 "df/d99/structnpc__dark__iron__attack__generator.html#aefe0e7e40ca5aad089aa27c5151e01fa":[6,0,1732,4],
 "df/d9a/OutdoorPvPNA_8h.html":[7,0,0,0,1,3,6,8],
-"df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf":[7,0,0,0,1,3,6,8,18],
-"df/d9a/OutdoorPvPNA_8h.html#a23eddcc072a261674acb3acb48f637cb":[7,0,0,0,1,3,6,8,21]
+"df/d9a/OutdoorPvPNA_8h.html#a0f69597d7fce786cae5202cb06be06cf":[7,0,0,0,1,3,6,8,18]
 };

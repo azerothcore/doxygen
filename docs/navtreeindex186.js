@@ -1,5 +1,6 @@
 var NAVTREEINDEX186 =
 {
+"d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4ba3ccf1c0c116ac325b0b2c98066ae3ed5":[7,0,0,0,1,3,5,25,22,2],
 "d7/d1f/zone__zuldrak_8cpp.html#a740acdf4b4d0937eef3e062d66b9de4baf3164c424edbb9f3ac7d0fc0c097c7cf":[7,0,0,0,1,3,5,25,22,1],
 "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639":[7,0,0,0,1,3,5,25,17],
 "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639a0c41667591b38b074a96c3f2638f8efc":[7,0,0,0,1,3,5,25,17,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a":[7,0,0,0,1,3,2,1,0,1,4,35],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22af35cb36a55922c0c6a4fba89d556aa74":[7,0,0,0,1,3,2,1,0,1,4,23],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[7,0,0,0,1,3,2,1,0,1,4,14],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,11,6,47],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,31,6,47]
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,11,6,47]
 };

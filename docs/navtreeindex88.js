@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223":[7,0,0,0,1,2,38,0,85,1,10],
 "d2/df5/boss__rokmar__the__crackler_8cpp.html":[7,0,0,0,1,3,7,2,1,3],
 "d2/df5/boss__rokmar__the__crackler_8cpp.html#a2e64c8cab830bad8cdfdffdb7d52ad81":[7,0,0,0,1,3,7,2,1,3,2],
 "d2/df5/boss__rokmar__the__crackler_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,1,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d2/dfa/classspell__utgarde__pinnacle__beast__mark.html":[6,0,3948],
 "d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a3e7479f97e4105f2c12536d9c66284aa":[6,0,3948,3],
 "d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5c8464dcf2f8b62a624f38dec2f4a0a5":[6,0,3948,2],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5d8e764dafd26548af8588593bf27990":[6,0,3948,4],
-"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a966d23cc5714fe35d80b2964dddda536":[6,0,3948,1]
+"d2/dfa/classspell__utgarde__pinnacle__beast__mark.html#a5d8e764dafd26548af8588593bf27990":[6,0,3948,4]
 };

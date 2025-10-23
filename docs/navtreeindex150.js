@@ -1,5 +1,6 @@
 var NAVTREEINDEX150 =
 {
+"d5/d8f/structSpiritInfoStruct.html":[6,0,4125],
 "d5/d8f/structSpiritInfoStruct.html#ab60283e91e81c141f3b31218aa4442a3":[6,0,4125,1],
 "d5/d8f/structSpiritInfoStruct.html#ad7431eb64907aed0a03205a37c65a735":[6,0,4125,0],
 "d5/d90/GuildMgr_8h.html":[7,0,0,0,1,2,21,3],
@@ -96,12 +97,12 @@ var NAVTREEINDEX150 =
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#a8decfdc365b823f8f147ee9bfa3613b0":[5,0,28,5,0],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ab9e9650c5ebf5a81b92cff27dd23a25a":[5,0,28,5,4],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ab9e9650c5ebf5a81b92cff27dd23a25a":[6,0,9,5,4],
-"d5/d98/structVMAP_1_1GroupModel__Raw.html#ac379f459d0fff6b1848dc52bd21ef393":[6,0,9,5,6],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ac379f459d0fff6b1848dc52bd21ef393":[5,0,28,5,6],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#ac379f459d0fff6b1848dc52bd21ef393":[6,0,9,5,6],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ac801d04ca4c643d2b8eba5199a8d0fac":[6,0,9,5,5],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ac801d04ca4c643d2b8eba5199a8d0fac":[5,0,28,5,5],
-"d5/d98/structVMAP_1_1GroupModel__Raw.html#ad3bcd782124868cd1df0efea2b500ba5":[5,0,28,5,2],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ad3bcd782124868cd1df0efea2b500ba5":[6,0,9,5,2],
+"d5/d98/structVMAP_1_1GroupModel__Raw.html#ad3bcd782124868cd1df0efea2b500ba5":[5,0,28,5,2],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ad73c215408218900973df4dbdd8fcd18":[5,0,28,5,9],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#ad73c215408218900973df4dbdd8fcd18":[6,0,9,5,9],
 "d5/d98/structVMAP_1_1GroupModel__Raw.html#af692734697f525672027f251addebe6d":[5,0,28,5,8],
@@ -134,14 +135,14 @@ var NAVTREEINDEX150 =
 "d5/d9a/classTargetedMovementGeneratorBase.html#a427d8512cbd0ccbaca65dcf48bbe39f6":[6,0,4154,2],
 "d5/d9a/classTargetedMovementGeneratorBase.html#a670b36c578b32b7d582e8f4b6ef656c3":[6,0,4154,0],
 "d5/d9a/classTargetedMovementGeneratorBase.html#adb0a6f1a63ce265fc63bf362e2f60488":[6,0,4154,1],
-"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[6,0,11,6,51],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[5,0,31,6,51],
+"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html":[6,0,11,6,51],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[6,0,11,6,51,1],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a0396a58ca114706f7de91f51c5ab949d":[5,0,31,6,51,1],
-"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[6,0,11,6,51,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[5,0,31,6,51,0],
-"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#ad221eecdb16233251306fff3d9801f38":[5,0,31,6,51,2],
+"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#a34b129b3c9fef61aa4211a9bc2783aef":[6,0,11,6,51,0],
 "d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#ad221eecdb16233251306fff3d9801f38":[6,0,11,6,51,2],
+"d5/d9b/classWorldPackets_1_1Guild_1_1QueryGuildInfo.html#ad221eecdb16233251306fff3d9801f38":[5,0,31,6,51,2],
 "d5/d9b/cs__item_8cpp.html":[7,0,0,0,1,3,0,23],
 "d5/d9b/cs__item_8cpp.html#ad129450eb89b9c3e5c98717b2c44de8e":[7,0,0,0,1,3,0,23,1],
 "d5/d9c/violet__hold_8cpp.html":[7,0,0,0,1,3,5,12,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX150 =
 "d5/d9e/halls__of__stone_8h.html#a90ca774f1a8c2c9c0ebb79f5980868b9a642e6ade65a788c0c44aa9ff6c002c7c":[7,0,0,0,1,3,5,9,1,4,3,11],
 "d5/d9e/halls__of__stone_8h.html#a90ca774f1a8c2c9c0ebb79f5980868b9a72eaa669813855239b4b45d21f67d3f2":[7,0,0,0,1,3,5,9,1,4,3,0],
 "d5/d9e/halls__of__stone_8h.html#a90ca774f1a8c2c9c0ebb79f5980868b9a817f5cd077aa5003e59272fd5d781cc8":[7,0,0,0,1,3,5,9,1,4,3,1],
-"d5/d9e/halls__of__stone_8h.html#a90ca774f1a8c2c9c0ebb79f5980868b9a9f8ac76bebd7ea6680fdfba71cddbc84":[7,0,0,0,1,3,5,9,1,4,3,7],
-"d5/d9e/halls__of__stone_8h.html#a90ca774f1a8c2c9c0ebb79f5980868b9aca39bd4893330b2875c9ff0f47fbd0d5":[7,0,0,0,1,3,5,9,1,4,3,3]
+"d5/d9e/halls__of__stone_8h.html#a90ca774f1a8c2c9c0ebb79f5980868b9a9f8ac76bebd7ea6680fdfba71cddbc84":[7,0,0,0,1,3,5,9,1,4,3,7]
 };

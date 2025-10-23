@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"da/d5a/boss__skarvald__dalronn_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,10,0,2,2,2],
 "da/d5a/boss__skarvald__dalronn_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a648ccf5b87a17b1af65253ab61b8c477":[7,0,0,0,1,3,5,10,0,2,2,5],
 "da/d5a/boss__skarvald__dalronn_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a6ffa34462be7147d69a23af56264a38b":[7,0,0,0,1,3,5,10,0,2,2,7],
 "da/d5a/boss__skarvald__dalronn_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a8de5a475e0b884486fdef88393ff7abb":[7,0,0,0,1,3,5,10,0,2,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/d67/structAuctionSearchUpdateBid.html#ad7ecaf272e5cc8fe61e0b448d05b6d27":[6,0,277,0],
 "da/d68/classgo__scourge__cage.html":[6,0,1176],
 "da/d68/classgo__scourge__cage.html#a76dfa458a52c950fbc0a86412e1ad490":[6,0,1176,0],
-"da/d68/classgo__scourge__cage.html#ab4e97cd290342d623d212cc7cec227d5":[6,0,1176,1],
-"da/d68/classnpc__thrall__warchief.html":[6,0,2180]
+"da/d68/classgo__scourge__cage.html#ab4e97cd290342d623d212cc7cec227d5":[6,0,1176,1]
 };

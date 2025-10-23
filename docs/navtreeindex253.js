@@ -1,5 +1,6 @@
 var NAVTREEINDEX253 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a84041d7a6bbec31689ec88a7bf197780":[7,0,0,0,1,2,41,0,0,6,146],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a84ac7a2a09424de06d24664922275bee":[7,0,0,0,1,2,41,0,0,6,232],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a88ddeddc39c960bdd00805a1ea8a8fc8":[7,0,0,0,1,2,41,0,0,6,140],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a89898fa75b35ddb26e6c27ed6c7d80ee":[7,0,0,0,1,2,41,0,0,6,299],
@@ -248,6 +249,5 @@ var NAVTREEINDEX253 =
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#aeb11687534fa7c1e76ea22cc07deb73d":[6,0,1877,0,3],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#af1726169fe63eb3ff1ed95eb0e10d2f0":[6,0,1877,0,4],
 "da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html#afdb4215cd0578de7342b152783666ed6":[6,0,1877,0,2],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,31,6,33],
-"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[6,0,11,6,33]
+"da/d34/structWorldPackets_1_1Guild_1_1GuildInfo.html":[5,0,31,6,33]
 };

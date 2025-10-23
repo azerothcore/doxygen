@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d82/boss__nightbane_8cpp.html":[7,0,0,0,1,3,2,4,6],
 "d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,4,6,8],
 "d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1a2e6f161d5c5e8a6594b8ffb9160c4e28":[7,0,0,0,1,3,2,4,6,8,2],
 "d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,2,4,6,8,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d91/namespaceAcore_1_1XP.html":[5,0,1,17],
 "d8/d91/namespaceAcore_1_1XP.html#a304088bebc0743c764589112d2ba3b7f":[5,0,1,17,5],
 "d8/d91/namespaceAcore_1_1XP.html#a4152e9ef9972f6a20cbc990dce953c36":[5,0,1,17,4],
-"d8/d91/namespaceAcore_1_1XP.html#a812c722ab7eb34807d8cad9659d34245":[5,0,1,17,2],
-"d8/d91/namespaceAcore_1_1XP.html#a9c310a4423fd5ada14fac549e4b1a6fd":[5,0,1,17,3]
+"d8/d91/namespaceAcore_1_1XP.html#a812c722ab7eb34807d8cad9659d34245":[5,0,1,17,2]
 };

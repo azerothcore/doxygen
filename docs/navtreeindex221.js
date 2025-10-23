@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d8/d91/namespaceAcore_1_1XP.html#a9c310a4423fd5ada14fac549e4b1a6fd":[5,0,1,17,3],
 "d8/d91/namespaceAcore_1_1XP.html#ab923dd9a0df7d75127965b40539d4a10":[5,0,1,17,1],
 "d8/d91/namespaceAcore_1_1XP.html#ada8e56c81ab672d85f2ff274d109e477":[5,0,1,17,0],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,1,8,0,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d9c/classResetEncounterEvent.html":[6,0,2502],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2502,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2502,0],
-"d8/d9c/classResetEncounterEvent.html#abb37778222749b27791baa329e268c32":[6,0,2502,2],
-"d8/d9c/classResetEncounterEvent.html#ad4c57e519201e15e23e0f56f4fbe70cb":[6,0,2502,4]
+"d8/d9c/classResetEncounterEvent.html#abb37778222749b27791baa329e268c32":[6,0,2502,2]
 };

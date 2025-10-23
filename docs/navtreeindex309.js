@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/d4c/classOutdoorPvPZM.html#a27239875476bbce8ff18b30cdfe6815b":[6,0,2367,9],
 "dc/d4c/classOutdoorPvPZM.html#a58320dcfca7519ab2a7160bb1f875a9b":[6,0,2367,2],
 "dc/d4c/classOutdoorPvPZM.html#a6cd61b99305a2838261e36652fda42b1":[6,0,2367,4],
 "dc/d4c/classOutdoorPvPZM.html#a7e71d2c2480da1a2d155981999201b99":[6,0,2367,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html":[6,0,2284,0],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a08ef419fbef2ec38b7bcd408f135cd29":[6,0,2284,0,15],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a0927116dcc55a1107dce7c65d1295e2a":[6,0,2284,0,8],
-"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a0c7f207666da8ad74ff9dc64b582a042":[6,0,2284,0,11],
-"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a0cf76693b1af179c9857abdccc6931ee":[6,0,2284,0,2]
+"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a0c7f207666da8ad74ff9dc64b582a042":[6,0,2284,0,11]
 };

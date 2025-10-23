@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,12],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,2,12,6,8,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,12,6,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/def/structboss__mechano__lord__capacitus.html#a9a0b2cac08002db63162f95b9476c251":[6,0,616,3],
 "dc/def/structboss__mechano__lord__capacitus.html#ab5867184d4e50a89a1afe25eb40e6bc3":[6,0,616,0],
 "dc/df0/DBUpdater_8h.html":[7,0,0,0,1,1,3,1],
-"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010":[7,0,0,0,1,1,3,1,3],
-"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c":[7,0,0,0,1,1,3,1,3,1]
+"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010":[7,0,0,0,1,1,3,1,3]
 };

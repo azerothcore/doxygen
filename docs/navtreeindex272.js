@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a0e50bbe28bfbf438f305b68cb886f62a":[7,0,0,0,1,3,5,2,1,7,5,9],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a1072e6fe5657727e178ee0ae274d289b":[7,0,0,0,1,3,5,2,1,7,5,48],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a10f8ef2881a32a48fa89fd9f59acd209":[7,0,0,0,1,3,5,2,1,7,5,4],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a1131f60f4bc1c4e2db607bbc1ec83865":[7,0,0,0,1,3,5,2,1,7,5,57],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "da/df1/classMetric.html#ae311ec37fcee62549ea1bc95462deb12":[6,0,1504,16],
 "da/df1/classMetric.html#ae53d7439e7b057177d9a1034e957d097":[6,0,1504,10],
 "da/df1/classMetric.html#ae8672bad01631983ee33c967d20426e8":[6,0,1504,41],
-"da/df1/classMetric.html#aedac5a2cafadfd12328cb2c6ae8e3d3c":[6,0,1504,38],
-"da/df1/classMetric.html#aff2c5e8ffb475ad21f0aa65628ff570c":[6,0,1504,24]
+"da/df1/classMetric.html#aedac5a2cafadfd12328cb2c6ae8e3d3c":[6,0,1504,38]
 };

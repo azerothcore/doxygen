@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[6,0,2678,5],
 "db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,4057],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,4057,2],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,4057,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d27/ObjectPosSelector_8cpp.html":[7,0,0,0,1,2,16,5,6],
 "db/d29/structBattlegroundEYPointIconsStruct.html":[6,0,324],
 "db/d29/structBattlegroundEYPointIconsStruct.html#a1118c998cf9a319f9c81c100d23c25d3":[6,0,324,3],
-"db/d29/structBattlegroundEYPointIconsStruct.html#a322379024d155d293d1c0083c510d232":[6,0,324,0],
-"db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[6,0,324,1]
+"db/d29/structBattlegroundEYPointIconsStruct.html#a322379024d155d293d1c0083c510d232":[6,0,324,0]
 };

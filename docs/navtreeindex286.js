@@ -1,5 +1,6 @@
 var NAVTREEINDEX286 =
 {
+"db/d8b/ItemTemplate_8h.html#af9a04132f15d6bfe2428d09510003244":[7,0,0,0,1,2,16,4,6,23],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html":[7,0,0,0,1,3,7,5,3,2],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,5,3,2,6],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,3,2,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX286 =
 "db/d95/boss__halycon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,3,2],
 "db/d95/boss__halycon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d":[7,0,0,0,1,3,2,1,1,3,2,0],
 "db/d95/boss__halycon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebaaa45e8931cb1260ee80ba87bd2f0d":[7,0,0,0,1,3,2,1,1,3,2,1],
-"db/d95/classspell__q12823__remove__collapsing__cave__aura.html":[6,0,3693],
-"db/d95/classspell__q12823__remove__collapsing__cave__aura.html#a0d8925effced854471e2fbec9c631b91":[6,0,3693,2]
+"db/d95/classspell__q12823__remove__collapsing__cave__aura.html":[6,0,3693]
 };

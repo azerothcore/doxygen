@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a8887ecc2d5eae177dbc7adbd087b9c7e":[6,0,660,0,0],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a9dd90a58ca89477b9d18e3931edfec45":[6,0,660,0,17],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aa198916309f31e243afc879c289269f8":[6,0,660,0,21],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aabe7cd8c61d97e1b3ea5a5736245aba0":[6,0,660,0,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95":[7,0,0,0,1,2,10,1,11,2],
 "dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2":[7,0,0,0,1,2,10,1,11,1],
 "dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f":[7,0,0,0,1,2,10,1,11,3],
-"dc/d1a/CalendarMgr_8h.html#aea0466a27af69ea188d66b721b49a3d6":[7,0,0,0,1,2,10,1,5],
-"dc/d1a/CalendarMgr_8h.html#af35b9a127e069a3aed4acad11a7cc5a6":[7,0,0,0,1,2,10,1,4]
+"dc/d1a/CalendarMgr_8h.html#aea0466a27af69ea188d66b721b49a3d6":[7,0,0,0,1,2,10,1,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca2febcb95eb1ab18f211a5dce322dc346":[7,0,0,0,1,3,4,9,4,4,4],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca36d9aae5b731922e850638486eb37c1c":[7,0,0,0,1,3,4,9,4,4,13],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[7,0,0,0,1,3,4,9,4,4,11],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca4834c11a8fa3e92c3ff9559febe14c30":[7,0,0,0,1,3,4,9,4,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "df/d44/structBattlegroundData.html#aa48f3a9d4a51e357055a0bc60ca41d7c":[6,0,319,0],
 "df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html":[6,0,819],
 "df/d44/structBoundsTrait_3_01VMAP_1_1GroupModel_01_4.html#a01ceb11072dfedbd099c2461f817c895":[6,0,819,0],
-"df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html":[6,0,482,0],
-"df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html#a7021d13dceb9af343f0e820cf086046e":[6,0,482,0,3]
+"df/d47/structboss__freya__lifebinder_1_1boss__freya__lifebinderAI.html":[6,0,482,0]
 };

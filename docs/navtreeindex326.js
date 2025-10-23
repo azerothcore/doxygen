@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#aabb179f16f6a61d1cfc842482880ea0b":[6,0,1337,0,0],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#abdc105e9306d9abc776259be97e2488f":[6,0,1337,0,5],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#acfc196d008166d7b9da9b85c1ef4521e":[6,0,1337,0,9],
 "dd/d36/structinstance__shadowfang__keep_1_1instance__shadowfang__keep__InstanceMapScript.html#ad420b6b549b8d76a80844d81548b1143":[6,0,1337,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d3c/classspell__rog__vanish.html#a1f5983124756eca5666ca6adbe5a4544":[6,0,3757,2],
 "dd/d3c/classspell__rog__vanish.html#a6117d7b2720f719d801b5f6e0e719f5f":[6,0,3757,1],
 "dd/d3c/classspell__rog__vanish.html#ab33c9312c9ac4096140a82f381d83235":[6,0,3757,0],
-"dd/d3d/classnpc__living__mojo.html":[6,0,1931],
-"dd/d3d/classnpc__living__mojo.html#a2b8ca6e1b26debfafd74e022825c889e":[6,0,1931,2]
+"dd/d3d/classnpc__living__mojo.html":[6,0,1931]
 };

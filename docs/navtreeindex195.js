@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867":[6,0,2434,31],
 "d7/d95/classPoolMgr.html#affe49daff934817d20d97c62bbcb799e":[6,0,2434,7],
 "d7/d95/classnpc__vengeful__shade.html":[6,0,2265],
 "d7/d95/classnpc__vengeful__shade.html#a99c535efd94fbd5bded8fd9555bb6eaf":[6,0,2265,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a3809fe30aeb787bb2f0e058f587834bc":[6,0,821,0,12],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a4ffcbc4d1821484d13bab405687057cf":[6,0,821,0,10],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a5228e277e7dfb7fe2d40ba4b4ffd119a":[6,0,821,0,2],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a5d3080b0fcb9a968f1c258cfeb3c7d06":[6,0,821,0,11],
-"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a62b095c494b4e034f6d77023e75f0d29":[6,0,821,0,18]
+"d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a5d3080b0fcb9a968f1c258cfeb3c7d06":[6,0,821,0,11]
 };

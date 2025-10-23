@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"d2/d7e/boss__pandemonius_8cpp.html#a18d62d8f86b7d4023e10d17dce27919fab95c91022a6d40a33930792de29adea7":[7,0,0,0,1,3,7,0,1,1,2,1],
 "d2/d7e/boss__pandemonius_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,1,1,3],
 "d2/d7e/boss__pandemonius_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d7b9fecb06ff3fa25fd746043075fc9":[7,0,0,0,1,3,7,0,1,1,3,0],
 "d2/d7e/boss__pandemonius_8cpp.html#a5bd342133be8c2137b831460acc9298ca6af861bdf5e1db9d3c51b7d3ceb1b984":[7,0,0,0,1,3,7,0,1,1,3,1],
@@ -94,8 +95,8 @@ var NAVTREEINDEX68 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a8b656a464525e881944e72e9486b0eb9":[6,0,1998,0,7],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#a8ecaebfcf1c1fbe8ed263be6148ccef6":[6,0,1998,0,5],
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[6,0,1998,0,4],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[6,0,0,3,1],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
@@ -139,12 +140,12 @@ var NAVTREEINDEX68 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2105],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2105,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2105,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a25a1f2377326c7581ab855a84c0ff127":[6,0,2525,62],
 "d2/d8f/structScriptInfo.html#a2e02b1c4e8158a3738935e4072835577":[6,0,2525,7],
 "d2/d8f/structScriptInfo.html#a2ebf0c43c7b3e8530b8e821e7d22a7d3":[6,0,2525,52],
-"d2/d8f/structScriptInfo.html#a333d0c4e4ab303e5b6ab2cb8b953d7ab":[6,0,2525,68],
-"d2/d8f/structScriptInfo.html#a36ade8abc263c1398eb69758317a9109":[6,0,2525,55]
+"d2/d8f/structScriptInfo.html#a333d0c4e4ab303e5b6ab2cb8b953d7ab":[6,0,2525,68]
 };

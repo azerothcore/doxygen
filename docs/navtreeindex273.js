@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/df1/classMetric.html#aff2c5e8ffb475ad21f0aa65628ff570c":[6,0,1504,24],
 "da/df1/classgo__direbrew__mole__machine.html":[6,0,1136],
 "da/df1/classgo__direbrew__mole__machine.html#a759d291a5be227d8beae3bbc779e56f4":[6,0,1136,1],
 "da/df1/classgo__direbrew__mole__machine.html#a793e5e544664d6c2c3897161c9cccbbb":[6,0,1136,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "da/dfd/ahnkahet_8h.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811":[7,0,0,0,1,3,5,0,0,0,6,0],
 "da/dfd/ahnkahet_8h.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e":[7,0,0,0,1,3,5,0,0,0,6,2],
 "da/dfd/ahnkahet_8h.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74":[7,0,0,0,1,3,5,0,0,0,6,3],
-"da/dfd/ahnkahet_8h.html#a506431ce00265fd3122a043804560c86":[7,0,0,0,1,3,5,0,0,0,0],
-"da/dfd/ahnkahet_8h.html#a7d67882176cbe7ff747f0bb785985b00":[7,0,0,0,1,3,5,0,0,0,10]
+"da/dfd/ahnkahet_8h.html#a506431ce00265fd3122a043804560c86":[7,0,0,0,1,3,5,0,0,0,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX248 =
 {
+"d9/dfb/structboss__temporus.html#ab9f1495b18fe2c0ee33e9c238483ce0d":[6,0,722,0],
 "d9/dfb/structboss__temporus.html#abe7f18497c1c8b31693980e98b1d1859":[6,0,722,2],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html":[6,0,2670],
 "d9/dfc/classspell__blood__queen__pact__of__the__darkfallen__dmg__target.html#a2ddc1dc9c04297a80f6708e546fe5a58":[6,0,2670,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX248 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6c1a65bf4f0356e5a62c0ebc5ee2877c":[7,0,0,0,1,2,48,4,1,232],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6c3fc4d5da76d55d807969f81a5a0674":[7,0,0,0,1,2,48,4,1,252],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6c9ed49d0d09242e12f3dc0af96b8592":[7,0,0,0,1,2,48,4,1,331],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6cb441f19cba62cb30b6da7bb5b56d98":[7,0,0,0,1,2,48,4,1,177],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6ccc6f4d405b375519c6a64c5b49d747":[7,0,0,0,1,2,48,4,1,392]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6cb441f19cba62cb30b6da7bb5b56d98":[7,0,0,0,1,2,48,4,1,177]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"d8/dc6/classcheat__commandscript.html#acdf487c7a96d1757d3254e3f17e728cb":[6,0,871,3],
 "d8/dc6/classcheat__commandscript.html#ae406c5d444b10ba65b79f8ff9d949c24":[6,0,871,7],
 "d8/dc9/BattlegroundSpamProtect_8h.html":[7,0,0,0,1,2,8,17],
 "d8/dc9/BattlegroundSpamProtect_8h.html#ae37d7994736d43484a627d5de2af5fc1":[7,0,0,0,1,2,8,17,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd6/DBCfmt_8h.html#abd8f1cd0e0a32dddac788f89b2f0d558":[7,0,0,0,1,4,0,3,11],
 "d8/dd6/DBCfmt_8h.html#abf1b7677d9768bf62c6cc4ae3d687fcc":[7,0,0,0,1,4,0,3,93],
 "d8/dd6/DBCfmt_8h.html#ac022542c156c1eb7dd8247b8ba8b9a09":[7,0,0,0,1,4,0,3,105],
-"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[7,0,0,0,1,4,0,3,24],
-"d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[7,0,0,0,1,4,0,3,70]
+"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[7,0,0,0,1,4,0,3,24]
 };

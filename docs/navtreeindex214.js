@@ -1,5 +1,6 @@
 var NAVTREEINDEX214 =
 {
+"d8/d4a/classAreaTrigger__at__coilfang__waterfall.html":[6,0,168],
 "d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aa2e9a01adad7e195860bbc6c55131024":[6,0,168,0],
 "d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aea1c4b45ae855d0cda81dbad102b8104":[6,0,168,1],
 "d8/d4b/ChatTextBuilder_8cpp.html":[7,0,0,0,1,2,42,0],
@@ -220,16 +221,16 @@ var NAVTREEINDEX214 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02":[6,0,1939,0,5],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[6,0,1939,0,3],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[6,0,1939,0,6],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,64],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,76],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html":[6,0,0,64],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,64,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,76,2],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,76,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[6,0,0,64,1],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,76,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[5,0,1,76,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[6,0,0,64,3],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[5,0,1,76,0],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[6,0,0,64,0],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[5,0,1,76,0],
 "d8/d54/classspell__the__black__stalker__levitate.html":[6,0,3886],
 "d8/d54/classspell__the__black__stalker__levitate.html#a46aca18049e02d50f57579b3fdc705bd":[6,0,3886,3],
 "d8/d54/classspell__the__black__stalker__levitate.html#a7c1b4d0c8d2ad153cef62ce05fef814c":[6,0,3886,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX214 =
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5fce156ec839c4799e3585e9674636c1":[6,0,555,0,2],
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a6aff4c78989d99d49d697e9900375e28":[6,0,555,0,10],
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a6efea02e03c4d7e97c357afbc320b5bf":[6,0,555,0,5],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0":[6,0,555,0,11],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#abeddfd1bb9b5391da578f794d6c618b7":[6,0,555,0,12]
+"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0":[6,0,555,0,11]
 };

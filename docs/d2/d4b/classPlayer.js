@@ -441,6 +441,7 @@ var classPlayer =
     [ "GetRunesState", "d2/d4b/classPlayer.html#a6608e0d531ea6565e894dd6a01b482b7", null ],
     [ "getRuneWeaponGUID", "d2/d4b/classPlayer.html#a96a1839a4be96aedcaca590d2d2a4b5f", null ],
     [ "GetSaveTimer", "d2/d4b/classPlayer.html#a1843098226f063082a2f7f4296bee764", null ],
+    [ "GetSeer", "d2/d4b/classPlayer.html#af12752b64554d4ff22b194da96ff3e0c", null ],
     [ "GetSelectedPlayer", "d2/d4b/classPlayer.html#ac688fc81049bfbb3edf3a5fb270048c1", null ],
     [ "GetSelectedUnit", "d2/d4b/classPlayer.html#ac7d583e914a735322c3d47a57a0c1645", null ],
     [ "GetSemaphoreTeleportFar", "d2/d4b/classPlayer.html#affc4b060ef3294d9bcdf34623ccd5ecb", null ],

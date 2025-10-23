@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c":[7,0,0,0,1,1,3,1,3,1],
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550":[7,0,0,0,1,1,3,1,3,0],
 "dc/df0/classgo__broggok__lever.html":[6,0,1129],
 "dc/df0/classgo__broggok__lever.html#af00fe1da1cfa40dc3ece286cef45090c":[6,0,1129,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d01/classinstance__mechanar.html#ae8e9810a9bfd6b0ec256dd6a288392ed":[6,0,1318,2],
 "dd/d01/structnpc__kilrek.html":[6,0,1915],
 "dd/d01/structnpc__kilrek.html#a13b969fa86ef57f9508117a73252a36b":[6,0,1915,6],
-"dd/d01/structnpc__kilrek.html#a314ed9f73c6a9c991c7eb2690e0f7c1c":[6,0,1915,1],
-"dd/d01/structnpc__kilrek.html#a3a60a3bdb5a2876e325a26964bab21ac":[6,0,1915,2]
+"dd/d01/structnpc__kilrek.html#a314ed9f73c6a9c991c7eb2690e0f7c1c":[6,0,1915,1]
 };

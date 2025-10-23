@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/db0/classMap.html#a5ffc740bdf42784a9f035731e8940e6f":[6,0,1479,246],
 "d7/db0/classMap.html#a60889ddef0f3a883ec1542b5e43d6e46":[6,0,1479,106],
 "d7/db0/classMap.html#a60ba38c180177ab9beee3937e7d98bae":[6,0,1479,11],
 "d7/db0/classMap.html#a61e8180fb876a796c8bd5a3b91deeb49":[6,0,1479,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/db3/structboss__yoggsaron__cloud_1_1boss__yoggsaron__cloudAI.html#adffbc99bb2fff0ce2082cd9e2d3608d7":[6,0,791,0,6],
 "d7/db3/structboss__yoggsaron__cloud_1_1boss__yoggsaron__cloudAI.html#ae68d5d5f5c1edb74596761dccecb614d":[6,0,791,0,3],
 "d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html":[6,0,1583,0],
-"d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#a120931695bf3ea649289ee4f6df9a3fd":[6,0,1583,0,1],
-"d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#a36cf63109e379fa4a9e3f3426d70e50c":[6,0,1583,0,0]
+"d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#a120931695bf3ea649289ee4f6df9a3fd":[6,0,1583,0,1]
 };

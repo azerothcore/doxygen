@@ -1,5 +1,6 @@
 var NAVTREEINDEX203 =
 {
+"d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#a36cf63109e379fa4a9e3f3426d70e50c":[6,0,1583,0,0],
 "d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#aa8cc3ee1a2a4702349b39708cc172594":[6,0,1583,0,3],
 "d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#aade88413d2f2998be6dcb9d15bf85ce0":[6,0,1583,0,4],
 "d7/db3/structnpc__alexstrasza_1_1npc__alexstraszaAI.html#af93fc8e8877cc5730db7a9386ac3d815":[6,0,1583,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a7dd691971a85acdca2e1c4062b8fb40c":[7,0,0,0,1,3,5,2,1,4,12,5],
 "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,2,1,4,12,0],
 "d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805adbc8af7c9d401de85b7c4011f0534969":[7,0,0,0,1,3,5,2,1,4,12,2],
-"d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805ae8dbffe988cb73fdd98c0effd197bfcd":[7,0,0,0,1,3,5,2,1,4,12,3],
-"d7/dc0/classRASession.html":[6,0,2483]
+"d7/dc0/boss__twin__valkyr_8cpp.html#ae4d724917f8fbdcaf577d00bab19e805ae8dbffe988cb73fdd98c0effd197bfcd":[7,0,0,0,1,3,5,2,1,4,12,3]
 };

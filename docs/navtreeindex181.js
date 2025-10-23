@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd4/classspell__ice__spear__target__picker.html#a8687ba9c22299e62e5911a3729fa4a0a":[6,0,3163,0],
 "d6/dd4/classspell__ice__spear__target__picker.html#aba82de0886d03037de4564f9908b8c89":[6,0,3163,2],
 "d6/dd4/classspell__ice__spear__target__picker.html#addb3580259be74126b7de36d1b0a8a97":[6,0,3163,1],
 "d6/dd4/structboss__sacrolash.html":[6,0,681],
@@ -14,10 +15,10 @@ var NAVTREEINDEX181 =
 "d6/dd4/structboss__sacrolash.html#ae650b6019d2f9191e1b532176159804d":[6,0,681,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[6,0,11,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,31,1,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,11,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,31,1,2,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[6,0,11,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,11,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,31,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[6,0,11,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[6,0,11,1,2,0],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[5,0,31,1,2,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html":[6,0,1635,0],
@@ -75,8 +76,8 @@ var NAVTREEINDEX181 =
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#aa9b579a8a7a23b94d9a2c8c7f932ff78":[6,0,3653,0],
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#acb4144be3326bcaae9c559d8e7b9d7ec":[6,0,3653,3],
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#ae1dfa086c89a4180d42d231064d88602":[6,0,3653,1],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,11,14,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[5,0,31,14,0],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,11,14,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[6,0,11,14,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,31,14,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,11,14,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/de3/structScalingStatValuesEntry.html#aa0718862ebfeea92ad299e04c9c622c8":[6,0,2521,1],
 "d6/de3/structScalingStatValuesEntry.html#aa54c3d1add4a1b982c05138f876fd138":[6,0,2521,2],
 "d6/de3/structScalingStatValuesEntry.html#ab0fbc14e59c3a387b21d3f4a825d3b36":[6,0,2521,4],
-"d6/de3/structScalingStatValuesEntry.html#aba240e0c9f81ca7d5f17d3631410a7b3":[6,0,2521,3],
-"d6/de3/structScalingStatValuesEntry.html#ac83356dba956bfb0aa0a0fb0d976b60e":[6,0,2521,5]
+"d6/de3/structScalingStatValuesEntry.html#aba240e0c9f81ca7d5f17d3631410a7b3":[6,0,2521,3]
 };

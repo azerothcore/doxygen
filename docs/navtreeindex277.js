@@ -1,5 +1,6 @@
 var NAVTREEINDEX277 =
 {
+"db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[6,0,324,1],
 "db/d29/structBattlegroundEYPointIconsStruct.html#a82e87048f934b67821bc8ba308ed101d":[6,0,324,2],
 "db/d29/structWardenCheck.html":[6,0,4258],
 "db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[6,0,4258,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX277 =
 "db/d3d/classspell__item__mana__injector.html":[6,0,3277],
 "db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b":[6,0,3277,0],
 "db/d3d/classspell__item__mana__injector.html#a8847e05e6eeafd801fca5423d0689432":[6,0,3277,2],
-"db/d3d/classspell__item__mana__injector.html#a89847e0e9435a708c5722ff928f7033f":[6,0,3277,1],
-"db/d3d/classspell__item__mana__injector.html#ae0778ffd8cf203e22510ee91b0394303":[6,0,3277,3]
+"db/d3d/classspell__item__mana__injector.html#a89847e0e9435a708c5722ff928f7033f":[6,0,3277,1]
 };

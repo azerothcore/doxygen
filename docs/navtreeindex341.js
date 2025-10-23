@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa082c55dac60e1f7decc47914ff323ecb":[7,0,0,0,1,3,5,19,31,3],
 "dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa87dd31147530587136b5ad9170479572":[7,0,0,0,1,3,5,19,31,4],
 "dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa9612c8f571f4554fb83167760aff32b1":[7,0,0,0,1,3,5,19,31,5],
 "dd/de1/zone__grizzly__hills_8cpp.html#ae6a86a430917408e4ae1069c216df8caa9787290a639d1b44d8eb4580c17d905a":[7,0,0,0,1,3,5,19,31,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,52,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[6,0,0,40,0,0],
 "dd/df8/SRP6_8h.html":[7,0,0,0,0,3,0,4],
-"dd/df9/classnpc__ulduar__expedition__engineer.html":[6,0,2227],
-"dd/df9/classnpc__ulduar__expedition__engineer.html#a1ff99e62b9c2222d8c08e71bfda600ea":[6,0,2227,1]
+"dd/df9/classnpc__ulduar__expedition__engineer.html":[6,0,2227]
 };

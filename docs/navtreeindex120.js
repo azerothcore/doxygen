@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99ac80a67bcec8995faea329a1574b588cb":[7,0,0,0,1,3,5,4,1,3,11,18],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acda471822322dc05ef7803ad7da5afd6":[7,0,0,0,1,3,5,4,1,3,11,23],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acf15aa78dad945df7c9e69b25c950cbe":[7,0,0,0,1,3,5,4,1,3,11,55],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99acf4b6235eb1baa60cb015f34a3de77dd":[7,0,0,0,1,3,5,4,1,3,11,28],
@@ -165,8 +166,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2662],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2662,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2662,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298ca1cba263ca6501dd466d455161557df6f":[7,0,0,0,1,3,2,15,0,6,8],
 "d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298ca6315f116be8b22781fa31c3b6fd98467":[7,0,0,0,1,3,2,15,0,6,1],
 "d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d8c146f526efbf02109c74a98a68ff4":[7,0,0,0,1,3,2,15,0,6,10],
-"d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298ca89bb24a691a2e15ccf5ca40765b5186c":[7,0,0,0,1,3,2,15,0,6,7],
-"d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bb1d8143f51bd105ab0aaa6146a1fae":[7,0,0,0,1,3,2,15,0,6,0]
+"d4/d29/boss__akilzon_8cpp.html#a5bd342133be8c2137b831460acc9298ca89bb24a691a2e15ccf5ca40765b5186c":[7,0,0,0,1,3,2,15,0,6,7]
 };

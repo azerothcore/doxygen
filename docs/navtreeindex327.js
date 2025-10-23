@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d3d/classnpc__living__mojo.html#a2b8ca6e1b26debfafd74e022825c889e":[6,0,1931,2],
 "dd/d3d/classnpc__living__mojo.html#af24190023549b4ec5fa47b5959618a8a":[6,0,1931,1],
 "dd/d3d/instance__razorfen__kraul_8cpp.html":[7,0,0,0,1,3,4,7,0],
 "dd/d3d/instance__razorfen__kraul_8cpp.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0":[7,0,0,0,1,3,4,7,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d51/structGroupQueueInfo.html":[6,0,1234],
 "dd/d51/structGroupQueueInfo.html#a0261df1066e01602f475e9a08e142883":[6,0,1234,7],
 "dd/d51/structGroupQueueInfo.html#a167a97bcd0ee298dfc49cabc4193fd3e":[6,0,1234,2],
-"dd/d51/structGroupQueueInfo.html#a2303f13880bbac9faf4b1fd4fc6334d5":[6,0,1234,16],
-"dd/d51/structGroupQueueInfo.html#a2fac6fffa7bec4507fdde7632e2b4df0":[6,0,1234,13]
+"dd/d51/structGroupQueueInfo.html#a2303f13880bbac9faf4b1fd4fc6334d5":[6,0,1234,16]
 };

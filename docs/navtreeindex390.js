@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d78/classspell__dk__ghoul__thrash.html#ab64625ce305efb9dc92780c945b4fd62":[6,0,2772,3],
 "df/d78/classspell__hate__to__zero.html":[6,0,3097],
 "df/d78/classspell__hate__to__zero.html#a4998015873f0e0ca768c20b0f95fda90":[6,0,3097,3],
 "df/d78/classspell__hate__to__zero.html#a87777dce0e2bf1deba600b3ae7ce6b9c":[6,0,3097,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ac83a119b23ae87cccc7929c8c04c5d53":[7,0,0,0,1,3,5,9,2,4,40,17],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ad368067ec54a5e606d3cb580962d3d94":[7,0,0,0,1,3,5,9,2,4,40,7],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289adc26914d7abc7416416d0fae1cbf7074":[7,0,0,0,1,3,5,9,2,4,40,16],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289af37113ead37577563b27855f8327c5ce":[7,0,0,0,1,3,5,9,2,4,40,6],
-"df/d87/boss__freya_8cpp.html#a9443087cab90d2f3aa2fb29896da1642":[7,0,0,0,1,3,5,9,2,4,24]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289af37113ead37577563b27855f8327c5ce":[7,0,0,0,1,3,5,9,2,4,40,6]
 };

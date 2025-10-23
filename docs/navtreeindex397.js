@@ -1,5 +1,6 @@
 var NAVTREEINDEX397 =
 {
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ad4a352dd0c7c6f76e74f110b00ec9053":[6,0,1950,0,0],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aea2ab8bf79d6fcc3d2036d160274fab8":[6,0,1950,0,1],
 "df/dbf/classpet__commandscript.html":[6,0,2392],
 "df/dbf/classpet__commandscript.html#a01026a4936774d2225d10e0f6e27b08c":[6,0,2392,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX397 =
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[6,0,3687,2],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a902b733a4b106439c49f8c80de8e9bf3":[6,0,3687,1],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#aa297ef88b58849610b1b3bfdb0142eab":[6,0,3687,0],
-"df/dd4/structBattlegroundScore.html":[6,0,338],
-"df/dd4/structBattlegroundScore.html#a0c4048053f5f5cabe5bfbfdde8eded86":[6,0,338,18]
+"df/dd4/structBattlegroundScore.html":[6,0,338]
 };

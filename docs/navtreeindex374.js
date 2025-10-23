@@ -1,5 +1,6 @@
 var NAVTREEINDEX374 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acb073151483f1db9d6dc475d28827f8dae7264eeab940eca27553226546521f7d":[7,0,0,0,1,3,5,18,52,2],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7":[7,0,0,0,1,3,5,18,51],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a00fb6561d080dd95447dee7cc31af3ae":[7,0,0,0,1,3,5,18,51,4],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a06516d8acac42f9635bcabca9885b4de":[7,0,0,0,1,3,5,18,51,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX374 =
 "de/daf/classspell__warr__heroic__strike.html#a1742dc0c039f7f981cae8114ff9ae59a":[6,0,4021,2],
 "de/daf/classspell__warr__heroic__strike.html#a32a6f464057fbfb3bbffe0e10d1d4141":[6,0,4021,0],
 "de/daf/classspell__warr__heroic__strike.html#adfa4da76e8c2486fbcc2b3bea0f50005":[6,0,4021,1],
-"de/db0/classnpc__xerestrasza.html":[6,0,2297],
-"de/db0/classnpc__xerestrasza.html#a49023756b5dab130e4ffd7e62fa80ce4":[6,0,2297,1]
+"de/db0/classnpc__xerestrasza.html":[6,0,2297]
 };

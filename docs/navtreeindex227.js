@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6baa922408c42ba726e7d02cf86038d8":[7,0,0,0,1,3,5,6,7,35,27],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c7194afc6a3dd4c9d53c1dc2f7e9ffa":[7,0,0,0,1,3,5,6,7,35,18],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca71bd92b1f1735e76f7897e3eec49ea1b":[7,0,0,0,1,3,5,6,7,35,42],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca747c93f2cea8d2889bd57453f2cb2cbe":[7,0,0,0,1,3,5,6,7,35,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a51ed5feeba323856f831a4e8e128c5fe":[7,0,0,0,1,3,5,9,1,1,3,1],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a5b97c5198240f4c93b386eb4f4ba0212":[7,0,0,0,1,3,5,9,1,1,3,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8d4d1921d0600ec1d80db94ae28ece71":[7,0,0,0,1,3,5,9,1,1,3,4],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aae11fdab86d81638daa38e7a6d2c2378":[7,0,0,0,1,3,5,9,1,1,3,5],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ac128df2d0c92bf7377c0df59a379330c":[7,0,0,0,1,3,5,9,1,1,3,2]
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aae11fdab86d81638daa38e7a6d2c2378":[7,0,0,0,1,3,5,9,1,1,3,5]
 };

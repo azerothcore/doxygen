@@ -1,5 +1,6 @@
 var NAVTREEINDEX208 =
 {
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a4430ff1eaa752bd460f0f69bc74af7db":[7,0,0,0,1,2,16,10,6,18,4],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a6856bef881835abf4ffdab1928fd0993":[7,0,0,0,1,2,16,10,6,18,5],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae7a00847753ec69b3b36986ea7a94a7b":[7,0,0,0,1,2,16,10,6,18,0],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae886d5d056abd0ef34207cb400c54bca":[7,0,0,0,1,2,16,10,6,18,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX208 =
 "d7/df9/classnpc__suns__reach__reclamation.html":[6,0,2152],
 "d7/df9/classnpc__suns__reach__reclamation.html#a459e53b21778cf901cbbb15c9f6e5cdd":[6,0,2152,1],
 "d7/df9/classnpc__suns__reach__reclamation.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb":[6,0,2152,0],
-"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html":[6,0,2669],
-"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html#a9c92c88bf261f1da2143e7dee41a77ec":[6,0,2669,2]
+"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html":[6,0,2669]
 };

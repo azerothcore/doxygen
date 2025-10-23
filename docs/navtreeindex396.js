@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/db0/classOPvPCapturePointEP__CGT.html#a764284d6143d4879b5bc003acc52048c":[6,0,2336,7],
 "df/db0/classOPvPCapturePointEP__CGT.html#a82d8e9bff56eed1870b098dcf21f77cd":[6,0,2336,0],
 "df/db0/classOPvPCapturePointEP__CGT.html#aaf1f8440dc891ed45857bb7d15149d9a":[6,0,2336,8],
 "df/db0/classOPvPCapturePointEP__CGT.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d":[6,0,2336,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc":[6,0,1950,0,5],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a883ef3cd1b097847de148ccb9bd3e903":[6,0,1950,0,2],
 "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55":[6,0,1950,0,3],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc":[6,0,1950,0,7],
-"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ad4a352dd0c7c6f76e74f110b00ec9053":[6,0,1950,0,0]
+"df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc":[6,0,1950,0,7]
 };

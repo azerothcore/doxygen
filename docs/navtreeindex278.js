@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"db/d3d/classspell__item__mana__injector.html#ae0778ffd8cf203e22510ee91b0394303":[6,0,3277,3],
 "db/d3d/structnpc__supervisor__raelen.html":[6,0,2154],
 "db/d3d/structnpc__supervisor__raelen.html#a0b8d661a86ec334adeb502d6936135ee":[6,0,2154,1],
 "db/d3d/structnpc__supervisor__raelen.html#a1ed36b07ff83a6a8a202f4a451d90190":[6,0,2154,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a75a091e15430b20ffb19045d4f30a52c":[7,0,0,0,1,3,4,8,4,7,3],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a853f7b688e2cee45b9ef6290a9393a7d":[7,0,0,0,1,3,4,8,4,7,2],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a9852a46c953e171195a8863b0248a328":[7,0,0,0,1,3,4,8,4,7,0],
-"db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9abc33b11540726249fc549e501d963cc4":[7,0,0,0,1,3,4,8,4,7,1],
-"db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9ac7fe4a075b9a9af0d891907d2f36a97b":[7,0,0,0,1,3,4,8,4,7,7]
+"db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9abc33b11540726249fc549e501d963cc4":[7,0,0,0,1,3,4,8,4,7,1]
 };

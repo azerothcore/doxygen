@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d7/d46/classAuraEffect.html#ae5ad5d0e3406e96a0f5e5f58d2c133ce":[6,0,284,102],
 "d7/d46/classAuraEffect.html#ae72fd00fd9b6b1f1d19e8f5e3d62c6ee":[6,0,284,159],
 "d7/d46/classAuraEffect.html#ae7c56dc7da49ce169af1d32d111b2a57":[6,0,284,48],
 "d7/d46/classAuraEffect.html#aea3300db680ab47876dbc7ae45c08d18":[6,0,284,227],
@@ -160,8 +161,8 @@ var NAVTREEINDEX190 =
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1054,0],
@@ -198,12 +199,12 @@ var NAVTREEINDEX190 =
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,31,7,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,31,7,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[6,0,11,7,5,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,31,7,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[6,0,11,7,5,6],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[6,0,11,7,5,2],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,31,7,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[5,0,31,7,5,2],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[5,0,31,7,5,3],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[6,0,11,7,5,2],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[6,0,11,7,5,3],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[5,0,31,7,5,3],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[5,0,31,7,5,7],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#ac65b0fc2609531c8657c4d83cf50dbfe":[6,0,11,7,5,7],
 "d7/d52/classSpellEvent.html":[6,0,4094],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d55/structQuestPOIPoint.html#a45211fd0fbeeb5d9fced2b2c31502851":[6,0,2472,3],
 "d7/d55/structQuestPOIPoint.html#a5e9592283b28cd6ff0610ec0438b2a2d":[6,0,2472,2],
 "d7/d55/structQuestPOIPoint.html#a99aaafe1fdae391c6fba20e0c623ff99":[6,0,2472,0],
-"d7/d56/AutobroadcastMgr_8h.html":[7,0,0,0,1,2,6,1],
-"d7/d56/AutobroadcastMgr_8h.html#a28a4ef2f64643c76d8be05bf9eafc731":[7,0,0,0,1,2,6,1,2]
+"d7/d56/AutobroadcastMgr_8h.html":[7,0,0,0,1,2,6,1]
 };

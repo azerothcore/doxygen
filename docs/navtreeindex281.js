@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"db/d68/classboss__yoggsaron__lich__king.html":[6,0,801],
 "db/d68/classboss__yoggsaron__lich__king.html#a1655d608683e90ccafd350204eed2d31":[6,0,801,1],
 "db/d68/classboss__yoggsaron__lich__king.html#aa65cd9c9eafba12ae065903868ee5319":[6,0,801,2],
 "db/d68/classnpc__guardian.html":[6,0,1823],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "db/d6e/spell__item_8cpp.html#aa64ae4018028c55562a9e29a1c303e88af42bc8554e7a0248b449ccf8cf7488f6":[7,0,0,0,1,3,9,4,141,1],
 "db/d6e/spell__item_8cpp.html#aa72c6c54ede74ed2c0e43ff8b6438f56":[7,0,0,0,1,3,9,4,191],
 "db/d6e/spell__item_8cpp.html#aa72c6c54ede74ed2c0e43ff8b6438f56afb6ce53b74d16d5a0ccaf1afdf796894":[7,0,0,0,1,3,9,4,191,0],
-"db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[7,0,0,0,1,3,9,4,183],
-"db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a7d319ff15ada5f0fa35d13e5bb1f9d95":[7,0,0,0,1,3,9,4,183,3]
+"db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[7,0,0,0,1,3,9,4,183]
 };

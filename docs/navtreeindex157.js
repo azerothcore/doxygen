@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"d5/dd6/classspell__sha__fire__elemental__scaling.html#a2db04d2d4af16e34cb69b71dbcd0c066":[6,0,3795,1],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a4ecc412bb7d5e89a886c9ad4cc562187":[6,0,3795,2],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a5b35686a2ddd761343d811a8472c1c3b":[6,0,3795,5],
 "d5/dd6/classspell__sha__fire__elemental__scaling.html#a9269eee5ef676c466e662305389988f0":[6,0,3795,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "d5/de6/namespaceWorldPackets_1_1Item.html":[5,0,31,7],
 "d5/de6/structAreaBoundary_1_1DoublePosition.html":[6,0,159,0],
 "d5/de6/structAreaBoundary_1_1DoublePosition.html#a01fc3985229b6bd03e6d1da95f871c17":[6,0,159,0,6],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a19af503e9623ccaeb032bfe9f0a0ed63":[6,0,159,0,10],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a201096c85022d54b1d9dbe9264df901f":[6,0,159,0,5]
+"d5/de6/structAreaBoundary_1_1DoublePosition.html#a19af503e9623ccaeb032bfe9f0a0ed63":[6,0,159,0,10]
 };

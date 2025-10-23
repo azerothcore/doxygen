@@ -1,5 +1,6 @@
 var NAVTREEINDEX223 =
 {
+"d8/daa/classnpc__coldflame.html#a573b887358e2ba2281c4c119a267c33f":[6,0,1692,1],
 "d8/daa/classnpc__coldflame.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1":[6,0,1692,2],
 "d8/daa/classspell__infected__worgen__bite__aura.html":[6,0,3208],
 "d8/daa/classspell__infected__worgen__bite__aura.html#a3e5902a79b9d2c5cad69ad2ece8592ec":[6,0,3208,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX223 =
 "d8/dbb/UnitEvents_8h.html#aca3c8db6dd274b113d9c3c7755ff5d7a":[7,0,0,0,1,2,12,4,5],
 "d8/dbb/classboss__cyanigosa.html":[6,0,417],
 "d8/dbb/classboss__cyanigosa.html#a4db12e2fb873ad3595a437df09663a22":[6,0,417,1],
-"d8/dbb/classboss__cyanigosa.html#a779c7c3a5f0002501361fa92fe14af69":[6,0,417,2],
-"d8/dbb/structSpellSchoolImmune.html":[6,0,4115]
+"d8/dbb/classboss__cyanigosa.html#a779c7c3a5f0002501361fa92fe14af69":[6,0,417,2]
 };

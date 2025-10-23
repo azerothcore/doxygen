@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a05a7e9991011be47b25e7b801546d1ae":[6,0,422,0,3],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a11de329657e95d2306ea5e46e3bb0a62":[6,0,422,0,2],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a131b97a502d6b74f66eb84244bce30f6":[6,0,422,0,7],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a1c6e890d515f1e94b0f15201c507e1f5":[6,0,422,0,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d1f/boss__marwyn_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,4,1,1,5],
 "dd/d1f/boss__marwyn_8cpp.html#a5bd342133be8c2137b831460acc9298ca28d8c3d432ba80620c0326b6cc7dfff1":[7,0,0,0,1,3,5,4,1,1,5,3],
 "dd/d1f/boss__marwyn_8cpp.html#a5bd342133be8c2137b831460acc9298ca7027b581e72216d5ed51f9efd581219c":[7,0,0,0,1,3,5,4,1,1,5,1],
-"dd/d1f/boss__marwyn_8cpp.html#a5bd342133be8c2137b831460acc9298cab855dd0fd51c27079486a05870119531":[7,0,0,0,1,3,5,4,1,1,5,2],
-"dd/d1f/boss__marwyn_8cpp.html#a5bd342133be8c2137b831460acc9298cafcd8bc32132fb4a1f81f55d69ad7987f":[7,0,0,0,1,3,5,4,1,1,5,0]
+"dd/d1f/boss__marwyn_8cpp.html#a5bd342133be8c2137b831460acc9298cab855dd0fd51c27079486a05870119531":[7,0,0,0,1,3,5,4,1,1,5,2]
 };

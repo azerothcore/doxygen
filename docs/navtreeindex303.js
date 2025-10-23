@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"dc/d1a/CalendarMgr_8h.html#af35b9a127e069a3aed4acad11a7cc5a6":[7,0,0,0,1,2,10,1,4],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html":[6,0,3681],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a1b196f3817c16fac48392981b58c1a05":[6,0,3681,0],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a70a1f0d2666921ccbad62c1fd06fe4b6":[6,0,3681,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4135c09695d7ae5c06445525e1a39ca4":[7,0,0,0,1,3,5,9,2,9,45,9],
 "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca4ef65e0d1c5fa644312b85d3efaf207d":[7,0,0,0,1,3,5,9,2,9,45,2],
 "dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7f287479e16375c7da41d466c2e97735":[7,0,0,0,1,3,5,9,2,9,45,3],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca9528e86f7490bf848bef77fbaf59d120":[7,0,0,0,1,3,5,9,2,9,45,8],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5caa529544469fd813bc255eeec1000a7e2":[7,0,0,0,1,3,5,9,2,9,45,6]
+"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca9528e86f7490bf848bef77fbaf59d120":[7,0,0,0,1,3,5,9,2,9,45,8]
 };

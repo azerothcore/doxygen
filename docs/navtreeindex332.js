@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dd/d8d/DBCStores_8cpp.html#a0bfa073eefdc51af1ba9d23803ecb6bf":[7,0,0,0,1,2,14,0,155],
 "dd/d8d/DBCStores_8cpp.html#a0fff35395ba871f73cf11434790780d7":[7,0,0,0,1,2,14,0,66],
 "dd/d8d/DBCStores_8cpp.html#a10e6eae9259492fc3d02e034b6538583":[7,0,0,0,1,2,14,0,19],
 "dd/d8d/DBCStores_8cpp.html#a111cdde159e7a6e6fe1d69cab384258c":[7,0,0,0,1,2,14,0,144],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#acd6da351e2ad9108921e2d9c7b13e82b":[6,0,11,7,19,3],
 "dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#acd6da351e2ad9108921e2d9c7b13e82b":[5,0,31,7,19,3],
 "dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#adcd87a65cc32bc0096b650a705de9a55":[6,0,11,7,19,1],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#adcd87a65cc32bc0096b650a705de9a55":[5,0,31,7,19,1],
-"dd/d96/classDBCFile_1_1Exception.html":[6,0,957,0]
+"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#adcd87a65cc32bc0096b650a705de9a55":[5,0,31,7,19,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0":[7,0,0,0,1,3,5,9,0,3,2,5],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da4d03f31e8cd9c24f8c4d3190c2ea5c48":[7,0,0,0,1,3,5,9,0,3,2,1],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da52721b165a1d661959027f08e7e77802":[7,0,0,0,1,3,5,9,0,3,2,0],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da70309c041527816c73053b7d9b387f88":[7,0,0,0,1,3,5,9,0,3,2,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/dd1/classspell__class__call__handler.html#a76f9e5e11a6f2e25868dba567d798002":[6,0,2716,2],
 "d9/dd1/classspell__class__call__handler.html#ae1029dd58a48c099e8bbd071898f1b12":[6,0,2716,0],
 "d9/dd1/classspell__class__call__handler.html#af65d372cdbb365eff73edb8cf18734c8":[6,0,2716,5],
-"d9/dd1/classspell__q9452__cast__net.html":[6,0,3717],
-"d9/dd1/classspell__q9452__cast__net.html#a016e480d7b2267c9bf824c9cb029f134":[6,0,3717,4]
+"d9/dd1/classspell__q9452__cast__net.html":[6,0,3717]
 };

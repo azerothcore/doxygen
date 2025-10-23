@@ -1,5 +1,6 @@
 var NAVTREEINDEX231 =
 {
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[6,0,0,4,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,1,7,0,1,2],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[5,0,1,7,0,1,0],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a1f368b832f95ce4acc6ed47ad4ca2e8d":[6,0,0,4,0,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a14b221265cc38b4061c52b687274a398":[6,0,2281,0,4],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a23a8999e34142201c6ceadc64a3df6c2":[6,0,2281,0,2],
 "d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a338ad26d40d395dfc6ed7e8fedcc6d60":[6,0,2281,0,5],
-"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a41277824ae3f6bd9a099894b6dfc7537":[6,0,2281,0,1],
-"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a9a8c2afff61ad8457aab8a9c23a4b755":[6,0,2281,0,0]
+"d9/d22/structnpc__warmage__coldarra_1_1npc__warmage__coldarraAI.html#a41277824ae3f6bd9a099894b6dfc7537":[6,0,2281,0,1]
 };

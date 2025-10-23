@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a08a3005db6d192663a835b9ee192352b":[6,0,1781,0,4],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a16c9ddf6f2f858f4147a0188e0df7250":[6,0,1781,0,8],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a240e8f556176b9571bd08407276402be":[6,0,1781,0,3],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#a5c3a3237579721b94dd433841b83bb02":[6,0,1781,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2772],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2772,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2772,1],
-"df/d78/classspell__dk__ghoul__thrash.html#a857a010e6426e931ca872f66803b99b9":[6,0,2772,2],
-"df/d78/classspell__dk__ghoul__thrash.html#ab64625ce305efb9dc92780c945b4fd62":[6,0,2772,3]
+"df/d78/classspell__dk__ghoul__thrash.html#a857a010e6426e931ca872f66803b99b9":[6,0,2772,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1abfc7d54e74db92362bf3ea462b72d431":[7,0,0,0,1,3,2,6,3,9,12],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1ae890adead55474482b5031f6a3ac6b6b":[7,0,0,0,1,3,2,6,3,9,18],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af0bfd11832b7b0c618f4f777cec9a666":[7,0,0,0,1,3,2,6,3,9,22],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af1a666ea0d02fcaa052b6a4e232855f5":[7,0,0,0,1,3,2,6,3,9,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[6,0,50,0],
 "dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[6,0,50,1],
 "dc/d05/classnpc__wounded__blood__elf.html":[6,0,2295],
-"dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2295,2],
-"dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2295,1]
+"dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2295,2]
 };

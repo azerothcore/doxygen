@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d29/oculus_8h.html#a71f02d1c97d8ff7b90f1e34db5b84aff":[7,0,0,0,1,3,5,8,2,6,12],
 "df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333":[7,0,0,0,1,3,5,8,2,6,5],
 "df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a790a1438780f896b6d539d00ab593e69":[7,0,0,0,1,3,5,8,2,6,5,2],
 "df/d29/oculus_8h.html#a7c8f53f800b7c770315fbc9a043e5333a7adb52a4bf9c6c4d6d521dcefa0c2bc4":[7,0,0,0,1,3,5,8,2,6,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac6762b2873125ac73a850d2e103ec31a":[7,0,0,0,1,3,4,9,4,3,0],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,4,4],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca014db384d07b4224f6b4980ad0128484":[7,0,0,0,1,3,4,9,4,4,7],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca1530874f51416012529dbaf930613670":[7,0,0,0,1,3,4,9,4,4,8],
-"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca2febcb95eb1ab18f211a5dce322dc346":[7,0,0,0,1,3,4,9,4,4,4]
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca1530874f51416012529dbaf930613670":[7,0,0,0,1,3,4,9,4,4,8]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/dbb/structSpellSchoolImmune.html":[6,0,4115],
 "d8/dbb/structSpellSchoolImmune.html#a6cae645736c697e2c2bf51a70c230070":[6,0,4115,0],
 "d8/dbb/structSpellSchoolImmune.html#aff011cbcd136992bfe6abb4e0e4a48ac":[6,0,4115,1],
 "d8/dbb/structnpc__pet__gen__plump__turkey.html":[6,0,2026],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/dc6/classcheat__commandscript.html#a9162d89c049f14f29bc5ba257964df34":[6,0,871,9],
 "d8/dc6/classcheat__commandscript.html#ab31a1cfe2567b0f597c689f44ab9fd6d":[6,0,871,4],
 "d8/dc6/classcheat__commandscript.html#ab9bd840c9622d173e710058eeb763388":[6,0,871,8],
-"d8/dc6/classcheat__commandscript.html#ac398dbacf025830dc871bc77938d47d6":[6,0,871,6],
-"d8/dc6/classcheat__commandscript.html#acdf487c7a96d1757d3254e3f17e728cb":[6,0,871,3]
+"d8/dc6/classcheat__commandscript.html#ac398dbacf025830dc871bc77938d47d6":[6,0,871,6]
 };

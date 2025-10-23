@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d7a/classspell__karazhan__blink.html#a02b89ff0a3ea53bb2740c7deb51279c2":[6,0,3356,0],
 "d3/d7a/classspell__karazhan__blink.html#a17784359e300e9d66c0c22bc5e7b6f6c":[6,0,3356,2],
 "d3/d7a/classspell__karazhan__blink.html#a55a794dbaf76a549bd11fbe2a2432609":[6,0,3356,1],
 "d3/d7a/classspell__karazhan__blink.html#af12eb55064f7f1f1063ec0ce2863bc57":[6,0,3356,3],
@@ -121,10 +122,10 @@ var NAVTREEINDEX101 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dab5a92f2d9f64599fce12627f43deb58f":[7,0,0,0,1,3,5,2,0,5,7,37],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dabbf9f7c7509464c2779d7b6a462b1120":[7,0,0,0,1,3,5,2,0,5,7,4],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daca232e5171617a2efbf8cf2581cb4c70":[7,0,0,0,1,3,5,2,0,5,7,7],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daccdb85df2834af36b3a538708a2ce979":[7,0,0,0,1,3,5,2,0,5,7,12],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5dacd20ddca6a03b9e584f208b553363c2b":[7,0,0,0,1,3,5,2,0,5,7,5]
+"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5daccdb85df2834af36b3a538708a2ce979":[7,0,0,0,1,3,5,2,0,5,7,12]
 };

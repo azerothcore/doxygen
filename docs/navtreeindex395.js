@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/da7/classBattleground.html#a59ae47729c5694a6598ea20128583ed0":[6,0,313,90],
 "df/da7/classBattleground.html#a5a33a0e427e12bbd78b08e6986efee76":[6,0,313,147],
 "df/da7/classBattleground.html#a5b9b5c1e6b69071a781b7528c367525c":[6,0,313,151],
 "df/da7/classBattleground.html#a5e7f15b4edbc433ca648f9fec39f7523":[6,0,313,214],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/db0/classOPvPCapturePointEP__CGT.html":[6,0,2336],
 "df/db0/classOPvPCapturePointEP__CGT.html#a30d9f8701dd6a78740f7df0d2c7ceb9d":[6,0,2336,6],
 "df/db0/classOPvPCapturePointEP__CGT.html#a48cb29473f25ed9b469c7ff54acc9d88":[6,0,2336,3],
-"df/db0/classOPvPCapturePointEP__CGT.html#a6f434f86ed97f88368e3194a3bc3183b":[6,0,2336,9],
-"df/db0/classOPvPCapturePointEP__CGT.html#a764284d6143d4879b5bc003acc52048c":[6,0,2336,7]
+"df/db0/classOPvPCapturePointEP__CGT.html#a6f434f86ed97f88368e3194a3bc3183b":[6,0,2336,9]
 };

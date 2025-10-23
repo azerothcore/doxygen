@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca":[7,0,0,0,1,2,16,5,0,1,1,2],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7":[7,0,0,0,1,2,16,5,0,1,1,4],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799":[7,0,0,0,1,2,16,5,0,1,1,0],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f":[7,0,0,0,1,2,16,5,0,1,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "dc/d8f/TypeList_8h.html#a6a7a6aa3dece450c8d239713e2952df7":[7,0,0,0,0,6,8,1],
 "dc/d8f/TypeList_8h.html#a7a156c571ab21a16b0495e1c882a07fa":[7,0,0,0,0,6,8,4],
 "dc/d8f/TypeList_8h.html#aad5d9b3c82c8503c85c625acd41c0a2f":[7,0,0,0,0,6,8,5],
-"dc/d8f/TypeList_8h.html#ac6f3277dcaade98ceeaa5c0e1c454816":[7,0,0,0,0,6,8,6],
-"dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html":[6,0,2071,0]
+"dc/d8f/TypeList_8h.html#ac6f3277dcaade98ceeaa5c0e1c454816":[7,0,0,0,0,6,8,6]
 };

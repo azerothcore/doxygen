@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/df0/classTransactionCallback.html#af2ec892bbca8d2cc694b36fb931fc1e8":[6,0,4190,2],
 "db/df0/classachievement__wg__within__our__grasp.html":[6,0,102],
 "db/df0/classachievement__wg__within__our__grasp.html#a10b659c4b52322536333e3d191796c27":[6,0,102,1],
 "db/df0/classachievement__wg__within__our__grasp.html#a9edbd15bc6989c6948e21391a683d22d":[6,0,102,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19ac9131e86f20693bd376f14a69bfa2d90":[7,0,0,0,1,3,9,8,91,1],
 "db/dfb/spell__quest_8cpp.html#a70245b2f84a4c764b5141a57a3798a19ae7872245ba055a3653b0caf7f5caf1d6":[7,0,0,0,1,3,9,8,91,0],
 "db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6":[7,0,0,0,1,3,9,8,111],
-"db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6a0091adfedb78948eb88146dd2577f56f":[7,0,0,0,1,3,9,8,111,3],
-"db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6a95f7842bca464d6daf000030ebccb449":[7,0,0,0,1,3,9,8,111,2]
+"db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6a0091adfedb78948eb88146dd2577f56f":[7,0,0,0,1,3,9,8,111,3]
 };

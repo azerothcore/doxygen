@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"da/d68/classnpc__thrall__warchief.html":[6,0,2180],
 "da/d68/classnpc__thrall__warchief.html#a3958f0b444537ac8a5ebf55de44e3590":[6,0,2180,1],
 "da/d68/classnpc__thrall__warchief.html#a4fc3d5410b959b4289f1ced17d412c03":[6,0,2180,2],
 "da/d68/classnpc__thrall__warchief.html#a5cd40c062fb07d2ddfffdc159f2935d3":[6,0,2180,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "da/d76/karazhan_8h.html#a82e2e83730ff4a6f26b5f3bc5fd3383fa4b01db7690f55018430a897601d7047a":[7,0,0,0,1,3,2,4,15,10,1],
 "da/d76/karazhan_8h.html#a82e2e83730ff4a6f26b5f3bc5fd3383fac14588ad8776b1e58b24c2f9b6c34079":[7,0,0,0,1,3,2,4,15,10,0],
 "da/d76/karazhan_8h.html#aae819809d62fa7f2e4ce8db25bb00855":[7,0,0,0,1,3,2,4,15,11],
-"da/d76/karazhan_8h.html#aae819809d62fa7f2e4ce8db25bb00855a1ea884274286f129607ae3bd62f3ccdb":[7,0,0,0,1,3,2,4,15,11,1],
-"da/d76/karazhan_8h.html#aae819809d62fa7f2e4ce8db25bb00855a5a6aa1e8785c917e6bd233e96de20cf0":[7,0,0,0,1,3,2,4,15,11,0]
+"da/d76/karazhan_8h.html#aae819809d62fa7f2e4ce8db25bb00855a1ea884274286f129607ae3bd62f3ccdb":[7,0,0,0,1,3,2,4,15,11,1]
 };

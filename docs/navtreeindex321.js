@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d01/structnpc__kilrek.html#a3a60a3bdb5a2876e325a26964bab21ac":[6,0,1915,2],
 "dd/d01/structnpc__kilrek.html#a411476da379bf687cd007e25ba11280e":[6,0,1915,7],
 "dd/d01/structnpc__kilrek.html#a853aa53d3e03aebe07c939eaf1b1c9c2":[6,0,1915,0],
 "dd/d01/structnpc__kilrek.html#a93663ee806385f617e81a03062dd94d6":[6,0,1915,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d12/classspell__item__runescroll__of__fortitude.html":[6,0,3304],
 "dd/d12/classspell__item__runescroll__of__fortitude.html#a999d5173e12b643e0bdcefcd099f65d1":[6,0,3304,0],
 "dd/d12/classspell__item__runescroll__of__fortitude.html#afd92511fb578c1df33248dba5055315e":[6,0,3304,1],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html":[6,0,422,0],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#a05a7e9991011be47b25e7b801546d1ae":[6,0,422,0,3]
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html":[6,0,422,0]
 };

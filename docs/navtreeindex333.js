@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/d96/classDBCFile_1_1Exception.html":[6,0,957,0],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,957,0,3],
 "dd/d96/classDBCFile_1_1Exception.html#a1af5fa940a44522664bf8032b0ec164a":[6,0,957,0,1],
 "dd/d96/classDBCFile_1_1Exception.html#a414c3d1a58dc27f84f70db7372c71394":[6,0,957,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dd/da3/structSpellProcEntry.html#acf72c4a783235770bbff952bdc002324":[6,0,4110,7],
 "dd/da3/structSpellProcEntry.html#aea5ca609c75ea7b314aec8ae0246297e":[6,0,4110,1],
 "dd/da4/Logger_8h.html":[7,0,0,0,0,9,12],
-"dd/da4/TransportMgr_8h.html":[7,0,0,0,1,2,26,14],
-"dd/da4/TransportMgr_8h.html#a05990a03a3ab902d6d79e9f33385b605":[7,0,0,0,1,2,26,14,12]
+"dd/da4/TransportMgr_8h.html":[7,0,0,0,1,2,26,14]
 };

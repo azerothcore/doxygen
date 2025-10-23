@@ -1,5 +1,6 @@
 var NAVTREEINDEX404 =
 {
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#a06bdac68e36b43ee534e937ffd974086":[6,0,3481,2],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#a0968b7b32f2d2bef6035e030f544088a":[6,0,3481,0],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[6,0,3481,1],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[6,0,3481,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX404 =
 "df/df1/structCell.html#ac5bee2b61262a06ae6d74dd6b8e11c29":[6,0,842,25],
 "df/df1/structCell.html#ac7eebe2036bdbeaa342abf428c0dae6c":[6,0,842,8],
 "df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[6,0,842,4],
-"df/df1/structCell.html#ad507586547e54f178924f392c0066c16":[6,0,842,20],
-"df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,842,22]
+"df/df1/structCell.html#ad507586547e54f178924f392c0066c16":[6,0,842,20]
 };

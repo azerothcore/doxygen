@@ -1,5 +1,6 @@
 var NAVTREEINDEX229 =
 {
+"d8/df6/classspell__gen__clone__weapon.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a":[6,0,2936,2],
 "d8/df6/classspell__icc__soul__missile.html":[6,0,3154],
 "d8/df6/classspell__icc__soul__missile.html#a808d2283be9714c14f22a2df0a52dd61":[6,0,3154,1],
 "d8/df6/classspell__icc__soul__missile.html#a843c9dc403404ddd2de667e57e01f00c":[6,0,3154,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c":[7,0,0,0,1,2,8,3,2,0],
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0":[7,0,0,0,1,2,8,3,2,2],
 "d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222":[7,0,0,0,1,2,8,3,2,3],
-"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f":[7,0,0,0,1,2,8,3,2,1],
-"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71":[7,0,0,0,1,2,8,3,1]
+"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f":[7,0,0,0,1,2,8,3,2,1]
 };

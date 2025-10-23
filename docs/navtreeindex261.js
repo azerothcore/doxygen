@@ -1,5 +1,6 @@
 var NAVTREEINDEX261 =
 {
+"da/d7e/classMapGrid.html#ac0ac36a4c55b5a1dc7fd9963a63f325b":[6,0,1488,6],
 "da/d7e/classMapGrid.html#addd3c1c8a2093380c305d0d22daeb12a":[6,0,1488,20],
 "da/d7e/classMapGrid.html#ade4a2ad0726ab6a45fae7ac4aa261b5b":[6,0,1488,0],
 "da/d7e/classMapGrid.html#ae103a04e02748031619fae50906a1385":[6,0,1488,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX261 =
 "da/d85/structboss__morogrim__tidewalker.html#a139d87e7cffe03183538eb493e063195":[6,0,628,1],
 "da/d85/structboss__morogrim__tidewalker.html#a2b669007520094948138c95468b77f9f":[6,0,628,3],
 "da/d85/structboss__morogrim__tidewalker.html#a2db94919e6d6f3d4eda4addc4248976e":[6,0,628,4],
-"da/d85/structboss__morogrim__tidewalker.html#a3244672aeb994673e1f46708699bcc2c":[6,0,628,2],
-"da/d85/structboss__morogrim__tidewalker.html#a63edb4b20baa9e1cf5238c3db5974c56":[6,0,628,6]
+"da/d85/structboss__morogrim__tidewalker.html#a3244672aeb994673e1f46708699bcc2c":[6,0,628,2]
 };

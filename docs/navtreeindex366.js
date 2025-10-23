@@ -1,5 +1,6 @@
 var NAVTREEINDEX366 =
 {
+"de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96c":[7,0,0,0,1,3,2,25,5],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca1c1d8055d31bb2fb8238437b243852ca":[7,0,0,0,1,3,2,25,5,3],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca23b5677e1eb390f2bbe16d2b30a05498":[7,0,0,0,1,3,2,25,5,2],
 "de/d62/zone__ghostlands_8cpp.html#acb58e7629bec88c770da1efed549d96ca3217132d497cc70e674432067fd431a7":[7,0,0,0,1,3,2,25,5,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX366 =
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fa56f882d8c103fe1403a3ce1c1c890483":[5,0,18,59,3],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fa681e478a8a9974b11422e4b00e07aa67":[5,0,18,59,7],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fab54cd511c649ecb334f1b782b8fe7d02":[5,0,18,59,0],
-"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f":[5,0,18,59,2],
-"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617":[5,0,18,59,1]
+"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f":[5,0,18,59,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX222 =
 {
+"d8/d9c/classResetEncounterEvent.html#ad4c57e519201e15e23e0f56f4fbe70cb":[6,0,2502,4],
 "d8/d9c/classResetEncounterEvent.html#ae8d52fc7c0689620bcef8c04643191f5":[6,0,2502,1],
 "d8/d9d/Battlefield_8cpp.html":[7,0,0,0,1,2,7,1],
 "d8/d9d/classspell__putricide__choking__gas__bomb.html":[6,0,3594],
@@ -248,6 +249,5 @@ var NAVTREEINDEX222 =
 "d8/daa/classAcore_1_1Crypto_1_1AES.html#ad6abd9fd7a9b7bafc4c300ebca415a1e":[5,0,1,4,0,2],
 "d8/daa/classAcore_1_1Crypto_1_1AES.html#ae461a0a028ca8d02af56496252e6322d":[6,0,0,2,0,7],
 "d8/daa/classAcore_1_1Crypto_1_1AES.html#ae461a0a028ca8d02af56496252e6322d":[5,0,1,4,0,7],
-"d8/daa/classnpc__coldflame.html":[6,0,1692],
-"d8/daa/classnpc__coldflame.html#a573b887358e2ba2281c4c119a267c33f":[6,0,1692,1]
+"d8/daa/classnpc__coldflame.html":[6,0,1692]
 };

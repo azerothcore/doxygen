@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"db/ddb/classTaskContext.html#adca01e15214852dd23d3e404ee3e1f21":[6,0,4156,1],
 "db/ddb/classTaskContext.html#add5a7d1e76bd0d0766c17920dadd5b61":[6,0,4156,27],
 "db/ddb/classTaskContext.html#ae60b6c797e99c416b84c5b9ae715b215":[6,0,4156,25],
 "db/ddb/classTaskContext.html#af1d32693e6df24d76a82b1a367eacbe5":[6,0,4156,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "db/de5/structboss__strawman.html#a1789cdafc2ce03e156ac686e6859e25f":[6,0,713,0],
 "db/de5/structboss__strawman.html#a40657516c4f1b049dd0514a50e299a10":[6,0,713,4],
 "db/de5/structboss__strawman.html#a409539c771b373c165bdbccac8a59e7f":[6,0,713,9],
-"db/de5/structboss__strawman.html#a4235b2de2540199f9570cbadb7326871":[6,0,713,5],
-"db/de5/structboss__strawman.html#a57f9519f87bc8e7446632a49f56a02ca":[6,0,713,1]
+"db/de5/structboss__strawman.html#a4235b2de2540199f9570cbadb7326871":[6,0,713,5]
 };

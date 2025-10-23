@@ -1,5 +1,6 @@
 var NAVTREEINDEX226 =
 {
+"d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[7,0,0,0,1,4,0,3,70],
 "d8/dd6/DBCfmt_8h.html#ac62d1b9c6855c6a25a92d52b1de14c7a":[7,0,0,0,1,4,0,3,91],
 "d8/dd6/DBCfmt_8h.html#ac8259d0bba8e665c07c83f1cbe21f281":[7,0,0,0,1,4,0,3,36],
 "d8/dd6/DBCfmt_8h.html#aca90fef36ea63da13958a5b64c5b71f3":[7,0,0,0,1,4,0,3,59],
@@ -248,6 +249,5 @@ var NAVTREEINDEX226 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4de96fc5934cd6c5a652b85389f9c7fd":[7,0,0,0,1,3,5,6,7,35,41],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d6e982b2eeb4cdb3ac6e7bbc8e0edb2":[7,0,0,0,1,3,5,6,7,35,20],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca643c8da7dd05686abbc86bd7a81c647b":[7,0,0,0,1,3,5,6,7,35,7],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a36b3dd73b5ddd5187b2e1f8fe860da":[7,0,0,0,1,3,5,6,7,35,22],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6baa922408c42ba726e7d02cf86038d8":[7,0,0,0,1,3,5,6,7,35,27]
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a36b3dd73b5ddd5187b2e1f8fe860da":[7,0,0,0,1,3,5,6,7,35,22]
 };

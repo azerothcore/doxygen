@@ -1,5 +1,6 @@
 var NAVTREEINDEX263 =
 {
+"da/d91/classVMAP_1_1ModelSpawn.html#ae8623dcb78a2af4c9aebd60f67649f34":[5,0,28,16,3],
 "da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html":[6,0,11,2,5],
 "da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html":[5,0,31,2,5],
 "da/d91/classWorldPackets_1_1Character_1_1PlayedTime.html#a147071f2545cd91213d6c92dab7438c7":[6,0,11,2,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX263 =
 "da/d9a/kalimdor__script__loader_8cpp.html#aa66a49cd2f79efd6f41553e9f0c2cfc3":[7,0,0,0,1,3,4,13,76],
 "da/d9a/kalimdor__script__loader_8cpp.html#aaa8cd8499551ea54c022bd57ada0fb65":[7,0,0,0,1,3,4,13,5],
 "da/d9a/kalimdor__script__loader_8cpp.html#ab062b2fefc0d2afe08a2a66fce9880a5":[7,0,0,0,1,3,4,13,15],
-"da/d9a/kalimdor__script__loader_8cpp.html#ac7ebb1d823f77b23775c912303b2dac5":[7,0,0,0,1,3,4,13,35],
-"da/d9a/kalimdor__script__loader_8cpp.html#ac993a5b634e1a264a02069c814692130":[7,0,0,0,1,3,4,13,12]
+"da/d9a/kalimdor__script__loader_8cpp.html#ac7ebb1d823f77b23775c912303b2dac5":[7,0,0,0,1,3,4,13,35]
 };

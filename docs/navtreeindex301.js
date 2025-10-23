@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2295,1],
 "dc/d05/structboss__anomalus.html":[6,0,376],
 "dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[6,0,376,9],
 "dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[6,0,376,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a5433de81912a208ea79533e0650d8687":[6,0,660,0,6],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a692da5cd278c64a6e14c9a997e02a433":[6,0,660,0,9],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a7fdce83dce5c425aa6ba266860808f8a":[6,0,660,0,1],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a86ffd0e0da7bff506bad5508c32de505":[6,0,660,0,5],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a8887ecc2d5eae177dbc7adbd087b9c7e":[6,0,660,0,0]
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a86ffd0e0da7bff506bad5508c32de505":[6,0,660,0,5]
 };

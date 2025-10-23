@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/dd1/classspell__q9452__cast__net.html#a016e480d7b2267c9bf824c9cb029f134":[6,0,3717,4],
 "d9/dd1/classspell__q9452__cast__net.html#a39dd06ae92d04060ee41897318a701fd":[6,0,3717,2],
 "d9/dd1/classspell__q9452__cast__net.html#a76fff3a9d20f48e4814ee0f258be07b8":[6,0,3717,3],
 "d9/dd1/classspell__q9452__cast__net.html#a79a51387f0a515ed07fcc1ac9e428290":[6,0,3717,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,31,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[5,0,31,7,8,4],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,11,7,8,2]
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4]
 };

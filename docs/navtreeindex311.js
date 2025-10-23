@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html":[6,0,287,15],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a0e51245e089fcd9532d5789056ab944c":[6,0,287,15,2],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a38802863e7859453cbbe58ad91018c67":[6,0,287,15,1],
 "dc/d76/classAuraScript_1_1EffectUpdatePeriodicHandler.html#a6b18a259aa84c847bcc064c5243eb590":[6,0,287,15,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a":[7,0,0,0,1,2,16,5,0,1,1,10],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b":[7,0,0,0,1,2,16,5,0,1,1,9],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b":[7,0,0,0,1,2,16,5,0,1,1,5],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51":[7,0,0,0,1,2,16,5,0,1,1,8],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca":[7,0,0,0,1,2,16,5,0,1,1,2]
+"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51":[7,0,0,0,1,2,16,5,0,1,1,8]
 };

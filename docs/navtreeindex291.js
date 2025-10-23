@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[6,0,541,8],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html":[6,0,3375],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2a6e32bbc9b722ad7e872c6a26daa6bb":[6,0,3375,1],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3375,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4":[6,0,2524,3],
 "db/dc8/structScriptedAI.html#a4cc209e047dcbd29cf57e689e3945ff7":[6,0,2524,37],
 "db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb":[6,0,2524,66],
-"db/dc8/structScriptedAI.html#a63cc63198b59f5cd7c5301ad02eabed0":[6,0,2524,29],
-"db/dc8/structScriptedAI.html#a671ed92586143776b08dfa277546f53b":[6,0,2524,18]
+"db/dc8/structScriptedAI.html#a63cc63198b59f5cd7c5301ad02eabed0":[6,0,2524,29]
 };

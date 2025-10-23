@@ -1,5 +1,6 @@
 var NAVTREEINDEX216 =
 {
+"d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298ca78ef2361f3190d5bfcbf2311f9fa2f33":[7,0,0,0,1,3,5,11,1,6,7],
 "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9b67b4abf14b587010b3d0f76ad74f24":[7,0,0,0,1,3,5,11,1,6,6],
 "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298cabeab6dc28c3fe12495179de68394c2ea":[7,0,0,0,1,3,5,11,1,6,4],
 "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,11,1,6,3],
@@ -49,10 +50,10 @@ var NAVTREEINDEX216 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2593,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2593,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2593,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,31,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,12,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,31,12,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,31,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,12,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,31,12,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,543],
 "d8/d6c/classboss__ichoron.html#a68051088dc2d2c738b042e2df0436b28":[6,0,543,2],
 "d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,543,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX216 =
 "d8/d74/classWorldSession.html#a16b7953dcd44f1a362555897fac75e96":[4,1,19,202],
 "d8/d74/classWorldSession.html#a16fb9154d358a0287529a86b80d3db51":[4,1,19,17],
 "d8/d74/classWorldSession.html#a171a0695336b720fed0dd12fdafbf2a9":[4,1,19,549],
-"d8/d74/classWorldSession.html#a18cf6d9d877660f65fe82220d0ed8762":[4,1,19,292],
-"d8/d74/classWorldSession.html#a1967a424baaf26edc15d78fe1fbda5c4":[4,1,19,606]
+"d8/d74/classWorldSession.html#a18cf6d9d877660f65fe82220d0ed8762":[4,1,19,292]
 };

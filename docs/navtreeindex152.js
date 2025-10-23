@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,10,5,3],
 "d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1],
 "d5/dab/boss__faerlina_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,1,3],
 "d5/dab/boss__faerlina_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a45e41b45c2fd51cf8c20234cfe7980c8":[7,0,0,0,1,3,5,7,1,3,0],
@@ -110,20 +111,20 @@ var NAVTREEINDEX152 =
 "d5/db0/classVMAP_1_1WorldModel.html":[6,0,9,27],
 "d5/db0/classVMAP_1_1WorldModel.html#a101692f46ae752cbde7b264b02e23168":[5,0,28,27,11],
 "d5/db0/classVMAP_1_1WorldModel.html#a101692f46ae752cbde7b264b02e23168":[6,0,9,27,11],
-"d5/db0/classVMAP_1_1WorldModel.html#a3a198d0cbd607e574cb53a08d6b7457a":[6,0,9,27,2],
 "d5/db0/classVMAP_1_1WorldModel.html#a3a198d0cbd607e574cb53a08d6b7457a":[5,0,28,27,2],
+"d5/db0/classVMAP_1_1WorldModel.html#a3a198d0cbd607e574cb53a08d6b7457a":[6,0,9,27,2],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[6,0,9,27,0],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[5,0,28,27,0],
 "d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[6,0,9,27,12],
 "d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[5,0,28,27,12],
-"d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[6,0,9,27,7],
 "d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[5,0,28,27,7],
+"d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[6,0,9,27,7],
 "d5/db0/classVMAP_1_1WorldModel.html#a63c3d4e85d0924d6c46d8b6c6f70a593":[6,0,9,27,4],
 "d5/db0/classVMAP_1_1WorldModel.html#a63c3d4e85d0924d6c46d8b6c6f70a593":[5,0,28,27,4],
 "d5/db0/classVMAP_1_1WorldModel.html#a8e33038d14961c4f28b36d2bd2237df6":[6,0,9,27,5],
 "d5/db0/classVMAP_1_1WorldModel.html#a8e33038d14961c4f28b36d2bd2237df6":[5,0,28,27,5],
-"d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[6,0,9,27,6],
 "d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[5,0,28,27,6],
+"d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[6,0,9,27,6],
 "d5/db0/classVMAP_1_1WorldModel.html#ab049f44af8c65d8c41309157473a8b01":[5,0,28,27,3],
 "d5/db0/classVMAP_1_1WorldModel.html#ab049f44af8c65d8c41309157473a8b01":[6,0,9,27,3],
 "d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[5,0,28,27,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "d5/db2/classboss__falric.html":[6,0,458],
 "d5/db2/classboss__falric.html#a95249877208d19bb54edd8de18616158":[6,0,458,2],
 "d5/db2/classboss__falric.html#aa64253f502f79db5947c09788fb66deb":[6,0,458,1],
-"d5/db3/CreatureGroups_8h.html":[7,0,0,0,1,2,16,1,4],
-"d5/db3/CreatureGroups_8h.html#a2c3447bf21f430bff136da6811d93a61":[7,0,0,0,1,2,16,1,4,4]
+"d5/db3/CreatureGroups_8h.html":[7,0,0,0,1,2,16,1,4]
 };

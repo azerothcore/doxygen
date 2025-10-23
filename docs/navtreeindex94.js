@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d30/classnpc__finklestein.html":[6,0,1781],
 "d3/d30/classnpc__finklestein.html#a1f0d91d2a50aca9d0496b6bd03986c8e":[6,0,1781,2],
 "d3/d30/classnpc__finklestein.html#a7a744207e8f43672f0e6bf2354186ec4":[6,0,1781,4],
 "d3/d30/classnpc__finklestein.html#a94291aa98e35552bc7d722ddf2a83af2":[6,0,1781,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d34/structboss__yauj.html#a15ab7b6b35d29fb1552b11586163320e":[6,0,786,0],
 "d3/d34/structboss__yauj.html#a94a2fa960e6924bde9ba6934a56ed684":[6,0,786,1],
 "d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html":[6,0,2271,0],
-"d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html#a0bc95eea54b5cdc16a4d3f588f3ff900":[6,0,2271,0,1],
-"d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html#a24ff36cdb049da7c67c1f041361e17e4":[6,0,2271,0,3]
+"d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html#a0bc95eea54b5cdc16a4d3f588f3ff900":[6,0,2271,0,1]
 };

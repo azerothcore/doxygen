@@ -1,5 +1,6 @@
 var NAVTREEINDEX282 =
 {
+"db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a7d319ff15ada5f0fa35d13e5bb1f9d95":[7,0,0,0,1,3,9,4,183,3],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a84d745577ef13f1e5882b93198f50a2e":[7,0,0,0,1,3,9,4,183,4],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aafa04c1847926223f0662f3abe5758fa":[7,0,0,0,1,3,9,4,183,5],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aafd0283a7fb92d3cdcb265a2725e64c2":[7,0,0,0,1,3,9,4,183,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX282 =
 "db/d7a/namespaceWorldPackets_1_1Bank.html":[5,0,31,0],
 "db/d7a/structItemLocale.html":[6,0,1390],
 "db/d7a/structItemLocale.html#a4187f2b02014c83bc4f1b3d65d229311":[6,0,1390,0],
-"db/d7a/structItemLocale.html#a787ca2c05ddac7ee5c3a5c28a02b8494":[6,0,1390,1],
-"db/d7b/DBCDatabaseLoader_8cpp.html":[7,0,0,0,1,4,0,0]
+"db/d7a/structItemLocale.html#a787ca2c05ddac7ee5c3a5c28a02b8494":[6,0,1390,1]
 };

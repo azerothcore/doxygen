@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4570365880f14c7f7c5e7d96332ae150":[6,0,0,4,3,4],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4570365880f14c7f7c5e7d96332ae150":[5,0,1,7,3,4],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4b246814aa2e2ac930e1e9e4e79345f0":[6,0,0,4,3,0],
 "dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a4b246814aa2e2ac930e1e9e4e79345f0":[5,0,1,7,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX330 =
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca30aa4cac2f70a310466b3fb0f2d10eab":[7,0,0,0,1,3,2,1,1,6,2,2],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e5e143966721ffd7007e64676feb01a":[7,0,0,0,1,3,2,1,1,6,2,13],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca5cfb51461743a5d55d8f62642576ce96":[7,0,0,0,1,3,2,1,1,6,2,15],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca62abae152164d0fc40f7e1dd0a79b586":[7,0,0,0,1,3,2,1,1,6,2,16],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca6bee2818aaaee066c2aaeb1a967219fc":[7,0,0,0,1,3,2,1,1,6,2,10]
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca62abae152164d0fc40f7e1dd0a79b586":[7,0,0,0,1,3,2,1,1,6,2,16]
 };
