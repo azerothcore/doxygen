@@ -1,7 +1,5 @@
 var NAVTREEINDEX230 =
 {
-"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71":[7,0,0,0,1,2,8,3,1],
-"d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854":[7,0,0,0,1,2,8,3,1,0],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084":[7,0,0,0,1,2,8,3,1,1],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd":[7,0,0,0,1,2,8,3,1,3],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9":[7,0,0,0,1,2,8,3,1,2],
@@ -241,13 +239,15 @@ var NAVTREEINDEX230 =
 "d9/d03/structModelHeader.html#af9868234251a6f1eb7e809a7d183d68d":[6,0,1520,47],
 "d9/d03/structModelHeader.html#afa18360276cbf9324675c0716079eecf":[6,0,1520,42],
 "d9/d03/structModelHeader.html#afe6561867455a787dfd9a2d784cc9546":[6,0,1520,41],
-"d9/d04/classboss__azuregos.html":[6,0,391],
-"d9/d04/classboss__azuregos.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83":[6,0,391,2],
-"d9/d04/classboss__azuregos.html#a48590db0037870ca5c9425a468e5ea3a":[6,0,391,1],
-"d9/d04/classboss__azuregos.html#a73220e54a3a53931e740f3c53c3bf20c":[6,0,391,3],
+"d9/d04/classboss__azuregos.html":[6,0,392],
+"d9/d04/classboss__azuregos.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83":[6,0,392,2],
+"d9/d04/classboss__azuregos.html#a48590db0037870ca5c9425a468e5ea3a":[6,0,392,1],
+"d9/d04/classboss__azuregos.html#a73220e54a3a53931e740f3c53c3bf20c":[6,0,392,3],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html":[6,0,3651],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a0d122972fc036d1f1e49c49acda58be3":[6,0,3651,1],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[6,0,3651,0],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[6,0,0,4,0,1],
 "d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,1,7,0,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[6,0,0,4,0,1]
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[6,0,0,4,0,1,2],
+"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html#a071922c9c431637de3cb2d6b52def7bd":[5,0,1,7,0,1,2]
 };

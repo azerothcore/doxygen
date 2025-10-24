@@ -188,7 +188,7 @@ var classWorldObject =
     [ "_updatePositionData", "d4/dd0/classWorldObject.html#a152a2a1b3a8c33b377294f6a1f76fa6d", null ],
     [ "_visibilityDistanceOverrideType", "d4/dd0/classWorldObject.html#aea3d44f1e61c20c8b296ce4e39800423", null ],
     [ "_zoneId", "d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3", null ],
-    [ "elunaEvents", "d4/dd0/classWorldObject.html#a65d365616ec8f03b7dbb8fcfc6bcff0a", null ],
+    [ "ALEEvents", "d4/dd0/classWorldObject.html#af308d81e688c5e11a2f2fbc5f5f18c79", null ],
     [ "LastUsedScriptID", "d4/dd0/classWorldObject.html#a521c55899c1f4333c9060ce9c4a3a715", null ],
     [ "m_currMap", "d4/dd0/classWorldObject.html#aecec1bb44a3472e76f55f458a9c76c6a", null ],
     [ "m_Events", "d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6", null ],

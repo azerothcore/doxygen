@@ -4777,9 +4777,9 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   26</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(player);</div>
 <div class="line"><span class="lineno">   27</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(trigger);</div>
 <div class="line"><span class="lineno">   28</span> </div>
-<div class="line"><span class="lineno">   29</span>    <span class="keyword">auto</span> ret = IsValidBoolScript&lt;ElunaScript&gt;([&amp;](<a class="code hl_class" href="../../d8/d0f/classElunaScript.html">ElunaScript</a>* script)</div>
+<div class="line"><span class="lineno">   29</span>    <span class="keyword">auto</span> ret = IsValidBoolScript&lt;ALEScript&gt;([&amp;](<a class="code hl_class" href="../../d4/dd9/classALEScript.html">ALEScript</a>* script)</div>
 <div class="line"><span class="lineno">   30</span>    {</div>
-<div class="line"><span class="lineno">   31</span>        <span class="keywordflow">return</span> script-&gt;<a class="code hl_function" href="../../d8/d0f/classElunaScript.html#a47f8793586dd27dd4eb42eb5379828b0">CanAreaTrigger</a>(player, trigger);</div>
+<div class="line"><span class="lineno">   31</span>        <span class="keywordflow">return</span> script-&gt;<a class="code hl_function" href="../../d4/dd9/classALEScript.html#ad5d8f66949b0f7638dd85ccba4c569d0">CanAreaTrigger</a>(player, trigger);</div>
 <div class="line"><span class="lineno">   32</span>    });</div>
 <div class="line"><span class="lineno">   33</span> </div>
 <div class="line"><span class="lineno">   34</span>    <span class="keywordflow">if</span> (ret &amp;&amp; *ret)</div>
@@ -4790,8 +4790,8 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   39</span>    <span class="keyword">auto</span> tempScript = <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a22226c545e7975d4c612e7adcc766d05">ScriptRegistry&lt;AreaTriggerScript&gt;::GetScriptById</a>(<a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetAreaTriggerScriptId(trigger-&gt;entry));</div>
 <div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> tempScript ? tempScript-&gt;OnTrigger(player, trigger) : <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   41</span>}</div>
-<div class="ttc" id="aclassElunaScript_html"><div class="ttname"><a href="../../d8/d0f/classElunaScript.html">ElunaScript</a></div><div class="ttdef"><b>Definition</b> ElunaScript.h:24</div></div>
-<div class="ttc" id="aclassElunaScript_html_a47f8793586dd27dd4eb42eb5379828b0"><div class="ttname"><a href="../../d8/d0f/classElunaScript.html#a47f8793586dd27dd4eb42eb5379828b0">ElunaScript::CanAreaTrigger</a></div><div class="ttdeci">virtual bool CanAreaTrigger(Player *, AreaTrigger const *)</div><div class="ttdef"><b>Definition</b> ElunaScript.h:39</div></div>
+<div class="ttc" id="aclassALEScript_html"><div class="ttname"><a href="../../d4/dd9/classALEScript.html">ALEScript</a></div><div class="ttdef"><b>Definition</b> ALEScript.h:24</div></div>
+<div class="ttc" id="aclassALEScript_html_ad5d8f66949b0f7638dd85ccba4c569d0"><div class="ttname"><a href="../../d4/dd9/classALEScript.html#ad5d8f66949b0f7638dd85ccba4c569d0">ALEScript::CanAreaTrigger</a></div><div class="ttdeci">virtual bool CanAreaTrigger(Player *, AreaTrigger const *)</div><div class="ttdef"><b>Definition</b> ALEScript.h:39</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -20170,9 +20170,9 @@ Friends</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
 <div class="line"><span class="lineno">   25</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(weather);</div>
 <div class="line"><span class="lineno">   26</span> </div>
-<div class="line"><span class="lineno">   27</span>    ExecuteScript&lt;ElunaScript&gt;([&amp;](<a class="code hl_class" href="../../d8/d0f/classElunaScript.html">ElunaScript</a>* script)</div>
+<div class="line"><span class="lineno">   27</span>    ExecuteScript&lt;ALEScript&gt;([&amp;](<a class="code hl_class" href="../../d4/dd9/classALEScript.html">ALEScript</a>* script)</div>
 <div class="line"><span class="lineno">   28</span>    {</div>
-<div class="line"><span class="lineno">   29</span>        script-&gt;<a class="code hl_function" href="../../d8/d0f/classElunaScript.html#af09f40df2d02a57c92d7e05d19f35549">OnWeatherChange</a>(weather, state, grade);</div>
+<div class="line"><span class="lineno">   29</span>        script-&gt;<a class="code hl_function" href="../../d4/dd9/classALEScript.html#a109b1cb14f602065ce4346d0370407a7">OnWeatherChange</a>(weather, state, grade);</div>
 <div class="line"><span class="lineno">   30</span>    });</div>
 <div class="line"><span class="lineno">   31</span> </div>
 <div class="line"><span class="lineno">   32</span>    <span class="keywordflow">if</span> (<span class="keyword">auto</span> tempScript = <a class="code hl_class" href="../../d5/d23/classScriptRegistry.html">ScriptRegistry&lt;WeatherScript&gt;::GetScriptById</a>(weather-&gt;<a class="code hl_function" href="../../df/d17/group__world.html#ga07ff1c03b6fb225388d418496c18d3be">GetScriptId</a>()))</div>
@@ -20180,10 +20180,10 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   34</span>        tempScript-&gt;OnChange(weather, state, grade);</div>
 <div class="line"><span class="lineno">   35</span>    }</div>
 <div class="line"><span class="lineno">   36</span>}</div>
-<div class="ttc" id="aclassElunaScript_html_af09f40df2d02a57c92d7e05d19f35549"><div class="ttname"><a href="../../d8/d0f/classElunaScript.html#af09f40df2d02a57c92d7e05d19f35549">ElunaScript::OnWeatherChange</a></div><div class="ttdeci">virtual void OnWeatherChange(Weather *, WeatherState, float)</div><div class="ttdoc">This hook called when the weather changes in the zone this script is associated with.</div><div class="ttdef"><b>Definition</b> ElunaScript.h:36</div></div>
+<div class="ttc" id="aclassALEScript_html_a109b1cb14f602065ce4346d0370407a7"><div class="ttname"><a href="../../d4/dd9/classALEScript.html#a109b1cb14f602065ce4346d0370407a7">ALEScript::OnWeatherChange</a></div><div class="ttdeci">virtual void OnWeatherChange(Weather *, WeatherState, float)</div><div class="ttdoc">This hook called when the weather changes in the zone this script is associated with.</div><div class="ttdef"><b>Definition</b> ALEScript.h:36</div></div>
 <div class="ttc" id="agroup__world_html_ga07ff1c03b6fb225388d418496c18d3be"><div class="ttname"><a href="../../df/d17/group__world.html#ga07ff1c03b6fb225388d418496c18d3be">Weather::GetScriptId</a></div><div class="ttdeci">uint32 GetScriptId() const</div><div class="ttdef"><b>Definition</b> Weather.h:80</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00080">Weather::GetScriptId()</a>, and <a class="el" href="../../#l00036">ElunaScript::OnWeatherChange()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00080">Weather::GetScriptId()</a>, and <a class="el" href="../../#l00036">ALEScript::OnWeatherChange()</a>.</p>
 
 </div>
 </div>
@@ -20632,7 +20632,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  127</span>    SCR_CLEAR&lt;CreatureScript&gt;();</div>
 <div class="line"><span class="lineno">  128</span>    SCR_CLEAR&lt;DatabaseScript&gt;();</div>
 <div class="line"><span class="lineno">  129</span>    SCR_CLEAR&lt;DynamicObjectScript&gt;();</div>
-<div class="line"><span class="lineno">  130</span>    SCR_CLEAR&lt;ElunaScript&gt;();</div>
+<div class="line"><span class="lineno">  130</span>    SCR_CLEAR&lt;ALEScript&gt;();</div>
 <div class="line"><span class="lineno">  131</span>    SCR_CLEAR&lt;FormulaScript&gt;();</div>
 <div class="line"><span class="lineno">  132</span>    SCR_CLEAR&lt;GameEventScript&gt;();</div>
 <div class="line"><span class="lineno">  133</span>    SCR_CLEAR&lt;GameObjectScript&gt;();</div>
@@ -20972,7 +20972,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d73/classScriptMgr.html">ScriptMgr</a></li>
-    <li class="footer">Generated on Thu Oct 23 2025 06:24:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 24 2025 06:24:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

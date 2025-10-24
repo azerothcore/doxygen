@@ -1,12 +1,14 @@
 var NAVTREEINDEX170 =
 {
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html":[6,0,738,0],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a104f447cc52c285d59653a8ebff20fef":[6,0,738,0,4],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29":[6,0,738,0,3],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a650508e05b6fa1af538a0b34e04c8bf5":[6,0,738,0,5],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a9e4c25742785809d788f2e910f7840bc":[6,0,738,0,2],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#aaa7e94f653a1db001cd0c962fb855098":[6,0,738,0,0],
-"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#afaf0a05b1fd2fc2187b52328340b65bb":[6,0,738,0,1],
+"d6/d4c/structboss__pathaleon__the__calculator.html#abcbb5f1236ebfbec680241ae8c5cbb00":[6,0,656,1],
+"d6/d4c/structboss__pathaleon__the__calculator.html#adc48067c3656bf768c3013ff266565c0":[6,0,656,6],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html":[6,0,739,0],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a104f447cc52c285d59653a8ebff20fef":[6,0,739,0,4],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29":[6,0,739,0,3],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a650508e05b6fa1af538a0b34e04c8bf5":[6,0,739,0,5],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a9e4c25742785809d788f2e910f7840bc":[6,0,739,0,2],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#aaa7e94f653a1db001cd0c962fb855098":[6,0,739,0,0],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#afaf0a05b1fd2fc2187b52328340b65bb":[6,0,739,0,1],
 "d6/d4d/classspell__item__gor__dreks__ointment.html":[6,0,3263],
 "d6/d4d/classspell__item__gor__dreks__ointment.html#ad7b3235062959af1f28bb6c7b2f929c3":[6,0,3263,0],
 "d6/d4d/classspell__item__gor__dreks__ointment.html#ae35dad0d33ee0dd571a8f5fcccd2ce58":[6,0,3263,1],
@@ -219,9 +221,9 @@ var NAVTREEINDEX170 =
 "d6/d4f/BattlefieldWG_8h.html#af6f262846205790266deb3d01c08807d":[7,0,0,0,1,2,7,0,1,40],
 "d6/d4f/BattlefieldWG_8h.html#afa91bfae2586fced971723e0554a6ffb":[7,0,0,0,1,2,7,0,1,48],
 "d6/d4f/BattlefieldWG_8h.html#aff471fe9dd821b2acdbca9fc2aca81c7":[7,0,0,0,1,2,7,0,1,14],
-"d6/d4f/classboss__thorim__ancient__rune__giant.html":[6,0,736],
-"d6/d4f/classboss__thorim__ancient__rune__giant.html#aa8a0ff1416d5678a5d6bb7bdc36d6617":[6,0,736,2],
-"d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,736,1],
+"d6/d4f/classboss__thorim__ancient__rune__giant.html":[6,0,737],
+"d6/d4f/classboss__thorim__ancient__rune__giant.html#aa8a0ff1416d5678a5d6bb7bdc36d6617":[6,0,737,2],
+"d6/d4f/classboss__thorim__ancient__rune__giant.html#ad87dca7c6058e4b8b1234410644523dd":[6,0,737,1],
 "d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3115],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3115,0],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3115,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a":[7,0,0,0,1,3,2,9,0,11,1],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[7,0,0,0,1,3,2,9,0,11,5],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340e":[7,0,0,0,1,3,2,9,0,13],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f":[7,0,0,0,1,3,2,9,0,13,14],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902":[7,0,0,0,1,3,2,9,0,13,6],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04":[7,0,0,0,1,3,2,9,0,13,3]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f":[7,0,0,0,1,3,2,9,0,13,14]
 };

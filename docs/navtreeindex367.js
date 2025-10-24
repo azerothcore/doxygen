@@ -1,7 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617":[5,0,18,59,1],
-"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fae49ac758b8132c21c98556edf9b872d0":[5,0,18,59,5],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86faea6ff83bcbf7c67735734f7796329f3a":[5,0,18,59,4],
 "de/d72/namespacelfg.html#ab39552a59eefab4f8d1b8005203f9f94":[5,0,18,29],
 "de/d72/namespacelfg.html#abcc3483295387dfccf618b74e0b2baba":[5,0,18,40],
@@ -51,12 +49,12 @@ var NAVTREEINDEX367 =
 "de/d74/classnpc__ulduar__toasty__fire.html":[6,0,2248],
 "de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2248,2],
 "de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2248,1],
-"de/d75/classDelayedSummonEvent.html":[6,0,973],
-"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,973,2],
-"de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[6,0,973,3],
-"de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,973,0],
-"de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,973,1],
-"de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,973,4],
+"de/d75/classDelayedSummonEvent.html":[6,0,974],
+"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,974,2],
+"de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[6,0,974,3],
+"de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,974,0],
+"de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,974,1],
+"de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,974,4],
 "de/d75/classspell__dk__death__pact.html":[6,0,2769],
 "de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2769,3],
 "de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2769,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX367 =
 "de/d79/structMMAP_1_1IntermediateValues.html":[5,0,20,2],
 "de/d79/structMMAP_1_1IntermediateValues.html":[6,0,6,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[6,0,6,2,7],
-"de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[5,0,20,2,7]
+"de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[5,0,20,2,7],
+"de/d79/structMMAP_1_1IntermediateValues.html#a0fc4c5576e87ff3705763c3941252aa0":[6,0,6,2,8],
+"de/d79/structMMAP_1_1IntermediateValues.html#a0fc4c5576e87ff3705763c3941252aa0":[5,0,20,2,8]
 };

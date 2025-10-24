@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc7/structSpellEntry.html#a276e1d28376f888e58ad49a6561e904c":[6,0,4093,50],
+"d5/dc7/structSpellEntry.html#a297f6633f55b314bfb761473ce8bf40d":[6,0,4093,17],
 "d5/dc7/structSpellEntry.html#a2a1761914824472cbc7eb55293d1ff46":[6,0,4093,42],
 "d5/dc7/structSpellEntry.html#a2a76a4db284742bee6b7293fb291c18d":[6,0,4093,40],
 "d5/dc7/structSpellEntry.html#a2e383e622cc9856cff49dfd9319297ba":[6,0,4093,24],
@@ -76,12 +78,12 @@ var NAVTREEINDEX155 =
 "d5/dc7/structSpellEntry.html#af89b96363f1bde634ea89269fae39a2f":[6,0,4093,23],
 "d5/dc7/structSpellEntry.html#afa073582418fe03e3baa65778634563f":[6,0,4093,82],
 "d5/dc7/structSpellEntry.html#afd20211c0346e85509641da5c413f3de":[6,0,4093,6],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html":[6,0,740,0],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a1cb3ef9fdfc9e375d15e14b9230dd51e":[6,0,740,0,2],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a6ef7c9e23280564aec1b82eb670bc4f9":[6,0,740,0,4],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae00c9e72f14e3f2c94da118a1fe27130":[6,0,740,0,0],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae9043ed9b72cc0eda6fb7c859355da57":[6,0,740,0,1],
-"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#afd8e05444eeea620a7ef21e97c345d41":[6,0,740,0,3],
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html":[6,0,741,0],
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a1cb3ef9fdfc9e375d15e14b9230dd51e":[6,0,741,0,2],
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#a6ef7c9e23280564aec1b82eb670bc4f9":[6,0,741,0,4],
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae00c9e72f14e3f2c94da118a1fe27130":[6,0,741,0,0],
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#ae9043ed9b72cc0eda6fb7c859355da57":[6,0,741,0,1],
+"d5/dc7/structboss__thorim__pillar_1_1boss__thorim__pillarAI.html#afd8e05444eeea620a7ef21e97c345d41":[6,0,741,0,3],
 "d5/dc8/classspell__blood__queen__bloodbolt.html":[6,0,2665],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a1add221102b7067ffc130969f5172eae":[6,0,2665,4],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a46a43b9a8dec2f61aee3dccad4178a78":[6,0,2665,2],
@@ -144,9 +146,9 @@ var NAVTREEINDEX155 =
 "d5/dca/classspell__claw__rage__aura.html#a7ed214de6769314a45540e9afdb82949":[6,0,2718,3],
 "d5/dca/classspell__claw__rage__aura.html#aa541a8bc034517d1f5d034ac51bd8dac":[6,0,2718,0],
 "d5/dca/classspell__claw__rage__aura.html#abc166e4dc33e7bffd1d53c2ef8272efa":[6,0,2718,1],
-"d5/dcc/classboss__thorim__sif__blizzard.html":[6,0,743],
-"d5/dcc/classboss__thorim__sif__blizzard.html#acc42b4c9434f9eece2d93c2e4f3697fc":[6,0,743,1],
-"d5/dcc/classboss__thorim__sif__blizzard.html#afbff96363951c952a195f5c2a105e279":[6,0,743,2],
+"d5/dcc/classboss__thorim__sif__blizzard.html":[6,0,744],
+"d5/dcc/classboss__thorim__sif__blizzard.html#acc42b4c9434f9eece2d93c2e4f3697fc":[6,0,744,1],
+"d5/dcc/classboss__thorim__sif__blizzard.html#afbff96363951c952a195f5c2a105e279":[6,0,744,2],
 "d5/dcc/classspell__direbrew__disarm.html":[6,0,2746],
 "d5/dcc/classspell__direbrew__disarm.html#a0004de73250b8523db2b9ab714c8a246":[6,0,2746,3],
 "d5/dcc/classspell__direbrew__disarm.html#a051d292f9483e6b82d773fba3ab52460":[6,0,2746,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dce/outland__script__loader_8cpp.html#acc273464c0a5ce338fdb03fdd7877dd9":[7,0,0,0,1,3,7,8,98],
 "d5/dce/outland__script__loader_8cpp.html#acc5edb97f1bda7cd30a38061e4676698":[7,0,0,0,1,3,7,8,92],
 "d5/dce/outland__script__loader_8cpp.html#accf317168271361913093466ba7f8f0e":[7,0,0,0,1,3,7,8,84],
-"d5/dce/outland__script__loader_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[7,0,0,0,1,3,7,8,60],
-"d5/dce/outland__script__loader_8cpp.html#acec84fbe8af840c8c469310441c65025":[7,0,0,0,1,3,7,8,10],
-"d5/dce/outland__script__loader_8cpp.html#ad5a5411f82e58d3f11f4c053776e0c04":[7,0,0,0,1,3,7,8,41]
+"d5/dce/outland__script__loader_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[7,0,0,0,1,3,7,8,60]
 };

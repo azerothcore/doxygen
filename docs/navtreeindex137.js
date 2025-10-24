@@ -1,7 +1,5 @@
 var NAVTREEINDEX137 =
 {
-"d4/dd0/classWorldObject.html#a591fc0c62bfc8ea0042a0b19806833ee":[6,0,4314,99],
-"d4/dd0/classWorldObject.html#a59a21419b6f700ba5860857375694767":[6,0,4314,138],
 "d4/dd0/classWorldObject.html#a5a48ef13314db51b17350f07e7493622":[6,0,4314,96],
 "d4/dd0/classWorldObject.html#a5a9bc44a4e816fb45613e9a8f0c1f19f":[6,0,4314,161],
 "d4/dd0/classWorldObject.html#a5aeb0abbef432e4ce881455627d872d9":[6,0,4314,180],
@@ -15,7 +13,6 @@ var NAVTREEINDEX137 =
 "d4/dd0/classWorldObject.html#a632d2e78acdcbc0aef09951134340d4e":[6,0,4314,0],
 "d4/dd0/classWorldObject.html#a64beb0950f5e5207749ac5bba180ed31":[6,0,4314,46],
 "d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2":[6,0,4314,129],
-"d4/dd0/classWorldObject.html#a65d365616ec8f03b7dbb8fcfc6bcff0a":[6,0,4314,188],
 "d4/dd0/classWorldObject.html#a664e99edd35c98e8eb7f67476aa8082d":[6,0,4314,57],
 "d4/dd0/classWorldObject.html#a67c9fe1a567ad855dfd9be5cbebadca2":[6,0,4314,12],
 "d4/dd0/classWorldObject.html#a706cb4e6fa6302ffdbe48be2eb186896":[6,0,4314,72],
@@ -128,6 +125,7 @@ var NAVTREEINDEX137 =
 "d4/dd0/classWorldObject.html#af1a07406645d5615e49109837b613e11":[6,0,4314,131],
 "d4/dd0/classWorldObject.html#af1a74e9eefaea48e6f20eb91acb46b99":[6,0,4314,59],
 "d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce":[6,0,4314,171],
+"d4/dd0/classWorldObject.html#af308d81e688c5e11a2f2fbc5f5f18c79":[6,0,4314,188],
 "d4/dd0/classWorldObject.html#af5615d14f10bdc7546e4cbc0557370dd":[6,0,4314,148],
 "d4/dd0/classWorldObject.html#af6cb8a7e049199c45805f2d1297e9900":[6,0,4314,3],
 "d4/dd0/classWorldObject.html#afaa66ed9f285255b1a24e06eb7b4d6b7":[6,0,4314,18],
@@ -196,9 +194,9 @@ var NAVTREEINDEX137 =
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cad1dddd99751faef9e908cf6c011b854d":[7,0,0,0,1,3,7,1,5,17,5],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cafa170c538a2b96defdebd227451262fc":[7,0,0,0,1,3,7,1,5,17,11],
 "d4/dd3/boss__reliquary__of__souls_8cpp.html#a5bd342133be8c2137b831460acc9298cafb8dced78bd1feb6ddef65f694130abf":[7,0,0,0,1,3,7,1,5,17,20],
-"d4/dd3/classboss__mandokir.html":[6,0,612],
-"d4/dd3/classboss__mandokir.html#a215842d5ab23824ec20db64e2fa4407e":[6,0,612,2],
-"d4/dd3/classboss__mandokir.html#aad13c8302cef7fb4981f0d2178630def":[6,0,612,1],
+"d4/dd3/classboss__mandokir.html":[6,0,613],
+"d4/dd3/classboss__mandokir.html#a215842d5ab23824ec20db64e2fa4407e":[6,0,613,2],
+"d4/dd3/classboss__mandokir.html#aad13c8302cef7fb4981f0d2178630def":[6,0,613,1],
 "d4/dd3/classspell__hun__volley__trigger.html":[6,0,3145],
 "d4/dd3/classspell__hun__volley__trigger.html#a106cf5d53956b66f8f548caceda41dc8":[6,0,3145,2],
 "d4/dd3/classspell__hun__volley__trigger.html#a73865997890d4f58cc09d54c2c4e5243":[6,0,3145,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX137 =
 "d4/dd8/structAchievementCriteriaData.html#a0fc858d0a27adde6685e00b1ad073fa8":[6,0,110,27],
 "d4/dd8/structAchievementCriteriaData.html#a10abf16cc22c72aac4cadb6910457207":[6,0,110,17],
 "d4/dd8/structAchievementCriteriaData.html#a180c58322031bb3f00e6cf034fb29a1d":[6,0,110,45],
-"d4/dd8/structAchievementCriteriaData.html#a1aea048080854abb69165056688e9637":[6,0,110,25]
+"d4/dd8/structAchievementCriteriaData.html#a1aea048080854abb69165056688e9637":[6,0,110,25],
+"d4/dd8/structAchievementCriteriaData.html#a1bda3570b1adb636a60d8d94995adbcf":[6,0,110,26],
+"d4/dd8/structAchievementCriteriaData.html#a23373b6f321d0e144e30658cc335def9":[6,0,110,49]
 };

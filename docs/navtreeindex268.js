@@ -1,7 +1,5 @@
 var NAVTREEINDEX268 =
 {
-"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cade633953c0847a2e477be4083dd037bc":[7,0,0,0,1,2,16,7,5,87,0],
-"da/dbf/Player_8h.html#a845b4a4f1fbd851dbce7bb2890187eb8":[7,0,0,0,1,2,16,7,5,69],
 "da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9":[7,0,0,0,1,2,16,7,5,93],
 "da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9a973db66483b40dab11286f59062d2678":[7,0,0,0,1,2,16,7,5,93,1],
 "da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9aa3f8959351bc74f0fa1f77e1570e9aa2":[7,0,0,0,1,2,16,7,5,93,0],
@@ -241,13 +239,15 @@ var NAVTREEINDEX268 =
 "da/dbf/TypeContainerFunctionsPtr_8h.html#ae166e7e76c33c81464ce6c03126a9851":[7,0,0,0,0,6,6,4],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#ae7e83af9675f10ea565b725be25b8c5e":[7,0,0,0,0,6,6,8],
 "da/dbf/TypeContainerFunctionsPtr_8h.html#aecc909b333bb7f55f438bfcf1ea3085f":[7,0,0,0,0,6,6,14],
-"da/dc0/classboss__mimiron.html":[6,0,620],
-"da/dc0/classboss__mimiron.html#a1d4f38ecee62a2c2a608afc158fad7f2":[6,0,620,2],
-"da/dc0/classboss__mimiron.html#a72904837bd85e9f711fcf3da04c459c3":[6,0,620,1],
+"da/dc0/classboss__mimiron.html":[6,0,621],
+"da/dc0/classboss__mimiron.html#a1d4f38ecee62a2c2a608afc158fad7f2":[6,0,621,2],
+"da/dc0/classboss__mimiron.html#a72904837bd85e9f711fcf3da04c459c3":[6,0,621,1],
 "da/dc0/classnpc__ioc__gunship__captain.html":[6,0,1899],
 "da/dc0/classnpc__ioc__gunship__captain.html#a43f3ce178df31fbf693acbfa8c32a339":[6,0,1899,2],
 "da/dc0/classnpc__ioc__gunship__captain.html#a6463d7bc12d5fe4fc8921ba5916ec906":[6,0,1899,1],
 "da/dc1/classspell__karazhan__overload__aura.html":[6,0,3358],
 "da/dc1/classspell__karazhan__overload__aura.html#a267d6df2c08039581fd1c008ffc14b8c":[6,0,3358,0],
-"da/dc1/classspell__karazhan__overload__aura.html#a2681d44b149e9f1d797df4147e20e686":[6,0,3358,2]
+"da/dc1/classspell__karazhan__overload__aura.html#a2681d44b149e9f1d797df4147e20e686":[6,0,3358,2],
+"da/dc1/classspell__karazhan__overload__aura.html#a9a5f11a3024a14911b478cdf59a7abb9":[6,0,3358,3],
+"da/dc1/classspell__karazhan__overload__aura.html#ab75f10a475a4302897cbb90a3adb5b03":[6,0,3358,1]
 };

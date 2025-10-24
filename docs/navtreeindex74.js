@@ -1,7 +1,5 @@
 var NAVTREEINDEX74 =
 {
-"d2/dd6/classOutdoorPvP.html#a6613f7d2a606cc81fd57cce25d4157ac":[6,0,2349,41],
-"d2/dd6/classOutdoorPvP.html#a6bad4c8ea73facbfdc4a829f178e02df":[6,0,2349,4],
 "d2/dd6/classOutdoorPvP.html#a6d4bc806fdfe3032fc2937d34c222466":[6,0,2349,43],
 "d2/dd6/classOutdoorPvP.html#a73862168f52d9bc8881e18e6a8f9ba3f":[6,0,2349,42],
 "d2/dd6/classOutdoorPvP.html#a7618fecc9cabd1b1662ff7fb69eaa384":[6,0,2349,44],
@@ -52,8 +50,8 @@ var NAVTREEINDEX74 =
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2455],
@@ -241,13 +239,15 @@ var NAVTREEINDEX74 =
 "d2/de7/structLinkValidator_3_01LinkTags_1_1enchant_01_4.html":[6,0,1423],
 "d2/de7/structLinkValidator_3_01LinkTags_1_1enchant_01_4.html#a3b729ae39753a31c38c16e5186fe7f46":[6,0,1423,1],
 "d2/de7/structLinkValidator_3_01LinkTags_1_1enchant_01_4.html#ad9f1623f6e04696a0e3520d3996170e4":[6,0,1423,0],
-"d2/de7/structboss__noth_1_1boss__nothAI.html":[6,0,641,0],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a0a1f8e88396b04d070c4034b2419f0bb":[6,0,641,0,0],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a18dd73c178eff3170d371c4bd4062b76":[6,0,641,0,3],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a1d5b013cdbaab702a85fc1d344ad6f6a":[6,0,641,0,6],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a249c96d4230bd2b43c4be733317c4bc4":[6,0,641,0,14],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a311754fa1fa1b112272395179e3b1bff":[6,0,641,0,7],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a3ae5f948e2faf051b1cb88cd638c612e":[6,0,641,0,9],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a3f3e282c6ee1d259f1f2a401f6195251":[6,0,641,0,12],
-"d2/de7/structboss__noth_1_1boss__nothAI.html#a4e95ad18274331e402124d4a8424cb18":[6,0,641,0,13]
+"d2/de7/structboss__noth_1_1boss__nothAI.html":[6,0,642,0],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a0a1f8e88396b04d070c4034b2419f0bb":[6,0,642,0,0],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a18dd73c178eff3170d371c4bd4062b76":[6,0,642,0,3],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a1d5b013cdbaab702a85fc1d344ad6f6a":[6,0,642,0,6],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a249c96d4230bd2b43c4be733317c4bc4":[6,0,642,0,14],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a311754fa1fa1b112272395179e3b1bff":[6,0,642,0,7],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a3ae5f948e2faf051b1cb88cd638c612e":[6,0,642,0,9],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a3f3e282c6ee1d259f1f2a401f6195251":[6,0,642,0,12],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a4e95ad18274331e402124d4a8424cb18":[6,0,642,0,13],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a61e814ce0a861ba98ccc21d8d6df128a":[6,0,642,0,5],
+"d2/de7/structboss__noth_1_1boss__nothAI.html#a87f4e825fb8f9f48991d5dcf94af78e3":[6,0,642,0,11]
 };

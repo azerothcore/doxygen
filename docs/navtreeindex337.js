@@ -1,7 +1,5 @@
 var NAVTREEINDEX337 =
 {
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa277c4ceb154c858f20df1a3b2b9f23c0":[7,0,0,0,1,3,4,6,1,4,3],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa2f41794aafc9d878c1d2e3aa735cbf44":[7,0,0,0,1,3,4,6,1,4,4],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa328cf2425c283ee53d5cb9d660a11034":[7,0,0,0,1,3,4,6,1,4,0],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,6,1,4,15],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa5b99398ffec3de91807ff5682f0a7478":[7,0,0,0,1,3,4,6,1,4,10],
@@ -30,9 +28,9 @@ var NAVTREEINDEX337 =
 "dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22],
 "dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
 "dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
-"dd/dc9/classboss__festergut.html":[6,0,466],
-"dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,466,1],
-"dd/dc9/classboss__festergut.html#ab2624e1908bb376f1b195a88e4b9b146":[6,0,466,2],
+"dd/dc9/classboss__festergut.html":[6,0,467],
+"dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,467,1],
+"dd/dc9/classboss__festergut.html#ab2624e1908bb376f1b195a88e4b9b146":[6,0,467,2],
 "dd/dca/boss__moroes_8cpp.html":[7,0,0,0,1,3,2,4,4],
 "dd/dca/boss__moroes_8cpp.html#a23fefc79344f5bb5f9927175baf200b6":[7,0,0,0,1,3,2,4,4,7],
 "dd/dca/boss__moroes_8cpp.html#a2a6c515d8914dfc6bb22bcf5bde27cdc":[7,0,0,0,1,3,2,4,4,8],
@@ -144,8 +142,8 @@ var NAVTREEINDEX337 =
 "dd/dca/classnpc__spiritual__insight.html":[6,0,2136],
 "dd/dca/classnpc__spiritual__insight.html#ab2884e1160ccad9adb8e3ae69db55bc4":[6,0,2136,2],
 "dd/dca/classnpc__spiritual__insight.html#afe7b9d5953462719407f03b33b8de564":[6,0,2136,1],
-"dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
-"dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,29,0],
+"dd/dcb/BattlegroundMapScript_8cpp.html":[7,0,0,0,1,2,38,0,31],
+"dd/dcb/BattlegroundMapScript_8cpp.html#a79e6d39d74f9bbf97afe75113cd4db80":[7,0,0,0,1,2,38,0,31,0],
 "dd/dcb/PlayerScript_8h.html":[7,0,0,0,1,2,38,0,75],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357":[7,0,0,0,1,2,38,0,75,1],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a002be09105d92b7edefa4c442ce040e5":[7,0,0,0,1,2,38,0,75,1,160],
@@ -249,5 +247,7 @@ var NAVTREEINDEX337 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7bb8eb90ca195c4a126c319072b92de6":[7,0,0,0,1,2,38,0,75,1,173],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7cfbb437aa109eb58d3070c5c236c9ff":[7,0,0,0,1,2,38,0,75,1,28],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7d1badbd0381b9a5799bf4645653a974":[7,0,0,0,1,2,38,0,75,1,123],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7d229752f66ac8c079a61cbb3ab32b8a":[7,0,0,0,1,2,38,0,75,1,71]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7d229752f66ac8c079a61cbb3ab32b8a":[7,0,0,0,1,2,38,0,75,1,71],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7e2a326336ca7099aef3e83151b70bc6":[7,0,0,0,1,2,38,0,75,1,124],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a7f2bdff7cb3e890855c86e0efcd0e406":[7,0,0,0,1,2,38,0,75,1,54]
 };

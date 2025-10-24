@@ -1,7 +1,5 @@
 var NAVTREEINDEX57 =
 {
-"d2/d48/classspell__fungal__decay.html#acfa6b5217a0e0e2654b7fa9c4092abd5":[6,0,2895,2],
-"d2/d48/classspell__fungal__decay.html#adddddd0689f4686a40b1db142b5d6ce2":[6,0,2895,3],
 "d2/d48/classspell__illidan__shadow__prison.html":[6,0,3197],
 "d2/d48/classspell__illidan__shadow__prison.html#a5e191d4fca7cc95ddec8730cc3fd8ffe":[6,0,3197,2],
 "d2/d48/classspell__illidan__shadow__prison.html#a91b9fdebdffcae06da1882d7d46f5460":[6,0,3197,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX57 =
 "d2/d4b/classPlayer.html#a2ab5084784a427fa7f8397851d0d2944":[6,0,2405,582],
 "d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8":[6,0,2405,808],
 "d2/d4b/classPlayer.html#a2b1931c8e727a4535840037794a5cc74":[6,0,2405,282],
-"d2/d4b/classPlayer.html#a2b1cac0255250eb3b71dec198e9160ba":[6,0,2405,751]
+"d2/d4b/classPlayer.html#a2b1cac0255250eb3b71dec198e9160ba":[6,0,2405,751],
+"d2/d4b/classPlayer.html#a2b7579cb973f79b2886702c96721f594":[6,0,2405,455],
+"d2/d4b/classPlayer.html#a2b810d9a475295b78035b5ab108f8050":[6,0,2405,137]
 };

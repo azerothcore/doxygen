@@ -1,7 +1,5 @@
 var NAVTREEINDEX100 =
 {
-"d3/d6e/zone__sholazar__basin_8cpp.html#a1883add45af046436259359f02c04ec2a39ca4a34d502b521614837ccd05024f4":[7,0,0,0,1,3,5,22,27,0],
-"d3/d6e/zone__sholazar__basin_8cpp.html#a1883add45af046436259359f02c04ec2a47b797c89410730a116a23a4bce65fd9":[7,0,0,0,1,3,5,22,27,3],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a1883add45af046436259359f02c04ec2a53cd98707bca105d71108ebd95bed10c":[7,0,0,0,1,3,5,22,27,7],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a1883add45af046436259359f02c04ec2a6e3d3a044f6ca6e9faddc91e7d0a3d1f":[7,0,0,0,1,3,5,22,27,8],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a1883add45af046436259359f02c04ec2a7dd3f4c1a7f76d3c092bffcea720c07c":[7,0,0,0,1,3,5,22,27,4],
@@ -242,12 +240,14 @@ var NAVTREEINDEX100 =
 "d3/d79/instance__icecrown__citadel_8cpp.html#aeb1ee63bb2369e3d4813dbbb5648f36a":[7,0,0,0,1,3,5,6,15,19],
 "d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad":[7,0,0,0,1,3,5,6,15,14],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160":[7,0,0,0,1,3,5,6,15,17],
-"d3/d79/structboss__hazzarah.html":[6,0,522],
-"d3/d79/structboss__hazzarah.html#a18e382c03ff923bb851a9cd8e2541788":[6,0,522,2],
-"d3/d79/structboss__hazzarah.html#a1c3969fbc027f054598ec4123abd6fa4":[6,0,522,3],
-"d3/d79/structboss__hazzarah.html#a61d92f1650a84ed9684d33879e54bd09":[6,0,522,5],
-"d3/d79/structboss__hazzarah.html#a73ba49b91addc9c03e1692587fe66a52":[6,0,522,0],
-"d3/d79/structboss__hazzarah.html#a9038a5b4276fda8a6865217a7c494eec":[6,0,522,1],
-"d3/d79/structboss__hazzarah.html#aac0c990013edf1968d33aeb59d4f05b0":[6,0,522,4],
-"d3/d7a/classspell__karazhan__blink.html":[6,0,3356]
+"d3/d79/structboss__hazzarah.html":[6,0,523],
+"d3/d79/structboss__hazzarah.html#a18e382c03ff923bb851a9cd8e2541788":[6,0,523,2],
+"d3/d79/structboss__hazzarah.html#a1c3969fbc027f054598ec4123abd6fa4":[6,0,523,3],
+"d3/d79/structboss__hazzarah.html#a61d92f1650a84ed9684d33879e54bd09":[6,0,523,5],
+"d3/d79/structboss__hazzarah.html#a73ba49b91addc9c03e1692587fe66a52":[6,0,523,0],
+"d3/d79/structboss__hazzarah.html#a9038a5b4276fda8a6865217a7c494eec":[6,0,523,1],
+"d3/d79/structboss__hazzarah.html#aac0c990013edf1968d33aeb59d4f05b0":[6,0,523,4],
+"d3/d7a/classspell__karazhan__blink.html":[6,0,3356],
+"d3/d7a/classspell__karazhan__blink.html#a02b89ff0a3ea53bb2740c7deb51279c2":[6,0,3356,0],
+"d3/d7a/classspell__karazhan__blink.html#a17784359e300e9d66c0c22bc5e7b6f6c":[6,0,3356,2]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX335 =
 {
-"dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3faa2f8e63a003a0b97aac6607ede1f3f3b7":[7,0,0,0,1,3,5,4,2,5,8,1],
-"dd/dac/pit__of__saron_8h.html#aae4d1cc157d63faa67b8f272b643c977":[7,0,0,0,1,3,5,4,2,5,27],
 "dd/dac/pit__of__saron_8h.html#abd10aa8c3d121fbc5a908fa4779f77c2":[7,0,0,0,1,3,5,4,2,5,29],
 "dd/dac/pit__of__saron_8h.html#abeaa4f36310dad260da44b4e0daf43a0":[7,0,0,0,1,3,5,4,2,5,19],
 "dd/dac/pit__of__saron_8h.html#ac8331e51ea541bfd050c3deb5dc0a07a":[7,0,0,0,1,3,5,4,2,5,5],
@@ -65,8 +63,8 @@ var NAVTREEINDEX335 =
 "dd/dac/structModelEquip.html#a9de7aa11788b22692738b72718193057":[6,0,1519,3],
 "dd/dac/structModelEquip.html#ade2b2413020be410428b9fee9aa284d6":[6,0,1519,2],
 "dd/dac/structModelEquip.html#af7f6e5bbb8327e5abf4e17a8a164cc4d":[6,0,1519,1],
-"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,6],
-"dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,6,0],
+"dd/dad/AllBattlegroundScript_8cpp.html":[7,0,0,0,1,2,38,0,8],
+"dd/dad/AllBattlegroundScript_8cpp.html#a4a1c5c34c42d3aaca9edc12feb3f7575":[7,0,0,0,1,2,38,0,8,0],
 "dd/dad/PetitionMgr_8h.html":[7,0,0,0,1,2,33,1],
 "dd/dad/PetitionMgr_8h.html#a223a8d1b8f865a0d4e8f100758e36bce":[7,0,0,0,1,2,33,1,5],
 "dd/dad/PetitionMgr_8h.html#a2910b9c8b8c58925b562acf66b3e46d2":[7,0,0,0,1,2,33,1,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX335 =
 "dd/db3/classReputationMgr.html#a9239092547e4d414ac9acb0efbc9175b":[6,0,2499,42],
 "dd/db3/classReputationMgr.html#a92409ea5f59a8240fa43026b4edd9663":[6,0,2499,37],
 "dd/db3/classReputationMgr.html#a93b3d69fba645e49347825678c8f23f4":[6,0,2499,23],
-"dd/db3/classReputationMgr.html#a9630b6dd11afbe3ce28297a23b1b4c94":[6,0,2499,14]
+"dd/db3/classReputationMgr.html#a9630b6dd11afbe3ce28297a23b1b4c94":[6,0,2499,14],
+"dd/db3/classReputationMgr.html#a9ae73ca846cc87d0af038414f76af880":[6,0,2499,47],
+"dd/db3/classReputationMgr.html#aa1771208a72c53e3700357e75aca4108":[6,0,2499,43]
 };

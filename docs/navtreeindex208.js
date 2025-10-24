@@ -1,5 +1,7 @@
 var NAVTREEINDEX208 =
 {
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343":[7,0,0,0,1,2,16,10,6,18],
+"d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a2a68c5a1b9533356c3ad598fe72ee951":[7,0,0,0,1,2,16,10,6,18,3],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a4430ff1eaa752bd460f0f69bc74af7db":[7,0,0,0,1,2,16,10,6,18,4],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343a6856bef881835abf4ffdab1928fd0993":[7,0,0,0,1,2,16,10,6,18,5],
 "d7/df1/UnitDefines_8h.html#a88cad5664df249863d4ebed6162a2343ae7a00847753ec69b3b36986ea7a94a7b":[7,0,0,0,1,2,16,10,6,18,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX208 =
 "d7/df8/classnpc__icc__skybreaker__luminary.html#ad1378aaa7438758f8a796d8e74ae0ce8":[6,0,1875,2],
 "d7/df8/classnpc__icc__skybreaker__luminary.html#aff97d0425cf86a8b411ef3e2bd0cc054":[6,0,1875,1],
 "d7/df9/classnpc__suns__reach__reclamation.html":[6,0,2152],
-"d7/df9/classnpc__suns__reach__reclamation.html#a459e53b21778cf901cbbb15c9f6e5cdd":[6,0,2152,1],
-"d7/df9/classnpc__suns__reach__reclamation.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb":[6,0,2152,0],
-"d7/df9/classspell__blood__queen__pact__of__the__darkfallen__dmg__aura.html":[6,0,2669]
+"d7/df9/classnpc__suns__reach__reclamation.html#a459e53b21778cf901cbbb15c9f6e5cdd":[6,0,2152,1]
 };

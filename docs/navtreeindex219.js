@@ -1,7 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d74/classWorldSession.html#ae0d14c8db54a44294591850fc1310b99":[4,1,19,612],
-"d8/d74/classWorldSession.html#ae0e743d72f66c8ae96d9bec226fa9ad6":[4,1,19,473],
 "d8/d74/classWorldSession.html#ae14545720441b77293f6d3a10ac19aca":[4,1,19,337],
 "d8/d74/classWorldSession.html#ae1e51c0a1aec5ba7fe5ce1b667f7e5ca":[4,1,19,444],
 "d8/d74/classWorldSession.html#ae378b63bf37b36301ca419a7de311369":[4,1,19,433],
@@ -135,16 +133,16 @@ var NAVTREEINDEX219 =
 "d8/d77/classachievement__save__the__day.html":[6,0,86],
 "d8/d77/classachievement__save__the__day.html#a193e4060b6634a87b499b7c8a5e287a1":[6,0,86,0],
 "d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[6,0,86,1],
-"d8/d78/classDeathEvent.html":[6,0,965],
-"d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,965,2],
-"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,965,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,965,1],
+"d8/d78/classDeathEvent.html":[6,0,966],
+"d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,966,2],
+"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,966,0],
+"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,966,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1581],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1581,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1581,7],
@@ -249,5 +247,7 @@ var NAVTREEINDEX219 =
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a69b395a9b9504737109870c5e8db74c8":[6,0,1902,0,3],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ab40287c6bfc67b09bf7336ea53116cab":[6,0,1902,0,2],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ac7132ac84a64bccbcf8895cbc4a86f9c":[6,0,1902,0,1],
-"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#af4b8c80e7443bb671be253238b124910":[6,0,1902,0,4]
+"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#af4b8c80e7443bb671be253238b124910":[6,0,1902,0,4],
+"d8/d82/boss__nightbane_8cpp.html":[7,0,0,0,1,3,2,4,6],
+"d8/d82/boss__nightbane_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,4,6,8]
 };

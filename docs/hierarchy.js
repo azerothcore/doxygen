@@ -3226,6 +3226,7 @@ var hierarchy =
     [ "ScriptInfo", "d2/d8f/structScriptInfo.html", null ],
     [ "ScriptMgr", "d2/d73/classScriptMgr.html", null ],
     [ "ScriptObject", "d8/d9a/classScriptObject.html", [
+      [ "ALEScript", "d4/dd9/classALEScript.html", null ],
       [ "AccountScript", "df/d30/classAccountScript.html", [
         [ "AccountActionIpLogger", "de/db3/classAccountActionIpLogger.html", null ]
       ] ],
@@ -4215,7 +4216,6 @@ var hierarchy =
       ] ],
       [ "DatabaseScript", "d6/d6e/classDatabaseScript.html", null ],
       [ "DynamicObjectScript", "d7/db2/classDynamicObjectScript.html", null ],
-      [ "ElunaScript", "d8/d0f/classElunaScript.html", null ],
       [ "FormulaScript", "d8/d09/classFormulaScript.html", null ],
       [ "GameEventScript", "d2/d48/classGameEventScript.html", null ],
       [ "GameObjectScript", "dd/de9/classGameObjectScript.html", [

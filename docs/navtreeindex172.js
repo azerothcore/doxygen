@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#a0208fbae8e6c46d0671107530279c50c":[6,0,2068,0,2],
+"d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#aa31baac9ce3c4c951f93917b88390797":[6,0,2068,0,1],
 "d6/d5e/structnpc__q24545__vegard__dummy_1_1npc__q24545__vegard__dummyAI.html#ad354ccbe97b12f8df1186de4bf52bfcc":[6,0,2068,0,0],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html":[7,0,0,0,1,3,2,1,1,8],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a191e88b101ff3e6db86a2b5b93feb9a5":[7,0,0,0,1,3,2,1,1,8,8],
@@ -120,10 +122,10 @@ var NAVTREEINDEX172 =
 "d6/d65/structnpc__grizzlemaw__cw__trigger_1_1npc__grizzlemaw__cw__triggerAI.html":[6,0,1822,0],
 "d6/d65/structnpc__grizzlemaw__cw__trigger_1_1npc__grizzlemaw__cw__triggerAI.html#a40207493c75d8a63284e08f1f75d56c4":[6,0,1822,0,0],
 "d6/d65/structnpc__grizzlemaw__cw__trigger_1_1npc__grizzlemaw__cw__triggerAI.html#aef49ccdae1aff20fc469f0aa2663d8af":[6,0,1822,0,1],
-"d6/d66/classDBUpdaterUtil.html":[6,0,964],
-"d6/d66/classDBUpdaterUtil.html#a31499b458f0ff0ec518980f51d6a242a":[6,0,964,1],
-"d6/d66/classDBUpdaterUtil.html#a65cf44a18a72ba92f91a667e41f9da80":[6,0,964,0],
-"d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9":[6,0,964,2],
+"d6/d66/classDBUpdaterUtil.html":[6,0,965],
+"d6/d66/classDBUpdaterUtil.html#a31499b458f0ff0ec518980f51d6a242a":[6,0,965,1],
+"d6/d66/classDBUpdaterUtil.html#a65cf44a18a72ba92f91a667e41f9da80":[6,0,965,0],
+"d6/d66/classDBUpdaterUtil.html#a8ab8efffe5408f97f438e06766f65ec9":[6,0,965,2],
 "d6/d66/classGameObjectAI.html":[6,0,1080],
 "d6/d66/classGameObjectAI.html#a0d1207e28b98c2b92715a1a920f1a465":[6,0,1080,8],
 "d6/d66/classGameObjectAI.html#a17d3fa0b7adc67f7d5967b15bd585b93":[6,0,1080,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f":[7,0,0,0,1,3,7,5,2,5,3,2],
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea":[7,0,0,0,1,3,7,5,2,5,3,0],
 "d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a7913656ef56deb3793c0c5f3d999d80d":[7,0,0,0,1,3,7,5,2,5,3,4],
-"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e":[7,0,0,0,1,3,7,5,2,5,3,8],
-"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a9459cb9bb83f7a23115debb607cb25a3":[7,0,0,0,1,3,7,5,2,5,3,3],
-"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a98fbd26f079dc1afe0d3ffee6577f5ec":[7,0,0,0,1,3,7,5,2,5,3,10]
+"d6/d68/the__eye_8h.html#aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e":[7,0,0,0,1,3,7,5,2,5,3,8]
 };
