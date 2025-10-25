@@ -174,8 +174,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
-<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -586,7 +584,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  337</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  336</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -615,37 +613,37 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  405</span>        {</div>
-<div class="line"><span class="lineno">  406</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a>)</div>
-<div class="line"><span class="lineno">  407</span>            {</div>
-<div class="line"><span class="lineno">  408</span>                <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* ardonis = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_struct" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html">CreatureEntry</a>[0], 10.0f);</div>
-<div class="line"><span class="lineno">  409</span>                <span class="keywordflow">if</span> (!ardonis)</div>
-<div class="line"><span class="lineno">  410</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  411</span> </div>
-<div class="line"><span class="lineno">  412</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a> = ardonis-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  413</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">PlayerGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  414</span> </div>
-<div class="line"><span class="lineno">  415</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  416</span> </div>
-<div class="line"><span class="lineno">  417</span>                <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0">Turn_to_eachother</a>();</div>
-<div class="line"><span class="lineno">  418</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  419</span>            }</div>
-<div class="line"><span class="lineno">  420</span> </div>
-<div class="line"><span class="lineno">  421</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;scripts.ai&quot;</span>, <span class="stringliteral">&quot;npc_commander_dawnforge event already in progress, need to wait.&quot;</span>);</div>
-<div class="line"><span class="lineno">  422</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  423</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  404</span>        {</div>
+<div class="line"><span class="lineno">  405</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a>)</div>
+<div class="line"><span class="lineno">  406</span>            {</div>
+<div class="line"><span class="lineno">  407</span>                <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* ardonis = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_struct" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html">CreatureEntry</a>[0], 10.0f);</div>
+<div class="line"><span class="lineno">  408</span>                <span class="keywordflow">if</span> (!ardonis)</div>
+<div class="line"><span class="lineno">  409</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  410</span> </div>
+<div class="line"><span class="lineno">  411</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a> = ardonis-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  412</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">PlayerGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  413</span> </div>
+<div class="line"><span class="lineno">  414</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  415</span> </div>
+<div class="line"><span class="lineno">  416</span>                <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0">Turn_to_eachother</a>();</div>
+<div class="line"><span class="lineno">  417</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  418</span>            }</div>
+<div class="line"><span class="lineno">  419</span> </div>
+<div class="line"><span class="lineno">  420</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;scripts.ai&quot;</span>, <span class="stringliteral">&quot;npc_commander_dawnforge event already in progress, need to wait.&quot;</span>);</div>
+<div class="line"><span class="lineno">  421</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  422</span>        }</div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:170</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2446</div></div>
 <div class="ttc" id="astructAcore_1_1ChatCommands_1_1Variant_html"><div class="ttname"><a href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html">Acore::ChatCommands::Variant</a></div><div class="ttdef"><b>Definition</b> ChatCommandTags.h:253</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a7442d526cc09f98a3cd53749e09fb6f0"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0">npc_commander_dawnforge::npc_commander_dawnforgeAI::Turn_to_eachother</a></div><div class="ttdeci">void Turn_to_eachother()</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:388</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a93cf7cfcf3197543c3878278d99ff980"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">npc_commander_dawnforge::npc_commander_dawnforgeAI::isEvent</a></div><div class="ttdeci">bool isEvent</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:346</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_ab6c0afdc952c048efeea9d665075c54f"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">npc_commander_dawnforge::npc_commander_dawnforgeAI::PlayerGUID</a></div><div class="ttdeci">ObjectGuid PlayerGUID</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:339</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_ad0f1b869b85c8a94e84be5714a191cab"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">npc_commander_dawnforge::npc_commander_dawnforgeAI::ardonisGUID</a></div><div class="ttdeci">ObjectGuid ardonisGUID</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:340</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a7442d526cc09f98a3cd53749e09fb6f0"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0">npc_commander_dawnforge::npc_commander_dawnforgeAI::Turn_to_eachother</a></div><div class="ttdeci">void Turn_to_eachother()</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:387</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a93cf7cfcf3197543c3878278d99ff980"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">npc_commander_dawnforge::npc_commander_dawnforgeAI::isEvent</a></div><div class="ttdeci">bool isEvent</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:345</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_ab6c0afdc952c048efeea9d665075c54f"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">npc_commander_dawnforge::npc_commander_dawnforgeAI::PlayerGUID</a></div><div class="ttdeci">ObjectGuid PlayerGUID</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:338</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_ad0f1b869b85c8a94e84be5714a191cab"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">npc_commander_dawnforge::npc_commander_dawnforgeAI::ardonisGUID</a></div><div class="ttdeci">ObjectGuid ardonisGUID</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:339</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l02446">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00346">isEvent</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00339">PlayerGUID</a>, and <a class="el" href="../../#l00388">Turn_to_eachother()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ardonisGUID</a>, <a class="el" href="../../#l02446">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00345">isEvent</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00338">PlayerGUID</a>, and <a class="el" href="../../#l00387">Turn_to_eachother()</a>.</p>
 
 </div>
 </div>
@@ -676,7 +674,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  360</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  359</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -705,12 +703,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  363</span>        {</div>
-<div class="line"><span class="lineno">  364</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a> = summoned-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  365</span>        }</div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a9b20a0ad46dc0be2fe1a65072eb3477a"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">npc_commander_dawnforge::npc_commander_dawnforgeAI::pathaleonGUID</a></div><div class="ttdeci">ObjectGuid pathaleonGUID</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:341</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  362</span>        {</div>
+<div class="line"><span class="lineno">  363</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a> = summoned-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  364</span>        }</div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a9b20a0ad46dc0be2fe1a65072eb3477a"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">npc_commander_dawnforge::npc_commander_dawnforgeAI::pathaleonGUID</a></div><div class="ttdeci">ObjectGuid pathaleonGUID</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:340</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00341">pathaleonGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00340">pathaleonGUID</a>.</p>
 
 </div>
 </div>
@@ -738,24 +736,24 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  349</span>        {</div>
-<div class="line"><span class="lineno">  350</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">PlayerGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  351</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  352</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  353</span> </div>
-<div class="line"><span class="lineno">  354</span>            <a class="code hl_enumeration" href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a> = 1;</div>
-<div class="line"><span class="lineno">  355</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
-<div class="line"><span class="lineno">  356</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 4000;</div>
-<div class="line"><span class="lineno">  357</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  358</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  348</span>        {</div>
+<div class="line"><span class="lineno">  349</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">PlayerGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  350</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  351</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  352</span> </div>
+<div class="line"><span class="lineno">  353</span>            <a class="code hl_enumeration" href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a> = 1;</div>
+<div class="line"><span class="lineno">  354</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
+<div class="line"><span class="lineno">  355</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 4000;</div>
+<div class="line"><span class="lineno">  356</span>            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  357</span>        }</div>
 <div class="ttc" id="aboss__zuljin_8cpp_html_ae1c5184dc404edf057ed537bcfddef84"><div class="ttname"><a href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a></div><div class="ttdeci">Phase</div><div class="ttdef"><b>Definition</b> boss_zuljin.cpp:82</div></div>
 <div class="ttc" id="aclassObjectGuid_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:138</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a798cf4bf43df377f764dac07c13bc676"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">npc_commander_dawnforge::npc_commander_dawnforgeAI::Phase_Timer</a></div><div class="ttdeci">uint32 Phase_Timer</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:345</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_ae8f5216936ce3a3b5aa9d5b773521523"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">npc_commander_dawnforge::npc_commander_dawnforgeAI::PhaseSubphase</a></div><div class="ttdeci">uint32 PhaseSubphase</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:344</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a798cf4bf43df377f764dac07c13bc676"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">npc_commander_dawnforge::npc_commander_dawnforgeAI::Phase_Timer</a></div><div class="ttdeci">uint32 Phase_Timer</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:344</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_ae8f5216936ce3a3b5aa9d5b773521523"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">npc_commander_dawnforge::npc_commander_dawnforgeAI::PhaseSubphase</a></div><div class="ttdeci">uint32 PhaseSubphase</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:343</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00346">isEvent</a>, <a class="el" href="../../#l00341">pathaleonGUID</a>, <a class="el" href="../../#l00345">Phase_Timer</a>, <a class="el" href="../../#l00344">PhaseSubphase</a>, and <a class="el" href="../../#l00339">PlayerGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ardonisGUID</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00345">isEvent</a>, <a class="el" href="../../#l00340">pathaleonGUID</a>, <a class="el" href="../../#l00344">Phase_Timer</a>, <a class="el" href="../../#l00343">PhaseSubphase</a>, and <a class="el" href="../../#l00338">PlayerGUID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -781,29 +779,29 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  389</span>        {</div>
-<div class="line"><span class="lineno">  390</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>))</div>
-<div class="line"><span class="lineno">  391</span>            {</div>
-<div class="line"><span class="lineno">  392</span>                <span class="comment">// Turn Dawnforge</span></div>
-<div class="line"><span class="lineno">  393</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(ardonis);</div>
-<div class="line"><span class="lineno">  394</span> </div>
-<div class="line"><span class="lineno">  395</span>                <span class="comment">// Turn Ardonis</span></div>
-<div class="line"><span class="lineno">  396</span>                ardonis-&gt;SetFacingToObject(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  397</span> </div>
-<div class="line"><span class="lineno">  398</span>                <span class="comment">//Set state</span></div>
-<div class="line"><span class="lineno">  399</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
-<div class="line"><span class="lineno">  400</span>                ardonis-&gt;SetStandState(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
-<div class="line"><span class="lineno">  401</span>            }</div>
-<div class="line"><span class="lineno">  402</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  388</span>        {</div>
+<div class="line"><span class="lineno">  389</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>))</div>
+<div class="line"><span class="lineno">  390</span>            {</div>
+<div class="line"><span class="lineno">  391</span>                <span class="comment">// Turn Dawnforge</span></div>
+<div class="line"><span class="lineno">  392</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(ardonis);</div>
+<div class="line"><span class="lineno">  393</span> </div>
+<div class="line"><span class="lineno">  394</span>                <span class="comment">// Turn Ardonis</span></div>
+<div class="line"><span class="lineno">  395</span>                ardonis-&gt;SetFacingToObject(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  396</span> </div>
+<div class="line"><span class="lineno">  397</span>                <span class="comment">//Set state</span></div>
+<div class="line"><span class="lineno">  398</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
+<div class="line"><span class="lineno">  399</span>                ardonis-&gt;SetStandState(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
+<div class="line"><span class="lineno">  400</span>            }</div>
+<div class="line"><span class="lineno">  401</span>        }</div>
 <div class="ttc" id="aUnitDefines_8h_html_a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a></div><div class="ttdeci">@ UNIT_STAND_STATE_STAND</div><div class="ttdef"><b>Definition</b> UnitDefines.h:32</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:628</div></div>
-<div class="ttc" id="aclassUnit_html_a0e580411696501dcadadf1db0c34bd19"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">Unit::SetFacingToObject</a></div><div class="ttdeci">void SetFacingToObject(WorldObject *object, Milliseconds timed=0ms)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20343</div></div>
-<div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16802</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
+<div class="ttc" id="aclassUnit_html_a0e580411696501dcadadf1db0c34bd19"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">Unit::SetFacingToObject</a></div><div class="ttdeci">void SetFacingToObject(WorldObject *object, Milliseconds timed=0ms)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20282</div></div>
+<div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16741</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l20343">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ardonisGUID</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l20282">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16741">Unit::SetStandState()</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00404">CanStartEvent()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00403">CanStartEvent()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -829,29 +827,29 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  369</span>        {</div>
-<div class="line"><span class="lineno">  370</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>);</div>
-<div class="line"><span class="lineno">  371</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pathaleon = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a>);</div>
-<div class="line"><span class="lineno">  372</span> </div>
-<div class="line"><span class="lineno">  373</span>            <span class="keywordflow">if</span> (!ardonis || !pathaleon)</div>
-<div class="line"><span class="lineno">  374</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  375</span> </div>
-<div class="line"><span class="lineno">  376</span>            <span class="comment">// Turn Dawnforge</span></div>
-<div class="line"><span class="lineno">  377</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(pathaleon);</div>
-<div class="line"><span class="lineno">  378</span> </div>
-<div class="line"><span class="lineno">  379</span>            <span class="comment">// Turn Ardonis</span></div>
-<div class="line"><span class="lineno">  380</span>            ardonis-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(pathaleon);</div>
-<div class="line"><span class="lineno">  381</span> </div>
-<div class="line"><span class="lineno">  382</span>            <span class="comment">//Set them to kneel</span></div>
-<div class="line"><span class="lineno">  383</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a>);</div>
-<div class="line"><span class="lineno">  384</span>            ardonis-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a>);</div>
-<div class="line"><span class="lineno">  385</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  368</span>        {</div>
+<div class="line"><span class="lineno">  369</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>);</div>
+<div class="line"><span class="lineno">  370</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pathaleon = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a>);</div>
+<div class="line"><span class="lineno">  371</span> </div>
+<div class="line"><span class="lineno">  372</span>            <span class="keywordflow">if</span> (!ardonis || !pathaleon)</div>
+<div class="line"><span class="lineno">  373</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  374</span> </div>
+<div class="line"><span class="lineno">  375</span>            <span class="comment">// Turn Dawnforge</span></div>
+<div class="line"><span class="lineno">  376</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(pathaleon);</div>
+<div class="line"><span class="lineno">  377</span> </div>
+<div class="line"><span class="lineno">  378</span>            <span class="comment">// Turn Ardonis</span></div>
+<div class="line"><span class="lineno">  379</span>            ardonis-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0e580411696501dcadadf1db0c34bd19">SetFacingToObject</a>(pathaleon);</div>
+<div class="line"><span class="lineno">  380</span> </div>
+<div class="line"><span class="lineno">  381</span>            <span class="comment">//Set them to kneel</span></div>
+<div class="line"><span class="lineno">  382</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a>);</div>
+<div class="line"><span class="lineno">  383</span>            ardonis-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a>);</div>
+<div class="line"><span class="lineno">  384</span>        }</div>
 <div class="ttc" id="aUnitDefines_8h_html_a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1aad089803e61f5cfaa5bca70ceaf3ffee">UNIT_STAND_STATE_KNEEL</a></div><div class="ttdeci">@ UNIT_STAND_STATE_KNEEL</div><div class="ttdef"><b>Definition</b> UnitDefines.h:40</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a8d1cda6b98832b29fcb437c654fd8ae9"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(WorldObject const &amp;u, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00341">pathaleonGUID</a>, <a class="el" href="../../#l20343">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, and <a class="el" href="../../#l00040">UNIT_STAND_STATE_KNEEL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ardonisGUID</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00340">pathaleonGUID</a>, <a class="el" href="../../#l20282">Unit::SetFacingToObject()</a>, <a class="el" href="../../#l16741">Unit::SetStandState()</a>, and <a class="el" href="../../#l00040">UNIT_STAND_STATE_KNEEL</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -882,135 +880,135 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#affa24c62af088b4b216aaa4789f6a40e" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  426</span>        {</div>
-<div class="line"><span class="lineno">  427</span>            <span class="comment">//Is event even running?</span></div>
-<div class="line"><span class="lineno">  428</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a>)</div>
-<div class="line"><span class="lineno">  429</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  430</span> </div>
-<div class="line"><span class="lineno">  431</span>            <span class="comment">//Phase timing</span></div>
-<div class="line"><span class="lineno">  432</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> &gt;= diff)</div>
-<div class="line"><span class="lineno">  433</span>            {</div>
-<div class="line"><span class="lineno">  434</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> -= diff;</div>
-<div class="line"><span class="lineno">  435</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  436</span>            }</div>
-<div class="line"><span class="lineno">  437</span> </div>
-<div class="line"><span class="lineno">  438</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>);</div>
-<div class="line"><span class="lineno">  439</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pathaleon = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a>);</div>
-<div class="line"><span class="lineno">  440</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">PlayerGUID</a>);</div>
-<div class="line"><span class="lineno">  441</span> </div>
-<div class="line"><span class="lineno">  442</span>            <span class="keywordflow">if</span> (!ardonis || !player)</div>
-<div class="line"><span class="lineno">  443</span>            {</div>
-<div class="line"><span class="lineno">  444</span>                <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">Reset</a>();</div>
-<div class="line"><span class="lineno">  445</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  446</span>            }</div>
-<div class="line"><span class="lineno">  447</span> </div>
-<div class="line"><span class="lineno">  448</span>            <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a> &gt; 4 &amp;&amp; !pathaleon)</div>
-<div class="line"><span class="lineno">  449</span>            {</div>
-<div class="line"><span class="lineno">  450</span>                <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">Reset</a>();</div>
-<div class="line"><span class="lineno">  451</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  452</span>            }</div>
-<div class="line"><span class="lineno">  453</span> </div>
-<div class="line"><span class="lineno">  454</span>            <span class="comment">//Phase 1 Dawnforge say</span></div>
-<div class="line"><span class="lineno">  455</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a>)</div>
-<div class="line"><span class="lineno">  456</span>            {</div>
-<div class="line"><span class="lineno">  457</span>                <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  458</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647">SAY_COMMANDER_DAWNFORGE_1</a>);</div>
-<div class="line"><span class="lineno">  459</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  460</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
-<div class="line"><span class="lineno">  461</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  462</span>                <span class="comment">//Phase 2 Ardonis say</span></div>
-<div class="line"><span class="lineno">  463</span>                <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno">  464</span>                    ardonis-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d">SAY_ARCANIST_ARDONIS_1</a>);</div>
-<div class="line"><span class="lineno">  465</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  466</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
-<div class="line"><span class="lineno">  467</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  468</span>                <span class="comment">//Phase 3 Dawnforge say</span></div>
-<div class="line"><span class="lineno">  469</span>                <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno">  470</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1">SAY_COMMANDER_DAWNFORGE_2</a>);</div>
-<div class="line"><span class="lineno">  471</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  472</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
-<div class="line"><span class="lineno">  473</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  474</span>                <span class="comment">//Phase 4 Pathaleon spawns up to phase 9</span></div>
-<div class="line"><span class="lineno">  475</span>                <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno">  476</span>                    <span class="comment">//spawn pathaleon&#39;s image</span></div>
-<div class="line"><span class="lineno">  477</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_struct" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html">CreatureEntry</a>[2], 2325.851563f, 2799.534668f, 133.084229f, 6.038996f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a>, 90000);</div>
-<div class="line"><span class="lineno">  478</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  479</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 500;</div>
-<div class="line"><span class="lineno">  480</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  481</span>                <span class="comment">//Phase 5 Pathaleon say</span></div>
-<div class="line"><span class="lineno">  482</span>                <span class="keywordflow">case</span> 5:</div>
-<div class="line"><span class="lineno">  483</span>                    pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680">SAY_PATHALEON_CULATOR_IMAGE_1</a>);</div>
-<div class="line"><span class="lineno">  484</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  485</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 6000;</div>
-<div class="line"><span class="lineno">  486</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  487</span>                <span class="comment">//Phase 6</span></div>
-<div class="line"><span class="lineno">  488</span>                <span class="keywordflow">case</span> 6:</div>
-<div class="line"><span class="lineno">  489</span>                    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>)</div>
-<div class="line"><span class="lineno">  490</span>                    {</div>
-<div class="line"><span class="lineno">  491</span>                        <span class="comment">//Subphase 1: Turn Dawnforge and Ardonis</span></div>
-<div class="line"><span class="lineno">  492</span>                        <span class="keywordflow">case</span> 0:</div>
-<div class="line"><span class="lineno">  493</span>                            <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a88cca74225a0099c85bb661c7f2ad382">Turn_to_Pathaleons_Image</a>();</div>
-<div class="line"><span class="lineno">  494</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>;</div>
-<div class="line"><span class="lineno">  495</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 8000;</div>
-<div class="line"><span class="lineno">  496</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  497</span>                        <span class="comment">//Subphase 2 Dawnforge say</span></div>
-<div class="line"><span class="lineno">  498</span>                        <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  499</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803">SAY_COMMANDER_DAWNFORGE_3</a>);</div>
-<div class="line"><span class="lineno">  500</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
-<div class="line"><span class="lineno">  501</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  502</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 8000;</div>
-<div class="line"><span class="lineno">  503</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  504</span>                    }</div>
-<div class="line"><span class="lineno">  505</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  506</span>                <span class="comment">//Phase 7 Pathaleons say 3 Sentence, every sentence need a subphase</span></div>
-<div class="line"><span class="lineno">  507</span>                <span class="keywordflow">case</span> 7:</div>
-<div class="line"><span class="lineno">  508</span>                    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>)</div>
-<div class="line"><span class="lineno">  509</span>                    {</div>
-<div class="line"><span class="lineno">  510</span>                        <span class="comment">//Subphase 1</span></div>
-<div class="line"><span class="lineno">  511</span>                        <span class="keywordflow">case</span> 0:</div>
-<div class="line"><span class="lineno">  512</span>                            pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50">SAY_PATHALEON_CULATOR_IMAGE_2</a>);</div>
-<div class="line"><span class="lineno">  513</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>;</div>
-<div class="line"><span class="lineno">  514</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 12000;</div>
-<div class="line"><span class="lineno">  515</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  516</span>                        <span class="comment">//Subphase 2</span></div>
-<div class="line"><span class="lineno">  517</span>                        <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno">  518</span>                            pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a">SAY_PATHALEON_CULATOR_IMAGE_2_1</a>);</div>
-<div class="line"><span class="lineno">  519</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>;</div>
-<div class="line"><span class="lineno">  520</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
-<div class="line"><span class="lineno">  521</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  522</span>                        <span class="comment">//Subphase 3</span></div>
-<div class="line"><span class="lineno">  523</span>                        <span class="keywordflow">case</span> 2:</div>
-<div class="line"><span class="lineno">  524</span>                            pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2">SAY_PATHALEON_CULATOR_IMAGE_2_2</a>);</div>
-<div class="line"><span class="lineno">  525</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
-<div class="line"><span class="lineno">  526</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  527</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 10000;</div>
-<div class="line"><span class="lineno">  528</span>                            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  529</span>                    }</div>
-<div class="line"><span class="lineno">  530</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  531</span>                <span class="comment">//Phase 8 Dawnforge &amp; Ardonis say</span></div>
-<div class="line"><span class="lineno">  532</span>                <span class="keywordflow">case</span> 8:</div>
-<div class="line"><span class="lineno">  533</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b">SAY_COMMANDER_DAWNFORGE_4</a>);</div>
-<div class="line"><span class="lineno">  534</span>                    ardonis-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2">SAY_ARCANIST_ARDONIS_2</a>);</div>
-<div class="line"><span class="lineno">  535</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  536</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 4000;</div>
-<div class="line"><span class="lineno">  537</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  538</span>                <span class="comment">//Phase 9 Pathaleons Despawn, Reset Dawnforge &amp; Ardonis angle</span></div>
-<div class="line"><span class="lineno">  539</span>                <span class="keywordflow">case</span> 9:</div>
-<div class="line"><span class="lineno">  540</span>                    <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0">Turn_to_eachother</a>();</div>
-<div class="line"><span class="lineno">  541</span>                    <span class="comment">//hide pathaleon, unit will despawn shortly</span></div>
-<div class="line"><span class="lineno">  542</span>                    pathaleon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  543</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
-<div class="line"><span class="lineno">  544</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
-<div class="line"><span class="lineno">  545</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 3000;</div>
-<div class="line"><span class="lineno">  546</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  547</span>                <span class="comment">//Phase 10 Dawnforge say</span></div>
-<div class="line"><span class="lineno">  548</span>                <span class="keywordflow">case</span> 10:</div>
-<div class="line"><span class="lineno">  549</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e">SAY_COMMANDER_DAWNFORGE_5</a>);</div>
-<div class="line"><span class="lineno">  550</span>                    player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab3b4eddc001341bfc294817c8b23d824">AreaExploredOrEventHappens</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab">QUEST_INFO_GATHERING</a>);</div>
-<div class="line"><span class="lineno">  551</span>                    <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">Reset</a>();</div>
-<div class="line"><span class="lineno">  552</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  553</span>            }</div>
-<div class="line"><span class="lineno">  554</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  425</span>        {</div>
+<div class="line"><span class="lineno">  426</span>            <span class="comment">//Is event even running?</span></div>
+<div class="line"><span class="lineno">  427</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980">isEvent</a>)</div>
+<div class="line"><span class="lineno">  428</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  429</span> </div>
+<div class="line"><span class="lineno">  430</span>            <span class="comment">//Phase timing</span></div>
+<div class="line"><span class="lineno">  431</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> &gt;= diff)</div>
+<div class="line"><span class="lineno">  432</span>            {</div>
+<div class="line"><span class="lineno">  433</span>                <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> -= diff;</div>
+<div class="line"><span class="lineno">  434</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  435</span>            }</div>
+<div class="line"><span class="lineno">  436</span> </div>
+<div class="line"><span class="lineno">  437</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* ardonis = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab">ardonisGUID</a>);</div>
+<div class="line"><span class="lineno">  438</span>            <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pathaleon = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a">pathaleonGUID</a>);</div>
+<div class="line"><span class="lineno">  439</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f">PlayerGUID</a>);</div>
+<div class="line"><span class="lineno">  440</span> </div>
+<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">if</span> (!ardonis || !player)</div>
+<div class="line"><span class="lineno">  442</span>            {</div>
+<div class="line"><span class="lineno">  443</span>                <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">Reset</a>();</div>
+<div class="line"><span class="lineno">  444</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  445</span>            }</div>
+<div class="line"><span class="lineno">  446</span> </div>
+<div class="line"><span class="lineno">  447</span>            <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a> &gt; 4 &amp;&amp; !pathaleon)</div>
+<div class="line"><span class="lineno">  448</span>            {</div>
+<div class="line"><span class="lineno">  449</span>                <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">Reset</a>();</div>
+<div class="line"><span class="lineno">  450</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  451</span>            }</div>
+<div class="line"><span class="lineno">  452</span> </div>
+<div class="line"><span class="lineno">  453</span>            <span class="comment">//Phase 1 Dawnforge say</span></div>
+<div class="line"><span class="lineno">  454</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84">Phase</a>)</div>
+<div class="line"><span class="lineno">  455</span>            {</div>
+<div class="line"><span class="lineno">  456</span>                <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  457</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647">SAY_COMMANDER_DAWNFORGE_1</a>);</div>
+<div class="line"><span class="lineno">  458</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  459</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
+<div class="line"><span class="lineno">  460</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  461</span>                <span class="comment">//Phase 2 Ardonis say</span></div>
+<div class="line"><span class="lineno">  462</span>                <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno">  463</span>                    ardonis-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d">SAY_ARCANIST_ARDONIS_1</a>);</div>
+<div class="line"><span class="lineno">  464</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  465</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
+<div class="line"><span class="lineno">  466</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  467</span>                <span class="comment">//Phase 3 Dawnforge say</span></div>
+<div class="line"><span class="lineno">  468</span>                <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno">  469</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1">SAY_COMMANDER_DAWNFORGE_2</a>);</div>
+<div class="line"><span class="lineno">  470</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  471</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
+<div class="line"><span class="lineno">  472</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  473</span>                <span class="comment">//Phase 4 Pathaleon spawns up to phase 9</span></div>
+<div class="line"><span class="lineno">  474</span>                <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno">  475</span>                    <span class="comment">//spawn pathaleon&#39;s image</span></div>
+<div class="line"><span class="lineno">  476</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_struct" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html">CreatureEntry</a>[2], 2325.851563f, 2799.534668f, 133.084229f, 6.038996f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a>, 90000);</div>
+<div class="line"><span class="lineno">  477</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  478</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 500;</div>
+<div class="line"><span class="lineno">  479</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  480</span>                <span class="comment">//Phase 5 Pathaleon say</span></div>
+<div class="line"><span class="lineno">  481</span>                <span class="keywordflow">case</span> 5:</div>
+<div class="line"><span class="lineno">  482</span>                    pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680">SAY_PATHALEON_CULATOR_IMAGE_1</a>);</div>
+<div class="line"><span class="lineno">  483</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  484</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 6000;</div>
+<div class="line"><span class="lineno">  485</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  486</span>                <span class="comment">//Phase 6</span></div>
+<div class="line"><span class="lineno">  487</span>                <span class="keywordflow">case</span> 6:</div>
+<div class="line"><span class="lineno">  488</span>                    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>)</div>
+<div class="line"><span class="lineno">  489</span>                    {</div>
+<div class="line"><span class="lineno">  490</span>                        <span class="comment">//Subphase 1: Turn Dawnforge and Ardonis</span></div>
+<div class="line"><span class="lineno">  491</span>                        <span class="keywordflow">case</span> 0:</div>
+<div class="line"><span class="lineno">  492</span>                            <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a88cca74225a0099c85bb661c7f2ad382">Turn_to_Pathaleons_Image</a>();</div>
+<div class="line"><span class="lineno">  493</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>;</div>
+<div class="line"><span class="lineno">  494</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 8000;</div>
+<div class="line"><span class="lineno">  495</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  496</span>                        <span class="comment">//Subphase 2 Dawnforge say</span></div>
+<div class="line"><span class="lineno">  497</span>                        <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  498</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803">SAY_COMMANDER_DAWNFORGE_3</a>);</div>
+<div class="line"><span class="lineno">  499</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
+<div class="line"><span class="lineno">  500</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  501</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 8000;</div>
+<div class="line"><span class="lineno">  502</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  503</span>                    }</div>
+<div class="line"><span class="lineno">  504</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  505</span>                <span class="comment">//Phase 7 Pathaleons say 3 Sentence, every sentence need a subphase</span></div>
+<div class="line"><span class="lineno">  506</span>                <span class="keywordflow">case</span> 7:</div>
+<div class="line"><span class="lineno">  507</span>                    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>)</div>
+<div class="line"><span class="lineno">  508</span>                    {</div>
+<div class="line"><span class="lineno">  509</span>                        <span class="comment">//Subphase 1</span></div>
+<div class="line"><span class="lineno">  510</span>                        <span class="keywordflow">case</span> 0:</div>
+<div class="line"><span class="lineno">  511</span>                            pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50">SAY_PATHALEON_CULATOR_IMAGE_2</a>);</div>
+<div class="line"><span class="lineno">  512</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>;</div>
+<div class="line"><span class="lineno">  513</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 12000;</div>
+<div class="line"><span class="lineno">  514</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  515</span>                        <span class="comment">//Subphase 2</span></div>
+<div class="line"><span class="lineno">  516</span>                        <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  517</span>                            pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a">SAY_PATHALEON_CULATOR_IMAGE_2_1</a>);</div>
+<div class="line"><span class="lineno">  518</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a>;</div>
+<div class="line"><span class="lineno">  519</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 16000;</div>
+<div class="line"><span class="lineno">  520</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  521</span>                        <span class="comment">//Subphase 3</span></div>
+<div class="line"><span class="lineno">  522</span>                        <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno">  523</span>                            pathaleon-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2">SAY_PATHALEON_CULATOR_IMAGE_2_2</a>);</div>
+<div class="line"><span class="lineno">  524</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
+<div class="line"><span class="lineno">  525</span>                            ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  526</span>                            <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 10000;</div>
+<div class="line"><span class="lineno">  527</span>                            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  528</span>                    }</div>
+<div class="line"><span class="lineno">  529</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  530</span>                <span class="comment">//Phase 8 Dawnforge &amp; Ardonis say</span></div>
+<div class="line"><span class="lineno">  531</span>                <span class="keywordflow">case</span> 8:</div>
+<div class="line"><span class="lineno">  532</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b">SAY_COMMANDER_DAWNFORGE_4</a>);</div>
+<div class="line"><span class="lineno">  533</span>                    ardonis-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2">SAY_ARCANIST_ARDONIS_2</a>);</div>
+<div class="line"><span class="lineno">  534</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  535</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 4000;</div>
+<div class="line"><span class="lineno">  536</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  537</span>                <span class="comment">//Phase 9 Pathaleons Despawn, Reset Dawnforge &amp; Ardonis angle</span></div>
+<div class="line"><span class="lineno">  538</span>                <span class="keywordflow">case</span> 9:</div>
+<div class="line"><span class="lineno">  539</span>                    <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0">Turn_to_eachother</a>();</div>
+<div class="line"><span class="lineno">  540</span>                    <span class="comment">//hide pathaleon, unit will despawn shortly</span></div>
+<div class="line"><span class="lineno">  541</span>                    pathaleon-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  542</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523">PhaseSubphase</a> = 0;</div>
+<div class="line"><span class="lineno">  543</span>                    ++<a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">Phase</a>;</div>
+<div class="line"><span class="lineno">  544</span>                    <a class="code hl_variable" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676">Phase_Timer</a> = 3000;</div>
+<div class="line"><span class="lineno">  545</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  546</span>                <span class="comment">//Phase 10 Dawnforge say</span></div>
+<div class="line"><span class="lineno">  547</span>                <span class="keywordflow">case</span> 10:</div>
+<div class="line"><span class="lineno">  548</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e">SAY_COMMANDER_DAWNFORGE_5</a>);</div>
+<div class="line"><span class="lineno">  549</span>                    player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab3b4eddc001341bfc294817c8b23d824">AreaExploredOrEventHappens</a>(<a class="code hl_enumvalue" href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab">QUEST_INFO_GATHERING</a>);</div>
+<div class="line"><span class="lineno">  550</span>                    <a class="code hl_function" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">Reset</a>();</div>
+<div class="line"><span class="lineno">  551</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  552</span>            }</div>
+<div class="line"><span class="lineno">  553</span>        }</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2">TEMPSUMMON_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN</div><div class="ttdef"><b>Definition</b> Object.h:50</div></div>
 <div class="ttc" id="aclassCreatureAI_html_abd2599c664cd9ba230b1937923251621"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">CreatureAI::Talk</a></div><div class="ttdeci">void Talk(uint8 id, WorldObject const *whisperTarget=nullptr, Milliseconds delay=0ms)</div><div class="ttdoc">Causes the creature to talk/say the text assigned to their entry in the creature_text database table.</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:53</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:145</div></div>
@@ -1020,23 +1018,23 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassWorldObject_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2355</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a86236181ddfead8560067378e385f244"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer(Map const *, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:220</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a1a440773676ab7e2cd416eba70c90d74"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">npc_commander_dawnforge::npc_commander_dawnforgeAI::Phase</a></div><div class="ttdeci">uint32 Phase</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:343</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a88cca74225a0099c85bb661c7f2ad382"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a88cca74225a0099c85bb661c7f2ad382">npc_commander_dawnforge::npc_commander_dawnforgeAI::Turn_to_Pathaleons_Image</a></div><div class="ttdeci">void Turn_to_Pathaleons_Image()</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:368</div></div>
-<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_af57a218b98606c273ee3eba5d661d5d1"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">npc_commander_dawnforge::npc_commander_dawnforgeAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:348</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab">QUEST_INFO_GATHERING</a></div><div class="ttdeci">@ QUEST_INFO_GATHERING</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:313</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647">SAY_COMMANDER_DAWNFORGE_1</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:299</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e">SAY_COMMANDER_DAWNFORGE_5</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_5</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:303</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1">SAY_COMMANDER_DAWNFORGE_2</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:300</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d">SAY_ARCANIST_ARDONIS_1</a></div><div class="ttdeci">@ SAY_ARCANIST_ARDONIS_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:305</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50">SAY_PATHALEON_CULATOR_IMAGE_2</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:309</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680">SAY_PATHALEON_CULATOR_IMAGE_1</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:308</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803">SAY_COMMANDER_DAWNFORGE_3</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_3</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:301</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2">SAY_ARCANIST_ARDONIS_2</a></div><div class="ttdeci">@ SAY_ARCANIST_ARDONIS_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:306</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b">SAY_COMMANDER_DAWNFORGE_4</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_4</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:302</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2">SAY_PATHALEON_CULATOR_IMAGE_2_2</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_2_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:311</div></div>
-<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a">SAY_PATHALEON_CULATOR_IMAGE_2_1</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_2_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:310</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a1a440773676ab7e2cd416eba70c90d74"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74">npc_commander_dawnforge::npc_commander_dawnforgeAI::Phase</a></div><div class="ttdeci">uint32 Phase</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:342</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_a88cca74225a0099c85bb661c7f2ad382"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a88cca74225a0099c85bb661c7f2ad382">npc_commander_dawnforge::npc_commander_dawnforgeAI::Turn_to_Pathaleons_Image</a></div><div class="ttdeci">void Turn_to_Pathaleons_Image()</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:367</div></div>
+<div class="ttc" id="astructnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI_html_af57a218b98606c273ee3eba5d661d5d1"><div class="ttname"><a href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1">npc_commander_dawnforge::npc_commander_dawnforgeAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:347</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa0ee8f5f004065795c5f8caf9e789dcab">QUEST_INFO_GATHERING</a></div><div class="ttdeci">@ QUEST_INFO_GATHERING</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:312</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa17fadf17bb33086bd1377d8916931647">SAY_COMMANDER_DAWNFORGE_1</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:298</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa5d558f989528b52d59ad9892c4b66c3e">SAY_COMMANDER_DAWNFORGE_5</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_5</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:302</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaa9fa936b5180626943e1c8512d7562ff1">SAY_COMMANDER_DAWNFORGE_2</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:299</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa381d1952765fc56a39909cf764ce22d">SAY_ARCANIST_ARDONIS_1</a></div><div class="ttdeci">@ SAY_ARCANIST_ARDONIS_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:304</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa4c5d4186e9d4d702539ce810a8a4d50">SAY_PATHALEON_CULATOR_IMAGE_2</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:308</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaa6a8fe8429cb51c4a8856d384925d680">SAY_PATHALEON_CULATOR_IMAGE_1</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:307</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaaedeb1e7eed6dd79cc086b20225e9803">SAY_COMMANDER_DAWNFORGE_3</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_3</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:300</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab385079103654d04c489c6754eaec7c2">SAY_ARCANIST_ARDONIS_2</a></div><div class="ttdeci">@ SAY_ARCANIST_ARDONIS_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:305</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaab44bd21d08ff8288337afcc2ed4ae00b">SAY_COMMANDER_DAWNFORGE_4</a></div><div class="ttdeci">@ SAY_COMMANDER_DAWNFORGE_4</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:301</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaae2950dd48e66ada992e02314865d9ba2">SAY_PATHALEON_CULATOR_IMAGE_2_2</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_2_2</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:310</div></div>
+<div class="ttc" id="azone__netherstorm_8cpp_html_a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a"><div class="ttname"><a href="../../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffaaff354996e7c20a0a9d703fff96ddc29a">SAY_PATHALEON_CULATOR_IMAGE_2_1</a></div><div class="ttdeci">@ SAY_PATHALEON_CULATOR_IMAGE_2_1</div><div class="ttdef"><b>Definition</b> zone_netherstorm.cpp:309</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00340">ardonisGUID</a>, <a class="el" href="../../#l01791">Player::AreaExploredOrEventHappens()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00346">isEvent</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00341">pathaleonGUID</a>, <a class="el" href="../../#l00343">Phase</a>, <a class="el" href="../../#l00345">Phase_Timer</a>, <a class="el" href="../../#l00344">PhaseSubphase</a>, <a class="el" href="../../#l00339">PlayerGUID</a>, <a class="el" href="../../#l00313">QUEST_INFO_GATHERING</a>, <a class="el" href="../../#l00348">Reset()</a>, <a class="el" href="../../#l00305">SAY_ARCANIST_ARDONIS_1</a>, <a class="el" href="../../#l00306">SAY_ARCANIST_ARDONIS_2</a>, <a class="el" href="../../#l00299">SAY_COMMANDER_DAWNFORGE_1</a>, <a class="el" href="../../#l00300">SAY_COMMANDER_DAWNFORGE_2</a>, <a class="el" href="../../#l00301">SAY_COMMANDER_DAWNFORGE_3</a>, <a class="el" href="../../#l00302">SAY_COMMANDER_DAWNFORGE_4</a>, <a class="el" href="../../#l00303">SAY_COMMANDER_DAWNFORGE_5</a>, <a class="el" href="../../#l00308">SAY_PATHALEON_CULATOR_IMAGE_1</a>, <a class="el" href="../../#l00309">SAY_PATHALEON_CULATOR_IMAGE_2</a>, <a class="el" href="../../#l00310">SAY_PATHALEON_CULATOR_IMAGE_2_1</a>, <a class="el" href="../../#l00311">SAY_PATHALEON_CULATOR_IMAGE_2_2</a>, <a class="el" href="../../#l14316">Unit::SetVisible()</a>, <a class="el" href="../../#l02355">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00053">CreatureAI::Talk()</a>, <a class="el" href="../../#l00050">TEMPSUMMON_TIMED_DESPAWN</a>, <a class="el" href="../../#l00388">Turn_to_eachother()</a>, and <a class="el" href="../../#l00368">Turn_to_Pathaleons_Image()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00339">ardonisGUID</a>, <a class="el" href="../../#l01791">Player::AreaExploredOrEventHappens()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00345">isEvent</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00340">pathaleonGUID</a>, <a class="el" href="../../#l00342">Phase</a>, <a class="el" href="../../#l00344">Phase_Timer</a>, <a class="el" href="../../#l00343">PhaseSubphase</a>, <a class="el" href="../../#l00338">PlayerGUID</a>, <a class="el" href="../../#l00312">QUEST_INFO_GATHERING</a>, <a class="el" href="../../#l00347">Reset()</a>, <a class="el" href="../../#l00304">SAY_ARCANIST_ARDONIS_1</a>, <a class="el" href="../../#l00305">SAY_ARCANIST_ARDONIS_2</a>, <a class="el" href="../../#l00298">SAY_COMMANDER_DAWNFORGE_1</a>, <a class="el" href="../../#l00299">SAY_COMMANDER_DAWNFORGE_2</a>, <a class="el" href="../../#l00300">SAY_COMMANDER_DAWNFORGE_3</a>, <a class="el" href="../../#l00301">SAY_COMMANDER_DAWNFORGE_4</a>, <a class="el" href="../../#l00302">SAY_COMMANDER_DAWNFORGE_5</a>, <a class="el" href="../../#l00307">SAY_PATHALEON_CULATOR_IMAGE_1</a>, <a class="el" href="../../#l00308">SAY_PATHALEON_CULATOR_IMAGE_2</a>, <a class="el" href="../../#l00309">SAY_PATHALEON_CULATOR_IMAGE_2_1</a>, <a class="el" href="../../#l00310">SAY_PATHALEON_CULATOR_IMAGE_2_2</a>, <a class="el" href="../../#l14316">Unit::SetVisible()</a>, <a class="el" href="../../#l02355">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00053">CreatureAI::Talk()</a>, <a class="el" href="../../#l00050">TEMPSUMMON_TIMED_DESPAWN</a>, <a class="el" href="../../#l00387">Turn_to_eachother()</a>, and <a class="el" href="../../#l00367">Turn_to_Pathaleons_Image()</a>.</p>
 
 </div>
 </div>
@@ -1053,7 +1051,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00404">CanStartEvent()</a>, <a class="el" href="../../#l00348">Reset()</a>, <a class="el" href="../../#l00388">Turn_to_eachother()</a>, <a class="el" href="../../#l00368">Turn_to_Pathaleons_Image()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00403">CanStartEvent()</a>, <a class="el" href="../../#l00347">Reset()</a>, <a class="el" href="../../#l00387">Turn_to_eachother()</a>, <a class="el" href="../../#l00367">Turn_to_Pathaleons_Image()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1069,7 +1067,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00404">CanStartEvent()</a>, <a class="el" href="../../#l00348">Reset()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00403">CanStartEvent()</a>, <a class="el" href="../../#l00347">Reset()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1085,7 +1083,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00362">JustSummoned()</a>, <a class="el" href="../../#l00348">Reset()</a>, <a class="el" href="../../#l00368">Turn_to_Pathaleons_Image()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00361">JustSummoned()</a>, <a class="el" href="../../#l00347">Reset()</a>, <a class="el" href="../../#l00367">Turn_to_Pathaleons_Image()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1101,7 +1099,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1117,7 +1115,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00348">Reset()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00347">Reset()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1133,7 +1131,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00348">Reset()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00347">Reset()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1149,7 +1147,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00404">CanStartEvent()</a>, <a class="el" href="../../#l00348">Reset()</a>, and <a class="el" href="../../#l00425">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00403">CanStartEvent()</a>, <a class="el" href="../../#l00347">Reset()</a>, and <a class="el" href="../../#l00424">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -1162,7 +1160,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d20/classnpc__commander__dawnforge.html">npc_commander_dawnforge</a></li><li class="navelem"><a class="el" href="../../dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html">npc_commander_dawnforgeAI</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:22:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

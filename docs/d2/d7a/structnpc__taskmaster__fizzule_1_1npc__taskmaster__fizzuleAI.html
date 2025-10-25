@@ -172,8 +172,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
-<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -576,15 +574,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  143</span>                                                     : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
-<div class="line"><span class="lineno">  144</span>        {</div>
-<div class="line"><span class="lineno">  145</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc">factionNorm</a> = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6727f9ef69f7cefb909dfc5db05df155">GetFaction</a>();</div>
-<div class="line"><span class="lineno">  146</span>        }</div>
-<div class="ttc" id="aclassUnit_html_a6727f9ef69f7cefb909dfc5db05df155"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6727f9ef69f7cefb909dfc5db05df155">Unit::GetFaction</a></div><div class="ttdeci">uint32 GetFaction() const</div><div class="ttdef"><b>Definition</b> Unit.h:812</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  146</span>                                                     : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno">  147</span>        {</div>
+<div class="line"><span class="lineno">  148</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc">factionNorm</a> = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6727f9ef69f7cefb909dfc5db05df155">GetFaction</a>();</div>
+<div class="line"><span class="lineno">  149</span>        }</div>
+<div class="ttc" id="aclassUnit_html_a6727f9ef69f7cefb909dfc5db05df155"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6727f9ef69f7cefb909dfc5db05df155">Unit::GetFaction</a></div><div class="ttdeci">uint32 GetFaction() const</div><div class="ttdef"><b>Definition</b> Unit.h:834</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
-<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_ac0794d9b1c04ec4fe6f8afd1556f1fbc"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::factionNorm</a></div><div class="ttdeci">uint32 factionNorm</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:148</div></div>
+<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_ac0794d9b1c04ec4fe6f8afd1556f1fbc"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::factionNorm</a></div><div class="ttdeci">uint32 factionNorm</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:151</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00148">factionNorm</a>, and <a class="el" href="../../#l00812">Unit::GetFaction()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00151">factionNorm</a>, and <a class="el" href="../../#l00834">Unit::GetFaction()</a>.</p>
 
 </div>
 </div>
@@ -611,33 +609,33 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
-<div class="line"><span class="lineno">  164</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#a6e1716a276a5c87fa37d5aff81501b83">ClearAllThreat</a>();</div>
-<div class="line"><span class="lineno">  165</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a18f77484ed2acc7be7fa29d1df7a0c12">CombatStop</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  166</span> </div>
-<div class="line"><span class="lineno">  167</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  168</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
+<div class="fragment"><div class="line"><span class="lineno">  165</span>        {</div>
+<div class="line"><span class="lineno">  166</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
+<div class="line"><span class="lineno">  167</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#a6e1716a276a5c87fa37d5aff81501b83">ClearAllThreat</a>();</div>
+<div class="line"><span class="lineno">  168</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a18f77484ed2acc7be7fa29d1df7a0c12">CombatStop</a>(<span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2a5cf4abb6724ef933fed2820a2dce8b42">FACTION_FRIENDLY</a>);</div>
-<div class="line"><span class="lineno">  171</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab5cb968cf2815acfec1e7a17524e5e64">EMOTE_ONESHOT_SALUTE</a>);</div>
-<div class="line"><span class="lineno">  172</span>        }</div>
+<div class="line"><span class="lineno">  170</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno">  171</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
+<div class="line"><span class="lineno">  172</span> </div>
+<div class="line"><span class="lineno">  173</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2a5cf4abb6724ef933fed2820a2dce8b42">FACTION_FRIENDLY</a>);</div>
+<div class="line"><span class="lineno">  174</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab5cb968cf2815acfec1e7a17524e5e64">EMOTE_ONESHOT_SALUTE</a>);</div>
+<div class="line"><span class="lineno">  175</span>        }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a0e527855c554e31654c9beb340145574ab5cb968cf2815acfec1e7a17524e5e64"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab5cb968cf2815acfec1e7a17524e5e64">EMOTE_ONESHOT_SALUTE</a></div><div class="ttdeci">@ EMOTE_ONESHOT_SALUTE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1953</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac5c8e776fe109c83a63abe41eb5e80f2a5cf4abb6724ef933fed2820a2dce8b42"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac5c8e776fe109c83a63abe41eb5e80f2a5cf4abb6724ef933fed2820a2dce8b42">FACTION_FRIENDLY</a></div><div class="ttdeci">@ FACTION_FRIENDLY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:212</div></div>
 <div class="ttc" id="aclassMotionMaster_html_ad0697d75ff06afb1247424100c99619f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MotionMaster::MoveIdle</a></div><div class="ttdeci">void MoveIdle()</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:232</div></div>
 <div class="ttc" id="aclassThreatMgr_html_a6e1716a276a5c87fa37d5aff81501b83"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#a6e1716a276a5c87fa37d5aff81501b83">ThreatMgr::ClearAllThreat</a></div><div class="ttdeci">void ClearAllThreat()</div><div class="ttdef"><b>Definition</b> ThreatMgr.cpp:417</div></div>
 <div class="ttc" id="aclassUnit_html_a18f77484ed2acc7be7fa29d1df7a0c12"><div class="ttname"><a href="../../df/dd9/classUnit.html#a18f77484ed2acc7be7fa29d1df7a0c12">Unit::CombatStop</a></div><div class="ttdeci">void CombatStop(bool includingCast=false)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10512</div></div>
 <div class="ttc" id="aclassUnit_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition</b> Unit.cpp:10107</div></div>
-<div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1691</div></div>
-<div class="ttc" id="aclassUnit_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16717</div></div>
+<div class="ttc" id="aclassUnit_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition</b> Unit.h:1713</div></div>
+<div class="ttc" id="aclassUnit_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16656</div></div>
 <div class="ttc" id="aclassUnit_html_aca967faa985dbe4062dd23360cdb607c"><div class="ttname"><a href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">Unit::RemoveAllAuras</a></div><div class="ttdeci">void RemoveAllAuras()</div><div class="ttdef"><b>Definition</b> Unit.cpp:5387</div></div>
-<div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:914</div></div>
+<div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:936</div></div>
 <div class="ttc" id="aclassUnit_html_adeebdc78f840a40e89361e5c792b0e53"><div class="ttname"><a href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">Unit::HandleEmoteCommand</a></div><div class="ttdeci">void HandleEmoteCommand(uint32 emoteId)</div><div class="ttdef"><b>Definition</b> Unit.cpp:2035</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00417">ThreatMgr::ClearAllThreat()</a>, <a class="el" href="../../#l10512">Unit::CombatStop()</a>, <a class="el" href="../../#l01953">EMOTE_ONESHOT_SALUTE</a>, <a class="el" href="../../#l00212">FACTION_FRIENDLY</a>, <a class="el" href="../../#l01691">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00914">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l02035">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00232">MotionMaster::MoveIdle()</a>, <a class="el" href="../../#l05387">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l10107">Unit::SetFaction()</a>, and <a class="el" href="../../#l16717">Unit::StopMoving()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00417">ThreatMgr::ClearAllThreat()</a>, <a class="el" href="../../#l10512">Unit::CombatStop()</a>, <a class="el" href="../../#l01953">EMOTE_ONESHOT_SALUTE</a>, <a class="el" href="../../#l00212">FACTION_FRIENDLY</a>, <a class="el" href="../../#l01713">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00936">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l02035">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00232">MotionMaster::MoveIdle()</a>, <a class="el" href="../../#l05387">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l10107">Unit::SetFaction()</a>, and <a class="el" href="../../#l16656">Unit::StopMoving()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00205">ReceiveEmote()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00208">ReceiveEmote()</a>.</p>
 
 </div>
 </div>
@@ -668,7 +666,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  188</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -707,24 +705,24 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#abb43fe424c8e27543a935a335c133c86">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  206</span>        {</div>
-<div class="line"><span class="lineno">  207</span>            <span class="keywordflow">if</span> (emote == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a745c5be4d6fbeb9a2744f84c81734ba9a758d07b59b7d015ba7b6c676b7fa612f">TEXT_EMOTE_SALUTE</a>)</div>
-<div class="line"><span class="lineno">  208</span>            {</div>
-<div class="line"><span class="lineno">  209</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a> &gt;= 2)</div>
-<div class="line"><span class="lineno">  210</span>                {</div>
-<div class="line"><span class="lineno">  211</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6727f9ef69f7cefb909dfc5db05df155">GetFaction</a>() == <a class="code hl_enumvalue" href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea">FACTION_FRIENDLY_F</a>)</div>
-<div class="line"><span class="lineno">  212</span>                        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>                    <a class="code hl_function" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#aacaeb3293bbb4b670cdc7031d22a50c2">DoFriend</a>();</div>
-<div class="line"><span class="lineno">  215</span>                }</div>
-<div class="line"><span class="lineno">  216</span>            }</div>
-<div class="line"><span class="lineno">  217</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  209</span>        {</div>
+<div class="line"><span class="lineno">  210</span>            <span class="keywordflow">if</span> (emote == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a745c5be4d6fbeb9a2744f84c81734ba9a758d07b59b7d015ba7b6c676b7fa612f">TEXT_EMOTE_SALUTE</a>)</div>
+<div class="line"><span class="lineno">  211</span>            {</div>
+<div class="line"><span class="lineno">  212</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a> &gt;= 2)</div>
+<div class="line"><span class="lineno">  213</span>                {</div>
+<div class="line"><span class="lineno">  214</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6727f9ef69f7cefb909dfc5db05df155">GetFaction</a>() == <a class="code hl_enumvalue" href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea">FACTION_FRIENDLY_F</a>)</div>
+<div class="line"><span class="lineno">  215</span>                        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>                    <a class="code hl_function" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#aacaeb3293bbb4b670cdc7031d22a50c2">DoFriend</a>();</div>
+<div class="line"><span class="lineno">  218</span>                }</div>
+<div class="line"><span class="lineno">  219</span>            }</div>
+<div class="line"><span class="lineno">  220</span>        }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a745c5be4d6fbeb9a2744f84c81734ba9a758d07b59b7d015ba7b6c676b7fa612f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a745c5be4d6fbeb9a2744f84c81734ba9a758d07b59b7d015ba7b6c676b7fa612f">TEXT_EMOTE_SALUTE</a></div><div class="ttdeci">@ TEXT_EMOTE_SALUTE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1724</div></div>
-<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_a3a1128b7caa6ef4ba3697e1400aaed04"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::FlareCount</a></div><div class="ttdeci">uint8 FlareCount</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:151</div></div>
-<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_aacaeb3293bbb4b670cdc7031d22a50c2"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#aacaeb3293bbb4b670cdc7031d22a50c2">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::DoFriend</a></div><div class="ttdeci">void DoFriend()</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:161</div></div>
-<div class="ttc" id="azone__the__barrens_8cpp_html_a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea"><div class="ttname"><a href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea">FACTION_FRIENDLY_F</a></div><div class="ttdeci">@ FACTION_FRIENDLY_F</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:126</div></div>
+<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_a3a1128b7caa6ef4ba3697e1400aaed04"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::FlareCount</a></div><div class="ttdeci">uint8 FlareCount</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:154</div></div>
+<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_aacaeb3293bbb4b670cdc7031d22a50c2"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#aacaeb3293bbb4b670cdc7031d22a50c2">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::DoFriend</a></div><div class="ttdeci">void DoFriend()</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:164</div></div>
+<div class="ttc" id="azone__the__barrens_8cpp_html_a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea"><div class="ttname"><a href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea">FACTION_FRIENDLY_F</a></div><div class="ttdeci">@ FACTION_FRIENDLY_F</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:129</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">DoFriend()</a>, <a class="el" href="../../#l00126">FACTION_FRIENDLY_F</a>, <a class="el" href="../../#l00151">FlareCount</a>, <a class="el" href="../../#l00812">Unit::GetFaction()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, and <a class="el" href="../../#l01724">TEXT_EMOTE_SALUTE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00164">DoFriend()</a>, <a class="el" href="../../#l00129">FACTION_FRIENDLY_F</a>, <a class="el" href="../../#l00154">FlareCount</a>, <a class="el" href="../../#l00834">Unit::GetFaction()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l01724">TEXT_EMOTE_SALUTE</a>.</p>
 
 </div>
 </div>
@@ -752,16 +750,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  154</span>        {</div>
-<div class="line"><span class="lineno">  155</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">IsFriend</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  156</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">ResetTimer</a> = 120000;</div>
-<div class="line"><span class="lineno">  157</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a> = 0;</div>
-<div class="line"><span class="lineno">  158</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc">factionNorm</a>);</div>
-<div class="line"><span class="lineno">  159</span>        }</div>
-<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_a376b3c7fbc9a81e82ece6840e8e9e7fc"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::ResetTimer</a></div><div class="ttdeci">uint32 ResetTimer</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:150</div></div>
-<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_ab7e6bd2e023545c73fba758267551eee"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::IsFriend</a></div><div class="ttdeci">bool IsFriend</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:149</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  157</span>        {</div>
+<div class="line"><span class="lineno">  158</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">IsFriend</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  159</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">ResetTimer</a> = 120000;</div>
+<div class="line"><span class="lineno">  160</span>            <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a> = 0;</div>
+<div class="line"><span class="lineno">  161</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc">factionNorm</a>);</div>
+<div class="line"><span class="lineno">  162</span>        }</div>
+<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_a376b3c7fbc9a81e82ece6840e8e9e7fc"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::ResetTimer</a></div><div class="ttdeci">uint32 ResetTimer</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:153</div></div>
+<div class="ttc" id="astructnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI_html_ab7e6bd2e023545c73fba758267551eee"><div class="ttname"><a href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI::IsFriend</a></div><div class="ttdeci">bool IsFriend</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:152</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00148">factionNorm</a>, <a class="el" href="../../#l00151">FlareCount</a>, <a class="el" href="../../#l00149">IsFriend</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00150">ResetTimer</a>, and <a class="el" href="../../#l10107">Unit::SetFaction()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00151">factionNorm</a>, <a class="el" href="../../#l00154">FlareCount</a>, <a class="el" href="../../#l00152">IsFriend</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00153">ResetTimer</a>, and <a class="el" href="../../#l10107">Unit::SetFaction()</a>.</p>
 
 </div>
 </div>
@@ -800,19 +798,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  175</span>        {</div>
-<div class="line"><span class="lineno">  176</span>            <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba">SPELL_FLARE</a> || spell-&gt;Id == <a class="code hl_enumvalue" href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a">SPELL_FOLLY</a>)</div>
-<div class="line"><span class="lineno">  177</span>            {</div>
-<div class="line"><span class="lineno">  178</span>                ++<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a>;</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a> &gt;= 2)</div>
-<div class="line"><span class="lineno">  181</span>                    <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">IsFriend</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  182</span>            }</div>
-<div class="line"><span class="lineno">  183</span>        }</div>
-<div class="ttc" id="azone__the__barrens_8cpp_html_a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a"><div class="ttname"><a href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a">SPELL_FOLLY</a></div><div class="ttdeci">@ SPELL_FOLLY</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:128</div></div>
-<div class="ttc" id="azone__the__barrens_8cpp_html_a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba"><div class="ttname"><a href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba">SPELL_FLARE</a></div><div class="ttdeci">@ SPELL_FLARE</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:127</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  178</span>        {</div>
+<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">if</span> (spell-&gt;Id == <a class="code hl_enumvalue" href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba">SPELL_FLARE</a> || spell-&gt;Id == <a class="code hl_enumvalue" href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a">SPELL_FOLLY</a>)</div>
+<div class="line"><span class="lineno">  180</span>            {</div>
+<div class="line"><span class="lineno">  181</span>                ++<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a>;</div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a3a1128b7caa6ef4ba3697e1400aaed04">FlareCount</a> &gt;= 2)</div>
+<div class="line"><span class="lineno">  184</span>                    <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">IsFriend</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  185</span>            }</div>
+<div class="line"><span class="lineno">  186</span>        }</div>
+<div class="ttc" id="azone__the__barrens_8cpp_html_a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a"><div class="ttname"><a href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a">SPELL_FOLLY</a></div><div class="ttdeci">@ SPELL_FOLLY</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:131</div></div>
+<div class="ttc" id="azone__the__barrens_8cpp_html_a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba"><div class="ttname"><a href="../../d9/ddc/zone__the__barrens_8cpp.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba">SPELL_FLARE</a></div><div class="ttdeci">@ SPELL_FLARE</div><div class="ttdef"><b>Definition</b> zone_the_barrens.cpp:130</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00151">FlareCount</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00149">IsFriend</a>, <a class="el" href="../../#l00127">SPELL_FLARE</a>, and <a class="el" href="../../#l00128">SPELL_FOLLY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00154">FlareCount</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00152">IsFriend</a>, <a class="el" href="../../#l00130">SPELL_FLARE</a>, and <a class="el" href="../../#l00131">SPELL_FOLLY</a>.</p>
 
 </div>
 </div>
@@ -843,27 +841,27 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ae7c14a4cf5af178525e5a41c0ba34d4b" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  188</span>        {</div>
-<div class="line"><span class="lineno">  189</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">IsFriend</a>)</div>
-<div class="line"><span class="lineno">  190</span>            {</div>
-<div class="line"><span class="lineno">  191</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">ResetTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  192</span>                {</div>
-<div class="line"><span class="lineno">  193</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">EnterEvadeMode</a>();</div>
-<div class="line"><span class="lineno">  194</span>                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  195</span>                }</div>
-<div class="line"><span class="lineno">  196</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">ResetTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  197</span>            }</div>
-<div class="line"><span class="lineno">  198</span> </div>
-<div class="line"><span class="lineno">  199</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  200</span>                <span class="keywordflow">return</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno">  191</span>        {</div>
+<div class="line"><span class="lineno">  192</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#ab7e6bd2e023545c73fba758267551eee">IsFriend</a>)</div>
+<div class="line"><span class="lineno">  193</span>            {</div>
+<div class="line"><span class="lineno">  194</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">ResetTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  195</span>                {</div>
+<div class="line"><span class="lineno">  196</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">EnterEvadeMode</a>();</div>
+<div class="line"><span class="lineno">  197</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  198</span>                }</div>
+<div class="line"><span class="lineno">  199</span>                <span class="keywordflow">else</span> <a class="code hl_variable" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html#a376b3c7fbc9a81e82ece6840e8e9e7fc">ResetTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  200</span>            }</div>
 <div class="line"><span class="lineno">  201</span> </div>
-<div class="line"><span class="lineno">  202</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  203</span>        }</div>
+<div class="line"><span class="lineno">  202</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  203</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  204</span> </div>
+<div class="line"><span class="lineno">  205</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  206</span>        }</div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassCreatureAI_html_afe5dd68e11d20028510eca29d4184778"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI::EnterEvadeMode</a></div><div class="ttdeci">virtual void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:215</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00215">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00149">IsFriend</a>, <a class="el" href="../../#l00150">ResetTimer</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00215">CreatureAI::EnterEvadeMode()</a>, <a class="el" href="../../#l00152">IsFriend</a>, <a class="el" href="../../#l00153">ResetTimer</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -880,7 +878,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00143">npc_taskmaster_fizzuleAI()</a>, and <a class="el" href="../../#l00153">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00146">npc_taskmaster_fizzuleAI()</a>, and <a class="el" href="../../#l00156">Reset()</a>.</p>
 
 </div>
 </div>
@@ -896,7 +894,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00205">ReceiveEmote()</a>, <a class="el" href="../../#l00153">Reset()</a>, and <a class="el" href="../../#l00174">SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00208">ReceiveEmote()</a>, <a class="el" href="../../#l00156">Reset()</a>, and <a class="el" href="../../#l00177">SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -912,7 +910,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00153">Reset()</a>, <a class="el" href="../../#l00174">SpellHit()</a>, and <a class="el" href="../../#l00187">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00156">Reset()</a>, <a class="el" href="../../#l00177">SpellHit()</a>, and <a class="el" href="../../#l00190">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -928,7 +926,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00153">Reset()</a>, and <a class="el" href="../../#l00187">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00156">Reset()</a>, and <a class="el" href="../../#l00190">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -941,7 +939,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/dd8/classnpc__taskmaster__fizzule.html">npc_taskmaster_fizzule</a></li><li class="navelem"><a class="el" href="../../d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html">npc_taskmaster_fizzuleAI</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:22:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

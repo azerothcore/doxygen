@@ -1,18 +1,10 @@
 var boss__gal__darah_8cpp =
 [
-    [ "boss_gal_darah", "d2/da8/classboss__gal__darah.html", "d2/da8/classboss__gal__darah" ],
-    [ "boss_gal_darah::boss_gal_darahAI", "d8/d32/structboss__gal__darah_1_1boss__gal__darahAI.html", "d8/d32/structboss__gal__darah_1_1boss__gal__darahAI" ],
+    [ "boss_gal_darah", "d0/dd9/structboss__gal__darah.html", "d0/dd9/structboss__gal__darah" ],
     [ "spell_galdarah_impaling_charge", "d8/d61/classspell__galdarah__impaling__charge.html", "d8/d61/classspell__galdarah__impaling__charge" ],
     [ "spell_galdarah_transform", "d1/df1/classspell__galdarah__transform.html", "d1/df1/classspell__galdarah__transform" ],
     [ "achievement_share_the_love", "d7/de4/classachievement__share__the__love.html", "d7/de4/classachievement__share__the__love" ],
     [ "Events", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_STAMPEDE", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c317e21c23e8613a9ec817362fca5be", null ],
-      [ "EVENT_WHIRLING_SLASH", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a905a7756eb363d7bd116031a675850a0", null ],
-      [ "EVENT_PUNCTURE", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad2c427fae9c0d0b409540447a31c880b", null ],
-      [ "EVENT_ENRAGE", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b", null ],
-      [ "EVENT_IMPALING_CHARGE", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab4a16b4f7f621394553bf00e93c988bb", null ],
-      [ "EVENT_UNSUMMON_RHINO", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3d73946b0f9d0a85fd9647edb90b4d5", null ],
-      [ "EVENT_STOMP", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316", null ],
       [ "EVENT_KILL_TALK", "da/de2/boss__gal__darah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
     ] ],
     [ "Spells", "da/de2/boss__gal__darah_8cpp.html#a5bd342133be8c2137b831460acc9298c", [

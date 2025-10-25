@@ -195,7 +195,6 @@ var classCreature =
     [ "setDeathState", "db/dd5/classCreature.html#a00d974a3f97e003cadb1760538d8be27", null ],
     [ "SetDefaultMovementType", "db/dd5/classCreature.html#af5cf2ee79813eb9e678a57b05a7d9190", null ],
     [ "SetDetectionDistance", "db/dd5/classCreature.html#ad3d2fafaa31c54a944d4ad72b0eda808", null ],
-    [ "SetDisableGravity", "db/dd5/classCreature.html#a3bc802b096ecae6d1eb8a90ec4c6a72d", null ],
     [ "SetDisplayFromModel", "db/dd5/classCreature.html#a537dd43c8ccadd55bca1d22d05ec8ef9", null ],
     [ "SetDisplayId", "db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12", null ],
     [ "SetFormation", "db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709", null ],

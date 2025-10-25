@@ -108,6 +108,7 @@ var classSmartAI =
     [ "mFollowCreditType", "da/ddc/classSmartAI.html#a8ff48cefd3e5f0c64a62fba16df319a9", null ],
     [ "mFollowDist", "da/ddc/classSmartAI.html#acc2b201b8dbb00a9e1d5231d911f39f2", null ],
     [ "mFollowGuid", "da/ddc/classSmartAI.html#afa75f3f71a8eeeca721401e81310dd8c", null ],
+    [ "mForcedMovement", "da/ddc/classSmartAI.html#a8a6fb80e2d2e230185a4e689c75c7dc7", null ],
     [ "mForcedPaused", "da/ddc/classSmartAI.html#ac257abfd5bea4cd476f51a6115532b6f", null ],
     [ "mInvincibilityHpLevel", "da/ddc/classSmartAI.html#a99edcaa78b6955cf27959e3469389265", null ],
     [ "mIsCharmed", "da/ddc/classSmartAI.html#a3f0222f30093d7ed56de81b11ff0469c", null ],

@@ -3,7 +3,7 @@ var classConfigMgr =
     [ "ConfigMgr", "d4/df7/classConfigMgr.html#af5206e9fdadc2123af20aba4534d2988", null ],
     [ "ConfigMgr", "d4/df7/classConfigMgr.html#a809bc22f24f6330edac8f95bbdc1be2e", null ],
     [ "~ConfigMgr", "d4/df7/classConfigMgr.html#a25f0f8dba4b71b9679ec631339ef5a57", null ],
-    [ "Configure", "d4/df7/classConfigMgr.html#a600438259fbb2939b482792a550bd7a4", null ],
+    [ "Configure", "d4/df7/classConfigMgr.html#a60f49e7efc21c7278e5f18debde6d174", null ],
     [ "GetArguments", "d4/df7/classConfigMgr.html#a824a06c1dc274c92c33d1f5681994be0", null ],
     [ "GetConfigPath", "d4/df7/classConfigMgr.html#a104bef8d83f8c3b643f7538ac7bf5c30", null ],
     [ "GetFilename", "d4/df7/classConfigMgr.html#ad002777983ff9399976fc5d4447536de", null ],

@@ -777,7 +777,7 @@ var classUnit =
     [ "SetCritterGUID", "df/dd9/classUnit.html#adc49f22d6da989c15897dec4342516e8", null ],
     [ "SetCurrentCastedSpell", "df/dd9/classUnit.html#a81f3332259cc30966e133c4e3c60b159", null ],
     [ "setDeathState", "df/dd9/classUnit.html#a0e26ac5eae65e908edf086ec7a68cb3e", null ],
-    [ "SetDisableGravity", "df/dd9/classUnit.html#a957c82ee73c5865d3826411cd9b22e28", null ],
+    [ "SetDisableGravity", "df/dd9/classUnit.html#ac218abfb8299071a00c5a65b77548ff8", null ],
     [ "SetDisplayId", "df/dd9/classUnit.html#a45cc249e2d3dc3f60bd61b143c8a8a7d", null ],
     [ "SetDualWieldMode", "df/dd9/classUnit.html#ae1badf9674392d116e1cb2e14dd155ba", null ],
     [ "SetEmoteState", "df/dd9/classUnit.html#aac3ce6c38706671a574c29913ae6cb53", null ],

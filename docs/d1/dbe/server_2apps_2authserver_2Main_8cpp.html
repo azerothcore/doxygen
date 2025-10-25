@@ -275,34 +275,35 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  278</span>        (<span class="stringliteral">&quot;help,h&quot;</span>, <span class="stringliteral">&quot;print usage message&quot;</span>)</div>
 <div class="line"><span class="lineno">  279</span>        (<span class="stringliteral">&quot;version,v&quot;</span>, <span class="stringliteral">&quot;print version build info&quot;</span>)</div>
 <div class="line"><span class="lineno">  280</span>        (<span class="stringliteral">&quot;dry-run,d&quot;</span>, <span class="stringliteral">&quot;Dry run&quot;</span>)</div>
-<div class="line"><span class="lineno">  281</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>);</div>
-<div class="line"><span class="lineno">  282</span> </div>
-<div class="line"><span class="lineno">  283</span>    variables_map variablesMap;</div>
-<div class="line"><span class="lineno">  284</span> </div>
-<div class="line"><span class="lineno">  285</span>    <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">  286</span>    {</div>
-<div class="line"><span class="lineno">  287</span>        store(command_line_parser(argc, argv).options(all).allow_unregistered().run(), variablesMap);</div>
-<div class="line"><span class="lineno">  288</span>        notify(variablesMap);</div>
-<div class="line"><span class="lineno">  289</span>    }</div>
-<div class="line"><span class="lineno">  290</span>    <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
-<div class="line"><span class="lineno">  291</span>    {</div>
-<div class="line"><span class="lineno">  292</span>        std::cerr &lt;&lt; e.what() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  293</span>    }</div>
-<div class="line"><span class="lineno">  294</span> </div>
-<div class="line"><span class="lineno">  295</span>    <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
-<div class="line"><span class="lineno">  296</span>        std::cout &lt;&lt; all &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  297</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;version&quot;</span>))</div>
-<div class="line"><span class="lineno">  298</span>        std::cout &lt;&lt; <a class="code hl_function" href="../../d3/d2c/namespaceGitRevision.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  299</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
-<div class="line"><span class="lineno">  300</span>        <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  301</span> </div>
-<div class="line"><span class="lineno">  302</span>    <span class="keywordflow">return</span> variablesMap;</div>
-<div class="line"><span class="lineno">  303</span>}</div>
-<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
+<div class="line"><span class="lineno">  281</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>)</div>
+<div class="line"><span class="lineno">  282</span>        (<span class="stringliteral">&quot;config-policy&quot;</span>, value&lt;std::string&gt;()-&gt;value_name(<span class="stringliteral">&quot;policy&quot;</span>), <span class="stringliteral">&quot;override config severity policy (e.g. default=skip,critical_option=fatal)&quot;</span>);</div>
+<div class="line"><span class="lineno">  283</span> </div>
+<div class="line"><span class="lineno">  284</span>    variables_map variablesMap;</div>
+<div class="line"><span class="lineno">  285</span> </div>
+<div class="line"><span class="lineno">  286</span>    <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">  287</span>    {</div>
+<div class="line"><span class="lineno">  288</span>        store(command_line_parser(argc, argv).options(all).allow_unregistered().run(), variablesMap);</div>
+<div class="line"><span class="lineno">  289</span>        notify(variablesMap);</div>
+<div class="line"><span class="lineno">  290</span>    }</div>
+<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
+<div class="line"><span class="lineno">  292</span>    {</div>
+<div class="line"><span class="lineno">  293</span>        std::cerr &lt;&lt; e.what() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  294</span>    }</div>
+<div class="line"><span class="lineno">  295</span> </div>
+<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
+<div class="line"><span class="lineno">  297</span>        std::cout &lt;&lt; all &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  298</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;version&quot;</span>))</div>
+<div class="line"><span class="lineno">  299</span>        std::cout &lt;&lt; <a class="code hl_function" href="../../d3/d2c/namespaceGitRevision.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a>() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  300</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
+<div class="line"><span class="lineno">  301</span>        <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  302</span> </div>
+<div class="line"><span class="lineno">  303</span>    <span class="keywordflow">return</span> variablesMap;</div>
+<div class="line"><span class="lineno">  304</span>}</div>
+<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:93</div></div>
 <div class="ttc" id="anamespaceGitRevision_html_ad68b75fc60314941c3cbade8eafcda23"><div class="ttname"><a href="../../d3/d2c/namespaceGitRevision.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a></div><div class="ttdeci">AC_COMMON_API char const * GetFullVersion()</div><div class="ttdef"><b>Definition</b> GitRevision.cpp:82</div></div>
 <div class="ttc" id="aserver_2apps_2authserver_2Main_8cpp_html_a139668c786d564a415e0626b3344dc83"><div class="ttname"><a href="../../d1/dbe/server_2apps_2authserver_2Main_8cpp.html#a139668c786d564a415e0626b3344dc83">_ACORE_REALM_CONFIG</a></div><div class="ttdeci">#define _ACORE_REALM_CONFIG</div><div class="ttdef"><b>Definition</b> Main.cpp:54</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">_ACORE_REALM_CONFIG</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, and <a class="el" href="../../#l00074">sConfigMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00054">_ACORE_REALM_CONFIG</a>, <a class="el" href="../../#l00082">GitRevision::GetFullVersion()</a>, and <a class="el" href="../../#l00093">sConfigMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
 
@@ -549,7 +550,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="aserver_2apps_2authserver_2Main_8cpp_html_abb73d9c1332263ddf049505e1b12672d"><div class="ttname"><a href="../../d1/dbe/server_2apps_2authserver_2Main_8cpp.html#abb73d9c1332263ddf049505e1b12672d">SignalHandler</a></div><div class="ttdeci">void SignalHandler(std::weak_ptr&lt; Acore::Asio::IoContext &gt; ioContextRef, boost::system::error_code const &amp;error, int signalNumber)</div><div class="ttdef"><b>Definition</b> Main.cpp:233</div></div>
 <div class="ttc" id="astructAcore_1_1Impl_1_1CurrentServerProcessHolder_html_ab0344571616786baef4511c647a3abea"><div class="ttname"><a href="../../db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea">Acore::Impl::CurrentServerProcessHolder::_type</a></div><div class="ttdeci">static ServerProcessTypes _type</div><div class="ttdef"><b>Definition</b> SharedDefines.h:4029</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">_ACORE_REALM_CONFIG</a>, <a class="el" href="../../#l04029">Acore::Impl::CurrentServerProcessHolder::_type</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00259">BanExpiryHandler()</a>, <a class="el" href="../../#l00025">CONFIG_HIGH_PRIORITY</a>, <a class="el" href="../../#l00024">CONFIG_PROCESSOR_AFFINITY</a>, <a class="el" href="../../#l00218">CreatePIDFile()</a>, <a class="el" href="../../#l00274">GetConsoleArguments()</a>, <a class="el" href="../../#l00025">Acore::Asio::SteadyTimer::GetExpirationTime()</a>, <a class="el" href="../../#l00244">KeepDatabaseAliveHandler()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00063">sAuthSocketMgr</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l04004">SERVER_PROCESS_AUTHSERVER</a>, <a class="el" href="../../#l00029">SetProcessPriority()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00233">SignalHandler()</a>, <a class="el" href="../../#l00049">sIPLocation</a>, <a class="el" href="../../#l00127">sLog</a>, <a class="el" href="../../#l00083">sRealmList</a>, <a class="el" href="../../#l00072">sSecretMgr</a>, <a class="el" href="../../#l00207">StartDB()</a>, <a class="el" href="../../#l00227">StopDB()</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, and <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00054">_ACORE_REALM_CONFIG</a>, <a class="el" href="../../#l04029">Acore::Impl::CurrentServerProcessHolder::_type</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00259">BanExpiryHandler()</a>, <a class="el" href="../../#l00025">CONFIG_HIGH_PRIORITY</a>, <a class="el" href="../../#l00024">CONFIG_PROCESSOR_AFFINITY</a>, <a class="el" href="../../#l00218">CreatePIDFile()</a>, <a class="el" href="../../#l00274">GetConsoleArguments()</a>, <a class="el" href="../../#l00025">Acore::Asio::SteadyTimer::GetExpirationTime()</a>, <a class="el" href="../../#l00244">KeepDatabaseAliveHandler()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00063">sAuthSocketMgr</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, <a class="el" href="../../#l04004">SERVER_PROCESS_AUTHSERVER</a>, <a class="el" href="../../#l00029">SetProcessPriority()</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00233">SignalHandler()</a>, <a class="el" href="../../#l00049">sIPLocation</a>, <a class="el" href="../../#l00127">sLog</a>, <a class="el" href="../../#l00083">sRealmList</a>, <a class="el" href="../../#l00072">sSecretMgr</a>, <a class="el" href="../../#l00207">StartDB()</a>, <a class="el" href="../../#l00227">StopDB()</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, and <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>.</p>
 
 </div>
 </div>
@@ -634,7 +635,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="aclassDatabaseLoader_html"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a></div><div class="ttdef"><b>Definition</b> DatabaseLoader.h:33</div></div>
 <div class="ttc" id="anamespaceMySQL_html_a70b74137156f0a22792c3cf95c54decc"><div class="ttname"><a href="../../d0/dc2/namespaceMySQL.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a></div><div class="ttdeci">AC_DATABASE_API void Library_Init()</div><div class="ttdef"><b>Definition</b> MySQLThreading.cpp:21</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">DatabaseLoader::AddDatabase()</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00154">DatabaseLoader::Load()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, and <a class="el" href="../../#l00127">sLog</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">DatabaseLoader::AddDatabase()</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00173">DatabaseLoader::Load()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, and <a class="el" href="../../#l00127">sLog</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00069">main()</a>.</p>
 
@@ -674,7 +675,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_5048a8ff141d56662c703e95f88ef858.html">authserver</a></li><li class="navelem"><a class="el" href="../../d1/dbe/server_2apps_2authserver_2Main_8cpp.html">Main.cpp</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:21:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -177,7 +177,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1786</span>: <a class="code hl_class" href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a>(<span class="stringliteral">&quot;achievement_thorim_stand_in_the_lightning&quot;</span>) {}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1784</span>: <a class="code hl_class" href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a>(<span class="stringliteral">&quot;achievement_thorim_stand_in_the_lightning&quot;</span>) {}</div>
 <div class="ttc" id="aclassAchievementCriteriaScript_html"><div class="ttname"><a href="../../d2/d9f/classAchievementCriteriaScript.html">AchievementCriteriaScript</a></div><div class="ttdef"><b>Definition</b> AchievementCriteriaScript.h:24</div></div>
 </div><!-- fragment -->
 </div>
@@ -224,13 +224,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/d9f/classAchievementCriteriaScript.html#a9fab6f158219db6d5a65b0b302cf285e">AchievementCriteriaScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1789</span>    {</div>
-<div class="line"><span class="lineno"> 1790</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 1791</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*player, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabb1b0edc1965fbd31cd4e7b5f4ea7f7e">TYPE_THORIM</a>)))</div>
-<div class="line"><span class="lineno"> 1792</span>                <span class="keywordflow">return</span> cr-&gt;AI()-&gt;GetData(<a class="code hl_enumvalue" href="../../d0/d89/boss__thorim_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a83470ca941a178c2a307e472bfcbc68e">DATA_HIT_BY_LIGHTNING</a>);</div>
-<div class="line"><span class="lineno"> 1793</span> </div>
-<div class="line"><span class="lineno"> 1794</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1795</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1787</span>    {</div>
+<div class="line"><span class="lineno"> 1788</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 1789</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*player, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfabb1b0edc1965fbd31cd4e7b5f4ea7f7e">TYPE_THORIM</a>)))</div>
+<div class="line"><span class="lineno"> 1790</span>                <span class="keywordflow">return</span> cr-&gt;AI()-&gt;GetData(<a class="code hl_enumvalue" href="../../d0/d89/boss__thorim_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a83470ca941a178c2a307e472bfcbc68e">DATA_HIT_BY_LIGHTNING</a>);</div>
+<div class="line"><span class="lineno"> 1791</span> </div>
+<div class="line"><span class="lineno"> 1792</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1793</span>    }</div>
 <div class="ttc" id="aboss__thorim_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a83470ca941a178c2a307e472bfcbc68e"><div class="ttname"><a href="../../d0/d89/boss__thorim_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a83470ca941a178c2a307e472bfcbc68e">DATA_HIT_BY_LIGHTNING</a></div><div class="ttdeci">@ DATA_HIT_BY_LIGHTNING</div><div class="ttdef"><b>Definition</b> boss_thorim.cpp:323</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassInstanceScript_html"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html">InstanceScript</a></div><div class="ttdef"><b>Definition</b> InstanceScript.h:143</div></div>
@@ -251,7 +251,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d6f/classachievement__thorim__stand__in__the__lightning.html">achievement_thorim_stand_in_the_lightning</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:21:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -232,8 +232,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac737070ba7a8645d0e0ccf6bd6107004 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI" id="r_a7bcc69343b6a69e2a938f8c4f1cdee53"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a7bcc69343b6a69e2a938f8c4f1cdee53">OnPossess</a> (bool)</td></tr>
 <tr class="separator:a7bcc69343b6a69e2a938f8c4f1cdee53 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI" id="r_a9c2b5e782b5a11ecca593cd43432bf51"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a9c2b5e782b5a11ecca593cd43432bf51">SetRun</a> (bool run)</td></tr>
-<tr class="separator:a9c2b5e782b5a11ecca593cd43432bf51 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI" id="r_aba9c8572cd7c813e0e3dc1de897b7ed7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7">IsInRoom</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, <a class="el" href="../../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8">Axis</a> axis, bool above)</td></tr>
 <tr class="separator:aba9c8572cd7c813e0e3dc1de897b7ed7 inherit pub_methods_structScriptedAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26600c116d20a33461fc884bdb82eda9 inherit pub_methods_structScriptedAI" id="r_a26600c116d20a33461fc884bdb82eda9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dc8/structScriptedAI.html#a26600c116d20a33461fc884bdb82eda9">Reset</a> () override</td></tr>
@@ -627,7 +625,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>: <a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>: <a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>(creature) { }</div>
 <div class="ttc" id="astructnpc__escortAI_html"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a></div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
@@ -658,10 +656,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  117</span>        {</div>
-<div class="line"><span class="lineno">  118</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
-<div class="line"><span class="lineno">  119</span>                player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827">QUEST_CHASING_AME</a>);</div>
-<div class="line"><span class="lineno">  120</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  118</span>        {</div>
+<div class="line"><span class="lineno">  119</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">  120</span>                player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827">QUEST_CHASING_AME</a>);</div>
+<div class="line"><span class="lineno">  121</span>        }</div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1071</div></div>
 <div class="ttc" id="astructnpc__escortAI_html_a689a50e0af6c80ef59ee207ac518df45"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">npc_escortAI::GetPlayerForEscort</a></div><div class="ttdeci">Player * GetPlayerForEscort()</div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:113</div></div>
 <div class="ttc" id="azone__ungoro__crater_8cpp_html_abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827"><div class="ttname"><a href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827">QUEST_CHASING_AME</a></div><div class="ttdeci">@ QUEST_CHASING_AME</div><div class="ttdef"><b>Definition</b> zone_ungoro_crater.cpp:36</div></div>
@@ -695,14 +693,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  112</span>        {</div>
-<div class="line"><span class="lineno">  113</span>            summoned-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  114</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  113</span>        {</div>
+<div class="line"><span class="lineno">  114</span>            summoned-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  115</span>        }</div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:145</div></div>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:282</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, and <a class="el" href="../../#l00282">ScriptedAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
 
 </div>
 </div>
@@ -730,12 +728,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  107</span>        {</div>
-<div class="line"><span class="lineno">  108</span>            <a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> = 5000;</div>
-<div class="line"><span class="lineno">  109</span>        }</div>
-<div class="ttc" id="astructnpc__ame_1_1npc__ameAI_html_ab5d1786735adea4bce1bba8adf42a877"><div class="ttname"><a href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">npc_ame::npc_ameAI::DemoralizingShoutTimer</a></div><div class="ttdeci">uint32 DemoralizingShoutTimer</div><div class="ttdef"><b>Definition</b> zone_ungoro_crater.cpp:69</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  108</span>        {</div>
+<div class="line"><span class="lineno">  109</span>            <a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> = 5000;</div>
+<div class="line"><span class="lineno">  110</span>        }</div>
+<div class="ttc" id="astructnpc__ame_1_1npc__ameAI_html_ab5d1786735adea4bce1bba8adf42a877"><div class="ttname"><a href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">npc_ame::npc_ameAI::DemoralizingShoutTimer</a></div><div class="ttdeci">uint32 DemoralizingShoutTimer</div><div class="ttdef"><b>Definition</b> zone_ungoro_crater.cpp:70</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">DemoralizingShoutTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">DemoralizingShoutTimer</a>.</p>
 
 </div>
 </div>
@@ -766,24 +764,24 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  123</span>        {</div>
-<div class="line"><span class="lineno">  124</span>            <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a>(diff);</div>
-<div class="line"><span class="lineno">  125</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  126</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  127</span> </div>
-<div class="line"><span class="lineno">  128</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno">  129</span>            {</div>
-<div class="line"><span class="lineno">  130</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1">SPELL_DEMORALIZINGSHOUT</a>);</div>
-<div class="line"><span class="lineno">  131</span>                <a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> = 70000;</div>
-<div class="line"><span class="lineno">  132</span>            }</div>
-<div class="line"><span class="lineno">  133</span>            <span class="keywordflow">else</span> <a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  134</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  124</span>        {</div>
+<div class="line"><span class="lineno">  125</span>            <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a>(diff);</div>
+<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  127</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno">  130</span>            {</div>
+<div class="line"><span class="lineno">  131</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1">SPELL_DEMORALIZINGSHOUT</a>);</div>
+<div class="line"><span class="lineno">  132</span>                <a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> = 70000;</div>
+<div class="line"><span class="lineno">  133</span>            }</div>
+<div class="line"><span class="lineno">  134</span>            <span class="keywordflow">else</span> <a class="code hl_variable" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877">DemoralizingShoutTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  135</span>        }</div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassUnitAI_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:276</div></div>
 <div class="ttc" id="astructnpc__escortAI_html_a5e9c333411c54ff4d644812e53ba1831"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.cpp:231</div></div>
 <div class="ttc" id="azone__ungoro__crater_8cpp_html_abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1"><div class="ttname"><a href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1">SPELL_DEMORALIZINGSHOUT</a></div><div class="ttdeci">@ SPELL_DEMORALIZINGSHOUT</div><div class="ttdef"><b>Definition</b> zone_ungoro_crater.cpp:34</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">DemoralizingShoutTimer</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00034">SPELL_DEMORALIZINGSHOUT</a>, <a class="el" href="../../#l00231">npc_escortAI::UpdateAI()</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">DemoralizingShoutTimer</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00034">SPELL_DEMORALIZINGSHOUT</a>, <a class="el" href="../../#l00231">npc_escortAI::UpdateAI()</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -812,39 +810,39 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/ddc/structnpc__escortAI.html#a59830f742b9967303df22f5bcf0d2b9d">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   72</span>        {</div>
-<div class="line"><span class="lineno">   73</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
-<div class="line"><span class="lineno">   74</span>            {</div>
-<div class="line"><span class="lineno">   75</span>                <span class="keywordflow">switch</span> (waypointId)</div>
-<div class="line"><span class="lineno">   76</span>                {</div>
-<div class="line"><span class="lineno">   77</span>                    <span class="keywordflow">case</span> 19:</div>
-<div class="line"><span class="lineno">   78</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a">ENTRY_STOMPER</a>, -6391.69f, -1730.49f, -272.83f, 4.96f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 25000))</div>
-<div class="line"><span class="lineno">   79</span>                        {</div>
-<div class="line"><span class="lineno">   80</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5">SAY_AGGRO1</a>, summoned);</div>
-<div class="line"><span class="lineno">   81</span>                        }</div>
-<div class="line"><span class="lineno">   82</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   83</span>                    <span class="keywordflow">case</span> 28:</div>
-<div class="line"><span class="lineno">   84</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77">SAY_SEARCH</a>, player);</div>
-<div class="line"><span class="lineno">   85</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   86</span>                    <span class="keywordflow">case</span> 38:</div>
-<div class="line"><span class="lineno">   87</span>                         <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec">ENTRY_TARLORD</a>, -6370.75f, -1382.84f, -270.51f, 6.06f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 25000))</div>
-<div class="line"><span class="lineno">   88</span>                         {</div>
-<div class="line"><span class="lineno">   89</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224">SAY_AGGRO2</a>, summoned);</div>
-<div class="line"><span class="lineno">   90</span>                         }</div>
-<div class="line"><span class="lineno">   91</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   92</span>                    <span class="keywordflow">case</span> 49:</div>
-<div class="line"><span class="lineno">   93</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f">ENTRY_TARLORD1</a>, -6324.44f, -1181.05f, -270.17f, 4.34f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 25000))</div>
-<div class="line"><span class="lineno">   94</span>                        {</div>
-<div class="line"><span class="lineno">   95</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e">SAY_AGGRO3</a>, summoned);</div>
-<div class="line"><span class="lineno">   96</span>                        }</div>
-<div class="line"><span class="lineno">   97</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   98</span>                    <span class="keywordflow">case</span> 55:</div>
-<div class="line"><span class="lineno">   99</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838">SAY_FINISH</a>, player);</div>
-<div class="line"><span class="lineno">  100</span>                        player-&gt;GroupEventHappens(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827">QUEST_CHASING_AME</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  101</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  102</span>                }</div>
-<div class="line"><span class="lineno">  103</span>            }</div>
-<div class="line"><span class="lineno">  104</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>        {</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">   75</span>            {</div>
+<div class="line"><span class="lineno">   76</span>                <span class="keywordflow">switch</span> (waypointId)</div>
+<div class="line"><span class="lineno">   77</span>                {</div>
+<div class="line"><span class="lineno">   78</span>                    <span class="keywordflow">case</span> 19:</div>
+<div class="line"><span class="lineno">   79</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a">ENTRY_STOMPER</a>, -6391.69f, -1730.49f, -272.83f, 4.96f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 25000))</div>
+<div class="line"><span class="lineno">   80</span>                        {</div>
+<div class="line"><span class="lineno">   81</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5">SAY_AGGRO1</a>, summoned);</div>
+<div class="line"><span class="lineno">   82</span>                        }</div>
+<div class="line"><span class="lineno">   83</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   84</span>                    <span class="keywordflow">case</span> 28:</div>
+<div class="line"><span class="lineno">   85</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77">SAY_SEARCH</a>, player);</div>
+<div class="line"><span class="lineno">   86</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   87</span>                    <span class="keywordflow">case</span> 38:</div>
+<div class="line"><span class="lineno">   88</span>                         <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec">ENTRY_TARLORD</a>, -6370.75f, -1382.84f, -270.51f, 6.06f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 25000))</div>
+<div class="line"><span class="lineno">   89</span>                         {</div>
+<div class="line"><span class="lineno">   90</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224">SAY_AGGRO2</a>, summoned);</div>
+<div class="line"><span class="lineno">   91</span>                         }</div>
+<div class="line"><span class="lineno">   92</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   93</span>                    <span class="keywordflow">case</span> 49:</div>
+<div class="line"><span class="lineno">   94</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summoned = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f">ENTRY_TARLORD1</a>, -6324.44f, -1181.05f, -270.17f, 4.34f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 25000))</div>
+<div class="line"><span class="lineno">   95</span>                        {</div>
+<div class="line"><span class="lineno">   96</span>                            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e">SAY_AGGRO3</a>, summoned);</div>
+<div class="line"><span class="lineno">   97</span>                        }</div>
+<div class="line"><span class="lineno">   98</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   99</span>                    <span class="keywordflow">case</span> 55:</div>
+<div class="line"><span class="lineno">  100</span>                        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838">SAY_FINISH</a>, player);</div>
+<div class="line"><span class="lineno">  101</span>                        player-&gt;GroupEventHappens(<a class="code hl_enumvalue" href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827">QUEST_CHASING_AME</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  102</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  103</span>                }</div>
+<div class="line"><span class="lineno">  104</span>            }</div>
+<div class="line"><span class="lineno">  105</span>        }</div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</div><div class="ttdef"><b>Definition</b> Object.h:51</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2355</div></div>
@@ -858,7 +856,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="azone__ungoro__crater_8cpp_html_abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a"><div class="ttname"><a href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a">ENTRY_STOMPER</a></div><div class="ttdeci">@ ENTRY_STOMPER</div><div class="ttdef"><b>Definition</b> zone_ungoro_crater.cpp:39</div></div>
 <div class="ttc" id="azone__ungoro__crater_8cpp_html_abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224"><div class="ttname"><a href="../../de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224">SAY_AGGRO2</a></div><div class="ttdeci">@ SAY_AGGRO2</div><div class="ttdef"><b>Definition</b> zone_ungoro_crater.cpp:30</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">ENTRY_STOMPER</a>, <a class="el" href="../../#l00037">ENTRY_TARLORD</a>, <a class="el" href="../../#l00038">ENTRY_TARLORD1</a>, <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l00282">ScriptedAI::me</a>, <a class="el" href="../../#l00036">QUEST_CHASING_AME</a>, <a class="el" href="../../#l00028">SAY_AGGRO1</a>, <a class="el" href="../../#l00030">SAY_AGGRO2</a>, <a class="el" href="../../#l00031">SAY_AGGRO3</a>, <a class="el" href="../../#l00032">SAY_FINISH</a>, <a class="el" href="../../#l00029">SAY_SEARCH</a>, <a class="el" href="../../#l02355">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00051">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">ENTRY_STOMPER</a>, <a class="el" href="../../#l00037">ENTRY_TARLORD</a>, <a class="el" href="../../#l00038">ENTRY_TARLORD1</a>, <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00036">QUEST_CHASING_AME</a>, <a class="el" href="../../#l00028">SAY_AGGRO1</a>, <a class="el" href="../../#l00030">SAY_AGGRO2</a>, <a class="el" href="../../#l00031">SAY_AGGRO3</a>, <a class="el" href="../../#l00032">SAY_FINISH</a>, <a class="el" href="../../#l00029">SAY_SEARCH</a>, <a class="el" href="../../#l02355">WorldObject::SummonCreature()</a>, and <a class="el" href="../../#l00051">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>.</p>
 
 </div>
 </div>
@@ -875,7 +873,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00106">Reset()</a>, and <a class="el" href="../../#l00122">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00107">Reset()</a>, and <a class="el" href="../../#l00123">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -888,7 +886,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d7d/classnpc__ame.html">npc_ame</a></li><li class="navelem"><a class="el" href="../../d6/d75/structnpc__ame_1_1npc__ameAI.html">npc_ameAI</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:22:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

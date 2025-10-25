@@ -203,35 +203,36 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  140</span>        (<span class="stringliteral">&quot;help,h&quot;</span>, <span class="stringliteral">&quot;print usage message&quot;</span>)</div>
 <div class="line"><span class="lineno">  141</span>        (<span class="stringliteral">&quot;version,v&quot;</span>, <span class="stringliteral">&quot;print version build info&quot;</span>)</div>
 <div class="line"><span class="lineno">  142</span>        (<span class="stringliteral">&quot;dry-run,d&quot;</span>, <span class="stringliteral">&quot;Dry run&quot;</span>)</div>
-<div class="line"><span class="lineno">  143</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>);</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>    variables_map variablesMap;</div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">  148</span>    {</div>
-<div class="line"><span class="lineno">  149</span>        store(command_line_parser(argc, argv).options(all).allow_unregistered().run(), variablesMap);</div>
-<div class="line"><span class="lineno">  150</span>        notify(variablesMap);</div>
-<div class="line"><span class="lineno">  151</span>    }</div>
-<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
-<div class="line"><span class="lineno">  153</span>    {</div>
-<div class="line"><span class="lineno">  154</span>        std::cerr &lt;&lt; e.what() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  155</span>    }</div>
-<div class="line"><span class="lineno">  156</span> </div>
-<div class="line"><span class="lineno">  157</span>    <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
-<div class="line"><span class="lineno">  158</span>    {</div>
-<div class="line"><span class="lineno">  159</span>        std::cout &lt;&lt; all &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  160</span>    }</div>
-<div class="line"><span class="lineno">  161</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
-<div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  164</span>    }</div>
-<div class="line"><span class="lineno">  165</span> </div>
-<div class="line"><span class="lineno">  166</span>    <span class="keywordflow">return</span> variablesMap;</div>
-<div class="line"><span class="lineno">  167</span>}</div>
-<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
+<div class="line"><span class="lineno">  143</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>)</div>
+<div class="line"><span class="lineno">  144</span>        (<span class="stringliteral">&quot;config-policy&quot;</span>, value&lt;std::string&gt;()-&gt;value_name(<span class="stringliteral">&quot;policy&quot;</span>), <span class="stringliteral">&quot;override config severity policy (e.g. default=skip,critical_option=fatal)&quot;</span>);</div>
+<div class="line"><span class="lineno">  145</span> </div>
+<div class="line"><span class="lineno">  146</span>    variables_map variablesMap;</div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">  149</span>    {</div>
+<div class="line"><span class="lineno">  150</span>        store(command_line_parser(argc, argv).options(all).allow_unregistered().run(), variablesMap);</div>
+<div class="line"><span class="lineno">  151</span>        notify(variablesMap);</div>
+<div class="line"><span class="lineno">  152</span>    }</div>
+<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
+<div class="line"><span class="lineno">  154</span>    {</div>
+<div class="line"><span class="lineno">  155</span>        std::cerr &lt;&lt; e.what() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  156</span>    }</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>    <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
+<div class="line"><span class="lineno">  159</span>    {</div>
+<div class="line"><span class="lineno">  160</span>        std::cout &lt;&lt; all &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
+<div class="line"><span class="lineno">  163</span>    {</div>
+<div class="line"><span class="lineno">  164</span>        <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  165</span>    }</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    <span class="keywordflow">return</span> variablesMap;</div>
+<div class="line"><span class="lineno">  168</span>}</div>
+<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:93</div></div>
 <div class="ttc" id="atools_2dbimport_2Main_8cpp_html_a97392c73658eeeb49d256527b19ad90f"><div class="ttname"><a href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a></div><div class="ttdeci">#define _ACORE_DB_IMPORT_CONFIG</div><div class="ttdef"><b>Definition</b> Main.cpp:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, and <a class="el" href="../../#l00074">sConfigMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, and <a class="el" href="../../#l00093">sConfigMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00047">main()</a>.</p>
 
@@ -326,7 +327,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="atools_2dbimport_2Main_8cpp_html_a6f250d3a28ed2192d175846c6ce5795b"><div class="ttname"><a href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a></div><div class="ttdeci">variables_map GetConsoleArguments(int argc, char **argv, fs::path &amp;configFile)</div><div class="ttdef"><b>Definition</b> Main.cpp:136</div></div>
 <div class="ttc" id="atools_2dbimport_2Main_8cpp_html_a927af1587546ee7503a3b9a18f6439c0"><div class="ttname"><a href="../../d2/d50/tools_2dbimport_2Main_8cpp.html#a927af1587546ee7503a3b9a18f6439c0">StopDB</a></div><div class="ttdeci">void StopDB()</div><div class="ttdoc">Close the connection to the database.</div><div class="ttdef"><b>Definition</b> Main.cpp:128</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00136">GetConsoleArguments()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00127">sLog</a>, <a class="el" href="../../#l00102">StartDB()</a>, <a class="el" href="../../#l00128">StopDB()</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, and <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00136">GetConsoleArguments()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00127">sLog</a>, <a class="el" href="../../#l00102">StartDB()</a>, <a class="el" href="../../#l00128">StopDB()</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, and <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>.</p>
 
 </div>
 </div>
@@ -355,8 +356,8 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  109</span> </div>
 <div class="line"><span class="lineno">  110</span>    <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a> loader =</div>
 <div class="line"><span class="lineno">  111</span>        modules.empty() ? <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>) :</div>
-<div class="line"><span class="lineno">  112</span>        (modules == <span class="stringliteral">&quot;all&quot;</span>) ? <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>::DATABASE_NONE, AC_MODULES_LIST) :</div>
-<div class="line"><span class="lineno">  113</span>        <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>::DATABASE_NONE, modules);</div>
+<div class="line"><span class="lineno">  112</span>        (modules == <span class="stringliteral">&quot;all&quot;</span>) ? <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>::DATABASE_MASK_ALL, AC_MODULES_LIST) :</div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <a class="code hl_class" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a>::DATABASE_MASK_ALL, modules);</div>
 <div class="line"><span class="lineno">  114</span> </div>
 <div class="line"><span class="lineno">  115</span>    loader</div>
 <div class="line"><span class="lineno">  116</span>        .<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a90e78741afab5e8acae41e24ba256675">AddDatabase</a>(<a class="code hl_variable" href="../../d5/d5b/DatabaseEnv_8cpp.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>, <span class="stringliteral">&quot;Login&quot;</span>)</div>
@@ -373,11 +374,11 @@ Functions</h2></td></tr>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:20</div></div>
 <div class="ttc" id="aclassDatabaseLoader_html"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a></div><div class="ttdef"><b>Definition</b> DatabaseLoader.h:33</div></div>
-<div class="ttc" id="aclassDatabaseLoader_html_a90e78741afab5e8acae41e24ba256675"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a90e78741afab5e8acae41e24ba256675">DatabaseLoader::AddDatabase</a></div><div class="ttdeci">DatabaseLoader &amp; AddDatabase(DatabaseWorkerPool&lt; T &gt; &amp;pool, std::string const &amp;name)</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:35</div></div>
-<div class="ttc" id="aclassDatabaseLoader_html_ab0ffcdb400e9e5d80598f89dddb3bea8"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#ab0ffcdb400e9e5d80598f89dddb3bea8">DatabaseLoader::Load</a></div><div class="ttdeci">bool Load()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:154</div></div>
+<div class="ttc" id="aclassDatabaseLoader_html_a90e78741afab5e8acae41e24ba256675"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a90e78741afab5e8acae41e24ba256675">DatabaseLoader::AddDatabase</a></div><div class="ttdeci">DatabaseLoader &amp; AddDatabase(DatabaseWorkerPool&lt; T &gt; &amp;pool, std::string const &amp;name)</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:53</div></div>
+<div class="ttc" id="aclassDatabaseLoader_html_ab0ffcdb400e9e5d80598f89dddb3bea8"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#ab0ffcdb400e9e5d80598f89dddb3bea8">DatabaseLoader::Load</a></div><div class="ttdeci">bool Load()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:173</div></div>
 <div class="ttc" id="anamespaceMySQL_html_a70b74137156f0a22792c3cf95c54decc"><div class="ttname"><a href="../../d0/dc2/namespaceMySQL.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a></div><div class="ttdeci">AC_DATABASE_API void Library_Init()</div><div class="ttdef"><b>Definition</b> MySQLThreading.cpp:21</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">DatabaseLoader::DATABASE_NONE</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00052">DatabaseLoader::DATABASE_MASK_ALL</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00047">main()</a>.</p>
 
@@ -419,7 +420,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_641f68e763fd61f0f25b36c08d43d6d4.html">dbimport</a></li><li class="navelem"><a class="el" href="../../d2/d50/tools_2dbimport_2Main_8cpp.html">Main.cpp</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:21:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

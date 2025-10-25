@@ -907,7 +907,6 @@ var classPlayer =
     [ "SetDailyQuestStatus", "d2/d4b/classPlayer.html#a8bac7edc1e6c0ebcbd3b75090c434cd3", null ],
     [ "setDeathState", "d2/d4b/classPlayer.html#ac8736ef8f8d17239d5fd4f1c65f08c0e", null ],
     [ "SetDeveloper", "d2/d4b/classPlayer.html#a47bdbc779ae78d6804b52044f888624f", null ],
-    [ "SetDisableGravity", "d2/d4b/classPlayer.html#a63470e2e12a71a03855cdab959e23f49", null ],
     [ "SetDivider", "d2/d4b/classPlayer.html#acee0eac1bee1d48d9783c79858318c5d", null ],
     [ "SetDrunkValue", "d2/d4b/classPlayer.html#a4c1a897fc8f3d60b1f3506091127debe", null ],
     [ "SetDungeonDifficulty", "d2/d4b/classPlayer.html#a342df19ec39edf3f71fea6a3cde473d9", null ],

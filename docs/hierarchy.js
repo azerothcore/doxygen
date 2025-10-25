@@ -1934,6 +1934,7 @@ var hierarchy =
     [ "ConditionSourceInfo", "d9/d1e/structConditionSourceInfo.html", null ],
     [ "MMAP::Config", "d8/da7/classMMAP_1_1Config.html", null ],
     [ "ConfigMgr", "d4/df7/classConfigMgr.html", null ],
+    [ "ConfigPolicy", "db/dca/structConfigPolicy.html", null ],
     [ "ConfigValueCache< ConfigEnum >", "d9/dc5/classConfigValueCache.html", null ],
     [ "ConfigValueCache< ServerConfigs >", "d9/dc5/classConfigValueCache.html", [
       [ "WorldConfig", "d5/d28/classWorldConfig.html", null ]
@@ -3514,7 +3515,6 @@ var hierarchy =
         [ "boss_freya_nature_bomb", "de/d37/classboss__freya__nature__bomb.html", null ],
         [ "boss_freya_summons", "d2/d0f/classboss__freya__summons.html", null ],
         [ "boss_frostsworn_general", "dd/dbf/classboss__frostsworn__general.html", null ],
-        [ "boss_gal_darah", "d2/da8/classboss__gal__darah.html", null ],
         [ "boss_galvangar", "db/d9d/classboss__galvangar.html", null ],
         [ "boss_garfrost", "dc/d67/classboss__garfrost.html", null ],
         [ "boss_garr", "db/dc9/classboss__garr.html", null ],
@@ -4934,7 +4934,7 @@ var hierarchy =
             [ "boss_flamegor::boss_flamegorAI", "df/df0/structboss__flamegor_1_1boss__flamegorAI.html", null ],
             [ "boss_four_horsemen::boss_four_horsemenAI", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html", null ],
             [ "boss_gahzranka", "d1/dd1/structboss__gahzranka.html", null ],
-            [ "boss_gal_darah::boss_gal_darahAI", "d8/d32/structboss__gal__darah_1_1boss__gal__darahAI.html", null ],
+            [ "boss_gal_darah", "d0/dd9/structboss__gal__darah.html", null ],
             [ "boss_garr::boss_garrAI", "d8/da7/structboss__garr_1_1boss__garrAI.html", null ],
             [ "boss_gatewatcher_gyrokill", "d2/d88/structboss__gatewatcher__gyrokill.html", null ],
             [ "boss_gatewatcher_iron_hand", "d5/dee/structboss__gatewatcher__iron__hand.html", null ],

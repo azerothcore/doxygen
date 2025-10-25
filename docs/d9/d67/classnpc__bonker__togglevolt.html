@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  990</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_bonker_togglevolt&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  994</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_bonker_togglevolt&quot;</span>) { }</div>
 <div class="ttc" id="aclassCreatureScript_html"><div class="ttname"><a href="../../df/dc9/classCreatureScript.html">CreatureScript</a></div><div class="ttdef"><b>Definition</b> CreatureScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -239,9 +239,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1051</span>    {</div>
-<div class="line"><span class="lineno"> 1052</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> npc_bonker_togglevoltAI(creature);</div>
-<div class="line"><span class="lineno"> 1053</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1054</span>    {</div>
+<div class="line"><span class="lineno"> 1055</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> npc_bonker_togglevoltAI(creature);</div>
+<div class="line"><span class="lineno"> 1056</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -286,28 +286,26 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a6b106a237886f49e523ae7b07e9c5979">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  993</span>    {</div>
-<div class="line"><span class="lineno">  994</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42">QUEST_GET_ME_OUTA_HERE</a>)</div>
-<div class="line"><span class="lineno">  995</span>        {</div>
-<div class="line"><span class="lineno">  996</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
-<div class="line"><span class="lineno">  997</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5">SAY_BONKER_2</a>, player);</div>
-<div class="line"><span class="lineno">  998</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  999</span>            <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>, (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()))-&gt;Start(<span class="keyword">true</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno"> 1000</span>        }</div>
-<div class="line"><span class="lineno"> 1001</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1002</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  997</span>    {</div>
+<div class="line"><span class="lineno">  998</span>        <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42">QUEST_GET_ME_OUTA_HERE</a>)</div>
+<div class="line"><span class="lineno">  999</span>        {</div>
+<div class="line"><span class="lineno"> 1000</span>            creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">SetStandState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a>);</div>
+<div class="line"><span class="lineno"> 1001</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5">SAY_BONKER_2</a>, player);</div>
+<div class="line"><span class="lineno"> 1002</span>            <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>, (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()))-&gt;Start(<span class="keyword">true</span>, player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno"> 1003</span>        }</div>
+<div class="line"><span class="lineno"> 1004</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1005</span>    }</div>
 <div class="ttc" id="aUnitAI_8h_html_a0476b18cfebeb691aabb4344ec4f8af3"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a></div><div class="ttdeci">#define CAST_AI(a, b)</div><div class="ttdef"><b>Definition</b> UnitAI.h:26</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a></div><div class="ttdeci">@ UNIT_STAND_STATE_STAND</div><div class="ttdef"><b>Definition</b> UnitDefines.h:32</div></div>
 <div class="ttc" id="aclassCreatureAI_html_abd2599c664cd9ba230b1937923251621"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">CreatureAI::Talk</a></div><div class="ttdeci">void Talk(uint8 id, WorldObject const *whisperTarget=nullptr, Milliseconds delay=0ms)</div><div class="ttdoc">Causes the creature to talk/say the text assigned to their entry in the creature_text database table.</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:53</div></div>
-<div class="ttc" id="aclassCreature_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition</b> Creature.cpp:3222</div></div>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:145</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
-<div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16802</div></div>
+<div class="ttc" id="aclassUnit_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16741</div></div>
 <div class="ttc" id="astructnpc__escortAI_html"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a></div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:53</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42">QUEST_GET_ME_OUTA_HERE</a></div><div class="ttdeci">@ QUEST_GET_ME_OUTA_HERE</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:981</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5">SAY_BONKER_2</a></div><div class="ttdeci">@ SAY_BONKER_2</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:984</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42">QUEST_GET_ME_OUTA_HERE</a></div><div class="ttdeci">@ QUEST_GET_ME_OUTA_HERE</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:985</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5">SAY_BONKER_2</a></div><div class="ttdeci">@ SAY_BONKER_2</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:988</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00981">QUEST_GET_ME_OUTA_HERE</a>, <a class="el" href="../../#l00984">SAY_BONKER_2</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, <a class="el" href="../../#l03222">Creature::SetWalk()</a>, <a class="el" href="../../#l00053">CreatureAI::Talk()</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00985">QUEST_GET_ME_OUTA_HERE</a>, <a class="el" href="../../#l00988">SAY_BONKER_2</a>, <a class="el" href="../../#l16741">Unit::SetStandState()</a>, <a class="el" href="../../#l00053">CreatureAI::Talk()</a>, and <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>.</p>
 
 </div>
 </div>
@@ -320,7 +318,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d67/classnpc__bonker__togglevolt.html">npc_bonker_togglevolt</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:22:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

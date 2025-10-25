@@ -206,7 +206,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  494</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_bristlelimb_cage&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  495</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_bristlelimb_cage&quot;</span>) { }</div>
 <div class="ttc" id="aclassGameObjectScript_html"><div class="ttname"><a href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></div><div class="ttdef"><b>Definition</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -247,19 +247,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  497</span>    {</div>
-<div class="line"><span class="lineno">  498</span>        go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a076a61c5824ee381e456486af8ceb87d">SetGoState</a>(<a class="code hl_enumvalue" href="../../dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a>);</div>
-<div class="line"><span class="lineno">  499</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_enumvalue" href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5">QUEST_THE_PROPHECY_OF_AKIDA</a>) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
-<div class="line"><span class="lineno">  500</span>        {</div>
-<div class="line"><span class="lineno">  501</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* capitive = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf">NPC_STILLPINE_CAPITIVE</a>, 5.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  502</span>            {</div>
-<div class="line"><span class="lineno">  503</span>                go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a9cd78a515074efe0af8cedd4f92ba085">ResetDoorOrButton</a>();</div>
-<div class="line"><span class="lineno">  504</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html">npc_stillpine_capitive::npc_stillpine_capitiveAI</a>, capitive-&gt;AI())-&gt;StartMoving(player);</div>
-<div class="line"><span class="lineno">  505</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  506</span>            }</div>
-<div class="line"><span class="lineno">  507</span>        }</div>
-<div class="line"><span class="lineno">  508</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  509</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  498</span>    {</div>
+<div class="line"><span class="lineno">  499</span>        go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a076a61c5824ee381e456486af8ceb87d">SetGoState</a>(<a class="code hl_enumvalue" href="../../dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a>);</div>
+<div class="line"><span class="lineno">  500</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_enumvalue" href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5">QUEST_THE_PROPHECY_OF_AKIDA</a>) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
+<div class="line"><span class="lineno">  501</span>        {</div>
+<div class="line"><span class="lineno">  502</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* capitive = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf">NPC_STILLPINE_CAPITIVE</a>, 5.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  503</span>            {</div>
+<div class="line"><span class="lineno">  504</span>                go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a9cd78a515074efe0af8cedd4f92ba085">ResetDoorOrButton</a>();</div>
+<div class="line"><span class="lineno">  505</span>                <a class="code hl_define" href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a>(<a class="code hl_struct" href="../../d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html">npc_stillpine_capitive::npc_stillpine_capitiveAI</a>, capitive-&gt;AI())-&gt;StartMoving(player);</div>
+<div class="line"><span class="lineno">  506</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  507</span>            }</div>
+<div class="line"><span class="lineno">  508</span>        }</div>
+<div class="line"><span class="lineno">  509</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  510</span>    }</div>
 <div class="ttc" id="aGameObjectData_8h_html_ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"><div class="ttname"><a href="../../dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a></div><div class="ttdeci">@ GO_STATE_READY</div><div class="ttdef"><b>Definition</b> GameObjectData.h:692</div></div>
 <div class="ttc" id="aQuestDef_8h_html_abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a></div><div class="ttdeci">@ QUEST_STATUS_INCOMPLETE</div><div class="ttdef"><b>Definition</b> QuestDef.h:103</div></div>
 <div class="ttc" id="aUnitAI_8h_html_a0476b18cfebeb691aabb4344ec4f8af3"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3">CAST_AI</a></div><div class="ttdeci">#define CAST_AI(a, b)</div><div class="ttdef"><b>Definition</b> UnitAI.h:26</div></div>
@@ -268,11 +268,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassGameObject_html_a9cd78a515074efe0af8cedd4f92ba085"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a9cd78a515074efe0af8cedd4f92ba085">GameObject::ResetDoorOrButton</a></div><div class="ttdeci">void ResetDoorOrButton()</div><div class="ttdef"><b>Definition</b> GameObject.cpp:1400</div></div>
 <div class="ttc" id="aclassPlayer_html_ab98c62b0161d702e4219c8277f8f5349"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">Player::GetQuestStatus</a></div><div class="ttdeci">QuestStatus GetQuestStatus(uint32 quest_id) const</div><div class="ttdef"><b>Definition</b> PlayerQuest.cpp:1430</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa7cc61d571dbc39ca8ac6ac10ffd18ab"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">WorldObject::FindNearestCreature</a></div><div class="ttdeci">Creature * FindNearestCreature(uint32 entry, float range, bool alive=true) const</div><div class="ttdef"><b>Definition</b> Object.cpp:2446</div></div>
-<div class="ttc" id="astructnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI_html"><div class="ttname"><a href="../../d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html">npc_stillpine_capitive::npc_stillpine_capitiveAI</a></div><div class="ttdef"><b>Definition</b> zone_azuremyst_isle.cpp:430</div></div>
-<div class="ttc" id="azone__azuremyst__isle_8cpp_html_ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5"><div class="ttname"><a href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5">QUEST_THE_PROPHECY_OF_AKIDA</a></div><div class="ttdeci">@ QUEST_THE_PROPHECY_OF_AKIDA</div><div class="ttdef"><b>Definition</b> zone_azuremyst_isle.cpp:414</div></div>
-<div class="ttc" id="azone__azuremyst__isle_8cpp_html_ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf"><div class="ttname"><a href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf">NPC_STILLPINE_CAPITIVE</a></div><div class="ttdeci">@ NPC_STILLPINE_CAPITIVE</div><div class="ttdef"><b>Definition</b> zone_azuremyst_isle.cpp:415</div></div>
+<div class="ttc" id="astructnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI_html"><div class="ttname"><a href="../../d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html">npc_stillpine_capitive::npc_stillpine_capitiveAI</a></div><div class="ttdef"><b>Definition</b> zone_azuremyst_isle.cpp:431</div></div>
+<div class="ttc" id="azone__azuremyst__isle_8cpp_html_ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5"><div class="ttname"><a href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5">QUEST_THE_PROPHECY_OF_AKIDA</a></div><div class="ttdeci">@ QUEST_THE_PROPHECY_OF_AKIDA</div><div class="ttdef"><b>Definition</b> zone_azuremyst_isle.cpp:415</div></div>
+<div class="ttc" id="azone__azuremyst__isle_8cpp_html_ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf"><div class="ttname"><a href="../../d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf">NPC_STILLPINE_CAPITIVE</a></div><div class="ttdeci">@ NPC_STILLPINE_CAPITIVE</div><div class="ttdef"><b>Definition</b> zone_azuremyst_isle.cpp:416</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l02446">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l01430">Player::GetQuestStatus()</a>, <a class="el" href="../../#l00692">GO_STATE_READY</a>, <a class="el" href="../../#l00415">NPC_STILLPINE_CAPITIVE</a>, <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>, <a class="el" href="../../#l00414">QUEST_THE_PROPHECY_OF_AKIDA</a>, <a class="el" href="../../#l01400">GameObject::ResetDoorOrButton()</a>, and <a class="el" href="../../#l02463">GameObject::SetGoState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00026">CAST_AI</a>, <a class="el" href="../../#l02446">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l01430">Player::GetQuestStatus()</a>, <a class="el" href="../../#l00692">GO_STATE_READY</a>, <a class="el" href="../../#l00416">NPC_STILLPINE_CAPITIVE</a>, <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>, <a class="el" href="../../#l00415">QUEST_THE_PROPHECY_OF_AKIDA</a>, <a class="el" href="../../#l01400">GameObject::ResetDoorOrButton()</a>, and <a class="el" href="../../#l02463">GameObject::SetGoState()</a>.</p>
 
 </div>
 </div>
@@ -285,7 +285,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d15/classgo__bristlelimb__cage.html">go_bristlelimb_cage</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:22:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

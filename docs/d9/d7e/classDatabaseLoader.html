@@ -302,16 +302,16 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>    : <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>(logger),</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa8a04dd529b60165d92e80c3690e0e56">_modulesList</a>(modulesList),</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6">_autoSetup</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.AutoSetup&quot;</span>, <span class="keyword">true</span>)),</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">_updateFlags</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;Updates.EnableDatabases&quot;</span>, defaultUpdateMask)) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>    : <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>(logger),</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa8a04dd529b60165d92e80c3690e0e56">_modulesList</a>(modulesList),</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6">_autoSetup</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<span class="keywordtype">bool</span>&gt;(<span class="stringliteral">&quot;Updates.AutoSetup&quot;</span>, <span class="keyword">true</span>)),</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">_updateFlags</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;Updates.EnableDatabases&quot;</span>, defaultUpdateMask)) { }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aclassDatabaseLoader_html_a2cfecfa5c98f816deca6b1f8fd19f8ed"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">DatabaseLoader::_logger</a></div><div class="ttdeci">std::string const _logger</div><div class="ttdef"><b>Definition</b> DatabaseLoader.h:73</div></div>
 <div class="ttc" id="aclassDatabaseLoader_html_a3335a6486e3e65b1ca3cbe42167455c6"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6">DatabaseLoader::_autoSetup</a></div><div class="ttdeci">bool const _autoSetup</div><div class="ttdef"><b>Definition</b> DatabaseLoader.h:75</div></div>
 <div class="ttc" id="aclassDatabaseLoader_html_a5e34623110250746c5da5693c11facc6"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">DatabaseLoader::_updateFlags</a></div><div class="ttdeci">uint32 const _updateFlags</div><div class="ttdef"><b>Definition</b> DatabaseLoader.h:76</div></div>
 <div class="ttc" id="aclassDatabaseLoader_html_aa8a04dd529b60165d92e80c3690e0e56"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#aa8a04dd529b60165d92e80c3690e0e56">DatabaseLoader::_modulesList</a></div><div class="ttdeci">std::string_view _modulesList</div><div class="ttdef"><b>Definition</b> DatabaseLoader.h:74</div></div>
-<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:74</div></div>
+<div class="ttc" id="acommon_2Configuration_2Config_8h_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition</b> Config.h:93</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -343,123 +343,124 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> updatesEnabledForThis = <a class="code hl_function" href="../../d0/d66/classDBUpdater.html#aa4bd2974f787e0ef294e82863f0b11c8">DBUpdater&lt;T&gt;::IsEnabled</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">_updateFlags</a>);</div>
-<div class="line"><span class="lineno">   38</span> </div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ab3d8ecdebaa70141830f50a4a0f17d78">_open</a>.push([<span class="keyword">this</span>, name, updatesEnabledForThis, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
-<div class="line"><span class="lineno">   40</span>    {</div>
-<div class="line"><span class="lineno">   41</span>        std::string <span class="keyword">const</span> dbString = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(name + <span class="stringliteral">&quot;DatabaseInfo&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">if</span> (dbString.empty())</div>
-<div class="line"><span class="lineno">   43</span>        {</div>
-<div class="line"><span class="lineno">   44</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Database {} not specified in configuration file!&quot;</span>, name);</div>
-<div class="line"><span class="lineno">   45</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   46</span>        }</div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> asyncThreads = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(name + <span class="stringliteral">&quot;Database.WorkerThreads&quot;</span>, 1);</div>
-<div class="line"><span class="lineno">   49</span>        <span class="keywordflow">if</span> (asyncThreads &lt; 1 || asyncThreads &gt; 32)</div>
-<div class="line"><span class="lineno">   50</span>        {</div>
-<div class="line"><span class="lineno">   51</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;{} database: invalid number of worker threads specified. &quot;</span></div>
-<div class="line"><span class="lineno">   52</span>                      <span class="stringliteral">&quot;Please pick a value between 1 and 32.&quot;</span>, name);</div>
-<div class="line"><span class="lineno">   53</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   54</span>        }</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> synchThreads = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(name + <span class="stringliteral">&quot;Database.SynchThreads&quot;</span>, 1);</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>        pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a5d519cee643b1aa5f5837d3a288f7fdf">SetConnectionInfo</a>(dbString, asyncThreads, synchThreads);</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> error = pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a3b14aba401eab1f610bacff590ce403e">Open</a>())</div>
-<div class="line"><span class="lineno">   61</span>        {</div>
-<div class="line"><span class="lineno">   62</span>            <span class="comment">// Try reconnect</span></div>
-<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">if</span> (error == CR_CONNECTION_ERROR)</div>
-<div class="line"><span class="lineno">   64</span>            {</div>
-<div class="line"><span class="lineno">   65</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> attempts = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(<span class="stringliteral">&quot;Database.Reconnect.Attempts&quot;</span>, 20);</div>
-<div class="line"><span class="lineno">   66</span>                <a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> reconnectSeconds = <a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(<span class="stringliteral">&quot;Database.Reconnect.Seconds&quot;</span>, 15));</div>
-<div class="line"><span class="lineno">   67</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> reconnectCount = 0;</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>                <span class="keywordflow">while</span> (reconnectCount &lt; attempts)</div>
-<div class="line"><span class="lineno">   70</span>                {</div>
-<div class="line"><span class="lineno">   71</span>                    <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;&gt; Retrying after {} seconds&quot;</span>, <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(reconnectSeconds.count()));</div>
-<div class="line"><span class="lineno">   72</span>                    std::this_thread::sleep_for(reconnectSeconds);</div>
-<div class="line"><span class="lineno">   73</span>                    error = pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a3b14aba401eab1f610bacff590ce403e">Open</a>();</div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> updatesEnabledForThis = <a class="code hl_function" href="../../d0/d66/classDBUpdater.html#aa4bd2974f787e0ef294e82863f0b11c8">DBUpdater&lt;T&gt;::IsEnabled</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">_updateFlags</a>);</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ab3d8ecdebaa70141830f50a4a0f17d78">_open</a>.push([<span class="keyword">this</span>, name, updatesEnabledForThis, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
+<div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        std::string <span class="keyword">const</span>&amp; defaultDatabaseInfo = GetDefaultDatabaseInfo(name);</div>
+<div class="line"><span class="lineno">   60</span>        std::string <span class="keyword">const</span> dbString = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(name + <span class="stringliteral">&quot;DatabaseInfo&quot;</span>, defaultDatabaseInfo);</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (dbString.empty())</div>
+<div class="line"><span class="lineno">   62</span>        {</div>
+<div class="line"><span class="lineno">   63</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Database {} not specified in configuration file!&quot;</span>, name);</div>
+<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> asyncThreads = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(name + <span class="stringliteral">&quot;Database.WorkerThreads&quot;</span>, 1);</div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">if</span> (asyncThreads &lt; 1 || asyncThreads &gt; 32)</div>
+<div class="line"><span class="lineno">   69</span>        {</div>
+<div class="line"><span class="lineno">   70</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;{} database: invalid number of worker threads specified. &quot;</span></div>
+<div class="line"><span class="lineno">   71</span>                      <span class="stringliteral">&quot;Please pick a value between 1 and 32.&quot;</span>, name);</div>
+<div class="line"><span class="lineno">   72</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   73</span>        }</div>
 <div class="line"><span class="lineno">   74</span> </div>
-<div class="line"><span class="lineno">   75</span>                    <span class="keywordflow">if</span> (error == CR_CONNECTION_ERROR)</div>
-<div class="line"><span class="lineno">   76</span>                    {</div>
-<div class="line"><span class="lineno">   77</span>                        reconnectCount++;</div>
-<div class="line"><span class="lineno">   78</span>                    }</div>
-<div class="line"><span class="lineno">   79</span>                    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   80</span>                    {</div>
-<div class="line"><span class="lineno">   81</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   82</span>                    }</div>
-<div class="line"><span class="lineno">   83</span>                }</div>
-<div class="line"><span class="lineno">   84</span>            }</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>            <span class="comment">// Database does not exist</span></div>
-<div class="line"><span class="lineno">   87</span>            <span class="keywordflow">if</span> ((error == ER_BAD_DB_ERROR) &amp;&amp; updatesEnabledForThis &amp;&amp; <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6">_autoSetup</a>)</div>
-<div class="line"><span class="lineno">   88</span>            {</div>
-<div class="line"><span class="lineno">   89</span>                <span class="comment">// Try to create the database and connect again if auto setup is enabled</span></div>
-<div class="line"><span class="lineno">   90</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt;T&gt;::Create</a>(pool) &amp;&amp; (!pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a3b14aba401eab1f610bacff590ce403e">Open</a>()))</div>
-<div class="line"><span class="lineno">   91</span>                {</div>
-<div class="line"><span class="lineno">   92</span>                    error = 0;</div>
-<div class="line"><span class="lineno">   93</span>                }</div>
-<div class="line"><span class="lineno">   94</span>            }</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>            <span class="comment">// If the error wasn&#39;t handled quit</span></div>
-<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">if</span> (error)</div>
-<div class="line"><span class="lineno">   98</span>            {</div>
-<div class="line"><span class="lineno">   99</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;DatabasePool {} NOT opened. There were errors opening the MySQL connections. &quot;</span></div>
-<div class="line"><span class="lineno">  100</span>                          <span class="stringliteral">&quot;Check your log file for specific errors&quot;</span>, name);</div>
-<div class="line"><span class="lineno">  101</span> </div>
-<div class="line"><span class="lineno">  102</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   75</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> synchThreads = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(name + <span class="stringliteral">&quot;Database.SynchThreads&quot;</span>, 1);</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>        pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a5d519cee643b1aa5f5837d3a288f7fdf">SetConnectionInfo</a>(dbString, asyncThreads, synchThreads);</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> error = pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a3b14aba401eab1f610bacff590ce403e">Open</a>())</div>
+<div class="line"><span class="lineno">   80</span>        {</div>
+<div class="line"><span class="lineno">   81</span>            <span class="comment">// Try reconnect</span></div>
+<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">if</span> (error == CR_CONNECTION_ERROR)</div>
+<div class="line"><span class="lineno">   83</span>            {</div>
+<div class="line"><span class="lineno">   84</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span> attempts = <a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(<span class="stringliteral">&quot;Database.Reconnect.Attempts&quot;</span>, 20);</div>
+<div class="line"><span class="lineno">   85</span>                <a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> reconnectSeconds = <a class="code hl_typedef" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>(<a class="code hl_define" href="../../dc/d25/common_2Configuration_2Config_8h.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;(<span class="stringliteral">&quot;Database.Reconnect.Seconds&quot;</span>, 15));</div>
+<div class="line"><span class="lineno">   86</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> reconnectCount = 0;</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>                <span class="keywordflow">while</span> (reconnectCount &lt; attempts)</div>
+<div class="line"><span class="lineno">   89</span>                {</div>
+<div class="line"><span class="lineno">   90</span>                    <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;&gt; Retrying after {} seconds&quot;</span>, <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(reconnectSeconds.count()));</div>
+<div class="line"><span class="lineno">   91</span>                    std::this_thread::sleep_for(reconnectSeconds);</div>
+<div class="line"><span class="lineno">   92</span>                    error = pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a3b14aba401eab1f610bacff590ce403e">Open</a>();</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>                    <span class="keywordflow">if</span> (error == CR_CONNECTION_ERROR)</div>
+<div class="line"><span class="lineno">   95</span>                    {</div>
+<div class="line"><span class="lineno">   96</span>                        reconnectCount++;</div>
+<div class="line"><span class="lineno">   97</span>                    }</div>
+<div class="line"><span class="lineno">   98</span>                    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   99</span>                    {</div>
+<div class="line"><span class="lineno">  100</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  101</span>                    }</div>
+<div class="line"><span class="lineno">  102</span>                }</div>
 <div class="line"><span class="lineno">  103</span>            }</div>
-<div class="line"><span class="lineno">  104</span>        }</div>
-<div class="line"><span class="lineno">  105</span>        <span class="comment">// Add the close operation</span></div>
-<div class="line"><span class="lineno">  106</span>        <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.push([&amp;pool]</div>
-<div class="line"><span class="lineno">  107</span>        {</div>
-<div class="line"><span class="lineno">  108</span>            pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#af5b0984b23e9ea23d93deaaea85e17df">Close</a>();</div>
-<div class="line"><span class="lineno">  109</span>        });</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  112</span>    });</div>
-<div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    <span class="comment">// Populate and update only if updates are enabled for this pool</span></div>
-<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (updatesEnabledForThis)</div>
-<div class="line"><span class="lineno">  116</span>    {</div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a236ce20d055e58a9e3de119c4dc2ff31">_populate</a>.push([<span class="keyword">this</span>, name, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
-<div class="line"><span class="lineno">  118</span>        {</div>
-<div class="line"><span class="lineno">  119</span>            <span class="keywordflow">if</span> (!<a class="code hl_class" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt;T&gt;::Populate</a>(pool))</div>
-<div class="line"><span class="lineno">  120</span>            {</div>
-<div class="line"><span class="lineno">  121</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Could not populate the {} database, see log for details.&quot;</span>, name);</div>
-<div class="line"><span class="lineno">  122</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  123</span>            }</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  126</span>        });</div>
-<div class="line"><span class="lineno">  127</span> </div>
-<div class="line"><span class="lineno">  128</span>        <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa0473ab9141855bd64a9dc5ac6e2bc83">_update</a>.push([<span class="keyword">this</span>, name, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
-<div class="line"><span class="lineno">  129</span>        {</div>
-<div class="line"><span class="lineno">  130</span>            <span class="keywordflow">if</span> (!<a class="code hl_class" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt;T&gt;::Update</a>(pool, <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa8a04dd529b60165d92e80c3690e0e56">_modulesList</a>))</div>
-<div class="line"><span class="lineno">  131</span>            {</div>
-<div class="line"><span class="lineno">  132</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Could not update the {} database, see log for details.&quot;</span>, name);</div>
-<div class="line"><span class="lineno">  133</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  134</span>            }</div>
-<div class="line"><span class="lineno">  135</span> </div>
-<div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  137</span>        });</div>
-<div class="line"><span class="lineno">  138</span>    }</div>
-<div class="line"><span class="lineno">  139</span> </div>
-<div class="line"><span class="lineno">  140</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a8f6f440ac4b3c1df8382b8395f740c7e">_prepare</a>.push([<span class="keyword">this</span>, name, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
-<div class="line"><span class="lineno">  141</span>    {</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (!pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a35d89f51675306362c9dcb7332b148d5">PrepareStatements</a>())</div>
-<div class="line"><span class="lineno">  143</span>        {</div>
-<div class="line"><span class="lineno">  144</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Could not prepare statements of the {} database, see log for details.&quot;</span>, name);</div>
-<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  146</span>        }</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  149</span>    });</div>
-<div class="line"><span class="lineno">  150</span> </div>
-<div class="line"><span class="lineno">  151</span>    <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  152</span>}</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>            <span class="comment">// Database does not exist</span></div>
+<div class="line"><span class="lineno">  106</span>            <span class="keywordflow">if</span> ((error == ER_BAD_DB_ERROR) &amp;&amp; updatesEnabledForThis &amp;&amp; <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6">_autoSetup</a>)</div>
+<div class="line"><span class="lineno">  107</span>            {</div>
+<div class="line"><span class="lineno">  108</span>                <span class="comment">// Try to create the database and connect again if auto setup is enabled</span></div>
+<div class="line"><span class="lineno">  109</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt;T&gt;::Create</a>(pool) &amp;&amp; (!pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a3b14aba401eab1f610bacff590ce403e">Open</a>()))</div>
+<div class="line"><span class="lineno">  110</span>                {</div>
+<div class="line"><span class="lineno">  111</span>                    error = 0;</div>
+<div class="line"><span class="lineno">  112</span>                }</div>
+<div class="line"><span class="lineno">  113</span>            }</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>            <span class="comment">// If the error wasn&#39;t handled quit</span></div>
+<div class="line"><span class="lineno">  116</span>            <span class="keywordflow">if</span> (error)</div>
+<div class="line"><span class="lineno">  117</span>            {</div>
+<div class="line"><span class="lineno">  118</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;DatabasePool {} NOT opened. There were errors opening the MySQL connections. &quot;</span></div>
+<div class="line"><span class="lineno">  119</span>                          <span class="stringliteral">&quot;Check your log file for specific errors&quot;</span>, name);</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  122</span>            }</div>
+<div class="line"><span class="lineno">  123</span>        }</div>
+<div class="line"><span class="lineno">  124</span>        <span class="comment">// Add the close operation</span></div>
+<div class="line"><span class="lineno">  125</span>        <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.push([&amp;pool]</div>
+<div class="line"><span class="lineno">  126</span>        {</div>
+<div class="line"><span class="lineno">  127</span>            pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#af5b0984b23e9ea23d93deaaea85e17df">Close</a>();</div>
+<div class="line"><span class="lineno">  128</span>        });</div>
+<div class="line"><span class="lineno">  129</span> </div>
+<div class="line"><span class="lineno">  130</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  131</span>    });</div>
+<div class="line"><span class="lineno">  132</span> </div>
+<div class="line"><span class="lineno">  133</span>    <span class="comment">// Populate and update only if updates are enabled for this pool</span></div>
+<div class="line"><span class="lineno">  134</span>    <span class="keywordflow">if</span> (updatesEnabledForThis)</div>
+<div class="line"><span class="lineno">  135</span>    {</div>
+<div class="line"><span class="lineno">  136</span>        <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a236ce20d055e58a9e3de119c4dc2ff31">_populate</a>.push([<span class="keyword">this</span>, name, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
+<div class="line"><span class="lineno">  137</span>        {</div>
+<div class="line"><span class="lineno">  138</span>            <span class="keywordflow">if</span> (!<a class="code hl_class" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt;T&gt;::Populate</a>(pool))</div>
+<div class="line"><span class="lineno">  139</span>            {</div>
+<div class="line"><span class="lineno">  140</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Could not populate the {} database, see log for details.&quot;</span>, name);</div>
+<div class="line"><span class="lineno">  141</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  142</span>            }</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  145</span>        });</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>        <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa0473ab9141855bd64a9dc5ac6e2bc83">_update</a>.push([<span class="keyword">this</span>, name, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
+<div class="line"><span class="lineno">  148</span>        {</div>
+<div class="line"><span class="lineno">  149</span>            <span class="keywordflow">if</span> (!<a class="code hl_class" href="../../d0/d66/classDBUpdater.html">DBUpdater&lt;T&gt;::Update</a>(pool, <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa8a04dd529b60165d92e80c3690e0e56">_modulesList</a>))</div>
+<div class="line"><span class="lineno">  150</span>            {</div>
+<div class="line"><span class="lineno">  151</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Could not update the {} database, see log for details.&quot;</span>, name);</div>
+<div class="line"><span class="lineno">  152</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  153</span>            }</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  156</span>        });</div>
+<div class="line"><span class="lineno">  157</span>    }</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>    <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a8f6f440ac4b3c1df8382b8395f740c7e">_prepare</a>.push([<span class="keyword">this</span>, name, &amp;pool]() -&gt; <span class="keywordtype">bool</span></div>
+<div class="line"><span class="lineno">  160</span>    {</div>
+<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">if</span> (!pool.<a class="code hl_function" href="../../d1/d49/classDatabaseWorkerPool.html#a35d89f51675306362c9dcb7332b148d5">PrepareStatements</a>())</div>
+<div class="line"><span class="lineno">  162</span>        {</div>
+<div class="line"><span class="lineno">  163</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed">_logger</a>, <span class="stringliteral">&quot;Could not prepare statements of the {} database, see log for details.&quot;</span>, name);</div>
+<div class="line"><span class="lineno">  164</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  165</span>        }</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  168</span>    });</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  171</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDuration_8h_html_a3cd82f1c195a0b935b4d66b02a41acd8"><div class="ttname"><a href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a></div><div class="ttdeci">std::chrono::seconds Seconds</div><div class="ttdoc">Seconds shorthand typedef.</div><div class="ttdef"><b>Definition</b> Duration.h:30</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:158</div></div>
@@ -476,7 +477,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aclassDatabaseWorkerPool_html_a5d519cee643b1aa5f5837d3a288f7fdf"><div class="ttname"><a href="../../d1/d49/classDatabaseWorkerPool.html#a5d519cee643b1aa5f5837d3a288f7fdf">DatabaseWorkerPool::SetConnectionInfo</a></div><div class="ttdeci">void SetConnectionInfo(std::string_view infoString, uint8 const asyncThreads, uint8 const synchThreads)</div><div class="ttdef"><b>Definition</b> DatabaseWorkerPool.cpp:78</div></div>
 <div class="ttc" id="aclassDatabaseWorkerPool_html_af5b0984b23e9ea23d93deaaea85e17df"><div class="ttname"><a href="../../d1/d49/classDatabaseWorkerPool.html#af5b0984b23e9ea23d93deaaea85e17df">DatabaseWorkerPool::Close</a></div><div class="ttdeci">void Close()</div><div class="ttdef"><b>Definition</b> DatabaseWorkerPool.cpp:113</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00075">_autoSetup</a>, <a class="el" href="../../#l00079">_close</a>, <a class="el" href="../../#l00073">_logger</a>, <a class="el" href="../../#l00074">_modulesList</a>, <a class="el" href="../../#l00078">_open</a>, <a class="el" href="../../#l00078">_populate</a>, <a class="el" href="../../#l00078">_prepare</a>, <a class="el" href="../../#l00078">_update</a>, <a class="el" href="../../#l00076">_updateFlags</a>, <a class="el" href="../../#l00113">DatabaseWorkerPool&lt; T &gt;::Close()</a>, <a class="el" href="../../d0/d66/classDBUpdater.html#aa4bd2974f787e0ef294e82863f0b11c8">DBUpdater&lt; T &gt;::IsEnabled()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00087">DatabaseWorkerPool&lt; T &gt;::Open()</a>, <a class="el" href="../../#l00137">DatabaseWorkerPool&lt; T &gt;::PrepareStatements()</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00078">DatabaseWorkerPool&lt; T &gt;::SetConnectionInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00075">_autoSetup</a>, <a class="el" href="../../#l00079">_close</a>, <a class="el" href="../../#l00073">_logger</a>, <a class="el" href="../../#l00074">_modulesList</a>, <a class="el" href="../../#l00078">_open</a>, <a class="el" href="../../#l00078">_populate</a>, <a class="el" href="../../#l00078">_prepare</a>, <a class="el" href="../../#l00078">_update</a>, <a class="el" href="../../#l00076">_updateFlags</a>, <a class="el" href="../../#l00113">DatabaseWorkerPool&lt; T &gt;::Close()</a>, <a class="el" href="../../d0/d66/classDBUpdater.html#aa4bd2974f787e0ef294e82863f0b11c8">DBUpdater&lt; T &gt;::IsEnabled()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00087">DatabaseWorkerPool&lt; T &gt;::Open()</a>, <a class="el" href="../../#l00137">DatabaseWorkerPool&lt; T &gt;::PrepareStatements()</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00078">DatabaseWorkerPool&lt; T &gt;::SetConnectionInfo()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00207">StartDB()</a>.</p>
 
@@ -526,30 +527,30 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
-<div class="line"><span class="lineno">  156</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">_updateFlags</a>)</div>
-<div class="line"><span class="lineno">  157</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.updates&quot;</span>, <span class="stringliteral">&quot;&gt; AUTOUPDATER: Automatic database updates are disabled for all databases in the config! This is not recommended!&quot;</span>);</div>
-<div class="line"><span class="lineno">  158</span> </div>
-<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#afc1c97733db723e5dd01c889e91e5dcb">OpenDatabases</a>())</div>
-<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  161</span> </div>
-<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a4d4e52215ebf500e0603153089127ad8">PopulateDatabases</a>())</div>
-<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a747f5a610fc5c960b2ba818a4a741799">UpdateDatabases</a>())</div>
-<div class="line"><span class="lineno">  166</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  167</span> </div>
-<div class="line"><span class="lineno">  168</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9">PrepareStatements</a>())</div>
-<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  172</span>}</div>
-<div class="ttc" id="aclassDatabaseLoader_html_a29da07080df4818e2ad57ee12361bfe9"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9">DatabaseLoader::PrepareStatements</a></div><div class="ttdeci">bool PrepareStatements()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:189</div></div>
-<div class="ttc" id="aclassDatabaseLoader_html_a4d4e52215ebf500e0603153089127ad8"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a4d4e52215ebf500e0603153089127ad8">DatabaseLoader::PopulateDatabases</a></div><div class="ttdeci">bool PopulateDatabases()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:179</div></div>
-<div class="ttc" id="aclassDatabaseLoader_html_a747f5a610fc5c960b2ba818a4a741799"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a747f5a610fc5c960b2ba818a4a741799">DatabaseLoader::UpdateDatabases</a></div><div class="ttdeci">bool UpdateDatabases()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:184</div></div>
-<div class="ttc" id="aclassDatabaseLoader_html_afc1c97733db723e5dd01c889e91e5dcb"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#afc1c97733db723e5dd01c889e91e5dcb">DatabaseLoader::OpenDatabases</a></div><div class="ttdeci">bool OpenDatabases()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:174</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a5e34623110250746c5da5693c11facc6">_updateFlags</a>)</div>
+<div class="line"><span class="lineno">  176</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;sql.updates&quot;</span>, <span class="stringliteral">&quot;&gt; AUTOUPDATER: Automatic database updates are disabled for all databases in the config! This is not recommended!&quot;</span>);</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#afc1c97733db723e5dd01c889e91e5dcb">OpenDatabases</a>())</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a4d4e52215ebf500e0603153089127ad8">PopulateDatabases</a>())</div>
+<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a747f5a610fc5c960b2ba818a4a741799">UpdateDatabases</a>())</div>
+<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  186</span> </div>
+<div class="line"><span class="lineno">  187</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9">PrepareStatements</a>())</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  189</span> </div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  191</span>}</div>
+<div class="ttc" id="aclassDatabaseLoader_html_a29da07080df4818e2ad57ee12361bfe9"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9">DatabaseLoader::PrepareStatements</a></div><div class="ttdeci">bool PrepareStatements()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:208</div></div>
+<div class="ttc" id="aclassDatabaseLoader_html_a4d4e52215ebf500e0603153089127ad8"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a4d4e52215ebf500e0603153089127ad8">DatabaseLoader::PopulateDatabases</a></div><div class="ttdeci">bool PopulateDatabases()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:198</div></div>
+<div class="ttc" id="aclassDatabaseLoader_html_a747f5a610fc5c960b2ba818a4a741799"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#a747f5a610fc5c960b2ba818a4a741799">DatabaseLoader::UpdateDatabases</a></div><div class="ttdeci">bool UpdateDatabases()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:203</div></div>
+<div class="ttc" id="aclassDatabaseLoader_html_afc1c97733db723e5dd01c889e91e5dcb"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#afc1c97733db723e5dd01c889e91e5dcb">DatabaseLoader::OpenDatabases</a></div><div class="ttdeci">bool OpenDatabases()</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:193</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">_updateFlags</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00174">OpenDatabases()</a>, <a class="el" href="../../#l00179">PopulateDatabases()</a>, <a class="el" href="../../#l00189">PrepareStatements()</a>, and <a class="el" href="../../#l00184">UpdateDatabases()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">_updateFlags</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00193">OpenDatabases()</a>, <a class="el" href="../../#l00198">PopulateDatabases()</a>, <a class="el" href="../../#l00208">PrepareStatements()</a>, and <a class="el" href="../../#l00203">UpdateDatabases()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00207">StartDB()</a>.</p>
 
@@ -577,14 +578,14 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  175</span>{</div>
-<div class="line"><span class="lineno">  176</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ab3d8ecdebaa70141830f50a4a0f17d78">_open</a>);</div>
-<div class="line"><span class="lineno">  177</span>}</div>
-<div class="ttc" id="aclassDatabaseLoader_html_ae0407015cdb8c50d778cb2075d185311"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">DatabaseLoader::Process</a></div><div class="ttdeci">bool Process(std::queue&lt; Predicate &gt; &amp;queue)</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:194</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  194</span>{</div>
+<div class="line"><span class="lineno">  195</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ab3d8ecdebaa70141830f50a4a0f17d78">_open</a>);</div>
+<div class="line"><span class="lineno">  196</span>}</div>
+<div class="ttc" id="aclassDatabaseLoader_html_ae0407015cdb8c50d778cb2075d185311"><div class="ttname"><a href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">DatabaseLoader::Process</a></div><div class="ttdeci">bool Process(std::queue&lt; Predicate &gt; &amp;queue)</div><div class="ttdef"><b>Definition</b> DatabaseLoader.cpp:213</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">_open</a>, and <a class="el" href="../../#l00194">Process()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00078">_open</a>, and <a class="el" href="../../#l00213">Process()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00173">Load()</a>.</p>
 
 </div>
 </div>
@@ -610,13 +611,13 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  180</span>{</div>
-<div class="line"><span class="lineno">  181</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a236ce20d055e58a9e3de119c4dc2ff31">_populate</a>);</div>
-<div class="line"><span class="lineno">  182</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
+<div class="line"><span class="lineno">  200</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a236ce20d055e58a9e3de119c4dc2ff31">_populate</a>);</div>
+<div class="line"><span class="lineno">  201</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">_populate</a>, and <a class="el" href="../../#l00194">Process()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00078">_populate</a>, and <a class="el" href="../../#l00213">Process()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00173">Load()</a>.</p>
 
 </div>
 </div>
@@ -642,13 +643,13 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
-<div class="line"><span class="lineno">  191</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a8f6f440ac4b3c1df8382b8395f740c7e">_prepare</a>);</div>
-<div class="line"><span class="lineno">  192</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  209</span>{</div>
+<div class="line"><span class="lineno">  210</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#a8f6f440ac4b3c1df8382b8395f740c7e">_prepare</a>);</div>
+<div class="line"><span class="lineno">  211</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">_prepare</a>, and <a class="el" href="../../#l00194">Process()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00078">_prepare</a>, and <a class="el" href="../../#l00213">Process()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00173">Load()</a>.</p>
 
 </div>
 </div>
@@ -675,30 +676,30 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  195</span>{</div>
-<div class="line"><span class="lineno">  196</span>    <span class="keywordflow">while</span> (!queue.empty())</div>
-<div class="line"><span class="lineno">  197</span>    {</div>
-<div class="line"><span class="lineno">  198</span>        <span class="keywordflow">if</span> (!queue.front()())</div>
-<div class="line"><span class="lineno">  199</span>        {</div>
-<div class="line"><span class="lineno">  200</span>            <span class="comment">// Close all open databases which have a registered close operation</span></div>
-<div class="line"><span class="lineno">  201</span>            <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.empty())</div>
-<div class="line"><span class="lineno">  202</span>            {</div>
-<div class="line"><span class="lineno">  203</span>                <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.top()();</div>
-<div class="line"><span class="lineno">  204</span>                <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.pop();</div>
-<div class="line"><span class="lineno">  205</span>            }</div>
-<div class="line"><span class="lineno">  206</span> </div>
-<div class="line"><span class="lineno">  207</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  208</span>        }</div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>        queue.pop();</div>
-<div class="line"><span class="lineno">  211</span>    }</div>
-<div class="line"><span class="lineno">  212</span> </div>
-<div class="line"><span class="lineno">  213</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  214</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  214</span>{</div>
+<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">while</span> (!queue.empty())</div>
+<div class="line"><span class="lineno">  216</span>    {</div>
+<div class="line"><span class="lineno">  217</span>        <span class="keywordflow">if</span> (!queue.front()())</div>
+<div class="line"><span class="lineno">  218</span>        {</div>
+<div class="line"><span class="lineno">  219</span>            <span class="comment">// Close all open databases which have a registered close operation</span></div>
+<div class="line"><span class="lineno">  220</span>            <span class="keywordflow">while</span> (!<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.empty())</div>
+<div class="line"><span class="lineno">  221</span>            {</div>
+<div class="line"><span class="lineno">  222</span>                <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.top()();</div>
+<div class="line"><span class="lineno">  223</span>                <a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#ac63afc15ce746ed014f0e91832a6d1ea">_close</a>.pop();</div>
+<div class="line"><span class="lineno">  224</span>            }</div>
+<div class="line"><span class="lineno">  225</span> </div>
+<div class="line"><span class="lineno">  226</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  227</span>        }</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>        queue.pop();</div>
+<div class="line"><span class="lineno">  230</span>    }</div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  233</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00079">_close</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00174">OpenDatabases()</a>, <a class="el" href="../../#l00179">PopulateDatabases()</a>, <a class="el" href="../../#l00189">PrepareStatements()</a>, and <a class="el" href="../../#l00184">UpdateDatabases()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00193">OpenDatabases()</a>, <a class="el" href="../../#l00198">PopulateDatabases()</a>, <a class="el" href="../../#l00208">PrepareStatements()</a>, and <a class="el" href="../../#l00203">UpdateDatabases()</a>.</p>
 
 </div>
 </div>
@@ -724,13 +725,13 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa0473ab9141855bd64a9dc5ac6e2bc83">_update</a>);</div>
-<div class="line"><span class="lineno">  187</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d9/d7e/classDatabaseLoader.html#ae0407015cdb8c50d778cb2075d185311">Process</a>(<a class="code hl_variable" href="../../d9/d7e/classDatabaseLoader.html#aa0473ab9141855bd64a9dc5ac6e2bc83">_update</a>);</div>
+<div class="line"><span class="lineno">  206</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">_update</a>, and <a class="el" href="../../#l00194">Process()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00078">_update</a>, and <a class="el" href="../../#l00213">Process()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00154">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00173">Load()</a>.</p>
 
 </div>
 </div>
@@ -755,7 +756,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>.</p>
 
 </div>
 </div>
@@ -779,7 +780,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>, and <a class="el" href="../../#l00194">Process()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>, and <a class="el" href="../../#l00213">Process()</a>.</p>
 
 </div>
 </div>
@@ -803,7 +804,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>.</p>
 
 </div>
 </div>
@@ -827,7 +828,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>.</p>
 
 </div>
 </div>
@@ -851,7 +852,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>, and <a class="el" href="../../#l00174">OpenDatabases()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>, and <a class="el" href="../../#l00193">OpenDatabases()</a>.</p>
 
 </div>
 </div>
@@ -875,7 +876,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>, and <a class="el" href="../../#l00179">PopulateDatabases()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>, and <a class="el" href="../../#l00198">PopulateDatabases()</a>.</p>
 
 </div>
 </div>
@@ -899,7 +900,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>, and <a class="el" href="../../#l00189">PrepareStatements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>, and <a class="el" href="../../#l00208">PrepareStatements()</a>.</p>
 
 </div>
 </div>
@@ -923,7 +924,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>, and <a class="el" href="../../#l00184">UpdateDatabases()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>, and <a class="el" href="../../#l00203">UpdateDatabases()</a>.</p>
 
 </div>
 </div>
@@ -947,7 +948,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddDatabase()</a>, and <a class="el" href="../../#l00154">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00053">AddDatabase()</a>, and <a class="el" href="../../#l00173">Load()</a>.</p>
 
 </div>
 </div>
@@ -961,7 +962,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d7e/classDatabaseLoader.html">DatabaseLoader</a></li>
-    <li class="footer">Generated on Fri Oct 24 2025 06:23:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Oct 25 2025 06:22:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

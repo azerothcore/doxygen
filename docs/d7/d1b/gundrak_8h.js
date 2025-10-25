@@ -2,6 +2,7 @@ var gundrak_8h =
 [
     [ "DataHeader", "d7/d1b/gundrak_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "GundrakScriptName", "d7/d1b/gundrak_8h.html#a3212386787be4354697162a8be43d3e9", null ],
+    [ "RegisterGundrakCreatureAI", "d7/d1b/gundrak_8h.html#a822a443943e1cb69d769edfaaf231eba", null ],
     [ "Creatures", "d7/d1b/gundrak_8h.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_RUINS_DWELLER", "d7/d1b/gundrak_8h.html#a25a619e6b66096a4f05d048e4a96df08a8a40ee54d91e17413d5da741425f6c53", null ],
       [ "NPC_ECK_THE_FEROCIOUS", "d7/d1b/gundrak_8h.html#a25a619e6b66096a4f05d048e4a96df08a4611480f360f1dd703a22b1547d7d501", null ]
