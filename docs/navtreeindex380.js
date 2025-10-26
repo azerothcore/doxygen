@@ -1,5 +1,10 @@
 var NAVTREEINDEX380 =
 {
+"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4251,0],
+"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4251,3],
+"df/d05/structWebTargetSelector.html":[6,0,4286],
+"df/d05/structWebTargetSelector.html#a289821eaae114ba384a9ee9b8c19325f":[6,0,4286,1],
+"df/d05/structWebTargetSelector.html#a2f19cffab18fd6f2f5a1d296aa1db47d":[6,0,4286,0],
 "df/d05/structWebTargetSelector.html#ad21c9ac380f7b97aacc06f08f1c45974":[6,0,4286,2],
 "df/d07/boss__moira__bronzebeard_8cpp.html":[7,0,0,0,1,3,2,1,0,12],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a29a0f8102133b2b7a4725af19e7af487":[7,0,0,0,1,3,2,1,0,12,10],
@@ -244,10 +249,5 @@ var NAVTREEINDEX380 =
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b":[7,0,0,0,1,2,16,5,3,28,4],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0":[7,0,0,0,1,2,16,5,3,28,0],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045":[7,0,0,0,1,2,16,5,3,28,5],
-"df/d14/ObjectDefines_8h.html#ae7170f91373fc9614734d4365eaebf77":[7,0,0,0,1,2,16,5,3,32],
-"df/d14/classPet.html":[6,0,2392],
-"df/d14/classPet.html#a029e483c79cb68affc04d04ca0c81d0e":[6,0,2392,39],
-"df/d14/classPet.html#a04c9223accb74363902edd455c7b836e":[6,0,2392,48],
-"df/d14/classPet.html#a0595dccf2ddfc73bffb69512ca6c79ce":[6,0,2392,81],
-"df/d14/classPet.html#a08deaa012267337fe991915fa6114e72":[6,0,2392,0]
+"df/d14/ObjectDefines_8h.html#ae7170f91373fc9614734d4365eaebf77":[7,0,0,0,1,2,16,5,3,32]
 };

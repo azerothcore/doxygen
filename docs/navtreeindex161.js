@@ -1,5 +1,10 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/classObjectMgr.html#aabf5931580ae390099518d22bfa77994":[6,0,2329,226],
+"d5/dfb/classObjectMgr.html#aac3485ec682fc1830ed9dcce7b194b4c":[6,0,2329,116],
+"d5/dfb/classObjectMgr.html#aac6f64e0e0cdc9ba5be5a8ebc838cf8c":[6,0,2329,248],
+"d5/dfb/classObjectMgr.html#aacc77cb8f7b33f634f26e6e8ea13c6a6":[6,0,2329,289],
+"d5/dfb/classObjectMgr.html#aad2cf04426695d958e5c4bf75864efae":[6,0,2329,278],
 "d5/dfb/classObjectMgr.html#aad3f3e751ff2bc9e6864cd9f328be947":[6,0,2329,270],
 "d5/dfb/classObjectMgr.html#aae223106c7e84e2dbeea81fd7a18c0ea":[6,0,2329,300],
 "d5/dfb/classObjectMgr.html#aae41970aa16dbfd5e18ee30002016502":[6,0,2329,119],
@@ -244,10 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d03/classnpc__riggle__bassbait.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe":[6,0,2083,3],
 "d6/d03/classnpc__riggle__bassbait.html#afc4280099cda3c28c4634d649e636839":[6,0,2083,1],
 "d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html":[6,0,2199,0],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a05a150e01f519675ac7b69d3c2a97ed4":[6,0,2199,0,3],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a0f4128d5fd7a855f1fb2870465bc1ce7":[6,0,2199,0,0],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a62219f63e82fc67f63db2cbd713647a0":[6,0,2199,0,1],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a81607ebd90d8f511bb18b03ff497d9eb":[6,0,2199,0,2],
-"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a8edadebd7e6660041233a24fb07173bf":[6,0,2199,0,4],
-"d6/d06/classspell__q12243__fire__upon__the__waters__aura.html":[6,0,3667]
+"d6/d04/structnpc__toc__pet__warlock_1_1npc__toc__pet__warlockAI.html#a05a150e01f519675ac7b69d3c2a97ed4":[6,0,2199,0,3]
 };

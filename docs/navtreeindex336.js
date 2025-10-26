@@ -1,5 +1,10 @@
 var NAVTREEINDEX336 =
 {
+"dd/db3/classReputationMgr.html#a70ef6efe36480b64a639a1a016ee6b6b":[6,0,2500,35],
+"dd/db3/classReputationMgr.html#a7237076b0c82406fdaf401bb8100f8b5":[6,0,2500,5],
+"dd/db3/classReputationMgr.html#a840258781abe2d2143525c7467c71258":[6,0,2500,2],
+"dd/db3/classReputationMgr.html#a89774eff29d5c2e692ac215fce6d138a":[6,0,2500,9],
+"dd/db3/classReputationMgr.html#a89cc0607cce518e525c286a8693715c7":[6,0,2500,29],
 "dd/db3/classReputationMgr.html#a8d15ac9b059d6641df0a91ddfaf70d0b":[6,0,2500,27],
 "dd/db3/classReputationMgr.html#a9239092547e4d414ac9acb0efbc9175b":[6,0,2500,42],
 "dd/db3/classReputationMgr.html#a92409ea5f59a8240fa43026b4edd9663":[6,0,2500,37],
@@ -244,10 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#ae93b853e4852ce71c4d588d4621b16a1":[6,0,2116,0,0],
 "dd/dc6/structnpc__shandy__dalaran_1_1npc__shandy__dalaranAI.html#af5b1aae6b2dd82c8199caedec3a8fdec":[6,0,2116,0,6],
 "dd/dc7/classspell__putricide__gaseous__bloat__aura.html":[6,0,3598],
-"dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a2e7253cfc18b66d663457c2fb7ab3302":[6,0,3598,3],
-"dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a45e83b3bfa344391bb87c8088ae1c6a7":[6,0,3598,1],
-"dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a5ec23a02a4e617e6db8cf17d2bd36aff":[6,0,3598,2],
-"dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a8fbfac8e62d2534daf40194f7fe31945":[6,0,3598,0],
-"dd/dc7/razorfen__downs_8cpp.html":[7,0,0,0,1,3,4,6,1],
-"dd/dc7/razorfen__downs_8cpp.html#a72b7e5a7b680a19d8c3fe8378e61f1b9":[7,0,0,0,1,3,4,6,1,6]
+"dd/dc7/classspell__putricide__gaseous__bloat__aura.html#a2e7253cfc18b66d663457c2fb7ab3302":[6,0,3598,3]
 };

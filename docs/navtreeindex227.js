@@ -1,5 +1,10 @@
 var NAVTREEINDEX227 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca353682bc516cda23a8618a05c9f084e2":[7,0,0,0,1,3,5,6,7,35,9],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d52f0ef67ddfa327574a1584c5c81e0":[7,0,0,0,1,3,5,6,7,35,11],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4de96fc5934cd6c5a652b85389f9c7fd":[7,0,0,0,1,3,5,6,7,35,41],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d6e982b2eeb4cdb3ac6e7bbc8e0edb2":[7,0,0,0,1,3,5,6,7,35,20],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca643c8da7dd05686abbc86bd7a81c647b":[7,0,0,0,1,3,5,6,7,35,7],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a36b3dd73b5ddd5187b2e1f8fe860da":[7,0,0,0,1,3,5,6,7,35,22],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6baa922408c42ba726e7d02cf86038d8":[7,0,0,0,1,3,5,6,7,35,27],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c7194afc6a3dd4c9d53c1dc2f7e9ffa":[7,0,0,0,1,3,5,6,7,35,18],
@@ -244,10 +249,5 @@ var NAVTREEINDEX227 =
 "d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7383ad6f7ac5159821054233685b7bb8":[7,0,0,0,1,3,5,9,1,1,4,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,1,1,4,1],
 "d8/de5/boss__maiden__of__grief_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,9,1,1,5],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[7,0,0,0,1,3,5,9,1,1,3],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0ef3f59f8e1657636ee160eba01246b0":[7,0,0,0,1,3,5,9,1,1,3,6],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[7,0,0,0,1,3,5,9,1,1,3,7],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a51ed5feeba323856f831a4e8e128c5fe":[7,0,0,0,1,3,5,9,1,1,3,1],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a5b97c5198240f4c93b386eb4f4ba0212":[7,0,0,0,1,3,5,9,1,1,3,3],
-"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8d4d1921d0600ec1d80db94ae28ece71":[7,0,0,0,1,3,5,9,1,1,3,4]
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[7,0,0,0,1,3,5,9,1,1,3]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX74 =
 {
+"d2/dd4/classtrigger__periodic.html#a3c947c5a3092eecb7288a8a50c76bd14":[6,0,4204,1],
+"d2/dd6/classOutdoorPvP.html":[6,0,2350],
+"d2/dd6/classOutdoorPvP.html#a039f908a83ffc3ec948ddc20b1b19c6c":[6,0,2350,21],
 "d2/dd6/classOutdoorPvP.html#a13e8eeaf176fb3326110b65e4e709b9d":[6,0,2350,24],
 "d2/dd6/classOutdoorPvP.html#a1b505bc0acb28e5ed2124678a1cf569f":[6,0,2350,11],
 "d2/dd6/classOutdoorPvP.html#a255e6a773a2427a219ec410d6d044765":[6,0,2350,14],
@@ -64,12 +67,12 @@ var NAVTREEINDEX74 =
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2456],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[6,0,2456,2],
 "d2/ddb/structPyramidEventData.html#a44a9f5e58bfa58e2e2325e116e988f07":[6,0,2456,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de7/MovementPacketBuilder_8cpp.html#ad0db2c4fd496c84301b43d46fbffb460":[7,0,0,0,1,2,31,1,0,5],
 "d2/de7/MovementPacketBuilder_8cpp.html#ae394b26156a3fa0d1d828d30cee475b1":[7,0,0,0,1,2,31,1,0,2],
 "d2/de7/MovementPacketBuilder_8cpp.html#ae740cc738fed507e64b3243ce62c5952":[7,0,0,0,1,2,31,1,0,3],
-"d2/de7/MovementPacketBuilder_8cpp.html#afd3f02560404659d901713e1228d9339":[7,0,0,0,1,2,31,1,0,0],
-"d2/de7/MovementPacketBuilder_8cpp.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323":[7,0,0,0,1,2,31,1,0,0,2],
-"d2/de7/MovementPacketBuilder_8cpp.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9":[7,0,0,0,1,2,31,1,0,0,3],
-"d2/de7/MovementPacketBuilder_8cpp.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167":[7,0,0,0,1,2,31,1,0,0,1]
+"d2/de7/MovementPacketBuilder_8cpp.html#afd3f02560404659d901713e1228d9339":[7,0,0,0,1,2,31,1,0,0]
 };

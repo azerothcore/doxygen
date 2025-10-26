@@ -1,5 +1,10 @@
 var NAVTREEINDEX129 =
 {
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#a8bbca6686ae324a50cd1598125280446":[6,0,2036,1],
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#ab28951b483cab31bf5672fc74e7323e1":[6,0,2036,3],
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#ab7f72d0d574322965f1d0b23f144f1be":[6,0,2036,4],
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#ad9b48901b1d96e59ce60af6411a8baaf":[6,0,2036,2],
+"d4/d7f/classboss__thorim__trap.html":[6,0,746],
 "d4/d7f/classboss__thorim__trap.html#af529112badd88f9ebe4cec216d9edaeb":[6,0,746,1],
 "d4/d7f/classboss__thorim__trap.html#afd4ee85d73354b790c0d55abbfad75fd":[6,0,746,2],
 "d4/d7f/structPointOfInterestLocale.html":[6,0,2432],
@@ -244,10 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadac3e433073511298830a6d6c7b7871fb1":[7,0,0,0,1,3,5,2,1,1,46,9],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadaf942ec6a614a398d5fb37e03c5fe5bee":[7,0,0,0,1,3,5,2,1,1,46,8],
 "d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9":[7,0,0,0,1,3,5,2,1,1,54],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a101c1b1c30439dc2e935ee87b7b51a95":[7,0,0,0,1,3,5,2,1,1,54,0],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a27bdd95528c81703a7768a704a29e5d3":[7,0,0,0,1,3,5,2,1,1,54,7],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a31604718f775e298f1e7c26524351a75":[7,0,0,0,1,3,5,2,1,1,54,6],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a748c886ad604af3db71d021ecb7f3b52":[7,0,0,0,1,3,5,2,1,1,54,1],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a80a6756ea06179389f8a2b253562baff":[7,0,0,0,1,3,5,2,1,1,54,4],
-"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a901e60dd92a92f9b0f3e1d709857498f":[7,0,0,0,1,3,5,2,1,1,54,2]
+"d4/d81/boss__faction__champions_8cpp.html#aa7aa59df19788bd9fd20aa90bf898aa9a101c1b1c30439dc2e935ee87b7b51a95":[7,0,0,0,1,3,5,2,1,1,54,0]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX360 =
 {
+"de/d2d/namespaceObjectAccessor.html#a8a088e6967b9972662d788beffba14d4":[5,0,23,24],
+"de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9":[5,0,23,7],
+"de/d2d/namespaceObjectAccessor.html#a970c7277a8e1bb7b65f78fdee825b2cc":[5,0,23,20],
+"de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee":[5,0,23,3],
+"de/d2d/namespaceObjectAccessor.html#aad91cd58924cc8a34170b5a5c34ebe77":[5,0,23,9],
 "de/d2d/namespaceObjectAccessor.html#ace68e06f8fc640d94eca642f91b4598e":[5,0,23,12],
 "de/d2d/namespaceObjectAccessor.html#ad72db398e2ff25a82a93e89fb67c56ff":[5,0,23,22],
 "de/d2d/namespaceObjectAccessor.html#ad7a6a08850b890d65a5e38a77ef92502":[5,0,23,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX360 =
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a0a7fffc99eb89439618f5e2680a62d1a":[7,0,0,0,1,2,41,9,60,5],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a117311409fa1e6f10bbd1c95d834ea29":[7,0,0,0,1,2,41,9,60,10],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a1f27638c60972862d26b4e06571644d6":[7,0,0,0,1,2,41,9,60,20],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a3ab6ef392a42ff92930e029af8070983":[7,0,0,0,1,2,41,9,60,7],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a4392934e10d89ec0b192e675ac6c081b":[7,0,0,0,1,2,41,9,60,21],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a65e067ba38cebd257f27cee9ea8af6d4":[7,0,0,0,1,2,41,9,60,23],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a6dac91ba03d68eaf8fadc25648d3546a":[7,0,0,0,1,2,41,9,60,15],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a94a1aa9ac3cd331d95f2d0c421f35f59":[7,0,0,0,1,2,41,9,60,24],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a970bdf3e5f6192a44f1047c0a9c01310":[7,0,0,0,1,2,41,9,60,2]
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46a3ab6ef392a42ff92930e029af8070983":[7,0,0,0,1,2,41,9,60,7]
 };

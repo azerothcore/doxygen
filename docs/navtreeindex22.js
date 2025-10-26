@@ -243,11 +243,11 @@ var NAVTREEINDEX22 =
 "d0/dfc/structNPCStaveQuestAI.html#adf1af974ba78d33dba14847d075cb40b":[6,0,2317,3],
 "d0/dfc/structNPCStaveQuestAI.html#af18005dd457c320709921bcdd0f7895d":[6,0,2317,17],
 "d0/dfc/structNPCStaveQuestAI.html#af7100039ab5cf60a27ead73cc928da32":[6,0,2317,8],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html":[6,0,0,49],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[5,0,1,61],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,49,1],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html":[6,0,0,49],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,1,61,1],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,49,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[6,0,0,49,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,61,2],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,61,4]
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[6,0,0,49,4]
 };

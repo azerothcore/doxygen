@@ -1,5 +1,10 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd1/classspell__the__lich__king__dark__hunger__aura.html#a6c97b787ce00491a259c575d26189f8c":[6,0,3894,2],
+"d6/dd1/classspell__the__lich__king__dark__hunger__aura.html#a71a81a19a0c543a4aa43d6bf002b7bb9":[6,0,3894,1],
+"d6/dd1/classspell__the__lich__king__dark__hunger__aura.html#aed9c98e20d916359629e119d6dd2a94f":[6,0,3894,3],
+"d6/dd1/classspell__the__lich__king__dark__hunger__aura.html#af06730a865009127c7d3e5423afd4d44":[6,0,3894,0],
+"d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html":[6,0,1132,0],
 "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90":[6,0,1132,0,2],
 "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html#a44ece597fcfcf290234cc1ef073fbf18":[6,0,1132,0,1],
 "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html#a51406a7e313702282cebfbf067c9ce4e":[6,0,1132,0,0],
@@ -33,10 +38,10 @@ var NAVTREEINDEX181 =
 "d6/dd4/structboss__sacrolash.html#ae650b6019d2f9191e1b532176159804d":[6,0,682,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,31,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[6,0,11,1,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,11,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,31,1,2,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,31,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,11,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[6,0,11,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,31,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[5,0,31,1,2,0],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[6,0,11,1,2,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html":[6,0,1636,0],
@@ -94,10 +99,10 @@ var NAVTREEINDEX181 =
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#aa9b579a8a7a23b94d9a2c8c7f932ff78":[6,0,3654,0],
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#acb4144be3326bcaae9c559d8e7b9d7ec":[6,0,3654,3],
 "d6/dd7/classspell__q11587__arcane__prisoner__rescue.html#ae1dfa086c89a4180d42d231064d88602":[6,0,3654,1],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,11,14,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[5,0,31,14,0],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,31,14,0,5],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,11,14,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[6,0,11,14,0,5],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,31,14,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,31,14,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,11,14,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,31,14,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX181 =
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a49b8e01897cd5347bbd06cac254163f4":[6,0,1625,0,8],
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6":[6,0,1625,0,2],
 "d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a56d7211a3565c19b499f7de2eda6c862":[6,0,1625,0,6],
-"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a56d99bcf5038c372399f16a07a2e5d31":[6,0,1625,0,4],
-"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a7bf1631810c8446bc157f8ff220199b7":[6,0,1625,0,5],
-"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#aed39eaed8648ce78349c49ee33918b93":[6,0,1625,0,1],
-"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#af3620678992778edbb859622e057893a":[6,0,1625,0,0],
-"d6/de3/classByteBufferException.html":[6,0,828],
-"d6/de3/classByteBufferException.html#a0ab73f9061c040127f70dbfc9a176509":[6,0,828,0]
+"d6/de1/structnpc__av__marshal__or__warmaster_1_1npc__av__marshal__or__warmasterAI.html#a56d99bcf5038c372399f16a07a2e5d31":[6,0,1625,0,4]
 };

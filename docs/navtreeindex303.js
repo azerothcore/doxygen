@@ -1,5 +1,10 @@
 var NAVTREEINDEX303 =
 {
+"dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32a1abad081cf58bddddf2065698274bd48":[7,0,0,0,1,2,10,1,11,4],
+"dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32a49230604bd7fd600f1852ba9dd754076":[7,0,0,0,1,2,10,1,11,0],
+"dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32aa5c5d3a6c0bb88385109aa937a047e95":[7,0,0,0,1,2,10,1,11,2],
+"dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32abec07e16ff5421a7ae42dc4b182958a2":[7,0,0,0,1,2,10,1,11,1],
+"dc/d1a/CalendarMgr_8h.html#adf6bf00c462990adc2b57c02f9db8c32ae4904590b247a266816d8e71ad231b9f":[7,0,0,0,1,2,10,1,11,3],
 "dc/d1a/CalendarMgr_8h.html#aea0466a27af69ea188d66b721b49a3d6":[7,0,0,0,1,2,10,1,5],
 "dc/d1a/CalendarMgr_8h.html#af35b9a127e069a3aed4acad11a7cc5a6":[7,0,0,0,1,2,10,1,4],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html":[6,0,3682],
@@ -49,10 +54,10 @@ var NAVTREEINDEX303 =
 "dc/d1d/classspell__q12611__deathbolt.html#a1dac2806b74471332aec0595118005a3":[6,0,3675,0],
 "dc/d1d/classspell__q12611__deathbolt.html#a2ff0986c88dcbd9aac263f62b772c992":[6,0,3675,2],
 "dc/d1d/classspell__q12611__deathbolt.html#adb1efd90b7ffa23887ca4aa3afb6d99e":[6,0,3675,1],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[5,0,1,25],
-"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html":[6,0,0,13],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[6,0,0,13,2],
+"dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a3842fa1eceabaa2d40b2bab4393cb431":[5,0,1,25,2],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[5,0,1,25,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#a6ad66997d093ffa52e2d80337dcb5460":[6,0,0,13,0],
 "dc/d1f/classAcore_1_1AllFriendlyCreaturesInGrid.html#aca2b8ed7de69c57bb270e0c663781f97":[5,0,1,25,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX303 =
 "dc/d29/boss__mimiron_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a47a5d29e5a9ad3883fdbe8e60542fd89":[7,0,0,0,1,3,5,9,2,9,43,0],
 "dc/d29/boss__mimiron_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a993ab2d7551a344b2e00529f05415a82":[7,0,0,0,1,3,5,9,2,9,43,1],
 "dc/d29/boss__mimiron_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5ade2fe7eacbbc8b62181c8e31dd232d69":[7,0,0,0,1,3,5,9,2,9,43,2],
-"dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5":[7,0,0,0,1,3,5,9,2,9,49],
-"dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be":[7,0,0,0,1,3,5,9,2,9,33],
-"dc/d29/boss__mimiron_8cpp.html#a62a0b14f8e5673c9e71ec0f63e0897d9":[7,0,0,0,1,3,5,9,2,9,41],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,9,2,9,45],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca14e0315a784d348f336792f11d4f2396":[7,0,0,0,1,3,5,9,2,9,45,4],
-"dc/d29/boss__mimiron_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1c82e84038889b63ff246314efbd64f7":[7,0,0,0,1,3,5,9,2,9,45,0]
+"dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5":[7,0,0,0,1,3,5,9,2,9,49]
 };

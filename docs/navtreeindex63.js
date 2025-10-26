@@ -1,5 +1,8 @@
 var NAVTREEINDEX63 =
 {
+"d2/d53/structnpc__hallows__end__soh.html#a81bbd839f8470b2b2aea7b8a6afd339e":[6,0,1834,16],
+"d2/d53/structnpc__hallows__end__soh.html#a89329316209863f2ad64a412a9beb2fe":[6,0,1834,6],
+"d2/d53/structnpc__hallows__end__soh.html#a8fad4e97f40653e0b439622e422d4845":[6,0,1834,12],
 "d2/d53/structnpc__hallows__end__soh.html#a92d81c8a47ba6039dfc5a8759b30060b":[6,0,1834,18],
 "d2/d53/structnpc__hallows__end__soh.html#aa0b3e5d278155c0d4cf9941121641a8a":[6,0,1834,2],
 "d2/d53/structnpc__hallows__end__soh.html#aaf7522e9948401e2e747f43e80e9b38f":[6,0,1834,19],
@@ -109,12 +112,12 @@ var NAVTREEINDEX63 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,3915,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,3915,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3915,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,31,0,3],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,31,0,3,1],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,31,0,3,0],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,31,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,31,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,11,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1657],
@@ -246,8 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b47b479a0f7ec8ca1ab1d390e964d9f":[7,0,0,0,1,3,4,1,1,5,14,6],
 "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca84c460ac31797c4296ae77adc80acf3c":[7,0,0,0,1,3,4,1,1,5,14,3],
 "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298cab481d18aed3749bf425d7fe58baf8d72":[7,0,0,0,1,3,4,1,1,5,14,2],
-"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,4,1,1,5,12],
-"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0b508f838fea911e7049bc650e78bd96":[7,0,0,0,1,3,4,1,1,5,12,7],
-"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0fa1e0767b13cbb1091065cf98942846":[7,0,0,0,1,3,4,1,1,5,12,11],
-"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1e9a5a833d3ed98bcef8909fd8ee326d":[7,0,0,0,1,3,4,1,1,5,12,1]
+"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,4,1,1,5,12]
 };

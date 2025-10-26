@@ -1,5 +1,10 @@
 var NAVTREEINDEX277 =
 {
+"db/d29/structBattlegroundEYPointIconsStruct.html#a449932bc2357e26c79520fcf01a71a2a":[6,0,325,1],
+"db/d29/structBattlegroundEYPointIconsStruct.html#a82e87048f934b67821bc8ba308ed101d":[6,0,325,2],
+"db/d29/structWardenCheck.html":[6,0,4259],
+"db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25":[6,0,4259,0],
+"db/d29/structWardenCheck.html#a15ecbc1a6582666a14423fa157d2fb84":[6,0,4259,5],
 "db/d29/structWardenCheck.html#a1fc1eba87b344d4681498aafcaa496cb":[6,0,4259,7],
 "db/d29/structWardenCheck.html#a51a0cea0381f2b64e9d240ac39591172":[6,0,4259,2],
 "db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2":[6,0,4259,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX277 =
 "db/d3d/classspell__item__mana__injector.html":[6,0,3278],
 "db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b":[6,0,3278,0],
 "db/d3d/classspell__item__mana__injector.html#a8847e05e6eeafd801fca5423d0689432":[6,0,3278,2],
-"db/d3d/classspell__item__mana__injector.html#a89847e0e9435a708c5722ff928f7033f":[6,0,3278,1],
-"db/d3d/classspell__item__mana__injector.html#ae0778ffd8cf203e22510ee91b0394303":[6,0,3278,3],
-"db/d3d/structnpc__supervisor__raelen.html":[6,0,2155],
-"db/d3d/structnpc__supervisor__raelen.html#a0b8d661a86ec334adeb502d6936135ee":[6,0,2155,1],
-"db/d3d/structnpc__supervisor__raelen.html#a1ed36b07ff83a6a8a202f4a451d90190":[6,0,2155,5],
-"db/d3d/structnpc__supervisor__raelen.html#a2059d41f6df3a44406ab69a0dca501a4":[6,0,2155,0]
+"db/d3d/classspell__item__mana__injector.html#a89847e0e9435a708c5722ff928f7033f":[6,0,3278,1]
 };

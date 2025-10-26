@@ -1,5 +1,10 @@
 var NAVTREEINDEX393 =
 {
+"df/d99/structnpc__dark__iron__attack__generator.html#a7588ef6382ae081d76423f8233667c5b":[6,0,1733,5],
+"df/d99/structnpc__dark__iron__attack__generator.html#a829946c679b3eff97b1eb3ede6cd91d8":[6,0,1733,9],
+"df/d99/structnpc__dark__iron__attack__generator.html#a873ec2bf87b3d616e60d26aa561258bf":[6,0,1733,14],
+"df/d99/structnpc__dark__iron__attack__generator.html#ab2dc568f820e3b0b7c863f83e6ca45fc":[6,0,1733,3],
+"df/d99/structnpc__dark__iron__attack__generator.html#ab9b3a7d524b8764ef9d00dac3ea75418":[6,0,1733,8],
 "df/d99/structnpc__dark__iron__attack__generator.html#abe15db24f6cd2c0c4c7fb5572635f09a":[6,0,1733,2],
 "df/d99/structnpc__dark__iron__attack__generator.html#ac372ce0664ec10b7f60026fa808a74d0":[6,0,1733,16],
 "df/d99/structnpc__dark__iron__attack__generator.html#ae21b69752a1e45eeef318ccf1e5a3b24":[6,0,1733,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX393 =
 "df/da0/classspell__item__fetch__ball.html#a72e57e8a4bdb9a4fcd73e3519b6025ea":[6,0,3253,0],
 "df/da0/classspell__item__fetch__ball.html#aac4d3c8ecde3652c65c05abad5c8eaeb":[6,0,3253,1],
 "df/da1/boss__black__knight_8cpp.html":[7,0,0,0,1,3,5,2,0,1],
-"df/da1/boss__black__knight_8cpp.html#a1f2fb442cd7b62bd2617eb1c22397bcc":[7,0,0,0,1,3,5,2,0,1,8],
-"df/da1/boss__black__knight_8cpp.html#a21750265bbf84aa88650092ac436f88e":[7,0,0,0,1,3,5,2,0,1,14],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,2,0,1,19],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca094e398462bfe7c742633de4ea716641":[7,0,0,0,1,3,5,2,0,1,19,10],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bd13ea772b8ed1a0f7045cbcaa116d9":[7,0,0,0,1,3,5,2,0,1,19,24],
-"df/da1/boss__black__knight_8cpp.html#a5bd342133be8c2137b831460acc9298ca10f95e7e8f24c4789044c67cb2bd0293":[7,0,0,0,1,3,5,2,0,1,19,20]
+"df/da1/boss__black__knight_8cpp.html#a1f2fb442cd7b62bd2617eb1c22397bcc":[7,0,0,0,1,3,5,2,0,1,8]
 };

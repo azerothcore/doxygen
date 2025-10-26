@@ -1,5 +1,10 @@
 var NAVTREEINDEX203 =
 {
+"d7/db3/structboss__olm__the__summoner.html#a07cde4fc7bc882db40b51426dc40ab93":[6,0,645,2],
+"d7/db3/structboss__olm__the__summoner.html#a334ab95cfc3320db1a568bcb5a1d9542":[6,0,645,1],
+"d7/db3/structboss__olm__the__summoner.html#a448ba3a88156e80eebad44585791ab21":[6,0,645,7],
+"d7/db3/structboss__olm__the__summoner.html#a546bede780b7d67b98ec251ae2e1b812":[6,0,645,4],
+"d7/db3/structboss__olm__the__summoner.html#a68db779bb7ffffa7621caedd7f52d93f":[6,0,645,3],
 "d7/db3/structboss__olm__the__summoner.html#a8caabc31bb7a8548eb936c34c655df68":[6,0,645,8],
 "d7/db3/structboss__olm__the__summoner.html#a8dcdc816276a1932612d554cff703a45":[6,0,645,5],
 "d7/db3/structboss__olm__the__summoner.html#a967f330966fdb29f26ab24e8f40d2152":[6,0,645,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a9702895b75c6b1a2a67b177f84eea0fe":[7,0,0,0,1,3,5,2,1,4,14,0],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a99aa5d1b1c94029995d34cdc8782682f":[7,0,0,0,1,3,5,2,1,4,14,20],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a9f6df5fbf85336cdd7c8d552d88f1bce":[7,0,0,0,1,3,5,2,1,4,14,1],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844aa3ed6fe39c5120ef03bc4f3bd21bf6f6":[7,0,0,0,1,3,5,2,1,4,14,19],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844aa90f966c5f75d0e74e6a97494e5c87a6":[7,0,0,0,1,3,5,2,1,4,14,18],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844aaf73adde55a17598dff9ead7e6891579":[7,0,0,0,1,3,5,2,1,4,14,11],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ab422896effd279dafafd5a7848f2ceb3":[7,0,0,0,1,3,5,2,1,4,14,10],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ab968e63f01897839c2a557db40865f22":[7,0,0,0,1,3,5,2,1,4,14,22],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,2,1,4,14,23]
+"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844aa3ed6fe39c5120ef03bc4f3bd21bf6f6":[7,0,0,0,1,3,5,2,1,4,14,19]
 };

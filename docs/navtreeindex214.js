@@ -1,5 +1,10 @@
 var NAVTREEINDEX214 =
 {
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,11,7,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,31,7,9,3],
+"d8/d49/classspell__mark__of__the__faceless__drainhealth.html":[6,0,3449],
+"d8/d49/classspell__mark__of__the__faceless__drainhealth.html#a88f5ca3aaa575cff0ba778f9b575d656":[6,0,3449,1],
+"d8/d49/classspell__mark__of__the__faceless__drainhealth.html#ac7337b4ee8511f72b129fccc83b3241e":[6,0,3449,2],
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html#adb438b9bcf4be347aeabf6608fbfb8a4":[6,0,3449,0],
 "d8/d4a/classAreaTrigger__at__coilfang__waterfall.html":[6,0,169],
 "d8/d4a/classAreaTrigger__at__coilfang__waterfall.html#aa2e9a01adad7e195860bbc6c55131024":[6,0,169,0],
@@ -226,12 +231,12 @@ var NAVTREEINDEX214 =
 "d8/d54/classAcore_1_1HealthPctOrderPred.html":[5,0,1,76],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[5,0,1,76,2],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a23f2dc594fd531d02cd6eae0faa7f6b7":[6,0,0,64,2],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[6,0,0,64,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[5,0,1,76,1],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a2c7f4043e5268b13bf0d9f46e9709a9b":[6,0,0,64,1],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[5,0,1,76,3],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a4c34feefafc014b50ba2869a9bdb9959":[6,0,0,64,3],
-"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[6,0,0,64,0],
 "d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[5,0,1,76,0],
+"d8/d54/classAcore_1_1HealthPctOrderPred.html#a5c83c0ba35b9febbe6a62dae63995f97":[6,0,0,64,0],
 "d8/d54/classspell__the__black__stalker__levitate.html":[6,0,3887],
 "d8/d54/classspell__the__black__stalker__levitate.html#a46aca18049e02d50f57579b3fdc705bd":[6,0,3887,3],
 "d8/d54/classspell__the__black__stalker__levitate.html#a7c1b4d0c8d2ad153cef62ce05fef814c":[6,0,3887,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX214 =
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html":[6,0,556,0],
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1":[6,0,556,0,1],
 "d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5103f7808134a67f06af4be1d848aa91":[6,0,556,0,8],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5961b5563c1d140f31a348a1ea8dc4ba":[6,0,556,0,4],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a59f21f25fbe83c9710ac6377753ce8d3":[6,0,556,0,3],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5e733b9e5b63801a1ca2778e58fedb61":[6,0,556,0,9],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5fce156ec839c4799e3585e9674636c1":[6,0,556,0,2],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a6aff4c78989d99d49d697e9900375e28":[6,0,556,0,10],
-"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a6efea02e03c4d7e97c357afbc320b5bf":[6,0,556,0,5]
+"d8/d56/structboss__jaraxxus_1_1boss__jaraxxusAI.html#a5961b5563c1d140f31a348a1ea8dc4ba":[6,0,556,0,4]
 };

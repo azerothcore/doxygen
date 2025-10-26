@@ -1,5 +1,10 @@
 var NAVTREEINDEX398 =
 {
+"df/dd3/classachievement__shadowdodger.html#a3ee0baca0c9163a601cd4bcfa9ebeb04":[6,0,87,1],
+"df/dd3/classachievement__shadowdodger.html#a8389a4972968fcc6cd7807e96ee5e527":[6,0,87,0],
+"df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,4],
+"df/dd4/classspell__mage__fingers__of__frost__proc.html":[6,0,3415],
+"df/dd4/classspell__mage__fingers__of__frost__proc.html#a2640f58f3e7442c37615b61ecf938a6f":[6,0,3415,1],
 "df/dd4/classspell__mage__fingers__of__frost__proc.html#a55be2362ac226caa615e07a2a3b5ea38":[6,0,3415,2],
 "df/dd4/classspell__mage__fingers__of__frost__proc.html#a5b8ee53249a19954e4d46b17422207d5":[6,0,3415,0],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3688],
@@ -244,10 +249,5 @@ var NAVTREEINDEX398 =
 "df/dd9/classUnit.html#a1d52e887c40e087252647958a47e933c":[6,0,4221,787],
 "df/dd9/classUnit.html#a1d65e3fd1561c63731762e1bd90fb3f7":[6,0,4221,147],
 "df/dd9/classUnit.html#a1da6b0550230616c9dd52234bbcb1cf3":[6,0,4221,914],
-"df/dd9/classUnit.html#a1e69fbab577551800dadbd0611998572":[6,0,4221,559],
-"df/dd9/classUnit.html#a1ea5dd018a829cf7aae73fc7e72a6507":[6,0,4221,804],
-"df/dd9/classUnit.html#a1ed7bebb7769f200cc2625ae2a1988b0":[6,0,4221,161],
-"df/dd9/classUnit.html#a1ed9a17a4f9c74be7f57474434aa528b":[6,0,4221,942],
-"df/dd9/classUnit.html#a1f133c042285f311c455f73e7cdff3fb":[6,0,4221,462],
-"df/dd9/classUnit.html#a1f1c9408465967c12bfb01e7c4752956":[6,0,4221,594]
+"df/dd9/classUnit.html#a1e69fbab577551800dadbd0611998572":[6,0,4221,559]
 };

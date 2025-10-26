@@ -1,5 +1,10 @@
 var NAVTREEINDEX114 =
 {
+"d3/de1/boss__kologarn_8cpp.html#a353306ba95c3c9ccc2b18d8f5aeaec70":[7,0,0,0,1,3,5,9,2,8,27],
+"d3/de1/boss__kologarn_8cpp.html#a3b6da241790d9859d11e349d84cb7939":[7,0,0,0,1,3,5,9,2,8,22],
+"d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16e":[7,0,0,0,1,3,5,9,2,8,29],
+"d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea05ee4b523bf25712ad6470e154eb644a":[7,0,0,0,1,3,5,9,2,8,29,1],
+"d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea247d6e679b32e33ec8f838cd2bfc173b":[7,0,0,0,1,3,5,9,2,8,29,5],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea71effeeab3cb3642600c1db69ff1a56e":[7,0,0,0,1,3,5,9,2,8,29,2],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16ea9132c055d0e149d7ec45d675fca620b4":[7,0,0,0,1,3,5,9,2,8,29,0],
 "d3/de1/boss__kologarn_8cpp.html#a4cf70b32b454d3a9228d6271ea27f16eab430526cc106989bdaba06239fb259bb":[7,0,0,0,1,3,5,9,2,8,29,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX114 =
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a1ed7da6d9af44044eb8e05884bec8079":[7,0,0,0,1,3,3,4,21,7],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a24a1744f51af01de5f1615e65292e2ca":[7,0,0,0,1,3,3,4,21,4],
 "d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a275772d35c90114169b061240094ec55":[7,0,0,0,1,3,3,4,21,2],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a346ca1cec6d7ac93f3b1eb32c553583a":[7,0,0,0,1,3,3,4,21,11],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a37510dfb31d7b124c3fd91b35e4dc7e3":[7,0,0,0,1,3,3,4,21,3],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a77fc1fdb393106bbae1d8ed4f2764ddb":[7,0,0,0,1,3,3,4,21,9],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0aa357adfbb00f5bf5d8147f08988fe5e5":[7,0,0,0,1,3,3,4,21,0],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0aba6422b4e6060342495d3c10beea2fcf":[7,0,0,0,1,3,3,4,21,1],
-"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0ad2ac985af67e998f0a9aa3daab4d1afc":[7,0,0,0,1,3,3,4,21,5]
+"d3/dec/hallows__end_8cpp.html#acc34e46dfed69cd31ed452468575c7b0a346ca1cec6d7ac93f3b1eb32c553583a":[7,0,0,0,1,3,3,4,21,11]
 };

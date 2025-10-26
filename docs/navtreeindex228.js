@@ -1,5 +1,10 @@
 var NAVTREEINDEX228 =
 {
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0ef3f59f8e1657636ee160eba01246b0":[7,0,0,0,1,3,5,9,1,1,3,6],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[7,0,0,0,1,3,5,9,1,1,3,7],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a51ed5feeba323856f831a4e8e128c5fe":[7,0,0,0,1,3,5,9,1,1,3,1],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a5b97c5198240f4c93b386eb4f4ba0212":[7,0,0,0,1,3,5,9,1,1,3,3],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8d4d1921d0600ec1d80db94ae28ece71":[7,0,0,0,1,3,5,9,1,1,3,4],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aae11fdab86d81638daa38e7a6d2c2378":[7,0,0,0,1,3,5,9,1,1,3,5],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ac128df2d0c92bf7377c0df59a379330c":[7,0,0,0,1,3,5,9,1,1,3,2],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af3454b7726ff200f857b79943aac2cf8":[7,0,0,0,1,3,5,9,1,1,3,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX228 =
 "d8/df6/TypeContainerFunctions_8h.html#af0ee89a4ae791fe4ce68f39979e9e5d5":[7,0,0,0,0,6,5,32],
 "d8/df6/TypeContainerFunctions_8h.html#afe44e70d4fae1d3c112291bd985e82b1":[7,0,0,0,0,6,5,27],
 "d8/df6/TypeContainerFunctions_8h.html#affed0a39c687fd0d71e1838f7d91d106":[7,0,0,0,0,6,5,20],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html":[6,0,288,5],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a29bb773b8271acf651b08f33ce358720":[6,0,288,5,0],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a519489b8d951173a806e86cfe075faf1":[6,0,288,5,2],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a56bfb0fd0d860678920445d1182c09ef":[6,0,288,5,1],
-"d8/df6/classspell__gen__clone__weapon.html":[6,0,2937],
-"d8/df6/classspell__gen__clone__weapon.html#a4ba7f7935c4acda891190dc375086dee":[6,0,2937,1]
+"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html":[6,0,288,5]
 };

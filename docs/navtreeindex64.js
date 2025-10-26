@@ -1,5 +1,8 @@
 var NAVTREEINDEX64 =
 {
+"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0b508f838fea911e7049bc650e78bd96":[7,0,0,0,1,3,4,1,1,5,12,7],
+"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0fa1e0767b13cbb1091065cf98942846":[7,0,0,0,1,3,4,1,1,5,12,11],
+"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1e9a5a833d3ed98bcef8909fd8ee326d":[7,0,0,0,1,3,4,1,1,5,12,1],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca3abc29794c8fb005579ba5d46ecc17b0":[7,0,0,0,1,3,4,1,1,5,12,8],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca79f8e5bc61df4696b5a80e89e11a3d6b":[7,0,0,0,1,3,4,1,1,5,12,13],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7b3188c2df045c144765cc855dc7d4d4":[7,0,0,0,1,3,4,1,1,5,12,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d6a/classspell__mage__living__bomb.html#a0fd3e297a66df888f6e30f93b9f60947":[6,0,3424,1],
 "d2/d6a/classspell__mage__living__bomb.html#a2b1872fa0342e0f530b61fc7a5bf876b":[6,0,3424,2],
 "d2/d6a/classspell__mage__living__bomb.html#a9dc5ef5c5545fc382e221ca9473ac3bd":[6,0,3424,0],
-"d2/d6a/classspell__mage__living__bomb.html#ae08f33e0271166afa87208faa30684c4":[6,0,3424,3],
-"d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html":[6,0,396,0],
-"d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b":[6,0,396,0,1],
-"d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#a36e386b847c7032b5ce95a01070518ad":[6,0,396,0,6]
+"d2/d6a/classspell__mage__living__bomb.html#ae08f33e0271166afa87208faa30684c4":[6,0,3424,3]
 };

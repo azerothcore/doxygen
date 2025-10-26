@@ -1,5 +1,10 @@
 var NAVTREEINDEX184 =
 {
+"d6/dfd/structChaseAngle.html#a810a730ae905bfa296dbe6c1e4b86416":[6,0,866,4],
+"d6/dfd/structChaseAngle.html#aec86c653850655b723e5224ea20b0e21":[6,0,866,1],
+"d6/dfe/classnpc__toc__hunter.html":[6,0,2195],
+"d6/dfe/classnpc__toc__hunter.html#a73d4113df71626af7b8294e08373965e":[6,0,2195,1],
+"d6/dfe/classnpc__toc__hunter.html#a8b9d2a8186aefb3e411bd20c006207d4":[6,0,2195,2],
 "d6/dfe/classspell__hun__misdirection.html":[6,0,3135],
 "d6/dfe/classspell__hun__misdirection.html#a008ec43da50deb568ec453e992f89887":[6,0,3135,5],
 "d6/dfe/classspell__hun__misdirection.html#a05a15654fd3c6175b59ab18197fc3c77":[6,0,3135,0],
@@ -21,8 +26,8 @@ var NAVTREEINDEX184 =
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[6,0,11,7,1,3],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[5,0,31,7,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[6,0,11,7,1,0],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,31,7,1,1],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[6,0,11,7,1,1],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,31,7,1,1],
 "d7/d01/classnpc__shenthul.html":[6,0,2120],
 "d7/d01/classnpc__shenthul.html#a1683f8c89add6270277c59951c74027e":[6,0,2120,2],
 "d7/d01/classnpc__shenthul.html#a3a63fec338dca74eb7d071dfcc9c95b5":[6,0,2120,3],
@@ -143,12 +148,12 @@ var NAVTREEINDEX184 =
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,108,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[6,0,0,96,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,1,108,0],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[6,0,0,96,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html":[6,0,2303,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a21be97bb49ff06ef090cbbe6f5006f56":[6,0,2303,0,0],
 "d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#a48fd29d42280ae91852ef2ef0cecc8f6":[6,0,2303,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#a3b548e629d2c6217f21644136ca7ba4b":[6,0,1600,0,1],
 "d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#a52ff0006b5194edcb55f49e970a15ab8":[6,0,1600,0,6],
 "d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#ab583d97745ea69e95a1ecc0b68ac9878":[6,0,1600,0,2],
-"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#ab9ed5d53703464c488267f578a214fb8":[6,0,1600,0,4],
-"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#af5b4a1227467d86d9dbba57362fdf360":[6,0,1600,0,3],
-"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#af8d6d840785c718d963c7b150cd12d9c":[6,0,1600,0,5],
-"d7/d0c/structnpc__enslaved__netherwing__drake.html":[6,0,1770],
-"d7/d0c/structnpc__enslaved__netherwing__drake.html#a195794e88870a0b1ca35473f5f0378a7":[6,0,1770,5],
-"d7/d0c/structnpc__enslaved__netherwing__drake.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346":[6,0,1770,7]
+"d7/d0c/structnpc__anubarak__spike_1_1npc__anubarak__spikeAI.html#ab9ed5d53703464c488267f578a214fb8":[6,0,1600,0,4]
 };

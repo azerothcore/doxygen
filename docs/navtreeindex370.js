@@ -1,5 +1,10 @@
 var NAVTREEINDEX370 =
 {
+"de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[6,0,4176,22],
+"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[6,0,4176,15],
+"de/d95/classTicketMgr.html#a5c6638093e959f1cd7311268f2c8cf56":[6,0,4176,3],
+"de/d95/classTicketMgr.html#a5e589cee62a607de7e4c2e8155ca0cc6":[6,0,4176,1],
+"de/d95/classTicketMgr.html#a5ea5f45b9ac52b3bbbceccbc69d894f3":[6,0,4176,21],
 "de/d95/classTicketMgr.html#a6a5b603d107d4e14a7aff5c019f0b3d1":[6,0,4176,29],
 "de/d95/classTicketMgr.html#a711629e4c21f66401248b9f8d8e7c511":[6,0,4176,27],
 "de/d95/classTicketMgr.html#a7b51b5f4aebb51922717c463bcc34a40":[6,0,4176,18],
@@ -244,10 +249,5 @@ var NAVTREEINDEX370 =
 "de/da1/instance__magisters__terrace_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,5,4,4],
 "de/da1/instance__magisters__terrace_8cpp.html#a6fd9df921f79258a02d22baaf7a1caca":[7,0,0,0,1,3,2,5,4,6],
 "de/da1/instance__magisters__terrace_8cpp.html#a845a92716bd40c99a93eb0715cd737b0":[7,0,0,0,1,3,2,5,4,5],
-"de/da1/instance__magisters__terrace_8cpp.html#acefca1a118e299acbb631fc6166a1526":[7,0,0,0,1,3,2,5,4,7],
-"de/da1/structObjectPosSelector.html":[6,0,2330],
-"de/da1/structObjectPosSelector.html#a092252be70aef7ba47a2e81d183d68ab":[6,0,2330,9],
-"de/da1/structObjectPosSelector.html#a1d792bc79d1646eae7651705bc0afdd5":[6,0,2330,11],
-"de/da1/structObjectPosSelector.html#a25ec0d7656c52f0a9c4b24ea81e37771":[6,0,2330,17],
-"de/da1/structObjectPosSelector.html#a34a49751e6810835d4e4f2828d7c8b0c":[6,0,2330,6]
+"de/da1/instance__magisters__terrace_8cpp.html#acefca1a118e299acbb631fc6166a1526":[7,0,0,0,1,3,2,5,4,7]
 };

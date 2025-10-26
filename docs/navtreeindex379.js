@@ -1,5 +1,10 @@
 var NAVTREEINDEX379 =
 {
+"de/df3/classspell__voa__flaming__cinder.html#a45a33c0b51ed6c1dfed8d52d2f99e239":[6,0,3968,2],
+"de/df3/classspell__voa__flaming__cinder.html#a92f99501ee1582873586d2405b224f4f":[6,0,3968,3],
+"de/df3/classspell__voa__flaming__cinder.html#af524c771ef3a314f3c1dbaacae4f4538":[6,0,3968,0],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html":[6,0,1270],
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a4e3c1f79f8115312f22612a4b8c6fede":[6,0,1270,6],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a77b40bcbada8ea43accae23ceb642628":[6,0,1270,11],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a7ac3be92303b77b640c7199ec65184dd":[6,0,1270,2],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#a97f3cd9b1c5919ffe9ab979d8ad4e747":[6,0,1270,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX379 =
 "df/d05/structVendorItem.html#a18234f38ff242b8687265f9acf70dbe0":[6,0,4251,2],
 "df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4251,1],
 "df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4251,4],
-"df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4251,5],
-"df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4251,0],
-"df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4251,3],
-"df/d05/structWebTargetSelector.html":[6,0,4286],
-"df/d05/structWebTargetSelector.html#a289821eaae114ba384a9ee9b8c19325f":[6,0,4286,1],
-"df/d05/structWebTargetSelector.html#a2f19cffab18fd6f2f5a1d296aa1db47d":[6,0,4286,0]
+"df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4251,5]
 };

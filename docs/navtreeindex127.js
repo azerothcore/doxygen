@@ -1,5 +1,10 @@
 var NAVTREEINDEX127 =
 {
+"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a6141addc9b1cf2c0028d98ef4f4d9d37":[6,0,2046,0,0],
+"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#acb63166b396c079d5b4bb9db67a1448a":[6,0,2046,0,2],
+"d4/d68/classspell__ionar__static__overload.html":[6,0,3216],
+"d4/d68/classspell__ionar__static__overload.html#a2d278e60b34870110dab188896109e24":[6,0,3216,1],
+"d4/d68/classspell__ionar__static__overload.html#ac15847527cc4d162b3b34b8ca8628864":[6,0,3216,2],
 "d4/d68/classspell__ionar__static__overload.html#ac573e5bd171c97af1905b4a57a45e1f4":[6,0,3216,3],
 "d4/d68/classspell__ionar__static__overload.html#adf6b3d56199ad5a4545ce3874d1223db":[6,0,3216,0],
 "d4/d69/classboss__flame__leviathan__defense__turret.html":[6,0,471],
@@ -244,10 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d77/classspell__mirkblood__exsanguinate.html":[6,0,3470],
 "d4/d77/classspell__mirkblood__exsanguinate.html#a50d6ebe961a0841e10537a434a741072":[6,0,3470,0],
 "d4/d77/classspell__mirkblood__exsanguinate.html#abc2f73133448278e0bf1bc589917dfd1":[6,0,3470,1],
-"d4/d77/classspell__the__lich__king__life__siphon.html":[6,0,3901],
-"d4/d77/classspell__the__lich__king__life__siphon.html#a0162c92c32210f2873686610f4f00b87":[6,0,3901,1],
-"d4/d77/classspell__the__lich__king__life__siphon.html#a3283e829757b50bb52f66ee1e64033ae":[6,0,3901,0],
-"d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb":[6,0,3901,2],
-"d4/d77/classspell__the__lich__king__life__siphon.html#a6545fe9f40c0aed036192008a2d6e28e":[6,0,3901,3],
-"d4/d77/worldserver_2resource_8h.html":[7,0,0,0,1,0,1,5]
+"d4/d77/classspell__the__lich__king__life__siphon.html":[6,0,3901]
 };

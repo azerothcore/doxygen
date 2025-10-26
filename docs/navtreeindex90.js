@@ -1,5 +1,8 @@
 var NAVTREEINDEX90 =
 {
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a21f9c24e80145db0c6847c81261d0e8d":[6,0,1826,0,7],
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a6f9730b746e195a99dc11357fd0387ba":[6,0,1826,0,8],
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a721cc96cc76a27574a1a4eb1996b100e":[6,0,1826,0,9],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a75444497ffd6b7365827eea57fd946f9":[6,0,1826,0,0],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a7f336843c54de072cf58bc87ff08b068":[6,0,1826,0,4],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a8bab1a755c2262e9f36f295781d30909":[6,0,1826,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d0b/namespaceAcore.html#a31fef0ae214e75ee3251ee75539b5933":[5,0,1,156],
 "d3/d0b/namespaceAcore.html#a32c972cafca136b88de5b298d6cba338":[5,0,1,139],
 "d3/d0b/namespaceAcore.html#a339e193b2696d368e3fd5ba8ac348ba9":[5,0,1,177],
-"d3/d0b/namespaceAcore.html#a33dad9e8e49e78c8486f2a91b49c0984":[5,0,1,218],
-"d3/d0b/namespaceAcore.html#a355df1d62e245473475d330ef6c45bae":[5,0,1,199],
-"d3/d0b/namespaceAcore.html#a35e02be24dcc816ed590cfd782fba6cd":[5,0,1,212],
-"d3/d0b/namespaceAcore.html#a36e61ba9bc4e287e215444ea9314a656":[5,0,1,206]
+"d3/d0b/namespaceAcore.html#a33dad9e8e49e78c8486f2a91b49c0984":[5,0,1,218]
 };

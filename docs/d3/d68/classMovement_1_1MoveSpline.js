@@ -30,6 +30,7 @@ var classMovement_1_1MoveSpline =
     [ "init_spline", "d3/d68/classMovement_1_1MoveSpline.html#ace17bbbbf729a024f320454a814a1fcf", null ],
     [ "Initialize", "d3/d68/classMovement_1_1MoveSpline.html#a22d2fde4e6a3e3550ae7cdd7c7250689", null ],
     [ "Initialized", "d3/d68/classMovement_1_1MoveSpline.html#ab5f5e3287587a37b25f1cab033e5ff6b", null ],
+    [ "isBoarding", "d3/d68/classMovement_1_1MoveSpline.html#a4d2e1acb8c212d36db0e62f294b7af4c", null ],
     [ "isCyclic", "d3/d68/classMovement_1_1MoveSpline.html#a0ae53158f6b2d3ed43d66d6b5ee21643", null ],
     [ "isFalling", "d3/d68/classMovement_1_1MoveSpline.html#a3a545d6194fd1684261a75545ec6a171", null ],
     [ "isWalking", "d3/d68/classMovement_1_1MoveSpline.html#a97822562bcdf817cb8529aa6ad862ad7", null ],

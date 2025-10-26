@@ -1,5 +1,10 @@
 var NAVTREEINDEX235 =
 {
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca334db8aa65ca8cb750f12aead50392ad":[7,0,0,0,1,3,2,1,2,8,6,7],
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca36c0e900075437cc6fba121088fb4990":[7,0,0,0,1,3,2,1,2,8,6,8],
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,2,1,2,8,6,1],
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca675194ae1ebcc6b507bf7f88be2f8414":[7,0,0,0,1,3,2,1,2,8,6,2],
+"d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c076300512d36ce3303219ac9a5c59b":[7,0,0,0,1,3,2,1,2,8,6,5],
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298cab39444c87d20be4413c65a921dfadcd3":[7,0,0,0,1,3,2,1,2,8,6,0],
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298cabbd34dce2c9a2b0dabee40c8e88d6146":[7,0,0,0,1,3,2,1,2,8,6,6],
 "d9/d59/boss__vaelastrasz_8cpp.html#a5bd342133be8c2137b831460acc9298caddcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,2,1,2,8,6,3],
@@ -50,10 +55,10 @@ var NAVTREEINDEX235 =
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,113,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,125,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,113,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,125,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,113,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,113,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,125,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,125,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,113,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[6,0,3473],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[6,0,3473,0],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[6,0,3473,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX235 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#aefc6ea3dd72fc572a31cc8026d0354a6aecdca9d03b65fc24a624dd9393b06aa0":[7,0,0,0,1,3,7,9,17,0],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#afd699e617a2bd1266bc73519f84ea050":[7,0,0,0,1,3,7,9,21],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#afd699e617a2bd1266bc73519f84ea050a179ca7e780d78b3a436be175173f5ae1":[7,0,0,0,1,3,7,9,21,0],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#afd699e617a2bd1266bc73519f84ea050a40f0d1d71baf11c0af292b71d913c8ec":[7,0,0,0,1,3,7,9,21,1],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#afd699e617a2bd1266bc73519f84ea050a416d2cf49a0b0ce71c0193db9dcbf5a2":[7,0,0,0,1,3,7,9,21,3],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#afd699e617a2bd1266bc73519f84ea050a59f1159cf8af9091ba5011094002f4d3":[7,0,0,0,1,3,7,9,21,2],
-"d9/d61/boss__darkmaster__gandling_8cpp.html":[7,0,0,0,1,3,2,8,0],
-"d9/d61/boss__darkmaster__gandling_8cpp.html#a01a14f02037286f8670aa0c95add8dc4":[7,0,0,0,1,3,2,8,0,11],
-"d9/d61/boss__darkmaster__gandling_8cpp.html#a117f8df7c03b73093e6da94ae41b4252":[7,0,0,0,1,3,2,8,0,5]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#afd699e617a2bd1266bc73519f84ea050a40f0d1d71baf11c0af292b71d913c8ec":[7,0,0,0,1,3,7,9,21,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX275 =
 {
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a5014e6aebdda3b84cd22fd2f66ed691b":[6,0,685,0,10],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a5ed942da2e53ecc63ec15fa8cf8c3325":[6,0,685,0,4],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a6d45699d2efacdc0aca88dba3f67d20a":[6,0,685,0,3],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a7aaca15038bf53ff3baaeb39c7713bff":[6,0,685,0,15],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a8502d5c79b7baac2f9a68349e99b7b16":[6,0,685,0,8],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#aadd3b8f29b49b67685d67036c5f2775f":[6,0,685,0,13],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab72889e00eb1fad659f807620e81e23e":[6,0,685,0,9],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab9c3a5d19c966e547328ce2a28674069":[6,0,685,0,19],
@@ -244,10 +249,5 @@ var NAVTREEINDEX275 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a1f1c3e0ea24174605a7be8fa02e30518":[6,0,2679,1],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a2804f25643e59f3922291abcb055b641":[6,0,2679,3],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2679,0],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2679,4],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[6,0,2679,5],
-"db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,4058],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,4058,2],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,4058,3],
-"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,4058,1]
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2679,4]
 };

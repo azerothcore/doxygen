@@ -1,5 +1,8 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa7742ca702cf9ec39ab2df1691cb9028":[7,0,0,0,1,3,10,3,21,7],
+"d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefdf8c398ebf393607bff7d4995d2db4":[7,0,0,0,1,3,10,3,21,1],
+"d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af357cec611c81e4d0165679829923f3a":[7,0,0,0,1,3,10,3,21,0],
 "d2/d8e/boss__emerald__dragons_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaea4f919e1ba859d8b534e192b3f254":[7,0,0,0,1,3,10,3,21,6],
 "d2/d8f/structScriptInfo.html":[6,0,2526],
 "d2/d8f/structScriptInfo.html#a00dc415dd1ba72128b3355d92d5162ac":[6,0,2526,43],
@@ -246,8 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d9b/boss__warlord__kalithresh_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,2,2,2,4,0],
 "d2/d9b/boss__warlord__kalithresh_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aff823e184362bff3c55619a5339a20d9":[7,0,0,0,1,3,7,2,2,2,4,1],
 "d2/d9d/classgo__finklestein__cauldron.html":[6,0,1147],
-"d2/d9d/classgo__finklestein__cauldron.html#a8aa352319c54526069588dacd75ab883":[6,0,1147,0],
-"d2/d9d/classgo__finklestein__cauldron.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae":[6,0,1147,1],
-"d2/d9d/instance__karazhan_8cpp.html":[7,0,0,0,1,3,2,4,13],
-"d2/d9d/instance__karazhan_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,4,13,8]
+"d2/d9d/classgo__finklestein__cauldron.html#a8aa352319c54526069588dacd75ab883":[6,0,1147,0]
 };

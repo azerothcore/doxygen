@@ -1,5 +1,10 @@
 var NAVTREEINDEX164 =
 {
+"d6/d15/classspell__gen__allow__cast__from__item__only.html#aceafb7d6cfa300011935026f4d7ac491":[6,0,2909,2],
+"d6/d15/structHalaaIds.html":[6,0,1260],
+"d6/d15/structHalaaIds.html#a1fbc40a9798b89ae8b903b1f5a6a8e67":[6,0,1260,0],
+"d6/d15/structnpc__hivezara__stinger.html":[6,0,1849],
+"d6/d15/structnpc__hivezara__stinger.html#a35a6511ebc0301ae0bb22aafc91c8524":[6,0,1849,3],
 "d6/d15/structnpc__hivezara__stinger.html#a433d31057f1732ef7ef15d2023e18b8a":[6,0,1849,1],
 "d6/d15/structnpc__hivezara__stinger.html#ac9438c9dd260a41d6248f2adcc14b555":[6,0,1849,0],
 "d6/d15/structnpc__hivezara__stinger.html#ae8e893c90942a469628c393d5b5380cc":[6,0,1849,2],
@@ -18,8 +23,8 @@ var NAVTREEINDEX164 =
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,31,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,31,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,6,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,31,6,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,11,6,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,31,6,42,1],
 "d6/d18/classModel.html":[6,0,1519],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[6,0,1519,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[6,0,1519,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d1c/classboss__drakkari__elemental.html#a143dd5d52ea7bb3c3c1d96da45af81ee":[6,0,430,1],
 "d6/d1c/classboss__drakkari__elemental.html#aab2f9c71ddb77164bd644d18b9e88313":[6,0,430,2],
 "d6/d1c/classspell__azgalor__doom__aura.html":[6,0,2634],
-"d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2634,2],
-"d6/d1c/classspell__azgalor__doom__aura.html#a594f2b65fdbe30f3d52e608f9b7c9731":[6,0,2634,1],
-"d6/d1c/classspell__azgalor__doom__aura.html#af9da33426d8ea4462f7d9957c4312019":[6,0,2634,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html":[6,0,2790],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ace3662e092d02de975929741c470230d":[6,0,2790,0],
-"d6/d1c/classspell__dk__scent__of__blood__trigger.html#ae6432106538261827c3eac3dde1450f2":[6,0,2790,2]
+"d6/d1c/classspell__azgalor__doom__aura.html#a4b04c70fd9c55d20261d9d256ea0966f":[6,0,2634,2]
 };

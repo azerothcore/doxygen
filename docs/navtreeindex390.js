@@ -1,5 +1,10 @@
 var NAVTREEINDEX390 =
 {
+"df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,90,0],
+"df/d77/classachievement__smell__saronite.html#a5180e3e53fa0f4d32d2a305d315bc8b3":[6,0,90,1],
+"df/d77/classspell__drakkari__colossus__face__me.html":[6,0,2805],
+"df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2805,1],
+"df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2805,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2805,0],
 "df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,118],
@@ -244,10 +249,5 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a473c4bd4351fca7d4c76dc7e1d60dca0":[7,0,0,0,1,3,5,9,2,4,40,5],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4cf9839144b8e6fb679600dc4d642fb1":[7,0,0,0,1,3,5,9,2,4,40,22],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4de611c7f4dff66978a503bdf1ea78ef":[7,0,0,0,1,3,5,9,2,4,40,19],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a5b3acc26d9e75f634588d801c863a8e5":[7,0,0,0,1,3,5,9,2,4,40,18],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a7794b235ec1d641afa238b9a29711a62":[7,0,0,0,1,3,5,9,2,4,40,13],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a8007a600382bf9f2b0976c4f895c2aed":[7,0,0,0,1,3,5,9,2,4,40,21],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a8ec7cc3b7964c4aed1bfb7a9ca9cf296":[7,0,0,0,1,3,5,9,2,4,40,14],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a97a0c887e487b234e6b6bfd581cd2d71":[7,0,0,0,1,3,5,9,2,4,40,12],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289aa0065312e4cd2d95814094d99bc222e8":[7,0,0,0,1,3,5,9,2,4,40,23]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a5b3acc26d9e75f634588d801c863a8e5":[7,0,0,0,1,3,5,9,2,4,40,18]
 };

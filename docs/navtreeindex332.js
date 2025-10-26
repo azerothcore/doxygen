@@ -1,5 +1,10 @@
 var NAVTREEINDEX332 =
 {
+"dd/d8d/CalendarHandler_8cpp.html":[7,0,0,0,1,2,22,7],
+"dd/d8d/CalendarHandler_8cpp.html#a15c437e1d990c60d0d271ab1773b7d97":[7,0,0,0,1,2,22,7,0],
+"dd/d8d/DBCStores_8cpp.html":[7,0,0,0,1,2,14,0],
+"dd/d8d/DBCStores_8cpp.html#a021fb91324e6a75f70d02e4b44e17999":[7,0,0,0,1,2,14,0,63],
+"dd/d8d/DBCStores_8cpp.html#a048d8954e38d54a58ce1657d2aef2475":[7,0,0,0,1,2,14,0,34],
 "dd/d8d/DBCStores_8cpp.html#a05299a3dfbe388c2148908e0180cc946":[7,0,0,0,1,2,14,0,104],
 "dd/d8d/DBCStores_8cpp.html#a056a6a649116138e9e8c21d35a78476b":[7,0,0,0,1,2,14,0,131],
 "dd/d8d/DBCStores_8cpp.html#a0663ae41922720e1d5f53ed43f7423d7":[7,0,0,0,1,2,14,0,116],
@@ -197,8 +202,8 @@ var NAVTREEINDEX332 =
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[6,0,0,12,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,24,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[6,0,0,12,3],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,24,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,12,2],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,24,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,24,4],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,12,4],
 "dd/d91/classat__shattered__halls__execution.html":[6,0,242],
@@ -243,11 +248,6 @@ var NAVTREEINDEX332 =
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#af79cd7c2f6ed47a93dbbe17aaca6834f":[6,0,3650,1],
 "dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html":[6,0,11,7,19],
 "dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html":[5,0,31,7,19],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a45ebce1daa3de00eca9ff7fb352a9063":[6,0,11,7,19,2],
 "dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a45ebce1daa3de00eca9ff7fb352a9063":[5,0,31,7,19,2],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a577a588900d74f22cfe67a1fbe82424b":[6,0,11,7,19,4],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a577a588900d74f22cfe67a1fbe82424b":[5,0,31,7,19,4],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a6a4bd31c0d4b97a019caca716a79c073":[6,0,11,7,19,5],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a6a4bd31c0d4b97a019caca716a79c073":[5,0,31,7,19,5],
-"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a7de705fe4ac1b4d71a6487533f40f2aa":[5,0,31,7,19,0]
+"dd/d95/classWorldPackets_1_1Item_1_1WrapItem.html#a45ebce1daa3de00eca9ff7fb352a9063":[6,0,11,7,19,2]
 };
