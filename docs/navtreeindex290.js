@@ -1,10 +1,5 @@
 var NAVTREEINDEX290 =
 {
-"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a28f347139148d333813b383c21f18700":[7,0,0,0,1,3,10,14,65,5],
-"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a332bd24028a7b3858c36accea36272f9":[7,0,0,0,1,3,10,14,65,7],
-"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a5bdd228cfa902c9b1f1475ee67b3944f":[7,0,0,0,1,3,10,14,65,2],
-"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2a68c843a7e99b8072f567c3540b243dfb":[7,0,0,0,1,3,10,14,65,4],
-"db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae551d6ab15875a7513a7f6f79c650f2c":[7,0,0,0,1,3,10,14,65,1],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2ae8e15077d2b7b473011aa4474d68fd13":[7,0,0,0,1,3,10,14,65,6],
 "db/dae/npcs__special_8cpp.html#a3130947ab6ade83f10f71cc197fd3ba2aea5286ab21116f37587b5ffed105a95d":[7,0,0,0,1,3,10,14,65,3],
 "db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595":[7,0,0,0,1,3,10,14,62],
@@ -249,5 +244,10 @@ var NAVTREEINDEX290 =
 "db/db5/structboss__hydross__the__unstable.html#ac80b0611533998d15406d45385d37629":[6,0,542,7],
 "db/db5/structboss__hydross__the__unstable.html#acfd0f1a6331b08659c5fffa7850d30b4":[6,0,542,11],
 "db/db5/structboss__hydross__the__unstable.html#ad05fa00eade9614ed54b03a9a4d5d348":[6,0,542,1],
-"db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54":[6,0,542,9]
+"db/db5/structboss__hydross__the__unstable.html#af74b63bf239de38f8dd04e69a6ea2b54":[6,0,542,9],
+"db/db5/structboss__hydross__the__unstable.html#afe4b76f528045506586f8289eaee27aa":[6,0,542,8],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html":[6,0,3376],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2a6e32bbc9b722ad7e872c6a26daa6bb":[6,0,3376,1],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3376,0],
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[6,0,3376,2]
 };

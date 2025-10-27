@@ -1,13 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,31,7,8,5],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[5,0,31,7,8,4],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,31,7,8,2],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,11,7,8,2],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2626],
 "d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2626,0],
 "d9/dee/classspell__aura__of__despair__aura.html#a3b98409fa1ed8d4e53e526686bc25987":[6,0,2626,4],
@@ -249,5 +241,13 @@ var NAVTREEINDEX246 =
 "d9/df7/classConditionMgr.html#ab72928f9040bb4304539d39b8a481ac0":[6,0,891,7],
 "d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34":[6,0,891,26],
 "d9/df7/classConditionMgr.html#ac4ee112d1f9c762bf24e247732d69214":[6,0,891,12],
-"d9/df7/classConditionMgr.html#ac5a70ae75079bf04249a68078bff43e1":[6,0,891,1]
+"d9/df7/classConditionMgr.html#ac5a70ae75079bf04249a68078bff43e1":[6,0,891,1],
+"d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c":[6,0,891,25],
+"d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009":[6,0,891,24],
+"d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61":[6,0,891,9],
+"d9/df7/classConditionMgr.html#aedbbcc49f4cfcbcdb6fbb6574079af27":[6,0,891,20],
+"d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e":[6,0,891,8],
+"d9/df7/classConditionMgr.html#af8b45caa10b28c82593b5fdd1419f5ef":[6,0,891,14],
+"d9/df7/classConditionMgr.html#afef825ca94a043d238af8cd4ae2acda4":[6,0,891,23],
+"d9/df7/classDBCFileLoader_1_1Record.html":[6,0,960,0]
 };

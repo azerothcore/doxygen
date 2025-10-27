@@ -1,6 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baad8ee1070019ac3655fd841be45cdf39":[7,0,0,0,1,2,48,7,0,214],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaebf52d685bc656de92e2b6b3a04f97a":[7,0,0,0,1,2,48,7,0,435],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaed168deb798f729d0a3ef6bea438fc2":[7,0,0,0,1,2,48,7,0,428],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaf2ea9c16d627deee0825e17168ba187":[7,0,0,0,1,2,48,7,0,348],
@@ -249,5 +248,6 @@ var NAVTREEINDEX97 =
 "d3/d4b/structboss__archimonde.html":[6,0,386],
 "d3/d4b/structboss__archimonde.html#a1e295ff6ae857c7a022acf967afd0de0":[6,0,386,12],
 "d3/d4b/structboss__archimonde.html#a25e52499f80d4c3edb4dd5cf02b95d18":[6,0,386,0],
-"d3/d4b/structboss__archimonde.html#a31c526a5e72c4244df101918388c777c":[6,0,386,4]
+"d3/d4b/structboss__archimonde.html#a31c526a5e72c4244df101918388c777c":[6,0,386,4],
+"d3/d4b/structboss__archimonde.html#a341ab97e59cfe989572fdcceff434e4e":[6,0,386,6]
 };

@@ -1,9 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca159355a5d62485573c94323e3d8c1e58":[7,0,0,0,1,3,5,8,2,6,7,0],
-"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ca72db3e8475eeba86052fae23a2505":[7,0,0,0,1,3,5,8,2,6,7,10],
-"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca2ce72b4c6c6a26113697fa23efa44b48":[7,0,0,0,1,3,5,8,2,6,7,6],
-"df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca359710ec72bcbf796e2b6a78e30b725c":[7,0,0,0,1,3,5,8,2,6,7,4],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca3a3a1fe7f6d3c61d9670989241613684":[7,0,0,0,1,3,5,8,2,6,7,3],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca3b65c6a903ba6d4c4edb8766d706cc47":[7,0,0,0,1,3,5,8,2,6,7,7],
 "df/d29/oculus_8h.html#a6986ec7b2d3274669934af9795f26d5ca400712dc10909267a6b0ac4bc1701d80":[7,0,0,0,1,3,5,8,2,6,7,5],
@@ -205,12 +201,12 @@ var NAVTREEINDEX385 =
 "df/d32/classspell__midsummer__juggling__torch.html#a3fd3265e5a08f81b3e9e789f1799abd4":[6,0,3460,3],
 "df/d32/classspell__midsummer__juggling__torch.html#a5a0bfef668242fc5f21ad5a4e3e714b5":[6,0,3460,1],
 "df/d32/classspell__midsummer__juggling__torch.html#a8927aaa07145b46067d5807c2048330a":[6,0,3460,0],
-"df/d33/structWintergraspTeleporterData.html":[6,0,4296],
-"df/d33/structWintergraspTeleporterData.html#a4fb658cf54f9534e0686a8fa5b2328c7":[6,0,4296,2],
-"df/d33/structWintergraspTeleporterData.html#aa761c9076be145dab6d2cac773bb6e7a":[6,0,4296,3],
-"df/d33/structWintergraspTeleporterData.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8":[6,0,4296,0],
-"df/d33/structWintergraspTeleporterData.html#ac9ff501bbf00d80f5b9350a78ffbb6fb":[6,0,4296,4],
-"df/d33/structWintergraspTeleporterData.html#af2bf42b7d1a18e7ee1125a305ee7bc79":[6,0,4296,1],
+"df/d33/structWintergraspTeleporterData.html":[6,0,4295],
+"df/d33/structWintergraspTeleporterData.html#a4fb658cf54f9534e0686a8fa5b2328c7":[6,0,4295,2],
+"df/d33/structWintergraspTeleporterData.html#aa761c9076be145dab6d2cac773bb6e7a":[6,0,4295,3],
+"df/d33/structWintergraspTeleporterData.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8":[6,0,4295,0],
+"df/d33/structWintergraspTeleporterData.html#ac9ff501bbf00d80f5b9350a78ffbb6fb":[6,0,4295,4],
+"df/d33/structWintergraspTeleporterData.html#af2bf42b7d1a18e7ee1125a305ee7bc79":[6,0,4295,1],
 "df/d34/structNotOnSameSide.html":[6,0,1569],
 "df/d34/structNotOnSameSide.html#a59ea48b9633049180ec62d3616fe4dea":[6,0,1569,1],
 "df/d34/structNotOnSameSide.html#a77c1d18f54609a5f4da2e9c13f62293d":[6,0,1569,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX385 =
 "df/d38/structnpc__ahnqiraji__critter.html":[6,0,1576],
 "df/d38/structnpc__ahnqiraji__critter.html#a60e2dc1c52579a410d3435126bf39684":[6,0,1576,0],
 "df/d38/structnpc__ahnqiraji__critter.html#a645e16e9da29f6579320394201d0ada7":[6,0,1576,3],
-"df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[6,0,1576,4]
+"df/d38/structnpc__ahnqiraji__critter.html#a68c5ded8563c2de9429a13cdb7d38f89":[6,0,1576,4],
+"df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[6,0,1576,1],
+"df/d38/structnpc__ahnqiraji__critter.html#aca1df706306f9181db26cd77e5b66452":[6,0,1576,2],
+"df/d39/boss__ouro_8cpp.html":[7,0,0,0,1,3,4,9,4],
+"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,4,3]
 };

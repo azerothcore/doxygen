@@ -1,6 +1,5 @@
 var NAVTREEINDEX163 =
 {
-"d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5":[7,0,0,0,1,3,10,5,83],
 "d6/d0c/go__scripts_8cpp.html#a63e8543fdde38edca1a929bf78b7eae5ae97b97c692a7052f64061415302ca04b":[7,0,0,0,1,3,10,5,83,0],
 "d6/d0c/go__scripts_8cpp.html#a6927dcb73705403ef11b9629bcaeaae1":[7,0,0,0,1,3,10,5,102],
 "d6/d0c/go__scripts_8cpp.html#a697c0075930ebe1517fa49abf16f83eb":[7,0,0,0,1,3,10,5,91],
@@ -249,5 +248,6 @@ var NAVTREEINDEX163 =
 "d6/d14/structGameObjectDisplayInfoEntry.html#acb74e32790b2c60cca5faef1caa225e4":[6,0,1085,4],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html":[6,0,2909],
 "d6/d15/classspell__gen__allow__cast__from__item__only.html#a859ac50e6774471c232113e5c007f602":[6,0,2909,1],
-"d6/d15/classspell__gen__allow__cast__from__item__only.html#a8a1367ad6c51a74e7cefbc2440eab697":[6,0,2909,0]
+"d6/d15/classspell__gen__allow__cast__from__item__only.html#a8a1367ad6c51a74e7cefbc2440eab697":[6,0,2909,0],
+"d6/d15/classspell__gen__allow__cast__from__item__only.html#aceafb7d6cfa300011935026f4d7ac491":[6,0,2909,2]
 };

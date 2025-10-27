@@ -1,13 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/db0/classMap.html#a493db80a963234491414c4082140f594":[6,0,1480,20],
-"d7/db0/classMap.html#a4abfd5699f0cf678e100af13b7d2ae7b":[6,0,1480,95],
-"d7/db0/classMap.html#a4b368120d0bb0edeb17a9b79fc682f8e":[6,0,1480,73],
-"d7/db0/classMap.html#a4bc74c723b4ed0de567a36c54552e889":[6,0,1480,32],
-"d7/db0/classMap.html#a4ce7a304b33df052b2b6d56e08ab4dff":[6,0,1480,218],
-"d7/db0/classMap.html#a4d795127b9be850271a8c660a8713eb9":[6,0,1480,76],
-"d7/db0/classMap.html#a4deb9328493a214f15879cdc3ef426d4":[6,0,1480,207],
-"d7/db0/classMap.html#a4e6fa0d85f921423b4feab219899f1aa":[6,0,1480,19],
 "d7/db0/classMap.html#a4fa855d03b7d1fa1957453767ff52429":[6,0,1480,133],
 "d7/db0/classMap.html#a4fe6c742f54ccac3d3bc441fce08a1f1":[6,0,1480,29],
 "d7/db0/classMap.html#a508bc63cd18639fda34703055ef829f3":[6,0,1480,70],
@@ -249,5 +241,13 @@ var NAVTREEINDEX202 =
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ae6e2b0dd529f819b5b62348059dacb02":[6,0,571,0,1],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#aedfaf037ddf66d0e3aa990b4ea5b171c":[6,0,571,0,5],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#aee871ff356bcfd38162a5f6c9bd3c994":[6,0,571,0,7],
-"d7/db3/structboss__olm__the__summoner.html":[6,0,645]
+"d7/db3/structboss__olm__the__summoner.html":[6,0,645],
+"d7/db3/structboss__olm__the__summoner.html#a07cde4fc7bc882db40b51426dc40ab93":[6,0,645,2],
+"d7/db3/structboss__olm__the__summoner.html#a334ab95cfc3320db1a568bcb5a1d9542":[6,0,645,1],
+"d7/db3/structboss__olm__the__summoner.html#a448ba3a88156e80eebad44585791ab21":[6,0,645,7],
+"d7/db3/structboss__olm__the__summoner.html#a546bede780b7d67b98ec251ae2e1b812":[6,0,645,4],
+"d7/db3/structboss__olm__the__summoner.html#a68db779bb7ffffa7621caedd7f52d93f":[6,0,645,3],
+"d7/db3/structboss__olm__the__summoner.html#a8caabc31bb7a8548eb936c34c655df68":[6,0,645,8],
+"d7/db3/structboss__olm__the__summoner.html#a8dcdc816276a1932612d554cff703a45":[6,0,645,5],
+"d7/db3/structboss__olm__the__summoner.html#a967f330966fdb29f26ab24e8f40d2152":[6,0,645,6]
 };

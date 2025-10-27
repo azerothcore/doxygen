@@ -1,6 +1,5 @@
 var NAVTREEINDEX102 =
 {
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da660bd9794e0b900539603abfb24e5107":[7,0,0,0,1,3,5,2,0,5,7,33],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da66a1d227f48f62bb48d34ba365341b41":[7,0,0,0,1,3,5,2,0,5,7,25],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da684865127e616cda12a798df9633a943":[7,0,0,0,1,3,5,2,0,5,7,18],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da6ab1042a83bcdcd198fcad942b5ca876":[7,0,0,0,1,3,5,2,0,5,7,17],
@@ -159,10 +158,10 @@ var NAVTREEINDEX102 =
 "d3/d87/structboss__yoggsaron__influence__tentacle_1_1boss__yoggsaron__influence__tentacleAI.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c":[6,0,800,0,1],
 "d3/d87/structboss__yoggsaron__influence__tentacle_1_1boss__yoggsaron__influence__tentacleAI.html#ae7457ed8084888b1074a44dd9a7ed0c7":[6,0,800,0,0],
 "d3/d88/SpellHandler_8cpp.html":[7,0,0,0,1,2,22,30],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[6,0,11,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,31,1,1],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[5,0,31,1,1,0],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[6,0,11,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[6,0,11,1,1,0],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[5,0,31,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[5,0,31,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[6,0,11,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[6,0,11,1,1,3],
@@ -183,12 +182,12 @@ var NAVTREEINDEX102 =
 "d3/d8b/Geometry_8h.html#a61d2d33d44f335480a833a04436620ba":[7,0,0,0,0,15,13,4],
 "d3/d8b/Geometry_8h.html#a62641094ea3c1b9506faefa7a35ba456":[7,0,0,0,0,15,13,2],
 "d3/d8b/Geometry_8h.html#a95ce6760beb476a4c24ff46d3069103f":[7,0,0,0,0,15,13,3],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,9,7],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[5,0,31,9,7],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,9,7,0],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html":[6,0,11,9,7],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[5,0,31,9,7,0],
-"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,31,9,7,4],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a05ccc52cb56d38cadb27fbde2563df45":[6,0,11,9,7,0],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[6,0,11,9,7,4],
+"d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a4a041bf772ef3f145bde6be9f8ecdc13":[5,0,31,9,7,4],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[6,0,11,9,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#a7adf6dcd7e712792ea94bad77f8be232":[5,0,31,9,7,3],
 "d3/d8b/classWorldPackets_1_1Misc_1_1PauseMirrorTimer.html#ad6e7a6eb3edadc235dc5bb97802381ac":[6,0,11,9,7,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX102 =
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html":[6,0,1773,0],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a079be6dd45e96184d66e95f031dc9c5f":[6,0,1773,0,3],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a15afc8dd6d6e15fcd1a632728ad8d16e":[6,0,1773,0,5],
-"d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a1ce40b70a35fc76e6ac0af449b7f4ded":[6,0,1773,0,0]
+"d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a1ce40b70a35fc76e6ac0af449b7f4ded":[6,0,1773,0,0],
+"d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a81985b8522111f2aae540353cd5641fe":[6,0,1773,0,6]
 };

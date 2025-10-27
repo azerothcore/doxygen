@@ -1,6 +1,5 @@
 var NAVTREEINDEX127 =
 {
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a6141addc9b1cf2c0028d98ef4f4d9d37":[6,0,2046,0,0],
 "d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#acb63166b396c079d5b4bb9db67a1448a":[6,0,2046,0,2],
 "d4/d68/classspell__ionar__static__overload.html":[6,0,3216],
 "d4/d68/classspell__ionar__static__overload.html#a2d278e60b34870110dab188896109e24":[6,0,3216,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX127 =
 "d4/d77/classspell__mirkblood__exsanguinate.html":[6,0,3470],
 "d4/d77/classspell__mirkblood__exsanguinate.html#a50d6ebe961a0841e10537a434a741072":[6,0,3470,0],
 "d4/d77/classspell__mirkblood__exsanguinate.html#abc2f73133448278e0bf1bc589917dfd1":[6,0,3470,1],
-"d4/d77/classspell__the__lich__king__life__siphon.html":[6,0,3901]
+"d4/d77/classspell__the__lich__king__life__siphon.html":[6,0,3901],
+"d4/d77/classspell__the__lich__king__life__siphon.html#a0162c92c32210f2873686610f4f00b87":[6,0,3901,1]
 };

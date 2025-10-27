@@ -1,9 +1,5 @@
 var NAVTREEINDEX369 =
 {
-"de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf68adafa8f4b00b73e1aa794a689e45c":[7,0,0,0,1,3,2,4,5,2,1],
-"de/d87/boss__netherspite_8cpp.html#a56bc96a8aa9bd958a1424749416d8bd4":[7,0,0,0,1,3,2,4,5,8],
-"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,5,5],
-"de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d6e490960801191a590241ba200b2c":[7,0,0,0,1,3,2,4,5,5,0],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2385e82e98a5ec79d206aae4580c8504":[7,0,0,0,1,3,2,4,5,5,6],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca26438c32a6e128c85fccb573bc869f4a":[7,0,0,0,1,3,2,4,5,5,4],
 "de/d87/boss__netherspite_8cpp.html#a5bd342133be8c2137b831460acc9298ca2e7c9a294a6919b4b75ea034b46ae870":[7,0,0,0,1,3,2,4,5,5,2],
@@ -24,7 +20,7 @@ var NAVTREEINDEX369 =
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89a533358c310fed7aadc5faaa318651246":[7,0,0,0,1,3,2,4,5,4,1],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89ad60641487862318f9095508a895f820f":[7,0,0,0,1,3,2,4,5,4,0],
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
-"de/d87/classWaypointMovementGenerator.html":[6,0,4276],
+"de/d87/classWaypointMovementGenerator.html":[6,0,4275],
 "de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
 "de/d87/structSpawnAssociation.html":[6,0,2584],
 "de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2584,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX369 =
 "de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1":[6,0,4176,28],
 "de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[6,0,4176,8],
 "de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[6,0,4176,16],
-"de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[6,0,4176,31]
+"de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[6,0,4176,31],
+"de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[6,0,4176,22],
+"de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[6,0,4176,15],
+"de/d95/classTicketMgr.html#a5c6638093e959f1cd7311268f2c8cf56":[6,0,4176,3],
+"de/d95/classTicketMgr.html#a5e589cee62a607de7e4c2e8155ca0cc6":[6,0,4176,1]
 };

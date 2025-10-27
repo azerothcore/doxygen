@@ -1,9 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/de0/structboss__archavon_1_1boss__archavonAI.html#a101518193c0fb6bbd6892362a6f09b9c":[6,0,385,0,0],
-"df/de0/structboss__archavon_1_1boss__archavonAI.html#a3974065a80dedf3e673452e7f6f8e449":[6,0,385,0,2],
-"df/de0/structboss__archavon_1_1boss__archavonAI.html#a5abb4c2b4149172d2e7bf0d539237323":[6,0,385,0,5],
-"df/de0/structboss__archavon_1_1boss__archavonAI.html#a7d101626f39947dd54b574491a5e6d72":[6,0,385,0,4],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#a8d7fef6dfcdc5be20f0531c34b09fc13":[6,0,385,0,6],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ab51f09b76054d8bdb13f3c27396db87e":[6,0,385,0,7],
 "df/de0/structboss__archavon_1_1boss__archavonAI.html#ac9f82f61ee7fe945cb3fba23a69e704c":[6,0,385,0,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX404 =
 "df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[6,0,843,15],
 "df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[6,0,843,16],
 "df/df1/structCell.html#a9ed4535aabe48966738425a8322e265e":[6,0,843,2],
-"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,843,23]
+"df/df1/structCell.html#aa3496123fb4af8a4d62c3b79c00155cb":[6,0,843,23],
+"df/df1/structCell.html#aa8d9ead1231c6119656eb132949d3a97":[6,0,843,18],
+"df/df1/structCell.html#aac53c1b488624eb2a64c99dc544f7d90":[6,0,843,13],
+"df/df1/structCell.html#ab255ad0293fc1990773513de3fa472ad":[6,0,843,9],
+"df/df1/structCell.html#ab3fe002db0c02530e0e81857857ab26b":[6,0,843,26]
 };

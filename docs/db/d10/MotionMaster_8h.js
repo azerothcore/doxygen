@@ -45,6 +45,10 @@ var MotionMaster_8h =
       [ "MOTION_SLOT_CONTROLLED", "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
       [ "MAX_MOTION_SLOT", "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
     ] ],
+    [ "PathSource", "db/d10/MotionMaster_8h.html#a7c48b62afc7f5aeede09278c110acbac", [
+      [ "WAYPOINT_MGR", "db/d10/MotionMaster_8h.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7", null ],
+      [ "SMART_WAYPOINT_MGR", "db/d10/MotionMaster_8h.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f", null ]
+    ] ],
     [ "RotateDirection", "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233", [
       [ "ROTATE_DIRECTION_LEFT", "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],
       [ "ROTATE_DIRECTION_RIGHT", "db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5", null ]

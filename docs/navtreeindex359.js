@@ -1,9 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376":[7,0,0,0,1,3,9,7,25,1],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4":[7,0,0,0,1,3,9,7,25,2],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html":[6,0,2234,0],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a0176f8b45c20af1552e1a8b70e307442":[6,0,2234,0,4],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a118059c877151a9f6b2b15a4070e2704":[6,0,2234,0,0],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a3217617eb3312c1da34dc7dce590fe0d":[6,0,2234,0,1],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a556453c557df0be6a57255e400d98a87":[6,0,2234,0,9],
@@ -249,5 +245,9 @@ var NAVTREEINDEX359 =
 "de/d2d/namespaceObjectAccessor.html#a4cebdea9476a004a8a1bd57c40d1f3ae":[5,0,23,16],
 "de/d2d/namespaceObjectAccessor.html#a6639665d2704cbd06727004567caac15":[5,0,23,17],
 "de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244":[5,0,23,13],
-"de/d2d/namespaceObjectAccessor.html#a868ecab21b3e6e3ac68beed32f4ea793":[5,0,23,15]
+"de/d2d/namespaceObjectAccessor.html#a868ecab21b3e6e3ac68beed32f4ea793":[5,0,23,15],
+"de/d2d/namespaceObjectAccessor.html#a8a088e6967b9972662d788beffba14d4":[5,0,23,24],
+"de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9":[5,0,23,7],
+"de/d2d/namespaceObjectAccessor.html#a970c7277a8e1bb7b65f78fdee825b2cc":[5,0,23,20],
+"de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee":[5,0,23,3]
 };

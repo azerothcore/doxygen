@@ -206,7 +206,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  939</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_ulduar_working_harpoon&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  929</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_ulduar_working_harpoon&quot;</span>) { }</div>
 <div class="ttc" id="aclassGameObjectScript_html"><div class="ttname"><a href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></div><div class="ttdef"><b>Definition</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -247,54 +247,54 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  942</span>    {</div>
-<div class="line"><span class="lineno">  943</span>        <span class="keywordflow">if</span> (!user || !go)</div>
-<div class="line"><span class="lineno">  944</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  945</span> </div>
-<div class="line"><span class="lineno">  946</span>        <a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* pInstance = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
-<div class="line"><span class="lineno">  947</span>        <span class="keywordflow">if</span> (!pInstance)</div>
+<div class="fragment"><div class="line"><span class="lineno">  932</span>    {</div>
+<div class="line"><span class="lineno">  933</span>        <span class="keywordflow">if</span> (!user || !go)</div>
+<div class="line"><span class="lineno">  934</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  935</span> </div>
+<div class="line"><span class="lineno">  936</span>        <a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* pInstance = go-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
+<div class="line"><span class="lineno">  937</span>        <span class="keywordflow">if</span> (!pInstance)</div>
+<div class="line"><span class="lineno">  938</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  939</span> </div>
+<div class="line"><span class="lineno">  940</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* rs = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  941</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> rsGUID = pInstance-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa75a14d6fe2af7d3ef829eb0c8af63209">TYPE_RAZORSCALE</a>))</div>
+<div class="line"><span class="lineno">  942</span>            rs = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*go, rsGUID);</div>
+<div class="line"><span class="lineno">  943</span> </div>
+<div class="line"><span class="lineno">  944</span>        <span class="keywordflow">if</span> (!rs || !rs-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
+<div class="line"><span class="lineno">  945</span>        {</div>
+<div class="line"><span class="lineno">  946</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef">SetRespawnTime</a>(0);</div>
+<div class="line"><span class="lineno">  947</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a322beae90ff8c484e0c52da2c8b4a2a5">Delete</a>();</div>
 <div class="line"><span class="lineno">  948</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  949</span> </div>
-<div class="line"><span class="lineno">  950</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* rs = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  951</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> rsGUID = pInstance-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa75a14d6fe2af7d3ef829eb0c8af63209">TYPE_RAZORSCALE</a>))</div>
-<div class="line"><span class="lineno">  952</span>            rs = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*go, rsGUID);</div>
-<div class="line"><span class="lineno">  953</span> </div>
-<div class="line"><span class="lineno">  954</span>        <span class="keywordflow">if</span> (!rs || !rs-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
-<div class="line"><span class="lineno">  955</span>        {</div>
-<div class="line"><span class="lineno">  956</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a75c7d2fb3387f66bdcee4b8e1267d6ef">SetRespawnTime</a>(0);</div>
-<div class="line"><span class="lineno">  957</span>            go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a322beae90ff8c484e0c52da2c8b4a2a5">Delete</a>();</div>
-<div class="line"><span class="lineno">  958</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  959</span>        }</div>
-<div class="line"><span class="lineno">  960</span> </div>
-<div class="line"><span class="lineno">  961</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = 0;</div>
-<div class="line"><span class="lineno">  962</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell = 0;</div>
-<div class="line"><span class="lineno">  963</span>        <span class="keywordflow">switch</span> (go-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
-<div class="line"><span class="lineno">  964</span>        {</div>
-<div class="line"><span class="lineno">  965</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a1b6b311d30a41c76843d08ee09b1034b">GO_HARPOON_GUN_1</a>:</div>
-<div class="line"><span class="lineno">  966</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a534f9f6de8863c71fe15bff58ac58bea">DATA_HARPOON_FIRE_STATE_1</a>;</div>
-<div class="line"><span class="lineno">  967</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6791d75c6ac0d022d5c7ef927a9757af">SPELL_CHAIN_1</a>;</div>
-<div class="line"><span class="lineno">  968</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  969</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a6791af28ffeb72a94898798b173f713f">GO_HARPOON_GUN_2</a>:</div>
-<div class="line"><span class="lineno">  970</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a5732167e483d57aaf0af64a6711099f9">DATA_HARPOON_FIRE_STATE_2</a>;</div>
-<div class="line"><span class="lineno">  971</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca104814a14eeb9d1870ff64a125311ef5">SPELL_CHAIN_2</a>;</div>
-<div class="line"><span class="lineno">  972</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  973</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a8a61a00ad4547b4da1729ee6b85f2668">GO_HARPOON_GUN_3</a>:</div>
-<div class="line"><span class="lineno">  974</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a93a66a2f66f0824faf23c4d1443c19df">DATA_HARPOON_FIRE_STATE_3</a>;</div>
-<div class="line"><span class="lineno">  975</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca184a82424312923dd0101fd411de77b7">SPELL_CHAIN_3</a>;</div>
-<div class="line"><span class="lineno">  976</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  977</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5afb84b30ba4c23c80deadb9adf45231cb">GO_HARPOON_GUN_4</a>:</div>
-<div class="line"><span class="lineno">  978</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2adc7d3dd1e424bae9564dead1249783d2">DATA_HARPOON_FIRE_STATE_4</a>;</div>
-<div class="line"><span class="lineno">  979</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cae6acaed58805e1c6cb7a249d23756de0">SPELL_CHAIN_4</a>;</div>
-<div class="line"><span class="lineno">  980</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  981</span>        }</div>
-<div class="line"><span class="lineno">  982</span> </div>
-<div class="line"><span class="lineno">  983</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> g = pInstance-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a>))</div>
-<div class="line"><span class="lineno">  984</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* hfs = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*go, g))</div>
-<div class="line"><span class="lineno">  985</span>                hfs-&gt;AI()-&gt;SetData(3, spell);</div>
-<div class="line"><span class="lineno">  986</span> </div>
-<div class="line"><span class="lineno">  987</span>        go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d">SetLootState</a>(<a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>);</div>
-<div class="line"><span class="lineno">  988</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  989</span>    }</div>
+<div class="line"><span class="lineno">  949</span>        }</div>
+<div class="line"><span class="lineno">  950</span> </div>
+<div class="line"><span class="lineno">  951</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = 0;</div>
+<div class="line"><span class="lineno">  952</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell = 0;</div>
+<div class="line"><span class="lineno">  953</span>        <span class="keywordflow">switch</span> (go-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
+<div class="line"><span class="lineno">  954</span>        {</div>
+<div class="line"><span class="lineno">  955</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a1b6b311d30a41c76843d08ee09b1034b">GO_HARPOON_GUN_1</a>:</div>
+<div class="line"><span class="lineno">  956</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a534f9f6de8863c71fe15bff58ac58bea">DATA_HARPOON_FIRE_STATE_1</a>;</div>
+<div class="line"><span class="lineno">  957</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6791d75c6ac0d022d5c7ef927a9757af">SPELL_CHAIN_1</a>;</div>
+<div class="line"><span class="lineno">  958</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  959</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a6791af28ffeb72a94898798b173f713f">GO_HARPOON_GUN_2</a>:</div>
+<div class="line"><span class="lineno">  960</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a5732167e483d57aaf0af64a6711099f9">DATA_HARPOON_FIRE_STATE_2</a>;</div>
+<div class="line"><span class="lineno">  961</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca104814a14eeb9d1870ff64a125311ef5">SPELL_CHAIN_2</a>;</div>
+<div class="line"><span class="lineno">  962</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  963</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a8a61a00ad4547b4da1729ee6b85f2668">GO_HARPOON_GUN_3</a>:</div>
+<div class="line"><span class="lineno">  964</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a93a66a2f66f0824faf23c4d1443c19df">DATA_HARPOON_FIRE_STATE_3</a>;</div>
+<div class="line"><span class="lineno">  965</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca184a82424312923dd0101fd411de77b7">SPELL_CHAIN_3</a>;</div>
+<div class="line"><span class="lineno">  966</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  967</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5afb84b30ba4c23c80deadb9adf45231cb">GO_HARPOON_GUN_4</a>:</div>
+<div class="line"><span class="lineno">  968</span>                <a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a> = <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2adc7d3dd1e424bae9564dead1249783d2">DATA_HARPOON_FIRE_STATE_4</a>;</div>
+<div class="line"><span class="lineno">  969</span>                spell = <a class="code hl_enumvalue" href="../../dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cae6acaed58805e1c6cb7a249d23756de0">SPELL_CHAIN_4</a>;</div>
+<div class="line"><span class="lineno">  970</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  971</span>        }</div>
+<div class="line"><span class="lineno">  972</span> </div>
+<div class="line"><span class="lineno">  973</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> g = pInstance-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a3be7f24ca31c9433aca546e1087109b4">GetGuidData</a>(<a class="code hl_enumeration" href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a>))</div>
+<div class="line"><span class="lineno">  974</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* hfs = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*go, g))</div>
+<div class="line"><span class="lineno">  975</span>                hfs-&gt;AI()-&gt;SetData(3, spell);</div>
+<div class="line"><span class="lineno">  976</span> </div>
+<div class="line"><span class="lineno">  977</span>        go-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d">SetLootState</a>(<a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a>);</div>
+<div class="line"><span class="lineno">  978</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  979</span>    }</div>
 <div class="ttc" id="aBattlegroundSA_8h_html_aac8160a2d201984c00bdcedc6e721055"><div class="ttname"><a href="../../d8/de0/BattlegroundSA_8h.html#aac8160a2d201984c00bdcedc6e721055">npc</a></div><div class="ttdeci">npc</div><div class="ttdef"><b>Definition</b> BattlegroundSA.h:47</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5">GO_JUST_DEACTIVATED</a></div><div class="ttdeci">@ GO_JUST_DEACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:113</div></div>
@@ -336,7 +336,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d71/classgo__ulduar__working__harpoon.html">go_ulduar_working_harpoon</a></li>
-    <li class="footer">Generated on Sun Oct 26 2025 06:22:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 27 2025 06:27:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

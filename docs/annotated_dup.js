@@ -4781,7 +4781,6 @@ var annotated_dup =
     [ "WaveCreature", "dd/dc6/structWaveCreature.html", "dd/dc6/structWaveCreature" ],
     [ "WaveData", "d1/da6/structWaveData.html", "d1/da6/structWaveData" ],
     [ "WaveDataCreature", "df/d31/structWaveDataCreature.html", "df/d31/structWaveDataCreature" ],
-    [ "WayPoint", "d7/d0d/structWayPoint.html", "d7/d0d/structWayPoint" ],
     [ "WaypointData", "da/d4b/structWaypointData.html", "da/d4b/structWaypointData" ],
     [ "WaypointMgr", "d7/d3d/classWaypointMgr.html", "d7/d3d/classWaypointMgr" ],
     [ "WaypointMovementGenerator", "de/d87/classWaypointMovementGenerator.html", null ],

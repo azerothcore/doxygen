@@ -1,9 +1,5 @@
 var NAVTREEINDEX363 =
 {
-"de/d3d/LFGMgr_8h.html#a24a94f53e8d64ec14618126aff5fb965":[7,0,0,0,1,2,15,5,14],
-"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7c":[7,0,0,0,1,2,15,5,28],
-"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158":[7,0,0,0,1,2,15,5,28,4],
-"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca5c2d973e50a206ed3db55622d9697c0b":[7,0,0,0,1,2,15,5,28,1],
 "de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca7c25463752da16999540b959230d1905":[7,0,0,0,1,2,15,5,28,2],
 "de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25":[7,0,0,0,1,2,15,5,28,7],
 "de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7ca9515ecdf2873ba8695755161ba20588e":[7,0,0,0,1,2,15,5,28,0],
@@ -211,10 +207,10 @@ var NAVTREEINDEX363 =
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a0b4283bdb19a4ceef505aab41c99abe8":[6,0,3911,3],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a106935d92ef6ba7909c57264e26b5522":[6,0,3911,0],
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,3911,1],
-"de/d4a/classWorldMapScript.html":[6,0,4313],
-"de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[6,0,4313,0],
-"de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4313,2],
-"de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[6,0,4313,1],
+"de/d4a/classWorldMapScript.html":[6,0,4312],
+"de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[6,0,4312,0],
+"de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4312,2],
+"de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[6,0,4312,1],
 "de/d4a/classspell__brewfest__toss__mug.html":[6,0,2691],
 "de/d4a/classspell__brewfest__toss__mug.html#a02965b55e8efadbd21e5afdd824f1dec":[6,0,2691,0],
 "de/d4a/classspell__brewfest__toss__mug.html#a3567c72e999ad6ca9db15b4d6ddadafb":[6,0,2691,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX363 =
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[6,0,6,9,11],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[5,0,20,9,11],
 "de/d4a/structboss__fathomguard__tidalvess.html":[6,0,463],
-"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,463,7]
+"de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,463,7],
+"de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,463,10],
+"de/d4a/structboss__fathomguard__tidalvess.html#a1b4ace7575946c585cc63057e81a1529":[6,0,463,15],
+"de/d4a/structboss__fathomguard__tidalvess.html#a1dc16180610c742e98a93f87653e93e9":[6,0,463,5],
+"de/d4a/structboss__fathomguard__tidalvess.html#a7f79a16e0c186e97aeb7f16f3b7d45ea":[6,0,463,3]
 };

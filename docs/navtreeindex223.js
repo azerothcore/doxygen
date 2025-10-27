@@ -1,13 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/daa/classAcore_1_1Crypto_1_1AES.html#ad479930aa60f991335d4cf68251958bb":[5,0,1,4,0,1],
-"d8/daa/classAcore_1_1Crypto_1_1AES.html#ad6abd9fd7a9b7bafc4c300ebca415a1e":[5,0,1,4,0,2],
-"d8/daa/classAcore_1_1Crypto_1_1AES.html#ad6abd9fd7a9b7bafc4c300ebca415a1e":[6,0,0,2,0,2],
-"d8/daa/classAcore_1_1Crypto_1_1AES.html#ae461a0a028ca8d02af56496252e6322d":[6,0,0,2,0,7],
-"d8/daa/classAcore_1_1Crypto_1_1AES.html#ae461a0a028ca8d02af56496252e6322d":[5,0,1,4,0,7],
-"d8/daa/classnpc__coldflame.html":[6,0,1693],
-"d8/daa/classnpc__coldflame.html#a573b887358e2ba2281c4c119a267c33f":[6,0,1693,1],
-"d8/daa/classnpc__coldflame.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1":[6,0,1693,2],
 "d8/daa/classspell__infected__worgen__bite__aura.html":[6,0,3209],
 "d8/daa/classspell__infected__worgen__bite__aura.html#a3e5902a79b9d2c5cad69ad2ece8592ec":[6,0,3209,1],
 "d8/daa/classspell__infected__worgen__bite__aura.html#a3ee65a1391c340e471adfc7ac653dd50":[6,0,3209,3],
@@ -58,8 +50,8 @@ var NAVTREEINDEX223 =
 "d8/db1/classnpc__counselor__talbot.html":[6,0,1712],
 "d8/db1/classnpc__counselor__talbot.html#a3debd13352146a247d635042ecbfa155":[6,0,1712,2],
 "d8/db1/classnpc__counselor__talbot.html#a9223380bb78afeda617482bea0a3110c":[6,0,1712,1],
-"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,24],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,24],
+"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,24],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[5,0,1,8,0,24,0],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[6,0,0,5,0,24,0],
 "d8/db2/classspell__gen__mine__sweeper.html":[6,0,2987],
@@ -249,5 +241,13 @@ var NAVTREEINDEX223 =
 "d8/dbb/UnitEvents_8h.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9":[7,0,0,0,1,2,12,4,6,0],
 "d8/dbb/UnitEvents_8h.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0":[7,0,0,0,1,2,12,4,6,2],
 "d8/dbb/UnitEvents_8h.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db":[7,0,0,0,1,2,12,4,6,3],
-"d8/dbb/UnitEvents_8h.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9":[7,0,0,0,1,2,12,4,6,5]
+"d8/dbb/UnitEvents_8h.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9":[7,0,0,0,1,2,12,4,6,5],
+"d8/dbb/UnitEvents_8h.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669":[7,0,0,0,1,2,12,4,6,6],
+"d8/dbb/UnitEvents_8h.html#a99af7f8805c877a694d51ab4feb1e58b":[7,0,0,0,1,2,12,4,3],
+"d8/dbb/UnitEvents_8h.html#aca3c8db6dd274b113d9c3c7755ff5d7a":[7,0,0,0,1,2,12,4,5],
+"d8/dbb/classboss__cyanigosa.html":[6,0,418],
+"d8/dbb/classboss__cyanigosa.html#a4db12e2fb873ad3595a437df09663a22":[6,0,418,1],
+"d8/dbb/classboss__cyanigosa.html#a779c7c3a5f0002501361fa92fe14af69":[6,0,418,2],
+"d8/dbb/structSpellSchoolImmune.html":[6,0,4116],
+"d8/dbb/structSpellSchoolImmune.html#a6cae645736c697e2c2bf51a70c230070":[6,0,4116,0]
 };

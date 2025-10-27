@@ -1,9 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,1,9,6,6],
-"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298cafed4f39f332f96a2546e2e4c155641a8":[7,0,0,0,1,3,7,1,9,6,2],
-"df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,7,1,9,4],
-"df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,7,1,9,4,1],
 "df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acf4812a290a2b4e9a539717678d237aa":[7,0,0,0,1,3,7,1,9,4,0],
 "df/d6a/boss__warlord__najentus_8cpp.html#af8878a94693e7e2e32962d79c7a83e80":[7,0,0,0,1,3,7,1,9,8],
 "df/d6a/firework__show__Teldrassil_8h.html":[7,0,0,0,1,3,3,0,9],
@@ -249,5 +245,9 @@ var NAVTREEINDEX389 =
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2295,0,0],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2295,0,2],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[6,0,2295,0,1],
-"df/d77/classachievement__smell__saronite.html":[6,0,90]
+"df/d77/classachievement__smell__saronite.html":[6,0,90],
+"df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,90,0],
+"df/d77/classachievement__smell__saronite.html#a5180e3e53fa0f4d32d2a305d315bc8b3":[6,0,90,1],
+"df/d77/classspell__drakkari__colossus__face__me.html":[6,0,2805],
+"df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2805,1]
 };

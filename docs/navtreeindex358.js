@@ -1,9 +1,5 @@
 var NAVTREEINDEX358 =
 {
-"de/d1c/classGameObject.html#a23d07cf4bd0d68e9f30112bb34bcc504":[6,0,1079,134],
-"de/d1c/classGameObject.html#a2591bcee950c708fe556a71062cfcf64":[6,0,1079,70],
-"de/d1c/classGameObject.html#a2752ae6f85664f15645915ba05511795":[6,0,1079,118],
-"de/d1c/classGameObject.html#a27c07f578dbb723ccc0a0985bb77e29a":[6,0,1079,64],
 "de/d1c/classGameObject.html#a289833acf259f1eb262ab9be701a3e86":[6,0,1079,164],
 "de/d1c/classGameObject.html#a2902d4b0a6a363a08057a03915618ead":[6,0,1079,48],
 "de/d1c/classGameObject.html#a2a4d849c719978342f509bc269cbd134":[6,0,1079,60],
@@ -249,5 +245,9 @@ var NAVTREEINDEX358 =
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,7,26,21],
 "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68":[7,0,0,0,1,3,9,7,26,11],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740d":[7,0,0,0,1,3,9,7,25],
-"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,25,0]
+"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,25,0],
+"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376":[7,0,0,0,1,3,9,7,25,1],
+"de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4":[7,0,0,0,1,3,9,7,25,2],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html":[6,0,2234,0],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a0176f8b45c20af1552e1a8b70e307442":[6,0,2234,0,4]
 };

@@ -151,6 +151,7 @@ var structSmartAction =
     [ "pathId", "dd/d27/structSmartAction.html#aea708fbcbaabbe6bb757b8a69187ac07", null ],
     [ "pathId1", "dd/d27/structSmartAction.html#ab217c50b27fa09760135db018269397c", null ],
     [ "pathId2", "dd/d27/structSmartAction.html#a6ff25e8784daaa67ccef9bd824f47c60", null ],
+    [ "pathSource", "dd/d27/structSmartAction.html#abb8882b96e92ff475aac3c2fe80a5438", null ],
     [ "percent", "dd/d27/structSmartAction.html#a44afde0676b9bf14380c4b9232011cb2", null ],
     [ "phase", "dd/d27/structSmartAction.html#af9965e2704092cc9a2527d9c6f80478f", null ],
     [ "phaseMax", "dd/d27/structSmartAction.html#ab7d5131e173012e52cf4ce498ccbd41f", null ],

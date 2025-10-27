@@ -6012,7 +6012,6 @@ var hierarchy =
     [ "WaveCreature", "dd/dc6/structWaveCreature.html", null ],
     [ "WaveData", "d1/da6/structWaveData.html", null ],
     [ "WaveDataCreature", "df/d31/structWaveDataCreature.html", null ],
-    [ "WayPoint", "d7/d0d/structWayPoint.html", null ],
     [ "WaypointData", "da/d4b/structWaypointData.html", null ],
     [ "WaypointMgr", "d7/d3d/classWaypointMgr.html", null ],
     [ "WaypointMovementGenerator< T >", "de/d87/classWaypointMovementGenerator.html", null ],

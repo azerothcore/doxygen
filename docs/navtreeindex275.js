@@ -1,13 +1,5 @@
 var NAVTREEINDEX275 =
 {
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a5014e6aebdda3b84cd22fd2f66ed691b":[6,0,685,0,10],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a5ed942da2e53ecc63ec15fa8cf8c3325":[6,0,685,0,4],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a6d45699d2efacdc0aca88dba3f67d20a":[6,0,685,0,3],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a7aaca15038bf53ff3baaeb39c7713bff":[6,0,685,0,15],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a8502d5c79b7baac2f9a68349e99b7b16":[6,0,685,0,8],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#aadd3b8f29b49b67685d67036c5f2775f":[6,0,685,0,13],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab72889e00eb1fad659f807620e81e23e":[6,0,685,0,9],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab9c3a5d19c966e547328ce2a28674069":[6,0,685,0,19],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ac0a2915976f7dfb21786c161d5e43d3f":[6,0,685,0,5],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ac5dc745f044bdf673b7f92b194063d94":[6,0,685,0,7],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ad992cf36966069dc00d5509a54445213":[6,0,685,0,12],
@@ -31,9 +23,9 @@ var NAVTREEINDEX275 =
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673":[7,0,0,0,0,1,2,4,2,0],
 "db/d10/MotionMaster_8h.html":[7,0,0,0,1,2,31,7],
-"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233":[7,0,0,0,1,2,31,7,9],
-"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5":[7,0,0,0,1,2,31,7,9,1],
-"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a":[7,0,0,0,1,2,31,7,9,0],
+"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233":[7,0,0,0,1,2,31,7,10],
+"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5":[7,0,0,0,1,2,31,7,10,1],
+"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a":[7,0,0,0,1,2,31,7,10,0],
 "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5":[7,0,0,0,1,2,31,7,6],
 "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2":[7,0,0,0,1,2,31,7,6,2],
 "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79":[7,0,0,0,1,2,31,7,6,0],
@@ -66,6 +58,9 @@ var NAVTREEINDEX275 =
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4":[7,0,0,0,1,2,31,7,7,13],
 "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac":[7,0,0,0,1,2,31,7,7,17],
 "db/d10/MotionMaster_8h.html#a6386d0a4b64b17a25a60627bb55b360c":[7,0,0,0,1,2,31,7,3],
+"db/d10/MotionMaster_8h.html#a7c48b62afc7f5aeede09278c110acbac":[7,0,0,0,1,2,31,7,9],
+"db/d10/MotionMaster_8h.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7":[7,0,0,0,1,2,31,7,9,0],
+"db/d10/MotionMaster_8h.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f":[7,0,0,0,1,2,31,7,9,1],
 "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0":[7,0,0,0,1,2,31,7,5],
 "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37":[7,0,0,0,1,2,31,7,5,1],
 "db/d10/MotionMaster_8h.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2":[7,0,0,0,1,2,31,7,5,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX275 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a1f1c3e0ea24174605a7be8fa02e30518":[6,0,2679,1],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a2804f25643e59f3922291abcb055b641":[6,0,2679,3],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2679,0],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2679,4]
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2679,4],
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[6,0,2679,5],
+"db/d17/classspell__xt002__tympanic__tantrum.html":[6,0,4058],
+"db/d17/classspell__xt002__tympanic__tantrum.html#a02c1af0414de344056b2375488f23c01":[6,0,4058,2],
+"db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,4058,3],
+"db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,4058,1]
 };

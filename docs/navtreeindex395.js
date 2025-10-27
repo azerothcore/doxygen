@@ -1,9 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"df/da7/classBattleground.html#a4e05c7ef0328f590519c14fa70d02cfa":[6,0,314,218],
-"df/da7/classBattleground.html#a500cd81f3701a8f7715f3c692cc2c4cf":[6,0,314,106],
-"df/da7/classBattleground.html#a502c46b68ba64405f9eb6d6090af42d2":[6,0,314,161],
-"df/da7/classBattleground.html#a50d5eb3fe1e847aedc5584ea8a441bd8":[6,0,314,136],
 "df/da7/classBattleground.html#a5330237a651b2e2c269c5c45e9dcd9af":[6,0,314,134],
 "df/da7/classBattleground.html#a55305a8fcb4f4eaa7cbb20a74a75fa2a":[6,0,314,205],
 "df/da7/classBattleground.html#a566eb4afdddfb5468efb9b343c7ce064":[6,0,314,50],
@@ -249,5 +245,9 @@ var NAVTREEINDEX395 =
 "df/dae/classspell__drakkari__colossus__emerge.html#a7b685926a8d511397889616e97bbd563":[6,0,2804,2],
 "df/dae/classspell__drakkari__colossus__emerge.html#ab614c27fbeb0fc6cac42c3e8f981e11d":[6,0,2804,0],
 "df/dae/classspell__drakkari__colossus__emerge.html#aecd40c136e44dfc9c5e4dd572d577578":[6,0,2804,3],
-"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[6,0,2053,0]
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html":[6,0,2053,0],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a1e1ab6c1d349a9543815a29ae185feec":[6,0,2053,0,6],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a2ded8591da2548921cd016d592d1f1c8":[6,0,2053,0,0],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a32f4c5c48f1a63ded0ac9b8ee763090b":[6,0,2053,0,2],
+"df/dae/structnpc__pos__leader__second_1_1npc__pos__leader__secondAI.html#a452c096475581c12bf2f4ccb12448026":[6,0,2053,0,5]
 };

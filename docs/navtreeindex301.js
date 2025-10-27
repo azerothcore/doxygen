@@ -1,10 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48":[7,0,0,0,1,2,3,1,3,3,2],
-"dc/d04/classachievement__flame__leviathan__shutout.html":[6,0,50],
-"dc/d04/classachievement__flame__leviathan__shutout.html#a555e0d206b7f730665d301c7e03b23e6":[6,0,50,0],
-"dc/d04/classachievement__flame__leviathan__shutout.html#af548232f563fd387bc8ee25b696a2f99":[6,0,50,1],
-"dc/d05/classnpc__wounded__blood__elf.html":[6,0,2296],
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2296,2],
 "dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2296,1],
 "dc/d05/structboss__anomalus.html":[6,0,377],
@@ -249,5 +244,10 @@ var NAVTREEINDEX301 =
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html":[6,0,661,0],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a145d62ce132c3cdaeb7918790122967b":[6,0,661,0,4],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a1b3b2ce6d33becceb9a0426932b351be":[6,0,661,0,11],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a1c15de4b477bbab2bb7d73df9f524d77":[6,0,661,0,15]
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a1c15de4b477bbab2bb7d73df9f524d77":[6,0,661,0,15],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a448dcc055b5a4f57b6ad1ed09a4e19de":[6,0,661,0,8],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a45e9131b837b3967cc5b8d08ce7946cd":[6,0,661,0,20],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a5433de81912a208ea79533e0650d8687":[6,0,661,0,6],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a692da5cd278c64a6e14c9a997e02a433":[6,0,661,0,9],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#a7fdce83dce5c425aa6ba266860808f8a":[6,0,661,0,1]
 };

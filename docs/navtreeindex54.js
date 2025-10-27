@@ -1,6 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d2d/classDamageInfo.html#a90be517686a8d78e0c585e1535e39567":[6,0,949,20],
 "d2/d2d/classDamageInfo.html#a92d500e09cf80873f1c9751841dede58":[6,0,949,24],
 "d2/d2d/classDamageInfo.html#a9b39c211a157092dbd0111ac46bef8a4":[6,0,949,25],
 "d2/d2d/classDamageInfo.html#aa241087126e9dd972944dee7225783a8":[6,0,949,2],
@@ -92,8 +91,8 @@ var NAVTREEINDEX54 =
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3288,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,31,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,2,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,2,0,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a38e919623fe3ebbad2d835976d70b1e2":[7,0,0,0,1,3,5,14,118],
 "d2/d38/northrend__script__loader_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,14,36],
 "d2/d38/northrend__script__loader_8cpp.html#a3d339190942c6b50cafaf9780d32ffb4":[7,0,0,0,1,3,5,14,148],
-"d2/d38/northrend__script__loader_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[7,0,0,0,1,3,5,14,106]
+"d2/d38/northrend__script__loader_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[7,0,0,0,1,3,5,14,106],
+"d2/d38/northrend__script__loader_8cpp.html#a44fe40b4447f60a713f7ee79c3e98007":[7,0,0,0,1,3,5,14,121]
 };

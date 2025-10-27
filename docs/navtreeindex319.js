@@ -1,10 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dc/de1/SkillDiscovery_8h.html":[7,0,0,0,1,2,40,1],
-"dc/de1/SkillDiscovery_8h.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[7,0,0,0,1,2,40,1,0],
-"dc/de1/SkillDiscovery_8h.html#ab50472e4f1f892eb77ce660ef00d808a":[7,0,0,0,1,2,40,1,1],
-"dc/de1/SkillDiscovery_8h.html#abdf3c2fcf65212466dfb54053e35024c":[7,0,0,0,1,2,40,1,2],
-"dc/de1/SkillDiscovery_8h.html#addd95f0a239a27ed32cd943aa1052019":[7,0,0,0,1,2,40,1,3],
 "dc/de1/instance__sunwell__plateau_8cpp.html":[7,0,0,0,1,3,2,12,6],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,12,6,14],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216":[7,0,0,0,1,3,2,12,6,10],
@@ -249,5 +244,10 @@ var NAVTREEINDEX319 =
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
 "dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
 "dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
-"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2972]
+"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2972],
+"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2972,0],
+"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2972,1],
+"dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6],
+"dc/def/structboss__mechano__lord__capacitus.html":[6,0,617],
+"dc/def/structboss__mechano__lord__capacitus.html#a4aa9ee50a942fe123acfdeee0350fa2d":[6,0,617,2]
 };

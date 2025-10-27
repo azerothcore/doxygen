@@ -1,6 +1,5 @@
 var NAVTREEINDEX55 =
 {
-"d2/d38/northrend__script__loader_8cpp.html#a44fe40b4447f60a713f7ee79c3e98007":[7,0,0,0,1,3,5,14,121],
 "d2/d38/northrend__script__loader_8cpp.html#a46e7a414688348e3775b2756abfc8553":[7,0,0,0,1,3,5,14,49],
 "d2/d38/northrend__script__loader_8cpp.html#a4917973731274871be6d53aca950379e":[7,0,0,0,1,3,5,14,17],
 "d2/d38/northrend__script__loader_8cpp.html#a491f03eb89872b2641ce50b95548d33f":[7,0,0,0,1,3,5,14,105],
@@ -236,18 +235,19 @@ var NAVTREEINDEX55 =
 "d2/d3e/classnpc__archmage__landalock.html":[6,0,1612],
 "d2/d3e/classnpc__archmage__landalock.html#a92cfa8c2660413681297bfe12815c938":[6,0,1612,2],
 "d2/d3e/classnpc__archmage__landalock.html#ac7379ff07740123312af66ead64df4c6":[6,0,1612,1],
-"d2/d3e/structWintergraspBuildingSpawnData.html":[6,0,4293],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a21238943701f594e1a5346193c895d33":[6,0,4293,3],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a3913a2618277cc5ad382aa2fc1d00f5e":[6,0,4293,8],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a3cebd422659aa7339e9a23a87cfad0d7":[6,0,4293,4],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618":[6,0,4293,5],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a58d0395a47190698d309e80d91358bb1":[6,0,4293,2],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a5d8ade187749e6fc191f01b384a4cda6":[6,0,4293,7],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a80ebabba7265753a05367a4c79f6450c":[6,0,4293,6],
-"d2/d3e/structWintergraspBuildingSpawnData.html#a81747f8ff920f7c17a55d45d43304cc9":[6,0,4293,1],
-"d2/d3e/structWintergraspBuildingSpawnData.html#af83062a39d8dfc89bf61a4364bd8579d":[6,0,4293,0],
+"d2/d3e/structWintergraspBuildingSpawnData.html":[6,0,4292],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a21238943701f594e1a5346193c895d33":[6,0,4292,3],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a3913a2618277cc5ad382aa2fc1d00f5e":[6,0,4292,8],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a3cebd422659aa7339e9a23a87cfad0d7":[6,0,4292,4],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618":[6,0,4292,5],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a58d0395a47190698d309e80d91358bb1":[6,0,4292,2],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a5d8ade187749e6fc191f01b384a4cda6":[6,0,4292,7],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a80ebabba7265753a05367a4c79f6450c":[6,0,4292,6],
+"d2/d3e/structWintergraspBuildingSpawnData.html#a81747f8ff920f7c17a55d45d43304cc9":[6,0,4292,1],
+"d2/d3e/structWintergraspBuildingSpawnData.html#af83062a39d8dfc89bf61a4364bd8579d":[6,0,4292,0],
 "d2/d3f/CommandScript_8cpp.html":[7,0,0,0,1,2,38,0,35],
 "d2/d3f/CommandScript_8cpp.html#a2d714ec85ac23255244ecf61e4f48244":[7,0,0,0,1,2,38,0,35,0],
 "d2/d3f/classActivePoolData.html":[6,0,126],
-"d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[6,0,126,17]
+"d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[6,0,126,17],
+"d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076":[6,0,126,9]
 };

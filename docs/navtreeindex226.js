@@ -1,13 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"d8/dd6/DBCfmt_8h.html#ab9ebf6a6efd44297fc6a9f9dd60bb8e0":[7,0,0,0,1,4,0,3,64],
-"d8/dd6/DBCfmt_8h.html#abc33ebb99c27a6f2815aa61d209c87ed":[7,0,0,0,1,4,0,3,21],
-"d8/dd6/DBCfmt_8h.html#abd8f1cd0e0a32dddac788f89b2f0d558":[7,0,0,0,1,4,0,3,11],
-"d8/dd6/DBCfmt_8h.html#abf1b7677d9768bf62c6cc4ae3d687fcc":[7,0,0,0,1,4,0,3,93],
-"d8/dd6/DBCfmt_8h.html#ac022542c156c1eb7dd8247b8ba8b9a09":[7,0,0,0,1,4,0,3,105],
-"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[7,0,0,0,1,4,0,3,24],
-"d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[7,0,0,0,1,4,0,3,70],
-"d8/dd6/DBCfmt_8h.html#ac62d1b9c6855c6a25a92d52b1de14c7a":[7,0,0,0,1,4,0,3,91],
 "d8/dd6/DBCfmt_8h.html#ac8259d0bba8e665c07c83f1cbe21f281":[7,0,0,0,1,4,0,3,36],
 "d8/dd6/DBCfmt_8h.html#aca90fef36ea63da13958a5b64c5b71f3":[7,0,0,0,1,4,0,3,59],
 "d8/dd6/DBCfmt_8h.html#acad7aec58fc9a46120295b46a083b10a":[7,0,0,0,1,4,0,3,13],
@@ -177,7 +169,6 @@ var NAVTREEINDEX226 =
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cac0db7c2e9ed4be044bbd919420e74d08":[7,0,0,0,1,3,5,24,22,1],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cadce7e277b79fef748cff0cc1a909ae06":[7,0,0,0,1,3,5,24,22,3],
 "d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,1],
-"d8/dda/WaypointMgr_8h.html#a3884c0cb3f926b9869757242cf112630":[7,0,0,0,1,2,31,2,1,3],
 "d8/dda/WaypointMgr_8h.html#a4022be9e8c89b6ab197c2564c77b52c5":[7,0,0,0,1,2,31,2,1,4],
 "d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,1,2],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863":[7,0,0,0,1,2,31,2,1,5],
@@ -186,6 +177,7 @@ var NAVTREEINDEX226 =
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188":[7,0,0,0,1,2,31,2,1,5,4],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843":[7,0,0,0,1,2,31,2,1,5,3],
 "d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff":[7,0,0,0,1,2,31,2,1,5,0],
+"d8/dda/WaypointMgr_8h.html#ad4c69f0b86cdc2e4bbf85b203829313c":[7,0,0,0,1,2,31,2,1,3],
 "d8/dda/classnpc__wizzlecrank__shredder.html":[6,0,2294],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a56a29a61d6f1a5981019f6c059b4da64":[6,0,2294,1],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[6,0,2294,2],
@@ -249,5 +241,13 @@ var NAVTREEINDEX226 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca2532679b3b00c9c2ad8e43431f23ba80":[7,0,0,0,1,3,5,6,7,35,38],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca2ce2b17ae7dd8537725fcbae29f79fb9":[7,0,0,0,1,3,5,6,7,35,30],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f9be9e1a2b9f882ec07f90cd29edf07":[7,0,0,0,1,3,5,6,7,35,29],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca308417def119d9f1e1aa7ffa42427870":[7,0,0,0,1,3,5,6,7,35,39]
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca308417def119d9f1e1aa7ffa42427870":[7,0,0,0,1,3,5,6,7,35,39],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca353682bc516cda23a8618a05c9f084e2":[7,0,0,0,1,3,5,6,7,35,9],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d52f0ef67ddfa327574a1584c5c81e0":[7,0,0,0,1,3,5,6,7,35,11],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca4de96fc5934cd6c5a652b85389f9c7fd":[7,0,0,0,1,3,5,6,7,35,41],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d6e982b2eeb4cdb3ac6e7bbc8e0edb2":[7,0,0,0,1,3,5,6,7,35,20],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca643c8da7dd05686abbc86bd7a81c647b":[7,0,0,0,1,3,5,6,7,35,7],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a36b3dd73b5ddd5187b2e1f8fe860da":[7,0,0,0,1,3,5,6,7,35,22],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6baa922408c42ba726e7d02cf86038d8":[7,0,0,0,1,3,5,6,7,35,27],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c7194afc6a3dd4c9d53c1dc2f7e9ffa":[7,0,0,0,1,3,5,6,7,35,18]
 };

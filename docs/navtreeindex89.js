@@ -1,6 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/df9/structnpc__arthas_1_1npc__arthasAI.html#abaddb70881894577e50a01294ab1c8de":[6,0,1615,0,0],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#abd0371c89f2d0986c73ac26080b61a4e":[6,0,1615,0,18],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#abf90e835139da0fdfca443a690e49a0b":[6,0,1615,0,13],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#ac17e7dd501117025ea07c3d834e4e598":[6,0,1615,0,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX89 =
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#afe722c970155b47eac94bb9861a4eb46":[6,0,3707,1],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html":[6,0,1826,0],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a0142bec2427c1256431e55d3f74b8948":[6,0,1826,0,2],
-"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a195ff7ab2c2e96ab0bcd0a96c1e21512":[6,0,1826,0,10]
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a195ff7ab2c2e96ab0bcd0a96c1e21512":[6,0,1826,0,10],
+"d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#a21f9c24e80145db0c6847c81261d0e8d":[6,0,1826,0,7]
 };

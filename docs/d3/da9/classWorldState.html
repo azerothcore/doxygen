@@ -4068,7 +4068,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1778</span>        <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno"> 1779</span>            pathID = spawnLoc == 0 ? <a class="code hl_enumvalue" href="../../db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589">PATH_STORMWIND_KEEP</a> : <a class="code hl_enumvalue" href="../../db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c">PATH_STORMWIND_TRADE_DISTRICT</a>;</div>
 <div class="line"><span class="lineno"> 1780</span> </div>
-<div class="line"><span class="lineno"> 1781</span>        pallid-&gt;GetMotionMaster()-&gt;MovePath(pathID, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1781</span>        pallid-&gt;GetMotionMaster()-&gt;MoveWaypoint(pathID, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno"> 1782</span> </div>
 <div class="line"><span class="lineno"> 1783</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;SetPallidGuid(zone.<a class="code hl_variable" href="../../db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847">zoneId</a>, pallid-&gt;GetGUID());</div>
 <div class="line"><span class="lineno"> 1784</span>    }</div>
@@ -4356,7 +4356,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/da9/classWorldState.html">WorldState</a></li>
-    <li class="footer">Generated on Sun Oct 26 2025 06:23:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 27 2025 06:28:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

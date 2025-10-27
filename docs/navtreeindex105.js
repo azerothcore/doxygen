@@ -1,6 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a06176eb78877602cf07494f18376eca4":[7,0,0,0,1,3,10,10,54,5],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a0f56c937222227916f6c823dde9b2810":[7,0,0,0,1,3,10,10,54,32],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a1a24c19a60fc46aed47ce3d90a9a8cdb":[7,0,0,0,1,3,10,10,54,25],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a1d1c5e1cc3bdd5f236c84791017d9061":[7,0,0,0,1,3,10,10,54,34],
@@ -249,5 +248,6 @@ var NAVTREEINDEX105 =
 "d3/da8/classArenaTeamMgr.html#a02ea1a3dc8e4ab958039c4f9fdec714c":[6,0,197,16],
 "d3/da8/classArenaTeamMgr.html#a0b0428d66b7523b4c0674c260642685c":[6,0,197,21],
 "d3/da8/classArenaTeamMgr.html#a15b74f88c2715c9bd8baa3059284f715":[6,0,197,5],
-"d3/da8/classArenaTeamMgr.html#a1a51bca59808fd66784e6f1dd4342bff":[6,0,197,20]
+"d3/da8/classArenaTeamMgr.html#a1a51bca59808fd66784e6f1dd4342bff":[6,0,197,20],
+"d3/da8/classArenaTeamMgr.html#a289b2d6681e4dbf483f9e6bb8d4d4f97":[6,0,197,9]
 };

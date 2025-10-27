@@ -1,9 +1,5 @@
 var NAVTREEINDEX386 =
 {
-"df/d38/structnpc__ahnqiraji__critter.html#a71d3d5262bde847a18932fea89cb6648":[6,0,1576,1],
-"df/d38/structnpc__ahnqiraji__critter.html#aca1df706306f9181db26cd77e5b66452":[6,0,1576,2],
-"df/d39/boss__ouro_8cpp.html":[7,0,0,0,1,3,4,9,4],
-"df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,4,3],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35abb62aff4efebc4fcd4f4da02ca764":[7,0,0,0,1,3,4,9,4,3,3],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a43a5db19698d40a2bcdb442f73be7fcb":[7,0,0,0,1,3,4,9,4,3,4],
 "df/d39/boss__ouro_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a453ab624683f0e02a1fae1a6cfcec1db":[7,0,0,0,1,3,4,9,4,3,1],
@@ -249,5 +245,9 @@ var NAVTREEINDEX386 =
 "df/d43/namespaceOpenSSLCrypto.html":[5,0,24],
 "df/d43/namespaceOpenSSLCrypto.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[5,0,24,1],
 "df/d43/namespaceOpenSSLCrypto.html#af868d9171650614810772c5675c47fd3":[5,0,24,0],
-"df/d43/structMapDifficultyEntry.html":[6,0,1487]
+"df/d43/structMapDifficultyEntry.html":[6,0,1487],
+"df/d43/structMapDifficultyEntry.html#a32bb8c4a4defce661d108627e25b645a":[6,0,1487,0],
+"df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1487,3],
+"df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1487,4],
+"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1487,2]
 };

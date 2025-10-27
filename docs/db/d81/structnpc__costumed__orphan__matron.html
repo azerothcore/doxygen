@@ -608,7 +608,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  428</span>            <a class="code hl_function" href="../../db/d81/structnpc__costumed__orphan__matron.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533">GetInitXYZ</a>(x, y, z, o, path);</div>
 <div class="line"><span class="lineno">  429</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* cr = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d3/dec/hallows__end_8cpp.html#a230696e3ca1a62064c000f63cb1a1ed6a0c77f626408c34e22a5ad7e33b225c84">NPC_SHADE_OF_HORSEMAN</a>, x, y, z, o, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>, 10000))</div>
 <div class="line"><span class="lineno">  430</span>            {</div>
-<div class="line"><span class="lineno">  431</span>                cr-&gt;GetMotionMaster()-&gt;MovePath(path, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  431</span>                cr-&gt;GetMotionMaster()-&gt;MoveWaypoint(path, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  432</span>                cr-&gt;AI()-&gt;DoAction(path);</div>
 <div class="line"><span class="lineno">  433</span>                <a class="code hl_variable" href="../../db/d81/structnpc__costumed__orphan__matron.html#a92cfd09cefd26933ae322f2cc2716927">horseGUID</a> = cr-&gt;GetGUID();</div>
 <div class="line"><span class="lineno">  434</span>            }</div>
@@ -1040,7 +1040,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d81/structnpc__costumed__orphan__matron.html">npc_costumed_orphan_matron</a></li>
-    <li class="footer">Generated on Sun Oct 26 2025 06:22:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Oct 27 2025 06:27:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

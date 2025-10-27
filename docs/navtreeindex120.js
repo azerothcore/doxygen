@@ -1,6 +1,5 @@
 var NAVTREEINDEX120 =
 {
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a841956620dda1005c6b7d187c9985a71":[7,0,0,0,1,3,5,4,1,3,11,58],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a89ff42ca7c867d9d2f768eb9ae403204":[7,0,0,0,1,3,5,4,1,3,11,83],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a8f0530e42084399c8a568ca01ab080f1":[7,0,0,0,1,3,5,4,1,3,11,40],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a928c4af065458759700b304a6fd83a19":[7,0,0,0,1,3,5,4,1,3,11,8],
@@ -185,8 +184,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2663],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2663,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2663,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX120 =
 "d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a1a20f75d251936bff7a0777831d79140":[6,0,2681,5],
 "d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a2524bb4614fa62fb703a3d3cf0c25da0":[6,0,2681,1],
 "d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a277d9865108acafac4b1a42bc5b5714b":[6,0,2681,3],
-"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a5ffe5a8b3422382482f713ff6d8514b2":[6,0,2681,4]
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a5ffe5a8b3422382482f713ff6d8514b2":[6,0,2681,4],
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a60f41c19f5104eef82048fd1e3416abd":[6,0,2681,2]
 };
