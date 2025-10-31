@@ -14,15 +14,12 @@ var boss__krystallus_8cpp =
       [ "EVENT_REMOVE_STONED", "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e", null ]
     ] ],
     [ "spells", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2", [
-      [ "GROUND_SPIKE_H", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a4c273147e33928fee125a61eaaca7eb0", null ],
-      [ "BOULDER_TOSS", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa2ba587ec6abb998f5549b113fcb3f90", null ],
-      [ "BOULDER_TOSS_H", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aff8517cd7a971453de2f28af60e64f0c", null ],
-      [ "SHATTER", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a26505da4b98faf987b3d3c7eba819327", null ],
-      [ "SHATTER_H", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a67ddc581f50203ee16c8c1aca7deb985", null ],
-      [ "STOMP", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a981ded08b76f414fbc3de557aef11006", null ],
-      [ "STOMP_H", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a605977f6afa488fa2bd864f4c8daf451", null ],
-      [ "GROUND_SLAM", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ae71900060dd77ccbaf5957c5e8530b27", null ],
-      [ "GROUND_SLAM_STONED_EFFECT", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acfaf0511808dcbe60c9c22bce5cd8501", null ],
+      [ "SPELL_GROUND_SPIKE", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af5c6ff57b4f8cef772f5da1de76dbde8", null ],
+      [ "SPELL_BOULDER_TOSS", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872", null ],
+      [ "SPELL_SHATTER", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ad483afa5a0a6d798cf66d74f164639f0", null ],
+      [ "SPELL_STOMP", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a", null ],
+      [ "SPELL_GROUND_SLAM", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2", null ],
+      [ "SPELL_GROUND_SLAM_STONED_EFFECT", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac", null ],
       [ "SPELL_SHATTER_EFFECT", "df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10", null ]
     ] ],
     [ "Yells", "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [

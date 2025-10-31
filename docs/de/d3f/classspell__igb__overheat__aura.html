@@ -532,7 +532,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2272</span>                    <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9bafd2566c3750f91f7e6002d28af51383f">SMSG_CLIENT_CONTROL_UPDATE</a>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetPackGUID().size() + 1);</div>
 <div class="line"><span class="lineno"> 2273</span>                    data &lt;&lt; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a27858daca373d521d26feea68d1906a8">GetPackGUID</a>();</div>
 <div class="line"><span class="lineno"> 2274</span>                    data &lt;&lt; <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(value);</div>
-<div class="line"><span class="lineno"> 2275</span>                    player-&gt;GetSession()-&gt;SendPacket(&amp;data);</div>
+<div class="line"><span class="lineno"> 2275</span>                    player-&gt;SendDirectMessage(&amp;data);</div>
 <div class="line"><span class="lineno"> 2276</span>                }</div>
 <div class="line"><span class="lineno"> 2277</span>            }</div>
 <div class="line"><span class="lineno"> 2278</span>        }</div>
@@ -561,7 +561,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d3f/classspell__igb__overheat__aura.html">spell_igb_overheat_aura</a></li>
-    <li class="footer">Generated on Thu Oct 30 2025 06:24:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 31 2025 06:25:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

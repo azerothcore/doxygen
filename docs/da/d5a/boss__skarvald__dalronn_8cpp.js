@@ -17,8 +17,7 @@ var boss__skarvald__dalronn_8cpp =
       [ "SPELL_STONE_STRIKE", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a6f3775b27967d2dc8641ee9065cc4b5a", null ],
       [ "SPELL_ENRAGE", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a2a20f56307679be4d4f01a0d3d93cc7e", null ],
       [ "SPELL_SUMMON_SKARVALD_GHOST", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa9b4faed69df262faad29616d78cefc9", null ],
-      [ "SPELL_SHADOW_BOLT_N", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a0611e57f0d15e2289ad521526d7efbb8", null ],
-      [ "SPELL_SHADOW_BOLT_H", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0add02af55d4461814bd682194051aabb7", null ],
+      [ "SPELL_SHADOW_BOLT", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a8872edea8a2ac8c4e895c975482b9413", null ],
       [ "SPELL_DEBILITATE", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0affa82fa84d89f97fed2c5319ba0f8f3e", null ],
       [ "SPELL_SUMMON_SKELETONS", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa97779938ce590d156e30c0a9a98d393", null ],
       [ "SPELL_SUMMON_DALRONN_GHOST", "da/d5a/boss__skarvald__dalronn_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ab42c69a20b0e2bce04dfdba8c875d625", null ]

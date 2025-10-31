@@ -25,24 +25,11 @@ var violet__hold_8cpp =
     [ "npc_azure_saboteur::npc_azure_saboteurAI", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI" ],
     [ "spell_destroy_door_seal_aura", "d9/d63/classspell__destroy__door__seal__aura.html", "d9/d63/classspell__destroy__door__seal__aura" ],
     [ "npc_violet_hold_defense_system", "d3/d4b/structnpc__violet__hold__defense__system.html", "d3/d4b/structnpc__violet__hold__defense__system" ],
-    [ "SPELL_ARCANE_BARRAGE", "d5/d9c/violet__hold_8cpp.html#a08343cea04d45054f3c55b70c2c4f77a", null ],
-    [ "SPELL_ARCANE_BLAST", "d5/d9c/violet__hold_8cpp.html#a0ca31ef24cb5a95f61f48f20f4279c0a", null ],
-    [ "SPELL_ARCANE_EXPLOSION", "d5/d9c/violet__hold_8cpp.html#a35d4eaa51beab25c26088ce17bc80978", null ],
-    [ "SPELL_ARCANE_STREAM", "d5/d9c/violet__hold_8cpp.html#ae8d2b4f75fa540dfdc0ec7de0e0cec36", null ],
-    [ "SPELL_CONE_OF_COLD", "d5/d9c/violet__hold_8cpp.html#a2054d4d6f41a7a6d39c2f98a371388cb", null ],
-    [ "SPELL_FROST_NOVA", "d5/d9c/violet__hold_8cpp.html#a4a5a6bb4210abd20ec18915280581a9b", null ],
-    [ "SPELL_FROSTBOLT", "d5/d9c/violet__hold_8cpp.html#afb830a45e74a95efd87e442cbd431ddf", null ],
-    [ "SPELL_IMPALE", "d5/d9c/violet__hold_8cpp.html#a9443087cab90d2f3aa2fb29896da1642", null ],
-    [ "SPELL_MANA_DETONATION", "d5/d9c/violet__hold_8cpp.html#aca8325e51433f55bb09bfe9665218747", null ],
     [ "AzureBinderSpells", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0", [
-      [ "SPELL_ARCANE_BARRAGE_N", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a817e80efd6bc1b439134f38375ee6f50", null ],
-      [ "SPELL_ARCANE_BARRAGE_H", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a8719c1231c22d5e5c15df8772ceb8ac3", null ],
-      [ "SPELL_ARCANE_EXPLOSION_N", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0aaa2edc39ed8e33d1163e492a296853e5", null ],
-      [ "SPELL_ARCANE_EXPLOSION_H", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a5738906a15ad5226ac7ee0882148e4ff", null ],
-      [ "SPELL_FROST_NOVA_N", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab9b242fdf9276702d5ccb55824e4bde2", null ],
-      [ "SPELL_FROST_NOVA_H", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ade68a1579965013dc12c7c7a3deeb0cf", null ],
-      [ "SPELL_FROSTBOLT_N", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ac9b3e28286cac41102a8f2a6532e09b7", null ],
-      [ "SPELL_FROSTBOLT_H", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a16fb82c32573795b5fc20019a750c3f7", null ]
+      [ "SPELL_ARCANE_BARRAGE", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97", null ],
+      [ "SPELL_ARCANE_EXPLOSION", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_FROST_NOVA", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_FROSTBOLT", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e", null ]
     ] ],
     [ "AzureCaptainSpells", "d5/d9c/violet__hold_8cpp.html#af46bd9d15b0cae9e73316c52a10611b9", [
       [ "SPELL_MORTAL_STRIKE", "d5/d9c/violet__hold_8cpp.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110", null ],
@@ -50,8 +37,7 @@ var violet__hold_8cpp =
     ] ],
     [ "AzureInvaderSpells", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50", [
       [ "SPELL_CLEAVE", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_IMPALE_N", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50ac2fffc903d0f4c3b3f1be1aadbd476c3", null ],
-      [ "SPELL_IMPALE_H", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50abb8a1728c0043c64bb513a052db21060", null ],
+      [ "SPELL_IMPALE", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63", null ],
       [ "SPELL_BRUTAL_STRIKE", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d", null ],
       [ "SPELL_SUNDER_ARMOR", "d5/d9c/violet__hold_8cpp.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb", null ]
     ] ],
@@ -69,18 +55,14 @@ var violet__hold_8cpp =
       [ "SPELL_TELEPORT_VISUAL", "d5/d9c/violet__hold_8cpp.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c", null ]
     ] ],
     [ "AzureSorcerorSpells", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096", [
-      [ "SPELL_ARCANE_STREAM_N", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096aef6845fcc1e34265bd9e29b8ac5ac55b", null ],
-      [ "SPELL_ARCANE_STREAM_H", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096a5ce3d4005bb6b14ac1730ecce72317ec", null ],
-      [ "SPELL_MANA_DETONATION_N", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096ab258c3e0c990627c82659e20a9767eba", null ],
-      [ "SPELL_MANA_DETONATION_H", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096a5bffff89761d1f2a5b505da7051e2fc3", null ]
+      [ "SPELL_ARCANE_STREAM", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7", null ],
+      [ "SPELL_MANA_DETONATION", "d5/d9c/violet__hold_8cpp.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85", null ]
     ] ],
     [ "AzureSpellbreakerSpells", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2", [
-      [ "SPELL_ARCANE_BLAST_N", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a7984680e27d9ef1ecabd3218ff0e9b7a", null ],
-      [ "SPELL_ARCANE_BLAST_H", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a1a3fe7b90ca5735313ae904ed018c230", null ],
+      [ "SPELL_ARCANE_BLAST", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803", null ],
       [ "SPELL_SLOW", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c", null ],
       [ "SPELL_CHAINS_OF_ICE", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455", null ],
-      [ "SPELL_CONE_OF_COLD_N", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2adce41c91fcf7c926a0ed4280fadaaf71", null ],
-      [ "SPELL_CONE_OF_COLD_H", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2a6a70f36e094cc42cc0757040b673ef04", null ]
+      [ "SPELL_CONE_OF_COLD", "d5/d9c/violet__hold_8cpp.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b", null ]
     ] ],
     [ "AzureStalkerSpells", "d5/d9c/violet__hold_8cpp.html#a79fc2957bc9c07cbe31064cd981b5663", [
       [ "SPELL_BACKSTAB", "d5/d9c/violet__hold_8cpp.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68", null ],

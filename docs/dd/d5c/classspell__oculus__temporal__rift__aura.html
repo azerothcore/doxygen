@@ -334,28 +334,28 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  611</span>    {</div>
-<div class="line"><span class="lineno">  612</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  613</span> </div>
-<div class="line"><span class="lineno">  614</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
-<div class="line"><span class="lineno">  615</span> </div>
-<div class="line"><span class="lineno">  616</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
-<div class="line"><span class="lineno">  617</span>        {</div>
-<div class="line"><span class="lineno">  618</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  619</span>        }</div>
-<div class="line"><span class="lineno">  620</span> </div>
-<div class="line"><span class="lineno">  621</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> amount = aurEff-&gt;GetAmount() + damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>();</div>
-<div class="line"><span class="lineno">  622</span> </div>
-<div class="line"><span class="lineno">  623</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> num = amount / 15000;</div>
-<div class="line"><span class="lineno">  624</span>        <span class="keywordflow">if</span> (amount &gt;= 15000)</div>
-<div class="line"><span class="lineno">  625</span>        {</div>
-<div class="line"><span class="lineno">  626</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  627</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i  = 0; i &lt; num; ++i )</div>
-<div class="line"><span class="lineno">  628</span>                    caster-&gt;CastSpell(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af">SPELL_AMBER_SHOCK_CHARGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  629</span>        }</div>
-<div class="line"><span class="lineno">  630</span> </div>
-<div class="line"><span class="lineno">  631</span>        <span class="keyword">const_cast&lt;</span><a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>*<span class="keyword">&gt;</span>(aurEff)-&gt;SetAmount(amount - 15000 * num);</div>
-<div class="line"><span class="lineno">  632</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  610</span>    {</div>
+<div class="line"><span class="lineno">  611</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  612</span> </div>
+<div class="line"><span class="lineno">  613</span>        <a class="code hl_class" href="../../d2/d2d/classDamageInfo.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
+<div class="line"><span class="lineno">  614</span> </div>
+<div class="line"><span class="lineno">  615</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
+<div class="line"><span class="lineno">  616</span>        {</div>
+<div class="line"><span class="lineno">  617</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  618</span>        }</div>
+<div class="line"><span class="lineno">  619</span> </div>
+<div class="line"><span class="lineno">  620</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> amount = aurEff-&gt;GetAmount() + damageInfo-&gt;<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>();</div>
+<div class="line"><span class="lineno">  621</span> </div>
+<div class="line"><span class="lineno">  622</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> num = amount / 15000;</div>
+<div class="line"><span class="lineno">  623</span>        <span class="keywordflow">if</span> (amount &gt;= 15000)</div>
+<div class="line"><span class="lineno">  624</span>        {</div>
+<div class="line"><span class="lineno">  625</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  626</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i  = 0; i &lt; num; ++i )</div>
+<div class="line"><span class="lineno">  627</span>                    caster-&gt;CastSpell(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af">SPELL_AMBER_SHOCK_CHARGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  628</span>        }</div>
+<div class="line"><span class="lineno">  629</span> </div>
+<div class="line"><span class="lineno">  630</span>        <span class="keyword">const_cast&lt;</span><a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>*<span class="keyword">&gt;</span>(aurEff)-&gt;SetAmount(amount - 15000 * num);</div>
+<div class="line"><span class="lineno">  631</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
@@ -366,11 +366,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassDamageInfo_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition</b> Unit.h:366</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_ad2eb8dffb2a2b91b02ca1b56861c7221"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">ProcEventInfo::GetDamageInfo</a></div><div class="ttdeci">DamageInfo * GetDamageInfo() const</div><div class="ttdef"><b>Definition</b> Unit.h:451</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
-<div class="ttc" id="aoculus_8cpp_html_a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af"><div class="ttname"><a href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af">SPELL_AMBER_SHOCK_CHARGE</a></div><div class="ttdeci">@ SPELL_AMBER_SHOCK_CHARGE</div><div class="ttdef"><b>Definition</b> oculus.cpp:43</div></div>
+<div class="ttc" id="aoculus_8cpp_html_a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af"><div class="ttname"><a href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af">SPELL_AMBER_SHOCK_CHARGE</a></div><div class="ttdeci">@ SPELL_AMBER_SHOCK_CHARGE</div><div class="ttdef"><b>Definition</b> oculus.cpp:42</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00366">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00451">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00043">SPELL_AMBER_SHOCK_CHARGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00366">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00451">ProcEventInfo::GetDamageInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00042">SPELL_AMBER_SHOCK_CHARGE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00634">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00633">Register()</a>.</p>
 
 </div>
 </div>
@@ -424,16 +424,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  635</span>    {</div>
-<div class="line"><span class="lineno">  636</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d5c/classspell__oculus__temporal__rift__aura.html#a84255cd31ebaa7c70de93d569258c709">spell_oculus_temporal_rift_aura::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
-<div class="line"><span class="lineno">  637</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  634</span>    {</div>
+<div class="line"><span class="lineno">  635</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d5c/classspell__oculus__temporal__rift__aura.html#a84255cd31ebaa7c70de93d569258c709">spell_oculus_temporal_rift_aura::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
+<div class="line"><span class="lineno">  636</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:847</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:842</div></div>
-<div class="ttc" id="aclassspell__oculus__temporal__rift__aura_html_a84255cd31ebaa7c70de93d569258c709"><div class="ttname"><a href="../../dd/d5c/classspell__oculus__temporal__rift__aura.html#a84255cd31ebaa7c70de93d569258c709">spell_oculus_temporal_rift_aura::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> oculus.cpp:610</div></div>
+<div class="ttc" id="aclassspell__oculus__temporal__rift__aura_html_a84255cd31ebaa7c70de93d569258c709"><div class="ttname"><a href="../../dd/d5c/classspell__oculus__temporal__rift__aura.html#a84255cd31ebaa7c70de93d569258c709">spell_oculus_temporal_rift_aura::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> oculus.cpp:609</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00610">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00847">AuraEffectProcFn</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00609">HandleProc()</a>, <a class="el" href="../../#l00842">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -462,12 +462,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  606</span>    {</div>
-<div class="line"><span class="lineno">  607</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af">SPELL_AMBER_SHOCK_CHARGE</a> });</div>
-<div class="line"><span class="lineno">  608</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  605</span>    {</div>
+<div class="line"><span class="lineno">  606</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af">SPELL_AMBER_SHOCK_CHARGE</a> });</div>
+<div class="line"><span class="lineno">  607</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00043">SPELL_AMBER_SHOCK_CHARGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">SPELL_AMBER_SHOCK_CHARGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -480,7 +480,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d5c/classspell__oculus__temporal__rift__aura.html">spell_oculus_temporal_rift_aura</a></li>
-    <li class="footer">Generated on Thu Oct 30 2025 06:25:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 31 2025 06:25:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -6,7 +6,6 @@ var eye__of__eternity_8h =
     [ "EyeOfEternityScriptName", "db/d95/eye__of__eternity_8h.html#a7ce256d13936cff51c83835c5e3329f9", null ],
     [ "HEART_OF_MAGIC", "db/d95/eye__of__eternity_8h.html#af59d6ded8cc013d2fbafa76cc1ff948a", null ],
     [ "INTRO_MOVEMENT_INTERVAL", "db/d95/eye__of__eternity_8h.html#a914791b23da531680a3fa365d19e7919", null ],
-    [ "SPELL_ARCANE_SHOCK", "db/d95/eye__of__eternity_8h.html#a559a0cc5cb3300bc0fc829fb770893fd", null ],
     [ "Data", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "DATA_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
       [ "DATA_ENCOUNTER_STATUS", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a06e771c0d2e0da47d4fd955db056b0c4", null ],
@@ -29,8 +28,7 @@ var eye__of__eternity_8h =
       [ "SPELL_POWER_SPARK_MALYGOS_BUFF", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a48787e059e2c7eaa921649d1cecede8a", null ],
       [ "SPELL_TELEPORT_VISUAL", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
       [ "SPELL_SCION_ARCANE_BARRAGE", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aaacf75e9731cc683534e0dda23d58961", null ],
-      [ "SPELL_ARCANE_SHOCK_N", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a940ffb1f56d38701b29fa349f8ec2aaa", null ],
-      [ "SPELL_ARCANE_SHOCK_H", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad58b09d39a840f6039e8c5b1b186f24a", null ],
+      [ "SPELL_ARCANE_SHOCK", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a70217cff0adeb1a0499b1651a82f03ef", null ],
       [ "SPELL_HASTE", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
       [ "SPELL_ALEXSTRASZA_GIFT", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ]
     ] ],

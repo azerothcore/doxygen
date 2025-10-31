@@ -4,7 +4,6 @@ var boss__keleseth_8cpp =
     [ "boss_keleseth", "d0/d94/structboss__keleseth.html", "d0/d94/structboss__keleseth" ],
     [ "npc_vrykul_skeleton", "d3/d82/structnpc__vrykul__skeleton.html", "d3/d82/structnpc__vrykul__skeleton" ],
     [ "spell_frost_tomb_aura", "de/d92/classspell__frost__tomb__aura.html", "de/d92/classspell__frost__tomb__aura" ],
-    [ "SPELL_SHADOWBOLT", "d4/d4f/boss__keleseth_8cpp.html#a2318d1791fdeb5d6835fba5923a390f6", null ],
     [ "eNPCs", "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911", [
       [ "NPC_FROST_TOMB", "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
       [ "NPC_SKELETON", "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
@@ -22,8 +21,7 @@ var boss__keleseth_8cpp =
       [ "SPELL_FROST_TOMB", "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a14901aca6a5c93054b9813a40396f3f6", null ],
       [ "SPELL_FROST_TOMB_SUMMON", "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa467eec31320e37f6518124c6a8ca057", null ],
       [ "SPELL_FROST_TOMB_AURA", "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a757868526e4eb22665b8fe3ef27ba0d7", null ],
-      [ "SPELL_SHADOWBOLT_N", "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a299cb7ae10528e3ea6d21e516a67a9cd", null ],
-      [ "SPELL_SHADOWBOLT_H", "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa50b2eae5a53f68a58726407ae5456a4", null ]
+      [ "SPELL_SHADOWBOLT", "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7d3e13f7a79db8c5b11aa3b77add6883", null ]
     ] ],
     [ "eTexts", "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5d", [
       [ "SAY_START_COMBAT", "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da913b7d8153db9f52e555fd5207363876", null ],

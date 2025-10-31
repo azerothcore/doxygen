@@ -47,11 +47,8 @@ var boss__jedoga__shadowseeker_8cpp =
       [ "SPELL_BEAM_VISUAL_JEDOGA", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a3079523ea236d2e2fc4ae8471d0de6", null ],
       [ "SPELL_GIFT_OF_THE_HERALD", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298cacf82e98dce778d7b6562f049fc6dc889", null ],
       [ "SPELL_CYCLONE_STRIKE", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298cac87abe82c864d566f96699b159d18846", null ],
-      [ "SPELL_CYCLONE_STRIKE_H", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298ca96fdf763f4e53fb1c5a5696c5ec4e350", null ],
       [ "SPELL_LIGHTNING_BOLT", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298ca920803a7ad734282762d93767b701526", null ],
-      [ "SPELL_LIGHTNING_BOLT_H", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298cac9c49244d338a8b8f06ab965d6e8c489", null ],
-      [ "SPELL_THUNDERSHOCK", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298cae7a4600115ea581758eef6911a363c40", null ],
-      [ "SPELL_THUNDERSHOCK_H", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298ca0988b140e21ddce8b3953609f2a39f1d", null ]
+      [ "SPELL_THUNDERSHOCK", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a5bd342133be8c2137b831460acc9298cae7a4600115ea581758eef6911a363c40", null ]
     ] ],
     [ "SummonGroups", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81e", [
       [ "SUMMON_GROUP_OOC", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81eaa7cbe16694ec31dd73b22b351ad637b5", null ],

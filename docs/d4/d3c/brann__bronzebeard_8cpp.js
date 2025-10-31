@@ -51,22 +51,16 @@ var brann__bronzebeard_8cpp =
     ] ],
     [ "Misc", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "SPELL_GLARE_OF_THE_TRIBUNAL", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98ca5f86f60983975da7b380a51fab06", null ],
-      [ "SPELL_GLARE_OF_THE_TRIBUNAL_H", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afd12fbc6a0967b99627bfe016cf02922", null ],
       [ "SPELL_DARK_MATTER_VISUAL", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae556c683c5dc1984fd4a873c172e74f1", null ],
       [ "SPELL_DARK_MATTER_VISUAL_CHANNEL", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a760280be3f540c227e26d34756ef35", null ],
       [ "SPELL_DARK_MATTER", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a499b41edf9950331bd113593a13de1a4", null ],
-      [ "SPELL_DARK_MATTER_H", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a80b9b8192c0207d8de10c3383448d0a1", null ],
       [ "SPELL_SEARING_GAZE", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04d1058c4758a85da757fd74bf51501c", null ],
-      [ "SPELL_SEARING_GAZE_H", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aae7f8c80319d041f8769f28d68f05667", null ],
       [ "SPELL_DRP_CHARGE", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2772ec2788a6d484b2175a8fd38e815e", null ],
       [ "SPELL_DRP_CLEAVE", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a580fe1017f2f5d87d86c7702010bc1bf", null ],
       [ "SPELL_DRS_LIGHTING_BOLT", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a807d13077cd76dab244a5a65c929375a", null ],
-      [ "SPELL_DRS_LIGHTING_BOLT_H", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4cffff64d04690d6b535612b4a51d73a", null ],
       [ "SPELL_DRS_SHADOW_WORD_PAIN", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a506930939d015ebfed3985ad5c9933e2", null ],
-      [ "SPELL_DRS_SHADOW_WORD_PAIN_H", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5033b48d4c229aa7692482b45a1b6cbf", null ],
       [ "SPELL_IGC_CRUSH_ARMOR", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae", null ],
       [ "SPELL_IGC_GROUND_SMASH", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80", null ],
-      [ "SPELL_IGC_GROUND_SMASH_H", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad134a3a8adb0fcce809659e730fc1fd1", null ],
       [ "QUEST_HALLS_OF_STONE", "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f4d823dced8973dbb7061fdbdb76b52", null ]
     ] ],
     [ "NPCs", "d4/d3c/brann__bronzebeard_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [

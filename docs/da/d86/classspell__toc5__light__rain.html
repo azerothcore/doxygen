@@ -314,24 +314,24 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  766</span>    {</div>
-<div class="line"><span class="lineno">  767</span>        <span class="keywordflow">for</span>( std::list&lt;WorldObject*&gt;::iterator itr = targets.begin(); itr != targets.end(); )</div>
-<div class="line"><span class="lineno">  768</span>        {</div>
-<div class="line"><span class="lineno">  769</span>            <span class="keywordflow">if</span> ((*itr)-&gt;IsCreature())</div>
-<div class="line"><span class="lineno">  770</span>                <span class="keywordflow">if</span> ((*itr)-&gt;ToCreature()-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810">NPC_FOUNTAIN_OF_LIGHT</a>)</div>
-<div class="line"><span class="lineno">  771</span>                {</div>
-<div class="line"><span class="lineno">  772</span>                    targets.erase(itr);</div>
-<div class="line"><span class="lineno">  773</span>                    itr = targets.begin();</div>
-<div class="line"><span class="lineno">  774</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  775</span>                }</div>
-<div class="line"><span class="lineno">  776</span>            ++itr;</div>
-<div class="line"><span class="lineno">  777</span>        }</div>
-<div class="line"><span class="lineno">  778</span>    }</div>
-<div class="ttc" id="aboss__argent__challenge_8cpp_html_a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810"><div class="ttname"><a href="../../d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810">NPC_FOUNTAIN_OF_LIGHT</a></div><div class="ttdeci">@ NPC_FOUNTAIN_OF_LIGHT</div><div class="ttdef"><b>Definition</b> boss_argent_challenge.cpp:487</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  746</span>    {</div>
+<div class="line"><span class="lineno">  747</span>        <span class="keywordflow">for</span>( std::list&lt;WorldObject*&gt;::iterator itr = targets.begin(); itr != targets.end(); )</div>
+<div class="line"><span class="lineno">  748</span>        {</div>
+<div class="line"><span class="lineno">  749</span>            <span class="keywordflow">if</span> ((*itr)-&gt;IsCreature())</div>
+<div class="line"><span class="lineno">  750</span>                <span class="keywordflow">if</span> ((*itr)-&gt;ToCreature()-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810">NPC_FOUNTAIN_OF_LIGHT</a>)</div>
+<div class="line"><span class="lineno">  751</span>                {</div>
+<div class="line"><span class="lineno">  752</span>                    targets.erase(itr);</div>
+<div class="line"><span class="lineno">  753</span>                    itr = targets.begin();</div>
+<div class="line"><span class="lineno">  754</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  755</span>                }</div>
+<div class="line"><span class="lineno">  756</span>            ++itr;</div>
+<div class="line"><span class="lineno">  757</span>        }</div>
+<div class="line"><span class="lineno">  758</span>    }</div>
+<div class="ttc" id="aboss__argent__challenge_8cpp_html_a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810"><div class="ttname"><a href="../../d5/dbb/boss__argent__challenge_8cpp.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810">NPC_FOUNTAIN_OF_LIGHT</a></div><div class="ttdeci">@ NPC_FOUNTAIN_OF_LIGHT</div><div class="ttdef"><b>Definition</b> boss_argent_challenge.cpp:473</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00487">NPC_FOUNTAIN_OF_LIGHT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00473">NPC_FOUNTAIN_OF_LIGHT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00780">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00760">Register()</a>.</p>
 
 </div>
 </div>
@@ -385,16 +385,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  781</span>    {</div>
-<div class="line"><span class="lineno">  782</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3">spell_toc5_light_rain::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a>);</div>
-<div class="line"><span class="lineno">  783</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  761</span>    {</div>
+<div class="line"><span class="lineno">  762</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3">spell_toc5_light_rain::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a>);</div>
+<div class="line"><span class="lineno">  763</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a5636479f4e747c35d6eab829ac5ba6c1">TARGET_UNIT_SRC_AREA_ALLY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ALLY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1445</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__toc5__light__rain_html_a40c4d2b624fe87e21263d1b137994cc3"><div class="ttname"><a href="../../da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3">spell_toc5_light_rain::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_argent_challenge.cpp:765</div></div>
+<div class="ttc" id="aclassspell__toc5__light__rain_html_a40c4d2b624fe87e21263d1b137994cc3"><div class="ttname"><a href="../../da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3">spell_toc5_light_rain::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_argent_challenge.cpp:745</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00765">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01445">TARGET_UNIT_SRC_AREA_ALLY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00745">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01445">TARGET_UNIT_SRC_AREA_ALLY</a>.</p>
 
 </div>
 </div>
@@ -407,7 +407,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d86/classspell__toc5__light__rain.html">spell_toc5_light_rain</a></li>
-    <li class="footer">Generated on Thu Oct 30 2025 06:25:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 31 2025 06:25:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

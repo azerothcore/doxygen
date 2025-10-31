@@ -1985,7 +1985,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  375</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d45/classLinkedListHead_1_1Iterator.html">Map::PlayerList::const_iterator</a> itr = players.<a class="code hl_function" href="../../d4/dbe/classMapRefMgr.html#a6774b551f0d64628e33594c7b486a872">begin</a>(); itr != players.<a class="code hl_function" href="../../d4/dbe/classMapRefMgr.html#af488c0096775085791b5fbc89e5851a0">end</a>(); ++itr)</div>
 <div class="line"><span class="lineno">  376</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = itr-&gt;GetSource())</div>
 <div class="line"><span class="lineno">  377</span>                <span class="keywordflow">if</span> (player-&gt;GetAreaId() == <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7081e9fbce528474f7530670818b8d4b">AREA_THE_FROZEN_THRONE</a>)</div>
-<div class="line"><span class="lineno">  378</span>                    player-&gt;GetSession()-&gt;SendPacket(data);</div>
+<div class="line"><span class="lineno">  378</span>                    player-&gt;SendDirectMessage(data);</div>
 <div class="line"><span class="lineno">  379</span>}</div>
 <div class="ttc" id="aAreaDefines_8h_html_ad26fccabf338d55f9fdcce090c8a0aa3a7081e9fbce528474f7530670818b8d4b"><div class="ttname"><a href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7081e9fbce528474f7530670818b8d4b">AREA_THE_FROZEN_THRONE</a></div><div class="ttdeci">@ AREA_THE_FROZEN_THRONE</div><div class="ttdef"><b>Definition</b> AreaDefines.h:175</div></div>
 <div class="ttc" id="aclassLinkedListHead_1_1Iterator_html"><div class="ttname"><a href="../../d0/d45/classLinkedListHead_1_1Iterator.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition</b> LinkedList.h:139</div></div>
@@ -2178,7 +2178,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_49de9ff38e0063bf9846434b8d63cf58.html">IcecrownCitadel</a></li><li class="navelem"><a class="el" href="../../da/d78/boss__the__lich__king_8cpp.html">boss_the_lich_king.cpp</a></li>
-    <li class="footer">Generated on Thu Oct 30 2025 06:23:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 31 2025 06:24:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

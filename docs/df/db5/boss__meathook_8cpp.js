@@ -8,10 +8,8 @@ var boss__meathook_8cpp =
       [ "EVENT_SPELL_FRENZY", "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8", null ]
     ] ],
     [ "Spells", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_CONSTRICTING_CHAINS_N", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c129b60b4b52a474c5617f275a3b094", null ],
-      [ "SPELL_CONSTRICTING_CHAINS_H", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cac026a6bcccca19503220edadf9eaacbd", null ],
-      [ "SPELL_DISEASE_EXPULSION_N", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cac964f06db15d805c88842deec5f2c0a0", null ],
-      [ "SPELL_DISEASE_EXPULSION_H", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca84be6ed368c53a45a93ac053097aad60", null ],
+      [ "SPELL_CONSTRICTING_CHAINS", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671", null ],
+      [ "SPELL_DISEASE_EXPULSION", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61", null ],
       [ "SPELL_FRENZY", "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ]
     ] ],
     [ "Yells", "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [

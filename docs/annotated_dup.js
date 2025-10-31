@@ -3153,6 +3153,8 @@ var annotated_dup =
     [ "spell_barreled_control_aura", "db/d58/classspell__barreled__control__aura.html", "db/d58/classspell__barreled__control__aura" ],
     [ "spell_batrider_bomb", "d9/dc9/classspell__batrider__bomb.html", "d9/dc9/classspell__batrider__bomb" ],
     [ "spell_bh_cleanse_quel_delar", "d5/dcd/classspell__bh__cleanse__quel__delar.html", "d5/dcd/classspell__bh__cleanse__quel__delar" ],
+    [ "spell_black_knight_ghoul_claw", "d6/d8b/classspell__black__knight__ghoul__claw.html", "d6/d8b/classspell__black__knight__ghoul__claw" ],
+    [ "spell_black_knight_ghoul_explode", "dd/dac/classspell__black__knight__ghoul__explode.html", "dd/dac/classspell__black__knight__ghoul__explode" ],
     [ "spell_black_morass_corrupt_medivh", "d7/dce/classspell__black__morass__corrupt__medivh.html", "d7/dce/classspell__black__morass__corrupt__medivh" ],
     [ "spell_black_template_free_friend", "de/db2/classspell__black__template__free__friend.html", "de/db2/classspell__black__template__free__friend" ],
     [ "spell_black_template_harpooners_mark_aura", "da/dae/classspell__black__template__harpooners__mark__aura.html", "da/dae/classspell__black__template__harpooners__mark__aura" ],

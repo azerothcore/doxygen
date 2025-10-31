@@ -2783,16 +2783,16 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1141</span>            <a class="code hl_function" href="../../df/da7/classBattleground.html#abc79e32b9a174a873ab93da3ae871cc0">GetBGObject</a>(<a class="code hl_enumvalue" href="../../d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5">BG_SA_BOAT_TWO</a>)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aec7f6a30d16673ee2c768b13f9e815a5">BuildCreateUpdateBlockForPlayer</a>(&amp;transData, player);</div>
 <div class="line"><span class="lineno"> 1142</span>        <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> packet;</div>
 <div class="line"><span class="lineno"> 1143</span>        transData.<a class="code hl_function" href="../../d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a>(packet);</div>
-<div class="line"><span class="lineno"> 1144</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;packet);</div>
+<div class="line"><span class="lineno"> 1144</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(&amp;packet);</div>
 <div class="line"><span class="lineno"> 1145</span>    }</div>
 <div class="line"><span class="lineno"> 1146</span>}</div>
 <div class="ttc" id="aclassObject_html_aec7f6a30d16673ee2c768b13f9e815a5"><div class="ttname"><a href="../../d8/d4b/classObject.html#aec7f6a30d16673ee2c768b13f9e815a5">Object::BuildCreateUpdateBlockForPlayer</a></div><div class="ttdeci">virtual void BuildCreateUpdateBlockForPlayer(UpdateData *data, Player *target)</div><div class="ttdef"><b>Definition</b> Object.cpp:178</div></div>
+<div class="ttc" id="aclassPlayer_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition</b> Player.cpp:5710</div></div>
 <div class="ttc" id="aclassUpdateData_html"><div class="ttname"><a href="../../d0/d57/classUpdateData.html">UpdateData</a></div><div class="ttdef"><b>Definition</b> UpdateData.h:52</div></div>
 <div class="ttc" id="aclassUpdateData_html_a3bea592b01b6c9e41b863c26fd602d45"><div class="ttname"><a href="../../d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45">UpdateData::BuildPacket</a></div><div class="ttdeci">bool BuildPacket(WorldPacket &amp;packet)</div><div class="ttdef"><b>Definition</b> UpdateData.cpp:48</div></div>
 <div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
-<div class="ttc" id="aclassWorldSession_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition</b> WorldSession.cpp:252</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00168">BG_SA_BOAT_ONE</a>, <a class="el" href="../../#l00169">BG_SA_BOAT_TWO</a>, <a class="el" href="../../#l00540">Battleground::BgObjects</a>, <a class="el" href="../../#l00178">Object::BuildCreateUpdateBlockForPlayer()</a>, <a class="el" href="../../#l00048">UpdateData::BuildPacket()</a>, <a class="el" href="../../#l01538">Battleground::GetBGObject()</a>, <a class="el" href="../../#l01998">Player::GetSession()</a>, and <a class="el" href="../../#l00252">WorldSession::SendPacket()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00168">BG_SA_BOAT_ONE</a>, <a class="el" href="../../#l00169">BG_SA_BOAT_TWO</a>, <a class="el" href="../../#l00540">Battleground::BgObjects</a>, <a class="el" href="../../#l00178">Object::BuildCreateUpdateBlockForPlayer()</a>, <a class="el" href="../../#l00048">UpdateData::BuildPacket()</a>, <a class="el" href="../../#l01538">Battleground::GetBGObject()</a>, and <a class="el" href="../../#l05710">Player::SendDirectMessage()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00512">AddPlayer()</a>, and <a class="el" href="../../#l00095">ResetObjs()</a>.</p>
 
@@ -2833,12 +2833,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1156</span>            <a class="code hl_function" href="../../df/da7/classBattleground.html#abc79e32b9a174a873ab93da3ae871cc0">GetBGObject</a>(<a class="code hl_enumvalue" href="../../d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5">BG_SA_BOAT_TWO</a>)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad591516e39981b3684a9274ce6152f3d">BuildOutOfRangeUpdateBlock</a>(&amp;transData);</div>
 <div class="line"><span class="lineno"> 1157</span>        <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> packet;</div>
 <div class="line"><span class="lineno"> 1158</span>        transData.<a class="code hl_function" href="../../d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a>(packet);</div>
-<div class="line"><span class="lineno"> 1159</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;packet);</div>
+<div class="line"><span class="lineno"> 1159</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(&amp;packet);</div>
 <div class="line"><span class="lineno"> 1160</span>    }</div>
 <div class="line"><span class="lineno"> 1161</span>}</div>
 <div class="ttc" id="aclassObject_html_ad591516e39981b3684a9274ce6152f3d"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad591516e39981b3684a9274ce6152f3d">Object::BuildOutOfRangeUpdateBlock</a></div><div class="ttdeci">void BuildOutOfRangeUpdateBlock(UpdateData *data) const</div><div class="ttdef"><b>Definition</b> Object.cpp:258</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00168">BG_SA_BOAT_ONE</a>, <a class="el" href="../../#l00169">BG_SA_BOAT_TWO</a>, <a class="el" href="../../#l00540">Battleground::BgObjects</a>, <a class="el" href="../../#l00258">Object::BuildOutOfRangeUpdateBlock()</a>, <a class="el" href="../../#l00048">UpdateData::BuildPacket()</a>, <a class="el" href="../../#l01538">Battleground::GetBGObject()</a>, <a class="el" href="../../#l01998">Player::GetSession()</a>, and <a class="el" href="../../#l00252">WorldSession::SendPacket()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00168">BG_SA_BOAT_ONE</a>, <a class="el" href="../../#l00169">BG_SA_BOAT_TWO</a>, <a class="el" href="../../#l00540">Battleground::BgObjects</a>, <a class="el" href="../../#l00258">Object::BuildOutOfRangeUpdateBlock()</a>, <a class="el" href="../../#l00048">UpdateData::BuildPacket()</a>, <a class="el" href="../../#l01538">Battleground::GetBGObject()</a>, and <a class="el" href="../../#l05710">Player::SendDirectMessage()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00095">ResetObjs()</a>.</p>
 
@@ -2977,7 +2977,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  307</span>            <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> pkt;</div>
 <div class="line"><span class="lineno">  308</span>            <a class="code hl_function" href="../../df/da7/classBattleground.html#abc79e32b9a174a873ab93da3ae871cc0">GetBGObject</a>(i)-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1938ffb46fe5a170588fa3ba7784b85c">BuildValuesUpdateBlockForPlayer</a>(&amp;data, itr-&gt;second);</div>
 <div class="line"><span class="lineno">  309</span>            data.<a class="code hl_function" href="../../d0/d57/classUpdateData.html#a3bea592b01b6c9e41b863c26fd602d45">BuildPacket</a>(pkt);</div>
-<div class="line"><span class="lineno">  310</span>            itr-&gt;second-&gt;GetSession()-&gt;SendPacket(&amp;pkt);</div>
+<div class="line"><span class="lineno">  310</span>            itr-&gt;second-&gt;SendDirectMessage(&amp;pkt);</div>
 <div class="line"><span class="lineno">  311</span>        }</div>
 <div class="line"><span class="lineno">  312</span>    }</div>
 <div class="line"><span class="lineno">  313</span>    <a class="code hl_variable" href="../../d4/d3e/classBattlegroundSA.html#ab1aea69f1656f11d85dde0540a4a0aba">ShipsStarted</a> = <span class="keyword">true</span>;</div>
@@ -3702,7 +3702,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d3e/classBattlegroundSA.html">BattlegroundSA</a></li>
-    <li class="footer">Generated on Thu Oct 30 2025 06:24:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 31 2025 06:24:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

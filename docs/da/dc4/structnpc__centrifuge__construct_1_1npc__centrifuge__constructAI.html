@@ -561,7 +561,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  487</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) {}</div>
+<div class="fragment"><div class="line"><span class="lineno">  486</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) {}</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -617,14 +617,14 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a> also </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aca924c2f1f249c2dcffaaea0fa35cd91">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  505</span>        {</div>
-<div class="line"><span class="lineno">  506</span>            <span class="keywordflow">if</span> (attacker)</div>
-<div class="line"><span class="lineno">  507</span>            {</div>
-<div class="line"><span class="lineno">  508</span>                <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* player = attacker-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3e41c41854a54e38fbdff48ed8ce5062">GetCharmer</a>();</div>
-<div class="line"><span class="lineno">  509</span>                <span class="keywordflow">if</span> (player &amp;&amp; !player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
-<div class="line"><span class="lineno">  510</span>                    player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a54907b68eb5bc6bbbe5121ac4c5223bf">SetInCombatWith</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  511</span>            }</div>
-<div class="line"><span class="lineno">  512</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  504</span>        {</div>
+<div class="line"><span class="lineno">  505</span>            <span class="keywordflow">if</span> (attacker)</div>
+<div class="line"><span class="lineno">  506</span>            {</div>
+<div class="line"><span class="lineno">  507</span>                <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* player = attacker-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a3e41c41854a54e38fbdff48ed8ce5062">GetCharmer</a>();</div>
+<div class="line"><span class="lineno">  508</span>                <span class="keywordflow">if</span> (player &amp;&amp; !player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">IsInCombat</a>())</div>
+<div class="line"><span class="lineno">  509</span>                    player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a54907b68eb5bc6bbbe5121ac4c5223bf">SetInCombatWith</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  510</span>            }</div>
+<div class="line"><span class="lineno">  511</span>        }</div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
 <div class="ttc" id="aclassUnit_html_a3e41c41854a54e38fbdff48ed8ce5062"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3e41c41854a54e38fbdff48ed8ce5062">Unit::GetCharmer</a></div><div class="ttdeci">Unit * GetCharmer() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:10684</div></div>
 <div class="ttc" id="aclassUnit_html_a54907b68eb5bc6bbbe5121ac4c5223bf"><div class="ttname"><a href="../../df/dd9/classUnit.html#a54907b68eb5bc6bbbe5121ac4c5223bf">Unit::SetInCombatWith</a></div><div class="ttdeci">void SetInCombatWith(Unit *enemy, uint32 duration=0)</div><div class="ttdef"><b>Definition</b> Unit.cpp:13658</div></div>
@@ -662,15 +662,13 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  492</span>        {</div>
-<div class="line"><span class="lineno">  493</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(<a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">IsHeroic</a>() ? <a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a8c56d719b2588fbebc24ce1560ff0cab">H_SPELL_EMPOWERING_BLOWS</a> : <a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75">SPELL_EMPOWERING_BLOWS</a>);</div>
-<div class="line"><span class="lineno">  494</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  491</span>        {</div>
+<div class="line"><span class="lineno">  492</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(<a class="code hl_enumvalue" href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75">SPELL_EMPOWERING_BLOWS</a>);</div>
+<div class="line"><span class="lineno">  493</span>        }</div>
 <div class="ttc" id="aclassUnitAI_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:177</div></div>
 <div class="ttc" id="aoculus_8cpp_html_a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75"><div class="ttname"><a href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75">SPELL_EMPOWERING_BLOWS</a></div><div class="ttdeci">@ SPELL_EMPOWERING_BLOWS</div><div class="ttdef"><b>Definition</b> oculus.cpp:40</div></div>
-<div class="ttc" id="aoculus_8cpp_html_a222a3a69cee0aa1d09375ffa8e2ab528a8c56d719b2588fbebc24ce1560ff0cab"><div class="ttname"><a href="../../d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a8c56d719b2588fbebc24ce1560ff0cab">H_SPELL_EMPOWERING_BLOWS</a></div><div class="ttdeci">@ H_SPELL_EMPOWERING_BLOWS</div><div class="ttdef"><b>Definition</b> oculus.cpp:41</div></div>
-<div class="ttc" id="astructScriptedAI_html_a14abf83c60abf99df6186e0247ce20bd"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">ScriptedAI::IsHeroic</a></div><div class="ttdeci">bool IsHeroic() const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:379</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00041">H_SPELL_EMPOWERING_BLOWS</a>, <a class="el" href="../../#l00379">ScriptedAI::IsHeroic()</a>, and <a class="el" href="../../#l00040">SPELL_EMPOWERING_BLOWS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, and <a class="el" href="../../#l00040">SPELL_EMPOWERING_BLOWS</a>.</p>
 
 </div>
 </div>
@@ -698,7 +696,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  489</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  488</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -729,12 +727,12 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../da/dc4/structnpc__centrifuge__construct_1_1npc__centrifuge__constructAI.html#ac6ecbb17624c2747253c68a50b93c40f" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  497</span>        {</div>
-<div class="line"><span class="lineno">  498</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  499</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  500</span> </div>
-<div class="line"><span class="lineno">  501</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  502</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  496</span>        {</div>
+<div class="line"><span class="lineno">  497</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  498</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  499</span> </div>
+<div class="line"><span class="lineno">  500</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  501</span>        }</div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
 </div><!-- fragment -->
@@ -751,7 +749,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d11/classnpc__centrifuge__construct.html">npc_centrifuge_construct</a></li><li class="navelem"><a class="el" href="../../da/dc4/structnpc__centrifuge__construct_1_1npc__centrifuge__constructAI.html">npc_centrifuge_constructAI</a></li>
-    <li class="footer">Generated on Thu Oct 30 2025 06:24:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Oct 31 2025 06:24:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

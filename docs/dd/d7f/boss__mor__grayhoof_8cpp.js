@@ -24,7 +24,7 @@ var boss__mor__grayhoof_8cpp =
       [ "SPELL_FAERIE_DRAGON_FORM", "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e5e143966721ffd7007e64676feb01a", null ],
       [ "SPELL_ARCANE_EXPLOSION", "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce", null ],
       [ "SPELL_REFLECTION", "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca5cfb51461743a5d55d8f62642576ce96", null ],
-      [ "SPELL_CHAIN_LIGHTING", "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca62abae152164d0fc40f7e1dd0a79b586", null ],
+      [ "SPELL_CHAIN_LIGHTNING", "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d", null ],
       [ "SPELL_SLEEP", "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f563c1bba1af64ae5c19d212170eed5", null ]
     ] ],
     [ "Texts", "dd/d7f/boss__mor__grayhoof_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [

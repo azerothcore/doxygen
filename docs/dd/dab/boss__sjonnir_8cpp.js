@@ -37,19 +37,12 @@ var boss__sjonnir_8cpp =
     [ "Spells", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_FRENZY", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ],
       [ "SPELL_CHAIN_LIGHTNING", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_CHAIN_LIGHTNING_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cafe8199715e95e53ddba734463b0d5180", null ],
       [ "SPELL_LIGHTNING_SHIELD", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07", null ],
-      [ "SPELL_LIGHTNING_SHIELD_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca03145a53332a999b7527165d875ca24b", null ],
       [ "SPELL_STATIC_CHARGE", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_STATIC_CHARGE_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca89f535b8132e803f0fa213df9cac491d", null ],
       [ "SPELL_LIGHTNING_RING", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52", null ],
-      [ "SPELL_LIGHTNING_RING_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca3121cd8363d3b476708df5be630bd63d", null ],
       [ "SPELL_TOXIC_VOLLEY", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca", null ],
-      [ "SPELL_TOXIC_VOLLEY_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cabaf162f2cc6f3f36457f8c49da492fc5", null ],
       [ "SPELL_LIGHTNING_TETHER", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34", null ],
-      [ "SPELL_LIGHTNING_TETHER_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad234971f8c4b4339c900cf9b259dd9f2", null ],
-      [ "SPELL_LIGHTNING_SHOCK", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9", null ],
-      [ "SPELL_LIGHTNING_SHOCK_H", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cadba0411154960febe2bc15e6aeb3c46d", null ]
+      [ "SPELL_LIGHTNING_SHOCK", "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9", null ]
     ] ],
     [ "SummonPhases", "dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5", [
       [ "PHASE_SUMMON_UNFRIENDLY_DWARFES", "dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039", null ],

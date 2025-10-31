@@ -11,12 +11,10 @@ var boss__epoch_8cpp =
     ] ],
     [ "Spells", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_CURSE_OF_EXERTION", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298ca0c3ebefe0d6da6d5fe6935b9963761d8", null ],
-      [ "SPELL_WOUNDING_STRIKE_N", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298ca552626f805e08c6a97a8bcf91c423614", null ],
-      [ "SPELL_WOUNDING_STRIKE_H", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298caf1515d79ed10bceb4b7f6b13fbb9f298", null ],
+      [ "SPELL_WOUNDING_STRIKE", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298ca80679dfa99eb04ef3165c646abedc1d5", null ],
       [ "SPELL_TIME_STOP", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298ca4154540a366e463e757c18a53e696a51", null ],
       [ "SPELL_TIME_WARP", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298caaee8560d0293a1e317108faca4a4976b", null ],
-      [ "SPELL_TIME_STEP_N", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298caf78377382bf6b4ac0fd60235213b47de", null ],
-      [ "SPELL_TIME_STEP_H", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298ca2769d7308fd24471362a819b8e30d6e9", null ]
+      [ "SPELL_TIME_STEP", "d0/dca/boss__epoch_8cpp.html#a5bd342133be8c2137b831460acc9298cae97d335d7188c1362803edb20b8c828a", null ]
     ] ],
     [ "Yells", "d0/dca/boss__epoch_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_INTRO", "d0/dca/boss__epoch_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af5bc3db04213b3bf118af6ce85b5a637", null ],

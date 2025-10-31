@@ -675,6 +675,8 @@ var hierarchy =
         [ "spell_baltharus_enervating_brand_trigger", "dc/d5d/classspell__baltharus__enervating__brand__trigger.html", null ],
         [ "spell_batrider_bomb", "d9/dc9/classspell__batrider__bomb.html", null ],
         [ "spell_bh_cleanse_quel_delar", "d5/dcd/classspell__bh__cleanse__quel__delar.html", null ],
+        [ "spell_black_knight_ghoul_claw", "d6/d8b/classspell__black__knight__ghoul__claw.html", null ],
+        [ "spell_black_knight_ghoul_explode", "dd/dac/classspell__black__knight__ghoul__explode.html", null ],
         [ "spell_black_template_free_friend", "de/db2/classspell__black__template__free__friend.html", null ],
         [ "spell_black_temple_bloodbolt", "d0/dd4/classspell__black__temple__bloodbolt.html", null ],
         [ "spell_black_temple_l5_arcane_charge", "da/d58/classspell__black__temple__l5__arcane__charge.html", null ],

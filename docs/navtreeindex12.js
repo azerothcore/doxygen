@@ -1,8 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d0/d89/boss__thorim_8cpp.html#ab5647942ca8ea67470d3d6289f9ae6c1":[7,0,0,0,1,3,5,9,2,11,38],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445":[7,0,0,0,1,3,5,9,2,11,43],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a01912c7c4028db13d5f1095fce477908":[7,0,0,0,1,3,5,9,2,11,43,65],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a0347a8d89f24e030b2bf2f6309992de9":[7,0,0,0,1,3,5,9,2,11,43,15],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a07177bd4191d974076cf432be330b346":[7,0,0,0,1,3,5,9,2,11,43,49],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a074b702ae99198e6bb4c840144bb0372":[7,0,0,0,1,3,5,9,2,11,43,46],
@@ -235,11 +232,11 @@ var NAVTREEINDEX12 =
 "d0/d8c/classnpc__mistress__of__pain.html":[6,0,1974],
 "d0/d8c/classnpc__mistress__of__pain.html#a0261ed835454725e0e5629c295be4330":[6,0,1974,1],
 "d0/d8c/classnpc__mistress__of__pain.html#ae32e9b907e2e31556e72d7feb4e24e8a":[6,0,1974,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3421],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3421,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3421,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3421,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3421,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3423],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3423,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3423,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3423,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3423,3],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html":[6,0,1320,0],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a080decfc444d3d89f0334a76bfb5e757":[6,0,1320,0,10],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a0849a6d1a98b6c49cca7341f6341179c":[6,0,1320,0,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX12 =
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a44a6c18c9e1d279cfb16a087d1313845":[6,0,1320,0,12],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a644bfe3309b765ba8df750acdb81d496":[6,0,1320,0,3],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a7bdd42ce9cf698f6d78fde784ac0b32f":[6,0,1320,0,15],
-"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a88215e741eec8be55882290de22f5c69":[6,0,1320,0,18]
+"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a88215e741eec8be55882290de22f5c69":[6,0,1320,0,18],
+"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a8d512fa12205db57c322b0734b344717":[6,0,1320,0,19],
+"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#aaa5552c50b504a3a3e2d5534840a52cf":[6,0,1320,0,16],
+"d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#aaadc39f4b4032cc59105525ce6a7b6a8":[6,0,1320,0,7]
 };

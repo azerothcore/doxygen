@@ -5,7 +5,6 @@ var boss__prince__taldaram_8cpp =
     [ "spell_prince_taldaram_conjure_flame_sphere", "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html", "d2/da4/classspell__prince__taldaram__conjure__flame__sphere" ],
     [ "spell_prince_taldaram_flame_sphere_summon", "df/d51/classspell__prince__taldaram__flame__sphere__summon.html", "df/d51/classspell__prince__taldaram__flame__sphere__summon" ],
     [ "DATA_SPHERE_ANGLE_OFFSET", "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746", null ],
-    [ "SPELL_EMBRACE_OF_THE_VAMPYR", "db/d53/boss__prince__taldaram_8cpp.html#aba2148c075727cb24738046dd2f9e8ae", null ],
     [ "Actions", "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_REMOVE_PRISON_AT_RESET", "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfa8fa0da219654d2d5e581fe241d5150dc", null ],
       [ "ACTION_SPHERE", "db/d53/boss__prince__taldaram_8cpp.html#a250372292659bed7ae290d8621f88ccfac042d64bdbb8eb52c03e686a845b265e", null ]
@@ -33,7 +32,8 @@ var boss__prince__taldaram_8cpp =
       [ "SPELL_BEAM_VISUAL", "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca7308df9acc17a8adec0ee5b127e394cf", null ],
       [ "SPELL_VANISH", "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6", null ],
       [ "SPELL_SHADOWSTEP", "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298ca06a46fcede8911f2df5a8196db465132", null ],
-      [ "SPELL_HOVER_FALL", "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf2ed56605ecc502b5527a6f5214a7105", null ]
+      [ "SPELL_HOVER_FALL", "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf2ed56605ecc502b5527a6f5214a7105", null ],
+      [ "SPELL_EMBRACE_OF_THE_VAMPYR", "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236", null ]
     ] ],
     [ "Spheres", "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94", [
       [ "NPC_FLAME_SPHERE_1", "db/d53/boss__prince__taldaram_8cpp.html#a510a69ce2349de27459f197969d0af94af20383c1216195d925ba8e456946c988", null ],

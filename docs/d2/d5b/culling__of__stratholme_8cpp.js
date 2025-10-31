@@ -121,8 +121,7 @@ var culling__of__stratholme_8cpp =
     ] ],
     [ "Spells", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_ARTHAS_AURA", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca063be4aea43ccc4d20476369d6be1199", null ],
-      [ "SPELL_ARTHAS_EXORCISM_N", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca112267d1aa4965c0ca3a34f280998065", null ],
-      [ "SPELL_ARTHAS_EXORCISM_H", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298cab481d18aed3749bf425d7fe58baf8d72", null ],
+      [ "SPELL_ARTHAS_EXORCISM", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca5eeb9658dbd9191720500c88fddd4bb1", null ],
       [ "SPELL_ARTHAS_HOLY_LIGHT", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca84c460ac31797c4296ae77adc80acf3c", null ],
       [ "SPELL_MALGANIS_APPEAR", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca0f3519c44702ca02da97ab3ca4c86a69", null ],
       [ "SPELL_GREEN_VISUAL_AURA", "d2/d5b/culling__of__stratholme_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d1ee3fa5845507df07b53bba70f2d92", null ],

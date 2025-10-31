@@ -10,13 +10,10 @@ var boss__maiden__of__grief_8cpp =
       [ "EVENT_PARTING", "d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498faa0992d683bc7d0448b2e32fdf931c00d3", null ]
     ] ],
     [ "spells", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2", [
-      [ "PARTING_SORROW", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af3454b7726ff200f857b79943aac2cf8", null ],
-      [ "PILLAR_OF_WOE", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a51ed5feeba323856f831a4e8e128c5fe", null ],
-      [ "PILLAR_OF_WOE_H", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ac128df2d0c92bf7377c0df59a379330c", null ],
-      [ "SHOCK_OF_SORROW", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a5b97c5198240f4c93b386eb4f4ba0212", null ],
-      [ "SHOCK_OF_SORROW_H", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a8d4d1921d0600ec1d80db94ae28ece71", null ],
-      [ "STORM_OF_GRIEF", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aae11fdab86d81638daa38e7a6d2c2378", null ],
-      [ "STORM_OF_GRIEF_H", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0ef3f59f8e1657636ee160eba01246b0", null ],
+      [ "SPELL_PARTING_SORROW", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acd7915601fc0b67e8d5acf3a6694f7fc", null ],
+      [ "SPELL_PILLAR_OF_WOE", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a19b2a44ab973e5455800e27c52741dc7", null ],
+      [ "SPELL_SHOCK_OF_SORROW", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa72868934321874de1c41bcf61e330d5", null ],
+      [ "SPELL_STORM_OF_GRIEF", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a9cfd52b71d003bd58e61a4d460726243", null ],
       [ "ACHIEVEMENT_GOOD_GRIEF", "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97", null ]
     ] ],
     [ "Yells", "d8/de5/boss__maiden__of__grief_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [

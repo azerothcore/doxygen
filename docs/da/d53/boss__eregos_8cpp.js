@@ -2,8 +2,6 @@ var boss__eregos_8cpp =
 [
     [ "boss_eregos", "d3/d4b/classboss__eregos.html", "d3/d4b/classboss__eregos" ],
     [ "boss_eregos::boss_eregosAI", "d8/da6/structboss__eregos_1_1boss__eregosAI.html", "d8/da6/structboss__eregos_1_1boss__eregosAI" ],
-    [ "SPELL_ARCANE_BARRAGE", "da/d53/boss__eregos_8cpp.html#a08343cea04d45054f3c55b70c2c4f77a", null ],
-    [ "SPELL_ARCANE_VOLLEY", "da/d53/boss__eregos_8cpp.html#a46a311f1484a23f697614b35a94255ed", null ],
     [ "Events", "da/d53/boss__eregos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_SPELL_ARCANE_BARRAGE", "da/d53/boss__eregos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a469a2711e924e23b7faf66f26abc8a3a", null ],
       [ "EVENT_SPELL_ARCANE_VOLLEY", "da/d53/boss__eregos_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a491a29558521fa9c8c67f737e765e12e", null ],
@@ -21,10 +19,8 @@ var boss__eregos_8cpp =
       [ "SAY_SHIELD", "da/d53/boss__eregos_8cpp.html#a16774215bba3b38580ea51987d64cff1aaf749e8e64cc093fd7431662518404d9", null ]
     ] ],
     [ "Spells", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_ARCANE_BARRAGE_N", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca817e80efd6bc1b439134f38375ee6f50", null ],
-      [ "SPELL_ARCANE_BARRAGE_H", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8719c1231c22d5e5c15df8772ceb8ac3", null ],
-      [ "SPELL_ARCANE_VOLLEY_N", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca446d4017e711f785f72f7d1acbbb4276", null ],
-      [ "SPELL_ARCANE_VOLLEY_H", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3758183c8861bf06b306d425ee3277e2", null ],
+      [ "SPELL_ARCANE_BARRAGE", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3afb459a719cb129b98a146ade206c97", null ],
+      [ "SPELL_ARCANE_VOLLEY", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3027bd3bcdc06e0ea4f687afdb22a8", null ],
       [ "SPELL_ENRAGED_ASSAULT", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3c228b425f8b70001e3ea83230ba978a", null ],
       [ "SPELL_PLANAR_ANOMALIES", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298ca0389df4fe9df0a23018c0c898f6904cb", null ],
       [ "SPELL_PLANAR_SHIFT", "da/d53/boss__eregos_8cpp.html#a5bd342133be8c2137b831460acc9298cafaca7cc2e3c9b1357d49a10fec6b9bf3", null ],

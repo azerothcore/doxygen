@@ -44,8 +44,7 @@ var boss__bjarngrim_8cpp =
       [ "SPELL_CHARGE_UP", "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2a8ae77f940b180dd102e8592e6981c947", null ],
       [ "SPELL_TEMPORARY_ELECTRICAL_CHARGE", "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2a5b02476a1ed7cf751a23a52c425e89bf", null ],
       [ "SPELL_ARC_WELD", "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2a8847aff455d18589d5c90f2e5e4a9636", null ],
-      [ "SPELL_RENEW_STEEL_N", "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2af77069207d384c5d9d004a1fb1d30240", null ],
-      [ "SPELL_RENEW_STEEL_H", "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2a70ff205c7e39f9990387b01f2ae85411", null ]
+      [ "SPELL_RENEW_STEEL", "d7/d9f/boss__bjarngrim_8cpp.html#ae8475905b6004061a8bb5371742fd9c2a736a3648d8f424db19db6f22f30c8464", null ]
     ] ],
     [ "Yells", "d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "d7/d9f/boss__bjarngrim_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],

@@ -35,7 +35,6 @@ var oculus_8cpp =
       [ "SPELL_RIDE_AMBER_DRAKE_QUE", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a92fce45d9cbce0450ed91e2e78b025d2", null ],
       [ "SPELL_RIDE_EMERALD_DRAKE_QUE", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a778d5f012fd7d1541bfae3038c1d0a85", null ],
       [ "SPELL_EMPOWERING_BLOWS", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a54228d0fabb74c8e39747855c9302e75", null ],
-      [ "H_SPELL_EMPOWERING_BLOWS", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a8c56d719b2588fbebc24ce1560ff0cab", null ],
       [ "SPELL_AMBER_SHOCK_CHARGE", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a08e9f1ae93fd2469f2c97cf4c98731af", null ],
       [ "SPELL_RUBY_EVASIVE_CHARGES", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a7c4cc6300acfcaaf61fc0dc7e31cda35", null ],
       [ "SPELL_DRAKE_FLAG_VISUAL", "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528a09668a45c49a57b5d70e2961a2ccdf9a", null ],

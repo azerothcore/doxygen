@@ -1,11 +1,6 @@
 var boss__ingvar__the__plunderer_8cpp =
 [
     [ "boss_ingvar_the_plunderer", "dd/d1b/structboss__ingvar__the__plunderer.html", "dd/d1b/structboss__ingvar__the__plunderer" ],
-    [ "SPELL_DREADFUL_ROAR", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ac1e0e2698ab0ecb24bebdfa4c7ff14ca", null ],
-    [ "SPELL_ENRAGE", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a101191d5841177786224ce21dc4ee986", null ],
-    [ "SPELL_SMASH", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a29597657a2021b4ce69510ef57e5c532", null ],
-    [ "SPELL_STAGGERING_ROAR", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a99a7405d4a7e5c3b0c55072cb4d023cd", null ],
-    [ "SPELL_WOE_STRIKE", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#aea764f162053625d84cab8363f1f503e", null ],
     [ "eDisplayId", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a4d66f142b59aac5af3614d297e9f885e", [
       [ "DISPLAYID_DEFAULT", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a4d66f142b59aac5af3614d297e9f885ea5747813f8d3e4e2d108069263d2b4baf", null ],
       [ "DISPLAYID_UNDEAD", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#a4d66f142b59aac5af3614d297e9f885eae473fac59eb688ccd47ee0e5552a5d49", null ]
@@ -39,17 +34,12 @@ var boss__ingvar__the__plunderer_8cpp =
       [ "SPELL_RESURRECTION_BALL", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a581272352a56e266974b3d5242b18b1c", null ],
       [ "SPELL_RESURRECTION_HEAL", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa22db1467f89cd73625eb1236cb8f22d", null ],
       [ "SPELL_INGVAR_TRANSFORM", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a6af3b6c0427411db60ea2169af59caa7", null ],
-      [ "SPELL_STAGGERING_ROAR_N", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a31beb194e3937ba367b2ac315a78c767", null ],
-      [ "SPELL_STAGGERING_ROAR_H", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a15aec659d93690479365ba0c54d62963", null ],
+      [ "SPELL_STAGGERING_ROAR", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a48287cf5f1161c12b341670186f9cd0c", null ],
       [ "SPELL_CLEAVE", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_SMASH_N", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99d220e272a75c1e84295c90c61b4aad", null ],
-      [ "SPELL_SMASH_H", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a272ac7cc027a93651e9355baf42bf61b", null ],
-      [ "SPELL_ENRAGE_N", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5469514735ec902569ab1c1476a72deb", null ],
-      [ "SPELL_ENRAGE_H", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a358b29ddb2de1ae20e2a0d28b1e990c0", null ],
-      [ "SPELL_DREADFUL_ROAR_N", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ab90b354899bdb0d290882909b02f993b", null ],
-      [ "SPELL_DREADFUL_ROAR_H", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0af41b4860eab8a9bf3f353b17a9dcb83a", null ],
-      [ "SPELL_WOE_STRIKE_N", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aea47768bd5ebe7fd7c33b26dc735e83a", null ],
-      [ "SPELL_WOE_STRIKE_H", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aab9311675e9a9798e30e353dd07801fb", null ],
+      [ "SPELL_SMASH", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a89670b4d6d37b0a963c158bdf3f6b9e8", null ],
+      [ "SPELL_ENRAGE", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_DREADFUL_ROAR", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a454f8e0f50da141a35729f7dcdcae6f0", null ],
+      [ "SPELL_WOE_STRIKE", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0af68b9bc9d273685ee51cd12a2a81a925", null ],
       [ "SPELL_DARK_SMASH", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a6e19dca517918356197021cd00fa31c0", null ],
       [ "SPELL_SHADOW_AXE", "d2/dbc/boss__ingvar__the__plunderer_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a42ab135eb21715012ad82b7ff2464334", null ]
     ] ],

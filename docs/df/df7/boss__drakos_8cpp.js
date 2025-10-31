@@ -4,7 +4,6 @@ var boss__drakos_8cpp =
     [ "boss_drakos::boss_drakosAI", "dd/d48/structboss__drakos_1_1boss__drakosAI.html", "dd/d48/structboss__drakos_1_1boss__drakosAI" ],
     [ "npc_oculus_unstable_sphere", "d4/ddc/classnpc__oculus__unstable__sphere.html", "d4/ddc/classnpc__oculus__unstable__sphere" ],
     [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html", "d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI" ],
-    [ "SPELL_THUNDERING_STOMP", "df/df7/boss__drakos_8cpp.html#a49700fd50259585cfac2c788de5e00a8", null ],
     [ "DrakosNPCs", "df/df7/boss__drakos_8cpp.html#a9b6e942098b05e96df3467d6c45f057c", [
       [ "NPC_UNSTABLE_SPHERE", "df/df7/boss__drakos_8cpp.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815", null ]
     ] ],
@@ -16,8 +15,7 @@ var boss__drakos_8cpp =
     ] ],
     [ "Spells", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_MAGIC_PULL", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298caf2fecfa2b3706d755888b9b4bcefd271", null ],
-      [ "SPELL_THUNDERING_STOMP_N", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca76f4d1023355b57425e3d0e08fa611d1", null ],
-      [ "SPELL_THUNDERING_STOMP_H", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca46d8a36e8760d3adacace8ade5d769a8", null ],
+      [ "SPELL_THUNDERING_STOMP", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca626925ba86f88514659778da36ed7122", null ],
       [ "SPELL_UNSTABLE_SPHERE_PASSIVE", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca96a05afd42764dee65dc6b579e8e4795", null ],
       [ "SPELL_UNSTABLE_SPHERE_PULSE", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3df00e451a027ccc48488b61a54f01c5", null ],
       [ "SPELL_UNSTABLE_SPHERE_TIMER", "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298cadf5f8f23894a1d8d6efe963719d2865a", null ],

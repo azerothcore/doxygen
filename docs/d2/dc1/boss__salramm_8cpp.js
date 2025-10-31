@@ -11,14 +11,12 @@ var boss__salramm_8cpp =
       [ "EVENT_SPELL_CURSE", "d2/dc1/boss__salramm_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abece04c4d2dc5b9b4126520c5d886a6c", null ]
     ] ],
     [ "Spells", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_SHADOW_BOLT_N", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca0611e57f0d15e2289ad521526d7efbb8", null ],
-      [ "SPELL_SHADOW_BOLT_H", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298cadd02af55d4461814bd682194051aabb7", null ],
+      [ "SPELL_SHADOW_BOLT", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413", null ],
       [ "SPELL_STEAL_FLESH_CHANNEL", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca877292972f130b33cc53b1c5bbe2506d", null ],
       [ "SPELL_STEAL_FLESH_TARGET", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca85a76e61274945d856b9f19b2518a888", null ],
       [ "SPELL_STEAL_FLESH_CASTER", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca96f43f325459466d26641c48fb099367", null ],
       [ "SPELL_SUMMON_GHOULS", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca5221116d6ebe2b51b5f56df9d6f173c2", null ],
-      [ "SPELL_EXPLODE_GHOUL_N", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298cac99673bfa8f61b7a68ef287b47a33192", null ],
-      [ "SPELL_EXPLODE_GHOUL_H", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca08e07abc7b36796fead1411e77879aa5", null ],
+      [ "SPELL_EXPLODE_GHOUL", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298caa1e69da09892025cba97d404c6b9d847", null ],
       [ "SPELL_CURSE_OF_TWISTED_FAITH", "d2/dc1/boss__salramm_8cpp.html#a5bd342133be8c2137b831460acc9298ca5daaf7b878345605ca0eabd7d4085416", null ]
     ] ],
     [ "Yells", "d2/dc1/boss__salramm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [

@@ -2,7 +2,6 @@ var boss__urom_8cpp =
 [
     [ "boss_urom", "db/d37/classboss__urom.html", "db/d37/classboss__urom" ],
     [ "boss_urom::boss_uromAI", "d8/dc3/structboss__urom_1_1boss__uromAI.html", "d8/dc3/structboss__urom_1_1boss__uromAI" ],
-    [ "SPELL_EMPOWERED_ARCANE_EXPLOSION", "d4/d8d/boss__urom_8cpp.html#a8484400f79492bc9d03fee724c864538", null ],
     [ "Events", "d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_FROSTBOMB", "d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a168dce0de06e2e00cb469de28def7114", null ],
       [ "EVENT_TELEPORT_TO_CENTER", "d4/d8d/boss__urom_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a418e8ff4826303ff84757960b934af07", null ],
@@ -16,10 +15,8 @@ var boss__urom_8cpp =
       [ "SPELL_SUMMON_MENAGERIE_3", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca861c7baf210d92fc2d4b54ac6c2d8836", null ],
       [ "SPELL_TELEPORT", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7", null ],
       [ "SPELL_FROSTBOMB", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298cae7064309a56b70687761304d06b42084", null ],
-      [ "SPELL_TIME_BOMB_N", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298caf7926c7ffa39a51f0d5da505f88049c1", null ],
-      [ "SPELL_TIME_BOMB_H", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298caba8096ffea14e853e98c633caa427bd6", null ],
-      [ "SPELL_EMPOWERED_ARCANE_EXPLOSION_N", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d846dc8ac7aa3574892271c7146e122", null ],
-      [ "SPELL_EMPOWERED_ARCANE_EXPLOSION_H", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298ca60a6915f83245a3885c966413a19c82a", null ]
+      [ "SPELL_TIME_BOMB", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298cafb862e19110e0baabcdcf78fec9e41f8", null ],
+      [ "SPELL_EMPOWERED_ARCANE_EXPLOSION", "d4/d8d/boss__urom_8cpp.html#a5bd342133be8c2137b831460acc9298cac395dedf21c7c28c9457ceb51a2903f3", null ]
     ] ],
     [ "UromNPCs", "d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8", [
       [ "NPC_PHANTASMAL_CLOUDSCRAPER", "d4/d8d/boss__urom_8cpp.html#ad243c32a85c6d194ea6b8c6ec82f9da8af9a940bc6f5f4440ead1ad39a59b3de7", null ],

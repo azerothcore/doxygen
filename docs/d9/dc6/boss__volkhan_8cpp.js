@@ -3,17 +3,14 @@ var boss__volkhan_8cpp =
     [ "boss_volkhan", "d4/d09/structboss__volkhan.html", "d4/d09/structboss__volkhan" ],
     [ "npc_molten_golem", "df/d2a/structnpc__molten__golem.html", "df/d2a/structnpc__molten__golem" ],
     [ "VolkahnSpells", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
-      [ "SPELL_HEAT_N", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da52721b165a1d661959027f08e7e77802", null ],
-      [ "SPELL_HEAT_H", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da4d03f31e8cd9c24f8c4d3190c2ea5c48", null ],
-      [ "SPELL_SHATTERING_STOMP_N", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dacf236c056526e7d334d0f4923020c11d", null ],
-      [ "SPELL_SHATTERING_STOMP_H", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da8e20bc8eef892e867e1b5e12cc6701ee", null ],
+      [ "SPELL_HEAT", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da9329da13a5cbfa0d7dad14d7aeceeac7", null ],
+      [ "SPELL_SHATTERING_STOMP", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72daec9ae5b4353163fe5840d94c9371bd80", null ],
       [ "SPELL_TEMPER", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dafb60338c8bf2cdf173bbec1399302590", null ],
       [ "SPELL_SUMMON_MOLTEN_GOLEM", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0", null ],
       [ "SPELL_BLAST_WAVE", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da70309c041527816c73053b7d9b387f88", null ],
-      [ "SPELL_IMMOLATION_STRIKE_N", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da7f56b593c8a5036f3bbf31b42c0ae10a", null ],
-      [ "SPELL_IMMOLATION_STRIKE_H", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dafd682468d586d2a3eb295e604f418fff", null ],
-      [ "SPELL_SHATTER_N", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dacf4e44beedee8c8707805224fa72dade", null ],
-      [ "SPELL_SHATTER_H", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dad938a16355e71dde7dcb1dba7ca3332c", null ]
+      [ "SPELL_COOL_DOWN", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da5b119756e7a925c1c23cfc53883506a7", null ],
+      [ "SPELL_IMMOLATION_STRIKE", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dae0d54d2b9eee50737d9c219de77387e2", null ],
+      [ "SPELL_SHATTER", "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72dad483afa5a0a6d798cf66d74f164639f0", null ]
     ] ],
     [ "VolkhanEvents", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53", [
       [ "EVENT_HEAT", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a6b25adec4b8568323b4ee0586db4429f", null ],
@@ -21,8 +18,8 @@ var boss__volkhan_8cpp =
       [ "EVENT_SHATTER", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a67fb1e75418e5f4394f0dea3f005a0bf", null ],
       [ "EVENT_POSITION", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53aee71bfe8eed55c4485ea1c65ca84c557", null ],
       [ "EVENT_MOVE_TO_ANVIL", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a1c755cdad7beeae1a2ef721eba24fa99", null ],
-      [ "EVENT_BLAST", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a1d1fc465151b3431ace03005b0061ee6", null ],
-      [ "EVENT_IMMOLATION", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a5bb92cdf1fba9c89fd9145d415bc7ceb", null ]
+      [ "EVENT_IMMOLATION_STRIKE", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a6acd40cf44ed8481fe099524007d0632", null ],
+      [ "EVENT_CHANGE_TARGET", "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53aecc2f7d81ce1fd43bc3c75f6fa49b4cf", null ]
     ] ],
     [ "VolkhanOther", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ec", [
       [ "NPC_VOLKHAN_ANVIL", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d", null ],

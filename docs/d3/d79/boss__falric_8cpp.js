@@ -22,5 +22,5 @@ var boss__falric_8cpp =
       [ "SAY_DEFILING_HORROR", "d3/d79/boss__falric_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a433d2ab4f081a501bd475c180e6a3664", null ]
     ] ],
     [ "AddSC_boss_falric", "d3/d79/boss__falric_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea", null ],
-    [ "hopelessnessId", "d3/d79/boss__falric_8cpp.html#ab5b7746c8833916a366c600fd8911692", null ]
+    [ "hopelessnessId", "d3/d79/boss__falric_8cpp.html#a7e77023c3e8be8bce55e0daee68d34ad", null ]
 ];

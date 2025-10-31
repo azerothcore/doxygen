@@ -1,8 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a4b939a5e446aeac12fe6dc006a21fe3b":[6,0,389,0,4],
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a61c3887481f8f7119357ef3402ed82be":[6,0,389,0,6],
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a6bd69d474df1db36bd020fad50fbcee4":[6,0,389,0,11],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a8e554328a8179802c3f35326b059d173":[6,0,389,0,8],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a94f4f2d836042c24e2b26b4664783570":[6,0,389,0,5],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a9b3ea0af39d0b391ef181e2846f437cd":[6,0,389,0,9],
@@ -230,15 +227,15 @@ var NAVTREEINDEX9 =
 "d0/d79/classnpc__unkor__the__ruthless.html":[6,0,2253],
 "d0/d79/classnpc__unkor__the__ruthless.html#a4eb173932f39c5503d1db91d55f3a5b7":[6,0,2253,1],
 "d0/d79/classnpc__unkor__the__ruthless.html#a552a19b9a48e90f3b093e2b9e16ec867":[6,0,2253,2],
-"d0/d79/classspell__item__shimmering__vessel.html":[6,0,3313],
-"d0/d79/classspell__item__shimmering__vessel.html#a3ca7b1dd1187fd39e362b3451b246a4c":[6,0,3313,2],
-"d0/d79/classspell__item__shimmering__vessel.html#aa9743f357b9800ab2990fb584011b0a6":[6,0,3313,1],
-"d0/d79/classspell__item__shimmering__vessel.html#ab146c4026bc8ad129bb3d421891d344b":[6,0,3313,0],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html":[6,0,3775],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a278a1eb6d5f856a620f5a33de294b0ec":[6,0,3775,0],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a46ba800f3a3512951b83e428bc5373b9":[6,0,3775,2],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a4a59d431c7d7607e614c4ec035e3acf7":[6,0,3775,3],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a8300f726a41882e3d3f54adc0e5bfb29":[6,0,3775,1],
+"d0/d79/classspell__item__shimmering__vessel.html":[6,0,3315],
+"d0/d79/classspell__item__shimmering__vessel.html#a3ca7b1dd1187fd39e362b3451b246a4c":[6,0,3315,2],
+"d0/d79/classspell__item__shimmering__vessel.html#aa9743f357b9800ab2990fb584011b0a6":[6,0,3315,1],
+"d0/d79/classspell__item__shimmering__vessel.html#ab146c4026bc8ad129bb3d421891d344b":[6,0,3315,0],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html":[6,0,3777],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a278a1eb6d5f856a620f5a33de294b0ec":[6,0,3777,0],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a46ba800f3a3512951b83e428bc5373b9":[6,0,3777,2],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a4a59d431c7d7607e614c4ec035e3acf7":[6,0,3777,3],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a8300f726a41882e3d3f54adc0e5bfb29":[6,0,3777,1],
 "d0/d79/structboss__varos_1_1boss__varosAI.html":[6,0,761,0],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a0b7eeef4529b47357d729852cdeab002":[6,0,761,0,1],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a24b2a1e438b02c67e64b79adb0cfeafe":[6,0,761,0,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX9 =
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a87f743f03dc19659d0e77ee23cd2c327":[6,0,761,0,5],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#a9cf7c0159753512ae7dea8a2f6a9da74":[6,0,761,0,9],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#acc1ac3c2bf5cb1a7732f375285467423":[6,0,761,0,7],
-"d0/d79/structboss__varos_1_1boss__varosAI.html#aef225fcf580c5e500d3242ac4be24260":[6,0,761,0,11]
+"d0/d79/structboss__varos_1_1boss__varosAI.html#aef225fcf580c5e500d3242ac4be24260":[6,0,761,0,11],
+"d0/d79/structboss__varos_1_1boss__varosAI.html#aef24d04954a26bb6381c860403e84288":[6,0,761,0,6],
+"d0/d79/structboss__varos_1_1boss__varosAI.html#af4c8e11f0aad369f09902eb1ccc48059":[6,0,761,0,10],
+"d0/d7a/classachievement__flu__shot__shortage.html":[6,0,54]
 };
