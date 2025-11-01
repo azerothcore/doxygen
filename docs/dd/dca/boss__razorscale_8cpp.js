@@ -18,11 +18,6 @@ var boss__razorscale_8cpp =
     [ "achievement_quick_shave", "dc/d7d/classachievement__quick__shave.html", "dc/d7d/classachievement__quick__shave" ],
     [ "achievement_iron_dwarf_medium_rare", "d5/d78/classachievement__iron__dwarf__medium__rare.html", "d5/d78/classachievement__iron__dwarf__medium__rare" ],
     [ "REQ_CHAIN_COUNT", "dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82", null ],
-    [ "SPELL_BATTLE_SHOUT", "dd/dca/boss__razorscale_8cpp.html#af76cb167a7862b37436e8b554d7c6435", null ],
-    [ "SPELL_CHAINLIGHTNING", "dd/dca/boss__razorscale_8cpp.html#af9c227d173241ef60616493aca0ab3b0", null ],
-    [ "SPELL_FLAMEBREATH", "dd/dca/boss__razorscale_8cpp.html#a901ac46cad718194cb6b1db084c04935", null ],
-    [ "SPELL_FLAMEBUFFET", "dd/dca/boss__razorscale_8cpp.html#af3a52962b6d06a95d5fb16a2c0332566", null ],
-    [ "SPELL_LIGHTINGBOLT", "dd/dca/boss__razorscale_8cpp.html#a54d00a99b402e834cfc5b17c95fa9c00", null ],
     [ "eEvents", "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NONE", "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_COMMANDER_SAY_AGGRO", "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2a6cc03cfde7611787dafe4c158b68cc", null ],
@@ -64,12 +59,10 @@ var boss__razorscale_8cpp =
       [ "NPC_RAZORSCALE_CONTROLLER", "dd/dca/boss__razorscale_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7a7dcdd199fa130ecf0e1f4aa731fc29", null ]
     ] ],
     [ "Spells", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_FLAMEBUFFET_10", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa2c6a6ac9017503b9e3fed28d80ac13d", null ],
-      [ "SPELL_FLAMEBUFFET_25", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a610c6f18c6cd20ed7af23635e46a06", null ],
+      [ "SPELL_FLAMEBUFFET", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488", null ],
       [ "SPELL_FIREBALL", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963", null ],
       [ "SPELL_WINGBUFFET", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caf78d2bf782af6865cab5dcc177551375", null ],
-      [ "SPELL_FLAMEBREATH_10", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e392631fd3fc2bbf42521cc82fb8948", null ],
-      [ "SPELL_FLAMEBREATH_25", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cadb9fbd244dd6f88349845b8dcb5542df", null ],
+      [ "SPELL_FLAMEBREATH", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786", null ],
       [ "SPELL_FUSEARMOR", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d2d704cf6611ae28770ea801039a7e5", null ],
       [ "SPELL_FUSED_ARMOR", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa20fd32a182cc6cee137043c79cb3c95", null ],
       [ "SPELL_DEVOURINGFLAME", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca143e68bf55a1c961d061a18d9b1a5cdd", null ],
@@ -80,14 +73,11 @@ var boss__razorscale_8cpp =
       [ "SPELL_CHAIN_4", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cae6acaed58805e1c6cb7a249d23756de0", null ],
       [ "SPELL_LAUNCH_CHAIN", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa756eb46c3d992396d03a7aca5a28665", null ],
       [ "SPELL_WHIRLWIND", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801", null ],
-      [ "SPELL_BATTLE_SHOUT_10", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ef080824555536f8f9762bf9cb4e088", null ],
-      [ "SPELL_BATTLE_SHOUT_25", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca7af06eb46aef5f975640ff632f317638", null ],
+      [ "SPELL_BATTLE_SHOUT", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f4b8cd8f87524623197ea23d28c08dc", null ],
       [ "SPELL_STORMSTRIKE_DMG", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caf607053c2fbe203ae33aff560bbe82ae", null ],
       [ "SPELL_STORMSTRIKE_DEBUFF", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bcd5f9e50946825716996f6ff8199f", null ],
-      [ "SPELL_LIGHTINGBOLT_10", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca8404492868238dba79b836c5167ed9e5", null ],
-      [ "SPELL_LIGHTINGBOLT_25", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caaf6ad93a8ecb72eb1e3c63b4849ec028", null ],
-      [ "SPELL_CHAINLIGHTNING_10", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9031bf60657c442da34f6a4d10623ec5", null ],
-      [ "SPELL_CHAINLIGHTNING_25", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cadee6e39fa7f14e344c80da386247e51c", null ]
+      [ "SPELL_LIGHTINGBOLT", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca3857567972c5e62c0344e37d445a8150", null ],
+      [ "SPELL_CHAINLIGHTNING", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cad3b2f68629496447b4b592d7d0c14aaf", null ]
     ] ],
     [ "Texts", "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "EMOTE_PERMA_GROUND", "dd/dca/boss__razorscale_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a042ff325dc452a3dad645efc9ac6936b", null ],

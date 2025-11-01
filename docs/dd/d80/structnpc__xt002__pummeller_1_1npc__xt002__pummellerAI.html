@@ -565,7 +565,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  645</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(pCreature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  634</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(pCreature) { }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -595,26 +595,26 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  652</span>        {</div>
-<div class="line"><span class="lineno">  653</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  654</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  655</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  656</span> </div>
-<div class="line"><span class="lineno">  657</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#afa14c52852b49c2179c7410dbd897ff4">SelectTargetFromPlayerList</a>(200))</div>
-<div class="line"><span class="lineno">  658</span>                <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">AttackStart</a>(target);</div>
-<div class="line"><span class="lineno">  659</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  660</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(500ms);</div>
-<div class="line"><span class="lineno">  661</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  641</span>        {</div>
+<div class="line"><span class="lineno">  642</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  643</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  644</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  645</span> </div>
+<div class="line"><span class="lineno">  646</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#afa14c52852b49c2179c7410dbd897ff4">SelectTargetFromPlayerList</a>(200))</div>
+<div class="line"><span class="lineno">  647</span>                <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">AttackStart</a>(target);</div>
+<div class="line"><span class="lineno">  648</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  649</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(500ms);</div>
+<div class="line"><span class="lineno">  650</span>        }</div>
 <div class="ttc" id="aclassCreature_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2182</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
 <div class="ttc" id="astructScriptedAI_html_a4c91d8d2c1a6e8b234c1c4f15936c7a4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI::AttackStart</a></div><div class="ttdeci">void AttackStart(Unit *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:210</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="astructScriptedAI_html_afa14c52852b49c2179c7410dbd897ff4"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#afa14c52852b49c2179c7410dbd897ff4">ScriptedAI::SelectTargetFromPlayerList</a></div><div class="ttdeci">Player * SelectTargetFromPlayerList(float maxdist, uint32 excludeAura=0, bool mustBeInLOS=false) const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:563</div></div>
-<div class="ttc" id="astructnpc__xt002__pummeller_1_1npc__xt002__pummellerAI_html_a5a1bdb380438070effc091ec37db6aec"><div class="ttname"><a href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">npc_xt002_pummeller::npc_xt002_pummellerAI::_uppercutTimer</a></div><div class="ttdeci">int32 _uppercutTimer</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:649</div></div>
-<div class="ttc" id="astructnpc__xt002__pummeller_1_1npc__xt002__pummellerAI_html_a830fda66756dc3f34a530939116e7556"><div class="ttname"><a href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">npc_xt002_pummeller::npc_xt002_pummellerAI::_arcingSmashTimer</a></div><div class="ttdeci">int32 _arcingSmashTimer</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:647</div></div>
-<div class="ttc" id="astructnpc__xt002__pummeller_1_1npc__xt002__pummellerAI_html_ae5e450601861f83b20419405bb92ef6d"><div class="ttname"><a href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">npc_xt002_pummeller::npc_xt002_pummellerAI::_trampleTimer</a></div><div class="ttdeci">int32 _trampleTimer</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:648</div></div>
+<div class="ttc" id="astructnpc__xt002__pummeller_1_1npc__xt002__pummellerAI_html_a5a1bdb380438070effc091ec37db6aec"><div class="ttname"><a href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">npc_xt002_pummeller::npc_xt002_pummellerAI::_uppercutTimer</a></div><div class="ttdeci">int32 _uppercutTimer</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:638</div></div>
+<div class="ttc" id="astructnpc__xt002__pummeller_1_1npc__xt002__pummellerAI_html_a830fda66756dc3f34a530939116e7556"><div class="ttname"><a href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">npc_xt002_pummeller::npc_xt002_pummellerAI::_arcingSmashTimer</a></div><div class="ttdeci">int32 _arcingSmashTimer</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:636</div></div>
+<div class="ttc" id="astructnpc__xt002__pummeller_1_1npc__xt002__pummellerAI_html_ae5e450601861f83b20419405bb92ef6d"><div class="ttname"><a href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">npc_xt002_pummeller::npc_xt002_pummellerAI::_trampleTimer</a></div><div class="ttdeci">int32 _trampleTimer</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:637</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00647">_arcingSmashTimer</a>, <a class="el" href="../../#l00648">_trampleTimer</a>, <a class="el" href="../../#l00649">_uppercutTimer</a>, <a class="el" href="../../#l00210">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00563">ScriptedAI::SelectTargetFromPlayerList()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00636">_arcingSmashTimer</a>, <a class="el" href="../../#l00637">_trampleTimer</a>, <a class="el" href="../../#l00638">_uppercutTimer</a>, <a class="el" href="../../#l00210">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00563">ScriptedAI::SelectTargetFromPlayerList()</a>.</p>
 
 </div>
 </div>
@@ -645,44 +645,44 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  664</span>        {</div>
-<div class="line"><span class="lineno">  665</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  666</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  667</span> </div>
-<div class="line"><span class="lineno">  668</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  669</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  670</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  671</span> </div>
-<div class="line"><span class="lineno">  672</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> &gt;= 8000)</div>
-<div class="line"><span class="lineno">  673</span>            {</div>
-<div class="line"><span class="lineno">  674</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e">SPELL_ARCING_SMASH</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  675</span>                <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  676</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  677</span>            }</div>
-<div class="line"><span class="lineno">  678</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> &gt;= 11000)</div>
-<div class="line"><span class="lineno">  679</span>            {</div>
-<div class="line"><span class="lineno">  680</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0652a18b78225e381788c96ee85b3a9b">SPELL_TRAMPLE</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  681</span>                <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  682</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  683</span>            }</div>
-<div class="line"><span class="lineno">  684</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> &gt;= 14000)</div>
-<div class="line"><span class="lineno">  685</span>            {</div>
-<div class="line"><span class="lineno">  686</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  687</span>                <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  688</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  689</span>            }</div>
-<div class="line"><span class="lineno">  690</span> </div>
-<div class="line"><span class="lineno">  691</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  692</span>        }</div>
-<div class="ttc" id="aboss__xt002_8cpp_html_a42170363d3d70af9b65253693ae22effa0652a18b78225e381788c96ee85b3a9b"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0652a18b78225e381788c96ee85b3a9b">SPELL_TRAMPLE</a></div><div class="ttdeci">@ SPELL_TRAMPLE</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:42</div></div>
-<div class="ttc" id="aboss__xt002_8cpp_html_a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e">SPELL_ARCING_SMASH</a></div><div class="ttdeci">@ SPELL_ARCING_SMASH</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:41</div></div>
-<div class="ttc" id="aboss__xt002_8cpp_html_a42170363d3d70af9b65253693ae22effaec5ad6f4170f697acf9499e4e06bb065"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a></div><div class="ttdeci">@ SPELL_UPPERCUT</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:43</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  653</span>        {</div>
+<div class="line"><span class="lineno">  654</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  655</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  656</span> </div>
+<div class="line"><span class="lineno">  657</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> += diff;</div>
+<div class="line"><span class="lineno">  658</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> += diff;</div>
+<div class="line"><span class="lineno">  659</span>            <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> += diff;</div>
+<div class="line"><span class="lineno">  660</span> </div>
+<div class="line"><span class="lineno">  661</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> &gt;= 8000)</div>
+<div class="line"><span class="lineno">  662</span>            {</div>
+<div class="line"><span class="lineno">  663</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e">SPELL_ARCING_SMASH</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  664</span>                <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556">_arcingSmashTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  665</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  666</span>            }</div>
+<div class="line"><span class="lineno">  667</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> &gt;= 11000)</div>
+<div class="line"><span class="lineno">  668</span>            {</div>
+<div class="line"><span class="lineno">  669</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0652a18b78225e381788c96ee85b3a9b">SPELL_TRAMPLE</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  670</span>                <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d">_trampleTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  671</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  672</span>            }</div>
+<div class="line"><span class="lineno">  673</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> &gt;= 14000)</div>
+<div class="line"><span class="lineno">  674</span>            {</div>
+<div class="line"><span class="lineno">  675</span>                <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  676</span>                <a class="code hl_variable" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a5a1bdb380438070effc091ec37db6aec">_uppercutTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  677</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  678</span>            }</div>
+<div class="line"><span class="lineno">  679</span> </div>
+<div class="line"><span class="lineno">  680</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  681</span>        }</div>
+<div class="ttc" id="aboss__xt002_8cpp_html_a42170363d3d70af9b65253693ae22effa0652a18b78225e381788c96ee85b3a9b"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0652a18b78225e381788c96ee85b3a9b">SPELL_TRAMPLE</a></div><div class="ttdeci">@ SPELL_TRAMPLE</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:40</div></div>
+<div class="ttc" id="aboss__xt002_8cpp_html_a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e">SPELL_ARCING_SMASH</a></div><div class="ttdeci">@ SPELL_ARCING_SMASH</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:39</div></div>
+<div class="ttc" id="aboss__xt002_8cpp_html_a42170363d3d70af9b65253693ae22effaec5ad6f4170f697acf9499e4e06bb065"><div class="ttname"><a href="../../d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaec5ad6f4170f697acf9499e4e06bb065">SPELL_UPPERCUT</a></div><div class="ttdeci">@ SPELL_UPPERCUT</div><div class="ttdef"><b>Definition</b> boss_xt002.cpp:41</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:886</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00647">_arcingSmashTimer</a>, <a class="el" href="../../#l00648">_trampleTimer</a>, <a class="el" href="../../#l00649">_uppercutTimer</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00041">SPELL_ARCING_SMASH</a>, <a class="el" href="../../#l00042">SPELL_TRAMPLE</a>, <a class="el" href="../../#l00043">SPELL_UPPERCUT</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00636">_arcingSmashTimer</a>, <a class="el" href="../../#l00637">_trampleTimer</a>, <a class="el" href="../../#l00638">_uppercutTimer</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00039">SPELL_ARCING_SMASH</a>, <a class="el" href="../../#l00040">SPELL_TRAMPLE</a>, <a class="el" href="../../#l00041">SPELL_UPPERCUT</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -699,7 +699,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00651">Reset()</a>, and <a class="el" href="../../#l00663">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00640">Reset()</a>, and <a class="el" href="../../#l00652">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -715,7 +715,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00651">Reset()</a>, and <a class="el" href="../../#l00663">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00640">Reset()</a>, and <a class="el" href="../../#l00652">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -731,7 +731,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00651">Reset()</a>, and <a class="el" href="../../#l00663">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00640">Reset()</a>, and <a class="el" href="../../#l00652">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -744,7 +744,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dd5/classnpc__xt002__pummeller.html">npc_xt002_pummeller</a></li><li class="navelem"><a class="el" href="../../dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html">npc_xt002_pummellerAI</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:24:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

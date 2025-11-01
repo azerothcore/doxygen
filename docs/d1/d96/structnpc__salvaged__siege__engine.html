@@ -447,7 +447,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  539</span>: <a class="code hl_struct" href="../../d2/d0f/structVehicleAI.html">VehicleAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  543</span>: <a class="code hl_struct" href="../../d2/d0f/structVehicleAI.html">VehicleAI</a>(creature) { }</div>
 <div class="ttc" id="astructVehicleAI_html"><div class="ttname"><a href="../../d2/d0f/structVehicleAI.html">VehicleAI</a></div><div class="ttdef"><b>Definition</b> CombatAI.h:99</div></div>
 </div><!-- fragment -->
 </div>
@@ -478,27 +478,27 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#aa039cf7a893c697b56bc63a78580eb38">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  542</span>    {</div>
-<div class="line"><span class="lineno">  543</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicle = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>())</div>
-<div class="line"><span class="lineno">  544</span>        {</div>
-<div class="line"><span class="lineno">  545</span>            <span class="keywordflow">if</span> (vehicle-&gt;IsVehicleInUse())</div>
-<div class="line"><span class="lineno">  546</span>            {</div>
-<div class="line"><span class="lineno">  547</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* turret = vehicle-&gt;GetPassenger(7))</div>
-<div class="line"><span class="lineno">  548</span>                {</div>
-<div class="line"><span class="lineno">  549</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* turretVehicle = turret-&gt;GetVehicleKit())</div>
-<div class="line"><span class="lineno">  550</span>                    {</div>
-<div class="line"><span class="lineno">  551</span>                        <span class="keywordflow">if</span> (!turretVehicle-&gt;IsVehicleInUse())</div>
-<div class="line"><span class="lineno">  552</span>                        {</div>
-<div class="line"><span class="lineno">  553</span>                            turret-&gt;HandleSpellClick(clicker);</div>
-<div class="line"><span class="lineno">  554</span>                            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  555</span>                        }</div>
-<div class="line"><span class="lineno">  556</span>                    }</div>
-<div class="line"><span class="lineno">  557</span>                }</div>
-<div class="line"><span class="lineno">  558</span>            }</div>
-<div class="line"><span class="lineno">  559</span>        }</div>
-<div class="line"><span class="lineno">  560</span> </div>
-<div class="line"><span class="lineno">  561</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  562</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  546</span>    {</div>
+<div class="line"><span class="lineno">  547</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicle = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>())</div>
+<div class="line"><span class="lineno">  548</span>        {</div>
+<div class="line"><span class="lineno">  549</span>            <span class="keywordflow">if</span> (vehicle-&gt;IsVehicleInUse())</div>
+<div class="line"><span class="lineno">  550</span>            {</div>
+<div class="line"><span class="lineno">  551</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* turret = vehicle-&gt;GetPassenger(7))</div>
+<div class="line"><span class="lineno">  552</span>                {</div>
+<div class="line"><span class="lineno">  553</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* turretVehicle = turret-&gt;GetVehicleKit())</div>
+<div class="line"><span class="lineno">  554</span>                    {</div>
+<div class="line"><span class="lineno">  555</span>                        <span class="keywordflow">if</span> (!turretVehicle-&gt;IsVehicleInUse())</div>
+<div class="line"><span class="lineno">  556</span>                        {</div>
+<div class="line"><span class="lineno">  557</span>                            turret-&gt;HandleSpellClick(clicker);</div>
+<div class="line"><span class="lineno">  558</span>                            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  559</span>                        }</div>
+<div class="line"><span class="lineno">  560</span>                    }</div>
+<div class="line"><span class="lineno">  561</span>                }</div>
+<div class="line"><span class="lineno">  562</span>            }</div>
+<div class="line"><span class="lineno">  563</span>        }</div>
+<div class="line"><span class="lineno">  564</span> </div>
+<div class="line"><span class="lineno">  565</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  566</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
 <div class="ttc" id="aclassUnit_html_ae54fce65a1c084c982043777288895ec"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">Unit::GetVehicleKit</a></div><div class="ttdeci">Vehicle * GetVehicleKit() const</div><div class="ttdef"><b>Definition</b> Unit.h:1879</div></div>
@@ -517,7 +517,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:24:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

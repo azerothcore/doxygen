@@ -30,10 +30,8 @@ var boss__noth_8cpp =
       [ "EMOTE_BLINK", "d8/d35/boss__noth_8cpp.html#a16774215bba3b38580ea51987d64cff1af9ca539976628fcab0a3ef1268e5ad8a", null ]
     ] ],
     [ "Spells", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_CURSE_OF_THE_PLAGUEBRINGER_10", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298cab5f24dd133d6547a3e825266e83d1189", null ],
-      [ "SPELL_CURSE_OF_THE_PLAGUEBRINGER_25", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca7a62efaebc1958207310305da12a44e0", null ],
-      [ "SPELL_CRIPPLE_10", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298cabac1e9934872a0f71f80a30ac7a6f26b", null ],
-      [ "SPELL_CRIPPLE_25", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298cadb3dedf6ae536b77e64b4f981769c469", null ],
+      [ "SPELL_CURSE_OF_THE_PLAGUEBRINGER", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bee2bba520a8899d3186cab0207f32d", null ],
+      [ "SPELL_CRIPPLE", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc", null ],
       [ "SPELL_SUMMON_PLAGUED_WARRIORS", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b81f09b5eb900a4fd79523949ec8b59", null ],
       [ "SPELL_TELEPORT", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7", null ],
       [ "SPELL_TELEPORT_BACK", "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f04a0aa5c435f7d169d18d36123ea7b", null ],

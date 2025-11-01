@@ -25,8 +25,7 @@ var boss__heigan_8cpp =
     ] ],
     [ "Spells", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SPELL_DISRUPTION", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4", null ],
-      [ "SPELL_DECREPIT_FEVER_10", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca344c616141fc8126cf73b4e6a66845f5", null ],
-      [ "SPELL_DECREPIT_FEVER_25", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca0cbb3deb815f48d20a6bac3837693c34", null ],
+      [ "SPELL_DECREPIT_FEVER", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298cae8e05c43a10c1885e6dd64eccb4afdca", null ],
       [ "SPELL_PLAGUE_CLOUD", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca91e9581231c56c9bbaa049c497cd78b8", null ],
       [ "SPELL_TELEPORT_SELF", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10", null ]
     ] ],

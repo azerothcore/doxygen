@@ -17,7 +17,6 @@ var boss__rotface_8cpp =
     [ "spell_rotface_unstable_ooze_explosion_suicide_aura", "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura.html", "df/da1/classspell__rotface__unstable__ooze__explosion__suicide__aura" ],
     [ "npc_precious_icc", "d7/d43/classnpc__precious__icc.html", "d7/d43/classnpc__precious__icc" ],
     [ "npc_precious_icc::npc_precious_iccAI", "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html", "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI" ],
-    [ "MUTATED_INFECTION", "d7/d2b/boss__rotface_8cpp.html#a607dc3b0f396a5fe6d6bed1fecf54cc8", null ],
     [ "Events", "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_NONE", "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_UNROOT", "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9", null ],

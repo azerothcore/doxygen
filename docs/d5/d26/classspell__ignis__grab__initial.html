@@ -314,17 +314,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  464</span>    {</div>
-<div class="line"><span class="lineno">  465</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  466</span>            target-&gt;CastSpell(target, <a class="code hl_define" href="../../d4/da9/boss__ignis_8cpp.html#a897638e3f30d69cfd96d738cf1144d1c">SPELL_GRAB_TRIGGERED</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  467</span>    }</div>
-<div class="ttc" id="aboss__ignis_8cpp_html_a897638e3f30d69cfd96d738cf1144d1c"><div class="ttname"><a href="../../d4/da9/boss__ignis_8cpp.html#a897638e3f30d69cfd96d738cf1144d1c">SPELL_GRAB_TRIGGERED</a></div><div class="ttdeci">#define SPELL_GRAB_TRIGGERED</div><div class="ttdef"><b>Definition</b> boss_ignis.cpp:42</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  460</span>    {</div>
+<div class="line"><span class="lineno">  461</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  462</span>            target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3">SPELL_GRAB_TRIGGERED</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  463</span>    }</div>
+<div class="ttc" id="aboss__ignis_8cpp_html_a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3"><div class="ttname"><a href="../../d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3">SPELL_GRAB_TRIGGERED</a></div><div class="ttdeci">@ SPELL_GRAB_TRIGGERED</div><div class="ttdef"><b>Definition</b> boss_ignis.cpp:38</div></div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, and <a class="el" href="../../#l00042">SPELL_GRAB_TRIGGERED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, and <a class="el" href="../../#l00038">SPELL_GRAB_TRIGGERED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00465">Register()</a>.</p>
 
 </div>
 </div>
@@ -378,16 +378,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  470</span>    {</div>
-<div class="line"><span class="lineno">  471</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1">spell_ignis_grab_initial::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno">  472</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  466</span>    {</div>
+<div class="line"><span class="lineno">  467</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1">spell_ignis_grab_initial::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno">  468</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:866</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__ignis__grab__initial_html_a760bb60198017605111d02af98c827b1"><div class="ttname"><a href="../../d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1">spell_ignis_grab_initial::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> boss_ignis.cpp:463</div></div>
+<div class="ttc" id="aclassspell__ignis__grab__initial_html_a760bb60198017605111d02af98c827b1"><div class="ttname"><a href="../../d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1">spell_ignis_grab_initial::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> boss_ignis.cpp:459</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00463">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00459">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -416,12 +416,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  459</span>    {</div>
-<div class="line"><span class="lineno">  460</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_define" href="../../d4/da9/boss__ignis_8cpp.html#a897638e3f30d69cfd96d738cf1144d1c">SPELL_GRAB_TRIGGERED</a> });</div>
-<div class="line"><span class="lineno">  461</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  455</span>    {</div>
+<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba195b87c02c2c852b4e3927891d35dca3">SPELL_GRAB_TRIGGERED</a> });</div>
+<div class="line"><span class="lineno">  457</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">SPELL_GRAB_TRIGGERED</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">SPELL_GRAB_TRIGGERED</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -434,7 +434,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d26/classspell__ignis__grab__initial.html">spell_ignis_grab_initial</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:25:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

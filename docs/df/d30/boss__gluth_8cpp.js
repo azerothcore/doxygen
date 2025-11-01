@@ -23,10 +23,8 @@ var boss__gluth_8cpp =
     ] ],
     [ "Spells", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_MORTAL_WOUND", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298cade4f4dd4b7799e3729980832dbc60e4c", null ],
-      [ "SPELL_ENRAGE_10", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca054e7641fedceba9fa11af91f45370f0", null ],
-      [ "SPELL_ENRAGE_25", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca63a52cc43d9578dea34c8081de8c6958", null ],
-      [ "SPELL_DECIMATE_10", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca763aeb638c49b0625e5bf37db6ae88d5", null ],
-      [ "SPELL_DECIMATE_25", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca5976a464e37823e47ac33d9a5726ee38", null ],
+      [ "SPELL_ENRAGE", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_DECIMATE", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298cac4e03f3e6d6650e974e1ad899dfb2d56", null ],
       [ "SPELL_DECIMATE_DAMAGE", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298caf9c13e812c47f4c9a91d430e1c6b6016", null ],
       [ "SPELL_BERSERK", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_INFECTED_WOUND", "df/d30/boss__gluth_8cpp.html#a5bd342133be8c2137b831460acc9298cafcf6fa42786cd83572e5223fe45cf44d", null ],

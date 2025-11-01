@@ -151,8 +151,7 @@ var trial__of__the__crusader_8h =
       [ "SPELL_JORMUNGAR_ACHIEV", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a874534d1c9a0cec12846dd163cbe82c1", null ],
       [ "SPELL_FACTION_CHAMPIONS_KILL_CREDIT", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a4d0271d2d6d513b919ffb9355f031b0f", null ],
       [ "SPELL_RESILIENCE_WILL_FIX_IT_CREDIT", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a5aa843ad3fcfec217734301abc17287f", null ],
-      [ "SPELL_TRAITOR_KING_10", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363aa92220bacb637eb859cf4b047b4c802c", null ],
-      [ "SPELL_TRAITOR_KING_25", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363ac8393fca60bbc073ce63c097c6f0ac6f", null ],
+      [ "SPELL_TRAITOR_KING", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a515549c9ef6d13a9cad71151edd9f22f", null ],
       [ "SPELL_PORTAL_TO_DALARAN", "da/de8/trial__of__the__crusader_8h.html#ab07d2c2f03457c67895bdafb642ac363a170ab1bb87c99be682c4c031a4c35cc1", null ]
     ] ],
     [ "GOs", "da/de8/trial__of__the__crusader_8h.html#a0e34bfee1d19a882b3f839910a0df5c5", [

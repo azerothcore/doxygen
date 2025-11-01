@@ -1017,7 +1017,7 @@ var searchData=
   ['_5fisviewpoint_1014',['_isViewpoint',['../dc/d8e/classDynamicObject.html#ad1a6b47b129b8bb32bc9343e2d84d137',1,'DynamicObject']]],
   ['_5fisvisible_1015',['_isVisible',['../db/da4/classPetAI.html#aa297cbcee57b47ade3bec433f8ca0cd3',1,'PetAI']]],
   ['_5fiswalkingbeforecharm_1016',['_isWalkingBeforeCharm',['../df/dd9/classUnit.html#af3d8c519e497bbb434302df4aa2e2619',1,'Unit']]],
-  ['_5fiswithindist_1017',['_iswithindist',['../de/d1c/classGameObject.html#a72636aef2a383b231b82d08f1a1a12e5',1,'GameObject::_IsWithinDist()'],['../d4/dd0/classWorldObject.html#af6cb8a7e049199c45805f2d1297e9900',1,'WorldObject::_IsWithinDist()']]],
+  ['_5fiswithindist_1017',['_iswithindist',['../de/d1c/classGameObject.html#a0f827ffb0ffb87f22531cedb8170cf2a',1,'GameObject::_IsWithinDist()'],['../d4/dd0/classWorldObject.html#ab9ac3ba3d456d5a641a8b8bc039ad7bd',1,'WorldObject::_IsWithinDist()']]],
   ['_5fiswritingasync_1018',['_isWritingAsync',['../d4/d33/classSocket.html#afd3e05d1d3f0079e2771558580a92ace',1,'Socket']]],
   ['_5fit_1019',['_it',['../d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#abbf6ac9d50ba494221addff9aba11b80',1,'Acore::Impl::ChatCommands::FilteredCommandListIterator']]],
   ['_5fitemid_1020',['_itemId',['../db/d03/classspell__gen__model__visible.html#a28c06ecd352466e0d1076d9eb4fa8e9b',1,'spell_gen_model_visible']]],

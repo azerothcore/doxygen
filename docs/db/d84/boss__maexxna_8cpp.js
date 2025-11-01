@@ -25,14 +25,10 @@ var boss__maexxna_8cpp =
       [ "NPC_MAEXXNA_SPIDERLING", "db/d84/boss__maexxna_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a31363885aae51a82b0c5101ca116d06f", null ]
     ] ],
     [ "Spells", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_WEB_SPRAY_10", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298cacb7fabbf76151f79f1d4d935aa4c541a", null ],
-      [ "SPELL_WEB_SPRAY_25", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca597b5327fc4600796cb90183c6c827bb", null ],
-      [ "SPELL_POISON_SHOCK_10", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298cace3a87efa01f5ff3ab2026aa0103c022", null ],
-      [ "SPELL_POISON_SHOCK_25", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca260e5df4529c5f34154adfe35c066c3e", null ],
-      [ "SPELL_NECROTIC_POISON_10", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca843c7d8a526de7820fece731798aeee1", null ],
-      [ "SPELL_NECROTIC_POISON_25", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca66b63210d8a55e5c80c388f7c8ad99ab", null ],
-      [ "SPELL_FRENZY_10", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dbc4a52fb200e1b096dc6de9929c49c", null ],
-      [ "SPELL_FRENZY_25", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca9491545c82848d2113631603378dcd1f", null ],
+      [ "SPELL_WEB_SPRAY", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298caf0a622295a6cec456484d1abda932469", null ],
+      [ "SPELL_POISON_SHOCK", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca1060b31df8e0a9bb9da396eb250017bb", null ],
+      [ "SPELL_NECROTIC_POISON", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca91659ae45d576a823387ef54f56e2c4b", null ],
+      [ "SPELL_FRENZY", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ],
       [ "SPELL_WEB_WRAP_STUN", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca03a4fc7c45692e02262506049fae6e67", null ],
       [ "SPELL_WEB_WRAP_SUMMON", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c967c8266aedcc63e46c2cd81b94ebf", null ],
       [ "SPELL_WEB_WRAP_KILL_WEBS", "db/d84/boss__maexxna_8cpp.html#a5bd342133be8c2137b831460acc9298ca337ae231ac8e57a7bdae85191dcce0b8", null ],

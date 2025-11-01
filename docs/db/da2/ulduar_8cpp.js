@@ -45,7 +45,9 @@ var ulduar_8cpp =
       [ "SPELL_SIMPLE_TELEPORT", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8", null ],
       [ "SPELL_KEEPER_TELEPORT", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef", null ],
       [ "SPELL_SNOW_MOUND_PARTICLES", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3", null ],
-      [ "SPELL_ENERGY_SAP_10", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4", null ]
+      [ "SPELL_ENERGY_SAP_10", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4", null ],
+      [ "SPELL_FLAME_SPRAY", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24", null ],
+      [ "SPELL_MACHINE_GUN", "db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8", null ]
     ] ],
     [ "AddSC_ulduar", "db/da2/ulduar_8cpp.html#a92cd26bf4850f8f0e66ceb31a9f43561", null ]
 ];

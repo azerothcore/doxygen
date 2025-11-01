@@ -38,10 +38,8 @@ var boss__kelthuzad_8cpp =
       [ "ACTION_GUARDIANS_OFF", "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac9c49f07ab87f289fb36e2d72648dd71", null ]
     ] ],
     [ "Spells", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_FROST_BOLT_SINGLE_10", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca2563ecb08f6a1fdcefe4d87673e02c77", null ],
-      [ "SPELL_FROST_BOLT_SINGLE_25", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298cac259c58f0154d4095b802d43dc040189", null ],
-      [ "SPELL_FROST_BOLT_MULTI_10", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298cace1325e5e4104403cbd3c8b8540e6039", null ],
-      [ "SPELL_FROST_BOLT_MULTI_25", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298caf26c2e88b87d4360b0799145051020f2", null ],
+      [ "SPELL_FROST_BOLT_SINGLE", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca83e941fb451a98d4746c82dd1d2b8af3", null ],
+      [ "SPELL_FROST_BOLT_MULTI", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d7f51b728051c98d83880139eed8e6a", null ],
       [ "SPELL_SHADOW_FISURE", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca33c324fb7dbfe1e60a54f096b9384060", null ],
       [ "SPELL_VOID_BLAST", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d7b9fecb06ff3fa25fd746043075fc9", null ],
       [ "SPELL_DETONATE_MANA", "d5/d50/boss__kelthuzad_8cpp.html#a5bd342133be8c2137b831460acc9298caa1436e833400e43be70162edb3d1e34a", null ],

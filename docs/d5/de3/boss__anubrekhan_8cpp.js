@@ -18,10 +18,8 @@ var boss__anubrekhan_8cpp =
       [ "EMOTE_LOCUST", "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a7d02805c6e8da030fdc84d7a5ff82ce7", null ]
     ] ],
     [ "Spells", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_IMPALE_10", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caba75bf71c6edb08e61e849a79033bc04", null ],
-      [ "SPELL_IMPALE_25", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac565bfbde4cd8bf5f38c76981c61dc33", null ],
-      [ "SPELL_LOCUST_SWARM_10", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cafbba463789d0f150aa908981f1155c2e", null ],
-      [ "SPELL_LOCUST_SWARM_25", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca96efa82ef5075362578be3797806bd05", null ],
+      [ "SPELL_IMPALE", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298caed97c932510c91b6057175b2df166f63", null ],
+      [ "SPELL_LOCUST_SWARM", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298ca7ee0412dfafd5522513ea342f68d55ea", null ],
       [ "SPELL_SUMMON_CORPSE_SCRABS_5", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad62479f1fdaa6bcaedeae36bd96b9a82", null ],
       [ "SPELL_SUMMON_CORPSE_SCRABS_10", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cadd925f77dad404f83cad2df3bf157f35", null ],
       [ "SPELL_BERSERK", "d5/de3/boss__anubrekhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ]

@@ -21,6 +21,5 @@ var searchData=
   ['pos_5fy_5fgate_18',['POS_Y_GATE',['../d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7',1,'boss_gothik.cpp']]],
   ['pos_5fy_5fwest_19',['POS_Y_WEST',['../d8/db8/boss__gothik_8cpp.html#aee5606dfbe589b8aca39906b99d82b99',1,'boss_gothik.cpp']]],
   ['prepareaurascript_20',['PrepareAuraScript',['../dc/db2/SpellScript_8h.html#ac30b78d7dfb666e2634098493fb1b117',1,'SpellScript.h']]],
-  ['preparespellscript_21',['PrepareSpellScript',['../dc/db2/SpellScript_8h.html#a34719dcb751e4fcbcd8071ff6daa720a',1,'SpellScript.h']]],
-  ['pungent_5fblight_5fhelper_22',['PUNGENT_BLIGHT_HELPER',['../d1/d78/boss__festergut_8cpp.html#a47b252b752928e101366fd9db838c998',1,'boss_festergut.cpp']]]
+  ['preparespellscript_21',['PrepareSpellScript',['../dc/db2/SpellScript_8h.html#a34719dcb751e4fcbcd8071ff6daa720a',1,'SpellScript.h']]]
 ];

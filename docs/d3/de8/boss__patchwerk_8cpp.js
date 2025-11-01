@@ -12,8 +12,7 @@ var boss__patchwerk_8cpp =
       [ "ACHIEV_TIMED_START_EVENT", "d3/de8/boss__patchwerk_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ]
     ] ],
     [ "Spells", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_HATEFUL_STRIKE_10", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cab857dee80726f235f38a035d6a304a2a", null ],
-      [ "SPELL_HATEFUL_STRIKE_25", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298ca327166a1aea8cc35b123f3831cfaf4ef", null ],
+      [ "SPELL_HATEFUL_STRIKE", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cabad6e8ef38e36b223ac12f2dbb1711b1", null ],
       [ "SPELL_FRENZY", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ],
       [ "SPELL_BERSERK", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_SLIME_BOLT", "d3/de8/boss__patchwerk_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a7f3cc3909be1639ed96bfb47e06b7c", null ]

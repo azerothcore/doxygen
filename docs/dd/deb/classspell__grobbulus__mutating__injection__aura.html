@@ -334,20 +334,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  273</span>    {</div>
-<div class="line"><span class="lineno">  274</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode())</div>
-<div class="line"><span class="lineno">  275</span>        {</div>
-<div class="line"><span class="lineno">  276</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115eaa40c81252e354a16d6f036827c872e12">AURA_REMOVE_BY_ENEMY_SPELL</a>:</div>
-<div class="line"><span class="lineno">  277</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>:</div>
-<div class="line"><span class="lineno">  278</span>                <span class="keywordflow">if</span> (<span class="keyword">auto</span> caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  279</span>                {</div>
-<div class="line"><span class="lineno">  280</span>                    caster-&gt;CastSpell(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89">SPELL_MUTATING_EXPLOSION</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  281</span>                }</div>
-<div class="line"><span class="lineno">  282</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  283</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  284</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  285</span>        }</div>
-<div class="line"><span class="lineno">  286</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  263</span>    {</div>
+<div class="line"><span class="lineno">  264</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode())</div>
+<div class="line"><span class="lineno">  265</span>        {</div>
+<div class="line"><span class="lineno">  266</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115eaa40c81252e354a16d6f036827c872e12">AURA_REMOVE_BY_ENEMY_SPELL</a>:</div>
+<div class="line"><span class="lineno">  267</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>:</div>
+<div class="line"><span class="lineno">  268</span>                <span class="keywordflow">if</span> (<span class="keyword">auto</span> caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  269</span>                {</div>
+<div class="line"><span class="lineno">  270</span>                    caster-&gt;CastSpell(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89">SPELL_MUTATING_EXPLOSION</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  271</span>                }</div>
+<div class="line"><span class="lineno">  272</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  273</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  274</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  275</span>        }</div>
+<div class="line"><span class="lineno">  276</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a></div><div class="ttdeci">@ AURA_REMOVE_BY_EXPIRE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:395</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a56f7dd5627e22afd9eb73530b767115eaa40c81252e354a16d6f036827c872e12"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115eaa40c81252e354a16d6f036827c872e12">AURA_REMOVE_BY_ENEMY_SPELL</a></div><div class="ttdeci">@ AURA_REMOVE_BY_ENEMY_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:394</div></div>
 <div class="ttc" id="aboss__grobbulus_8cpp_html_a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89"><div class="ttname"><a href="../../dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89">SPELL_MUTATING_EXPLOSION</a></div><div class="ttdeci">@ SPELL_MUTATING_EXPLOSION</div><div class="ttdef"><b>Definition</b> boss_grobbulus.cpp:31</div></div>
@@ -357,7 +357,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00394">AURA_REMOVE_BY_ENEMY_SPELL</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>, and <a class="el" href="../../#l00031">SPELL_MUTATING_EXPLOSION</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00288">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00278">Register()</a>.</p>
 
 </div>
 </div>
@@ -411,17 +411,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  289</span>    {</div>
-<div class="line"><span class="lineno">  290</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761">spell_grobbulus_mutating_injection_aura::HandleRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  291</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  279</span>    {</div>
+<div class="line"><span class="lineno">  280</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761">spell_grobbulus_mutating_injection_aura::HandleRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  281</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:753</div></div>
-<div class="ttc" id="aclassspell__grobbulus__mutating__injection__aura_html_a7c81c567ae10bf4fd4d3c1eb480b5761"><div class="ttname"><a href="../../dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761">spell_grobbulus_mutating_injection_aura::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_grobbulus.cpp:272</div></div>
+<div class="ttc" id="aclassspell__grobbulus__mutating__injection__aura_html_a7c81c567ae10bf4fd4d3c1eb480b5761"><div class="ttname"><a href="../../dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761">spell_grobbulus_mutating_injection_aura::HandleRemove</a></div><div class="ttdeci">void HandleRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_grobbulus.cpp:262</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00272">HandleRemove()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00262">HandleRemove()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -450,9 +450,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  268</span>    {</div>
-<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89">SPELL_MUTATING_EXPLOSION</a> });</div>
-<div class="line"><span class="lineno">  270</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  258</span>    {</div>
+<div class="line"><span class="lineno">  259</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dc/d70/boss__grobbulus_8cpp.html#a5bd342133be8c2137b831460acc9298cad93ee03c78941ef21d5f196658cb1d89">SPELL_MUTATING_EXPLOSION</a> });</div>
+<div class="line"><span class="lineno">  260</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00031">SPELL_MUTATING_EXPLOSION</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -468,7 +468,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/deb/classspell__grobbulus__mutating__injection__aura.html">spell_grobbulus_mutating_injection_aura</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:25:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

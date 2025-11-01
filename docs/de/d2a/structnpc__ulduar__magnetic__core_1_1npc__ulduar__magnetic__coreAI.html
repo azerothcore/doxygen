@@ -458,22 +458,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1985</span>                                                        : <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(pCreature)</div>
-<div class="line"><span class="lineno"> 1986</span>        {</div>
-<div class="line"><span class="lineno"> 1987</span>            <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d">pInstance</a> = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
-<div class="line"><span class="lineno"> 1988</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_define" href="../../dc/d29/boss__mimiron_8cpp.html#a828b9c2004df7c1f9c23588dd872ff4f">GetACU</a>())</div>
-<div class="line"><span class="lineno"> 1989</span>                <span class="keywordflow">if</span> (c-&gt;GetExactDist2d(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>) &lt;= 10.0f)</div>
-<div class="line"><span class="lineno"> 1990</span>                {</div>
-<div class="line"><span class="lineno"> 1991</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a102dedba540065d396bb5b0731d7e62f">SendMonsterMove</a>(c-&gt;GetPositionX(), c-&gt;GetPositionY(), 364.313f, 1);</div>
-<div class="line"><span class="lineno"> 1992</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a84ec84cb45d5d4bc29fe28c24c4f7624">UpdatePosition</a>(c-&gt;GetPositionX(), c-&gt;GetPositionY(), 364.313f, <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>(), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1993</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab0d06fbb085c35ada94d747f41e52fa7">StopMovingOnCurrentPos</a>();</div>
-<div class="line"><span class="lineno"> 1994</span>                    c-&gt;AI()-&gt;SetData(2, 1);</div>
-<div class="line"><span class="lineno"> 1995</span>                    <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 20000;</div>
-<div class="line"><span class="lineno"> 1996</span>                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1997</span>                }</div>
-<div class="line"><span class="lineno"> 1998</span>            <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 60000;</div>
-<div class="line"><span class="lineno"> 1999</span>        }</div>
-<div class="ttc" id="aboss__mimiron_8cpp_html_a828b9c2004df7c1f9c23588dd872ff4f"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a828b9c2004df7c1f9c23588dd872ff4f">GetACU</a></div><div class="ttdeci">#define GetACU()</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:271</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1980</span>                                                        : <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(pCreature)</div>
+<div class="line"><span class="lineno"> 1981</span>        {</div>
+<div class="line"><span class="lineno"> 1982</span>            <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d">pInstance</a> = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
+<div class="line"><span class="lineno"> 1983</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = <a class="code hl_define" href="../../dc/d29/boss__mimiron_8cpp.html#a828b9c2004df7c1f9c23588dd872ff4f">GetACU</a>())</div>
+<div class="line"><span class="lineno"> 1984</span>                <span class="keywordflow">if</span> (c-&gt;GetExactDist2d(<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>) &lt;= 10.0f)</div>
+<div class="line"><span class="lineno"> 1985</span>                {</div>
+<div class="line"><span class="lineno"> 1986</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a102dedba540065d396bb5b0731d7e62f">SendMonsterMove</a>(c-&gt;GetPositionX(), c-&gt;GetPositionY(), 364.313f, 1);</div>
+<div class="line"><span class="lineno"> 1987</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a84ec84cb45d5d4bc29fe28c24c4f7624">UpdatePosition</a>(c-&gt;GetPositionX(), c-&gt;GetPositionY(), 364.313f, <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>(), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1988</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab0d06fbb085c35ada94d747f41e52fa7">StopMovingOnCurrentPos</a>();</div>
+<div class="line"><span class="lineno"> 1989</span>                    c-&gt;AI()-&gt;SetData(2, 1);</div>
+<div class="line"><span class="lineno"> 1990</span>                    <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 20000;</div>
+<div class="line"><span class="lineno"> 1991</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1992</span>                }</div>
+<div class="line"><span class="lineno"> 1993</span>            <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 60000;</div>
+<div class="line"><span class="lineno"> 1994</span>        }</div>
+<div class="ttc" id="aboss__mimiron_8cpp_html_a828b9c2004df7c1f9c23588dd872ff4f"><div class="ttname"><a href="../../dc/d29/boss__mimiron_8cpp.html#a828b9c2004df7c1f9c23588dd872ff4f">GetACU</a></div><div class="ttdeci">#define GetACU()</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:256</div></div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:53</div></div>
@@ -482,10 +482,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ab0d06fbb085c35ada94d747f41e52fa7"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab0d06fbb085c35ada94d747f41e52fa7">Unit::StopMovingOnCurrentPos</a></div><div class="ttdeci">void StopMovingOnCurrentPos()</div><div class="ttdef"><b>Definition</b> Unit.cpp:16695</div></div>
 <div class="ttc" id="aclassWorldObject_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition</b> Object.cpp:1221</div></div>
 <div class="ttc" id="astructPosition_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d0/df4/structPosition.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition</b> Position.h:124</div></div>
-<div class="ttc" id="astructnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI_html_a3e01c612a689d89bdbe3529c429a413d"><div class="ttname"><a href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d">npc_ulduar_magnetic_core::npc_ulduar_magnetic_coreAI::pInstance</a></div><div class="ttdeci">InstanceScript * pInstance</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:2001</div></div>
-<div class="ttc" id="astructnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI_html_ad244ccbaeda814b9e56fad93f06f12fe"><div class="ttname"><a href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">npc_ulduar_magnetic_core::npc_ulduar_magnetic_coreAI::despawnTimer</a></div><div class="ttdeci">uint16 despawnTimer</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:2002</div></div>
+<div class="ttc" id="astructnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI_html_a3e01c612a689d89bdbe3529c429a413d"><div class="ttname"><a href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#a3e01c612a689d89bdbe3529c429a413d">npc_ulduar_magnetic_core::npc_ulduar_magnetic_coreAI::pInstance</a></div><div class="ttdeci">InstanceScript * pInstance</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:1996</div></div>
+<div class="ttc" id="astructnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI_html_ad244ccbaeda814b9e56fad93f06f12fe"><div class="ttname"><a href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">npc_ulduar_magnetic_core::npc_ulduar_magnetic_coreAI::despawnTimer</a></div><div class="ttdeci">uint16 despawnTimer</div><div class="ttdef"><b>Definition</b> boss_mimiron.cpp:1997</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02002">despawnTimer</a>, <a class="el" href="../../#l00271">GetACU</a>, <a class="el" href="../../#l01221">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l02001">pInstance</a>, <a class="el" href="../../#l00538">Unit::SendMonsterMove()</a>, <a class="el" href="../../#l16695">Unit::StopMovingOnCurrentPos()</a>, and <a class="el" href="../../#l19779">Unit::UpdatePosition()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01997">despawnTimer</a>, <a class="el" href="../../#l00256">GetACU</a>, <a class="el" href="../../#l01221">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l01996">pInstance</a>, <a class="el" href="../../#l00538">Unit::SendMonsterMove()</a>, <a class="el" href="../../#l16695">Unit::StopMovingOnCurrentPos()</a>, and <a class="el" href="../../#l19779">Unit::UpdatePosition()</a>.</p>
 
 </div>
 </div>
@@ -525,11 +525,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a14c40dcfec28989cc630fa571c67ebb7">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2005</span>        {</div>
-<div class="line"><span class="lineno"> 2006</span>            <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 20000;</div>
-<div class="line"><span class="lineno"> 2007</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2000</span>        {</div>
+<div class="line"><span class="lineno"> 2001</span>            <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 20000;</div>
+<div class="line"><span class="lineno"> 2002</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02002">despawnTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01997">despawnTimer</a>.</p>
 
 </div>
 </div>
@@ -560,18 +560,18 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2010</span>        {</div>
-<div class="line"><span class="lineno"> 2011</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 2012</span>            {</div>
-<div class="line"><span class="lineno"> 2013</span>                <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 60000;</div>
-<div class="line"><span class="lineno"> 2014</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(1ms);</div>
-<div class="line"><span class="lineno"> 2015</span>            }</div>
-<div class="line"><span class="lineno"> 2016</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 2017</span>                <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> -= diff;</div>
-<div class="line"><span class="lineno"> 2018</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2005</span>        {</div>
+<div class="line"><span class="lineno"> 2006</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 2007</span>            {</div>
+<div class="line"><span class="lineno"> 2008</span>                <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> = 60000;</div>
+<div class="line"><span class="lineno"> 2009</span>                <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(1ms);</div>
+<div class="line"><span class="lineno"> 2010</span>            }</div>
+<div class="line"><span class="lineno"> 2011</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 2012</span>                <a class="code hl_variable" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html#ad244ccbaeda814b9e56fad93f06f12fe">despawnTimer</a> -= diff;</div>
+<div class="line"><span class="lineno"> 2013</span>        }</div>
 <div class="ttc" id="aclassCreature_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l02002">despawnTimer</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01997">despawnTimer</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -588,7 +588,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01985">npc_ulduar_magnetic_coreAI()</a>, <a class="el" href="../../#l02004">SetData()</a>, and <a class="el" href="../../#l02009">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01980">npc_ulduar_magnetic_coreAI()</a>, <a class="el" href="../../#l01999">SetData()</a>, and <a class="el" href="../../#l02004">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -604,7 +604,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01985">npc_ulduar_magnetic_coreAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01980">npc_ulduar_magnetic_coreAI()</a>.</p>
 
 </div>
 </div>
@@ -617,7 +617,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d92/classnpc__ulduar__magnetic__core.html">npc_ulduar_magnetic_core</a></li><li class="navelem"><a class="el" href="../../de/d2a/structnpc__ulduar__magnetic__core_1_1npc__ulduar__magnetic__coreAI.html">npc_ulduar_magnetic_coreAI</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:24:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

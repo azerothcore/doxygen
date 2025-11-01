@@ -14,10 +14,8 @@ var boss__loatheb_8cpp =
     [ "Spells", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_NECROTIC_AURA", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298cab772eb1076b88dddc73db9d9cf89f0cd", null ],
       [ "SPELL_SUMMON_SPORE", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca9038f4cc50f0a54f2d2459b7693f7926", null ],
-      [ "SPELL_DEATHBLOOM_10", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca83b1013df72ece97c32f2e90660ab7ad", null ],
-      [ "SPELL_DEATHBLOOM_25", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298cac902cb00fb57a0ec019daf580a295bb3", null ],
-      [ "SPELL_INEVITABLE_DOOM_10", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298cab25e8188043ad8a06af1b417237d23ac", null ],
-      [ "SPELL_INEVITABLE_DOOM_25", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca175e48e16db1585fd042dccfbdd961bd", null ],
+      [ "SPELL_DEATHBLOOM", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca95ecacd46588aabd8108dfad886e51f2", null ],
+      [ "SPELL_INEVITABLE_DOOM", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca18455dbfc5454ddc2d6528de7c6960af", null ],
       [ "SPELL_BERSERK", "d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ]
     ] ],
     [ "Texts", "d7/d8f/boss__loatheb_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [

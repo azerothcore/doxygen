@@ -331,16 +331,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2787</span>    {</div>
-<div class="line"><span class="lineno"> 2788</span>        <a class="code hl_variable" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d">_is25Man</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1">Is25ManRaid</a>();</div>
-<div class="line"><span class="lineno"> 2789</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2790</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2777</span>    {</div>
+<div class="line"><span class="lineno"> 2778</span>        <a class="code hl_variable" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d">_is25Man</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1">Is25ManRaid</a>();</div>
+<div class="line"><span class="lineno"> 2779</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2780</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1030</div></div>
 <div class="ttc" id="aclassMap_html_a594813fab209738971cc54b69fff4aa1"><div class="ttname"><a href="../../d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1">Map::Is25ManRaid</a></div><div class="ttdeci">bool Is25ManRaid() const</div><div class="ttdef"><b>Definition</b> Map.h:300</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:621</div></div>
-<div class="ttc" id="aclassspell__the__lich__king__vile__spirits__aura_html_ab7776e2d8eff0de1176d5d5efa853c6d"><div class="ttname"><a href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d">spell_the_lich_king_vile_spirits_aura::_is25Man</a></div><div class="ttdeci">bool _is25Man</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:2804</div></div>
+<div class="ttc" id="aclassspell__the__lich__king__vile__spirits__aura_html_ab7776e2d8eff0de1176d5d5efa853c6d"><div class="ttname"><a href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d">spell_the_lich_king_vile_spirits_aura::_is25Man</a></div><div class="ttdeci">bool _is25Man</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:2794</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02804">_is25Man</a>, <a class="el" href="../../#l00621">WorldObject::GetMap()</a>, <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00300">Map::Is25ManRaid()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02794">_is25Man</a>, <a class="el" href="../../#l00621">WorldObject::GetMap()</a>, <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00300">Map::Is25ManRaid()</a>.</p>
 
 </div>
 </div>
@@ -367,19 +367,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2793</span>    {</div>
-<div class="line"><span class="lineno"> 2794</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d">_is25Man</a> || ((aurEff-&gt;GetTickNumber() - 1) % 5))</div>
-<div class="line"><span class="lineno"> 2795</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;Effects[aurEff-&gt;GetEffIndex()].TriggerSpell, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067">GetCasterGUID</a>());</div>
-<div class="line"><span class="lineno"> 2796</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2783</span>    {</div>
+<div class="line"><span class="lineno"> 2784</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#ab7776e2d8eff0de1176d5d5efa853c6d">_is25Man</a> || ((aurEff-&gt;GetTickNumber() - 1) % 5))</div>
+<div class="line"><span class="lineno"> 2785</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;Effects[aurEff-&gt;GetEffIndex()].TriggerSpell, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067">GetCasterGUID</a>());</div>
+<div class="line"><span class="lineno"> 2786</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1005</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9bb1cb08922b17a40a33fd6d8e8e3067"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067">AuraScript::GetCasterGUID</a></div><div class="ttdeci">ObjectGuid GetCasterGUID() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1015</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:650</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02804">_is25Man</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l01015">AuraScript::GetCasterGUID()</a>, <a class="el" href="../../#l00056">AuraEffect::GetEffIndex()</a>, <a class="el" href="../../#l01005">AuraScript::GetSpellInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02794">_is25Man</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l01015">AuraScript::GetCasterGUID()</a>, <a class="el" href="../../#l00056">AuraEffect::GetEffIndex()</a>, <a class="el" href="../../#l01005">AuraScript::GetSpellInfo()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02798">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02788">Register()</a>.</p>
 
 </div>
 </div>
@@ -433,16 +433,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2799</span>    {</div>
-<div class="line"><span class="lineno"> 2800</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4">spell_the_lich_king_vile_spirits_aura::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 2801</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2789</span>    {</div>
+<div class="line"><span class="lineno"> 2790</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4">spell_the_lich_king_vile_spirits_aura::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 2791</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__the__lich__king__vile__spirits__aura_html_a3e523e0bb23e4aba279ba6704206bfc4"><div class="ttname"><a href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4">spell_the_lich_king_vile_spirits_aura::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:2792</div></div>
+<div class="ttc" id="aclassspell__the__lich__king__vile__spirits__aura_html_a3e523e0bb23e4aba279ba6704206bfc4"><div class="ttname"><a href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html#a3e523e0bb23e4aba279ba6704206bfc4">spell_the_lich_king_vile_spirits_aura::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:2782</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l02792">OnPeriodic()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l02782">OnPeriodic()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -467,7 +467,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02786">Load()</a>, and <a class="el" href="../../#l02792">OnPeriodic()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02776">Load()</a>, and <a class="el" href="../../#l02782">OnPeriodic()</a>.</p>
 
 </div>
 </div>
@@ -480,7 +480,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dd7/classspell__the__lich__king__vile__spirits__aura.html">spell_the_lich_king_vile_spirits_aura</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:25:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

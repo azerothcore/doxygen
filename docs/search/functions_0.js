@@ -113,7 +113,7 @@ var searchData=
   ['_5fisvalidassisttarget_110',['_IsValidAssistTarget',['../df/dd9/classUnit.html#a063342b925eb0e652cd08bb349dd26fc',1,'Unit']]],
   ['_5fisvalidattacktarget_111',['_IsValidAttackTarget',['../df/dd9/classUnit.html#afc27b06cec2419179037868f89114d82',1,'Unit']]],
   ['_5fisvisible_112',['_isVisible',['../db/da4/classPetAI.html#aa297cbcee57b47ade3bec433f8ca0cd3',1,'PetAI']]],
-  ['_5fiswithindist_113',['_iswithindist',['../de/d1c/classGameObject.html#a72636aef2a383b231b82d08f1a1a12e5',1,'GameObject::_IsWithinDist()'],['../d4/dd0/classWorldObject.html#af6cb8a7e049199c45805f2d1297e9900',1,'WorldObject::_IsWithinDist()']]],
+  ['_5fiswithindist_113',['_iswithindist',['../de/d1c/classGameObject.html#a0f827ffb0ffb87f22531cedb8170cf2a',1,'GameObject::_IsWithinDist()'],['../d4/dd0/classWorldObject.html#ab9ac3ba3d456d5a641a8b8bc039ad7bd',1,'WorldObject::_IsWithinDist()']]],
   ['_5fjustdied_114',['_justdied',['../d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae',1,'BossAI::_JustDied()'],['../dc/d76/classWorldBossAI.html#a72e92da9585e41f742ee0ff964340230',1,'WorldBossAI::_JustDied()']]],
   ['_5fjustengagedwith_115',['_justengagedwith',['../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150',1,'BossAI::_JustEngagedWith()'],['../dc/d76/classWorldBossAI.html#a451c933079bd3b887079b15b74c22b5e',1,'WorldBossAI::_JustEngagedWith()']]],
   ['_5fjustreachedhome_116',['_JustReachedHome',['../d3/d24/classBossAI.html#a06738517205eb4c3c8c091d7e3117156',1,'BossAI']]],

@@ -35,8 +35,7 @@ var boss__razuvious_8cpp =
     ] ],
     [ "Spells", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_UNBALANCING_STRIKE", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b09d39dcbcaf3ef92fb024de1440f2a", null ],
-      [ "SPELL_DISRUPTING_SHOUT_10", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298caca3c536cf7ada4b3f780dcdb28d4d3b2", null ],
-      [ "SPELL_DISRUPTING_SHOUT_25", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298cac6af27f7cbb0f5f223d65ff55a9a86fb", null ],
+      [ "SPELL_DISRUPTING_SHOUT", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca71a114ba1872e143a0487be9ab6495d5", null ],
       [ "SPELL_JAGGED_KNIFE", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca235a0027b0c4aea5f9516f8cf998327f", null ],
       [ "SPELL_HOPELESS", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f59134b19776a777bda031d371c938", null ],
       [ "SPELL_TAUNT", "de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318", null ]

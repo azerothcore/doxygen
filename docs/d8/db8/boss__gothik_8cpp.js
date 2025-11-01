@@ -45,8 +45,7 @@ var boss__gothik_8cpp =
     ] ],
     [ "Spells", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_HARVEST_SOUL", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d12574a96ffd925e461a195087083d1", null ],
-      [ "SPELL_SHADOW_BOLT_10", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca742adee1ef252d2434fafda5c19cf625", null ],
-      [ "SPELL_SHADOW_BOLT_25", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cafa6d95f54f2835300be4ea4094b1b319", null ],
+      [ "SPELL_SHADOW_BOLT", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413", null ],
       [ "SPELL_TELEPORT_DEAD", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298caf5fa9b2bba256d34eb3ba9ff853f9bd5", null ],
       [ "SPELL_TELEPORT_LIVE", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298caecea6a39e20090e5d5d013080a31c89f", null ],
       [ "SPELL_ANCHOR_1_TRAINEE", "d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca68c888a2dca87bd7bf101a6ab639260a", null ],

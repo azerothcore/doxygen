@@ -7,14 +7,10 @@ var boss__archavon_8cpp =
       [ "SPELL_ROCK_SHARDS", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907", null ],
       [ "SPELL_ROCK_SHARDS_LEFT_HAND_VISUAL", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7", null ],
       [ "SPELL_ROCK_SHARDS_RIGHT_HAND_VISUAL", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a55fb04232a8d205929af47e45598694b", null ],
-      [ "SPELL_ROCK_SHARDS_DAMAGE_10", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a86e22653a6b84c4dcfc1df2dfd52133a", null ],
-      [ "SPELL_ROCK_SHARDS_DAMAGE_25", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9af1861518bf62b7830a159108cf310f07", null ],
-      [ "SPELL_CRUSHING_LEAP_10", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a25860979d716fd920a8bbe83c6b47e50", null ],
-      [ "SPELL_CRUSHING_LEAP_25", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a43081076ec7d1db8340e265562ade445", null ],
-      [ "SPELL_STOMP_10", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9af8cd99d54ceae1b1a250c4ad585ab79d", null ],
-      [ "SPELL_STOMP_25", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a34c99ceca40c117ebce9f0fe4167334c", null ],
-      [ "SPELL_IMPALE_10", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9aba75bf71c6edb08e61e849a79033bc04", null ],
-      [ "SPELL_IMPALE_25", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ac565bfbde4cd8bf5f38c76981c61dc33", null ],
+      [ "SPELL_ROCK_SHARDS_DAMAGE", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ad3baa965091742e933a218e5e1c78b57", null ],
+      [ "SPELL_CRUSHING_LEAP", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ad8b772c27b40df003c13d4e1eb89b5c5", null ],
+      [ "SPELL_STOMP", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9a0003f01b1bddea1320bae3be9a66073a", null ],
+      [ "SPELL_IMPALE", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9aed97c932510c91b6057175b2df166f63", null ],
       [ "SPELL_BERSERK", "dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9ad7b3e50b45f9949cd0e4030ca19a6b4f", null ]
     ] ],
     [ "Events", "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [

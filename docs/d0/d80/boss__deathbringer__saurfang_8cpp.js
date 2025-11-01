@@ -18,7 +18,6 @@ var boss__deathbringer__saurfang_8cpp =
     [ "achievement_ive_gone_and_made_a_mess", "d0/d30/classachievement__ive__gone__and__made__a__mess.html", "d0/d30/classachievement__ive__gone__and__made__a__mess" ],
     [ "npc_icc_blood_beast", "d6/db7/classnpc__icc__blood__beast.html", "d6/db7/classnpc__icc__blood__beast" ],
     [ "npc_icc_blood_beast::npc_icc_blood_beastAI", "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html", "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI" ],
-    [ "BOILING_BLOOD_HELPER", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a63de9c39e60fb796d33dc49528dd3be2", null ],
     [ "DATA_MADE_A_MESS", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ae9deb9423738c86fd57e356118b0885d", null ],
     [ "FALLEN_CHAMPION_CAST_COUNT", "d0/d80/boss__deathbringer__saurfang_8cpp.html#ae8fdf64af3c1675358ecd4694c2cb732", null ],
     [ "Actions", "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccf", [

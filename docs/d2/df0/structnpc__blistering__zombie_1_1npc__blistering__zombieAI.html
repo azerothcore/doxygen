@@ -564,16 +564,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1021</span>                                                    : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
-<div class="line"><span class="lineno"> 1022</span>        {</div>
-<div class="line"><span class="lineno"> 1023</span>            <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> = 0;</div>
-<div class="line"><span class="lineno"> 1024</span>            <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1025</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1018</span>                                                    : <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno"> 1019</span>        {</div>
+<div class="line"><span class="lineno"> 1020</span>            <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> = 0;</div>
+<div class="line"><span class="lineno"> 1021</span>            <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1022</span>        }</div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:190</div></div>
-<div class="ttc" id="astructnpc__blistering__zombie_1_1npc__blistering__zombieAI_html_a0f70f5d58ef0bb20f64b0aec4df04905"><div class="ttname"><a href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">npc_blistering_zombie::npc_blistering_zombieAI::casted</a></div><div class="ttdeci">bool casted</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1028</div></div>
-<div class="ttc" id="astructnpc__blistering__zombie_1_1npc__blistering__zombieAI_html_a8b865c2a87b1fc020d8250767febab0a"><div class="ttname"><a href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">npc_blistering_zombie::npc_blistering_zombieAI::timer</a></div><div class="ttdeci">uint16 timer</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1027</div></div>
+<div class="ttc" id="astructnpc__blistering__zombie_1_1npc__blistering__zombieAI_html_a0f70f5d58ef0bb20f64b0aec4df04905"><div class="ttname"><a href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">npc_blistering_zombie::npc_blistering_zombieAI::casted</a></div><div class="ttdeci">bool casted</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1025</div></div>
+<div class="ttc" id="astructnpc__blistering__zombie_1_1npc__blistering__zombieAI_html_a8b865c2a87b1fc020d8250767febab0a"><div class="ttname"><a href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">npc_blistering_zombie::npc_blistering_zombieAI::timer</a></div><div class="ttdeci">uint16 timer</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:1024</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01028">casted</a>, and <a class="el" href="../../#l01027">timer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01025">casted</a>, and <a class="el" href="../../#l01024">timer</a>.</p>
 
 </div>
 </div>
@@ -628,22 +628,22 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a> also </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aca924c2f1f249c2dcffaaea0fa35cd91">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1031</span>        {</div>
-<div class="line"><span class="lineno"> 1032</span>            <span class="keywordflow">if</span> (dmg &gt;= <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>())</div>
-<div class="line"><span class="lineno"> 1033</span>            {</div>
-<div class="line"><span class="lineno"> 1034</span>                dmg = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>() - 1;</div>
-<div class="line"><span class="lineno"> 1035</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a>)</div>
-<div class="line"><span class="lineno"> 1036</span>                {</div>
-<div class="line"><span class="lineno"> 1037</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1038</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno"> 1039</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1040</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
-<div class="line"><span class="lineno"> 1041</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a828f4fc42209162a104a10d1f70838d4">SetControlled</a>(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14">UNIT_STATE_ROOT</a>);</div>
-<div class="line"><span class="lineno"> 1042</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea">SPELL_ACID_BURST</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1043</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> = 750;</div>
-<div class="line"><span class="lineno"> 1044</span>                }</div>
-<div class="line"><span class="lineno"> 1045</span>            }</div>
-<div class="line"><span class="lineno"> 1046</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1028</span>        {</div>
+<div class="line"><span class="lineno"> 1029</span>            <span class="keywordflow">if</span> (dmg &gt;= <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>())</div>
+<div class="line"><span class="lineno"> 1030</span>            {</div>
+<div class="line"><span class="lineno"> 1031</span>                dmg = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a958172d6051b106e3b3c776e4f9f3952">GetHealth</a>() - 1;</div>
+<div class="line"><span class="lineno"> 1032</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a>)</div>
+<div class="line"><span class="lineno"> 1033</span>                {</div>
+<div class="line"><span class="lineno"> 1034</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1035</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno"> 1036</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a">Clear</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1037</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MoveIdle</a>();</div>
+<div class="line"><span class="lineno"> 1038</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a828f4fc42209162a104a10d1f70838d4">SetControlled</a>(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14">UNIT_STATE_ROOT</a>);</div>
+<div class="line"><span class="lineno"> 1039</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea">SPELL_ACID_BURST</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1040</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> = 750;</div>
+<div class="line"><span class="lineno"> 1041</span>                }</div>
+<div class="line"><span class="lineno"> 1042</span>            }</div>
+<div class="line"><span class="lineno"> 1043</span>        }</div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14">UNIT_STATE_ROOT</a></div><div class="ttdeci">@ UNIT_STATE_ROOT</div><div class="ttdef"><b>Definition</b> UnitDefines.h:180</div></div>
 <div class="ttc" id="aboss__valithria__dreamwalker_8cpp_html_a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea"><div class="ttname"><a href="../../d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea">SPELL_ACID_BURST</a></div><div class="ttdeci">@ SPELL_ACID_BURST</div><div class="ttdef"><b>Definition</b> boss_valithria_dreamwalker.cpp:91</div></div>
 <div class="ttc" id="aclassMotionMaster_html_ad0697d75ff06afb1247424100c99619f"><div class="ttname"><a href="../../de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f">MotionMaster::MoveIdle</a></div><div class="ttdeci">void MoveIdle()</div><div class="ttdef"><b>Definition</b> MotionMaster.cpp:233</div></div>
@@ -655,7 +655,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01028">casted</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00182">MotionMaster::Clear()</a>, <a class="el" href="../../#l01070">Unit::GetHealth()</a>, <a class="el" href="../../#l01713">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00233">MotionMaster::MoveIdle()</a>, <a class="el" href="../../#l18063">Unit::SetControlled()</a>, <a class="el" href="../../#l00091">SPELL_ACID_BURST</a>, <a class="el" href="../../#l16656">Unit::StopMoving()</a>, <a class="el" href="../../#l01027">timer</a>, and <a class="el" href="../../#l00180">UNIT_STATE_ROOT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01025">casted</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00182">MotionMaster::Clear()</a>, <a class="el" href="../../#l01070">Unit::GetHealth()</a>, <a class="el" href="../../#l01713">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00233">MotionMaster::MoveIdle()</a>, <a class="el" href="../../#l18063">Unit::SetControlled()</a>, <a class="el" href="../../#l00091">SPELL_ACID_BURST</a>, <a class="el" href="../../#l16656">Unit::StopMoving()</a>, <a class="el" href="../../#l01024">timer</a>, and <a class="el" href="../../#l00180">UNIT_STATE_ROOT</a>.</p>
 
 </div>
 </div>
@@ -686,28 +686,28 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1049</span>        {</div>
-<div class="line"><span class="lineno"> 1050</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a>)</div>
-<div class="line"><span class="lineno"> 1051</span>            {</div>
-<div class="line"><span class="lineno"> 1052</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> &lt;= diff)</div>
-<div class="line"><span class="lineno"> 1053</span>                {</div>
-<div class="line"><span class="lineno"> 1054</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> = 0;</div>
-<div class="line"><span class="lineno"> 1055</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686);</div>
-<div class="line"><span class="lineno"> 1056</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
-<div class="line"><span class="lineno"> 1057</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(2s);</div>
-<div class="line"><span class="lineno"> 1058</span>                }</div>
-<div class="line"><span class="lineno"> 1059</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1060</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> -= diff;</div>
-<div class="line"><span class="lineno"> 1061</span>            }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1046</span>        {</div>
+<div class="line"><span class="lineno"> 1047</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a>)</div>
+<div class="line"><span class="lineno"> 1048</span>            {</div>
+<div class="line"><span class="lineno"> 1049</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> &lt;= diff)</div>
+<div class="line"><span class="lineno"> 1050</span>                {</div>
+<div class="line"><span class="lineno"> 1051</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> = 0;</div>
+<div class="line"><span class="lineno"> 1052</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12">SetDisplayId</a>(11686);</div>
+<div class="line"><span class="lineno"> 1053</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno"> 1054</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(2s);</div>
+<div class="line"><span class="lineno"> 1055</span>                }</div>
+<div class="line"><span class="lineno"> 1056</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1057</span>                    <a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a8b865c2a87b1fc020d8250767febab0a">timer</a> -= diff;</div>
+<div class="line"><span class="lineno"> 1058</span>            }</div>
+<div class="line"><span class="lineno"> 1059</span> </div>
+<div class="line"><span class="lineno"> 1060</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a>)</div>
+<div class="line"><span class="lineno"> 1061</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno"> 1062</span> </div>
-<div class="line"><span class="lineno"> 1063</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html#a0f70f5d58ef0bb20f64b0aec4df04905">casted</a>)</div>
+<div class="line"><span class="lineno"> 1063</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
 <div class="line"><span class="lineno"> 1064</span>                <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno"> 1065</span> </div>
-<div class="line"><span class="lineno"> 1066</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno"> 1067</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1068</span> </div>
-<div class="line"><span class="lineno"> 1069</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno"> 1070</span>        }</div>
+<div class="line"><span class="lineno"> 1066</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno"> 1067</span>        }</div>
 <div class="ttc" id="aUnitDefines_8h_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:279</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
 <div class="ttc" id="aclassCreature_html_a52d87121f9f834b7dc32e7ad41308f12"><div class="ttname"><a href="../../db/dd5/classCreature.html#a52d87121f9f834b7dc32e7ad41308f12">Creature::SetDisplayId</a></div><div class="ttdeci">void SetDisplayId(uint32 displayId, float displayScale=1.f) override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3412</div></div>
@@ -715,7 +715,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
 <div class="ttc" id="aclassUnit_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition</b> Unit.h:733</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01028">casted</a>, <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l03412">Creature::SetDisplayId()</a>, <a class="el" href="../../#l00733">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l01027">timer</a>, <a class="el" href="../../#l00279">UNIT_FLAG_NOT_SELECTABLE</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01025">casted</a>, <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l03412">Creature::SetDisplayId()</a>, <a class="el" href="../../#l00733">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l01024">timer</a>, <a class="el" href="../../#l00279">UNIT_FLAG_NOT_SELECTABLE</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -732,7 +732,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01030">DamageTaken()</a>, <a class="el" href="../../#l01021">npc_blistering_zombieAI()</a>, and <a class="el" href="../../#l01048">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01027">DamageTaken()</a>, <a class="el" href="../../#l01018">npc_blistering_zombieAI()</a>, and <a class="el" href="../../#l01045">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -748,7 +748,7 @@ Additional Inherited Members</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01030">DamageTaken()</a>, <a class="el" href="../../#l01021">npc_blistering_zombieAI()</a>, and <a class="el" href="../../#l01048">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01027">DamageTaken()</a>, <a class="el" href="../../#l01018">npc_blistering_zombieAI()</a>, and <a class="el" href="../../#l01045">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -761,7 +761,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d19/classnpc__blistering__zombie.html">npc_blistering_zombie</a></li><li class="navelem"><a class="el" href="../../d2/df0/structnpc__blistering__zombie_1_1npc__blistering__zombieAI.html">npc_blistering_zombieAI</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:24:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

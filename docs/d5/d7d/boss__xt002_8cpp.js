@@ -21,10 +21,6 @@ var boss__xt002_8cpp =
     [ "spell_xt002_searing_light_spawn_life_spark_aura", "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html", "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura" ],
     [ "achievement_xt002_nerf_engineering", "d3/db7/classachievement__xt002__nerf__engineering.html", "d3/db7/classachievement__xt002__nerf__engineering" ],
     [ "achievement_xt002_nerf_gravity_bombs", "da/d4f/classachievement__xt002__nerf__gravity__bombs.html", "da/d4f/classachievement__xt002__nerf__gravity__bombs" ],
-    [ "SPELL_GRAVITY_BOMB", "d5/d7d/boss__xt002_8cpp.html#a086ec9d312f19e3f82007d3646f91489", null ],
-    [ "SPELL_HEARTBREAK", "d5/d7d/boss__xt002_8cpp.html#aba42e9d755a013adbc1302b8bbf61be5", null ],
-    [ "SPELL_SEARING_LIGHT", "d5/d7d/boss__xt002_8cpp.html#aa27e689919ad2c0f8cc0df170e806782", null ],
-    [ "SPELL_SPARK_DAMAGE", "d5/d7d/boss__xt002_8cpp.html#a2b316d29eaae51be30ebda8b3f57d4aa", null ],
     [ "GravityBomb", "d5/d7d/boss__xt002_8cpp.html#a313727b7ebcfa13720d82fc58da6c8b5", [
       [ "SPELL_GRAVITY_BOMB_TRIGGER_10", "d5/d7d/boss__xt002_8cpp.html#a313727b7ebcfa13720d82fc58da6c8b5a79e37f6f33a21262c715de8b3dd98340", null ]
     ] ],
@@ -72,10 +68,8 @@ var boss__xt002_8cpp =
       [ "EVENT_CHECK_ROOM", "d5/d7d/boss__xt002_8cpp.html#adb4bf07fe2aeb51ee57b1c8dfd551d6eac7cf0a152313cee9b201f59252c0e266", null ]
     ] ],
     [ "XT002Spells", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22eff", [
-      [ "SPELL_GRAVITY_BOMB_10", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa2b8b06b7ee33c0e940835c01f42fc29a", null ],
-      [ "SPELL_GRAVITY_BOMB_25", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa33a2f1d0c40209a99514239979fec438", null ],
-      [ "SPELL_SEARING_LIGHT_10", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa1d1de32854823c7ccfa43941611c8dc7", null ],
-      [ "SPELL_SEARING_LIGHT_25", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa95cb50f0059ca915af101ac63d96716c", null ],
+      [ "SPELL_GRAVITY_BOMB", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa35131196239ee76e962860b285eef179", null ],
+      [ "SPELL_SEARING_LIGHT", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa21bf02d44a7a44157b65214e0651740a", null ],
       [ "SPELL_TYMPANIC_TANTARUM", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaf3d7df0a522ccddb9d7d36121881f729", null ],
       [ "SPELL_XT002_ENRAGE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa7dfef92daead5bda11390e2a969cc29a", null ],
       [ "SPELL_ARCING_SMASH", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effabfd4b3a49fefdc02e654db0e63326f1e", null ],
@@ -86,14 +80,11 @@ var boss__xt002_8cpp =
       [ "SPELL_EXPOSED_HEART", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa052fec34b85b279a683c3c100ea8fc14", null ],
       [ "SPELL_ENERGY_ORB", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa46c24f88b64396ed71340b2995675095", null ],
       [ "SPELL_ENERGY_ORB_TRIGGER", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa7d009298421f54b6c7b7743ad856d990", null ],
-      [ "SPELL_HEARTBREAK_10", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaf439d1a153df49bddc28b5598de4a434", null ],
-      [ "SPELL_HEARTBREAK_25", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa9a1080041174d30aa6ebb7d3e78c1228", null ],
-      [ "SPELL_VOID_ZONE_SUMMON_10", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa67b632a1a949925a641d4c8db39b37c2", null ],
-      [ "SPELL_VOID_ZONE_SUMMON_25", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0e089fc3bfd9763f48a917dd29e6bef0", null ],
+      [ "SPELL_HEARTBREAK", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa2c5cae6ab89446bce256165fe6d5eea8", null ],
+      [ "SPELL_VOID_ZONE_SUMMON", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa5362cc659f093dbb07fb1c0745c354f3", null ],
       [ "SPELL_VOID_ZONE_DAMAGE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaaf5806f615ee02674d953db3b41f2d87", null ],
       [ "SPELL_SPARK_SUMMON", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0bb543308f62c622b65d1af4d4d20ac2", null ],
-      [ "SPELL_SPARK_DAMAGE_10", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effab11b6a3af135bf694d9e251f4c34c75f", null ],
-      [ "SPELL_SPARK_DAMAGE_25", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa36184dda8c488651231631d86e7f9a7c", null ],
+      [ "SPELL_SPARK_DAMAGE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa217ee3d1abd502c13f73be7708bfba67", null ],
       [ "SPELL_SPARK_MELEE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaaf26ac95a8c2ff3a8373011e03499e50", null ]
     ] ],
     [ "AddSC_boss_xt002", "d5/d7d/boss__xt002_8cpp.html#aed7fa48bca193a9a68b2e3104622ec28", null ]

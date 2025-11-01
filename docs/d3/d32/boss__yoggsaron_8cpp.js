@@ -56,9 +56,6 @@ var boss__yoggsaron_8cpp =
     [ "achievement_yogg_saron_darkness", "da/d0d/classachievement__yogg__saron__darkness.html", "da/d0d/classachievement__yogg__saron__darkness" ],
     [ "achievement_yogg_saron_he_waits_dreaming", "da/d5b/classachievement__yogg__saron__he__waits__dreaming.html", "da/d5b/classachievement__yogg__saron__he__waits__dreaming" ],
     [ "achievement_yogg_saron_kiss_and_make_up", "d7/d31/classachievement__yogg__saron__kiss__and__make__up.html", "d7/d31/classachievement__yogg__saron__kiss__and__make__up" ],
-    [ "SPELL_DRAIN_LIFE", "d3/d32/boss__yoggsaron_8cpp.html#a3cd9c688ac820d203862bd5673777d98", null ],
-    [ "SPELL_PSYCHOSIS", "d3/d32/boss__yoggsaron_8cpp.html#acab252ff6c4b3c3b94a9f08c22856114", null ],
-    [ "SPELL_SQUEEZE", "d3/d32/boss__yoggsaron_8cpp.html#ac0e97be236e763481f6e4352c2c0946b", null ],
     [ "EmpoweringShadows", "d3/d32/boss__yoggsaron_8cpp.html#ab6efabd323d1bd6ad52185a6c7936a50", [
       [ "SPELL_EMPOWERING_SHADOWS_HEAL_10", "d3/d32/boss__yoggsaron_8cpp.html#ab6efabd323d1bd6ad52185a6c7936a50a4de8da62ae7657d21e259e9bc1658259", null ],
       [ "SPELL_EMPOWERING_SHADOWS_HEAL_25", "d3/d32/boss__yoggsaron_8cpp.html#ab6efabd323d1bd6ad52185a6c7936a50a3bd4848422c18cdef6ad955b0938f622", null ]
@@ -252,8 +249,7 @@ var boss__yoggsaron_8cpp =
       [ "SPELL_DIMINISH_POWER", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08afbff7fd22a872347e240e81385a98c61", null ],
       [ "SPELL_FOCUSED_ANGER", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a64d1d9d41d80444bb397d4858a5d88b8", null ],
       [ "SPELL_LUNGE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a34750416371c3cfbb458703657b7a711", null ],
-      [ "SPELL_SQUEEZE_10", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3cc23be886cff64ab8decc9cc9b372d7", null ],
-      [ "SPELL_SQUEEZE_25", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af9e11e585e28ecc23e36c5c5c142b555", null ],
+      [ "SPELL_SQUEEZE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8746dea57df6d92475123fed0ad2a23e", null ],
       [ "SPELL_APATHY", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8c43942afa45ca4dc86220f95fcaf973", null ],
       [ "SPELL_BLACK_PLAGUE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ab18dd869b6e0b5fc1803d8d5ddfaf50a", null ],
       [ "SPELL_CURSE_OF_DOOM", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a80cc924a8f81b72364f0751488c4a6c7", null ],
@@ -278,8 +274,7 @@ var boss__yoggsaron_8cpp =
       [ "SPELL_SIMPLE_TELEPORT", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a58ded91cb3c92499be38f0586eb20db8", null ],
       [ "SPELL_EMPOWERED", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a323c6d3bcaaba09e5dae997863c9ded3", null ],
       [ "SPELL_EMPOWERED_PASSIVE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08afca389d1b532e647a6ce58a0e5d09a03", null ],
-      [ "SPELL_DRAIN_LIFE_10", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aa94c39eafd5c9a9fed21a922e1682a91", null ],
-      [ "SPELL_DRAIN_LIFE_25", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a04722dbb87ba5efd1d5ec0362e6b9821", null ],
+      [ "SPELL_DRAIN_LIFE", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af9dde7a188d35d2ff6c520391261e2f6", null ],
       [ "SPELL_RECENTLY_SPAWNED", "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8743fced78474c945d4d5b6cfd08137a", null ]
     ] ],
     [ "AddSC_boss_yoggsaron", "d3/d32/boss__yoggsaron_8cpp.html#a1d921e98e5be4d4d399cc5b1401c5d10", null ],

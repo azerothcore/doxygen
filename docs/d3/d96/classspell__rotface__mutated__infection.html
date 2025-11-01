@@ -324,29 +324,29 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  520</span>    {</div>
-<div class="line"><span class="lineno">  521</span>        <span class="comment">// remove targets with this aura already</span></div>
-<div class="line"><span class="lineno">  522</span>        <span class="comment">// tank is not on this list</span></div>
-<div class="line"><span class="lineno">  523</span>        targets.remove_if(<a class="code hl_class" href="../../d1/d17/classAcore_1_1UnitAuraCheck.html">Acore::UnitAuraCheck</a>(<span class="keyword">true</span>, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id));</div>
-<div class="line"><span class="lineno">  524</span>        targets.remove(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetVictim());</div>
-<div class="line"><span class="lineno">  525</span>        <span class="keywordflow">if</span> (targets.empty())</div>
-<div class="line"><span class="lineno">  526</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  527</span> </div>
-<div class="line"><span class="lineno">  528</span>        <a class="code hl_class" href="../../d4/dd0/classWorldObject.html">WorldObject</a>* target = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(targets);</div>
-<div class="line"><span class="lineno">  529</span>        targets.clear();</div>
-<div class="line"><span class="lineno">  530</span>        targets.push_back(target);</div>
-<div class="line"><span class="lineno">  531</span>        <a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a> = target;</div>
-<div class="line"><span class="lineno">  532</span>    }</div>
-<div class="ttc" id="aclassAcore_1_1UnitAuraCheck_html"><div class="ttname"><a href="../../d1/d17/classAcore_1_1UnitAuraCheck.html">Acore::UnitAuraCheck</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1658</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  518</span>    {</div>
+<div class="line"><span class="lineno">  519</span>        <span class="comment">// remove targets with this aura already</span></div>
+<div class="line"><span class="lineno">  520</span>        <span class="comment">// tank is not on this list</span></div>
+<div class="line"><span class="lineno">  521</span>        targets.remove_if(<a class="code hl_class" href="../../d1/d17/classAcore_1_1UnitAuraCheck.html">Acore::UnitAuraCheck</a>(<span class="keyword">true</span>, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id));</div>
+<div class="line"><span class="lineno">  522</span>        targets.remove(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetVictim());</div>
+<div class="line"><span class="lineno">  523</span>        <span class="keywordflow">if</span> (targets.empty())</div>
+<div class="line"><span class="lineno">  524</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  525</span> </div>
+<div class="line"><span class="lineno">  526</span>        <a class="code hl_class" href="../../d4/dd0/classWorldObject.html">WorldObject</a>* target = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(targets);</div>
+<div class="line"><span class="lineno">  527</span>        targets.clear();</div>
+<div class="line"><span class="lineno">  528</span>        targets.push_back(target);</div>
+<div class="line"><span class="lineno">  529</span>        <a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a> = target;</div>
+<div class="line"><span class="lineno">  530</span>    }</div>
+<div class="ttc" id="aclassAcore_1_1UnitAuraCheck_html"><div class="ttname"><a href="../../d1/d17/classAcore_1_1UnitAuraCheck.html">Acore::UnitAuraCheck</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1657</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3fa31d3b29c52993d3561fad3cd12af3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">SpellScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:411</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassWorldObject_html"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html">WorldObject</a></div><div class="ttdef"><b>Definition</b> Object.h:472</div></div>
-<div class="ttc" id="aclassspell__rotface__mutated__infection_html_a10c85fd3909e56f457d73add8021c0b7"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">spell_rotface_mutated_infection::_target</a></div><div class="ttdeci">WorldObject * _target</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:557</div></div>
+<div class="ttc" id="aclassspell__rotface__mutated__infection_html_a10c85fd3909e56f457d73add8021c0b7"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">spell_rotface_mutated_infection::_target</a></div><div class="ttdeci">WorldObject * _target</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:555</div></div>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a8ca673d18562735d4ed20a11519b3d46"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a></div><div class="ttdeci">auto SelectRandomContainerElement(C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</div><div class="ttdef"><b>Definition</b> Containers.h:133</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00557">_target</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, and <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_target</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, and <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00548">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00546">Register()</a>.</p>
 
 </div>
 </div>
@@ -374,12 +374,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  514</span>    {</div>
-<div class="line"><span class="lineno">  515</span>        <a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  517</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  512</span>    {</div>
+<div class="line"><span class="lineno">  513</span>        <a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  514</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  515</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00557">_target</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_target</a>.</p>
 
 </div>
 </div>
@@ -405,11 +405,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  542</span>    {</div>
-<div class="line"><span class="lineno">  543</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToCreature())</div>
-<div class="line"><span class="lineno">  544</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  545</span>                caster-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d7/d2b/boss__rotface_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a02da6af9d47e85b3bc84386186c16328">EMOTE_MUTATED_INFECTION</a>, target);</div>
-<div class="line"><span class="lineno">  546</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  540</span>    {</div>
+<div class="line"><span class="lineno">  541</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToCreature())</div>
+<div class="line"><span class="lineno">  542</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  543</span>                caster-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../d7/d2b/boss__rotface_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a02da6af9d47e85b3bc84386186c16328">EMOTE_MUTATED_INFECTION</a>, target);</div>
+<div class="line"><span class="lineno">  544</span>    }</div>
 <div class="ttc" id="aboss__rotface_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a02da6af9d47e85b3bc84386186c16328"><div class="ttname"><a href="../../d7/d2b/boss__rotface_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a02da6af9d47e85b3bc84386186c16328">EMOTE_MUTATED_INFECTION</a></div><div class="ttdeci">@ EMOTE_MUTATED_INFECTION</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:37</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
@@ -417,7 +417,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00037">EMOTE_MUTATED_INFECTION</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00548">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00546">Register()</a>.</p>
 
 </div>
 </div>
@@ -471,12 +471,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  549</span>    {</div>
-<div class="line"><span class="lineno">  550</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179">spell_rotface_mutated_infection::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  551</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03">spell_rotface_mutated_infection::ReplaceTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  552</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03">spell_rotface_mutated_infection::ReplaceTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  553</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730">spell_rotface_mutated_infection::NotifyTargets</a>);</div>
-<div class="line"><span class="lineno">  554</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  547</span>    {</div>
+<div class="line"><span class="lineno">  548</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179">spell_rotface_mutated_infection::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  549</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03">spell_rotface_mutated_infection::ReplaceTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  550</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03">spell_rotface_mutated_infection::ReplaceTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  551</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730">spell_rotface_mutated_infection::NotifyTargets</a>);</div>
+<div class="line"><span class="lineno">  552</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
@@ -485,11 +485,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3362c737af695ae44f841bf3c94003af"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">SpellScript::AfterHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; AfterHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:347</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__rotface__mutated__infection_html_a5d3df9715d04ea4b663b061c7c02ae03"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03">spell_rotface_mutated_infection::ReplaceTargets</a></div><div class="ttdeci">void ReplaceTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:534</div></div>
-<div class="ttc" id="aclassspell__rotface__mutated__infection_html_a618e98fbd5c6ae21047cc4f911099730"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730">spell_rotface_mutated_infection::NotifyTargets</a></div><div class="ttdeci">void NotifyTargets()</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:541</div></div>
-<div class="ttc" id="aclassspell__rotface__mutated__infection_html_aefba5226671b6217549bd34059519179"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179">spell_rotface_mutated_infection::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:519</div></div>
+<div class="ttc" id="aclassspell__rotface__mutated__infection_html_a5d3df9715d04ea4b663b061c7c02ae03"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03">spell_rotface_mutated_infection::ReplaceTargets</a></div><div class="ttdeci">void ReplaceTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:532</div></div>
+<div class="ttc" id="aclassspell__rotface__mutated__infection_html_a618e98fbd5c6ae21047cc4f911099730"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730">spell_rotface_mutated_infection::NotifyTargets</a></div><div class="ttdeci">void NotifyTargets()</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:539</div></div>
+<div class="ttc" id="aclassspell__rotface__mutated__infection_html_aefba5226671b6217549bd34059519179"><div class="ttname"><a href="../../d3/d96/classspell__rotface__mutated__infection.html#aefba5226671b6217549bd34059519179">spell_rotface_mutated_infection::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_rotface.cpp:517</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00519">FilterTargets()</a>, <a class="el" href="../../#l00541">NotifyTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00534">ReplaceTargets()</a>, <a class="el" href="../../#l00349">SpellHitFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00517">FilterTargets()</a>, <a class="el" href="../../#l00539">NotifyTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00532">ReplaceTargets()</a>, <a class="el" href="../../#l00349">SpellHitFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -516,15 +516,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  535</span>    {</div>
-<div class="line"><span class="lineno">  536</span>        targets.clear();</div>
-<div class="line"><span class="lineno">  537</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a>)</div>
-<div class="line"><span class="lineno">  538</span>            targets.push_back(<a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a>);</div>
-<div class="line"><span class="lineno">  539</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  533</span>    {</div>
+<div class="line"><span class="lineno">  534</span>        targets.clear();</div>
+<div class="line"><span class="lineno">  535</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a>)</div>
+<div class="line"><span class="lineno">  536</span>            targets.push_back(<a class="code hl_variable" href="../../d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7">_target</a>);</div>
+<div class="line"><span class="lineno">  537</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00557">_target</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00555">_target</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00548">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00546">Register()</a>.</p>
 
 </div>
 </div>
@@ -549,7 +549,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00519">FilterTargets()</a>, <a class="el" href="../../#l00513">Load()</a>, and <a class="el" href="../../#l00534">ReplaceTargets()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00517">FilterTargets()</a>, <a class="el" href="../../#l00511">Load()</a>, and <a class="el" href="../../#l00532">ReplaceTargets()</a>.</p>
 
 </div>
 </div>
@@ -562,7 +562,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d96/classspell__rotface__mutated__infection.html">spell_rotface_mutated_infection</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:25:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

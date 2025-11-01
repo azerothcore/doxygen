@@ -13,8 +13,7 @@ var boss__faerlina_8cpp =
       [ "SPELL_POISON_BOLT_VOLLEY", "d5/dab/boss__faerlina_8cpp.html#a5bd342133be8c2137b831460acc9298cafc05cb6af863043f64406e1d5d30df5f", null ],
       [ "SPELL_RAIN_OF_FIRE", "d5/dab/boss__faerlina_8cpp.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_FRENZY", "d5/dab/boss__faerlina_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ],
-      [ "SPELL_WIDOWS_EMBRACE", "d5/dab/boss__faerlina_8cpp.html#a5bd342133be8c2137b831460acc9298cace43cf220a82dcb943bbfdf1e7898a7e", null ],
-      [ "SPELL_MINION_WIDOWS_EMBRACE", "d5/dab/boss__faerlina_8cpp.html#a5bd342133be8c2137b831460acc9298ca55438e721a7e9aafba7fd26a388d6afe", null ]
+      [ "SPELL_WIDOWS_EMBRACE", "d5/dab/boss__faerlina_8cpp.html#a5bd342133be8c2137b831460acc9298cace43cf220a82dcb943bbfdf1e7898a7e", null ]
     ] ],
     [ "Yells", "d5/dab/boss__faerlina_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_GREET", "d5/dab/boss__faerlina_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a78569ce7a1386704a7b7389d30d62d8e", null ],

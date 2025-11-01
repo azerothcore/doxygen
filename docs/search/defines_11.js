@@ -64,12 +64,10 @@ var searchData=
   ['registerutgardekeepcreatureai_61',['RegisterUtgardeKeepCreatureAI',['../d1/dbc/utgarde__keep_8h.html#a960a375dc6655df45bd889a1b1487dcc',1,'utgarde_keep.h']]],
   ['registerzulamancreatureai_62',['RegisterZulAmanCreatureAI',['../d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64',1,'zulaman.h']]],
   ['registerzulgurubcreatureai_63',['RegisterZulGurubCreatureAI',['../dc/df0/zulgurub_8h.html#a666df3882df1d8adf7c3cc6b813c6993',1,'zulgurub.h']]],
-  ['remorseless_5fwinter_5f1_64',['REMORSELESS_WINTER_1',['../da/d78/boss__the__lich__king_8cpp.html#a162ddd97a9a23a54bed6474cabb8bd56',1,'boss_the_lich_king.cpp']]],
-  ['remorseless_5fwinter_5f2_65',['REMORSELESS_WINTER_2',['../da/d78/boss__the__lich__king_8cpp.html#a29de7f9f872b6f2f28df55091bb83e5e',1,'boss_the_lich_king.cpp']]],
-  ['remove_5fviolating_5fflags_66',['REMOVE_VIOLATING_FLAGS',['../d6/da7/WorldSession_8cpp.html#a9d7c4eaedbb2a06f275a5f59222bc747',1,'WorldSession.cpp']]],
-  ['req_5fchain_5fcount_67',['REQ_CHAIN_COUNT',['../dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82',1,'boss_razorscale.cpp']]],
-  ['restoration_5fbuff_5frespawn_5ftime_68',['RESTORATION_BUFF_RESPAWN_TIME',['../d3/dcf/Battleground_8h.html#a8490df1aad5b5ff221deb3de9af2cece',1,'Battleground.h']]],
-  ['resurrection_5finterval_69',['RESURRECTION_INTERVAL',['../d3/dcf/Battleground_8h.html#adb41516553b1ea3899d5aaabe7151aab',1,'Battleground.h']]],
-  ['rubysanctumscriptname_70',['RubySanctumScriptName',['../db/dd6/ruby__sanctum_8h.html#a431c4d3501dcbb28807f6d04208713cf',1,'ruby_sanctum.h']]],
-  ['ruinsofahnqirajscriptname_71',['RuinsOfAhnQirajScriptName',['../d4/d01/ruins__of__ahnqiraj_8h.html#a4b58669c89c6e31a96bed4ead9b3e5aa',1,'ruins_of_ahnqiraj.h']]]
+  ['remove_5fviolating_5fflags_64',['REMOVE_VIOLATING_FLAGS',['../d6/da7/WorldSession_8cpp.html#a9d7c4eaedbb2a06f275a5f59222bc747',1,'WorldSession.cpp']]],
+  ['req_5fchain_5fcount_65',['REQ_CHAIN_COUNT',['../dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82',1,'boss_razorscale.cpp']]],
+  ['restoration_5fbuff_5frespawn_5ftime_66',['RESTORATION_BUFF_RESPAWN_TIME',['../d3/dcf/Battleground_8h.html#a8490df1aad5b5ff221deb3de9af2cece',1,'Battleground.h']]],
+  ['resurrection_5finterval_67',['RESURRECTION_INTERVAL',['../d3/dcf/Battleground_8h.html#adb41516553b1ea3899d5aaabe7151aab',1,'Battleground.h']]],
+  ['rubysanctumscriptname_68',['RubySanctumScriptName',['../db/dd6/ruby__sanctum_8h.html#a431c4d3501dcbb28807f6d04208713cf',1,'ruby_sanctum.h']]],
+  ['ruinsofahnqirajscriptname_69',['RuinsOfAhnQirajScriptName',['../d4/d01/ruins__of__ahnqiraj_8h.html#a4b58669c89c6e31a96bed4ead9b3e5aa',1,'ruins_of_ahnqiraj.h']]]
 ];

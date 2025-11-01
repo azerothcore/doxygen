@@ -23,10 +23,8 @@ var boss__emalon_8cpp =
       [ "SPELL_OVERCHARGED_BLAST", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298ca27d401e013054ddf7072643a7d82ea65", null ],
       [ "SPELL_OVERCHARGE", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298caee9fa94d8888dc3a9fee419d2c790da1", null ],
       [ "SPELL_BERSERK", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
-      [ "SPELL_CHAIN_LIGHTNING_10", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298cabeab6dc28c3fe12495179de68394c2ea", null ],
-      [ "SPELL_CHAIN_LIGHTNING_25", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298ca528807bdc70f6354672e25e327dc140e", null ],
-      [ "SPELL_LIGHTNING_NOVA_10", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298ca9b67b4abf14b587010b3d0f76ad74f24", null ],
-      [ "SPELL_LIGHTNING_NOVA_25", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298ca78ef2361f3190d5bfcbf2311f9fa2f33", null ]
+      [ "SPELL_CHAIN_LIGHTNING", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_LIGHTNING_NOVA", "d8/d65/boss__emalon_8cpp.html#a5bd342133be8c2137b831460acc9298caac47796ae5355ebf558988c4c62b8e28", null ]
     ] ],
     [ "AddSC_boss_emalon", "d8/d65/boss__emalon_8cpp.html#a9f3e8d9c94e96fbc8b34e31b7dc36d2f", null ],
     [ "TempestMinions", "d8/d65/boss__emalon_8cpp.html#aafa35d9805b997859cde4b169584554b", null ]

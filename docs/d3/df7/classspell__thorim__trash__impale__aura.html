@@ -324,17 +324,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1769</span>    {</div>
-<div class="line"><span class="lineno"> 1770</span>        <span class="comment">// deals damage until target is healed above 90%</span></div>
-<div class="line"><span class="lineno"> 1771</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;HealthAbovePct(90))</div>
-<div class="line"><span class="lineno"> 1772</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a7087cacdb741a109d53fb82c06ff1cef">SetDuration</a>(0);</div>
-<div class="line"><span class="lineno"> 1773</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1742</span>    {</div>
+<div class="line"><span class="lineno"> 1743</span>        <span class="comment">// deals damage until target is healed above 90%</span></div>
+<div class="line"><span class="lineno"> 1744</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;HealthAbovePct(90))</div>
+<div class="line"><span class="lineno"> 1745</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a7087cacdb741a109d53fb82c06ff1cef">SetDuration</a>(0);</div>
+<div class="line"><span class="lineno"> 1746</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a7087cacdb741a109d53fb82c06ff1cef"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a7087cacdb741a109d53fb82c06ff1cef">AuraScript::SetDuration</a></div><div class="ttdeci">void SetDuration(int32 duration, bool withMods=false)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1060</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1030</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01030">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l01060">AuraScript::SetDuration()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01775">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01748">Register()</a>.</p>
 
 </div>
 </div>
@@ -388,16 +388,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1776</span>    {</div>
-<div class="line"><span class="lineno"> 1777</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d3/df7/classspell__thorim__trash__impale__aura.html#a5247db3b621d1d499b9e22e16c7a951a">spell_thorim_trash_impale_aura::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
-<div class="line"><span class="lineno"> 1778</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1749</span>    {</div>
+<div class="line"><span class="lineno"> 1750</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d3/df7/classspell__thorim__trash__impale__aura.html#a5247db3b621d1d499b9e22e16c7a951a">spell_thorim_trash_impale_aura::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
+<div class="line"><span class="lineno"> 1751</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DAMAGE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:66</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__thorim__trash__impale__aura_html_a5247db3b621d1d499b9e22e16c7a951a"><div class="ttname"><a href="../../d3/df7/classspell__thorim__trash__impale__aura.html#a5247db3b621d1d499b9e22e16c7a951a">spell_thorim_trash_impale_aura::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> boss_thorim.cpp:1768</div></div>
+<div class="ttc" id="aclassspell__thorim__trash__impale__aura_html_a5247db3b621d1d499b9e22e16c7a951a"><div class="ttname"><a href="../../d3/df7/classspell__thorim__trash__impale__aura.html#a5247db3b621d1d499b9e22e16c7a951a">spell_thorim_trash_impale_aura::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> boss_thorim.cpp:1741</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l01768">OnPeriodic()</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l01741">OnPeriodic()</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -410,7 +410,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/df7/classspell__thorim__trash__impale__aura.html">spell_thorim_trash_impale_aura</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:25:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

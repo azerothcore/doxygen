@@ -5,12 +5,11 @@ var boss__festergut_8cpp =
     [ "spell_festergut_pungent_blight", "d6/df4/classspell__festergut__pungent__blight.html", "d6/df4/classspell__festergut__pungent__blight" ],
     [ "spell_festergut_blighted_spores_aura", "d1/dda/classspell__festergut__blighted__spores__aura.html", "d1/dda/classspell__festergut__blighted__spores__aura" ],
     [ "spell_festergut_gastric_bloat", "d5/d2e/classspell__festergut__gastric__bloat.html", "d5/d2e/classspell__festergut__gastric__bloat" ],
+    [ "spell_festergut_gaseous_blight", "dc/db5/classspell__festergut__gaseous__blight.html", "dc/db5/classspell__festergut__gaseous__blight" ],
     [ "achievement_flu_shot_shortage", "d0/d7a/classachievement__flu__shot__shortage.html", "d0/d7a/classachievement__flu__shot__shortage" ],
     [ "npc_stinky_icc", "dc/d9f/classnpc__stinky__icc.html", "dc/d9f/classnpc__stinky__icc" ],
     [ "npc_stinky_icc::npc_stinky_iccAI", "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI.html", "dd/d58/structnpc__stinky__icc_1_1npc__stinky__iccAI" ],
     [ "DATA_INOCULATED_STACK", "d1/d78/boss__festergut_8cpp.html#a4c63550ddce95e903059115c58318cb5", null ],
-    [ "INOCULATED_HELPER", "d1/d78/boss__festergut_8cpp.html#a2d47852dfe3c4764714970ae4caa3481", null ],
-    [ "PUNGENT_BLIGHT_HELPER", "d1/d78/boss__festergut_8cpp.html#a47b252b752928e101366fd9db838c998", null ],
     [ "Events", "d1/d78/boss__festergut_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_NONE", "d1/d78/boss__festergut_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_BERSERK", "d1/d78/boss__festergut_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266", null ],

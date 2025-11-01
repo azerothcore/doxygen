@@ -25,14 +25,11 @@ var boss__sapphiron_8cpp =
       [ "POINT_CENTER", "dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35c48d5f51bc05447105b2cfb112e69f", null ]
     ] ],
     [ "Spells", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
-      [ "SPELL_FROST_AURA_10", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca492a1947943bd9ff583db8f536f9b3de", null ],
-      [ "SPELL_FROST_AURA_25", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cbc39ecd730d874aeb994a86461cd2a", null ],
+      [ "SPELL_FROST_AURA", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca94af90d481ba6a9906682cba6e9d696b", null ],
       [ "SPELL_CLEAVE", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_TAIL_SWEEP_10", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ebf40fe58c052a4c2dfe69ad8b98aee", null ],
-      [ "SPELL_TAIL_SWEEP_25", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf1bce68d7f9217b4d5c96b6b7850e3f8", null ],
+      [ "SPELL_TAIL_SWEEP", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caddcb3daa6cdc61ef04c65580e44ef823", null ],
       [ "SPELL_SUMMON_BLIZZARD", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cac82d546d00dd6af58e94f9bbf0f6fad4", null ],
-      [ "SPELL_LIFE_DRAIN_10", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caf8e17f55745f1a3b78a47a8ee1264ad2", null ],
-      [ "SPELL_LIFE_DRAIN_25", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cafc1e420bbd6ed8b8cb100622bb12d474", null ],
+      [ "SPELL_LIFE_DRAIN", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca860e87a9f9300d72e514a6290791f443", null ],
       [ "SPELL_BERSERK", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
       [ "SPELL_ICEBOLT_CAST", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298caa3d23300dbc2574a11981b6aac1ddf51", null ],
       [ "SPELL_ICEBOLT_TRIGGER", "dc/d49/boss__sapphiron_8cpp.html#a5bd342133be8c2137b831460acc9298ca0da708c83d8321142ad79ababb74393c", null ],

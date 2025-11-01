@@ -35,8 +35,6 @@ var boss__valithria__dreamwalker_8cpp =
     [ "spell_dreamwalker_summon_suppresser_effect", "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html", "d4/df1/classspell__dreamwalker__summon__suppresser__effect" ],
     [ "spell_valithria_suppression_aura", "dd/d06/classspell__valithria__suppression__aura.html", "dd/d06/classspell__valithria__suppression__aura" ],
     [ "achievement_portal_jockey", "dc/d51/classachievement__portal__jockey.html", "dc/d51/classachievement__portal__jockey" ],
-    [ "EMERALD_VIGOR", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a0da6c5729296c905c0ee0dad01e671a0", null ],
-    [ "SUMMON_PORTAL", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a9fc4346300eed8d695ed722582742471", null ],
     [ "Actions", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_ENTER_COMBAT", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998", null ],
       [ "MISSED_PORTALS", "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c", null ],

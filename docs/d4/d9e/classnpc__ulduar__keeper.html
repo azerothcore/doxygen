@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_ulduar_keeper_gossip&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>: <a class="code hl_class" href="../../df/dc9/classCreatureScript.html">CreatureScript</a>(<span class="stringliteral">&quot;npc_ulduar_keeper_gossip&quot;</span>) { }</div>
 <div class="ttc" id="aclassCreatureScript_html"><div class="ttname"><a href="../../df/dc9/classCreatureScript.html">CreatureScript</a></div><div class="ttdef"><b>Definition</b> CreatureScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -239,9 +239,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  148</span>    {</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">return</span> GetUlduarAI&lt;npc_ulduar_keeperAI&gt;(creature);</div>
-<div class="line"><span class="lineno">  150</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span> GetUlduarAI&lt;npc_ulduar_keeperAI&gt;(creature);</div>
+<div class="line"><span class="lineno">  154</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -280,33 +280,33 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a6268b132444845302ada504f48629a4f">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  153</span>    {</div>
-<div class="line"><span class="lineno">  154</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipMenuId = 0;</div>
-<div class="line"><span class="lineno">  155</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipTextId = 0;</div>
-<div class="line"><span class="lineno">  156</span>        <span class="keywordflow">switch</span> (creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
-<div class="line"><span class="lineno">  157</span>        {</div>
-<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a104b5ed6f71268cfbecf2c66b9e88b28">NPC_FREYA_GOSSIP</a>:</div>
-<div class="line"><span class="lineno">  159</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033">GOSSIP_MENU_FREYA</a>;</div>
-<div class="line"><span class="lineno">  160</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741">NPC_TEXT_FREYA</a>;</div>
-<div class="line"><span class="lineno">  161</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  162</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2acfe692dd0beadf9227ca35625952e86e">NPC_HODIR_GOSSIP</a>:</div>
-<div class="line"><span class="lineno">  163</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17">GOSSIP_MENU_HODIR</a>;</div>
-<div class="line"><span class="lineno">  164</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383">NPC_TEXT_HODIR</a>;</div>
+<div class="fragment"><div class="line"><span class="lineno">  157</span>    {</div>
+<div class="line"><span class="lineno">  158</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipMenuId = 0;</div>
+<div class="line"><span class="lineno">  159</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gossipTextId = 0;</div>
+<div class="line"><span class="lineno">  160</span>        <span class="keywordflow">switch</span> (creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>())</div>
+<div class="line"><span class="lineno">  161</span>        {</div>
+<div class="line"><span class="lineno">  162</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a104b5ed6f71268cfbecf2c66b9e88b28">NPC_FREYA_GOSSIP</a>:</div>
+<div class="line"><span class="lineno">  163</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033">GOSSIP_MENU_FREYA</a>;</div>
+<div class="line"><span class="lineno">  164</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741">NPC_TEXT_FREYA</a>;</div>
 <div class="line"><span class="lineno">  165</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c07284b8e520cab400aade9551a153a">NPC_MIMIRON_GOSSIP</a>:</div>
-<div class="line"><span class="lineno">  167</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b">GOSSIP_MENU_MIMIRON</a>;</div>
-<div class="line"><span class="lineno">  168</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac">NPC_TEXT_MIMIRON</a>;</div>
+<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2acfe692dd0beadf9227ca35625952e86e">NPC_HODIR_GOSSIP</a>:</div>
+<div class="line"><span class="lineno">  167</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17">GOSSIP_MENU_HODIR</a>;</div>
+<div class="line"><span class="lineno">  168</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383">NPC_TEXT_HODIR</a>;</div>
 <div class="line"><span class="lineno">  169</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  170</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a07d06d50bd4c932b11dc4dba4d75af71">NPC_THORIM_GOSSIP</a>:</div>
-<div class="line"><span class="lineno">  171</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9">GOSSIP_MENU_THORIM</a>;</div>
-<div class="line"><span class="lineno">  172</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28">NPC_TEXT_THORIM</a>;</div>
+<div class="line"><span class="lineno">  170</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5c07284b8e520cab400aade9551a153a">NPC_MIMIRON_GOSSIP</a>:</div>
+<div class="line"><span class="lineno">  171</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b">GOSSIP_MENU_MIMIRON</a>;</div>
+<div class="line"><span class="lineno">  172</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac">NPC_TEXT_MIMIRON</a>;</div>
 <div class="line"><span class="lineno">  173</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  174</span>        }</div>
-<div class="line"><span class="lineno">  175</span> </div>
-<div class="line"><span class="lineno">  176</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a>(player, gossipMenuId, 0, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452">GOSSIP_SENDER_MAIN</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1);</div>
-<div class="line"><span class="lineno">  177</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a>(player, gossipTextId, creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  178</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  179</span>    }</div>
+<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a07d06d50bd4c932b11dc4dba4d75af71">NPC_THORIM_GOSSIP</a>:</div>
+<div class="line"><span class="lineno">  175</span>                gossipMenuId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9">GOSSIP_MENU_THORIM</a>;</div>
+<div class="line"><span class="lineno">  176</span>                gossipTextId = <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28">NPC_TEXT_THORIM</a>;</div>
+<div class="line"><span class="lineno">  177</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  178</span>        }</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a>(player, gossipMenuId, 0, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452">GOSSIP_SENDER_MAIN</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 1);</div>
+<div class="line"><span class="lineno">  181</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a>(player, gossipTextId, creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  183</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_a1d54254ae4ddb1bb0e9e2c74dffe5bf5"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a></div><div class="ttdeci">void AddGossipItemFor(Player *player, uint32 icon, std::string const &amp;text, uint32 sender, uint32 action)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:28</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_ab43ecd551b53630add88fbf882236f78"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a></div><div class="ttdeci">void SendGossipMenuFor(Player *player, uint32 npcTextID, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:45</div></div>
@@ -378,26 +378,26 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667">CreatureScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  182</span>    {</div>
-<div class="line"><span class="lineno">  183</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a>(player);</div>
-<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">switch</span> (action)</div>
-<div class="line"><span class="lineno">  185</span>        {</div>
-<div class="line"><span class="lineno">  186</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a>+1:</div>
-<div class="line"><span class="lineno">  187</span>                <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a>(player, <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80">GOSSIP_MENU_CONFIRM</a>, 0, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452">GOSSIP_SENDER_MAIN</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 2);</div>
-<div class="line"><span class="lineno">  188</span>                <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a>(player, <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8">NPC_TEXT_CONFIRM</a>, creature);</div>
-<div class="line"><span class="lineno">  189</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  190</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a>+2:</div>
-<div class="line"><span class="lineno">  191</span>            {</div>
-<div class="line"><span class="lineno">  192</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a>);</div>
-<div class="line"><span class="lineno">  193</span>                <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a>(player);</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626">SAY_KEEPER_CHOSEN_TO_PLAYER</a>, player);</div>
-<div class="line"><span class="lineno">  196</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992">SAY_KEEPER_CHOSEN_ANNOUNCE</a>);</div>
-<div class="line"><span class="lineno">  197</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c">ACTION_KEEPER_OUTRO</a>);</div>
-<div class="line"><span class="lineno">  198</span>            }</div>
-<div class="line"><span class="lineno">  199</span>        }</div>
-<div class="line"><span class="lineno">  200</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  201</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  186</span>    {</div>
+<div class="line"><span class="lineno">  187</span>        <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a>(player);</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">switch</span> (action)</div>
+<div class="line"><span class="lineno">  189</span>        {</div>
+<div class="line"><span class="lineno">  190</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a>+1:</div>
+<div class="line"><span class="lineno">  191</span>                <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5">AddGossipItemFor</a>(player, <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80">GOSSIP_MENU_CONFIRM</a>, 0, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da650f01832933ccb3735a38413b779452">GOSSIP_SENDER_MAIN</a>, <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a> + 2);</div>
+<div class="line"><span class="lineno">  192</span>                <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#ab43ecd551b53630add88fbf882236f78">SendGossipMenuFor</a>(player, <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8">NPC_TEXT_CONFIRM</a>, creature);</div>
+<div class="line"><span class="lineno">  193</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  194</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daf5e2b26c787b79ef696a69604bb85fd8">GOSSIP_ACTION_INFO_DEF</a>+2:</div>
+<div class="line"><span class="lineno">  195</span>            {</div>
+<div class="line"><span class="lineno">  196</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a629e9a4f8c5987b034e409c9c74297b9">RemoveNpcFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a>);</div>
+<div class="line"><span class="lineno">  197</span>                <a class="code hl_function" href="../../d6/d47/ScriptedGossip_8cpp.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a>(player);</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626">SAY_KEEPER_CHOSEN_TO_PLAYER</a>, player);</div>
+<div class="line"><span class="lineno">  200</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992">SAY_KEEPER_CHOSEN_ANNOUNCE</a>);</div>
+<div class="line"><span class="lineno">  201</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c">ACTION_KEEPER_OUTRO</a>);</div>
+<div class="line"><span class="lineno">  202</span>            }</div>
+<div class="line"><span class="lineno">  203</span>        }</div>
+<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  205</span>    }</div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_af077a82741577a63a075c7d40b3b3dc5"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#af077a82741577a63a075c7d40b3b3dc5">ClearGossipMenuFor</a></div><div class="ttdeci">void ClearGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:22</div></div>
 <div class="ttc" id="aScriptedGossip_8cpp_html_af8f7e54dac5ecc86e92d780c3918cb09"><div class="ttname"><a href="../../d6/d47/ScriptedGossip_8cpp.html#af8f7e54dac5ecc86e92d780c3918cb09">CloseGossipMenuFor</a></div><div class="ttdeci">void CloseGossipMenuFor(Player *player)</div><div class="ttdef"><b>Definition</b> ScriptedGossip.cpp:56</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0">UNIT_NPC_FLAG_GOSSIP</a></div><div class="ttdeci">@ UNIT_NPC_FLAG_GOSSIP</div><div class="ttdef"><b>Definition</b> UnitDefines.h:319</div></div>
@@ -424,7 +424,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d9e/classnpc__ulduar__keeper.html">npc_ulduar_keeper</a></li>
-    <li class="footer">Generated on Fri Oct 31 2025 06:24:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 1 2025 06:22:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
