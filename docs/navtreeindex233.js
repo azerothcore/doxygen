@@ -1,5 +1,7 @@
 var NAVTREEINDEX233 =
 {
+"d9/d3f/structTalentSpellPos.html#a06421cba633b9ea52cb4b95d4ce4527d":[6,0,4158,3],
+"d9/d3f/structTalentSpellPos.html#a1f28fdb07c5f3bc3a417a2d50d57481c":[6,0,4158,0],
 "d9/d3f/structTalentSpellPos.html#a46a495cd1d17302d074037ad5ea9c89e":[6,0,4158,2],
 "d9/d3f/structTalentSpellPos.html#afcdb60f43c619209f8c7d9d8d118a89d":[6,0,4158,1],
 "d9/d42/classboss__yoggsaron__immortal__guardian.html":[6,0,799],
@@ -247,7 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html":[6,0,537,0],
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a072dc582f931deb7d1e0db9ad535f146":[6,0,537,0,2],
 "d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a38e6008d616131d2876ae5a085a083ff":[6,0,537,0,4],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a627390013798de7a53a95817624417e3":[6,0,537,0,3],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#ac7e125b4350880d3d195b915c8be9de0":[6,0,537,0,1],
-"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#ae6906b2f86eb2d8efe51de92376be0da":[6,0,537,0,0]
+"d9/d57/structboss__highlord__omokk_1_1boss__highlordomokkAI.html#a627390013798de7a53a95817624417e3":[6,0,537,0,3]
 };

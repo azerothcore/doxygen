@@ -1,5 +1,7 @@
 var NAVTREEINDEX297 =
 {
+"db/df1/LogMessage_8cpp.html":[7,0,0,0,0,9,13],
+"db/df1/classRaiseDeadCheck.html":[6,0,2479],
 "db/df1/classRaiseDeadCheck.html#a7b1647934c5e64de65d38b9fba2d343a":[6,0,2479,2],
 "db/df1/classRaiseDeadCheck.html#a9647e6afd21e7397f05349e66bea4326":[6,0,2479,1],
 "db/df1/classRaiseDeadCheck.html#abc6439e5b457f2f6e832f504167a392d":[6,0,2479,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX297 =
 "db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6a95f7842bca464d6daf000030ebccb449":[7,0,0,0,1,3,9,8,111,2],
 "db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6ab8acd96ba4c5e67a34168b28522fd93b":[7,0,0,0,1,3,9,8,111,0],
 "db/dfb/spell__quest_8cpp.html#a703c1e617e401e25564e6e131b706ec6af2a43cffd532128fb540be9aa6f1eb9c":[7,0,0,0,1,3,9,8,111,1],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212":[7,0,0,0,1,3,9,8,86],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a18e7856b0bb2be57df1ac59f90b894f1":[7,0,0,0,1,3,9,8,86,3],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a29d3bf939fd7b5bddc4fb8d38c07e62f":[7,0,0,0,1,3,9,8,86,9]
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212":[7,0,0,0,1,3,9,8,86]
 };

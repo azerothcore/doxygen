@@ -1,5 +1,7 @@
 var NAVTREEINDEX306 =
 {
+"dc/d3b/classspell__the__lich__king__infest__aura.html#aa7dea3d079ae88aafd145ce949a6eb02":[6,0,3902,2],
+"dc/d3b/classspell__the__lich__king__infest__aura.html#abd725d08f2ef14cd375b6b94e9c1dcf0":[6,0,3902,1],
 "dc/d3b/classspell__the__lich__king__infest__aura.html#accd12b06341f3168c74cb18926614f7f":[6,0,3902,0],
 "dc/d3c/classspell__sha__totem__of__wrath.html":[6,0,3818],
 "dc/d3c/classspell__sha__totem__of__wrath.html#a6f21938e84e45848fad74a16f1f52c48":[6,0,3818,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8042aff64bde7d3eef7074fd7f58e7a4":[7,0,0,0,1,2,26,2,1,47],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba80550fe8aa02247ad9d89a84ae5691bc":[7,0,0,0,1,2,26,2,1,67],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba816e56ed100f5b887cccfd79e654906d":[7,0,0,0,1,2,26,2,1,15],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba85e1de210d82eeda4295a3d457aec8e7":[7,0,0,0,1,2,26,2,1,13],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad":[7,0,0,0,1,2,26,2,1,1],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba896e7c5e16b9017d4819d2d4abd00b28":[7,0,0,0,1,2,26,2,1,8]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba85e1de210d82eeda4295a3d457aec8e7":[7,0,0,0,1,2,26,2,1,13]
 };

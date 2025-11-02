@@ -1,5 +1,7 @@
 var NAVTREEINDEX312 =
 {
+"dc/d91/zone__stonetalon__mountains_8cpp.html#a487e562e5e99ccd61aa7e93289874033":[7,0,0,0,1,3,4,26,3],
+"dc/d91/zone__stonetalon__mountains_8cpp.html#a985f3fb3a28d1163b27b5de21b1ec6cf":[7,0,0,0,1,3,4,26,9],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15":[7,0,0,0,1,3,4,26,8],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f":[7,0,0,0,1,3,4,26,8,1],
 "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f":[7,0,0,0,1,3,4,26,8,0],
@@ -35,8 +37,8 @@ var NAVTREEINDEX312 =
 "dc/d95/classnpc__khunok__the__behemoth.html":[6,0,1914],
 "dc/d95/classnpc__khunok__the__behemoth.html#a0370959631c00581495dbd7c37263236":[6,0,1914,1],
 "dc/d95/classnpc__khunok__the__behemoth.html#a201aa35dd119d23126b192a1e3786c09":[6,0,1914,2],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4],
@@ -47,8 +49,8 @@ var NAVTREEINDEX312 =
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,1,87,5],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html":[6,0,1624],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#a6a8843d3f24378a2fd334e773618ab72":[6,0,1624,2],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#aa275374ba3a19a2e6a8768d4f01752b2":[6,0,1624,1],
@@ -72,8 +74,8 @@ var NAVTREEINDEX312 =
 "dc/d97/structTaxiPathNodeEntry.html#af9f8e03c2d9c1bdf266b3d62f1174224":[6,0,4166,4],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[6,0,11,12,1],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[5,0,31,12,1],
-"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[6,0,11,12,1,0],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[5,0,31,12,1,0],
+"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[6,0,11,12,1,0],
 "dc/d97/structboss__apoko.html":[6,0,383],
 "dc/d97/structboss__apoko.html#a3ae4752839f47bbfce5f7df03c427cd2":[6,0,383,0],
 "dc/d97/structboss__apoko.html#a7ad52b258863bd818b3e5d1143de7629":[6,0,383,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX312 =
 "dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63":[7,0,0,0,1,2,16,7,16,8,0],
 "dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6ea97d7bfbfcb1e9318134f55b72f5fdf2c":[7,0,0,0,1,2,16,7,16,8,1],
 "dc/da6/SocialMgr_8h.html#ad0ac931a69e6d8885728cb1fca06fc6eab3af33ac2cf3fe32495daff66469e7f1":[7,0,0,0,1,2,16,7,16,8,3],
-"dc/da6/SocialMgr_8h.html#ad75bdebf3d450d178eb4945e1b484ff3":[7,0,0,0,1,2,16,7,16,4],
-"dc/da6/SocialMgr_8h.html#afd83098f3a1e072e6ae7e54b799c5a49":[7,0,0,0,1,2,16,7,16,3],
-"dc/da7/classRectangleBoundary.html":[6,0,2490]
+"dc/da6/SocialMgr_8h.html#ad75bdebf3d450d178eb4945e1b484ff3":[7,0,0,0,1,2,16,7,16,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX318 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664":[7,0,0,0,1,3,2,12,6,9,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff":[7,0,0,0,1,3,2,12,6,9,3],
 "dc/de1/instance__sunwell__plateau_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,2,12,6,15],
 "dc/de2/classspell__dru__bear__form__passive.html":[6,0,2821],
 "dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[6,0,2821,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX318 =
 "dc/df0/zulgurub_8h.html#a4fbd63e309aff0ebe80a1e5e3e190565":[7,0,0,0,1,3,2,16,15,7],
 "dc/df0/zulgurub_8h.html#a666df3882df1d8adf7c3cc6b813c6993":[7,0,0,0,1,3,2,16,15,1],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,2,16,15,3],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea0a1a11c87aab3c332e69726231c05841":[7,0,0,0,1,3,2,16,15,3,17],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea0fb32dbef739097d4512236285d886e3":[7,0,0,0,1,3,2,16,15,3,4],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea1df05927d7c4fd412b1d960307634135":[7,0,0,0,1,3,2,16,15,3,1]
+"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963ea0a1a11c87aab3c332e69726231c05841":[7,0,0,0,1,3,2,16,15,3,17]
 };

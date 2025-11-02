@@ -1,6 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a808affa9dc7c071a593aa197b35647fb":[7,0,0,0,1,3,5,9,2,13,62,10],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a80cc924a8f81b72364f0751488c4a6c7":[7,0,0,0,1,3,5,9,2,13,62,55],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a81ead8e4bcf9d8459bad6381abd49a95":[7,0,0,0,1,3,5,9,2,13,62,47],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a835d4a5053557a32d48325b8ed8c35ec":[7,0,0,0,1,3,5,9,2,13,62,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX94 =
 "d3/d3c/player__scripts_8cpp.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba":[7,0,0,0,1,3,10,15,1,0],
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html":[6,0,1793,0],
 "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#a9e80808035be749c87a1170f37ac3daf":[6,0,1793,0,0],
-"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#a9e83b133444e977c35e90b700149472c":[6,0,1793,0,3]
+"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#a9e83b133444e977c35e90b700149472c":[6,0,1793,0,3],
+"d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html#ab5781438300442bb7bcb4510aec9d233":[6,0,1793,0,2]
 };

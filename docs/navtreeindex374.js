@@ -1,5 +1,7 @@
 var NAVTREEINDEX374 =
 {
+"de/db3/classdebug__commandscript_1_1CreatureCountWorker.html":[6,0,968,0],
+"de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#a3a6f946c40b1006164793dbaed2b3948":[6,0,968,0,4],
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#a5d4d009b6685dd71703f96f9945a463e":[6,0,968,0,1],
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#a786d95d42f7711235e60a4f54cc3b4be":[6,0,968,0,2],
 "de/db3/classdebug__commandscript_1_1CreatureCountWorker.html#ad01e947d97d03a10ea3a891d24cb05b7":[6,0,968,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX374 =
 "de/dc2/boss__azgalor_8cpp.html#a5c48a4529f47bdf31a6695f69f35cc99":[7,0,0,0,1,3,4,1,0,2,5],
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,1,0,2,4],
 "de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f2ad1912aa8f59bc3350661bd601a8d":[7,0,0,0,1,3,4,1,0,2,4,3],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,2,4,1],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad35764f66527c79f568416706f54f562":[7,0,0,0,1,3,4,1,0,2,4,0],
-"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adbf364a6418001fedd40eebdd48104de":[7,0,0,0,1,3,4,1,0,2,4,4]
+"de/dc2/boss__azgalor_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abe3ec15f85f2e2aac71b780624653fcc":[7,0,0,0,1,3,4,1,0,2,4,1]
 };

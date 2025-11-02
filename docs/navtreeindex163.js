@@ -1,5 +1,6 @@
 var NAVTREEINDEX163 =
 {
+"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,17,23],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca2342fc86e4d2f4811c11c75f70b37f0b":[7,0,0,0,1,3,5,17,23,3],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca501ce8c3a5ee1f583f1ce31104b928c9":[7,0,0,0,1,3,5,17,23,4],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca90e4351e35988c5a11a32d28821b08b1":[7,0,0,0,1,3,5,17,23,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a26834a4bffc2641fb3884f2146aa4327":[7,0,0,0,1,3,5,2,0,2,6,16],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a2f25d05b8a7a2a5b8ec276bed6588dec":[7,0,0,0,1,3,5,2,0,2,6,1],
 "d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a42bdc4529f83b0925eee1ec9d91d834c":[7,0,0,0,1,3,5,2,0,2,6,0],
-"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a4b704bb01f26a91b54643ef5c9985882":[7,0,0,0,1,3,5,2,0,2,6,2],
-"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a59c8e0345cc0d95e7cf996dfa7a55d04":[7,0,0,0,1,3,5,2,0,2,6,8]
+"d6/d1b/boss__grand__champions_8cpp.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a4b704bb01f26a91b54643ef5c9985882":[7,0,0,0,1,3,5,2,0,2,6,2]
 };

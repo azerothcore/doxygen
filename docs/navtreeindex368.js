@@ -1,5 +1,7 @@
 var NAVTREEINDEX368 =
 {
+"de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#a9b32995b6e324a6c779bbd742de6cce2":[6,0,3825,4],
+"de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#aaecea41af42790dfe9aeba3c56480668":[6,0,3825,1],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#ade7bfbc3400fb620956d1e8dff7d4a8a":[6,0,3825,3],
 "de/d88/classspell__shadowfang__keep__forsaken__skills__aura.html#ae2aee05482e4854120fc581ecec41f95":[6,0,3825,6],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html":[6,0,2068,0],
@@ -31,8 +33,8 @@ var NAVTREEINDEX368 =
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[6,0,3813,0],
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[6,0,3813,1],
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[6,0,3813,3],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[6,0,0,5,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,1,8,0,26,0],
 "de/d8d/structArenaScore.html":[6,0,181],
@@ -46,14 +48,14 @@ var NAVTREEINDEX368 =
 "de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[6,0,3016,1],
 "de/d8e/classspell__gen__random__target32.html#a99d08536d2555390a7399a6d2fc199e6":[6,0,3016,0],
 "de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[6,0,3016,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,1,8,8,0],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,1,8,8,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,1,8,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
 "de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
 "de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,4,2,1,9],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,2,1,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX368 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca04841b753e2450f3f91c4517d8016b02":[7,0,0,0,1,3,7,1,4,8,15],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b196a6efe17ff73f768f2fd461fd026":[7,0,0,0,1,3,7,1,4,8,18],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,1,4,8,17],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a86638a5209e6bbe3fb8f1114ad5ae1":[7,0,0,0,1,3,7,1,4,8,9],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca39830a88116af885ed6d769960af61ca":[7,0,0,0,1,3,7,1,4,8,8],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca5fcda4485906d968fda02a961319085d":[7,0,0,0,1,3,7,1,4,8,11]
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a86638a5209e6bbe3fb8f1114ad5ae1":[7,0,0,0,1,3,7,1,4,8,9]
 };

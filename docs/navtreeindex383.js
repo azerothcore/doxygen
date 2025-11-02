@@ -1,5 +1,7 @@
 var NAVTREEINDEX383 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af5cc9ff4e2b209d4462cc422d99208ba":[7,0,0,0,1,2,16,5,0,4,6,142],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af5eb447fa15d3cadf70754394517a401":[7,0,0,0,1,2,16,5,0,4,6,26],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af68a69bb49de199bcfeca62249bd90d8":[7,0,0,0,1,2,16,5,0,4,6,43],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af6ab95e21ce3e6cd8f5f7ec4a3c5d24a":[7,0,0,0,1,2,16,5,0,4,6,52],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af6ad397bf37513adbb9e941ad4383554":[7,0,0,0,1,2,16,5,0,4,6,124],
@@ -118,10 +120,10 @@ var NAVTREEINDEX383 =
 "df/d24/classnpc__daphne__stilwell.html#ad7b293efc802506a825f202e34cb0f4d":[6,0,1730,3],
 "df/d24/classnpc__daphne__stilwell.html#ad844c5f0409936d7068ee55271506041":[6,0,1730,1],
 "df/d24/classnpc__daphne__stilwell.html#af1872100f3eeb14e894277cfc8e1a74b":[6,0,1730,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[6,0,0,87],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,99],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,87,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[6,0,0,87],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,99,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,87,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,99,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX383 =
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ad161bb0a6c76d223b1e687a1cc604375":[6,0,2084,0,4],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ade0c279565236eb3fd59fd43eef4c3e1":[6,0,2084,0,10],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae515d0b1d383c48e40fa4795edd1b247":[6,0,2084,0,2],
-"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae89b397bafdcb06e94fa94c18ef0d2c8":[6,0,2084,0,0],
-"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9":[6,0,2084,0,11],
-"df/d2a/StringFormat_8cpp.html":[7,0,0,0,0,15,28]
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae89b397bafdcb06e94fa94c18ef0d2c8":[6,0,2084,0,0]
 };

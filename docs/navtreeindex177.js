@@ -1,5 +1,6 @@
 var NAVTREEINDEX177 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ae38164dbcbd78aef01f5cd35de1bb4c6":[7,0,0,0,1,2,16,6,2,8,33],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7aea64176a60698e0a8fa4ed3b9b8982ca":[7,0,0,0,1,2,16,6,2,8,43],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7af4d234994240de4c26f93892432a8111":[7,0,0,0,1,2,16,6,2,8,31],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7af512b945c50975b7aec7cc16cc244044":[7,0,0,0,1,2,16,6,2,8,51],
@@ -225,8 +226,8 @@ var NAVTREEINDEX177 =
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,6,22,1],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,6,22,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,31,6,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,6,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1892],
 "d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[6,0,1892,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[6,0,1892,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX177 =
 "d6/db1/structnpc__anubisath__defender.html#a032714b16d3d77a19bec0f918d8ef8df":[6,0,1601,1],
 "d6/db1/structnpc__anubisath__defender.html#a1f190f45ffbaf20f5565221780dc5cc6":[6,0,1601,5],
 "d6/db1/structnpc__anubisath__defender.html#a225ca1b3144953bcc5890caf0d32b606":[6,0,1601,2],
-"d6/db1/structnpc__anubisath__defender.html#a4adef63a5093e3c0ecb8b57283e94ff8":[6,0,1601,6],
-"d6/db1/structnpc__anubisath__defender.html#a6505fcae0e99cae44750f16daddc3309":[6,0,1601,3]
+"d6/db1/structnpc__anubisath__defender.html#a4adef63a5093e3c0ecb8b57283e94ff8":[6,0,1601,6]
 };

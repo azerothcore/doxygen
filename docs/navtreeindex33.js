@@ -1,6 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d57/classnpc__lokhtos__darkbargainer.html#af91685ecf0f63313968b3d82373668d2":[6,0,1938,0],
 "d1/d57/structboss__fankriss.html":[6,0,460],
 "d1/d57/structboss__fankriss.html#a4f9722f1c6aa27be798d4bacbdb5fac6":[6,0,460,5],
 "d1/d57/structboss__fankriss.html#a91420e51be346e1b9cfa4efbdec00d76":[6,0,460,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX33 =
 "d1/d61/structCreatureTemplate.html#afcb636bae580e98ef260933a91e189f5":[6,0,936,26],
 "d1/d61/structCreatureTemplate.html#aff9648360326d0c586950f8c2c85f602":[6,0,936,56],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html":[6,0,736,0],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a195f7ab96331de6d2f796a9c38369db1":[6,0,736,0,11]
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a195f7ab96331de6d2f796a9c38369db1":[6,0,736,0,11],
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1afbac26b0cbf212b787cd53d1eb9a7d":[6,0,736,0,9]
 };

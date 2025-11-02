@@ -1,6 +1,5 @@
 var NAVTREEINDEX113 =
 {
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ae37f5478dcf4fe6ef31461b5ed23e5f8":[7,0,0,0,1,2,8,1,3,19,26],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ae5c44657831759f4dff4470b82855bcd":[7,0,0,0,1,2,8,1,3,19,10],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ae7509f97c65a599f0a2331232c2bd852":[7,0,0,0,1,2,8,1,3,19,9],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ae839b462387dce33bdf6e31ae65feb39":[7,0,0,0,1,2,8,1,3,19,66],
@@ -249,5 +248,6 @@ var NAVTREEINDEX113 =
 "d3/de2/classbf__commandscript.html#af7100032ad26a66fbc9d9b37d1da98e1":[6,0,345,3],
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html":[6,0,3558],
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a11f2c759a5587eb865560eceff5b8414":[6,0,3558,9],
-"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a26c15c411ff09d8107dfc360b71dbc0a":[6,0,3558,5]
+"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a26c15c411ff09d8107dfc360b71dbc0a":[6,0,3558,5],
+"d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a300e649beb785c4ebc84eb1b0613164e":[6,0,3558,3]
 };

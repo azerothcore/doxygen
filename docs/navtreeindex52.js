@@ -1,6 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d21/classinstance__scholomance.html#ace7a781c45623419daad6143480d8fe2":[6,0,1334,1],
 "d2/d22/AuctionHouseScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
 "d2/d22/AuctionHouseScript_8cpp.html#ac2271f3a8c4323137893dfd21d8d0003":[7,0,0,0,1,2,38,0,29,0],
 "d2/d22/boss__chess__event_8cpp.html":[7,0,0,0,1,3,2,4,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca75135989445a2947df016dddb20dcf24":[7,0,0,0,1,2,36,2,17,10],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca867ef0a1e8243d47039936338db4e0d2":[7,0,0,0,1,2,36,2,17,2],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca8c007c4cb4d3909e264b15da0c678415":[7,0,0,0,1,2,36,2,17,6],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca90d7515f30165efde72eca296e6506f6":[7,0,0,0,1,2,36,2,17,9]
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca90d7515f30165efde72eca296e6506f6":[7,0,0,0,1,2,36,2,17,9],
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6caa4ccf7e90f00237c4edb4de98162be3a":[7,0,0,0,1,2,36,2,17,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX325 =
 {
+"dd/d3a/classgo__the__focusing__iris.html":[6,0,1192],
+"dd/d3a/classgo__the__focusing__iris.html#a7f3f1170713d63f912ca5732453a7e33":[6,0,1192,1],
 "dd/d3a/classgo__the__focusing__iris.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece":[6,0,1192,0],
 "dd/d3a/structKeyFrame.html":[6,0,1404],
 "dd/d3a/structKeyFrame.html#a03f76647aa0c383bcd4b26ae93abe465":[6,0,1404,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#adec384ccbdc5f2b90a1d09c67b47d24f":[6,0,2278,0,9],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#ae827bdfdef36419e33b37aecde1a2cc4":[6,0,2278,0,0],
 "dd/d3f/AchievementCriteriaScript_8cpp.html":[7,0,0,0,1,2,38,0,2],
-"dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
-"dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
-"dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0]
+"dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0]
 };

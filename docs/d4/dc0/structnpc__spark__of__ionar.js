@@ -6,6 +6,7 @@ var structnpc__spark__of__ionar =
     [ "DoAction", "d4/dc0/structnpc__spark__of__ionar.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
     [ "MoveInLineOfSight", "d4/dc0/structnpc__spark__of__ionar.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
     [ "Reset", "d4/dc0/structnpc__spark__of__ionar.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "d4/dc0/structnpc__spark__of__ionar.html#a5db429c52f9d53025b375f1847c9bf63", null ],
+    [ "UpdateAI", "d4/dc0/structnpc__spark__of__ionar.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "d4/dc0/structnpc__spark__of__ionar.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
     [ "returning", "d4/dc0/structnpc__spark__of__ionar.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

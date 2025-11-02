@@ -1,5 +1,7 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2":[7,0,0,0,1,3,9,4,183],
+"db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a7d319ff15ada5f0fa35d13e5bb1f9d95":[7,0,0,0,1,3,9,4,183,3],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2a84d745577ef13f1e5882b93198f50a2e":[7,0,0,0,1,3,9,4,183,4],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aafa04c1847926223f0662f3abe5758fa":[7,0,0,0,1,3,9,4,183,5],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aafd0283a7fb92d3cdcb265a2725e64c2":[7,0,0,0,1,3,9,4,183,1],
@@ -93,12 +95,12 @@ var NAVTREEINDEX281 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2523,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
 "db/d72/structLootItem.html":[6,0,1455],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1455,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1455,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX281 =
 "db/d79/namespaceAcore_1_1TimeDiff.html#ac9bde42940b2570f3865385200b56af8":[5,0,1,15,0],
 "db/d7a/namespaceWorldPackets_1_1Bank.html":[5,0,31,0],
 "db/d7a/structItemLocale.html":[6,0,1391],
-"db/d7a/structItemLocale.html#a4187f2b02014c83bc4f1b3d65d229311":[6,0,1391,0],
-"db/d7a/structItemLocale.html#a787ca2c05ddac7ee5c3a5c28a02b8494":[6,0,1391,1],
-"db/d7b/DBCDatabaseLoader_8cpp.html":[7,0,0,0,1,4,0,0]
+"db/d7a/structItemLocale.html#a4187f2b02014c83bc4f1b3d65d229311":[6,0,1391,0]
 };

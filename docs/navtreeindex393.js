@@ -1,5 +1,7 @@
 var NAVTREEINDEX393 =
 {
+"df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#ae5fd3c974a3f32540b2dee6b92cd4f7c":[6,0,1974,0,0],
+"df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#ae60f294f902a2f687446f7599d071e42":[6,0,1974,0,2],
 "df/da3/classspell__kiljaeden__shield__of__the__blue.html":[6,0,3377],
 "df/da3/classspell__kiljaeden__shield__of__the__blue.html#a8157e8d305bc9d7da23815ae7e684a05":[6,0,3377,0],
 "df/da3/classspell__kiljaeden__shield__of__the__blue.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a":[6,0,3377,2],
@@ -39,8 +41,8 @@ var NAVTREEINDEX393 =
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[6,0,11,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[5,0,31,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,11,1,0,1],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,31,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[6,0,11,1,0,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,31,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,11,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,31,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[6,0,3070],
@@ -247,7 +249,5 @@ var NAVTREEINDEX393 =
 "df/da7/classBattleground.html#abe08bc432962f1a5f32e0948ae23104d":[6,0,314,105],
 "df/da7/classBattleground.html#abe4a32d5328b63c60b2363c57678d352":[6,0,314,96],
 "df/da7/classBattleground.html#abfc03a1069a605e73dec57112485b974":[6,0,314,157],
-"df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,314,226],
-"df/da7/classBattleground.html#ac3c9c898181cfd9a2cddc451d26c6bbe":[6,0,314,16],
-"df/da7/classBattleground.html#ac3f9a4369413692efa8bfc5a4c73df47":[6,0,314,181]
+"df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,314,226]
 };

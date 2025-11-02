@@ -278,7 +278,7 @@ var classPlayer =
     [ "GetArenaTeamIdFromDB", "d2/d4b/classPlayer.html#a787be7f5ba7c026940ecd4879e7cb52d", null ],
     [ "GetArenaTeamIdInvited", "d2/d4b/classPlayer.html#ac5adf70825264967df54728cd9552082", null ],
     [ "GetArmorProficiency", "d2/d4b/classPlayer.html#a099cf675229a821105b746637059ac19", null ],
-    [ "GetAttackBySlot", "d2/d4b/classPlayer.html#aa8ac03d330ab1472d35f520e60454022", null ],
+    [ "GetAttackBySlot", "d2/d4b/classPlayer.html#af7ae4411a5063a635e4b2a3dad7c18b0", null ],
     [ "GetAurasForTarget", "d2/d4b/classPlayer.html#af695f8c83cb44fd167d7ef31abd46887", null ],
     [ "GetAuraUpdateMaskForRaid", "d2/d4b/classPlayer.html#a14d47cb129a5f4beb605492181eba8b3", null ],
     [ "GetAverageItemLevel", "d2/d4b/classPlayer.html#a94856b35ce42f7e8c87ac1a53be3405e", null ],

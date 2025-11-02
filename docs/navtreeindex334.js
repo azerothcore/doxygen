@@ -1,5 +1,7 @@
 var NAVTREEINDEX334 =
 {
+"dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ac417799d90c2f29e5acda25495e1adbc":[7,0,0,0,1,3,5,4,2,5,12,0],
+"dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad0e39679613ec3aed3a72ddb9e60ba8a":[7,0,0,0,1,3,5,4,2,5,12,6],
 "dd/dac/pit__of__saron_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad3ae403ad184e5aa987f49340fd58620":[7,0,0,0,1,3,5,4,2,5,12,7],
 "dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825d":[7,0,0,0,1,3,5,4,2,5,15],
 "dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825da3bcc4afd6730104ce195217445632fa1":[7,0,0,0,1,3,5,4,2,5,15,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX334 =
 "dd/db3/classReputationMgr.html#af636fd98488c7661eba8bee677e139a7":[6,0,2500,7],
 "dd/db3/classReputationMgr.html#af67314d7007c3b81130dd1e47c479d7d":[6,0,2500,34],
 "dd/db3/classReputationMgr.html#af7c9b1b5eb2fdb2681b21bf729a55fb0":[6,0,2500,25],
-"dd/db3/classReputationMgr.html#af9da8affdfa257988cb8b4783b1b9db9":[6,0,2500,39],
-"dd/db4/classnpc__future__you.html":[6,0,1805],
-"dd/db4/classnpc__future__you.html#a2e1529fef3ce307d98057dc93ce5e5fe":[6,0,1805,2]
+"dd/db3/classReputationMgr.html#af9da8affdfa257988cb8b4783b1b9db9":[6,0,2500,39]
 };

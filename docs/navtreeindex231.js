@@ -1,5 +1,7 @@
 var NAVTREEINDEX231 =
 {
+"d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html#ae535d3335eb7865400f9e5c24b1dd3b5":[6,0,2254,0,0],
+"d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html#aeedb0af23823ec5c7ff4f951c872552e":[6,0,2254,0,2],
 "d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html#afbf6d71b196067400256df98949ae963":[6,0,2254,0,3],
 "d9/d1e/classboss__krystallus.html":[6,0,586],
 "d9/d1e/classboss__krystallus.html#a1d7453c9d67594bfdbd650fea897666a":[6,0,586,1],
@@ -114,8 +116,8 @@ var NAVTREEINDEX231 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3264,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3264,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3264,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,12,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,12,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,12,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,12,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,12,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -212,10 +214,10 @@ var NAVTREEINDEX231 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3505,0],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3505,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[6,0,3505,2],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[5,0,1,8,0,5,0],
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0],
 "d9/d31/SharedDefines_8cpp.html":[7,0,0,0,1,4,6],
 "d9/d31/classspell__pilgrims__bounty__serve__generic.html":[6,0,3563],
 "d9/d31/classspell__pilgrims__bounty__serve__generic.html#a70963be80861e10ecd093e40b77e7078":[6,0,3563,1],
@@ -224,8 +226,8 @@ var NAVTREEINDEX231 =
 "d9/d32/CombatAI_8cpp.html":[7,0,0,0,1,2,3,0,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[6,0,11,6,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,31,6,25],
-"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[6,0,11,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,31,6,25,1],
+"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[6,0,11,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[6,0,11,6,25,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[5,0,31,6,25,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html":[6,0,1924,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d33/boss__elder__nadox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a83424c56b7a7ef9ee7ec35484104fd53":[7,0,0,0,1,3,5,0,0,2,6,0],
 "d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,0,0,2,8],
 "d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,0,0,2,8,2],
-"d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2f2e391ab2b2121cfd6630b446bd6bba":[7,0,0,0,1,3,5,0,0,2,8,4],
-"d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,0,0,2,8,0],
-"d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,0,0,2,8,1]
+"d9/d33/boss__elder__nadox_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2f2e391ab2b2121cfd6630b446bd6bba":[7,0,0,0,1,3,5,0,0,2,8,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#ad871ba0b75de51b893579296eba79e3f":[6,0,917,173],
+"db/dd5/classCreature.html#ad8891b07b8b211818d4284ed88e6ba10":[6,0,917,179],
 "db/dd5/classCreature.html#ad89b31f980b01291e35b631ecb333f8f":[6,0,917,287],
 "db/dd5/classCreature.html#ad9849a315f43f8473e99d796998d5596":[6,0,917,46],
 "db/dd5/classCreature.html#ad98fb60c0c9db0768cd19d235327945e":[6,0,917,205],
@@ -203,10 +205,10 @@ var NAVTREEINDEX294 =
 "db/dda/structAccountFlagText.html":[6,0,24],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,24,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,24,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,895],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[6,0,895,0],
 "db/ddb/classTaskContext.html":[6,0,4162],
@@ -247,7 +249,5 @@ var NAVTREEINDEX294 =
 "db/ddb/classTaskContext.html#adca01e15214852dd23d3e404ee3e1f21":[6,0,4162,1],
 "db/ddb/classTaskContext.html#add5a7d1e76bd0d0766c17920dadd5b61":[6,0,4162,27],
 "db/ddb/classTaskContext.html#ae60b6c797e99c416b84c5b9ae715b215":[6,0,4162,25],
-"db/ddb/classTaskContext.html#af1d32693e6df24d76a82b1a367eacbe5":[6,0,4162,18],
-"db/ddb/classboss__stormcaller__brundir.html":[6,0,713],
-"db/ddb/classboss__stormcaller__brundir.html#a399b1b7cf2ee74c1e672231e922ff4fa":[6,0,713,2]
+"db/ddb/classTaskContext.html#af1d32693e6df24d76a82b1a367eacbe5":[6,0,4162,18]
 };

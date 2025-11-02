@@ -1,5 +1,7 @@
 var NAVTREEINDEX396 =
 {
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66":[7,0,0,0,0,9,3,1,15],
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca":[7,0,0,0,0,9,3,1,2],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc":[7,0,0,0,0,9,3,1,6],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5":[7,0,0,0,0,9,3,1,11],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7":[7,0,0,0,0,9,3,1,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX396 =
 "df/dd8/classspell__charge__shield__bomber.html#abfb58e49821e6a563940e8ba518db850":[6,0,2717,0],
 "df/dd8/classspell__hodir__starlight__aura.html":[6,0,3112],
 "df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[6,0,3112,1],
-"df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[6,0,3112,2],
-"df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[6,0,3112,0],
-"df/dd9/classUnit.html":[6,0,4226]
+"df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[6,0,3112,2]
 };

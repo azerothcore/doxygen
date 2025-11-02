@@ -1,5 +1,7 @@
 var NAVTREEINDEX264 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ad2fd0ec562d50f32148c9252379bb20f":[7,0,0,0,1,3,7,13,38,22],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89adf1cf0863ae1a073c5715469f763a51c":[7,0,0,0,1,3,7,13,38,25],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ae00c2ae7cc2379845930d79d7945a2f9":[7,0,0,0,1,3,7,13,38,18],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af0e74bb51810c096483e41a3186f4387":[7,0,0,0,1,3,7,13,38,19],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af28f06266655235767f00124047eb0cf":[7,0,0,0,1,3,7,13,38,2],
@@ -155,8 +157,8 @@ var NAVTREEINDEX264 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2649,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,7,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,31,7,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,7,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,31,7,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[6,0,11,7,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,31,7,10,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "da/db4/classat__commander__dawnforge.html#acc78f4f2f9d892c02d62548e93f7f83b":[6,0,213,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html":[7,0,0,0,1,3,7,0,3,0],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,0,3,0,1],
-"da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5ea25df5d0311ff5aa6cb5889f791d1c":[7,0,0,0,1,3,7,0,3,0,1,2],
-"da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a90a7b66caec18784ce990f805001ecf6":[7,0,0,0,1,3,7,0,3,0,1,1],
-"da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab50d048256aa91f82e8cc83892c19a8e":[7,0,0,0,1,3,7,0,3,0,1,0]
+"da/db5/boss__ambassador__hellmaw_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5ea25df5d0311ff5aa6cb5889f791d1c":[7,0,0,0,1,3,7,0,3,0,1,2]
 };

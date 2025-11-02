@@ -1,5 +1,7 @@
 var NAVTREEINDEX215 =
 {
+"d8/d62/structLoot.html#a017e99f9c7037c938dbda548358bb9aa":[6,0,1453,12],
+"d8/d62/structLoot.html#a08df83acd4a8d8591eebb3753e121fc7":[6,0,1453,27],
 "d8/d62/structLoot.html#a11014bcfc627cdbbacdc827c3d566702":[6,0,1453,4],
 "d8/d62/structLoot.html#a111c886ccef375034953fbf7e4865417":[6,0,1453,14],
 "d8/d62/structLoot.html#a14f72bbfbb5a3434a75157d9a14cd6c1":[6,0,1453,11],
@@ -122,8 +124,8 @@ var NAVTREEINDEX215 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[6,0,458,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[6,0,458,2],
 "d8/d6e/PetHandler_8cpp.html":[7,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[6,0,0,5,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6f/classnpc__injured__draenei.html":[6,0,1894],
 "d8/d6f/classnpc__injured__draenei.html#a660c0f0c4ed41d70ad0a50cde25c1d14":[6,0,1894,1],
 "d8/d6f/classnpc__injured__draenei.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb":[6,0,1894,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d73/ObjectGuid_8cpp.html#a039758f4b57c94c411a4c3882334ada8":[7,0,0,0,1,2,16,5,4,1],
 "d8/d73/ObjectGuid_8cpp.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,4,3],
 "d8/d73/ObjectGuid_8cpp.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953":[7,0,0,0,1,2,16,5,4,0],
-"d8/d73/ObjectGuid_8cpp.html#a94ab551ce00fd82dea1532d47ad908bc":[7,0,0,0,1,2,16,5,4,2],
-"d8/d73/ObjectGuid_8cpp.html#a95f3a6eef334b9fcdcaca879532c25d4":[7,0,0,0,1,2,16,5,4,4],
-"d8/d73/classinstance__gnomeregan.html":[6,0,1305]
+"d8/d73/ObjectGuid_8cpp.html#a94ab551ce00fd82dea1532d47ad908bc":[7,0,0,0,1,2,16,5,4,2]
 };

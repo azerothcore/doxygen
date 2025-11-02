@@ -1,5 +1,7 @@
 var NAVTREEINDEX388 =
 {
+"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,300,1],
+"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,324],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a210828d05ea9948484631b7408a3bb4b":[6,0,324,1],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,324,2],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,324,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX388 =
 "df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6":[7,0,0,0,1,2,26,4,18],
 "df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6a04ff8bf4653f852773d9bdf2838efb07":[7,0,0,0,1,2,26,4,18,1],
 "df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3":[7,0,0,0,1,2,26,4,18,2],
-"df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6a254543d4c2ff9c92ff0eb69aec072caf":[7,0,0,0,1,2,26,4,18,0],
-"df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6a451588ecdb12620b9153952187873053":[7,0,0,0,1,2,26,4,18,3],
-"df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f":[7,0,0,0,1,2,26,4,18,4]
+"df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6a254543d4c2ff9c92ff0eb69aec072caf":[7,0,0,0,1,2,26,4,18,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d7f/classUpdateFetcher.html":[6,0,4236],
 "d6/d7f/classUpdateFetcher.html#a0f766525f7f9757a0cf14059952825f0":[6,0,4236,30],
 "d6/d7f/classUpdateFetcher.html#a24699e8cc9d32551c24be563904bfdec":[6,0,4236,14],
 "d6/d7f/classUpdateFetcher.html#a286570b46c2ddd612b97de8e4ef4bd49":[6,0,4236,25],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d83/LootItemStorage_8cpp.html":[7,0,0,0,1,2,24,0],
 "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html":[6,0,365,0],
 "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html#a185e04be9d28b9ac6755ade2cd552293":[6,0,365,0,0],
-"d6/d84/DatabaseWorker_8h.html":[7,0,0,0,1,1,0,9],
-"d6/d84/classboss__trollgore.html":[6,0,750]
+"d6/d84/DatabaseWorker_8h.html":[7,0,0,0,1,1,0,9]
 };

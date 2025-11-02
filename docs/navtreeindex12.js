@@ -1,6 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,9,2,11,30,41],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a3b09d39dcbcaf3ef92fb024de1440f2a":[7,0,0,0,1,3,5,9,2,11,30,5],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a4420859375779d3dc2e03148bd6f79f6":[7,0,0,0,1,3,5,9,2,11,30,39],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a4834c11a8fa3e92c3ff9559febe14c30":[7,0,0,0,1,3,5,9,2,11,30,30],
@@ -249,5 +248,6 @@ var NAVTREEINDEX12 =
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#ae91de64c440e71e612f34e37b90076d5":[6,0,1682,0,0],
 "d0/d8f/classspell__murmur__thundering__storm.html":[6,0,3490],
 "d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[6,0,3490,2],
-"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3490,1]
+"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3490,1],
+"d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[6,0,3490,0]
 };

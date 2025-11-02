@@ -1,6 +1,7 @@
 var structboss__bjarngrim =
 [
     [ "boss_bjarngrim", "df/dda/structboss__bjarngrim.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "df/dda/structboss__bjarngrim.html#a87eab2b27b48d98b94a030936722781e", null ],
     [ "JustDied", "df/dda/structboss__bjarngrim.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
     [ "JustEngagedWith", "df/dda/structboss__bjarngrim.html#ad150ab7d9837861e8c4673a78978bb11", null ],
     [ "KilledUnit", "df/dda/structboss__bjarngrim.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX305 =
 {
+"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912ac46d9102b29e21c2674880b07f760e15":[7,0,0,0,0,19,8,27],
+"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912ac5ac507dbfe18f9fc821bbbbb8570fd1":[7,0,0,0,0,19,8,15],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912ae94838b4206e16c5a04983645a86263f":[7,0,0,0,0,19,8,2],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912aee08e15069effe57431144b17d6981be":[7,0,0,0,0,19,8,21],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912af39e6c42dd496b5219576d970d79cd38":[7,0,0,0,0,19,8,9],
@@ -18,18 +20,18 @@ var NAVTREEINDEX305 =
 "dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[7,0,0,0,0,19,20],
 "dc/d33/HomeMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
 "dc/d33/TaskScheduler_8h.html":[7,0,0,0,0,15,31],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,23],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,35],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,23],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,23,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,35,0],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,23,3],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,35,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[6,0,0,23,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,23,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,1,35,4],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,35,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[6,0,0,23,2],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,35,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,1,35,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[6,0,0,23,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[6,0,0,23,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d3b/classnpc__black__knight__skeletal__gryphon.html#a5dc83a92fbe2eb4d6faa30f23a9ac777":[6,0,1649,1],
 "dc/d3b/classnpc__black__knight__skeletal__gryphon.html#aad244f95877a208b56a2b6544984d724":[6,0,1649,2],
 "dc/d3b/classspell__the__lich__king__infest__aura.html":[6,0,3902],
-"dc/d3b/classspell__the__lich__king__infest__aura.html#aa4a548a222dd79554e3e4e8f837c1d49":[6,0,3902,3],
-"dc/d3b/classspell__the__lich__king__infest__aura.html#aa7dea3d079ae88aafd145ce949a6eb02":[6,0,3902,2],
-"dc/d3b/classspell__the__lich__king__infest__aura.html#abd725d08f2ef14cd375b6b94e9c1dcf0":[6,0,3902,1]
+"dc/d3b/classspell__the__lich__king__infest__aura.html#aa4a548a222dd79554e3e4e8f837c1d49":[6,0,3902,3]
 };

@@ -23,7 +23,6 @@ var structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapS
     [ "goSjonnirDoorGUID", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a81c812791b26833b3dd1aa3036ad28cc", null ],
     [ "goSkyRoomFloorGUID", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ab45223f5f1282adbd0a208ae05807ffd", null ],
     [ "goTribunalConsoleGUID", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#aff8bc3094ae24f282623d525f2884e4b", null ],
-    [ "goTribunalDoorGUID", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a2331aa94ef86d7faf83fd38c624826ce", null ],
     [ "isKrystalusDead", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a7ae1fdc168ece52389aabde3857d7ba3", null ],
     [ "isMaidenOfGriefDead", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#aa303da423ad09251abefd6983936dc03", null ],
     [ "sjonnirAchievement", "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a11e2eaaa01e4267515ecb530129ca63a", null ],

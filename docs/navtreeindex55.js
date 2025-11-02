@@ -1,6 +1,5 @@
 var NAVTREEINDEX55 =
 {
-"d2/d38/northrend__script__loader_8cpp.html#a8cf65b7e13935b95a862ced493bc1ebf":[7,0,0,0,1,3,5,14,47],
 "d2/d38/northrend__script__loader_8cpp.html#a8e1c9f5854b05631a7eefcdaf101f50f":[7,0,0,0,1,3,5,14,69],
 "d2/d38/northrend__script__loader_8cpp.html#a8f90adeb34952ff3a402f1710f681580":[7,0,0,0,1,3,5,14,11],
 "d2/d38/northrend__script__loader_8cpp.html#a906ed67706bbc7d2cae677714c2eeecc":[7,0,0,0,1,3,5,14,38],
@@ -199,8 +198,8 @@ var NAVTREEINDEX55 =
 "d2/d3f/classActivePoolData.html":[6,0,126],
 "d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[6,0,126,17],
 "d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076":[6,0,126,9],
-"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,126,1],
 "d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,126,0],
+"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,126,1],
 "d2/d3f/classActivePoolData.html#a1aadfb44076691257dfb9bf97f865957":[6,0,126,16],
 "d2/d3f/classActivePoolData.html#a1aaeb7438df310b28e8c536a1ef83ebb":[6,0,126,14],
 "d2/d3f/classActivePoolData.html#a27d8f244ad75cedce9d0a341411b48b6":[6,0,126,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX55 =
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a684f8867e28c8c8840e15bf88c96d4e7":[6,0,1352,0,3],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a723cbe16c4c1c178fef21680740eac66":[6,0,1352,0,40],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a7f0d623bbc5bbed374aeae1ab9148c28":[6,0,1352,0,43],
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a81534efa86cdd1a119216c05ed6baac6":[6,0,1352,0,47]
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a81534efa86cdd1a119216c05ed6baac6":[6,0,1352,0,47],
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a89be971400c9dc156804b46222816069":[6,0,1352,0,19]
 };

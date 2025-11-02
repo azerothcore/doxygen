@@ -1,5 +1,7 @@
 var NAVTREEINDEX377 =
 {
+"de/dea/structnpc__corrupted__totem.html#aa3c6b1a3df61c9e98c62efadff637578":[6,0,1706,2],
+"de/dea/structnpc__corrupted__totem.html#ac128625268820d2e9b1f0ef5ead975e9":[6,0,1706,5],
 "de/dea/structnpc__corrupted__totem.html#ae8314903c9006b7bca94a47115a0d05b":[6,0,1706,1],
 "de/deb/LogCommon_8h.html":[7,0,0,0,0,9,10],
 "de/deb/LogCommon_8h.html#a94c1c25ceab6db205eb6a5d5a2e0e803":[7,0,0,0,0,9,10,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX377 =
 "de/df5/classWorldLocation.html#adc762865d564319245ffc3363c080365":[6,0,4314,11],
 "de/df5/classWorldLocation.html#aed21eb7d191b1e34ebd1456b427fbb2c":[6,0,4314,7],
 "de/df5/classnpc__eoe__wyrmrest__skytalon.html":[6,0,1772],
-"de/df5/classnpc__eoe__wyrmrest__skytalon.html#a01a384ab10cfccbd159f116e0bef52e8":[6,0,1772,2],
-"de/df5/classnpc__eoe__wyrmrest__skytalon.html#a55685de624b277840f8fc0c397b8aebf":[6,0,1772,1],
-"de/df5/structAreaTableEntry.html":[6,0,164]
+"de/df5/classnpc__eoe__wyrmrest__skytalon.html#a01a384ab10cfccbd159f116e0bef52e8":[6,0,1772,2]
 };

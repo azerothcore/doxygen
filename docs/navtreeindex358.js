@@ -1,5 +1,7 @@
 var NAVTREEINDEX358 =
 {
+"de/d24/structnpc__demon__chain.html#ad531f82511e5156d3b9891dd4095b0d5":[6,0,1744,6],
+"de/d25/ObjectMgr_8h.html":[7,0,0,0,1,2,18,3],
 "de/d25/ObjectMgr_8h.html#a005e96d6f6920dc164590837dd948b1b":[7,0,0,0,1,2,18,3,43],
 "de/d25/ObjectMgr_8h.html#a03c74a524185c10fc536a50f3ef69ce3":[7,0,0,0,1,2,18,3,40],
 "de/d25/ObjectMgr_8h.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,3,100],
@@ -247,7 +249,5 @@ var NAVTREEINDEX358 =
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639":[7,0,0,0,1,2,16,1,2,36,24],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de":[7,0,0,0,1,2,16,1,2,36,15],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c":[7,0,0,0,1,2,16,1,2,36,20],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f":[7,0,0,0,1,2,16,1,2,36,14],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87":[7,0,0,0,1,2,16,1,2,36,27],
-"de/d2f/CreatureData_8h.html#a2d939485aee8367ac402f581fd13d705":[7,0,0,0,1,2,16,1,2,37]
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f":[7,0,0,0,1,2,16,1,2,36,14]
 };

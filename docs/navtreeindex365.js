@@ -1,19 +1,21 @@
 var NAVTREEINDEX365 =
 {
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#a2994e5658035bb2cfe6f3cdab4c507fc":[6,0,1978,0,0],
+"de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#a490bf07de00cc5c59b5f0024317d8125":[6,0,1978,0,2],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5":[6,0,1978,0,4],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[6,0,1978,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[6,0,1978,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1978,0,5],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
-"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,18,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6d/WorldSessionMgr_8h.html":[7,0,0,0,1,2,39,8],
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[7,0,0,0,1,2,39,8,1],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX365 =
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92":[5,0,18,48,12],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9":[5,0,18,48,1],
 "de/d72/namespacelfg.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd":[5,0,18,48,4],
-"de/d72/namespacelfg.html#afd0c41953ace620938ac2509b7622b7e":[5,0,18,36],
-"de/d72/structnpc__minion__spawner.html":[6,0,1973],
-"de/d72/structnpc__minion__spawner.html#a007376c8f66a3963651f81ddd14cbbfc":[6,0,1973,1]
+"de/d72/namespacelfg.html#afd0c41953ace620938ac2509b7622b7e":[5,0,18,36]
 };

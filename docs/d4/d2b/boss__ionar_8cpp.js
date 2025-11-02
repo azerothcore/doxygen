@@ -8,7 +8,8 @@ var boss__ionar_8cpp =
       [ "EVENT_STATIC_OVERLOAD", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],
       [ "EVENT_CHECK_HEALTH", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a5545d513600badfbae47148bc756ed64", null ],
       [ "EVENT_CALL_SPARKS", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a3fc75f85681abc880dc451562f449186", null ],
-      [ "EVENT_RESTORE", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a7525c00b2c7e38d5b3b1d300c33411dc", null ]
+      [ "EVENT_RESTORE", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a7525c00b2c7e38d5b3b1d300c33411dc", null ],
+      [ "EVENT_CHANGE_TARGET", "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01aecc2f7d81ce1fd43bc3c75f6fa49b4cf", null ]
     ] ],
     [ "IonarOther", "d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45", [
       [ "NPC_SPARK_OF_IONAR", "d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45abefb182d30a413bc95249cb4b78b187c", null ],

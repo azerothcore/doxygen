@@ -1,5 +1,7 @@
 var NAVTREEINDEX202 =
 {
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceaa713ae5d9139144511c533847d7d80db":[6,0,1480,6,7],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceacf70c5ddd4124f52e9bf48013b1f90ef":[6,0,1480,6,3],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cead1d1fbf1474b770bc90c6dd83df0c13d":[6,0,1480,6,5],
 "d7/db0/classMap.html#aec8770a39e55fef7acc4ef917ca1e27d":[6,0,1480,174],
 "d7/db0/classMap.html#aec8fdf932b6233dd3ee23b469d2b10a5":[6,0,1480,31],
@@ -247,7 +249,5 @@ var NAVTREEINDEX202 =
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,3838,5],
 "d7/dbd/classspell__item__vanquished__clutches.html":[6,0,3339],
 "d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[6,0,3339,1],
-"d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[6,0,3339,0],
-"d7/dbd/classspell__item__vanquished__clutches.html#ae012e6852f079682fbafc776dec3455b":[6,0,3339,2],
-"d7/dbd/classspell__item__vanquished__clutches.html#afc10f1989ae4b9cff7527f2d73180cde":[6,0,3339,3]
+"d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[6,0,3339,0]
 };

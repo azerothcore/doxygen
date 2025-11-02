@@ -1,5 +1,6 @@
 var NAVTREEINDEX157 =
 {
+"d5/ddf/structVehicleSeatEntry.html#a9d67a5683dbd00d7a44a7aa6d689d72e":[6,0,4255,4],
 "d5/ddf/structVehicleSeatEntry.html#aa5ba65f9fde082f0d7f4c593a1a2e492":[6,0,4255,34],
 "d5/ddf/structVehicleSeatEntry.html#aa9b0a31cb8db9d4d8724566494848c5b":[6,0,4255,27],
 "d5/ddf/structVehicleSeatEntry.html#aacefbac726d145ee15bacef96056c93b":[6,0,4255,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX157 =
 "d5/dee/structboss__gatewatcher__iron__hand.html#aef70e713007af38b510f0a3b8c082b24":[6,0,494,0],
 "d5/def/boss__slad__ran_8cpp.html":[7,0,0,0,1,3,5,5,4],
 "d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,5,4,4],
-"d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82":[7,0,0,0,1,3,5,5,4,4,0],
-"d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,5,4,4,5]
+"d5/def/boss__slad__ran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82":[7,0,0,0,1,3,5,5,4,4,0]
 };

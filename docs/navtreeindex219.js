@@ -1,5 +1,7 @@
 var NAVTREEINDEX219 =
 {
+"d8/d7d/classMMapTargetData.html#a5506c303d668bbead180fe2a8c2ed48e":[6,0,1515,7],
+"d8/d7d/classMMapTargetData.html#a7f089d873690e8ea549f6345b6598fc4":[6,0,1515,9],
 "d8/d7d/classMMapTargetData.html#a8312ea3187617e78b28aab842a8284cc":[6,0,1515,1],
 "d8/d7d/classMMapTargetData.html#ade55876b7781b47a72dac9fea1f2e420":[6,0,1515,6],
 "d8/d7d/classMMapTargetData.html#aeaf1e739388ab834e8c845fa366bbfd3":[6,0,1515,8],
@@ -222,8 +224,8 @@ var NAVTREEINDEX219 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4243,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4243,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4243,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,6,39,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d88/GridRefMgr_8h.html":[7,0,0,0,1,2,19,7],
 "d8/d88/classspell__dru__primal__tenacity.html":[6,0,2840],
 "d8/d88/classspell__dru__primal__tenacity.html#a1b3e5da38a6aba7cc163bf34848ed950":[6,0,2840,2],
-"d8/d88/classspell__dru__primal__tenacity.html#a40f7cfe30b7bf2237d61665b167476fb":[6,0,2840,1],
-"d8/d88/classspell__dru__primal__tenacity.html#ab5b59d975e71e0e12bf41e8d173b9491":[6,0,2840,5],
-"d8/d88/classspell__dru__primal__tenacity.html#ac7316995b7682a6fafe47ff2547956b0":[6,0,2840,4]
+"d8/d88/classspell__dru__primal__tenacity.html#a40f7cfe30b7bf2237d61665b167476fb":[6,0,2840,1]
 };

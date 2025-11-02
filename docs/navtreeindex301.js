@@ -1,5 +1,7 @@
 var NAVTREEINDEX301 =
 {
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#aabe7cd8c61d97e1b3ea5a5736245aba0":[6,0,661,0,16],
+"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#acb777001e906749c81328df787732938":[6,0,661,0,12],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ace782c6784cccf5dee01aa4de57ca0fb":[6,0,661,0,3],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6258962c56bb67fdc09abe695a48fd7":[6,0,661,0,13],
 "dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#ae6e957dbd34e2c10d26875647faabe6b":[6,0,661,0,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d1a/CalendarMgr_8h.html#aea0466a27af69ea188d66b721b49a3d6":[7,0,0,0,1,2,10,1,5],
 "dc/d1a/CalendarMgr_8h.html#af35b9a127e069a3aed4acad11a7cc5a6":[7,0,0,0,1,2,10,1,4],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html":[6,0,3686],
-"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a1b196f3817c16fac48392981b58c1a05":[6,0,3686,0],
-"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a70a1f0d2666921ccbad62c1fd06fe4b6":[6,0,3686,3],
-"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#ad44566ff9a44057679e7ce8e1959776d":[6,0,3686,1]
+"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a1b196f3817c16fac48392981b58c1a05":[6,0,3686,0]
 };

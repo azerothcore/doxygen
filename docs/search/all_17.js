@@ -202,7 +202,7 @@ var searchData=
   ['weatherdata_199',['WeatherData',['../df/d59/structWeatherData.html',1,'']]],
   ['weatherforcast_200',['WeatherForcast',['../db/d6e/spell__item_8cpp.html#a06a241fe0c846d04b962a53fb6dc0d43',1,'spell_item.cpp']]],
   ['weathergrade_201',['WeatherGrade',['../d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d',1,'ZoneDynamicInfo']]],
-  ['weatherid_202',['weatherid',['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID'],['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId']]],
+  ['weatherid_202',['weatherid',['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId'],['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID']]],
   ['weathermgr_203',['WeatherMgr',['../df/dd4/namespaceWeatherMgr.html',1,'']]],
   ['weathermgr_2ecpp_204',['WeatherMgr.cpp',['../d1/de0/WeatherMgr_8cpp.html',1,'']]],
   ['weathermgr_2eh_205',['WeatherMgr.h',['../d0/df3/WeatherMgr_8h.html',1,'']]],

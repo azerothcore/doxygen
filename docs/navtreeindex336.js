@@ -1,5 +1,7 @@
 var NAVTREEINDEX336 =
 {
+"dd/dc8/classspell__warl__demonic__knowledge.html#a4c75f793388b533d00a52ad18f18bc6e":[6,0,3990,2],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[6,0,3990,1],
 "dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,3990,3],
 "dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22],
 "dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa6bfc9b5bd35e3fe47341abeefd5dd19":[7,0,0,0,1,2,38,0,75,1,132],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7b12e6570ec3c076d1c190aae96748c":[7,0,0,0,1,2,38,0,75,1,52],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938":[7,0,0,0,1,2,38,0,75,1,63],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa946402b647964cad6bcecd7779d7855":[7,0,0,0,1,2,38,0,75,1,49],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aacabdb19eaff4de521693cc4d123dd56":[7,0,0,0,1,2,38,0,75,1,111],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad94f0716d8254dff5cf25c8365f7d0e":[7,0,0,0,1,2,38,0,75,1,94]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa946402b647964cad6bcecd7779d7855":[7,0,0,0,1,2,38,0,75,1,49]
 };

@@ -14,7 +14,8 @@ var boss__bjarngrim_8cpp =
       [ "EVENT_BJARNGRIM_CLEAVE", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca57bfe9818949e1d4da58a470d31fba8a", null ],
       [ "EVENT_BJARNGRIM_SLAM", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca6ef3d3176238bc6f7a078dd18b7a7d43", null ],
       [ "EVENT_ARC_WELD", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca8f1e729a2691ae197dd2e50093d7cef9", null ],
-      [ "EVENT_RENEW_STEEL", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca92fa70f34449aff6e5f446edfbf17db4", null ]
+      [ "EVENT_RENEW_STEEL", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca92fa70f34449aff6e5f446edfbf17db4", null ],
+      [ "EVENT_CHARGE_UP", "d7/d9f/boss__bjarngrim_8cpp.html#aa8c3e344bed87b5cb609d644244a84dca8810dd09ce40935945293f7d0c4a7993", null ]
     ] ],
     [ "BjarngrimOther", "d7/d9f/boss__bjarngrim_8cpp.html#aa75a1bce0a129dd575456252cf7c20e7", [
       [ "STANCE_DEFENSIVE", "d7/d9f/boss__bjarngrim_8cpp.html#aa75a1bce0a129dd575456252cf7c20e7aac986ab2c07e75b57574a663f640bcb4", null ],

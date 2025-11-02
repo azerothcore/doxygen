@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a732794d8e9a9654bee92a65091727644":[6,0,538,0,4],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a73285128a5a7bb75f66686d31c0738b0":[6,0,538,0,0],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a82dfa91c49f2b63c2cb841444bffe149":[6,0,538,0,6],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a883a09552c5dffb5c00b3d0fa490ab29":[6,0,538,0,23],
@@ -248,6 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ad0a93114ab4de803888ebde738e6a67e":[6,0,1295,0,0],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ada9e7ef96b4519b3a61a37e8562a7628":[6,0,1295,0,29],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae067b6a41e79d533942265581022379e":[6,0,1295,0,26],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae297cebc14c949ff0dfd38678ecbc9bb":[6,0,1295,0,20],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aec751168cfe4eb6e73dcab9c1711e60a":[6,0,1295,0,21]
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae297cebc14c949ff0dfd38678ecbc9bb":[6,0,1295,0,20]
 };

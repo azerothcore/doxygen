@@ -1,6 +1,5 @@
 var NAVTREEINDEX93 =
 {
-"d3/d22/classAuraScript_1_1EffectProcHandler.html#ae03d27451f687319629b3c54c5a7eed5":[6,0,288,13,1],
 "d3/d22/structboss__illidan__stormrage.html":[6,0,547],
 "d3/d22/structboss__illidan__stormrage.html#a2044514c049262328022ac22a651fb92":[6,0,547,2],
 "d3/d22/structboss__illidan__stormrage.html#a2c642790b16d864ae100b5e8f30e4e61":[6,0,547,8],
@@ -86,16 +85,16 @@ var NAVTREEINDEX93 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a87fe4747536355ad7affda76640a082e":[6,0,334,0,1],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a9ddcca26fb3f4c635d7bcbb045542885":[6,0,334,0,0],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#af344a6e6bb42609887ee8a3022e9d8e5":[6,0,334,0,2],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[6,0,11,11,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,31,11,4],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,31,11,4,3],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[6,0,11,11,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[6,0,11,11,4,3],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,31,11,4,3],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[6,0,11,11,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[5,0,31,11,4,1],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[6,0,11,11,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[5,0,31,11,4,2],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,31,11,4,0],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[6,0,11,11,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[6,0,11,11,4,0],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,31,11,4,0],
 "d3/d26/classspell__ioc__launch.html":[6,0,3217],
 "d3/d26/classspell__ioc__launch.html#a2e5311b631a4cbf6002e27e4a806280c":[6,0,3217,0],
 "d3/d26/classspell__ioc__launch.html#a575a7bf98b629dd91e7ca96e388eb8fd":[6,0,3217,1],
@@ -140,8 +139,8 @@ var NAVTREEINDEX93 =
 "d3/d2a/classspell__sha__thunderstorm.html#ade4f3cb676f1cc92b0e75f85367dc3e0":[6,0,3817,2],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[5,0,1,7,0,5],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX93 =
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a70b19a8671445355e6d4d7d6112de3a6":[7,0,0,0,1,3,5,9,2,13,62,41],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a76b004432022e8fb0ffe47f530e7be21":[7,0,0,0,1,3,5,9,2,13,62,63],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a7d011822c9b680fb7e2378d3092790a6":[7,0,0,0,1,3,5,9,2,13,62,6],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a7d26e140b057da597cef5241190c50d2":[7,0,0,0,1,3,5,9,2,13,62,8]
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a7d26e140b057da597cef5241190c50d2":[7,0,0,0,1,3,5,9,2,13,62,8],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a808affa9dc7c071a593aa197b35647fb":[7,0,0,0,1,3,5,9,2,13,62,10]
 };

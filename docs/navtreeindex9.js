@@ -11,8 +11,7 @@ var NAVTREEINDEX9 =
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html":[6,0,1310,0],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a0ba409129e2b0cb84b731043755e70e3":[6,0,1310,0,11],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a0cb02aa1c1e2147eac7f925173a045ff":[6,0,1310,0,1],
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a11e2eaaa01e4267515ecb530129ca63a":[6,0,1310,0,26],
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a2331aa94ef86d7faf83fd38c624826ce":[6,0,1310,0,23],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a11e2eaaa01e4267515ecb530129ca63a":[6,0,1310,0,25],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a276ec28a0276f07da3940243c76c53e1":[6,0,1310,0,9],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a43e7e1d4b2c8328ea3650ba9363b7512":[6,0,1310,0,18],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a46bb87153d9b09876c720f9bc1d16a5d":[6,0,1310,0,8],
@@ -20,11 +19,11 @@ var NAVTREEINDEX9 =
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a577cdfa8f49c2ec0f3fc8fd836345f8d":[6,0,1310,0,6],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a5b658dd42d84a74033c12217ca67ea11":[6,0,1310,0,7],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a62feee8bc5d28c3361a62a77188c4dd0":[6,0,1310,0,4],
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a7ae1fdc168ece52389aabde3857d7ba3":[6,0,1310,0,24],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a7ae1fdc168ece52389aabde3857d7ba3":[6,0,1310,0,23],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a81c812791b26833b3dd1aa3036ad28cc":[6,0,1310,0,20],
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a84541b0645efa4acbd27ef390b47b39e":[6,0,1310,0,27],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a84541b0645efa4acbd27ef390b47b39e":[6,0,1310,0,26],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a8d5b25ceb4f77c6ce928b48b714d3d20":[6,0,1310,0,19],
-"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#aa303da423ad09251abefd6983936dc03":[6,0,1310,0,25],
+"d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#aa303da423ad09251abefd6983936dc03":[6,0,1310,0,24],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ab44bcd56bdc9731e5e00941126e2c848":[6,0,1310,0,14],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ab45223f5f1282adbd0a208ae05807ffd":[6,0,1310,0,21],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#abf1e566b7cff32561a68c7ad59783126":[6,0,1310,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX9 =
 "d0/d79/structboss__varos_1_1boss__varosAI.html#aef225fcf580c5e500d3242ac4be24260":[6,0,761,0,11],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#aef24d04954a26bb6381c860403e84288":[6,0,761,0,6],
 "d0/d79/structboss__varos_1_1boss__varosAI.html#af4c8e11f0aad369f09902eb1ccc48059":[6,0,761,0,10],
-"d0/d7a/classachievement__flu__shot__shortage.html":[6,0,54]
+"d0/d7a/classachievement__flu__shot__shortage.html":[6,0,54],
+"d0/d7a/classachievement__flu__shot__shortage.html#a3195af1d4504ffc200c99bef84eaaa5a":[6,0,54,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX341 =
 {
+"dd/dfa/structboss__nightbane.html#a9a42862b459b6447a0a3b59828515337":[6,0,641,15],
+"dd/dfa/structboss__nightbane.html#aa27b56f7248f504d9a79de0f5f104961":[6,0,641,3],
 "dd/dfa/structboss__nightbane.html#aab88cfbfbf9bdb347683b6c49ee455ee":[6,0,641,14],
 "dd/dfa/structboss__nightbane.html#add269fc76dc2094109261d654e0cb75b":[6,0,641,6],
 "dd/dfa/structboss__nightbane.html#ae15a984403ef5ef27b58400dbc92777d":[6,0,641,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX341 =
 "de/d05/classspell__gen__elemental__shield.html#a0d244cc1785b136bae0960d697dc761d":[6,0,2960,0],
 "de/d05/classspell__gen__elemental__shield.html#a13f3ebef30c315c02090ee3a19a156e4":[6,0,2960,1],
 "de/d05/classspell__gen__elemental__shield.html#a1413754f3a79caf8ec57d394c68f3499":[6,0,2960,3],
-"de/d05/classspell__gen__elemental__shield.html#a3871fb036ec6e0ea006f869c21e88c8f":[6,0,2960,2],
-"de/d06/structDialogueEntry.html":[6,0,981],
-"de/d06/structDialogueEntry.html#a360822e4c069be6019c0a465cb2499cf":[6,0,981,2]
+"de/d05/classspell__gen__elemental__shield.html#a3871fb036ec6e0ea006f869c21e88c8f":[6,0,2960,2]
 };

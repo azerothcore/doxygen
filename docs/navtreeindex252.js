@@ -1,5 +1,7 @@
 var NAVTREEINDEX252 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[7,0,0,0,1,2,41,0,0,6,201],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c38d7d76b8741d45023a0ccc3c0f9b3":[7,0,0,0,1,2,41,0,0,6,25],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c684b941fc93d5488ff49a976973596":[7,0,0,0,1,2,41,0,0,6,27],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6ce8ab254d7a5e7caa05e4c53549a117":[7,0,0,0,1,2,41,0,0,6,72],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6d1575d5094063c40f7efb7816adabe2":[7,0,0,0,1,2,41,0,0,6,158],
@@ -247,7 +249,5 @@ var NAVTREEINDEX252 =
 "da/d32/classBattlegroundRL.html#a2d03a49dee964bcaa3421a93d0735e63":[6,0,335,3],
 "da/d32/classBattlegroundRL.html#a3393353028ffd35eaad1d5e121654366":[6,0,335,4],
 "da/d32/classBattlegroundRL.html#a410a5dbfa6fccbe802058d60eb7393d9":[6,0,335,1],
-"da/d32/classBattlegroundRL.html#aae633887d9689898c8b73efa8257eb34":[6,0,335,5],
-"da/d32/classBattlegroundRL.html#ad1184e3e2f09a6665d40a75006e6f863":[6,0,335,2],
-"da/d32/classBattlegroundRL.html#adb2ec6770c2b25b94f8f7dff7486d5cf":[6,0,335,6]
+"da/d32/classBattlegroundRL.html#aae633887d9689898c8b73efa8257eb34":[6,0,335,5]
 };

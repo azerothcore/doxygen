@@ -1,6 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad51aba21f7e5b95a983511035fb6b293":[7,0,0,0,1,3,5,7,6,2,2],
 "d3/d91/suns__reach__reclamation_8cpp.html":[7,0,0,0,1,3,10,19],
 "d3/d91/suns__reach__reclamation_8cpp.html#ae3e186d64e39803c404f1afb2144557b":[7,0,0,0,1,3,10,19,2],
 "d3/d92/Map_8cpp.html":[7,0,0,0,1,2,26,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX103 =
 "d3/d9d/structChrRacesEntry.html#a33a01b1c26b21706d9898af246f2a0df":[6,0,874,1],
 "d3/d9d/structChrRacesEntry.html#a4807227fd863e247b18d29db0ea8236a":[6,0,874,5],
 "d3/d9d/structChrRacesEntry.html#a4970323e45feb3f74b47420648371ab6":[6,0,874,7],
-"d3/d9d/structChrRacesEntry.html#a50b5409352d7fe3e6f5919d83c9a0eae":[6,0,874,6]
+"d3/d9d/structChrRacesEntry.html#a50b5409352d7fe3e6f5919d83c9a0eae":[6,0,874,6],
+"d3/d9d/structChrRacesEntry.html#a5c66801f2f89aeb847699a2dd87486c7":[6,0,874,3]
 };

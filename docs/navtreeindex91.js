@@ -1,6 +1,5 @@
 var NAVTREEINDEX91 =
 {
-"d3/d0b/namespaceAcore.html#abe75d0f25949e80d5b51da03acf71f63":[5,0,1,193],
 "d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478":[5,0,1,228],
 "d3/d0b/namespaceAcore.html#ac344e92ea8d73f94dc08c6a52001ec3e":[5,0,1,204],
 "d3/d0b/namespaceAcore.html#ac486e8c9cdad8809eacd83339cdb121d":[5,0,1,224],
@@ -120,22 +119,22 @@ var NAVTREEINDEX91 =
 "d3/d13/structADT_1_1MODF.html":[5,0,3,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,3,1,2],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[6,0,1,1,2],
-"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,3,1,7],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[6,0,1,1,7],
+"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,3,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[6,0,1,1,0],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,3,1,0],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[6,0,1,1,6],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,3,1,6],
-"d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,3,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[6,0,1,1,4],
-"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,3,1,8],
+"d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,3,1,4],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[6,0,1,1,8],
+"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,3,1,8],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[6,0,1,1,5],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[5,0,3,1,5],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[5,0,3,1,3],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[6,0,1,1,3],
-"d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[5,0,3,1,1],
 "d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[6,0,1,1,1],
+"d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[5,0,3,1,1],
 "d3/d13/structOverrideSpellDataEntry.html":[6,0,2370],
 "d3/d13/structOverrideSpellDataEntry.html#a22e48015dd880199e131089e35b1ce05":[6,0,2370,0],
 "d3/d13/structOverrideSpellDataEntry.html#a956d683b42f34eae3a1ea3f8882716fd":[6,0,2370,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX91 =
 "d3/d17/namespaceBuiltInConfig.html#af38bc6d6ef36ab9b44b7bf5446659672":[5,0,9,1],
 "d3/d18/boss__hadronox_8cpp.html":[7,0,0,0,1,3,5,0,1,2],
 "d3/d18/boss__hadronox_8cpp.html#a144cf4142a4a46421155a635cb3a31ed":[7,0,0,0,1,3,5,0,1,2,11],
-"d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,0,1,2,8]
+"d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,0,1,2,8],
+"d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a123080b47b40ec5035e79d368e741ff9":[7,0,0,0,1,3,5,0,1,2,8,2]
 };

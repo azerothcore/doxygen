@@ -1,5 +1,6 @@
 var NAVTREEINDEX151 =
 {
+"d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298cad884441c2d29fa71a1fe2d33a37bcd64":[7,0,0,0,1,3,2,16,3,12,9],
 "d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298caef2f2be9981c9690859dfb83ccb40dc0":[7,0,0,0,1,3,2,16,3,12,7],
 "d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298caf82d60b8b2c47d543c8500ec9140291e":[7,0,0,0,1,3,2,16,3,12,6],
 "d5/da5/boss__hakkar_8cpp.html#aab176fc3ec0004c73cb5279911a3a60b":[7,0,0,0,1,3,2,16,3,13],
@@ -122,10 +123,10 @@ var NAVTREEINDEX151 =
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a447c2cd258d784ca1d79c79412a1a426":[6,0,2029,0],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#a694ee5f884f1bd404f0ef3d3030a212f":[6,0,2029,3],
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#ac68f18d68a313623c04e885f9506f287":[6,0,2029,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,10,5],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,11,10,5],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,10,5,2],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,31,10,5],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,11,10,5,2],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,10,5,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,10,5,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,10,5,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,10,5,4],
@@ -247,7 +248,6 @@ var NAVTREEINDEX151 =
 "d5/db0/classVMAP_1_1WorldModel.html#a3a198d0cbd607e574cb53a08d6b7457a":[6,0,9,27,2],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[5,0,28,27,0],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[6,0,9,27,0],
-"d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[6,0,9,27,12],
 "d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[5,0,28,27,12],
-"d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[6,0,9,27,7]
+"d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[6,0,9,27,12]
 };

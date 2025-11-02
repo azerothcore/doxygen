@@ -1,5 +1,6 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aec751168cfe4eb6e73dcab9c1711e60a":[6,0,1295,0,21],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af11ea775901923751d9b4bc8fd3c5a6b":[6,0,1295,0,6],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af5aebfd62d13d91e9cea725ac29c4d5e":[6,0,1295,0,42],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af62d430b0a9d08f5a369769c68e107c2":[6,0,1295,0,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#add878d336fa7e20bee4d05ac0383dd0a":[6,0,1851,0,5],
 "d5/dd1/boss__trollgore_8cpp.html":[7,0,0,0,1,3,5,3,3],
 "d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,3,3,8],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,3,3,8,4],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2009e54e67292bb522a106376667b162":[7,0,0,0,1,3,5,3,3,8,2]
+"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,3,3,8,4]
 };

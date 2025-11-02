@@ -1,6 +1,5 @@
 var NAVTREEINDEX23 =
 {
-"d0/dff/classUpdateMask.html#aaac0596975c08d04736996c608eff29f":[6,0,4237,16],
 "d0/dff/classUpdateMask.html#ab34e66bf840ac230da0cfa35ef332145":[6,0,4237,17],
 "d0/dff/classUpdateMask.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b":[6,0,4237,18],
 "d0/dff/classUpdateMask.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35":[6,0,4237,15],
@@ -201,10 +200,10 @@ var NAVTREEINDEX23 =
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,31,14,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,11,14,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[5,0,31,14,1,0],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,31,14,1,2],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[6,0,11,14,1,2],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,31,14,1,1],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,31,14,1,2],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[6,0,11,14,1,1],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,31,14,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[5,0,31,14,1,3],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[6,0,11,14,1,3],
 "d1/d02/classspell__dru__berserk.html":[6,0,2822],
@@ -245,9 +244,10 @@ var NAVTREEINDEX23 =
 "d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,127,6],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[5,0,1,127,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[6,0,0,115,8],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a49da99cbbcf8f839d810d6ac6a2502e0":[6,0,0,115,4],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a49da99cbbcf8f839d810d6ac6a2502e0":[5,0,1,127,4],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[6,0,0,115,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a49da99cbbcf8f839d810d6ac6a2502e0":[6,0,0,115,4],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[5,0,1,127,5],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[5,0,1,127,2]
+"d1/d05/structAcore_1_1VisibleNotifier.html#a6cfba0f042e117cfdb7bdf1f1168c0ce":[6,0,0,115,5],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[5,0,1,127,2],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,115,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX274 =
 {
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a6d45699d2efacdc0aca88dba3f67d20a":[6,0,685,0,3],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a7aaca15038bf53ff3baaeb39c7713bff":[6,0,685,0,15],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a8502d5c79b7baac2f9a68349e99b7b16":[6,0,685,0,8],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#aadd3b8f29b49b67685d67036c5f2775f":[6,0,685,0,13],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab72889e00eb1fad659f807620e81e23e":[6,0,685,0,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX274 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a0b5d70a7a9bf27696295ccbbffd2a8b9":[6,0,2681,2],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a1f1c3e0ea24174605a7be8fa02e30518":[6,0,2681,1],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a2804f25643e59f3922291abcb055b641":[6,0,2681,3],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2681,0],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2681,4],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#aa239a693db5fa38ac260a37b25e0e6d9":[6,0,2681,5]
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2681,0]
 };

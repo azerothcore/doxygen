@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/db1/structnpc__anubisath__defender.html#a6505fcae0e99cae44750f16daddc3309":[6,0,1601,3],
 "d6/db1/structnpc__anubisath__defender.html#ab10d9ac93aab97172f630e1d7d8faca0":[6,0,1601,4],
 "d6/db1/structnpc__anubisath__defender.html#ae24a21ad3ebcaa4b8312a1fea66131ba":[6,0,1601,0],
 "d6/db2/Hyperlinks_8h.html":[7,0,0,0,1,2,11,5],
@@ -70,8 +71,8 @@ var NAVTREEINDEX178 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dc2/boss__talon__king__ikiss_8cpp.html":[7,0,0,0,1,3,7,0,2,2],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,2,2,2],
 "d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,7,0,2,2,2,0],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca1755d0e87e42f37b4da0b5de7c2245c8":[7,0,0,0,1,3,7,0,2,2,2,3],
-"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d3027bd3bcdc06e0ea4f687afdb22a8":[7,0,0,0,1,3,7,0,2,2,2,6]
+"d6/dc2/boss__talon__king__ikiss_8cpp.html#a5bd342133be8c2137b831460acc9298ca1755d0e87e42f37b4da0b5de7c2245c8":[7,0,0,0,1,3,7,0,2,2,2,3]
 };

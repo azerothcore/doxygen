@@ -1,10 +1,9 @@
 var NAVTREEINDEX24 =
 {
-"d1/d05/structAcore_1_1VisibleNotifier.html#a77d110af6b97c2a4d93ff53a8771273d":[6,0,0,115,2],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,115,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[5,0,1,127,3],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[6,0,0,115,1],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[6,0,0,115,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[5,0,1,127,1],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[6,0,0,115,1],
 "d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[5,0,1,127,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[6,0,0,115,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[6,0,0,115,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a2e3209b928de6369fca0b4091b6a5f71":[6,0,2588,159],
 "d1/d16/classSpell.html#a2eda0fa03bb717283c0e171240ea9876":[6,0,2588,151],
 "d1/d16/classSpell.html#a30632e1ecd5e715be350b64e87cc5929":[6,0,2588,295],
-"d1/d16/classSpell.html#a30881d4370dcdfa61d1e15d85a32e84a":[6,0,2588,158]
+"d1/d16/classSpell.html#a30881d4370dcdfa61d1e15d85a32e84a":[6,0,2588,158],
+"d1/d16/classSpell.html#a30c8ef8c535b71fd5a76e25aef1d7401":[6,0,2588,138]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX291 =
 {
+"db/dc8/structScriptedAI.html#a88870819cc6305947053b8ada574afdb":[6,0,2525,5],
+"db/dc8/structScriptedAI.html#a8d6c7fd71269453c229326c9785006e8":[6,0,2525,40],
 "db/dc8/structScriptedAI.html#a91bb9b68864798e501f04cf6b4224c19":[6,0,2525,24],
 "db/dc8/structScriptedAI.html#a967ab195c2a069153701e99655512282":[6,0,2525,48],
 "db/dc8/structScriptedAI.html#a9a0fd54ad51d110908c3aacdf348ad7f":[6,0,2525,23],
@@ -65,10 +67,10 @@ var NAVTREEINDEX291 =
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[5,0,20,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[6,0,6,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[5,0,20,0,0,0],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[5,0,20,0,0,4],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[6,0,6,0,0,4],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[5,0,20,0,0,5],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[5,0,20,0,0,4],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[6,0,6,0,0,5],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[5,0,20,0,0,5],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[5,0,20,0,0,2],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[6,0,6,0,0,2],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[5,0,20,0,0,6],
@@ -103,10 +105,10 @@ var NAVTREEINDEX291 =
 "db/dcb/classspell__bronjahm__soulstorm__visual__aura.html#abe9cc0a87d84504ee029cc565dd97ef5":[6,0,2699,0],
 "db/dcc/MySQLPreparedStatement_8cpp.html":[7,0,0,0,1,1,0,17],
 "db/dcc/MySQLPreparedStatement_8cpp.html#a4c2b053ff0b94326f3c01cc7c6e61e8a":[7,0,0,0,1,1,0,17,11],
-"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html":[6,0,7,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX291 =
 "db/dce/classAura.html#ae44dc9394657b8fbc90bec95911cac03":[6,0,281,48],
 "db/dce/classAura.html#ae63436802a402d26115d21f4a2073e1a":[6,0,281,129],
 "db/dce/classAura.html#ae88253dbdddede64cf443796dc155852":[6,0,281,55],
-"db/dce/classAura.html#aeb7fadeb3b25c9d5a2903e5c1ea06ff2":[6,0,281,141],
-"db/dce/classAura.html#af0236680754f81e374b015640e4b6eff":[6,0,281,30],
-"db/dce/classAura.html#af22450afa8bf33c979c0a0f7d801ab4c":[6,0,281,130]
+"db/dce/classAura.html#aeb7fadeb3b25c9d5a2903e5c1ea06ff2":[6,0,281,141]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/dcd/classnpc__fel__infernal.html#a768201a7516c9972800c941cf2079a11":[6,0,1780,2],
+"d9/dcd/classspell__anetheron__sleep.html":[6,0,2607],
 "d9/dcd/classspell__anetheron__sleep.html#a2b7ec1db13418f2e369faab6ec8422b4":[6,0,2607,1],
 "d9/dcd/classspell__anetheron__sleep.html#a6375482bd9d1fc6c6941607273c506dc":[6,0,2607,2],
 "d9/dcd/classspell__anetheron__sleep.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0":[6,0,2607,0],
@@ -177,20 +179,20 @@ var NAVTREEINDEX244 =
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208":[7,0,0,0,1,3,4,28,11,8],
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21":[7,0,0,0,1,3,4,28,11,4],
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217":[7,0,0,0,1,3,4,28,11,0],
-"d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,79],
 "d9/ddd/classAcore_1_1IteratorPair.html":[6,0,0,67],
+"d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,79],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,67,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,79,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,67,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,79,5],
-"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,79,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,67,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,79,0],
-"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,79,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,67,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,67,2],
+"d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,79,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,288,10],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a15c0b24641cb04f31bb3d651dae59448":[6,0,288,10,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html#a5ca2a9c329a7dbbb7e835849ca4479aa":[6,0,288,10,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/de7/classFrostwyrmLandEvent.html#a4da77796a223e6233ac6d908f7700623":[6,0,1071,1],
 "d9/de7/classFrostwyrmLandEvent.html#a6336050092606ebb27a180abff55dfa2":[6,0,1071,3],
 "d9/de7/classFrostwyrmLandEvent.html#a6b6a467c474a5b03be40e4d9a86eddc8":[6,0,1071,0],
-"d9/de7/classFrostwyrmLandEvent.html#a7f5b4c41c459b65e30dea66f7459a7e9":[6,0,1071,2],
-"d9/de7/classspell__hakkar__power__down.html":[6,0,3074],
-"d9/de7/classspell__hakkar__power__down.html#a1063358ed71ded8454f35f43442354ab":[6,0,3074,2]
+"d9/de7/classFrostwyrmLandEvent.html#a7f5b4c41c459b65e30dea66f7459a7e9":[6,0,1071,2]
 };

@@ -50,7 +50,7 @@ var searchData=
   ['waypointlist_47',['WaypointList',['../d2/ddc/structnpc__escortAI.html#a32b202fd53af5a26d1e5d0a1a9a593e2',1,'npc_escortAI']]],
   ['waypointpositions_48',['WaypointPositions',['../d1/da2/boss__four__horsemen_8cpp.html#a6dd0a124b51700a6fc60e62efd979d04',1,'boss_four_horsemen.cpp']]],
   ['weathergrade_49',['WeatherGrade',['../d7/d59/structZoneDynamicInfo.html#a923c3231c49554addd1522f0ccc50e2d',1,'ZoneDynamicInfo']]],
-  ['weatherid_50',['weatherid',['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId'],['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID']]],
+  ['weatherid_50',['weatherid',['../d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134',1,'WorldPackets::Misc::Weather::WeatherID'],['../d7/d59/structZoneDynamicInfo.html#a4df1e694992a3c2638460601e4c4d7c9',1,'ZoneDynamicInfo::WeatherId']]],
   ['weegliguid_51',['WeegliGUID',['../df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#aa3311d5419590e248f7746e1ae8eb1a1',1,'instance_zulfarrak::instance_zulfarrak_InstanceMapScript']]],
   ['week_52',['WEEK',['../dc/d33/Common_8h.html#a688431b3f57feed4c5408d11114cdf1a',1,'Common.h']]],
   ['weekgames_53',['weekgames',['../d2/d8b/structArenaTeamStats.html#a1d0092200b2c9428e821473949cfda77',1,'ArenaTeamStats::WeekGames'],['../d4/ddf/structArenaTeamMember.html#a97906127f7eb1babe2bf2ebcda7c0a88',1,'ArenaTeamMember::WeekGames']]],

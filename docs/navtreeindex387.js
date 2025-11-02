@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b":[7,0,0,0,1,3,2,1,0,0,14,0],
+"df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700":[7,0,0,0,1,3,2,1,0,0,14,1],
 "df/d57/blackrock__depths_8cpp.html#a26123366b238dd51ab03de9e763db822":[7,0,0,0,1,3,2,1,0,0,25],
 "df/d57/blackrock__depths_8cpp.html#a45b983ab1cb7b86457cb9e2996c3db7e":[7,0,0,0,1,3,2,1,0,0,15],
 "df/d57/blackrock__depths_8cpp.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6":[7,0,0,0,1,3,2,1,0,0,15,0],
@@ -101,8 +103,8 @@ var NAVTREEINDEX387 =
 "df/d5c/structboss__crone.html#ae4d343636955589d740d1df4e21fba99":[6,0,415,5],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,27,1],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,1],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,27,1,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,8,1,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,27,1,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,4,8,1,3],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa32529ebd1d3d907ec4212b5afa48b22f":[7,0,0,0,1,3,4,8,1,3,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "df/d6c/structB64Impl.html#a2e5699431f24ca6b745294b935b99240":[6,0,300,4],
 "df/d6c/structB64Impl.html#a5efb6c842ab7733dc26fd67f1a00ccdf":[6,0,300,2],
 "df/d6c/structB64Impl.html#a8fccf3d4b22e835fc4dca6b942771a2a":[6,0,300,3],
-"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,300,0],
-"df/d6c/structB64Impl.html#ad6cde2310ca52940df1bbf93deff6b91":[6,0,300,1],
-"df/d6c/structBattlegroundEYLosingPointStruct.html":[6,0,324]
+"df/d6c/structB64Impl.html#aba5ab7c59ce77414bca38bfcde32d1c0":[6,0,300,0]
 };

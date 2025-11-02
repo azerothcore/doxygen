@@ -1,5 +1,7 @@
 var NAVTREEINDEX391 =
 {
+"df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30":[6,0,4122,21],
+"df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3":[6,0,4122,66],
 "df/d92/classSpellScript.html#a7766a6cfd39473509b29c35a79a6d12d":[6,0,4122,48],
 "df/d92/classSpellScript.html#a7a71facae73e117fd41ec362729eccca":[6,0,4122,49],
 "df/d92/classSpellScript.html#a7ed2ae7fcbd576aff87d34eb57290af4":[6,0,4122,71],
@@ -57,8 +59,8 @@ var NAVTREEINDEX391 =
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2207,0,3],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[6,0,2207,0,1],
 "df/d94/classDBCFile_1_1Iterator.html":[6,0,959,1],
-"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,959,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,959,1,10],
+"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,959,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,959,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,959,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,959,1,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX391 =
 "df/d9b/structboss__jarien.html#a06b02c7f7dff885a86609e0116f2fd96":[6,0,557,9],
 "df/d9b/structboss__jarien.html#a19e07a3da93e487b5984a8de0c7f26c9":[6,0,557,0],
 "df/d9b/structboss__jarien.html#a2e54c5ae404be944eeff3a57c96aa8ca":[6,0,557,2],
-"df/d9b/structboss__jarien.html#a418380b56f3432b5aec84737012f4693":[6,0,557,3],
-"df/d9b/structboss__jarien.html#a8b9f1f2e7e45adf8df436b5c71555272":[6,0,557,1],
-"df/d9b/structboss__jarien.html#aa88435f313dc2b7880bca8f4cdb7a537":[6,0,557,7]
+"df/d9b/structboss__jarien.html#a418380b56f3432b5aec84737012f4693":[6,0,557,3]
 };

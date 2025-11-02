@@ -1,5 +1,7 @@
 var NAVTREEINDEX299 =
 {
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1af1a666ea0d02fcaa052b6a4e232855f5":[7,0,0,0,1,3,2,6,3,9,10],
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1afb793747c717daaa6a0d41719459878f":[7,0,0,0,1,3,2,6,3,9,14],
 "dc/d00/chapter5_8cpp.html#a946fafe9c84bca2b2b604d0729ca6bf7":[7,0,0,0,1,3,2,6,3,13],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cad":[7,0,0,0,1,3,2,6,3,5],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada00cc5284ba1107951f133a90541f15c8":[7,0,0,0,1,3,2,6,3,5,92],
@@ -247,7 +249,5 @@ var NAVTREEINDEX299 =
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2296,2],
 "dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2296,1],
 "dc/d05/structboss__anomalus.html":[6,0,377],
-"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[6,0,377,9],
-"dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[6,0,377,5],
-"dc/d05/structboss__anomalus.html#a41e257481921a122dba30348559e05fb":[6,0,377,3]
+"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[6,0,377,9]
 };

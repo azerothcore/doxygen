@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"dd/d22/classspell__red__sky__effect.html":[6,0,3735],
+"dd/d22/classspell__red__sky__effect.html#a31fdc4d630a4a6647d2a9b1100aecdad":[6,0,3735,1],
 "dd/d22/classspell__red__sky__effect.html#a64a861b5c25df5780390aa55899393d7":[6,0,3735,2],
 "dd/d22/classspell__red__sky__effect.html#aec32d6b45bdcfe3a6a32c2fb7558edd1":[6,0,3735,0],
 "dd/d22/structPlayerLevelInfo.html":[6,0,2420],
@@ -58,20 +60,20 @@ var NAVTREEINDEX322 =
 "dd/d25/classGuildScript.html#ad0733568cee8ded5c89d8404166201bb":[6,0,1258,7],
 "dd/d26/SocialMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
 "dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,9,11],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,11,9,11],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,31,9,11,2],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,9,11],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,11,9,11,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[6,0,11,9,11,4],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,31,9,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,31,9,11,4],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,31,9,11,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[6,0,11,9,11,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,9,11,1],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,31,9,11,1],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[6,0,11,9,11,0],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[5,0,31,9,11,0],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,31,9,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[6,0,11,9,11,3],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,31,9,11,5],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,31,9,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[6,0,11,9,11,5],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,31,9,11,5],
 "dd/d26/structtf__tower__world__state.html":[6,0,4173],
 "dd/d26/structtf__tower__world__state.html#a0b9b712fc851286077ee5bbd8136a413":[6,0,4173,1],
 "dd/d26/structtf__tower__world__state.html#aad82b0a6ff47c6997a6b8d5492748b63":[6,0,4173,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d27/structSmartAction.html#a622f16ef99b42106e5ddec59f549f41a":[6,0,2568,21],
 "dd/d27/structSmartAction.html#a62e2657f90bc0d133f3a37686716a7a0":[6,0,2568,290],
 "dd/d27/structSmartAction.html#a63d2a4b614e574b263391e665ef8176d":[6,0,2568,277],
-"dd/d27/structSmartAction.html#a63ece9f31b536da4a18595614044fa22":[6,0,2568,126],
-"dd/d27/structSmartAction.html#a63efdce1a8477af7a2644befdf55f9ea":[6,0,2568,130],
-"dd/d27/structSmartAction.html#a654eaa80277cced61f830b3a22e82dec":[6,0,2568,264]
+"dd/d27/structSmartAction.html#a63ece9f31b536da4a18595614044fa22":[6,0,2568,126]
 };

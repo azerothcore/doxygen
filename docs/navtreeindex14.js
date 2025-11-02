@@ -1,6 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a35b776c9acb976b6930f5d0851b7cd79":[7,0,0,0,1,2,8,1,11,15,69],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a36000f3815df177069b2bef00aba4540":[7,0,0,0,1,2,8,1,11,15,60],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3bd9cb7368abc36e9a221225a6ba6392":[7,0,0,0,1,2,8,1,11,15,9],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a3eb5e05eee22dd0d729eea833e75a497":[7,0,0,0,1,2,8,1,11,15,81],
@@ -249,5 +248,6 @@ var NAVTREEINDEX14 =
 "d0/d9b/classboss__gyth.html":[6,0,516],
 "d0/d9b/classboss__gyth.html#a286d19b0a6e317cb7e69343982b71062":[6,0,516,1],
 "d0/d9b/classboss__gyth.html#a3706cbdd1bfb16112653d31cfa971b30":[6,0,516,2],
-"d0/d9b/structboss__dalronn__the__controller.html":[6,0,420]
+"d0/d9b/structboss__dalronn__the__controller.html":[6,0,420],
+"d0/d9b/structboss__dalronn__the__controller.html#a1c3e44fe347e9c1ec45db19865bb5110":[6,0,420,7]
 };
