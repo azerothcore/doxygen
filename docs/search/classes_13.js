@@ -138,7 +138,7 @@ var searchData=
   ['spell_5fazgalor_5fdoom_135',['spell_azgalor_doom',['../dd/dd2/classspell__azgalor__doom.html',1,'']]],
   ['spell_5fazgalor_5fdoom_5faura_136',['spell_azgalor_doom_aura',['../d6/d1c/classspell__azgalor__doom__aura.html',1,'']]],
   ['spell_5fazjol_5fdrain_5fpower_137',['spell_azjol_drain_power',['../d6/d31/classspell__azjol__drain__power.html',1,'']]],
-  ['spell_5fazjol_5fnerub_5fcarrion_5fbeetels_138',['spell_azjol_nerub_carrion_beetels',['../df/db7/classspell__azjol__nerub__carrion__beetels.html',1,'']]],
+  ['spell_5fazjol_5fnerub_5fcarrion_5fbeetles_138',['spell_azjol_nerub_carrion_beetles',['../d4/dec/classspell__azjol__nerub__carrion__beetles.html',1,'']]],
   ['spell_5fazjol_5fnerub_5ffixate_139',['spell_azjol_nerub_fixate',['../dc/d75/classspell__azjol__nerub__fixate.html',1,'']]],
   ['spell_5fazjol_5fnerub_5fimpale_5fsummon_140',['spell_azjol_nerub_impale_summon',['../da/d0e/classspell__azjol__nerub__impale__summon.html',1,'']]],
   ['spell_5fazjol_5fnerub_5fpound_141',['spell_azjol_nerub_pound',['../d3/d37/classspell__azjol__nerub__pound.html',1,'']]],

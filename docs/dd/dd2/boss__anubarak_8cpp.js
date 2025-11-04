@@ -1,28 +1,34 @@
 var boss__anubarak_8cpp =
 [
-    [ "boss_anub_arak", "d1/df4/classboss__anub__arak.html", "d1/df4/classboss__anub__arak" ],
-    [ "boss_anub_arak::boss_anub_arakAI", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI.html", "dd/dd7/structboss__anub__arak_1_1boss__anub__arakAI" ],
-    [ "spell_azjol_nerub_carrion_beetels", "df/db7/classspell__azjol__nerub__carrion__beetels.html", "df/db7/classspell__azjol__nerub__carrion__beetels" ],
+    [ "boss_anub_arak", "d1/d8e/structboss__anub__arak.html", "d1/d8e/structboss__anub__arak" ],
+    [ "spell_azjol_nerub_carrion_beetles", "d4/dec/classspell__azjol__nerub__carrion__beetles.html", "d4/dec/classspell__azjol__nerub__carrion__beetles" ],
     [ "spell_azjol_nerub_pound", "d3/d37/classspell__azjol__nerub__pound.html", "d3/d37/classspell__azjol__nerub__pound" ],
     [ "spell_azjol_nerub_impale_summon", "da/d0e/classspell__azjol__nerub__impale__summon.html", "da/d0e/classspell__azjol__nerub__impale__summon" ],
-    [ "ANAnubarakNpcs", "dd/dd2/boss__anubarak_8cpp.html#af7c163562872221128fbc5364ab691d3", [
-      [ "NPC_ANUBAR_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#af7c163562872221128fbc5364ab691d3aee43e0ed66739f4855b4349c08825044", null ],
-      [ "NPC_ANUBAR_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#af7c163562872221128fbc5364ab691d3aad29ef5dde44c6706ec77ef755dd8333", null ]
+    [ "CreatureIds", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963e", [
+      [ "NPC_WORLD_TRIGGER", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea2de54d34271fcadd2d72ee13d7e0ce48", null ],
+      [ "NPC_ANUBAR_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963eaee43e0ed66739f4855b4349c08825044", null ],
+      [ "NPC_ANUBAR_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963eaad29ef5dde44c6706ec77ef755dd8333", null ]
+    ] ],
+    [ "Events", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
+      [ "EVENT_CARRION_BEETLES", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a29398c42277493fba085be78d83e9793", null ],
+      [ "EVENT_LEECHING_SWARM", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac84d40b2869575c0552fca376701ef2c", null ],
+      [ "EVENT_IMPALE", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6", null ],
+      [ "EVENT_POUND", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac853e2b296604ddbdba385f171046d0b", null ],
+      [ "EVENT_ENABLE_ROTATE", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac19ae1fe556e9550431bdd7f1f984ac0", null ],
+      [ "EVENT_CLOSE_DOORS", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40e77434f465796503894bb925a102a0", null ],
+      [ "EVENT_EMERGE", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_SUMMON_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af696ec4d1bd7277e582d97bd21b8f451", null ],
+      [ "EVENT_SUMMON_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ead9e8f3e9c529e31b9b40545bb916a", null ],
+      [ "EVENT_SUMMON_DARTER", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6", null ],
+      [ "EVENT_SUMMON_ASSASSINS", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804", null ],
+      [ "EVENT_KILL_TALK", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
     ] ],
     [ "Misc", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "ACHIEV_TIMED_START_EVENT", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_CARRION_BEETELS", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aef23c96ea4a6265bca522a0df262fcf3", null ],
-      [ "EVENT_LEECHING_SWARM", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac84d40b2869575c0552fca376701ef2c", null ],
-      [ "EVENT_IMPALE", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3022b3440e7efa171e76be3d6fc7ba6", null ],
-      [ "EVENT_POUND", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac853e2b296604ddbdba385f171046d0b", null ],
-      [ "EVENT_CLOSE_DOORS", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a40e77434f465796503894bb925a102a0", null ],
-      [ "EVENT_EMERGE", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a195f6417cd6d29f73dab0b90876d138d", null ],
-      [ "EVENT_SUMMON_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9ead9e8f3e9c529e31b9b40545bb916a", null ],
-      [ "EVENT_SUMMON_DARTER", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a40f445f3e7b035611dc83650546644a6", null ],
-      [ "EVENT_SUMMON_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af696ec4d1bd7277e582d97bd21b8f451", null ],
-      [ "EVENT_SUMMON_ASSASSINS", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aef6bbe16c5abd68286fce31ec6709804", null ],
-      [ "EVENT_ENABLE_ROTATE", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac19ae1fe556e9550431bdd7f1f984ac0", null ],
-      [ "EVENT_KILL_TALK", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ]
+      [ "ACHIEV_TIMED_START_EVENT", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ]
+    ] ],
+    [ "Phases", "dd/dd2/boss__anubarak_8cpp.html#a40a72f275aa14ee66ae8d1c46d7cd614", [
+      [ "PHASE_EMERGED", "dd/dd2/boss__anubarak_8cpp.html#a40a72f275aa14ee66ae8d1c46d7cd614a747023f604d5515a94aae6662fa3705a", null ],
+      [ "PHASE_SUBMERGED", "dd/dd2/boss__anubarak_8cpp.html#a40a72f275aa14ee66ae8d1c46d7cd614ab24cfad33b2b4c6e4b3d9e7a93328727", null ]
     ] ],
     [ "Spells", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_CARRION_BEETLES", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d47cd66db9efb0721a56d21153d0dd1", null ],
@@ -39,6 +45,16 @@ var boss__anubarak_8cpp =
       [ "SPELL_SUMMON_ASSASSIN", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca40d06437d7a7173d382508725aa066ab", null ],
       [ "SPELL_SUMMON_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca3327d5768c4dabad04a0ba3acb78453a", null ],
       [ "SPELL_SUMMON_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca5674f5dacfcdc8b28cae5d3aee5bd7c1", null ]
+    ] ],
+    [ "SubPhase", "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69", [
+      [ "SUBMERGE_NONE", "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69a78b72673e2542831be44b5b021902de2", null ],
+      [ "SUBMERGE_75", "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69a3d3770ec7cd657b0fefc1037a15d236c", null ],
+      [ "SUBMERGE_50", "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69ad7f5351564bcaebb570d7d24bf19999b", null ],
+      [ "SUBMERGE_25", "dd/dd2/boss__anubarak_8cpp.html#aebb7c82487bfdae12cd7bc63dc8b3b69a869621a2946e04112dcacb28ce55d341", null ]
+    ] ],
+    [ "SummonGroups", "dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81e", [
+      [ "SUMMON_GROUP_WORLD_TRIGGER_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81ea024b6c54b20180f195fc5f31c0b1bad9", null ],
+      [ "SUMMON_GROUP_WORLD_TRIGGER_BALCONY", "dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81ea43cdf26f6aed4cf98ba3d33b4b9bcf2e", null ]
     ] ],
     [ "Yells", "dd/dd2/boss__anubarak_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "dd/dd2/boss__anubarak_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],
