@@ -10,18 +10,11 @@ var chapter1_8cpp =
     [ "npc_scarlet_ghoul::npc_scarlet_ghoulAI", "d9/d84/structnpc__scarlet__ghoul_1_1npc__scarlet__ghoulAI.html", "d9/d84/structnpc__scarlet__ghoul_1_1npc__scarlet__ghoulAI" ],
     [ "npc_dkc1_gothik", "d3/dfc/classnpc__dkc1__gothik.html", "d3/dfc/classnpc__dkc1__gothik" ],
     [ "npc_dkc1_gothik::npc_dkc1_gothikAI", "d5/da3/structnpc__dkc1__gothik_1_1npc__dkc1__gothikAI.html", "d5/da3/structnpc__dkc1__gothik_1_1npc__dkc1__gothikAI" ],
-    [ "npc_scarlet_cannon", "df/d40/classnpc__scarlet__cannon.html", "df/d40/classnpc__scarlet__cannon" ],
-    [ "npc_scarlet_cannon::npc_scarlet_cannonAI", "de/dac/structnpc__scarlet__cannon_1_1npc__scarlet__cannonAI.html", "de/dac/structnpc__scarlet__cannon_1_1npc__scarlet__cannonAI" ],
     [ "npc_unworthy_initiate", "df/ddb/classnpc__unworthy__initiate.html", "df/ddb/classnpc__unworthy__initiate" ],
     [ "npc_unworthy_initiate::npc_unworthy_initiateAI", "d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html", "d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI" ],
     [ "npc_unworthy_initiate_anchor", "d5/dbd/classnpc__unworthy__initiate__anchor.html", "d5/dbd/classnpc__unworthy__initiate__anchor" ],
     [ "npc_unworthy_initiate_anchor::npc_unworthy_initiate_anchorAI", "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html", "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI" ],
     [ "go_acherus_soul_prison", "df/d2d/classgo__acherus__soul__prison.html", "df/d2d/classgo__acherus__soul__prison" ],
-    [ "npc_scarlet_miner_cart", "de/d3c/classnpc__scarlet__miner__cart.html", "de/d3c/classnpc__scarlet__miner__cart" ],
-    [ "npc_scarlet_miner_cart::npc_scarlet_miner_cartAI", "d9/d7e/structnpc__scarlet__miner__cart_1_1npc__scarlet__miner__cartAI.html", "d9/d7e/structnpc__scarlet__miner__cart_1_1npc__scarlet__miner__cartAI" ],
-    [ "npc_scarlet_miner", "d5/daf/classnpc__scarlet__miner.html", "d5/daf/classnpc__scarlet__miner" ],
-    [ "npc_scarlet_miner::npc_scarlet_minerAI", "d8/d87/structnpc__scarlet__miner_1_1npc__scarlet__minerAI.html", "d8/d87/structnpc__scarlet__miner_1_1npc__scarlet__minerAI" ],
-    [ "go_inconspicuous_mine_car", "d7/d1c/classgo__inconspicuous__mine__car.html", "d7/d1c/classgo__inconspicuous__mine__car" ],
     [ "spell_death_knight_initiate_visual", "d8/d95/classspell__death__knight__initiate__visual.html", "d8/d95/classspell__death__knight__initiate__visual" ],
     [ "spell_lich_king_vo_blocker", "da/ddf/classspell__lich__king__vo__blocker.html", "da/ddf/classspell__lich__king__vo__blocker" ],
     [ "spell_lich_king_whisper", "d0/d70/classspell__lich__king__whisper.html", "d0/d70/classspell__lich__king__whisper" ],
@@ -54,13 +47,6 @@ var chapter1_8cpp =
       [ "EVENT_GHOUL_MOVE_TO_PIT", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb", null ],
       [ "SAY_GOTHIK_PIT", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5", null ]
     ] ],
-    [ "Says_SM", "dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691", [
-      [ "SAY_SCARLET_MINER_0", "dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691af449fa9cb4e213463a3e832e8e6d67be", null ],
-      [ "SAY_SCARLET_MINER_1", "dc/dec/chapter1_8cpp.html#a04ed6a9c92f9e762fb9518c27e135691a791a1bbc1293066fe9178912253684a5", null ]
-    ] ],
-    [ "Spells_Cart", "dc/dec/chapter1_8cpp.html#ad9b15a4b896f9a023cf26ea3e98c1070", [
-      [ "SPELL_CART_SUMM", "dc/dec/chapter1_8cpp.html#ad9b15a4b896f9a023cf26ea3e98c1070aa5a4b55e22b323798446ab64b02b5623", null ]
-    ] ],
     [ "spells_lich_king_whisper", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
       [ "SPELL_LICH_KING_VO_BLOCKER", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],
       [ "SPELL_LICHKINGDK001", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a", null ],
@@ -79,10 +65,6 @@ var chapter1_8cpp =
       [ "SPELL_LICHKINGDK014", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaafd5d6bbf89fd2a980f8b01e20d36c2b7", null ],
       [ "SPELL_LICHKINGDK015", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842", null ],
       [ "SPELL_LICHKINGDK016", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f", null ]
-    ] ],
-    [ "Spells_SM", "dc/dec/chapter1_8cpp.html#ad2b494eedadd51ebe87fbe351fa1dc3b", [
-      [ "SPELL_CART_CHECK", "dc/dec/chapter1_8cpp.html#ad2b494eedadd51ebe87fbe351fa1dc3bad9f573bfec8a7775dfdb0642b7966120", null ],
-      [ "SPELL_CART_DRAG", "dc/dec/chapter1_8cpp.html#ad2b494eedadd51ebe87fbe351fa1dc3ba8f59f5ddd5852d3b940a0bc050b5faa1", null ]
     ] ],
     [ "UnworthyInitiate", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cd", [
       [ "SPELL_SOUL_PRISON_CHAIN", "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cdaacb469d2ce157ba80de3be49aac61238", null ],

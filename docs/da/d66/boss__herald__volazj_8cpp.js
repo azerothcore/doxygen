@@ -3,11 +3,6 @@ var boss__herald__volazj_8cpp =
     [ "boss_volazj", "d0/d2f/structboss__volazj.html", "d0/d2f/structboss__volazj" ],
     [ "spell_herald_volzaj_insanity", "d6/d09/classspell__herald__volzaj__insanity.html", "d6/d09/classspell__herald__volzaj__insanity" ],
     [ "spell_volazj_whisper", "d7/d36/classspell__volazj__whisper.html", "d7/d36/classspell__volazj__whisper" ],
-    [ "Events", "da/d66/boss__herald__volazj_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_HERALD_MIND_FLAY", "da/d66/boss__herald__volazj_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7fc0a708d1fb35eda35aebc202624487", null ],
-      [ "EVENT_HERALD_SHADOW", "da/d66/boss__herald__volazj_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae1bcd15a1bfa0fdfdf92a2dfcd8b04b0", null ],
-      [ "EVENT_HERALD_SHIVER", "da/d66/boss__herald__volazj_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afede975d97d911ee40656b1d8d7603fe", null ]
-    ] ],
     [ "Misc", "da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NPC_TWISTED_VISAGE", "da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d944d4484db90881a64833f7373b28b", null ],
       [ "ACHIEV_QUICK_DEMISE_START_EVENT", "da/d66/boss__herald__volazj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a15e2c595fdcb683265e35485a434b7d1", null ],
