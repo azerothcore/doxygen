@@ -1,7 +1,5 @@
 var NAVTREEINDEX186 =
 {
-"d7/d25/structnpc__pet__darting__hatchling.html#a7ae5973061068396bf382dc21e88cd44":[6,0,2015,0],
-"d7/d25/structnpc__pet__darting__hatchling.html#aaf80b40200f2b8eb2861c69b1dbd2dde":[6,0,2015,4],
 "d7/d26/blackrock__depths_8h.html":[7,0,0,0,1,3,2,1,0,1],
 "d7/d26/blackrock__depths_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,1,0,1,1],
 "d7/d26/blackrock__depths_8h.html#a072ab479782ab4b7bb38d5712fff097f":[7,0,0,0,1,3,2,1,0,1,8],
@@ -94,8 +92,8 @@ var NAVTREEINDEX186 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a":[7,0,0,0,1,3,2,1,0,1,4,35],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22af35cb36a55922c0c6a4fba89d556aa74":[7,0,0,0,1,3,2,1,0,1,4,23],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[7,0,0,0,1,3,2,1,0,1,4,14],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,31,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,11,6,47],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,31,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,11,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,31,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,31,6,47,7],
@@ -108,8 +106,8 @@ var NAVTREEINDEX186 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,11,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,31,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,11,6,47,6],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,31,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,11,6,47,2],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,31,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[6,0,11,6,47,5],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[5,0,31,6,47,5],
 "d7/d26/classspell__warl__demonic__aegis.html":[6,0,3982],
@@ -221,14 +219,14 @@ var NAVTREEINDEX186 =
 "d7/d2b/classVMAP_1_1ManagedModel.html":[6,0,9,10],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[5,0,28,10,2],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a053fc6647a16746fba19a0795610fea2":[6,0,9,10,2],
-"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[6,0,9,10,1],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[5,0,28,10,1],
+"d7/d2b/classVMAP_1_1ManagedModel.html#a5a104acbc0661b19ba2a662dc669b73d":[6,0,9,10,1],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[6,0,9,10,4],
 "d7/d2b/classVMAP_1_1ManagedModel.html#a5e20d0157691bd6036247a83eea8d19b":[5,0,28,10,4],
 "d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[6,0,9,10,3],
 "d7/d2b/classVMAP_1_1ManagedModel.html#aa450ae6be22d507c36a746850629831d":[5,0,28,10,3],
-"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[5,0,28,10,0],
+"d7/d2b/classVMAP_1_1ManagedModel.html#ab641724be7e7791c2c95982acc13f3b0":[6,0,9,10,0],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[6,0,9,10,5],
 "d7/d2b/classVMAP_1_1ManagedModel.html#afb30ad900a5979f98276324a1ab1c328":[5,0,28,10,5],
 "d7/d2c/classspell__sha__earthliving__weapon.html":[6,0,3794],
@@ -249,5 +247,7 @@ var NAVTREEINDEX186 =
 "d7/d2d/classPassengerController.html":[6,0,2379],
 "d7/d2d/classPassengerController.html#a2302ac8b9fac75ba58ced41e2b5236f0":[6,0,2379,2],
 "d7/d2d/classPassengerController.html#a287e4cafc1d3739edf90c00ad91e2c64":[6,0,2379,4],
-"d7/d2d/classPassengerController.html#a4a4d575417a7c7940471f21e32d48b5c":[6,0,2379,3]
+"d7/d2d/classPassengerController.html#a4a4d575417a7c7940471f21e32d48b5c":[6,0,2379,3],
+"d7/d2d/classPassengerController.html#a98a6d819ec193d5a1e96739ac507b146":[6,0,2379,6],
+"d7/d2d/classPassengerController.html#a9c8fa44394c10eb2a7fec3c4f273f448":[6,0,2379,7]
 };

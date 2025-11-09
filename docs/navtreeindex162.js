@@ -1,7 +1,5 @@
 var NAVTREEINDEX162 =
 {
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a7ea3de40dfd638db7e34c523a0461335":[6,0,601,0,10],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a957bd38232c020611fc24dd8a6e55640":[6,0,601,0,2],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a9974fc771b3663878964aeb20914fe43":[6,0,601,0,4],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,601,0,5],
 "d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html":[6,0,796,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX162 =
 "d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#a984b3d32d5f231a019f2c0f1bb027907":[6,0,697,0,0],
 "d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#aaa8111d42cacd58f767513026976668c":[6,0,697,0,2],
 "d6/d13/zone__dalaran_8cpp.html":[7,0,0,0,1,3,5,17],
-"d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62":[7,0,0,0,1,3,5,17,24]
+"d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62":[7,0,0,0,1,3,5,17,24],
+"d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62a26852ea5db6655cbfc7033e4de72b535":[7,0,0,0,1,3,5,17,24,0],
+"d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62ad3f0ab909e9486b235f8fc23c15de68e":[7,0,0,0,1,3,5,17,24,1]
 };

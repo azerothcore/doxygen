@@ -1,7 +1,5 @@
 var NAVTREEINDEX50 =
 {
-"d2/d0e/Errors_8h.html":[7,0,0,0,0,5,1],
-"d2/d0e/Errors_8h.html#a07aa40e12479c740872d1ad7f55acbbc":[7,0,0,0,0,5,1,18],
 "d2/d0e/Errors_8h.html#a1990519ae97867f1a629699d00874fb2":[7,0,0,0,0,5,1,15],
 "d2/d0e/Errors_8h.html#a257b055b35d21943eb2a144cccd26429":[7,0,0,0,0,5,1,11],
 "d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea":[7,0,0,0,0,5,1,9],
@@ -133,16 +131,16 @@ var NAVTREEINDEX50 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[6,0,2178,0,5],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,31,9,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[6,0,11,9,2],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,31,9,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[6,0,11,9,2,1],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,31,9,2,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,31,9,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[6,0,11,9,2,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,31,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[6,0,11,9,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,31,9,2,4],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,31,9,2,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[6,0,11,9,2,0],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[6,0,11,9,2,3],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[5,0,31,9,2,0],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[5,0,31,9,2,3],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a9e48a650bf21872099cdb0626e875fd7":[6,0,11,9,2,3],
 "d2/d16/AppenderFile_8h.html":[7,0,0,0,0,9,5],
 "d2/d16/boss__servant__quarters_8cpp.html":[7,0,0,0,1,3,2,4,8],
 "d2/d16/boss__servant__quarters_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,8,1],
@@ -185,8 +183,8 @@ var NAVTREEINDEX50 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[6,0,288,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[6,0,288,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[6,0,288,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,1,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[6,0,0,4,0,3],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,1,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,1,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[6,0,0,4,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,1,7,0,3,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX50 =
 "d2/d1b/classWorldSocket.html#a3f340876b92df8b39af6ec07646593e5":[6,0,4322,11],
 "d2/d1b/classWorldSocket.html#a43f50a93be9d3b25ca5383732cfd9779":[6,0,4322,34],
 "d2/d1b/classWorldSocket.html#a57b74eff05fb5bf800b10338245435cd":[6,0,4322,35],
-"d2/d1b/classWorldSocket.html#a5f6a4aa9fc5b0a2bc3284485b078cf12":[6,0,4322,23]
+"d2/d1b/classWorldSocket.html#a5f6a4aa9fc5b0a2bc3284485b078cf12":[6,0,4322,23],
+"d2/d1b/classWorldSocket.html#a60c43563ba97403b807822c3d5070a6a":[6,0,4322,14],
+"d2/d1b/classWorldSocket.html#a62eb40d8a6ed9793092982ffc9832572":[6,0,4322,36]
 };

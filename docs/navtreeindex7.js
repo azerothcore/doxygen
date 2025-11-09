@@ -1,7 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"d0/d5e/classWorldSessionMgr.html#ae0034ece158518da1918dc4331673524":[6,0,4321,8],
-"d0/d5e/classWorldSessionMgr.html#ae05a416541dc5ef3e0611a835d19e70a":[6,0,4321,29],
 "d0/d5e/classWorldSessionMgr.html#ae1a848609e9a3f36f1ed86f479e4cf48":[6,0,4321,9],
 "d0/d5e/classWorldSessionMgr.html#ae70975cbfbfa31a91ef819b76d1ff6c6":[6,0,4321,17],
 "d0/d5e/classWorldSessionMgr.html#af32e97573c3742b0e922a6537d9c56ac":[6,0,4321,31],
@@ -149,12 +147,12 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[6,0,3910,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[6,0,3910,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3910,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,2,2],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,2,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,2,2,0],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,2,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2325,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2325,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2325,0,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX7 =
 "d0/d66/classWorldMock.html#abbb4a520bc39aaed2a3e648b7a3a50a4":[6,0,4314,38],
 "d0/d66/classWorldMock.html#ac085b6979d0596abc57c950f9284f9ba":[6,0,4314,13],
 "d0/d66/classWorldMock.html#ac4a652fc74cdc208c7b182ee46697e7a":[6,0,4314,47],
-"d0/d66/classWorldMock.html#ac4ae6d4ba3faefc10bb17977415d9883":[6,0,4314,41]
+"d0/d66/classWorldMock.html#ac4ae6d4ba3faefc10bb17977415d9883":[6,0,4314,41],
+"d0/d66/classWorldMock.html#ac5ddf38246594c1c8c096156cde84a7c":[6,0,4314,45],
+"d0/d66/classWorldMock.html#acd04554229b7249bc67e4f1ce8d33cf8":[6,0,4314,24]
 };

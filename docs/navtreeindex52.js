@@ -1,7 +1,5 @@
 var NAVTREEINDEX52 =
 {
-"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2ae4e6a98f2ff50cacca426b400367dd":[7,0,0,0,1,3,4,1,1,1,4,3],
-"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,1,1,4,0],
 "d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a636ac4f9a79661edee736d7f55288204":[7,0,0,0,1,3,4,1,1,1,4,2],
 "d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,1,3],
 "d2/d21/boss__infinite_8cpp.html#a5bd342133be8c2137b831460acc9298ca76a999851a14a46f9224410246330d96":[7,0,0,0,1,3,4,1,1,1,3,0],
@@ -114,8 +112,8 @@ var NAVTREEINDEX52 =
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[6,0,3576,2],
 "d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[6,0,3576,0],
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3576,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1326,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda93bf045ffdaf60a1fead61925f7ffe21":[7,0,0,0,1,2,36,2,21,0],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaab43f4c6841032578ec09ee87ff279bf":[7,0,0,0,1,2,36,2,21,5],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedac2c8698c4a2f6fc698323b700ce7c1f4":[7,0,0,0,1,2,36,2,21,6],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedadb3dfef23e8aff7d9e91e0d6ddc6b7d1":[7,0,0,0,1,2,36,2,21,4]
+"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedadb3dfef23e8aff7d9e91e0d6ddc6b7d1":[7,0,0,0,1,2,36,2,21,4],
+"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaf8423750a58d8e63bfb7ea95c6919aed":[7,0,0,0,1,2,36,2,21,8],
+"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaffb007d66bf0c7f4c9329ccedd9ef888":[7,0,0,0,1,2,36,2,21,9]
 };

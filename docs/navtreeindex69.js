@@ -1,7 +1,5 @@
 var NAVTREEINDEX69 =
 {
-"d2/d8f/structScriptInfo.html#a600fc4acb323fe5fcc409a52f8436bed":[6,0,2522,73],
-"d2/d8f/structScriptInfo.html#a60f3e164626646db3d85b90e44210a8e":[6,0,2522,23],
 "d2/d8f/structScriptInfo.html#a61bd78ad9584ed7107e03d74502b5aa4":[6,0,2522,21],
 "d2/d8f/structScriptInfo.html#a63e9e9ca596ecad98021cbe0adc0f2cb":[6,0,2522,60],
 "d2/d8f/structScriptInfo.html#a6ad9d2567d938aa12e97ce840bce3456":[6,0,2522,36],
@@ -249,5 +247,7 @@ var NAVTREEINDEX69 =
 "d2/da1/structSpell_1_1GOTargetInfo.html#aedfa36678be863a558ecd0ecc07cc544":[6,0,2584,0,1],
 "d2/da2/classspell__gen__ds__flush__knockback.html":[6,0,2952],
 "d2/da2/classspell__gen__ds__flush__knockback.html#a54bb0fe145f99ea484724052c8bb1227":[6,0,2952,2],
-"d2/da2/classspell__gen__ds__flush__knockback.html#a59b5637aa8a29611463fbaabc6db2bb8":[6,0,2952,1]
+"d2/da2/classspell__gen__ds__flush__knockback.html#a59b5637aa8a29611463fbaabc6db2bb8":[6,0,2952,1],
+"d2/da2/classspell__gen__ds__flush__knockback.html#af6d3dd97d3254dbfcd6b611b26e0e61d":[6,0,2952,0],
+"d2/da3/boss__highlord__omokk_8cpp.html":[7,0,0,0,1,3,2,1,1,4]
 };

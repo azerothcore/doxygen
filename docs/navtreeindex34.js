@@ -1,7 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2702ed6dd323b882551754384f3696c9":[6,0,736,0,7],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a3eeb123a7b4756252b31c2e85b027080":[6,0,736,0,15],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4550f101e072c3efe1bf38e301204625":[6,0,736,0,5],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4c7f4416b5b3c5f71836aba551c78bd0":[6,0,736,0,3],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a5688581fba4a49027bf6a77a1c71d1b7":[6,0,736,0,18],
@@ -37,8 +35,8 @@ var NAVTREEINDEX34 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,13,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,31,13,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,11,13,1,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,31,13,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,13,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,31,13,1,2],
 "d1/d62/classboss__steelbreaker.html":[6,0,712],
 "d1/d62/classboss__steelbreaker.html#ac4189ffbba997719fb36a10ecdabd26c":[6,0,712,2],
 "d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,712,1],
@@ -61,8 +59,8 @@ var NAVTREEINDEX34 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,88],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX34 =
 "d1/d68/classspell__mage__burnout.html#a4f8e030154606e0781ebb89294019e0e":[6,0,3411,0],
 "d1/d68/classspell__mage__burnout.html#a8cfdc8d98946fca603971ad91035e21c":[6,0,3411,3],
 "d1/d68/classspell__mage__burnout.html#abfd3c0ad08ad287b38e8da437c18376c":[6,0,3411,4],
-"d1/d68/classspell__mage__burnout.html#aed40577ca9a1de3efc501606bcc9a8dd":[6,0,3411,2]
+"d1/d68/classspell__mage__burnout.html#aed40577ca9a1de3efc501606bcc9a8dd":[6,0,3411,2],
+"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html":[6,0,1856,0],
+"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#a49f1c93206bfff53090c138a3dbf79e5":[6,0,1856,0,1]
 };

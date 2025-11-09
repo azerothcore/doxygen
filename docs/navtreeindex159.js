@@ -1,7 +1,5 @@
 var NAVTREEINDEX159 =
 {
-"d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a24145c6c4c38b5a1853647d24871090d":[6,0,1697,0,5],
-"d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a5aae1554934d8e2aaa59d420a13517b6":[6,0,1697,0,0],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a6509ff14639bca29b6877db54102d004":[6,0,1697,0,4],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a89d2697d5ccf6d783e973efc3b4669aa":[6,0,1697,0,3],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#ad3284ed37cdc503a688aa6fb2537387e":[6,0,1697,0,1],
@@ -77,10 +75,10 @@ var NAVTREEINDEX159 =
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[5,0,18,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[5,0,18,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[6,0,5,3,1],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[5,0,18,3,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[6,0,5,3,3],
-"d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[6,0,5,3,0],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[5,0,18,3,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[5,0,18,3,0],
+"d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[6,0,5,3,0],
 "d5/dfb/classObjectMgr.html":[6,0,2325],
 "d5/dfb/classObjectMgr.html#a006557a1c8479b65f0aca42440e3f474":[6,0,2325,97],
 "d5/dfb/classObjectMgr.html#a00bc4936f190efc42a8baf64e7ebbe99":[6,0,2325,124],
@@ -249,5 +247,7 @@ var NAVTREEINDEX159 =
 "d5/dfb/classObjectMgr.html#a6743d8ef4f2df6332c64a56146ba7f33":[6,0,2325,47],
 "d5/dfb/classObjectMgr.html#a675551bd7ee7d70f578f19725135189a":[6,0,2325,331],
 "d5/dfb/classObjectMgr.html#a684a044a3eca133eaa994b60c78881bd":[6,0,2325,61],
-"d5/dfb/classObjectMgr.html#a687fc0952088eac4da456d390d47f97e":[6,0,2325,342]
+"d5/dfb/classObjectMgr.html#a687fc0952088eac4da456d390d47f97e":[6,0,2325,342],
+"d5/dfb/classObjectMgr.html#a6a25cfd126c2d2718ccd1565c9e4cdcf":[6,0,2325,302],
+"d5/dfb/classObjectMgr.html#a6aded043e0c565f7e0e954d6bcc9958a":[6,0,2325,250]
 };

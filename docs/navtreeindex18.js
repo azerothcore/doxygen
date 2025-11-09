@@ -1,7 +1,5 @@
 var NAVTREEINDEX18 =
 {
-"d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1aac69d101d285ae8f7bc7a01d69c590fc":[7,0,0,0,1,3,2,8,2,4,1],
-"d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1aad187ac2284ca07772206a15e9a0076b":[7,0,0,0,1,3,2,8,2,4,0],
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1af1e07bb745ccec2dbcf6b568b94d6a50":[7,0,0,0,1,3,2,8,2,4,2],
 "d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,8,2,5],
 "d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca2fd19c6b2e0ab87ca1f4d691c32c46f1":[7,0,0,0,1,3,2,8,2,5,2],
@@ -27,8 +25,8 @@ var NAVTREEINDEX18 =
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a0480bb23bf5c47ac03935901211952b5":[5,0,1,2,2,2],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[6,0,0,1,2,0],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#a7a7bb2f2de595ea6ca37885da6f63b9f":[5,0,1,2,2,0],
-"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[6,0,0,1,2,1],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[5,0,1,2,2,1],
+"d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ad98dd12bf2b9d4c5a3812d91232c4b8e":[6,0,0,1,2,1],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[6,0,0,1,2,3],
 "d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html#ae0538263243f423c8f86459300aec8d7":[5,0,1,2,2,3],
 "d0/dbd/structCharacterFactionChangeInfo.html":[4,1,17],
@@ -82,8 +80,8 @@ var NAVTREEINDEX18 =
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html":[5,0,31,9,15],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[5,0,31,9,15,0],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#a24311ce7df9e9a0f40a3c5473cef34b3":[6,0,11,9,15,0],
-"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[6,0,11,9,15,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[5,0,31,9,15,1],
+"d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ab24cdd76abd5914c3a30ee42c7681855":[6,0,11,9,15,1],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[6,0,11,9,15,2],
 "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html#ac4ad6c7c425167e90fd2497f7ebaec4c":[5,0,31,9,15,2],
 "d0/dc2/classgo__hive__pod.html":[6,0,1154],
@@ -111,12 +109,12 @@ var NAVTREEINDEX18 =
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a0cf0b21ebfccb843ee23831e17982081":[5,0,31,7,18,3],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a19d0895bf7a25da8d8bdaceed14ff0a1":[5,0,31,7,18,4],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a19d0895bf7a25da8d8bdaceed14ff0a1":[6,0,11,7,18,4],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[6,0,11,7,18,2],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[5,0,31,7,18,2],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[6,0,11,7,18,2],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[6,0,11,7,18,1],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[5,0,31,7,18,1],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[6,0,11,7,18,0],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[5,0,31,7,18,0],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[6,0,11,7,18,0],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[5,0,31,7,18,5],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[6,0,11,7,18,5],
 "d0/dc5/classNpcRunToHome.html":[6,0,2310],
@@ -249,5 +247,7 @@ var NAVTREEINDEX18 =
 "d0/dcf/classEnumUtils_1_1Iterator.html#a4715873446d48c95a8dcd6d0a26644ec":[6,0,1024,0,6],
 "d0/dcf/classEnumUtils_1_1Iterator.html#a71e22f4402f6c2b524d60462a5c7871d":[6,0,1024,0,8],
 "d0/dcf/classEnumUtils_1_1Iterator.html#a79d4cfb0169f0843e5ed6adc8b5f88a0":[6,0,1024,0,21],
-"d0/dcf/classEnumUtils_1_1Iterator.html#a7db4bcf36157f43d6aafb0f010f268c7":[6,0,1024,0,7]
+"d0/dcf/classEnumUtils_1_1Iterator.html#a7db4bcf36157f43d6aafb0f010f268c7":[6,0,1024,0,7],
+"d0/dcf/classEnumUtils_1_1Iterator.html#a836539ad459e13c117be01eb4180c5d7":[6,0,1024,0,18],
+"d0/dcf/classEnumUtils_1_1Iterator.html#a87c56269252a45d93cb7a6817d851d9b":[6,0,1024,0,0]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917e":[7,0,0,0,1,2,8,1,9,12],
-"d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea0b0e294985c48f1445e9b89ef440558c":[7,0,0,0,1,2,8,1,9,12,10],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea60adccd4aad27c72c65f56bfc14ae8a7":[7,0,0,0,1,2,8,1,9,12,8],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea65013a75cc831f57c7528bebd59dedd8":[7,0,0,0,1,2,8,1,9,12,4],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea653e6b51fdee19a2fd5e8a715fc3a0ce":[7,0,0,0,1,2,8,1,9,12,6],
@@ -138,8 +136,8 @@ var NAVTREEINDEX22 =
 "d0/df4/structPosition.html#afdbf0a257fcd7a48066fd92c4eacae3b":[6,0,2434,56],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[6,0,11,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,31,2,6],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,31,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[6,0,11,2,6,2],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,31,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,31,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[6,0,11,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[6,0,11,2,6,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX22 =
 "d0/dff/classUpdateMask.html#a986a2b81e0b4f86486ccc455ff6ad79a":[6,0,4233,4],
 "d0/dff/classUpdateMask.html#aaac0596975c08d04736996c608eff29f":[6,0,4233,16],
 "d0/dff/classUpdateMask.html#ab34e66bf840ac230da0cfa35ef332145":[6,0,4233,17],
-"d0/dff/classUpdateMask.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b":[6,0,4233,18]
+"d0/dff/classUpdateMask.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b":[6,0,4233,18],
+"d0/dff/classUpdateMask.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35":[6,0,4233,15],
+"d0/dff/classUpdateMask.html#ae0cefda1282f8c29a6557e1c25e007de":[6,0,4233,3]
 };

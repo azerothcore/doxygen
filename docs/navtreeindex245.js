@@ -1,7 +1,5 @@
 var NAVTREEINDEX245 =
 {
-"d9/de8/classnpc__ulduar__flames__initial.html":[6,0,2225],
-"d9/de8/classnpc__ulduar__flames__initial.html#ac0db78c361324a594220ad644001f4eb":[6,0,2225,2],
 "d9/de8/classnpc__ulduar__flames__initial.html#aee0c62a38e3e0958e015faef2c434273":[6,0,2225,1],
 "d9/de9/classboss__baron__geddon.html":[6,0,395],
 "d9/de9/classboss__baron__geddon.html#a8f328680a5f99fb275cb0b3e8adf9c63":[6,0,395,2],
@@ -18,20 +16,20 @@ var NAVTREEINDEX245 =
 "d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,79],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,79,1],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,79,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,31,7,8],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,31,7,8,5],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[5,0,31,7,8,4],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,11,7,8,2],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,31,7,8,2],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,11,7,8,2],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2622],
 "d9/dee/classspell__aura__of__despair__aura.html#a101aab87e9f45ebab1cbe77ecca65c5a":[6,0,2622,0],
 "d9/dee/classspell__aura__of__despair__aura.html#a3b98409fa1ed8d4e53e526686bc25987":[6,0,2622,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX245 =
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a4ff0ab22db0bbd4483ddb379de069c48":[6,0,2808,1],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a909819dde9d5154f3d2cf04b04fa33f7":[6,0,2808,3],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#aebebb858f2ae41f2260d6843b3da8052":[6,0,2808,4],
-"d9/df7/classConditionMgr.html":[6,0,891]
+"d9/df7/classConditionMgr.html":[6,0,891],
+"d9/df7/classConditionMgr.html#a05cc8e9cca500281f74000c030099c4e":[6,0,891,15],
+"d9/df7/classConditionMgr.html#a17315b068442b1f0b0a39064932fd43c":[6,0,891,18]
 };

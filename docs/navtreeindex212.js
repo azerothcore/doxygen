@@ -1,7 +1,5 @@
 var NAVTREEINDEX212 =
 {
-"d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,7,10,5,5],
-"d8/d35/boss__noth_8cpp.html#a5ea7a58738763ee366de28d98ae5a025":[7,0,0,0,1,3,5,7,10,7],
 "d8/d35/boss__noth_8cpp.html#ac533610b1ce0a88ef39798fc9bc12de9":[7,0,0,0,1,3,5,7,10,8],
 "d8/d35/boss__noth_8cpp.html#ada8b6081df07a02725323b1c08577108":[7,0,0,0,1,3,5,7,10,6],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,10,2],
@@ -18,12 +16,12 @@ var NAVTREEINDEX212 =
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,133],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,121,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,133,3],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[6,0,0,121,3],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,1,133,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,133,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[6,0,0,121,0],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[5,0,1,133,0],
 "d8/d36/BigNumber_8h.html":[7,0,0,0,0,3,8],
 "d8/d36/MailScript_8cpp.html":[7,0,0,0,1,2,38,0,62],
 "d8/d36/MailScript_8cpp.html#a2c63e917d984cb7f72bcae15da56850c":[7,0,0,0,1,2,38,0,62,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX212 =
 "d8/d3e/classEscortMovementGenerator.html#a9f7048c5e49cc09f809496312a0c6550":[6,0,1029,10],
 "d8/d3e/classEscortMovementGenerator.html#ac4934d70ab62e08488cfc29c13355a7f":[6,0,1029,3],
 "d8/d3e/classEscortMovementGenerator.html#ad068798c6e186c1eb1a79f3872955e97":[6,0,1029,2],
-"d8/d3e/classEscortMovementGenerator.html#af6286fa4ed6afcc8a6c5f03575c774e6":[6,0,1029,9]
+"d8/d3e/classEscortMovementGenerator.html#af6286fa4ed6afcc8a6c5f03575c774e6":[6,0,1029,9],
+"d8/d3e/structEmotesEntry.html":[6,0,1015],
+"d8/d3e/structEmotesEntry.html#a2d319652021081fdb02472c32a28e318":[6,0,1015,0]
 };

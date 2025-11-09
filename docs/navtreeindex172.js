@@ -1,7 +1,5 @@
 var NAVTREEINDEX172 =
 {
-"d6/d66/classGameObjectAI.html#aa690137e5f5d6acee12e1b5f903935db":[6,0,1081,23],
-"d6/d66/classGameObjectAI.html#aa9b59a4ec7d95a0702689fad902d956a":[6,0,1081,26],
 "d6/d66/classGameObjectAI.html#ab977b700b90a564eca8d31b56589e2d1":[6,0,1081,25],
 "d6/d66/classGameObjectAI.html#abb34e637412f7b04b4ed760c07aef3a8":[6,0,1081,0],
 "d6/d66/classGameObjectAI.html#ac129aa1ba32e0cfb0f6f3d1bb116f5d7":[6,0,1081,22],
@@ -249,5 +247,7 @@ var NAVTREEINDEX172 =
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#aaa577b07d61ddc6e7af175c76ce63b11":[6,0,3416,3],
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ab644c981163424fbaa05650dc6505ae1":[6,0,3416,8],
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ae6ac733a614be543c04b57379b84aaca":[6,0,3416,0],
-"d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[6,0,3416,2]
+"d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[6,0,3416,2],
+"d6/d73/BoundingIntervalHierarchy_8cpp.html":[7,0,0,0,0,1,3],
+"d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0]
 };

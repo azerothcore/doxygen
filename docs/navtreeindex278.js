@@ -1,7 +1,5 @@
 var NAVTREEINDEX278 =
 {
-"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,4,8,4,8,2],
-"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc65c64262072ed5f836e4378433067":[7,0,0,0,1,3,4,8,4,8,0],
 "db/d4e/boss__ossirian_8cpp.html#af8d4cf87cdc6c4b3e2a903610294a592":[7,0,0,0,1,3,4,8,4,15],
 "db/d4e/boss__ossirian_8cpp.html#af9c6051ecc2a3d0ec0dfc3dd0567a96e":[7,0,0,0,1,3,4,8,4,17],
 "db/d4f/structMinionInfo.html":[6,0,1510],
@@ -85,12 +83,12 @@ var NAVTREEINDEX278 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2228,0],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#a5e9bcd384285b9046da93bd18804d07b":[6,0,2228,0,6],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#abf485123f0a73aa84ad5178e23c4192e":[6,0,2228,0,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX278 =
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6":[6,0,2596,1],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#acd911f78780e052d88f5f47574092d62":[6,0,2596,2],
 "db/d5d/classspell__algalon__cosmic__smash__damage.html#af7426e99a49f8618fc38242ded7132f1":[6,0,2596,0],
-"db/d5d/classspell__pri__mind__sear.html":[6,0,3579]
+"db/d5d/classspell__pri__mind__sear.html":[6,0,3579],
+"db/d5d/classspell__pri__mind__sear.html#a23c7b977f7e213322b3702367d6a28c7":[6,0,3579,0],
+"db/d5d/classspell__pri__mind__sear.html#a7000b2fd940c914933c486e847932b62":[6,0,3579,1]
 };

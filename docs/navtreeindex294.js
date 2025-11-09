@@ -1,7 +1,5 @@
 var NAVTREEINDEX294 =
 {
-"db/dd5/classCreature.html#adbdbb5b9dc6da1d57c9c3de5fc9f7f7d":[6,0,917,98],
-"db/dd5/classCreature.html#adbee63d935ba5bc05c338d129a778579":[6,0,917,155],
 "db/dd5/classCreature.html#adc4f35223eb98a4ce674a2c4b7e5b7bf":[6,0,917,152],
 "db/dd5/classCreature.html#adccf64447a9b0e22bed1b2f3b68b9ad9":[6,0,917,254],
 "db/dd5/classCreature.html#add280de31c13efc3496f18d83468b3ff":[6,0,917,60],
@@ -197,8 +195,8 @@ var NAVTREEINDEX294 =
 "db/dda/structAccountFlagText.html":[6,0,24],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,24,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,24,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/ddb/classConfigException.html":[6,0,895],
@@ -249,5 +247,7 @@ var NAVTREEINDEX294 =
 "db/ddb/classnpc__black__knight__ghoul.html#a52308f8d168e1ccea22de653813b7f6f":[6,0,1646,2],
 "db/ddb/classnpc__black__knight__ghoul.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0":[6,0,1646,1],
 "db/ddb/classnpc__blood__queen__lana__thel.html":[6,0,1655],
-"db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1655,2]
+"db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1655,2],
+"db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1655,1],
+"db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,15]
 };

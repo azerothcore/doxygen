@@ -1,7 +1,5 @@
 var NAVTREEINDEX175 =
 {
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832adc575c2f1be18b38b235e7b532f8c0e3":[7,0,0,0,1,3,5,21,30,21],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ae28522320e3ffa3289d2bc4843548130":[7,0,0,0,1,3,5,21,30,16],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aed42f086826bed5bc90bcc5446105826":[7,0,0,0,1,3,5,21,30,20],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aed9434f188bb6819735cf83d36482b4f":[7,0,0,0,1,3,5,21,30,12],
 "d6/d81/zone__icecrown_8cpp.html#ae897423ac82564dc77695f14627d09f4":[7,0,0,0,1,3,5,21,44],
@@ -249,5 +247,7 @@ var NAVTREEINDEX175 =
 "d6/d84/structboss__jeklik.html#ae648ba9ff49f4970612a8c3351789b66":[6,0,559,2],
 "d6/d84/structboss__jeklik.html#aeb57cfc66104f6e2b2e36b6551207dd8":[6,0,559,3],
 "d6/d85/classVMAP_1_1VMapFactory.html":[5,0,28,21],
-"d6/d85/classVMAP_1_1VMapFactory.html":[6,0,9,21]
+"d6/d85/classVMAP_1_1VMapFactory.html":[6,0,9,21],
+"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[6,0,9,21,0],
+"d6/d85/classVMAP_1_1VMapFactory.html#a69bc508845bc35319a6d8c51e562a5f9":[5,0,28,21,0]
 };

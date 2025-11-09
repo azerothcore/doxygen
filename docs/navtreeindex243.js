@@ -1,7 +1,5 @@
 var NAVTREEINDEX243 =
 {
-"d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[6,0,898,7],
-"d9/dc5/classConfigValueCache.html#a3645d00d7d88bac526ab2da095e2893e":[6,0,898,5],
 "d9/dc5/classConfigValueCache.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf":[6,0,898,6],
 "d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680b":[6,0,898,0],
 "d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435":[6,0,898,0,1],
@@ -96,10 +94,10 @@ var NAVTREEINDEX243 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -249,5 +247,7 @@ var NAVTREEINDEX243 =
 "d9/dcd/classnpc__fel__infernal.html#a768201a7516c9972800c941cf2079a11":[6,0,1779,2],
 "d9/dcd/classspell__anetheron__sleep.html":[6,0,2603],
 "d9/dcd/classspell__anetheron__sleep.html#a2b7ec1db13418f2e369faab6ec8422b4":[6,0,2603,1],
-"d9/dcd/classspell__anetheron__sleep.html#a6375482bd9d1fc6c6941607273c506dc":[6,0,2603,2]
+"d9/dcd/classspell__anetheron__sleep.html#a6375482bd9d1fc6c6941607273c506dc":[6,0,2603,2],
+"d9/dcd/classspell__anetheron__sleep.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0":[6,0,2603,0],
+"d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html":[6,0,2799]
 };

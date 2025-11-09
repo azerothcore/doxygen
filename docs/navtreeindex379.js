@@ -1,7 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d0c/classnpc__hor__lumbering__abomination.html#a0601ac0af85e545617013846c48de29a":[6,0,1853,2],
-"df/d0c/classnpc__hor__lumbering__abomination.html#a0d394d1ba52a05a6db0ae983daea7123":[6,0,1853,1],
 "df/d0e/classnpc__toc__pet__warlock.html":[6,0,2195],
 "df/d0e/classnpc__toc__pet__warlock.html#a4703f506d677d7e490c6813c6d9b060b":[6,0,2195,1],
 "df/d0e/classnpc__toc__pet__warlock.html#aebcaff82726508a14028cb22a1ef944b":[6,0,2195,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX379 =
 "df/d14/classPet.html#ac731f71baf5d76ef5eead277e371605a":[6,0,2388,2],
 "df/d14/classPet.html#ac7fbb6ab06f140e8843b0a8af83229e0":[6,0,2388,38],
 "df/d14/classPet.html#ad340cfe6ef1530bc11cb7b2a2226894d":[6,0,2388,73],
-"df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2388,77]
+"df/d14/classPet.html#ad4c7e4e4655fdfadd6fdb319c74f53c3":[6,0,2388,77],
+"df/d14/classPet.html#ad5eaac78f6eace6db0d40d2f388c90f5":[6,0,2388,23],
+"df/d14/classPet.html#ad84e15f46af54e72f9921abfba9fbe36":[6,0,2388,80]
 };

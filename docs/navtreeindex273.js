@@ -1,7 +1,5 @@
 var NAVTREEINDEX273 =
 {
-"da/dfd/ahnkahet_8h.html#aff905f3bb30004af8919ddfe3d29e8dd":[7,0,0,0,1,3,5,0,0,0,5],
-"da/dfd/ahnkahet_8h.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5":[7,0,0,0,1,3,5,0,0,0,5,3],
 "da/dfd/ahnkahet_8h.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66":[7,0,0,0,1,3,5,0,0,0,5,2],
 "da/dfd/ahnkahet_8h.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f":[7,0,0,0,1,3,5,0,0,0,5,4],
 "da/dfd/ahnkahet_8h.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc":[7,0,0,0,1,3,5,0,0,0,5,5],
@@ -65,14 +63,14 @@ var NAVTREEINDEX273 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classboss__sartharion.html":[6,0,685],
@@ -249,5 +247,7 @@ var NAVTREEINDEX273 =
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab72889e00eb1fad659f807620e81e23e":[6,0,685,0,9],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab9c3a5d19c966e547328ce2a28674069":[6,0,685,0,19],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ac0a2915976f7dfb21786c161d5e43d3f":[6,0,685,0,5],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ac5dc745f044bdf673b7f92b194063d94":[6,0,685,0,7]
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ac5dc745f044bdf673b7f92b194063d94":[6,0,685,0,7],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ad992cf36966069dc00d5509a54445213":[6,0,685,0,12],
+"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ae838ffe0fdee72f4d4b1c02a9cbde949":[6,0,685,0,16]
 };

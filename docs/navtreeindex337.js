@@ -1,7 +1,5 @@
 var NAVTREEINDEX337 =
 {
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abd876cf1d5d8a56ee131b38607e9076e":[7,0,0,0,1,2,38,0,75,1,119],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abe45f1af98bac742d8c4795da61ba835":[7,0,0,0,1,2,38,0,75,1,51],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abfc3690d7eae7d7706e710b392557acd":[7,0,0,0,1,2,38,0,75,1,102],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ac0399502c9c935fec9513ecfde9a28ce":[7,0,0,0,1,2,38,0,75,1,174],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ac2081529288e0cea89faa53c4a7325aa":[7,0,0,0,1,2,38,0,75,1,56],
@@ -249,5 +247,7 @@ var NAVTREEINDEX337 =
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac813528b31e7c39d2f8b74dfe6d2c556":[6,0,670,0,12],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#af39972324073464ed9ec625afbebc51f":[6,0,670,0,8],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#aff8ed7cbb1e374ebde41a06a6b8a7544":[6,0,670,0,14],
-"dd/dd3/zone__netherstorm_8cpp.html":[7,0,0,0,1,3,7,12]
+"dd/dd3/zone__netherstorm_8cpp.html":[7,0,0,0,1,3,7,12],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[7,0,0,0,1,3,7,12,12],
+"dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[7,0,0,0,1,3,7,12,12,0]
 };

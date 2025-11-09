@@ -4,7 +4,7 @@ var structboss__anub__arak =
     [ "DamageTaken", "d1/d8e/structboss__anub__arak.html#ae5a3f384f4f287c565a5b982111d5282", null ],
     [ "EnterEvadeMode", "d1/d8e/structboss__anub__arak.html#a0365cf00b8d884219b02e198918448bb", null ],
     [ "JustDied", "d1/d8e/structboss__anub__arak.html#aa95ae87845af18c9aef0ade4cbf9e220", null ],
-    [ "JustEngagedWith", "d1/d8e/structboss__anub__arak.html#ac5f840746b3cbd26d8b867f1c1709cc4", null ],
+    [ "JustEngagedWith", "d1/d8e/structboss__anub__arak.html#ac25501650b7aeafac1cb92c7a809aee8", null ],
     [ "KilledUnit", "d1/d8e/structboss__anub__arak.html#a823906227e56408dc4c052154e4997fc", null ],
     [ "MoveInLineOfSight", "d1/d8e/structboss__anub__arak.html#a0443fe85445b60b4339ca122667f9cc5", null ],
     [ "Reset", "d1/d8e/structboss__anub__arak.html#a15892545d3f5516387fdea763c378967", null ],

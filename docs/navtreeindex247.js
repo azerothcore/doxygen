@@ -1,7 +1,5 @@
 var NAVTREEINDEX247 =
 {
-"d9/df8/classboss__flame__leviathan__seat.html#a0e17225aeb93e0a5f5442c4ac2362af8":[6,0,474,2],
-"d9/df8/classboss__flame__leviathan__seat.html#a0fc90640a5142d889f1c043270582a16":[6,0,474,1],
 "d9/df9/classinstance__hellfire__ramparts.html":[6,0,1310],
 "d9/df9/classinstance__hellfire__ramparts.html#a6f2dc361984b33c1d14d62d67a563e8d":[6,0,1310,2],
 "d9/df9/classinstance__hellfire__ramparts.html#ab6ee671123dd0d736e9745e45e04b8da":[6,0,1310,1],
@@ -64,14 +62,14 @@ var NAVTREEINDEX247 =
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a0e718e519af661b73ed7bcd87ffbea32":[6,0,1713,0,2],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#a785bb6fdb254a050a5c5e3e9df49a850":[6,0,1713,0,1],
 "d9/dff/structnpc__crate__helper_1_1npc__crate__helperAI.html#ad58a2f3746da7862658fb3b9e1580836":[6,0,1713,0,0],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,6,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[5,0,31,6,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html":[6,0,11,6,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[6,0,11,6,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a46f3b910aa6d69f4a82c7a603f9f0fb3":[5,0,31,6,3,2],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[5,0,31,6,3,1],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a502153232a314d099ed43e1101bdfc1f":[6,0,11,6,3,1],
-"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,6,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[5,0,31,6,3,3],
+"da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#a5df7be995a177706fa364e31a6f8df1e":[6,0,11,6,3,3],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[6,0,11,6,3,0],
 "da/d00/classWorldPackets_1_1Guild_1_1GuildBankBuyTab.html#af2195db72eeaefea13c958e5ef62c411":[5,0,31,6,3,0],
 "da/d02/WorldConfig_8h.html":[7,0,0,0,1,2,48,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX247 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5df10b5f9ef1580a7b0ee5f280398890":[7,0,0,0,1,2,48,4,1,181],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5e104e52d4032d6b6507b8e7c9997ac3":[7,0,0,0,1,2,48,4,1,356],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5f3d89365468b111e7574722d5d83337":[7,0,0,0,1,2,48,4,1,428],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5f7f53b89eba684a78e954df438e9dcd":[7,0,0,0,1,2,48,4,1,364]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5f7f53b89eba684a78e954df438e9dcd":[7,0,0,0,1,2,48,4,1,364],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a5fe8f6b4adc6080a85d4085079ba9676":[7,0,0,0,1,2,48,4,1,424],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a606e9bbac4600442a99ba08dc44f2822":[7,0,0,0,1,2,48,4,1,313]
 };

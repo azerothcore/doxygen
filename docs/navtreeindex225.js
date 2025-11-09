@@ -1,7 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/dd6/DBCfmt_8h.html#a26f29ccde3522f2ca003f066886defc6":[7,0,0,0,1,4,0,3,85],
-"d8/dd6/DBCfmt_8h.html#a2cbc87f5386b8705a7cb7f301b360d16":[7,0,0,0,1,4,0,3,72],
 "d8/dd6/DBCfmt_8h.html#a2d0db03aab5481939b74c9657665c4fa":[7,0,0,0,1,4,0,3,46],
 "d8/dd6/DBCfmt_8h.html#a33a9a6da17625ca15a93082b922dfd7c":[7,0,0,0,1,4,0,3,97],
 "d8/dd6/DBCfmt_8h.html#a3591aa6bd927d9a3225c1580e1a55071":[7,0,0,0,1,4,0,3,15],
@@ -249,5 +247,7 @@ var NAVTREEINDEX225 =
 "d8/ddb/classAreaTrigger__at__last__rites.html":[6,0,170],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[6,0,170,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[6,0,170,1],
-"d8/ddc/classspell__gen__summon__target__floor.html":[6,0,3033]
+"d8/ddc/classspell__gen__summon__target__floor.html":[6,0,3033],
+"d8/ddc/classspell__gen__summon__target__floor.html#a03a1a1e5501452eacaceadd9725f2287":[6,0,3033,2],
+"d8/ddc/classspell__gen__summon__target__floor.html#a7b6cd9464f27676f0c74224ef1b1a9cc":[6,0,3033,1]
 };

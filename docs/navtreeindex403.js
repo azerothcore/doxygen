@@ -1,7 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"df/dec/classnpc__cos__stratholme__citizien.html#a92f8d88ecfa9cc47d6799107e5de0107":[6,0,1708,1],
-"df/dec/classspell__algalon__supermassive__fail.html":[6,0,2599],
 "df/dec/classspell__algalon__supermassive__fail.html#a54c26d24f62c36108f9fceb7a0c53e37":[6,0,2599,1],
 "df/dec/classspell__algalon__supermassive__fail.html#aac131aa2d2e5342cf0303b918a077b45":[6,0,2599,2],
 "df/dec/classspell__algalon__supermassive__fail.html#af280f3880e2e567188ba8ca3e45c00c0":[6,0,2599,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX403 =
 "df/df6/MMapFactory_8cpp.html#a7ca17c8e81612c16a92e901cac65113e":[7,0,0,0,0,1,0,2,0],
 "df/df6/classspell__putricide__mutated__transformation.html":[6,0,3601],
 "df/df6/classspell__putricide__mutated__transformation.html#a01281869dc98a0af5027695391f1221f":[6,0,3601,2],
-"df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[6,0,3601,1]
+"df/df6/classspell__putricide__mutated__transformation.html#a0213cd8e5e79aba8ba80583ceda88b95":[6,0,3601,1],
+"df/df6/classspell__putricide__mutated__transformation.html#a26675411e5f86e6d31f62762a3fdcd70":[6,0,3601,3],
+"df/df6/classspell__putricide__mutated__transformation.html#a8a96bd3a1b3cfaff09e05535eca927a9":[6,0,3601,0]
 };

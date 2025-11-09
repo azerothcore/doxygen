@@ -1,7 +1,5 @@
 var NAVTREEINDEX123 =
 {
-"d4/d3e/classBattlegroundSA.html#a55df44ff982350d61a20380e23eaa54e":[6,0,337,1],
-"d4/d3e/classBattlegroundSA.html#a59755f5bca1508b107dfa7048a7c91f2":[6,0,337,18],
 "d4/d3e/classBattlegroundSA.html#a5eadd31adcd3f742a55ccd6c7c879869":[6,0,337,10],
 "d4/d3e/classBattlegroundSA.html#a65962dc7e02c24036ad22a64b9fbd0d8":[6,0,337,8],
 "d4/d3e/classBattlegroundSA.html#a6892124c18718bbcf818b26055c1ee32":[6,0,337,30],
@@ -36,8 +34,8 @@ var NAVTREEINDEX123 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[6,0,2910,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[6,0,2910,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2910,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,31,12,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,11,12,4],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,31,12,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,31,12,4,0],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,11,12,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2186,0],
@@ -100,8 +98,8 @@ var NAVTREEINDEX123 =
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,11,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,31,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,6,8,0],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,11,6,8,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,31,6,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,11,6,8,1],
 "d4/d46/classinstance__uldaman.html":[6,0,1352],
 "d4/d46/classinstance__uldaman.html#a672bb8b5a16d29d25a191ab90d8007b4":[6,0,1352,2],
 "d4/d46/classinstance__uldaman.html#a854807db729d15aa4a09aad051fe3bda":[6,0,1352,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX123 =
 "d4/d52/classReference.html#ae6b72c9c0638f5cc700907496c093e03":[6,0,2489,13],
 "d4/d52/classReference.html#af2e195ca96921a8914dadad14bb87375":[6,0,2489,20],
 "d4/d52/classReference.html#afeefe7d7eb64f04200ffb1adb9e54858":[6,0,2489,12],
-"d4/d52/classspell__item__eye__of__grillok__aura.html":[6,0,3249]
+"d4/d52/classspell__item__eye__of__grillok__aura.html":[6,0,3249],
+"d4/d52/classspell__item__eye__of__grillok__aura.html#a3fd2da3d7b1b8a78916515b7e3e188cf":[6,0,3249,1],
+"d4/d52/classspell__item__eye__of__grillok__aura.html#a62e5ab81f9548e4d983d0c4dde14eaad":[6,0,3249,2]
 };

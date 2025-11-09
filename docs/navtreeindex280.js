@@ -1,7 +1,5 @@
 var NAVTREEINDEX280 =
 {
-"db/d69/structfmt_1_1formatter_3_01WorldPackets_1_1String_3_01MaxBytesWithoutNullTerminator_00_01Validators_8_8_8_01_4_01_4.html#a24a0c7409f4aa2903361863f9cc4c8b6":[6,0,4,0,0],
-"db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI.html":[6,0,2273,0],
 "db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI.html#a91890785174ecc60c9553a0aedf1961b":[6,0,2273,0,1],
 "db/d69/structnpc__volatile__ooze_1_1npc__volatile__oozeAI.html#af042d4c22482aabcdad6fa867dfe093f":[6,0,2273,0,0],
 "db/d6a/classnpc__marzon__silent__blade.html":[6,0,1954],
@@ -249,5 +247,7 @@ var NAVTREEINDEX280 =
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2aafd0283a7fb92d3cdcb265a2725e64c2":[7,0,0,0,1,3,9,4,183,1],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2adbf51a3aa6d92d6721a086af53b4b14f":[7,0,0,0,1,3,9,4,183,0],
 "db/d6e/spell__item_8cpp.html#aa95b79e156766fc09a64d3217691f0d2adfed0e6f1b0a19048cbb8358b7edee51":[7,0,0,0,1,3,9,4,183,2],
-"db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83b":[7,0,0,0,1,3,9,4,185]
+"db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83b":[7,0,0,0,1,3,9,4,185],
+"db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83ba07223ad0309cac9045f436f24bc5ff1f":[7,0,0,0,1,3,9,4,185,1],
+"db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83ba9d18fa6c92fb53a57c8f5d6a19949d52":[7,0,0,0,1,3,9,4,185,0]
 };

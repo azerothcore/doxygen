@@ -1,7 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eaac864c8121b5a7e73adfee70c2649dee":[7,0,0,0,1,3,2,16,15,3,24],
-"dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eab5cd9c14f92363c8d896d95278069bc5":[7,0,0,0,1,3,2,16,15,3,7],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eab8829cbbceca21eb4169cd8e4e6e4b04":[7,0,0,0,1,3,2,16,15,3,12],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eadd734b4514069d16c998e71b6a8f3d28":[7,0,0,0,1,3,2,16,15,3,8],
 "dc/df0/zulgurub_8h.html#a92f6fd626e1834a4cc509efc1186963eae0b9c7716df2dde514d1ecdf1cd9f866":[7,0,0,0,1,3,2,16,15,3,10],
@@ -49,10 +47,10 @@ var NAVTREEINDEX319 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4042,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX319 =
 "dd/d05/structInstanceSaveMgr_1_1InstResetEvent.html#aefa8f2b1b2cf29ad3472712278741fa4":[6,0,1366,0,0],
 "dd/d05/structInstanceSaveMgr_1_1InstResetEvent.html#af6f80b924e52cd5296d21f4a5d1374c2":[6,0,1366,0,1],
 "dd/d06/classspell__pal__divine__intervention.html":[6,0,3526],
-"dd/d06/classspell__pal__divine__intervention.html#a491765056e8c4d97d9cdaaea9d11a0af":[6,0,3526,0]
+"dd/d06/classspell__pal__divine__intervention.html#a491765056e8c4d97d9cdaaea9d11a0af":[6,0,3526,0],
+"dd/d06/classspell__pal__divine__intervention.html#ab00f3119d6c1bd1ad185374144f2987e":[6,0,3526,2],
+"dd/d06/classspell__pal__divine__intervention.html#abe5d45b960fda879f48e3e98db9ad4ac":[6,0,3526,1]
 };

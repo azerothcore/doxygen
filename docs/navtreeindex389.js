@@ -1,7 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/d7b/classAuraMunchingQueue.html#a441b328296f0b7a75bdaee06d2cb94f1":[6,0,286,7],
-"df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[6,0,286,5],
 "df/d7b/classAuraMunchingQueue.html#a6674c43b906e45e2ad29100a7ff06f44":[6,0,286,6],
 "df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[6,0,286,3],
 "df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[6,0,286,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX389 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fae32d9d6a1580234a7bc010f1822798bd":[7,0,0,0,1,3,5,9,2,4,22,6],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fae8cc7fd5799b3c855f499281f5d659ad":[7,0,0,0,1,3,5,9,2,4,22,4],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faed97c932510c91b6057175b2df166f63":[7,0,0,0,1,3,5,9,2,4,22,26],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faf8cf7a3b6d53386768f2a0f1e38abee7":[7,0,0,0,1,3,5,9,2,4,22,5]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faf8cf7a3b6d53386768f2a0f1e38abee7":[7,0,0,0,1,3,5,9,2,4,22,5],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faf96cf06612c19d9e937e5cd198bd8e48":[7,0,0,0,1,3,5,9,2,4,22,36],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fafe27dc736a62415cff8ba5fd33522dfa":[7,0,0,0,1,3,5,9,2,4,22,12]
 };

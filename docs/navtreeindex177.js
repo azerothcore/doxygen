@@ -1,7 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7aa0df7b0f00d550505c4efb24bc59634f":[7,0,0,0,1,2,16,6,2,8,21],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7aa11043393f3a9d1d273ce87e6465dd40":[7,0,0,0,1,2,16,6,2,8,52],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7aa3f1e49f9f70fc2a8bda430cbe947dfd":[7,0,0,0,1,2,16,6,2,8,42],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7aa98dce0a252fe8372b4a575b62cfaa60":[7,0,0,0,1,2,16,6,2,8,19],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ab1f9bb2866a94ed84957bea3df721286":[7,0,0,0,1,2,16,6,2,8,20],
@@ -237,8 +235,8 @@ var NAVTREEINDEX177 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2284,0,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,6,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,6,22,0],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,6,22,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX177 =
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html":[6,0,2047,0],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a007e4bad6ef41729d3f7b7ade4285dfe":[6,0,2047,0,0],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a5757c27b8c8840cec6ad7282f0cbf51b":[6,0,2047,0,4],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a8c7e2643c2d443b382a60f28ea74266c":[6,0,2047,0,3]
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a8c7e2643c2d443b382a60f28ea74266c":[6,0,2047,0,3],
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#ade416a422e67ce61e8874320cce7143b":[6,0,2047,0,2],
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aea107ede3b11726b3f7caae590edaf52":[6,0,2047,0,1]
 };

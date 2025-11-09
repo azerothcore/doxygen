@@ -1,15 +1,13 @@
 var NAVTREEINDEX333 =
 {
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[6,0,0,114,5],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#a496b982d081957cfc288f29b99b8739d":[5,0,1,126,5],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[6,0,0,114,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#a6e856249a08d0a90b9d19f2449f30fba":[5,0,1,126,4],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[5,0,1,126,0],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aacb0239ed44c9705eeeebf5ab198f7e0":[6,0,0,114,0],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[6,0,0,114,2],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[5,0,1,126,2],
-"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[6,0,0,114,1],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#aaf1dab341f34f75e56da63370af0ecd3":[6,0,0,114,2],
 "dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[5,0,1,126,1],
+"dd/da8/structAcore_1_1VisibleChangesNotifier.html#abfc60c91aaa823cb99cdfc17a287e23e":[6,0,0,114,1],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html":[6,0,1862,0],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a0f7dd1512694d284c1f83b3403c421e6":[6,0,1862,0,4],
 "dd/da8/structnpc__hyjal__jaina_1_1hyjalJainaAI.html#a187efe775b1e2a35637638507e77352e":[6,0,1862,0,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX333 =
 "dd/dac/pit__of__saron_8h.html#ad704e62a7c0c0da38a89f6a67fe0825dafde5ef0b5d4c098964613a0736eb7884":[7,0,0,0,1,3,5,4,2,5,15,5],
 "dd/dac/pit__of__saron_8h.html#adf09492c47bad855156eb8162bab5d74":[7,0,0,0,1,3,5,4,2,5,24],
 "dd/dac/pit__of__saron_8h.html#ae3e866a287237cc5826ff6b20ef3220c":[7,0,0,0,1,3,5,4,2,5,17],
-"dd/dac/pit__of__saron_8h.html#af59fba40f3674c8dc74985c58d2d8643":[7,0,0,0,1,3,5,4,2,5,31]
+"dd/dac/pit__of__saron_8h.html#af59fba40f3674c8dc74985c58d2d8643":[7,0,0,0,1,3,5,4,2,5,31],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,5,4,2,5,7],
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a01313a57c14c27520e918356b7b8cc2d":[7,0,0,0,1,3,5,4,2,5,7,20]
 };

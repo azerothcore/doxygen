@@ -1,7 +1,5 @@
 var NAVTREEINDEX387 =
 {
-"df/d57/structboss__freya__healthy__spore_1_1boss__freya__healthy__sporeAI.html#a1f72bc2b113f3b909d44fd54fff87e31":[6,0,481,0,0],
-"df/d57/structboss__freya__healthy__spore_1_1boss__freya__healthy__sporeAI.html#aaf65ef07480e5c634cc42dac0c7c734c":[6,0,481,0,3],
 "df/d57/structboss__freya__healthy__spore_1_1boss__freya__healthy__sporeAI.html#ace79c59d62e597ae31425b4006e1363f":[6,0,481,0,2],
 "df/d57/structboss__freya__healthy__spore_1_1boss__freya__healthy__sporeAI.html#ad6d6562b5cc9f8232bdda99ec2204052":[6,0,481,0,1],
 "df/d58/classspell__gen__obsidian__armor.html":[6,0,2995],
@@ -249,5 +247,7 @@ var NAVTREEINDEX387 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#aa2e622be4faa605aa7b13af333bd1a91":[6,0,506,0,5],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#aaa751f216763deba29fde2d0aba09567":[6,0,506,0,10],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#ad2de325f3fde87679503664de81a911e":[6,0,506,0,13],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[6,0,506,0,11]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#ada9b63a61fc4c8abb60fdff30fb9487d":[6,0,506,0,11],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#adde94c95fcfe2cacee16b06f73528651":[6,0,506,0,7],
+"df/d6f/namespaceAcore_1_1Module.html":[5,0,1,9]
 };

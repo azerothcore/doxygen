@@ -1,7 +1,5 @@
 var NAVTREEINDEX157 =
 {
-"d5/ddf/structVehicleSeatEntry.html#a52bd4c7087242b75633dbe29cfc7ffcc":[6,0,4251,13],
-"d5/ddf/structVehicleSeatEntry.html#a5482d047a2d876b52ec2605c2a9acb93":[6,0,4251,32],
 "d5/ddf/structVehicleSeatEntry.html#a5b2d2e496d9fb7adeef8b60cb12d88c6":[6,0,4251,5],
 "d5/ddf/structVehicleSeatEntry.html#a6064eca06120e79cc989cbc64e951a61":[6,0,4251,20],
 "d5/ddf/structVehicleSeatEntry.html#a65aacb470e963d4f0d0a76eeeaca8bf1":[6,0,4251,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX157 =
 "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd":[6,0,2249,0,7],
 "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a537225016bfeba51b607d250c0a09be5":[6,0,2249,0,3],
 "d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a744ea41d7f9450965419085a296c8df2":[6,0,2249,0,5],
-"d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a88b5e4b43171be8cc62d2a10f188e363":[6,0,2249,0,1]
+"d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a88b5e4b43171be8cc62d2a10f188e363":[6,0,2249,0,1],
+"d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a965b0f182570a54ee4c0a6a54ba8fafb":[6,0,2249,0,0],
+"d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html#a98d7d45b450f3464291ecbc05ab31f21":[6,0,2249,0,6]
 };

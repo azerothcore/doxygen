@@ -1,7 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a4834c11a8fa3e92c3ff9559febe14c30":[7,0,0,0,1,3,5,9,2,11,30,30],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a4dfc30059571f204490514b096a03b53":[7,0,0,0,1,3,5,9,2,11,30,24],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a519a01b082bf9c3f4ed0feed5286cab2":[7,0,0,0,1,3,5,9,2,11,30,45],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5422603ce989fe02d372fb4599156981":[7,0,0,0,1,3,5,9,2,11,30,11],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5648b08fc6857107d9a0571aabbba4e1":[7,0,0,0,1,3,5,9,2,11,30,53],
@@ -249,5 +247,7 @@ var NAVTREEINDEX12 =
 "d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3486,1],
 "d0/d8f/classspell__murmur__thundering__storm.html#ad8640f1c01d64f8bbca16e0b636f7f21":[6,0,3486,0],
 "d0/d91/BattlegroundIC_8h.html":[7,0,0,0,1,2,8,1,11],
-"d0/d91/BattlegroundIC_8h.html#a049af3560e17980d576075a47c35388c":[7,0,0,0,1,2,8,1,11,26]
+"d0/d91/BattlegroundIC_8h.html#a049af3560e17980d576075a47c35388c":[7,0,0,0,1,2,8,1,11,26],
+"d0/d91/BattlegroundIC_8h.html#a1128797b076699b79f556063e82a58d5":[7,0,0,0,1,2,8,1,11,16],
+"d0/d91/BattlegroundIC_8h.html#a1128797b076699b79f556063e82a58d5a69cabf88ad1582f03f2c9587d8ceeda3":[7,0,0,0,1,2,8,1,11,16,0]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX187 =
 {
-"d7/d2d/classPassengerController.html#a98a6d819ec193d5a1e96739ac507b146":[6,0,2379,6],
-"d7/d2d/classPassengerController.html#a9c8fa44394c10eb2a7fec3c4f273f448":[6,0,2379,7],
 "d7/d2d/classPassengerController.html#ab168baee9c4d6343c7adb6978a3a56d2":[6,0,2379,8],
 "d7/d2d/classPassengerController.html#ab834deac8dfd9a7ddd1bcb37b1e5c354":[6,0,2379,0],
 "d7/d2d/classPassengerController.html#ac2c664d3b5941c673c13f7e36aa2d974":[6,0,2379,9],
@@ -60,16 +58,16 @@ var NAVTREEINDEX187 =
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#ab4b27bf33b58b44ac604ca6bf6b5e424":[6,0,443,0,7],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#acec58686917d6e5aff9a51a96b023174":[6,0,443,0,3],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b":[6,0,443,0,6],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,11,10,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,31,10,3],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,11,10,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,11,10,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,31,10,3,0],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,31,10,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,11,10,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,31,10,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,31,10,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,11,10,3,1],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,31,10,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,31,10,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,11,10,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,31,10,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2079],
 "d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[6,0,2079,2],
 "d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[6,0,2079,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX187 =
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ab4a576f9746f7ade8f6b8f8c08795433":[6,0,584,0,4],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ac07e8e45693b3239bc061e5500880833":[6,0,584,0,13],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#acb7b45fbe3a736ad65b0a2556ead40ae":[6,0,584,0,10],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#adcca5f21a596ffae3c50f102c4698c4e":[6,0,584,0,2]
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#adcca5f21a596ffae3c50f102c4698c4e":[6,0,584,0,2],
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#af62b22ef531ee79805e80f2ee54af473":[6,0,584,0,1],
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#afff556f4bc00b87b3d2a37ffbf54c919":[6,0,584,0,6]
 };

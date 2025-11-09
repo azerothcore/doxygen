@@ -1,12 +1,10 @@
 var NAVTREEINDEX384 =
 {
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,6,40,7],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,31,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,6,40,1],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,31,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[6,0,11,6,40,4],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,31,6,40,4],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[5,0,31,6,40,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ae54eeb1a76f5eeaf4a63bcb58bab3460":[6,0,11,6,40,6],
 "df/d2d/classachievement__thorim__lose__your__illusion.html":[6,0,95],
@@ -249,5 +247,7 @@ var NAVTREEINDEX384 =
 "df/d3d/classBfCapturePoint.html#a100e1b83863595f598cf40cfa6d9443f":[6,0,346,6],
 "df/d3d/classBfCapturePoint.html#a1963ac8eea7452b1bb89923a2e32b0f6":[6,0,346,7],
 "df/d3d/classBfCapturePoint.html#a1a4ed58f9874900d822305dd406b1c67":[6,0,346,8],
-"df/d3d/classBfCapturePoint.html#a1eac786bb758ef6f3295e2241045dc32":[6,0,346,0]
+"df/d3d/classBfCapturePoint.html#a1eac786bb758ef6f3295e2241045dc32":[6,0,346,0],
+"df/d3d/classBfCapturePoint.html#a1f857e79dde01c3d966f7c7981e5f190":[6,0,346,17],
+"df/d3d/classBfCapturePoint.html#a2d8624843a640445f04a6b17be63ae3d":[6,0,346,22]
 };

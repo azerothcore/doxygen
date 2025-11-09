@@ -1,7 +1,5 @@
 var NAVTREEINDEX209 =
 {
-"d8/d03/structDungeonEncounterEntry.html":[6,0,997],
-"d8/d03/structDungeonEncounterEntry.html#a2a04df701c13dc49053b09a9587a72a8":[6,0,997,0],
 "d8/d03/structDungeonEncounterEntry.html#a3d35560824a3aaeecb8db4bf8628ebfd":[6,0,997,1],
 "d8/d03/structDungeonEncounterEntry.html#a61c1ac724c8eb96907d2ea9402a8f9ce":[6,0,997,4],
 "d8/d03/structDungeonEncounterEntry.html#aa9828ccc644a11f9cb35fbcc7d31a827":[6,0,997,3],
@@ -12,8 +10,8 @@ var NAVTREEINDEX209 =
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a2833cad2eab45d89d029727ce22bb808":[5,0,1,7,0,7,2],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[6,0,0,4,0,7,1],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a50290d7098ae9458bfb9c347934a4a0c":[5,0,1,7,0,7,1],
-"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[7,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[6,0,470,0],
@@ -166,8 +164,8 @@ var NAVTREEINDEX209 =
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,28,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[5,0,28,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a4c3731c1d0dd78e7a018e2379c42488b":[6,0,9,0,1,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,28,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[6,0,9,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ae766c58994cf635c8e0bdfdb15bd4246":[5,0,28,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1930,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX209 =
 "d8/d11/structSkillLineEntry.html#a3a20ea7c73a6739e89bd570d6f4d4b03":[6,0,2557,4],
 "d8/d11/structSkillLineEntry.html#a7740b26f1bde19a05b002c00eded25e3":[6,0,2557,2],
 "d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158":[6,0,2557,1],
-"d8/d11/structSkillLineEntry.html#afb5e77ab4f6faa132ca62f7664dce116":[6,0,2557,3]
+"d8/d11/structSkillLineEntry.html#afb5e77ab4f6faa132ca62f7664dce116":[6,0,2557,3],
+"d8/d11/structSkillLineEntry.html#aff87dafee61faf5afdf6248f6f3c9a35":[6,0,2557,0],
+"d8/d11/structboss__commander__stoutbeard.html":[6,0,414]
 };

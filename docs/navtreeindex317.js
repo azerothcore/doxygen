@@ -1,7 +1,5 @@
 var NAVTREEINDEX317 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#acfb5960733d95e620b80fb356a71d8a7":[7,0,0,0,1,3,2,17,71],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad2e7df8d3992e578087af76371426f72":[7,0,0,0,1,3,2,17,101],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad31dc1d2e5e18b7598a1b8d917a0c538":[7,0,0,0,1,3,2,17,131],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad6c5f805d876c924d7e5030eb2124183":[7,0,0,0,1,3,2,17,26],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad8180e172408496a5c0398e245dc2e92":[7,0,0,0,1,3,2,17,81],
@@ -249,5 +247,7 @@ var NAVTREEINDEX317 =
 "dc/de1/instance__sunwell__plateau_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,2,12,6,15],
 "dc/de2/classspell__dru__bear__form__passive.html":[6,0,2817],
 "dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[6,0,2817,3],
-"dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2817,0]
+"dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2817,0],
+"dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[6,0,2817,1],
+"dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[6,0,2817,2]
 };

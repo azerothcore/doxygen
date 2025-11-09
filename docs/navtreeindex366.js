@@ -1,7 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2768,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2768,1],
 "de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2768,2],
 "de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2768,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[6,0,1355,0],
@@ -202,22 +200,22 @@ var NAVTREEINDEX366 =
 "de/d79/structMMAP_1_1IntermediateValues.html#a953e628c47f2be3694fa43df091c1da8":[6,0,6,2,10],
 "de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[5,0,20,2,3],
 "de/d79/structMMAP_1_1IntermediateValues.html#a95f7ef823469ac850d55a6d4c1b847bf":[6,0,6,2,3],
-"de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[5,0,20,2,13],
 "de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[6,0,6,2,13],
-"de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[5,0,20,2,2],
+"de/d79/structMMAP_1_1IntermediateValues.html#aa4ecc0e4895fa6442a955d8d5e8146bd":[5,0,20,2,13],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[6,0,6,2,2],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[5,0,20,2,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[5,0,20,2,5],
 "de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[6,0,6,2,5],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[5,0,20,2,0],
 "de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[6,0,6,2,0],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[6,0,6,2,1],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[5,0,20,2,1],
-"de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[5,0,20,2,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[6,0,6,2,6],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[5,0,20,2,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[6,0,6,2,4],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,20,2,4],
-"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[6,0,6,2,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,20,2,12],
+"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[6,0,6,2,12],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html":[6,0,3419],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614":[6,0,3419,2],
 "de/d7c/classspell__mage__glyph__of__eternal__water.html#a5b13e46dc228ffe594ce2ce06a7d6799":[6,0,3419,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX366 =
 "de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#a28106e303d5e7c1bce9ceaa571129dca":[6,0,2238,0,4],
 "de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#a60fbcbae9205bfd1c63b5bef7924b3ee":[6,0,2238,0,2],
 "de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#a8e547ba872c9bc2ec95ae2f60b011fce":[6,0,2238,0,3],
-"de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#aba3bf48434dca79f56f4b9aac707d48c":[6,0,2238,0,1]
+"de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#aba3bf48434dca79f56f4b9aac707d48c":[6,0,2238,0,1],
+"de/d7c/structnpc__ulduar__mimiron__rocket_1_1npc__ulduar__mimiron__rocketAI.html#ad758070aaeadc4d7b2b7ff4108b76c89":[6,0,2238,0,0],
+"de/d7e/classnpc__muradin__bronzebeard__icc.html":[6,0,1979]
 };

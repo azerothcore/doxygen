@@ -1,7 +1,5 @@
 var NAVTREEINDEX310 =
 {
-"dc/d78/classBattlegroundAB.html#a0a5e9c6942ab421be303e84c0a8c20c8":[6,0,315,26],
-"dc/d78/classBattlegroundAB.html#a0bbc64eabc2bd3352e04008f06efda28":[6,0,315,10],
 "dc/d78/classBattlegroundAB.html#a0fdfb00d699fd2319847f28a29b24248":[6,0,315,5],
 "dc/d78/classBattlegroundAB.html#a13790fce0a5fae587e053a41e81ef2c2":[6,0,315,19],
 "dc/d78/classBattlegroundAB.html#a15e2f3de75d65863a1a4c92a2f7d1803":[6,0,315,25],
@@ -179,16 +177,16 @@ var NAVTREEINDEX310 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3293],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3293,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3293,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX310 =
 "dc/d88/classTempSummon.html#a0861c8d9d39586690b434056d2ee7e18":[6,0,4166,3],
 "dc/d88/classTempSummon.html#a19a3c747fabe3c2d788380b6b3aff5b5":[6,0,4166,25],
 "dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25":[6,0,4166,21],
-"dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73":[6,0,4166,23]
+"dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73":[6,0,4166,23],
+"dc/d88/classTempSummon.html#a29cd1896bf2fb92feb3b31cad1b38111":[6,0,4166,9],
+"dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a":[6,0,4166,8]
 };

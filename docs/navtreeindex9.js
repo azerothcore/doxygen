@@ -1,7 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a9b3ea0af39d0b391ef181e2846f437cd":[6,0,389,0,9],
-"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#a9da5d29f33e9e84fdf42c03c72b2ea8a":[6,0,389,0,10],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#ac48a5399c13ccda015338649f319621b":[6,0,389,0,1],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#af2316d1c62623c9915cecb1308310856":[6,0,389,0,3],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#afda379773808c3974679037828d00b9e":[6,0,389,0,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX9 =
 "d0/d7a/classachievement__flu__shot__shortage.html":[6,0,54],
 "d0/d7a/classachievement__flu__shot__shortage.html#a3195af1d4504ffc200c99bef84eaaa5a":[6,0,54,1],
 "d0/d7a/classachievement__flu__shot__shortage.html#af448c773bcdf31cec7ae9d7c85e9e595":[6,0,54,0],
-"d0/d7a/classnpc__azure__spellbreaker.html":[6,0,1633]
+"d0/d7a/classnpc__azure__spellbreaker.html":[6,0,1633],
+"d0/d7a/classnpc__azure__spellbreaker.html#a36f09ff7a60a04e6dd99bc37146000f8":[6,0,1633,1],
+"d0/d7a/classnpc__azure__spellbreaker.html#a7b2e89c33deef7fb5237b271dd5b0d12":[6,0,1633,2]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX336 =
 {
-"dd/dca/boss__moroes_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af0ba2cbff0bd53a9797bcc8cd5ca2201":[7,0,0,0,1,3,2,4,4,3,1],
-"dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,4,4,5],
 "dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,4,5,3],
 "dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,4,5,0],
 "dd/dca/boss__moroes_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5b7a3e39f77554293c635eff979dcc93":[7,0,0,0,1,3,2,4,4,5,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX336 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab70d80d23c1fe1e07425d9624bfef614":[7,0,0,0,1,2,38,0,75,1,12],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abb27f4633fb115258b7c9e209de437d3":[7,0,0,0,1,2,38,0,75,1,105],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc589b6df12f95e213fb6e4c4898ad5c":[7,0,0,0,1,2,38,0,75,1,20],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc70b591319e2beadccdc28b72bc52f8":[7,0,0,0,1,2,38,0,75,1,153]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc70b591319e2beadccdc28b72bc52f8":[7,0,0,0,1,2,38,0,75,1,153],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abd876cf1d5d8a56ee131b38607e9076e":[7,0,0,0,1,2,38,0,75,1,119],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abe45f1af98bac742d8c4795da61ba835":[7,0,0,0,1,2,38,0,75,1,51]
 };

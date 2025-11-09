@@ -1,7 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"d2/df6/DBCStores_8h.html#a173f98dd9664500fdbdd2f7dadb5885c":[7,0,0,0,1,2,14,1,9],
-"d2/df6/DBCStores_8h.html#a1a79dd4c705e4e52ad78394b48986723":[7,0,0,0,1,2,14,1,142],
 "d2/df6/DBCStores_8h.html#a1b0d29aae491efb8ada5ae931d7a968b":[7,0,0,0,1,2,14,1,108],
 "d2/df6/DBCStores_8h.html#a1eb137e3fb7e38599557bf7ce7c8a981":[7,0,0,0,1,2,14,1,1],
 "d2/df6/DBCStores_8h.html#a1ec062af8e28d0a2f82d9b1e73fd80e4":[7,0,0,0,1,2,14,1,126],
@@ -249,5 +247,7 @@ var NAVTREEINDEX88 =
 "d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[6,0,2096,1],
 "d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[6,0,2096,2],
 "d2/dfd/GuildMgr_8cpp.html":[7,0,0,0,1,2,21,2],
-"d2/dff/boss__balinda_8cpp.html":[7,0,0,0,1,3,2,0,1]
+"d2/dff/boss__balinda_8cpp.html":[7,0,0,0,1,3,2,0,1],
+"d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,0,1,1],
+"d2/dff/boss__balinda_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a192438ec5d0934ed1bec419036328553":[7,0,0,0,1,3,2,0,1,1,0]
 };

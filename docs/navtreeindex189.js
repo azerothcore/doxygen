@@ -1,7 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"d7/d46/classAuraEffect.html#a81f9974032b40d56489fabe89641f81d":[6,0,285,47],
-"d7/d46/classAuraEffect.html#a8229a29c8125b2558b1a875ae3deace8":[6,0,285,40],
 "d7/d46/classAuraEffect.html#a844dcfe2b6e78cc40b8b9996672b4f07":[6,0,285,141],
 "d7/d46/classAuraEffect.html#a8457bab110c3818d1506a3b5d767a411":[6,0,285,187],
 "d7/d46/classAuraEffect.html#a851e18dcd4b806db1cd3843a7814d15a":[6,0,285,216],
@@ -249,5 +247,7 @@ var NAVTREEINDEX189 =
 "d7/d4c/structnpc__underbat.html#ae137b6b763b3df6096c3bfd4dd7ee676":[6,0,2247,1],
 "d7/d4d/Corpse_8cpp.html":[7,0,0,0,1,2,16,0,0],
 "d7/d4d/classachievement__everything__counts.html":[6,0,48],
-"d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[6,0,48,1]
+"d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[6,0,48,1],
+"d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,48,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3]
 };

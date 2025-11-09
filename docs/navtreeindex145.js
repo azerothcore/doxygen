@@ -1,7 +1,5 @@
 var NAVTREEINDEX145 =
 {
-"d5/d4d/classIWorld.html#afc81520a2dad7e6324ed66f573f4adfe":[6,0,1401,19],
-"d5/d4d/classIWorld.html#aff737bba884cdc6e90e04f4223f1de6a":[6,0,1401,15],
 "d5/d4f/structSkillDiscoveryEntry.html":[6,0,2554],
 "d5/d4f/structSkillDiscoveryEntry.html#a301cae078fe1943cae045e94dc3d38ad":[6,0,2554,1],
 "d5/d4f/structSkillDiscoveryEntry.html#a54c0f12153c6e63a37e5da44d233b271":[6,0,2554,0],
@@ -93,12 +91,12 @@ var NAVTREEINDEX145 =
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,6,52,2],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[6,0,11,6,52,3],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,6,52,1],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,11,6,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,31,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,31,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,11,6,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3378],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[6,0,3378,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[6,0,3378,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX145 =
 "d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#a069f0008735b38c249ddfe5246025438":[6,0,497,0,6],
 "d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#a06fc801b89c53430603f1a33bb3e7bd8":[6,0,497,0,9],
 "d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#a218f4de2d057505f60b2977835e5fd91":[6,0,497,0,3],
-"d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#a751c0d0015c235c8716a2a8ff18500ba":[6,0,497,0,5]
+"d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#a751c0d0015c235c8716a2a8ff18500ba":[6,0,497,0,5],
+"d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#ae99e11630596c62c4155a18f5a0a3dd5":[6,0,497,0,1],
+"d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#aeabe71bde9b03a944beedeac68cffd19":[6,0,497,0,4]
 };

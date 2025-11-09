@@ -1,7 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"d4/dd9/structAchievementCriteriaEntry.html#a387eb4a669fcd4838921e07b2e8f7df9":[6,0,112,74],
-"d4/dd9/structAchievementCriteriaEntry.html#a3890f0b60ce0c924f4ee332cc1b955df":[6,0,112,102],
 "d4/dd9/structAchievementCriteriaEntry.html#a3aa00ee5a673bcb47f2e94f2b73ff5fd":[6,0,112,84],
 "d4/dd9/structAchievementCriteriaEntry.html#a3be18578202dfd58a60fe58424a248e1":[6,0,112,7],
 "d4/dd9/structAchievementCriteriaEntry.html#a3cf7548ea4e54bd5b00254f97ab85d33":[6,0,112,30],
@@ -110,8 +108,8 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1049,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,31,18],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,11,18],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,18,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,31,18,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,11,18,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1893,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1893,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1893,0,0],
@@ -199,10 +197,10 @@ var NAVTREEINDEX138 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a85d27ac9fb0b9dbb92b2b17a99eaa612":[6,0,1645,0,3],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#ad7251cda20f3e2821077d2327528fd2d":[6,0,1645,0,2],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[6,0,1645,0,7],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[6,0,11,6,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[5,0,31,6,35],
-"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,31,6,35,1],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html":[6,0,11,6,35],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[6,0,11,6,35,1],
+"d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a4ed1c240a53fa6268eb07b3c77d68757":[5,0,31,6,35,1],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[5,0,31,6,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a7b5ef96e9a9d4c6665b280bb844b6d54":[6,0,11,6,35,0],
 "d4/de2/classWorldPackets_1_1Guild_1_1GuildInvite.html#a8a91b3f9a94776da4b23c38220c6fc3d":[5,0,31,6,35,3],
@@ -233,8 +231,8 @@ var NAVTREEINDEX138 =
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a4ebb895343c2cfae053a605aafe0e461":[5,0,1,8,0,19,0],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a611756a2205ffb2bccabb53929a4644b":[5,0,1,8,0,19,5],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a611756a2205ffb2bccabb53929a4644b":[6,0,0,5,0,19,5],
-"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6541779cccd36a87d65acc1b6a9725e2":[5,0,1,8,0,19,1],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6541779cccd36a87d65acc1b6a9725e2":[6,0,0,5,0,19,1],
+"d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6541779cccd36a87d65acc1b6a9725e2":[5,0,1,8,0,19,1],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6b693468375cc6b92870194e10eb4140":[6,0,0,5,0,19,3],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#a6b693468375cc6b92870194e10eb4140":[5,0,1,8,0,19,3],
 "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html#aa00bfcf3938781f5e454f7acddb12e7e":[5,0,1,8,0,19,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX138 =
 "d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a422e7c2e139483cd377856bf3357b6a3":[6,0,681,0,11],
 "d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a47a958b930d898627bcbde9a1b0426e6":[6,0,681,0,9],
 "d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a626a84eca5840ba0851aa6bc151e5277":[6,0,681,0,10],
-"d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a7db3d0f2725fd8b7aff01d1f60aba5bd":[6,0,681,0,7]
+"d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a7db3d0f2725fd8b7aff01d1f60aba5bd":[6,0,681,0,7],
+"d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a9454bd0e95a5361baed5b186b1290606":[6,0,681,0,0],
+"d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html#a98df9b6d86eb0cec19f3a32dbf79a0e1":[6,0,681,0,1]
 };

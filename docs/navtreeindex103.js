@@ -1,7 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a056a8f021f41de4202955d223001ddbe":[7,0,0,0,1,3,5,7,6,3,1],
-"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aab6d2de7e94bbeaf6703d7c3b3dc9c8e":[7,0,0,0,1,3,5,7,6,3,0],
 "d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774":[7,0,0,0,1,3,5,7,6,6],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,6,5],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4":[7,0,0,0,1,3,5,7,6,5,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX103 =
 "d3/d9c/classinstance__magtheridons__lair.html":[6,0,1315],
 "d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1315,2],
 "d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1315,1],
-"d3/d9d/classBoundaryIntersectBoundary.html":[6,0,816]
+"d3/d9d/classBoundaryIntersectBoundary.html":[6,0,816],
+"d3/d9d/classBoundaryIntersectBoundary.html#a09c8440d1ddb8264bff4065910b7e0a5":[6,0,816,2],
+"d3/d9d/classBoundaryIntersectBoundary.html#a41e100c17db99990981293399660824c":[6,0,816,4]
 };

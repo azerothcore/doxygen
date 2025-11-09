@@ -1,7 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/dbb/DynamicObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,43],
-"d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[7,0,0,0,1,2,38,0,43,0],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,3834],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[6,0,3834,3],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,3834,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX203 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a75e75a10c7b0770b54203b033887f7cd":[6,0,1353,0,10],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a77c90ce656736c04a3f614c910ed205f":[6,0,1353,0,23],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7997a9d0601999d91e646aa6855a6da1":[6,0,1353,0,57],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7cf156d28fec3fe8e6a0e26c54bb80b3":[6,0,1353,0,78]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7cf156d28fec3fe8e6a0e26c54bb80b3":[6,0,1353,0,78],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7ff5d775a2c529fe241bd9f1bf43df7c":[6,0,1353,0,60],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86c743405bc0e33247a6e1799c083ffd":[6,0,1353,0,1]
 };

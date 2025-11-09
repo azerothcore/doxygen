@@ -1,7 +1,5 @@
 var NAVTREEINDEX170 =
 {
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ad8a355c8acce70c783fbfadb6c617fc1":[7,0,0,0,1,2,7,0,1,20,10],
-"d6/d4f/BattlefieldWG_8h.html#aab6b7a16c5d957cf2d31ebff2a8e1efe":[7,0,0,0,1,2,7,0,1,33],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826d":[7,0,0,0,1,2,7,0,1,17],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da16c0131ad34ecbab0691526c984b409c":[7,0,0,0,1,2,7,0,1,17,14],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da17dbf308535c8ead5dd9b97f27d61a2e":[7,0,0,0,1,2,7,0,1,17,15],
@@ -249,5 +247,7 @@ var NAVTREEINDEX170 =
 "d6/d58/classspell__load__into__catapult__aura.html#a788480ec4aaa57e643f55daca17c6ded":[6,0,3399,2],
 "d6/d58/classspell__load__into__catapult__aura.html#ab967233994aa3ff07b272f010b2c1545":[6,0,3399,1],
 "d6/d58/classspell__onslaught__or__call__bone__gryphon.html":[6,0,3515],
-"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#a1654fec971696e613b5102b3ca5030f1":[6,0,3515,1]
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#a1654fec971696e613b5102b3ca5030f1":[6,0,3515,1],
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#ab1e7d44914952dfb7f7ccf2de4da286f":[6,0,3515,2],
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#aeb2cf0a5d2e563e4983ddd237a2b1001":[6,0,3515,0]
 };

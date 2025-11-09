@@ -1,7 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d38/classChatHandler.html#ad2aadfd932dfb1f57cc7a0b2aeb5bd52":[6,0,870,11],
-"d6/d38/classChatHandler.html#ad637608e6b89b2c32ff34a94a18a2d99":[6,0,870,41],
 "d6/d38/classChatHandler.html#ad8f01e73ff069d46b3a8ec5a3fe3b008":[6,0,870,10],
 "d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[6,0,870,25],
 "d6/d38/classChatHandler.html#adb2eb23afa00d3651e0c8ca426e76cd6":[6,0,870,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX168 =
 "d6/d41/classAppenderConsole.html#ab5cbc074f7d9306838974863913c8a5b":[6,0,156,8],
 "d6/d41/classAppenderConsole.html#acdf277241cd25715e48500a15ab6bd30":[6,0,156,7],
 "d6/d41/classgo__witherbark__totem__bundle.html":[6,0,1208],
-"d6/d41/classgo__witherbark__totem__bundle.html#a5ac2b3b572d67fdcc587f242f3d50f97":[6,0,1208,2]
+"d6/d41/classgo__witherbark__totem__bundle.html#a5ac2b3b572d67fdcc587f242f3d50f97":[6,0,1208,2],
+"d6/d41/classgo__witherbark__totem__bundle.html#affcdff7ec6894add0acec842028efd2e":[6,0,1208,1],
+"d6/d41/structSpellCategoryEntry.html":[6,0,4085]
 };

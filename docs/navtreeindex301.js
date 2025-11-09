@@ -1,7 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af5299914d228a49622524c13a63bb5cb":[6,0,661,0,18],
-"dc/d07/structboss__prince__taldaram__icc_1_1boss__prince__taldaramAI.html#af62d0d20e8f7f312c1cd57ba3816bf70":[6,0,661,0,10],
 "dc/d08/classCharacterDeleteActionIpLogger.html":[6,0,858],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a16bc6247d220c1b6c52808cb4a522c11":[6,0,858,3],
 "dc/d08/classCharacterDeleteActionIpLogger.html#a37481de65409cf375dcff45615463949":[6,0,858,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX301 =
 "dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a":[7,0,0,0,1,2,31,0,4,0],
 "dc/d1b/FleeingMovementGenerator_8cpp.html#aa1f2b73706ddb69d07dbdc87257f010f":[7,0,0,0,1,2,31,0,4,1],
 "dc/d1b/FleeingMovementGenerator_8cpp.html#ad1ba65a06a9ac4ab2293efde8be35403":[7,0,0,0,1,2,31,0,4,2],
-"dc/d1b/classnpc__toc__retro__paladin.html":[6,0,2197]
+"dc/d1b/classnpc__toc__retro__paladin.html":[6,0,2197],
+"dc/d1b/classnpc__toc__retro__paladin.html#a1213c99792aa4362275bc827aa2f037e":[6,0,2197,2],
+"dc/d1b/classnpc__toc__retro__paladin.html#abfb15148aefe186447cfdb3a2c8749c4":[6,0,2197,1]
 };

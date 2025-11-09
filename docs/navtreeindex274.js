@@ -1,7 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ad992cf36966069dc00d5509a54445213":[6,0,685,0,12],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ae838ffe0fdee72f4d4b1c02a9cbde949":[6,0,685,0,16],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#aea51fa7b0e55c9ae635a95f7a1aea161":[6,0,685,0,0],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#af3c28d7eff6df494bbca6156df5fb014":[6,0,685,0,2],
 "db/d0f/structnpc__ahune__bunny.html":[6,0,1576],
@@ -249,5 +247,7 @@ var NAVTREEINDEX274 =
 "db/d17/classspell__xt002__tympanic__tantrum.html#a1e030067944878000b731edf456d6bc8":[6,0,4059,3],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a28ce9d2750c79b2b0061b00df5ae9e8b":[6,0,4059,1],
 "db/d17/classspell__xt002__tympanic__tantrum.html#a582691eca81b6db6d78ca925ad8fb084":[6,0,4059,0],
-"db/d18/classat__zulgurub__edge__of__madness__speech.html":[6,0,255]
+"db/d18/classat__zulgurub__edge__of__madness__speech.html":[6,0,255],
+"db/d18/classat__zulgurub__edge__of__madness__speech.html#a725de49be12116f2f7e77edd31a096ae":[6,0,255,1],
+"db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[6,0,255,0]
 };

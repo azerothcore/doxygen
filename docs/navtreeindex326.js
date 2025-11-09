@@ -1,7 +1,5 @@
 var NAVTREEINDEX326 =
 {
-"dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,459,0],
-"dd/d3f/structboss__falric_1_1boss__falricAI.html#a0ad83fb57263116a59976834c6667ea9":[6,0,459,0,11],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a0af8ef161bc2a37a5c7f7fa880194251":[6,0,459,0,6],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a2a7de8f939cd3cdc113c841da36e28c8":[6,0,459,0,1],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html#a4a8b45eb85c1328af6beec69f2db1842":[6,0,459,0,5],
@@ -131,12 +129,12 @@ var NAVTREEINDEX326 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[7,0,0,0,1,3,2,1,1,1,2,5],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,7,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,7,2],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,7,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,7,2,0],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,7,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,7,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,7,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX326 =
 "dd/d52/classGuildMgr.html#ae90afb785961e122afc419a61dfb20c1":[6,0,1256,2],
 "dd/d52/classGuildMgr.html#aef69fd59528ec594c76ae390a4ba05bd":[6,0,1256,9],
 "dd/d52/classGuildMgr.html#af9ff736e84a18d8dfce3826c9459df37":[6,0,1256,7],
-"dd/d52/structCreatureData.html":[6,0,923]
+"dd/d52/structCreatureData.html":[6,0,923],
+"dd/d52/structCreatureData.html#a05ac0d5358ba012c40155efee608772e":[6,0,923,23],
+"dd/d52/structCreatureData.html#a116526b4b43aa76b5f739c0f498a3144":[6,0,923,15]
 };

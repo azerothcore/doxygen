@@ -1,7 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d31/GameObjectScript_8h.html#a87397a2ba2a1acd88f62793eae9aa30e":[7,0,0,0,1,2,38,0,50,3],
-"d2/d31/classQuestApprenticeAnglerPlayerScript.html":[6,0,2459],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[6,0,2459,1],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[6,0,2459,0],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3405],
@@ -52,8 +50,8 @@ var NAVTREEINDEX54 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[6,0,3288,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[6,0,3288,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3288,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,31,2,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,2,0,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a7325fe50708c23d0c299c19694efc771":[7,0,0,0,1,3,5,14,37],
 "d2/d38/northrend__script__loader_8cpp.html#a74968482a4e8abfe12571fc322ff8c77":[7,0,0,0,1,3,5,14,97],
 "d2/d38/northrend__script__loader_8cpp.html#a76d70c0e1ef4ce6ea5c65a1f1b1804aa":[7,0,0,0,1,3,5,14,92],
-"d2/d38/northrend__script__loader_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,14,70]
+"d2/d38/northrend__script__loader_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,14,70],
+"d2/d38/northrend__script__loader_8cpp.html#a77d0cce0724befee65efa7555f62f8f1":[7,0,0,0,1,3,5,14,137],
+"d2/d38/northrend__script__loader_8cpp.html#a7960228710cc1d4d14425e2f87b2afb2":[7,0,0,0,1,3,5,14,15]
 };

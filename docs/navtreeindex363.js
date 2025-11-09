@@ -1,7 +1,5 @@
 var NAVTREEINDEX363 =
 {
-"de/d4d/classspell__summon__noblegarden__bunny__controller.html#ad39da0510c21855dd74abd93f33621c9":[6,0,3856,1],
-"de/d4d/events__script__loader_8cpp.html":[7,0,0,0,1,3,3,3],
 "de/d4d/events__script__loader_8cpp.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e":[7,0,0,0,1,3,3,3,9],
 "de/d4d/events__script__loader_8cpp.html#a5b00ce0eeb1dcf64dc867f4bce623416":[7,0,0,0,1,3,3,3,0],
 "de/d4d/events__script__loader_8cpp.html#a60b11fd113b9059778bb843dd1806c79":[7,0,0,0,1,3,3,3,7],
@@ -73,14 +71,14 @@ var NAVTREEINDEX363 =
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91":[6,0,1631,0,3],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#ac17dc46bfe75582a789a2056978218fb":[6,0,1631,0,4],
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,4,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,11,4,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,4,0,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,31,4,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,11,4,0,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,4,0,2],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,31,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,11,4,0,2],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,4,0,1],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,31,4,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[6,0,11,4,0,1],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,4,0,1],
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1312],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[6,0,1312,1],
 "de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1312,2],
@@ -159,8 +157,8 @@ var NAVTREEINDEX363 =
 "de/d59/classgo__simon__cluster.html":[6,0,1180],
 "de/d59/classgo__simon__cluster.html#a9fd9799604de44c91803511c45b67786":[6,0,1180,1],
 "de/d59/classgo__simon__cluster.html#adac53a8451abd6ace227a66afc7e61e8":[6,0,1180,0],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
@@ -249,5 +247,7 @@ var NAVTREEINDEX363 =
 "de/d5e/classGridTerrainData.html#ac3dc194ca16a7e9b604b2c2d14c478d8":[6,0,1228,17],
 "de/d5e/classGridTerrainData.html#acacaa661126e761a863b5490a3e78e73":[6,0,1228,13],
 "de/d5e/classGridTerrainData.html#adc73b5d06468dbf30b7b6507f6ac6474":[6,0,1228,5],
-"de/d5e/classGridTerrainData.html#ae50db87879b0b0bca66f0f0a625e2bc9":[6,0,1228,15]
+"de/d5e/classGridTerrainData.html#ae50db87879b0b0bca66f0f0a625e2bc9":[6,0,1228,15],
+"de/d5e/classGridTerrainData.html#aea51fcf34105d685405203093ce67085":[6,0,1228,20],
+"de/d5e/classGridTerrainData.html#af849394add099d86aa8ec9eb8c807f5d":[6,0,1228,8]
 };

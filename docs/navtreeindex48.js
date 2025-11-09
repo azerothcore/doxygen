@@ -1,7 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28feba310e9d9e31d607796e3765765665ae7f":[7,0,0,0,1,3,9,2,152,1],
-"d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28febad6a9e10c5be0d84914192180dd1c1602":[7,0,0,0,1,3,9,2,152,2],
 "d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306":[7,0,0,0,1,3,9,2,186],
 "d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306a0e716768b8b569aa1680571370c2109b":[7,0,0,0,1,3,9,2,186,0],
 "d1/de4/spell__generic_8cpp.html#ae4bc3e7d07ba40d0ecf20c20c5530306a52f2c779f7f0ec9d4d1ff881df2aa3ea":[7,0,0,0,1,3,9,2,186,1],
@@ -217,12 +215,12 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[6,0,3016,1],
 "d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[6,0,3016,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,3016,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX48 =
 "d1/dfb/classUnchainedMagicTargetSelector.html#a35a7981ce5495cba8b3a5391e4031431":[6,0,4221,2],
 "d1/dfb/classUnchainedMagicTargetSelector.html#ae412c72884e6cfb1ceef8ed9fb347fbf":[6,0,4221,0],
 "d1/dfb/classUnchainedMagicTargetSelector.html#af28ce8f46154ae6152e9025775a7f84f":[6,0,4221,1],
-"d1/dfc/classnpc__anubarak__spike.html":[6,0,1599]
+"d1/dfc/classnpc__anubarak__spike.html":[6,0,1599],
+"d1/dfc/classnpc__anubarak__spike.html#a4e96de1910c23311ad4644960ccd5022":[6,0,1599,1],
+"d1/dfc/classnpc__anubarak__spike.html#a7d55b321eb7e595fe5886dc382134947":[6,0,1599,2]
 };

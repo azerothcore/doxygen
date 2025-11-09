@@ -1,7 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6235dee64e06cb07cefa26750d5d524b":[7,0,0,0,1,4,7,108,117],
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a62fda2c6736e94cb56befe604356fc04":[7,0,0,0,1,4,7,108,145],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a668843b975482c5141aef3891bf8dc18":[7,0,0,0,1,4,7,108,100],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6ae603722a8bd83d350d2e06bbade84e":[7,0,0,0,1,4,7,108,75],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a6ca5908ec0e3552ebde599a13cf59be1":[7,0,0,0,1,4,7,108,22],
@@ -249,5 +247,7 @@ var NAVTREEINDEX355 =
 "de/d12/classAllCreatureScript.html#abba47678a4f5e73c2db3b27b4cfa3dbe":[6,0,148,7],
 "de/d12/classAllCreatureScript.html#acad4f67abbd5906f38be136be2ae1f53":[6,0,148,11],
 "de/d12/classAllCreatureScript.html#ae933414c901fc5d3606fd5c239156f1b":[6,0,148,0],
-"de/d12/classAllCreatureScript.html#af45ef5e7a0a6b3ca6126d5af87753b5c":[6,0,148,4]
+"de/d12/classAllCreatureScript.html#af45ef5e7a0a6b3ca6126d5af87753b5c":[6,0,148,4],
+"de/d12/classspell__q12619__emblazon__runeblade.html":[6,0,3676],
+"de/d12/classspell__q12619__emblazon__runeblade.html#a0a62a0bcf39a781289e1467384ac82cb":[6,0,3676,2]
 };

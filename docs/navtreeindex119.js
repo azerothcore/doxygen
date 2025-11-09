@@ -1,7 +1,5 @@
 var NAVTREEINDEX119 =
 {
-"d4/d1e/halls__of__reflection_8h.html":[7,0,0,0,1,3,5,4,1,3],
-"d4/d1e/halls__of__reflection_8h.html#a00eca5db139942c79e12425a1f7ba3b6":[7,0,0,0,1,3,5,4,1,3,4],
 "d4/d1e/halls__of__reflection_8h.html#a01b3e5f9902e55fda0e21507f557dc19":[7,0,0,0,1,3,5,4,1,3,35],
 "d4/d1e/halls__of__reflection_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,1,3,0],
 "d4/d1e/halls__of__reflection_8h.html#a06bb9476a9e99e22be9b163bf4238cac":[7,0,0,0,1,3,5,4,1,3,18],
@@ -249,5 +247,7 @@ var NAVTREEINDEX119 =
 "d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[6,0,3717,3],
 "d4/d21/classspell__drain__mana.html":[6,0,2801],
 "d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[6,0,2801,2],
-"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[6,0,2801,0]
+"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[6,0,2801,0],
+"d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[6,0,2801,1],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html":[7,0,0,0,1,3,7,4,3,3]
 };

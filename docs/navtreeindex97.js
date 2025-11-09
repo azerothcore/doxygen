@@ -1,7 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac44c34b3a18bb02fc03973b719699c08":[7,0,0,0,1,2,48,7,0,172],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac47c72c9d07f9764ad42845581411983":[7,0,0,0,1,2,48,7,0,503],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac4e2e15ea65f2941494c38a8a14629d1":[7,0,0,0,1,2,48,7,0,422],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac513079d0c4766e09dc256367b5c1065":[7,0,0,0,1,2,48,7,0,21],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac561f486a7370fd38efe47a8b15beb6f":[7,0,0,0,1,2,48,7,0,462],
@@ -249,5 +247,7 @@ var NAVTREEINDEX97 =
 "d3/d4f/classnpc__alchemist__adrianna.html":[6,0,1582],
 "d3/d4f/classnpc__alchemist__adrianna.html#a02ec6a66037d72e30bbe821ceee38691":[6,0,1582,1],
 "d3/d4f/classnpc__alchemist__adrianna.html#a310d375bc73c51e407580b063a6543fa":[6,0,1582,0],
-"d3/d50/classboss__prince__keleseth__icc.html":[6,0,660]
+"d3/d50/classboss__prince__keleseth__icc.html":[6,0,660],
+"d3/d50/classboss__prince__keleseth__icc.html#a0df14bbfc96b1d6eff19633716cea9f9":[6,0,660,1],
+"d3/d50/classboss__prince__keleseth__icc.html#ae5a03bbe1d85b9bc865026f05a99545e":[6,0,660,2]
 };

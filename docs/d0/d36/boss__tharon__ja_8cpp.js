@@ -8,7 +8,6 @@ var boss__tharon__ja_8cpp =
     [ "Misc", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ACTION_TURN_BONES", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4df9037e576791a0e8cd7a86df7ebf3", null ],
       [ "EVENT_SPELL_CURSE_OF_LIFE", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc06d07ea4bf758d5b40d8d015dfc0cf", null ],
-      [ "EVENT_SPELL_RAIN_OF_FIRE", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae87b6da7fec02560956dd06ddc9c0e04", null ],
       [ "EVENT_SPELL_SHADOW_VOLLEY", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa006a8f2aa2c4e55f6a86c52b9ecbfed", null ],
       [ "EVENT_SPELL_EYE_BEAM", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7cfb962f489a01f1d7146a2ab0a5cb24", null ],
       [ "EVENT_SPELL_LIGHTNING_BREATH", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abde294ddbf63fb2a3f09c41a0a9f8971", null ],
@@ -20,7 +19,6 @@ var boss__tharon__ja_8cpp =
     ] ],
     [ "Spells", "d0/d36/boss__tharon__ja_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_CURSE_OF_LIFE", "d0/d36/boss__tharon__ja_8cpp.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "d0/d36/boss__tharon__ja_8cpp.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "d0/d36/boss__tharon__ja_8cpp.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "d0/d36/boss__tharon__ja_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "d0/d36/boss__tharon__ja_8cpp.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

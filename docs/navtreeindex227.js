@@ -1,7 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/de1/structCalendarInvite.html#a3c2198eb6825a9ab20c4f903f2f6e20b":[6,0,835,0],
-"d8/de1/structCalendarInvite.html#a3c96fcc1c359391adfba17197a1e9b1e":[6,0,835,16],
 "d8/de1/structCalendarInvite.html#a3ed7463e0e5d05ce04cc05f9e6367187":[6,0,835,24],
 "d8/de1/structCalendarInvite.html#a4dca022d9cdd1a0431fd9c36fefd6244":[6,0,835,2],
 "d8/de1/structCalendarInvite.html#a6668682d7217924468219c22f135f7d6":[6,0,835,13],
@@ -249,5 +247,7 @@ var NAVTREEINDEX227 =
 "d8/df3/classnpc__target__dummy.html#a1aff9199c160e20f9e92ee9f90178d63":[6,0,2159,2],
 "d8/df3/classspell__marrowgar__coldflame.html":[6,0,3455],
 "d8/df3/classspell__marrowgar__coldflame.html#a19dec2c1cbe72d90fa86960d7bb21277":[6,0,3455,1],
-"d8/df3/classspell__marrowgar__coldflame.html#aa2c6c9de775ecce9f84485e0ac64a651":[6,0,3455,2]
+"d8/df3/classspell__marrowgar__coldflame.html#aa2c6c9de775ecce9f84485e0ac64a651":[6,0,3455,2],
+"d8/df3/classspell__marrowgar__coldflame.html#abeb703f8f050677bafb8f5ce4173751a":[6,0,3455,0],
+"d8/df3/classspell__marrowgar__coldflame.html#ae8eb94536a9f08138b42cfe8ea711eaa":[6,0,3455,3]
 };
