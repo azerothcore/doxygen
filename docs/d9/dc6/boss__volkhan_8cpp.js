@@ -25,6 +25,7 @@ var boss__volkhan_8cpp =
       [ "NPC_VOLKHAN_ANVIL", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d", null ],
       [ "NPC_MOLTEN_GOLEM", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca20e3ee16669c29eea1487c57e8cad11f", null ],
       [ "NPC_BRITTLE_GOLEM", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaa7eba26f13cb62deb289afdbf2a512c4", null ],
+      [ "NPC_SLAG", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca4ae7e7987db5e1be9e547637ab65e753", null ],
       [ "ACTION_SHATTER", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca61e72c56ac632a7cead1c2ded4581569", null ],
       [ "ACTION_DESTROYED", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca6be9aaac2d0ece39335d70b587cf5e82", null ],
       [ "POINT_ANVIL", "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca860fbfbef46f69ee9a0aa899e040991e", null ]

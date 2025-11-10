@@ -13,11 +13,9 @@ var structboss__volkhan =
     [ "Reset", "d4/d09/structboss__volkhan.html#a3f12d464fa4d471f905962ed9fc4237e", null ],
     [ "SpellHitTarget", "d4/d09/structboss__volkhan.html#a87e14a0076a263b160d00d917e5fde2e", null ],
     [ "UpdateAI", "d4/d09/structboss__volkhan.html#a6ab1851c270e58d0157949fd323aa693", null ],
-    [ "events", "d4/d09/structboss__volkhan.html#a77fdd33ac5d3ba7f131bf95c6de908b7", null ],
     [ "PointID", "d4/d09/structboss__volkhan.html#adfc8f7e938fdb89e3961bb8e5346ad49", null ],
     [ "ShatteredCount", "d4/d09/structboss__volkhan.html#ab309004bce968bb858722b6bb1936b97", null ],
     [ "shatteredStompCast", "d4/d09/structboss__volkhan.html#aa31c9cab5a6d0b053dcbb59eed250cff", null ],
-    [ "summons", "d4/d09/structboss__volkhan.html#a3d3570319e89c39fb63b4672925904b4", null ],
     [ "x", "d4/d09/structboss__volkhan.html#a3c8fcf00e363b3c195ce29c49fbb12c8", null ],
     [ "y", "d4/d09/structboss__volkhan.html#aa61700b296b51c758e34753251f9c626", null ],
     [ "z", "d4/d09/structboss__volkhan.html#a78e5238c287a005f79764c221a38ee41", null ]
