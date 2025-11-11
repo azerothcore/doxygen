@@ -34,12 +34,12 @@ var GridTerrainData_8h =
     [ "MAX_FALL_DISTANCE", "db/dab/GridTerrainData_8h.html#a91e57a946b1b9303401fd9140f3cd13e", null ],
     [ "MAX_HEIGHT", "db/dab/GridTerrainData_8h.html#a9059fa76eb5e8e86f870405d63e72c4c", null ],
     [ "MIN_HEIGHT", "db/dab/GridTerrainData_8h.html#a1610a21b358c3531db64b3208fa70e5b", null ],
-    [ "LiquidStatus", "db/dab/GridTerrainData_8h.html#a230261924eebef09eab542c62d316cc4", [
-      [ "LIQUID_MAP_NO_WATER", "db/dab/GridTerrainData_8h.html#a230261924eebef09eab542c62d316cc4ad816089af57f43b040885d5c01678825", null ],
-      [ "LIQUID_MAP_ABOVE_WATER", "db/dab/GridTerrainData_8h.html#a230261924eebef09eab542c62d316cc4af6081f84e48299232ed52bb6a2c8df71", null ],
-      [ "LIQUID_MAP_WATER_WALK", "db/dab/GridTerrainData_8h.html#a230261924eebef09eab542c62d316cc4af70ebc4891408116188de5f9bed2cf50", null ],
-      [ "LIQUID_MAP_IN_WATER", "db/dab/GridTerrainData_8h.html#a230261924eebef09eab542c62d316cc4af4e67ea19276ef09ee06c196ee361e01", null ],
-      [ "LIQUID_MAP_UNDER_WATER", "db/dab/GridTerrainData_8h.html#a230261924eebef09eab542c62d316cc4a05ec44d4ffd65817a9210a88d9f9b857", null ]
+    [ "LiquidStatus", "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4", [
+      [ "LIQUID_MAP_NO_WATER", "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4ad816089af57f43b040885d5c01678825", null ],
+      [ "LIQUID_MAP_ABOVE_WATER", "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4af6081f84e48299232ed52bb6a2c8df71", null ],
+      [ "LIQUID_MAP_WATER_WALK", "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4af70ebc4891408116188de5f9bed2cf50", null ],
+      [ "LIQUID_MAP_IN_WATER", "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4af4e67ea19276ef09ee06c196ee361e01", null ],
+      [ "LIQUID_MAP_UNDER_WATER", "db/dab/GridTerrainData_8h.html#af3921b43482dff8fc8b81784265e52f4a05ec44d4ffd65817a9210a88d9f9b857", null ]
     ] ],
     [ "TerrainMapDataReadResult", "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624c", [
       [ "Success", "db/dab/GridTerrainData_8h.html#acc57f2f56e801a11d6614f1c85f2624ca505a83f220c02df2f85c3810cd9ceb38", null ],

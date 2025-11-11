@@ -1,5 +1,7 @@
 var NAVTREEINDEX299 =
 {
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a4779c7fc11c8ad58834a08bb5c3bad5c":[7,0,0,0,1,3,2,6,3,9,15],
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a50ffaf325566c41226a35d05efa52d26":[7,0,0,0,1,3,2,6,3,9,7],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a54c30265668ffecdc07091dd92cee4d5":[7,0,0,0,1,3,2,6,3,9,11],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a558b6805bac3ee9aa8f0d874f2033878":[7,0,0,0,1,3,2,6,3,9,20],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a776d1d9bb6f3cc965a2ccefeed06503a":[7,0,0,0,1,3,2,6,3,9,0],
@@ -238,16 +240,14 @@ var NAVTREEINDEX299 =
 "dc/d01/classdisable__commandscript.html#ac5088383c36894c7bd753ee99086e508":[6,0,984,10],
 "dc/d01/classdisable__commandscript.html#ae49c0e3ad4aa3147194478180837c07e":[6,0,984,0],
 "dc/d01/classdisable__commandscript.html#aea64728b1a70aab3813190c4d5df3859":[6,0,984,4],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2671],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2671,1],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2671,0],
-"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2671,2],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2670],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2670,1],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2670,0],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2670,2],
 "dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4],
 "dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[7,0,0,0,1,3,7,4,1,4,2],
 "dc/d02/WeatherScript_8h.html":[7,0,0,0,1,2,38,0,89],
 "dc/d03/InstanceMapScript_8h.html":[7,0,0,0,1,2,38,0,58],
 "dc/d03/InstanceMapScript_8h.html#a78044a95772db069981b463451a60613":[7,0,0,0,1,2,38,0,58,2],
-"dc/d03/ScriptedEscortAI_8h.html":[7,0,0,0,1,2,3,1,3],
-"dc/d03/ScriptedEscortAI_8h.html#ad23dc39ce2da634e67360fab90e3b9e2":[7,0,0,0,1,2,3,1,3,2],
-"dc/d03/ScriptedEscortAI_8h.html#af40ca4990501264cb0359ab6d93fb08a":[7,0,0,0,1,2,3,1,3,3]
+"dc/d03/ScriptedEscortAI_8h.html":[7,0,0,0,1,2,3,1,3]
 };

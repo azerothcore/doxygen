@@ -5,7 +5,6 @@ var classVMAP_1_1StaticMapTree =
     [ "StaticMapTree", "d9/d67/classVMAP_1_1StaticMapTree.html#a0ecb0de74782f9d5f9f877529c698f20", null ],
     [ "~StaticMapTree", "d9/d67/classVMAP_1_1StaticMapTree.html#a2ad3c38214b678574af00e92f81a49ed", null ],
     [ "CanLoadMap", "d9/d67/classVMAP_1_1StaticMapTree.html#a05bc1ec03ddd82516a45d2ff82274fe9", null ],
-    [ "GetAreaInfo", "d9/d67/classVMAP_1_1StaticMapTree.html#a6662688ee5150fec5e835a8fa3db279e", null ],
     [ "getHeight", "d9/d67/classVMAP_1_1StaticMapTree.html#af36059fa934fc9d25a29ae5aa30b3710", null ],
     [ "GetIntersectionTime", "d9/d67/classVMAP_1_1StaticMapTree.html#a525504fa1a0fb62988de820582f211b3", null ],
     [ "GetLocationInfo", "d9/d67/classVMAP_1_1StaticMapTree.html#ada47b221e97dd5b14d87c7008be270a1", null ],

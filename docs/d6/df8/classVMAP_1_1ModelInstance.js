@@ -5,7 +5,6 @@ var classVMAP_1_1ModelInstance =
     [ "GetLiquidLevel", "d6/df8/classVMAP_1_1ModelInstance.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
     [ "GetLocationInfo", "d6/df8/classVMAP_1_1ModelInstance.html#a2e756866245d8131d5fc040489a563e3", null ],
     [ "getWorldModel", "d6/df8/classVMAP_1_1ModelInstance.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectPoint", "d6/df8/classVMAP_1_1ModelInstance.html#a991622da72fe08d812f49f20f0a2df17", null ],
     [ "intersectRay", "d6/df8/classVMAP_1_1ModelInstance.html#aca8a2a07911eba5ec362080e2790453c", null ],
     [ "setUnloaded", "d6/df8/classVMAP_1_1ModelInstance.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
     [ "iInvRot", "d6/df8/classVMAP_1_1ModelInstance.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],

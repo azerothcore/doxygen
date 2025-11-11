@@ -69,7 +69,7 @@ var searchData=
   ['linktoworkshop_66',['LinkToWorkshop',['../d2/dee/classWintergraspCapturePoint.html#a32d378eba7f0eea0f011b8ea8c7e6eee',1,'WintergraspCapturePoint']]],
   ['linkworldobjectvisibility_67',['LinkWorldObjectVisibility',['../d3/d9f/classObjectVisibilityContainer.html#ab744b89b7d10ab3fe55acb5f35a2c9c3',1,'ObjectVisibilityContainer']]],
   ['liquiddata_68',['LiquidData',['../da/df8/structLiquidData.html#ac2435178323f480d2dae449b49b39146',1,'LiquidData']]],
-  ['liquidinfo_69',['LiquidInfo',['../d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9',1,'VMAP::AreaAndLiquidData::LiquidInfo']]],
+  ['liquidinfo_69',['liquidinfo',['../d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11',1,'VMAP::AreaAndLiquidData::LiquidInfo::LiquidInfo()=default'],['../d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9',1,'VMAP::AreaAndLiquidData::LiquidInfo::LiquidInfo(uint32 _type, float _level)']]],
   ['list_70',['List',['../d2/d48/classChannel.html#a1046accb63d4594c80d154e4591d238f',1,'Channel']]],
   ['list_5fcommandscript_71',['list_commandscript',['../db/da4/classlist__commandscript.html#a5a85953a46afe08fe05a11fe69c934dc',1,'list_commandscript']]],
   ['listaurascommand_72',['ListAurasCommand',['../db/da4/classlist__commandscript.html#a98c9f6fb42e8030d76f234cdb02a72fb',1,'list_commandscript']]],

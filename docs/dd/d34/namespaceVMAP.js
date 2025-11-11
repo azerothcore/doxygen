@@ -2,8 +2,8 @@ var namespaceVMAP =
 [
     [ "AreaAndLiquidData", "d7/dcc/structVMAP_1_1AreaAndLiquidData.html", "d7/dcc/structVMAP_1_1AreaAndLiquidData" ],
     [ "AreaInfo", "d2/d6e/structVMAP_1_1AreaInfo.html", "d2/d6e/structVMAP_1_1AreaInfo" ],
-    [ "AreaInfoCallback", "dd/d5a/classVMAP_1_1AreaInfoCallback.html", "dd/d5a/classVMAP_1_1AreaInfoCallback" ],
     [ "GModelRayCallback", "de/df9/structVMAP_1_1GModelRayCallback.html", "de/df9/structVMAP_1_1GModelRayCallback" ],
+    [ "GroupLocationInfo", "d5/db0/structVMAP_1_1GroupLocationInfo.html", "d5/db0/structVMAP_1_1GroupLocationInfo" ],
     [ "GroupModel", "d2/da8/classVMAP_1_1GroupModel.html", "d2/da8/classVMAP_1_1GroupModel" ],
     [ "GroupModel_Raw", "d5/d98/structVMAP_1_1GroupModel__Raw.html", "d5/d98/structVMAP_1_1GroupModel__Raw" ],
     [ "IntersectionCallBack", "d4/d5f/classVMAP_1_1IntersectionCallBack.html", "d4/d5f/classVMAP_1_1IntersectionCallBack" ],
@@ -60,6 +60,7 @@ var namespaceVMAP =
       [ "VMAP_LOAD_RESULT_IGNORED", "dd/d34/namespaceVMAP.html#a70f18a0d29fcdc21e145ab8306987b18addac30ca7168c74f716b6923498e0165", null ]
     ] ],
     [ "IntersectTriangle", "dd/d34/namespaceVMAP.html#a4fa75e5ca5211394c63abc7ff28eb741", null ],
+    [ "IsInsideOrAboveBound", "dd/d34/namespaceVMAP.html#a830eb7f04e05a094cc7cefbc43fa6f91", null ],
     [ "operator&", "dd/d34/namespaceVMAP.html#a3c25bdb4d30c345cd6760935e2c456f4", null ],
     [ "readChunk", "dd/d34/namespaceVMAP.html#a166f3eeee53079ac9df4f15ccd577974", null ],
     [ "GAMEOBJECT_MODELS", "dd/d34/namespaceVMAP.html#ada4191301386f881525b3f0b0760cb60", null ],

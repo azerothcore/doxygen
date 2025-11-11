@@ -10,7 +10,6 @@ var classGameObjectModel =
     [ "GetLocationInfo", "d7/d6f/classGameObjectModel.html#a391fd8d204b9b1039ef8cc42fa90019a", null ],
     [ "GetPosition", "d7/d6f/classGameObjectModel.html#a7b3023f2db0d728e5004c8b8828a2a98", null ],
     [ "initialize", "d7/d6f/classGameObjectModel.html#affb481343e6c849a3d133598749e0e70", null ],
-    [ "IntersectPoint", "d7/d6f/classGameObjectModel.html#a1db30d8d79018c11237b60f447ab9d0c", null ],
     [ "intersectRay", "d7/d6f/classGameObjectModel.html#af99a6abe2b04df64590b8923cc72ed4e", null ],
     [ "isEnabled", "d7/d6f/classGameObjectModel.html#a77b0c074ae20733d663fdf73169c343d", null ],
     [ "IsMapObject", "d7/d6f/classGameObjectModel.html#af7d489ccfe12858633b24582be39ba63", null ],

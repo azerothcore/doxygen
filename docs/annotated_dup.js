@@ -305,8 +305,8 @@ var annotated_dup =
     [ "VMAP", "dd/d34/namespaceVMAP.html", [
       [ "AreaAndLiquidData", "d7/dcc/structVMAP_1_1AreaAndLiquidData.html", "d7/dcc/structVMAP_1_1AreaAndLiquidData" ],
       [ "AreaInfo", "d2/d6e/structVMAP_1_1AreaInfo.html", "d2/d6e/structVMAP_1_1AreaInfo" ],
-      [ "AreaInfoCallback", "dd/d5a/classVMAP_1_1AreaInfoCallback.html", "dd/d5a/classVMAP_1_1AreaInfoCallback" ],
       [ "GModelRayCallback", "de/df9/structVMAP_1_1GModelRayCallback.html", "de/df9/structVMAP_1_1GModelRayCallback" ],
+      [ "GroupLocationInfo", "d5/db0/structVMAP_1_1GroupLocationInfo.html", "d5/db0/structVMAP_1_1GroupLocationInfo" ],
       [ "GroupModel", "d2/da8/classVMAP_1_1GroupModel.html", "d2/da8/classVMAP_1_1GroupModel" ],
       [ "GroupModel_Raw", "d5/d98/structVMAP_1_1GroupModel__Raw.html", "d5/d98/structVMAP_1_1GroupModel__Raw" ],
       [ "IntersectionCallBack", "d4/d5f/classVMAP_1_1IntersectionCallBack.html", "d4/d5f/classVMAP_1_1IntersectionCallBack" ],
@@ -1512,7 +1512,6 @@ var annotated_dup =
     [ "DynamicMapTree", "d6/d7d/classDynamicMapTree.html", "d6/d7d/classDynamicMapTree" ],
     [ "DynamicObject", "dc/d8e/classDynamicObject.html", "dc/d8e/classDynamicObject" ],
     [ "DynamicObjectScript", "d7/db2/classDynamicObjectScript.html", "d7/db2/classDynamicObjectScript" ],
-    [ "DynamicTreeAreaInfoCallback", "d1/d5e/structDynamicTreeAreaInfoCallback.html", "d1/d5e/structDynamicTreeAreaInfoCallback" ],
     [ "DynamicTreeIntersectionCallback", "d7/dff/structDynamicTreeIntersectionCallback.html", "d7/dff/structDynamicTreeIntersectionCallback" ],
     [ "DynamicTreeLocationInfoCallback", "d3/d98/structDynamicTreeLocationInfoCallback.html", "d3/d98/structDynamicTreeLocationInfoCallback" ],
     [ "DynamicVisibilityMgr", "da/df9/classDynamicVisibilityMgr.html", "da/df9/classDynamicVisibilityMgr" ],

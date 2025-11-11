@@ -1,12 +1,5 @@
 var NAVTREEINDEX371 =
 {
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2b4c7eec954ec3c9bbb73ad220fa":[7,0,0,0,1,1,0,0,1,1,367],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8b9f2e3af6e151a7261acdb0fd164912":[7,0,0,0,1,1,0,0,1,1,289],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8c3fde55b40d47801110db5425715947":[7,0,0,0,1,1,0,0,1,1,202],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8c612c787061adff8dbc7b8512038766":[7,0,0,0,1,1,0,0,1,1,316],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8cd8c0b22f0a7e23f7ca8169bba8cf3a":[7,0,0,0,1,1,0,0,1,1,216],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8d8f037ebe94e44d7c2eb3c51aa29a52":[7,0,0,0,1,1,0,0,1,1,25],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8ebd3f79c93c14beefbfbb276c4ebe5e":[7,0,0,0,1,1,0,0,1,1,39],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8ef37da58c4f3c3c627b8c89cbf05a89":[7,0,0,0,1,1,0,0,1,1,389],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8f38641048927173b4fc7673b1c82741":[7,0,0,0,1,1,0,0,1,1,50],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a8fabb4129673c6b1f405d9019f08f88f":[7,0,0,0,1,1,0,0,1,1,301],
@@ -238,9 +231,9 @@ var NAVTREEINDEX371 =
 "de/da5/classboss__sjonnir__malformed__ooze.html":[6,0,704],
 "de/da5/classboss__sjonnir__malformed__ooze.html#a22807bb07692511c5ec87073d98c2604":[6,0,704,2],
 "de/da5/classboss__sjonnir__malformed__ooze.html#ad151bc07b032b6cceed046d1b25ecc08":[6,0,704,1],
-"de/da5/classinstance__ragefire__chasm.html":[6,0,1327],
-"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[6,0,1327,2],
-"de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[6,0,1327,1],
+"de/da5/classinstance__ragefire__chasm.html":[6,0,1326],
+"de/da5/classinstance__ragefire__chasm.html#a0568996a61ef91688b9f223cb3782e5a":[6,0,1326,2],
+"de/da5/classinstance__ragefire__chasm.html#ab7f27d3e73b24d16dcf9b114f7dd4b36":[6,0,1326,1],
 "de/da5/vmapexport_8cpp.html":[7,0,0,0,3,4,12],
 "de/da5/vmapexport_8cpp.html#a12b965536bcabf2e2edd7db2196630cd":[7,0,0,0,3,4,12,17],
 "de/da5/vmapexport_8cpp.html#a17b22c7645963c9e5c277b72605a4966":[7,0,0,0,3,4,12,22],
@@ -249,5 +242,12 @@ var NAVTREEINDEX371 =
 "de/da5/vmapexport_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[7,0,0,0,3,4,12,8],
 "de/da5/vmapexport_8cpp.html#a402d9c2814f85cee14f9bc8dbc999de8":[7,0,0,0,3,4,12,2],
 "de/da5/vmapexport_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,4,12,1],
-"de/da5/vmapexport_8cpp.html#a50c73ad000da4df06ae438373eeaf60e":[7,0,0,0,3,4,12,9]
+"de/da5/vmapexport_8cpp.html#a50c73ad000da4df06ae438373eeaf60e":[7,0,0,0,3,4,12,9],
+"de/da5/vmapexport_8cpp.html#a5ef7a611bb56bdaa370aaf1770059365":[7,0,0,0,3,4,12,14],
+"de/da5/vmapexport_8cpp.html#a6a3d179f34597554b17a122f27cd6be5":[7,0,0,0,3,4,12,6],
+"de/da5/vmapexport_8cpp.html#a6bb580270fe96b7e6ccb585658850d17":[7,0,0,0,3,4,12,7],
+"de/da5/vmapexport_8cpp.html#a6fcdefd114e6ec71964d6539163fc055":[7,0,0,0,3,4,12,16],
+"de/da5/vmapexport_8cpp.html#a773984b4a48966b7ea95d0586db0210b":[7,0,0,0,3,4,12,15],
+"de/da5/vmapexport_8cpp.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154":[7,0,0,0,3,4,12,21],
+"de/da5/vmapexport_8cpp.html#a8ae40ebe73635e831bc65b70e7f97f3c":[7,0,0,0,3,4,12,13]
 };

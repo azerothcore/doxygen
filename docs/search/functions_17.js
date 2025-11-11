@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['wait_0',['wait',['../df/d41/classSocketMgr.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr::Wait()'],['../db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread::wait()'],['../d3/db8/classMapUpdater.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater::wait()'],['../d5/d87/classNetworkThread.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread::Wait()']]],
+  ['wait_0',['wait',['../d3/db8/classMapUpdater.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater::wait()'],['../d5/d87/classNetworkThread.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread::Wait()'],['../df/d41/classSocketMgr.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr::Wait()'],['../db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread::wait()']]],
   ['waitandpop_1',['WaitAndPop',['../d7/d29/classProducerConsumerQueue.html#a172ef4211bcb237478ec57531c8dcc4d',1,'ProducerConsumerQueue']]],
   ['waitcompletion_2',['WaitCompletion',['../dd/d2d/classMMAP_1_1TileBuilder.html#ae386f742fed7d2b66bcf3750abf91daf',1,'MMAP::TileBuilder']]],
   ['warden_3',['Warden',['../db/d5c/classWarden.html#a03da361299bfb94003f9cfd2bd751f73',1,'Warden']]],
@@ -40,7 +40,7 @@ var searchData=
   ['withchainingcallback_37',['WithChainingCallback',['../de/db7/classQueryCallback.html#ab96af2084492fb64756ab1d751da2283',1,'QueryCallback']]],
   ['withchainingpreparedcallback_38',['WithChainingPreparedCallback',['../de/db7/classQueryCallback.html#a9c098ed933e0fcd1f639c23dae546f8a',1,'QueryCallback']]],
   ['withpreparedcallback_39',['WithPreparedCallback',['../de/db7/classQueryCallback.html#af881e4cbb2742817a4075d9d6deef26c',1,'QueryCallback']]],
-  ['wmodelareacallback_40',['WModelAreaCallback',['../d4/d7a/classVMAP_1_1WModelAreaCallback.html#ad59e5b281d60d2489d0100e728612e65',1,'VMAP::WModelAreaCallback']]],
+  ['wmodelareacallback_40',['WModelAreaCallback',['../d4/d7a/classVMAP_1_1WModelAreaCallback.html#aef7e8c21f6be4d6889faddda6b3be326',1,'VMAP::WModelAreaCallback']]],
   ['wmodelraycallback_41',['WModelRayCallBack',['../df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea',1,'VMAP::WModelRayCallBack']]],
   ['wmogroup_42',['WMOGroup',['../dc/d66/classWMOGroup.html#a1c18a6cf192c9241838163bd8b9eaf32',1,'WMOGroup']]],
   ['wmoliquid_43',['wmoliquid',['../d9/d7b/classVMAP_1_1WmoLiquid.html#af5142dee41d1e9d3e6a9aa06f5bd26d3',1,'VMAP::WmoLiquid::WmoLiquid()'],['../d9/d7b/classVMAP_1_1WmoLiquid.html#aaf774921a4c53be868aa5714779fc9d2',1,'VMAP::WmoLiquid::WmoLiquid(const WmoLiquid &amp;other)'],['../d9/d7b/classVMAP_1_1WmoLiquid.html#a0451687564aa6ab7bef27e672d771d77',1,'VMAP::WmoLiquid::WmoLiquid(uint32 width, uint32 height, const G3D::Vector3 &amp;corner, uint32 type)']]],

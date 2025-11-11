@@ -11,7 +11,7 @@ var classEventProcessor =
     [ "CalculateQueueTime", "d2/d58/classEventProcessor.html#a2db97870b30361980b2d72ef806de951", null ],
     [ "CalculateTime", "d2/d58/classEventProcessor.html#a1a92f983f1dd415146c2875f80cba433", null ],
     [ "CancelEventGroup", "d2/d58/classEventProcessor.html#a29651ba6704e7908820af60ec37a2478", null ],
-    [ "HaveEventList", "d2/d58/classEventProcessor.html#a157a486481d95187465589297b55a7f7", null ],
+    [ "HasEvents", "d2/d58/classEventProcessor.html#a5f09366ac8e595f24b0c095f4127b9e7", null ],
     [ "KillAllEvents", "d2/d58/classEventProcessor.html#a15a65ecc2391f505266176cfc7f29c39", null ],
     [ "ModifyEventTime", "d2/d58/classEventProcessor.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
     [ "Update", "d2/d58/classEventProcessor.html#a72fe67593c7684a55d27fb225ea51d05", null ],

@@ -165,10 +165,10 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>: <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>(val), <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a>(info), <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a>(<span class="keyword">false</span>) {}</div>
-<div class="ttc" id="aclassVMAP_1_1LocationInfoCallback_html_a19c87ad1c9665c3ddfbfa89ccdee5c10"><div class="ttname"><a href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">VMAP::LocationInfoCallback::prims</a></div><div class="ttdeci">ModelInstance * prims</div><div class="ttdef"><b>Definition</b> MapTree.cpp:85</div></div>
-<div class="ttc" id="aclassVMAP_1_1LocationInfoCallback_html_a1ada8b8a1742f02b2d1f28ee82903246"><div class="ttname"><a href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246">VMAP::LocationInfoCallback::result</a></div><div class="ttdeci">bool result</div><div class="ttdef"><b>Definition</b> MapTree.cpp:87</div></div>
-<div class="ttc" id="aclassVMAP_1_1LocationInfoCallback_html_a9a8b8529a571b3652cd898b2888d8027"><div class="ttname"><a href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027">VMAP::LocationInfoCallback::locInfo</a></div><div class="ttdeci">LocationInfo &amp; locInfo</div><div class="ttdef"><b>Definition</b> MapTree.cpp:86</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>: <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>(val), <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a>(info), <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a>(<span class="keyword">false</span>) {}</div>
+<div class="ttc" id="aclassVMAP_1_1LocationInfoCallback_html_a19c87ad1c9665c3ddfbfa89ccdee5c10"><div class="ttname"><a href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">VMAP::LocationInfoCallback::prims</a></div><div class="ttdeci">ModelInstance * prims</div><div class="ttdef"><b>Definition</b> MapTree.cpp:69</div></div>
+<div class="ttc" id="aclassVMAP_1_1LocationInfoCallback_html_a1ada8b8a1742f02b2d1f28ee82903246"><div class="ttname"><a href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246">VMAP::LocationInfoCallback::result</a></div><div class="ttdeci">bool result</div><div class="ttdef"><b>Definition</b> MapTree.cpp:71</div></div>
+<div class="ttc" id="aclassVMAP_1_1LocationInfoCallback_html_a9a8b8529a571b3652cd898b2888d8027"><div class="ttname"><a href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027">VMAP::LocationInfoCallback::locInfo</a></div><div class="ttdeci">LocationInfo &amp; locInfo</div><div class="ttdef"><b>Definition</b> MapTree.cpp:70</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -206,18 +206,18 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   75</span>        {</div>
-<div class="line"><span class="lineno">   76</span><span class="preprocessor">#if defined(VMAP_DEBUG)</span></div>
-<div class="line"><span class="lineno">   77</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;LocationInfoCallback: trying to intersect &#39;{}&#39;&quot;</span>, <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>[entry].name);</div>
-<div class="line"><span class="lineno">   78</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">   79</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>[entry].GetLocationInfo(point, <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a>))</div>
-<div class="line"><span class="lineno">   80</span>            {</div>
-<div class="line"><span class="lineno">   81</span>                <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   82</span>            }</div>
-<div class="line"><span class="lineno">   83</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   59</span>        {</div>
+<div class="line"><span class="lineno">   60</span><span class="preprocessor">#if defined(VMAP_DEBUG)</span></div>
+<div class="line"><span class="lineno">   61</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;LocationInfoCallback: trying to intersect &#39;{}&#39;&quot;</span>, <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>[entry].name);</div>
+<div class="line"><span class="lineno">   62</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>[entry].GetLocationInfo(point, <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a>))</div>
+<div class="line"><span class="lineno">   64</span>            {</div>
+<div class="line"><span class="lineno">   65</span>                <a class="code hl_variable" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   66</span>            }</div>
+<div class="line"><span class="lineno">   67</span>        }</div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:170</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00086">locInfo</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00085">prims</a>, and <a class="el" href="../../#l00087">result</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">locInfo</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00069">prims</a>, and <a class="el" href="../../#l00071">result</a>.</p>
 
 </div>
 </div>
@@ -234,7 +234,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00074">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00058">operator()()</a>.</p>
 
 </div>
 </div>
@@ -250,7 +250,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00074">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00058">operator()()</a>.</p>
 
 </div>
 </div>
@@ -266,7 +266,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00118">VMAP::StaticMapTree::GetLocationInfo()</a>, and <a class="el" href="../../#l00074">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00086">VMAP::StaticMapTree::GetLocationInfo()</a>, and <a class="el" href="../../#l00058">operator()()</a>.</p>
 
 </div>
 </div>
@@ -279,7 +279,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d34/namespaceVMAP.html">VMAP</a></li><li class="navelem"><a class="el" href="../../d8/d27/classVMAP_1_1LocationInfoCallback.html">LocationInfoCallback</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 06:28:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Nov 11 2025 06:27:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

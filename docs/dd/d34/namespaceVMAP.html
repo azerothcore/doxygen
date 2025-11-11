@@ -122,9 +122,9 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6e/structVMAP_1_1AreaInfo.html">AreaInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d5a/classVMAP_1_1AreaInfoCallback.html">AreaInfoCallback</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/structVMAP_1_1GModelRayCallback.html">GModelRayCallback</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db0/structVMAP_1_1GroupLocationInfo.html">GroupLocationInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da8/classVMAP_1_1GroupModel.html">GroupModel</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -246,6 +246,8 @@ Functions</h2></td></tr>
 <tr class="separator:a3c25bdb4d30c345cd6760935e2c456f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4fa75e5ca5211394c63abc7ff28eb741" id="r_a4fa75e5ca5211394c63abc7ff28eb741"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/namespaceVMAP.html#a4fa75e5ca5211394c63abc7ff28eb741">IntersectTriangle</a> (const <a class="el" href="../../d4/dc7/classVMAP_1_1MeshTriangle.html">MeshTriangle</a> &amp;tri, std::vector&lt; Vector3 &gt;::const_iterator points, const G3D::Ray &amp;ray, float &amp;distance)</td></tr>
 <tr class="separator:a4fa75e5ca5211394c63abc7ff28eb741"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a830eb7f04e05a094cc7cefbc43fa6f91" id="r_a830eb7f04e05a094cc7cefbc43fa6f91"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d34/namespaceVMAP.html#a830eb7f04e05a094cc7cefbc43fa6f91">IsInsideOrAboveBound</a> (G3D::AABox const &amp;bounds, const G3D::Point3 &amp;point)</td></tr>
+<tr class="separator:a830eb7f04e05a094cc7cefbc43fa6f91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -573,13 +575,58 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   83</span>        <span class="comment">// This hit is after the previous hit, so ignore it</span></div>
 <div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   85</span>    }</div>
-<div class="ttc" id="aclassVMAP_1_1MeshTriangle_html_a560bb163f63ff7202aade4d115f31664"><div class="ttname"><a href="../../d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664">VMAP::MeshTriangle::idx1</a></div><div class="ttdeci">uint32 idx1</div><div class="ttdef"><b>Definition</b> WorldModel.h:41</div></div>
-<div class="ttc" id="aclassVMAP_1_1MeshTriangle_html_ac939c5e66526c67c067288b9d6484cac"><div class="ttname"><a href="../../d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac">VMAP::MeshTriangle::idx2</a></div><div class="ttdeci">uint32 idx2</div><div class="ttdef"><b>Definition</b> WorldModel.h:42</div></div>
-<div class="ttc" id="aclassVMAP_1_1MeshTriangle_html_aed1048a2b6745215a7b8f70dec378371"><div class="ttname"><a href="../../d4/dc7/classVMAP_1_1MeshTriangle.html#aed1048a2b6745215a7b8f70dec378371">VMAP::MeshTriangle::idx0</a></div><div class="ttdeci">uint32 idx0</div><div class="ttdef"><b>Definition</b> WorldModel.h:40</div></div>
+<div class="ttc" id="aclassVMAP_1_1MeshTriangle_html_a560bb163f63ff7202aade4d115f31664"><div class="ttname"><a href="../../d4/dc7/classVMAP_1_1MeshTriangle.html#a560bb163f63ff7202aade4d115f31664">VMAP::MeshTriangle::idx1</a></div><div class="ttdeci">uint32 idx1</div><div class="ttdef"><b>Definition</b> WorldModel.h:42</div></div>
+<div class="ttc" id="aclassVMAP_1_1MeshTriangle_html_ac939c5e66526c67c067288b9d6484cac"><div class="ttname"><a href="../../d4/dc7/classVMAP_1_1MeshTriangle.html#ac939c5e66526c67c067288b9d6484cac">VMAP::MeshTriangle::idx2</a></div><div class="ttdeci">uint32 idx2</div><div class="ttdef"><b>Definition</b> WorldModel.h:43</div></div>
+<div class="ttc" id="aclassVMAP_1_1MeshTriangle_html_aed1048a2b6745215a7b8f70dec378371"><div class="ttname"><a href="../../d4/dc7/classVMAP_1_1MeshTriangle.html#aed1048a2b6745215a7b8f70dec378371">VMAP::MeshTriangle::idx0</a></div><div class="ttdeci">uint32 idx0</div><div class="ttdef"><b>Definition</b> WorldModel.h:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">VMAP::MeshTriangle::idx0</a>, <a class="el" href="../../#l00041">VMAP::MeshTriangle::idx1</a>, and <a class="el" href="../../#l00042">VMAP::MeshTriangle::idx2</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">VMAP::MeshTriangle::idx0</a>, <a class="el" href="../../#l00042">VMAP::MeshTriangle::idx1</a>, and <a class="el" href="../../#l00043">VMAP::MeshTriangle::idx2</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00431">VMAP::GModelRayCallback::operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a830eb7f04e05a094cc7cefbc43fa6f91" name="a830eb7f04e05a094cc7cefbc43fa6f91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a830eb7f04e05a094cc7cefbc43fa6f91">&#9670;&#160;</a></span>IsInsideOrAboveBound()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool VMAP::IsInsideOrAboveBound </td>
+          <td>(</td>
+          <td class="paramtype">G3D::AABox const &amp;&#160;</td>
+          <td class="paramname"><em>bounds</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const G3D::Point3 &amp;&#160;</td>
+          <td class="paramname"><em>point</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  455</span>    {</div>
+<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">return</span> point.x &gt;= bounds.low().x</div>
+<div class="line"><span class="lineno">  457</span>            &amp;&amp; point.y &gt;= bounds.low().y</div>
+<div class="line"><span class="lineno">  458</span>            &amp;&amp; point.z &gt;= bounds.low().z</div>
+<div class="line"><span class="lineno">  459</span>            &amp;&amp; point.x &lt;= bounds.high().x</div>
+<div class="line"><span class="lineno">  460</span>            &amp;&amp; point.y &lt;= bounds.high().y;</div>
+<div class="line"><span class="lineno">  461</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00463">VMAP::GroupModel::IsInsideObject()</a>.</p>
 
 </div>
 </div>
@@ -666,7 +713,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> memcmp(dest, compare, len) == 0;</div>
 <div class="line"><span class="lineno">   44</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00247">VMAP::StaticMapTree::CanLoadMap()</a>, <a class="el" href="../../#l00294">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00363">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00656">VMAP::WorldModel::readFile()</a>, <a class="el" href="../../#l00380">VMAP::GroupModel::readFromFile()</a>, and <a class="el" href="../../#l00462">VMAP::StaticMapTree::UnloadMapTile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00215">VMAP::StaticMapTree::CanLoadMap()</a>, <a class="el" href="../../#l00262">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00331">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00663">VMAP::WorldModel::readFile()</a>, <a class="el" href="../../#l00380">VMAP::GroupModel::readFromFile()</a>, and <a class="el" href="../../#l00430">VMAP::StaticMapTree::UnloadMapTile()</a>.</p>
 
 </div>
 </div>
@@ -731,7 +778,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00247">VMAP::StaticMapTree::CanLoadMap()</a>, <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>, <a class="el" href="../../#l00374">VMAP::TileAssembler::exportGameobjectModels()</a>, <a class="el" href="../../#l00294">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00045">LoadGameObjectModelList()</a>, <a class="el" href="../../#l00363">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00656">VMAP::WorldModel::readFile()</a>, <a class="el" href="../../#l00462">VMAP::StaticMapTree::UnloadMapTile()</a>, and <a class="el" href="../../#l00619">VMAP::WorldModel::writeFile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00215">VMAP::StaticMapTree::CanLoadMap()</a>, <a class="el" href="../../#l00067">VMAP::TileAssembler::convertWorld2()</a>, <a class="el" href="../../#l00374">VMAP::TileAssembler::exportGameobjectModels()</a>, <a class="el" href="../../#l00262">VMAP::StaticMapTree::InitMap()</a>, <a class="el" href="../../#l00045">LoadGameObjectModelList()</a>, <a class="el" href="../../#l00331">VMAP::StaticMapTree::LoadMapTile()</a>, <a class="el" href="../../#l00663">VMAP::WorldModel::readFile()</a>, <a class="el" href="../../#l00430">VMAP::StaticMapTree::UnloadMapTile()</a>, and <a class="el" href="../../#l00626">VMAP::WorldModel::writeFile()</a>.</p>
 
 </div>
 </div>
@@ -741,7 +788,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d34/namespaceVMAP.html">VMAP</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 06:28:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Nov 11 2025 06:27:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
