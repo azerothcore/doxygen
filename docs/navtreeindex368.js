@@ -1,5 +1,7 @@
 var NAVTREEINDEX368 =
 {
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a2d78117a6c2a29f52f1905595425964a":[6,0,2066,0,2],
+"de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a68f48d92cc5559025e635d599c2882e3":[6,0,2066,0,4],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a6a86b56508a86bf32ab5fb2bd46248c9":[6,0,2066,0,0],
 "de/d88/structnpc__q24545__vegard_1_1npc__q24545__vegardAI.html#a79cc34760b58ad4b29c6a0a496971f0a":[6,0,2066,0,3],
 "de/d89/boss__grilek_8cpp.html":[7,0,0,0,1,3,2,16,2],
@@ -25,8 +27,8 @@ var NAVTREEINDEX368 =
 "de/d8c/classspell__sha__sentry__totem.html#ad0bad4a07d5a65a7834e7ab46e082b20":[6,0,3809,0],
 "de/d8c/classspell__sha__sentry__totem.html#af338af238305f1872275e1e5e9fdee16":[6,0,3809,1],
 "de/d8c/classspell__sha__sentry__totem.html#af58098eb7a904e20846cf728f5adc18b":[6,0,3809,3],
-"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[5,0,1,8,0,26],
+"de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html":[6,0,0,5,0,26],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[5,0,1,8,0,26,0],
 "de/d8d/structAcore_1_1Impl_1_1ChatCommands_1_1HandlerToTuple_3_01bool_07ChatHandler_01_5_00_01Ts_8_8_8_08_4.html#a9ca8227197c98defada545334546f092":[6,0,0,5,0,26,0],
 "de/d8d/structArenaScore.html":[6,0,181],
@@ -40,14 +42,14 @@ var NAVTREEINDEX368 =
 "de/d8e/classspell__gen__random__target32.html#a361aed7e74a9f01d665018fd0c3addb1":[6,0,3012,1],
 "de/d8e/classspell__gen__random__target32.html#a99d08536d2555390a7399a6d2fc199e6":[6,0,3012,0],
 "de/d8e/classspell__gen__random__target32.html#aa96b1ff5297d670481d1d8afa9356ef9":[6,0,3012,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[5,0,1,8,8],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html":[6,0,0,5,8],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[5,0,1,8,8,0],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,1,8,8,2],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a03a4f6e31f0cb838b857997a0272f90b":[6,0,0,5,8,0],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[6,0,0,5,8,2],
-"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a59487cdc54d416f8b2a88eb54ae21c8d":[5,0,1,8,8,2],
 "de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[5,0,1,8,8,1],
+"de/d8e/structAcore_1_1Impl_1_1GenericHashImpl.html#a7e607b03e0758d10156e201e8d601db4":[6,0,0,5,8,1],
 "de/d8f/boss__krickandick_8cpp.html":[7,0,0,0,1,3,5,4,2,1],
 "de/d8f/boss__krickandick_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,4,2,1,9],
 "de/d8f/boss__krickandick_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,2,1,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX368 =
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca6705e7dadee2dd3403374f42166db929":[7,0,0,0,1,3,7,1,4,8,6],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b39310aedae8c463ba027790ef07c39":[7,0,0,0,1,3,7,1,4,8,2],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298ca97f757fd8852d84166e0dacb74d48895":[7,0,0,0,1,3,7,1,4,8,1],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caa099f857faa7643d95b6fd34d14c996e":[7,0,0,0,1,3,7,1,4,8,10],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caaf0272d8528a147b8084c7a7d6d69b2a":[7,0,0,0,1,3,7,1,4,8,14],
-"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cac0f9e5964a0246a1e0401ada311ac54a":[7,0,0,0,1,3,7,1,4,8,13]
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caa099f857faa7643d95b6fd34d14c996e":[7,0,0,0,1,3,7,1,4,8,10]
 };

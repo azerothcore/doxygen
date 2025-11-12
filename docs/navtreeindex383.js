@@ -1,5 +1,7 @@
 var NAVTREEINDEX383 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881afdcb2e619ac46b041d5ae86058896a8e":[7,0,0,0,1,2,16,5,0,4,6,56],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881afee94ef13dedb3621bdaa1be73477be0":[7,0,0,0,1,2,16,5,0,4,6,280],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aff3bb29af91fc9832671df84a3032aea":[7,0,0,0,1,2,16,5,0,4,6,197],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881affa05042cc4016a32cf1a66d4157d03d":[7,0,0,0,1,2,16,5,0,4,6,50],
 "df/d21/UpdateFields_8h.html#a2e55ed49514b6fd17b1ad512520530d6":[7,0,0,0,1,2,16,5,0,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX383 =
 "df/d2a/instance__pit__of__saron_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,4,2,3,2],
 "df/d2a/structnpc__molten__golem.html":[6,0,1973],
 "df/d2a/structnpc__molten__golem.html#a1936beed47707f2f0e560d7d3b3440ba":[6,0,1973,2],
-"df/d2a/structnpc__molten__golem.html#a24e23d0959bcda5be05786381a35ac77":[6,0,1973,3],
-"df/d2a/structnpc__molten__golem.html#a2a552e27aca0e188a4d5ae46f639cbef":[6,0,1973,5],
-"df/d2a/structnpc__molten__golem.html#a38350948396b7df97837780531f79515":[6,0,1973,0]
+"df/d2a/structnpc__molten__golem.html#a24e23d0959bcda5be05786381a35ac77":[6,0,1973,3]
 };

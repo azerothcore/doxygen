@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f":[7,0,0,0,1,2,41,11,39],
 "dc/db2/SpellScript_8h.html#ac30b78d7dfb666e2634098493fb1b117":[7,0,0,0,1,2,41,11,56],
 "dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993":[7,0,0,0,1,2,41,11,37],
 "dc/db2/SpellScript_8h.html#ace2ab8300271d6f69779aed40a237b8f":[7,0,0,0,1,2,41,11,45],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,16,7,10,10],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[7,0,0,0,1,3,2,16,7,10,4],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae23fc4981b044e0c1934de2157bd5ca1":[7,0,0,0,1,3,2,16,7,10,6],
-"dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[7,0,0,0,1,3,2,16,7,16],
-"dc/dbd/classinstance__scarlet__monastery.html":[6,0,1331]
+"dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[7,0,0,0,1,3,2,16,7,16]
 };

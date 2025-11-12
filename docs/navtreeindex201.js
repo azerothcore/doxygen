@@ -1,5 +1,6 @@
 var NAVTREEINDEX201 =
 {
+"d7/dab/structnpc__cw__area__trigger_1_1npc__cw__area__triggerAI.html":[6,0,1723,0],
 "d7/dab/structnpc__cw__area__trigger_1_1npc__cw__area__triggerAI.html#a1fb90760dac1ae429429d84ed033aa7a":[6,0,1723,0,1],
 "d7/dab/structnpc__cw__area__trigger_1_1npc__cw__area__triggerAI.html#aede21e01dfe762922562b6f5d57bc406":[6,0,1723,0,0],
 "d7/daf/classboss__noth.html":[6,0,642],
@@ -248,6 +249,5 @@ var NAVTREEINDEX201 =
 "d7/db0/classMap.html#ac508a81dedfae03cf7917d4cadb40e53":[6,0,1478,23],
 "d7/db0/classMap.html#ac5220af343d506037b56fbc5861ae027":[6,0,1478,108],
 "d7/db0/classMap.html#ac6cdaebabf597df48be6fe48d6172480":[6,0,1478,155],
-"d7/db0/classMap.html#ac6e125affc167d59afd4af38f4791b01":[6,0,1478,100],
-"d7/db0/classMap.html#ac6fa8894329c511b932385a069204b0f":[6,0,1478,103]
+"d7/db0/classMap.html#ac6e125affc167d59afd4af38f4791b01":[6,0,1478,100]
 };

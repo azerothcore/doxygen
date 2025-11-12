@@ -1,5 +1,6 @@
 var NAVTREEINDEX202 =
 {
+"d7/db0/classMap.html#ac6fa8894329c511b932385a069204b0f":[6,0,1478,103],
 "d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f":[6,0,1478,208],
 "d7/db0/classMap.html#acba733ebb1500dc5e86225730915e48f":[6,0,1478,66],
 "d7/db0/classMap.html#acc6e018eedcd4943734d153dc4a8cb89":[6,0,1478,164],
@@ -181,8 +182,8 @@ var NAVTREEINDEX202 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[5,0,1,74],
 "d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
+"d7/db4/structAcore_1_1has__type.html":[5,0,1,74],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3684],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3684,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3684,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX202 =
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca3271b3f6df981b30891090b832cb95c9":[7,0,0,0,1,3,7,2,0,1,5,28],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca3505a32df1312ad2c0005805660c0ac1":[7,0,0,0,1,3,7,2,0,1,5,24],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca435a662cb2c388062966d67b8a599a46":[7,0,0,0,1,3,7,2,0,1,5,4],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca499b175cfef4d5bc98fd26e42794cf01":[7,0,0,0,1,3,7,2,0,1,5,25],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dc2937fe5cc367818d2a75b1151a686":[7,0,0,0,1,3,7,2,0,1,5,12]
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca499b175cfef4d5bc98fd26e42794cf01":[7,0,0,0,1,3,7,2,0,1,5,25]
 };

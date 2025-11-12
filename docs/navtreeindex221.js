@@ -1,5 +1,6 @@
 var NAVTREEINDEX221 =
 {
+"d8/d94/classTradeData.html#af2d924a288687047f4d6a47f81025a00":[6,0,4187,18],
 "d8/d95/classspell__death__knight__initiate__visual.html":[6,0,2729],
 "d8/d95/classspell__death__knight__initiate__visual.html#a430d6f41e8533cbade64ea46aaa9ec2e":[6,0,2729,0],
 "d8/d95/classspell__death__knight__initiate__visual.html#ab6971aa466055a1280cd258e26645157":[6,0,2729,2],
@@ -89,14 +90,14 @@ var NAVTREEINDEX221 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#aa719d87c65294fc483b424b125619a10":[6,0,1659,0,0],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ad86778d5a0e883a839b4a43425a57d7f":[6,0,1659,0,3],
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1659,0,7],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,31,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,31,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,31,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,31,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,31,3,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,31,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2498],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2498,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2498,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX221 =
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html":[6,0,1758],
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#a39a222e1eb0a3378c8fcaf1da5629547":[6,0,1758,2],
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#a9d41e8abe764fd0f8cedd888418aafb2":[6,0,1758,0],
-"d8/da4/structnpc__eagle__trash__aggro__trigger.html#aa8892e7f2bec9f26320cd9749e648ebd":[6,0,1758,1],
-"d8/da6/classnpc__freya__ward.html":[6,0,1793]
+"d8/da4/structnpc__eagle__trash__aggro__trigger.html#aa8892e7f2bec9f26320cd9749e648ebd":[6,0,1758,1]
 };

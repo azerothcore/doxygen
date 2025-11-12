@@ -1,5 +1,6 @@
 var NAVTREEINDEX213 =
 {
+"d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a05f175bf4725d1ec71bb899fe1317c1b":[7,0,0,0,1,3,5,10,1,6,2,2],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a11a8be67f165278f64ab033b6eee63c2":[7,0,0,0,1,3,5,10,1,6,2,16],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a228460ddd0b2b54061ff9323c7658745":[7,0,0,0,1,3,5,10,1,6,2,9],
 "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a3d709a559414e22ab4a0465bada54b61":[7,0,0,0,1,3,5,10,1,6,2,17],
@@ -95,8 +96,8 @@ var NAVTREEINDEX213 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1d434373ccc7dd54c5de7bc99487170a":[6,0,602,0,1],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82":[6,0,602,0,2],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[6,0,602,0,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,31,7,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[6,0,11,7,9],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,31,7,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,31,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[6,0,11,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,31,7,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d4c/structnpc__akama__illidan.html#a3531d35b6d996bde197447e69e50a6fb":[6,0,1578,12],
 "d8/d4c/structnpc__akama__illidan.html#a4b95cb3a3502805a915f7c6751ecf70c":[6,0,1578,1],
 "d8/d4c/structnpc__akama__illidan.html#a54b185a813a4271eef06173b8109d6cf":[6,0,1578,5],
-"d8/d4c/structnpc__akama__illidan.html#a6ab4ddfeaa2448e79577936d87d66398":[6,0,1578,10],
-"d8/d4c/structnpc__akama__illidan.html#a752a22acf6eab1d1045cac099b22fe57":[6,0,1578,13]
+"d8/d4c/structnpc__akama__illidan.html#a6ab4ddfeaa2448e79577936d87d66398":[6,0,1578,10]
 };

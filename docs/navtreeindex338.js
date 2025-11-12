@@ -1,5 +1,7 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a41a08d44cf7282fc1fd4e950013ac475":[6,0,670,0,2],
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a4dd28e487d5eadfdb4dd008b9afff93f":[6,0,670,0,5],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a81eab09e24264d4b0f75c638522f0d53":[6,0,670,0,3],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a94013866e5275d7956c09e82459c29df":[6,0,670,0,9],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a9690f4d8b01077270003d8a3605620bf":[6,0,670,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd6/classcharacter__commandscript.html#a3c388123887507991bb8e1a6b6f171a9":[6,0,851,4],
 "dd/dd6/classcharacter__commandscript.html#a44c81d4a9dc38f59778d5e015f70f6c8":[6,0,851,21],
 "dd/dd6/classcharacter__commandscript.html#a4df25fc0e8ec6288340a1531a9161fb9":[6,0,851,20],
-"dd/dd6/classcharacter__commandscript.html#a54c43684b16e3a8e857817a566bf754a":[6,0,851,3],
-"dd/dd6/classcharacter__commandscript.html#a5b3dbfc264d1f5b964c466ce8deb2092":[6,0,851,17],
-"dd/dd6/classcharacter__commandscript.html#a6052edd70be114fc29aa48e56e97ac61":[6,0,851,25]
+"dd/dd6/classcharacter__commandscript.html#a54c43684b16e3a8e857817a566bf754a":[6,0,851,3]
 };

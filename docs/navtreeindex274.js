@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d0e/classspell__zuljin__zap.html#a38192ff7468a47ead1522b50f2dfcdfd":[6,0,4080,3],
 "db/d0e/classspell__zuljin__zap.html#a832aee6557e27bfa418957297a05bea3":[6,0,4080,1],
 "db/d0e/classspell__zuljin__zap.html#ac45614416a710794b3e3a5cee239e28a":[6,0,4080,0],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html":[6,0,685,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d17/classCharacterCreateInfo.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6":[4,1,14,7],
 "db/d17/classCharacterCreateInfo.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e":[4,1,14,12],
 "db/d17/classCharacterCreateInfo.html#a15baddc70b46d48bd9f128e73aaac606":[4,1,14,10],
-"db/d17/classCharacterCreateInfo.html#a41e354593f59bc8546688a37c2a5e504":[4,1,14,3],
-"db/d17/classCharacterCreateInfo.html#a4f81603fda1ae148e6d6174ea8d861fe":[4,1,14,9]
+"db/d17/classCharacterCreateInfo.html#a41e354593f59bc8546688a37c2a5e504":[4,1,14,3]
 };

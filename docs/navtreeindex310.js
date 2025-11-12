@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/d76/classWorldBossAI.html#aa783665ce6e43e76a18515f511f82efb":[6,0,4306,8],
 "dc/d76/classWorldBossAI.html#aad7ffc5fb8215f6bf36fe72aef40c9e1":[6,0,4306,0],
 "dc/d76/classWorldBossAI.html#ab84cb945e773c41d22b682996c744768":[6,0,4306,7],
 "dc/d76/classWorldBossAI.html#abba6c74269442b0bbfe94ab583904485":[6,0,4306,12],
@@ -203,14 +204,14 @@ var NAVTREEINDEX310 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3293],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3293,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3293,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d86/structPacketHeader_1_1OptionalData.html#a6e6fb49cad093530f6ba650ca2ff57af":[6,0,2372,0,1],
 "dc/d86/structPacketHeader_1_1OptionalData.html#aa10551a3c7371bafa9b27919e37b16ff":[6,0,2372,0,0],
 "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html":[6,0,411,0],
-"dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a03a7fc87c67b04eb0b1289276023c1b4":[6,0,411,0,9],
-"dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a0697edb4aa9fb60a0db2ccf54c32dc19":[6,0,411,0,2]
+"dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html#a03a7fc87c67b04eb0b1289276023c1b4":[6,0,411,0,9]
 };

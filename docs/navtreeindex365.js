@@ -1,13 +1,15 @@
 var NAVTREEINDEX365 =
 {
-"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
-"de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
-"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,18,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
 "de/d6d/WorldSessionMgr_8h.html":[7,0,0,0,1,2,39,8],
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[7,0,0,0,1,2,39,8,1],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX365 =
 "de/d72/structnpc__minion__spawner.html#a0b55c1648c37399ad99d340bdf20cb49":[6,0,1971,3],
 "de/d72/structnpc__minion__spawner.html#a1742c98edca62e3d80a32f33d6ed2f97":[6,0,1971,2],
 "de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[6,0,1971,4],
-"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[6,0,1971,0],
-"de/d74/Group_8cpp.html":[7,0,0,0,1,2,20,0],
-"de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[7,0,0,0,1,2,20,0,0]
+"de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[6,0,1971,0]
 };

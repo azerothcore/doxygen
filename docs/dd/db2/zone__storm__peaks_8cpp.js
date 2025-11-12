@@ -80,6 +80,7 @@ var zone__storm__peaks_8cpp =
     ] ],
     [ "qSniffingOutThePerpetrator", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530", [
       [ "NPC_FROSTHOUND", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ae711329488894689e0f1358640cd9399", null ],
+      [ "NPC_FROSTBITE", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a3eba2f8ac1ecaf028881573acf87b1e3", null ],
       [ "SPELL_SUMMON_PURSUERS_PERIODIC", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ae8457fa3c07267f329e0540b0a3b1549", null ],
       [ "SPELL_SNIFFING_CREDIT", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a5436d9053113a8e073fc91da29feae33", null ],
       [ "TALK_EMOTE_FROSTHOUND_SNIFF", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a163c9ce3b14c4dc839912b2acfed43dc", null ],

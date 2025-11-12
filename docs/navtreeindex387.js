@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"df/d57/classnpc__lake__frog.html":[6,0,1923],
+"df/d57/classnpc__lake__frog.html#a9730da684a81fced304f10b2806c10e5":[6,0,1923,2],
 "df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1923,1],
 "df/d57/classnpc__prospector__remtravel.html":[6,0,2063],
 "df/d57/classnpc__prospector__remtravel.html#a5e11149b6359927a71c98242d979e65b":[6,0,2063,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[6,0,506,0,8],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[6,0,506,0,2],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[6,0,506,0,16],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,506,0,3],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a756a5816615e02be0fc8308cc5088e49":[6,0,506,0,12],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a9bbe9412721e4173ef37a1dbd494c262":[6,0,506,0,6]
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,506,0,3]
 };

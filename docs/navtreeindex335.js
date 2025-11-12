@@ -1,5 +1,7 @@
 var NAVTREEINDEX335 =
 {
+"dd/db3/classReputationMgr.html#af9da8affdfa257988cb8b4783b1b9db9":[6,0,2495,39],
+"dd/db4/classnpc__future__you.html":[6,0,1803],
 "dd/db4/classnpc__future__you.html#a2e1529fef3ce307d98057dc93ce5e5fe":[6,0,1803,2],
 "dd/db4/classnpc__future__you.html#a36e363156bcb32fee468989062817bd5":[6,0,1803,1],
 "dd/db6/classgo__loosely__turned__soil.html":[6,0,1157],
@@ -74,8 +76,8 @@ var NAVTREEINDEX335 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,628,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,628,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,628,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dc8/GmVisibleCommandTest_8cpp.html":[7,0,0,0,2,2,0,1,0],
 "dd/dc8/GmVisibleCommandTest_8cpp.html#a3c2cf023118b4939342706355b5e3e23":[7,0,0,0,2,2,0,1,0,0],
 "dd/dc8/classspell__warl__demonic__knowledge.html":[6,0,3986],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a09ea5265d7105a4bd487d383948901a0":[6,0,3986,4],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a42770d7f7e5bd41cd3f0a283c544c642":[6,0,3986,0],
-"dd/dc8/classspell__warl__demonic__knowledge.html#a4c75f793388b533d00a52ad18f18bc6e":[6,0,3986,2]
+"dd/dc8/classspell__warl__demonic__knowledge.html#a09ea5265d7105a4bd487d383948901a0":[6,0,3986,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX209 =
 {
+"d8/d02/Realm_8h.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb":[7,0,0,0,1,4,3,1,3,0],
 "d8/d02/classspell__dk__vampiric__blood.html":[6,0,2792],
 "d8/d02/classspell__dk__vampiric__blood.html#a1faa084b17776e826242293e2aaef2f4":[6,0,2792,1],
 "d8/d02/classspell__dk__vampiric__blood.html#a94b21c91954385201d4bad6aff2205fc":[6,0,2792,2],
@@ -207,8 +208,8 @@ var NAVTREEINDEX209 =
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[6,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,28,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[6,0,9,0,1,3],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,28,0,1,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[5,0,28,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[6,0,9,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1929,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d11/boss__brutallus_8cpp.html#a5bd342133be8c2137b831460acc9298cadac4a37e5ab640a43faff25236c9437f":[7,0,0,0,1,3,2,12,0,9,0],
 "d8/d11/boss__brutallus_8cpp.html#a8b42e9da259872a9fd536de7af047e7d":[7,0,0,0,1,3,2,12,0,10],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77c":[7,0,0,0,1,3,2,12,0,6],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca07d2d64afe1d104a6294f6c161b4ad56":[7,0,0,0,1,3,2,12,0,6,6],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f":[7,0,0,0,1,3,2,12,0,6,1]
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca07d2d64afe1d104a6294f6c161b4ad56":[7,0,0,0,1,3,2,12,0,6,6]
 };

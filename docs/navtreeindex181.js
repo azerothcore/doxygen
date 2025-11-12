@@ -1,5 +1,6 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8df3cb823481152d8c01063608b461b6":[7,0,0,0,1,3,5,10,1,1,6,12],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9e18023b69075952ea847304fa283b53":[7,0,0,0,1,3,5,10,1,1,6,10],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abe9c1500f91a0f01f081d3850d1ee69b":[7,0,0,0,1,3,5,10,1,1,6,16],
 "d6/dd9/boss__skadi_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad28da1f63ce17b73f4f1fe56681c6c1f":[7,0,0,0,1,3,5,10,1,1,6,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/de9/classspell__kologarn__focused__eyebeam.html":[6,0,3377],
 "d6/de9/classspell__kologarn__focused__eyebeam.html#a0428375ddb89907e7f1728757d55d052":[6,0,3377,3],
 "d6/de9/classspell__kologarn__focused__eyebeam.html#a4d1e588557fa3fa432d4015fda930877":[6,0,3377,2],
-"d6/de9/classspell__kologarn__focused__eyebeam.html#a5467818535c6c7239e185d7c6c3bbd27":[6,0,3377,1],
-"d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c":[6,0,3377,0]
+"d6/de9/classspell__kologarn__focused__eyebeam.html#a5467818535c6c7239e185d7c6c3bbd27":[6,0,3377,1]
 };

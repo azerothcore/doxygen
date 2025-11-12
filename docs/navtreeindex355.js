@@ -1,5 +1,7 @@
 var NAVTREEINDEX355 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a499c91e15df578da469443aab7a4fa7a":[7,0,0,0,1,4,7,108,53],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a4a784291e0b65cdb19d096606a6ffae9":[7,0,0,0,1,4,7,108,76],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a4afc428876fbd04098dc4361d778db79":[7,0,0,0,1,4,7,108,107],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a4bdf1d25abaa386be99c0fc9d6b4e5c0":[7,0,0,0,1,4,7,108,73],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a505fab60b0cf0d90e2d4d2872391d041":[7,0,0,0,1,4,7,108,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX355 =
 "de/d11/structboss__novos_1_1boss__novosAI.html#aeb5b0d02c11bd3e4299e05c498c8cfd8":[6,0,643,0,15],
 "de/d11/structboss__novos_1_1boss__novosAI.html#afc81805776138a9075aac36cf268c6eb":[6,0,643,0,12],
 "de/d12/VMapTools_8h.html":[7,0,0,0,0,1,10],
-"de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[7,0,0,0,0,1,10,2],
-"de/d12/classAllCreatureScript.html":[6,0,148],
-"de/d12/classAllCreatureScript.html#a136f18625787127115566bb4625fc490":[6,0,148,8]
+"de/d12/VMapTools_8h.html#aa54c7fcd0c551f1db5fc34a2f6b11e74":[7,0,0,0,0,1,10,2]
 };

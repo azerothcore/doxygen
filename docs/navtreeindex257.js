@@ -1,5 +1,6 @@
 var NAVTREEINDEX257 =
 {
+"da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a26e8314736a6388986b8a3ad535bc6":[7,0,0,0,1,3,5,0,0,3,4,13],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298ca3bafb648fec13c59a61053cb15b776c9":[7,0,0,0,1,3,5,0,0,3,4,10],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298ca3e4964d5b736b33559fca0df5d1e6e63":[7,0,0,0,1,3,5,0,0,3,4,5],
 "da/d66/boss__herald__volazj_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e12855ea23d7553820867c0e09cddf1":[7,0,0,0,1,3,5,0,0,3,4,12],
@@ -150,14 +151,14 @@ var NAVTREEINDEX257 =
 "da/d71/classFleeingMovementGenerator.html#adeb978816b67ec9542ccd131da1403be":[6,0,1053,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[5,0,1,7,4],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html":[6,0,0,4,4],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[6,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[5,0,1,7,4,7],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a065d1a0942abbe5739f44126d5c3ce00":[6,0,0,4,4,7],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[5,0,1,7,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2171d081c4eb0a23d00e637dfa64bcfc":[6,0,0,4,4,6],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[5,0,1,7,4,8],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a2b914c9bdc41771b8cb058468bfa23db":[6,0,0,4,4,8],
-"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,1,7,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[6,0,0,4,4,3],
+"da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a38c0121d4001ad938d9bc53ca08217db":[5,0,1,7,4,3],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[6,0,0,4,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a54c7a812f79593258002d367110b2403":[5,0,1,7,4,5],
 "da/d71/structAcore_1_1Hyperlinks_1_1HyperlinkInfo.html#a7d7d839de8eb48a25e2b687b69a092ea":[6,0,0,4,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX257 =
 "da/d76/karazhan_8h.html#a3c4e26f6688d5d0270824c3ebefee420a278e2481081ba70c07a44f9d5ba58c61":[7,0,0,0,1,3,2,4,15,6,3],
 "da/d76/karazhan_8h.html#a3c4e26f6688d5d0270824c3ebefee420a65c831c8d5f9899eec4936ab71a7ca44":[7,0,0,0,1,3,2,4,15,6,5],
 "da/d76/karazhan_8h.html#a3c4e26f6688d5d0270824c3ebefee420a93ebf6439143cd64d0e45b06092c804c":[7,0,0,0,1,3,2,4,15,6,1],
-"da/d76/karazhan_8h.html#a3c4e26f6688d5d0270824c3ebefee420ae97af8b1e53bdd9ca3d32efd904f0284":[7,0,0,0,1,3,2,4,15,6,4],
-"da/d76/karazhan_8h.html#a4c9709c694f9a7ef73e2f744352a172b":[7,0,0,0,1,3,2,4,15,1]
+"da/d76/karazhan_8h.html#a3c4e26f6688d5d0270824c3ebefee420ae97af8b1e53bdd9ca3d32efd904f0284":[7,0,0,0,1,3,2,4,15,6,4]
 };

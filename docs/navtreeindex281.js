@@ -1,5 +1,6 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75ae501f7f1ef052292ae656542f698ba62":[7,0,0,0,1,3,9,4,124,7],
 "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75af23823f48620da2089859eb7ac017a42":[7,0,0,0,1,3,9,4,124,8],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84c":[7,0,0,0,1,3,9,4,130],
 "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81":[7,0,0,0,1,3,9,4,130,2],
@@ -108,12 +109,12 @@ var NAVTREEINDEX281 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2518,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structLootItem.html":[6,0,1453],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1453,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1453,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX281 =
 "db/d79/UpdateTime_8h.html":[7,0,0,0,1,2,44,3],
 "db/d79/UpdateTime_8h.html#a911ff49ac052e337a0927c080aec20b2":[7,0,0,0,1,2,44,3,3],
 "db/d79/UpdateTime_8h.html#ac09527fd6979f77130f2ef6be46850eb":[7,0,0,0,1,2,44,3,2],
-"db/d79/classspell__gen__adaptive__warding.html":[6,0,2907],
-"db/d79/classspell__gen__adaptive__warding.html#a33f53dc5834a3be78e24a1a58bdfd15a":[6,0,2907,2]
+"db/d79/classspell__gen__adaptive__warding.html":[6,0,2907]
 };

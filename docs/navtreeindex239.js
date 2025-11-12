@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d82/classspell__dru__survival__instincts.html":[6,0,2844],
 "d9/d82/classspell__dru__survival__instincts.html#a605e7b8849186c3c2df731cac743a208":[6,0,2844,1],
 "d9/d82/classspell__dru__survival__instincts.html#a62533bff915db8323b53352f17c4825f":[6,0,2844,2],
 "d9/d82/classspell__dru__survival__instincts.html#aefa91f15300520de7cffad4f4ca82ccf":[6,0,2844,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d8b/classMapGridManager.html#aa2c2218a81a5d042925e5675948e242f":[6,0,1488,15],
 "d9/d8b/classMapGridManager.html#aab0a821d9672cd485c4966034c2243d5":[6,0,1488,12],
 "d9/d8b/classMapGridManager.html#ac5daa221eb530e0b34a1950431cb4496":[6,0,1488,1],
-"d9/d8b/classMapGridManager.html#acfac0df3926498e8a9aa581581f84e2c":[6,0,1488,18],
-"d9/d8b/classMapGridManager.html#ae2dd77cb2af985085103d49b4242f4a8":[6,0,1488,10]
+"d9/d8b/classMapGridManager.html#acfac0df3926498e8a9aa581581f84e2c":[6,0,1488,18]
 };

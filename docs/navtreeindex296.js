@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"db/de4/structnpc__precious_1_1npc__preciousAI.html#a934a5147c1cc9937189011fb061657da":[6,0,2055,0,1],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#aa15843c4029f2df2ee04d21b5157602a":[6,0,2055,0,2],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#aa1c39ce0110827d35ae2d5ea794e1744":[6,0,2055,0,5],
 "db/de4/structnpc__precious_1_1npc__preciousAI.html#ade66f3aa2ff9ac85c99a9d31591fcabf":[6,0,2055,0,0],
@@ -39,8 +40,8 @@ var NAVTREEINDEX296 =
 "db/de7/loadlib_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,1,5,0],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html":[5,0,1,8,11],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html":[6,0,0,5,11],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[5,0,1,8,11,3],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[6,0,0,5,11,3],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2d543ed2b5d1ab7f23ad82ee156e42ea":[5,0,1,8,11,3],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[6,0,0,5,11,7],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a2fb1ef015f7b9a790ba1af73dc80ba35":[5,0,1,8,11,7],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a599e2093215f70dc4f2f7db08965d816":[6,0,0,5,11,2],
@@ -53,8 +54,8 @@ var NAVTREEINDEX296 =
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[6,0,0,5,11,8],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[6,0,0,5,11,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,1,8,11,1],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,1,8,11,4],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[6,0,0,5,11,4],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,1,8,11,4],
 "db/de9/classboss__thorim__pillar.html":[6,0,741],
 "db/de9/classboss__thorim__pillar.html#a7a2cbafc1d359d7b33bb735342cdfe2d":[6,0,741,1],
 "db/de9/classboss__thorim__pillar.html#af95d5e819292af9b54a022674b74af70":[6,0,741,2],
@@ -221,12 +222,12 @@ var NAVTREEINDEX296 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1527,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1527,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1527,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,6,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5":[7,0,0,0,1,3,7,2,3,3,5,6],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2":[7,0,0,0,1,3,7,2,3,3,5,9],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed":[7,0,0,0,1,3,7,2,3,3,5,3],
-"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b":[7,0,0,0,1,3,7,2,3,3,5,5],
-"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d":[7,0,0,0,1,3,7,2,3,3,5,1]
+"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b":[7,0,0,0,1,3,7,2,3,3,5,5]
 };

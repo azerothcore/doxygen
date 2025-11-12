@@ -1,5 +1,6 @@
 var NAVTREEINDEX210 =
 {
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f":[7,0,0,0,1,3,2,12,0,6,1],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca182564b00847fc1a9b1bb7f1b1f74914":[7,0,0,0,1,3,2,12,0,6,22],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca19cd88abb3a3a66a70491977a62462bb":[7,0,0,0,1,3,2,12,0,6,17],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77ca1d91cb6545e73ac366f0af8a251f3319":[7,0,0,0,1,3,2,12,0,6,5],
@@ -100,10 +101,10 @@ var NAVTREEINDEX210 =
 "d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#aedf26a4b5baaf464d70316ce79ec32b3":[6,0,745,0,4],
 "d8/d14/classAllianceChannelMgr.html":[6,0,150],
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,150,0],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,21],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,31,21],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,11,21,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,11,21],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,31,21,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,11,21,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[7,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,4,3,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX210 =
 "d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a5a37bd0ac82d9ed49b7cf13b0921293d":[7,0,0,0,1,3,10,12,6,5],
 "d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a5fe44bebd8a62f2d15aff79bddeb5786":[7,0,0,0,1,3,10,12,6,4],
 "d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a782c849344053aef075d44e2a306fd80":[7,0,0,0,1,3,10,12,6,8],
-"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a7b49323d8ed43bd879d95e4798eadbd0":[7,0,0,0,1,3,10,12,6,7],
-"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a816e796693162a325889759fec978faf":[7,0,0,0,1,3,10,12,6,0]
+"d8/d19/npc__stave__of__ancients_8h.html#ac2bd4827fd0d6efa51d00cda84192699a7b49323d8ed43bd879d95e4798eadbd0":[7,0,0,0,1,3,10,12,6,7]
 };

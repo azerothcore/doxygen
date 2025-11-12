@@ -11,5 +11,6 @@ var structnpc__frosthound =
     [ "Reset", "d6/d79/structnpc__frosthound.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
     [ "UpdateAI", "d6/d79/structnpc__frosthound.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
     [ "WaypointReached", "d6/d79/structnpc__frosthound.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "_completionWaypoint", "d6/d79/structnpc__frosthound.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
     [ "_summons", "d6/d79/structnpc__frosthound.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

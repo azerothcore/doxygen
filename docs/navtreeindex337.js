@@ -1,5 +1,7 @@
 var NAVTREEINDEX337 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa946402b647964cad6bcecd7779d7855":[7,0,0,0,1,2,38,0,75,1,49],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aacabdb19eaff4de521693cc4d123dd56":[7,0,0,0,1,2,38,0,75,1,111],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad94f0716d8254dff5cf25c8365f7d0e":[7,0,0,0,1,2,38,0,75,1,94],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadec086d3fcbab101abaf7b06e0f5a32":[7,0,0,0,1,2,38,0,75,1,99],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[7,0,0,0,1,2,38,0,75,1,143],
@@ -247,7 +249,5 @@ var NAVTREEINDEX337 =
 "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2671,1],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html":[6,0,670,0],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9":[6,0,670,0,13],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a35fddf983ba4dfc16fd231e2cca43f60":[6,0,670,0,4],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a41a08d44cf7282fc1fd4e950013ac475":[6,0,670,0,2],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a4dd28e487d5eadfdb4dd008b9afff93f":[6,0,670,0,5]
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a35fddf983ba4dfc16fd231e2cca43f60":[6,0,670,0,4]
 };

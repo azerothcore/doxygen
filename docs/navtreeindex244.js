@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc9/classspell__halion__twilight__division.html#a96b430cb0546fb599da22cd675660187":[6,0,3083,0],
 "d9/dc9/classspell__halion__twilight__division.html#ad0330cb78a330f05c18f33375f231fbc":[6,0,3083,1],
 "d9/dc9/classspell__halion__twilight__division.html#affa7ccf869e98eacd3a153cc645d704e":[6,0,3083,3],
 "d9/dc9/structVehicleSeatAddon.html":[6,0,4250],
@@ -219,8 +220,8 @@ var NAVTREEINDEX244 =
 "d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,79],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,67,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,79,1],
-"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
+"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,67,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,79,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/de2/structCalcDamageInfo.html#a21bed657c7e3d2338f30fb5237884d5f":[6,0,833,10],
 "d9/de2/structCalcDamageInfo.html#a236b06649e715fab9dbddb074ef2f075":[6,0,833,12],
 "d9/de2/structCalcDamageInfo.html#a452ac9be1f6e9c10616a62a128573358":[6,0,833,4],
-"d9/de2/structCalcDamageInfo.html#a7298afcc76b856c5427f5e123030a797":[6,0,833,0],
-"d9/de2/structCalcDamageInfo.html#a73ef30ca87444da617b8c2e05b70e9fc":[6,0,833,15]
+"d9/de2/structCalcDamageInfo.html#a7298afcc76b856c5427f5e123030a797":[6,0,833,0]
 };

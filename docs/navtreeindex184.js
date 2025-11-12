@@ -1,10 +1,11 @@
 var NAVTREEINDEX184 =
 {
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,108,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[6,0,0,96,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html":[6,0,4068],
 "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a069cc54bf009830ad781c790b4fcedad":[6,0,4068,2],
 "d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#a45d300e8cb6fbc499345b3bb2fb0d34f":[6,0,4068,0],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ab1f662fa107d176386067ffc6467d90f":[6,0,4068,1],
-"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ac91532151b689bde35d7120b1e9aec5b":[6,0,4068,3]
+"d7/d1b/classspell__yogg__saron__insane__periodic__trigger.html#ab1f662fa107d176386067ffc6467d90f":[6,0,4068,1]
 };

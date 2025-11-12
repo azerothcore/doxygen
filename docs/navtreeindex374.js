@@ -1,5 +1,7 @@
 var NAVTREEINDEX374 =
 {
+"de/db3/structSpellShapeshiftFormEntry.html#a72853ed36016e05e4cd14a9d89e9d6a8":[6,0,4120,3],
+"de/db3/structSpellShapeshiftFormEntry.html#a86dfa61342583d920b7d8496bce4b49d":[6,0,4120,4],
 "de/db3/structSpellShapeshiftFormEntry.html#ab5242f7367e8799a556176178c72fc88":[6,0,4120,0],
 "de/db4/AdhocStatement_8h.html":[7,0,0,0,1,1,0,2],
 "de/db4/classPreparedStatementBase.html":[6,0,2441],
@@ -247,7 +249,5 @@ var NAVTREEINDEX374 =
 "de/dc3/classspell__systems__shutdown__aura.html#add485a2fd5fdd068d7258d3c9c0d9c2b":[6,0,3868,1],
 "de/dc3/classspell__systems__shutdown__aura.html#af1db6ca387cf0733ba4b9c324172d692":[6,0,3868,3],
 "de/dc3/structTrainerSpellData.html":[6,0,4189],
-"de/dc3/structTrainerSpellData.html#a0e157dbcebbbea5704270f182d313568":[6,0,4189,3],
-"de/dc3/structTrainerSpellData.html#a6ea889f294b37bfe1a7a40dffd1b2159":[6,0,4189,4],
-"de/dc3/structTrainerSpellData.html#a9bd25177856f54fa2eda882627b21644":[6,0,4189,1]
+"de/dc3/structTrainerSpellData.html#a0e157dbcebbbea5704270f182d313568":[6,0,4189,3]
 };

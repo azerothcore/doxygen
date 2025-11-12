@@ -1,5 +1,7 @@
 var NAVTREEINDEX402 =
 {
+"df/ddb/structviolet__hold__trashAI.html#ae98d0cd977d59cbfe567fa6e294cde7e":[6,0,4257,7],
+"df/ddc/classTaskScheduler.html":[6,0,4159],
 "df/ddc/classTaskScheduler.html#a0254703c6e20f5214682fbad8f96dcb2":[6,0,4159,22],
 "df/ddc/classTaskScheduler.html#a05c6f74e1be5aa699988908b3151b901":[6,0,4159,35],
 "df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4":[6,0,4159,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX402 =
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a68b4e823de82fdfd31ccf765192e8768":[6,0,2092,0,1],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7b412075e17a81bf50aba63f96c16e53":[6,0,2092,0,0],
 "df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#a7bb99a6ff894c085bf3fb2e2708f3914":[6,0,2092,0,3],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ab061ea54c2b36f6f1c2ec7841202e684":[6,0,2092,0,4],
-"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ae96994e7c02a1fb8df8ef9fe80d7bc41":[6,0,2092,0,2],
-"df/deb/structboss__grizzle_1_1boss__grizzleAI.html":[6,0,511,0]
+"df/dea/structnpc__rotting__frost__giant_1_1npc__rotting__frost__giantAI.html#ab061ea54c2b36f6f1c2ec7841202e684":[6,0,2092,0,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX240 =
 {
+"d9/d8b/classMapGridManager.html#ae2dd77cb2af985085103d49b4242f4a8":[6,0,1488,10],
 "d9/d8b/classMapGridManager.html#ae381b54e599dce0c02815faf82711200":[6,0,1488,13],
 "d9/d8b/classMapGridManager.html#af08729c03f8641a00ab1cc1b014214df":[6,0,1488,0],
 "d9/d8b/structboss__sothos.html":[6,0,711],
@@ -248,6 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eae6689904a252475374cedac39faf24c5":[7,0,0,0,1,3,2,15,8,3,11],
 "d9/d98/zulaman_8h.html#aa38a92afffebaf4b33726515956b256b":[7,0,0,0,1,3,2,15,8,8],
 "d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64":[7,0,0,0,1,3,2,15,8,1],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,15,8,5],
-"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744a153c48431c2bf66e37650df7a410ad55":[7,0,0,0,1,3,2,15,8,5,14]
+"d9/d98/zulaman_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,15,8,5]
 };

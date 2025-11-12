@@ -1,5 +1,6 @@
 var NAVTREEINDEX182 =
 {
+"d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c":[6,0,3377,0],
 "d6/de9/tools_2mmaps__generator_2Config_8cpp.html":[7,0,0,0,3,2,0],
 "d6/de9/tools_2mmaps__generator_2Config_8cpp.html#a45540263b1795bfc48c91a117c239a6c":[7,0,0,0,3,2,0,2],
 "d6/de9/tools_2mmaps__generator_2Config_8cpp.html#aa116779ddd87038d6077a805710a7e4d":[7,0,0,0,3,2,0,1],
@@ -35,12 +36,12 @@ var NAVTREEINDEX182 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,95,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,107,5],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,95,5],
 "d6/dee/boss__nethekurse_8cpp.html":[7,0,0,0,1,3,7,4,3,0],
@@ -148,8 +149,8 @@ var NAVTREEINDEX182 =
 "d6/dee/namespaceArenaSpectator.html#af537ad9da6345b285d2d726b640a0340":[5,0,6,7],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[6,0,0,1,8],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html":[5,0,1,2,8],
-"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,1,2,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[6,0,0,1,8,1],
+"d6/def/structAcore_1_1ChatCommands_1_1WTail.html#a19112294c2e36c8e36fb3f77f2ccabba":[5,0,1,2,8,1],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[5,0,1,2,8,0],
 "d6/def/structAcore_1_1ChatCommands_1_1WTail.html#ae75362e108b0a7323fe92cae75c4729c":[6,0,0,1,8,0],
 "d6/df0/classspell__summoning__rhyme__aura.html":[6,0,3859],
@@ -248,6 +249,5 @@ var NAVTREEINDEX182 =
 "d6/df5/classSummonList.html#a5cab72d534afea03b72f5105f1e99a23":[6,0,4145,2],
 "d6/df5/classSummonList.html#a66a5490fdea4fb7f0ff2db226a3fdbe6":[6,0,4145,18],
 "d6/df5/classSummonList.html#a71ddfec4997f36d6b8ec22902d4fe472":[6,0,4145,5],
-"d6/df5/classSummonList.html#a7614a21b1065731e3e8449880b2a7c5d":[6,0,4145,32],
-"d6/df5/classSummonList.html#a78727fdd4dd2f4824e3cd7b610922508":[6,0,4145,24]
+"d6/df5/classSummonList.html#a7614a21b1065731e3e8449880b2a7c5d":[6,0,4145,32]
 };

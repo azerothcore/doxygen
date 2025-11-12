@@ -1,5 +1,7 @@
 var NAVTREEINDEX404 =
 {
+"df/df5/structboss__nefarian.html#a6fdf265e453deb8f9a4214beacf3dbab":[6,0,637,3],
+"df/df5/structboss__nefarian.html#ac8ea4f24ed97cace4630d4720b1acf47":[6,0,637,0],
 "df/df5/structboss__nefarian.html#acffc9b31a0a50ee5701c272e32c912c6":[6,0,637,9],
 "df/df6/MMapFactory_8cpp.html":[7,0,0,0,0,1,0,2],
 "df/df6/MMapFactory_8cpp.html#a7ca17c8e81612c16a92e901cac65113e":[7,0,0,0,0,1,0,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX404 =
 "dir_ba629fe3cce3d6c1ca366c03f65ff143.html":[7,0,0,0,1,3,5,9,1],
 "dir_bd6eb97edc7b31fb689fc59ea27199a0.html":[7,0,0,0,1,2,16,5,0],
 "dir_be7ddcf5a4570b7daa864eaef60ffbc7.html":[7,0,0,0,1,2,17],
-"dir_bee7e6ba6147fac4fb8de890af21a98e.html":[7,0,0,0,2,0,0],
-"dir_bff918c95c7a3c76f476f3d8679d579a.html":[7,0,0,0,0,12],
-"dir_c0da28c740234fa28d1fcf99be699b09.html":[7,0,0,0,1,2,13]
+"dir_bee7e6ba6147fac4fb8de890af21a98e.html":[7,0,0,0,2,0,0]
 };

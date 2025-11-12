@@ -1,5 +1,6 @@
 var NAVTREEINDEX243 =
 {
+"d9/dbf/classnpc__engineering__tele__trinket.html":[6,0,1766],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a4d7125cf0333d4e5ebc299019c8feb1a":[6,0,1766,3],
 "d9/dbf/classnpc__engineering__tele__trinket.html#a8a35f1c09a9df609561e76f4ed578647":[6,0,1766,1],
 "d9/dbf/classnpc__engineering__tele__trinket.html#ab891a8378a7b1b63151d05801b8b2fd1":[6,0,1766,0],
@@ -31,12 +32,12 @@ var NAVTREEINDEX243 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1205,0,4],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1205,0,1],
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1205,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,135],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,123],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,135],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,135,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,123,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,135,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
 "d9/dc5/classConfigValueCache.html":[6,0,898],
 "d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[6,0,898,3],
 "d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[6,0,898,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX243 =
 "d9/dc9/classspell__batrider__bomb.html#abb26c89a617bc27f8c2a1cfbb0935234":[6,0,2638,2],
 "d9/dc9/classspell__batrider__bomb.html#ace68732d578fbaeb2b209bfded88853a":[6,0,2638,0],
 "d9/dc9/classspell__halion__twilight__division.html":[6,0,3083],
-"d9/dc9/classspell__halion__twilight__division.html#a70a36683a235dec6044a8a32f20c606c":[6,0,3083,2],
-"d9/dc9/classspell__halion__twilight__division.html#a96b430cb0546fb599da22cd675660187":[6,0,3083,0]
+"d9/dc9/classspell__halion__twilight__division.html#a70a36683a235dec6044a8a32f20c606c":[6,0,3083,2]
 };

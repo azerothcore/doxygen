@@ -1,5 +1,7 @@
 var NAVTREEINDEX384 =
 {
+"df/d2a/structnpc__molten__golem.html#a2a552e27aca0e188a4d5ae46f639cbef":[6,0,1973,5],
+"df/d2a/structnpc__molten__golem.html#a38350948396b7df97837780531f79515":[6,0,1973,0],
 "df/d2a/structnpc__molten__golem.html#aa3521246b0c2bed18b5466879ec1d107":[6,0,1973,1],
 "df/d2a/structnpc__molten__golem.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e":[6,0,1973,4],
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[6,0,1973,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX384 =
 "df/d3b/classnpc__bunthen__plainswind.html#ae2fe8bfb957dd8ea84d2585293c3b6eb":[6,0,1670,1],
 "df/d3c/classinstance__arcatraz.html":[6,0,1287],
 "df/d3c/classinstance__arcatraz.html#a6fc8860651573353b54fd26bddea32aa":[6,0,1287,1],
-"df/d3c/classinstance__arcatraz.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb":[6,0,1287,2],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,288,16],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[6,0,288,16,0]
+"df/d3c/classinstance__arcatraz.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb":[6,0,1287,2]
 };

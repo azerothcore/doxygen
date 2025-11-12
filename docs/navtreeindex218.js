@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#aadd1eb58d38d6b1df3c016e57e3c3ff3":[4,1,19,539],
 "d8/d74/classWorldSession.html#aae336e4793b0286ed539764c5b6f83e6":[4,1,19,373],
 "d8/d74/classWorldSession.html#aaec211170af12b890ad586005a16661d":[4,1,19,216],
 "d8/d74/classWorldSession.html#aaeca041a436f4516a75eeba5d3361c20":[4,1,19,256],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[6,0,86,1],
 "d8/d78/classDeathEvent.html":[6,0,967],
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,967,2],
-"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,967,0],
-"d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,967,1]
+"d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,967,0]
 };

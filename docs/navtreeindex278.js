@@ -1,5 +1,6 @@
 var NAVTREEINDEX278 =
 {
+"db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,8,4,11,4],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,8,4,11,2],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,4,8,4,11,3],
 "db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae6c3c868c2884cf43209f57f34b83a3f":[7,0,0,0,1,3,4,8,4,11,0],
@@ -106,8 +107,8 @@ var NAVTREEINDEX278 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX278 =
 "db/d5c/classWarden.html#a672b7fbce362f9a220547cfd435c32ac":[6,0,4259,19],
 "db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102":[6,0,4259,33],
 "db/d5c/classWarden.html#a7e47e29322d0e8a1f723da51830a8a6e":[6,0,4259,14],
-"db/d5c/classWarden.html#a7e8075b64a48dea5876b9199aeb75717":[6,0,4259,23],
-"db/d5c/classWarden.html#a8a627a1e0c10ec3ef5b566b9b21f8d69":[6,0,4259,9]
+"db/d5c/classWarden.html#a7e8075b64a48dea5876b9199aeb75717":[6,0,4259,23]
 };

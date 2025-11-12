@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d":[7,0,0,0,1,3,7,2,3,3,5,1],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0":[7,0,0,0,1,3,7,2,3,3,5,2],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2":[7,0,0,0,1,3,7,2,3,3,5,0],
 "db/df0/boss__the__black__stalker_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1":[7,0,0,0,1,3,7,2,3,3,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eab8b7ae0375e7b901ee7e2723d65dd9b4":[7,0,0,0,1,3,9,8,98,7],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eabf693e2aea9864376828eb7923d088f9":[7,0,0,0,1,3,9,8,98,2],
 "db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934eac7029027a3cc15823069a37136dd14ab":[7,0,0,0,1,3,9,8,98,5],
-"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ead2a014b96063b2684ebcc2c6c02fa396":[7,0,0,0,1,3,9,8,98,10],
-"db/dfb/spell__quest_8cpp.html#a625d1892e04f12a55350f01fc8abb07d":[7,0,0,0,1,3,9,8,119]
+"db/dfb/spell__quest_8cpp.html#a5a32f06ab6dd2807c1af31a7f977934ead2a014b96063b2684ebcc2c6c02fa396":[7,0,0,0,1,3,9,8,98,10]
 };

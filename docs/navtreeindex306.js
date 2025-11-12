@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"dc/d3a/world__script__loader_8cpp.html#a8c20fa2f42eb423e39f2aaafe8fadafc":[7,0,0,0,1,3,10,22,16],
 "dc/d3a/world__script__loader_8cpp.html#a992f2da647f1f8748c7c9239b52079ad":[7,0,0,0,1,3,10,22,2],
 "dc/d3a/world__script__loader_8cpp.html#aabef9c5c7a434027ce4d3af6e2b77430":[7,0,0,0,1,3,10,22,4],
 "dc/d3a/world__script__loader_8cpp.html#aac822f73be6c9bf1dfaa4bbaec0e5aef":[7,0,0,0,1,3,10,22,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba60f2ad0b98c7b3e23b8d06e021bd1cb3":[7,0,0,0,1,2,26,2,1,12],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94":[7,0,0,0,1,2,26,2,1,31],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba64470192b7ae97d515941bdbea353510":[7,0,0,0,1,2,26,2,1,54],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba66eaa4e30eeef21c289cca0c44137edf":[7,0,0,0,1,2,26,2,1,45],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba672e9ed3f1b21d1ef6f3fb47d1d169b2":[7,0,0,0,1,2,26,2,1,3]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba66eaa4e30eeef21c289cca0c44137edf":[7,0,0,0,1,2,26,2,1,45]
 };
