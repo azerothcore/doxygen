@@ -4183,7 +4183,6 @@ var hierarchy =
         [ "npc_vh_sinclari", "d3/dd8/classnpc__vh__sinclari.html", null ],
         [ "npc_vh_teleportation_portal", "d0/df2/classnpc__vh__teleportation__portal.html", null ],
         [ "npc_vh_void_sentry", "d8/d28/classnpc__vh__void__sentry.html", null ],
-        [ "npc_vics_flying_machine", "d6/d0d/classnpc__vics__flying__machine.html", null ],
         [ "npc_volatile_ooze", "dd/d96/classnpc__volatile__ooze.html", null ],
         [ "npc_vortex_ride", "dd/d1a/classnpc__vortex__ride.html", null ],
         [ "npc_warden_mellichar", "d9/d7a/classnpc__warden__mellichar.html", null ],
@@ -5888,7 +5887,6 @@ var hierarchy =
           [ "npc_salvaged_siege_engine", "d1/d96/structnpc__salvaged__siege__engine.html", null ],
           [ "npc_toc5_player_vehicle::npc_toc5_player_vehicleAI", "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html", null ],
           [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html", null ],
-          [ "npc_vics_flying_machine::npc_vics_flying_machineAI", "d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html", null ],
           [ "npc_vortex_ride::npc_vortex_rideAI", "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html", null ],
           [ "npc_wg_siege_machine::npc_wg_siege_machineAI", "de/d27/structnpc__wg__siege__machine_1_1npc__wg__siege__machineAI.html", null ],
           [ "npc_wintergarde_gryphon", "d1/dab/classnpc__wintergarde__gryphon.html", null ]

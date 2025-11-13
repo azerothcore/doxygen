@@ -2776,7 +2776,6 @@ var annotated_dup =
     [ "npc_vh_sinclari", "d3/dd8/classnpc__vh__sinclari.html", "d3/dd8/classnpc__vh__sinclari" ],
     [ "npc_vh_teleportation_portal", "d0/df2/classnpc__vh__teleportation__portal.html", "d0/df2/classnpc__vh__teleportation__portal" ],
     [ "npc_vh_void_sentry", "d8/d28/classnpc__vh__void__sentry.html", "d8/d28/classnpc__vh__void__sentry" ],
-    [ "npc_vics_flying_machine", "d6/d0d/classnpc__vics__flying__machine.html", "d6/d0d/classnpc__vics__flying__machine" ],
     [ "npc_vilebranch_speaker", "d9/d65/structnpc__vilebranch__speaker.html", "d9/d65/structnpc__vilebranch__speaker" ],
     [ "npc_violet_hold_defense_system", "d3/d4b/structnpc__violet__hold__defense__system.html", "d3/d4b/structnpc__violet__hold__defense__system" ],
     [ "npc_voidtraveler", "d2/dbb/structnpc__voidtraveler.html", "d2/dbb/structnpc__voidtraveler" ],

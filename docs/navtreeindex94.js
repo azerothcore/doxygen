@@ -1,16 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"d3/d30/classnpc__finklestein.html#a94291aa98e35552bc7d722ddf2a83af2":[6,0,1780,5],
-"d3/d30/classnpc__finklestein.html#aa719b4bb95012c22ef8123e255e32edd":[6,0,1780,1],
-"d3/d30/classnpc__finklestein.html#ac82d5e5dc2e0539c90dfcfe17430548c":[6,0,1780,3],
-"d3/d31/classgo__scourge__enclosure.html":[6,0,1176],
-"d3/d31/classgo__scourge__enclosure.html#a3611232cb735f336087d4d3c90f66b8d":[6,0,1176,0],
-"d3/d31/classgo__scourge__enclosure.html#af505dd0a5d9224cd7586878d1fbd3351":[6,0,1176,1],
-"d3/d32/boss__yoggsaron_8cpp.html":[7,0,0,0,1,3,5,9,2,13],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08":[7,0,0,0,1,3,5,9,2,13,62],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167":[7,0,0,0,1,3,5,9,2,13,62,36],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a0a64fc8af5ae1439ac850607743088dc":[7,0,0,0,1,3,5,9,2,13,62,11],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a13d25034aed5ba0b42a22447fac4af0d":[7,0,0,0,1,3,5,9,2,13,62,2],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2":[7,0,0,0,1,3,5,9,2,13,62,15],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a17e9aa3f9895bb496c9b5929064c1e1b":[7,0,0,0,1,3,5,9,2,13,62,4],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1b79d584917496f2cdd711fc126a6c02":[7,0,0,0,1,3,5,9,2,13,62,39],
@@ -249,5 +238,16 @@ var NAVTREEINDEX94 =
 "d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html#a7527473944681143bab89fd12b475645":[6,0,2267,0,6],
 "d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html#add5121ed38a74be9ae168df5f893f89e":[6,0,2267,0,2],
 "d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html#ae1f683d5ef920213c9c86da35c626381":[6,0,2267,0,4],
-"d3/d35/classSendEncounterUnit.html":[6,0,2533]
+"d3/d35/classSendEncounterUnit.html":[6,0,2532],
+"d3/d35/classSendEncounterUnit.html#a5300ba7c1a8001bbf52c56fc2e5dc331":[6,0,2532,0],
+"d3/d35/classSendEncounterUnit.html#a6e1569fb7fa159fe702defbab1e123b6":[6,0,2532,2],
+"d3/d35/classSendEncounterUnit.html#ae21b67f8fe8a0677778436563872495f":[6,0,2532,1],
+"d3/d36/BattlegroundUtils_8cpp.html":[7,0,0,0,1,2,8,18],
+"d3/d36/BattlegroundUtils_8cpp.html#ab22bdb52b0357434faced9df19db9d81":[7,0,0,0,1,2,8,18,0],
+"d3/d36/classnpc__artorius.html":[6,0,1615],
+"d3/d36/classnpc__artorius.html#a2563f90fe1fd35c6bcf3f2296652981d":[6,0,1615,2],
+"d3/d36/classnpc__artorius.html#a2c91fcd777d0e0e7ab4927290ca04359":[6,0,1615,3],
+"d3/d36/classnpc__artorius.html#a832831aa19ef3694eee5bbae4d1d39e1":[6,0,1615,1],
+"d3/d36/classnpc__artorius.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57":[6,0,1615,4],
+"d3/d37/classspell__azjol__nerub__pound.html":[6,0,2633]
 };

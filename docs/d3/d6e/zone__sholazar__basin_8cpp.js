@@ -18,8 +18,6 @@ var zone__sholazar__basin_8cpp =
     [ "npc_adventurous_dwarf::npc_adventurous_dwarfAI", "dd/dfd/structnpc__adventurous__dwarf_1_1npc__adventurous__dwarfAI.html", "dd/dfd/structnpc__adventurous__dwarf_1_1npc__adventurous__dwarfAI" ],
     [ "spell_q12620_the_lifewarden_wrath", "d1/dc0/classspell__q12620__the__lifewarden__wrath.html", "d1/dc0/classspell__q12620__the__lifewarden__wrath" ],
     [ "spell_q12589_shoot_rjr", "d9/da6/classspell__q12589__shoot__rjr.html", "d9/da6/classspell__q12589__shoot__rjr" ],
-    [ "npc_vics_flying_machine", "d6/d0d/classnpc__vics__flying__machine.html", "d6/d0d/classnpc__vics__flying__machine" ],
-    [ "npc_vics_flying_machine::npc_vics_flying_machineAI", "d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI.html", "d4/d1a/structnpc__vics__flying__machine_1_1npc__vics__flying__machineAI" ],
     [ "spell_shango_tracks", "d0/d0a/classspell__shango__tracks.html", "d0/d0a/classspell__shango__tracks" ],
     [ "spell_q12611_deathbolt", "dc/d1d/classspell__q12611__deathbolt.html", "dc/d1d/classspell__q12611__deathbolt" ],
     [ "AdventurousDwarf", "d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04", [
@@ -111,21 +109,6 @@ var zone__sholazar__basin_8cpp =
       [ "TEXT_WOLVAR_ORPHAN_7", "d3/d6e/zone__sholazar__basin_8cpp.html#a5d38adf89ede466467c837cde95d40d6a5d82953d1db3c3806c58b1e04227d97f", null ],
       [ "TEXT_WOLVAR_ORPHAN_8", "d3/d6e/zone__sholazar__basin_8cpp.html#a5d38adf89ede466467c837cde95d40d6ad2ace8ca85e0f67f28187119ae9f888e", null ],
       [ "TEXT_WOLVAR_ORPHAN_9", "d3/d6e/zone__sholazar__basin_8cpp.html#a5d38adf89ede466467c837cde95d40d6add998eb8440a16af1aa95bd2b201bcdc", null ]
-    ] ],
-    [ "ReconnaissanceFlight", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52d", [
-      [ "NPC_PLANE", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52dafd45e27538c79b4202bc05e0bf310ae5", null ],
-      [ "NPC_PILOT", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da2efb273f75b3b4f39001faf5b53bbde0", null ],
-      [ "VIC_SAY_0", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52daf851b8d3732d8cfa5c042d2003df4bc5", null ],
-      [ "VIC_SAY_1", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da03177c5f683e4e107a302158eae27674", null ],
-      [ "VIC_SAY_2", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52dab7edb3b79f488240d89bd6fd385e3d4b", null ],
-      [ "VIC_SAY_3", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52dadc3b3cb74ae0ccb5f7bb82c8d891ec3b", null ],
-      [ "VIC_SAY_4", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52dad7c4ea2b5c2035181a28d0e3d5e4b6b0", null ],
-      [ "VIC_SAY_5", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da4330f3fdcd0deec342bcdd9760a24fc4", null ],
-      [ "VIC_SAY_6", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da16d118efcca2482dbf317b80034053c1", null ],
-      [ "PLANE_EMOTE", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da0c716ddde393d2ad7982fb525d453c2c", null ],
-      [ "AURA_ENGINE", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52daacf7d88fd3b13529c308febe9af93064", null ],
-      [ "SPELL_LAND", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52daca6291a64117feefb2c895d7eb7959fb", null ],
-      [ "SPELL_CREDIT", "d3/d6e/zone__sholazar__basin_8cpp.html#adfe4875d170be418cf524fc3141fa52da4cac52f68a7a26b807deb613362f6137", null ]
     ] ],
     [ "ReturnedSevenfold", "d3/d6e/zone__sholazar__basin_8cpp.html#a7b01305328c922efa79ac54c3a969ee3", [
       [ "SPELL_FREYAS_WARD", "d3/d6e/zone__sholazar__basin_8cpp.html#a7b01305328c922efa79ac54c3a969ee3aa353bde25d5a8808e2d63302b873fb56", null ],

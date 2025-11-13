@@ -953,7 +953,6 @@ var classPlayer =
     [ "SetMoney", "d2/d4b/classPlayer.html#af6f7bff4a50b32eb6da9824c26e5fb37", null ],
     [ "SetMonthlyQuestStatus", "d2/d4b/classPlayer.html#a4c5c78979c1df40929dc1ce44c5f6daf", null ],
     [ "SetMountBlockId", "d2/d4b/classPlayer.html#a94e5d3abfd348e93f9b822a102ef6e3a", null ],
-    [ "SetMovement", "d2/d4b/classPlayer.html#acbb8636b73594a7b0be382b7e75996fb", null ],
     [ "SetMover", "d2/d4b/classPlayer.html#aed09a228a30e93a74502dbf210d70a11", null ],
     [ "SetMustDelayTeleport", "d2/d4b/classPlayer.html#aec4b723fc85478c4fec8f468a130d9c0", null ],
     [ "SetNeedToSaveGlyphs", "d2/d4b/classPlayer.html#aa38a4c06bbe59bdfdf1749982aac5659", null ],
