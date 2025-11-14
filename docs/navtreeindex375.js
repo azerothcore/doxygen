@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/dcb/classspell__gen__bonked.html#a466db5b8dc15a196d67dfcbef3d810e1":[6,0,2926,0],
 "de/dcb/classspell__gen__bonked.html#a7909f23da8385abdabb62e5196d88d38":[6,0,2926,1],
 "de/dcb/classspell__gen__bonked.html#aa45c1c80f137dd90b5f0e06e19f09da6":[6,0,2926,2],
 "de/dcb/classspell__item__impale__leviroth.html":[6,0,3268],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac5bc8a9512c2e6e5169366cc5bbc79c2":[6,0,712,0,1],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ac99cd9678f209b0cf2e8e8e3457d0f55":[6,0,712,0,12],
 "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#ae71145ec4a82d1f024892181daebace9":[6,0,712,0,10],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#aeec79a009137be8b6290366d8d6bcfa3":[6,0,712,0,0],
-"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#af217acbeab5032b8a16180f4ff021e0a":[6,0,712,0,9]
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#aeec79a009137be8b6290366d8d6bcfa3":[6,0,712,0,0]
 };

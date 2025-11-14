@@ -1,5 +1,6 @@
 var NAVTREEINDEX395 =
 {
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abfbba8942df57e974ab24ad693c16e70":[6,0,1947,0,7],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#adbef78d8c908bfbce6ea506c55fb6922":[6,0,1947,0,1],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#afe55f91acd8c47a758b8d08bd07d763f":[6,0,1947,0,3],
 "df/dba/classnpc__ulduar__hodir__mage.html":[6,0,2229],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html#af688bab2dc3d938951adb303e8b8d88b":[6,0,1207,0,1],
 "df/dcb/classspell__sha__item__mana__surge.html":[6,0,3803],
 "df/dcb/classspell__sha__item__mana__surge.html#a0c3020d44608920a2820e73e0b9e4b42":[6,0,3803,4],
-"df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[6,0,3803,0],
-"df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[6,0,3803,3]
+"df/dcb/classspell__sha__item__mana__surge.html#a33412f2b5abb1ce2160408ef13e7f0cb":[6,0,3803,0]
 };

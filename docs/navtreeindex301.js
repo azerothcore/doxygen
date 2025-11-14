@@ -1,5 +1,6 @@
 var NAVTREEINDEX301 =
 {
+"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3937,1],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html":[6,0,1655,0],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a35facab84094071d952792a4c3e5015d":[6,0,1655,0,4],
 "dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a6aab8db1d55d4fe3251b544c292711e8":[6,0,1655,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX301 =
 "dc/d1b/structboss__curator.html#a9bfb89a8747251e4a84eb2f94a547f0d":[6,0,417,4],
 "dc/d1b/structboss__curator.html#ac779d275e03e6ba190617d215b217ce5":[6,0,417,3],
 "dc/d1b/structboss__curator.html#af6fbf3c3d77f9f052f11974f7b54feab":[6,0,417,5],
-"dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3112],
-"dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[6,0,3112,2]
+"dc/d1c/classspell__hor__shared__suffering__aura.html":[6,0,3112]
 };

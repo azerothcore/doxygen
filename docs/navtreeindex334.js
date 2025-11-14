@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22abd0b9c7b9d0b208fcead4720ad38d042":[7,0,0,0,1,3,5,4,2,5,7,14],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22af518e963a086cad66387279ed8eaa8cf":[7,0,0,0,1,3,5,4,2,5,7,0],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22af6f56f225316a37ef26e1369074d36ab":[7,0,0,0,1,3,5,4,2,5,7,2],
 "dd/dac/structModelEquip.html":[6,0,1518],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dd/db8/classnpc__massive__jormungar.html#ad17b632fcfe78019dcb9e6b58fa1ac01":[6,0,1954,1],
 "dd/db8/classspell__ioc__parachute__ic__aura.html":[6,0,3213],
 "dd/db8/classspell__ioc__parachute__ic__aura.html#a0e75076c2aed1544c544b976ee9cfbcd":[6,0,3213,0],
-"dd/db8/classspell__ioc__parachute__ic__aura.html#a6ce4c5c2b6797b38225ac3348aad5892":[6,0,3213,1],
-"dd/db8/classspell__ioc__parachute__ic__aura.html#a813bad39641956fff697580f271416d2":[6,0,3213,3]
+"dd/db8/classspell__ioc__parachute__ic__aura.html#a6ce4c5c2b6797b38225ac3348aad5892":[6,0,3213,1]
 };

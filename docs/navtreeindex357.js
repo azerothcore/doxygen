@@ -1,5 +1,6 @@
 var NAVTREEINDEX357 =
 {
+"de/d1c/classGameObject.html#a9720379d088b6fd9dae6f09ba28bc185":[6,0,1078,97],
 "de/d1c/classGameObject.html#a978819736db86651e107683a2aa4877e":[6,0,1078,56],
 "de/d1c/classGameObject.html#a9821d08270718b2fc4e6b226598ebcf9":[6,0,1078,73],
 "de/d1c/classGameObject.html#a9829322a9c309002b7ee2a48d2081908":[6,0,1078,33],
@@ -110,12 +111,12 @@ var NAVTREEINDEX357 =
 "de/d20/classVMAP_1_1MapRayCallback.html#a1a4a654bc929dab5b5a2804c4b88389d":[6,0,9,11,0],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[5,0,28,11,5],
 "de/d20/classVMAP_1_1MapRayCallback.html#a389d8ee31e0cb665bfd9084d786750c5":[6,0,9,11,5],
-"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[5,0,28,11,4],
+"de/d20/classVMAP_1_1MapRayCallback.html#a6fc14ac7ae20effec9d2657a46b838fc":[6,0,9,11,4],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[5,0,28,11,3],
 "de/d20/classVMAP_1_1MapRayCallback.html#a88d1e6d6fa43608bcee21a822488f061":[6,0,9,11,3],
-"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,28,11,1],
 "de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[6,0,9,11,1],
+"de/d20/classVMAP_1_1MapRayCallback.html#a9d9abb0a5ffff131d2c19e88c3c8b836":[5,0,28,11,1],
 "de/d20/structCharStartOutfitEntry.html":[6,0,864],
 "de/d20/structCharStartOutfitEntry.html#a7d17ef6151f6b746223e44164ab5c20d":[6,0,864,2],
 "de/d20/structCharStartOutfitEntry.html#aba6251a7020c6e66b9fc7a21859df271":[6,0,864,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX357 =
 "de/d25/ObjectMgr_8h.html#a3948798e8d6f8bf8943831da638720ff":[7,0,0,0,1,2,18,3,70],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1":[7,0,0,0,1,2,18,3,91],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a07934cfc5549d0b0c00336404054a634":[7,0,0,0,1,2,18,3,91,1],
-"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a0c3067ad6a4ce61b97189771f8e4cb19":[7,0,0,0,1,2,18,3,91,17],
-"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a2feb542dd9468174570162fe2d99eb78":[7,0,0,0,1,2,18,3,91,18]
+"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a0c3067ad6a4ce61b97189771f8e4cb19":[7,0,0,0,1,2,18,3,91,17]
 };

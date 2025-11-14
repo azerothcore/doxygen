@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#adf157cff264862d8f2ec3658fea061ad":[6,0,917,182],
 "db/dd5/classCreature.html#adfcb8bc5a745c30f0db20024bf397dab":[6,0,917,3],
 "db/dd5/classCreature.html#ae02db6de45e21ae4880f59e8a7c98927":[6,0,917,235],
 "db/dd5/classCreature.html#ae0de152b2fd7b000237f2e6f8d7bfc6e":[6,0,917,206],
@@ -186,8 +187,8 @@ var NAVTREEINDEX294 =
 "db/dda/structAccountFlagText.html":[6,0,24],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,24,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,24,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,895],
@@ -247,7 +248,6 @@ var NAVTREEINDEX294 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,6,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,31,6,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,6,48,0],
-"db/ddd/structSpellThreatEntry.html":[6,0,4123]
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,31,6,48,0]
 };

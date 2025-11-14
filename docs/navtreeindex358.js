@@ -1,5 +1,6 @@
 var NAVTREEINDEX358 =
 {
+"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a2feb542dd9468174570162fe2d99eb78":[7,0,0,0,1,2,18,3,91,18],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a325d5cee7289c38e3dab82bcaef7744b":[7,0,0,0,1,2,18,3,91,12],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a361af1be830a773001e83e20df570cf6":[7,0,0,0,1,2,18,3,91,15],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1a44e424b7ba51ff13c1646c9e78cc7f22":[7,0,0,0,1,2,18,3,91,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX358 =
 "de/d2f/CreatureData_8h.html#ab73ac085ce9072e26a505e0098969d7f":[7,0,0,0,1,2,16,1,2,26],
 "de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846":[7,0,0,0,1,2,16,1,2,39],
 "de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a6a061313d22e51e0f25b7cd4dc065233":[7,0,0,0,1,2,16,1,2,39,3],
-"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052":[7,0,0,0,1,2,16,1,2,39,2],
-"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62":[7,0,0,0,1,2,16,1,2,39,0]
+"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052":[7,0,0,0,1,2,16,1,2,39,2]
 };

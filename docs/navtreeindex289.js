@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a030cec311538ee7847326d6ac83c30d1":[7,0,0,0,1,3,10,14,58,43],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a0f48db8275774bd825fa0521580f2d8f":[7,0,0,0,1,3,10,14,58,47],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a1618c39099c8b1a4099533bfc05abb14":[7,0,0,0,1,3,10,14,58,12],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a1aede2d239db6ee5eb11300ca9279eda":[7,0,0,0,1,3,10,14,58,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/db7/namespaceMovement.html":[5,0,21],
 "db/db7/namespaceMovement.html#a0f9e26b66bd86bb9701c366e4f9529c3":[5,0,21,20],
 "db/db7/namespaceMovement.html#a15b376933a666c7f7c4600e62d7afe91":[5,0,21,36],
-"db/db7/namespaceMovement.html#a189485de5eba32c5b18dbb5c579b60d9":[5,0,21,26],
-"db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f":[5,0,21,30]
+"db/db7/namespaceMovement.html#a189485de5eba32c5b18dbb5c579b60d9":[5,0,21,26]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX193 =
 {
+"d7/d83/structAuctionEntry.html#a8e3dee79fd65c7f25ca1d74fe7924163":[6,0,259,1],
 "d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403":[6,0,259,18],
 "d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9":[6,0,259,22],
 "d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48":[6,0,259,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html":[6,0,3668],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#a90fbc5d1b22cbc59550a430a63c08032":[6,0,3668,2],
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3668,0],
-"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3668,1],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0]
+"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3668,1]
 };

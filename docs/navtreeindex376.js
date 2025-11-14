@@ -1,5 +1,6 @@
 var NAVTREEINDEX376 =
 {
+"de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html#af217acbeab5032b8a16180f4ff021e0a":[6,0,712,0,9],
 "de/ddd/classspell__entropius__black__hole__effect.html":[6,0,2860],
 "de/ddd/classspell__entropius__black__hole__effect.html#a5a43bb53d3c534054498f8366d617e5a":[6,0,2860,0],
 "de/ddd/classspell__entropius__black__hole__effect.html#a6da76afd5feaa0d60be70ff8469d78bc":[6,0,2860,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX376 =
 "de/deb/structM2Header.html#a5041eac47c6d39024240f89926d6c69b":[6,0,1464,56],
 "de/deb/structM2Header.html#a5244e177129c2e94a71043d6a7ba701d":[6,0,1464,32],
 "de/deb/structM2Header.html#a565f5e213e9dbeb4a839ccebb7a2f8f7":[6,0,1464,44],
-"de/deb/structM2Header.html#a5cf345846aa1556441df3150c91113e3":[6,0,1464,43],
-"de/deb/structM2Header.html#a5da9c2eacefd73041ef61b6e9d59d4a0":[6,0,1464,31]
+"de/deb/structM2Header.html#a5cf345846aa1556441df3150c91113e3":[6,0,1464,43]
 };

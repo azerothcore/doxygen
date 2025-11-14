@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"dc/d93/classSlaveRunEvent.html#a33e2ce4cea1edf2e0967696c41667f15":[6,0,2560,2],
 "dc/d93/classSlaveRunEvent.html#a4560b275b0870cdbd192b2610893b47c":[6,0,2560,0],
 "dc/d93/classSlaveRunEvent.html#a81db67be136525dea5a9cd84180be165":[6,0,2560,1],
 "dc/d93/classnpc__braug__dimspirit.html":[6,0,1663],
@@ -22,16 +23,16 @@ var NAVTREEINDEX312 =
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[5,0,1,87,2],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[5,0,1,87,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,1,87,5],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html":[6,0,1622],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#a6a8843d3f24378a2fd334e773618ab72":[6,0,1622,2],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#aa275374ba3a19a2e6a8768d4f01752b2":[6,0,1622,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "dc/da7/classspell__item__chicken__cover.html#a48934cde38c6f3b18087267b616ff338":[6,0,3229,4],
 "dc/da7/classspell__item__chicken__cover.html#a78506404ba25b054a9ab3f7176a5d4fc":[6,0,3229,1],
 "dc/da7/scourge__invasion_8cpp.html":[7,0,0,0,1,3,10,16],
-"dc/da7/scourge__invasion_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7":[7,0,0,0,1,3,10,16,15],
-"dc/da8/boss__viscidus_8cpp.html":[7,0,0,0,1,3,4,9,8]
+"dc/da7/scourge__invasion_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7":[7,0,0,0,1,3,10,16,15]
 };

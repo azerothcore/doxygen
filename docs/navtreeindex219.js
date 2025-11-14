@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d7b/classspell__gen__lifebloom.html#a196484d01d2dc07163e18fdca9f60ca9":[6,0,2984,5],
 "d8/d7b/classspell__gen__lifebloom.html#a599634d92b92a5635b89733b7bb3c3c8":[6,0,2984,4],
 "d8/d7b/classspell__gen__lifebloom.html#a5cb52a4dda841d9d31fd00a31ddc3350":[6,0,2984,0],
 "d8/d7b/classspell__gen__lifebloom.html#ab4a552402ee9f90834320d6fc668cff3":[6,0,2984,3],
@@ -244,10 +245,9 @@ var NAVTREEINDEX219 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4238,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4238,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4238,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,31,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,6,39,1]
 };

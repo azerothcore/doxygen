@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"db/df1/structboss__terestian__illhoof.html#a9039c0fb905e72e659ce62f9d36593ce":[6,0,725,1],
 "db/df1/structboss__terestian__illhoof.html#ab7de8b406de200eec981fab79a56dcd7":[6,0,725,4],
 "db/df1/structboss__terestian__illhoof.html#adc1f9195954eda7ec406ac9a084b7508":[6,0,725,2],
 "db/df2/classHealInfo.html":[6,0,1261],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,9,8,86,1],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212a75f2bd8178978b50d3468b559443d53f":[7,0,0,0,1,3,9,8,86,12],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212ab615aa6946f4f3296576bd7a171642a1":[7,0,0,0,1,3,9,8,86,16],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212adcb7cd282ac86f04ca8fe5f7e18afff3":[7,0,0,0,1,3,9,8,86,7],
-"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afab1cf99094765c03ba4c7a5a2d5b7f0":[7,0,0,0,1,3,9,8,86,4]
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212adcb7cd282ac86f04ca8fe5f7e18afff3":[7,0,0,0,1,3,9,8,86,7]
 };

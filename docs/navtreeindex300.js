@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,1,1],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca19fd751bdf0b8d401d30a76edb682723":[7,0,0,0,1,3,2,4,1,1,2],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca2754cdfe3abaa36af80434b488e4cc11":[7,0,0,0,1,3,2,4,1,1,3],
 "dc/d06/boss__curator_8cpp.html#a5bd342133be8c2137b831460acc9298ca65b03c8218033c2fbc5f7ccfb454c4f2":[7,0,0,0,1,3,2,4,1,1,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d08/classCharacterDeleteActionIpLogger.html#adb16e45e425fa816b2572692349d0005":[6,0,858,2],
 "dc/d08/classspell__trollgore__invader__taunt.html":[6,0,3937],
 "dc/d08/classspell__trollgore__invader__taunt.html#a53c8d47ee21637055ad901946be1e2c2":[6,0,3937,2],
-"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3937,0],
-"dc/d08/classspell__trollgore__invader__taunt.html#a96cc7aabf7af3b2e7f978173921d55cd":[6,0,3937,1]
+"dc/d08/classspell__trollgore__invader__taunt.html#a90b13b2a093fdd430a383d7ea4126290":[6,0,3937,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX356 =
 {
+"de/d14/structFactionEntry.html#ab3da6918e197c1098a932418d5c51799":[6,0,1033,1],
 "de/d14/structFactionEntry.html#ad9d326ed1aac5ea66825775665dfea00":[6,0,1033,6],
 "de/d14/structFactionEntry.html#ae165dc23f25386eb086e1fa2cb820153":[6,0,1033,0],
 "de/d14/structFactionEntry.html#ae23a3c94554b2043928d6e1ea748e709":[6,0,1033,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX356 =
 "de/d1c/classGameObject.html#a8fc1c7a0d8ec0cb3311dfd93ba509911":[6,0,1078,40],
 "de/d1c/classGameObject.html#a9142f090c63de7bcb3b6d12574760033":[6,0,1078,100],
 "de/d1c/classGameObject.html#a91575c5ccd22592b7444ef4f490ea8b1":[6,0,1078,98],
-"de/d1c/classGameObject.html#a966820338dbd8338802b3b937622ff72":[6,0,1078,112],
-"de/d1c/classGameObject.html#a9720379d088b6fd9dae6f09ba28bc185":[6,0,1078,97]
+"de/d1c/classGameObject.html#a966820338dbd8338802b3b937622ff72":[6,0,1078,112]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339":[7,0,0,0,1,2,26,2,1,0],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabef99eb6edded3faec9994a93dfe4407":[7,0,0,0,1,2,26,2,1,20],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbabf72a68cd52d9dd84870ddb9af03adce":[7,0,0,0,1,2,26,2,1,16],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac0e09803bc2df3c1608e09976e0dd666":[7,0,0,0,1,2,26,2,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d51/classachievement__portal__jockey.html#a6c6c4779072386ab7b64bad92762e2ac":[6,0,81,0],
 "dc/d51/classgo__ulduar__tower.html":[6,0,1200],
 "dc/d51/classgo__ulduar__tower.html#aa72ebefe52d49e5b07fb36232efd7e95":[6,0,1200,1],
-"dc/d51/classgo__ulduar__tower.html#afc1add1a0543921f52afe1eb907f5de3":[6,0,1200,0],
-"dc/d51/classspell__gen__mounted__charge.html":[6,0,2990]
+"dc/d51/classgo__ulduar__tower.html#afc1add1a0543921f52afe1eb907f5de3":[6,0,1200,0]
 };

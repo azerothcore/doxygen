@@ -1,5 +1,6 @@
 var NAVTREEINDEX215 =
 {
+"d8/d60/classboss__sartharion__shadron.html":[6,0,687],
 "d8/d60/classboss__sartharion__shadron.html#a95c7184ee7589f01920adc57a7df963b":[6,0,687,2],
 "d8/d60/classboss__sartharion__shadron.html#ac297719abff8c795af10973492fc6fbe":[6,0,687,1],
 "d8/d60/structSavedItem.html":[6,0,2514],
@@ -248,6 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d72/classBattlegroundQueue.html#ae457aefbd607eae5a6ebb809917e0dd2":[6,0,334,18],
 "d8/d72/classBattlegroundQueue.html#aec5a5dc9b8f0ce85665af73ebd9f11d5":[6,0,334,5],
 "d8/d72/classBattlegroundQueue.html#aec633181b16f50d0b4bfa00eb4f737df":[6,0,334,10],
-"d8/d72/classBattlegroundQueue.html#af07a7b1feee7c3158be1efc4e9823a25":[6,0,334,30],
-"d8/d72/classBattlegroundQueue.html#af3855a217387274253374fe3a61770ea":[6,0,334,9]
+"d8/d72/classBattlegroundQueue.html#af07a7b1feee7c3158be1efc4e9823a25":[6,0,334,30]
 };

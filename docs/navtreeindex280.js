@@ -1,5 +1,6 @@
 var NAVTREEINDEX280 =
 {
+"db/d6a/classspell__spawn__drakonid.html#a75f89d90b9e68288e54e1e0bd3b2ce98":[6,0,3848,3],
 "db/d6d/classnpc__argent__soldier.html":[6,0,1612],
 "db/d6d/classnpc__argent__soldier.html#aa308b4cf1df6edf0666d06e0ddab0797":[6,0,1612,1],
 "db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1612,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX280 =
 "db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7aeaa71326c5e4a61d10d05f2b5976649c12":[7,0,0,0,1,3,9,4,173,0],
 "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182":[7,0,0,0,1,3,9,4,158],
 "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182aee53fe1624d32bc2c33665bf3134b0d1":[7,0,0,0,1,3,9,4,158,1],
-"db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182af49149b7f09e62dd4d646dc76386b8af":[7,0,0,0,1,3,9,4,158,2],
-"db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182afa4e2a4c2a24bc29010bc0903e35ee22":[7,0,0,0,1,3,9,4,158,0]
+"db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182af49149b7f09e62dd4d646dc76386b8af":[7,0,0,0,1,3,9,4,158,2]
 };

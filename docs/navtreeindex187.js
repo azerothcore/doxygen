@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d7/d2c/structnpc__taldaram__flamesphere.html#ae681d84f2324faf22296dcb6e08484b0":[6,0,2154,8],
 "d7/d2c/structnpc__taldaram__flamesphere.html#ae6dfff3df39257c55495707934d5d38b":[6,0,2154,3],
 "d7/d2c/structnpc__taldaram__flamesphere.html#afd0ff83cb5fba1fbeb85b7d600f1b1de":[6,0,2154,6],
 "d7/d2c/structnpc__taldaram__flamesphere.html#afe50ac59ec441ab11745ca9461158a00":[6,0,2154,7],
@@ -69,14 +70,14 @@ var NAVTREEINDEX187 =
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b":[6,0,443,0,6],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,11,10,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,31,10,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,31,10,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,11,10,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,31,10,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,11,10,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,31,10,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,11,10,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,31,10,3,1],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,11,10,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,11,10,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,31,10,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,11,10,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2078],
 "d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[6,0,2078,2],
 "d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[6,0,2078,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a6031d8dd33d1f1a312bf5212b34d2bd0":[6,0,584,0,11],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a613441fcb7bd851a03729be84d27650c":[6,0,584,0,9],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a68a4994c750979b91e46160b0cba77b4":[6,0,584,0,12],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a6c72cebac0e09f66bf0a60cdc328aa4d":[6,0,584,0,8],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a92a2b2089c890901cd438c8d8ea432c7":[6,0,584,0,0]
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a6c72cebac0e09f66bf0a60cdc328aa4d":[6,0,584,0,8]
 };

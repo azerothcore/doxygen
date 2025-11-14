@@ -1,5 +1,6 @@
 var NAVTREEINDEX394 =
 {
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,2,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX394 =
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#aa00a6978074f62d3d8ddead64d3240cf":[6,0,1947,0,8],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#ab4f4deaae35fdbd602c9925f26e6d0e7":[6,0,1947,0,5],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abab2cfe84f4bb83fea3b35202a957bb5":[6,0,1947,0,0],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abebcdcb102f8d338ae0b792708940cd7":[6,0,1947,0,4],
-"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abfbba8942df57e974ab24ad693c16e70":[6,0,1947,0,7]
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abebcdcb102f8d338ae0b792708940cd7":[6,0,1947,0,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"d7/d46/classAuraEffect.html#a7595664aebf24652d3ce95d6bdc18ebe":[6,0,285,22],
 "d7/d46/classAuraEffect.html#a7710e32fe9dc267292c3b15333521560":[6,0,285,117],
 "d7/d46/classAuraEffect.html#a7778b120e414f28e95e71ce96660149e":[6,0,285,2],
 "d7/d46/classAuraEffect.html#a7d45367044e196745676c63d61fbd89d":[6,0,285,198],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d4c/classTwilightCutterSelector.html#accea6e932c44d083fbb4dc41c5102b3d":[6,0,4211,0],
 "d7/d4c/structCSymbolInfoPackage.html":[6,0,946],
 "d7/d4c/structCSymbolInfoPackage.html#a83aa5dabea5089b64c13f168a2564d30":[6,0,946,0],
-"d7/d4c/structnpc__underbat.html":[6,0,2246],
-"d7/d4c/structnpc__underbat.html#a710a010d3425b7171ee45d8465fd6b2b":[6,0,2246,0]
+"d7/d4c/structnpc__underbat.html":[6,0,2246]
 };

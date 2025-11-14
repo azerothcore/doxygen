@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/dc0/structBattlegroundAVScore.html#a99fa0ee715145176d9e36ecc39ca2e12":[6,0,318,1],
 "dc/dc0/structBattlegroundAVScore.html#aa598cf124232e7f7a8335efe527e20e1":[6,0,318,7],
 "dc/dc0/structBattlegroundAVScore.html#abb499401bd69b6a6d0c8365f36a70ad7":[6,0,318,8],
 "dc/dc0/structBattlegroundAVScore.html#ac72f50e8959e759d0c285a61967680dd":[6,0,318,3],
@@ -198,16 +199,16 @@ var NAVTREEINDEX315 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[6,0,3634,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,69],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,1,81],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,81,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,69,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,81,4],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,69,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,69,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,81,2],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,69,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,81,1],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,69,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,69,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,81,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,69,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,81,5],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,69,5],
 "dc/dd2/classboss__hadronox.html":[6,0,517],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dd4/classflag96.html#a70a14c8509096c0e2fdb54643addbdbf":[6,0,1049,12],
 "dc/dd4/classflag96.html#a8a64335d82e361162fdade6288b7ae1f":[6,0,1049,8],
 "dc/dd4/classflag96.html#a8ba92013e7c9863ed1f23fcf2c677268":[6,0,1049,21],
-"dc/dd4/classflag96.html#aba036b2e11561fd76165054e06dbf6b4":[6,0,1049,1],
-"dc/dd4/classflag96.html#ac335aaf38f9dcd9afdde58b7412c5082":[6,0,1049,10]
+"dc/dd4/classflag96.html#aba036b2e11561fd76165054e06dbf6b4":[6,0,1049,1]
 };

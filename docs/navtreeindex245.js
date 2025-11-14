@@ -1,5 +1,6 @@
 var NAVTREEINDEX245 =
 {
+"d9/de7/classFrostwyrmLandEvent.html#a4da77796a223e6233ac6d908f7700623":[6,0,1070,1],
 "d9/de7/classFrostwyrmLandEvent.html#a6336050092606ebb27a180abff55dfa2":[6,0,1070,3],
 "d9/de7/classFrostwyrmLandEvent.html#a6b6a467c474a5b03be40e4d9a86eddc8":[6,0,1070,0],
 "d9/de7/classFrostwyrmLandEvent.html#a7f5b4c41c459b65e30dea66f7459a7e9":[6,0,1070,2],
@@ -25,12 +26,12 @@ var NAVTREEINDEX245 =
 "d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,79],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,79,1],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,79,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,31,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,31,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX245 =
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#ae5cd5cf84e8db976f3006dc52bb5fab4":[6,0,1327,0,6],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#aed9ab9542badb0296ca0660c39541cb8":[6,0,1327,0,2],
 "d9/df6/classat__thaddius__entrance.html":[6,0,246],
-"d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,246,0],
-"d9/df6/classat__thaddius__entrance.html#af8635a58d4da0421b72b4451c1ebafc5":[6,0,246,1]
+"d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,246,0]
 };

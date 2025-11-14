@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d2f/classDelayedMovementEvent.html#a8287761226ee671905151891779b6efb":[6,0,974,1],
 "df/d2f/classDelayedMovementEvent.html#a9a0cd9830509ffdecd98ac8231350d58":[6,0,974,2],
 "df/d30/boss__gluth_8cpp.html":[7,0,0,0,1,3,5,7,3],
 "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,3,3],
@@ -245,9 +246,8 @@ var NAVTREEINDEX384 =
 "df/d3d/classBfCapturePoint.html#ab961bfe8934f89e6e454b8a74a280e3e":[6,0,346,12],
 "df/d3d/classBfCapturePoint.html#acd3c8e8fe970c160670bd5a7cdb9b1c4":[6,0,346,26],
 "df/d3d/classBfCapturePoint.html#acf8b53252eb10615ff197e15ea620083":[6,0,346,25],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[5,0,31,9,14],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[6,0,11,9,14],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[5,0,31,9,14],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,31,9,14,1],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[6,0,11,9,14,1],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[6,0,11,9,14,3]
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[6,0,11,9,14,1]
 };

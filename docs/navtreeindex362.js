@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a1c84731d3f370ba4dc81a4489a33b14b":[6,0,1353,0,16],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a2152552f089d16dbfe43de24d62c692e":[6,0,1353,0,18],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a26b1a6a56c786708f247145dbae7e142":[6,0,1353,0,2],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a373656d7281621244a9417a335bb6444":[6,0,1353,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d52/structboss__thorim__arena__npcs_1_1boss__thorim__arena__npcsAI.html#a2c55eacc7b16be459935b586a0654500":[6,0,738,0,6],
 "de/d52/structboss__thorim__arena__npcs_1_1boss__thorim__arena__npcsAI.html#a60530453c2cbf5f22fb0d45088f90706":[6,0,738,0,2],
 "de/d52/structboss__thorim__arena__npcs_1_1boss__thorim__arena__npcsAI.html#a83cb4bdb14a757733333f94d02fbf8db":[6,0,738,0,3],
-"de/d52/structboss__thorim__arena__npcs_1_1boss__thorim__arena__npcsAI.html#a84f22d142aad0ed7354784192bd5df3b":[6,0,738,0,4],
-"de/d52/structboss__thorim__arena__npcs_1_1boss__thorim__arena__npcsAI.html#aab66eff737c803f6680ca5f93baaa6ca":[6,0,738,0,0]
+"de/d52/structboss__thorim__arena__npcs_1_1boss__thorim__arena__npcsAI.html#a84f22d142aad0ed7354784192bd5df3b":[6,0,738,0,4]
 };

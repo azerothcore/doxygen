@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1940,1],
 "d8/de1/structCalendarInvite.html":[6,0,835],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,835,17],
 "d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,835,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/df3/boss__anubshiah_8cpp.html#a911731d0c6cc285f5a1dd80934cdbac0":[7,0,0,0,1,3,2,1,0,3,6],
 "d8/df3/boss__anubshiah_8cpp.html#acc90f01f6cb133b1ad00d753f3d11913":[7,0,0,0,1,3,2,1,0,3,3],
 "d8/df3/boss__anubshiah_8cpp.html#ae93ad6c1747bf265a5125392f6a37696":[7,0,0,0,1,3,2,1,0,3,4],
-"d8/df3/classnpc__rocknot.html":[6,0,2089],
-"d8/df3/classnpc__rocknot.html#a64a0cd215c1f4881948e5a49cf1b86d7":[6,0,2089,1]
+"d8/df3/classnpc__rocknot.html":[6,0,2089]
 };

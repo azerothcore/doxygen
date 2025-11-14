@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/dcb/classspell__sha__item__mana__surge.html#a482dd09de6cba9f5a36a6cdad1b82a0a":[6,0,3803,3],
 "df/dcb/classspell__sha__item__mana__surge.html#a8eccfbb749b85bbb850874324f17bbde":[6,0,3803,2],
 "df/dcb/classspell__sha__item__mana__surge.html#ab24c3d3f697a7ebd146d6135305c7741":[6,0,3803,1],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html":[6,0,1612,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dd9/classUnit.html#a0d13935c40d0392f7f7b5a34540461b2":[6,0,4221,254],
 "df/dd9/classUnit.html#a0d52c4248592475ddb1bd5e43d8927f9":[6,0,4221,954],
 "df/dd9/classUnit.html#a0d74177af4f180c8ec0af151313189c6":[6,0,4221,233],
-"df/dd9/classUnit.html#a0d8467fc487ce4c1eaecdbaab6cddd6f":[6,0,4221,772],
-"df/dd9/classUnit.html#a0e26ac5eae65e908edf086ec7a68cb3e":[6,0,4221,776]
+"df/dd9/classUnit.html#a0d8467fc487ce4c1eaecdbaab6cddd6f":[6,0,4221,772]
 };

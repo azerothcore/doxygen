@@ -1,5 +1,6 @@
 var NAVTREEINDEX333 =
 {
+"dd/da9/classspell__hodir__biting__cold__main__aura.html#a3ccee6d2c8ac244f5370d11b6a4492b6":[6,0,3101,2],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a428d1251465cc9947e7474eab83494e3":[6,0,3101,0],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#a7d4ede9af946be71bbc5531164ed3f17":[6,0,3101,3],
 "dd/da9/classspell__hodir__biting__cold__main__aura.html#aa6bfb37f305531f67fa5fad67c83acb9":[6,0,3101,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22a9ff54856dfb80a6a8e2edb3523e6a66d":[7,0,0,0,1,3,5,4,2,5,7,10],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22aa65ac0ac68c78f1c2ea895c7db9bf159":[7,0,0,0,1,3,5,4,2,5,7,5],
 "dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab354c925e25991c45e63ec89601569a3":[7,0,0,0,1,3,5,4,2,5,7,18],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab7e058e22823b1ecd7808431ad954776":[7,0,0,0,1,3,5,4,2,5,7,12],
-"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22abd0b9c7b9d0b208fcead4720ad38d042":[7,0,0,0,1,3,5,4,2,5,7,14]
+"dd/dac/pit__of__saron_8h.html#afb6eb4f28419b652027fad41104a6d22ab7e058e22823b1ecd7808431ad954776":[7,0,0,0,1,3,5,4,2,5,7,12]
 };

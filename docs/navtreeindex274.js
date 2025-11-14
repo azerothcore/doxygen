@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d0f/structnpc__ahune__bunny.html#aa8dff40dde7820b1ce4e06c8d27e4ecb":[6,0,1575,5],
 "db/d0f/structnpc__ahune__bunny.html#ad071787c47254f603ba7692889733202":[6,0,1575,1],
 "db/d0f/structnpc__ahune__bunny.html#ae28e0d2dbaab082488d5582b75cd8482":[6,0,1575,0],
 "db/d0f/structnpc__ahune__bunny.html#af84154fff16cbdb15586b3b07223e010":[6,0,1575,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3663,1],
 "db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3663,2],
 "db/d1a/classspell__q12227__outhouse__groans.html#a8f6332b2d4e7ac7ba6a68331b1d4512f":[6,0,3663,3],
-"db/d1a/classspell__q12227__outhouse__groans.html#ad3f1231ac90b96650b5c8c3403d69195":[6,0,3663,0],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html":[6,0,1738,0]
+"db/d1a/classspell__q12227__outhouse__groans.html#ad3f1231ac90b96650b5c8c3403d69195":[6,0,3663,0]
 };

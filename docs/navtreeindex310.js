@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"dc/d78/classBattlegroundAB.html#a3c414dfe5ab6cce6d62e5ef79246b59c":[6,0,315,12],
 "dc/d78/classBattlegroundAB.html#a425e5ab9628612ff200e4d0fcf105f13":[6,0,315,21],
 "dc/d78/classBattlegroundAB.html#a46ceb17ecade08926cf16f58f4f70a75":[6,0,315,17],
 "dc/d78/classBattlegroundAB.html#a49aea98411332492c2dbecd4ed9cce41":[6,0,315,31],
@@ -170,14 +171,14 @@ var NAVTREEINDEX310 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3292],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3292,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3292,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d88/classTempSummon.html#a65a25081690a9820065680d94c15bd7f":[6,0,4165,1],
 "dc/d88/classTempSummon.html#a671477f035313e96517c1c92079d9911":[6,0,4165,10],
 "dc/d88/classTempSummon.html#a6ed76ef6de27814adf38bce8666d2a15":[6,0,4165,13],
-"dc/d88/classTempSummon.html#a7340f280c2550fc495d3045a06ef5536":[6,0,4165,19],
-"dc/d88/classTempSummon.html#a9171c6fa87d58744029776bd7d182320":[6,0,4165,2]
+"dc/d88/classTempSummon.html#a7340f280c2550fc495d3045a06ef5536":[6,0,4165,19]
 };

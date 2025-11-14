@@ -1,5 +1,6 @@
 var NAVTREEINDEX380 =
 {
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,2,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX380 =
 "df/d1d/classspell__soul__deflection.html":[6,0,3846],
 "df/d1d/classspell__soul__deflection.html#a163e0099271f21362deeb1ba1f169f3f":[6,0,3846,2],
 "df/d1d/classspell__soul__deflection.html#aa523e91e5aadb09b66ef2c74e3cbce9f":[6,0,3846,1],
-"df/d1d/classspell__soul__deflection.html#abdb889e4c6d19f756c143d7b36f82257":[6,0,3846,3],
-"df/d1d/classspell__soul__deflection.html#aeb5b70614b266bac0792906bf89a5b97":[6,0,3846,0]
+"df/d1d/classspell__soul__deflection.html#abdb889e4c6d19f756c143d7b36f82257":[6,0,3846,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX387 =
 {
+"df/d5c/classnpc__commandscript.html#a30052a3759151fb2c99f13bd83a0bc6e":[6,0,1695,31],
 "df/d5c/classnpc__commandscript.html#a3ff7f55e9234685be9e61c5508246225":[6,0,1695,24],
 "df/d5c/classnpc__commandscript.html#a432ce71efa4ba98072b77140df7f867b":[6,0,1695,34],
 "df/d5c/classnpc__commandscript.html#a4594e04a33f25906d542a3154ca999d6":[6,0,1695,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX387 =
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a587f790fb5010bdfd04d89cf0c562f7e":[7,0,0,0,1,3,5,1,0,0,17,2],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a5ac4fbe14d1e35eed8c2be81541a3546":[7,0,0,0,1,3,5,1,0,0,17,17],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a63c01c89920b9bc855b18a70ed13909f":[7,0,0,0,1,3,5,1,0,0,17,21],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70ceee8880401687f5067294f655d614":[7,0,0,0,1,3,5,1,0,0,17,18],
-"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70feb01007c465ac33ad93c191b3fa4d":[7,0,0,0,1,3,5,1,0,0,17,30]
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70ceee8880401687f5067294f655d614":[7,0,0,0,1,3,5,1,0,0,17,18]
 };

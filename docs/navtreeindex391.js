@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2202,0,3],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[6,0,2202,0,1],
 "df/d94/classDBCFile_1_1Iterator.html":[6,0,959,1],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,959,1,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/d9d/classMessageBuffer.html#ad5765765420af77b236d61f3c7bdadfa":[6,0,1502,8],
 "df/d9d/classMessageBuffer.html#addcd9e859b706753af59a696d7b91c30":[6,0,1502,5],
 "df/d9d/classMessageBuffer.html#ae323e0a33bb1fa30100aa1e63a2cc6b8":[6,0,1502,13],
-"df/d9d/classMessageBuffer.html#aff68a6f579650f642ef3919046583391":[6,0,1502,7],
-"df/d9d/zone__isle__of__queldanas_8cpp.html":[7,0,0,0,1,3,2,27]
+"df/d9d/classMessageBuffer.html#aff68a6f579650f642ef3919046583391":[6,0,1502,7]
 };

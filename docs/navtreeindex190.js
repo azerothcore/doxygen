@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d7/d4c/structnpc__underbat.html#a710a010d3425b7171ee45d8465fd6b2b":[6,0,2246,0],
 "d7/d4c/structnpc__underbat.html#a7644a73c2a5bcbbe0a3db5c782169752":[6,0,2246,4],
 "d7/d4c/structnpc__underbat.html#aae771ad526e8f72a90fe70ebbd91b472":[6,0,2246,2],
 "d7/d4c/structnpc__underbat.html#ab3a9b97543aee3fdf22c17e94f768c0e":[6,0,2246,3],
@@ -14,8 +15,8 @@ var NAVTREEINDEX190 =
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1054,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4":[6,0,1054,0,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#aa5f8bc350f2c5aeac9d5e135c34eb662":[6,0,1054,0,1],
@@ -48,10 +49,10 @@ var NAVTREEINDEX190 =
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[6,0,11,7,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,31,7,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[6,0,11,7,5,4],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,31,7,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[6,0,11,7,5,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[6,0,11,7,5,6],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,31,7,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,31,7,5,6],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[6,0,11,7,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[6,0,11,7,5,2],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[5,0,31,7,5,2],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abdcb3b7e8a633b59d264ff1c860ec9c9":[6,0,11,7,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d60/structboss__keristrasza.html#a900a4a8428a04b880462b20196e94858":[6,0,572,1],
 "d7/d60/structboss__keristrasza.html#a97b6fe26a5bbc4a7c528939e82cd0ca5":[6,0,572,6],
 "d7/d60/structboss__keristrasza.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba":[6,0,572,2],
-"d7/d60/structboss__keristrasza.html#aa4c06ad8d599192c2f4ecb52f92e3a31":[6,0,572,10],
-"d7/d60/structboss__keristrasza.html#ac32f3e8f568535d4d197d383f9e51c5f":[6,0,572,8]
+"d7/d60/structboss__keristrasza.html#aa4c06ad8d599192c2f4ecb52f92e3a31":[6,0,572,10]
 };

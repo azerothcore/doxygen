@@ -68,6 +68,7 @@ var zone__zuldrak_8cpp =
       [ "NPC_TOTALLY_GENERIC_BUNNY", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225aad99497d75603f4e802a2924f0637347", null ],
       [ "NPC_TOTALLY_GENERIC_BUNNY_JSB", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225aaa2144855201fe0233eb91629cc538d0", null ],
       [ "GO_DRAKURUS_LAST_WISH", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a4dfba7e14e2574e5a6b3889c3aa94c48", null ],
+      [ "GO_DRAKURUS_BONE", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a3448dcc28d91b573ad615e7351aed191", null ],
       [ "ACTION_SUMMON_DRAKURU_LAST_WISH", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad2363acf76becae4c3b4e013387c21d1", null ],
       [ "ACTION_DESTROY_DRAKURU_LAST_WISH", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a63363baf38d51bc1f20a394d3858d2a7", null ],
       [ "ACTION_REMOVE_SPOTLIGHTS", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ab9ecddc81db4d32e0f18c02e0e8c8040", null ],

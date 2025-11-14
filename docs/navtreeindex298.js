@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afab1cf99094765c03ba4c7a5a2d5b7f0":[7,0,0,0,1,3,9,8,86,4],
 "db/dfb/spell__quest_8cpp.html#a7260f9ceecbf798c942e3de86b158212afc70a74b4ff83ace1c62d0a27ed8e589":[7,0,0,0,1,3,9,8,86,10],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00c":[7,0,0,0,1,3,9,8,102],
 "db/dfb/spell__quest_8cpp.html#a75550052580e7ef9d8782fa4b532c00ca13f0566b0ca3096731d7cb26218482bb":[7,0,0,0,1,3,9,8,102,4],
@@ -145,8 +146,8 @@ var NAVTREEINDEX298 =
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#af18eee25feb57f41708801f4d772a1ee":[6,0,612,0,13],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#afb7d93501d3559e4163b207bfb9b0d78":[6,0,612,0,12],
 "db/dfc/structboss__malygos_1_1boss__malygosAI.html#affb313b502fbebaa6937fc3f2a380906":[6,0,612,0,21],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,10,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,31,10,1],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[6,0,11,10,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,31,10,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,11,10,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,31,10,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada229c62645be46fde0643ea7ed6bc800f":[7,0,0,0,1,3,2,6,3,5,48],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada2a24ce4fa104b38b9e180002ad67029b":[7,0,0,0,1,3,2,6,3,5,1],
 "dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada308579da4f1b2f6e73ee995fb4d8af60":[7,0,0,0,1,3,2,6,3,5,6],
-"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada324a7666b18a92df177fa61ee443986b":[7,0,0,0,1,3,2,6,3,5,41],
-"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada34278379278ef11d74a61fcf7021fee3":[7,0,0,0,1,3,2,6,3,5,53]
+"dc/d00/chapter5_8cpp.html#a9d3fb23b03c75ccf48d0a02856878cada324a7666b18a92df177fa61ee443986b":[7,0,0,0,1,3,2,6,3,5,41]
 };

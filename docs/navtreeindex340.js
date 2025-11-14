@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[6,0,1090,2],
 "dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[6,0,1090,9],
 "dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[6,0,1090,12],
 "dd/dea/classspell__gen__holiday__buff__food.html":[6,0,2976],
@@ -15,8 +16,8 @@ var NAVTREEINDEX340 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3057],
@@ -68,10 +69,10 @@ var NAVTREEINDEX340 =
 "dd/ded/structboss__twin__valkyrAI.html#ae49793079dbec2dbe5e807f998705b20":[6,0,753,10],
 "dd/ded/structboss__twin__valkyrAI.html#aea878cd12d640ce4e3d87deb85c20b9f":[6,0,753,11],
 "dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[6,0,753,6],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,11,10,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[5,0,31,10,4],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[6,0,11,10,4,0],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,11,10,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,31,10,4,0],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[6,0,11,10,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,31,10,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[6,0,11,10,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,31,10,4,1],
@@ -163,12 +164,12 @@ var NAVTREEINDEX340 =
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[6,0,0,6],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[6,0,0,6,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[5,0,1,18,0],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[6,0,0,6,1],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[5,0,1,18,1],
+"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[6,0,0,6,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[6,0,0,40,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,1,52,0],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,1,52,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[6,0,0,40,0,3],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a08c6dbf00950b05d493e28ec95906c4e":[5,0,1,52,0,3],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,40,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[5,0,1,52,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[6,0,0,40,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/dfd/boss__ymiron_8cpp.html":[7,0,0,0,1,3,5,10,1,3],
 "dd/dfd/boss__ymiron_8cpp.html#a0208629733963e1bac3cbe1d8270f5e5":[7,0,0,0,1,3,5,10,1,3,6],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,10,1,3,4],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a02e3758dddb2393748b79bef8321a469":[7,0,0,0,1,3,5,10,1,3,4,26],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,10,1,3,4,2]
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a02e3758dddb2393748b79bef8321a469":[7,0,0,0,1,3,5,10,1,3,4,26]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX390 =
 {
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,56,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,68,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,68,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,56,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX390 =
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#a742791e714be1ff713ab87e7d515bd9e":[6,0,2202,0,4],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#a9315e8ba2688903aaf5b871a7490a700":[6,0,2202,0,2],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#a938852d834c5eb8ba4abceaf49e9a5da":[6,0,2202,0,5],
-"df/d93/structnpc__tooga_1_1npc__toogaAI.html#abea9fa4d2623dab4f14978a7f94b595f":[6,0,2202,0,7],
-"df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2202,0,3]
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#abea9fa4d2623dab4f14978a7f94b595f":[6,0,2202,0,7]
 };

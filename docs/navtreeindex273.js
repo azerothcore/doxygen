@@ -1,5 +1,6 @@
 var NAVTREEINDEX273 =
 {
+"da/dfd/classplayer__commandscript.html#a6ca511bcecf73049665772cb80dbcf40":[6,0,2401,2],
 "da/dfe/structCreatureTextId.html":[6,0,939],
 "da/dfe/structCreatureTextId.html#a5d45808a0b84ca11c8d05c25d26341a2":[6,0,939,4],
 "da/dfe/structCreatureTextId.html#ad69afcf7be87d1f96611fe925b68f26a":[6,0,939,2],
@@ -53,16 +54,16 @@ var NAVTREEINDEX273 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classboss__sartharion.html":[6,0,685],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,685,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,685,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX273 =
 "db/d0f/structnpc__ahune__bunny.html#a60a74aabbf42116079081134a332a100":[6,0,1575,4],
 "db/d0f/structnpc__ahune__bunny.html#a8733a3e495ebf69df4f9d1213df50170":[6,0,1575,2],
 "db/d0f/structnpc__ahune__bunny.html#a8f9e25f0d8a66b18e887b061592c6950":[6,0,1575,9],
-"db/d0f/structnpc__ahune__bunny.html#a9be0d062379e5a3dfa19af1eb1a4243e":[6,0,1575,7],
-"db/d0f/structnpc__ahune__bunny.html#aa8dff40dde7820b1ce4e06c8d27e4ecb":[6,0,1575,5]
+"db/d0f/structnpc__ahune__bunny.html#a9be0d062379e5a3dfa19af1eb1a4243e":[6,0,1575,7]
 };

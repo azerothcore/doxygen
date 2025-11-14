@@ -1,5 +1,6 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#abeb64d5e543e57d6bb02d50fd5d54f5b":[4,1,19,230],
 "d8/d74/classWorldSession.html#abef4dadaca45be934598f7935a44e1a8":[4,1,19,36],
 "d8/d74/classWorldSession.html#abef70ca4333a15e804d54cb29982e1f2":[4,1,19,70],
 "d8/d74/classWorldSession.html#abf41f82f2279a60bbe2be97c9fb6a1f7":[4,1,19,137],
@@ -217,12 +218,12 @@ var NAVTREEINDEX218 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,967,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,967,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,967,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1580],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1580,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1580,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d7b/classRotateMovementGenerator.html#a8717e890670d9f4e2ff66c0981d14aa6":[6,0,2506,6],
 "d8/d7b/classRotateMovementGenerator.html#a89a6559b4380210972e82c6ca6d5a9db":[6,0,2506,0],
 "d8/d7b/classRotateMovementGenerator.html#afd7588c7877b116cc9626a774b89d584":[6,0,2506,1],
-"d8/d7b/classspell__gen__lifebloom.html":[6,0,2984],
-"d8/d7b/classspell__gen__lifebloom.html#a196484d01d2dc07163e18fdca9f60ca9":[6,0,2984,5]
+"d8/d7b/classspell__gen__lifebloom.html":[6,0,2984]
 };

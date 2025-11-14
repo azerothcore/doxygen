@@ -1,5 +1,6 @@
 var NAVTREEINDEX275 =
 {
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html":[6,0,1738,0],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a10a3b9b4a2763bac4c9fe5f680850052":[6,0,1738,0,2],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a1780c656fb539be6dcd74e271cea4c53":[6,0,1738,0,9],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a187340b00067f2f65a7e48845a6edaba":[6,0,1738,0,1],
@@ -149,10 +150,10 @@ var NAVTREEINDEX275 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1886,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1886,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1886,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3627,2],
 "db/d2a/classspell__q10898__skywing.html#ac781a5ff389268d1f18867ff5585ca71":[6,0,3627,0],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,709,0],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,709,0,7],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,709,0,6]
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,709,0,7]
 };

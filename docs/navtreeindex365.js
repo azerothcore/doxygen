@@ -1,5 +1,6 @@
 var NAVTREEINDEX365 =
 {
+"de/d6e/structBattlegroundWGScore.html#aab49f39d88989b153f1eb979fbbfaeb3":[6,0,342,2],
 "de/d6e/structBattlegroundWGScore.html#ab400c9fb692ff157eb4809f0536c05f7":[6,0,342,7],
 "de/d6f/AsioHacksFwd_8h.html":[7,0,0,0,0,0,0],
 "de/d6f/AsioHacksFwd_8h.html#a27a44b709519f6caccf33bc420c4698b":[7,0,0,0,0,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX365 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab1aa4ee2a0c7e2a6abb0447057e38753":[6,0,1354,0,6],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acb95055a1c991dd5c005ba24ba6172dc":[6,0,1354,0,9],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1":[6,0,1354,0,22],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d":[6,0,1354,0,21],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ae1bcd64be4b3c4ecd5861991969e8f46":[6,0,1354,0,1]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d":[6,0,1354,0,21]
 };

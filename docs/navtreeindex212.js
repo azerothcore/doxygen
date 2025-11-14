@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d8/d35/boss__noth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a44db2c437d54937f83e7d5b79696cd10":[7,0,0,0,1,3,5,7,10,3,0],
 "d8/d35/boss__noth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a547d82d2a562627d6734feaead26f86b":[7,0,0,0,1,3,5,7,10,3,2],
 "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,10,5],
 "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,5,7,10,5,6],
@@ -22,10 +23,10 @@ var NAVTREEINDEX212 =
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61a4b504cc66a63b1f0150ac6d129222":[7,0,0,0,1,3,5,7,10,2,1],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aece2248203af84f6d210f9983dd0fa28":[7,0,0,0,1,3,5,7,10,2,3],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,133],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,133],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,121,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,133,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d8/d3e/classEscortMovementGenerator.html":[6,0,1028],
 "d8/d3e/classEscortMovementGenerator.html#a0733162a5a0cab2593150f288edeb27b":[6,0,1028,5],
 "d8/d3e/classEscortMovementGenerator.html#a235e330c4c3368af00d37028915684ff":[6,0,1028,7],
-"d8/d3e/classEscortMovementGenerator.html#a44019e4185abeb123a163a20c8f47d18":[6,0,1028,8],
-"d8/d3e/classEscortMovementGenerator.html#a46eb2812a1b2a56e584b925cae2169eb":[6,0,1028,11]
+"d8/d3e/classEscortMovementGenerator.html#a44019e4185abeb123a163a20c8f47d18":[6,0,1028,8]
 };

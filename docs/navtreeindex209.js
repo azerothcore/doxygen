@@ -1,5 +1,6 @@
 var NAVTREEINDEX209 =
 {
+"d8/d03/LootMgr_8cpp.html#aaa3aa72e5700e28104b67a1f347c64c7":[7,0,0,0,1,2,24,2,30],
 "d8/d03/LootMgr_8cpp.html#aade507039245a0e20adcdbf548a7d690":[7,0,0,0,1,2,24,2,6],
 "d8/d03/LootMgr_8cpp.html#aba8aafe6a5d2d251b6e2f539b27f5949":[7,0,0,0,1,2,24,2,22],
 "d8/d03/LootMgr_8cpp.html#abbe10d61650265aabbc5de5685a8b9bb":[7,0,0,0,1,2,24,2,25],
@@ -168,16 +169,16 @@ var NAVTREEINDEX209 =
 "d8/d0d/classboss__yoggsaron__sara.html#abc83e0f3a7d12a84ea283e5b2a69826d":[6,0,805,2],
 "d8/d0d/instance__maraudon_8cpp.html":[7,0,0,0,1,3,4,3,0],
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,28,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,28,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,28,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[6,0,9,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,28,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[6,0,9,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,28,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,28,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[5,0,28,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[6,0,9,0,1,2],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[5,0,28,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1929,0],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a4b6986a392aee0741ba47651e809c76c":[6,0,1929,0,1],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html#a60b2e31d24e182e97d604d91223e2dc8":[6,0,1929,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cad410735246672b010016fe5660268bc6":[7,0,0,0,1,3,2,12,0,6,23],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cad9e783eda3dbedfe2b46c03fdb4df41e":[7,0,0,0,1,3,2,12,0,6,2],
 "d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77cae8c7b8d8c98b1274f40ea3a0e25f1af9":[7,0,0,0,1,3,2,12,0,6,13],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caea1d4ae5c34f2cdc018e5e331625a8c2":[7,0,0,0,1,3,2,12,0,6,21],
-"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caecbfefbb37e319d47db8aa6ebe55606a":[7,0,0,0,1,3,2,12,0,6,16]
+"d8/d11/boss__brutallus_8cpp.html#a9c013fd339fb1c6ec76dc9784b1fd77caea1d4ae5c34f2cdc018e5e331625a8c2":[7,0,0,0,1,3,2,12,0,6,21]
 };
