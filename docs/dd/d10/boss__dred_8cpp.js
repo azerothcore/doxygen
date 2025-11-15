@@ -8,14 +8,7 @@ var boss__dred_8cpp =
     [ "Misc", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NPC_DRAKKARI_SCYTHECLAW", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e48e5fe774eb74669c83be919da5622", null ],
       [ "NPC_DRAKKARI_GUTRIPPER", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdf1f3390fb22db6bb6e2184f1d5bd2", null ],
-      [ "SAY_CLAW_EMOTE", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924", null ],
-      [ "EVENT_SPELL_BELLOWING_ROAR", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1207337a608cc4aa53f01e5b6845a732", null ],
-      [ "EVENT_SPELL_GRIEVOUS_BITE", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aefdaf076d2c6592ebfade89f6acffd45", null ],
-      [ "EVENT_SPELL_MANGLING_SLASH", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a93656fef97f855e3ba9aac755faab5c3", null ],
-      [ "EVENT_SPELL_FEARSOME_ROAR", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a22f9d345b4970c56d4d8f834791446ee", null ],
-      [ "EVENT_SPELL_PIERCING_SLASH", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad0c3e0969d795fb0cc22251d8044e88b", null ],
-      [ "EVENT_SPELL_RAPTOR_CALL", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a33c44535adb31c55814e2c58a0e2bdae", null ],
-      [ "EVENT_MENACING_CLAW", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad98eeb44b41667ab583f7a0cb6cac01b", null ]
+      [ "SAY_CLAW_EMOTE", "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924", null ]
     ] ],
     [ "Spells", "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_BELLOWING_ROAR", "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53", null ],

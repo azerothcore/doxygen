@@ -694,6 +694,7 @@ var hierarchy =
         [ "spell_blood_queen_swarming_shadows_floor_dmg", "dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html", null ],
         [ "spell_blood_queen_vampiric_bite", "d6/d5d/classspell__blood__queen__vampiric__bite.html", null ],
         [ "spell_blood_siphon", "d8/dba/classspell__blood__siphon.html", null ],
+        [ "spell_bloodspore_haze", "d4/d7b/classspell__bloodspore__haze.html", null ],
         [ "spell_boss_magus_telestra_gravity_well", "d3/d9e/classspell__boss__magus__telestra__gravity__well.html", null ],
         [ "spell_brewfest_add_mug", "d6/d9d/classspell__brewfest__add__mug.html", null ],
         [ "spell_brewfest_apple_trap", "d5/dfb/classspell__brewfest__apple__trap.html", null ],

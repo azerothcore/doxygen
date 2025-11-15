@@ -3182,6 +3182,7 @@ var annotated_dup =
     [ "spell_blood_queen_vampiric_bite", "d6/d5d/classspell__blood__queen__vampiric__bite.html", "d6/d5d/classspell__blood__queen__vampiric__bite" ],
     [ "spell_blood_siphon", "d8/dba/classspell__blood__siphon.html", "d8/dba/classspell__blood__siphon" ],
     [ "spell_blood_siphon_aura", "da/d32/classspell__blood__siphon__aura.html", "da/d32/classspell__blood__siphon__aura" ],
+    [ "spell_bloodspore_haze", "d4/d7b/classspell__bloodspore__haze.html", "d4/d7b/classspell__bloodspore__haze" ],
     [ "spell_bonfires_blessing", "dd/d94/classspell__bonfires__blessing.html", "dd/d94/classspell__bonfires__blessing" ],
     [ "spell_boss_magus_telestra_gravity_well", "d3/d9e/classspell__boss__magus__telestra__gravity__well.html", "d3/d9e/classspell__boss__magus__telestra__gravity__well" ],
     [ "spell_boss_magus_telestra_summon_telestra_clones_aura", "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html", "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura" ],

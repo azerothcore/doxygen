@@ -1,8 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"df/da7/classBattleground.html#a08b079bddbd3bbc5fd1ae22448738cf0":[6,0,314,170],
-"df/da7/classBattleground.html#a08e1612fa065bd42df3cee575c9f66fa":[6,0,314,40],
-"df/da7/classBattleground.html#a09632cebba6310e05423d0a145b84fcb":[6,0,314,64],
 "df/da7/classBattleground.html#a0aaf48a0b3b4241015d9dad82f6c55e4":[6,0,314,175],
 "df/da7/classBattleground.html#a0c51accd8da002ba439ef97a73f3c5e4":[6,0,314,20],
 "df/da7/classBattleground.html#a0d0353c4244b88c61de0c6124aab70fd":[6,0,314,178],
@@ -249,5 +246,8 @@ var NAVTREEINDEX393 =
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,314,252],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,2,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,2,9,0]
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,2,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,2,9,0],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,2,9,1]
 };

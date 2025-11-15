@@ -23,12 +23,12 @@ var isle__of__conquest_8cpp =
     ] ],
     [ "BossIoCEvents", "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cd", [
       [ "EVENT_CHECK_RAGE", "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda22070086d807390f3a1abd3e58ebf829", null ],
-      [ "EVENT_BRUTAL_STRIKE", "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda59e56bbbe6d3a32438443f8598af6b1e", null ],
+      [ "EVENT_MORTAL_STRIKE", "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdadbcdc7932b4e3141c4e5fb1a807bc236", null ],
       [ "EVENT_CRUSHING_LEAP", "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdaefe9bfe55a91a8bd7e02f67f6d2c4cb6", null ],
       [ "EVENT_DAGGER_THROW", "d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda6dabd6b3cc6c74769d3d8ac9a22c1133", null ]
     ] ],
     [ "BossIoCSpells", "d8/d4d/isle__of__conquest_8cpp.html#a4bb3e649057be7ed2c976771a2abf608", [
-      [ "SPELL_IOCBOSS_BRUTAL_STRIKE", "d8/d4d/isle__of__conquest_8cpp.html#a4bb3e649057be7ed2c976771a2abf608acc6747022a82c1547bce38c76e803e7f", null ],
+      [ "SPELL_IOCBOSS_MORTAL_STRIKE", "d8/d4d/isle__of__conquest_8cpp.html#a4bb3e649057be7ed2c976771a2abf608a9a0303c52784579ec025af68da2e0728", null ],
       [ "SPELL_IOCBOSS_CRUSHING_LEAP", "d8/d4d/isle__of__conquest_8cpp.html#a4bb3e649057be7ed2c976771a2abf608aeca4e1355117f5bb7b434756a6b52b26", null ],
       [ "SPELL_IOCBOSS_DAGGER_THROW", "d8/d4d/isle__of__conquest_8cpp.html#a4bb3e649057be7ed2c976771a2abf608a704db01dd381287f5358af4b53a20aa8", null ],
       [ "SPELL_IOCBOSS_RAGE", "d8/d4d/isle__of__conquest_8cpp.html#a4bb3e649057be7ed2c976771a2abf608a715f45c1c7acd7caad507312abf2f488", null ]

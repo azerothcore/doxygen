@@ -1,5 +1,7 @@
 var NAVTREEINDEX342 =
 {
+"de/d07/blood__furnace_8h.html#a74a34510d05b4c79015fd0ba024b4e27a7f079434fee3d7babbf2e014b16ba058":[7,0,0,0,1,3,7,4,0,0,4,0],
+"de/d07/blood__furnace_8h.html#a74a34510d05b4c79015fd0ba024b4e27ab9a3131d5af1d880164952aa93dab28b":[7,0,0,0,1,3,7,4,0,0,4,5],
 "de/d07/blood__furnace_8h.html#a74a34510d05b4c79015fd0ba024b4e27ad6160ee46c205c3ad0b533952de34294":[7,0,0,0,1,3,7,4,0,0,4,2],
 "de/d07/blood__furnace_8h.html#a74a34510d05b4c79015fd0ba024b4e27af6a7585ba449b6a97baf1bc94725580f":[7,0,0,0,1,3,7,4,0,0,4,1],
 "de/d07/blood__furnace_8h.html#aa518f004f7df866d1fc0e781b6a5f3a0":[7,0,0,0,1,3,7,4,0,0,5],
@@ -27,12 +29,12 @@ var NAVTREEINDEX342 =
 "de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2605,2],
 "de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[6,0,2605,1],
 "de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[6,0,2605,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html":[6,0,3429],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[6,0,3429,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[6,0,3429,4],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[6,0,3429,2],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[6,0,3429,1],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[6,0,3429,3],
+"de/d09/classspell__mage__polymorph__cast__visual.html":[6,0,3430],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[6,0,3430,0],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[6,0,3430,4],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[6,0,3430,2],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[6,0,3430,1],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[6,0,3430,3],
 "de/d09/maraudon_8h.html":[7,0,0,0,1,3,4,3,1],
 "de/d09/maraudon_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,3,1,0],
 "de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,4,3,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX342 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ae0ad241681bef520a2fa934ac91d7877":[7,0,0,0,1,4,7,68,129],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ae5ccf8f5ab7394b6ad92b0330c13c22b":[7,0,0,0,1,4,7,68,15],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aea3b9d865d4f9aa5da621149d6c6ad43":[7,0,0,0,1,4,7,68,135],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aebca501df25a950e4179be6d353daccc":[7,0,0,0,1,4,7,68,156],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aed5296737dcfccbe29bfaabe91f7eb23":[7,0,0,0,1,4,7,68,144],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aeec982db2671a1b0b77f2474515c7800":[7,0,0,0,1,4,7,68,99]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574aebca501df25a950e4179be6d353daccc":[7,0,0,0,1,4,7,68,156]
 };

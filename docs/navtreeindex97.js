@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babe6a989365b693025eb6eb686d8b595a":[7,0,0,0,1,2,48,7,0,86],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babe91a2a8af0b9eff27475d41f7e1a938":[7,0,0,0,1,2,48,7,0,294],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babf490d75da01b19b5b983983d708e985":[7,0,0,0,1,2,48,7,0,38],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21babfd28954ae4ce2ce10150f5a5805dd96":[7,0,0,0,1,2,48,7,0,17],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac003747e75708491a19aac53eacc9f62":[7,0,0,0,1,2,48,7,0,336],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac02478ecd9e50fec23256ffb81365972":[7,0,0,0,1,2,48,7,0,67],
@@ -117,11 +120,11 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3426],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3426,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3426,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3426,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3426,3],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3427],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3427,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3427,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3427,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3427,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d4e/ReputationMgr_8h.html#ad6532434415723ae38cfd01814db70c4":[7,0,0,0,1,2,37,1,2],
 "d3/d4e/classGuild_1_1BankEventLogEntry.html":[6,0,1252,0],
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a180246a8eaca99431383916776a4f7ad":[6,0,1252,0,9],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a1a87a93c90b6a0b6766ac46228fd1761":[6,0,1252,0,1],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a31275c6a36f7b79d7532345d38a3739b":[6,0,1252,0,0],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a3b2127e193ff9f5b54cf6520cd2a2458":[6,0,1252,0,12],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a49c76ead144b21da7cb1059af54a2482":[6,0,1252,0,4]
+"d3/d4e/classGuild_1_1BankEventLogEntry.html#a1a87a93c90b6a0b6766ac46228fd1761":[6,0,1252,0,1]
 };

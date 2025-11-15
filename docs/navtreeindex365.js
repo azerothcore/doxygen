@@ -1,5 +1,7 @@
 var NAVTREEINDEX365 =
 {
+"de/d6e/structBattlegroundWGScore.html#a804e56dbd666336d961cce2b0e4d6452":[6,0,342,1],
+"de/d6e/structBattlegroundWGScore.html#aa560d7f5f13dd235d43a9e3571090055":[6,0,342,4],
 "de/d6e/structBattlegroundWGScore.html#aab49f39d88989b153f1eb979fbbfaeb3":[6,0,342,2],
 "de/d6e/structBattlegroundWGScore.html#ab400c9fb692ff157eb4809f0536c05f7":[6,0,342,7],
 "de/d6f/AsioHacksFwd_8h.html":[7,0,0,0,0,0,0],
@@ -223,11 +225,11 @@ var NAVTREEINDEX365 =
 "de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,975,0],
 "de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,975,1],
 "de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,975,4],
-"de/d75/classspell__dk__death__pact.html":[6,0,2767],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2767,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2767,1],
-"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2767,2],
-"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2767,0],
+"de/d75/classspell__dk__death__pact.html":[6,0,2768],
+"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2768,3],
+"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2768,1],
+"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2768,2],
+"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2768,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[6,0,1354,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[6,0,1354,0,11],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[6,0,1354,0,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX365 =
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#aaa2ae64e837747496b569a9d8a1aa0f4":[6,0,1354,0,3],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab01e58f5829d1e488d7a726bb8797ec8":[6,0,1354,0,26],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#ab1aa4ee2a0c7e2a6abb0447057e38753":[6,0,1354,0,6],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acb95055a1c991dd5c005ba24ba6172dc":[6,0,1354,0,9],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acfb5cbb97845cac19b68c74117f25fc1":[6,0,1354,0,22],
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#adeaf3c50fa2d721e5f32eabd8b7a1b2d":[6,0,1354,0,21]
+"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#acb95055a1c991dd5c005ba24ba6172dc":[6,0,1354,0,9]
 };

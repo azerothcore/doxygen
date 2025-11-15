@@ -1,5 +1,13 @@
 var NAVTREEINDEX225 =
 {
+"d8/dd5/structClientWardenModule.html#af1e6a5cc01ee05432be5c41c88d84794":[6,0,885,2],
+"d8/dd6/DBCfmt_8h.html":[7,0,0,0,1,4,0,3],
+"d8/dd6/DBCfmt_8h.html#a0075040f7af393b0e85ca47430c7f37c":[7,0,0,0,1,4,0,3,49],
+"d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[7,0,0,0,1,4,0,3,35],
+"d8/dd6/DBCfmt_8h.html#a0a9211dfe8a10e9d63a78306415ea057":[7,0,0,0,1,4,0,3,2],
+"d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[7,0,0,0,1,4,0,3,6],
+"d8/dd6/DBCfmt_8h.html#a0db830a882adf1f5f65c74e7de8ae941":[7,0,0,0,1,4,0,3,69],
+"d8/dd6/DBCfmt_8h.html#a1266dda82a0166373df711f4de5b84fa":[7,0,0,0,1,4,0,3,20],
 "d8/dd6/DBCfmt_8h.html#a12aadeb86c55d0b33d8389c91c0d89ea":[7,0,0,0,1,4,0,3,41],
 "d8/dd6/DBCfmt_8h.html#a13998be35bef3d8715e4784c8570f497":[7,0,0,0,1,4,0,3,8],
 "d8/dd6/DBCfmt_8h.html#a17cdad49976eabe5f55a58c41a55f154":[7,0,0,0,1,4,0,3,80],
@@ -126,10 +134,10 @@ var NAVTREEINDEX225 =
 "d8/dd7/classMarkOfNatureTargetSelector.html":[6,0,1498],
 "d8/dd7/classMarkOfNatureTargetSelector.html#a1515fd40dcccaba5947e93eabf241336":[6,0,1498,1],
 "d8/dd7/classMarkOfNatureTargetSelector.html#ae737da5ff93360fde8c4c818f41d7853":[6,0,1498,0],
-"d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2929],
-"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2929,0],
-"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2929,2],
-"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2929,1],
+"d8/dd7/classspell__gen__burn__brutallus.html":[6,0,2930],
+"d8/dd7/classspell__gen__burn__brutallus.html#a554353fede78b89bf488230254d7892b":[6,0,2930,0],
+"d8/dd7/classspell__gen__burn__brutallus.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5":[6,0,2930,2],
+"d8/dd7/classspell__gen__burn__brutallus.html#adf20aaafff83bae614ff3c614a08a54b":[6,0,2930,1],
 "d8/dd8/ObjectMgr_8cpp.html":[7,0,0,0,1,2,18,2],
 "d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa":[7,0,0,0,1,2,18,2,15],
 "d8/dd8/ObjectMgr_8cpp.html#a1d95dafadc9b3a7d7bc91fa7f188d464":[7,0,0,0,1,2,18,2,8],
@@ -241,13 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cabf80d52d9c82bd67fd19840d4d4e44d1":[7,0,0,0,1,3,5,24,22,4],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cac0db7c2e9ed4be044bbd919420e74d08":[7,0,0,0,1,3,5,24,22,1],
 "d8/dd9/zone__wintergrasp_8cpp.html#af2e48f5b3f0b549bec8fb184d875132cadce7e277b79fef748cff0cc1a909ae06":[7,0,0,0,1,3,5,24,22,3],
-"d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,1],
-"d8/dda/WaypointMgr_8h.html#a4022be9e8c89b6ab197c2564c77b52c5":[7,0,0,0,1,2,31,2,1,4],
-"d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,1,2],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863":[7,0,0,0,1,2,31,2,1,5],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[7,0,0,0,1,2,31,2,1,5,1],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa":[7,0,0,0,1,2,31,2,1,5,2],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188":[7,0,0,0,1,2,31,2,1,5,4],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843":[7,0,0,0,1,2,31,2,1,5,3],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff":[7,0,0,0,1,2,31,2,1,5,0]
+"d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,1]
 };
