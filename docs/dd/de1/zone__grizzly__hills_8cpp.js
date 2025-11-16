@@ -8,10 +8,6 @@ var zone__grizzly__hills_8cpp =
     [ "npc_ravenous_worg::npc_ravenous_worgAI", "d7/d7a/structnpc__ravenous__worg_1_1npc__ravenous__worgAI.html", "d7/d7a/structnpc__ravenous__worg_1_1npc__ravenous__worgAI" ],
     [ "spell_q12227_outhouse_groans", "db/d1a/classspell__q12227__outhouse__groans.html", "db/d1a/classspell__q12227__outhouse__groans" ],
     [ "spell_q12227_camera_shake", "d8/dde/classspell__q12227__camera__shake.html", "d8/dde/classspell__q12227__camera__shake" ],
-    [ "npc_tallhorn_stag", "d4/d8d/classnpc__tallhorn__stag.html", "d4/d8d/classnpc__tallhorn__stag" ],
-    [ "npc_tallhorn_stag::npc_tallhorn_stagAI", "db/db8/structnpc__tallhorn__stag_1_1npc__tallhorn__stagAI.html", "db/db8/structnpc__tallhorn__stag_1_1npc__tallhorn__stagAI" ],
-    [ "npc_amberpine_woodsman", "d6/dc9/classnpc__amberpine__woodsman.html", "d6/dc9/classnpc__amberpine__woodsman" ],
-    [ "npc_amberpine_woodsman::npc_amberpine_woodsmanAI", "db/d23/structnpc__amberpine__woodsman_1_1npc__amberpine__woodsmanAI.html", "db/d23/structnpc__amberpine__woodsman_1_1npc__amberpine__woodsmanAI" ],
     [ "npc_wounded_skirmisher", "db/dfb/structnpc__wounded__skirmisher.html", "db/dfb/structnpc__wounded__skirmisher" ],
     [ "spell_renew_skirmisher", "d6/d5b/classspell__renew__skirmisher.html", "d6/d5b/classspell__renew__skirmisher" ],
     [ "npc_venture_co_straggler", "d1/d7b/classnpc__venture__co__straggler.html", "d1/d7b/classnpc__venture__co__straggler" ],
@@ -25,13 +21,6 @@ var zone__grizzly__hills_8cpp =
     [ "spell_z_check_aura", "d3/d0c/classspell__z__check__aura.html", "d3/d0c/classspell__z__check__aura" ],
     [ "spell_warhead_fuse_aura", "d5/d79/classspell__warhead__fuse__aura.html", "d5/d79/classspell__warhead__fuse__aura" ],
     [ "spell_frog_kiss", "d9/de9/classspell__frog__kiss.html", "d9/de9/classspell__frog__kiss" ],
-    [ "AmberpineWoodsman", "dd/de1/zone__grizzly__hills_8cpp.html#a2481d0a3a1ce71a0f4ff320582eb107e", [
-      [ "NPC_TALLHORN_STAG", "dd/de1/zone__grizzly__hills_8cpp.html#a2481d0a3a1ce71a0f4ff320582eb107ea9bda1d7448864e7f142ccf1779a35c07", null ]
-    ] ],
-    [ "AmberpineWoodsmanEvents", "dd/de1/zone__grizzly__hills_8cpp.html#ab497765271686da90c5a54779670f26a", [
-      [ "EVENT_WOODSMAN_1", "dd/de1/zone__grizzly__hills_8cpp.html#ab497765271686da90c5a54779670f26aa3cc87a4d1160ed0a94150838414883f3", null ],
-      [ "EVENT_WOODSMAN_2", "dd/de1/zone__grizzly__hills_8cpp.html#ab497765271686da90c5a54779670f26aa15d81ffc64f16e7b41710173ab817e78", null ]
-    ] ],
     [ "Floppy", "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8", [
       [ "NPC_MRFLOPPY", "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539", null ],
       [ "NPC_HUNGRY_WORG", "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec", null ],
@@ -122,9 +111,6 @@ var zone__grizzly__hills_8cpp =
       [ "EVENT_STRAGGLER_3", "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a153337d35888c768586b16945aeab0db", null ],
       [ "EVENT_STRAGGLER_4", "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0a981730ec63bc9362a60905f2c485ba69", null ],
       [ "EVENT_CHOP", "dd/de1/zone__grizzly__hills_8cpp.html#abebd8dab501f326c5ae89500145c96a0af1a459e1e4ac32608277cef4939a02a1", null ]
-    ] ],
-    [ "TallhornStage", "dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111", [
-      [ "OBJECT_HAUNCH", "dd/de1/zone__grizzly__hills_8cpp.html#adfdcfce0226bbf9a76589dc22942d111a1be59b93a1b6b1119cbaac8759f934b2", null ]
     ] ],
     [ "WarheadDenonate", "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbe", [
       [ "SPELL_PARACHUTE", "dd/de1/zone__grizzly__hills_8cpp.html#af53d541bd7e5f88ba27ddb5d6beefcbea0e716768b8b569aa1680571370c2109b", null ],

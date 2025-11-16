@@ -5,7 +5,8 @@ var drak__tharon__keep_8h =
     [ "Creatures", "d7/d4a/drak__tharon__keep_8h.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_KURZEL", "d7/d4a/drak__tharon__keep_8h.html#a25a619e6b66096a4f05d048e4a96df08a22d66bc624082cb121a29f26aec07465", null ],
       [ "NPC_DRAKKARI_GUARDIAN", "d7/d4a/drak__tharon__keep_8h.html#a25a619e6b66096a4f05d048e4a96df08ac8874bda0b81ee0c77596d066d6c04d1", null ],
-      [ "NPC_RISEN_DRAKKARI_WARRIOR", "d7/d4a/drak__tharon__keep_8h.html#a25a619e6b66096a4f05d048e4a96df08a134872c6167fea34d52690f6b40e7429", null ]
+      [ "NPC_RISEN_DRAKKARI_WARRIOR", "d7/d4a/drak__tharon__keep_8h.html#a25a619e6b66096a4f05d048e4a96df08a134872c6167fea34d52690f6b40e7429", null ],
+      [ "NPC_FETID_TROLL_CORPSE", "d7/d4a/drak__tharon__keep_8h.html#a25a619e6b66096a4f05d048e4a96df08a9410ab8c778e63e997745a443db5e32c", null ]
     ] ],
     [ "Data", "d7/d4a/drak__tharon__keep_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "DATA_TROLLGORE", "d7/d4a/drak__tharon__keep_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac89c8939089d5a7d9d0755052bb9b0c2", null ],

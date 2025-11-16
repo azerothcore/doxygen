@@ -1,12 +1,8 @@
 var NAVTREEINDEX229 =
 {
-"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1d849b6a1c47c657cf1ed0cb153ef33c":[7,0,0,0,1,3,2,1,1,13,2,2],
-"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d":[7,0,0,0,1,3,2,1,1,13,2,0],
-"d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad1521dc079c87020b71b6aa09dafe4aa":[7,0,0,0,1,3,2,1,1,13,2,1],
-"d8/dff/classspell__the__eye__countercharge__aura.html":[6,0,3891],
-"d8/dff/classspell__the__eye__countercharge__aura.html#a14d4d1a75130a77e7e59e41720491bec":[6,0,3891,0],
-"d8/dff/classspell__the__eye__countercharge__aura.html#a9dbcd4c940f5941472bebb64829125e3":[6,0,3891,2],
-"d8/dff/classspell__the__eye__countercharge__aura.html#abea217f4bfdffc70007fbc29849e9a49":[6,0,3891,1],
+"d8/dff/classspell__the__eye__countercharge__aura.html#a14d4d1a75130a77e7e59e41720491bec":[6,0,3889,0],
+"d8/dff/classspell__the__eye__countercharge__aura.html#a9dbcd4c940f5941472bebb64829125e3":[6,0,3889,2],
+"d8/dff/classspell__the__eye__countercharge__aura.html#abea217f4bfdffc70007fbc29849e9a49":[6,0,3889,1],
 "d8/dff/structCalendarEvent.html":[6,0,834],
 "d8/dff/structCalendarEvent.html#a00984cdf7353d8e7236da4956eea2976":[6,0,834,33],
 "d8/dff/structCalendarEvent.html#a013a8dbbc2059c35ac7482c59802c334":[6,0,834,30],
@@ -245,9 +241,13 @@ var NAVTREEINDEX229 =
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938a9d6d5377d7deaf5fcddde6445f827eed":[7,0,0,0,1,3,7,1,2,22,2],
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938ac6afa7d3ac9a57971584a40e5768592c":[7,0,0,0,1,3,7,1,2,22,0],
 "d9/d02/boss__illidan_8cpp.html#afdc2a15b25b6c94597101b0611dd4938af14cdba1aaf9fbfbd5b94c608513b872":[7,0,0,0,1,3,7,1,2,22,5],
-"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html":[6,0,1816,0],
-"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a138bc8cd6f1312d83fefdf5499a479b7":[6,0,1816,0,1],
-"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a4c1b6616bc88a9ad5074670843315bc6":[6,0,1816,0,5],
-"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a4c9107ef5d4a85d7487ff4cf7bf6464a":[6,0,1816,0,4],
-"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a5e9404dd8bf4b513e05daac53c076314":[6,0,1816,0,0]
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html":[6,0,1815,0],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a138bc8cd6f1312d83fefdf5499a479b7":[6,0,1815,0,1],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a4c1b6616bc88a9ad5074670843315bc6":[6,0,1815,0,5],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a4c9107ef5d4a85d7487ff4cf7bf6464a":[6,0,1815,0,4],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#a5e9404dd8bf4b513e05daac53c076314":[6,0,1815,0,0],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ac687bd20f0ae66b21ce52c21561af417":[6,0,1815,0,3],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad0ac0647feb998e837a44b0a688694e9":[6,0,1815,0,6],
+"d9/d02/structnpc__grand__magister__rommath_1_1npc__grand__magister__rommathAI.html#ad35b64b37915484b133bcd185a832011":[6,0,1815,0,2],
+"d9/d03/structModelHeader.html":[6,0,1519]
 };

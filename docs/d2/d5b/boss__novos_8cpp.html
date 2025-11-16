@@ -125,9 +125,7 @@ $(document).ready(function(){initNavTree('d2/d5b/boss__novos_8cpp.html','../../'
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d20/classboss__novos.html">boss_novos</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d11/structboss__novos_1_1boss__novosAI.html">boss_novos::boss_novosAI</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d7f/structboss__novos.html">boss_novos</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d84/classspell__novos__despawn__crystal__handler.html">spell_novos_despawn_crystal_handler</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -398,21 +396,23 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  343</span>{</div>
-<div class="line"><span class="lineno">  344</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d20/classboss__novos.html">boss_novos</a>();</div>
-<div class="line"><span class="lineno">  345</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d84/classspell__novos__despawn__crystal__handler.html">spell_novos_despawn_crystal_handler</a>);</div>
-<div class="line"><span class="lineno">  346</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/de3/classspell__novos__crystal__handler__death__aura.html">spell_novos_crystal_handler_death_aura</a>);</div>
-<div class="line"><span class="lineno">  347</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d78/classspell__novos__summon__minions.html">spell_novos_summon_minions</a>);</div>
-<div class="line"><span class="lineno">  348</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d6b/classachievement__oh__novos.html">achievement_oh_novos</a>();</div>
-<div class="line"><span class="lineno">  349</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  364</span>{</div>
+<div class="line"><span class="lineno">  365</span>    <a class="code hl_define" href="../../de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(<a class="code hl_struct" href="../../df/d7f/structboss__novos.html">boss_novos</a>, <a class="code hl_function" href="../../d7/d4a/drak__tharon__keep_8h.html#a95ecd117622c8a20080e40c39a26974e">GetDraktharonKeepAI</a>);</div>
+<div class="line"><span class="lineno">  366</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d84/classspell__novos__despawn__crystal__handler.html">spell_novos_despawn_crystal_handler</a>);</div>
+<div class="line"><span class="lineno">  367</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/de3/classspell__novos__crystal__handler__death__aura.html">spell_novos_crystal_handler_death_aura</a>);</div>
+<div class="line"><span class="lineno">  368</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/d78/classspell__novos__summon__minions.html">spell_novos_summon_minions</a>);</div>
+<div class="line"><span class="lineno">  369</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d6b/classachievement__oh__novos.html">achievement_oh_novos</a>();</div>
+<div class="line"><span class="lineno">  370</span>}</div>
+<div class="ttc" id="aCreatureScript_8h_html_a25cc02ecf50f52ec8cdff096060b8be1"><div class="ttname"><a href="../../de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a></div><div class="ttdeci">#define RegisterCreatureAIWithFactory(ai_name, factory_fn)</div><div class="ttdef"><b>Definition</b> CreatureScript.h:81</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aclassachievement__oh__novos_html"><div class="ttname"><a href="../../d5/d6b/classachievement__oh__novos.html">achievement_oh_novos</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:332</div></div>
-<div class="ttc" id="aclassboss__novos_html"><div class="ttname"><a href="../../dc/d20/classboss__novos.html">boss_novos</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:81</div></div>
-<div class="ttc" id="aclassspell__novos__crystal__handler__death__aura_html"><div class="ttname"><a href="../../df/de3/classspell__novos__crystal__handler__death__aura.html">spell_novos_crystal_handler_death_aura</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:294</div></div>
-<div class="ttc" id="aclassspell__novos__despawn__crystal__handler_html"><div class="ttname"><a href="../../d0/d84/classspell__novos__despawn__crystal__handler.html">spell_novos_despawn_crystal_handler</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:273</div></div>
-<div class="ttc" id="aclassspell__novos__summon__minions_html"><div class="ttname"><a href="../../d3/d78/classspell__novos__summon__minions.html">spell_novos_summon_minions</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:311</div></div>
+<div class="ttc" id="aclassachievement__oh__novos_html"><div class="ttname"><a href="../../d5/d6b/classachievement__oh__novos.html">achievement_oh_novos</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:353</div></div>
+<div class="ttc" id="aclassspell__novos__crystal__handler__death__aura_html"><div class="ttname"><a href="../../df/de3/classspell__novos__crystal__handler__death__aura.html">spell_novos_crystal_handler_death_aura</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:313</div></div>
+<div class="ttc" id="aclassspell__novos__despawn__crystal__handler_html"><div class="ttname"><a href="../../d0/d84/classspell__novos__despawn__crystal__handler.html">spell_novos_despawn_crystal_handler</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:291</div></div>
+<div class="ttc" id="aclassspell__novos__summon__minions_html"><div class="ttname"><a href="../../d3/d78/classspell__novos__summon__minions.html">spell_novos_summon_minions</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:331</div></div>
+<div class="ttc" id="adrak__tharon__keep_8h_html_a95ecd117622c8a20080e40c39a26974e"><div class="ttname"><a href="../../d7/d4a/drak__tharon__keep_8h.html#a95ecd117622c8a20080e40c39a26974e">GetDraktharonKeepAI</a></div><div class="ttdeci">AI * GetDraktharonKeepAI(T *obj)</div><div class="ttdef"><b>Definition</b> drak_tharon_keep.h:60</div></div>
+<div class="ttc" id="astructboss__novos_html"><div class="ttname"><a href="../../df/d7f/structboss__novos.html">boss_novos</a></div><div class="ttdef"><b>Definition</b> boss_novos.cpp:82</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00060">GetDraktharonKeepAI()</a>, <a class="el" href="../../#l00081">RegisterCreatureAIWithFactory</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
@@ -442,7 +442,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   77</span>    { <a class="code hl_enumvalue" href="../../d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971">ROOM_STAIRS</a>,  { <a class="code hl_enumvalue" href="../../d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a184ab33dcebe153863959d30c3e09f91">NPC_CRYSTAL_CHANNEL_TARGET</a>,           { -378.40f, -813.13f, 59.74f, 0.0f } } },</div>
 <div class="line"><span class="lineno">   78</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00123">boss_novos::boss_novosAI::JustEngagedWith()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00119">boss_novos::JustEngagedWith()</a>.</p>
 
 </div>
 </div>
@@ -452,7 +452,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_f6031702e2b504d935bb677a6d4d89df.html">DraktharonKeep</a></li><li class="navelem"><a class="el" href="../../d2/d5b/boss__novos_8cpp.html">boss_novos.cpp</a></li>
-    <li class="footer">Generated on Sat Nov 15 2025 06:22:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Nov 16 2025 06:23:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

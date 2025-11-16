@@ -649,7 +649,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  348</span>    }</div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a></div><div class="ttdeci">@ Random</div></div>
 <div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:76</div></div>
-<div class="ttc" id="aclassCreatureAI_html_afdeeccb48c5f74120d0fffe2a631a88a"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a">CreatureAI::DoZoneInCombat</a></div><div class="ttdeci">void DoZoneInCombat(Creature *creature=nullptr, float maxRangeToNearestTarget=250.0f)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:113</div></div>
+<div class="ttc" id="aclassCreatureAI_html_afdeeccb48c5f74120d0fffe2a631a88a"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#afdeeccb48c5f74120d0fffe2a631a88a">CreatureAI::DoZoneInCombat</a></div><div class="ttdeci">void DoZoneInCombat(Creature *creature=nullptr, float maxRangeToNearestTarget=250.0f)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:103</div></div>
 <div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:421</div></div>
 <div class="ttc" id="aclassTaskContext_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:493</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:232</div></div>
@@ -658,7 +658,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a3b4dad985e3b5dde28d89afc956999e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a3b4dad985e3b5dde28d89afc956999e4">Unit::AddThreat</a></div><div class="ttdeci">void AddThreat(Unit *victim, float fThreat, SpellSchoolMask schoolMask=SPELL_SCHOOL_MASK_NORMAL, SpellInfo const *threatSpell=nullptr)</div><div class="ttdef"><b>Definition</b> Unit.cpp:14683</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:886</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l14683">Unit::AddThreat()</a>, <a class="el" href="../../#l00113">CreatureAI::DoZoneInCombat()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l14683">Unit::AddThreat()</a>, <a class="el" href="../../#l00103">CreatureAI::DoZoneInCombat()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00110">UnitAI::SelectTarget()</a>.</p>
 
 </div>
 </div>
@@ -696,11 +696,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  355</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff,</div>
 <div class="line"><span class="lineno">  356</span>            std::bind(&amp;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">ScriptedAI::DoMeleeAttackIfReady</a>, <span class="keyword">this</span>));</div>
 <div class="line"><span class="lineno">  357</span>    }</div>
-<div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:287</div></div>
+<div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:277</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:27</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l00027">TaskScheduler::Update()</a>, and <a class="el" href="../../#l00287">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l00027">TaskScheduler::Update()</a>, and <a class="el" href="../../#l00277">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -713,7 +713,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d99/structnpc__malchezaar__axe.html">npc_malchezaar_axe</a></li>
-    <li class="footer">Generated on Sat Nov 15 2025 06:23:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Nov 16 2025 06:23:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

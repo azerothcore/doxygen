@@ -1,7 +1,6 @@
 var boss__novos_8cpp =
 [
-    [ "boss_novos", "dc/d20/classboss__novos.html", "dc/d20/classboss__novos" ],
-    [ "boss_novos::boss_novosAI", "de/d11/structboss__novos_1_1boss__novosAI.html", "de/d11/structboss__novos_1_1boss__novosAI" ],
+    [ "boss_novos", "df/d7f/structboss__novos.html", "df/d7f/structboss__novos" ],
     [ "spell_novos_despawn_crystal_handler", "d0/d84/classspell__novos__despawn__crystal__handler.html", "d0/d84/classspell__novos__despawn__crystal__handler" ],
     [ "spell_novos_crystal_handler_death_aura", "df/de3/classspell__novos__crystal__handler__death__aura.html", "df/de3/classspell__novos__crystal__handler__death__aura" ],
     [ "spell_novos_summon_minions", "d3/d78/classspell__novos__summon__minions.html", "d3/d78/classspell__novos__summon__minions" ],
