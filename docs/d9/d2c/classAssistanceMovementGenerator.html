@@ -248,12 +248,12 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d3/d7d/classMovementGenerator.html#aef4cf800aa06dddac4efd36e3c058d2b">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  229</span>{</div>
-<div class="line"><span class="lineno">  230</span>    unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ae0de152b2fd7b000237f2e6f8d7bfc6e">SetNoCallAssistance</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  231</span>    unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a1b526d2bc3cefab6bd3ffb66c089fb82">CallAssistance</a>();</div>
-<div class="line"><span class="lineno">  232</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  233</span>        unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#aa33aae46469398e0769ea44a4a28cb80">MoveSeekAssistanceDistract</a>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af3f532ca5d168ab3f4212ee721715aee">CONFIG_CREATURE_FAMILY_ASSISTANCE_DELAY</a>));</div>
-<div class="line"><span class="lineno">  234</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  234</span>{</div>
+<div class="line"><span class="lineno">  235</span>    unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ae0de152b2fd7b000237f2e6f8d7bfc6e">SetNoCallAssistance</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  236</span>    unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a1b526d2bc3cefab6bd3ffb66c089fb82">CallAssistance</a>();</div>
+<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  238</span>        unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../de/d3b/classMotionMaster.html#aa33aae46469398e0769ea44a4a28cb80">MoveSeekAssistanceDistract</a>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af3f532ca5d168ab3f4212ee721715aee">CONFIG_CREATURE_FAMILY_ASSISTANCE_DELAY</a>));</div>
+<div class="line"><span class="lineno">  239</span>}</div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0af3f532ca5d168ab3f4212ee721715aee"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af3f532ca5d168ab3f4212ee721715aee">CONFIG_CREATURE_FAMILY_ASSISTANCE_DELAY</a></div><div class="ttdeci">@ CONFIG_CREATURE_FAMILY_ASSISTANCE_DELAY</div><div class="ttdef"><b>Definition</b> WorldConfig.h:235</div></div>
 <div class="ttc" id="aclassCreature_html_a1b526d2bc3cefab6bd3ffb66c089fb82"><div class="ttname"><a href="../../db/dd5/classCreature.html#a1b526d2bc3cefab6bd3ffb66c089fb82">Creature::CallAssistance</a></div><div class="ttdeci">void CallAssistance(Unit *target=nullptr)</div><div class="ttdef"><b>Definition</b> Creature.cpp:2437</div></div>
 <div class="ttc" id="aclassCreature_html_ae0de152b2fd7b000237f2e6f8d7bfc6e"><div class="ttname"><a href="../../db/dd5/classCreature.html#ae0de152b2fd7b000237f2e6f8d7bfc6e">Creature::SetNoCallAssistance</a></div><div class="ttdeci">void SetNoCallAssistance(bool val)</div><div class="ttdef"><b>Definition</b> Creature.h:271</div></div>
@@ -308,7 +308,7 @@ Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d2c/classAssistanceMovementGenerator.html">AssistanceMovementGenerator</a></li>
-    <li class="footer">Generated on Sun Nov 16 2025 06:23:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Nov 17 2025 06:25:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

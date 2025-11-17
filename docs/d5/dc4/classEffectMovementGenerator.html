@@ -227,25 +227,25 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d3/d7d/classMovementGenerator.html#aef4cf800aa06dddac4efd36e3c058d2b">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  247</span>{</div>
-<div class="line"><span class="lineno">  248</span>    <span class="keywordflow">if</span> (!unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
-<div class="line"><span class="lineno">  249</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  250</span> </div>
-<div class="line"><span class="lineno">  251</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>) &amp;&amp; unit-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a3a545d6194fd1684261a75545ec6a171">isFalling</a>()) <span class="comment">// pussywizard</span></div>
-<div class="line"><span class="lineno">  252</span>        unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>);</div>
-<div class="line"><span class="lineno">  253</span> </div>
-<div class="line"><span class="lineno">  254</span>    <span class="comment">// Need restore previous movement since we have no proper states system</span></div>
-<div class="line"><span class="lineno">  255</span>    <span class="comment">//if (unit-&gt;IsAlive() &amp;&amp; !unit-&gt;HasUnitState(UNIT_STATE_CONFUSED | UNIT_STATE_FLEEING))</span></div>
-<div class="line"><span class="lineno">  256</span>    <span class="comment">//{</span></div>
-<div class="line"><span class="lineno">  257</span>    <span class="comment">//    if (Unit* victim = unit-&gt;GetVictim())</span></div>
-<div class="line"><span class="lineno">  258</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;MoveChase(victim);</span></div>
-<div class="line"><span class="lineno">  259</span>    <span class="comment">//    else</span></div>
-<div class="line"><span class="lineno">  260</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;Initialize();</span></div>
-<div class="line"><span class="lineno">  261</span>    <span class="comment">//}</span></div>
-<div class="line"><span class="lineno">  262</span> </div>
-<div class="line"><span class="lineno">  263</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  264</span>        unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ab0438b14dc1d7f038221d9d7a2f37043">MovementInform</a>(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d5/dc4/classEffectMovementGenerator.html#a56f483336fe5c86c6d186ec4d7772d4b">m_Id</a>);</div>
-<div class="line"><span class="lineno">  265</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{</div>
+<div class="line"><span class="lineno">  253</span>    <span class="keywordflow">if</span> (!unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>())</div>
+<div class="line"><span class="lineno">  254</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  255</span> </div>
+<div class="line"><span class="lineno">  256</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>) &amp;&amp; unit-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a3a545d6194fd1684261a75545ec6a171">isFalling</a>()) <span class="comment">// pussywizard</span></div>
+<div class="line"><span class="lineno">  257</span>        unit-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#abeb7f8bf0fe8c1e6ee5b5758f1b044b6">RemoveUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a>);</div>
+<div class="line"><span class="lineno">  258</span> </div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// Need restore previous movement since we have no proper states system</span></div>
+<div class="line"><span class="lineno">  260</span>    <span class="comment">//if (unit-&gt;IsAlive() &amp;&amp; !unit-&gt;HasUnitState(UNIT_STATE_CONFUSED | UNIT_STATE_FLEEING))</span></div>
+<div class="line"><span class="lineno">  261</span>    <span class="comment">//{</span></div>
+<div class="line"><span class="lineno">  262</span>    <span class="comment">//    if (Unit* victim = unit-&gt;GetVictim())</span></div>
+<div class="line"><span class="lineno">  263</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;MoveChase(victim);</span></div>
+<div class="line"><span class="lineno">  264</span>    <span class="comment">//    else</span></div>
+<div class="line"><span class="lineno">  265</span>    <span class="comment">//        unit-&gt;GetMotionMaster()-&gt;Initialize();</span></div>
+<div class="line"><span class="lineno">  266</span>    <span class="comment">//}</span></div>
+<div class="line"><span class="lineno">  267</span> </div>
+<div class="line"><span class="lineno">  268</span>    <span class="keywordflow">if</span> (unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  269</span>        unit-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ab0438b14dc1d7f038221d9d7a2f37043">MovementInform</a>(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d5/dc4/classEffectMovementGenerator.html#a56f483336fe5c86c6d186ec4d7772d4b">m_Id</a>);</div>
+<div class="line"><span class="lineno">  270</span>}</div>
 <div class="ttc" id="aMotionMaster_8h_html_a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac">EFFECT_MOTION_TYPE</a></div><div class="ttdeci">@ EFFECT_MOTION_TYPE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:56</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9daa6566f4343ab1e0e02ec416a01c328c1">MOVEMENTFLAG_FALLING</a></div><div class="ttdeci">@ MOVEMENTFLAG_FALLING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:381</div></div>
 <div class="ttc" id="aclassCreatureAI_html_ab0438b14dc1d7f038221d9d7a2f37043"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ab0438b14dc1d7f038221d9d7a2f37043">CreatureAI::MovementInform</a></div><div class="ttdeci">virtual void MovementInform(uint32, uint32)</div><div class="ttdef"><b>Definition</b> CreatureAI.h:161</div></div>
@@ -316,9 +316,9 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d3/d7d/classMovementGenerator.html#a0040e427ac4a09273641a96a13fd4c1f">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  242</span>{</div>
-<div class="line"><span class="lineno">  243</span>    <a class="code hl_variable" href="../../d5/dc4/classEffectMovementGenerator.html#a35b92e440aa2af623f62d4fe8ecf216e">i_spline</a>.<a class="code hl_function" href="../../d4/d99/classMovement_1_1MoveSplineInit.html#a2e051b61f93da4f17e918c7a93f26f18">Launch</a>();</div>
-<div class="line"><span class="lineno">  244</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  247</span>{</div>
+<div class="line"><span class="lineno">  248</span>    <a class="code hl_variable" href="../../d5/dc4/classEffectMovementGenerator.html#a35b92e440aa2af623f62d4fe8ecf216e">i_spline</a>.<a class="code hl_function" href="../../d4/d99/classMovement_1_1MoveSplineInit.html#a2e051b61f93da4f17e918c7a93f26f18">Launch</a>();</div>
+<div class="line"><span class="lineno">  249</span>}</div>
 <div class="ttc" id="aclassMovement_1_1MoveSplineInit_html_a2e051b61f93da4f17e918c7a93f26f18"><div class="ttname"><a href="../../d4/d99/classMovement_1_1MoveSplineInit.html#a2e051b61f93da4f17e918c7a93f26f18">Movement::MoveSplineInit::Launch</a></div><div class="ttdeci">int32 Launch()</div><div class="ttdef"><b>Definition</b> MoveSplineInit.cpp:59</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00087">i_spline</a>, and <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>.</p>
@@ -389,9 +389,9 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d3/d7d/classMovementGenerator.html#ae3014d8c6e728799c86134ef64737ed5">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
-<div class="line"><span class="lineno">  238</span>    <span class="keywordflow">return</span> !unit-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>();</div>
-<div class="line"><span class="lineno">  239</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>{</div>
+<div class="line"><span class="lineno">  243</span>    <span class="keywordflow">return</span> !unit-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>();</div>
+<div class="line"><span class="lineno">  244</span>}</div>
 <div class="ttc" id="aclassMovement_1_1MoveSpline_html_a4c375981abbfa1ea7335cd9369fd93f6"><div class="ttname"><a href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Movement::MoveSpline::Finalized</a></div><div class="ttdeci">bool Finalized() const</div><div class="ttdef"><b>Definition</b> MoveSpline.h:116</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSpline::Finalized()</a>, and <a class="el" href="../../#l02071">Unit::movespline</a>.</p>
@@ -419,7 +419,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00241">Initialize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">Initialize()</a>.</p>
 
 </div>
 </div>
@@ -443,7 +443,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00246">Finalize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00251">Finalize()</a>.</p>
 
 </div>
 </div>
@@ -457,7 +457,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dc4/classEffectMovementGenerator.html">EffectMovementGenerator</a></li>
-    <li class="footer">Generated on Sun Nov 16 2025 06:23:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Nov 17 2025 06:26:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

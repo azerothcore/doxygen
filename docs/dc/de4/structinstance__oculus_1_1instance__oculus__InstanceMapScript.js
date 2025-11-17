@@ -5,7 +5,7 @@ var structinstance__oculus_1_1instance__oculus__InstanceMapScript =
     [ "GetData", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
     [ "GetGuidData", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ac969f1faf18633ad54354015fb66f4f8", null ],
     [ "Initialize", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1c035ca450efdd89481715bd09c6c38c", null ],
-    [ "OnCreatureCreate", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1b0553334dc2d00fd12512dae373039a", null ],
+    [ "OnCreatureCreate", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ac5086f399b9d36769632a983890ed576", null ],
     [ "OnGameObjectCreate", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
     [ "OnPlayerEnter", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
     [ "OnUnitDeath", "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
