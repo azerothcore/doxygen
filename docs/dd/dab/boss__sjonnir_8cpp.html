@@ -153,6 +153,8 @@ Enumerations</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52">SPELL_LIGHTNING_RING</a> = 50840
 , <br />
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303">SPELL_LIGHTNING_RING_5S</a> = 51849
+, <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca">SPELL_TOXIC_VOLLEY</a> = 50838
 , <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a> = 50895
@@ -162,8 +164,6 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="separator:a5bd342133be8c2137b831460acc9298c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8d8031a9ef6bd14633aa0a1bc87e2753" id="r_a8d8031a9ef6bd14633aa0a1bc87e2753"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753">Npc</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e">NPC_IRON_SLUDGE</a> = 28165
-, <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7">NPC_DWARFES_FRIENDLY</a> = 27980
 , <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a">NPC_OOZE</a> = 27981
@@ -184,20 +184,6 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="separator:a34a1b224b8db54cacd01d75b910f04e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af60e00b78607064c5be6aa9397ea49c1" id="r_af60e00b78607064c5be6aa9397ea49c1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1">Events</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234">EVENT_SHIELD</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f">EVENT_CHAIN_LIGHTNING</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15fd449824800ee330e1846c9354cf4a">EVENT_STATIC_CHARGE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0627f52b0b93fc7074b654a337a17bd6">EVENT_LIGHTNING_RING</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64">EVENT_CHECK_HEALTH</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a">EVENT_SUMMON</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a175b0419e206e0ea3dec943abebd161a">EVENT_SUMMON_SPEACH</a> = 7
-, <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401">EVENT_MALFORMED_OOZE_CHECK</a> = 10
 , <br />
 &#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631">EVENT_TOXIC_VOLLEY</a> = 11
@@ -208,26 +194,21 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:af60e00b78607064c5be6aa9397ea49c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3329d9d369a4ae5cfa5d8eac33a0c0c6" id="r_a3329d9d369a4ae5cfa5d8eac33a0c0c6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6">Misc</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40">POS_GEN_RIGHT</a> = 0
+<tr class="memitem:a03ee9631d7a410d73efbaf3988702dd0" id="r_a03ee9631d7a410d73efbaf3988702dd0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0">SjonnirMisc</a> { <br />
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a6dc508225771ca5a82d845fa03e3b92f">GROUP_SUMMONS</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405">POS_GEN_LEFT</a> = 1
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a">GROUP_LIGHTNING_RING</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6">POS_ROOM_CENTER</a> = 2
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a271e43932471a7871705af2acd497c40">POS_GEN_RIGHT</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73">ACTION_SLUG_KILLED</a> = 1
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a10b02b4b34715f10e20e08a82d743405">POS_GEN_LEFT</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a8e37850773157b4f73d7ea6ccc5c4ca6">POS_ROOM_CENTER</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73">ACTION_SLUG_KILLED</a> = 1
 <br />
  }</td></tr>
-<tr class="separator:a3329d9d369a4ae5cfa5d8eac33a0c0c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae850a766a253bbfc7c0550887ebf7fa5" id="r_ae850a766a253bbfc7c0550887ebf7fa5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5">SummonPhases</a> { <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039">PHASE_SUMMON_UNFRIENDLY_DWARFES</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146">PHASE_SUMMON_OOZE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f">PHASE_SUMMON_FRIENDLY_DWARFES</a> = 2
-<br />
- }</td></tr>
-<tr class="separator:ae850a766a253bbfc7c0550887ebf7fa5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a03ee9631d7a410d73efbaf3988702dd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -252,77 +233,22 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234" name="af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234"></a>EVENT_SHIELD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f" name="af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f"></a>EVENT_CHAIN_LIGHTNING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a15fd449824800ee330e1846c9354cf4a" name="af60e00b78607064c5be6aa9397ea49c1a15fd449824800ee330e1846c9354cf4a"></a>EVENT_STATIC_CHARGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a0627f52b0b93fc7074b654a337a17bd6" name="af60e00b78607064c5be6aa9397ea49c1a0627f52b0b93fc7074b654a337a17bd6"></a>EVENT_LIGHTNING_RING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64" name="af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64"></a>EVENT_CHECK_HEALTH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a" name="af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a"></a>EVENT_SUMMON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a175b0419e206e0ea3dec943abebd161a" name="af60e00b78607064c5be6aa9397ea49c1a175b0419e206e0ea3dec943abebd161a"></a>EVENT_SUMMON_SPEACH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401" name="af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401"></a>EVENT_MALFORMED_OOZE_CHECK&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401" name="af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401"></a>EVENT_MALFORMED_OOZE_CHECK&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631" name="af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631"></a>EVENT_TOXIC_VOLLEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74" name="af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74"></a>EVENT_FORGED_LIGHTNING_SHOCK&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848" name="af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848"></a>EVENT_FORGED_LIGHTNING_TETHER&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <span class="comment">// SJONNIR</span></div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234">EVENT_SHIELD</a>                            = 1,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f">EVENT_CHAIN_LIGHTNING</a>                   = 2,</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15fd449824800ee330e1846c9354cf4a">EVENT_STATIC_CHARGE</a>                     = 3,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0627f52b0b93fc7074b654a337a17bd6">EVENT_LIGHTNING_RING</a>                    = 4,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64">EVENT_CHECK_HEALTH</a>                      = 5,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a">EVENT_SUMMON</a>                            = 6,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a175b0419e206e0ea3dec943abebd161a">EVENT_SUMMON_SPEACH</a>                     = 7,</div>
-<div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>    <span class="comment">// TRASH</span></div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401">EVENT_MALFORMED_OOZE_CHECK</a>              = 10,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631">EVENT_TOXIC_VOLLEY</a>                      = 11,</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74">EVENT_FORGED_LIGHTNING_SHOCK</a>            = 12,</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848">EVENT_FORGED_LIGHTNING_TETHER</a>           = 13,</div>
-<div class="line"><span class="lineno">   74</span>};</div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a009ff3dd3a834eca415ba266c513203f">EVENT_CHAIN_LIGHTNING</a></div><div class="ttdeci">@ EVENT_CHAIN_LIGHTNING</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:62</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a0627f52b0b93fc7074b654a337a17bd6"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0627f52b0b93fc7074b654a337a17bd6">EVENT_LIGHTNING_RING</a></div><div class="ttdeci">@ EVENT_LIGHTNING_RING</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:64</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401">EVENT_MALFORMED_OOZE_CHECK</a></div><div class="ttdeci">@ EVENT_MALFORMED_OOZE_CHECK</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:70</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a15fd449824800ee330e1846c9354cf4a"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15fd449824800ee330e1846c9354cf4a">EVENT_STATIC_CHARGE</a></div><div class="ttdeci">@ EVENT_STATIC_CHARGE</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:63</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a175b0419e206e0ea3dec943abebd161a"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a175b0419e206e0ea3dec943abebd161a">EVENT_SUMMON_SPEACH</a></div><div class="ttdeci">@ EVENT_SUMMON_SPEACH</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:67</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74">EVENT_FORGED_LIGHTNING_SHOCK</a></div><div class="ttdeci">@ EVENT_FORGED_LIGHTNING_SHOCK</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:72</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848">EVENT_FORGED_LIGHTNING_TETHER</a></div><div class="ttdeci">@ EVENT_FORGED_LIGHTNING_TETHER</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:73</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64">EVENT_CHECK_HEALTH</a></div><div class="ttdeci">@ EVENT_CHECK_HEALTH</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:65</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a86aa791b4d2653024f1d027666b27234">EVENT_SHIELD</a></div><div class="ttdeci">@ EVENT_SHIELD</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:61</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a">EVENT_SUMMON</a></div><div class="ttdeci">@ EVENT_SUMMON</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:66</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631">EVENT_TOXIC_VOLLEY</a></div><div class="ttdeci">@ EVENT_TOXIC_VOLLEY</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:71</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3329d9d369a4ae5cfa5d8eac33a0c0c6">&#9670;&#160;</a></span>Misc</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d9/dc7/boss__tomb__of__seven_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6">Misc</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40"></a>POS_GEN_RIGHT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405"></a>POS_GEN_LEFT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6"></a>POS_ROOM_CENTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73" name="a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73"></a>ACTION_SLUG_KILLED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40">POS_GEN_RIGHT</a>                           = 0,</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405">POS_GEN_LEFT</a>                            = 1,</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6">POS_ROOM_CENTER</a>                         = 2,</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>    <span class="comment">// ACTIONS</span></div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73">ACTION_SLUG_KILLED</a>                      = 1,</div>
-<div class="line"><span class="lineno">   84</span>};</div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a10b02b4b34715f10e20e08a82d743405">POS_GEN_LEFT</a></div><div class="ttdeci">@ POS_GEN_LEFT</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:79</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a271e43932471a7871705af2acd497c40">POS_GEN_RIGHT</a></div><div class="ttdeci">@ POS_GEN_RIGHT</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:78</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e37850773157b4f73d7ea6ccc5c4ca6">POS_ROOM_CENTER</a></div><div class="ttdeci">@ POS_ROOM_CENTER</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:80</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeca118dfbba4543510432310054d2c73">ACTION_SLUG_KILLED</a></div><div class="ttdeci">@ ACTION_SLUG_KILLED</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:83</div></div>
+<div class="line"><span class="lineno">   60</span>    <span class="comment">// TRASH</span></div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401">EVENT_MALFORMED_OOZE_CHECK</a>              = 10,</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631">EVENT_TOXIC_VOLLEY</a>                      = 11,</div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74">EVENT_FORGED_LIGHTNING_SHOCK</a>            = 12,</div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848">EVENT_FORGED_LIGHTNING_TETHER</a>           = 13,</div>
+<div class="line"><span class="lineno">   65</span>};</div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401">EVENT_MALFORMED_OOZE_CHECK</a></div><div class="ttdeci">@ EVENT_MALFORMED_OOZE_CHECK</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:61</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74">EVENT_FORGED_LIGHTNING_SHOCK</a></div><div class="ttdeci">@ EVENT_FORGED_LIGHTNING_SHOCK</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:63</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848">EVENT_FORGED_LIGHTNING_TETHER</a></div><div class="ttdeci">@ EVENT_FORGED_LIGHTNING_TETHER</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:64</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631">EVENT_TOXIC_VOLLEY</a></div><div class="ttdeci">@ EVENT_TOXIC_VOLLEY</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:62</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -338,14 +264,12 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e" name="a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e"></a>NPC_IRON_SLUDGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7" name="a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7"></a>NPC_DWARFES_FRIENDLY&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7" name="a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7"></a>NPC_DWARFES_FRIENDLY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a" name="a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a"></a>NPC_OOZE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591" name="a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591"></a>NPC_FORGED_IRON_DWARF&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280" name="a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280"></a>NPC_FORGED_IRON_TROGG&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e">NPC_IRON_SLUDGE</a>                         = 28165, <span class="comment">// if 2 ooze then spawn 1 iron_sludge</span></div>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
 <div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7">NPC_DWARFES_FRIENDLY</a>                    = 27980, <span class="comment">//after fix the machine by Brann</span></div>
 <div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a">NPC_OOZE</a>                                = 27981, <span class="comment">//spawn after killing dwarf</span></div>
 <div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591">NPC_FORGED_IRON_DWARF</a>                   = 27982,</div>
@@ -354,8 +278,46 @@ Variables</h2></td></tr>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7">NPC_DWARFES_FRIENDLY</a></div><div class="ttdeci">@ NPC_DWARFES_FRIENDLY</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:45</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591">NPC_FORGED_IRON_DWARF</a></div><div class="ttdeci">@ NPC_FORGED_IRON_DWARF</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:47</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a">NPC_OOZE</a></div><div class="ttdeci">@ NPC_OOZE</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:46</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e">NPC_IRON_SLUDGE</a></div><div class="ttdeci">@ NPC_IRON_SLUDGE</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:44</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280">NPC_FORGED_IRON_TROGG</a></div><div class="ttdeci">@ NPC_FORGED_IRON_TROGG</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:48</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a03ee9631d7a410d73efbaf3988702dd0" name="a03ee9631d7a410d73efbaf3988702dd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03ee9631d7a410d73efbaf3988702dd0">&#9670;&#160;</a></span>SjonnirMisc</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0">SjonnirMisc</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a03ee9631d7a410d73efbaf3988702dd0a6dc508225771ca5a82d845fa03e3b92f" name="a03ee9631d7a410d73efbaf3988702dd0a6dc508225771ca5a82d845fa03e3b92f"></a>GROUP_SUMMONS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a" name="a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a"></a>GROUP_LIGHTNING_RING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03ee9631d7a410d73efbaf3988702dd0a271e43932471a7871705af2acd497c40" name="a03ee9631d7a410d73efbaf3988702dd0a271e43932471a7871705af2acd497c40"></a>POS_GEN_RIGHT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03ee9631d7a410d73efbaf3988702dd0a10b02b4b34715f10e20e08a82d743405" name="a03ee9631d7a410d73efbaf3988702dd0a10b02b4b34715f10e20e08a82d743405"></a>POS_GEN_LEFT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03ee9631d7a410d73efbaf3988702dd0a8e37850773157b4f73d7ea6ccc5c4ca6" name="a03ee9631d7a410d73efbaf3988702dd0a8e37850773157b4f73d7ea6ccc5c4ca6"></a>POS_ROOM_CENTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73" name="a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73"></a>ACTION_SLUG_KILLED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a6dc508225771ca5a82d845fa03e3b92f">GROUP_SUMMONS</a>                           = 1,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a">GROUP_LIGHTNING_RING</a>                    = 2,</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a271e43932471a7871705af2acd497c40">POS_GEN_RIGHT</a>                           = 0,</div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a10b02b4b34715f10e20e08a82d743405">POS_GEN_LEFT</a>                            = 1,</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a8e37850773157b4f73d7ea6ccc5c4ca6">POS_ROOM_CENTER</a>                         = 2,</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>    <span class="comment">// ACTIONS</span></div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73">ACTION_SLUG_KILLED</a>                      = 1,</div>
+<div class="line"><span class="lineno">   78</span>};</div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a">GROUP_LIGHTNING_RING</a></div><div class="ttdeci">@ GROUP_LIGHTNING_RING</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:70</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a03ee9631d7a410d73efbaf3988702dd0a10b02b4b34715f10e20e08a82d743405"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a10b02b4b34715f10e20e08a82d743405">POS_GEN_LEFT</a></div><div class="ttdeci">@ POS_GEN_LEFT</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:73</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a03ee9631d7a410d73efbaf3988702dd0a271e43932471a7871705af2acd497c40"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a271e43932471a7871705af2acd497c40">POS_GEN_RIGHT</a></div><div class="ttdeci">@ POS_GEN_RIGHT</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:72</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a03ee9631d7a410d73efbaf3988702dd0a6dc508225771ca5a82d845fa03e3b92f"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a6dc508225771ca5a82d845fa03e3b92f">GROUP_SUMMONS</a></div><div class="ttdeci">@ GROUP_SUMMONS</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:69</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a03ee9631d7a410d73efbaf3988702dd0a8e37850773157b4f73d7ea6ccc5c4ca6"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a8e37850773157b4f73d7ea6ccc5c4ca6">POS_ROOM_CENTER</a></div><div class="ttdeci">@ POS_ROOM_CENTER</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:74</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0aeca118dfbba4543510432310054d2c73">ACTION_SLUG_KILLED</a></div><div class="ttdeci">@ ACTION_SLUG_KILLED</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:77</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -376,6 +338,7 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07" name="a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07"></a>SPELL_LIGHTNING_SHIELD&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0" name="a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0"></a>SPELL_STATIC_CHARGE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52" name="a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52"></a>SPELL_LIGHTNING_RING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303" name="a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303"></a>SPELL_LIGHTNING_RING_5S&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca" name="a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca"></a>SPELL_TOXIC_VOLLEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34" name="a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34"></a>SPELL_LIGHTNING_TETHER&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9" name="a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9"></a>SPELL_LIGHTNING_SHOCK&#160;</td><td class="fielddoc"></td></tr>
@@ -387,51 +350,26 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07">SPELL_LIGHTNING_SHIELD</a>                  = 50831,</div>
 <div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0">SPELL_STATIC_CHARGE</a>                     = 50834,</div>
 <div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52">SPELL_LIGHTNING_RING</a>                    = 50840,</div>
-<div class="line"><span class="lineno">   31</span> </div>
-<div class="line"><span class="lineno">   32</span>    <span class="comment">// IRON SLUDGE</span></div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca">SPELL_TOXIC_VOLLEY</a>                      = 50838,</div>
-<div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <span class="comment">// FORGED IRON DWARF</span></div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a>                  = 50895,</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <span class="comment">// FORGED IRON TROGG</span></div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a>                   = 50900,</div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a></div><div class="ttdeci">@ SPELL_LIGHTNING_SHOCK</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:39</div></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303">SPELL_LIGHTNING_RING_5S</a>                 = 51849,</div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>    <span class="comment">// IRON SLUDGE</span></div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca">SPELL_TOXIC_VOLLEY</a>                      = 50838,</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    <span class="comment">// FORGED IRON DWARF</span></div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a>                  = 50895,</div>
+<div class="line"><span class="lineno">   38</span> </div>
+<div class="line"><span class="lineno">   39</span>    <span class="comment">// FORGED IRON TROGG</span></div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a>                   = 50900,</div>
+<div class="line"><span class="lineno">   41</span>};</div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303">SPELL_LIGHTNING_RING_5S</a></div><div class="ttdeci">@ SPELL_LIGHTNING_RING_5S</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:31</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a></div><div class="ttdeci">@ SPELL_LIGHTNING_SHOCK</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:40</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a></div><div class="ttdeci">@ SPELL_FRENZY</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:26</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52">SPELL_LIGHTNING_RING</a></div><div class="ttdeci">@ SPELL_LIGHTNING_RING</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:30</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d">SPELL_CHAIN_LIGHTNING</a></div><div class="ttdeci">@ SPELL_CHAIN_LIGHTNING</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:27</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07">SPELL_LIGHTNING_SHIELD</a></div><div class="ttdeci">@ SPELL_LIGHTNING_SHIELD</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:28</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a></div><div class="ttdeci">@ SPELL_LIGHTNING_TETHER</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:36</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a></div><div class="ttdeci">@ SPELL_LIGHTNING_TETHER</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:37</div></div>
 <div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0">SPELL_STATIC_CHARGE</a></div><div class="ttdeci">@ SPELL_STATIC_CHARGE</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:29</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca">SPELL_TOXIC_VOLLEY</a></div><div class="ttdeci">@ SPELL_TOXIC_VOLLEY</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:33</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae850a766a253bbfc7c0550887ebf7fa5" name="ae850a766a253bbfc7c0550887ebf7fa5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae850a766a253bbfc7c0550887ebf7fa5">&#9670;&#160;</a></span>SummonPhases</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5">SummonPhases</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039" name="ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039"></a>PHASE_SUMMON_UNFRIENDLY_DWARFES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146" name="ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146"></a>PHASE_SUMMON_OOZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f" name="ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f"></a>PHASE_SUMMON_FRIENDLY_DWARFES&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039">PHASE_SUMMON_UNFRIENDLY_DWARFES</a>         = 0,</div>
-<div class="line"><span class="lineno">   89</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146">PHASE_SUMMON_OOZE</a>                       = 1,</div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_enumvalue" href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f">PHASE_SUMMON_FRIENDLY_DWARFES</a>           = 2,</div>
-<div class="line"><span class="lineno">   91</span>};</div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a100c1d39f5f9b0f7a63bcffb29a42039">PHASE_SUMMON_UNFRIENDLY_DWARFES</a></div><div class="ttdeci">@ PHASE_SUMMON_UNFRIENDLY_DWARFES</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:88</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5a645dc2a536c7ed3668d2a9d5f5d3c96f">PHASE_SUMMON_FRIENDLY_DWARFES</a></div><div class="ttdeci">@ PHASE_SUMMON_FRIENDLY_DWARFES</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:90</div></div>
-<div class="ttc" id="aboss__sjonnir_8cpp_html_ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#ae850a766a253bbfc7c0550887ebf7fa5acb6355525cd76d51e9fcf1360a5aa146">PHASE_SUMMON_OOZE</a></div><div class="ttdeci">@ PHASE_SUMMON_OOZE</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:89</div></div>
+<div class="ttc" id="aboss__sjonnir_8cpp_html_a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca"><div class="ttname"><a href="../../dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca">SPELL_TOXIC_VOLLEY</a></div><div class="ttdeci">@ SPELL_TOXIC_VOLLEY</div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:34</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -477,16 +415,16 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  508</span>{</div>
-<div class="line"><span class="lineno">  509</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d58/classboss__sjonnir.html">boss_sjonnir</a>();</div>
-<div class="line"><span class="lineno">  510</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d2a/classboss__sjonnir__dwarf.html">boss_sjonnir_dwarf</a>();</div>
-<div class="line"><span class="lineno">  511</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/da5/classboss__sjonnir__malformed__ooze.html">boss_sjonnir_malformed_ooze</a>();</div>
-<div class="line"><span class="lineno">  512</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d44/classboss__sjonnir__iron__sludge.html">boss_sjonnir_iron_sludge</a>();</div>
-<div class="line"><span class="lineno">  513</span>}</div>
-<div class="ttc" id="aclassboss__sjonnir__dwarf_html"><div class="ttname"><a href="../../df/d2a/classboss__sjonnir__dwarf.html">boss_sjonnir_dwarf</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:377</div></div>
-<div class="ttc" id="aclassboss__sjonnir__iron__sludge_html"><div class="ttname"><a href="../../dc/d44/classboss__sjonnir__iron__sludge.html">boss_sjonnir_iron_sludge</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:401</div></div>
-<div class="ttc" id="aclassboss__sjonnir__malformed__ooze_html"><div class="ttname"><a href="../../de/da5/classboss__sjonnir__malformed__ooze.html">boss_sjonnir_malformed_ooze</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:457</div></div>
-<div class="ttc" id="aclassboss__sjonnir_html"><div class="ttname"><a href="../../d7/d58/classboss__sjonnir.html">boss_sjonnir</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:101</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  397</span>{</div>
+<div class="line"><span class="lineno">  398</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d7/d58/classboss__sjonnir.html">boss_sjonnir</a>();</div>
+<div class="line"><span class="lineno">  399</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d2a/classboss__sjonnir__dwarf.html">boss_sjonnir_dwarf</a>();</div>
+<div class="line"><span class="lineno">  400</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/da5/classboss__sjonnir__malformed__ooze.html">boss_sjonnir_malformed_ooze</a>();</div>
+<div class="line"><span class="lineno">  401</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dc/d44/classboss__sjonnir__iron__sludge.html">boss_sjonnir_iron_sludge</a>();</div>
+<div class="line"><span class="lineno">  402</span>}</div>
+<div class="ttc" id="aclassboss__sjonnir__dwarf_html"><div class="ttname"><a href="../../df/d2a/classboss__sjonnir__dwarf.html">boss_sjonnir_dwarf</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:266</div></div>
+<div class="ttc" id="aclassboss__sjonnir__iron__sludge_html"><div class="ttname"><a href="../../dc/d44/classboss__sjonnir__iron__sludge.html">boss_sjonnir_iron_sludge</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:290</div></div>
+<div class="ttc" id="aclassboss__sjonnir__malformed__ooze_html"><div class="ttname"><a href="../../de/da5/classboss__sjonnir__malformed__ooze.html">boss_sjonnir_malformed_ooze</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:346</div></div>
+<div class="ttc" id="aclassboss__sjonnir_html"><div class="ttname"><a href="../../d7/d58/classboss__sjonnir.html">boss_sjonnir</a></div><div class="ttdef"><b>Definition</b> boss_sjonnir.cpp:88</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
@@ -518,13 +456,13 @@ Variables</h2></td></tr>
 <div class="line">    {1294.2f, 724.3f, 199.3f, 0.0f},</div>
 <div class="line">    {1295.2f, 667.1f, 189.7f, 0.0f},</div>
 <div class="line">}</div>
-</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    {1293.0f, 610.0f, 199.3f, 0.0f},</div>
-<div class="line"><span class="lineno">   96</span>    {1294.2f, 724.3f, 199.3f, 0.0f},</div>
-<div class="line"><span class="lineno">   97</span>    {1295.2f, 667.1f, 189.7f, 0.0f},</div>
-<div class="line"><span class="lineno">   98</span>};</div>
+</div><!-- fragment --><div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    {1293.0f, 610.0f, 199.3f, 0.0f},</div>
+<div class="line"><span class="lineno">   83</span>    {1294.2f, 724.3f, 199.3f, 0.0f},</div>
+<div class="line"><span class="lineno">   84</span>    {1295.2f, 667.1f, 189.7f, 0.0f},</div>
+<div class="line"><span class="lineno">   85</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00341">boss_sjonnir::boss_sjonnirAI::SummonDwarfes()</a>, and <a class="el" href="../../#l00191">boss_sjonnir::boss_sjonnirAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00103">boss_sjonnir::boss_sjonnirAI::Reset()</a>, and <a class="el" href="../../#l00185">boss_sjonnir::boss_sjonnirAI::ScheduleTasks()</a>.</p>
 
 </div>
 </div>
@@ -534,7 +472,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_fd35eb90f0e73b64930f951fffa7a603.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../dir_ba629fe3cce3d6c1ca366c03f65ff143.html">HallsOfStone</a></li><li class="navelem"><a class="el" href="../../dd/dab/boss__sjonnir_8cpp.html">boss_sjonnir.cpp</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 06:25:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Nov 18 2025 06:24:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,14 +1,5 @@
 var NAVTREEINDEX243 =
 {
-"d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#a9cbb42b4f29f94e41e80caccd87d95f4":[6,0,1205,0,4],
-"d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#adca817c8919958db888d5e9c759ad545":[6,0,1205,0,1],
-"d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1205,0,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,123],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,135],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,135,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,123,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,135,1],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
 "d9/dc5/classConfigValueCache.html":[6,0,898],
 "d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[6,0,898,3],
 "d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[6,0,898,7],
@@ -108,10 +99,10 @@ var NAVTREEINDEX243 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -249,5 +240,14 @@ var NAVTREEINDEX243 =
 "d9/dcc/classnpc__swarm__scarab.html":[6,0,2152],
 "d9/dcc/classnpc__swarm__scarab.html#a1d0969526e57ca50c9a499c83f978fd2":[6,0,2152,1],
 "d9/dcc/classnpc__swarm__scarab.html#ae12fe8a7c6ee09fc16bd152f59c2d936":[6,0,2152,2],
-"d9/dcc/classnpc__torturer__lecraft.html":[6,0,2203]
+"d9/dcc/classnpc__torturer__lecraft.html":[6,0,2203],
+"d9/dcc/classnpc__torturer__lecraft.html#a789f8bdafe96d5cb01225b940a80c651":[6,0,2203,1],
+"d9/dcc/classnpc__torturer__lecraft.html#abdc8b33cd820c5cd14c999e7407897fe":[6,0,2203,2],
+"d9/dcd/MapInstanced_8h.html":[7,0,0,0,1,2,26,6],
+"d9/dcd/classgo__mistwhisper__treasure.html":[6,0,1163],
+"d9/dcd/classgo__mistwhisper__treasure.html#a03b6b19faba005ced7ff921fdf8ab493":[6,0,1163,1],
+"d9/dcd/classgo__mistwhisper__treasure.html#a87c90caa9f6a628cb0eea3556b58449e":[6,0,1163,0],
+"d9/dcd/classnpc__fel__infernal.html":[6,0,1777],
+"d9/dcd/classnpc__fel__infernal.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9":[6,0,1777,1],
+"d9/dcd/classnpc__fel__infernal.html#a768201a7516c9972800c941cf2079a11":[6,0,1777,2]
 };

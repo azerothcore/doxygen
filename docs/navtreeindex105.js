@@ -1,12 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262acd49bbb4f1d46a41937f630742b27d5b":[7,0,0,0,1,3,10,10,54,15],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262acd5d057f236eec80c4ed9e732aabf4e9":[7,0,0,0,1,3,10,10,54,20],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262acf31a50ae47d735b787806828eea0490":[7,0,0,0,1,3,10,10,54,9],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ad0e5f0760bbbe402513f2e8de8b35559":[7,0,0,0,1,3,10,10,54,44],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262adaa34022f2e14866601be05b22b2589e":[7,0,0,0,1,3,10,10,54,18],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262adb261bb29e847fbbc35f360da3782b80":[7,0,0,0,1,3,10,10,54,1],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ae17efc245b03566a4fe9171673233d8d":[7,0,0,0,1,3,10,10,54,13],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ae43b25194f1870fd09e01409b55a9c98":[7,0,0,0,1,3,10,10,54,11],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262af069629eb382d4209fe7651027dc9bd6":[7,0,0,0,1,3,10,10,54,54],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262af4c7ef7cfe71f86b8abe426f47422825":[7,0,0,0,1,3,10,10,54,48],
@@ -249,5 +242,12 @@ var NAVTREEINDEX105 =
 "d3/da9/classWorldState.html#a25d76dc8d44bbde93e18c3c4879db191":[6,0,4323,20],
 "d3/da9/classWorldState.html#a2ea82fdf833a8154c0516288e92bce2a":[6,0,4323,15],
 "d3/da9/classWorldState.html#a3460a7a1de349125352363d135b036a5":[6,0,4323,43],
-"d3/da9/classWorldState.html#a36e088e8123065a055429e22d2e68190":[6,0,4323,5]
+"d3/da9/classWorldState.html#a36e088e8123065a055429e22d2e68190":[6,0,4323,5],
+"d3/da9/classWorldState.html#a37f7ef31ab254d4801e757bd52a4efa8":[6,0,4323,42],
+"d3/da9/classWorldState.html#a392dd15b70d42ff2ce9f74605d495513":[6,0,4323,71],
+"d3/da9/classWorldState.html#a43c0fb89d452d67fff79fe92070b831f":[6,0,4323,24],
+"d3/da9/classWorldState.html#a44c85c9b354d7e77c8661011168125ed":[6,0,4323,16],
+"d3/da9/classWorldState.html#a4d8d179e7211636c5cb406356cbc548e":[6,0,4323,9],
+"d3/da9/classWorldState.html#a513a4bd7d27428d4551cbbe0048dbeee":[6,0,4323,4],
+"d3/da9/classWorldState.html#a528f3b83ecaba4c1e99198340204b2b1":[6,0,4323,21]
 };

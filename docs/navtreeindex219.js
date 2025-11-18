@@ -1,14 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d7b/classRotateMovementGenerator.html#a8717e890670d9f4e2ff66c0981d14aa6":[6,0,2504,6],
-"d8/d7b/classRotateMovementGenerator.html#a89a6559b4380210972e82c6ca6d5a9db":[6,0,2504,0],
-"d8/d7b/classRotateMovementGenerator.html#afd7588c7877b116cc9626a774b89d584":[6,0,2504,1],
-"d8/d7b/classspell__gen__lifebloom.html":[6,0,2983],
-"d8/d7b/classspell__gen__lifebloom.html#a196484d01d2dc07163e18fdca9f60ca9":[6,0,2983,5],
-"d8/d7b/classspell__gen__lifebloom.html#a599634d92b92a5635b89733b7bb3c3c8":[6,0,2983,4],
-"d8/d7b/classspell__gen__lifebloom.html#a5cb52a4dda841d9d31fd00a31ddc3350":[6,0,2983,0],
-"d8/d7b/classspell__gen__lifebloom.html#ab4a552402ee9f90834320d6fc668cff3":[6,0,2983,3],
-"d8/d7b/classspell__gen__lifebloom.html#ac11134bdc3588795ce6e256c5b02055f":[6,0,2983,2],
 "d8/d7b/classspell__gen__lifebloom.html#aea962f603e56c1bd33fccaef0c89d917":[6,0,2983,1],
 "d8/d7c/classnpc__memory.html":[6,0,1961],
 "d8/d7c/classnpc__memory.html#acebf31813025d323f9486d6575a60483":[6,0,1961,1],
@@ -249,5 +240,14 @@ var NAVTREEINDEX219 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4237,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4237,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4237,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39]
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,31,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,6,39,1],
+"d8/d87/classboss__kelthuzad__minion.html":[6,0,571],
+"d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,571,1],
+"d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,571,2],
+"d8/d87/classnpc__garments__of__quests.html":[6,0,1803]
 };

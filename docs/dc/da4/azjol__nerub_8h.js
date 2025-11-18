@@ -7,7 +7,10 @@ var azjol__nerub_8h =
       [ "DATA_KRIKTHIR", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
       [ "DATA_HADRONOX", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
       [ "DATA_ANUBARAK", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea635a7e23dc02368d27e70d3dd833bdbf", null ],
-      [ "MAX_ENCOUNTERS", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+      [ "MAX_ENCOUNTERS", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ],
+      [ "DATA_GASHRA", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f", null ],
+      [ "DATA_NARJIL", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6", null ],
+      [ "DATA_SILTHIK", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea8cfb18f4044960fc20ceb21676d64eb2", null ]
     ] ],
     [ "ANIds", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
       [ "NPC_WATCHER_NARJIL", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],

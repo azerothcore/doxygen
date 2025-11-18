@@ -1,11 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[5,0,31,6,19,2],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[6,0,11,6,19,2],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#ac261ff0102489efb4d69bd866ffc9283":[5,0,31,6,19,1],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#ac261ff0102489efb4d69bd866ffc9283":[6,0,11,6,19,1],
-"dd/d14/classnpc__rotting__frost__giant.html":[6,0,2091],
-"dd/d14/classnpc__rotting__frost__giant.html#aabc388b3690f2d03e903c7f480d52842":[6,0,2091,2],
 "dd/d14/classnpc__rotting__frost__giant.html#ad4440216e11a00d97af43dc5f3957e95":[6,0,2091,1],
 "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI.html":[6,0,2080,0],
 "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI.html#aa7b4393b93be92fbb595648cede832be":[6,0,2080,0,1],
@@ -116,10 +110,10 @@ var NAVTREEINDEX321 =
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,67,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,67,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,55,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,55,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,55,1],
 "dd/d1b/classhonor__commandscript.html":[6,0,1269],
 "dd/d1b/classhonor__commandscript.html#a03caa77b436e3d513e1325badf05df33":[6,0,1269,2],
 "dd/d1b/classhonor__commandscript.html#a11831a3ea577f3f1e06fea3d0dbc0147":[6,0,1269,4],
@@ -249,5 +243,11 @@ var NAVTREEINDEX321 =
 "dd/d24/structArcherAI.html#aa6e072e239549d337de61670a05eb6f8":[6,0,159,3],
 "dd/d24/structArcherAI.html#ab449efcd81769888ff8d8bc5f348cbe7":[6,0,159,4],
 "dd/d24/structArcherAI.html#ac5b3d144b0d71a5e527d53f33c3d31cc":[6,0,159,2],
-"dd/d24/structArcherAI.html#adc79f7ead63ecaf8fed9ea4f81d27f76":[6,0,159,1]
+"dd/d24/structArcherAI.html#adc79f7ead63ecaf8fed9ea4f81d27f76":[6,0,159,1],
+"dd/d25/classGuildScript.html":[6,0,1256],
+"dd/d25/classGuildScript.html#a0231be74a2625a91fc617980dfc41ca3":[6,0,1256,13],
+"dd/d25/classGuildScript.html#a2309a1ae2828cb7c758a5cf0329f1f5a":[6,0,1256,9],
+"dd/d25/classGuildScript.html#a293f3d822ae075246f1a7552ce9b0424":[6,0,1256,1],
+"dd/d25/classGuildScript.html#a3ce284c112b61c6077b509d55a52f388":[6,0,1256,8],
+"dd/d25/classGuildScript.html#a503c5116512f8ac45506732674aa5635":[6,0,1256,11]
 };

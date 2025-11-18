@@ -1319,7 +1319,7 @@ var searchData=
   ['npc_5firon_5fhonor_5fguard_1316',['NPC_IRON_HONOR_GUARD',['../d0/d89/boss__thorim_8cpp.html#a8d65b997d4926d86b092417e5dccc11eab647179de05cf207bcf48c6d563c19d5',1,'boss_thorim.cpp']]],
   ['npc_5firon_5fring_5fguard_1317',['NPC_IRON_RING_GUARD',['../d0/d89/boss__thorim_8cpp.html#a8d65b997d4926d86b092417e5dccc11ea0ddbc0f5ebb947aa587ff9245323827f',1,'boss_thorim.cpp']]],
   ['npc_5firon_5froot_5ftrigger_1318',['NPC_IRON_ROOT_TRIGGER',['../df/d87/boss__freya_8cpp.html#aa06139b580815350880d7e3e9fa5184dacf784c8ccd699892a823f1ced8b97f3d',1,'boss_freya.cpp']]],
-  ['npc_5firon_5fsludge_1319',['NPC_IRON_SLUDGE',['../dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e',1,'boss_sjonnir.cpp']]],
+  ['npc_5firon_5fsludge_1319',['NPC_IRON_SLUDGE',['../d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a8ef27256382a54362848418fa570723e',1,'halls_of_stone.h']]],
   ['npc_5fironforge_5fminion_1320',['NPC_IRONFORGE_MINION',['../d3/d81/trial__of__the__champion_8h.html#aebe90f74b46b296e06e43901fec3d56ca8eb93a1e7dc54d7b3d56e10d06200919',1,'trial_of_the_champion.h']]],
   ['npc_5fironforge_5fram_1321',['NPC_IRONFORGE_RAM',['../d1/de4/spell__generic_8cpp.html#a5e89a524f9853b3a6ca26c8d6d80fd7aa765f964cd33a6eeb2cd7172ba41143d2',1,'spell_generic.cpp']]],
   ['npc_5fironforge_5freveler_1322',['NPC_IRONFORGE_REVELER',['../d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efa19b63e50c89c9e9eb12fe6a22108c967',1,'firework_show.h']]],

@@ -33,6 +33,7 @@ var halls__of__stone_8h =
       [ "NPC_ABEDNEUM", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235af1cdba2690be5588a967c9bd8f46815d", null ],
       [ "NPC_SJONNIR", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235ad018155cd74db3419f72fbf599cc6242", null ],
       [ "NPC_BRANN", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a557fa0e4f73adcfd231bf8165ef38c5c", null ],
+      [ "NPC_IRON_SLUDGE", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a8ef27256382a54362848418fa570723e", null ],
       [ "ACTION_START_ESCORT_EVENT", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a9570b7648c4d40979adcfb3e4be5c77e", null ],
       [ "ACTION_START_TRIBUNAL", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235aaab50cc86b2609c2e6881c53a236b9cf", null ],
       [ "ACTION_TRIBUNAL_WIPE_START", "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235acdbd4e60edd3d6915b166041b11de71e", null ],

@@ -1,12 +1,5 @@
 var NAVTREEINDEX74 =
 {
-"d2/dd6/classOutdoorPvP.html#aff00edc6783bc27182eb3f6b605ab2fe":[6,0,2342,13],
-"d2/dd6/classachievement__been__waiting__long__time.html":[6,0,35],
-"d2/dd6/classachievement__been__waiting__long__time.html#a5e72304220d3a649d2182cb287215da6":[6,0,35,1],
-"d2/dd6/classachievement__been__waiting__long__time.html#a839ec8cb50512bbae7125ead3ed35aec":[6,0,35,0],
-"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html":[6,0,3733],
-"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a047a1dd4bab33d7d5b2631c0862ba4b0":[6,0,3733,1],
-"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a0ced86fc2e108e7bba9727d26eac3ff3":[6,0,3733,2],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f":[6,0,3733,3],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a94993441ef94f84c85aa10c693cf34fe":[6,0,3733,0],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a964637541cd64e64b4e02c00d36abf2d":[6,0,3733,4],
@@ -18,8 +11,8 @@ var NAVTREEINDEX74 =
 "d2/dd7/RegularGrid_8h.html":[7,0,0,0,0,1,8],
 "d2/dd7/RegularGrid_8h.html#a7a4127f14f16563da90eb3c836bc404f":[7,0,0,0,0,1,8,4],
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
@@ -249,5 +242,12 @@ var NAVTREEINDEX74 =
 "d2/de9/classSpellInfo.html#a05440c40b5df16a65decb684f884d33b":[6,0,4099,161],
 "d2/de9/classSpellInfo.html#a058fff88ac7c8f681101c4d7999cce19":[6,0,4099,102],
 "d2/de9/classSpellInfo.html#a0696e18f727a511bfa4ac86a8c16b9f0":[6,0,4099,181],
-"d2/de9/classSpellInfo.html#a07eddba05562696df602a5e169caa7d3":[6,0,4099,7]
+"d2/de9/classSpellInfo.html#a07eddba05562696df602a5e169caa7d3":[6,0,4099,7],
+"d2/de9/classSpellInfo.html#a0971bddc1632a3bb857a6a802506abcd":[6,0,4099,191],
+"d2/de9/classSpellInfo.html#a0a651a1cf655c9d5619f6b78e471656a":[6,0,4099,96],
+"d2/de9/classSpellInfo.html#a0dc33b718ec58ac1064a403c29e98a17":[6,0,4099,38],
+"d2/de9/classSpellInfo.html#a0ddc3531aeb41a1fa93502d94621e025":[6,0,4099,171],
+"d2/de9/classSpellInfo.html#a0e4591c8f25d0186911111d9a8b3e160":[6,0,4099,150],
+"d2/de9/classSpellInfo.html#a13ea1f77e430e697e2ca7acc368d93e1":[6,0,4099,31],
+"d2/de9/classSpellInfo.html#a154f650ed5020b96a76cea54d31736af":[6,0,4099,192]
 };

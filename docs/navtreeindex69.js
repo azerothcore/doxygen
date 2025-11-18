@@ -1,12 +1,5 @@
 var NAVTREEINDEX69 =
 {
-"d2/d8f/structScriptInfo.html#a86eb75e36f4e997a03ecfea3aebc389c":[6,0,2518,46],
-"d2/d8f/structScriptInfo.html#a8b2d1002b689627ceebedfe1ead1aaa0":[6,0,2518,34],
-"d2/d8f/structScriptInfo.html#a8e7c61ffac670290464b0232430df05c":[6,0,2518,29],
-"d2/d8f/structScriptInfo.html#a8f47be670df5df4f42031aa4423e0cbe":[6,0,2518,42],
-"d2/d8f/structScriptInfo.html#a8fbae9e72a112c1c9f3440910b00f262":[6,0,2518,47],
-"d2/d8f/structScriptInfo.html#a91c39f49adbd09706533d287afcaed40":[6,0,2518,77],
-"d2/d8f/structScriptInfo.html#a98139443889cfa2bc14e3b24ad58a8fc":[6,0,2518,45],
 "d2/d8f/structScriptInfo.html#a9bb192e3b11b3ca87b0eac0dd7fb8b6e":[6,0,2518,57],
 "d2/d8f/structScriptInfo.html#a9bd4877584a1b9cd57cb2e99ed663a4c":[6,0,2518,51],
 "d2/d8f/structScriptInfo.html#aa04d895cf40adf3df5a771ac16d2bcba":[6,0,2518,67],
@@ -249,5 +242,12 @@ var NAVTREEINDEX69 =
 "d2/da4/ACSoap_8cpp.html#a69e574c9a3cecf7c395cd036bb672ed3":[7,0,0,0,1,0,1,0,0,0],
 "d2/da4/ACSoap_8cpp.html#aabfac0a3b8d38498bc5e1e3bc465ead6":[7,0,0,0,1,0,1,0,0,3],
 "d2/da4/ACSoap_8cpp.html#abf914e30c869f88f2fafb9f656320c6a":[7,0,0,0,1,0,1,0,0,2],
-"d2/da4/ACSoap_8cpp.html#af9d30c869db1c560fead6671ff96ad82":[7,0,0,0,1,0,1,0,0,1]
+"d2/da4/ACSoap_8cpp.html#af9d30c869db1c560fead6671ff96ad82":[7,0,0,0,1,0,1,0,0,1],
+"d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html":[6,0,3589],
+"d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#a4a3a5e83b66d0ae3f6f95bcead932f55":[6,0,3589,3],
+"d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#a4f492bdd96ef190354f37c95217bb696":[6,0,3589,2],
+"d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#aabe244008103ff317e3fc1e26b04115a":[6,0,3589,1],
+"d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#ae9939f2795b8ba428277c7d658af715c":[6,0,3589,0],
+"d2/da5/wdtfile_8h.html":[7,0,0,0,3,4,15],
+"d2/da8/classVMAP_1_1GroupModel.html":[5,0,28,4]
 };

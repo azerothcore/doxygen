@@ -1,14 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/dba/boss__hydross__the__unstable_8cpp.html#afcc5e0865e6ec38509578afd6dd93dd8":[7,0,0,0,1,3,7,2,0,1,7],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#afcc5e0865e6ec38509578afd6dd93dd8a3c2096cb6e61fda3b919ae844f73a2d8":[7,0,0,0,1,3,7,2,0,1,7,0],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#afcc5e0865e6ec38509578afd6dd93dd8abcab0518e1948c7987c119dd3cfe13dc":[7,0,0,0,1,3,7,2,0,1,7,1],
-"d7/dba/classat__zulgurub__bridge__speech.html":[6,0,254],
-"d7/dba/classat__zulgurub__bridge__speech.html#a0ef9d44dc98ddee8fe5133862339808d":[6,0,254,0],
-"d7/dba/classat__zulgurub__bridge__speech.html#a67234a1f4c77888a8535d0ea52e16ba9":[6,0,254,1],
-"d7/dba/classspell__deathbringer__blood__link.html":[6,0,2728],
-"d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[6,0,2728,3],
-"d7/dba/classspell__deathbringer__blood__link.html#a250c95310503cd59d73e45a9b9372268":[6,0,2728,2],
 "d7/dba/classspell__deathbringer__blood__link.html#a89c0706f21fe92fd443c3638181044ec":[6,0,2728,0],
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[6,0,2728,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,43],
@@ -249,5 +240,14 @@ var NAVTREEINDEX203 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5ef40665d44e1088042161ee9aa7f057":[6,0,1352,0,15],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a5fc6d21d96dd5847d7917c4bf90f7c9f":[6,0,1352,0,55],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6064ac5f5b41a72ae555c3542241b3b1":[6,0,1352,0,70],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a618d1caccb85e3817cff0db20022c308":[6,0,1352,0,63]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a618d1caccb85e3817cff0db20022c308":[6,0,1352,0,63],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6c42448cbf2396c9b0dcbb0a209b059f":[6,0,1352,0,71],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6d04a9a48291822ea2a2a7871e782524":[6,0,1352,0,46],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6ef5f14c6d94a3d62ec6b58a0e4e2be8":[6,0,1352,0,32],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a70dda8f2f50e95b330c5fbdd960c8130":[6,0,1352,0,76],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a71e887e459f94dc6c4bbdba69baabd7e":[6,0,1352,0,24],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a724fbae6ea2a36cf226e13469f9a6932":[6,0,1352,0,52],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a73985b9658bd3091da745aecad9c4dff":[6,0,1352,0,16],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a75e75a10c7b0770b54203b033887f7cd":[6,0,1352,0,10],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a77c90ce656736c04a3f614c910ed205f":[6,0,1352,0,23]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX304 =
 {
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac8c84e828c23801a68524c9811f0336b":[5,0,21,9,10],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#acad05815ff039fe1fea3d7cf56afb4f2":[5,0,21,9,5],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#acad05815ff039fe1fea3d7cf56afb4f2":[6,0,7,9,5],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc":[5,0,21,9,12],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc":[6,0,7,9,12],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[5,0,21,9,13],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933":[6,0,7,9,13],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[5,0,21,9,11],
-"dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503":[6,0,7,9,11],
 "dc/d30/AuthSocketMgr_8h.html":[7,0,0,0,1,0,0,2,2],
 "dc/d30/AuthSocketMgr_8h.html#abd297ee25e8d77bf56f22d43561d9451":[7,0,0,0,1,0,0,2,2,1],
 "dc/d30/boss__hodir_8cpp.html":[7,0,0,0,1,3,5,9,2,6],
@@ -244,10 +235,19 @@ var NAVTREEINDEX304 =
 "dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30":[7,0,0,0,0,19,20],
 "dc/d33/HomeMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
 "dc/d33/TaskScheduler_8h.html":[7,0,0,0,0,15,31],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,23],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,35],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[6,0,0,23],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,23,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,35,0],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,23,3],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3]
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,35,5],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[6,0,0,23,5],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,23,4],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,1,35,4],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,35,2],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[6,0,0,23,2],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,1,35,1],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[6,0,0,23,1],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[6,0,0,23,6]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX119 =
 {
-"d4/d1e/halls__of__reflection_8h.html":[7,0,0,0,1,3,5,4,1,3],
-"d4/d1e/halls__of__reflection_8h.html#a00eca5db139942c79e12425a1f7ba3b6":[7,0,0,0,1,3,5,4,1,3,4],
-"d4/d1e/halls__of__reflection_8h.html#a01b3e5f9902e55fda0e21507f557dc19":[7,0,0,0,1,3,5,4,1,3,35],
-"d4/d1e/halls__of__reflection_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,4,1,3,0],
-"d4/d1e/halls__of__reflection_8h.html#a06bb9476a9e99e22be9b163bf4238cac":[7,0,0,0,1,3,5,4,1,3,18],
-"d4/d1e/halls__of__reflection_8h.html#a0772cd9221a9dd6209e04458a8573df7":[7,0,0,0,1,3,5,4,1,3,36],
 "d4/d1e/halls__of__reflection_8h.html#a103fff62976ea3640a5a0f980df6b83c":[7,0,0,0,1,3,5,4,1,3,34],
 "d4/d1e/halls__of__reflection_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,5,4,1,3,9],
 "d4/d1e/halls__of__reflection_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da070e32910aeb1dce992735c6771809df":[7,0,0,0,1,3,5,4,1,3,9,4],
@@ -249,5 +243,11 @@ var NAVTREEINDEX119 =
 "d4/d1f/classspell__q6124__6129__apply__salve.html#aff7ea1c5c569022ece56ecdb3f434723":[6,0,3715,3],
 "d4/d21/classspell__drain__mana.html":[6,0,2799],
 "d4/d21/classspell__drain__mana.html#a434f0aef7f32edb6990efb992e4d57af":[6,0,2799,2],
-"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[6,0,2799,0]
+"d4/d21/classspell__drain__mana.html#a88551ffd3dbe4fb9cc122a68813234f0":[6,0,2799,0],
+"d4/d21/classspell__drain__mana.html#ae4d8cad1b5de248a30085142fcc2cc7b":[6,0,2799,1],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html":[7,0,0,0,1,3,7,4,3,3],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,4,3,3,5],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,4,3,3,5,2],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,4,3,3,5,0],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,4,3,3,5,1]
 };

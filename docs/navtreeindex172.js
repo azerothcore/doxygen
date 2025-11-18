@@ -1,10 +1,5 @@
 var NAVTREEINDEX172 =
 {
-"d6/d66/classGameObjectAI.html#ab977b700b90a564eca8d31b56589e2d1":[6,0,1080,25],
-"d6/d66/classGameObjectAI.html#abb34e637412f7b04b4ed760c07aef3a8":[6,0,1080,0],
-"d6/d66/classGameObjectAI.html#ac129aa1ba32e0cfb0f6f3d1bb116f5d7":[6,0,1080,22],
-"d6/d66/classGameObjectAI.html#ad095f556d61abd78c18269344431080a":[6,0,1080,1],
-"d6/d66/classGameObjectAI.html#ad1f196822d40d0fb7325d8945a3e30dc":[6,0,1080,11],
 "d6/d66/classGameObjectAI.html#ad6552cf333273f5c68ffc936748b8e46":[6,0,1080,7],
 "d6/d66/classGameObjectAI.html#ad8b835bdd79598da6683c40501df5903":[6,0,1080,10],
 "d6/d66/classGameObjectAI.html#ae2f0f24cae721a75e4df8e7aa1c75b7c":[6,0,1080,19],
@@ -249,5 +244,10 @@ var NAVTREEINDEX172 =
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#ae6ac733a614be543c04b57379b84aaca":[6,0,3414,0],
 "d6/d72/classspell__mage__fingers__of__frost__proc__aura.html#af9fc6eb0c61c4084307fc2f7fb38973b":[6,0,3414,2],
 "d6/d73/BoundingIntervalHierarchy_8cpp.html":[7,0,0,0,0,1,3],
-"d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0]
+"d6/d73/BoundingIntervalHierarchy_8cpp.html#a075c8459d7e501109174c1a2fdc5cd7e":[7,0,0,0,0,1,3,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
+"d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3]
 };

@@ -6,7 +6,6 @@ var structboss__krik__thir_1_1boss__krik__thirAI =
     [ "IsInFrenzy", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a9b8453fcfe57b9a87749529002d3879a", null ],
     [ "JustDied", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
     [ "JustEngagedWith", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#aa99c241641fc7e94412d08bebed07475", null ],
-    [ "JustSummoned", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
     [ "KilledUnit", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
     [ "MoveInLineOfSight", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
     [ "Reset", "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#a613441fcb7bd851a03729be84d27650c", null ],

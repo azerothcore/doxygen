@@ -1,14 +1,5 @@
 var NAVTREEINDEX279 =
 {
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7":[7,0,0,0,1,2,3,0,9,1,6],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5":[7,0,0,0,1,2,3,0,9,1,1],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c":[7,0,0,0,1,2,3,0,9,1,3],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[7,0,0,0,1,2,3,0,9,1,11],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896":[7,0,0,0,1,2,3,0,9,1,0],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6":[7,0,0,0,1,2,3,0,9,1,5],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25":[7,0,0,0,1,2,3,0,9,1,10],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac":[7,0,0,0,1,2,3,0,9,1,7],
-"db/d5e/classspell__gruul__shatter__effect.html":[6,0,3062],
 "db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a":[6,0,3062,0],
 "db/d5e/classspell__gruul__shatter__effect.html#a197fce87e22a3e4055cabbb925b13aa1":[6,0,3062,1],
 "db/d5e/classspell__gruul__shatter__effect.html#aac3c6a6b34af795cb08fc299e763f6a8":[6,0,3062,2],
@@ -79,8 +70,8 @@ var NAVTREEINDEX279 =
 "db/d62/classRegularGrid2D.html#ae4bc431aff07874774243907c6c71539":[6,0,2488,4],
 "db/d62/classRegularGrid2D.html#af105482aa4349d2f7f937fb95ec7f2a8":[6,0,2488,3],
 "db/d63/CombatLogPackets_8cpp.html":[7,0,0,0,1,2,39,0,9],
-"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[6,0,0,5,5],
+"db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html":[5,0,1,8,5],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[6,0,0,5,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#ab0344571616786baef4511c647a3abea":[5,0,1,8,5,1],
 "db/d64/structAcore_1_1Impl_1_1CurrentServerProcessHolder.html#af749459df7757d1bab17a54be813f6b6":[6,0,0,5,5,0],
@@ -249,5 +240,14 @@ var NAVTREEINDEX279 =
 "db/d6a/classspell__spawn__drakonid.html":[6,0,3847],
 "db/d6a/classspell__spawn__drakonid.html#a21c5eb1511cb4035f795ff1d22797e34":[6,0,3847,0],
 "db/d6a/classspell__spawn__drakonid.html#a5308de47023b89e4ff8680158a502ac0":[6,0,3847,1],
-"db/d6a/classspell__spawn__drakonid.html#a5f148d259b1102b1046e6a3ac096fea8":[6,0,3847,2]
+"db/d6a/classspell__spawn__drakonid.html#a5f148d259b1102b1046e6a3ac096fea8":[6,0,3847,2],
+"db/d6a/classspell__spawn__drakonid.html#a75f89d90b9e68288e54e1e0bd3b2ce98":[6,0,3847,3],
+"db/d6d/classnpc__argent__soldier.html":[6,0,1611],
+"db/d6d/classnpc__argent__soldier.html#aa308b4cf1df6edf0666d06e0ddab0797":[6,0,1611,1],
+"db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1611,2],
+"db/d6d/structAntiDosOpcodePolicy.html":[6,0,154],
+"db/d6d/structAntiDosOpcodePolicy.html#a8b2bbd3d9f52166c1235b0d306042609":[6,0,154,1],
+"db/d6d/structAntiDosOpcodePolicy.html#afb0dcc50d8e9aa85fe2904050d646042":[6,0,154,0],
+"db/d6e/spell__item_8cpp.html":[7,0,0,0,1,3,9,4],
+"db/d6e/spell__item_8cpp.html#a06a241fe0c846d04b962a53fb6dc0d43":[7,0,0,0,1,3,9,4,196]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX174 =
 {
-"d6/d7e/boss__kazrogal_8cpp.html#a378d5c1c6cef9f24f253a041e207663c":[7,0,0,0,1,3,4,1,0,3,3],
-"d6/d7e/boss__kazrogal_8cpp.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c":[7,0,0,0,1,3,4,1,0,3,3,0],
-"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,3,4],
-"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca4eca3dcaa1592d32d6dbb92a3b301b3b":[7,0,0,0,1,3,4,1,0,3,4,4],
-"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc":[7,0,0,0,1,3,4,1,0,3,4,2],
 "d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c52e58c00f243bdb7a03fb464161104":[7,0,0,0,1,3,4,1,0,3,4,3],
 "d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca92ed8fca67e67f154f8f0eb2004701a6":[7,0,0,0,1,3,4,1,0,3,4,0],
 "d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[7,0,0,0,1,3,4,1,0,3,4,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX174 =
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad6eb7d94ce9b24435d17ebeb00ef8a62":[7,0,0,0,1,3,5,21,30,30],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832adac5755f530959473c492c4bbda18477":[7,0,0,0,1,3,5,21,30,9],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832adc575c2f1be18b38b235e7b532f8c0e3":[7,0,0,0,1,3,5,21,30,21],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ae28522320e3ffa3289d2bc4843548130":[7,0,0,0,1,3,5,21,30,16]
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ae28522320e3ffa3289d2bc4843548130":[7,0,0,0,1,3,5,21,30,16],
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aed42f086826bed5bc90bcc5446105826":[7,0,0,0,1,3,5,21,30,20],
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aed9434f188bb6819735cf83d36482b4f":[7,0,0,0,1,3,5,21,30,12],
+"d6/d81/zone__icecrown_8cpp.html#ae897423ac82564dc77695f14627d09f4":[7,0,0,0,1,3,5,21,44],
+"d6/d81/zone__icecrown_8cpp.html#af42a2987092516b5b9065dc72477075d":[7,0,0,0,1,3,5,21,42],
+"d6/d82/classspell__valanar__kinetic__bomb__aura.html":[6,0,3952]
 };

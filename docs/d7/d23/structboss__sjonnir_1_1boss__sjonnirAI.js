@@ -7,11 +7,6 @@ var structboss__sjonnir_1_1boss__sjonnirAI =
     [ "JustEngagedWith", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#aade776baf55155bb3814129ddc2f9632", null ],
     [ "KilledUnit", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ac79740a8c5e4263f2917647c74e995aa", null ],
     [ "Reset", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "SummonDwarfes", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a0f0472fbd8be38501cedef6c9d0553ee", null ],
-    [ "UpdateAI", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ad357741fbf486671790f6e619f330460", null ],
-    [ "events", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ae40bf2206d0e6af3f15727fa5dfef5e7", null ],
-    [ "pInstance", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#aa9aba0a76bfc58031c3f8133eb07c134", null ],
-    [ "SlugeCount", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ],
-    [ "SummonPhase", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ab409b352a20824dd1b274763aeab2c39", null ],
-    [ "summons", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a4888090a1b02403c80b83b7089eb0dfa", null ]
+    [ "ScheduleTasks", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d7/d23/structboss__sjonnir_1_1boss__sjonnirAI.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

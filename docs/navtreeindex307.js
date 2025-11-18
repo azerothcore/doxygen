@@ -1,14 +1,5 @@
 var NAVTREEINDEX307 =
 {
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae2d94258b386f6a9db97cc035d0eefae":[7,0,0,0,1,2,26,2,1,27],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae3631ecfc1ab6ce423f274722be16158":[7,0,0,0,1,2,26,2,1,33],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830":[7,0,0,0,1,2,26,2,1,50],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaec8ed9235928b91e5b601505d58dace0":[7,0,0,0,1,2,26,2,1,72],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf187c3f832ea4d0d9448ec9e208fdbcb":[7,0,0,0,1,2,26,2,1,11],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf578bcbfa373b10d63c5d2f9638daf34":[7,0,0,0,1,2,26,2,1,14],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaf5d07a264accc4376d12233736d19343":[7,0,0,0,1,2,26,2,1,81],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3":[7,0,0,0,1,2,26,2,0],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a00446449607842e52572a37cd7b020ad":[7,0,0,0,1,2,26,2,0,87],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a039436e4e28ff7cefc5cd5fbc5fb74b2":[7,0,0,0,1,2,26,2,0,118],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a053a06f4ea853c58639599700024bcc2":[7,0,0,0,1,2,26,2,0,122],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a05d79f5f3fdcacccee161795e05a604e":[7,0,0,0,1,2,26,2,0,114],
@@ -249,5 +240,14 @@ var NAVTREEINDEX307 =
 "dc/d51/model_8h.html#afd641f15b5ca6e58b68f26ef17a02912":[7,0,0,0,3,4,7,2],
 "dc/d52/classTimedFleeingMovementGenerator.html":[6,0,4177],
 "dc/d52/classTimedFleeingMovementGenerator.html#a1533d13f4e786e498353805a2a2daf85":[6,0,4177,2],
-"dc/d52/classTimedFleeingMovementGenerator.html#a1a18f033663fa93ef0b9885aae21f766":[6,0,4177,1]
+"dc/d52/classTimedFleeingMovementGenerator.html#a1a18f033663fa93ef0b9885aae21f766":[6,0,4177,1],
+"dc/d52/classTimedFleeingMovementGenerator.html#a2858047459ff675383e7b86805702369":[6,0,4177,4],
+"dc/d52/classTimedFleeingMovementGenerator.html#a53688aae55bfdd3a33eb24484fcc157e":[6,0,4177,3],
+"dc/d52/classTimedFleeingMovementGenerator.html#ae3eed5f4b5a8d11ad4eed67ce5329742":[6,0,4177,0],
+"dc/d54/classnpc__mageguard__dalaran.html":[6,0,1945],
+"dc/d54/classnpc__mageguard__dalaran.html#a0cec4f232b665325c421cecb5839885f":[6,0,1945,1],
+"dc/d54/classnpc__mageguard__dalaran.html#a10cbddceb53a2d432da2224128c59b28":[6,0,1945,2],
+"dc/d54/classspell__control__piece.html":[6,0,2721],
+"dc/d54/classspell__control__piece.html#aae5dc71af1a0fade2da9ee88875896a5":[6,0,2721,0],
+"dc/d55/classnpc__kaya__flathoof.html":[6,0,1908]
 };

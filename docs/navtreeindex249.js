@@ -1,14 +1,5 @@
 var NAVTREEINDEX249 =
 {
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae5d3661f245e24296ca946e1ca60eb37":[7,0,0,0,1,2,48,4,1,162],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae646cd2ed6349c292879106b464bebb9":[7,0,0,0,1,2,48,4,1,143],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae64a9df99e419890b0f8e2a1b4dceb4d":[7,0,0,0,1,2,48,4,1,165],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae66cdd1548190a3dfebabaf61a07b3cc":[7,0,0,0,1,2,48,4,1,69],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae6d10771624fbced6223220fac34b302":[7,0,0,0,1,2,48,4,1,350],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae7370ac3d73883d0effbc3ff62c4c7d7":[7,0,0,0,1,2,48,4,1,448],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae7e1d5eafeeb78bcb5ec66e0e4a0c6c7":[7,0,0,0,1,2,48,4,1,198],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae856d3ce33aca6c2cb7dc881c2f20e23":[7,0,0,0,1,2,48,4,1,283],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae86e392dac54100336b96598e706f0d0":[7,0,0,0,1,2,48,4,1,293],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae912de94ca2ccd8fa2bf5425b8acf1b2":[7,0,0,0,1,2,48,4,1,213],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae9c6178abb33782f2bf5dd16ca3ea8c4":[7,0,0,0,1,2,48,4,1,230],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aea0f00dd08cdcb4353400106dafbe5f4":[7,0,0,0,1,2,48,4,1,204],
@@ -249,5 +240,14 @@ var NAVTREEINDEX249 =
 "da/d0d/zone__thunder__bluff_8cpp.html#ae5d674fbd346082d81f6f6720eed1081":[7,0,0,0,1,3,4,30,3],
 "da/d0e/classspell__azjol__nerub__impale__summon.html":[6,0,2630],
 "da/d0e/classspell__azjol__nerub__impale__summon.html#a2a3602af522bb8658c1bfdede1234efd":[6,0,2630,0],
-"da/d0e/classspell__azjol__nerub__impale__summon.html#a89827e4db37bea4847c79265d95386c6":[6,0,2630,2]
+"da/d0e/classspell__azjol__nerub__impale__summon.html#a89827e4db37bea4847c79265d95386c6":[6,0,2630,2],
+"da/d0e/classspell__azjol__nerub__impale__summon.html#aba235111ea4e186064a85295466f2a3f":[6,0,2630,1],
+"da/d0f/instance__utgarde__pinnacle_8cpp.html":[7,0,0,0,1,3,5,10,1,4],
+"da/d0f/instance__utgarde__pinnacle_8cpp.html#a3469cdfafe3d81dca68950e7a6a6370d":[7,0,0,0,1,3,5,10,1,4,2],
+"da/d0f/instance__utgarde__pinnacle_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,1,4,3],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html":[6,0,662,0],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a06a216b9f75f50bf0e738398da37082c":[6,0,662,0,2],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a1a686457e3000211f966f4d22370552d":[6,0,662,0,19],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a251205825e07fb27a20b5995b94ea6f4":[6,0,662,0,8],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a2fea965d45c5ca8646d87634daf63fbe":[6,0,662,0,0]
 };

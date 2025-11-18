@@ -1,14 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a75dca4f2e90318f334e7e6385d4f7a6f":[6,0,1654,0,0],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#a9752f518441071dd4a60cd63423bf9a3":[6,0,1654,0,3],
-"dc/d08/structnpc__bloodmage__laurith_1_1npc__bloodmage__laurithAI.html#afe9b10dfcee3b241a48e6f2e40eec657":[6,0,1654,0,1],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html":[6,0,2048,0],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a28477c5f88b5ec77dc3e021ec01401ce":[6,0,2048,0,0],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a32d9b6bd2f0b994adb33e2bd99dd34ce":[6,0,2048,0,1],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a91277c41ddebffed7e9dac7098cd78bd":[6,0,2048,0,3],
-"dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#ad4ed0e2380c62cc6dd7d309edfd34ac1":[6,0,2048,0,2],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html":[6,0,2892],
 "dc/d0a/classspell__frostwarden__handler__order__whelp.html#a14e392760361b95578bc95de10cdd8aa":[6,0,2892,0],
 "dc/d0a/classspell__frostwarden__handler__order__whelp.html#a1746786ad6daaac11aefd32e00c8d1ea":[6,0,2892,4],
 "dc/d0a/classspell__frostwarden__handler__order__whelp.html#a8bb53a933c5a2ec33966c6acd1a6da65":[6,0,2892,2],
@@ -249,5 +240,14 @@ var NAVTREEINDEX301 =
 "dc/d1c/classspell__hor__shared__suffering__aura.html#a4b95717cb19116b81f3eec798089abad":[6,0,3111,0],
 "dc/d1c/classspell__hor__shared__suffering__aura.html#a581645fa151531aaf7b562a8739d5616":[6,0,3111,1],
 "dc/d1c/classspell__hor__shared__suffering__aura.html#a96e4b9cae1f016bf87c9a09ceb6da561":[6,0,3111,3],
-"dc/d1d/Corpse_8h.html":[7,0,0,0,1,2,16,0,1]
+"dc/d1d/Corpse_8h.html":[7,0,0,0,1,2,16,0,1],
+"dc/d1d/Corpse_8h.html#a1cebf109f41dcdac8a90086696642782":[7,0,0,0,1,2,16,0,1,1],
+"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683":[7,0,0,0,1,2,16,0,1,4],
+"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78":[7,0,0,0,1,2,16,0,1,4,1],
+"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba":[7,0,0,0,1,2,16,0,1,4,2],
+"dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356":[7,0,0,0,1,2,16,0,1,4,0],
+"dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c":[7,0,0,0,1,2,16,0,1,3],
+"dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c":[7,0,0,0,1,2,16,0,1,3,2],
+"dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a":[7,0,0,0,1,2,16,0,1,3,5],
+"dc/d1d/Corpse_8h.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2":[7,0,0,0,1,2,16,0,1,3,0]
 };

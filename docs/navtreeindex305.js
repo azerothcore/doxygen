@@ -1,15 +1,6 @@
 var NAVTREEINDEX305 =
 {
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,35,5],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[6,0,0,23,5],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,1,35,4],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,23,4],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[6,0,0,23,2],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,35,2],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[6,0,0,23,1],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[5,0,1,35,1],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[5,0,1,35,6],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[6,0,0,23,6],
 "dc/d33/structPendingSpellCastRequest.html":[6,0,2380],
 "dc/d33/structPendingSpellCastRequest.html#a28f12287e339fd0c6cc9ea8c89c26113":[6,0,2380,5],
 "dc/d33/structPendingSpellCastRequest.html#a51a702f257b784dac4556397dd1c0be4":[6,0,2380,2],
@@ -249,5 +240,14 @@ var NAVTREEINDEX305 =
 "dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#a7b7387c58924d3e05ed1e5fc9273e1fa":[6,0,2243,0,5],
 "dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#a8b9f0a4a56f38f527ce1c80202ce084f":[6,0,2243,0,8],
 "dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#aacbaae85f9870e64ca43a42c224bb12e":[6,0,2243,0,3],
-"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#ab0230a2e72f5a0f37abcb01428749db2":[6,0,2243,0,13]
+"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#ab0230a2e72f5a0f37abcb01428749db2":[6,0,2243,0,13],
+"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#ab42021785e07a3ca000ae807c53c84a8":[6,0,2243,0,20],
+"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#abf25b8b64231c1aba63a381734709d76":[6,0,2243,0,11],
+"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#aeb7956153cbfcac4064a5896c231bebb":[6,0,2243,0,12],
+"dc/d3e/structnpc__ulduar__vx001_1_1npc__ulduar__vx001AI.html#aed853ac2a262750d1ccb636146897f06":[6,0,2243,0,4],
+"dc/d3f/Item_8cpp.html":[7,0,0,0,1,2,16,4,2],
+"dc/d3f/Item_8cpp.html#a02944420353f8ba883b80737f8e63137":[7,0,0,0,1,2,16,4,2,0],
+"dc/d3f/Item_8cpp.html#a0c91640134a5241ec34f91bdec13c8ec":[7,0,0,0,1,2,16,4,2,1],
+"dc/d3f/Item_8cpp.html#a402c3dd64769702b750f96adff4b3a14":[7,0,0,0,1,2,16,4,2,2],
+"dc/d41/boss__archavon_8cpp.html":[7,0,0,0,1,3,5,11,0]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,740,1],
-"d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,740,2],
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1939],
-"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1939,0],
-"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1939,1],
-"d8/de1/structCalendarInvite.html":[6,0,835],
-"d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,835,17],
-"d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,835,7],
-"d8/de1/structCalendarInvite.html#a1a4c97cf72f6fa1889ab61e003f5193a":[6,0,835,15],
 "d8/de1/structCalendarInvite.html#a1a6cc7497129199fc6104908b0ed730d":[6,0,835,26],
 "d8/de1/structCalendarInvite.html#a2048bc229d49660b03b0a6454a8d04cd":[6,0,835,23],
 "d8/de1/structCalendarInvite.html#a2309fdd9aadd6227d61a9c2028ef2a04":[6,0,835,9],
@@ -249,5 +240,14 @@ var NAVTREEINDEX227 =
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d3e13f7a79db8c5b11aa3b77add6883":[7,0,0,0,1,3,2,1,0,3,2,0],
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae1ec2f172e62528644ddad62bf99e5bb":[7,0,0,0,1,3,2,1,0,3,2,4],
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ab21ae9dcaafc0752c2bb5f36dc7ce":[7,0,0,0,1,3,2,1,0,3,2,2],
-"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae83871ceb366127a4916a8c197250e60":[7,0,0,0,1,3,2,1,0,3,2,3]
+"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae83871ceb366127a4916a8c197250e60":[7,0,0,0,1,3,2,1,0,3,2,3],
+"d8/df3/boss__anubshiah_8cpp.html#a911731d0c6cc285f5a1dd80934cdbac0":[7,0,0,0,1,3,2,1,0,3,6],
+"d8/df3/boss__anubshiah_8cpp.html#acc90f01f6cb133b1ad00d753f3d11913":[7,0,0,0,1,3,2,1,0,3,3],
+"d8/df3/boss__anubshiah_8cpp.html#ae93ad6c1747bf265a5125392f6a37696":[7,0,0,0,1,3,2,1,0,3,4],
+"d8/df3/classnpc__rocknot.html":[6,0,2088],
+"d8/df3/classnpc__rocknot.html#a64a0cd215c1f4881948e5a49cf1b86d7":[6,0,2088,1],
+"d8/df3/classnpc__rocknot.html#abd8ad3d7e6dd1e557398e268409a2c98":[6,0,2088,3],
+"d8/df3/classnpc__rocknot.html#ac8a90d54e9303c40f0313fda1dcfea86":[6,0,2088,2],
+"d8/df3/classnpc__target__dummy.html":[6,0,2156],
+"d8/df3/classnpc__target__dummy.html#a04847f9893a40c0f1c1879f448cc228d":[6,0,2156,1]
 };

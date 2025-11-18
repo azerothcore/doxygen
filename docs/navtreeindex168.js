@@ -1,10 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d38/classChatHandler.html#ad8f01e73ff069d46b3a8ec5a3fe3b008":[6,0,870,10],
-"d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[6,0,870,25],
-"d6/d38/classChatHandler.html#adb2eb23afa00d3651e0c8ca426e76cd6":[6,0,870,3],
-"d6/d38/classChatHandler.html#ae10c7b226467f8e8e8eb149421f0fa51":[6,0,870,36],
-"d6/d38/classChatHandler.html#ae1f6d13efd06dc853be112de5cb6eb43":[6,0,870,49],
 "d6/d38/classChatHandler.html#ae88a523ef51a6d51d38a8d524e49b179":[6,0,870,27],
 "d6/d38/classChatHandler.html#aed537f61e8cbb15ebbe11243c0834744":[6,0,870,9],
 "d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4":[6,0,870,32],
@@ -249,5 +244,10 @@ var NAVTREEINDEX168 =
 "d6/d41/classgo__witherbark__totem__bundle.html":[6,0,1207],
 "d6/d41/classgo__witherbark__totem__bundle.html#a5ac2b3b572d67fdcc587f242f3d50f97":[6,0,1207,2],
 "d6/d41/classgo__witherbark__totem__bundle.html#affcdff7ec6894add0acec842028efd2e":[6,0,1207,1],
-"d6/d41/structSpellCategoryEntry.html":[6,0,4083]
+"d6/d41/structSpellCategoryEntry.html":[6,0,4083],
+"d6/d41/structSpellCategoryEntry.html#a0cb97c73af91dcfdd151c38aa46828cc":[6,0,4083,0],
+"d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[6,0,4083,1],
+"d6/d41/structboss__veknilash.html":[6,0,765],
+"d6/d41/structboss__veknilash.html#a454027d829b962ee0feebb6fd5687714":[6,0,765,1],
+"d6/d41/structboss__veknilash.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f":[6,0,765,0]
 };

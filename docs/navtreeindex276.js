@@ -1,14 +1,5 @@
 var NAVTREEINDEX276 =
 {
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,709,0,6],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[6,0,709,0,4],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a58e1188a418acdc1f327e7df90c5c122":[6,0,709,0,1],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a636ca76497c33a5175986e80bbcda44a":[6,0,709,0,2],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a8759163de40d04d53c5e5ed8d8192aa7":[6,0,709,0,5],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ac30b38805d0421b1be509c7d5609c648":[6,0,709,0,3],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ad85e2fd51d67739026a96bc757bc7801":[6,0,709,0,0],
-"db/d2b/classnpc__captain__arnath.html":[6,0,1676],
-"db/d2b/classnpc__captain__arnath.html#a302ec007389e677011334d78f410207b":[6,0,1676,2],
 "db/d2b/classnpc__captain__arnath.html#ab96afce64a7714ea84bab932f80c9302":[6,0,1676,1],
 "db/d2b/classspell__gen__consume.html":[6,0,2936],
 "db/d2b/classspell__gen__consume.html#a043362a08bcf9cfe253dd23c722a60bc":[6,0,2936,4],
@@ -249,5 +240,14 @@ var NAVTREEINDEX276 =
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3736,2],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3736,0],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3736,1],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3736,3]
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3736,3],
+"db/d3e/structQEmote.html":[6,0,2449],
+"db/d3e/structQEmote.html#a701c902af6f7f472511727bcc88ceeef":[6,0,2449,1],
+"db/d3e/structQEmote.html#a8c4024f5818f327f29b44a26892b89a1":[6,0,2449,0],
+"db/d3e/structnpc__cameron.html":[6,0,1674],
+"db/d3e/structnpc__cameron.html#a0bf53f40eeb4fe3ed7d62988bee0a912":[6,0,1674,2],
+"db/d3e/structnpc__cameron.html#a2ad97aaac0bd759921e0b75cfc88d07d":[6,0,1674,4],
+"db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[6,0,1674,5],
+"db/d3e/structnpc__cameron.html#a45e47ec5c9dadc6f0899e83ac2e19cff":[6,0,1674,0],
+"db/d3e/structnpc__cameron.html#a85ae436f19f69ffb853330f01ee152a0":[6,0,1674,1]
 };

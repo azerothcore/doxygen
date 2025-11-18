@@ -1,16 +1,5 @@
 var NAVTREEINDEX193 =
 {
-"d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4":[6,0,259,12],
-"d7/d83/structAuctionEntry.html#a46668a8214d200bf508a157aa256e9ec":[6,0,259,10],
-"d7/d83/structAuctionEntry.html#a62b83210cbde94626f6e092b454b83d8":[6,0,259,9],
-"d7/d83/structAuctionEntry.html#a8520c9664918d452d8e6b643df8486b5":[6,0,259,15],
-"d7/d83/structAuctionEntry.html#a8e3dee79fd65c7f25ca1d74fe7924163":[6,0,259,1],
-"d7/d83/structAuctionEntry.html#a9b1f40baa8c949995acdab008944f403":[6,0,259,18],
-"d7/d83/structAuctionEntry.html#aa1e6771187c237136d34645db9f852f9":[6,0,259,22],
-"d7/d83/structAuctionEntry.html#aa65a8b6b8be81f705378e2f510196c48":[6,0,259,17],
-"d7/d83/structAuctionEntry.html#aa67975f37a4ef343422a471ef65a98fd":[6,0,259,20],
-"d7/d83/structAuctionEntry.html#aa6854cd3ccd30bafdac8e13f05f97c1d":[6,0,259,2],
-"d7/d83/structAuctionEntry.html#aa75d261f77460c16f98f211b481a9af0":[6,0,259,13],
 "d7/d83/structAuctionEntry.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c":[6,0,259,14],
 "d7/d83/structAuctionEntry.html#ab18794a9a9287cee3328625ae715a57e":[6,0,259,4],
 "d7/d83/structAuctionEntry.html#ac5f752011b382f3b37a155b13cb5cb69":[6,0,259,6],
@@ -249,5 +238,16 @@ var NAVTREEINDEX193 =
 "d7/d91/classInstanceSave.html#afe47ec184ab41772b446a6bfb338796f":[6,0,1364,4],
 "d7/d91/classboss__gorosh__the__dervish.html":[6,0,505],
 "d7/d91/classboss__gorosh__the__dervish.html#a18c39f21ebf6a9d43d37eb92857083a3":[6,0,505,1],
-"d7/d91/classboss__gorosh__the__dervish.html#abae1fa2a7e959d1b7b02e0850aff4fb9":[6,0,505,2]
+"d7/d91/classboss__gorosh__the__dervish.html#abae1fa2a7e959d1b7b02e0850aff4fb9":[6,0,505,2],
+"d7/d91/classspell__q12277__wintergarde__mine__explosion.html":[6,0,3667],
+"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#a90fbc5d1b22cbc59550a430a63c08032":[6,0,3667,2],
+"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#abac8aa528d6d83748cf4cdbdaa8313f6":[6,0,3667,0],
+"d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3667,1],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[5,0,1,2,0],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[6,0,0,1,0,3],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,1,2,0,3],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[6,0,0,1,0,8],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[5,0,1,2,0,8],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[6,0,0,1,0,4]
 };

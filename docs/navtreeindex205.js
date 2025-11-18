@@ -1,19 +1,10 @@
 var NAVTREEINDEX205 =
 {
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#a801d56a180e196943cfc2cefb6c5dda5":[5,0,1,95,4],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[5,0,1,95,0],
-"d7/dca/classAcore_1_1NearestHostileUnitCheck.html#aa1d706a1eb1de6168b568e70008e2d3b":[6,0,0,83,0],
-"d7/dcb/classgo__father__flame.html":[6,0,1144],
-"d7/dcb/classgo__father__flame.html#a84c7055e791a3dac66b75d327c7662c3":[6,0,1144,1],
-"d7/dcb/classgo__father__flame.html#aa992bd7029a56faca4b92637688fe845":[6,0,1144,0],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[5,0,28,0],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html":[6,0,9,0],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[5,0,28,0,2],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[6,0,9,0,2],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[5,0,28,0,4],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[6,0,9,0,4],
-"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#af7c8710b5d296c1d792b4fc34302278f":[5,0,28,0,3],
+"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[5,0,28,0,4],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#af7c8710b5d296c1d792b4fc34302278f":[6,0,9,0,3],
+"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#af7c8710b5d296c1d792b4fc34302278f":[5,0,28,0,3],
 "d7/dcc/wdtfile_8cpp.html":[7,0,0,0,3,4,14],
 "d7/dcc/wdtfile_8cpp.html#aec756087655d9d993d4475947742ba56":[7,0,0,0,3,4,14,0],
 "d7/dcd/MySQLConnection_8h.html":[7,0,0,0,1,1,0,15],
@@ -249,5 +240,14 @@ var NAVTREEINDEX205 =
 "d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html":[6,0,610,0],
 "d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb":[6,0,610,0,4],
 "d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#a194c002efe244b8c94a072faf72be771":[6,0,610,0,7],
-"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#a4873386266ce3b4b849377028ff746a5":[6,0,610,0,1]
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#a4873386266ce3b4b849377028ff746a5":[6,0,610,0,1],
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#a83690f4a55cfa22a979ad6897b661fcc":[6,0,610,0,2],
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#a9466254da12c3aa3c1a69e812ff1a068":[6,0,610,0,6],
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#aa8b70930372cd0729686f7c6032d3152":[6,0,610,0,0],
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#abb9d38b3c26af6245bb98e131be07d4d":[6,0,610,0,5],
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#ac4c90c814aa55781f863c958253e9df2":[6,0,610,0,8],
+"d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#ad04c571e9e485a95d194946c1b3b7ffa":[6,0,610,0,3],
+"d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html":[7,0,0,0,1,3,5,8,1,1],
+"d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,8,1,1,1],
+"d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,1,1,1,1]
 };

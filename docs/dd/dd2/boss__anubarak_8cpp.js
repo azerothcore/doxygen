@@ -23,12 +23,12 @@ var boss__anubarak_8cpp =
       [ "EVENT_SUMMON_ASSASSINS", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef6bbe16c5abd68286fce31ec6709804", null ],
       [ "EVENT_KILL_TALK", "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ]
     ] ],
+    [ "Groups", "dd/dd2/boss__anubarak_8cpp.html#aa1a2a48db22cbb885dc5e6bda42b0c22", [
+      [ "GROUP_EMERGED", "dd/dd2/boss__anubarak_8cpp.html#aa1a2a48db22cbb885dc5e6bda42b0c22ac6762b2873125ac73a850d2e103ec31a", null ],
+      [ "GROUP_SUBMERGED", "dd/dd2/boss__anubarak_8cpp.html#aa1a2a48db22cbb885dc5e6bda42b0c22a4852ae10a6b1d7b9dddcdbf9a237a8a3", null ]
+    ] ],
     [ "Misc", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ACHIEV_TIMED_START_EVENT", "dd/dd2/boss__anubarak_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ]
-    ] ],
-    [ "Phases", "dd/dd2/boss__anubarak_8cpp.html#a40a72f275aa14ee66ae8d1c46d7cd614", [
-      [ "PHASE_EMERGED", "dd/dd2/boss__anubarak_8cpp.html#a40a72f275aa14ee66ae8d1c46d7cd614a747023f604d5515a94aae6662fa3705a", null ],
-      [ "PHASE_SUBMERGED", "dd/dd2/boss__anubarak_8cpp.html#a40a72f275aa14ee66ae8d1c46d7cd614ab24cfad33b2b4c6e4b3d9e7a93328727", null ]
     ] ],
     [ "Spells", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_CARRION_BEETLES", "dd/dd2/boss__anubarak_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d47cd66db9efb0721a56d21153d0dd1", null ],

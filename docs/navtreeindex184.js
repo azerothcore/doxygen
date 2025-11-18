@@ -1,10 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d7/d09/boss__scourgelord__tyrannus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,4,2,2,4,1],
-"d7/d09/boss__scourgelord__tyrannus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac0cfa7807ddb019c2598d7966aebeb8d":[7,0,0,0,1,3,5,4,2,2,4,3],
-"d7/d09/boss__scourgelord__tyrannus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af11cadfbb7fe69d67701a1bc63f83a7e":[7,0,0,0,1,3,5,4,2,2,4,6],
-"d7/d09/boss__scourgelord__tyrannus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afd6560c9a46555b367428ac7a4c0039c":[7,0,0,0,1,3,5,4,2,2,4,4],
-"d7/d09/boss__scourgelord__tyrannus_8cpp.html#ae344295d2e46a26142cddea95f183f6d":[7,0,0,0,1,3,5,4,2,2,5],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,4,2,2,2],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55df240774f64fad6740b9cb5cab7b5f":[7,0,0,0,1,3,5,4,2,2,2,1],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56fde88b675883e881d730c66896bec3":[7,0,0,0,1,3,5,4,2,2,2,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX184 =
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,5,5,5,4],
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a0afc5e23fa1345ffc7cda0020d520e84":[7,0,0,0,1,3,5,5,5,4,0],
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a32975304248dc504bd8206a2e3a33d14":[7,0,0,0,1,3,5,5,5,4,2],
-"d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe":[7,0,0,0,1,3,5,5,5,4,1]
+"d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe":[7,0,0,0,1,3,5,5,5,4,1],
+"d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d":[7,0,0,0,1,3,5,5,5,4,3],
+"d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,5,5,5,4,5],
+"d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288":[7,0,0,0,1,3,5,5,5,4,4],
+"d7/d1d/classAuraScript_1_1EffectApplyHandler.html":[6,0,288,6],
+"d7/d1d/classAuraScript_1_1EffectApplyHandler.html#a4c02a1b42d7b3a02633dc9600b0e09bb":[6,0,288,6,1]
 };
