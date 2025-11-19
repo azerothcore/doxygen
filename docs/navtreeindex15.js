@@ -1,6 +1,5 @@
 var NAVTREEINDEX15 =
 {
-"d0/d9b/structboss__dalronn__the__controller.html#ad11e43d40a61f093b5e51482437467b8":[6,0,420,1],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[6,0,0,86],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[5,0,1,98],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[5,0,1,98,2],
@@ -9,20 +8,20 @@ var NAVTREEINDEX15 =
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[6,0,0,86,1],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a470ab1e22a90a00752717d76b45a7aab":[5,0,1,98,0],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a470ab1e22a90a00752717d76b45a7aab":[6,0,0,86,0],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[5,0,1,98,3],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[6,0,0,86,3],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[5,0,1,98,3],
 "d0/d9d/SpellAuraEffects_8cpp.html":[7,0,0,0,1,2,41,0,1],
 "d0/d9d/SpellAuraEffects_8cpp.html#a2817e7c4c5917ae8deba00b38850e8db":[7,0,0,0,1,2,41,0,1,0],
 "d0/d9d/structMMAP_1_1TileInfo.html":[5,0,20,13],
 "d0/d9d/structMMAP_1_1TileInfo.html":[6,0,6,13],
-"d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[5,0,20,13,1],
 "d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[6,0,6,13,1],
-"d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[6,0,6,13,3],
+"d0/d9d/structMMAP_1_1TileInfo.html#a41f4be7d3fce716754b9ac0310b9ecf9":[5,0,20,13,1],
 "d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[5,0,20,13,3],
+"d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[6,0,6,13,3],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[5,0,20,13,2],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[6,0,6,13,2],
-"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[6,0,6,13,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[5,0,20,13,4],
+"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[6,0,6,13,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[5,0,20,13,0],
 "d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[6,0,6,13,0],
 "d0/d9e/classspell__catch__the__wild__wolpertinger.html":[6,0,2705],
@@ -249,5 +248,6 @@ var NAVTREEINDEX15 =
 "d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698ade028d02b8d349d6d06a18530b9141cd":[7,0,0,0,1,3,2,1,3,12,2,16],
 "d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698ae9be4cdb6834de79525595c3cab8afa1":[7,0,0,0,1,3,2,1,3,12,2,15],
 "d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698aeb17c4eee4eebe233b6440cee654764b":[7,0,0,0,1,3,2,1,3,12,2,2],
-"d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698af1ed8aef8ab015843055bbafbe7347b9":[7,0,0,0,1,3,2,1,3,12,2,9]
+"d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698af1ed8aef8ab015843055bbafbe7347b9":[7,0,0,0,1,3,2,1,3,12,2,9],
+"d0/dae/classArenaSeasonRewardDistributor.html":[6,0,185]
 };

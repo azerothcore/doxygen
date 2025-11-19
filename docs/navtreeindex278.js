@@ -1,6 +1,5 @@
 var NAVTREEINDEX278 =
 {
-"db/d51/classspell__dk__death__gate.html#a4f4f7004be5629efdc48b52b6667edba":[6,0,2764,1],
 "db/d51/classspell__dk__death__gate.html#a599ce758681c5196bd40e4c7b86635cc":[6,0,2764,2],
 "db/d51/classspell__dk__death__gate.html#a931d7a6aa2f1b574c225d3e803edbab4":[6,0,2764,0],
 "db/d51/classspell__dk__death__gate.html#ab184b23aa446c826db39928eb3ff3ecc":[6,0,2764,3],
@@ -65,12 +64,12 @@ var NAVTREEINDEX278 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2225,0],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#a5e9bcd384285b9046da93bd18804d07b":[6,0,2225,0,6],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#abf485123f0a73aa84ad5178e23c4192e":[6,0,2225,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX278 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6":[7,0,0,0,1,2,3,0,9,1,5],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25":[7,0,0,0,1,2,3,0,9,1,10],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac":[7,0,0,0,1,2,3,0,9,1,7],
-"db/d5e/classspell__gruul__shatter__effect.html":[6,0,3062]
+"db/d5e/classspell__gruul__shatter__effect.html":[6,0,3062],
+"db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a":[6,0,3062,0]
 };

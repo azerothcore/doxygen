@@ -1,6 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/dd9/classspell__pri__item__greater__heal__refund.html#ac6b3ce1ff227a140b77e177198675dbf":[6,0,3571,0],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html#ae5ed8237f49454279db6348dbde653ad":[6,0,3571,1],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html":[6,0,2001,0],
 "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a1f46c988316c1870f506a66f2390e79b":[6,0,2001,0,10],
@@ -242,12 +241,13 @@ var NAVTREEINDEX181 =
 "d6/dec/classinstance__onyxias__lair.html":[6,0,1324],
 "d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1324,1],
 "d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1324,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,1,107],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,95],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,107,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,1,107],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,95,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,107,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,1,107,1],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4]
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6]
 };

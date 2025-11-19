@@ -1,6 +1,5 @@
 var NAVTREEINDEX362 =
 {
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296":[7,0,0,0,1,2,13,3,3,5],
 "de/d44/boss__renataki_8cpp.html":[7,0,0,0,1,3,2,16,9],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,9,3],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,16,9,3,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX362 =
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,31,4,0,1],
 "de/d58/classinstance__icecrown__citadel.html":[6,0,1311],
 "de/d58/classinstance__icecrown__citadel.html#a0901e23025cff08d1a7516bbef099ffa":[6,0,1311,1],
-"de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1311,2]
+"de/d58/classinstance__icecrown__citadel.html#a787c32626681f15f5515385a9ba6b848":[6,0,1311,2],
+"de/d58/classnpc__andorhal__tower.html":[6,0,1593]
 };

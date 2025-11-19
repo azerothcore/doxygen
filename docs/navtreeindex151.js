@@ -1,6 +1,5 @@
 var NAVTREEINDEX151 =
 {
-"d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298ca13a5c940fa9c148f942c7dfafa064dbb":[7,0,0,0,1,3,2,16,3,12,8],
 "d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298ca19f81401d671991f0e4aff1e394a1739":[7,0,0,0,1,3,2,16,3,12,3],
 "d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,16,3,12,5],
 "d5/da5/boss__hakkar_8cpp.html#a5bd342133be8c2137b831460acc9298ca72fe0a5823dcd35a95b8dfed4ba48b64":[7,0,0,0,1,3,2,16,3,12,0],
@@ -135,10 +134,10 @@ var NAVTREEINDEX151 =
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,31,10,5,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,11,10,5,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,31,10,5,1],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,10,5,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,11,10,5,4],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,10,5,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,31,10,5,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,31,10,5,0],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,11,10,5,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,31,10,5,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,11,10,5,3],
 "d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1],
@@ -243,11 +242,12 @@ var NAVTREEINDEX151 =
 "d5/daf/classnpc__dancing__flames.html":[6,0,1726],
 "d5/daf/classnpc__dancing__flames.html#a1000d0b95dab3a6e73efa0ca088ce4e6":[6,0,1726,2],
 "d5/daf/classnpc__dancing__flames.html#adec0401f876ddf159f28fdda8bc4d563":[6,0,1726,1],
-"d5/db0/classVMAP_1_1WorldModel.html":[6,0,9,27],
 "d5/db0/classVMAP_1_1WorldModel.html":[5,0,28,27],
+"d5/db0/classVMAP_1_1WorldModel.html":[6,0,9,27],
 "d5/db0/classVMAP_1_1WorldModel.html#a101692f46ae752cbde7b264b02e23168":[6,0,9,27,10],
 "d5/db0/classVMAP_1_1WorldModel.html#a101692f46ae752cbde7b264b02e23168":[5,0,28,27,10],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[6,0,9,27,0],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[5,0,28,27,0],
+"d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[6,0,9,27,11],
 "d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[5,0,28,27,11]
 };

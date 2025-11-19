@@ -1,6 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/d80/structboss__hedrum_1_1boss__hedrumAI.html#a95e4af51a8e24fa7b36b924c6cdfb86c":[6,0,527,0,0],
 "de/d80/structboss__hedrum_1_1boss__hedrumAI.html#aa515ed081aaabdad751c1bbba56d3d96":[6,0,527,0,2],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html":[6,0,2154,0],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a1e4291187ff400e6f326ef4acbff41ee":[6,0,2154,0,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX367 =
 "de/d90/InstanceMapScript_8cpp.html":[7,0,0,0,1,2,38,0,57],
 "de/d90/InstanceMapScript_8cpp.html#a1271f70bb9300f8012216659f38edaee":[7,0,0,0,1,2,38,0,57,0],
 "de/d90/OutdoorPvPZM_8h.html":[7,0,0,0,1,3,6,14],
-"de/d90/OutdoorPvPZM_8h.html#a308db265dfb26d8d04ea2b44077d3b42":[7,0,0,0,1,3,6,14,11]
+"de/d90/OutdoorPvPZM_8h.html#a308db265dfb26d8d04ea2b44077d3b42":[7,0,0,0,1,3,6,14,11],
+"de/d90/OutdoorPvPZM_8h.html#a32c62572b4ea0ef1930cffc3e9e2c6fe":[7,0,0,0,1,3,6,14,16]
 };

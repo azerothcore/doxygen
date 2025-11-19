@@ -1,6 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"de/dff/structAcore_1_1WorldObjectLastSearcher.html":[5,0,1,128],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[6,0,0,116,6],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a39a9d66014df641c0cb08f619f9d8434":[5,0,1,128,6],
 "de/dff/structAcore_1_1WorldObjectLastSearcher.html#a5689c8aa9120bc545c98ec0916d78d56":[6,0,0,116,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX378 =
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6700fa8845e9d9e176db1436e7acb285":[7,0,0,0,1,3,2,1,1,0,6,6],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea6ff197e3ec5d7f94d4226d9526641a26":[7,0,0,0,1,3,2,1,1,0,6,11],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea70065ceeb513008ef3c8bc999615b9d4":[7,0,0,0,1,3,2,1,1,0,6,25],
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7612dcdeaa077d67f444debd49979e13":[7,0,0,0,1,3,2,1,1,0,6,8]
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7612dcdeaa077d67f444debd49979e13":[7,0,0,0,1,3,2,1,1,0,6,8],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7695dee687dc803280670bf0fb635086":[7,0,0,0,1,3,2,1,1,0,6,5]
 };

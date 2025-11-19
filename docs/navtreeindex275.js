@@ -1,6 +1,5 @@
 var NAVTREEINDEX275 =
 {
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a220e111467cfb6f02e996f012123e09b":[6,0,1737,0,6],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a258f55153ad857fbf35545cfb87c3d3a":[6,0,1737,0,0],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a517f7412208de83604d0d6806fbc0b34":[6,0,1737,0,4],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a686314ffe4a588a1ba8722a6cab56fc7":[6,0,1737,0,10],
@@ -146,10 +145,10 @@ var NAVTREEINDEX275 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1885,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1885,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1885,0,9],
@@ -169,8 +168,8 @@ var NAVTREEINDEX275 =
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,31,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,6,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4116,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4116,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4116,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX275 =
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ac30b38805d0421b1be509c7d5609c648":[6,0,709,0,3],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ad85e2fd51d67739026a96bc757bc7801":[6,0,709,0,0],
 "db/d2b/classnpc__captain__arnath.html":[6,0,1676],
-"db/d2b/classnpc__captain__arnath.html#a302ec007389e677011334d78f410207b":[6,0,1676,2]
+"db/d2b/classnpc__captain__arnath.html#a302ec007389e677011334d78f410207b":[6,0,1676,2],
+"db/d2b/classnpc__captain__arnath.html#ab96afce64a7714ea84bab932f80c9302":[6,0,1676,1]
 };

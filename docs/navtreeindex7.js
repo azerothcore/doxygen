@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"d0/d5f/WardenModuleWin_8h.html":[7,0,0,0,1,2,46,0,1],
 "d0/d5f/WardenModuleWin_8h.html#a6609439bd06281755d1dd966d61cd743":[7,0,0,0,1,2,46,0,1,1],
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html":[6,0,2118,0],
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#a0a7a0012105dea55fe4c8b51d9df5fc7":[6,0,2118,0,3],
@@ -144,10 +143,10 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3908,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,2,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,2,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,31,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,2,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2321,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2321,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2321,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "d0/d66/classWorldMock.html#ad58bc22de3be97b464419ad0241a4232":[6,0,4312,8],
 "d0/d66/classWorldMock.html#ad86c656afaef0b67e067128776f6602b":[6,0,4312,49],
 "d0/d66/classWorldMock.html#addbd9d98d738e0c75582ec95c404167b":[6,0,4312,16],
-"d0/d66/classWorldMock.html#ade61ccfd74ddbfc08a538cdc85ea0613":[6,0,4312,9]
+"d0/d66/classWorldMock.html#ade61ccfd74ddbfc08a538cdc85ea0613":[6,0,4312,9],
+"d0/d66/classWorldMock.html#adfb5888616d98e3b86249300439bc55c":[6,0,4312,0]
 };

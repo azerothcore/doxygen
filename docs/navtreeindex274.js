@@ -1,6 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"db/d10/ModelInstance_8h.html":[7,0,0,0,0,1,2,4],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccce":[7,0,0,0,0,1,2,4,2],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46":[7,0,0,0,0,1,2,4,2,1],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX274 =
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html":[6,0,1737,0],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a10a3b9b4a2763bac4c9fe5f680850052":[6,0,1737,0,2],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a1780c656fb539be6dcd74e271cea4c53":[6,0,1737,0,9],
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a187340b00067f2f65a7e48845a6edaba":[6,0,1737,0,1]
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a187340b00067f2f65a7e48845a6edaba":[6,0,1737,0,1],
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#a220e111467cfb6f02e996f012123e09b":[6,0,1737,0,6]
 };

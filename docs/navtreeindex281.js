@@ -1,6 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa878a8110f37d65985990578925b51e8b":[7,0,0,0,1,3,9,4,180,0],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa9435c1a867755c85d7441044de224455":[7,0,0,0,1,3,9,4,180,3],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaabe82f02066d4e94d02c9b27f63cd6b16":[7,0,0,0,1,3,9,4,180,2],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbc":[7,0,0,0,1,3,9,4,143],
@@ -238,16 +237,17 @@ var NAVTREEINDEX281 =
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,11,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,31,6,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,6,0,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,11,6,0,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,31,6,0,0],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,11,6,0,0],
 "db/d7b/classgo__gilded__brazier.html":[6,0,1149],
 "db/d7b/classgo__gilded__brazier.html#a2c8ced3e29c05c9d55745c4f10c9202d":[6,0,1149,2],
 "db/d7b/classgo__gilded__brazier.html#a778c753a8432131601371da8849ef004":[6,0,1149,1],
-"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,1],
 "db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,1],
-"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[5,0,1,8,0,1,0],
+"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,1],
 "db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[6,0,0,5,0,1,0],
+"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[5,0,1,8,0,1,0],
 "db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html":[6,0,2215,0],
 "db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#a118d048557b0ed314180299c3cd2bcbc":[6,0,2215,0,5],
-"db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#a60e0706b9285cdf4b25b6f399cad18e9":[6,0,2215,0,0]
+"db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#a60e0706b9285cdf4b25b6f399cad18e9":[6,0,2215,0,0],
+"db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html#a91207c04ecee6fc0e906133e054bf51b":[6,0,2215,0,2]
 };

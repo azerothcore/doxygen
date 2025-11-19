@@ -1,6 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a9583ccd7b642694a06bde4b88826ec7b":[6,0,3611,0],
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#ae797de0ed29b3ca179c07d759b469228":[6,0,3611,2],
 "d2/d00/structPetDefaultSpellsEntry.html":[6,0,2388],
 "d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89":[6,0,2388,0],
@@ -201,12 +200,12 @@ var NAVTREEINDEX49 =
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[6,0,11,10,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,31,10,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[6,0,11,10,2,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,31,10,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,11,10,2,3],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,31,10,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,11,10,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,31,10,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,31,10,2,0],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,11,10,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,31,10,2,0],
 "d2/d0c/structAchievementReward.html":[6,0,118],
 "d2/d0c/structAchievementReward.html#a45644f308278529f822080f8274180d8":[6,0,118,3],
 "d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,118,4],
@@ -228,12 +227,12 @@ var NAVTREEINDEX49 =
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[5,0,1,100],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2170],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2170,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2170,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX49 =
 "d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea":[7,0,0,0,0,5,1,9],
 "d2/d0e/Errors_8h.html#a4dc49effc31d570798463c106549b1cb":[7,0,0,0,0,5,1,20],
 "d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a":[7,0,0,0,0,5,1,0],
-"d2/d0e/Errors_8h.html#a6b3632c6657f3d1633b9a9707d9ede62":[7,0,0,0,0,5,1,6]
+"d2/d0e/Errors_8h.html#a6b3632c6657f3d1633b9a9707d9ede62":[7,0,0,0,0,5,1,6],
+"d2/d0e/Errors_8h.html#a7d9ea9088aab1556ba6739861998001a":[7,0,0,0,0,5,1,8]
 };

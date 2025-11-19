@@ -1,6 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[6,0,2794,3],
 "df/daa/classspell__doomfire.html#a24058b120f4fa06b89f6d582c53a365a":[6,0,2794,2],
 "df/daa/classspell__doomfire.html#a59a9c4dfe06859daac5bb69fa5d20e95":[6,0,2794,1],
 "df/daa/classspell__doomfire.html#aa94e4d6a31a08959a5287b863737c2e2":[6,0,2794,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX394 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,1,89,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,1,89,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,77,4],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,89,3]
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,89,3],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3]
 };

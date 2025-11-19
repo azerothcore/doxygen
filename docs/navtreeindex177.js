@@ -1,6 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7abf74bb42ca9745a4011188bb4c0bd8f3":[7,0,0,0,1,2,16,6,2,8,26],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ac0ce7e2fd17af5dd8ba7a7a41b59771f":[7,0,0,0,1,2,16,6,2,8,14],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ac34a6818132a5c487d7b899c33e273f9":[7,0,0,0,1,2,16,6,2,8,47],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ac415e03f215ff98dfd7f69687b2824cc":[7,0,0,0,1,2,16,6,2,8,37],
@@ -249,5 +248,6 @@ var NAVTREEINDEX177 =
 "d6/db1/classnpc__living__constellation.html":[6,0,1927],
 "d6/db1/classnpc__living__constellation.html#a4533812a4da72c0d9eff6d6c9eaf772a":[6,0,1927,2],
 "d6/db1/classnpc__living__constellation.html#a6ee651a525498cb5715ccfedaa26e05d":[6,0,1927,1],
-"d6/db1/classnpc__paoka__swiftmountain.html":[6,0,2008]
+"d6/db1/classnpc__paoka__swiftmountain.html":[6,0,2008],
+"d6/db1/classnpc__paoka__swiftmountain.html#a3f41d2caae5acb4b79bcc75780db03d2":[6,0,2008,2]
 };

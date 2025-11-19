@@ -1,6 +1,5 @@
 var NAVTREEINDEX245 =
 {
-"d9/de7/classspell__hakkar__power__down.html#a1063358ed71ded8454f35f43442354ab":[6,0,3068,2],
 "d9/de7/classspell__hakkar__power__down.html#a1f133ab9e85f80c225276bf744da6898":[6,0,3068,0],
 "d9/de7/classspell__hakkar__power__down.html#ae554f8be36eabc6d23f823e6d153be2b":[6,0,3068,1],
 "d9/de8/classnpc__ulduar__flames__initial.html":[6,0,2222],
@@ -21,10 +20,10 @@ var NAVTREEINDEX245 =
 "d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,79],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,79,1],
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,79,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,31,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,31,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX245 =
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2806],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2806,2],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a3a5fa4814a7724db0ba7be5c5158798b":[6,0,2806,0],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a4ff0ab22db0bbd4483ddb379de069c48":[6,0,2806,1]
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a4ff0ab22db0bbd4483ddb379de069c48":[6,0,2806,1],
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a909819dde9d5154f3d2cf04b04fa33f7":[6,0,2806,3]
 };

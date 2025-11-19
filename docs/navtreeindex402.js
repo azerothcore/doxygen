@@ -1,6 +1,5 @@
 var NAVTREEINDEX402 =
 {
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX402 =
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#aed675a5238ca6a6312d1758ecbe86aa2":[6,0,1850,0,2],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#aeeea82d3e5869e5f604314474533975c":[6,0,1850,0,3],
 "df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#af55dd229cd141ffab701c6ab77304127":[6,0,1850,0,13],
-"df/df0/structboss__flamegor_1_1boss__flamegorAI.html":[6,0,475,0]
+"df/df0/structboss__flamegor_1_1boss__flamegorAI.html":[6,0,475,0],
+"df/df0/structboss__flamegor_1_1boss__flamegorAI.html#a2e5146815e533cf62e0084a54aa222d5":[6,0,475,0,2]
 };

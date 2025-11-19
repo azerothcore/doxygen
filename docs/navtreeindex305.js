@@ -1,6 +1,5 @@
 var NAVTREEINDEX305 =
 {
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#afeb889f6cee596b2c2229f86e0a8a3f1":[5,0,1,35,6],
 "dc/d33/structPendingSpellCastRequest.html":[6,0,2380],
 "dc/d33/structPendingSpellCastRequest.html#a28f12287e339fd0c6cc9ea8c89c26113":[6,0,2380,5],
 "dc/d33/structPendingSpellCastRequest.html#a51a702f257b784dac4556397dd1c0be4":[6,0,2380,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX305 =
 "dc/d3f/Item_8cpp.html#a02944420353f8ba883b80737f8e63137":[7,0,0,0,1,2,16,4,2,0],
 "dc/d3f/Item_8cpp.html#a0c91640134a5241ec34f91bdec13c8ec":[7,0,0,0,1,2,16,4,2,1],
 "dc/d3f/Item_8cpp.html#a402c3dd64769702b750f96adff4b3a14":[7,0,0,0,1,2,16,4,2,2],
-"dc/d41/boss__archavon_8cpp.html":[7,0,0,0,1,3,5,11,0]
+"dc/d41/boss__archavon_8cpp.html":[7,0,0,0,1,3,5,11,0],
+"dc/d41/boss__archavon_8cpp.html#a73a22ae082f1ae211db2530bf259e3c9":[7,0,0,0,1,3,5,11,0,3]
 };

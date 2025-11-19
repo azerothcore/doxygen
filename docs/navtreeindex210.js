@@ -1,6 +1,5 @@
 var NAVTREEINDEX210 =
 {
-"d8/d11/structSkillLineEntry.html#a3a20ea7c73a6739e89bd570d6f4d4b03":[6,0,2553,4],
 "d8/d11/structSkillLineEntry.html#a7740b26f1bde19a05b002c00eded25e3":[6,0,2553,2],
 "d8/d11/structSkillLineEntry.html#abf285e69e8e2a90626a157cb0c50d158":[6,0,2553,1],
 "d8/d11/structSkillLineEntry.html#afb5e77ab4f6faa132ca62f7664dce116":[6,0,2553,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX210 =
 "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#af55bc32b17bfd45968e668c5591325ae":[6,0,1689,0,2],
 "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#af9b65e2de0dcce5844fbc642b32f5a3f":[6,0,1689,0,13],
 "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#afd59b5e50deb65f7175138272f439740":[6,0,1689,0,4],
-"d8/d1a/IMMAPMgr_8h.html":[7,0,0,0,0,1,0,0]
+"d8/d1a/IMMAPMgr_8h.html":[7,0,0,0,0,1,0,0],
+"d8/d1a/IMMAPMgr_8h.html#a329271d76c3ed7ad6d255d45094b4868":[7,0,0,0,0,1,0,0,1]
 };

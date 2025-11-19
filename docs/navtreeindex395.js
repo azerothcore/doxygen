@@ -1,6 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX395 =
 "df/dd2/structGameObjectData.html#abe0de5925bbdc047e1b0fc3baff039b1":[6,0,1083,9],
 "df/dd2/structGameObjectData.html#ac0918795bd3c37534ad7b7ac64256b16":[6,0,1083,8],
 "df/dd2/structGameObjectData.html#adfb0111d7183eefd893e0cce7691a08e":[6,0,1083,10],
-"df/dd2/structGameObjectData.html#ae12c8c5e7b3c848a57960e4c51d76e84":[6,0,1083,5]
+"df/dd2/structGameObjectData.html#ae12c8c5e7b3c848a57960e4c51d76e84":[6,0,1083,5],
+"df/dd2/structGameObjectData.html#ae8c523cb24a55fcde5d8caac3f82dfd5":[6,0,1083,4]
 };

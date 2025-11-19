@@ -1,6 +1,5 @@
 var NAVTREEINDEX208 =
 {
-"d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544abba4f3d73cd61dfacf1b99a452039031":[7,0,0,0,1,2,16,10,6,20,24],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544abc1c01ee36fa9261b630053e16fbe074":[7,0,0,0,1,2,16,10,6,20,17],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aca5cf26a4e0d2d9e3126ff99ed3796ef":[7,0,0,0,1,2,16,10,6,20,1],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544acaa99b04af24f0d3e5adb2e92d82ffcc":[7,0,0,0,1,2,16,10,6,20,6],
@@ -105,12 +104,12 @@ var NAVTREEINDEX208 =
 "d7/df9/classspell__the__lich__king__play__movie.html#a598baad08c685bba54ad5306e0d521b4":[6,0,3904,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,1,57],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[6,0,0,45],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,1,57,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[6,0,0,45,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,1,57,1],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,1,57,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[6,0,0,45,1],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[6,0,0,45,5],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,1,57,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,1,57,5],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[6,0,0,45,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,1,57,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[6,0,0,45,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[6,0,0,45,0],
@@ -158,8 +157,8 @@ var NAVTREEINDEX208 =
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[6,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[6,0,0,4,0,2,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,1,7,0,2,1],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[6,0,0,4,0,2,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[7,0,0,0,0,3,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX208 =
 "d8/d03/LootMgr_8cpp.html#aade507039245a0e20adcdbf548a7d690":[7,0,0,0,1,2,24,2,6],
 "d8/d03/LootMgr_8cpp.html#aba8aafe6a5d2d251b6e2f539b27f5949":[7,0,0,0,1,2,24,2,22],
 "d8/d03/LootMgr_8cpp.html#abbe10d61650265aabbc5de5685a8b9bb":[7,0,0,0,1,2,24,2,25],
-"d8/d03/LootMgr_8cpp.html#ac7f789f6da959300694693d249113e9f":[7,0,0,0,1,2,24,2,15]
+"d8/d03/LootMgr_8cpp.html#ac7f789f6da959300694693d249113e9f":[7,0,0,0,1,2,24,2,15],
+"d8/d03/LootMgr_8cpp.html#aec1cdee51afe09234ba6b2d917c21916":[7,0,0,0,1,2,24,2,13]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX107 =
 {
-"d3/db4/structboss__julianne.html#a6433d08be0d5562e876e00225ebf7398":[6,0,562,0],
 "d3/db4/structboss__julianne.html#a6938adccd5c781df04dabe6d860f9357":[6,0,562,16],
 "d3/db4/structboss__julianne.html#a6bda02d5534b9087741ee7146ec314b5":[6,0,562,6],
 "d3/db4/structboss__julianne.html#a6c5bd97ad402cc5f5dcda421c5d2bad1":[6,0,562,5],
@@ -74,10 +73,10 @@ var NAVTREEINDEX107 =
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html":[6,0,11,7,12],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[5,0,31,7,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[6,0,11,7,12,1],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,31,7,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[6,0,11,7,12,0],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,31,7,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,31,7,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[6,0,11,7,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,31,7,12,2],
 "d3/dbb/Battleground_8cpp.html":[7,0,0,0,1,2,8,9],
 "d3/dbb/classquest__commandscript.html":[6,0,2454],
 "d3/dbb/classquest__commandscript.html#a044c30fdaedd07060284bd37fd2e226c":[6,0,2454,3],
@@ -96,14 +95,14 @@ var NAVTREEINDEX107 =
 "d3/dbc/classnpc__toc__mage.html#a8270875c1da3e2e96f767362ef90cdc6":[6,0,2189,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[5,0,20,0,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[6,0,6,0,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,20,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[6,0,6,0,2,1],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,20,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[6,0,6,0,2,2],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[6,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[6,0,6,0,2,0],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[6,0,6,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[6,0,4230,1],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#a02538aefc1b014b60957d4c67793000f":[6,0,4230,1,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aca34dff6659f2da63f31e12bb41cf3d0":[6,0,4230,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX107 =
 "d3/dc4/classCorpse.html#a28d222b38b604d2ecc566ef78b4eb8f9":[6,0,913,15],
 "d3/dc4/classCorpse.html#a2f7783ce9a9be85c3212fe86a349766d":[6,0,913,0],
 "d3/dc4/classCorpse.html#a34e2fc9d1f64dedd9da4428b532f145c":[6,0,913,4],
-"d3/dc4/classCorpse.html#a38729445517f20d2427c115364da045f":[6,0,913,1]
+"d3/dc4/classCorpse.html#a38729445517f20d2427c115364da045f":[6,0,913,1],
+"d3/dc4/classCorpse.html#a50a75a8cf344fdb395d456d5cc947489":[6,0,913,10]
 };

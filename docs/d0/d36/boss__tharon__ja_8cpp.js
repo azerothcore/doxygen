@@ -12,7 +12,6 @@ var boss__tharon__ja_8cpp =
       [ "EVENT_SPELL_EYE_BEAM", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7cfb962f489a01f1d7146a2ab0a5cb24", null ],
       [ "EVENT_SPELL_LIGHTNING_BREATH", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abde294ddbf63fb2a3f09c41a0a9f8971", null ],
       [ "EVENT_SPELL_POISON_CLOUD", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adc1502daf3742bcc4f0173a1e3a6fc7f", null ],
-      [ "EVENT_SPELL_TURN_FLESH", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e9e3fb7d8737c592605774cd6135bfe", null ],
       [ "EVENT_TURN_FLESH_REAL", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad045466257ade4d55f0fe5cc2e3cdbef", null ],
       [ "EVENT_TURN_BONES_REAL", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac47c3d622db4e58b13ccd7fc1c7f7263", null ],
       [ "EVENT_KILL_TALK", "d0/d36/boss__tharon__ja_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ]

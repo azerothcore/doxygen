@@ -1,6 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a766d483bf9ac79e7f400d68801efb7b9":[7,0,0,0,1,3,5,12,1,8,5],
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,12,1,8,1],
 "dd/dae/boss__erekem_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,5,12,1,8,3],
 "dd/dae/boss__erekem_8cpp.html#a7ca432272eaa02df22ec89371e09a4e0":[7,0,0,0,1,3,5,12,1,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX334 =
 "dd/dba/structboss__moroes.html#a60d99b80815a2b2626638d6410ce64a2":[6,0,628,14],
 "dd/dba/structboss__moroes.html#a6408ec64b2777dbcd322cb64af3f8c17":[6,0,628,13],
 "dd/dba/structboss__moroes.html#a651f53f476f205785d596ed9d52fdb89":[6,0,628,11],
-"dd/dba/structboss__moroes.html#a677f2b8375981d904183dd804f4b32b8":[6,0,628,9]
+"dd/dba/structboss__moroes.html#a677f2b8375981d904183dd804f4b32b8":[6,0,628,9],
+"dd/dba/structboss__moroes.html#a73f4b3c1a3a46261cf62143f8359b55e":[6,0,628,2]
 };

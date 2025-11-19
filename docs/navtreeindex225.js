@@ -1,6 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/dd6/DBCfmt_8h.html#a1b1da4d88a668d902488bc3bb118855f":[7,0,0,0,1,4,0,3,74],
 "d8/dd6/DBCfmt_8h.html#a205a63d903af9fcb0ab988723c15d5ae":[7,0,0,0,1,4,0,3,12],
 "d8/dd6/DBCfmt_8h.html#a210fd1ba76fc8e4cedb2fb6af0a17947":[7,0,0,0,1,4,0,3,52],
 "d8/dd6/DBCfmt_8h.html#a22724d69363c7aaaec29f964dcc7b268":[7,0,0,0,1,4,0,3,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX225 =
 "d8/dda/classnpc__wizzlecrank__shredder.html":[6,0,2286],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a56a29a61d6f1a5981019f6c059b4da64":[6,0,2286,1],
 "d8/dda/classnpc__wizzlecrank__shredder.html#a5c42cc6d8cf2642333731138077af66e":[6,0,2286,2],
-"d8/dda/classnpc__wizzlecrank__shredder.html#afcd5aaea5234b6510825d9ce5e809aa6":[6,0,2286,3]
+"d8/dda/classnpc__wizzlecrank__shredder.html#afcd5aaea5234b6510825d9ce5e809aa6":[6,0,2286,3],
+"d8/ddb/classAreaTrigger__at__last__rites.html":[6,0,170]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/d79/classGuild.html#a33e1903aeab4de7dd4de301b36e6f2b4":[6,0,1252,10],
 "de/d79/classGuild.html#a36f774ba251d421ed0a6050b51babbb0":[6,0,1252,101],
 "de/d79/classGuild.html#a387321359dc40fb20c38fc2f30992750":[6,0,1252,127],
 "de/d79/classGuild.html#a39f75e3693d9128691c53ade8e93d3d0":[6,0,1252,105],
@@ -249,5 +248,6 @@ var NAVTREEINDEX366 =
 "de/d80/structCliCommandHolder.html#ae333918e09a9de4c9e402c334e076674":[6,0,882,7],
 "de/d80/structCliCommandHolder.html#af7ce6ffac9fa11ce0db6fd10919c4e4a":[6,0,882,0],
 "de/d80/structboss__hedrum_1_1boss__hedrumAI.html":[6,0,527,0],
-"de/d80/structboss__hedrum_1_1boss__hedrumAI.html#a1cf03b06598f2b36814062d47a73ed82":[6,0,527,0,1]
+"de/d80/structboss__hedrum_1_1boss__hedrumAI.html#a1cf03b06598f2b36814062d47a73ed82":[6,0,527,0,1],
+"de/d80/structboss__hedrum_1_1boss__hedrumAI.html#a95e4af51a8e24fa7b36b924c6cdfb86c":[6,0,527,0,0]
 };

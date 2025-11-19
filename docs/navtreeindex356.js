@@ -1,6 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"de/d16/structnpc__chicken__cluck_1_1npc__chicken__cluckAI.html#aa5d6d3ea3ad4d0f81781581a39933fc8":[6,0,1687,0,2],
 "de/d18/AddonMgr_8cpp.html":[7,0,0,0,1,2,2,0],
 "de/d18/AddonMgr_8cpp.html#a65cb6a88902972060e44c57d7d9ec738":[7,0,0,0,1,2,2,0,0],
 "de/d18/AddonMgr_8cpp.html#a85021021149b7eb4d78cbe81e43d3d45":[7,0,0,0,1,2,2,0,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX356 =
 "de/d1c/classGameObject.html#ada1b29bc954bfa90d75aeb9dfabfdb71":[6,0,1078,183],
 "de/d1c/classGameObject.html#adcd109089dc736a312e7ca246d084437":[6,0,1078,7],
 "de/d1c/classGameObject.html#ae1958d6a9d5344d404f718c6cba51128":[6,0,1078,28],
-"de/d1c/classGameObject.html#ae38c7dd568ca56e2736bd0bb1c89ed8b":[6,0,1078,147]
+"de/d1c/classGameObject.html#ae38c7dd568ca56e2736bd0bb1c89ed8b":[6,0,1078,147],
+"de/d1c/classGameObject.html#ae440206cdc223f8e589909cfd86fbccc":[6,0,1078,61]
 };

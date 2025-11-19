@@ -1,6 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dd/d14/classnpc__rotting__frost__giant.html#ad4440216e11a00d97af43dc5f3957e95":[6,0,2091,1],
 "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI.html":[6,0,2080,0],
 "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI.html#aa7b4393b93be92fbb595648cede832be":[6,0,2080,0,1],
 "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI.html#ad0fca96e2c770ef179d98dcdd9aaca6e":[6,0,2080,0,2],
@@ -104,14 +103,14 @@ var NAVTREEINDEX321 =
 "dd/d1a/classnpc__vortex__ride.html":[6,0,2270],
 "dd/d1a/classnpc__vortex__ride.html#a23ef53feb432127db2620810a55d02ff":[6,0,2270,2],
 "dd/d1a/classnpc__vortex__ride.html#ad794cda407c9dfc35dd9bc2724f5014a":[6,0,2270,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,67],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,55],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,67],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,67,0],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,67,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,55,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,55,1],
 "dd/d1b/classhonor__commandscript.html":[6,0,1269],
@@ -249,5 +248,6 @@ var NAVTREEINDEX321 =
 "dd/d25/classGuildScript.html#a2309a1ae2828cb7c758a5cf0329f1f5a":[6,0,1256,9],
 "dd/d25/classGuildScript.html#a293f3d822ae075246f1a7552ce9b0424":[6,0,1256,1],
 "dd/d25/classGuildScript.html#a3ce284c112b61c6077b509d55a52f388":[6,0,1256,8],
-"dd/d25/classGuildScript.html#a503c5116512f8ac45506732674aa5635":[6,0,1256,11]
+"dd/d25/classGuildScript.html#a503c5116512f8ac45506732674aa5635":[6,0,1256,11],
+"dd/d25/classGuildScript.html#a5c840084ca74af0556ac5d6256bfd75d":[6,0,1256,6]
 };

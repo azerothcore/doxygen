@@ -1,6 +1,5 @@
 var NAVTREEINDEX300 =
 {
-"dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,2,4,1,2,3],
 "dc/d06/boss__curator_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,2,4,1,2,1],
 "dc/d06/boss__curator_8cpp.html#af502fe83c3c2b212621876f1c04b1e02":[7,0,0,0,1,3,2,4,1,3],
 "dc/d07/boss__magtheridon_8cpp.html":[7,0,0,0,1,3,7,4,2,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX300 =
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a32d9b6bd2f0b994adb33e2bd99dd34ce":[6,0,2048,0,1],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#a91277c41ddebffed7e9dac7098cd78bd":[6,0,2048,0,3],
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#ad4ed0e2380c62cc6dd7d309edfd34ac1":[6,0,2048,0,2],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html":[6,0,2892]
+"dc/d0a/classspell__frostwarden__handler__order__whelp.html":[6,0,2892],
+"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a14e392760361b95578bc95de10cdd8aa":[6,0,2892,0]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"d8/ddb/classAreaTrigger__at__last__rites.html":[6,0,170],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a30d1930c76920ab12cf4f9b04fd5f0e4":[6,0,170,0],
 "d8/ddb/classAreaTrigger__at__last__rites.html#a48f6e2041cda24812a165fa0fb62f1b6":[6,0,170,1],
 "d8/ddc/classspell__gen__summon__target__floor.html":[6,0,3031],
@@ -249,5 +248,6 @@ var NAVTREEINDEX226 =
 "d8/de1/structCalendarInvite.html":[6,0,835],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,835,17],
 "d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,835,7],
-"d8/de1/structCalendarInvite.html#a1a4c97cf72f6fa1889ab61e003f5193a":[6,0,835,15]
+"d8/de1/structCalendarInvite.html#a1a4c97cf72f6fa1889ab61e003f5193a":[6,0,835,15],
+"d8/de1/structCalendarInvite.html#a1a6cc7497129199fc6104908b0ed730d":[6,0,835,26]
 };

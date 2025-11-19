@@ -1,6 +1,5 @@
 var NAVTREEINDEX50 =
 {
-"d2/d0e/Errors_8h.html#a7d9ea9088aab1556ba6739861998001a":[7,0,0,0,0,5,1,8],
 "d2/d0e/Errors_8h.html#aa8e391e13264a7b2f29f66832263afcf":[7,0,0,0,0,5,1,16],
 "d2/d0e/Errors_8h.html#aaacb53f863e011c7d879e93567268109":[7,0,0,0,0,5,1,14],
 "d2/d0e/Errors_8h.html#aab8761bc4b218ac84ad259cc6e0c1589":[7,0,0,0,0,5,1,5],
@@ -127,8 +126,8 @@ var NAVTREEINDEX50 =
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[6,0,11,9,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[6,0,11,9,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,31,9,2,1],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,31,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[6,0,11,9,2,2],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,31,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,31,9,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[6,0,11,9,2,4],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a8983b7b88a76955d9a0e2241ffb1e472":[6,0,11,9,2,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX50 =
 "d2/d1b/classWorldSocket.html#a7e5bd5454c788e5e71057996734f12e8":[6,0,4320,9],
 "d2/d1b/classWorldSocket.html#a7f66197c2456497e6c010853881a9695":[6,0,4320,37],
 "d2/d1b/classWorldSocket.html#a87118ab4a130ec3f2e3446343d6bb741":[6,0,4320,30],
-"d2/d1b/classWorldSocket.html#a890a2e8b5344f320a37b5f185e48998a":[6,0,4320,27]
+"d2/d1b/classWorldSocket.html#a890a2e8b5344f320a37b5f185e48998a":[6,0,4320,27],
+"d2/d1b/classWorldSocket.html#a8bdf86729c502d90fa35d8d9b8929b94":[6,0,4320,22]
 };

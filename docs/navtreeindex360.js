@@ -1,6 +1,5 @@
 var NAVTREEINDEX360 =
 {
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[7,0,0,0,1,2,16,7,18,1,2],
 "de/d33/classHordeChannelMgr.html":[6,0,1271],
 "de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1271,0],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2871],
@@ -249,5 +248,6 @@ var NAVTREEINDEX360 =
 "de/d3c/structTriggeredByAuraSpellData.html#afbb1ffd006dc6eb00ccd65add87b1b22":[6,0,4205,6],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html":[6,0,689,0],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b":[6,0,689,0,5],
-"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aacf26c52f77ef4eb084814934f00aab1":[6,0,689,0,4]
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aacf26c52f77ef4eb084814934f00aab1":[6,0,689,0,4],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aad9556374e26cbea7641461510fef9ba":[6,0,689,0,1]
 };

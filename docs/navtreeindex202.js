@@ -1,6 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/db0/classMap.html#ae759ebefcfc853ac1e057f18cae43da6":[6,0,1478,210],
 "d7/db0/classMap.html#ae91440e7f257616aee79efc0bb6021c6":[6,0,1478,80],
 "d7/db0/classMap.html#ae9f3e5261fbe241735938523f70adf10":[6,0,1478,228],
 "d7/db0/classMap.html#aeb1afbeb92aa93a0237fac3486574206":[6,0,1478,254],
@@ -249,5 +248,6 @@ var NAVTREEINDEX202 =
 "d7/dba/classat__zulgurub__bridge__speech.html#a67234a1f4c77888a8535d0ea52e16ba9":[6,0,254,1],
 "d7/dba/classspell__deathbringer__blood__link.html":[6,0,2728],
 "d7/dba/classspell__deathbringer__blood__link.html#a1c67a262eb95def51661919a3bad3437":[6,0,2728,3],
-"d7/dba/classspell__deathbringer__blood__link.html#a250c95310503cd59d73e45a9b9372268":[6,0,2728,2]
+"d7/dba/classspell__deathbringer__blood__link.html#a250c95310503cd59d73e45a9b9372268":[6,0,2728,2],
+"d7/dba/classspell__deathbringer__blood__link.html#a89c0706f21fe92fd443c3638181044ec":[6,0,2728,0]
 };

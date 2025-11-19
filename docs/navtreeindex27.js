@@ -1,6 +1,5 @@
 var NAVTREEINDEX27 =
 {
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a654947f2b1dce457f56327e7dff8ccf4":[6,0,1358,0,6],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a7381d84943028f66b339168724b467b8":[6,0,1358,0,12],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a79b3f358115fecb63e1cfb45801fdffb":[6,0,1358,0,11],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a826800c63083d2af31847118c8b05e57":[6,0,1358,0,15],
@@ -237,17 +236,18 @@ var NAVTREEINDEX27 =
 "d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f":[7,0,0,0,1,2,38,0,79,4],
 "d1/d2d/SpellScriptLoader_8h.html#aedecf91f4fce46852db865deae243e1f":[7,0,0,0,1,2,38,0,79,5],
 "d1/d2d/SpellScriptLoader_8h.html#aeffc3c8d08a35d5969c33508488e9051":[7,0,0,0,1,2,38,0,79,3],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html":[6,0,0,8],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html":[5,0,1,20],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[6,0,0,8,1],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html":[6,0,0,8],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[5,0,1,20,1],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a09a2a03dca2b8470cd1d1f7c8273868b":[6,0,0,8,1],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[5,0,1,20,6],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a3d29de9c5d80c3df488aa01fa380a84a":[6,0,0,8,6],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[5,0,1,20,0],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[6,0,0,8,0],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#a7e280083c80fd119d365649fd4578fc9":[5,0,1,20,0],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[6,0,0,8,2],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc":[5,0,1,20,2],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[5,0,1,20,5],
 "d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ab659b7c7bd6426a023cf8668322327b8":[6,0,0,8,5],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[6,0,0,8,4]
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[6,0,0,8,4],
+"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[5,0,1,20,4]
 };

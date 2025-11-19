@@ -1,6 +1,5 @@
 var NAVTREEINDEX339 =
 {
-"dd/ddb/class__SpellScript.html#a0ee15cbc62cccd346ce148c6acbe96f9":[6,0,16,17],
 "dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[6,0,16,3],
 "dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[6,0,16,19],
 "dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[6,0,16,18],
@@ -225,10 +224,10 @@ var NAVTREEINDEX339 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3056],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[6,0,3056,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[6,0,3056,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX339 =
 "dd/dec/classChannelMgr.html#a89dbd4095eeeb79ae59947beb2d2cd17":[6,0,848,5],
 "dd/dec/classChannelMgr.html#a92540d37b38ccc032665fa220349a4ec":[6,0,848,7],
 "dd/dec/classChannelMgr.html#aa671334be6933f374466666ec5c6cc46":[6,0,848,2],
-"dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f":[6,0,848,16]
+"dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f":[6,0,848,16],
+"dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5":[6,0,848,10]
 };

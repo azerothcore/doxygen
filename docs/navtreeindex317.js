@@ -1,6 +1,5 @@
 var NAVTREEINDEX317 =
 {
-"dc/ddc/classinstance__eye__of__eternity.html#afcab4ba969d0423871a4e398627a323d":[6,0,1301,1],
 "dc/ddc/firework__show__ThunderBluff_8h.html":[7,0,0,0,1,3,3,0,10],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1":[7,0,0,0,1,3,3,0,10,0],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ac35fd5df42f24906b21b6887860b96a5":[7,0,0,0,1,3,3,0,10,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX317 =
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a5043a99a4a3d1c86a4a7026757ebdc14":[6,0,1322,0,11],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a559b482989ee8f91f1ba412683856d89":[6,0,1322,0,20],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a58b0b5142cbae350d6cc61c89a3792af":[6,0,1322,0,10],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a7046a9b087300d0854bb1078c7bd1c9b":[6,0,1322,0,7]
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a7046a9b087300d0854bb1078c7bd1c9b":[6,0,1322,0,7],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a84fa94a97c62ba7b68130c7a5d8bb4dd":[6,0,1322,0,8]
 };

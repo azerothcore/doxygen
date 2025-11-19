@@ -1,6 +1,5 @@
 var NAVTREEINDEX251 =
 {
-"da/d20/structLiquidTypeEntry.html#a94843a6f0cb39332f39a9630945f1fc8":[6,0,1430,0],
 "da/d20/structLiquidTypeEntry.html#aa010947f5fbec6867b005b25728e720b":[6,0,1430,2],
 "da/d21/RealmList_8cpp.html":[7,0,0,0,1,4,3,2],
 "da/d21/classInvalidAppenderArgsException.html":[6,0,1369],
@@ -249,5 +248,6 @@ var NAVTREEINDEX251 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68f64263ab9715e5f33284b9992e8916":[7,0,0,0,1,2,41,0,0,6,49],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a69829b5093944e4f9eab44cc3f4db203":[7,0,0,0,1,2,41,0,0,6,156],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6a5808394c990e4ab270f17bc9415b16":[7,0,0,0,1,2,41,0,0,6,58],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[7,0,0,0,1,2,41,0,0,6,201]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[7,0,0,0,1,2,41,0,0,6,201],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c38d7d76b8741d45023a0ccc3c0f9b3":[7,0,0,0,1,2,41,0,0,6,25]
 };

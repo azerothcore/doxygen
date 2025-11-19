@@ -1,6 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caff9621704258262228dc3a9943a6056f":[7,0,0,0,1,3,2,4,10,10,2],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,2,4,10,11],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,10,11,1],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba579e6c58ffcd03b92b428ca3ae9e71ad":[7,0,0,0,1,3,2,4,10,11,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX240 =
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22af7f03b173ce5d732418cf1cd2d313808":[7,0,0,0,1,3,2,15,8,4,7],
 "d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22afed37b4cccbefb71eae3b750ca256a8a":[7,0,0,0,1,3,2,15,8,4,13],
 "d9/d99/classspell__gen__basic__campfire.html":[6,0,2919],
-"d9/d99/classspell__gen__basic__campfire.html#a42dea7b58aed704a6aacd5d0aa0028d4":[6,0,2919,1]
+"d9/d99/classspell__gen__basic__campfire.html#a42dea7b58aed704a6aacd5d0aa0028d4":[6,0,2919,1],
+"d9/d99/classspell__gen__basic__campfire.html#a6919079b43a816eb601a68c51ad39794":[6,0,2919,3]
 };

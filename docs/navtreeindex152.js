@@ -1,6 +1,5 @@
 var NAVTREEINDEX152 =
 {
-"d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[6,0,9,27,11],
 "d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[6,0,9,27,6],
 "d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[5,0,28,27,6],
 "d5/db0/classVMAP_1_1WorldModel.html#a63c3d4e85d0924d6c46d8b6c6f70a593":[6,0,9,27,3],
@@ -9,22 +8,22 @@ var NAVTREEINDEX152 =
 "d5/db0/classVMAP_1_1WorldModel.html#a8e33038d14961c4f28b36d2bd2237df6":[5,0,28,27,4],
 "d5/db0/classVMAP_1_1WorldModel.html#a9dd4a14ce5af9f108714ec263a3507f7":[5,0,28,27,2],
 "d5/db0/classVMAP_1_1WorldModel.html#a9dd4a14ce5af9f108714ec263a3507f7":[6,0,9,27,2],
-"d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[5,0,28,27,5],
 "d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[6,0,9,27,5],
-"d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[6,0,9,27,7],
+"d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[5,0,28,27,5],
 "d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[5,0,28,27,7],
-"d5/db0/classVMAP_1_1WorldModel.html#ae44c57520cea5da5a5f082167e9f818d":[6,0,9,27,9],
+"d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[6,0,9,27,7],
 "d5/db0/classVMAP_1_1WorldModel.html#ae44c57520cea5da5a5f082167e9f818d":[5,0,28,27,9],
+"d5/db0/classVMAP_1_1WorldModel.html#ae44c57520cea5da5a5f082167e9f818d":[6,0,9,27,9],
 "d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[5,0,28,27,1],
 "d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[6,0,9,27,1],
-"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[6,0,9,27,8],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,28,27,8],
+"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[6,0,9,27,8],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[5,0,28,3],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[6,0,9,3],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,9,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[5,0,28,3,0],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,28,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,9,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[6,0,9,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,28,3,1],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html":[6,0,1963],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html#aacb82b08ec0fef0f53d7e251e010abd8":[6,0,1963,0],
 "d5/db2/BattlegroundWS_8h.html":[7,0,0,0,1,2,8,1,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#a3380f2b8292d2d5c556f847f9543c910":[6,0,4288,8],
 "d5/db6/classWheatyExceptionReport.html#a34bb88e7e896ce853e1b9d9680f5d11c":[6,0,4288,3],
 "d5/db6/classWheatyExceptionReport.html#a4f3c3ad1feee5f374492c8b523ea57a5":[6,0,4288,19],
-"d5/db6/classWheatyExceptionReport.html#a5223273fb7e327f4f49204907de37a72":[6,0,4288,18]
+"d5/db6/classWheatyExceptionReport.html#a5223273fb7e327f4f49204907de37a72":[6,0,4288,18],
+"d5/db6/classWheatyExceptionReport.html#a55451b8b477da951605df962390ea9c1":[6,0,4288,39]
 };

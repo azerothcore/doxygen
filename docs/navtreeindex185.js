@@ -1,6 +1,5 @@
 var NAVTREEINDEX185 =
 {
-"d7/d1d/classAuraScript_1_1EffectApplyHandler.html#a7ab5f0786000c217e2fc71201a8990b6":[6,0,288,6,0],
 "d7/d1d/classAuraScript_1_1EffectApplyHandler.html#ac776375c5a5de321edc572c87e983193":[6,0,288,6,2],
 "d7/d1d/classAuraScript_1_1EffectApplyHandler.html#acd715556a7661f688ce0de9afe62250a":[6,0,288,6,3],
 "d7/d1e/AllMapScript_8cpp.html":[7,0,0,0,1,2,38,0,18],
@@ -14,12 +13,12 @@ var NAVTREEINDEX185 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2272,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2272,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2272,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0":[7,0,0,0,1,3,5,25,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370":[7,0,0,0,1,3,5,25,21,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX185 =
 "d7/d25/classspell__illidan__draw__soul.html#adb676b9d6f36c30efbb8286b1e5edf6d":[6,0,3189,2],
 "d7/d25/structnpc__pet__darting__hatchling.html":[6,0,2013],
 "d7/d25/structnpc__pet__darting__hatchling.html#a23196d05aebe5fa4a65455c55368820a":[6,0,2013,2],
-"d7/d25/structnpc__pet__darting__hatchling.html#a29ea5438bab7e606175c02165a607f9b":[6,0,2013,1]
+"d7/d25/structnpc__pet__darting__hatchling.html#a29ea5438bab7e606175c02165a607f9b":[6,0,2013,1],
+"d7/d25/structnpc__pet__darting__hatchling.html#a3539276158abb5fd183ed1aa03a8ead8":[6,0,2013,3]
 };

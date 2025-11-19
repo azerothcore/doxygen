@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"d0/d5b/classPlayerScript.html#a1d5c2effb74f35fe67e3725633f38009":[6,0,2415,22],
 "d0/d5b/classPlayerScript.html#a1eeaaf871d40e940fab5cb646cbdf6e7":[6,0,2415,42],
 "d0/d5b/classPlayerScript.html#a1ff7dab5ba016059ae3ac9ad880e72c8":[6,0,2415,124],
 "d0/d5b/classPlayerScript.html#a20848bb0164df83c152f4a7de89b14ec":[6,0,2415,67],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "d0/d5e/classWorldSessionMgr.html#ae70975cbfbfa31a91ef819b76d1ff6c6":[6,0,4319,17],
 "d0/d5e/classWorldSessionMgr.html#af32e97573c3742b0e922a6537d9c56ac":[6,0,4319,31],
 "d0/d5e/classWorldSessionMgr.html#aff17c7a73420146c5a0cfe6a05e9339d":[6,0,4319,21],
-"d0/d5e/classWorldSessionMgr.html#aff543987bdf9b5d8c293ddfa393d3c7b":[6,0,4319,2]
+"d0/d5e/classWorldSessionMgr.html#aff543987bdf9b5d8c293ddfa393d3c7b":[6,0,4319,2],
+"d0/d5f/WardenModuleWin_8h.html":[7,0,0,0,1,2,46,0,1]
 };

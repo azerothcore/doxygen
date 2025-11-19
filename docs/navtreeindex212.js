@@ -1,6 +1,5 @@
 var NAVTREEINDEX212 =
 {
-"d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f04a0aa5c435f7d169d18d36123ea7b":[7,0,0,0,1,3,5,7,10,5,4],
 "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc":[7,0,0,0,1,3,5,7,10,5,1],
 "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca625ad0393d1c2c5e2c1c0b14e70eaae7":[7,0,0,0,1,3,5,7,10,5,3],
 "d8/d35/boss__noth_8cpp.html#a5bd342133be8c2137b831460acc9298ca9bee2bba520a8899d3186cab0207f32d":[7,0,0,0,1,3,5,7,10,5,0],
@@ -20,8 +19,8 @@ var NAVTREEINDEX212 =
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,133],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,121,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,133,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX212 =
 "d8/d3e/classEscortMovementGenerator.html#a4c191a86f5ecc30ae5b34d7578d58d3e":[6,0,1028,1],
 "d8/d3e/classEscortMovementGenerator.html#a524bb8f72836dc5d1b63e429436b3a77":[6,0,1028,4],
 "d8/d3e/classEscortMovementGenerator.html#a61d74b098d1ae692ce305fa493aaa6d2":[6,0,1028,6],
-"d8/d3e/classEscortMovementGenerator.html#a91a6caae81e7715fdcf4c7134f88bc0b":[6,0,1028,0]
+"d8/d3e/classEscortMovementGenerator.html#a91a6caae81e7715fdcf4c7134f88bc0b":[6,0,1028,0],
+"d8/d3e/classEscortMovementGenerator.html#a9f7048c5e49cc09f809496312a0c6550":[6,0,1028,10]
 };

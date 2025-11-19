@@ -1,6 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"d6/d26/classBattlefield.html#a6efbeb418565424c9ef82bbdc9ee0852":[6,0,311,7],
 "d6/d26/classBattlefield.html#a709eb579668329424b44794df75bf85b":[6,0,311,62],
 "d6/d26/classBattlefield.html#a7252af448fe91704c953d0b213dfb153":[6,0,311,21],
 "d6/d26/classBattlefield.html#a740e22ee66149876955d9fe592a6e56a":[6,0,311,73],
@@ -204,8 +203,8 @@ var NAVTREEINDEX165 =
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,31,10,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,31,10,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,11,10,0,1],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,10,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[5,0,31,10,0,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,10,0,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[5,0,31,10,0,2],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a89c071e81c9d39c099c32c4976f15304":[6,0,11,10,0,2],
 "d6/d2d/structPosition_1_1PositionXYZOStreamer.html":[6,0,2430,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX165 =
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a62fcbef0038fe9a7138acf202d6e7378":[6,0,1310,0,20],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a6d48f27c687dc23bb2e60cae55fd33f4":[6,0,1310,0,19],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a74d576ec11f4b6027b42ed503e54d3e3":[6,0,1310,0,14],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a87fd932691795e2d3fb9c8e6de12a20f":[6,0,1310,0,9]
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a87fd932691795e2d3fb9c8e6de12a20f":[6,0,1310,0,9],
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a9bea0d89252e7b6154b2acd67960818a":[6,0,1310,0,24]
 };

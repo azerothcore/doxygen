@@ -1,6 +1,5 @@
 var NAVTREEINDEX309 =
 {
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[5,0,31,6,23,0],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[6,0,11,6,23,1],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[5,0,31,6,23,1],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html":[6,0,3199],
@@ -76,12 +75,12 @@ var NAVTREEINDEX309 =
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#a0767ac60151517b803e871a0fcb25967":[6,0,2805,1],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#ac0b2cf06027c2f658745d6a90dfc76a1":[6,0,2805,0],
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#afd1e28b224035aef5ac109f38d7e118d":[6,0,2805,2],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html":[6,0,11,16],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html":[5,0,31,16],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html":[6,0,11,16],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[6,0,11,16,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,31,16,3],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,11,16,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,31,16,1],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,11,16,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,11,16,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,31,16,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,11,16,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX309 =
 "dc/d78/classBattlegroundAB.html#ad38dd250dc586c1092b4a19e0d13f544":[6,0,315,3],
 "dc/d78/classBattlegroundAB.html#ad685d2c159dbb1b7e2a03ec0f40a9276":[6,0,315,2],
 "dc/d78/classBattlegroundAB.html#ad7a3d2b4777f2c4551089dfff743fcb8":[6,0,315,6],
-"dc/d78/classBattlegroundAB.html#aedd3f2b9479f3a3e9da5c5349ad08e0a":[6,0,315,14]
+"dc/d78/classBattlegroundAB.html#aedd3f2b9479f3a3e9da5c5349ad08e0a":[6,0,315,14],
+"dc/d78/classBattlegroundAB.html#affbcaa60ea4b97660d995264cf87cf22":[6,0,315,20]
 };

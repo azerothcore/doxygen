@@ -1,6 +1,5 @@
 var NAVTREEINDEX69 =
 {
-"d2/d8f/structScriptInfo.html#a9bb192e3b11b3ca87b0eac0dd7fb8b6e":[6,0,2518,57],
 "d2/d8f/structScriptInfo.html#a9bd4877584a1b9cd57cb2e99ed663a4c":[6,0,2518,51],
 "d2/d8f/structScriptInfo.html#aa04d895cf40adf3df5a771ac16d2bcba":[6,0,2518,67],
 "d2/d8f/structScriptInfo.html#aa0aebe062e010e3ca94c71dad40240aa":[6,0,2518,65],
@@ -249,5 +248,6 @@ var NAVTREEINDEX69 =
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#aabe244008103ff317e3fc1e26b04115a":[6,0,3589,1],
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#ae9939f2795b8ba428277c7d658af715c":[6,0,3589,0],
 "d2/da5/wdtfile_8h.html":[7,0,0,0,3,4,15],
+"d2/da8/classVMAP_1_1GroupModel.html":[6,0,9,4],
 "d2/da8/classVMAP_1_1GroupModel.html":[5,0,28,4]
 };

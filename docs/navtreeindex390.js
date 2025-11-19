@@ -1,6 +1,5 @@
 var NAVTREEINDEX390 =
 {
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4073,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4073,0],
 "df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
 "df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,1,1,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX390 =
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html":[6,0,660,0],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a1102dc1a5feabf3b4a9cf170835f8ade":[6,0,660,0,2],
 "df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a16265a5ba6d78302034b2a2804e59e24":[6,0,660,0,14],
-"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a32615a07ab4974923a9f8ed3fb6b5eb5":[6,0,660,0,4]
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a32615a07ab4974923a9f8ed3fb6b5eb5":[6,0,660,0,4],
+"df/d96/structboss__prince__keleseth__icc_1_1boss__prince__kelesethAI.html#a3eb78ce24d15d0a4df15cf4f19f78c00":[6,0,660,0,20]
 };

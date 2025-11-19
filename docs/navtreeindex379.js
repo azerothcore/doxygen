@@ -1,6 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7695dee687dc803280670bf0fb635086":[7,0,0,0,1,3,2,1,1,0,6,5],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7a779e1a0e8de1430067af278fc96af2":[7,0,0,0,1,3,2,1,1,0,6,2],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7bea8e90477623f05c541bdd342245e7":[7,0,0,0,1,3,2,1,1,0,6,24],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea827906857536cff0db22b50edd757d5b":[7,0,0,0,1,3,2,1,1,0,6,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX379 =
 "df/d17/group__world.html#ga26aa1cb8ae0de12da27fef70a5b9c7ab":[4,2,15],
 "df/d17/group__world.html#ga32b7b9e733438755c99c2abd6cb8c94d":[4,2,18],
 "df/d17/group__world.html#ga32e650a32fc1e01bdb6fbfd960fd022f":[4,2,43],
-"df/d17/group__world.html#ga3495c619f0ddde94913cbaea0a6354fa":[4,2,50]
+"df/d17/group__world.html#ga3495c619f0ddde94913cbaea0a6354fa":[4,2,50],
+"df/d17/group__world.html#ga474650c5237c4a7428e858775fea7b86":[4,2,58]
 };

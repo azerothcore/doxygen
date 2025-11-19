@@ -1,6 +1,5 @@
 var NAVTREEINDEX384 =
 {
-"df/d31/structWaveDataCreature.html#a127341c70f8785ceb556b1c11b23f477":[6,0,4271,0],
 "df/d31/structWaveDataCreature.html#a2d5f42a6b1a309c8db74febcedf457eb":[6,0,4271,3],
 "df/d31/structWaveDataCreature.html#a6346259269af7f2936f959f87288dd69":[6,0,4271,4],
 "df/d31/structWaveDataCreature.html#aa57ff686c5fde12269e231333d8a8bef":[6,0,4271,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX384 =
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[6,0,5,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,18,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22],
-"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22]
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22],
+"df/d3e/namespaceGameTime.html":[5,0,16]
 };

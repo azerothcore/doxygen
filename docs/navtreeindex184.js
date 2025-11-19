@@ -1,6 +1,5 @@
 var NAVTREEINDEX184 =
 {
-"d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,4,2,2,2],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55df240774f64fad6740b9cb5cab7b5f":[7,0,0,0,1,3,5,4,2,2,2,1],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56fde88b675883e881d730c66896bec3":[7,0,0,0,1,3,5,4,2,2,2,3],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a90e7e657e3719415de493255c309f46c":[7,0,0,0,1,3,5,4,2,2,2,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX184 =
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,5,5,5,4,5],
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288":[7,0,0,0,1,3,5,5,5,4,4],
 "d7/d1d/classAuraScript_1_1EffectApplyHandler.html":[6,0,288,6],
-"d7/d1d/classAuraScript_1_1EffectApplyHandler.html#a4c02a1b42d7b3a02633dc9600b0e09bb":[6,0,288,6,1]
+"d7/d1d/classAuraScript_1_1EffectApplyHandler.html#a4c02a1b42d7b3a02633dc9600b0e09bb":[6,0,288,6,1],
+"d7/d1d/classAuraScript_1_1EffectApplyHandler.html#a7ab5f0786000c217e2fc71201a8990b6":[6,0,288,6,0]
 };

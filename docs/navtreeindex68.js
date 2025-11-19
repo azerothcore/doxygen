@@ -1,6 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d2/d82/classachievement__once__bitten__twice__shy.html":[6,0,78],
 "d2/d82/classachievement__once__bitten__twice__shy.html#a297cf6da45b0cddb4dc9fc888919bdda":[6,0,78,3],
 "d2/d82/classachievement__once__bitten__twice__shy.html#a6f02f5ab07143ddff553279049714902":[6,0,78,2],
 "d2/d82/classachievement__once__bitten__twice__shy.html#aa2e3ac3e8a14b06446174e475ac18af3":[6,0,78,1],
@@ -63,10 +62,10 @@ var NAVTREEINDEX68 =
 "d2/d88/structnpc__oculus__drake_1_1npc__oculus__drakeAI.html#aebb8fb75777d7fc3ddc69dc558b08f7e":[6,0,1996,0,4],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[6,0,0,3,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
 "d2/d8a/TicketScript_8cpp.html":[7,0,0,0,1,2,38,0,80],
 "d2/d8a/TicketScript_8cpp.html#a3455c8aecfa91396c5eb215ecbce5583":[7,0,0,0,1,2,38,0,80,0],
 "d2/d8a/classat__dragonspire__hall.html":[6,0,216],
@@ -104,10 +103,10 @@ var NAVTREEINDEX68 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a8f47be670df5df4f42031aa4423e0cbe":[6,0,2518,42],
 "d2/d8f/structScriptInfo.html#a8fbae9e72a112c1c9f3440910b00f262":[6,0,2518,47],
 "d2/d8f/structScriptInfo.html#a91c39f49adbd09706533d287afcaed40":[6,0,2518,77],
-"d2/d8f/structScriptInfo.html#a98139443889cfa2bc14e3b24ad58a8fc":[6,0,2518,45]
+"d2/d8f/structScriptInfo.html#a98139443889cfa2bc14e3b24ad58a8fc":[6,0,2518,45],
+"d2/d8f/structScriptInfo.html#a9bb192e3b11b3ca87b0eac0dd7fb8b6e":[6,0,2518,57]
 };

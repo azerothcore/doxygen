@@ -1,6 +1,5 @@
 var NAVTREEINDEX383 =
 {
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb":[7,0,0,0,1,3,2,2,1,3,7],
 "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac":[7,0,0,0,1,3,2,2,1,3,4],
 "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daee49fd68149e134d493d16c3dc7fa5cb":[7,0,0,0,1,3,2,2,1,3,2],
 "df/d23/deadmines_8h.html#a1c13a8c05a90adc47a26dfc907b60659":[7,0,0,0,1,3,2,2,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX383 =
 "df/d31/classspell__hun__generic__scaling.html#ab5feede17fa79c9d02fa459586eaca41":[6,0,3125,0],
 "df/d31/classspell__hun__generic__scaling.html#ade1b7256d19b526a7f4b1520f6b2f663":[6,0,3125,4],
 "df/d31/classspell__hun__generic__scaling.html#af2b1da799f1b3c0373dc6782dabbf89c":[6,0,3125,1],
-"df/d31/structWaveDataCreature.html":[6,0,4271]
+"df/d31/structWaveDataCreature.html":[6,0,4271],
+"df/d31/structWaveDataCreature.html#a127341c70f8785ceb556b1c11b23f477":[6,0,4271,0]
 };
