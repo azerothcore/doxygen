@@ -1,5 +1,8 @@
 var NAVTREEINDEX405 =
 {
+"functions_f.html":[6,3,0,6],
+"functions_func.html":[6,3,1],
+"functions_func.html":[6,3,1,0],
 "functions_func_a.html":[6,3,1,1],
 "functions_func_b.html":[6,3,1,2],
 "functions_func_c.html":[6,3,1,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX405 =
 "globals_type_q.html":[7,1,3,15],
 "globals_type_r.html":[7,1,3,16],
 "globals_type_s.html":[7,1,3,17],
-"globals_type_t.html":[7,1,3,18],
-"globals_type_u.html":[7,1,3,19],
-"globals_type_v.html":[7,1,3,20],
-"globals_type_w.html":[7,1,3,21]
+"globals_type_t.html":[7,1,3,18]
 };

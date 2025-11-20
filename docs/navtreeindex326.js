@@ -1,5 +1,8 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#afafb4c0c0e79b58094ea09068ebdf724":[6,0,1355,0,1],
+"dd/d40/classboss__loatheb.html":[6,0,596],
+"dd/d40/classboss__loatheb.html#a93bf8055a9ed900c880ef8b81b87bafd":[6,0,596,1],
 "dd/d40/classboss__loatheb.html#aca9b3a2515777f81b354c01a9727276e":[6,0,596,2],
 "dd/d40/instance__molten__core_8cpp.html":[7,0,0,0,1,3,2,1,3,10],
 "dd/d40/instance__molten__core_8cpp.html#a1712840a822c3d823764d3c974c6ea31":[7,0,0,0,1,3,2,1,3,10,7],
@@ -94,14 +97,14 @@ var NAVTREEINDEX326 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[7,0,0,0,1,3,2,1,1,1,2,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,1,1,2,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[7,0,0,0,1,3,2,1,1,1,2,5],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,7,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,7,2],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,7,2,0],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,7,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,7,2,0],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,7,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,7,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d54/classspell__kaelthas__mind__control.html#ac406946bb793125d49006e3a877c9638":[6,0,3343,2],
 "dd/d55/classnpc__flamewaker__priest.html":[6,0,1783],
 "dd/d55/classnpc__flamewaker__priest.html#a2ae4d75192f8ddc60d092b9a129e636e":[6,0,1783,1],
-"dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1783,2],
-"dd/d55/classspell__shredder__delivery.html":[6,0,3827],
-"dd/d55/classspell__shredder__delivery.html#a1aafe141985bc1e9c5b9467d4896d96b":[6,0,3827,1],
-"dd/d55/classspell__shredder__delivery.html#a442138710213b9b120d8ce57b733205a":[6,0,3827,2]
+"dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1783,2]
 };

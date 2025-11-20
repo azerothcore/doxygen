@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"d0/d80/structRuneInfo.html#a8eeb0f5208c29d43ab493a22f73eb0a6":[6,0,2506,2],
 "d0/d80/structRuneInfo.html#ad5a4b3afd246f5a4c071e3c4f350f132":[6,0,2506,0],
 "d0/d80/vmap4__extractor_2dbcfile_8h.html":[7,0,0,0,3,4,4],
 "d0/d80/zone__hellfire__peninsula_8cpp.html":[7,0,0,0,1,3,7,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5422603ce989fe02d372fb4599156981":[7,0,0,0,1,3,5,9,2,11,30,11],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5648b08fc6857107d9a0571aabbba4e1":[7,0,0,0,1,3,5,9,2,11,30,53],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a5d2ec01331d28758bb19decf46ab630d":[7,0,0,0,1,3,5,9,2,11,30,2],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a69103ac7514406637b8bd95fddbac631":[7,0,0,0,1,3,5,9,2,11,30,38],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a6d7358f227167cf0ff223b06d380d9ef":[7,0,0,0,1,3,5,9,2,11,30,13]
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a69103ac7514406637b8bd95fddbac631":[7,0,0,0,1,3,5,9,2,11,30,38]
 };

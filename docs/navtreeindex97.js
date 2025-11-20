@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac0b6bfa9b336c2d15a35e1ecc8c3a8e7":[7,0,0,0,1,2,48,7,0,7],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1019f49f5f7218f1899c692819ebd84":[7,0,0,0,1,2,48,7,0,490],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1151cf12f657a5364f0ac6a9d171a07":[7,0,0,0,1,2,48,7,0,35],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1434efd35a4f66f82aa6213c27ec5bc":[7,0,0,0,1,2,48,7,0,333],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a57a6aeaae26781df310a2c98fcf7164d":[6,0,1252,0,8],
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a689ea5c40d39fe5dc8a80351c4884b18":[6,0,1252,0,10],
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a8033da0f1bd56926bd306e1cbdc1ecb9":[6,0,1252,0,2],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a836df4449b5190b4404482e46a5e5449":[6,0,1252,0,7],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a9010bb7bd849aa6ba25b31596ac30831":[6,0,1252,0,5]
+"d3/d4e/classGuild_1_1BankEventLogEntry.html#a836df4449b5190b4404482e46a5e5449":[6,0,1252,0,7]
 };

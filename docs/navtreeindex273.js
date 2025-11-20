@@ -1,5 +1,8 @@
 var NAVTREEINDEX273 =
 {
+"da/dfe/structCreatureTextId.html#a5d45808a0b84ca11c8d05c25d26341a2":[6,0,939,4],
+"da/dfe/structCreatureTextId.html#ad69afcf7be87d1f96611fe925b68f26a":[6,0,939,2],
+"da/dfe/structCreatureTextId.html#ae0c693f6cf1959c79e1b3773a2f54db9":[6,0,939,1],
 "da/dfe/structCreatureTextId.html#ae8058e922bafc69b718ca4be1be39688":[6,0,939,0],
 "da/dfe/structCreatureTextId.html#af1d1f3f310c219c32ca9b8917d8fb67d":[6,0,939,3],
 "da/dfe/structGtChanceToSpellCritBaseEntry.html":[6,0,1240],
@@ -51,10 +54,10 @@ var NAVTREEINDEX273 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX273 =
 "db/d0f/structnpc__ahune__bunny.html#a8f9e25f0d8a66b18e887b061592c6950":[6,0,1575,9],
 "db/d0f/structnpc__ahune__bunny.html#a9be0d062379e5a3dfa19af1eb1a4243e":[6,0,1575,7],
 "db/d0f/structnpc__ahune__bunny.html#aa8dff40dde7820b1ce4e06c8d27e4ecb":[6,0,1575,5],
-"db/d0f/structnpc__ahune__bunny.html#ad071787c47254f603ba7692889733202":[6,0,1575,1],
-"db/d0f/structnpc__ahune__bunny.html#ae28e0d2dbaab082488d5582b75cd8482":[6,0,1575,0],
-"db/d0f/structnpc__ahune__bunny.html#af84154fff16cbdb15586b3b07223e010":[6,0,1575,6],
-"db/d10/ModelInstance_8h.html":[7,0,0,0,0,1,2,4]
+"db/d0f/structnpc__ahune__bunny.html#ad071787c47254f603ba7692889733202":[6,0,1575,1]
 };

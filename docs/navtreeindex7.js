@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5f/WardenModuleWin_8h.html":[7,0,0,0,1,2,46,0,1],
 "d0/d5f/WardenModuleWin_8h.html#a6609439bd06281755d1dd966d61cd743":[7,0,0,0,1,2,46,0,1,1],
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html":[6,0,2118,0],
 "d0/d5f/structnpc__sindragosa__trash_1_1npc__sindragosa__trashAI.html#a0a7a0012105dea55fe4c8b51d9df5fc7":[6,0,2118,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d66/classWorldMock.html#ad58bc22de3be97b464419ad0241a4232":[6,0,4312,8],
 "d0/d66/classWorldMock.html#ad86c656afaef0b67e067128776f6602b":[6,0,4312,49],
 "d0/d66/classWorldMock.html#addbd9d98d738e0c75582ec95c404167b":[6,0,4312,16],
-"d0/d66/classWorldMock.html#ade61ccfd74ddbfc08a538cdc85ea0613":[6,0,4312,9],
-"d0/d66/classWorldMock.html#adfb5888616d98e3b86249300439bc55c":[6,0,4312,0]
+"d0/d66/classWorldMock.html#ade61ccfd74ddbfc08a538cdc85ea0613":[6,0,4312,9]
 };

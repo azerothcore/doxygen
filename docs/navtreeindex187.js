@@ -1,5 +1,6 @@
 var NAVTREEINDEX187 =
 {
+"d7/d2d/classPassengerController.html#a4a4d575417a7c7940471f21e32d48b5c":[6,0,2375,3],
 "d7/d2d/classPassengerController.html#a98a6d819ec193d5a1e96739ac507b146":[6,0,2375,6],
 "d7/d2d/classPassengerController.html#a9c8fa44394c10eb2a7fec3c4f273f448":[6,0,2375,7],
 "d7/d2d/classPassengerController.html#ab168baee9c4d6343c7adb6978a3a56d2":[6,0,2375,8],
@@ -62,8 +63,8 @@ var NAVTREEINDEX187 =
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b":[6,0,443,0,6],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,11,10,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,31,10,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,11,10,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,31,10,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,11,10,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,31,10,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,11,10,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,11,10,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d":[6,0,584,0,6],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ab4a576f9746f7ade8f6b8f8c08795433":[6,0,584,0,4],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#ac07e8e45693b3239bc061e5500880833":[6,0,584,0,12],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#acb7b45fbe3a736ad65b0a2556ead40ae":[6,0,584,0,9],
-"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#adcca5f21a596ffae3c50f102c4698c4e":[6,0,584,0,2]
+"d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#acb7b45fbe3a736ad65b0a2556ead40ae":[6,0,584,0,9]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX322 =
 {
+"dd/d25/classGuildScript.html#a3ce284c112b61c6077b509d55a52f388":[6,0,1256,8],
+"dd/d25/classGuildScript.html#a503c5116512f8ac45506732674aa5635":[6,0,1256,11],
+"dd/d25/classGuildScript.html#a5c840084ca74af0556ac5d6256bfd75d":[6,0,1256,6],
 "dd/d25/classGuildScript.html#a64d676d964b408b6fde7ab9185951eb0":[6,0,1256,10],
 "dd/d25/classGuildScript.html#a8f29c847a68fb41dd3bca4ac257ee159":[6,0,1256,4],
 "dd/d25/classGuildScript.html#a908df71c0d9be1258e624f4e977e8d75":[6,0,1256,3],
@@ -12,8 +15,8 @@ var NAVTREEINDEX322 =
 "dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,11,9,11],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,9,11],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,31,9,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,11,9,11,2],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,31,9,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,31,9,11,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[6,0,11,9,11,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,9,11,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d27/structSmartAction.html#a902595efbd2e0a57a0fa122239b34310":[6,0,2560,123],
 "dd/d27/structSmartAction.html#a9038897f045bfc98c641385b9430b0aa":[6,0,2560,206],
 "dd/d27/structSmartAction.html#a9110d28d000b9ed86a6c72e5205d28e1":[6,0,2560,287],
-"dd/d27/structSmartAction.html#a91a5705a5bd845b4649ae25aac2fbdd2":[6,0,2560,284],
-"dd/d27/structSmartAction.html#a947c66c30b93a461aeda35e8dadb3886":[6,0,2560,179],
-"dd/d27/structSmartAction.html#a949636fbd092ac7258be4a5ad20edbbf":[6,0,2560,85],
-"dd/d27/structSmartAction.html#a94e10d57020ed7978b816d828f1a0b0f":[6,0,2560,237]
+"dd/d27/structSmartAction.html#a91a5705a5bd845b4649ae25aac2fbdd2":[6,0,2560,284]
 };

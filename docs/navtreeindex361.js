@@ -1,5 +1,8 @@
 var NAVTREEINDEX361 =
 {
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b":[6,0,689,0,5],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aacf26c52f77ef4eb084814934f00aab1":[6,0,689,0,4],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aad9556374e26cbea7641461510fef9ba":[6,0,689,0,1],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09":[6,0,689,0,2],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#ab2080a14c105aeb6a9c155cf6f4ec17d":[6,0,689,0,3],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#afd67bf2c7a479771976673b05b0fc29e":[6,0,689,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX361 =
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a":[7,0,0,0,1,2,13,3,3,3],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1":[7,0,0,0,1,2,13,3,3,4],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f":[7,0,0,0,1,2,13,3,3,10],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0":[7,0,0,0,1,2,13,3,3,9],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68":[7,0,0,0,1,2,13,3,3,8],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a":[7,0,0,0,1,2,13,3,3,7],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296":[7,0,0,0,1,2,13,3,3,5]
+"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0":[7,0,0,0,1,2,13,3,3,9]
 };

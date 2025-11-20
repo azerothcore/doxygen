@@ -1,5 +1,8 @@
 var NAVTREEINDEX396 =
 {
+"df/dd2/structGameObjectData.html#adfb0111d7183eefd893e0cce7691a08e":[6,0,1083,10],
+"df/dd2/structGameObjectData.html#ae12c8c5e7b3c848a57960e4c51d76e84":[6,0,1083,5],
+"df/dd2/structGameObjectData.html#ae8c523cb24a55fcde5d8caac3f82dfd5":[6,0,1083,4],
 "df/dd2/structGameObjectData.html#aef60d19e3edd35f2ddc82ab4684dbb2f":[6,0,1083,13],
 "df/dd3/DetourExtended_8h.html":[7,0,0,0,0,11,1],
 "df/dd3/MovementTypedefs_8h.html":[7,0,0,0,1,2,31,1,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX396 =
 "df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b":[6,0,4220,302],
 "df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc":[6,0,4220,867],
 "df/dd9/classUnit.html#a16df36b93a02cc6fe7f8fa9613d11eb9":[6,0,4220,322],
-"df/dd9/classUnit.html#a170813877114a8568f3b9060bc8005c1":[6,0,4220,460],
-"df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627":[6,0,4220,985],
-"df/dd9/classUnit.html#a18139a1595cccec72363ebd1de943d63":[6,0,4220,664],
-"df/dd9/classUnit.html#a1834e2b07bdde3d3a20a2479b6384bb1":[6,0,4220,154]
+"df/dd9/classUnit.html#a170813877114a8568f3b9060bc8005c1":[6,0,4220,460]
 };

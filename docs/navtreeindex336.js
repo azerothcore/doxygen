@@ -1,5 +1,8 @@
 var NAVTREEINDEX336 =
 {
+"dd/dca/boss__razorscale_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa3e8be56375c00dd43ca1945495eb049":[7,0,0,0,1,3,5,9,2,10,20,1],
+"dd/dca/boss__razorscale_8cpp.html#a4522a9f95d5ef799965bfe7267743aae":[7,0,0,0,1,3,5,9,2,10,25],
+"dd/dca/boss__razorscale_8cpp.html#a5446f0dfdaa37cea52e903643b50e24c":[7,0,0,0,1,3,5,9,2,10,26],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,9,2,10,22],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca104814a14eeb9d1870ff64a125311ef5":[7,0,0,0,1,3,5,9,2,10,22,9],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca143e68bf55a1c961d061a18d9b1a5cdd":[7,0,0,0,1,3,5,9,2,10,22,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dcb/classChaseMovementGenerator.html#a9b29cbccc856e2ca05f7a3d83bbe03b0":[6,0,867,17],
 "dd/dcb/classChaseMovementGenerator.html#aad69ac268be888468f5952344c1be090":[6,0,867,23],
 "dd/dcb/classChaseMovementGenerator.html#ab26ee9709942a38a6e713c0385328e15":[6,0,867,3],
-"dd/dcb/classChaseMovementGenerator.html#ab80b5a4575f9b484764a36634dd6faf2":[6,0,867,26],
-"dd/dcb/classChaseMovementGenerator.html#ab8db38136708c7032eaba9149b8dc4e0":[6,0,867,27],
-"dd/dcb/classChaseMovementGenerator.html#ac30308e6e93e600778047e6dc54ebb74":[6,0,867,1],
-"dd/dcb/classChaseMovementGenerator.html#ac325e618f8dd0376a7c726df993e2e3d":[6,0,867,14]
+"dd/dcb/classChaseMovementGenerator.html#ab80b5a4575f9b484764a36634dd6faf2":[6,0,867,26]
 };

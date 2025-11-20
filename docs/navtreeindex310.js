@@ -1,5 +1,8 @@
 var NAVTREEINDEX310 =
 {
+"dc/d78/classBattlegroundAB.html#ad7a3d2b4777f2c4551089dfff743fcb8":[6,0,315,6],
+"dc/d78/classBattlegroundAB.html#aedd3f2b9479f3a3e9da5c5349ad08e0a":[6,0,315,14],
+"dc/d78/classBattlegroundAB.html#affbcaa60ea4b97660d995264cf87cf22":[6,0,315,20],
 "dc/d78/classboss__infinite__corruptor.html":[6,0,550],
 "dc/d78/classboss__infinite__corruptor.html#a78a939073ab44b818cefdb25419f92be":[6,0,550,1],
 "dc/d78/classboss__infinite__corruptor.html#ab6eaf2f9d1928817e45b092a3a87bda4":[6,0,550,2],
@@ -149,12 +152,12 @@ var NAVTREEINDEX310 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3291],
@@ -246,8 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d89/classAsyncAcceptor.html#a0d7a3371b14fa8eecbe30ff73e366398":[6,0,206,2],
 "dc/d89/classAsyncAcceptor.html#a0ed31d03f8cdb38b1e359f3085e7ee29":[6,0,206,5],
 "dc/d89/classAsyncAcceptor.html#a27230b467efdb08dbb9b0c0198db0936":[6,0,206,9],
-"dc/d89/classAsyncAcceptor.html#a2cea1478f3e8feec141064f3281d422e":[6,0,206,0],
-"dc/d89/classAsyncAcceptor.html#a7bf97d3996651f3057fc0d88db5e4a69":[6,0,206,7],
-"dc/d89/classAsyncAcceptor.html#a8ab2ccd6b8cbb7bff0a9d38e0e5d8ad7":[6,0,206,12],
-"dc/d89/classAsyncAcceptor.html#a91c22b6aba05bc493cfaf28a9203ce84":[6,0,206,4]
+"dc/d89/classAsyncAcceptor.html#a2cea1478f3e8feec141064f3281d422e":[6,0,206,0]
 };

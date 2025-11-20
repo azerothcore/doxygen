@@ -1,5 +1,6 @@
 var NAVTREEINDEX145 =
 {
+"d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abf2c187df3b73b7c5847686ae53dee00":[7,0,0,0,1,3,5,7,7,7,2],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac9c49f07ab87f289fb36e2d72648dd71":[7,0,0,0,1,3,5,7,7,7,7],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc860c4712aba8ffa303f7f95b77a3cb":[7,0,0,0,1,3,5,7,7,7,3],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af0ded7c53587d5a955be0c0f1ff35ae3":[7,0,0,0,1,3,5,7,7,7,5],
@@ -65,10 +66,10 @@ var NAVTREEINDEX145 =
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6399e9c9ecdb8c01fbd2bcd1b081811f":[6,0,1839,0,4],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a6a46f99ffb67a699ef9adb2a1afcbe13":[6,0,1839,0,2],
 "d5/d50/structnpc__high__overlord__saurfang__icc_1_1npc__high__overlord__saurfangAI.html#a92124e7490a066bf63836397a3bdc71b":[6,0,1839,0,5],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,1,8,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[6,0,0,5,0,14],
-"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html":[5,0,1,8,0,14],
 "d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[5,0,1,8,0,14,0],
+"d5/d51/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__bae34329b629b0d8940918f821a5b0e1d3.html#a884de4dee05c4a925db4225da9512886":[6,0,0,5,0,14,0],
 "d5/d52/classspell__the__lich__king__defile.html":[6,0,3893],
 "d5/d52/classspell__the__lich__king__defile.html#a017ade08eca93f326d2e5115c4d88c33":[6,0,3893,0],
 "d5/d52/classspell__the__lich__king__defile.html#a3e1d1764add95728428cbf25f9b66dc4":[6,0,3893,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d61/structnpc__pet__dk__army__of__the__dead.html#add16c667f3e614f9d6ceebbe17cf0515":[6,0,2014,1],
 "d5/d62/LFGScripts_8h.html":[7,0,0,0,1,2,15,11],
 "d5/d62/LFGScripts_8h.html#a9624b9328e26a9f420a4a3f07e253763":[7,0,0,0,1,2,15,11,2],
-"d5/d62/classnpc__pos__icicle__trigger.html":[6,0,2048],
-"d5/d62/classnpc__pos__icicle__trigger.html#ad2f984f5b2b713b8307efdf4bcbcf8da":[6,0,2048,2]
+"d5/d62/classnpc__pos__icicle__trigger.html":[6,0,2048]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d31/structCharTitlesEntry.html":[6,0,865],
 "d2/d31/structCharTitlesEntry.html#a1e5cb3fc001169a204507a084435a211":[6,0,865,0],
 "d2/d31/structCharTitlesEntry.html#a63fe7a87e019780d20e86e48efb02eac":[6,0,865,1],
 "d2/d31/structCharTitlesEntry.html#a74a767731c96d3d815ddde5a06f68599":[6,0,865,3],
@@ -47,8 +48,8 @@ var NAVTREEINDEX54 =
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,31,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,2,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139":[7,0,0,0,1,2,8,1,1,16],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a7dd569ffc1f7e104ccaec5db421a4d98":[7,0,0,0,1,3,5,14,60],
 "d2/d38/northrend__script__loader_8cpp.html#a7f5b85629316855f1d0b3e872e130015":[7,0,0,0,1,3,5,14,124],
 "d2/d38/northrend__script__loader_8cpp.html#a81d8c56de5920b1e73d7955e1c7399ed":[7,0,0,0,1,3,5,14,134],
-"d2/d38/northrend__script__loader_8cpp.html#a83f325e1cff4b4e92f8f131d86dc14a3":[7,0,0,0,1,3,5,14,76],
-"d2/d38/northrend__script__loader_8cpp.html#a845dd351180fbb326bb015c6e0270840":[7,0,0,0,1,3,5,14,16]
+"d2/d38/northrend__script__loader_8cpp.html#a83f325e1cff4b4e92f8f131d86dc14a3":[7,0,0,0,1,3,5,14,76]
 };

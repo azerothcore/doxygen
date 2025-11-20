@@ -1,7 +1,7 @@
 var structboss__trollgore_1_1boss__trollgoreAI =
 [
     [ "boss_trollgoreAI", "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a39be832be97a27a3358c2f6c939ca728", null ],
+    [ "CheckInRoom", "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
     [ "JustDied", "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
     [ "JustEngagedWith", "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
     [ "JustSummoned", "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44", null ],

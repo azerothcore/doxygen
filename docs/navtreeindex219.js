@@ -1,5 +1,6 @@
 var NAVTREEINDEX219 =
 {
+"d8/d7b/classspell__gen__lifebloom.html#aea962f603e56c1bd33fccaef0c89d917":[6,0,2983,1],
 "d8/d7c/classnpc__memory.html":[6,0,1961],
 "d8/d7c/classnpc__memory.html#acebf31813025d323f9486d6575a60483":[6,0,1961,1],
 "d8/d7c/classnpc__memory.html#ad8e532d029217a06d11ae39810498976":[6,0,1961,2],
@@ -241,13 +242,12 @@ var NAVTREEINDEX219 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4237,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,31,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,571],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,571,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,571,2],
-"d8/d87/classnpc__garments__of__quests.html":[6,0,1803],
-"d8/d87/classnpc__garments__of__quests.html#a7e4ad68e0187c0a392ed93097b2bf0ce":[6,0,1803,1]
+"d8/d87/classnpc__garments__of__quests.html":[6,0,1803]
 };

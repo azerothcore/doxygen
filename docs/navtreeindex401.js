@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca533b70ada0f760efe03498d8aebfdeb2":[7,0,0,0,1,3,5,6,4,56,30],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca551a66efeb13fdc5b2024f7b4c2ee288":[7,0,0,0,1,3,5,6,4,56,2],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca6267926ec030a9171e76afd093e477a3":[7,0,0,0,1,3,5,6,4,56,8],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca6892d7427f75a5d04115edbbd48fa083":[7,0,0,0,1,3,5,6,4,56,33],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca763432cbb2821f66e24265e76409346e":[7,0,0,0,1,3,5,6,4,56,41],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca764a223e3fd234605a6ea66affd0326a":[7,0,0,0,1,3,5,6,4,56,20],
@@ -226,9 +229,9 @@ var NAVTREEINDEX401 =
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html":[6,0,750,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a25414dc1b13aa1372e397c5cb11afdaa":[6,0,750,0,3],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a32a309084b6b7c4b4e5db10d9c8a95bd":[6,0,750,0,2],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a39be832be97a27a3358c2f6c939ca728":[6,0,750,0,1],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a3fa3247442edb81136647f7fdf5834cf":[6,0,750,0,7],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a4fe22aebe6e814196ac1914d158a62de":[6,0,750,0,6],
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a6428a1c4fc7d3da4e016ed17ea3684df":[6,0,750,0,1],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[6,0,750,0,8],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[6,0,750,0,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[6,0,750,0,5],
@@ -243,11 +246,8 @@ var NAVTREEINDEX401 =
 "df/dde/classnpc__rinji.html":[6,0,2083],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2083,2],
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2083,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,9,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3]
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2]
 };

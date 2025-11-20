@@ -1,5 +1,6 @@
 var NAVTREEINDEX233 =
 {
+"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298caae47fdf4149ba16bbce9b9d71b6f0820":[7,0,0,0,1,3,2,12,5,10,5],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cade5d3fed872daab3cced8a6c73ff9c76":[7,0,0,0,1,3,2,12,5,10,16],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae0d52b89d1decaea4094c63a4e62d106":[7,0,0,0,1,3,2,12,5,10,9],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298cae9e5a94175d13b0956f52736e2706085":[7,0,0,0,1,3,2,12,5,10,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0":[7,0,0,0,1,2,3,0,15,10,1],
 "d9/d55/UnitAI_8h.html#afbd9552e4d9ae2fb45fe846c8e9775cf":[7,0,0,0,1,2,3,0,15,9],
 "d9/d55/structCreatureAIFactory.html":[6,0,921],
-"d9/d55/structCreatureAIFactory.html#a978af64c2793b92ee2fe57763500f8d9":[6,0,921,0],
-"d9/d55/structCreatureAIFactory.html#ab5f691811cc23c5079a7a0a7f3503638":[6,0,921,1]
+"d9/d55/structCreatureAIFactory.html#a978af64c2793b92ee2fe57763500f8d9":[6,0,921,0]
 };

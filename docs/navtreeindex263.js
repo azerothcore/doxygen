@@ -1,5 +1,7 @@
 var NAVTREEINDEX263 =
 {
+"da/d9a/kalimdor__script__loader_8cpp.html#a849e20dbd083abdfb7fb96857fb7d89f":[7,0,0,0,1,3,4,13,61],
+"da/d9a/kalimdor__script__loader_8cpp.html#a89bb85fa847a65b610f6b4d1f9f0214c":[7,0,0,0,1,3,4,13,71],
 "da/d9a/kalimdor__script__loader_8cpp.html#a8c20dcd3f8774f6224b43e9ddac33fd7":[7,0,0,0,1,3,4,13,25],
 "da/d9a/kalimdor__script__loader_8cpp.html#a90fa5d1f62873c538b717bfbfb93251b":[7,0,0,0,1,3,4,13,42],
 "da/d9a/kalimdor__script__loader_8cpp.html#a90fb23fcbf357132df3e7d0e1a1dd71f":[7,0,0,0,1,3,4,13,37],
@@ -247,7 +249,5 @@ var NAVTREEINDEX263 =
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af0e74bb51810c096483e41a3186f4387":[7,0,0,0,1,3,7,13,38,19],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af28f06266655235767f00124047eb0cf":[7,0,0,0,1,3,7,13,38,2],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89af2a1f731d0c25557696e9cd443d290ea":[7,0,0,0,1,3,7,13,38,6],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89afd5151bfc238f19eb8763743dccf425a":[7,0,0,0,1,3,7,13,38,16],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a954375235f2df9db6615f7f93286c537":[7,0,0,0,1,3,7,13,40],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a954375235f2df9db6615f7f93286c537a19a57e186b8adea2503d432562389fa9":[7,0,0,0,1,3,7,13,40,0]
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89afd5151bfc238f19eb8763743dccf425a":[7,0,0,0,1,3,7,13,38,16]
 };

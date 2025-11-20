@@ -1,5 +1,6 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ac2e9f940bc64a70ff8a386e4f483a65e":[6,0,1727,0,0],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ae56554d30e9de7644efab891555c57e0":[6,0,1727,0,2],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ae6f0b271478aecf7fd1f3e1c733d77f0":[6,0,1727,0,3],
 "d5/dfc/classSOAPCommand.html":[6,0,2570],
@@ -179,22 +180,22 @@ var NAVTREEINDEX161 =
 "d6/d07/Tuples_8h.html#a4104f84ad757b701a6ffbd51f5d10b9f":[7,0,0,0,0,15,36,6],
 "d6/d07/Tuples_8h.html#aa4e7bc2a96e641dd1642a3c61cfc96b0":[7,0,0,0,0,15,36,5],
 "d6/d07/Tuples_8h.html#aac12e702d41e9aa126f7d39f0f295252":[7,0,0,0,0,15,36,3],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[5,0,1,8,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[6,0,0,5,6],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[5,0,1,8,6,4],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[5,0,1,8,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[6,0,0,5,6,4],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[5,0,1,8,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[6,0,0,5,6,0],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[5,0,1,8,6,0],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[6,0,0,5,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,1,8,6,7],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[6,0,0,5,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,1,8,6,6],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[6,0,0,5,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[6,0,0,5,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,1,8,6,2],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,1,8,6,5],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,1,8,6,3],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[6,0,0,5,6,3],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,1,8,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[5,0,1,8,6,1],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
 "d6/d07/structnpc__nightbane__helper__target.html":[6,0,1992],
@@ -248,6 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a7ea3de40dfd638db7e34c523a0461335":[6,0,601,0,10],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a957bd38232c020611fc24dd8a6e55640":[6,0,601,0,2],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a9974fc771b3663878964aeb20914fe43":[6,0,601,0,4],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,601,0,5],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html":[6,0,796,0]
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,601,0,5]
 };

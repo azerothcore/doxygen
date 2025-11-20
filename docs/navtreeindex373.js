@@ -1,5 +1,8 @@
 var NAVTREEINDEX373 =
 {
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca0867d18249c1cbe0515a67320e1ee5fd":[7,0,0,0,1,3,2,16,5,8,5],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca106fd53b8aac00d5765530ed36774724":[7,0,0,0,1,3,2,16,5,8,11],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca244f54e16c399f14043be96b80a71e53":[7,0,0,0,1,3,2,16,5,8,16],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,2,16,5,8,4],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e3c15d5dccfab66e84f977d2eb2c267":[7,0,0,0,1,3,2,16,5,8,1],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca51550a6b688832bfe789a21c5ede72d4":[7,0,0,0,1,3,2,16,5,8,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX373 =
 "de/dbb/classspell__freezing__circle.html#aed63b40f8e2cc6fd32dd536a2d56c7c3":[6,0,2886,3],
 "de/dbb/classspell__ticking__time__bomb__aura.html":[6,0,3926],
 "de/dbb/classspell__ticking__time__bomb__aura.html#a213b50ebb7ce248a36dd78167d1190bb":[6,0,3926,2],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a72e6468602d40eb479a80c611d60eb2e":[6,0,3926,1],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[6,0,3926,3],
-"de/dbb/classspell__ticking__time__bomb__aura.html#acccd790c53f567f93e64afa7b7d1fe6f":[6,0,3926,0],
-"de/dbd/classOutdoorPvPGH.html":[6,0,2353]
+"de/dbb/classspell__ticking__time__bomb__aura.html#a72e6468602d40eb479a80c611d60eb2e":[6,0,3926,1]
 };

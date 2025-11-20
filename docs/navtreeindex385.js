@@ -1,5 +1,8 @@
 var NAVTREEINDEX385 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22],
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22],
+"df/d3e/namespaceGameTime.html":[5,0,16],
 "df/d3e/namespaceGameTime.html#a443eccf314fe436192278d425d6d8220":[5,0,16,3],
 "df/d3e/namespaceGameTime.html#a45712735241c9563a12fc3da54fb144d":[5,0,16,6],
 "df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1":[5,0,16,1],
@@ -224,8 +227,8 @@ var NAVTREEINDEX385 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3590,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3590,2],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3590,0],
-"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,4],
 "df/d51/structMMAP_1_1MapTiles.html":[6,0,6,4],
+"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,4],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,4,4],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,4,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,4,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "df/d52/structmap__fileheader.html#a71c9cd42801697a927543e3acd4c3daf":[6,0,1480,4],
 "df/d52/structmap__fileheader.html#a7623bee6b8cf7d6e39b8716aa72f8514":[6,0,1480,3],
 "df/d52/structmap__fileheader.html#a82d0f500f9e84cf6c8bf917a98f92115":[6,0,1480,2],
-"df/d52/structmap__fileheader.html#a876d70dcd6ccec9ad09de77718c02150":[6,0,1480,5],
-"df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[6,0,1480,10],
-"df/d52/structmap__fileheader.html#ac62deafcc7b435caf4a0f6aafd3d85be":[6,0,1480,7],
-"df/d52/structmap__fileheader.html#adfbbb622974b7942f47dd16d2300246f":[6,0,1480,1]
+"df/d52/structmap__fileheader.html#a876d70dcd6ccec9ad09de77718c02150":[6,0,1480,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/dfb/classObjectMgr.html#a6bd1e6b3fa54bbabaaee441a13955b8f":[6,0,2321,266],
 "d5/dfb/classObjectMgr.html#a6c1ccfe38c958e87d8c5ed6eaac0fe0e":[6,0,2321,312],
 "d5/dfb/classObjectMgr.html#a6cec8baee03ec55e463d2d0a97fb828d":[6,0,2321,45],
 "d5/dfb/classObjectMgr.html#a6db0c379795b5ea5e039517e924c30d8":[6,0,2321,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a30056a45adb91a12cf7bcc4e9f0b2d54":[6,0,1727,0,1],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a4099d75c4a6bca1525781a5753ef9972":[6,0,1727,0,5],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a62ab24169c1b7c3028ab33303b217f63":[6,0,1727,0,8],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#aa6fdcf9e09031522d342b603b4c70aed":[6,0,1727,0,4],
-"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ac2e9f940bc64a70ff8a386e4f483a65e":[6,0,1727,0,0]
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#aa6fdcf9e09031522d342b603b4c70aed":[6,0,1727,0,4]
 };

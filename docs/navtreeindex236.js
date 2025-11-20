@@ -1,5 +1,6 @@
 var NAVTREEINDEX236 =
 {
+"d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#a9fc4dbd88390dbb455150144f4604ccb":[6,0,684,0,15],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#abc8f71849ac2e21a4612fbab9239829f":[6,0,684,0,9],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#acf45e7c200afb41f90784e75066c2ef4":[6,0,684,0,1],
 "d9/d69/structboss__sapphiron_1_1boss__sapphironAI.html#adef834e9b17d7cff0aaed9c36b7c7684":[6,0,684,0,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX236 =
 "d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a3f90077f9d647e6477c92e0f1eb4b233":[7,0,0,0,1,3,5,6,13,10,3],
 "d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52a94102e476bb2e12cceb2d89c467cb18b":[7,0,0,0,1,3,5,6,13,10,1],
 "d9/d6a/icecrown__citadel_8h.html#a989a95c23ce97d7e58e88901e11bfd52aadb63a1c52fd60e237f8eefd24417844":[7,0,0,0,1,3,5,6,13,10,2],
-"d9/d6a/icecrown__citadel_8h.html#ab3bc739f6357b75de6423c1b259d2f8a":[7,0,0,0,1,3,5,6,13,23],
-"d9/d6a/icecrown__citadel_8h.html#ad6af8790756d9e08db1cc80a45ed446a":[7,0,0,0,1,3,5,6,13,21]
+"d9/d6a/icecrown__citadel_8h.html#ab3bc739f6357b75de6423c1b259d2f8a":[7,0,0,0,1,3,5,6,13,23]
 };

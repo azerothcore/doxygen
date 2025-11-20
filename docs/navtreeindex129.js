@@ -1,5 +1,6 @@
 var NAVTREEINDEX129 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a469a2711e924e23b7faf66f26abc8a3a":[7,0,0,0,1,3,5,2,1,1,47,0],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a4de2dcd96ae59b3d20693ded8e1d92a4":[7,0,0,0,1,3,5,2,1,1,47,1],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a5c2a4f86f3e7e88693db587e2ad2c3da":[7,0,0,0,1,3,5,2,1,1,47,2],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a6d556c4943634fb3b24003d6d50d5598":[7,0,0,0,1,3,5,2,1,1,47,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d82/structboss__ambassador__hellmaw.html#ae0e04500073a4c02c9656b4bcd63be9c":[6,0,375,6],
 "d4/d82/structboss__ambassador__hellmaw.html#ae774dfa4379b7321ff194a796c9eb842":[6,0,375,0],
 "d4/d82/structboss__ambassador__hellmaw.html#af3949b46f82863af699396729e88928b":[6,0,375,9],
-"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html":[6,0,729,0],
-"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a03025fa529e932f23479ff19b0cd8238":[6,0,729,0,0]
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html":[6,0,729,0]
 };

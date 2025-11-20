@@ -1,5 +1,8 @@
 var NAVTREEINDEX403 =
 {
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#af55dd229cd141ffab701c6ab77304127":[6,0,1850,0,13],
+"df/df0/structboss__flamegor_1_1boss__flamegorAI.html":[6,0,475,0],
+"df/df0/structboss__flamegor_1_1boss__flamegorAI.html#a2e5146815e533cf62e0084a54aa222d5":[6,0,475,0,2],
 "df/df0/structboss__flamegor_1_1boss__flamegorAI.html#a4b3d46c3faa566095b0cedad3df9f057":[6,0,475,0,0],
 "df/df0/structboss__flamegor_1_1boss__flamegorAI.html#a6005dca71e2f20ee599e053e531377d6":[6,0,475,0,1],
 "df/df0/structboss__tavarok.html":[6,0,722],
@@ -246,8 +249,5 @@ var NAVTREEINDEX403 =
 "dir_07fbe19a361de996bef604f9408f4a7b.html":[7,0,0,0,1,2,39,0],
 "dir_0a0414616ece51a8570c4e36029d4e29.html":[7,0,0,0,1,3,10],
 "dir_0a6176fbf4a4e2963f993c806916a71c.html":[7,0,0,0,1,1,1],
-"dir_0a95014d09215914835c277ca75ca7c3.html":[7,0,0,0,1,3,4,1,3],
-"dir_0b75308b148efd21a65d1041b5f64421.html":[7,0,0,0,1,3,5,0,1],
-"dir_0c622659d06034757145c6bf3f556631.html":[7,0,0,0,3,1,0],
-"dir_10297b48ba7ced035a247ae7b230d081.html":[7,0,0,0,1,2,24]
+"dir_0a95014d09215914835c277ca75ca7c3.html":[7,0,0,0,1,3,4,1,3]
 };

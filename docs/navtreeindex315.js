@@ -1,5 +1,8 @@
 var NAVTREEINDEX315 =
 {
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a798cf4bf43df377f764dac07c13bc676":[6,0,1692,0,12],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a88cca74225a0099c85bb661c7f2ad382":[6,0,1692,0,6],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980":[6,0,1692,0,9],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a":[6,0,1692,0,10],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f":[6,0,1692,0,14],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab":[6,0,1692,0,8],
@@ -182,16 +185,16 @@ var NAVTREEINDEX315 =
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,69],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,81,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,81,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,69,4],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,69,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,81,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,81,2],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,69,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,81,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,69,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,81,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,69,3],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,81,5],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,69,5],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,81,5],
 "dc/dd2/classboss__hadronox.html":[6,0,517],
 "dc/dd2/classboss__hadronox.html#a90bf0ecb218e30e61852baffeabc3dc1":[6,0,517,2],
 "dc/dd2/classboss__hadronox.html#ae3457fd6108cc350cf9eedab3178f781":[6,0,517,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca4b746732d09c5b239668ad56606b7936":[7,0,0,0,1,3,2,12,1,9,8],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca4e54b8642717bb80df2effac22c38b71":[7,0,0,0,1,3,2,12,1,9,9],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca59b21838a37237aec009c9e25096091f":[7,0,0,0,1,3,2,12,1,9,7],
-"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca80e1007c0c857be3a47cce7979fa8056":[7,0,0,0,1,3,2,12,1,9,1],
-"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca8f4200a161f18c1d0cd3f06a7a55d37e":[7,0,0,0,1,3,2,12,1,9,0],
-"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463cab2f747037153944199e358bc39a12d25":[7,0,0,0,1,3,2,12,1,9,13],
-"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463cabd928de2abe2f5452f8621d4fe07ebf6":[7,0,0,0,1,3,2,12,1,9,10]
+"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca80e1007c0c857be3a47cce7979fa8056":[7,0,0,0,1,3,2,12,1,9,1]
 };

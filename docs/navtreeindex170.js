@@ -1,5 +1,6 @@
 var NAVTREEINDEX170 =
 {
+"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da22416aedd3bc535a44b8d6e299fb7568":[7,0,0,0,1,2,7,0,1,17,3],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da224f53d855f238fe9686265a4513d065":[7,0,0,0,1,2,7,0,1,17,21],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da2684c08b769d2a9793177ade51f4f54a":[7,0,0,0,1,2,7,0,1,17,16],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da2f6d1df55c5a8cd61559e8e14d943b6d":[7,0,0,0,1,2,7,0,1,17,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d58/classspell__vazruden__fireball.html#a0d1ff479da3b8f50ed698da9f9029589":[6,0,3960,1],
 "d6/d58/classspell__vazruden__fireball.html#adf350bccc5862252f6928faa4ae3a001":[6,0,3960,0],
 "d6/d58/classspell__vazruden__fireball.html#afaf23967ede6e120caa7758ff2d3c974":[6,0,3960,2],
-"d6/d59/classAutobroadcastMgr.html":[6,0,298],
-"d6/d59/classAutobroadcastMgr.html#a06d42010fea307a03aac0ca4e6886f1d":[6,0,298,9]
+"d6/d59/classAutobroadcastMgr.html":[6,0,298]
 };

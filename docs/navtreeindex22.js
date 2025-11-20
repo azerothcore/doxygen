@@ -1,5 +1,6 @@
 var NAVTREEINDEX22 =
 {
+"d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9b6dfd40144bac23e375dfb22a406762":[7,0,0,0,1,2,8,1,9,12,9],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9d717d5e125f13b736b576a66b9c8710":[7,0,0,0,1,2,8,1,9,12,0],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ea9d8e3b833f5560795dbf0999f71c992c":[7,0,0,0,1,2,8,1,9,12,1],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917eac57ace9e3d5d343a8ccabddc3c2c38db":[7,0,0,0,1,2,8,1,9,12,2],
@@ -133,8 +134,8 @@ var NAVTREEINDEX22 =
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,31,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[6,0,11,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,31,2,6,2],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,31,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[6,0,11,2,6,1],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,31,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[6,0,11,2,6,0],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,31,2,6,0],
 "d0/df6/classspell__allergies.html":[6,0,2597],
@@ -202,18 +203,18 @@ var NAVTREEINDEX22 =
 "d0/dfc/structNPCStaveQuestAI.html#af7100039ab5cf60a27ead73cc928da32":[6,0,2309,8],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[6,0,0,49],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[5,0,1,61],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,49,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,1,61,1],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,49,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,61,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[6,0,0,49,2],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,61,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[6,0,0,49,4],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[6,0,0,49,5],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,61,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[5,0,1,61,5],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[5,0,1,61,3],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[6,0,0,49,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[6,0,0,49,3],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,1,61,0],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[5,0,1,61,3],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[6,0,0,49,0],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae1aeb36aad24d5ef28074edfbf2f9e7e":[5,0,1,61,0],
 "d0/dfe/classBattleExperienceEvent.html":[6,0,310],
 "d0/dfe/classBattleExperienceEvent.html#a0155536d5c2be329a1f3b57c4d852098":[6,0,310,2],
 "d0/dfe/classBattleExperienceEvent.html#a22f0d7e59f579362be4576180d0977b8":[6,0,310,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX22 =
 "d0/dff/classUpdateMask.html#af15db8c732b94437fd1323a911eab5ce":[6,0,4231,10],
 "d0/dff/classUpdateMask.html#af3390cfa31c39629968a871be2c763fc":[6,0,4231,14],
 "d0/dff/classUpdateMask.html#afe89109ca16f687072062408e311f793":[6,0,4231,5],
-"d0/dff/hyjal_8h.html":[7,0,0,0,1,3,4,1,0,6],
-"d0/dff/hyjal_8h.html#a004a578f0bf37c2bc2536d9e1f9fb882":[7,0,0,0,1,3,4,1,0,6,9]
+"d0/dff/hyjal_8h.html":[7,0,0,0,1,3,4,1,0,6]
 };

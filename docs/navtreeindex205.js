@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/dcc/structVMAP_1_1AreaAndLiquidData.html#a0d30ac3fa0cefd6eafc1690c75f46f0f":[6,0,9,0,2],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[5,0,28,0,4],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#ae59e1e7fdf4913c48a0d82e1d19366a7":[6,0,9,0,4],
 "d7/dcc/structVMAP_1_1AreaAndLiquidData.html#af7c8710b5d296c1d792b4fc34302278f":[5,0,28,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#ad04c571e9e485a95d194946c1b3b7ffa":[6,0,610,0,3],
 "d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html":[7,0,0,0,1,3,5,8,1,1],
 "d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,8,1,1,1],
-"d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,1,1,1,1],
-"d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,1,1,1,0]
+"d7/de0/boss__commander__stoutbeard__kolurg_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,1,1,1,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX374 =
 {
+"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[6,0,3926,3],
+"de/dbb/classspell__ticking__time__bomb__aura.html#acccd790c53f567f93e64afa7b7d1fe6f":[6,0,3926,0],
+"de/dbd/classOutdoorPvPGH.html":[6,0,2353],
 "de/dbd/classOutdoorPvPGH.html#a3d62cb27cfa415c9ba7fe5c18384a75d":[6,0,2353,2],
 "de/dbd/classOutdoorPvPGH.html#a619492e0a1fdf75f37554a2f19268660":[6,0,2353,0],
 "de/dbd/classOutdoorPvPGH.html#a92c7e489717072ddc34f707fbe462cb2":[6,0,2353,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX374 =
 "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607":[7,0,0,0,1,3,4,29,8,9],
 "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f":[7,0,0,0,1,3,4,29,8,1],
 "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74":[7,0,0,0,1,3,4,29,8,3],
-"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33":[7,0,0,0,1,3,4,29,8,7],
-"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57":[7,0,0,0,1,3,4,29,8,5],
-"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a":[7,0,0,0,1,3,4,29,8,2],
-"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923":[7,0,0,0,1,3,4,29,8,6]
+"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33":[7,0,0,0,1,3,4,29,8,7]
 };

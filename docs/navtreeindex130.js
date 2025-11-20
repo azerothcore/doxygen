@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a03025fa529e932f23479ff19b0cd8238":[6,0,729,0,0],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a272e8565a9b00a27505b301d52814eee":[6,0,729,0,5],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a41e929a3768768eb06bafdee3269fd24":[6,0,729,0,4],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a655fd83c2d671847fea9ae393c132fb9":[6,0,729,0,1],
@@ -105,12 +106,12 @@ var NAVTREEINDEX130 =
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,3004,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,853],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[6,0,853,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[6,0,853,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca2583f5d8b2b35a894207213e0f747d64":[7,0,0,0,1,3,7,1,6,10,12],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca44f4824332b38afd80be72edc038f53e":[7,0,0,0,1,3,7,1,6,10,4],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca459fd5fef67b09bcc38adc7ef392847a":[7,0,0,0,1,3,7,1,6,10,7],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca78f8cb6ef552d89b52f21d38aa1dcbc2":[7,0,0,0,1,3,7,1,6,10,11],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298caa4747abe4f260fcbb99def64aa1e4810":[7,0,0,0,1,3,7,1,6,10,9]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca78f8cb6ef552d89b52f21d38aa1dcbc2":[7,0,0,0,1,3,7,1,6,10,11]
 };

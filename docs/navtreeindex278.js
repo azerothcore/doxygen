@@ -1,5 +1,8 @@
 var NAVTREEINDEX278 =
 {
+"db/d50/structVehicleAccessory.html#afc843c62c580c860471b0e49f5901363":[6,0,4241,4],
+"db/d51/classspell__dk__death__gate.html":[6,0,2764],
+"db/d51/classspell__dk__death__gate.html#a4f4f7004be5629efdc48b52b6667edba":[6,0,2764,1],
 "db/d51/classspell__dk__death__gate.html#a599ce758681c5196bd40e4c7b86635cc":[6,0,2764,2],
 "db/d51/classspell__dk__death__gate.html#a931d7a6aa2f1b574c225d3e803edbab4":[6,0,2764,0],
 "db/d51/classspell__dk__death__gate.html#ab184b23aa446c826db39928eb3ff3ecc":[6,0,2764,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX278 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[7,0,0,0,1,2,3,0,9,1,11],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896":[7,0,0,0,1,2,3,0,9,1,0],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6":[7,0,0,0,1,2,3,0,9,1,5],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25":[7,0,0,0,1,2,3,0,9,1,10],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac":[7,0,0,0,1,2,3,0,9,1,7],
-"db/d5e/classspell__gruul__shatter__effect.html":[6,0,3062],
-"db/d5e/classspell__gruul__shatter__effect.html#a170fb61e3a7358d42cc6506067fb978a":[6,0,3062,0]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25":[7,0,0,0,1,2,3,0,9,1,10]
 };

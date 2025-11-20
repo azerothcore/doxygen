@@ -1,5 +1,8 @@
 var NAVTREEINDEX379 =
 {
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea70065ceeb513008ef3c8bc999615b9d4":[7,0,0,0,1,3,2,1,1,0,6,25],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7612dcdeaa077d67f444debd49979e13":[7,0,0,0,1,3,2,1,1,0,6,8],
+"df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7695dee687dc803280670bf0fb635086":[7,0,0,0,1,3,2,1,1,0,6,5],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7a779e1a0e8de1430067af278fc96af2":[7,0,0,0,1,3,2,1,1,0,6,2],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea7bea8e90477623f05c541bdd342245e7":[7,0,0,0,1,3,2,1,1,0,6,24],
 "df/d13/blackrock__spire_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea827906857536cff0db22b50edd757d5b":[7,0,0,0,1,3,2,1,1,0,6,16],
@@ -182,16 +185,16 @@ var NAVTREEINDEX379 =
 "df/d14/classPet.html#af641ae2d7d873000862ac953f850d068":[6,0,2384,49],
 "df/d14/classPet.html#af98d9932f6260f70dee8e43526790ec2":[6,0,2384,84],
 "df/d14/classPet.html#afeb6b4e172c202a327ae853c132a1247":[6,0,2384,41],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,31,2,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[6,0,11,2,4],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html":[5,0,31,2,4],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,31,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,11,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,31,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,11,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,11,2,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,31,2,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,31,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,11,2,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,31,2,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
@@ -221,8 +224,8 @@ var NAVTREEINDEX379 =
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0be":[7,0,0,0,1,2,16,8,1,4],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3":[7,0,0,0,1,2,16,8,1,4,0],
 "df/d15/Totem_8h.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7":[7,0,0,0,1,2,16,8,1,4,1],
-"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,6,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[6,0,11,6,17],
+"df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html":[5,0,31,6,17],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[6,0,11,6,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#a368054d83fb99317ffd14b4d79ffd0af":[5,0,31,6,17,2],
 "df/d16/classWorldPackets_1_1Guild_1_1GuildBankTextQuery.html#ab74c6b61182349e3697d6b8f2f3393d2":[5,0,31,6,17,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX379 =
 "df/d17/group__world.html#ga19d9ed53043ba2b9eb3bdc27921501eb":[4,2,52],
 "df/d17/group__world.html#ga1fd12588331e8f86399378b7bb12317b":[4,2,54],
 "df/d17/group__world.html#ga26aa1cb8ae0de12da27fef70a5b9c7ab":[4,2,15],
-"df/d17/group__world.html#ga32b7b9e733438755c99c2abd6cb8c94d":[4,2,18],
-"df/d17/group__world.html#ga32e650a32fc1e01bdb6fbfd960fd022f":[4,2,43],
-"df/d17/group__world.html#ga3495c619f0ddde94913cbaea0a6354fa":[4,2,50],
-"df/d17/group__world.html#ga474650c5237c4a7428e858775fea7b86":[4,2,58]
+"df/d17/group__world.html#ga32b7b9e733438755c99c2abd6cb8c94d":[4,2,18]
 };

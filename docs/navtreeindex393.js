@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"df/da7/classBattleground.html#a311b41d380380658ba95c4cb8abb3b35":[6,0,314,48],
+"df/da7/classBattleground.html#a31f6010afbc7c9acff3d05ec4bf54f0f":[6,0,314,227],
+"df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[6,0,314,46],
 "df/da7/classBattleground.html#a32ed07c5a795d79f7d9e7c1053ab6f11":[6,0,314,199],
 "df/da7/classBattleground.html#a34b10848a91db884b565b5b2f8e5085c":[6,0,314,67],
 "df/da7/classBattleground.html#a34d52aafcdab65e6ff55925f88e3367c":[6,0,314,139],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "df/da9/structnpc__chess__move__trigger.html#af413c7af2254c1cc06462b2a62ac88db":[6,0,1685,1],
 "df/daa/classLambdaBasicEvent.html":[6,0,1406],
 "df/daa/classLambdaBasicEvent.html#a2660ba5053b9ad6a1c4231bd32359999":[6,0,1406,2],
-"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[6,0,1406,0],
-"df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[6,0,1406,1],
-"df/daa/classspell__doomfire.html":[6,0,2794],
-"df/daa/classspell__doomfire.html#a093b09be5abde91a1487d67a7a554d30":[6,0,2794,3]
+"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[6,0,1406,0]
 };

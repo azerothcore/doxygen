@@ -52,7 +52,8 @@ var boss__jedoga__shadowseeker_8cpp =
     ] ],
     [ "SummonGroups", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81e", [
       [ "SUMMON_GROUP_OOC", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81eaa7cbe16694ec31dd73b22b351ad637b5", null ],
-      [ "SUMMON_GROUP_OOC_TRIGGERS", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea670452fed958a8fe26096adda510b46d", null ]
+      [ "SUMMON_GROUP_OOC_TRIGGERS", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea670452fed958a8fe26096adda510b46d", null ],
+      [ "SUMMON_GROUP_IC_WORSHIPPERS", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81eaee9d1eb428d9c8bb0aedba3a2d87c092", null ]
     ] ],
     [ "Yells", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],

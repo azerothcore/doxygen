@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80":[7,0,0,0,1,3,5,2,1,6,1,1],
 "d0/d7b/trial__of__the__crusader_8cpp.html#aae8fa1928137dde06462a753ceebcca6":[7,0,0,0,1,3,5,2,1,6,2],
 "d0/d7c/MotionMaster_8cpp.html":[7,0,0,0,1,2,31,6],
 "d0/d7c/MotionMaster_8cpp.html#a05fec3371a9aee5a6448115a645a505d":[7,0,0,0,1,2,31,6,1],
@@ -41,12 +42,12 @@ var NAVTREEINDEX10 =
 "d0/d7e/ByteConverter_8h.html#af2e19073fdc053bb0299b663fa1ee757":[7,0,0,0,0,15,2,6],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[6,0,0,22],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html":[5,0,1,34],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[5,0,1,34,5],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[6,0,0,22,5],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[5,0,1,34,1],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[5,0,1,34,5],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[6,0,0,22,1],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,34,3],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[5,0,1,34,1],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[6,0,0,22,3],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,34,3],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[6,0,0,22,6],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[5,0,1,34,6],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[6,0,0,22,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d80/structRuneInfo.html":[6,0,2506],
 "d0/d80/structRuneInfo.html#a2cebb551231f0364a1751e5d1a37fcda":[6,0,2506,3],
 "d0/d80/structRuneInfo.html#a3fa13f205dbaaca5bdcc7406f73b4e6a":[6,0,2506,4],
-"d0/d80/structRuneInfo.html#a41c55cb4c1b3f69c6a424359f60e34e1":[6,0,2506,1],
-"d0/d80/structRuneInfo.html#a8eeb0f5208c29d43ab493a22f73eb0a6":[6,0,2506,2]
+"d0/d80/structRuneInfo.html#a41c55cb4c1b3f69c6a424359f60e34e1":[6,0,2506,1]
 };
