@@ -1,5 +1,13 @@
 var NAVTREEINDEX90 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2ce40078fbc123147590e40714879c2d":[7,0,0,0,1,3,5,15,61,42],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2d263c0e6e05324ea65cfef3fb0a95ac":[7,0,0,0,1,3,5,15,61,10],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2f9feeeb7f65d9080de13cd056cbffa3":[7,0,0,0,1,3,5,15,61,1],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da3045b70413bb67baf0a9243b2785b369":[7,0,0,0,1,3,5,15,61,54],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da358555a693105b127e094a54ed989726":[7,0,0,0,1,3,5,15,61,17],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da394a0ea6599b6eb73dc9cd8553816588":[7,0,0,0,1,3,5,15,61,32],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da44e161d26ecf4f644099b662414e7354":[7,0,0,0,1,3,5,15,61,49],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da4a72aeb0e528049ec64068296c70a643":[7,0,0,0,1,3,5,15,61,15],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da4e4e94bbc6d66b92951e0b62b89c1d94":[7,0,0,0,1,3,5,15,61,16],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da54e9dfd244ae6a577a6f98b91dfc8bd0":[7,0,0,0,1,3,5,15,61,63],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da580d466d9e6b22cf0c3842e1b31bffe8":[7,0,0,0,1,3,5,15,61,19],
@@ -168,10 +176,10 @@ var NAVTREEINDEX90 =
 "d3/d0a/classspell__gen__vendor__bark__trigger.html":[6,0,3046],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a096abf53c6e622875c463060e986b5ef":[6,0,3046,0],
 "d3/d0a/classspell__gen__vendor__bark__trigger.html#a68905cc33f09dbb42db67139193530cb":[6,0,3046,1],
-"d3/d0a/classspell__necropolis__beam.html":[6,0,3491],
-"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[6,0,3491,0],
-"d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[6,0,3491,1],
-"d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[6,0,3491,2],
+"d3/d0a/classspell__necropolis__beam.html":[6,0,3492],
+"d3/d0a/classspell__necropolis__beam.html#a072a5228690b929af3b65d771bf5f485":[6,0,3492,0],
+"d3/d0a/classspell__necropolis__beam.html#a87235eb9494edd94221f0380e815aa6b":[6,0,3492,1],
+"d3/d0a/classspell__necropolis__beam.html#abe2c48bf2d276871f3e4146d1358ea4c":[6,0,3492,2],
 "d3/d0a/structboss__ossirian.html":[6,0,649],
 "d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f":[6,0,649,9],
 "d3/d0a/structboss__ossirian.html#a16aa4ac59c1c8f6f844c311745b6e969":[6,0,649,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d0b/namespaceAcore.html#a71739ada07c2f1b12bcd0aa811eea903":[5,0,1,223],
 "d3/d0b/namespaceAcore.html#a73118cbbcd3fd66f74bcef7972f0e244":[5,0,1,159],
 "d3/d0b/namespaceAcore.html#a7d2aaeefa69dc846a6b27937f8213fab":[5,0,1,138],
-"d3/d0b/namespaceAcore.html#a7eb6517212935878abc51faf4bcca654":[5,0,1,219],
-"d3/d0b/namespaceAcore.html#a808ff1ee05e1b5c2775ccb20325a5b2e":[5,0,1,184],
-"d3/d0b/namespaceAcore.html#a826d2d5fc544299a171fc4d192b13b70":[5,0,1,187],
-"d3/d0b/namespaceAcore.html#a84459e91f517fc4f79414cc23370b9f1":[5,0,1,195],
-"d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4":[5,0,1,222],
-"d3/d0b/namespaceAcore.html#a9113786a11594dfcecc6d3bb4e1aadb2":[5,0,1,182],
-"d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0":[5,0,1,140],
-"d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0":[5,0,1,140,1],
-"d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24":[5,0,1,140,0]
+"d3/d0b/namespaceAcore.html#a7eb6517212935878abc51faf4bcca654":[5,0,1,219]
 };

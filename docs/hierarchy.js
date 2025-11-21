@@ -1126,6 +1126,7 @@ var hierarchy =
         [ "spell_magtheridon_debris_target_selector", "d6/dc5/classspell__magtheridon__debris__target__selector.html", null ],
         [ "spell_magtheridon_quake", "d4/df4/classspell__magtheridon__quake.html", null ],
         [ "spell_malchezaar_enfeeble", "d4/ded/classspell__malchezaar__enfeeble.html", null ],
+        [ "spell_mammoth_explosion", "d1/d53/classspell__mammoth__explosion.html", null ],
         [ "spell_mana_burn_area", "d6/dc3/classspell__mana__burn__area.html", null ],
         [ "spell_mandokir_charge", "d7/d70/classspell__mandokir__charge.html", null ],
         [ "spell_mark_of_frost_freeze", "da/d97/classspell__mark__of__frost__freeze.html", null ],

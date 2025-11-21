@@ -314,16 +314,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2229</span>    {</div>
-<div class="line"><span class="lineno"> 2230</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6">SPELL_ONSLAUGHT_RIDING_CROP</a>);</div>
-<div class="line"><span class="lineno"> 2231</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2233</span>    {</div>
+<div class="line"><span class="lineno"> 2234</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6">SPELL_ONSLAUGHT_RIDING_CROP</a>);</div>
+<div class="line"><span class="lineno"> 2235</span>    }</div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html_a1be09c524dfdd2c3538f2ae977c58399"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1be09c524dfdd2c3538f2ae977c58399">Unit::RemoveAura</a></div><div class="ttdeci">void RemoveAura(AuraApplicationMap::iterator &amp;i, AuraRemoveMode mode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4845</div></div>
-<div class="ttc" id="azone__dragonblight_8cpp_html_acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6">SPELL_ONSLAUGHT_RIDING_CROP</a></div><div class="ttdeci">@ SPELL_ONSLAUGHT_RIDING_CROP</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2221</div></div>
+<div class="ttc" id="azone__dragonblight_8cpp_html_acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6"><div class="ttname"><a href="../../de/da6/zone__dragonblight_8cpp.html#acd832c3c5d57da8cf312e263814c7aeaa573a11861b4a28744ad0cc06e7764bf6">SPELL_ONSLAUGHT_RIDING_CROP</a></div><div class="ttdeci">@ SPELL_ONSLAUGHT_RIDING_CROP</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2225</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l04845">Unit::RemoveAura()</a>, and <a class="el" href="../../#l02221">SPELL_ONSLAUGHT_RIDING_CROP</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l04845">Unit::RemoveAura()</a>, and <a class="el" href="../../#l02225">SPELL_ONSLAUGHT_RIDING_CROP</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02233">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02237">Register()</a>.</p>
 
 </div>
 </div>
@@ -377,16 +377,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2234</span>    {</div>
-<div class="line"><span class="lineno"> 2235</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d9/d91/classspell__handover__reins.html#aab68c7fac277f4da5a6cf8bf8e6256ea">spell_handover_reins::HandleScriptEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno"> 2236</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2238</span>    {</div>
+<div class="line"><span class="lineno"> 2239</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d9/d91/classspell__handover__reins.html#aab68c7fac277f4da5a6cf8bf8e6256ea">spell_handover_reins::HandleScriptEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno"> 2240</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:866</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__handover__reins_html_aab68c7fac277f4da5a6cf8bf8e6256ea"><div class="ttname"><a href="../../d9/d91/classspell__handover__reins.html#aab68c7fac277f4da5a6cf8bf8e6256ea">spell_handover_reins::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2228</div></div>
+<div class="ttc" id="aclassspell__handover__reins_html_aab68c7fac277f4da5a6cf8bf8e6256ea"><div class="ttname"><a href="../../d9/d91/classspell__handover__reins.html#aab68c7fac277f4da5a6cf8bf8e6256ea">spell_handover_reins::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:2232</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l02228">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l02232">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -399,7 +399,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d91/classspell__handover__reins.html">spell_handover_reins</a></li>
-    <li class="footer">Generated on Thu Nov 20 2025 06:25:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 21 2025 06:26:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

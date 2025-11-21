@@ -336,15 +336,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  954</span>    {</div>
-<div class="line"><span class="lineno">  955</span>        std::list&lt;Creature*&gt; servants;</div>
-<div class="line"><span class="lineno">  956</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(servants, 27233 <span class="comment">/*NPC_ONSLAUGHT_DECKHAND*/</span>, 40.0f);</div>
-<div class="line"><span class="lineno">  957</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = servants.begin(); itr != servants.end(); ++itr)</div>
-<div class="line"><span class="lineno">  958</span>        {</div>
-<div class="line"><span class="lineno">  959</span>            (*itr)-&gt;SetSpeed(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>, 0.7f, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  960</span>            (*itr)-&gt;GetMotionMaster()-&gt;MoveFleeing(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a2b5a29909fe800f007606045de187409">GetDuration</a>());</div>
-<div class="line"><span class="lineno">  961</span>        }</div>
-<div class="line"><span class="lineno">  962</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  958</span>    {</div>
+<div class="line"><span class="lineno">  959</span>        std::list&lt;Creature*&gt; servants;</div>
+<div class="line"><span class="lineno">  960</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(servants, 27233 <span class="comment">/*NPC_ONSLAUGHT_DECKHAND*/</span>, 40.0f);</div>
+<div class="line"><span class="lineno">  961</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = servants.begin(); itr != servants.end(); ++itr)</div>
+<div class="line"><span class="lineno">  962</span>        {</div>
+<div class="line"><span class="lineno">  963</span>            (*itr)-&gt;SetSpeed(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>, 0.7f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  964</span>            (*itr)-&gt;GetMotionMaster()-&gt;MoveFleeing(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a2b5a29909fe800f007606045de187409">GetDuration</a>());</div>
+<div class="line"><span class="lineno">  965</span>        }</div>
+<div class="line"><span class="lineno">  966</span>    }</div>
 <div class="ttc" id="aUnitDefines_8h_html_af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a></div><div class="ttdeci">@ MOVE_RUN</div><div class="ttdef"><b>Definition</b> UnitDefines.h:354</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2b5a29909fe800f007606045de187409"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2b5a29909fe800f007606045de187409">AuraScript::GetDuration</a></div><div class="ttdeci">int32 GetDuration() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1055</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
@@ -352,7 +352,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02511">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l01055">AuraScript::GetDuration()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00354">MOVE_RUN</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00972">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00976">Register()</a>.</p>
 
 </div>
 </div>
@@ -389,16 +389,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  965</span>    {</div>
-<div class="line"><span class="lineno">  966</span>        std::list&lt;Creature*&gt; servants;</div>
-<div class="line"><span class="lineno">  967</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(servants, 27233 <span class="comment">/*NPC_ONSLAUGHT_DECKHAND*/</span>, 100.0f);</div>
-<div class="line"><span class="lineno">  968</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = servants.begin(); itr != servants.end(); ++itr)</div>
-<div class="line"><span class="lineno">  969</span>            (*itr)-&gt;SetSpeed(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>, 1.1f, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  970</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  969</span>    {</div>
+<div class="line"><span class="lineno">  970</span>        std::list&lt;Creature*&gt; servants;</div>
+<div class="line"><span class="lineno">  971</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(servants, 27233 <span class="comment">/*NPC_ONSLAUGHT_DECKHAND*/</span>, 100.0f);</div>
+<div class="line"><span class="lineno">  972</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = servants.begin(); itr != servants.end(); ++itr)</div>
+<div class="line"><span class="lineno">  973</span>            (*itr)-&gt;SetSpeed(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>, 1.1f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  974</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02511">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00354">MOVE_RUN</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00972">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00976">Register()</a>.</p>
 
 </div>
 </div>
@@ -452,10 +452,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  973</span>    {</div>
-<div class="line"><span class="lineno">  974</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79">spell_q12243_fire_upon_the_waters_aura::HandleApplyEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  975</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b">spell_q12243_fire_upon_the_waters_aura::HandleRemoveEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  976</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  977</span>    {</div>
+<div class="line"><span class="lineno">  978</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79">spell_q12243_fire_upon_the_waters_aura::HandleApplyEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  979</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b">spell_q12243_fire_upon_the_waters_aura::HandleRemoveEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  980</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:86</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
@@ -463,10 +463,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:749</div></div>
 <div class="ttc" id="aclassAuraScript_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:738</div></div>
-<div class="ttc" id="aclassspell__q12243__fire__upon__the__waters__aura_html_a243933fec9ccd650303ea5badbea725b"><div class="ttname"><a href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b">spell_q12243_fire_upon_the_waters_aura::HandleRemoveEffect</a></div><div class="ttdeci">void HandleRemoveEffect(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:964</div></div>
-<div class="ttc" id="aclassspell__q12243__fire__upon__the__waters__aura_html_aab7bd30368c51a6a209f6cad5a93ba79"><div class="ttname"><a href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79">spell_q12243_fire_upon_the_waters_aura::HandleApplyEffect</a></div><div class="ttdeci">void HandleApplyEffect(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:953</div></div>
+<div class="ttc" id="aclassspell__q12243__fire__upon__the__waters__aura_html_a243933fec9ccd650303ea5badbea725b"><div class="ttname"><a href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#a243933fec9ccd650303ea5badbea725b">spell_q12243_fire_upon_the_waters_aura::HandleRemoveEffect</a></div><div class="ttdeci">void HandleRemoveEffect(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:968</div></div>
+<div class="ttc" id="aclassspell__q12243__fire__upon__the__waters__aura_html_aab7bd30368c51a6a209f6cad5a93ba79"><div class="ttname"><a href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html#aab7bd30368c51a6a209f6cad5a93ba79">spell_q12243_fire_upon_the_waters_aura::HandleApplyEffect</a></div><div class="ttdeci">void HandleApplyEffect(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> zone_dragonblight.cpp:957</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00953">HandleApplyEffect()</a>, <a class="el" href="../../#l00964">HandleRemoveEffect()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00957">HandleApplyEffect()</a>, <a class="el" href="../../#l00968">HandleRemoveEffect()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -479,7 +479,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d06/classspell__q12243__fire__upon__the__waters__aura.html">spell_q12243_fire_upon_the_waters_aura</a></li>
-    <li class="footer">Generated on Thu Nov 20 2025 06:25:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Nov 21 2025 06:26:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

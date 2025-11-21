@@ -1,5 +1,13 @@
 var NAVTREEINDEX284 =
 {
+"db/d8b/ItemTemplate_8h.html#a3fb889a74b33b298acccb0d57d6eb6bcabe96060cfd16b828f6633c6ea4945c47":[7,0,0,0,1,2,16,4,6,59,2],
+"db/d8b/ItemTemplate_8h.html#a3fb889a74b33b298acccb0d57d6eb6bcad89bd739b56ef09bf1659aa11d7475f1":[7,0,0,0,1,2,16,4,6,59,3],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571":[7,0,0,0,1,2,16,4,6,42],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a0074e2b7b6f9eb5d7be0ef77b526fdf9":[7,0,0,0,1,2,16,4,6,42,0],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a0c27df9381e1f29d7efedc1a21e0d12e":[7,0,0,0,1,2,16,4,6,42,22],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a0c78000507aa82285acdf032bc9ee84f":[7,0,0,0,1,2,16,4,6,42,29],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a1d666d472a7cf4edf57bb4e878012d4c":[7,0,0,0,1,2,16,4,6,42,16],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a24970521c3ce1c90018bcafb985b0f46":[7,0,0,0,1,2,16,4,6,42,28],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a24c5c5d703dd78b95d7ee61935a3f816":[7,0,0,0,1,2,16,4,6,42,9],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a40ef0669ee302f8c0fed53c60d89b65a":[7,0,0,0,1,2,16,4,6,42,18],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a4c4be60ac8b9f56c5461b9ae54411941":[7,0,0,0,1,2,16,4,6,42,21],
@@ -241,13 +249,5 @@ var NAVTREEINDEX284 =
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#adfcb85d87bd0304f358a9d2549e866aaa777589147e8b6b4cc548de80e1861cd0":[7,0,0,0,1,3,7,5,3,2,4,2],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2":[7,0,0,0,1,3,7,5,3,2,4,0],
 "db/d8b/boss__mechano__lord__capacitus_8cpp.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5":[7,0,0,0,1,3,7,5,3,2,4,1],
-"db/d8b/boss__mechano__lord__capacitus_8cpp.html#adfcb85d87bd0304f358a9d2549e866aaa9af5349fd667c5fad4a16c8aa19810d8":[7,0,0,0,1,3,7,5,3,2,4,4],
-"db/d8b/boss__mechano__lord__capacitus_8cpp.html#adfcb85d87bd0304f358a9d2549e866aaaa7c60b76745fd072194c7e4c968f86eb":[7,0,0,0,1,3,7,5,3,2,4,3],
-"db/d8b/classgo__the__pearl__of__the__depths.html":[6,0,1191],
-"db/d8b/classgo__the__pearl__of__the__depths.html#a0e09ddcde0eef050400d90e9a268823a":[6,0,1191,0],
-"db/d8b/classgo__the__pearl__of__the__depths.html#a745ea14136a78759a3afd7714c6d784a":[6,0,1191,1],
-"db/d8b/classspell__deathbringer__blood__power__aura.html":[6,0,2733],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a":[6,0,2733,2],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#a829e96cabbb565922f7183adb3edf13c":[6,0,2733,1],
-"db/d8b/classspell__deathbringer__blood__power__aura.html#abbcd0a9a63908a875bcdbc66fb5e1218":[6,0,2733,0]
+"db/d8b/boss__mechano__lord__capacitus_8cpp.html#adfcb85d87bd0304f358a9d2549e866aaa9af5349fd667c5fad4a16c8aa19810d8":[7,0,0,0,1,3,7,5,3,2,4,4]
 };

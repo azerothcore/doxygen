@@ -23,6 +23,7 @@ var zone__storm__peaks_8cpp =
     [ "npc_vehicle_d16_propelled_delivery", "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html", "d6/d1e/classnpc__vehicle__d16__propelled__delivery" ],
     [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html", "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI" ],
     [ "spell_feed_stormcrest_eagle", "d8/d8b/classspell__feed__stormcrest__eagle.html", "d8/d8b/classspell__feed__stormcrest__eagle" ],
+    [ "spell_mammoth_explosion", "d1/d53/classspell__mammoth__explosion.html", "d1/d53/classspell__mammoth__explosion" ],
     [ "BrunnhildarPrisoner", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
       [ "SPELL_ICE_PRISON", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
       [ "SPELL_ICE_LANCE", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
@@ -71,6 +72,12 @@ var zone__storm__peaks_8cpp =
       [ "SPELL_KILL_CREDIT_DRAKE", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
       [ "EVENT_CHECK_AREA", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
       [ "EVENT_REACHED_HOME", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
+    ] ],
+    [ "MammothExplosion", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757", [
+      [ "SPELL_MAMMOTH_EXPL_1", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a110986e73ade51dc2d2d2a1445f29583", null ],
+      [ "SPELL_MAMMOTH_EXPL_2", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a79c0eac8ad1de2d69a8a85cb05d1bd7c", null ],
+      [ "SPELL_MAMMOTH_EXPL_3", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a873c0d35bbe927d94c819ee5fe1bd58b", null ],
+      [ "SPELL_MAIN_MAMMOTH_MEAT", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a1c503d9d493e180fe8a82bdeb6d07819", null ]
     ] ],
     [ "q13007IronColossus", "dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26", [
       [ "SPELL_JORMUNGAR_SUBMERGE", "dd/db2/zone__storm__peaks_8cpp.html#a087b056704b91fae2c93eba42a026a26aed224fcf38261c2346031905865da961", null ],

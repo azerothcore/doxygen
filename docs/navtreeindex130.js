@@ -1,5 +1,13 @@
 var NAVTREEINDEX130 =
 {
+"d4/d82/structboss__ambassador__hellmaw.html#a8dd75d368f0f567561db45e1c53ad785":[6,0,375,4],
+"d4/d82/structboss__ambassador__hellmaw.html#a9b0170a49751def614126265240bb87c":[6,0,375,5],
+"d4/d82/structboss__ambassador__hellmaw.html#a9ea9d60b8fa90a228951a38fc2f59325":[6,0,375,7],
+"d4/d82/structboss__ambassador__hellmaw.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04":[6,0,375,1],
+"d4/d82/structboss__ambassador__hellmaw.html#ae0e04500073a4c02c9656b4bcd63be9c":[6,0,375,6],
+"d4/d82/structboss__ambassador__hellmaw.html#ae774dfa4379b7321ff194a796c9eb842":[6,0,375,0],
+"d4/d82/structboss__ambassador__hellmaw.html#af3949b46f82863af699396729e88928b":[6,0,375,9],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html":[6,0,729,0],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a03025fa529e932f23479ff19b0cd8238":[6,0,729,0,0],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a272e8565a9b00a27505b301d52814eee":[6,0,729,0,5],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a41e929a3768768eb06bafdee3269fd24":[6,0,729,0,4],
@@ -106,10 +114,10 @@ var NAVTREEINDEX130 =
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,3004,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,853],
@@ -241,13 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa5cab51e1e6e74d9428b6ac1a2a6c539":[7,0,0,0,1,3,7,1,6,8,7],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab5c4bded19a5f32ce90330401ede28c3":[7,0,0,0,1,3,7,1,6,8,6],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6c1e6b5787916970155d69a771a3a5a":[7,0,0,0,1,3,7,1,6,8,2],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2ceacf2dd73998484b4e3cb3d35f89c":[7,0,0,0,1,3,7,1,6,8,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeabe40685ff637651067fdacb682eb12":[7,0,0,0,1,3,7,1,6,8,0],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,6,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca1be268c00440d3f2aadfe79c39e372a3":[7,0,0,0,1,3,7,1,6,10,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca24181f85c3b5098a24c5b91e925fbe65":[7,0,0,0,1,3,7,1,6,10,13],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca2583f5d8b2b35a894207213e0f747d64":[7,0,0,0,1,3,7,1,6,10,12],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca44f4824332b38afd80be72edc038f53e":[7,0,0,0,1,3,7,1,6,10,4],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca459fd5fef67b09bcc38adc7ef392847a":[7,0,0,0,1,3,7,1,6,10,7],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca78f8cb6ef552d89b52f21d38aa1dcbc2":[7,0,0,0,1,3,7,1,6,10,11]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2ceacf2dd73998484b4e3cb3d35f89c":[7,0,0,0,1,3,7,1,6,8,10]
 };

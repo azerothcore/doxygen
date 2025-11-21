@@ -1,5 +1,13 @@
 var NAVTREEINDEX314 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a9205522b2e24743bd4694b2cfbe53542":[7,0,0,0,1,3,4,1,0,1,5,10],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aa0119eb4855f4dee620cdaf437f38fe4":[7,0,0,0,1,3,4,1,0,1,5,7],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aa694962715ac1fcf1c54e021de98b498":[7,0,0,0,1,3,4,1,0,1,5,6],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aadfd1d6d5f5c897db2d650a6ca433bda":[7,0,0,0,1,3,4,1,0,1,5,9],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0abc001c7e5586384592023ca99ddb060c":[7,0,0,0,1,3,4,1,0,1,5,17],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0ae1cdb6c262df701d217a2605638a44d2":[7,0,0,0,1,3,4,1,0,1,5,4],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0ae50967ae5e8bc7be3863210450302525":[7,0,0,0,1,3,4,1,0,1,5,8],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aea2a45396a283e028411907956b50be3":[7,0,0,0,1,3,4,1,0,1,5,14],
 "dc/db3/boss__archimonde_8cpp.html#a730f9ef8300d0ee2ac28768a01f83dc6":[7,0,0,0,1,3,4,1,0,1,7],
 "dc/db3/boss__archimonde_8cpp.html#a730f9ef8300d0ee2ac28768a01f83dc6ad319a022d8e840e4c98b47a1b0916d91":[7,0,0,0,1,3,4,1,0,1,7,0],
 "dc/db3/boss__archimonde_8cpp.html#a9a7552d04c070f9a1eb37e2fba97a1f3":[7,0,0,0,1,3,4,1,0,1,14],
@@ -75,10 +83,10 @@ var NAVTREEINDEX314 =
 "dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[6,0,2877,0],
 "dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[6,0,2877,3],
 "dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[6,0,2877,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3609],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3609,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3609,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3609,0],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3610],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3610,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3610,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3610,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,940],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,940,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -241,13 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dc0/structBattlegroundAVScore.html#ae4cc7eb2b4bc79c0166e53567edfb205":[6,0,318,5],
 "dc/dc0/structBattlegroundAVScore.html#ae8d7e9ae9602be798937c1b562d9b305":[6,0,318,10],
 "dc/dc0/structBattlegroundAVScore.html#aeb6175c1a67e6f55b6719bb879bd8b62":[6,0,318,13],
-"dc/dc2/classnpc__slim.html":[6,0,2121],
-"dc/dc2/classnpc__slim.html#a34dafb9f3a82c1d2f52a95436345dd0b":[6,0,2121,1],
-"dc/dc2/classnpc__slim.html#a426963b7bf831a3b5a75dcf0629917a9":[6,0,2121,2],
-"dc/dc2/classnpc__slim.html#aa227fbe22126bed821939873973e6a20":[6,0,2121,0],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html":[6,0,1692,0],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74":[6,0,1692,0,11],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a70ff1a69374b62bf6aadf1bfabe8bdb3":[6,0,1692,0,0],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a7442d526cc09f98a3cd53749e09fb6f0":[6,0,1692,0,5],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a76bfbed03ad9f83b953da5f53aa45b73":[6,0,1692,0,3]
+"dc/dc2/classnpc__slim.html":[6,0,2121]
 };

@@ -3947,6 +3947,7 @@ var annotated_dup =
     [ "spell_magtheridon_shadow_grasp_visual", "d5/dba/classspell__magtheridon__shadow__grasp__visual.html", "d5/dba/classspell__magtheridon__shadow__grasp__visual" ],
     [ "spell_majordomo_separation_anxiety_aura", "da/df4/classspell__majordomo__separation__anxiety__aura.html", "da/df4/classspell__majordomo__separation__anxiety__aura" ],
     [ "spell_malchezaar_enfeeble", "d4/ded/classspell__malchezaar__enfeeble.html", "d4/ded/classspell__malchezaar__enfeeble" ],
+    [ "spell_mammoth_explosion", "d1/d53/classspell__mammoth__explosion.html", "d1/d53/classspell__mammoth__explosion" ],
     [ "spell_mana_burn_area", "d6/dc3/classspell__mana__burn__area.html", "d6/dc3/classspell__mana__burn__area" ],
     [ "spell_mandokir_charge", "d7/d70/classspell__mandokir__charge.html", "d7/d70/classspell__mandokir__charge" ],
     [ "spell_mark_of_frost_freeze", "da/d97/classspell__mark__of__frost__freeze.html", "da/d97/classspell__mark__of__frost__freeze" ],
