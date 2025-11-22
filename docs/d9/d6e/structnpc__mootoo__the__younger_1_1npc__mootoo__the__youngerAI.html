@@ -612,7 +612,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  929</span>: <a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  742</span>: <a class="code hl_struct" href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a>(creature) { }</div>
 <div class="ttc" id="astructnpc__escortAI_html"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html">npc_escortAI</a></div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
@@ -643,15 +643,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/ddc/structnpc__escortAI.html#ae25140568b7dccf0ab73aa87452bd985">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  937</span>        {</div>
-<div class="line"><span class="lineno">  938</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
-<div class="line"><span class="lineno">  939</span>                player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a>);</div>
-<div class="line"><span class="lineno">  940</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  750</span>        {</div>
+<div class="line"><span class="lineno">  751</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">  752</span>                player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a>);</div>
+<div class="line"><span class="lineno">  753</span>        }</div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1071</div></div>
 <div class="ttc" id="astructnpc__escortAI_html_a689a50e0af6c80ef59ee207ac518df45"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">npc_escortAI::GetPlayerForEscort</a></div><div class="ttdeci">Player * GetPlayerForEscort()</div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:113</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a></div><div class="ttdeci">@ QUEST_ESCAPING_THE_MIST</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:906</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a></div><div class="ttdeci">@ QUEST_ESCAPING_THE_MIST</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:719</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, and <a class="el" href="../../#l00906">QUEST_ESCAPING_THE_MIST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, and <a class="el" href="../../#l00719">QUEST_ESCAPING_THE_MIST</a>.</p>
 
 </div>
 </div>
@@ -679,9 +679,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  932</span>        {</div>
-<div class="line"><span class="lineno">  933</span>            <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a275f8451695529110d73b675d340f229">SetDespawnAtFar</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  934</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  745</span>        {</div>
+<div class="line"><span class="lineno">  746</span>            <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a275f8451695529110d73b675d340f229">SetDespawnAtFar</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  747</span>        }</div>
 <div class="ttc" id="astructnpc__escortAI_html_a275f8451695529110d73b675d340f229"><div class="ttname"><a href="../../d2/ddc/structnpc__escortAI.html#a275f8451695529110d73b675d340f229">npc_escortAI::SetDespawnAtFar</a></div><div class="ttdeci">void SetDespawnAtFar(bool despawn)</div><div class="ttdef"><b>Definition</b> ScriptedEscortAI.h:104</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00104">npc_escortAI::SetDespawnAtFar()</a>.</p>
@@ -713,34 +713,34 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d2/ddc/structnpc__escortAI.html#a59830f742b9967303df22f5bcf0d2b9d">npc_escortAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  943</span>        {</div>
-<div class="line"><span class="lineno">  944</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>();</div>
-<div class="line"><span class="lineno">  945</span>            <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  946</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  947</span> </div>
-<div class="line"><span class="lineno">  948</span>            <span class="keywordflow">switch</span> (waypointId)</div>
-<div class="line"><span class="lineno">  949</span>            {</div>
-<div class="line"><span class="lineno">  950</span>                <span class="keywordflow">case</span> 10:</div>
-<div class="line"><span class="lineno">  951</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
-<div class="line"><span class="lineno">  952</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390">SAY_2</a>);</div>
-<div class="line"><span class="lineno">  953</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  954</span>                <span class="keywordflow">case</span> 12:</div>
-<div class="line"><span class="lineno">  955</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2">SAY_3</a>);</div>
-<div class="line"><span class="lineno">  956</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a2064a072acc52d461ee218c3f896d1d4">EMOTE_ONESHOT_LOOT</a>);</div>
-<div class="line"><span class="lineno">  957</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  958</span>                <span class="keywordflow">case</span> 16:</div>
-<div class="line"><span class="lineno">  959</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a">SAY_4</a>);</div>
-<div class="line"><span class="lineno">  960</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
-<div class="line"><span class="lineno">  961</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  962</span>                <span class="keywordflow">case</span> 20:</div>
-<div class="line"><span class="lineno">  963</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(1, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  964</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e">SAY_5</a>);</div>
-<div class="line"><span class="lineno">  965</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
-<div class="line"><span class="lineno">  966</span>                    player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a5407b30447c557eb4bcb441d0e4df355">GroupEventHappens</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  967</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  968</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  969</span>            }</div>
-<div class="line"><span class="lineno">  970</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  756</span>        {</div>
+<div class="line"><span class="lineno">  757</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>();</div>
+<div class="line"><span class="lineno">  758</span>            <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">  759</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  760</span> </div>
+<div class="line"><span class="lineno">  761</span>            <span class="keywordflow">switch</span> (waypointId)</div>
+<div class="line"><span class="lineno">  762</span>            {</div>
+<div class="line"><span class="lineno">  763</span>                <span class="keywordflow">case</span> 10:</div>
+<div class="line"><span class="lineno">  764</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
+<div class="line"><span class="lineno">  765</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390">SAY_2</a>);</div>
+<div class="line"><span class="lineno">  766</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  767</span>                <span class="keywordflow">case</span> 12:</div>
+<div class="line"><span class="lineno">  768</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2">SAY_3</a>);</div>
+<div class="line"><span class="lineno">  769</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a2064a072acc52d461ee218c3f896d1d4">EMOTE_ONESHOT_LOOT</a>);</div>
+<div class="line"><span class="lineno">  770</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  771</span>                <span class="keywordflow">case</span> 16:</div>
+<div class="line"><span class="lineno">  772</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a">SAY_4</a>);</div>
+<div class="line"><span class="lineno">  773</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
+<div class="line"><span class="lineno">  774</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  775</span>                <span class="keywordflow">case</span> 20:</div>
+<div class="line"><span class="lineno">  776</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(1, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  777</span>                    <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e">SAY_5</a>);</div>
+<div class="line"><span class="lineno">  778</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">HandleEmoteCommand</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a>);</div>
+<div class="line"><span class="lineno">  779</span>                    player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a5407b30447c557eb4bcb441d0e4df355">GroupEventHappens</a>(<a class="code hl_enumvalue" href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a2c687699621b5fc72a0cf29864a51c22">QUEST_ESCAPING_THE_MIST</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  780</span>                    <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  781</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  782</span>            }</div>
+<div class="line"><span class="lineno">  783</span>        }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a0e527855c554e31654c9beb340145574a2064a072acc52d461ee218c3f896d1d4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a2064a072acc52d461ee218c3f896d1d4">EMOTE_ONESHOT_LOOT</a></div><div class="ttdeci">@ EMOTE_ONESHOT_LOOT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1987</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a34f488a152a114730a9a2e5f60ddbb6f">EMOTE_ONESHOT_EXCLAMATION</a></div><div class="ttdeci">@ EMOTE_ONESHOT_EXCLAMATION</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1910</div></div>
 <div class="ttc" id="aclassCreature_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition</b> Creature.cpp:3222</div></div>
@@ -749,12 +749,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_adeebdc78f840a40e89361e5c792b0e53"><div class="ttname"><a href="../../df/dd9/classUnit.html#adeebdc78f840a40e89361e5c792b0e53">Unit::HandleEmoteCommand</a></div><div class="ttdeci">void HandleEmoteCommand(uint32 emoteId)</div><div class="ttdef"><b>Definition</b> Unit.cpp:2036</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:280</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a">SAY_4</a></div><div class="ttdeci">@ SAY_4</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:902</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390">SAY_2</a></div><div class="ttdeci">@ SAY_2</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:900</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e">SAY_5</a></div><div class="ttdeci">@ SAY_5</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:903</div></div>
-<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2">SAY_3</a></div><div class="ttdeci">@ SAY_3</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:901</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a393f4d58810d4b6428bc04b5e9fbb25a">SAY_4</a></div><div class="ttdeci">@ SAY_4</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:715</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a73b0208d974ac93026e31ca8864dd390">SAY_2</a></div><div class="ttdeci">@ SAY_2</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:713</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37a8aa80f4753ebd171fa99c01dc60a7d4e">SAY_5</a></div><div class="ttdeci">@ SAY_5</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:716</div></div>
+<div class="ttc" id="azone__borean__tundra_8cpp_html_a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2"><div class="ttname"><a href="../../d3/d09/zone__borean__tundra_8cpp.html#a96ad48d605d3ed4333336d5d262d1f37ac65331505a607f1932cba9cf598d2cc2">SAY_3</a></div><div class="ttdeci">@ SAY_3</div><div class="ttdef"><b>Definition</b> zone_borean_tundra.cpp:714</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01910">EMOTE_ONESHOT_EXCLAMATION</a>, <a class="el" href="../../#l01987">EMOTE_ONESHOT_LOOT</a>, <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l01818">Player::GroupEventHappens()</a>, <a class="el" href="../../#l02036">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00906">QUEST_ESCAPING_THE_MIST</a>, <a class="el" href="../../#l00900">SAY_2</a>, <a class="el" href="../../#l00901">SAY_3</a>, <a class="el" href="../../#l00902">SAY_4</a>, <a class="el" href="../../#l00903">SAY_5</a>, <a class="el" href="../../#l19079">Unit::SetPhaseMask()</a>, and <a class="el" href="../../#l03222">Creature::SetWalk()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01910">EMOTE_ONESHOT_EXCLAMATION</a>, <a class="el" href="../../#l01987">EMOTE_ONESHOT_LOOT</a>, <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l01818">Player::GroupEventHappens()</a>, <a class="el" href="../../#l02036">Unit::HandleEmoteCommand()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00719">QUEST_ESCAPING_THE_MIST</a>, <a class="el" href="../../#l00713">SAY_2</a>, <a class="el" href="../../#l00714">SAY_3</a>, <a class="el" href="../../#l00715">SAY_4</a>, <a class="el" href="../../#l00716">SAY_5</a>, <a class="el" href="../../#l19079">Unit::SetPhaseMask()</a>, and <a class="el" href="../../#l03222">Creature::SetWalk()</a>.</p>
 
 </div>
 </div>
@@ -767,7 +767,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d14/classnpc__mootoo__the__younger.html">npc_mootoo_the_younger</a></li><li class="navelem"><a class="el" href="../../d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html">npc_mootoo_the_youngerAI</a></li>
-    <li class="footer">Generated on Fri Nov 21 2025 06:26:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 22 2025 06:23:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

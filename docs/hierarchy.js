@@ -3738,7 +3738,6 @@ var hierarchy =
         [ "npc_barnes", "db/dfa/classnpc__barnes.html", null ],
         [ "npc_battle_at_valhalas", "d6/d29/classnpc__battle__at__valhalas.html", null ],
         [ "npc_belnistrasz", "d3/d86/classnpc__belnistrasz.html", null ],
-        [ "npc_beryl_sorcerer", "de/d3c/classnpc__beryl__sorcerer.html", null ],
         [ "npc_bessy", "d3/d6d/classnpc__bessy.html", null ],
         [ "npc_bh_thalorien_dawnseeker", "d1/d1a/classnpc__bh__thalorien__dawnseeker.html", null ],
         [ "npc_big_ooze", "d4/d35/classnpc__big__ooze.html", null ],
@@ -3768,7 +3767,6 @@ var hierarchy =
         [ "npc_captain_grondel", "dd/d99/classnpc__captain__grondel.html", null ],
         [ "npc_captain_rupert", "d4/d6a/classnpc__captain__rupert.html", null ],
         [ "npc_captain_saeed", "d1/de9/classnpc__captain__saeed.html", null ],
-        [ "npc_captured_beryl_sorcerer", "d4/d08/classnpc__captured__beryl__sorcerer.html", null ],
         [ "npc_captured_rageclaw", "d0/d31/classnpc__captured__rageclaw.html", null ],
         [ "npc_centrifuge_construct", "de/d11/classnpc__centrifuge__construct.html", null ],
         [ "npc_chicken_cluck", "dd/d64/classnpc__chicken__cluck.html", null ],
@@ -5127,7 +5125,6 @@ var hierarchy =
             [ "npc_warden_mellichar::npc_warden_mellicharAI", "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html", null ]
           ] ],
           [ "FollowerAI", "de/d72/classFollowerAI.html", [
-            [ "npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI", "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html", null ],
             [ "npc_jenny", "dc/dcb/structnpc__jenny.html", null ],
             [ "npc_kerlonian::npc_kerlonianAI", "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html", null ],
             [ "npc_rabid_thistle_bear::npc_rabid_thistle_bearAI", "dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html", null ],
@@ -5890,7 +5887,6 @@ var hierarchy =
         [ "ironhand_guardian::ironhand_guardianAI", "d8/d01/structironhand__guardian_1_1ironhand__guardianAI.html", null ],
         [ "npc_announcer_toc5::npc_announcer_toc5AI", "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html", null ],
         [ "npc_batrider", "d5/d1f/structnpc__batrider.html", null ],
-        [ "npc_beryl_sorcerer::npc_beryl_sorcererAI", "d2/d18/structnpc__beryl__sorcerer_1_1npc__beryl__sorcererAI.html", null ],
         [ "npc_brann_bronzebeard_algalon::npc_brann_bronzebeard_algalonAI", "d4/dcf/structnpc__brann__bronzebeard__algalon_1_1npc__brann__bronzebeard__algalonAI.html", null ],
         [ "npc_hyldsmeet_protodrake::npc_hyldsmeet_protodrakeAI", "d2/dcd/classnpc__hyldsmeet__protodrake_1_1npc__hyldsmeet__protodrakeAI.html", null ],
         [ "npc_maredis_firestar::npc_maredis_firestarAI", "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html", null ],

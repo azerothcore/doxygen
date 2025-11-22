@@ -11,10 +11,6 @@ var zone__borean__tundra_8cpp =
     [ "npc_lurgglbr", "d3/daa/classnpc__lurgglbr.html", "d3/daa/classnpc__lurgglbr" ],
     [ "npc_lurgglbr::npc_lurgglbrAI", "d7/ddc/structnpc__lurgglbr_1_1npc__lurgglbrAI.html", "d7/ddc/structnpc__lurgglbr_1_1npc__lurgglbrAI" ],
     [ "npc_jenny", "dc/dcb/structnpc__jenny.html", "dc/dcb/structnpc__jenny" ],
-    [ "npc_beryl_sorcerer", "de/d3c/classnpc__beryl__sorcerer.html", "de/d3c/classnpc__beryl__sorcerer" ],
-    [ "npc_beryl_sorcerer::npc_beryl_sorcererAI", "d2/d18/structnpc__beryl__sorcerer_1_1npc__beryl__sorcererAI.html", "d2/d18/structnpc__beryl__sorcerer_1_1npc__beryl__sorcererAI" ],
-    [ "npc_captured_beryl_sorcerer", "d4/d08/classnpc__captured__beryl__sorcerer.html", "d4/d08/classnpc__captured__beryl__sorcerer" ],
-    [ "npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI", "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI.html", "db/deb/structnpc__captured__beryl__sorcerer_1_1npc__captured__beryl__sorcererAI" ],
     [ "spell_arcane_chains_character_force_cast", "db/dfb/classspell__arcane__chains__character__force__cast.html", "db/dfb/classspell__arcane__chains__character__force__cast" ],
     [ "npc_imprisoned_beryl_sorcerer", "d1/d86/classnpc__imprisoned__beryl__sorcerer.html", "d1/d86/classnpc__imprisoned__beryl__sorcerer" ],
     [ "npc_imprisoned_beryl_sorcerer::npc_imprisoned_beryl_sorcererAI", "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html", "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI" ],
@@ -42,17 +38,9 @@ var zone__borean__tundra_8cpp =
     [ "spell_necropolis_beam", "d3/d0a/classspell__necropolis__beam.html", "d3/d0a/classspell__necropolis__beam" ],
     [ "spell_soul_deflection", "df/d1d/classspell__soul__deflection.html", "df/d1d/classspell__soul__deflection" ],
     [ "spell_bloodspore_haze", "d4/d7b/classspell__bloodspore__haze.html", "d4/d7b/classspell__bloodspore__haze" ],
-    [ "BerylSorcerer", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281", [
-      [ "EVENT_FROSTBOLT", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281aeccde9e1206ee2e4eb28b875f92ec48a", null ],
-      [ "EVENT_ARCANE_CHAINS", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281acc82c9e2da8a9d11d5fc08d8ec826668", null ],
-      [ "NPC_LIBRARIAN_DONATHAN", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281ad23ce4ad9b35c2658f7efeb87f640875", null ],
-      [ "NPC_CAPTURED_BERLY_SORCERER", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a5d250c4109c407d2861d5982dad55ab0", null ],
-      [ "SPELL_FROSTBOLT", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a1c6a7f86c2818960d6f6f23a4554e39e", null ],
-      [ "SPELL_ARCANE_CHAINS", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a841c79fce50df768a27cb5f8194de13b", null ],
-      [ "SPELL_ARCANE_CHAINS_CHARACTER_FORCE_CAST", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281a281a473ba44c139884440cbe38ad8de0", null ],
-      [ "SPELL_ARCANE_CHAINS_SUMMON_CHAINED_MAGE_HUNTER", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281afd3d75fde3c031f9b17358271c3c919f", null ],
-      [ "SPELL_COSMETIC_ENSLAVE_CHAINS_SELF", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281aa38de03f4b38451c61c01e6ae0381b6d", null ],
-      [ "SPELL_ARCANE_CHAINS_CHANNEL_II", "d3/d09/zone__borean__tundra_8cpp.html#a9f87df6e1fc3613a707440575321b281ac8018e4f5445a45e6d9f3488c9ca2ef9", null ]
+    [ "ArcaneChains", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338dae", [
+      [ "SPELL_ARCANE_CHAINS_CHARACTER_FORCE_CAST", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daea281a473ba44c139884440cbe38ad8de0", null ],
+      [ "SPELL_ARCANE_CHAINS_SUMMON_CHAINED_MAGE_HUNTER", "d3/d09/zone__borean__tundra_8cpp.html#adbd7d551f98c6120c470065703338daeafd3d75fde3c031f9b17358271c3c919f", null ]
     ] ],
     [ "BloodsporeRuination", "d3/d09/zone__borean__tundra_8cpp.html#aa16fb89cb3bd6364485f6fc84fc8bb6b", [
       [ "NPC_BLOODMAGE_LAURITH", "d3/d09/zone__borean__tundra_8cpp.html#aa16fb89cb3bd6364485f6fc84fc8bb6baac9d55f5c8166848353e755c9c7ca112", null ],
@@ -65,10 +53,6 @@ var zone__borean__tundra_8cpp =
       [ "QUEST_GET_ME_OUTA_HERE", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42", null ],
       [ "SAY_BONKER_1", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda3300ceea0456cc026efa4f2ed6825fa0", null ],
       [ "SAY_BONKER_2", "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5", null ]
-    ] ],
-    [ "CapturedBerylSorcerer", "d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7db", [
-      [ "EVENT_ADD_ARCANE_CHAINS", "d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7dba1f05bf3457b0197120302f1eb044c62e", null ],
-      [ "EVENT_FOLLOW_PLAYER", "d3/d09/zone__borean__tundra_8cpp.html#a92a31d7ebb70f1182e1fd15b435fa7dba4646f646b8db0c36454e08ce37c53ee0", null ]
     ] ],
     [ "CounselorTalbot", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fff", [
       [ "SPELL_DEFLECTION", "d3/d09/zone__borean__tundra_8cpp.html#a85f922d7096161a519596dfdc4674fffa55b4537ee6c885346242b9915d70efaf", null ],
@@ -98,6 +82,7 @@ var zone__borean__tundra_8cpp =
     ] ],
     [ "ImprisionedBerylSorcerer", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178", [
       [ "SPELL_NEURAL_NEEDLE", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a8a2fa8e27afc12d115154acd4668fbd5", null ],
+      [ "SPELL_COSMETIC_ENSLAVE_CHAINS_SELF", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178aa38de03f4b38451c61c01e6ae0381b6d", null ],
       [ "NPC_IMPRISONED_BERYL_SORCERER", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a5ab453d06d1693e52516bb430d100707", null ],
       [ "SAY_IMPRISIONED_BERYL_1", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a3b0b33e2e94be1336b9c2a1caa73d8dd", null ],
       [ "SAY_IMPRISIONED_BERYL_2", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178ae6469589be1d2ce28c9eec152dd5b0f5", null ],
