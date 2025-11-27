@@ -1,5 +1,12 @@
 var NAVTREEINDEX379 =
 {
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,2,1,1,0,5],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a04b67a848d4f8d875977d392b35c17af":[7,0,0,0,1,3,2,1,1,0,5,12],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a257929f8c515248587fec0f2a134510b":[7,0,0,0,1,3,2,1,1,0,5,18],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a285e5a954fca4f242d4acfaeec23ed05":[7,0,0,0,1,3,2,1,1,0,5,16],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a29fa1d405bc9731e434075c768473977":[7,0,0,0,1,3,2,1,1,0,5,0],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a30165eeec90afe018fa7d063514c7acd":[7,0,0,0,1,3,2,1,1,0,5,7],
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a307e7fd906a940be58d50a7342ce9d12":[7,0,0,0,1,3,2,1,1,0,5,24],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a327a9d57691f8ba2aeeede72e89909eb":[7,0,0,0,1,3,2,1,1,0,5,23],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a4412bc0a73b8b56a971181fd34b8d2a3":[7,0,0,0,1,3,2,1,1,0,5,9],
 "df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22a472ea134fff9835642ba91ae5167b76c":[7,0,0,0,1,3,2,1,1,0,5,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX379 =
 "df/d17/group__world.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623":[4,2,39],
 "df/d17/group__world.html#ga8c3d9f1d251a9b167c9adc99101e5612":[4,2,55],
 "df/d17/group__world.html#ga8db480edb9459ebf73a1363c6fea0b27":[4,2,47],
-"df/d17/group__world.html#gaa452a9be01e00154512cb55980737ae6":[4,2,57],
-"df/d17/group__world.html#gaa50e5243877e8283f30ee9376b2d519e":[4,2,59],
-"df/d17/group__world.html#gab528c044ef69c717d477eee8eac299b0":[4,2,46],
-"df/d17/group__world.html#gab842e78f86995775c494437356620779":[4,2,56],
-"df/d17/group__world.html#gac11f34aad352a3782f299b3978607d16":[4,2,14],
-"df/d17/group__world.html#gac976d0c6f66bd6ab52932a289e0f9551":[4,2,41],
-"df/d17/group__world.html#gad4885daeab81309a42c2c1fdebcf33ad":[4,2,45],
-"df/d17/group__world.html#gadba1100bafe6db8a242bdad35663e909":[4,2,51]
+"df/d17/group__world.html#gaa452a9be01e00154512cb55980737ae6":[4,2,57]
 };

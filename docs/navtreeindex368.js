@@ -1,5 +1,12 @@
 var NAVTREEINDEX368 =
 {
+"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80":[7,0,0,0,1,3,6,14,5,0],
+"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2":[7,0,0,0,1,3,6,14,5,1],
+"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3":[7,0,0,0,1,3,6,14,5,2],
+"de/d90/OutdoorPvPZM_8h.html#a986fade5573769277e5c9e99dc243d78":[7,0,0,0,1,3,6,14,12],
+"de/d90/OutdoorPvPZM_8h.html#a9bf0e9dee2e0ae4731dd302373e18542":[7,0,0,0,1,3,6,14,14],
+"de/d90/OutdoorPvPZM_8h.html#aa18435dfdf68c3f5ac5218ce2e4909d0":[7,0,0,0,1,3,6,14,17],
+"de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5":[7,0,0,0,1,3,6,14,8],
 "de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae":[7,0,0,0,1,3,6,14,8,2],
 "de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62":[7,0,0,0,1,3,6,14,8,1],
 "de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82":[7,0,0,0,1,3,6,14,8,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX368 =
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f":[7,0,0,0,1,3,4,31,4,9],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a":[7,0,0,0,1,3,4,31,4,10],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224":[7,0,0,0,1,3,4,31,4,3],
-"de/d99/classspell__dk__chains__of__ice.html":[6,0,2754],
-"de/d99/classspell__dk__chains__of__ice.html#a7d0dd936965845c14e7b54846facdb89":[6,0,2754,1],
-"de/d99/classspell__dk__chains__of__ice.html#aaa65e67362ded5318e89272acf073bf3":[6,0,2754,0],
-"de/d99/classspell__dk__chains__of__ice.html#ab7b767743d62d9763bea710b7552a8cf":[6,0,2754,2],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,31,6,43],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,11,6,43],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,31,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,11,6,43,0]
+"de/d99/classspell__dk__chains__of__ice.html":[6,0,2754]
 };

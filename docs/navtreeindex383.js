@@ -1,5 +1,12 @@
 var NAVTREEINDEX383 =
 {
+"df/d24/classnpc__daphne__stilwell.html#ad844c5f0409936d7068ee55271506041":[6,0,1725,1],
+"df/d24/classnpc__daphne__stilwell.html#af1872100f3eeb14e894277cfc8e1a74b":[6,0,1725,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[6,0,0,87],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,99],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,99,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,87,2],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,99,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,99,0],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
@@ -149,8 +156,8 @@ var NAVTREEINDEX383 =
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,31,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,6,40,5],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,6,40,7],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[5,0,31,6,40,7],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[6,0,11,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#aa643af51780fc550f3947936266d54f5":[5,0,31,6,40,1],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#ab797ef0f0081c4520a6333afbe6cd5b4":[5,0,31,6,40,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX383 =
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a070aeb3e9535f30f6a8af4374bc06115":[6,0,1359,0,12],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0c79e03ddb1efdc9981fbe77a57cc1ba":[6,0,1359,0,20],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0ef170420596e91cf81b267f2f6bed93":[6,0,1359,0,5],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fa360a2d3a28add4e73df28882788ad":[6,0,1359,0,0],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fdf151b16fc486a2448ad4ea138653e":[6,0,1359,0,15],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2dba82a79b82db7358638a59799b69e4":[6,0,1359,0,27],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a2e908036be061e2c2b5d10f98af22c53":[6,0,1359,0,23],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a340b119d584b317a33b2225668c3288a":[6,0,1359,0,14],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a55b9b4c4cfe65cd15e6fc8cb807535db":[6,0,1359,0,11],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a5ea4b8c60a9ff0903b7ac6129da1e0d9":[6,0,1359,0,18],
-"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a61587b3a79925051043a672bbfcd412b":[6,0,1359,0,28]
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a1fa360a2d3a28add4e73df28882788ad":[6,0,1359,0,0]
 };

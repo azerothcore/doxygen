@@ -1,5 +1,12 @@
 var NAVTREEINDEX361 =
 {
+"de/d3c/structnpc__maiev__illidan.html#aa4d6626d6130a88519f86cfe70d9fb95":[6,0,1947,6],
+"de/d3c/structnpc__maiev__illidan.html#ad1728d7d8b1b5f9db8db4d811c2ba630":[6,0,1947,4],
+"de/d3c/structnpc__maiev__illidan.html#ad41b6deb9406232629ad60ba66cfac6b":[6,0,1947,8],
+"de/d3d/Group_8h.html":[7,0,0,0,1,2,20,1],
+"de/d3d/Group_8h.html#a0b29644629b2e396bfc5582dd979a657":[7,0,0,0,1,2,20,1,7],
+"de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5f":[7,0,0,0,1,2,20,1,15],
+"de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa0afa825567e442a46d131be6c71cb40f":[7,0,0,0,1,2,20,1,15,0],
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa1b7e37d6dc247df81321e83d0ffe008a":[7,0,0,0,1,2,20,1,15,4],
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa79a6b7f188a0c6c0f32beb8d40d5804a":[7,0,0,0,1,2,20,1,15,1],
 "de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa7f1ec5eb59564ae05005b9260e1d974e":[7,0,0,0,1,2,20,1,15,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX361 =
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298cadcf1b60e2fdcbc62292f3be4f1b3bf76":[7,0,0,0,1,3,2,16,9,3,1],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298cafa725ea8786289cf2e806cd4a3d6f2b0":[7,0,0,0,1,3,2,16,9,3,3],
 "de/d44/boss__renataki_8cpp.html#a80a0058a4b8d5de978d9d5fb736a0998":[7,0,0,0,1,3,2,16,9,4],
-"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,9,2],
-"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a20389ff46293557848336b83adf428e8":[7,0,0,0,1,3,2,16,9,2,1],
-"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39745454a6136849ea1e00a184f90661":[7,0,0,0,1,3,2,16,9,2,3],
-"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,9,2,2],
-"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,9,2,0],
-"de/d44/structDBCDatabaseLoader.html":[6,0,958],
-"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[6,0,958,3],
-"de/d44/structDBCDatabaseLoader.html#a2efbbd3799e5f72fecaeaf9365579482":[6,0,958,0]
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,9,2]
 };

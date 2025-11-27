@@ -1,5 +1,12 @@
 var NAVTREEINDEX359 =
 {
+"de/d30/SpellMgr_8h.html#a38a52b76af6f14f7d3ad3282be428da8":[7,0,0,0,1,2,41,9,14],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620":[7,0,0,0,1,2,41,9,65],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0cbc9ff250313715ea194c4fe1df791e":[7,0,0,0,1,2,41,9,65,16],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a0fab403afacd213d4cfd78fd61420455":[7,0,0,0,1,2,41,9,65,1],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a1272d6059a779c53157d1dd19f942ee1":[7,0,0,0,1,2,41,9,65,11],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a18d42ef83f46c23f2d20e5c921c453db":[7,0,0,0,1,2,41,9,65,10],
+"de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a26de2b5bc1367cfe3e0110aeb22bdfed":[7,0,0,0,1,2,41,9,65,3],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a32112aa624f17e0c8efc27b27795869b":[7,0,0,0,1,2,41,9,65,4],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a398a31ba383b5d5223724e088ff17557":[7,0,0,0,1,2,41,9,65,2],
 "de/d30/SpellMgr_8h.html#a3a218f116ccfd1adeb81fc8b82b90620a52ade377867275ef44ef4a46a21a36da":[7,0,0,0,1,2,41,9,65,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX359 =
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2869,1],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2869,2],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2869,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2869,3],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html":[6,0,1297,0],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a02fc56dddc6b300f06c7cc5f8fb3ded7":[6,0,1297,0,12],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a09088000395dbd2b1255c02b4867898d":[6,0,1297,0,10],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a0a5afd0104654aea57479fa3f4d1e36a":[6,0,1297,0,17],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a1047f207de079d1cad0fc6976ab2d3f9":[6,0,1297,0,15],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a160e3b02d40abecbc16533972433fe9b":[6,0,1297,0,8],
-"de/d33/structinstance__culling__of__stratholme_1_1instance__culling__of__stratholme__InstanceMapScript.html#a32218976e637b9499bcbd8f1e4d9c8c8":[6,0,1297,0,11]
+"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#ad8b0bb389d232c74acf106b711414fa1":[6,0,2869,3]
 };

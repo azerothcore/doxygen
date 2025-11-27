@@ -1,5 +1,6 @@
 var NAVTREEINDEX239 =
 {
+"d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa5ccd70d5799413c4175e4278fa6f8995":[7,0,0,0,1,2,24,3,24,1],
 "d9/d84/LootMgr_8h.html#a5d76fe3c2e47015dbdeb747f3c4dfb5aa80420a7e03a1ec9e4383cfe5ba8a1010":[7,0,0,0,1,2,24,3,24,3],
 "d9/d84/LootMgr_8h.html#a5f88815e67cdbdaebef659559cd0d954":[7,0,0,0,1,2,24,3,28],
 "d9/d84/LootMgr_8h.html#a60e4571187c2d3ad1cc7ecec58b29b6b":[7,0,0,0,1,2,24,3,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d8c/classinstance__shadow__labyrinth.html#af9edf624413593a5cdf025dd9a1c3631":[6,0,1335,2],
 "d9/d8c/structnpc__rancid__mushroom.html":[6,0,2070],
 "d9/d8c/structnpc__rancid__mushroom.html#a13bfd343bdf54c829b3fcb0a775c0852":[6,0,2070,3],
-"d9/d8c/structnpc__rancid__mushroom.html#a15896957b94de57de9eda5a199a05d4c":[6,0,2070,1],
-"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1":[6,0,2070,0]
+"d9/d8c/structnpc__rancid__mushroom.html#a15896957b94de57de9eda5a199a05d4c":[6,0,2070,1]
 };

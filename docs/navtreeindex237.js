@@ -1,5 +1,6 @@
 var NAVTREEINDEX237 =
 {
+"d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ad0f4bd3f82ce39bd76258aa754f730f7":[7,0,0,0,1,3,5,6,13,13,12],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,6,13,13,0],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae5eec3de2d56332ece305acf137cb1d7":[7,0,0,0,1,3,5,6,13,13,2],
 "d9/d6a/icecrown__citadel_8h.html#ae4513ae49ac93cd63ad275f12e160d09ae62fa6cf4d75b21f368ca4b2ad33f332":[7,0,0,0,1,3,5,6,13,13,6],
@@ -181,18 +182,18 @@ var NAVTREEINDEX237 =
 "d9/d6e/classSmartWaypointMgr.html#ac22c9bc98be18bb4ffa051387dd844e1":[6,0,2567,5],
 "d9/d6e/classSmartWaypointMgr.html#ac833faad34e77a7b9e5a7b0c46fe8394":[6,0,2567,2],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[6,0,2567,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,18,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[6,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,18,16,4],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[6,0,5,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,18,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[6,0,5,16,2],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,18,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[6,0,5,16,3],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,18,16,3],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html":[6,0,1971,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a596e2ed45b9221915781b03bf2d18e5b":[6,0,2291,0,1],
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a763ec1834d3b71c88bfa80bc0e34966a":[6,0,2291,0,0],
 "d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#a79bf005de95aa1fee60dfc73b8920dad":[6,0,2291,0,3],
-"d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#af0a1e717b08b2fa35dd4ff83778a87c1":[6,0,2291,0,2],
-"d9/d73/classboss__kirtonos__the__herald.html":[6,0,575]
+"d9/d71/structnpc__xt002__life__spark_1_1npc__xt002__life__sparkAI.html#af0a1e717b08b2fa35dd4ff83778a87c1":[6,0,2291,0,2]
 };

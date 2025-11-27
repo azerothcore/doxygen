@@ -23,6 +23,7 @@ var classSummonList =
     [ "erase", "d6/df5/classSummonList.html#a1a260f35364d52e5b99684c8b7392a4c", null ],
     [ "GetCreatureWithEntry", "d6/df5/classSummonList.html#a42dc7251bca850b8f4371ffa8119325a", null ],
     [ "GetEntryCount", "d6/df5/classSummonList.html#a49832436f15b7afbe6e26bd543847ebb", null ],
+    [ "GetRandomCreatureWithEntry", "d6/df5/classSummonList.html#aa95281463f4efdbeede71960d56c1b3c", null ],
     [ "HasEntry", "d6/df5/classSummonList.html#a1d3372abcb785493a5f363893c038b31", null ],
     [ "IsAnyCreatureAlive", "d6/df5/classSummonList.html#a78727fdd4dd2f4824e3cd7b610922508", null ],
     [ "IsAnyCreatureInCombat", "d6/df5/classSummonList.html#aeadfecb59c607666065b5fcec4f67fb2", null ],

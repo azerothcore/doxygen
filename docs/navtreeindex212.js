@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5b4e76b8bde1a7cec3d4c524ef89ce4c":[7,0,0,0,1,3,5,7,10,2,5],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61a4b504cc66a63b1f0150ac6d129222":[7,0,0,0,1,3,5,7,10,2,1],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aece2248203af84f6d210f9983dd0fa28":[7,0,0,0,1,3,5,7,10,2,3],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
@@ -7,8 +8,8 @@ var NAVTREEINDEX212 =
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,121,2],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[6,0,0,121,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,133,3],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#afda548f6394c5d11a7ca229fe6b3d402":[6,0,0,121,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d8/d40/classnpc__ulduar__emergency__fire__bot.html#a1adc05ac4602ab2b297b18f605bfd2cd":[6,0,2217,1],
 "d8/d40/classnpc__ulduar__emergency__fire__bot.html#afb3ab952495175c5f571d4e39a5acea4":[6,0,2217,2],
 "d8/d40/classspell__item__purify__helboar__meat.html":[6,0,3294],
-"d8/d40/classspell__item__purify__helboar__meat.html#a163c9510d29cc2fb454a9d8b437f0496":[6,0,3294,2],
-"d8/d40/classspell__item__purify__helboar__meat.html#a5a628501371e7af224ce44594459b24d":[6,0,3294,0]
+"d8/d40/classspell__item__purify__helboar__meat.html#a163c9510d29cc2fb454a9d8b437f0496":[6,0,3294,2]
 };

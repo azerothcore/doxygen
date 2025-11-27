@@ -1,5 +1,12 @@
 var NAVTREEINDEX312 =
 {
+"dc/d97/classnpc__auriaya__sanctum__sentry.html#a6a8843d3f24378a2fd334e773618ab72":[6,0,1621,2],
+"dc/d97/classnpc__auriaya__sanctum__sentry.html#aa275374ba3a19a2e6a8768d4f01752b2":[6,0,1621,1],
+"dc/d97/classnpc__phalanx.html":[6,0,2034],
+"dc/d97/classnpc__phalanx.html#a947ee4659fe2a46d775119ddcefeb939":[6,0,2034,1],
+"dc/d97/classnpc__phalanx.html#ab1e2a0950ab286d5abae3d46aef3c623":[6,0,2034,2],
+"dc/d97/classspell__warl__seduction.html":[6,0,4001],
+"dc/d97/classspell__warl__seduction.html#a19d8103126a6446fb5ade53d2b5d0ddb":[6,0,4001,0],
 "dc/d97/classspell__warl__seduction.html#a7596065e5ffcacf099a5984f5d940c11":[6,0,4001,1],
 "dc/d97/classspell__warl__seduction.html#a8efa76b28dddad68fee132f37791f231":[6,0,4001,2],
 "dc/d97/structTaxiPathNodeEntry.html":[6,0,4159],
@@ -242,12 +249,5 @@ var NAVTREEINDEX312 =
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,4,9,8,10],
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5c62cc125907a273eb107e2a0ea9f1ee":[7,0,0,0,1,3,4,9,8,10,2],
 "dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219aa1e61c1060b8bd09030ca6eb82320fbf":[7,0,0,0,1,3,4,9,8,10,1],
-"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ae7c625b2cce28981b9c6609da9c6a94c":[7,0,0,0,1,3,4,9,8,10,0],
-"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfd":[7,0,0,0,1,3,4,9,8,9],
-"dc/da8/boss__viscidus_8cpp.html#a7833023af5dd1196e6ec1567d0102cfdac8ca49b75dcb00ab09580e7f6aab2d48":[7,0,0,0,1,3,4,9,8,9,0],
-"dc/da8/boss__viscidus_8cpp.html#aa850e45bf6f3e7e2ff8d7196a6d7e0ef":[7,0,0,0,1,3,4,9,8,14],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7":[7,0,0,0,1,3,4,9,8,7],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a1b785791616e3693f6729f05db08ca25":[7,0,0,0,1,3,4,9,8,7,3],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a33260e404b79422a7861543d35a092b5":[7,0,0,0,1,3,4,9,8,7,0],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a383be1ad0cf8f03dde4b61254614ad7c":[7,0,0,0,1,3,4,9,8,7,5]
+"dc/da8/boss__viscidus_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ae7c625b2cce28981b9c6609da9c6a94c":[7,0,0,0,1,3,4,9,8,10,0]
 };

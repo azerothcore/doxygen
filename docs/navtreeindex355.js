@@ -1,5 +1,12 @@
 var NAVTREEINDEX355 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234acf1d48b62375887193c41f76ab6a30aa":[7,0,0,0,1,4,7,108,93],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad08c23308d2cd77b9c019e72ad4f1de6":[7,0,0,0,1,4,7,108,101],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad09aeb78f9b6e12439bb745aef3f5a32":[7,0,0,0,1,4,7,108,149],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad1c646ee43c56548dc3b1a76915cfde2":[7,0,0,0,1,4,7,108,84],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad1e941d3250b9aa6de2db82206bcb01a":[7,0,0,0,1,4,7,108,91],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad4887373789fceb2d371eb5f8c54fcfd":[7,0,0,0,1,4,7,108,41],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad4be35530950abf05d30bc18b8a6ffc2":[7,0,0,0,1,4,7,108,1],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad59e63d42cf04a8182bd727d0cef8e79":[7,0,0,0,1,4,7,108,7],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad5c449492d513655b7c432fcfffd49f0":[7,0,0,0,1,4,7,108,26],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad7a15eabc0fb25dc52f55e876b8a2937":[7,0,0,0,1,4,7,108,70],
@@ -242,12 +249,5 @@ var NAVTREEINDEX355 =
 "de/d18/AddonMgr_8cpp.html#aaa12f5b754e6b664dbfb2428478bee03":[7,0,0,0,1,2,2,0,2],
 "de/d18/AddonMgr_8cpp.html#ad7d0938e7463238a86e8c811e1a58800":[7,0,0,0,1,2,2,0,1],
 "de/d18/classboss__thorim__runic__colossus.html":[6,0,742],
-"de/d18/classboss__thorim__runic__colossus.html#a2ea1c08a98b689cd6c766578e98a3191":[6,0,742,1],
-"de/d18/classboss__thorim__runic__colossus.html#a6d64427ff427a1054e10c9d987b77f53":[6,0,742,2],
-"de/d18/classspell__hodir__periodic__icicle.html":[6,0,3102],
-"de/d18/classspell__hodir__periodic__icicle.html#a2e9ee7705a950d6a500ac472ff783b3a":[6,0,3102,2],
-"de/d18/classspell__hodir__periodic__icicle.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6":[6,0,3102,0],
-"de/d18/classspell__hodir__periodic__icicle.html#a52c6b32ab01a68b258d4fe89730ec32b":[6,0,3102,1],
-"de/d19/ConditionMgr_8cpp.html":[7,0,0,0,1,2,13,0],
-"de/d19/namespaceMMAP.html":[5,0,20]
+"de/d18/classboss__thorim__runic__colossus.html#a2ea1c08a98b689cd6c766578e98a3191":[6,0,742,1]
 };

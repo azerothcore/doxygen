@@ -1,5 +1,12 @@
 var NAVTREEINDEX318 =
 {
+"dc/de5/classnpc__commander__eligor__dawnbringer.html#a71d919af98464d6d63f948507f3ff08c":[6,0,1691,1],
+"dc/de5/classnpc__commander__eligor__dawnbringer.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d":[6,0,1691,2],
+"dc/de6/classnpc__your__inner__turmoil.html":[6,0,2295],
+"dc/de6/classnpc__your__inner__turmoil.html#a29c8f76b072e891face1225770688ca6":[6,0,2295,2],
+"dc/de6/classnpc__your__inner__turmoil.html#a72856ef469bb8f6ff4a89a16159479af":[6,0,2295,1],
+"dc/de6/structboss__skarvald__the__constructor.html":[6,0,707],
+"dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[6,0,707,7],
 "dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[6,0,707,0],
 "dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[6,0,707,3],
 "dc/de6/structboss__skarvald__the__constructor.html#a63c9e981a198f6fefe8d1fa4d8ede20e":[6,0,707,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX318 =
 "dc/df6/classspell__q12919__gymers__throw.html#ac1237e0af7f88f75ebc551af52fc301c":[6,0,3694,1],
 "dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291":[6,0,3694,0],
 "dc/df7/classspell__alar__ember__blast.html":[6,0,2585],
-"dc/df7/classspell__alar__ember__blast.html#a09d4af96e2d5a69b1b61a6055bcb04d4":[6,0,2585,2],
-"dc/df7/classspell__alar__ember__blast.html#a6590aab70049aa5e94ed48aeb99ab1d0":[6,0,2585,1],
-"dc/df7/classspell__alar__ember__blast.html#a912dc3b17ab7d0818089c32610d82a16":[6,0,2585,0],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html":[6,0,4039],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,4039,2],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,4039,1],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4039,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5]
+"dc/df7/classspell__alar__ember__blast.html#a09d4af96e2d5a69b1b61a6055bcb04d4":[6,0,2585,2]
 };

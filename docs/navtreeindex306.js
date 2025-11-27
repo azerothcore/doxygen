@@ -1,5 +1,12 @@
 var NAVTREEINDEX306 =
 {
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,11,0,4,2],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[7,0,0,0,1,3,5,11,0,4,3],
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec0cacf230c40894b2d6e9f94c3f7022":[7,0,0,0,1,3,5,11,0,4,1],
+"dc/d42/IntermediateValues_8h.html":[7,0,0,0,3,2,3],
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html":[6,0,1298,0],
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1":[6,0,1298,0,6],
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a095202af8915f8a1d8888c045e18d6c4":[6,0,1298,0,4],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a775c7d564b931e157a32b0909efed859":[6,0,1298,0,1],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8b8bca7a1d7880bc53b8002934ceeb7a":[6,0,1298,0,2],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8cd5bf5302b1a7221c69dd9fdc9518dc":[6,0,1298,0,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a15abbb0707ca7a1ad0404000922879c5":[7,0,0,0,1,2,26,2,0,30],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506":[7,0,0,0,1,2,26,2,0,9],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b5d78f04f1f0d7d3b5bb5d7611adfba":[7,0,0,0,1,2,26,2,0,126],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b7c08f3769b14c85ccd9b592323252e":[7,0,0,0,1,2,26,2,0,42],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1c45a09bb36f6d74685c180cb859a623":[7,0,0,0,1,2,26,2,0,16],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1ef74df5f0b7ad15e4af5a8aaf43f2cc":[7,0,0,0,1,2,26,2,0,155],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a213eafa2cb946183680992f7c9fbdf6b":[7,0,0,0,1,2,26,2,0,142],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14":[7,0,0,0,1,2,26,2,0,61],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a26e9d52bcf30e20484f21c591753b23b":[7,0,0,0,1,2,26,2,0,20],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a29509391af755a2d16bbc7dc9a34b777":[7,0,0,0,1,2,26,2,0,21],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2b3e2264e10df69b4fd91dddd6596e21":[7,0,0,0,1,2,26,2,0,5]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b7c08f3769b14c85ccd9b592323252e":[7,0,0,0,1,2,26,2,0,42]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX225 =
 {
+"d8/dd6/DBCfmt_8h.html#a403a136c126513ae56a58523a246d28e":[7,0,0,0,1,4,0,3,73],
 "d8/dd6/DBCfmt_8h.html#a4710b3cfcda1dc630ed1d619cbc12868":[7,0,0,0,1,4,0,3,1],
 "d8/dd6/DBCfmt_8h.html#a4b382b6e95ced2aa17a608a4809c144a":[7,0,0,0,1,4,0,3,94],
 "d8/dd6/DBCfmt_8h.html#a4f6cc73661edba8fc844af7b0d592ab1":[7,0,0,0,1,4,0,3,95],
@@ -248,6 +249,5 @@ var NAVTREEINDEX225 =
 "d8/ddd/classnpc__cos__chromie__middle.html#a37ebdd257ef22554c81cf3c062856141":[6,0,1702,2],
 "d8/ddd/classnpc__cos__chromie__middle.html#a6af52ce23a90e7d8418e2c414c9c0fd4":[6,0,1702,3],
 "d8/ddd/classspell__marrowgar__coldflame__bonestorm.html":[6,0,3453],
-"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[6,0,3453,1],
-"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a4d070dff98fed842e0a3839e918f7c5a":[6,0,3453,2]
+"d8/ddd/classspell__marrowgar__coldflame__bonestorm.html#a3e21794652b0ffea67571f9b294b4961":[6,0,3453,1]
 };

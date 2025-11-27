@@ -1,5 +1,12 @@
 var NAVTREEINDEX388 =
 {
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca70525d65c99bb1860cd206023b4d0051":[7,0,0,0,1,3,5,1,0,0,16,5],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7d2d663e0fd0f7e37fdd04eb045c5c6c":[7,0,0,0,1,3,5,1,0,0,16,0],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5cab498cbac865a3d5691ccdb474aca5ef1":[7,0,0,0,1,3,5,1,0,0,16,4],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5cada853ce460abd3905eb5fc560a13b94b":[7,0,0,0,1,3,5,1,0,0,16,1],
+"df/d71/boss__sartharion_8cpp.html#a818921054ff5bea8d1030013c546b60c":[7,0,0,0,1,3,5,1,0,0,21],
+"df/d71/boss__sartharion_8cpp.html#a81b294ca8a159dc71b8b8a254f36a937":[7,0,0,0,1,3,5,1,0,0,22],
+"df/d71/boss__sartharion_8cpp.html#a99ab829ba7f384a769ae94da078aa9df":[7,0,0,0,1,3,5,1,0,0,20],
 "df/d71/boss__sartharion_8cpp.html#abd520a29ab6e7fb834942fe165bd483a":[7,0,0,0,1,3,5,1,0,0,26],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,1,0,0,14],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a023b4dbd94d9ae8eeb8dc0049948ed92":[7,0,0,0,1,3,5,1,0,0,14,18],
@@ -242,12 +249,5 @@ var NAVTREEINDEX388 =
 "df/d7f/structboss__novos.html#af37e7d05ad672d443f7f2f89c7fd24a5":[6,0,643,11],
 "df/d81/classspell__dk__wandering__plague.html":[6,0,2789],
 "df/d81/classspell__dk__wandering__plague.html#a3aaf93f3746b36d5bfa4fc475aabe43b":[6,0,2789,2],
-"df/d81/classspell__dk__wandering__plague.html#a8cf5e4224f46b6f836d517f90fd135d4":[6,0,2789,1],
-"df/d81/classspell__dk__wandering__plague.html#adab73c94c659d7421c9c6887d956cd83":[6,0,2789,0],
-"df/d81/structboss__dorothee.html":[6,0,428],
-"df/d81/structboss__dorothee.html#a0e76c828a1c7c49741963b6e98003a66":[6,0,428,7],
-"df/d81/structboss__dorothee.html#a1b9cf1e58d68d249249a8b0d082b725a":[6,0,428,1],
-"df/d81/structboss__dorothee.html#a20e6555e2117a62fce3af7f7fb7167cc":[6,0,428,11],
-"df/d81/structboss__dorothee.html#a258cc9ce32f314e723d5345ac18336bf":[6,0,428,13],
-"df/d81/structboss__dorothee.html#a289dfa1f257ca25acba9487908e6223c":[6,0,428,3]
+"df/d81/classspell__dk__wandering__plague.html#a8cf5e4224f46b6f836d517f90fd135d4":[6,0,2789,1]
 };

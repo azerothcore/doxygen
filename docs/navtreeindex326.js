@@ -1,5 +1,12 @@
 var NAVTREEINDEX326 =
 {
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1931,0,4],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1826,0],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1826,0,1],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aa767fc4cb2f7eba37fedaec57c4bc175":[6,0,1826,0,4],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1826,0,2],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[6,0,1826,0,3],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac79cb67f21820ef88ac9cd671ca9e4c7":[6,0,1826,0,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html":[6,0,1953,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[6,0,1953,0,1],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a3b022feb2303875d32ad981e84f66854":[6,0,1953,0,3],
@@ -85,8 +92,8 @@ var NAVTREEINDEX326 =
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,7,2,4],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,11,7,2,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html":[6,0,2728],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#a11620e4d645b3bfd35924700b5dad289":[6,0,2728,0],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2728,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16":[7,0,0,0,1,0,0,2,1,3,1],
 "dd/d57/AuthSession_8h.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b":[7,0,0,0,1,0,0,2,1,3,3],
 "dd/d57/structSQLElementData.html":[6,0,4127],
-"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[6,0,4127,0],
-"dd/d57/structSQLElementData.html#afb3f8dc82da740b1aaae165cb6a5b218":[6,0,4127,1],
-"dd/d58/boss__twinemperors_8cpp.html":[7,0,0,0,1,3,4,9,7],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,9,7,5],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[7,0,0,0,1,3,4,9,7,5,2],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,4,9,7,5,0],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfabb3241566229f7036dfe0bed5482ec3f":[7,0,0,0,1,3,4,9,7,5,1],
-"dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,7,6]
+"dd/d57/structSQLElementData.html#ae5400b2932fe1a8c514c38fb6bab392f":[6,0,4127,0]
 };

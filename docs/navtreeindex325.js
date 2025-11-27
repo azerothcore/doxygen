@@ -1,5 +1,12 @@
 var NAVTREEINDEX325 =
 {
+"dd/d3b/structGameObjectTemplate.html#a1d8f6356f9cc9c5b2ca27597933f27f5":[6,0,1091,38],
+"dd/d3b/structGameObjectTemplate.html#a1d957cb99d9b0a92a1d4ea1bb4e77aa9":[6,0,1091,17],
+"dd/d3b/structGameObjectTemplate.html#a1e26ff370bfe49a1e28b79c686b51bfd":[6,0,1091,168],
+"dd/d3b/structGameObjectTemplate.html#a2009200fe2b9b921ab6ca7e253069779":[6,0,1091,27],
+"dd/d3b/structGameObjectTemplate.html#a259bf0cf9e7817c1988cf53f28170440":[6,0,1091,127],
+"dd/d3b/structGameObjectTemplate.html#a2a51882cc74f07131c149d93f10dbee2":[6,0,1091,165],
+"dd/d3b/structGameObjectTemplate.html#a2a6f00cb9178f48c4e79e0640eaad81b":[6,0,1091,83],
 "dd/d3b/structGameObjectTemplate.html#a2b0cb20e680729e174de765842e13cc0":[6,0,1091,173],
 "dd/d3b/structGameObjectTemplate.html#a2b485d6e3b1a0b38cf445c3a2cde1766":[6,0,1091,5],
 "dd/d3b/structGameObjectTemplate.html#a2bf4b958a8e735a48bb189f51c64c4a5":[6,0,1091,153],
@@ -242,12 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a15bd7442fef36a551cc8797f7919f57c":[6,0,1931,0,1],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#a28a6e700d24995e477e7e7c4cc8b5d68":[6,0,1931,0,3],
 "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aa7dce553fb699127f63281b2c47a2f02":[6,0,1931,0,2],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1931,0,0],
-"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#aeeeef545aee565c14d86d8587923c677":[6,0,1931,0,4],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1826,0],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1826,0,1],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aa767fc4cb2f7eba37fedaec57c4bc175":[6,0,1826,0,4],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1826,0,2],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[6,0,1826,0,3],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac79cb67f21820ef88ac9cd671ca9e4c7":[6,0,1826,0,0]
+"dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html#ac75d85ae4b59416952788102cd1db132":[6,0,1931,0,0]
 };

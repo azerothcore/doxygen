@@ -1,6 +1,7 @@
 var NAVTREEINDEX209 =
 {
 "d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[5,0,1,7,0,7,0],
+"d8/d04/structAcore_1_1Hyperlinks_1_1LinkTags_1_1talent.html#a77339e0f85d207328398ee7121f044d8":[6,0,0,4,0,7,0],
 "d8/d05/RASession_8h.html":[7,0,0,0,1,0,1,3,1],
 "d8/d05/RASession_8h.html#af86f08ffe713b38f728cb02c7f06c0e1":[7,0,0,0,1,0,1,3,1,1],
 "d8/d05/structboss__flame__leviathan_1_1boss__flame__leviathanAI.html":[6,0,470,0],
@@ -149,12 +150,12 @@ var NAVTREEINDEX209 =
 "d8/d0d/classboss__yoggsaron__sara.html#abc83e0f3a7d12a84ea283e5b2a69826d":[6,0,805,2],
 "d8/d0d/instance__maraudon_8cpp.html":[7,0,0,0,1,3,4,3,0],
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,28,0,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,9,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[6,0,9,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,28,0,1,0],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[6,0,9,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,28,0,1,3],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[6,0,9,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,9,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,28,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[6,0,9,0,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX209 =
 "d8/d12/classArenaTeamTest.html":[6,0,201],
 "d8/d12/classArenaTeamTest.html#ad2fd1d002f4a95b778a8d5ba819eba42":[6,0,201,0],
 "d8/d12/classCharacterActionIpLogger.html":[6,0,852],
-"d8/d12/classCharacterActionIpLogger.html#a39861f7348a79031a8215b435ba81059":[6,0,852,0],
-"d8/d12/classCharacterActionIpLogger.html#a3a4bcaf033e71e2dbeddc2ee6528494e":[6,0,852,4]
+"d8/d12/classCharacterActionIpLogger.html#a39861f7348a79031a8215b435ba81059":[6,0,852,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX246 =
 {
+"d9/df7/classConditionMgr.html#a59c4d558e6d8a9dfcb0d2cb8e4ee7da7":[6,0,891,4],
 "d9/df7/classConditionMgr.html#a5a0314c033ff9f5786d1c17b002e69c2":[6,0,891,19],
 "d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40":[6,0,891,29],
 "d9/df7/classConditionMgr.html#a6f86dcf2e04de63376659333f5b7acce":[6,0,891,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX246 =
 "d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2775,1],
 "d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2775,2],
 "d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[6,0,2775,0],
-"d9/dfa/classnpc__anubisath__sentinel.html":[6,0,1600],
-"d9/dfa/classnpc__anubisath__sentinel.html#ada1ab0d1857fe52020e798d9710a66cb":[6,0,1600,1]
+"d9/dfa/classnpc__anubisath__sentinel.html":[6,0,1600]
 };

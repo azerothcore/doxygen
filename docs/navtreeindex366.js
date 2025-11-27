@@ -1,5 +1,12 @@
 var NAVTREEINDEX366 =
 {
+"de/d79/classGuild.html#a496ade99e2972d09884e08c267925dea":[6,0,1252,65],
+"de/d79/classGuild.html#a499645830ed2b2b134c1b2fe98a30dc4":[6,0,1252,66],
+"de/d79/classGuild.html#a4b1c1eae7f85a92e17ba48c4ac52f0c9":[6,0,1252,55],
+"de/d79/classGuild.html#a4b7e4df32defe814cba1a0be525e8beb":[6,0,1252,50],
+"de/d79/classGuild.html#a4b93e8964749214369de1f19a9532e2d":[6,0,1252,124],
+"de/d79/classGuild.html#a4e136ed59e07705a4ebbded2b792eb4e":[6,0,1252,93],
+"de/d79/classGuild.html#a4e19285fd1730d3515e69a971918f410":[6,0,1252,128],
 "de/d79/classGuild.html#a4e4488776daa471ffb5a31c0770633e6":[6,0,1252,22],
 "de/d79/classGuild.html#a51ac1af417881e348cfa25fe4c4a277e":[6,0,1252,112],
 "de/d79/classGuild.html#a568597dd85eee0c661de9ad12978e527":[6,0,1252,23],
@@ -242,12 +249,5 @@ var NAVTREEINDEX366 =
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a5aeaa5511584d1095639e7df584019c5":[6,0,2152,0,5],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a886ba3133f77a93cfae9c4a7e9fb0609":[6,0,2152,0,6],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#ae468305fbe930baf0a1547f2e6de9953":[6,0,2152,0,4],
-"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#aeb2bca4d3233d8790b1ccfdd559f2e41":[6,0,2152,0,0],
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html":[6,0,1649,0],
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a0010c4befd13ec6beada0de1607f3f7a":[6,0,1649,0,2],
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a":[6,0,1649,0,1],
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#aab1b04989d5e3fc289f00bc121df193d":[6,0,1649,0,3],
-"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#ad4f997a7a4cc0fa96594da35434fd921":[6,0,1649,0,0],
-"de/d82/structboss__brutallus.html":[6,0,407],
-"de/d82/structboss__brutallus.html#a04ff0c07c578c3b92cf45d1ed27fb883":[6,0,407,3]
+"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#aeb2bca4d3233d8790b1ccfdd559f2e41":[6,0,2152,0,0]
 };

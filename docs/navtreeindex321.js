@@ -1,5 +1,12 @@
 var NAVTREEINDEX321 =
 {
+"dd/d16/classspell__deliver__gryphon.html":[6,0,2735],
+"dd/d16/classspell__deliver__gryphon.html#a29bf5a9615e02281f426bf521a045567":[6,0,2735,3],
+"dd/d16/classspell__deliver__gryphon.html#a996ea344ea2a3312cb8886565b80972d":[6,0,2735,2],
+"dd/d16/classspell__deliver__gryphon.html#ab0f6da0cb3115e54dbb59f0e6f823d02":[6,0,2735,1],
+"dd/d16/classspell__deliver__gryphon.html#ad20cf97a7dd442d5670a22095b487a01":[6,0,2735,0],
+"dd/d17/classboss__doomlord__kazzak.html":[6,0,425],
+"dd/d17/classboss__doomlord__kazzak.html#a460a32ce37aae852b48f1990406da9a4":[6,0,425,2],
 "dd/d17/classboss__doomlord__kazzak.html#ae4e4844d584ba71ebd3d8a341ba91462":[6,0,425,1],
 "dd/d17/pet__hunter_8cpp.html":[7,0,0,0,1,3,8,2],
 "dd/d17/pet__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e":[7,0,0,0,1,3,8,2,1],
@@ -90,10 +97,10 @@ var NAVTREEINDEX321 =
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,55,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,67,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,55,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
 "dd/d1b/classhonor__commandscript.html":[6,0,1269],
 "dd/d1b/classhonor__commandscript.html#a03caa77b436e3d513e1325badf05df33":[6,0,1269,2],
 "dd/d1b/classhonor__commandscript.html#a11831a3ea577f3f1e06fea3d0dbc0147":[6,0,1269,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d26/SocialMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
 "dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,11,9,11],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,9,11],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,31,9,11,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,11,9,11,2],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,31,9,11,4],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[6,0,11,9,11,4],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,11,9,11,1],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[5,0,31,9,11,1],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#abc64acf498b3dc70b9afd23c399e3db8":[6,0,11,9,11,0]
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,9,11]
 };

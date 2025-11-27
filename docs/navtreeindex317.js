@@ -1,5 +1,12 @@
 var NAVTREEINDEX317 =
 {
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a576afb99f0907bf50b3c043106144a98":[7,0,0,0,1,3,7,0,0,2,2,2],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c5a151a48a7f026b26578216951756a":[7,0,0,0,1,3,7,0,0,2,2,1],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac025c81ee539177e76f15b9738640420":[7,0,0,0,1,3,7,0,0,2,2,0],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,0,2,3],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc3be82e9a8514a5089e65196f551b9":[7,0,0,0,1,3,7,0,0,2,3,0],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca48d446990e90d957ef0ee5d0da098c8f":[7,0,0,0,1,3,7,0,0,2,3,2],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca1de3d76595bb0c4e35568eaa92ec":[7,0,0,0,1,3,7,0,0,2,3,3],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dff932661b864d3df21370e3cdee19f":[7,0,0,0,1,3,7,0,0,2,3,1],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e3377c92da71e4bb87a6621c82e94fd":[7,0,0,0,1,3,7,0,0,2,3,6],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298cab151d62dbb3f9b3af29b5b025c27fbc7":[7,0,0,0,1,3,7,0,0,2,3,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX317 =
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ad93d6be40d07925d1eb485f864c72ace":[6,0,1322,0,14],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ae5a87cc8bfc153aee0f96978f39a1932":[6,0,1322,0,15],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#af4cca13b9039d7c88e7fad1e8f23eb3a":[6,0,1322,0,18],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html":[6,0,1691],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html#a71d919af98464d6d63f948507f3ff08c":[6,0,1691,1],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d":[6,0,1691,2],
-"dc/de6/classnpc__your__inner__turmoil.html":[6,0,2295],
-"dc/de6/classnpc__your__inner__turmoil.html#a29c8f76b072e891face1225770688ca6":[6,0,2295,2],
-"dc/de6/classnpc__your__inner__turmoil.html#a72856ef469bb8f6ff4a89a16159479af":[6,0,2295,1],
-"dc/de6/structboss__skarvald__the__constructor.html":[6,0,707],
-"dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[6,0,707,7]
+"dc/de5/classnpc__commander__eligor__dawnbringer.html":[6,0,1691]
 };

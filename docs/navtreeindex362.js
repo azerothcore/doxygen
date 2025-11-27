@@ -1,5 +1,12 @@
 var NAVTREEINDEX362 =
 {
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a20389ff46293557848336b83adf428e8":[7,0,0,0,1,3,2,16,9,2,1],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39745454a6136849ea1e00a184f90661":[7,0,0,0,1,3,2,16,9,2,3],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,9,2,2],
+"de/d44/boss__renataki_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,9,2,0],
+"de/d44/structDBCDatabaseLoader.html":[6,0,958],
+"de/d44/structDBCDatabaseLoader.html#a1b116dca8b01e0462a2e6c08245a49a3":[6,0,958,3],
+"de/d44/structDBCDatabaseLoader.html#a2efbbd3799e5f72fecaeaf9365579482":[6,0,958,0],
 "de/d44/structDBCDatabaseLoader.html#a46f7d5670840892f7a8714ce0b6cde13":[6,0,958,4],
 "de/d44/structDBCDatabaseLoader.html#a52b5b86f0efb8ad0716bc0171a3aa740":[6,0,958,9],
 "de/d44/structDBCDatabaseLoader.html#a6721538ebbcfe020fb195d44b3bdbd11":[6,0,958,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX362 =
 "de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da0fb465f4809634bc00b953b7d23edc41":[7,0,0,0,1,2,15,1,11,1],
 "de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da108fcafd94fd7f9e8e272a1018a1fa6b":[7,0,0,0,1,2,15,1,11,5],
 "de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da411fdeb6f56e70206f19f21b160ad54f":[7,0,0,0,1,2,15,1,11,3],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da475d6afcb433cc04346fa4e44c2cc69e":[7,0,0,0,1,2,15,1,11,9],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da49c87af1548fab0d73904584928743d4":[7,0,0,0,1,2,15,1,11,2],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da62288c32a32b3bc15c18231b5db76edc":[7,0,0,0,1,2,15,1,11,4],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934daa9c4cd0004bafac7ba6517116ba62e40":[7,0,0,0,1,2,15,1,11,7],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934dad3581eb39f585b9bf3e1fa5dfeaf2c91":[7,0,0,0,1,2,15,1,11,6],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934dad8270e4f972b44030fc82de6d6d7c685":[7,0,0,0,1,2,15,1,11,11],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934dadf18f20df955c492523edce427d81c22":[7,0,0,0,1,2,15,1,11,10],
-"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934daecc07574ef81bb491ac68098777d7dc7":[7,0,0,0,1,2,15,1,11,8]
+"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934da475d6afcb433cc04346fa4e44c2cc69e":[7,0,0,0,1,2,15,1,11,9]
 };

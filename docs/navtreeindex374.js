@@ -1,5 +1,12 @@
 var NAVTREEINDEX374 =
 {
+"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1":[7,0,0,0,1,2,22,21,0,3],
+"de/dbe/classspell__tsh__shadow__bolt.html":[6,0,3936],
+"de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[6,0,3936,0],
+"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[6,0,3936,2],
+"de/dbe/classspell__tsh__shadow__bolt.html#aab0cdddfc5c8188ff246a04035b8b552":[6,0,3936,1],
+"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html":[6,0,1424],
+"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[6,0,1424,0],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#aeaa47302a91b5882afae3950ffc460cc":[6,0,1424,1],
 "de/dbf/structboss__maiden__of__virtue.html":[6,0,608],
 "de/dbf/structboss__maiden__of__virtue.html#a32dd66a297d11f5ffac1841bae15727a":[6,0,608,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX374 =
 "de/dcf/classFormationMgr.html#a871fec234a94e4adae07315a008acec3":[6,0,1063,3],
 "de/dcf/classFormationMgr.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0":[6,0,1063,1],
 "de/dcf/classFormationMgr.html#ac11a3dfbe6a4f7df01d966f14b0aecd9":[6,0,1063,6],
-"de/dcf/classFormationMgr.html#ade1aa22473c112aed65d537929b07908":[6,0,1063,0],
-"de/dcf/classFormationMgr.html#aef758bdbc8f93c8981aedd51d7e10a07":[6,0,1063,2],
-"de/dcf/classFormationMgr.html#af0ecde62fc5c4a3a2b3be16c58f51fde":[6,0,1063,4],
-"de/dcf/classTransportBase.html":[6,0,4196],
-"de/dcf/classTransportBase.html#a328fbc464c56eca89138380182a0108c":[6,0,4196,5],
-"de/dcf/classTransportBase.html#a6dba8e37217dae4e5da8f52780e63f70":[6,0,4196,0],
-"de/dcf/classTransportBase.html#a7cb7586a6935ca4e08aa3e658982abec":[6,0,4196,4],
-"de/dcf/classTransportBase.html#a81dca3435a1a1666a90acd8e154e3287":[6,0,4196,1]
+"de/dcf/classFormationMgr.html#ade1aa22473c112aed65d537929b07908":[6,0,1063,0]
 };

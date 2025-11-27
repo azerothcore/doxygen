@@ -1,5 +1,6 @@
 var NAVTREEINDEX227 =
 {
+"d8/de1/structCalendarInvite.html#ab100ae1e5142fb6d542b0bb7f695501c":[6,0,835,1],
 "d8/de1/structCalendarInvite.html#ab61ee5b537d41a60cac7457acc9fab39":[6,0,835,21],
 "d8/de1/structCalendarInvite.html#abc265fe3f25e9fa2a6ae9094f427c0b0":[6,0,835,10],
 "d8/de1/structCalendarInvite.html#abc834aa4f0c75fc49320e110a2f5cb2b":[6,0,835,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX227 =
 "d8/df4/structnpc__sunblade__arch__mage.html":[6,0,2143],
 "d8/df4/structnpc__sunblade__arch__mage.html#a0d0349ea507b1f8431014c55eef5ce0e":[6,0,2143,2],
 "d8/df4/structnpc__sunblade__arch__mage.html#a25cc45033c55f1099b50eab4b4f497ee":[6,0,2143,0],
-"d8/df4/structnpc__sunblade__arch__mage.html#a3289fbad5f987a3d5d9986a31a1c442f":[6,0,2143,3],
-"d8/df4/structnpc__sunblade__arch__mage.html#aa6680f06651316996868907b1d28126c":[6,0,2143,4]
+"d8/df4/structnpc__sunblade__arch__mage.html#a3289fbad5f987a3d5d9986a31a1c442f":[6,0,2143,3]
 };

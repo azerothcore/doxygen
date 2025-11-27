@@ -1,5 +1,12 @@
 var NAVTREEINDEX314 =
 {
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea906920afb87b1d09cadbd93eefc1c0a8":[7,0,0,0,1,3,4,1,0,1,8,2],
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ead5b3e1b17cb1a42c914158702338f49b":[7,0,0,0,1,3,4,1,0,1,8,0],
+"dc/db3/boss__archimonde_8cpp.html#ae72869d214b7d3a071fb6094ed4948d5":[7,0,0,0,1,3,4,1,0,1,13],
+"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,1,0,1,6],
+"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,4,1,0,1,6,0],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html":[7,0,0,0,1,3,7,2,2,1],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dd":[7,0,0,0,1,3,7,2,2,1,1],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,2,2,1,1,3],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,2,2,1,1,7],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd":[7,0,0,0,1,3,7,2,2,1,1,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dc3/boss__ghazan_8cpp.html":[7,0,0,0,1,3,7,2,3,0],
 "dc/dc3/boss__ghazan_8cpp.html#a6b7605f750dab7f676edcd83f54c249a":[7,0,0,0,1,3,7,2,3,0,3],
 "dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954":[7,0,0,0,1,3,7,2,3,0,2],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,2,3,0,2,3],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa":[7,0,0,0,1,3,7,2,3,0,2,4],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,7,2,3,0,2,2],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c":[7,0,0,0,1,3,7,2,3,0,2,0],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806":[7,0,0,0,1,3,7,2,3,0,2,1],
-"dc/dc3/classspell__dru__dash__aura.html":[6,0,2817],
-"dc/dc3/classspell__dru__dash__aura.html#a4090baaee0e4330d3776b5774c5c923a":[6,0,2817,1],
-"dc/dc3/classspell__dru__dash__aura.html#a4db48f3a549a04caf746a9459b1c5640":[6,0,2817,2]
+"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,2,3,0,2,3]
 };

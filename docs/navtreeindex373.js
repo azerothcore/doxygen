@@ -1,5 +1,12 @@
 var NAVTREEINDEX373 =
 {
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298cab103749874f6e459d6ca23f4bbdcc93c":[7,0,0,0,1,3,2,16,5,8,6],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826":[7,0,0,0,1,3,2,16,5,8,10],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf085b850f91916289be26cc58e709f5":[7,0,0,0,1,3,2,16,5,8,15],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c":[7,0,0,0,1,3,2,16,5,8,2],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298caef4066b9da02b2ef91f6470521c78c68":[7,0,0,0,1,3,2,16,5,8,18],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298caf315f19cb8360fc7ddd7799ed823ab81":[7,0,0,0,1,3,2,16,5,8,8],
+"de/dac/boss__jeklik_8cpp.html#ab70bfc3e35342b240112821c6713855a":[7,0,0,0,1,3,2,16,5,9],
 "de/dac/boss__jeklik_8cpp.html#ab9a156db6df7d170d8ac91aabec99b87":[7,0,0,0,1,3,2,16,5,11],
 "de/dac/boss__jeklik_8cpp.html#ace33212a02d9eb32a7fb114e94a6bae8":[7,0,0,0,1,3,2,16,5,4],
 "de/dac/boss__jeklik_8cpp.html#ace33212a02d9eb32a7fb114e94a6bae8a442f7cb62d0db88501e0eee95acd1701":[7,0,0,0,1,3,2,16,5,4,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX373 =
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e":[7,0,0,0,1,2,22,21,0,2],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317":[7,0,0,0,1,2,22,21,0,4],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47":[7,0,0,0,1,2,22,21,0,5],
-"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898":[7,0,0,0,1,2,22,21,0,1],
-"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1":[7,0,0,0,1,2,22,21,0,3],
-"de/dbe/classspell__tsh__shadow__bolt.html":[6,0,3936],
-"de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[6,0,3936,0],
-"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[6,0,3936,2],
-"de/dbe/classspell__tsh__shadow__bolt.html#aab0cdddfc5c8188ff246a04035b8b552":[6,0,3936,1],
-"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html":[6,0,1424],
-"de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[6,0,1424,0]
+"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898":[7,0,0,0,1,2,22,21,0,1]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX395 =
 {
+"df/dbd/structnpc__pallid__horror.html#a801e04d47de8d86dcfbfa552de54cd0f":[6,0,2005,5],
+"df/dbd/structnpc__pallid__horror.html#aa9e851cb55238bb4cf6c1e7a9d309c20":[6,0,2005,6],
+"df/dbd/structnpc__pallid__horror.html#ac9c5b8d4274e443f4c74b2b40aa5830f":[6,0,2005,9],
+"df/dbd/structnpc__pallid__horror.html#ae43fa737cdc303d68f34ac2fbb356814":[6,0,2005,1],
+"df/dbd/structnpc__pallid__horror.html#afc2625ef0ddae00fd14d3dbf7952b0cf":[6,0,2005,7],
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html":[6,0,2217,0],
+"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a2f7d5b821ea4bf80bd01d469859f6fb6":[6,0,2217,0,3],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a5099c03b3ab1eb437ea11a0c4e8650f1":[6,0,2217,0,5],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a6384437fff9349df0cfa5053b37313ea":[6,0,2217,0,2],
 "df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a71d24eb5cea764011249b8ff78c3ed6c":[6,0,2217,0,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX395 =
 "df/dd3/MovementTypedefs_8h.html#a5149db3325f467381006d8d5df24a2a8":[7,0,0,0,1,2,31,1,2,7],
 "df/dd3/MovementTypedefs_8h.html#a87260372150c8322b45e75bfaa445f14":[7,0,0,0,1,2,31,1,2,2],
 "df/dd3/MovementTypedefs_8h.html#adebd21803156b193f9b8a733b6cbd3c7":[7,0,0,0,1,2,31,1,2,1],
-"df/dd3/MovementTypedefs_8h.html#aefc83834e7badc5f8450322da9567bd6":[7,0,0,0,1,2,31,1,2,4],
-"df/dd3/classEmblemInfo.html":[6,0,1012],
-"df/dd3/classEmblemInfo.html#a08191c3c9cc48bde61ef0de81be34c90":[6,0,1012,13],
-"df/dd3/classEmblemInfo.html#a0bc92e459910ab6aad3ac35c8b613a5f":[6,0,1012,9],
-"df/dd3/classEmblemInfo.html#a0e6d684542535d537bdeba4104b7a18d":[6,0,1012,5],
-"df/dd3/classEmblemInfo.html#a15108f3a2a93ebbc01111672dd238d63":[6,0,1012,4],
-"df/dd3/classEmblemInfo.html#a17de371e72a2b29a7f249dbe912636bc":[6,0,1012,6],
-"df/dd3/classEmblemInfo.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf":[6,0,1012,10]
+"df/dd3/MovementTypedefs_8h.html#aefc83834e7badc5f8450322da9567bd6":[7,0,0,0,1,2,31,1,2,4]
 };

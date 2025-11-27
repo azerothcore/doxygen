@@ -1,5 +1,6 @@
 var NAVTREEINDEX259 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47e1867f1bf298627e9bc34658dd44c5":[7,0,0,0,1,3,5,6,10,77,30],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4c9cb7c1dfc01b36910f28006b71d606":[7,0,0,0,1,3,5,6,10,77,5],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a614e8967907ac08fdbeea584db1647e4":[7,0,0,0,1,3,5,6,10,77,12],
 "da/d78/boss__the__lich__king_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a66bb5e8fba0c2b7472476b010f6aa3a2":[7,0,0,0,1,3,5,6,10,77,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX259 =
 "da/d7e/classMapGrid.html#ab22e3c6e9432cd589cb6665169036ba8":[6,0,1487,13],
 "da/d7e/classMapGrid.html#ab4cc593ffc908ac1053aeebaa1b24b9f":[6,0,1487,18],
 "da/d7e/classMapGrid.html#abe1310870b050c893ffa3821e59bcce4":[6,0,1487,15],
-"da/d7e/classMapGrid.html#ac0ac36a4c55b5a1dc7fd9963a63f325b":[6,0,1487,6],
-"da/d7e/classMapGrid.html#addd3c1c8a2093380c305d0d22daeb12a":[6,0,1487,20]
+"da/d7e/classMapGrid.html#ac0ac36a4c55b5a1dc7fd9963a63f325b":[6,0,1487,6]
 };

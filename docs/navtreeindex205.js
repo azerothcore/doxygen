@@ -1,5 +1,6 @@
 var NAVTREEINDEX205 =
 {
+"d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#a50b6bc43eaeee0ec760c02ac1685454e":[6,0,3619,1],
 "d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#a5209de3456c374010502a94f67ff4544":[6,0,3619,3],
 "d7/dcd/classspell__q10612__10613__the__fel__and__the__furious.html#ad018d907a85ee31d3194823a4c02a1a5":[6,0,3619,0],
 "d7/dcd/classspell__warr__glyph__of__sunder__armor.html":[6,0,4019],
@@ -248,6 +249,5 @@ var NAVTREEINDEX205 =
 "d7/de0/classspell__gen__absorb0__hitlimit1.html#a3a65787dd5b7c1c796b98ce79f180d4d":[6,0,2902,2],
 "d7/de0/classspell__gen__absorb0__hitlimit1.html#a5985a97749e318e3ccba4c96724d8704":[6,0,2902,4],
 "d7/de0/classspell__gen__absorb0__hitlimit1.html#ab6bea7d62539841fa21fa8f3c8122707":[6,0,2902,3],
-"d7/de0/classspell__gen__absorb0__hitlimit1.html#aecfcbafe098adddba0a73965c447558c":[6,0,2902,0],
-"d7/de0/classspell__the__lich__king__restore__soul.html":[6,0,3906]
+"d7/de0/classspell__gen__absorb0__hitlimit1.html#aecfcbafe098adddba0a73965c447558c":[6,0,2902,0]
 };

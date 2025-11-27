@@ -1,5 +1,6 @@
 var NAVTREEINDEX272 =
 {
+"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9aa9c001a4541da0eaf140717036011d":[7,0,0,0,1,3,2,1,1,2,3,1],
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab28d9ce795ccb359d797710d2b95bc7b":[7,0,0,0,1,3,2,1,1,2,3,0],
 "da/df2/classspell__warl__ritual__of__summoning.html":[6,0,4000],
 "da/df2/classspell__warl__ritual__of__summoning.html#a1fb9a924ddba358d6d67943c5b2ffa24":[6,0,4000,1],
@@ -105,14 +106,14 @@ var NAVTREEINDEX272 =
 "da/df5/classAcore_1_1AsyncProcessResult.html":[6,0,0,33],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[6,0,0,33,0],
 "da/df5/classAcore_1_1AsyncProcessResult.html#a16f0ce13c7401ce07e91b349c91365e0":[5,0,1,45,0],
-"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[6,0,0,33,1],
-"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[6,0,0,33,2],
+"da/df5/classAcore_1_1AsyncProcessResult.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8":[5,0,1,45,1],
 "da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[5,0,1,45,2],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,31,10,8],
+"da/df5/classAcore_1_1AsyncProcessResult.html#af3951c38d2b368c15c0ac7d415b96ebd":[6,0,0,33,2],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[6,0,11,10,8],
-"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,31,10,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html":[5,0,31,10,8],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[6,0,11,10,8,1],
+"da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#a5cc9bb57bce7dc7f24243fdc63e17870":[5,0,31,10,8,1],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[5,0,31,10,8,0],
 "da/df6/classWorldPackets_1_1Pet_1_1RequestPetInfo.html#ae0861d1fb77fe39bb48c26505e36ed2b":[6,0,11,10,8,0],
 "da/df6/classspell__warr__mocking__blow.html":[6,0,4027],
@@ -248,6 +249,5 @@ var NAVTREEINDEX272 =
 "da/dff/classspell__blood__council__summon__shadow__resonance.html#aceb3da4aec68cb44bcbee36f599afd62":[6,0,2658,1],
 "da/dff/classspell__q2203__thaumaturgy__channel.html":[6,0,3708],
 "da/dff/classspell__q2203__thaumaturgy__channel.html#a5fc89b09fb226d0d9315081d64f4103e":[6,0,3708,1],
-"da/dff/classspell__q2203__thaumaturgy__channel.html#a9347200565cb858cf0cc9cdb897fe1dc":[6,0,3708,0],
-"da/dff/classspell__q2203__thaumaturgy__channel.html#a9378252b6711cc0bec3e63efce026495":[6,0,3708,3]
+"da/dff/classspell__q2203__thaumaturgy__channel.html#a9347200565cb858cf0cc9cdb897fe1dc":[6,0,3708,0]
 };

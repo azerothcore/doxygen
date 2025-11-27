@@ -1,5 +1,12 @@
 var NAVTREEINDEX376 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca09e45a23051683bd46e7723f524ecd82":[7,0,0,0,1,3,5,6,9,41,1],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ab956e60d6e548b21f81fcc09a9b429":[7,0,0,0,1,3,5,6,9,41,22],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,6,9,41,5],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bb7f9a430179692fe95ffeea097e13c":[7,0,0,0,1,3,5,6,9,41,4],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d42626d23878c805befd09cd0c7a8b5":[7,0,0,0,1,3,5,6,9,41,21],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca2036558ddc62685dd0de184d4fb40c8f":[7,0,0,0,1,3,5,6,9,41,27],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d2702c1c121e1139359d986fbab12a":[7,0,0,0,1,3,5,6,9,41,29],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca298078eb33598580f0178446c4ba3f89":[7,0,0,0,1,3,5,6,9,41,9],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca34fd622a327eb24ea9723522639b5fae":[7,0,0,0,1,3,5,6,9,41,11],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,6,9,41,26],
@@ -242,12 +249,5 @@ var NAVTREEINDEX376 =
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#af6263dbfa9e4cbc6f7812a10894f3dd2":[6,0,2102,0,15],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#afdcbd6c79fb31d888c5b903deb04ad9d":[6,0,2102,0,9],
 "de/dec/PointMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,13],
-"de/dee/classConditionScript.html":[6,0,892],
-"de/dee/classConditionScript.html#a2d8a4e71f20c290428c3a86cedfcaab7":[6,0,892,2],
-"de/dee/classConditionScript.html#a546130ee7ed33c7763115cb0d1506a1b":[6,0,892,0],
-"de/dee/classConditionScript.html#ac4f8325e3fa1e11437056818a0267342":[6,0,892,1],
-"de/dee/classcast__commandscript.html":[6,0,838],
-"de/dee/classcast__commandscript.html#a14da4e4674b065c8e8f3d1946a037bda":[6,0,838,2],
-"de/dee/classcast__commandscript.html#a156ca81fba7155205dae106aa4c221d6":[6,0,838,7],
-"de/dee/classcast__commandscript.html#a244b2d11a07fdcbb72f3207ab1e46ea5":[6,0,838,1]
+"de/dee/classConditionScript.html":[6,0,892]
 };

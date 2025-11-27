@@ -1,5 +1,12 @@
 var NAVTREEINDEX393 =
 {
+"df/da7/classBattleground.html#a3bd97b3f9648bb9dbf1aa37dc7baeca6":[6,0,314,238],
+"df/da7/classBattleground.html#a3bfa820dd5ca7c2a3d0f6ac6ee9adb1f":[6,0,314,239],
+"df/da7/classBattleground.html#a3cf144c23cb91a7b7da6c94c47da60de":[6,0,314,225],
+"df/da7/classBattleground.html#a3d7ecd40b66cb331a19a40813406086a":[6,0,314,124],
+"df/da7/classBattleground.html#a3e7c5522e47f34a28113da603895112d":[6,0,314,89],
+"df/da7/classBattleground.html#a3eff4dfc9b7319b449ffa723c74217b7":[6,0,314,62],
+"df/da7/classBattleground.html#a3fb91eb5ef43f227d97b3056b51fa17b":[6,0,314,98],
 "df/da7/classBattleground.html#a3fd0daa95d91c0beb3509a183b2cf099":[6,0,314,42],
 "df/da7/classBattleground.html#a3fde91a7c1a706154947171b7197ba23":[6,0,314,173],
 "df/da7/classBattleground.html#a42e45f62e648d1eb34736bda3ffe7b35":[6,0,314,72],
@@ -242,12 +249,5 @@ var NAVTREEINDEX393 =
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,1,0,6,0],
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,9,1,0,6,1],
 "df/dab/boss__krystallus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab9eb8f4d4045b8d34928378cb15f3d4a":[7,0,0,0,1,3,5,9,1,0,6,3],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[7,0,0,0,1,3,5,9,1,0,5],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a":[7,0,0,0,1,3,5,9,1,0,5,3],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872":[7,0,0,0,1,3,5,9,1,0,5,1],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[7,0,0,0,1,3,5,9,1,0,5,6],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[7,0,0,0,1,3,5,9,1,0,5,4],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac":[7,0,0,0,1,3,5,9,1,0,5,5],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ad483afa5a0a6d798cf66d74f164639f0":[7,0,0,0,1,3,5,9,1,0,5,2],
-"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af5c6ff57b4f8cef772f5da1de76dbde8":[7,0,0,0,1,3,5,9,1,0,5,0]
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[7,0,0,0,1,3,5,9,1,0,5]
 };

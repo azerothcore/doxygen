@@ -247,7 +247,7 @@ var NAVTREEINDEX69 =
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#aabe244008103ff317e3fc1e26b04115a":[6,0,3588,1],
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#ae9939f2795b8ba428277c7d658af715c":[6,0,3588,0],
 "d2/da5/wdtfile_8h.html":[7,0,0,0,3,4,15],
-"d2/da8/classVMAP_1_1GroupModel.html":[6,0,9,4],
 "d2/da8/classVMAP_1_1GroupModel.html":[5,0,28,4],
+"d2/da8/classVMAP_1_1GroupModel.html":[6,0,9,4],
 "d2/da8/classVMAP_1_1GroupModel.html#a04394355a9e29ac711f1eac8e1b8f598":[5,0,28,4,1]
 };

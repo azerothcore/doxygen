@@ -1,5 +1,6 @@
 var NAVTREEINDEX274 =
 {
+"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5":[7,0,0,0,1,2,31,7,6,1],
 "db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0":[7,0,0,0,1,2,31,7,6,3],
 "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5":[7,0,0,0,1,2,31,7,8],
 "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e":[7,0,0,0,1,2,31,7,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX274 =
 "db/d1b/SkillExtraItems_8cpp.html":[7,0,0,0,1,2,40,2],
 "db/d1b/SkillExtraItems_8cpp.html#a121df170a82be5ab5b05999a6be27b69":[7,0,0,0,1,2,40,2,7],
 "db/d1b/SkillExtraItems_8cpp.html#a3244d04018405bafe21acc8bc96cc743":[7,0,0,0,1,2,40,2,6],
-"db/d1b/SkillExtraItems_8cpp.html#a49687e255d65fa15dac5e6a428c5739d":[7,0,0,0,1,2,40,2,4],
-"db/d1b/SkillExtraItems_8cpp.html#a818c557864790091814604b6d2175e52":[7,0,0,0,1,2,40,2,5]
+"db/d1b/SkillExtraItems_8cpp.html#a49687e255d65fa15dac5e6a428c5739d":[7,0,0,0,1,2,40,2,4]
 };

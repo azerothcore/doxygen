@@ -1,5 +1,12 @@
 var NAVTREEINDEX336 =
 {
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786":[7,0,0,0,1,3,5,9,2,10,22,3],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6791d75c6ac0d022d5c7ef927a9757af":[7,0,0,0,1,3,5,9,2,10,22,8],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,5,9,2,10,22,1],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[7,0,0,0,1,3,5,9,2,10,22,0],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa20fd32a182cc6cee137043c79cb3c95":[7,0,0,0,1,3,5,9,2,10,22,5],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa2bcd5f9e50946825716996f6ff8199f":[7,0,0,0,1,3,5,9,2,10,22,16],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa756eb46c3d992396d03a7aca5a28665":[7,0,0,0,1,3,5,9,2,10,22,12],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cad3b2f68629496447b4b592d7d0c14aaf":[7,0,0,0,1,3,5,9,2,10,22,18],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,9,2,10,22,7],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cae6acaed58805e1c6cb7a249d23756de0":[7,0,0,0,1,3,5,9,2,10,22,11],
@@ -242,12 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6":[6,0,867,21],
 "dd/dcb/classChaseMovementGenerator.html#aec3c7041a4e18d8e6baf6bef984077c9":[6,0,867,12],
 "dd/dcb/classChaseMovementGenerator.html#af9d77d78ac8771e18fbaa463ce6ab29b":[6,0,867,2],
-"dd/dcb/instance__the__slave__pens_8cpp.html":[7,0,0,0,1,3,7,2,1,4],
-"dd/dcb/instance__the__slave__pens_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,1,4,3],
-"dd/dcb/instance__the__slave__pens_8cpp.html#a41772e574e8da2d2009384c1f312ed92":[7,0,0,0,1,3,7,2,1,4,2],
-"dd/dcb/zulfarrak_8h.html":[7,0,0,0,1,3,4,11,2],
-"dd/dcb/zulfarrak_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,11,2,0],
-"dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24":[7,0,0,0,1,3,4,11,2,4],
-"dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167":[7,0,0,0,1,3,4,11,2,4,1],
-"dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3":[7,0,0,0,1,3,4,11,2,4,0]
+"dd/dcb/instance__the__slave__pens_8cpp.html":[7,0,0,0,1,3,7,2,1,4]
 };

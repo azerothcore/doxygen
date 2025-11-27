@@ -1,5 +1,12 @@
 var NAVTREEINDEX305 =
 {
+"dc/d33/structTaxiNodesEntry.html#a9380befd45cab3104003b2487464bd71":[6,0,4157,5],
+"dc/d33/structTaxiNodesEntry.html#ab59ab7e8b302ac8858bfd67bc10d803f":[6,0,4157,2],
+"dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[6,0,4157,3],
+"dc/d34/boss__rage__winterchill_8cpp.html":[7,0,0,0,1,3,4,1,0,4],
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,0,4,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4fedbd4a2bb6bf302c29074944c40a14":[7,0,0,0,1,3,4,1,0,4,1,0],
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a51038fe2b69e5fa3518ac526719344b6":[7,0,0,0,1,3,4,1,0,4,1,1],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a91adf90069f0b0a515897fbdc91e20b4":[7,0,0,0,1,3,4,1,0,4,1,2],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3f7bd026726a42823812843a495aae95":[7,0,0,0,1,3,4,1,0,4,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,4,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d41/boss__archavon_8cpp.html#ad1aff64c18cd0f2107efa6558feccc87":[7,0,0,0,1,3,5,11,0,5],
 "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,11,0,4],
 "dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,11,0,4,4],
-"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a99e900d1f78c1ea6848cffb8217744df":[7,0,0,0,1,3,5,11,0,4,0],
-"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,5,11,0,4,2],
-"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac3022b3440e7efa171e76be3d6fc7ba6":[7,0,0,0,1,3,5,11,0,4,3],
-"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aec0cacf230c40894b2d6e9f94c3f7022":[7,0,0,0,1,3,5,11,0,4,1],
-"dc/d42/IntermediateValues_8h.html":[7,0,0,0,3,2,3],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html":[6,0,1298,0],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1":[6,0,1298,0,6],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a095202af8915f8a1d8888c045e18d6c4":[6,0,1298,0,4]
+"dc/d41/boss__archavon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a99e900d1f78c1ea6848cffb8217744df":[7,0,0,0,1,3,5,11,0,4,0]
 };

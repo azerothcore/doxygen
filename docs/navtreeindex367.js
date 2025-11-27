@@ -1,5 +1,12 @@
 var NAVTREEINDEX367 =
 {
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html":[6,0,1649,0],
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a0010c4befd13ec6beada0de1607f3f7a":[6,0,1649,0,2],
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a":[6,0,1649,0,1],
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#aab1b04989d5e3fc289f00bc121df193d":[6,0,1649,0,3],
+"de/d81/structnpc__blazing__skeleton_1_1npc__blazing__skeletonAI.html#ad4f997a7a4cc0fa96594da35434fd921":[6,0,1649,0,0],
+"de/d82/structboss__brutallus.html":[6,0,407],
+"de/d82/structboss__brutallus.html#a04ff0c07c578c3b92cf45d1ed27fb883":[6,0,407,3],
 "de/d82/structboss__brutallus.html#a05edf7010f4e7364399bc81582502219":[6,0,407,1],
 "de/d82/structboss__brutallus.html#a20ad64739072e39e7ff3132c6f637af7":[6,0,407,5],
 "de/d82/structboss__brutallus.html#a48ae6589613f2ac90a499b9b6ae07d01":[6,0,407,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX367 =
 "de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831":[7,0,0,0,1,3,6,14,7,2],
 "de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0":[7,0,0,0,1,3,6,14,7,1],
 "de/d90/OutdoorPvPZM_8h.html#a5eae372f5bc43c36af04c8833002ca79":[7,0,0,0,1,3,6,14,13],
-"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1":[7,0,0,0,1,3,6,14,5],
-"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80":[7,0,0,0,1,3,6,14,5,0],
-"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2":[7,0,0,0,1,3,6,14,5,1],
-"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3":[7,0,0,0,1,3,6,14,5,2],
-"de/d90/OutdoorPvPZM_8h.html#a986fade5573769277e5c9e99dc243d78":[7,0,0,0,1,3,6,14,12],
-"de/d90/OutdoorPvPZM_8h.html#a9bf0e9dee2e0ae4731dd302373e18542":[7,0,0,0,1,3,6,14,14],
-"de/d90/OutdoorPvPZM_8h.html#aa18435dfdf68c3f5ac5218ce2e4909d0":[7,0,0,0,1,3,6,14,17],
-"de/d90/OutdoorPvPZM_8h.html#aa6fc4a297b329d62073dd503d4f647c5":[7,0,0,0,1,3,6,14,8]
+"de/d90/OutdoorPvPZM_8h.html#a8493feec67db9c938c31465f24f60fe1":[7,0,0,0,1,3,6,14,5]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX334 =
 {
+"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7ef7daa23932b450c80289511c0d3d9a":[7,0,0,0,1,3,5,12,1,6,3],
+"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a920803a7ad734282762d93767b701526":[7,0,0,0,1,3,5,12,1,6,5],
+"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae95913d87ac89138e5fe9a669e796aaa":[7,0,0,0,1,3,5,12,1,6,4],
+"dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0":[7,0,0,0,1,3,5,12,1,5],
+"dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0a7fb48d8d57a0e3c88045fdedccd2fdb8":[7,0,0,0,1,3,5,12,1,5,1],
+"dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0a8367267c337cb88f2698c8af675f8f14":[7,0,0,0,1,3,5,12,1,5,0],
+"dd/dae/boss__erekem_8cpp.html#aef61fe43fa43b24a2bc5f9cccc47e8c0aab89770a488ed2adf3a91f6045c6b7f7":[7,0,0,0,1,3,5,12,1,5,2],
 "dd/db0/classnpc__freed__protodrake.html":[6,0,1788],
 "dd/db0/classnpc__freed__protodrake.html#a56e33e186800efa3fb86ca6a614e3b0b":[6,0,1788,1],
 "dd/db0/classnpc__freed__protodrake.html#a9680bf65cb97327396f58c297df1c8f5":[6,0,1788,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX334 =
 "dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,628,10],
 "dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[6,0,628,1],
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,628,7],
-"dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,628,12],
-"dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,628,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0]
+"dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,628,12]
 };

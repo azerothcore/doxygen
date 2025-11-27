@@ -1,5 +1,12 @@
 var NAVTREEINDEX385 =
 {
+"df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d":[5,0,16,4],
+"df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117":[5,0,16,5],
+"df/d3e/structBG__SA__RoundScore.html":[6,0,353],
+"df/d3e/structBG__SA__RoundScore.html#a4270f34fef655cb9ff9998b36055c3ec":[6,0,353,0],
+"df/d3e/structBG__SA__RoundScore.html#a728a3e4efbae3be9224c70f2d70000cf":[6,0,353,1],
+"df/d3e/structEquipmentInfo.html":[6,0,1025],
+"df/d3e/structEquipmentInfo.html#aa941274a50c076189d0957120ca25e5e":[6,0,1025,0],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html":[6,0,1316,0],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a3a287b97db58c3489815f20ee0d37977":[6,0,1316,0,2],
 "df/d3e/structinstance__maraudon_1_1instance__maraudon__InstanceMapScript.html#a61cb2b2bf09bb997457bc01a41e092e9":[6,0,1316,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX385 =
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#a9990339040b491e108594df755f03a6c":[5,0,1,7,0,17],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[5,0,1,7,0,18],
 "df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa0ca4a111a856da9091a377934f8de93":[5,0,1,7,0,16],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa8156f2996632fd42a2e39b974426995":[5,0,1,7,0,11],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aae3a6cd0fbf426755d93a387882ff767":[5,0,1,7,0,15],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#abe0a588f1c0e66d33c8bc7a7d0a04459":[5,0,1,7,0,21],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#ae0c637d10c728f04dc2468c15c3f8dca":[5,0,1,7,0,20],
-"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#afc9dbd840048c0031231bcdb7b2fcf04":[5,0,1,7,0,13],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html":[6,0,1613,0],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a23c200f2c7b9f5d02bed7af37bc69c33":[6,0,1613,0,2],
-"df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a25bc023e061a0845421a652b571a6e1e":[6,0,1613,0,4]
+"df/d53/namespaceAcore_1_1Hyperlinks_1_1LinkTags.html#aa8156f2996632fd42a2e39b974426995":[5,0,1,7,0,11]
 };

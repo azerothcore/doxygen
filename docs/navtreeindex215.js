@@ -1,5 +1,6 @@
 var NAVTREEINDEX215 =
 {
+"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#ada2e7a5ac1f129572a0689afce49d310":[6,0,673,0,2],
 "d8/d62/structLoot.html":[6,0,1451],
 "d8/d62/structLoot.html#a017e99f9c7037c938dbda548358bb9aa":[6,0,1451,12],
 "d8/d62/structLoot.html#a08df83acd4a8d8591eebb3753e121fc7":[6,0,1451,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d72/classDisableMgr.html#afadb62b96ab43f983f8a8c3077cbe205":[6,0,986,2],
 "d8/d73/ObjectGuid_8cpp.html":[7,0,0,0,1,2,16,5,4],
 "d8/d73/ObjectGuid_8cpp.html#a039758f4b57c94c411a4c3882334ada8":[7,0,0,0,1,2,16,5,4,1],
-"d8/d73/ObjectGuid_8cpp.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,4,3],
-"d8/d73/ObjectGuid_8cpp.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953":[7,0,0,0,1,2,16,5,4,0]
+"d8/d73/ObjectGuid_8cpp.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,4,3]
 };

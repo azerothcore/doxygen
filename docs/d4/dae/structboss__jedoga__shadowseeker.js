@@ -19,7 +19,7 @@ var structboss__jedoga__shadowseeker =
     [ "oocSummons", "d4/dae/structboss__jedoga__shadowseeker.html#a8ab34fcd605e5c15c4dab7fb3f5a3160", null ],
     [ "oocTriggers", "d4/dae/structboss__jedoga__shadowseeker.html#adcec05da7f5feeca36e5e9054fba871f", null ],
     [ "ritualTriggered", "d4/dae/structboss__jedoga__shadowseeker.html#a28837c2f84acf08657cc301e8d382cfc", null ],
-    [ "sacraficeTarget_GUID", "d4/dae/structboss__jedoga__shadowseeker.html#abb1ee99eb8429b0b8d94b75ea41ced9b", null ],
+    [ "sacrificeTargetGUID", "d4/dae/structboss__jedoga__shadowseeker.html#a3b2d17143859cadc1bcbd1f43498286c", null ],
     [ "sayPreachTimer", "d4/dae/structboss__jedoga__shadowseeker.html#ac4e501a54c8da479cede1378db0c953c", null ],
     [ "volunteerWork", "d4/dae/structboss__jedoga__shadowseeker.html#aa0ff8d7556662b8db97aebcf27e0d5e4", null ]
 ];

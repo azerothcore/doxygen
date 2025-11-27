@@ -1,5 +1,12 @@
 var NAVTREEINDEX394 =
 {
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a0003f01b1bddea1320bae3be9a66073a":[7,0,0,0,1,3,5,9,1,0,5,3],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a189b1377f4bef0f36f1261af80438872":[7,0,0,0,1,3,5,9,1,0,5,1],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a24ee62b9bcbd416bcde574bfa07d2e10":[7,0,0,0,1,3,5,9,1,0,5,6],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa71ecc7605e7e8a0fb58635471af6ff2":[7,0,0,0,1,3,5,9,1,0,5,4],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ab0e77cd3477678b7d808e98989bcc2ac":[7,0,0,0,1,3,5,9,1,0,5,5],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2ad483afa5a0a6d798cf66d74f164639f0":[7,0,0,0,1,3,5,9,1,0,5,2],
+"df/dab/boss__krystallus_8cpp.html#abdbd89eacbc02a7997082886574e8ec2af5c6ff57b4f8cef772f5da1de76dbde8":[7,0,0,0,1,3,5,9,1,0,5,0],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84":[7,0,0,0,1,3,5,9,1,0,4],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a0f0428ad90955e9b7bfc3992f60d4d4e":[7,0,0,0,1,3,5,9,1,0,4,6],
 "df/dab/boss__krystallus_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a295161f0049efe83985b3c22ac4af27b":[7,0,0,0,1,3,5,9,1,0,4,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX394 =
 "df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2005,3],
 "df/dbd/structnpc__pallid__horror.html#a6145be6ed4a56ec8f8e923187ceea47c":[6,0,2005,4],
 "df/dbd/structnpc__pallid__horror.html#a700af3062528a6c41f7f0985f1820b36":[6,0,2005,2],
-"df/dbd/structnpc__pallid__horror.html#a701b52b2977017c692368a5d363dd6bd":[6,0,2005,8],
-"df/dbd/structnpc__pallid__horror.html#a801e04d47de8d86dcfbfa552de54cd0f":[6,0,2005,5],
-"df/dbd/structnpc__pallid__horror.html#aa9e851cb55238bb4cf6c1e7a9d309c20":[6,0,2005,6],
-"df/dbd/structnpc__pallid__horror.html#ac9c5b8d4274e443f4c74b2b40aa5830f":[6,0,2005,9],
-"df/dbd/structnpc__pallid__horror.html#ae43fa737cdc303d68f34ac2fbb356814":[6,0,2005,1],
-"df/dbd/structnpc__pallid__horror.html#afc2625ef0ddae00fd14d3dbf7952b0cf":[6,0,2005,7],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html":[6,0,2217,0],
-"df/dbd/structnpc__ulduar__emergency__fire__bot_1_1npc__ulduar__emergency__fire__botAI.html#a2f7d5b821ea4bf80bd01d469859f6fb6":[6,0,2217,0,3]
+"df/dbd/structnpc__pallid__horror.html#a701b52b2977017c692368a5d363dd6bd":[6,0,2005,8]
 };

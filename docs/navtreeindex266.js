@@ -1,5 +1,6 @@
 var NAVTREEINDEX266 =
 {
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#aeddd16cc5e1c58ab13906eb2d4b9612f":[6,0,805,0,0],
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#afee12f6bf5d4ede28fa45c1e7be43a16":[6,0,805,0,14],
 "da/dbf/Player_8h.html":[7,0,0,0,1,2,16,7,5],
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6":[7,0,0,0,1,2,16,7,5,110],
@@ -248,6 +249,5 @@ var NAVTREEINDEX266 =
 "da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cad76e6ac10062f15e697857d39056cbec":[7,0,0,0,1,2,16,7,5,87,1],
 "da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cade633953c0847a2e477be4083dd037bc":[7,0,0,0,1,2,16,7,5,87,0],
 "da/dbf/Player_8h.html#a845b4a4f1fbd851dbce7bb2890187eb8":[7,0,0,0,1,2,16,7,5,69],
-"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9":[7,0,0,0,1,2,16,7,5,93],
-"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9a973db66483b40dab11286f59062d2678":[7,0,0,0,1,2,16,7,5,93,1]
+"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9":[7,0,0,0,1,2,16,7,5,93]
 };
