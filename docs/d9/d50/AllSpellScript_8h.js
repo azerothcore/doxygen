@@ -4,8 +4,6 @@ var AllSpellScript_8h =
     [ "SpellSC", "d9/d50/AllSpellScript_8h.html#a743e879dd1df387001a0db3b0bf31d0e", null ],
     [ "AllSpellHook", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbc", [
       [ "ALLSPELLHOOK_ON_CALC_MAX_DURATION", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca003b0894329b4fa8a3e4ae168f133a97", null ],
-      [ "ALLSPELLHOOK_CAN_MOD_AURA_EFFECT_DAMAGE_DONE", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca35846f96589617d3c47cd0b206b9868c", null ],
-      [ "ALLSPELLHOOK_CAN_MOD_AURA_EFFECT_MOD_DAMAGE_PERCENT_DONE", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca78f4ae4d1496fbba040a026763cc8909", null ],
       [ "ALLSPELLHOOK_ON_SPELL_CHECK_CAST", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca27dc31d1611037bc1a735d2721d14f24", null ],
       [ "ALLSPELLHOOK_CAN_PREPARE", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbca9b56cdc7a082dbc19397db93d100a354", null ],
       [ "ALLSPELLHOOK_CAN_SCALING_EVERYTHING", "d9/d50/AllSpellScript_8h.html#afe0b21412f82a634ffd412b1aca51cbcab8e5a308ec8a0896e88c9214b27cc24a", null ],

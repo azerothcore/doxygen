@@ -8,7 +8,8 @@ var boss__eck_8cpp =
       [ "EVENT_ECK_BITE", "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ]
+      [ "EVENT_ECK_CRAZED_EMOTE", "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ]
     ] ],
     [ "Spells", "db/d52/boss__eck_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_ECK_BERSERK", "db/d52/boss__eck_8cpp.html#a5bd342133be8c2137b831460acc9298ca87936072634d97876cb76730c61c536d", null ],

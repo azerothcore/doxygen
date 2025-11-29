@@ -1,5 +1,6 @@
 var NAVTREEINDEX267 =
 {
+"da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9":[7,0,0,0,1,2,16,7,5,93],
 "da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9a973db66483b40dab11286f59062d2678":[7,0,0,0,1,2,16,7,5,93,1],
 "da/dbf/Player_8h.html#a87724c0f2c6f30f4477a7b391ff477c9aa3f8959351bc74f0fa1f77e1570e9aa2":[7,0,0,0,1,2,16,7,5,93,0],
 "da/dbf/Player_8h.html#a8b548b9b50daac698d7c2900ce310aa4":[7,0,0,0,1,2,16,7,5,33],
@@ -248,6 +249,5 @@ var NAVTREEINDEX267 =
 "da/dc1/classspell__karazhan__overload__aura.html#a267d6df2c08039581fd1c008ffc14b8c":[6,0,3355,0],
 "da/dc1/classspell__karazhan__overload__aura.html#a2681d44b149e9f1d797df4147e20e686":[6,0,3355,2],
 "da/dc1/classspell__karazhan__overload__aura.html#a9a5f11a3024a14911b478cdf59a7abb9":[6,0,3355,3],
-"da/dc1/classspell__karazhan__overload__aura.html#ab75f10a475a4302897cbb90a3adb5b03":[6,0,3355,1],
-"da/dc2/WorldScript_8cpp.html":[7,0,0,0,1,2,38,0,94]
+"da/dc1/classspell__karazhan__overload__aura.html#ab75f10a475a4302897cbb90a3adb5b03":[6,0,3355,1]
 };

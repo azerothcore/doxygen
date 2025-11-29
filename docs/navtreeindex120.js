@@ -1,6 +1,5 @@
 var NAVTREEINDEX120 =
 {
-"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#ac067b2628f6d2b9e977f96710b7e4348":[7,0,0,0,1,3,7,4,3,3,10],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#acafc38a049cd1f64588bdb4e0e6c28a0":[7,0,0,0,1,3,7,4,3,3,7],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#af15910a401b19f3cc0b637b36cc198a3":[7,0,0,0,1,3,7,4,3,3,9],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html":[6,0,458,0],
@@ -192,11 +191,11 @@ var NAVTREEINDEX120 =
 "d4/d2a/classboss__ignis.html":[6,0,546],
 "d4/d2a/classboss__ignis.html#a15f42f252e4f9472707d5b81f7fdaece":[6,0,546,1],
 "d4/d2a/classboss__ignis.html#ac11ff148e9cbc985875f859268a3de01":[6,0,546,2],
-"d4/d2a/structVendorItemCount.html":[6,0,4250],
-"d4/d2a/structVendorItemCount.html#a0b88ba4ea590abbdc9234ff4a2a335fa":[6,0,4250,3],
-"d4/d2a/structVendorItemCount.html#a225158bbb56d6666ba4918155f08f993":[6,0,4250,2],
-"d4/d2a/structVendorItemCount.html#abdf2d2900f75bb2b8d9727bab8fcbbc3":[6,0,4250,0],
-"d4/d2a/structVendorItemCount.html#aff4c062138792ffb37dadb19b725c87c":[6,0,4250,1],
+"d4/d2a/structVendorItemCount.html":[6,0,4248],
+"d4/d2a/structVendorItemCount.html#a0b88ba4ea590abbdc9234ff4a2a335fa":[6,0,4248,3],
+"d4/d2a/structVendorItemCount.html#a225158bbb56d6666ba4918155f08f993":[6,0,4248,2],
+"d4/d2a/structVendorItemCount.html#abdf2d2900f75bb2b8d9727bab8fcbbc3":[6,0,4248,0],
+"d4/d2a/structVendorItemCount.html#aff4c062138792ffb37dadb19b725c87c":[6,0,4248,1],
 "d4/d2b/GameObject_8cpp.html":[7,0,0,0,1,2,16,3,0],
 "d4/d2b/OutdoorPvPHP_8h.html":[7,0,0,0,1,3,6,6],
 "d4/d2b/OutdoorPvPHP_8h.html#a01aada98c8079ea71a361cba06e10640":[7,0,0,0,1,3,6,6,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX120 =
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3ac10ff9ea929d6a53f3168f96362d13f5":[7,0,0,0,1,3,5,9,0,1,5,1],
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3acbe24a984f278f1c76119e8c3fbbe6a3":[7,0,0,0,1,3,5,9,0,1,5,3],
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3adc9a5908888fbc2ecc5805c4d80cbda1":[7,0,0,0,1,3,5,9,0,1,5,6],
-"d4/d2b/structMySQLType_3_01int64_01_4.html":[6,0,1550]
+"d4/d2b/structMySQLType_3_01int64_01_4.html":[6,0,1550],
+"d4/d2c/classboss__twilight__halion.html":[6,0,752]
 };

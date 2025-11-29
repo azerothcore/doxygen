@@ -1,5 +1,14 @@
 var NAVTREEINDEX202 =
 {
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea0eaf5082b275910be96f6c24dee43a60":[6,0,1478,6,6],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea3a9c23ef7c58735aec28042053a998f3":[6,0,1478,6,8],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea4282aec785116c481be76dbab5993b2a":[6,0,1478,6,9],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea56486a57d79f038db4ecdb488beade5d":[6,0,1478,6,10],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea5fd0c0f9f71507b74a76ce99f03dcbf8":[6,0,1478,6,0],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea62da4c8a55a47ad723449049aa0b8b61":[6,0,1478,6,1],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea7214058ec36782efb100e0a679f732e6":[6,0,1478,6,11],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea8b663a873cd867f7ef2458a358a95b9c":[6,0,1478,6,2],
+"d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cea8bd81a4ca3ae420d76a8ea187695b93f":[6,0,1478,6,4],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceaa713ae5d9139144511c533847d7d80db":[6,0,1478,6,7],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8ceacf70c5ddd4124f52e9bf48013b1f90ef":[6,0,1478,6,3],
 "d7/db0/classMap.html#aec131b31a6f909132ff3be7d43d6c8cead1d1fbf1474b770bc90c6dd83df0c13d":[6,0,1478,6,5],
@@ -240,14 +249,5 @@ var NAVTREEINDEX202 =
 "d7/dba/classspell__deathbringer__blood__link.html#a957e29d2458fd90228ef9c53e997c642":[6,0,2726,1],
 "d7/dbb/DynamicObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,43],
 "d7/dbb/DynamicObjectScript_8cpp.html#a81c3616d496bf8bc2392d79508d2e446":[7,0,0,0,1,2,38,0,43,0],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,3831],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[6,0,3831,3],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,3831,1],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,3831,4],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,3831,0],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,3831,2],
-"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,3831,5],
-"d7/dbd/classspell__item__vanquished__clutches.html":[6,0,3331],
-"d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[6,0,3331,1],
-"d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[6,0,3331,0]
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html":[6,0,3831]
 };

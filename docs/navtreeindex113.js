@@ -1,6 +1,5 @@
 var NAVTREEINDEX113 =
 {
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ad0cdd4bd14da861060c31e2cf4ba7c36":[7,0,0,0,1,2,8,1,3,19,38],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ad436710174fc03be2dae6fba16aab7d7":[7,0,0,0,1,2,8,1,3,19,16],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ad74eb390137dcfcd6b56a156e76a2a9c":[7,0,0,0,1,2,8,1,3,19,53],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258ad9a64e06ade541a725a6a5c2c4e2ce47":[7,0,0,0,1,2,8,1,3,19,13],
@@ -62,17 +61,17 @@ var NAVTREEINDEX113 =
 "d3/dda/classspell__pal__eye__for__an__eye.html#a28be437c5f3e8bca0f54be97cb5c5a1f":[6,0,3528,2],
 "d3/dda/classspell__pal__eye__for__an__eye.html#a304fd48cc79d3e7371212632d276b2ff":[6,0,3528,0],
 "d3/dda/classspell__pal__eye__for__an__eye.html#adc217147d7c150d66dad4d3e922cff96":[6,0,3528,3],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html":[6,0,4156,2],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a0ad5b4de404b1f8312341a28a1a58b5b":[6,0,4156,2,5],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a151898f14e9a1628ddb52b6840fcc4fc":[6,0,4156,2,3],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a5f5d6b5a4a5e4ec93ff94619485736cb":[6,0,4156,2,6],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a6efe3145679913fde4d4cc1f8cc819e6":[6,0,4156,2,8],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a8bbd41b304f7e69df565af75f4846bda":[6,0,4156,2,1],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#acc56bddf7e586a3a950f608efb730498":[6,0,4156,2,9],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#ada8edd51338da19db3f282ccc6229516":[6,0,4156,2,4],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#adc64d35670bf0d41519cb9998d3db17e":[6,0,4156,2,0],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#af2cb38062e4d62558d520be75b01bedb":[6,0,4156,2,2],
-"d3/ddc/classTaskScheduler_1_1TaskQueue.html#aff6bc8c7fae6640b555ddb027cf0f6ab":[6,0,4156,2,7],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html":[6,0,4154,2],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a0ad5b4de404b1f8312341a28a1a58b5b":[6,0,4154,2,5],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a151898f14e9a1628ddb52b6840fcc4fc":[6,0,4154,2,3],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a5f5d6b5a4a5e4ec93ff94619485736cb":[6,0,4154,2,6],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a6efe3145679913fde4d4cc1f8cc819e6":[6,0,4154,2,8],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#a8bbd41b304f7e69df565af75f4846bda":[6,0,4154,2,1],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#acc56bddf7e586a3a950f608efb730498":[6,0,4154,2,9],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#ada8edd51338da19db3f282ccc6229516":[6,0,4154,2,4],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#adc64d35670bf0d41519cb9998d3db17e":[6,0,4154,2,0],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#af2cb38062e4d62558d520be75b01bedb":[6,0,4154,2,2],
+"d3/ddc/classTaskScheduler_1_1TaskQueue.html#aff6bc8c7fae6640b555ddb027cf0f6ab":[6,0,4154,2,7],
 "d3/ddc/classat__q24545__frostmourne__cavern.html":[6,0,237],
 "d3/ddc/classat__q24545__frostmourne__cavern.html#a76e2d8424b5fcd037fabfa9b878d21e1":[6,0,237,0],
 "d3/ddc/classat__q24545__frostmourne__cavern.html#a9016ef31fde1bbcaf57a17e64ea8d503":[6,0,237,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX113 =
 "d3/de2/classbf__commandscript.html#a7168b3db9435d70e2c5ca5eb41fc8ef2":[6,0,345,6],
 "d3/de2/classbf__commandscript.html#a806ca440ae1b51fffefee9d298dab3df":[6,0,345,0],
 "d3/de2/classbf__commandscript.html#a97f0192d7ccd3532cfceaebff9f242be":[6,0,345,1],
-"d3/de2/classbf__commandscript.html#ac12cac377007d90b25b9797f2b2cc8de":[6,0,345,5]
+"d3/de2/classbf__commandscript.html#ac12cac377007d90b25b9797f2b2cc8de":[6,0,345,5],
+"d3/de2/classbf__commandscript.html#af7100032ad26a66fbc9d9b37d1da98e1":[6,0,345,3]
 };

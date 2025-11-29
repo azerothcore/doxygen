@@ -149,12 +149,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a2ed2cf6d9725ae342adfada023538a28"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a355d024283b4ce02a2fdcf551c75c3b2" id="r_a355d024283b4ce02a2fdcf551c75c3b2"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d12/classUnitScript.html#a355d024283b4ce02a2fdcf551c75c3b2">IfNormalReaction</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../de/d0a/SharedDefines_8h.html#aa8feab79004a7795346184a5e6140f03">ReputationRank</a> &amp;)</td></tr>
 <tr class="separator:a355d024283b4ce02a2fdcf551c75c3b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abef7c63663b881c66f2bcc6c3d3256b8" id="r_abef7c63663b881c66f2bcc6c3d3256b8"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d12/classUnitScript.html#abef7c63663b881c66f2bcc6c3d3256b8">IsNeedModSpellDamagePercent</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *, float &amp;, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
-<tr class="separator:abef7c63663b881c66f2bcc6c3d3256b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaaf151572d72b05833905777a979c0d9" id="r_aaaf151572d72b05833905777a979c0d9"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d12/classUnitScript.html#aaaf151572d72b05833905777a979c0d9">IsNeedModMeleeDamagePercent</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *, float &amp;, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
-<tr class="separator:aaaf151572d72b05833905777a979c0d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab4fd36511815865c02e1415c2460ea2" id="r_aab4fd36511815865c02e1415c2460ea2"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d12/classUnitScript.html#aab4fd36511815865c02e1415c2460ea2">IsNeedModHealPercent</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *, float &amp;, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *)</td></tr>
-<tr class="separator:aab4fd36511815865c02e1415c2460ea2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a95d2e7dd7074494fdd4f530f9684c1bf" id="r_a95d2e7dd7074494fdd4f530f9684c1bf"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d12/classUnitScript.html#a95d2e7dd7074494fdd4f530f9684c1bf">CanSetPhaseMask</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, bool)</td></tr>
 <tr class="separator:a95d2e7dd7074494fdd4f530f9684c1bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1859b5ca0970c3a358a4ba0207f281de" id="r_a1859b5ca0970c3a358a4ba0207f281de"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d12/classUnitScript.html#a1859b5ca0970c3a358a4ba0207f281de">IsCustomBuildValuesUpdate</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *, <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../da/d07/classByteBuffer.html">ByteBuffer</a> &amp;, <a class="el" href="../../d2/d4b/classPlayer.html">Player</a> const *, <a class="el" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>)</td></tr>
@@ -239,24 +233,24 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  153</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a>)</div>
-<div class="line"><span class="lineno">  154</span>{</div>
-<div class="line"><span class="lineno">  155</span>    <span class="keywordflow">if</span> (addToScripts)</div>
-<div class="line"><span class="lineno">  156</span>    {</div>
-<div class="line"><span class="lineno">  157</span>        <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">  159</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">  160</span>                enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">  161</span> </div>
-<div class="line"><span class="lineno">  162</span>        <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;UnitScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">  163</span>    }</div>
-<div class="line"><span class="lineno">  164</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  138</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a>)</div>
+<div class="line"><span class="lineno">  139</span>{</div>
+<div class="line"><span class="lineno">  140</span>    <span class="keywordflow">if</span> (addToScripts)</div>
+<div class="line"><span class="lineno">  141</span>    {</div>
+<div class="line"><span class="lineno">  142</span>        <span class="comment">// If empty - enable all available hooks.</span></div>
+<div class="line"><span class="lineno">  143</span>        <span class="keywordflow">if</span> (enabledHooks.empty())</div>
+<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a>; ++i)</div>
+<div class="line"><span class="lineno">  145</span>                enabledHooks.emplace_back(i);</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>        <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;UnitScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">  148</span>    }</div>
+<div class="line"><span class="lineno">  149</span>}</div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
-<div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a></div><div class="ttdeci">@ UNITHOOK_END</div><div class="ttdef"><b>Definition</b> UnitScript.h:49</div></div>
+<div class="ttc" id="aUnitScript_8h_html_a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352"><div class="ttname"><a href="../../d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a></div><div class="ttdeci">@ UNITHOOK_END</div><div class="ttdef"><b>Definition</b> UnitScript.h:46</div></div>
 <div class="ttc" id="aclassScriptObject_html"><div class="ttname"><a href="../../d8/d9a/classScriptObject.html">ScriptObject</a></div><div class="ttdef"><b>Definition</b> ScriptObject.h:43</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:752</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:747</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00752">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00049">UNITHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00747">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00046">UNITHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -300,9 +294,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   89</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00102">ScriptMgr::CanSetPhaseMask()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00087">ScriptMgr::CanSetPhaseMask()</a>.</p>
 
 </div>
 </div>
@@ -351,7 +345,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{ <span class="keywordflow">return</span> damage; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{ <span class="keywordflow">return</span> damage; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -394,7 +388,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   87</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00082">ScriptMgr::IfNormalReaction()</a>.</p>
 
@@ -451,162 +445,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   91</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00107">ScriptMgr::IsCustomBuildValuesUpdate()</a>.</p>
-
-</div>
-</div>
-<a id="aab4fd36511815865c02e1415c2460ea2" name="aab4fd36511815865c02e1415c2460ea2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab4fd36511815865c02e1415c2460ea2">&#9670;&#160;</a></span>IsNeedModHealPercent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool UnitScript::IsNeedModHealPercent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   96</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00097">ScriptMgr::IsNeedModHealPercent()</a>.</p>
-
-</div>
-</div>
-<a id="aaaf151572d72b05833905777a979c0d9" name="aaaf151572d72b05833905777a979c0d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaaf151572d72b05833905777a979c0d9">&#9670;&#160;</a></span>IsNeedModMeleeDamagePercent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool UnitScript::IsNeedModMeleeDamagePercent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ScriptMgr::IsNeedModMeleeDamagePercent()</a>.</p>
-
-</div>
-</div>
-<a id="abef7c63663b881c66f2bcc6c3d3256b8" name="abef7c63663b881c66f2bcc6c3d3256b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abef7c63663b881c66f2bcc6c3d3256b8">&#9670;&#160;</a></span>IsNeedModSpellDamagePercent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual bool UnitScript::IsNeedModSpellDamagePercent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00087">ScriptMgr::IsNeedModSpellDamagePercent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ScriptMgr::IsCustomBuildValuesUpdate()</a>.</p>
 
 </div>
 </div>
@@ -655,7 +496,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   76</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00047">ScriptMgr::ModifyHealReceived()</a>.</p>
 
@@ -700,7 +541,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00037">ScriptMgr::ModifyMeleeDamage()</a>.</p>
 
@@ -751,7 +592,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00032">ScriptMgr::ModifyPeriodicDamageAurasTick()</a>.</p>
 
@@ -802,7 +643,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00042">ScriptMgr::ModifySpellDamageTaken()</a>.</p>
 
@@ -841,7 +682,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   83</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00072">ScriptMgr::OnAuraApply()</a>.</p>
 
@@ -886,7 +727,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00077">ScriptMgr::OnAuraRemove()</a>.</p>
 
@@ -985,7 +826,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{   };</div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{   };</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00067">ScriptMgr::OnBeforeRollMeleeOutcomeAgainst()</a>.</p>
 
@@ -1030,7 +871,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00027">ScriptMgr::OnDamage()</a>.</p>
 
@@ -1069,9 +910,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  105</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00127">ScriptMgr::OnDisplayIdChange()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00112">ScriptMgr::OnDisplayIdChange()</a>.</p>
 
 </div>
 </div>
@@ -1114,7 +955,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   60</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00022">ScriptMgr::OnHeal()</a>.</p>
 
@@ -1165,9 +1006,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   95</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00117">ScriptMgr::OnPatchValuesUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00102">ScriptMgr::OnPatchValuesUpdate()</a>.</p>
 
 </div>
 </div>
@@ -1204,9 +1045,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  118</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00142">ScriptMgr::OnUnitDeath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00127">ScriptMgr::OnUnitDeath()</a>.</p>
 
 </div>
 </div>
@@ -1243,9 +1084,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  117</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00137">ScriptMgr::OnUnitEnterCombat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00122">ScriptMgr::OnUnitEnterCombat()</a>.</p>
 
 </div>
 </div>
@@ -1282,9 +1123,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00132">ScriptMgr::OnUnitEnterEvadeMode()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00117">ScriptMgr::OnUnitEnterEvadeMode()</a>.</p>
 
 </div>
 </div>
@@ -1321,9 +1162,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00147">ScriptMgr::OnUnitSetShapeshiftForm()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00132">ScriptMgr::OnUnitSetShapeshiftForm()</a>.</p>
 
 </div>
 </div>
@@ -1369,9 +1210,9 @@ Protected Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  112</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  103</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00122">ScriptMgr::OnUnitUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00107">ScriptMgr::OnUnitUpdate()</a>.</p>
 
 </div>
 </div>
@@ -1414,9 +1255,9 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   93</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00112">ScriptMgr::ShouldTrackValuesUpdatePosByIndex()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00097">ScriptMgr::ShouldTrackValuesUpdatePosByIndex()</a>.</p>
 
 </div>
 </div>
@@ -1430,7 +1271,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d12/classUnitScript.html">UnitScript</a></li>
-    <li class="footer">Generated on Fri Nov 28 2025 06:27:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 29 2025 06:24:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

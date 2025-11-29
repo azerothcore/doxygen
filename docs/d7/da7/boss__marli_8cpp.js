@@ -37,5 +37,7 @@ var boss__marli_8cpp =
       [ "SPELL_GROWTH", "d7/da7/boss__marli_8cpp.html#a5bd342133be8c2137b831460acc9298cab5ffa8b48976a4b2c53e4ecad4c37615", null ],
       [ "SPELL_FULL_GROWN", "d7/da7/boss__marli_8cpp.html#a5bd342133be8c2137b831460acc9298ca71badf74a8035220faac683a85143e6e", null ]
     ] ],
-    [ "AddSC_boss_marli", "d7/da7/boss__marli_8cpp.html#ab4f90333bccf7ce490dc2bc4122c40d7", null ]
+    [ "AddSC_boss_marli", "d7/da7/boss__marli_8cpp.html#ab4f90333bccf7ce490dc2bc4122c40d7", null ],
+    [ "DamageDecrease", "d7/da7/boss__marli_8cpp.html#aa1ce80ad135a7c0e6ea6e8f1534a5c7f", null ],
+    [ "DamageIncrease", "d7/da7/boss__marli_8cpp.html#a99343660ea4c1af481f86d424ff700f6", null ]
 ];

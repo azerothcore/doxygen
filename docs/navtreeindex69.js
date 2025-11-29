@@ -1,5 +1,7 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a9bb192e3b11b3ca87b0eac0dd7fb8b6e":[6,0,2516,57],
+"d2/d8f/structScriptInfo.html#a9bd4877584a1b9cd57cb2e99ed663a4c":[6,0,2516,51],
 "d2/d8f/structScriptInfo.html#aa04d895cf40adf3df5a771ac16d2bcba":[6,0,2516,67],
 "d2/d8f/structScriptInfo.html#aa0aebe062e010e3ca94c71dad40240aa":[6,0,2516,65],
 "d2/d8f/structScriptInfo.html#aa662f7e7d7eb2ecf9e90086371b38a5d":[6,0,2516,61],
@@ -95,10 +97,10 @@ var NAVTREEINDEX69 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2748,5],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2748,4],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2748,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4044],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4044,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4044,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4044,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4043],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4043,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4043,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4043,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[7,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX69 =
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#aabe244008103ff317e3fc1e26b04115a":[6,0,3588,1],
 "d2/da4/classspell__prince__taldaram__conjure__flame__sphere.html#ae9939f2795b8ba428277c7d658af715c":[6,0,3588,0],
 "d2/da5/wdtfile_8h.html":[7,0,0,0,3,4,15],
-"d2/da8/classVMAP_1_1GroupModel.html":[5,0,28,4],
-"d2/da8/classVMAP_1_1GroupModel.html":[6,0,9,4],
-"d2/da8/classVMAP_1_1GroupModel.html#a04394355a9e29ac711f1eac8e1b8f598":[5,0,28,4,1]
+"d2/da8/classVMAP_1_1GroupModel.html":[6,0,9,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX289 =
 {
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a549abccc70e0ad0506b7f8cb5499a9b4":[7,0,0,0,1,3,10,14,58,27],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a58a447b847f98fdf065f6c2177921195":[7,0,0,0,1,3,10,14,58,10],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a644554d2c59c93f146665ecd2935dad8":[7,0,0,0,1,3,10,14,58,25],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6b6199606f7e8c2252179891dfc8397b":[7,0,0,0,1,3,10,14,58,17],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6d34405f4268188f4709fddd135879a1":[7,0,0,0,1,3,10,14,58,0],
@@ -194,8 +196,8 @@ var NAVTREEINDEX289 =
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[6,0,3781,2],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[6,0,3781,0],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[6,0,3781,1],
-"db/db4/classSQLQueryHolder.html":[6,0,4129],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[6,0,4129,0],
+"db/db4/classSQLQueryHolder.html":[6,0,4127],
+"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[6,0,4127,0],
 "db/db5/structboss__hydross__the__unstable.html":[6,0,542],
 "db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[6,0,542,3],
 "db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[6,0,542,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX289 =
 "db/db7/namespaceMovement.html#a5149db3325f467381006d8d5df24a2a8":[5,0,21,37],
 "db/db7/namespaceMovement.html#a654673c77f53f27a80309b050d44d38d":[5,0,21,42],
 "db/db7/namespaceMovement.html#a7d1eb637bb6ae4a1859504fb84872808":[5,0,21,39],
-"db/db7/namespaceMovement.html#a86528b2e04ddf38b80888e45d6b9c37d":[5,0,21,14],
-"db/db7/namespaceMovement.html#a87260372150c8322b45e75bfaa445f14":[5,0,21,21],
-"db/db7/namespaceMovement.html#a92efeab3fe080f348fa91cb9bc5a1b05":[5,0,21,32]
+"db/db7/namespaceMovement.html#a86528b2e04ddf38b80888e45d6b9c37d":[5,0,21,14]
 };

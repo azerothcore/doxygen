@@ -1,5 +1,8 @@
 var NAVTREEINDEX215 =
 {
+"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#ab1a6f582098c9d1218551af0aae1815d":[6,0,673,0,3],
+"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#abed82c71605d7c57bf29cedc21fc6b24":[6,0,673,0,5],
+"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#ad56fca0ae00fba6e575baefd72c7a8d0":[6,0,673,0,6],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#ada2e7a5ac1f129572a0689afce49d310":[6,0,673,0,2],
 "d8/d62/structLoot.html":[6,0,1451],
 "d8/d62/structLoot.html#a017e99f9c7037c938dbda548358bb9aa":[6,0,1451,12],
@@ -112,8 +115,8 @@ var NAVTREEINDEX215 =
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2584,2],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,31,12,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,31,12,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,12,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,31,12,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,544],
 "d8/d6c/classboss__ichoron.html#a68051088dc2d2c738b042e2df0436b28":[6,0,544,2],
 "d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,544,1],
@@ -126,8 +129,8 @@ var NAVTREEINDEX215 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[6,0,458,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[6,0,458,2],
 "d8/d6e/PetHandler_8cpp.html":[7,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[6,0,0,5,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6f/classnpc__injured__draenei.html":[6,0,1889],
 "d8/d6f/classnpc__injured__draenei.html#a660c0f0c4ed41d70ad0a50cde25c1d14":[6,0,1889,1],
 "d8/d6f/classnpc__injured__draenei.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb":[6,0,1889,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d72/classDisableMgr.html#adb464165caf6cd436499fa84969eeaf8":[6,0,986,11],
 "d8/d72/classDisableMgr.html#adf2cad99fa4b2b3ddbff05931928c1c5":[6,0,986,0],
 "d8/d72/classDisableMgr.html#ae1483ae3fdeeb98cceb29905f7181b1a":[6,0,986,3],
-"d8/d72/classDisableMgr.html#afadb62b96ab43f983f8a8c3077cbe205":[6,0,986,2],
-"d8/d73/ObjectGuid_8cpp.html":[7,0,0,0,1,2,16,5,4],
-"d8/d73/ObjectGuid_8cpp.html#a039758f4b57c94c411a4c3882334ada8":[7,0,0,0,1,2,16,5,4,1],
-"d8/d73/ObjectGuid_8cpp.html#a30aef535f2839648f0ae4648c746d3e2":[7,0,0,0,1,2,16,5,4,3]
+"d8/d72/classDisableMgr.html#afadb62b96ab43f983f8a8c3077cbe205":[6,0,986,2]
 };

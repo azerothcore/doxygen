@@ -1,5 +1,8 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#ac50097fb33c7766ada7dae3f9161efe6":[4,1,19,331],
+"d8/d74/classWorldSession.html#ac576bba9fd80ae6077ae331b5b5a321b":[4,1,19,521],
+"d8/d74/classWorldSession.html#ac595f2b1e1f6d5a6797bc8a47c115daa":[4,1,19,359],
 "d8/d74/classWorldSession.html#ac5bc11bdefcc756f5fa7ec9d98a90a33":[4,1,19,483],
 "d8/d74/classWorldSession.html#ac5e2a76a53721060a27c851c6adbdc74":[4,1,19,313],
 "d8/d74/classWorldSession.html#ac600e2c74800ca2d02e829e7d81c3758":[4,1,19,352],
@@ -246,8 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a57b42bf7b94ef5b23092ed097ce016e8":[6,0,3370,3],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a6083e35b4289b8a960dd6b223e1d02b5":[6,0,3370,2],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a8622351d9984d2de69ccd67d37fd52b9":[6,0,3370,1],
-"d8/d7d/classMMapTargetData.html":[6,0,1513],
-"d8/d7d/classMMapTargetData.html#a130fe2b359f583acab99c51eb9d0b1ad":[6,0,1513,5],
-"d8/d7d/classMMapTargetData.html#a33cc430ea3c4b5dd4012a16914dc8aeb":[6,0,1513,0],
-"d8/d7d/classMMapTargetData.html#a3547f93af46826a051f1164ac1fc9ccc":[6,0,1513,3]
+"d8/d7d/classMMapTargetData.html":[6,0,1513]
 };

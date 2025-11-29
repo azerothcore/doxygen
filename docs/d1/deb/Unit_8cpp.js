@@ -5,6 +5,7 @@ var Unit_8cpp =
     [ "ProcTriggeredData", "da/d26/structProcTriggeredData.html", "da/d26/structProcTriggeredData" ],
     [ "AuraMunchingQueue", "df/d7b/classAuraMunchingQueue.html", "df/d7b/classAuraMunchingQueue" ],
     [ "ProcTriggeredList", "d1/deb/Unit_8cpp.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
+    [ "ApplyPercentModFloatVar", "d1/deb/Unit_8cpp.html#adcb1f2b25980bd4c71cb160030213f96", null ],
     [ "createProcExtendMask", "d1/deb/Unit_8cpp.html#afb539370dad036ff97905efdbb4270c0", null ],
     [ "createProcFlags", "d1/deb/Unit_8cpp.html#a7d920511c20f084098c0f68a75006159", null ],
     [ "InitTriggerAuraData", "d1/deb/Unit_8cpp.html#a70fb722e03fe637ce7c9979a00725a3c", null ],

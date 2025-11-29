@@ -300,6 +300,7 @@ var annotated_dup =
     ] ],
     [ "std", "d8/dcc/namespacestd.html", [
       [ "hash< ObjectGuid >", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html", "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4" ],
+      [ "hash< SpellGroup >", "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html", "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4" ],
       [ "hash< std::pair< uint32_t, uint32_t > >", "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html", "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4" ]
     ] ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", [
@@ -4498,9 +4499,7 @@ var annotated_dup =
     [ "spell_warl_eye_of_kilrogg", "d5/d65/classspell__warl__eye__of__kilrogg.html", "d5/d65/classspell__warl__eye__of__kilrogg" ],
     [ "spell_warl_fel_synergy", "d0/de4/classspell__warl__fel__synergy.html", "d0/de4/classspell__warl__fel__synergy" ],
     [ "spell_warl_generic_scaling", "d5/d7d/classspell__warl__generic__scaling.html", "d5/d7d/classspell__warl__generic__scaling" ],
-    [ "spell_warl_glyph_of_felguard", "d9/d12/classspell__warl__glyph__of__felguard.html", "d9/d12/classspell__warl__glyph__of__felguard" ],
     [ "spell_warl_glyph_of_shadowflame", "d0/d9a/classspell__warl__glyph__of__shadowflame.html", "d0/d9a/classspell__warl__glyph__of__shadowflame" ],
-    [ "spell_warl_glyph_of_voidwalker", "d8/d18/classspell__warl__glyph__of__voidwalker.html", "d8/d18/classspell__warl__glyph__of__voidwalker" ],
     [ "spell_warl_haunt", "d7/d0c/classspell__warl__haunt.html", "d7/d0c/classspell__warl__haunt" ],
     [ "spell_warl_haunt_aura", "d2/dc2/classspell__warl__haunt__aura.html", "d2/dc2/classspell__warl__haunt__aura" ],
     [ "spell_warl_health_funnel", "d7/d72/classspell__warl__health__funnel.html", "d7/d72/classspell__warl__health__funnel" ],
@@ -4519,6 +4518,7 @@ var annotated_dup =
     [ "spell_warl_siphon_life", "de/db0/classspell__warl__siphon__life.html", "de/db0/classspell__warl__siphon__life" ],
     [ "spell_warl_soulshatter", "d0/d48/classspell__warl__soulshatter.html", "d0/d48/classspell__warl__soulshatter" ],
     [ "spell_warl_unstable_affliction", "d2/db9/classspell__warl__unstable__affliction.html", "d2/db9/classspell__warl__unstable__affliction" ],
+    [ "spell_warl_voidwalker_pet_passive", "d5/ded/classspell__warl__voidwalker__pet__passive.html", "d5/ded/classspell__warl__voidwalker__pet__passive" ],
     [ "spell_warlords_rage", "de/d3a/classspell__warlords__rage.html", "de/d3a/classspell__warlords__rage" ],
     [ "spell_warr_bloodthirst", "d4/d66/classspell__warr__bloodthirst.html", "d4/d66/classspell__warr__bloodthirst" ],
     [ "spell_warr_bloodthirst_heal", "d5/d79/classspell__warr__bloodthirst__heal.html", "d5/d79/classspell__warr__bloodthirst__heal" ],
@@ -4626,7 +4626,6 @@ var annotated_dup =
     [ "SpellScript", "df/d92/classSpellScript.html", "df/d92/classSpellScript" ],
     [ "SpellScriptLoader", "d0/dad/classSpellScriptLoader.html", "d0/dad/classSpellScriptLoader" ],
     [ "SpellShapeshiftFormEntry", "de/db3/structSpellShapeshiftFormEntry.html", "de/db3/structSpellShapeshiftFormEntry" ],
-    [ "SpellStackInfo", "dc/d5e/structSpellStackInfo.html", "dc/d5e/structSpellStackInfo" ],
     [ "SpellTargetPosition", "d8/d31/structSpellTargetPosition.html", "d8/d31/structSpellTargetPosition" ],
     [ "SpellTargetSelector", "d2/d5c/structSpellTargetSelector.html", "d2/d5c/structSpellTargetSelector" ],
     [ "SpellThreatEntry", "db/ddd/structSpellThreatEntry.html", "db/ddd/structSpellThreatEntry" ],

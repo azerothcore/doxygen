@@ -1,5 +1,8 @@
 var NAVTREEINDEX219 =
 {
+"d8/d7d/classMMapTargetData.html#a130fe2b359f583acab99c51eb9d0b1ad":[6,0,1513,5],
+"d8/d7d/classMMapTargetData.html#a33cc430ea3c4b5dd4012a16914dc8aeb":[6,0,1513,0],
+"d8/d7d/classMMapTargetData.html#a3547f93af46826a051f1164ac1fc9ccc":[6,0,1513,3],
 "d8/d7d/classMMapTargetData.html#a4053689f5f675cf1a621dfb39211b3cc":[6,0,1513,4],
 "d8/d7d/classMMapTargetData.html#a4108ff5fbbf7c468ff7d90ac7beea4fa":[6,0,1513,2],
 "d8/d7d/classMMapTargetData.html#a5506c303d668bbead180fe2a8c2ed48e":[6,0,1513,7],
@@ -222,10 +225,10 @@ var NAVTREEINDEX219 =
 "d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[6,0,2530,4],
 "d8/d86/structServerMail.html#a818b993f72f82a022277e1c8d9160011":[6,0,2530,3],
 "d8/d86/structServerMail.html#ad120200ba47bf8ea8511a46d56f0daec":[6,0,2530,6],
-"d8/d86/structVampiricBiteTargetSelector.html":[6,0,4236],
-"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4236,0],
-"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4236,1],
-"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4236,2],
+"d8/d86/structVampiricBiteTargetSelector.html":[6,0,4234],
+"d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4234,0],
+"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4234,1],
+"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4234,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d88/classspell__dru__primal__tenacity.html#ac7316995b7682a6fafe47ff2547956b0":[6,0,2832,4],
 "d8/d88/classspell__dru__primal__tenacity.html#ae63ad15db90ebe73d73e77e232f4d695":[6,0,2832,3],
 "d8/d88/classspell__dru__primal__tenacity.html#af7df70d0bd68d12032b5b57faa789a87":[6,0,2832,0],
-"d8/d8a/classByteBufferInvalidValueException.html":[6,0,829],
-"d8/d8a/classByteBufferInvalidValueException.html#a30cc1225522916e05abf95e14805d7a3":[6,0,829,1],
-"d8/d8a/classByteBufferInvalidValueException.html#a6ee22161167faf11555c6e6b15422cd8":[6,0,829,0],
-"d8/d8a/classboss__krik__thir.html":[6,0,584]
+"d8/d8a/classByteBufferInvalidValueException.html":[6,0,829]
 };

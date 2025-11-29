@@ -32,8 +32,7 @@ var spell__warlock_8cpp =
     [ "spell_warl_glyph_of_shadowflame", "d0/d9a/classspell__warl__glyph__of__shadowflame.html", "d0/d9a/classspell__warl__glyph__of__shadowflame" ],
     [ "spell_warl_drain_soul", "d0/dcf/classspell__warl__drain__soul.html", "d0/dcf/classspell__warl__drain__soul" ],
     [ "spell_warl_shadowburn", "d6/d2b/classspell__warl__shadowburn.html", "d6/d2b/classspell__warl__shadowburn" ],
-    [ "spell_warl_glyph_of_felguard", "d9/d12/classspell__warl__glyph__of__felguard.html", "d9/d12/classspell__warl__glyph__of__felguard" ],
-    [ "spell_warl_glyph_of_voidwalker", "d8/d18/classspell__warl__glyph__of__voidwalker.html", "d8/d18/classspell__warl__glyph__of__voidwalker" ],
+    [ "spell_warl_voidwalker_pet_passive", "d5/ded/classspell__warl__voidwalker__pet__passive.html", "d5/ded/classspell__warl__voidwalker__pet__passive" ],
     [ "spell_warl_demonic_pact_aura", "d5/d4b/classspell__warl__demonic__pact__aura.html", "d5/d4b/classspell__warl__demonic__pact__aura" ],
     [ "WarlockSpellIcons", "d1/dd5/spell__warlock_8cpp.html#a93ac337fe309b60a0dfb634fc04f4246", [
       [ "WARLOCK_ICON_ID_IMPROVED_LIFE_TAP", "d1/dd5/spell__warlock_8cpp.html#a93ac337fe309b60a0dfb634fc04f4246adea40db7f41c66b6468b60477e5469e6", null ],
@@ -80,7 +79,8 @@ var spell__warlock_8cpp =
       [ "SPELL_WARLOCK_IMPROVED_DRAIN_SOUL_PROC", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a87bf6201754bce1b5e511fe9efc6ad56", null ],
       [ "SPELL_WARLOCK_EYE_OF_KILROGG_FLY", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a643aee1b4ebb09794fb9ae199f48c7f8", null ],
       [ "SPELL_WARLOCK_PET_VOID_STAR_TALISMAN", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a916b020b2cdb63ff9d99b5d02581fe9f", null ],
-      [ "SPELL_WARLOCK_DEMONIC_PACT_PROC", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a4fbb28b3d6c209429d2a045398c0fc4e", null ]
+      [ "SPELL_WARLOCK_DEMONIC_PACT_PROC", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a4fbb28b3d6c209429d2a045398c0fc4e", null ],
+      [ "SPELL_WARLOCK_GLYPH_OF_VOIDWALKER", "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570a0a2f5c3792967df0abc96de6658f85ca", null ]
     ] ],
     [ "AddSC_warlock_spell_scripts", "d1/dd5/spell__warlock_8cpp.html#a2054657c41c2347732a7d2903e3b8138", null ]
 ];

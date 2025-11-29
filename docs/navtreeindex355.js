@@ -1,7 +1,5 @@
 var NAVTREEINDEX355 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234acf1d48b62375887193c41f76ab6a30aa":[7,0,0,0,1,4,7,108,93],
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad08c23308d2cd77b9c019e72ad4f1de6":[7,0,0,0,1,4,7,108,101],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad09aeb78f9b6e12439bb745aef3f5a32":[7,0,0,0,1,4,7,108,149],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad1c646ee43c56548dc3b1a76915cfde2":[7,0,0,0,1,4,7,108,84],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ad1e941d3250b9aa6de2db82206bcb01a":[7,0,0,0,1,4,7,108,91],
@@ -249,5 +247,7 @@ var NAVTREEINDEX355 =
 "de/d18/AddonMgr_8cpp.html#aaa12f5b754e6b664dbfb2428478bee03":[7,0,0,0,1,2,2,0,2],
 "de/d18/AddonMgr_8cpp.html#ad7d0938e7463238a86e8c811e1a58800":[7,0,0,0,1,2,2,0,1],
 "de/d18/classboss__thorim__runic__colossus.html":[6,0,742],
-"de/d18/classboss__thorim__runic__colossus.html#a2ea1c08a98b689cd6c766578e98a3191":[6,0,742,1]
+"de/d18/classboss__thorim__runic__colossus.html#a2ea1c08a98b689cd6c766578e98a3191":[6,0,742,1],
+"de/d18/classboss__thorim__runic__colossus.html#a6d64427ff427a1054e10c9d987b77f53":[6,0,742,2],
+"de/d18/classspell__hodir__periodic__icicle.html":[6,0,3102]
 };

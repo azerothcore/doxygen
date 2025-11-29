@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[5,0,1,127,0],
 "d1/d05/structMmapTileRecastConfig.html":[6,0,1515],
 "d1/d05/structMmapTileRecastConfig.html#a16440d4ea4533b065cfa8aac216c275a":[6,0,1515,11],
 "d1/d05/structMmapTileRecastConfig.html#a37b48fdf0ff629ff18e262cf1b74604a":[6,0,1515,2],
@@ -153,11 +154,11 @@ var NAVTREEINDEX24 =
 "d1/d13/structboss__high__astromancer__solarian.html#ac5b209a45a5a3ea2a8421706d181a827":[6,0,530,4],
 "d1/d13/structboss__high__astromancer__solarian.html#acaf94134aef553447e766a5e431c8b83":[6,0,530,1],
 "d1/d14/authserver_2resource_8h.html":[7,0,0,0,1,0,0,4],
-"d1/d14/classTypeContainerVisitor.html":[6,0,4210],
-"d1/d14/classTypeContainerVisitor.html#a1dd5b1ac8e4703358a32431efed8faa2":[6,0,4210,0],
-"d1/d14/classTypeContainerVisitor.html#a7be8eccd05fd489da52e587f51555891":[6,0,4210,3],
-"d1/d14/classTypeContainerVisitor.html#adf0874fc1f8bb38d2f62530f5667c836":[6,0,4210,1],
-"d1/d14/classTypeContainerVisitor.html#af8110dd70655223f06fb08b552420a6d":[6,0,4210,2],
+"d1/d14/classTypeContainerVisitor.html":[6,0,4208],
+"d1/d14/classTypeContainerVisitor.html#a1dd5b1ac8e4703358a32431efed8faa2":[6,0,4208,0],
+"d1/d14/classTypeContainerVisitor.html#a7be8eccd05fd489da52e587f51555891":[6,0,4208,3],
+"d1/d14/classTypeContainerVisitor.html#adf0874fc1f8bb38d2f62530f5667c836":[6,0,4208,1],
+"d1/d14/classTypeContainerVisitor.html#af8110dd70655223f06fb08b552420a6d":[6,0,4208,2],
 "d1/d14/classnpc__creditmarker__visit__with__ancestors.html":[6,0,1711],
 "d1/d14/classnpc__creditmarker__visit__with__ancestors.html#a06eb335a757c9f48fbfa64bfc326bb8e":[6,0,1711,2],
 "d1/d14/classnpc__creditmarker__visit__with__ancestors.html#a60f7abac7198d8504d944828dceb1ffa":[6,0,1711,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a3244e8c8f24aa8fdaec7b236a9532724":[6,0,2578,272],
 "d1/d16/classSpell.html#a32e917a293fa4ebd41a1cd1914debaff":[6,0,2578,53],
 "d1/d16/classSpell.html#a33769199858a923c7875863722c7ac4e":[6,0,2578,298],
-"d1/d16/classSpell.html#a3378c5e643dbbde893606505c42817b5":[6,0,2578,224],
-"d1/d16/classSpell.html#a33c67fa14e2f2d76f6e0369170fdac2f":[6,0,2578,210]
+"d1/d16/classSpell.html#a3378c5e643dbbde893606505c42817b5":[6,0,2578,224]
 };

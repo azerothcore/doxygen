@@ -54,6 +54,8 @@ var boss__arlokk_8cpp =
       [ "SPELL_MARK_OF_ARLOKK_TRIGGER", "d3/db0/boss__arlokk_8cpp.html#a031adb3f1270626c99916fb1133018ffae5825cff266b9b3a45e1eae774a65781", null ]
     ] ],
     [ "AddSC_boss_arlokk", "d3/db0/boss__arlokk_8cpp.html#a41ea63f90e373211e33865bd96f00537", null ],
+    [ "DamageDecrease", "d3/db0/boss__arlokk_8cpp.html#aa1ce80ad135a7c0e6ea6e8f1534a5c7f", null ],
+    [ "DamageIncrease", "d3/db0/boss__arlokk_8cpp.html#a99343660ea4c1af481f86d424ff700f6", null ],
     [ "PosMoveOnSpawn", "d3/db0/boss__arlokk_8cpp.html#acc076415e2b16d4c659c079163e444da", null ],
     [ "PosSummonArlokk", "d3/db0/boss__arlokk_8cpp.html#ab74f6a47b9052bbd7ca85f7a351b8339", null ]
 ];

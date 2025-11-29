@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698af1ed8aef8ab015843055bbafbe7347b9":[7,0,0,0,1,3,2,1,3,12,2,9],
 "d0/dae/classArenaSeasonRewardDistributor.html":[6,0,185],
 "d0/dae/classArenaSeasonRewardDistributor.html#a93640633dc11edda2cd1fce4f1da496b":[6,0,185,1],
 "d0/dae/classArenaSeasonRewardDistributor.html#a9b60eb5be0be5c1be68b9c371c99f28c":[6,0,185,0],
@@ -168,13 +169,13 @@ var NAVTREEINDEX16 =
 "d0/db2/structServerMailItems.html#a4475d65dd5721d4af323ae93d15f4170":[6,0,2532,2],
 "d0/db2/structServerMailItems.html#a95cb2278da300c6b0385241f5a3950c1":[6,0,2532,0],
 "d0/db2/structServerMailItems.html#ae03738595a87a47e831bcbeea6f97d34":[6,0,2532,1],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html":[6,0,4058],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html#a3e35c98bd5867bbb6c77b16d89ab74a9":[6,0,4058,0],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html#a49ad44eba19416743bd26252d1b40d71":[6,0,4058,1],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html#a9e7c6087b1c7ce3c32be661da037f1e0":[6,0,4058,5],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html#ab383a0a207aa78b7efcd400765ad0838":[6,0,4058,4],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html#ae0c475babb67cebb245d6d85b50cd694":[6,0,4058,2],
-"d0/db3/classspell__yogg__saron__brain__link__aura.html#af56875f1bb85d5524841a5bbb399d7d4":[6,0,4058,3],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html":[6,0,4057],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html#a3e35c98bd5867bbb6c77b16d89ab74a9":[6,0,4057,0],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html#a49ad44eba19416743bd26252d1b40d71":[6,0,4057,1],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html#a9e7c6087b1c7ce3c32be661da037f1e0":[6,0,4057,5],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html#ab383a0a207aa78b7efcd400765ad0838":[6,0,4057,4],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html#ae0c475babb67cebb245d6d85b50cd694":[6,0,4057,2],
+"d0/db3/classspell__yogg__saron__brain__link__aura.html#af56875f1bb85d5524841a5bbb399d7d4":[6,0,4057,3],
 "d0/db3/cs__honor_8cpp.html":[7,0,0,0,1,3,0,20],
 "d0/db3/cs__honor_8cpp.html#ab7c57f853cb45a82b5563b703a1ee041":[7,0,0,0,1,3,0,20,1],
 "d0/db3/structCurrencyTypesEntry.html":[6,0,947],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "d0/db7/classGroup.html#a60deb01895f041239e41ef3ce646e736":[6,0,1230,139],
 "d0/db7/classGroup.html#a62c0f1238b6435f736b0b0a9daa0bf7f":[6,0,1230,1],
 "d0/db7/classGroup.html#a66880750d28b0f1cff2be1edcf620bb9":[6,0,1230,108],
-"d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4":[6,0,1230,42],
-"d0/db7/classGroup.html#a6961cad4ce9ffb385351a99bb8e3c4a0":[6,0,1230,94]
+"d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4":[6,0,1230,42]
 };

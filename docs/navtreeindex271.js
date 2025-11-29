@@ -1,5 +1,6 @@
 var NAVTREEINDEX271 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a78936e290d45a26f59971acdf3e326db":[7,0,0,0,1,3,5,2,1,7,5,34],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a79b16b1b80dc9aabd701e1abe3339225":[7,0,0,0,1,3,5,2,1,7,5,51],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7a1ad637392d984f02ff67fbe6546f5c":[7,0,0,0,1,3,5,2,1,7,5,41],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7eeac286eec9c41a33ee6fea164edc8a":[7,0,0,0,1,3,5,2,1,7,5,24],
@@ -176,13 +177,13 @@ var NAVTREEINDEX271 =
 "da/def/structItemExtendedCostEntry.html#aca509fb7e234bc54632ff988bf37e6ad":[6,0,1387,3],
 "da/def/structItemExtendedCostEntry.html#ad1e4b8f94a743bac02bbadbc8d62ad0b":[6,0,1387,2],
 "da/def/structItemExtendedCostEntry.html#af4ff8d55234b03637e4b2fbd10778e97":[6,0,1387,6],
-"da/def/structSpellCooldown.html":[6,0,4085],
-"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[6,0,4085,2],
-"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[6,0,4085,5],
-"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[6,0,4085,4],
-"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[6,0,4085,1],
-"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[6,0,4085,3],
-"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,4085,0],
+"da/def/structSpellCooldown.html":[6,0,4084],
+"da/def/structSpellCooldown.html#a42ef844fdd55e8bf67eb5cd90c627817":[6,0,4084,2],
+"da/def/structSpellCooldown.html#a4b5bc2c63587dd8ce5d4971ad51895cd":[6,0,4084,5],
+"da/def/structSpellCooldown.html#a678f56b6723567f984a0188b85a6f9df":[6,0,4084,4],
+"da/def/structSpellCooldown.html#a8cc857ef51745900398765164a450a50":[6,0,4084,1],
+"da/def/structSpellCooldown.html#a94b98afb7651e2c6b99ee79f85702259":[6,0,4084,3],
+"da/def/structSpellCooldown.html#af3cd722cf59d844dcaba2d20f20d2933":[6,0,4084,0],
 "da/df1/classMetric.html":[6,0,1503],
 "da/df1/classMetric.html#a069ffe856af041ad52e7a3457a879f1c":[6,0,1503,29],
 "da/df1/classMetric.html#a1063712aaca72d92ec956faca429367e":[6,0,1503,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX271 =
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,2,3],
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,2,1,1,2,3,2],
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23d93f48d54ba45b0e91f20df0298e10":[7,0,0,0,1,3,2,1,1,2,3,4],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[7,0,0,0,1,3,2,1,1,2,3,3],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a99f59fc0058563b6178b14c663679117":[7,0,0,0,1,3,2,1,1,2,3,5]
+"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[7,0,0,0,1,3,2,1,1,2,3,3]
 };

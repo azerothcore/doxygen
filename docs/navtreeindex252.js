@@ -1,9 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a756fd8181ac2e57898857f88d6626c65":[7,0,0,0,1,2,41,0,0,6,124],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a75f3201ba5d36530f37a58c34d89d604":[7,0,0,0,1,2,41,0,0,6,283],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7758d81a4b1d1914bbc46b904e67c1f6":[7,0,0,0,1,2,41,0,0,6,286],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a779f080d1d23d2cbf0ea5fea6ce157b5":[7,0,0,0,1,2,41,0,0,6,245],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79269de8dea27ac7f7622e49e14a687a":[7,0,0,0,1,2,41,0,0,6,118],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79405eecbad1b57e309d03b99afc8be1":[7,0,0,0,1,2,41,0,0,6,134],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4":[7,0,0,0,1,2,41,0,0,6,79],
@@ -190,10 +186,10 @@ var NAVTREEINDEX252 =
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2":[7,0,0,0,1,2,41,0,0,4],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a51cd79314936d46d8bc738a8c1207ab4":[7,0,0,0,1,2,41,0,0,4,1],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a9db32fb1dd13d77afd835d5bb6f5d379":[7,0,0,0,1,2,41,0,0,4,0],
-"da/d2d/structTSPosition.html":[6,0,4207],
-"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[6,0,4207,1],
-"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[6,0,4207,2],
-"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[6,0,4207,0],
+"da/d2d/structTSPosition.html":[6,0,4205],
+"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[6,0,4205,1],
+"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[6,0,4205,2],
+"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[6,0,4205,0],
 "da/d2e/classnpc__varian__wrynn.html":[6,0,2253],
 "da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[6,0,2253,1],
 "da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[6,0,2253,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX252 =
 "da/d32/classspell__sindragosa__instability__aura.html":[6,0,3835],
 "da/d32/classspell__sindragosa__instability__aura.html#a1b7ef2c14db8543a9128aa335548fa00":[6,0,3835,3],
 "da/d32/classspell__sindragosa__instability__aura.html#a49ba4ed8ac0ee006c74a71e6779c1a3b":[6,0,3835,1],
-"da/d32/classspell__sindragosa__instability__aura.html#a6e9c95b06f3ec9dc0739beaabc016d5f":[6,0,3835,2]
+"da/d32/classspell__sindragosa__instability__aura.html#a6e9c95b06f3ec9dc0739beaabc016d5f":[6,0,3835,2],
+"da/d32/classspell__sindragosa__instability__aura.html#aa096174465120bde1994c85f72682be1":[6,0,3835,0],
+"da/d32/structboss__watchkeeper__gargolmar.html":[6,0,782],
+"da/d32/structboss__watchkeeper__gargolmar.html#a1453d26ccbd3e78f46cb33f054d57759":[6,0,782,6],
+"da/d32/structboss__watchkeeper__gargolmar.html#a22736c2680f41cfd3443a76cd4de9352":[6,0,782,3]
 };

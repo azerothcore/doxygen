@@ -1,9 +1,5 @@
 var NAVTREEINDEX260 =
 {
-"da/d7e/classMapGrid.html#addd3c1c8a2093380c305d0d22daeb12a":[6,0,1487,20],
-"da/d7e/classMapGrid.html#ade4a2ad0726ab6a45fae7ac4aa261b5b":[6,0,1487,0],
-"da/d7e/classMapGrid.html#ae103a04e02748031619fae50906a1385":[6,0,1487,1],
-"da/d7e/classMapGrid.html#af342e8785feea680c8c7438cce7b5798":[6,0,1487,4],
 "da/d7e/classMapGrid.html#afb20d5812d84229b9afd77527e111fd0":[6,0,1487,11],
 "da/d7e/classspell__gnomeregan__radiation__bolt.html":[6,0,3051],
 "da/d7e/classspell__gnomeregan__radiation__bolt.html#a4fa2709a456e9e75f5c11b7f2e04912b":[6,0,3051,1],
@@ -194,10 +190,10 @@ var NAVTREEINDEX260 =
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,31,7,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[6,0,11,7,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,31,7,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,31,7,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[6,0,11,7,15,3],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[6,0,11,7,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,31,7,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,31,7,15,2],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[6,0,11,7,15,2],
 "da/d83/magtheridons__lair_8h.html":[7,0,0,0,1,3,7,4,2,2],
 "da/d83/magtheridons__lair_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,4,2,2,0],
 "da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3":[7,0,0,0,1,3,7,4,2,2,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX260 =
 "da/d85/structboss__morogrim__tidewalker.html#a2b669007520094948138c95468b77f9f":[6,0,629,3],
 "da/d85/structboss__morogrim__tidewalker.html#a2db94919e6d6f3d4eda4addc4248976e":[6,0,629,4],
 "da/d85/structboss__morogrim__tidewalker.html#a3244672aeb994673e1f46708699bcc2c":[6,0,629,2],
-"da/d85/structboss__morogrim__tidewalker.html#a63edb4b20baa9e1cf5238c3db5974c56":[6,0,629,6]
+"da/d85/structboss__morogrim__tidewalker.html#a63edb4b20baa9e1cf5238c3db5974c56":[6,0,629,6],
+"da/d85/structboss__morogrim__tidewalker.html#a78ed1d1f8c55407497a4fb679587975d":[6,0,629,5],
+"da/d86/classspell__toc5__light__rain.html":[6,0,3927],
+"da/d86/classspell__toc5__light__rain.html#a3d523f92cb8123f30cb068cbac39a9c3":[6,0,3927,2],
+"da/d86/classspell__toc5__light__rain.html#a40c4d2b624fe87e21263d1b137994cc3":[6,0,3927,0]
 };

@@ -334,18 +334,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  244</span>    {</div>
-<div class="line"><span class="lineno">  245</span>        <span class="comment">// Remove Fel Armor and Demon Armor</span></div>
-<div class="line"><span class="lineno">  246</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76">RemoveAurasWithFamily</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>, 0, 0x20000020, 0, <a class="code hl_variable" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
-<div class="line"><span class="lineno">  247</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  248</span>    {</div>
+<div class="line"><span class="lineno">  249</span>        <span class="comment">// Remove Fel Armor and Demon Armor</span></div>
+<div class="line"><span class="lineno">  250</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76">RemoveAurasWithFamily</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>, 0, 0x20000020, 0, <a class="code hl_variable" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
+<div class="line"><span class="lineno">  251</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a></div><div class="ttdeci">@ SPELLFAMILY_WARLOCK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3799</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:120</div></div>
-<div class="ttc" id="aclassUnit_html_a1560f8912954788c900cab1bfa57ea76"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76">Unit::RemoveAurasWithFamily</a></div><div class="ttdeci">void RemoveAurasWithFamily(SpellFamilyNames family, uint32 familyFlag1, uint32 familyFlag2, uint32 familyFlag3, ObjectGuid casterGUID)</div><div class="ttdef"><b>Definition</b> Unit.cpp:5285</div></div>
+<div class="ttc" id="aclassUnit_html_a1560f8912954788c900cab1bfa57ea76"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76">Unit::RemoveAurasWithFamily</a></div><div class="ttdeci">void RemoveAurasWithFamily(SpellFamilyNames family, uint32 familyFlag1, uint32 familyFlag2, uint32 familyFlag3, ObjectGuid casterGUID)</div><div class="ttdef"><b>Definition</b> Unit.cpp:5335</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05285">Unit::RemoveAurasWithFamily()</a>, and <a class="el" href="../../#l03799">SPELLFAMILY_WARLOCK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05335">Unit::RemoveAurasWithFamily()</a>, and <a class="el" href="../../#l03799">SPELLFAMILY_WARLOCK</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00249">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00253">Register()</a>.</p>
 
 </div>
 </div>
@@ -399,17 +399,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  250</span>    {</div>
-<div class="line"><span class="lineno">  251</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf">spell_warl_demonic_aegis::HandleAuraApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2c530c4b7d2f3b77f65f62395bda9c4a">SPELL_AURA_ADD_PCT_MODIFIER</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  252</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  254</span>    {</div>
+<div class="line"><span class="lineno">  255</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf">spell_warl_demonic_aegis::HandleAuraApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2c530c4b7d2f3b77f65f62395bda9c4a">SPELL_AURA_ADD_PCT_MODIFIER</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  256</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a2c530c4b7d2f3b77f65f62395bda9c4a"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2c530c4b7d2f3b77f65f62395bda9c4a">SPELL_AURA_ADD_PCT_MODIFIER</a></div><div class="ttdeci">@ SPELL_AURA_ADD_PCT_MODIFIER</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:171</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:749</div></div>
-<div class="ttc" id="aclassspell__warl__demonic__aegis_html_a0c17d42095cac3d4cf304df1fc83acbf"><div class="ttname"><a href="../../d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf">spell_warl_demonic_aegis::HandleAuraApply</a></div><div class="ttdeci">void HandleAuraApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:243</div></div>
+<div class="ttc" id="aclassspell__warl__demonic__aegis_html_a0c17d42095cac3d4cf304df1fc83acbf"><div class="ttname"><a href="../../d7/d26/classspell__warl__demonic__aegis.html#a0c17d42095cac3d4cf304df1fc83acbf">spell_warl_demonic_aegis::HandleAuraApply</a></div><div class="ttdeci">void HandleAuraApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:247</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00243">HandleAuraApply()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00171">SPELL_AURA_ADD_PCT_MODIFIER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00247">HandleAuraApply()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00171">SPELL_AURA_ADD_PCT_MODIFIER</a>.</p>
 
 </div>
 </div>
@@ -422,7 +422,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d26/classspell__warl__demonic__aegis.html">spell_warl_demonic_aegis</a></li>
-    <li class="footer">Generated on Fri Nov 28 2025 06:27:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Nov 29 2025 06:24:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

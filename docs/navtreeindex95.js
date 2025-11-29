@@ -1,8 +1,5 @@
 var NAVTREEINDEX95 =
 {
-"d3/d3a/structboss__kagani__nightstrike.html#af1010b7aa7434a92f1168eceda47cc2e":[6,0,564,2],
-"d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html":[6,0,2246,0],
-"d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html#a2d1a90c4f3c5047a41c7e9f80db13a99":[6,0,2246,0,0],
 "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html#a38a3e7e7207bb6d809d03c90e67f7742":[6,0,2246,0,3],
 "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html#a83cca82e7d75231a6aa586f67dad766e":[6,0,2246,0,1],
 "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html#ad5cb7d502138bc067a63a32a583ee99a":[6,0,2246,0,2],
@@ -25,11 +22,11 @@ var NAVTREEINDEX95 =
 "d3/d3f/classspell__item__healing__trance.html#a5dbf2d5e9b31828b79150f40f6033896":[6,0,3264,0],
 "d3/d3f/classspell__item__healing__trance.html#a7afae9d94162490cb40d29159d88f4a8":[6,0,3264,2],
 "d3/d3f/classspell__item__healing__trance.html#a84f326e1353437f29fb051533d3391eb":[6,0,3264,1],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[6,0,4070],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[6,0,4070,3],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[6,0,4070,1],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[6,0,4070,2],
-"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[6,0,4070,0],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html":[6,0,4069],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a2d506669ddc4c84e9ae3eb1746eadce1":[6,0,4069,3],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c":[6,0,4069,1],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#a95bd054accb5b72c4cfb12caccf0e004":[6,0,4069,2],
+"d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a":[6,0,4069,0],
 "d3/d41/classGameObjectModelOwnerImpl.html":[6,0,1089],
 "d3/d41/classGameObjectModelOwnerImpl.html#a3d72c1810a41e2baa7e87ab26f4674f9":[6,0,1089,6],
 "d3/d41/classGameObjectModelOwnerImpl.html#a4a694456955c19e76d8c84befc02c920":[6,0,1089,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX95 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba463a1d9f8a7701ad49c25dba97d6db12":[7,0,0,0,1,2,48,7,0,217],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba46ecb491da4b2287ee5f1098f5929d04":[7,0,0,0,1,2,48,7,0,460],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba47d5c6dd4ddfb5c44a0416966b5450c4":[7,0,0,0,1,2,48,7,0,73],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4861b6ef7b7085e7441605fe7717f938":[7,0,0,0,1,2,48,7,0,505]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4861b6ef7b7085e7441605fe7717f938":[7,0,0,0,1,2,48,7,0,505],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba48ae643b3228e77cd5db2407bc62f271":[7,0,0,0,1,2,48,7,0,106],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba49baaafb8fb8daa657ce6528f8b9c2e9":[7,0,0,0,1,2,48,7,0,91],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4b21319d4d702a911be7762c5bab5da2":[7,0,0,0,1,2,48,7,0,375]
 };

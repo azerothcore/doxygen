@@ -1,10 +1,5 @@
 var NAVTREEINDEX402 =
 {
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a6080f32e1d90fa3e2e7bd9447abbad87":[6,0,728,0,11],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a6d054ec2a0f26f9f3a5b142bacca0ae5":[6,0,728,0,10],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a6f99135eb20d77cca69ec20fe4fbd002":[6,0,728,0,7],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c":[6,0,728,0,6],
-"df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#aa5050ea97f0f92a39f3db856af5cd28e":[6,0,728,0,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#ad2258d2039a789f99ad4c0766726df85":[6,0,728,0,2],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#af96f6054547e377f401972273e6e86aa":[6,0,728,0,4],
 "df/de0/classat__zulgurub__entrance__speech.html":[6,0,256],
@@ -209,12 +204,12 @@ var NAVTREEINDEX402 =
 "df/ded/mechanar_8h.html#afb6eb4f28419b652027fad41104a6d22ad5304d4facdfb5226f04a5934ce10049":[7,0,0,0,1,3,7,5,3,6,4,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[5,0,31,14,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html":[6,0,11,14,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,14,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[5,0,31,14,0,0,2],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,14,0,0,0],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a627bba237bce23aff74fd2bf7a274657":[6,0,11,14,0,0,2],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[6,0,11,14,0,0,0],
-"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,31,14,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#a64fd2e4da7035ea6c01b8ab0819d2f86":[5,0,31,14,0,0,0],
 "df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[6,0,11,14,0,0,1],
+"df/ded/structWorldPackets_1_1WorldState_1_1InitWorldStates_1_1WorldStateInfo.html#afe5a0e98713c986a17f431795c488c6c":[5,0,31,14,0,0,1],
 "df/dee/classBloodboltHitCheck.html":[6,0,361],
 "df/dee/classBloodboltHitCheck.html#a0a5d115c464b6e88bc1158cd858bcbec":[6,0,361,2],
 "df/dee/classBloodboltHitCheck.html#a1eddfd7bbea8def20dcc080413af6364":[6,0,361,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX402 =
 "df/df0/structboss__tavarok.html#a937fc1864eab7fdf23e1be1464d9666d":[6,0,722,1],
 "df/df0/structboss__tavarok.html#acf2e3ec6c28a59b205442c6ed07623af":[6,0,722,0],
 "df/df1/ConditionScript_8cpp.html":[7,0,0,0,1,2,38,0,37],
-"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[7,0,0,0,1,2,38,0,37,0]
+"df/df1/ConditionScript_8cpp.html#af6b3c804d07f366580a1a5b9dd95f5fd":[7,0,0,0,1,2,38,0,37,0],
+"df/df1/structCell.html":[6,0,843],
+"df/df1/structCell.html#a11103acd21fad30d29b9b5a42220fdea":[6,0,843,1],
+"df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[6,0,843,10],
+"df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686":[6,0,843,21],
+"df/df1/structCell.html#a15c6d9e68123ebceaf3520a383f5b7e8":[6,0,843,11]
 };

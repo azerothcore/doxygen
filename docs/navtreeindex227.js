@@ -1,5 +1,8 @@
 var NAVTREEINDEX227 =
 {
+"d8/de1/structCalendarInvite.html#a99b2688691cc1d1da62091be60c3f9ad":[6,0,835,14],
+"d8/de1/structCalendarInvite.html#a9a702608978e5f064c25f07b0037b500":[6,0,835,27],
+"d8/de1/structCalendarInvite.html#a9dc7b0dbcab93de989bf6e3806b9c730":[6,0,835,19],
 "d8/de1/structCalendarInvite.html#ab100ae1e5142fb6d542b0bb7f695501c":[6,0,835,1],
 "d8/de1/structCalendarInvite.html#ab61ee5b537d41a60cac7457acc9fab39":[6,0,835,21],
 "d8/de1/structCalendarInvite.html#abc265fe3f25e9fa2a6ae9094f427c0b0":[6,0,835,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX227 =
 "d8/df3/structSkillStatusData.html#a232801ad25897a82739916d5be4fdc22":[6,0,2554,2],
 "d8/df3/structSkillStatusData.html#a51ccb328b807f2c7fd275d843218f466":[6,0,2554,1],
 "d8/df3/structSkillStatusData.html#a7594ceb20110da34f3aa68ac69996b94":[6,0,2554,0],
-"d8/df4/structnpc__sunblade__arch__mage.html":[6,0,2143],
-"d8/df4/structnpc__sunblade__arch__mage.html#a0d0349ea507b1f8431014c55eef5ce0e":[6,0,2143,2],
-"d8/df4/structnpc__sunblade__arch__mage.html#a25cc45033c55f1099b50eab4b4f497ee":[6,0,2143,0],
-"d8/df4/structnpc__sunblade__arch__mage.html#a3289fbad5f987a3d5d9986a31a1c442f":[6,0,2143,3]
+"d8/df4/structnpc__sunblade__arch__mage.html":[6,0,2143]
 };

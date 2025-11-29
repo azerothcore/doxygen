@@ -1,5 +1,6 @@
 var NAVTREEINDEX264 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#ac3fa044cb8f97b19130eb0644fd422ecad453298ccc9b6b3ab0523dfafb9f548f":[7,0,0,0,1,3,7,13,46,0],
 "da/da4/zone__shadowmoon__valley_8cpp.html#acdf75daa27951ff92fc1ee8b171d064a":[7,0,0,0,1,3,7,13,53],
 "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0":[7,0,0,0,1,3,7,13,43],
 "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a42d86cd1fce27ed52b16e1fa816f2d40":[7,0,0,0,1,3,7,13,43,0],
@@ -134,12 +135,12 @@ var NAVTREEINDEX264 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[6,0,2639,3],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aa6c04279944abd31c42bb5dc4319aaf2":[6,0,2639,4],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2639,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,7,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,31,7,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,7,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,7,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,7,10,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,31,7,10,0],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[6,0,11,7,10,0],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,31,7,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[6,0,11,7,10,2],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,31,7,10,2],
 "da/daf/classspell__contagion__of__rot.html":[6,0,2718],
@@ -243,11 +244,10 @@ var NAVTREEINDEX264 =
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,0,3,0,3,1],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,0,3,0,3,3],
 "da/db5/boss__ambassador__hellmaw_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbaf5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,0,3,0,3,0],
-"da/db5/structlfg_1_1LfgProposal.html":[5,0,18,10],
 "da/db5/structlfg_1_1LfgProposal.html":[6,0,5,10],
+"da/db5/structlfg_1_1LfgProposal.html":[5,0,18,10],
 "da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[6,0,5,10,7],
 "da/db5/structlfg_1_1LfgProposal.html#a12f8574ad017641808e522e1e9fdff49":[5,0,18,10,7],
 "da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[5,0,18,10,10],
-"da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[6,0,5,10,10],
-"da/db5/structlfg_1_1LfgProposal.html#a3f4f1e3120ed950e2272789c757a401f":[5,0,18,10,2]
+"da/db5/structlfg_1_1LfgProposal.html#a3d388b633378c35f0efe5927fa78beef":[6,0,5,10,10]
 };

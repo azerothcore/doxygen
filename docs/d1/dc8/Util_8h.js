@@ -14,7 +14,6 @@ var Util_8h =
     ] ],
     [ "AddPct", "d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee", null ],
     [ "ApplyPct", "d1/dc8/Util_8h.html#acc70a4cd7bafafa527a375b638ee2f9a", null ],
-    [ "ApplyPercentModFloatVar", "d1/dc8/Util_8h.html#adcb1f2b25980bd4c71cb160030213f96", null ],
     [ "AsUnderlyingType", "d1/dc8/Util_8h.html#aa9f8f55551b813f0996c6fd351a4e4be", null ],
     [ "ByteArrayToHexStr", "d1/dc8/Util_8h.html#a559d532d2bfeee7ed59f0b1dbce4e86a", null ],
     [ "ByteArrayToHexStr", "d1/dc8/Util_8h.html#aee21cf91c2a5f1c520d6b01dd6b2e835", null ],

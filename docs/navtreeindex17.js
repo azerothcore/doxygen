@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"d0/db7/classGroup.html#a6961cad4ce9ffb385351a99bb8e3c4a0":[6,0,1230,94],
 "d0/db7/classGroup.html#a6ae8d8bc41a1770558866a505ce4b1a1":[6,0,1230,82],
 "d0/db7/classGroup.html#a70320ddf707b2494d166383c4a354b13":[6,0,1230,64],
 "d0/db7/classGroup.html#a706c9fb13deb5e8801cd1cd2ad7acd26":[6,0,1230,27],
@@ -235,11 +236,11 @@ var NAVTREEINDEX17 =
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#ab15fc7bcd912a6c583d4c219ba37c756":[6,0,1787,0,2],
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#aed6b5cfccbbe258f501b2da5c9dadb40":[6,0,1787,0,5],
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#afa494098126ce3291e234cfc2b36336f":[6,0,1787,0,1],
-"d0/dbb/structWGWorkshopData.html":[6,0,4286],
-"d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4286,3],
-"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4286,2],
-"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4286,1],
-"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4286,0],
+"d0/dbb/structWGWorkshopData.html":[6,0,4284],
+"d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4284,3],
+"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4284,2],
+"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4284,1],
+"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4284,0],
 "d0/dbc/boss__kormok_8cpp.html":[7,0,0,0,1,3,2,8,2],
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,8,2,4],
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1a851e17b984a969719e51b8a39136c6f0":[7,0,0,0,1,3,2,8,2,4,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1af1e07bb745ccec2dbcf6b568b94d6a50":[7,0,0,0,1,3,2,8,2,4,2],
 "d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,8,2,5],
 "d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca2fd19c6b2e0ab87ca1f4d691c32c46f1":[7,0,0,0,1,3,2,8,2,5,2],
-"d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca37d9af20ba1c8ad8f40d3033c02e0066":[7,0,0,0,1,3,2,8,2,5,1],
-"d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca4776c7b99f5ca72877fa01b53ed9b854":[7,0,0,0,1,3,2,8,2,5,7]
+"d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca37d9af20ba1c8ad8f40d3033c02e0066":[7,0,0,0,1,3,2,8,2,5,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0c/classspell__gen__turkey__marker.html#a1bf9f3a1eb52bb64df59b381c412552f":[6,0,3038,5],
+"d6/d0c/classspell__gen__turkey__marker.html#a2e81d03893b23aa8dc9c615683206f75":[6,0,3038,2],
+"d6/d0c/classspell__gen__turkey__marker.html#a6ae104e97dc9c0aa50e115fe1f17e161":[6,0,3038,0],
+"d6/d0c/classspell__gen__turkey__marker.html#ab1dc8acb8072f70625375480742fee5e":[6,0,3038,1],
 "d6/d0c/classspell__gen__turkey__marker.html#ac2f2c8359487ad8c619e9faf8535b927":[6,0,3038,3],
 "d6/d0c/classspell__gen__turkey__marker.html#ac8d762bdb40366c93602497e9aaa42eb":[6,0,3038,6],
 "d6/d0c/classspell__krystallus__shatter__effect.html":[6,0,3381],
@@ -171,10 +175,10 @@ var NAVTREEINDEX162 =
 "d6/d0f/classspell__dk__anti__magic__zone.html#a818875a8073491eab2508182bd941e25":[6,0,2746,3],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[6,0,2746,0],
 "d6/d0f/classspell__dk__anti__magic__zone.html#ac51bad58076a6dfa520fd3e9ea0c76b5":[6,0,2746,6],
-"d6/d0f/classspell__warr__rend.html":[6,0,4029],
-"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[6,0,4029,1],
-"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[6,0,4029,0],
-"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[6,0,4029,2],
+"d6/d0f/classspell__warr__rend.html":[6,0,4028],
+"d6/d0f/classspell__warr__rend.html#a845476e27b3751fd5aab505d41d8696d":[6,0,4028,1],
+"d6/d0f/classspell__warr__rend.html#a94b6fab25e8cb298650f2a1e2d0b4347":[6,0,4028,0],
+"d6/d0f/classspell__warr__rend.html#aa5141f11bcd97cc501297a5309df1079":[6,0,4028,2],
 "d6/d0f/structContainerUnorderedMap.html":[6,0,906],
 "d6/d0f/structContainerUnorderedMap.html#ab18c6fa467deee7af0db888ab94d0ba7":[6,0,906,0],
 "d6/d11/magisters__terrace_8h.html":[7,0,0,0,1,3,2,5,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daac9bbf69aa1b744f9106edbfe7dc927e3":[7,0,0,0,1,3,5,17,17,2],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,17,23],
 "d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca2342fc86e4d2f4811c11c75f70b37f0b":[7,0,0,0,1,3,5,17,23,3],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca501ce8c3a5ee1f583f1ce31104b928c9":[7,0,0,0,1,3,5,17,23,4],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca90e4351e35988c5a11a32d28821b08b1":[7,0,0,0,1,3,5,17,23,1],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca92e3488f1417b738ca6d93942b808f81":[7,0,0,0,1,3,5,17,23,5],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298cab55543b13eee5e5d41f2ee6a1e53b45d":[7,0,0,0,1,3,5,17,23,0],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298caccfa41f14d7418534ed208b0792e7765":[7,0,0,0,1,3,5,17,23,2]
+"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca501ce8c3a5ee1f583f1ce31104b928c9":[7,0,0,0,1,3,5,17,23,4]
 };

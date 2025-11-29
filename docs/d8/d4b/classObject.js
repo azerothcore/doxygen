@@ -18,7 +18,6 @@ var classObject =
     [ "ApplyModSignedFloatValue", "d8/d4b/classObject.html#a00340fbc92fd28dfaa5e945a7f5e5a77", null ],
     [ "ApplyModUInt32Value", "d8/d4b/classObject.html#a830bd94d6366efff27b887ec963c1dab", null ],
     [ "ApplyModUInt64Value", "d8/d4b/classObject.html#a5a9f46e3a7efd2faf3b57b5669112b7f", null ],
-    [ "ApplyPercentModFloatValue", "d8/d4b/classObject.html#aeff5b9b739f39137cb0c5d83a1a50457", null ],
     [ "BuildCreateUpdateBlockForPlayer", "d8/d4b/classObject.html#aec7f6a30d16673ee2c768b13f9e815a5", null ],
     [ "BuildFieldsUpdate", "d8/d4b/classObject.html#a4b62be47cbc5fd5a051e250c363b8bdc", null ],
     [ "BuildMovementUpdate", "d8/d4b/classObject.html#a746a9cdc3aac47c535b8e015fffab93a", null ],

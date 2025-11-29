@@ -1,8 +1,6 @@
 var classAllSpellScript =
 [
     [ "AllSpellScript", "dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
-    [ "CanModAuraEffectDamageDone", "dd/db7/classAllSpellScript.html#a95cc4310fb4bc275c7f467a4d71d790c", null ],
-    [ "CanModAuraEffectModDamagePercentDone", "dd/db7/classAllSpellScript.html#a05230c0a96e7096b64f1bb03acedb337", null ],
     [ "CanPrepare", "dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
     [ "CanScalingEverything", "dd/db7/classAllSpellScript.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
     [ "CanSelectSpecTalent", "dd/db7/classAllSpellScript.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],

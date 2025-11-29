@@ -1,5 +1,14 @@
 var NAVTREEINDEX203 =
 {
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a27e8768422b311f6db16757e167f4102":[6,0,3831,3],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a88a53a855e01b550fbd106ac318a891e":[6,0,3831,1],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,3831,4],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,3831,0],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,3831,2],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,3831,5],
+"d7/dbd/classspell__item__vanquished__clutches.html":[6,0,3331],
+"d7/dbd/classspell__item__vanquished__clutches.html#a80799c42f9f31f49d20d880dd377e3b4":[6,0,3331,1],
+"d7/dbd/classspell__item__vanquished__clutches.html#ab9c732cc91f926331dea6b94c1021801":[6,0,3331,0],
 "d7/dbd/classspell__item__vanquished__clutches.html#ae012e6852f079682fbafc776dec3455b":[6,0,3331,2],
 "d7/dbd/classspell__item__vanquished__clutches.html#afc10f1989ae4b9cff7527f2d73180cde":[6,0,3331,3],
 "d7/dbd/cs__gm_8cpp.html":[7,0,0,0,1,3,0,15],
@@ -240,14 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7cf156d28fec3fe8e6a0e26c54bb80b3":[6,0,1352,0,78],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7ff5d775a2c529fe241bd9f1bf43df7c":[6,0,1352,0,60],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86c743405bc0e33247a6e1799c083ffd":[6,0,1352,0,1],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86cb4831b68f2ece51b179db6fbbc5e2":[6,0,1352,0,28],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a874bdfd7363f66d18956baac99cd1608":[6,0,1352,0,43],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a881215831485df502c95b2ea99f593e4":[6,0,1352,0,2],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a8f797cc9fd11c4483cf900e11b400a7a":[6,0,1352,0,17],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a91024bd6b2f920404fe57644fba255e4":[6,0,1352,0,59],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9d07a85c9bafc1de6fe89ddfa4a9ab92":[6,0,1352,0,11],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a9d5d3a2196cd5df2dbd60f788a3d1ad1":[6,0,1352,0,81],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aa8559d3fe55e322645f3250da89c94d1":[6,0,1352,0,75],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aacc7b7e435a3774849ff9f48673567bb":[6,0,1352,0,42],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aafeceffea207cce074b5c92e3b0c2ff1":[6,0,1352,0,14]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a86cb4831b68f2ece51b179db6fbbc5e2":[6,0,1352,0,28]
 };

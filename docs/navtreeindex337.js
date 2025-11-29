@@ -1,7 +1,5 @@
 var NAVTREEINDEX337 =
 {
-"dd/dcb/instance__the__slave__pens_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,1,4,3],
-"dd/dcb/instance__the__slave__pens_8cpp.html#a41772e574e8da2d2009384c1f312ed92":[7,0,0,0,1,3,7,2,1,4,2],
 "dd/dcb/zulfarrak_8h.html":[7,0,0,0,1,3,4,11,2],
 "dd/dcb/zulfarrak_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,11,2,0],
 "dd/dcb/zulfarrak_8h.html#a66cc3be5310a2efbacb38d2398d8af24":[7,0,0,0,1,3,4,11,2,4],
@@ -52,11 +50,11 @@ var NAVTREEINDEX337 =
 "dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[6,0,926,5],
 "dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[6,0,926,8],
 "dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[6,0,926,2],
-"dd/dcd/structSpellImmune.html":[6,0,4096],
-"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4096,1],
-"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,4096,2],
-"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,4096,0],
-"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,4096,3],
+"dd/dcd/structSpellImmune.html":[6,0,4095],
+"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4095,1],
+"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,4095,2],
+"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,4095,0],
+"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,4095,3],
 "dd/dcd/structboss__moira__bronzebeardAI.html":[6,0,624],
 "dd/dcd/structboss__moira__bronzebeardAI.html#a0df43e5c605783312291bd4ba1921f8c":[6,0,624,1],
 "dd/dcd/structboss__moira__bronzebeardAI.html#a11265b6aad76574c2c76253128c79165":[6,0,624,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX337 =
 "dd/dd4/classBattlegroundEY.html#a3ec3d69561b2490b9da313ab49dfa6c6":[6,0,322,38],
 "dd/dd4/classBattlegroundEY.html#a46ec7660e3436222f3f02974ea6cbb2b":[6,0,322,24],
 "dd/dd4/classBattlegroundEY.html#a4aecc5819c764e9d8877128b4f88c5ee":[6,0,322,26],
-"dd/dd4/classBattlegroundEY.html#a57ad26ba5c2bd943b6cef0b7e1c89047":[6,0,322,20]
+"dd/dd4/classBattlegroundEY.html#a57ad26ba5c2bd943b6cef0b7e1c89047":[6,0,322,20],
+"dd/dd4/classBattlegroundEY.html#a5d5bac36a19271758235be840f78e3c3":[6,0,322,17],
+"dd/dd4/classBattlegroundEY.html#a5ebf4beb2d3209a1256cc422ee3a7bd9":[6,0,322,6]
 };

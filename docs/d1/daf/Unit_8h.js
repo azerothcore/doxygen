@@ -181,12 +181,15 @@ var Unit_8h =
       [ "SPELL_COOLDOWN_FLAG_INCLUDE_GCD", "d1/daf/Unit_8h.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a663e093617d37a13962555e10c530187", null ],
       [ "SPELL_COOLDOWN_FLAG_INCLUDE_EVENT_COOLDOWNS", "d1/daf/Unit_8h.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a072d9616de877b7588d31d2c9c4401ef", null ]
     ] ],
-    [ "UnitModifierType", "d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7ee", [
-      [ "BASE_VALUE", "d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eea6e506f81d8257be9b031ecaf9d9922d1", null ],
-      [ "BASE_PCT", "d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeabb35437d15ab9bfc3b7dbf7bac7c0dee", null ],
-      [ "TOTAL_VALUE", "d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eea85637bc3b7127fbfc1d35d5e3ca4a95c", null ],
-      [ "TOTAL_PCT", "d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eeab3ddc12b0760eec54f45b90b8671af4d", null ],
-      [ "MODIFIER_TYPE_END", "d1/daf/Unit_8h.html#aa21edecdaa2e077b2b87bbe5f2b2e7eea2e5b66d6cacee590c7fd07e13baced5a", null ]
+    [ "UnitModifierFlatType", "d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735", [
+      [ "BASE_VALUE", "d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735a6e506f81d8257be9b031ecaf9d9922d1", null ],
+      [ "TOTAL_VALUE", "d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735a85637bc3b7127fbfc1d35d5e3ca4a95c", null ],
+      [ "MODIFIER_TYPE_FLAT_END", "d1/daf/Unit_8h.html#a03704f1b603948628d253730e5437735a6ffe8acca082a77325b9c052e71775d8", null ]
+    ] ],
+    [ "UnitModifierPctType", "d1/daf/Unit_8h.html#afa85283e60912e924673863b5b94e6dd", [
+      [ "BASE_PCT", "d1/daf/Unit_8h.html#afa85283e60912e924673863b5b94e6ddabb35437d15ab9bfc3b7dbf7bac7c0dee", null ],
+      [ "TOTAL_PCT", "d1/daf/Unit_8h.html#afa85283e60912e924673863b5b94e6ddab3ddc12b0760eec54f45b90b8671af4d", null ],
+      [ "MODIFIER_TYPE_PCT_END", "d1/daf/Unit_8h.html#afa85283e60912e924673863b5b94e6dda4c572258f8ccb9e1c0348832842ae946", null ]
     ] ],
     [ "UnitMods", "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bde", [
       [ "UNIT_MOD_STAT_STRENGTH", "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea7a3c5cbdc3ced891780002389b3dcd8e", null ],
