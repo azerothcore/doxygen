@@ -1,5 +1,9 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#ae886b44b42ac37c4af92beb6c248d19c":[6,0,917,242],
+"db/dd5/classCreature.html#ae922438d0eb927e4c957aa0b7154c736":[6,0,917,163],
+"db/dd5/classCreature.html#aea5e5700aa7fa28c7e611f8483b006c5":[6,0,917,83],
+"db/dd5/classCreature.html#aea83098aeac3585b0b32d9c42c996340":[6,0,917,48],
 "db/dd5/classCreature.html#aeb904f603839b901b04460660c6d2a1d":[6,0,917,44],
 "db/dd5/classCreature.html#aeb92e111672bcbf70e810b0476a782c9":[6,0,917,116],
 "db/dd5/classCreature.html#aebde95fd71657665be8d152d4c3cbd94":[6,0,917,290],
@@ -229,8 +233,8 @@ var NAVTREEINDEX294 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,6,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,11,6,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,31,6,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4119],
@@ -245,9 +249,5 @@ var NAVTREEINDEX294 =
 "db/ddd/structboss__kelidan__the__breaker.html#a4d3f0171b7889a96f19999b28e549866":[6,0,569,3],
 "db/ddd/structboss__kelidan__the__breaker.html#a6774e4a0315b30266f6c55da608cd193":[6,0,569,0],
 "db/ddd/structboss__kelidan__the__breaker.html#adc84fae23d68c0c75ac21c3f3b32973a":[6,0,569,1],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html":[6,0,1628,0],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a2e9833d0d25fd8c442f7ab279de6a40a":[6,0,1628,0,2],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b":[6,0,1628,0,3],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a6928428a9dc1ed483a682c8f2a281ebf":[6,0,1628,0,0],
-"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html#a80d9e586e5c03d19b6b9f0e0f7607b20":[6,0,1628,0,1]
+"db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html":[6,0,1628,0]
 };

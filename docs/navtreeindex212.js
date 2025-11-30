@@ -1,5 +1,7 @@
 var NAVTREEINDEX212 =
 {
+"d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,10,2],
+"d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a010a45ad2e735f90989f4e39464c5bec":[7,0,0,0,1,3,5,7,10,2,6],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a05787e8c78a39e72d5e2d5c6cb2bd8b4":[7,0,0,0,1,3,5,7,10,2,0],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a07172004263a6b92b72d245a194dbf7c":[7,0,0,0,1,3,5,7,10,2,4],
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0e85f3d006f8e80b10e84123458a7db5":[7,0,0,0,1,3,5,7,10,2,8],
@@ -10,8 +12,8 @@ var NAVTREEINDEX212 =
 "d8/d35/boss__noth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef76c8e705ca3ab803b61f80622206b7":[7,0,0,0,1,3,5,7,10,2,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[6,0,0,121],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html":[5,0,1,133],
-"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[6,0,0,121,1],
+"d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a731ee07d028a5ee63ecd14321c83664d":[5,0,1,133,1],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[5,0,1,133,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#a7b19899dd015a73bd1ae4c71fa9ae79d":[6,0,0,121,2],
 "d8/d35/structAcore_1_1WorldObjectSpellNearbyTargetCheck.html#abfec0df490876b2b83dcdee4da75a77f":[5,0,1,133,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX212 =
 "d8/d3e/structEmotesEntry.html":[6,0,1014],
 "d8/d3e/structEmotesEntry.html#a2d319652021081fdb02472c32a28e318":[6,0,1014,0],
 "d8/d3e/structEmotesEntry.html#a3b3b641fbdb8dc88afc2421e358a75a1":[6,0,1014,2],
-"d8/d3e/structEmotesEntry.html#aa1794d3ffd7f7da82f5754e1be580fe9":[6,0,1014,1],
-"d8/d3e/structEmotesEntry.html#ada83e548faa01917a5db19eaa15dbbec":[6,0,1014,3],
-"d8/d40/classnpc__ulduar__emergency__fire__bot.html":[6,0,2217]
+"d8/d3e/structEmotesEntry.html#aa1794d3ffd7f7da82f5754e1be580fe9":[6,0,1014,1]
 };

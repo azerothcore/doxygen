@@ -1,5 +1,7 @@
 var NAVTREEINDEX141 =
 {
+"d5/d0a/classRoll.html#af4877388e7efe95452541a3d2788fa7f":[6,0,2501,7],
+"d5/d0a/classRoll.html#aff97626c4d749bf0acbd165f289b5a57":[6,0,2501,12],
 "d5/d0a/classspell__mage__molten__armor.html":[6,0,3424],
 "d5/d0a/classspell__mage__molten__armor.html#a9c88f86a4edafda286725008ecfeab6c":[6,0,3424,1],
 "d5/d0a/classspell__mage__molten__armor.html#aa8a8c89cf55ab6796a81671d0312a481":[6,0,3424,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX141 =
 "d5/d1c/cs__script__loader_8cpp.html#a8f5ae2609cea7d63d76141e1a5feaf27":[7,0,0,0,1,3,0,39,15],
 "d5/d1c/cs__script__loader_8cpp.html#a8fa1e803122341d611168b2b62fde4e5":[7,0,0,0,1,3,0,39,4],
 "d5/d1c/cs__script__loader_8cpp.html#a95fcb467686a27e069827ed3775df197":[7,0,0,0,1,3,0,39,17],
-"d5/d1c/cs__script__loader_8cpp.html#a97f9cac12c34068d5e63b2ed28ddf9e2":[7,0,0,0,1,3,0,39,9],
-"d5/d1c/cs__script__loader_8cpp.html#a9c7b2cae4f7afb6ae0c9ccc623877625":[7,0,0,0,1,3,0,39,34],
-"d5/d1c/cs__script__loader_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[7,0,0,0,1,3,0,39,32]
+"d5/d1c/cs__script__loader_8cpp.html#a97f9cac12c34068d5e63b2ed28ddf9e2":[7,0,0,0,1,3,0,39,9]
 };

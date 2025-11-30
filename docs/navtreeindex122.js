@@ -1,5 +1,7 @@
 var NAVTREEINDEX122 =
 {
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html":[6,0,1877,0],
+"d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#a237f27260aaa9176d81b67b11d063660":[6,0,1877,0,2],
 "d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#a2f613f1f4fd51dac767b97fd9b96af44":[6,0,1877,0,4],
 "d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#a6790d9c852279624a549f60bf26e1eb2":[6,0,1877,0,5],
 "d4/d38/structnpc__ice__tomb_1_1npc__ice__tombAI.html#a8a7666594e59bdac449f2284387b8e2c":[6,0,1877,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX122 =
 "d4/d3e/classBattlegroundSA.html#ab86d8f8756c28623c3533bbb0e9c6222":[6,0,337,41],
 "d4/d3e/classBattlegroundSA.html#ab88a1d9f53a7f7037f5d273340b271e4":[6,0,337,42],
 "d4/d3e/classBattlegroundSA.html#aca0440f81eab500e1a1a0c916ba58cd2":[6,0,337,11],
-"d4/d3e/classBattlegroundSA.html#ace272ab605489093b54d9754e0cf9cc4":[6,0,337,52],
-"d4/d3e/classBattlegroundSA.html#ad40c8278ad5be3439bb1a9b8480d6232":[6,0,337,33],
-"d4/d3e/classBattlegroundSA.html#ad5892774581d7222c51ef16586baafa8":[6,0,337,17]
+"d4/d3e/classBattlegroundSA.html#ace272ab605489093b54d9754e0cf9cc4":[6,0,337,52]
 };

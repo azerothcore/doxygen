@@ -1,5 +1,10 @@
 var NAVTREEINDEX318 =
 {
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#accf640519e925eccf0230ca4a5dee3bb":[6,0,1322,0,21],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ad93d6be40d07925d1eb485f864c72ace":[6,0,1322,0,14],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ae5a87cc8bfc153aee0f96978f39a1932":[6,0,1322,0,15],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#af4cca13b9039d7c88e7fad1e8f23eb3a":[6,0,1322,0,18],
+"dc/de5/classnpc__commander__eligor__dawnbringer.html":[6,0,1691],
 "dc/de5/classnpc__commander__eligor__dawnbringer.html#a71d919af98464d6d63f948507f3ff08c":[6,0,1691,1],
 "dc/de5/classnpc__commander__eligor__dawnbringer.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d":[6,0,1691,2],
 "dc/de6/classnpc__your__inner__turmoil.html":[6,0,2295],
@@ -244,10 +249,5 @@ var NAVTREEINDEX318 =
 "dc/df5/structGemPropertiesEntry.html#a2e4ee1d687af07445684907d1bcec4f4":[6,0,1097,0],
 "dc/df5/structGemPropertiesEntry.html#a3a6329c8f5caa3cd6e61138339f37f4d":[6,0,1097,2],
 "dc/df5/structGemPropertiesEntry.html#ac125147c2dc5546a0116f48e08f36e59":[6,0,1097,1],
-"dc/df6/classspell__q12919__gymers__throw.html":[6,0,3694],
-"dc/df6/classspell__q12919__gymers__throw.html#a2dc2628984358628afe7d9b62ced7794":[6,0,3694,2],
-"dc/df6/classspell__q12919__gymers__throw.html#ac1237e0af7f88f75ebc551af52fc301c":[6,0,3694,1],
-"dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291":[6,0,3694,0],
-"dc/df7/classspell__alar__ember__blast.html":[6,0,2585],
-"dc/df7/classspell__alar__ember__blast.html#a09d4af96e2d5a69b1b61a6055bcb04d4":[6,0,2585,2]
+"dc/df6/classspell__q12919__gymers__throw.html":[6,0,3694]
 };

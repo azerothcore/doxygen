@@ -1,5 +1,10 @@
 var NAVTREEINDEX391 =
 {
+"df/d98/classspell__moroes__vanish.html#a7be884a657889e1b18d1499c8a053c18":[6,0,3472,2],
+"df/d98/classspell__moroes__vanish.html#a9551867737eea27a9acf2d3d475e9b3c":[6,0,3472,0],
+"df/d98/instance__halls__of__stone_8cpp.html":[7,0,0,0,1,3,5,9,1,5],
+"df/d98/instance__halls__of__stone_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,9,1,5,3],
+"df/d98/instance__halls__of__stone_8cpp.html#a81d8c56de5920b1e73d7955e1c7399ed":[7,0,0,0,1,3,5,9,1,5,2],
 "df/d98/instance__halls__of__stone_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,5,9,1,5,4],
 "df/d98/structnpc__rocknot_1_1npc__rocknotAI.html":[6,0,2086,0],
 "df/d98/structnpc__rocknot_1_1npc__rocknotAI.html#a1d3bce3248766393be5f84c5ca5030b1":[6,0,2086,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX391 =
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a4c223fb4940a0d940061bd9779cf4d1a":[7,0,0,0,1,3,2,27,10,4],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a4f61f95ef790bec07d13d43506e609a5":[7,0,0,0,1,3,2,27,10,9],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a541fac7fba7cf0d178a483c5579f0afe":[7,0,0,0,1,3,2,27,10,8],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,2,27,10,1],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a5e5d9ab46c0d027eaf46f415a86e22f1":[7,0,0,0,1,3,2,27,10,6],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a627aa710b2c5365cac4a29c852845386":[7,0,0,0,1,3,2,27,10,11],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a7e38407fc03f225e550d784702680478":[7,0,0,0,1,3,2,27,10,13],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a9f2d1ca124ea572b3ea9dc6accd181ff":[7,0,0,0,1,3,2,27,10,3],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4ab67c13990cd545e383e96877a2f2c102":[7,0,0,0,1,3,2,27,10,0]
+"df/d9d/zone__isle__of__queldanas_8cpp.html#afa262636400a7c29cb512c78f3c685a4a5d62121fc78e6a1cfc703c5caba40b23":[7,0,0,0,1,3,2,27,10,1]
 };

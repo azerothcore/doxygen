@@ -1,5 +1,7 @@
 var NAVTREEINDEX130 =
 {
+"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6":[7,0,0,0,1,2,3,1,5,1,3],
+"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523":[7,0,0,0,1,2,3,1,5,1,2],
 "d4/d85/classnpc__strangulate__vehicle.html":[6,0,2142],
 "d4/d85/classnpc__strangulate__vehicle.html#a04532bc5902af45b1e9c76cf1cec9add":[6,0,2142,1],
 "d4/d85/classnpc__strangulate__vehicle.html#aa5813442234d7b18fc4e7ed44a0b30bc":[6,0,2142,2],
@@ -88,8 +90,8 @@ var NAVTREEINDEX130 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[6,0,3002,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[6,0,3002,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,3002,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX130 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#ad83b98386fd33a60fbdc607d0680d6f5":[7,0,0,0,1,3,7,1,6,12],
 "d4/d8f/boss__shade__of__akama_8cpp.html#afbf7c0ce84e2b0628f862b9de7d0336d":[7,0,0,0,1,3,7,1,6,13],
 "d4/d8f/classnpc__hor__leader.html":[6,0,1846],
-"d4/d8f/classnpc__hor__leader.html#a55e7357aa6dff1efdff08541e88413e9":[6,0,1846,2],
-"d4/d8f/classnpc__hor__leader.html#a5c8d6cce242d144755fb14879f7f17d3":[6,0,1846,1],
-"d4/d8f/classnpc__hor__leader.html#ab5d01ae2803bab43b2c701d0cb1d4280":[6,0,1846,4]
+"d4/d8f/classnpc__hor__leader.html#a55e7357aa6dff1efdff08541e88413e9":[6,0,1846,2]
 };

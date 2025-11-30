@@ -1,7 +1,7 @@
 var classAsyncAcceptor =
 [
     [ "AcceptCallback", "dc/d89/classAsyncAcceptor.html#a2cea1478f3e8feec141064f3281d422e", null ],
-    [ "AsyncAcceptor", "dc/d89/classAsyncAcceptor.html#adcdbdbb26b47f71e74aeccbc0d96a6c4", null ],
+    [ "AsyncAcceptor", "dc/d89/classAsyncAcceptor.html#ad7f6d43d134ef97e31061c43408c4c17", null ],
     [ "AsyncAccept", "dc/d89/classAsyncAcceptor.html#a0d7a3371b14fa8eecbe30ff73e366398", null ],
     [ "AsyncAcceptWithCallback", "dc/d89/classAsyncAcceptor.html#ae2443c046b245262497e407c9a5b7b3f", null ],
     [ "Bind", "dc/d89/classAsyncAcceptor.html#a91c22b6aba05bc493cfaf28a9203ce84", null ],
@@ -12,5 +12,6 @@ var classAsyncAcceptor =
     [ "_closed", "dc/d89/classAsyncAcceptor.html#a27230b467efdb08dbb9b0c0198db0936", null ],
     [ "_endpoint", "dc/d89/classAsyncAcceptor.html#a06a13b36a9e324bc0b4f4112dbdabebf", null ],
     [ "_socket", "dc/d89/classAsyncAcceptor.html#aef188268de7b2f7447a97aa73ac19ff3", null ],
-    [ "_socketFactory", "dc/d89/classAsyncAcceptor.html#a8ab2ccd6b8cbb7bff0a9d38e0e5d8ad7", null ]
+    [ "_socketFactory", "dc/d89/classAsyncAcceptor.html#a8ab2ccd6b8cbb7bff0a9d38e0e5d8ad7", null ],
+    [ "_supportSocketActivation", "dc/d89/classAsyncAcceptor.html#ae5e66fec6b3a21263be2b87edd5d07dd", null ]
 ];

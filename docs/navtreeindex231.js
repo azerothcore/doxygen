@@ -1,5 +1,7 @@
 var NAVTREEINDEX231 =
 {
+"d9/d1e/structConditionSourceInfo.html#acb67deba44021698a447e8288bca0bd4":[6,0,893,1],
+"d9/d1e/structConditionSourceInfo.html#adc6441ec52fab3ab8d2b58a146a3fef3":[6,0,893,0],
 "d9/d20/classWhoListPlayerInfo.html":[6,0,4287],
 "d9/d20/classWhoListPlayerInfo.html#a1202a6f9ad207c7f1f3a58513278c58a":[6,0,4287,16],
 "d9/d20/classWhoListPlayerInfo.html#a1481e9d9a2e75b7d65ab138434d1586f":[6,0,4287,1],
@@ -216,8 +218,8 @@ var NAVTREEINDEX231 =
 "d9/d32/CombatAI_8cpp.html":[7,0,0,0,1,2,3,0,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[5,0,31,6,25],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html":[6,0,11,6,25],
-"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[6,0,11,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[5,0,31,6,25,1],
+"d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#a91a7883299fe09e08c247c96987a8333":[6,0,11,6,25,1],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[5,0,31,6,25,0],
 "d9/d32/classWorldPackets_1_1Guild_1_1GuildDeleteRank.html#ae21057ea5cc30ed07deaa736149617b3":[6,0,11,6,25,0],
 "d9/d32/structnpc__lady__sylvanas__windrunner__bfu_1_1npc__lady__sylvanas__windrunner__bfuAI.html":[6,0,1919,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,5,0,0,2,7,2],
 "d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f74584ddf248c155adc2c5cee5768c2":[7,0,0,0,1,3,5,0,0,2,7,3],
 "d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1":[7,0,0,0,1,3,5,0,0,2,7,5],
-"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca7bcaf3b04e552ed45c887583483be35c":[7,0,0,0,1,3,5,0,0,2,7,7],
-"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca92e635e57290acbf8ac9efe15d1f99f6":[7,0,0,0,1,3,5,0,0,2,7,1],
-"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca991acb4543678b636e0107910179512d":[7,0,0,0,1,3,5,0,0,2,7,6]
+"d9/d33/boss__elder__nadox_8cpp.html#a5bd342133be8c2137b831460acc9298ca7bcaf3b04e552ed45c887583483be35c":[7,0,0,0,1,3,5,0,0,2,7,7]
 };

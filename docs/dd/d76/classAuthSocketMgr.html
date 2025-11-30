@@ -316,9 +316,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   59</span>        <a class="code hl_function" href="../../dd/d76/classAuthSocketMgr.html#a9c56ed247f209709221a3e592f4d010f">Instance</a>().<a class="code hl_function" href="../../df/d41/classSocketMgr.html#a83b2b85da48d4ffb0e1ed7577dde75c4">OnSocketOpen</a>(std::forward&lt;tcp::socket&gt;(sock), threadIndex);</div>
 <div class="line"><span class="lineno">   60</span>    }</div>
 <div class="ttc" id="aclassAuthSocketMgr_html_a9c56ed247f209709221a3e592f4d010f"><div class="ttname"><a href="../../dd/d76/classAuthSocketMgr.html#a9c56ed247f209709221a3e592f4d010f">AuthSocketMgr::Instance</a></div><div class="ttdeci">static AuthSocketMgr &amp; Instance()</div><div class="ttdef"><b>Definition</b> AuthSocketMgr.h:30</div></div>
-<div class="ttc" id="aclassSocketMgr_html_a83b2b85da48d4ffb0e1ed7577dde75c4"><div class="ttname"><a href="../../df/d41/classSocketMgr.html#a83b2b85da48d4ffb0e1ed7577dde75c4">SocketMgr::OnSocketOpen</a></div><div class="ttdeci">virtual void OnSocketOpen(tcp::socket &amp;&amp;sock, uint32 threadIndex)</div><div class="ttdef"><b>Definition</b> SocketMgr.h:92</div></div>
+<div class="ttc" id="aclassSocketMgr_html_a83b2b85da48d4ffb0e1ed7577dde75c4"><div class="ttname"><a href="../../df/d41/classSocketMgr.html#a83b2b85da48d4ffb0e1ed7577dde75c4">SocketMgr::OnSocketOpen</a></div><div class="ttdeci">virtual void OnSocketOpen(tcp::socket &amp;&amp;sock, uint32 threadIndex)</div><div class="ttdef"><b>Definition</b> SocketMgr.h:94</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00030">Instance()</a>, and <a class="el" href="../../#l00092">SocketMgr&lt; SocketType &gt;::OnSocketOpen()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00030">Instance()</a>, and <a class="el" href="../../#l00094">SocketMgr&lt; SocketType &gt;::OnSocketOpen()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00036">StartNetwork()</a>.</p>
 
@@ -379,10 +379,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   43</span>    }</div>
 <div class="ttc" id="aclassAuthSocketMgr_html_ac8169c9c11a33336d08acb0532e917bc"><div class="ttname"><a href="../../dd/d76/classAuthSocketMgr.html#ac8169c9c11a33336d08acb0532e917bc">AuthSocketMgr::OnSocketAccept</a></div><div class="ttdeci">static void OnSocketAccept(tcp::socket &amp;&amp;sock, uint32 threadIndex)</div><div class="ttdef"><b>Definition</b> AuthSocketMgr.h:57</div></div>
-<div class="ttc" id="aclassSocketMgr_html_a81fc5b0c7bc9750b67ca607ae0cf2c81"><div class="ttname"><a href="../../df/d41/classSocketMgr.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">SocketMgr&lt; AuthSession &gt;::StartNetwork</a></div><div class="ttdeci">virtual bool StartNetwork(Acore::Asio::IoContext &amp;ioContext, std::string const &amp;bindIp, uint16 port, int threadCount)</div><div class="ttdef"><b>Definition</b> SocketMgr.h:38</div></div>
-<div class="ttc" id="aclassSocketMgr_html_af397e6129662d41adeeef25d27a980ea"><div class="ttname"><a href="../../df/d41/classSocketMgr.html#af397e6129662d41adeeef25d27a980ea">SocketMgr&lt; AuthSession &gt;::_acceptor</a></div><div class="ttdeci">std::unique_ptr&lt; AsyncAcceptor &gt; _acceptor</div><div class="ttdef"><b>Definition</b> SocketMgr.h:129</div></div>
+<div class="ttc" id="aclassSocketMgr_html_a81fc5b0c7bc9750b67ca607ae0cf2c81"><div class="ttname"><a href="../../df/d41/classSocketMgr.html#a81fc5b0c7bc9750b67ca607ae0cf2c81">SocketMgr&lt; AuthSession &gt;::StartNetwork</a></div><div class="ttdeci">virtual bool StartNetwork(Acore::Asio::IoContext &amp;ioContext, std::string const &amp;bindIp, uint16 port, int threadCount)</div><div class="ttdef"><b>Definition</b> SocketMgr.h:39</div></div>
+<div class="ttc" id="aclassSocketMgr_html_af397e6129662d41adeeef25d27a980ea"><div class="ttname"><a href="../../df/d41/classSocketMgr.html#af397e6129662d41adeeef25d27a980ea">SocketMgr&lt; AuthSession &gt;::_acceptor</a></div><div class="ttdeci">std::unique_ptr&lt; AsyncAcceptor &gt; _acceptor</div><div class="ttdef"><b>Definition</b> SocketMgr.h:131</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00129">SocketMgr&lt; AuthSession &gt;::_acceptor</a>, <a class="el" href="../../#l00057">OnSocketAccept()</a>, and <a class="el" href="../../#l00038">SocketMgr&lt; AuthSession &gt;::StartNetwork()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">SocketMgr&lt; AuthSession &gt;::_acceptor</a>, <a class="el" href="../../#l00057">OnSocketAccept()</a>, and <a class="el" href="../../#l00039">SocketMgr&lt; AuthSession &gt;::StartNetwork()</a>.</p>
 
 </div>
 </div>
@@ -395,7 +395,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d76/classAuthSocketMgr.html">AuthSocketMgr</a></li>
-    <li class="footer">Generated on Sat Nov 29 2025 06:23:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Nov 30 2025 06:24:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

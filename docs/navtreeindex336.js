@@ -1,5 +1,10 @@
 var NAVTREEINDEX336 =
 {
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d2d704cf6611ae28770ea801039a7e5":[7,0,0,0,1,3,5,9,2,10,22,4],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca3857567972c5e62c0344e37d445a8150":[7,0,0,0,1,3,5,9,2,10,22,17],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f4b8cd8f87524623197ea23d28c08dc":[7,0,0,0,1,3,5,9,2,10,22,14],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786":[7,0,0,0,1,3,5,9,2,10,22,3],
+"dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca6791d75c6ac0d022d5c7ef927a9757af":[7,0,0,0,1,3,5,9,2,10,22,8],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,5,9,2,10,22,1],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e439cf66405c1d716b0743793f0f488":[7,0,0,0,1,3,5,9,2,10,22,0],
 "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa20fd32a182cc6cee137043c79cb3c95":[7,0,0,0,1,3,5,9,2,10,22,5],
@@ -244,10 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dcb/classChaseMovementGenerator.html#ac98da5e0e4e4bb24d67ce554095b0bd1":[6,0,867,0],
 "dd/dcb/classChaseMovementGenerator.html#ad3100749f673d40913020f0d1df1e692":[6,0,867,13],
 "dd/dcb/classChaseMovementGenerator.html#ae525659d62dc022ffcc03566ad23a01f":[6,0,867,24],
-"dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6":[6,0,867,21],
-"dd/dcb/classChaseMovementGenerator.html#aec3c7041a4e18d8e6baf6bef984077c9":[6,0,867,12],
-"dd/dcb/classChaseMovementGenerator.html#af9d77d78ac8771e18fbaa463ce6ab29b":[6,0,867,2],
-"dd/dcb/instance__the__slave__pens_8cpp.html":[7,0,0,0,1,3,7,2,1,4],
-"dd/dcb/instance__the__slave__pens_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,1,4,3],
-"dd/dcb/instance__the__slave__pens_8cpp.html#a41772e574e8da2d2009384c1f312ed92":[7,0,0,0,1,3,7,2,1,4,2]
+"dd/dcb/classChaseMovementGenerator.html#ae8b22a656504e59f45bb1fcf80f9a9b6":[6,0,867,21]
 };

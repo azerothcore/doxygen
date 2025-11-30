@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"d5/dca/classspell__claw__rage__aura.html#aa541a8bc034517d1f5d034ac51bd8dac":[6,0,2713,0],
+"d5/dca/classspell__claw__rage__aura.html#abc166e4dc33e7bffd1d53c2ef8272efa":[6,0,2713,1],
 "d5/dcc/classboss__thorim__sif__blizzard.html":[6,0,744],
 "d5/dcc/classboss__thorim__sif__blizzard.html#acc42b4c9434f9eece2d93c2e4f3697fc":[6,0,744,1],
 "d5/dcc/classboss__thorim__sif__blizzard.html#afbff96363951c952a195f5c2a105e279":[6,0,744,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,3,3,8,1],
 "d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,3,3,7],
 "d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca0790a488341485a332d571e5e3b6a4ff":[7,0,0,0,1,3,5,3,3,7,5],
-"d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fd42eb8ba202f2ac6d9c6db6e59a8de":[7,0,0,0,1,3,5,3,3,7,6],
-"d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b821046f3f8c38241b1b3a9a2153a19":[7,0,0,0,1,3,5,3,3,7,2],
-"d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca855eb4ded5cc72d051020c4570ab3f72":[7,0,0,0,1,3,5,3,3,7,0]
+"d5/dd1/boss__trollgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca0fd42eb8ba202f2ac6d9c6db6e59a8de":[7,0,0,0,1,3,5,3,3,7,6]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX233 =
 {
+"d9/d44/classspell__xt002__gravity__bomb.html#a1c55fabe15cdccb073e109e1d0f6e6ad":[6,0,4050,2],
+"d9/d44/classspell__xt002__gravity__bomb.html#a525025d429743f9d606289ca1a660796":[6,0,4050,0],
 "d9/d44/classspell__xt002__gravity__bomb.html#a66f565c07d495f27aaba393fdcce9d24":[6,0,4050,1],
 "d9/d44/structboss__ignis_1_1boss__ignisAI.html":[6,0,546,0],
 "d9/d44/structboss__ignis_1_1boss__ignisAI.html#a0301c4e7ef8b0789548a7a5a738ab69b":[6,0,546,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a143d2cd7d70384c0e164dba58c087c5d":[6,0,1349,0,4],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a154e2a171bd8fff244fcc640dc2fe705":[6,0,1349,0,24],
 "d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a179902f20d47e3916a2a5b4d52d34728":[6,0,1349,0,27],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a29cfd8b261f0ba2faed7248dbf848c1d":[6,0,1349,0,29],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a2b33e3a1175daa94d5660087a8354f23":[6,0,1349,0,6],
-"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a45e98ac906c7b587720835df65642e6e":[6,0,1349,0,20]
+"d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a29cfd8b261f0ba2faed7248dbf848c1d":[6,0,1349,0,29]
 };

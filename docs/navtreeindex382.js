@@ -1,5 +1,10 @@
 var NAVTREEINDEX382 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a863a74d6c8210563e247ec37f1870592":[7,0,0,0,1,2,16,5,0,4,6,0],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8721e93523201439f930180b89cbfefe":[7,0,0,0,1,2,16,5,0,4,6,154],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a88d3ddabf630abb38e7c768850e458cd":[7,0,0,0,1,2,16,5,0,4,6,73],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a89f1b8c28d6c8813b9ece7c17144995c":[7,0,0,0,1,2,16,5,0,4,6,30],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8a4774bff9e2c26fe65610992b9bfb37":[7,0,0,0,1,2,16,5,0,4,6,47],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8af7de7a2b3c0992dc8213791c26a62d":[7,0,0,0,1,2,16,5,0,4,6,152],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8b23055881dd722768e948bd8794c28a":[7,0,0,0,1,2,16,5,0,4,6,153],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a8eb9340439fd9be9087bd0c6b79f3f18":[7,0,0,0,1,2,16,5,0,4,6,294],
@@ -241,13 +246,8 @@ var NAVTREEINDEX382 =
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html":[5,0,1,99],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[6,0,0,87,2],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#a313cd0450096e49716bfb52f8f238bfc":[5,0,1,99,2],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[5,0,1,99,1],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,99,0],
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aaa5023735568f6df28a177fbd9ed866e":[6,0,0,87,1],
 "df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[6,0,0,87,0],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[5,0,1,99,3],
-"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#aec421fd45a60545bf92b7236e0d0b360":[6,0,0,87,3],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html":[6,0,3173],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a64cf56299c8ab5292dbc9cddcee5f841":[6,0,3173,2],
-"df/d25/classspell__igb__periodic__trigger__with__power__cost__aura.html#a9962029ce4a5223d7aa05068e8d83326":[6,0,3173,1]
+"df/d25/classAcore_1_1ObjectDistanceOrderPred.html#adced3fdc6d99b7506361eb7700fa4cec":[5,0,1,99,0]
 };

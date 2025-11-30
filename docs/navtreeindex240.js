@@ -1,5 +1,9 @@
 var NAVTREEINDEX240 =
 {
+"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1":[6,0,2070,0],
+"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd":[6,0,2070,0,0],
+"d9/d8c/structnpc__rancid__mushroom.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5":[6,0,2070,0,1],
+"d9/d8c/structnpc__rancid__mushroom.html#afff169ff9d7a8411cf6d21f4f9be2545":[6,0,2070,2],
 "d9/d8d/classachievement__algalon__herald__of__the__titans.html":[6,0,29],
 "d9/d8d/classachievement__algalon__herald__of__the__titans.html#a13c75b878f4669d212eeb09b55336384":[6,0,29,0],
 "d9/d8d/classachievement__algalon__herald__of__the__titans.html#a20811d7bb453b1758967c11545e630e9":[6,0,29,1],
@@ -235,19 +239,15 @@ var NAVTREEINDEX240 =
 "d9/d99/classspell__gen__basic__campfire.html#a6919079b43a816eb601a68c51ad39794":[6,0,2917,3],
 "d9/d99/classspell__gen__basic__campfire.html#a7b0446133750fce7eda19dbde5abb3b1":[6,0,2917,2],
 "d9/d99/classspell__gen__basic__campfire.html#afe0fb68de61a657ce6900e71973e4d77":[6,0,2917,0],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[5,0,1,8,1,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[6,0,0,5,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,1,8,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,1,8,1,0,3],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[6,0,0,5,1,0,0],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,1,8,1,0,0],
-"d9/d9b/classHostileReference.html":[6,0,1272],
-"d9/d9b/classHostileReference.html#a0046c9cb12992bbd97ef2780ce9810e5":[6,0,1272,25],
-"d9/d9b/classHostileReference.html#a01a3eea64dc3132bc463a0f701800d76":[6,0,1272,9],
-"d9/d9b/classHostileReference.html#a0588a24578dfe8351b8c3bd62a0c1324":[6,0,1272,10],
-"d9/d9b/classHostileReference.html#a2c8e51b8367285f9275e726264cfe602":[6,0,1272,26]
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[6,0,0,5,1,0,0],
+"d9/d9b/classHostileReference.html":[6,0,1272]
 };

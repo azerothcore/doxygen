@@ -1,5 +1,9 @@
 var NAVTREEINDEX244 =
 {
+"d9/dcf/classspell__thaddius__polarity__shift.html#aa87e57dabec6e83029f4dd84913f22ca":[6,0,3879,3],
+"d9/dcf/classspell__thaddius__polarity__shift.html#ac816f81a668ac3018be8f5dc4698039b":[6,0,3879,0],
+"d9/dcf/classspell__thaddius__polarity__shift.html#aca38f23f080314ab73ec2494bf877716":[6,0,3879,2],
+"d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[6,0,3879,4],
 "d9/dd0/QueryHolder_8h.html":[7,0,0,0,1,1,0,27],
 "d9/dd0/classspell__sha__bloodlust.html":[6,0,3785],
 "d9/dd0/classspell__sha__bloodlust.html#a0451b75aa962065a01a5806992e01b16":[6,0,3785,3],
@@ -160,18 +164,18 @@ var NAVTREEINDEX244 =
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208":[7,0,0,0,1,3,4,28,11,8],
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21":[7,0,0,0,1,3,4,28,11,4],
 "d9/ddc/zone__the__barrens_8cpp.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217":[7,0,0,0,1,3,4,28,11,0],
-"d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,79],
 "d9/ddd/classAcore_1_1IteratorPair.html":[6,0,0,67],
-"d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,79,1],
+"d9/ddd/classAcore_1_1IteratorPair.html":[5,0,1,79],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,67,1],
-"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
+"d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,79,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
+"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,79,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,67,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,79,4],
-"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,79,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,67,0],
+"d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,79,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,67,2],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[5,0,1,79,2],
 "d9/dde/classAuraScript_1_1EffectCalcSpellModHandler.html":[6,0,288,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX244 =
 "d9/de9/classspell__frog__kiss.html#a0aab07a4950f60a290491aa13103b332":[6,0,2885,2],
 "d9/de9/classspell__frog__kiss.html#a7fec959237546201ea94d5f87068e1c5":[6,0,2885,0],
 "d9/de9/classspell__frog__kiss.html#a92d5493a43fca5c54ef89cb19ce00aa2":[6,0,2885,3],
-"d9/de9/classspell__frog__kiss.html#ae0c3eafc8b227078a2dcaccf1c0a278b":[6,0,2885,1],
-"d9/dea/classEntryCheckPredicate.html":[6,0,1019],
-"d9/dea/classEntryCheckPredicate.html#a23365e4591c0906f5d04db7dc6599fbf":[6,0,1019,0],
-"d9/dea/classEntryCheckPredicate.html#aa83f4537369e740de2d689252409d269":[6,0,1019,2],
-"d9/dea/classEntryCheckPredicate.html#ab384b205f8a719e1b5b0d0ab00575313":[6,0,1019,1]
+"d9/de9/classspell__frog__kiss.html#ae0c3eafc8b227078a2dcaccf1c0a278b":[6,0,2885,1]
 };

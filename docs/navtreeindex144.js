@@ -1,5 +1,7 @@
 var NAVTREEINDEX144 =
 {
+"d5/d44/structnpc__ouro__spawner.html#a722dada5bf97c730462a0de2b082d5ff":[6,0,2003,1],
+"d5/d44/structnpc__ouro__spawner.html#a83c0972db4435ccf1af069574e4056f4":[6,0,2003,2],
 "d5/d44/structnpc__ouro__spawner.html#ac1591f1c172bfdda25b020e00cd0835e":[6,0,2003,3],
 "d5/d44/structnpc__ouro__spawner.html#acb18739e5a1734312ffdda35321e5f34":[6,0,2003,0],
 "d5/d45/classspell__warl__seed__of__corruption__damage.html":[6,0,4001],
@@ -247,7 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a533118fbcd357abdeaf51612f062a229":[7,0,0,0,1,3,5,7,7,9,11],
 "d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a5b7a3e39f77554293c635eff979dcc93":[7,0,0,0,1,3,5,7,7,9,10],
 "d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a60a0a350aa048fbcdccc326738b37b81":[7,0,0,0,1,3,5,7,7,9,12],
-"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7308f9eb202cbc0502045a3fc3cad082":[7,0,0,0,1,3,5,7,7,9,0],
-"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a844de7ae64876d1f9b3b4df6afe6794a":[7,0,0,0,1,3,5,7,7,9,8],
-"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,7,7,9,3]
+"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7308f9eb202cbc0502045a3fc3cad082":[7,0,0,0,1,3,5,7,7,9,0]
 };

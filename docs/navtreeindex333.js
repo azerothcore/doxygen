@@ -1,5 +1,10 @@
 var NAVTREEINDEX333 =
 {
+"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0e5aeaf409be8f9dabf1f577ed9930f3":[7,0,0,0,1,3,5,8,1,0,3,4],
+"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7fd22259ac2f55edd6fc2b9e91e3f1d9":[7,0,0,0,1,3,5,8,1,0,3,3],
+"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c8da4467139a401695c6d198a881b25":[7,0,0,0,1,3,5,8,1,0,3,1],
+"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e2dfa5bf1445d38702a7028e447be03":[7,0,0,0,1,3,5,8,1,0,3,0],
+"dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ade340f8659eddf57af5cdf36fb534649":[7,0,0,0,1,3,5,8,1,0,3,2],
 "dd/dab/boss__sjonnir_8cpp.html":[7,0,0,0,1,3,5,9,1,2],
 "dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0":[7,0,0,0,1,3,5,9,1,2,10],
 "dd/dab/boss__sjonnir_8cpp.html#a03ee9631d7a410d73efbaf3988702dd0a0e0198fa464cfacb9e482809f392cb6a":[7,0,0,0,1,3,5,9,1,2,10,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX333 =
 "dd/dae/boss__erekem_8cpp.html#a88a86dcfb5795bb62d1c6e0c137def92":[7,0,0,0,1,3,5,12,1,7],
 "dd/dae/boss__erekem_8cpp.html#a88a86dcfb5795bb62d1c6e0c137def92a0ca6c85b8c999d46bdef77a0385157c3":[7,0,0,0,1,3,5,12,1,7,2],
 "dd/dae/boss__erekem_8cpp.html#a88a86dcfb5795bb62d1c6e0c137def92a62fb731794d300ebfed2f7086668a84b":[7,0,0,0,1,3,5,12,1,7,1],
-"dd/dae/boss__erekem_8cpp.html#a88a86dcfb5795bb62d1c6e0c137def92a630d4b53bf504910d04de7f49bdc89b1":[7,0,0,0,1,3,5,12,1,7,0],
-"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,12,1,6],
-"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a26278beba22bdae2a5840ff4c364d87a":[7,0,0,0,1,3,5,12,1,6,0],
-"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a2ebc764a08cc1d08045321a6144f533f":[7,0,0,0,1,3,5,12,1,6,6],
-"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a341114e9f9e6033408140a307758d4d5":[7,0,0,0,1,3,5,12,1,6,1],
-"dd/dae/boss__erekem_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ec56ce8fc81edae2609aecfa3490633":[7,0,0,0,1,3,5,12,1,6,2]
+"dd/dae/boss__erekem_8cpp.html#a88a86dcfb5795bb62d1c6e0c137def92a630d4b53bf504910d04de7f49bdc89b1":[7,0,0,0,1,3,5,12,1,7,0]
 };

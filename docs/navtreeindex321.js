@@ -1,5 +1,10 @@
 var NAVTREEINDEX321 =
 {
+"dd/d16/classnpc__onyx__flamecaller.html#af27af3cb3bbaba0801481ba77a94f9c6":[6,0,1999,1],
+"dd/d16/classnpc__razael__and__lyana.html":[6,0,2076],
+"dd/d16/classnpc__razael__and__lyana.html#a407d8344280e8e38efb3991fda1d52cd":[6,0,2076,2],
+"dd/d16/classnpc__razael__and__lyana.html#a9c9085db92853d5275c12e804a68b0fc":[6,0,2076,1],
+"dd/d16/classnpc__razael__and__lyana.html#aec7257a1136a3580e2b4542e032429d6":[6,0,2076,0],
 "dd/d16/classspell__deliver__gryphon.html":[6,0,2735],
 "dd/d16/classspell__deliver__gryphon.html#a29bf5a9615e02281f426bf521a045567":[6,0,2735,3],
 "dd/d16/classspell__deliver__gryphon.html#a996ea344ea2a3312cb8886565b80972d":[6,0,2735,2],
@@ -91,16 +96,16 @@ var NAVTREEINDEX321 =
 "dd/d1a/classnpc__vortex__ride.html":[6,0,2268],
 "dd/d1a/classnpc__vortex__ride.html#a23ef53feb432127db2620810a55d02ff":[6,0,2268,2],
 "dd/d1a/classnpc__vortex__ride.html#ad794cda407c9dfc35dd9bc2724f5014a":[6,0,2268,1],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,55],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[5,0,1,67],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html":[6,0,0,55],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[5,0,1,67,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a06607ffa0ebf51c230f4584632a7444a":[6,0,0,55,0],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[5,0,1,67,3],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#a0afc07e086f5aa3301c2b46a0004213e":[6,0,0,55,3],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[6,0,0,55,2],
-"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#ace009546c2dcc6dac5de98b3c34152a5":[5,0,1,67,2],
 "dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[6,0,0,55,1],
+"dd/d1b/classAcore_1_1GameObjectFocusCheck.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b":[5,0,1,67,1],
 "dd/d1b/classhonor__commandscript.html":[6,0,1269],
 "dd/d1b/classhonor__commandscript.html#a03caa77b436e3d513e1325badf05df33":[6,0,1269,2],
 "dd/d1b/classhonor__commandscript.html#a11831a3ea577f3f1e06fea3d0dbc0147":[6,0,1269,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d25/classGuildScript.html#a9f2e849a2fb4a1cb901080f129692482":[6,0,1256,0],
 "dd/d25/classGuildScript.html#aae0601f04ec90533bb7699c68f68fe8f":[6,0,1256,2],
 "dd/d25/classGuildScript.html#ac5886f63fbc5da499843677339f4944b":[6,0,1256,12],
-"dd/d25/classGuildScript.html#acfc89fe841629beca8de15c23c48a6c7":[6,0,1256,5],
-"dd/d25/classGuildScript.html#ad0733568cee8ded5c89d8404166201bb":[6,0,1256,7],
-"dd/d26/SocialMgr_8cpp.html":[7,0,0,0,1,2,16,7,15],
-"dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,87],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,11,9,11],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,31,9,11]
+"dd/d25/classGuildScript.html#acfc89fe841629beca8de15c23c48a6c7":[6,0,1256,5]
 };

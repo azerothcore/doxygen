@@ -1,14 +1,16 @@
 var NAVTREEINDEX152 =
 {
+"d5/db0/classVMAP_1_1WorldModel.html#ae44c57520cea5da5a5f082167e9f818d":[5,0,28,27,9],
 "d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[6,0,9,27,1],
-"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,28,27,8],
+"d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[5,0,28,27,1],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[6,0,9,27,8],
+"d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,28,27,8],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[5,0,28,3],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[6,0,9,3],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[5,0,28,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,9,3,0],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,28,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[5,0,28,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[6,0,9,3,1],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,28,3,1],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html":[6,0,1961],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html#aacb82b08ec0fef0f53d7e251e010abd8":[6,0,1961,0],
 "d5/db2/BattlegroundWS_8h.html":[7,0,0,0,1,2,8,1,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX152 =
 "d5/db6/classWheatyExceptionReport.html#a9b36f5d8489818de9d3601fd39eac863":[6,0,4285,6],
 "d5/db6/classWheatyExceptionReport.html#a9f733c32a4d9e4ebc1580bd254232fd9":[6,0,4285,28],
 "d5/db6/classWheatyExceptionReport.html#aade407b85515c89056b7461a2f5c6922":[6,0,4285,34],
-"d5/db6/classWheatyExceptionReport.html#ab19d2eafd05c3853bd884a909ff12039":[6,0,4285,36],
-"d5/db6/classWheatyExceptionReport.html#ab215dff57975ebae623e27d690969deb":[6,0,4285,30],
-"d5/db6/classWheatyExceptionReport.html#ab5e938fa100c4c7288b808f511ede6cf":[6,0,4285,4]
+"d5/db6/classWheatyExceptionReport.html#ab19d2eafd05c3853bd884a909ff12039":[6,0,4285,36]
 };

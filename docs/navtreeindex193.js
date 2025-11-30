@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d83/structAuctionEntry.html#adf2b61be66a9afc7114198fe993d526d":[6,0,259,21],
+"d7/d83/structboss__nexusprince__shaffar.html":[6,0,640],
 "d7/d83/structboss__nexusprince__shaffar.html#a147500575a3821262ec718ec023b458c":[6,0,640,8],
 "d7/d83/structboss__nexusprince__shaffar.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a":[6,0,640,10],
 "d7/d83/structboss__nexusprince__shaffar.html#a2e861fb53bca7a40e967971b5e7be533":[6,0,640,0],
@@ -238,16 +240,14 @@ var NAVTREEINDEX193 =
 "d7/d91/classspell__q12277__wintergarde__mine__explosion.html#ae80dda98f66c1fbaa37741ffd52a1108":[6,0,3666,1],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[5,0,1,2,0],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[6,0,0,1,0],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[6,0,0,1,0,3],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,1,2,0,3],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[6,0,0,1,0,3],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[6,0,0,1,0,8],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[5,0,1,2,0,8],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[6,0,0,1,0,4],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[5,0,1,2,0,4],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[5,0,1,2,0,1],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[6,0,0,1,0,4],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[6,0,0,1,0,1],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[5,0,1,2,0,7],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[5,0,1,2,0,1],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[6,0,0,1,0,7],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[5,0,1,2,0,2],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[6,0,0,1,0,2]
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[5,0,1,2,0,7]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX229 =
 {
+"d8/dff/structCalendarEvent.html#a675e81ccb93620db0d6fb808a8621fdf":[6,0,834,20],
+"d8/dff/structCalendarEvent.html#a7071188f10921377652356a7cd0fe893":[6,0,834,28],
 "d8/dff/structCalendarEvent.html#a70f53e59d54ad4a71013d3000f797c5a":[6,0,834,24],
 "d8/dff/structCalendarEvent.html#a712890e4823f1e456493c386389839a0":[6,0,834,9],
 "d8/dff/structCalendarEvent.html#a7645e983f30557294542e7595eeb4117":[6,0,834,34],
@@ -35,12 +37,12 @@ var NAVTREEINDEX229 =
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html":[6,0,0,4,8],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[6,0,0,4,8,3],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a085e0aa9f79129920af96046c4fc29b1":[5,0,1,7,8,3],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,1,7,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[6,0,0,4,8,0],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,1,7,8,1],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a110169c51e3dac271b4ba6d10bbbadac":[5,0,1,7,8,0],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[6,0,0,4,8,1],
-"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,1,7,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a":[5,0,1,7,8,1],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[6,0,0,4,8,4],
+"d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a2b0ca4fecc7ba965a329afa6a184cf07":[5,0,1,7,8,4],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[5,0,1,7,8,2],
 "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a6c48d3a6afddf895b97ec9b964dfd86c":[6,0,0,4,8,2],
 "d9/d01/structGtChanceToMeleeCritEntry.html":[6,0,1239],
@@ -247,7 +249,5 @@ var NAVTREEINDEX229 =
 "d9/d03/structModelHeader.html#a33235bfc26175f4501be9aeb15108e90":[6,0,1519,21],
 "d9/d03/structModelHeader.html#a33db3d192ebfbb5fe234ca6dde190ce9":[6,0,1519,56],
 "d9/d03/structModelHeader.html#a34a67fbb25e95f0cc922d2fbe995bf47":[6,0,1519,55],
-"d9/d03/structModelHeader.html#a397348cf8eafacf35ff5f84cbfce1b34":[6,0,1519,22],
-"d9/d03/structModelHeader.html#a407fa00865c91fce4365c9aa35e17276":[6,0,1519,29],
-"d9/d03/structModelHeader.html#a41753e7b46dd3129e35841dea900f133":[6,0,1519,13]
+"d9/d03/structModelHeader.html#a397348cf8eafacf35ff5f84cbfce1b34":[6,0,1519,22]
 };

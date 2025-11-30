@@ -1,5 +1,10 @@
 var NAVTREEINDEX317 =
 {
+"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[6,0,3738,1],
+"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[6,0,3738,0],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html":[7,0,0,0,1,3,7,0,0,2],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a21f33e61c0482aa12f745f4ccbea2b46":[7,0,0,0,1,3,7,0,0,2,4],
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,0,0,2,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a576afb99f0907bf50b3c043106144a98":[7,0,0,0,1,3,7,0,0,2,2,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5c5a151a48a7f026b26578216951756a":[7,0,0,0,1,3,7,0,0,2,2,1],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac025c81ee539177e76f15b9738640420":[7,0,0,0,1,3,7,0,0,2,2,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX317 =
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#aad60cffd6c483bf4610884c3b99ad39c":[6,0,1322,0,17],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ab4a87ca38d203deacc377579e66e5bfb":[6,0,1322,0,22],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ac5086f399b9d36769632a983890ed576":[6,0,1322,0,5],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ac969f1faf18633ad54354015fb66f4f8":[6,0,1322,0,3],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#accf640519e925eccf0230ca4a5dee3bb":[6,0,1322,0,21],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ad93d6be40d07925d1eb485f864c72ace":[6,0,1322,0,14],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ae5a87cc8bfc153aee0f96978f39a1932":[6,0,1322,0,15],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#af4cca13b9039d7c88e7fad1e8f23eb3a":[6,0,1322,0,18],
-"dc/de5/classnpc__commander__eligor__dawnbringer.html":[6,0,1691]
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#ac969f1faf18633ad54354015fb66f4f8":[6,0,1322,0,3]
 };

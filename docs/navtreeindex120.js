@@ -1,5 +1,7 @@
 var NAVTREEINDEX120 =
 {
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a5bd342133be8c2137b831460acc9298cadefef1415deef4d3924af79d3a5078eb":[7,0,0,0,1,3,7,4,3,3,6,2],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#ac067b2628f6d2b9e977f96710b7e4348":[7,0,0,0,1,3,7,4,3,3,10],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#acafc38a049cd1f64588bdb4e0e6c28a0":[7,0,0,0,1,3,7,4,3,3,7],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#af15910a401b19f3cc0b637b36cc198a3":[7,0,0,0,1,3,7,4,3,3,9],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html":[6,0,458,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a7377a456730e145b98c742bbca47da29":[7,0,0,0,1,3,5,9,0,1,5,2],
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3ac10ff9ea929d6a53f3168f96362d13f5":[7,0,0,0,1,3,5,9,0,1,5,1],
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3acbe24a984f278f1c76119e8c3fbbe6a3":[7,0,0,0,1,3,5,9,0,1,5,3],
-"d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3adc9a5908888fbc2ecc5805c4d80cbda1":[7,0,0,0,1,3,5,9,0,1,5,6],
-"d4/d2b/structMySQLType_3_01int64_01_4.html":[6,0,1550],
-"d4/d2c/classboss__twilight__halion.html":[6,0,752]
+"d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3adc9a5908888fbc2ecc5805c4d80cbda1":[7,0,0,0,1,3,5,9,0,1,5,6]
 };

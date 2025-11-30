@@ -1,5 +1,9 @@
 var NAVTREEINDEX271 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a668084cc1f8c66aad210107b4ab94bdb":[7,0,0,0,1,3,5,2,1,7,5,59],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b":[7,0,0,0,1,3,5,2,1,7,5,0],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129":[7,0,0,0,1,3,5,2,1,7,5,20],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a764bfe23208bc91b99a48bad7a6fb571":[7,0,0,0,1,3,5,2,1,7,5,2],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a78936e290d45a26f59971acdf3e326db":[7,0,0,0,1,3,5,2,1,7,5,34],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a79b16b1b80dc9aabd701e1abe3339225":[7,0,0,0,1,3,5,2,1,7,5,51],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7a1ad637392d984f02ff67fbe6546f5c":[7,0,0,0,1,3,5,2,1,7,5,41],
@@ -245,9 +249,5 @@ var NAVTREEINDEX271 =
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298ca6258f28c34841ae8c348b51f0a6c5786":[7,0,0,0,1,3,2,1,1,2,5,2],
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298caa72ede58fa3714726fab8d4b7252f5fa":[7,0,0,0,1,3,2,1,1,2,5,4],
 "da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298cad65dc3cbe848ba056623736805b0589e":[7,0,0,0,1,3,2,1,1,2,5,7],
-"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298cafe1d05bb1cb31d670f894f0b7c04c6b4":[7,0,0,0,1,3,2,1,1,2,5,1],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,2,3],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,2,1,1,2,3,2],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23d93f48d54ba45b0e91f20df0298e10":[7,0,0,0,1,3,2,1,1,2,3,4],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[7,0,0,0,1,3,2,1,1,2,3,3]
+"da/df2/boss__gyth_8cpp.html#a5bd342133be8c2137b831460acc9298cafe1d05bb1cb31d670f894f0b7c04c6b4":[7,0,0,0,1,3,2,1,1,2,5,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX375 =
 {
+"de/dd0/classboss__lord__valthalak.html#a180ecb2e2b11ee79c80de18124de3dbc":[6,0,599,1],
+"de/dd0/classboss__lord__valthalak.html#a771bd8ff3918d71007b5e4b05baf3df3":[6,0,599,2],
+"de/dd1/classCastRunesEvent.html":[6,0,842],
+"de/dd1/classCastRunesEvent.html#a308c679c6e427e89734b5f506ad9d0d6":[6,0,842,2],
+"de/dd1/classCastRunesEvent.html#aa3c5912362a4ce8a5b463da626f277b0":[6,0,842,0],
 "de/dd1/classCastRunesEvent.html#ad86f17817c8a5accb1cc90e0e5d362f3":[6,0,842,1],
 "de/dd1/classnpc__maredis__firestar.html":[6,0,1949],
 "de/dd1/classnpc__maredis__firestar.html#a91015d70203597db3dda10b695565740":[6,0,1949,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX375 =
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca21d2702c1c121e1139359d986fbab12a":[7,0,0,0,1,3,5,6,9,41,29],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca298078eb33598580f0178446c4ba3f89":[7,0,0,0,1,3,5,6,9,41,9],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca34fd622a327eb24ea9723522639b5fae":[7,0,0,0,1,3,5,6,9,41,11],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,6,9,41,26],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca40c273d24661de99cb950a82007a7d25":[7,0,0,0,1,3,5,6,9,41,19],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f1d40fb31910bc80fe569ace0ad8d2a":[7,0,0,0,1,3,5,6,9,41,33],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a9cfb30554823d5b6f748a63e4f63cb":[7,0,0,0,1,3,5,6,9,41,2],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca5b64945a6f923e8ea8fa86cb7ffb4410":[7,0,0,0,1,3,5,6,9,41,16],
-"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca5c6a373da9a7c492db112d3cf8b39958":[7,0,0,0,1,3,5,6,9,41,30]
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,6,9,41,26]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0c/classspell__gen__turkey__marker.html":[6,0,3038],
+"d6/d0c/classspell__gen__turkey__marker.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d":[6,0,3038,4],
 "d6/d0c/classspell__gen__turkey__marker.html#a1bf9f3a1eb52bb64df59b381c412552f":[6,0,3038,5],
 "d6/d0c/classspell__gen__turkey__marker.html#a2e81d03893b23aa8dc9c615683206f75":[6,0,3038,2],
 "d6/d0c/classspell__gen__turkey__marker.html#a6ae104e97dc9c0aa50e115fe1f17e161":[6,0,3038,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daab733d4a3201f36ff4b56cf51608dba38":[7,0,0,0,1,3,5,17,17,0],
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daac1f0474c1baca305f2ea3a695341bc27":[7,0,0,0,1,3,5,17,17,4],
 "d6/d13/zone__dalaran_8cpp.html#a4a3d2cd3c4550c84b2080f5a35d3e3daac9bbf69aa1b744f9106edbfe7dc927e3":[7,0,0,0,1,3,5,17,17,2],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,17,23],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca2342fc86e4d2f4811c11c75f70b37f0b":[7,0,0,0,1,3,5,17,23,3],
-"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298ca501ce8c3a5ee1f583f1ce31104b928c9":[7,0,0,0,1,3,5,17,23,4]
+"d6/d13/zone__dalaran_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,17,23]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX388 =
 {
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a02e7aba4a3c36ee2030914b3e3d37084":[7,0,0,0,1,3,5,1,0,0,14,12],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a108974886cae0bd7ba13738b9c719961":[7,0,0,0,1,3,5,1,0,0,14,2],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a217843f3b8a58953df56fc2197a10348":[7,0,0,0,1,3,5,1,0,0,14,1],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25a7f440bed146cb853a4500de340eb8":[7,0,0,0,1,3,5,1,0,0,14,14],
+"df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f52ea1716b8d41f8038d3601833ba55":[7,0,0,0,1,3,5,1,0,0,14,8],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39cddfd73c7a581aaae8b86425ab0513":[7,0,0,0,1,3,5,1,0,0,14,11],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6253cf18fcf4650ea62ba03ea5f58430":[7,0,0,0,1,3,5,1,0,0,14,15],
 "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a859e0907cf7afb553a4e513dd7b69160":[7,0,0,0,1,3,5,1,0,0,14,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX388 =
 "df/d81/structboss__dorothee.html#a289dfa1f257ca25acba9487908e6223c":[6,0,428,3],
 "df/d81/structboss__dorothee.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e":[6,0,428,9],
 "df/d81/structboss__dorothee.html#a5c04074aab40ecaeeb84b33205b40144":[6,0,428,8],
-"df/d81/structboss__dorothee.html#a6dfc4109370d4e932e7376a443bd64ad":[6,0,428,2],
-"df/d81/structboss__dorothee.html#a762209d2bf78cc21c48a426732f2354e":[6,0,428,5],
-"df/d81/structboss__dorothee.html#a840bcbad78ff881ef3a803ffa23d3c6e":[6,0,428,10],
-"df/d81/structboss__dorothee.html#a8bd5b4753c2d8f8aced0c036912f10f1":[6,0,428,0],
-"df/d81/structboss__dorothee.html#aa35dafeb9faf8eeea55caa0eeb669db3":[6,0,428,4],
-"df/d81/structboss__dorothee.html#ac6a6f1c9074697f761e4e09550cfea71":[6,0,428,12]
+"df/d81/structboss__dorothee.html#a6dfc4109370d4e932e7376a443bd64ad":[6,0,428,2]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX373 =
 {
+"de/dac/boss__jeklik_8cpp.html#ace33212a02d9eb32a7fb114e94a6bae8a96e2c79d95b3dd0d90100123f1302f85":[7,0,0,0,1,3,2,16,5,4,0],
+"de/dac/boss__jeklik_8cpp.html#ae1c5184dc404edf057ed537bcfddef84":[7,0,0,0,1,3,2,16,5,6],
+"de/dac/boss__jeklik_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,2,16,5,6,0],
+"de/dac/boss__jeklik_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,2,16,5,6,1],
+"de/dac/structgo__suppression__device_1_1go__suppression__deviceAI.html":[6,0,1184,0],
 "de/dac/structgo__suppression__device_1_1go__suppression__deviceAI.html#a00fb57e180148622e564712611705218":[6,0,1184,0,6],
 "de/dac/structgo__suppression__device_1_1go__suppression__deviceAI.html#a0c6436834b4aca4bed2a8361941c553c":[6,0,1184,0,7],
 "de/dac/structgo__suppression__device_1_1go__suppression__deviceAI.html#a1dd83a1e393ef47d8bd4917aff5df13f":[6,0,1184,0,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX373 =
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#a537a2beaa8321095d2d67b8fb655acea":[6,0,1424,0],
 "de/dbf/structLinkValidator_3_01LinkTags_1_1item_01_4.html#aeaa47302a91b5882afae3950ffc460cc":[6,0,1424,1],
 "de/dbf/structboss__maiden__of__virtue.html":[6,0,608],
-"de/dbf/structboss__maiden__of__virtue.html#a32dd66a297d11f5ffac1841bae15727a":[6,0,608,3],
-"de/dbf/structboss__maiden__of__virtue.html#a4cd0c7a566e23e5c3a43466214f35dd3":[6,0,608,0],
-"de/dbf/structboss__maiden__of__virtue.html#a6eded246318f6b47b46f45168e4a8069":[6,0,608,1],
-"de/dbf/structboss__maiden__of__virtue.html#a6ff1b9e0a17218ad4871bc5fc3748671":[6,0,608,2],
-"de/dbf/structnpc__hallows__end__train__fire.html":[6,0,1830],
-"de/dbf/structnpc__hallows__end__train__fire.html#a0aacc53a7410590e8d1f05aa8d3e37ba":[6,0,1830,0]
+"de/dbf/structboss__maiden__of__virtue.html#a32dd66a297d11f5ffac1841bae15727a":[6,0,608,3]
 };

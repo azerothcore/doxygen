@@ -1,5 +1,7 @@
 var NAVTREEINDEX74 =
 {
+"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a047a1dd4bab33d7d5b2631c0862ba4b0":[6,0,3732,1],
+"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a0ced86fc2e108e7bba9727d26eac3ff3":[6,0,3732,2],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f":[6,0,3732,3],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a94993441ef94f84c85aa10c693cf34fe":[6,0,3732,0],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a964637541cd64e64b4e02c00d36abf2d":[6,0,3732,4],
@@ -13,10 +15,10 @@ var NAVTREEINDEX74 =
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2446],
@@ -247,7 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de9/classSpellInfo.html#a0dc33b718ec58ac1064a403c29e98a17":[6,0,4097,37],
 "d2/de9/classSpellInfo.html#a0ddc3531aeb41a1fa93502d94621e025":[6,0,4097,169],
 "d2/de9/classSpellInfo.html#a0e4591c8f25d0186911111d9a8b3e160":[6,0,4097,148],
-"d2/de9/classSpellInfo.html#a13ea1f77e430e697e2ca7acc368d93e1":[6,0,4097,30],
-"d2/de9/classSpellInfo.html#a154f650ed5020b96a76cea54d31736af":[6,0,4097,190],
-"d2/de9/classSpellInfo.html#a16e049ec579732409fb7029e8f8863a1":[6,0,4097,163]
+"d2/de9/classSpellInfo.html#a13ea1f77e430e697e2ca7acc368d93e1":[6,0,4097,30]
 };

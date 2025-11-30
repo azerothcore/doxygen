@@ -1,5 +1,10 @@
 var NAVTREEINDEX368 =
 {
+"de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1":[7,0,0,0,1,3,6,14,4],
+"de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614":[7,0,0,0,1,3,6,14,4,2],
+"de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5":[7,0,0,0,1,3,6,14,4,1],
+"de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d":[7,0,0,0,1,3,6,14,4,0],
+"de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3":[7,0,0,0,1,3,6,14,4,3],
 "de/d90/OutdoorPvPZM_8h.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b":[7,0,0,0,1,3,6,14,4,4],
 "de/d90/OutdoorPvPZM_8h.html#ace5e051bf69a2b4be978b04c832c5592":[7,0,0,0,1,3,6,14,21],
 "de/d90/OutdoorPvPZM_8h.html#ad13518df9718347908929a97748d3636":[7,0,0,0,1,3,6,14,6],
@@ -238,16 +243,11 @@ var NAVTREEINDEX368 =
 "de/d99/classspell__dk__chains__of__ice.html#a7d0dd936965845c14e7b54846facdb89":[6,0,2754,1],
 "de/d99/classspell__dk__chains__of__ice.html#aaa65e67362ded5318e89272acf073bf3":[6,0,2754,0],
 "de/d99/classspell__dk__chains__of__ice.html#ab7b767743d62d9763bea710b7552a8cf":[6,0,2754,2],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,31,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,11,6,43],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,31,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,11,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,31,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,11,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,31,6,43,1],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,11,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,11,6,43,4],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,31,6,43,4],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[6,0,11,6,43,3],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,31,6,43,3]
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,6,43,5]
 };

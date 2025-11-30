@@ -1,5 +1,9 @@
 var NAVTREEINDEX243 =
 {
+"d9/dc5/classboss__prince__valanar__icc.html":[6,0,662],
+"d9/dc5/classboss__prince__valanar__icc.html#a2f7f58d57f5ed107d1f972d061105fd4":[6,0,662,2],
+"d9/dc5/classboss__prince__valanar__icc.html#a7bfa4e13fa5cc19313c7ce9877d1c631":[6,0,662,1],
+"d9/dc5/classspell__sindragosa__s__fury.html":[6,0,3838],
 "d9/dc5/classspell__sindragosa__s__fury.html#a042c3f2ee73533b397a2d697d1da6563":[6,0,3838,0],
 "d9/dc5/classspell__sindragosa__s__fury.html#a534e9f5ee9aa29603cfc205c2c2d580f":[6,0,3838,2],
 "d9/dc5/classspell__sindragosa__s__fury.html#a58f839370a885c450e6742cbb3116784":[6,0,3838,6],
@@ -79,10 +83,10 @@ var NAVTREEINDEX243 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,31,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX243 =
 "d9/dce/structnpc__vengeful__spirit.html#a06bd2b08a7719ae35dd6ad844ce3b3bd":[6,0,2258,0],
 "d9/dce/structnpc__vengeful__spirit.html#a8aec87a3e6a7af96253035dbd9e813ad":[6,0,2258,1],
 "d9/dcf/classspell__thaddius__polarity__shift.html":[6,0,3879],
-"d9/dcf/classspell__thaddius__polarity__shift.html#a3009faa525c22779a0b2534b96821cfd":[6,0,3879,1],
-"d9/dcf/classspell__thaddius__polarity__shift.html#aa87e57dabec6e83029f4dd84913f22ca":[6,0,3879,3],
-"d9/dcf/classspell__thaddius__polarity__shift.html#ac816f81a668ac3018be8f5dc4698039b":[6,0,3879,0],
-"d9/dcf/classspell__thaddius__polarity__shift.html#aca38f23f080314ab73ec2494bf877716":[6,0,3879,2],
-"d9/dcf/classspell__thaddius__polarity__shift.html#af945e399992deb3aef5c81ad393ee50f":[6,0,3879,4]
+"d9/dcf/classspell__thaddius__polarity__shift.html#a3009faa525c22779a0b2534b96821cfd":[6,0,3879,1]
 };

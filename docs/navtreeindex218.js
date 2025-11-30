@@ -1,5 +1,7 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#ac3c9ef046d0e103906b2eb192f352a44":[4,1,19,174],
+"d8/d74/classWorldSession.html#ac4a47b21933d6ba359557ca2f687934f":[4,1,19,237],
 "d8/d74/classWorldSession.html#ac50097fb33c7766ada7dae3f9161efe6":[4,1,19,331],
 "d8/d74/classWorldSession.html#ac576bba9fd80ae6077ae331b5b5a321b":[4,1,19,521],
 "d8/d74/classWorldSession.html#ac595f2b1e1f6d5a6797bc8a47c115daa":[4,1,19,359],
@@ -202,12 +204,12 @@ var NAVTREEINDEX218 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,967,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,967,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,967,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1580],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1580,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1580,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a3282eb4c27b4256705bba47f4934c9b8":[6,0,3370,0],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a5493864b068de82015bc157f3d0899b3":[6,0,3370,4],
 "d8/d7c/classspell__kiljaeden__sinister__reflection.html#a57b42bf7b94ef5b23092ed097ce016e8":[6,0,3370,3],
-"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a6083e35b4289b8a960dd6b223e1d02b5":[6,0,3370,2],
-"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a8622351d9984d2de69ccd67d37fd52b9":[6,0,3370,1],
-"d8/d7d/classMMapTargetData.html":[6,0,1513]
+"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a6083e35b4289b8a960dd6b223e1d02b5":[6,0,3370,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX215 =
 {
+"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#a6f9fc7dad68f35846ee76d4bff564407":[6,0,673,0,0],
+"d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#a93cfa3f706ffadd94ad4dbe0585eebf1":[6,0,673,0,1],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#ab1a6f582098c9d1218551af0aae1815d":[6,0,673,0,3],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#abed82c71605d7c57bf29cedc21fc6b24":[6,0,673,0,5],
 "d8/d61/structboss__razuvious__minion_1_1boss__razuvious__minionAI.html#ad56fca0ae00fba6e575baefd72c7a8d0":[6,0,673,0,6],
@@ -113,10 +115,10 @@ var NAVTREEINDEX215 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2584,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2584,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2584,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,31,12,0],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,12,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,31,12,0,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,12,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,544],
 "d8/d6c/classboss__ichoron.html#a68051088dc2d2c738b042e2df0436b28":[6,0,544,2],
 "d8/d6c/classboss__ichoron.html#ad4390da77a130edaf050d0bef3926882":[6,0,544,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d72/classDisableMgr.html#ac3787801d677b0ed6592476d648743db":[6,0,986,7],
 "d8/d72/classDisableMgr.html#accac4f17d8411544e22ba2231b04f36f":[6,0,986,8],
 "d8/d72/classDisableMgr.html#adb464165caf6cd436499fa84969eeaf8":[6,0,986,11],
-"d8/d72/classDisableMgr.html#adf2cad99fa4b2b3ddbff05931928c1c5":[6,0,986,0],
-"d8/d72/classDisableMgr.html#ae1483ae3fdeeb98cceb29905f7181b1a":[6,0,986,3],
-"d8/d72/classDisableMgr.html#afadb62b96ab43f983f8a8c3077cbe205":[6,0,986,2]
+"d8/d72/classDisableMgr.html#adf2cad99fa4b2b3ddbff05931928c1c5":[6,0,986,0]
 };

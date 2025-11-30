@@ -1,5 +1,7 @@
 var NAVTREEINDEX213 =
 {
+"d8/d3e/structEmotesEntry.html#ada83e548faa01917a5db19eaa15dbbec":[6,0,1014,3],
+"d8/d40/classnpc__ulduar__emergency__fire__bot.html":[6,0,2217],
 "d8/d40/classnpc__ulduar__emergency__fire__bot.html#a1adc05ac4602ab2b297b18f605bfd2cd":[6,0,2217,1],
 "d8/d40/classnpc__ulduar__emergency__fire__bot.html#afb3ab952495175c5f571d4e39a5acea4":[6,0,2217,2],
 "d8/d40/classspell__item__purify__helboar__meat.html":[6,0,3294],
@@ -48,8 +50,8 @@ var NAVTREEINDEX213 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1d434373ccc7dd54c5de7bc99487170a":[6,0,602,0,1],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82":[6,0,602,0,2],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[6,0,602,0,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,31,7,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[6,0,11,7,9],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,31,7,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,31,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[6,0,11,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[6,0,11,7,9,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d4d/isle__of__conquest_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8d5fcaf7b3bfdd91e6337d222c1620f":[7,0,0,0,1,3,5,13,17,0],
 "d8/d4e/classnpc__toc__pet__hunter.html":[6,0,2189],
 "d8/d4e/classnpc__toc__pet__hunter.html#a1aa59cca8cd71e9f17fb9f55cf03c1da":[6,0,2189,1],
-"d8/d4e/classnpc__toc__pet__hunter.html#a9febc3086b0627324277f45d49cdd03f":[6,0,2189,2],
-"d8/d4e/structboss__drekthar_1_1boss__drektharAI.html":[6,0,435,0],
-"d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#a058d9683179756e49aa4e243d270105c":[6,0,435,0,1]
+"d8/d4e/classnpc__toc__pet__hunter.html#a9febc3086b0627324277f45d49cdd03f":[6,0,2189,2]
 };

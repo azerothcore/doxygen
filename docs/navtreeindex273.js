@@ -1,5 +1,9 @@
 var NAVTREEINDEX273 =
 {
+"da/dff/classspell__blood__council__summon__shadow__resonance.html#a9ed93e44df4e759fda72a63474e01b3b":[6,0,2658,2],
+"da/dff/classspell__blood__council__summon__shadow__resonance.html#aceb3da4aec68cb44bcbee36f599afd62":[6,0,2658,1],
+"da/dff/classspell__q2203__thaumaturgy__channel.html":[6,0,3708],
+"da/dff/classspell__q2203__thaumaturgy__channel.html#a5fc89b09fb226d0d9315081d64f4103e":[6,0,3708,1],
 "da/dff/classspell__q2203__thaumaturgy__channel.html#a9347200565cb858cf0cc9cdb897fe1dc":[6,0,3708,0],
 "da/dff/classspell__q2203__thaumaturgy__channel.html#a9378252b6711cc0bec3e63efce026495":[6,0,3708,3],
 "da/dff/classspell__q2203__thaumaturgy__channel.html#ac3741617faacf83a707f1359aab1886e":[6,0,3708,2],
@@ -41,14 +45,14 @@ var NAVTREEINDEX273 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classboss__sartharion.html":[6,0,685],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,685,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,685,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX273 =
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09":[7,0,0,0,0,1,2,4,2,2],
 "db/d10/ModelInstance_8h.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673":[7,0,0,0,0,1,2,4,2,0],
 "db/d10/MotionMaster_8h.html":[7,0,0,0,1,2,31,7],
-"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233":[7,0,0,0,1,2,31,7,10],
-"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5":[7,0,0,0,1,2,31,7,10,1],
-"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a":[7,0,0,0,1,2,31,7,10,0],
-"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5":[7,0,0,0,1,2,31,7,6],
-"db/d10/MotionMaster_8h.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2":[7,0,0,0,1,2,31,7,6,2]
+"db/d10/MotionMaster_8h.html#a1978c8aa3f81d04079c45fe56aa51233":[7,0,0,0,1,2,31,7,10]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX187 =
 {
+"d7/d2d/classPassengerController.html#ab834deac8dfd9a7ddd1bcb37b1e5c354":[6,0,2373,0],
+"d7/d2d/classPassengerController.html#ac2c664d3b5941c673c13f7e36aa2d974":[6,0,2373,9],
 "d7/d2d/classPassengerController.html#ae10f0917fb6fd395c3bb4428cbb617cb":[6,0,2373,1],
 "d7/d2d/classPassengerController.html#af4271e53792477394a5c1022ed8fb30f":[6,0,2373,5],
 "d7/d2d/classPlayerDump.html":[6,0,2406],
@@ -55,14 +57,14 @@ var NAVTREEINDEX187 =
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#ab4b27bf33b58b44ac604ca6bf6b5e424":[6,0,443,0,7],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#acec58686917d6e5aff9a51a96b023174":[6,0,443,0,3],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b":[6,0,443,0,6],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,31,10,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,11,10,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,11,10,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,31,10,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,31,10,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,11,10,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,11,10,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,31,10,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,31,10,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,11,10,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,31,10,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,31,10,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,11,10,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2075],
@@ -247,7 +249,5 @@ var NAVTREEINDEX187 =
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#adcca5f21a596ffae3c50f102c4698c4e":[6,0,584,0,2],
 "d7/d3c/structboss__krik__thir_1_1boss__krik__thirAI.html#af62b22ef531ee79805e80f2ee54af473":[6,0,584,0,1],
 "d7/d3d/classWDT__file.html":[6,0,4273],
-"d7/d3d/classWDT__file.html#a1d216a266e5e6390e9bd2e02c9d3c7f2":[6,0,4273,5],
-"d7/d3d/classWDT__file.html#a29bf710b8346204eb848017450afebe1":[6,0,4273,1],
-"d7/d3d/classWDT__file.html#a89ddf5d1527ac16a5d05790769d266b3":[6,0,4273,4]
+"d7/d3d/classWDT__file.html#a1d216a266e5e6390e9bd2e02c9d3c7f2":[6,0,4273,5]
 };

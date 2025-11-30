@@ -1,5 +1,7 @@
 var NAVTREEINDEX154 =
 {
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a922717b4ec46dfd0945cadb5c3e40098":[6,0,538,0,20],
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a95b53c97d9e933c066e1be29d3bdbe67":[6,0,538,0,25],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a977011a42eeed4d41d49a4ea7db77a26":[6,0,538,0,5],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#aa28b7e0f91cdd4cdc2cc4293401f4444":[6,0,538,0,13],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#ab48f0e5390cee0460d28e85368bc4483":[6,0,538,0,21],
@@ -247,7 +249,5 @@ var NAVTREEINDEX154 =
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af62d430b0a9d08f5a369769c68e107c2":[6,0,1293,0,27],
 "d5/dca/classspell__claw__rage__aura.html":[6,0,2713],
 "d5/dca/classspell__claw__rage__aura.html#a60313d4ba992b1dc81e7cdae942f1b3d":[6,0,2713,2],
-"d5/dca/classspell__claw__rage__aura.html#a7ed214de6769314a45540e9afdb82949":[6,0,2713,3],
-"d5/dca/classspell__claw__rage__aura.html#aa541a8bc034517d1f5d034ac51bd8dac":[6,0,2713,0],
-"d5/dca/classspell__claw__rage__aura.html#abc166e4dc33e7bffd1d53c2ef8272efa":[6,0,2713,1]
+"d5/dca/classspell__claw__rage__aura.html#a7ed214de6769314a45540e9afdb82949":[6,0,2713,3]
 };

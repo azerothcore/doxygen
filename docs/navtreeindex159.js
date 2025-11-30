@@ -1,5 +1,7 @@
 var NAVTREEINDEX159 =
 {
+"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#a1e56cb4f5ee0f728e5d7806517d8cb14":[6,0,1332,0,14],
+"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#a3961462fc7e59f271ac47acf4e620e36":[6,0,1332,0,4],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#a3d90f5cdce97f45901cdeb9ebbd835a8":[6,0,1332,0,6],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#a5ed2541153458234087f89716686e5af":[6,0,1332,0,13],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#a65e67ab0abac41f9636a927549fced6d":[6,0,1332,0,15],
@@ -22,8 +24,8 @@ var NAVTREEINDEX159 =
 "d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[6,0,2337,0],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,1,8,0,3],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[6,0,0,5,0,3],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,1,8,0,3,0],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[6,0,0,5,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,1,8,0,3,0],
 "d5/df7/classObjectGuidVector.html":[6,0,2318],
 "d5/df7/classObjectGuidVector.html#a07fe3304a0edffa1f17a0ce5f97d01e6":[6,0,2318,1],
 "d5/df7/classObjectGuidVector.html#a78137cb1ae9930c11f87a4a8ed5e7e26":[6,0,2318,5],
@@ -52,16 +54,16 @@ var NAVTREEINDEX159 =
 "d5/df8/classspell__mage__combustion__proc.html#a8f111779a3a0e68fe5a313e6eae716b3":[6,0,3410,3],
 "d5/df8/classspell__mage__combustion__proc.html#a9e13b76ceb256dec1a6c9dccd5c6c537":[6,0,3410,1],
 "d5/df8/classspell__mage__combustion__proc.html#a9fbaec43bae2f4d6f4b94b18da0144fe":[6,0,3410,2],
-"d5/df9/classlfg_1_1LFGGroupScript.html":[5,0,18,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html":[6,0,5,3],
+"d5/df9/classlfg_1_1LFGGroupScript.html":[5,0,18,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[5,0,18,3,5],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a1385adec817221a83653a6fa03e57858":[6,0,5,3,5],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,18,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[6,0,5,3,4],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a25add922fa708babe08c3bdaaa0c0d92":[5,0,18,3,4],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[5,0,18,3,2],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a3616c537eb39fe130c8fb24d93a0ead9":[6,0,5,3,2],
-"d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[5,0,18,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[6,0,5,3,1],
+"d5/df9/classlfg_1_1LFGGroupScript.html#a43c29f1c4b0f78b203a8798e34e9bc4c":[5,0,18,3,1],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[5,0,18,3,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#a7d8d28f1919e407ed93474d970733d86":[6,0,5,3,3],
 "d5/df9/classlfg_1_1LFGGroupScript.html#adb7730ba67910121a255a6da535d2fc2":[6,0,5,3,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dfb/classObjectMgr.html#a7022f3e16c4bf1d8211747bd6f15c1db":[6,0,2319,49],
 "d5/dfb/classObjectMgr.html#a705268248e287f74b77915b9fed87e21":[6,0,2319,178],
 "d5/dfb/classObjectMgr.html#a713ee4d9c729b0425d8ef75ef36684f2":[6,0,2319,166],
-"d5/dfb/classObjectMgr.html#a724a6c6b1e1a4006dd51d7b38d7232b5":[6,0,2319,326],
-"d5/dfb/classObjectMgr.html#a73d91cf299d39a85191f6a2a38edc718":[6,0,2319,227],
-"d5/dfb/classObjectMgr.html#a7457c3cf5acf892349762467249ed8a6":[6,0,2319,373]
+"d5/dfb/classObjectMgr.html#a724a6c6b1e1a4006dd51d7b38d7232b5":[6,0,2319,326]
 };

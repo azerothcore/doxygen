@@ -1,5 +1,10 @@
 var NAVTREEINDEX314 =
 {
+"dc/db3/boss__archimonde_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,4,1,0,1,9,4],
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623e":[7,0,0,0,1,3,4,1,0,1,8],
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea49c2d8931d73c2b1606341de80521473":[7,0,0,0,1,3,4,1,0,1,8,1],
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea69cf4a059a235fe0947981b3f63ce0e5":[7,0,0,0,1,3,4,1,0,1,8,3],
+"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea79cdebc2f1cd492d80831a1538eec9e9":[7,0,0,0,1,3,4,1,0,1,8,4],
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea906920afb87b1d09cadbd93eefc1c0a8":[7,0,0,0,1,3,4,1,0,1,8,2],
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ead5b3e1b17cb1a42c914158702338f49b":[7,0,0,0,1,3,4,1,0,1,8,0],
 "dc/db3/boss__archimonde_8cpp.html#ae72869d214b7d3a071fb6094ed4948d5":[7,0,0,0,1,3,4,1,0,1,13],
@@ -244,10 +249,5 @@ var NAVTREEINDEX314 =
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae4ca305e3067cbdb2771d6a9e858f191":[6,0,1690,0,7],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523":[6,0,1690,0,13],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1":[6,0,1690,0,4],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9":[6,0,1690,0,1],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#affa24c62af088b4b216aaa4789f6a40e":[6,0,1690,0,2],
-"dc/dc3/boss__ghazan_8cpp.html":[7,0,0,0,1,3,7,2,3,0],
-"dc/dc3/boss__ghazan_8cpp.html#a6b7605f750dab7f676edcd83f54c249a":[7,0,0,0,1,3,7,2,3,0,3],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954":[7,0,0,0,1,3,7,2,3,0,2],
-"dc/dc3/boss__ghazan_8cpp.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,7,2,3,0,2,3]
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9":[6,0,1690,0,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX219 =
 {
+"d8/d7c/classspell__kiljaeden__sinister__reflection.html#a8622351d9984d2de69ccd67d37fd52b9":[6,0,3370,1],
+"d8/d7d/classMMapTargetData.html":[6,0,1513],
 "d8/d7d/classMMapTargetData.html#a130fe2b359f583acab99c51eb9d0b1ad":[6,0,1513,5],
 "d8/d7d/classMMapTargetData.html#a33cc430ea3c4b5dd4012a16914dc8aeb":[6,0,1513,0],
 "d8/d7d/classMMapTargetData.html#a3547f93af46826a051f1164ac1fc9ccc":[6,0,1513,3],
@@ -231,8 +233,8 @@ var NAVTREEINDEX219 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4234,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,31,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,11,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,31,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,11,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,31,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,571],
@@ -247,7 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d88/classspell__dru__primal__tenacity.html#a40f7cfe30b7bf2237d61665b167476fb":[6,0,2832,1],
 "d8/d88/classspell__dru__primal__tenacity.html#ab5b59d975e71e0e12bf41e8d173b9491":[6,0,2832,5],
 "d8/d88/classspell__dru__primal__tenacity.html#ac7316995b7682a6fafe47ff2547956b0":[6,0,2832,4],
-"d8/d88/classspell__dru__primal__tenacity.html#ae63ad15db90ebe73d73e77e232f4d695":[6,0,2832,3],
-"d8/d88/classspell__dru__primal__tenacity.html#af7df70d0bd68d12032b5b57faa789a87":[6,0,2832,0],
-"d8/d8a/classByteBufferInvalidValueException.html":[6,0,829]
+"d8/d88/classspell__dru__primal__tenacity.html#ae63ad15db90ebe73d73e77e232f4d695":[6,0,2832,3]
 };

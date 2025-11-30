@@ -1,5 +1,7 @@
 var NAVTREEINDEX227 =
 {
+"d8/de1/structCalendarInvite.html#a68f5a8f97f68d0ab2303f0dcfa8138ef":[6,0,835,22],
+"d8/de1/structCalendarInvite.html#a8f7abd6edf8178d5b318023b2b8c07f0":[6,0,835,18],
 "d8/de1/structCalendarInvite.html#a99b2688691cc1d1da62091be60c3f9ad":[6,0,835,14],
 "d8/de1/structCalendarInvite.html#a9a702608978e5f064c25f07b0037b500":[6,0,835,27],
 "d8/de1/structCalendarInvite.html#a9dc7b0dbcab93de989bf6e3806b9c730":[6,0,835,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX227 =
 "d8/df3/classspell__marrowgar__coldflame.html#ae8eb94536a9f08138b42cfe8ea711eaa":[6,0,3452,3],
 "d8/df3/structSkillStatusData.html":[6,0,2554],
 "d8/df3/structSkillStatusData.html#a232801ad25897a82739916d5be4fdc22":[6,0,2554,2],
-"d8/df3/structSkillStatusData.html#a51ccb328b807f2c7fd275d843218f466":[6,0,2554,1],
-"d8/df3/structSkillStatusData.html#a7594ceb20110da34f3aa68ac69996b94":[6,0,2554,0],
-"d8/df4/structnpc__sunblade__arch__mage.html":[6,0,2143]
+"d8/df3/structSkillStatusData.html#a51ccb328b807f2c7fd275d843218f466":[6,0,2554,1]
 };
