@@ -7,7 +7,6 @@ var spell__quest_8cpp =
     [ "spell_q11026_a11051_banish_the_demons_aura", "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html", "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura" ],
     [ "spell_q11026_a11051_banish_the_demons", "df/d05/classspell__q11026__a11051__banish__the__demons.html", "df/d05/classspell__q11026__a11051__banish__the__demons" ],
     [ "spell_q10525_vision_guide", "dc/d7b/classspell__q10525__vision__guide.html", "dc/d7b/classspell__q10525__vision__guide" ],
-    [ "spell_q11322_q11317_the_cleansing", "d7/dec/classspell__q11322__q11317__the__cleansing.html", "d7/dec/classspell__q11322__q11317__the__cleansing" ],
     [ "spell_q10714_on_spirits_wings", "da/d16/classspell__q10714__on__spirits__wings.html", "da/d16/classspell__q10714__on__spirits__wings" ],
     [ "spell_q10720_the_smallest_creature", "d6/d62/classspell__q10720__the__smallest__creature.html", "d6/d62/classspell__q10720__the__smallest__creature" ],
     [ "spell_q13086_last_line_of_defence", "d3/dd1/classspell__q13086__last__line__of__defence.html", "d3/dd1/classspell__q13086__last__line__of__defence" ],

@@ -60,7 +60,7 @@ var searchData=
   ['coilfanggos_57',['CoilfangGOs',['../df/d20/areatrigger__scripts_8cpp.html#a9670aee8aef02c60b84d4c3d11c963b5',1,'areatrigger_scripts.cpp']]],
   ['collapsingcave_58',['CollapsingCave',['../dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01',1,'zone_storm_peaks.cpp']]],
   ['colortypes_59',['ColorTypes',['../df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832',1,'AppenderConsole.h']]],
-  ['combatrating_60',['CombatRating',['../d1/daf/Unit_8h.html#aa60e4ef21982cf41b489e5242f01b64f',1,'Unit.h']]],
+  ['combatrating_60',['CombatRating',['../d1/daf/Unit_8h.html#aa940f0fb19cbfeaf128b78cc7fb15da3',1,'Unit.h']]],
   ['commanderdawnforgedata_61',['CommanderDawnforgeData',['../dd/dd3/zone__netherstorm_8cpp.html#a470431f2b6d3fc2e926e101095179ffa',1,'zone_netherstorm.cpp']]],
   ['commandereligordawnbringer_62',['CommanderEligorDawnbringer',['../de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1',1,'zone_dragonblight.cpp']]],
   ['commandstates_63',['CommandStates',['../d1/daf/Unit_8h.html#af147d8054b617fd731305de8a69bd257',1,'Unit.h']]],

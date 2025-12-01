@@ -1,10 +1,13 @@
 var structnpc__preparations__for__war__vehicle =
 [
     [ "npc_preparations_for_war_vehicle", "d6/dba/structnpc__preparations__for__war__vehicle.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "d6/dba/structnpc__preparations__for__war__vehicle.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "d6/dba/structnpc__preparations__for__war__vehicle.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "MovementInform", "d6/dba/structnpc__preparations__for__war__vehicle.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "d6/dba/structnpc__preparations__for__war__vehicle.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "d6/dba/structnpc__preparations__for__war__vehicle.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
     [ "UpdateAI", "d6/dba/structnpc__preparations__for__war__vehicle.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "d6/dba/structnpc__preparations__for__war__vehicle.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "passenger_x", "d6/dba/structnpc__preparations__for__war__vehicle.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "d6/dba/structnpc__preparations__for__war__vehicle.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "d6/dba/structnpc__preparations__for__war__vehicle.html#a18d051868134d8c62f64923905bf19db", null ],
     [ "searchForShipTimer", "d6/dba/structnpc__preparations__for__war__vehicle.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
     [ "transportEntry", "d6/dba/structnpc__preparations__for__war__vehicle.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

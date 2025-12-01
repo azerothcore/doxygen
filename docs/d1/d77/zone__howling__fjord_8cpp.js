@@ -2,8 +2,6 @@ var zone__howling__fjord_8cpp =
 [
     [ "npc_attracted_reef_bull", "dd/df0/classnpc__attracted__reef__bull.html", "dd/df0/classnpc__attracted__reef__bull" ],
     [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d5/dae/structnpc__attracted__reef__bull_1_1npc__attracted__reef__bullAI.html", "d5/dae/structnpc__attracted__reef__bull_1_1npc__attracted__reef__bullAI" ],
-    [ "npc_your_inner_turmoil", "dc/de6/classnpc__your__inner__turmoil.html", "dc/de6/classnpc__your__inner__turmoil" ],
-    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI.html", "db/d13/structnpc__your__inner__turmoil_1_1npc__your__inner__turmoilAI" ],
     [ "npc_apothecary_hanes", "d7/d68/classnpc__apothecary__hanes.html", "d7/d68/classnpc__apothecary__hanes" ],
     [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI" ],
     [ "npc_plaguehound_tracker", "d4/dfa/classnpc__plaguehound__tracker.html", "d4/dfa/classnpc__plaguehound__tracker" ],
@@ -11,6 +9,10 @@ var zone__howling__fjord_8cpp =
     [ "npc_razael_and_lyana", "dd/d16/classnpc__razael__and__lyana.html", "dd/d16/classnpc__razael__and__lyana" ],
     [ "npc_rodin_lightning_enabler", "d5/dae/structnpc__rodin__lightning__enabler.html", "d5/dae/structnpc__rodin__lightning__enabler" ],
     [ "spell_hawk_hunting", "d4/dc6/classspell__hawk__hunting.html", "d4/dc6/classspell__hawk__hunting" ],
+    [ "spell_the_cleansing_shrine_cast", "d6/dcd/classspell__the__cleansing__shrine__cast.html", "d6/dcd/classspell__the__cleansing__shrine__cast" ],
+    [ "spell_the_cleansing_cleansing_soul", "df/d3c/classspell__the__cleansing__cleansing__soul.html", "df/d3c/classspell__the__cleansing__cleansing__soul" ],
+    [ "spell_the_cleansing_mirror_image_script_effect", "d3/d45/classspell__the__cleansing__mirror__image__script__effect.html", "d3/d45/classspell__the__cleansing__mirror__image__script__effect" ],
+    [ "spell_the_cleansing_on_death_cast_on_master", "d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html", "d7/d4e/classspell__the__cleansing__on__death__cast__on__master" ],
     [ "Entries", "d1/d77/zone__howling__fjord_8cpp.html#a06de533fb3e7ec530f0493022ad98889", [
       [ "NPC_APOTHECARY_HANES", "d1/d77/zone__howling__fjord_8cpp.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
       [ "NPC_HANES_FIRE_TRIGGER", "d1/d77/zone__howling__fjord_8cpp.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
@@ -35,11 +37,13 @@ var zone__howling__fjord_8cpp =
       [ "SPELL_RODIN_LIGHTNING_END", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
       [ "NPC_RODIN", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
     ] ],
-    [ "TurmoilTexts", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
-      [ "SAY_TURMOIL_0", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],
-      [ "SAY_TURMOIL_1", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919a552b3da685e5d5c0ee068936387378c8", null ],
-      [ "SAY_TURMOIL_HALF_HP", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919a378c2c631bf845c1710a9d8cc64a2541", null ],
-      [ "SAY_TURMOIL_DEATH", "d1/d77/zone__howling__fjord_8cpp.html#ae01e16ebe34a24a598f4b4fb26dbf919ae008192ae78fbdcce408850140f26eb8", null ]
+    [ "TheCleansing", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
+      [ "SPELL_CLEANSING_SOUL", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
+      [ "SPELL_SUMMON_INNER_TURMOIL", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
+      [ "SPELL_RECENT_MEDITATION", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
+      [ "SPELL_MIRROR_IMAGE_AURA", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
+      [ "QUEST_THE_CLEANSING_H", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
+      [ "QUEST_THE_CLEANSING_A", "d1/d77/zone__howling__fjord_8cpp.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
     ] ],
     [ "AddSC_howling_fjord", "d1/d77/zone__howling__fjord_8cpp.html#a1f2f485d0649e510913e07a28b6082a5", null ]
 ];
