@@ -1,7 +1,5 @@
 var NAVTREEINDEX275 =
 {
-"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[6,0,2957,0],
-"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[6,0,2957,1],
 "db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[6,0,2957,2],
 "db/d1a/classspell__q12227__outhouse__groans.html":[6,0,3660],
 "db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3660,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX275 =
 "db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70":[6,0,4258,8],
 "db/d2a/classspell__q10898__skywing.html":[6,0,3625],
 "db/d2a/classspell__q10898__skywing.html#a5cb9e02774ea6c307e76183253ffb472":[6,0,3625,1],
-"db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3625,2]
+"db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3625,2],
+"db/d2a/classspell__q10898__skywing.html#ac781a5ff389268d1f18867ff5585ca71":[6,0,3625,0],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,709,0]
 };

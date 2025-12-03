@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca535cc2bfcedce1613f95c54f4577fdd7":[7,0,0,0,1,3,2,16,5,8,13],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e56015afb41350575b27c908fd31f96":[7,0,0,0,1,3,2,16,5,8,17],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8f5b2129be4bedc2f2a9fc5bcbba2e":[7,0,0,0,1,3,2,16,5,8,14],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,2,16,5,8,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/dbd/classOutdoorPvPGH.html":[6,0,2350],
 "de/dbd/classOutdoorPvPGH.html#a3d62cb27cfa415c9ba7fe5c18384a75d":[6,0,2350,2],
 "de/dbd/classOutdoorPvPGH.html#a619492e0a1fdf75f37554a2f19268660":[6,0,2350,0],
-"de/dbd/classOutdoorPvPGH.html#a92c7e489717072ddc34f707fbe462cb2":[6,0,2350,1],
-"de/dbe/NPCHandler_8cpp.html":[7,0,0,0,1,2,22,21]
+"de/dbd/classOutdoorPvPGH.html#a92c7e489717072ddc34f707fbe462cb2":[6,0,2350,1]
 };

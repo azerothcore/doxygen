@@ -1,14 +1,5 @@
 var NAVTREEINDEX178 =
 {
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html":[6,0,2043,0],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a007e4bad6ef41729d3f7b7ade4285dfe":[6,0,2043,0,0],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a5757c27b8c8840cec6ad7282f0cbf51b":[6,0,2043,0,4],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a8c7e2643c2d443b382a60f28ea74266c":[6,0,2043,0,3],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#ade416a422e67ce61e8874320cce7143b":[6,0,2043,0,2],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aea107ede3b11726b3f7caae590edaf52":[6,0,2043,0,1],
-"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aee61de504cfb25d9a99651a58ea0b63c":[6,0,2043,0,5],
-"d6/db1/classnpc__living__constellation.html":[6,0,1925],
-"d6/db1/classnpc__living__constellation.html#a4533812a4da72c0d9eff6d6c9eaf772a":[6,0,1925,2],
 "d6/db1/classnpc__living__constellation.html#a6ee651a525498cb5715ccfedaa26e05d":[6,0,1925,1],
 "d6/db1/classnpc__paoka__swiftmountain.html":[6,0,2006],
 "d6/db1/classnpc__paoka__swiftmountain.html#a3f41d2caae5acb4b79bcc75780db03d2":[6,0,2006,2],
@@ -88,8 +79,8 @@ var NAVTREEINDEX178 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
@@ -249,5 +240,14 @@ var NAVTREEINDEX178 =
 "d6/dbf/classTaskScheduler_1_1Task.html#af7f962055b0324a6fedcdd91d9d375dd":[6,0,4157,1,6],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html":[6,0,3641],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb":[6,0,3641,0],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[6,0,3641,3]
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[6,0,3641,3],
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a":[6,0,3641,2],
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de":[6,0,3641,1],
+"d6/dbf/structInstancePlayerBind.html":[6,0,1363],
+"d6/dbf/structInstancePlayerBind.html#a24ef1e0e0a38033a16b697c32e3d8234":[6,0,1363,3],
+"d6/dbf/structInstancePlayerBind.html#a9327f62b74eea3a1a525b2fec6d90b69":[6,0,1363,1],
+"d6/dbf/structInstancePlayerBind.html#ab35249eb791941b484ecc321b1102b24":[6,0,1363,2],
+"d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[6,0,1363,0],
+"d6/dc0/structCreatureSpellCooldown.html":[6,0,934],
+"d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,934,2]
 };

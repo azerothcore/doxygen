@@ -1,14 +1,5 @@
 var NAVTREEINDEX193 =
 {
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526add8226f5758099a1441724364e5993f6":[7,0,0,0,0,5,3,9,4],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526ae97aff1b319f95719407a49daa6d3161":[7,0,0,0,0,5,3,9,11],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526aead6fd771496ad5d1954f8338f1fdafe":[7,0,0,0,0,5,3,9,17],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af1a861dbf80e81561363604629189804":[7,0,0,0,0,5,3,9,3],
-"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af227727df84cd9c4731d00bf548af774":[7,0,0,0,0,5,3,9,6],
-"d7/d83/classnpc__ulduar__dark__rune__watcher.html":[6,0,2216],
-"d7/d83/classnpc__ulduar__dark__rune__watcher.html#a0536c61d70d5c6d61496fc1720d37950":[6,0,2216,1],
-"d7/d83/classnpc__ulduar__dark__rune__watcher.html#a6677d6dc0d07b508e921064f3299b302":[6,0,2216,2],
-"d7/d83/classspell__gen__valthalak__amulet.html":[6,0,3040],
 "d7/d83/classspell__gen__valthalak__amulet.html#a096ce1292821f201af5f294877ee25e0":[6,0,3040,0],
 "d7/d83/classspell__gen__valthalak__amulet.html#a804d6dec38ea4e59a72ed09882dc9e95":[6,0,3040,1],
 "d7/d83/structAuctionEntry.html":[6,0,259],
@@ -249,5 +240,14 @@ var NAVTREEINDEX193 =
 "d7/d91/classInstanceSave.html#a86fe576f6d1aaf3084ff03054977ecc9":[6,0,1364,29],
 "d7/d91/classInstanceSave.html#a895f58095a9d9f0ec4cd12e2ae2e8282":[6,0,1364,21],
 "d7/d91/classInstanceSave.html#a89c8afd883451f16ce6423eb18fcc6be":[6,0,1364,27],
-"d7/d91/classInstanceSave.html#a90d9cedcf9b9e25c638fea6268d70bc4":[6,0,1364,30]
+"d7/d91/classInstanceSave.html#a90d9cedcf9b9e25c638fea6268d70bc4":[6,0,1364,30],
+"d7/d91/classInstanceSave.html#a92ce355e9be7f83d53307b6dcd354c5d":[6,0,1364,10],
+"d7/d91/classInstanceSave.html#a94577295c43dc90262381beff84f5f91":[6,0,1364,5],
+"d7/d91/classInstanceSave.html#a94ad997458e97d7b7548ccbd88f3ac63":[6,0,1364,14],
+"d7/d91/classInstanceSave.html#a9ff182259d44acaa470cebb36d788c39":[6,0,1364,1],
+"d7/d91/classInstanceSave.html#aa9742adc281c69f28651e9c64541f820":[6,0,1364,25],
+"d7/d91/classInstanceSave.html#aba8d512041c8485f49eef8c1fafce729":[6,0,1364,3],
+"d7/d91/classInstanceSave.html#ad04e0c29de666c12fbe18111fca7c645":[6,0,1364,23],
+"d7/d91/classInstanceSave.html#ad4bc4189529fe75acac192e3682154e4":[6,0,1364,31],
+"d7/d91/classInstanceSave.html#ad67626787ecea8c4b5e54e205c069261":[6,0,1364,15]
 };

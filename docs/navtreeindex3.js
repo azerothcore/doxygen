@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a003cce5555e316506992c87d0c022391ad784e99c4fb826d0dd9bb24c3554fc55":[7,0,0,0,1,3,5,0,0,4,7,1],
 "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81e":[7,0,0,0,1,3,5,0,0,4,11],
 "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81ea670452fed958a8fe26096adda510b46d":[7,0,0,0,1,3,5,0,0,4,11,1],
 "d0/d2d/boss__jedoga__shadowseeker_8cpp.html#a132910a4b8d30adc216643de31e9c81eaa7cbe16694ec31dd73b22b351ad637b5":[7,0,0,0,1,3,5,0,0,4,11,0],
@@ -134,12 +135,12 @@ var NAVTREEINDEX3 =
 "d0/d32/structinstance__arcatraz_1_1instance__arcatraz__InstanceMapScript.html#aca09d4856d5c3e1831ea8753a50a3b71":[6,0,1287,0,4],
 "d0/d32/structinstance__arcatraz_1_1instance__arcatraz__InstanceMapScript.html#ad8c84d90b85db5717b6a37fc2343e0aa":[6,0,1287,0,2],
 "d0/d35/classFreezeDetector.html":[4,0,3],
-"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html":[5,0,31,6,12],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html":[6,0,11,6,12],
-"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#a3e03f6f23a989d6f105c397f8ecfeb87":[6,0,11,6,12,1],
+"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html":[5,0,31,6,12],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#a3e03f6f23a989d6f105c397f8ecfeb87":[5,0,31,6,12,1],
-"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#afb45f29d4a280c4cc02ee2ab3c055824":[5,0,31,6,12,0],
+"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#a3e03f6f23a989d6f105c397f8ecfeb87":[6,0,11,6,12,1],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#afb45f29d4a280c4cc02ee2ab3c055824":[6,0,11,6,12,0],
+"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#afb45f29d4a280c4cc02ee2ab3c055824":[5,0,31,6,12,0],
 "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html":[6,0,576,0],
 "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a0b69667c4020ada2ab079376fd1bdb44":[6,0,576,0,20],
 "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html#a0b995b26608b4af4b338409c961b33c1":[6,0,576,0,18],
@@ -245,9 +246,8 @@ var NAVTREEINDEX3 =
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html":[5,0,31,6,20],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a349f8608d589ac3a5697c7c1cf73723e":[5,0,31,6,20,3],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a349f8608d589ac3a5697c7c1cf73723e":[6,0,11,6,20,3],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[6,0,11,6,20,1],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[5,0,31,6,20,1],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[6,0,11,6,20,2],
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a420aac24befdc5ac26171faa15c3c350":[6,0,11,6,20,1],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[5,0,31,6,20,2],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[6,0,11,6,20,0]
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a68f9a4191c349702881774bff4069f03":[6,0,11,6,20,2]
 };

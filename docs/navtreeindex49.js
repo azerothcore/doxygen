@@ -1,8 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a37800436af47a8f6fbc6f6eb25eab9f9":[6,0,2254,0,1],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a588ed86f5b8316feafd938d85ac65aa0":[6,0,2254,0,2],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#afd54b130725aa724b80f150f968ce09d":[6,0,2254,0,0],
 "d1/dfb/classUnchainedMagicTargetSelector.html":[6,0,4219],
 "d1/dfb/classUnchainedMagicTargetSelector.html#a35a7981ce5495cba8b3a5391e4031431":[6,0,4219,2],
 "d1/dfb/classUnchainedMagicTargetSelector.html#ae412c72884e6cfb1ceef8ed9fb347fbf":[6,0,4219,0],
@@ -215,14 +212,14 @@ var NAVTREEINDEX49 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[6,0,2335,10],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[6,0,11,10,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,31,10,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,31,10,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[6,0,11,10,2,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,31,10,2,3],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,31,10,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,11,10,2,3],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,31,10,2,1],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,31,10,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,11,10,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,31,10,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,31,10,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,11,10,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,31,10,2,0],
 "d2/d0c/structAchievementReward.html":[6,0,118],
 "d2/d0c/structAchievementReward.html#a45644f308278529f822080f8274180d8":[6,0,118,3],
 "d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,118,4],
@@ -248,6 +245,9 @@ var NAVTREEINDEX49 =
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[5,0,1,100,2],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2],
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[6,0,0,88,0],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a4932b3610ddc148ee5a30a6ce91c6f27":[5,0,1,100,0]
+"d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2168],
+"d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2168,1],
+"d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2168,2]
 };

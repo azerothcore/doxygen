@@ -1,9 +1,5 @@
 var NAVTREEINDEX233 =
 {
-"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,12,5,10,0],
-"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b6c2c704bd34e907bcfbc0ae4708f96":[7,0,0,0,1,3,2,12,5,10,18],
-"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca30349b5b8c99e7ab662311ad934e9767":[7,0,0,0,1,3,2,12,5,10,11],
-"d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca3089e3969b4a2147278ab7ee70ed4946":[7,0,0,0,1,3,2,12,5,10,8],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca4cfdce93ff4574a1ec3401d0cb3689c5":[7,0,0,0,1,3,2,12,5,10,13],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca51d12f35581fed6247a539f5d711996f":[7,0,0,0,1,3,2,12,5,10,21],
 "d9/d3f/boss__muru_8cpp.html#a5bd342133be8c2137b831460acc9298ca61f2d13d57b09aad7cd7437b32a1a1f8":[7,0,0,0,1,3,2,12,5,10,24],
@@ -249,5 +245,9 @@ var NAVTREEINDEX233 =
 "d9/d54/common_2Configuration_2Config_8cpp.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee":[7,0,0,0,0,2,2,2],
 "d9/d54/structnpc__necropolis__relay.html":[6,0,1982],
 "d9/d54/structnpc__necropolis__relay.html#a044958acd1449d664532aeea7d0cb2fd":[6,0,1982,0],
-"d9/d54/structnpc__necropolis__relay.html#a1968d3537de2bdb9d4786cc96d2c346c":[6,0,1982,2]
+"d9/d54/structnpc__necropolis__relay.html#a1968d3537de2bdb9d4786cc96d2c346c":[6,0,1982,2],
+"d9/d54/structnpc__necropolis__relay.html#a45fdef0f86f18b87b90d2b4f9c0df9cb":[6,0,1982,1],
+"d9/d55/UnitAI_8h.html":[7,0,0,0,1,2,3,0,15],
+"d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3":[7,0,0,0,1,2,3,0,15,8],
+"d9/d55/UnitAI_8h.html#a1c66b73f1d3e1e8031c25ae739f094e6":[7,0,0,0,1,2,3,0,15,11]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX129 =
 {
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a80654da7e2a2da3aef013c54d2f4c438":[7,0,0,0,1,3,5,2,1,1,59,2],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162ac48e71b25b7b2ee323837e515f742c5c":[7,0,0,0,1,3,5,2,1,1,59,3],
-"d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162adff672aa5c4072f6674972213af6ed3b":[7,0,0,0,1,3,5,2,1,1,59,1],
-"d4/d81/boss__faction__champions_8cpp.html#a2c605e9c8b27e970c308e89491e4b541":[7,0,0,0,1,3,5,2,1,1,68],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22":[7,0,0,0,1,3,5,2,1,1,47],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a18c306cd8f1f271be21897316e0d493d":[7,0,0,0,1,3,5,2,1,1,47,5],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a469a2711e924e23b7faf66f26abc8a3a":[7,0,0,0,1,3,5,2,1,1,47,0],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a4de2dcd96ae59b3d20693ded8e1d92a4":[7,0,0,0,1,3,5,2,1,1,47,1],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a5c2a4f86f3e7e88693db587e2ad2c3da":[7,0,0,0,1,3,5,2,1,1,47,2],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a6d556c4943634fb3b24003d6d50d5598":[7,0,0,0,1,3,5,2,1,1,47,6],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a78cf1ff80766946708b98f432a8f34f5":[7,0,0,0,1,3,5,2,1,1,47,8],
 "d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22ac816ba89efc6b737aa41b0f0d63ae591":[7,0,0,0,1,3,5,2,1,1,47,7],
@@ -249,5 +240,14 @@ var NAVTREEINDEX129 =
 "d4/d82/structboss__ambassador__hellmaw.html#a4881f868ac11eb66f3d15b44c94938bf":[6,0,375,11],
 "d4/d82/structboss__ambassador__hellmaw.html#a5f7564ef25a36395cddf4e2c2dbc2dfc":[6,0,375,8],
 "d4/d82/structboss__ambassador__hellmaw.html#a8dd75d368f0f567561db45e1c53ad785":[6,0,375,4],
-"d4/d82/structboss__ambassador__hellmaw.html#a9b0170a49751def614126265240bb87c":[6,0,375,5]
+"d4/d82/structboss__ambassador__hellmaw.html#a9b0170a49751def614126265240bb87c":[6,0,375,5],
+"d4/d82/structboss__ambassador__hellmaw.html#a9ea9d60b8fa90a228951a38fc2f59325":[6,0,375,7],
+"d4/d82/structboss__ambassador__hellmaw.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04":[6,0,375,1],
+"d4/d82/structboss__ambassador__hellmaw.html#ae0e04500073a4c02c9656b4bcd63be9c":[6,0,375,6],
+"d4/d82/structboss__ambassador__hellmaw.html#ae774dfa4379b7321ff194a796c9eb842":[6,0,375,0],
+"d4/d82/structboss__ambassador__hellmaw.html#af3949b46f82863af699396729e88928b":[6,0,375,9],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html":[6,0,729,0],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a03025fa529e932f23479ff19b0cd8238":[6,0,729,0,0],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a272e8565a9b00a27505b301d52814eee":[6,0,729,0,5],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a41e929a3768768eb06bafdee3269fd24":[6,0,729,0,4]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX88 =
 {
-"d2/df6/DBCStores_8h.html#a10e6eae9259492fc3d02e034b6538583":[7,0,0,0,1,2,14,1,18],
-"d2/df6/DBCStores_8h.html#a155a342b9ae217cf65b09570727c8403":[7,0,0,0,1,2,14,1,32],
-"d2/df6/DBCStores_8h.html#a1611914a99682fc964ef95b9a788a969":[7,0,0,0,1,2,14,1,24],
-"d2/df6/DBCStores_8h.html#a173f98dd9664500fdbdd2f7dadb5885c":[7,0,0,0,1,2,14,1,9],
-"d2/df6/DBCStores_8h.html#a1a79dd4c705e4e52ad78394b48986723":[7,0,0,0,1,2,14,1,142],
-"d2/df6/DBCStores_8h.html#a1b0d29aae491efb8ada5ae931d7a968b":[7,0,0,0,1,2,14,1,108],
-"d2/df6/DBCStores_8h.html#a1eb137e3fb7e38599557bf7ce7c8a981":[7,0,0,0,1,2,14,1,1],
-"d2/df6/DBCStores_8h.html#a1ec062af8e28d0a2f82d9b1e73fd80e4":[7,0,0,0,1,2,14,1,126],
-"d2/df6/DBCStores_8h.html#a209289d531d894389cae6485e7107a48":[7,0,0,0,1,2,14,1,135],
 "d2/df6/DBCStores_8h.html#a239f66348c0bb960c7f1c9e424fa8120":[7,0,0,0,1,2,14,1,141],
 "d2/df6/DBCStores_8h.html#a24adf55f193f8eb56072886ef306dd7b":[7,0,0,0,1,2,14,1,109],
 "d2/df6/DBCStores_8h.html#a260c5dcdc0bd9e13b1c7857204810b16":[7,0,0,0,1,2,14,1,45],
@@ -249,5 +240,14 @@ var NAVTREEINDEX88 =
 "d2/dfc/instance__serpent__shrine_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,2,0,6,14],
 "d2/dfc/structnpc__sanguine__spirit.html":[6,0,2092],
 "d2/dfc/structnpc__sanguine__spirit.html#a1e9a9a8dfaf5475b99d53b6b14db25f0":[6,0,2092,0],
-"d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[6,0,2092,1]
+"d2/dfc/structnpc__sanguine__spirit.html#ab92451fe70fd8c444a1c9d0bc318f624":[6,0,2092,1],
+"d2/dfc/structnpc__sanguine__spirit.html#abb07fe0308c3cce7ab5e239e66d65c52":[6,0,2092,2],
+"d2/dfd/GuildMgr_8cpp.html":[7,0,0,0,1,2,21,2],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html":[6,0,2004],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a25d0591a131f2e49b9d5c97ed2f2586e":[6,0,2004,11],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a27173bdb8e63f52563cbf15f10bfeb8a":[6,0,2004,7],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a2fbda53115c9b69d2d01a77b3b60710d":[6,0,2004,15],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3781dde3a7fb066620ada4bda214d9d7":[6,0,2004,5],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3f4a61d141c51a29eaefc8118b5311e0":[6,0,2004,13],
+"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7425750b8bd904de4bdf90a70f17ba52":[6,0,2004,1]
 };

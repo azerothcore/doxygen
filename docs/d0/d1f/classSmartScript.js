@@ -21,6 +21,7 @@ var classSmartScript =
     [ "FindLinkedEvent", "d0/d1f/classSmartScript.html#a6f71332cb121457508f0ccfadb1b6a5c", null ],
     [ "GetBaseObject", "d0/d1f/classSmartScript.html#ab2cdc1f3e46246d8c2a74ce006183bdf", null ],
     [ "GetCounterValue", "d0/d1f/classSmartScript.html#a0322a81bf6ee6e854b26ccd233045e92", null ],
+    [ "GetEvents", "d0/d1f/classSmartScript.html#accd8d1aa93b075a83dbd081a012d27d6", null ],
     [ "GetLastInvoker", "d0/d1f/classSmartScript.html#a90451ba8b4e539cab0e96d3b27877576", null ],
     [ "GetPathId", "d0/d1f/classSmartScript.html#a8b0cbd9a36d3efc8f63e599042ee4f01", null ],
     [ "GetScript", "d0/d1f/classSmartScript.html#a6cfbf1fb3cf6ec52a146493d7a2c2808", null ],

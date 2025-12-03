@@ -1,14 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a40bf30c753bdf3981e5d9de10283ce3f":[7,0,0,0,1,3,5,7,6,4,4],
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,7,6,4,0],
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407":[7,0,0,0,1,3,5,7,6,4,3],
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a85405cbf94da2d357af5b3ffe9ec72d4":[7,0,0,0,1,3,5,7,6,4,5],
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,7,6,4,1],
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[7,0,0,0,1,3,5,7,6,4,2],
-"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1afa2681b1155bdb76f3b66cce305dca8e":[7,0,0,0,1,3,5,7,6,4,6],
-"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,6,3],
-"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a056a8f021f41de4202955d223001ddbe":[7,0,0,0,1,3,5,7,6,3,1],
 "d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aab6d2de7e94bbeaf6703d7c3b3dc9c8e":[7,0,0,0,1,3,5,7,6,3,0],
 "d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774":[7,0,0,0,1,3,5,7,6,6],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,6,5],
@@ -249,5 +240,14 @@ var NAVTREEINDEX103 =
 "d3/d9b/classspell__gyth__chromatic__protection.html#a08e84f2b2ff25ed7e260e61251f9cdb9":[6,0,3063,0],
 "d3/d9b/classspell__gyth__chromatic__protection.html#a3ba84d4fd311a91efa685980ffec8d77":[6,0,3063,2],
 "d3/d9b/classspell__gyth__chromatic__protection.html#aa36a2e10a6fd67fa74d08e20dc806744":[6,0,3063,3],
-"d3/d9b/classspell__gyth__chromatic__protection.html#aeff8b89300bb5d3589a46a4f66cfd77d":[6,0,3063,4]
+"d3/d9b/classspell__gyth__chromatic__protection.html#aeff8b89300bb5d3589a46a4f66cfd77d":[6,0,3063,4],
+"d3/d9b/classspell__gyth__chromatic__protection.html#afd3d4786f739566056b69390553d9c71":[6,0,3063,1],
+"d3/d9b/structPlayerClassInfo.html":[6,0,2400],
+"d3/d9b/structPlayerClassInfo.html#a6a0a6db24e144593356e0505946e8f06":[6,0,2400,0],
+"d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[6,0,2400,1],
+"d3/d9c/classinstance__magtheridons__lair.html":[6,0,1314],
+"d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1314,2],
+"d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1314,1],
+"d3/d9d/classBoundaryIntersectBoundary.html":[6,0,816],
+"d3/d9d/classBoundaryIntersectBoundary.html#a09c8440d1ddb8264bff4065910b7e0a5":[6,0,816,2]
 };

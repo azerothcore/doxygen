@@ -9,6 +9,7 @@ var classWMORoot =
     [ "DoodadData", "da/d10/classWMORoot.html#a193043738049583257b8c26494c97573", null ],
     [ "filename", "da/d10/classWMORoot.html#a8ef5c36dfab76a6baf633a0f6dbe5449", null ],
     [ "flags", "da/d10/classWMORoot.html#ac3e95eb0b51ef25289b2cdf617ac2585", null ],
+    [ "GroupNames", "da/d10/classWMORoot.html#a15e4ff3136a7703b9234e6a86c64375a", null ],
     [ "nDoodadDefs", "da/d10/classWMORoot.html#a1881c8d0ba9d435627a4cdeb3ec8bf77", null ],
     [ "nDoodadNames", "da/d10/classWMORoot.html#ab51a28cda7db10964cfac9b13022dcd6", null ],
     [ "nDoodadSets", "da/d10/classWMORoot.html#a17b88fd5067eb7d30e345726ad7d1f26", null ],

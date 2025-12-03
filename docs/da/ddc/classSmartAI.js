@@ -61,6 +61,7 @@ var classSmartAI =
     [ "SetFollow", "da/ddc/classSmartAI.html#ad9c0fe767f56e081276682eca3b50e2b", null ],
     [ "SetGUID", "da/ddc/classSmartAI.html#a2bff70def5fccd6b6388bd55a450a17c", null ],
     [ "SetInvincibilityHpLevel", "da/ddc/classSmartAI.html#ae12d7b3a2c9a8f69c69ca0cc795c0e10", null ],
+    [ "SetMainSpell", "da/ddc/classSmartAI.html#a47a5f07690b9a4d3f0cf07b1d4a10568", null ],
     [ "SetScript9", "da/ddc/classSmartAI.html#a613858d346747d285b74378c04a43f9c", null ],
     [ "SetSwim", "da/ddc/classSmartAI.html#a30c41adbb3605470306e8711ad24a22b", null ],
     [ "SetWPPauseTimer", "da/ddc/classSmartAI.html#a84af95d422892ad176c80c7491070fef", null ],

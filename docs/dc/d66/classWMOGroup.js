@@ -5,6 +5,7 @@ var classWMOGroup =
     [ "ConvertToVMAPGroupWmo", "dc/d66/classWMOGroup.html#ae4430cee0de8719128a77abf1d5f97ba", null ],
     [ "GetLiquidTypeId", "dc/d66/classWMOGroup.html#ac41bf56bfaef1f478a0210327015f46d", null ],
     [ "open", "dc/d66/classWMOGroup.html#abd301198a52de037a499089263ab8a83", null ],
+    [ "ShouldSkip", "dc/d66/classWMOGroup.html#af75eef1c0cf5a1450a3ce8a8a5d455bc", null ],
     [ "bbcorn1", "dc/d66/classWMOGroup.html#af906d56c7da01d8afe8fcc1304f1a420", null ],
     [ "bbcorn2", "dc/d66/classWMOGroup.html#a752352742955934b15d6882fa7e0e96a", null ],
     [ "descGroupName", "dc/d66/classWMOGroup.html#a50c861842e55b23eed753a05d0395b27", null ],

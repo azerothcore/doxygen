@@ -1,7 +1,5 @@
 var NAVTREEINDEX296 =
 {
-"db/de6/structTargetInfo.html#afb839b2b409a61e4d63de03dbce2abcb":[6,0,4155,3],
-"db/de6/struct__Damage.html":[6,0,12],
 "db/de6/struct__Damage.html#acbab962cbc25ad032c97216feac281bb":[6,0,12,1],
 "db/de6/struct__Damage.html#aecdcc73f2cb30ef5cc149607e01bbe34":[6,0,12,2],
 "db/de6/struct__Damage.html#afc0bd7960848f6434c182a3fadc1e256":[6,0,12,0],
@@ -27,8 +25,8 @@ var NAVTREEINDEX296 =
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a8a568d842fc8da8e39b325b459cdb44d":[5,0,1,8,11,8],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[5,0,1,8,11,1],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce":[6,0,0,5,11,1],
-"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,1,8,11,4],
 "db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[6,0,0,5,11,4],
+"db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#abadcc4a4ff97f4fa132978fbd0f37e1d":[5,0,1,8,11,4],
 "db/de9/classboss__thorim__pillar.html":[6,0,741],
 "db/de9/classboss__thorim__pillar.html#a7a2cbafc1d359d7b33bb735342cdfe2d":[6,0,741,1],
 "db/de9/classboss__thorim__pillar.html#af95d5e819292af9b54a022674b74af70":[6,0,741,2],
@@ -190,14 +188,14 @@ var NAVTREEINDEX296 =
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1527,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,31,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,11,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,11,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,31,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,11,6,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,6,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,31,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,31,6,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,11,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,11,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,31,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3178],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3178,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3178,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX296 =
 "db/df1/structboss__terestian__illhoof.html#a5750bf4f12ac01216335a926f885e136":[6,0,725,0],
 "db/df1/structboss__terestian__illhoof.html#a685b00f0e3317740412adfc48df1c3fb":[6,0,725,5],
 "db/df1/structboss__terestian__illhoof.html#a8b156654dbd75a4a7626edf30a8aae78":[6,0,725,3],
-"db/df1/structboss__terestian__illhoof.html#a9039c0fb905e72e659ce62f9d36593ce":[6,0,725,1]
+"db/df1/structboss__terestian__illhoof.html#a9039c0fb905e72e659ce62f9d36593ce":[6,0,725,1],
+"db/df1/structboss__terestian__illhoof.html#ab7de8b406de200eec981fab79a56dcd7":[6,0,725,4],
+"db/df1/structboss__terestian__illhoof.html#adc1f9195954eda7ec406ac9a084b7508":[6,0,725,2]
 };

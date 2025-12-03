@@ -48,5 +48,6 @@ var searchData=
   ['hyjalcreaturesids_45',['HyjalCreaturesIds',['../d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1',1,'hyjal.h']]],
   ['hyjalgameobjectids_46',['HyjalGameobjectIds',['../d0/dff/hyjal_8h.html#aa7f1863c00e2eb24065eb303b9eca35e',1,'hyjal.h']]],
   ['hyjalmisc_47',['HyjalMisc',['../d0/dff/hyjal_8h.html#abd6cce1437900ab106eccd088558498e',1,'hyjal.h']]],
-  ['hyjalpaths_48',['HyjalPaths',['../d0/dff/hyjal_8h.html#a687472286140e8a3957e0864d7a0d1aa',1,'hyjal.h']]]
+  ['hyjalpaths_48',['HyjalPaths',['../d0/dff/hyjal_8h.html#a687472286140e8a3957e0864d7a0d1aa',1,'hyjal.h']]],
+  ['hyldsmeetprotodrake_49',['HyldsmeetProtoDrake',['../dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2',1,'zone_storm_peaks.cpp']]]
 ];

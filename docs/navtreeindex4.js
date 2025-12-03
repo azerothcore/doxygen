@@ -1,6 +1,7 @@
 var NAVTREEINDEX4 =
 {
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[5,0,31,6,20,0],
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a7bd310d1fa4fb332cd815a259de3ef2d":[6,0,11,6,20,0],
 "d0/d38/classnpc__ichor__globule.html":[6,0,1879],
 "d0/d38/classnpc__ichor__globule.html#a4dbd3b057e319ba83e0e1c94b99cd2ab":[6,0,1879,1],
 "d0/d38/classnpc__ichor__globule.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2":[6,0,1879,2],
@@ -51,14 +52,14 @@ var NAVTREEINDEX4 =
 "d0/d3d/classinstance__the__underbog.html#afaf8740a3e367a1a54eaa3e76ffa483e":[6,0,1348,1],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html":[5,0,1,32],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html":[6,0,0,20],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a2b38f9e66b1ba3bb678d763937852e02":[6,0,0,20,1],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a2b38f9e66b1ba3bb678d763937852e02":[5,0,1,32,1],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a2b38f9e66b1ba3bb678d763937852e02":[6,0,0,20,1],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[5,0,1,32,3],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#a65245ce627d5ccfde557f2d7e744ead6":[6,0,0,20,3],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[5,0,1,32,0],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[6,0,0,20,0],
-"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[5,0,1,32,2],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf":[5,0,1,32,0],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[6,0,0,20,2],
+"d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aed6fe2e6d17e2076a373b32de071cd18":[5,0,1,32,2],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aff91ead572f2ed0d1912dbd0180196d5":[6,0,0,20,4],
 "d0/d3e/classAcore_1_1AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck.html#aff91ead572f2ed0d1912dbd0180196d5":[5,0,1,32,4],
 "d0/d3e/classadt__MCVT.html":[6,0,136],
@@ -150,8 +151,8 @@ var NAVTREEINDEX4 =
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html":[5,0,31,0,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[6,0,11,0,1,2],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a08d2992816ee94b6757c2811b54ed437":[5,0,31,0,1,2],
-"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[5,0,31,0,1,0],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[6,0,11,0,1,0],
+"d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a1cdb7e9c7da7e646af14ac4ac3b7e950":[5,0,31,0,1,0],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[6,0,11,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#a2a482b716f537866a815085ead9cfd38":[5,0,31,0,1,1],
 "d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html#aaf2cd8c1c3d67301cc40af78f138daa0":[6,0,11,0,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "d0/d48/classspell__warl__soulshatter.html#ab8916b5c232d7b55f4a6bb3e9f9ab122":[6,0,4010,0],
 "d0/d48/classspell__warl__soulshatter.html#aba9079e2418281315029c839b22df1c5":[6,0,4010,3],
 "d0/d48/classspell__warl__soulshatter.html#ac8cfa0b54c585f12682602a678d7bf2d":[6,0,4010,1],
-"d0/d48/classspell__warl__soulshatter.html#aee02661fa8845afd666ca27163b4a761":[6,0,4010,2],
-"d0/d49/BattlegroundDS_8h.html":[7,0,0,0,1,2,8,1,7]
+"d0/d48/classspell__warl__soulshatter.html#aee02661fa8845afd666ca27163b4a761":[6,0,4010,2]
 };

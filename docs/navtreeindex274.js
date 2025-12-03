@@ -1,7 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a7aaca15038bf53ff3baaeb39c7713bff":[6,0,685,0,15],
-"db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a8502d5c79b7baac2f9a68349e99b7b16":[6,0,685,0,8],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#aadd3b8f29b49b67685d67036c5f2775f":[6,0,685,0,13],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab72889e00eb1fad659f807620e81e23e":[6,0,685,0,9],
 "db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#ab9c3a5d19c966e547328ce2a28674069":[6,0,685,0,19],
@@ -249,5 +247,7 @@ var NAVTREEINDEX274 =
 "db/d18/classat__zulgurub__edge__of__madness__speech.html":[6,0,255],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#a725de49be12116f2f7e77edd31a096ae":[6,0,255,1],
 "db/d18/classat__zulgurub__edge__of__madness__speech.html#a7d4007716e3ed634ac7e3d3dba26e6f7":[6,0,255,0],
-"db/d18/classspell__gen__fixate__aura.html":[6,0,2957]
+"db/d18/classspell__gen__fixate__aura.html":[6,0,2957],
+"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[6,0,2957,0],
+"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[6,0,2957,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX369 =
 {
+"de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e":[7,0,0,0,1,3,4,31,4,4],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827":[7,0,0,0,1,3,4,31,4,7],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec":[7,0,0,0,1,3,4,31,4,8],
 "de/d98/zone__ungoro__crater_8cpp.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f":[7,0,0,0,1,3,4,31,4,9],
@@ -17,8 +18,8 @@ var NAVTREEINDEX369 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,31,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,11,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,31,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,11,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,31,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,11,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,31,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[6,0,11,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,31,6,43,2],
@@ -125,8 +126,8 @@ var NAVTREEINDEX369 =
 "de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[5,0,20,1,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[6,0,6,1,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,1,4],
-"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,1,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,1,2],
+"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,1,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[6,0,6,1,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[5,0,20,1,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[5,0,20,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX369 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a34e0bfc0651f458e636da7ecf61a800c":[7,0,0,0,1,1,0,0,1,1,341],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a3657ac2dd87ef8ae81e97f656f892255":[7,0,0,0,1,1,0,0,1,1,84],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a368a061134b6ea92f5d1875769d4b396":[7,0,0,0,1,1,0,0,1,1,140],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a37a15e613743503abbfe2e1a92aa0644":[7,0,0,0,1,1,0,0,1,1,434],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a37f7c2469f8b641e5299c21f53405ea8":[7,0,0,0,1,1,0,0,1,1,11]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a37a15e613743503abbfe2e1a92aa0644":[7,0,0,0,1,1,0,0,1,1,434]
 };

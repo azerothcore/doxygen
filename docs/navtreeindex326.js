@@ -1,6 +1,5 @@
 var NAVTREEINDEX326 =
 {
-"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac22e9b215c1351f543289af2875491b4":[6,0,1355,0,10],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac9235ec40c6648bb2a7d252b0053bc47":[6,0,1355,0,15],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#acc0816a05728b59ddf7aeb4077a7329d":[6,0,1355,0,4],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#acde4794f2e980d523e873c0e610f726a":[6,0,1355,0,18],
@@ -103,18 +102,18 @@ var NAVTREEINDEX326 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a992cc2df1edfd47b909c83d9d7067c43":[7,0,0,0,1,3,2,1,1,1,2,4],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,1,1,2,1],
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[7,0,0,0,1,3,2,1,1,1,2,5],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,7,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,7,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,7,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,7,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,7,2,0],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,7,2,1],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,7,2,4],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[6,0,11,7,2,2],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html":[6,0,2727],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#a11620e4d645b3bfd35924700b5dad289":[6,0,2727,0],
 "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html#aa80a032f2ec80aba36f6fe0208412587":[6,0,2727,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX326 =
 "dd/d52/structCreatureData.html#aee7aae90ca299d8ac163bb068fed3f6a":[6,0,923,18],
 "dd/d52/structCreatureData.html#af2a1092af24c3766e10554729061e2ff":[6,0,923,8],
 "dd/d54/classspell__kaelthas__mind__control.html":[6,0,3341],
-"dd/d54/classspell__kaelthas__mind__control.html#abbbffa0a53dc2a55df5e7b17a7f4d38f":[6,0,3341,1]
+"dd/d54/classspell__kaelthas__mind__control.html#abbbffa0a53dc2a55df5e7b17a7f4d38f":[6,0,3341,1],
+"dd/d54/classspell__kaelthas__mind__control.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc":[6,0,3341,0]
 };

@@ -1,6 +1,7 @@
 var NAVTREEINDEX385 =
 {
 "df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22],
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22],
 "df/d3e/namespaceGameTime.html":[5,0,16],
 "df/d3e/namespaceGameTime.html#a443eccf314fe436192278d425d6d8220":[5,0,16,3],
 "df/d3e/namespaceGameTime.html#a45712735241c9563a12fc3da54fb144d":[5,0,16,6],
@@ -151,8 +152,8 @@ var NAVTREEINDEX385 =
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a295d4bef97b97c7deb31a81274f0818d":[6,0,1572,0,2],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a9353ac81b0c209a56313b52f2257ddd2":[6,0,1572,0,1],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1572,0,0],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,78],
+"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[6,0,2118,0],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a147921788b07f5e776e03aaf15049cf0":[6,0,2118,0,4],
 "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a677990d64d2963ff995d9d8522c5aa81":[6,0,2118,0,1],
@@ -226,14 +227,14 @@ var NAVTREEINDEX385 =
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a17a07973a3c043683fc4fe0d1fc45156":[6,0,3589,1],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a3751a14d6e36140ee368d8ded6df03ee":[6,0,3589,2],
 "df/d51/classspell__prince__taldaram__flame__sphere__summon.html#a74a2601e2c160bb4a9b18d421775e6b3":[6,0,3589,0],
-"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,4],
 "df/d51/structMMAP_1_1MapTiles.html":[6,0,6,4],
+"df/d51/structMMAP_1_1MapTiles.html":[5,0,20,4],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[5,0,20,4,4],
 "df/d51/structMMAP_1_1MapTiles.html#a2fc10edf226a6f4548c2175e1013c1b9":[6,0,6,4,4],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[5,0,20,4,3],
 "df/d51/structMMAP_1_1MapTiles.html#a3e7a87f421e8eb23926afe1d0978c3b4":[6,0,6,4,3],
-"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,4,1],
 "df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[6,0,6,4,1],
+"df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350":[5,0,20,4,1],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[5,0,20,4,5],
 "df/d51/structMMAP_1_1MapTiles.html#ab80305bb73234e35a528701d775954b5":[6,0,6,4,5],
 "df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63":[6,0,6,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d52/structmap__fileheader.html#a71c9cd42801697a927543e3acd4c3daf":[6,0,1480,4],
 "df/d52/structmap__fileheader.html#a7623bee6b8cf7d6e39b8716aa72f8514":[6,0,1480,3],
 "df/d52/structmap__fileheader.html#a82d0f500f9e84cf6c8bf917a98f92115":[6,0,1480,2],
-"df/d52/structmap__fileheader.html#a876d70dcd6ccec9ad09de77718c02150":[6,0,1480,5],
-"df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[6,0,1480,10]
+"df/d52/structmap__fileheader.html#a876d70dcd6ccec9ad09de77718c02150":[6,0,1480,5]
 };

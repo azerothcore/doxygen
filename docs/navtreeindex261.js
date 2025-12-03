@@ -1,8 +1,5 @@
 var NAVTREEINDEX261 =
 {
-"da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43abef35d671c52be0e6694a4f11d485dda":[7,0,0,0,1,3,7,4,2,2,4,0],
-"da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43ae3711b6301dd17b04218af17566aa6ed":[7,0,0,0,1,3,7,4,2,2,4,3],
-"da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43aea7033bf56b189d2c52e18903ab37901":[7,0,0,0,1,3,7,4,2,2,4,4],
 "da/d83/magtheridons__lair_8h.html#aff286ae066e6cc855674e730f4adba43aff927c339f3ef3b4e63a06dc94c49748":[7,0,0,0,1,3,7,4,2,2,4,6],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html":[6,0,3616],
 "da/d84/classspell__q10190__battery__recharging__blaster__aura.html#a2e73fd55dd7e6e658bc6c6623b650732":[6,0,3616,0],
@@ -44,14 +41,14 @@ var NAVTREEINDEX261 =
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#a8539413b1e0344abe9545f742cc8e6df":[6,0,0,2,1,7],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[6,0,0,2,1,3],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#aaa9c89da159b57a897898bc31e10ecd4":[5,0,1,4,1,3],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[6,0,0,2,1,6],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[5,0,1,4,1,6],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#ab017c87cd73a9b5fade745799724c333":[6,0,0,2,1,6],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[6,0,0,2,1,0],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ac05d4f85233abfc5cbcb87cd2a87bc5a":[5,0,1,4,1,0],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ae350945f2713305e977e4a3e4fc3d5b5":[6,0,0,2,1,4],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#ae350945f2713305e977e4a3e4fc3d5b5":[5,0,1,4,1,4],
-"da/d88/classAcore_1_1Crypto_1_1ARC4.html#af3a8b63c2073120026c262a685eef8f2":[5,0,1,4,1,1],
 "da/d88/classAcore_1_1Crypto_1_1ARC4.html#af3a8b63c2073120026c262a685eef8f2":[6,0,0,2,1,1],
+"da/d88/classAcore_1_1Crypto_1_1ARC4.html#af3a8b63c2073120026c262a685eef8f2":[5,0,1,4,1,1],
 "da/d89/classnpc__wg__spirit__guide.html":[6,0,2280],
 "da/d89/classnpc__wg__spirit__guide.html#a2d46078cb47f817239685d168f7f2e35":[6,0,2280,3],
 "da/d89/classnpc__wg__spirit__guide.html#a769cdf4ac330b5dec71437d325aaf46a":[6,0,2280,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX261 =
 "da/d90/classSpellMgr.html#afa249eca149df213b191ea7009e51fe6":[6,0,4105,82],
 "da/d90/classSpellMgr.html#aff0216d5ca025b8fb37a0feb3d4097b6":[6,0,4105,48],
 "da/d91/classCreatureTextBuilder.html":[6,0,937],
-"da/d91/classCreatureTextBuilder.html#a3f40b8dd1da052a372afbbc5f06700ac":[6,0,937,8]
+"da/d91/classCreatureTextBuilder.html#a3f40b8dd1da052a372afbbc5f06700ac":[6,0,937,8],
+"da/d91/classCreatureTextBuilder.html#a582eed3ab284675e72261a1db9808925":[6,0,937,0],
+"da/d91/classCreatureTextBuilder.html#a5a5fd218c7162ba634455e0db6ee35a1":[6,0,937,6],
+"da/d91/classCreatureTextBuilder.html#a615c3046f749bf44b036958fb1a50128":[6,0,937,2]
 };

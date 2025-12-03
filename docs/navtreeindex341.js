@@ -1,5 +1,6 @@
 var NAVTREEINDEX341 =
 {
+"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,3,3],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2c42690b871b8fd8d191648269062827":[7,0,0,0,1,3,5,10,1,3,3,6],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2e2e169c70137b524d22e57398d5a7d3":[7,0,0,0,1,3,5,10,1,3,3,5],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f77cef4543ef2ad786d84774b06bde8":[7,0,0,0,1,3,5,10,1,3,3,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX341 =
 "de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[6,0,2600,1],
 "de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[6,0,2600,0],
 "de/d09/classspell__mage__polymorph__cast__visual.html":[6,0,3426],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[6,0,3426,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[6,0,3426,4]
+"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[6,0,3426,0]
 };

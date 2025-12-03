@@ -1,14 +1,5 @@
 var NAVTREEINDEX104 =
 {
-"d3/d9b/classspell__gyth__chromatic__protection.html#afd3d4786f739566056b69390553d9c71":[6,0,3063,1],
-"d3/d9b/structPlayerClassInfo.html":[6,0,2400],
-"d3/d9b/structPlayerClassInfo.html#a6a0a6db24e144593356e0505946e8f06":[6,0,2400,0],
-"d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[6,0,2400,1],
-"d3/d9c/classinstance__magtheridons__lair.html":[6,0,1314],
-"d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1314,2],
-"d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1314,1],
-"d3/d9d/classBoundaryIntersectBoundary.html":[6,0,816],
-"d3/d9d/classBoundaryIntersectBoundary.html#a09c8440d1ddb8264bff4065910b7e0a5":[6,0,816,2],
 "d3/d9d/classBoundaryIntersectBoundary.html#a41e100c17db99990981293399660824c":[6,0,816,4],
 "d3/d9d/classBoundaryIntersectBoundary.html#ab0239437fa92e39d144bf3856eb347c7":[6,0,816,3],
 "d3/d9d/classBoundaryIntersectBoundary.html#ad8bbf96e48d18ef87ac31dea8bcb023b":[6,0,816,1],
@@ -146,8 +137,8 @@ var NAVTREEINDEX104 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,1,41],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,1,41,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,29,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,29,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,41,2],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,29,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,29,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,41,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[6,0,0,29,3],
@@ -249,5 +240,14 @@ var NAVTREEINDEX104 =
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ab5dd93a08e4577253118715dd610869f":[7,0,0,0,1,3,10,10,54,29],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262aba4475b0b9244f0403d91be494509f8f":[7,0,0,0,1,3,10,10,54,38],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262abbf995d0d3f1cb2fa773624e10388f26":[7,0,0,0,1,3,10,10,54,46],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262abc321bc8a1c0a4fc6f630ee6930f4f4e":[7,0,0,0,1,3,10,10,54,39]
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262abc321bc8a1c0a4fc6f630ee6930f4f4e":[7,0,0,0,1,3,10,10,54,39],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262acd49bbb4f1d46a41937f630742b27d5b":[7,0,0,0,1,3,10,10,54,15],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262acd5d057f236eec80c4ed9e732aabf4e9":[7,0,0,0,1,3,10,10,54,20],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262acf31a50ae47d735b787806828eea0490":[7,0,0,0,1,3,10,10,54,9],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ad0e5f0760bbbe402513f2e8de8b35559":[7,0,0,0,1,3,10,10,54,44],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262adaa34022f2e14866601be05b22b2589e":[7,0,0,0,1,3,10,10,54,18],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262adb261bb29e847fbbc35f360da3782b80":[7,0,0,0,1,3,10,10,54,1],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ae17efc245b03566a4fe9171673233d8d":[7,0,0,0,1,3,10,10,54,13],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ae43b25194f1870fd09e01409b55a9c98":[7,0,0,0,1,3,10,10,54,11],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262af069629eb382d4209fe7651027dc9bd6":[7,0,0,0,1,3,10,10,54,54]
 };

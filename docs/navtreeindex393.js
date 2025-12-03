@@ -1,5 +1,6 @@
 var NAVTREEINDEX393 =
 {
+"df/da7/classBattleground.html#a311b41d380380658ba95c4cb8abb3b35":[6,0,314,48],
 "df/da7/classBattleground.html#a31f6010afbc7c9acff3d05ec4bf54f0f":[6,0,314,227],
 "df/da7/classBattleground.html#a32d65a8b75a4bbf4cb8c553ee157cb25":[6,0,314,46],
 "df/da7/classBattleground.html#a32ed07c5a795d79f7d9e7c1053ab6f11":[6,0,314,199],
@@ -208,10 +209,10 @@ var NAVTREEINDEX393 =
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,314,252],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,31,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,11,2,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,11,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,31,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,31,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,11,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,11,2,9,2],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,31,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2929],
@@ -248,6 +249,5 @@ var NAVTREEINDEX393 =
 "df/da9/structnpc__chess__move__trigger.html#af413c7af2254c1cc06462b2a62ac88db":[6,0,1683,1],
 "df/daa/classLambdaBasicEvent.html":[6,0,1406],
 "df/daa/classLambdaBasicEvent.html#a2660ba5053b9ad6a1c4231bd32359999":[6,0,1406,2],
-"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[6,0,1406,0],
-"df/daa/classLambdaBasicEvent.html#a8771a49f00554372b5ed38816abbd253":[6,0,1406,1]
+"df/daa/classLambdaBasicEvent.html#a4244b5e91413d71076d9cc3af230aed8":[6,0,1406,0]
 };

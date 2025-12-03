@@ -1,8 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a645cfd91417bcd92e134a74a8a2c3f4d":[7,0,0,0,1,2,41,0,0,6,215],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64bdc4fce5c9cc0c4134129a100244ee":[7,0,0,0,1,2,41,0,0,6,88],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64d1df8dc5b9c905a22949e67ecb01e7":[7,0,0,0,1,2,41,0,0,6,251],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a651bba5033934ceb87de2329c845808a":[7,0,0,0,1,2,41,0,0,6,231],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a658c9bd36cd4f97d0e462ca1ed39a73f":[7,0,0,0,1,2,41,0,0,6,229],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a65c8ec2c8667d6c49c278491c113a374":[7,0,0,0,1,2,41,0,0,6,89],
@@ -249,5 +246,8 @@ var NAVTREEINDEX252 =
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad6eefe9a14ce64b12b65a22c3ebb4db0":[6,0,1918,0,0],
 "da/d2f/classspell__spell__fury__aura.html":[6,0,3846],
 "da/d2f/classspell__spell__fury__aura.html#a236892b4fd6cf081a907becab6187069":[6,0,3846,1],
-"da/d2f/classspell__spell__fury__aura.html#a53fceaa5187f6dbc93f4d0d589086ca9":[6,0,3846,0]
+"da/d2f/classspell__spell__fury__aura.html#a53fceaa5187f6dbc93f4d0d589086ca9":[6,0,3846,0],
+"da/d2f/classspell__spell__fury__aura.html#aa37819b82692df8a21cbbda8833ad492":[6,0,3846,2],
+"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html":[6,0,1885,0],
+"da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#a0729c584c3b65e5f25f4445de378f0ea":[6,0,1885,0,1]
 };

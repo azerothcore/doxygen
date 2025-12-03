@@ -1,9 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d56/classspell__igb__explosion.html#aede083ebebe38deb5898ff028564ef95":[6,0,3167,2],
-"d1/d57/classnpc__lokhtos__darkbargainer.html":[6,0,1933],
-"d1/d57/classnpc__lokhtos__darkbargainer.html#a39547487ef7db8a3942556665099893f":[6,0,1933,1],
-"d1/d57/classnpc__lokhtos__darkbargainer.html#a5a4640678a5669c75b1fa5d787999c02":[6,0,1933,2],
 "d1/d57/classnpc__lokhtos__darkbargainer.html#af91685ecf0f63313968b3d82373668d2":[6,0,1933,0],
 "d1/d57/structboss__fankriss.html":[6,0,460],
 "d1/d57/structboss__fankriss.html#a4f9722f1c6aa27be798d4bacbdb5fac6":[6,0,460,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX33 =
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html":[6,0,736,0],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a195f7ab96331de6d2f796a9c38369db1":[6,0,736,0,11],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1afbac26b0cbf212b787cd53d1eb9a7d":[6,0,736,0,9],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1fb667c0d156b858f4e2fe33bd9e9b53":[6,0,736,0,27]
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1fb667c0d156b858f4e2fe33bd9e9b53":[6,0,736,0,27],
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2097076ffb06a32b1322317de7ae66d7":[6,0,736,0,19],
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2702ed6dd323b882551754384f3696c9":[6,0,736,0,7],
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a3eeb123a7b4756252b31c2e85b027080":[6,0,736,0,15],
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a4550f101e072c3efe1bf38e301204625":[6,0,736,0,5]
 };

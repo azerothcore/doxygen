@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/dba/classspell__the__lich__king__valkyr__target__search.html#a18c80010b9e8803b3c225acf2dd0b605":[6,0,3918,0],
 "dd/dba/classspell__the__lich__king__valkyr__target__search.html#a3a84a9d7109845d201b395f05f66d109":[6,0,3918,6],
 "dd/dba/classspell__the__lich__king__valkyr__target__search.html#aa06b7505ff483bc5e534cc37d909b28c":[6,0,3918,5],
 "dd/dba/classspell__the__lich__king__valkyr__target__search.html#af31fd5b1f9cdc67650eec5e305f095bf":[6,0,3918,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a4c2025ce2334bc3812a2f2ca0c7360a6":[7,0,0,0,1,3,5,9,2,10,18,15],
 "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a77f2914505908e8d47a5527ea4f6d753":[7,0,0,0,1,3,5,9,2,10,18,6],
 "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a8fa322f614ff9ff53f02e7c5cf6069e6":[7,0,0,0,1,3,5,9,2,10,18,13],
-"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,9,2,10,18,0],
-"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a96f364397033f6e3396f673aea584686":[7,0,0,0,1,3,5,9,2,10,18,7]
+"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,9,2,10,18,0]
 };

@@ -2370,7 +2370,7 @@ var annotated_dup =
     [ "npc_hyjal_jaina", "de/d76/classnpc__hyjal__jaina.html", "de/d76/classnpc__hyjal__jaina" ],
     [ "npc_hyjal_thrall", "d0/d0a/classnpc__hyjal__thrall.html", "d0/d0a/classnpc__hyjal__thrall" ],
     [ "npc_hyjal_tyrande", "d2/d76/classnpc__hyjal__tyrande.html", "d2/d76/classnpc__hyjal__tyrande" ],
-    [ "npc_hyldsmeet_protodrake", "d0/dc6/classnpc__hyldsmeet__protodrake.html", "d0/dc6/classnpc__hyldsmeet__protodrake" ],
+    [ "npc_hyldsmeet_protodrake", "d9/d31/structnpc__hyldsmeet__protodrake.html", "d9/d31/structnpc__hyldsmeet__protodrake" ],
     [ "npc_icc_blood_beast", "d6/db7/classnpc__icc__blood__beast.html", "d6/db7/classnpc__icc__blood__beast" ],
     [ "npc_icc_buff_switcher", "d3/d0d/classnpc__icc__buff__switcher.html", "d3/d0d/classnpc__icc__buff__switcher" ],
     [ "npc_icc_gauntlet_controller", "d5/d28/classnpc__icc__gauntlet__controller.html", "d5/d28/classnpc__icc__gauntlet__controller" ],

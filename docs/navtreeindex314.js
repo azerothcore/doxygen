@@ -1,6 +1,5 @@
 var NAVTREEINDEX314 =
 {
-"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a7d0eeee63d4725180e8ce6f7e93e20f0":[7,0,0,0,1,3,4,1,0,1,5,0],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a9205522b2e24743bd4694b2cfbe53542":[7,0,0,0,1,3,4,1,0,1,5,10],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aa0119eb4855f4dee620cdaf437f38fe4":[7,0,0,0,1,3,4,1,0,1,5,7],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0aa694962715ac1fcf1c54e021de98b498":[7,0,0,0,1,3,4,1,0,1,5,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX314 =
 "dc/dc0/structBattlegroundAVScore.html#ac72f50e8959e759d0c285a61967680dd":[6,0,318,3],
 "dc/dc0/structBattlegroundAVScore.html#ae4cc7eb2b4bc79c0166e53567edfb205":[6,0,318,5],
 "dc/dc0/structBattlegroundAVScore.html#ae8d7e9ae9602be798937c1b562d9b305":[6,0,318,10],
-"dc/dc0/structBattlegroundAVScore.html#aeb6175c1a67e6f55b6719bb879bd8b62":[6,0,318,13]
+"dc/dc0/structBattlegroundAVScore.html#aeb6175c1a67e6f55b6719bb879bd8b62":[6,0,318,13],
+"dc/dc2/classnpc__slim.html":[6,0,2119]
 };

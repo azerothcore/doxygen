@@ -16,8 +16,7 @@ var zone__storm__peaks_8cpp =
     [ "npc_freed_protodrake::npc_freed_protodrakeAI", "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI.html", "d3/d3c/structnpc__freed__protodrake_1_1npc__freed__protodrakeAI" ],
     [ "npc_icefang", "d7/d6d/classnpc__icefang.html", "d7/d6d/classnpc__icefang" ],
     [ "npc_icefang::npc_icefangAI", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html", "d4/dd3/structnpc__icefang_1_1npc__icefangAI" ],
-    [ "npc_hyldsmeet_protodrake", "d0/dc6/classnpc__hyldsmeet__protodrake.html", "d0/dc6/classnpc__hyldsmeet__protodrake" ],
-    [ "npc_hyldsmeet_protodrake::npc_hyldsmeet_protodrakeAI", "d2/dcd/classnpc__hyldsmeet__protodrake_1_1npc__hyldsmeet__protodrakeAI.html", "d2/dcd/classnpc__hyldsmeet__protodrake_1_1npc__hyldsmeet__protodrakeAI" ],
+    [ "npc_hyldsmeet_protodrake", "d9/d31/structnpc__hyldsmeet__protodrake.html", "d9/d31/structnpc__hyldsmeet__protodrake" ],
     [ "spell_close_rift_aura", "d6/dcc/classspell__close__rift__aura.html", "d6/dcc/classspell__close__rift__aura" ],
     [ "spell_q12823_remove_collapsing_cave_aura", "db/d95/classspell__q12823__remove__collapsing__cave__aura.html", "db/d95/classspell__q12823__remove__collapsing__cave__aura" ],
     [ "npc_vehicle_d16_propelled_delivery", "d6/d1e/classnpc__vehicle__d16__propelled__delivery.html", "d6/d1e/classnpc__vehicle__d16__propelled__delivery" ],
@@ -72,6 +71,9 @@ var zone__storm__peaks_8cpp =
       [ "SPELL_KILL_CREDIT_DRAKE", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
       [ "EVENT_CHECK_AREA", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
       [ "EVENT_REACHED_HOME", "dd/db2/zone__storm__peaks_8cpp.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
+    ] ],
+    [ "HyldsmeetProtoDrake", "dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2", [
+      [ "NPC_HYLDSMEET_DRAKERIDER", "dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7", null ]
     ] ],
     [ "MammothExplosion", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757", [
       [ "SPELL_MAMMOTH_EXPL_1", "dd/db2/zone__storm__peaks_8cpp.html#a277341b2a5fcfa1e770f75bc37d7d757a110986e73ade51dc2d2d2a1445f29583", null ],

@@ -1,9 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"d1/d16/classSpell.html#add9cd1a79cc73388efbc0ae55fc97f96":[6,0,2577,147],
-"d1/d16/classSpell.html#adebb4d624890184a3960d6edcb25eca2":[6,0,2577,244],
-"d1/d16/classSpell.html#adedc2349e92848ab5bd8508d44c0bcae":[6,0,2577,101],
-"d1/d16/classSpell.html#adf73d7635455658b3a96095e59e20d68":[6,0,2577,270],
 "d1/d16/classSpell.html#ae0145f14c4a608000c5b928e9cb4e099":[6,0,2577,251],
 "d1/d16/classSpell.html#ae1d3075f42cccfa27b9ea322c2b7b44d":[6,0,2577,61],
 "d1/d16/classSpell.html#ae31ef225c3a9ccdcfdc8c0db2b786dda":[6,0,2577,52],
@@ -77,10 +73,10 @@ var NAVTREEINDEX26 =
 "d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
 "d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5],
 "d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6],
-"d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,1,122],
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,110],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,110,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html":[5,0,1,122],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,122,5],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,110,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,122,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,110,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,1,122,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX26 =
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1623080f2466aeca03f048decc34bdb5":[6,0,1358,0,10],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a16b67dce6407db52ec7571c9bbc9f8c5":[6,0,1358,0,13],
 "d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a195e4175f943bfaf42ded378cde928e4":[6,0,1358,0,1],
-"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1cf2834e928692c69fdfcf7ae8910745":[6,0,1358,0,8]
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a1cf2834e928692c69fdfcf7ae8910745":[6,0,1358,0,8],
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a4545b6c8ff9e9908466ce105b484ef70":[6,0,1358,0,7],
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a55a0c486845dc63865cf557271304c20":[6,0,1358,0,0],
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a57cf874e315f0f9686b684151c37e740":[6,0,1358,0,16],
+"d1/d1b/structinstance__zulaman_1_1instance__zulaman__InstanceMapScript.html#a5cb0702b7cad42f0760d360dfc3345f3":[6,0,1358,0,9]
 };

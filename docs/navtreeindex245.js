@@ -1,9 +1,5 @@
 var NAVTREEINDEX245 =
 {
-"d9/de5/classspell__gen__remove__impairing__auras.html#a8a70913369aa733160366f37ff1c3470":[6,0,3012,2],
-"d9/de5/classspell__hun__cower.html":[6,0,3120],
-"d9/de5/classspell__hun__cower.html#a37d29d87bec2fe2908b7d3e47f5e1caa":[6,0,3120,2],
-"d9/de5/classspell__hun__cower.html#a83bf0327aade6f6a33293a442ad10911":[6,0,3120,0],
 "d9/de5/classspell__hun__cower.html#aa964f4eb7391dab54ff744fc94306de1":[6,0,3120,1],
 "d9/de6/CharacterHandler_8cpp.html":[7,0,0,0,1,2,22,9],
 "d9/de7/classAreaTrigger__at__nats__landing.html":[6,0,172],
@@ -40,10 +36,10 @@ var NAVTREEINDEX245 =
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,31,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX245 =
 "d9/df5/structboss__sartharion__dragonAI.html#aeb49e63300a317f0e969159266fd8ea1":[6,0,686,2],
 "d9/df5/structboss__sartharion__dragonAI.html#afffee05f402a1960232c7920beb9beb9":[6,0,686,0],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html":[6,0,1327,0],
-"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a04d36b66a5570d03bb95ef2225a5c902":[6,0,1327,0,0]
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a04d36b66a5570d03bb95ef2225a5c902":[6,0,1327,0,0],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a1dfd39d65b16bb6e1373fe83ba4053c5":[6,0,1327,0,5],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a23485a35f0aa2f2ffad53398882d163a":[6,0,1327,0,8],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a3d1611870945cd0c8cd7d4e7728cfd84":[6,0,1327,0,1],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a567ac5d9a17514ede5b84c5d78204072":[6,0,1327,0,3]
 };

@@ -1,14 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d37/structFileCloser.html":[6,0,1042],
-"d4/d37/structFileCloser.html#a92cee61e659d819612af9d8f340661ab":[6,0,1042,0],
-"d4/d37/structnpc__general__andorov.html":[6,0,1804],
-"d4/d37/structnpc__general__andorov.html#a230803b7f29829118d105ec768941ffa":[6,0,1804,7],
-"d4/d37/structnpc__general__andorov.html#a38dd94fea45cf2c1821cb01e3d3e70d8":[6,0,1804,11],
-"d4/d37/structnpc__general__andorov.html#a38eadfe7e465c276f7496c5b51f60d03":[6,0,1804,8],
-"d4/d37/structnpc__general__andorov.html#a3add3fa13ffae3cd688eaf564c3f835d":[6,0,1804,5],
-"d4/d37/structnpc__general__andorov.html#a6897bb1ed63743ce8b225786d63910df":[6,0,1804,14],
-"d4/d37/structnpc__general__andorov.html#a701221e8fd8830a3586d9791fd8eca56":[6,0,1804,2],
 "d4/d37/structnpc__general__andorov.html#a728b73ed109ee6b2b45eb3f1415b4744":[6,0,1804,6],
 "d4/d37/structnpc__general__andorov.html#a9f1261cde233466b814b53be03406370":[6,0,1804,4],
 "d4/d37/structnpc__general__andorov.html#aa0708d2c1e4829371b93697744fb10b7":[6,0,1804,12],
@@ -249,5 +240,14 @@ var NAVTREEINDEX122 =
 "d4/d3e/classBattlegroundSA.html#a4b6d51c56207a79a4da752b4d3e0490b":[6,0,337,32],
 "d4/d3e/classBattlegroundSA.html#a4d589e43b20f9a96dc13c07047fde356":[6,0,337,16],
 "d4/d3e/classBattlegroundSA.html#a500419f1440276f048757b3108d1125a":[6,0,337,25],
-"d4/d3e/classBattlegroundSA.html#a5327dd6d4574782db4dd5a8239453740":[6,0,337,6]
+"d4/d3e/classBattlegroundSA.html#a5327dd6d4574782db4dd5a8239453740":[6,0,337,6],
+"d4/d3e/classBattlegroundSA.html#a55df44ff982350d61a20380e23eaa54e":[6,0,337,1],
+"d4/d3e/classBattlegroundSA.html#a59755f5bca1508b107dfa7048a7c91f2":[6,0,337,18],
+"d4/d3e/classBattlegroundSA.html#a5eadd31adcd3f742a55ccd6c7c879869":[6,0,337,10],
+"d4/d3e/classBattlegroundSA.html#a65962dc7e02c24036ad22a64b9fbd0d8":[6,0,337,8],
+"d4/d3e/classBattlegroundSA.html#a6892124c18718bbcf818b26055c1ee32":[6,0,337,30],
+"d4/d3e/classBattlegroundSA.html#a6ae46b33fdedd6b0a827e4005bde3530":[6,0,337,46],
+"d4/d3e/classBattlegroundSA.html#a6cee2cd28f6e7bc444e3912a3e41523e":[6,0,337,5],
+"d4/d3e/classBattlegroundSA.html#a6df9ca3027678829f03413fe39fa3000":[6,0,337,53],
+"d4/d3e/classBattlegroundSA.html#a7b5aaf717ffc9735d0a5ea4defed46ce":[6,0,337,2]
 };

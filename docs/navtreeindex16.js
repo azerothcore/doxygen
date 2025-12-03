@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698aeb17c4eee4eebe233b6440cee654764b":[7,0,0,0,1,3,2,1,3,12,2,2],
 "d0/dad/molten__core_8h.html#aeab716d956dab0ebeaec5413c900e698af1ed8aef8ab015843055bbafbe7347b9":[7,0,0,0,1,3,2,1,3,12,2,9],
 "d0/dae/classArenaSeasonRewardDistributor.html":[6,0,185],
 "d0/dae/classArenaSeasonRewardDistributor.html#a93640633dc11edda2cd1fce4f1da496b":[6,0,185,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "d0/db7/classGroup.html#a5be377d96f4d118934fc0103a73877f3":[6,0,1230,97],
 "d0/db7/classGroup.html#a60deb01895f041239e41ef3ce646e736":[6,0,1230,139],
 "d0/db7/classGroup.html#a62c0f1238b6435f736b0b0a9daa0bf7f":[6,0,1230,1],
-"d0/db7/classGroup.html#a66880750d28b0f1cff2be1edcf620bb9":[6,0,1230,108],
-"d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4":[6,0,1230,42]
+"d0/db7/classGroup.html#a66880750d28b0f1cff2be1edcf620bb9":[6,0,1230,108]
 };

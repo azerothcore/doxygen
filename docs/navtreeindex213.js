@@ -1,14 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63af401dca375b515a11f8341799438d677":[7,0,0,0,1,3,5,10,1,6,2,1],
-"d8/d3c/structItemLimitCategoryEntry.html":[6,0,1388],
-"d8/d3c/structItemLimitCategoryEntry.html#a5edc6442e026b12dae654fa86440a11a":[6,0,1388,1],
-"d8/d3c/structItemLimitCategoryEntry.html#a76553ecf9f880a5e5967f818123742fd":[6,0,1388,2],
-"d8/d3c/structItemLimitCategoryEntry.html#a7d40e334785d96a2e57d28f87a59778a":[6,0,1388,0],
-"d8/d3d/classspell__marrowgar__bone__slice.html":[6,0,3449],
-"d8/d3d/classspell__marrowgar__bone__slice.html#a39b8e5443250777594e3b4417d5ea1ec":[6,0,3449,5],
-"d8/d3d/classspell__marrowgar__bone__slice.html#a501a46b3e3988ae8cb8af1ff87eeac65":[6,0,3449,4],
-"d8/d3d/classspell__marrowgar__bone__slice.html#a80a5d0f997f5d68a4fb438a81295fa52":[6,0,3449,1],
 "d8/d3d/classspell__marrowgar__bone__slice.html#a86cad92c07fa31c730a3b560d33ed824":[6,0,3449,3],
 "d8/d3d/classspell__marrowgar__bone__slice.html#aa72b762d802c27047d485a8a314c6c6d":[6,0,3449,0],
 "d8/d3d/classspell__marrowgar__bone__slice.html#acfd2927786a5bcefa0889d7e8aa40f72":[6,0,3449,2],
@@ -81,10 +72,10 @@ var NAVTREEINDEX213 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[6,0,602,0,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,31,7,9],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[6,0,11,7,9],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,31,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[6,0,11,7,9,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,31,7,9,2],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#a4623875e38909d8b7300e7d9c703b216":[5,0,31,7,9,4],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[6,0,11,7,9,2],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[5,0,31,7,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[6,0,11,7,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,31,7,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,31,7,9,1],
@@ -249,5 +240,14 @@ var NAVTREEINDEX213 =
 "d8/d4d/classspell__dru__savage__roar__aura.html#a78e30a950b9fc08dff5072028816b8b4":[6,0,2836,3],
 "d8/d4d/classspell__dru__savage__roar__aura.html#ac1e50413041edbecd5cc4189a1121cb5":[6,0,2836,1],
 "d8/d4d/classspell__dru__savage__roar__aura.html#ac3502abb9d6ef213ffd2413eba7916b2":[6,0,2836,4],
-"d8/d4d/classspell__dru__savage__roar__aura.html#afa99d3e45e4a54c41b59ec317ffdd9b9":[6,0,2836,2]
+"d8/d4d/classspell__dru__savage__roar__aura.html#afa99d3e45e4a54c41b59ec317ffdd9b9":[6,0,2836,2],
+"d8/d4d/isle__of__conquest_8cpp.html":[7,0,0,0,1,3,5,13],
+"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cd":[7,0,0,0,1,3,5,13,14],
+"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda22070086d807390f3a1abd3e58ebf829":[7,0,0,0,1,3,5,13,14,0],
+"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cda6dabd6b3cc6c74769d3d8ac9a22c1133":[7,0,0,0,1,3,5,13,14,3],
+"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdadbcdc7932b4e3141c4e5fb1a807bc236":[7,0,0,0,1,3,5,13,14,1],
+"d8/d4d/isle__of__conquest_8cpp.html#a26fcc655092c6f53188fc17833b6a2cdaefe9bfe55a91a8bd7e02f67f6d2c4cb6":[7,0,0,0,1,3,5,13,14,2],
+"d8/d4d/isle__of__conquest_8cpp.html#a4624e31db1be4aeba27dd1aeec3d8d42":[7,0,0,0,1,3,5,13,13],
+"d8/d4d/isle__of__conquest_8cpp.html#a4624e31db1be4aeba27dd1aeec3d8d42a0c03080790fee3aafe55605f14ad07ea":[7,0,0,0,1,3,5,13,13,5],
+"d8/d4d/isle__of__conquest_8cpp.html#a4624e31db1be4aeba27dd1aeec3d8d42a0d9631426a8323fc34a64c325e0f4c83":[7,0,0,0,1,3,5,13,13,3]
 };

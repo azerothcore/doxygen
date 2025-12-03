@@ -1,8 +1,5 @@
 var NAVTREEINDEX251 =
 {
-"da/d1f/classspell__kaelthas__remove__enchanted__weapons.html#ad99a318c6b3ee834aa3c3591a0f8a330":[6,0,3344,1],
-"da/d20/instance__zulaman_8cpp.html":[7,0,0,0,1,3,2,15,6],
-"da/d20/instance__zulaman_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,15,6,8],
 "da/d20/instance__zulaman_8cpp.html#a25158005199d5378837927c0299a6f72":[7,0,0,0,1,3,2,15,6,4],
 "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,15,6,3],
 "da/d20/instance__zulaman_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac1150c56f4c1aa81c823e2f9892ff818":[7,0,0,0,1,3,2,15,6,3,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX251 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a60e00cb4b8d4e07009f51480d25d7bfb":[7,0,0,0,1,2,41,0,0,6,210],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a625dc12d147f84765ca7b381d20e3186":[7,0,0,0,1,2,41,0,0,6,54],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a62a7fcc7c43217fde46f82e7c8949d73":[7,0,0,0,1,2,41,0,0,6,174],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f":[7,0,0,0,1,2,41,0,0,6,8]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f":[7,0,0,0,1,2,41,0,0,6,8],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a645cfd91417bcd92e134a74a8a2c3f4d":[7,0,0,0,1,2,41,0,0,6,215],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64bdc4fce5c9cc0c4134129a100244ee":[7,0,0,0,1,2,41,0,0,6,88],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a64d1df8dc5b9c905a22949e67ecb01e7":[7,0,0,0,1,2,41,0,0,6,251]
 };

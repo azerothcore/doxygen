@@ -1,14 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1b79d584917496f2cdd711fc126a6c02":[7,0,0,0,1,3,5,9,2,13,62,39],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1d89cc5c904d0204733b7eec6d6e5d93":[7,0,0,0,1,3,5,9,2,13,62,7],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1e0a7bf37cdcccddd796e80d02f41e85":[7,0,0,0,1,3,5,9,2,13,62,13],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2694ea796e61f152d3e725bb156c1c18":[7,0,0,0,1,3,5,9,2,13,62,28],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2764e4ec5825f4ab9bb38dd44717c3d9":[7,0,0,0,1,3,5,9,2,13,62,20],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2b6c19d1321094af955678cba4a3d7cf":[7,0,0,0,1,3,5,9,2,13,62,38],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a2f17f57ee72712ea502e8cd1341c95df":[7,0,0,0,1,3,5,9,2,13,62,0],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a3009c28aca00fe770c4cdd795f56a93c":[7,0,0,0,1,3,5,9,2,13,62,30],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a30ed59e157c841e06d5ebd657abf6f64":[7,0,0,0,1,3,5,9,2,13,62,24],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a323c6d3bcaaba09e5dae997863c9ded3":[7,0,0,0,1,3,5,9,2,13,62,75],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a34750416371c3cfbb458703657b7a711":[7,0,0,0,1,3,5,9,2,13,62,51],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a34f213718e608e8001aac2cd0bc90649":[7,0,0,0,1,3,5,9,2,13,62,22],
@@ -249,5 +240,14 @@ var NAVTREEINDEX94 =
 "d3/d36/classnpc__artorius.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57":[6,0,1614,4],
 "d3/d37/classspell__azjol__nerub__pound.html":[6,0,2628],
 "d3/d37/classspell__azjol__nerub__pound.html#a10cb03ba6175f48b0ccaf69ec90e8f50":[6,0,2628,2],
-"d3/d37/classspell__azjol__nerub__pound.html#ad53341842455d98722c03318dd80fb94":[6,0,2628,1]
+"d3/d37/classspell__azjol__nerub__pound.html#ad53341842455d98722c03318dd80fb94":[6,0,2628,1],
+"d3/d37/classspell__azjol__nerub__pound.html#aeddfd61eab5aa077ca07a924ec491285":[6,0,2628,0],
+"d3/d39/structboss__quartermaster__zigris.html":[6,0,666],
+"d3/d39/structboss__quartermaster__zigris.html#a1d2f68327cc9b88fdd82d44ac8446d57":[6,0,666,0],
+"d3/d39/structboss__quartermaster__zigris.html#a25335533bc43171687e03f1ed22d4fb3":[6,0,666,7],
+"d3/d39/structboss__quartermaster__zigris.html#a38197746cc73ada1378e6e1a5555ef79":[6,0,666,5],
+"d3/d39/structboss__quartermaster__zigris.html#a400f7ace05cd5c4d127aecf5d771c616":[6,0,666,6],
+"d3/d39/structboss__quartermaster__zigris.html#a61d7f1c4e5a2901812f1175ccce69ab2":[6,0,666,1],
+"d3/d39/structboss__quartermaster__zigris.html#a71e911bb91b7447e8aed28cdccfda8db":[6,0,666,4],
+"d3/d39/structboss__quartermaster__zigris.html#a9295bbcffd7968051a789e8dfb634e23":[6,0,666,2]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX355 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234aadde1427acda021c8756ab4281b8543b":[7,0,0,0,1,4,7,108,121],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234aae92850f0b854dcbd2d4f0a12f6ca051":[7,0,0,0,1,4,7,108,65],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ab05776d4e4650677906614d28589caf1":[7,0,0,0,1,4,7,108,139],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234ab0b9e323273cd062834b225b4bf51a93":[7,0,0,0,1,4,7,108,105],
@@ -248,6 +249,5 @@ var NAVTREEINDEX355 =
 "de/d15/classnpc__mc__core__hound.html#aee1ef71447dbd1494de5e0065bd5ae78":[6,0,1954,1],
 "de/d15/classspell__gen__leeching__swarm__aura.html":[6,0,2977],
 "de/d15/classspell__gen__leeching__swarm__aura.html#a58336f6a693d91b4fcb151b7eb5c1201":[6,0,2977,0],
-"de/d15/classspell__gen__leeching__swarm__aura.html#a5f3c8e5ddcdcefc4e335e604416890d5":[6,0,2977,3],
-"de/d15/classspell__gen__leeching__swarm__aura.html#a6dffb84e2c65f030e24a86e23f42c7e3":[6,0,2977,1]
+"de/d15/classspell__gen__leeching__swarm__aura.html#a5f3c8e5ddcdcefc4e335e604416890d5":[6,0,2977,3]
 };

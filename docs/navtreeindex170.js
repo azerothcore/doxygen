@@ -1,14 +1,5 @@
 var NAVTREEINDEX170 =
 {
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aa9e77e90e745cf0518604c65c08059e2":[7,0,0,0,1,2,7,0,1,20,0],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aafe4f4aaf273efe8ea3dabd88c6eb5a8":[7,0,0,0,1,2,7,0,1,20,4],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ab8d10846fcb0a9349937fa0859f6d75b":[7,0,0,0,1,2,7,0,1,20,5],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2aba7cc0a5cc5ac40ab98e30817d3fc104":[7,0,0,0,1,2,7,0,1,20,2],
-"d6/d4f/BattlefieldWG_8h.html#aa7f309263e8a3e9f546071a05efb58d2ad8a355c8acce70c783fbfadb6c617fc1":[7,0,0,0,1,2,7,0,1,20,10],
-"d6/d4f/BattlefieldWG_8h.html#aab6b7a16c5d957cf2d31ebff2a8e1efe":[7,0,0,0,1,2,7,0,1,33],
-"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826d":[7,0,0,0,1,2,7,0,1,17],
-"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da16c0131ad34ecbab0691526c984b409c":[7,0,0,0,1,2,7,0,1,17,14],
-"d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da17dbf308535c8ead5dd9b97f27d61a2e":[7,0,0,0,1,2,7,0,1,17,15],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da1b552ca4ff7dc444dd7b331b30b1d226":[7,0,0,0,1,2,7,0,1,17,11],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da1fd8c7308ee90512df561b3204c23b74":[7,0,0,0,1,2,7,0,1,17,7],
 "d6/d4f/BattlefieldWG_8h.html#ab2f418e71fc5dc8a330e41e1dcc7826da22416aedd3bc535a44b8d6e299fb7568":[7,0,0,0,1,2,7,0,1,17,3],
@@ -249,5 +240,14 @@ var NAVTREEINDEX170 =
 "d6/d58/classspell__load__into__catapult__aura.html":[6,0,3395],
 "d6/d58/classspell__load__into__catapult__aura.html#a3f2ef4882bcd52e091a0bcfabfc352cd":[6,0,3395,0],
 "d6/d58/classspell__load__into__catapult__aura.html#a63a3e30704b282a430dcdbb9073a66df":[6,0,3395,3],
-"d6/d58/classspell__load__into__catapult__aura.html#a6ccb698445ce30c5224dcacc3dc8136b":[6,0,3395,4]
+"d6/d58/classspell__load__into__catapult__aura.html#a6ccb698445ce30c5224dcacc3dc8136b":[6,0,3395,4],
+"d6/d58/classspell__load__into__catapult__aura.html#a788480ec4aaa57e643f55daca17c6ded":[6,0,3395,2],
+"d6/d58/classspell__load__into__catapult__aura.html#ab967233994aa3ff07b272f010b2c1545":[6,0,3395,1],
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html":[6,0,3512],
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#a1654fec971696e613b5102b3ca5030f1":[6,0,3512,1],
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#ab1e7d44914952dfb7f7ccf2de4da286f":[6,0,3512,2],
+"d6/d58/classspell__onslaught__or__call__bone__gryphon.html#aeb2cf0a5d2e563e4983ddd237a2b1001":[6,0,3512,0],
+"d6/d58/classspell__vazruden__fireball.html":[6,0,3962],
+"d6/d58/classspell__vazruden__fireball.html#a0d1ff479da3b8f50ed698da9f9029589":[6,0,3962,1],
+"d6/d58/classspell__vazruden__fireball.html#adf350bccc5862252f6928faa4ae3a001":[6,0,3962,0]
 };

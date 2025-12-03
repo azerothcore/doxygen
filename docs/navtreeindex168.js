@@ -1,14 +1,5 @@
 var NAVTREEINDEX168 =
 {
-"d6/d38/classChatHandler.html#ac910f883652c712f97b8db31fb4bd609":[6,0,870,14],
-"d6/d38/classChatHandler.html#ac95228492df6c9b9b3f296a5192d4fd0":[6,0,870,57],
-"d6/d38/classChatHandler.html#acfb8fb0453dd4025de15a909f78b206c":[6,0,870,39],
-"d6/d38/classChatHandler.html#ad04fd84539ea2ab1596b40f2efdd906e":[6,0,870,63],
-"d6/d38/classChatHandler.html#ad2aadfd932dfb1f57cc7a0b2aeb5bd52":[6,0,870,11],
-"d6/d38/classChatHandler.html#ad637608e6b89b2c32ff34a94a18a2d99":[6,0,870,41],
-"d6/d38/classChatHandler.html#ad8f01e73ff069d46b3a8ec5a3fe3b008":[6,0,870,10],
-"d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a":[6,0,870,25],
-"d6/d38/classChatHandler.html#adb2eb23afa00d3651e0c8ca426e76cd6":[6,0,870,3],
 "d6/d38/classChatHandler.html#ae10c7b226467f8e8e8eb149421f0fa51":[6,0,870,36],
 "d6/d38/classChatHandler.html#ae1f6d13efd06dc853be112de5cb6eb43":[6,0,870,49],
 "d6/d38/classChatHandler.html#ae88a523ef51a6d51d38a8d524e49b179":[6,0,870,27],
@@ -249,5 +240,14 @@ var NAVTREEINDEX168 =
 "d6/d41/classAppenderConsole.html#a4ae7f47c76b19eb269b26fdf13f14e48":[6,0,156,2],
 "d6/d41/classAppenderConsole.html#a9303f9408e1cbfc086fba15bf9a4ce59":[6,0,156,5],
 "d6/d41/classAppenderConsole.html#a94e529229bd707fa2bad0a0206a386d5":[6,0,156,1],
-"d6/d41/classAppenderConsole.html#aaf770a87f2151a7e6f92087751528c68":[6,0,156,0]
+"d6/d41/classAppenderConsole.html#aaf770a87f2151a7e6f92087751528c68":[6,0,156,0],
+"d6/d41/classAppenderConsole.html#ab5cbc074f7d9306838974863913c8a5b":[6,0,156,8],
+"d6/d41/classAppenderConsole.html#acdf277241cd25715e48500a15ab6bd30":[6,0,156,7],
+"d6/d41/classgo__witherbark__totem__bundle.html":[6,0,1207],
+"d6/d41/classgo__witherbark__totem__bundle.html#a5ac2b3b572d67fdcc587f242f3d50f97":[6,0,1207,2],
+"d6/d41/classgo__witherbark__totem__bundle.html#affcdff7ec6894add0acec842028efd2e":[6,0,1207,1],
+"d6/d41/structSpellCategoryEntry.html":[6,0,4084],
+"d6/d41/structSpellCategoryEntry.html#a0cb97c73af91dcfdd151c38aa46828cc":[6,0,4084,0],
+"d6/d41/structSpellCategoryEntry.html#a85e0e36dbc79f309d7f50b087ebcd166":[6,0,4084,1],
+"d6/d41/structboss__veknilash.html":[6,0,765]
 };

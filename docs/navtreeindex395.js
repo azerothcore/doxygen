@@ -1,11 +1,12 @@
 var NAVTREEINDEX395 =
 {
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,77,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,89,3],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,89,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2005],
 "df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2005,10],
 "df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2005,3],
@@ -133,12 +134,12 @@ var NAVTREEINDEX395 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2329,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2329,7],
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2329,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,31,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,11,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,31,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,11,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,31,2,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,11,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,31,2,1,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
 "df/dc8/AccountScript_8cpp.html#a737db11e5096ba1c596f469d64c2cc97":[7,0,0,0,1,2,38,0,0,0],
 "df/dc8/AppenderConsole_8h.html":[7,0,0,0,0,9,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX395 =
 "df/dd2/structGameObjectData.html#aadec9e3088063532fd879fdaad3c3d74":[6,0,1083,1],
 "df/dd2/structGameObjectData.html#ab4f0ed59a0ddc809fbfa1cd96d770d41":[6,0,1083,6],
 "df/dd2/structGameObjectData.html#abe0de5925bbdc047e1b0fc3baff039b1":[6,0,1083,9],
-"df/dd2/structGameObjectData.html#ac0918795bd3c37534ad7b7ac64256b16":[6,0,1083,8],
-"df/dd2/structGameObjectData.html#adfb0111d7183eefd893e0cce7691a08e":[6,0,1083,10]
+"df/dd2/structGameObjectData.html#ac0918795bd3c37534ad7b7ac64256b16":[6,0,1083,8]
 };
