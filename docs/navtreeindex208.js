@@ -1,7 +1,5 @@
 var NAVTREEINDEX208 =
 {
-"d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a4217997c11a5daccaaf524f1ab049a40":[7,0,0,0,1,2,16,10,6,20,22],
-"d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a4c2fc8a2380e49f94faeff78e1b5c7b5":[7,0,0,0,1,2,16,10,6,20,38],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14":[7,0,0,0,1,2,16,10,6,20,8],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a6109dcad21a2eaf7e1d57bc2ad917558":[7,0,0,0,1,2,16,10,6,20,34],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a652090adfbd92d3427da4bb9b1c3311b":[7,0,0,0,1,2,16,10,6,20,21],
@@ -122,14 +120,14 @@ var NAVTREEINDEX208 =
 "d7/df9/classspell__the__lich__king__play__movie.html#a598baad08c685bba54ad5306e0d521b4":[6,0,3906,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[6,0,0,45],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,1,57],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,1,57,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[6,0,0,45,2],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[6,0,0,45,1],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,1,57,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,1,57,1],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[6,0,0,45,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,1,57,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[6,0,0,45,5],
-"d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,1,57,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[6,0,0,45,3],
+"d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,1,57,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,1,57,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[6,0,0,45,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,1,57,4],
@@ -173,8 +171,8 @@ var NAVTREEINDEX208 =
 "d7/dfb/structnpc__ulduar__rocket__strike__trigger_1_1npc__ulduar__rocket__strike__triggerAI.html#a6308129d11989dadf0a5948c4a268e4b":[6,0,2235,0,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[5,0,1,7,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[6,0,0,4,0,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[6,0,0,4,0,2,2],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,1,7,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX208 =
 "d8/d03/LootMgr_8cpp.html#a1d63e7e68b4182ae8ebc36a7bbfd2456":[7,0,0,0,1,2,24,2,8],
 "d8/d03/LootMgr_8cpp.html#a2092f58e2dc595c617668f039de77935":[7,0,0,0,1,2,24,2,20],
 "d8/d03/LootMgr_8cpp.html#a24e17720ba3e69cf816688664f0e981a":[7,0,0,0,1,2,24,2,5],
-"d8/d03/LootMgr_8cpp.html#a2ffebb5466d0f97fdaa495088a046a51":[7,0,0,0,1,2,24,2,2]
+"d8/d03/LootMgr_8cpp.html#a2ffebb5466d0f97fdaa495088a046a51":[7,0,0,0,1,2,24,2,2],
+"d8/d03/LootMgr_8cpp.html#a3148b185e4fb344eaa918ccc37ff8e84":[7,0,0,0,1,2,24,2,21],
+"d8/d03/LootMgr_8cpp.html#a433757800c8ee4e9b654d504a4ee828a":[7,0,0,0,1,2,24,2,23]
 };

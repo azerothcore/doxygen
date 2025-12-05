@@ -1,7 +1,5 @@
 var NAVTREEINDEX356 =
 {
-"de/d15/classspell__gen__leeching__swarm__aura.html#a6dffb84e2c65f030e24a86e23f42c7e3":[6,0,2977,1],
-"de/d15/classspell__gen__leeching__swarm__aura.html#ad3485b1ab83d4a49713dfd3335b672fd":[6,0,2977,2],
 "de/d15/classspell__hodir__flash__freeze.html":[6,0,3100],
 "de/d15/classspell__hodir__flash__freeze.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec":[6,0,3100,1],
 "de/d15/classspell__hodir__flash__freeze.html#af15fc44e9bd5251aa70aaaa6657e0c29":[6,0,3100,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX356 =
 "de/d1c/classGameObject.html#ac97b16db184a1dfc90140b5b0a6fb389":[6,0,1078,78],
 "de/d1c/classGameObject.html#aca9173ae7fbd46664919d3d1caef4770":[6,0,1078,14],
 "de/d1c/classGameObject.html#acb03061b4b1fc739cfee78c3e47e7e08":[6,0,1078,153],
-"de/d1c/classGameObject.html#acc5e1ca4266bc0c777804483e684632b":[6,0,1078,25]
+"de/d1c/classGameObject.html#acc5e1ca4266bc0c777804483e684632b":[6,0,1078,25],
+"de/d1c/classGameObject.html#acf03d26cfd0914aefc207eae53c5ffcf":[6,0,1078,45],
+"de/d1c/classGameObject.html#acfb1d37bab02bb7a8e87a94fa9eeab8d":[6,0,1078,94]
 };

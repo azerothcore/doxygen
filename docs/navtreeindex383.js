@@ -1,7 +1,5 @@
 var NAVTREEINDEX383 =
 {
-"df/d23/deadmines_8h.html#a430093e84bf56df8f56940091b668c93":[7,0,0,0,1,3,2,2,1,4],
-"df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,2,2,1,2],
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db":[7,0,0,0,1,3,2,2,1,2,0],
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,2,2,1,2,2],
 "df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c":[7,0,0,0,1,3,2,2,1,2,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX383 =
 "df/d31/structWaveDataCreature.html#a127341c70f8785ceb556b1c11b23f477":[6,0,4271,0],
 "df/d31/structWaveDataCreature.html#a2d5f42a6b1a309c8db74febcedf457eb":[6,0,4271,3],
 "df/d31/structWaveDataCreature.html#a6346259269af7f2936f959f87288dd69":[6,0,4271,4],
-"df/d31/structWaveDataCreature.html#aa57ff686c5fde12269e231333d8a8bef":[6,0,4271,2]
+"df/d31/structWaveDataCreature.html#aa57ff686c5fde12269e231333d8a8bef":[6,0,4271,2],
+"df/d31/structWaveDataCreature.html#ad51fb68e41e04490f658a4c4f62612bd":[6,0,4271,1],
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html":[6,0,1359,0]
 };

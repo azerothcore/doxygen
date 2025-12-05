@@ -1,7 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d7b/classRotateMovementGenerator.html#a3e177762fcfc11ac47aa820b46b93ed0":[6,0,2501,4],
-"d8/d7b/classRotateMovementGenerator.html#a7cf10886bdd50ccbc5900b9229958e01":[6,0,2501,8],
 "d8/d7b/classRotateMovementGenerator.html#a8717e890670d9f4e2ff66c0981d14aa6":[6,0,2501,6],
 "d8/d7b/classRotateMovementGenerator.html#a89a6559b4380210972e82c6ca6d5a9db":[6,0,2501,0],
 "d8/d7b/classRotateMovementGenerator.html#afd7588c7877b116cc9626a774b89d584":[6,0,2501,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX219 =
 "d8/d86/structServerMail.html#ad120200ba47bf8ea8511a46d56f0daec":[6,0,2529,6],
 "d8/d86/structVampiricBiteTargetSelector.html":[6,0,4237],
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4237,0],
-"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4237,1]
+"d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4237,1],
+"d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4237,2],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,11,6,39]
 };

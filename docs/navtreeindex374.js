@@ -1,7 +1,5 @@
 var NAVTREEINDEX374 =
 {
-"de/dbe/NPCHandler_8cpp.html":[7,0,0,0,1,2,22,21],
-"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514":[7,0,0,0,1,2,22,21,0],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2":[7,0,0,0,1,2,22,21,0,0],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e":[7,0,0,0,1,2,22,21,0,2],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317":[7,0,0,0,1,2,22,21,0,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX374 =
 "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923":[7,0,0,0,1,3,4,29,8,6],
 "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0":[7,0,0,0,1,3,4,29,8,0],
 "de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c":[7,0,0,0,1,3,4,29,8,4],
-"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820":[7,0,0,0,1,3,4,29,8,8]
+"de/dcc/zone__thousand__needles_8cpp.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820":[7,0,0,0,1,3,4,29,8,8],
+"de/dcc/zone__thousand__needles_8cpp.html#aca7b1639e471cc34f43cd5768265d02a":[7,0,0,0,1,3,4,29,14],
+"de/dcf/classFormationMgr.html":[6,0,1063]
 };

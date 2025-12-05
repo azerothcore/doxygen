@@ -1,7 +1,5 @@
 var NAVTREEINDEX218 =
 {
-"d8/d74/classWorldSession.html#abd50ab388e3b222aac2cb85de40dc326":[4,1,19,484],
-"d8/d74/classWorldSession.html#abd79893fa3de7652009e32fff5d9523d":[4,1,19,32],
 "d8/d74/classWorldSession.html#abd9350b38f32f1f0ed4c71e974bc09f3":[4,1,19,375],
 "d8/d74/classWorldSession.html#abdae283a28f02078c636f0a7b95ae9c2":[4,1,19,116],
 "d8/d74/classWorldSession.html#abdce2c8c03251187648315dbc2af63dd":[4,1,19,393],
@@ -249,5 +247,7 @@ var NAVTREEINDEX218 =
 "d8/d7b/classRotateMovementGenerator.html#a0dc8600e3aa862a81735dfb927232e53":[6,0,2501,5],
 "d8/d7b/classRotateMovementGenerator.html#a18fea8760bb24912af9349a06ff7b596":[6,0,2501,3],
 "d8/d7b/classRotateMovementGenerator.html#a20677803edf5d93ceae3bf76ef426a81":[6,0,2501,2],
-"d8/d7b/classRotateMovementGenerator.html#a2cb8d5fc3d26c24e62c7373f1ce49b13":[6,0,2501,7]
+"d8/d7b/classRotateMovementGenerator.html#a2cb8d5fc3d26c24e62c7373f1ce49b13":[6,0,2501,7],
+"d8/d7b/classRotateMovementGenerator.html#a3e177762fcfc11ac47aa820b46b93ed0":[6,0,2501,4],
+"d8/d7b/classRotateMovementGenerator.html#a7cf10886bdd50ccbc5900b9229958e01":[6,0,2501,8]
 };

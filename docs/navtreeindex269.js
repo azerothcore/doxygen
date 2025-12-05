@@ -1,7 +1,5 @@
 var NAVTREEINDEX269 =
 {
-"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html":[6,0,2082,0],
-"da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a063a28cd36dbc709699e6d1d4e4ca9e3":[6,0,2082,0,1],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a1b4e12b199bf3ada517c895c5f387c4a":[6,0,2082,0,8],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a4dd62e51fc75fc5e4a44859437549f29":[6,0,2082,0,0],
 "da/ddb/structnpc__risen__archmage_1_1npc__risen__archmageAI.html#a522d30cb60cf6af2cd8cc943a7e2f5e3":[6,0,2082,0,5],
@@ -231,12 +229,12 @@ var NAVTREEINDEX269 =
 "da/de3/structnpc__fos__leader_1_1npc__fos__leaderAI.html#ae6a80f77558e0f5a62efc3b5ef1f61d6":[6,0,1784,0,0],
 "da/de4/classlfg_1_1Lfg5Guids.html":[6,0,5,0],
 "da/de4/classlfg_1_1Lfg5Guids.html":[5,0,18,0],
-"da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[5,0,18,0,10],
 "da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[6,0,5,0,10],
+"da/de4/classlfg_1_1Lfg5Guids.html#a006c11b73f8ba552773b7ca7e1d453ab":[5,0,18,0,10],
 "da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[6,0,5,0,5],
 "da/de4/classlfg_1_1Lfg5Guids.html#a13337aa8eadfc10987ead13ea8209ea5":[5,0,18,0,5],
-"da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[6,0,5,0,7],
 "da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[5,0,18,0,7],
+"da/de4/classlfg_1_1Lfg5Guids.html#a14538fb8efd8e177d47dae2d9fca912f":[6,0,5,0,7],
 "da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[6,0,5,0,17],
 "da/de4/classlfg_1_1Lfg5Guids.html#a19fd7ca444d3114e0fc8c46c460e1249":[5,0,18,0,17],
 "da/de4/classlfg_1_1Lfg5Guids.html#a254e125e26aa95f51bf8f226507e71c6":[6,0,5,0,19],
@@ -249,5 +247,7 @@ var NAVTREEINDEX269 =
 "da/de4/classlfg_1_1Lfg5Guids.html#a77745ad60c60112415fcb4f2a6dd29d0":[5,0,18,0,8],
 "da/de4/classlfg_1_1Lfg5Guids.html#a822a9a4b5d82e11d34d2c1c22266bc0c":[6,0,5,0,9],
 "da/de4/classlfg_1_1Lfg5Guids.html#a822a9a4b5d82e11d34d2c1c22266bc0c":[5,0,18,0,9],
-"da/de4/classlfg_1_1Lfg5Guids.html#a9bb6a28de6b87b5de2de4d78c27eb345":[6,0,5,0,1]
+"da/de4/classlfg_1_1Lfg5Guids.html#a9bb6a28de6b87b5de2de4d78c27eb345":[5,0,18,0,1],
+"da/de4/classlfg_1_1Lfg5Guids.html#a9bb6a28de6b87b5de2de4d78c27eb345":[6,0,5,0,1],
+"da/de4/classlfg_1_1Lfg5Guids.html#aa92daa0cdace672d751a3f10a8b8a6ff":[6,0,5,0,16]
 };

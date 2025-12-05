@@ -1,7 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/db0/classMap.html#adb9e3948d95e7c5cd964e7ea643e811f":[6,0,1478,128],
-"d7/db0/classMap.html#adbe0c5433768a17aaef9a3fa1b922229":[6,0,1478,261],
 "d7/db0/classMap.html#adcbab2814bdaeba356c591bffd953cea":[6,0,1478,141],
 "d7/db0/classMap.html#add42fcd05e86e1e096a731a13cea3d7b":[6,0,1478,7],
 "d7/db0/classMap.html#adde51ce5163d216718fd85140a5f7dba":[6,0,1478,190],
@@ -249,5 +247,7 @@ var NAVTREEINDEX202 =
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cab19c6ae040995a1d95e8b2cba438bc49":[7,0,0,0,1,3,7,2,0,1,5,22],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cab77ce1ff620f494a0bcc812d29279c70":[7,0,0,0,1,3,7,2,0,1,5,16],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cab87e15ab4c8519dad4a0b1810312db33":[7,0,0,0,1,3,7,2,0,1,5,27],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cabd2e3db9f7cd4c27cc7ce25cba2d0c79":[7,0,0,0,1,3,7,2,0,1,5,6]
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cabd2e3db9f7cd4c27cc7ce25cba2d0c79":[7,0,0,0,1,3,7,2,0,1,5,6],
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cad05540a865fb464c2c8a5691ab6be684":[7,0,0,0,1,3,7,2,0,1,5,0],
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cad8caf789a5515b1a20afac7055c8dd08":[7,0,0,0,1,3,7,2,0,1,5,11]
 };

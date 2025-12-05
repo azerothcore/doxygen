@@ -1,7 +1,5 @@
 var NAVTREEINDEX372 =
 {
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a601a8edc37fdd2fc260ec2f462e819b5":[7,0,0,0,1,3,5,18,46,20],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a62d5f552d98486dbe081f2b995205a95":[7,0,0,0,1,3,5,18,46,28],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a63c2b6a9680aa01353f53206bfdd06d7":[7,0,0,0,1,3,5,18,46,49],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a6491a7c1bb03d49fe0886f98faaf2ec1":[7,0,0,0,1,3,5,18,46,14],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a6aff478652b8abcc15cd15192b6753d6":[7,0,0,0,1,3,5,18,46,61],
@@ -249,5 +247,7 @@ var NAVTREEINDEX372 =
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca244f54e16c399f14043be96b80a71e53":[7,0,0,0,1,3,2,16,5,8,16],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,2,16,5,8,4],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e3c15d5dccfab66e84f977d2eb2c267":[7,0,0,0,1,3,2,16,5,8,1],
-"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca51550a6b688832bfe789a21c5ede72d4":[7,0,0,0,1,3,2,16,5,8,7]
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca51550a6b688832bfe789a21c5ede72d4":[7,0,0,0,1,3,2,16,5,8,7],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca535cc2bfcedce1613f95c54f4577fdd7":[7,0,0,0,1,3,2,16,5,8,13],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e56015afb41350575b27c908fd31f96":[7,0,0,0,1,3,2,16,5,8,17]
 };

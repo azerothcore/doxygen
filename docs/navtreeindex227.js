@@ -1,7 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/de0/BattlegroundSA_8h.html#af84cb0582fa6a8afb2000ab86b942e08":[7,0,0,0,1,2,8,1,19,21],
-"d8/de0/classboss__thorim__lightning__orb.html":[6,0,740],
 "d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,740,1],
 "d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,740,2],
 "d8/de0/structnpc__lord__sanguinar.html":[6,0,1937],
@@ -249,5 +247,7 @@ var NAVTREEINDEX227 =
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,3,2],
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298ca3944e1c2dd7f4892b71fd51ee6ae2171":[7,0,0,0,1,3,2,1,0,3,2,1],
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d3e13f7a79db8c5b11aa3b77add6883":[7,0,0,0,1,3,2,1,0,3,2,0],
-"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae1ec2f172e62528644ddad62bf99e5bb":[7,0,0,0,1,3,2,1,0,3,2,4]
+"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae1ec2f172e62528644ddad62bf99e5bb":[7,0,0,0,1,3,2,1,0,3,2,4],
+"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ab21ae9dcaafc0752c2bb5f36dc7ce":[7,0,0,0,1,3,2,1,0,3,2,2],
+"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae83871ceb366127a4916a8c197250e60":[7,0,0,0,1,3,2,1,0,3,2,3]
 };

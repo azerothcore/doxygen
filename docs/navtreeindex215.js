@@ -1,11 +1,9 @@
 var NAVTREEINDEX215 =
 {
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,31,9,9,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,11,9,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,31,9,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,11,9,9,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,31,9,9,0],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,11,9,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,31,9,9,0],
 "d8/d60/classboss__sartharion__shadron.html":[6,0,687],
 "d8/d60/classboss__sartharion__shadron.html#a95c7184ee7589f01920adc57a7df963b":[6,0,687,2],
 "d8/d60/classboss__sartharion__shadron.html#ac297719abff8c795af10973492fc6fbe":[6,0,687,1],
@@ -135,8 +133,8 @@ var NAVTREEINDEX215 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2583,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2583,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2583,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,31,12,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,11,12,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,31,12,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,11,12,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,544],
@@ -249,5 +247,7 @@ var NAVTREEINDEX215 =
 "d8/d72/classBattlegroundQueue.html#a98dab7149e82c2a1c2fec2b0982f6c67":[6,0,334,21],
 "d8/d72/classBattlegroundQueue.html#aaf510dab8eb5bb065f104eb281332b18":[6,0,334,22],
 "d8/d72/classBattlegroundQueue.html#ab9dad157ed11721afba404488dc257e0":[6,0,334,33],
-"d8/d72/classBattlegroundQueue.html#ac2eb27149ad03d23ef8a12366e63540f":[6,0,334,8]
+"d8/d72/classBattlegroundQueue.html#ac2eb27149ad03d23ef8a12366e63540f":[6,0,334,8],
+"d8/d72/classBattlegroundQueue.html#acb1865b35fd1e0a672dd156c73956338":[6,0,334,1],
+"d8/d72/classBattlegroundQueue.html#ad3f9ef46f22bad92ed04704f9f898e01":[6,0,334,34]
 };

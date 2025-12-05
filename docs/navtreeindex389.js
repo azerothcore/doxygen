@@ -1,7 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/d7f/structboss__novos.html#a7567db25d51851888a35c70a4d7c833c":[6,0,643,7],
-"df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[6,0,643,5],
 "df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[6,0,643,8],
 "df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[6,0,643,9],
 "df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[6,0,643,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX389 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a2b06b0dc1a4c2f5b5e4657e11a097660":[6,0,3645,2],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3645,0],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3645,3],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3645,1]
+"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3645,1],
+"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4074],
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4074,2]
 };

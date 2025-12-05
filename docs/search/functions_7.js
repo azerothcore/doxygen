@@ -438,7 +438,7 @@ var searchData=
   ['getcomment_435',['getcomment',['../d2/dbc/classlfg_1_1LFGMgr.html#a7913a959d73f5d550fbae9dcf4e9e1e4',1,'lfg::LFGMgr::GetComment()'],['../d7/dc6/classlfg_1_1LfgPlayerData.html#a57d868f67dda5f89ff6582b87db12128',1,'lfg::LfgPlayerData::GetComment()']]],
   ['getcompanionpet_436',['GetCompanionPet',['../df/dd9/classUnit.html#a118d77ada5afa6d951bbcc7a6cf9b498',1,'Unit']]],
   ['getcompanynamestr_437',['GetCompanyNameStr',['../d3/d2c/namespaceGitRevision.html#a72b700a0bbbdb2829e283fe892f1ba51',1,'GitRevision']]],
-  ['getcompatibledungeons_438',['GetCompatibleDungeons',['../d2/dbc/classlfg_1_1LFGMgr.html#abb700172a67816637fdb8d6aaabaf725',1,'lfg::LFGMgr']]],
+  ['getcompatibledungeons_438',['GetCompatibleDungeons',['../d2/dbc/classlfg_1_1LFGMgr.html#a6bbb13f43b172c18746583418628003d',1,'lfg::LFGMgr']]],
   ['getcompletedachievements_439',['GetCompletedAchievements',['../d8/d77/classAchievementMgr.html#a1109568e8827ce48ff850917bd98f94f',1,'AchievementMgr']]],
   ['getcompletedencountermask_440',['getcompletedencountermask',['../d7/d91/classInstanceSave.html#afe47ec184ab41772b446a6bfb338796f',1,'InstanceSave::GetCompletedEncounterMask()'],['../d2/d1e/classInstanceScript.html#a037fd2be83cbf2da121b258bed4fa159',1,'InstanceScript::GetCompletedEncounterMask()']]],
   ['getcompletedtext_441',['GetCompletedText',['../d1/d4f/classQuest.html#a9356ba06803ae7b90e320730a591825e',1,'Quest']]],

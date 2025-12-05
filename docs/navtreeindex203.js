@@ -1,7 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cad05540a865fb464c2c8a5691ab6be684":[7,0,0,0,1,3,7,2,0,1,5,0],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cad8caf789a5515b1a20afac7055c8dd08":[7,0,0,0,1,3,7,2,0,1,5,11],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cae0b94c5b46f526b5c824772bb49533e8":[7,0,0,0,1,3,7,2,0,1,5,23],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298caf6c7b343682fe8e8deedbaf02057a5bb":[7,0,0,0,1,3,7,2,0,1,5,9],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268":[7,0,0,0,1,3,7,2,0,1,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX203 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a26fc632144230b6d56ff33457f8d3a9d":[6,0,1352,0,25],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a2a22a97232c2c3ddd6b88360630db1a6":[6,0,1352,0,64],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a2caf1dd4e2bd790f2472ae5f98fcd549":[6,0,1352,0,50],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a32c27607708adf3176b7f497fd672102":[6,0,1352,0,36]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a32c27607708adf3176b7f497fd672102":[6,0,1352,0,36],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a3b0c7bd8e58a4ca7084be31de61018f2":[6,0,1352,0,22],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a3f48ecffa8cad0a6c7524fb1062a922d":[6,0,1352,0,62]
 };

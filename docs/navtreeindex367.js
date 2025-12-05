@@ -1,7 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a25bf491c19fe0bb3116c6df46cb370e5":[6,0,2152,0,1],
-"de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a3dbb7abb6559a6f853cc77423d7153e9":[6,0,2152,0,2],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a544b8eaee365217a4a735ed39b4607b2":[6,0,2152,0,3],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a5aeaa5511584d1095639e7df584019c5":[6,0,2152,0,5],
 "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a886ba3133f77a93cfae9c4a7e9fb0609":[6,0,2152,0,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX367 =
 "de/d90/OutdoorPvPZM_8h.html#a32c62572b4ea0ef1930cffc3e9e2c6fe":[7,0,0,0,1,3,6,14,16],
 "de/d90/OutdoorPvPZM_8h.html#a32e1a277d31ee3f4a23f291ccb4798e6":[7,0,0,0,1,3,6,14,22],
 "de/d90/OutdoorPvPZM_8h.html#a397f5867c1a3f99cf044124a4a621324":[7,0,0,0,1,3,6,14,23],
-"de/d90/OutdoorPvPZM_8h.html#a3cf4b21d832f1993b7bbef74516f4690":[7,0,0,0,1,3,6,14,19]
+"de/d90/OutdoorPvPZM_8h.html#a3cf4b21d832f1993b7bbef74516f4690":[7,0,0,0,1,3,6,14,19],
+"de/d90/OutdoorPvPZM_8h.html#a42debbed89bc9a37f04d7da9f1ba5362":[7,0,0,0,1,3,6,14,9],
+"de/d90/OutdoorPvPZM_8h.html#a5d44e96b24b1f1215d1b3788b212f11c":[7,0,0,0,1,3,6,14,7]
 };

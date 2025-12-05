@@ -1,12 +1,10 @@
 var NAVTREEINDEX246 =
 {
-"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a74809429d3d2b1db5374dacf34d8a1b7":[6,0,1327,0,7],
-"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[6,0,1327,0,4],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#ae5cd5cf84e8db976f3006dc52bb5fab4":[6,0,1327,0,6],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#aed9ab9542badb0296ca0660c39541cb8":[6,0,1327,0,2],
 "d9/df6/classat__thaddius__entrance.html":[6,0,246],
+"d9/df6/classat__thaddius__entrance.html#acc869cade2b48ceb782d78aa7df6f246":[6,0,246,1],
 "d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,246,0],
-"d9/df6/classat__thaddius__entrance.html#af8635a58d4da0421b72b4451c1ebafc5":[6,0,246,1],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2803],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2803,2],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a3a5fa4814a7724db0ba7be5c5158798b":[6,0,2803,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX246 =
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa101a09658527e93746d37db64ff57d60":[7,0,0,0,1,3,5,9,2,16,4,12],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa11376879b9fac35d2f7e043c766516a8":[7,0,0,0,1,3,5,9,2,16,4,17],
 "d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa15b8f0ad566e2ee3517480eb04ceee1b":[7,0,0,0,1,3,5,9,2,16,4,15],
-"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa31015dfcab0f9e4ac1bbf7ee41510eb7":[7,0,0,0,1,3,5,9,2,16,4,4]
+"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa31015dfcab0f9e4ac1bbf7ee41510eb7":[7,0,0,0,1,3,5,9,2,16,4,4],
+"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa321cd5b6bb55f987e68a23280a08c28e":[7,0,0,0,1,3,5,9,2,16,4,14],
+"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa33babc36d68f6d53f11627f02a3ad26d":[7,0,0,0,1,3,5,9,2,16,4,9]
 };

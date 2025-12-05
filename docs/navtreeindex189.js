@@ -1,7 +1,5 @@
 var NAVTREEINDEX189 =
 {
-"d7/d46/classAuraEffect.html#a6a0bdae4c5cae40a812b7cf5b00f4233":[6,0,285,92],
-"d7/d46/classAuraEffect.html#a6a83116c26a189ee818608f1c1be2a9d":[6,0,285,65],
 "d7/d46/classAuraEffect.html#a6ea46b2ccefe8e6a25eef466847503aa":[6,0,285,25],
 "d7/d46/classAuraEffect.html#a6f11a0855c476d2f991995a449bcf6ae":[6,0,285,31],
 "d7/d46/classAuraEffect.html#a71194f9e306aa0a2f477d59f9f0a3b97":[6,0,285,187],
@@ -249,5 +247,7 @@ var NAVTREEINDEX189 =
 "d7/d4b/structboss__kormok.html#a7fc5bb05831e5b8e22c7d59c5c71f87a":[6,0,581,4],
 "d7/d4b/structboss__kormok.html#ae0de3f9848cb9051a18ba15347af3e7a":[6,0,581,9],
 "d7/d4b/structboss__kormok.html#aea5651a98492885eb4d598714df4fd40":[6,0,581,8],
-"d7/d4b/structboss__kormok.html#aefaac0c5af45f63faeac6bf9ef1ca7fc":[6,0,581,11]
+"d7/d4b/structboss__kormok.html#aefaac0c5af45f63faeac6bf9ef1ca7fc":[6,0,581,11],
+"d7/d4c/classTwilightCutterSelector.html":[6,0,4210],
+"d7/d4c/classTwilightCutterSelector.html#a6374425df156bdf202d53a2c73ef784c":[6,0,4210,1]
 };

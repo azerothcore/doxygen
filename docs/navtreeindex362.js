@@ -1,7 +1,5 @@
 var NAVTREEINDEX362 =
 {
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,16,9,3,0],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,2,16,9,3,4],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298cad29cb58b32c3fccaec3fde84e2355de6":[7,0,0,0,1,3,2,16,9,3,2],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298cadcf1b60e2fdcbc62292f3be4f1b3bf76":[7,0,0,0,1,3,2,16,9,3,1],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298cafa725ea8786289cf2e806cd4a3d6f2b0":[7,0,0,0,1,3,2,16,9,3,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX362 =
 "de/d58/classnpc__andorhal__tower.html":[6,0,1593],
 "de/d58/classnpc__andorhal__tower.html#a51139c28da736d26bf27a061862d24ee":[6,0,1593,2],
 "de/d58/classnpc__andorhal__tower.html#abf63419b6c10af47f5e5df1a4e7320e7":[6,0,1593,1],
-"de/d59/LFG_8h.html":[7,0,0,0,1,2,15,1]
+"de/d59/LFG_8h.html":[7,0,0,0,1,2,15,1],
+"de/d59/LFG_8h.html#a028c02c49f9146ef7d35fc893ac3c561":[7,0,0,0,1,2,15,1,5],
+"de/d59/LFG_8h.html#a04ff8774a1ad0847dc787646d984934d":[7,0,0,0,1,2,15,1,11]
 };

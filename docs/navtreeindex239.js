@@ -1,7 +1,5 @@
 var NAVTREEINDEX239 =
 {
-"d9/d84/LootMgr_8h.html#a18264c3977d9cc716aa034d667a706e7":[7,0,0,0,1,2,24,3,42],
-"d9/d84/LootMgr_8h.html#a1c69325fc9720f428891b814817eb762":[7,0,0,0,1,2,24,3,38],
 "d9/d84/LootMgr_8h.html#a1d63e7e68b4182ae8ebc36a7bbfd2456":[7,0,0,0,1,2,24,3,32],
 "d9/d84/LootMgr_8h.html#a24c6c31d274635f72ef4efeba3715f33":[7,0,0,0,1,2,24,3,49],
 "d9/d84/LootMgr_8h.html#a24e17720ba3e69cf816688664f0e981a":[7,0,0,0,1,2,24,3,29],
@@ -249,5 +247,7 @@ var NAVTREEINDEX239 =
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a6bf949d42f14f8b727dab9760650e":[7,0,0,0,1,3,2,4,10,10,7],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca73ae4ecfa7a9860ea90ea9a94c348a49":[7,0,0,0,1,3,2,4,10,10,9],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d013691d1f54ee26d95a97152e7b00d":[7,0,0,0,1,3,2,4,10,10,1],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d3f1a51ef6f13975eb02df162ad5b0f":[7,0,0,0,1,3,2,4,10,10,15]
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca8d3f1a51ef6f13975eb02df162ad5b0f":[7,0,0,0,1,3,2,4,10,10,15],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca962dc7346958b3b01426742a586ca4dc":[7,0,0,0,1,3,2,4,10,10,6],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a92b770e8c90e5a2848e4edd4c756b6":[7,0,0,0,1,3,2,4,10,10,11]
 };

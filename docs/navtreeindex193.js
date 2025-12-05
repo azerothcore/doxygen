@@ -1,7 +1,5 @@
 var NAVTREEINDEX193 =
 {
-"d7/d83/classspell__gen__valthalak__amulet.html#a096ce1292821f201af5f294877ee25e0":[6,0,3040,0],
-"d7/d83/classspell__gen__valthalak__amulet.html#a804d6dec38ea4e59a72ed09882dc9e95":[6,0,3040,1],
 "d7/d83/structAuctionEntry.html":[6,0,259],
 "d7/d83/structAuctionEntry.html#a014be11a4e161eea637098a4e9243b6f":[6,0,259,16],
 "d7/d83/structAuctionEntry.html#a0d34f5709de579b0eea0884598755adc":[6,0,259,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX193 =
 "d7/d91/classInstanceSave.html#aba8d512041c8485f49eef8c1fafce729":[6,0,1364,3],
 "d7/d91/classInstanceSave.html#ad04e0c29de666c12fbe18111fca7c645":[6,0,1364,23],
 "d7/d91/classInstanceSave.html#ad4bc4189529fe75acac192e3682154e4":[6,0,1364,31],
-"d7/d91/classInstanceSave.html#ad67626787ecea8c4b5e54e205c069261":[6,0,1364,15]
+"d7/d91/classInstanceSave.html#ad67626787ecea8c4b5e54e205c069261":[6,0,1364,15],
+"d7/d91/classInstanceSave.html#af3834730980e93d2617c92229220c739":[6,0,1364,19],
+"d7/d91/classInstanceSave.html#af5ac89030cb727a6c05f1fb07a8a8c49":[6,0,1364,26]
 };

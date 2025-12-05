@@ -1,7 +1,5 @@
 var NAVTREEINDEX178 =
 {
-"d6/db1/classnpc__living__constellation.html#a6ee651a525498cb5715ccfedaa26e05d":[6,0,1925,1],
-"d6/db1/classnpc__paoka__swiftmountain.html":[6,0,2006],
 "d6/db1/classnpc__paoka__swiftmountain.html#a3f41d2caae5acb4b79bcc75780db03d2":[6,0,2006,2],
 "d6/db1/classnpc__paoka__swiftmountain.html#a5bd4442350daf5a19bee1037a1b4d7b3":[6,0,2006,3],
 "d6/db1/classnpc__paoka__swiftmountain.html#abb3f6fab7cca158c2e139159430f880a":[6,0,2006,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX178 =
 "d6/dbf/structInstancePlayerBind.html#ab35249eb791941b484ecc321b1102b24":[6,0,1363,2],
 "d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[6,0,1363,0],
 "d6/dc0/structCreatureSpellCooldown.html":[6,0,934],
-"d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,934,2]
+"d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,934,2],
+"d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[6,0,934,1],
+"d6/dc0/structCreatureSpellCooldown.html#a6d234a93951992640df5720a2885be3e":[6,0,934,0]
 };

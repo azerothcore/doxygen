@@ -1,7 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ab44293fb8eefd08c5a3fa1c1b7a98484":[7,0,0,0,1,2,16,6,2,8,12],
-"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ab61635121ed96902f723447c1b10ecb1":[7,0,0,0,1,2,16,6,2,8,29],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7abf74bb42ca9745a4011188bb4c0bd8f3":[7,0,0,0,1,2,16,6,2,8,26],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ac0ce7e2fd17af5dd8ba7a7a41b59771f":[7,0,0,0,1,2,16,6,2,8,14],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7ac34a6818132a5c487d7b899c33e273f9":[7,0,0,0,1,2,16,6,2,8,47],
@@ -232,12 +230,12 @@ var NAVTREEINDEX177 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2278,0,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,31,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,11,6,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,31,6,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,6,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,11,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,31,6,22,1],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,31,6,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,11,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,11,6,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,31,6,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1887],
 "d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[6,0,1887,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[6,0,1887,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX177 =
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aea107ede3b11726b3f7caae590edaf52":[6,0,2043,0,1],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aee61de504cfb25d9a99651a58ea0b63c":[6,0,2043,0,5],
 "d6/db1/classnpc__living__constellation.html":[6,0,1925],
-"d6/db1/classnpc__living__constellation.html#a4533812a4da72c0d9eff6d6c9eaf772a":[6,0,1925,2]
+"d6/db1/classnpc__living__constellation.html#a4533812a4da72c0d9eff6d6c9eaf772a":[6,0,1925,2],
+"d6/db1/classnpc__living__constellation.html#a6ee651a525498cb5715ccfedaa26e05d":[6,0,1925,1],
+"d6/db1/classnpc__paoka__swiftmountain.html":[6,0,2006]
 };

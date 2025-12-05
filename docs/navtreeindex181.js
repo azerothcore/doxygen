@@ -1,7 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae11121182975aa062e29b19a967f15c2":[7,0,0,0,1,3,5,10,1,1,5,5],
-"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae98aa4808fff120cb256c930036c228c":[7,0,0,0,1,3,5,10,1,1,5,4],
 "d6/dd9/classspell__item__poultryizer.html":[6,0,3292],
 "d6/dd9/classspell__item__poultryizer.html#a630b3359dcecdb65992df67fbc4b197b":[6,0,3292,0],
 "d6/dd9/classspell__item__poultryizer.html#a9960211eda513e642a386e0ff3bcd4c5":[6,0,3292,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX181 =
 "d6/dec/classboss__doomrel.html#a1b8a95208506f79c00ed40be2d51eb38":[6,0,426,2],
 "d6/dec/classboss__doomrel.html#a3c544ae70c46a62ac7dd2fc5cca97c8b":[6,0,426,3],
 "d6/dec/classboss__doomrel.html#ae430a8fef70bd46267482a70084049c1":[6,0,426,4],
-"d6/dec/classboss__doomrel.html#aee45a59f9a62f1d32a7dc344bd3c46c6":[6,0,426,1]
+"d6/dec/classboss__doomrel.html#aee45a59f9a62f1d32a7dc344bd3c46c6":[6,0,426,1],
+"d6/dec/classinstance__onyxias__lair.html":[6,0,1324],
+"d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1324,1]
 };

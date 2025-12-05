@@ -1,7 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754":[7,0,0,0,1,3,7,13,38,9],
-"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2":[7,0,0,0,1,3,7,13,38,4],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f":[7,0,0,0,1,3,7,13,38,28],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a994bd23bad1aa3506d5acbaead2f0686":[7,0,0,0,1,3,7,13,38,20],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19":[7,0,0,0,1,3,7,13,38,13],
@@ -165,8 +163,8 @@ var NAVTREEINDEX264 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#a79b93c86a01d31d08cba15436856b794":[6,0,2638,3],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aa6c04279944abd31c42bb5dc4319aaf2":[6,0,2638,4],
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2638,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,7,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,31,7,10],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,7,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,31,7,10,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX264 =
 "da/db3/classspell__dk__wandering__plague__aura.html#a911b81552e7193dbf1cfc11037b44d84":[6,0,2789,1],
 "da/db3/classspell__dk__wandering__plague__aura.html#abd74252153fc4fc9a4e561005ea58b3f":[6,0,2789,0],
 "da/db3/classspell__dk__wandering__plague__aura.html#ae169eb2c0e194f8f34ee2a0d5fd973d3":[6,0,2789,2],
-"da/db3/structLootView.html":[6,0,1461]
+"da/db3/structLootView.html":[6,0,1461],
+"da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1461,2],
+"da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1461,0]
 };
