@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a726854a6ac484db50f2f2beafc10f930":[7,0,0,0,1,3,10,14,59,5],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a773eb442220f586b840e02d6e0026125":[7,0,0,0,1,3,10,14,59,1],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a8be77a82a338bb45d912b34df244a028":[7,0,0,0,1,3,10,14,59,4],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038aa40f1875a834eb2c596968854936a49e":[7,0,0,0,1,3,10,14,59,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "db/db7/instance__hyjal_8cpp.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41":[7,0,0,0,1,3,4,1,0,7,2],
 "db/db7/instance__hyjal_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,4,1,0,7,4],
 "db/db7/instance__hyjal_8cpp.html#aaad50890c4534c5b5c848a9b85f3d8fe":[7,0,0,0,1,3,4,1,0,7,7],
-"db/db7/instance__hyjal_8cpp.html#ade7b4d2fdf8cd15fa4985554885eb881":[7,0,0,0,1,3,4,1,0,7,5],
-"db/db7/instance__trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,3]
+"db/db7/instance__hyjal_8cpp.html#ade7b4d2fdf8cd15fa4985554885eb881":[7,0,0,0,1,3,4,1,0,7,5]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1900,2],
 "df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1900,1],
 "df/dde/classnpc__rinji.html":[6,0,2081],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2081,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/dee/classspell__stinky__precious__decimate.html":[6,0,3848],
 "df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3848,0],
 "df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3848,1],
-"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3848,2],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html":[6,0,1848,0]
+"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3848,2]
 };

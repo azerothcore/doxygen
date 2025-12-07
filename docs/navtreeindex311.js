@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d89/classAsyncAcceptor.html":[6,0,206],
 "dc/d89/classAsyncAcceptor.html#a06a13b36a9e324bc0b4f4112dbdabebf":[6,0,206,10],
 "dc/d89/classAsyncAcceptor.html#a0d7a3371b14fa8eecbe30ff73e366398":[6,0,206,2],
 "dc/d89/classAsyncAcceptor.html#a0ed31d03f8cdb38b1e359f3085e7ee29":[6,0,206,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d93/classspell__summon__amanishi__sentries.html#a6a6d95c6d33bc8d90a2022e1ce23c635":[6,0,3850,2],
 "dc/d93/classspell__summon__amanishi__sentries.html#a902fc17746af82a4c58fe599c9616ce2":[6,0,3850,4],
 "dc/d93/classspell__summon__amanishi__sentries.html#a94a5697e9d8a068fe6ae34b8aaf974fd":[6,0,3850,3],
-"dc/d93/classspell__summon__amanishi__sentries.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3":[6,0,3850,1],
-"dc/d93/classspell__summon__amanishi__sentries.html#af7f22d3b7ba136ec2af88656b9805168":[6,0,3850,0]
+"dc/d93/classspell__summon__amanishi__sentries.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3":[6,0,3850,1]
 };

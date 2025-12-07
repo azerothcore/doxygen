@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22],
 "df/d3e/namespaceGameTime.html":[5,0,16],
 "df/d3e/namespaceGameTime.html#a443eccf314fe436192278d425d6d8220":[5,0,16,3],
 "df/d3e/namespaceGameTime.html#a45712735241c9563a12fc3da54fb144d":[5,0,16,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d52/structmap__fileheader.html#a7623bee6b8cf7d6e39b8716aa72f8514":[6,0,1480,3],
 "df/d52/structmap__fileheader.html#a82d0f500f9e84cf6c8bf917a98f92115":[6,0,1480,2],
 "df/d52/structmap__fileheader.html#a876d70dcd6ccec9ad09de77718c02150":[6,0,1480,5],
-"df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[6,0,1480,10],
-"df/d52/structmap__fileheader.html#ac62deafcc7b435caf4a0f6aafd3d85be":[6,0,1480,7]
+"df/d52/structmap__fileheader.html#abe722f653ba057fbba84401acbaffbfa":[6,0,1480,10]
 };

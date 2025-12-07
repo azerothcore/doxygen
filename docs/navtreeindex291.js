@@ -1,5 +1,6 @@
 var NAVTREEINDEX291 =
 {
+"db/dc8/structScriptedAI.html#abfab615775f65c53ec07c3ecfb7c4059":[6,0,2514,4],
 "db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37":[6,0,2514,38],
 "db/dc8/structScriptedAI.html#ac6d4be79fb1966ee5bdd1678ecab1340":[6,0,2514,11],
 "db/dc8/structScriptedAI.html#ac737070ba7a8645d0e0ccf6bd6107004":[6,0,2514,41],
@@ -248,6 +249,5 @@ var NAVTREEINDEX291 =
 "db/dce/classboss__lavanthor.html":[6,0,592],
 "db/dce/classboss__lavanthor.html#aa935ffe07f59db59b9b8484f22927026":[6,0,592,1],
 "db/dce/classboss__lavanthor.html#aae09ecbe56efac6538bdfb6120e0be40":[6,0,592,2],
-"db/dcf/MapUpdater_8h.html":[7,0,0,0,1,2,26,12],
-"db/dd1/classspell__gen__gadgetzan__transporter__backfire.html":[6,0,2961]
+"db/dcf/MapUpdater_8h.html":[7,0,0,0,1,2,26,12]
 };

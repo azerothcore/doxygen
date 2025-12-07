@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b":[6,0,848,1],
 "dd/dec/classChannelMgr.html#a4fa043d2c61f5013d62b192d46bd453a":[6,0,848,8],
 "dd/dec/classChannelMgr.html#a5cc03c09dfc33a89d3d4f59d1e92d757":[6,0,848,6],
 "dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401":[6,0,848,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aea82b49c8cb6517b9907d00d994f4701":[7,0,0,0,1,3,5,10,1,3,4,25],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aff87b7b2ae3e43713ebfdc0d833eb711":[7,0,0,0,1,3,5,10,1,3,4,9],
 "dd/dfd/boss__ymiron_8cpp.html#a355ad2d8907e4053f3d0021f0f9f6476":[7,0,0,0,1,3,5,10,1,3,5],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,3,3],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2c42690b871b8fd8d191648269062827":[7,0,0,0,1,3,5,10,1,3,3,6]
+"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,3,3]
 };

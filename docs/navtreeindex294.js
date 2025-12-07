@@ -1,5 +1,6 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#addfadfbf1d491f97420fa7d9d6042914":[6,0,917,201],
 "db/dd5/classCreature.html#ade3dddee0d9a81b1357473a1cdf7016c":[6,0,917,156],
 "db/dd5/classCreature.html#ade7c14cf1135c1e567f620cc192a8792":[6,0,917,244],
 "db/dd5/classCreature.html#adf157cff264862d8f2ec3658fea061ad":[6,0,917,182],
@@ -248,6 +249,5 @@ var NAVTREEINDEX294 =
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,11,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,11,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,31,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,6,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,31,6,48,2]
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,11,6,48,2]
 };

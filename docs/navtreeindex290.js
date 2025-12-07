@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/db7/instance__trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,3],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[7,0,0,0,1,3,5,2,0,3,2],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a70438d12d4153aa7d510c89551abf7c9":[7,0,0,0,1,3,5,2,0,3,3],
 "db/db7/namespaceMovement.html":[5,0,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/dc8/structScriptedAI.html#ab980bff19a23900df4ccec18c5c06b76":[6,0,2514,43],
 "db/dc8/structScriptedAI.html#aba9c8572cd7c813e0e3dc1de897b7ed7":[6,0,2514,34],
 "db/dc8/structScriptedAI.html#abaddc3fb490d5cb946057da48ec92b38":[6,0,2514,16],
-"db/dc8/structScriptedAI.html#abd114e8ede4c3543d6d134393939a881":[6,0,2514,52],
-"db/dc8/structScriptedAI.html#abfab615775f65c53ec07c3ecfb7c4059":[6,0,2514,4]
+"db/dc8/structScriptedAI.html#abd114e8ede4c3543d6d134393939a881":[6,0,2514,52]
 };

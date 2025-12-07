@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc29b75f9a69dd6e04ae8a4a7f1d12e":[7,0,0,0,1,3,5,6,4,56,22],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2243c6b1837c6b5f5f275258fcaf9040":[7,0,0,0,1,3,5,6,4,56,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca27ce2113fede018e9229be56f2399fc3":[7,0,0,0,1,3,5,6,4,56,26],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dabcb0623da4a3920ce7608357abb55":[7,0,0,0,1,3,5,6,4,56,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/dde/classBGSpamProtect.html":[6,0,357],
 "df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,357,0],
 "df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,357,1],
-"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1900],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1900,2]
+"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1900]
 };

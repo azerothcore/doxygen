@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ec4ef61b2b9f290f7a24a38e8bcca72":[7,0,0,0,1,3,7,1,3,14,7],
 "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7579a786be0f0bdf977b6c34bdbb45d0":[7,0,0,0,1,3,7,1,3,14,13],
 "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a925f99847ab3677c20b9961a493ea1a0":[7,0,0,0,1,3,7,1,3,14,9],
 "dd/d07/boss__illidari__council_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9b1ef34aaf87bdac7604a05c5d35fcd5":[7,0,0,0,1,3,7,1,3,14,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a66284a4d9cb40b025ef265d443e6e62f":[6,0,11,6,19,3],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a66284a4d9cb40b025ef265d443e6e62f":[5,0,31,6,19,3],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a75a219a9e2ab677a41920f39a1613a1b":[5,0,31,6,19,4],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a75a219a9e2ab677a41920f39a1613a1b":[6,0,11,6,19,4],
-"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[6,0,11,6,19,2]
+"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a75a219a9e2ab677a41920f39a1613a1b":[6,0,11,6,19,4]
 };

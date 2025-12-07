@@ -1,5 +1,6 @@
 var NAVTREEINDEX342 =
 {
+"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[6,0,3426,2],
 "de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[6,0,3426,1],
 "de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[6,0,3426,3],
 "de/d09/maraudon_8h.html":[7,0,0,0,1,3,4,3,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX342 =
 "de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7ae64921ee7ca3a7f466024af882d8c147":[7,0,0,0,1,4,7,58,10],
 "de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660f":[7,0,0,0,1,4,7,57],
 "de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660fa03f1cb4367c4678e1308854e275b2bfc":[7,0,0,0,1,4,7,57,22],
-"de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660fa074321032d40c83f09edf22076d2e14a":[7,0,0,0,1,4,7,57,15],
-"de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660fa0c386339ff6df59ba888d727c19363c6":[7,0,0,0,1,4,7,57,28]
+"de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660fa074321032d40c83f09edf22076d2e14a":[7,0,0,0,1,4,7,57,15]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/dc2/classnpc__slim.html#a426963b7bf831a3b5a75dcf0629917a9":[6,0,2119,2],
 "dc/dc2/classnpc__slim.html#aa227fbe22126bed821939873973e6a20":[6,0,2119,0],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html":[6,0,1690,0],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a1a440773676ab7e2cd416eba70c90d74":[6,0,1690,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dd4/classflag96.html#afed5a26552cc3d614fe7caec06d74170":[6,0,1049,16],
 "dc/dd6/MapReference_8h.html":[7,0,0,0,1,2,26,9],
 "dc/dd6/boss__eredar__twins_8cpp.html":[7,0,0,0,1,3,2,12,1],
-"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[7,0,0,0,1,3,2,12,1,9],
-"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca17e03d2f8f2ad6e9ab898b86666742b4":[7,0,0,0,1,3,2,12,1,9,6]
+"dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[7,0,0,0,1,3,2,12,1,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#acc0816a05728b59ddf7aeb4077a7329d":[6,0,1355,0,4],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#acde4794f2e980d523e873c0e610f726a":[6,0,1355,0,18],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ae16d97e5a2cfe7fce6ede12874cb9243":[6,0,1355,0,6],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ae2607badcd241cf6b0d4b3a224acc802":[6,0,1355,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d54/classspell__kaelthas__mind__control.html":[6,0,3341],
 "dd/d54/classspell__kaelthas__mind__control.html#abbbffa0a53dc2a55df5e7b17a7f4d38f":[6,0,3341,1],
 "dd/d54/classspell__kaelthas__mind__control.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc":[6,0,3341,0],
-"dd/d54/classspell__kaelthas__mind__control.html#ac36f3d88a0ef8ccaee5bac17bffcaf49":[6,0,3341,3],
-"dd/d54/classspell__kaelthas__mind__control.html#ac406946bb793125d49006e3a877c9638":[6,0,3341,2]
+"dd/d54/classspell__kaelthas__mind__control.html#ac36f3d88a0ef8ccaee5bac17bffcaf49":[6,0,3341,3]
 };

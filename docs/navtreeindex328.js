@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dd/d64/ScriptSystem_8cpp.html":[7,0,0,0,1,2,38,8],
 "dd/d64/classnpc__chicken__cluck.html":[6,0,1685],
 "dd/d64/classnpc__chicken__cluck.html#a7bc08c81fca730886c47e0f3a3d8062c":[6,0,1685,1],
 "dd/d64/classnpc__chicken__cluck.html#a8f22520166a557e066502eb16bdae774":[6,0,1685,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dd/d78/structboss__netherspite.html#a24b4282d0004fe07810f9210211a28f4":[6,0,639,7],
 "dd/d78/structboss__netherspite.html#a3eab6bee2123d34e6d85fb519c047f00":[6,0,639,15],
 "dd/d78/structboss__netherspite.html#a41665f388b5abcf6d64e6f58326fe0cc":[6,0,639,0],
-"dd/d78/structboss__netherspite.html#a49a114ce9744c1758294f56088f91348":[6,0,639,6],
-"dd/d78/structboss__netherspite.html#a5610c1eb1e20fb09a0b4680b0170a691":[6,0,639,11]
+"dd/d78/structboss__netherspite.html#a49a114ce9744c1758294f56088f91348":[6,0,639,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[6,0,11,6,19,2],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#a7ab950cee095221f9114224a624d46db":[5,0,31,6,19,2],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#ac261ff0102489efb4d69bd866ffc9283":[5,0,31,6,19,1],
 "dd/d14/classWorldPackets_1_1Guild_1_1GuildBankUpdateTab.html#ac261ff0102489efb4d69bd866ffc9283":[6,0,11,6,19,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d24/structArcherAI.html#aa6e072e239549d337de61670a05eb6f8":[6,0,159,3],
 "dd/d24/structArcherAI.html#ab449efcd81769888ff8d8bc5f348cbe7":[6,0,159,4],
 "dd/d24/structArcherAI.html#ac5b3d144b0d71a5e527d53f33c3d31cc":[6,0,159,2],
-"dd/d24/structArcherAI.html#adc79f7ead63ecaf8fed9ea4f81d27f76":[6,0,159,1],
-"dd/d25/classGuildScript.html":[6,0,1256]
+"dd/d24/structArcherAI.html#adc79f7ead63ecaf8fed9ea4f81d27f76":[6,0,159,1]
 };

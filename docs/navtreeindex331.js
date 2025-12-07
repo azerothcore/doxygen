@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dd/d8d/DBCStores_8cpp.html#a763ffb29166f7dfd0cf978d43fc56d62":[7,0,0,0,1,2,14,0,23],
 "dd/d8d/DBCStores_8cpp.html#a81724dfab1dc5a5d48a9dc1df17eecf4":[7,0,0,0,1,2,14,0,22],
 "dd/d8d/DBCStores_8cpp.html#a817e11f567a65f71476999c0012318bd":[7,0,0,0,1,2,14,0,85],
 "dd/d8d/DBCStores_8cpp.html#a838f9e87a657acf485782953257ccddb":[7,0,0,0,1,2,14,0,106],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca3fb8cb5d4031537cfb911d9ab4fc1631":[7,0,0,0,1,3,5,5,0,11,13],
 "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,5,0,11,4],
 "dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f":[7,0,0,0,1,3,5,5,0,11,1],
-"dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cac1106074e4d58bbfee617c3d60a8f99e":[7,0,0,0,1,3,5,5,0,11,12],
-"dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cac58b19b452aa61f94f50ce2b548f19ee":[7,0,0,0,1,3,5,5,0,11,8]
+"dd/d99/boss__drakkari__colossus_8cpp.html#a5bd342133be8c2137b831460acc9298cac1106074e4d58bbfee617c3d60a8f99e":[7,0,0,0,1,3,5,5,0,11,12]
 };

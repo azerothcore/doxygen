@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d52/classTimedFleeingMovementGenerator.html#a1a18f033663fa93ef0b9885aae21f766":[6,0,4177,1],
 "dc/d52/classTimedFleeingMovementGenerator.html#a2858047459ff675383e7b86805702369":[6,0,4177,4],
 "dc/d52/classTimedFleeingMovementGenerator.html#a53688aae55bfdd3a33eb24484fcc157e":[6,0,4177,3],
 "dc/d52/classTimedFleeingMovementGenerator.html#ae3eed5f4b5a8d11ad4eed67ce5329742":[6,0,4177,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d62/structWorldMapAreaEntry.html":[6,0,4309],
 "dc/d62/structWorldMapAreaEntry.html#a037dca812715df0b4f2551f8684b537c":[6,0,4309,4],
 "dc/d62/structWorldMapAreaEntry.html#a78967fef40841f705c2564a177cb36f3":[6,0,4309,3],
-"dc/d62/structWorldMapAreaEntry.html#a7f90073656e1cd00a88add9f8d881d11":[6,0,4309,5],
-"dc/d62/structWorldMapAreaEntry.html#abeabdc3d225dcd6626a641d6792d7ff8":[6,0,4309,1]
+"dc/d62/structWorldMapAreaEntry.html#a7f90073656e1cd00a88add9f8d881d11":[6,0,4309,5]
 };

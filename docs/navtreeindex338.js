@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#ac333c86fd13e6712ad127ce019744439a09d6eaae37dca77a7d3e075aabecb9b1":[7,0,0,0,1,3,7,12,15,0],
 "dd/dd3/zone__netherstorm_8cpp.html#ac333c86fd13e6712ad127ce019744439a5e4744aa231e4fc00af57df04f110f21":[7,0,0,0,1,3,7,12,15,1],
 "dd/dd3/zone__netherstorm_8cpp.html#ae6818d26ba96279223aa6d108a586f2d":[7,0,0,0,1,3,7,12,19],
 "dd/dd3/zone__netherstorm_8cpp.html#af18063468550fc13e844aa9bdecb6ab7":[7,0,0,0,1,3,7,12,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#ab0eb414e7c9385e4831c4fbc6ba1de49":[6,0,2247,0,1],
 "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html#ae82e9f70dbfd6a4a75206d358de4504e":[6,0,2247,0,3],
 "dd/dda/classnpc__koltira__deathweaver.html":[6,0,1914],
-"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1914,1],
-"dd/dda/classnpc__koltira__deathweaver.html#afddc561b88679f3dd6ca8b374807b0f0":[6,0,1914,2]
+"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1914,1]
 };

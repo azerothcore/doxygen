@@ -1,5 +1,6 @@
 var NAVTREEINDEX276 =
 {
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,709,0,6],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[6,0,709,0,4],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a58e1188a418acdc1f327e7df90c5c122":[6,0,709,0,1],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a636ca76497c33a5175986e80bbcda44a":[6,0,709,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX276 =
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3734,2],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3734,0],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3734,1],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3734,3],
-"db/d3e/structQEmote.html":[6,0,2446]
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3734,3]
 };

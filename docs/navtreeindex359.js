@@ -1,5 +1,6 @@
 var NAVTREEINDEX359 =
 {
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166":[7,0,0,0,1,2,41,9,66,5],
 "de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ab02be4bb205e9b6d4f8851095ceee206":[7,0,0,0,1,2,41,9,66,9],
 "de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b":[7,0,0,0,1,2,41,9,66,11],
 "de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49":[7,0,0,0,1,2,41,9,66,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX359 =
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79":[7,0,0,0,1,2,16,7,18,1,1],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4":[7,0,0,0,1,2,16,7,18,1,3],
 "de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[7,0,0,0,1,2,16,7,18,1,2],
-"de/d33/classHordeChannelMgr.html":[6,0,1271],
-"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1271,0]
+"de/d33/classHordeChannelMgr.html":[6,0,1271]
 };

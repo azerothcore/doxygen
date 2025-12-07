@@ -74,6 +74,7 @@ var WorldConfig_8h =
       [ "CONFIG_ALLOW_TICKETS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae66cdd1548190a3dfebabaf61a07b3cc", null ],
       [ "CONFIG_DELETE_CHARACTER_TICKET_TRACE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad3fb7bdfc3943c3bcde3de9b000046df", null ],
       [ "CONFIG_LFG_CAST_DESERTER", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a290ab8e560e2bcdd3bdf64396ef4c823", null ],
+      [ "CONFIG_LFG_ALLOW_COMPLETED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a441ce2c4b2d7bfdc93fccac33993eaab", null ],
       [ "CONFIG_DBC_ENFORCE_ITEM_ATTRIBUTES", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae5aebddf7caa04433a5cd71610d9c89f", null ],
       [ "CONFIG_PRESERVE_CUSTOM_CHANNELS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a891735a66c7974b793f3fcb28c8cd3e8", null ],
       [ "CONFIG_PDUMP_NO_PATHS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0abf8d68780f13c449a6fa7114d871a631", null ],

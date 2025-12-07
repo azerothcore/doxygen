@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html":[6,0,1359,0],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a03e0ecaffa85c23edacf5bf526fcb4b1":[6,0,1359,0,24],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a070aeb3e9535f30f6a8af4374bc06115":[6,0,1359,0,12],
 "df/d31/structinstance__zulfarrak_1_1instance__zulfarrak__InstanceMapScript.html#a0c79e03ddb1efdc9981fbe77a57cc1ba":[6,0,1359,0,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "df/d3e/classlfg_1_1LfgGroupData.html#ad9b5c97aea6548afde1db00af16dcf7d":[5,0,18,2,9],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[5,0,18,2,7],
 "df/d3e/classlfg_1_1LfgGroupData.html#af5017bc3db5c00dc67ca970a501a1549":[6,0,5,2,7],
-"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22],
-"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[6,0,5,2,22]
+"df/d3e/classlfg_1_1LfgGroupData.html#afc19767f6135bf567f0df6dc4bd5f6ca":[5,0,18,2,22]
 };

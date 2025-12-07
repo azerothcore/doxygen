@@ -1,5 +1,6 @@
 var NAVTREEINDEX360 =
 {
+"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1271,0],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2868],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2868,1],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2868,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX360 =
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09":[6,0,689,0,2],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#ab2080a14c105aeb6a9c155cf6f4ec17d":[6,0,689,0,3],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#afd67bf2c7a479771976673b05b0fc29e":[6,0,689,0,0],
-"de/d3c/structnpc__maiev__illidan.html":[6,0,1947],
-"de/d3c/structnpc__maiev__illidan.html#a0d19d9bb58c44662cdfb66a8fe373a60":[6,0,1947,0]
+"de/d3c/structnpc__maiev__illidan.html":[6,0,1947]
 };

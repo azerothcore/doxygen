@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d54/classspell__kaelthas__mind__control.html#ac406946bb793125d49006e3a877c9638":[6,0,3341,2],
 "dd/d55/classnpc__flamewaker__priest.html":[6,0,1781],
 "dd/d55/classnpc__flamewaker__priest.html#a2ae4d75192f8ddc60d092b9a129e636e":[6,0,1781,1],
 "dd/d55/classnpc__flamewaker__priest.html#a8a38c2c54ae8366496eb58145f75eac9":[6,0,1781,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d63/structlfg_1_1LfgProposalPlayer.html#a900f24e9caaa1569eeea93b4284139a1":[5,0,18,11,2],
 "dd/d63/structlfg_1_1LfgProposalPlayer.html#a900f24e9caaa1569eeea93b4284139a1":[6,0,5,11,2],
 "dd/d63/structlfg_1_1LfgProposalPlayer.html#acbf0ce1e12307569487096dc5ca544a6":[5,0,18,11,1],
-"dd/d63/structlfg_1_1LfgProposalPlayer.html#acbf0ce1e12307569487096dc5ca544a6":[6,0,5,11,1],
-"dd/d64/ScriptSystem_8cpp.html":[7,0,0,0,1,2,38,8]
+"dd/d63/structlfg_1_1LfgProposalPlayer.html#acbf0ce1e12307569487096dc5ca544a6":[6,0,5,11,1]
 };

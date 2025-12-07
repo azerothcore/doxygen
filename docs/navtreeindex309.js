@@ -1,5 +1,6 @@
 var NAVTREEINDEX309 =
 {
+"dc/d62/structWorldMapAreaEntry.html#abeabdc3d225dcd6626a641d6792d7ff8":[6,0,4309,1],
 "dc/d62/structWorldMapAreaEntry.html#acbd77950bf9548d266e568640cf38458":[6,0,4309,0],
 "dc/d62/structWorldMapAreaEntry.html#ad8e0164952e5565488d5443f269ec79e":[6,0,4309,6],
 "dc/d62/structWorldMapAreaEntry.html#afe75f114a3aa74a0589cc575e372f1b1":[6,0,4309,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d78/classBattlegroundAB.html#a8e4540ac02ee30fbf5284ca19807ed0a":[6,0,315,27],
 "dc/d78/classBattlegroundAB.html#a94a57fa4c05fba5ef64b909bc292c798":[6,0,315,8],
 "dc/d78/classBattlegroundAB.html#aa48d02d4e88bb3860945b4de7e413241":[6,0,315,9],
-"dc/d78/classBattlegroundAB.html#ab91514c9ff4f9031b9eb053fdc560fb5":[6,0,315,7],
-"dc/d78/classBattlegroundAB.html#ab9eaaca1dc857575752639f423e2a6bd":[6,0,315,18]
+"dc/d78/classBattlegroundAB.html#ab91514c9ff4f9031b9eb053fdc560fb5":[6,0,315,7]
 };
