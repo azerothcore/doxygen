@@ -16,12 +16,6 @@ var namespaceMovement =
     [ "TransportPathTransform", "d6/d88/classMovement_1_1TransportPathTransform.html", "d6/d88/classMovement_1_1TransportPathTransform" ],
     [ "PointsArray", "db/db7/namespaceMovement.html#a86528b2e04ddf38b80888e45d6b9c37d", null ],
     [ "UInt32Counter", "db/db7/namespaceMovement.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "AnimType", "db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fb", [
-      [ "ToGround", "db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fba41889d3628918ee702ad48c7d2689f31", null ],
-      [ "FlyToFly", "db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fba547b00b126d19fb188c747f076bf9d2c", null ],
-      [ "ToFly", "db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fba3a5a6b4a2eebf34396f22e4c61c10d9b", null ],
-      [ "FlyToGround", "db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fbae5cd8217abf54b5ab1e67d925d5c7602", null ]
-    ] ],
     [ "MonsterMoveType", "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339", [
       [ "MonsterMoveNormal", "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
       [ "MonsterMoveStop", "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],

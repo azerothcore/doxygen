@@ -1,10 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aab6d2de7e94bbeaf6703d7c3b3dc9c8e":[7,0,0,0,1,3,5,7,6,3,0],
-"d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774":[7,0,0,0,1,3,5,7,6,6],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,6,5],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4":[7,0,0,0,1,3,5,7,6,5,0],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10":[7,0,0,0,1,3,5,7,6,5,3],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca91e9581231c56c9bbaa049c497cd78b8":[7,0,0,0,1,3,5,7,6,5,2],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298cae8e05c43a10c1885e6dd64eccb4afdca":[7,0,0,0,1,3,5,7,6,5,1],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,6,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX103 =
 "d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1314,2],
 "d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1314,1],
 "d3/d9d/classBoundaryIntersectBoundary.html":[6,0,816],
-"d3/d9d/classBoundaryIntersectBoundary.html#a09c8440d1ddb8264bff4065910b7e0a5":[6,0,816,2]
+"d3/d9d/classBoundaryIntersectBoundary.html#a09c8440d1ddb8264bff4065910b7e0a5":[6,0,816,2],
+"d3/d9d/classBoundaryIntersectBoundary.html#a41e100c17db99990981293399660824c":[6,0,816,4],
+"d3/d9d/classBoundaryIntersectBoundary.html#ab0239437fa92e39d144bf3856eb347c7":[6,0,816,3],
+"d3/d9d/classBoundaryIntersectBoundary.html#ad8bbf96e48d18ef87ac31dea8bcb023b":[6,0,816,1],
+"d3/d9d/classBoundaryIntersectBoundary.html#ad92d938418434a1cb6a0eb68c88d281c":[6,0,816,0],
+"d3/d9d/classspell__item__goblin__weather__machine.html":[6,0,3258]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dd/d3b/structGameObjectTemplate.html#a0cd6cc2d313bbc24c02f53d69632536d":[6,0,1091,131],
-"dd/d3b/structGameObjectTemplate.html#a0e42b204b47bbaf97c0412a7cb5c35ff":[6,0,1091,87],
 "dd/d3b/structGameObjectTemplate.html#a0e9e8c301e193381266990b20ebeeb46":[6,0,1091,142],
 "dd/d3b/structGameObjectTemplate.html#a0f70a0c4db7189f849bc926181fe5991":[6,0,1091,148],
 "dd/d3b/structGameObjectTemplate.html#a1068d0f68db876b537c8eebfae0d00d6":[6,0,1091,162],
@@ -249,5 +247,7 @@ var NAVTREEINDEX325 =
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#aabf39e7d3cef7951c861c194dfff9ecd":[6,0,1355,0,14],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ab0f9e62a516c2a572d438ee6b33ffe89":[6,0,1355,0,0],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac22e9b215c1351f543289af2875491b4":[6,0,1355,0,10],
-"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac9235ec40c6648bb2a7d252b0053bc47":[6,0,1355,0,15]
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac9235ec40c6648bb2a7d252b0053bc47":[6,0,1355,0,15],
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#acc0816a05728b59ddf7aeb4077a7329d":[6,0,1355,0,4],
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#acde4794f2e980d523e873c0e610f726a":[6,0,1355,0,18]
 };

@@ -78,7 +78,7 @@ var searchData=
   ['anids_75',['ANIds',['../dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eb',1,'azjol_nerub.h']]],
   ['anim_76',['Anim',['../de/d0a/SharedDefines_8h.html#a58404e1297c1d828412a4cf0ad4af4c8',1,'SharedDefines.h']]],
   ['animalbloodpoolspell_77',['AnimalBloodPoolSpell',['../d1/de4/spell__generic_8cpp.html#ae1c2f630aa7976015c1a617918a7afcb',1,'spell_generic.cpp']]],
-  ['animtype_78',['AnimType',['../db/db7/namespaceMovement.html#ab518009ca4123b1c5dce0ffe108b78fb',1,'Movement']]],
+  ['animtier_78',['AnimTier',['../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255',1,'MotionMaster.h']]],
   ['announcerflags_79',['AnnouncerFlags',['../d6/d48/PlayerSettings_8h.html#a32dfba2d10d91879403874fc75b928fd',1,'PlayerSettings.h']]],
   ['announcetype_80',['AnnounceType',['../d7/d56/AutobroadcastMgr_8h.html#a28a4ef2f64643c76d8be05bf9eafc731',1,'AutobroadcastMgr.h']]],
   ['anubevents_81',['AnubEvents',['../d4/d78/boss__anubarak__trial_8cpp.html#a4c54b6a6293526d9aa3a5e9736e490f7',1,'boss_anubarak_trial.cpp']]],

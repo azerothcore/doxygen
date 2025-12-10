@@ -1,7 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"de/dcf/classFormationMgr.html":[6,0,1063],
-"de/dcf/classFormationMgr.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364":[6,0,1063,5],
 "de/dcf/classFormationMgr.html#a871fec234a94e4adae07315a008acec3":[6,0,1063,3],
 "de/dcf/classFormationMgr.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0":[6,0,1063,1],
 "de/dcf/classFormationMgr.html#ac11a3dfbe6a4f7df01d966f14b0aecd9":[6,0,1063,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX375 =
 "de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html":[6,0,2035,0],
 "de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a5a4f05c5930a7e5bd31df2e3131f4cec":[6,0,2035,0,2],
 "de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a7b27d1c859d77220dc1c3c8323e9eef9":[6,0,2035,0,0],
-"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a7ef7411ea780466d7c4dd185d9444aba":[6,0,2035,0,1]
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a7ef7411ea780466d7c4dd185d9444aba":[6,0,2035,0,1],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#ad874a741c641dbac6380aa682d582d7c":[6,0,2035,0,3],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#adb78f5dcd272e8223f895079885a5461":[6,0,2035,0,4]
 };

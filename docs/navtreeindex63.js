@@ -1,10 +1,5 @@
 var NAVTREEINDEX63 =
 {
-"d2/d56/classPlayerSocial.html#a608444605a276e67a868b7ceac94a954":[6,0,2414,14],
-"d2/d56/classPlayerSocial.html#a8c5e3e13b6e912de5048c6a1d6e4003a":[6,0,2414,6],
-"d2/d56/classPlayerSocial.html#aa31ca078f363c5d5f6cfabcc4126fa9b":[6,0,2414,9],
-"d2/d56/classPlayerSocial.html#abfb2167fc86ea41b8cf66eebdaa95ceb":[6,0,2414,0],
-"d2/d56/classPlayerSocial.html#ac90a13e772eca1f96d98f76cfc8bf396":[6,0,2414,12],
 "d2/d56/classPlayerSocial.html#accf6a40286cca75dd9d5eed8cc3c6790":[6,0,2414,13],
 "d2/d56/classPlayerSocial.html#ace28c99a43b6c9645550d0c30f8184df":[6,0,2414,10],
 "d2/d56/classPlayerSocial.html#ad4b6d7563aa448307c71fd01d0b748c3":[6,0,2414,4],
@@ -77,8 +72,8 @@ var NAVTREEINDEX63 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,3915,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,3915,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,3915,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,31,0,3],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,11,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,11,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,31,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,11,0,3,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX63 =
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117aa74f95bb40d8ed4f48055905dc06d093":[7,0,0,0,1,3,2,29,7,5],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ab0a630e891967ea5f9e0b2b1d4ff8c7b":[7,0,0,0,1,3,2,29,7,6],
 "d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117abad8d0d4b1cbadaec38e64cea8c488c4":[7,0,0,0,1,3,2,29,7,10],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566":[7,0,0,0,1,3,2,29,7,12]
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac32a913ef393de880014e21b55d9f566":[7,0,0,0,1,3,2,29,7,12],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac55a400e0f3da4381ab1048e5115d2d7":[7,0,0,0,1,3,2,29,7,0],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117ac996a5c00ede30152bc87c96f2f29344":[7,0,0,0,1,3,2,29,7,8],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a2ba39a6181a7eb3cea0c26335739a06c":[7,0,0,0,1,3,2,29,9],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3":[7,0,0,0,1,3,2,29,6],
+"d2/d5b/zone__silverpine__forest_8cpp.html#a5909181236bb4736208a6dab8aa72de3a09f22f871c7677ce21215036738e9599":[7,0,0,0,1,3,2,29,6,7]
 };

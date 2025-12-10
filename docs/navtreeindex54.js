@@ -1,10 +1,5 @@
 var NAVTREEINDEX54 =
 {
-"d2/d31/structCharTitlesEntry.html":[6,0,865],
-"d2/d31/structCharTitlesEntry.html#a1e5cb3fc001169a204507a084435a211":[6,0,865,0],
-"d2/d31/structCharTitlesEntry.html#a63fe7a87e019780d20e86e48efb02eac":[6,0,865,1],
-"d2/d31/structCharTitlesEntry.html#a74a767731c96d3d815ddde5a06f68599":[6,0,865,3],
-"d2/d31/structCharTitlesEntry.html#ad0380caf2526715faaddc9330062d90a":[6,0,865,2],
 "d2/d31/structboss__servant__quarters.html":[6,0,694],
 "d2/d31/structboss__servant__quarters.html#a00d31d9421903b6a92c03a3bd0382328":[6,0,694,3],
 "d2/d31/structboss__servant__quarters.html#a273a09b1242968a5dd45ab9866fbe481":[6,0,694,4],
@@ -46,10 +41,10 @@ var NAVTREEINDEX54 =
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3284,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,11,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,31,2,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,31,2,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,11,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,31,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,11,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139":[7,0,0,0,1,2,8,1,1,16],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
@@ -249,5 +244,10 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a7dd569ffc1f7e104ccaec5db421a4d98":[7,0,0,0,1,3,5,14,60],
 "d2/d38/northrend__script__loader_8cpp.html#a7f5b85629316855f1d0b3e872e130015":[7,0,0,0,1,3,5,14,124],
 "d2/d38/northrend__script__loader_8cpp.html#a81d8c56de5920b1e73d7955e1c7399ed":[7,0,0,0,1,3,5,14,134],
-"d2/d38/northrend__script__loader_8cpp.html#a83f325e1cff4b4e92f8f131d86dc14a3":[7,0,0,0,1,3,5,14,76]
+"d2/d38/northrend__script__loader_8cpp.html#a83f325e1cff4b4e92f8f131d86dc14a3":[7,0,0,0,1,3,5,14,76],
+"d2/d38/northrend__script__loader_8cpp.html#a845dd351180fbb326bb015c6e0270840":[7,0,0,0,1,3,5,14,16],
+"d2/d38/northrend__script__loader_8cpp.html#a870aa227d58b1011e55005faae584065":[7,0,0,0,1,3,5,14,86],
+"d2/d38/northrend__script__loader_8cpp.html#a87e445f60f4b39a5f42df070e70f150d":[7,0,0,0,1,3,5,14,119],
+"d2/d38/northrend__script__loader_8cpp.html#a88dfb5e1f3bdbc3644a90d55d5aa6fb1":[7,0,0,0,1,3,5,14,104],
+"d2/d38/northrend__script__loader_8cpp.html#a8a8dca95effdef5c526abbf25caebaa3":[7,0,0,0,1,3,5,14,99]
 };

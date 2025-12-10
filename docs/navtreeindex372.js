@@ -1,7 +1,5 @@
 var NAVTREEINDEX372 =
 {
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a62d5f552d98486dbe081f2b995205a95":[7,0,0,0,1,3,5,18,46,28],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a63c2b6a9680aa01353f53206bfdd06d7":[7,0,0,0,1,3,5,18,46,49],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a6491a7c1bb03d49fe0886f98faaf2ec1":[7,0,0,0,1,3,5,18,46,14],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a6aff478652b8abcc15cd15192b6753d6":[7,0,0,0,1,3,5,18,46,61],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a6c4d93a7649975f3a8881835b5d0dc5c":[7,0,0,0,1,3,5,18,46,6],
@@ -165,10 +163,10 @@ var NAVTREEINDEX372 =
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[6,0,0,1,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[6,0,0,1,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,1,2,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[6,0,0,1,1,0,0],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,1,2,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,1,2,1,0,0],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[6,0,0,1,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[6,0,0,1,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,1,2,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,1,2,1,0,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX372 =
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,2,16,5,8,4],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e3c15d5dccfab66e84f977d2eb2c267":[7,0,0,0,1,3,2,16,5,8,1],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca51550a6b688832bfe789a21c5ede72d4":[7,0,0,0,1,3,2,16,5,8,7],
-"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca535cc2bfcedce1613f95c54f4577fdd7":[7,0,0,0,1,3,2,16,5,8,13]
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca535cc2bfcedce1613f95c54f4577fdd7":[7,0,0,0,1,3,2,16,5,8,13],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e56015afb41350575b27c908fd31f96":[7,0,0,0,1,3,2,16,5,8,17],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8f5b2129be4bedc2f2a9fc5bcbba2e":[7,0,0,0,1,3,2,16,5,8,14]
 };

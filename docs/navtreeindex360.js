@@ -1,7 +1,5 @@
 var NAVTREEINDEX360 =
 {
-"de/d33/classHordeChannelMgr.html#a9354a4b4122500bba602254d0c9f3b98":[6,0,1271,0],
-"de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html":[6,0,2868],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a0e0424bd590cfc4f85f40728bf6efd22":[6,0,2868,1],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a2bf6921550da3c13730fd98bded2c927":[6,0,2868,2],
 "de/d33/classspell__faction__champion__warl__unstable__affliction__aura.html#a7b24f38bbb7813826520f928b22d30aa":[6,0,2868,0],
@@ -130,6 +128,7 @@ var NAVTREEINDEX360 =
 "de/d3b/MapBuilder_8h.html#aa2aae6f254337f29866a5d240d5ec2b1":[7,0,0,0,3,2,5,5],
 "de/d3b/classMotionMaster.html":[6,0,1525],
 "de/d3b/classMotionMaster.html#a007516d713c4a1e163212eff8bc72faa":[6,0,1525,0],
+"de/d3b/classMotionMaster.html#a00eea001f3c196e2bf2849adb300abce":[6,0,1525,48],
 "de/d3b/classMotionMaster.html#a0138010ee58df715205b74c99437f138":[6,0,1525,71],
 "de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820":[6,0,1525,22],
 "de/d3b/classMotionMaster.html#a0cd0d4ba421847f9414ae3643fc46aa8":[6,0,1525,23],
@@ -159,7 +158,6 @@ var NAVTREEINDEX360 =
 "de/d3b/classMotionMaster.html#a4ac4ff518be1d03d8c2d3293951bf4d5":[6,0,1525,62],
 "de/d3b/classMotionMaster.html#a4ca387e0a59497eaca8ac4880f3a1970":[6,0,1525,50],
 "de/d3b/classMotionMaster.html#a55a28a0fc727f5f9895c64f75f7dd7cf":[6,0,1525,10],
-"de/d3b/classMotionMaster.html#a5848e5ed0a7a8ac3b8362a83b2cf90e2":[6,0,1525,48],
 "de/d3b/classMotionMaster.html#a5b0e5db1d2928a182c647b47a42d17f7":[6,0,1525,69],
 "de/d3b/classMotionMaster.html#a5d88b1661d75e7b89d7d0f4a96585425":[6,0,1525,8],
 "de/d3b/classMotionMaster.html#a61fa3685a61bbd69ed9b9b464d30efb8":[6,0,1525,68],
@@ -171,7 +169,6 @@ var NAVTREEINDEX360 =
 "de/d3b/classMotionMaster.html#a6856df13255c117b0405f75ba911c4ac":[6,0,1525,38],
 "de/d3b/classMotionMaster.html#a7375b540487d39e90ab4d4f5474ca1b1":[6,0,1525,28],
 "de/d3b/classMotionMaster.html#a772476c5e0bff814779f71c06ae7fae5":[6,0,1525,59],
-"de/d3b/classMotionMaster.html#a798c576206cc676da0e2be1c4bedf18e":[6,0,1525,47],
 "de/d3b/classMotionMaster.html#a8461743a4de94aae3c8257f2bb216f6e":[6,0,1525,54],
 "de/d3b/classMotionMaster.html#a8c04952aa2f0adf3cf2bc9805b465538":[6,0,1525,14],
 "de/d3b/classMotionMaster.html#a92e69c7f390d4c64eee74f071f1ba306":[6,0,1525,13],
@@ -200,6 +197,7 @@ var NAVTREEINDEX360 =
 "de/d3b/classMotionMaster.html#aeef3695b4f5678e5c361dba9ae7b4cc4":[6,0,1525,20],
 "de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e":[6,0,1525,26],
 "de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[6,0,1525,4],
+"de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920":[6,0,1525,47],
 "de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[6,0,1525,34],
 "de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[6,0,1525,49],
 "de/d3b/classspell__vazruden__call__nazan.html":[6,0,3961],
@@ -249,5 +247,7 @@ var NAVTREEINDEX360 =
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09":[6,0,689,0,2],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#ab2080a14c105aeb6a9c155cf6f4ec17d":[6,0,689,0,3],
 "de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#afd67bf2c7a479771976673b05b0fc29e":[6,0,689,0,0],
-"de/d3c/structnpc__maiev__illidan.html":[6,0,1947]
+"de/d3c/structnpc__maiev__illidan.html":[6,0,1947],
+"de/d3c/structnpc__maiev__illidan.html#a0d19d9bb58c44662cdfb66a8fe373a60":[6,0,1947,0],
+"de/d3c/structnpc__maiev__illidan.html#a100db757c89634a58b9382216e2791ec":[6,0,1947,5]
 };

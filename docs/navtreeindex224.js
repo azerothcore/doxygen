@@ -1,10 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/dc2/boss__halazzi_8cpp.html#ac90421cd4206eda5129bd1e1e42a3ba8":[7,0,0,0,1,3,2,15,1,3],
-"d8/dc2/boss__halazzi_8cpp.html#ac90421cd4206eda5129bd1e1e42a3ba8a76871419e416cabd16418062e27e10c2":[7,0,0,0,1,3,2,15,1,3,1],
-"d8/dc2/boss__halazzi_8cpp.html#ac90421cd4206eda5129bd1e1e42a3ba8ad90073fb2d46ae92672bc6498f12a29e":[7,0,0,0,1,3,2,15,1,3,0],
-"d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696":[7,0,0,0,1,3,2,15,1,4],
-"d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a61e900515aec51ba22cfdd63c1082fc7":[7,0,0,0,1,3,2,15,1,4,0],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a7272d361ebd09b163573d51d24c73198":[7,0,0,0,1,3,2,15,1,4,4],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a91c0c5a459a3bca8882e6fcf145567fb":[7,0,0,0,1,3,2,15,1,4,3],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696aa89ac360fd4481a03c666986e321f9b6":[7,0,0,0,1,3,2,15,1,4,2],
@@ -13,8 +8,8 @@ var NAVTREEINDEX224 =
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html":[5,0,1,90],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[5,0,1,90,1],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a1e25384d08beeee84d83e401f5a5a565":[6,0,0,78,1],
-"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[6,0,0,78,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[5,0,1,90,6],
+"d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a695af00612b17e0182ad76a5c3be2356":[6,0,0,78,6],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[5,0,1,90,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#a7a01388f86d25fa0728d94c6e1a7f752":[6,0,0,78,3],
 "d8/dc2/classAcore_1_1NearestCreatureEntryWithLiveStateInObjectRangeCheck.html#aa0340c79c37f3494b01c52f034705aa4":[5,0,1,90,5],
@@ -249,5 +244,10 @@ var NAVTREEINDEX224 =
 "d8/dd5/structClientWardenModule.html#af1e6a5cc01ee05432be5c41c88d84794":[6,0,885,2],
 "d8/dd6/DBCfmt_8h.html":[7,0,0,0,1,4,0,3],
 "d8/dd6/DBCfmt_8h.html#a0075040f7af393b0e85ca47430c7f37c":[7,0,0,0,1,4,0,3,49],
-"d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[7,0,0,0,1,4,0,3,35]
+"d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[7,0,0,0,1,4,0,3,35],
+"d8/dd6/DBCfmt_8h.html#a0a9211dfe8a10e9d63a78306415ea057":[7,0,0,0,1,4,0,3,2],
+"d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[7,0,0,0,1,4,0,3,6],
+"d8/dd6/DBCfmt_8h.html#a0db830a882adf1f5f65c74e7de8ae941":[7,0,0,0,1,4,0,3,69],
+"d8/dd6/DBCfmt_8h.html#a1266dda82a0166373df711f4de5b84fa":[7,0,0,0,1,4,0,3,20],
+"d8/dd6/DBCfmt_8h.html#a12aadeb86c55d0b33d8389c91c0d89ea":[7,0,0,0,1,4,0,3,41]
 };

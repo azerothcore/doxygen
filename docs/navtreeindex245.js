@@ -1,10 +1,5 @@
 var NAVTREEINDEX245 =
 {
-"d9/de7/classAreaTrigger__at__nats__landing.html":[6,0,172],
-"d9/de7/classAreaTrigger__at__nats__landing.html#a67434f74300fa3463e679afb7d344467":[6,0,172,1],
-"d9/de7/classAreaTrigger__at__nats__landing.html#ac366e5b1db489b4f8bb8a1d07caa83c2":[6,0,172,0],
-"d9/de7/classFrostwyrmLandEvent.html":[6,0,1070],
-"d9/de7/classFrostwyrmLandEvent.html#a4da77796a223e6233ac6d908f7700623":[6,0,1070,1],
 "d9/de7/classFrostwyrmLandEvent.html#a6336050092606ebb27a180abff55dfa2":[6,0,1070,3],
 "d9/de7/classFrostwyrmLandEvent.html#a6b6a467c474a5b03be40e4d9a86eddc8":[6,0,1070,0],
 "d9/de7/classFrostwyrmLandEvent.html#a7f5b4c41c459b65e30dea66f7459a7e9":[6,0,1070,2],
@@ -34,14 +29,14 @@ var NAVTREEINDEX245 =
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,31,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,11,7,8,5],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[5,0,31,7,8,4],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,11,7,8,4],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,11,7,8,2],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,31,7,8,2],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2615],
@@ -249,5 +244,10 @@ var NAVTREEINDEX245 =
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a3d1611870945cd0c8cd7d4e7728cfd84":[6,0,1327,0,1],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a567ac5d9a17514ede5b84c5d78204072":[6,0,1327,0,3],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a74809429d3d2b1db5374dacf34d8a1b7":[6,0,1327,0,7],
-"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[6,0,1327,0,4]
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[6,0,1327,0,4],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#ae5cd5cf84e8db976f3006dc52bb5fab4":[6,0,1327,0,6],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#aed9ab9542badb0296ca0660c39541cb8":[6,0,1327,0,2],
+"d9/df6/classat__thaddius__entrance.html":[6,0,246],
+"d9/df6/classat__thaddius__entrance.html#acc869cade2b48ceb782d78aa7df6f246":[6,0,246,1],
+"d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,246,0]
 };

@@ -12,7 +12,7 @@ var searchData=
   ['lang_5fdescription_9',['lang_description',['../d8/dd8/ObjectMgr_8cpp.html#a04765c27af649777907160e1147fb8fa',1,'lang_description:&#160;ObjectMgr.cpp'],['../de/d25/ObjectMgr_8h.html#a04765c27af649777907160e1147fb8fa',1,'lang_description:&#160;ObjectMgr.cpp']]],
   ['lang_5fid_10',['lang_id',['../d0/d1b/structLanguageDesc.html#a1fa900a467834103ac595a8a96dd28c0',1,'LanguageDesc']]],
   ['langs_11',['langs',['../d3/d7c/System_8cpp.html#aa066f729cb5884a37664455d1803ad46',1,'System.cpp']]],
-  ['language_12',['language',['../dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036',1,'GameObjectTemplate::language'],['../d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d',1,'GossipTextOption::Language']]],
+  ['language_12',['language',['../d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d',1,'GossipTextOption::Language'],['../dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036',1,'GameObjectTemplate::language']]],
   ['languageid_13',['languageid',['../d4/d69/structItemTemplate.html#ac608f29c0ddf0a9ddc45854c971952a3',1,'ItemTemplate::LanguageID'],['../de/d34/structBroadcastText.html#a35ea9cc4ebd2680988e610f344086c86',1,'BroadcastText::LanguageID']]],
   ['large_14',['large',['../dd/d3b/structGameObjectTemplate.html#ad3c1fbfb1bdab597200a07b7b2868012',1,'GameObjectTemplate::large'],['../db/d42/structnpc__simon__bunny_1_1npc__simon__bunnyAI.html#a1b6e6ac99d24bc8a426e53b50ca2b35d',1,'npc_simon_bunny::npc_simon_bunnyAI::large']]],
   ['last_15',['last',['../dd/d1c/structSpellChainNode.html#a05a8077c7ec39bcca66fe84aa1da7040',1,'SpellChainNode']]],

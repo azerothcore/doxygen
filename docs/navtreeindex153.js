@@ -1,10 +1,5 @@
 var NAVTREEINDEX153 =
 {
-"d5/db6/classWheatyExceptionReport.html#a6ef03febf56bed50dc298fb862023be0":[6,0,4288,9],
-"d5/db6/classWheatyExceptionReport.html#a749bbb7b98ba5b38c146cf0fa7a6e869":[6,0,4288,10],
-"d5/db6/classWheatyExceptionReport.html#a80c36c2cc8d4aa9b550384d59abb60b0":[6,0,4288,33],
-"d5/db6/classWheatyExceptionReport.html#a81ca155f48cf7c22c435ac9ca08b46a6":[6,0,4288,32],
-"d5/db6/classWheatyExceptionReport.html#a85e0cf47157d409a58b95bf7b21109e2":[6,0,4288,12],
 "d5/db6/classWheatyExceptionReport.html#a97b80fb00aad9056661144809950c83e":[6,0,4288,15],
 "d5/db6/classWheatyExceptionReport.html#a998379291f9a268b84dd9dbd2f6d6863":[6,0,4288,29],
 "d5/db6/classWheatyExceptionReport.html#a9b36f5d8489818de9d3601fd39eac863":[6,0,4288,6],
@@ -29,12 +24,12 @@ var NAVTREEINDEX153 =
 "d5/db6/classWheatyExceptionReport.html#aff552431681501cd79cc3283adeafcee":[6,0,4288,35],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[6,0,11,6,38],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html":[5,0,31,6,38],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[5,0,31,6,38,2],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,6,38,1],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#a18ece7d865fa1b5da005c7c03397b4e2":[6,0,11,6,38,2],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[5,0,31,6,38,1],
-"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,6,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#aa0c3cd629b73cb079cc3cf90bf6f8067":[6,0,11,6,38,1],
 "d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[5,0,31,6,38,0],
+"d5/db6/classWorldPackets_1_1Guild_1_1GuildOfficerRemoveMember.html#acd0f767ff61006c7b3c78f3dbb6da558":[6,0,11,6,38,0],
 "d5/db6/classnpc__deathstalker__erland.html":[6,0,1737],
 "d5/db6/classnpc__deathstalker__erland.html#a81b20bc8c7249a59d69ba63ab32a5f06":[6,0,1737,3],
 "d5/db6/classnpc__deathstalker__erland.html#ab59235f212ddb985056cb8e32719b723":[6,0,1737,2],
@@ -194,8 +189,8 @@ var NAVTREEINDEX153 =
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[6,0,0,93],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[6,0,0,93,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,1,105,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,1,105,2],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,1,105,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[6,0,0,93,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,93,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX153 =
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a26648cba8fe7c1497b619e4fdbd78cc9":[6,0,538,0,27],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a2bb2c2c760aa5f0af3599ee1e67750b8":[6,0,538,0,29],
 "d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a2ee21c3600bc0bfb63645a30aebf37be":[6,0,538,0,28],
-"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a362678772d3aa431bda2922489bd076e":[6,0,538,0,12]
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a362678772d3aa431bda2922489bd076e":[6,0,538,0,12],
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a4386e6779b48e13bad5b8113c697fcb2":[6,0,538,0,14],
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a5b561e535be05073196a2fcb274d78ed":[6,0,538,0,10],
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a611c6b674d990aef090ffc4d046f4e22":[6,0,538,0,18],
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a716aa7417356b89a17191330344dee29":[6,0,538,0,3],
+"d5/dc2/structboss__hodir_1_1boss__hodirAI.html#a732794d8e9a9654bee92a65091727644":[6,0,538,0,4]
 };

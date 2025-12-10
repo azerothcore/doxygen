@@ -1,10 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7a28c8050615a13148092b1d6f0f8bea":[6,0,2004,6],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a92cd659095e45c414a2c05672a70aaeb":[6,0,2004,9],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a95f42c51b10eeeb8f238572f4190b777":[6,0,2004,4],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#aafcf7f832f3c5412bc1c71fc59dec003":[6,0,2004,8],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#ab15331d6fd3a2783a4c95d49e4dbe7b2":[6,0,2004,0],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#abd7728d7ac2a59b436385069ffc62c9d":[6,0,2004,10],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#ac99fa024d5c71c37e94d0ff17808e2d4":[6,0,2004,14],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#ae7927006050c6eab309671b2d39ac74e":[6,0,2004,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX89 =
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2d263c0e6e05324ea65cfef3fb0a95ac":[7,0,0,0,1,3,5,15,56,10],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2f9feeeb7f65d9080de13cd056cbffa3":[7,0,0,0,1,3,5,15,56,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da3045b70413bb67baf0a9243b2785b369":[7,0,0,0,1,3,5,15,56,54],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da358555a693105b127e094a54ed989726":[7,0,0,0,1,3,5,15,56,17]
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da358555a693105b127e094a54ed989726":[7,0,0,0,1,3,5,15,56,17],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da394a0ea6599b6eb73dc9cd8553816588":[7,0,0,0,1,3,5,15,56,32],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da44e161d26ecf4f644099b662414e7354":[7,0,0,0,1,3,5,15,56,49],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da4a72aeb0e528049ec64068296c70a643":[7,0,0,0,1,3,5,15,56,15],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da4e4e94bbc6d66b92951e0b62b89c1d94":[7,0,0,0,1,3,5,15,56,16],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da54e9dfd244ae6a577a6f98b91dfc8bd0":[7,0,0,0,1,3,5,15,56,63]
 };

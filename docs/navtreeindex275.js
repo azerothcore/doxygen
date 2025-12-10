@@ -1,5 +1,8 @@
 var NAVTREEINDEX275 =
 {
+"db/d18/classspell__gen__fixate__aura.html#a8a60db6939ba71ddcf723fb4e48b3146":[6,0,2957,0],
+"db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[6,0,2957,1],
+"db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[6,0,2957,2],
 "db/d1a/classspell__q12227__outhouse__groans.html":[6,0,3660],
 "db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3660,1],
 "db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3660,2],
@@ -155,10 +158,10 @@ var NAVTREEINDEX275 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1883,0],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a1013be426b3567d8cbd1c45debc914c5":[6,0,1883,0,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#a16c3f6d5bd1cc288590bd096233e0bfb":[6,0,1883,0,9],
@@ -174,12 +177,12 @@ var NAVTREEINDEX275 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1883,0,3],
 "db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,31,6,40,0],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,6,40,0,1],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,11,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,11,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,31,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,11,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,31,6,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4117,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4117,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4117,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX275 =
 "db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70":[6,0,4258,8],
 "db/d2a/classspell__q10898__skywing.html":[6,0,3625],
 "db/d2a/classspell__q10898__skywing.html#a5cb9e02774ea6c307e76183253ffb472":[6,0,3625,1],
-"db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3625,2],
-"db/d2a/classspell__q10898__skywing.html#ac781a5ff389268d1f18867ff5585ca71":[6,0,3625,0],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,709,0],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,709,0,7]
+"db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3625,2]
 };

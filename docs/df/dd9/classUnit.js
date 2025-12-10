@@ -757,6 +757,7 @@ var classUnit =
     [ "SendTeleportPacket", "df/dd9/classUnit.html#a4cb19b0c6fe9e9c302a3db9d14391f64", null ],
     [ "SendThreatListUpdate", "df/dd9/classUnit.html#ae87b8ae0a14aa04cc311850322fe45b7", null ],
     [ "SetAI", "df/dd9/classUnit.html#a9a13c045fd5c5c519ee1fb7f32f70450", null ],
+    [ "SetAnimTier", "df/dd9/classUnit.html#a0cda1f2945337ff96425c65229d895a2", null ],
     [ "SetArmor", "df/dd9/classUnit.html#ab395f442c73efc3442cd4575abda6064", null ],
     [ "SetAttackTime", "df/dd9/classUnit.html#adeb215374587957e59c2551053895fa1", null ],
     [ "setAttackTimer", "df/dd9/classUnit.html#a4fc2fda7c62ee0d4e8c76f47178ed987", null ],

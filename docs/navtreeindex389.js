@@ -1,7 +1,5 @@
 var NAVTREEINDEX389 =
 {
-"df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[6,0,643,5],
-"df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[6,0,643,8],
 "df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[6,0,643,9],
 "df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[6,0,643,6],
 "df/d7f/structboss__novos.html#accd720c3cb74905ef5ecf793089681eb":[6,0,643,4],
@@ -30,8 +28,8 @@ var NAVTREEINDEX389 =
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,428,6],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,31,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,11,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,31,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,11,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,31,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,11,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,31,6,36,1],
@@ -202,10 +200,10 @@ var NAVTREEINDEX389 =
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992":[7,0,0,0,1,2,8,14,5,5],
 "df/d88/BattlegroundQueue_8h.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d":[7,0,0,0,1,2,8,14,5,3],
 "df/d88/BattlegroundQueue_8h.html#aebc536d6c303d31049ad05f333c275ba":[7,0,0,0,1,2,8,14,6],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html":[5,0,1,68],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html":[6,0,0,56],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[5,0,1,68,0],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#a62075fc1b342fe6e40998dad928da71a":[6,0,0,56,0],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[6,0,0,56,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a814909bb047b8b0e0dd4f7ba0c479c64":[5,0,1,68,6],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a9223c931b791ad689451f7f0c874b6a9":[5,0,1,68,2],
@@ -214,8 +212,8 @@ var NAVTREEINDEX389 =
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#a98acab0031dbf8b0a3943c3a6522c9d3":[5,0,1,68,5],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[6,0,0,56,1],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#aa49818fa638dbd3909e5f563383346f2":[5,0,1,68,1],
-"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,56,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[5,0,1,68,3],
+"df/d88/classAcore_1_1GameObjectInRangeCheck.html#addf45c48385df26aa544957d7d24f1ec":[6,0,0,56,3],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[6,0,0,56,4],
 "df/d88/classAcore_1_1GameObjectInRangeCheck.html#af52ee33b2324eb80f4ad47f2eee1dbb5":[5,0,1,68,4],
 "df/d88/classspell__hallows__end__trick.html":[6,0,3089],
@@ -249,5 +247,7 @@ var NAVTREEINDEX389 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3645,0],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3645,3],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3645,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4074]
+"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4074],
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4074,2],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4074,1]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX173 =
 {
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
-"d6/d75/boss__varos_8cpp.html":[7,0,0,0,1,3,5,8,2,3],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,8,2,3,3],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,8,2,3,3,3],
-"d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,3,3,0],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a6e3c4d3b708e8ce07968a075b3ffb22a":[7,0,0,0,1,3,5,8,2,3,3,1],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac54151b5c8f69a89047282c61104080e":[7,0,0,0,1,3,5,8,2,3,3,2],
 "d6/d75/boss__varos_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[7,0,0,0,1,3,5,8,2,3,6],
@@ -204,8 +199,8 @@ var NAVTREEINDEX173 =
 "d6/d79/structnpc__frosthound.html#adf6969c7670584747e407a3bede8c928":[6,0,1795,1],
 "d6/d79/structnpc__frosthound.html#adfeb6a7a2755ebc0d1252cedf0f54727":[6,0,1795,11],
 "d6/d7c/WardenMac_8h.html":[7,0,0,0,1,2,46,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,1,31],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,1,31],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,1,31,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,19,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,19,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX173 =
 "d6/d7e/boss__kazrogal_8cpp.html#a33d2825f01569dc14b1610ecc31ada0b":[7,0,0,0,1,3,4,1,0,3,6],
 "d6/d7e/boss__kazrogal_8cpp.html#a378d5c1c6cef9f24f253a041e207663c":[7,0,0,0,1,3,4,1,0,3,3],
 "d6/d7e/boss__kazrogal_8cpp.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c":[7,0,0,0,1,3,4,1,0,3,3,0],
-"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,3,4]
+"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,0,3,4],
+"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca4eca3dcaa1592d32d6dbb92a3b301b3b":[7,0,0,0,1,3,4,1,0,3,4,4],
+"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc":[7,0,0,0,1,3,4,1,0,3,4,2],
+"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca6c52e58c00f243bdb7a03fb464161104":[7,0,0,0,1,3,4,1,0,3,4,3],
+"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298ca92ed8fca67e67f154f8f0eb2004701a6":[7,0,0,0,1,3,4,1,0,3,4,0],
+"d6/d7e/boss__kazrogal_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[7,0,0,0,1,3,4,1,0,3,4,1]
 };

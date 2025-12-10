@@ -1,10 +1,5 @@
 var NAVTREEINDEX95 =
 {
-"d3/d39/structboss__quartermaster__zigris.html#af482c06e00e7f6c15b290115998a27a9":[6,0,666,3],
-"d3/d3a/structWeatherSeasonChances.html":[4,2,7],
-"d3/d3a/structboss__kagani__nightstrike.html":[6,0,564],
-"d3/d3a/structboss__kagani__nightstrike.html#aba5ca4ce6fe6b39bb85aadddbcd9891e":[6,0,564,1],
-"d3/d3a/structboss__kagani__nightstrike.html#aeb4cfab6c4caafcf64d5e54cf481fd6a":[6,0,564,0],
 "d3/d3a/structboss__kagani__nightstrike.html#af1010b7aa7434a92f1168eceda47cc2e":[6,0,564,2],
 "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html":[6,0,2246,0],
 "d3/d3b/structnpc__unworthy__initiate__anchor_1_1npc__unworthy__initiate__anchorAI.html#a2d1a90c4f3c5047a41c7e9f80db13a99":[6,0,2246,0,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX95 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba40323a5ecc86a2233630944fc061edba":[7,0,0,0,1,2,48,7,0,109],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4058c242bf815eab614f29405009cd3d":[7,0,0,0,1,2,48,7,0,96],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba40a108e6271fbcc562fa9a3fd9666ccd":[7,0,0,0,1,2,48,7,0,25],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba40b8d49b22714d986fd600b4b7524df4":[7,0,0,0,1,2,48,7,0,445]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba40b8d49b22714d986fd600b4b7524df4":[7,0,0,0,1,2,48,7,0,445],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba41c25a4f54eb032aef4182061335b5e7":[7,0,0,0,1,2,48,7,0,231],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba43ad4b225088c8c1e7f71a7b44996c3a":[7,0,0,0,1,2,48,7,0,195],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba447c7c05268d209077c4c5a942e64f1f":[7,0,0,0,1,2,48,7,0,280],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba44b9597ddc919ca8f787fee4472ba032":[7,0,0,0,1,2,48,7,0,185],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba4542c18bd04ab9e90a0a912e335b9a39":[7,0,0,0,1,2,48,7,0,107]
 };

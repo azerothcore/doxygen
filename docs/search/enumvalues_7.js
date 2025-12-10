@@ -110,7 +110,7 @@ var searchData=
   ['hostile_107',['Hostile',['../d4/d02/structSmartEvent.html#a383f63ef0e7a093c1fdda34d3050d22daa62a927d0ab6a08f916aa9f5ec0306e4',1,'SmartEvent']]],
   ['hours_108',['Hours',['../dd/d27/Timer_8h.html#aea6a25b38e19ecccfdefaf43a55575f3a6a7e73161603d87b26a8eac49dab0a9c',1,'Timer.h']]],
   ['house_5fpath_109',['HOUSE_PATH',['../d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773',1,'zone_elwynn_forest.cpp']]],
-  ['hover_110',['Hover',['../de/d2f/CreatureData_8h.html#a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc',1,'CreatureData.h']]],
+  ['hover_110',['hover',['../de/d2f/CreatureData_8h.html#a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc',1,'Hover:&#160;CreatureData.h'],['../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc',1,'Hover:&#160;MotionMaster.h']]],
   ['hp_5ftower_5fbroken_5fhill_111',['HP_TOWER_BROKEN_HILL',['../d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9',1,'OutdoorPvPHP.h']]],
   ['hp_5ftower_5fnum_112',['HP_TOWER_NUM',['../d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355',1,'OutdoorPvPHP.h']]],
   ['hp_5ftower_5foverlook_113',['HP_TOWER_OVERLOOK',['../d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447',1,'OutdoorPvPHP.h']]],

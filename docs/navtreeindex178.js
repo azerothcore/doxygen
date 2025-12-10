@@ -1,10 +1,5 @@
 var NAVTREEINDEX178 =
 {
-"d6/db1/classnpc__paoka__swiftmountain.html#a3f41d2caae5acb4b79bcc75780db03d2":[6,0,2006,2],
-"d6/db1/classnpc__paoka__swiftmountain.html#a5bd4442350daf5a19bee1037a1b4d7b3":[6,0,2006,3],
-"d6/db1/classnpc__paoka__swiftmountain.html#abb3f6fab7cca158c2e139159430f880a":[6,0,2006,1],
-"d6/db1/structnpc__anubisath__defender.html":[6,0,1598],
-"d6/db1/structnpc__anubisath__defender.html#a032714b16d3d77a19bec0f918d8ef8df":[6,0,1598,1],
 "d6/db1/structnpc__anubisath__defender.html#a1f190f45ffbaf20f5565221780dc5cc6":[6,0,1598,5],
 "d6/db1/structnpc__anubisath__defender.html#a225ca1b3144953bcc5890caf0d32b606":[6,0,1598,2],
 "d6/db1/structnpc__anubisath__defender.html#a4adef63a5093e3c0ecb8b57283e94ff8":[6,0,1598,6],
@@ -77,10 +72,10 @@ var NAVTREEINDEX178 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -249,5 +244,10 @@ var NAVTREEINDEX178 =
 "d6/dc0/structCreatureSpellCooldown.html":[6,0,934],
 "d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,934,2],
 "d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[6,0,934,1],
-"d6/dc0/structCreatureSpellCooldown.html#a6d234a93951992640df5720a2885be3e":[6,0,934,0]
+"d6/dc0/structCreatureSpellCooldown.html#a6d234a93951992640df5720a2885be3e":[6,0,934,0],
+"d6/dc0/structCreatureSpellCooldown.html#a9c1c5f2b6e9a6cd015085e79b043e483":[6,0,934,3],
+"d6/dc1/ChatCommandTags_8h.html":[7,0,0,0,1,2,11,1,7],
+"d6/dc1/ChatCommandTags_8h.html#a55b2f2ab9e15f11a5b44f6d616f28e8a":[7,0,0,0,1,2,11,1,7,13],
+"d6/dc1/ChatCommandTags_8h.html#ab72843264c39ce4d9aa3d4d8fbd83fc4":[7,0,0,0,1,2,11,1,7,15],
+"d6/dc1/ChatCommandTags_8h.html#ac61bb0d0d29d3ccc94188eb93516adf5":[7,0,0,0,1,2,11,1,7,14]
 };

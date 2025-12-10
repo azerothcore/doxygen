@@ -1,10 +1,5 @@
 var NAVTREEINDEX123 =
 {
-"d4/d3e/classBattlegroundSA.html#a7c2aa11d70a2e37942993e58afa525f9":[6,0,337,9],
-"d4/d3e/classBattlegroundSA.html#a805974e647577e8259f4f16a99e84ad0":[6,0,337,35],
-"d4/d3e/classBattlegroundSA.html#a9a00081f5b12039616140e2e019d370e":[6,0,337,43],
-"d4/d3e/classBattlegroundSA.html#aa4b2d9768d48926766c29a99e6efa303":[6,0,337,28],
-"d4/d3e/classBattlegroundSA.html#ab1aea69f1656f11d85dde0540a4a0aba":[6,0,337,47],
 "d4/d3e/classBattlegroundSA.html#ab1c4cb091a3be52084a1519660272de5":[6,0,337,45],
 "d4/d3e/classBattlegroundSA.html#ab7919ab5a05a6b463a1bd99eebcd5889":[6,0,337,24],
 "d4/d3e/classBattlegroundSA.html#ab86d8f8756c28623c3533bbb0e9c6222":[6,0,337,41],
@@ -27,8 +22,8 @@ var NAVTREEINDEX123 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[6,0,2905,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[6,0,2905,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2905,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,31,12,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,11,12,4],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,31,12,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,11,12,4,0],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,31,12,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2181,0],
@@ -83,10 +78,10 @@ var NAVTREEINDEX123 =
 "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a":[6,0,590,15],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[6,0,590,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[6,0,590,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,31,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,11,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,31,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,31,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,11,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,31,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,11,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,31,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,11,6,8,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX123 =
 "d4/d53/classspell__q10041__q10040__who__are__they.html#a36963610ad939ec36848ff70185f47a2":[6,0,3614,3],
 "d4/d53/classspell__q10041__q10040__who__are__they.html#a3d378e0eac09b00792b293b2cd7f3192":[6,0,3614,2],
 "d4/d53/classspell__q10041__q10040__who__are__they.html#a5ac848029ef03f6779cf094f4b80dd24":[6,0,3614,1],
-"d4/d54/structSpellItemEnchantmentEntry.html":[6,0,4103]
+"d4/d54/structSpellItemEnchantmentEntry.html":[6,0,4103],
+"d4/d54/structSpellItemEnchantmentEntry.html#a2416afe9ae8371b9d284dd3c176c98d1":[6,0,4103,4],
+"d4/d54/structSpellItemEnchantmentEntry.html#a3086819447f7ae23bf5697a45cbc6f93":[6,0,4103,0],
+"d4/d54/structSpellItemEnchantmentEntry.html#a324fd42b7184f5c626c33323a4d72b07":[6,0,4103,5],
+"d4/d54/structSpellItemEnchantmentEntry.html#a53bf562ea4dfccb14bfb627c831b477e":[6,0,4103,7],
+"d4/d54/structSpellItemEnchantmentEntry.html#a5866d4e8ce373b6eb9af1d27e2db2c1b":[6,0,4103,1]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX129 =
 {
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a6d556c4943634fb3b24003d6d50d5598":[7,0,0,0,1,3,5,2,1,1,47,6],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22a78cf1ff80766946708b98f432a8f34f5":[7,0,0,0,1,3,5,2,1,1,47,8],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22ac816ba89efc6b737aa41b0f0d63ae591":[7,0,0,0,1,3,5,2,1,1,47,7],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22acd1c62397a094425360f70cd1d996240":[7,0,0,0,1,3,5,2,1,1,47,4],
-"d4/d81/boss__faction__champions_8cpp.html#a2e56a3ebed6e7b0d5614b5471fe60b22aee2d8f81d44829e274c3bed7ccc11170":[7,0,0,0,1,3,5,2,1,1,47,3],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844c":[7,0,0,0,1,3,5,2,1,1,58],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca00d060f353aa568ccd40e9c4b4b69696":[7,0,0,0,1,3,5,2,1,1,58,6],
 "d4/d81/boss__faction__champions_8cpp.html#a2eb065befbed5c2f01af2e56ae2c844ca0e62d64501defa8b93c0ef622cefce09":[7,0,0,0,1,3,5,2,1,1,58,7],
@@ -249,5 +244,10 @@ var NAVTREEINDEX129 =
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html":[6,0,729,0],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a03025fa529e932f23479ff19b0cd8238":[6,0,729,0,0],
 "d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a272e8565a9b00a27505b301d52814eee":[6,0,729,0,5],
-"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a41e929a3768768eb06bafdee3269fd24":[6,0,729,0,4]
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a41e929a3768768eb06bafdee3269fd24":[6,0,729,0,4],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a655fd83c2d671847fea9ae393c132fb9":[6,0,729,0,1],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a6f482cabcb0bd56711878a5ea297b950":[6,0,729,0,6],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#a7928b5db061f1073e1decc2d40601195":[6,0,729,0,2],
+"d4/d83/structboss__tharon__ja_1_1boss__tharon__jaAI.html#aab194a8f802eeb625d1a74960acbe154":[6,0,729,0,3],
+"d4/d84/ScriptedFollowerAI_8h.html":[7,0,0,0,1,2,3,1,5]
 };

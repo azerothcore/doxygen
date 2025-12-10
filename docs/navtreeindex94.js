@@ -1,10 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a323c6d3bcaaba09e5dae997863c9ded3":[7,0,0,0,1,3,5,9,2,13,62,75],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a34750416371c3cfbb458703657b7a711":[7,0,0,0,1,3,5,9,2,13,62,51],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a34f213718e608e8001aac2cd0bc90649":[7,0,0,0,1,3,5,9,2,13,62,22],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4264fa1ab921c316df3b26131bb6abf4":[7,0,0,0,1,3,5,9,2,13,62,66],
-"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4edece3059d6a003548c05a88d0e7eb0":[7,0,0,0,1,3,5,9,2,13,62,43],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4f04a0aa5c435f7d169d18d36123ea7b":[7,0,0,0,1,3,5,9,2,13,62,65],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a56d1d658810478b438e79272b603304e":[7,0,0,0,1,3,5,9,2,13,62,57],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a58ded91cb3c92499be38f0586eb20db8":[7,0,0,0,1,3,5,9,2,13,62,74],
@@ -249,5 +244,10 @@ var NAVTREEINDEX94 =
 "d3/d39/structboss__quartermaster__zigris.html#a400f7ace05cd5c4d127aecf5d771c616":[6,0,666,6],
 "d3/d39/structboss__quartermaster__zigris.html#a61d7f1c4e5a2901812f1175ccce69ab2":[6,0,666,1],
 "d3/d39/structboss__quartermaster__zigris.html#a71e911bb91b7447e8aed28cdccfda8db":[6,0,666,4],
-"d3/d39/structboss__quartermaster__zigris.html#a9295bbcffd7968051a789e8dfb634e23":[6,0,666,2]
+"d3/d39/structboss__quartermaster__zigris.html#a9295bbcffd7968051a789e8dfb634e23":[6,0,666,2],
+"d3/d39/structboss__quartermaster__zigris.html#af482c06e00e7f6c15b290115998a27a9":[6,0,666,3],
+"d3/d3a/structWeatherSeasonChances.html":[4,2,7],
+"d3/d3a/structboss__kagani__nightstrike.html":[6,0,564],
+"d3/d3a/structboss__kagani__nightstrike.html#aba5ca4ce6fe6b39bb85aadddbcd9891e":[6,0,564,1],
+"d3/d3a/structboss__kagani__nightstrike.html#aeb4cfab6c4caafcf64d5e54cf481fd6a":[6,0,564,0]
 };

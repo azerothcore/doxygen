@@ -1,10 +1,5 @@
 var NAVTREEINDEX98 =
 {
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a9a38b7966bdcc3ec9e871c024c928ce1":[6,0,1252,0,3],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#ad4ed0df79ff061a4735538067fa4a372":[6,0,1252,0,11],
-"d3/d4f/classachievement__staying__buffed__all__winter__10.html":[6,0,93],
-"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a40afd6db0bf6cff2b9b6163b7d4c31da":[6,0,93,0],
-"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a67587b1659a8d026e73b42311148541a":[6,0,93,1],
 "d3/d4f/classnpc__alchemist__adrianna.html":[6,0,1581],
 "d3/d4f/classnpc__alchemist__adrianna.html#a02ec6a66037d72e30bbe821ceee38691":[6,0,1581,1],
 "d3/d4f/classnpc__alchemist__adrianna.html#a310d375bc73c51e407580b063a6543fa":[6,0,1581,0],
@@ -53,10 +48,10 @@ var NAVTREEINDEX98 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1038,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,8,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,31,8,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,31,8,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,8,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,31,8,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,31,8,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,11,8,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,31,8,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3460],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3460,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3460,0],
@@ -162,10 +157,10 @@ var NAVTREEINDEX98 =
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[6,0,0,31],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[5,0,1,43,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[6,0,0,31,0],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a55222acf6dbb538a213eb604f67f40ce":[6,0,0,31,2],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a55222acf6dbb538a213eb604f67f40ce":[5,0,1,43,2],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[5,0,1,43,1],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a55222acf6dbb538a213eb604f67f40ce":[6,0,0,31,2],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[6,0,0,31,1],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[5,0,1,43,1],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[6,0,0,31,3],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[5,0,1,43,3],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#aa1c728ceea2ddc2e88ea07132a3fe250":[5,0,1,43,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX98 =
 "d3/d62/classOPvPCapturePointNA.html#a4d87db5c0ead53aefe174b9f51793222":[6,0,2332,3],
 "d3/d62/classOPvPCapturePointNA.html#a50baebf1ee9f8d4a3d8bcc00ff87529a":[6,0,2332,6],
 "d3/d62/classOPvPCapturePointNA.html#a544658120f08b86751842916c0086033":[6,0,2332,23],
-"d3/d62/classOPvPCapturePointNA.html#a5e420c7e9068fbb5679c8a8f8a05b571":[6,0,2332,11]
+"d3/d62/classOPvPCapturePointNA.html#a5e420c7e9068fbb5679c8a8f8a05b571":[6,0,2332,11],
+"d3/d62/classOPvPCapturePointNA.html#a5e8d66e6427794b52e74c17cd994eeed":[6,0,2332,9],
+"d3/d62/classOPvPCapturePointNA.html#a623636c8d06bda9c810d10b154b00b82":[6,0,2332,15],
+"d3/d62/classOPvPCapturePointNA.html#a6c8643092cbe18f5d9c1f6976a29795b":[6,0,2332,2],
+"d3/d62/classOPvPCapturePointNA.html#a732ca8213a57bf0360412fc3531c1835":[6,0,2332,20],
+"d3/d62/classOPvPCapturePointNA.html#a7880f710fbeaf6fd9e08904a59790d6b":[6,0,2332,28]
 };

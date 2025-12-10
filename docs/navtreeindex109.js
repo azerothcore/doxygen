@@ -1,10 +1,5 @@
 var NAVTREEINDEX109 =
 {
-"d3/dcf/Battleground_8h.html#adb41516553b1ea3899d5aaabe7151aab":[7,0,0,0,1,2,8,10,8],
-"d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759":[7,0,0,0,1,2,8,10,17],
-"d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759a1b6797569e38fc85c57b1d5b7d05b356":[7,0,0,0,1,2,8,10,17,2],
-"d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759a2c6e3db3b5c7b100c85a4ca1322a0135":[7,0,0,0,1,2,8,10,17,6],
-"d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759a35d49005ca7d13122a2055e797886403":[7,0,0,0,1,2,8,10,17,1],
 "d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759a68762e2525b98168c16930b84d91f9e1":[7,0,0,0,1,2,8,10,17,7],
 "d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759a8f4eea59a1d414df755b272ddf281667":[7,0,0,0,1,2,8,10,17,0],
 "d3/dcf/Battleground_8h.html#aea3a75a589e463d82ee2401ef0d0b759a9c77c3a333251dadf5b48e84d2492a35":[7,0,0,0,1,2,8,10,17,5],
@@ -249,5 +244,10 @@ var NAVTREEINDEX109 =
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a3bdab46e91e8fb2c068ce0042617f0c3":[7,0,0,0,1,4,0,2,15,9],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a3e4e4464f928fd20a393dfaa2668b72b":[7,0,0,0,1,4,0,2,15,67],
 "d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a3f96217eeafa3a0cee2c5a7f5799ab71":[7,0,0,0,1,4,0,2,15,10],
-"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4263362d6969bb69545699d286442635":[7,0,0,0,1,4,0,2,15,80]
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4263362d6969bb69545699d286442635":[7,0,0,0,1,4,0,2,15,80],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4695329584e8b3adf7a0b0eb9863efe5":[7,0,0,0,1,4,0,2,15,36],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4767e322296a1ec9c040e0c45d5e6bc7":[7,0,0,0,1,4,0,2,15,14],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4a2deefd8dad56d1937b2860d5efdcda":[7,0,0,0,1,4,0,2,15,43],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4ce0e066d22f496d3054d6373b38f9c4":[7,0,0,0,1,4,0,2,15,55],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a4efd4e0db3e46911cf8d586443a958ec":[7,0,0,0,1,4,0,2,15,58]
 };

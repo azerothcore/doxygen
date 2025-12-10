@@ -1,6 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3900,1],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3900,0],
 "df/dff/classinstance__old__hillsbrad.html":[6,0,1323],
 "df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1323,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX404 =
 "dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html":[7,0,0],
 "dir_fb762df71c7c0f13e82000a41941de2e.html":[7,0,0,0,1,2,7,0],
 "dir_fc0206cb51b58c6ef7ebf9067894935e.html":[7,0,0,0,1,3,4,3],
-"dir_fc52f0b797d74b4b54bfd04593b84648.html":[7,0,0,0,1,2,8]
+"dir_fc52f0b797d74b4b54bfd04593b84648.html":[7,0,0,0,1,2,8],
+"dir_fc9741c162534defc29969ffbc5109e0.html":[7,0,0,0,0,0]
 };

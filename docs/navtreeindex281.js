@@ -1,5 +1,8 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7aeaa71326c5e4a61d10d05f2b5976649c12":[7,0,0,0,1,3,9,4,173,0],
+"db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182":[7,0,0,0,1,3,9,4,158],
+"db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182aee53fe1624d32bc2c33665bf3134b0d1":[7,0,0,0,1,3,9,4,158,1],
 "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182af49149b7f09e62dd4d646dc76386b8af":[7,0,0,0,1,3,9,4,158,2],
 "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182afa4e2a4c2a24bc29010bc0903e35ee22":[7,0,0,0,1,3,9,4,158,0],
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29":[7,0,0,0,1,3,9,4,136],
@@ -246,8 +249,5 @@ var NAVTREEINDEX281 =
 "db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[6,0,1393,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,31,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,11,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,31,6,0,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,6,0,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,11,6,0,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,31,6,0,0]
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,6,0,1]
 };

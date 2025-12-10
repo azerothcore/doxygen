@@ -1,10 +1,5 @@
 var NAVTREEINDEX39 =
 {
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ac803602c1184b2893dfebf51eb171111":[7,0,0,0,1,3,5,2,1,2,10,15],
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad5a8025e6e8f9cb91f856969245e08a7":[7,0,0,0,1,3,5,2,1,2,10,8],
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,2,1,2,10,17],
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0bdea2820b7a1fb8a7c14d71a00e6469aec0a94cc1daae616809034f3a31043b6":[7,0,0,0,1,3,5,2,1,2,10,14],
-"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360e":[7,0,0,0,1,3,5,2,1,2,11],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,2,1,2,11,10],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea36d8706f7d591eeae67e5ab22e97ef2e":[7,0,0,0,1,3,5,2,1,2,11,4],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,2,1,2,11,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a2ed45f37f3666c6df5a36731f5077ee7":[7,0,0,0,1,2,16,10,5,43,20],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a38e4367712b46b4c0de8b7a260892065":[7,0,0,0,1,2,16,10,5,43,18],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a594f8b39be41e8b4b1525c70311d2cd7":[7,0,0,0,1,2,16,10,5,43,21],
-"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a59fc553fa18e7692de419ec58ca2976b":[7,0,0,0,1,2,16,10,5,43,25]
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a59fc553fa18e7692de419ec58ca2976b":[7,0,0,0,1,2,16,10,5,43,25],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a664b37f2b3a93e9e9ad114a61fec8b76":[7,0,0,0,1,2,16,10,5,43,22],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a68a95bf3496531e1b8a1733e6f1c8865":[7,0,0,0,1,2,16,10,5,43,13],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a7c43c1456879d0a16c36c9da05f5ff73":[7,0,0,0,1,2,16,10,5,43,5],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a8755012b62467ed0a03e934c9e101e2e":[7,0,0,0,1,2,16,10,5,43,24],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a883543f388da0e05e8e745011ce1b9e8":[7,0,0,0,1,2,16,10,5,43,6]
 };

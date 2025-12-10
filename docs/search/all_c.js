@@ -1168,7 +1168,7 @@ var searchData=
   ['lang_5fzombie_1165',['LANG_ZOMBIE',['../de/d0a/SharedDefines_8h.html#a315ca917ad583797f709ea477dd28705a8f43aab819ffe8db83aa5a0afcd124c4',1,'SharedDefines.h']]],
   ['lang_5fzone_5fnoflyzone_1166',['LANG_ZONE_NOFLYZONE',['../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0be0d22d02a72cae1283e09c48a005a5',1,'Language.h']]],
   ['langs_1167',['langs',['../d3/d7c/System_8cpp.html#aa066f729cb5884a37664455d1803ad46',1,'System.cpp']]],
-  ['language_1168',['language',['../d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d',1,'GossipTextOption::Language'],['../dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036',1,'GameObjectTemplate::language'],['../de/d0a/SharedDefines_8h.html#a315ca917ad583797f709ea477dd28705',1,'Language:&#160;SharedDefines.h']]],
+  ['language_1168',['language',['../dd/d3b/structGameObjectTemplate.html#a1d040e006c528b983e8ee3e197acb036',1,'GameObjectTemplate::language'],['../d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d',1,'GossipTextOption::Language'],['../de/d0a/SharedDefines_8h.html#a315ca917ad583797f709ea477dd28705',1,'Language:&#160;SharedDefines.h']]],
   ['language_2eh_1169',['Language.h',['../d7/d9f/Language_8h.html',1,'']]],
   ['languagedesc_1170',['LanguageDesc',['../d0/d1b/structLanguageDesc.html',1,'']]],
   ['languageid_1171',['languageid',['../de/d34/structBroadcastText.html#a35ea9cc4ebd2680988e610f344086c86',1,'BroadcastText::LanguageID'],['../d4/d69/structItemTemplate.html#ac608f29c0ddf0a9ddc45854c971952a3',1,'ItemTemplate::LanguageID']]],

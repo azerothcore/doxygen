@@ -1,10 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/de0/classboss__thorim__lightning__orb.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2":[6,0,740,1],
-"d8/de0/classboss__thorim__lightning__orb.html#ad24d28866145c4fccf7a3971856fa87f":[6,0,740,2],
-"d8/de0/structnpc__lord__sanguinar.html":[6,0,1937],
-"d8/de0/structnpc__lord__sanguinar.html#aa5ec2023d72561fe9cf062a2ba5a5469":[6,0,1937,0],
-"d8/de0/structnpc__lord__sanguinar.html#af9231da98547875527a519c5884cbec0":[6,0,1937,1],
 "d8/de1/structCalendarInvite.html":[6,0,835],
 "d8/de1/structCalendarInvite.html#a06999ca1bf771947d934c0943e3deb2e":[6,0,835,17],
 "d8/de1/structCalendarInvite.html#a0d7a6257d6a9731b63b28bdbe97db51d":[6,0,835,7],
@@ -249,5 +244,10 @@ var NAVTREEINDEX227 =
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d3e13f7a79db8c5b11aa3b77add6883":[7,0,0,0,1,3,2,1,0,3,2,0],
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae1ec2f172e62528644ddad62bf99e5bb":[7,0,0,0,1,3,2,1,0,3,2,4],
 "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ab21ae9dcaafc0752c2bb5f36dc7ce":[7,0,0,0,1,3,2,1,0,3,2,2],
-"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae83871ceb366127a4916a8c197250e60":[7,0,0,0,1,3,2,1,0,3,2,3]
+"d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298cae83871ceb366127a4916a8c197250e60":[7,0,0,0,1,3,2,1,0,3,2,3],
+"d8/df3/boss__anubshiah_8cpp.html#a911731d0c6cc285f5a1dd80934cdbac0":[7,0,0,0,1,3,2,1,0,3,6],
+"d8/df3/boss__anubshiah_8cpp.html#acc90f01f6cb133b1ad00d753f3d11913":[7,0,0,0,1,3,2,1,0,3,3],
+"d8/df3/boss__anubshiah_8cpp.html#ae93ad6c1747bf265a5125392f6a37696":[7,0,0,0,1,3,2,1,0,3,4],
+"d8/df3/classnpc__rocknot.html":[6,0,2086],
+"d8/df3/classnpc__rocknot.html#a64a0cd215c1f4881948e5a49cf1b86d7":[6,0,2086,1]
 };

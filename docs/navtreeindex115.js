@@ -1,10 +1,5 @@
 var NAVTREEINDEX115 =
 {
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a9402e7435904dffb8a494dc60d6d02e9":[6,0,758,0,13],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#aab29cb166d390a56a1d3b94dd07f1c63":[6,0,758,0,11],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#ab1048eb2da3e93f5cb67a8f23d35be2e":[6,0,758,0,9],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#abd3c8c7ab8d7af10ae297443ac24bd9c":[6,0,758,0,7],
-"d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#acc7eceafe9cc5a5cb5e7045d143d5ca6":[6,0,758,0,0],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#aed37566236cb2872b3a85de9f994f0cb":[6,0,758,0,10],
 "d3/df0/adt_8h.html":[7,0,0,0,3,1,2],
 "d3/df0/adt_8h.html#a07ae61ed7dc31e9cddbdf9da244567c7":[7,0,0,0,3,1,2,18],
@@ -26,8 +21,8 @@ var NAVTREEINDEX115 =
 "d3/df0/classAcore_1_1PowerCheck.html":[6,0,0,99],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,1,111,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[6,0,0,99,1],
-"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[6,0,0,99,3],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,1,111,3],
+"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[6,0,0,99,3],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[6,0,0,99,0],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[5,0,1,111,0],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[6,0,0,99,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX115 =
 "d3/df7/classBattlefieldMgr.html#aea781a60967fbc877bd1593628cdf32d":[6,0,312,0],
 "d3/df7/classBattlefieldMgr.html#af96d6d44aa8936f94c20d1bd92af2fb3":[6,0,312,15],
 "d3/df7/classBattlefieldMgr.html#afaa79f63a91c6b585b4bf10dfdf60af6":[6,0,312,2],
-"d3/df7/classMPQFile.html":[6,0,1536]
+"d3/df7/classMPQFile.html":[6,0,1536],
+"d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[6,0,1536,15],
+"d3/df7/classMPQFile.html#a081e78701a7cd8b1f3fdb144f6217e1c":[6,0,1536,14],
+"d3/df7/classMPQFile.html#a3e13eec8960a2e58a475c7662ef3b053":[6,0,1536,5],
+"d3/df7/classMPQFile.html#a3e13eec8960a2e58a475c7662ef3b053":[6,0,1536,2],
+"d3/df7/classMPQFile.html#a51ae51b7a96f945592022a036f07b5b0":[6,0,1536,10]
 };

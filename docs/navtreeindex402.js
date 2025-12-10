@@ -1,6 +1,5 @@
 var NAVTREEINDEX402 =
 {
-"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1900,2],
 "df/dde/classnpc__jaina__proudmoore__bfu.html#af96c4fac318f44cf6e70817b6960999f":[6,0,1900,1],
 "df/dde/classnpc__rinji.html":[6,0,2081],
 "df/dde/classnpc__rinji.html#a5457ac00ce0b195752640358b912af10":[6,0,2081,2],
@@ -9,12 +8,12 @@ var NAVTREEINDEX402 =
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,28,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,9,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,28,24,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,9,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,28,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,28,24,3],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,9,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,9,24,0],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,28,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,728,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a1629c28098312defb57611967adf34fe":[6,0,728,0,3],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a16771a7a854f85dcc26e3510d31454af":[6,0,728,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX402 =
 "df/dee/classspell__stinky__precious__decimate.html":[6,0,3848],
 "df/dee/classspell__stinky__precious__decimate.html#a33f15ecf0c0ff013d03742cb2130f372":[6,0,3848,0],
 "df/dee/classspell__stinky__precious__decimate.html#ab3a832cf53f4438db0d9e58b89c0ef7f":[6,0,3848,1],
-"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3848,2]
+"df/dee/classspell__stinky__precious__decimate.html#ad0c6d34103244cded41481c745dafe58":[6,0,3848,2],
+"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html":[6,0,1848,0]
 };

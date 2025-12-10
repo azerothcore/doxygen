@@ -1,10 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"d6/d26/classBattlefield.html#a6926883f0639c9496737c3ca22fb240d":[6,0,311,109],
-"d6/d26/classBattlefield.html#a6a36a765ec80193285bfff7ebd390a83":[6,0,311,53],
-"d6/d26/classBattlefield.html#a6efbeb418565424c9ef82bbdc9ee0852":[6,0,311,7],
-"d6/d26/classBattlefield.html#a709eb579668329424b44794df75bf85b":[6,0,311,62],
-"d6/d26/classBattlefield.html#a7252af448fe91704c953d0b213dfb153":[6,0,311,21],
 "d6/d26/classBattlefield.html#a740e22ee66149876955d9fe592a6e56a":[6,0,311,73],
 "d6/d26/classBattlefield.html#a74e0315500997c92b8cf8a1627a98035":[6,0,311,48],
 "d6/d26/classBattlefield.html#a75ece63c4c8ae98ace080bcce190a16d":[6,0,311,27],
@@ -202,8 +197,8 @@ var NAVTREEINDEX165 =
 "d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[6,0,2913,3],
 "d6/d2c/classspell__gen__baby__murloc.html#aa07b231cc76afb098ac8bc92eb050c80":[6,0,2913,1],
 "d6/d2c/classspell__gen__baby__murloc.html#aa381143f36a6443dfb1f0d66ce81c351":[6,0,2913,2],
-"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,31,10,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[6,0,11,10,0],
+"d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html":[5,0,31,10,0],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[6,0,11,10,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a411b65505e8a332ecf9291a670dc38c4":[5,0,31,10,0,1],
 "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html#a87e35583063b340f014d21cd02c54cab":[6,0,11,10,0,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX165 =
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a4f6a23e1e4c3c406a169908dddc64c00":[6,0,1310,0,15],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a57e6038adc5c5bfcf30c79559de8dd1e":[6,0,1310,0,16],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a62fcbef0038fe9a7138acf202d6e7378":[6,0,1310,0,20],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a6d48f27c687dc23bb2e60cae55fd33f4":[6,0,1310,0,19]
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a6d48f27c687dc23bb2e60cae55fd33f4":[6,0,1310,0,19],
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a74d576ec11f4b6027b42ed503e54d3e3":[6,0,1310,0,14],
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a87fd932691795e2d3fb9c8e6de12a20f":[6,0,1310,0,9],
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a9bea0d89252e7b6154b2acd67960818a":[6,0,1310,0,24],
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a9c5f35107d7e4311e7d8f65a6eccfb7a":[6,0,1310,0,22],
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#ab824542973eede5a3a3f7dc995e8cc28":[6,0,1310,0,0]
 };

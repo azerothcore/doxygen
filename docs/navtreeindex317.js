@@ -1,7 +1,5 @@
 var NAVTREEINDEX317 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f":[7,0,0,0,1,3,2,17,27],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af502fe83c3c2b212621876f1c04b1e02":[7,0,0,0,1,3,2,17,18],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af8d3ac11ebd283391b4140d7537b7d44":[7,0,0,0,1,3,2,17,6],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[7,0,0,0,1,3,2,17,63],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#afbbdf0fa76ce4311c7976b843d92b03a":[7,0,0,0,1,3,2,17,130],
@@ -249,5 +247,7 @@ var NAVTREEINDEX317 =
 "dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2371,1],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html":[6,0,1322,0],
 "dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a04ea989733a6ba1bed1990e1ea8baf1f":[6,0,1322,0,1],
-"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a08abbb0430a43bb4841560b01e9fe26c":[6,0,1322,0,6]
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a08abbb0430a43bb4841560b01e9fe26c":[6,0,1322,0,6],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1bc410826700bdfcefc5f60d0967a091":[6,0,1322,0,19],
+"dc/de4/structinstance__oculus_1_1instance__oculus__InstanceMapScript.html#a1c035ca450efdd89481715bd09c6c38c":[6,0,1322,0,4]
 };
