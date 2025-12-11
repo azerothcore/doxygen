@@ -1,5 +1,7 @@
 var NAVTREEINDEX280 =
 {
+"db/d6a/classnpc__marzon__silent__blade.html#a8fa1c0e11555df45005f37fd9de7f3a8":[6,0,1950,1],
+"db/d6a/classnpc__marzon__silent__blade.html#aadde9b84b46c594e41ae8ca3ae0265a1":[6,0,1950,2],
 "db/d6a/classspell__spawn__drakonid.html":[6,0,3845],
 "db/d6a/classspell__spawn__drakonid.html#a21c5eb1511cb4035f795ff1d22797e34":[6,0,3845,0],
 "db/d6a/classspell__spawn__drakonid.html#a5308de47023b89e4ff8680158a502ac0":[6,0,3845,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX280 =
 "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83ba9d18fa6c92fb53a57c8f5d6a19949d52":[7,0,0,0,1,3,9,4,185,0],
 "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83bad3ea089eae4c6aca8509bd7b81854bfb":[7,0,0,0,1,3,9,4,185,2],
 "db/d6e/spell__item_8cpp.html#ab57d3b976a21d6b573d8390922cfa58f":[7,0,0,0,1,3,9,4,182],
-"db/d6e/spell__item_8cpp.html#ab57d3b976a21d6b573d8390922cfa58fa2dcb810eef768874c1739f20a4d34ad0":[7,0,0,0,1,3,9,4,182,0],
-"db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7ae":[7,0,0,0,1,3,9,4,173],
-"db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7aea8f57eedb643eb77d7927866851106e65":[7,0,0,0,1,3,9,4,173,1]
+"db/d6e/spell__item_8cpp.html#ab57d3b976a21d6b573d8390922cfa58fa2dcb810eef768874c1739f20a4d34ad0":[7,0,0,0,1,3,9,4,182,0]
 };

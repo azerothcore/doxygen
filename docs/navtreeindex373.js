@@ -1,5 +1,17 @@
 var NAVTREEINDEX373 =
 {
+"de/dac/boss__jeklik_8cpp.html#a59e83711800ade3530fa270aaa8fae0fa35f66d8b6f82f87e210933489495d99d":[7,0,0,0,1,3,2,16,5,5,1],
+"de/dac/boss__jeklik_8cpp.html#a59e83711800ade3530fa270aaa8fae0fa41b51cc82ac22dabc8a15fa5c6cd041a":[7,0,0,0,1,3,2,16,5,5,0],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,5,8],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca0867d18249c1cbe0515a67320e1ee5fd":[7,0,0,0,1,3,2,16,5,8,5],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca106fd53b8aac00d5765530ed36774724":[7,0,0,0,1,3,2,16,5,8,11],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca244f54e16c399f14043be96b80a71e53":[7,0,0,0,1,3,2,16,5,8,16],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,2,16,5,8,4],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca4e3c15d5dccfab66e84f977d2eb2c267":[7,0,0,0,1,3,2,16,5,8,1],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca51550a6b688832bfe789a21c5ede72d4":[7,0,0,0,1,3,2,16,5,8,7],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca535cc2bfcedce1613f95c54f4577fdd7":[7,0,0,0,1,3,2,16,5,8,13],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e56015afb41350575b27c908fd31f96":[7,0,0,0,1,3,2,16,5,8,17],
+"de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a8f5b2129be4bedc2f2a9fc5bcbba2e":[7,0,0,0,1,3,2,16,5,8,14],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,2,16,5,8,9],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca749990a4e6af4f028216c0c180e8f2a8":[7,0,0,0,1,3,2,16,5,8,0],
 "de/dac/boss__jeklik_8cpp.html#a5bd342133be8c2137b831460acc9298ca74a5f345b3121dad0f18b2f86cda3050":[7,0,0,0,1,3,2,16,5,8,12],
@@ -237,17 +249,5 @@ var NAVTREEINDEX373 =
 "de/dbb/classspell__freezing__circle.html#a627bffccdd78c00f0f5a4241f36aeec8":[6,0,2883,2],
 "de/dbb/classspell__freezing__circle.html#a9c9bbe49388cf5d04650572fdf789e5e":[6,0,2883,0],
 "de/dbb/classspell__freezing__circle.html#ac89a628f1aba54aa2ade876a4f7911b8":[6,0,2883,1],
-"de/dbb/classspell__freezing__circle.html#aed63b40f8e2cc6fd32dd536a2d56c7c3":[6,0,2883,3],
-"de/dbb/classspell__ticking__time__bomb__aura.html":[6,0,3928],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a213b50ebb7ce248a36dd78167d1190bb":[6,0,3928,2],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a72e6468602d40eb479a80c611d60eb2e":[6,0,3928,1],
-"de/dbb/classspell__ticking__time__bomb__aura.html#a8f3ec40c0c2e38dc32db30ce36129684":[6,0,3928,3],
-"de/dbb/classspell__ticking__time__bomb__aura.html#acccd790c53f567f93e64afa7b7d1fe6f":[6,0,3928,0],
-"de/dbd/classOutdoorPvPGH.html":[6,0,2350],
-"de/dbd/classOutdoorPvPGH.html#a3d62cb27cfa415c9ba7fe5c18384a75d":[6,0,2350,2],
-"de/dbd/classOutdoorPvPGH.html#a619492e0a1fdf75f37554a2f19268660":[6,0,2350,0],
-"de/dbd/classOutdoorPvPGH.html#a92c7e489717072ddc34f707fbe462cb2":[6,0,2350,1],
-"de/dbe/NPCHandler_8cpp.html":[7,0,0,0,1,2,22,21],
-"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514":[7,0,0,0,1,2,22,21,0],
-"de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2":[7,0,0,0,1,2,22,21,0,0]
+"de/dbb/classspell__freezing__circle.html#aed63b40f8e2cc6fd32dd536a2d56c7c3":[6,0,2883,3]
 };

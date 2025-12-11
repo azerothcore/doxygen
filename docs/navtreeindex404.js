@@ -1,5 +1,17 @@
 var NAVTREEINDEX404 =
 {
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html":[6,0,692,0],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a30331f9cdb141cd2dbc043888b48a6eb":[6,0,692,0,1],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a458eb370872c20441b5ec6ecd2c97500":[6,0,692,0,2],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a4b7f103331c566cbf007a075161505af":[6,0,692,0,6],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#a74abf893a37874eb98aa5ba9883e8d62":[6,0,692,0,3],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ab4fa6a2cc57c9d110bfd3cf16a016942":[6,0,692,0,0],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#ac07513681c72d6748246cc7c349d117c":[6,0,692,0,4],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,692,0,5],
+"df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,692,0,7],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,3900],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,3900,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,3900,1],
 "df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,3900,0],
 "df/dff/classinstance__old__hillsbrad.html":[6,0,1323],
 "df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1323,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX404 =
 "dir_ea33f7fc30415360daedf4b963058d3d.html":[7,0,0,0,1,2,36],
 "dir_eac4a77c7e1bc9a8e4dbb016e4f56c0e.html":[7,0,0,0,1,3,2,6],
 "dir_ee257430e29f6025af1a91f2d4e4e3f4.html":[7,0,0,0,1,3,2,1],
-"dir_ee82ee7794f367a672177b3bd595def7.html":[7,0,0,0],
-"dir_ef7aca743453a8310aabb86ba904b3f6.html":[7,0,0,0,1,2,41],
-"dir_efb9d7c5ce6f8141e7a681492cf39a92.html":[7,0,0,0,1,3,7,5,2],
-"dir_f0a1abf8767dec3b65a65862f1558cd7.html":[7,0,0,0,3,3],
-"dir_f14d503eb20eb3c7d3fc8afc057e3bad.html":[7,0,0,0,1,2,0],
-"dir_f49ad253a5d89b6cfd4cfde27040fa87.html":[7,0,0,0,1,2,45],
-"dir_f6031702e2b504d935bb677a6d4d89df.html":[7,0,0,0,1,3,5,3],
-"dir_f69d3ac9ea0d79b27cfca1b33f4c68de.html":[7,0,0,0,0,14],
-"dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html":[7,0,0],
-"dir_fb762df71c7c0f13e82000a41941de2e.html":[7,0,0,0,1,2,7,0],
-"dir_fc0206cb51b58c6ef7ebf9067894935e.html":[7,0,0,0,1,3,4,3],
-"dir_fc52f0b797d74b4b54bfd04593b84648.html":[7,0,0,0,1,2,8],
-"dir_fc9741c162534defc29969ffbc5109e0.html":[7,0,0,0,0,0]
+"dir_ee82ee7794f367a672177b3bd595def7.html":[7,0,0,0]
 };

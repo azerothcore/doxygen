@@ -1,5 +1,17 @@
 var NAVTREEINDEX401 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a3d3d0368b97072191973f8c108f6bb21af6aa344e6136036cd42f46df6d8cdf5e":[7,0,0,0,1,3,5,6,4,52,2],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,4,56],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ac6f98c2ff3ee507ab1d9d93b0dd33d":[7,0,0,0,1,3,5,6,4,56,27],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0afd93c104bac8d65ba5bda1531bc848":[7,0,0,0,1,3,5,6,4,56,37],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0b04d8b70ed88f2de3977d73acb4b164":[7,0,0,0,1,3,5,6,4,56,39],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0bd6a6904f786a212b84861ec9c69bd2":[7,0,0,0,1,3,5,6,4,56,0],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,6,4,56,15],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca168b547f6733ba270d8174a7867aa4dc":[7,0,0,0,1,3,5,6,4,56,35],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,5,6,4,56,18],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1cdf36550b109445b0813f5ee912a07b":[7,0,0,0,1,3,5,6,4,56,40],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1dfb9cc691798218302a100ab206aff5":[7,0,0,0,1,3,5,6,4,56,36],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc29b75f9a69dd6e04ae8a4a7f1d12e":[7,0,0,0,1,3,5,6,4,56,22],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2243c6b1837c6b5f5f275258fcaf9040":[7,0,0,0,1,3,5,6,4,56,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca27ce2113fede018e9229be56f2399fc3":[7,0,0,0,1,3,5,6,4,56,26],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#a5bd342133be8c2137b831460acc9298ca2dabcb0623da4a3920ce7608357abb55":[7,0,0,0,1,3,5,6,4,56,6],
@@ -237,17 +249,5 @@ var NAVTREEINDEX401 =
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html":[6,0,750,0],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a25414dc1b13aa1372e397c5cb11afdaa":[6,0,750,0,3],
 "df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a32a309084b6b7c4b4e5db10d9c8a95bd":[6,0,750,0,2],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a3fa3247442edb81136647f7fdf5834cf":[6,0,750,0,7],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a4fe22aebe6e814196ac1914d158a62de":[6,0,750,0,6],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a6428a1c4fc7d3da4e016ed17ea3684df":[6,0,750,0,1],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a94e8c9616ac332f33f2b976c074092af":[6,0,750,0,8],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a958deb54a8460cc2dc61958bd9acb338":[6,0,750,0,0],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#aa65d03d8879c6177753b8316c1343ad4":[6,0,750,0,5],
-"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#abd2199877e0e1465a7e5783b80ad2a44":[6,0,750,0,4],
-"df/ddd/SFMTRand_8h.html":[7,0,0,0,0,15,22],
-"df/dde/classBGSpamProtect.html":[6,0,357],
-"df/dde/classBGSpamProtect.html#ab791cf85fc2e08330d3f777e1797c01c":[6,0,357,0],
-"df/dde/classBGSpamProtect.html#ad76f570ce82ffcde5484e612c10c6f59":[6,0,357,1],
-"df/dde/classnpc__jaina__proudmoore__bfu.html":[6,0,1900],
-"df/dde/classnpc__jaina__proudmoore__bfu.html#a4ed6349a5ebdd90053f9d67d24ab6991":[6,0,1900,2]
+"df/ddc/structboss__trollgore_1_1boss__trollgoreAI.html#a3fa3247442edb81136647f7fdf5834cf":[6,0,750,0,7]
 };

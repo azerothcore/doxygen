@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,3,3,8,4],
+"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2009e54e67292bb522a106376667b162":[7,0,0,0,1,3,5,3,3,8,2],
 "d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,3,3,8,0],
 "d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7ea689f6479d2f7f92058b7a1ffeca9c":[7,0,0,0,1,3,5,3,3,8,3],
 "d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,3,3,8,1],
@@ -25,14 +27,14 @@ var NAVTREEINDEX156 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,1,96],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,84,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,96,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html":[6,0,2115,0],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0bc792b39b9d17a71c86756d2c7b9af0":[6,0,2115,0,1],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0d07b3f85a99ce3c0a1d4c482547113f":[6,0,2115,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "d5/ddf/structVehicleSeatEntry.html#a6950750404dd8e3e1c8509c4306f629f":[6,0,4249,11],
 "d5/ddf/structVehicleSeatEntry.html#a6dcfbca2b02e387a29f72ae0ba056958":[6,0,4249,23],
 "d5/ddf/structVehicleSeatEntry.html#a79980ce35daa49b71cbbf0d5672fd8ea":[6,0,4249,36],
-"d5/ddf/structVehicleSeatEntry.html#a80e5b56f879f08f3ea26aac533187e17":[6,0,4249,17],
-"d5/ddf/structVehicleSeatEntry.html#a89803d79045aac9e38d46b2c1793665b":[6,0,4249,7],
-"d5/ddf/structVehicleSeatEntry.html#a8981b00f9236c6ad02e37925074d17ed":[6,0,4249,28]
+"d5/ddf/structVehicleSeatEntry.html#a80e5b56f879f08f3ea26aac533187e17":[6,0,4249,17]
 };

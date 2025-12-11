@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d83/structAuctionEntry.html#a11521c90c74d1eba7d7d3ef55e960a93":[6,0,259,11],
+"d7/d83/structAuctionEntry.html#a13750d00897a07a57a881c3dcb1f6737":[6,0,259,3],
 "d7/d83/structAuctionEntry.html#a146f034b64f65c03866ecc2f45a9b448":[6,0,259,0],
 "d7/d83/structAuctionEntry.html#a2d5a849d817aaee17738aba2a53009f9":[6,0,259,7],
 "d7/d83/structAuctionEntry.html#a3d4e0baffa36cf643b0c645efe4bf3f4":[6,0,259,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d91/classInstanceSave.html#af5ac89030cb727a6c05f1fb07a8a8c49":[6,0,1364,26],
 "d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac":[6,0,1364,11],
 "d7/d91/classInstanceSave.html#afe1d6c463ee67c999066116837641324":[6,0,1364,24],
-"d7/d91/classInstanceSave.html#afe42a43cecab75523b5f92340c5ef827":[6,0,1364,17],
-"d7/d91/classInstanceSave.html#afe47ec184ab41772b446a6bfb338796f":[6,0,1364,4],
-"d7/d91/classboss__gorosh__the__dervish.html":[6,0,505]
+"d7/d91/classInstanceSave.html#afe42a43cecab75523b5f92340c5ef827":[6,0,1364,17]
 };

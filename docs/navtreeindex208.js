@@ -1,5 +1,7 @@
 var NAVTREEINDEX208 =
 {
+"d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a":[7,0,0,0,1,2,16,10,6,20,23],
+"d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a7c4ae74029844364315885e02df35505":[7,0,0,0,1,2,16,10,6,20,11],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a8379bf5577b924bd702f037bb8499a60":[7,0,0,0,1,2,16,10,6,20,7],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a868bf79cf39a2435d301ac1ade19e3a6":[7,0,0,0,1,2,16,10,6,20,15],
 "d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544aa1f9ce0e24f1efdfee3e190a2e5bd80d":[7,0,0,0,1,2,16,10,6,20,25],
@@ -115,18 +117,18 @@ var NAVTREEINDEX208 =
 "d7/df9/classspell__the__lich__king__play__movie.html#a598baad08c685bba54ad5306e0d521b4":[6,0,3906,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[5,0,1,57],
 "d7/df9/structAcore_1_1CreatureSearcher.html":[6,0,0,45],
-"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[6,0,0,45,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[5,0,1,57,2],
+"d7/df9/structAcore_1_1CreatureSearcher.html#a503aab809be6f5d60c020e89c64dce7b":[6,0,0,45,2],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[5,0,1,57,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a50630891bfb459c6c526b3e4e7e29136":[6,0,0,45,1],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[6,0,0,45,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#a5fa5777da405c57700a7e1ea7d5f94cf":[5,0,1,57,5],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[6,0,0,45,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,1,57,3],
-"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[6,0,0,45,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,1,57,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,1,57,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[6,0,0,45,0],
 "d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[6,0,0,45,4],
+"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,1,57,4],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html":[7,0,0,0,1,3,7,2,0,5],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a3450ff3a63b060754f2b4768b4815c18":[7,0,0,0,1,3,7,2,0,5,7],
 "d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,2,0,5,4],
@@ -168,8 +170,8 @@ var NAVTREEINDEX208 =
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html":[6,0,0,4,0,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[5,0,1,7,0,2,2],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a102ade7c095fcac914b95708958352f1":[6,0,0,4,0,2,2],
-"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[5,0,1,7,0,2,1],
+"d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f":[6,0,0,4,0,2,1],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[5,0,1,7,0,2,0],
 "d7/dfc/structAcore_1_1Hyperlinks_1_1LinkTags_1_1enchant.html#abd675e353289166cc5c92524915d46af":[6,0,0,4,0,2,0],
 "d7/dfd/Argon2_8cpp.html":[7,0,0,0,0,3,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX208 =
 "d8/d03/LootMgr_8cpp.html#a433757800c8ee4e9b654d504a4ee828a":[7,0,0,0,1,2,24,2,23],
 "d8/d03/LootMgr_8cpp.html#a556a2458977647462ba38f61da196218":[7,0,0,0,1,2,24,2,27],
 "d8/d03/LootMgr_8cpp.html#a5df89c4848d191ab038eed9a8f81b913":[7,0,0,0,1,2,24,2,18],
-"d8/d03/LootMgr_8cpp.html#a5e98772296a6d93715a4ed74eb2b5bdf":[7,0,0,0,1,2,24,2,26],
-"d8/d03/LootMgr_8cpp.html#a5f88815e67cdbdaebef659559cd0d954":[7,0,0,0,1,2,24,2,4],
-"d8/d03/LootMgr_8cpp.html#a8015904fb38b1506755242730155cacc":[7,0,0,0,1,2,24,2,12]
+"d8/d03/LootMgr_8cpp.html#a5e98772296a6d93715a4ed74eb2b5bdf":[7,0,0,0,1,2,24,2,26]
 };

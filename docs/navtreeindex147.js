@@ -1,5 +1,7 @@
 var NAVTREEINDEX147 =
 {
+"d5/d69/structlfg_1_1LfgQueueData.html#a727d35760b716270c5f326f343106d0c":[5,0,18,13,7],
+"d5/d69/structlfg_1_1LfgQueueData.html#a8b2049474102332ddca53f0892565216":[6,0,5,13,5],
 "d5/d69/structlfg_1_1LfgQueueData.html#a8b2049474102332ddca53f0892565216":[5,0,18,13,5],
 "d5/d69/structlfg_1_1LfgQueueData.html#ab78711eaf7285a5d4821e52354124646":[6,0,5,13,3],
 "d5/d69/structlfg_1_1LfgQueueData.html#ab78711eaf7285a5d4821e52354124646":[5,0,18,13,3],
@@ -43,8 +45,8 @@ var NAVTREEINDEX147 =
 "d5/d71/classspell__item__enchanted__broom__periodic.html#ac019a52a6f62f1251d20efcfadba1e78":[6,0,3242,2],
 "d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[5,0,1,63],
 "d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html":[6,0,0,51],
-"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[6,0,0,51,0],
 "d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[5,0,1,63,0],
+"d5/d71/structAcore_1_1find__type__if_3_01Check_01_4.html#a64a76023297787362eb6aae9746eee66":[6,0,0,51,0],
 "d5/d73/classspell__mark__of__nature.html":[6,0,3445],
 "d5/d73/classspell__mark__of__nature.html#a2edac19abf8aa765ada369e00cd7ea69":[6,0,3445,1],
 "d5/d73/classspell__mark__of__nature.html#a53c6d73f3588e50c2be7ce68595a704c":[6,0,3445,0],
@@ -243,11 +245,9 @@ var NAVTREEINDEX147 =
 "d5/d79/structnpc__telonicus.html":[6,0,2158],
 "d5/d79/structnpc__telonicus.html#a49501a607aeb901aa99e94d9dd0e161b":[6,0,2158,1],
 "d5/d79/structnpc__telonicus.html#af8ba6be2d39463725bbbaf7770319a93":[6,0,2158,0],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html":[5,0,1,54],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html":[6,0,0,42],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html":[5,0,1,54],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[5,0,1,54,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[6,0,0,42,2],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[5,0,1,54,3],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[6,0,0,42,3],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d":[6,0,0,42,0]
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[5,0,1,54,3]
 };

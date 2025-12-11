@@ -1,5 +1,7 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7ae":[7,0,0,0,1,3,9,4,173],
+"db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7aea8f57eedb643eb77d7927866851106e65":[7,0,0,0,1,3,9,4,173,1],
 "db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7aeaa71326c5e4a61d10d05f2b5976649c12":[7,0,0,0,1,3,9,4,173,0],
 "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182":[7,0,0,0,1,3,9,4,158],
 "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182aee53fe1624d32bc2c33665bf3134b0d1":[7,0,0,0,1,3,9,4,158,1],
@@ -78,14 +80,14 @@ var NAVTREEINDEX281 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[6,0,2512,0,0],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[6,0,2512,0,3],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2512,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structLootItem.html":[6,0,1453],
 "db/d72/structLootItem.html#a03aad2576badecebacfb0f4658fdbf4c":[6,0,1453,15],
 "db/d72/structLootItem.html#a04c38e7bde56fff42ed3fdd59fa2ec3c":[6,0,1453,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX281 =
 "db/d7b/classItemScript.html#a87ab2f706bbb4e71921852d1ae6d78c7":[6,0,1393,6],
 "db/d7b/classItemScript.html#a924268357fec1a667f1184c91ebcef33":[6,0,1393,5],
 "db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[6,0,1393,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,31,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,11,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,11,6,0,1]
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,11,6,0]
 };

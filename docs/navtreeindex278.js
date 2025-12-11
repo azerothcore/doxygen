@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"db/d4f/structMinionInfo.html#a537dd49ffb504aeab8b2b1734d5f44d7":[6,0,1509,0],
+"db/d50/classspell__halion__twilight__phasing__aura.html":[6,0,3082],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a2e4fa91ed7b3270a1addb8e5b3a85d74":[6,0,3082,0],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a53c56711e31500f827123c08f44072cb":[6,0,3082,3],
 "db/d50/classspell__halion__twilight__phasing__aura.html#a781994b0be4588f4df29399fc900ec69":[6,0,3082,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "db/d5d/classspell__pri__mind__sear.html#a7000b2fd940c914933c486e847932b62":[6,0,3576,1],
 "db/d5d/classspell__pri__mind__sear.html#a870ee08d0341f6640710a87c97a6b98b":[6,0,3576,2],
 "db/d5e/PetAI_8h.html":[7,0,0,0,1,2,3,0,9],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cff":[7,0,0,0,1,2,3,0,9,1],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d":[7,0,0,0,1,2,3,0,9,1,12],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99":[7,0,0,0,1,2,3,0,9,1,2]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cff":[7,0,0,0,1,2,3,0,9,1]
 };

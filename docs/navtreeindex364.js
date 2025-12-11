@@ -1,5 +1,12 @@
 var NAVTREEINDEX364 =
 {
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6e2bbb969ee0c578cd46a351a5784990":[7,0,0,0,1,2,13,1,12,49],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6e4154f1915ac6cd3b68f62330cb26dd":[7,0,0,0,1,2,13,1,12,35],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a72734516ae6f99892f909ca0c97f5a3d":[7,0,0,0,1,2,13,1,12,37],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a783ad3e8c79c91b856e6597f383accfc":[7,0,0,0,1,2,13,1,12,20],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a7e067a21958aea437376e1602774f625":[7,0,0,0,1,2,13,1,12,41],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a84d8bd9c7b479bfb1d76317024936dbb":[7,0,0,0,1,2,13,1,12,5],
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a85afb5334c6dccc84e8a88ca71a21b2f":[7,0,0,0,1,2,13,1,12,38],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8644356b55834449b042c99fca9c121c":[7,0,0,0,1,2,13,1,12,28],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8a49593011ff5ae9c30fcea2cd01bf04":[7,0,0,0,1,2,13,1,12,25],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a96d73299936abaeb0e203fa14d82f4f3":[7,0,0,0,1,2,13,1,12,4],
@@ -115,8 +122,8 @@ var NAVTREEINDEX364 =
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,31,6,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[5,0,31,6,30,1],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#aa24738cdd040a883782b50189abdf240":[6,0,11,6,30,1],
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[5,0,31,6,30,0],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[6,0,11,6,30,0],
+"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#af12c732cd5c81792c6f0cb5cacc096f9":[5,0,31,6,30,0],
 "de/d64/cs__lfg_8cpp.html":[7,0,0,0,1,3,0,25],
 "de/d64/cs__lfg_8cpp.html#a1d2591add059e8c4daf04b9f706da765":[7,0,0,0,1,3,0,25,2],
 "de/d64/cs__lfg_8cpp.html#a484938015a7f5ffa8f5b1d0e259d355b":[7,0,0,0,1,3,0,25,1],
@@ -147,8 +154,8 @@ var NAVTREEINDEX364 =
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[6,0,1973,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[6,0,1973,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1973,0,5],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX364 =
 "de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6":[5,0,18,46,2],
 "de/d72/namespacelfg.html#a07e4718e8cf678327c72b7deb48ccdb4":[5,0,18,51],
 "de/d72/namespacelfg.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913":[5,0,18,51,2],
-"de/d72/namespacelfg.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76":[5,0,18,51,0],
-"de/d72/namespacelfg.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668":[5,0,18,51,1],
-"de/d72/namespacelfg.html#a1191f332347cf635992fa819f9b4c0f4":[5,0,18,27],
-"de/d72/namespacelfg.html#a1b722a34b2bb9c6f6699bc774c2f246b":[5,0,18,42],
-"de/d72/namespacelfg.html#a20632643454bb292a5d524a3d230dbe0":[5,0,18,25],
-"de/d72/namespacelfg.html#a2232ae371575af57aa3eb549228d0acb":[5,0,18,57],
-"de/d72/namespacelfg.html#a2232ae371575af57aa3eb549228d0acba7909339421b55e0b8a81441114074026":[5,0,18,57,5],
-"de/d72/namespacelfg.html#a2232ae371575af57aa3eb549228d0acba8093282ba1eeb247266213b632692fc9":[5,0,18,57,0]
+"de/d72/namespacelfg.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76":[5,0,18,51,0]
 };

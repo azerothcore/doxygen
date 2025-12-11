@@ -1,5 +1,7 @@
 var NAVTREEINDEX175 =
 {
+"d6/d82/classspell__valanar__kinetic__bomb__aura.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0":[6,0,3954,0],
+"d6/d82/classspell__valanar__kinetic__bomb__aura.html#a9cfabcbbb9805a902fdd2d1b327dc4c7":[6,0,3954,3],
 "d6/d82/classspell__valanar__kinetic__bomb__aura.html#aaad9185c62333de4d6704b22780edd28":[6,0,3954,2],
 "d6/d83/LootItemStorage_8cpp.html":[7,0,0,0,1,2,24,0],
 "d6/d83/structboss__acidmaw_1_1boss__acidmawAI.html":[6,0,365,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX175 =
 "d6/d85/classlookup__commandscript.html#a1d29ab8746669b45885fea32815d09a4":[6,0,1450,12],
 "d6/d85/classlookup__commandscript.html#a1fcd4b9fb2e1e56787f0ad810f41465a":[6,0,1450,4],
 "d6/d85/classlookup__commandscript.html#a2b9a857270a65f49f328c5f689f4d360":[6,0,1450,8],
-"d6/d85/classlookup__commandscript.html#a370eaeaabaa7be0531ff84d097d5e534":[6,0,1450,6],
-"d6/d85/classlookup__commandscript.html#a3a31d2a73f9cbaa7d539692bf2b3c4a2":[6,0,1450,11],
-"d6/d85/classlookup__commandscript.html#a4430b605e8d38839dc6e15fd6a8a521f":[6,0,1450,7]
+"d6/d85/classlookup__commandscript.html#a370eaeaabaa7be0531ff84d097d5e534":[6,0,1450,6]
 };

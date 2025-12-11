@@ -1,5 +1,7 @@
 var NAVTREEINDEX361 =
 {
+"de/d3c/structnpc__maiev__illidan.html#a0d19d9bb58c44662cdfb66a8fe373a60":[6,0,1947,0],
+"de/d3c/structnpc__maiev__illidan.html#a100db757c89634a58b9382216e2791ec":[6,0,1947,5],
 "de/d3c/structnpc__maiev__illidan.html#a1bf4f2f29132c5132e7903d089ace6e2":[6,0,1947,3],
 "de/d3c/structnpc__maiev__illidan.html#a269e4a8f79b508e2da61cd5e2dc34664":[6,0,1947,7],
 "de/d3c/structnpc__maiev__illidan.html#a53607a158edf8fd772908b5d7af6edf1":[6,0,1947,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX361 =
 "de/d44/boss__renataki_8cpp.html":[7,0,0,0,1,3,2,16,9],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,9,3],
 "de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,16,9,3,5],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,16,9,3,0],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b":[7,0,0,0,1,3,2,16,9,3,4],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298cad29cb58b32c3fccaec3fde84e2355de6":[7,0,0,0,1,3,2,16,9,3,2]
+"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,16,9,3,0]
 };

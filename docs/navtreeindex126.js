@@ -1,5 +1,7 @@
 var NAVTREEINDEX126 =
 {
+"d4/d67/TypeContainerVisitor_8h.html#afb97c1925d9afe2b9cb0f316b722b286":[7,0,0,0,0,6,7,1],
+"d4/d67/boss__kaelthas_8cpp.html":[7,0,0,0,1,3,7,5,2,2],
 "d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1":[7,0,0,0,1,3,7,5,2,2,18],
 "d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1a30f19cb5d583e9949e1fc1c6d632863e":[7,0,0,0,1,3,7,5,2,2,18,0],
 "d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1a470bfc1ce3b60ee87326a7508a84cdbd":[7,0,0,0,1,3,7,5,2,2,18,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d69/structItemTemplate.html#ae922a1f49766b14e9ac69bad9660a475":[6,0,1398,87],
 "d4/d69/structItemTemplate.html#aed5d5d9593e37555340aaca41aefa7e1":[6,0,1398,1],
 "d4/d69/structItemTemplate.html#aef5389c8385f5729a2471d7ef144f05a":[6,0,1398,88],
-"d4/d69/structItemTemplate.html#af3c9b81f23635f77da6935d28ebe266e":[6,0,1398,85],
-"d4/d69/structItemTemplate.html#af5fb539abc35e3da632517535571bd76":[6,0,1398,2],
-"d4/d69/structItemTemplate.html#af62a60d717fe0a65fc5da2c6d91ae8bb":[6,0,1398,16]
+"d4/d69/structItemTemplate.html#af3c9b81f23635f77da6935d28ebe266e":[6,0,1398,85]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX127 =
 {
+"d4/d69/structItemTemplate.html#af5fb539abc35e3da632517535571bd76":[6,0,1398,2],
+"d4/d69/structItemTemplate.html#af62a60d717fe0a65fc5da2c6d91ae8bb":[6,0,1398,16],
 "d4/d69/structItemTemplate.html#af71369f348138999d8706c3372f7357d":[6,0,1398,83],
 "d4/d69/structItemTemplate.html#af7870027460623194479397fcc60db43":[6,0,1398,89],
 "d4/d69/structItemTemplate.html#af7917fc2785aec8708ad66a6e8651b04":[6,0,1398,37],
@@ -224,16 +226,16 @@ var NAVTREEINDEX127 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691":[7,0,0,0,1,3,5,2,1,0,18],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4":[7,0,0,0,1,3,5,2,1,0,18,1],
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[7,0,0,0,1,3,5,2,1,0,18,0],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,31,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[6,0,11,6,13],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,31,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,11,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,31,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[6,0,11,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,31,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[6,0,11,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,31,6,13,0],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[6,0,11,6,13,2],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[5,0,31,6,13,2],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[6,0,11,6,13,2],
 "d4/d78/structadt__MCIN_1_1adt__CELLS.html":[6,0,133,0],
 "d4/d78/structadt__MCIN_1_1adt__CELLS.html#a063c5dc62c44038e882340221bf8228a":[6,0,133,0,2],
 "d4/d78/structadt__MCIN_1_1adt__CELLS.html#a47a5eeb595d53de009651ae02d2b416d":[6,0,133,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d79/MotdMgr_8h.html":[7,0,0,0,1,2,30,1],
 "d4/d79/MotdMgr_8h.html#a0ad6ba4db6e433e72e172e659af2cada":[7,0,0,0,1,2,30,1,1],
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html":[6,0,4117,6],
-"d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a118ca963c6319802806913762c4d1fec":[6,0,4117,6,2],
-"d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a11d2070610d178006231bac274d1f311":[6,0,4117,6,1],
-"d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a89b86436bb1de38223165e7ef60f2b61":[6,0,4117,6,0]
+"d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a118ca963c6319802806913762c4d1fec":[6,0,4117,6,2]
 };

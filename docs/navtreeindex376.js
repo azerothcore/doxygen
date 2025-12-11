@@ -1,5 +1,17 @@
 var NAVTREEINDEX376 =
 {
+"de/de3/structboss__ick_1_1boss__ickAI.html#a96d39b533a96503d59c41c9e7cdd4ac4":[6,0,545,0,2],
+"de/de3/structboss__ick_1_1boss__ickAI.html#a9ba668208cda4dd33fd4eacb04476e2e":[6,0,545,0,8],
+"de/de3/structboss__ick_1_1boss__ickAI.html#aab514bb5f930d9eb545a279181632796":[6,0,545,0,11],
+"de/de3/structboss__ick_1_1boss__ickAI.html#abf700d993e1cfaa0cc64d90903bfa842":[6,0,545,0,6],
+"de/de3/structboss__ick_1_1boss__ickAI.html#afa3a7ef19f014ed9c46be4a3adc83aa3":[6,0,545,0,1],
+"de/de3/structboss__ick_1_1boss__ickAI.html#afd7752ee19dcc6be0b28181bb4485146":[6,0,545,0,4],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html":[6,0,2035,0],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a5a4f05c5930a7e5bd31df2e3131f4cec":[6,0,2035,0,2],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a7b27d1c859d77220dc1c3c8323e9eef9":[6,0,2035,0,0],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a7ef7411ea780466d7c4dd185d9444aba":[6,0,2035,0,1],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#ad874a741c641dbac6380aa682d582d7c":[6,0,2035,0,3],
+"de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#adb78f5dcd272e8223f895079885a5461":[6,0,2035,0,4],
 "de/de5/boss__sindragosa_8cpp.html":[7,0,0,0,1,3,5,6,9],
 "de/de5/boss__sindragosa_8cpp.html#a471e93670828fa8b9bbba54072636134":[7,0,0,0,1,3,5,6,9,48],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,9,41],
@@ -237,17 +249,5 @@ var NAVTREEINDEX376 =
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a216f8b75707e25698619786b87500461":[6,0,2102,0,0],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a2844efbb2f213401f83ab042f974974a":[6,0,2102,0,2],
 "de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a2991ad4ecd6b236d7002c3dddd540b00":[6,0,2102,0,5],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a342c8b5bd49e8cfd94c41a58159e4f5c":[6,0,2102,0,6],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a4fb20172c48257aafe284b3934a9c357":[6,0,2102,0,1],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a5ed567ac16bef8f53a66a12fbaf4573e":[6,0,2102,0,16],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a7a037981d3d2a37abf0d3995283ac218":[6,0,2102,0,17],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a89cbd29300ca07b3366a197a7549edab":[6,0,2102,0,8],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a97edb216194b16d273fe6098fdaba51e":[6,0,2102,0,18],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a9df8eeb695736b2a182c38a69840e99f":[6,0,2102,0,7],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aa223fcf402ed5d99ea88275b357f398c":[6,0,2102,0,10],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aca6869f05555499b210c09889d3f6684":[6,0,2102,0,14],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#acf32d74b4f0454f01f7313df6b35c4d3":[6,0,2102,0,4],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#acf42a824739dd69d64c3b1e3eff6a944":[6,0,2102,0,11],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#ae3abcf75a666c5bd722ca060fca4a12c":[6,0,2102,0,3],
-"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#aeb17b772324aa2d985606659a2aee895":[6,0,2102,0,13]
+"de/deb/structnpc__sergeant__bly_1_1npc__sergeant__blyAI.html#a342c8b5bd49e8cfd94c41a58159e4f5c":[6,0,2102,0,6]
 };

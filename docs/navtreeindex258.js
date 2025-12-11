@@ -1,5 +1,7 @@
 var NAVTREEINDEX258 =
 {
+"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5ab6d81371f0d93fd8d22f7daa7375ac39":[7,0,0,0,1,3,2,4,15,7,8],
+"da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5abd1249f69714a6c6cc125fed40367699":[7,0,0,0,1,3,2,4,15,7,20],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5ac12fa299882c6119a8650aa80c18cb35":[7,0,0,0,1,3,2,4,15,7,2],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5ac91734efcd068c18ba526347780555b7":[7,0,0,0,1,3,2,4,15,7,16],
 "da/d76/karazhan_8h.html#a4f1bba96c1d3e59d0d65c02d9154b8f5acd7658329784f2f96188ba8ed87e5e54":[7,0,0,0,1,3,2,4,15,7,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX258 =
 "da/d78/boss__the__lich__king_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a806abcaac7257edd7c5b3645c3599659":[7,0,0,0,1,3,5,6,10,75,5],
 "da/d78/boss__the__lich__king_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a89d1523eaf933b1ae27c9ae15f0df861":[7,0,0,0,1,3,5,6,10,75,7],
 "da/d78/boss__the__lich__king_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ab240c367c5e45c91ba387ac010e238bf":[7,0,0,0,1,3,5,6,10,75,4],
-"da/d78/boss__the__lich__king_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ace7280cc7060441a85accb3026a7c9ae":[7,0,0,0,1,3,5,6,10,75,8],
-"da/d78/boss__the__lich__king_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,5,6,10,75,3],
-"da/d78/boss__the__lich__king_8cpp.html#a62bfd63ca66acd214a2448e312bc246f":[7,0,0,0,1,3,5,6,10,68]
+"da/d78/boss__the__lich__king_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ace7280cc7060441a85accb3026a7c9ae":[7,0,0,0,1,3,5,6,10,75,8]
 };

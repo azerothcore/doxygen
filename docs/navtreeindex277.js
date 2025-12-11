@@ -1,5 +1,7 @@
 var NAVTREEINDEX277 =
 {
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html":[6,0,3734],
+"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3734,2],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3734,0],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3734,1],
 "db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3734,3],
@@ -138,8 +140,8 @@ var NAVTREEINDEX277 =
 "db/d48/structboss__gathios__the__shatterer.html#ad7e6f9e03968e2abac570d0c7a5de9e2":[6,0,495,6],
 "db/d4a/classAcore_1_1Thread.html":[5,0,1,119],
 "db/d4a/classAcore_1_1Thread.html":[6,0,0,107],
-"db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0":[5,0,1,119,10],
 "db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0":[6,0,0,107,10],
+"db/d4a/classAcore_1_1Thread.html#a29758de9c29e1437e234ab8d2a3e07d0":[5,0,1,119,10],
 "db/d4a/classAcore_1_1Thread.html#a37d9edd3a1a776cbc27dedff949c9726":[5,0,1,119,2],
 "db/d4a/classAcore_1_1Thread.html#a37d9edd3a1a776cbc27dedff949c9726":[6,0,0,107,2],
 "db/d4a/classAcore_1_1Thread.html#a3e9a687df7ed593abc33f5e5897125e5":[5,0,1,119,9],
@@ -148,8 +150,8 @@ var NAVTREEINDEX277 =
 "db/d4a/classAcore_1_1Thread.html#a4dcbafab5741b819852d6702e5b09369":[6,0,0,107,7],
 "db/d4a/classAcore_1_1Thread.html#a4ee8270c681c7faf3d3a6b8271f31796":[5,0,1,119,5],
 "db/d4a/classAcore_1_1Thread.html#a4ee8270c681c7faf3d3a6b8271f31796":[6,0,0,107,5],
-"db/d4a/classAcore_1_1Thread.html#a65c7edbd9a1a3ed492485013d1baaf8d":[6,0,0,107,4],
 "db/d4a/classAcore_1_1Thread.html#a65c7edbd9a1a3ed492485013d1baaf8d":[5,0,1,119,4],
+"db/d4a/classAcore_1_1Thread.html#a65c7edbd9a1a3ed492485013d1baaf8d":[6,0,0,107,4],
 "db/d4a/classAcore_1_1Thread.html#a72d9240b0f28a378bf0e05e97918e25a":[6,0,0,107,1],
 "db/d4a/classAcore_1_1Thread.html#a72d9240b0f28a378bf0e05e97918e25a":[5,0,1,119,1],
 "db/d4a/classAcore_1_1Thread.html#a79ab3cf5b994c65dc196e2c154fabe7a":[5,0,1,119,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX277 =
 "db/d4e/boss__ossirian_8cpp.html#af8d4cf87cdc6c4b3e2a903610294a592":[7,0,0,0,1,3,4,8,4,15],
 "db/d4e/boss__ossirian_8cpp.html#af9c6051ecc2a3d0ec0dfc3dd0567a96e":[7,0,0,0,1,3,4,8,4,17],
 "db/d4f/structMinionInfo.html":[6,0,1509],
-"db/d4f/structMinionInfo.html#a04750e14ecb53ce6e3fac35844a713cd":[6,0,1509,1],
-"db/d4f/structMinionInfo.html#a537dd49ffb504aeab8b2b1734d5f44d7":[6,0,1509,0],
-"db/d50/classspell__halion__twilight__phasing__aura.html":[6,0,3082]
+"db/d4f/structMinionInfo.html#a04750e14ecb53ce6e3fac35844a713cd":[6,0,1509,1]
 };

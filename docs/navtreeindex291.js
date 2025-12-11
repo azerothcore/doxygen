@@ -1,5 +1,7 @@
 var NAVTREEINDEX291 =
 {
+"db/dc8/structScriptedAI.html#abfab615775f65c53ec07c3ecfb7c4059":[6,0,2514,4],
+"db/dc8/structScriptedAI.html#ac2ce21ab709e349abb8206ce2368cd37":[6,0,2514,38],
 "db/dc8/structScriptedAI.html#ac6d4be79fb1966ee5bdd1678ecab1340":[6,0,2514,11],
 "db/dc8/structScriptedAI.html#ac737070ba7a8645d0e0ccf6bd6107004":[6,0,2514,41],
 "db/dc8/structScriptedAI.html#ac91263675c34a59bbd53b15988a9183e":[6,0,2514,57],
@@ -49,18 +51,18 @@ var NAVTREEINDEX291 =
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html":[5,0,20,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[5,0,20,0,0,0],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a010878a247d639234d2bb8571280aca6":[6,0,6,0,0,0],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[5,0,20,0,0,4],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[6,0,6,0,0,4],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a42b9a553cb3cd5d9c39d4cb7f0f59486":[5,0,20,0,0,4],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[6,0,6,0,0,5],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a43f00aacc5e1497c169d4ba908883140":[5,0,20,0,0,5],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[6,0,6,0,0,2],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[5,0,20,0,0,2],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e":[6,0,6,0,0,2],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[5,0,20,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a9792dfe730bfc437797a359896a14528":[6,0,6,0,0,6],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[6,0,6,0,0,3],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#aa5f6c5daf51b6390b7146f9a8d6de7ec":[5,0,20,0,0,3],
-"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,20,0,0,1],
 "db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[6,0,6,0,0,1],
+"db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#af620af11a09215f106fc6704c88fa411":[5,0,20,0,0,1],
 "db/dca/structboss__felmyst.html":[6,0,466],
 "db/dca/structboss__felmyst.html#a0233ebbcbb21d100425ac76223e839be":[6,0,466,4],
 "db/dca/structboss__felmyst.html#a0e429d8cf49946c0232b9c405c340356":[6,0,466,10],
@@ -91,8 +93,8 @@ var NAVTREEINDEX291 =
 "db/dcc/classMovement_1_1HoverMovementTransform.html":[5,0,21,4],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[5,0,21,4,1],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7b4c22c7ba3332c0829832756b734809":[6,0,7,4,1],
-"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[5,0,21,4,2],
+"db/dcc/classMovement_1_1HoverMovementTransform.html#a7fe74e38dbefb11af541a8750465861c":[6,0,7,4,2],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[6,0,7,4,0],
 "db/dcc/classMovement_1_1HoverMovementTransform.html#afc47d2d80c4a4a654cb60f9ad15dc63b":[5,0,21,4,0],
 "db/dcc/classspell__q12634__despawn__fruit__tosser.html":[6,0,3675],
@@ -247,7 +249,5 @@ var NAVTREEINDEX291 =
 "db/dce/classboss__lavanthor.html":[6,0,592],
 "db/dce/classboss__lavanthor.html#aa935ffe07f59db59b9b8484f22927026":[6,0,592,1],
 "db/dce/classboss__lavanthor.html#aae09ecbe56efac6538bdfb6120e0be40":[6,0,592,2],
-"db/dcf/MapUpdater_8h.html":[7,0,0,0,1,2,26,12],
-"db/dd1/classspell__gen__gadgetzan__transporter__backfire.html":[6,0,2961],
-"db/dd1/classspell__gen__gadgetzan__transporter__backfire.html#a63bc85e32a1478d03b381c61a33d0dff":[6,0,2961,0]
+"db/dcf/MapUpdater_8h.html":[7,0,0,0,1,2,26,12]
 };

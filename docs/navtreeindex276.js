@@ -1,5 +1,7 @@
 var NAVTREEINDEX276 =
 {
+"db/d2a/classspell__q10898__skywing.html#a5cb9e02774ea6c307e76183253ffb472":[6,0,3625,1],
+"db/d2a/classspell__q10898__skywing.html#a5fec9885b1dd6cf80fb47af321fad98e":[6,0,3625,2],
 "db/d2a/classspell__q10898__skywing.html#ac781a5ff389268d1f18867ff5585ca71":[6,0,3625,0],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,709,0],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,709,0,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX276 =
 "db/d3d/structnpc__supervisor__raelen.html#ae3e44b8f29f05c771137c5b9afd5da56":[6,0,2147,6],
 "db/d3e/classnpc__icc__vengeful__fleshreaper.html":[6,0,1876],
 "db/d3e/classnpc__icc__vengeful__fleshreaper.html#aa95ec1e021f3d123e5a95c356765ac36":[6,0,1876,1],
-"db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1876,2],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html":[6,0,3734],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3734,2]
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1876,2]
 };

@@ -1,5 +1,17 @@
 var NAVTREEINDEX396 =
 {
+"df/dd2/structGameObjectData.html#a4e5d0f2b99f1bd87aa22c943594ce355":[6,0,1083,2],
+"df/dd2/structGameObjectData.html#a6afeb167bb136c3ddabcc350007788db":[6,0,1083,15],
+"df/dd2/structGameObjectData.html#a6b505cde2173265da5c3a504b68c552c":[6,0,1083,0],
+"df/dd2/structGameObjectData.html#a8125fbacd3e701d19f9dcff04371f0db":[6,0,1083,14],
+"df/dd2/structGameObjectData.html#a81da3cac2ac1a3cf71579b1da6873fe9":[6,0,1083,12],
+"df/dd2/structGameObjectData.html#aadec9e3088063532fd879fdaad3c3d74":[6,0,1083,1],
+"df/dd2/structGameObjectData.html#ab4f0ed59a0ddc809fbfa1cd96d770d41":[6,0,1083,6],
+"df/dd2/structGameObjectData.html#abe0de5925bbdc047e1b0fc3baff039b1":[6,0,1083,9],
+"df/dd2/structGameObjectData.html#ac0918795bd3c37534ad7b7ac64256b16":[6,0,1083,8],
+"df/dd2/structGameObjectData.html#adfb0111d7183eefd893e0cce7691a08e":[6,0,1083,10],
+"df/dd2/structGameObjectData.html#ae12c8c5e7b3c848a57960e4c51d76e84":[6,0,1083,5],
+"df/dd2/structGameObjectData.html#ae8c523cb24a55fcde5d8caac3f82dfd5":[6,0,1083,4],
 "df/dd2/structGameObjectData.html#aef60d19e3edd35f2ddc82ab4684dbb2f":[6,0,1083,13],
 "df/dd3/DetourExtended_8h.html":[7,0,0,0,0,11,1],
 "df/dd3/MovementTypedefs_8h.html":[7,0,0,0,1,2,31,1,2],
@@ -237,17 +249,5 @@ var NAVTREEINDEX396 =
 "df/dd9/classUnit.html#a144917f4cf0303f775460f7511f792cd":[6,0,4220,196],
 "df/dd9/classUnit.html#a148e79f1285e417f73d2a95b49fc2bf9":[6,0,4220,945],
 "df/dd9/classUnit.html#a14a53e0e6edda52c0a9a42af434b6041":[6,0,4220,491],
-"df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e":[6,0,4220,319],
-"df/dd9/classUnit.html#a14ae2eeba8829b9fc0a871b0a6df9110":[6,0,4220,355],
-"df/dd9/classUnit.html#a152b359b50866753ab2c7fe66bb8618c":[6,0,4220,990],
-"df/dd9/classUnit.html#a1560f8912954788c900cab1bfa57ea76":[6,0,4220,674],
-"df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf":[6,0,4220,786],
-"df/dd9/classUnit.html#a16a73fea59a6ef3595093aa29225b37b":[6,0,4220,303],
-"df/dd9/classUnit.html#a16c186b19f846fbce1252427943caefc":[6,0,4220,870],
-"df/dd9/classUnit.html#a16df36b93a02cc6fe7f8fa9613d11eb9":[6,0,4220,324],
-"df/dd9/classUnit.html#a170813877114a8568f3b9060bc8005c1":[6,0,4220,462],
-"df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627":[6,0,4220,996],
-"df/dd9/classUnit.html#a18139a1595cccec72363ebd1de943d63":[6,0,4220,667],
-"df/dd9/classUnit.html#a1834e2b07bdde3d3a20a2479b6384bb1":[6,0,4220,152],
-"df/dd9/classUnit.html#a18e058a9566a211e4dc1c41229cf2197":[6,0,4220,210]
+"df/dd9/classUnit.html#a14a832a7c7b464f2051f8d446ab7cb1e":[6,0,4220,319]
 };

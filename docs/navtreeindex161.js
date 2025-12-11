@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ae56554d30e9de7644efab891555c57e0":[6,0,1725,0,2],
+"d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#ae6f0b271478aecf7fd1f3e1c733d77f0":[6,0,1725,0,3],
 "d5/dfc/classSOAPCommand.html":[6,0,2567],
 "d5/dfc/classSOAPCommand.html#a116d4a9d85c536ca3866bf340b64b9d9":[6,0,2567,2],
 "d5/dfc/classSOAPCommand.html#a18310d831429b084dc5cbf6310195001":[6,0,2567,3],
@@ -30,8 +32,8 @@ var NAVTREEINDEX161 =
 "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f":[6,0,21,15],
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[6,0,21,3],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,21,6],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
@@ -179,16 +181,16 @@ var NAVTREEINDEX161 =
 "d6/d07/Tuples_8h.html#aac12e702d41e9aa126f7d39f0f295252":[7,0,0,0,0,15,38,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[6,0,0,5,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html":[5,0,1,8,6],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[6,0,0,5,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[5,0,1,8,6,4],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[5,0,1,8,6,0],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a04facbd14c7d876af5154cb200d74e6b":[6,0,0,5,6,4],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[6,0,0,5,6,0],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[5,0,1,8,6,0],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[6,0,0,5,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,1,8,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[6,0,0,5,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,1,8,6,6],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,1,8,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[6,0,0,5,6,2],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,1,8,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,1,8,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[6,0,0,5,6,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a957bd38232c020611fc24dd8a6e55640":[6,0,601,0,2],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a9974fc771b3663878964aeb20914fe43":[6,0,601,0,4],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#ab45b74b3067b42089fee804844ea41dd":[6,0,601,0,5],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html":[6,0,796,0],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#a6e87b98e89748585a9f28c6f0e3a85e9":[6,0,796,0,0],
-"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html#aebc8edef5f84219e1c50f2394d129443":[6,0,796,0,2]
+"d6/d0b/structboss__yoggsaron__death__orb_1_1boss__yoggsaron__death__orbAI.html":[6,0,796,0]
 };

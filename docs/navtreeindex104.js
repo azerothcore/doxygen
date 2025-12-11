@@ -1,5 +1,7 @@
 var NAVTREEINDEX104 =
 {
+"d3/d9d/classBoundaryIntersectBoundary.html#ad92d938418434a1cb6a0eb68c88d281c":[6,0,816,0],
+"d3/d9d/classspell__item__goblin__weather__machine.html":[6,0,3258],
 "d3/d9d/classspell__item__goblin__weather__machine.html#a479832175a4c77ce0c0a2f3d3f98f08c":[6,0,3258,1],
 "d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[6,0,3258,0],
 "d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[6,0,3258,2],
@@ -130,12 +132,12 @@ var NAVTREEINDEX104 =
 "d3/d9e/boss__high__king__maulgar_8cpp.html#a834deb3700299f1a26f70d1db3e7c804":[7,0,0,0,1,3,7,3,1,6],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[6,0,0,29],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,1,41],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,29,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,1,41,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,29,2],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,29,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,41,2],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,29,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,29,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,41,1],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,29,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[6,0,0,29,3],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,1,41,3],
 "d3/d9e/classspell__boss__magus__telestra__gravity__well.html":[6,0,2671],
@@ -247,7 +249,5 @@ var NAVTREEINDEX104 =
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262af069629eb382d4209fe7651027dc9bd6":[7,0,0,0,1,3,10,10,54,54],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262af4c7ef7cfe71f86b8abe426f47422825":[7,0,0,0,1,3,10,10,54,48],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262afdad82edd3735c9adb22750c5bda64b1":[7,0,0,0,1,3,10,10,54,27],
-"d3/da1/npc__professions_8cpp.html#a2a7803601e59bd2253e48b12a9ee80b2":[7,0,0,0,1,3,10,10,25],
-"d3/da1/npc__professions_8cpp.html#a30bc0a630656c8643b89604fc3aa282d":[7,0,0,0,1,3,10,10,38],
-"d3/da1/npc__professions_8cpp.html#a36b190e3dc74100785db7b7ca7534248":[7,0,0,0,1,3,10,10,35]
+"d3/da1/npc__professions_8cpp.html#a2a7803601e59bd2253e48b12a9ee80b2":[7,0,0,0,1,3,10,10,25]
 };

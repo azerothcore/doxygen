@@ -1,5 +1,7 @@
 var NAVTREEINDEX98 =
 {
+"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a40afd6db0bf6cff2b9b6163b7d4c31da":[6,0,93,0],
+"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a67587b1659a8d026e73b42311148541a":[6,0,93,1],
 "d3/d4f/classnpc__alchemist__adrianna.html":[6,0,1581],
 "d3/d4f/classnpc__alchemist__adrianna.html#a02ec6a66037d72e30bbe821ceee38691":[6,0,1581,1],
 "d3/d4f/classnpc__alchemist__adrianna.html#a310d375bc73c51e407580b063a6543fa":[6,0,1581,0],
@@ -46,8 +48,8 @@ var NAVTREEINDEX98 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1038,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1038,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1038,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,8,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,31,8,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,11,8,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,11,8,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,31,8,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,11,8,1,1],
@@ -149,8 +151,8 @@ var NAVTREEINDEX98 =
 "d3/d5d/classspell__saviana__conflagration__throwback.html#a647f39eb125537cd7545ab4115be1091":[6,0,3770,0],
 "d3/d5d/structVMAP_1_1MapSpawns.html":[6,0,9,12],
 "d3/d5d/structVMAP_1_1MapSpawns.html":[5,0,28,12],
-"d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[5,0,28,12,1],
 "d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[6,0,9,12,1],
+"d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[5,0,28,12,1],
 "d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,28,12,0],
 "d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[6,0,9,12,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[5,0,1,43],
@@ -247,7 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d62/classOPvPCapturePointNA.html#a5e420c7e9068fbb5679c8a8f8a05b571":[6,0,2332,11],
 "d3/d62/classOPvPCapturePointNA.html#a5e8d66e6427794b52e74c17cd994eeed":[6,0,2332,9],
 "d3/d62/classOPvPCapturePointNA.html#a623636c8d06bda9c810d10b154b00b82":[6,0,2332,15],
-"d3/d62/classOPvPCapturePointNA.html#a6c8643092cbe18f5d9c1f6976a29795b":[6,0,2332,2],
-"d3/d62/classOPvPCapturePointNA.html#a732ca8213a57bf0360412fc3531c1835":[6,0,2332,20],
-"d3/d62/classOPvPCapturePointNA.html#a7880f710fbeaf6fd9e08904a59790d6b":[6,0,2332,28]
+"d3/d62/classOPvPCapturePointNA.html#a6c8643092cbe18f5d9c1f6976a29795b":[6,0,2332,2]
 };

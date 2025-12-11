@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#ad3e29841dc53cb4a38e8326bd1baaec2":[6,0,507,0,6],
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#af09ee00c4d023c61b6801daa44ae9f1c":[6,0,507,0,4],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#afdb1642dbeb250e897e2f9954e0fc810":[6,0,507,0,2],
 "d5/d31/structgo__ahune__ice__spear.html":[6,0,1113],
 "d5/d31/structgo__ahune__ice__spear.html#a22922e47b819bc60e331cffbc7c353b3":[6,0,1113,0],
@@ -119,10 +121,10 @@ var NAVTREEINDEX143 =
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,90,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,90,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,90,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
 "d5/d34/structMovieEntry.html":[6,0,1534],
 "d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[6,0,1534,0],
 "d5/d34/structProgressionRequirement.html":[6,0,2441],
@@ -241,13 +243,11 @@ var NAVTREEINDEX143 =
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d44/structadt__liquid__attributes.html":[6,0,131],
 "d5/d44/structadt__liquid__attributes.html#a929299daf6bc46aa775b9b0fa055c9e2":[6,0,131,1],
 "d5/d44/structadt__liquid__attributes.html#a9efcd2f19d9701713666f1ad2285d992":[6,0,131,0],
 "d5/d44/structboss__warlord__kalithresh.html":[6,0,778],
-"d5/d44/structboss__warlord__kalithresh.html#a06855288497f5335a236867ef681d3f8":[6,0,778,3],
-"d5/d44/structboss__warlord__kalithresh.html#a1947562aa9dafea371e2f2da824a3f65":[6,0,778,1],
-"d5/d44/structboss__warlord__kalithresh.html#a2712f5c363c3929550b77ef2536b1385":[6,0,778,2]
+"d5/d44/structboss__warlord__kalithresh.html#a06855288497f5335a236867ef681d3f8":[6,0,778,3]
 };

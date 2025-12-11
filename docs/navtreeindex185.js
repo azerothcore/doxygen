@@ -1,5 +1,7 @@
 var NAVTREEINDEX185 =
 {
+"d7/d1b/gundrak_8h.html#a50e309a7e739dcdd074e5281d54e0e8d":[7,0,0,0,1,3,5,5,5,7],
+"d7/d1b/gundrak_8h.html#a822a443943e1cb69d769edfaaf231eba":[7,0,0,0,1,3,5,5,5,2],
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,5,5,5,4],
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a0afc5e23fa1345ffc7cda0020d520e84":[7,0,0,0,1,3,5,5,5,4,0],
 "d7/d1b/gundrak_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a32975304248dc504bd8206a2e3a33d14":[7,0,0,0,1,3,5,5,5,4,2],
@@ -23,12 +25,12 @@ var NAVTREEINDEX185 =
 "d7/d1e/structnpc__warchief__portal.html#a76bb6a89f0922ed0bc0289ee4e0f20d4":[6,0,2270,4],
 "d7/d1e/structnpc__warchief__portal.html#a8c400cf1b9f41696807e11f1f135c0ad":[6,0,2270,3],
 "d7/d1e/structnpc__warchief__portal.html#ad90c834dc059040f3922f58dc3bcf4a2":[6,0,2270,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[5,0,1,2,5],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html":[6,0,0,1,5],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[6,0,0,1,5,1],
-"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#a4916376e89113eea20071f4f584c6a75":[5,0,1,2,5,1],
 "d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[5,0,1,2,5,0],
+"d7/d1f/structAcore_1_1ChatCommands_1_1QuotedString.html#ab102122dc913801a43be2fc6e4d5b2b4":[6,0,0,1,5,0],
 "d7/d1f/zone__zuldrak_8cpp.html":[7,0,0,0,1,3,5,25],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0":[7,0,0,0,1,3,5,25,21],
 "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370":[7,0,0,0,1,3,5,25,21,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX185 =
 "d7/d24/classnpc__wild__wyrm.html":[6,0,2281],
 "d7/d24/classnpc__wild__wyrm.html#abce8c3a368e75b4be5e05381f9eb722b":[6,0,2281,1],
 "d7/d24/classnpc__wild__wyrm.html#aedba91446fe12997047070f123d925d2":[6,0,2281,2],
-"d7/d24/classspell__cthun__dark__glare.html":[6,0,2722],
-"d7/d24/classspell__cthun__dark__glare.html#a31d1d590f0e6fc2e56322d606961828f":[6,0,2722,2],
-"d7/d24/classspell__cthun__dark__glare.html#a3ec2840ab1d853a1546c64a2d158e75f":[6,0,2722,0]
+"d7/d24/classspell__cthun__dark__glare.html":[6,0,2722]
 };

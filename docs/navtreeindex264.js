@@ -1,5 +1,7 @@
 var NAVTREEINDEX264 =
 {
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19":[7,0,0,0,1,3,7,13,38,13],
+"da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd":[7,0,0,0,1,3,7,13,38,24],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129":[7,0,0,0,1,3,7,13,38,3],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6":[7,0,0,0,1,3,7,13,38,23],
 "da/da4/zone__shadowmoon__valley_8cpp.html#a90c0d27144e43f3959fcc5d52db82e89ac10d744c3b0fe0744414ac6287da8582":[7,0,0,0,1,3,7,13,38,1],
@@ -161,12 +163,12 @@ var NAVTREEINDEX264 =
 "da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a":[6,0,2638,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,31,7,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,11,7,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,11,7,10,1],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,31,7,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[6,0,11,7,10,0],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,31,7,10,0],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,31,7,10,2],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[6,0,11,7,10,2],
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#ac394336b15540248770f81d748206f7b":[5,0,31,7,10,2],
 "da/daf/classspell__contagion__of__rot.html":[6,0,2717],
 "da/daf/classspell__contagion__of__rot.html#a0f33043317402119aa14e50a1eb6c227":[6,0,2717,2],
 "da/daf/classspell__contagion__of__rot.html#a159ee8a9b0af729ed01f7632adb58863":[6,0,2717,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "da/db3/structLootView.html#a33d7eeebd6fbc854300275a4138d9030":[6,0,1461,2],
 "da/db3/structLootView.html#a4cfc8ca1034e941a85d2955f38b2e894":[6,0,1461,0],
 "da/db3/structLootView.html#ac95fa4805c79923b292e8984b00de929":[6,0,1461,1],
-"da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[6,0,1461,3],
-"da/db4/classat__commander__dawnforge.html":[6,0,213],
-"da/db4/classat__commander__dawnforge.html#a1dfd7eb69ae515a59887c313001e4a4e":[6,0,213,0]
+"da/db3/structLootView.html#af9a6926c6c871dee245f876038e49995":[6,0,1461,3]
 };

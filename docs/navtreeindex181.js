@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd9/classspell__item__poultryizer.html#a9af89aba8006d93b8c0ae2ce7143255e":[6,0,3292,3],
+"d6/dd9/classspell__item__poultryizer.html#aaa1c9db89ddd7a7590b3b41b377d4cec":[6,0,3292,2],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html":[6,0,3570],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html#a1ee84242579d4cd81d6313f78354729b":[6,0,3570,2],
 "d6/dd9/classspell__pri__item__greater__heal__refund.html#a787639c45505da58aeb2174148ef4f83":[6,0,3570,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1324,1],
 "d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1324,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,1,107],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,95],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,95,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,107,2]
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,95]
 };
