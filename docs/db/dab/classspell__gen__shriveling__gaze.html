@@ -336,14 +336,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 4869</span>    {</div>
-<div class="line"><span class="lineno"> 4870</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(20);</div>
-<div class="line"><span class="lineno"> 4871</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4870</span>    {</div>
+<div class="line"><span class="lineno"> 4871</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(20);</div>
+<div class="line"><span class="lineno"> 4872</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_afe631d7dac9971919237be37b6693fdb"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">AuraScript::ModStackAmount</a></div><div class="ttdeci">bool ModStackAmount(int32 num, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1135</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01135">AuraScript::ModStackAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04879">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04880">Register()</a>.</p>
 
 </div>
 </div>
@@ -370,15 +370,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 4874</span>    {</div>
-<div class="line"><span class="lineno"> 4875</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 4876</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1);</div>
-<div class="line"><span class="lineno"> 4877</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4875</span>    {</div>
+<div class="line"><span class="lineno"> 4876</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 4877</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1);</div>
+<div class="line"><span class="lineno"> 4878</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01135">AuraScript::ModStackAmount()</a>, and <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04879">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04880">Register()</a>.</p>
 
 </div>
 </div>
@@ -432,10 +432,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4880</span>    {</div>
-<div class="line"><span class="lineno"> 4881</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../db/dab/classspell__gen__shriveling__gaze.html#af20f30fe2bfc7a370b166a6200b44ca9">spell_gen_shriveling_gaze::HandleApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 4882</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../db/dab/classspell__gen__shriveling__gaze.html#a6b3223ef23854f22b9a3baba0d42cb11">spell_gen_shriveling_gaze::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 4883</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4881</span>    {</div>
+<div class="line"><span class="lineno"> 4882</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../db/dab/classspell__gen__shriveling__gaze.html#af20f30fe2bfc7a370b166a6200b44ca9">spell_gen_shriveling_gaze::HandleApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 4883</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../db/dab/classspell__gen__shriveling__gaze.html#a6b3223ef23854f22b9a3baba0d42cb11">spell_gen_shriveling_gaze::OnPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 4884</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:86</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
@@ -443,10 +443,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:743</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
 <div class="ttc" id="aclassAuraScript_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:738</div></div>
-<div class="ttc" id="aclassspell__gen__shriveling__gaze_html_a6b3223ef23854f22b9a3baba0d42cb11"><div class="ttname"><a href="../../db/dab/classspell__gen__shriveling__gaze.html#a6b3223ef23854f22b9a3baba0d42cb11">spell_gen_shriveling_gaze::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:4873</div></div>
-<div class="ttc" id="aclassspell__gen__shriveling__gaze_html_af20f30fe2bfc7a370b166a6200b44ca9"><div class="ttname"><a href="../../db/dab/classspell__gen__shriveling__gaze.html#af20f30fe2bfc7a370b166a6200b44ca9">spell_gen_shriveling_gaze::HandleApply</a></div><div class="ttdeci">void HandleApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:4868</div></div>
+<div class="ttc" id="aclassspell__gen__shriveling__gaze_html_a6b3223ef23854f22b9a3baba0d42cb11"><div class="ttname"><a href="../../db/dab/classspell__gen__shriveling__gaze.html#a6b3223ef23854f22b9a3baba0d42cb11">spell_gen_shriveling_gaze::OnPeriodic</a></div><div class="ttdeci">void OnPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:4874</div></div>
+<div class="ttc" id="aclassspell__gen__shriveling__gaze_html_af20f30fe2bfc7a370b166a6200b44ca9"><div class="ttname"><a href="../../db/dab/classspell__gen__shriveling__gaze.html#af20f30fe2bfc7a370b166a6200b44ca9">spell_gen_shriveling_gaze::HandleApply</a></div><div class="ttdeci">void HandleApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:4869</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l04868">HandleApply()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l04873">OnPeriodic()</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00743">AuraEffectApplyFn</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l04869">HandleApply()</a>, <a class="el" href="../../#l00738">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l04874">OnPeriodic()</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -475,13 +475,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4864</span>    {</div>
-<div class="line"><span class="lineno"> 4865</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967">SPELL_SHRIVELING_GAZE</a> });</div>
-<div class="line"><span class="lineno"> 4866</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4865</span>    {</div>
+<div class="line"><span class="lineno"> 4866</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967">SPELL_SHRIVELING_GAZE</a> });</div>
+<div class="line"><span class="lineno"> 4867</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
-<div class="ttc" id="aspell__generic_8cpp_html_aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967"><div class="ttname"><a href="../../d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967">SPELL_SHRIVELING_GAZE</a></div><div class="ttdeci">@ SPELL_SHRIVELING_GAZE</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:4855</div></div>
+<div class="ttc" id="aspell__generic_8cpp_html_aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967"><div class="ttname"><a href="../../d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967">SPELL_SHRIVELING_GAZE</a></div><div class="ttdeci">@ SPELL_SHRIVELING_GAZE</div><div class="ttdef"><b>Definition</b> spell_generic.cpp:4856</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l04855">SPELL_SHRIVELING_GAZE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l04856">SPELL_SHRIVELING_GAZE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -494,7 +494,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/dab/classspell__gen__shriveling__gaze.html">spell_gen_shriveling_gaze</a></li>
-    <li class="footer">Generated on Wed Dec 17 2025 06:28:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Dec 18 2025 06:28:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
