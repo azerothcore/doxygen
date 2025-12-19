@@ -1,5 +1,11 @@
 var NAVTREEINDEX359 =
 {
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502":[7,0,0,0,1,2,41,9,66,14],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209":[7,0,0,0,1,2,41,9,66,3],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a667a0d729f3972db4666a38aaa7126d7":[7,0,0,0,1,2,41,9,66,13],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a66e34e660d3a0c5015139b018a162cae":[7,0,0,0,1,2,41,9,66,0],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a8386ef1058e0f976b235671d6f58ea77":[7,0,0,0,1,2,41,9,66,10],
+"de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a9352cbdb08fc14f293bd5320bfa9f69f":[7,0,0,0,1,2,41,9,66,8],
 "de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166":[7,0,0,0,1,2,41,9,66,5],
 "de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ab02be4bb205e9b6d4f8851095ceee206":[7,0,0,0,1,2,41,9,66,9],
 "de/d30/SpellMgr_8h.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b":[7,0,0,0,1,2,41,9,66,11],
@@ -243,11 +249,5 @@ var NAVTREEINDEX359 =
 "de/d30/SpellMgr_8h.html#af4e20067ac1089d43e9ece8073dfd728":[7,0,0,0,1,2,41,9,17],
 "de/d30/SpellMgr_8h.html#afc30b3c6b18209a2b33a56ea14855f54":[7,0,0,0,1,2,41,9,18],
 "de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89":[7,0,0,0,1,2,41,9,23],
-"de/d31/TradeData_8h.html":[7,0,0,0,1,2,16,7,18],
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62":[7,0,0,0,1,2,16,7,18,1],
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488":[7,0,0,0,1,2,16,7,18,1,0],
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab52f8b8c3be8445987c622e4dfacaa79":[7,0,0,0,1,2,16,7,18,1,1],
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4":[7,0,0,0,1,2,16,7,18,1,3],
-"de/d31/TradeData_8h.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f":[7,0,0,0,1,2,16,7,18,1,2],
-"de/d33/classHordeChannelMgr.html":[6,0,1271]
+"de/d31/TradeData_8h.html":[7,0,0,0,1,2,16,7,18]
 };

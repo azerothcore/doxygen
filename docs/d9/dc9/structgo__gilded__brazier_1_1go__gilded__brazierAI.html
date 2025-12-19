@@ -224,14 +224,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  873</span>                                            : <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(go)</div>
-<div class="line"><span class="lineno">  874</span>        {</div>
-<div class="line"><span class="lineno">  875</span>            <a class="code hl_function" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a72d2dd8f7ecdf173e5a3847c94255786">Initialize</a>();</div>
-<div class="line"><span class="lineno">  876</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  854</span>                                            : <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(go)</div>
+<div class="line"><span class="lineno">  855</span>        {</div>
+<div class="line"><span class="lineno">  856</span>            <a class="code hl_function" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a72d2dd8f7ecdf173e5a3847c94255786">Initialize</a>();</div>
+<div class="line"><span class="lineno">  857</span>        }</div>
 <div class="ttc" id="aclassGameObjectAI_html"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a></div><div class="ttdef"><b>Definition</b> GameObjectAI.h:33</div></div>
-<div class="ttc" id="astructgo__gilded__brazier_1_1go__gilded__brazierAI_html_a72d2dd8f7ecdf173e5a3847c94255786"><div class="ttname"><a href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a72d2dd8f7ecdf173e5a3847c94255786">go_gilded_brazier::go_gilded_brazierAI::Initialize</a></div><div class="ttdeci">void Initialize()</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:878</div></div>
+<div class="ttc" id="astructgo__gilded__brazier_1_1go__gilded__brazierAI_html_a72d2dd8f7ecdf173e5a3847c94255786"><div class="ttname"><a href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a72d2dd8f7ecdf173e5a3847c94255786">go_gilded_brazier::go_gilded_brazierAI::Initialize</a></div><div class="ttdeci">void Initialize()</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:859</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00878">Initialize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00859">Initialize()</a>.</p>
 
 </div>
 </div>
@@ -271,22 +271,22 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#a7d26ef498d0e88030dde9543da9c80f5">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  884</span>        {</div>
-<div class="line"><span class="lineno">  885</span>            <span class="keywordflow">if</span> (reportUse)</div>
-<div class="line"><span class="lineno">  886</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  887</span> </div>
-<div class="line"><span class="lineno">  888</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a7a8cef98e188ac088c48db167d1f46ac">GetGoType</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a">GAMEOBJECT_TYPE_GOOBER</a>)</div>
-<div class="line"><span class="lineno">  889</span>            {</div>
-<div class="line"><span class="lineno">  890</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f">QUEST_THE_FIRST_TRIAL</a>) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
-<div class="line"><span class="lineno">  891</span>                {</div>
-<div class="line"><span class="lineno">  892</span>                    <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">_playerGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno">  893</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a0a114d2b10c05ab2203d4cd2b5bef50c">SetGameObjectFlag</a>((<a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582f">GameObjectFlags</a>)1);</div>
-<div class="line"><span class="lineno">  894</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#acef75a7f84673fda790861bd1b0b68b7">RemoveByteFlag</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf">GAMEOBJECT_BYTES_1</a>, 0, 1);</div>
-<div class="line"><span class="lineno">  895</span>                    <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be">EVENT_STILLBLADE_SPAWN</a>, 1s);</div>
-<div class="line"><span class="lineno">  896</span>                }</div>
-<div class="line"><span class="lineno">  897</span>            }</div>
-<div class="line"><span class="lineno">  898</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  899</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  865</span>        {</div>
+<div class="line"><span class="lineno">  866</span>            <span class="keywordflow">if</span> (reportUse)</div>
+<div class="line"><span class="lineno">  867</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  868</span> </div>
+<div class="line"><span class="lineno">  869</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a7a8cef98e188ac088c48db167d1f46ac">GetGoType</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a">GAMEOBJECT_TYPE_GOOBER</a>)</div>
+<div class="line"><span class="lineno">  870</span>            {</div>
+<div class="line"><span class="lineno">  871</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f">QUEST_THE_FIRST_TRIAL</a>) == <a class="code hl_enumvalue" href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a>)</div>
+<div class="line"><span class="lineno">  872</span>                {</div>
+<div class="line"><span class="lineno">  873</span>                    <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">_playerGUID</a> = player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno">  874</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a0a114d2b10c05ab2203d4cd2b5bef50c">SetGameObjectFlag</a>((<a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582f">GameObjectFlags</a>)1);</div>
+<div class="line"><span class="lineno">  875</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#acef75a7f84673fda790861bd1b0b68b7">RemoveByteFlag</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf">GAMEOBJECT_BYTES_1</a>, 0, 1);</div>
+<div class="line"><span class="lineno">  876</span>                    <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be">EVENT_STILLBLADE_SPAWN</a>, 1s);</div>
+<div class="line"><span class="lineno">  877</span>                }</div>
+<div class="line"><span class="lineno">  878</span>            }</div>
+<div class="line"><span class="lineno">  879</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  880</span>        }</div>
 <div class="ttc" id="aQuestDef_8h_html_abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484"><div class="ttname"><a href="../../d2/d27/QuestDef_8h.html#abfc87d39d69176ad25e800fb4aa6f0d8a9d062f65bead287785d9b540987bb484">QUEST_STATUS_INCOMPLETE</a></div><div class="ttdeci">@ QUEST_STATUS_INCOMPLETE</div><div class="ttdef"><b>Definition</b> QuestDef.h:103</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0233096c29a8a39f15373e06434985f9ac410838417ca3d5005ec8f23b72b783a">GAMEOBJECT_TYPE_GOOBER</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_GOOBER</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1581</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a7716f26c46ee49831358c2993e79582f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582f">GameObjectFlags</a></div><div class="ttdeci">GameObjectFlags</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1613</div></div>
@@ -298,12 +298,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassObject_html_acef75a7f84673fda790861bd1b0b68b7"><div class="ttname"><a href="../../d8/d4b/classObject.html#acef75a7f84673fda790861bd1b0b68b7">Object::RemoveByteFlag</a></div><div class="ttdeci">void RemoveByteFlag(uint16 index, uint8 offset, uint8 newFlag)</div><div class="ttdef"><b>Definition</b> Object.cpp:912</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 <div class="ttc" id="aclassPlayer_html_ab98c62b0161d702e4219c8277f8f5349"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#ab98c62b0161d702e4219c8277f8f5349">Player::GetQuestStatus</a></div><div class="ttdeci">QuestStatus GetQuestStatus(uint32 quest_id) const</div><div class="ttdef"><b>Definition</b> PlayerQuest.cpp:1428</div></div>
-<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f">QUEST_THE_FIRST_TRIAL</a></div><div class="ttdeci">@ QUEST_THE_FIRST_TRIAL</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:863</div></div>
-<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be">EVENT_STILLBLADE_SPAWN</a></div><div class="ttdeci">@ EVENT_STILLBLADE_SPAWN</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:860</div></div>
-<div class="ttc" id="astructgo__gilded__brazier_1_1go__gilded__brazierAI_html_a35e62a272b790d6e858cc48c92e55b7b"><div class="ttname"><a href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">go_gilded_brazier::go_gilded_brazierAI::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:931</div></div>
-<div class="ttc" id="astructgo__gilded__brazier_1_1go__gilded__brazierAI_html_a506eccb2c3ebcc126d486638fb07ae3c"><div class="ttname"><a href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">go_gilded_brazier::go_gilded_brazierAI::_playerGUID</a></div><div class="ttdeci">ObjectGuid _playerGUID</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:932</div></div>
+<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373ea35e07db4aff89a4b282cd425703e3a3f">QUEST_THE_FIRST_TRIAL</a></div><div class="ttdeci">@ QUEST_THE_FIRST_TRIAL</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:844</div></div>
+<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be">EVENT_STILLBLADE_SPAWN</a></div><div class="ttdeci">@ EVENT_STILLBLADE_SPAWN</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:841</div></div>
+<div class="ttc" id="astructgo__gilded__brazier_1_1go__gilded__brazierAI_html_a35e62a272b790d6e858cc48c92e55b7b"><div class="ttname"><a href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">go_gilded_brazier::go_gilded_brazierAI::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:912</div></div>
+<div class="ttc" id="astructgo__gilded__brazier_1_1go__gilded__brazierAI_html_a506eccb2c3ebcc126d486638fb07ae3c"><div class="ttname"><a href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">go_gilded_brazier::go_gilded_brazierAI::_playerGUID</a></div><div class="ttdeci">ObjectGuid _playerGUID</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:913</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00931">_events</a>, <a class="el" href="../../#l00932">_playerGUID</a>, <a class="el" href="../../#l00860">EVENT_STILLBLADE_SPAWN</a>, <a class="el" href="../../#l00404">GAMEOBJECT_BYTES_1</a>, <a class="el" href="../../#l01581">GAMEOBJECT_TYPE_GOOBER</a>, <a class="el" href="../../#l00202">GameObject::GetGoType()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01428">Player::GetQuestStatus()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>, <a class="el" href="../../#l00863">QUEST_THE_FIRST_TRIAL</a>, <a class="el" href="../../#l00912">Object::RemoveByteFlag()</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, and <a class="el" href="../../#l00217">GameObject::SetGameObjectFlag()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00912">_events</a>, <a class="el" href="../../#l00913">_playerGUID</a>, <a class="el" href="../../#l00841">EVENT_STILLBLADE_SPAWN</a>, <a class="el" href="../../#l00404">GAMEOBJECT_BYTES_1</a>, <a class="el" href="../../#l01581">GAMEOBJECT_TYPE_GOOBER</a>, <a class="el" href="../../#l00202">GameObject::GetGoType()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01428">Player::GetQuestStatus()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00103">QUEST_STATUS_INCOMPLETE</a>, <a class="el" href="../../#l00844">QUEST_THE_FIRST_TRIAL</a>, <a class="el" href="../../#l00912">Object::RemoveByteFlag()</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, and <a class="el" href="../../#l00217">GameObject::SetGameObjectFlag()</a>.</p>
 
 </div>
 </div>
@@ -329,14 +329,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  879</span>        {</div>
-<div class="line"><span class="lineno">  880</span>            <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">_playerGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
-<div class="line"><span class="lineno">  881</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  860</span>        {</div>
+<div class="line"><span class="lineno">  861</span>            <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">_playerGUID</a>.<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">Clear</a>();</div>
+<div class="line"><span class="lineno">  862</span>        }</div>
 <div class="ttc" id="aclassObjectGuid_html_af6aafb4610723c7f14523fef243b1b65"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#af6aafb4610723c7f14523fef243b1b65">ObjectGuid::Clear</a></div><div class="ttdeci">void Clear()</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:138</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00932">_playerGUID</a>, and <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00913">_playerGUID</a>, and <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00873">go_gilded_brazierAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00854">go_gilded_brazierAI()</a>.</p>
 
 </div>
 </div>
@@ -365,33 +365,33 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#aa9b59a4ec7d95a0702689fad902d956a">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  902</span>        {</div>
-<div class="line"><span class="lineno">  903</span>            <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  904</span> </div>
-<div class="line"><span class="lineno">  905</span>            <span class="keywordflow">while</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> eventId = <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>())</div>
-<div class="line"><span class="lineno">  906</span>            {</div>
-<div class="line"><span class="lineno">  907</span>                <span class="keywordflow">switch</span> (eventId)</div>
-<div class="line"><span class="lineno">  908</span>                {</div>
-<div class="line"><span class="lineno">  909</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be">EVENT_STILLBLADE_SPAWN</a>:</div>
-<div class="line"><span class="lineno">  910</span>                {</div>
-<div class="line"><span class="lineno">  911</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">_playerGUID</a>))</div>
-<div class="line"><span class="lineno">  912</span>                    {</div>
-<div class="line"><span class="lineno">  913</span>                        player-&gt;SummonCreature(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371">NPC_STILLBLADE</a>, 8032.587f, -7524.518f, 149.68073f, 6.161012172698974609f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 60000);</div>
-<div class="line"><span class="lineno">  914</span>                        <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310">EVENT_RESET_BRAZIER</a>, 4s);</div>
-<div class="line"><span class="lineno">  915</span>                    }</div>
-<div class="line"><span class="lineno">  916</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  917</span>                }</div>
-<div class="line"><span class="lineno">  918</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310">EVENT_RESET_BRAZIER</a>:</div>
-<div class="line"><span class="lineno">  919</span>                {</div>
-<div class="line"><span class="lineno">  920</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a9142f090c63de7bcb3b6d12574760033">RemoveGameObjectFlag</a>((<a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582f">GameObjectFlags</a>)1);</div>
-<div class="line"><span class="lineno">  921</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afe65b1ab32dbcd51890b754fb8b5e1b0">SetByteFlag</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf">GAMEOBJECT_BYTES_1</a>, 0, 1);</div>
-<div class="line"><span class="lineno">  922</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  923</span>                }</div>
-<div class="line"><span class="lineno">  924</span>                <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  925</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  926</span>                }</div>
-<div class="line"><span class="lineno">  927</span>            }</div>
-<div class="line"><span class="lineno">  928</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  883</span>        {</div>
+<div class="line"><span class="lineno">  884</span>            <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  885</span> </div>
+<div class="line"><span class="lineno">  886</span>            <span class="keywordflow">while</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> eventId = <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>())</div>
+<div class="line"><span class="lineno">  887</span>            {</div>
+<div class="line"><span class="lineno">  888</span>                <span class="keywordflow">switch</span> (eventId)</div>
+<div class="line"><span class="lineno">  889</span>                {</div>
+<div class="line"><span class="lineno">  890</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafba1423598e540151dde7c62715071be">EVENT_STILLBLADE_SPAWN</a>:</div>
+<div class="line"><span class="lineno">  891</span>                {</div>
+<div class="line"><span class="lineno">  892</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a506eccb2c3ebcc126d486638fb07ae3c">_playerGUID</a>))</div>
+<div class="line"><span class="lineno">  893</span>                    {</div>
+<div class="line"><span class="lineno">  894</span>                        player-&gt;SummonCreature(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371">NPC_STILLBLADE</a>, 8032.587f, -7524.518f, 149.68073f, 6.161012172698974609f, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a>, 60000);</div>
+<div class="line"><span class="lineno">  895</span>                        <a class="code hl_variable" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html#a35e62a272b790d6e858cc48c92e55b7b">_events</a>.<a class="code hl_function" href="../../d1/d2e/classEventMap.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(<a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310">EVENT_RESET_BRAZIER</a>, 4s);</div>
+<div class="line"><span class="lineno">  896</span>                    }</div>
+<div class="line"><span class="lineno">  897</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  898</span>                }</div>
+<div class="line"><span class="lineno">  899</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310">EVENT_RESET_BRAZIER</a>:</div>
+<div class="line"><span class="lineno">  900</span>                {</div>
+<div class="line"><span class="lineno">  901</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a9142f090c63de7bcb3b6d12574760033">RemoveGameObjectFlag</a>((<a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#a7716f26c46ee49831358c2993e79582f">GameObjectFlags</a>)1);</div>
+<div class="line"><span class="lineno">  902</span>                    <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afe65b1ab32dbcd51890b754fb8b5e1b0">SetByteFlag</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#aee9d327a38d3cfe074ba81a44817491fadaa7d9082664b40fc2ae6f6e16718baf">GAMEOBJECT_BYTES_1</a>, 0, 1);</div>
+<div class="line"><span class="lineno">  903</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  904</span>                }</div>
+<div class="line"><span class="lineno">  905</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  906</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  907</span>                }</div>
+<div class="line"><span class="lineno">  908</span>            }</div>
+<div class="line"><span class="lineno">  909</span>        }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493">TEMPSUMMON_DEAD_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_DEAD_DESPAWN</div><div class="ttdef"><b>Definition</b> Object.h:54</div></div>
 <div class="ttc" id="aclassEventMap_html_a33ba1058edd639c98258ba3e123ac2f9"><div class="ttname"><a href="../../d1/d2e/classEventMap.html#a33ba1058edd639c98258ba3e123ac2f9">EventMap::Update</a></div><div class="ttdeci">void Update(uint32 time)</div><div class="ttdef"><b>Definition</b> EventMap.h:67</div></div>
@@ -399,11 +399,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassGameObject_html_a9142f090c63de7bcb3b6d12574760033"><div class="ttname"><a href="../../de/d1c/classGameObject.html#a9142f090c63de7bcb3b6d12574760033">GameObject::RemoveGameObjectFlag</a></div><div class="ttdeci">void RemoveGameObjectFlag(GameObjectFlags flags)</div><div class="ttdef"><b>Definition</b> GameObject.h:218</div></div>
 <div class="ttc" id="aclassObject_html_afe65b1ab32dbcd51890b754fb8b5e1b0"><div class="ttname"><a href="../../d8/d4b/classObject.html#afe65b1ab32dbcd51890b754fb8b5e1b0">Object::SetByteFlag</a></div><div class="ttdeci">void SetByteFlag(uint16 index, uint8 offset, uint8 newFlag)</div><div class="ttdef"><b>Definition</b> Object.cpp:893</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1071</div></div>
-<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371">NPC_STILLBLADE</a></div><div class="ttdeci">@ NPC_STILLBLADE</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:862</div></div>
-<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310">EVENT_RESET_BRAZIER</a></div><div class="ttdeci">@ EVENT_RESET_BRAZIER</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:861</div></div>
+<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eacca99fdfb73aa6e8eb169b184cfed371">NPC_STILLBLADE</a></div><div class="ttdeci">@ NPC_STILLBLADE</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:843</div></div>
+<div class="ttc" id="ago__scripts_8cpp_html_a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a347a6419e778b823e4a710cccc32373eafbc8b546982b065b53e6baf035876310">EVENT_RESET_BRAZIER</a></div><div class="ttdeci">@ EVENT_RESET_BRAZIER</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:842</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a86236181ddfead8560067378e385f244"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer(Map const *, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:220</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00931">_events</a>, <a class="el" href="../../#l00932">_playerGUID</a>, <a class="el" href="../../#l00861">EVENT_RESET_BRAZIER</a>, <a class="el" href="../../#l00860">EVENT_STILLBLADE_SPAWN</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00404">GAMEOBJECT_BYTES_1</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00862">NPC_STILLBLADE</a>, <a class="el" href="../../#l00218">GameObject::RemoveGameObjectFlag()</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, <a class="el" href="../../#l00893">Object::SetByteFlag()</a>, <a class="el" href="../../#l00054">TEMPSUMMON_DEAD_DESPAWN</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00912">_events</a>, <a class="el" href="../../#l00913">_playerGUID</a>, <a class="el" href="../../#l00842">EVENT_RESET_BRAZIER</a>, <a class="el" href="../../#l00841">EVENT_STILLBLADE_SPAWN</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00404">GAMEOBJECT_BYTES_1</a>, <a class="el" href="../../#l00220">ObjectAccessor::GetPlayer()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00843">NPC_STILLBLADE</a>, <a class="el" href="../../#l00218">GameObject::RemoveGameObjectFlag()</a>, <a class="el" href="../../#l00048">EventMap::ScheduleEvent()</a>, <a class="el" href="../../#l00893">Object::SetByteFlag()</a>, <a class="el" href="../../#l00054">TEMPSUMMON_DEAD_DESPAWN</a>, and <a class="el" href="../../#l00067">EventMap::Update()</a>.</p>
 
 </div>
 </div>
@@ -428,7 +428,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00883">GossipHello()</a>, and <a class="el" href="../../#l00901">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00864">GossipHello()</a>, and <a class="el" href="../../#l00882">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -452,7 +452,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00883">GossipHello()</a>, <a class="el" href="../../#l00878">Initialize()</a>, and <a class="el" href="../../#l00901">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00864">GossipHello()</a>, <a class="el" href="../../#l00859">Initialize()</a>, and <a class="el" href="../../#l00882">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -465,7 +465,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d7b/classgo__gilded__brazier.html">go_gilded_brazier</a></li><li class="navelem"><a class="el" href="../../d9/dc9/structgo__gilded__brazier_1_1go__gilded__brazierAI.html">go_gilded_brazierAI</a></li>
-    <li class="footer">Generated on Thu Dec 18 2025 06:27:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Dec 19 2025 06:27:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

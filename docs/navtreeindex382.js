@@ -1,5 +1,11 @@
 var NAVTREEINDEX382 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b4c3379fbf86b796b86c3771f6c1f15":[7,0,0,0,1,2,16,5,0,4,6,33],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6b7e5537e6e872969b970851dfb9767d":[7,0,0,0,1,2,16,5,0,4,6,217],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6d4a274cf53b00cfcea24a3479588031":[7,0,0,0,1,2,16,5,0,4,6,40],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6e098e40a50ef933257cf0306605c383":[7,0,0,0,1,2,16,5,0,4,6,248],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6e3f28f9fd90e3ca9f3569fb183ae564":[7,0,0,0,1,2,16,5,0,4,6,83],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6e9132ac5aeb0425d82decd53487b18d":[7,0,0,0,1,2,16,5,0,4,6,260],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6fc7649167e4eaba79d563c45fedc6f1":[7,0,0,0,1,2,16,5,0,4,6,116],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a6fdc9d44dc1d9efe95bdd1e686f9f750":[7,0,0,0,1,2,16,5,0,4,6,141],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7127863cf9d8ddd04cb7092ecf819562":[7,0,0,0,1,2,16,5,0,4,6,299],
@@ -243,11 +249,5 @@ var NAVTREEINDEX382 =
 "df/d22/classnpc__gunship__rocketeer.html#a7ed2cf258269f239bb73f2f06411db07":[6,0,1827,1],
 "df/d23/classspell__black__temple__spell__absorption__aura.html":[6,0,2648],
 "df/d23/classspell__black__temple__spell__absorption__aura.html#a1075139fc82cd8e1b30d4bc0f89fbfe0":[6,0,2648,2],
-"df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[6,0,2648,0],
-"df/d23/classspell__black__temple__spell__absorption__aura.html#a85840e7d27a7ed256c45de87f4486d45":[6,0,2648,3],
-"df/d23/classspell__black__temple__spell__absorption__aura.html#abd828dd3493339db9c0613e960792941":[6,0,2648,1],
-"df/d23/classspell__black__temple__spell__absorption__aura.html#afbf28fd4eb66899a424e0b542d561656":[6,0,2648,4],
-"df/d23/deadmines_8h.html":[7,0,0,0,1,3,2,2,1],
-"df/d23/deadmines_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,2,1,0],
-"df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,2,2,1,3]
+"df/d23/classspell__black__temple__spell__absorption__aura.html#a1c054ce067a620e16611cbb9e784cee1":[6,0,2648,0]
 };

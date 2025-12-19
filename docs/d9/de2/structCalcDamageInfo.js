@@ -6,7 +6,7 @@ var structCalcDamageInfo =
     [ "blocked_amount", "d9/de2/structCalcDamageInfo.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
     [ "cleanDamage", "d9/de2/structCalcDamageInfo.html#a452ac9be1f6e9c10616a62a128573358", null ],
     [ "damage", "d9/de2/structCalcDamageInfo.html#ab95e1e4746b966f1301d997fdac99c94", null ],
-    [ "damages", "d9/de2/structCalcDamageInfo.html#aa20bc4c53e31509ea4aacfed1dd2dc1e", null ],
+    [ "damages", "d9/de2/structCalcDamageInfo.html#a7515b18f05f5c5e9f11bd2607ab900b0", null ],
     [ "damageSchoolMask", "d9/de2/structCalcDamageInfo.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
     [ "HitInfo", "d9/de2/structCalcDamageInfo.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
     [ "hitOutCome", "d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115", null ],

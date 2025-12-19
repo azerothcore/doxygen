@@ -1,5 +1,9 @@
 var NAVTREEINDEX271 =
 {
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea810f583a9a0f799503742411279c0cc5":[7,0,0,0,1,3,5,2,1,7,10,7],
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1ea99853a6bfdd5d5c40e3ce52403c3994d":[7,0,0,0,1,3,5,2,1,7,10,4],
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1eab44797b108156e3bfad250d0982e14a9":[7,0,0,0,1,3,5,2,1,7,10,5],
+"da/de8/trial__of__the__crusader_8h.html#aeef7e8367c90c3c026833b4bb477bd1eafc624fe2f47ed00845c38edad5d9b2b2":[7,0,0,0,1,3,5,2,1,7,10,3],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,2,1,7,5],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a00aae7160a2b93d74d933cf18651c9bc":[7,0,0,0,1,3,5,2,1,7,5,38],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a0cf475742a730c46c755b19f5da54ecc":[7,0,0,0,1,3,5,2,1,7,5,56],
@@ -191,12 +195,12 @@ var NAVTREEINDEX271 =
 "da/dec/classnpc__garr__firesworn.html":[6,0,1802],
 "da/dec/classnpc__garr__firesworn.html#a07e47767a44d3613f8cba2c3dfb1d14e":[6,0,1802,2],
 "da/dec/classnpc__garr__firesworn.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf":[6,0,1802,1],
-"da/dee/classboss__rend__blackhand.html":[6,0,676],
-"da/dee/classboss__rend__blackhand.html#aed65d31a5a841af8aed015555bf811cb":[6,0,676,2],
-"da/dee/classboss__rend__blackhand.html#afd12818c33de25332bf207f30c8490a1":[6,0,676,1],
-"da/def/classat__the__beast__room.html":[6,0,247],
-"da/def/classat__the__beast__room.html#a366c5e35c4030f998404886f1526ae37":[6,0,247,1],
-"da/def/classat__the__beast__room.html#aed5c4aae45ee2b256eb078875c5a2c47":[6,0,247,0],
+"da/dee/classboss__rend__blackhand.html":[6,0,677],
+"da/dee/classboss__rend__blackhand.html#aed65d31a5a841af8aed015555bf811cb":[6,0,677,2],
+"da/dee/classboss__rend__blackhand.html#afd12818c33de25332bf207f30c8490a1":[6,0,677,1],
+"da/def/classat__the__beast__room.html":[6,0,248],
+"da/def/classat__the__beast__room.html#a366c5e35c4030f998404886f1526ae37":[6,0,248,1],
+"da/def/classat__the__beast__room.html#aed5c4aae45ee2b256eb078875c5a2c47":[6,0,248,0],
 "da/def/structItemExtendedCostEntry.html":[6,0,1387],
 "da/def/structItemExtendedCostEntry.html#a5d45007a832d6120e29c7821c07646de":[6,0,1387,1],
 "da/def/structItemExtendedCostEntry.html#a615c5fe0966b5054303ebe1290adc9b6":[6,0,1387,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX271 =
 "da/df1/classMetric.html#ac79c40752899dfe70aa873259a6ea0ac":[6,0,1503,30],
 "da/df1/classMetric.html#ad211fc8a237f4c61a2f06d0d1bb42858":[6,0,1503,4],
 "da/df1/classMetric.html#ad3b2998c526a8c571a32cb3c7a8e7c73":[6,0,1503,39],
-"da/df1/classMetric.html#ad504fad839c6cda7e164d535fee23039":[6,0,1503,5],
-"da/df1/classMetric.html#adab48e64baf463bb397018dec458a44a":[6,0,1503,14],
-"da/df1/classMetric.html#adc8e82a2fb75a49918fcf020b0d4ded7":[6,0,1503,1],
-"da/df1/classMetric.html#ae104eda6b396c24e00e36afb829c5e2d":[6,0,1503,15],
-"da/df1/classMetric.html#ae178c518e4b2717168816252a6c64e29":[6,0,1503,36]
+"da/df1/classMetric.html#ad504fad839c6cda7e164d535fee23039":[6,0,1503,5]
 };

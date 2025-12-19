@@ -10,6 +10,8 @@ var structSmartAction =
     [ "alternative", "dd/d27/structSmartAction.html#a4eb962133b4bfa909af1303a361ec895", null ],
     [ "angle", "dd/d27/structSmartAction.html#a79abcb8a4c3e446b9aa61e0326f734f6", null ],
     [ "anim", "dd/d27/structSmartAction.html#aa589f8a89c13cbca377b34232248adb9", null ],
+    [ "animTier", "dd/d27/structSmartAction.html#a8d4c24622f254264949ed09b04d6a413", null ],
+    [ "animTier", "dd/d27/structSmartAction.html#a0b436fd922eff1557977f8bcbd7373bf", null ],
     [ "attack", "dd/d27/structSmartAction.html#aa4ec8811308d4a82f9d3279e263fb585", null ],
     [ "attackInvoker", "dd/d27/structSmartAction.html#a5dc1df9eded9a0de9b0440688d161869", null ],
     [ "attackInvoker", "dd/d27/structSmartAction.html#acfecd88a57f366350452dba7ccc11455", null ],

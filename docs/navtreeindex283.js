@@ -1,5 +1,9 @@
 var NAVTREEINDEX283 =
 {
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca28a4e676373a783496c1784ecd7b16df":[7,0,0,0,1,3,5,8,0,0,23,17],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca298ce1d34272beb5393b71b66d3207ef":[7,0,0,0,1,3,5,8,0,0,23,10],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca2fa72050b4af000c4fa4cb021bd09fdc":[7,0,0,0,1,3,5,8,0,0,23,12],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca31d6e5618fa4b25277725cb47d31d611":[7,0,0,0,1,3,5,8,0,0,23,31],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca338250c0ce0788a7307ce8740567b36b":[7,0,0,0,1,3,5,8,0,0,23,0],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca46307314512702eaed1ca45421048aab":[7,0,0,0,1,3,5,8,0,0,23,14],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca49cfa57185e382e7d0c631cacb470f46":[7,0,0,0,1,3,5,8,0,0,23,4],
@@ -64,17 +68,17 @@ var NAVTREEINDEX283 =
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1cca":[7,0,0,0,1,3,5,10,0,4,4],
 "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b":[7,0,0,0,1,3,5,10,0,4,4,0],
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[7,0,0,0,1,3,5,10,0,4,8],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,31,11,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,11,11,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,31,11,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,11,11,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,31,11,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,31,11,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,11,11,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,11,11,1,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,31,11,1,1],
-"db/d89/classboss__ambassador__flamelash.html":[6,0,374],
-"db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,374,2],
-"db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,374,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,11,11,1,1],
+"db/d89/classboss__ambassador__flamelash.html":[6,0,375],
+"db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,375,2],
+"db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,375,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[6,0,3234],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[6,0,3234,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[6,0,3234,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX283 =
 "db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aac3cc3cf288a94345953f35168e6eeb9d":[7,0,0,0,1,2,16,4,6,37,1],
 "db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aac64a9a44b610f967348788f779d9f7ab":[7,0,0,0,1,2,16,4,6,37,2],
 "db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aacc8e503a0638d05bbd58673e4934c583":[7,0,0,0,1,2,16,4,6,37,15],
-"db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aae3b17bf29d46cf11a614d7444a7c4b4d":[7,0,0,0,1,2,16,4,6,37,9],
-"db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aae6a233a053c350f88922ee03ae917138":[7,0,0,0,1,2,16,4,6,37,8],
-"db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aafdf0bdb85dc0c33d296755333d4d979d":[7,0,0,0,1,2,16,4,6,37,4],
-"db/d8b/ItemTemplate_8h.html#a3e0159d46b7994329692866fed2152dc":[7,0,0,0,1,2,16,4,6,49],
-"db/d8b/ItemTemplate_8h.html#a3e0159d46b7994329692866fed2152dca12c9eca4aa5897d298cb859c3879f363":[7,0,0,0,1,2,16,4,6,49,0]
+"db/d8b/ItemTemplate_8h.html#a3d02db7bdce911406d800d0c4860102aae3b17bf29d46cf11a614d7444a7c4b4d":[7,0,0,0,1,2,16,4,6,37,9]
 };

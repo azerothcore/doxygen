@@ -220,11 +220,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  312</span>                                            : <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(gameObject),</div>
-<div class="line"><span class="lineno">  313</span>            <a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> { 0 }</div>
-<div class="line"><span class="lineno">  314</span>        { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  293</span>                                            : <a class="code hl_class" href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a>(gameObject),</div>
+<div class="line"><span class="lineno">  294</span>            <a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> { 0 }</div>
+<div class="line"><span class="lineno">  295</span>        { }</div>
 <div class="ttc" id="aclassGameObjectAI_html"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html">GameObjectAI</a></div><div class="ttdef"><b>Definition</b> GameObjectAI.h:33</div></div>
-<div class="ttc" id="astructgo__flames_1_1go__flamesAI_html_ae53c7c6c669e982babf304f173b58b1a"><div class="ttname"><a href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">go_flames::go_flamesAI::timer</a></div><div class="ttdeci">uint32 timer</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:338</div></div>
+<div class="ttc" id="astructgo__flames_1_1go__flamesAI_html_ae53c7c6c669e982babf304f173b58b1a"><div class="ttname"><a href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">go_flames::go_flamesAI::timer</a></div><div class="ttdeci">uint32 timer</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:319</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -254,35 +254,35 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d66/classGameObjectAI.html#aa9b59a4ec7d95a0702689fad902d956a">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  317</span>        {</div>
-<div class="line"><span class="lineno">  318</span>            <a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> += diff;</div>
-<div class="line"><span class="lineno">  319</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> &gt; 3000)</div>
-<div class="line"><span class="lineno">  320</span>            {</div>
-<div class="line"><span class="lineno">  321</span>                <a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> = 0;</div>
-<div class="line"><span class="lineno">  322</span>                std::list&lt;Player*&gt; players;</div>
-<div class="line"><span class="lineno">  323</span>                <a class="code hl_class" href="../../d1/d39/classAcore_1_1AnyPlayerExactPositionInGameObjectRangeCheck.html">Acore::AnyPlayerExactPositionInGameObjectRangeCheck</a> checker(<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, 0.3f);</div>
-<div class="line"><span class="lineno">  324</span>                <a class="code hl_struct" href="../../d3/dcd/structAcore_1_1PlayerListSearcher.html">Acore::PlayerListSearcher&lt;Acore::AnyPlayerExactPositionInGameObjectRangeCheck&gt;</a> searcher(<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, players, checker);</div>
-<div class="line"><span class="lineno">  325</span>                <a class="code hl_function" href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a>(<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, searcher, 0.3f);</div>
-<div class="line"><span class="lineno">  326</span> </div>
-<div class="line"><span class="lineno">  327</span>                <span class="keywordflow">if</span> (players.size() &gt; 0)</div>
-<div class="line"><span class="lineno">  328</span>                {</div>
-<div class="line"><span class="lineno">  329</span>                    std::list&lt;Player*&gt;::iterator itr = players.begin();</div>
-<div class="line"><span class="lineno">  330</span>                    std::advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, players.size() - 1));</div>
-<div class="line"><span class="lineno">  331</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* trigger = <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce">SummonTrigger</a>((*itr)-&gt;GetPositionX(), (*itr)-&gt;GetPositionY(), (*itr)-&gt;GetPositionZ(), 0, 2000, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  332</span>                        trigger-&gt;CastSpell(trigger, <a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f">SPELL_FLAMES</a>);</div>
-<div class="line"><span class="lineno">  333</span>                }</div>
-<div class="line"><span class="lineno">  334</span>            }</div>
-<div class="line"><span class="lineno">  335</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  298</span>        {</div>
+<div class="line"><span class="lineno">  299</span>            <a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> += diff;</div>
+<div class="line"><span class="lineno">  300</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> &gt; 3000)</div>
+<div class="line"><span class="lineno">  301</span>            {</div>
+<div class="line"><span class="lineno">  302</span>                <a class="code hl_variable" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html#ae53c7c6c669e982babf304f173b58b1a">timer</a> = 0;</div>
+<div class="line"><span class="lineno">  303</span>                std::list&lt;Player*&gt; players;</div>
+<div class="line"><span class="lineno">  304</span>                <a class="code hl_class" href="../../d1/d39/classAcore_1_1AnyPlayerExactPositionInGameObjectRangeCheck.html">Acore::AnyPlayerExactPositionInGameObjectRangeCheck</a> checker(<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, 0.3f);</div>
+<div class="line"><span class="lineno">  305</span>                <a class="code hl_struct" href="../../d3/dcd/structAcore_1_1PlayerListSearcher.html">Acore::PlayerListSearcher&lt;Acore::AnyPlayerExactPositionInGameObjectRangeCheck&gt;</a> searcher(<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, players, checker);</div>
+<div class="line"><span class="lineno">  306</span>                <a class="code hl_function" href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a>(<a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>, searcher, 0.3f);</div>
+<div class="line"><span class="lineno">  307</span> </div>
+<div class="line"><span class="lineno">  308</span>                <span class="keywordflow">if</span> (players.size() &gt; 0)</div>
+<div class="line"><span class="lineno">  309</span>                {</div>
+<div class="line"><span class="lineno">  310</span>                    std::list&lt;Player*&gt;::iterator itr = players.begin();</div>
+<div class="line"><span class="lineno">  311</span>                    std::advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, players.size() - 1));</div>
+<div class="line"><span class="lineno">  312</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* trigger = <a class="code hl_variable" href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce">SummonTrigger</a>((*itr)-&gt;GetPositionX(), (*itr)-&gt;GetPositionY(), (*itr)-&gt;GetPositionZ(), 0, 2000, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  313</span>                        trigger-&gt;CastSpell(trigger, <a class="code hl_enumvalue" href="../../d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f">SPELL_FLAMES</a>);</div>
+<div class="line"><span class="lineno">  314</span>                }</div>
+<div class="line"><span class="lineno">  315</span>            }</div>
+<div class="line"><span class="lineno">  316</span>        }</div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aclassAcore_1_1AnyPlayerExactPositionInGameObjectRangeCheck_html"><div class="ttname"><a href="../../d1/d39/classAcore_1_1AnyPlayerExactPositionInGameObjectRangeCheck.html">Acore::AnyPlayerExactPositionInGameObjectRangeCheck</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:1382</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassGameObjectAI_html_a22a51a980875ccae8a285d7804967747"><div class="ttname"><a href="../../d6/d66/classGameObjectAI.html#a22a51a980875ccae8a285d7804967747">GameObjectAI::me</a></div><div class="ttdeci">GameObject *const me</div><div class="ttdef"><b>Definition</b> GameObjectAI.h:35</div></div>
 <div class="ttc" id="aclassWorldObject_html_af2a7bec75fe10adb0deee0c6573e51ce"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce">WorldObject::SummonTrigger</a></div><div class="ttdeci">Creature * SummonTrigger(float x, float y, float z, float ang, uint32 dur, bool setLevel=false, CreatureAI *(*GetAI)(Creature *)=nullptr)</div><div class="ttdef"><b>Definition</b> Object.cpp:2401</div></div>
-<div class="ttc" id="ago__scripts_8cpp_html_a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f">SPELL_FLAMES</a></div><div class="ttdeci">@ SPELL_FLAMES</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:302</div></div>
+<div class="ttc" id="ago__scripts_8cpp_html_a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f"><div class="ttname"><a href="../../d6/d0c/go__scripts_8cpp.html#a86fc43e3cc7466f40ccad6b24f41be22a783c7b41db9c6b8418d0e3f1a7d5257f">SPELL_FLAMES</a></div><div class="ttdeci">@ SPELL_FLAMES</div><div class="ttdef"><b>Definition</b> go_scripts.cpp:283</div></div>
 <div class="ttc" id="astructAcore_1_1PlayerListSearcher_html"><div class="ttname"><a href="../../d3/dcd/structAcore_1_1PlayerListSearcher.html">Acore::PlayerListSearcher</a></div><div class="ttdef"><b>Definition</b> GridNotifiers.h:516</div></div>
 <div class="ttc" id="astructCell_html_a1498ced567e6adac094dc3be7e6e9686"><div class="ttname"><a href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a></div><div class="ttdeci">static void VisitObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition</b> CellImpl.h:165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00302">SPELL_FLAMES</a>, <a class="el" href="../../#l02401">WorldObject::SummonTrigger()</a>, <a class="el" href="../../#l00338">timer</a>, <a class="el" href="../../#l00044">urand()</a>, and <a class="el" href="../../#l00165">Cell::VisitObjects()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00283">SPELL_FLAMES</a>, <a class="el" href="../../#l02401">WorldObject::SummonTrigger()</a>, <a class="el" href="../../#l00319">timer</a>, <a class="el" href="../../#l00044">urand()</a>, and <a class="el" href="../../#l00165">Cell::VisitObjects()</a>.</p>
 
 </div>
 </div>
@@ -307,7 +307,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00316">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00297">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -320,7 +320,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/ddf/classgo__flames.html">go_flames</a></li><li class="navelem"><a class="el" href="../../d9/d25/structgo__flames_1_1go__flamesAI.html">go_flamesAI</a></li>
-    <li class="footer">Generated on Thu Dec 18 2025 06:27:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Dec 19 2025 06:27:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,11 @@
 var NAVTREEINDEX361 =
 {
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aacf26c52f77ef4eb084814934f00aab1":[6,0,690,0,4],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aad9556374e26cbea7641461510fef9ba":[6,0,690,0,1],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09":[6,0,690,0,2],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#ab2080a14c105aeb6a9c155cf6f4ec17d":[6,0,690,0,3],
+"de/d3c/structboss__sartharion__vesperon_1_1boss__sartharion__vesperonAI.html#afd67bf2c7a479771976673b05b0fc29e":[6,0,690,0,0],
+"de/d3c/structnpc__maiev__illidan.html":[6,0,1947],
 "de/d3c/structnpc__maiev__illidan.html#a0d19d9bb58c44662cdfb66a8fe373a60":[6,0,1947,0],
 "de/d3c/structnpc__maiev__illidan.html#a100db757c89634a58b9382216e2791ec":[6,0,1947,5],
 "de/d3c/structnpc__maiev__illidan.html#a1bf4f2f29132c5132e7903d089ace6e2":[6,0,1947,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX361 =
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1":[7,0,0,0,1,2,13,3,3,4],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f":[7,0,0,0,1,2,13,3,3,10],
 "de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0":[7,0,0,0,1,2,13,3,3,9],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68":[7,0,0,0,1,2,13,3,3,8],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a":[7,0,0,0,1,2,13,3,3,7],
-"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296":[7,0,0,0,1,2,13,3,3,5],
-"de/d44/boss__renataki_8cpp.html":[7,0,0,0,1,3,2,16,9],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,9,3],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298ca2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,2,16,9,3,5],
-"de/d44/boss__renataki_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,16,9,3,0]
+"de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68":[7,0,0,0,1,2,13,3,3,8]
 };

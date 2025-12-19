@@ -1,5 +1,9 @@
 var NAVTREEINDEX302 =
 {
+"dc/d1c/classspell__hor__shared__suffering__aura.html#a01304c556d79001e290707551bee7622":[6,0,3109,2],
+"dc/d1c/classspell__hor__shared__suffering__aura.html#a4b95717cb19116b81f3eec798089abad":[6,0,3109,0],
+"dc/d1c/classspell__hor__shared__suffering__aura.html#a581645fa151531aaf7b562a8739d5616":[6,0,3109,1],
+"dc/d1c/classspell__hor__shared__suffering__aura.html#a96e4b9cae1f016bf87c9a09ceb6da561":[6,0,3109,3],
 "dc/d1d/Corpse_8h.html":[7,0,0,0,1,2,16,0,1],
 "dc/d1d/Corpse_8h.html#a1cebf109f41dcdac8a90086696642782":[7,0,0,0,1,2,16,0,1,1],
 "dc/d1d/Corpse_8h.html#a43260eb47484e62a16a868f79646c683":[7,0,0,0,1,2,16,0,1,4],
@@ -100,11 +104,11 @@ var NAVTREEINDEX302 =
 "dc/d23/classVehicle.html#aeb4b794f10c72e50ad08427f8bd827cf":[6,0,4240,36],
 "dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4240,22],
 "dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4240,5],
-"dc/d25/classCorruptTriggers.html":[6,0,915],
-"dc/d25/classCorruptTriggers.html#a225cafcce56db7d4aefd3fb75ed2533f":[6,0,915,0],
-"dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12":[6,0,915,2],
-"dc/d25/classCorruptTriggers.html#a53e4c60e29f59aa91e059d50e470a22a":[6,0,915,3],
-"dc/d25/classCorruptTriggers.html#a9929f3518f307e0b753782967f06c6c1":[6,0,915,1],
+"dc/d25/classCorruptTriggers.html":[6,0,916],
+"dc/d25/classCorruptTriggers.html#a225cafcce56db7d4aefd3fb75ed2533f":[6,0,916,0],
+"dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12":[6,0,916,2],
+"dc/d25/classCorruptTriggers.html#a53e4c60e29f59aa91e059d50e470a22a":[6,0,916,3],
+"dc/d25/classCorruptTriggers.html#a9929f3518f307e0b753782967f06c6c1":[6,0,916,1],
 "dc/d25/common_2Configuration_2Config_8h.html":[7,0,0,0,0,2,3],
 "dc/d25/common_2Configuration_2Config_8h.html#a05eaca858744a1f9f0e309e7867383e3":[7,0,0,0,0,2,3,4],
 "dc/d25/common_2Configuration_2Config_8h.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17":[7,0,0,0,0,2,3,4,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a8eb530edab6fa5700e91a265d2f0012f":[7,0,0,0,1,3,5,9,2,9,38,2],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a94b4d90efc105d4c95e044a523c17619":[7,0,0,0,1,3,5,9,2,9,38,14],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa241d058cdbdb98c303e28c8a15c80a6":[7,0,0,0,1,3,5,9,2,9,38,15],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa70c1763f53085dbdf7702d9ccbcf5ed":[7,0,0,0,1,3,5,9,2,9,38,7],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa7c45f7b8e441dd5e61ec0bb86118e5e":[7,0,0,0,1,3,5,9,2,9,38,11],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2ab83094a562aee577aadb26296048cbf8":[7,0,0,0,1,3,5,9,2,9,38,21],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2abc852f58259154d90d95f99d610beaa7":[7,0,0,0,1,3,5,9,2,9,38,9],
-"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2adad1d6d650197bee4e6a29863766311d":[7,0,0,0,1,3,5,9,2,9,38,16]
+"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2aa70c1763f53085dbdf7702d9ccbcf5ed":[7,0,0,0,1,3,5,9,2,9,38,7]
 };

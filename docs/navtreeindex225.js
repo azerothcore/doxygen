@@ -1,5 +1,9 @@
 var NAVTREEINDEX225 =
 {
+"d8/dd6/DBCfmt_8h.html#a099e397284a05d806f21fda3582f893b":[7,0,0,0,1,4,0,3,35],
+"d8/dd6/DBCfmt_8h.html#a0a9211dfe8a10e9d63a78306415ea057":[7,0,0,0,1,4,0,3,2],
+"d8/dd6/DBCfmt_8h.html#a0bc33aad7c610fa7c299d328f02c8265":[7,0,0,0,1,4,0,3,6],
+"d8/dd6/DBCfmt_8h.html#a0db830a882adf1f5f65c74e7de8ae941":[7,0,0,0,1,4,0,3,69],
 "d8/dd6/DBCfmt_8h.html#a1266dda82a0166373df711f4de5b84fa":[7,0,0,0,1,4,0,3,20],
 "d8/dd6/DBCfmt_8h.html#a12aadeb86c55d0b33d8389c91c0d89ea":[7,0,0,0,1,4,0,3,41],
 "d8/dd6/DBCfmt_8h.html#a13998be35bef3d8715e4784c8570f497":[7,0,0,0,1,4,0,3,8],
@@ -175,9 +179,9 @@ var NAVTREEINDEX225 =
 "d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#a9576978141062fa1babbbc5ed42483c4":[6,0,1717,0,6],
 "d8/dd8/structnpc__cult__fanatic_1_1npc__cult__fanaticAI.html#ac79afdab3721d78d2b7e5da360083cea":[6,0,1717,0,4],
 "d8/dd9/HostileRefMgr_8cpp.html":[7,0,0,0,1,2,12,0],
-"d8/dd9/classat__twilight__grove.html":[6,0,249],
-"d8/dd9/classat__twilight__grove.html#a2ef32dbac0a35aa7dc6ebbafe926125f":[6,0,249,0],
-"d8/dd9/classat__twilight__grove.html#a8ee7239b8429df38a237926a7252322b":[6,0,249,1],
+"d8/dd9/classat__twilight__grove.html":[6,0,250],
+"d8/dd9/classat__twilight__grove.html#a2ef32dbac0a35aa7dc6ebbafe926125f":[6,0,250,0],
+"d8/dd9/classat__twilight__grove.html#a8ee7239b8429df38a237926a7252322b":[6,0,250,1],
 "d8/dd9/zone__wintergrasp_8cpp.html":[7,0,0,0,1,3,5,24],
 "d8/dd9/zone__wintergrasp_8cpp.html#a0b39861952afe6495d6d3a53c2c96ffe":[7,0,0,0,1,3,5,24,27],
 "d8/dd9/zone__wintergrasp_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,24,24],
@@ -245,9 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dda/WaypointMgr_8h.html":[7,0,0,0,1,2,31,2,1],
 "d8/dda/WaypointMgr_8h.html#a4022be9e8c89b6ab197c2564c77b52c5":[7,0,0,0,1,2,31,2,1,4],
 "d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627":[7,0,0,0,1,2,31,2,1,2],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863":[7,0,0,0,1,2,31,2,1,5],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55":[7,0,0,0,1,2,31,2,1,5,1],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa":[7,0,0,0,1,2,31,2,1,5,2],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188":[7,0,0,0,1,2,31,2,1,5,4],
-"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843":[7,0,0,0,1,2,31,2,1,5,3]
+"d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863":[7,0,0,0,1,2,31,2,1,5]
 };

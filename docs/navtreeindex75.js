@@ -1,5 +1,9 @@
 var NAVTREEINDEX75 =
 {
+"d2/de9/classSpellInfo.html#a07eddba05562696df602a5e169caa7d3":[6,0,4100,7],
+"d2/de9/classSpellInfo.html#a0971bddc1632a3bb857a6a802506abcd":[6,0,4100,189],
+"d2/de9/classSpellInfo.html#a0a651a1cf655c9d5619f6b78e471656a":[6,0,4100,95],
+"d2/de9/classSpellInfo.html#a0dc33b718ec58ac1064a403c29e98a17":[6,0,4100,37],
 "d2/de9/classSpellInfo.html#a0ddc3531aeb41a1fa93502d94621e025":[6,0,4100,169],
 "d2/de9/classSpellInfo.html#a0e4591c8f25d0186911111d9a8b3e160":[6,0,4100,148],
 "d2/de9/classSpellInfo.html#a13ea1f77e430e697e2ca7acc368d93e1":[6,0,4100,30],
@@ -184,9 +188,9 @@ var NAVTREEINDEX75 =
 "d2/de9/classSpellInfo.html#afbedf3c95f43d0342dbcd3e3faf1c451":[6,0,4100,168],
 "d2/de9/classSpellInfo.html#afc8742bc858cb12197c005168931cb2d":[6,0,4100,98],
 "d2/de9/classSpellInfo.html#afd255235dc8bb42bf6c91024f14850e8":[6,0,4100,14],
-"d2/de9/classboss__freya__elder__ironbranch.html":[6,0,479],
-"d2/de9/classboss__freya__elder__ironbranch.html#a066083e4d6fde6439f7dce80be209075":[6,0,479,1],
-"d2/de9/classboss__freya__elder__ironbranch.html#a67f483d12fe801c1d840dd0f74396564":[6,0,479,2],
+"d2/de9/classboss__freya__elder__ironbranch.html":[6,0,480],
+"d2/de9/classboss__freya__elder__ironbranch.html#a066083e4d6fde6439f7dce80be209075":[6,0,480,1],
+"d2/de9/classboss__freya__elder__ironbranch.html#a67f483d12fe801c1d840dd0f74396564":[6,0,480,2],
 "d2/de9/classspell__apothecary__validate__area.html":[6,0,2604],
 "d2/de9/classspell__apothecary__validate__area.html#a1a510f9cf49df69c5904cb79c8cdc860":[6,0,2604,4],
 "d2/de9/classspell__apothecary__validate__area.html#a2832f131d99608923ade8070e17da86d":[6,0,2604,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX75 =
 "d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a16ceaef8a55d8d3d57cf53ad1c7c3f7f":[7,0,0,0,1,2,21,1,17,10],
 "d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a176c62343904defff95ab4e54e468ec9":[7,0,0,0,1,2,21,1,17,1],
 "d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a3f568f2daa274d35fc97bae0ee487fd7":[7,0,0,0,1,2,21,1,17,15],
-"d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a6e04a2c087f986bfe5440336232f855d":[7,0,0,0,1,2,21,1,17,13],
-"d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a74173aa0ec19b68c0f531dcbc3cc360a":[7,0,0,0,1,2,21,1,17,14],
-"d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a8ecfc411c48ea8e8557b674af93aff48":[7,0,0,0,1,2,21,1,17,2],
-"d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61aad4dbfa4f2899a078f836357e829d38d":[7,0,0,0,1,2,21,1,17,0],
-"d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61aae3d0d696beb61d2dfbb9fe3cf913e90":[7,0,0,0,1,2,21,1,17,4]
+"d2/dea/Guild_8h.html#a30d73a1238457bffb5d55ce50c5d1a61a6e04a2c087f986bfe5440336232f855d":[7,0,0,0,1,2,21,1,17,13]
 };

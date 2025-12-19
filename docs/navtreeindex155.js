@@ -1,5 +1,9 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ac9e7d5d0a420985fb5b72da1a725f7af":[6,0,1293,0,1],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ad0a93114ab4de803888ebde738e6a67e":[6,0,1293,0,0],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ada9e7ef96b4519b3a61a37e8562a7628":[6,0,1293,0,29],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae067b6a41e79d533942265581022379e":[6,0,1293,0,26],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ae297cebc14c949ff0dfd38678ecbc9bb":[6,0,1293,0,20],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aec751168cfe4eb6e73dcab9c1711e60a":[6,0,1293,0,21],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#af11ea775901923751d9b4bc8fd3c5a6b":[6,0,1293,0,6],
@@ -10,9 +14,9 @@ var NAVTREEINDEX155 =
 "d5/dca/classspell__claw__rage__aura.html#a7ed214de6769314a45540e9afdb82949":[6,0,2712,3],
 "d5/dca/classspell__claw__rage__aura.html#aa541a8bc034517d1f5d034ac51bd8dac":[6,0,2712,0],
 "d5/dca/classspell__claw__rage__aura.html#abc166e4dc33e7bffd1d53c2ef8272efa":[6,0,2712,1],
-"d5/dcc/classboss__thorim__sif__blizzard.html":[6,0,744],
-"d5/dcc/classboss__thorim__sif__blizzard.html#acc42b4c9434f9eece2d93c2e4f3697fc":[6,0,744,1],
-"d5/dcc/classboss__thorim__sif__blizzard.html#afbff96363951c952a195f5c2a105e279":[6,0,744,2],
+"d5/dcc/classboss__thorim__sif__blizzard.html":[6,0,745],
+"d5/dcc/classboss__thorim__sif__blizzard.html#acc42b4c9434f9eece2d93c2e4f3697fc":[6,0,745,1],
+"d5/dcc/classboss__thorim__sif__blizzard.html#afbff96363951c952a195f5c2a105e279":[6,0,745,2],
 "d5/dcc/classspell__direbrew__disarm.html":[6,0,2740],
 "d5/dcc/classspell__direbrew__disarm.html#a0004de73250b8523db2b9ab714c8a246":[6,0,2740,3],
 "d5/dcc/classspell__direbrew__disarm.html#a051d292f9483e6b82d773fba3ab52460":[6,0,2740,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a610700732a6cc197a40106adef654a62":[6,0,1846,0,1],
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee":[6,0,1846,0,7],
 "d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a8dd77a92b151acad640f1272acf0b65f":[6,0,1846,0,6],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a94128223bddd84b8a678e49f3189cb75":[6,0,1846,0,4],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#acb29a6ddb6d06616e79f7431b66f167a":[6,0,1846,0,3],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#add878d336fa7e20bee4d05ac0383dd0a":[6,0,1846,0,5],
-"d5/dd1/boss__trollgore_8cpp.html":[7,0,0,0,1,3,5,3,3],
-"d5/dd1/boss__trollgore_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,3,3,8]
+"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a94128223bddd84b8a678e49f3189cb75":[6,0,1846,0,4]
 };

@@ -883,7 +883,7 @@ var searchData=
   ['trivial_5fpet_880',['TRIVIAL_PET',['../de/d0a/SharedDefines_8h.html#a0f932a3b5d5df9ca405ffd4025bbefe7a6bc506f5e0886c6933d90cd052ec086c',1,'SharedDefines.h']]],
   ['troll_881',['Troll',['../de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3a922a511f02d148e4c9390526d85ca519',1,'SharedDefines.h']]],
   ['tuskarr_882',['Tuskarr',['../de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3a4f8c0e0352b106504e164dce87c9eab3',1,'SharedDefines.h']]],
-  ['tutorials_883',['TUTORIALS',['../d1/dcd/classAccountInfoQueryHolderPerRealm.html#a6f34be35de1e76679fc6ca69c4f7f1b4a2faeed0c573ad781d2bd33c5828532a1',1,'AccountInfoQueryHolderPerRealm']]],
+  ['tutorials_883',['TUTORIALS',['../d1/dcd/classAccountInfoQueryHolderPerRealm.html#a787d8c564af05241c823f07686016f96a2faeed0c573ad781d2bd33c5828532a1',1,'AccountInfoQueryHolderPerRealm']]],
   ['type_5facidmaw_884',['TYPE_ACIDMAW',['../da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a3f39ff485e4fb79cf75cbe2fb8d634a8',1,'trial_of_the_crusader.h']]],
   ['type_5fakilzon_5fgauntlet_885',['TYPE_AKILZON_GAUNTLET',['../d9/d98/zulaman_8h.html#afb6eb4f28419b652027fad41104a6d22a32627ed2529fd86dd576f9b0b8d8da65',1,'zulaman.h']]],
   ['type_5faku_5fmai_886',['TYPE_AKU_MAI',['../d6/d68/blackfathom__deeps_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4842090ac3ea8e0e3f79e41bd8540a80',1,'blackfathom_deeps.h']]],

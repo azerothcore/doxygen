@@ -248,7 +248,7 @@ var classCreature =
     [ "_isMissingSwimmingFlagOutOfCombat", "db/dd5/classCreature.html#a50c1dd7e1d8d9183fa1166a42f4df93b", null ],
     [ "_playerDamageReq", "db/dd5/classCreature.html#ae5ab87b05a210d9f8d6fc3eb00da2143", null ],
     [ "_sparringPct", "db/dd5/classCreature.html#a69f907d08a41e37ff2c0519f1b030a19", null ],
-    [ "_spellFocusInfo", "db/dd5/classCreature.html#a93d767762248897851c6958d90effe21", null ],
+    [ "_spellFocusInfo", "db/dd5/classCreature.html#a6e16c7ef456a2c4278c55b826a462fa8", null ],
     [ "Delay", "db/dd5/classCreature.html#aad86470956fa645f58e4c2a3d87b60d6", null ],
     [ "DisableLootReward", "db/dd5/classCreature.html#ae1edc2f713a5f110f165d14f9361610e", null ],
     [ "DisableReputationReward", "db/dd5/classCreature.html#ac601efb79b880ed2d699b4bee2e878be", null ],

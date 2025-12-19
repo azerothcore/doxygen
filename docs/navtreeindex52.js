@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d21/classinstance__scholomance.html":[6,0,1332],
 "d2/d21/classinstance__scholomance.html#a9e2030e41154c92dbe45d7895ddf37b8":[6,0,1332,2],
 "d2/d21/classinstance__scholomance.html#ace7a781c45623419daad6143480d8fe2":[6,0,1332,1],
 "d2/d22/AuctionHouseScript_8cpp.html":[7,0,0,0,1,2,38,0,29],
@@ -103,8 +104,8 @@ var NAVTREEINDEX52 =
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3573,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1325,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[6,0,1325,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[6,0,1325,0,7],
@@ -185,9 +186,9 @@ var NAVTREEINDEX52 =
 "d2/d25/arcatraz_8h.html#afb6eb4f28419b652027fad41104a6d22adc7f50a62cbace9f99ff0073088bedc8":[7,0,0,0,1,3,7,5,0,1,4,5],
 "d2/d25/arcatraz_8h.html#afb6eb4f28419b652027fad41104a6d22ae75b1c5d30f242906f8a0ad78ca2d58a":[7,0,0,0,1,3,7,5,0,1,4,4],
 "d2/d25/arcatraz_8h.html#afb6eb4f28419b652027fad41104a6d22af025cce7252ec301e015bc566fabf6ce":[7,0,0,0,1,3,7,5,0,1,4,9],
-"d2/d25/classboss__essence__of__anger.html":[6,0,450],
-"d2/d25/classboss__essence__of__anger.html#a70a460f31b7f878e532b695ca822ab5d":[6,0,450,2],
-"d2/d25/classboss__essence__of__anger.html#adf8151d1fbb4a258f174c4bdb8410cd6":[6,0,450,1],
+"d2/d25/classboss__essence__of__anger.html":[6,0,451],
+"d2/d25/classboss__essence__of__anger.html#a70a460f31b7f878e532b695ca822ab5d":[6,0,451,2],
+"d2/d25/classboss__essence__of__anger.html#adf8151d1fbb4a258f174c4bdb8410cd6":[6,0,451,1],
 "d2/d25/structnpc__brewfest__super__brew__trigger.html":[6,0,1666],
 "d2/d25/structnpc__brewfest__super__brew__trigger.html#a2ebb06175e3142cca156e57e8386fe02":[6,0,1666,6],
 "d2/d25/structnpc__brewfest__super__brew__trigger.html#a3d2189978683150b1c431fa0fd637358":[6,0,1666,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3":[7,0,0,0,1,2,36,2,17,11],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca44bd5ba1866b6195d1fdbcfc88e4429d":[7,0,0,0,1,2,36,2,17,3],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca75135989445a2947df016dddb20dcf24":[7,0,0,0,1,2,36,2,17,10],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca867ef0a1e8243d47039936338db4e0d2":[7,0,0,0,1,2,36,2,17,2],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca8c007c4cb4d3909e264b15da0c678415":[7,0,0,0,1,2,36,2,17,6]
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca867ef0a1e8243d47039936338db4e0d2":[7,0,0,0,1,2,36,2,17,2]
 };

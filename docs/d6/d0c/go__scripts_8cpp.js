@@ -1,7 +1,6 @@
 var go__scripts_8cpp =
 [
     [ "go_seer_of_zebhalak", "d2/d6f/classgo__seer__of__zebhalak.html", "d2/d6f/classgo__seer__of__zebhalak" ],
-    [ "go_mistwhisper_treasure", "d9/dcd/classgo__mistwhisper__treasure.html", "d9/dcd/classgo__mistwhisper__treasure" ],
     [ "go_witherbark_totem_bundle", "d6/d41/classgo__witherbark__totem__bundle.html", "d6/d41/classgo__witherbark__totem__bundle" ],
     [ "go_witherbark_totem_bundle::go_witherbark_totem_bundleAI", "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI.html", "df/dc9/structgo__witherbark__totem__bundle_1_1go__witherbark__totem__bundleAI" ],
     [ "go_arena_ready_marker", "d4/d66/classgo__arena__ready__marker.html", "d4/d66/classgo__arena__ready__marker" ],
