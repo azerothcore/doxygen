@@ -59,7 +59,7 @@ var searchData=
   ['kickposition_56',['KickPosition',['../d6/d26/classBattlefield.html#ad691e1287c8c36d8631a428c71abaf41',1,'Battlefield']]],
   ['kicksession_57',['KickSession',['../d0/d5e/classWorldSessionMgr.html#a152ef062ca6e1ddc2599588c4cd33b41',1,'WorldSessionMgr']]],
   ['kickwhatkick_58',['KickWhatKick',['../d3/d6e/zone__sholazar__basin_8cpp.html#ab5fd5523e5e5a88166fcc03de83eea04',1,'zone_sholazar_basin.cpp']]],
-  ['kill_59',['kill',['../d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725',1,'SmartEvent::kill'],['../d2/d8f/structScriptInfo.html#aa365914f73efca97e86dbfc1e06a0a45',1,'ScriptInfo::Kill'],['../df/dd9/classUnit.html#a413f3a85a1e57ce8c13b8870347830f5',1,'Unit::Kill()']]],
+  ['kill_59',['kill',['../d2/d8f/structScriptInfo.html#aa365914f73efca97e86dbfc1e06a0a45',1,'ScriptInfo::Kill'],['../df/dd9/classUnit.html#a413f3a85a1e57ce8c13b8870347830f5',1,'Unit::Kill()'],['../d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725',1,'SmartEvent::kill']]],
   ['kill_5fcreature_60',['kill_creature',['../d4/dd9/structAchievementCriteriaEntry.html#af9cf6c19664c9e8e590f7ffbe41dcd45',1,'AchievementCriteriaEntry']]],
   ['killallevents_61',['KillAllEvents',['../d2/d58/classEventProcessor.html#a15a65ecc2391f505266176cfc7f29c39',1,'EventProcessor']]],
   ['killcount_62',['killcount',['../d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a280e27385988e0f5cc65c60511bd4100',1,'boss_mandokir::boss_mandokirAI::killCount'],['../d4/dd9/structAchievementCriteriaEntry.html#adc7dd192a39e1f2b9b0b2fbec1dfe877',1,'AchievementCriteriaEntry::killCount']]],

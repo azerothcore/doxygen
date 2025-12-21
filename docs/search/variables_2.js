@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
+  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
   ['bachiev_1',['bachiev',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev'],['../dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev']]],
   ['bachievbombbot_2',['bAchievBombBot',['../df/dd9/structboss__mimiron_1_1boss__mimironAI.html#afcd749730b91e9bf9c18609d1f826b06',1,'boss_mimiron::boss_mimironAI']]],
   ['bachievcacherare_3',['bAchievCacheRare',['../d5/dc2/structboss__hodir_1_1boss__hodirAI.html#abae1956e9101ea07cea426ac7c51efd5',1,'boss_hodir::boss_hodirAI']]],
@@ -49,7 +49,7 @@ var searchData=
   ['basedamage_46',['BaseDamage',['../d7/d80/structCreatureBaseStats.html#a40f54b64689ca8c3d2b0de81384dbea9',1,'CreatureBaseStats']]],
   ['basehealth_47',['basehealth',['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth'],['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth']]],
   ['baselevel_48',['baselevel',['../d5/dc7/structSpellEntry.html#aaf7c8448b3091e0fca4aead24165d0e1',1,'SpellEntry::BaseLevel'],['../d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591',1,'SpellInfo::BaseLevel']]],
-  ['basemana_49',['basemana',['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana'],['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana']]],
+  ['basemana_49',['basemana',['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana'],['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana']]],
   ['basemovespeed_50',['basemovespeed',['../d1/daf/Unit_8h.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp'],['../d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp']]],
   ['basepoints_51',['BasePoints',['../da/db9/classSpellEffectInfo.html#ac0803c6cd41e62d0011fda578e794676',1,'SpellEffectInfo']]],
   ['baserepclassmask_52',['BaseRepClassMask',['../de/d14/structFactionEntry.html#ae73655de567de3766fcb3bbfb7f9eed3',1,'FactionEntry']]],
@@ -278,7 +278,7 @@ var searchData=
   ['bp3_275',['bp3',['../dd/d27/structSmartAction.html#af56d53ebfd46ffd5546fd0f8c5a5b241',1,'SmartAction']]],
   ['bphase3_276',['bPhase3',['../d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html#a56778ef57482fd6b40110524a6771137',1,'boss_anubarak_trial::boss_anubarak_trialAI']]],
   ['bpokeachiev_277',['bPokeAchiev',['../d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#ae9ac88ac934fa86e28f5d4905b8defba',1,'instance_eye_of_eternity::instance_eye_of_eternity_InstanceMapScript']]],
-  ['bracketid_278',['bracketid',['../dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4',1,'GroupQueueInfo::BracketId'],['../db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a',1,'PvPDifficultyEntry::bracketId']]],
+  ['bracketid_278',['bracketid',['../db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a',1,'PvPDifficultyEntry::bracketId'],['../dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4',1,'GroupQueueInfo::BracketId']]],
   ['brannachievement_279',['brannAchievement',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a0ba409129e2b0cb84b731043755e70e3',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['brannguid_280',['BrannGUID',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ae764788f5a202371ce5ea506ba5ea05f',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['brannintrospawnpos_281',['BrannIntroSpawnPos',['../d1/d43/boss__algalon__the__observer_8cpp.html#aeeb061299a20d936b10ca54816e5c9bb',1,'boss_algalon_the_observer.cpp']]],

@@ -312,10 +312,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5632</span>    {</div>
-<div class="line"><span class="lineno"> 5633</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno"> 5634</span>            player-&gt;SetGMVisible(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 5635</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5631</span>    {</div>
+<div class="line"><span class="lineno"> 5632</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno"> 5633</span>            player-&gt;SetGMVisible(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 5634</span>    }</div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1071</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
@@ -347,9 +347,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5638</span>    {</div>
-<div class="line"><span class="lineno"> 5639</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(spell_gen_invis_on::HandleScriptEffect, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno"> 5640</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5637</span>    {</div>
+<div class="line"><span class="lineno"> 5638</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9">OnEffectHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(spell_gen_invis_on::HandleScriptEffect, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno"> 5639</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:866</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
@@ -368,7 +368,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d75/classspell__gen__invis__on.html">spell_gen_invis_on</a></li>
-    <li class="footer">Generated on Sat Dec 20 2025 06:26:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Dec 21 2025 06:26:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

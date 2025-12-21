@@ -1,11 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1019f49f5f7218f1899c692819ebd84":[7,0,0,0,1,2,48,7,0,490],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1151cf12f657a5364f0ac6a9d171a07":[7,0,0,0,1,2,48,7,0,35],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1434efd35a4f66f82aa6213c27ec5bc":[7,0,0,0,1,2,48,7,0,333],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac1e9357d8cd5fe5a9e9f3fdf070b5cf8":[7,0,0,0,1,2,48,7,0,126],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac21b0583037dbe5e52242dec64b7a25e":[7,0,0,0,1,2,48,7,0,94],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac36c7299adb3c06f5fb36f0b715aaf87":[7,0,0,0,1,2,48,7,0,319],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac370515de648651d4ab2e9c62185ce01":[7,0,0,0,1,2,48,7,0,39],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac3858ea585ab107f67e032b7245bd4f4":[7,0,0,0,1,2,48,7,0,344],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bac41880d016fa8fd7dce6578173c55e3a":[7,0,0,0,1,2,48,7,0,282],
@@ -112,11 +106,11 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3423],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3423,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3423,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3423,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3423,3],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3431],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3431,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3431,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3431,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3431,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX97 =
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a689ea5c40d39fe5dc8a80351c4884b18":[6,0,1252,0,10],
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a8033da0f1bd56926bd306e1cbdc1ecb9":[6,0,1252,0,2],
 "d3/d4e/classGuild_1_1BankEventLogEntry.html#a836df4449b5190b4404482e46a5e5449":[6,0,1252,0,7],
-"d3/d4e/classGuild_1_1BankEventLogEntry.html#a9010bb7bd849aa6ba25b31596ac30831":[6,0,1252,0,5]
+"d3/d4e/classGuild_1_1BankEventLogEntry.html#a9010bb7bd849aa6ba25b31596ac30831":[6,0,1252,0,5],
+"d3/d4e/classGuild_1_1BankEventLogEntry.html#a930223d8596264801d7b0cf04cea62f8":[6,0,1252,0,6],
+"d3/d4e/classGuild_1_1BankEventLogEntry.html#a9a38b7966bdcc3ec9e871c024c928ce1":[6,0,1252,0,3],
+"d3/d4e/classGuild_1_1BankEventLogEntry.html#ad4ed0df79ff061a4735538067fa4a372":[6,0,1252,0,11],
+"d3/d4f/classachievement__staying__buffed__all__winter__10.html":[6,0,94],
+"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a40afd6db0bf6cff2b9b6163b7d4c31da":[6,0,94,0],
+"d3/d4f/classachievement__staying__buffed__all__winter__10.html#a67587b1659a8d026e73b42311148541a":[6,0,94,1]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX28 =
 {
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#ac5222737ea1b95b6d75afc532838f8be":[6,0,0,8,4],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#adbabf871f33692b0ecddc8cc0fb75586":[6,0,0,8,3],
-"d1/d2d/classAcore_1_1AcoreStringChatBuilder.html#adbabf871f33692b0ecddc8cc0fb75586":[5,0,1,20,3],
-"d1/d2d/classnpc__icc__severed__essence.html":[6,0,1869],
-"d1/d2d/classnpc__icc__severed__essence.html#a74b8dbb95f3dc31b514a2d7ac1f18190":[6,0,1869,2],
-"d1/d2d/classnpc__icc__severed__essence.html#ace5b55755ef1dff3bd08a67fe2f64f94":[6,0,1869,1],
 "d1/d2d/instance__azjol__nerub_8cpp.html":[7,0,0,0,1,3,5,0,1,4],
 "d1/d2d/instance__azjol__nerub_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,1,4,8],
 "d1/d2d/instance__azjol__nerub_8cpp.html#a58deb67f6fb8962cfe1dfd044fdaabdb":[7,0,0,0,1,3,5,0,1,4,6],
@@ -249,5 +243,11 @@ var NAVTREEINDEX28 =
 "d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a577670a76320f9f2d839282c7021c208":[7,0,0,0,1,3,2,31,30,8],
 "d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a5a6a361ec84a045fb4dea9a561c3090a":[7,0,0,0,1,3,2,31,30,62],
 "d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a5af9450b876da23a81583778ce87e0f1":[7,0,0,0,1,3,2,31,30,68],
-"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a5f9e1f374b6609e95d7ffaf78e36dba4":[7,0,0,0,1,3,2,31,30,75]
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a5f9e1f374b6609e95d7ffaf78e36dba4":[7,0,0,0,1,3,2,31,30,75],
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a5ffc9daf2827f22d680637eb3f2d5be9":[7,0,0,0,1,3,2,31,30,22],
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a607c36d7c963b021a2acb694e21012ef":[7,0,0,0,1,3,2,31,30,64],
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a631a02f97716025c9aecb021a7e01d60":[7,0,0,0,1,3,2,31,30,43],
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a65fd180bbd0dd2dddbb37d476156cef6":[7,0,0,0,1,3,2,31,30,47],
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a75aa94b63bf12a24c543c003ed37b80c":[7,0,0,0,1,3,2,31,30,27],
+"d1/d2d/zone__undercity_8cpp.html#abc1817310402e8975ffa012bf11a8506a7bd5871835217defddcc37ea5451f2aa":[7,0,0,0,1,3,2,31,30,10]
 };
