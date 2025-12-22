@@ -1,7 +1,8 @@
 var structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI =
 [
     [ "npc_battle_at_valhalasAI", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a2118bb3a502d2082297631e3dab298da", null ],
-    [ "CheckSummons", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a6ec21ce185cba4756dc4a00d1f65140c", null ],
+    [ "EndBattle", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
     [ "JustSummoned", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#ac2c766dd298bf074f20968006a361036", null ],
     [ "PrepareSummons", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a80e97ceef22290d241fa3f5894331c08", null ],
     [ "Reset", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a303f268cbcc0e2c731c505c721c55da6", null ],
@@ -11,6 +12,5 @@ var structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI =
     [ "currentQuest", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
     [ "events", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
     [ "playerGUID", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
-    [ "playerGUID2", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#af29a4ea9c3c9c62364eb997258e5fa70", null ],
     [ "summons", "d2/dc3/structnpc__battle__at__valhalas_1_1npc__battle__at__valhalasAI.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

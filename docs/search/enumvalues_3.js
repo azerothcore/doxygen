@@ -879,7 +879,7 @@ var searchData=
   ['disable_5ftype_5fquest_876',['DISABLE_TYPE_QUEST',['../de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e',1,'DisableMgr.h']]],
   ['disable_5ftype_5fspell_877',['DISABLE_TYPE_SPELL',['../de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27',1,'DisableMgr.h']]],
   ['disable_5ftype_5fvmap_878',['DISABLE_TYPE_VMAP',['../de/d43/DisableMgr_8h.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff',1,'DisableMgr.h']]],
-  ['disabled_879',['disabled',['../d1/daf/Unit_8h.html#a1769e25b63c7fa4ad80ea05008afaceea055c1a591abb0e8cd86dc969727bcc0b',1,'DISABLED:&#160;Unit.h'],['../de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75ab9f5c797ebbf55adccdd8539a65a0241',1,'Disabled:&#160;SharedDefines.h']]],
+  ['disabled_879',['disabled',['../de/d0a/SharedDefines_8h.html#a22fc01c7384d8db0900ea2e19513fe75ab9f5c797ebbf55adccdd8539a65a0241',1,'Disabled:&#160;SharedDefines.h'],['../d1/daf/Unit_8h.html#a1769e25b63c7fa4ad80ea05008afaceea055c1a591abb0e8cd86dc969727bcc0b',1,'DISABLED:&#160;Unit.h']]],
   ['disablegravity_880',['DisableGravity',['../de/d2f/CreatureData_8h.html#a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5',1,'CreatureData.h']]],
   ['disables_5fxp_5faward_881',['DISABLES_XP_AWARD',['../de/d0a/SharedDefines_8h.html#a6e63261b155771d34d267c90555209e3af16fe0934dd8b26e62f8811647e4694b',1,'SharedDefines.h']]],
   ['disenchant_882',['DISENCHANT',['../de/d3d/Group_8h.html#a1cf1e13f9c5c24c7e321364f6d349d5fa899d0f089060a2adb6d35bde6c361d13',1,'Group.h']]],

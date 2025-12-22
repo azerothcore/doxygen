@@ -2540,6 +2540,7 @@ var annotated_dup =
     [ "npc_pet_hunter_snake_trap", "d2/dc3/structnpc__pet__hunter__snake__trap.html", "d2/dc3/structnpc__pet__hunter__snake__trap" ],
     [ "npc_pet_mage_mirror_image", "d2/de1/structnpc__pet__mage__mirror__image.html", "d2/de1/structnpc__pet__mage__mirror__image" ],
     [ "npc_pet_pri_lightwell", "d0/d71/structnpc__pet__pri__lightwell.html", "d0/d71/structnpc__pet__pri__lightwell" ],
+    [ "npc_pet_proto_drake_whelp", "d3/d37/structnpc__pet__proto__drake__whelp.html", "d3/d37/structnpc__pet__proto__drake__whelp" ],
     [ "npc_pet_shaman_earth_elemental", "d4/d7d/structnpc__pet__shaman__earth__elemental.html", "d4/d7d/structnpc__pet__shaman__earth__elemental" ],
     [ "npc_pet_shaman_fire_elemental", "d5/dce/structnpc__pet__shaman__fire__elemental.html", "d5/dce/structnpc__pet__shaman__fire__elemental" ],
     [ "npc_pet_trainer", "d7/d7d/classnpc__pet__trainer.html", "d7/d7d/classnpc__pet__trainer" ],

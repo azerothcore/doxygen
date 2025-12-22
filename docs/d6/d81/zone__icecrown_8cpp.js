@@ -197,6 +197,7 @@ var zone__icecrown_8cpp =
       [ "EVENT_VALHALAS_SECOND", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1eac1d8d7aafb5e23175f94dc7e3bc7af4b", null ],
       [ "EVENT_VALHALAS_THIRD", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1eaa2a498fb97e6d98992053172d76abaee", null ],
       [ "EVENT_VALHALAS_CHECK_PLAYER", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1ea63ab06ab444fd7f96052b267cd9ad2ea", null ],
+      [ "EVENT_VALHALAS_THIRD_2", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1ea1371668ca371182a1eb5bc7bd53118f6", null ],
       [ "NPC_ELDRETH", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1eab433ee321b9f08e7db7a0c0f64cabd84", null ],
       [ "NPC_GENESS", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1ea126d87d0b63b9601848e2e786417bb70", null ],
       [ "NPC_JHADRAS", "d6/d81/zone__icecrown_8cpp.html#a924899e72eb277474ea041b708efca1ea193eddd189d0fce5d55976fdd36ff35a", null ],

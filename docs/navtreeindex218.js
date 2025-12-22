@@ -1,5 +1,9 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#ab3bd69eff32028a3a5ff9147e9bc62bc":[4,1,19,228],
+"d8/d74/classWorldSession.html#ab490ba72d0258b94f40b3eee9cb5adae":[4,1,19,460],
+"d8/d74/classWorldSession.html#ab549b5cfd44417d0385f7ed00deeb433":[4,1,19,251],
+"d8/d74/classWorldSession.html#ab6b59405adb031c0fef078340a26c2b4":[4,1,19,282],
 "d8/d74/classWorldSession.html#ab78736eea8305bba97a27445066a10ec":[4,1,19,594],
 "d8/d74/classWorldSession.html#ab79015955dc597df16100eef80cd6180":[4,1,19,14],
 "d8/d74/classWorldSession.html#ab79aa084176c6c381f18432f84678a79":[4,1,19,552],
@@ -177,9 +181,9 @@ var NAVTREEINDEX218 =
 "d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[6,0,1892,0],
 "d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[6,0,1892,2],
 "d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1892,1],
-"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2247],
-"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2247,2],
-"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2247,1],
+"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2248],
+"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2248,2],
+"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2248,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1949,0],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1949,0,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1949,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1580,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1580,7],
 "d8/d78/structnpc__akilzon__eagle.html#a59ef60c0d16eda1b4d78ef964b42211a":[6,0,1580,5],
-"d8/d78/structnpc__akilzon__eagle.html#a8ae0b8115d402671f94aaf27ff83eade":[6,0,1580,4],
-"d8/d78/structnpc__akilzon__eagle.html#a918dae0b34b43e10f066d32d5ebe6fcf":[6,0,1580,6],
-"d8/d78/structnpc__akilzon__eagle.html#aa5c3d77a1086ad90397d47f081b25476":[6,0,1580,1],
-"d8/d78/structnpc__akilzon__eagle.html#abf69be0c32356e65e6d451c33fb389f0":[6,0,1580,3],
-"d8/d78/structnpc__akilzon__eagle.html#ad70a735ce3a06f9c92ddb8ef7e5fd595":[6,0,1580,0]
+"d8/d78/structnpc__akilzon__eagle.html#a8ae0b8115d402671f94aaf27ff83eade":[6,0,1580,4]
 };

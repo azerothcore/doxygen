@@ -4799,6 +4799,7 @@ var hierarchy =
           [ "npc_pet_gen_moth", "d8/d40/structnpc__pet__gen__moth.html", null ],
           [ "npc_pet_gen_target_following_bomb", "d5/da8/structnpc__pet__gen__target__following__bomb.html", null ],
           [ "npc_pet_gen_wind_rider_cub", "d8/d2f/structnpc__pet__gen__wind__rider__cub.html", null ],
+          [ "npc_pet_proto_drake_whelp", "d3/d37/structnpc__pet__proto__drake__whelp.html", null ],
           [ "npc_pilgrims_bounty_plate", "d5/d4b/structnpc__pilgrims__bounty__plate.html", null ],
           [ "npc_pool_of_tar::npc_pool_of_tarAI", "d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html", null ],
           [ "npc_pos_after_first_boss::npc_pos_after_first_bossAI", "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html", null ],

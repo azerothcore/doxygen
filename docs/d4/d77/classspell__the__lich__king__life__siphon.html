@@ -341,14 +341,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2767</span>    {</div>
-<div class="line"><span class="lineno"> 2768</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb">spell_the_lich_king_life_siphon::TriggerHeal</a>);</div>
-<div class="line"><span class="lineno"> 2769</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2768</span>    {</div>
+<div class="line"><span class="lineno"> 2769</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb">spell_the_lich_king_life_siphon::TriggerHeal</a>);</div>
+<div class="line"><span class="lineno"> 2770</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3362c737af695ae44f841bf3c94003af"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">SpellScript::AfterHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; AfterHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:347</div></div>
-<div class="ttc" id="aclassspell__the__lich__king__life__siphon_html_a3cdfca33a535bad0942beea24aefa1bb"><div class="ttname"><a href="../../d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb">spell_the_lich_king_life_siphon::TriggerHeal</a></div><div class="ttdeci">void TriggerHeal()</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:2761</div></div>
+<div class="ttc" id="aclassspell__the__lich__king__life__siphon_html_a3cdfca33a535bad0942beea24aefa1bb"><div class="ttname"><a href="../../d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb">spell_the_lich_king_life_siphon::TriggerHeal</a></div><div class="ttdeci">void TriggerHeal()</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:2762</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l00349">SpellHitFn</a>, and <a class="el" href="../../#l02761">TriggerHeal()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l00349">SpellHitFn</a>, and <a class="el" href="../../#l02762">TriggerHeal()</a>.</p>
 
 </div>
 </div>
@@ -374,19 +374,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2762</span>    {</div>
-<div class="line"><span class="lineno"> 2763</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b">SPELL_LIFE_SIPHON_HEAL</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, <a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * 10, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2764</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2763</span>    {</div>
+<div class="line"><span class="lineno"> 2764</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(<a class="code hl_enumvalue" href="../../da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b">SPELL_LIFE_SIPHON_HEAL</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, <a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * 10, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>(), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2765</span>    }</div>
 <div class="ttc" id="aSpellDefines_8h_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition</b> SpellDefines.h:113</div></div>
-<div class="ttc" id="aboss__the__lich__king_8cpp_html_a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b"><div class="ttname"><a href="../../da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b">SPELL_LIFE_SIPHON_HEAL</a></div><div class="ttdeci">@ SPELL_LIFE_SIPHON_HEAL</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:151</div></div>
+<div class="ttc" id="aboss__the__lich__king_8cpp_html_a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b"><div class="ttname"><a href="../../da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b">SPELL_LIFE_SIPHON_HEAL</a></div><div class="ttdeci">@ SPELL_LIFE_SIPHON_HEAL</div><div class="ttdef"><b>Definition</b> boss_the_lich_king.cpp:152</div></div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassSpellScript_html_aff69d3a9a6f02ae0afa8f8bbaa543493"><div class="ttname"><a href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">SpellScript::GetHitDamage</a></div><div class="ttdeci">int32 GetHitDamage()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:514</div></div>
 <div class="ttc" id="aclassUnit_html_a51ec81e114bf82a2485ba9f66200afd2"><div class="ttname"><a href="../../df/dd9/classUnit.html#a51ec81e114bf82a2485ba9f66200afd2">Unit::CastCustomSpell</a></div><div class="ttdeci">SpellCastResult CastCustomSpell(Unit *victim, uint32 spellId, int32 const *bp0, int32 const *bp1, int32 const *bp2, bool triggered, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1251</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01251">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00151">SPELL_LIFE_SIPHON_HEAL</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01251">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00152">SPELL_LIFE_SIPHON_HEAL</a>, and <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02766">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02767">Register()</a>.</p>
 
 </div>
 </div>
@@ -415,12 +415,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2757</span>    {</div>
-<div class="line"><span class="lineno"> 2758</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b">SPELL_LIFE_SIPHON_HEAL</a> });</div>
-<div class="line"><span class="lineno"> 2759</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2758</span>    {</div>
+<div class="line"><span class="lineno"> 2759</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298cad8cee5fefa2c8de6eec25bb21d29ce9b">SPELL_LIFE_SIPHON_HEAL</a> });</div>
+<div class="line"><span class="lineno"> 2760</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00151">SPELL_LIFE_SIPHON_HEAL</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00152">SPELL_LIFE_SIPHON_HEAL</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -433,7 +433,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d77/classspell__the__lich__king__life__siphon.html">spell_the_lich_king_life_siphon</a></li>
-    <li class="footer">Generated on Sun Dec 21 2025 06:26:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Dec 22 2025 06:30:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

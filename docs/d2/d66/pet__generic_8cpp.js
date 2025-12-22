@@ -14,6 +14,7 @@ var pet__generic_8cpp =
     [ "npc_pet_gen_fetch_ball", "d4/da5/structnpc__pet__gen__fetch__ball.html", "d4/da5/structnpc__pet__gen__fetch__ball" ],
     [ "npc_pet_gen_moth", "d8/d40/structnpc__pet__gen__moth.html", "d8/d40/structnpc__pet__gen__moth" ],
     [ "npc_pet_darting_hatchling", "d7/d25/structnpc__pet__darting__hatchling.html", "d7/d25/structnpc__pet__darting__hatchling" ],
+    [ "npc_pet_proto_drake_whelp", "d3/d37/structnpc__pet__proto__drake__whelp.html", "d3/d37/structnpc__pet__proto__drake__whelp" ],
     [ "Darting", "d2/d66/pet__generic_8cpp.html#ac6c326501143f3fd2f576f3bed6d1801", [
       [ "SPELL_DARTING_ON_SPAWN", "d2/d66/pet__generic_8cpp.html#ac6c326501143f3fd2f576f3bed6d1801a3f54a1482e0a9d44e40a656213c2aab5", null ],
       [ "SPELL_DARTING_FEAR", "d2/d66/pet__generic_8cpp.html#ac6c326501143f3fd2f576f3bed6d1801aabe22d3443647ba410026bb6e4a83928", null ]
