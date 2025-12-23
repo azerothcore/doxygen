@@ -2715,6 +2715,7 @@ var annotated_dup =
     [ "npc_tournament_training_dummy", "d6/d55/classnpc__tournament__training__dummy.html", "d6/d55/classnpc__tournament__training__dummy" ],
     [ "npc_toxic_slime", "dd/df0/structnpc__toxic__slime.html", "dd/df0/structnpc__toxic__slime" ],
     [ "npc_training_dummy", "d7/dea/classnpc__training__dummy.html", "d7/dea/classnpc__training__dummy" ],
+    [ "npc_traveler_mammoth_vendor", "d8/d2e/structnpc__traveler__mammoth__vendor.html", "d8/d2e/structnpc__traveler__mammoth__vendor" ],
     [ "npc_troll_volunteer", "d1/dc6/classnpc__troll__volunteer.html", "d1/dc6/classnpc__troll__volunteer" ],
     [ "npc_twiggy_flathead", "da/d6e/classnpc__twiggy__flathead.html", "da/d6e/classnpc__twiggy__flathead" ],
     [ "npc_twilight_summon", "d4/dae/classnpc__twilight__summon.html", "d4/dae/classnpc__twilight__summon" ],

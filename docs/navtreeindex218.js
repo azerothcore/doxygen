@@ -1,5 +1,11 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#aafaa38ed151e34953ca0c743cb9e98c2":[4,1,19,37],
+"d8/d74/classWorldSession.html#aafc856803ef8913cb5c75a03c6c470a7":[4,1,19,341],
+"d8/d74/classWorldSession.html#ab050b52971821acd45f22d903f0d664e":[4,1,19,233],
+"d8/d74/classWorldSession.html#ab0abee55699ee1250497cf2c705eab01":[4,1,19,203],
+"d8/d74/classWorldSession.html#ab140542a5199fe6da0eaf37e61cb3a19":[4,1,19,63],
+"d8/d74/classWorldSession.html#ab39c7196868f1ddd23d5aec6aac4f859":[4,1,19,253],
 "d8/d74/classWorldSession.html#ab3bd69eff32028a3a5ff9147e9bc62bc":[4,1,19,228],
 "d8/d74/classWorldSession.html#ab490ba72d0258b94f40b3eee9cb5adae":[4,1,19,460],
 "d8/d74/classWorldSession.html#ab549b5cfd44417d0385f7ed00deeb433":[4,1,19,251],
@@ -181,9 +187,9 @@ var NAVTREEINDEX218 =
 "d8/d74/classnpc__innkeeper.html#a006f27d898ead8827d8b98d8b93d430d":[6,0,1892,0],
 "d8/d74/classnpc__innkeeper.html#ab6cf511f5b032050336a77d1e4598dda":[6,0,1892,2],
 "d8/d74/classnpc__innkeeper.html#ae65c5cd7d3e270b2e50f80c0e12a72ff":[6,0,1892,1],
-"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2248],
-"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2248,2],
-"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2248,1],
+"d8/d74/classnpc__vaelastrasz__the__red.html":[6,0,2249],
+"d8/d74/classnpc__vaelastrasz__the__red.html#a59e7630d5060986dc4209d2d2b5ef42b":[6,0,2249,2],
+"d8/d74/classnpc__vaelastrasz__the__red.html#af39fcaa29b200e3b7933f97de277df6b":[6,0,2249,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html":[6,0,1949,0],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#a72790dc9525249a4b558c37c4a0bd03f":[6,0,1949,0,1],
 "d8/d74/structnpc__maredis__firestar_1_1npc__maredis__firestarAI.html#ac2d4ed4b205146524dcf11585d65ae12":[6,0,1949,0,0],
@@ -241,13 +247,7 @@ var NAVTREEINDEX218 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,968,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1],
-"d8/d78/structnpc__akilzon__eagle.html":[6,0,1580],
-"d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1580,8],
-"d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1580,7],
-"d8/d78/structnpc__akilzon__eagle.html#a59ef60c0d16eda1b4d78ef964b42211a":[6,0,1580,5],
-"d8/d78/structnpc__akilzon__eagle.html#a8ae0b8115d402671f94aaf27ff83eade":[6,0,1580,4]
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX252 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a580875b1aebc02e7661718120c88d561":[7,0,0,0,1,2,41,0,0,6,312],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a580ae19464afb0d72ab7d3414e14796b":[7,0,0,0,1,2,41,0,0,6,150],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5817711a0b3991073357ded1c749540b":[7,0,0,0,1,2,41,0,0,6,217],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a583bf7e94825b7252010ad12dd50ed6f":[7,0,0,0,1,2,41,0,0,6,236],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a596e3b9fe9debfe471e927863f3d739f":[7,0,0,0,1,2,41,0,0,6,288],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5a38d1936dd727a6013df2aec5273112":[7,0,0,0,1,2,41,0,0,6,315],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5a5ee640c824ff4b9519c654af33fbb0":[7,0,0,0,1,2,41,0,0,6,202],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5a6e68377120c8a73c5256c24d95890b":[7,0,0,0,1,2,41,0,0,6,138],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ac7186261b11b30b5a0dd58ff23a418":[7,0,0,0,1,2,41,0,0,6,165],
@@ -237,17 +243,11 @@ var NAVTREEINDEX252 =
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2":[7,0,0,0,1,2,41,0,0,4],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a51cd79314936d46d8bc738a8c1207ab4":[7,0,0,0,1,2,41,0,0,4,1],
 "da/d2d/SpellAuraDefines_8h.html#ade4e7c2cbd17c45015f9f70c2a5400b2a9db32fb1dd13d77afd835d5bb6f5d379":[7,0,0,0,1,2,41,0,0,4,0],
-"da/d2d/structTSPosition.html":[6,0,4217],
-"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[6,0,4217,1],
-"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[6,0,4217,2],
-"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[6,0,4217,0],
-"da/d2e/classnpc__varian__wrynn.html":[6,0,2254],
-"da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[6,0,2254,1],
-"da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[6,0,2254,4],
-"da/d2e/classnpc__varian__wrynn.html#a95f6ff3f2a7db807b278d019e187ddec":[6,0,2254,3],
-"da/d2e/classnpc__varian__wrynn.html#aa5aa46f24a128e84ac2a837c012b2e02":[6,0,2254,2],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html":[6,0,2868],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a0b1df96674584554d53688e993c2a310":[6,0,2868,5],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a4908c5c3e6afdf0305dfb4729cfba503":[6,0,2868,3],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a8d863af82300eacc1456a08f8461d5a7":[6,0,2868,1]
+"da/d2d/structTSPosition.html":[6,0,4218],
+"da/d2d/structTSPosition.html#aad21475d521921ea30cc0ae5d260ce69":[6,0,4218,1],
+"da/d2d/structTSPosition.html#abd69e1c28ad36466c82807ea0ffb0fb7":[6,0,4218,2],
+"da/d2d/structTSPosition.html#af2cf5df64adf9ac1575a8217b103e738":[6,0,4218,0],
+"da/d2e/classnpc__varian__wrynn.html":[6,0,2255],
+"da/d2e/classnpc__varian__wrynn.html#a1dd8e4664da693f3e4ecdd4581b96c87":[6,0,2255,1],
+"da/d2e/classnpc__varian__wrynn.html#a65d02bafebe9c5a45d707f8990d680a3":[6,0,2255,4]
 };

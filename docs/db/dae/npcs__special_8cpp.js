@@ -44,6 +44,7 @@ var npcs__special_8cpp =
     [ "npc_arcanite_dragonling", "dd/d1f/structnpc__arcanite__dragonling.html", "dd/d1f/structnpc__arcanite__dragonling" ],
     [ "npc_crashin_thrashin_robot", "d9/dff/structnpc__crashin__thrashin__robot.html", "d9/dff/structnpc__crashin__thrashin__robot" ],
     [ "npc_controller", "df/d65/structnpc__controller.html", "df/d65/structnpc__controller" ],
+    [ "npc_traveler_mammoth_vendor", "d8/d2e/structnpc__traveler__mammoth__vendor.html", "d8/d2e/structnpc__traveler__mammoth__vendor" ],
     [ "A_RUNTOX", "db/dae/npcs__special_8cpp.html#a0a5db3a56905c53a86dda19b1525d543", null ],
     [ "A_RUNTOY", "db/dae/npcs__special_8cpp.html#a6fd0c50b88b497735f8707ef06169344", null ],
     [ "A_RUNTOZ", "db/dae/npcs__special_8cpp.html#a211a53ccdd9e750147d3d5db4b462a97", null ],
@@ -257,6 +258,9 @@ var npcs__special_8cpp =
       [ "SPELL_CHIKEN", "db/dae/npcs__special_8cpp.html#af5298ec56f7afdd5774b1f30c45feb30adbfb65848461634db21e3cc10b7b9bf8", null ],
       [ "SPELL_WOLPERTINGER", "db/dae/npcs__special_8cpp.html#af5298ec56f7afdd5774b1f30c45feb30a600164a677dde59b6835cf05c3f9d6d0", null ],
       [ "STABLE_MASTER_GOSSIP_SUB_MENU", "db/dae/npcs__special_8cpp.html#af5298ec56f7afdd5774b1f30c45feb30af3b3a47b352433e2338a75f30a14ccc3", null ]
+    ] ],
+    [ "TravelerMammothVendor", "db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138", [
+      [ "SAY_DISMISS", "db/dae/npcs__special_8cpp.html#a7012b6bccc20490eff177e86e177f138aed889913f94673dee52649a98643507f", null ]
     ] ],
     [ "VenomhideHatchlingMisc", "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cd", [
       [ "ITEM_VENOMHIDE_BABY_TOOTH", "db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda48be430269d4b81aa898b2609dcf4e65", null ],

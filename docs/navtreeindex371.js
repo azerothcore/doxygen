@@ -1,5 +1,13 @@
 var NAVTREEINDEX371 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a907430c6cbdf79f959d46a80ff42ab64":[7,0,0,0,1,1,0,0,1,1,294],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a909875186cea4b017db41f19894b8ed1":[7,0,0,0,1,1,0,0,1,1,415],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9139c0f5cf3d958b81f8730eb6c37cac":[7,0,0,0,1,1,0,0,1,1,369],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a95520e09d4dba59d9e86f8809211e2f2":[7,0,0,0,1,1,0,0,1,1,297],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a961779a689b1e4c2392ccfbc3dd8f88e":[7,0,0,0,1,1,0,0,1,1,271],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a96957242827fb6e9c0f1866bafddeef0":[7,0,0,0,1,1,0,0,1,1,455],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a973f03047a0b6d5510e4c4c548e06678":[7,0,0,0,1,1,0,0,1,1,427],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a9744acf0e6c9861cb4bf33440da12499":[7,0,0,0,1,1,0,0,1,1,117],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a975b6b17189a7f93683bfb50acb84013":[7,0,0,0,1,1,0,0,1,1,204],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a97a0db89d957b083b12457e11d5c904e":[7,0,0,0,1,1,0,0,1,1,148],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a97f668c24e6e942cfe5358128612e4b2":[7,0,0,0,1,1,0,0,1,1,142],
@@ -241,13 +249,5 @@ var NAVTREEINDEX371 =
 "de/da5/vmapexport_8cpp.html#a8f05dfc74cc4db726161d81ab714bfe1":[7,0,0,0,3,4,12,10],
 "de/da5/vmapexport_8cpp.html#a995d89b97dfb31a6a8c1c4e1c96d47f4":[7,0,0,0,3,4,12,11],
 "de/da5/vmapexport_8cpp.html#aab524156a5705c5cd09f96106eaac92d":[7,0,0,0,3,4,12,4],
-"de/da5/vmapexport_8cpp.html#ac9e88429cc2168db83793cb7074bc69f":[7,0,0,0,3,4,12,12],
-"de/da5/vmapexport_8cpp.html#ae79cb6c3493a63f0e1058be3bd5ba328":[7,0,0,0,3,4,12,20],
-"de/da5/vmapexport_8cpp.html#aeb9ec80db9cddb3d9ab2303f2a825d0b":[7,0,0,0,3,4,12,18],
-"de/da5/vmapexport_8cpp.html#afc9839262206eb10094c1769141ae146":[7,0,0,0,3,4,12,3],
-"de/da6/boss__prince__malchezaar_8cpp.html":[7,0,0,0,1,3,2,4,7],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4":[7,0,0,0,1,3,2,4,7,5],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ab9ec1415fb27c06f233c0de1a05d3ab1":[7,0,0,0,1,3,2,4,7,5,1],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4ae01caa8a3a49c7815ab75eb7f901a63d":[7,0,0,0,1,3,2,4,7,5,0],
-"de/da6/boss__prince__malchezaar_8cpp.html#a1b10b77865251702395e967f7d08cba4af80aaa14ff05f8c4fbfb1b502997d25b":[7,0,0,0,1,3,2,4,7,5,2]
+"de/da5/vmapexport_8cpp.html#ac9e88429cc2168db83793cb7074bc69f":[7,0,0,0,3,4,12,12]
 };

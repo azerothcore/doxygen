@@ -1,5 +1,13 @@
 var NAVTREEINDEX365 =
 {
+"de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[7,0,0,0,1,2,39,8,1],
+"de/d6d/classServerOpcodeHandler.html":[4,1,8],
+"de/d6e/classnpc__dalaran__mage.html":[6,0,1722],
+"de/d6e/classnpc__dalaran__mage.html#a764d637ab0c64e2a0cc0459269974d6d":[6,0,1722,1],
+"de/d6e/classnpc__dalaran__mage.html#ae2deef0546e2bf0df562e0a67b8b0b93":[6,0,1722,2],
+"de/d6e/structAUTH__LOGON__PROOF__S.html":[6,0,292],
+"de/d6e/structAUTH__LOGON__PROOF__S.html#a2199b33bc93fb6a8add5ba36eab0514e":[6,0,292,4],
+"de/d6e/structAUTH__LOGON__PROOF__S.html#a5846630b9df94b9f4784e59e7f320257":[6,0,292,1],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#a5cbbda99be5cd0549dd43fc0e546007e":[6,0,292,2],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#aa8e111f748d165f854b2deff5a81577f":[6,0,292,0],
 "de/d6e/structAUTH__LOGON__PROOF__S.html#ad05c428ccd8fbdce40dc4f337de19fb8":[6,0,292,5],
@@ -238,16 +246,8 @@ var NAVTREEINDEX365 =
 "de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[6,0,1968,0],
 "de/d74/Group_8cpp.html":[7,0,0,0,1,2,20,0],
 "de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[7,0,0,0,1,2,20,0,0],
-"de/d74/classnpc__ulduar__toasty__fire.html":[6,0,2241],
-"de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2241,2],
-"de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2241,1],
-"de/d75/classDelayedSummonEvent.html":[6,0,976],
-"de/d75/classDelayedSummonEvent.html#a24d72110a070eb0bd03af081ef616de4":[6,0,976,2],
-"de/d75/classDelayedSummonEvent.html#a2a21cc6387b3605ed4f09cad80a6168a":[6,0,976,3],
-"de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,976,0],
-"de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,976,1],
-"de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,976,4],
-"de/d75/classspell__dk__death__pact.html":[6,0,2765],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2765,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2765,1]
+"de/d74/classnpc__ulduar__toasty__fire.html":[6,0,2242],
+"de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2242,2],
+"de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2242,1],
+"de/d75/classDelayedSummonEvent.html":[6,0,976]
 };

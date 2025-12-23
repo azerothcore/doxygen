@@ -5808,6 +5808,7 @@ var hierarchy =
           [ "npc_tournament_training_dummy::npc_tournament_training_dummyAI", "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html", null ],
           [ "npc_toxic_slime", "dd/df0/structnpc__toxic__slime.html", null ],
           [ "npc_training_dummy::npc_training_dummyAI", "d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html", null ],
+          [ "npc_traveler_mammoth_vendor", "d8/d2e/structnpc__traveler__mammoth__vendor.html", null ],
           [ "npc_troll_volunteer::npc_troll_volunteerAI", "d1/d21/structnpc__troll__volunteer_1_1npc__troll__volunteerAI.html", null ],
           [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html", null ],
           [ "npc_twilight_summon::npc_twilight_summonAI", "df/d9b/structnpc__twilight__summon_1_1npc__twilight__summonAI.html", null ],
