@@ -1,5 +1,6 @@
 var NAVTREEINDEX375 =
 {
+"de/dc4/CircularBuffer_8h.html":[7,0,0,0,0,15,3],
 "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html":[6,0,1625,0],
 "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a13d25bf1612086cc4bb5bc2078105f18":[6,0,1625,0,1],
 "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a15b1acc73108c6802dbf3ac2ed0734c9":[6,0,1625,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX375 =
 "de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[7,0,0,0,1,2,0,1,0],
 "de/dd9/AccountMgr_8h.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,0,0,1,2,0,1,7],
 "de/dd9/AccountMgr_8h.html#a2a6c83e2d4e6121855beb252f23c905b":[7,0,0,0,1,2,0,1,4],
-"de/dd9/AccountMgr_8h.html#a2f5fb2cf0c24e610c09ac734be93c7a9":[7,0,0,0,1,2,0,1,17],
-"de/dd9/AccountMgr_8h.html#a30b6e5cf1733f0143f86aaeff600215c":[7,0,0,0,1,2,0,1,14]
+"de/dd9/AccountMgr_8h.html#a2f5fb2cf0c24e610c09ac734be93c7a9":[7,0,0,0,1,2,0,1,17]
 };

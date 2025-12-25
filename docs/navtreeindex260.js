@@ -242,12 +242,12 @@ var NAVTREEINDEX260 =
 "da/d82/structDestructibleModelDataEntry.html#a84d606d69c51f5e1fdecf9bc0f5705be":[6,0,980,0],
 "da/d82/structDestructibleModelDataEntry.html#aa4e1e6be7b5b1d15872fb310c1c299af":[6,0,980,3],
 "da/d82/structDestructibleModelDataEntry.html#afc891df0c9491a34f784e8f141434be5":[6,0,980,1],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,31,7,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[6,0,11,7,15],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,31,7,15,1],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,31,7,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[6,0,11,7,15,1],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,31,7,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[6,0,11,7,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,31,7,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,31,7,15,3],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[6,0,11,7,15,3]
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[6,0,11,7,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,31,7,15,3]
 };

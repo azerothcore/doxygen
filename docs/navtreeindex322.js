@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"dd/d1f/structnpc__arcanite__dragonling.html#a9b7e4cefa312a16c90018d655ad94758":[6,0,1608,0],
 "dd/d1f/structnpc__arcanite__dragonling.html#aebe430b9a3079a5ccbfd979a74e532f3":[6,0,1608,5],
 "dd/d22/classspell__red__sky__effect.html":[6,0,3737],
 "dd/d22/classspell__red__sky__effect.html#a31fdc4d630a4a6647d2a9b1100aecdad":[6,0,3737,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dd/d27/structSmartAction.html#a5e6a4daf2d6e10f5d07b3d7a2eae37f7":[6,0,2559,291],
 "dd/d27/structSmartAction.html#a5eefeb95a2fa3000ec244d83528aa3a4":[6,0,2559,199],
 "dd/d27/structSmartAction.html#a5fe45da32ba01c1ce2cdfb9c87140f0b":[6,0,2559,104],
-"dd/d27/structSmartAction.html#a622f16ef99b42106e5ddec59f549f41a":[6,0,2559,23],
-"dd/d27/structSmartAction.html#a62e2657f90bc0d133f3a37686716a7a0":[6,0,2559,292]
+"dd/d27/structSmartAction.html#a622f16ef99b42106e5ddec59f549f41a":[6,0,2559,23]
 };

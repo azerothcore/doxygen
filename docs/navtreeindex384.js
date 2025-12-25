@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a9d175a8de69f15c3f8eadf237f68e84a":[6,0,11,6,40,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,289,16],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[6,0,289,16,0],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html#a63cf373d469af72bc96a3e72351e3256":[6,0,289,16,3],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#adddf594d9468b16455da6e2aef683d44":[6,0,289,16,2],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#af5098bcedac048808e11bf2f82d705a7":[6,0,289,16,1]
+"df/d3d/classAuraScript_1_1ScriptStateStore.html#adddf594d9468b16455da6e2aef683d44":[6,0,289,16,2]
 };

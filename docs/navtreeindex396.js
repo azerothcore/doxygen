@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7":[7,0,0,0,0,9,3,1,13],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2":[7,0,0,0,0,9,3,1,8],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81":[7,0,0,0,0,9,3,1,10],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3":[7,0,0,0,0,9,3,1,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[6,0,3111,0],
 "df/dd9/classUnit.html":[6,0,4230],
 "df/dd9/classUnit.html#a000570a88dd253d3746e6ff5ac1c918b":[6,0,4230,408],
-"df/dd9/classUnit.html#a000c04b10ef04a72e5ccc10da3338c06":[6,0,4230,336],
-"df/dd9/classUnit.html#a008966d0caec959bee0e00910870804d":[6,0,4230,160]
+"df/dd9/classUnit.html#a000c04b10ef04a72e5ccc10da3338c06":[6,0,4230,336]
 };

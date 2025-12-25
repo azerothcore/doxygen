@@ -1,5 +1,6 @@
 var NAVTREEINDEX339 =
 {
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,1,1,2,30,1],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc65d63f8314014fe67d0ed998bf552e":[7,0,0,0,1,3,5,1,1,2,30,19],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adeb0fb1e137ba8b9c897fe50bf05c1e8":[7,0,0,0,1,3,5,1,1,2,30,20],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afaf6200614150c4f6cda75640ae1005c":[7,0,0,0,1,3,5,1,1,2,30,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/de2/classboss__kelthuzad.html#a52b0988d0ee9e41c8a7911f2d2460442":[6,0,571,1],
 "dd/de2/classboss__kelthuzad.html#acf19b29d6c1eb0052baa7ff491f6a050":[6,0,571,2],
 "dd/de2/classspell__summon__toxin__slime.html":[6,0,3864],
-"dd/de2/classspell__summon__toxin__slime.html#a65818c4421ea83869d36a116d1bc6d2c":[6,0,3864,0],
-"dd/de2/classspell__summon__toxin__slime.html#a752d697aada626440fdff2bd889f890f":[6,0,3864,2]
+"dd/de2/classspell__summon__toxin__slime.html#a65818c4421ea83869d36a116d1bc6d2c":[6,0,3864,0]
 };

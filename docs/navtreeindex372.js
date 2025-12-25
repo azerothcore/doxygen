@@ -1,5 +1,6 @@
 var NAVTREEINDEX372 =
 {
+"de/da5/vmapexport_8cpp.html#ac9e88429cc2168db83793cb7074bc69f":[7,0,0,0,3,4,12,12],
 "de/da5/vmapexport_8cpp.html#ae79cb6c3493a63f0e1058be3bd5ba328":[7,0,0,0,3,4,12,20],
 "de/da5/vmapexport_8cpp.html#aeb9ec80db9cddb3d9ab2303f2a825d0b":[7,0,0,0,3,4,12,18],
 "de/da5/vmapexport_8cpp.html#afc9839262206eb10094c1769141ae146":[7,0,0,0,3,4,12,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX372 =
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5dadd0d0bff2da4e5ccd02f7276f3a77":[7,0,0,0,1,3,5,18,55,11],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a5fc9b09599e278ae70a72431be195ed7":[7,0,0,0,1,3,5,18,55,6],
 "de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7797f64b35d33c8aec96cd470e132670":[7,0,0,0,1,3,5,18,55,3],
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7ee5680f5eb2a13945e7a043158123ac":[7,0,0,0,1,3,5,18,55,4],
-"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a87a8544d0aed9cd7282f6b18b8dd34dd":[7,0,0,0,1,3,5,18,55,2]
+"de/da6/zone__dragonblight_8cpp.html#affa0ad7ba176996ebf90c8c0d347e809a7ee5680f5eb2a13945e7a043158123ac":[7,0,0,0,1,3,5,18,55,4]
 };

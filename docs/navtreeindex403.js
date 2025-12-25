@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/de7/classOutdoorPvPTF.html#a6ff61d4338983b61f653d6780c96c8d0":[6,0,2358,5],
 "df/de7/classOutdoorPvPTF.html#a7a99a565db9930f322071e667df913d8":[6,0,2358,20],
 "df/de7/classOutdoorPvPTF.html#a993b5e28423be75745c13d3514defe15":[6,0,2358,13],
 "df/de7/classOutdoorPvPTF.html#aa99c8348cd06f182cdeabbde02ae1e76":[6,0,2358,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/df3/structboss__grand__warlock__nethekurse.html#ac7d0737aa28c51cc63d93b8774e536f0":[6,0,509,11],
 "df/df3/structboss__grand__warlock__nethekurse.html#aca0bd4c71aafd2d1c54e2ca87d538e9a":[6,0,509,9],
 "df/df3/structboss__grand__warlock__nethekurse.html#aceef7aace38f5246ad67a1591b7f301c":[6,0,509,7],
-"df/df3/structboss__grand__warlock__nethekurse.html#ae071f8cc7ef44e6c6cf205295debea5f":[6,0,509,2],
-"df/df3/structboss__grand__warlock__nethekurse.html#afe62561de66fbe7fa92c365a51f01adc":[6,0,509,5]
+"df/df3/structboss__grand__warlock__nethekurse.html#ae071f8cc7ef44e6c6cf205295debea5f":[6,0,509,2]
 };

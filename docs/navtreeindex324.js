@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff":[7,0,0,0,1,3,2,12,7,3,5],
 "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a714c38738ede08215fb54db2648e3bf2":[7,0,0,0,1,3,2,12,7,3,6],
 "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5":[7,0,0,0,1,3,2,12,7,3,2],
 "dd/d2c/sunwell__plateau_8h.html#a6a8e02a45c1f96a77680add79636d4d8a9cfa5bdc17e1d5a590d300b530b36a25":[7,0,0,0,1,3,2,12,7,3,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
-"dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12]
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2]
 };

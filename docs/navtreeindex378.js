@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/df7/classWorldPackets_1_1Packet.html":[6,0,11,22],
 "de/df7/classWorldPackets_1_1Packet.html":[5,0,31,22],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[5,0,31,22,2],
 "de/df7/classWorldPackets_1_1Packet.html#a00213b64110a99004b3d9a6b38876cd4":[6,0,11,22,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "df/d09/TerrainBuilder_8cpp.html#a661f965d11d7da56890b64484d871441":[7,0,0,0,3,2,8,8],
 "df/d09/TerrainBuilder_8cpp.html#a6d257e0effb928fba7534eeee5de602d":[7,0,0,0,3,2,8,11],
 "df/d09/TerrainBuilder_8cpp.html#a8c5ddef856ef804076860bb176c6d9e1":[7,0,0,0,3,2,8,15],
-"df/d09/TerrainBuilder_8cpp.html#aa56f76510545ed9c706b8fee3061b6cb":[7,0,0,0,3,2,8,12],
-"df/d09/TerrainBuilder_8cpp.html#aa5c2437972b2be5c5ff23a7ac04e2680":[7,0,0,0,3,2,8,5]
+"df/d09/TerrainBuilder_8cpp.html#aa56f76510545ed9c706b8fee3061b6cb":[7,0,0,0,3,2,8,12]
 };

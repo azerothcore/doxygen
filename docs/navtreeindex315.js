@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[7,0,0,0,1,3,2,16,7,10,4],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae23fc4981b044e0c1934de2157bd5ca1":[7,0,0,0,1,3,2,16,7,10,6],
 "dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[7,0,0,0,1,3,2,16,7,16],
 "dc/dbd/classinstance__scarlet__monastery.html":[6,0,1331],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,69,5],
 "dc/dd2/classboss__hadronox.html":[6,0,518],
 "dc/dd2/classboss__hadronox.html#a90bf0ecb218e30e61852baffeabc3dc1":[6,0,518,2],
-"dc/dd2/classboss__hadronox.html#ae3457fd6108cc350cf9eedab3178f781":[6,0,518,1],
-"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html":[6,0,1635,0]
+"dc/dd2/classboss__hadronox.html#ae3457fd6108cc350cf9eedab3178f781":[6,0,518,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"dd/d03/structPacketHeader.html#abe8700ec99d55a66b22f8fbb28c833fa":[6,0,2368,2],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html":[6,0,1882,0],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a11b411dd0b5a32a7bdd0c44242a42372":[6,0,1882,0,5],
 "dd/d03/structnpc__illidari__spawn_1_1npc__illidari__spawnAI.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e":[6,0,1882,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#abb61bde3297dae343db32cd689decbcb":[6,0,424,0,18],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac18af44a38a78e43d9754495da21dd17":[6,0,424,0,6],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac371fbdd47841f4247d7d1a082fea20c":[6,0,424,0,16],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac45f8f405a06a256dbf5194c601699d8":[6,0,424,0,20],
-"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac4a283227cba48181cb440b77ded253f":[6,0,424,0,10]
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac45f8f405a06a256dbf5194c601699d8":[6,0,424,0,20]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX340 =
 {
+"dd/de2/classspell__summon__toxin__slime.html#a752d697aada626440fdff2bd889f890f":[6,0,3864,2],
 "dd/de2/classspell__summon__toxin__slime.html#a9e568a1608715973fc438ff5e4356714":[6,0,3864,1],
 "dd/de4/classnpc__air__force__bots.html":[6,0,1577],
 "dd/de4/classnpc__air__force__bots.html#a00b8f274bde3260a113ea21e0f68cdf8":[6,0,1577,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX340 =
 "dd/dfa/classspell__shadow__bolt__whirl.html#aa03222717b3c06316b232a6ac0270ec0":[6,0,3824,3],
 "dd/dfa/classspell__shadow__bolt__whirl.html#aab7f5c5bdfdd2b440f59f16ab321765a":[6,0,3824,1],
 "dd/dfa/structboss__nightbane.html":[6,0,642],
-"dd/dfa/structboss__nightbane.html#a097feecad913478440092a818b6b6f38":[6,0,642,18],
-"dd/dfa/structboss__nightbane.html#a0bf6d0a9bc0be2532f5d367758f03446":[6,0,642,4]
+"dd/dfa/structboss__nightbane.html#a097feecad913478440092a818b6b6f38":[6,0,642,18]
 };

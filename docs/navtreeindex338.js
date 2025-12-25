@@ -1,5 +1,6 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40e77434f465796503894bb925a102a0":[7,0,0,0,1,3,5,0,1,1,5,5],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6":[7,0,0,0,1,3,5,0,1,1,5,9],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ead9e8f3e9c529e31b9b40545bb916a":[7,0,0,0,1,3,5,0,1,1,5,8],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac19ae1fe556e9550431bdd7f1f984ac0":[7,0,0,0,1,3,5,0,1,1,5,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aabbfd7fc77093f972c5db308ddc4d569":[7,0,0,0,1,3,5,1,1,2,30,5],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae289067ddab0330b912fe3480d599dc":[7,0,0,0,1,3,5,1,1,2,30,13],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab1b40c3879b304d808c3daec16a0adbc":[7,0,0,0,1,3,5,1,1,2,30,2],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acccc10750650899f49717b32461f8572":[7,0,0,0,1,3,5,1,1,2,30,10],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,1,1,2,30,1]
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acccc10750650899f49717b32461f8572":[7,0,0,0,1,3,5,1,1,2,30,10]
 };

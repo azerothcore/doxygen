@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dd/d96/structnpc__buru__egg.html#a5b168226755a57368f17827e3457a0ca":[6,0,1670,5],
 "dd/d96/structnpc__buru__egg.html#a6aa2896342b802caecde1c1dffcf4907":[6,0,1670,0],
 "dd/d96/structnpc__buru__egg.html#a8cde6848569671876a17b00d75228ebe":[6,0,1670,2],
 "dd/d96/structnpc__buru__egg.html#abebb96dcb3d653bddd4210da6567fb87":[6,0,1670,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#a86e7512496fd38201d458c03a7a60296":[6,0,3907,2],
 "dd/da6/classspell__the__lich__king__ice__burst__target__search.html#af560e5c4e985e9b139999f5ef618fe3c":[6,0,3907,1],
 "dd/da8/classParallelogramBoundary.html":[6,0,2372],
-"dd/da8/classParallelogramBoundary.html#a3b3e3993d09af62bae7fbfe65f6d641a":[6,0,2372,9],
-"dd/da8/classParallelogramBoundary.html#a5214ac0f79f1d90492a77fbd251d1361":[6,0,2372,7]
+"dd/da8/classParallelogramBoundary.html#a3b3e3993d09af62bae7fbfe65f6d641a":[6,0,2372,9]
 };

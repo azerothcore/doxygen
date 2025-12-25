@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ac4a283227cba48181cb440b77ded253f":[6,0,424,0,10],
 "dd/d12/structboss__deathbringer__saurfang_1_1boss__deathbringer__saurfangAI.html#ae5615db7a2b5e62ae000c27ac72300de":[6,0,424,0,4],
 "dd/d13/classDBCFile.html":[6,0,960],
 "dd/d13/classDBCFile.html#a1078e933a1984bc8cd74126bbd217571":[6,0,960,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d1f/structnpc__arcanite__dragonling.html#a374e127ef749dc72ec70137bcd13a0b9":[6,0,1608,1],
 "dd/d1f/structnpc__arcanite__dragonling.html#a4468d91430add821bf7a7ab11d8063da":[6,0,1608,4],
 "dd/d1f/structnpc__arcanite__dragonling.html#a65f6d779681861117f750b70154b3e0d":[6,0,1608,3],
-"dd/d1f/structnpc__arcanite__dragonling.html#a921b35a91c4f21258efdb41fd87413db":[6,0,1608,2],
-"dd/d1f/structnpc__arcanite__dragonling.html#a9b7e4cefa312a16c90018d655ad94758":[6,0,1608,0]
+"dd/d1f/structnpc__arcanite__dragonling.html#a921b35a91c4f21258efdb41fd87413db":[6,0,1608,2]
 };

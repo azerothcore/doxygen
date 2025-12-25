@@ -1,5 +1,6 @@
 var NAVTREEINDEX362 =
 {
+"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277":[7,0,0,0,1,2,15,5,27,2],
 "de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba":[7,0,0,0,1,2,15,5,27,9],
 "de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128":[7,0,0,0,1,2,15,5,27,14],
 "de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16":[7,0,0,0,1,2,15,5,27,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX362 =
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#aacd60538c8410fc313a09b1044ad6c7a":[6,0,3862,4],
 "de/d4d/classspell__summon__noblegarden__bunny__controller.html#ad39da0510c21855dd74abd93f33621c9":[6,0,3862,1],
 "de/d4d/events__script__loader_8cpp.html":[7,0,0,0,1,3,3,3],
-"de/d4d/events__script__loader_8cpp.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e":[7,0,0,0,1,3,3,3,9],
-"de/d4d/events__script__loader_8cpp.html#a5b00ce0eeb1dcf64dc867f4bce623416":[7,0,0,0,1,3,3,3,0]
+"de/d4d/events__script__loader_8cpp.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e":[7,0,0,0,1,3,3,3,9]
 };

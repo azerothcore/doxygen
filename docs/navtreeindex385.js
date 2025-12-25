@@ -1,5 +1,6 @@
 var NAVTREEINDEX385 =
 {
+"df/d3d/classAuraScript_1_1ScriptStateStore.html#af5098bcedac048808e11bf2f82d705a7":[6,0,289,16,1],
 "df/d3d/classBfCapturePoint.html":[6,0,347],
 "df/d3d/classBfCapturePoint.html#a02eab1f489ee817d0b0263a57eb71ed2":[6,0,347,9],
 "df/d3d/classBfCapturePoint.html#a0f35096b5f4fb611ff4e2dd398c87a12":[6,0,347,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX385 =
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1572,0,0],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,78],
 "df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[6,0,2119,0],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html#a147921788b07f5e776e03aaf15049cf0":[6,0,2119,0,4]
+"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[6,0,2119,0]
 };

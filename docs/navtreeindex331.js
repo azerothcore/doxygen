@@ -1,5 +1,6 @@
 var NAVTREEINDEX331 =
 {
+"dd/d8d/DBCStores_8cpp.html#a29c6e85b6d644aea61237cd0b7978dce":[7,0,0,0,1,2,14,0,132],
 "dd/d8d/DBCStores_8cpp.html#a2aeaf8baea1aaf85ca9fe37004e531f3":[7,0,0,0,1,2,14,0,18],
 "dd/d8d/DBCStores_8cpp.html#a2c376fed2083a632a4d59389d8dc2dda":[7,0,0,0,1,2,14,0,140],
 "dd/d8d/DBCStores_8cpp.html#a3102be8c4050f49639a6748f21fa55a1":[7,0,0,0,1,2,14,0,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX331 =
 "dd/d96/structboss__warp__splinter.html#afc05b2f366e518d5e9ea3fbbfcba05cc":[6,0,782,2],
 "dd/d96/structnpc__buru__egg.html":[6,0,1670],
 "dd/d96/structnpc__buru__egg.html#a3de169b252374f0b2daed3ecb5a11502":[6,0,1670,1],
-"dd/d96/structnpc__buru__egg.html#a4d77f8b40ea8e936c9388aeff4927420":[6,0,1670,4],
-"dd/d96/structnpc__buru__egg.html#a5b168226755a57368f17827e3457a0ca":[6,0,1670,5]
+"dd/d96/structnpc__buru__egg.html#a4d77f8b40ea8e936c9388aeff4927420":[6,0,1670,4]
 };

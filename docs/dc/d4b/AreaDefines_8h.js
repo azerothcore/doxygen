@@ -75,6 +75,7 @@ var AreaDefines_8h =
       [ "AREA_EVERSONG_WOODS", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af9b5bcd5f783106dbbae607924aa54d5", null ],
       [ "AREA_GHOSTLANDS", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a5cf84d35e5bac9923c70a2a324eac652", null ],
       [ "AREA_HELLFIRE_PENINSULA", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3ae0ad2662cc4bd03a96e9f7bfa59d9e49", null ],
+      [ "AREA_SILVERMOON_CITY", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a7422346ecc61579538888933732cc307", null ],
       [ "AREA_NAGRAND", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a46d43d1cc08b0023eff6e30ce3337f8c", null ],
       [ "AREA_TEROKKAR_FOREST", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3aff9b5bec721b53b38aefa8015436fd31", null ],
       [ "AREA_SHADOWMOON_VALLEY", "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a4c9ffb086cb3f3078f269d28b4ac3431", null ],

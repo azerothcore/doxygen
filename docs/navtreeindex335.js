@@ -1,5 +1,6 @@
 var NAVTREEINDEX335 =
 {
+"dd/db3/classReputationMgr.html#a9239092547e4d414ac9acb0efbc9175b":[6,0,2491,42],
 "dd/db3/classReputationMgr.html#a92409ea5f59a8240fa43026b4edd9663":[6,0,2491,37],
 "dd/db3/classReputationMgr.html#a93b3d69fba645e49347825678c8f23f4":[6,0,2491,23],
 "dd/db3/classReputationMgr.html#a9630b6dd11afbe3ce28297a23b1b4c94":[6,0,2491,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX335 =
 "dd/dc7/razorfen__downs_8cpp.html#a72b7e5a7b680a19d8c3fe8378e61f1b9":[7,0,0,0,1,3,4,6,1,6],
 "dd/dc7/razorfen__downs_8cpp.html#aa1cc9839b8806bd940e01edfee8b8cee":[7,0,0,0,1,3,4,6,1,5],
 "dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afba":[7,0,0,0,1,3,4,6,1,4],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f":[7,0,0,0,1,3,4,6,1,4,12],
-"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa1a8dd12063e47b2533422a696ec5fe63":[7,0,0,0,1,3,4,6,1,4,1]
+"dd/dc7/razorfen__downs_8cpp.html#ab761030cc73179b77506cee80e54afbaa083570db82270d8a62a772524057254f":[7,0,0,0,1,3,4,6,1,4,12]
 };

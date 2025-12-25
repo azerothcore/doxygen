@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa007ed2c05914b1ce664d347bb04abaa":[6,0,681,0,11],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa34831a7c2986451ff518a76547edecc":[6,0,681,0,3],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,681,0,5],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaf47878572d23bfb22f2ae77fed8d95e":[6,0,681,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa492de4a30c157c0c81d1c736916340fd":[7,0,0,0,1,3,5,9,2,4,22,14],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,22,17],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa53b570ac1203fbe44290d3ff38438fa2":[7,0,0,0,1,3,5,9,2,4,22,20],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5a13d9572df552eeea3976e8a136430e":[7,0,0,0,1,3,5,9,2,4,22,1],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa65824e8e66e216b688c78a6275c150f5":[7,0,0,0,1,3,5,9,2,4,22,2]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5a13d9572df552eeea3976e8a136430e":[7,0,0,0,1,3,5,9,2,4,22,1]
 };

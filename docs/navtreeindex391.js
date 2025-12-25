@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d92/classSpellScript.html#a66d39d9b940e70f21e53ad254b7ab1e2":[6,0,4127,60],
 "df/d92/classSpellScript.html#a6850117c995152d98522696c9e518baf":[6,0,4127,20],
 "df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30":[6,0,4127,21],
 "df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3":[6,0,4127,66],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac203e34251b5f89370dd4e971b9ac20c":[7,0,0,0,1,3,4,9,5,2,6],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac98fdfb490fa896cecb40ae427f4ea75":[7,0,0,0,1,3,4,9,5,2,3],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ad1b32b1cb6f4f2623ab24da8eb0e090f":[7,0,0,0,1,3,4,9,5,2,5],
-"df/d9b/structboss__jarien.html":[6,0,558],
-"df/d9b/structboss__jarien.html#a06b02c7f7dff885a86609e0116f2fd96":[6,0,558,9]
+"df/d9b/structboss__jarien.html":[6,0,558]
 };

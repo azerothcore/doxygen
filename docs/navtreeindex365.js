@@ -1,5 +1,6 @@
 var NAVTREEINDEX365 =
 {
+"de/d6d/WorldSessionMgr_8h.html":[7,0,0,0,1,2,39,8],
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[7,0,0,0,1,2,39,8,1],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
 "de/d6e/classnpc__dalaran__mage.html":[6,0,1722],
@@ -248,6 +249,5 @@ var NAVTREEINDEX365 =
 "de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[7,0,0,0,1,2,20,0,0],
 "de/d74/classnpc__ulduar__toasty__fire.html":[6,0,2242],
 "de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2242,2],
-"de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2242,1],
-"de/d75/classDelayedSummonEvent.html":[6,0,976]
+"de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2242,1]
 };

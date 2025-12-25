@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dd/d51/structGroupQueueInfo.html#af4ad41d00ee448097eb4b7e468f336f8":[6,0,1233,6],
 "dd/d51/structGroupQueueInfo.html#af6bac7c32a8e3e7faf647a4f6b6722a0":[6,0,1233,8],
 "dd/d52/WardenModuleMac_8h.html":[7,0,0,0,1,2,46,0,0],
 "dd/d52/WardenModuleMac_8h.html#a650e9d2ed03f4896b697097e2116298e":[7,0,0,0,1,2,46,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dd/d5e/structgo__firework__show.html#a42123490a9752f2187023f3f3ae56333":[6,0,1148,0],
 "dd/d5e/structgo__firework__show.html#a4392d7e2cffa2342b53092cbd9ccea3f":[6,0,1148,8],
 "dd/d5e/structgo__firework__show.html#a6248d36087d8fae9cfa47f473613f886":[6,0,1148,7],
-"dd/d5e/structgo__firework__show.html#a6e9ce552bf040f2acce49c2e3eb70bab":[6,0,1148,2],
-"dd/d5e/structgo__firework__show.html#a92613337cf2473e585b98b92bdcbce92":[6,0,1148,6]
+"dd/d5e/structgo__firework__show.html#a6e9ce552bf040f2acce49c2e3eb70bab":[6,0,1148,2]
 };

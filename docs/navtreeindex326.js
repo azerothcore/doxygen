@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a77234a8f4ec9c687b194a8c332820609":[6,0,2270,0,4],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a810c0c03317672d5a4a904a1e96cbba9":[6,0,2270,0,1],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd72c6ae18b84cee94a295e51fae9ac3":[6,0,2270,0,8],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd7a8c972db52077f8b02317f5398ff0":[6,0,2270,0,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d51/structGroupQueueInfo.html#adf219cc12cebeaddebf8c04c5004c30a":[6,0,1233,11],
 "dd/d51/structGroupQueueInfo.html#ae5912a881a5ecaa761ea28c87e6c45ad":[6,0,1233,12],
 "dd/d51/structGroupQueueInfo.html#aebaba68d0d75e08eb909975d70ab7084":[6,0,1233,0],
-"dd/d51/structGroupQueueInfo.html#aefe5994744194e7db9110fb36fa9c4bb":[6,0,1233,15],
-"dd/d51/structGroupQueueInfo.html#af4ad41d00ee448097eb4b7e468f336f8":[6,0,1233,6]
+"dd/d51/structGroupQueueInfo.html#aefe5994744194e7db9110fb36fa9c4bb":[6,0,1233,15]
 };

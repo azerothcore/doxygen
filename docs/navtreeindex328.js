@@ -1,5 +1,6 @@
 var NAVTREEINDEX328 =
 {
+"dd/d5e/structgo__firework__show.html#a92613337cf2473e585b98b92bdcbce92":[6,0,1148,6],
 "dd/d5e/structgo__firework__show.html#ad1bcb7a47652d62ed8633abdafc56881":[6,0,1148,5],
 "dd/d5e/structgo__firework__show.html#ad84f3dbb4692d03933d972ec7be6287d":[6,0,1148,4],
 "dd/d5e/structgo__firework__show.html#ae7e870de692c61630d0fd2f44d487aa4":[6,0,1148,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX328 =
 "dd/d76/structboss__mor__grayhoof.html#a043f6ee099efd0d49982b2966604e65a":[6,0,627,4],
 "dd/d76/structboss__mor__grayhoof.html#a164a911eb9a86964a61866c05d44512f":[6,0,627,2],
 "dd/d76/structboss__mor__grayhoof.html#a40bf6a66aefe7a605d94526b5a586ba6":[6,0,627,7],
-"dd/d76/structboss__mor__grayhoof.html#a8baa606696dc8acf532e8badfc6c624b":[6,0,627,9],
-"dd/d76/structboss__mor__grayhoof.html#aa98fbfc5cc4ee94e0323d8586dae1e1c":[6,0,627,3]
+"dd/d76/structboss__mor__grayhoof.html#a8baa606696dc8acf532e8badfc6c624b":[6,0,627,9]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"dc/d90/classachievement__volunteer__work.html":[6,0,99],
 "dc/d90/classachievement__volunteer__work.html#a43db6e553b370f139ac376840fdf6d70":[6,0,99,0],
 "dc/d90/classachievement__volunteer__work.html#abdbbe9165d3d72d76fe685ebce5e304d":[6,0,99,1],
 "dc/d90/classboss__freya__iron__root.html":[6,0,483],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aaa721075fb8f1fbfda9da8c1de49f63c":[7,0,0,0,1,2,16,7,16,6,12],
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aab82fe99f624c60d99d079170e153c20":[7,0,0,0,1,2,16,7,16,6,14],
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aafe1750fe69053e1f187e49ee71dbe2d":[7,0,0,0,1,2,16,7,16,6,19],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6ab4dc9cfb6e966bdaf10deafaea3728a7":[7,0,0,0,1,2,16,7,16,6,9],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6abbe1415289fe7fc9fa30ab86ce3e228a":[7,0,0,0,1,2,16,7,16,6,5]
+"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6ab4dc9cfb6e966bdaf10deafaea3728a7":[7,0,0,0,1,2,16,7,16,6,9]
 };

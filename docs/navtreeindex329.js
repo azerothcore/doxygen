@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"dd/d76/structboss__mor__grayhoof.html#aa98fbfc5cc4ee94e0323d8586dae1e1c":[6,0,627,3],
 "dd/d76/structboss__mor__grayhoof.html#aaa6a1a9b6e4259aea46d2f25bca3b809":[6,0,627,6],
 "dd/d76/structboss__mor__grayhoof.html#ac62d7d30b12d0c2da9553b9689091e0e":[6,0,627,10],
 "dd/d76/structboss__mor__grayhoof.html#ad2a897281d308475957e2636c6536fdd":[6,0,627,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "dd/d7f/boss__mor__grayhoof_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,1,1,6,3,1],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,1,1,6,3,0],
 "dd/d80/cs__group_8cpp.html":[7,0,0,0,1,3,0,18],
-"dd/d80/cs__group_8cpp.html#ac4c9434ed910cd9636e0a8644a8e91e1":[7,0,0,0,1,3,0,18,1],
-"dd/d80/structCharmInfo.html":[6,0,864]
+"dd/d80/cs__group_8cpp.html#ac4c9434ed910cd9636e0a8644a8e91e1":[7,0,0,0,1,3,0,18,1]
 };

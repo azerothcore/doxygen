@@ -1,5 +1,6 @@
 var NAVTREEINDEX369 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cadc1698100d98eeecb36b674a45bb6882":[7,0,0,0,1,3,7,1,4,8,3],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caee23d696e0b1a8b4c5ebe94b68ce4d23":[7,0,0,0,1,3,7,1,4,8,12],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caf2f1748e889c54c95cd307dad0a08df7":[7,0,0,0,1,3,7,1,4,8,16],
 "de/d97/boss__mother__shahraz_8cpp.html#a8f6047bf081000d04bc3e62773bb940d":[7,0,0,0,1,3,7,1,4,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX369 =
 "de/da5/CharacterDatabase_8h.html":[7,0,0,0,1,1,0,0,1],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7":[7,0,0,0,1,1,0,0,1,1],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a005b347f56b0d5dd4586f6ef2f232406":[7,0,0,0,1,1,0,0,1,1,48],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a00955da44994cc15fa73659a95358c40":[7,0,0,0,1,1,0,0,1,1,38],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0095b49db02518c869fe8366ca9af08a":[7,0,0,0,1,1,0,0,1,1,169]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a00955da44994cc15fa73659a95358c40":[7,0,0,0,1,1,0,0,1,1,38]
 };

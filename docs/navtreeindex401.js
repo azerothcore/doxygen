@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/dd9/classWorldPackets_1_1Array.html#a03f40f93fb06fb760db6c33e10a3b32e":[6,0,11,15,3],
 "df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[6,0,11,15,7],
 "df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[5,0,31,15,7],
 "df/dd9/classWorldPackets_1_1Array.html#a3708388e67428fe0ebefb4e71c069939":[6,0,11,15,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/dda/structboss__bjarngrim.html#ad150ab7d9837861e8c4673a78978bb11":[6,0,399,3],
 "df/dda/structboss__bjarngrim.html#ad72abbd2eaa7d56fd1b409ffd2980d87":[6,0,399,11],
 "df/dda/structboss__bjarngrim.html#aec11755c71f056c8294a8af1c1084353":[6,0,399,12],
-"df/dda/structnpc__crystalline__frayer.html":[6,0,1715],
-"df/dda/structnpc__crystalline__frayer.html#a2580575a58353e8cb94561bafd74f502":[6,0,1715,1]
+"df/dda/structnpc__crystalline__frayer.html":[6,0,1715]
 };

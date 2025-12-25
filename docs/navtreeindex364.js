@@ -1,5 +1,6 @@
 var NAVTREEINDEX364 =
 {
+"de/d5e/classGridTerrainData.html#acacaa661126e761a863b5490a3e78e73":[6,0,1227,13],
 "de/d5e/classGridTerrainData.html#adc73b5d06468dbf30b7b6507f6ac6474":[6,0,1227,5],
 "de/d5e/classGridTerrainData.html#ae50db87879b0b0bca66f0f0a625e2bc9":[6,0,1227,15],
 "de/d5e/classGridTerrainData.html#aea51fcf34105d685405203093ce67085":[6,0,1227,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX364 =
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[6,0,5,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
 "de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
-"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,18,19,3],
-"de/d6d/WorldSessionMgr_8h.html":[7,0,0,0,1,2,39,8]
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,18,19,3]
 };
