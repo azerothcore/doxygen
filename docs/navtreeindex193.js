@@ -1,5 +1,7 @@
 var NAVTREEINDEX193 =
 {
+"d7/d83/WheatyExceptionReport_8h.html#af0ea7a682b4d48afbc37a32234271526af227727df84cd9c4731d00bf548af774":[7,0,0,0,0,5,3,9,6],
+"d7/d83/classnpc__ulduar__dark__rune__watcher.html":[6,0,2218],
 "d7/d83/classnpc__ulduar__dark__rune__watcher.html#a0536c61d70d5c6d61496fc1720d37950":[6,0,2218,1],
 "d7/d83/classnpc__ulduar__dark__rune__watcher.html#a6677d6dc0d07b508e921064f3299b302":[6,0,2218,2],
 "d7/d83/classspell__gen__valthalak__amulet.html":[6,0,3045],
@@ -247,7 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d91/classInstanceSave.html#a92ce355e9be7f83d53307b6dcd354c5d":[6,0,1364,10],
 "d7/d91/classInstanceSave.html#a94577295c43dc90262381beff84f5f91":[6,0,1364,5],
 "d7/d91/classInstanceSave.html#a94ad997458e97d7b7548ccbd88f3ac63":[6,0,1364,14],
-"d7/d91/classInstanceSave.html#a9ff182259d44acaa470cebb36d788c39":[6,0,1364,1],
-"d7/d91/classInstanceSave.html#aa9742adc281c69f28651e9c64541f820":[6,0,1364,25],
-"d7/d91/classInstanceSave.html#aba8d512041c8485f49eef8c1fafce729":[6,0,1364,3]
+"d7/d91/classInstanceSave.html#a9ff182259d44acaa470cebb36d788c39":[6,0,1364,1]
 };

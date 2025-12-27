@@ -1,5 +1,8 @@
 var NAVTREEINDEX375 =
 {
+"de/dc3/structTrainerSpellData.html#a9bd25177856f54fa2eda882627b21644":[6,0,4197,1],
+"de/dc3/structTrainerSpellData.html#ab58a8a4ca9d8b609131e7f8b3ec507c9":[6,0,4197,0],
+"de/dc3/structTrainerSpellData.html#acee027787f06b4186b781bbd0d7db781":[6,0,4197,2],
 "de/dc4/CircularBuffer_8h.html":[7,0,0,0,0,15,3],
 "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html":[6,0,1625,0],
 "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html#a13d25bf1612086cc4bb5bc2078105f18":[6,0,1625,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX375 =
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4":[7,0,0,0,1,2,0,1,3,1],
 "de/dd9/AccountMgr_8h.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c":[7,0,0,0,1,2,0,1,3,2],
 "de/dd9/AccountMgr_8h.html#a120323b16b2a5aefa6aa69e8be5ccef6":[7,0,0,0,1,2,0,1,9],
-"de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[7,0,0,0,1,2,0,1,0],
-"de/dd9/AccountMgr_8h.html#a17c28dfcb31af8f4241bb5210408185a":[7,0,0,0,1,2,0,1,7],
-"de/dd9/AccountMgr_8h.html#a2a6c83e2d4e6121855beb252f23c905b":[7,0,0,0,1,2,0,1,4],
-"de/dd9/AccountMgr_8h.html#a2f5fb2cf0c24e610c09ac734be93c7a9":[7,0,0,0,1,2,0,1,17]
+"de/dd9/AccountMgr_8h.html#a134ebf22666a6525929447b2d869d400":[7,0,0,0,1,2,0,1,0]
 };

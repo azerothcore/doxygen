@@ -1,5 +1,6 @@
 var NAVTREEINDEX11 =
 {
+"d0/d80/structRuneInfo.html#a2cebb551231f0364a1751e5d1a37fcda":[6,0,2505,3],
 "d0/d80/structRuneInfo.html#a3fa13f205dbaaca5bdcc7406f73b4e6a":[6,0,2505,4],
 "d0/d80/structRuneInfo.html#a41c55cb4c1b3f69c6a424359f60e34e1":[6,0,2505,1],
 "d0/d80/structRuneInfo.html#a8eeb0f5208c29d43ab493a22f73eb0a6":[6,0,2505,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a69103ac7514406637b8bd95fddbac631":[7,0,0,0,1,3,5,9,2,11,30,38],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a6d7358f227167cf0ff223b06d380d9ef":[7,0,0,0,1,3,5,9,2,11,30,13],
 "d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a74efbfbc358f01ad96a6e402941ee122":[7,0,0,0,1,3,5,9,2,11,30,22],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,9,2,11,30,42],
-"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7c1f1fdc40dc4a782470807d58569707":[7,0,0,0,1,3,5,9,2,11,30,7]
+"d0/d89/boss__thorim_8cpp.html#ac71fe47fa9bb83bb8135ba497b2fc445a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,9,2,11,30,42]
 };

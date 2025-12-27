@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a55ad3a18fc657ea6009efa0fd4f830d6":[7,0,0,0,1,2,8,1,11,15,66],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a56c5c775051bb8a54fb3df841fc5ad45":[7,0,0,0,1,2,8,1,11,15,44],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a57fb87436853ffa861ebbf54c37ec4f5":[7,0,0,0,1,2,8,1,11,15,8],
 "d0/d91/BattlegroundIC_8h.html#ad7f24897e9dbc767d3c6f242c4d14417a5b2218469c1fcf0afa122fcbd6298bcf":[7,0,0,0,1,2,8,1,11,15,5],
@@ -247,7 +248,6 @@ var NAVTREEINDEX14 =
 "d0/d9b/structboss__dalronn__the__controller.html#aad89cfa81c69058adc633e85ded5b4e3":[6,0,421,3],
 "d0/d9b/structboss__dalronn__the__controller.html#ac2845d24aa036372cd0084d2b5e8090b":[6,0,421,10],
 "d0/d9b/structboss__dalronn__the__controller.html#ad11e43d40a61f093b5e51482437467b8":[6,0,421,1],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[5,0,1,98],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[6,0,0,86],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[6,0,0,86,2]
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[5,0,1,98]
 };

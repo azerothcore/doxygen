@@ -1,5 +1,7 @@
 var NAVTREEINDEX276 =
 {
+"db/d23/classspell__warr__retaliation.html#aeffb8490a7208ae6e32a505283afbc03":[6,0,4042,2],
+"db/d23/classspell__warr__retaliation.html#af01d160cb2a55124361a2dd113acd0a7":[6,0,4042,1],
 "db/d24/classspell__image__of__drakuru__reagent__check.html":[6,0,3211],
 "db/d24/classspell__image__of__drakuru__reagent__check.html#a2ad2c00807d07aeb55a8fd848a69f9d1":[6,0,3211,2],
 "db/d24/classspell__image__of__drakuru__reagent__check.html#a9489556e1e16cd2e0d5c43b38d7ea5ee":[6,0,3211,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX276 =
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a0161d569d4c1fb2e1bf69936312be8df":[6,0,1962,11],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a0a9961eb0c2d5afde8f96bb0580d1974":[6,0,1962,5],
 "db/d39/structnpc__midsummer__ribbon__pole__target.html#a19eb48c537d58ad8f2021e9eabe4fae2":[6,0,1962,3],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a41e453f742a06bc7485e290756dbc746":[6,0,1962,12],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a55f16f2ced0045ea373e9d0a239301d1":[6,0,1962,7],
-"db/d39/structnpc__midsummer__ribbon__pole__target.html#a5e5a67ed5492db34fd6c2e28a2cd7f74":[6,0,1962,1]
+"db/d39/structnpc__midsummer__ribbon__pole__target.html#a41e453f742a06bc7485e290756dbc746":[6,0,1962,12]
 };

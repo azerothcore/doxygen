@@ -1,5 +1,6 @@
 var NAVTREEINDEX36 =
 {
+"d1/d7a/boss__general__angerforge_8cpp.html":[7,0,0,0,1,3,2,1,0,6],
 "d1/d7a/boss__general__angerforge_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,6,2],
 "d1/d7a/boss__general__angerforge_8cpp.html#a5bd342133be8c2137b831460acc9298ca079fdbedeb449ce76d26fa93301be553":[7,0,0,0,1,3,2,1,0,6,2,1],
 "d1/d7a/boss__general__angerforge_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,0,6,2,2],
@@ -58,8 +59,8 @@ var NAVTREEINDEX36 =
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1367,2],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,9,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,28,17],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,28,17,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,9,17,0],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,28,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,36],
 "d1/d80/classachievement__better__off__dred.html#a1ff3442ab3e166a4001c4c10777bdf8a":[6,0,36,0],
 "d1/d80/classachievement__better__off__dred.html#a9aab68b43fbf9f3c71c237b149f23b2d":[6,0,36,1],
@@ -86,12 +87,12 @@ var NAVTREEINDEX36 =
 "d1/d81/structnpc__nerubian__burrower_1_1npc__nerubian__burrowerAI.html#abd2c7333625ded502a00848b09ee9a40":[6,0,1986,0,5],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[6,0,0,11],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html":[5,0,1,23],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,11,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[5,0,1,23,0],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,1,23,2],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a02aca6b65bd5ea49d510bb8d901e1322":[6,0,0,11,0],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[6,0,0,11,2],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[6,0,0,11,1],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,1,23,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,1,23,1],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[6,0,0,11,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[6,0,0,11,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,1,23,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX36 =
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0b28eb3a3391541940a0757fb35fc58c":[7,0,0,0,1,3,5,9,2,3,46,2],
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1449fe1d21eacce2126fef058bb32ec3":[7,0,0,0,1,3,5,9,2,3,46,3],
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a15537159a53b5109dfb3fe413dbbe45d":[7,0,0,0,1,3,5,9,2,3,46,0],
-"d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a34b9ae422d4aac07a75ec58162e9fa70":[7,0,0,0,1,3,5,9,2,3,46,5],
-"d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6c78a4ab4f97a524c89f286ee54273d2":[7,0,0,0,1,3,5,9,2,3,46,11]
+"d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a34b9ae422d4aac07a75ec58162e9fa70":[7,0,0,0,1,3,5,9,2,3,46,5]
 };

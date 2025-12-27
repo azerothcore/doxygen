@@ -1,5 +1,7 @@
 var NAVTREEINDEX293 =
 {
+"db/dd4/structLocationXYZ.html":[6,0,1439],
+"db/dd4/structLocationXYZ.html#a3e2454dd579de689289003a343e7f29c":[6,0,1439,1],
 "db/dd4/structLocationXYZ.html#a4fbcf991d732545b4f9c19689ff9d805":[6,0,1439,2],
 "db/dd4/structLocationXYZ.html#afeb59642abc7d5114668b2c27e315228":[6,0,1439,0],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html":[6,0,2172,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX293 =
 "db/dd5/classCreature.html#ab889e4b3e49530c362799ae155352246":[6,0,918,72],
 "db/dd5/classCreature.html#ab972fe7efab1a5e541e29424c32e98ac":[6,0,918,231],
 "db/dd5/classCreature.html#aba89209c841c649d05a23226c14c2351":[6,0,918,33],
-"db/dd5/classCreature.html#abb2a08ef5b7ea16dc71e813b464e4b7d":[6,0,918,181],
-"db/dd5/classCreature.html#abf20806d636a490dc0f89d776348c275":[6,0,918,177],
-"db/dd5/classCreature.html#abfbabc7c59e5920bb7635becbc0194fd":[6,0,918,140]
+"db/dd5/classCreature.html#abb2a08ef5b7ea16dc71e813b464e4b7d":[6,0,918,181]
 };

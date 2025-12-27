@@ -1,5 +1,7 @@
 var NAVTREEINDEX184 =
 {
+"d7/d08/structnpc__xt002__scrapbot_1_1npc__xt002__scrapbotAI.html#ae2de6767f8ab502833971e4171d48c13":[6,0,2295,0,4],
+"d7/d09/boss__scourgelord__tyrannus_8cpp.html":[7,0,0,0,1,3,5,4,2,2],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,4,2,2,3],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca02d05fb030e834dcdcac430b478a599c":[7,0,0,0,1,3,5,4,2,2,3,1],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html#a5bd342133be8c2137b831460acc9298ca18b188906b47491f29e5b4652728d559":[7,0,0,0,1,3,5,4,2,2,3,2],
@@ -146,8 +148,8 @@ var NAVTREEINDEX184 =
 "d7/d0e/struct__ItemStat.html#a8643f062d325b5048c839525db56af3e":[6,0,13,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[6,0,8,1],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html":[5,0,27,1],
-"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[6,0,8,1,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,27,1,0],
+"d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[6,0,8,1,0],
 "d7/d0f/classPreparedStatement.html":[6,0,2436],
 "d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[6,0,2436,0],
 "d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[6,0,2436,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da28187e4ed295d924338da37a1df38af4":[7,0,0,0,1,3,5,5,5,5,7],
 "d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da2d8e80e39bd8c5c4e7fea6753e130143":[7,0,0,0,1,3,5,5,5,5,4],
 "d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da45851cc34f535fc567eaea3375addb91":[7,0,0,0,1,3,5,5,5,5,5],
-"d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5e739cdc38a7b76cd55c700af960332d":[7,0,0,0,1,3,5,5,5,5,3],
-"d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da708eff4357e588975cad5c3536b994e5":[7,0,0,0,1,3,5,5,5,5,2],
-"d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34":[7,0,0,0,1,3,5,5,5,5,12]
+"d7/d1b/gundrak_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5e739cdc38a7b76cd55c700af960332d":[7,0,0,0,1,3,5,5,5,5,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#afda379773808c3974679037828d00b9e":[6,0,390,0,2],
 "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html#afdccfdf0d44d08d9d8ebb6cb235a7503":[6,0,390,0,13],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html":[6,0,1308,0],
 "d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a0ba409129e2b0cb84b731043755e70e3":[6,0,1308,0,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX9 =
 "d0/d7a/classnpc__azure__spellbreaker.html#a36f09ff7a60a04e6dd99bc37146000f8":[6,0,1631,1],
 "d0/d7a/classnpc__azure__spellbreaker.html#a7b2e89c33deef7fb5237b271dd5b0d12":[6,0,1631,2],
 "d0/d7b/trial__of__the__crusader_8cpp.html":[7,0,0,0,1,3,5,2,1,6],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5a":[7,0,0,0,1,3,5,2,1,6,1],
-"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d":[7,0,0,0,1,3,5,2,1,6,1,2]
+"d0/d7b/trial__of__the__crusader_8cpp.html#a5e87c460d493df2d4629af8c1a30fc5a":[7,0,0,0,1,3,5,2,1,6,1]
 };

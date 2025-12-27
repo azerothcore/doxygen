@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"d9/de2/structCalcDamageInfo.html#a7298afcc76b856c5427f5e123030a797":[6,0,834,0],
+"d9/de2/structCalcDamageInfo.html#a73ef30ca87444da617b8c2e05b70e9fc":[6,0,834,15],
 "d9/de2/structCalcDamageInfo.html#a7515b18f05f5c5e9f11bd2607ab900b0":[6,0,834,6],
 "d9/de2/structCalcDamageInfo.html#ab57d348b500203649bf532405cd9ceec":[6,0,834,13],
 "d9/de2/structCalcDamageInfo.html#ab95e1e4746b966f1301d997fdac99c94":[6,0,834,5],
@@ -60,10 +62,10 @@ var NAVTREEINDEX245 =
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,80,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,31,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,11,7,8],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,11,7,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,31,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,11,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,31,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,31,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,11,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,31,7,8,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "d9/df5/classGmTicket.html#af473638ec7fcf9337e0a4123964f7230":[6,0,1112,50],
 "d9/df5/classGmTicket.html#af9b97c103035b485ddabc9fad4640c29":[6,0,1112,8],
 "d9/df5/classGmTicket.html#afbe6f66ca913b9868f8352e50b58ccc7":[6,0,1112,12],
-"d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[6,0,1112,33],
-"d9/df5/classspell__gen__elune__candle.html":[6,0,2957],
-"d9/df5/classspell__gen__elune__candle.html#a9469ebca2d40dd2944f2fb7286fc64ff":[6,0,2957,3]
+"d9/df5/classGmTicket.html#afbfdb02ffda93c165327b736342e9c7e":[6,0,1112,33]
 };

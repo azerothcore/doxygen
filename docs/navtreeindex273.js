@@ -1,5 +1,7 @@
 var NAVTREEINDEX273 =
 {
+"da/df9/classDynamicVisibilityMgr.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6":[6,0,1007,0],
+"da/df9/classDynamicVisibilityMgr.html#aa95443d7050249a44cad2f16fa0026e5":[6,0,1007,3],
 "da/df9/classDynamicVisibilityMgr.html#ac402ec0cb86192ce264d7909e09da5ac":[6,0,1007,2],
 "da/dfa/classnpc__fel__guard__hound.html":[6,0,1774],
 "da/dfa/classnpc__fel__guard__hound.html#a324179695f04a31b233b0ce94a46634c":[6,0,1774,1],
@@ -102,16 +104,16 @@ var NAVTREEINDEX273 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classboss__sartharion.html":[6,0,686],
 "db/d03/classboss__sartharion.html#a6605aee69372d08fba8f4b4523896588":[6,0,686,1],
 "db/d03/classboss__sartharion.html#aca5d66e0f5cdcafd6f9cd2c173f43839":[6,0,686,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX273 =
 "db/d0c/classWorldObjectScript.html#a2b32bc661e5a377de98902f3bc16679b":[6,0,4324,2],
 "db/d0c/classWorldObjectScript.html#a32e6b907a20d84377e1ddfce79b5cfe1":[6,0,4324,4],
 "db/d0c/classWorldObjectScript.html#a48f037dd6152ff68ebef672de68df45e":[6,0,4324,1],
-"db/d0c/classWorldObjectScript.html#a7856d4b561cd99a7f405f86fffd57fef":[6,0,4324,3],
-"db/d0c/classWorldObjectScript.html#abc139d1aa728f8a70886eed65d28f566":[6,0,4324,6],
-"db/d0c/classWorldObjectScript.html#af044c3699a591c137abc5e03c772890b":[6,0,4324,0]
+"db/d0c/classWorldObjectScript.html#a7856d4b561cd99a7f405f86fffd57fef":[6,0,4324,3]
 };

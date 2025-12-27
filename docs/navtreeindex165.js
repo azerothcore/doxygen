@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"d6/d26/classBattlefield.html#a5b9bbfce21dfb432c47351c655f94d69":[6,0,312,37],
+"d6/d26/classBattlefield.html#a5bbcea5dcfb86408c634c27d7b9ccf88":[6,0,312,44],
 "d6/d26/classBattlefield.html#a5d7d37d33db75c1df5511d8fc5239005":[6,0,312,39],
 "d6/d26/classBattlefield.html#a5ee539e5dd67f9e207123e517eace90c":[6,0,312,26],
 "d6/d26/classBattlefield.html#a6154e127330a7fe282e89cb5e9093c78":[6,0,312,55],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html":[6,0,1310,0],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a1626532eb4df7ae481032fb9991c5d8f":[6,0,1310,0,6],
 "d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a183567e69317fe373bf1b17a2a767063":[6,0,1310,0,7],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a1dc1a47ecf057b4d08e9827c5a859213":[6,0,1310,0,11],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a2048cde72727c5d6b493d67b56ed91f8":[6,0,1310,0,4],
-"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a28b8c1e3332dd9ccce42fd3fcb262e2f":[6,0,1310,0,3]
+"d6/d30/structinstance__hyjal_1_1instance__mount__hyjal__InstanceMapScript.html#a1dc1a47ecf057b4d08e9827c5a859213":[6,0,1310,0,11]
 };

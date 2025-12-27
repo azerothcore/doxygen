@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea":[7,0,0,0,0,5,1,9],
 "d2/d0e/Errors_8h.html#a4dc49effc31d570798463c106549b1cb":[7,0,0,0,0,5,1,20],
 "d2/d0e/Errors_8h.html#a5376571bbf4cdc9782683635f366f89a":[7,0,0,0,0,5,1,0],
 "d2/d0e/Errors_8h.html#a6b3632c6657f3d1633b9a9707d9ede62":[7,0,0,0,0,5,1,6],
@@ -33,8 +34,8 @@ var NAVTREEINDEX50 =
 "d2/d0f/classRestoreFight.html":[6,0,2498],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2498,1],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2498,0],
-"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2498,3],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2498,2],
+"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2498,3],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[6,0,2498,4],
 "d2/d0f/classboss__freya__summons.html":[6,0,486],
 "d2/d0f/classboss__freya__summons.html#a3445ed89967cc9a610472f18e862ecd4":[6,0,486,1],
@@ -123,10 +124,10 @@ var NAVTREEINDEX50 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[6,0,2174,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[6,0,2174,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[6,0,2174,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,31,9,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[6,0,11,9,2],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[6,0,11,9,2,1],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,31,9,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,31,9,2,1],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[6,0,11,9,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,31,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[6,0,11,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[5,0,31,9,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d1b/classWorldSocket.html#ac3d1a0c1674407854ce8545469194f8d":[6,0,4330,2],
 "d2/d1b/classWorldSocket.html#ac7ac61c2b3b48eadcd3bb0d61273a3d4":[6,0,4330,4],
 "d2/d1b/classWorldSocket.html#ace3c11ef49656be57007b38cb326465f":[6,0,4330,16],
-"d2/d1b/classWorldSocket.html#acfab4023abba0cbd6fa4cbdc40819ed9":[6,0,4330,32],
-"d2/d1b/classWorldSocket.html#ad5dcc9838c8b9fd34f353257a748fae0":[6,0,4330,1]
+"d2/d1b/classWorldSocket.html#acfab4023abba0cbd6fa4cbdc40819ed9":[6,0,4330,32]
 };

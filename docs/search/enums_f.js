@@ -40,7 +40,7 @@ var searchData=
   ['pettrainer_37',['PetTrainer',['../db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595',1,'npcs_special.cpp']]],
   ['pettype_38',['PetType',['../d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97c',1,'PetDefines.h']]],
   ['phalanxspells_39',['PhalanxSpells',['../df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21',1,'blackrock_depths.cpp']]],
-  ['phase_40',['phase',['../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84',1,'Phase:&#160;boss_zuljin.cpp'],['../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d',1,'phase:&#160;boss_skadi.cpp'],['../de/dac/boss__jeklik_8cpp.html#ae1c5184dc404edf057ed537bcfddef84',1,'Phase:&#160;boss_jeklik.cpp'],['../d9/d60/boss__warbringer__omrogg_8cpp.html#ae1c5184dc404edf057ed537bcfddef84',1,'Phase:&#160;boss_warbringer_omrogg.cpp']]],
+  ['phase_40',['phase',['../de/dac/boss__jeklik_8cpp.html#ae1c5184dc404edf057ed537bcfddef84',1,'Phase:&#160;boss_jeklik.cpp'],['../db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84',1,'Phase:&#160;boss_zuljin.cpp'],['../d9/d60/boss__warbringer__omrogg_8cpp.html#ae1c5184dc404edf057ed537bcfddef84',1,'Phase:&#160;boss_warbringer_omrogg.cpp'],['../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d',1,'phase:&#160;boss_skadi.cpp']]],
   ['phasehalazzi_41',['PhaseHalazzi',['../d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696',1,'boss_halazzi.cpp']]],
   ['phasehunterdata_42',['PhaseHunterData',['../dd/dd3/zone__netherstorm_8cpp.html#ac333c86fd13e6712ad127ce019744439',1,'zone_netherstorm.cpp']]],
   ['phasemasks_43',['PhaseMasks',['../db/dbf/Object_8h.html#a154255f23e41069883118fc4f0d23157',1,'Object.h']]],

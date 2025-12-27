@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d5/d4f/structSkillDiscoveryEntry.html#a75ca40729917317173b2953c8f47f833":[6,0,2549,4],
+"d5/d50/boss__kelthuzad_8cpp.html":[7,0,0,0,1,3,5,7,7],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,7,7],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a31bb29a3baecb28ab46581e2fe6ff343":[7,0,0,0,1,3,5,7,7,7,0],
 "d5/d50/boss__kelthuzad_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a398571f03dd9f1344f47845d75089c8a":[7,0,0,0,1,3,5,7,7,7,6],
@@ -80,8 +82,8 @@ var NAVTREEINDEX145 =
 "d5/d52/classspell__the__lich__king__defile.html#a9022b9efab89bc562428520b3551ff37":[6,0,3905,1],
 "d5/d52/classspell__the__lich__king__defile.html#a998b810cdbecbca2bf65f18cee14d286":[6,0,3905,3],
 "d5/d52/classspell__the__lich__king__defile.html#afe0910e903f6f8f466b272ce9ddc7a6b":[6,0,3905,4],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[5,0,31,6,52],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html":[6,0,11,6,52],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[6,0,11,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a04eec0531238fa55a91afa11c394fbce":[5,0,31,6,52,2],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,31,6,52,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#af5537ccebc7ac6af49f9b6612d3a6138":[6,0,498,0,0],
 "d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#af80ac4df7aaab1469ee62ac8b054a0b9":[6,0,498,0,7],
 "d5/d61/structboss__general__angerforge_1_1boss__general__angerforgeAI.html#aff55a804bdca840016e0f6b1d11f7106":[6,0,498,0,2],
-"d5/d61/structnpc__pet__dk__army__of__the__dead.html":[6,0,2012],
-"d5/d61/structnpc__pet__dk__army__of__the__dead.html#a4f1acbbccd68c83a7c3ea14b26a56305":[6,0,2012,2],
-"d5/d61/structnpc__pet__dk__army__of__the__dead.html#a835f24d7b1b0b70d6345f66a8960e9cf":[6,0,2012,0]
+"d5/d61/structnpc__pet__dk__army__of__the__dead.html":[6,0,2012]
 };

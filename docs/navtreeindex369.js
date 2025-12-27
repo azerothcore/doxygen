@@ -1,5 +1,8 @@
 var NAVTREEINDEX369 =
 {
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad0cf2e4cb01aa491b9c126c8324ecdbc":[7,0,0,0,1,3,7,1,4,8,0],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad37a8f1111ab88a25c6222a817839f2d":[7,0,0,0,1,3,7,1,4,8,4],
+"de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cad80cddb5c773432a1c1e568c56fd784e":[7,0,0,0,1,3,7,1,4,8,5],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298cadc1698100d98eeecb36b674a45bb6882":[7,0,0,0,1,3,7,1,4,8,3],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caee23d696e0b1a8b4c5ebe94b68ce4d23":[7,0,0,0,1,3,7,1,4,8,12],
 "de/d97/boss__mother__shahraz_8cpp.html#a5bd342133be8c2137b831460acc9298caf2f1748e889c54c95cd307dad0a08df7":[7,0,0,0,1,3,7,1,4,8,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX369 =
 "de/da4/classspell__putricide__mutated__plague__aura.html#a238adc96e80c1890934b23dd4a2685b4":[6,0,3608,1],
 "de/da4/classspell__putricide__mutated__plague__aura.html#ab36a001ea8cd87703e2694e0765635c0":[6,0,3608,3],
 "de/da4/classspell__putricide__mutated__plague__aura.html#af9ce7433b620fdf1dea570561c514b3b":[6,0,3608,2],
-"de/da5/CharacterDatabase_8h.html":[7,0,0,0,1,1,0,0,1],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7":[7,0,0,0,1,1,0,0,1,1],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a005b347f56b0d5dd4586f6ef2f232406":[7,0,0,0,1,1,0,0,1,1,48],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a00955da44994cc15fa73659a95358c40":[7,0,0,0,1,1,0,0,1,1,38]
+"de/da5/CharacterDatabase_8h.html":[7,0,0,0,1,1,0,0,1]
 };

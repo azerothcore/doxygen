@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"d5/dfb/classspell__brewfest__apple__trap.html#a03f752d4d4762698e5777a4ae0e395cf":[6,0,2680,2],
+"d5/dfb/classspell__brewfest__apple__trap.html#a3498c9eb96bf1a6a85ded114e995850c":[6,0,2680,0],
 "d5/dfb/classspell__brewfest__apple__trap.html#a3985ca8b79a234e44d9f46ffe6d5b232":[6,0,2680,1],
 "d5/dfb/classspell__brewfest__apple__trap.html#a9af46e5f2fdb4719d65bb96f2b68a7f8":[6,0,2680,3],
 "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html":[6,0,1725,0],
@@ -197,16 +199,16 @@ var NAVTREEINDEX161 =
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a1017c0ca9db8f38832271dbe04a6c22c":[6,0,0,5,6,0],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[5,0,1,8,6,7],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a328b2cd9dc377fb8d5b6740cde162b92":[6,0,0,5,6,7],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[6,0,0,5,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[5,0,1,8,6,6],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a8cec4e14ca170842d1eadf8b7b42b12b":[6,0,0,5,6,6],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,1,8,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[6,0,0,5,6,2],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,1,8,6,5],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,1,8,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[6,0,0,5,6,3],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[5,0,1,8,6,1],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
 "d6/d07/structnpc__nightbane__helper__target.html":[6,0,1990],
 "d6/d07/structnpc__nightbane__helper__target.html#a688ebb85baad72e523be0dceb70a75fc":[6,0,1990,0],
 "d6/d08/FollowerRefMgr_8h.html":[7,0,0,0,1,2,31,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "d6/d0b/boss__anzu_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,0,2,0,5,2],
 "d6/d0b/boss__anzu_8cpp.html#abf2a4d1001b5e23f729fc1941f192d35":[7,0,0,0,1,3,7,0,2,0,6],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html":[6,0,602,0],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a11cda2b905ef2381c317a01e4163be00":[6,0,602,0,6],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a3bf898911798eaa891ef7638a3a2cc20":[6,0,602,0,0],
-"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a3bfe3ab90ff6f401c3f7b8655e3abc05":[6,0,602,0,11]
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a11cda2b905ef2381c317a01e4163be00":[6,0,602,0,6]
 };

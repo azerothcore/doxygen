@@ -1,5 +1,7 @@
 var NAVTREEINDEX174 =
 {
+"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ace872917954f4978f3568d7ddecf22ad":[6,0,1987,0,7],
+"d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#acecff3846090fa83c8fc43537d788501":[6,0,1987,0,8],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ae1f5248397b606b7872f05cfc929ac0d":[6,0,1987,0,3],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html#ae6c33df878497d29d5f61234b048009d":[6,0,1987,0,10],
 "d6/d7e/boss__kazrogal_8cpp.html":[7,0,0,0,1,3,4,1,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a975074f293d29171f8a92a1200f4f0a9":[7,0,0,0,1,3,5,21,30,28],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a9daa7bdbb10b43de0472d4f95c95d80e":[7,0,0,0,1,3,5,21,30,18],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aa73961d18c1921ae998afc109ecd8310":[7,0,0,0,1,3,5,21,30,26],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ab0a6b9d5072ab9fa63e4b4fc4b67a38b":[7,0,0,0,1,3,5,21,30,3],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832abed3be0a49c183ee18de761ee2dac0a8":[7,0,0,0,1,3,5,21,30,5],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ad01d59790d3a417ff098f9143a424c3a":[7,0,0,0,1,3,5,21,30,15]
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832ab0a6b9d5072ab9fa63e4b4fc4b67a38b":[7,0,0,0,1,3,5,21,30,3]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX391 =
 {
+"df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9":[6,0,4127,65],
+"df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f":[6,0,4127,47],
+"df/d92/classSpellScript.html#a631c606f892a78a649d2dbaa7356a144":[6,0,4127,43],
 "df/d92/classSpellScript.html#a66d39d9b940e70f21e53ad254b7ab1e2":[6,0,4127,60],
 "df/d92/classSpellScript.html#a6850117c995152d98522696c9e518baf":[6,0,4127,20],
 "df/d92/classSpellScript.html#a6ba5ab05dcd8acb861a8037866037e30":[6,0,4127,21],
@@ -246,8 +249,5 @@ var NAVTREEINDEX391 =
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a34ac1d72343b97f5595bc71c8c85c4d0":[7,0,0,0,1,3,4,9,5,2,8],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84aa6c2e6b44a6b6a9e5a08a897e2947c12":[7,0,0,0,1,3,4,9,5,2,2],
 "df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180":[7,0,0,0,1,3,4,9,5,2,0],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac203e34251b5f89370dd4e971b9ac20c":[7,0,0,0,1,3,4,9,5,2,6],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac98fdfb490fa896cecb40ae427f4ea75":[7,0,0,0,1,3,4,9,5,2,3],
-"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ad1b32b1cb6f4f2623ab24da8eb0e090f":[7,0,0,0,1,3,4,9,5,2,5],
-"df/d9b/structboss__jarien.html":[6,0,558]
+"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac203e34251b5f89370dd4e971b9ac20c":[7,0,0,0,1,3,4,9,5,2,6]
 };

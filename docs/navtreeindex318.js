@@ -1,5 +1,7 @@
 var NAVTREEINDEX318 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e":[7,0,0,0,1,3,2,12,6,10,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,12],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,2,12,6,8,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,12,6,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX318 =
 "dc/df0/classnpc__hourglass__of__eternity.html#a40500ff582ead06bd646be86baad7d35":[6,0,1853,1],
 "dc/df0/classnpc__hourglass__of__eternity.html#a6cdec424e78e5c9decac73d091eec0ed":[6,0,1853,2],
 "dc/df0/classnpc__power__spark.html":[6,0,2052],
-"dc/df0/classnpc__power__spark.html#a573198b86697d222c693581bf430453f":[6,0,2052,2],
-"dc/df0/classnpc__power__spark.html#a9efd2810feb5f90f9f12f51ec7282410":[6,0,2052,1],
-"dc/df0/zulgurub_8h.html":[7,0,0,0,1,3,2,16,15]
+"dc/df0/classnpc__power__spark.html#a573198b86697d222c693581bf430453f":[6,0,2052,2]
 };

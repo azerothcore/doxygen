@@ -1,5 +1,7 @@
 var NAVTREEINDEX202 =
 {
+"d7/db0/classMap.html#ad70d62beede9f7db927d4d708e32f0c5":[6,0,1478,68],
+"d7/db0/classMap.html#ad8d292cbfb60dc5fa1d0210eb1f4b0ab":[6,0,1478,72],
 "d7/db0/classMap.html#ad98c7490cdfa89c567a24bcb4e74c7a2":[6,0,1478,99],
 "d7/db0/classMap.html#ada4d5a60c63397b2f3651b3c915b758f":[6,0,1478,63],
 "d7/db0/classMap.html#adae05f186c39b45b885b8d47b5c0647e":[6,0,1478,239],
@@ -169,8 +171,8 @@ var NAVTREEINDEX202 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db4/structAcore_1_1has__type.html":[5,0,1,74],
+"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3691],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3691,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3691,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX202 =
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca7a1af76dbca5b907063c7d76e070a9c0":[7,0,0,0,1,3,7,2,0,1,5,13],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c5375fbbb038de7e8a159a9dfad5212":[7,0,0,0,1,3,7,2,0,1,5,5],
 "d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca97223cd8093683945c3e150f014e835e":[7,0,0,0,1,3,7,2,0,1,5,7],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a62c2c9c91e72c5bbe48b1c19bcc8b7":[7,0,0,0,1,3,7,2,0,1,5,20],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cab121c93ef274ba2791c63674950ef6a6":[7,0,0,0,1,3,7,2,0,1,5,14],
-"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298cab19c6ae040995a1d95e8b2cba438bc49":[7,0,0,0,1,3,7,2,0,1,5,22]
+"d7/dba/boss__hydross__the__unstable_8cpp.html#a5bd342133be8c2137b831460acc9298ca9a62c2c9c91e72c5bbe48b1c19bcc8b7":[7,0,0,0,1,3,7,2,0,1,5,20]
 };

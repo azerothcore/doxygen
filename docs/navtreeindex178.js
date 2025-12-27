@@ -1,5 +1,7 @@
 var NAVTREEINDEX178 =
 {
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a007e4bad6ef41729d3f7b7ade4285dfe":[6,0,2044,0,0],
+"d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a5757c27b8c8840cec6ad7282f0cbf51b":[6,0,2044,0,4],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#a8c7e2643c2d443b382a60f28ea74266c":[6,0,2044,0,3],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#ade416a422e67ce61e8874320cce7143b":[6,0,2044,0,2],
 "d6/db0/structnpc__pos__collapsing__icicle_1_1npc__pos__collapsing__icicleAI.html#aea107ede3b11726b3f7caae590edaf52":[6,0,2044,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html":[6,0,3652],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb":[6,0,3652,0],
 "d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a3113d8e7ec296fdf13c8f386ae74e0f3":[6,0,3652,3],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a":[6,0,3652,2],
-"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#aa31810077c241e77193e378cb297b7de":[6,0,3652,1],
-"d6/dbf/structInstancePlayerBind.html":[6,0,1363]
+"d6/dbf/classspell__q11026__a11051__banish__the__demons__aura.html#a7b8f537719a4155d1cd95a6f49cf6a3a":[6,0,3652,2]
 };

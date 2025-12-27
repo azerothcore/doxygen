@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5e/classWorldSessionMgr.html#af32e97573c3742b0e922a6537d9c56ac":[6,0,4329,31],
 "d0/d5e/classWorldSessionMgr.html#aff17c7a73420146c5a0cfe6a05e9339d":[6,0,4329,21],
 "d0/d5e/classWorldSessionMgr.html#aff543987bdf9b5d8c293ddfa393d3c7b":[6,0,4329,2],
 "d0/d5f/WardenModuleWin_8h.html":[7,0,0,0,1,2,46,0,1],
@@ -144,8 +145,8 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[6,0,3920,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[6,0,3920,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,3920,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,31,2,2],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,11,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,11,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,31,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,11,2,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d66/classWorldMock.html#ac5ddf38246594c1c8c096156cde84a7c":[6,0,4322,45],
 "d0/d66/classWorldMock.html#acd04554229b7249bc67e4f1ce8d33cf8":[6,0,4322,24],
 "d0/d66/classWorldMock.html#ad400cdf33f3f0b4d036cf7e2f16fcaa2":[6,0,4322,27],
-"d0/d66/classWorldMock.html#ad58bc22de3be97b464419ad0241a4232":[6,0,4322,8],
-"d0/d66/classWorldMock.html#ad86c656afaef0b67e067128776f6602b":[6,0,4322,49]
+"d0/d66/classWorldMock.html#ad58bc22de3be97b464419ad0241a4232":[6,0,4322,8]
 };

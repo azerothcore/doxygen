@@ -1,5 +1,8 @@
 var NAVTREEINDEX385 =
 {
+"df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[6,0,289,16,0],
+"df/d3d/classAuraScript_1_1ScriptStateStore.html#a63cf373d469af72bc96a3e72351e3256":[6,0,289,16,3],
+"df/d3d/classAuraScript_1_1ScriptStateStore.html#adddf594d9468b16455da6e2aef683d44":[6,0,289,16,2],
 "df/d3d/classAuraScript_1_1ScriptStateStore.html#af5098bcedac048808e11bf2f82d705a7":[6,0,289,16,1],
 "df/d3d/classBfCapturePoint.html":[6,0,347],
 "df/d3d/classBfCapturePoint.html#a02eab1f489ee817d0b0263a57eb71ed2":[6,0,347,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a021b82aa6bd2e118fe810f18349fda42":[6,0,1572,0,3],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a295d4bef97b97c7deb31a81274f0818d":[6,0,1572,0,2],
 "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#a9353ac81b0c209a56313b52f2257ddd2":[6,0,1572,0,1],
-"df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1572,0,0],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[5,0,1,78],
-"df/d4c/structAcore_1_1is__tuple_3_01std_1_1tuple_3_01Ts_8_8_8_01_4_01_4.html":[6,0,0,66],
-"df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html":[6,0,2119,0]
+"df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html#aaed19d0c915891d8afecda7df75a8a75":[6,0,1572,0,0]
 };

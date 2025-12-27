@@ -1,7 +1,9 @@
 var NAVTREEINDEX159 =
 {
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[6,0,0,72,2],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[6,0,0,72,3],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[5,0,1,84,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[5,0,1,84,2],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[6,0,0,72,2],
 "d5/df2/structMySQLType_3_01int8_01_4.html":[6,0,1551],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html":[6,0,1693,0],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a07845a436ded9c799b742ac9e27cc1bd":[6,0,1693,0,2],
@@ -40,10 +42,10 @@ var NAVTREEINDEX159 =
 "d5/df5/classOrcDeathEvent.html#a293ec6667da669a27fe75965f919cd68":[6,0,2338,1],
 "d5/df5/classOrcDeathEvent.html#a56cdf23ed08cbb800ba6fe7fb5e284b7":[6,0,2338,2],
 "d5/df5/classOrcDeathEvent.html#ae4088ee95c3c0de9ae524a82803b0ea2":[6,0,2338,0],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[6,0,0,5,0,3],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[5,0,1,8,0,3],
-"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,1,8,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html":[6,0,0,5,0,3],
 "d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[6,0,0,5,0,3,0],
+"d5/df6/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01AchievementEntry_01const_01_5_01_4.html#aa35873bb1d0ecefddbe99fad5a5d0214":[5,0,1,8,0,3,0],
 "d5/df7/classObjectGuidVector.html":[6,0,2319],
 "d5/df7/classObjectGuidVector.html#a07fe3304a0edffa1f17a0ce5f97d01e6":[6,0,2319,1],
 "d5/df7/classObjectGuidVector.html#a78137cb1ae9930c11f87a4a8ed5e7e26":[6,0,2319,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dfb/classObjectMgr.html#a617429495c17a52dabbba18f88ea69c8":[6,0,2320,228],
 "d5/dfb/classObjectMgr.html#a61e8b9181ea345419c35161e2b3d4f87":[6,0,2320,149],
 "d5/dfb/classObjectMgr.html#a63e2e1664a66e29d3ab9054921124bbb":[6,0,2320,352],
-"d5/dfb/classObjectMgr.html#a64054fd93e5a9b631a33e9f18d873167":[6,0,2320,267],
-"d5/dfb/classObjectMgr.html#a6453ba99550ee894a8857b7cd52aa4b2":[6,0,2320,164],
-"d5/dfb/classObjectMgr.html#a64dd8e2afdd1e1ebf0f7902f94ad04e6":[6,0,2320,109]
+"d5/dfb/classObjectMgr.html#a64054fd93e5a9b631a33e9f18d873167":[6,0,2320,267]
 };

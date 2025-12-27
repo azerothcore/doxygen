@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a79291008072b2bdbeb4d3d5901a5634b":[6,0,737,0,0],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a7f1dbfc124986f8e982331cd92806455":[6,0,737,0,8],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a9bde52ef4ff221cb0a5bb7a896c9b8fe":[6,0,737,0,21],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a9db0cd822a28d4fed185dfa4ba63c4de":[6,0,737,0,10],
@@ -26,8 +27,8 @@ var NAVTREEINDEX34 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,11,13,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,31,13,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,11,13,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,11,13,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,31,13,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,11,13,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,31,13,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,11,13,1,2],
 "d1/d62/classboss__steelbreaker.html":[6,0,713],
@@ -48,16 +49,16 @@ var NAVTREEINDEX34 =
 "d1/d63/structargentPonyBanner.html#a740f9162b10d31d1677a4ac4f5926db6":[6,0,203,1],
 "d1/d63/structargentPonyBanner.html#aa92e42bc2c54c3b4b1022d5767fcf10c":[6,0,203,2],
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[6,0,203,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,88],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3715],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#aac0a916bfa325284b354e7241fe857ab":[6,0,1852,0,0],
 "d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#ac35e648b93bb39ca831390bf88f6a3e7":[6,0,1852,0,3],
 "d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#ad1f523fad45c34077e6d6ce7b9a4aefd":[6,0,1852,0,4],
-"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#af9613e9309b85317bc6e3a84013dcf89":[6,0,1852,0,5],
-"d1/d69/classspell__kiljaeden__armageddon__missile.html":[6,0,3370]
+"d1/d68/structnpc__hor__spiritual__reflection_1_1npc__hor__spiritual__reflectionAI.html#af9613e9309b85317bc6e3a84013dcf89":[6,0,1852,0,5]
 };

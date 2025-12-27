@@ -1,5 +1,8 @@
 var NAVTREEINDEX404 =
 {
+"df/df3/structboss__grand__warlock__nethekurse.html#aca0bd4c71aafd2d1c54e2ca87d538e9a":[6,0,509,9],
+"df/df3/structboss__grand__warlock__nethekurse.html#aceef7aace38f5246ad67a1591b7f301c":[6,0,509,7],
+"df/df3/structboss__grand__warlock__nethekurse.html#ae071f8cc7ef44e6c6cf205295debea5f":[6,0,509,2],
 "df/df3/structboss__grand__warlock__nethekurse.html#afe62561de66fbe7fa92c365a51f01adc":[6,0,509,5],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html":[6,0,404,0],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#a01866a1f5a20bd9b4ccf754051dedd10":[6,0,404,0,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX404 =
 "dir_8a86f46c68fd9f4cbeaa550d3ee2afc5.html":[7,0,0,0,1,2,16,3],
 "dir_8af33554ddafa3432455437cc558c9c8.html":[7,0,0,0,1,2,41,0],
 "dir_8b777919d2ae980e2f3806300ea01226.html":[7,0,0,0,0,1,1],
-"dir_9190001e5b6939293a2fb2bd5f108b56.html":[7,0,0,0,1,2,21],
-"dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html":[7,0,0,0,0,10],
-"dir_94aaef7ba6f803f9bfb6413ade407482.html":[7,0,0,0,1,3,4,8],
-"dir_9c007a21945c267a2c2f47a9c36aeced.html":[7,0,0,0,1,3,5,4,1]
+"dir_9190001e5b6939293a2fb2bd5f108b56.html":[7,0,0,0,1,2,21]
 };

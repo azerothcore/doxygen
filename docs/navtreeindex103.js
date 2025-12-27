@@ -1,5 +1,7 @@
 var NAVTREEINDEX103 =
 {
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1aad9f389d170b33e74a9c6c1caf8768d0":[7,0,0,0,1,3,5,7,6,4,2],
+"d3/d91/boss__heigan_8cpp.html#a16774215bba3b38580ea51987d64cff1afa2681b1155bdb76f3b66cce305dca8e":[7,0,0,0,1,3,5,7,6,4,6],
 "d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,6,3],
 "d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a056a8f021f41de4202955d223001ddbe":[7,0,0,0,1,3,5,7,6,3,1],
 "d3/d91/boss__heigan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aab6d2de7e94bbeaf6703d7c3b3dc9c8e":[7,0,0,0,1,3,5,7,6,3,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d9b/structPlayerClassInfo.html":[6,0,2402],
 "d3/d9b/structPlayerClassInfo.html#a6a0a6db24e144593356e0505946e8f06":[6,0,2402,0],
 "d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[6,0,2402,1],
-"d3/d9c/classinstance__magtheridons__lair.html":[6,0,1314],
-"d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1314,2],
-"d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1314,1]
+"d3/d9c/classinstance__magtheridons__lair.html":[6,0,1314]
 };

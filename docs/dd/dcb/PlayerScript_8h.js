@@ -62,6 +62,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_AFTER_SET_VISIBLE_ITEM_SLOT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a35874bb6e4d573dd21e1c79c64804d38", null ],
       [ "PLAYERHOOK_ON_AFTER_MOVE_ITEM_FROM_INVENTORY", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa7e8a336cda97c7874026d0f05836938", null ],
       [ "PLAYERHOOK_ON_EQUIP", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48ac1860f792469c42281167e11a5857", null ],
+      [ "PLAYERHOOK_ON_UNEQUIP_ITEM", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadd48e0b0bf28a62bf7c1e4212ba5577", null ],
       [ "PLAYERHOOK_ON_PLAYER_JOIN_BG", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a02453111bfc178b81ea188400c41936d", null ],
       [ "PLAYERHOOK_ON_PLAYER_JOIN_ARENA", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ae8e57183542d9986858bca713a6ae041", null ],
       [ "PLAYERHOOK_GET_CUSTOM_GET_ARENA_TEAM_ID", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b2918f61bea6b069f7813919f4dbf2", null ],

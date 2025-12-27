@@ -1,5 +1,7 @@
 var NAVTREEINDEX120 =
 {
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,4,3,3,5,1],
+"d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a16774215bba3b38580ea51987d64cff1ad089ecf6b1860e0cf125942c8697880d":[7,0,0,0,1,3,7,4,3,3,5,3],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,7,4,3,3,3],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a114e6b5a54a7f21dcf3480b59fa6e9ef":[7,0,0,0,1,3,7,4,3,3,3,1],
 "d4/d22/boss__warchief__kargath__bladefist_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a7a9475ef1149b7050dbbd320b5a21b4d":[7,0,0,0,1,3,7,4,3,3,3,0],
@@ -103,8 +105,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2657],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2657,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2657,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a5545d513600badfbae47148bc756ed64":[7,0,0,0,1,3,5,9,0,1,3,2],
 "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a7525c00b2c7e38d5b3b1d300c33411dc":[7,0,0,0,1,3,5,9,0,1,3,4],
 "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06":[7,0,0,0,1,3,5,9,0,1,3,0],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76":[7,0,0,0,1,3,5,9,0,1,3,1],
-"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01aecc2f7d81ce1fd43bc3c75f6fa49b4cf":[7,0,0,0,1,3,5,9,0,1,3,5],
-"d4/d2b/boss__ionar_8cpp.html#abbb21fdf05e396088cb8e568c506cf60":[7,0,0,0,1,3,5,9,0,1,7]
+"d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76":[7,0,0,0,1,3,5,9,0,1,3,1]
 };

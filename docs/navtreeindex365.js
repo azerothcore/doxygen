@@ -1,5 +1,8 @@
 var NAVTREEINDEX365 =
 {
+"de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[6,0,5,19,3],
+"de/d6c/structlfg_1_1RBEntryInfo.html#ab891dec65b0070ede1233080eadd0190":[5,0,18,19,3],
 "de/d6d/WorldSessionMgr_8h.html":[7,0,0,0,1,2,39,8],
 "de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85":[7,0,0,0,1,2,39,8,1],
 "de/d6d/classServerOpcodeHandler.html":[4,1,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX365 =
 "de/d72/structnpc__minion__spawner.html#a24f93f1314bb73edb369e188eda83104":[6,0,1968,4],
 "de/d72/structnpc__minion__spawner.html#ab49641074ae46f21a3fdc1c2f71396ba":[6,0,1968,0],
 "de/d74/Group_8cpp.html":[7,0,0,0,1,2,20,0],
-"de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[7,0,0,0,1,2,20,0,0],
-"de/d74/classnpc__ulduar__toasty__fire.html":[6,0,2242],
-"de/d74/classnpc__ulduar__toasty__fire.html#a2518ec39c3cea2f3efc5000e0a7779d0":[6,0,2242,2],
-"de/d74/classnpc__ulduar__toasty__fire.html#a5a5b77088b24f1c5743c58034190d5ab":[6,0,2242,1]
+"de/d74/Group_8cpp.html#afbaf3417177da71d9f3c8be9eab09c2b":[7,0,0,0,1,2,20,0,0]
 };

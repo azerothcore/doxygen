@@ -1,5 +1,7 @@
 var NAVTREEINDEX218 =
 {
+"d8/d74/classWorldSession.html#aaf12dbcad4c88c4e71d0af7ea1507474":[4,1,19,453],
+"d8/d74/classWorldSession.html#aaf1751384d52e30e18b46d451d6ddd72":[4,1,19,260],
 "d8/d74/classWorldSession.html#aafaa38ed151e34953ca0c743cb9e98c2":[4,1,19,37],
 "d8/d74/classWorldSession.html#aafc856803ef8913cb5c75a03c6c470a7":[4,1,19,341],
 "d8/d74/classWorldSession.html#ab050b52971821acd45f22d903f0d664e":[4,1,19,233],
@@ -247,7 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,968,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,31,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,11,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1]
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,11,6,31,0]
 };

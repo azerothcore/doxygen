@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d82/classachievement__once__bitten__twice__shy.html#ac5799e847f8ee1e2b562e4a58a00df16":[6,0,79,0],
+"d2/d83/classspell__huhuran__wyvern__sting.html":[6,0,3120],
 "d2/d83/classspell__huhuran__wyvern__sting.html#a47849d8241ed17ad0fb541c1178b0760":[6,0,3120,1],
 "d2/d83/classspell__huhuran__wyvern__sting.html#a85595fed0e9b6a2ced18aeb4acffcf81":[6,0,3120,0],
 "d2/d83/classspell__huhuran__wyvern__sting.html#aa23231c5c324e73930fdf8d784b0edb4":[6,0,3120,2],
@@ -100,12 +102,12 @@ var NAVTREEINDEX68 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2099],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2099,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2099,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a9e106b5835b84c0b93e64c10340a1333":[6,0,2517,33],
 "d2/d8f/structScriptInfo.html#aa365914f73efca97e86dbfc1e06a0a45":[6,0,2517,31],
 "d2/d8f/structScriptInfo.html#aa662f7e7d7eb2ecf9e90086371b38a5d":[6,0,2517,61],
-"d2/d8f/structScriptInfo.html#aa75319e59f7c746a0430a92e466ae81f":[6,0,2517,66],
-"d2/d8f/structScriptInfo.html#aab6d7ba6d21c2375a3fb171678ceeebd":[6,0,2517,58],
-"d2/d8f/structScriptInfo.html#abc59d08ca9ab67bc7f128b447b83e192":[6,0,2517,11]
+"d2/d8f/structScriptInfo.html#aa75319e59f7c746a0430a92e466ae81f":[6,0,2517,66]
 };

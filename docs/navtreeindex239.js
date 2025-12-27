@@ -1,5 +1,7 @@
 var NAVTREEINDEX239 =
 {
+"d9/d81/classnpc__wg__demolisher__engineer.html#a722ff6bac34730bfb5f36584d7a62ff8":[6,0,2278,0],
+"d9/d81/classnpc__wg__demolisher__engineer.html#ac3b0bbfd66bb94f29a6d733999b8c6ba":[6,0,2278,2],
 "d9/d82/classspell__dru__survival__instincts.html":[6,0,2842],
 "d9/d82/classspell__dru__survival__instincts.html#a605e7b8849186c3c2df731cac743a208":[6,0,2842,1],
 "d9/d82/classspell__dru__survival__instincts.html#a62533bff915db8323b53352f17c4825f":[6,0,2842,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d8b/classMapGridManager.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a":[6,0,1488,7],
 "d9/d8b/classMapGridManager.html#a7994a71cea924e66996161b049eb1d44":[6,0,1488,4],
 "d9/d8b/classMapGridManager.html#a7d7957242615d753383e05a0ee5a1f82":[6,0,1488,11],
-"d9/d8b/classMapGridManager.html#a8acd42cf15f78053070102f530c443a2":[6,0,1488,6],
-"d9/d8b/classMapGridManager.html#aa2c2218a81a5d042925e5675948e242f":[6,0,1488,15],
-"d9/d8b/classMapGridManager.html#aab0a821d9672cd485c4966034c2243d5":[6,0,1488,12]
+"d9/d8b/classMapGridManager.html#a8acd42cf15f78053070102f530c443a2":[6,0,1488,6]
 };

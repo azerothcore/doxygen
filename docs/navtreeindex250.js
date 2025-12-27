@@ -1,5 +1,7 @@
 var NAVTREEINDEX250 =
 {
+"da/d0c/classspell__q10985__light__of__the__naaru.html#a9dee4c4568f36f82b82148cb847d50ca":[6,0,3645,2],
+"da/d0c/classspell__q10985__light__of__the__naaru.html#aa9cf64a1965bd7924ce5a9c639d85fb3":[6,0,3645,0],
 "da/d0d/classachievement__yogg__saron__darkness.html":[6,0,106],
 "da/d0d/classachievement__yogg__saron__darkness.html#a536c7156305d47c41a062d3c1a1b16eb":[6,0,106,0],
 "da/d0d/classachievement__yogg__saron__darkness.html#a765ec4606bb489760ed1e15db10de1dc":[6,0,106,2],
@@ -135,20 +137,20 @@ var NAVTREEINDEX250 =
 "da/d16/structnpc__grandmother.html#a0e2b684377ed593abfbb49b730cfe9b2":[6,0,1814,2],
 "da/d16/structnpc__grandmother.html#a6cffe8c574859779f6561dde0aef9666":[6,0,1814,0],
 "da/d16/structnpc__grandmother.html#ae39335d22b5fd1fc4c0f9d34e8977124":[6,0,1814,1],
-"da/d17/classAcore_1_1ContainerInserter.html":[5,0,1,53],
 "da/d17/classAcore_1_1ContainerInserter.html":[6,0,0,41],
+"da/d17/classAcore_1_1ContainerInserter.html":[5,0,1,53],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,1,53,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[6,0,0,41,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,1,53,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[6,0,0,41,1],
-"da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[6,0,0,41,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,1,53,5],
-"da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,41,0],
+"da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[6,0,0,41,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,1,53,0],
+"da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,41,0],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,53,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[6,0,0,41,4],
-"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,41,2],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,1,53,2],
+"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,41,2],
 "da/d17/classat__naxxramas__hub__portal.html":[6,0,236],
 "da/d17/classat__naxxramas__hub__portal.html#a946086e8a4651240b84526a1b2d54065":[6,0,236,0],
 "da/d17/classat__naxxramas__hub__portal.html#af967b0f61b3257c8b8d802d4ed3af1da":[6,0,236,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX250 =
 "da/d1e/CharmInfo_8h.html#a19b65e7e2b9f40fcfa66e74212d561c9":[7,0,0,0,1,2,16,10,1,7],
 "da/d1e/CharmInfo_8h.html#a2f37b877a5fc8dc31f4543660a5b1af9":[7,0,0,0,1,2,16,10,1,13],
 "da/d1e/CharmInfo_8h.html#a374f41406d42023d52c29bb269ccb2b3":[7,0,0,0,1,2,16,10,1,10],
-"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724":[7,0,0,0,1,2,16,10,1,14],
-"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9":[7,0,0,0,1,2,16,10,1,14,1],
-"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a56eab700626db82e8012fc8daac5cee9":[7,0,0,0,1,2,16,10,1,14,2]
+"da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724":[7,0,0,0,1,2,16,10,1,14]
 };

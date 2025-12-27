@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21":[6,0,3129,0],
 "d1/dfc/classspell__hun__explosive__shot.html#ab40419508a1903869aa2b36a590301ba":[6,0,3129,2],
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html":[6,0,3621],
 "d1/dfe/classspell__putricide__unbound__plague__dmg__aura.html#a5d855d79247dff6f949a5e099abb9352":[6,0,3621,1],
@@ -200,12 +201,12 @@ var NAVTREEINDEX49 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8":[6,0,2337,11],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae16e1448e5c21daea0a56ede78b3174a":[6,0,2337,1],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[6,0,2337,10],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[6,0,11,10,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,31,10,2],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[6,0,11,10,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[6,0,11,10,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,31,10,2,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,31,10,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,11,10,2,3],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,31,10,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,11,10,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,31,10,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,31,10,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d0e/Errors_8h.html":[7,0,0,0,0,5,1],
 "d2/d0e/Errors_8h.html#a07aa40e12479c740872d1ad7f55acbbc":[7,0,0,0,0,5,1,18],
 "d2/d0e/Errors_8h.html#a1990519ae97867f1a629699d00874fb2":[7,0,0,0,0,5,1,15],
-"d2/d0e/Errors_8h.html#a257b055b35d21943eb2a144cccd26429":[7,0,0,0,0,5,1,11],
-"d2/d0e/Errors_8h.html#a47d51826ca35c49a890b7bc2ad6818ea":[7,0,0,0,0,5,1,9]
+"d2/d0e/Errors_8h.html#a257b055b35d21943eb2a144cccd26429":[7,0,0,0,0,5,1,11]
 };

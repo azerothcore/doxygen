@@ -1,5 +1,7 @@
 var NAVTREEINDEX278 =
 {
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d8c146f526efbf02109c74a98a68ff4":[7,0,0,0,1,3,4,8,4,10,4],
+"db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca80076fcda3eec60155439ff2808091e4":[7,0,0,0,1,3,4,8,4,10,10],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298ca9154f7bf1871ae8fa8ddb7a3eb90c38a":[7,0,0,0,1,3,4,8,4,10,12],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298caa7157fd92da429322cb3953148dd8439":[7,0,0,0,1,3,4,8,4,10,7],
 "db/d4e/boss__ossirian_8cpp.html#a5bd342133be8c2137b831460acc9298cab79970da263d22f87e8c192d563ac9e5":[7,0,0,0,1,3,4,8,4,10,2],
@@ -115,12 +117,12 @@ var NAVTREEINDEX278 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,31,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,11,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,11,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,31,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,11,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,31,6,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2225,0],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#a5e9bcd384285b9046da93bd18804d07b":[6,0,2225,0,6],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#abf485123f0a73aa84ad5178e23c4192e":[6,0,2225,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX278 =
 "db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6":[6,0,4267,2],
 "db/d5c/classWarden.html#a3e786c9bb08fcd9a1349f2ec47cc3eeb":[6,0,4267,6],
 "db/d5c/classWarden.html#a4bb614b2dcabf334bee33142dd99ead3":[6,0,4267,31],
-"db/d5c/classWarden.html#a4e23f5a6d7fdeefed9c2511831ce0928":[6,0,4267,34],
-"db/d5c/classWarden.html#a571d17d7740745ea297081080be79b8a":[6,0,4267,16],
-"db/d5c/classWarden.html#a5949bd3821517bff75d1915ffdfd3e82":[6,0,4267,30]
+"db/d5c/classWarden.html#a4e23f5a6d7fdeefed9c2511831ce0928":[6,0,4267,34]
 };

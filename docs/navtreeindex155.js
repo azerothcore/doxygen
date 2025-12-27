@@ -1,5 +1,7 @@
 var NAVTREEINDEX155 =
 {
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aaaa31ed508cae53ac1a4437f1b16f16f":[6,0,1293,0,18],
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab1e2334ed48f82d62b3460fc0bd421aa":[6,0,1293,0,32],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab222376cabd0c738353fa1647276f2b5":[6,0,1293,0,19],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#ab4dc12b546c573bf5eafd3f26339c265":[6,0,1293,0,11],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#aba78c72c1ea64ed7ea5c93fd469568cf":[6,0,1293,0,38],
@@ -247,7 +249,5 @@ var NAVTREEINDEX155 =
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2e80a277bcb0e797ac5e65a2e9ae26b1":[7,0,0,0,1,3,4,1,1,6,6,5],
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4d067c8498081a870a958ac9f552e509":[7,0,0,0,1,3,4,1,1,6,6,4],
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f":[7,0,0,0,1,3,4,1,1,6,6,3],
-"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a94f8ba6b598eb764528d7e2559246c3a":[7,0,0,0,1,3,4,1,1,6,6,0],
-"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aa9cf3fd29541b5b1abc71e7664cfef26":[7,0,0,0,1,3,4,1,1,6,6,2],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html":[6,0,1846,0]
+"d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a94f8ba6b598eb764528d7e2559246c3a":[7,0,0,0,1,3,4,1,1,6,6,0]
 };

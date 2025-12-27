@@ -1,5 +1,8 @@
 var NAVTREEINDEX394 =
 {
+"df/da7/classBattleground.html#abfc03a1069a605e73dec57112485b974":[6,0,315,157],
+"df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,315,226],
+"df/da7/classBattleground.html#ac3c9c898181cfd9a2cddc451d26c6bbe":[6,0,315,16],
 "df/da7/classBattleground.html#ac3f9a4369413692efa8bfc5a4c73df47":[6,0,315,181],
 "df/da7/classBattleground.html#ac781c38088ff24a56723d4c8d60dca94":[6,0,315,108],
 "df/da7/classBattleground.html#ac8403531adebb2787a4dbeede6001efd":[6,0,315,81],
@@ -246,8 +249,5 @@ var NAVTREEINDEX394 =
 "df/db7/the__underbog_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aefd434c651108b5f79a253b9a91d045d":[7,0,0,0,1,3,7,2,3,5,2,2],
 "df/db7/the__underbog_8h.html#afcd42fc90cff2a3292b19b2ea80bdd38":[7,0,0,0,1,3,7,2,3,5,0],
 "df/db8/GridNotifiersImpl_8h.html":[7,0,0,0,1,2,19,1,2],
-"df/db8/structboss__alar.html":[6,0,370],
-"df/db8/structboss__alar.html#a1710a571622d1a6cbdb58f3ba72082c5":[6,0,370,6],
-"df/db8/structboss__alar.html#a27139d6b972461f65e36b4de8ebb2bb5":[6,0,370,19],
-"df/db8/structboss__alar.html#a35ebd55fb16705ba48d9e070c3f7fd2a":[6,0,370,10]
+"df/db8/structboss__alar.html":[6,0,370]
 };

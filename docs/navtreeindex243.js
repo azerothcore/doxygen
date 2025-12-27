@@ -1,5 +1,7 @@
 var NAVTREEINDEX243 =
 {
+"d9/dbf/classGhoulTargetCheck.html":[6,0,1105],
+"d9/dbf/classGhoulTargetCheck.html#a6722cfe5a1ceecccf2c07924b2975f46":[6,0,1105,1],
 "d9/dbf/classGhoulTargetCheck.html#ab44092ca1cd6d7c17d7c63e0a8333453":[6,0,1105,2],
 "d9/dbf/classGhoulTargetCheck.html#acd743b2b1407c5171fbf410a02ff07bf":[6,0,1105,0],
 "d9/dbf/classnpc__engineering__tele__trinket.html":[6,0,1763],
@@ -36,10 +38,10 @@ var NAVTREEINDEX243 =
 "d9/dc2/structgo__wg__vehicle__teleporter_1_1go__wg__vehicle__teleporterAI.html#af84e73765b1a4d810b41613824999186":[6,0,1205,0,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[5,0,1,135],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html":[6,0,0,123],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,135,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[6,0,0,123,0],
-"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,135,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#a0c08b6b4c7878678eb419a556f718be0":[5,0,1,135,0],
 "d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[6,0,0,123,1],
+"d9/dc3/structAcore_1_1WorldObjectSpellTrajTargetCheck.html#aa1f7772cdb19914cc365a325f801b5d5":[5,0,1,135,1],
 "d9/dc5/classConfigValueCache.html":[6,0,899],
 "d9/dc5/classConfigValueCache.html#a274d23acbfb0b10d6b1482bf37b41b0c":[6,0,899,3],
 "d9/dc5/classConfigValueCache.html#a2fd376bdf015db27133e636c3051410f":[6,0,899,7],
@@ -141,8 +143,8 @@ var NAVTREEINDEX243 =
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,11,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,31,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,11,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,31,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,11,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX243 =
 "d9/dc8/classboss__deathbringer__saurfang.html#ad19893be7dc3b4290d9b1ed3bb992e08":[6,0,424,1],
 "d9/dc9/classspell__batrider__bomb.html":[6,0,2634],
 "d9/dc9/classspell__batrider__bomb.html#a42a69995e8f527a383e96e2ead832f72":[6,0,2634,1],
-"d9/dc9/classspell__batrider__bomb.html#a7697caf8e5390d290b353fb6a291aa10":[6,0,2634,3],
-"d9/dc9/classspell__batrider__bomb.html#abb26c89a617bc27f8c2a1cfbb0935234":[6,0,2634,2],
-"d9/dc9/classspell__batrider__bomb.html#ace68732d578fbaeb2b209bfded88853a":[6,0,2634,0]
+"d9/dc9/classspell__batrider__bomb.html#a7697caf8e5390d290b353fb6a291aa10":[6,0,2634,3]
 };

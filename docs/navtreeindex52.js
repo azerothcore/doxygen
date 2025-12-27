@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d22/boss__chess__event_8cpp.html":[7,0,0,0,1,3,2,4,0],
 "d2/d22/boss__chess__event_8cpp.html#a0544772b6f5c8b343db16ef7687a9b1b":[7,0,0,0,1,3,2,4,0,7],
 "d2/d22/boss__chess__event_8cpp.html#a0544772b6f5c8b343db16ef7687a9b1ba62624203ab6be95ae8c4f924e9ae685b":[7,0,0,0,1,3,2,4,0,7,1],
 "d2/d22/boss__chess__event_8cpp.html#a0544772b6f5c8b343db16ef7687a9b1ba7e5b57a30ed4e17419134053fd123866":[7,0,0,0,1,3,2,4,0,7,2],
@@ -96,8 +97,8 @@ var NAVTREEINDEX52 =
 "d2/d22/classspell__pri__mana__burn.html#a2a780069022e62b14992a7b69626ac3d":[6,0,3584,2],
 "d2/d22/classspell__pri__mana__burn.html#a6f0ec02c8b1429a6be76465dd9badd1c":[6,0,3584,0],
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3584,1],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1325,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca90d7515f30165efde72eca296e6506f6":[7,0,0,0,1,2,36,2,17,9],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6caa4ccf7e90f00237c4edb4de98162be3a":[7,0,0,0,1,2,36,2,17,5],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6cad0b9e3d049c7df9b0ca9c2d0d461a25d":[7,0,0,0,1,2,36,2,17,4],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6caeb1be76328219029c8b20345c76e9dd7":[7,0,0,0,1,2,36,2,17,7],
-"d2/d27/QuestDef_8h.html#a7dab6182ee1bbabf205ed30f9c2d6c8b":[7,0,0,0,1,2,36,2,9]
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6caeb1be76328219029c8b20345c76e9dd7":[7,0,0,0,1,2,36,2,17,7]
 };

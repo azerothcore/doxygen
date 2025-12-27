@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"df/dd9/classWorldPackets_1_1Array.html":[5,0,31,15],
+"df/dd9/classWorldPackets_1_1Array.html":[6,0,11,15],
+"df/dd9/classWorldPackets_1_1Array.html#a03f40f93fb06fb760db6c33e10a3b32e":[5,0,31,15,3],
 "df/dd9/classWorldPackets_1_1Array.html#a03f40f93fb06fb760db6c33e10a3b32e":[6,0,11,15,3],
 "df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[6,0,11,15,7],
 "df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[5,0,31,15,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX401 =
 "df/dda/structboss__bjarngrim.html#abd4d83ebc59cac8cf97fa495d42675f8":[6,0,399,4],
 "df/dda/structboss__bjarngrim.html#ac72b38eced65a3246b4c83a82caf44cb":[6,0,399,10],
 "df/dda/structboss__bjarngrim.html#acd511435f9d77aa4839e1c856382ea51":[6,0,399,7],
-"df/dda/structboss__bjarngrim.html#ad150ab7d9837861e8c4673a78978bb11":[6,0,399,3],
-"df/dda/structboss__bjarngrim.html#ad72abbd2eaa7d56fd1b409ffd2980d87":[6,0,399,11],
-"df/dda/structboss__bjarngrim.html#aec11755c71f056c8294a8af1c1084353":[6,0,399,12],
-"df/dda/structnpc__crystalline__frayer.html":[6,0,1715]
+"df/dda/structboss__bjarngrim.html#ad150ab7d9837861e8c4673a78978bb11":[6,0,399,3]
 };

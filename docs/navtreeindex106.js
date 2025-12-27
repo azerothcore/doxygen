@@ -1,5 +1,7 @@
 var NAVTREEINDEX106 =
 {
+"d3/da9/classWorldState.html#a513a4bd7d27428d4551cbbe0048dbeee":[6,0,4333,4],
+"d3/da9/classWorldState.html#a528f3b83ecaba4c1e99198340204b2b1":[6,0,4333,21],
 "d3/da9/classWorldState.html#a532dda18bff01067da90c6ce303f7a04":[6,0,4333,70],
 "d3/da9/classWorldState.html#a5cb1e1ff43eb6b88935b86c875363e40":[6,0,4333,64],
 "d3/da9/classWorldState.html#a60d5e7cd4ef857d7085fdb0b16107d12":[6,0,4333,61],
@@ -126,8 +128,8 @@ var NAVTREEINDEX106 =
 "d3/dae/structnpc__apothecary__frye.html":[6,0,1604],
 "d3/dae/structnpc__apothecary__frye.html#a5546099958a9a267d237e65720588456":[6,0,1604,0],
 "d3/dae/structnpc__apothecary__frye.html#ab1dc310e90c591b44ce4d5bcf1bac930":[6,0,1604,1],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[6,0,11,9,16],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,31,9,16],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[6,0,11,9,16],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,31,9,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,11,9,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,31,9,16,1],
@@ -239,15 +241,13 @@ var NAVTREEINDEX106 =
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,28,20],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,9,20],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,28,20,1],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,9,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,28,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,9,20,2],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,28,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,9,20,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,28,20,0],
 "d3/db3/structNpcFlagText.html":[6,0,2304],
 "d3/db3/structNpcFlagText.html#a87700bc5f863f448b346c2aec2152ba4":[6,0,2304,1],
-"d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[6,0,2304,0],
-"d3/db4/structboss__julianne.html":[6,0,563],
-"d3/db4/structboss__julianne.html#a1047e28950098b35bd8a8fc5bec4ed26":[6,0,563,8]
+"d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[6,0,2304,0]
 };

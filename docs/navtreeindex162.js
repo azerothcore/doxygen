@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a3bf898911798eaa891ef7638a3a2cc20":[6,0,602,0,0],
+"d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a3bfe3ab90ff6f401c3f7b8655e3abc05":[6,0,602,0,11],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a4f0121aedeff9d44b28e888f5f3d0382":[6,0,602,0,3],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a5d78455f5ba6e30df6644897b4e6ad7e":[6,0,602,0,1],
 "d6/d0b/structboss__maexxna_1_1boss__maexxnaAI.html#a6ddb73eeb18560a08e72dd6ccc5d0c83":[6,0,602,0,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "d6/d13/structServerPktHeader.html#a761e294fccc02055a46bfc46656da706":[6,0,2537,0],
 "d6/d13/structServerPktHeader.html#adc69128832b16124c284c584e7540b11":[6,0,2537,3],
 "d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html":[6,0,698,0],
-"d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#a0f6e3e6876b9b769ea53db5c9028c6ff":[6,0,698,0,1],
-"d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#a984b3d32d5f231a019f2c0f1bb027907":[6,0,698,0,0],
-"d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#aaa8111d42cacd58f767513026976668c":[6,0,698,0,2]
+"d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#a0f6e3e6876b9b769ea53db5c9028c6ff":[6,0,698,0,1]
 };

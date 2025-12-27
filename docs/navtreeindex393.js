@@ -1,5 +1,8 @@
 var NAVTREEINDEX393 =
 {
+"df/da2/classPoolGroup.html#ad71bfdaa3a64bea3a14a26e6c155c5c5":[6,0,2425,15],
+"df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html":[6,0,1969,0],
+"df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#a077843a7ead2034da695be816de42f9e":[6,0,1969,0,4],
 "df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#a1976a80f37a0935926508f9ad6cc7bbb":[6,0,1969,0,5],
 "df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#a31ea8955ad44ea2db0a5a208fd2efc61":[6,0,1969,0,1],
 "df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#a941ae1faab010551db6a8e6749993357":[6,0,1969,0,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX393 =
 "df/da7/classBattleground.html#abd39e8c90785dbb6e5067f21cd982a9a":[6,0,315,240],
 "df/da7/classBattleground.html#abdc79af5823ab0fa1437b0e5eb9b8a4c":[6,0,315,63],
 "df/da7/classBattleground.html#abe08bc432962f1a5f32e0948ae23104d":[6,0,315,105],
-"df/da7/classBattleground.html#abe4a32d5328b63c60b2363c57678d352":[6,0,315,96],
-"df/da7/classBattleground.html#abfc03a1069a605e73dec57112485b974":[6,0,315,157],
-"df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,315,226],
-"df/da7/classBattleground.html#ac3c9c898181cfd9a2cddc451d26c6bbe":[6,0,315,16]
+"df/da7/classBattleground.html#abe4a32d5328b63c60b2363c57678d352":[6,0,315,96]
 };

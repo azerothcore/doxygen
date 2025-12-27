@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"d1/d05/structMmapTileRecastConfig.html#a88fd7166e3555df1307ad0e1a7dfc8f6":[6,0,1515,8],
 "d1/d05/structMmapTileRecastConfig.html#a98ac017bf29e25cd6ec48e7635895196":[6,0,1515,0],
 "d1/d05/structMmapTileRecastConfig.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd":[6,0,1515,3],
 "d1/d05/structMmapTileRecastConfig.html#aaaf165b5e3b8361d37837e6b93609557":[6,0,1515,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d16/classSpell.html#a345dbd5586fd5c63ba90140260572478":[6,0,2579,46],
 "d1/d16/classSpell.html#a34df7adad059a14aa5f3248cca54c7f6":[6,0,2579,164],
 "d1/d16/classSpell.html#a35e87fc17d3f851454bc171f0c91df8b":[6,0,2579,97],
-"d1/d16/classSpell.html#a3624f6462fad7a23534167d2d7151d5a":[6,0,2579,118],
-"d1/d16/classSpell.html#a368db9dd1b9fe065b9cefcefe0cdbe77":[6,0,2579,190]
+"d1/d16/classSpell.html#a3624f6462fad7a23534167d2d7151d5a":[6,0,2579,118]
 };

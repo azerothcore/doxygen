@@ -1,5 +1,8 @@
 var NAVTREEINDEX392 =
 {
+"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ac98fdfb490fa896cecb40ae427f4ea75":[7,0,0,0,1,3,4,9,5,2,3],
+"df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84ad1b32b1cb6f4f2623ab24da8eb0e090f":[7,0,0,0,1,3,4,9,5,2,5],
+"df/d9b/structboss__jarien.html":[6,0,558],
 "df/d9b/structboss__jarien.html#a06b02c7f7dff885a86609e0116f2fd96":[6,0,558,9],
 "df/d9b/structboss__jarien.html#a19e07a3da93e487b5984a8de0c7f26c9":[6,0,558,0],
 "df/d9b/structboss__jarien.html#a2e54c5ae404be944eeff3a57c96aa8ca":[6,0,558,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX392 =
 "df/da2/classPoolGroup.html#aac4a0029762c1689d23d31d664e6a63b":[6,0,2425,2],
 "df/da2/classPoolGroup.html#abaa11e02fc751f2d130bf6413db7a6e3":[6,0,2425,4],
 "df/da2/classPoolGroup.html#abec7d6ab00f6e73ab46d3e143075d8f2":[6,0,2425,17],
-"df/da2/classPoolGroup.html#aca6870e8abc17dda45e0201d369531c7":[6,0,2425,0],
-"df/da2/classPoolGroup.html#ad71bfdaa3a64bea3a14a26e6c155c5c5":[6,0,2425,15],
-"df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html":[6,0,1969,0],
-"df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#a077843a7ead2034da695be816de42f9e":[6,0,1969,0,4]
+"df/da2/classPoolGroup.html#aca6870e8abc17dda45e0201d369531c7":[6,0,2425,0]
 };

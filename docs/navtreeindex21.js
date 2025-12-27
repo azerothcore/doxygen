@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"d0/deb/classGraveyard.html#ac398379a421eabea55729e867d57383f":[6,0,1217,10],
 "d0/deb/classGraveyard.html#addd1a184b9791c8c6a74fb228545741b":[6,0,1217,5],
 "d0/deb/classGraveyard.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6":[6,0,1217,6],
 "d0/deb/classGraveyard.html#af957c28b4ccfc7b1853280b7441c958d":[6,0,1217,11],
@@ -24,16 +25,16 @@ var NAVTREEINDEX21 =
 "d0/dec/Spline_8cpp.html#aff10e913762216c0735a8a3530ee25d2":[7,0,0,0,1,2,31,1,10,3],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html":[6,0,0,9],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html":[5,0,1,21],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[5,0,1,21,1],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[6,0,0,9,1],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[5,0,1,21,2],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#a06dd774a24d4a1da36a2a862c0ad97df":[5,0,1,21,1],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[6,0,0,9,2],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#a0ec9a2499d73516dd2d4a0319990924a":[5,0,1,21,2],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a199f4b91d00dd4db90855e5521d87a95":[6,0,0,9,4],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#a199f4b91d00dd4db90855e5521d87a95":[5,0,1,21,4],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#ab19dba99802231bc1ba7b3ae3cb4bdb3":[6,0,0,9,0],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#ab19dba99802231bc1ba7b3ae3cb4bdb3":[5,0,1,21,0],
-"d0/dec/structAcore_1_1AIRelocationNotifier.html#ab1dd814e4d94ed2989bb07012a24d40e":[5,0,1,21,3],
 "d0/dec/structAcore_1_1AIRelocationNotifier.html#ab1dd814e4d94ed2989bb07012a24d40e":[6,0,0,9,3],
+"d0/dec/structAcore_1_1AIRelocationNotifier.html#ab1dd814e4d94ed2989bb07012a24d40e":[5,0,1,21,3],
 "d0/dee/classspell__q10769__dissension__amongst__the__ranks.html":[6,0,3634],
 "d0/dee/classspell__q10769__dissension__amongst__the__ranks.html#a5b2a218cca68177209ca42be9dfbc8ea":[6,0,3634,2],
 "d0/dee/classspell__q10769__dissension__amongst__the__ranks.html#a7dc7cb2dcdd6518a253a459e2e711c89":[6,0,3634,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ead6a35c0d10f6b96ead76ca121efe7ebc":[7,0,0,0,1,2,8,1,9,12,5],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917ead942bf6ac8d23added623e9e0f600888":[7,0,0,0,1,2,8,1,9,12,7],
 "d0/df3/BattlegroundEY_8h.html#a84489428d2b18eb7cf77e8901459917eae2ba6bb720565394cfdcf7446772f982":[7,0,0,0,1,2,8,1,9,12,11],
-"d0/df3/BattlegroundEY_8h.html#a8d51b67b702b283b6ed9b563e2a7171e":[7,0,0,0,1,2,8,1,9,23],
-"d0/df3/BattlegroundEY_8h.html#a8f5680e97e802622e042e9db979d09d6":[7,0,0,0,1,2,8,1,9,26]
+"d0/df3/BattlegroundEY_8h.html#a8d51b67b702b283b6ed9b563e2a7171e":[7,0,0,0,1,2,8,1,9,23]
 };

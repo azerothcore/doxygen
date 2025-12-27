@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html":[6,0,2666],
+"dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#a3d218b009c195b6e0fab5152a95da8ad":[6,0,2666,1],
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#acd11d50f398857dc2a24bd2d63e52222":[6,0,2666,0],
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2666,2],
 "dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb05711c33ffcbdb6dd9ebe06d691504":[7,0,0,0,1,3,5,4,1,2,33,15],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb68f937d20a2c3b950fa0472657a174":[7,0,0,0,1,3,5,4,1,2,33,11],
 "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc0378017b872625a84efb340c7c3224":[7,0,0,0,1,3,5,4,1,2,33,8],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1addf50b7ce422c565cdfa865d4f741dc2":[7,0,0,0,1,3,5,4,1,2,33,19],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adf7aea44d244b5d8d7bfad495c5f42db":[7,0,0,0,1,3,5,4,1,2,33,28],
-"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0a5c09d3ec69c8e7850531771251152":[7,0,0,0,1,3,5,4,1,2,33,16]
+"dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1addf50b7ce422c565cdfa865d4f741dc2":[7,0,0,0,1,3,5,4,1,2,33,19]
 };

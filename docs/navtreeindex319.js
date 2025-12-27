@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"dc/df0/classnpc__power__spark.html#a9efd2810feb5f90f9f12f51ec7282410":[6,0,2052,1],
+"dc/df0/zulgurub_8h.html":[7,0,0,0,1,3,2,16,15],
 "dc/df0/zulgurub_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,16,15,0],
 "dc/df0/zulgurub_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,2,16,15,6],
 "dc/df0/zulgurub_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57ea3283f0f4da944506f44c3bf9237adb5a":[7,0,0,0,1,3,2,16,15,6,0],
@@ -70,16 +72,16 @@ var NAVTREEINDEX319 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,4051,2],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ad47d51e68c6ffe60f15beceaffc60b19":[6,0,4051,1],
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4051,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,764],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[6,0,764,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[6,0,764,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dd/d03/structPacketHeader.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8":[6,0,2368,3],
 "dd/d03/structPacketHeader.html#a03b79fe07bd5f0a1c254f2fb92a3ecba":[6,0,2368,7],
 "dd/d03/structPacketHeader.html#a7fcc9281cd10ecf79929f9f17c855b65":[6,0,2368,5],
-"dd/d03/structPacketHeader.html#a8fa635d0c8f77a0e39fd66501490f6ea":[6,0,2368,1],
-"dd/d03/structPacketHeader.html#aa5219ee4193cccf913dabf6db5d6f57a":[6,0,2368,6],
-"dd/d03/structPacketHeader.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc":[6,0,2368,4]
+"dd/d03/structPacketHeader.html#a8fa635d0c8f77a0e39fd66501490f6ea":[6,0,2368,1]
 };

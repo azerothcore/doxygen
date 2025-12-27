@@ -1,5 +1,7 @@
 var NAVTREEINDEX325 =
 {
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12],
 "dd/d3a/BattlegroundMgr_8h.html#a0167dc8561c0fb4a41f0eaa6bea38980":[7,0,0,0,1,2,8,12,6],
 "dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,12,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX325 =
 "dd/d3e/classspell__wintergrasp__water.html#a5139e3e9cb1c9079798cefc3cb04d387":[6,0,4062,1],
 "dd/d3e/classspell__wintergrasp__water.html#afde7c1e90f2faa9c587490ce358a59b2":[6,0,4062,0],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html":[6,0,2270,0],
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a2c810e2fe14e4681a0092a0c6bb3eadc":[6,0,2270,0,3],
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a39e33812041877296c11c9bace6a4667":[6,0,2270,0,2],
-"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a56f2753ef630b76882cc1dce6b5a8fb9":[6,0,2270,0,6]
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a2c810e2fe14e4681a0092a0c6bb3eadc":[6,0,2270,0,3]
 };

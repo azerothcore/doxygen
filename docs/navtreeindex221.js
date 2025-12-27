@@ -1,5 +1,7 @@
 var NAVTREEINDEX221 =
 {
+"d8/d95/classspell__death__knight__initiate__visual.html#ad110e0dba330acde845c47501256cf5d":[6,0,2727,1],
+"d8/d95/classspell__pri__pain__and__suffering__proc.html":[6,0,3588],
 "d8/d95/classspell__pri__pain__and__suffering__proc.html#a1fa4dca7bae36c5e2acde0fe8b8cd801":[6,0,3588,2],
 "d8/d95/classspell__pri__pain__and__suffering__proc.html#a852a621f0b008dc1294dbeb9e9877a04":[6,0,3588,0],
 "d8/d95/classspell__pri__pain__and__suffering__proc.html#a8b0f656994289f260645a2ae60d9ee4b":[6,0,3588,1],
@@ -86,12 +88,12 @@ var NAVTREEINDEX221 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1657,0,7],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,11,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,31,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,31,3,2,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,3,2,1],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,11,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,31,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,11,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,31,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,11,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2494],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2494,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2494,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX221 =
 "d8/da6/classnpc__freya__ward.html":[6,0,1790],
 "d8/da6/classnpc__freya__ward.html#a90c0e7a0be1717bf1793415b6fcafbed":[6,0,1790,2],
 "d8/da6/classnpc__freya__ward.html#aebaadcc001922c78e8ec43084a827ac9":[6,0,1790,1],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html":[6,0,449,0],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a1544782732beba5d7114c3bb70419ae1":[6,0,449,0,3],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a16c90dba1f0a7f4cc2025e294dbac455":[6,0,449,0,11]
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html":[6,0,449,0]
 };

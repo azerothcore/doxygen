@@ -1,5 +1,7 @@
 var NAVTREEINDEX74 =
 {
+"d2/dd6/classachievement__been__waiting__long__time.html#a5e72304220d3a649d2182cb287215da6":[6,0,35,1],
+"d2/dd6/classachievement__been__waiting__long__time.html#a839ec8cb50512bbae7125ead3ed35aec":[6,0,35,0],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html":[6,0,3741],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a047a1dd4bab33d7d5b2631c0862ba4b0":[6,0,3741,1],
 "d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a0ced86fc2e108e7bba9727d26eac3ff3":[6,0,3741,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de9/classSpellInfo.html#a07eddba05562696df602a5e169caa7d3":[6,0,4110,7],
 "d2/de9/classSpellInfo.html#a0971bddc1632a3bb857a6a802506abcd":[6,0,4110,189],
 "d2/de9/classSpellInfo.html#a0a651a1cf655c9d5619f6b78e471656a":[6,0,4110,95],
-"d2/de9/classSpellInfo.html#a0dc33b718ec58ac1064a403c29e98a17":[6,0,4110,37],
-"d2/de9/classSpellInfo.html#a0ddc3531aeb41a1fa93502d94621e025":[6,0,4110,169],
-"d2/de9/classSpellInfo.html#a0e4591c8f25d0186911111d9a8b3e160":[6,0,4110,148]
+"d2/de9/classSpellInfo.html#a0dc33b718ec58ac1064a403c29e98a17":[6,0,4110,37]
 };

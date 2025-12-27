@@ -1,5 +1,8 @@
 var NAVTREEINDEX390 =
 {
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa531ea900bb563d7a2cc0d2767fad3adb":[7,0,0,0,1,3,5,9,2,4,22,17],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa53b570ac1203fbe44290d3ff38438fa2":[7,0,0,0,1,3,5,9,2,4,22,20],
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa5a13d9572df552eeea3976e8a136430e":[7,0,0,0,1,3,5,9,2,4,22,1],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa65824e8e66e216b688c78a6275c150f5":[7,0,0,0,1,3,5,9,2,4,22,2],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa684b9dd7a5d28ea2c20ccc4f31b548d9":[7,0,0,0,1,3,5,9,2,4,22,37],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fa6dae7520a98c2d75cbec7a647bd63d07":[7,0,0,0,1,3,5,9,2,4,22,28],
@@ -246,8 +249,5 @@ var NAVTREEINDEX390 =
 "df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3":[6,0,4127,38],
 "df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52":[6,0,4127,69],
 "df/d92/classSpellScript.html#a4c344a8c0060cc4456f7b09fb11c36ec":[6,0,4127,44],
-"df/d92/classSpellScript.html#a4cb7be85b447f9b8a1329808e76dec27":[6,0,4127,46],
-"df/d92/classSpellScript.html#a55b352390f66a1d2314566de232343f9":[6,0,4127,65],
-"df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f":[6,0,4127,47],
-"df/d92/classSpellScript.html#a631c606f892a78a649d2dbaa7356a144":[6,0,4127,43]
+"df/d92/classSpellScript.html#a4cb7be85b447f9b8a1329808e76dec27":[6,0,4127,46]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX383 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af6ab95e21ce3e6cd8f5f7ec4a3c5d24a":[7,0,0,0,1,2,16,5,0,4,6,52],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af6ad397bf37513adbb9e941ad4383554":[7,0,0,0,1,2,16,5,0,4,6,124],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af70d5fd0daf99cf6df9afdd21299d7ca":[7,0,0,0,1,2,16,5,0,4,6,206],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af71d8e97544e4f93b8ca7a4d0b131bd4":[7,0,0,0,1,2,16,5,0,4,6,297],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af737923056e1131b221805d39044aff1":[7,0,0,0,1,2,16,5,0,4,6,34],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881af9138329907a77a83a67f7ae92e4c1ba":[7,0,0,0,1,2,16,5,0,4,6,181],
@@ -246,8 +249,5 @@ var NAVTREEINDEX383 =
 "df/d2a/structnpc__molten__golem.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e":[6,0,1970,4],
 "df/d2a/structnpc__molten__golem.html#af46ccffa6a7fcf3cbee893eba6435159":[6,0,1970,6],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[5,0,31,6,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,6,40],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,31,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,6,40,3],
-"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,31,6,40,2]
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html":[6,0,11,6,40]
 };

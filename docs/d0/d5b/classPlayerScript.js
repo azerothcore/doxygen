@@ -167,6 +167,7 @@ var classPlayerScript =
     [ "OnPlayerStoreNewItem", "d0/d5b/classPlayerScript.html#a7ce4b3df298df0320a73322a684baada", null ],
     [ "OnPlayerTalentsReset", "d0/d5b/classPlayerScript.html#a380a6f92932c8c594299771944ea424d", null ],
     [ "OnPlayerTextEmote", "d0/d5b/classPlayerScript.html#aecc401350811d0abd6c5722a54209a2c", null ],
+    [ "OnPlayerUnequip", "d0/d5b/classPlayerScript.html#a37f05ef9b0094201799e640670ecdd0a", null ],
     [ "OnPlayerUpdate", "d0/d5b/classPlayerScript.html#a23530e61904f730220f3a5fb1b4550e6", null ],
     [ "OnPlayerUpdateArea", "d0/d5b/classPlayerScript.html#a8136dbb5af76d5ef658cab44798f6649", null ],
     [ "OnPlayerUpdateCraftingSkill", "d0/d5b/classPlayerScript.html#a816bced318f7c0b55b9a0a0a2a0e9dd8", null ],
@@ -175,6 +176,6 @@ var classPlayerScript =
     [ "OnPlayerUpdateGatheringSkill", "d0/d5b/classPlayerScript.html#a76c33e19e482b55e101ad2d02da63670", null ],
     [ "OnPlayerUpdateSkill", "d0/d5b/classPlayerScript.html#a8150190df8eae991a67889c8bcb8a052", null ],
     [ "OnPlayerUpdateZone", "d0/d5b/classPlayerScript.html#ad8046ffb37b7cd18ff7072e9017f4a7e", null ],
-    [ "OnPlayerVictimRewardAfter", "d0/d5b/classPlayerScript.html#af77ff360bd5beb69eb17eb68967b3469", null ],
-    [ "OnPlayerVictimRewardBefore", "d0/d5b/classPlayerScript.html#ad92bf8f83e46259c1febe52f98657f7e", null ]
+    [ "OnPlayerVictimRewardAfter", "d0/d5b/classPlayerScript.html#a422f167e9cb5d3de94a31ca9ecc2be0a", null ],
+    [ "OnPlayerVictimRewardBefore", "d0/d5b/classPlayerScript.html#a2a8f62e8ef4b29a5b4bfe1ee91f94602", null ]
 ];

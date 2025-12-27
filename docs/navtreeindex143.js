@@ -1,5 +1,7 @@
 var NAVTREEINDEX143 =
 {
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a273b248eb7b8ffab709d393670cb8f72":[6,0,508,0,5],
+"d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a2a03cc604720f4952a11d72a54bd4437":[6,0,508,0,16],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a33eb1620bc4b3b289706357d786fa56e":[6,0,508,0,10],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a4c6a17931fbfbab3609d70da53662676":[6,0,508,0,14],
 "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a6240088bec30b62a8ae223e0236959c7":[6,0,508,0,13],
@@ -127,12 +129,12 @@ var NAVTREEINDEX143 =
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1107,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,102],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,90,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,90,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,90,2],
 "d5/d34/structMovieEntry.html":[6,0,1534],
@@ -247,7 +249,5 @@ var NAVTREEINDEX143 =
 "d5/d43/SpellEffects_8cpp.html#a294b5954f08aebdafe9e5a6f00e2dc82":[7,0,0,0,1,2,41,4,1],
 "d5/d43/SpellEffects_8cpp.html#a711d5a2b2f8cbeb49153d9e33ea51bf1":[7,0,0,0,1,2,41,4,0],
 "d5/d43/TileAssembler_8cpp.html":[7,0,0,0,0,1,1,3],
-"d5/d43/TileAssembler_8cpp.html#a166f3eeee53079ac9df4f15ccd577974":[7,0,0,0,0,1,1,3,5],
-"d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[7,0,0,0,0,1,1,3,4],
-"d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[7,0,0,0,0,1,1,3,3]
+"d5/d43/TileAssembler_8cpp.html#a166f3eeee53079ac9df4f15ccd577974":[7,0,0,0,0,1,1,3,5]
 };

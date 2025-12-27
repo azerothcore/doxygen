@@ -1,5 +1,7 @@
 var NAVTREEINDEX171 =
 {
+"d6/d58/classspell__load__into__catapult__aura.html#a788480ec4aaa57e643f55daca17c6ded":[6,0,3403,2],
+"d6/d58/classspell__load__into__catapult__aura.html#ab967233994aa3ff07b272f010b2c1545":[6,0,3403,1],
 "d6/d58/classspell__onslaught__or__call__bone__gryphon.html":[6,0,3522],
 "d6/d58/classspell__onslaught__or__call__bone__gryphon.html#a1654fec971696e613b5102b3ca5030f1":[6,0,3522,1],
 "d6/d58/classspell__onslaught__or__call__bone__gryphon.html#ab1e7d44914952dfb7f7ccf2de4da286f":[6,0,3522,2],
@@ -59,16 +61,16 @@ var NAVTREEINDEX171 =
 "d6/d5c/classAcore_1_1ACLogSink.html":[6,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[6,0,0,7,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,1,19,2],
-"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[6,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[5,0,1,19,4],
-"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,1,19,0],
+"d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[6,0,0,7,4],
 "d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[6,0,0,7,0],
+"d6/d5c/classAcore_1_1ACLogSink.html#a6a53b4b68647fdde65e3c2363127fc4f":[5,0,1,19,0],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[6,0,0,7,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,1,19,1],
-"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
+"d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,33],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,33,0],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,21,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[6,0,2668],
@@ -247,7 +249,5 @@ var NAVTREEINDEX171 =
 "d6/d66/classGameObjectAI.html#a68acb343e76a0c45513113b650929683":[6,0,1081,18],
 "d6/d66/classGameObjectAI.html#a7d26ef498d0e88030dde9543da9c80f5":[6,0,1081,9],
 "d6/d66/classGameObjectAI.html#a8459d37ce69b9a02c1ecd047ec704089":[6,0,1081,17],
-"d6/d66/classGameObjectAI.html#a88040926f54167d6682b6d9bf5c230a0":[6,0,1081,12],
-"d6/d66/classGameObjectAI.html#a8d3c7c153a241a7fcd61f164c645bdd1":[6,0,1081,13],
-"d6/d66/classGameObjectAI.html#a8d493356155c90379d5dce9e923e81f9":[6,0,1081,16]
+"d6/d66/classGameObjectAI.html#a88040926f54167d6682b6d9bf5c230a0":[6,0,1081,12]
 };

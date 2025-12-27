@@ -1,5 +1,7 @@
 var NAVTREEINDEX127 =
 {
+"d4/d69/structItemTemplate.html#ac608f29c0ddf0a9ddc45854c971952a3":[6,0,1398,52],
+"d4/d69/structItemTemplate.html#ac984b031e6568d5a36ed5642b743a883":[6,0,1398,19],
 "d4/d69/structItemTemplate.html#acd71cd1c7450919c45c492f6d9b103a6":[6,0,1398,3],
 "d4/d69/structItemTemplate.html#ace3f09ec171d1db3dc6d6cae57306506":[6,0,1398,32],
 "d4/d69/structItemTemplate.html#acf4934f509118a60bcf90dbb893b7e58":[6,0,1398,66],
@@ -238,16 +240,14 @@ var NAVTREEINDEX127 =
 "d4/d78/boss__anubarak__trial_8cpp.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f":[7,0,0,0,1,3,5,2,1,0,18,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[6,0,11,6,13],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html":[5,0,31,6,13],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,11,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[5,0,31,6,13,1],
-"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,31,6,13,3],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a24f580f6addcd08945c05016b3f0e544":[6,0,11,6,13,1],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[6,0,11,6,13,3],
+"d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#a9bb8c3f539fdcf389caf57ed818c6164":[5,0,31,6,13,3],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[6,0,11,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#aba353d3f94a88b71f49b9c0dc096be2c":[5,0,31,6,13,0],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[5,0,31,6,13,2],
 "d4/d78/classWorldPackets_1_1Guild_1_1GuildBankSetTabText.html#ada6707c2105410d78d4335dbf4747141":[6,0,11,6,13,2],
 "d4/d78/structadt__MCIN_1_1adt__CELLS.html":[6,0,134,0],
-"d4/d78/structadt__MCIN_1_1adt__CELLS.html#a063c5dc62c44038e882340221bf8228a":[6,0,134,0,2],
-"d4/d78/structadt__MCIN_1_1adt__CELLS.html#a47a5eeb595d53de009651ae02d2b416d":[6,0,134,0,3],
-"d4/d78/structadt__MCIN_1_1adt__CELLS.html#a9b9c3cec4acbd87911aa047dd52ae443":[6,0,134,0,1]
+"d4/d78/structadt__MCIN_1_1adt__CELLS.html#a063c5dc62c44038e882340221bf8228a":[6,0,134,0,2]
 };

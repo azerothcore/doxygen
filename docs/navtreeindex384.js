@@ -1,5 +1,8 @@
 var NAVTREEINDEX384 =
 {
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[5,0,31,6,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a368162426ab526adafc7ecb223fdf865":[6,0,11,6,40,3],
+"df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[5,0,31,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a4a5937a8daab44b5000a5308ed0be06a":[6,0,11,6,40,2],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[6,0,11,6,40,5],
 "df/d2b/classWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults.html#a795ba45650991bd5c1aa03c17886d86b":[5,0,31,6,40,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX384 =
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#a9b770bea32f0c3af7f5eb71eeea286fb":[6,0,3897,3],
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#ac5b2bc61e52a895d35e3a4e8232f1659":[6,0,3897,2],
 "df/d3c/classspell__the__cleansing__cleansing__soul.html#af78d13a65fe21879fdb9147cdb0f2352":[6,0,3897,0],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,289,16],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#a51baffee5c9dbf255591db8ea13ee516":[6,0,289,16,0],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#a63cf373d469af72bc96a3e72351e3256":[6,0,289,16,3],
-"df/d3d/classAuraScript_1_1ScriptStateStore.html#adddf594d9468b16455da6e2aef683d44":[6,0,289,16,2]
+"df/d3d/classAuraScript_1_1ScriptStateStore.html":[6,0,289,16]
 };

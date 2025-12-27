@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"d5/ddf/structVehicleSeatEntry.html#a4a5a5f2ffc050161d133ac85100a43ba":[6,0,4259,38],
+"d5/ddf/structVehicleSeatEntry.html#a4d50a267f1441914dd438e32fdec6ae2":[6,0,4259,47],
 "d5/ddf/structVehicleSeatEntry.html#a52bd4c7087242b75633dbe29cfc7ffcc":[6,0,4259,13],
 "d5/ddf/structVehicleSeatEntry.html#a5482d047a2d876b52ec2605c2a9acb93":[6,0,4259,32],
 "d5/ddf/structVehicleSeatEntry.html#a5b2d2e496d9fb7adeef8b60cb12d88c6":[6,0,4259,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/ded/classspell__warl__voidwalker__pet__passive.html":[6,0,4022],
 "d5/ded/classspell__warl__voidwalker__pet__passive.html#a20dad49a99420556f393a16525eb14b4":[6,0,4022,1],
 "d5/ded/classspell__warl__voidwalker__pet__passive.html#a341acb2dd25c1db94777f7036f3338ac":[6,0,4022,3],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html#a893842dfe5e1d6f7977e2fc97471b265":[6,0,4022,0],
-"d5/ded/classspell__warl__voidwalker__pet__passive.html#ad7d339ab137ebd640981f7789e1757f0":[6,0,4022,2],
-"d5/ded/structnpc__unkor__the__ruthless_1_1npc__unkor__the__ruthlessAI.html":[6,0,2246,0]
+"d5/ded/classspell__warl__voidwalker__pet__passive.html#a893842dfe5e1d6f7977e2fc97471b265":[6,0,4022,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX338 =
 {
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a195f6417cd6d29f73dab0b90876d138d":[7,0,0,0,1,3,5,0,1,1,5,6],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,0,1,1,5,11],
+"dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a29398c42277493fba085be78d83e9793":[7,0,0,0,1,3,5,0,1,1,5,0],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40e77434f465796503894bb925a102a0":[7,0,0,0,1,3,5,0,1,1,5,5],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a40f445f3e7b035611dc83650546644a6":[7,0,0,0,1,3,5,0,1,1,5,9],
 "dd/dd2/boss__anubarak_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9ead9e8f3e9c529e31b9b40545bb916a":[7,0,0,0,1,3,5,0,1,1,5,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9cb665a7a8d72bcd033209b18189ed1d":[7,0,0,0,1,3,5,1,1,2,30,17],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e1701d84d4b94a240486467761cc77a":[7,0,0,0,1,3,5,1,1,2,30,18],
 "dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaa2656782dccd71ce34a4923f5891a12":[7,0,0,0,1,3,5,1,1,2,30,15],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aabbfd7fc77093f972c5db308ddc4d569":[7,0,0,0,1,3,5,1,1,2,30,5],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae289067ddab0330b912fe3480d599dc":[7,0,0,0,1,3,5,1,1,2,30,13],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab1b40c3879b304d808c3daec16a0adbc":[7,0,0,0,1,3,5,1,1,2,30,2],
-"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acccc10750650899f49717b32461f8572":[7,0,0,0,1,3,5,1,1,2,30,10]
+"dd/dd6/boss__halion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aabbfd7fc77093f972c5db308ddc4d569":[7,0,0,0,1,3,5,1,1,2,30,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX231 =
 {
+"d9/d17/classspell__gen__weapon__coating__enchant.html":[6,0,3050],
+"d9/d17/classspell__gen__weapon__coating__enchant.html#abdbb7406693a59372fe6783fbe4fb0f1":[6,0,3050,1],
 "d9/d17/classspell__gen__weapon__coating__enchant.html#acad1e829a317d15e73549047ece67eda":[6,0,3050,2],
 "d9/d17/classspell__gen__weapon__coating__enchant.html#af6d00234388ceb5d1c9acd8775c66788":[6,0,3050,0],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html":[6,0,3939],
@@ -157,8 +159,8 @@ var NAVTREEINDEX231 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3263,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3263,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3263,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,12,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,11,12,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,31,12,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,11,12,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,31,12,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX231 =
 "d9/d2e/classachievement__auriaya__crazy__cat__lady.html":[6,0,33],
 "d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a1eb5d931c7c520b7cd6f516bfcb819e4":[6,0,33,0],
 "d9/d2e/classachievement__auriaya__crazy__cat__lady.html#a905b9a4389521fde6d26d3c19a0fe21c":[6,0,33,1],
-"d9/d2f/classnpc__pos__martin__or__gorkun__second.html":[6,0,2050],
-"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a180936e3bb98eb55d29ebd51350906c0":[6,0,2050,2],
-"d9/d2f/classnpc__pos__martin__or__gorkun__second.html#a3027c88a65aa523cc99f2fa79e1e376c":[6,0,2050,1]
+"d9/d2f/classnpc__pos__martin__or__gorkun__second.html":[6,0,2050]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"d0/dae/classArenaSeasonRewardDistributor.html#af2801ea5d098bebac111589e1fcf7004":[6,0,186,2],
 "d0/dae/classCustomSpellValues.html":[6,0,949],
 "d0/dae/classCustomSpellValues.html#a1c14e27dd094be2fccff3d74a1414a80":[6,0,949,0],
 "d0/dae/classItem.html":[6,0,1375],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "d0/db7/classGroup.html#a6961cad4ce9ffb385351a99bb8e3c4a0":[6,0,1230,94],
 "d0/db7/classGroup.html#a6ae8d8bc41a1770558866a505ce4b1a1":[6,0,1230,82],
 "d0/db7/classGroup.html#a70320ddf707b2494d166383c4a354b13":[6,0,1230,64],
-"d0/db7/classGroup.html#a706c9fb13deb5e8801cd1cd2ad7acd26":[6,0,1230,27],
-"d0/db7/classGroup.html#a707306cf44928aaa3455c3bbb497361f":[6,0,1230,51]
+"d0/db7/classGroup.html#a706c9fb13deb5e8801cd1cd2ad7acd26":[6,0,1230,27]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX326 =
 {
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a39e33812041877296c11c9bace6a4667":[6,0,2270,0,2],
+"dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a56f2753ef630b76882cc1dce6b5a8fb9":[6,0,2270,0,6],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a77234a8f4ec9c687b194a8c332820609":[6,0,2270,0,4],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#a810c0c03317672d5a4a904a1e96cbba9":[6,0,2270,0,1],
 "dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#acd72c6ae18b84cee94a295e51fae9ac3":[6,0,2270,0,8],
@@ -15,12 +17,12 @@ var NAVTREEINDEX326 =
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,9,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,9,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,28,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,28,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,9,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,28,8,2],
-"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,9,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,28,8,4],
+"dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,9,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[6,0,9,8,0],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,28,8,0],
 "dd/d3f/structboss__falric_1_1boss__falricAI.html":[6,0,460,0],
@@ -154,12 +156,12 @@ var NAVTREEINDEX326 =
 "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa69f437b8d590c2d67003ac654abe4":[7,0,0,0,1,3,2,1,1,1,2,5],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[5,0,31,7,2],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html":[6,0,11,7,2],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,7,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[6,0,11,7,2,0],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a09e4b117d8789d513a0e766986340140":[5,0,31,7,2,0],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[6,0,11,7,2,1],
-"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a172832ec72012278b000f38d761823b4":[5,0,31,7,2,1],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[5,0,31,7,2,3],
+"dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a27e27653e6f00869070de7354adff52d":[6,0,11,7,2,3],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[5,0,31,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a517202ccb270d78289630404beb61afc":[6,0,11,7,2,4],
 "dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html#a7472dfd7ccd78051bc8808832f8e74cb":[5,0,31,7,2,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX326 =
 "dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4":[6,0,1233,5],
 "dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f":[6,0,1233,4],
 "dd/d51/structGroupQueueInfo.html#adf219cc12cebeaddebf8c04c5004c30a":[6,0,1233,11],
-"dd/d51/structGroupQueueInfo.html#ae5912a881a5ecaa761ea28c87e6c45ad":[6,0,1233,12],
-"dd/d51/structGroupQueueInfo.html#aebaba68d0d75e08eb909975d70ab7084":[6,0,1233,0],
-"dd/d51/structGroupQueueInfo.html#aefe5994744194e7db9110fb36fa9c4bb":[6,0,1233,15]
+"dd/d51/structGroupQueueInfo.html#ae5912a881a5ecaa761ea28c87e6c45ad":[6,0,1233,12]
 };

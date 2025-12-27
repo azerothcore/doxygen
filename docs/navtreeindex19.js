@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"d0/dcf/classspell__warl__drain__soul.html":[6,0,3998],
 "d0/dcf/classspell__warl__drain__soul.html#a11b0120ea8c8ccf1c96e5d1053d64895":[6,0,3998,4],
 "d0/dcf/classspell__warl__drain__soul.html#a257202ac9b80a67ce58d9e3491164d22":[6,0,3998,0],
 "d0/dcf/classspell__warl__drain__soul.html#a333ad80d8478f59713ee049f935d7885":[6,0,3998,5],
@@ -80,16 +81,16 @@ var NAVTREEINDEX19 =
 "d0/dd4/structAcore_1_1GameObjectSearcher.html":[6,0,0,59],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[6,0,0,59,2],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a1105dd396e4fe8c366fc453b5a4bec02":[5,0,1,71,2],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[6,0,0,59,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[5,0,1,71,1],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#a16685c62e1e69fdc5df55b2b3920a579":[6,0,0,59,1],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[6,0,0,59,0],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a6625a6afd81bea2f9cdd10fad6d4a5a4":[5,0,1,71,0],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[6,0,0,59,3],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#a71152e100ea7c72eceb5cda470d5a2f3":[5,0,1,71,3],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[5,0,1,71,5],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[6,0,0,59,5],
-"d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[6,0,0,59,4],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#ac11e036da088f6e62556c42965530040":[5,0,1,71,5],
 "d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[5,0,1,71,4],
+"d0/dd4/structAcore_1_1GameObjectSearcher.html#ad1c14442e0f1b5d9ee43639077c75876":[6,0,0,59,4],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html":[6,0,2037,0],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html#a3a522e4c741bc321469ed87c10cf7904":[6,0,2037,0,4],
 "d0/dd4/structnpc__phantom__mage_1_1npc__phantom__mageAI.html#a5a1bf4aaf716674a63e31d24ae4a5d7c":[6,0,2037,0,5],
@@ -179,10 +180,10 @@ var NAVTREEINDEX19 =
 "d0/dda/classgo__fel__crystalforge.html#aa44708a617edd51651da49918ab776e5":[6,0,1146,0],
 "d0/dda/classgo__fel__crystalforge.html#aae9f4beff251efb7b29e1988ddd51eaf":[6,0,1146,1],
 "d0/ddc/WardenPayloadMgr_8h.html":[7,0,0,0,1,2,46,9],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[6,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[5,0,1,8,0,30],
-"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,1,8,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html":[6,0,0,5,0,30],
 "d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[6,0,0,5,0,30,0],
+"d0/ddc/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ba89f35040b292f2255d19712dc69ed3.html#a20bf3321a2bb91eead362115f5c9bcc7":[5,0,1,8,0,30,0],
 "d0/ddd/PlayerTaxi_8h.html":[7,0,0,0,1,2,16,7,13],
 "d0/ddd/classMinion.html":[6,0,1507],
 "d0/ddd/classMinion.html#a02806f2eae429a33e0d2b0c115892c77":[6,0,1507,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "d0/ddd/classUnitAI.html#ad7c98d2351a8b902ec70c36d9b076fed":[6,0,4232,51],
 "d0/ddd/classUnitAI.html#adaf99f0a5a2d4993e5408eec175f5e24":[6,0,4232,54],
 "d0/ddd/classUnitAI.html#adc7dfa9aae02724d3a46efa8cd1c57ec":[6,0,4232,42],
-"d0/ddd/classUnitAI.html#adcdeaf8720c085b894f67b9b315cf528":[6,0,4232,20],
-"d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb":[6,0,4232,2]
+"d0/ddd/classUnitAI.html#adcdeaf8720c085b894f67b9b315cf528":[6,0,4232,20]
 };

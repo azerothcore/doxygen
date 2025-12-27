@@ -1,5 +1,7 @@
 var NAVTREEINDEX163 =
 {
+"d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#a984b3d32d5f231a019f2c0f1bb027907":[6,0,698,0,0],
+"d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html#aaa8111d42cacd58f767513026976668c":[6,0,698,0,2],
 "d6/d13/zone__dalaran_8cpp.html":[7,0,0,0,1,3,5,17],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62":[7,0,0,0,1,3,5,17,24],
 "d6/d13/zone__dalaran_8cpp.html#a308ae2d583514ffce76eb9f420750d62a26852ea5db6655cbfc7033e4de72b535":[7,0,0,0,1,3,5,17,24,0],
@@ -125,8 +127,8 @@ var NAVTREEINDEX163 =
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,31,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,31,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,11,6,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,31,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,11,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,31,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,31,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,11,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,11,6,42,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX163 =
 "d6/d1a/structTimeTrackerSmall.html#a6c10a37051caf7c16f1aa057bf2bf7da":[6,0,4189,4],
 "d6/d1a/structTimeTrackerSmall.html#ab8a3c45ffe0e83132e708b5e87625c02":[6,0,4189,3],
 "d6/d1a/structTimeTrackerSmall.html#af4455d0ebb784497e9fd1a08cc915062":[6,0,4189,2],
-"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html":[6,0,1868,0],
-"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a2e49dc8924da5d5537c33f7306287963":[6,0,1868,0,5],
-"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html#a3249114a5b208109ec2c2a23533ede82":[6,0,1868,0,7]
+"d6/d1a/structnpc__icc__putricades__trap_1_1npc__icc__putricades__trapAI.html":[6,0,1868,0]
 };

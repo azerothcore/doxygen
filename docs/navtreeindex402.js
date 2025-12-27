@@ -1,5 +1,8 @@
 var NAVTREEINDEX402 =
 {
+"df/dda/structboss__bjarngrim.html#ad72abbd2eaa7d56fd1b409ffd2980d87":[6,0,399,11],
+"df/dda/structboss__bjarngrim.html#aec11755c71f056c8294a8af1c1084353":[6,0,399,12],
+"df/dda/structnpc__crystalline__frayer.html":[6,0,1715],
 "df/dda/structnpc__crystalline__frayer.html#a2580575a58353e8cb94561bafd74f502":[6,0,1715,1],
 "df/dda/structnpc__crystalline__frayer.html#a5ab2990b41f485417af6272194035fc3":[6,0,1715,9],
 "df/dda/structnpc__crystalline__frayer.html#a5baa6491ee0205b2b2e7bc8e6cd9a163":[6,0,1715,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX402 =
 "df/de7/classOutdoorPvPTF.html#a50576e4a5957a45205341bcb503f045b":[6,0,2358,18],
 "df/de7/classOutdoorPvPTF.html#a531956513de1703c5017193cd6d5f04b":[6,0,2358,6],
 "df/de7/classOutdoorPvPTF.html#a54856e667989fda0c208783691acb3f5":[6,0,2358,1],
-"df/de7/classOutdoorPvPTF.html#a63cbdec29b584c5744b8676489609ecf":[6,0,2358,17],
-"df/de7/classOutdoorPvPTF.html#a643ab6b5318aa1fd16ef26119696fefd":[6,0,2358,23],
-"df/de7/classOutdoorPvPTF.html#a66b822334b04a8a2d72b4fe24cb9c9d5":[6,0,2358,0],
-"df/de7/classOutdoorPvPTF.html#a6ae15350f6d7b65a1bdacc6a7df9696d":[6,0,2358,21]
+"df/de7/classOutdoorPvPTF.html#a63cbdec29b584c5744b8676489609ecf":[6,0,2358,17]
 };

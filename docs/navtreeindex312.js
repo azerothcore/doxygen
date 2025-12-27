@@ -1,5 +1,7 @@
 var NAVTREEINDEX312 =
 {
+"dc/d90/classAreaTrigger__at__legion__teleporter.html#a2b648bd038f41025c19338367c696d25":[6,0,172,0],
+"dc/d90/classAreaTrigger__at__legion__teleporter.html#ae8239e5ad56d93627102dbd02989353d":[6,0,172,1],
 "dc/d90/classachievement__volunteer__work.html":[6,0,99],
 "dc/d90/classachievement__volunteer__work.html#a43db6e553b370f139ac376840fdf6d70":[6,0,99,0],
 "dc/d90/classachievement__volunteer__work.html#abdbbe9165d3d72d76fe685ebce5e304d":[6,0,99,1],
@@ -30,8 +32,8 @@ var NAVTREEINDEX312 =
 "dc/d91/zone__stonetalon__mountains_8cpp.html#adc43152833884ed78e5debdaaf5d500d":[7,0,0,0,1,3,4,26,4],
 "dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html":[6,0,0,5,0,12],
 "dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html":[5,0,1,8,0,12],
-"dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html#a37759b49a279395a5011dcfc41838a5e":[5,0,1,8,0,12,0],
 "dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html#a37759b49a279395a5011dcfc41838a5e":[6,0,0,5,0,12,0],
+"dc/d92/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1vector_3_01T_01_4_00_01void_01_4.html#a37759b49a279395a5011dcfc41838a5e":[5,0,1,8,0,12,0],
 "dc/d93/classSlaveRunEvent.html":[6,0,2557],
 "dc/d93/classSlaveRunEvent.html#a33e2ce4cea1edf2e0967696c41667f15":[6,0,2557,2],
 "dc/d93/classSlaveRunEvent.html#a4560b275b0870cdbd192b2610893b47c":[6,0,2557,0],
@@ -52,8 +54,8 @@ var NAVTREEINDEX312 =
 "dc/d95/classnpc__khunok__the__behemoth.html":[6,0,1909],
 "dc/d95/classnpc__khunok__the__behemoth.html#a0370959631c00581495dbd7c37263236":[6,0,1909,1],
 "dc/d95/classnpc__khunok__the__behemoth.html#a201aa35dd119d23126b192a1e3786c09":[6,0,1909,2],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
@@ -64,8 +66,8 @@ var NAVTREEINDEX312 =
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,1,87,5],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html":[6,0,1621],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#a6a8843d3f24378a2fd334e773618ab72":[6,0,1621,2],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#aa275374ba3a19a2e6a8768d4f01752b2":[6,0,1621,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX312 =
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a9888f4108bcd2fbf360ffa89ad75c4d1":[7,0,0,0,1,2,16,7,16,6,22],
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aa5d0d1f4a55638adce21fe455c9260a0":[7,0,0,0,1,2,16,7,16,6,26],
 "dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aaa721075fb8f1fbfda9da8c1de49f63c":[7,0,0,0,1,2,16,7,16,6,12],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aab82fe99f624c60d99d079170e153c20":[7,0,0,0,1,2,16,7,16,6,14],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aafe1750fe69053e1f187e49ee71dbe2d":[7,0,0,0,1,2,16,7,16,6,19],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6ab4dc9cfb6e966bdaf10deafaea3728a7":[7,0,0,0,1,2,16,7,16,6,9]
+"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6aab82fe99f624c60d99d079170e153c20":[7,0,0,0,1,2,16,7,16,6,14]
 };

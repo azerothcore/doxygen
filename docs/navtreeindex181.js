@@ -1,5 +1,7 @@
 var NAVTREEINDEX181 =
 {
+"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,1,5],
+"d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a096f1637b0a617a4779e41f6eb680ec8":[7,0,0,0,1,3,5,10,1,1,5,3],
 "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a221e90edca7272b297e47592d083f4c1":[7,0,0,0,1,3,5,10,1,1,5,2],
 "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48c7512bd582db855dca74a56e3e8d68":[7,0,0,0,1,3,5,10,1,1,5,6],
 "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d830805dd168a2d185fa9de62c13801":[7,0,0,0,1,3,5,10,1,1,5,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX181 =
 "d6/deb/structnpc__blade__of__azzinoth.html#a501e2d1ae9af813fd9c30395e7774983":[6,0,1648,3],
 "d6/deb/structnpc__blade__of__azzinoth.html#a55afe56313c237afe8080662b2ed2dba":[6,0,1648,0],
 "d6/deb/structnpc__blade__of__azzinoth.html#a8e746da7672c0177c4b6c91b1e9d2eb5":[6,0,1648,1],
-"d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1648,2],
-"d6/dec/classachievement__bg__sa__artillery.html":[6,0,42],
-"d6/dec/classachievement__bg__sa__artillery.html#aa81ae215bc91fd4598d7c9a1b02e3fcc":[6,0,42,0]
+"d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1648,2]
 };

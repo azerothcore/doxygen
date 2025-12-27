@@ -1,6 +1,8 @@
 var NAVTREEINDEX219 =
 {
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,31,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,11,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,31,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1580],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1580,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1580,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d83/classboss__grizzle.html#a6c9913cec9503a86e2f5358f65b97b26":[6,0,512,1],
 "d8/d83/classboss__grizzle.html#aa0bf6c89f13fbd20695ebb7ce965b0f5":[6,0,512,2],
 "d8/d83/structboss__yoggsaron__descend__portal_1_1boss__yoggsaron__descend__portalAI.html":[6,0,798,0],
-"d8/d83/structboss__yoggsaron__descend__portal_1_1boss__yoggsaron__descend__portalAI.html#a477abf19a0b5bf9865550541877a29d7":[6,0,798,0,2],
-"d8/d83/structboss__yoggsaron__descend__portal_1_1boss__yoggsaron__descend__portalAI.html#a50ddd1d7b1d4a2e729657e53dfee43f2":[6,0,798,0,0],
-"d8/d83/structboss__yoggsaron__descend__portal_1_1boss__yoggsaron__descend__portalAI.html#aba032a7347230db028d1e939944d3f46":[6,0,798,0,1]
+"d8/d83/structboss__yoggsaron__descend__portal_1_1boss__yoggsaron__descend__portalAI.html#a477abf19a0b5bf9865550541877a29d7":[6,0,798,0,2]
 };
