@@ -37,6 +37,7 @@ var cs__script__loader_8cpp =
     [ "AddSC_pet_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ],
     [ "AddSC_player_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a3a4a77162d5b304dab9a8c8e397c3516", null ],
     [ "AddSC_player_settings_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a366685affd5565d164c65f8cd4a20b61", null ],
+    [ "AddSC_pooltools_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a8c8907ff2ae66e87142b14909a2ee941", null ],
     [ "AddSC_quest_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ],
     [ "AddSC_reload_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ],
     [ "AddSC_reset_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ],

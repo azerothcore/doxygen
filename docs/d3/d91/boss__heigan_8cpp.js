@@ -1,7 +1,6 @@
 var boss__heigan_8cpp =
 [
-    [ "boss_heigan", "d1/df5/classboss__heigan.html", "d1/df5/classboss__heigan" ],
-    [ "boss_heigan::boss_heiganAI", "d8/ddf/structboss__heigan_1_1boss__heiganAI.html", "d8/ddf/structboss__heigan_1_1boss__heiganAI" ],
+    [ "boss_heigan", "d3/db2/structboss__heigan.html", "d3/db2/structboss__heigan" ],
     [ "Events", "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_DISRUPTION", "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89121271f4b28a781a1419fb040082ff", null ],
       [ "EVENT_DECEPIT_FEVER", "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abd4cd94565adcdb82005140a54f62433", null ],
@@ -29,5 +28,6 @@ var boss__heigan_8cpp =
       [ "SPELL_PLAGUE_CLOUD", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca91e9581231c56c9bbaa049c497cd78b8", null ],
       [ "SPELL_TELEPORT_SELF", "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10", null ]
     ] ],
-    [ "AddSC_boss_heigan", "d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774", null ]
+    [ "AddSC_boss_heigan", "d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774", null ],
+    [ "heiganFastDanceFaceDirection", "d3/d91/boss__heigan_8cpp.html#a3b9aaa2246c0ec2ec3ca15409f985756", null ]
 ];

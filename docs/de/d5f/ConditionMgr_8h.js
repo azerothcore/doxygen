@@ -102,6 +102,7 @@ var ConditionMgr_8h =
       [ "CONDITION_HAS_AURA_TYPE", "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0afb548f8d3d725806dddda6728b1fde76", null ],
       [ "CONDITION_WORLD_SCRIPT", "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a01b7b91ea994f8e304d9402772d4c74d", null ],
       [ "CONDITION_AI_DATA", "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a253b100542c4eab659d45953fa66d8af", null ],
+      [ "CONDITION_RANDOM_DUNGEON", "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8d8e8264214ae894f68a188718309564", null ],
       [ "CONDITION_AC_END", "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0add0ddf7c2278950223ec24a30a0a6ed9", null ]
     ] ],
     [ "InstanceInfo", "de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130c", [

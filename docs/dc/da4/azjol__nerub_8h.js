@@ -21,6 +21,7 @@ var azjol__nerub_8h =
       [ "NPC_KRIKTHIR_THE_GATEWATCHER", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
       [ "NPC_HADRONOX", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
       [ "NPC_ANUBARAK", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba9ccdc8bccffd48df50721fc98c1b6bc3", null ],
+      [ "NPC_WORLD_TRIGGER_LAOI", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba8ad05c18f75770b596b6a87987d4ecdd", null ],
       [ "NPC_ANUB_AR_CHAMPION", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
       [ "NPC_ANUB_AR_NECROMANCER", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
       [ "NPC_ANUB_AR_CRYPTFIEND", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],

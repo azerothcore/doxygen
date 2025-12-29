@@ -5,7 +5,6 @@ var boss__anubarak_8cpp =
     [ "spell_azjol_nerub_pound", "d3/d37/classspell__azjol__nerub__pound.html", "d3/d37/classspell__azjol__nerub__pound" ],
     [ "spell_azjol_nerub_impale_summon", "da/d0e/classspell__azjol__nerub__impale__summon.html", "da/d0e/classspell__azjol__nerub__impale__summon" ],
     [ "CreatureIds", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963e", [
-      [ "NPC_WORLD_TRIGGER", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963ea2de54d34271fcadd2d72ee13d7e0ce48", null ],
       [ "NPC_ANUBAR_GUARDIAN", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963eaee43e0ed66739f4855b4349c08825044", null ],
       [ "NPC_ANUBAR_VENOMANCER", "dd/dd2/boss__anubarak_8cpp.html#a92f6fd626e1834a4cc509efc1186963eaad29ef5dde44c6706ec77ef755dd8333", null ]
     ] ],

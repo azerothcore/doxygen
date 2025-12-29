@@ -9,6 +9,7 @@ var structboss__thaddius__summon_1_1boss__thaddius__summonAI =
     [ "Reset", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
     [ "UpdateAI", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
     [ "events", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
+    [ "instance", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a122582c974aa1e68638ea196ea2f6771", null ],
     [ "myCoil", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a2c21b7023f7396566f7486591a653079", null ],
     [ "overload", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
     [ "pullTimer", "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],

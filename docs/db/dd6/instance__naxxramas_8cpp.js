@@ -7,6 +7,7 @@ var instance__naxxramas_8cpp =
     [ "npc_naxxramas_trigger", "d7/d49/classnpc__naxxramas__trigger.html", "d7/d49/classnpc__naxxramas__trigger" ],
     [ "at_naxxramas_hub_portal", "da/d17/classat__naxxramas__hub__portal.html", "da/d17/classat__naxxramas__hub__portal" ],
     [ "AddSC_instance_naxxramas", "db/dd6/instance__naxxramas_8cpp.html#aba1e1afda4423e51a1849a33da49a334", null ],
+    [ "boundaries", "db/dd6/instance__naxxramas_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "db/dd6/instance__naxxramas_8cpp.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "db/dd6/instance__naxxramas_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "gameObjectData", "db/dd6/instance__naxxramas_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31", null ],

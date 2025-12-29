@@ -1,12 +1,18 @@
 var boss__hadronox_8cpp =
 [
-    [ "boss_hadronox", "dc/dd2/classboss__hadronox.html", "dc/dd2/classboss__hadronox" ],
-    [ "boss_hadronox::boss_hadronoxAI", "db/da9/structboss__hadronox_1_1boss__hadronoxAI.html", "db/da9/structboss__hadronox_1_1boss__hadronoxAI" ],
-    [ "npc_anub_ar_crusher", "dd/d33/classnpc__anub__ar__crusher.html", "dd/d33/classnpc__anub__ar__crusher" ],
-    [ "npc_anub_ar_crusher::npc_anub_ar_crusherAI", "db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI.html", "db/d80/structnpc__anub__ar__crusher_1_1npc__anub__ar__crusherAI" ],
+    [ "boss_hadronox", "dd/d86/structboss__hadronox.html", "dd/d86/structboss__hadronox" ],
+    [ "npc_hadronox_crusherPackAI", "d5/dbc/structnpc__hadronox__crusherPackAI.html", "d5/dbc/structnpc__hadronox__crusherPackAI" ],
+    [ "npc_anub_ar_crusher", "d9/d86/structnpc__anub__ar__crusher.html", "d9/d86/structnpc__anub__ar__crusher" ],
+    [ "npc_anub_ar_crusher_champion", "dd/dff/structnpc__anub__ar__crusher__champion.html", "dd/dff/structnpc__anub__ar__crusher__champion" ],
+    [ "npc_anub_ar_crusher_crypt_fiend", "dc/daf/structnpc__anub__ar__crusher__crypt__fiend.html", "dc/daf/structnpc__anub__ar__crusher__crypt__fiend" ],
+    [ "npc_anub_ar_crusher_necromancer", "dc/d92/structnpc__anub__ar__crusher__necromancer.html", "dc/d92/structnpc__anub__ar__crusher__necromancer" ],
     [ "spell_hadronox_summon_periodic_aura", "de/d9d/classspell__hadronox__summon__periodic__aura.html", "de/d9d/classspell__hadronox__summon__periodic__aura" ],
     [ "spell_hadronox_leech_poison_aura", "d3/d9a/classspell__hadronox__leech__poison__aura.html", "d3/d9a/classspell__hadronox__leech__poison__aura" ],
+    [ "spell_hadronox_web_grab", "d0/d03/classspell__hadronox__web__grab.html", "d0/d03/classspell__hadronox__web__grab" ],
     [ "achievement_hadronox_denied", "d6/d2f/classachievement__hadronox__denied.html", "d6/d2f/classachievement__hadronox__denied" ],
+    [ "Data", "d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63", [
+      [ "DATA_CRUSHER_PACK_ID", "d3/d18/boss__hadronox_8cpp.html#af5baa506e65b4caa6be6d1c6661dfe63a730c05e2d59a01072d37989ebe09bdfa", null ]
+    ] ],
     [ "Events", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_HADRONOX_MOVE1", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8868f68119ecc5a9849dadf8739e8ff4", null ],
       [ "EVENT_HADRONOX_MOVE2", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af62f869668ec24c0d97fd777c6eb7caa", null ],
@@ -18,20 +24,36 @@ var boss__hadronox_8cpp =
       [ "EVENT_HADRONOX_GRAB", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab8414cca4f2b02adb5ec74ae78e7d69a", null ],
       [ "EVENT_HADRONOX_SUMMON", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2084f8df4bb3a924b03a8bfff7f019dc", null ],
       [ "EVENT_CRUSHER_SMASH", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af296175ebd391dfe736268ab5e81a954", null ],
-      [ "EVENT_CHECK_HEALTH", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64", null ]
+      [ "EVENT_CHECK_HEALTH", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5545d513600badfbae47148bc756ed64", null ],
+      [ "EVENT_CHECK_EVADE", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a49e3ce201da681d70187c12047720e0c", null ],
+      [ "EVENT_REND", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d", null ],
+      [ "EVENT_PUMMEL", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c0fc8302d639423bfa5dca8a664283d", null ],
+      [ "EVENT_CRUSHING_WEBS", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe0395f07c1935e97da3c4438e4a9132", null ],
+      [ "EVENT_INFECTED_WOUND", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a09669ceedfe82768c5fd5a2dafd042fc", null ],
+      [ "EVENT_SHADOW_BOLT", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afcbb7437b86fca94c0376a3d4cf7828e", null ],
+      [ "EVENT_ANIMATE_BONES", "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa72d93753018bc721cfac2de3380b483", null ]
     ] ],
     [ "Misc", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "NPC_ANUB_AR_CRUSHER", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5ff0c8922d66b9b7d7339b2e5dced0e3", null ],
       [ "SAY_CRUSHER_AGGRO", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a40fdf8bfba5ed7016739ed47f14fa422", null ],
       [ "SAY_CRUSHER_EMOTE", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a123080b47b40ec5035e79d368e741ff9", null ],
       [ "SAY_HADRONOX_EMOTE", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae449152e18935a03d430fddd8bfca52e", null ],
-      [ "ACTION_DESPAWN_ADDS", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa2688213359050adf6beb4393bb81ae0", null ],
-      [ "ACTION_START_EVENT", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a9d00590152ece2beb2305c6f271dd9", null ]
+      [ "ACTION_CRUSHER_ENGAGED", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9823f2c80046d884f38b85cebe4e7a2b", null ],
+      [ "ACTION_CRUSHER_DIED", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a40c9301b1ef18002a1d6ea104732471c", null ],
+      [ "ACTION_PACK_WALK", "d3/d18/boss__hadronox_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa4cdb2a3546706d44b3b6524e78d329b", null ]
+    ] ],
+    [ "NPCs", "d3/d18/boss__hadronox_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
+      [ "NPC_ANUB_AR_CRUSHER", "d3/d18/boss__hadronox_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca5ff0c8922d66b9b7d7339b2e5dced0e3", null ],
+      [ "NPC_ANUB_AR_CHAMPION_PACK", "d3/d18/boss__hadronox_8cpp.html#a6986ec7b2d3274669934af9795f26d5caeba608dca3f8e2b484cd1fb158a30d69", null ],
+      [ "NPC_ANUB_AR_CRYPT_FIEND_PACK", "d3/d18/boss__hadronox_8cpp.html#a6986ec7b2d3274669934af9795f26d5cab82e6e81703044b0c7db12ae5ce7ce58", null ],
+      [ "NPC_ANUB_AR_NECROMANCER_PACK", "d3/d18/boss__hadronox_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7303494b2e1b053a504660d99add452e", null ]
     ] ],
     [ "Spells", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SUMMON_ANUBAR_CHAMPION", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca955222dec7f2d59479819a182bd3ac76", null ],
       [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298caffad25e7761a107389a6d7c6486ec2c6", null ],
       [ "SPELL_SUMMON_ANUBAR_NECROMANCER", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298caf07838be352ede03f94aa88b2ff632f0", null ],
+      [ "SPELL_SUMMON_ANUBAR_CHAMPION_PERIODIC", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca78885d55af571d0af9d211ba340c50b0", null ],
+      [ "SPELL_SUMMON_ANUBAR_NECROMANCER_PERIODIC", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca5cb34a7f99ba66aac48ee6df415415e9", null ],
+      [ "SPELL_SUMMON_ANUBAR_CRYPT_FIEND_PERIODIC", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cadb4ae793c57efbb7f028f379e7e6979b", null ],
       [ "SPELL_WEB_FRONT_DOORS", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca41b7f15e56b37b476e245c81337684d4", null ],
       [ "SPELL_WEB_SIDE_DOORS", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cad0a7e7680637568d6b8c1bdcabc2350e", null ],
       [ "SPELL_ACID_CLOUD", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca27d7596679c8e617c6360b48200b8cc6", null ],
@@ -40,8 +62,26 @@ var boss__hadronox_8cpp =
       [ "SPELL_WEB_GRAB", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cab882afbd69bce65025159153e3b6495d", null ],
       [ "SPELL_PIERCE_ARMOR", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c", null ],
       [ "SPELL_SMASH", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca89670b4d6d37b0a963c158bdf3f6b9e8", null ],
-      [ "SPELL_FRENZY", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ]
+      [ "SPELL_FRENZY", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293", null ],
+      [ "SPELL_REND", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cac553ad24710435636bd9736df18484c6", null ],
+      [ "SPELL_PUMMEL", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca519a01b082bf9c3f4ed0feed5286cab2", null ],
+      [ "SPELL_CRUSHING_WEBS", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca0f9be882a2b0c015fc19b957ae5f6035", null ],
+      [ "SPELL_INFECTED_WOUND", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cafcf6fa42786cd83572e5223fe45cf44d", null ],
+      [ "SPELL_SHADOW_BOLT", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_ANIMATE_BONES_1", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca3f16b015969512546046e9b5a946532b", null ],
+      [ "SPELL_ANIMATE_BONES_2", "d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298cad550b41f53ffe406e7e27f9e201fcd8e", null ]
+    ] ],
+    [ "SummonGroups", "d3/d18/boss__hadronox_8cpp.html#a758a2b3945d05b67c912cfb080730ecb", [
+      [ "SUMMON_GROUP_CRUSHER_NONE", "d3/d18/boss__hadronox_8cpp.html#a758a2b3945d05b67c912cfb080730ecba4da26c7aae9e655545c940f84e13c05d", null ],
+      [ "SUMMON_GROUP_CRUSHER_1", "d3/d18/boss__hadronox_8cpp.html#a758a2b3945d05b67c912cfb080730ecba32c3c72bf6a0febc2e3cf25681c33d20", null ],
+      [ "SUMMON_GROUP_CRUSHER_2", "d3/d18/boss__hadronox_8cpp.html#a758a2b3945d05b67c912cfb080730ecba159b18b122a5e5c34fab00419d894b5d", null ],
+      [ "SUMMON_GROUP_CRUSHER_3", "d3/d18/boss__hadronox_8cpp.html#a758a2b3945d05b67c912cfb080730ecba0ba868a015b9bde0a5070b9faad2ff1f", null ],
+      [ "SUMMON_GROUP_WORLD_TRIGGERS", "d3/d18/boss__hadronox_8cpp.html#a758a2b3945d05b67c912cfb080730ecba6373a5415fc47193b4f9bd52d067e773", null ]
     ] ],
     [ "AddSC_boss_hadronox", "d3/d18/boss__hadronox_8cpp.html#ad209ba6d641758bf22351a6196d3c7c9", null ],
-    [ "hadronoxSteps", "d3/d18/boss__hadronox_8cpp.html#a144cf4142a4a46421155a635cb3a31ed", null ]
+    [ "championWaypoints", "d3/d18/boss__hadronox_8cpp.html#aee08b9c5c142757a7ca8939ebf5b7944", null ],
+    [ "crusherWaypoints", "d3/d18/boss__hadronox_8cpp.html#ad47c7c04c61faa5009fa497e40a74a09", null ],
+    [ "cryptFiendWaypoints", "d3/d18/boss__hadronox_8cpp.html#aa8182c58d863fa058e3221a18614ace0", null ],
+    [ "hadronoxSteps", "d3/d18/boss__hadronox_8cpp.html#ada858526fe00c875da6431bcd5ad17b1", null ],
+    [ "necromancerWaypoints", "d3/d18/boss__hadronox_8cpp.html#a50852320a2283b94f00d28b99d39f7e6", null ]
 ];

@@ -36,6 +36,7 @@ var dir_2519615cc1c93425dacf3aa6e071da7e =
     [ "cs_pet.cpp", "de/d13/cs__pet_8cpp.html", "de/d13/cs__pet_8cpp" ],
     [ "cs_player.cpp", "d8/df2/cs__player_8cpp.html", "d8/df2/cs__player_8cpp" ],
     [ "cs_player_settings.cpp", "d2/d9e/cs__player__settings_8cpp.html", "d2/d9e/cs__player__settings_8cpp" ],
+    [ "cs_pooltools.cpp", "dd/d0a/cs__pooltools_8cpp.html", "dd/d0a/cs__pooltools_8cpp" ],
     [ "cs_quest.cpp", "d7/d21/cs__quest_8cpp.html", "d7/d21/cs__quest_8cpp" ],
     [ "cs_reload.cpp", "de/dde/cs__reload_8cpp.html", "de/dde/cs__reload_8cpp" ],
     [ "cs_reset.cpp", "da/dfa/cs__reset_8cpp.html", "da/dfa/cs__reset_8cpp" ],

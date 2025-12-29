@@ -2,7 +2,7 @@ var structboss__four__horsemen_1_1boss__four__horsemenAI =
 [
     [ "boss_four_horsemenAI", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a828a858c3337791bd2acb3d6ba730233", null ],
     [ "AttackStart", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "IsInRoom", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#afaf17721189ab5b202a7dfbcd7f363e3", null ],
+    [ "EnterEvadeMode", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a86f458f0413cab4c8129affff1b73a70", null ],
     [ "JustDied", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
     [ "JustEngagedWith", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a17b8ca30ceb0efb87be77f970c526444", null ],
     [ "KilledUnit", "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a87bdde27a69a020a26da31f01286593a", null ],

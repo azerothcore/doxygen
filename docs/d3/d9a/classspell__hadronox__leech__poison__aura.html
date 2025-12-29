@@ -334,20 +334,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  380</span>    {</div>
-<div class="line"><span class="lineno">  381</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() == <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913">AURA_REMOVE_BY_DEATH</a>)</div>
-<div class="line"><span class="lineno">  382</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  383</span>                caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e">SPELL_LEECH_POISON_HEAL</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  384</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  659</span>    {</div>
+<div class="line"><span class="lineno">  660</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() == <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913">AURA_REMOVE_BY_DEATH</a>)</div>
+<div class="line"><span class="lineno">  661</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  662</span>                caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e">SPELL_LEECH_POISON_HEAL</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  663</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913">AURA_REMOVE_BY_DEATH</a></div><div class="ttdeci">@ AURA_REMOVE_BY_DEATH</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:396</div></div>
-<div class="ttc" id="aboss__hadronox_8cpp_html_a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e"><div class="ttname"><a href="../../d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e">SPELL_LEECH_POISON_HEAL</a></div><div class="ttdeci">@ SPELL_LEECH_POISON_HEAL</div><div class="ttdef"><b>Definition</b> boss_hadronox.cpp:36</div></div>
+<div class="ttc" id="aboss__hadronox_8cpp_html_a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e"><div class="ttname"><a href="../../d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e">SPELL_LEECH_POISON_HEAL</a></div><div class="ttdeci">@ SPELL_LEECH_POISON_HEAL</div><div class="ttdef"><b>Definition</b> boss_hadronox.cpp:42</div></div>
 <div class="ttc" id="aclassAuraScript_html_a29e48f1dc7011926160e2ed80ebf2f8e"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">AuraScript::GetTargetApplication</a></div><div class="ttdeci">AuraApplication const * GetTargetApplication() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1194</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00396">AURA_REMOVE_BY_DEATH</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>, and <a class="el" href="../../#l00036">SPELL_LEECH_POISON_HEAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00396">AURA_REMOVE_BY_DEATH</a>, <a class="el" href="../../#l01020">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>, and <a class="el" href="../../#l00042">SPELL_LEECH_POISON_HEAL</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00386">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00665">Register()</a>.</p>
 
 </div>
 </div>
@@ -401,17 +401,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  387</span>    {</div>
-<div class="line"><span class="lineno">  388</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6">spell_hadronox_leech_poison_aura::HandleEffectRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac84a600c9fc81cbda953c9f64074ab9f">SPELL_AURA_PERIODIC_LEECH</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  389</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  666</span>    {</div>
+<div class="line"><span class="lineno">  667</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6">spell_hadronox_leech_poison_aura::HandleEffectRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac84a600c9fc81cbda953c9f64074ab9f">SPELL_AURA_PERIODIC_LEECH</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  668</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799ac84a600c9fc81cbda953c9f64074ab9f"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ac84a600c9fc81cbda953c9f64074ab9f">SPELL_AURA_PERIODIC_LEECH</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_LEECH</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:116</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:753</div></div>
-<div class="ttc" id="aclassspell__hadronox__leech__poison__aura_html_a45ed6d3f1c80dcef3ee6c59e744f13c6"><div class="ttname"><a href="../../d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6">spell_hadronox_leech_poison_aura::HandleEffectRemove</a></div><div class="ttdeci">void HandleEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_hadronox.cpp:379</div></div>
+<div class="ttc" id="aclassspell__hadronox__leech__poison__aura_html_a45ed6d3f1c80dcef3ee6c59e744f13c6"><div class="ttname"><a href="../../d3/d9a/classspell__hadronox__leech__poison__aura.html#a45ed6d3f1c80dcef3ee6c59e744f13c6">spell_hadronox_leech_poison_aura::HandleEffectRemove</a></div><div class="ttdeci">void HandleEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_hadronox.cpp:658</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00379">HandleEffectRemove()</a>, and <a class="el" href="../../#l00116">SPELL_AURA_PERIODIC_LEECH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00658">HandleEffectRemove()</a>, and <a class="el" href="../../#l00116">SPELL_AURA_PERIODIC_LEECH</a>.</p>
 
 </div>
 </div>
@@ -440,12 +440,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  375</span>    {</div>
-<div class="line"><span class="lineno">  376</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e">SPELL_LEECH_POISON_HEAL</a> });</div>
-<div class="line"><span class="lineno">  377</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  654</span>    {</div>
+<div class="line"><span class="lineno">  655</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/d18/boss__hadronox_8cpp.html#a5bd342133be8c2137b831460acc9298ca60199bb90c54ca27e1ba973da0f76c5e">SPELL_LEECH_POISON_HEAL</a> });</div>
+<div class="line"><span class="lineno">  656</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">SPELL_LEECH_POISON_HEAL</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">SPELL_LEECH_POISON_HEAL</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -458,7 +458,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d9a/classspell__hadronox__leech__poison__aura.html">spell_hadronox_leech_poison_aura</a></li>
-    <li class="footer">Generated on Sun Dec 28 2025 06:26:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Dec 29 2025 06:30:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

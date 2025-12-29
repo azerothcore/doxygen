@@ -130,7 +130,9 @@ var boss__sartharion_8cpp =
     [ "bigIslandMiddlePos", "df/d71/boss__sartharion_8cpp.html#a818921054ff5bea8d1030013c546b60c", null ],
     [ "CycloneSummonPos", "df/d71/boss__sartharion_8cpp.html#a81b294ca8a159dc71b8b8a254f36a937", null ],
     [ "dragons", "df/d71/boss__sartharion_8cpp.html#a187ea6ec7d8c9b5ca662d70bb7f03d33", null ],
+    [ "FlameTsunamiLeftOffsets", "df/d71/boss__sartharion_8cpp.html#a16e282c892201d37cc8cb653e1959b3c", null ],
+    [ "FlameTsunamiRightOffsets", "df/d71/boss__sartharion_8cpp.html#a54c36c08e5af0526cdf68a8bcf184318", null ],
     [ "portalPos", "df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f", null ],
-    [ "SartharionBoundary", "df/d71/boss__sartharion_8cpp.html#a69655b890097a74f18adb93cba1b41de", null ],
+    [ "SartharionBoundary", "df/d71/boss__sartharion_8cpp.html#ab63433b70eec125c961329cb0a86240e", null ],
     [ "TenebronEggsPos", "df/d71/boss__sartharion_8cpp.html#abd520a29ab6e7fb834942fe165bd483a", null ]
 ];

@@ -26,5 +26,6 @@ var classinstance__naxxramas =
     [ "_loathebAchievement", "d3/d5d/classinstance__naxxramas.html#aacb46e34e3e6cb6b179c73df06a9a813", null ],
     [ "_patchwerkRoomTrash", "d3/d5d/classinstance__naxxramas.html#ad838776fa923e22d3794a7b266dacd8e", null ],
     [ "_sapphironAchievement", "d3/d5d/classinstance__naxxramas.html#a8dca8b55ebc52c27389658df92b3f944", null ],
-    [ "_thaddiusAchievement", "d3/d5d/classinstance__naxxramas.html#a6158d5285d0027739ff0cd98e526588d", null ]
+    [ "_thaddiusAchievement", "d3/d5d/classinstance__naxxramas.html#a6158d5285d0027739ff0cd98e526588d", null ],
+    [ "_thaddiusScreamsScheduled", "d3/d5d/classinstance__naxxramas.html#ae4caa2ef39a1ef54c77dce07d9a60933", null ]
 ];
