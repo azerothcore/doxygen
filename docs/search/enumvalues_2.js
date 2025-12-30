@@ -886,7 +886,7 @@ var searchData=
   ['chrraces_5fflags_5fnot_5fplayable_883',['CHRRACES_FLAGS_NOT_PLAYABLE',['../d3/dbd/DBCStructure_8h.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c',1,'DBCStructure.h']]],
   ['city_5fattack_5ftimer_5fmax_884',['CITY_ATTACK_TIMER_MAX',['../d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2aa5f1ef8b4d92183372361d77f01f7ee29',1,'WorldState.h']]],
   ['city_5fattack_5ftimer_5fmin_885',['CITY_ATTACK_TIMER_MIN',['../d7/d9a/WorldState_8h.html#af7ef7f40d622ea6710b785d8b251ff2aa7832721e7a62b7aca2d5ceb4359d1c8c',1,'WorldState.h']]],
-  ['class_886',['Class',['../d0/d0a/ServerMailMgr_8h.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af',1,'ServerMailMgr.h']]],
+  ['class_886',['class',['../d1/d9f/namespaceTrainer.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af',1,'Trainer::Class'],['../d0/d0a/ServerMailMgr_8h.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af',1,'Class:&#160;ServerMailMgr.h']]],
   ['class_5fcontext_5fability_887',['CLASS_CONTEXT_ABILITY',['../d7/df1/UnitDefines_8h.html#a2a9983288cb2a06108c1d1a94c96c046a14fe87d018c5ff3c07e81b54fb10ae90',1,'UnitDefines.h']]],
   ['class_5fcontext_5fability_5freactive_888',['CLASS_CONTEXT_ABILITY_REACTIVE',['../d7/df1/UnitDefines_8h.html#a2a9983288cb2a06108c1d1a94c96c046a85a0898cc970ce1d21e0a02bc40e9d5a',1,'UnitDefines.h']]],
   ['class_5fcontext_5fclass_5ftrainer_889',['CLASS_CONTEXT_CLASS_TRAINER',['../d7/df1/UnitDefines_8h.html#a2a9983288cb2a06108c1d1a94c96c046a42b2fd60bada8be5d2dd22c457ad6f0b',1,'UnitDefines.h']]],

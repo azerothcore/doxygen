@@ -14,8 +14,6 @@ var CreatureData_8h =
     [ "VendorItem", "df/d05/structVendorItem.html", "df/d05/structVendorItem" ],
     [ "VendorItemData", "dc/da1/structVendorItemData.html", "dc/da1/structVendorItemData" ],
     [ "VendorItemCount", "d4/d2a/structVendorItemCount.html", "d4/d2a/structVendorItemCount" ],
-    [ "TrainerSpell", "d8/d2d/structTrainerSpell.html", "d8/d2d/structTrainerSpell" ],
-    [ "TrainerSpellData", "de/dc3/structTrainerSpellData.html", "de/dc3/structTrainerSpellData" ],
     [ "CreatureSpellCooldown", "d6/dc0/structCreatureSpellCooldown.html", "d6/dc0/structCreatureSpellCooldown" ],
     [ "CREATURE_REGEN_INTERVAL", "de/d2f/CreatureData_8h.html#a6afabaf7b3d8095557d5fdef43a7ee32", null ],
     [ "MAX_AGGRO_RESET_TIME", "de/d2f/CreatureData_8h.html#a8e7138fa4d60c160a41804cb93cd171b", null ],
@@ -31,7 +29,6 @@ var CreatureData_8h =
     [ "CreatureTemplateContainer", "de/d2f/CreatureData_8h.html#ab12170e3eeaeb988a07355262ca85757", null ],
     [ "EquipmentInfoContainer", "de/d2f/CreatureData_8h.html#a800848b17f866c05085ee8a59f42c6ac", null ],
     [ "EquipmentInfoContainerInternal", "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af", null ],
-    [ "TrainerSpellMap", "de/d2f/CreatureData_8h.html#a88d2d569cd2f581e313d92a6fdc63ad5", null ],
     [ "VendorItemCounts", "de/d2f/CreatureData_8h.html#a545edaa9fa6e5172e0acaa6f686d8a6c", null ],
     [ "VendorItemList", "de/d2f/CreatureData_8h.html#ade72c22c956598b6544cf254bdf9e975", null ],
     [ "ChatType", "de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15e", [

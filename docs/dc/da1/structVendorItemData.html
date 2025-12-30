@@ -185,15 +185,15 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  482</span>    {</div>
-<div class="line"><span class="lineno">  483</span>        <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.push_back(<span class="keyword">new</span> <a class="code hl_struct" href="../../df/d05/structVendorItem.html">VendorItem</a>(item, maxcount, ptime, ExtendedCost));</div>
-<div class="line"><span class="lineno">  484</span>    }</div>
-<div class="ttc" id="astructVendorItemData_html_aa16668e54fce8fffe8651644cdef4335"><div class="ttname"><a href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">VendorItemData::m_items</a></div><div class="ttdeci">VendorItemList m_items</div><div class="ttdef"><b>Definition</b> CreatureData.h:470</div></div>
-<div class="ttc" id="astructVendorItem_html"><div class="ttname"><a href="../../df/d05/structVendorItem.html">VendorItem</a></div><div class="ttdef"><b>Definition</b> CreatureData.h:454</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  478</span>    {</div>
+<div class="line"><span class="lineno">  479</span>        <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.push_back(<span class="keyword">new</span> <a class="code hl_struct" href="../../df/d05/structVendorItem.html">VendorItem</a>(item, maxcount, ptime, ExtendedCost));</div>
+<div class="line"><span class="lineno">  480</span>    }</div>
+<div class="ttc" id="astructVendorItemData_html_aa16668e54fce8fffe8651644cdef4335"><div class="ttname"><a href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">VendorItemData::m_items</a></div><div class="ttdeci">VendorItemList m_items</div><div class="ttdef"><b>Definition</b> CreatureData.h:466</div></div>
+<div class="ttc" id="astructVendorItem_html"><div class="ttname"><a href="../../df/d05/structVendorItem.html">VendorItem</a></div><div class="ttdef"><b>Definition</b> CreatureData.h:450</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l09638">ObjectMgr::AddVendorItem()</a>, <a class="el" href="../../#l09439">ObjectMgr::LoadReferenceVendor()</a>, and <a class="el" href="../../#l09478">ObjectMgr::LoadVendors()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09633">ObjectMgr::AddVendorItem()</a>, <a class="el" href="../../#l09434">ObjectMgr::LoadReferenceVendor()</a>, and <a class="el" href="../../#l09473">ObjectMgr::LoadVendors()</a>.</p>
 
 </div>
 </div>
@@ -219,13 +219,13 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  488</span>    {</div>
-<div class="line"><span class="lineno">  489</span>        <span class="keywordflow">for</span> (VendorItemList::const_iterator itr = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.begin(); itr != <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  490</span>            <span class="keyword">delete</span> (*itr);</div>
-<div class="line"><span class="lineno">  491</span>        <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.clear();</div>
-<div class="line"><span class="lineno">  492</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  484</span>    {</div>
+<div class="line"><span class="lineno">  485</span>        <span class="keywordflow">for</span> (VendorItemList::const_iterator itr = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.begin(); itr != <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  486</span>            <span class="keyword">delete</span> (*itr);</div>
+<div class="line"><span class="lineno">  487</span>        <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.clear();</div>
+<div class="line"><span class="lineno">  488</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
 </div>
 </div>
@@ -251,11 +251,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  479</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.empty(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  475</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.empty(); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l10734">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00032">Player::PrepareGossipMenu()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00032">Player::PrepareGossipMenu()</a>.</p>
 
 </div>
 </div>
@@ -284,16 +284,16 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  113</span>{</div>
-<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">for</span> (VendorItemList::const_iterator i = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.begin(); i != <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.end(); ++i)</div>
-<div class="line"><span class="lineno">  115</span>        <span class="keywordflow">if</span> ((*i)-&gt;item == item_id &amp;&amp; (*i)-&gt;ExtendedCost == extendedCost)</div>
-<div class="line"><span class="lineno">  116</span>            <span class="keywordflow">return</span> *i;</div>
-<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  118</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
+<div class="line"><span class="lineno">  105</span>    <span class="keywordflow">for</span> (VendorItemList::const_iterator i = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.begin(); i != <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.end(); ++i)</div>
+<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">if</span> ((*i)-&gt;item == item_id &amp;&amp; (*i)-&gt;ExtendedCost == extendedCost)</div>
+<div class="line"><span class="lineno">  107</span>            <span class="keywordflow">return</span> *i;</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  109</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l09679">ObjectMgr::IsVendorItemValid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09674">ObjectMgr::IsVendorItemValid()</a>.</p>
 
 </div>
 </div>
@@ -320,16 +320,16 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  473</span>    {</div>
-<div class="line"><span class="lineno">  474</span>        <span class="keywordflow">if</span> (slot &gt;= <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.size())</div>
-<div class="line"><span class="lineno">  475</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  476</span> </div>
-<div class="line"><span class="lineno">  477</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>[slot];</div>
-<div class="line"><span class="lineno">  478</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  469</span>    {</div>
+<div class="line"><span class="lineno">  470</span>        <span class="keywordflow">if</span> (slot &gt;= <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.size())</div>
+<div class="line"><span class="lineno">  471</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  472</span> </div>
+<div class="line"><span class="lineno">  473</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>[slot];</div>
+<div class="line"><span class="lineno">  474</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l10734">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00851">WorldSession::SendListInventory()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00851">WorldSession::SendListInventory()</a>.</p>
 
 </div>
 </div>
@@ -355,11 +355,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  480</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.size(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  476</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.size(); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l10734">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00851">WorldSession::SendListInventory()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l10660">Player::BuyItemFromVendorSlot()</a>, and <a class="el" href="../../#l00851">WorldSession::SendListInventory()</a>.</p>
 
 </div>
 </div>
@@ -378,22 +378,22 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
-<div class="line"><span class="lineno">   95</span>    <span class="keywordtype">bool</span> found = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   96</span>    <span class="keywordflow">for</span> (VendorItemList::iterator i = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.begin(); i != <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.end();)</div>
-<div class="line"><span class="lineno">   97</span>    {</div>
-<div class="line"><span class="lineno">   98</span>        <span class="keywordflow">if</span> ((*i)-&gt;item == item_id)</div>
-<div class="line"><span class="lineno">   99</span>        {</div>
-<div class="line"><span class="lineno">  100</span>            i = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.erase(i++);</div>
-<div class="line"><span class="lineno">  101</span>            found = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  102</span>        }</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  104</span>            ++i;</div>
-<div class="line"><span class="lineno">  105</span>    }</div>
-<div class="line"><span class="lineno">  106</span>    <span class="keywordflow">return</span> found;</div>
-<div class="line"><span class="lineno">  107</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordtype">bool</span> found = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">for</span> (VendorItemList::iterator i = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.begin(); i != <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.end();)</div>
+<div class="line"><span class="lineno">   88</span>    {</div>
+<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">if</span> ((*i)-&gt;item == item_id)</div>
+<div class="line"><span class="lineno">   90</span>        {</div>
+<div class="line"><span class="lineno">   91</span>            i = <a class="code hl_variable" href="../../dc/da1/structVendorItemData.html#aa16668e54fce8fffe8651644cdef4335">m_items</a>.erase(i++);</div>
+<div class="line"><span class="lineno">   92</span>            found = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   93</span>        }</div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   95</span>            ++i;</div>
+<div class="line"><span class="lineno">   96</span>    }</div>
+<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">return</span> found;</div>
+<div class="line"><span class="lineno">   98</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00470">m_items</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00466">m_items</a>.</p>
 
 </div>
 </div>
@@ -410,7 +410,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00481">AddItem()</a>, <a class="el" href="../../#l00487">Clear()</a>, <a class="el" href="../../#l00479">Empty()</a>, <a class="el" href="../../#l00112">FindItemCostPair()</a>, <a class="el" href="../../#l00472">GetItem()</a>, <a class="el" href="../../#l00480">GetItemCount()</a>, and <a class="el" href="../../#l00093">RemoveItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00477">AddItem()</a>, <a class="el" href="../../#l00483">Clear()</a>, <a class="el" href="../../#l00475">Empty()</a>, <a class="el" href="../../#l00103">FindItemCostPair()</a>, <a class="el" href="../../#l00468">GetItem()</a>, <a class="el" href="../../#l00476">GetItemCount()</a>, and <a class="el" href="../../#l00084">RemoveItem()</a>.</p>
 
 </div>
 </div>
@@ -424,7 +424,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/da1/structVendorItemData.html">VendorItemData</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 06:30:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Dec 30 2025 06:28:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

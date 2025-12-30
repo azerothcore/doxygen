@@ -2116,6 +2116,7 @@ var searchData=
   ['av_5ftext_5fh_5fherald_5fwin_2113',['AV_TEXT_H_HERALD_WIN',['../d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08dab8aead80a7e6f8ded85ac453edd5d48d',1,'BattlegroundAV.h']]],
   ['av_5ftext_5fherald_5ffrostwolf_5fgeneral_5fdead_2114',['AV_TEXT_HERALD_FROSTWOLF_GENERAL_DEAD',['../d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da92e3bd86019484a3c2b9ed3d63559779',1,'BattlegroundAV.h']]],
   ['av_5ftext_5fherald_5fstormpike_5fgeneral_5fdead_2115',['AV_TEXT_HERALD_STORMPIKE_GENERAL_DEAD',['../d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da295d736e106c9d9178b3e350d3e23532',1,'BattlegroundAV.h']]],
-  ['axis_5fx_2116',['AXIS_X',['../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8afb7ec808a21c7770ccd7060e715983ba',1,'ScriptedAI']]],
-  ['axis_5fy_2117',['AXIS_Y',['../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8a3e69e41ce011d74658d6ccce110e5f1a',1,'ScriptedAI']]]
+  ['available_2116',['Available',['../d1/d9f/namespaceTrainer.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b',1,'Trainer']]],
+  ['axis_5fx_2117',['AXIS_X',['../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8afb7ec808a21c7770ccd7060e715983ba',1,'ScriptedAI']]],
+  ['axis_5fy_2118',['AXIS_Y',['../db/dc8/structScriptedAI.html#ad4f917cb28291c3d64d1e1d62fc007d8a3e69e41ce011d74658d6ccce110e5f1a',1,'ScriptedAI']]]
 ];

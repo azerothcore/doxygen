@@ -21,6 +21,8 @@ var dir_07fbe19a361de996bef604f9408f4a7b =
     [ "LFGPackets.h", "dd/d6b/LFGPackets_8h.html", "dd/d6b/LFGPackets_8h" ],
     [ "MiscPackets.cpp", "dd/d19/MiscPackets_8cpp.html", null ],
     [ "MiscPackets.h", "d0/d55/MiscPackets_8h.html", "d0/d55/MiscPackets_8h" ],
+    [ "NPCPackets.cpp", "d3/d64/NPCPackets_8cpp.html", null ],
+    [ "NPCPackets.h", "d4/d7e/NPCPackets_8h.html", "d4/d7e/NPCPackets_8h" ],
     [ "PacketUtilities.cpp", "d7/da3/PacketUtilities_8cpp.html", null ],
     [ "PacketUtilities.h", "d1/dbe/PacketUtilities_8h.html", "d1/dbe/PacketUtilities_8h" ],
     [ "PetPackets.cpp", "d1/d28/PetPackets_8cpp.html", null ],

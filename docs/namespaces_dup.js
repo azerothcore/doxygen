@@ -181,6 +181,7 @@ var namespaces_dup =
       [ "UpdateSetting", "da/dd0/namespacePlayerSettingsStore.html#ab725e991f09f03e0413ffe44fa807ead", null ]
     ] ],
     [ "std", "d8/dcc/namespacestd.html", "d8/dcc/namespacestd" ],
+    [ "Trainer", "d1/d9f/namespaceTrainer.html", "d1/d9f/namespaceTrainer" ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", "dd/d34/namespaceVMAP" ],
     [ "WeatherMgr", "df/dd4/namespaceWeatherMgr.html", [
       [ "GetWeatherData", "df/d17/group__world.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],

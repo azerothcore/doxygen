@@ -39,7 +39,6 @@ var ObjectMgr_8h =
     [ "sObjectMgr", "de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787", null ],
     [ "AcoreStringContainer", "de/d25/ObjectMgr_8h.html#a9e5cf299097279cbe59a00dc3b24519d", null ],
     [ "BroadcastTextContainer", "de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7", null ],
-    [ "CacheTrainerSpellContainer", "de/d25/ObjectMgr_8h.html#aa6f08915c1ae2ce8f9ee2aaeb6ac3416", null ],
     [ "CacheVendorItemContainer", "de/d25/ObjectMgr_8h.html#a03c74a524185c10fc536a50f3ef69ce3", null ],
     [ "CellGuidSet", "de/d25/ObjectMgr_8h.html#a156fd3db7b515ae005bc7d35fededc3e", null ],
     [ "CellObjectGuidsMap", "de/d25/ObjectMgr_8h.html#a6d06faa76e9e64a48c7aa628b436f55b", null ],

@@ -43,7 +43,7 @@ var classSpellMgr =
     [ "GetSpellProcEvent", "da/d90/classSpellMgr.html#a252d713f0b10a4665f9470174463bbf5", null ],
     [ "GetSpellRank", "da/d90/classSpellMgr.html#abff37b8018ffb588f42b2c0a4c229783", null ],
     [ "GetSpellSpellGroupMapBounds", "da/d90/classSpellMgr.html#ac3f3037606c3056b0220313665feae0e", null ],
-    [ "GetSpellsRequiredForSpellBounds", "da/d90/classSpellMgr.html#a5bdcfedf4f314c64b7ed33a1a7726c87", null ],
+    [ "GetSpellsRequiredForSpellBounds", "da/d90/classSpellMgr.html#a75408ff792ce4069a276da8fee71cd5a", null ],
     [ "GetSpellsRequiringSpellBounds", "da/d90/classSpellMgr.html#ad3ba910260b662307aecc92b0e696930", null ],
     [ "GetSpellTargetPosition", "da/d90/classSpellMgr.html#aad78451cae5cf043b4d39cc3fa7666d8", null ],
     [ "GetSpellThreatEntry", "da/d90/classSpellMgr.html#a88999f0d29a0aba73ec20deef99297a8", null ],

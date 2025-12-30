@@ -176,15 +176,15 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  436</span>    {</div>
-<div class="line"><span class="lineno">  437</span>        <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>.resize(<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a> + 1);</div>
-<div class="line"><span class="lineno">  438</span>        <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>.resize(<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a> + 1);</div>
-<div class="line"><span class="lineno">  439</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  437</span>    {</div>
+<div class="line"><span class="lineno">  438</span>        <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>.resize(<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a> + 1);</div>
+<div class="line"><span class="lineno">  439</span>        <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>.resize(<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a> + 1);</div>
+<div class="line"><span class="lineno">  440</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_a900ed91bceba26c1e05048bd3a9ec4fd"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a></div><div class="ttdeci">#define DEFAULT_LOCALE</div><div class="ttdef"><b>Definition</b> Common.h:131</div></div>
-<div class="ttc" id="astructBroadcastText_html_a255f95912612f11867611093ebc23a59"><div class="ttname"><a href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">BroadcastText::FemaleText</a></div><div class="ttdeci">std::vector&lt; std::string &gt; FemaleText</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:444</div></div>
-<div class="ttc" id="astructBroadcastText_html_ab30526857fe7c7c945d84931ffa4c416"><div class="ttname"><a href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">BroadcastText::MaleText</a></div><div class="ttdeci">std::vector&lt; std::string &gt; MaleText</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:443</div></div>
+<div class="ttc" id="astructBroadcastText_html_a255f95912612f11867611093ebc23a59"><div class="ttname"><a href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">BroadcastText::FemaleText</a></div><div class="ttdeci">std::vector&lt; std::string &gt; FemaleText</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:445</div></div>
+<div class="ttc" id="astructBroadcastText_html_ab30526857fe7c7c945d84931ffa4c416"><div class="ttname"><a href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">BroadcastText::MaleText</a></div><div class="ttdeci">std::vector&lt; std::string &gt; MaleText</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:444</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00444">FemaleText</a>, and <a class="el" href="../../#l00443">MaleText</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00445">FemaleText</a>, and <a class="el" href="../../#l00444">MaleText</a>.</p>
 
 </div>
 </div>
@@ -228,25 +228,25 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  457</span>    {</div>
-<div class="line"><span class="lineno">  458</span>        <span class="keywordflow">if</span> (gender == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a3667e3c5ec056737c8789615a989324faf3da8f6e862fb5230f0bbb8613684463">GENDER_FEMALE</a> &amp;&amp; (forceGender || !<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>].empty()))</div>
-<div class="line"><span class="lineno">  459</span>        {</div>
-<div class="line"><span class="lineno">  460</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>.size() &gt; std::size_t(locale) &amp;&amp; !<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[locale].empty())</div>
-<div class="line"><span class="lineno">  461</span>                <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[locale];</div>
-<div class="line"><span class="lineno">  462</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>];</div>
-<div class="line"><span class="lineno">  463</span>        }</div>
-<div class="line"><span class="lineno">  464</span>        <span class="comment">// else if (gender == GENDER_MALE)</span></div>
-<div class="line"><span class="lineno">  465</span>        {</div>
-<div class="line"><span class="lineno">  466</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>.size() &gt; std::size_t(locale) &amp;&amp; !<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>[locale].empty())</div>
-<div class="line"><span class="lineno">  467</span>                <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>[locale];</div>
-<div class="line"><span class="lineno">  468</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>[<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>];</div>
-<div class="line"><span class="lineno">  469</span>        }</div>
-<div class="line"><span class="lineno">  470</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  458</span>    {</div>
+<div class="line"><span class="lineno">  459</span>        <span class="keywordflow">if</span> (gender == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a3667e3c5ec056737c8789615a989324faf3da8f6e862fb5230f0bbb8613684463">GENDER_FEMALE</a> &amp;&amp; (forceGender || !<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>].empty()))</div>
+<div class="line"><span class="lineno">  460</span>        {</div>
+<div class="line"><span class="lineno">  461</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>.size() &gt; std::size_t(locale) &amp;&amp; !<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[locale].empty())</div>
+<div class="line"><span class="lineno">  462</span>                <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[locale];</div>
+<div class="line"><span class="lineno">  463</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#a255f95912612f11867611093ebc23a59">FemaleText</a>[<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>];</div>
+<div class="line"><span class="lineno">  464</span>        }</div>
+<div class="line"><span class="lineno">  465</span>        <span class="comment">// else if (gender == GENDER_MALE)</span></div>
+<div class="line"><span class="lineno">  466</span>        {</div>
+<div class="line"><span class="lineno">  467</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>.size() &gt; std::size_t(locale) &amp;&amp; !<a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>[locale].empty())</div>
+<div class="line"><span class="lineno">  468</span>                <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>[locale];</div>
+<div class="line"><span class="lineno">  469</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d34/structBroadcastText.html#ab30526857fe7c7c945d84931ffa4c416">MaleText</a>[<a class="code hl_define" href="../../dc/d33/Common_8h.html#a900ed91bceba26c1e05048bd3a9ec4fd">DEFAULT_LOCALE</a>];</div>
+<div class="line"><span class="lineno">  470</span>        }</div>
+<div class="line"><span class="lineno">  471</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a3667e3c5ec056737c8789615a989324faf3da8f6e862fb5230f0bbb8613684463"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a3667e3c5ec056737c8789615a989324faf3da8f6e862fb5230f0bbb8613684463">GENDER_FEMALE</a></div><div class="ttdeci">@ GENDER_FEMALE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00444">FemaleText</a>, <a class="el" href="../../#l00062">GENDER_FEMALE</a>, and <a class="el" href="../../#l00443">MaleText</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">DEFAULT_LOCALE</a>, <a class="el" href="../../#l00445">FemaleText</a>, <a class="el" href="../../#l00062">GENDER_FEMALE</a>, and <a class="el" href="../../#l00444">MaleText</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00397">CreatureTextMgr::GetLocalizedChatString()</a>, <a class="el" href="../../#l00274">WorldSession::HandleNpcTextQueryOpcode()</a>, <a class="el" href="../../#l00137">spell_the_flag_of_ownership::HandleScript()</a>, <a class="el" href="../../#l00023">Acore::BroadcastTextBuilder::operator()()</a>, <a class="el" href="../../#l00029">Acore::BroadcastTextBuilder::operator()()</a>, <a class="el" href="../../#l21304">Unit::Whisper()</a>, and <a class="el" href="../../#l09535">Player::Whisper()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00397">CreatureTextMgr::GetLocalizedChatString()</a>, <a class="el" href="../../#l00274">WorldSession::HandleNpcTextQueryOpcode()</a>, <a class="el" href="../../#l00137">spell_the_flag_of_ownership::HandleScript()</a>, <a class="el" href="../../#l00023">Acore::BroadcastTextBuilder::operator()()</a>, <a class="el" href="../../#l00029">Acore::BroadcastTextBuilder::operator()()</a>, <a class="el" href="../../#l21308">Unit::Whisper()</a>, and <a class="el" href="../../#l09461">Player::Whisper()</a>.</p>
 
 </div>
 </div>
@@ -262,9 +262,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  448</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  449</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -279,9 +279,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  449</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  450</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -296,9 +296,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  450</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  451</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -313,9 +313,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  445</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  446</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -330,9 +330,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  446</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  447</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -347,9 +347,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  447</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  448</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -364,9 +364,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  452</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  453</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -382,7 +382,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00435">BroadcastText()</a>, <a class="el" href="../../#l00456">GetText()</a>, <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00032">Player::PrepareGossipMenu()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00436">BroadcastText()</a>, <a class="el" href="../../#l00457">GetText()</a>, <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00032">Player::PrepareGossipMenu()</a>.</p>
 
 </div>
 </div>
@@ -397,9 +397,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  453</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  454</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -414,9 +414,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  441</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  442</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -431,9 +431,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  442</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  443</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>, <a class="el" href="../../#l00023">Acore::BroadcastTextBuilder::operator()()</a>, and <a class="el" href="../../#l00029">Acore::BroadcastTextBuilder::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>, <a class="el" href="../../#l00023">Acore::BroadcastTextBuilder::operator()()</a>, and <a class="el" href="../../#l00029">Acore::BroadcastTextBuilder::operator()()</a>.</p>
 
 </div>
 </div>
@@ -449,7 +449,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00081">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00435">BroadcastText()</a>, <a class="el" href="../../#l00456">GetText()</a>, <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00032">Player::PrepareGossipMenu()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">GossipMenu::AddMenuItem()</a>, <a class="el" href="../../#l00436">BroadcastText()</a>, <a class="el" href="../../#l00457">GetText()</a>, <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>, and <a class="el" href="../../#l00032">Player::PrepareGossipMenu()</a>.</p>
 
 </div>
 </div>
@@ -464,9 +464,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  451</span>{0};</div>
+<div class="fragment"><div class="line"><span class="lineno">  452</span>{0};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l09835">ObjectMgr::LoadBroadcastTexts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09830">ObjectMgr::LoadBroadcastTexts()</a>.</p>
 
 </div>
 </div>
@@ -479,7 +479,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d34/structBroadcastText.html">BroadcastText</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 06:29:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Dec 30 2025 06:27:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

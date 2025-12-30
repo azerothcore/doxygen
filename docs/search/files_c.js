@@ -12,5 +12,7 @@ var searchData=
   ['npc_5ftaxi_2ecpp_9',['npc_taxi.cpp',['../d9/dc7/npc__taxi_8cpp.html',1,'']]],
   ['npchandler_2ecpp_10',['NPCHandler.cpp',['../de/dbe/NPCHandler_8cpp.html',1,'']]],
   ['npchandler_2eh_11',['NPCHandler.h',['../d5/d66/NPCHandler_8h.html',1,'']]],
-  ['npcs_5fspecial_2ecpp_12',['npcs_special.cpp',['../db/dae/npcs__special_8cpp.html',1,'']]]
+  ['npcpackets_2ecpp_12',['NPCPackets.cpp',['../d3/d64/NPCPackets_8cpp.html',1,'']]],
+  ['npcpackets_2eh_13',['NPCPackets.h',['../d4/d7e/NPCPackets_8h.html',1,'']]],
+  ['npcs_5fspecial_2ecpp_14',['npcs_special.cpp',['../db/dae/npcs__special_8cpp.html',1,'']]]
 ];

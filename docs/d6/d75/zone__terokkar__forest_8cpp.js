@@ -14,7 +14,14 @@ var zone__terokkar__forest_8cpp =
     [ "npc_isla_starmane", "d3/d6a/classnpc__isla__starmane.html", "d3/d6a/classnpc__isla__starmane" ],
     [ "npc_isla_starmane::npc_isla_starmaneAI", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI" ],
     [ "go_skull_pile", "de/d69/classgo__skull__pile.html", "de/d69/classgo__skull__pile" ],
+    [ "go_ancient_skull_pile", "de/d4c/classgo__ancient__skull__pile.html", "de/d4c/classgo__ancient__skull__pile" ],
     [ "npc_slim", "dc/dc2/classnpc__slim.html", "dc/dc2/classnpc__slim" ],
+    [ "AncientSkullPile", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39", [
+      [ "ITEM_TIME_LOST_OFFERING", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39a9518eccb8f2091e25757305c7df45735", null ],
+      [ "SPELL_SUMMON_TEROKK", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39a060ed19ca52e3aad49e15a5c676391da", null ],
+      [ "GOSSIP_MENU_ANCIENT_SKULL_PILE", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39aba1816dec6964a547d88e1fb02f60288", null ],
+      [ "GOSSIP_MENU_TEXT_ANCIENT_SKULL_PILE", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39afcc4ad64be5adf59fd88632315f6824c", null ]
+    ] ],
     [ "eQ10923EvilDrawsNear", "d6/d75/zone__terokkar__forest_8cpp.html#aac8f425764fbd137acd527c44a8217e5", [
       [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL1", "d6/d75/zone__terokkar__forest_8cpp.html#aac8f425764fbd137acd527c44a8217e5a148039a82148e121ffa2e47d4037c198", null ],
       [ "SPELL_DUSTIN_UNDEAD_DRAGON_VISUAL2", "d6/d75/zone__terokkar__forest_8cpp.html#aac8f425764fbd137acd527c44a8217e5a9f54f32a1b40bdd5f44006b6f874054b", null ],

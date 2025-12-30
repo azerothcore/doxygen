@@ -9,5 +9,7 @@ var dir_27c47d768f113c084c0b575dcbf4137a =
     [ "GossipDef.cpp", "d9/d34/GossipDef_8cpp.html", null ],
     [ "GossipDef.h", "d5/d64/GossipDef_8h.html", "d5/d64/GossipDef_8h" ],
     [ "TemporarySummon.cpp", "dd/d4c/TemporarySummon_8cpp.html", null ],
-    [ "TemporarySummon.h", "d2/d6e/TemporarySummon_8h.html", "d2/d6e/TemporarySummon_8h" ]
+    [ "TemporarySummon.h", "d2/d6e/TemporarySummon_8h.html", "d2/d6e/TemporarySummon_8h" ],
+    [ "Trainer.cpp", "dc/d26/Trainer_8cpp.html", null ],
+    [ "Trainer.h", "d9/d62/Trainer_8h.html", "d9/d62/Trainer_8h" ]
 ];

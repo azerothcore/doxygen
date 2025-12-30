@@ -629,11 +629,12 @@ var searchData=
   ['item_5ftharnariums_5fhope_626',['ITEM_THARNARIUMS_HOPE',['../d1/db7/zone__darkshore_8cpp.html#a0ed292ffd1cc9307544572174ebb1c8dac5c8eb102b15e74d556b069cac6ddc25',1,'zone_darkshore.cpp']]],
   ['item_5fthe_5fmasters_5fkey_627',['ITEM_THE_MASTERS_KEY',['../db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a4e620ca883f85575264671f85dcecd48',1,'npcs_special.cpp']]],
   ['item_5fthrorium_5fbrotherhood_5fcontract_628',['ITEM_THRORIUM_BROTHERHOOD_CONTRACT',['../df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b',1,'blackrock_depths.cpp']]],
-  ['item_5funadorned_5fseal_629',['ITEM_UNADORNED_SEAL',['../df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a3d76a0781f88ad5ad001c8e70b5d6ce5',1,'blackrock_spire.h']]],
-  ['item_5funchanged_630',['ITEM_UNCHANGED',['../d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04aa18942b26c4c175b16401bd70306389c',1,'Item.h']]],
-  ['item_5fvenomhide_5fbaby_5ftooth_631',['ITEM_VENOMHIDE_BABY_TOOTH',['../db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda48be430269d4b81aa898b2609dcf4e65',1,'npcs_special.cpp']]],
-  ['item_5fviolet_5fhold_5fkey_632',['ITEM_VIOLET_HOLD_KEY',['../db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a01db61624ef7ce8f1201777aa9a44d7c',1,'npcs_special.cpp']]],
-  ['item_5fwarts_5fb_5fgone_5flip_5fbalm_633',['ITEM_WARTS_B_GONE_LIP_BALM',['../dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a57b168aff7bc0131ad7dd1251d3dbab4',1,'zone_grizzly_hills.cpp']]],
-  ['item_5fwinner_5fcount_634',['ITEM_WINNER_COUNT',['../d3/dcf/Battleground_8h.html#a6c3d2dfafa035abd99186b229e30a2c1a0beefd0257b8e36300120f39fabcdec2',1,'Battleground.h']]],
-  ['item_5fws_5fmark_5fof_5fhonor_635',['ITEM_WS_MARK_OF_HONOR',['../d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba306c617622d550b16023e7c75f7c1972',1,'Battleground.h']]]
+  ['item_5ftime_5flost_5foffering_629',['ITEM_TIME_LOST_OFFERING',['../d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39a9518eccb8f2091e25757305c7df45735',1,'zone_terokkar_forest.cpp']]],
+  ['item_5funadorned_5fseal_630',['ITEM_UNADORNED_SEAL',['../df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a3d76a0781f88ad5ad001c8e70b5d6ce5',1,'blackrock_spire.h']]],
+  ['item_5funchanged_631',['ITEM_UNCHANGED',['../d1/dd4/Item_8h.html#a744ce838494e4dc6eb5f123b9a38bd04aa18942b26c4c175b16401bd70306389c',1,'Item.h']]],
+  ['item_5fvenomhide_5fbaby_5ftooth_632',['ITEM_VENOMHIDE_BABY_TOOTH',['../db/dae/npcs__special_8cpp.html#ae5e5e621d0f9d0d5d49c575c4ee9e1cda48be430269d4b81aa898b2609dcf4e65',1,'npcs_special.cpp']]],
+  ['item_5fviolet_5fhold_5fkey_633',['ITEM_VIOLET_HOLD_KEY',['../db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a01db61624ef7ce8f1201777aa9a44d7c',1,'npcs_special.cpp']]],
+  ['item_5fwarts_5fb_5fgone_5flip_5fbalm_634',['ITEM_WARTS_B_GONE_LIP_BALM',['../dd/de1/zone__grizzly__hills_8cpp.html#a8ff884dc5fcfc3ddf81fa0d2be4aac82a57b168aff7bc0131ad7dd1251d3dbab4',1,'zone_grizzly_hills.cpp']]],
+  ['item_5fwinner_5fcount_635',['ITEM_WINNER_COUNT',['../d3/dcf/Battleground_8h.html#a6c3d2dfafa035abd99186b229e30a2c1a0beefd0257b8e36300120f39fabcdec2',1,'Battleground.h']]],
+  ['item_5fws_5fmark_5fof_5fhonor_636',['ITEM_WS_MARK_OF_HONOR',['../d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba306c617622d550b16023e7c75f7c1972',1,'Battleground.h']]]
 ];

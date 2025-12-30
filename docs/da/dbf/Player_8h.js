@@ -527,12 +527,6 @@ var Player_8h =
       [ "TELE_TO_WITH_PET", "da/dbf/Player_8h.html#a19f261ab504f8e06e9488bd5a3c23075a0b772e79bf8a6e5d3fe2d0d2e7ad7990", null ],
       [ "TELE_TO_NOT_LEAVE_TAXI", "da/dbf/Player_8h.html#a19f261ab504f8e06e9488bd5a3c23075a1d9eb2253b4b58ba1fc15f7f80e11c89", null ]
     ] ],
-    [ "TrainerSpellState", "da/dbf/Player_8h.html#a103ca8d3e1b78335f77c37f5bf8e5966", [
-      [ "TRAINER_SPELL_GREEN", "da/dbf/Player_8h.html#a103ca8d3e1b78335f77c37f5bf8e5966a1a7825291a283accb01c0819ce4df4bc", null ],
-      [ "TRAINER_SPELL_RED", "da/dbf/Player_8h.html#a103ca8d3e1b78335f77c37f5bf8e5966a776f4797486a8c97784084045c88dd5c", null ],
-      [ "TRAINER_SPELL_GRAY", "da/dbf/Player_8h.html#a103ca8d3e1b78335f77c37f5bf8e5966a615c839a694ba15638907808472b572d", null ],
-      [ "TRAINER_SPELL_GREEN_DISABLED", "da/dbf/Player_8h.html#a103ca8d3e1b78335f77c37f5bf8e5966a733b3dafcdb9636839d52b20c8e34dde", null ]
-    ] ],
     [ "TransferAbortReason", "da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210", [
       [ "TRANSFER_ABORT_NONE", "da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210a94adad34950b792cb6e5b8d9d2aa7780", null ],
       [ "TRANSFER_ABORT_ERROR", "da/dbf/Player_8h.html#a34b87c411e3511dc8bde293dc2b25210af86fa72b9913635993476dcba071493c", null ],

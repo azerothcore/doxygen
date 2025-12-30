@@ -37,7 +37,7 @@ var searchData=
   ['hastaunted_34',['HasTaunted',['../d7/d83/structboss__nexusprince__shaffar.html#aa7d55363fe9a326dc86bd4f4076d12ab',1,'boss_nexusprince_shaffar']]],
   ['hastrappedunit_35',['hasTrappedUnit',['../de/d84/structnpc__bone__spike_1_1npc__bone__spikeAI.html#aeb7236ef0d313fd3799458f3d50276f7',1,'npc_bone_spike::npc_bone_spikeAI']]],
   ['hasvelocity_36',['HasVelocity',['../dc/d2f/structMovement_1_1MoveSplineInitArgs.html#acad05815ff039fe1fea3d7cf56afb4f2',1,'Movement::MoveSplineInitArgs']]],
-  ['hasyelled_37',['hasyelled',['../d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a4eace0c62b5ad50f7c1a525485da08fb',1,'boss_vaelastrasz::boss_vaelAI::HasYelled'],['../d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b',1,'boss_emperor_dagran_thaurissan::boss_draganthaurissanAI::hasYelled']]],
+  ['hasyelled_37',['hasyelled',['../d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b',1,'boss_emperor_dagran_thaurissan::boss_draganthaurissanAI::hasYelled'],['../d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html#a4eace0c62b5ad50f7c1a525485da08fb',1,'boss_vaelastrasz::boss_vaelAI::HasYelled']]],
   ['hatcherway_38',['hatcherway',['../d9/df1/boss__janalai_8cpp.html#aa9b512aa2987259f8ced89aec76a2f4e',1,'boss_janalai.cpp']]],
   ['hatchlingsspawnpoints_39',['hatchlingsSpawnPoints',['../d8/dea/boss__fankriss_8cpp.html#a176383498f6bddbc2f779253f716da68',1,'boss_fankriss.cpp']]],
   ['have_5foperators_40',['have_operators',['../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a31be0827a24327470faa92595eda5996',1,'Acore::ChatCommands::Variant']]],

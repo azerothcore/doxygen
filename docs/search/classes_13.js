@@ -90,7 +90,7 @@ var searchData=
   ['spawnspells_87',['SpawnSpells',['../da/d7e/structSpawnSpells.html',1,'']]],
   ['spectator_5fcommandscript_88',['spectator_commandscript',['../d4/da1/classspectator__commandscript.html',1,'']]],
   ['spectralblastcheck_89',['SpectralBlastCheck',['../d7/d55/classSpectralBlastCheck.html',1,'']]],
-  ['spell_90',['spell',['../d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html',1,'Acore::Hyperlinks::LinkTags::spell'],['../d1/d16/classSpell.html',1,'Spell']]],
+  ['spell_90',['spell',['../d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html',1,'Acore::Hyperlinks::LinkTags::spell'],['../d1/d16/classSpell.html',1,'Spell'],['../d8/de1/structTrainer_1_1Spell.html',1,'Trainer::Spell']]],
   ['spell_5faggro_5fdrones_91',['spell_aggro_drones',['../d6/d9e/classspell__aggro__drones.html',1,'']]],
   ['spell_5fahn_5fkahet_5fswarmer_5faura_92',['spell_ahn_kahet_swarmer_aura',['../d7/de2/classspell__ahn__kahet__swarmer__aura.html',1,'']]],
   ['spell_5fahune_5fminion_5fdespawner_93',['spell_ahune_minion_despawner',['../d2/d0a/classspell__ahune__minion__despawner.html',1,'']]],

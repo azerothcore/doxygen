@@ -30,7 +30,6 @@ var SharedDefines_8h =
     [ "MAX_STATS", "de/d0a/SharedDefines_8h.html#a0f8923f02eb7dfba43a426b8320354da", null ],
     [ "MAX_TALENT_SPECS", "de/d0a/SharedDefines_8h.html#a20121875e2e4c97a19ccd838f420aa63", null ],
     [ "MAX_TOTEM_SLOT", "de/d0a/SharedDefines_8h.html#aa1b5c5e153101987fcbf9000907e2a81", null ],
-    [ "MAX_TRAINER_TYPE", "de/d0a/SharedDefines_8h.html#ae4c3ac2deaad5a75f25ea1fc34dc3e0f", null ],
     [ "MAX_WEATHER_TYPE", "de/d0a/SharedDefines_8h.html#a998b287aec78d72633142b2331baf958", null ],
     [ "MIN_REPUTATION_RANK", "de/d0a/SharedDefines_8h.html#a37ec5c9991b7291bce7ffa92f82534e1", null ],
     [ "PER_CASTER_AURA_STATE_MASK", "de/d0a/SharedDefines_8h.html#a8758dc4a07850cb0ded0c0d98eb4cd1c", null ],
@@ -3420,12 +3419,6 @@ var SharedDefines_8h =
       [ "TRADE_STATUS_TRIAL_ACCOUNT", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a8e35a1abafd96036e35aea8560b8f344", null ],
       [ "TRADE_STATUS_ONLY_CONJURED", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0ac3af77312dcf17d3839b8d1614cdfed9", null ],
       [ "TRADE_STATUS_NOT_ELIGIBLE", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0aedcd02da2ddb8a492fde58f26ce7e971", null ]
-    ] ],
-    [ "TrainerType", "de/d0a/SharedDefines_8h.html#aaf2a7c6f0a86372740c59d97e86fa60f", [
-      [ "TRAINER_TYPE_CLASS", "de/d0a/SharedDefines_8h.html#aaf2a7c6f0a86372740c59d97e86fa60fad64268d7e7d40ebb3381134bf747e487", null ],
-      [ "TRAINER_TYPE_MOUNTS", "de/d0a/SharedDefines_8h.html#aaf2a7c6f0a86372740c59d97e86fa60fad245e4a76489a77651ada6aa1ddfeddf", null ],
-      [ "TRAINER_TYPE_TRADESKILLS", "de/d0a/SharedDefines_8h.html#aaf2a7c6f0a86372740c59d97e86fa60fa98c93eed8da8794fefc337f0e5a382ba", null ],
-      [ "TRAINER_TYPE_PETS", "de/d0a/SharedDefines_8h.html#aaf2a7c6f0a86372740c59d97e86fa60facb2fa4db2bd3636ea37b26f05703ab78", null ]
     ] ],
     [ "UnitClass", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513", [
       [ "UNIT_CLASS_WARRIOR", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513a82ee56c66d74c68ef6c9c7d4e493f264", null ],

@@ -303,6 +303,10 @@ var annotated_dup =
       [ "hash< SpellGroup >", "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html", "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4" ],
       [ "hash< std::pair< uint32_t, uint32_t > >", "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html", "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4" ]
     ] ],
+    [ "Trainer", "d1/d9f/namespaceTrainer.html", [
+      [ "Spell", "d8/de1/structTrainer_1_1Spell.html", "d8/de1/structTrainer_1_1Spell" ],
+      [ "Trainer", "dc/d0b/classTrainer_1_1Trainer.html", "dc/d0b/classTrainer_1_1Trainer" ]
+    ] ],
     [ "VMAP", "dd/d34/namespaceVMAP.html", [
       [ "AreaAndLiquidData", "d7/dcc/structVMAP_1_1AreaAndLiquidData.html", "d7/dcc/structVMAP_1_1AreaAndLiquidData" ],
       [ "AreaInfo", "d2/d6e/structVMAP_1_1AreaInfo.html", "d2/d6e/structVMAP_1_1AreaInfo" ],
@@ -475,6 +479,14 @@ var annotated_dup =
         [ "StopMirrorTimer", "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html", "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer" ],
         [ "UITime", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime.html", "d0/dc2/classWorldPackets_1_1Misc_1_1UITime" ],
         [ "Weather", "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html", "d3/daf/classWorldPackets_1_1Misc_1_1Weather" ]
+      ] ],
+      [ "NPC", "dd/d9e/namespaceWorldPackets_1_1NPC.html", [
+        [ "Hello", "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html", "d6/dec/classWorldPackets_1_1NPC_1_1Hello" ],
+        [ "TrainerBuyFailed", "db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html", "db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed" ],
+        [ "TrainerBuySpell", "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html", "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell" ],
+        [ "TrainerBuySucceeded", "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html", "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded" ],
+        [ "TrainerList", "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html", "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList" ],
+        [ "TrainerListSpell", "d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html", "d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell" ]
       ] ],
       [ "Pet", "df/dd1/namespaceWorldPackets_1_1Pet.html", [
         [ "DismissCritter", "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter.html", "d6/d2d/classWorldPackets_1_1Pet_1_1DismissCritter" ],
@@ -1624,6 +1636,7 @@ var annotated_dup =
     [ "go_ahune_ice_spear", "d5/d31/structgo__ahune__ice__spear.html", "d5/d31/structgo__ahune__ice__spear" ],
     [ "go_ahune_ice_stone", "d1/d4b/structgo__ahune__ice__stone.html", "d1/d4b/structgo__ahune__ice__stone" ],
     [ "go_amberpine_outhouse", "dd/df4/classgo__amberpine__outhouse.html", "dd/df4/classgo__amberpine__outhouse" ],
+    [ "go_ancient_skull_pile", "de/d4c/classgo__ancient__skull__pile.html", "de/d4c/classgo__ancient__skull__pile" ],
     [ "go_apexis_relic", "d1/dc9/classgo__apexis__relic.html", "d1/dc9/classgo__apexis__relic" ],
     [ "go_arcane_prison", "d7/d04/classgo__arcane__prison.html", "d7/d04/classgo__arcane__prison" ],
     [ "go_arena_ready_marker", "d4/d66/classgo__arena__ready__marker.html", "d4/d66/classgo__arena__ready__marker" ],
@@ -4711,8 +4724,6 @@ var annotated_dup =
     [ "TotemAI", "d6/da9/classTotemAI.html", "d6/da9/classTotemAI" ],
     [ "TotemCategoryEntry", "d3/d88/structTotemCategoryEntry.html", "d3/d88/structTotemCategoryEntry" ],
     [ "TradeData", "d8/d94/classTradeData.html", "d8/d94/classTradeData" ],
-    [ "TrainerSpell", "d8/d2d/structTrainerSpell.html", "d8/d2d/structTrainerSpell" ],
-    [ "TrainerSpellData", "de/dc3/structTrainerSpellData.html", "de/dc3/structTrainerSpellData" ],
     [ "Transaction", "df/d28/classTransaction.html", "df/d28/classTransaction" ],
     [ "TransactionBase", "d1/df7/classTransactionBase.html", "d1/df7/classTransactionBase" ],
     [ "TransactionCallback", "db/df0/classTransactionCallback.html", "db/df0/classTransactionCallback" ],
