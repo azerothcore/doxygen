@@ -1,6 +1,5 @@
 var NAVTREEINDEX336 =
 {
-"dd/db8/classspell__ioc__parachute__ic__aura.html#a6ce4c5c2b6797b38225ac3348aad5892":[6,0,3225,1],
 "dd/db8/classspell__ioc__parachute__ic__aura.html#a813bad39641956fff697580f271416d2":[6,0,3225,3],
 "dd/db8/classspell__ioc__parachute__ic__aura.html#af87272995f6eeb3bc53cf472f5c3e9d3":[6,0,3225,2],
 "dd/db8/structMySQLType_3_01float_01_4.html":[6,0,1546],
@@ -249,5 +248,6 @@ var NAVTREEINDEX336 =
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298ca60b9e8f91e6195c68c564f0b53e61e9d":[7,0,0,0,1,3,2,4,4,4,6],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298caa2ab8ac3c7027565568c33e5c23cfef6":[7,0,0,0,1,3,2,4,4,4,0],
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,4,4,4,5],
-"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cad29cb58b32c3fccaec3fde84e2355de6":[7,0,0,0,1,3,2,4,4,4,4]
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cad29cb58b32c3fccaec3fde84e2355de6":[7,0,0,0,1,3,2,4,4,4,4],
+"dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,4,4,4,7]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX323 =
 {
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[6,0,12,9,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aee5564c9fc17613b9f30fc8ce88944c6":[5,0,32,9,11,3],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[5,0,32,9,11,5],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#af02aa97826259885791d0f4afc0c1a84":[6,0,12,9,11,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX323 =
 "dd/d27/structSmartAction.html#aa57990af8febf9541bdef4332bfafafc":[6,0,2566,303],
 "dd/d27/structSmartAction.html#aa589f8a89c13cbca377b34232248adb9":[6,0,2566,9],
 "dd/d27/structSmartAction.html#aa6552e1be1fa4d0355a39f8404ee7d5a":[6,0,2566,200],
-"dd/d27/structSmartAction.html#aa702dd935ba66b095c2772472247fa13":[6,0,2566,79]
+"dd/d27/structSmartAction.html#aa702dd935ba66b095c2772472247fa13":[6,0,2566,79],
+"dd/d27/structSmartAction.html#aa76cd98461b26f6969ba2bf682b87872":[6,0,2566,273]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX341 =
 {
-"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,2984,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2984,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
@@ -249,5 +248,6 @@ var NAVTREEINDEX341 =
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0a9acfde63edd0a825a1e5a69925d754":[7,0,0,0,1,3,5,10,1,3,4,28],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11f55759520d9287f96f62c91a16d870":[7,0,0,0,1,3,5,10,1,3,4,21],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1214b7579787f881b7fea53b30a5f85a":[7,0,0,0,1,3,5,10,1,3,4,11],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a159ed2a289301849be1a0a518ac1c228":[7,0,0,0,1,3,5,10,1,3,4,5]
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a159ed2a289301849be1a0a518ac1c228":[7,0,0,0,1,3,5,10,1,3,4,5],
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a197224a605f7525b070e97728863f7cf":[7,0,0,0,1,3,5,10,1,3,4,10]
 };

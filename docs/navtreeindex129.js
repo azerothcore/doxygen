@@ -1,6 +1,5 @@
 var NAVTREEINDEX129 =
 {
-"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4313,5],
 "d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4313,1],
 "d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4313,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[6,0,627,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX129 =
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a379cd345f5bd4f776413760e5e279963":[7,0,0,0,1,3,5,2,1,1,67,3],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a448752b7905acc2f95a5197a10b3562b":[7,0,0,0,1,3,5,2,1,1,67,7],
 "d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a4827504bb72c7591d6f5923e543e73b2":[7,0,0,0,1,3,5,2,1,1,67,8],
-"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,2,1,1,67,2]
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,5,2,1,1,67,2],
+"d4/d81/boss__faction__champions_8cpp.html#aad946c0e989c874c92d99e06100133d5a9203ecb14e14edb80a8277f5776b9799":[7,0,0,0,1,3,5,2,1,1,67,5]
 };

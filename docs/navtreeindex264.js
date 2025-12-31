@@ -1,6 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/d9e/classSmartAIMgr.html#ac8bd37889f7c8cd41359f0d81110a42f":[6,0,2568,4],
 "da/d9e/classSmartAIMgr.html#acc1e1ad2f94741f64ec2f1e01326a528":[6,0,2568,8],
 "da/d9e/classSmartAIMgr.html#ad24d5454bfab13924494a83889b16577":[6,0,2568,17],
 "da/d9e/classSmartAIMgr.html#ad29edf0f46841b176529e386a669cba0":[6,0,2568,23],
@@ -249,5 +248,6 @@ var NAVTREEINDEX264 =
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a308f2f29ec7f9277d102564ff6d39e32":[6,0,1736,0,4],
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a32dd4a91841f2e75c8bca109015fc56a":[6,0,1736,0,6],
 "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a3fdcf062b22c08b1dd616dad591a1021":[6,0,1736,0,7],
-"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a6e67cda0b83578818a5e3b34ed9517cf":[6,0,1736,0,5]
+"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#a6e67cda0b83578818a5e3b34ed9517cf":[6,0,1736,0,5],
+"da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html#aa03a128068072b85bf0926cdececaaf2":[6,0,1736,0,0]
 };

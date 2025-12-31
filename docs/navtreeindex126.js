@@ -1,6 +1,5 @@
 var NAVTREEINDEX126 =
 {
-"d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cac074337411495e44950137105b382673":[7,0,0,0,1,3,2,4,14,19,4],
 "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cad953507f5ef5d56d1634633454721014":[7,0,0,0,1,3,2,4,14,19,9],
 "d4/d64/karazhan_8cpp.html#a5bd342133be8c2137b831460acc9298cafc74063d4fb3adf5cae3a727fd6686a5":[7,0,0,0,1,3,2,4,14,19,12],
 "d4/d64/karazhan_8cpp.html#a64d2f157681702ecc6cd3492a7c019b1":[7,0,0,0,1,3,2,4,14,18],
@@ -218,18 +217,18 @@ var NAVTREEINDEX126 =
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[7,0,0,0,1,3,7,5,2,2,20,1],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9dacdde9b5291e2dd6f18fbefffad1e99b7":[7,0,0,0,1,3,7,5,2,2,20,4],
 "d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27],
-"d4/d67/classMovement_1_1counter.html":[5,0,21,1],
 "d4/d67/classMovement_1_1counter.html":[6,0,7,1],
+"d4/d67/classMovement_1_1counter.html":[5,0,21,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,21,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
-"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
+"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
+"d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[6,0,7,1,1],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
 "d4/d67/classgo__warmaul__prison.html":[6,0,1204],
@@ -249,5 +248,6 @@ var NAVTREEINDEX126 =
 "d4/d69/classboss__flame__leviathan__defense__turret.html#a939c66ff6c1eb6dfdb3d93b3d0292e40":[6,0,473,1],
 "d4/d69/structItemTemplate.html":[6,0,1397],
 "d4/d69/structItemTemplate.html#a0204c005b14e5108365b0bc22fd899e4":[6,0,1397,65],
-"d4/d69/structItemTemplate.html#a02f226e21d1da638fa5a194521f2d48d":[6,0,1397,27]
+"d4/d69/structItemTemplate.html#a02f226e21d1da638fa5a194521f2d48d":[6,0,1397,27],
+"d4/d69/structItemTemplate.html#a0cc7568d921d0ad9efb7cfe4fcccdf72":[6,0,1397,42]
 };

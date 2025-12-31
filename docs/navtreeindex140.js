@@ -1,6 +1,5 @@
 var NAVTREEINDEX140 =
 {
-"d4/df6/boss__razorgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca453f7c3db8870efaf88daef1b3327cda":[7,0,0,0,1,3,2,1,2,7,6,1],
 "d4/df6/boss__razorgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca595f7c28a84739a8030695f61803ffc1":[7,0,0,0,1,3,2,1,2,7,6,0],
 "d4/df6/boss__razorgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca65294c05f63b99ce70bf2247ab9c341c":[7,0,0,0,1,3,2,1,2,7,6,10],
 "d4/df6/boss__razorgore_8cpp.html#a5bd342133be8c2137b831460acc9298ca725c2e5b9167c2cb646bf3e8c31492df":[7,0,0,0,1,3,2,1,2,7,6,6],
@@ -71,8 +70,8 @@ var NAVTREEINDEX140 =
 "d4/df7/structboss__doomrel_1_1boss__doomrelAI.html#ae633f4cc1747f291a3911ca50ee39370":[6,0,428,0,1],
 "d4/df7/structboss__doomrel_1_1boss__doomrelAI.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc":[6,0,428,0,3],
 "d4/df7/structboss__doomrel_1_1boss__doomrelAI.html#af29d871a370a534f508f225d49c3dc9f":[6,0,428,0,7],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[6,0,0,35],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[5,0,1,47],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html":[6,0,0,35],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[5,0,1,47,0],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1":[6,0,0,35,0],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a632cab30adc21c22f1a8890b1627262a":[6,0,0,35,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX140 =
 "d5/d07/classMapSessionFilter.html#ad11a700c36f8f45640402e96edc74b49":[4,1,12,0],
 "d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html":[6,0,3799],
 "d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#a003e9c77e59008ea78b3f1e9977ab5d6":[6,0,3799,2],
-"d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#a858929800089fee1a06948bda1c8806f":[6,0,3799,1]
+"d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#a858929800089fee1a06948bda1c8806f":[6,0,3799,1],
+"d5/d07/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger__aura.html#ac74d25501690970c607a146eec02ab24":[6,0,3799,0]
 };

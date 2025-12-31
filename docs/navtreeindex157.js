@@ -1,6 +1,5 @@
 var NAVTREEINDEX157 =
 {
-"d5/dd8/structCreatureAddon.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9":[6,0,921,1],
 "d5/dd8/structCreatureAddon.html#aedf06568867bbb5db5ca8017727dab9d":[6,0,921,2],
 "d5/dd9/structArenaSeasonRewardGroup.html":[6,0,189],
 "d5/dd9/structArenaSeasonRewardGroup.html#a0574cf3fc910f13413ea7eb1c0f08166":[6,0,189,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX157 =
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a56868df5ec6fdf48ab227bdb896739d7":[6,0,1339,0,7],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a5a3d7b3545f173ccb68b46456cbf285a":[6,0,1339,0,24],
 "d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a5f25ab6abc60eb43fe7918d323e22315":[6,0,1339,0,22],
-"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a675f61216a3f544824d261fb859d159b":[6,0,1339,0,9]
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a675f61216a3f544824d261fb859d159b":[6,0,1339,0,9],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a6c4c5ce42cd57091662f0f0308a58420":[6,0,1339,0,37]
 };

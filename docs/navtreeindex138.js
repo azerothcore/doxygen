@@ -1,6 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"d4/dd8/structAchievementCriteriaData.html#a47883c03fca4df9c2a3612ef9dd0d6cb":[6,0,112,11],
 "d4/dd8/structAchievementCriteriaData.html#a544dfbd51369b7ccc7187f8a5e993843":[6,0,112,9],
 "d4/dd8/structAchievementCriteriaData.html#a55c9583e535d66c4647c4dd03401956a":[6,0,112,48],
 "d4/dd8/structAchievementCriteriaData.html#a56f5213c63183a8da51cf796dc91d590":[6,0,112,35],
@@ -249,5 +248,6 @@ var NAVTREEINDEX138 =
 "d4/ddf/structArenaTeamMember.html#a5f6519e8ad3281a09608f8740927fbd3":[6,0,198,2],
 "d4/ddf/structArenaTeamMember.html#a7239187cef3a02839fe27577ad022ec9":[6,0,198,9],
 "d4/ddf/structArenaTeamMember.html#a7917e705d8c15bbe2731c32375c34d16":[6,0,198,6],
-"d4/ddf/structArenaTeamMember.html#a97906127f7eb1babe2bf2ebcda7c0a88":[6,0,198,10]
+"d4/ddf/structArenaTeamMember.html#a97906127f7eb1babe2bf2ebcda7c0a88":[6,0,198,10],
+"d4/ddf/structArenaTeamMember.html#aaa6de888c3f85ef8cbe9baa2f997aba1":[6,0,198,0]
 };

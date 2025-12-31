@@ -1,6 +1,5 @@
 var NAVTREEINDEX327 =
 {
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[6,0,1829,0,3],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac79cb67f21820ef88ac9cd671ca9e4c7":[6,0,1829,0,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html":[6,0,1957,0],
 "dd/d43/structnpc__maxx__a__million__escort_1_1npc__maxx__a__million__escortAI.html#a2106ab4d32d0f221f62eeffd93f71380":[6,0,1957,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX327 =
 "dd/d58/boss__twinemperors_8cpp.html":[7,0,0,0,1,3,4,9,7],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,4,9,7,5],
 "dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa2a6f93312cdceafcc291181de3ec2e53":[7,0,0,0,1,3,4,9,7,5,2],
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,4,9,7,5,0]
+"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfa662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,4,9,7,5,0],
+"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfabb3241566229f7036dfe0bed5482ec3f":[7,0,0,0,1,3,4,9,7,5,1]
 };

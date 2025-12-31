@@ -1,6 +1,5 @@
 var NAVTREEINDEX275 =
 {
-"db/d13/ScriptMgr_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc":[7,0,0,0,1,2,38,2,1],
 "db/d13/SmartAI_8h.html":[7,0,0,0,1,2,3,2,1],
 "db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54":[7,0,0,0,1,2,3,2,1,3],
 "db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19":[7,0,0,0,1,2,3,2,1,3,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX275 =
 "db/d1d/boss__lavanthor_8cpp.html#ab1875d815a310eaf6e5344aba515ad4d":[7,0,0,0,1,3,5,12,3,4],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,12,3,3],
 "db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4ee087423aeceb0f7c0aa5108e9b443b":[7,0,0,0,1,3,5,12,3,3,2],
-"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[7,0,0,0,1,3,5,12,3,3,1]
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a7400052aae10fcb8a8047d9a930a6d47":[7,0,0,0,1,3,5,12,3,3,1],
+"db/d1d/boss__lavanthor_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a99eaaeefb66e8a82d2e6c8906a5211cc":[7,0,0,0,1,3,5,12,3,3,3]
 };

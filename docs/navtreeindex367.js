@@ -1,6 +1,5 @@
 var NAVTREEINDEX367 =
 {
-"de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#a8b1792a8a405651d602d9ed634f52689":[6,0,1629,0,4],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#aa709ee8919a2d0317d563259c7630c99":[6,0,1629,0,5],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ab2e6d01df033985ac29e963cf2895466":[6,0,1629,0,6],
 "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html#ada44600272b19d9416d957bc52bc3be4":[6,0,1629,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX367 =
 "de/d80/classAuraScript_1_1EffectSplitHandler.html#ae0ef79af01cce82ed3cbe208d98b325a":[6,0,290,14,1],
 "de/d80/classPetitionMgr.html":[6,0,2394],
 "de/d80/classPetitionMgr.html#a00f47487f06ced804371e63427f4afdb":[6,0,2394,3],
-"de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063":[6,0,2394,21]
+"de/d80/classPetitionMgr.html#a09d887738b93816dc68df39f3294b063":[6,0,2394,21],
+"de/d80/classPetitionMgr.html#a110d7d33ff92a87b78cd132c6228bd03":[6,0,2394,1]
 };

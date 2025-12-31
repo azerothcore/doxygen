@@ -1,6 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d74/classWorldSession.html#af4650ce3859a9760e5263b01a1a3e4b9":[4,1,19,316],
 "d8/d74/classWorldSession.html#af48014753194bb451b7eec7b9b72e022":[4,1,19,324],
 "d8/d74/classWorldSession.html#af4a39b2bc51c6a9de29bdf06652b720a":[4,1,19,587],
 "d8/d74/classWorldSession.html#af518ac76dcdfced86a87c3e3c10836a7":[4,1,19,555],
@@ -96,12 +95,12 @@ var NAVTREEINDEX219 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,967,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,967,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,967,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,32,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,32,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,12,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,12,6,31,1],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,32,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,12,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1580],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1580,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1580,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX219 =
 "d8/d82/boss__nightbane_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a806abcaac7257edd7c5b3645c3599659":[7,0,0,0,1,3,2,4,6,6,3],
 "d8/d82/boss__nightbane_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ac254831385f10a22ed7b3cc98e8ac925":[7,0,0,0,1,3,2,4,6,6,1],
 "d8/d82/boss__nightbane_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ac61fbde3302dadbc3abebba0776d2fd6":[7,0,0,0,1,3,2,4,6,6,2],
-"d8/d82/boss__nightbane_8cpp.html#a66fbae3a5f411aa87f0d91f63c448ec1":[7,0,0,0,1,3,2,4,6,15]
+"d8/d82/boss__nightbane_8cpp.html#a66fbae3a5f411aa87f0d91f63c448ec1":[7,0,0,0,1,3,2,4,6,15],
+"d8/d82/boss__nightbane_8cpp.html#a78851619d1ac8df7ea1f8c977963c05e":[7,0,0,0,1,3,2,4,6,19]
 };

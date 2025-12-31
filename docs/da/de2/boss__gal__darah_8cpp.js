@@ -25,8 +25,8 @@ var boss__gal__darah_8cpp =
       [ "SAY_SLAY", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75", null ],
       [ "SAY_DEATH", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e", null ],
       [ "SAY_SUMMON_RHINO", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a3fa3e6247a7ef49c729610d122b78944", null ],
-      [ "SAY_TRANSFORM_1", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9461affdc878fcf8439f29327db5cb82", null ],
-      [ "SAY_TRANSFORM_2", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad75f2ba3df014f94ac8191634508c919", null ]
+      [ "SAY_TRANSFORM", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4cec6539806038c489243e3726b6d2bd", null ],
+      [ "SAY_IMPALE", "da/de2/boss__gal__darah_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aa1e4b715f6715ce0ffcc88693cd15ccf", null ]
     ] ],
     [ "AddSC_boss_gal_darah", "da/de2/boss__gal__darah_8cpp.html#a7325fe50708c23d0c299c19694efc771", null ]
 ];

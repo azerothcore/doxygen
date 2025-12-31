@@ -1,6 +1,5 @@
 var NAVTREEINDEX397 =
 {
-"df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aed2921c1f6bc0507bf9e6f02f224ab44":[6,0,1614,0,6],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#aedf4dcd909c1009fedfde593522454ec":[6,0,1614,0,2],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af570597c33add7ac5ebf3d01e8c9b2df":[6,0,1614,0,8],
 "df/dcb/structnpc__argent__soldier_1_1npc__argent__soldierAI.html#af70fb91477dbeaa7e6e409f3381f0770":[6,0,1614,0,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX397 =
 "df/dd9/classUnit.html#a0f838df17bb03c6cc6ecb9e961069c3b":[6,0,4236,60],
 "df/dd9/classUnit.html#a100e3f2d8087c543111ac3a6404836fe":[6,0,4236,191],
 "df/dd9/classUnit.html#a102dedba540065d396bb5b0731d7e62f":[6,0,4236,733],
-"df/dd9/classUnit.html#a110b13d199491bced26c3b6aa17ac1e1":[6,0,4236,229]
+"df/dd9/classUnit.html#a110b13d199491bced26c3b6aa17ac1e1":[6,0,4236,229],
+"df/dd9/classUnit.html#a118d77ada5afa6d951bbcc7a6cf9b498":[6,0,4236,215]
 };

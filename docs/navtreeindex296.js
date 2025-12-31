@@ -1,6 +1,5 @@
 var NAVTREEINDEX296 =
 {
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[6,0,12,6,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[5,0,32,6,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[5,0,32,6,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[6,0,12,6,27,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX296 =
 "db/dec/temple__of__ahnqiraj_8cpp.html":[7,0,0,0,1,3,4,9,11],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a01dd3a78f0b663896c149c395a890753":[7,0,0,0,1,3,4,9,11,11],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,11,10],
-"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca044f0f330d57591a8fd173c7f776063e":[7,0,0,0,1,3,4,9,11,10,24]
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca044f0f330d57591a8fd173c7f776063e":[7,0,0,0,1,3,4,9,11,10,24],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,9,11,10,25]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"d4/d9f/classTriangleBoundary.html#acbb7a9e61dd4e6188837461821843b9a":[6,0,4218,10],
 "d4/d9f/classTriangleBoundary.html#acd21a26ca6b830c4d4c6ed2b4a186a30":[6,0,4218,0],
 "d4/d9f/classTriangleBoundary.html#afa03a5b23a6e0d3d4e134fe7b1599df0":[6,0,4218,7],
 "d4/d9f/structget__packet__class.html":[6,0,1102],
@@ -22,16 +21,16 @@ var NAVTREEINDEX133 =
 "d4/da1/classBoundaryUnionBoundary.html#a8dc91861fa6641008236e5a83030e0d1":[6,0,819,2],
 "d4/da1/classBoundaryUnionBoundary.html#a96450fc020bfad7b9f1f7be64490ad46":[6,0,819,1],
 "d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[6,0,819,4],
-"d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
-"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html":[5,0,21,10],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
-"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,21,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
-"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
+"d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,21,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
-"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
+"d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,21,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,21,10,1],
+"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2584],
 "d4/da1/classspectator__commandscript.html#a15e661891f4e08c3efa0bd844c3954aa":[6,0,2584,3],
 "d4/da1/classspectator__commandscript.html#a1bf79d739a6af02405bc268c9bb50c26":[6,0,2584,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "d4/da9/classspell__item__skull__of__impeding__doom.html#a63d24d3ca4b2de1aa7f67376ded7bc59":[6,0,3326,2],
 "d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb":[6,0,3326,1],
 "d4/da9/classspell__item__skull__of__impeding__doom.html#aa6e74e89930fd3cc564c3cba86e3687e":[6,0,3326,3],
-"d4/da9/classspell__talon__king__ikiss__blink.html":[6,0,3886]
+"d4/da9/classspell__talon__king__ikiss__blink.html":[6,0,3886],
+"d4/da9/classspell__talon__king__ikiss__blink.html#a5a87a7c18a55caf5288b8ca8bbd2f361":[6,0,3886,4]
 };

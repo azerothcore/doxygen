@@ -1,6 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3":[7,0,0,0,1,3,6,4,2,0],
 "de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f":[7,0,0,0,1,3,6,4,2,2],
 "de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623ba611910e455b02d10a37996956708a414":[7,0,0,0,1,3,6,4,2,5],
 "de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623bab570a16e35f63643cd666e8e9c67dce6":[7,0,0,0,1,3,6,4,2,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX379 =
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ab3c98649ecf63a6a57b6cf13ba197244":[7,0,0,0,1,3,2,1,1,0,4,26],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ab58790add8fc773362dc58ba755d2b1d":[7,0,0,0,1,3,2,1,1,0,4,6],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abf18d5fab6280b216ea80c5d2d031e4c":[7,0,0,0,1,3,2,1,1,0,4,16],
-"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abfc1ea9e0deff82c8a2a17aaa321c334":[7,0,0,0,1,3,2,1,1,0,4,12]
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abfc1ea9e0deff82c8a2a17aaa321c334":[7,0,0,0,1,3,2,1,1,0,4,12],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ac6f023117b06956b89d5321f6a92fd43":[7,0,0,0,1,3,2,1,1,0,4,11]
 };

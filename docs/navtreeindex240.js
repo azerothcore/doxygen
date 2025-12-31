@@ -1,6 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d9/d85/classnpc__tyrion.html":[6,0,2215],
 "d9/d85/classnpc__tyrion.html#a85b1abd4910729c17099174def6507b1":[6,0,2215,0],
 "d9/d85/classnpc__tyrion.html#af8388a07e52a8c5708434a70d0d28cbb":[6,0,2215,1],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html":[6,0,2010,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX240 =
 "d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292":[7,0,0,0,1,3,2,24,3,3],
 "d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b":[7,0,0,0,1,3,2,24,3,1],
 "d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f":[7,0,0,0,1,3,2,24,3,2],
-"d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea":[7,0,0,0,1,3,2,24,3,0]
+"d9/d90/zone__eversong__woods_8cpp.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea":[7,0,0,0,1,3,2,24,3,0],
+"d9/d90/zone__eversong__woods_8cpp.html#a78299b9cdd3e783b3f231a9dda40a7b4":[7,0,0,0,1,3,2,24,4]
 };

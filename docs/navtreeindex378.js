@@ -1,6 +1,5 @@
 var NAVTREEINDEX378 =
 {
-"de/deb/structM2Header.html#ab69dd1ffe8f06e87a27681eade2ed48f":[6,0,1463,55],
 "de/deb/structM2Header.html#ab8dcc8205a16925f9e081d6104d774b5":[6,0,1463,34],
 "de/deb/structM2Header.html#aba0c84ae340e0c10b57c28f1f213b1f1":[6,0,1463,48],
 "de/deb/structM2Header.html#abc8298f0df518c86849014e16f31f366":[6,0,1463,54],
@@ -249,5 +248,6 @@ var NAVTREEINDEX378 =
 "de/dfb/namespaceAddonMgr.html#ad7d0938e7463238a86e8c811e1a58800":[5,0,2,2],
 "de/dfd/OutdoorPvPGH_8h.html":[7,0,0,0,1,3,6,4],
 "de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623b":[7,0,0,0,1,3,6,4,2],
-"de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58":[7,0,0,0,1,3,6,4,2,3]
+"de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623ba093fd7e4f043a87bac91a6d698f44b58":[7,0,0,0,1,3,6,4,2,3],
+"de/dfd/OutdoorPvPGH_8h.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3":[7,0,0,0,1,3,6,4,2,0]
 };

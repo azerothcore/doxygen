@@ -1,6 +1,5 @@
 var NAVTREEINDEX283 =
 {
-"db/d81/structnpc__costumed__orphan__matron.html#a5292ab4e45fe3a858b3a59ef4a79bb34":[6,0,1709,8],
 "db/d81/structnpc__costumed__orphan__matron.html#a722f4bfd0fb8b2665ff2b79d3208bc90":[6,0,1709,7],
 "db/d81/structnpc__costumed__orphan__matron.html#a7a7739f89604ffb5afc6bab75118340e":[6,0,1709,1],
 "db/d81/structnpc__costumed__orphan__matron.html#a92cfd09cefd26933ae322f2cc2716927":[6,0,1709,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX283 =
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a98e1490705f74627cf9e5483857f3f25":[6,0,2521,1,5],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aa785f3badb9c898d24efdf6d42fb8a7f":[6,0,2521,1,1],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aec44e315616920ba8224be8c4831f5e9":[6,0,2521,1,3],
-"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6]
+"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6],
+"db/d8b/ItemTemplate_8h.html#a02411d2e55d8ffa000a775af803d54b8":[7,0,0,0,1,2,16,4,6,26]
 };

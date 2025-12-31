@@ -1,6 +1,5 @@
 var NAVTREEINDEX363 =
 {
-"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437":[7,0,0,0,1,2,13,3,4,6],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707":[7,0,0,0,1,2,13,3,4,1],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4":[7,0,0,0,1,2,13,3,4,2],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484":[7,0,0,0,1,2,13,3,4,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX363 =
 "de/d55/StartProcess_8cpp.html#a18bbd8a6717e647e963654123259a033":[7,0,0,0,0,15,25,2],
 "de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[7,0,0,0,0,15,25,4],
 "de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[7,0,0,0,0,15,25,6],
-"de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[7,0,0,0,0,15,25,3]
+"de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[7,0,0,0,0,15,25,3],
+"de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html":[6,0,1632,0]
 };

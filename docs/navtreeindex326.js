@@ -1,6 +1,5 @@
 var NAVTREEINDEX326 =
 {
-"dd/d3b/structGameObjectTemplate.html#a2b0cb20e680729e174de765842e13cc0":[6,0,1091,173],
 "dd/d3b/structGameObjectTemplate.html#a2b485d6e3b1a0b38cf445c3a2cde1766":[6,0,1091,5],
 "dd/d3b/structGameObjectTemplate.html#a2bf4b958a8e735a48bb189f51c64c4a5":[6,0,1091,153],
 "dd/d3b/structGameObjectTemplate.html#a2ead90c8876b3b542d5b185124240aa7":[6,0,1091,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX326 =
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html":[6,0,1829,0],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#a41bd517c360538f568fb56bc9d2f5e55":[6,0,1829,0,1],
 "dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aa767fc4cb2f7eba37fedaec57c4bc175":[6,0,1829,0,4],
-"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1829,0,2]
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#aadcb217a9df96bee02287d75a23e32c2":[6,0,1829,0,2],
+"dd/d43/structnpc__gunship__mage_1_1npc__gunship__mageAI.html#ac0f233fa5a34cd6e080f44c798b4fc62":[6,0,1829,0,3]
 };

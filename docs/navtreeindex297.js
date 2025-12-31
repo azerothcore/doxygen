@@ -1,6 +1,5 @@
 var NAVTREEINDEX297 =
 {
-"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,9,11,10,25],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca17b7a6ad8d4650eaaef54fa7a803a7ea":[7,0,0,0,1,3,4,9,11,10,1],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05":[7,0,0,0,1,3,4,9,11,10,28],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eba2b675d1f06a206f14b520785c0a5":[7,0,0,0,1,3,4,9,11,10,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX297 =
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a0455bacbe8356bdadd9c391115efcd68":[6,0,670,0,8],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a04a206275d57f0e0f2af0d7e98323696":[6,0,670,0,12],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a1e9b96abd69fce032a7ca6dff275703c":[6,0,670,0,17],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a249bbd12c520e81968e93a93d3dd272c":[6,0,670,0,10]
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a249bbd12c520e81968e93a93d3dd272c":[6,0,670,0,10],
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a3026598fec3a0b4ba9a8b458aa411d33":[6,0,670,0,18]
 };

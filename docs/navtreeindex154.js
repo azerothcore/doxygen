@@ -1,6 +1,5 @@
 var NAVTREEINDEX154 =
 {
-"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065ae91867f1a05437c18a1d58ad219cf00f":[7,0,0,0,1,3,5,2,0,0,16,9],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af19d664ef227eb9bfc2779735274b4b4":[7,0,0,0,1,3,5,2,0,0,16,8],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af4b3b7a5e8b4481dcb60a25093408bb2":[7,0,0,0,1,3,5,2,0,0,16,4],
 "d5/dbc/namespaceDoodad.html":[5,0,12],
@@ -31,12 +30,12 @@ var NAVTREEINDEX154 =
 "d5/dbe/OutdoorPvPGH_8cpp.html#a04eaa29ec2e34f71e4f7addacc0405c0":[7,0,0,0,1,3,6,3,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[6,0,0,93],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,1,105],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[6,0,0,93,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,1,105,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[6,0,0,93,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,1,105,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,1,105,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[6,0,0,93,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,1,105,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,93,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,1,105,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,1,105,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX154 =
 "d5/dc7/structSpellEntry.html#a8fe8303cf4d56d3c892c5b9c6b325f58":[6,0,4112,26],
 "d5/dc7/structSpellEntry.html#a91ae115a561280bfe2c6be98b91e5cd1":[6,0,4112,89],
 "d5/dc7/structSpellEntry.html#a984081fa1da8940bf04d4480550aa1e6":[6,0,4112,61],
-"d5/dc7/structSpellEntry.html#a9b37b50c55d7a887d61805e6197bfa21":[6,0,4112,22]
+"d5/dc7/structSpellEntry.html#a9b37b50c55d7a887d61805e6197bfa21":[6,0,4112,22],
+"d5/dc7/structSpellEntry.html#a9cc85b387977b689b113e281831ee173":[6,0,4112,52]
 };

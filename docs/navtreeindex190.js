@@ -1,6 +1,5 @@
 var NAVTREEINDEX190 =
 {
-"d7/d46/classAuraEffect.html#aff76927ae90362081a6ca6c8c77004f6":[6,0,287,133],
 "d7/d46/classAuraEffect.html#aff934af743b5031d558ffc9a4b55d6de":[6,0,287,220],
 "d7/d46/classAuraEffect.html#affc17fba71418fb11e2cffbb0b1710b6":[6,0,287,141],
 "d7/d46/structboss__xt002_1_1boss__xt002AI.html":[6,0,788,0],
@@ -136,10 +135,10 @@ var NAVTREEINDEX190 =
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1054,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#a6de1eebdd222f71e874a46e5daa354a4":[6,0,1054,0,0],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html#aa5f8bc350f2c5aeac9d5e135c34eb662":[6,0,1054,0,1],
@@ -169,16 +168,16 @@ var NAVTREEINDEX190 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a288f8917d73be30234e465778b1f6544":[6,0,3932,1],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#a69f9cdbfc33ec39f629f08f20484b29e":[6,0,3932,2],
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[6,0,3932,0],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[6,0,12,7,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,32,7,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,32,7,5,5],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[6,0,12,7,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[6,0,12,7,5,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,32,7,5,1],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,32,7,5,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[6,0,12,7,5,1],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,32,7,5,1],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[6,0,12,7,5,4],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a3d057f2bdafb46887a97dbba8bb5aa04":[5,0,32,7,5,4],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,32,7,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[6,0,12,7,5,0],
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a9a15be940d8eb216614dca5055be094a":[5,0,32,7,5,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[6,0,12,7,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#aae1dba7644a82933a801f581551479bc":[5,0,32,7,5,6],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#abb9a1c7ac98c1cd848e4da8faf4e3925":[5,0,32,7,5,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX190 =
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html":[6,0,1911,0],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a0e1e6beaa98090d8bf8a17d28a9ee733":[6,0,1911,0,4],
 "d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a0f7a4566ca93a174c92fe10e904af480":[6,0,1911,0,0],
-"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a1df028085cf1cb9e8152cdb70a3d28b1":[6,0,1911,0,5]
+"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a1df028085cf1cb9e8152cdb70a3d28b1":[6,0,1911,0,5],
+"d7/d56/structnpc__kerlonian_1_1npc__kerlonianAI.html#a20fac33bf3322ad0caf72ea883680b8d":[6,0,1911,0,3]
 };

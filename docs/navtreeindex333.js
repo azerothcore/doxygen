@@ -1,6 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/d99/classnpc__captain__grondel.html":[6,0,1680],
 "dd/d99/classnpc__captain__grondel.html#a2a7725e81294e80701b7742d2605ec00":[6,0,1680,2],
 "dd/d99/classnpc__captain__grondel.html#a54a53f8e3cde87405219c815a56d523c":[6,0,1680,1],
 "dd/d99/classspell__quest__test__flight__charging.html":[6,0,3736],
@@ -249,5 +248,6 @@ var NAVTREEINDEX333 =
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,1,0,5,0],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a830fe4e2ec5af7a92b2ff25ad20ff5d7":[7,0,0,0,1,3,5,8,1,0,5,3],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3abffc3fc1240455feed5cef007b9fb76b":[7,0,0,0,1,3,5,8,1,0,5,2],
-"dd/dab/boss__anomalus_8cpp.html#a591a2500649862707a9cb946091ee37c":[7,0,0,0,1,3,5,8,1,0,6]
+"dd/dab/boss__anomalus_8cpp.html#a591a2500649862707a9cb946091ee37c":[7,0,0,0,1,3,5,8,1,0,6],
+"dd/dab/boss__anomalus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,1,0,4]
 };

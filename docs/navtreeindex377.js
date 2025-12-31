@@ -1,6 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"de/de0/structSpellClickInfo.html#ac175634ed2eab2911c3749fa208a073a":[6,0,4104,0],
 "de/de0/structSpellClickInfo.html#adcf285572403481cb418bddebc5f4bfa":[6,0,4104,3],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html":[6,0,786,0],
 "de/de0/structboss__wushoolay_1_1boss__wushoolayAI.html#a2ea62154c0932e5cd34bd4b858829ffe":[6,0,786,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX377 =
 "de/deb/structM2Header.html#aa66ba2bfafb3bf7692a957ee4ad8efd9":[6,0,1463,9],
 "de/deb/structM2Header.html#aa96ff3b4cca2d9617cb59ca7625927dc":[6,0,1463,11],
 "de/deb/structM2Header.html#aaf31096accfb7e3fa2eddbf0d0cafa81":[6,0,1463,16],
-"de/deb/structM2Header.html#aaf4b42bfdd9f1d21a8b36e8cdb5039d5":[6,0,1463,3]
+"de/deb/structM2Header.html#aaf4b42bfdd9f1d21a8b36e8cdb5039d5":[6,0,1463,3],
+"de/deb/structM2Header.html#ab69dd1ffe8f06e87a27681eade2ed48f":[6,0,1463,55]
 };

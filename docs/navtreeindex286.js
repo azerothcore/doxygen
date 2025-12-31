@@ -1,6 +1,5 @@
 var NAVTREEINDEX286 =
 {
-"db/d8d/structFireworkShowScheduleEntry.html#a5e8b95d6ecf69db8736941b67e2478d8":[6,0,1047,1],
 "db/d8d/structSoundEntriesEntry.html":[6,0,2581],
 "db/d8d/structSoundEntriesEntry.html#aebb809589854147a8a521263968ed6d9":[6,0,2581,0],
 "db/d8e/InstanceScript_8h.html":[7,0,0,0,1,2,23,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX286 =
 "db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cafd3521571de9e08368645054056733f6":[7,0,0,0,1,3,2,16,11,4,8],
 "db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,2,16,11,2],
 "db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,2,16,11,2,0],
-"db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,2,16,11,2,1]
+"db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,2,16,11,2,1],
+"db/d98/boss__venoxis_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,2,16,11,1]
 };

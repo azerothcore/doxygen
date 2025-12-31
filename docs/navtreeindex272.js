@@ -1,6 +1,5 @@
 var NAVTREEINDEX272 =
 {
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22adf55c70ec136b17de33654eb38d0a76f":[7,0,0,0,1,3,5,2,1,7,2,14],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22af41871a3a7907d09e4117a8cae7e34c1":[7,0,0,0,1,3,5,2,1,7,2,4],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22af4189e448069a4be533495ffb57af791":[7,0,0,0,1,3,5,2,1,7,2,5],
 "da/de9/classnpc__azure__binder.html":[6,0,1627],
@@ -249,5 +248,6 @@ var NAVTREEINDEX272 =
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea435627e6ceddf5214798b0ffee9379f3":[7,0,0,0,1,0,0,0,1,0,3],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea45adfe6f21bb136d789120fb4ade5d65":[7,0,0,0,1,0,0,0,1,0,25],
 "da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea4614f07045c585583364e857c3421114":[7,0,0,0,1,0,0,0,1,0,2],
-"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630":[7,0,0,0,1,0,0,0,1,0,1]
+"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea550e2d0697129df245f04a9c28454630":[7,0,0,0,1,0,0,0,1,0,1],
+"da/df4/AuthCodes_8h.html#a87ba9bd5edfd749f4729620dbadd5fcea5e8d5fb949ecfd0cafdc81cee3b7f81d":[7,0,0,0,1,0,0,0,1,0,13]
 };

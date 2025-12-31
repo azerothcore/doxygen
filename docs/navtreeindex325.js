@@ -1,6 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dd/d2d/classMMAP_1_1TileBuilder.html#ae386f742fed7d2b66bcf3750abf91daf":[6,0,6,12,6],
 "dd/d2d/classspell__item__gnomish__universal__remote.html":[6,0,3270],
 "dd/d2d/classspell__item__gnomish__universal__remote.html#a522730e5ba844728c0b3d6f423cd123a":[6,0,3270,2],
 "dd/d2d/classspell__item__gnomish__universal__remote.html#a80b89fbd2506191b897dcf367ff11500":[6,0,3270,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX325 =
 "dd/d3b/structGameObjectTemplate.html#a2009200fe2b9b921ab6ca7e253069779":[6,0,1091,27],
 "dd/d3b/structGameObjectTemplate.html#a259bf0cf9e7817c1988cf53f28170440":[6,0,1091,127],
 "dd/d3b/structGameObjectTemplate.html#a2a51882cc74f07131c149d93f10dbee2":[6,0,1091,165],
-"dd/d3b/structGameObjectTemplate.html#a2a6f00cb9178f48c4e79e0640eaad81b":[6,0,1091,83]
+"dd/d3b/structGameObjectTemplate.html#a2a6f00cb9178f48c4e79e0640eaad81b":[6,0,1091,83],
+"dd/d3b/structGameObjectTemplate.html#a2b0cb20e680729e174de765842e13cc0":[6,0,1091,173]
 };

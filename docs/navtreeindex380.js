@@ -1,6 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ac6f023117b06956b89d5321f6a92fd43":[7,0,0,0,1,3,2,1,1,0,4,11],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2acd4cc17928b16bacf1a297d083a19410":[7,0,0,0,1,3,2,1,1,0,4,9],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ad275e687a5d319f598f188bdb911e078":[7,0,0,0,1,3,2,1,1,0,4,29],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ae68bca430acc6be49bc598751269aea2":[7,0,0,0,1,3,2,1,1,0,4,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX380 =
 "df/d15/Totem_8h.html":[7,0,0,0,1,2,16,8,1],
 "df/d15/Totem_8h.html#a2bd46e1df17fdee45cd35896306092fb":[7,0,0,0,1,2,16,8,1,2],
 "df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9":[7,0,0,0,1,2,16,8,1,3],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2]
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2],
+"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,2,16,8,1,3,0]
 };

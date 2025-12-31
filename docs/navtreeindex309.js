@@ -1,6 +1,5 @@
 var NAVTREEINDEX309 =
 {
-"dc/d56/structStoredLootItem.html#a41a3c4caf90fc8c42d2e0e5192201d19":[6,0,4157,4],
 "dc/d56/structStoredLootItem.html#a801a125a5035167f3f511560a29808c4":[6,0,4157,6],
 "dc/d56/structStoredLootItem.html#a895cc61dd542959c3726dbc54abf7434":[6,0,4157,5],
 "dc/d56/structStoredLootItem.html#a9be27c3407923df6b15bef993dd58830":[6,0,4157,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX309 =
 "dc/d66/classWMOGroup.html#a387406120b3c91dac872a4ab66e7bfc1":[6,0,4315,24],
 "dc/d66/classWMOGroup.html#a3dd16ad2acc44ffac305ca53e58f088f":[6,0,4315,10],
 "dc/d66/classWMOGroup.html#a3e77e649fb0113c33546a9dc222d799a":[6,0,4315,13],
-"dc/d66/classWMOGroup.html#a50c861842e55b23eed753a05d0395b27":[6,0,4315,8]
+"dc/d66/classWMOGroup.html#a50c861842e55b23eed753a05d0395b27":[6,0,4315,8],
+"dc/d66/classWMOGroup.html#a55e947f4f48cd4e6bdc3b1fe1f29c48e":[6,0,4315,18]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX287 =
 {
-"db/d98/boss__venoxis_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,2,16,11,1],
 "db/d98/boss__venoxis_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca64dc9311e239aa2ce7149dc94ff05101":[7,0,0,0,1,3,2,16,11,1,1],
 "db/d98/boss__venoxis_8cpp.html#a6986ec7b2d3274669934af9795f26d5caae68e55f680ae41a7b7f050bb06a5702":[7,0,0,0,1,3,2,16,11,1,0],
 "db/d98/boss__venoxis_8cpp.html#a6986ec7b2d3274669934af9795f26d5cae1346373f5acb3b9f06b046f0f413e07":[7,0,0,0,1,3,2,16,11,1,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX287 =
 "db/da2/boss__astromancer_8cpp.html#a1b683ec7a35f03622bada41f50aac881":[7,0,0,0,1,3,7,5,2,1,3],
 "db/da2/boss__astromancer_8cpp.html#a2fdebfc510f4e177914008e6c44192a4":[7,0,0,0,1,3,7,5,2,1,9],
 "db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,5,2,1,13],
-"db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3316b46c78b997c2926f50123d71c7d9":[7,0,0,0,1,3,7,5,2,1,13,0]
+"db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3316b46c78b997c2926f50123d71c7d9":[7,0,0,0,1,3,7,5,2,1,13,0],
+"db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a348c6346c63c83b649b3e60676c9ccc9":[7,0,0,0,1,3,7,5,2,1,13,1]
 };

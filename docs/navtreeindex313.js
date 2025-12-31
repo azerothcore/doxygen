@@ -1,6 +1,5 @@
 var NAVTREEINDEX313 =
 {
-"dc/d97/structTaxiPathNodeEntry.html#a08778d3ef9a9a87fd731b54d5501daab":[6,0,4178,8],
 "dc/d97/structTaxiPathNodeEntry.html#a1ffe17f529066091b18451a1121ce6ac":[6,0,4178,1],
 "dc/d97/structTaxiPathNodeEntry.html#a6257ae486eff937cf12be64f0e850ca6":[6,0,4178,0],
 "dc/d97/structTaxiPathNodeEntry.html#a670a033aaf0ff48676373baf9235d670":[6,0,4178,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX313 =
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a33260e404b79422a7861543d35a092b5":[7,0,0,0,1,3,4,9,8,7,0],
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a383be1ad0cf8f03dde4b61254614ad7c":[7,0,0,0,1,3,4,9,8,7,5],
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7ac73c3f5a048d6f5aa269225f23dbdac7":[7,0,0,0,1,3,4,9,8,7,1],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7adda0bb4ff8513b0ccd577572ef30e459":[7,0,0,0,1,3,4,9,8,7,4]
+"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7adda0bb4ff8513b0ccd577572ef30e459":[7,0,0,0,1,3,4,9,8,7,4],
+"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7ae612984ce6626ff2242a1cbeb822a70e":[7,0,0,0,1,3,4,9,8,7,2]
 };

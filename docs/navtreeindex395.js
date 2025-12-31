@@ -1,6 +1,5 @@
 var NAVTREEINDEX395 =
 {
-"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[6,0,2977,2],
 "df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[6,0,2977,1],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2058,0],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[6,0,2058,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX395 =
 "df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3],
 "df/dba/instance__ahnkahet_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,0,6,5],
 "df/dba/instance__ahnkahet_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,0,0,6,6],
-"df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,0,0,6,4]
+"df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,0,0,6,4],
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html":[6,0,1913,0]
 };

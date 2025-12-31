@@ -1,6 +1,5 @@
 var NAVTREEINDEX328 =
 {
-"dd/d58/boss__twinemperors_8cpp.html#a250372292659bed7ae290d8621f88ccfabb3241566229f7036dfe0bed5482ec3f":[7,0,0,0,1,3,4,9,7,5,1],
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,7,6],
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a193f6b29e1a4f07a90b5839e7cd9bd05":[7,0,0,0,1,3,4,9,7,6,2],
 "dd/d58/boss__twinemperors_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a485374e988cafa135e5776f1f3aa8638":[7,0,0,0,1,3,4,9,7,6,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX328 =
 "dd/d64/structboss__paletress_1_1boss__paletressAI.html#af9aa74ec5a3c88475734f864ec307563":[6,0,655,0,5],
 "dd/d65/structnpc__brewfest__keg__reciver.html":[6,0,1667],
 "dd/d65/structnpc__brewfest__keg__reciver.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24":[6,0,1667,2],
-"dd/d65/structnpc__brewfest__keg__reciver.html#ae719a770598c6347d4ee6b9e77d30eae":[6,0,1667,1]
+"dd/d65/structnpc__brewfest__keg__reciver.html#ae719a770598c6347d4ee6b9e77d30eae":[6,0,1667,1],
+"dd/d65/structnpc__brewfest__keg__reciver.html#af12e7608f3f715650e6c265ac18920e4":[6,0,1667,0]
 };

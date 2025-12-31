@@ -1,6 +1,5 @@
 var NAVTREEINDEX305 =
 {
-"dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7a511bf5a0d2736e59816a8fdc5975dd9a":[7,0,0,0,1,3,5,9,2,6,37,4],
 "dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7a57aab77fa2f90d60eafda78a952c924f":[7,0,0,0,1,3,5,9,2,6,37,25],
 "dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7a70bb812749930ecb44f676a21865922b":[7,0,0,0,1,3,5,9,2,6,37,19],
 "dc/d30/boss__hodir_8cpp.html#a0a6ae4eb8bbfccba730ab3001c4690d7a721047f417645d648462fcfba79403ea":[7,0,0,0,1,3,5,9,2,6,37,11],
@@ -249,5 +248,6 @@ var NAVTREEINDEX305 =
 "dc/d33/structTaxiNodesEntry.html#ab59ab7e8b302ac8858bfd67bc10d803f":[6,0,4176,2],
 "dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[6,0,4176,3],
 "dc/d34/boss__rage__winterchill_8cpp.html":[7,0,0,0,1,3,4,1,0,4],
-"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,0,4,1]
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,0,4,1],
+"dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4fedbd4a2bb6bf302c29074944c40a14":[7,0,0,0,1,3,4,1,0,4,1,0]
 };

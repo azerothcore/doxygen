@@ -1,6 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"d5/d13/structboss__marwyn_1_1boss__marwynAI.html#a2a1d7531025f136e368fc7d2b4c0d163":[6,0,617,0,10],
 "d5/d13/structboss__marwyn_1_1boss__marwynAI.html#a43b40959a22a1767c1c717f5bf7200ad":[6,0,617,0,5],
 "d5/d13/structboss__marwyn_1_1boss__marwynAI.html#a524e6c4145851d67edfdc0d9cb5b2e7c":[6,0,617,0,9],
 "d5/d13/structboss__marwyn_1_1boss__marwynAI.html#a7433e7ed2007ccde768e1e15640ac99d":[6,0,617,0,6],
@@ -221,8 +220,8 @@ var NAVTREEINDEX142 =
 "d5/d26/structnpc__obsidian__eradicator.html#abd83775d1eab5ab2a3aadd7fd925c3ae":[6,0,1996,4],
 "d5/d27/classAcore_1_1Runnable.html":[6,0,0,104],
 "d5/d27/classAcore_1_1Runnable.html":[5,0,1,116],
-"d5/d27/classAcore_1_1Runnable.html#a062323e141fa33ae094adbef16caf3d6":[5,0,1,116,2],
 "d5/d27/classAcore_1_1Runnable.html#a062323e141fa33ae094adbef16caf3d6":[6,0,0,104,2],
+"d5/d27/classAcore_1_1Runnable.html#a062323e141fa33ae094adbef16caf3d6":[5,0,1,116,2],
 "d5/d27/classAcore_1_1Runnable.html#a69bf63c7f684de6e278de0468ed8fa06":[5,0,1,116,1],
 "d5/d27/classAcore_1_1Runnable.html#a69bf63c7f684de6e278de0468ed8fa06":[6,0,0,104,1],
 "d5/d27/classAcore_1_1Runnable.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9":[5,0,1,116,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX142 =
 "d5/d28/classWorldConfig.html":[6,0,4321],
 "d5/d28/classWorldConfig.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d":[6,0,4321,1],
 "d5/d28/classWorldConfig.html#abe3f855f1902d7f3974b741cfc0a3663":[6,0,4321,0],
-"d5/d28/classboss__blight__worm.html":[6,0,403]
+"d5/d28/classboss__blight__worm.html":[6,0,403],
+"d5/d28/classboss__blight__worm.html#a1cb9043482e9b3c3eff3fd75057a2fb2":[6,0,403,2]
 };

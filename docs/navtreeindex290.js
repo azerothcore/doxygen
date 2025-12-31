@@ -1,6 +1,5 @@
 var NAVTREEINDEX290 =
 {
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a4e620ca883f85575264671f85dcecd48":[7,0,0,0,1,3,10,14,62,21],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a530f3f4fb07f73f75af09cbb2a8913a4":[7,0,0,0,1,3,10,14,62,14],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a587646ceffc74eac3692620c410f65b2":[7,0,0,0,1,3,10,14,62,17],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a5a8aadc9fa1e8c33b0241709f587d04e":[7,0,0,0,1,3,10,14,62,12],
@@ -249,5 +248,6 @@ var NAVTREEINDEX290 =
 "db/dbe/classspell__dk__rune__of__the__fallen__crusader.html":[6,0,2790],
 "db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#a6c49fad4dc5d080b9a5550f8f30cae4d":[6,0,2790,0],
 "db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#a82395d00066e90abc58103b18a5ef4dc":[6,0,2790,2],
-"db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514":[6,0,2790,1]
+"db/dbe/classspell__dk__rune__of__the__fallen__crusader.html#ab6a781160532d7cbb3bb3304eb412514":[6,0,2790,1],
+"db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html":[6,0,1342,0]
 };

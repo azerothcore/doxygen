@@ -1,6 +1,5 @@
 var NAVTREEINDEX127 =
 {
-"d4/d69/structItemTemplate.html#a0cc7568d921d0ad9efb7cfe4fcccdf72":[6,0,1397,42],
 "d4/d69/structItemTemplate.html#a0d331f6b24699e18a74f995951353b91":[6,0,1397,8],
 "d4/d69/structItemTemplate.html#a102568cd394a97d14d13717f97cf8281":[6,0,1397,39],
 "d4/d69/structItemTemplate.html#a14f6e1bf7528a599803028066c956fba":[6,0,1397,34],
@@ -249,5 +248,6 @@ var NAVTREEINDEX127 =
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a1b32cb53e97f68d033481222982b9fe6":[7,0,0,0,1,3,5,2,1,0,16,21],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a24b49f700d2923412938f4e6d148ce82":[7,0,0,0,1,3,5,2,1,0,16,25],
 "d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a2562b025f710f01506300d90550a5eda":[7,0,0,0,1,3,5,2,1,0,16,7],
-"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a336f40798ac55a5c014a786f7d34f10f":[7,0,0,0,1,3,5,2,1,0,16,18]
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a336f40798ac55a5c014a786f7d34f10f":[7,0,0,0,1,3,5,2,1,0,16,18],
+"d4/d78/boss__anubarak__trial_8cpp.html#a23c29bdbaa746dce4769b8fce9a7a0c0a35b4bf2fdacd2ed7ad6bd7f098ea58b3":[7,0,0,0,1,3,5,2,1,0,16,1]
 };

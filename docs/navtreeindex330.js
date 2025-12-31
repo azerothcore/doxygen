@@ -1,6 +1,5 @@
 var NAVTREEINDEX330 =
 {
-"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a967628850b85038d917be69dc71e6a0e":[5,0,32,6,4,0],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a967628850b85038d917be69dc71e6a0e":[6,0,12,6,4,0],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#aa1d4274b057cc4ecec6b078ac4925a94":[5,0,32,6,4,1],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#aa1d4274b057cc4ecec6b078ac4925a94":[6,0,12,6,4,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX330 =
 "dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a830fda66756dc3f34a530939116e7556":[6,0,2298,0,3],
 "dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#a959990310303ff2102f1c03852b4ab8e":[6,0,2298,0,2],
 "dd/d80/structnpc__xt002__pummeller_1_1npc__xt002__pummellerAI.html#ae5e450601861f83b20419405bb92ef6d":[6,0,2298,0,4],
-"dd/d81/structPowerUsersSelector.html":[6,0,2441]
+"dd/d81/structPowerUsersSelector.html":[6,0,2441],
+"dd/d81/structPowerUsersSelector.html#a0b682b6d926ced8eecff642a4bb51756":[6,0,2441,6]
 };

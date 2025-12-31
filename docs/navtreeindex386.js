@@ -1,6 +1,5 @@
 var NAVTREEINDEX386 =
 {
-"df/d3e/classlfg_1_1LfgGroupData.html#a77bb4f006c53bac1d457dd21dc8c54d9":[6,0,5,2,19],
 "df/d3e/classlfg_1_1LfgGroupData.html#a77bb4f006c53bac1d457dd21dc8c54d9":[5,0,18,2,19],
 "df/d3e/classlfg_1_1LfgGroupData.html#a7d855e64a9aaf284a67c32b27a135d15":[6,0,5,2,15],
 "df/d3e/classlfg_1_1LfgGroupData.html#a7d855e64a9aaf284a67c32b27a135d15":[5,0,18,2,15],
@@ -249,5 +248,6 @@ var NAVTREEINDEX386 =
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b":[7,0,0,0,1,3,5,8,1,2,3,5],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a222063d0c488b6404362a4e3458de3d4":[7,0,0,0,1,3,5,8,1,2,3,1],
 "df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d9aae8662630215101041492dc21d5d":[7,0,0,0,1,3,5,8,1,2,3,4],
-"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,8,1,2,3,3]
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad62a5333d6d279543d0f7550796a44d8":[7,0,0,0,1,3,5,8,1,2,3,3],
+"df/d50/boss__keristrasza_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad9b66f9414227bd5737edc96726bde48":[7,0,0,0,1,3,5,8,1,2,3,0]
 };

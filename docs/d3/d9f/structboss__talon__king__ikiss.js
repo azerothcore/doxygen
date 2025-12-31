@@ -1,7 +1,6 @@
 var structboss__talon__king__ikiss =
 [
     [ "boss_talon_king_ikiss", "d3/d9f/structboss__talon__king__ikiss.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "CanAIAttack", "d3/d9f/structboss__talon__king__ikiss.html#ab4858d845f149b6333941d8f8ab59afb", null ],
     [ "JustDied", "d3/d9f/structboss__talon__king__ikiss.html#ada1d993842d04453d6afad91e186a3fe", null ],
     [ "JustEngagedWith", "d3/d9f/structboss__talon__king__ikiss.html#a325312ce6695435fcca701720434c64f", null ],
     [ "KilledUnit", "d3/d9f/structboss__talon__king__ikiss.html#ae8d94f89a67f3a321c88327c076ddd77", null ],

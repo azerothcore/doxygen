@@ -1,6 +1,5 @@
 var NAVTREEINDEX311 =
 {
-"dc/d79/classSocialMgr.html#a3cff8262ce10d2e8c8c38dc834230545":[6,0,2577,1],
 "dc/d79/classSocialMgr.html#a55b35ea17ebfea4ff31710186b87865f":[6,0,2577,3],
 "dc/d79/classSocialMgr.html#a7d0c4638b6fde1bf614d90492160ee55":[6,0,2577,4],
 "dc/d79/classSocialMgr.html#aab17f5c27494cfdf2b1c5d5038f446a0":[6,0,2577,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX311 =
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aad8f28b7e45a7897cb758dff90aa46d8":[6,0,432,0,0],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#abd9bef8fd2bd10a520d9569351bd925b":[6,0,432,0,6],
 "dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#adb9ad99bc784a76da238ed2ee694d4f2":[6,0,432,0,5],
-"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aec2878e51a12749914e3a30c0ddea900":[6,0,432,0,2]
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#aec2878e51a12749914e3a30c0ddea900":[6,0,432,0,2],
+"dc/d89/structboss__drakkari__elemental_1_1boss__drakkari__elementalAI.html#afc16e2da1f40ec0c0257e3bedc04c8a7":[6,0,432,0,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX193 =
 {
-"d7/d7d/classnpc__pet__trainer.html#a4ecf9ac0abf43a00dc6bff2d2283eb37":[6,0,2038,2],
 "d7/d7d/classnpc__pet__trainer.html#ac2279bce52e911b1c339da5e68aa2501":[6,0,2038,1],
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html":[6,0,744,0],
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a098974cdd91b61aa4b003d6f16a339d2":[6,0,744,0,3],
@@ -18,14 +17,14 @@ var NAVTREEINDEX193 =
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#aab87f0308fc4546718bcb5209f69764d":[6,0,744,0,12],
 "d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,39],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,39,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,32,3,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,32,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,12,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,12,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,32,3,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,32,3,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,32,3,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,12,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3672],
@@ -249,5 +248,6 @@ var NAVTREEINDEX193 =
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a2bc47c8c26124b40bfcf34e4fc21d733":[7,0,0,0,1,3,2,20,2,9],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f":[7,0,0,0,1,3,2,20,2,4],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde":[7,0,0,0,1,3,2,20,2,8],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e":[7,0,0,0,1,3,2,20,2,0]
+"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e":[7,0,0,0,1,3,2,20,2,0],
+"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e":[7,0,0,0,1,3,2,20,2,7]
 };

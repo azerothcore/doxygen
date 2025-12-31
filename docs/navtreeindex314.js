@@ -1,6 +1,5 @@
 var NAVTREEINDEX314 =
 {
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7ae612984ce6626ff2242a1cbeb822a70e":[7,0,0,0,1,3,4,9,8,7,2],
 "dc/da8/boss__viscidus_8cpp.html#ad2ab65b111c7b357872100fd298a7e38":[7,0,0,0,1,3,4,9,8,15],
 "dc/da8/boss__viscidus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,9,8,6],
 "dc/da8/boss__viscidus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a167a4ed396e89e904376d2ec5174ab27":[7,0,0,0,1,3,4,9,8,6,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX314 =
 "dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ead5b3e1b17cb1a42c914158702338f49b":[7,0,0,0,1,3,4,1,0,1,8,0],
 "dc/db3/boss__archimonde_8cpp.html#ae72869d214b7d3a071fb6094ed4948d5":[7,0,0,0,1,3,4,1,0,1,13],
 "dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,1,0,1,6],
-"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,4,1,0,1,6,0]
+"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,4,1,0,1,6,0],
+"dc/db3/boss__mekgineer__steamrigger_8cpp.html":[7,0,0,0,1,3,7,2,2,1]
 };

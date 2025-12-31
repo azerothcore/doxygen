@@ -1,6 +1,5 @@
 var NAVTREEINDEX216 =
 {
-"d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#ab704b138670279f6d731a6bb58ac6d10":[6,0,1912,0,1],
 "d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#aca1009b03ee24200f5dbad788ec5c5c8":[6,0,1912,0,4],
 "d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#ae4731b5dd7b92d6989b0960d88e1dc35":[6,0,1912,0,3],
 "d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#ae99836a836234ad441d6ac97c60d7fc6":[6,0,1912,0,2],
@@ -8,8 +7,8 @@ var NAVTREEINDEX216 =
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2592,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2592,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2592,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,32,13,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,12,13,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,32,13,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,32,13,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,12,13,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,546],
@@ -249,5 +248,6 @@ var NAVTREEINDEX216 =
 "d8/d74/classWorldSession.html#a2932892fe992dd518fd5929aaa7a46b7":[4,1,19,562],
 "d8/d74/classWorldSession.html#a29a70a4e237e15a2a76ffc5a17d2831c":[4,1,19,109],
 "d8/d74/classWorldSession.html#a29ae136a29749f46fd715f5362e40325":[4,1,19,184],
-"d8/d74/classWorldSession.html#a2a51e88cab8c007756b59edf45776fac":[4,1,19,148]
+"d8/d74/classWorldSession.html#a2a51e88cab8c007756b59edf45776fac":[4,1,19,148],
+"d8/d74/classWorldSession.html#a2a7c514b4cb8e43b968389256006abfc":[4,1,19,132]
 };

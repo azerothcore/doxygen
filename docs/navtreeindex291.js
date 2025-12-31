@@ -1,6 +1,5 @@
 var NAVTREEINDEX291 =
 {
-"db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html":[6,0,1342,0],
 "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a25f4e12aad6325e87b31770c1243d746":[6,0,1342,0,7],
 "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a36f22cb12a5d59b377627f7cacbffecb":[6,0,1342,0,4],
 "db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#a454f677dddce956534d6f5a253ed587b":[6,0,1342,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX291 =
 "db/dca/structboss__felmyst.html#af29021c428a9c7ffcea517d91b1d4b39":[6,0,468,1],
 "db/dca/structboss__rajaxx.html":[6,0,671],
 "db/dca/structboss__rajaxx.html#a8dad79921559359b6aa7149641925fe5":[6,0,671,2],
-"db/dca/structboss__rajaxx.html#a9231a20150ed6eae0cbc79c8386f7371":[6,0,671,1]
+"db/dca/structboss__rajaxx.html#a9231a20150ed6eae0cbc79c8386f7371":[6,0,671,1],
+"db/dca/structboss__rajaxx.html#a9b949bea61ceb45ec1b3e452f218c227":[6,0,671,3]
 };

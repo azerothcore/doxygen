@@ -1,6 +1,5 @@
 var NAVTREEINDEX288 =
 {
-"db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a348c6346c63c83b649b3e60676c9ccc9":[7,0,0,0,1,3,7,5,2,1,13,1],
 "db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a672f794aca7cd254ec0a9fd40f0d8a18":[7,0,0,0,1,3,7,5,2,1,13,2],
 "db/da2/boss__astromancer_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a888b28fa0dfc32895b5eec1ec578fcd8":[7,0,0,0,1,3,7,5,2,1,13,3],
 "db/da2/boss__astromancer_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,5,2,1,15],
@@ -249,5 +248,6 @@ var NAVTREEINDEX288 =
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[5,0,1,8,0,17,2],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ace4fbb9c35b5b8cf92dd3328636a4308":[6,0,0,5,0,17,2],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[5,0,1,8,0,17,13],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[6,0,0,5,0,17,13]
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[6,0,0,5,0,17,13],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[5,0,1,8,0,17,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dd/d65/structnpc__brewfest__keg__reciver.html#af12e7608f3f715650e6c265ac18920e4":[6,0,1667,0],
 "dd/d66/CalendarPackets_8cpp.html":[7,0,0,0,1,2,39,0,3],
 "dd/d66/classGenericGameObjectScript.html":[6,0,1099],
 "dd/d66/classGenericGameObjectScript.html#a7d1d46c8d325619637aef9b9dc5419f7":[6,0,1099,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX329 =
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html":[5,0,32,6,4],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html":[6,0,12,6,4],
 "dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a41258345b9f83dcf8e374145f517251e":[6,0,12,6,4,3],
-"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a41258345b9f83dcf8e374145f517251e":[5,0,32,6,4,3]
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a41258345b9f83dcf8e374145f517251e":[5,0,32,6,4,3],
+"dd/d7b/classWorldPackets_1_1Guild_1_1GuildBankDepositMoney.html#a967628850b85038d917be69dc71e6a0e":[5,0,32,6,4,0]
 };
