@@ -1,5 +1,7 @@
 var NAVTREEINDEX189 =
 {
+"d7/d44/BattlegroundDS_8cpp.html":[7,0,0,0,1,2,8,1,6],
+"d7/d45/classspell__entropius__void__zone__visual__aura.html":[6,0,2869],
 "d7/d45/classspell__entropius__void__zone__visual__aura.html#a393a46618a4e1928b8149e04b4823726":[6,0,2869,4],
 "d7/d45/classspell__entropius__void__zone__visual__aura.html#a58e6bae0c4c203c704cfa6cfdd6d560f":[6,0,2869,2],
 "d7/d45/classspell__entropius__void__zone__visual__aura.html#a717e3428afd59fa3a5e9916887d88273":[6,0,2869,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d46/classAuraEffect.html#afa9f84f40fa41ddee3d6fb22c8bd3ac4":[6,0,287,132],
 "d7/d46/classAuraEffect.html#afbc68f3158a932f36315f4348dba5914":[6,0,287,67],
 "d7/d46/classAuraEffect.html#afc2f180bb606c2d4f11ae239d3293dbf":[6,0,287,203],
-"d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee":[6,0,287,13],
-"d7/d46/classAuraEffect.html#afebebaa8f9f33d8354d624561c34b461":[6,0,287,214],
-"d7/d46/classAuraEffect.html#aff76927ae90362081a6ca6c8c77004f6":[6,0,287,133]
+"d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee":[6,0,287,13]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX195 =
 {
+"d7/d96/structnpc__frozen__core.html#af00f67392d96aa1ab8ccdab5b168fc04":[6,0,1800,0],
+"d7/d96/structnpc__frozen__core.html#af09168b57b79d14d9a7ef6861e85cc1a":[6,0,1800,4],
 "d7/d97/MapGridManager_8h.html":[7,0,0,0,1,2,19,14],
 "d7/d98/structboss__captain__skarloc.html":[6,0,412],
 "d7/d98/structboss__captain__skarloc.html#a196477160ab6d07dc644ddadf756a1e0":[6,0,412,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#ade40ddc2750f52942911de204b74bbea":[6,0,824,0,9],
 "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#af32c7ba733d00a6f7564d6ed461bd4a5":[6,0,824,0,28],
 "d7/d9e/classboss__drakkari__colossus.html":[6,0,431],
-"d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[6,0,431,2],
-"d7/d9e/classboss__drakkari__colossus.html#abe1bf28b9147b72c81e5c5efcdeeaf84":[6,0,431,1],
-"d7/d9e/classboss__moira__bronzebeard.html":[6,0,625]
+"d7/d9e/classboss__drakkari__colossus.html#a75c6c9c56fe11342dd8aece031059e77":[6,0,431,2]
 };

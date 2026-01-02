@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
+  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
   ['bachiev_1',['bachiev',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev'],['../dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev']]],
   ['bachievbombbot_2',['bAchievBombBot',['../df/dd9/structboss__mimiron_1_1boss__mimironAI.html#afcd749730b91e9bf9c18609d1f826b06',1,'boss_mimiron::boss_mimironAI']]],
   ['bachievcacherare_3',['bAchievCacheRare',['../d5/dc2/structboss__hodir_1_1boss__hodirAI.html#abae1956e9101ea07cea426ac7c51efd5',1,'boss_hodir::boss_hodirAI']]],
@@ -183,7 +183,7 @@ var searchData=
   ['bgroundphase_180',['bGroundPhase',['../d1/de2/structboss__razorscale_1_1boss__razorscaleAI.html#a150411c707fdd94619ca67db6c428ca3',1,'boss_razorscale::boss_razorscaleAI']]],
   ['bgteamid_181',['bgTeamId',['../d0/d50/structBGData.html#ac97f7cafb6ae69a12588e40328cdc0cb',1,'BGData']]],
   ['bgtoqueue_182',['bgToQueue',['../d1/d1a/classBattlegroundMgr.html#a88b512ac1340399735287e337bbb76a2',1,'BattlegroundMgr']]],
-  ['bgtypeid_183',['bgtypeid',['../d0/d50/structBGData.html#a3398da6a15fd66cdd8dc172997d3786b',1,'BGData::bgTypeID'],['../dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f',1,'GroupQueueInfo::BgTypeId']]],
+  ['bgtypeid_183',['bgtypeid',['../dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f',1,'GroupQueueInfo::BgTypeId'],['../d0/d50/structBGData.html#a3398da6a15fd66cdd8dc172997d3786b',1,'BGData::bgTypeID']]],
   ['bgtypetobattleground_184',['bgtypeToBattleground',['../d1/d1a/classBattlegroundMgr.html#af9da430f07c8a040f9eb111bdfd921a6',1,'BattlegroundMgr']]],
   ['bgtypetotemplate_185',['bgTypeToTemplate',['../d1/d1a/classBattlegroundMgr.html#a25b2d7705c7e6af7f0f7a4ef35913a85',1,'BattlegroundMgr']]],
   ['bgzoneidtofillworldstates_186',['bgZoneIdToFillWorldStates',['../d2/d4b/classPlayer.html#abde07331980587025357d3ab37b2a3f5',1,'Player']]],
@@ -278,7 +278,7 @@ var searchData=
   ['bp3_275',['bp3',['../dd/d27/structSmartAction.html#af56d53ebfd46ffd5546fd0f8c5a5b241',1,'SmartAction']]],
   ['bphase3_276',['bPhase3',['../d3/df2/structboss__anubarak__trial_1_1boss__anubarak__trialAI.html#a56778ef57482fd6b40110524a6771137',1,'boss_anubarak_trial::boss_anubarak_trialAI']]],
   ['bpokeachiev_277',['bPokeAchiev',['../d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#ae9ac88ac934fa86e28f5d4905b8defba',1,'instance_eye_of_eternity::instance_eye_of_eternity_InstanceMapScript']]],
-  ['bracketid_278',['bracketid',['../db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a',1,'PvPDifficultyEntry::bracketId'],['../dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4',1,'GroupQueueInfo::BracketId']]],
+  ['bracketid_278',['bracketid',['../dd/d51/structGroupQueueInfo.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4',1,'GroupQueueInfo::BracketId'],['../db/d2f/structPvPDifficultyEntry.html#a670bce11b1d934167d8b3e990ea49d4a',1,'PvPDifficultyEntry::bracketId']]],
   ['brannachievement_279',['brannAchievement',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#a0ba409129e2b0cb84b731043755e70e3',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['brannguid_280',['BrannGUID',['../d0/d75/structinstance__halls__of__stone_1_1instance__halls__of__stone__InstanceMapScript.html#ae764788f5a202371ce5ea506ba5ea05f',1,'instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript']]],
   ['brannintrospawnpos_281',['BrannIntroSpawnPos',['../d1/d43/boss__algalon__the__observer_8cpp.html#aeeb061299a20d936b10ca54816e5c9bb',1,'boss_algalon_the_observer.cpp']]],

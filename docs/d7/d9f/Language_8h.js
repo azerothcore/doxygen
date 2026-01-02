@@ -563,6 +563,7 @@ var Language_8h =
       [ "LANG_EVENT_STARTED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa25c1a72d0447c99869cc8629543e3e6b", null ],
       [ "LANG_EVENT_STOPPED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaece357e42c2714553d95e3dbf17000b8", null ],
       [ "LANG_REWARDED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8cbe01ccde9e314133718a603a76cd1f", null ],
+      [ "LANG_NPC_DO_ACTION", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa8b088b747602c9e63b5b6eec5637de31", null ],
       [ "LANG_WAIT_BEFORE_SPEAKING", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aab2a720badc2036086bbbd705b4e946a0", null ],
       [ "LANG_NOT_EQUIPPED_ITEM", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa613d3e52df77b5105f0941ea380ab9bd", null ],
       [ "LANG_PLAYER_DND", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6756483ed013cd8a28fa6f017ff4c988", null ],

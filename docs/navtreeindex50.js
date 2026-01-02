@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2173],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2173,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2173,2],
 "d2/d0d/classspell__illidari__council__judgement.html":[6,0,3217],
@@ -45,8 +46,8 @@ var NAVTREEINDEX50 =
 "d2/d0f/classRestoreFight.html":[6,0,2505],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2505,1],
 "d2/d0f/classRestoreFight.html#a0149cccce8c3120b1e988e9a7c96f75c":[6,0,2505,0],
-"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2505,3],
 "d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2505,2],
+"d2/d0f/classRestoreFight.html#a019eb3c08dc8c3b97fc27b989ec8ab77":[6,0,2505,3],
 "d2/d0f/classRestoreFight.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0":[6,0,2505,4],
 "d2/d0f/classboss__freya__summons.html":[6,0,487],
 "d2/d0f/classboss__freya__summons.html#a3445ed89967cc9a610472f18e862ecd4":[6,0,487,1],
@@ -135,10 +136,10 @@ var NAVTREEINDEX50 =
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#accbe5feed1eb7363575f297d1b50f6ab":[6,0,2178,0,0],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#ad557591ddebd4cece99b0e5793be3eb5":[6,0,2178,0,7],
 "d2/d14/structnpc__tiger__matriarch_1_1npc__tiger__matriarchAI.html#af8ed5b16a3f1ed04d439bc1ce1a07ede":[6,0,2178,0,5],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,32,9,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[6,0,12,9,2],
-"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,32,9,2,1],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html":[5,0,32,9,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[6,0,12,9,2,1],
+"d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a127dcfcc7e960d24e56d1b17bf9be992":[5,0,32,9,2,1],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[6,0,12,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a422afb45b6c5e9c4fef58fb1801bd0ad":[5,0,32,9,2,2],
 "d2/d15/classWorldPackets_1_1Misc_1_1CrossedInebriationThreshold.html#a87b756b64cbfb8f292f46cce38308095":[6,0,12,9,2,4],
@@ -183,8 +184,8 @@ var NAVTREEINDEX50 =
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,1,7,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,1,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[6,0,0,4,0,3,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,1,7,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[6,0,0,4,0,3,1],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,1,7,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[6,0,0,4,0,3,0],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,1,7,0,3,0],
 "d2/d19/structAuthHandler.html":[6,0,297],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d1b/classWorldSocket.html#a62eb40d8a6ed9793092982ffc9832572":[6,0,4336,36],
 "d2/d1b/classWorldSocket.html#a7a58e6bff13926de4109a338a9e9f37f":[6,0,4336,33],
 "d2/d1b/classWorldSocket.html#a7c2143888fdf82a284f340fd700b7124":[6,0,4336,31],
-"d2/d1b/classWorldSocket.html#a7e5bd5454c788e5e71057996734f12e8":[6,0,4336,9],
-"d2/d1b/classWorldSocket.html#a7f66197c2456497e6c010853881a9695":[6,0,4336,37]
+"d2/d1b/classWorldSocket.html#a7e5bd5454c788e5e71057996734f12e8":[6,0,4336,9]
 };

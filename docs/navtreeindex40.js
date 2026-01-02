@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a2c41ce9a9d48184b38c24775463215b8":[7,0,0,0,1,2,16,10,5,43,16],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a2ed45f37f3666c6df5a36731f5077ee7":[7,0,0,0,1,2,16,10,5,43,20],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a38e4367712b46b4c0de8b7a260892065":[7,0,0,0,1,2,16,10,5,43,18],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a594f8b39be41e8b4b1525c70311d2cd7":[7,0,0,0,1,2,16,10,5,43,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#af592003f019ace3e78ff7a19ada3e8f6":[6,0,1857,0,4],
 "d1/db7/zone__darkshore_8cpp.html":[7,0,0,0,1,3,4,17],
 "d1/db7/zone__darkshore_8cpp.html#a0ed292ffd1cc9307544572174ebb1c8d":[7,0,0,0,1,3,4,17,11],
-"d1/db7/zone__darkshore_8cpp.html#a0ed292ffd1cc9307544572174ebb1c8da3d14f447258cd817fac5103e8c4f74f0":[7,0,0,0,1,3,4,17,11,4],
-"d1/db7/zone__darkshore_8cpp.html#a0ed292ffd1cc9307544572174ebb1c8da8a18edfe68309d79d2422870dfeb24fa":[7,0,0,0,1,3,4,17,11,1]
+"d1/db7/zone__darkshore_8cpp.html#a0ed292ffd1cc9307544572174ebb1c8da3d14f447258cd817fac5103e8c4f74f0":[7,0,0,0,1,3,4,17,11,4]
 };

@@ -245,9 +245,9 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  850</span>{</div>
 <div class="line"><span class="lineno">  851</span>    <a class="code hl_function" href="../../d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e">Clean</a>();</div>
 <div class="line"><span class="lineno">  852</span>}</div>
-<div class="ttc" id="aclassConditionMgr_html_af0b22cd7f4714bb1329bceb9486f5d2e"><div class="ttname"><a href="../../d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e">ConditionMgr::Clean</a></div><div class="ttdeci">void Clean()</div><div class="ttdef"><b>Definition</b> ConditionMgr.cpp:2516</div></div>
+<div class="ttc" id="aclassConditionMgr_html_af0b22cd7f4714bb1329bceb9486f5d2e"><div class="ttname"><a href="../../d9/df7/classConditionMgr.html#af0b22cd7f4714bb1329bceb9486f5d2e">ConditionMgr::Clean</a></div><div class="ttdeci">void Clean()</div><div class="ttdef"><b>Definition</b> ConditionMgr.cpp:2519</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02516">Clean()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02519">Clean()</a>.</p>
 
 </div>
 </div>
@@ -622,80 +622,80 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2517</span>{</div>
-<div class="line"><span class="lineno"> 2518</span>    <span class="keywordflow">for</span> (ConditionReferenceContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c">ConditionReferenceStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c">ConditionReferenceStore</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2519</span>    {</div>
-<div class="line"><span class="lineno"> 2520</span>        <span class="keywordflow">for</span> (ConditionList::const_iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it) <span class="keyword">delete</span> *it;</div>
-<div class="line"><span class="lineno"> 2521</span>        itr-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2522</span>    }</div>
-<div class="line"><span class="lineno"> 2523</span> </div>
-<div class="line"><span class="lineno"> 2524</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c">ConditionReferenceStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2525</span> </div>
-<div class="line"><span class="lineno"> 2526</span>    <span class="keywordflow">for</span> (ConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34">ConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34">ConditionStore</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2527</span>    {</div>
-<div class="line"><span class="lineno"> 2528</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
-<div class="line"><span class="lineno"> 2529</span>        {</div>
-<div class="line"><span class="lineno"> 2530</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
-<div class="line"><span class="lineno"> 2531</span>            it-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2532</span>        }</div>
-<div class="line"><span class="lineno"> 2533</span>        itr-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2534</span>    }</div>
-<div class="line"><span class="lineno"> 2535</span> </div>
-<div class="line"><span class="lineno"> 2536</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34">ConditionStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2537</span> </div>
-<div class="line"><span class="lineno"> 2538</span>    <span class="keywordflow">for</span> (CreatureSpellConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">VehicleSpellConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">VehicleSpellConditionStore</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2539</span>    {</div>
-<div class="line"><span class="lineno"> 2540</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
-<div class="line"><span class="lineno"> 2541</span>        {</div>
-<div class="line"><span class="lineno"> 2542</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
-<div class="line"><span class="lineno"> 2543</span>            it-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2544</span>        }</div>
-<div class="line"><span class="lineno"> 2545</span>        itr-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2546</span>    }</div>
-<div class="line"><span class="lineno"> 2547</span> </div>
-<div class="line"><span class="lineno"> 2548</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">VehicleSpellConditionStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2549</span> </div>
-<div class="line"><span class="lineno"> 2550</span>    <span class="keywordflow">for</span> (SmartEventConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">SmartEventConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">SmartEventConditionStore</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2551</span>    {</div>
-<div class="line"><span class="lineno"> 2552</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
-<div class="line"><span class="lineno"> 2553</span>        {</div>
-<div class="line"><span class="lineno"> 2554</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
-<div class="line"><span class="lineno"> 2555</span>            it-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2556</span>        }</div>
-<div class="line"><span class="lineno"> 2557</span>        itr-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2558</span>    }</div>
-<div class="line"><span class="lineno"> 2559</span> </div>
-<div class="line"><span class="lineno"> 2560</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">SmartEventConditionStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2561</span> </div>
-<div class="line"><span class="lineno"> 2562</span>    <span class="keywordflow">for</span> (CreatureSpellConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">SpellClickEventConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">SpellClickEventConditionStore</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2563</span>    {</div>
-<div class="line"><span class="lineno"> 2564</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
-<div class="line"><span class="lineno"> 2565</span>        {</div>
-<div class="line"><span class="lineno"> 2566</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
-<div class="line"><span class="lineno"> 2567</span>            it-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2568</span>        }</div>
-<div class="line"><span class="lineno"> 2569</span>        itr-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2570</span>    }</div>
-<div class="line"><span class="lineno"> 2571</span> </div>
-<div class="line"><span class="lineno"> 2572</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">SpellClickEventConditionStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2573</span> </div>
-<div class="line"><span class="lineno"> 2574</span>    <span class="keywordflow">for</span> (NpcVendorConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183">NpcVendorConditionContainerStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183">NpcVendorConditionContainerStore</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2575</span>    {</div>
-<div class="line"><span class="lineno"> 2576</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
-<div class="line"><span class="lineno"> 2577</span>        {</div>
-<div class="line"><span class="lineno"> 2578</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
-<div class="line"><span class="lineno"> 2579</span>            it-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2580</span>        }</div>
-<div class="line"><span class="lineno"> 2581</span>        itr-&gt;second.clear();</div>
-<div class="line"><span class="lineno"> 2582</span>    }</div>
-<div class="line"><span class="lineno"> 2583</span> </div>
-<div class="line"><span class="lineno"> 2584</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183">NpcVendorConditionContainerStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2585</span> </div>
-<div class="line"><span class="lineno"> 2586</span>    <span class="comment">// this is a BIG hack, feel free to fix it if you can figure out the ConditionMgr ;)</span></div>
-<div class="line"><span class="lineno"> 2587</span>    <span class="keywordflow">for</span> (std::list&lt;Condition*&gt;::const_iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009">AllocatedMemoryStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009">AllocatedMemoryStore</a>.end(); ++itr) <span class="keyword">delete</span> *itr;</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2520</span>{</div>
+<div class="line"><span class="lineno"> 2521</span>    <span class="keywordflow">for</span> (ConditionReferenceContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c">ConditionReferenceStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c">ConditionReferenceStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2522</span>    {</div>
+<div class="line"><span class="lineno"> 2523</span>        <span class="keywordflow">for</span> (ConditionList::const_iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it) <span class="keyword">delete</span> *it;</div>
+<div class="line"><span class="lineno"> 2524</span>        itr-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2525</span>    }</div>
+<div class="line"><span class="lineno"> 2526</span> </div>
+<div class="line"><span class="lineno"> 2527</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c">ConditionReferenceStore</a>.clear();</div>
+<div class="line"><span class="lineno"> 2528</span> </div>
+<div class="line"><span class="lineno"> 2529</span>    <span class="keywordflow">for</span> (ConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34">ConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34">ConditionStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2530</span>    {</div>
+<div class="line"><span class="lineno"> 2531</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
+<div class="line"><span class="lineno"> 2532</span>        {</div>
+<div class="line"><span class="lineno"> 2533</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
+<div class="line"><span class="lineno"> 2534</span>            it-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2535</span>        }</div>
+<div class="line"><span class="lineno"> 2536</span>        itr-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2537</span>    }</div>
+<div class="line"><span class="lineno"> 2538</span> </div>
+<div class="line"><span class="lineno"> 2539</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34">ConditionStore</a>.clear();</div>
+<div class="line"><span class="lineno"> 2540</span> </div>
+<div class="line"><span class="lineno"> 2541</span>    <span class="keywordflow">for</span> (CreatureSpellConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">VehicleSpellConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">VehicleSpellConditionStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2542</span>    {</div>
+<div class="line"><span class="lineno"> 2543</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
+<div class="line"><span class="lineno"> 2544</span>        {</div>
+<div class="line"><span class="lineno"> 2545</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
+<div class="line"><span class="lineno"> 2546</span>            it-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2547</span>        }</div>
+<div class="line"><span class="lineno"> 2548</span>        itr-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2549</span>    }</div>
+<div class="line"><span class="lineno"> 2550</span> </div>
+<div class="line"><span class="lineno"> 2551</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">VehicleSpellConditionStore</a>.clear();</div>
+<div class="line"><span class="lineno"> 2552</span> </div>
+<div class="line"><span class="lineno"> 2553</span>    <span class="keywordflow">for</span> (SmartEventConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">SmartEventConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">SmartEventConditionStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2554</span>    {</div>
+<div class="line"><span class="lineno"> 2555</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
+<div class="line"><span class="lineno"> 2556</span>        {</div>
+<div class="line"><span class="lineno"> 2557</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
+<div class="line"><span class="lineno"> 2558</span>            it-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2559</span>        }</div>
+<div class="line"><span class="lineno"> 2560</span>        itr-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2561</span>    }</div>
+<div class="line"><span class="lineno"> 2562</span> </div>
+<div class="line"><span class="lineno"> 2563</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">SmartEventConditionStore</a>.clear();</div>
+<div class="line"><span class="lineno"> 2564</span> </div>
+<div class="line"><span class="lineno"> 2565</span>    <span class="keywordflow">for</span> (CreatureSpellConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">SpellClickEventConditionStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">SpellClickEventConditionStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2566</span>    {</div>
+<div class="line"><span class="lineno"> 2567</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
+<div class="line"><span class="lineno"> 2568</span>        {</div>
+<div class="line"><span class="lineno"> 2569</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
+<div class="line"><span class="lineno"> 2570</span>            it-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2571</span>        }</div>
+<div class="line"><span class="lineno"> 2572</span>        itr-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2573</span>    }</div>
+<div class="line"><span class="lineno"> 2574</span> </div>
+<div class="line"><span class="lineno"> 2575</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">SpellClickEventConditionStore</a>.clear();</div>
+<div class="line"><span class="lineno"> 2576</span> </div>
+<div class="line"><span class="lineno"> 2577</span>    <span class="keywordflow">for</span> (NpcVendorConditionContainer::iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183">NpcVendorConditionContainerStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183">NpcVendorConditionContainerStore</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2578</span>    {</div>
+<div class="line"><span class="lineno"> 2579</span>        <span class="keywordflow">for</span> (ConditionTypeContainer::iterator it = itr-&gt;second.begin(); it != itr-&gt;second.end(); ++it)</div>
+<div class="line"><span class="lineno"> 2580</span>        {</div>
+<div class="line"><span class="lineno"> 2581</span>            <span class="keywordflow">for</span> (ConditionList::const_iterator i = it-&gt;second.begin(); i != it-&gt;second.end(); ++i) <span class="keyword">delete</span> *i;</div>
+<div class="line"><span class="lineno"> 2582</span>            it-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2583</span>        }</div>
+<div class="line"><span class="lineno"> 2584</span>        itr-&gt;second.clear();</div>
+<div class="line"><span class="lineno"> 2585</span>    }</div>
+<div class="line"><span class="lineno"> 2586</span> </div>
+<div class="line"><span class="lineno"> 2587</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183">NpcVendorConditionContainerStore</a>.clear();</div>
 <div class="line"><span class="lineno"> 2588</span> </div>
-<div class="line"><span class="lineno"> 2589</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009">AllocatedMemoryStore</a>.clear();</div>
-<div class="line"><span class="lineno"> 2590</span>}</div>
+<div class="line"><span class="lineno"> 2589</span>    <span class="comment">// this is a BIG hack, feel free to fix it if you can figure out the ConditionMgr ;)</span></div>
+<div class="line"><span class="lineno"> 2590</span>    <span class="keywordflow">for</span> (std::list&lt;Condition*&gt;::const_iterator itr = <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009">AllocatedMemoryStore</a>.begin(); itr != <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009">AllocatedMemoryStore</a>.end(); ++itr) <span class="keyword">delete</span> *itr;</div>
+<div class="line"><span class="lineno"> 2591</span> </div>
+<div class="line"><span class="lineno"> 2592</span>    <a class="code hl_variable" href="../../d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009">AllocatedMemoryStore</a>.clear();</div>
+<div class="line"><span class="lineno"> 2593</span>}</div>
 <div class="ttc" id="aclassConditionMgr_html_a50e0b550d2e9bbcc233960e1f6fae3f5"><div class="ttname"><a href="../../d9/df7/classConditionMgr.html#a50e0b550d2e9bbcc233960e1f6fae3f5">ConditionMgr::SmartEventConditionStore</a></div><div class="ttdeci">SmartEventConditionContainer SmartEventConditionStore</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:289</div></div>
 <div class="ttc" id="aclassConditionMgr_html_a5f9ad4ccc6532600661875459d29cc40"><div class="ttname"><a href="../../d9/df7/classConditionMgr.html#a5f9ad4ccc6532600661875459d29cc40">ConditionMgr::SpellClickEventConditionStore</a></div><div class="ttdeci">CreatureSpellConditionContainer SpellClickEventConditionStore</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:287</div></div>
 <div class="ttc" id="aclassConditionMgr_html_a7f3d98f12e4a939ea3d25123b2d2d2e1"><div class="ttname"><a href="../../d9/df7/classConditionMgr.html#a7f3d98f12e4a939ea3d25123b2d2d2e1">ConditionMgr::VehicleSpellConditionStore</a></div><div class="ttdeci">CreatureSpellConditionContainer VehicleSpellConditionStore</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:286</div></div>
@@ -1705,31 +1705,34 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 2487</span>        }</div>
 <div class="line"><span class="lineno"> 2488</span>        <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno"> 2489</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8d8e8264214ae894f68a188718309564">CONDITION_RANDOM_DUNGEON</a>:</div>
-<div class="line"><span class="lineno"> 2490</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a> &gt;= <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>)</div>
+<div class="line"><span class="lineno"> 2490</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a> &gt; 1)</div>
 <div class="line"><span class="lineno"> 2491</span>        {</div>
-<div class="line"><span class="lineno"> 2492</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RandomDungeon condition has invalid difficulty in value1 ({}).&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a>);</div>
+<div class="line"><span class="lineno"> 2492</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RandomDungeon condition has useless data in value1 ({}).&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a>);</div>
 <div class="line"><span class="lineno"> 2493</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 2494</span>        }</div>
-<div class="line"><span class="lineno"> 2495</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ac8288eb1430da0afdbc9d793cb4a383c">ConditionValue2</a>)</div>
-<div class="line"><span class="lineno"> 2496</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RandomDungeon condition has useless data in value2 ({}).&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ac8288eb1430da0afdbc9d793cb4a383c">ConditionValue2</a>);</div>
-<div class="line"><span class="lineno"> 2497</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae67f4e85f5d1d9bdf3a20df74fb621e2">ConditionValue3</a>)</div>
-<div class="line"><span class="lineno"> 2498</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RandomDungeon condition has useless data in value3 ({}).&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae67f4e85f5d1d9bdf3a20df74fb621e2">ConditionValue3</a>);</div>
-<div class="line"><span class="lineno"> 2499</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2500</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6cca3fd2e257213071b4b831c9eb46f9">CONDITION_PET_TYPE</a>:</div>
-<div class="line"><span class="lineno"> 2501</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a> &gt;= (1 &lt;&lt; <a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97cacb8090a59681ea6d194c6a00b73423ea">MAX_PET_TYPE</a>))</div>
-<div class="line"><span class="lineno"> 2502</span>        {</div>
-<div class="line"><span class="lineno"> 2503</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;CONDITION_PET_TYPE has non-existing pet type {}, skipped.&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a>);</div>
-<div class="line"><span class="lineno"> 2504</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2505</span>        }</div>
-<div class="line"><span class="lineno"> 2506</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2507</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a048336ee4c8a2540b67eb5d4e4e4f974">CONDITION_TAXI</a>:</div>
-<div class="line"><span class="lineno"> 2508</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0aa0d1e275c23862d547ad19c1c0ba4428">CONDITION_IN_WATER</a>:</div>
-<div class="line"><span class="lineno"> 2509</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a99e92550f5255c2923aa40144aea907c">CONDITION_CHARMED</a>:</div>
-<div class="line"><span class="lineno"> 2510</span>    <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 2511</span>        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2512</span>    }</div>
-<div class="line"><span class="lineno"> 2513</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2514</span>}</div>
+<div class="line"><span class="lineno"> 2495</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ac8288eb1430da0afdbc9d793cb4a383c">ConditionValue2</a> &gt;= <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>)</div>
+<div class="line"><span class="lineno"> 2496</span>        {</div>
+<div class="line"><span class="lineno"> 2497</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RandomDungeon condition has invalid difficulty in value2 ({}).&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a>);</div>
+<div class="line"><span class="lineno"> 2498</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2499</span>        }</div>
+<div class="line"><span class="lineno"> 2500</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae67f4e85f5d1d9bdf3a20df74fb621e2">ConditionValue3</a>)</div>
+<div class="line"><span class="lineno"> 2501</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;RandomDungeon condition has useless data in value3 ({}).&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae67f4e85f5d1d9bdf3a20df74fb621e2">ConditionValue3</a>);</div>
+<div class="line"><span class="lineno"> 2502</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2503</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a6cca3fd2e257213071b4b831c9eb46f9">CONDITION_PET_TYPE</a>:</div>
+<div class="line"><span class="lineno"> 2504</span>        <span class="keywordflow">if</span> (cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a> &gt;= (1 &lt;&lt; <a class="code hl_enumvalue" href="../../d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97cacb8090a59681ea6d194c6a00b73423ea">MAX_PET_TYPE</a>))</div>
+<div class="line"><span class="lineno"> 2505</span>        {</div>
+<div class="line"><span class="lineno"> 2506</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;CONDITION_PET_TYPE has non-existing pet type {}, skipped.&quot;</span>, cond-&gt;<a class="code hl_variable" href="../../d6/d9f/structCondition.html#ae9f134dce1609682ffe6379c05d4e28b">ConditionValue1</a>);</div>
+<div class="line"><span class="lineno"> 2507</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2508</span>        }</div>
+<div class="line"><span class="lineno"> 2509</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2510</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a048336ee4c8a2540b67eb5d4e4e4f974">CONDITION_TAXI</a>:</div>
+<div class="line"><span class="lineno"> 2511</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0aa0d1e275c23862d547ad19c1c0ba4428">CONDITION_IN_WATER</a>:</div>
+<div class="line"><span class="lineno"> 2512</span>    <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a99e92550f5255c2923aa40144aea907c">CONDITION_CHARMED</a>:</div>
+<div class="line"><span class="lineno"> 2513</span>    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 2514</span>        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2515</span>    }</div>
+<div class="line"><span class="lineno"> 2516</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2517</span>}</div>
 <div class="ttc" id="aConditionMgr_8h_html_aab5835ceff4b64ce6db4148256e0a0f0a048336ee4c8a2540b67eb5d4e4e4f974"><div class="ttname"><a href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a048336ee4c8a2540b67eb5d4e4e4f974">CONDITION_TAXI</a></div><div class="ttdeci">@ CONDITION_TAXI</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:80</div></div>
 <div class="ttc" id="aConditionMgr_8h_html_aab5835ceff4b64ce6db4148256e0a0f0a0c68d7254772ce4f3c49ca5420d7772c"><div class="ttname"><a href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a0c68d7254772ce4f3c49ca5420d7772c">CONDITION_MAPID</a></div><div class="ttdeci">@ CONDITION_MAPID</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:56</div></div>
 <div class="ttc" id="aConditionMgr_8h_html_aab5835ceff4b64ce6db4148256e0a0f0a0d222f84a37a9885ff944a79b24ca696"><div class="ttname"><a href="../../de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a0d222f84a37a9885ff944a79b24ca696">CONDITION_SKILL</a></div><div class="ttdeci">@ CONDITION_SKILL</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:41</div></div>
@@ -2814,7 +2817,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructCondition_html_ad4e57d326ea5923d0ca5a9a8bd41358e"><div class="ttname"><a href="../../d6/d9f/structCondition.html#ad4e57d326ea5923d0ca5a9a8bd41358e">Condition::ReferenceId</a></div><div class="ttdeci">uint32 ReferenceId</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:209</div></div>
 <div class="ttc" id="astructCondition_html_ae05d36b81cf063cbe3dbc41084dcdf0d"><div class="ttname"><a href="../../d6/d9f/structCondition.html#ae05d36b81cf063cbe3dbc41084dcdf0d">Condition::ErrorTextId</a></div><div class="ttdeci">uint32 ErrorTextId</div><div class="ttdef"><b>Definition</b> ConditionMgr.h:208</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01387">addToGossipMenuItems()</a>, <a class="el" href="../../#l01367">addToGossipMenus()</a>, <a class="el" href="../../#l01352">addToLootTemplate()</a>, <a class="el" href="../../#l01406">addToSpellImplicitTargetConditions()</a>, <a class="el" href="../../#l00282">AllocatedMemoryStore</a>, <a class="el" href="../../#l00973">CanHaveSourceGroupSet()</a>, <a class="el" href="../../#l00980">CanHaveSourceIdSet()</a>, <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l00126">CONDITION_SOURCE_TYPE_CREATURE_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00127">CONDITION_SOURCE_TYPE_DISENCHANT_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00128">CONDITION_SOURCE_TYPE_FISHING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00129">CONDITION_SOURCE_TYPE_GAMEOBJECT_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00139">CONDITION_SOURCE_TYPE_GOSSIP_MENU</a>, <a class="el" href="../../#l00140">CONDITION_SOURCE_TYPE_GOSSIP_MENU_OPTION</a>, <a class="el" href="../../#l00130">CONDITION_SOURCE_TYPE_ITEM_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00131">CONDITION_SOURCE_TYPE_MAIL_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00132">CONDITION_SOURCE_TYPE_MILLING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00148">CONDITION_SOURCE_TYPE_NPC_VENDOR</a>, <a class="el" href="../../#l00133">CONDITION_SOURCE_TYPE_PICKPOCKETING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00153">CONDITION_SOURCE_TYPE_PLAYER_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00134">CONDITION_SOURCE_TYPE_PROSPECTING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00135">CONDITION_SOURCE_TYPE_REFERENCE_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00136">CONDITION_SOURCE_TYPE_SKINNING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00147">CONDITION_SOURCE_TYPE_SMART_EVENT</a>, <a class="el" href="../../#l00142">CONDITION_SOURCE_TYPE_SPELL</a>, <a class="el" href="../../#l00143">CONDITION_SOURCE_TYPE_SPELL_CLICK_EVENT</a>, <a class="el" href="../../#l00138">CONDITION_SOURCE_TYPE_SPELL_IMPLICIT_TARGET</a>, <a class="el" href="../../#l00137">CONDITION_SOURCE_TYPE_SPELL_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00146">CONDITION_SOURCE_TYPE_VEHICLE_SPELL</a>, <a class="el" href="../../#l00285">ConditionReferenceStore</a>, <a class="el" href="../../#l00284">ConditionStore</a>, <a class="el" href="../../#l00211">Condition::ConditionTarget</a>, <a class="el" href="../../#l00203">Condition::ConditionType</a>, <a class="el" href="../../#l00204">Condition::ConditionValue1</a>, <a class="el" href="../../#l00205">Condition::ConditionValue2</a>, <a class="el" href="../../#l00206">Condition::ConditionValue3</a>, <a class="el" href="../../#l00202">Condition::ElseGroup</a>, <a class="el" href="../../#l00208">Condition::ErrorTextId</a>, <a class="el" href="../../#l00207">Condition::ErrorType</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00257">LootStore::GetLootForConditionFill()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l01872">isConditionTypeValid()</a>, <a class="el" href="../../#l01492">isSourceTypeValid()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a867a728f0e7d52d0c546457d9199bbe0">LootTemplates_Creature</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a5df89c4848d191ab038eed9a8f81b913">LootTemplates_Disenchant</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#af45baef147256b11372c092b0ac53f91">LootTemplates_Fishing</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a2092f58e2dc595c617668f039de77935">LootTemplates_Gameobject</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a3148b185e4fb344eaa918ccc37ff8e84">LootTemplates_Item</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#aba8aafe6a5d2d251b6e2f539b27f5949">LootTemplates_Mail</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a433757800c8ee4e9b654d504a4ee828a">LootTemplates_Milling</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a94fe5d87a40ef83d99db6ccfde0a719f">LootTemplates_Pickpocketing</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#abbe10d61650265aabbc5de5685a8b9bb">LootTemplates_Player</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a5e98772296a6d93715a4ed74eb2b5bdf">LootTemplates_Prospecting</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a556a2458977647462ba38f61da196218">LootTemplates_Reference</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a195e88b39c43d01cbf8b1871a7129a60">LootTemplates_Skinning</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a12b8cff5bc25ff6a80a044a72d037aaa">LootTemplates_Spell</a>, <a class="el" href="../../#l00212">Condition::NegativeCondition</a>, <a class="el" href="../../#l00288">NpcVendorConditionContainerStore</a>, <a class="el" href="../../#l00209">Condition::ReferenceId</a>, <a class="el" href="../../#l00238">LootStore::ResetConditions()</a>, <a class="el" href="../../#l00210">Condition::ScriptId</a>, <a class="el" href="../../#l00289">SmartEventConditionStore</a>, <a class="el" href="../../#l01644">sObjectMgr</a>, <a class="el" href="../../#l00200">Condition::SourceEntry</a>, <a class="el" href="../../#l00199">Condition::SourceGroup</a>, <a class="el" href="../../#l00201">Condition::SourceId</a>, <a class="el" href="../../#l00198">Condition::SourceType</a>, <a class="el" href="../../#l00287">SpellClickEventConditionStore</a>, <a class="el" href="../../#l00826">sSpellMgr</a>, <a class="el" href="../../#l00286">VehicleSpellConditionStore</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01387">addToGossipMenuItems()</a>, <a class="el" href="../../#l01367">addToGossipMenus()</a>, <a class="el" href="../../#l01352">addToLootTemplate()</a>, <a class="el" href="../../#l01406">addToSpellImplicitTargetConditions()</a>, <a class="el" href="../../#l00282">AllocatedMemoryStore</a>, <a class="el" href="../../#l00973">CanHaveSourceGroupSet()</a>, <a class="el" href="../../#l00980">CanHaveSourceIdSet()</a>, <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l00126">CONDITION_SOURCE_TYPE_CREATURE_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00127">CONDITION_SOURCE_TYPE_DISENCHANT_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00128">CONDITION_SOURCE_TYPE_FISHING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00129">CONDITION_SOURCE_TYPE_GAMEOBJECT_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00139">CONDITION_SOURCE_TYPE_GOSSIP_MENU</a>, <a class="el" href="../../#l00140">CONDITION_SOURCE_TYPE_GOSSIP_MENU_OPTION</a>, <a class="el" href="../../#l00130">CONDITION_SOURCE_TYPE_ITEM_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00131">CONDITION_SOURCE_TYPE_MAIL_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00132">CONDITION_SOURCE_TYPE_MILLING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00148">CONDITION_SOURCE_TYPE_NPC_VENDOR</a>, <a class="el" href="../../#l00133">CONDITION_SOURCE_TYPE_PICKPOCKETING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00153">CONDITION_SOURCE_TYPE_PLAYER_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00134">CONDITION_SOURCE_TYPE_PROSPECTING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00135">CONDITION_SOURCE_TYPE_REFERENCE_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00136">CONDITION_SOURCE_TYPE_SKINNING_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00147">CONDITION_SOURCE_TYPE_SMART_EVENT</a>, <a class="el" href="../../#l00142">CONDITION_SOURCE_TYPE_SPELL</a>, <a class="el" href="../../#l00143">CONDITION_SOURCE_TYPE_SPELL_CLICK_EVENT</a>, <a class="el" href="../../#l00138">CONDITION_SOURCE_TYPE_SPELL_IMPLICIT_TARGET</a>, <a class="el" href="../../#l00137">CONDITION_SOURCE_TYPE_SPELL_LOOT_TEMPLATE</a>, <a class="el" href="../../#l00146">CONDITION_SOURCE_TYPE_VEHICLE_SPELL</a>, <a class="el" href="../../#l00285">ConditionReferenceStore</a>, <a class="el" href="../../#l00284">ConditionStore</a>, <a class="el" href="../../#l00211">Condition::ConditionTarget</a>, <a class="el" href="../../#l00203">Condition::ConditionType</a>, <a class="el" href="../../#l00204">Condition::ConditionValue1</a>, <a class="el" href="../../#l00205">Condition::ConditionValue2</a>, <a class="el" href="../../#l00206">Condition::ConditionValue3</a>, <a class="el" href="../../#l00202">Condition::ElseGroup</a>, <a class="el" href="../../#l00208">Condition::ErrorTextId</a>, <a class="el" href="../../#l00207">Condition::ErrorType</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00257">LootStore::GetLootForConditionFill()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l01872">isConditionTypeValid()</a>, <a class="el" href="../../#l01492">isSourceTypeValid()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a867a728f0e7d52d0c546457d9199bbe0">LootTemplates_Creature</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a5df89c4848d191ab038eed9a8f81b913">LootTemplates_Disenchant</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#af45baef147256b11372c092b0ac53f91">LootTemplates_Fishing</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a2092f58e2dc595c617668f039de77935">LootTemplates_Gameobject</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a3148b185e4fb344eaa918ccc37ff8e84">LootTemplates_Item</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#aba8aafe6a5d2d251b6e2f539b27f5949">LootTemplates_Mail</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a433757800c8ee4e9b654d504a4ee828a">LootTemplates_Milling</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a94fe5d87a40ef83d99db6ccfde0a719f">LootTemplates_Pickpocketing</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#abbe10d61650265aabbc5de5685a8b9bb">LootTemplates_Player</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a5e98772296a6d93715a4ed74eb2b5bdf">LootTemplates_Prospecting</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a556a2458977647462ba38f61da196218">LootTemplates_Reference</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a195e88b39c43d01cbf8b1871a7129a60">LootTemplates_Skinning</a>, <a class="el" href="../../d8/d03/LootMgr_8cpp.html#a12b8cff5bc25ff6a80a044a72d037aaa">LootTemplates_Spell</a>, <a class="el" href="../../#l00212">Condition::NegativeCondition</a>, <a class="el" href="../../#l00288">NpcVendorConditionContainerStore</a>, <a class="el" href="../../#l00209">Condition::ReferenceId</a>, <a class="el" href="../../#l00238">LootStore::ResetConditions()</a>, <a class="el" href="../../#l00210">Condition::ScriptId</a>, <a class="el" href="../../#l00289">SmartEventConditionStore</a>, <a class="el" href="../../#l01644">sObjectMgr</a>, <a class="el" href="../../#l00200">Condition::SourceEntry</a>, <a class="el" href="../../#l00199">Condition::SourceGroup</a>, <a class="el" href="../../#l00201">Condition::SourceId</a>, <a class="el" href="../../#l00198">Condition::SourceType</a>, <a class="el" href="../../#l00287">SpellClickEventConditionStore</a>, <a class="el" href="../../#l00826">sSpellMgr</a>, <a class="el" href="../../#l00286">VehicleSpellConditionStore</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 </div>
 </div>
@@ -2839,7 +2842,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2863,7 +2866,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l00860">GetConditionReferences()</a>, <a class="el" href="../../#l00869">GetSearcherTypeMaskForConditionList()</a>, <a class="el" href="../../#l00908">IsObjectMeetToConditionList()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l00860">GetConditionReferences()</a>, <a class="el" href="../../#l00869">GetSearcherTypeMaskForConditionList()</a>, <a class="el" href="../../#l00908">IsObjectMeetToConditionList()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2887,7 +2890,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l00985">GetConditionsForNotGroupedEntry()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l00985">GetConditionsForNotGroupedEntry()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2911,7 +2914,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l01052">GetConditionsForNpcVendorEvent()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l01052">GetConditionsForNpcVendorEvent()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2935,7 +2938,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l01036">GetConditionsForSmartEvent()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l01036">GetConditionsForSmartEvent()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2959,7 +2962,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l01004">GetConditionsForSpellClickEvent()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l01004">GetConditionsForSpellClickEvent()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2983,7 +2986,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Clean()</a>, <a class="el" href="../../#l01020">GetConditionsForVehicleSpell()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02519">Clean()</a>, <a class="el" href="../../#l01020">GetConditionsForVehicleSpell()</a>, and <a class="el" href="../../#l01075">LoadConditions()</a>.</p>
 
 </div>
 </div>
@@ -2997,7 +3000,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/df7/classConditionMgr.html">ConditionMgr</a></li>
-    <li class="footer">Generated on Thu Jan 1 2026 06:28:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jan 2 2026 06:28:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,8 @@
 var NAVTREEINDEX364 =
 {
+"de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[7,0,0,0,0,15,25,6],
+"de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[7,0,0,0,0,15,25,3],
+"de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html":[6,0,1632,0],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a09fc1e8f171209471c5403af33b05a58":[6,0,1632,0,0],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a1375420fe4bf16f122aa93f5c847a464":[6,0,1632,0,8],
 "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a21868549892cdd0e67d6403dece9efce":[6,0,1632,0,2],
@@ -14,8 +17,8 @@ var NAVTREEINDEX364 =
 "de/d58/ConfusedMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[6,0,12,4,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html":[5,0,32,4,0],
-"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,32,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[6,0,12,4,0,0],
+"de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a0c6ff5057d2ee0c424c8539c0bf99857":[5,0,32,4,0,0],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[6,0,12,4,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#a8363787ac7959f19234def2707ef0b32":[5,0,32,4,0,2],
 "de/d58/classWorldPackets_1_1Combat_1_1SetSheathed.html#ae2158689450e3a9207b6992ea5223106":[5,0,32,4,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX364 =
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faed815ad33055c47851099c82c07932f1":[7,0,0,0,1,2,13,1,11,28],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faf2071663de62aaee1a92f9cf84f578ed":[7,0,0,0,1,2,13,1,11,7],
 "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faf346b42db2a33729fa82322e5b422843":[7,0,0,0,1,2,13,1,11,24],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fafb0ed10b5ee9fbab98e1cf21c0656d85":[7,0,0,0,1,2,13,1,11,20],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff018c19627d2a3c3767b8c3665cd1eb":[7,0,0,0,1,2,13,1,11,19],
-"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff449b5123285287f62d0c80459a9f53":[7,0,0,0,1,2,13,1,11,0],
-"de/d5f/ConditionMgr_8h.html#a71c9edff7d630e15fff711b8eb0a130c":[7,0,0,0,1,2,13,1,13]
+"de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fafb0ed10b5ee9fbab98e1cf21c0656d85":[7,0,0,0,1,2,13,1,11,20]
 };

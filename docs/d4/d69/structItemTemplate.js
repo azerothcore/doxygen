@@ -5,6 +5,7 @@ var structItemTemplate =
     [ "getFeralBonus", "d4/d69/structItemTemplate.html#af5fb539abc35e3da632517535571bd76", null ],
     [ "GetItemLevelIncludingQuality", "d4/d69/structItemTemplate.html#acd71cd1c7450919c45c492f6d9b103a6", null ],
     [ "GetMaxStackSize", "d4/d69/structItemTemplate.html#a397d7a20deee4000f7692ba5e8eae176", null ],
+    [ "GetOnEquipSpellIDs", "d4/d69/structItemTemplate.html#a29e3f96c05962442a95c99d6fc0ce94d", null ],
     [ "GetSkill", "d4/d69/structItemTemplate.html#afd010d3d47ce9eece832f3e5690c3609", null ],
     [ "HasFlag", "d4/d69/structItemTemplate.html#aa1ae3db197ca23fdd00f2f056bea12f7", null ],
     [ "HasFlag2", "d4/d69/structItemTemplate.html#a8700ef8d4daab0aa628ade36d828534b", null ],

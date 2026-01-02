@@ -1,5 +1,6 @@
 var NAVTREEINDEX124 =
 {
+"d4/d4f/classspell__dk__death__and__decay__aura.html":[6,0,2769],
 "d4/d4f/classspell__dk__death__and__decay__aura.html#a6b76add02d3a1eeddd845c4f97d0632a":[6,0,2769,1],
 "d4/d4f/classspell__dk__death__and__decay__aura.html#a9d94b55656848d5b9f943b9b3bbfd889":[6,0,2769,0],
 "d4/d4f/classspell__dk__death__and__decay__aura.html#aa8c6fc66e1483370681ae6f7fdf5b676":[6,0,2769,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#ab361073608a293347fa82e829eb7c8cb":[6,0,793,0,6],
 "d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#ab532ef181da9fa4267c987e4aa173b69":[6,0,793,0,12],
 "d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#abc6d2996727b22b2fd178c348f2dc7db":[6,0,793,0,1],
-"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#adef4e382bc15a03c432f46880bb076d6":[6,0,793,0,13],
-"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#ae93711e3607a60105ee8005b27b93506":[6,0,793,0,4]
+"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#adef4e382bc15a03c432f46880bb076d6":[6,0,793,0,13]
 };

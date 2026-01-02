@@ -1,5 +1,8 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,1,0,14,6],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6":[7,0,0,0,1,3,2,1,0,14,6,0],
+"d9/dc7/boss__tomb__of__seven_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,14,9],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f9ce9b2e5bd76ea924b60fa97d6fcf7":[7,0,0,0,1,3,2,1,0,14,9,0],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a5bd342133be8c2137b831460acc9298cad1e8111e03ae22cef2dc1d36ef346c33":[7,0,0,0,1,3,2,1,0,14,9,1],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#a7bd8356be730809dff3c6afd8891c780":[7,0,0,0,1,3,2,1,0,14,10],
@@ -19,10 +22,10 @@ var NAVTREEINDEX244 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,12,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,32,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,32,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,12,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,12,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,32,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,32,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,12,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX244 =
 "d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc":[6,0,3518,0],
 "d9/dd4/classspell__oculus__call__ruby__emerald__amber__drake.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf":[6,0,3518,1],
 "d9/dd5/classboss__lucifron.html":[6,0,602],
-"d9/dd5/classboss__lucifron.html#a885366d4190bbc77dc696ee6910435ed":[6,0,602,2],
-"d9/dd5/classboss__lucifron.html#aa54be5c49a77524b036c167dbb6d81ea":[6,0,602,1],
-"d9/dd5/classboss__malygos.html":[6,0,614],
-"d9/dd5/classboss__malygos.html#a9e1d821311fa8b92318a99ea79ddb1e3":[6,0,614,2]
+"d9/dd5/classboss__lucifron.html#a885366d4190bbc77dc696ee6910435ed":[6,0,602,2]
 };

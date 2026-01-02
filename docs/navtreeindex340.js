@@ -1,5 +1,8 @@
 var NAVTREEINDEX340 =
 {
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a97b56650a40ff3d39c6281d43261f06f":[6,0,12,6,6,0],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html":[6,0,1583],
+"dd/dd7/structnpc__alexstraza__the__lifebinder.html#a063fc935bc8f46f5487e9c338e497ec4":[6,0,1583,7],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a41791aaa24102383fe4d3f43c714c3bb":[6,0,1583,8],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c2901f01e4fcafaea9c00ff58dbeaf3":[6,0,1583,5],
 "dd/dd7/structnpc__alexstraza__the__lifebinder.html#a7c30258540803bde75843cb070b6a288":[6,0,1583,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX340 =
 "dd/de9/classGameObjectScript.html#ac526fbe66b9b1e9edca51f9fd20a40b9":[6,0,1090,2],
 "dd/de9/classGameObjectScript.html#ac9c9feb4d08ea0e5ad202ada205a9772":[6,0,1090,9],
 "dd/de9/classGameObjectScript.html#afd22217feca39340d68b9c7fd6c1caa8":[6,0,1090,12],
-"dd/dea/classspell__gen__holiday__buff__food.html":[6,0,2984],
-"dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[6,0,2984,2],
-"dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,2984,3],
-"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,2984,1]
+"dd/dea/classspell__gen__holiday__buff__food.html":[6,0,2984]
 };

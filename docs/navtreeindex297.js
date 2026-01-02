@@ -1,5 +1,8 @@
 var NAVTREEINDEX297 =
 {
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,11,10],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca044f0f330d57591a8fd173c7f776063e":[7,0,0,0,1,3,4,9,11,10,24],
+"db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,9,11,10,25],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca17b7a6ad8d4650eaaef54fa7a803a7ea":[7,0,0,0,1,3,4,9,11,10,1],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05":[7,0,0,0,1,3,4,9,11,10,28],
 "db/dec/temple__of__ahnqiraj_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eba2b675d1f06a206f14b520785c0a5":[7,0,0,0,1,3,4,9,11,10,13],
@@ -107,12 +110,12 @@ var NAVTREEINDEX297 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,32,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,32,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,32,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,32,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,32,6,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,32,6,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,32,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3193],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3193,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3193,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX297 =
 "db/df4/structTransportRotationEntry.html#afcdb94a38d68d2ff8af225dc599db8a4":[6,0,4215,1],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html":[6,0,670,0],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a0455bacbe8356bdadd9c391115efcd68":[6,0,670,0,8],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a04a206275d57f0e0f2af0d7e98323696":[6,0,670,0,12],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a1e9b96abd69fce032a7ca6dff275703c":[6,0,670,0,17],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a249bbd12c520e81968e93a93d3dd272c":[6,0,670,0,10],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a3026598fec3a0b4ba9a8b458aa411d33":[6,0,670,0,18]
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a04a206275d57f0e0f2af0d7e98323696":[6,0,670,0,12]
 };

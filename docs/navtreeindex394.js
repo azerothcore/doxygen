@@ -1,5 +1,9 @@
 var NAVTREEINDEX394 =
 {
+"df/da7/classBattleground.html#a0e23512a1aa9e333dc861e5a46b09f24":[6,0,316,18],
+"df/da7/classBattleground.html#a0f2b5179c9b91b5410f84eb199320720":[6,0,316,95],
+"df/da7/classBattleground.html#a11f638dab7a0cf67b8a3588fd7f30cc5":[6,0,316,195],
+"df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[6,0,316,189],
 "df/da7/classBattleground.html#a13dbc1f65f80809cff43c3b2d5575035":[6,0,316,80],
 "df/da7/classBattleground.html#a1488f7426326ff10456812bba13f5ea7":[6,0,316,57],
 "df/da7/classBattleground.html#a152b516933fa88d053a99d3e3aa052c3":[6,0,316,5],
@@ -235,19 +239,15 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,316,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,316,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,316,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,32,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,12,2,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,32,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,32,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,12,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,12,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,32,2,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,12,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,12,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,32,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,12,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2941],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2941,2],
-"df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2941,0],
-"df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[6,0,2941,1],
-"df/da7/classspell__gen__gnomish__transporter.html":[6,0,2977],
-"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[6,0,2977,0],
-"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[6,0,2977,2]
+"df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2941,0]
 };

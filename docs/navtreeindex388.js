@@ -1,8 +1,12 @@
 var NAVTREEINDEX388 =
 {
-"df/d5c/classnpc__commandscript.html#ae33bcd34c61d305dc3d98d9c8d3bd379":[6,0,1695,19],
-"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1695,18],
+"df/d5c/classnpc__commandscript.html#ab89d9ed18a38ace2b2dfd1d447f6f57c":[6,0,1695,22],
+"df/d5c/classnpc__commandscript.html#ac8235ec474e29a6565936e3ea0bc9bd1":[6,0,1695,24],
+"df/d5c/classnpc__commandscript.html#ad789c3fb6523abddf4d07d38952e04a8":[6,0,1695,1],
+"df/d5c/classnpc__commandscript.html#ae33bcd34c61d305dc3d98d9c8d3bd379":[6,0,1695,20],
+"df/d5c/classnpc__commandscript.html#ae573b25cb215abe3ba4167ca5475ea6f":[6,0,1695,19],
 "df/d5c/classnpc__commandscript.html#aebdf52c0354ed5f4c951c67d093c175a":[6,0,1695,4],
+"df/d5c/classnpc__commandscript.html#afdb4983a0c986f12182d8b3f17bf6c91":[6,0,1695,9],
 "df/d5c/classspell__deathbringer__blood__nova__targeting.html":[6,0,2738],
 "df/d5c/classspell__deathbringer__blood__nova__targeting.html#a11732039155235c287757980129d5a8e":[6,0,2738,1],
 "df/d5c/classspell__deathbringer__blood__nova__targeting.html#a467272ccd10ec0aff7ad00a567c0049c":[6,0,2738,2],
@@ -21,10 +25,10 @@ var NAVTREEINDEX388 =
 "df/d5c/structboss__crone.html#a8bd505acd55ca5292d29c96916a461e5":[6,0,417,7],
 "df/d5c/structboss__crone.html#a9801cd39667d1a08770820bd17beac00":[6,0,417,3],
 "df/d5c/structboss__crone.html#ae4d343636955589d740d1df4e21fba99":[6,0,417,5],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,27,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,27,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,8,2,0],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,27,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,4,8,1,3],
 "df/d5e/boss__buru_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa32529ebd1d3d907ec4212b5afa48b22f":[7,0,0,0,1,3,4,8,1,3,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX388 =
 "df/d71/boss__sartharion_8cpp.html#a16e282c892201d37cc8cb653e1959b3c":[7,0,0,0,1,3,5,1,0,0,24],
 "df/d71/boss__sartharion_8cpp.html#a187ea6ec7d8c9b5ca662d70bb7f03d33":[7,0,0,0,1,3,5,1,0,0,23],
 "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,0,0,15],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ca2b24731fb3131900d8eadbc449646":[7,0,0,0,1,3,5,1,0,0,15,12],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a244f05bb61f2bdd96ebdc94c1d47b5b9":[7,0,0,0,1,3,5,1,0,0,15,11],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a31962847bb1c17cc1cf036a0e5dc9142":[7,0,0,0,1,3,5,1,0,0,15,4],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3734c86ac06de7a9410c15d33dc43051":[7,0,0,0,1,3,5,1,0,0,15,0],
-"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4f594e95c3ab86e57c14c861b1cb5686":[7,0,0,0,1,3,5,1,0,0,15,9]
+"df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ca2b24731fb3131900d8eadbc449646":[7,0,0,0,1,3,5,1,0,0,15,12]
 };

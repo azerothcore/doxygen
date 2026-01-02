@@ -1,5 +1,8 @@
 var NAVTREEINDEX363 =
 {
+"de/d43/DisableMgr_8h.html#a1a184d22bd27210ea5af79573927826a":[7,0,0,0,1,2,13,3,2],
+"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7":[7,0,0,0,1,2,13,3,4],
+"de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437":[7,0,0,0,1,2,13,3,4,6],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707":[7,0,0,0,1,2,13,3,4,1],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4":[7,0,0,0,1,2,13,3,4,2],
 "de/d43/DisableMgr_8h.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484":[7,0,0,0,1,2,13,3,4,4],
@@ -94,8 +97,8 @@ var NAVTREEINDEX363 =
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html":[6,0,6,9],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[5,0,20,9,3],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[6,0,6,9,3],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[6,0,6,9,10],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[5,0,20,9,10],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[6,0,6,9,10],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00":[5,0,20,9,5],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00":[6,0,6,9,5],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a3513a1b33d8682303eae1eaa30615a07":[6,0,6,9,9],
@@ -106,8 +109,8 @@ var NAVTREEINDEX363 =
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a4dfcfc16d4c854bc210d8c6827d27ba7":[6,0,6,9,2],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[6,0,6,9,8],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[5,0,20,9,8],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[6,0,6,9,1],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[5,0,20,9,1],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[6,0,6,9,1],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[6,0,6,9,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[5,0,20,9,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[6,0,6,9,6],
@@ -168,12 +171,12 @@ var NAVTREEINDEX363 =
 "de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,40],
 "de/d4c/CreatureScript_8h.html#a25cc02ecf50f52ec8cdff096060b8be1":[7,0,0,0,1,2,38,0,40,4],
 "de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f":[7,0,0,0,1,2,38,0,40,3],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html":[6,0,0,68],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html":[5,0,1,80],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[6,0,0,68,4],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2bbff655e1a5268981c48e3ee028b104":[5,0,1,80,4],
-"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[6,0,0,68,3],
+"de/d4c/classAcore_1_1LocalizedPacketDo.html#a2c794905898feb502bfc5d3760f962b8":[5,0,1,80,3],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[5,0,1,80,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a4296260b2011e1f7c300987073863ca9":[6,0,0,68,1],
 "de/d4c/classAcore_1_1LocalizedPacketDo.html#a43449bdf0302e426b8cb4341326196b1":[5,0,1,80,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX363 =
 "de/d55/StartProcess_8cpp.html":[7,0,0,0,0,15,25],
 "de/d55/StartProcess_8cpp.html#a021f51138f5726e712f00bdddf9be729":[7,0,0,0,0,15,25,5],
 "de/d55/StartProcess_8cpp.html#a18bbd8a6717e647e963654123259a033":[7,0,0,0,0,15,25,2],
-"de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[7,0,0,0,0,15,25,4],
-"de/d55/StartProcess_8cpp.html#acfaf2f89a55d299aa04c494719dfedc8":[7,0,0,0,0,15,25,6],
-"de/d55/StartProcess_8cpp.html#adcee37690522709ab4bd0b6f6e757dc5":[7,0,0,0,0,15,25,3],
-"de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html":[6,0,1632,0]
+"de/d55/StartProcess_8cpp.html#a9de098dac5e38f8c2cdbeb1d4d706881":[7,0,0,0,0,15,25,4]
 };

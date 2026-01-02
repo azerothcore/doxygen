@@ -1,5 +1,9 @@
 var NAVTREEINDEX405 =
 {
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca3df00e451a027ccc48488b61a54f01c5":[7,0,0,0,1,3,5,8,2,0,6,3],
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca626925ba86f88514659778da36ed7122":[7,0,0,0,1,3,5,8,2,0,6,1],
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca73cc106ecf58fcd3a75fa23f9ff7a21c":[7,0,0,0,1,3,5,8,2,0,6,5],
+"df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298ca96a05afd42764dee65dc6b579e8e4795":[7,0,0,0,1,3,5,8,2,0,6,2],
 "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298cadf5f8f23894a1d8d6efe963719d2865a":[7,0,0,0,1,3,5,8,2,0,6,4],
 "df/df7/boss__drakos_8cpp.html#a5bd342133be8c2137b831460acc9298caf2fecfa2b3706d755888b9b4bcefd271":[7,0,0,0,1,3,5,8,2,0,6,0],
 "df/df7/boss__drakos_8cpp.html#a9b6e942098b05e96df3467d6c45f057c":[7,0,0,0,1,3,5,8,2,0,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX405 =
 "dir_d24bca12e9309aa7fe30851098c5d03d.html":[7,0,0,0,1,3,2,7],
 "dir_d253a27506f7041d543a98c5e5d24de3.html":[7,0,0,0,1,3,4,6],
 "dir_d35b7636bdd4a8db0bf316c0b0a1358d.html":[7,0,0,0,2,1],
-"dir_d398bc29d4ac2bbbb9d86fcdd4564fe5.html":[7,0,0,0,1,3,5,7],
-"dir_d4871a286f89f7ca564743d0cdf0b956.html":[7,0,0,0,1,2,11,0],
-"dir_d5546cd048ce0388ac9df91d37210e56.html":[7,0,0,0,1,0,1,0],
-"dir_d5b937f8e04412da4f4df9b7d3f28ed0.html":[7,0,0,0,3,2],
-"dir_d68c8764f6b69d1180b66c35742ddf05.html":[7,0,0,0,2,2,0,0]
+"dir_d398bc29d4ac2bbbb9d86fcdd4564fe5.html":[7,0,0,0,1,3,5,7]
 };

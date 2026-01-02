@@ -1,5 +1,8 @@
 var NAVTREEINDEX238 =
 {
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaeee77404f9cf3e9e0b6cbd625bc871bd":[7,0,0,0,1,3,5,6,13,7,42],
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaf01526c0205e7c71cd5d4535689c22b6":[7,0,0,0,1,3,5,6,13,7,68],
+"d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaf321e42980edc98e2edd84b9ca5c6557":[7,0,0,0,1,3,5,6,13,7,16],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaf61c92f4192862eecf9dd72e8d8cca6d":[7,0,0,0,1,3,5,6,13,7,56],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaf71a221131a861ffea04df7de0db2cd1":[7,0,0,0,1,3,5,6,13,7,4],
 "d9/d6a/icecrown__citadel_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eafd18ccf6cdabe35fbf6116cc855ac454":[7,0,0,0,1,3,5,6,13,7,48],
@@ -111,8 +114,8 @@ var NAVTREEINDEX238 =
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[6,0,5,16,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[6,0,5,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,18,16,2],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[6,0,5,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[6,0,5,16,3],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,18,16,3],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html":[6,0,1975,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d76/classSQLQueryHolderTask.html#a73199c4e5805933c9f79091797dedc5d":[6,0,4151,3],
 "d9/d76/classSQLQueryHolderTask.html#ab27ce22bdb505509662d862e92fe7e77":[6,0,4151,5],
 "d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html":[6,0,12,7,16],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html":[5,0,32,7,16],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a097ed361c33f7415ed4d7efe6ab985e8":[5,0,32,7,16,2],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a097ed361c33f7415ed4d7efe6ab985e8":[6,0,12,7,16,2],
-"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html#a59edb1d3445897bfaff1e97d703b42bb":[6,0,12,7,16,1]
+"d9/d76/classWorldPackets_1_1Item_1_1SplitItem.html":[5,0,32,7,16]
 };

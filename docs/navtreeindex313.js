@@ -1,5 +1,8 @@
 var NAVTREEINDEX313 =
 {
+"dc/d97/classspell__warl__seduction.html#a8efa76b28dddad68fee132f37791f231":[6,0,4020,2],
+"dc/d97/structTaxiPathNodeEntry.html":[6,0,4178],
+"dc/d97/structTaxiPathNodeEntry.html#a08778d3ef9a9a87fd731b54d5501daab":[6,0,4178,8],
 "dc/d97/structTaxiPathNodeEntry.html#a1ffe17f529066091b18451a1121ce6ac":[6,0,4178,1],
 "dc/d97/structTaxiPathNodeEntry.html#a6257ae486eff937cf12be64f0e850ca6":[6,0,4178,0],
 "dc/d97/structTaxiPathNodeEntry.html#a670a033aaf0ff48676373baf9235d670":[6,0,4178,3],
@@ -9,8 +12,8 @@ var NAVTREEINDEX313 =
 "dc/d97/structTaxiPathNodeEntry.html#aef005db912b0a57ecc5d62c66d838826":[6,0,4178,2],
 "dc/d97/structTaxiPathNodeEntry.html#af48d85940d7f204091e8438427a72e2d":[6,0,4178,9],
 "dc/d97/structTaxiPathNodeEntry.html#af9f8e03c2d9c1bdf266b3d62f1174224":[6,0,4178,4],
-"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[5,0,32,13,1],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[6,0,12,13,1],
+"dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html":[5,0,32,13,1],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[6,0,12,13,1,0],
 "dc/d97/structWorldPackets_1_1Strings_1_1Hyperlinks.html#a33ba7592ac6571144fc3a7385dbc49f0":[5,0,32,13,1,0],
 "dc/d97/structboss__apoko.html":[6,0,385],
@@ -246,8 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7":[7,0,0,0,1,3,4,9,8,7],
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a1b785791616e3693f6729f05db08ca25":[7,0,0,0,1,3,4,9,8,7,3],
 "dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a33260e404b79422a7861543d35a092b5":[7,0,0,0,1,3,4,9,8,7,0],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a383be1ad0cf8f03dde4b61254614ad7c":[7,0,0,0,1,3,4,9,8,7,5],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7ac73c3f5a048d6f5aa269225f23dbdac7":[7,0,0,0,1,3,4,9,8,7,1],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7adda0bb4ff8513b0ccd577572ef30e459":[7,0,0,0,1,3,4,9,8,7,4],
-"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7ae612984ce6626ff2242a1cbeb822a70e":[7,0,0,0,1,3,4,9,8,7,2]
+"dc/da8/boss__viscidus_8cpp.html#accecbef73b6ea30c7fe6f8ff779b09d7a383be1ad0cf8f03dde4b61254614ad7c":[7,0,0,0,1,3,4,9,8,7,5]
 };

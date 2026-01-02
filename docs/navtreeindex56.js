@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a46ba5ce733e2897d0f7f35a7fa181766":[6,0,1350,0,28],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a478f5daaf36e9adcac73f26c74ec62a3":[6,0,1350,0,39],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4b56ef4372b7e4a4fa3b83d94dcf7df0":[6,0,1350,0,44],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4baa9bbab0178240b250539573530d73":[6,0,1350,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d49/structAcore_1_1find__type__if.html":[5,0,1,62],
 "d2/d49/structAcore_1_1find__type__if.html":[6,0,0,50],
 "d2/d4a/classinstance__zulaman.html":[6,0,1358],
-"d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1358,2],
-"d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[6,0,1358,1]
+"d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1358,2]
 };

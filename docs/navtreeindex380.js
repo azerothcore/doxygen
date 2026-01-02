@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abf18d5fab6280b216ea80c5d2d031e4c":[7,0,0,0,1,3,2,1,1,0,4,16],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2abfc1ea9e0deff82c8a2a17aaa321c334":[7,0,0,0,1,3,2,1,1,0,4,12],
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ac6f023117b06956b89d5321f6a92fd43":[7,0,0,0,1,3,2,1,1,0,4,11],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2acd4cc17928b16bacf1a297d083a19410":[7,0,0,0,1,3,2,1,1,0,4,9],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ad275e687a5d319f598f188bdb911e078":[7,0,0,0,1,3,2,1,1,0,4,29],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2ae68bca430acc6be49bc598751269aea2":[7,0,0,0,1,3,2,1,1,0,4,14],
@@ -227,10 +230,10 @@ var NAVTREEINDEX380 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[6,0,12,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,32,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,12,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,12,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,32,2,4,3],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,12,2,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,12,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[5,0,32,2,4,2],
+"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#aad6819dc426b91b6ad43f180a53e12ef":[6,0,12,2,4,2],
 "df/d15/LFGQueue_8h.html":[7,0,0,0,1,2,15,9],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6":[7,0,0,0,1,2,15,9,6],
 "df/d15/LFGQueue_8h.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e":[7,0,0,0,1,2,15,9,6,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "df/d15/LFGQueue_8h.html#a96438cca4cead6c1fc5d31ef643129e9":[7,0,0,0,1,2,15,9,3],
 "df/d15/LFGQueue_8h.html#aa2afec59ce753c11c3d8fddf4fb33991":[7,0,0,0,1,2,15,9,4],
 "df/d15/Totem_8h.html":[7,0,0,0,1,2,16,8,1],
-"df/d15/Totem_8h.html#a2bd46e1df17fdee45cd35896306092fb":[7,0,0,0,1,2,16,8,1,2],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9":[7,0,0,0,1,2,16,8,1,3],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a":[7,0,0,0,1,2,16,8,1,3,2],
-"df/d15/Totem_8h.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,2,16,8,1,3,0]
+"df/d15/Totem_8h.html#a2bd46e1df17fdee45cd35896306092fb":[7,0,0,0,1,2,16,8,1,2]
 };

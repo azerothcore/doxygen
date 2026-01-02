@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a8e7c61ffac670290464b0232430df05c":[6,0,2524,29],
 "d2/d8f/structScriptInfo.html#a8f47be670df5df4f42031aa4423e0cbe":[6,0,2524,42],
 "d2/d8f/structScriptInfo.html#a8fb645d013542458f1a0d92e47ad238a":[6,0,2524,65],
 "d2/d8f/structScriptInfo.html#a91c39f49adbd09706533d287afcaed40":[6,0,2524,77],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/da2/classspell__gen__ds__flush__knockback.html#a59b5637aa8a29611463fbaabc6db2bb8":[6,0,2959,1],
 "d2/da2/classspell__gen__ds__flush__knockback.html#af6d3dd97d3254dbfcd6b611b26e0e61d":[6,0,2959,0],
 "d2/da3/boss__highlord__omokk_8cpp.html":[7,0,0,0,1,3,2,1,1,4],
-"d2/da3/boss__highlord__omokk_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,4,3],
-"d2/da3/boss__highlord__omokk_8cpp.html#a5bd342133be8c2137b831460acc9298caa72ede58fa3714726fab8d4b7252f5fa":[7,0,0,0,1,3,2,1,1,4,3,1]
+"d2/da3/boss__highlord__omokk_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,4,3]
 };

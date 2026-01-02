@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a1bac27c9c1397829d321f2e835c5fc32":[7,0,0,0,1,3,5,9,1,3,14,13],
 "d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a36f49ab8665772a869203d9ddce12fc5":[7,0,0,0,1,3,5,9,1,3,14,10],
 "d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a39bf43d92d488b98bc985d81835a30f3":[7,0,0,0,1,3,5,9,1,3,14,15],
 "d4/d3c/brann__bronzebeard_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84a3dec7366e61b1063a5dae6662f6d495a":[7,0,0,0,1,3,5,9,1,3,14,14],
@@ -90,10 +91,10 @@ var NAVTREEINDEX123 =
 "d4/d3e/classspell__gen__animal__blood.html#a497776c6ffdda8670fa255b76057bf2c":[6,0,2917,2],
 "d4/d3e/classspell__gen__animal__blood.html#a6aa83e925a93dc7ff89c0357debc75d1":[6,0,2917,0],
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2917,3],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,32,13,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,12,13,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,32,13,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,32,13,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,12,13,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,32,13,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2186,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[6,0,2186,0,4],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#aac7db7f40b47a9c098c98bacb7569faf":[6,0,2186,0,1],
@@ -146,16 +147,16 @@ var NAVTREEINDEX123 =
 "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a":[6,0,592,15],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[6,0,592,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[6,0,592,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,12,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,32,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,12,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,12,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,32,6,8,3],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,12,6,8,2],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,12,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,32,6,8,2],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,12,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,32,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,12,6,8,0],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,32,6,8,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,12,6,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,32,6,8,1],
 "d4/d46/classinstance__uldaman.html":[6,0,1351],
 "d4/d46/classinstance__uldaman.html#a672bb8b5a16d29d25a191ab90d8007b4":[6,0,1351,2],
 "d4/d46/classinstance__uldaman.html#a854807db729d15aa4a09aad051fe3bda":[6,0,1351,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d4f/classAggressorAI.html":[6,0,144],
 "d4/d4f/classAggressorAI.html#a2d4ba3a557832466f29906972d1e14fd":[6,0,144,0],
 "d4/d4f/classAggressorAI.html#a7867a9ca7249eb94a712e34833fae930":[6,0,144,1],
-"d4/d4f/classAggressorAI.html#ace9bc9ff47a463ceb05217ae77b5782b":[6,0,144,2],
-"d4/d4f/classspell__dk__death__and__decay__aura.html":[6,0,2769]
+"d4/d4f/classAggressorAI.html#ace9bc9ff47a463ceb05217ae77b5782b":[6,0,144,2]
 };

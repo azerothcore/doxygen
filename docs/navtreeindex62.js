@@ -1,5 +1,6 @@
 var NAVTREEINDEX62 =
 {
+"d2/d4b/classPlayer.html#aee04a47ef709c38e0ec9fc5a25493061":[6,0,2401,1227],
 "d2/d4b/classPlayer.html#aee0515fef117a6dc1c8a9d7c86b2f827":[6,0,2401,1082],
 "d2/d4b/classPlayer.html#aee25758fdb264cb59243b24434a42a26":[6,0,2401,1184],
 "d2/d4b/classPlayer.html#aee4cb5fa8d4bb0129f3c1208e183fe63":[6,0,2401,340],
@@ -111,10 +112,10 @@ var NAVTREEINDEX62 =
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,32,7,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,32,7,0,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,32,7,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[6,0,12,7,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,32,7,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,32,7,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3313],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[6,0,3313,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[6,0,3313,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX62 =
 "d2/d55/structboss__nethermancer__sepethrea.html#a89851b9f6eb94270fe22151d3a968bec":[6,0,640,3],
 "d2/d55/structboss__nethermancer__sepethrea.html#aae77446e9a8f2ac41601049d3fe9ffd4":[6,0,640,0],
 "d2/d55/structboss__nethermancer__sepethrea.html#acf98dbddcd55131cb9cdebe6d319e2c2":[6,0,640,4],
-"d2/d55/structboss__nethermancer__sepethrea.html#ad9606ca8c1fe6f68f72ec415cc70ef2f":[6,0,640,5],
-"d2/d56/Cell_8h.html":[7,0,0,0,1,2,19,0,0]
+"d2/d55/structboss__nethermancer__sepethrea.html#ad9606ca8c1fe6f68f72ec415cc70ef2f":[6,0,640,5]
 };

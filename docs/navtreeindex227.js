@@ -1,5 +1,8 @@
 var NAVTREEINDEX227 =
 {
+"d8/ddf/boss__professor__putricide_8cpp.html#ac1bcc1bab902038a2a8b365328833cbaaee725054d31e7dc29204b3a7a2b25d03":[7,0,0,0,1,3,5,6,7,34,5],
+"d8/ddf/boss__professor__putricide_8cpp.html#ad497b56557b631a443ef2ea56c24faff":[7,0,0,0,1,3,5,6,7,36],
+"d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,6,7,31],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6f2c6f43501c406e2d2abe58fffd3d":[7,0,0,0,1,3,5,6,7,31,10],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e97a915c54f14a86081923c39b0a611":[7,0,0,0,1,3,5,6,7,31,2],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6a7c32f40092b7c4ab818019e9fa5cf3":[7,0,0,0,1,3,5,6,7,31,4],
@@ -151,18 +154,18 @@ var NAVTREEINDEX227 =
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[6,0,837,12],
 "d8/de1/structTrainer_1_1Spell.html":[6,0,9,0],
 "d8/de1/structTrainer_1_1Spell.html":[5,0,28,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,28,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,9,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,28,0,2],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,28,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,9,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,28,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,28,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,9,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,28,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,9,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,28,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,9,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,28,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,28,0,6],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[6,0,9,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,28,0,1],
 "d8/de1/structnpc__zealot__zath.html":[6,0,2303],
@@ -246,8 +249,5 @@ var NAVTREEINDEX227 =
 "d8/de7/classnpc__announcer__toc10.html#afcc5262e7c49b7456af146de14805a06":[6,0,1594,1],
 "d8/de7/classspell__sha__cleansing__totem__pulse.html":[6,0,3804],
 "d8/de7/classspell__sha__cleansing__totem__pulse.html#a080969e035143ac8527443025dbacef2":[6,0,3804,2],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[6,0,3804,1],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a66fd30d7cffdc7307b4c9dc821ccdf92":[6,0,3804,3],
-"d8/de7/classspell__sha__cleansing__totem__pulse.html#a96c5064738653ce16f06634196218a88":[6,0,3804,0],
-"d8/de7/structDungeonEncounter.html":[6,0,996]
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a2fa51a29d2c8ce74c8a4351712ccdeb9":[6,0,3804,1]
 };

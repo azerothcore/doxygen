@@ -232,7 +232,7 @@ var searchData=
   ['vezaxnpcs_229',['VezaxNpcs',['../d8/d93/boss__general__vezax_8cpp.html#aa78f1b64a28f8f85fb7a88055203b63d',1,'boss_general_vezax.cpp']]],
   ['vezaxspelldata_230',['VezaxSpellData',['../d8/d93/boss__general__vezax_8cpp.html#ad45286eaf4e0bb1e60a076b7587531d1',1,'boss_general_vezax.cpp']]],
   ['vezaxtext_231',['VezaxText',['../d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8',1,'boss_general_vezax.cpp']]],
-  ['victim_232',['victim',['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2',1,'lfg::LfgPlayerBoot::victim'],['../d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f',1,'WorldPackets::CombatLog::EnvironmentalDamageLog::Victim']]],
+  ['victim_232',['victim',['../d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f',1,'WorldPackets::CombatLog::EnvironmentalDamageLog::Victim'],['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2',1,'lfg::LfgPlayerBoot::victim']]],
   ['victimguid_233',['victimGUID',['../d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92',1,'boss_maexxna_webwrap::boss_maexxna_webwrapAI']]],
   ['victimpos_234',['victimPos',['../d7/d2c/structnpc__taldaram__flamesphere.html#ae681d84f2324faf22296dcb6e08484b0',1,'npc_taldaram_flamesphere']]],
   ['victimsperepos_235',['victimSperePos',['../df/d7c/structboss__taldaram.html#a06efb376b0d08207a0efce74770f21dc',1,'boss_taldaram']]],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX233 =
 {
+"d9/d36/structboss__zuramat_1_1boss__zuramatAI.html#adb79f8c244f57b88848dd44b592faf41":[6,0,813,0,5],
+"d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html":[6,0,4075],
+"d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2":[6,0,4075,1],
 "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#a492bd9e9c82937e00897e19362b40901":[6,0,4075,0],
 "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html#adfcaf82ff48225ea0e0314d421795644":[6,0,4075,2],
 "d9/d38/classnpc__ulduar__rocket__strike__trigger.html":[6,0,2241],
@@ -93,12 +96,12 @@ var NAVTREEINDEX233 =
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a0c6523d46a325841cc5511a2a0f3e5c2":[6,0,12,1,3,3],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[5,0,32,1,3,0],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[6,0,12,1,3,0],
-"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[5,0,32,1,3,4],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[6,0,12,1,3,4],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[5,0,32,1,3,4],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[5,0,32,1,3,2],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a3e23b4e2e5bda01b55ad26ea66222f78":[6,0,12,1,3,2],
-"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[5,0,32,1,3,1],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[6,0,12,1,3,1],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63":[5,0,32,1,3,1],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html":[6,0,290,12],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#a803108e6a515d2d210d8e79a9fb6ce18":[6,0,290,12,2],
 "d9/d3e/classAuraScript_1_1EffectPeriodicHandler.html#a938e987363972fbd58e42f19880016d8":[6,0,290,12,1],
@@ -107,8 +110,8 @@ var NAVTREEINDEX233 =
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html":[5,0,32,9,5],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[6,0,12,9,5,3],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a2f8504ddba41dd09f69763d66331373b":[5,0,32,9,5,3],
-"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,32,9,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[6,0,12,9,5,0],
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a846074f55e6224bf322b96c7bfe9e008":[5,0,32,9,5,0],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[5,0,32,9,5,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#a94eb49e309ce83b04ccaf8f7e3e8bde7":[6,0,12,9,5,1],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[6,0,12,9,5,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX233 =
 "d9/d4d/classmisc__commandscript.html#a54c43e9d181f5b5bd06f229609264f64":[6,0,1509,38],
 "d9/d4d/classmisc__commandscript.html#a5712c979f5ffe069fa0a29b55b9f2772":[6,0,1509,8],
 "d9/d4d/classmisc__commandscript.html#a58cacccbb00f3cb6d71d5b084ad1771b":[6,0,1509,51],
-"d9/d4d/classmisc__commandscript.html#a592e80af21baa35581795350ab7ca976":[6,0,1509,14],
-"d9/d4d/classmisc__commandscript.html#a595d4e333cd2ac536317fee558bde24d":[6,0,1509,44],
-"d9/d4d/classmisc__commandscript.html#a5d6996cc2af57dd5abd6c9e9ca0cc044":[6,0,1509,36],
-"d9/d4d/classmisc__commandscript.html#a621e036c56caa93a63b27b1c317aa39c":[6,0,1509,1]
+"d9/d4d/classmisc__commandscript.html#a592e80af21baa35581795350ab7ca976":[6,0,1509,14]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX53 =
 {
+"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca23c6b78237061dac38ddfb39d974a3db":[7,0,0,0,1,2,36,2,17,1],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca26affdf7d4a232a13a2e85bcfec3acac":[7,0,0,0,1,2,36,2,17,0],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca332bbf12a9f624eaf8304facf64520c2":[7,0,0,0,1,2,36,2,17,8],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3":[7,0,0,0,1,2,36,2,17,11],
@@ -127,12 +128,12 @@ var NAVTREEINDEX53 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3102,3],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,120],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,132],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,132,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,120,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,132,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,132,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,120,2],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,132,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,132,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,120,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,132,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,901],
 "d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1":[6,0,901,13],
 "d2/d2b/classConfusedMovementGenerator.html#a212665e4306ca335181c255573d30a06":[6,0,901,2],
@@ -152,8 +153,8 @@ var NAVTREEINDEX53 =
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,12,9,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,12,9,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,32,9,3,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,32,9,3,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,12,9,3,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,32,9,3,0],
 "d2/d2c/VehicleDefines_8h.html":[7,0,0,0,1,2,16,11,2],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebd":[7,0,0,0,1,2,16,11,2,8],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f":[7,0,0,0,1,2,16,11,2,8,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX53 =
 "d2/d31/GameObjectScript_8h.html":[7,0,0,0,1,2,38,0,50],
 "d2/d31/GameObjectScript_8h.html#a1614f98721d8a94351c4be15a72e499f":[7,0,0,0,1,2,38,0,50,4],
 "d2/d31/GameObjectScript_8h.html#a87397a2ba2a1acd88f62793eae9aa30e":[7,0,0,0,1,2,38,0,50,3],
-"d2/d31/classQuestApprenticeAnglerPlayerScript.html":[6,0,2461],
-"d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[6,0,2461,1]
+"d2/d31/classQuestApprenticeAnglerPlayerScript.html":[6,0,2461]
 };

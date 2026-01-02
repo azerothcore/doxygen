@@ -1,5 +1,8 @@
 var NAVTREEINDEX225 =
 {
+"d8/dcd/classPassiveAI.html#a3a54c7d7268b8c2f4e081a99b4b0cd11":[6,0,2380,2],
+"d8/dcd/classPassiveAI.html#ac2aeba8cb148659de1ef97733fbb0651":[6,0,2380,1],
+"d8/dcd/classPassiveAI.html#ad1ae1c9e8a101dabd89aeed5c71eb453":[6,0,2380,0],
 "d8/dcd/classPassiveAI.html#ae8aa0cf612d23e5b9438e3f2b443f3d9":[6,0,2380,4],
 "d8/dcd/classspell__rog__shiv.html":[6,0,3769],
 "d8/dcd/classspell__rog__shiv.html#a3635089640297e059a183322c7e8f7b9":[6,0,3769,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd6/classnpc__hidden__cultist.html#ab455b35fea966360e01fb8975adad989":[6,0,1839,1],
 "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html":[6,0,2099,0],
 "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a2ed920f949c4d8dbc6d6ff5b9149e749":[6,0,2099,0,3],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a45201c4a5b94fad948efe1d08e63e262":[6,0,2099,0,1],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a793d72078bd68b34fcdb7cd6587295dd":[6,0,2099,0,4],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a7f012a54ebce5307940eb7957f028d52":[6,0,2099,0,2],
-"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a8436a87576c92ecc0b45106683d20e93":[6,0,2099,0,0]
+"d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html#a45201c4a5b94fad948efe1d08e63e262":[6,0,2099,0,1]
 };

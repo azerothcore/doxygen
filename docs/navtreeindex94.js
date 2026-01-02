@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d2d/classspell__rotface__mutated__infection__aura.html#a49b1087d66606ddeebe6918ad05d4b37":[6,0,3778,0],
 "d3/d2d/classspell__rotface__mutated__infection__aura.html#ab956cb95473cf0c5fc9fb2af14fc945e":[6,0,3778,2],
 "d3/d2e/classspell__igb__below__zero.html":[6,0,3177],
 "d3/d2e/classspell__igb__below__zero.html#a21bd67c024c5dcfb8496778f67eb48eb":[6,0,3177,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78":[7,0,0,0,1,3,5,9,2,13,59,2],
 "d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7":[7,0,0,0,1,3,5,9,2,13,59,0],
 "d3/d32/structboss__azgalor.html":[6,0,393],
-"d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[6,0,393,4],
-"d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[6,0,393,1]
+"d3/d32/structboss__azgalor.html#a04df1058e89ccc6e7ef2d1dff38d47e7":[6,0,393,4]
 };

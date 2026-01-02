@@ -9,6 +9,7 @@ var classnpc__commandscript =
     [ "HandleNpcAddVendorItemCommand", "df/d5c/classnpc__commandscript.html#ab722d7c262e1d4e4785c7de599a6d051", null ],
     [ "HandleNpcDeleteCommand", "df/d5c/classnpc__commandscript.html#a8686af61d6197dc490848a357db3bf4f", null ],
     [ "HandleNpcDeleteVendorItemCommand", "df/d5c/classnpc__commandscript.html#ab7a2211498c0f1f3bf9799aaab507fd9", null ],
+    [ "HandleNpcDoActionCommand", "df/d5c/classnpc__commandscript.html#afdb4983a0c986f12182d8b3f17bf6c91", null ],
     [ "HandleNpcFollowCommand", "df/d5c/classnpc__commandscript.html#a548ef7cacfcc92ac808ec0d41d51046b", null ],
     [ "HandleNpcGuidCommand", "df/d5c/classnpc__commandscript.html#a4594e04a33f25906d542a3154ca999d6", null ],
     [ "HandleNpcInfoCommand", "df/d5c/classnpc__commandscript.html#a99754050720ac6703d09ca3e2d1007ff", null ],

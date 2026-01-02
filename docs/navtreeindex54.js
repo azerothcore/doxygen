@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[6,0,2461,1],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[6,0,2461,0],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3419],
 "d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3419,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a76d70c0e1ef4ce6ea5c65a1f1b1804aa":[7,0,0,0,1,3,5,14,92],
 "d2/d38/northrend__script__loader_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,14,70],
 "d2/d38/northrend__script__loader_8cpp.html#a77d0cce0724befee65efa7555f62f8f1":[7,0,0,0,1,3,5,14,137],
-"d2/d38/northrend__script__loader_8cpp.html#a7960228710cc1d4d14425e2f87b2afb2":[7,0,0,0,1,3,5,14,15],
-"d2/d38/northrend__script__loader_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32":[7,0,0,0,1,3,5,14,10]
+"d2/d38/northrend__script__loader_8cpp.html#a7960228710cc1d4d14425e2f87b2afb2":[7,0,0,0,1,3,5,14,15]
 };

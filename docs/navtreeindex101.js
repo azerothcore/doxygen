@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d79/instance__icecrown__citadel_8cpp.html#ae6187c9e1a8b3881140d756f4ee96ec5":[7,0,0,0,1,3,5,6,15,18],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aeb1ee63bb2369e3d4813dbbb5648f36a":[7,0,0,0,1,3,5,6,15,19],
 "d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad":[7,0,0,0,1,3,5,6,15,14],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160":[7,0,0,0,1,3,5,6,15,17],
@@ -133,14 +134,14 @@ var NAVTREEINDEX101 =
 "d3/d7e/classspell__grab__on.html#af0f5206d98dbc9de355abbeb03709c05":[6,0,3066,1],
 "d3/d7f/namespaceadvstd.html":[5,0,4],
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da562cdc276cdc5c077cd0649837fb4691":[7,0,0,0,1,3,5,2,0,5,7,21],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da660bd9794e0b900539603abfb24e5107":[7,0,0,0,1,3,5,2,0,5,7,33],
 "d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da66a1d227f48f62bb48d34ba365341b41":[7,0,0,0,1,3,5,2,0,5,7,25],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da684865127e616cda12a798df9633a943":[7,0,0,0,1,3,5,2,0,5,7,18],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da6ab1042a83bcdcd198fcad942b5ca876":[7,0,0,0,1,3,5,2,0,5,7,17]
+"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5da684865127e616cda12a798df9633a943":[7,0,0,0,1,3,5,2,0,5,7,18]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX395 =
 {
+"df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[6,0,2941,1],
+"df/da7/classspell__gen__gnomish__transporter.html":[6,0,2977],
+"df/da7/classspell__gen__gnomish__transporter.html#a0bcbef8a2d5978498556a217ac618fed":[6,0,2977,0],
+"df/da7/classspell__gen__gnomish__transporter.html#a2c6d9c273a3d281dacefc20970912166":[6,0,2977,2],
 "df/da7/classspell__gen__gnomish__transporter.html#a5901c22f3a10fdbd21d934f5cb8cd76d":[6,0,2977,1],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2058,0],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[6,0,2058,0,2],
@@ -126,16 +130,16 @@ var NAVTREEINDEX395 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1714,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1714,0,2],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1714,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,32,9,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,12,9,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,32,9,8,2],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,32,9,8],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,12,9,8,2],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,32,9,8,3],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[5,0,32,9,8,2],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[6,0,12,9,8,3],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad2342dd0c1461283c595af29c3bc9fe6":[5,0,32,9,8,3],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[5,0,32,9,8,1],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad3d833f70de5937365c2351aa5206bbf":[6,0,12,9,8,1],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,12,9,8,0],
 "df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[5,0,32,9,8,0],
+"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#afee4b7ae9ac5f4f2b7365d3d00e7b581":[6,0,12,9,8,0],
 "df/db5/boss__meathook_8cpp.html":[7,0,0,0,1,3,4,1,1,3],
 "df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX395 =
 "df/dba/classnpc__ulduar__hodir__mage.html#abcbe0337b2a83b6eb0a64f7465d7f79a":[6,0,2231,2],
 "df/dba/classnpc__ulduar__hodir__mage.html#afebdd0f99f0c7eaaf0a2d5731335105d":[6,0,2231,1],
 "df/dba/instance__ahnkahet_8cpp.html":[7,0,0,0,1,3,5,0,0,6],
-"df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3],
-"df/dba/instance__ahnkahet_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,0,0,6,5],
-"df/dba/instance__ahnkahet_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,5,0,0,6,6],
-"df/dba/instance__ahnkahet_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,0,0,6,4],
-"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html":[6,0,1913,0]
+"df/dba/instance__ahnkahet_8cpp.html#a33aed24f64879c91101f7420c4d49cc3":[7,0,0,0,1,3,5,0,0,6,3]
 };

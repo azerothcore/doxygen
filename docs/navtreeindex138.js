@@ -1,5 +1,7 @@
 var NAVTREEINDEX138 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a457346e2e32cb17e0a92ece57484fb33":[6,0,112,36],
+"d4/dd8/structAchievementCriteriaData.html#a47883c03fca4df9c2a3612ef9dd0d6cb":[6,0,112,11],
 "d4/dd8/structAchievementCriteriaData.html#a544dfbd51369b7ccc7187f8a5e993843":[6,0,112,9],
 "d4/dd8/structAchievementCriteriaData.html#a55c9583e535d66c4647c4dd03401956a":[6,0,112,48],
 "d4/dd8/structAchievementCriteriaData.html#a56f5213c63183a8da51cf796dc91d590":[6,0,112,35],
@@ -173,8 +175,8 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1048,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1048,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1048,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,19],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,19,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1893,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX138 =
 "d4/ddf/structArenaTeamMember.html#a5b9e5e02d59569080d34abd9b9728693":[6,0,198,11],
 "d4/ddf/structArenaTeamMember.html#a5f6519e8ad3281a09608f8740927fbd3":[6,0,198,2],
 "d4/ddf/structArenaTeamMember.html#a7239187cef3a02839fe27577ad022ec9":[6,0,198,9],
-"d4/ddf/structArenaTeamMember.html#a7917e705d8c15bbe2731c32375c34d16":[6,0,198,6],
-"d4/ddf/structArenaTeamMember.html#a97906127f7eb1babe2bf2ebcda7c0a88":[6,0,198,10],
-"d4/ddf/structArenaTeamMember.html#aaa6de888c3f85ef8cbe9baa2f997aba1":[6,0,198,0]
+"d4/ddf/structArenaTeamMember.html#a7917e705d8c15bbe2731c32375c34d16":[6,0,198,6]
 };

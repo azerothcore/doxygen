@@ -1,8 +1,11 @@
 var NAVTREEINDEX289 =
 {
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[5,0,1,8,0,17,13],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#ae6e247f87720c56b6a4e6ab42eca9a6e":[6,0,0,5,0,17,13],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[6,0,0,5,0,17,1],
-"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[6,0,0,5,0,17,20],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#af67470ce232b1324c920815bc6be0255":[5,0,1,8,0,17,1],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[5,0,1,8,0,17,20],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afafeb5561392d3b1b0016eb9d9251176":[6,0,0,5,0,17,20],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[5,0,1,8,0,17,7],
 "db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#afc1fb38efba73def9e39de413139346b":[6,0,0,5,0,17,7],
 "db/da6/classspell__sindragosa__unchained__magic.html":[6,0,3857],
@@ -246,8 +249,5 @@ var NAVTREEINDEX289 =
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a16c198632451ae6bd2a10933d4bd6488":[7,0,0,0,1,3,10,14,62,20],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a1c7f4aef855e320f769eb7f5cc4877cf":[7,0,0,0,1,3,10,14,62,1],
 "db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a1e9cca8984c04bcbce356c7084947c23":[7,0,0,0,1,3,10,14,62,19],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a2485387803524db4c4bef9ddc9e0fda4":[7,0,0,0,1,3,10,14,62,28],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a44a81728553a9e6dd992b483deb5bbf6":[7,0,0,0,1,3,10,14,62,8],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a47b3b3a0fefe2efaf9a79ab2f3753d54":[7,0,0,0,1,3,10,14,62,4],
-"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a4e620ca883f85575264671f85dcecd48":[7,0,0,0,1,3,10,14,62,21]
+"db/dae/npcs__special_8cpp.html#a777b4c83dc24884b435af5e618927ef2a2485387803524db4c4bef9ddc9e0fda4":[7,0,0,0,1,3,10,14,62,28]
 };

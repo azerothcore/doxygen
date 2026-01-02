@@ -1,5 +1,8 @@
 var NAVTREEINDEX228 =
 {
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a66fd30d7cffdc7307b4c9dc821ccdf92":[6,0,3804,3],
+"d8/de7/classspell__sha__cleansing__totem__pulse.html#a96c5064738653ce16f06634196218a88":[6,0,3804,0],
+"d8/de7/structDungeonEncounter.html":[6,0,996],
 "d8/de7/structDungeonEncounter.html#a262bdd0ba443739456fc14bcad83ecda":[6,0,996,3],
 "d8/de7/structDungeonEncounter.html#a3e48a996a47ddcc1b18aaac339457f3d":[6,0,996,0],
 "d8/de7/structDungeonEncounter.html#a66a077e193f099bb7aef363dc75672d6":[6,0,996,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX228 =
 "d8/df8/classAuthSession.html#a5bb7976850813070a70566391e689669":[6,0,298,16],
 "d8/df8/classAuthSession.html#a701cecff97263bfb03c143e677961448":[6,0,298,39],
 "d8/df8/classAuthSession.html#a79d35828c93c4856d97243b52796740e":[6,0,298,0],
-"d8/df8/classAuthSession.html#a81e8c9c689848732fedfef3b8adcd521":[6,0,298,37],
-"d8/df8/classAuthSession.html#a84a76453af6b61caaf81fca202c581e2":[6,0,298,22],
-"d8/df8/classAuthSession.html#a851bf3628a9b68423ddba57c6517c86a":[6,0,298,12],
-"d8/df8/classAuthSession.html#a892bb74d2438381be8ddd65a741d69dd":[6,0,298,4]
+"d8/df8/classAuthSession.html#a81e8c9c689848732fedfef3b8adcd521":[6,0,298,37]
 };

@@ -488,7 +488,7 @@ var searchData=
   ['resetweeklyqueststatus_485',['ResetWeeklyQuestStatus',['../d2/d4b/classPlayer.html#a9a3f45d250c80621182d71d0648f05c8',1,'Player']]],
   ['resetzonetoteamcontrolled_486',['ResetZoneToTeamControlled',['../df/de7/classOutdoorPvPTF.html#aff6e736e4a6d9bd5868a3c0ad599cb5b',1,'OutdoorPvPTF']]],
   ['resistdamage_487',['ResistDamage',['../d2/d2d/classDamageInfo.html#a02e857277fbc00370143180b4fb3daac',1,'DamageInfo']]],
-  ['resize_488',['resize',['../df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b',1,'MessageBuffer::Resize()'],['../df/dd9/classWorldPackets_1_1Array.html#aee31c094fadba01a43e7eba0294a9275',1,'WorldPackets::Array::resize()'],['../da/d07/classByteBuffer.html#ac7b8a563946443354563733ffbcc7bf5',1,'ByteBuffer::resize()']]],
+  ['resize_488',['resize',['../df/dd9/classWorldPackets_1_1Array.html#aee31c094fadba01a43e7eba0294a9275',1,'WorldPackets::Array::resize()'],['../da/d07/classByteBuffer.html#ac7b8a563946443354563733ffbcc7bf5',1,'ByteBuffer::resize()'],['../df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b',1,'MessageBuffer::Resize()']]],
   ['resizeborders_489',['ResizeBorders',['../d2/db5/structCellArea.html#aebb8a0eb3210fa09d647d89ce8a0c7b8',1,'CellArea']]],
   ['resolve_490',['Resolve',['../d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c',1,'Acore::Asio::Resolver']]],
   ['resolveandcloseticket_491',['ResolveAndCloseTicket',['../de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2',1,'TicketMgr']]],
@@ -570,7 +570,7 @@ var searchData=
   ['rotfaceheightcheck_567',['RotfaceHeightCheck',['../d3/d23/structRotfaceHeightCheck.html#aabdeaee465989c339fc7a3f186e20498',1,'RotfaceHeightCheck']]],
   ['roundtointerval_568',['RoundToInterval',['../d1/dc8/Util_8h.html#a84e98a12a0efa843299aabfa2e8e96cd',1,'Util.h']]],
   ['rpos_569',['rpos',['../da/d07/classByteBuffer.html#a7077cbe8c1b3983a4f3faa4b1f61af29',1,'ByteBuffer::rpos() const'],['../da/d07/classByteBuffer.html#ab79d655f99fa581903b95229a424a608',1,'ByteBuffer::rpos(std::size_t rpos_)']]],
-  ['run_570',['run',['../dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe',1,'Acore::Asio::IoContext::run()'],['../d5/d27/classAcore_1_1Runnable.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9',1,'Acore::Runnable::run()'],['../dc/d4a/classAuctionHouseWorkerThread.html#a78eb3d86cdb1f7590af5a5f54ac97b6a',1,'AuctionHouseWorkerThread::Run()'],['../d5/d87/classNetworkThread.html#a68eb944ab6990a10c0f018b98fe27a19',1,'NetworkThread::Run()']]],
+  ['run_570',['run',['../dc/d4a/classAuctionHouseWorkerThread.html#a78eb3d86cdb1f7590af5a5f54ac97b6a',1,'AuctionHouseWorkerThread::Run()'],['../d5/d87/classNetworkThread.html#a68eb944ab6990a10c0f018b98fe27a19',1,'NetworkThread::Run()'],['../dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe',1,'Acore::Asio::IoContext::run()'],['../d5/d27/classAcore_1_1Runnable.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9',1,'Acore::Runnable::run()']]],
   ['runrunicsmash_571',['RunRunicSmash',['../d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a324328498de2474134ccbee2be129573',1,'boss_thorim_runic_colossus::boss_thorim_runic_colossusAI']]],
   ['runsmartaiscripts_572',['RunSmartAIScripts',['../d3/d92/classGameEventMgr.html#a83691a873d7652ad358f5ef39183746b',1,'GameEventMgr']]]
 ];

@@ -1,5 +1,7 @@
 var NAVTREEINDEX184 =
 {
+"d7/d02/boss__pathaleon__the__calculator_8cpp.html#a16774215bba3b38580ea51987d64cff1a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,3,4,2,4],
+"d7/d02/boss__pathaleon__the__calculator_8cpp.html#a16774215bba3b38580ea51987d64cff1ac90d9311ef3cf3f33564ce22ff904f54":[7,0,0,0,1,3,7,5,3,4,2,3],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,5,3,4,2,2],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html#a16774215bba3b38580ea51987d64cff1ad2203e884b912476a5ff5394ec266b2c":[7,0,0,0,1,3,7,5,3,4,2,6],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html#a2e665df314fe7e938001d554a84a6597":[7,0,0,0,1,3,7,5,3,4,4],
@@ -89,16 +91,16 @@ var NAVTREEINDEX184 =
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[7,0,0,0,1,2,38,0,14,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,1,7,2],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,108,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,1,108,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX184 =
 "d7/d0e/classspell__spawn__blood__pool.html":[6,0,3862],
 "d7/d0e/classspell__spawn__blood__pool.html#a47d6dbe250410458fe54421158545efb":[6,0,3862,0],
 "d7/d0e/classspell__spawn__blood__pool.html#aa037240eae1a1dd2c2670fed7dcc4e8c":[6,0,3862,2],
-"d7/d0e/classspell__spawn__blood__pool.html#ae2334b3fcfa916eb4b9ae1ca85a9687e":[6,0,3862,1],
-"d7/d0e/structPassengerInfo.html":[6,0,2379],
-"d7/d0e/structPassengerInfo.html#a037411c58c414d0c5a39915b7acd578d":[6,0,2379,2]
+"d7/d0e/classspell__spawn__blood__pool.html#ae2334b3fcfa916eb4b9ae1ca85a9687e":[6,0,3862,1]
 };
