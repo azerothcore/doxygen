@@ -1531,5 +1531,6 @@ var searchData=
   ['lt_5fcyrillic_1528',['LT_CYRILLIC',['../d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402',1,'ObjectMgr.cpp']]],
   ['lt_5feast_5fasia_1529',['LT_EAST_ASIA',['../d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40',1,'ObjectMgr.cpp']]],
   ['lt_5fextenden_5flatin_1530',['LT_EXTENDEN_LATIN',['../d8/dd8/ObjectMgr_8cpp.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8',1,'ObjectMgr.cpp']]],
-  ['lua_5feval_5fcheck_1531',['LUA_EVAL_CHECK',['../d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada',1,'Warden.h']]]
+  ['lua_5feval_5fcheck_1531',['LUA_EVAL_CHECK',['../d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada',1,'Warden.h']]],
+  ['lunar_5fnew_5fyear_1532',['LUNAR_NEW_YEAR',['../d6/d39/HolidayDateCalculator_8h.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5',1,'HolidayDateCalculator.h']]]
 ];

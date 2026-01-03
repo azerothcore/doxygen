@@ -2419,6 +2419,8 @@ var hierarchy =
     [ "SpellScript::HitHandler", "d1/d86/classSpellScript_1_1HitHandler.html", null ],
     [ "Spell::HitTriggerSpell", "df/dc5/structSpell_1_1HitTriggerSpell.html", null ],
     [ "HodirHelperData", "df/dc0/structHodirHelperData.html", null ],
+    [ "HolidayDateCalculator", "d3/db5/classHolidayDateCalculator.html", null ],
+    [ "HolidayRule", "d6/d23/structHolidayRule.html", null ],
     [ "HolidaysEntry", "d6/d35/structHolidaysEntry.html", null ],
     [ "HomeMovementGenerator< T >", "dd/dde/classHomeMovementGenerator.html", null ],
     [ "HookList< T >", "d8/d8e/classHookList.html", null ],
@@ -4626,7 +4628,8 @@ var hierarchy =
     [ "testing::Test", null, [
       [ "ArenaSeasonRewardDistributorTest", "d5/d6e/classArenaSeasonRewardDistributorTest.html", null ],
       [ "ArenaTeamFilterTest", "d8/dd2/classArenaTeamFilterTest.html", null ],
-      [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ]
+      [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ],
+      [ "HolidayDateCalculatorTest", "d5/d72/classHolidayDateCalculatorTest.html", null ]
     ] ],
     [ "tf_tower_world_state", "dd/d26/structtf__tower__world__state.html", null ],
     [ "Acore::Thread", "db/d4a/classAcore_1_1Thread.html", null ],

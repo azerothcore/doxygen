@@ -78,7 +78,6 @@ var WorldDatabase_8h =
       [ "WORLD_SEL_GAME_EVENT_BATTLEGROUND_DATA", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ab64c61f5639ce6184a229082af081298", null ],
       [ "WORLD_SEL_GAME_EVENT_POOL_DATA", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a8d860c75e03c21eeab99443cd77212c9", null ],
       [ "WORLD_SEL_GAME_EVENT_ARENA_SEASON", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32adaa0edc3e33690b08bf46730da239d5a", null ],
-      [ "WORLD_SEL_GAME_EVENT_HOLIDAY_DATES", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32af08a725a8652cb4ea7c7f198b8a0e1c6", null ],
       [ "WORLD_DEL_GAME_EVENT_CREATURE", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32aae9eeefe6d0a0ccea0196ca1c8501869", null ],
       [ "WORLD_DEL_GAME_EVENT_MODEL_EQUIP", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a2a26e44cd436a324652ef57a204f7fa7", null ],
       [ "WORLD_SEL_GAME_EVENT_NPC_VENDOR", "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a407c46bd315d756424f11282a91638de", null ],
