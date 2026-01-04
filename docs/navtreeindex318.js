@@ -1,5 +1,7 @@
 var NAVTREEINDEX318 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a74ba8b4c18b9c6237dced9bd57e6fca3":[7,0,0,0,1,3,2,17,49],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a78299b9cdd3e783b3f231a9dda40a7b4":[7,0,0,0,1,3,2,17,108],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a7a3a1617870dd5be1d8b53b0050691dc":[7,0,0,0,1,3,2,17,143],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a7bd8356be730809dff3c6afd8891c780":[7,0,0,0,1,3,2,17,94],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a80a0058a4b8d5de978d9d5fb736a0998":[7,0,0,0,1,3,2,17,82],
@@ -247,7 +249,5 @@ var NAVTREEINDEX318 =
 "dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5afe8ded371b5e366b0dfdb77c2ec3eb11":[7,0,0,0,1,3,3,1,33,1],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8":[7,0,0,0,1,3,3,1,32],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a0eadd178341893fb53ddcc9d835b191f":[7,0,0,0,1,3,3,1,32,2],
-"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a12b83bc54e5cd1250dc5c24578af5c68":[7,0,0,0,1,3,3,1,32,0],
-"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a3365c4940364c71cdecd3455f1fcaaa9":[7,0,0,0,1,3,3,1,32,7],
-"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a4288e74f4fd3978d4af9ada35238fd81":[7,0,0,0,1,3,3,1,32,6]
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a12b83bc54e5cd1250dc5c24578af5c68":[7,0,0,0,1,3,3,1,32,0]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX188 =
 {
+"d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[6,0,2083,2],
+"d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[6,0,2083,1],
 "d7/d34/AddonMgr_8h.html":[7,0,0,0,1,2,2,1],
 "d7/d34/AddonMgr_8h.html#a084249e215f787f3163d5d06ad2d256f":[7,0,0,0,1,2,2,1,3],
 "d7/d34/AddonMgr_8h.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[7,0,0,0,1,2,2,1,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d40/forge__of__souls_8h.html#a47421a3de8aa4a061c0d6f93e46a475e":[7,0,0,0,1,3,5,4,0,3,8],
 "d7/d40/forge__of__souls_8h.html#a5e53249f20085a0a3fa19bdb577ee3c0":[7,0,0,0,1,3,5,4,0,3,3],
 "d7/d40/forge__of__souls_8h.html#ad15f4591edb3d3ae386b206de5dc4aa7":[7,0,0,0,1,3,5,4,0,3,6],
-"d7/d40/forge__of__souls_8h.html#ad21937fd84650fa779a140f25c64578c":[7,0,0,0,1,3,5,4,0,3,7],
-"d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,5,4,0,3,5],
-"d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4b59c780af059481cef282a4a633787c":[7,0,0,0,1,3,5,4,0,3,5,0]
+"d7/d40/forge__of__souls_8h.html#ad21937fd84650fa779a140f25c64578c":[7,0,0,0,1,3,5,4,0,3,7]
 };

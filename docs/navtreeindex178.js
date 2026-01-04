@@ -1,7 +1,9 @@
 var NAVTREEINDEX178 =
 {
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,10,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[6,0,12,10,4],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,32,10,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,32,10,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,10,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[6,0,12,10,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,32,10,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,32,10,4,3],
@@ -137,10 +139,10 @@ var NAVTREEINDEX178 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2287,0,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,12,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,32,6,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,32,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,12,6,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,32,6,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,32,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,12,6,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,32,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,12,6,22,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,32,6,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1894],
@@ -236,8 +238,8 @@ var NAVTREEINDEX178 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX178 =
 "d6/dba/classinstance__azjol__nerub.html#a8bb8477669c6369afe508a400bd4d489":[6,0,1292,2],
 "d6/dba/classinstance__oculus.html":[6,0,1325],
 "d6/dba/classinstance__oculus.html#a404205ea7106531ea57307c40b9589bb":[6,0,1325,1],
-"d6/dba/classinstance__oculus.html#ae6d28dfd615e79d4308e4384b7c8857f":[6,0,1325,2],
-"d6/dba/midsummer_8cpp.html":[7,0,0,0,1,3,3,6],
-"d6/dba/midsummer_8cpp.html#a062653dfa3661348a9ceb6f304df9d22":[7,0,0,0,1,3,3,6,28]
+"d6/dba/classinstance__oculus.html#ae6d28dfd615e79d4308e4384b7c8857f":[6,0,1325,2]
 };

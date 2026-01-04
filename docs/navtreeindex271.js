@@ -1,5 +1,7 @@
 var NAVTREEINDEX271 =
 {
+"da/de5/structboss__high__king__maulgar.html":[6,0,535],
+"da/de5/structboss__high__king__maulgar.html#a2059016597039929103c053d6524ebf7":[6,0,535,4],
 "da/de5/structboss__high__king__maulgar.html#a210e9c3d42e9201b9fbee0d7776cbcc5":[6,0,535,1],
 "da/de5/structboss__high__king__maulgar.html#a306f8492d83703b339a8fbe044e0cbbd":[6,0,535,7],
 "da/de5/structboss__high__king__maulgar.html#a6ad48aba60a01df62c1ae62e6480a14d":[6,0,535,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX271 =
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a4c2d17bd45e71eaab3ddbf60c378754b":[7,0,0,0,1,3,5,2,1,7,5,47],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a50039b777364c63e9ed7aa2d59bde5e0":[7,0,0,0,1,3,5,2,1,7,5,8],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a518bd5eb0d32adbff6da21d82071f2fa":[7,0,0,0,1,3,5,2,1,7,5,32],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0":[7,0,0,0,1,3,5,2,1,7,5,14],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a618f48798929cb137d5a22ff73defc40":[7,0,0,0,1,3,5,2,1,7,5,36],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a629c73887e129e9e4a810f38f55a3aad":[7,0,0,0,1,3,5,2,1,7,5,10]
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0":[7,0,0,0,1,3,5,2,1,7,5,14]
 };

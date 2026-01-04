@@ -1,5 +1,7 @@
 var NAVTREEINDEX228 =
 {
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[7,0,0,0,1,3,5,9,1,1,3,4],
+"d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a9cfd52b71d003bd58e61a4d460726243":[7,0,0,0,1,3,5,9,1,1,3,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2aa72868934321874de1c41bcf61e330d5":[7,0,0,0,1,3,5,9,1,1,3,2],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2acd7915601fc0b67e8d5acf3a6694f7fc":[7,0,0,0,1,3,5,9,1,1,3,0],
 "d8/de5/boss__maiden__of__grief_8cpp.html#aea422c10a74cba6e6b02928aed3498fa":[7,0,0,0,1,3,5,9,1,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX228 =
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a29bb773b8271acf651b08f33ce358720":[6,0,290,5,0],
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a519489b8d951173a806e86cfe075faf1":[6,0,290,5,2],
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a56bfb0fd0d860678920445d1182c09ef":[6,0,290,5,1],
-"d8/df6/classspell__gen__clone__weapon.html":[6,0,2946],
-"d8/df6/classspell__gen__clone__weapon.html#a4ba7f7935c4acda891190dc375086dee":[6,0,2946,1],
-"d8/df6/classspell__gen__clone__weapon.html#ab3f415ae783f2a778178cc3319b32773":[6,0,2946,0]
+"d8/df6/classspell__gen__clone__weapon.html":[6,0,2946]
 };

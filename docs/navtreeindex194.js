@@ -1,5 +1,7 @@
 var NAVTREEINDEX194 =
 {
+"d7/d87/structnpc__snowfall__glade__playmate.html#ac3d736f2cd62289b88940e0a6ddcd957":[6,0,2129,7],
+"d7/d87/structnpc__snowfall__glade__playmate.html#ad9bdbee8ec178b0a6c7ff125dc698279":[6,0,2129,4],
 "d7/d88/AuthHandler_8cpp.html":[7,0,0,0,1,2,22,4],
 "d7/d88/classspell__thaddius__pos__neg__charge.html":[6,0,3900],
 "d7/d88/classspell__thaddius__pos__neg__charge.html#a149db071722ce12cded16087c8eec1df":[6,0,3900,2],
@@ -177,8 +179,8 @@ var NAVTREEINDEX194 =
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html":[5,0,1,2,0],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[5,0,1,2,0,3],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a3530d83607efda9b3f50a61959da3267":[6,0,0,1,0,3],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[6,0,0,1,0,8],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[5,0,1,2,0,8],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a63bb52a0619ceef7b1af1b97d52a7373":[6,0,0,1,0,8],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[6,0,0,1,0,4],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a6b77a74762705e00d73b751a5f947e05":[5,0,1,2,0,4],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a73dd0adf980c5c3d2e272f9709ece880":[5,0,1,2,0,1],
@@ -187,12 +189,12 @@ var NAVTREEINDEX194 =
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#a844e7f79db885f3076958b0e6d423b4e":[5,0,1,2,0,7],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[6,0,0,1,0,2],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#aae4efee3e6e7d403b0c6f5d484814b81":[5,0,1,2,0,2],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abc0041bef0d0171b54acbdcf6b18f611":[5,0,1,2,0,6],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abc0041bef0d0171b54acbdcf6b18f611":[6,0,0,1,0,6],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abffff20cfe5d5b3936ac345c5082258f":[5,0,1,2,0,5],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abc0041bef0d0171b54acbdcf6b18f611":[5,0,1,2,0,6],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abffff20cfe5d5b3936ac345c5082258f":[6,0,0,1,0,5],
-"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#ad430aafb433483e30d12567e7e8c2915":[6,0,0,1,0,0],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#abffff20cfe5d5b3936ac345c5082258f":[5,0,1,2,0,5],
 "d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#ad430aafb433483e30d12567e7e8c2915":[5,0,1,2,0,0],
+"d7/d91/structAcore_1_1ChatCommands_1_1AccountIdentifier.html#ad430aafb433483e30d12567e7e8c2915":[6,0,0,1,0,0],
 "d7/d91/structAcore_1_1Impl_1_1CryptoGenericsImpl.html":[6,0,0,5,4],
 "d7/d91/structAcore_1_1Impl_1_1CryptoGenericsImpl.html":[5,0,1,8,4],
 "d7/d91/structAcore_1_1Impl_1_1CryptoGenericsImpl.html#a631dbb5771929cb72bd090e3ced49523":[6,0,0,5,4,0],
@@ -209,8 +211,8 @@ var NAVTREEINDEX194 =
 "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#a11cf7780eba530026a0898bfafd27109":[5,0,32,11,7,1],
 "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#aa2b125a271228aee0d942a207de170b7":[5,0,32,11,7,0],
 "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#aa2b125a271228aee0d942a207de170b7":[6,0,12,11,7,0],
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#adfca5feb5be2408e489edc44e9cd215b":[6,0,12,11,7,2],
 "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#adfca5feb5be2408e489edc44e9cd215b":[5,0,32,11,7,2],
+"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#adfca5feb5be2408e489edc44e9cd215b":[6,0,12,11,7,2],
 "d7/d94/classspell__despawn__underbog__mushrooms.html":[6,0,2750],
 "d7/d94/classspell__despawn__underbog__mushrooms.html#a217953fda43e2c3abdd0d24ddbabc75d":[6,0,2750,1],
 "d7/d94/classspell__despawn__underbog__mushrooms.html#a6b9e449a64747f0a5715424295b1c30f":[6,0,2750,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX194 =
 "d7/d95/classPoolMgr.html#a4cbd63e0d097cc082564573ab95483fc":[6,0,2433,18],
 "d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc":[6,0,2433,33],
 "d7/d95/classPoolMgr.html#a63e539c56e7a2a855c43e2fc25ba23e1":[6,0,2433,8],
-"d7/d95/classPoolMgr.html#a6522862f3c90e9e3ebd8cd3944eaf76e":[6,0,2433,21],
-"d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de":[6,0,2433,35],
-"d7/d95/classPoolMgr.html#a6c706da327a2601c6114e901725948e8":[6,0,2433,17]
+"d7/d95/classPoolMgr.html#a6522862f3c90e9e3ebd8cd3944eaf76e":[6,0,2433,21]
 };

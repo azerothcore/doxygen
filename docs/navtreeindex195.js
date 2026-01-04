@@ -1,5 +1,7 @@
 var NAVTREEINDEX195 =
 {
+"d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de":[6,0,2433,35],
+"d7/d95/classPoolMgr.html#a6c706da327a2601c6114e901725948e8":[6,0,2433,17],
 "d7/d95/classPoolMgr.html#a6cc2ca0252a1feaf2e997da3bed8472d":[6,0,2433,1],
 "d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98":[6,0,2433,32],
 "d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47":[6,0,2433,38],
@@ -247,7 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9a/structboss__romulo.html#af8bff3f1c107dc7d8beae7956a25fbcc":[6,0,681,6],
 "d7/d9b/SignalHandler_8h.html":[7,0,0,0,0,15,23],
 "d7/d9c/pet__dk_8cpp.html":[7,0,0,0,1,3,8,0],
-"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499":[7,0,0,0,1,3,8,0,6],
-"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a2fdf938edf5866750c211e24220b701b":[7,0,0,0,1,3,8,0,6,7],
-"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499a5189df5fecf5b13ddd4039be46a59c4a":[7,0,0,0,1,3,8,0,6,1]
+"d7/d9c/pet__dk_8cpp.html#a70990262974db7bc1730b177eb17a499":[7,0,0,0,1,3,8,0,6]
 };

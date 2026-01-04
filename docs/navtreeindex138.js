@@ -1,5 +1,7 @@
 var NAVTREEINDEX138 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a070504665b09e91e357c9205a756fdc2":[6,0,112,2],
+"d4/dd8/structAchievementCriteriaData.html#a07da96f5bb260a0ca7808a9bc56d9fef":[6,0,112,39],
 "d4/dd8/structAchievementCriteriaData.html#a08e10f1ca32d16e31df25267882a650f":[6,0,112,16],
 "d4/dd8/structAchievementCriteriaData.html#a0bb28562878237fe2bb5249ffddaf89a":[6,0,112,44],
 "d4/dd8/structAchievementCriteriaData.html#a0d3fc06f57718915428227a946c018af":[6,0,112,10],
@@ -192,8 +194,8 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1048,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,19],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,19,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,19,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1896,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1896,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1896,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX138 =
 "d4/dde/classnpc__elder__clearwater.html#aae382c0a386b8bacd39c6e7a586519e4":[6,0,1765,3],
 "d4/dde/classnpc__elder__clearwater.html#abeee1650938a71762bb0c148ea9834d1":[6,0,1765,1],
 "d4/dde/classspell__dk__rune__tap__party.html":[6,0,2794],
-"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[6,0,2794,1],
-"d4/dde/classspell__dk__rune__tap__party.html#abb6ffb41731b05b868f82498b373d8b9":[6,0,2794,0],
-"d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[6,0,2794,2]
+"d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[6,0,2794,1]
 };

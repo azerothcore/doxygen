@@ -1,5 +1,7 @@
 var NAVTREEINDEX173 =
 {
+"d6/d6b/classspell__mage__ignite.html#a8a3abd528fda4aab149fb7f6e5eae00d":[6,0,3439,4],
+"d6/d6b/classspell__mage__ignite.html#ad08915b0c7f35bef76ddd05a62add43c":[6,0,3439,2],
 "d6/d6b/structnpc__sunblade__scout.html":[6,0,2152],
 "d6/d6b/structnpc__sunblade__scout.html#a753f7fbbea33f7fc49f5d6e733a8f833":[6,0,2152,6],
 "d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[6,0,2152,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX173 =
 "d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aa":[7,0,0,0,1,3,2,1,0,8,2],
 "d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb":[7,0,0,0,1,3,2,1,0,8,2,0],
 "d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,1,0,8,2,1],
-"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63":[7,0,0,0,1,3,2,1,0,8,2,2],
-"d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[7,0,0,0,1,3,2,1,0,8,3],
-"d6/d76/classspell__dk__improved__blood__presence.html":[6,0,2782]
+"d6/d76/boss__grizzle_8cpp.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63":[7,0,0,0,1,3,2,1,0,8,2,2]
 };

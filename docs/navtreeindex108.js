@@ -1,5 +1,7 @@
 var NAVTREEINDEX108 =
 {
+"d3/dbe/structboss__warchief__kargath__bladefist.html":[6,0,779],
+"d3/dbe/structboss__warchief__kargath__bladefist.html#a0957dbfd6c085575fa862f38c87b6b3d":[6,0,779,0],
 "d3/dbe/structboss__warchief__kargath__bladefist.html#a1397317259589ea69f77f52f60852043":[6,0,779,9],
 "d3/dbe/structboss__warchief__kargath__bladefist.html#a325da34f78d202708a58c1a543ecb8ca":[6,0,779,10],
 "d3/dbe/structboss__warchief__kargath__bladefist.html#a436b90336c90f6662f3ce704a62f0d90":[6,0,779,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX108 =
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71abac66c2f574cd7728a4193759ade6e3356":[7,0,0,0,1,2,8,10,15,12],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71abac7d8eafe650abf803211ec5516f17c1f":[7,0,0,0,1,2,8,10,15,4],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71abad6332382dcbeb601482a2babda47b2b0":[7,0,0,0,1,2,8,10,15,6],
-"d3/dcf/Battleground_8h.html#a22ef753dc47cec4d75acf478859d4f12":[7,0,0,0,1,2,8,10,19],
-"d3/dcf/Battleground_8h.html#a22ef753dc47cec4d75acf478859d4f12a04f42258da1a4d222bcc8c6593e5bafe":[7,0,0,0,1,2,8,10,19,0],
-"d3/dcf/Battleground_8h.html#a22ef753dc47cec4d75acf478859d4f12a1bc6c82fd6cb32833d086fdc289276e4":[7,0,0,0,1,2,8,10,19,2]
+"d3/dcf/Battleground_8h.html#a22ef753dc47cec4d75acf478859d4f12":[7,0,0,0,1,2,8,10,19]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX341 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a93d3c0aa673ef405062b10b99b5b0f68":[7,0,0,0,1,3,5,19,21,7],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a942902449244f40dbe31e3aede7da07d":[7,0,0,0,1,3,5,19,21,14],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec":[7,0,0,0,1,3,5,19,21,1],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8ac9851e1644bf34924fc12e14ab97ade3":[7,0,0,0,1,3,5,19,21,15],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab6a9d4aa08c7d298acf5950f5b97e0b3":[7,0,0,0,1,3,5,19,27],
@@ -97,10 +99,10 @@ var NAVTREEINDEX341 =
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,2987,3],
 "dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,2987,1],
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2987,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
@@ -158,14 +160,14 @@ var NAVTREEINDEX341 =
 "dd/ded/structboss__twin__valkyrAI.html#ae49793079dbec2dbe5e807f998705b20":[6,0,755,10],
 "dd/ded/structboss__twin__valkyrAI.html#aea878cd12d640ce4e3d87deb85c20b9f":[6,0,755,11],
 "dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[6,0,755,6],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,12,11,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[5,0,32,11,4],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,12,11,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,32,11,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[6,0,12,11,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,32,11,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[6,0,12,11,4,2],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,32,11,4,1],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,12,11,4,1],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,32,11,4,1],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html":[6,0,3209],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a08be3cb2bef2f4697b7e258b231bd35b":[6,0,3209,3],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a0d8d042e6e9bf8fd26b6f283f6da6194":[6,0,3209,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX341 =
 "dd/df6/classLootValidatorRefMgr.html#ad61defd77296790a6c5d0a43bacbbe4b":[6,0,1462,2],
 "dd/df6/classLootValidatorRefMgr.html#ae47bba95a17db31a42231da948245387":[6,0,1462,3],
 "dd/df6/classLootValidatorRefMgr.html#aee3a4701c5bc51f4028fe53f18675989":[6,0,1462,1],
-"dd/df6/classLootValidatorRefMgr.html#af68f1d93a80e13976798dfed0063a1e4":[6,0,1462,5],
-"dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html":[6,0,910],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[6,0,0,6]
+"dd/df6/classLootValidatorRefMgr.html#af68f1d93a80e13976798dfed0063a1e4":[6,0,1462,5]
 };

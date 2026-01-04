@@ -1,5 +1,7 @@
 var NAVTREEINDEX297 =
 {
+"db/de9/classboss__thorim__pillar.html#af95d5e819292af9b54a022674b74af70":[6,0,743,2],
+"db/de9/classspell__pursue.html":[6,0,3612],
 "db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3612,0],
 "db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[6,0,3612,2],
 "db/de9/classspell__pursue.html#aef8bfe18b42bcc9ad70378c0d78354e7":[6,0,3612,1],
@@ -155,14 +157,14 @@ var NAVTREEINDEX297 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1529,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1529,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1529,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,32,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,12,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,32,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,32,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,32,6,2,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,32,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,32,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,32,6,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3196],
@@ -247,7 +249,5 @@ var NAVTREEINDEX297 =
 "db/df2/structGossipMenuItems.html#a6e5b1b2c86bd05b81626a7230349be9a":[6,0,1212,7],
 "db/df2/structGossipMenuItems.html#a6f41e9adfcb11adabdd79b55c1d47bfc":[6,0,1212,11],
 "db/df2/structGossipMenuItems.html#a9a20a64e29d0464c40f57286b9c1804d":[6,0,1212,1],
-"db/df2/structGossipMenuItems.html#aa1632404bbc869b17dab8833f660c52b":[6,0,1212,6],
-"db/df2/structGossipMenuItems.html#ab00c368181ccaba98e878d49de6138e2":[6,0,1212,4],
-"db/df2/structGossipMenuItems.html#ad794b3c4e84dedce43ff2c80d3c38d4a":[6,0,1212,5]
+"db/df2/structGossipMenuItems.html#aa1632404bbc869b17dab8833f660c52b":[6,0,1212,6]
 };

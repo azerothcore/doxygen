@@ -1,5 +1,7 @@
 var NAVTREEINDEX124 =
 {
+"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da77c25670e8abde940a06ab8ab2b9217c":[7,0,0,0,1,3,5,10,0,1,7,1],
+"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,10,0,1,7,5],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da913b7d8153db9f52e555fd5207363876":[7,0,0,0,1,3,5,10,0,1,7,0],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5daa2ffab3f2903b69cf4de331c0dd4a7bc":[7,0,0,0,1,3,5,10,0,1,7,3],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5dab2694a03dd1e0c46c17500ebe13dcf45":[7,0,0,0,1,3,5,10,0,1,7,2],
@@ -229,14 +231,14 @@ var NAVTREEINDEX124 =
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a038a827f7fe179ff56ab581efdf08790":[6,0,2902,0],
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a6018f3a74a1b61042bb0ff6c02b76611":[6,0,2902,2],
 "d4/d58/classspell__frostwarden__handler__focus__fire.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd":[6,0,2902,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[5,0,1,8,0,15],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[6,0,0,5,0,15],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[5,0,1,8,0,15,0],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html":[5,0,1,8,0,15],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[6,0,0,5,0,15,0],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[5,0,1,8,0,15,0],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[6,0,0,5,0,15,1],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[5,0,1,8,0,15,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,1,8,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[6,0,0,5,0,15,4],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,1,8,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,1,8,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[6,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[5,0,1,8,0,15,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX124 =
 "d4/d59/classspell__blood__queen__pact__of__the__darkfallen.html":[6,0,2673],
 "d4/d59/classspell__blood__queen__pact__of__the__darkfallen.html#a7abb4397b5fcf956bf31fa4dc9960ece":[6,0,2673,0],
 "d4/d59/classspell__blood__queen__pact__of__the__darkfallen.html#a8e9d81b34e05506569f4b910c1958de3":[6,0,2673,1],
-"d4/d59/classspell__blood__queen__pact__of__the__darkfallen.html#aa80980c3f68abcb0fac7a41172f70012":[6,0,2673,2],
-"d4/d59/classspell__gen__yehkinya__bramble.html":[6,0,3063],
-"d4/d59/classspell__gen__yehkinya__bramble.html#a7478d96ac24bc4b70a10bc83335c9b76":[6,0,3063,0]
+"d4/d59/classspell__blood__queen__pact__of__the__darkfallen.html#aa80980c3f68abcb0fac7a41172f70012":[6,0,2673,2]
 };

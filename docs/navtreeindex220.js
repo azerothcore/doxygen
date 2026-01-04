@@ -1,5 +1,7 @@
 var NAVTREEINDEX220 =
 {
+"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a5d00583afa4e811e4f3cb8400787a990":[6,0,1905,0,5],
+"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a69b395a9b9504737109870c5e8db74c8":[6,0,1905,0,3],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ab40287c6bfc67b09bf7336ea53116cab":[6,0,1905,0,2],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#ac7132ac84a64bccbcf8895cbc4a86f9c":[6,0,1905,0,1],
 "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#af4b8c80e7443bb671be253238b124910":[6,0,1905,0,4],
@@ -169,12 +171,12 @@ var NAVTREEINDEX220 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4256,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4256,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4256,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,12,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,32,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,12,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,12,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,32,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,12,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,12,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,32,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,12,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,573],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,573,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,573,2],
@@ -246,8 +248,6 @@ var NAVTREEINDEX220 =
 "d8/d91/namespaceAcore_1_1XP.html#a9c310a4423fd5ada14fac549e4b1a6fd":[5,0,1,17,3],
 "d8/d91/namespaceAcore_1_1XP.html#ab923dd9a0df7d75127965b40539d4a10":[5,0,1,17,1],
 "d8/d91/namespaceAcore_1_1XP.html#ada8e56c81ab672d85f2ff274d109e477":[5,0,1,17,0],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,1,8,0,22],
 "d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[6,0,0,5,0,22],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[6,0,0,5,0,22,8],
-"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html#a0c64270cd18f8988997882ceb3e10184":[5,0,1,8,0,22,8]
+"d8/d91/structAcore_1_1Impl_1_1ChatCommands_1_1FilteredCommandListIterator.html":[5,0,1,8,0,22]
 };

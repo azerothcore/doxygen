@@ -1,5 +1,7 @@
 var NAVTREEINDEX311 =
 {
+"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#aec1d16cdcb7d86d7de4de10ca34f491d":[6,0,2197,0,3],
+"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#aefaa41a92000d8915853988ce3fd5bc4":[6,0,2197,0,2],
 "dc/d78/classBattlegroundAB.html":[6,0,317],
 "dc/d78/classBattlegroundAB.html#a0a5e9c6942ab421be303e84c0a8c20c8":[6,0,317,26],
 "dc/d78/classBattlegroundAB.html#a0bbc64eabc2bd3352e04008f06efda28":[6,0,317,10],
@@ -213,8 +215,8 @@ var NAVTREEINDEX311 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,2004,0,8],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#afc066ae0c6d370f6632408b08de3c3bb":[6,0,2004,0,9],
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370":[7,0,0,0,1,2,16,5,0,1,2,1],
 "dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f":[7,0,0,0,1,2,16,5,0,1,2,3],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9e":[7,0,0,0,1,2,16,5,0,1,1],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632":[7,0,0,0,1,2,16,5,0,1,1,6],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a":[7,0,0,0,1,2,16,5,0,1,1,10],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b":[7,0,0,0,1,2,16,5,0,1,1,9]
+"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632":[7,0,0,0,1,2,16,5,0,1,1,6]
 };

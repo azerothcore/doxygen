@@ -1,5 +1,7 @@
 var NAVTREEINDEX202 =
 {
+"d7/db0/classMap.html#a466d8c86e43fa27805ef7133e0d1bdfa":[6,0,1480,98],
+"d7/db0/classMap.html#a47a77c5d24898011293372e4e17e8be8":[6,0,1480,194],
 "d7/db0/classMap.html#a47f4831d0426fda93b1384779cd6d9bb":[6,0,1480,260],
 "d7/db0/classMap.html#a47f9d54c257dbad88ea8cc07ad9d7668":[6,0,1480,144],
 "d7/db0/classMap.html#a4917c2e55b20d33ce396db365f0646ff":[6,0,1480,253],
@@ -247,7 +249,5 @@ var NAVTREEINDEX202 =
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#abc6db76c9dcdbdb1c51b7f67d4c39551":[6,0,573,0,3],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ac8a2297a89310f4902fdc544ef71b673":[6,0,573,0,6],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#acd08aa78c1620f5552bbbc77c06b4344":[6,0,573,0,2],
-"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ad60ec485144e447fd9d43b0cd5d6c87c":[6,0,573,0,9],
-"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#addeb3112e8b6da5713e6c25878c7e785":[6,0,573,0,0],
-"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ae6e2b0dd529f819b5b62348059dacb02":[6,0,573,0,1]
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ad60ec485144e447fd9d43b0cd5d6c87c":[6,0,573,0,9]
 };

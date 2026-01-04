@@ -1,5 +1,7 @@
 var NAVTREEINDEX394 =
 {
+"df/da2/Battlefield_8h.html#af5e231859535c4e1e6bd27ee42753f63":[7,0,0,0,1,2,7,2,10],
+"df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798":[7,0,0,0,1,2,7,2,6],
 "df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5":[7,0,0,0,1,2,7,2,6,4],
 "df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f":[7,0,0,0,1,2,7,2,6,3],
 "df/da2/Battlefield_8h.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29":[7,0,0,0,1,2,7,2,6,2],
@@ -68,10 +70,10 @@ var NAVTREEINDEX394 =
 "df/da5/classspell__ice__spear__control__aura.html#ae1479b53d8c0575947a7ce7cae4747c4":[6,0,3177,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[6,0,12,1,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html":[5,0,32,1,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,12,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[5,0,32,1,0,1],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[6,0,12,1,0,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,12,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,32,1,0,0],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[6,0,12,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,32,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,12,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[6,0,3079],
@@ -247,7 +249,5 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#a9e2bbc0cf8fe25b492486503fbe8d673":[6,0,316,73],
 "df/da7/classBattleground.html#a9ed3c1748a4cea2b55861590d2b8d8c8":[6,0,316,208],
 "df/da7/classBattleground.html#a9f51cb528f0b27332a9d8f7090ab4df4":[6,0,316,52],
-"df/da7/classBattleground.html#a9f9d0e1b5a2acb5467c91d5ebaf2c022":[6,0,316,83],
-"df/da7/classBattleground.html#aa032e84ac5693c0a4f7bbc51ab89e7ff":[6,0,316,248],
-"df/da7/classBattleground.html#aa086c460693a9771645e79d5f69d9efa":[6,0,316,165]
+"df/da7/classBattleground.html#a9f9d0e1b5a2acb5467c91d5ebaf2c022":[6,0,316,83]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX363 =
 {
+"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1":[7,0,0,0,1,2,15,5,31,2],
+"de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e":[7,0,0,0,1,2,15,5,13],
 "de/d3d/LFGMgr_8h.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4":[7,0,0,0,1,2,15,5,26],
 "de/d3d/LFGMgr_8h.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4a2da0374b926d52fc4a54f885012b3d29":[7,0,0,0,1,2,15,5,26,2],
 "de/d3d/LFGMgr_8h.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4a7562dd100ff7354498faee335023753d":[7,0,0,0,1,2,15,5,26,3],
@@ -188,10 +190,10 @@ var NAVTREEINDEX363 =
 "de/d4a/classspell__brewfest__toss__mug.html#aab9211291bd9dab8255d94e4eb07bf8e":[6,0,2696,4],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html":[6,0,6,9],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html":[5,0,20,9],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[6,0,6,9,3],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[5,0,20,9,3],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[6,0,6,9,10],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[6,0,6,9,3],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[5,0,20,9,10],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[6,0,6,9,10],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00":[5,0,20,9,5],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00":[6,0,6,9,5],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a3513a1b33d8682303eae1eaa30615a07":[5,0,20,9,9],
@@ -204,14 +206,14 @@ var NAVTREEINDEX363 =
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[5,0,20,9,8],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[6,0,6,9,1],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[5,0,20,9,1],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[5,0,20,9,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[6,0,6,9,0],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[5,0,20,9,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[6,0,6,9,6],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[5,0,20,9,6],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1":[6,0,6,9,7],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1":[5,0,20,9,7],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[6,0,6,9,11],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[5,0,20,9,11],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[6,0,6,9,11],
 "de/d4a/structboss__fathomguard__tidalvess.html":[6,0,465],
 "de/d4a/structboss__fathomguard__tidalvess.html#a07c887552c8705b52caf9e102788a781":[6,0,465,7],
 "de/d4a/structboss__fathomguard__tidalvess.html#a0ced209c6f22a0bf435a0249a25b15c4":[6,0,465,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX363 =
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a4d66d60d0e129b3a873d0c91c03e02f4":[6,0,734,0,10],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a5b289363b4ac0b2be62a8df7deae8ed7":[6,0,734,0,5],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a787f4d84930767b71b4af9e5092734c4":[6,0,734,0,2],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a80cfbecffa68f9fc42028ebdac0975c4":[6,0,734,0,6],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a94896994f59ab4c38479a5c97742128a":[6,0,734,0,23],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a94f291e9cf428fe2912c666fa49360d8":[6,0,734,0,24]
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a80cfbecffa68f9fc42028ebdac0975c4":[6,0,734,0,6]
 };

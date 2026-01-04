@@ -1,5 +1,7 @@
 var NAVTREEINDEX261 =
 {
+"da/d7e/classMapGrid.html#a951a6c40a13135b7c97344e2ae768878":[6,0,1489,3],
+"da/d7e/classMapGrid.html#aa7f59d7fc8495edd56e249db74eff51e":[6,0,1489,9],
 "da/d7e/classMapGrid.html#aac6ec5cd9e82da228cb04371dec1872e":[6,0,1489,25],
 "da/d7e/classMapGrid.html#ab06fea0242fc3c684fb5cd27ae7f7621":[6,0,1489,22],
 "da/d7e/classMapGrid.html#ab22e3c6e9432cd589cb6665169036ba8":[6,0,1489,13],
@@ -196,12 +198,12 @@ var NAVTREEINDEX261 =
 "da/d82/structDestructibleModelDataEntry.html#afc891df0c9491a34f784e8f141434be5":[6,0,979,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[6,0,12,7,15],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html":[5,0,32,7,15],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,32,7,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[6,0,12,7,15,1],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,32,7,15,0],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a0e3a56488604a59a8da0bb77a1b26681":[5,0,32,7,15,1],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[6,0,12,7,15,0],
-"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[6,0,12,7,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a29700bfeaee0bbfec3700d48c3d37dfd":[5,0,32,7,15,0],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[5,0,32,7,15,3],
+"da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#a2be27cf0fdd4ed6e6b7a9618eebe8914":[6,0,12,7,15,3],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[6,0,12,7,15,2],
 "da/d83/classWorldPackets_1_1Item_1_1SocketGems.html#acd8001a74aa4e2b4b7614c20e4ddfd5a":[5,0,32,7,15,2],
 "da/d83/magtheridons__lair_8h.html":[7,0,0,0,1,3,7,4,2,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX261 =
 "da/d85/boss__kurinnaxx_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,4,8,2,3],
 "da/d85/boss__kurinnaxx_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abfc05272951630bff3a72c686eea4b0f":[7,0,0,0,1,3,4,8,2,3,0],
 "da/d85/classnpc__deaths__door__fell__cannon__target__bunny.html":[6,0,1741],
-"da/d85/classnpc__deaths__door__fell__cannon__target__bunny.html#a1385e50777282fae0c8f8ca2f9f8a3e6":[6,0,1741,1],
-"da/d85/classnpc__deaths__door__fell__cannon__target__bunny.html#a250707096229da28024960beeb7725bf":[6,0,1741,2],
-"da/d85/structboss__morogrim__tidewalker.html":[6,0,631]
+"da/d85/classnpc__deaths__door__fell__cannon__target__bunny.html#a1385e50777282fae0c8f8ca2f9f8a3e6":[6,0,1741,1]
 };

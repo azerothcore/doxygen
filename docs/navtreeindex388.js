@@ -1,6 +1,8 @@
 var NAVTREEINDEX388 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#aecec356ccb3fd3ddb52c7d889bd2c80d":[5,0,29,22,13],
 "df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[5,0,29,22,3],
+"df/d56/classVMAP_1_1VMapMgr2.html#afbbc51ff81e1aa107352354eb712b556":[6,0,10,22,3],
 "df/d57/blackrock__depths_8cpp.html":[7,0,0,0,1,3,2,1,0,0],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954":[7,0,0,0,1,3,2,1,0,0,12],
 "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c":[7,0,0,0,1,3,2,1,0,0,12,3],
@@ -118,8 +120,8 @@ var NAVTREEINDEX388 =
 "df/d5c/structboss__crone.html#a8bd505acd55ca5292d29c96916a461e5":[6,0,417,7],
 "df/d5c/structboss__crone.html#a9801cd39667d1a08770820bd17beac00":[6,0,417,3],
 "df/d5c/structboss__crone.html#ae4d343636955589d740d1df4e21fba99":[6,0,417,5],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,27,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,27,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,8,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,27,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX388 =
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a45df29f911b1232e306e04a182648904":[6,0,3213,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a59952b33d7c4705a6bfe7f3443bbf005":[6,0,3213,1],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a71fbf189fc116eb7d14944ff4060a9a9":[6,0,3213,3],
-"df/d6c/classnpc__cult__adherent.html":[6,0,1722],
-"df/d6c/classnpc__cult__adherent.html#a2bfe464c738c983b9539f9216cabd63a":[6,0,1722,2],
-"df/d6c/classnpc__cult__adherent.html#a74496518cf30674044a4a8a166e4c345":[6,0,1722,1]
+"df/d6c/classnpc__cult__adherent.html":[6,0,1722]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX295 =
 {
+"db/dd5/classCreature.html#af17d0e294d26a8c61ad17f0ba9b310d0":[6,0,919,284],
+"db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67":[6,0,919,9],
 "db/dd5/classCreature.html#af280020a72bceeccb5456281082d12fc":[6,0,919,155],
 "db/dd5/classCreature.html#af2ba01002d6a24a525342cfe6db3601a":[6,0,919,200],
 "db/dd5/classCreature.html#af446524f197ae14e4f4b46a9f247f223":[6,0,919,275],
@@ -215,14 +217,14 @@ var NAVTREEINDEX295 =
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1658,2],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1658,1],
 "db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,15],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,12,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,32,6,48],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,12,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,32,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,12,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,32,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,12,6,48,2],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,32,6,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,32,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,12,6,48,0],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,32,6,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4143],
 "db/ddd/structSpellThreatEntry.html#a0d66e48d986f246e6aea08dd00837158":[6,0,4143,1],
 "db/ddd/structSpellThreatEntry.html#a35f5f8f7a3ac33768299913fecc1cf8d":[6,0,4143,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX295 =
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dda56e3a3f46b3461af29f9f045686dfe5f":[7,0,0,0,1,3,2,4,9,8,2],
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dda731300d55e294f9fc40d8bc5e2bd7a55":[7,0,0,0,1,3,2,4,9,8,0],
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8ddad5fe85bcf673fc6b49dca1275a953383":[7,0,0,0,1,3,2,4,9,8,1],
-"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,4,9,4],
-"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a20029c58282cf9c3559c32a2aed1b1bd":[7,0,0,0,1,3,2,4,9,4,0],
-"db/dde/boss__shade__of__aran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,4,9,6]
+"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,4,9,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX317 =
 {
+"dc/dd1/classnpc__zephyr.html#a31e132e80a19bb6e63787fcdf7ffd466":[6,0,2307,1],
+"dc/dd1/classnpc__zephyr.html#a3bad7bf2bd3b193960f1f53cd7d8349d":[6,0,2307,0],
 "dc/dd1/classnpc__zephyr.html#a9b1f5a0d4ba24e65dda521bc94574ad8":[6,0,2307,2],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html":[6,0,3654],
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#a19ce53b5731b0789896612fa55f38849":[6,0,3654,1],
@@ -8,16 +10,16 @@ var NAVTREEINDEX317 =
 "dc/dd1/classspell__q10930__big__bone__worm__aura.html#ae3c3c1bce38882cd5de32295813b1a47":[6,0,3654,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[5,0,1,81],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html":[6,0,0,69],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[5,0,1,81,0],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a27bf64080270086d6dbc752f8d96ec4c":[6,0,0,69,0],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[5,0,1,81,4],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a83bda52b10d30f7fd633c285b79e740b":[6,0,0,69,4],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,69,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[5,0,1,81,2],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,69,1],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#a8442452027bcb5c98d60830e016803b5":[6,0,0,69,2],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[5,0,1,81,1],
-"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,81,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ab52133e238752f725f18580018a84cd2":[6,0,0,69,1],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[6,0,0,69,3],
+"dc/dd2/classAcore_1_1LocalizedPacketListDo.html#adea9610e36d436563ba1f472481aed85":[5,0,1,81,3],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,69,5],
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[5,0,1,81,5],
 "dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html":[6,0,1641,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX317 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6bfb096b035b5f41b71e1a57bff59113":[7,0,0,0,1,3,2,17,56],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6c1206b8165879aee20d7768f374268d":[7,0,0,0,1,3,2,17,46],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[7,0,0,0,1,3,2,17,124],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a7460bbae56678bce60e48f1d4f76057d":[7,0,0,0,1,3,2,17,25],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a74ba8b4c18b9c6237dced9bd57e6fca3":[7,0,0,0,1,3,2,17,49],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a78299b9cdd3e783b3f231a9dda40a7b4":[7,0,0,0,1,3,2,17,108]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a7460bbae56678bce60e48f1d4f76057d":[7,0,0,0,1,3,2,17,25]
 };

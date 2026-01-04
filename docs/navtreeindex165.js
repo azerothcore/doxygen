@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab64daef30e35b637b27050fbc3a5b6dd":[7,0,0,0,1,2,3,1,7,2,23],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac76c8a1af68ff8d6f33c3be3fef900e3":[7,0,0,0,1,2,3,1,7,2,6],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac87393e700307eb79dd0cad567eba0dd":[7,0,0,0,1,2,3,1,7,2,3],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac95576395bb99cc16cd14c471ba25091":[7,0,0,0,1,2,3,1,7,2,42],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac98e22b65d418e957b04a382fbe1b12f":[7,0,0,0,1,2,3,1,7,2,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "d6/d28/classnpc__llod__generic.html":[6,0,1938],
 "d6/d28/classnpc__llod__generic.html#a97a3957c4881808facf7910e4ae4ffd4":[6,0,1938,1],
 "d6/d28/classnpc__llod__generic.html#aeb2e7d9de871686e436d1e55f47085a2":[6,0,1938,2],
-"d6/d28/structSpellProcEventEntry.html":[6,0,4133],
-"d6/d28/structSpellProcEventEntry.html#a0cd88c27979ccc5284aa46846db32a7c":[6,0,4133,0],
-"d6/d28/structSpellProcEventEntry.html#a179d83770a02e4ab13f809ed3943a399":[6,0,4133,5]
+"d6/d28/structSpellProcEventEntry.html":[6,0,4133]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX230 =
 {
+"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222":[7,0,0,0,1,2,8,3,2,3],
+"d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f":[7,0,0,0,1,2,8,3,2,1],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71":[7,0,0,0,1,2,8,3,1],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854":[7,0,0,0,1,2,8,3,1,0],
 "d9/d02/Arena_8h.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084":[7,0,0,0,1,2,8,3,1,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX230 =
 "d9/d04/classboss__azuregos.html#a73220e54a3a53931e740f3c53c3bf20c":[6,0,394,3],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html":[6,0,3670],
 "d9/d06/classspell__q11515__fel__siphon__dummy.html#a0d122972fc036d1f1e49c49acda58be3":[6,0,3670,1],
-"d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[6,0,3670,0],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[6,0,0,4,0,1],
-"d9/d06/structAcore_1_1Hyperlinks_1_1LinkTags_1_1base__tag.html":[5,0,1,7,0,1]
+"d9/d06/classspell__q11515__fel__siphon__dummy.html#a80fa790a716d1ae950f43f9a298afd66":[6,0,3670,0]
 };

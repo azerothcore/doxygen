@@ -1,5 +1,7 @@
 var NAVTREEINDEX145 =
 {
+"d5/d4b/structnpc__frenzied__worgen_1_1npc__frenzied__worgenAI.html#adccac21b6eff18db096eb79dab4a27a0":[6,0,1795,0,6],
+"d5/d4b/structnpc__pilgrims__bounty__plate.html":[6,0,2046],
 "d5/d4b/structnpc__pilgrims__bounty__plate.html#a7797b7a532336542ef37f0643df8dec0":[6,0,2046,1],
 "d5/d4b/structnpc__pilgrims__bounty__plate.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb":[6,0,2046,0],
 "d5/d4c/classboss__eydis.html":[6,0,457],
@@ -177,8 +179,8 @@ var NAVTREEINDEX145 =
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#a749e992a19264b259f62d403b4925abe":[5,0,32,6,52,3],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[6,0,12,6,52,1],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#abda9452eba38e76c460f910eb3aad5fa":[5,0,32,6,52,1],
-"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,12,6,52,0],
 "d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[5,0,32,6,52,0],
+"d5/d53/classWorldPackets_1_1Guild_1_1QueryGuildInfoResponse.html#ae1f7b9f33e36821477a19439a3d4065d":[6,0,12,6,52,0],
 "d5/d53/classspell__kologarn__stone__shout.html":[6,0,3393],
 "d5/d53/classspell__kologarn__stone__shout.html#a744d5cb8de927410ab1bf72008fff8b3":[6,0,3393,2],
 "d5/d53/classspell__kologarn__stone__shout.html#a8f4b4d82e53c8f820b620896478681a9":[6,0,3393,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d59/structnpc__echo__of__medivh.html#ac6e38bc98f89ea6f6eabaf0321fe6793":[6,0,1764,10],
 "d5/d59/structnpc__echo__of__medivh.html#ad1618ff00a38db0e009dc51ff72a56d9":[6,0,1764,2],
 "d5/d59/structnpc__echo__of__medivh.html#ad1e39dc9dc1dae049fbd94e94cfd535e":[6,0,1764,8],
-"d5/d59/structnpc__echo__of__medivh.html#af401c33d5dfe5b6b28f941353333d92d":[6,0,1764,21],
-"d5/d5a/classgo__tablet__of__the__seven.html":[6,0,1186],
-"d5/d5a/classgo__tablet__of__the__seven.html#a54d27dc2a52d69d8fd9605c358a855fc":[6,0,1186,1]
+"d5/d59/structnpc__echo__of__medivh.html#af401c33d5dfe5b6b28f941353333d92d":[6,0,1764,21]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX403 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9350ba008dc9d60086d570289e1b5bcb":[7,0,0,0,1,3,5,6,4,55,7],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da9a3390a370dc386262db6857adddea15":[7,0,0,0,1,3,5,6,4,55,19],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dab01e9ba253990f7a0f0d23af95f9b207":[7,0,0,0,1,3,5,6,4,55,21],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dab4f83466640d40e8726c3281bb549730":[7,0,0,0,1,3,5,6,4,55,8],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5dac3f8a164e76a6746adc7554e58f643c8":[7,0,0,0,1,3,5,6,4,55,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX403 =
 "df/de3/classspell__q11520__discovering__your__roots.html#a42f48b9d7d657da75c8a4f5b6468011e":[6,0,3671,0],
 "df/de3/classspell__q11520__discovering__your__roots.html#a46e61697212a43532e148ccb12a7d8e5":[6,0,3671,2],
 "df/de3/classspell__q11520__discovering__your__roots.html#a5efc666af2cb73c376706c20e41ace68":[6,0,3671,1],
-"df/de3/structBattlegroundEYCapturingPointStruct.html":[6,0,325],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a23524562fd9c875b29092ee7e7a4e44b":[6,0,325,2],
-"df/de3/structBattlegroundEYCapturingPointStruct.html#a4b25984504b15c7249d2e5866ad35962":[6,0,325,6]
+"df/de3/structBattlegroundEYCapturingPointStruct.html":[6,0,325]
 };

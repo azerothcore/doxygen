@@ -1,5 +1,7 @@
 var NAVTREEINDEX115 =
 {
+"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cae377668d6cd2a8aee11a9ea4170b7955":[7,0,0,0,1,3,3,4,22,2],
+"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20cae46821b293e50396d988a558eee85a56":[7,0,0,0,1,3,3,4,22,29],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20caf28aa351d065229ce8006af3c5e2a8de":[7,0,0,0,1,3,3,4,22,18],
 "d3/dec/hallows__end_8cpp.html#a5432f1213354c0249cf69bcb6a9488ec":[7,0,0,0,1,3,3,4,20],
 "d3/dec/hallows__end_8cpp.html#a5432f1213354c0249cf69bcb6a9488eca7126d7112b6e439622ddb11b8d660546":[7,0,0,0,1,3,3,4,20,2],
@@ -70,14 +72,14 @@ var NAVTREEINDEX115 =
 "d3/dee/classinstance__gruuls__lair.html":[6,0,1307],
 "d3/dee/classinstance__gruuls__lair.html#ab8b5b000f6099111244b4ea48f0ab029":[6,0,1307,2],
 "d3/dee/classinstance__gruuls__lair.html#ae091404d09e614fe893c20e8ed90d2c4":[6,0,1307,1],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[5,0,1,8,11,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[6,0,0,5,11,0],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[6,0,0,5,11,0,3],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html":[5,0,1,8,11,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[5,0,1,8,11,0,3],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#a7508e249dd3ff2b3ac291d67ddf87a71":[6,0,0,5,11,0,3],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[5,0,1,8,11,0,0],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa4dcacffb32f3e739604ab6ef39b5031":[6,0,0,5,11,0,0],
-"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[5,0,1,8,11,0,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[6,0,0,5,11,0,1],
+"d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa5f116e3d84286f313ee8730bde7b936":[5,0,1,8,11,0,1],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[5,0,1,8,11,0,2],
 "d3/dee/structAcore_1_1Impl_1_1MPSCQueueNonIntrusive_1_1Node.html#aa7cdbff9817871b548fe639e0956f1f4":[6,0,0,5,11,0,2],
 "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html":[6,0,760,0],
@@ -116,10 +118,10 @@ var NAVTREEINDEX115 =
 "d3/df0/classAcore_1_1PowerCheck.html":[5,0,1,111],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[5,0,1,111,1],
 "d3/df0/classAcore_1_1PowerCheck.html#a16ad8e68d94742bc78b6f20734f58e99":[6,0,0,99,1],
-"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,1,111,3],
 "d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[6,0,0,99,3],
-"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[6,0,0,99,0],
+"d3/df0/classAcore_1_1PowerCheck.html#a922a57b62b4289835b539a69b0f58fa1":[5,0,1,111,3],
 "d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[5,0,1,111,0],
+"d3/df0/classAcore_1_1PowerCheck.html#abb2fc6c6e83e1097a6bb40512fb50dfc":[6,0,0,99,0],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[6,0,0,99,2],
 "d3/df0/classAcore_1_1PowerCheck.html#ae7758da7775ff778bc5cd96e9a15649b":[5,0,1,111,2],
 "d3/df0/classinstance__serpent__shrine.html":[6,0,1336],
@@ -247,7 +249,5 @@ var NAVTREEINDEX115 =
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298caeac0e8c87f7e0ca0770740d7252bbf49":[7,0,0,0,1,3,5,6,5,22,43],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5bd342133be8c2137b831460acc9298caee7c88e98b1cec6d52de0ae200dc6624":[7,0,0,0,1,3,5,6,5,22,16],
 "d3/df6/boss__lady__deathwhisper_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,5,6,5,20],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,5,6,5,20,2],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a4759cf00b99e3a6f4a2f65af817bd203":[7,0,0,0,1,3,5,6,5,20,1],
-"d3/df6/boss__lady__deathwhisper_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5a174c07b8602efe54b08ead7652a3fe":[7,0,0,0,1,3,5,6,5,20,0]
+"d3/df6/boss__lady__deathwhisper_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,5,6,5,20,2]
 };

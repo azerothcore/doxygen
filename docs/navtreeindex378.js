@@ -1,5 +1,7 @@
 var NAVTREEINDEX378 =
 {
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2711,0],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[6,0,1334,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[6,0,1334,0,1],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1abdafc284def7ab4069a17c0aeda535":[6,0,1334,0,6],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1c9c74f06b2e1db77d5e6c75e720290c":[6,0,1334,0,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX378 =
 "de/df5/classOutdoorPvPNA.html#a4074a96974fe1b5e6d9149c8eee36e71":[6,0,2362,9],
 "de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[6,0,2362,1],
 "de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[6,0,2362,10],
-"de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[6,0,2362,2],
-"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[6,0,2362,3],
-"de/df5/classOutdoorPvPNA.html#acbdae42245c71e4274296649d8d08e9e":[6,0,2362,0]
+"de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[6,0,2362,2]
 };

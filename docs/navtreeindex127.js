@@ -1,5 +1,7 @@
 var NAVTREEINDEX127 =
 {
+"d4/d67/classgo__warmaul__prison.html#ac9e66eeb30bf951d37f2d0917a295705":[6,0,1204,1],
+"d4/d67/classgo__warmaul__prison.html#adffbb532d7ee3c5a67543fe15ce5b67b":[6,0,1204,0],
 "d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html":[6,0,2049,0],
 "d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a4ea55aa08123f724268238e0def5b595":[6,0,2049,0,1],
 "d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a6141addc9b1cf2c0028d98ef4f4d9d37":[6,0,2049,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d76/boss__okthor_8cpp.html#aacaf4f6c3bd0f27549dd615e00da29c6":[7,0,0,0,1,3,2,1,0,13,7],
 "d4/d76/boss__okthor_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[7,0,0,0,1,3,2,1,0,13,3],
 "d4/d76/boss__okthor_8cpp.html#aed90b041a8d92991cb8ef6655b7e58e3":[7,0,0,0,1,3,2,1,0,13,6],
-"d4/d76/boss__okthor_8cpp.html#afc50db66669b42128172e3dae8533e9a":[7,0,0,0,1,3,2,1,0,13,4],
-"d4/d77/Socialhandler_8cpp.html":[7,0,0,0,1,2,22,29],
-"d4/d77/classspell__mirkblood__exsanguinate.html":[6,0,3488]
+"d4/d76/boss__okthor_8cpp.html#afc50db66669b42128172e3dae8533e9a":[7,0,0,0,1,3,2,1,0,13,4]
 };

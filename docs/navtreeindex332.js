@@ -1,5 +1,7 @@
 var NAVTREEINDEX332 =
 {
+"dd/d8b/classitem__commandscript.html#aab60aa980ef0f86938cfcb51e7ee20a8":[6,0,1379,1],
+"dd/d8b/classitem__commandscript.html#af914e33be05148062abd89c754d939c9":[6,0,1379,3],
 "dd/d8c/classspell__shade__of__akama__shade__soul__channel.html":[6,0,3834],
 "dd/d8c/classspell__shade__of__akama__shade__soul__channel.html#a194ff31e6168bca23881f3804154d479":[6,0,3834,3],
 "dd/d8c/classspell__shade__of__akama__shade__soul__channel.html#a5857dbdb088de67cc15717dca0c5f7b5":[6,0,3834,0],
@@ -205,12 +207,12 @@ var NAVTREEINDEX332 =
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[6,0,0,12,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[5,0,1,24,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[6,0,0,12,1],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,24,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[6,0,0,12,3],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,24,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,24,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,12,2],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,24,4],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,12,4],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,24,4],
 "dd/d91/classat__shattered__halls__execution.html":[6,0,244],
 "dd/d91/classat__shattered__halls__execution.html#a73f1d1f03960acd070b7996257f7a526":[6,0,244,0],
 "dd/d91/classat__shattered__halls__execution.html#ad35f9736371b091dc0780e5bf0caf9f5":[6,0,244,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX332 =
 "dd/d94/classspell__gen__hate__to__zero.html#a9f9c27bdfed0a457f7e851c8598f3625":[6,0,2983,0],
 "dd/d94/classspell__gen__hate__to__zero.html#ab666b72cd7cb0ef92ba6c417be5ac7cc":[6,0,2983,1],
 "dd/d94/classspell__q11396__11399__scourging__crystal__controller.html":[6,0,3668],
-"dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#a3f1808538acca2742c19f68af9a6fd56":[6,0,3668,2],
-"dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#a475e1d5d8c70e0edd5957a1e493fd43e":[6,0,3668,3],
-"dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#abc630a0c8274f5f85901b2505ff2ae04":[6,0,3668,0]
+"dd/d94/classspell__q11396__11399__scourging__crystal__controller.html#a3f1808538acca2742c19f68af9a6fd56":[6,0,3668,2]
 };

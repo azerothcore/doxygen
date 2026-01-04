@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"d9/dd1/classspell__class__call__handler.html#a76f9e5e11a6f2e25868dba567d798002":[6,0,2722,2],
+"d9/dd1/classspell__class__call__handler.html#ae1029dd58a48c099e8bbd071898f1b12":[6,0,2722,0],
 "d9/dd1/classspell__class__call__handler.html#af65d372cdbb365eff73edb8cf18734c8":[6,0,2722,5],
 "d9/dd1/classspell__q9452__cast__net.html":[6,0,3735],
 "d9/dd1/classspell__q9452__cast__net.html#a016e480d7b2267c9bf824c9cb029f134":[6,0,3735,4],
@@ -193,14 +195,14 @@ var NAVTREEINDEX245 =
 "d9/de3/classnpc__pos__collapsing__icicle.html":[6,0,2051],
 "d9/de3/classnpc__pos__collapsing__icicle.html#a42b29fe5d4e106c1e5e5b866a0074664":[6,0,2051,1],
 "d9/de3/classnpc__pos__collapsing__icicle.html#a96969ebe749b49ceb38920c63ec6fce3":[6,0,2051,2],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[6,0,12,10,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[5,0,32,10,3],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html":[6,0,12,10,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[5,0,32,10,3,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[6,0,12,10,3,3],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[6,0,12,10,3,1],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[5,0,32,10,3,1],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[6,0,12,10,3,2],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[6,0,12,10,3,1],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,32,10,3,2],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[6,0,12,10,3,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[5,0,32,10,3,0],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[6,0,12,10,3,0],
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html":[6,0,1784,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "d9/dea/classEntryCheckPredicate.html#a23365e4591c0906f5d04db7dc6599fbf":[6,0,1019,0],
 "d9/dea/classEntryCheckPredicate.html#aa83f4537369e740de2d689252409d269":[6,0,1019,2],
 "d9/dea/classEntryCheckPredicate.html#ab384b205f8a719e1b5b0d0ab00575313":[6,0,1019,1],
-"d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,81],
-"d9/deb/classachievement__pb__pilgrims__peril.html#a78c92eab532448080c1d28dc8fcabaca":[6,0,81,1],
-"d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,81,0]
+"d9/deb/classachievement__pb__pilgrims__peril.html":[6,0,81]
 };

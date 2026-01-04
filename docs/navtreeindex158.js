@@ -1,5 +1,7 @@
 var NAVTREEINDEX158 =
 {
+"d5/de9/classspell__gen__profession__research.html":[6,0,3020],
+"d5/de9/classspell__gen__profession__research.html#a89d053e0ee793017c74188aac32d99d5":[6,0,3020,4],
 "d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,3020,2],
 "d5/de9/classspell__gen__profession__research.html#aa89b60b2d757ef1ceacebae38aa5d9d9":[6,0,3020,1],
 "d5/de9/classspell__gen__profession__research.html#ace75db8a6e5628df6e2edba91cd2852f":[6,0,3020,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX158 =
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aabf88ac9dab7ac3a3c24244d70a7bd184":[7,0,0,0,1,3,7,5,0,0,5,11],
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aade37e2cf08e4dbeb31bab51762a6eccf":[7,0,0,0,1,3,7,5,0,0,5,4],
 "d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aae2542ecbd7f675bbefb6808514e08dd0":[7,0,0,0,1,3,7,5,0,0,5,13],
-"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aae32f0887f878ad341d125231a767ee6f":[7,0,0,0,1,3,7,5,0,0,5,6],
-"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aae819616d567d52df58f2b36f403e70e6":[7,0,0,0,1,3,7,5,0,0,5,0],
-"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aaf10ed2e318e103b363922ee8d7d99429":[7,0,0,0,1,3,7,5,0,0,5,8]
+"d5/df1/arcatraz_8cpp.html#a8fdf239f7a28850cf0153061c034311aae32f0887f878ad341d125231a767ee6f":[7,0,0,0,1,3,7,5,0,0,5,6]
 };

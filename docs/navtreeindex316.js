@@ -1,5 +1,7 @@
 var NAVTREEINDEX316 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca9203ecb14e14edb80a8277f5776b9799":[7,0,0,0,1,3,2,16,7,14,1],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[7,0,0,0,1,3,2,16,7,14,2],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f05c94c6cfda24c63f116f4e6fca6c":[7,0,0,0,1,3,2,16,7,14,10],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,16,7,14,5],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cabd8110f8d36f579f159e45afc797b229":[7,0,0,0,1,3,2,16,7,14,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX316 =
 "dc/dd0/classWhoListCacheMgr.html#ae0358ae9260f929410f6518f89135161":[6,0,4308,3],
 "dc/dd0/classWhoListCacheMgr.html#ae32706d7786014e142dc1cb9ccd29d70":[6,0,4308,1],
 "dc/dd0/structMySQLType_3_01uint32_01_4.html":[6,0,1555],
-"dc/dd1/classnpc__zephyr.html":[6,0,2307],
-"dc/dd1/classnpc__zephyr.html#a31e132e80a19bb6e63787fcdf7ffd466":[6,0,2307,1],
-"dc/dd1/classnpc__zephyr.html#a3bad7bf2bd3b193960f1f53cd7d8349d":[6,0,2307,0]
+"dc/dd1/classnpc__zephyr.html":[6,0,2307]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX123 =
 {
+"d4/d3c/brann__bronzebeard_8cpp.html#a4f7e6d5fa5cb408e00605d73f02590f9":[7,0,0,0,1,3,5,9,1,3,5],
+"d4/d3c/brann__bronzebeard_8cpp.html#a674012f692fed40a3aa04e4fedba0462":[7,0,0,0,1,3,5,9,1,3,13],
 "d4/d3c/brann__bronzebeard_8cpp.html#a6986ec7b2d3274669934af9795f26d5c":[7,0,0,0,1,3,5,9,1,3,16],
 "d4/d3c/brann__bronzebeard_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca1e69a67dd750b7a83483211a22cf6ca1":[7,0,0,0,1,3,5,9,1,3,16,1],
 "d4/d3c/brann__bronzebeard_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca277494839c28c35d50283a6001a286ef":[7,0,0,0,1,3,5,9,1,3,16,5],
@@ -164,14 +166,14 @@ var NAVTREEINDEX123 =
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[6,0,592,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,12,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,32,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,32,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,12,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,32,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,12,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,32,6,8,2],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,12,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,32,6,8,0],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,32,6,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,12,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,12,6,8,1],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,32,6,8,1],
 "d4/d46/classinstance__uldaman.html":[6,0,1354],
 "d4/d46/classinstance__uldaman.html#a672bb8b5a16d29d25a191ab90d8007b4":[6,0,1354,2],
 "d4/d46/classinstance__uldaman.html#a854807db729d15aa4a09aad051fe3bda":[6,0,1354,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0baa86eacedff514c9fd3be9955f10bd309":[7,0,0,0,1,3,5,10,0,1,5,4],
 "d4/d4f/boss__keleseth_8cpp.html#aa3eb378aecbc387e203da1531a09d1b6":[7,0,0,0,1,3,5,10,0,1,8],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5d":[7,0,0,0,1,3,5,10,0,1,7],
-"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,10,0,1,7,4],
-"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da77c25670e8abde940a06ab8ab2b9217c":[7,0,0,0,1,3,5,10,0,1,7,1],
-"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,5,10,0,1,7,5]
+"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,10,0,1,7,4]
 };

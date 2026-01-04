@@ -1,5 +1,7 @@
 var NAVTREEINDEX253 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a721cd5ed69ee83102b2b2a6fd1bea60c":[7,0,0,0,1,2,41,0,0,6,287],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7280def8bc657ec29c911bae511bf4e5":[7,0,0,0,1,2,41,0,0,6,29],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a732ca555f677b0f0f870e4ece0514dbe":[7,0,0,0,1,2,41,0,0,6,163],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a738d314a9ab9a70711cf0f1fdd5033c5":[7,0,0,0,1,2,41,0,0,6,304],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a73faec8e41f7d4d2d84dd85718788c0b":[7,0,0,0,1,2,41,0,0,6,135],
@@ -247,7 +249,5 @@ var NAVTREEINDEX253 =
 "da/d32/classspell__blood__siphon__aura.html#a42c116ecb7d938bc4b9047ab40ff60ea":[6,0,2680,2],
 "da/d32/classspell__blood__siphon__aura.html#ab909660f32a77e86fde5da35e2f69302":[6,0,2680,0],
 "da/d32/classspell__blood__siphon__aura.html#abd1254c53c04f72f848d8641affc729d":[6,0,2680,3],
-"da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[6,0,2680,1],
-"da/d32/classspell__item__branns__communicator.html":[6,0,3240],
-"da/d32/classspell__item__branns__communicator.html#a7fe416070962ba582d59ddff70c13590":[6,0,3240,1]
+"da/d32/classspell__blood__siphon__aura.html#ac95ee854f1f8921bd49fbd59c959d0da":[6,0,2680,1]
 };

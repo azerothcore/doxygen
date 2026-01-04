@@ -1,12 +1,14 @@
 var NAVTREEINDEX211 =
 {
+"d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e":[6,0,747,0,3],
+"d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#adb868f1910859c79625cfb7f9a2b4101":[6,0,747,0,7],
 "d8/d13/structboss__thorim__start__npcs_1_1boss__thorim__start__npcsAI.html#aedf26a4b5baaf464d70316ce79ec32b3":[6,0,747,0,4],
 "d8/d14/classAllianceChannelMgr.html":[6,0,152],
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,152,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,12,22],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,32,22],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,32,22,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,12,22,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,32,22,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[7,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,4,3,4,4],
@@ -216,12 +218,12 @@ var NAVTREEINDEX211 =
 "d8/d20/SpellAuras_8h.html":[7,0,0,0,1,2,41,0,4],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,1,59],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html":[6,0,0,47],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[6,0,0,47,3],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,1,59,3],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[6,0,0,47,3],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[5,0,1,59,0],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[6,0,0,47,0],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[6,0,0,47,2],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[5,0,1,59,2],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[6,0,0,47,2],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#aa45be322836be588d8df2b253a22ee5c":[5,0,1,59,5],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#aa45be322836be588d8df2b253a22ee5c":[6,0,0,47,5],
 "d8/d20/classAcore_1_1CustomChatTextBuilder.html#ab59c9b938b564329483e38466169a92c":[5,0,1,59,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX211 =
 "d8/d22/structboss__warmaster__voone_1_1boss__warmastervooneAI.html#ac419c5118a45264e24e391f7575d90fb":[6,0,782,0,3],
 "d8/d22/structboss__warmaster__voone_1_1boss__warmastervooneAI.html#ac9dc6ef78503a87ea68d0e232b0376da":[6,0,782,0,2],
 "d8/d22/structboss__warmaster__voone_1_1boss__warmastervooneAI.html#adce28de25fa74557000d60188346e2d2":[6,0,782,0,1],
-"d8/d24/structnpc__guardian__pavilion_1_1npc__guardian__pavilionAI.html":[6,0,1826,0],
-"d8/d24/structnpc__guardian__pavilion_1_1npc__guardian__pavilionAI.html#a2c116495e65c7f97063aa7dc6516f48c":[6,0,1826,0,0],
-"d8/d24/structnpc__guardian__pavilion_1_1npc__guardian__pavilionAI.html#aeae26e28be93120062d9f77c069ff32a":[6,0,1826,0,1]
+"d8/d24/structnpc__guardian__pavilion_1_1npc__guardian__pavilionAI.html":[6,0,1826,0]
 };

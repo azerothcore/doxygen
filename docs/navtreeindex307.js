@@ -1,5 +1,7 @@
 var NAVTREEINDEX307 =
 {
+"dc/d3c/classspell__sha__totem__of__wrath.html#a6f21938e84e45848fad74a16f1f52c48":[6,0,3831,0],
+"dc/d3c/classspell__sha__totem__of__wrath.html#a9e90a6fa037627ac682f4ea050f557de":[6,0,3831,2],
 "dc/d3c/classspell__sha__totem__of__wrath.html#ac7abeee05c117595696faf1ec55e11bd":[6,0,3831,1],
 "dc/d3e/structboss__ebonroc_1_1boss__ebonrocAI.html":[6,0,439,0],
 "dc/d3e/structboss__ebonroc_1_1boss__ebonrocAI.html#a2c74e0030b1093d79245978939043d53":[6,0,439,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad":[7,0,0,0,1,2,26,2,1,1],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba896e7c5e16b9017d4819d2d4abd00b28":[7,0,0,0,1,2,26,2,1,8],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8b0ad8ad60a3a1610cc79f115d93cdce":[7,0,0,0,1,2,26,2,1,73],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9271d3dd36a1e3161fae81366465f74c":[7,0,0,0,1,2,26,2,1,23],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9cecabaa74f226417647b2162a8355ed":[7,0,0,0,1,2,26,2,1,49],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9ddbc9e82f7cfef320fb2efa87578b30":[7,0,0,0,1,2,26,2,1,41]
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9271d3dd36a1e3161fae81366465f74c":[7,0,0,0,1,2,26,2,1,23]
 };

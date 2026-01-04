@@ -1,5 +1,7 @@
 var NAVTREEINDEX380 =
 {
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[5,0,32,12,0],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[6,0,12,12,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[5,0,32,12,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[6,0,12,12,0,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[5,0,32,12,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX380 =
 "df/d14/classPet.html#a31ab715e673a1dc18255dfc4f37299d6":[6,0,2390,70],
 "df/d14/classPet.html#a3c482ec7706059ac839d59cb54431671":[6,0,2390,9],
 "df/d14/classPet.html#a43a35bdd7f233f6ae5233ad55f30c641":[6,0,2390,43],
-"df/d14/classPet.html#a462dc421828060d0478ca6a3ae0a2a57":[6,0,2390,10],
-"df/d14/classPet.html#a499659ccc6308ac8353080d13aad99c8":[6,0,2390,68],
-"df/d14/classPet.html#a4bd107b7f3105fec515833b1c4a752f9":[6,0,2390,60]
+"df/d14/classPet.html#a462dc421828060d0478ca6a3ae0a2a57":[6,0,2390,10]
 };

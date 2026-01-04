@@ -1,5 +1,7 @@
 var NAVTREEINDEX397 =
 {
+"df/dc7/classOPvPCapturePointEP__PWT.html":[6,0,2338],
+"df/dc7/classOPvPCapturePointEP__PWT.html#a17e3d11c9b282f203bb0e1511fb5af02":[6,0,2338,0],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a1e26a3ed8d700533df0a51d8db510a4f":[6,0,2338,1],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a5772e54263c613eee365856def5e74e6":[6,0,2338,4],
 "df/dc7/classOPvPCapturePointEP__PWT.html#a914dcbb37baf457750cfe9829d95d88c":[6,0,2338,9],
@@ -11,10 +13,10 @@ var NAVTREEINDEX397 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2338,8],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,32,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,32,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,12,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,32,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,12,2,1,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
 "df/dc8/AccountScript_8cpp.html#a737db11e5096ba1c596f469d64c2cc97":[7,0,0,0,1,2,38,0,0,0],
 "df/dc8/AppenderConsole_8h.html":[7,0,0,0,0,9,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX397 =
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#aef1192735d87a7e83ea00cc8cb9303c7":[6,0,2080,0,2],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#af676158d45338ddbc2a366e399796642":[6,0,2080,0,15],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d":[6,0,2080,0,8],
-"df/dd7/classboss__devourer__of__souls.html":[6,0,426],
-"df/dd7/classboss__devourer__of__souls.html#a3de68fa630c5b74104c461f88edd1d36":[6,0,426,2],
-"df/dd7/classboss__devourer__of__souls.html#a95b3a33be3b85a4c7ecfb4370a9ddc60":[6,0,426,1]
+"df/dd7/classboss__devourer__of__souls.html":[6,0,426]
 };

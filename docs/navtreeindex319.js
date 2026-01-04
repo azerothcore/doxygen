@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a3365c4940364c71cdecd3455f1fcaaa9":[7,0,0,0,1,3,3,1,32,7],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a4288e74f4fd3978d4af9ada35238fd81":[7,0,0,0,1,3,3,1,32,6],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a7eddef42bae072663cd19ff05c32e720":[7,0,0,0,1,3,3,1,32,3],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8814a55a3046f8d5b12ae92edad188e6":[7,0,0,0,1,3,3,1,32,5],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8f4df5b3207fedb818a208651ce87de9":[7,0,0,0,1,3,3,1,32,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
 "dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
 "dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2981],
-"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2981,0],
-"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2981,1],
-"dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6]
+"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2981,0]
 };

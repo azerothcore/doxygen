@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"d5/dd7/classspell__sha__spirit__walk.html":[6,0,3827],
+"d5/dd7/classspell__sha__spirit__walk.html#a0efb319154edb2c798460de72d6a56ed":[6,0,3827,1],
 "d5/dd7/classspell__sha__spirit__walk.html#acd6ecb0204dd369c410e465551328f56":[6,0,3827,2],
 "d5/dd7/classspell__sha__spirit__walk.html#aecbecbd753b8ed32d51971a090063ef4":[6,0,3827,0],
 "d5/dd8/boss__flamegor_8cpp.html":[7,0,0,0,1,3,2,1,2,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "d5/de7/structRunes.html#a920d32d04ec7e872680a89b0c0a9b0ef":[6,0,2516,0],
 "d5/de7/structRunes.html#aac485530bfa81d54d9da3213fe917c29":[6,0,2516,2],
 "d5/de7/structRunes.html#ae58297e0766578b234604a97641501a1":[6,0,2516,3],
-"d5/de9/AppenderDB_8cpp.html":[7,0,0,0,1,1,1,0],
-"d5/de9/classspell__gen__profession__research.html":[6,0,3020],
-"d5/de9/classspell__gen__profession__research.html#a89d053e0ee793017c74188aac32d99d5":[6,0,3020,4]
+"d5/de9/AppenderDB_8cpp.html":[7,0,0,0,1,1,1,0]
 };
