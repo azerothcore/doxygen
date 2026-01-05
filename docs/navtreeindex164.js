@@ -1,8 +1,5 @@
 var NAVTREEINDEX164 =
 {
-"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#ad6247c7f8abf41cd6190d5252ed6834e":[6,0,3917,3],
-"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#ae51bcb37894240c6fd064cd329698a55":[6,0,3917,2],
-"d6/d1a/boss__valithria__dreamwalker_8cpp.html":[7,0,0,0,1,3,5,6,11],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,5,6,11,35],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfa1535414222ae8c71f9c9e78493996a9c":[7,0,0,0,1,3,5,6,11,35,1],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a250372292659bed7ae290d8621f88ccfad55e9f9af519bdc24c9db58202fc8998":[7,0,0,0,1,3,5,6,11,35,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX164 =
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daa654aa5772147c5c6c188647fddc6c93":[7,0,0,0,1,2,3,1,7,2,33],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab1f3c262e02c455f78c2406cfeab3366":[7,0,0,0,1,2,3,1,7,2,20],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab31d1186fd7ded851c9f1dee7489a698":[7,0,0,0,1,2,3,1,7,2,15],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab3561e17018ebfb293c600b647cdb413":[7,0,0,0,1,2,3,1,7,2,2]
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab3561e17018ebfb293c600b647cdb413":[7,0,0,0,1,2,3,1,7,2,2],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dab64daef30e35b637b27050fbc3a5b6dd":[7,0,0,0,1,2,3,1,7,2,23],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac76c8a1af68ff8d6f33c3be3fef900e3":[7,0,0,0,1,2,3,1,7,2,6],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac87393e700307eb79dd0cad567eba0dd":[7,0,0,0,1,2,3,1,7,2,3]
 };

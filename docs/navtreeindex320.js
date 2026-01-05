@@ -1,5 +1,13 @@
 var NAVTREEINDEX320 =
 {
+"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
+"dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
+"dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
+"dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
+"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
+"dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
+"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2981],
+"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2981,0],
 "dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2981,1],
 "dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6],
 "dc/def/structboss__mechano__lord__capacitus.html":[6,0,619],
@@ -96,12 +104,12 @@ var NAVTREEINDEX320 =
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,765],
 "dc/df8/structboss__vazruden__the__herald.html#a18076b0fd12bc9a002394d5fe3aa5f81":[6,0,765,4],
 "dc/df8/structboss__vazruden__the__herald.html#a190621f4130b913348a49d6dfe76b591":[6,0,765,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d00/structnpc__forest__frog.html#a6294f89eccdb9e5f9edbe8bccb164690":[6,0,1788,7],
 "dd/d00/structnpc__forest__frog.html#a6a5e24a11f8d2add6a3e9d71e2e647bb":[6,0,1788,0],
 "dd/d00/structnpc__forest__frog.html#a8260157062b3e4ef48ad47b4f9bf66ac":[6,0,1788,3],
-"dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32":[6,0,1788,4],
-"dd/d00/structnpc__forest__frog.html#aa22c4eb7eb3a84db94ce8eb38afd18f5":[6,0,1788,2],
-"dd/d00/structnpc__forest__frog.html#aac140826b8c4b7ce55925b5abeee936e":[6,0,1788,1],
-"dd/d00/structnpc__forest__frog.html#ac6bf7433f79a9c2803072e7b5370a1c7":[6,0,1788,6],
-"dd/d01/SmartScriptMgr_8cpp.html":[7,0,0,0,1,2,3,2,4],
-"dd/d01/classDelayedCastEvent.html":[6,0,972],
-"dd/d01/classDelayedCastEvent.html#a85471a151a3165cc906f3a41103c3f5d":[6,0,972,5],
-"dd/d01/classDelayedCastEvent.html#a96b86f3f1ee23d6f25ec3c13f9a03235":[6,0,972,0],
-"dd/d01/classDelayedCastEvent.html#abe28a6749101233302634ed226a289e8":[6,0,972,4]
+"dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32":[6,0,1788,4]
 };

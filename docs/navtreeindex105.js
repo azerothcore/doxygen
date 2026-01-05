@@ -1,8 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a545378189f85968ac925baa06ad608b5":[6,0,805,0,4],
-"d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a6587e7873455950bda97b2a7d78e6fc5":[6,0,805,0,1],
-"d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a6d6d186febc408ecb830bf7eea3c72bd":[6,0,805,0,6],
 "d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a718c0bf307934b9ee9cbb933899c6324":[6,0,805,0,7],
 "d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a8524834b7dff49844d96b7dc49fd265d":[6,0,805,0,0],
 "d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a86f9d594562f842d478b63de18e52455":[6,0,805,0,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX105 =
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733":[7,0,0,0,1,2,8,1,17,1,2],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5":[7,0,0,0,1,2,8,1,17,1,0],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html":[6,0,3007],
-"d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4098aa621012c5e3623ee905d2d2c8eb":[6,0,3007,1]
+"d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4098aa621012c5e3623ee905d2d2c8eb":[6,0,3007,1],
+"d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,3007,3],
+"d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,3007,2],
+"d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,3007,0]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a51d113782023b5ec1661e3d0de7ebb8b":[7,0,0,0,1,2,38,0,75,1,116],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a521c78636641b7b4296349538151fa50":[7,0,0,0,1,2,38,0,75,1,79],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a54a718be6125ea1e21738b2cfff3d0fb":[7,0,0,0,1,2,38,0,75,1,9],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5596b0ba00107f6ad61ffa273f0984fe":[7,0,0,0,1,2,38,0,75,1,168],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a560cb75711096f4893c3845a54331c43":[7,0,0,0,1,2,38,0,75,1,127],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a57019fa5d2ee0dd29ed44f4c97de101a":[7,0,0,0,1,2,38,0,75,1,52],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a576f7398bd8eb9cc65416b019ea92f4b":[7,0,0,0,1,2,38,0,75,1,147],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5ab1837ad76cf90374b1696111867397":[7,0,0,0,1,2,38,0,75,1,114],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5b36d5121754e80347cec73da33b380e":[7,0,0,0,1,2,38,0,75,1,0],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5e8db5207dcfa2db68e1b146e05e00f1":[7,0,0,0,1,2,38,0,75,1,94],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5f10644dff50505ab0df06220624d1a8":[7,0,0,0,1,2,38,0,75,1,25],
@@ -241,13 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#af23cb4a19d28f5aa57ba96de95f87c87":[6,0,2223,0,1],
 "dd/dd1/classboss__professor__putricide.html":[6,0,665],
 "dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,665,2],
-"dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,665,1],
-"dd/dd1/classspell__target__fissures.html":[6,0,3891],
-"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3891,1],
-"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3891,0],
-"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[6,0,3891,2],
-"dd/dd2/boss__anubarak_8cpp.html":[7,0,0,0,1,3,5,0,1,1],
-"dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81e":[7,0,0,0,1,3,5,0,1,1,10],
-"dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81ea024b6c54b20180f195fc5f31c0b1bad9":[7,0,0,0,1,3,5,0,1,1,10,0],
-"dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81ea43cdf26f6aed4cf98ba3d33b4b9bcf2e":[7,0,0,0,1,3,5,0,1,1,10,1]
+"dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,665,1]
 };

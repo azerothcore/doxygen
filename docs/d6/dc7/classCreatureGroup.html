@@ -152,6 +152,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af6204f37e817c59cd556d76a5a19bf77"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2547bae861879c20724c1d04db55e88a" id="r_a2547bae861879c20724c1d04db55e88a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/classCreatureGroup.html#a2547bae861879c20724c1d04db55e88a">MemberEvaded</a> (<a class="el" href="../../db/dd5/classCreature.html">Creature</a> *member)</td></tr>
 <tr class="separator:a2547bae861879c20724c1d04db55e88a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07388907629846288949a5a896d0c00d" id="r_a07388907629846288949a5a896d0c00d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/classCreatureGroup.html#a07388907629846288949a5a896d0c00d">DespawnFormation</a> (<a class="el" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> timeToDespawn=0ms, <a class="el" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> forcedRespawnTimer=0s)</td></tr>
+<tr class="separator:a07388907629846288949a5a896d0c00d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4777b1e1b5a4d084ba0648917b372c47" id="r_a4777b1e1b5a4d084ba0648917b372c47"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/classCreatureGroup.html#a4777b1e1b5a4d084ba0648917b372c47">RespawnFormation</a> (bool force=false)</td></tr>
 <tr class="separator:a4777b1e1b5a4d084ba0648917b372c47"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e2dc8bde0b1c0db11bb04f31dafe96d" id="r_a6e2dc8bde0b1c0db11bb04f31dafe96d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/classCreatureGroup.html#a6e2dc8bde0b1c0db11bb04f31dafe96d">IsFormationInCombat</a> ()</td></tr>
@@ -211,9 +213,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   96</span>: <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333">m_groupID</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e">m_Formed</a>(<span class="keyword">false</span>) {}</div>
-<div class="ttc" id="aclassCreatureGroup_html_a2215d3dc155916d657c499fac6d4ce3e"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e">CreatureGroup::m_Formed</a></div><div class="ttdeci">bool m_Formed</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:124</div></div>
-<div class="ttc" id="aclassCreatureGroup_html_ae9689e23f755a12f1be14601bb2f2677"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">CreatureGroup::m_leader</a></div><div class="ttdeci">Creature * m_leader</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:120</div></div>
-<div class="ttc" id="aclassCreatureGroup_html_afd1a31d9316e6cca399bea0e328b8333"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333">CreatureGroup::m_groupID</a></div><div class="ttdeci">uint32 m_groupID</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:123</div></div>
+<div class="ttc" id="aclassCreatureGroup_html_a2215d3dc155916d657c499fac6d4ce3e"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e">CreatureGroup::m_Formed</a></div><div class="ttdeci">bool m_Formed</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:125</div></div>
+<div class="ttc" id="aclassCreatureGroup_html_ae9689e23f755a12f1be14601bb2f2677"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">CreatureGroup::m_leader</a></div><div class="ttdeci">Creature * m_leader</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:121</div></div>
+<div class="ttc" id="aclassCreatureGroup_html_afd1a31d9316e6cca399bea0e328b8333"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333">CreatureGroup::m_groupID</a></div><div class="ttdeci">uint32 m_groupID</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:124</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -272,17 +274,54 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  181</span>    <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>[member] = <a class="code hl_define" href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a>-&gt;CreatureGroupMap.find(member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>())-&gt;second;</div>
 <div class="line"><span class="lineno">  182</span>    member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">this</span>);</div>
 <div class="line"><span class="lineno">  183</span>}</div>
-<div class="ttc" id="aCreatureGroups_8h_html_ae80a51404625cee821a8727ed7369352"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a></div><div class="ttdeci">#define sFormationMgr</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:127</div></div>
+<div class="ttc" id="aCreatureGroups_8h_html_ae80a51404625cee821a8727ed7369352"><div class="ttname"><a href="../../d5/db3/CreatureGroups_8h.html#ae80a51404625cee821a8727ed7369352">sFormationMgr</a></div><div class="ttdeci">#define sFormationMgr</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:128</div></div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:170</div></div>
-<div class="ttc" id="aclassCreatureGroup_html_a63805a04ef3ef80270ae7e7d03014d83"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">CreatureGroup::m_members</a></div><div class="ttdeci">CreatureGroupMemberType m_members</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:121</div></div>
+<div class="ttc" id="aclassCreatureGroup_html_a63805a04ef3ef80270ae7e7d03014d83"><div class="ttname"><a href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">CreatureGroup::m_members</a></div><div class="ttdeci">CreatureGroupMemberType m_members</div><div class="ttdef"><b>Definition</b> CreatureGroups.h:122</div></div>
 <div class="ttc" id="aclassCreature_html_a94ab8e421d4a244df52b7a6b74b2842a"><div class="ttname"><a href="../../db/dd5/classCreature.html#a94ab8e421d4a244df52b7a6b74b2842a">Creature::GetSpawnId</a></div><div class="ttdeci">ObjectGuid::LowType GetSpawnId() const</div><div class="ttdef"><b>Definition</b> Creature.h:69</div></div>
 <div class="ttc" id="aclassCreature_html_ad58781a5fb6888d1e82dd4d068628709"><div class="ttname"><a href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">Creature::SetFormation</a></div><div class="ttdeci">void SetFormation(CreatureGroup *formation)</div><div class="ttdef"><b>Definition</b> Creature.h:355</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition</b> ObjectGuid.cpp:47</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00123">m_groupID</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00355">Creature::SetFormation()</a>, <a class="el" href="../../#l00127">sFormationMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00124">m_groupID</a>, <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, <a class="el" href="../../#l00355">Creature::SetFormation()</a>, <a class="el" href="../../#l00128">sFormationMgr</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00038">FormationMgr::AddCreatureToGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a07388907629846288949a5a896d0c00d" name="a07388907629846288949a5a896d0c00d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07388907629846288949a5a896d0c00d">&#9670;&#160;</a></span>DespawnFormation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CreatureGroup::DespawnFormation </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d75/Duration_8h.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
+          <td class="paramname"><em>timeToDespawn</em> = <code>0ms</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d75/Duration_8h.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td>
+          <td class="paramname"><em>forcedRespawnTimer</em> = <code>0s</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  421</span>{</div>
+<div class="line"><span class="lineno">  422</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  423</span>    {</div>
+<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (itr.first)</div>
+<div class="line"><span class="lineno">  425</span>            itr.first-&gt;DespawnOrUnsummon(timeToDespawn, forcedRespawnTimer);</div>
+<div class="line"><span class="lineno">  426</span>    }</div>
+<div class="line"><span class="lineno">  427</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00122">m_members</a>.</p>
 
 </div>
 </div>
@@ -341,7 +380,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition</b> Unit.h:1773</div></div>
 <div class="ttc" id="anamespaceAcore_html_ac2cb308fb001c35fbaa90489ea6cf478"><div class="ttname"><a href="../../d3/d0b/namespaceAcore.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a></div><div class="ttdeci">std::string ToString(Type &amp;&amp;val, Params &amp;&amp;... params)</div><div class="ttdef"><b>Definition</b> StringConvert.h:250</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01738">Unit::GetMotionMaster()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00074">MotionMaster::Initialize()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00124">m_Formed</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00233">MotionMaster::MoveIdle()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01738">Unit::GetMotionMaster()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00074">MotionMaster::Initialize()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00125">m_Formed</a>, <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, <a class="el" href="../../#l00233">MotionMaster::MoveIdle()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01110">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l01920">Creature::setDeathState()</a>.</p>
 
@@ -371,7 +410,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  100</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#afd1a31d9316e6cca399bea0e328b8333">m_groupID</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">m_groupID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00124">m_groupID</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01230">npc_commandscript::HandleNpcAddFormationCommand()</a>, and <a class="el" href="../../#l00064">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
 
@@ -401,7 +440,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   99</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">m_leader</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00121">m_leader</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l03744">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l01110">Creature::Motion_Initialize()</a>, <a class="el" href="../../#l01920">Creature::setDeathState()</a>, and <a class="el" href="../../#l00117">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
 
@@ -431,7 +470,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  105</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">m_members</a>.</p>
 
 </div>
 </div>
@@ -502,7 +541,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:893</div></div>
 <div class="ttc" id="aclassUnit_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:14033</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l14033">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, and <a class="el" href="../../#l00127">sFormationMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e">GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l14033">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, and <a class="el" href="../../#l00128">sFormationMgr</a>.</p>
 
 </div>
 </div>
@@ -521,22 +560,22 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  445</span>{</div>
-<div class="line"><span class="lineno">  446</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  447</span>    {</div>
-<div class="line"><span class="lineno">  448</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  449</span>        {</div>
-<div class="line"><span class="lineno">  450</span>            <span class="keywordflow">if</span> (!ignoreLeader || itr.first != <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
-<div class="line"><span class="lineno">  451</span>            {</div>
-<div class="line"><span class="lineno">  452</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  453</span>            }</div>
-<div class="line"><span class="lineno">  454</span>        }</div>
-<div class="line"><span class="lineno">  455</span>    }</div>
-<div class="line"><span class="lineno">  456</span> </div>
-<div class="line"><span class="lineno">  457</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  458</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  454</span>{</div>
+<div class="line"><span class="lineno">  455</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  456</span>    {</div>
+<div class="line"><span class="lineno">  457</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  458</span>        {</div>
+<div class="line"><span class="lineno">  459</span>            <span class="keywordflow">if</span> (!ignoreLeader || itr.first != <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#ae9689e23f755a12f1be14601bb2f2677">m_leader</a>)</div>
+<div class="line"><span class="lineno">  460</span>            {</div>
+<div class="line"><span class="lineno">  461</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  462</span>            }</div>
+<div class="line"><span class="lineno">  463</span>        }</div>
+<div class="line"><span class="lineno">  464</span>    }</div>
+<div class="line"><span class="lineno">  465</span> </div>
+<div class="line"><span class="lineno">  466</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  467</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">m_leader</a>, and <a class="el" href="../../#l00121">m_members</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00121">m_leader</a>, and <a class="el" href="../../#l00122">m_members</a>.</p>
 
 </div>
 </div>
@@ -564,7 +603,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  102</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>.empty(); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">m_members</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00064">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
 
@@ -584,19 +623,19 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  432</span>{</div>
-<div class="line"><span class="lineno">  433</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  434</span>    {</div>
-<div class="line"><span class="lineno">  435</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsInCombat())</div>
-<div class="line"><span class="lineno">  436</span>        {</div>
-<div class="line"><span class="lineno">  437</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  438</span>        }</div>
-<div class="line"><span class="lineno">  439</span>    }</div>
-<div class="line"><span class="lineno">  440</span> </div>
-<div class="line"><span class="lineno">  441</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  442</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  441</span>{</div>
+<div class="line"><span class="lineno">  442</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  443</span>    {</div>
+<div class="line"><span class="lineno">  444</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; itr.first-&gt;IsInCombat())</div>
+<div class="line"><span class="lineno">  445</span>        {</div>
+<div class="line"><span class="lineno">  446</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  447</span>        }</div>
+<div class="line"><span class="lineno">  448</span>    }</div>
+<div class="line"><span class="lineno">  449</span> </div>
+<div class="line"><span class="lineno">  450</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  451</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">m_members</a>.</p>
 
 </div>
 </div>
@@ -624,7 +663,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  103</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a2215d3dc155916d657c499fac6d4ce3e">m_Formed</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00124">m_Formed</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00125">m_Formed</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01110">Creature::Motion_Initialize()</a>, and <a class="el" href="../../#l00173">npc_cameron::UpdateAI()</a>.</p>
 
@@ -769,7 +808,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructPosition_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition</b> Position.h:121</div></div>
 <div class="ttc" id="astructPosition_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition</b> Position.h:122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00762">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00182">Position::GetExactDist()</a>, <a class="el" href="../../#l01738">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l01721">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l00765">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00737">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l01296">Unit::isPossessed()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l00379">MOVEMENTFLAG_DISABLE_GRAVITY</a>, <a class="el" href="../../#l00377">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00238">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00202">Acore::NormalizeMapCoord()</a>, <a class="el" href="../../#l00238">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00763">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00030">Movement::SelectSpeedType()</a>, <a class="el" href="../../#l00336">Creature::SetHomePosition()</a>, <a class="el" href="../../#l01723">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00766">Unit::SetUnitMovementFlags()</a>, <a class="el" href="../../#l00257">UNIT_FLAG_PLAYER_CONTROLLED</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, <a class="el" href="../../#l01556">WorldObject::UpdateGroundPositionZ()</a>, <a class="el" href="../../#l00031">WAYPOINT_MOVE_TYPE_LAND</a>, <a class="el" href="../../#l00030">WAYPOINT_MOVE_TYPE_RUN</a>, and <a class="el" href="../../#l00029">WAYPOINT_MOVE_TYPE_WALK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00762">Unit::AddUnitMovementFlag()</a>, <a class="el" href="../../#l00065">FormationInfo::follow_angle</a>, <a class="el" href="../../#l00064">FormationInfo::follow_dist</a>, <a class="el" href="../../#l00182">Position::GetExactDist()</a>, <a class="el" href="../../#l01738">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l01721">Unit::GetSpeedRate()</a>, <a class="el" href="../../#l00765">Unit::GetUnitMovementFlags()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87">GROUP_AI_FLAG_FOLLOW_LEADER</a>, <a class="el" href="../../#l00070">FormationInfo::HasGroupFlag()</a>, <a class="el" href="../../#l00737">Unit::HasUnitFlag()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l01296">Unit::isPossessed()</a>, <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, <a class="el" href="../../#l00379">MOVEMENTFLAG_DISABLE_GRAVITY</a>, <a class="el" href="../../#l00377">MOVEMENTFLAG_WALKING</a>, <a class="el" href="../../#l00238">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l00202">Acore::NormalizeMapCoord()</a>, <a class="el" href="../../#l00238">Position::NormalizeOrientation()</a>, <a class="el" href="../../#l00763">Unit::RemoveUnitMovementFlag()</a>, <a class="el" href="../../#l00030">Movement::SelectSpeedType()</a>, <a class="el" href="../../#l00336">Creature::SetHomePosition()</a>, <a class="el" href="../../#l01723">Unit::SetSpeedRate()</a>, <a class="el" href="../../#l00766">Unit::SetUnitMovementFlags()</a>, <a class="el" href="../../#l00257">UNIT_FLAG_PLAYER_CONTROLLED</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, <a class="el" href="../../#l01556">WorldObject::UpdateGroundPositionZ()</a>, <a class="el" href="../../#l00031">WAYPOINT_MOVE_TYPE_LAND</a>, <a class="el" href="../../#l00030">WAYPOINT_MOVE_TYPE_RUN</a>, and <a class="el" href="../../#l00029">WAYPOINT_MOVE_TYPE_WALK</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, and <a class="el" href="../../#l00117">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
 
@@ -841,7 +880,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassCreature_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition</b> Creature.h:144</div></div>
 <div class="ttc" id="aclassUnitAI_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l14033">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, and <a class="el" href="../../#l00127">sFormationMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e">GROUP_AI_FLAG_LEADER_ASSIST_MEMBER</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2">GROUP_AI_FLAG_MEMBER_ASSIST_LEADER</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l14033">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, and <a class="el" href="../../#l00128">sFormationMgr</a>.</p>
 
 </div>
 </div>
@@ -907,7 +946,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ab395fef0b407c0af40ba6274c32730a6"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab395fef0b407c0af40ba6274c32730a6">Unit::IsAIEnabled</a></div><div class="ttdeci">bool IsAIEnabled</div><div class="ttdef"><b>Definition</b> Unit.h:2079</div></div>
 <div class="ttc" id="aclassUnit_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../df/dd9/classUnit.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition</b> Unit.h:924</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GROUP_AI_FLAG_EVADE_MASK</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GROUP_AI_FLAG_EVADE_TOGETHER</a>, <a class="el" href="../../#l02079">Unit::IsAIEnabled</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l00924">Unit::IsInCombat()</a>, <a class="el" href="../../#l00138">Creature::IsInEvadeMode()</a>, <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, <a class="el" href="../../#l01991">Creature::Respawn()</a>, and <a class="el" href="../../#l00127">sFormationMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00144">Creature::AI()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043">GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd">GROUP_AI_FLAG_EVADE_MASK</a>, <a class="el" href="../../d5/db3/CreatureGroups_8h.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a">GROUP_AI_FLAG_EVADE_TOGETHER</a>, <a class="el" href="../../#l02079">Unit::IsAIEnabled</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l00924">Unit::IsInCombat()</a>, <a class="el" href="../../#l00138">Creature::IsInEvadeMode()</a>, <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, <a class="el" href="../../#l01991">Creature::Respawn()</a>, and <a class="el" href="../../#l00128">sFormationMgr</a>.</p>
 
 </div>
 </div>
@@ -936,7 +975,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  193</span>    member-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709">SetFormation</a>(<span class="keyword">nullptr</span>);</div>
 <div class="line"><span class="lineno">  194</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">m_leader</a>, <a class="el" href="../../#l00121">m_members</a>, and <a class="el" href="../../#l00355">Creature::SetFormation()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00121">m_leader</a>, <a class="el" href="../../#l00122">m_members</a>, and <a class="el" href="../../#l00355">Creature::SetFormation()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00064">FormationMgr::RemoveCreatureFromGroup()</a>.</p>
 
@@ -957,19 +996,19 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  421</span>{</div>
-<div class="line"><span class="lineno">  422</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
-<div class="line"><span class="lineno">  423</span>    {</div>
-<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; !itr.first-&gt;IsAlive())</div>
-<div class="line"><span class="lineno">  425</span>        {</div>
-<div class="line"><span class="lineno">  426</span>            itr.first-&gt;Respawn(force);</div>
-<div class="line"><span class="lineno">  427</span>        }</div>
-<div class="line"><span class="lineno">  428</span>    }</div>
-<div class="line"><span class="lineno">  429</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  430</span>{</div>
+<div class="line"><span class="lineno">  431</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83">m_members</a>)</div>
+<div class="line"><span class="lineno">  432</span>    {</div>
+<div class="line"><span class="lineno">  433</span>        <span class="keywordflow">if</span> (itr.first &amp;&amp; !itr.first-&gt;IsAlive())</div>
+<div class="line"><span class="lineno">  434</span>        {</div>
+<div class="line"><span class="lineno">  435</span>            itr.first-&gt;Respawn(force);</div>
+<div class="line"><span class="lineno">  436</span>        }</div>
+<div class="line"><span class="lineno">  437</span>    }</div>
+<div class="line"><span class="lineno">  438</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00121">m_members</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">m_members</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">boss_krik_thir::boss_krik_thirAI::Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00070">boss_krik_thir::boss_krik_thirAI::Reset()</a>.</p>
 
 </div>
 </div>
@@ -1042,7 +1081,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00099">GetLeader()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00444">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, and <a class="el" href="../../#l00185">RemoveMember()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00099">GetLeader()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00453">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, and <a class="el" href="../../#l00185">RemoveMember()</a>.</p>
 
 </div>
 </div>
@@ -1066,7 +1105,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00105">GetMembers()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00444">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00102">IsEmpty()</a>, <a class="el" href="../../#l00431">IsFormationInCombat()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, <a class="el" href="../../#l00185">RemoveMember()</a>, and <a class="el" href="../../#l00420">RespawnFormation()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">AddMember()</a>, <a class="el" href="../../#l00420">DespawnFormation()</a>, <a class="el" href="../../#l00323">FormationReset()</a>, <a class="el" href="../../#l00105">GetMembers()</a>, <a class="el" href="../../#l00236">GetNewTargetForMember()</a>, <a class="el" href="../../#l00453">IsAnyMemberAlive()</a>, <a class="el" href="../../#l00102">IsEmpty()</a>, <a class="el" href="../../#l00440">IsFormationInCombat()</a>, <a class="el" href="../../#l00347">LeaderMoveTo()</a>, <a class="el" href="../../#l00196">MemberEngagingTarget()</a>, <a class="el" href="../../#l00283">MemberEvaded()</a>, <a class="el" href="../../#l00185">RemoveMember()</a>, and <a class="el" href="../../#l00429">RespawnFormation()</a>.</p>
 
 </div>
 </div>
@@ -1080,7 +1119,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dc7/classCreatureGroup.html">CreatureGroup</a></li>
-    <li class="footer">Generated on Sun Jan 4 2026 06:26:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Jan 5 2026 06:33:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

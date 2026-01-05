@@ -1,8 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a25d0591a131f2e49b9d5c97ed2f2586e":[6,0,2011,11],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a27173bdb8e63f52563cbf15f10bfeb8a":[6,0,2011,7],
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a2fbda53115c9b69d2d01a77b3b60710d":[6,0,2011,15],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3781dde3a7fb066620ada4bda214d9d7":[6,0,2011,5],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3f4a61d141c51a29eaefc8118b5311e0":[6,0,2011,13],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7425750b8bd904de4bdf90a70f17ba52":[6,0,2011,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX89 =
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da0b02382e1dbfd0a93c5b89ae2bda59e9":[7,0,0,0,1,3,5,15,56,58],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da0f1b79a84d0306d769fe684e2f9f9012":[7,0,0,0,1,3,5,15,56,21],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da19e3a106a6bd3f65bf863e2d29dd887a":[7,0,0,0,1,3,5,15,56,61],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da298771e3a6e970401c3c9de4d57c1802":[7,0,0,0,1,3,5,15,56,6]
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da298771e3a6e970401c3c9de4d57c1802":[7,0,0,0,1,3,5,15,56,6],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2c09d8453566e10a7d2ff684a0703b06":[7,0,0,0,1,3,5,15,56,38],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2ce40078fbc123147590e40714879c2d":[7,0,0,0,1,3,5,15,56,42],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2d263c0e6e05324ea65cfef3fb0a95ac":[7,0,0,0,1,3,5,15,56,10]
 };

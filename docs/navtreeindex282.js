@@ -1,5 +1,8 @@
 var NAVTREEINDEX282 =
 {
+"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbcaf4a20369e2d64f239386ddfac38c9dde":[7,0,0,0,1,3,9,4,143,2],
+"db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079":[7,0,0,0,1,3,9,4,129],
+"db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079ae9db0efd6f0086e7aab260f4ec8c502f":[7,0,0,0,1,3,9,4,129,0],
 "db/d6e/spell__item_8cpp.html#acffae967cd0de0e559abfe1c1573273b":[7,0,0,0,1,3,9,4,197],
 "db/d6e/spell__item_8cpp.html#ad2b3659bba0251fbe57c1ce8cfe34b52":[7,0,0,0,1,3,9,4,152],
 "db/d6e/spell__item_8cpp.html#ad2b3659bba0251fbe57c1ce8cfe34b52a2122ca263d504556d035cf0c9771bc0c":[7,0,0,0,1,3,9,4,152,1],
@@ -223,10 +226,10 @@ var NAVTREEINDEX282 =
 "db/d7b/classItemScript.html#a87ab2f706bbb4e71921852d1ae6d78c7":[6,0,1395,6],
 "db/d7b/classItemScript.html#a924268357fec1a667f1184c91ebcef33":[6,0,1395,5],
 "db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[6,0,1395,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,12,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,32,6,0],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,32,6,0,1],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,12,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,12,6,0,1],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,32,6,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,32,6,0,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[6,0,12,6,0,0],
 "db/d7b/classgo__gilded__brazier.html":[6,0,1150],
@@ -246,8 +249,5 @@ var NAVTREEINDEX282 =
 "db/d7c/classnpc__nelson.html":[6,0,1991],
 "db/d7c/classnpc__nelson.html#a75fea281fb49249345c48236bf44b1c8":[6,0,1991,2],
 "db/d7c/classnpc__nelson.html#aa693b365a15d4617f214f9c3c229bf89":[6,0,1991,3],
-"db/d7c/classnpc__nelson.html#ada597926a6db1aa7823ddabc19945b11":[6,0,1991,1],
-"db/d7c/classnpc__nelson.html#aff8e412cfcabd7b653cd30d29878be6a":[6,0,1991,4],
-"db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html":[5,0,32,6,16],
-"db/d7c/structWorldPackets_1_1Guild_1_1GuildBankTabInfo.html":[6,0,12,6,16]
+"db/d7c/classnpc__nelson.html#ada597926a6db1aa7823ddabc19945b11":[6,0,1991,1]
 };

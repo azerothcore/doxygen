@@ -1,8 +1,5 @@
 var NAVTREEINDEX67 =
 {
-"d2/d73/classScriptMgr.html#ad84c12ef3faa14e72a646f85c63e4c79":[6,0,2528,342],
-"d2/d73/classScriptMgr.html#ad8c9ba7246268c7c7658761c33e5b4d9":[6,0,2528,450],
-"d2/d73/classScriptMgr.html#ad901e8dfe81d9dd0dd2b9f96f877bd07":[6,0,2528,411],
 "d2/d73/classScriptMgr.html#ad943009b55ebc27bccc5d6bb418e5feb":[6,0,2528,216],
 "d2/d73/classScriptMgr.html#ad9eefc8f79b1269c0dd77668d91ee20a":[6,0,2528,309],
 "d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff":[6,0,2528,471],
@@ -215,8 +212,8 @@ var NAVTREEINDEX67 =
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868":[7,0,0,0,0,1,0,3,1],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,0],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,2],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
 "d2/d7e/boss__pandemonius_8cpp.html":[7,0,0,0,1,3,7,0,1,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX67 =
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#aef980c0fe0c50beca167ea0ef46ff0c7":[6,0,739,0,5],
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#afff251a2cc56b7ce686a5b58c196c16c":[6,0,739,0,7],
 "d2/d80/classSmartTrigger.html":[6,0,2577],
-"d2/d80/classSmartTrigger.html#a713066a301e22e7744b3f82a1ca134ed":[6,0,2577,1]
+"d2/d80/classSmartTrigger.html#a713066a301e22e7744b3f82a1ca134ed":[6,0,2577,1],
+"d2/d80/classSmartTrigger.html#ae94d836bb1a714a3b90dcf146aa967a9":[6,0,2577,0],
+"d2/d80/classboss__ragnaros.html":[6,0,670],
+"d2/d80/classboss__ragnaros.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5":[6,0,670,1]
 };

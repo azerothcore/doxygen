@@ -1,5 +1,8 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba896e7c5e16b9017d4819d2d4abd00b28":[7,0,0,0,1,2,26,2,1,8],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8b0ad8ad60a3a1610cc79f115d93cdce":[7,0,0,0,1,2,26,2,1,73],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9271d3dd36a1e3161fae81366465f74c":[7,0,0,0,1,2,26,2,1,23],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9cecabaa74f226417647b2162a8355ed":[7,0,0,0,1,2,26,2,1,49],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9ddbc9e82f7cfef320fb2efa87578b30":[7,0,0,0,1,2,26,2,1,41],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9ef69e108c829a52a71e186933314230":[7,0,0,0,1,2,26,2,1,63],
@@ -246,8 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d4d/ArenaTeamHandler_8cpp.html":[7,0,0,0,1,2,22,2],
 "dc/d4d/enuminfo__LogCommon_8cpp.html":[7,0,0,0,0,9,7],
 "dc/d4e/classnpc__dalaran__warrior.html":[6,0,1729],
-"dc/d4e/classnpc__dalaran__warrior.html#a13d44b85173232ddedcc35184d50549c":[6,0,1729,1],
-"dc/d4e/classnpc__dalaran__warrior.html#a1e84676d2a76bac728a1f23f5f9fc25e":[6,0,1729,2],
-"dc/d4e/zone__wetlands_8cpp.html":[7,0,0,0,1,3,2,34],
-"dc/d4e/zone__wetlands_8cpp.html#a96be3075a4a99658d93ffe3d69ba369a":[7,0,0,0,1,3,2,34,4]
+"dc/d4e/classnpc__dalaran__warrior.html#a13d44b85173232ddedcc35184d50549c":[6,0,1729,1]
 };

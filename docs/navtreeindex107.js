@@ -1,8 +1,5 @@
 var NAVTREEINDEX107 =
 {
-"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3f9a920d63580614256d4f9441e7d330":[7,0,0,0,1,3,2,16,0,5,0],
-"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5915d30ae12d04f2a5459eeaaf4c2033":[7,0,0,0,1,3,2,16,0,5,7],
-"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,0,5,1],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8abd402345dba872e20ea4cf78433433":[7,0,0,0,1,3,2,16,0,5,8],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97b901d87728b14d6992af585adaca44":[7,0,0,0,1,3,2,16,0,5,6],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,0,5,5],
@@ -70,8 +67,8 @@ var NAVTREEINDEX107 =
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,10,20,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,29,20,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,10,20,2],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,29,20,0],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,10,20,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,29,20,0],
 "d3/db3/structNpcFlagText.html":[6,0,2311],
 "d3/db3/structNpcFlagText.html#a87700bc5f863f448b346c2aec2152ba4":[6,0,2311,1],
 "d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[6,0,2311,0],
@@ -171,8 +168,8 @@ var NAVTREEINDEX107 =
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a2fd1298c1da842824fca7d971cb2028b":[6,0,12,7,12,1],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[5,0,32,7,12,0],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a7b0432d3b1243bdf6d70f9f55ee0f614":[6,0,12,7,12,0],
-"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,32,7,12,2],
 "d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[6,0,12,7,12,2],
+"d3/dba/classWorldPackets_1_1Item_1_1ListInventory.html#a9c6288866c870b4a82169fe7fbef4512":[5,0,32,7,12,2],
 "d3/dbb/Battleground_8cpp.html":[7,0,0,0,1,2,8,9],
 "d3/dbb/classquest__commandscript.html":[6,0,2463],
 "d3/dbb/classquest__commandscript.html#a044c30fdaedd07060284bd37fd2e226c":[6,0,2463,3],
@@ -197,8 +194,8 @@ var NAVTREEINDEX107 =
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,20,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[6,0,6,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,20,0,2,3],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[6,0,6,0,2,0],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,20,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[6,0,4249,1],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#a02538aefc1b014b60957d4c67793000f":[6,0,4249,1,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html#aca34dff6659f2da63f31e12bb41cf3d0":[6,0,4249,1,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX107 =
 "d3/dbd/DBCStructure_8h.html#af5ab857719ce6437c52aee4b87c639f3":[7,0,0,0,1,4,0,7,127],
 "d3/dbe/structboss__fjola_1_1boss__fjolaAI.html":[6,0,471,0],
 "d3/dbe/structboss__fjola_1_1boss__fjolaAI.html#a59a3f2453f923d4f19c63e88402d1a76":[6,0,471,0,1],
-"d3/dbe/structboss__fjola_1_1boss__fjolaAI.html#aa46fdff841d01f28ef50aa5363082f71":[6,0,471,0,0]
+"d3/dbe/structboss__fjola_1_1boss__fjolaAI.html#aa46fdff841d01f28ef50aa5363082f71":[6,0,471,0,0],
+"d3/dbe/structboss__warchief__kargath__bladefist.html":[6,0,779],
+"d3/dbe/structboss__warchief__kargath__bladefist.html#a0957dbfd6c085575fa862f38c87b6b3d":[6,0,779,0],
+"d3/dbe/structboss__warchief__kargath__bladefist.html#a1397317259589ea69f77f52f60852043":[6,0,779,9]
 };

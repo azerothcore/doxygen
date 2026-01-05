@@ -1,8 +1,5 @@
 var NAVTREEINDEX163 =
 {
-"d6/d0c/go__scripts_8cpp.html#ab1491d39f2c0db10910a2216c3ba8711":[7,0,0,0,1,3,10,5,102],
-"d6/d0c/go__scripts_8cpp.html#ab3bd73bdd88e936930a8eb84b4b95a62":[7,0,0,0,1,3,10,5,51],
-"d6/d0c/go__scripts_8cpp.html#ac6b02a297c94062e319baae58b848232":[7,0,0,0,1,3,10,5,72],
 "d6/d0c/go__scripts_8cpp.html#ac6b02a297c94062e319baae58b848232acd254d27323a70361e354e43562727b8":[7,0,0,0,1,3,10,5,72,0],
 "d6/d0c/go__scripts_8cpp.html#acaed40aad5cd8d9ba2dfe703ed18b436":[7,0,0,0,1,3,10,5,57],
 "d6/d0c/go__scripts_8cpp.html#acb117480e1211071a9d8031a50fb1286":[7,0,0,0,1,3,10,5,78],
@@ -230,12 +227,12 @@ var NAVTREEINDEX163 =
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,32,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,12,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,32,6,42,3],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,32,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,12,6,42,0],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,32,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,12,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,32,6,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,32,6,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,12,6,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,32,6,42,1],
 "d6/d18/classModel.html":[6,0,1519],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[6,0,1519,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[6,0,1519,6],
@@ -249,5 +246,8 @@ var NAVTREEINDEX163 =
 "d6/d19/classspell__the__lich__king__harvest__soul__aura.html":[6,0,3917],
 "d6/d19/classspell__the__lich__king__harvest__soul__aura.html#a43b23e5c53cca872a26737d790f2893d":[6,0,3917,1],
 "d6/d19/classspell__the__lich__king__harvest__soul__aura.html#a45696018a8810cf1f11fbddcd853d1f4":[6,0,3917,4],
-"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#aabd997d6db5fd38b1fdd97d90b1347e9":[6,0,3917,0]
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#aabd997d6db5fd38b1fdd97d90b1347e9":[6,0,3917,0],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#ad6247c7f8abf41cd6190d5252ed6834e":[6,0,3917,3],
+"d6/d19/classspell__the__lich__king__harvest__soul__aura.html#ae51bcb37894240c6fd064cd329698a55":[6,0,3917,2],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html":[7,0,0,0,1,3,5,6,11]
 };

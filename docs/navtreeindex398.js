@@ -1,5 +1,14 @@
 var NAVTREEINDEX398 =
 {
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a96ff03de70b433e2ff5c35f50d062c55":[6,0,2080,0,9],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ab9e42364744d89301944b7baa852bc9f":[6,0,2080,0,10],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ad930520b705ab63f903f7b68d660adbb":[6,0,2080,0,4],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ade38de77f83da2f084a9ad3f8ada01d3":[6,0,2080,0,1],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ae5289a2645f3d17da452810b22a77713":[6,0,2080,0,12],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#aef1192735d87a7e83ea00cc8cb9303c7":[6,0,2080,0,2],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#af676158d45338ddbc2a366e399796642":[6,0,2080,0,15],
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d":[6,0,2080,0,8],
+"df/dd7/classboss__devourer__of__souls.html":[6,0,426],
 "df/dd7/classboss__devourer__of__souls.html#a3de68fa630c5b74104c461f88edd1d36":[6,0,426,2],
 "df/dd7/classboss__devourer__of__souls.html#a95b3a33be3b85a4c7ecfb4370a9ddc60":[6,0,426,1],
 "df/dd8/classDBCStorage.html":[6,0,962],
@@ -240,14 +249,5 @@ var NAVTREEINDEX398 =
 "df/dd9/classUnit.html#a356d82b82f6fbae78cb55ecb7bb67c0e":[6,0,4239,578],
 "df/dd9/classUnit.html#a35a2361f5a1b719e6032f564c4f9028b":[6,0,4239,530],
 "df/dd9/classUnit.html#a35d377d34a14d5526cf6f6d03d3b30fa":[6,0,4239,366],
-"df/dd9/classUnit.html#a369190538cd53ebc6df26d9116e2db75":[6,0,4239,220],
-"df/dd9/classUnit.html#a372fba48bf22c59362ae241ca83f51ec":[6,0,4239,455],
-"df/dd9/classUnit.html#a373a25c8d6ff3ca2f5653267c1269ad4":[6,0,4239,327],
-"df/dd9/classUnit.html#a375c07471b5dd9708337960e21ca5b28":[6,0,4239,817],
-"df/dd9/classUnit.html#a37a962c6e3cf6106d547d733290740e1":[6,0,4239,722],
-"df/dd9/classUnit.html#a37bc079e17756196dd7dbb4f6722c1f9":[6,0,4239,76],
-"df/dd9/classUnit.html#a37bdb0851bcf8491275b83c163538f97":[6,0,4239,622],
-"df/dd9/classUnit.html#a38a7263fc4ea6f9ae2bb7234392fd92e":[6,0,4239,508],
-"df/dd9/classUnit.html#a390a9b5fdbfaa9c237f8eed33579a1aa":[6,0,4239,92],
-"df/dd9/classUnit.html#a395fdde66493c57aeedacc2b6d82c742":[6,0,4239,208]
+"df/dd9/classUnit.html#a369190538cd53ebc6df26d9116e2db75":[6,0,4239,220]
 };

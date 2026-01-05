@@ -1,5 +1,8 @@
 var NAVTREEINDEX206 =
 {
+"d7/dcf/structCreatureModel.html":[6,0,931],
+"d7/dcf/structCreatureModel.html#a02b05bf92c3341b90173b4aa998087ba":[6,0,931,1],
+"d7/dcf/structCreatureModel.html#a0f48fde2c8438ecf411d7f80d3bca1a9":[6,0,931,2],
 "d7/dcf/structCreatureModel.html#a49bec3e0996adfb6ec5bd5a9b6e38448":[6,0,931,4],
 "d7/dcf/structCreatureModel.html#a4b729e5730c1fa0e5e4995f5dd65e9b3":[6,0,931,3],
 "d7/dcf/structCreatureModel.html#a7736d6480dca65a68afb82a830b35874":[6,0,931,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX206 =
 "d7/de4/structGossipTextOption.html#a5c743df7a7ad634c5b3f3376547fda00":[6,0,1216,3],
 "d7/de4/structGossipTextOption.html#a756f24dbee852a7fbe152c0cb082c412":[6,0,1216,0],
 "d7/de4/structGossipTextOption.html#a8d64d7b8fcdbd995cc11e22adde8c0de":[6,0,1216,5],
-"d7/de7/classTriggerWickedSpirit.html":[6,0,4225],
-"d7/de7/classTriggerWickedSpirit.html#a24b85a62208f881418f97b0a8cb10f27":[6,0,4225,2],
-"d7/de7/classTriggerWickedSpirit.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d":[6,0,4225,1],
-"d7/de7/classTriggerWickedSpirit.html#ab460675158bfedd7f17a4b8e1cc06b3c":[6,0,4225,3]
+"d7/de7/classTriggerWickedSpirit.html":[6,0,4225]
 };

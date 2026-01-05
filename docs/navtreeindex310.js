@@ -1,5 +1,8 @@
 var NAVTREEINDEX310 =
 {
+"dc/d5f/classspell__spore__cloud.html#a75515896f3d94d227963a3c5258e2d0d":[6,0,3868,1],
+"dc/d5f/classspell__spore__cloud.html#aeacb1ffc287cc7128366ee0484c2994b":[6,0,3868,2],
+"dc/d5f/classspell__spore__cloud.html#af6c30bb292a69d5eaaaf75c8a76111ea":[6,0,3868,0],
 "dc/d5f/structboss__hexlord__malacrass.html":[6,0,531],
 "dc/d5f/structboss__hexlord__malacrass.html#a40ccd2e586895ab1cde3c51bcd56c11b":[6,0,531,7],
 "dc/d5f/structboss__hexlord__malacrass.html#a69e7a3aa2cb068706651bad34363099f":[6,0,531,2],
@@ -112,14 +115,14 @@ var NAVTREEINDEX310 =
 "dc/d6c/classspell__dreamwalker__mana__void__aura.html#afd1e28b224035aef5ac109f38d7e118d":[6,0,2815,2],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html":[5,0,32,17],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html":[6,0,12,17],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[6,0,12,17,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[5,0,32,17,3],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,12,17,1],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[6,0,12,17,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,32,17,1],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,12,17,0],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,12,17,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,32,17,0],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,12,17,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,12,17,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,32,17,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,12,17,2],
 "dc/d6d/classgo__crystalline__tear.html":[6,0,1135],
 "dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[6,0,1135,1],
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1135,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d77/ChatHandler_8cpp.html#ae6092f307f09a5dcbbc5ed10c145032f":[7,0,0,0,1,2,22,10,1],
 "dc/d77/cs__ticket_8cpp.html":[7,0,0,0,1,3,0,45],
 "dc/d77/cs__ticket_8cpp.html#ad71463f4442d2e022a92404a4d9dec76":[7,0,0,0,1,3,0,45,1],
-"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html":[6,0,2197,0],
-"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#a751e37388df10abf4bf9df5d3f373fa3":[6,0,2197,0,0],
-"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#a7f60ea2596fa4af2209333696dbe00e0":[6,0,2197,0,1],
-"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#ade038312363f976b34868ed2cbebb58d":[6,0,2197,0,4]
+"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html":[6,0,2197,0]
 };

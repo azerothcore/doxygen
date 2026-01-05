@@ -1,5 +1,8 @@
 var NAVTREEINDEX225 =
 {
+"d8/dca/classspell__nether__portal__perseverence.html":[6,0,3512],
+"d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3512,2],
+"d8/dca/classspell__nether__portal__perseverence.html#ac9f6f1927c9f66682892c32d4a431cc4":[6,0,3512,0],
 "d8/dca/classspell__nether__portal__perseverence.html#ae908ad87781553cc3bed05ea510a4447":[6,0,3512,1],
 "d8/dcb/classBGQueueInviteEvent.html":[6,0,357],
 "d8/dcb/classBGQueueInviteEvent.html#a07f5520ab61cdfd4eadc5d0815067135":[6,0,357,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX225 =
 "d8/dd6/DBCfmt_8h.html#abd8f1cd0e0a32dddac788f89b2f0d558":[7,0,0,0,1,4,0,3,11],
 "d8/dd6/DBCfmt_8h.html#abf1b7677d9768bf62c6cc4ae3d687fcc":[7,0,0,0,1,4,0,3,93],
 "d8/dd6/DBCfmt_8h.html#ac022542c156c1eb7dd8247b8ba8b9a09":[7,0,0,0,1,4,0,3,105],
-"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[7,0,0,0,1,4,0,3,24],
-"d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[7,0,0,0,1,4,0,3,70],
-"d8/dd6/DBCfmt_8h.html#ac62d1b9c6855c6a25a92d52b1de14c7a":[7,0,0,0,1,4,0,3,91],
-"d8/dd6/DBCfmt_8h.html#ac8259d0bba8e665c07c83f1cbe21f281":[7,0,0,0,1,4,0,3,36]
+"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[7,0,0,0,1,4,0,3,24]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX129 =
 {
-"d4/d7b/classspell__bloodspore__haze.html#a9e1dbc7714a35bcc7ec26286419517c2":[6,0,2681,3],
-"d4/d7d/structnpc__pet__shaman__earth__elemental.html":[6,0,2039],
-"d4/d7d/structnpc__pet__shaman__earth__elemental.html#a07f3792cb3b5264d209f1b4726867773":[6,0,2039,0],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#a2af73c97ef60b5b0ade26c9760b8b379":[6,0,2039,5],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#a8bbca6686ae324a50cd1598125280446":[6,0,2039,1],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html#ab28951b483cab31bf5672fc74e7323e1":[6,0,2039,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX129 =
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada5540d6687faadb9887397324b33591ed":[7,0,0,0,1,3,5,2,1,1,46,1],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada72998a4d83035498eb434a926b3c605c":[7,0,0,0,1,3,5,2,1,1,46,4],
 "d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada8a7a86cecbd82f651dc88384ca189df3":[7,0,0,0,1,3,5,2,1,1,46,6],
-"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada9998d085c9f5766052a44ebd7cb37332":[7,0,0,0,1,3,5,2,1,1,46,0]
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cada9998d085c9f5766052a44ebd7cb37332":[7,0,0,0,1,3,5,2,1,1,46,0],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadaa3802b35e29f4f77f9fcf61efb761e7b":[7,0,0,0,1,3,5,2,1,1,46,2],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadac3e433073511298830a6d6c7b7871fb1":[7,0,0,0,1,3,5,2,1,1,46,9],
+"d4/d81/boss__faction__champions_8cpp.html#a986d952105e4b72a48dc92a562aa9cadaf942ec6a614a398d5fb37e03c5fe5bee":[7,0,0,0,1,3,5,2,1,1,46,8]
 };

@@ -5,12 +5,8 @@ var boss__krikthir__the__gatewatcher_8cpp =
     [ "achievement_watch_him_die", "d1/d4a/classachievement__watch__him__die.html", "d1/d4a/classachievement__watch__him__die" ],
     [ "MiscActions", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5", [
       [ "ACTION_MINION_ENGAGED", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41", null ],
-      [ "GROUP_SWARM", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c", null ]
-    ] ],
-    [ "Npcs", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54d", [
-      [ "NPC_WARRIOR", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda", null ],
-      [ "NPC_SKIRMISHER", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da", null ],
-      [ "NPC_SHADOWCASTER", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502", null ]
+      [ "GROUP_SWARM", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c", null ],
+      [ "GROUP_WATCHERS", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#aa7ec8fb438fd13c8679ba17beac7d9a5ab63b47e8ada1187322abcc935aacaf9e", null ]
     ] ],
     [ "Spells", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SUBBOSS_AGGRO_TRIGGER", "d1/d92/boss__krikthir__the__gatewatcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33", null ],

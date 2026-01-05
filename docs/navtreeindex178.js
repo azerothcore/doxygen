@@ -1,17 +1,14 @@
 var NAVTREEINDEX178 =
 {
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[6,0,12,10,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,32,10,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,32,10,4,1],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,10,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[6,0,12,10,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,32,10,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,32,10,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[6,0,12,10,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[5,0,32,10,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[6,0,12,10,4,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,32,10,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[6,0,12,10,4,2],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,32,10,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,32,10,4,0],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[6,0,12,10,4,0],
 "d6/d9d/classspell__brewfest__add__mug.html":[6,0,2689],
@@ -249,5 +246,8 @@ var NAVTREEINDEX178 =
 "d6/dba/classinstance__azjol__nerub.html#a8bb8477669c6369afe508a400bd4d489":[6,0,1292,2],
 "d6/dba/classinstance__oculus.html":[6,0,1325],
 "d6/dba/classinstance__oculus.html#a404205ea7106531ea57307c40b9589bb":[6,0,1325,1],
-"d6/dba/classinstance__oculus.html#ae6d28dfd615e79d4308e4384b7c8857f":[6,0,1325,2]
+"d6/dba/classinstance__oculus.html#ae6d28dfd615e79d4308e4384b7c8857f":[6,0,1325,2],
+"d6/dba/midsummer_8cpp.html":[7,0,0,0,1,3,3,6],
+"d6/dba/midsummer_8cpp.html#a062653dfa3661348a9ceb6f304df9d22":[7,0,0,0,1,3,3,6,28],
+"d6/dba/midsummer_8cpp.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47":[7,0,0,0,1,3,3,6,18]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX113 =
 {
-"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08daffb1964de815aad2c84d07d8135a308b":[7,0,0,0,1,2,8,1,3,21,46],
-"d3/dd4/BattlegroundAV_8h.html#ab4cc2631b7670ab602dcbbd1ae9a1f85":[7,0,0,0,1,2,8,1,3,39],
-"d3/dd4/BattlegroundAV_8h.html#ab5c9c507ee29145635eab1eebe05643f":[7,0,0,0,1,2,8,1,3,31],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cb":[7,0,0,0,1,2,8,1,3,18],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba0293e2a168a4070cb237e284213c0461":[7,0,0,0,1,2,8,1,3,18,28],
 "d3/dd4/BattlegroundAV_8h.html#abfd8fb0cb1d971cecbaa49e515e6f4cba02997fb73441c0844b158481b3d7e476":[7,0,0,0,1,2,8,1,3,18,44],
@@ -249,5 +246,8 @@ var NAVTREEINDEX113 =
 "d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931":[7,0,0,0,1,3,4,4,2,3,1],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html":[6,0,618,0],
 "d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a44ebee45de335ff6f653e9d60a364458":[6,0,618,0,1],
-"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a54deac512294bb0901d072faef3166b1":[6,0,618,0,3]
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a54deac512294bb0901d072faef3166b1":[6,0,618,0,3],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc":[6,0,618,0,6],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1":[6,0,618,0,4],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#abb35c98da760db634545b81d740cd51a":[6,0,618,0,0]
 };

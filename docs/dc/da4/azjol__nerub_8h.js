@@ -3,6 +3,9 @@ var azjol__nerub_8h =
     [ "AzjolNerubScriptName", "dc/da4/azjol__nerub_8h.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
     [ "DataHeader", "dc/da4/azjol__nerub_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "RegisterAzjolNerubCreatureAI", "dc/da4/azjol__nerub_8h.html#a4a60f3abea9a1edadc00e60726067bba", null ],
+    [ "ANActions", "dc/da4/azjol__nerub_8h.html#a353c804af4bd1bd2a5d5193704607689", [
+      [ "ACTION_MINION_DIED", "dc/da4/azjol__nerub_8h.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777", null ]
+    ] ],
     [ "ANData", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365e", [
       [ "DATA_KRIKTHIR", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
       [ "DATA_HADRONOX", "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
@@ -16,6 +19,9 @@ var azjol__nerub_8h =
       [ "NPC_WATCHER_NARJIL", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
       [ "NPC_WATCHER_GASHRA", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
       [ "NPC_WATCHER_SILTHIK", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
+      [ "NPC_ANUBAR_SKIRMISHER", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebaab6881c6b204dd808545bca2050e3fcf", null ],
+      [ "NPC_ANUBAR_SHADOWCASTER", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebacc327c02c47a2a2ad6994c7c87132127", null ],
+      [ "NPC_ANUBAR_WARRIOR", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba0e94bdd3b8ef0aba807bba8e440a07ca", null ],
       [ "NPC_SKITTERING_SWARMER", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
       [ "NPC_SKITTERING_INFECTIOR", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
       [ "NPC_KRIKTHIR_THE_GATEWATCHER", "dc/da4/azjol__nerub_8h.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],

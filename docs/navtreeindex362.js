@@ -1,5 +1,13 @@
 var NAVTREEINDEX362 =
 {
+"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,4034,0],
+"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,4034,2],
+"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[6,0,4034,1],
+"de/d3b/MapBuilder_8h.html":[7,0,0,0,3,2,5],
+"de/d3b/MapBuilder_8h.html#aa2aae6f254337f29866a5d240d5ec2b1":[7,0,0,0,3,2,5,5],
+"de/d3b/classMotionMaster.html":[6,0,1527],
+"de/d3b/classMotionMaster.html#a007516d713c4a1e163212eff8bc72faa":[6,0,1527,0],
+"de/d3b/classMotionMaster.html#a00eea001f3c196e2bf2849adb300abce":[6,0,1527,48],
 "de/d3b/classMotionMaster.html#a0138010ee58df715205b74c99437f138":[6,0,1527,71],
 "de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820":[6,0,1527,22],
 "de/d3b/classMotionMaster.html#a0cd0d4ba421847f9414ae3643fc46aa8":[6,0,1527,23],
@@ -241,13 +249,5 @@ var NAVTREEINDEX362 =
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da21ef8b8ff914dd66684e5cc85ca86f0e":[7,0,0,0,1,2,15,5,32,1],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da3b710e1f7409dcce1369d24da8d0e27c":[7,0,0,0,1,2,15,5,32,0],
 "de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da6007d32ac1027fdc23c0db35632b3b9d":[7,0,0,0,1,2,15,5,32,3],
-"de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da94d2d4aff127ae9692ba0f7688bc8243":[7,0,0,0,1,2,15,5,32,2],
-"de/d3d/LFGMgr_8h.html#a8b7ffe5b0af9c677b84adf100fa5cd2e":[7,0,0,0,1,2,15,5,18],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342ed":[7,0,0,0,1,2,15,5,31],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0":[7,0,0,0,1,2,15,5,31,4],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda37a1afe09ab466e0059387b973d74af5":[7,0,0,0,1,2,15,5,31,3],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda4996fcd543a1db3f631416f632343fd6":[7,0,0,0,1,2,15,5,31,5],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658":[7,0,0,0,1,2,15,5,31,0],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494":[7,0,0,0,1,2,15,5,31,1],
-"de/d3d/LFGMgr_8h.html#a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8":[7,0,0,0,1,2,15,5,31,6]
+"de/d3d/LFGMgr_8h.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da94d2d4aff127ae9692ba0f7688bc8243":[7,0,0,0,1,2,15,5,32,2]
 };

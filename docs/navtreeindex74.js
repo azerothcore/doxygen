@@ -1,8 +1,5 @@
 var NAVTREEINDEX74 =
 {
-"d2/dd6/classOutdoorPvP.html#ad321bced2cc1af3cf50b55a659f1d317":[6,0,2348,33],
-"d2/dd6/classOutdoorPvP.html#ad8351fe5ddc285f8d71f9b978d11ab2a":[6,0,2348,1],
-"d2/dd6/classOutdoorPvP.html#ae34ffe3b531f8689d186610b4a06d093":[6,0,2348,7],
 "d2/dd6/classOutdoorPvP.html#aeb8ce2be078f2ce067bc7f90a879e4cf":[6,0,2348,18],
 "d2/dd6/classOutdoorPvP.html#aec47df6fa8d91ae78d0f2184a3fbf780":[6,0,2348,16],
 "d2/dd6/classOutdoorPvP.html#af20e003de861bb9f9589b26fbad77cf8":[6,0,2348,26],
@@ -27,12 +24,12 @@ var NAVTREEINDEX74 =
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2457],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[6,0,2457,2],
 "d2/ddb/structPyramidEventData.html#a44a9f5e58bfa58e2e2325e116e988f07":[6,0,2457,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX74 =
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#adaf9581259a774087ce02725b42b6b47":[6,0,504,0,10],
 "d2/de9/classSpellInfo.html":[6,0,4121],
 "d2/de9/classSpellInfo.html#a0097892412fb268b302090f3721866e7":[6,0,4121,139],
-"d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[6,0,4121,80]
+"d2/de9/classSpellInfo.html#a014e7ab710040723f7a4f20d1c01e9b5":[6,0,4121,80],
+"d2/de9/classSpellInfo.html#a034d45134266859b7e536d5cd307a16f":[6,0,4121,172],
+"d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591":[6,0,4121,131],
+"d2/de9/classSpellInfo.html#a0446ea6e99c6af9731c43a1f0708d299":[6,0,4121,6]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX252 =
 {
+"da/d21/classInvalidAppenderArgsException.html#a5cfc42ea2456b9c7d60f06a1d469f1ae":[6,0,1372,0],
+"da/d21/classspell__krystallus__shatter.html":[6,0,3399],
+"da/d21/classspell__krystallus__shatter.html#a0932ccc5652bc4901aacbe2cf8d6c7d8":[6,0,3399,3],
 "da/d21/classspell__krystallus__shatter.html#a34337690029eedb60a17572dbbf1e1f9":[6,0,3399,1],
 "da/d21/classspell__krystallus__shatter.html#a5d778f906e1ee820cc97b0b32839cc78":[6,0,3399,0],
 "da/d21/classspell__krystallus__shatter.html#ad554d79e1a98490085b22f5038d058da":[6,0,3399,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX252 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c38d7d76b8741d45023a0ccc3c0f9b3":[7,0,0,0,1,2,41,0,0,6,25],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6c684b941fc93d5488ff49a976973596":[7,0,0,0,1,2,41,0,0,6,27],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6ce8ab254d7a5e7caa05e4c53549a117":[7,0,0,0,1,2,41,0,0,6,72],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6d1575d5094063c40f7efb7816adabe2":[7,0,0,0,1,2,41,0,0,6,158],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4650df4228c83bc7c1bdcb059fcf81":[7,0,0,0,1,2,41,0,0,6,254],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6f4ce86c39fc491ab2a65efda7566c9f":[7,0,0,0,1,2,41,0,0,6,109],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a71228de916b6c96108c7689f11d6303c":[7,0,0,0,1,2,41,0,0,6,81]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6d1575d5094063c40f7efb7816adabe2":[7,0,0,0,1,2,41,0,0,6,158]
 };

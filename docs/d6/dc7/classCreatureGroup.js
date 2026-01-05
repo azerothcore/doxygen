@@ -4,6 +4,7 @@ var classCreatureGroup =
     [ "CreatureGroup", "d6/dc7/classCreatureGroup.html#aa5016e1ecda1477992e159bf604e4280", null ],
     [ "~CreatureGroup", "d6/dc7/classCreatureGroup.html#a16be792f604999ba80b361b59ea77a76", null ],
     [ "AddMember", "d6/dc7/classCreatureGroup.html#afca7fafddd0f361507469f875bf5d17c", null ],
+    [ "DespawnFormation", "d6/dc7/classCreatureGroup.html#a07388907629846288949a5a896d0c00d", null ],
     [ "FormationReset", "d6/dc7/classCreatureGroup.html#a1b206e69df855ed13f3b687017474a1a", null ],
     [ "GetId", "d6/dc7/classCreatureGroup.html#a0d67df48ef040fc8f14b1ddf307aed14", null ],
     [ "GetLeader", "d6/dc7/classCreatureGroup.html#a160d77342c8e11d97f66def5ff795929", null ],

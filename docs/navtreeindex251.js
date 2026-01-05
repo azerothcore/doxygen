@@ -1,5 +1,8 @@
 var NAVTREEINDEX251 =
 {
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a679228ccb0e31f463b04cd873fa7e16f":[6,0,664,0,1],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a6ab536425fe96d4e4e027d12acecb8e6":[6,0,664,0,5],
+"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a77f05795428fa50c20a83ca926918e89":[6,0,664,0,17],
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a878db347de46937a10603d8d04d42025":[6,0,664,0,14],
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a8b6d8fd932bfc5dd3f40a4506aab065a":[6,0,664,0,20],
 "da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#a9208c67592cfdcea597a58184eaf9c2d":[6,0,664,0,13],
@@ -91,18 +94,18 @@ var NAVTREEINDEX251 =
 "da/d16/structnpc__grandmother.html#ae39335d22b5fd1fc4c0f9d34e8977124":[6,0,1820,1],
 "da/d17/classAcore_1_1ContainerInserter.html":[6,0,0,41],
 "da/d17/classAcore_1_1ContainerInserter.html":[5,0,1,53],
-"da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[6,0,0,41,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,1,53,3],
+"da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[6,0,0,41,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,1,53,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[6,0,0,41,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[6,0,0,41,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,1,53,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,1,53,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,41,0],
-"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,53,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[6,0,0,41,4],
-"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,41,2],
+"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,53,4],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,1,53,2],
+"da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,41,2],
 "da/d17/classat__naxxramas__hub__portal.html":[6,0,237],
 "da/d17/classat__naxxramas__hub__portal.html#a946086e8a4651240b84526a1b2d54065":[6,0,237,0],
 "da/d17/classat__naxxramas__hub__portal.html#af967b0f61b3257c8b8d802d4ed3af1da":[6,0,237,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX251 =
 "da/d20/structLiquidTypeEntry.html#a94843a6f0cb39332f39a9630945f1fc8":[6,0,1432,0],
 "da/d20/structLiquidTypeEntry.html#aa010947f5fbec6867b005b25728e720b":[6,0,1432,2],
 "da/d21/RealmList_8cpp.html":[7,0,0,0,1,4,3,2],
-"da/d21/classInvalidAppenderArgsException.html":[6,0,1372],
-"da/d21/classInvalidAppenderArgsException.html#a5cfc42ea2456b9c7d60f06a1d469f1ae":[6,0,1372,0],
-"da/d21/classspell__krystallus__shatter.html":[6,0,3399],
-"da/d21/classspell__krystallus__shatter.html#a0932ccc5652bc4901aacbe2cf8d6c7d8":[6,0,3399,3]
+"da/d21/classInvalidAppenderArgsException.html":[6,0,1372]
 };
