@@ -1,6 +1,5 @@
 var NAVTREEINDEX396 =
 {
-"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,4,1,1,3,4,2],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,3,3],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671":[7,0,0,0,1,3,4,1,1,3,3,0],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,4,1,1,3,3,2],
@@ -129,12 +128,12 @@ var NAVTREEINDEX396 =
 "df/dbc/structSpellDifficultyEntry.html":[6,0,4111],
 "df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[6,0,4111,0],
 "df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[6,0,4111,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,1,89],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[6,0,0,77],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,1,89],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[6,0,0,77,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,1,89,5],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,1,89,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[6,0,0,77,2],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,1,89,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,77,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,1,89,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,89,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX396 =
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b":[6,0,2589,1,0],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a82d752dedab39f417af225add6af1403":[6,0,2589,1,2],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#abb48d6093570ba9c5488f200544a1e83":[6,0,2589,1,1],
-"df/dc5/structTransportTemplate.html":[6,0,4220]
+"df/dc5/structTransportTemplate.html":[6,0,4220],
+"df/dc5/structTransportTemplate.html#a558f3611434dbe13239834fa2f2ec6b4":[6,0,4220,2]
 };

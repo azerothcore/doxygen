@@ -202,7 +202,8 @@ var NAVTREEINDEX300 =
 "dc/d05/classnpc__wounded__blood__elf.html#a39d4bd877bdf6596c65e3cb834f124aa":[6,0,2295,2],
 "dc/d05/classnpc__wounded__blood__elf.html#a40e79d1412f5f399869a4d2c6fbb4260":[6,0,2295,1],
 "dc/d05/structboss__anomalus.html":[6,0,379],
-"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[6,0,379,9],
+"dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929":[6,0,379,9],
+"dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77":[6,0,379,10],
 "dc/d05/structboss__anomalus.html#a3c0413f30d96268cab724856334e61ee":[6,0,379,5],
 "dc/d05/structboss__anomalus.html#a41e257481921a122dba30348559e05fb":[6,0,379,3],
 "dc/d05/structboss__anomalus.html#a5d3d77b49e256e09bbb613e810dfc60b":[6,0,379,8],
@@ -210,7 +211,7 @@ var NAVTREEINDEX300 =
 "dc/d05/structboss__anomalus.html#a80bec5060c1b6747f2b418b90bcc18eb":[6,0,379,6],
 "dc/d05/structboss__anomalus.html#aa4dd8fac7c360beb834382f624ed2246":[6,0,379,0],
 "dc/d05/structboss__anomalus.html#aa79ec9829862b573cd0f38f965d737e8":[6,0,379,7],
-"dc/d05/structboss__anomalus.html#ac7632bd47c4d64ac032fd066138f22cf":[6,0,379,10],
+"dc/d05/structboss__anomalus.html#ac7632bd47c4d64ac032fd066138f22cf":[6,0,379,11],
 "dc/d05/structboss__anomalus.html#ad48aebb50cda7ee621f71803669f04c2":[6,0,379,2],
 "dc/d05/structboss__anomalus.html#ada0735330bff29a8c04706c980e6bbfc":[6,0,379,1],
 "dc/d05/structnpc__shade__of__jindo.html":[6,0,2111],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa67bbf5085397a3e0b4df64157cd0abed":[7,0,0,0,1,3,7,4,2,0,9,2],
 "dc/d07/boss__magtheridon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf28304a56c6ff613e36c3c641ea7da37":[7,0,0,0,1,3,7,4,2,0,9,0],
 "dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,4,2,0,12],
-"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,4,2,0,12,5],
-"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a24b88fffa83116640b9dcfd4596553da":[7,0,0,0,1,3,7,4,2,0,12,3]
+"dc/d07/boss__magtheridon_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,4,2,0,12,5]
 };

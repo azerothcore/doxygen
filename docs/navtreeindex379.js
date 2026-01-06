@@ -1,6 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"de/df4/cs__cache_8cpp.html#a293f65606c1750692d4046d4fe4c4adc":[7,0,0,0,1,3,0,6,1],
 "de/df5/classOutdoorPvPNA.html":[6,0,2362],
 "de/df5/classOutdoorPvPNA.html#a09369a62ec5584dd6ce5eddf7b2bb80f":[6,0,2362,8],
 "de/df5/classOutdoorPvPNA.html#a2ede6e7dc54424d9729a094557b14792":[6,0,2362,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX379 =
 "df/d07/boss__moira__bronzebeard_8cpp.html#a32e9e6a7e8297c20c16b2890feac65ae":[7,0,0,0,1,3,2,1,0,12,9],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,0,12,4],
 "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298ca4abc57d30fe4187f53ef5f05dcb9b0c2":[7,0,0,0,1,3,2,1,0,12,4,2],
-"df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7":[7,0,0,0,1,3,2,1,0,12,4,0]
+"df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7":[7,0,0,0,1,3,2,1,0,12,4,0],
+"df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298ca6e8bea6b8d8080cf40311e504690dc0b":[7,0,0,0,1,3,2,1,0,12,4,4]
 };

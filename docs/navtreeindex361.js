@@ -1,6 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527abf6eb95e7643dc725bf275f785ddbab5":[7,0,0,0,1,2,41,9,68,3],
 "de/d30/SpellMgr_8h.html#ad10a4fadd8c7f9a2263538df7932e5c3":[7,0,0,0,1,2,41,9,35],
 "de/d30/SpellMgr_8h.html#ad3397bc4e1407330978a0adb42d4aa26":[7,0,0,0,1,2,41,9,22],
 "de/d30/SpellMgr_8h.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,9,77],
@@ -249,5 +248,6 @@ var NAVTREEINDEX361 =
 "de/d3a/classat__karazhan__mirkblood__approach.html":[6,0,232],
 "de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[6,0,232,0],
 "de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[6,0,232,1],
-"de/d3a/classspell__warlords__rage.html":[6,0,4034]
+"de/d3a/classspell__warlords__rage.html":[6,0,4034],
+"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,4034,0]
 };

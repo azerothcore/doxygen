@@ -1,5 +1,6 @@
 var NAVTREEINDEX332 =
 {
+"dd/d8b/classMotdMgr.html#a21aa89787d5b0bbf69158f799122edd5":[6,0,1526,5],
 "dd/d8b/classMotdMgr.html#a7e317c2855b4ff96c2796081988bdf4f":[6,0,1526,6],
 "dd/d8b/classMotdMgr.html#ab589dd8bfad950e02ee716ea9005253f":[6,0,1526,1],
 "dd/d8b/classitem__commandscript.html":[6,0,1379],
@@ -182,8 +183,8 @@ var NAVTREEINDEX332 =
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html":[7,0,0,0,1,3,5,2,1,5],
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#ad29a01125872f689fb9953e9b3beb8e8":[7,0,0,0,1,3,5,2,1,5,3],
 "dd/d8d/instance__trial__of__the__crusader_8cpp.html#af823cabf441f9e6a5443da42df4fda4f":[7,0,0,0,1,3,5,2,1,5,2],
-"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,32,12,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[6,0,12,12,3],
+"dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html":[5,0,32,12,3],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[6,0,12,12,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#a90c467ab19d96b96ace5b50bad617095":[5,0,32,12,3,0],
 "dd/d8e/classWorldPackets_1_1Query_1_1TimeQuery.html#aae26e83828fc6118dea64f8861170868":[6,0,12,12,3,1],
@@ -209,18 +210,18 @@ var NAVTREEINDEX332 =
 "dd/d8f/structnpc__enslaved__proto__drake.html#ad2a25f78a82e0f2cef1e7809cb1d7d89":[6,0,1772,1],
 "dd/d8f/structnpc__enslaved__proto__drake.html#adb997badd8831dea7763eaecc93b7773":[6,0,1772,6],
 "dd/d8f/structnpc__enslaved__proto__drake.html#aec835fdc8b1beb270176d5341d26c265":[6,0,1772,0],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[6,0,0,12],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[5,0,1,24],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[6,0,0,12,0],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html":[6,0,0,12],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[5,0,1,24,0],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a31b4976c3ea6203b9a1e7f7970a97977":[6,0,0,12,0],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[6,0,0,12,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a3638a8d3c5791b590ec717e4f1ba9cef":[5,0,1,24,1],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[6,0,0,12,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a431ada86a2b864d53773a85b05d8da4f":[5,0,1,24,3],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[5,0,1,24,2],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#a4ca7fcf9945e698a790d01d3fadae98e":[6,0,0,12,2],
-"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,12,4],
 "dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[5,0,1,24,4],
+"dd/d90/classAcore_1_1AllDeadCreaturesInRange.html#aefd0d77b69b5df9b99c148e0254fda09":[6,0,0,12,4],
 "dd/d91/classat__shattered__halls__execution.html":[6,0,244],
 "dd/d91/classat__shattered__halls__execution.html#a73f1d1f03960acd070b7996257f7a526":[6,0,244,0],
 "dd/d91/classat__shattered__halls__execution.html#ad35f9736371b091dc0780e5bf0caf9f5":[6,0,244,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX332 =
 "dd/d94/classspell__bonfires__blessing.html#a16dc3f52152d63b5512690c761f9915a":[6,0,2682,1],
 "dd/d94/classspell__bonfires__blessing.html#a30d33268b58507c228a4628031bffca0":[6,0,2682,0],
 "dd/d94/classspell__bonfires__blessing.html#a6494e4d7277e910ffa3b30c333117f00":[6,0,2682,2],
-"dd/d94/classspell__bronjahm__soulstorm__targeting.html":[6,0,2701],
-"dd/d94/classspell__bronjahm__soulstorm__targeting.html#a36879a2920f43562bb0ff89c76d758e4":[6,0,2701,0]
+"dd/d94/classspell__bronjahm__soulstorm__targeting.html":[6,0,2701]
 };

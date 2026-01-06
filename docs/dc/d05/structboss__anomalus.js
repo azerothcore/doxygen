@@ -9,6 +9,7 @@ var structboss__anomalus =
     [ "Reset", "dc/d05/structboss__anomalus.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
     [ "SetData", "dc/d05/structboss__anomalus.html#aa79ec9829862b573cd0f38f965d737e8", null ],
     [ "UpdateAI", "dc/d05/structboss__anomalus.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "dc/d05/structboss__anomalus.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
     [ "achievement", "dc/d05/structboss__anomalus.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
     [ "activeRifts", "dc/d05/structboss__anomalus.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

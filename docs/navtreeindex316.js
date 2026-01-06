@@ -1,5 +1,6 @@
 var NAVTREEINDEX316 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa307e63f4f3d83df14f0e97932079ae0":[7,0,0,0,1,3,2,16,7,11,3],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ade15fd8617e1a8945c9bdba0eae63efa":[7,0,0,0,1,3,2,16,7,11,0],
 "dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae065928d2cd03016e191363697c5765c":[7,0,0,0,1,3,2,16,7,11,4],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,7,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX316 =
 "dc/dd0/classWhoListCacheMgr.html":[6,0,4308],
 "dc/dd0/classWhoListCacheMgr.html#a1e8ce970e3213cd0361af303df98b387":[6,0,4308,5],
 "dc/dd0/classWhoListCacheMgr.html#a2190c113c3d38bd316b17a4400c113e6":[6,0,4308,0],
-"dc/dd0/classWhoListCacheMgr.html#a366e452317179d647042c24c56faafa1":[6,0,4308,2],
-"dc/dd0/classWhoListCacheMgr.html#a3db2ef832cf1413fb2e565ca0d922a80":[6,0,4308,8]
+"dc/dd0/classWhoListCacheMgr.html#a366e452317179d647042c24c56faafa1":[6,0,4308,2]
 };

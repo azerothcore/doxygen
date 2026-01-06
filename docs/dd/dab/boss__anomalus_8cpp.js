@@ -5,10 +5,8 @@ var boss__anomalus_8cpp =
     [ "achievement_chaos_theory", "d1/d55/classachievement__chaos__theory.html", "d1/d55/classachievement__chaos__theory" ],
     [ "Events", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_ANOMALUS_SPARK", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e2dfa5bf1445d38702a7028e447be03", null ],
-      [ "EVENT_ANOMALUS_HEALTH", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8c8da4467139a401695c6d198a881b25", null ],
       [ "EVENT_ANOMALUS_ARCANE_ATTRACTION", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ade340f8659eddf57af5cdf36fb534649", null ],
-      [ "EVENT_ANOMALUS_SPAWN_RIFT", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7fd22259ac2f55edd6fc2b9e91e3f1d9", null ],
-      [ "EVENT_ANOMALUS_SPAWN_RIFT_EMPOWERED", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0e5aeaf409be8f9dabf1f577ed9930f3", null ]
+      [ "EVENT_ANOMALUS_SPAWN_RIFT", "dd/dab/boss__anomalus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7fd22259ac2f55edd6fc2b9e91e3f1d9", null ]
     ] ],
     [ "Spells", "dd/dab/boss__anomalus_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SPARK", "dd/dab/boss__anomalus_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b3cae8cb07917e59408f726720b3aec", null ],

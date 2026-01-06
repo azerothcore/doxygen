@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32":[6,0,1788,4],
 "dd/d00/structnpc__forest__frog.html#aa22c4eb7eb3a84db94ce8eb38afd18f5":[6,0,1788,2],
 "dd/d00/structnpc__forest__frog.html#aac140826b8c4b7ce55925b5abeee936e":[6,0,1788,1],
 "dd/d00/structnpc__forest__frog.html#ac6bf7433f79a9c2803072e7b5370a1c7":[6,0,1788,6],
@@ -131,14 +132,14 @@ var NAVTREEINDEX321 =
 "dd/d07/classspell__hun__ascpect__of__the__viper.html#a93818ec97cfd47da1dee454bb0a9318c":[6,0,3133,2],
 "dd/d07/structlfg_1_1LfgReward.html":[5,0,18,15],
 "dd/d07/structlfg_1_1LfgReward.html":[6,0,5,15],
-"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[5,0,18,15,1],
-"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
+"dd/d07/structlfg_1_1LfgReward.html#a28162b1e43a5309ab01ca99b45d29799":[6,0,5,15,1],
 "dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[5,0,18,15,3],
-"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
+"dd/d07/structlfg_1_1LfgReward.html#a96de83c64efc3009d7d5cd04a61e71b2":[6,0,5,15,3],
 "dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[5,0,18,15,2],
-"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#aae6e46155dc790ed7c63f5f0b8e08395":[6,0,5,15,2],
 "dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[5,0,18,15,0],
+"dd/d07/structlfg_1_1LfgReward.html#afe2ea037fa24064c2bf04cfc6303d903":[6,0,5,15,0],
 "dd/d08/classspell__electrial__storm.html":[6,0,2867],
 "dd/d08/classspell__electrial__storm.html#a07abb27367cc0a59bdf60a30dfb7cfb0":[6,0,2867,2],
 "dd/d08/classspell__electrial__storm.html#a9888c598c4d6cf77c49e15f68c3db225":[6,0,2867,0],
@@ -187,12 +188,12 @@ var NAVTREEINDEX321 =
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a29fc27016b597f051898db7bb30214c8":[5,0,32,6,10,0],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[6,0,12,6,10,3],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a4f9758c10f7c7294dffaa01b8e0b723f":[5,0,32,6,10,3],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,32,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[6,0,12,6,10,4],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#a949488c1696f92cb0a081cf28bffb48f":[5,0,32,6,10,4],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[5,0,32,6,10,1],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#ab4e17c592b05ce041f5f52f2bc711d41":[6,0,12,6,10,1],
-"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[6,0,12,6,10,2],
 "dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[5,0,32,6,10,2],
+"dd/d0c/classWorldPackets_1_1Guild_1_1GuildBankQueryTab.html#af21ec3aa4cf912fd5b82e6ae16459e06":[6,0,12,6,10,2],
 "dd/d0c/classspell__gen__brood__power.html":[6,0,2939],
 "dd/d0c/classspell__gen__brood__power.html#a3ad038e7bf43dceedb0fceebd4070bfa":[6,0,2939,3],
 "dd/d0c/classspell__gen__brood__power.html#aa8ad85cbf0403d79e55bbe0ae184407b":[6,0,2939,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdf1f3390fb22db6bb6e2184f1d5bd2":[7,0,0,0,1,3,5,3,0,5,1],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924":[7,0,0,0,1,3,5,3,0,5,2],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e48e5fe774eb74669c83be919da5622":[7,0,0,0,1,3,5,3,0,5,0],
-"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,3,0,6],
-"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,3,0,6,0]
+"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,3,0,6]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX388 =
 {
-"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,10,22,26],
 "df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[5,0,29,22,26],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[5,0,29,22,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[6,0,10,22,10],
@@ -129,8 +128,8 @@ var NAVTREEINDEX388 =
 "df/d5c/structboss__crone.html#a8bd505acd55ca5292d29c96916a461e5":[6,0,417,7],
 "df/d5c/structboss__crone.html#a9801cd39667d1a08770820bd17beac00":[6,0,417,3],
 "df/d5c/structboss__crone.html#ae4d343636955589d740d1df4e21fba99":[6,0,417,5],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,27,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,27,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,27,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,8,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX388 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[6,0,1783,0,5],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1783,0,2],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3092],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3092,3]
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3092,3],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[6,0,3092,1]
 };

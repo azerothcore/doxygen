@@ -1,6 +1,7 @@
 var NAVTREEINDEX313 =
 {
 "dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[6,0,7,3,2],
+"dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[5,0,21,3,2],
 "dc/d8f/TypeList_8h.html":[7,0,0,0,0,6,8],
 "dc/d8f/TypeList_8h.html#a0309f68a543c5c0994f9edc0e56dc59f":[7,0,0,0,0,6,8,3],
 "dc/d8f/TypeList_8h.html#a311cb99af993804c6737ae46c5cbfaff":[7,0,0,0,0,6,8,2],
@@ -75,14 +76,14 @@ var NAVTREEINDEX313 =
 "dc/d95/classnpc__khunok__the__behemoth.html":[6,0,1916],
 "dc/d95/classnpc__khunok__the__behemoth.html#a0370959631c00581495dbd7c37263236":[6,0,1916,1],
 "dc/d95/classnpc__khunok__the__behemoth.html#a201aa35dd119d23126b192a1e3786c09":[6,0,1916,2],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[5,0,1,87,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[5,0,1,87,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[5,0,1,87,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da5/classOrcMoveEvent.html#a71f7fe243741a1629bdd846fc97f0112":[6,0,2346,0],
 "dc/da5/classOrcMoveEvent.html#ad8d09bbb659d44e9f4b9171cea7ef7e8":[6,0,2346,2],
 "dc/da5/classboss__valithria__dreamwalker.html":[6,0,761],
-"dc/da5/classboss__valithria__dreamwalker.html#a0f0bacefa7e3d682a5db81a14f2ff947":[6,0,761,2],
-"dc/da5/classboss__valithria__dreamwalker.html#afcc6dc92d94330d3aed67f71452f9cd2":[6,0,761,1]
+"dc/da5/classboss__valithria__dreamwalker.html#a0f0bacefa7e3d682a5db81a14f2ff947":[6,0,761,2]
 };

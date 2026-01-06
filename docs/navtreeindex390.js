@@ -1,6 +1,5 @@
 var NAVTREEINDEX390 =
 {
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a681a103b6cf937dad3fb15e5be358c26":[6,0,762,0,10],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[6,0,762,0,9],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a76ab9327e04b82b534a9b3ea59b377d1":[6,0,762,0,1],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a9ba6e2620a25728bf30d4d813a82b781":[6,0,762,0,2],
@@ -173,8 +172,8 @@ var NAVTREEINDEX390 =
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,430,6],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,12,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,32,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,12,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,32,6,36,2],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,12,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,12,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,32,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,12,6,36,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ab0894d46cb2148828318903683a96a31":[7,0,0,0,1,3,5,9,2,4,20,25],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ac5450d325db4cb18a83420d98bc4dc60":[7,0,0,0,1,3,5,9,2,4,20,8],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ac83a119b23ae87cccc7929c8c04c5d53":[7,0,0,0,1,3,5,9,2,4,20,17],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ad368067ec54a5e606d3cb580962d3d94":[7,0,0,0,1,3,5,9,2,4,20,7]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289ad368067ec54a5e606d3cb580962d3d94":[7,0,0,0,1,3,5,9,2,4,20,7],
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289adc26914d7abc7416416d0fae1cbf7074":[7,0,0,0,1,3,5,9,2,4,20,16]
 };

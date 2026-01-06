@@ -1,6 +1,5 @@
 var NAVTREEINDEX370 =
 {
-"de/d95/classTicketMgr.html#aa9934956cb5efd70304cd048ddabc423":[6,0,4196,26],
 "de/d95/classTicketMgr.html#aaa0d229d1ec8cb98291464164ebc53dd":[6,0,4196,5],
 "de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[6,0,4196,12],
 "de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[6,0,4196,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX370 =
 "de/da1/structObjectPosSelector.html#a3ca2304f7f268685b22db941d70fab36":[6,0,2328,12],
 "de/da1/structObjectPosSelector.html#a56ff73252996b988d6d1ea384dad1de8":[6,0,2328,20],
 "de/da1/structObjectPosSelector.html#a678445810801988c429489ba187b28f0":[6,0,2328,4],
-"de/da1/structObjectPosSelector.html#a76a3553e006171560baf7aa7cc2bc163":[6,0,2328,1]
+"de/da1/structObjectPosSelector.html#a76a3553e006171560baf7aa7cc2bc163":[6,0,2328,1],
+"de/da1/structObjectPosSelector.html#a779268da0c5b089c9752601543a0f856":[6,0,2328,14]
 };

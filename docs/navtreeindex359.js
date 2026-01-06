@@ -1,6 +1,5 @@
 var NAVTREEINDEX359 =
 {
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aa814a46a45ce5eb9696c8f6c6de8c521":[6,0,2234,0,7],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aaf35c04462b1698e85df64190f4e2c8a":[6,0,2234,0,5],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#ac4677898f5612c01d98ab242c7628e8f":[6,0,2234,0,10],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#acbbe6667360e5bb7576c1ea741c2e2f1":[6,0,2234,0,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX359 =
 "de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3880],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3880,1],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3880,0],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3880,2]
+"de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3880,2],
+"de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2]
 };

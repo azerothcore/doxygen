@@ -1,6 +1,5 @@
 var NAVTREEINDEX358 =
 {
-"de/d1c/classGameObject.html#a2a4d849c719978342f509bc269cbd134":[6,0,1078,60],
 "de/d1c/classGameObject.html#a2afa3260c75f1241110a9abcead5aefa":[6,0,1078,74],
 "de/d1c/classGameObject.html#a2b9359375ec398ba32d5611901536f20":[6,0,1078,34],
 "de/d1c/classGameObject.html#a2c692a866b2081f6321b2040a1e32b1f":[6,0,1078,176],
@@ -249,5 +248,6 @@ var NAVTREEINDEX358 =
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a556453c557df0be6a57255e400d98a87":[6,0,2234,0,9],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a66ea56e856fcc706e4f938512def1590":[6,0,2234,0,2],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a6d4cd626dcd58f825a6c88b804bb38a7":[6,0,2234,0,3],
-"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a7927f399ef1c89b3eb83804fde9b2700":[6,0,2234,0,6]
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a7927f399ef1c89b3eb83804fde9b2700":[6,0,2234,0,6],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#aa814a46a45ce5eb9696c8f6c6de8c521":[6,0,2234,0,7]
 };
