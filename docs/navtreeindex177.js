@@ -1,6 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d8c/classspell__halion__summon__exit__portals.html#a6b9af3b70d2ce07fe8aee5292367a982":[6,0,3094,1],
 "d6/d8c/classspell__halion__summon__exit__portals.html#a717394bfbea621ae637f9e87efddda62":[6,0,3094,2],
 "d6/d8c/classspell__halion__summon__exit__portals.html#ae2766d12fb686356b46126848f356c5a":[6,0,3094,0],
 "d6/d8c/classspell__icc__geist__alarm.html":[6,0,3166],
@@ -71,12 +70,12 @@ var NAVTREEINDEX177 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1108,1],
 "d6/d96/classDBCFile_1_1Record.html":[6,0,959,3],
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[6,0,959,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,959,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,959,3,8],
+"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,959,3,7],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,959,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,959,3,3],
-"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,959,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,959,3,0],
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,959,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,959,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,959,3,12],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,959,3,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX177 =
 "d6/d9d/EventMap_8cpp.html":[7,0,0,0,0,15,9],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,32,10,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[6,0,12,10,4],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,32,10,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,10,4,1]
 };

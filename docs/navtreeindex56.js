@@ -1,6 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4baa9bbab0178240b250539573530d73":[6,0,1353,0,4],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a4ef8b63fb093bb98b23044e63d55fb4d":[6,0,1353,0,46],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a52d3e04da8895576e11622eaa742d91c":[6,0,1353,0,7],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a54d1295fb1448e6511d93dcccae09abf":[6,0,1353,0,35],
@@ -249,5 +248,6 @@ var NAVTREEINDEX56 =
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1361,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[6,0,1361,1],
 "d2/d4b/classPlayer.html":[6,0,2404],
-"d2/d4b/classPlayer.html#a0007e0794ea027b088f9cc1a276bdec5":[6,0,2404,1339]
+"d2/d4b/classPlayer.html#a0007e0794ea027b088f9cc1a276bdec5":[6,0,2404,1339],
+"d2/d4b/classPlayer.html#a017c8a9f126945990cedc63b5567af0b":[6,0,2404,790]
 };

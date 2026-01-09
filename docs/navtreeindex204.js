@@ -1,6 +1,5 @@
 var NAVTREEINDEX204 =
 {
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae1af0b90925faa94026f02e3322dff5d":[7,0,0,0,1,3,5,2,1,4,15,5],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af30a7c83908023513ec50a5bd4da3833":[7,0,0,0,1,3,5,2,1,4,15,3],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844":[7,0,0,0,1,3,5,2,1,4,14],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a1628fb0c56457783cf8b51260c089a77":[7,0,0,0,1,3,5,2,1,4,14,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX204 =
 "d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,0,3,3],
 "d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a594cb38c36faa6308a7042f141879d2f":[7,0,0,0,1,3,2,0,3,3,1],
 "d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7e923c7c2a4e3e70d9642e27e1ea7d2d":[7,0,0,0,1,3,2,0,3,3,0],
-"d7/dc6/boss__galvangar_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[7,0,0,0,1,3,2,0,3,4]
+"d7/dc6/boss__galvangar_8cpp.html#a55d2bf8ae4fe74810e301e7acb7ad676":[7,0,0,0,1,3,2,0,3,4],
+"d7/dc6/boss__galvangar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,0,3,2]
 };

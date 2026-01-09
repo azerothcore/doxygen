@@ -1,7 +1,5 @@
 var NAVTREEINDEX128 =
 {
-"d4/d77/classspell__mirkblood__exsanguinate.html#abc2f73133448278e0bf1bc589917dfd1":[6,0,3488,1],
-"d4/d77/classspell__the__lich__king__life__siphon.html":[6,0,3922],
 "d4/d77/classspell__the__lich__king__life__siphon.html#a0162c92c32210f2873686610f4f00b87":[6,0,3922,1],
 "d4/d77/classspell__the__lich__king__life__siphon.html#a3283e829757b50bb52f66ee1e64033ae":[6,0,3922,0],
 "d4/d77/classspell__the__lich__king__life__siphon.html#a3cdfca33a535bad0942beea24aefa1bb":[6,0,3922,2],
@@ -98,8 +96,8 @@ var NAVTREEINDEX128 =
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a118ca963c6319802806913762c4d1fec":[6,0,4138,6,2],
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a11d2070610d178006231bac274d1f311":[6,0,4138,6,1],
 "d4/d7a/classSpellScript_1_1ObjectAreaTargetSelectHandler.html#a89b86436bb1de38223165e7ef60f2b61":[6,0,4138,6,0],
-"d4/d7a/classVMAP_1_1WModelAreaCallback.html":[6,0,10,23],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html":[5,0,29,23],
+"d4/d7a/classVMAP_1_1WModelAreaCallback.html":[6,0,10,23],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[6,0,10,23,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a8024f924c258932c874c0ac3539d2755":[5,0,29,23,1],
 "d4/d7a/classVMAP_1_1WModelAreaCallback.html#a92b907262a6e2fa630148580da43c612":[6,0,10,23,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX128 =
 "d4/d7b/classspell__bloodspore__haze.html#a8d7dd2411c3b786e682260eb30862602":[6,0,2681,0],
 "d4/d7b/classspell__bloodspore__haze.html#a9e1dbc7714a35bcc7ec26286419517c2":[6,0,2681,3],
 "d4/d7d/structnpc__pet__shaman__earth__elemental.html":[6,0,2039],
-"d4/d7d/structnpc__pet__shaman__earth__elemental.html#a07f3792cb3b5264d209f1b4726867773":[6,0,2039,0]
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#a07f3792cb3b5264d209f1b4726867773":[6,0,2039,0],
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#a2af73c97ef60b5b0ade26c9760b8b379":[6,0,2039,5],
+"d4/d7d/structnpc__pet__shaman__earth__elemental.html#a8bbca6686ae324a50cd1598125280446":[6,0,2039,1]
 };

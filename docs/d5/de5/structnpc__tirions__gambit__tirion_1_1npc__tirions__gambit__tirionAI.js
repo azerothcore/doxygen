@@ -9,6 +9,7 @@ var structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI =
     [ "SummonedCreatureDespawn", "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#aca05fee85997dffba6ec998b144b9495", null ],
     [ "UpdateEscortAI", "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
     [ "WaypointReached", "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "_eventOver", "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#ac3505c2a8d55afa351543def3e8839de", null ],
     [ "events", "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a711c55c26187ae695644b770a358766e", null ],
     [ "summons", "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

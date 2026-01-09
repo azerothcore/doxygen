@@ -1,6 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/de3/classspell__novos__crystal__handler__death__aura.html#a3848997e9f775add50d40342b6211ff0":[6,0,3514,1],
 "df/de3/classspell__novos__crystal__handler__death__aura.html#a775b1cf494049ed13d149ca6318142c3":[6,0,3514,2],
 "df/de3/classspell__novos__crystal__handler__death__aura.html#aaea2c3733dadc19072c81774468e345a":[6,0,3514,0],
 "df/de3/classspell__q11520__discovering__your__roots.html":[6,0,3671],
@@ -249,5 +248,6 @@ var NAVTREEINDEX404 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ac915f0a08ee700a9f4755dc82d6dcbcf":[7,0,0,0,1,3,5,6,1,20,4],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad036e5be3774c27480a351d13f0ce472":[7,0,0,0,1,3,5,6,1,20,2],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,6,1,20,10],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adc6c958db98866668a338252fb3f352f":[7,0,0,0,1,3,5,6,1,20,5]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31adc6c958db98866668a338252fb3f352f":[7,0,0,0,1,3,5,6,1,20,5],
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af148f55c2fe1c1d1789db082e6be2fbb":[7,0,0,0,1,3,5,6,1,20,1]
 };

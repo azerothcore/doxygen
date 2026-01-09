@@ -1,6 +1,5 @@
 var NAVTREEINDEX387 =
 {
-"df/d48/classspell__shield__generator__aura.html#aa5793741c2f8179db68a9fb1222a9085":[6,0,3842,3],
 "df/d48/classspell__shield__generator__aura.html#abe7c08d2f26cef3603cf1b1f243f9e38":[6,0,3842,2],
 "df/d48/classspell__shield__generator__aura.html#ad9e1dcfd8ce7038173ac5b71d448d80a":[6,0,3842,5],
 "df/d48/structnpc__barnes_1_1npc__barnesAI.html":[6,0,1642,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX387 =
 "df/d56/classVMAP_1_1VMapMgr2.html#ad2ad6e5bd41a585cf94c2e7d56358178":[5,0,29,22,9],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[6,0,10,22,22],
 "df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[5,0,29,22,22],
-"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,10,22,26]
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,10,22,26],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[5,0,29,22,26]
 };

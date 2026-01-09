@@ -1,6 +1,5 @@
 var NAVTREEINDEX167 =
 {
-"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a2b6132a6a89ed8f9fc215b1342642fed":[6,0,773,0,12],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a4104a8f6b91f568d537447cf9a9339b5":[6,0,773,0,4],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a4374199f776618afaf00934c93e6e0f4":[6,0,773,0,7],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a4e5e6b636918dcf4cc93cd2ce3c53192":[6,0,773,0,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX167 =
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a7bd548d31b9bf9b84a904a673975baca":[7,0,0,0,1,3,10,17,4,11],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a8f50fec1fd7e6251dd6708aea478393f":[7,0,0,0,1,3,10,17,4,5],
 "d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a99f33fb28b2255f588b26ca48ff715b8":[7,0,0,0,1,3,10,17,4,17],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aaab0e844e0d38160c2e487c654cee469":[7,0,0,0,1,3,10,17,4,16]
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aaab0e844e0d38160c2e487c654cee469":[7,0,0,0,1,3,10,17,4,16],
+"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952ad2cba3b596efdffb848def1858e6143e":[7,0,0,0,1,3,10,17,4,4]
 };

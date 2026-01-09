@@ -1,6 +1,5 @@
 var NAVTREEINDEX394 =
 {
-"df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2d":[7,0,0,0,1,2,7,2,8],
 "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd":[7,0,0,0,1,2,7,2,8,0],
 "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610":[7,0,0,0,1,2,7,2,8,1],
 "df/da2/Battlefield_8h.html#a79df696836c3edc53ca1868aab7f6e76":[7,0,0,0,1,2,7,2,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#a961cd8ab1362894a64d302d94c705782":[6,0,316,150],
 "df/da7/classBattleground.html#a983c89eabad301bdef23af18e84d4e55":[6,0,316,31],
 "df/da7/classBattleground.html#a9a5551f10d103e391d51fca86d9ad981":[6,0,316,113],
-"df/da7/classBattleground.html#a9c39a4d3428e17e8fa80623138bca63a":[6,0,316,233]
+"df/da7/classBattleground.html#a9c39a4d3428e17e8fa80623138bca63a":[6,0,316,233],
+"df/da7/classBattleground.html#a9ca766a1b4618dbabc6accbbf99de892":[6,0,316,121]
 };

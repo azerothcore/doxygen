@@ -1,6 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"d7/d53/structboss__cthun.html#a04ae38b67d358f1d34820b855aab3869":[6,0,418,1],
 "d7/d53/structboss__cthun.html#a05bab8427cd4b4bfa50aee450e423f98":[6,0,418,4],
 "d7/d53/structboss__cthun.html#a139de83ae488c40d40a4587509cd197d":[6,0,418,8],
 "d7/d53/structboss__cthun.html#a287ee7b65708971e4fdfa7b814486935":[6,0,418,0],
@@ -192,10 +191,10 @@ var NAVTREEINDEX191 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1036,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,32,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,12,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,32,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,12,2,3,1],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,12,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,32,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,32,2,3,0],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,12,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,23],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303":[7,0,0,0,1,3,2,23,6],
 "d7/d61/zone__elwynn__forest_8cpp.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c":[7,0,0,0,1,3,2,23,6,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX191 =
 "d7/d61/zone__elwynn__forest_8cpp.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb":[7,0,0,0,1,3,2,23,5,0],
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521":[7,0,0,0,1,3,2,23,4],
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a":[7,0,0,0,1,3,2,23,4,1],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f":[7,0,0,0,1,3,2,23,4,0]
+"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f":[7,0,0,0,1,3,2,23,4,0],
+"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7":[7,0,0,0,1,3,2,23,4,5]
 };

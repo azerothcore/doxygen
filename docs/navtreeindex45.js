@@ -1,6 +1,5 @@
 var NAVTREEINDEX45 =
 {
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,10,28,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,29,28,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,10,28,1],
 "d1/dd4/Item_8h.html":[7,0,0,0,1,2,16,4,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX45 =
 "d1/dda/boss__epoch__hunter_8cpp.html#a5bd342133be8c2137b831460acc9298caf8a8d6f10ba991f1f8a5a08e25df56fb":[7,0,0,0,1,3,4,1,2,1,1,1],
 "d1/dda/boss__epoch__hunter_8cpp.html#ab062b2fefc0d2afe08a2a66fce9880a5":[7,0,0,0,1,3,4,1,2,1,3],
 "d1/dda/boss__epoch__hunter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,4,1,2,1,2],
-"d1/dda/boss__epoch__hunter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,2,1,2,3]
+"d1/dda/boss__epoch__hunter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,2,1,2,3],
+"d1/dda/boss__epoch__hunter_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,2,1,2,0]
 };

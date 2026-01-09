@@ -1,7 +1,5 @@
 var NAVTREEINDEX157 =
 {
-"d5/dd7/classspell__sha__spirit__walk.html#aecbecbd753b8ed32d51971a090063ef4":[6,0,3827,0],
-"d5/dd8/boss__flamegor_8cpp.html":[7,0,0,0,1,3,2,1,2,5],
 "d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,1,2,5,2],
 "d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac":[7,0,0,0,1,3,2,1,2,5,2,0],
 "d5/dd8/boss__flamegor_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,5,4],
@@ -208,11 +206,12 @@ var NAVTREEINDEX157 =
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a38959c7a5b502b5716a5c09b0f6ae8a4":[6,0,2186,0,0],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a41f24de5f824d84edb69c6b2bdca6d4e":[6,0,2186,0,5],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a495e0762614020ef6d7b741447099326":[6,0,2186,0,1],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a711c55c26187ae695644b770a358766e":[6,0,2186,0,9],
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a711c55c26187ae695644b770a358766e":[6,0,2186,0,10],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#a891b31661705ed4df634059e6165d499":[6,0,2186,0,2],
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#ac3505c2a8d55afa351543def3e8839de":[6,0,2186,0,9],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#ac62ec499aba734d36249f8c00b36e2d4":[6,0,2186,0,3],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#aca05fee85997dffba6ec998b144b9495":[6,0,2186,0,6],
-"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af574a4b136ff42c597e30c83e4d463ca":[6,0,2186,0,10],
+"d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af574a4b136ff42c597e30c83e4d463ca":[6,0,2186,0,11],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#af5fd69b799c6227dba901f434e30c434":[6,0,2186,0,8],
 "d5/de5/structnpc__tirions__gambit__tirion_1_1npc__tirions__gambit__tirionAI.html#afb398bda1d6ee4d35527208e6c5bffee":[6,0,2186,0,4],
 "d5/de6/class__SpellScript_1_1EffectNameCheck.html":[6,0,17,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX157 =
 "d5/de9/AppenderDB_8cpp.html":[7,0,0,0,1,1,1,0],
 "d5/de9/classspell__gen__profession__research.html":[6,0,3020],
 "d5/de9/classspell__gen__profession__research.html#a89d053e0ee793017c74188aac32d99d5":[6,0,3020,4],
-"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,3020,2]
+"d5/de9/classspell__gen__profession__research.html#a9dfb5501ad6324a25966af44f233b5fb":[6,0,3020,2],
+"d5/de9/classspell__gen__profession__research.html#aa89b60b2d757ef1ceacebae38aa5d9d9":[6,0,3020,1]
 };

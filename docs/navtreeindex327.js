@@ -1,6 +1,5 @@
 var NAVTREEINDEX327 =
 {
-"dd/d3b/structGameObjectTemplate.html#aed3f01aa810aa209b2c15afb7302084b":[6,0,1091,189],
 "dd/d3b/structGameObjectTemplate.html#aee18e1941f0f580beaa9f6be70cdb58c":[6,0,1091,168],
 "dd/d3b/structGameObjectTemplate.html#aeefa9507c07575f0a2481600a5911807":[6,0,1091,113],
 "dd/d3b/structGameObjectTemplate.html#aefcd96f2b24098e4e76d1ab775e05e58":[6,0,1091,66],
@@ -249,5 +248,6 @@ var NAVTREEINDEX327 =
 "dd/d4f/classspell__sha__earth__shield.html#a55d778b049e26c28bfa9d2e08d7920a8":[6,0,3808,0],
 "dd/d4f/classspell__sha__earth__shield.html#a741570ba77f70d90b437198f63e565f3":[6,0,3808,2],
 "dd/d4f/classspell__sha__earth__shield.html#a939d6815bcaee9b9d2b062313aac912a":[6,0,3808,5],
-"dd/d4f/classspell__sha__earth__shield.html#aa0144f9a0260a74010ced913dd8cadbd":[6,0,3808,1]
+"dd/d4f/classspell__sha__earth__shield.html#aa0144f9a0260a74010ced913dd8cadbd":[6,0,3808,1],
+"dd/d4f/classspell__sha__earth__shield.html#af4e49e2362994f247c119c16c013e4b3":[6,0,3808,3]
 };

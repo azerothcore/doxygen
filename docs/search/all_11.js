@@ -12,7 +12,7 @@ var searchData=
   ['qfallfromgrace_9',['qFallFromGrace',['../db/dfb/spell__quest_8cpp.html#a2ed708185ac0e1b74cd309bc04fe037a',1,'spell_quest.cpp']]],
   ['qruseoftheashtongue_10',['qruseoftheAshtongue',['../d2/df4/boss__alar_8cpp.html#a2c95972a6d4a8c05920a7936dc009f10',1,'boss_alar.cpp']]],
   ['qsniffingouttheperpetrator_11',['qSniffingOutThePerpetrator',['../dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530',1,'zone_storm_peaks.cpp']]],
-  ['quality_12',['quality',['../df/d5e/structAuctionHouseSearchInfo.html#a1f234ab443ed5e14aafa02ec3ba5cfde',1,'AuctionHouseSearchInfo::quality'],['../d4/d69/structItemTemplate.html#a1b4b51353503f83db3be63f5a5786a1f',1,'ItemTemplate::Quality']]],
+  ['quality_12',['quality',['../d4/d69/structItemTemplate.html#a1b4b51353503f83db3be63f5a5786a1f',1,'ItemTemplate::Quality'],['../df/d5e/structAuctionHouseSearchInfo.html#a1f234ab443ed5e14aafa02ec3ba5cfde',1,'AuctionHouseSearchInfo::quality']]],
   ['quality_5fmod_13',['quality_mod',['../d7/dd4/structDurabilityQualityEntry.html#a756e7b316cc365f15f24e5e4637303a6',1,'DurabilityQualityEntry']]],
   ['qualitytobuyvalueconfig_14',['qualityToBuyValueConfig',['../d8/dd8/ObjectMgr_8cpp.html#aa622a06edade2e3d18da67881d15918c',1,'ObjectMgr.cpp']]],
   ['qualitytorate_15',['qualityToRate',['../d8/d03/LootMgr_8cpp.html#aaa3aa72e5700e28104b67a1f347c64c7',1,'LootMgr.cpp']]],

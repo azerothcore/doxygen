@@ -1,6 +1,5 @@
 var NAVTREEINDEX65 =
 {
-"d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a154123dc3f5463ace6d1b96a9b20576e":[6,0,761,0,8],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a180eb28e16672082503fa91f37dd720a":[6,0,761,0,1],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a1a9dc9fe2969c963636d1dcd68ce2afc":[6,0,761,0,13],
 "d2/d6d/structboss__valithria__dreamwalker_1_1boss__valithria__dreamwalkerAI.html#a20aa23a4492739b4f171b1361a2ba53b":[6,0,761,0,3],
@@ -26,10 +25,10 @@ var NAVTREEINDEX65 =
 "d2/d6e/structVMAP_1_1AreaInfo.html":[6,0,10,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[6,0,10,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[5,0,29,1,0],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,29,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[6,0,10,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,10,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,29,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,29,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,10,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,29,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,10,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,29,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX65 =
 "d2/d73/classScriptMgr.html#a48b07763546b00ab951467988629e99a":[6,0,2528,318],
 "d2/d73/classScriptMgr.html#a490441dd042b8352b2e2df06340c8856":[6,0,2528,188],
 "d2/d73/classScriptMgr.html#a4abaf79bf61c7b90a929c1720dc806a1":[6,0,2528,294],
-"d2/d73/classScriptMgr.html#a4b0dcf878b3d4e5658c6d1f51eed2d32":[6,0,2528,366]
+"d2/d73/classScriptMgr.html#a4b0dcf878b3d4e5658c6d1f51eed2d32":[6,0,2528,366],
+"d2/d73/classScriptMgr.html#a4c0f1c9cef3f411978240b2500d9c3ea":[6,0,2528,248]
 };

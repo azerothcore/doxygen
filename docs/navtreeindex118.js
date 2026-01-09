@@ -1,6 +1,5 @@
 var NAVTREEINDEX118 =
 {
-"d4/d02/structSmartEvent.html#aa2cb7c8741121fed53adb0c758d52f79":[6,0,2572,28],
 "d4/d02/structSmartEvent.html#aa3638a8a372e196d7116e87fa083aa3a":[6,0,2572,26],
 "d4/d02/structSmartEvent.html#aa5e2f5decba28fdb034e8271cc40cffb":[6,0,2572,69],
 "d4/d02/structSmartEvent.html#aa6423bc2f4e866866d09909f1be47d00":[6,0,2572,11],
@@ -156,8 +155,8 @@ var NAVTREEINDEX118 =
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[5,0,32,6,45],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,32,6,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[6,0,12,6,45,2],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,12,6,45,1],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[5,0,32,6,45,1],
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,12,6,45,1],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[6,0,12,6,45,0],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#ae6ca07252de719cc506042c8d3e8285e":[5,0,32,6,45,0],
 "d4/d0a/classnpc__vekjik.html":[6,0,2264],
@@ -189,8 +188,8 @@ var NAVTREEINDEX118 =
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#a8ab8433afb22bbca79e028e8f082da2b":[6,0,3224,1],
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#aa07e0bdaac9cad239bae1b24d16b433c":[6,0,3224,0],
 "d4/d0f/classspell__inoculate__nestlewood__owlkin.html#af8a46c99290ce700e765c7ad5e8c866c":[6,0,3224,3],
-"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[5,0,1,7,0,6],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[6,0,0,4,0,6],
+"d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html":[5,0,1,7,0,6],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[6,0,0,4,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a24d00ca0725d6b4f236bccd7cf5ecbc7":[5,0,1,7,0,6,2],
 "d4/d0f/structAcore_1_1Hyperlinks_1_1LinkTags_1_1spell.html#a36969f95d224ae4561d46a3ca7b20d26":[6,0,0,4,0,6,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX118 =
 "d4/d16/classspell__yogg__saron__empowering__shadows.html#a5ca44686e26def56adc2b98d88145235":[6,0,4084,3],
 "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html":[6,0,478,0],
 "d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a09b826c28e9bf6c417a650dfe710a2dd":[6,0,478,0,13],
-"d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a17b8ca30ceb0efb87be77f970c526444":[6,0,478,0,4]
+"d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a17b8ca30ceb0efb87be77f970c526444":[6,0,478,0,4],
+"d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a3ba69ed84d129a1a48952880c77bcf53":[6,0,478,0,3]
 };

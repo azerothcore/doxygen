@@ -1,6 +1,5 @@
 var NAVTREEINDEX322 =
 {
-"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,3,0,6,0],
 "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d34e1b837b5b82d721d9a92097380b5":[7,0,0,0,1,3,5,3,0,6,2],
 "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca5e8e83cb75a4e905a65e772b945a1b57":[7,0,0,0,1,3,5,3,0,6,1],
 "dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca9616f7ab7a5af57865463abc5abe105e":[7,0,0,0,1,3,5,3,0,6,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX322 =
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a19dcb71e46cc6fb08fda251829afae6f":[6,0,3751,0],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a4f10d23f63c47b408b70373623b877a8":[6,0,3751,6],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a6e066884663276dbba82e46ca5f66e59":[6,0,3751,3],
-"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a8c4f5c9f3db8710aafd687a7bf304572":[6,0,3751,1]
+"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a8c4f5c9f3db8710aafd687a7bf304572":[6,0,3751,1],
+"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a9f5f3767f52f9755de6592f00f62a3d4":[6,0,3751,5]
 };

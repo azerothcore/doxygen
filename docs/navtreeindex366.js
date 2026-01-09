@@ -1,6 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[5,0,32,6,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html":[6,0,12,6,30],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[5,0,32,6,30,2],
 "de/d63/classWorldPackets_1_1Guild_1_1GuildEventLogQueryResults.html#a227ab5555fccf5c8c78ca10fa229d3d4":[6,0,12,6,30,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX366 =
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f":[5,0,18,60,2],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617":[5,0,18,60,1],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fae49ac758b8132c21c98556edf9b872d0":[5,0,18,60,5],
-"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86faea6ff83bcbf7c67735734f7796329f3a":[5,0,18,60,4]
+"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86faea6ff83bcbf7c67735734f7796329f3a":[5,0,18,60,4],
+"de/d72/namespacelfg.html#ab39552a59eefab4f8d1b8005203f9f94":[5,0,18,29]
 };

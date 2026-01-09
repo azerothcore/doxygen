@@ -1,6 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d8d/classspell__mage__master__of__elements.html#a3d2d6f1a00825ac66f507a790f468198":[6,0,3443,4],
 "d3/d8d/classspell__mage__master__of__elements.html#a4f614fe81d829d8a1ceb7500f9557948":[6,0,3443,2],
 "d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6":[6,0,3443,1],
 "d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994":[6,0,3443,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX103 =
 "d3/d96/classspell__rotface__mutated__infection.html#af8a2b651782783dc29ac7266ed02c028":[6,0,3780,1],
 "d3/d96/structnpc__eye__tentacle.html":[6,0,1779],
 "d3/d96/structnpc__eye__tentacle.html#a106deeb95d74597377d32e81695dc3c9":[6,0,1779,0],
-"d3/d96/structnpc__eye__tentacle.html#a48f9067f27d61e609a014669c1daedb9":[6,0,1779,4]
+"d3/d96/structnpc__eye__tentacle.html#a48f9067f27d61e609a014669c1daedb9":[6,0,1779,4],
+"d3/d96/structnpc__eye__tentacle.html#a5f89f08634eeb79f0f9ac726cdf1841b":[6,0,1779,2]
 };

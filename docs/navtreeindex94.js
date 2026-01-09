@@ -1,6 +1,5 @@
 var NAVTREEINDEX94 =
 {
-"d3/d2e/classspell__igb__below__zero.html#a2a8da9d150804f979f2313f623ad7760":[6,0,3180,3],
 "d3/d2e/classspell__igb__below__zero.html#a77c63e85233e2ef14bf06c82ad27c4b2":[6,0,3180,2],
 "d3/d2e/classspell__igb__below__zero.html#aff4f05a5a4742a408646000b7cece38c":[6,0,3180,1],
 "d3/d2f/classspell__sindragosa__frost__breath.html":[6,0,3849],
@@ -249,5 +248,6 @@ var NAVTREEINDEX94 =
 "d3/d32/structboss__azgalor.html#a43d7afa9da1375f431df871e2a1dfff2":[6,0,393,1],
 "d3/d32/structboss__azgalor.html#a49cc8abf458f82ad7d46c9c1563f0e98":[6,0,393,2],
 "d3/d32/structboss__azgalor.html#a4b067c3bccbd5f9c96c50d009250d3d0":[6,0,393,3],
-"d3/d32/structboss__azgalor.html#abea34396ddde0aa02a073b2f3119fec9":[6,0,393,5]
+"d3/d32/structboss__azgalor.html#abea34396ddde0aa02a073b2f3119fec9":[6,0,393,5],
+"d3/d32/structboss__azgalor.html#ac794e0eacc2d543fa62e4b521089f080":[6,0,393,0]
 };

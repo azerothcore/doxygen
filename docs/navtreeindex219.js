@@ -1,6 +1,5 @@
 var NAVTREEINDEX219 =
 {
-"d8/d74/classWorldSession.html#add5013b23693a5a3158685f6fa8abba5":[4,1,19,299],
 "d8/d74/classWorldSession.html#addeda1a3c757b7a7663ba76b27bcc6e1":[4,1,19,420],
 "d8/d74/classWorldSession.html#ade144d6b86e2612cbff571638f50809d":[4,1,19,500],
 "d8/d74/classWorldSession.html#ade7c34dde80cd5c52237230fd4bdbb3e":[4,1,19,441],
@@ -147,12 +146,12 @@ var NAVTREEINDEX219 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,967,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,967,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,967,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,32,6,31],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,32,6,31,0],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,12,6,31,0],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,32,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,32,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,12,6,31,1],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,32,6,31,1],
 "d8/d78/structnpc__akilzon__eagle.html":[6,0,1583],
 "d8/d78/structnpc__akilzon__eagle.html#a14d4f82f932569d24f6014ad39640619":[6,0,1583,8],
 "d8/d78/structnpc__akilzon__eagle.html#a37a5861ef690729e2a8bfafddce168be":[6,0,1583,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX219 =
 "d8/d81/classspell__q12987__read__pronouncement.html":[6,0,3718],
 "d8/d81/classspell__q12987__read__pronouncement.html#a50ced6d5a475ccad9429dfbb05130394":[6,0,3718,0],
 "d8/d81/classspell__q12987__read__pronouncement.html#a8c09775f642335252c6e548900dc9d3a":[6,0,3718,2],
-"d8/d81/classspell__q12987__read__pronouncement.html#abd02e129b1201449d473a66aea77d569":[6,0,3718,1]
+"d8/d81/classspell__q12987__read__pronouncement.html#abd02e129b1201449d473a66aea77d569":[6,0,3718,1],
+"d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html":[6,0,1905,0]
 };

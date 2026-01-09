@@ -1,6 +1,5 @@
 var NAVTREEINDEX171 =
 {
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23":[7,0,0,0,1,3,2,9,0,13,11],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a4e21cd5458c7f5e47183151858fd0776":[7,0,0,0,1,3,2,9,0,16],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302":[7,0,0,0,1,3,2,9,0,12],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f":[7,0,0,0,1,3,2,9,0,12,6],
@@ -182,8 +181,8 @@ var NAVTREEINDEX171 =
 "d6/d5b/classspell__renew__skirmisher.html#ab0b03fd2d1a0ed6720acc45221a582f6":[6,0,3756,2],
 "d6/d5b/classspell__renew__skirmisher.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32":[6,0,3756,0],
 "d6/d5b/classspell__renew__skirmisher.html#ae621e95feb69b54f9aef5d77577a15ae":[6,0,3756,1],
-"d6/d5c/classAcore_1_1ACLogSink.html":[6,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html":[5,0,1,19],
+"d6/d5c/classAcore_1_1ACLogSink.html":[6,0,0,7],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[6,0,0,7,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a070880d742fd84b44c4614a76952e589":[5,0,1,19,2],
 "d6/d5c/classAcore_1_1ACLogSink.html#a360b91b740efaa05309725f6678eb22a":[6,0,0,7,4],
@@ -194,10 +193,10 @@ var NAVTREEINDEX171 =
 "d6/d5c/classAcore_1_1ACLogSink.html#aaecf7407fc4cff91008168377114d7cd":[5,0,1,19,1],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[6,0,0,7,3],
 "d6/d5c/classAcore_1_1ACLogSink.html#adad5e421ed10b296eae8b9c52f5e76f5":[5,0,1,19,3],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[5,0,1,33],
-"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,33,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html":[6,0,0,21],
 "d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[6,0,0,21,0],
+"d6/d5c/structAcore_1_1AnyDeadUnitCheck.html#a5abd3d4d6d94733f3f60751d9678abd7":[5,0,1,33,0],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html":[6,0,2678],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a2301414a88dcbf4bdc8a486ec4be994e":[6,0,2678,5],
 "d6/d5d/classspell__blood__queen__vampiric__bite.html#a43fc6a16aca217ef043fa34a58391357":[6,0,2678,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX171 =
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a3a116dbb2bbf5fc03d6cb7d000bc005cad1521dc079c87020b71b6aa09dafe4aa":[7,0,0,0,1,3,2,1,1,8,5,1],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,8,6],
 "d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823":[7,0,0,0,1,3,2,1,1,8,6,3],
-"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca6c85b8c999d46bdef77a0385157c3":[7,0,0,0,1,3,2,1,1,8,6,11]
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca6c85b8c999d46bdef77a0385157c3":[7,0,0,0,1,3,2,1,1,8,6,11],
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#a5bd342133be8c2137b831460acc9298ca39878036a8edeeb0db3192ad39432dc9":[7,0,0,0,1,3,2,1,1,8,6,2]
 };

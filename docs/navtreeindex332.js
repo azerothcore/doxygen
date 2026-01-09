@@ -1,6 +1,5 @@
 var NAVTREEINDEX332 =
 {
-"dd/d8b/classMotdMgr.html#a21aa89787d5b0bbf69158f799122edd5":[6,0,1526,5],
 "dd/d8b/classMotdMgr.html#a7e317c2855b4ff96c2796081988bdf4f":[6,0,1526,6],
 "dd/d8b/classMotdMgr.html#ab589dd8bfad950e02ee716ea9005253f":[6,0,1526,1],
 "dd/d8b/classitem__commandscript.html":[6,0,1379],
@@ -249,5 +248,6 @@ var NAVTREEINDEX332 =
 "dd/d94/classspell__bonfires__blessing.html#a16dc3f52152d63b5512690c761f9915a":[6,0,2682,1],
 "dd/d94/classspell__bonfires__blessing.html#a30d33268b58507c228a4628031bffca0":[6,0,2682,0],
 "dd/d94/classspell__bonfires__blessing.html#a6494e4d7277e910ffa3b30c333117f00":[6,0,2682,2],
-"dd/d94/classspell__bronjahm__soulstorm__targeting.html":[6,0,2701]
+"dd/d94/classspell__bronjahm__soulstorm__targeting.html":[6,0,2701],
+"dd/d94/classspell__bronjahm__soulstorm__targeting.html#a36879a2920f43562bb0ff89c76d758e4":[6,0,2701,0]
 };

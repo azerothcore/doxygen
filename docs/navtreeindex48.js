@@ -1,6 +1,5 @@
 var NAVTREEINDEX48 =
 {
-"d1/de4/spell__generic_8cpp.html#ae1c2f630aa7976015c1a617918a7afcba8b2f0fb8c12f6f0c6f89d11e734a9ec9":[7,0,0,0,1,3,9,2,150,2],
 "d1/de4/spell__generic_8cpp.html#ae1c2f630aa7976015c1a617918a7afcbaabd70f61b2c4d9ef5a2bc359bebf7e2c":[7,0,0,0,1,3,9,2,150,0],
 "d1/de4/spell__generic_8cpp.html#ae1c2f630aa7976015c1a617918a7afcbab393bc56ffd42047e57598b0e7a90cf5":[7,0,0,0,1,3,9,2,150,1],
 "d1/de4/spell__generic_8cpp.html#ae38873cf6058500d79eeb2a803b28feb":[7,0,0,0,1,3,9,2,153],
@@ -224,10 +223,10 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,3026,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,72,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX48 =
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html":[6,0,2263,0],
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a37800436af47a8f6fbc6f6eb25eab9f9":[6,0,2263,0,1],
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#a588ed86f5b8316feafd938d85ac65aa0":[6,0,2263,0,2],
-"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#afd54b130725aa724b80f150f968ce09d":[6,0,2263,0,0]
+"d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html#afd54b130725aa724b80f150f968ce09d":[6,0,2263,0,0],
+"d1/dfb/classUnchainedMagicTargetSelector.html":[6,0,4238]
 };

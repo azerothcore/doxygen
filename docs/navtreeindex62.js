@@ -1,6 +1,5 @@
 var NAVTREEINDEX62 =
 {
-"d2/d4b/classPlayer.html#aee4cb5fa8d4bb0129f3c1208e183fe63":[6,0,2404,340],
 "d2/d4b/classPlayer.html#aeec07917baee57875bdedb8c83c9e0ca":[6,0,2404,1138],
 "d2/d4b/classPlayer.html#aef256ce4f104af2a79ca7aaa5614878f":[6,0,2404,417],
 "d2/d4b/classPlayer.html#aef40e1ee82395e9dfcce10ed50382469":[6,0,2404,667],
@@ -107,10 +106,10 @@ var NAVTREEINDEX62 =
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[6,0,12,7,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,32,7,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[6,0,12,7,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,32,7,0,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,32,7,0,2],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[6,0,12,7,0,2],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,32,7,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,32,7,0,3],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3316],
@@ -249,5 +248,6 @@ var NAVTREEINDEX62 =
 "d2/d55/structboss__nethermancer__sepethrea.html#ad9606ca8c1fe6f68f72ec415cc70ef2f":[6,0,640,5],
 "d2/d56/Cell_8h.html":[7,0,0,0,1,2,19,0,0],
 "d2/d56/classPlayerSocial.html":[6,0,2423],
-"d2/d56/classPlayerSocial.html#a1206fafb9f3ea29ee954e4f7684e0051":[6,0,2423,11]
+"d2/d56/classPlayerSocial.html#a1206fafb9f3ea29ee954e4f7684e0051":[6,0,2423,11],
+"d2/d56/classPlayerSocial.html#a1c94f00cd1955a8c93dea5d4e67f166a":[6,0,2423,2]
 };

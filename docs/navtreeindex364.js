@@ -1,6 +1,5 @@
 var NAVTREEINDEX364 =
 {
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a1d71569f5da22dd4046a76525bff6452":[6,0,734,0,4],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a401e1c529438c1ce08943ba2da8f1347":[6,0,734,0,7],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a43ba267fd91585541e69e3911c0291d7":[6,0,734,0,14],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#a4d66d60d0e129b3a873d0c91c03e02f4":[6,0,734,0,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX364 =
 "de/d5b/classChargeRifts.html#a8d01bf861d37c25413dc14eee16a2939":[6,0,863,1],
 "de/d5b/classChargeRifts.html#aec98a12dec1f2ad98e00d399b0e2a1d5":[6,0,863,0],
 "de/d5c/classspell__warr__concussion__blow.html":[6,0,4038],
-"de/d5c/classspell__warr__concussion__blow.html#a68a86f7f86324336dc837622e01fa6af":[6,0,4038,0]
+"de/d5c/classspell__warr__concussion__blow.html#a68a86f7f86324336dc837622e01fa6af":[6,0,4038,0],
+"de/d5c/classspell__warr__concussion__blow.html#a8c0a4b3b96a93b6977c2d3077fdfff1d":[6,0,4038,1]
 };

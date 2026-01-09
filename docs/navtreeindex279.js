@@ -1,6 +1,5 @@
 var NAVTREEINDEX279 =
 {
-"db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f":[7,0,0,0,1,3,5,5,1,1,3],
 "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d":[7,0,0,0,1,3,5,5,1,1,2],
 "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aac94086ab64d143268f7d2072a74bb3a":[7,0,0,0,1,3,5,5,1,1,0],
 "db/d52/boss__eck_8cpp.html#a54443d4e1b545037db38644c74eba95b":[7,0,0,0,1,3,5,5,1,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX279 =
 "db/d60/classboss__palehoof.html":[6,0,654],
 "db/d60/classboss__palehoof.html#ac0e541befaad7e1e6e318d64ca4a1d94":[6,0,654,1],
 "db/d60/classboss__palehoof.html#ae33ca6e71b251214be50168a5940d058":[6,0,654,2],
-"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[6,0,0,71]
+"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[6,0,0,71],
+"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[5,0,1,83]
 };

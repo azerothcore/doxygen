@@ -1,6 +1,5 @@
 var NAVTREEINDEX53 =
 {
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca3d77f1cc50b7e48f2f16aa7d383601a3":[7,0,0,0,1,2,36,2,17,11],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca44bd5ba1866b6195d1fdbcfc88e4429d":[7,0,0,0,1,2,36,2,17,3],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca75135989445a2947df016dddb20dcf24":[7,0,0,0,1,2,36,2,17,10],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca867ef0a1e8243d47039936338db4e0d2":[7,0,0,0,1,2,36,2,17,2],
@@ -127,10 +126,10 @@ var NAVTREEINDEX53 =
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,132],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,132,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,120,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,120,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,132,2],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,120,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,120,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,132,1],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,120,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,901],
 "d2/d2b/classConfusedMovementGenerator.html#a02b83b879cc31fb1a0e2f90e97556ba1":[6,0,901,13],
 "d2/d2b/classConfusedMovementGenerator.html#a212665e4306ca335181c255573d30a06":[6,0,901,2],
@@ -150,8 +149,8 @@ var NAVTREEINDEX53 =
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,32,9,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,12,9,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,32,9,3,1],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,32,9,3,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,12,9,3,0],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,32,9,3,0],
 "d2/d2c/VehicleDefines_8h.html":[7,0,0,0,1,2,16,11,2],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebd":[7,0,0,0,1,2,16,11,2,8],
 "d2/d2c/VehicleDefines_8h.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f":[7,0,0,0,1,2,16,11,2,8,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX53 =
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html":[6,0,2464],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[6,0,2464,1],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[6,0,2464,0],
-"d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3422]
+"d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3422],
+"d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3422,2]
 };

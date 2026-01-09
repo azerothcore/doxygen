@@ -1,6 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dd/da2/classnpc__spirit__shade.html#a891ede5651789274496d6426daf9937d":[6,0,2135,1],
 "dd/da2/structboss__epoch__hunter.html":[6,0,448],
 "dd/da2/structboss__epoch__hunter.html#a2571f98f36d1271f3911617e0fdfba54":[6,0,448,2],
 "dd/da2/structboss__epoch__hunter.html#a38d3cbed2ce8f810fd169e0004fd91dc":[6,0,448,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX334 =
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0081125b090371220ef02ed75d3f22ce":[7,0,0,0,1,3,5,4,2,5,11,4],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0254144a479cd638cacfc16a75fa5d5b":[7,0,0,0,1,3,5,4,2,5,11,8],
 "dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0b3dc22911d0d08f4995a9baeeda73d8":[7,0,0,0,1,3,5,4,2,5,11,0],
-"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0df39fec12129fbfa1819886c0fbf1c1":[7,0,0,0,1,3,5,4,2,5,11,10]
+"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a0df39fec12129fbfa1819886c0fbf1c1":[7,0,0,0,1,3,5,4,2,5,11,10],
+"dd/dac/pit__of__saron_8h.html#aa2a9b7d05366cdb1e46b9b97b2d239e5a1bd85b8b26cfe06cebd01cffed5b5ae9":[7,0,0,0,1,3,5,4,2,5,11,9]
 };

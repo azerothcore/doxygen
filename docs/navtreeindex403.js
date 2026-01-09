@@ -1,6 +1,5 @@
 var NAVTREEINDEX403 =
 {
-"df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da42004067e6079fa28e020b565df826b3":[7,0,0,0,1,3,5,6,4,55,9],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da5374d9040d208e9d49202cf3aa267aee":[7,0,0,0,1,3,5,6,4,55,15],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da5e91316dd9bc55cd79327e3af43cd664":[7,0,0,0,1,3,5,6,4,55,17],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5da655e953f4ff6620016a8cdf7ee8a7458":[7,0,0,0,1,3,5,6,4,55,20],
@@ -249,5 +248,6 @@ var NAVTREEINDEX403 =
 "df/de3/classMapInstanced.html#ae6ac74470769d45e3c75291134ab77df":[6,0,1491,14],
 "df/de3/classMapInstanced.html#af30e91e40c171ddbf7400f310283c43c":[6,0,1491,1],
 "df/de3/classMapInstanced.html#aff2cc0a1f57f06ead9a3e999c1c7dba0":[6,0,1491,10],
-"df/de3/classspell__novos__crystal__handler__death__aura.html":[6,0,3514]
+"df/de3/classspell__novos__crystal__handler__death__aura.html":[6,0,3514],
+"df/de3/classspell__novos__crystal__handler__death__aura.html#a3848997e9f775add50d40342b6211ff0":[6,0,3514,1]
 };

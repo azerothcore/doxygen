@@ -1,6 +1,5 @@
 var NAVTREEINDEX17 =
 {
-"d0/db7/classGroup.html#a68c38a89619391cc85eeac2bf2b96ac4":[6,0,1230,42],
 "d0/db7/classGroup.html#a6961cad4ce9ffb385351a99bb8e3c4a0":[6,0,1230,94],
 "d0/db7/classGroup.html#a6ae8d8bc41a1770558866a505ce4b1a1":[6,0,1230,82],
 "d0/db7/classGroup.html#a70320ddf707b2494d166383c4a354b13":[6,0,1230,64],
@@ -249,5 +248,6 @@ var NAVTREEINDEX17 =
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1aad187ac2284ca07772206a15e9a0076b":[7,0,0,0,1,3,2,8,2,4,0],
 "d0/dbc/boss__kormok_8cpp.html#a16774215bba3b38580ea51987d64cff1af1e07bb745ccec2dbcf6b568b94d6a50":[7,0,0,0,1,3,2,8,2,4,2],
 "d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,8,2,5],
-"d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca2fd19c6b2e0ab87ca1f4d691c32c46f1":[7,0,0,0,1,3,2,8,2,5,2]
+"d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca2fd19c6b2e0ab87ca1f4d691c32c46f1":[7,0,0,0,1,3,2,8,2,5,2],
+"d0/dbc/boss__kormok_8cpp.html#a5bd342133be8c2137b831460acc9298ca37d9af20ba1c8ad8f40d3033c02e0066":[7,0,0,0,1,3,2,8,2,5,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX385 =
 {
-"df/d29/oculus_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac67df56895111306b17ce28c89359d1a":[7,0,0,0,1,3,5,8,2,6,3,5],
 "df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[5,0,1,8,0,23],
 "df/d29/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth.html":[6,0,0,5,0,23],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html":[6,0,2087,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX385 =
 "df/d3a/VMapFactory_8h.html":[7,0,0,0,0,1,0,7],
 "df/d3a/hellfire__ramparts_8h.html":[7,0,0,0,1,3,7,4,1,3],
 "df/d3a/hellfire__ramparts_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,4,1,3,0],
-"df/d3a/hellfire__ramparts_8h.html#a63f09fed5c417e14001189cea85ee37a":[7,0,0,0,1,3,7,4,1,3,6]
+"df/d3a/hellfire__ramparts_8h.html#a63f09fed5c417e14001189cea85ee37a":[7,0,0,0,1,3,7,4,1,3,6],
+"df/d3a/hellfire__ramparts_8h.html#a760c4386411e1723b43acf6eced5b47f":[7,0,0,0,1,3,7,4,1,3,2]
 };

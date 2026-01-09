@@ -1,6 +1,5 @@
 var NAVTREEINDEX321 =
 {
-"dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32":[6,0,1788,4],
 "dd/d00/structnpc__forest__frog.html#aa22c4eb7eb3a84db94ce8eb38afd18f5":[6,0,1788,2],
 "dd/d00/structnpc__forest__frog.html#aac140826b8c4b7ce55925b5abeee936e":[6,0,1788,1],
 "dd/d00/structnpc__forest__frog.html#ac6bf7433f79a9c2803072e7b5370a1c7":[6,0,1788,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX321 =
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdf1f3390fb22db6bb6e2184f1d5bd2":[7,0,0,0,1,3,5,3,0,5,1],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924":[7,0,0,0,1,3,5,3,0,5,2],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e48e5fe774eb74669c83be919da5622":[7,0,0,0,1,3,5,3,0,5,0],
-"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,3,0,6]
+"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,3,0,6],
+"dd/d10/boss__dred_8cpp.html#a5bd342133be8c2137b831460acc9298ca38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,5,3,0,6,0]
 };

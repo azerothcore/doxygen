@@ -1,6 +1,5 @@
 var NAVTREEINDEX323 =
 {
-"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a9f5f3767f52f9755de6592f00f62a3d4":[6,0,3751,5],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#ab5fc5ad25ab1d7451f0b8801894ae400":[6,0,3751,2],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#ac4154f0746e77229e8d349021d5b9c30":[6,0,3751,4],
 "dd/d1f/boss__marwyn_8cpp.html":[7,0,0,0,1,3,5,4,1,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX323 =
 "dd/d27/structSmartAction.html#a3f42f2d1b59b3167632e17bad1f49db1":[6,0,2569,255],
 "dd/d27/structSmartAction.html#a3fb37b223722eb1a63edfbd8140b3804":[6,0,2569,52],
 "dd/d27/structSmartAction.html#a40c869c4a1d943b43048a232a9a97d32":[6,0,2569,0],
-"dd/d27/structSmartAction.html#a410d2acd26fa3235938826d95ae8d4fb":[6,0,2569,204]
+"dd/d27/structSmartAction.html#a410d2acd26fa3235938826d95ae8d4fb":[6,0,2569,204],
+"dd/d27/structSmartAction.html#a4266b65cda766e539c175613f9da86e3":[6,0,2569,216]
 };

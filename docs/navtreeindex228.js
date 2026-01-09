@@ -1,6 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"d8/de5/boss__maiden__of__grief_8cpp.html#a77b1ed73f4219810f56e29ea0cc41db7":[7,0,0,0,1,3,5,9,1,1,5],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2":[7,0,0,0,1,3,5,9,1,1,3],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a19b2a44ab973e5455800e27c52741dc7":[7,0,0,0,1,3,5,9,1,1,3,1],
 "d8/de5/boss__maiden__of__grief_8cpp.html#abdbd89eacbc02a7997082886574e8ec2a36889144f6bc798e085d3a653bfe0c97":[7,0,0,0,1,3,5,9,1,1,3,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX228 =
 "d8/df6/TypeContainerFunctions_8h.html#afe44e70d4fae1d3c112291bd985e82b1":[7,0,0,0,0,6,5,27],
 "d8/df6/TypeContainerFunctions_8h.html#affed0a39c687fd0d71e1838f7d91d106":[7,0,0,0,0,6,5,20],
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html":[6,0,290,5],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a29bb773b8271acf651b08f33ce358720":[6,0,290,5,0]
+"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a29bb773b8271acf651b08f33ce358720":[6,0,290,5,0],
+"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a519489b8d951173a806e86cfe075faf1":[6,0,290,5,2]
 };

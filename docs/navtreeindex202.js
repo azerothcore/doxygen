@@ -1,6 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/db0/classMap.html#a4239f493c0e8fc66dac786ceac65afe3":[6,0,1480,10],
 "d7/db0/classMap.html#a43b5bdb50f8e3d9b9305475f62872d6c":[6,0,1480,111],
 "d7/db0/classMap.html#a44d05ece35e49c5301b2b20a04ce2221":[6,0,1480,231],
 "d7/db0/classMap.html#a466d8c86e43fa27805ef7133e0d1bdfa":[6,0,1480,98],
@@ -249,5 +248,6 @@ var NAVTREEINDEX202 =
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#a135dd028f95eeb34b2852e8dafebbe63":[6,0,573,0,4],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#a2885d65bfaf345e7c3dfa42d8c80a892":[6,0,573,0,11],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#a6c6935e058bc18c013bc31f03f5a914b":[6,0,573,0,10],
-"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#abc6db76c9dcdbdb1c51b7f67d4c39551":[6,0,573,0,3]
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#abc6db76c9dcdbdb1c51b7f67d4c39551":[6,0,573,0,3],
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ac8a2297a89310f4902fdc544ef71b673":[6,0,573,0,6]
 };

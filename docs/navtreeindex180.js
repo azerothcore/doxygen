@@ -1,6 +1,5 @@
 var NAVTREEINDEX180 =
 {
-"d6/dc7/classCreatureGroup.html#a60d646229e75ac6bf0be825f43e7368c":[6,0,929,13],
 "d6/dc7/classCreatureGroup.html#a63805a04ef3ef80270ae7e7d03014d83":[6,0,929,22],
 "d6/dc7/classCreatureGroup.html#a6e2dc8bde0b1c0db11bb04f31dafe96d":[6,0,929,12],
 "d6/dc7/classCreatureGroup.html#a8080ff17f223119659870c49db3ae6d9":[6,0,929,17],
@@ -179,14 +178,14 @@ var NAVTREEINDEX180 =
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html":[5,0,32,6,28],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[5,0,32,6,28,2],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a1aebcb39f85c2b44101a311a6ccefdfd":[6,0,12,6,28,2],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,32,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[6,0,12,6,28,0],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a3f7486a2e4e07fef318414eaaa9037da":[5,0,32,6,28,0],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[6,0,12,6,28,3],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#a4a8054876b35134e5dfe2cf84887e66f":[5,0,32,6,28,3],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,12,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[5,0,32,6,28,4],
-"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,32,6,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#aa48b69aa9078fb150470d66201b34786":[6,0,12,6,28,4],
 "d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[6,0,12,6,28,1],
+"d6/dcd/structWorldPackets_1_1Guild_1_1GuildEventEntry.html#ae3d1217ddbfccd601fcbc57b78739a94":[5,0,32,6,28,1],
 "d6/dce/classspell__hun__lock__and__load.html":[6,0,3147],
 "d6/dce/classspell__hun__lock__and__load.html#a00f06f18b6874302f88c3af193d8e4ed":[6,0,3147,1],
 "d6/dce/classspell__hun__lock__and__load.html#a02590da9b97a4d6bc7a6cbd0e670480f":[6,0,3147,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX180 =
 "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90":[6,0,1132,0,2],
 "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html#a44ece597fcfcf290234cc1ef073fbf18":[6,0,1132,0,1],
 "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html#a51406a7e313702282cebfbf067c9ce4e":[6,0,1132,0,0],
-"d6/dd2/ARC4_8h.html":[7,0,0,0,0,3,4]
+"d6/dd2/ARC4_8h.html":[7,0,0,0,0,3,4],
+"d6/dd2/classPingOperation.html":[6,0,2403]
 };

@@ -33,7 +33,6 @@ var classItem =
     [ "GetItemRandomPropertyId", "d0/dae/classItem.html#a546cdd184abbcd798980164f34a939c4", null ],
     [ "GetItemSuffixFactor", "d0/dae/classItem.html#a65c26e0c034e413eef2c7a2f83aab7c8", null ],
     [ "GetMaxStackCount", "d0/dae/classItem.html#ae6722dd0d72d33bc1840151549993f16", null ],
-    [ "GetOnEquipSpellIDs", "d0/dae/classItem.html#a2fa83010a371def01496dca12835da0f", null ],
     [ "GetOwner", "d0/dae/classItem.html#a832970d43976538c4092cf5d09706546", null ],
     [ "GetOwnerGUID", "d0/dae/classItem.html#a884d2b63022a7b93f3bd27947c9222af", null ],
     [ "GetPaidExtendedCost", "d0/dae/classItem.html#a35aa999159bbf5ff38875af23904db7c", null ],

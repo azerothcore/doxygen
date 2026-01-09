@@ -1,6 +1,5 @@
 var NAVTREEINDEX89 =
 {
-"d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3781dde3a7fb066620ada4bda214d9d7":[6,0,2011,5],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a3f4a61d141c51a29eaefc8118b5311e0":[6,0,2011,13],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7425750b8bd904de4bdf90a70f17ba52":[6,0,2011,1],
 "d2/dfd/structnpc__overlord__drakuru__betrayal.html#a7a28c8050615a13148092b1d6f0f8bea":[6,0,2011,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX89 =
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da298771e3a6e970401c3c9de4d57c1802":[7,0,0,0,1,3,5,15,56,6],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2c09d8453566e10a7d2ff684a0703b06":[7,0,0,0,1,3,5,15,56,38],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2ce40078fbc123147590e40714879c2d":[7,0,0,0,1,3,5,15,56,42],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2d263c0e6e05324ea65cfef3fb0a95ac":[7,0,0,0,1,3,5,15,56,10]
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2d263c0e6e05324ea65cfef3fb0a95ac":[7,0,0,0,1,3,5,15,56,10],
+"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da2f9feeeb7f65d9080de13cd056cbffa3":[7,0,0,0,1,3,5,15,56,1]
 };

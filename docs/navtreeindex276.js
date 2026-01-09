@@ -1,6 +1,5 @@
 var NAVTREEINDEX276 =
 {
-"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ab4fb75f1b84c2722f936387a6942028b":[6,0,1741,0,5],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ac78f94033239dcf247be9a48d0535081":[6,0,1741,0,7],
 "db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#acf362c9e3eb844db9f66cc8c969cd22e":[6,0,1741,0,8],
 "db/d1b/SkillExtraItems_8cpp.html":[7,0,0,0,1,2,40,2],
@@ -138,8 +137,8 @@ var NAVTREEINDEX276 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html":[6,0,1890,0],
@@ -161,8 +160,8 @@ var NAVTREEINDEX276 =
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,12,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,12,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,32,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,12,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,32,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,12,6,40,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html":[6,0,4138,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a0c2f048fc10f408a299a8b537ad7551d":[6,0,4138,0,0],
 "db/d22/classSpellScript_1_1BeforeHitHandler.html#a393057cca72c41e193508bf150ed0b1f":[6,0,4138,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX276 =
 "db/d2b/classspell__gen__consume.html#a839f5e891cfbd0f83937f06c7fd049d4":[6,0,2948,0],
 "db/d2b/classspell__gen__consume.html#a9763527e0a95c52888847b84d8f1dd8d":[6,0,2948,6],
 "db/d2b/classspell__gen__consume.html#aa9b47c361eaad7dac4725e0be1bfe254":[6,0,2948,7],
-"db/d2b/classspell__gen__consume.html#ac521cc1524ddb9dd298145f23cc8fcd1":[6,0,2948,1]
+"db/d2b/classspell__gen__consume.html#ac521cc1524ddb9dd298145f23cc8fcd1":[6,0,2948,1],
+"db/d2b/classspell__gen__consume.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9":[6,0,2948,5]
 };

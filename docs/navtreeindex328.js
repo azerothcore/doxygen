@@ -1,6 +1,5 @@
 var NAVTREEINDEX328 =
 {
-"dd/d4f/classspell__sha__earth__shield.html#af4e49e2362994f247c119c16c013e4b3":[6,0,3808,3],
 "dd/d4f/structCreatureModelInfo.html":[6,0,933],
 "dd/d4f/structCreatureModelInfo.html#a222b3c513a64b385954ea549e67f4255":[6,0,933,4],
 "dd/d4f/structCreatureModelInfo.html#a52dbfa82e1525df681b87ab07ba8ead0":[6,0,933,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX328 =
 "dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a129437291e75a919e4158bf1df0f7f0a":[5,0,20,0,1,2],
 "dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a1de27edad5c45f8033ce74352c563f52":[5,0,20,0,1,6],
 "dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a1de27edad5c45f8033ce74352c563f52":[6,0,6,0,1,6],
-"dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a232dd51ab056c5e836fe1bb84eeee90e":[6,0,6,0,1,7]
+"dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a232dd51ab056c5e836fe1bb84eeee90e":[6,0,6,0,1,7],
+"dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a232dd51ab056c5e836fe1bb84eeee90e":[5,0,20,0,1,7]
 };

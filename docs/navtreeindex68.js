@@ -1,6 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d2/d80/classboss__ragnaros.html#af54e36608e160811ca06952fd2c63f6e":[6,0,670,2],
 "d2/d81/classspell__mark__of__kazrogal.html":[6,0,3462],
 "d2/d81/classspell__mark__of__kazrogal.html#a27b432d8571d48c3f5fb025bbbd29271":[6,0,3462,2],
 "d2/d81/classspell__mark__of__kazrogal.html#a45b0713b2942199bf0e19752fe765aac":[6,0,3462,0],
@@ -109,14 +108,14 @@ var NAVTREEINDEX68 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2106],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2106,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2106,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a8b2d1002b689627ceebedfe1ead1aaa0":[6,0,2527,34],
 "d2/d8f/structScriptInfo.html#a8e7c61ffac670290464b0232430df05c":[6,0,2527,29],
 "d2/d8f/structScriptInfo.html#a8f47be670df5df4f42031aa4423e0cbe":[6,0,2527,42],
-"d2/d8f/structScriptInfo.html#a8fb645d013542458f1a0d92e47ad238a":[6,0,2527,65]
+"d2/d8f/structScriptInfo.html#a8fb645d013542458f1a0d92e47ad238a":[6,0,2527,65],
+"d2/d8f/structScriptInfo.html#a91c39f49adbd09706533d287afcaed40":[6,0,2527,77]
 };

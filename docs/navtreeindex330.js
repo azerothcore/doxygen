@@ -1,6 +1,5 @@
 var NAVTREEINDEX330 =
 {
-"dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#afa6cc6032804e3d8f3f7797b2231847f":[6,0,12,9,13,2],
 "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#afa6cc6032804e3d8f3f7797b2231847f":[5,0,32,9,13,2],
 "dd/d75/classat__tyrannus__event__starter.html":[6,0,253],
 "dd/d75/classat__tyrannus__event__starter.html#a1aef2522c20dd242e749d93a6bee66d8":[6,0,253,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX330 =
 "dd/d7f/boss__mor__grayhoof_8cpp.html":[7,0,0,0,1,3,2,1,1,6],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a020c977e2d9d6b6a6a377c0b81a5ad61":[7,0,0,0,1,3,2,1,1,6,4],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a2bf4c18834c019f42bbed2980714ea56":[7,0,0,0,1,3,2,1,1,6,8],
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,6,2]
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,6,2],
+"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca70102f1e7ebc514c9875b92e5490b":[7,0,0,0,1,3,2,1,1,6,2,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX170 =
 {
-"d6/d4d/structgo__sand__trap.html#a2e4a5fec4d4c790233ca97e6a7732ac4":[6,0,1174,2],
 "d6/d4d/structgo__sand__trap.html#a58d45acac672cb05988ddca78185b469":[6,0,1174,0],
 "d6/d4d/structgo__sand__trap.html#a7071a3e420e9137ca133b471bc217bf3":[6,0,1174,1],
 "d6/d4d/structgo__sand__trap.html#af845c0efb3d8ebe53d3620970a84f1e4":[6,0,1174,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX170 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d":[7,0,0,0,1,3,2,9,0,13,9],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5":[7,0,0,0,1,3,2,9,0,13,5],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90":[7,0,0,0,1,3,2,9,0,13,8],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4":[7,0,0,0,1,3,2,9,0,13,4]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4":[7,0,0,0,1,3,2,9,0,13,4],
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23":[7,0,0,0,1,3,2,9,0,13,11]
 };

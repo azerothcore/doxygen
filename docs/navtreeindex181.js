@@ -1,6 +1,5 @@
 var NAVTREEINDEX181 =
 {
-"d6/dd2/classPingOperation.html":[6,0,2403],
 "d6/dd2/classPingOperation.html#a90b33b3679699a6a20fcd1e61ed7f737":[6,0,2403,0],
 "d6/dd2/classnpc__gothik__the__harvester.html":[6,0,1817],
 "d6/dd2/classnpc__gothik__the__harvester.html#a44a8a900e195308802e76c5b550b577a":[6,0,1817,1],
@@ -27,14 +26,14 @@ var NAVTREEINDEX181 =
 "d6/dd4/structboss__sacrolash.html#aa3128dae87d181e7ab93cf3a13723982":[6,0,684,7],
 "d6/dd4/structboss__sacrolash.html#adbcbd24a90549978032d31d1beeaa4e6":[6,0,684,2],
 "d6/dd4/structboss__sacrolash.html#ae650b6019d2f9191e1b532176159804d":[6,0,684,1],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[6,0,12,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[5,0,32,1,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,32,1,2,2],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html":[6,0,12,1,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[6,0,12,1,2,2],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,32,1,2,1],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a31de21c2af87d174d139eef870cbb5fd":[5,0,32,1,2,2],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[6,0,12,1,2,1],
-"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[5,0,32,1,2,0],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#a344db9b28e7247dc0285a3468a789721":[5,0,32,1,2,1],
 "d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[6,0,12,1,2,0],
+"d6/dd5/classWorldPackets_1_1Calendar_1_1GetEvent.html#aabf338a9824038abbd0934a3bef0a269":[5,0,32,1,2,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html":[6,0,1639,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html#a00cc1f78fa8fe26bf472d99a490d05ad":[6,0,1639,0,0],
 "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html#a204e0a809e9c392f20ec900e9a90a075":[6,0,1639,0,7],
@@ -94,10 +93,10 @@ var NAVTREEINDEX181 =
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html":[6,0,12,15,0],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[6,0,12,15,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,32,15,0,5],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,32,15,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,12,15,0,4],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,32,15,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,32,15,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[6,0,12,15,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,32,15,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[6,0,12,15,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[5,0,32,15,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[6,0,12,15,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX181 =
 "d6/de3/classboss__freya__elder__stonebark.html#a0b529bb8755c56046c40b620ef4b7448":[6,0,482,2],
 "d6/de3/classboss__freya__elder__stonebark.html#a9c90c504d78456580ae657a42fac4075":[6,0,482,1],
 "d6/de3/structScalingStatValuesEntry.html":[6,0,2523],
-"d6/de3/structScalingStatValuesEntry.html#a03804cca02fd1146dffb762bcd1274f8":[6,0,2523,11]
+"d6/de3/structScalingStatValuesEntry.html#a03804cca02fd1146dffb762bcd1274f8":[6,0,2523,11],
+"d6/de3/structScalingStatValuesEntry.html#a0e56e757faf660cabe0ba4316ee17f12":[6,0,2523,0]
 };

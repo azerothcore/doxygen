@@ -1,6 +1,5 @@
 var NAVTREEINDEX331 =
 {
-"dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ca70102f1e7ebc514c9875b92e5490b":[7,0,0,0,1,3,2,1,1,6,2,1],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca261e6adcc96e35faa414f14790314f76":[7,0,0,0,1,3,2,1,1,6,2,6],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca2c00358a14477c4700d0dfcff929e580":[7,0,0,0,1,3,2,1,1,6,2,11],
 "dd/d7f/boss__mor__grayhoof_8cpp.html#a5bd342133be8c2137b831460acc9298ca2f563c1bba1af64ae5c19d212170eed5":[7,0,0,0,1,3,2,1,1,6,2,17],
@@ -249,5 +248,6 @@ var NAVTREEINDEX331 =
 "dd/d8b/classMotdMgr.html#a0acc39f8c58f6446a337e2d33f15731a":[6,0,1526,0],
 "dd/d8b/classMotdMgr.html#a0eac0994f742f9a5cbd912abc308d1a7":[6,0,1526,3],
 "dd/d8b/classMotdMgr.html#a1a6ce19decdaf6cd778cf331bdc0c1ef":[6,0,1526,4],
-"dd/d8b/classMotdMgr.html#a1eb1b16519bafaffe3b48b9835aab11e":[6,0,1526,2]
+"dd/d8b/classMotdMgr.html#a1eb1b16519bafaffe3b48b9835aab11e":[6,0,1526,2],
+"dd/d8b/classMotdMgr.html#a21aa89787d5b0bbf69158f799122edd5":[6,0,1526,5]
 };
