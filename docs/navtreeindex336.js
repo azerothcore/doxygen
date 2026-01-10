@@ -1,5 +1,8 @@
 var NAVTREEINDEX336 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71a58a9b81c2cdf68439c2e3a4ae08ab651":[7,0,0,0,1,3,5,23,41,0],
+"dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36ed":[7,0,0,0,1,3,5,23,33],
+"dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36eda0ab0f58505a9df3f497f065b7b82c995":[7,0,0,0,1,3,5,23,33,2],
 "dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36eda4fdbea404819b5f53d2fa2195205c8de":[7,0,0,0,1,3,5,23,33,1],
 "dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36eda626925ba86f88514659778da36ed7122":[7,0,0,0,1,3,5,23,33,0],
 "dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36edac135fe33f063d714edde9a2a5c3216e4":[7,0,0,0,1,3,5,23,33,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dc6/classspell__q10929__fumping__aura.html#a13fdde1557249328306a57e159d821a7":[6,0,3652,2],
 "dd/dc6/classspell__q10929__fumping__aura.html#a317c238b165ad331beb447ea5d0de7e1":[6,0,3652,0],
 "dd/dc6/classspell__q10929__fumping__aura.html#a58a383bd4e3062a5c5b1df97192b4b7e":[6,0,3652,3],
-"dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[6,0,3652,1],
-"dd/dc6/steam__vault_8h.html":[7,0,0,0,1,3,7,2,2,4],
-"dd/dc6/steam__vault_8h.html#a082e6f5a53791ec96ecefdf86d59dc00":[7,0,0,0,1,3,7,2,2,4,2],
-"dd/dc6/steam__vault_8h.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,7,2,2,4,3]
+"dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[6,0,3652,1]
 };

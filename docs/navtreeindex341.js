@@ -1,5 +1,8 @@
 var NAVTREEINDEX341 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a3565b34d1a34ff58648c1ac6c3d2c13b":[7,0,0,0,1,3,5,19,21,10],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a46b0a895be7ae9d5a29ff6273df0fe9a":[7,0,0,0,1,3,5,19,21,12],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a5ea4c443cdf136d58f98541869a0d3a7":[7,0,0,0,1,3,5,19,21,8],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a5eac235efc73e11d15cbd086ac1c7bc3":[7,0,0,0,1,3,5,19,21,9],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a624fd56e33da0d4cdbc1d0cccaa40995":[7,0,0,0,1,3,5,19,21,4],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a654866eef91583480a526472b3ddb469":[7,0,0,0,1,3,5,19,21,17],
@@ -246,8 +249,5 @@ var NAVTREEINDEX341 =
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a77a978fdb0ba0de506f66ec0b2906229":[6,0,1846,0,1],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a7cf9338767e8edf0a87a5552703de87a":[6,0,1846,0,2],
 "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#aca22c73db989f0393926067506794e43":[6,0,1846,0,6],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#ad91cd657166a12d3c34adcf7b11d076f":[6,0,1846,0,0],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#afc490ae2382fd7097b3877c7f9eadf6b":[6,0,1846,0,5],
-"dd/df6/classLootValidatorRefMgr.html":[6,0,1462],
-"dd/df6/classLootValidatorRefMgr.html#a92c30fb269bc99820b6964a99ee86d98":[6,0,1462,6]
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#ad91cd657166a12d3c34adcf7b11d076f":[6,0,1846,0,0]
 };

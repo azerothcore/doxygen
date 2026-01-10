@@ -1,5 +1,8 @@
 var NAVTREEINDEX284 =
 {
+"db/d88/classspell__mc__play__dead__aura.html#a8259745e21c561e4eedabc87ca8bdf73":[6,0,3475,2],
+"db/d88/classspell__mc__play__dead__aura.html#a8e38bc0ebf6b62982eee84e4c2722413":[6,0,3475,1],
+"db/d88/classspell__mc__play__dead__aura.html#a94aa1bd618035323b1fd4817fa7f9687":[6,0,3475,5],
 "db/d88/classspell__mc__play__dead__aura.html#ab1f4879fd9bd3982b9695bda886b0b99":[6,0,3475,0],
 "db/d88/classspell__mc__play__dead__aura.html#abec6d69d331e9952c129dc4cc24f0f13":[6,0,3475,3],
 "db/d88/structTimeTracker.html":[6,0,4199],
@@ -33,10 +36,10 @@ var NAVTREEINDEX284 =
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[7,0,0,0,1,3,5,10,0,4,8],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,32,12,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,12,12,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,12,12,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,32,12,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,12,12,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,12,12,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,32,12,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,12,12,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,12,12,1,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,32,12,1,1],
 "db/d89/classboss__ambassador__flamelash.html":[6,0,376],
@@ -246,8 +249,5 @@ var NAVTREEINDEX284 =
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a7b997b639af85999d70e317152579b39":[7,0,0,0,1,2,16,4,6,42,2],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a852a308d8189612792dee001b21f03fe":[7,0,0,0,1,2,16,4,6,42,15],
 "db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571a9c6a58f208d631dcd06c7745712c03d3":[7,0,0,0,1,2,16,4,6,42,7],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aabfced01a40f2ec6afcb2b724e275607":[7,0,0,0,1,2,16,4,6,42,19],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aafa7b8bcca18f94bab88e25ca6740271":[7,0,0,0,1,2,16,4,6,42,30],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ac1a7c12e404c413e6ae1d5bbaa5663eb":[7,0,0,0,1,2,16,4,6,42,31],
-"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571ac44723717ac4854d7e28df1d7e4ef987":[7,0,0,0,1,2,16,4,6,42,12]
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571aabfced01a40f2ec6afcb2b724e275607":[7,0,0,0,1,2,16,4,6,42,19]
 };

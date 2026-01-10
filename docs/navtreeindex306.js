@@ -1,5 +1,8 @@
 var NAVTREEINDEX306 =
 {
+"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a849fab6972c96c3ec046deaccaadcd43":[7,0,0,0,0,19,8,29],
+"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a85ec7474612cca256c33d48886d3422b":[7,0,0,0,0,19,8,18],
+"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a8a422b9bee9b88d97422e8f8c9bdaaf0":[7,0,0,0,0,19,8,13],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912aa03db45b0363a5bffc04e11056bdce4e":[7,0,0,0,0,19,8,8],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912aac7573c6a728cd9474f957efab02b048":[7,0,0,0,0,19,8,10],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912abb6dee44da386b13d36e1f55f0472d16":[7,0,0,0,0,19,8,19],
@@ -246,8 +249,5 @@ var NAVTREEINDEX306 =
 "dc/d3b/classachievement__bg__ic__mowed__down.html#ab05387d1e14958e87123bd0fc2188445":[6,0,41,0],
 "dc/d3b/classnpc__black__knight__skeletal__gryphon.html":[6,0,1651],
 "dc/d3b/classnpc__black__knight__skeletal__gryphon.html#a5dc83a92fbe2eb4d6faa30f23a9ac777":[6,0,1651,1],
-"dc/d3b/classnpc__black__knight__skeletal__gryphon.html#aad244f95877a208b56a2b6544984d724":[6,0,1651,2],
-"dc/d3b/classspell__the__lich__king__infest__aura.html":[6,0,3919],
-"dc/d3b/classspell__the__lich__king__infest__aura.html#aa4a548a222dd79554e3e4e8f837c1d49":[6,0,3919,3],
-"dc/d3b/classspell__the__lich__king__infest__aura.html#aa7dea3d079ae88aafd145ce949a6eb02":[6,0,3919,2]
+"dc/d3b/classnpc__black__knight__skeletal__gryphon.html#aad244f95877a208b56a2b6544984d724":[6,0,1651,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX313 =
 {
+"dc/d8e/structMovement_1_1FallInitializer.html#a7a9b294b6820e229cd95f4fc9bde825b":[5,0,21,3,1],
+"dc/d8e/structMovement_1_1FallInitializer.html#a7a9b294b6820e229cd95f4fc9bde825b":[6,0,7,3,1],
+"dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[5,0,21,3,2],
 "dc/d8e/structMovement_1_1FallInitializer.html#ab94604fb6eee50832001908c12044130":[6,0,7,3,2],
 "dc/d8f/TypeList_8h.html":[7,0,0,0,0,6,8],
 "dc/d8f/TypeList_8h.html#a0309f68a543c5c0994f9edc0e56dc59f":[7,0,0,0,0,6,8,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da5/classOrcMoveEvent.html":[6,0,2346],
 "dc/da5/classOrcMoveEvent.html#a58a3c88ed3c6b534016179949b85ff9e":[6,0,2346,1],
 "dc/da5/classOrcMoveEvent.html#a71f7fe243741a1629bdd846fc97f0112":[6,0,2346,0],
-"dc/da5/classOrcMoveEvent.html#ad8d09bbb659d44e9f4b9171cea7ef7e8":[6,0,2346,2],
-"dc/da5/classboss__valithria__dreamwalker.html":[6,0,761],
-"dc/da5/classboss__valithria__dreamwalker.html#a0f0bacefa7e3d682a5db81a14f2ff947":[6,0,761,2],
-"dc/da5/classboss__valithria__dreamwalker.html#afcc6dc92d94330d3aed67f71452f9cd2":[6,0,761,1]
+"dc/da5/classOrcMoveEvent.html#ad8d09bbb659d44e9f4b9171cea7ef7e8":[6,0,2346,2]
 };

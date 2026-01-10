@@ -1,5 +1,8 @@
 var NAVTREEINDEX319 =
 {
+"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1f":[7,0,0,0,1,3,3,1,42],
+"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa4010b39236a9ad1f180684eac57e2b1e":[7,0,0,0,1,3,3,1,42,2],
+"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa778bc53e8a5095f25c826037984a87f9":[7,0,0,0,1,3,3,1,42,1],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1faeeed8e128d71d3a9cbd05ac752f558c6":[7,0,0,0,1,3,3,1,42,0],
 "dc/ddf/brewfest_8cpp.html#ae08d67fac7772287f656a8ac94adbfb1":[7,0,0,0,1,3,3,1,46],
 "dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5":[7,0,0,0,1,3,3,1,33],
@@ -246,8 +249,5 @@ var NAVTREEINDEX319 =
 "dc/ded/classat__icc__putricide__trap.html":[6,0,225],
 "dc/ded/classat__icc__putricide__trap.html#a9d4183629deada9c22750b8a34e94583":[6,0,225,0],
 "dc/ded/classat__icc__putricide__trap.html#ad59c2f694c50fabf1946d2c7ae726413":[6,0,225,1],
-"dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8],
-"dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,8,7],
-"dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,6],
-"dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,8]
+"dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8]
 };

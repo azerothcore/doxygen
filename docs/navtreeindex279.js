@@ -1,5 +1,8 @@
 var NAVTREEINDEX279 =
 {
+"db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,5,1,1],
+"db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00d187a2a1a601786de6c47fffb0ef78":[7,0,0,0,1,3,5,5,1,1,1],
+"db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f":[7,0,0,0,1,3,5,5,1,1,3],
 "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d":[7,0,0,0,1,3,5,5,1,1,2],
 "db/d52/boss__eck_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aac94086ab64d143268f7d2072a74bb3a":[7,0,0,0,1,3,5,5,1,1,0],
 "db/d52/boss__eck_8cpp.html#a54443d4e1b545037db38644c74eba95b":[7,0,0,0,1,3,5,5,1,5],
@@ -56,8 +59,8 @@ var NAVTREEINDEX279 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,32,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,32,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,32,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX279 =
 "db/d5e/classspell__gruul__shatter__effect.html#aac3c6a6b34af795cb08fc299e763f6a8":[6,0,3077,2],
 "db/d5f/IPLocation_8cpp.html":[7,0,0,0,0,8,0],
 "db/d60/classboss__palehoof.html":[6,0,654],
-"db/d60/classboss__palehoof.html#ac0e541befaad7e1e6e318d64ca4a1d94":[6,0,654,1],
-"db/d60/classboss__palehoof.html#ae33ca6e71b251214be50168a5940d058":[6,0,654,2],
-"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[6,0,0,71],
-"db/d61/structAcore_1_1MessageDistDelivererToHostile.html":[5,0,1,83]
+"db/d60/classboss__palehoof.html#ac0e541befaad7e1e6e318d64ca4a1d94":[6,0,654,1]
 };

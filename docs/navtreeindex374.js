@@ -1,5 +1,8 @@
 var NAVTREEINDEX374 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7":[7,0,0,0,1,3,5,18,51],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a00fb6561d080dd95447dee7cc31af3ae":[7,0,0,0,1,3,5,18,51,4],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a06516d8acac42f9635bcabca9885b4de":[7,0,0,0,1,3,5,18,51,26],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a12b3ad955ab13fdd3aa52c96bcd70b58":[7,0,0,0,1,3,5,18,51,33],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a202971ea23fa079e19418d08fb0e96c9":[7,0,0,0,1,3,5,18,51,7],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a2f68edbc1e38872baadd78ea56f7cde2":[7,0,0,0,1,3,5,18,51,16],
@@ -246,8 +249,5 @@ var NAVTREEINDEX374 =
 "de/db0/classspell__warl__siphon__life.html":[6,0,4030],
 "de/db0/classspell__warl__siphon__life.html#a19e8f1b9aab5ee4e718b304c87303627":[6,0,4030,4],
 "de/db0/classspell__warl__siphon__life.html#a33381b811abcd52f7a57e0f62fa73e5f":[6,0,4030,2],
-"de/db0/classspell__warl__siphon__life.html#ab953f817368120933828d6b3e5e200c0":[6,0,4030,1],
-"de/db0/classspell__warl__siphon__life.html#abfdd5179215432a3e89ea7b498d49867":[6,0,4030,3],
-"de/db0/classspell__warl__siphon__life.html#afcda3b112699e108e2db6270836fce1b":[6,0,4030,0],
-"de/db1/WhoListCacheMgr_8cpp.html":[7,0,0,0,1,2,9,2]
+"de/db0/classspell__warl__siphon__life.html#ab953f817368120933828d6b3e5e200c0":[6,0,4030,1]
 };

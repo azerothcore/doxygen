@@ -1,5 +1,8 @@
 var NAVTREEINDEX310 =
 {
+"dc/d5e/structnpc__chained__spirit.html#a794cf63fabc0c3f7ab9214750fa232a9":[6,0,1688,5],
+"dc/d5e/structnpc__chained__spirit.html#ad5dd92208d6a23954fef6348f4abbd23":[6,0,1688,7],
+"dc/d5f/classspell__spore__cloud.html":[6,0,3868],
 "dc/d5f/classspell__spore__cloud.html#a75515896f3d94d227963a3c5258e2d0d":[6,0,3868,1],
 "dc/d5f/classspell__spore__cloud.html#aeacb1ffc287cc7128366ee0484c2994b":[6,0,3868,2],
 "dc/d5f/classspell__spore__cloud.html#af6c30bb292a69d5eaaaf75c8a76111ea":[6,0,3868,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX310 =
 "dc/d76/structAuctionSortInfo.html#a4ceca7230706e6906942306595686502":[6,0,282,0],
 "dc/d76/structAuctionSortInfo.html#ac6afc258e0eca83f8e2fd8996e83231b":[6,0,282,2],
 "dc/d77/ChatHandler_8cpp.html":[7,0,0,0,1,2,22,10],
-"dc/d77/ChatHandler_8cpp.html#ae6092f307f09a5dcbbc5ed10c145032f":[7,0,0,0,1,2,22,10,1],
-"dc/d77/cs__ticket_8cpp.html":[7,0,0,0,1,3,0,45],
-"dc/d77/cs__ticket_8cpp.html#ad71463f4442d2e022a92404a4d9dec76":[7,0,0,0,1,3,0,45,1],
-"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html":[6,0,2197,0]
+"dc/d77/ChatHandler_8cpp.html#ae6092f307f09a5dcbbc5ed10c145032f":[7,0,0,0,1,2,22,10,1]
 };

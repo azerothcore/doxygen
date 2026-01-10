@@ -1,5 +1,8 @@
 var NAVTREEINDEX333 =
 {
+"dd/d94/classspell__bonfires__blessing.html#a6494e4d7277e910ffa3b30c333117f00":[6,0,2682,2],
+"dd/d94/classspell__bronjahm__soulstorm__targeting.html":[6,0,2701],
+"dd/d94/classspell__bronjahm__soulstorm__targeting.html#a36879a2920f43562bb0ff89c76d758e4":[6,0,2701,0],
 "dd/d94/classspell__bronjahm__soulstorm__targeting.html#a800bd9ffab41ccf860844a129ec3b03c":[6,0,2701,2],
 "dd/d94/classspell__bronjahm__soulstorm__targeting.html#afeb95c5fe970ebc147d509981b026e98":[6,0,2701,1],
 "dd/d94/classspell__gen__hate__to__zero.html":[6,0,2983],
@@ -246,8 +249,5 @@ var NAVTREEINDEX333 =
 "dd/da2/classlfg_1_1LFGQueue.html#aea7ba34877e59de247c6215635e932d2":[5,0,18,12,17],
 "dd/da2/classlfg_1_1LFGQueue.html#aea7ba34877e59de247c6215635e932d2":[6,0,5,12,17],
 "dd/da2/classlfg_1_1LFGQueue.html#af4e7f85d2852ff4b3dbddc1a35b5dd0d":[5,0,18,12,13],
-"dd/da2/classlfg_1_1LFGQueue.html#af4e7f85d2852ff4b3dbddc1a35b5dd0d":[6,0,5,12,13],
-"dd/da2/classnpc__spirit__shade.html":[6,0,2135],
-"dd/da2/classnpc__spirit__shade.html#a166f6a9abf7c0e33374c2f998c0524c3":[6,0,2135,2],
-"dd/da2/classnpc__spirit__shade.html#a891ede5651789274496d6426daf9937d":[6,0,2135,1]
+"dd/da2/classlfg_1_1LFGQueue.html#af4e7f85d2852ff4b3dbddc1a35b5dd0d":[6,0,5,12,13]
 };

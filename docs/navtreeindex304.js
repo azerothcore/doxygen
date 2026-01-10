@@ -1,5 +1,8 @@
 var NAVTREEINDEX304 =
 {
+"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a01f0081cbea792a36fdff51ee28396c1":[7,0,0,0,1,3,5,9,2,9,38,10],
+"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a05adf22be5206d06dea7f5e3c6339d7c":[7,0,0,0,1,3,5,9,2,9,38,17],
+"dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a10d98542f11521c0153946fe454a1229":[7,0,0,0,1,3,5,9,2,9,38,12],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a1172f62a36c49762008ab2f7ad79699d":[7,0,0,0,1,3,5,9,2,9,38,19],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a22de87e31417efc58e108aaea16f6399":[7,0,0,0,1,3,5,9,2,9,38,4],
 "dc/d29/boss__mimiron_8cpp.html#a80b5120abc2a678a314b625768256dd2a3c779a7c9cfc97a2d4c6a7df6e563072":[7,0,0,0,1,3,5,9,2,9,38,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX304 =
 "dc/d2b/structVehicleEntry.html#acf4c7490eae64650fcae3fba3b52079c":[6,0,4264,5],
 "dc/d2b/structVehicleEntry.html#adfdb3f549cc3cf08f0d9f60aa1adb093":[6,0,4264,1],
 "dc/d2b/structVehicleEntry.html#ae125021f00a905a1d81729613f06d745":[6,0,4264,28],
-"dc/d2b/structVehicleEntry.html#ae3797fb6787e7c70d96a0a33b1407412":[6,0,4264,12],
-"dc/d2b/structVehicleEntry.html#ae682a5e68da3c2185bc7d5fe10e433bd":[6,0,4264,21],
-"dc/d2e/classnpc__ice__tomb.html":[6,0,1884],
-"dc/d2e/classnpc__ice__tomb.html#a939c6083a77a6f4cb2a940ec9c1df55e":[6,0,1884,1]
+"dc/d2b/structVehicleEntry.html#ae3797fb6787e7c70d96a0a33b1407412":[6,0,4264,12]
 };

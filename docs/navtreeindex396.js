@@ -1,5 +1,8 @@
 var NAVTREEINDEX396 =
 {
+"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,4,1,1,3,4,1],
+"df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab543380783668ea87e4c4d93d0db622e":[7,0,0,0,1,3,4,1,1,3,4,2],
+"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,1,3,3],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298ca622a15d26392560e20c009189f6d0671":[7,0,0,0,1,3,4,1,1,3,3,0],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,4,1,1,3,3,2],
 "df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[7,0,0,0,1,3,4,1,1,3,3,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX396 =
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a02ac12119655f9ab82347d21cc68803a":[6,0,2589,1,3],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b":[6,0,2589,1,0],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a82d752dedab39f417af225add6af1403":[6,0,2589,1,2],
-"df/dc5/structSpell_1_1HitTriggerSpell.html#abb48d6093570ba9c5488f200544a1e83":[6,0,2589,1,1],
-"df/dc5/structTransportTemplate.html":[6,0,4220],
-"df/dc5/structTransportTemplate.html#a558f3611434dbe13239834fa2f2ec6b4":[6,0,4220,2],
-"df/dc5/structTransportTemplate.html#a7b6837ef812eadb353c00cfeb2426e99":[6,0,4220,4]
+"df/dc5/structSpell_1_1HitTriggerSpell.html#abb48d6093570ba9c5488f200544a1e83":[6,0,2589,1,1]
 };

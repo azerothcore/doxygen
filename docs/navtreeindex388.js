@@ -1,5 +1,8 @@
 var NAVTREEINDEX388 =
 {
+"df/d56/classVMAP_1_1VMapMgr2.html#ad50f4944317fba6d4fd0d2362d6b8ac5":[5,0,29,22,22],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[6,0,10,22,26],
+"df/d56/classVMAP_1_1VMapMgr2.html#ade2f4197e955eccae6a7e8143b776d41":[5,0,29,22,26],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[5,0,29,22,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae3d91ae0554c44e0b4f46a0b9a420703":[6,0,10,22,10],
 "df/d56/classVMAP_1_1VMapMgr2.html#ae6334670be5f1610da976b65a13a2f11":[5,0,29,22,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX388 =
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ad815f0d79ab73d95e9fbf3a659aea2ce":[6,0,1783,0,6],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#adce990629aa1833dc07c7dbb1297cead":[6,0,1783,0,5],
 "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html#ae3a1b7fbdd9aba64e8f853f53d9c261c":[6,0,1783,0,2],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3092],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3092,3],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[6,0,3092,1],
-"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[6,0,3092,0]
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html":[6,0,3092]
 };

@@ -124,8 +124,11 @@ var NAVTREEINDEX268 =
 "da/dbf/Player_8h.html#ab5c23006e50d6e278b50ca5a57e478d6":[7,0,0,0,1,2,16,7,5,46],
 "da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8":[7,0,0,0,1,2,16,7,5,122],
 "da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a43e609d4309527a1344f62f72ac6a861":[7,0,0,0,1,2,16,7,5,122,0],
-"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a756758e20568fa43014daae863cf07d1":[7,0,0,0,1,2,16,7,5,122,2],
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a6abdf6cebfe85232112179194ae97647":[7,0,0,0,1,2,16,7,5,122,4],
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8a756758e20568fa43014daae863cf07d1":[7,0,0,0,1,2,16,7,5,122,5],
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8aa7961aaee21c2163c3a469466df31e31":[7,0,0,0,1,2,16,7,5,122,3],
 "da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8ac2c1ad4aa095c43d0bd16933f220dae7":[7,0,0,0,1,2,16,7,5,122,1],
+"da/dbf/Player_8h.html#ab6046cc6e043004b533c669be1dc95a8afc7efd23ff0edf69afb19cd7693e5458":[7,0,0,0,1,2,16,7,5,122,2],
 "da/dbf/Player_8h.html#ab6a9fef336444d917d4caa5a59acf600":[7,0,0,0,1,2,16,7,5,30],
 "da/dbf/Player_8h.html#ab7da463fdcf48285d8c4a18db9fceb3d":[7,0,0,0,1,2,16,7,5,64],
 "da/dbf/Player_8h.html#abb6c0419a027f09fbb5016deede34755":[7,0,0,0,1,2,16,7,5,85],
@@ -246,8 +249,5 @@ var NAVTREEINDEX268 =
 "da/dc0/classboss__mimiron.html":[6,0,623],
 "da/dc0/classboss__mimiron.html#a1d4f38ecee62a2c2a608afc158fad7f2":[6,0,623,2],
 "da/dc0/classboss__mimiron.html#a72904837bd85e9f711fcf3da04c459c3":[6,0,623,1],
-"da/dc0/classnpc__ioc__gunship__captain.html":[6,0,1902],
-"da/dc0/classnpc__ioc__gunship__captain.html#a43f3ce178df31fbf693acbfa8c32a339":[6,0,1902,2],
-"da/dc0/classnpc__ioc__gunship__captain.html#a6463d7bc12d5fe4fc8921ba5916ec906":[6,0,1902,1],
-"da/dc1/classspell__karazhan__overload__aura.html":[6,0,3374]
+"da/dc0/classnpc__ioc__gunship__captain.html":[6,0,1902]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX305 =
 {
+"dc/d2b/structVehicleEntry.html#ae682a5e68da3c2185bc7d5fe10e433bd":[6,0,4264,21],
+"dc/d2e/classnpc__ice__tomb.html":[6,0,1884],
+"dc/d2e/classnpc__ice__tomb.html#a939c6083a77a6f4cb2a940ec9c1df55e":[6,0,1884,1],
 "dc/d2e/classnpc__ice__tomb.html#ac99b7c9887e54a1764310bd3e079811a":[6,0,1884,2],
 "dc/d2e/structboss__entropius.html":[6,0,446],
 "dc/d2e/structboss__entropius.html#a01889b192525af082471d092bff28c88":[6,0,446,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX305 =
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a5d94f5a606fe421bf27330659438a42b":[7,0,0,0,0,19,8,30],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a5f4a1dbad46081ba97f894432b6efb00":[7,0,0,0,0,19,8,5],
 "dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a6cb32890d72a9693e85658f50c80f3a9":[7,0,0,0,0,19,8,7],
-"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a6ef19ff502bbb47a9870e945a50bdd18":[7,0,0,0,0,19,8,6],
-"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a849fab6972c96c3ec046deaccaadcd43":[7,0,0,0,0,19,8,29],
-"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a85ec7474612cca256c33d48886d3422b":[7,0,0,0,0,19,8,18],
-"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a8a422b9bee9b88d97422e8f8c9bdaaf0":[7,0,0,0,0,19,8,13]
+"dc/d33/Common_8h.html#abf9ee7117f35555026beeb458ba30912a6ef19ff502bbb47a9870e945a50bdd18":[7,0,0,0,0,19,8,6]
 };

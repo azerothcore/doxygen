@@ -725,7 +725,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aclassChatHandler_html_a3295cee708d267aac165f9ee55d2e615"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a></div><div class="ttdeci">static std::size_t BuildChatPacket(WorldPacket &amp;data, ChatMsg chatType, Language language, ObjectGuid senderGUID, ObjectGuid receiverGUID, std::string_view message, uint8 chatTag, std::string const &amp;senderName=&quot;&quot;, std::string const &amp;receiverName=&quot;&quot;, uint32 achievementId=0, bool gmMessage=false, std::string const &amp;channelName=&quot;&quot;)</div><div class="ttdef"><b>Definition</b> Chat.cpp:265</div></div>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
 <div class="ttc" id="aclassObject_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition</b> Object.h:201</div></div>
-<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1063</div></div>
+<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1066</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00265">BuildChatPacket()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00527">WorldObject::GetNameForLocaleIdx()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
@@ -1677,9 +1677,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  959</span> </div>
 <div class="line"><span class="lineno">  960</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  961</span>}</div>
-<div class="ttc" id="aclassPlayer_html_a99fc00f9ac903dbe9adcadc5f7415abb"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a99fc00f9ac903dbe9adcadc5f7415abb">Player::GetGroup</a></div><div class="ttdeci">Group * GetGroup()</div><div class="ttdef"><b>Definition</b> Player.h:2473</div></div>
+<div class="ttc" id="aclassPlayer_html_a99fc00f9ac903dbe9adcadc5f7415abb"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a99fc00f9ac903dbe9adcadc5f7415abb">Player::GetGroup</a></div><div class="ttdeci">Group * GetGroup()</div><div class="ttdef"><b>Definition</b> Player.h:2476</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00271">ObjectAccessor::FindPlayerByName()</a>, <a class="el" href="../../#l02473">Player::GetGroup()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00430">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00374">getSelectedPlayer()</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00248">m_session</a>, <a class="el" href="../../#l00208">normalizePlayerName()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00216">SendErrorMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00271">ObjectAccessor::FindPlayerByName()</a>, <a class="el" href="../../#l02476">Player::GetGroup()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00430">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00374">getSelectedPlayer()</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00248">m_session</a>, <a class="el" href="../../#l00208">normalizePlayerName()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00216">SendErrorMessage()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00079">group_commandscript::HandleGroupDisbandCommand()</a>, <a class="el" href="../../#l00133">group_commandscript::HandleGroupJoinCommand()</a>, <a class="el" href="../../#l00051">group_commandscript::HandleGroupLeaderCommand()</a>, and <a class="el" href="../../#l00106">group_commandscript::HandleGroupRemoveCommand()</a>.</p>
 
@@ -1996,10 +1996,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   73</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4">HasLowerSecurityAccount</a>(target_session, target_account, strong);</div>
 <div class="line"><span class="lineno">   74</span>}</div>
 <div class="ttc" id="aclassChatHandler_html_aedf236510ed1d2b75305b49243af84c4"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#aedf236510ed1d2b75305b49243af84c4">ChatHandler::HasLowerSecurityAccount</a></div><div class="ttdeci">bool HasLowerSecurityAccount(WorldSession *target, uint32 account, bool strong=false)</div><div class="ttdef"><b>Definition</b> Chat.cpp:76</div></div>
-<div class="ttc" id="aclassPlayer_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition</b> Player.h:1989</div></div>
+<div class="ttc" id="aclassPlayer_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition</b> Player.h:1992</div></div>
 <div class="ttc" id="aclassWorldSession_html"><div class="ttname"><a href="../../d8/d74/classWorldSession.html">WorldSession</a></div><div class="ttdoc">Player session in the World.</div><div class="ttdef"><b>Definition</b> WorldSession.h:375</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, <a class="el" href="../../#l00076">HasLowerSecurityAccount()</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00216">SendErrorMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, <a class="el" href="../../#l00076">HasLowerSecurityAccount()</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00216">SendErrorMessage()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00100">modify_commandscript::CheckModifyInt32()</a>, <a class="el" href="../../#l00381">modify_commandscript::CheckModifySpeed()</a>, <a class="el" href="../../#l00108">tele_commandscript::DoNameTeleport()</a>, <a class="el" href="../../#l00779">misc_commandscript::HandleAppearCommand()</a>, <a class="el" href="../../#l00322">character_commandscript::HandleCharacterRenameCommand()</a>, <a class="el" href="../../#l02858">misc_commandscript::HandleCombatStopCommand()</a>, <a class="el" href="../../#l02826">misc_commandscript::HandleDamageCommand()</a>, <a class="el" href="../../#l01161">misc_commandscript::HandleDieCommand()</a>, <a class="el" href="../../#l00047">gear_commandscript::HandleGearRepairCommand()</a>, <a class="el" href="../../#l01050">misc_commandscript::HandleGroupSummonCommand()</a>, <a class="el" href="../../#l00052">honor_commandscript::HandleHonorAddCommand()</a>, <a class="el" href="../../#l00069">honor_commandscript::HandleHonorAddKillCommand()</a>, <a class="el" href="../../#l00087">honor_commandscript::HandleHonorUpdateCommand()</a>, <a class="el" href="../../#l01407">misc_commandscript::HandleKickPlayerCommand()</a>, <a class="el" href="../../#l00652">modify_commandscript::HandleModifyBitCommand()</a>, <a class="el" href="../../#l00693">modify_commandscript::HandleModifyHonorCommand()</a>, <a class="el" href="../../#l00556">modify_commandscript::HandleModifyMoneyCommand()</a>, <a class="el" href="../../#l00519">modify_commandscript::HandleModifyMountCommand()</a>, <a class="el" href="../../#l00881">modify_commandscript::HandleModifyPhaseCommand()</a>, <a class="el" href="../../#l00730">modify_commandscript::HandleModifyRepCommand()</a>, <a class="el" href="../../#l00487">modify_commandscript::HandleModifyScaleCommand()</a>, <a class="el" href="../../#l00305">modify_commandscript::HandleModifySpellCommand()</a>, <a class="el" href="../../#l00337">modify_commandscript::HandleModifyTalentCommand()</a>, <a class="el" href="../../#l00865">modify_commandscript::HandleMorphMountCommand()</a>, <a class="el" href="../../#l00849">modify_commandscript::HandleMorphResetCommand()</a>, <a class="el" href="../../#l00831">modify_commandscript::HandleMorphTargetCommand()</a>, <a class="el" href="../../#l02452">misc_commandscript::HandleMuteCommand()</a>, <a class="el" href="../../#l01125">npc_commandscript::HandleNpcWhisperCommand()</a>, <a class="el" href="../../#l01966">misc_commandscript::HandlePInfoCommand()</a>, <a class="el" href="../../#l01331">misc_commandscript::HandleRecallCommand()</a>, <a class="el" href="../../#l00928">misc_commandscript::HandleSummonCommand()</a>, <a class="el" href="../../#l00172">cheat_commandscript::HandleTaxiCheatCommand()</a>, <a class="el" href="../../#l00198">tele_commandscript::HandleTeleGroupCommand()</a>, <a class="el" href="../../#l00081">titles_commandscript::HandleTitlesAddCommand()</a>, <a class="el" href="../../#l00050">titles_commandscript::HandleTitlesCurrentCommand()</a>, <a class="el" href="../../#l00110">titles_commandscript::HandleTitlesRemoveCommand()</a>, <a class="el" href="../../#l00147">titles_commandscript::HandleTitlesSetMaskCommand()</a>, <a class="el" href="../../#l02576">misc_commandscript::HandleUnmuteCommand()</a>, and <a class="el" href="../../#l01453">misc_commandscript::HandleUnstuckCommand()</a>.</p>
 
@@ -2897,7 +2897,7 @@ template&lt;typename... Args&gt; </div>
 <div class="ttc" id="aclassChatHandler_html_a13e7c9678f7556e56f62de28ccb7940f"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a13e7c9678f7556e56f62de28ccb7940f">ChatHandler::SendGMText</a></div><div class="ttdeci">void SendGMText(std::string_view str)</div><div class="ttdef"><b>Definition</b> Chat.cpp:116</div></div>
 <div class="ttc" id="aclassChatHandler_html_a32d9594c0f5df4a72b00ec72a4547623"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a32d9594c0f5df4a72b00ec72a4547623">ChatHandler::DoForAllValidSessions</a></div><div class="ttdeci">void DoForAllValidSessions(std::function&lt; void(Player *)&gt; exec)</div><div class="ttdef"><b>Definition</b> Chat.cpp:444</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 </div>
 </div>
@@ -2981,7 +2981,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   75</span>            });</div>
 <div class="line"><span class="lineno">   76</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 </div>
 </div>
@@ -3240,7 +3240,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">  108</span>    }</div>
 <div class="ttc" id="aclassChatHandler_html_ad04fd84539ea2ab1596b40f2efdd906e"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#ad04fd84539ea2ab1596b40f2efdd906e">ChatHandler::SendWorldText</a></div><div class="ttdeci">void SendWorldText(std::string_view str)</div><div class="ttdef"><b>Definition</b> Chat.cpp:131</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 </div>
 </div>
@@ -3320,7 +3320,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">   97</span>            });</div>
 <div class="line"><span class="lineno">   98</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 </div>
 </div>
@@ -3375,7 +3375,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">  130</span>    }</div>
 <div class="ttc" id="aclassChatHandler_html_a5123e186b501687e38dcde7ab51b42b4"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a5123e186b501687e38dcde7ab51b42b4">ChatHandler::SendWorldTextOptional</a></div><div class="ttdeci">void SendWorldTextOptional(std::string_view str, uint32 flag)</div><div class="ttdef"><b>Definition</b> Chat.cpp:143</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 </div>
 </div>
@@ -3482,7 +3482,7 @@ template&lt;typename... Args&gt; </div>
 <div class="line"><span class="lineno">  119</span>            });</div>
 <div class="line"><span class="lineno">  120</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01989">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01992">Player::GetSession()</a>, and <a class="el" href="../../#l00034">Acore::StringFormat()</a>.</p>
 
 </div>
 </div>
@@ -3572,7 +3572,7 @@ template&lt;typename... Args&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a></li>
-    <li class="footer">Generated on Fri Jan 9 2026 06:28:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Jan 10 2026 06:25:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

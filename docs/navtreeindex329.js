@@ -1,5 +1,8 @@
 var NAVTREEINDEX329 =
 {
+"dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a1de27edad5c45f8033ce74352c563f52":[6,0,6,0,1,6],
+"dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a232dd51ab056c5e836fe1bb84eeee90e":[6,0,6,0,1,7],
+"dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a232dd51ab056c5e836fe1bb84eeee90e":[5,0,20,0,1,7],
 "dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a2bd854b374d67d53b03a7bacf0785726":[5,0,20,0,1,5],
 "dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a2bd854b374d67d53b03a7bacf0785726":[6,0,6,0,1,5],
 "dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a47b5a920afa39ae27a80241d58f152a3":[6,0,6,0,1,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX329 =
 "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#abb9dbec2c5df4b2dfbc96314a0465011":[5,0,32,9,13,7],
 "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#abb9dbec2c5df4b2dfbc96314a0465011":[6,0,12,9,13,7],
 "dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#ad0f2f8f95fdea9a7555e3056bb49cc53":[5,0,32,9,13,8],
-"dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#ad0f2f8f95fdea9a7555e3056bb49cc53":[6,0,12,9,13,8],
-"dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#af3994b2c6a57e734f9d1ebeedcab7759":[6,0,12,9,13,4],
-"dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#af3994b2c6a57e734f9d1ebeedcab7759":[5,0,32,9,13,4],
-"dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#afa6cc6032804e3d8f3f7797b2231847f":[6,0,12,9,13,2]
+"dd/d75/classWorldPackets_1_1Misc_1_1StartMirrorTimer.html#ad0f2f8f95fdea9a7555e3056bb49cc53":[6,0,12,9,13,8]
 };

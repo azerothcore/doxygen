@@ -1,5 +1,8 @@
 var NAVTREEINDEX389 =
 {
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a428e0e4f63770a35cdf6a6ac85e403":[6,0,3092,3],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#a3a9a26b3e0964e08d67a89cd950b5a97":[6,0,3092,1],
+"df/d6b/classspell__halion__meteor__strike__spread__aura.html#ab49a636eaddea5c91f86f21a1d4d182e":[6,0,3092,0],
 "df/d6b/classspell__halion__meteor__strike__spread__aura.html#aed8d41a9bf289b21caa9e93e66b004d2":[6,0,3092,2],
 "df/d6b/classspell__illidan__shadow__prison__aura.html":[6,0,3213],
 "df/d6b/classspell__illidan__shadow__prison__aura.html#a01d6ca6f8ec21ad42445b5e581c0f79b":[6,0,3213,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX389 =
 "df/d78/classspell__hate__to__zero.html#ab61b4076aab18c0a6593c234209a2c1d":[6,0,3112,1],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html":[6,0,762,0],
 "df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a1c2fdf4351a43047f02bec1d46423cb8":[6,0,762,0,4],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3":[6,0,762,0,11],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a3bed38b10a87baf50e9c9a57229bd464":[6,0,762,0,7],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a681a103b6cf937dad3fb15e5be358c26":[6,0,762,0,10],
-"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a71ef70c1b504be2b00be1a70e85bc18a":[6,0,762,0,9]
+"df/d78/structboss__vanndar_1_1boss__vanndarAI.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3":[6,0,762,0,11]
 };

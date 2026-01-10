@@ -1,5 +1,8 @@
 var NAVTREEINDEX320 =
 {
+"dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,8,7],
+"dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,6],
+"dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,8],
 "dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
 "dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
 "dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX320 =
 "dd/d00/structnpc__forest__frog.html":[6,0,1788],
 "dd/d00/structnpc__forest__frog.html#a3544a83bb22e12d247e562ef32e378c0":[6,0,1788,8],
 "dd/d00/structnpc__forest__frog.html#a5e6785d71bfb7f1d7b915723898a99fc":[6,0,1788,5],
-"dd/d00/structnpc__forest__frog.html#a6294f89eccdb9e5f9edbe8bccb164690":[6,0,1788,7],
-"dd/d00/structnpc__forest__frog.html#a6a5e24a11f8d2add6a3e9d71e2e647bb":[6,0,1788,0],
-"dd/d00/structnpc__forest__frog.html#a8260157062b3e4ef48ad47b4f9bf66ac":[6,0,1788,3],
-"dd/d00/structnpc__forest__frog.html#a9501955507e1f236bb48384928fd6a32":[6,0,1788,4]
+"dd/d00/structnpc__forest__frog.html#a6294f89eccdb9e5f9edbe8bccb164690":[6,0,1788,7]
 };

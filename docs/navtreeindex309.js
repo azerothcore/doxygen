@@ -1,5 +1,8 @@
 var NAVTREEINDEX309 =
 {
+"dc/d4d/enuminfo__LogCommon_8cpp.html":[7,0,0,0,0,9,7],
+"dc/d4e/classnpc__dalaran__warrior.html":[6,0,1729],
+"dc/d4e/classnpc__dalaran__warrior.html#a13d44b85173232ddedcc35184d50549c":[6,0,1729,1],
 "dc/d4e/classnpc__dalaran__warrior.html#a1e84676d2a76bac728a1f23f5f9fc25e":[6,0,1729,2],
 "dc/d4e/zone__wetlands_8cpp.html":[7,0,0,0,1,3,2,34],
 "dc/d4e/zone__wetlands_8cpp.html#a96be3075a4a99658d93ffe3d69ba369a":[7,0,0,0,1,3,2,34,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d5e/structnpc__chained__spirit.html#a3b405503231173e7ff7aa52e34f63da5":[6,0,1688,2],
 "dc/d5e/structnpc__chained__spirit.html#a469a8fdc4a40857ff1dc0af9ead74d3c":[6,0,1688,3],
 "dc/d5e/structnpc__chained__spirit.html#a5f407e700a2086f971bed0e8c0def0db":[6,0,1688,0],
-"dc/d5e/structnpc__chained__spirit.html#a7205ef13ca0d164a9222c049bc582254":[6,0,1688,1],
-"dc/d5e/structnpc__chained__spirit.html#a794cf63fabc0c3f7ab9214750fa232a9":[6,0,1688,5],
-"dc/d5e/structnpc__chained__spirit.html#ad5dd92208d6a23954fef6348f4abbd23":[6,0,1688,7],
-"dc/d5f/classspell__spore__cloud.html":[6,0,3868]
+"dc/d5e/structnpc__chained__spirit.html#a7205ef13ca0d164a9222c049bc582254":[6,0,1688,1]
 };

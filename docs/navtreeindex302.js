@@ -1,5 +1,8 @@
 var NAVTREEINDEX302 =
 {
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4ea0982f190aa21077b6237cac4e4368":[6,0,674,0,12],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5b73fdcb503cef89e87a1e50cc11e825":[6,0,674,0,14],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5cdc692e17c3d331f1f1b12c8160408e":[6,0,674,0,8],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6c5b5a7bc419b30a8814ada3f95f0c3a":[6,0,674,0,0],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6d3bb24f1b0475a04182d959f2f41b5d":[6,0,674,0,15],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[6,0,674,0,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX302 =
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html":[6,0,3700],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a1b196f3817c16fac48392981b58c1a05":[6,0,3700,0],
 "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#a70a1f0d2666921ccbad62c1fd06fe4b6":[6,0,3700,3],
-"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#ad44566ff9a44057679e7ce8e1959776d":[6,0,3700,1],
-"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#aef3bfdaff9f0b5080d83805a1a962a79":[6,0,3700,2],
-"dc/d1b/FleeingMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,4],
-"dc/d1b/FleeingMovementGenerator_8cpp.html#a9738c927d0a0b9da431824ab69a5988a":[7,0,0,0,1,2,31,0,4,0]
+"dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html#ad44566ff9a44057679e7ce8e1959776d":[6,0,3700,1]
 };
