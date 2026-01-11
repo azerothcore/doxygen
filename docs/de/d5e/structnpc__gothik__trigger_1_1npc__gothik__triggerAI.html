@@ -567,7 +567,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  642</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac218abfb8299071a00c5a65b77548ff8">SetDisableGravity</a>(<span class="keyword">true</span>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  655</span>: <a class="code hl_struct" href="../../db/dc8/structScriptedAI.html">ScriptedAI</a>(creature) { creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac218abfb8299071a00c5a65b77548ff8">SetDisableGravity</a>(<span class="keyword">true</span>); }</div>
 <div class="ttc" id="aclassUnit_html_ac218abfb8299071a00c5a65b77548ff8"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac218abfb8299071a00c5a65b77548ff8">Unit::SetDisableGravity</a></div><div class="ttdeci">void SetDisableGravity(bool disable)</div><div class="ttdef"><b>Definition</b> Unit.cpp:20551</div></div>
 <div class="ttc" id="astructScriptedAI_html"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html">ScriptedAI</a></div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:191</div></div>
 </div><!-- fragment -->
@@ -626,7 +626,7 @@ Additional Inherited Members</h2></td></tr>
 <dl class="section note"><dt>Note</dt><dd>It use for recalculation damage or special reaction at damage for attack reaction use AttackedBy called for non DOT damage in <a class="el" href="../../df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a> also </dd></dl>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aca924c2f1f249c2dcffaaea0fa35cd91">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  647</span>{ damage = 0; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  660</span>{ damage = 0; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -655,7 +655,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  644</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  657</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -686,7 +686,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  646</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  659</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -715,10 +715,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a3a55253d96d72f1df305b2ccfa7284ca">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  717</span>        {</div>
-<div class="line"><span class="lineno">  718</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* gothik = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7a29b74c34f661c0974dc555e5758ac66a">DATA_GOTHIK_BOSS</a>))</div>
-<div class="line"><span class="lineno">  719</span>                gothik-&gt;AI()-&gt;JustSummoned(summon);</div>
-<div class="line"><span class="lineno">  720</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  730</span>        {</div>
+<div class="line"><span class="lineno">  731</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* gothik = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7a29b74c34f661c0974dc555e5758ac66a">DATA_GOTHIK_BOSS</a>))</div>
+<div class="line"><span class="lineno">  732</span>                gothik-&gt;AI()-&gt;JustSummoned(summon);</div>
+<div class="line"><span class="lineno">  733</span>        }</div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassInstanceScript_html_a1541c403bcc65b54c0a2c523c8eaf0b1"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">InstanceScript::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(uint32 type)</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:115</div></div>
 <div class="ttc" id="aclassWorldObject_html_a29762f86d0726e4d229df51281b9d710"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">WorldObject::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript() const</div><div class="ttdef"><b>Definition</b> Object.cpp:1214</div></div>
@@ -751,21 +751,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  650</span>        {</div>
-<div class="line"><span class="lineno">  651</span>            std::list&lt;Creature*&gt; triggers;</div>
-<div class="line"><span class="lineno">  652</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(triggers, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af7b462db84df92dc83d37a3150e4636e">NPC_TRIGGER</a>, 150.0f);</div>
-<div class="line"><span class="lineno">  653</span>            <span class="comment">// Remove triggers that are on live side or soul triggers on the platform</span></div>
-<div class="line"><span class="lineno">  654</span>            triggers.remove_if([](<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* trigger){</div>
-<div class="line"><span class="lineno">  655</span>                <span class="keywordflow">return</span> ((trigger-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; <a class="code hl_define" href="../../d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7">POS_Y_GATE</a>) || (trigger-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() &gt; 280.0f));</div>
-<div class="line"><span class="lineno">  656</span>                });</div>
-<div class="line"><span class="lineno">  657</span>            <span class="keywordflow">if</span> (!triggers.empty())</div>
-<div class="line"><span class="lineno">  658</span>            {</div>
-<div class="line"><span class="lineno">  659</span>                std::list&lt;Creature*&gt;::iterator itr = triggers.begin();</div>
-<div class="line"><span class="lineno">  660</span>                std::advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, triggers.size() - 1));</div>
-<div class="line"><span class="lineno">  661</span>                <span class="keywordflow">return</span> *itr;</div>
-<div class="line"><span class="lineno">  662</span>            }</div>
-<div class="line"><span class="lineno">  663</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  664</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  663</span>        {</div>
+<div class="line"><span class="lineno">  664</span>            std::list&lt;Creature*&gt; triggers;</div>
+<div class="line"><span class="lineno">  665</span>            <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa0a6f93bf47966d32dae1ef3fee55ac7">GetCreatureListWithEntryInGrid</a>(triggers, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af7b462db84df92dc83d37a3150e4636e">NPC_TRIGGER</a>, 150.0f);</div>
+<div class="line"><span class="lineno">  666</span>            <span class="comment">// Remove triggers that are on live side or soul triggers on the platform</span></div>
+<div class="line"><span class="lineno">  667</span>            triggers.remove_if([](<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* trigger){</div>
+<div class="line"><span class="lineno">  668</span>                <span class="keywordflow">return</span> ((trigger-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; <a class="code hl_define" href="../../d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7">POS_Y_GATE</a>) || (trigger-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() &gt; 280.0f));</div>
+<div class="line"><span class="lineno">  669</span>                });</div>
+<div class="line"><span class="lineno">  670</span>            <span class="keywordflow">if</span> (!triggers.empty())</div>
+<div class="line"><span class="lineno">  671</span>            {</div>
+<div class="line"><span class="lineno">  672</span>                std::list&lt;Creature*&gt;::iterator itr = triggers.begin();</div>
+<div class="line"><span class="lineno">  673</span>                std::advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, triggers.size() - 1));</div>
+<div class="line"><span class="lineno">  674</span>                <span class="keywordflow">return</span> *itr;</div>
+<div class="line"><span class="lineno">  675</span>            }</div>
+<div class="line"><span class="lineno">  676</span>            <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  677</span>        }</div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aboss__gothik_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6af7b462db84df92dc83d37a3150e4636e"><div class="ttname"><a href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af7b462db84df92dc83d37a3150e4636e">NPC_TRIGGER</a></div><div class="ttdeci">@ NPC_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_gothik.cpp:84</div></div>
 <div class="ttc" id="aboss__gothik_8cpp_html_ae4c57a9a39a8d7559870e0882b8775b7"><div class="ttname"><a href="../../d8/db8/boss__gothik_8cpp.html#ae4c57a9a39a8d7559870e0882b8775b7">POS_Y_GATE</a></div><div class="ttdeci">#define POS_Y_GATE</div><div class="ttdef"><b>Definition</b> boss_gothik.cpp:168</div></div>
@@ -775,7 +775,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02504">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00084">NPC_TRIGGER</a>, <a class="el" href="../../#l00168">POS_Y_GATE</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00666">SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00679">SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -814,53 +814,53 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  667</span>        {</div>
-<div class="line"><span class="lineno">  668</span>            <span class="keywordflow">if</span> (!spell)</div>
-<div class="line"><span class="lineno">  669</span>            {</div>
-<div class="line"><span class="lineno">  670</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  671</span>            }</div>
-<div class="line"><span class="lineno">  672</span> </div>
-<div class="line"><span class="lineno">  673</span>            <span class="keywordflow">switch</span> (spell-&gt;Id)</div>
-<div class="line"><span class="lineno">  674</span>            {</div>
-<div class="line"><span class="lineno">  675</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca68c888a2dca87bd7bf101a6ab639260a">SPELL_ANCHOR_1_TRAINEE</a>:</div>
-<div class="line"><span class="lineno">  676</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298caff5665323c0f74b29c76830f83e459f3">SPELL_ANCHOR_2_TRAINEE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  677</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  678</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca473119a573e36d8c40a95a8f6b71d121">SPELL_ANCHOR_1_DK</a>:</div>
-<div class="line"><span class="lineno">  679</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cac19a8228ed725edc29f6b4b2361d0f54">SPELL_ANCHOR_2_DK</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  680</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  681</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cae22af0aeadc56b54f726753a7b94a977">SPELL_ANCHOR_1_RIDER</a>:</div>
-<div class="line"><span class="lineno">  682</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a3869d4853bbfd662ee71e7b6e02350">SPELL_ANCHOR_2_RIDER</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  683</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  684</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298caff5665323c0f74b29c76830f83e459f3">SPELL_ANCHOR_2_TRAINEE</a>:</div>
-<div class="line"><span class="lineno">  685</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">SelectRandomSkullPile</a>())</div>
-<div class="line"><span class="lineno">  686</span>                    {</div>
-<div class="line"><span class="lineno">  687</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cacc0498d4c567bfcdd6ffa3b9ffe72c0d">SPELL_SKULLS_TRAINEE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  688</span>                    }</div>
-<div class="line"><span class="lineno">  689</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  690</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cac19a8228ed725edc29f6b4b2361d0f54">SPELL_ANCHOR_2_DK</a>:</div>
-<div class="line"><span class="lineno">  691</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">SelectRandomSkullPile</a>())</div>
-<div class="line"><span class="lineno">  692</span>                    {</div>
-<div class="line"><span class="lineno">  693</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca81f31dcd0dc67e89110052953511ff5c">SPELL_SKULLS_DK</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  694</span>                    }</div>
-<div class="line"><span class="lineno">  695</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  696</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a3869d4853bbfd662ee71e7b6e02350">SPELL_ANCHOR_2_RIDER</a>:</div>
-<div class="line"><span class="lineno">  697</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">SelectRandomSkullPile</a>())</div>
-<div class="line"><span class="lineno">  698</span>                    {</div>
-<div class="line"><span class="lineno">  699</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf145d5abd20ac1a4bd03f30b1feabaf">SPELL_SKULLS_RIDER</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  700</span>                    }</div>
-<div class="line"><span class="lineno">  701</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  702</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cacc0498d4c567bfcdd6ffa3b9ffe72c0d">SPELL_SKULLS_TRAINEE</a>:</div>
-<div class="line"><span class="lineno">  703</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1830c90f849c52241e5c68234fd374ef">NPC_DEAD_TRAINEE</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
-<div class="line"><span class="lineno">  704</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  705</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca81f31dcd0dc67e89110052953511ff5c">SPELL_SKULLS_DK</a>:</div>
-<div class="line"><span class="lineno">  706</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a523968170d66b0e44feedbac7613b293">NPC_DEAD_KNIGHT</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
-<div class="line"><span class="lineno">  707</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  708</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf145d5abd20ac1a4bd03f30b1feabaf">SPELL_SKULLS_RIDER</a>:</div>
-<div class="line"><span class="lineno">  709</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4d25f01fd5e72e1023957bc915f3ba25">NPC_DEAD_RIDER</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
-<div class="line"><span class="lineno">  710</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0e1fee0705041a2baf901bff8a3ffe5e">NPC_DEAD_HORSE</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
-<div class="line"><span class="lineno">  711</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  712</span>            }</div>
-<div class="line"><span class="lineno">  713</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  680</span>        {</div>
+<div class="line"><span class="lineno">  681</span>            <span class="keywordflow">if</span> (!spell)</div>
+<div class="line"><span class="lineno">  682</span>            {</div>
+<div class="line"><span class="lineno">  683</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  684</span>            }</div>
+<div class="line"><span class="lineno">  685</span> </div>
+<div class="line"><span class="lineno">  686</span>            <span class="keywordflow">switch</span> (spell-&gt;Id)</div>
+<div class="line"><span class="lineno">  687</span>            {</div>
+<div class="line"><span class="lineno">  688</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca68c888a2dca87bd7bf101a6ab639260a">SPELL_ANCHOR_1_TRAINEE</a>:</div>
+<div class="line"><span class="lineno">  689</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298caff5665323c0f74b29c76830f83e459f3">SPELL_ANCHOR_2_TRAINEE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  690</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  691</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca473119a573e36d8c40a95a8f6b71d121">SPELL_ANCHOR_1_DK</a>:</div>
+<div class="line"><span class="lineno">  692</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cac19a8228ed725edc29f6b4b2361d0f54">SPELL_ANCHOR_2_DK</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  693</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  694</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cae22af0aeadc56b54f726753a7b94a977">SPELL_ANCHOR_1_RIDER</a>:</div>
+<div class="line"><span class="lineno">  695</span>                    <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a3869d4853bbfd662ee71e7b6e02350">SPELL_ANCHOR_2_RIDER</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  696</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  697</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298caff5665323c0f74b29c76830f83e459f3">SPELL_ANCHOR_2_TRAINEE</a>:</div>
+<div class="line"><span class="lineno">  698</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">SelectRandomSkullPile</a>())</div>
+<div class="line"><span class="lineno">  699</span>                    {</div>
+<div class="line"><span class="lineno">  700</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cacc0498d4c567bfcdd6ffa3b9ffe72c0d">SPELL_SKULLS_TRAINEE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  701</span>                    }</div>
+<div class="line"><span class="lineno">  702</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  703</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cac19a8228ed725edc29f6b4b2361d0f54">SPELL_ANCHOR_2_DK</a>:</div>
+<div class="line"><span class="lineno">  704</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">SelectRandomSkullPile</a>())</div>
+<div class="line"><span class="lineno">  705</span>                    {</div>
+<div class="line"><span class="lineno">  706</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca81f31dcd0dc67e89110052953511ff5c">SPELL_SKULLS_DK</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  707</span>                    }</div>
+<div class="line"><span class="lineno">  708</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  709</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca6a3869d4853bbfd662ee71e7b6e02350">SPELL_ANCHOR_2_RIDER</a>:</div>
+<div class="line"><span class="lineno">  710</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">SelectRandomSkullPile</a>())</div>
+<div class="line"><span class="lineno">  711</span>                    {</div>
+<div class="line"><span class="lineno">  712</span>                        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf145d5abd20ac1a4bd03f30b1feabaf">SPELL_SKULLS_RIDER</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  713</span>                    }</div>
+<div class="line"><span class="lineno">  714</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  715</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cacc0498d4c567bfcdd6ffa3b9ffe72c0d">SPELL_SKULLS_TRAINEE</a>:</div>
+<div class="line"><span class="lineno">  716</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1830c90f849c52241e5c68234fd374ef">NPC_DEAD_TRAINEE</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
+<div class="line"><span class="lineno">  717</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  718</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298ca81f31dcd0dc67e89110052953511ff5c">SPELL_SKULLS_DK</a>:</div>
+<div class="line"><span class="lineno">  719</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a523968170d66b0e44feedbac7613b293">NPC_DEAD_KNIGHT</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
+<div class="line"><span class="lineno">  720</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  721</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a5bd342133be8c2137b831460acc9298cadf145d5abd20ac1a4bd03f30b1feabaf">SPELL_SKULLS_RIDER</a>:</div>
+<div class="line"><span class="lineno">  722</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4d25f01fd5e72e1023957bc915f3ba25">NPC_DEAD_RIDER</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
+<div class="line"><span class="lineno">  723</span>                    <a class="code hl_function" href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">DoSummon</a>(<a class="code hl_enumvalue" href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0e1fee0705041a2baf901bff8a3ffe5e">NPC_DEAD_HORSE</a>, <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, 0.0f, 15 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>, <a class="code hl_enumvalue" href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>);</div>
+<div class="line"><span class="lineno">  724</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  725</span>            }</div>
+<div class="line"><span class="lineno">  726</span>        }</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 <div class="ttc" id="aObject_8h_html_a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a"><div class="ttname"><a href="../../db/dbf/Object_8h.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a></div><div class="ttdeci">@ TEMPSUMMON_CORPSE_TIMED_DESPAWN</div><div class="ttdef"><b>Definition</b> Object.h:53</div></div>
 <div class="ttc" id="aboss__gothik_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a0e1fee0705041a2baf901bff8a3ffe5e"><div class="ttname"><a href="../../d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0e1fee0705041a2baf901bff8a3ffe5e">NPC_DEAD_HORSE</a></div><div class="ttdeci">@ NPC_DEAD_HORSE</div><div class="ttdef"><b>Definition</b> boss_gothik.cpp:82</div></div>
@@ -879,9 +879,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCreatureAI_html_a4813dbd4c14f1b7ba74f14c76f80823d"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a4813dbd4c14f1b7ba74f14c76f80823d">CreatureAI::DoSummon</a></div><div class="ttdeci">Creature * DoSummon(uint32 entry, Position const &amp;pos, uint32 despawnTime=30000, TempSummonType summonType=TEMPSUMMON_CORPSE_TIMED_DESPAWN)</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:540</div></div>
 <div class="ttc" id="aclassUnitAI_html_a1e37cbb75f91c247b04131afc7ce35f5"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">UnitAI::DoCastAOE</a></div><div class="ttdeci">SpellCastResult DoCastAOE(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:284</div></div>
 <div class="ttc" id="aclassUnitAI_html_aeebcad9b6effa45145c50f06af60b23d"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">UnitAI::DoCast</a></div><div class="ttdeci">SpellCastResult DoCast(uint32 spellId)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:177</div></div>
-<div class="ttc" id="astructnpc__gothik__trigger_1_1npc__gothik__triggerAI_html_aeafc63047c9059afdf668b8c22d2937f"><div class="ttname"><a href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">npc_gothik_trigger::npc_gothik_triggerAI::SelectRandomSkullPile</a></div><div class="ttdeci">Creature * SelectRandomSkullPile()</div><div class="ttdef"><b>Definition</b> boss_gothik.cpp:649</div></div>
+<div class="ttc" id="astructnpc__gothik__trigger_1_1npc__gothik__triggerAI_html_aeafc63047c9059afdf668b8c22d2937f"><div class="ttname"><a href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#aeafc63047c9059afdf668b8c22d2937f">npc_gothik_trigger::npc_gothik_triggerAI::SelectRandomSkullPile</a></div><div class="ttdeci">Creature * SelectRandomSkullPile()</div><div class="ttdef"><b>Definition</b> boss_gothik.cpp:662</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00540">CreatureAI::DoSummon()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00082">NPC_DEAD_HORSE</a>, <a class="el" href="../../#l00081">NPC_DEAD_KNIGHT</a>, <a class="el" href="../../#l00083">NPC_DEAD_RIDER</a>, <a class="el" href="../../#l00080">NPC_DEAD_TRAINEE</a>, <a class="el" href="../../#l00649">SelectRandomSkullPile()</a>, <a class="el" href="../../#l00050">SPELL_ANCHOR_1_DK</a>, <a class="el" href="../../#l00051">SPELL_ANCHOR_1_RIDER</a>, <a class="el" href="../../#l00049">SPELL_ANCHOR_1_TRAINEE</a>, <a class="el" href="../../#l00053">SPELL_ANCHOR_2_DK</a>, <a class="el" href="../../#l00054">SPELL_ANCHOR_2_RIDER</a>, <a class="el" href="../../#l00052">SPELL_ANCHOR_2_TRAINEE</a>, <a class="el" href="../../#l00056">SPELL_SKULLS_DK</a>, <a class="el" href="../../#l00057">SPELL_SKULLS_RIDER</a>, <a class="el" href="../../#l00055">SPELL_SKULLS_TRAINEE</a>, and <a class="el" href="../../#l00053">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00177">UnitAI::DoCast()</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00540">CreatureAI::DoSummon()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00082">NPC_DEAD_HORSE</a>, <a class="el" href="../../#l00081">NPC_DEAD_KNIGHT</a>, <a class="el" href="../../#l00083">NPC_DEAD_RIDER</a>, <a class="el" href="../../#l00080">NPC_DEAD_TRAINEE</a>, <a class="el" href="../../#l00662">SelectRandomSkullPile()</a>, <a class="el" href="../../#l00050">SPELL_ANCHOR_1_DK</a>, <a class="el" href="../../#l00051">SPELL_ANCHOR_1_RIDER</a>, <a class="el" href="../../#l00049">SPELL_ANCHOR_1_TRAINEE</a>, <a class="el" href="../../#l00053">SPELL_ANCHOR_2_DK</a>, <a class="el" href="../../#l00054">SPELL_ANCHOR_2_RIDER</a>, <a class="el" href="../../#l00052">SPELL_ANCHOR_2_TRAINEE</a>, <a class="el" href="../../#l00056">SPELL_SKULLS_DK</a>, <a class="el" href="../../#l00057">SPELL_SKULLS_RIDER</a>, <a class="el" href="../../#l00055">SPELL_SKULLS_TRAINEE</a>, and <a class="el" href="../../#l00053">TEMPSUMMON_CORPSE_TIMED_DESPAWN</a>.</p>
 
 </div>
 </div>
@@ -910,10 +910,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ad0850b634c283a045bd4448e93f99efe">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  723</span>        {</div>
-<div class="line"><span class="lineno">  724</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* gothik = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7a29b74c34f661c0974dc555e5758ac66a">DATA_GOTHIK_BOSS</a>))</div>
-<div class="line"><span class="lineno">  725</span>                gothik-&gt;AI()-&gt;SummonedCreatureDespawn(summon);</div>
-<div class="line"><span class="lineno">  726</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  736</span>        {</div>
+<div class="line"><span class="lineno">  737</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* gothik = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d6/d84/naxxramas_8h.html#a8583d5c31f6e596bafbdc0c20eb41ed7a29b74c34f661c0974dc555e5758ac66a">DATA_GOTHIK_BOSS</a>))</div>
+<div class="line"><span class="lineno">  738</span>                gothik-&gt;AI()-&gt;SummonedCreatureDespawn(summon);</div>
+<div class="line"><span class="lineno">  739</span>        }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">DATA_GOTHIK_BOSS</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l01214">WorldObject::GetInstanceScript()</a>, and <a class="el" href="../../#l00281">ScriptedAI::me</a>.</p>
 
@@ -946,7 +946,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html#ab5403383f1fcd539cacf975dffbe2817" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  645</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  658</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -959,7 +959,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d9a/classnpc__gothik__trigger.html">npc_gothik_trigger</a></li><li class="navelem"><a class="el" href="../../de/d5e/structnpc__gothik__trigger_1_1npc__gothik__triggerAI.html">npc_gothik_triggerAI</a></li>
-    <li class="footer">Generated on Sat Jan 10 2026 06:25:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Jan 11 2026 06:27:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

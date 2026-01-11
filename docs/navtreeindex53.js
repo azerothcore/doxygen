@@ -1,8 +1,5 @@
 var NAVTREEINDEX53 =
 {
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca44bd5ba1866b6195d1fdbcfc88e4429d":[7,0,0,0,1,2,36,2,17,3],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca75135989445a2947df016dddb20dcf24":[7,0,0,0,1,2,36,2,17,10],
-"d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca867ef0a1e8243d47039936338db4e0d2":[7,0,0,0,1,2,36,2,17,2],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca8c007c4cb4d3909e264b15da0c678415":[7,0,0,0,1,2,36,2,17,6],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6ca90d7515f30165efde72eca296e6506f6":[7,0,0,0,1,2,36,2,17,9],
 "d2/d27/QuestDef_8h.html#a791e99128513b95b59f65c7f0a8fad6caa4ccf7e90f00237c4edb4de98162be3a":[7,0,0,0,1,2,36,2,17,5],
@@ -126,8 +123,8 @@ var NAVTREEINDEX53 =
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,132],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,132,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,120,0],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,132,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[6,0,0,120,2],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,132,2],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[5,0,1,132,1],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#ac66207a4d1dbc9f59269127ee91f0657":[6,0,0,120,1],
 "d2/d2b/classConfusedMovementGenerator.html":[6,0,901],
@@ -249,5 +246,8 @@ var NAVTREEINDEX53 =
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#a029ef1ccdd42af2ff9223ab699c3942f":[6,0,2464,1],
 "d2/d31/classQuestApprenticeAnglerPlayerScript.html#afaa929276f8b131005c9b94daa9a09f9":[6,0,2464,0],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3422],
-"d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3422,2]
+"d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3422,2],
+"d2/d31/classspell__madrigosa__activate__barrier.html#ad55914fdc6771e09a508572d59ad30ed":[6,0,3422,1],
+"d2/d31/classspell__madrigosa__activate__barrier.html#afd73a7f5ec26c9ecb0424ee09ce638fe":[6,0,3422,0],
+"d2/d31/structCharTitlesEntry.html":[6,0,867]
 };

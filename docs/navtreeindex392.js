@@ -1,6 +1,6 @@
 var NAVTREEINDEX392 =
 {
-"df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[5,0,20,8,5],
+"df/d8e/classMMAP_1_1MMapMgr.html#aeae84fe910639b71a40949de59e41c91":[6,0,6,8,5],
 "df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[5,0,20,8,6],
 "df/d8e/classMMAP_1_1MMapMgr.html#af9b97f1e32233fef4e4828a4c8907abc":[6,0,6,8,6],
 "df/d8e/classspell__mage__burnout__trigger.html":[6,0,3429],

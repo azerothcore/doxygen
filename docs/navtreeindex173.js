@@ -1,6 +1,5 @@
 var NAVTREEINDEX173 =
 {
-"d6/d6b/structnpc__sunblade__scout.html#a8c7f442118fced8a2efac3b9fe0035f5":[6,0,2152,2],
 "d6/d6b/structnpc__sunblade__scout.html#ab57b63a624458a9fa598062e61c5fa0e":[6,0,2152,1],
 "d6/d6b/structnpc__sunblade__scout.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc":[6,0,2152,0],
 "d6/d6b/structnpc__sunblade__scout.html#aca75482085b72070487c24feefa23fd6":[6,0,2152,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX173 =
 "d6/d76/boss__grizzle_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[7,0,0,0,1,3,2,1,0,8,3],
 "d6/d76/classspell__dk__improved__blood__presence.html":[6,0,2782],
 "d6/d76/classspell__dk__improved__blood__presence.html#a64f9e0f3d0376342767b912e32642c6c":[6,0,2782,2],
-"d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[6,0,2782,3]
+"d6/d76/classspell__dk__improved__blood__presence.html#a72d6639589588282ea15cfe83c9e9b76":[6,0,2782,3],
+"d6/d76/classspell__dk__improved__blood__presence.html#a88e98bcb11fb16696f789878f79c665c":[6,0,2782,0]
 };

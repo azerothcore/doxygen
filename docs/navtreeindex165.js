@@ -1,6 +1,5 @@
 var NAVTREEINDEX165 =
 {
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dac98e22b65d418e957b04a382fbe1b12f":[7,0,0,0,1,2,3,1,7,2,8],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad3334f5105a2cd0b9e4d176bf087c4e9":[7,0,0,0,1,2,3,1,7,2,32],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36dad6d50dc8dc6de123eee0d2e67f12a40f":[7,0,0,0,1,2,3,1,7,2,11],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36daeb88157fb28855d72a3a04a83d9d0380":[7,0,0,0,1,2,3,1,7,2,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX165 =
 "d6/d28/structSpellProcEventEntry.html#a0cd88c27979ccc5284aa46846db32a7c":[6,0,4133,0],
 "d6/d28/structSpellProcEventEntry.html#a179d83770a02e4ab13f809ed3943a399":[6,0,4133,5],
 "d6/d28/structSpellProcEventEntry.html#a2aa57bf419ab51129fe7240750ee8910":[6,0,4133,7],
-"d6/d28/structSpellProcEventEntry.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a":[6,0,4133,8]
+"d6/d28/structSpellProcEventEntry.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a":[6,0,4133,8],
+"d6/d28/structSpellProcEventEntry.html#a911770f28fe36243593b12fe92d6fbec":[6,0,4133,3]
 };

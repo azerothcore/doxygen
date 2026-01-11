@@ -1,8 +1,5 @@
 var NAVTREEINDEX49 =
 {
-"d1/dfb/classUnchainedMagicTargetSelector.html#a35a7981ce5495cba8b3a5391e4031431":[6,0,4238,2],
-"d1/dfb/classUnchainedMagicTargetSelector.html#ae412c72884e6cfb1ceef8ed9fb347fbf":[6,0,4238,0],
-"d1/dfb/classUnchainedMagicTargetSelector.html#af28ce8f46154ae6152e9025775a7f84f":[6,0,4238,1],
 "d1/dfc/classnpc__anubarak__spike.html":[6,0,1603],
 "d1/dfc/classnpc__anubarak__spike.html#a4e96de1910c23311ad4644960ccd5022":[6,0,1603,1],
 "d1/dfc/classnpc__anubarak__spike.html#a7d55b321eb7e595fe5886dc382134947":[6,0,1603,2],
@@ -215,10 +212,10 @@ var NAVTREEINDEX49 =
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,32,11,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,12,11,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,32,11,2,3],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,12,11,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,32,11,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,32,11,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,12,11,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,12,11,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,32,11,2,0],
 "d2/d0c/structAchievementReward.html":[6,0,120],
 "d2/d0c/structAchievementReward.html#a45644f308278529f822080f8274180d8":[6,0,120,3],
 "d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,120,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX49 =
 "d2/d0d/classnpc__the__scourge__cauldron.html":[6,0,2176],
 "d2/d0d/classnpc__the__scourge__cauldron.html#a7ff5315293c4917dec3b0fe0aade2016":[6,0,2176,1],
 "d2/d0d/classnpc__the__scourge__cauldron.html#ae4e35f1cac0c0f35333ba6113d3c1ad0":[6,0,2176,2],
-"d2/d0d/classspell__illidari__council__judgement.html":[6,0,3220]
+"d2/d0d/classspell__illidari__council__judgement.html":[6,0,3220],
+"d2/d0d/classspell__illidari__council__judgement.html#a6caaa93244719d7fc8c3f28280a3c1c5":[6,0,3220,1],
+"d2/d0d/classspell__illidari__council__judgement.html#a99e2243ca4372eab1a742f8979d61334":[6,0,3220,2],
+"d2/d0d/classspell__illidari__council__judgement.html#aeafb2893534c8e188bbb519b6c7a0113":[6,0,3220,0]
 };

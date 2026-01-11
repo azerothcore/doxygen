@@ -1,8 +1,5 @@
 var NAVTREEINDEX127 =
 {
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#a6141addc9b1cf2c0028d98ef4f4d9d37":[6,0,2049,0,0],
-"d4/d67/structnpc__pool__of__tar_1_1npc__pool__of__tarAI.html#acb63166b396c079d5b4bb9db67a1448a":[6,0,2049,0,2],
-"d4/d68/classspell__ionar__static__overload.html":[6,0,3230],
 "d4/d68/classspell__ionar__static__overload.html#a2d278e60b34870110dab188896109e24":[6,0,3230,1],
 "d4/d68/classspell__ionar__static__overload.html#ac15847527cc4d162b3b34b8ca8628864":[6,0,3230,2],
 "d4/d68/classspell__ionar__static__overload.html#ac573e5bd171c97af1905b4a57a45e1f4":[6,0,3230,3],
@@ -197,6 +194,17 @@ var NAVTREEINDEX127 =
 "d4/d70/classspell__sindragosa__permeating__chill__aura.html#a51794aa0a42180d9a0f4e9f6d5febca4":[6,0,3857,1],
 "d4/d70/classspell__sindragosa__permeating__chill__aura.html#ad701d353f03eb5a1ccca28a6530555db":[6,0,3857,0],
 "d4/d72/DynamicVisibility_8cpp.html":[7,0,0,0,1,2,27,2],
+"d4/d72/structboss__anubrekhan.html":[6,0,382],
+"d4/d72/structboss__anubrekhan.html#a12b4f2878b54f5bd34c470d2c7b40098":[6,0,382,8],
+"d4/d72/structboss__anubrekhan.html#a1a495fddf89c4c92136d1fd61fba6594":[6,0,382,6],
+"d4/d72/structboss__anubrekhan.html#a30d2e7464cffc6894882897ed0d66c6a":[6,0,382,7],
+"d4/d72/structboss__anubrekhan.html#a73906e3681c767e5818d380e77525ba2":[6,0,382,4],
+"d4/d72/structboss__anubrekhan.html#a7f61eb4aab4d0bf81480dea011b11f95":[6,0,382,9],
+"d4/d72/structboss__anubrekhan.html#a97d56653381e7a7f8c724263148cd61e":[6,0,382,2],
+"d4/d72/structboss__anubrekhan.html#a9dfb1b89c4f47235e463d90f17522113":[6,0,382,1],
+"d4/d72/structboss__anubrekhan.html#a9fcbc921973e0bd02867217d15efcc64":[6,0,382,5],
+"d4/d72/structboss__anubrekhan.html#ad748de528ca78739236b9586ddaa19bd":[6,0,382,0],
+"d4/d72/structboss__anubrekhan.html#af1a01ff6c9790e1660619767c16cfd94":[6,0,382,3],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html":[6,0,2050,0],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e":[6,0,2050,0,1],
 "d4/d72/structnpc__pos__after__first__boss_1_1npc__pos__after__first__bossAI.html#a17a0e1e7a35f608a9ec86ce4e959b52e":[6,0,2050,0,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX127 =
 "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9efd3c20d926022e44fab28656b29c":[7,0,0,0,1,3,2,1,0,13,2,0],
 "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298cae5e7dc76db7aa286357183a1b529841f":[7,0,0,0,1,3,2,1,0,13,2,2],
 "d4/d76/boss__okthor_8cpp.html#aa9ef9998ef1b9630e8409446664e9600":[7,0,0,0,1,3,2,1,0,13,5],
-"d4/d76/boss__okthor_8cpp.html#aacaf4f6c3bd0f27549dd615e00da29c6":[7,0,0,0,1,3,2,1,0,13,7],
-"d4/d76/boss__okthor_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[7,0,0,0,1,3,2,1,0,13,3],
-"d4/d76/boss__okthor_8cpp.html#aed90b041a8d92991cb8ef6655b7e58e3":[7,0,0,0,1,3,2,1,0,13,6],
-"d4/d76/boss__okthor_8cpp.html#afc50db66669b42128172e3dae8533e9a":[7,0,0,0,1,3,2,1,0,13,4],
-"d4/d77/Socialhandler_8cpp.html":[7,0,0,0,1,2,22,29],
-"d4/d77/classspell__mirkblood__exsanguinate.html":[6,0,3488],
-"d4/d77/classspell__mirkblood__exsanguinate.html#a50d6ebe961a0841e10537a434a741072":[6,0,3488,0],
-"d4/d77/classspell__mirkblood__exsanguinate.html#abc2f73133448278e0bf1bc589917dfd1":[6,0,3488,1],
-"d4/d77/classspell__the__lich__king__life__siphon.html":[6,0,3922]
+"d4/d76/boss__okthor_8cpp.html#aacaf4f6c3bd0f27549dd615e00da29c6":[7,0,0,0,1,3,2,1,0,13,7]
 };

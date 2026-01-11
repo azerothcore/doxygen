@@ -1,8 +1,5 @@
 var NAVTREEINDEX106 =
 {
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
-"d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
-"d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[6,0,199],
 "d3/da8/classArenaTeamMgr.html#a01ce085cf6d7c90b6ffb40a531dfc2a1":[6,0,199,18],
 "d3/da8/classArenaTeamMgr.html#a02ea1a3dc8e4ab958039c4f9fdec714c":[6,0,199,16],
@@ -188,16 +185,16 @@ var NAVTREEINDEX106 =
 "d3/dae/structnpc__apothecary__frye.html#ab1dc310e90c591b44ce4d5bcf1bac930":[6,0,1610,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[6,0,12,9,16],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html":[5,0,32,9,16],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,12,9,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[5,0,32,9,16,3],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,32,9,16,1],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,12,9,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[6,0,12,9,16,1],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,32,9,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,12,9,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,32,9,16,5],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,9,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,32,9,16,2],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,32,9,16,0],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,9,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[6,0,12,9,16,0],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,32,9,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[6,0,12,9,16,4],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[5,0,32,9,16,4],
 "d3/daf/classspell__igb__rocket__artillery.html":[6,0,3192],
@@ -249,5 +246,8 @@ var NAVTREEINDEX106 =
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3f9a920d63580614256d4f9441e7d330":[7,0,0,0,1,3,2,16,0,5,0],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5915d30ae12d04f2a5459eeaaf4c2033":[7,0,0,0,1,3,2,16,0,5,7],
 "d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a78487c40e5d16fe2c12284e626e4d64f":[7,0,0,0,1,3,2,16,0,5,1],
-"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8abd402345dba872e20ea4cf78433433":[7,0,0,0,1,3,2,16,0,5,8]
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8abd402345dba872e20ea4cf78433433":[7,0,0,0,1,3,2,16,0,5,8],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a97b901d87728b14d6992af585adaca44":[7,0,0,0,1,3,2,16,0,5,6],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acbb1ad9fdaab74030a4d9919093b2a07":[7,0,0,0,1,3,2,16,0,5,5],
+"d3/db0/boss__arlokk_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acd7dec721d0a4badc019ba61162fa21e":[7,0,0,0,1,3,2,16,0,5,4]
 };

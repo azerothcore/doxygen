@@ -1,8 +1,5 @@
 var NAVTREEINDEX90 =
 {
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da3045b70413bb67baf0a9243b2785b369":[7,0,0,0,1,3,5,15,56,54],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da358555a693105b127e094a54ed989726":[7,0,0,0,1,3,5,15,56,17],
-"d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da394a0ea6599b6eb73dc9cd8553816588":[7,0,0,0,1,3,5,15,56,32],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da44e161d26ecf4f644099b662414e7354":[7,0,0,0,1,3,5,15,56,49],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da4a72aeb0e528049ec64068296c70a643":[7,0,0,0,1,3,5,15,56,15],
 "d3/d09/zone__borean__tundra_8cpp.html#a26ea574f84bc8fb07df3defad846285da4e4e94bbc6d66b92951e0b62b89c1d94":[7,0,0,0,1,3,5,15,56,16],
@@ -249,5 +246,8 @@ var NAVTREEINDEX90 =
 "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c":[5,0,1,140,3],
 "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d":[5,0,1,140,4],
 "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1":[5,0,1,140,6],
-"d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f":[5,0,1,140,5]
+"d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f":[5,0,1,140,5],
+"d3/d0b/namespaceAcore.html#a9c11bc4959af5a82722cea1c36010c09":[5,0,1,197],
+"d3/d0b/namespaceAcore.html#a9de098dac5e38f8c2cdbeb1d4d706881":[5,0,1,215],
+"d3/d0b/namespaceAcore.html#a9e588c84ac0874cf6273cffcc353bd8c":[5,0,1,154]
 };

@@ -902,7 +902,7 @@ var annotated_dup =
     [ "boss_anomalus", "dc/d05/structboss__anomalus.html", "dc/d05/structboss__anomalus" ],
     [ "boss_anub_arak", "d1/d8e/structboss__anub__arak.html", "d1/d8e/structboss__anub__arak" ],
     [ "boss_anubarak_trial", "db/dfd/classboss__anubarak__trial.html", "db/dfd/classboss__anubarak__trial" ],
-    [ "boss_anubrekhan", "d1/de8/classboss__anubrekhan.html", "d1/de8/classboss__anubrekhan" ],
+    [ "boss_anubrekhan", "d4/d72/structboss__anubrekhan.html", "d4/d72/structboss__anubrekhan" ],
     [ "boss_anubshiah", "da/d41/classboss__anubshiah.html", "da/d41/classboss__anubshiah" ],
     [ "boss_anzu", "d5/d73/structboss__anzu.html", "d5/d73/structboss__anzu" ],
     [ "boss_apoko", "dc/d97/structboss__apoko.html", "dc/d97/structboss__apoko" ],

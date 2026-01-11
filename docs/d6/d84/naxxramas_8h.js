@@ -60,6 +60,7 @@ var naxxramas_8h =
       [ "ACHIEV_CRITERIA_THE_IMMORTAL_THADDIUS", "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74ad3abb8714aae17796cd43b5798e12bfb", null ]
     ] ],
     [ "NaxxramasCreatureId", "d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7f", [
+      [ "NPC_CRYPT_GUARD", "d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fa9606cf5470e07e01547dda07eaa3be9f", null ],
       [ "NPC_PATCHWERK", "d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fa80c4f0413fc209381982e1e2a987da01", null ],
       [ "NPC_PATCHWORK_GOLEM", "d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fa916d12e90af584021df2ca185438b5bc", null ],
       [ "NPC_BILE_RETCHER", "d6/d84/naxxramas_8h.html#a47060e5981fa834b2a68f3c948d41f7fa80ef63b6404944c262ab57cf227af83d", null ],

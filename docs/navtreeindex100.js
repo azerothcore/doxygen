@@ -1,8 +1,5 @@
 var NAVTREEINDEX100 =
 {
-"d3/d6d/classnpc__bessy.html#af805bc5ee3de2fd6773158e51bf09d4a":[6,0,1646,2],
-"d3/d6e/classgo__bear__trap.html":[6,0,1122],
-"d3/d6e/classgo__bear__trap.html#a6301aa23009ac2599fc37b81bb3a0750":[6,0,1122,1],
 "d3/d6e/classgo__bear__trap.html#afb882fd4cc2e4379bb8d5afff210a679":[6,0,1122,2],
 "d3/d6e/zone__sholazar__basin_8cpp.html":[7,0,0,0,1,3,5,22],
 "d3/d6e/zone__sholazar__basin_8cpp.html#a10a690183fd5b47532b4861af2de8b04":[7,0,0,0,1,3,5,22,20],
@@ -249,5 +246,8 @@ var NAVTREEINDEX100 =
 "d3/d79/instance__icecrown__citadel_8cpp.html#aeb1ee63bb2369e3d4813dbbb5648f36a":[7,0,0,0,1,3,5,6,15,19],
 "d3/d79/instance__icecrown__citadel_8cpp.html#af86f4cd480ccf338387e95da77f2c9ad":[7,0,0,0,1,3,5,6,15,14],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aff26eada4fd391d31073d6376a089160":[7,0,0,0,1,3,5,6,15,17],
-"d3/d79/structboss__hazzarah.html":[6,0,525]
+"d3/d79/structboss__hazzarah.html":[6,0,525],
+"d3/d79/structboss__hazzarah.html#a18e382c03ff923bb851a9cd8e2541788":[6,0,525,2],
+"d3/d79/structboss__hazzarah.html#a1c3969fbc027f054598ec4123abd6fa4":[6,0,525,3],
+"d3/d79/structboss__hazzarah.html#a61d92f1650a84ed9684d33879e54bd09":[6,0,525,5]
 };

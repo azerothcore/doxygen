@@ -1,8 +1,5 @@
 var NAVTREEINDEX92 =
 {
-"d3/d16/structDoorData.html#ac7ce1fcc568ad1fe6bc8a20957357ed8":[6,0,989,0],
-"d3/d16/structnpc__dirt__mound.html":[6,0,1750],
-"d3/d16/structnpc__dirt__mound.html#a16656fb7ad8cda5916e8da0002cf0292":[6,0,1750,1],
 "d3/d16/structnpc__dirt__mound.html#a4faa65dd3260104202e4bdd34bc0b67d":[6,0,1750,6],
 "d3/d16/structnpc__dirt__mound.html#a5da17256d0cd4f6cb0e1256afe4b6539":[6,0,1750,4],
 "d3/d16/structnpc__dirt__mound.html#a88447191070cf8b84df96db565eef48d":[6,0,1750,7],
@@ -130,12 +127,12 @@ var NAVTREEINDEX92 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,50,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,50,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,38,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,50,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2886],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[6,0,2886,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[6,0,2886,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX92 =
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ad4bb15f655b830c2c4d4e751e2459615":[7,0,0,0,1,1,0,0,5,1,13],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ad8caa5db8ab8629dc10f6ac61b383eb1":[7,0,0,0,1,1,0,0,5,1,12],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ad9d25a2323af7979dd17ef103845a0cf":[7,0,0,0,1,1,0,0,5,1,35],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ada181ea458dac8f152247d5107111708":[7,0,0,0,1,1,0,0,5,1,9]
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ada181ea458dac8f152247d5107111708":[7,0,0,0,1,1,0,0,5,1,9],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32adaa0edc3e33690b08bf46730da239d5a":[7,0,0,0,1,1,0,0,5,1,75],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ae046a5b00bf6fe5e4bcbfeca14b09b3d":[7,0,0,0,1,1,0,0,5,1,80],
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32ae4477972ea439fcf4d07ca5e2edee113":[7,0,0,0,1,1,0,0,5,1,86]
 };

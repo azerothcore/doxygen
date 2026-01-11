@@ -1,8 +1,5 @@
 var NAVTREEINDEX124 =
 {
-"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5dab2694a03dd1e0c46c17500ebe13dcf45":[7,0,0,0,1,3,5,10,0,1,7,2],
-"d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911":[7,0,0,0,1,3,5,10,0,1,4],
-"d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76":[7,0,0,0,1,3,5,10,0,1,4,0],
 "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3":[7,0,0,0,1,3,5,10,0,1,4,1],
 "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,10,0,1,6],
 "d4/d4f/boss__keleseth_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a14901aca6a5c93054b9813a40396f3f6":[7,0,0,0,1,3,5,10,0,1,6,0],
@@ -233,12 +230,12 @@ var NAVTREEINDEX124 =
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a21bc680abec11928000923003bbad93f":[6,0,0,5,0,15,0],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[5,0,1,8,0,15,1],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a8dc3337ff2ed1427fa9efdf35e458d7d":[6,0,0,5,0,15,1],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[6,0,0,5,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[5,0,1,8,0,15,4],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[6,0,0,5,0,15,2],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a97e69e0044967ebb5369bfa0f46bd7bf":[6,0,0,5,0,15,4],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[5,0,1,8,0,15,2],
-"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[6,0,0,5,0,15,3],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#a9f447ee626e80d616c304a4d07f25987":[6,0,0,5,0,15,2],
 "d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[5,0,1,8,0,15,3],
+"d4/d58/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__enum__v_3_01T_01_4_01_4_01_4.html#ac5bc3cde0205d8a1b200989cf6eb09cb":[6,0,0,5,0,15,3],
 "d4/d59/classat__scarshield__infiltrator.html":[6,0,243],
 "d4/d59/classat__scarshield__infiltrator.html#a2d1df47353c9a7e0d506b7c54e7be58e":[6,0,243,0],
 "d4/d59/classat__scarshield__infiltrator.html#a607c3ee2bd4716cf1e0499e202d379fc":[6,0,243,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX124 =
 "d4/d59/classspell__gen__yehkinya__bramble.html":[6,0,3063],
 "d4/d59/classspell__gen__yehkinya__bramble.html#a7478d96ac24bc4b70a10bc83335c9b76":[6,0,3063,0],
 "d4/d59/classspell__gen__yehkinya__bramble.html#ab3ab9557cd1969fd977a3df6f2c59d7c":[6,0,3063,1],
-"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html":[6,0,793,0]
+"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html":[6,0,793,0],
+"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a090dfe58a5629733a425591b3de48413":[6,0,793,0,14],
+"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a0ea15cc63073ebf36d15967a87b542d5":[6,0,793,0,3],
+"d4/d59/structboss__yoggsaron__brain_1_1boss__yoggsaron__brainAI.html#a309cca56ff6b853b21c910c1b4c99681":[6,0,793,0,8]
 };

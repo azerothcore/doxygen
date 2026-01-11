@@ -1,8 +1,5 @@
 var NAVTREEINDEX120 =
 {
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83723489e700cdad48c4b497900b07e4":[7,0,0,0,1,3,5,4,1,3,11,14],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83b0bd7fe47a9d47ec60aed062c0fa18":[7,0,0,0,1,3,5,4,1,3,11,77],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83d8ff631b83cf7438514e61d8a9c5a6":[7,0,0,0,1,3,5,4,1,3,11,37],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83f322cea32d954b21a77e39e6ea1ff6":[7,0,0,0,1,3,5,4,1,3,11,74],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a841956620dda1005c6b7d187c9985a71":[7,0,0,0,1,3,5,4,1,3,11,58],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a89ff42ca7c867d9d2f768eb9ae403204":[7,0,0,0,1,3,5,4,1,3,11,83],
@@ -189,8 +186,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2667],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2667,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2667,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX120 =
 "d4/d28/classLinkedListElement.html#acbcdd7cb06a928d4d3c23b017abd715d":[6,0,1420,8],
 "d4/d28/classLinkedListElement.html#adbad5e71eaae55ad05b8fd836e1da809":[6,0,1420,17],
 "d4/d28/classLinkedListElement.html#ae8c8580dfa196cc39385d8d171375545":[6,0,1420,13],
-"d4/d28/classspell__botanica__call__of__the__falcon__aura.html":[6,0,2686]
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html":[6,0,2686],
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a1a20f75d251936bff7a0777831d79140":[6,0,2686,5],
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a2524bb4614fa62fb703a3d3cf0c25da0":[6,0,2686,1],
+"d4/d28/classspell__botanica__call__of__the__falcon__aura.html#a277d9865108acafac4b1a42bc5b5714b":[6,0,2686,3]
 };

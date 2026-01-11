@@ -139,10 +139,10 @@ var NAVTREEINDEX3 =
 "d0/d32/structinstance__arcatraz_1_1instance__arcatraz__InstanceMapScript.html#aca09d4856d5c3e1831ea8753a50a3b71":[6,0,1290,0,4],
 "d0/d32/structinstance__arcatraz_1_1instance__arcatraz__InstanceMapScript.html#ad8c84d90b85db5717b6a37fc2343e0aa":[6,0,1290,0,2],
 "d0/d35/classFreezeDetector.html":[4,0,3],
-"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html":[5,0,32,6,12],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html":[6,0,12,6,12],
-"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#a3e03f6f23a989d6f105c397f8ecfeb87":[6,0,12,6,12,1],
+"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html":[5,0,32,6,12],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#a3e03f6f23a989d6f105c397f8ecfeb87":[5,0,32,6,12,1],
+"d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#a3e03f6f23a989d6f105c397f8ecfeb87":[6,0,12,6,12,1],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#afb45f29d4a280c4cc02ee2ab3c055824":[6,0,12,6,12,0],
 "d0/d35/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoneyQuery.html#afb45f29d4a280c4cc02ee2ab3c055824":[5,0,32,6,12,0],
 "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html":[6,0,578,0],
@@ -246,8 +246,8 @@ var NAVTREEINDEX3 =
 "d0/d38/AuctionHouseMgr_8h.html#af4f47e9bbd0faf17478c06dd0660bb84a05bd29b524f0851d42e7902d6af59bf1":[7,0,0,0,1,2,5,1,12,0],
 "d0/d38/AuctionHouseMgr_8h.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796":[7,0,0,0,1,2,5,1,12,1],
 "d0/d38/AuctionHouseMgr_8h.html#af4f47e9bbd0faf17478c06dd0660bb84ae9bb5320b3890b6747c91b5a71ae5a01":[7,0,0,0,1,2,5,1,12,2],
-"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html":[5,0,32,6,20],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html":[6,0,12,6,20],
+"d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html":[5,0,32,6,20],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a349f8608d589ac3a5697c7c1cf73723e":[6,0,12,6,20,3],
 "d0/d38/classWorldPackets_1_1Guild_1_1GuildBankWithdrawMoney.html#a349f8608d589ac3a5697c7c1cf73723e":[5,0,32,6,20,3]
 };

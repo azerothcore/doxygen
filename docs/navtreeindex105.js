@@ -1,8 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a8524834b7dff49844d96b7dc49fd265d":[6,0,805,0,0],
-"d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#a86f9d594562f842d478b63de18e52455":[6,0,805,0,2],
-"d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#aa4956f6943adce94a9ed4fec951317d6":[6,0,805,0,5],
 "d3/da0/structboss__yoggsaron__llane_1_1boss__yoggsaron__llaneAI.html#ab619684f15f5325383a413dced7c930e":[6,0,805,0,3],
 "d3/da1/npc__professions_8cpp.html":[7,0,0,0,1,3,10,10],
 "d3/da1/npc__professions_8cpp.html#a052fee32e73cbec867c0371876f854f7":[7,0,0,0,1,3,10,10,33],
@@ -249,5 +246,8 @@ var NAVTREEINDEX105 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,3007,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,3007,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,3007,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1]
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
+"d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
+"d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1]
 };

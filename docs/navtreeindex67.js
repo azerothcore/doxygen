@@ -1,8 +1,5 @@
 var NAVTREEINDEX67 =
 {
-"d2/d73/classScriptMgr.html#ad9eefc8f79b1269c0dd77668d91ee20a":[6,0,2528,309],
-"d2/d73/classScriptMgr.html#ada1cacc5d2f49d1cf5b5ff6792a58aff":[6,0,2528,471],
-"d2/d73/classScriptMgr.html#ada23dfc16fef2575c93da5fa7cf4900b":[6,0,2528,333],
 "d2/d73/classScriptMgr.html#ada368601e88e6872490ef427612345be":[6,0,2528,282],
 "d2/d73/classScriptMgr.html#ada3af80c989e05090e09baa39eff04bb":[6,0,2528,255],
 "d2/d73/classScriptMgr.html#adb1826f90fbd133496674a8b9d5b1f2c":[6,0,2528,356],
@@ -209,12 +206,12 @@ var NAVTREEINDEX67 =
 "d2/d7d/structLockEntry.html#aed5e58cf605d3c28cd0d26015722be03":[6,0,1444,2],
 "d2/d7e/MMapFactory_8h.html":[7,0,0,0,0,1,0,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868":[7,0,0,0,0,1,0,3,1],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,0],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,2],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
 "d2/d7e/boss__pandemonius_8cpp.html":[7,0,0,0,1,3,7,0,1,1],
 "d2/d7e/boss__pandemonius_8cpp.html#a0a0bb294821c88853f49c728b9a5fdb2":[7,0,0,0,1,3,7,0,1,1,8],
 "d2/d7e/boss__pandemonius_8cpp.html#a18d62d8f86b7d4023e10d17dce27919f":[7,0,0,0,1,3,7,0,1,1,2],
@@ -249,5 +246,8 @@ var NAVTREEINDEX67 =
 "d2/d80/classSmartTrigger.html#ae94d836bb1a714a3b90dcf146aa967a9":[6,0,2577,0],
 "d2/d80/classboss__ragnaros.html":[6,0,670],
 "d2/d80/classboss__ragnaros.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5":[6,0,670,1],
-"d2/d80/classboss__ragnaros.html#af54e36608e160811ca06952fd2c63f6e":[6,0,670,2]
+"d2/d80/classboss__ragnaros.html#af54e36608e160811ca06952fd2c63f6e":[6,0,670,2],
+"d2/d81/classspell__mark__of__kazrogal.html":[6,0,3462],
+"d2/d81/classspell__mark__of__kazrogal.html#a27b432d8571d48c3f5fb025bbbd29271":[6,0,3462,2],
+"d2/d81/classspell__mark__of__kazrogal.html#a45b0713b2942199bf0e19752fe765aac":[6,0,3462,0]
 };
