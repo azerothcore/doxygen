@@ -1,5 +1,6 @@
 var NAVTREEINDEX268 =
 {
+"da/dbf/Player_8h.html#a7e844fbb704e6a04c7fc7d5efe39433e":[7,0,0,0,1,2,16,7,5,49],
 "da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0c":[7,0,0,0,1,2,16,7,5,87],
 "da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cad76e6ac10062f15e697857d39056cbec":[7,0,0,0,1,2,16,7,5,87,1],
 "da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cade633953c0847a2e477be4083dd037bc":[7,0,0,0,1,2,16,7,5,87,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX268 =
 "da/dbf/TypeContainerFunctionsPtr_8h.html#aecc909b333bb7f55f438bfcf1ea3085f":[7,0,0,0,0,6,6,14],
 "da/dc0/classboss__mimiron.html":[6,0,623],
 "da/dc0/classboss__mimiron.html#a1d4f38ecee62a2c2a608afc158fad7f2":[6,0,623,2],
-"da/dc0/classboss__mimiron.html#a72904837bd85e9f711fcf3da04c459c3":[6,0,623,1],
-"da/dc0/classnpc__ioc__gunship__captain.html":[6,0,1902]
+"da/dc0/classboss__mimiron.html#a72904837bd85e9f711fcf3da04c459c3":[6,0,623,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8eadddc942268210bdb243ecdb59e76fb74":[7,0,0,0,1,3,3,1,44,3],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1f":[7,0,0,0,1,3,3,1,42],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa4010b39236a9ad1f180684eac57e2b1e":[7,0,0,0,1,3,3,1,42,2],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa778bc53e8a5095f25c826037984a87f9":[7,0,0,0,1,3,3,1,42,1],
@@ -56,11 +57,11 @@ var NAVTREEINDEX319 =
 "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664":[7,0,0,0,1,3,2,12,6,9,2],
 "dc/de1/instance__sunwell__plateau_8cpp.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff":[7,0,0,0,1,3,2,12,6,9,3],
 "dc/de1/instance__sunwell__plateau_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,2,12,6,15],
-"dc/de2/classspell__dru__bear__form__passive.html":[6,0,2825],
-"dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[6,0,2825,3],
-"dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2825,0],
-"dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[6,0,2825,1],
-"dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[6,0,2825,2],
+"dc/de2/classspell__dru__bear__form__passive.html":[6,0,2826],
+"dc/de2/classspell__dru__bear__form__passive.html#a3b8d5d04ec015240d941790bd02598f8":[6,0,2826,3],
+"dc/de2/classspell__dru__bear__form__passive.html#a44c3c1c97f0b87b261614e7eb0ce7d4d":[6,0,2826,0],
+"dc/de2/classspell__dru__bear__form__passive.html#aaf070525419cc8af56cd0002bbef2391":[6,0,2826,1],
+"dc/de2/classspell__dru__bear__form__passive.html#ad37c82f88ebfb8c68aef2e574c0c4dcf":[6,0,2826,2],
 "dc/de3/structboss__isalien.html":[6,0,555],
 "dc/de3/structboss__isalien.html#a4995c18e2baa62d05717617d0b1e3529":[6,0,555,5],
 "dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[6,0,555,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cdaf17ea4feb08751873794a2be33e793aa":[7,0,0,0,1,3,2,6,0,24,11],
 "dc/ded/classat__icc__putricide__trap.html":[6,0,225],
 "dc/ded/classat__icc__putricide__trap.html#a9d4183629deada9c22750b8a34e94583":[6,0,225,0],
-"dc/ded/classat__icc__putricide__trap.html#ad59c2f694c50fabf1946d2c7ae726413":[6,0,225,1],
-"dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8]
+"dc/ded/classat__icc__putricide__trap.html#ad59c2f694c50fabf1946d2c7ae726413":[6,0,225,1]
 };

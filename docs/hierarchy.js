@@ -81,6 +81,7 @@ var hierarchy =
         [ "spell_dk_anti_magic_shell_self", "d7/dc7/classspell__dk__anti__magic__shell__self.html", null ],
         [ "spell_dk_anti_magic_zone", "d6/d0f/classspell__dk__anti__magic__zone.html", null ],
         [ "spell_dk_army_of_the_dead_passive", "d2/d93/classspell__dk__army__of__the__dead__passive.html", null ],
+        [ "spell_dk_blade_barrier", "df/df2/classspell__dk__blade__barrier.html", null ],
         [ "spell_dk_blood_caked_blade", "de/d8f/classspell__dk__blood__caked__blade.html", null ],
         [ "spell_dk_blood_gorged", "dd/d0f/classspell__dk__blood__gorged.html", null ],
         [ "spell_dk_bone_shield", "d3/d29/classspell__dk__bone__shield.html", null ],

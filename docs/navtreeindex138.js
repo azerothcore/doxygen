@@ -1,5 +1,6 @@
 var NAVTREEINDEX138 =
 {
+"d4/dd8/classinstance__mana__tombs.html#a26e4dad0957df886bc446396ab48ceda":[6,0,1318,2],
 "d4/dd8/classinstance__mana__tombs.html#a78ca8b378e4ab290f1eea2b2b5799630":[6,0,1318,1],
 "d4/dd8/structAchievementCriteriaData.html":[6,0,112],
 "d4/dd8/structAchievementCriteriaData.html#a0461ba6bbb71d66abeee6dfaa6b81782":[6,0,112,38],
@@ -195,10 +196,10 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1048,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1048,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1048,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,19],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,19,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1896,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1896,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1896,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX138 =
 "d4/dde/Random_8cpp.html#af901d57f29ff48f701a375e44a0f1261":[7,0,0,0,0,15,19,9],
 "d4/dde/classnpc__elder__clearwater.html":[6,0,1765],
 "d4/dde/classnpc__elder__clearwater.html#a2d316a2d2c892cecc134cea46b5bf2a8":[6,0,1765,4],
-"d4/dde/classnpc__elder__clearwater.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04":[6,0,1765,2],
-"d4/dde/classnpc__elder__clearwater.html#aae382c0a386b8bacd39c6e7a586519e4":[6,0,1765,3]
+"d4/dde/classnpc__elder__clearwater.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04":[6,0,1765,2]
 };

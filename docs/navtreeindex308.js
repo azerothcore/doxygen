@@ -1,5 +1,6 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba80550fe8aa02247ad9d89a84ae5691bc":[7,0,0,0,1,2,26,2,1,67],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba816e56ed100f5b887cccfd79e654906d":[7,0,0,0,1,2,26,2,1,15],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba85e1de210d82eeda4295a3d457aec8e7":[7,0,0,0,1,2,26,2,1,13],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad":[7,0,0,0,1,2,26,2,1,1],
@@ -244,10 +245,9 @@ var NAVTREEINDEX308 =
 "dc/d4c/classOutdoorPvPZM.html#acd93bd13cf330ec86dde30ff9c6306de":[6,0,2366,11],
 "dc/d4c/classOutdoorPvPZM.html#ad5609bc0c13d193d16560045aa4b0c71":[6,0,2366,14],
 "dc/d4c/classOutdoorPvPZM.html#aff4124f54572e0812c39562fbc6390c3":[6,0,2366,12],
-"dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3563],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3563,0],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a4f31c76184e4ae5bc03763e04cdac72e":[6,0,3563,3],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3563,1],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[6,0,3563,2],
-"dc/d4d/ArenaTeamHandler_8cpp.html":[7,0,0,0,1,2,22,2]
+"dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3564],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3564,0],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a4f31c76184e4ae5bc03763e04cdac72e":[6,0,3564,3],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3564,1],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[6,0,3564,2]
 };

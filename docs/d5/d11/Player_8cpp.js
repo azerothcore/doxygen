@@ -42,6 +42,7 @@ var Player_8cpp =
       [ "CHARACTER_FLAG_UNK31", "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba", null ],
       [ "CHARACTER_FLAG_UNK32", "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deaf4b59210a530d6a1c19fb816841c2258", null ]
     ] ],
+    [ "GetAnyFactionTemplateForFaction", "d5/d11/Player_8cpp.html#aaf34abebbe803c845754a0b3d9d408f4", null ],
     [ "copseReclaimDelay", "d5/d11/Player_8cpp.html#abc12a88106c15ea8ca079d4ddcf9c620", null ],
     [ "runeSlotTypes", "d5/d11/Player_8cpp.html#a3c9e0541a7758d9d6e543e883b89d62f", null ]
 ];

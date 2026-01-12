@@ -16,7 +16,7 @@ var searchData=
   ['khanokguid_13',['khanokGUID',['../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#ab9d18b82abb4bb5c651588632bdb110f',1,'npc_varian_wrynn::npc_varian_wrynnAI']]],
   ['kickpos_14',['KickPos',['../da/d47/boss__cthun_8cpp.html#aed31bd88fed65a845df7d4c20e4017de',1,'boss_cthun.cpp']]],
   ['kickposition_15',['KickPosition',['../d6/d26/classBattlefield.html#ad691e1287c8c36d8631a428c71abaf41',1,'Battlefield']]],
-  ['kill_16',['kill',['../d2/d8f/structScriptInfo.html#aa365914f73efca97e86dbfc1e06a0a45',1,'ScriptInfo::Kill'],['../d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725',1,'SmartEvent::kill']]],
+  ['kill_16',['kill',['../d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725',1,'SmartEvent::kill'],['../d2/d8f/structScriptInfo.html#aa365914f73efca97e86dbfc1e06a0a45',1,'ScriptInfo::Kill']]],
   ['kill_5fcreature_17',['kill_creature',['../d4/dd9/structAchievementCriteriaEntry.html#af9cf6c19664c9e8e590f7ffbe41dcd45',1,'AchievementCriteriaEntry']]],
   ['killcount_18',['killcount',['../d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a280e27385988e0f5cc65c60511bd4100',1,'boss_mandokir::boss_mandokirAI::killCount'],['../d4/dd9/structAchievementCriteriaEntry.html#adc7dd192a39e1f2b9b0b2fbec1dfe877',1,'AchievementCriteriaEntry::killCount']]],
   ['killcredit_19',['killcredit',['../d2/d8f/structScriptInfo.html#a70198e84b458d90b55253efa09e487cf',1,'ScriptInfo::KillCredit'],['../d1/d61/structCreatureTemplate.html#a8f1f7c9c67532ec302ebeb41b340e287',1,'CreatureTemplate::KillCredit']]],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX186 =
 {
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a896fb87aa98fe8807e43402281cf5a52":[7,0,0,0,1,3,5,25,20,43],
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a8a59e7b442ce8dbd378d912ed59a4e79":[7,0,0,0,1,3,5,25,20,6],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a946e1a90563fbe30e8e9cb8376be379f":[7,0,0,0,1,3,5,25,20,53],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a9d3e5f3c58ffaa2c5568b558aa84ccbb":[7,0,0,0,1,3,5,25,20,54],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225aa097f88247c5dbdb01a95545e77de29b":[7,0,0,0,1,3,5,25,20,20],
@@ -114,7 +116,6 @@ var NAVTREEINDEX186 =
 "d7/d23/structboss__magus__telestra.html":[6,0,608],
 "d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2":[6,0,608,10],
 "d7/d23/structboss__magus__telestra.html#a1fc0f30287916d6606829987d29d9387":[6,0,608,5],
-"d7/d23/structboss__magus__telestra.html#a5738bf62869f9958448213b28c1bf771":[6,0,608,11],
 "d7/d23/structboss__magus__telestra.html#a713f93edc709edabe003c305efdd709c":[6,0,608,2],
 "d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7":[6,0,608,7],
 "d7/d23/structboss__magus__telestra.html#a85b333905e5dcd34dbe001306924529a":[6,0,608,6],
@@ -167,11 +168,11 @@ var NAVTREEINDEX186 =
 "d7/d24/classspell__cthun__dark__glare.html#a31d1d590f0e6fc2e56322d606961828f":[6,0,2735,2],
 "d7/d24/classspell__cthun__dark__glare.html#a3ec2840ab1d853a1546c64a2d158e75f":[6,0,2735,0],
 "d7/d24/classspell__cthun__dark__glare.html#a511e54100036307aa5d37bc959405c73":[6,0,2735,1],
-"d7/d25/classspell__illidan__draw__soul.html":[6,0,3205],
-"d7/d25/classspell__illidan__draw__soul.html#a4f00eca7c78a785780be4379c1a56a6b":[6,0,3205,1],
-"d7/d25/classspell__illidan__draw__soul.html#a6ec6e79849c618d009eae3551e16ff0a":[6,0,3205,0],
-"d7/d25/classspell__illidan__draw__soul.html#a9ce122d497e72e3a46b1857d722af48d":[6,0,3205,3],
-"d7/d25/classspell__illidan__draw__soul.html#adb676b9d6f36c30efbb8286b1e5edf6d":[6,0,3205,2],
+"d7/d25/classspell__illidan__draw__soul.html":[6,0,3206],
+"d7/d25/classspell__illidan__draw__soul.html#a4f00eca7c78a785780be4379c1a56a6b":[6,0,3206,1],
+"d7/d25/classspell__illidan__draw__soul.html#a6ec6e79849c618d009eae3551e16ff0a":[6,0,3206,0],
+"d7/d25/classspell__illidan__draw__soul.html#a9ce122d497e72e3a46b1857d722af48d":[6,0,3206,3],
+"d7/d25/classspell__illidan__draw__soul.html#adb676b9d6f36c30efbb8286b1e5edf6d":[6,0,3206,2],
 "d7/d25/structnpc__pet__darting__hatchling.html":[6,0,2018],
 "d7/d25/structnpc__pet__darting__hatchling.html#a23196d05aebe5fa4a65455c55368820a":[6,0,2018,2],
 "d7/d25/structnpc__pet__darting__hatchling.html#a29ea5438bab7e606175c02165a607f9b":[6,0,2018,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX186 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a715ad18b86485994abfe0425dd228cac":[7,0,0,0,1,3,2,1,0,1,4,30],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a731ec3330374d9b5e05f24997a1f0843":[7,0,0,0,1,3,2,1,0,1,4,6],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a8593b1c0c1f1746521a245e9626484a9":[7,0,0,0,1,3,2,1,0,1,4,28],
-"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a90af78ef23785cabaecdb5eb97cec220":[7,0,0,0,1,3,2,1,0,1,4,12],
-"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a93a399687c69e628e052725199d4a0c4":[7,0,0,0,1,3,2,1,0,1,4,4]
+"d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22a90af78ef23785cabaecdb5eb97cec220":[7,0,0,0,1,3,2,1,0,1,4,12]
 };

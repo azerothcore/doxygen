@@ -4,6 +4,8 @@ var structFactionTemplateEntry =
     [ "IsContestedGuardFaction", "de/d2f/structFactionTemplateEntry.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
     [ "IsFriendlyTo", "de/d2f/structFactionTemplateEntry.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
     [ "IsHostileTo", "de/d2f/structFactionTemplateEntry.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
+    [ "IsHostileToAlliancePlayers", "de/d2f/structFactionTemplateEntry.html#a4d3bfc9845c9d20f2e9e42f3247e1977", null ],
+    [ "IsHostileToHordePlayers", "de/d2f/structFactionTemplateEntry.html#a1734226996b76623df70f6fd0fe8a1c0", null ],
     [ "IsHostileToPlayers", "de/d2f/structFactionTemplateEntry.html#a349650c7af717e3c67392a0b9d1970e1", null ],
     [ "IsNeutralToAll", "de/d2f/structFactionTemplateEntry.html#a99cb471bcc9071a3c152266caa4579ae", null ],
     [ "enemyFaction", "de/d2f/structFactionTemplateEntry.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],

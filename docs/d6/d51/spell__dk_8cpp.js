@@ -50,6 +50,7 @@ var spell__dk_8cpp =
     [ "spell_dk_vampiric_blood", "d8/d02/classspell__dk__vampiric__blood.html", "d8/d02/classspell__dk__vampiric__blood" ],
     [ "spell_dk_will_of_the_necropolis", "db/d35/classspell__dk__will__of__the__necropolis.html", "db/d35/classspell__dk__will__of__the__necropolis" ],
     [ "spell_dk_army_of_the_dead_passive", "d2/d93/classspell__dk__army__of__the__dead__passive.html", "d2/d93/classspell__dk__army__of__the__dead__passive" ],
+    [ "spell_dk_blade_barrier", "df/df2/classspell__dk__blade__barrier.html", "df/df2/classspell__dk__blade__barrier" ],
     [ "DeathKnightSpellIcons", "d6/d51/spell__dk_8cpp.html#aa5737a1fd2e9bbe161e8f4445546676f", [
       [ "DK_ICON_ID_IMPROVED_DEATH_STRIKE", "d6/d51/spell__dk_8cpp.html#aa5737a1fd2e9bbe161e8f4445546676fa31a875d1255ca631732a3394f4ad7910", null ]
     ] ],

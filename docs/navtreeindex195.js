@@ -1,5 +1,6 @@
 var NAVTREEINDEX195 =
 {
+"d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc":[6,0,2433,33],
 "d7/d95/classPoolMgr.html#a63e539c56e7a2a855c43e2fc25ba23e1":[6,0,2433,8],
 "d7/d95/classPoolMgr.html#a6522862f3c90e9e3ebd8cd3944eaf76e":[6,0,2433,21],
 "d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de":[6,0,2433,35],
@@ -68,13 +69,13 @@ var NAVTREEINDEX195 =
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html":[6,0,2224],
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html#a3884f50f894770ff94ad6977f62c45f3":[6,0,2224,2],
 "d7/d99/classnpc__ulduar__dark__rune__sentinel.html#ac59aa042fd188eaf1eb6a04eb7d545a9":[6,0,2224,1],
-"d7/d99/classspell__dru__savage__defense.html":[6,0,2847],
-"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[6,0,2847,3],
-"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2847,2],
-"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2847,5],
-"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2847,4],
-"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2847,0],
-"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2847,1],
+"d7/d99/classspell__dru__savage__defense.html":[6,0,2848],
+"d7/d99/classspell__dru__savage__defense.html#a5c2eca05834a29fa6d5d7dd3c75e52ed":[6,0,2848,3],
+"d7/d99/classspell__dru__savage__defense.html#a65f51613dd3614f5b0e3e1dc938f56cf":[6,0,2848,2],
+"d7/d99/classspell__dru__savage__defense.html#a7ce98d22bb4a28f94366b4c08f76b61a":[6,0,2848,5],
+"d7/d99/classspell__dru__savage__defense.html#a80982626e1b67374629cb6e0800ccaea":[6,0,2848,4],
+"d7/d99/classspell__dru__savage__defense.html#a8f6e773840274e07d685c891561f72d8":[6,0,2848,0],
+"d7/d99/classspell__dru__savage__defense.html#af337ef5d5cea283f4e43b943961838d6":[6,0,2848,1],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html":[7,0,0,0,3,4,10],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#a8d76af4bfff910da40b4f93a1c465744":[7,0,0,0,3,4,10,2],
 "d7/d99/vmap4__extractor_2mpq__libmpq04_8h.html#aff3add09c98fece7ace91b0e7c90435e":[7,0,0,0,3,4,10,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9a/structboss__romulo.html#ac42df238a2ad354a2fb21ebb558734c6":[6,0,681,10],
 "d7/d9a/structboss__romulo.html#acc23f4f4f5856b9956a764c1f69bbc92":[6,0,681,2],
 "d7/d9a/structboss__romulo.html#ae4ca6736913cc8df4d016876a8fd8576":[6,0,681,7],
-"d7/d9a/structboss__romulo.html#af8bff3f1c107dc7d8beae7956a25fbcc":[6,0,681,6],
-"d7/d9b/SignalHandler_8h.html":[7,0,0,0,0,15,23]
+"d7/d9a/structboss__romulo.html#af8bff3f1c107dc7d8beae7956a25fbcc":[6,0,681,6]
 };

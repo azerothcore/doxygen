@@ -10,6 +10,5 @@ var structboss__magus__telestra =
     [ "Reset", "d7/d23/structboss__magus__telestra.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
     [ "SpellHit", "d7/d23/structboss__magus__telestra.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
     [ "UpdateAI", "d7/d23/structboss__magus__telestra.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
-    [ "copiesDied", "d7/d23/structboss__magus__telestra.html#a5738bf62869f9958448213b28c1bf771", null ]
+    [ "achievement", "d7/d23/structboss__magus__telestra.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

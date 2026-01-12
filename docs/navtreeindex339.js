@@ -1,10 +1,11 @@
 var NAVTREEINDEX339 =
 {
+"dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,665,2],
 "dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,665,1],
-"dd/dd1/classspell__target__fissures.html":[6,0,3891],
-"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3891,1],
-"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3891,0],
-"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[6,0,3891,2],
+"dd/dd1/classspell__target__fissures.html":[6,0,3892],
+"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3892,1],
+"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3892,0],
+"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[6,0,3892,2],
 "dd/dd2/boss__anubarak_8cpp.html":[7,0,0,0,1,3,5,0,1,1],
 "dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81e":[7,0,0,0,1,3,5,0,1,1,10],
 "dd/dd2/boss__anubarak_8cpp.html#a132910a4b8d30adc216643de31e9c81ea024b6c54b20180f195fc5f31c0b1bad9":[7,0,0,0,1,3,5,0,1,1,10,0],
@@ -193,11 +194,11 @@ var NAVTREEINDEX339 =
 "dd/dd4/structboss__midnight.html#ad46a3726f398e5db56612d78d33fb13f":[6,0,622,1],
 "dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[6,0,622,10],
 "dd/dd4/structboss__midnight.html#afbb95384e6c747e73c87c5a5eb40843e":[6,0,622,5],
-"dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2795],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2795,3],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[6,0,2795,0],
-"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2795,2],
-"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2795,1],
+"dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2796],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2796,3],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[6,0,2796,0],
+"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2796,2],
+"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2796,1],
 "dd/dd6/boss__halion_8cpp.html":[7,0,0,0,1,3,5,1,1,2],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,1,2,31],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[7,0,0,0,1,3,5,1,1,2,31,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX339 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabeb10d9b2d8b7b7aba28d2fcb1f3ae2c":[7,0,0,0,1,3,5,1,1,2,32,16],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac0e56716d7f580cbf50f1f0317aa6947":[7,0,0,0,1,3,5,1,1,2,32,21],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac4c404944e70b252c6ffaf6ca5d5b41d":[7,0,0,0,1,3,5,1,1,2,32,32],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac614c4524edc466dc30af9f7a5ed2b0c":[7,0,0,0,1,3,5,1,1,2,32,10],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf249f96ebcb245f4d180371f6ed2cf":[7,0,0,0,1,3,5,1,1,2,32,34]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac614c4524edc466dc30af9f7a5ed2b0c":[7,0,0,0,1,3,5,1,1,2,32,10]
 };

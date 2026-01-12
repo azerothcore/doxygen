@@ -33,6 +33,7 @@ var boss__magus__telestra_8cpp =
       [ "SPELL_FROST_MAGUS_SUMMON", "d4/d99/boss__magus__telestra_8cpp.html#a5bd342133be8c2137b831460acc9298caa6b2bdc4546aaf9e9632ad64a932e197", null ],
       [ "SPELL_ARCANE_MAGUS_SUMMON", "d4/d99/boss__magus__telestra_8cpp.html#a5bd342133be8c2137b831460acc9298cad1532a3cc9cf281ab32bafa90b172250", null ],
       [ "SPELL_FIRE_MAGUS_DEATH", "d4/d99/boss__magus__telestra_8cpp.html#a5bd342133be8c2137b831460acc9298ca09e553a586b9a94dd34cb30bc5fd8c97", null ],
+      [ "SPELL_FROST_MAGUS_DEATH", "d4/d99/boss__magus__telestra_8cpp.html#a5bd342133be8c2137b831460acc9298ca854e09a51d461b3e8fa49ab55232cb70", null ],
       [ "SPELL_ARCANE_MAGUS_DEATH", "d4/d99/boss__magus__telestra_8cpp.html#a5bd342133be8c2137b831460acc9298ca3850cb4573d2813e219a0e97ac7d030f", null ],
       [ "SPELL_WEAR_CHRISTMAS_HAT", "d4/d99/boss__magus__telestra_8cpp.html#a5bd342133be8c2137b831460acc9298cac71d3956d3230bfbb224513f0a317b7c", null ]
     ] ],

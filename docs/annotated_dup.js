@@ -3281,6 +3281,7 @@ var annotated_dup =
     [ "spell_dk_anti_magic_zone", "d6/d0f/classspell__dk__anti__magic__zone.html", "d6/d0f/classspell__dk__anti__magic__zone" ],
     [ "spell_dk_aotd_taunt", "d7/df7/classspell__dk__aotd__taunt.html", "d7/df7/classspell__dk__aotd__taunt" ],
     [ "spell_dk_army_of_the_dead_passive", "d2/d93/classspell__dk__army__of__the__dead__passive.html", "d2/d93/classspell__dk__army__of__the__dead__passive" ],
+    [ "spell_dk_blade_barrier", "df/df2/classspell__dk__blade__barrier.html", "df/df2/classspell__dk__blade__barrier" ],
     [ "spell_dk_blood_boil", "de/dcc/classspell__dk__blood__boil.html", "de/dcc/classspell__dk__blood__boil" ],
     [ "spell_dk_blood_caked_blade", "de/d8f/classspell__dk__blood__caked__blade.html", "de/d8f/classspell__dk__blood__caked__blade" ],
     [ "spell_dk_blood_gorged", "dd/d0f/classspell__dk__blood__gorged.html", "dd/d0f/classspell__dk__blood__gorged" ],

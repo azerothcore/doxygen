@@ -1,9 +1,9 @@
 var NAVTREEINDEX94 =
 {
-"d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[6,0,3849,3],
-"d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66":[6,0,3849,0],
-"d3/d2f/classspell__sindragosa__frost__breath.html#ad759f6215e722f799156b4bdddcb7af1":[6,0,3849,2],
-"d3/d2f/classspell__sindragosa__frost__breath.html#ae0a272902b0a9f74058c1dbe62974358":[6,0,3849,1],
+"d3/d2f/classspell__sindragosa__frost__breath.html#a7b7254e7c6cb0d819dd003ffd19d0731":[6,0,3850,3],
+"d3/d2f/classspell__sindragosa__frost__breath.html#a9f77330d81fef646dd5d5399800cba66":[6,0,3850,0],
+"d3/d2f/classspell__sindragosa__frost__breath.html#ad759f6215e722f799156b4bdddcb7af1":[6,0,3850,2],
+"d3/d2f/classspell__sindragosa__frost__breath.html#ae0a272902b0a9f74058c1dbe62974358":[6,0,3850,1],
 "d3/d2f/struct__Socket.html":[6,0,15],
 "d3/d2f/struct__Socket.html#a5437849d9b7f229c4466e174d619d057":[6,0,15,1],
 "d3/d2f/struct__Socket.html#ad6232c851b72ce04d2dcfa00596fc1df":[6,0,15,0],

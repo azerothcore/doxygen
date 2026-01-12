@@ -1,5 +1,8 @@
 var NAVTREEINDEX367 =
 {
+"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fab54cd511c649ecb334f1b782b8fe7d02":[5,0,18,60,0],
+"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f":[5,0,18,60,2],
+"de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617":[5,0,18,60,1],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86fae49ac758b8132c21c98556edf9b872d0":[5,0,18,60,5],
 "de/d72/namespacelfg.html#aa797c078b83927ada0678e683e0ef86faea6ff83bcbf7c67735734f7796329f3a":[5,0,18,60,4],
 "de/d72/namespacelfg.html#ab39552a59eefab4f8d1b8005203f9f94":[5,0,18,29],
@@ -56,11 +59,11 @@ var NAVTREEINDEX367 =
 "de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,975,0],
 "de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,975,1],
 "de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,975,4],
-"de/d75/classspell__dk__death__pact.html":[6,0,2776],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2776,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2776,1],
-"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2776,2],
-"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2776,0],
+"de/d75/classspell__dk__death__pact.html":[6,0,2777],
+"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2777,3],
+"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2777,1],
+"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2777,2],
+"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2777,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[6,0,1357,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[6,0,1357,0,11],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[6,0,1357,0,12],
@@ -245,9 +248,6 @@ var NAVTREEINDEX367 =
 "de/d79/classGuild.html#af76df3509c1f01fd6bf2ff07aea4de36":[6,0,1252,58],
 "de/d79/classGuild.html#af805b19f736df4c51bacbf96a8e5d38c":[6,0,1252,102],
 "de/d79/classGuild.html#afa4b8cefd0140b86ee10d67c0734e17e":[6,0,1252,104],
-"de/d79/structMMAP_1_1IntermediateValues.html":[5,0,20,2],
 "de/d79/structMMAP_1_1IntermediateValues.html":[6,0,6,2],
-"de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[6,0,6,2,7],
-"de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[5,0,20,2,7],
-"de/d79/structMMAP_1_1IntermediateValues.html#a0fc4c5576e87ff3705763c3941252aa0":[5,0,20,2,8]
+"de/d79/structMMAP_1_1IntermediateValues.html":[5,0,20,2]
 };

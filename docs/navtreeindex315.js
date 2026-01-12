@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/db2/SpellScript_8h.html#a34719dcb751e4fcbcd8071ff6daa720a":[7,0,0,0,1,2,41,11,57],
 "dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ff":[7,0,0,0,1,2,41,11,72],
 "dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa0af3aaacab516cfb17149875844cfd1c":[7,0,0,0,1,2,41,11,72,0],
 "dc/db2/SpellScript_8h.html#a34a30288cb2dc9cf4c558b61eef526ffa10ff698fcd9cd1e8d81871901e427b6b":[7,0,0,0,1,2,41,11,72,2],
@@ -158,15 +159,15 @@ var NAVTREEINDEX315 =
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html":[6,0,2223],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a6266dd5c096402b5383af09ac361a634":[6,0,2223,1],
 "dc/db5/classnpc__ulduar__dark__rune__guardian.html#a9ed188491483548658ce682bf36e6fd2":[6,0,2223,2],
-"dc/db5/classspell__festergut__gaseous__blight.html":[6,0,2889],
-"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[6,0,2889,1],
-"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[6,0,2889,0],
-"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[6,0,2889,3],
-"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[6,0,2889,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3630],
-"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3630,2],
-"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3630,1],
-"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3630,0],
+"dc/db5/classspell__festergut__gaseous__blight.html":[6,0,2890],
+"dc/db5/classspell__festergut__gaseous__blight.html#a0bdef74dbd65d938eb5eac32f6612fe1":[6,0,2890,1],
+"dc/db5/classspell__festergut__gaseous__blight.html#a276018baa590b942d90c457faea10040":[6,0,2890,0],
+"dc/db5/classspell__festergut__gaseous__blight.html#a4d16e1aec2b24cd70366308f25619cf2":[6,0,2890,3],
+"dc/db5/classspell__festergut__gaseous__blight.html#a7afc131b5dd31ec6b225fdd38f0edf34":[6,0,2890,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html":[6,0,3631],
+"dc/db5/classspell__putricide__tear__gas__effect.html#a32e04a1110d651701b8eab1648c69a57":[6,0,3631,2],
+"dc/db5/classspell__putricide__tear__gas__effect.html#abcdfe528430e299c2eb64b24f7ff8eb0":[6,0,3631,1],
+"dc/db5/classspell__putricide__tear__gas__effect.html#ac2396cbd000a8d58ff22dbb08c81dfb4":[6,0,3631,0],
 "dc/db5/structCreatureTextLocale.html":[6,0,942],
 "dc/db5/structCreatureTextLocale.html#ab4b16957cc9e845b0f763b4241ba5c89":[6,0,942,0],
 "dc/db6/PointMovementGenerator_8cpp.html":[7,0,0,0,1,2,31,0,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089":[7,0,0,0,1,3,2,16,7,15],
 "dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089a0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,16,7,15,1],
 "dc/dbc/boss__mandokir_8cpp.html#a2b453991d8b91e72ddbc2b582a5ab089a9ff71e63988ee36ea0dfb82be3941636":[7,0,0,0,1,3,2,16,7,15,0],
-"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,16,7,11],
-"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11605ffe1e4fb33916f88522429e5466":[7,0,0,0,1,3,2,16,7,11,2]
+"dc/dbc/boss__mandokir_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,16,7,11]
 };
