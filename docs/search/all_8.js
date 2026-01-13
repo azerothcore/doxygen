@@ -956,7 +956,7 @@ var searchData=
   ['handleoptoutoflootopcode_953',['HandleOptOutOfLootOpcode',['../d8/d74/classWorldSession.html#a87b1250218461f3ab750a95d641b5f35',1,'WorldSession']]],
   ['handleoutro_954',['HandleOutro',['../dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html#aadf4a99e89f354901ff63c600725b07f',1,'instance_forge_of_souls::instance_forge_of_souls_InstanceScript']]],
   ['handleoverrideclassscriptauraproc_955',['HandleOverrideClassScriptAuraProc',['../df/dd9/classUnit.html#a5963e0101088952dc7a7a6536643f5ba',1,'Unit']]],
-  ['handlepacketlog_956',['HandlePacketLog',['../d9/d4d/classmisc__commandscript.html#a9d8e2333574e37b8bae11be36ad1d468',1,'misc_commandscript']]],
+  ['handlepacketlog_956',['HandlePacketLog',['../d9/d4d/classmisc__commandscript.html#aa52342a3f34da55ce4711414d5b3d528',1,'misc_commandscript']]],
   ['handlepagetextqueryopcode_957',['HandlePageTextQueryOpcode',['../d8/d74/classWorldSession.html#abc768acad0d68404afdcef70b22dbf8f',1,'WorldSession']]],
   ['handlepartyassignmentopcode_958',['HandlePartyAssignmentOpcode',['../d8/d74/classWorldSession.html#a48aa6a0623a2a8c3e6bc58753a525d0b',1,'WorldSession']]],
   ['handlepdumpcopycommand_959',['HandlePDumpCopyCommand',['../dd/dd6/classcharacter__commandscript.html#a6052edd70be114fc29aa48e56e97ac61',1,'character_commandscript']]],

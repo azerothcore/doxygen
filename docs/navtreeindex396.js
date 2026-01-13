@@ -1,5 +1,6 @@
 var NAVTREEINDEX396 =
 {
+"df/db5/boss__meathook_8cpp.html#a25e878609551fe08b3241a549b725b0b":[7,0,0,0,1,3,4,1,1,3,5],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,3,4],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,1,3,4,3],
 "df/db5/boss__meathook_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,1,3,4,0],
@@ -76,12 +77,12 @@ var NAVTREEINDEX396 =
 "df/db8/structnpc__tito.html#a96c47ca2e66bb984dfd2cfefa6bde643":[6,0,2187,3],
 "df/db8/structnpc__tito.html#a9eecd226486e52d559ae1a30687bf0eb":[6,0,2187,4],
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[6,0,2187,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,12,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,32,6,50],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,12,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,12,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,32,6,50,1],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,12,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,32,6,50,2],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,12,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,12,6,50,0],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,32,6,50,0],
 "df/db9/structAddonInfo.html":[6,0,131],
@@ -143,10 +144,10 @@ var NAVTREEINDEX396 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,77,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,89,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,89,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,89,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2012],
 "df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2012,10],
 "df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2012,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX396 =
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,1,2,1,6,0],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adfc2cad8cd3ff6357504795c66143412":[7,0,0,0,1,3,2,1,2,1,6,2],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afda49efdcecab7f5dbf2499d16a880c7":[7,0,0,0,1,3,2,1,2,1,6,4],
-"df/dc5/structSpell_1_1HitTriggerSpell.html":[6,0,2589,1],
-"df/dc5/structSpell_1_1HitTriggerSpell.html#a02ac12119655f9ab82347d21cc68803a":[6,0,2589,1,3]
+"df/dc5/structSpell_1_1HitTriggerSpell.html":[6,0,2589,1]
 };

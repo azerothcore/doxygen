@@ -37,7 +37,7 @@ var classmisc__commandscript =
     [ "HandleMuteInfoHelper", "d9/d4d/classmisc__commandscript.html#a84d8e28f6d75e913e9cca02785997967", null ],
     [ "HandleNearGraveCommand", "d9/d4d/classmisc__commandscript.html#a85a9c32bf77c68bb63952acacabc4003", null ],
     [ "HandleOpenDoorCommand", "d9/d4d/classmisc__commandscript.html#a5d6996cc2af57dd5abd6c9e9ca0cc044", null ],
-    [ "HandlePacketLog", "d9/d4d/classmisc__commandscript.html#a9d8e2333574e37b8bae11be36ad1d468", null ],
+    [ "HandlePacketLog", "d9/d4d/classmisc__commandscript.html#aa52342a3f34da55ce4711414d5b3d528", null ],
     [ "HandlePInfoCommand", "d9/d4d/classmisc__commandscript.html#a54c43e9d181f5b5bd06f229609264f64", null ],
     [ "HandlePlayAllCommand", "d9/d4d/classmisc__commandscript.html#a1fb21e495d53983db29793dc5ecb8a41", null ],
     [ "HandlePossessCommand", "d9/d4d/classmisc__commandscript.html#af7e879af94a5c48cd3c1194fdc118ec8", null ],

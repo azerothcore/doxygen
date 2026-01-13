@@ -1,7 +1,7 @@
 var NAVTREEINDEX271 =
 {
-"da/de4/classlfg_1_1Lfg5Guids.html#aff9d7632f888db252956bbfaa9dc2f62":[5,0,18,0,6],
 "da/de4/classlfg_1_1Lfg5Guids.html#aff9d7632f888db252956bbfaa9dc2f62":[6,0,5,0,6],
+"da/de4/classlfg_1_1Lfg5Guids.html#aff9d7632f888db252956bbfaa9dc2f62":[5,0,18,0,6],
 "da/de4/classspell__pos__rimefang__frost__nova.html":[6,0,3585],
 "da/de4/classspell__pos__rimefang__frost__nova.html#a5b56eabdba4e6c9e23fe5a40b20417fe":[6,0,3585,0],
 "da/de4/classspell__pos__rimefang__frost__nova.html#a6c53fed364a1a31cd170102d4d6878b1":[6,0,3585,1],
