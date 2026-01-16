@@ -448,13 +448,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  234</span>    <span class="comment">// This is quite handy for escort quests and other stuff</span></div>
 <div class="line"><span class="lineno">  235</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aa2a134cfb38b80fb1f1764af61c6538e">stalled</a>)</div>
 <div class="line"><span class="lineno">  236</span>    {</div>
-<div class="line"><span class="lineno">  237</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a93e5972abae07effc7ce3c85e66f5606">Stop</a>(1000);</div>
+<div class="line"><span class="lineno">  237</span>        <a class="code hl_enumvalue" href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>(1000);</div>
 <div class="line"><span class="lineno">  238</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  239</span>    }</div>
 <div class="line"><span class="lineno">  240</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>) || creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23">IsMovementPreventedByCasting</a>())</div>
 <div class="line"><span class="lineno">  241</span>    {</div>
 <div class="line"><span class="lineno">  242</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  243</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a93e5972abae07effc7ce3c85e66f5606">Stop</a>(1000);</div>
+<div class="line"><span class="lineno">  243</span>        <a class="code hl_enumvalue" href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>(1000);</div>
 <div class="line"><span class="lineno">  244</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  245</span>    }</div>
 <div class="line"><span class="lineno">  246</span> </div>
@@ -481,6 +481,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  267</span>    }</div>
 <div class="line"><span class="lineno">  268</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  269</span>}</div>
+<div class="ttc" id="aSocket_8h_html_a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481"><div class="ttname"><a href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">SocketReadCallbackResult::Stop</a></div><div class="ttdeci">@ Stop</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_NOT_MOVE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:222</div></div>
 <div class="ttc" id="aclassCreature_html_af90aacd784c2059ec078510bd58bdb23"><div class="ttname"><a href="../../db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23">Creature::IsMovementPreventedByCasting</a></div><div class="ttdeci">bool IsMovementPreventedByCasting() const override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3475</div></div>
 <div class="ttc" id="aclassMovement_1_1MoveSpline_html_a4c375981abbfa1ea7335cd9369fd93f6"><div class="ttname"><a href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Movement::MoveSpline::Finalized</a></div><div class="ttdeci">bool Finalized() const</div><div class="ttdef"><b>Definition</b> MoveSpline.h:116</div></div>
@@ -490,11 +491,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:726</div></div>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a0facace1f103db218ea01d80f8bca3da"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a0facace1f103db218ea01d80f8bca3da">WaypointMovementGenerator&lt; Creature &gt;::Stopped</a></div><div class="ttdeci">bool Stopped()</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.h:77</div></div>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a7bd5e0f9f66b3caf5a90cdc0dbd014d9"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a7bd5e0f9f66b3caf5a90cdc0dbd014d9">WaypointMovementGenerator&lt; Creature &gt;::OnArrived</a></div><div class="ttdeci">void OnArrived(Creature *)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:86</div></div>
-<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a93e5972abae07effc7ce3c85e66f5606"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a93e5972abae07effc7ce3c85e66f5606">WaypointMovementGenerator&lt; Creature &gt;::Stop</a></div><div class="ttdeci">void Stop(int32 time)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.h:75</div></div>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_aa012ce83f1c517c2276a4087bfa1fa2a"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aa012ce83f1c517c2276a4087bfa1fa2a">WaypointMovementGenerator&lt; Creature &gt;::CanMove</a></div><div class="ttdeci">bool CanMove(int32 diff)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.h:79</div></div>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_af1ca7bcddaea3c8182bf0ceaffaae2f6"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#af1ca7bcddaea3c8182bf0ceaffaae2f6">WaypointMovementGenerator&lt; Creature &gt;::StartMove</a></div><div class="ttdeci">bool StartMove(Creature *)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:117</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSpline::Finalized()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l03475">Creature::IsMovementPreventedByCasting()</a>, <a class="el" href="../../#l02096">Unit::movespline</a>, <a class="el" href="../../#l16870">Unit::StopMoving()</a>, and <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSpline::Finalized()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, <a class="el" href="../../#l03475">Creature::IsMovementPreventedByCasting()</a>, <a class="el" href="../../#l02096">Unit::movespline</a>, <a class="el" href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>, <a class="el" href="../../#l16870">Unit::StopMoving()</a>, and <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>.</p>
 
 </div>
 </div>
@@ -682,7 +682,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  110</span>    <span class="keywordflow">if</span> (currentNodeItr-&gt;second.delay)</div>
 <div class="line"><span class="lineno">  111</span>    {</div>
 <div class="line"><span class="lineno">  112</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
-<div class="line"><span class="lineno">  113</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a93e5972abae07effc7ce3c85e66f5606">Stop</a>(currentNodeItr-&gt;second.delay);</div>
+<div class="line"><span class="lineno">  113</span>        <a class="code hl_enumvalue" href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>(currentNodeItr-&gt;second.delay);</div>
 <div class="line"><span class="lineno">  114</span>    }</div>
 <div class="line"><span class="lineno">  115</span>}</div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:170</div></div>
@@ -693,7 +693,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a3556f9f93f2e32d8b2bb8549a2086ad8"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a3556f9f93f2e32d8b2bb8549a2086ad8">WaypointMovementGenerator&lt; Creature &gt;::MovementInform</a></div><div class="ttdeci">void MovementInform(Creature *)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:271</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:620</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00727">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00031">Map::ScriptsStart()</a>, <a class="el" href="../../#l00061">sWaypointScripts</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00192">UNIT_STATE_ROAMING_MOVE</a>, <a class="el" href="../../#l00350">Creature::UpdateWaypointID()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00727">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00031">Map::ScriptsStart()</a>, <a class="el" href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>, <a class="el" href="../../#l00061">sWaypointScripts</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00192">UNIT_STATE_ROAMING_MOVE</a>, <a class="el" href="../../#l00350">Creature::UpdateWaypointID()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
@@ -1166,7 +1166,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html">WaypointMovementGenerator&lt; Creature &gt;</a></li>
-    <li class="footer">Generated on Thu Jan 15 2026 06:29:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jan 16 2026 06:30:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

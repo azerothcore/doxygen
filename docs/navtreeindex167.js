@@ -1,5 +1,17 @@
 var NAVTREEINDEX167 =
 {
+"d6/d34/structinstance__halls__of__reflection_1_1instance__halls__of__reflection__InstanceMapScript.html#afb180016bde1f140ce03e900083d99de":[6,0,1311,0,17],
+"d6/d35/structHolidaysEntry.html":[6,0,1270],
+"d6/d35/structHolidaysEntry.html#a082b59a0ead8223e590cbb371f3ad122":[6,0,1270,0],
+"d6/d35/structHolidaysEntry.html#a10cae1b1fbb91930209a714c545b129b":[6,0,1270,3],
+"d6/d35/structHolidaysEntry.html#a1119824959b87fb312209a998a5869b1":[6,0,1270,4],
+"d6/d35/structHolidaysEntry.html#a2209ecbb78f1f467491506cc97df57e4":[6,0,1270,8],
+"d6/d35/structHolidaysEntry.html#a6d82bc7a66d227f61c3be2260a3d03f5":[6,0,1270,6],
+"d6/d35/structHolidaysEntry.html#a6f9cf483200ac982bab7a66ff8bef33d":[6,0,1270,1],
+"d6/d35/structHolidaysEntry.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0":[6,0,1270,7],
+"d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b":[6,0,1270,2],
+"d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274":[6,0,1270,5],
+"d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html":[6,0,773,0],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a2b6132a6a89ed8f9fc215b1342642fed":[6,0,773,0,12],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a4104a8f6b91f568d537447cf9a9339b5":[6,0,773,0,4],
 "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html#a4374199f776618afaf00934c93e6e0f4":[6,0,773,0,7],
@@ -237,17 +249,5 @@ var NAVTREEINDEX167 =
 "d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1faf306be675ef01887598c63fbc4f61c8a":[7,0,0,0,1,3,10,17,2,16],
 "d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1faf5e838d079350235fbd646de4eafe278":[7,0,0,0,1,3,10,17,2,1],
 "d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fafa1aba97feddd120d8b50ca73d519f68":[7,0,0,0,1,3,10,17,2,21],
-"d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fafe4969b427204fe035632deb6fc632c0":[7,0,0,0,1,3,10,17,2,23],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952":[7,0,0,0,1,3,10,17,4],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a04da99be9c6585d81c2686b15ca993b2":[7,0,0,0,1,3,10,17,4,2],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a0cb5f91a20a22cd46707322f6a2d16b8":[7,0,0,0,1,3,10,17,4,6],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a1b7353b2c16ae02af552aefecd6836d8":[7,0,0,0,1,3,10,17,4,13],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a40009f23eef75f5fadd0de04f7e45476":[7,0,0,0,1,3,10,17,4,7],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a403d6ff5fa2ee8e66e0e55047569217b":[7,0,0,0,1,3,10,17,4,1],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a4cc970f934087d149f6cca0688744647":[7,0,0,0,1,3,10,17,4,10],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a6040be08c5500b396a62ff7565bea158":[7,0,0,0,1,3,10,17,4,3],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a7bd548d31b9bf9b84a904a673975baca":[7,0,0,0,1,3,10,17,4,11],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a8f50fec1fd7e6251dd6708aea478393f":[7,0,0,0,1,3,10,17,4,5],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952a99f33fb28b2255f588b26ca48ff715b8":[7,0,0,0,1,3,10,17,4,17],
-"d6/d36/scourge__invasion_8h.html#aeb1a427424e9d9c01fd69690bbe87952aaab0e844e0d38160c2e487c654cee469":[7,0,0,0,1,3,10,17,4,16]
+"d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fafe4969b427204fe035632deb6fc632c0":[7,0,0,0,1,3,10,17,2,23]
 };

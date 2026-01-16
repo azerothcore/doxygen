@@ -6,10 +6,7 @@ var boss__anubrekhan_8cpp =
       [ "EMOTE_SCARAB", "d5/de3/boss__anubrekhan_8cpp.html#a36f4d95de326f7b4132b469869110c12a268b84956ae24cf9c5237ba0a2850f8f", null ]
     ] ],
     [ "Misc", "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "ACHIEV_TIMED_START_EVENT", "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_1", "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a72ea78ce74ad25a3e1c0a7937be6fb89", null ],
-      [ "EVENT_BERSERK", "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_SPAWN_CRYPT_GUARDS_EXTRA", "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeda42d2f84e5a13618b4f22019737684", null ]
+      [ "ACHIEV_TIMED_START_EVENT", "d5/de3/boss__anubrekhan_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ac3776ff6343c84361329e38055da04", null ]
     ] ],
     [ "Says", "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_AGGRO", "d5/de3/boss__anubrekhan_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe", null ],

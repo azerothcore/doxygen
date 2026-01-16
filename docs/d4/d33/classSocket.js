@@ -1,6 +1,6 @@
 var classSocket =
 [
-    [ "Socket", "d4/d33/classSocket.html#a130e56b70353728a6d163e259776b969", null ],
+    [ "Socket", "d4/d33/classSocket.html#ae2befa16d4367ab906f3587261afb639", null ],
     [ "~Socket", "d4/d33/classSocket.html#a5f3e35a13e85c53883260a1fd296e98d", null ],
     [ "AsyncProcessQueue", "d4/d33/classSocket.html#abe1fda1e35b6ad5b4ea3a28681d8b1d1", null ],
     [ "AsyncRead", "d4/d33/classSocket.html#aa07b98bd510373e35257ed4a4898701c", null ],
@@ -17,19 +17,18 @@ var classSocket =
     [ "OnClose", "d4/d33/classSocket.html#a8082c8dd26c52c7fc417a574335f5742", null ],
     [ "ProxyReadHeaderHandler", "d4/d33/classSocket.html#a56a21d7a3effe0224419fc461f334e9c", null ],
     [ "QueuePacket", "d4/d33/classSocket.html#aa3485effcdedca16ee060e024f5bce38", null ],
-    [ "ReadHandler", "d4/d33/classSocket.html#a5f9eb0e4b0ac2867c2dbe5d363d99a59", null ],
+    [ "ReadHandler", "d4/d33/classSocket.html#a37457482e2a5b21acc433aa122a02e87", null ],
     [ "ReadHandlerInternal", "d4/d33/classSocket.html#ae45e28e218ae26162f05d4ede9ea88b6", null ],
     [ "SetNoDelay", "d4/d33/classSocket.html#a2f7bca4f7c5bbcaf2d4b81ebf1ef3923", null ],
     [ "Start", "d4/d33/classSocket.html#a37ddbd85b76463756f314eaa05186a64", null ],
     [ "Update", "d4/d33/classSocket.html#a5a0a702a024b0e472e95803e26a73e15", null ],
     [ "WriteHandlerWrapper", "d4/d33/classSocket.html#a52b070acab79b742a0b5b0dd6df072f7", null ],
-    [ "_closed", "d4/d33/classSocket.html#a5e470cada88883def82807bf15fb5679", null ],
-    [ "_closing", "d4/d33/classSocket.html#a56f5095c4fd283729c4f14dc413a2934", null ],
     [ "_isWritingAsync", "d4/d33/classSocket.html#afd3e05d1d3f0079e2771558580a92ace", null ],
     [ "_proxyHeaderReadingState", "d4/d33/classSocket.html#a90e0ed7fcf294898d3d866e0c2293127", null ],
     [ "_readBuffer", "d4/d33/classSocket.html#ad06cbfa1d83dd5c1d4c2a087c3078d70", null ],
     [ "_remoteAddress", "d4/d33/classSocket.html#a691b6826b99a376b5f09fb9461ebc76a", null ],
     [ "_remotePort", "d4/d33/classSocket.html#a3a90e7ac98df91df2cb0d34a63a82fc0", null ],
-    [ "_socket", "d4/d33/classSocket.html#ab97aba61be0146211d2a73e31f6a4c75", null ],
+    [ "_socket", "d4/d33/classSocket.html#a05fad5da80cfb8c885839b74123329a6", null ],
+    [ "_state", "d4/d33/classSocket.html#a87a839ed939d2765499d81ff55585f2a", null ],
     [ "_writeQueue", "d4/d33/classSocket.html#a56e1175a1c6d8dc62d7c06076ba37147", null ]
 ];

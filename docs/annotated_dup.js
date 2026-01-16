@@ -1405,6 +1405,7 @@ var annotated_dup =
     [ "ClassCallSelector", "de/dde/structClassCallSelector.html", "de/dde/structClassCallSelector" ],
     [ "CleanDamage", "d9/d74/structCleanDamage.html", "d9/d74/structCleanDamage" ],
     [ "CliCommandHolder", "de/d80/structCliCommandHolder.html", "de/d80/structCliCommandHolder" ],
+    [ "ClientAuthSession", "d0/d4c/structClientAuthSession.html", "d0/d4c/structClientAuthSession" ],
     [ "ClientOpcodeHandler", "d5/ddc/classClientOpcodeHandler.html", "d5/ddc/classClientOpcodeHandler" ],
     [ "ClientPktHeader", "da/d28/structClientPktHeader.html", "da/d28/structClientPktHeader" ],
     [ "ClientWardenModule", "d8/dd5/structClientWardenModule.html", "d8/dd5/structClientWardenModule" ],

@@ -1938,6 +1938,7 @@ var hierarchy =
     [ "Acore::ClassLevelLockable< T, MUTEX >", "d2/dd7/classAcore_1_1ClassLevelLockable.html", null ],
     [ "CleanDamage", "d9/d74/structCleanDamage.html", null ],
     [ "CliCommandHolder", "de/d80/structCliCommandHolder.html", null ],
+    [ "ClientAuthSession", "d0/d4c/structClientAuthSession.html", null ],
     [ "ClientPktHeader", "da/d28/structClientPktHeader.html", null ],
     [ "ClientWardenModule", "d8/dd5/structClientWardenModule.html", null ],
     [ "Acore::Impl::ChatCommands::CommandInvoker", "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html", null ],

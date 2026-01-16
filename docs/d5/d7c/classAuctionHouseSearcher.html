@@ -194,8 +194,9 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  344</span>{</div>
 <div class="line"><span class="lineno">  345</span>    <a class="code hl_variable" href="../../d5/d7c/classAuctionHouseSearcher.html#ac221abeb9a760c90d6110310970e6463">_requestQueue</a>.<a class="code hl_function" href="../../d7/d29/classProducerConsumerQueue.html#a7e9de516e77945411ad4f8bfa161489d">Cancel</a>();</div>
 <div class="line"><span class="lineno">  346</span>    <span class="keywordflow">for</span> (std::unique_ptr&lt;AuctionHouseWorkerThread&gt; <span class="keyword">const</span>&amp; workerThread : <a class="code hl_variable" href="../../d5/d7c/classAuctionHouseSearcher.html#aa1cedd8cb22b840599b97bf7c7df0949">_workerThreads</a>)</div>
-<div class="line"><span class="lineno">  347</span>        workerThread-&gt;Stop();</div>
+<div class="line"><span class="lineno">  347</span>        workerThread-&gt;<a class="code hl_enumvalue" href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">Stop</a>();</div>
 <div class="line"><span class="lineno">  348</span>}</div>
+<div class="ttc" id="aSocket_8h_html_a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481"><div class="ttname"><a href="../../da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481">SocketReadCallbackResult::Stop</a></div><div class="ttdeci">@ Stop</div></div>
 <div class="ttc" id="aclassProducerConsumerQueue_html_a7e9de516e77945411ad4f8bfa161489d"><div class="ttname"><a href="../../d7/d29/classProducerConsumerQueue.html#a7e9de516e77945411ad4f8bfa161489d">ProducerConsumerQueue::Cancel</a></div><div class="ttdeci">void Cancel()</div><div class="ttdef"><b>Definition</b> PCQueue.h:86</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00297">_requestQueue</a>, <a class="el" href="../../#l00299">_workerThreads</a>, and <a class="el" href="../../#l00086">ProducerConsumerQueue&lt; T &gt;::Cancel()</a>.</p>
@@ -525,7 +526,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d7c/classAuctionHouseSearcher.html">AuctionHouseSearcher</a></li>
-    <li class="footer">Generated on Thu Jan 15 2026 06:28:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jan 16 2026 06:28:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
