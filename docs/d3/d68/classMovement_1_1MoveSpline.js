@@ -33,7 +33,6 @@ var classMovement_1_1MoveSpline =
     [ "isBoarding", "d3/d68/classMovement_1_1MoveSpline.html#a4d2e1acb8c212d36db0e62f294b7af4c", null ],
     [ "isCyclic", "d3/d68/classMovement_1_1MoveSpline.html#a0ae53158f6b2d3ed43d66d6b5ee21643", null ],
     [ "isFalling", "d3/d68/classMovement_1_1MoveSpline.html#a3a545d6194fd1684261a75545ec6a171", null ],
-    [ "isWalking", "d3/d68/classMovement_1_1MoveSpline.html#a97822562bcdf817cb8529aa6ad862ad7", null ],
     [ "next_timestamp", "d3/d68/classMovement_1_1MoveSpline.html#a0ab31e82d23db1da66296cafc1a356a8", null ],
     [ "segment_time_elapsed", "d3/d68/classMovement_1_1MoveSpline.html#aca091ebfe9952bb677cb3adb18ee5c9b", null ],
     [ "timeElapsed", "d3/d68/classMovement_1_1MoveSpline.html#a310026526a7eba86bad78a200ea7ee94", null ],

@@ -1,7 +1,5 @@
 var NAVTREEINDEX281 =
 {
-"db/d6d/structAntiDosOpcodePolicy.html#a8b2bbd3d9f52166c1235b0d306042609":[6,0,156,1],
-"db/d6d/structAntiDosOpcodePolicy.html#afb0dcc50d8e9aa85fe2904050d646042":[6,0,156,0],
 "db/d6e/spell__item_8cpp.html":[7,0,0,0,1,3,9,4],
 "db/d6e/spell__item_8cpp.html#a06a241fe0c846d04b962a53fb6dc0d43":[7,0,0,0,1,3,9,4,196],
 "db/d6e/spell__item_8cpp.html#a07c8a9f10fb70a104c556d78659c2ae6":[7,0,0,0,1,3,9,4,190],
@@ -249,5 +247,7 @@ var NAVTREEINDEX281 =
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29":[7,0,0,0,1,3,9,4,136],
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a26c2da99537cf2dc1aaf93ab9b640d1e":[7,0,0,0,1,3,9,4,136,2],
 "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6":[7,0,0,0,1,3,9,4,136,3],
-"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926":[7,0,0,0,1,3,9,4,136,1]
+"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a89e533689ccd608ed3f28bdb29434926":[7,0,0,0,1,3,9,4,136,1],
+"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a":[7,0,0,0,1,3,9,4,136,0],
+"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167":[7,0,0,0,1,3,9,4,136,4]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a4e04ac6b5dc62969c46db76b96dbd8":[7,0,0,0,1,3,5,6,7,35,33],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca11304d7c71ebd5165f9b049c830f88fe":[7,0,0,0,1,3,5,6,7,35,35],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca1157ad9ab62470662136d84520e1fbe6":[7,0,0,0,1,3,5,6,7,35,32],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca14cf9a5f1492a702975eb634bc04ca90":[7,0,0,0,1,3,5,6,7,35,28],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bb7e175b123bcd825c3e1d3dffc0bbd":[7,0,0,0,1,3,5,6,7,35,26],
@@ -221,12 +219,12 @@ var NAVTREEINDEX227 =
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,28,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,9,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,28,0,3],
-"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,28,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,9,0,0],
+"d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,28,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,9,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,28,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,28,0,6],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,28,0,1],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[6,0,9,0,1],
 "d8/de1/structnpc__zealot__zath.html":[6,0,2307],
@@ -249,5 +247,7 @@ var NAVTREEINDEX227 =
 "d8/de3/classnpc__murkdeep.html#ab9f8faa3adaf1f251e1248fbe0f46468":[6,0,1985,2],
 "d8/de4/classboss__xevozz.html":[6,0,787],
 "d8/de4/classboss__xevozz.html#a712d8ed125d464da56b677914fbf8796":[6,0,787,2],
-"d8/de4/classboss__xevozz.html#a814ac939c4570d33450c4a6664833087":[6,0,787,1]
+"d8/de4/classboss__xevozz.html#a814ac939c4570d33450c4a6664833087":[6,0,787,1],
+"d8/de4/classnpc__fos__corrupted__soul__fragment.html":[6,0,1790],
+"d8/de4/classnpc__fos__corrupted__soul__fragment.html#a4caefccfdfee2e906eb94e34bceb064c":[6,0,1790,1]
 };

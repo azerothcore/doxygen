@@ -1,7 +1,5 @@
 var NAVTREEINDEX144 =
 {
-"d5/d34/structProgressionRequirement.html#a23c649e494795b27856b67225370a820":[6,0,2454,1],
-"d5/d34/structProgressionRequirement.html#a3a66018ae4e7a7e755962f1edae58d29":[6,0,2454,4],
 "d5/d34/structProgressionRequirement.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360":[6,0,2454,2],
 "d5/d34/structProgressionRequirement.html#ade8f2e22abe69a9a32085e4d901bc83b":[6,0,2454,0],
 "d5/d35/structnpc__apothecary__baxter.html":[6,0,1610],
@@ -112,8 +110,8 @@ var NAVTREEINDEX144 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[7,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[7,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d44/structadt__liquid__attributes.html":[6,0,133],
@@ -151,8 +149,8 @@ var NAVTREEINDEX144 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3105,2],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1805],
 "d5/d47/classnpc__frozen__orb.html#a2f9e1a2cb14ee9e5f24e02aa97697116":[6,0,1805,2],
 "d5/d47/classnpc__frozen__orb.html#ac14966722e39b2b6b3a907756701ed98":[6,0,1805,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX144 =
 "d5/d4a/structzm__beacon.html#aa30ae484db7c69137abb13adb1b3c505":[6,0,4350,3],
 "d5/d4a/structzm__beacon.html#ac80d575f14dca1c901be55e34cc690e1":[6,0,4350,0],
 "d5/d4a/structzm__beacon.html#acc63481f7613242ac06c6bee6c136a30":[6,0,4350,7],
-"d5/d4a/structzm__beacon.html#ae0fd99db88e6c60b829a18ff8e4be9a0":[6,0,4350,10]
+"d5/d4a/structzm__beacon.html#ae0fd99db88e6c60b829a18ff8e4be9a0":[6,0,4350,10],
+"d5/d4a/structzm__beacon.html#aec3c8dde769675e3f436515c7a3bcf24":[6,0,4350,5],
+"d5/d4b/classinstance__zulfarrak.html":[6,0,1363]
 };

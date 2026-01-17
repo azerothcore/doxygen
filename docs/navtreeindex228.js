@@ -1,7 +1,5 @@
 var NAVTREEINDEX228 =
 {
-"d8/de4/classnpc__fos__corrupted__soul__fragment.html":[6,0,1790],
-"d8/de4/classnpc__fos__corrupted__soul__fragment.html#a4caefccfdfee2e906eb94e34bceb064c":[6,0,1790,1],
 "d8/de4/classnpc__fos__corrupted__soul__fragment.html#aed663e0a313223fcaa988b89b1b02df3":[6,0,1790,2],
 "d8/de4/structBossBoundaryEntry.html":[6,0,816],
 "d8/de4/structBossBoundaryEntry.html#a7b474c6b9225102ba08864256d07d9e6":[6,0,816,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX228 =
 "d8/df6/TypeContainerFunctions_8h.html#aad11d3ae8df8f5c95f05dcf291d5640c":[7,0,0,0,0,6,5,24],
 "d8/df6/TypeContainerFunctions_8h.html#ab412b2504203d71c6f46869b32a4a5ef":[7,0,0,0,0,6,5,28],
 "d8/df6/TypeContainerFunctions_8h.html#ab54306147e78491102a30b754f9add91":[7,0,0,0,0,6,5,10],
-"d8/df6/TypeContainerFunctions_8h.html#ab9dd42a824e7e453b99fa89a888c82f9":[7,0,0,0,0,6,5,33]
+"d8/df6/TypeContainerFunctions_8h.html#ab9dd42a824e7e453b99fa89a888c82f9":[7,0,0,0,0,6,5,33],
+"d8/df6/TypeContainerFunctions_8h.html#abce75cbdcbf4a58be36bf161fe79f9c0":[7,0,0,0,0,6,5,3],
+"d8/df6/TypeContainerFunctions_8h.html#abe75d0f25949e80d5b51da03acf71f63":[7,0,0,0,0,6,5,25]
 };

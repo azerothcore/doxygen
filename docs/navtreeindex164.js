@@ -1,7 +1,5 @@
 var NAVTREEINDEX164 =
 {
-"d6/d18/classModel.html#a6ed3a71ff468f5acaccc61f5c2c87a0e":[6,0,1520,4],
-"d6/d18/classModel.html#a9b02ed73fa006bc057157b636029ab6f":[6,0,1520,2],
 "d6/d18/classModel.html#ad6ebd2062a0b823db841a0b88baac4c0":[6,0,1520,1],
 "d6/d18/classModel.html#ae102b5fc584185113e89fb7b39a72bd1":[6,0,1520,0],
 "d6/d18/classModel.html#ae6fd5d754d9a880359b8afaf50c5753e":[6,0,1520,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX164 =
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7802b547c7676b008f552f2dec200cdf":[7,0,0,0,1,2,3,1,7,2,27],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7a4af19043e1f22c82c28362fd3478cf":[7,0,0,0,1,2,3,1,7,2,17],
 "d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da7a7ed9b1fb3198fefb6efbc1521c51b5":[7,0,0,0,1,2,3,1,7,2,29],
-"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da833d8525e868dcd26cce8daebd02df7c":[7,0,0,0,1,2,3,1,7,2,19]
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da833d8525e868dcd26cce8daebd02df7c":[7,0,0,0,1,2,3,1,7,2,19],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da965006e32a608bd52f612167dec46573":[7,0,0,0,1,2,3,1,7,2,22],
+"d6/d1e/ScriptedGossip_8h.html#ac61a667541c1c7c94a9aeb407e34d36da969ee5a77a9d373de407cd6081cfaa86":[7,0,0,0,1,2,3,1,7,2,1]
 };

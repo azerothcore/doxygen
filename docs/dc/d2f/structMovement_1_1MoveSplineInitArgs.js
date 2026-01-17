@@ -13,5 +13,6 @@ var structMovement_1_1MoveSplineInitArgs =
     [ "splineId", "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ac8c84e828c23801a68524c9811f0336b", null ],
     [ "time_perc", "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#afe51d24d71b71e87015eeb4851418503", null ],
     [ "TransformForTransport", "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933", null ]
+    [ "velocity", "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#af042454593bfd4dc888c1700af437933", null ],
+    [ "walk", "dc/d2f/structMovement_1_1MoveSplineInitArgs.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
 ];

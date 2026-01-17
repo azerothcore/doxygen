@@ -1,7 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"dc/d06/boss__curator_8cpp.html#af502fe83c3c2b212621876f1c04b1e02":[7,0,0,0,1,3,2,4,1,3],
-"dc/d07/boss__magtheridon_8cpp.html":[7,0,0,0,1,3,7,4,2,0],
 "dc/d07/boss__magtheridon_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,7,4,2,0,8],
 "dc/d07/boss__magtheridon_8cpp.html#a250372292659bed7ae290d8621f88ccfa3e2a47382c165581b8de4e00dcf12dd1":[7,0,0,0,1,3,7,4,2,0,8,1],
 "dc/d07/boss__magtheridon_8cpp.html#a250372292659bed7ae290d8621f88ccfac343c605ac8cb7728750c59cd3c592ab":[7,0,0,0,1,3,7,4,2,0,8,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX301 =
 "dc/d08/structnpc__pos__icicle__trigger_1_1npc__pos__icicle__triggerAI.html#ad4ed0e2380c62cc6dd7d309edfd34ac1":[6,0,2055,0,2],
 "dc/d0a/classspell__frostwarden__handler__order__whelp.html":[6,0,2906],
 "dc/d0a/classspell__frostwarden__handler__order__whelp.html#a14e392760361b95578bc95de10cdd8aa":[6,0,2906,0],
-"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a1746786ad6daaac11aefd32e00c8d1ea":[6,0,2906,4]
+"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a1746786ad6daaac11aefd32e00c8d1ea":[6,0,2906,4],
+"dc/d0a/classspell__frostwarden__handler__order__whelp.html#a8bb53a933c5a2ec33966c6acd1a6da65":[6,0,2906,2],
+"dc/d0a/classspell__frostwarden__handler__order__whelp.html#ac2105e66f692c6a991ac9190b1901505":[6,0,2906,3]
 };

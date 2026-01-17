@@ -6,7 +6,7 @@ var classMovement_1_1MoveSplineFlag =
       [ "Falling", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3cac5a23746207a86ea9d433b3b22b97952", null ],
       [ "No_Spline", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca257d2a603ab0118301055cafe3e7d4e9", null ],
       [ "Parabolic", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca341cef845b788d83646e1c8b32023c5f", null ],
-      [ "Walkmode", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca364e60ed42b162880ed33baf297a4b97", null ],
+      [ "CanSwim", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca5b1a4393407b601a56c92c4ed233021b", null ],
       [ "Flying", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca4b25bab9a77a4cbdbec035eb4e588a03", null ],
       [ "OrientationFixed", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca0cf97db19c690d86eaa289414799d66c", null ],
       [ "Final_Point", "db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3caacde39723fd9d2c711c6b7a6448bb1c4", null ],
@@ -63,6 +63,7 @@ var classMovement_1_1MoveSplineFlag =
     [ "ToString", "db/d9d/classMovement_1_1MoveSplineFlag.html#a09410689b671e7f41cf63c85419cd423", null ],
     [ "animation", "db/d9d/classMovement_1_1MoveSplineFlag.html#a61a40ce0b6ea77a9af8604e6ee99bbf6", null ],
     [ "animId", "db/d9d/classMovement_1_1MoveSplineFlag.html#ae13bafb8520acdabcb3537bac59a22bf", null ],
+    [ "canSwim", "db/d9d/classMovement_1_1MoveSplineFlag.html#a40f7cbbfa462ccb5ab96c3d9da718165", null ],
     [ "catmullrom", "db/d9d/classMovement_1_1MoveSplineFlag.html#a0c7f8c72d6bb9d44aa39dbcc028b3dc2", null ],
     [ "cyclic", "db/d9d/classMovement_1_1MoveSplineFlag.html#a0f03237422a99cbc4c0ddd67b2930f18", null ],
     [ "done", "db/d9d/classMovement_1_1MoveSplineFlag.html#ad4217e478ecdb5fcc3ccfc4d0dca68ce", null ],
@@ -84,6 +85,5 @@ var classMovement_1_1MoveSplineFlag =
     [ "unknown12", "db/d9d/classMovement_1_1MoveSplineFlag.html#a1307535fa16e3fb90a4bd729fa52df86", null ],
     [ "unknown13", "db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5", null ],
     [ "unknown7", "db/d9d/classMovement_1_1MoveSplineFlag.html#a112bfc08d1a88b65e453fd52dc7221dd", null ],
-    [ "unknown8", "db/d9d/classMovement_1_1MoveSplineFlag.html#ae65f37c984660baba457257fb95f02af", null ],
-    [ "walkmode", "db/d9d/classMovement_1_1MoveSplineFlag.html#ae73f22b86642c968b77881ec1329d1c5", null ]
+    [ "unknown8", "db/d9d/classMovement_1_1MoveSplineFlag.html#ae65f37c984660baba457257fb95f02af", null ]
 ];

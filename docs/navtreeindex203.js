@@ -1,7 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/db2/classDynamicObjectScript.html#a8bbdc4e8f2da8ab49b817ca5d7f89f6f":[6,0,1004,0],
-"d7/db2/classspell__pri__circle__of__healing.html":[6,0,3588],
 "d7/db2/classspell__pri__circle__of__healing.html#a2c755f4ce5c3736dd0b0dd79341a4570":[6,0,3588,3],
 "d7/db2/classspell__pri__circle__of__healing.html#ac57c48690c5ad1b907f56287aee949a4":[6,0,3588,1],
 "d7/db2/classspell__pri__circle__of__healing.html#ad679149423fda97ad5744318520022b1":[6,0,3588,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX203 =
 "d7/dbf/classnpc__infernal__attacker.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa":[6,0,1894,1],
 "d7/dbf/classnpc__infernal__attacker.html#ad1d9186c186de36efbe102a07fe89de4":[6,0,1894,2],
 "d7/dc0/boss__twin__valkyr_8cpp.html":[7,0,0,0,1,3,5,2,1,4],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13]
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4":[7,0,0,0,1,3,5,2,1,4,13,1],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf":[7,0,0,0,1,3,5,2,1,4,13,2]
 };

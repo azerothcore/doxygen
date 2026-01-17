@@ -1,7 +1,5 @@
 var NAVTREEINDEX123 =
 {
-"d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,1,3,15],
-"d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a04d1058c4758a85da757fd74bf51501c":[7,0,0,0,1,3,5,9,1,3,15,4],
 "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f4d823dced8973dbb7061fdbdb76b52":[7,0,0,0,1,3,5,9,1,3,15,6],
 "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a499b41edf9950331bd113593a13de1a4":[7,0,0,0,1,3,5,9,1,3,15,3],
 "d4/d3c/brann__bronzebeard_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a5a760280be3f540c227e26d34756ef35":[7,0,0,0,1,3,5,9,1,3,15,2],
@@ -118,8 +116,8 @@ var NAVTREEINDEX123 =
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2922,3],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,12,13,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,32,13,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,32,13,4,0],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,12,13,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,32,13,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2190,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[6,0,2190,0,4],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#aac7db7f40b47a9c098c98bacb7569faf":[6,0,2190,0,1],
@@ -172,14 +170,14 @@ var NAVTREEINDEX123 =
 "d4/d44/structboss__lady__vashj.html#ac7dd5e6962e72a0eb56c89d417bda37a":[6,0,592,15],
 "d4/d44/structboss__lady__vashj.html#ad2d58872d657b3a81c6be0e69d8bff1f":[6,0,592,7],
 "d4/d44/structboss__lady__vashj.html#ad424f1c23cc893e7e48c3e854bf20936":[6,0,592,1],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,12,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[5,0,32,6,8],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,12,6,8,3],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html":[6,0,12,6,8],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[5,0,32,6,8,3],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,32,6,8,2],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a214db612bb08e557dd41d3962c827dca":[6,0,12,6,8,3],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[6,0,12,6,8,2],
-"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,32,6,8,0],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a5f3704df5311f06833c3243201d35930":[5,0,32,6,8,2],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[6,0,12,6,8,0],
+"d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#a878f9545b3141a327de85771de4f1779":[5,0,32,6,8,0],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[5,0,32,6,8,1],
 "d4/d46/classWorldPackets_1_1Guild_1_1GuildBankLogQueryResults.html#aafdb5114c7d0e8a2d18a848f3c94aa38":[6,0,12,6,8,1],
 "d4/d46/classinstance__uldaman.html":[6,0,1355],
@@ -249,5 +247,7 @@ var NAVTREEINDEX123 =
 "d4/d4f/boss__keleseth_8cpp.html":[7,0,0,0,1,3,5,10,0,1],
 "d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0b":[7,0,0,0,1,3,5,10,0,1,5],
 "d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0ba27299253b415e4fe3fb62a7b0b7acbe0":[7,0,0,0,1,3,5,10,0,1,5,3],
-"d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0ba595815ae819007c6f279718886fe885a":[7,0,0,0,1,3,5,10,0,1,5,2]
+"d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0ba595815ae819007c6f279718886fe885a":[7,0,0,0,1,3,5,10,0,1,5,2],
+"d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0ba63512cd04f5c0f2605988a493b93eb8d":[7,0,0,0,1,3,5,10,0,1,5,6],
+"d4/d4f/boss__keleseth_8cpp.html#a984e49c050e005cfa76d2e72f5da4d0ba911bf467eeef9fc36d23837bd9f6f75f":[7,0,0,0,1,3,5,10,0,1,5,0]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX206 =
 {
-"d7/dce/classgo__darkmoon__faire__music.html#a03be3eddefe4eeba8a0af8ee02bf2839":[6,0,1137,2],
-"d7/dce/classgo__darkmoon__faire__music.html#ab8dd92213e1c2815ff9498267b09b5f2":[6,0,1137,1],
 "d7/dce/classspell__black__morass__corrupt__medivh.html":[6,0,2649],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#a59e8723d8b73f45075db47e1e09e15fb":[6,0,2649,0],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#a7bacc1ebd4b98e5e43b74e13471b2063":[6,0,2649,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX206 =
 "d7/de3/classspell__flamewreath__aura.html":[6,0,2898],
 "d7/de3/classspell__flamewreath__aura.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5":[6,0,2898,0],
 "d7/de3/classspell__flamewreath__aura.html#a92a12c16381c433a946eeb1fed8ab7a9":[6,0,2898,1],
-"d7/de3/classspell__flamewreath__aura.html#aeabc1d487afdb30b80d9a5235c306df1":[6,0,2898,3]
+"d7/de3/classspell__flamewreath__aura.html#aeabc1d487afdb30b80d9a5235c306df1":[6,0,2898,3],
+"d7/de3/classspell__flamewreath__aura.html#af26ef4eae84aa3982287fde0b4f65dcd":[6,0,2898,2],
+"d7/de4/classachievement__share__the__love.html":[6,0,90]
 };

@@ -1,7 +1,5 @@
 var NAVTREEINDEX226 =
 {
-"d8/dd6/DBCfmt_8h.html#aa3f276c5987647cd820d8e95f97de21f":[7,0,0,0,1,4,0,3,68],
-"d8/dd6/DBCfmt_8h.html#aa69fc930dc289421a461cbd79ffb3f5c":[7,0,0,0,1,4,0,3,14],
 "d8/dd6/DBCfmt_8h.html#aaeddb69d8a68c22caf0310a09f277958":[7,0,0,0,1,4,0,3,34],
 "d8/dd6/DBCfmt_8h.html#ab0eaceb243d0f66908b69a408e41ac3a":[7,0,0,0,1,4,0,3,109],
 "d8/dd6/DBCfmt_8h.html#ab59ac998beb6f4f245cdc1ba8d3eb515":[7,0,0,0,1,4,0,3,40],
@@ -249,5 +247,7 @@ var NAVTREEINDEX226 =
 "d8/ddf/boss__professor__putricide_8cpp.html#a50ba2acfd483f395e71abb80f687463eafabebc18bc02e50c56c22cbb1c8cd9c2":[7,0,0,0,1,3,5,6,7,32,2],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,7,35],
 "d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca083ff881600452988daa1991bf941da1":[7,0,0,0,1,3,5,6,7,35,21],
-"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca09121e62a28418c9ebf693978ec275fe":[7,0,0,0,1,3,5,6,7,35,19]
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca09121e62a28418c9ebf693978ec275fe":[7,0,0,0,1,3,5,6,7,35,19],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a4e04ac6b5dc62969c46db76b96dbd8":[7,0,0,0,1,3,5,6,7,35,33],
+"d8/ddf/boss__professor__putricide_8cpp.html#a5bd342133be8c2137b831460acc9298ca11304d7c71ebd5165f9b049c830f88fe":[7,0,0,0,1,3,5,6,7,35,35]
 };

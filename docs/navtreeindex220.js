@@ -1,7 +1,5 @@
 var NAVTREEINDEX220 =
 {
-"d8/d80/classspell__hodir__storm__cloud__aura.html#a4cc9b379480c50e1116e3dab03afeaad":[6,0,3125,1],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[6,0,3125,2],
 "d8/d80/classspell__hodir__storm__cloud__aura.html#ae22cd3b6f7cf515e80dd1125349dd152":[6,0,3125,0],
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html":[6,0,3311],
 "d8/d80/classspell__item__piccolo__of__the__flaming__fire.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d":[6,0,3311,0],
@@ -186,12 +184,12 @@ var NAVTREEINDEX220 =
 "d8/d86/structVampiricBiteTargetSelector.html#ab683a4d67f5ad319e3b680ba5bacc7c6":[6,0,4258,0],
 "d8/d86/structVampiricBiteTargetSelector.html#ac16204f50f62cb2568998d1ea137f55d":[6,0,4258,1],
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4258,2],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,12,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,32,6,39],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,12,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,12,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,32,6,39,0],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,32,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,12,6,39,1],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,32,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,573],
 "d8/d87/classboss__kelthuzad__minion.html#a4c6d430035c964b4063139c0cda6bfff":[6,0,573,1],
 "d8/d87/classboss__kelthuzad__minion.html#ab951068fedced148653ebf9124ba5e3d":[6,0,573,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX220 =
 "d8/d8e/classHookList.html#a13d85caabd15541389f8e93e99b768b0":[6,0,1274,5],
 "d8/d8e/classHookList.html#a2d6f26f422402c3dcc0e026587201f9e":[6,0,1274,0],
 "d8/d8e/classHookList.html#a3a4a52377c59e360b9aa164940b06285":[6,0,1274,3],
-"d8/d8e/classHookList.html#a5bb439ae8dd02302f19581d2771c570c":[6,0,1274,6]
+"d8/d8e/classHookList.html#a5bb439ae8dd02302f19581d2771c570c":[6,0,1274,6],
+"d8/d8e/classHookList.html#a6dffd4b0ef103e34fca8d474856ca8d3":[6,0,1274,2],
+"d8/d8e/classHookList.html#ab7d2c8fa95d8256bba7b6b3ccdcff251":[6,0,1274,1]
 };

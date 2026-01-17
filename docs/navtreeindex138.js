@@ -1,7 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#aa3053519be0101f55450d76b1291f0f7":[6,0,3381,1],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#ada596a7f19115c7178fd07fb9e956f58":[6,0,3381,2],
 "d4/dd6/classspell__warr__vigilance.html":[6,0,4061],
 "d4/dd6/classspell__warr__vigilance.html#a34f1b7782dbf2dcc18eb803497104a13":[6,0,4061,8],
 "d4/dd6/classspell__warr__vigilance.html#a3da984d172878110b77549b51409d7e0":[6,0,4061,4],
@@ -213,8 +211,8 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1049,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,19,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1897,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1897,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1897,0,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX138 =
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae29c8c0816fc3efb83d7912c559747e4":[6,0,520,0,0],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae6b8c72ad3d36ee6eea624a7d79ca26b":[6,0,520,0,4],
 "d4/dde/Random_8cpp.html":[7,0,0,0,0,15,19],
-"d4/dde/Random_8cpp.html#a131ba7587aa544a7e73ff9884d6bc784":[7,0,0,0,0,15,19,12]
+"d4/dde/Random_8cpp.html#a131ba7587aa544a7e73ff9884d6bc784":[7,0,0,0,0,15,19,12],
+"d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406":[7,0,0,0,0,15,19,0],
+"d4/dde/Random_8cpp.html#a3f7e714c8fc3a6f6ccbe91d524a84f23":[7,0,0,0,0,15,19,10]
 };

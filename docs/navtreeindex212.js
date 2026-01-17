@@ -1,7 +1,5 @@
 var NAVTREEINDEX212 =
 {
-"d8/d20/classSQLQueryHolderBase.html#a402f961642eaa239ff8726ad66e78640":[6,0,4154,2],
-"d8/d20/classSQLQueryHolderBase.html#a432a52e6f9dc7f51cbc8f2877d0894e1":[6,0,4154,7],
 "d8/d20/classSQLQueryHolderBase.html#a4d6be4ca13ec7a0d213da9d1e6ec922b":[6,0,4154,6],
 "d8/d20/classSQLQueryHolderBase.html#a6657bb34fab696a26af9751ded41f1d7":[6,0,4154,3],
 "d8/d20/classSQLQueryHolderBase.html#a9e62f0171bd39a13348d097ee99cb17c":[6,0,4154,5],
@@ -25,10 +23,10 @@ var NAVTREEINDEX212 =
 "d8/d25/classspell__icc__harvest__blight__specimen.html#a3258d4517cfc758080691bab429624d7":[6,0,3169,3],
 "d8/d25/classspell__icc__harvest__blight__specimen.html#a5f1e6c4358df4e0910b2227f90b39d24":[6,0,3169,0],
 "d8/d25/classspell__icc__harvest__blight__specimen.html#ac9b2786ba2dbb8d1c74af05153bb0a6f":[6,0,3169,2],
-"d8/d25/structAcore_1_1PlayerDistWorker.html":[6,0,0,92],
 "d8/d25/structAcore_1_1PlayerDistWorker.html":[5,0,1,104],
-"d8/d25/structAcore_1_1PlayerDistWorker.html#a0e1738a71d7feda9f607ee964ff1fff2":[5,0,1,104,4],
+"d8/d25/structAcore_1_1PlayerDistWorker.html":[6,0,0,92],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a0e1738a71d7feda9f607ee964ff1fff2":[6,0,0,92,4],
+"d8/d25/structAcore_1_1PlayerDistWorker.html#a0e1738a71d7feda9f607ee964ff1fff2":[5,0,1,104,4],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a2658f12f90953f1057a9377b21824879":[6,0,0,92,2],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a2658f12f90953f1057a9377b21824879":[5,0,1,104,2],
 "d8/d25/structAcore_1_1PlayerDistWorker.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f":[6,0,0,92,5],
@@ -59,10 +57,10 @@ var NAVTREEINDEX212 =
 "d8/d26/classCinematicMgr.html#afdcf4c2361f5ce445b1dfc013cf3348d":[6,0,878,7],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html":[6,0,10,9],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html":[5,0,29,9],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[5,0,29,9,3],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[6,0,10,9,3],
-"d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[5,0,29,9,4],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a19c87ad1c9665c3ddfbfa89ccdee5c10":[5,0,29,9,3],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[6,0,10,9,4],
+"d8/d27/classVMAP_1_1LocationInfoCallback.html#a1ada8b8a1742f02b2d1f28ee82903246":[5,0,29,9,4],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[5,0,29,9,0],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a81b8c00fcc0a1780445ffbdf85decfdf":[6,0,10,9,0],
 "d8/d27/classVMAP_1_1LocationInfoCallback.html#a9a8b8529a571b3652cd898b2888d8027":[6,0,10,9,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX212 =
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0095c50c29091e57b4d3841ff4750f06":[7,0,0,0,1,1,0,0,3,1,29],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba04893ad49a10d1f620485f6f7e51c5f5":[7,0,0,0,1,1,0,0,3,1,20],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba061bb35856031b8a67e661ed9758ee12":[7,0,0,0,1,1,0,0,3,1,9],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb":[7,0,0,0,1,1,0,0,3,1,85]
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb":[7,0,0,0,1,1,0,0,3,1,85],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0d58bd022a55ac9c5a9be4c1443b2bf3":[7,0,0,0,1,1,0,0,3,1,39],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0e2f944c309ca24a8702e71aa7643a45":[7,0,0,0,1,1,0,0,3,1,23]
 };
