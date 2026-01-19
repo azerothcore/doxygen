@@ -212,6 +212,7 @@ var structSmartAction =
     [ "setEventPhase", "dd/d27/structSmartAction.html#af34c46ef96f98b5460a3504a6e7c0fbc", null ],
     [ "setFly", "dd/d27/structSmartAction.html#ae618ef85da1aee3023bfc74b4daf5250", null ],
     [ "setGoLootState", "dd/d27/structSmartAction.html#ab46cca8a731d898c81ace0c6c76cb250", null ],
+    [ "setGossipMenu", "dd/d27/structSmartAction.html#a4302e4c906faed45367b648225960cc5", null ],
     [ "setGuid", "dd/d27/structSmartAction.html#afdfac7cae8c27992b345ead5c44372fe", null ],
     [ "setHealthPct", "dd/d27/structSmartAction.html#ac1ed3db6d21c2caaea3ee15609ba46ed", null ],
     [ "setHealthRegen", "dd/d27/structSmartAction.html#afd33d32bee26a5ef8020d024ecd1a0a6", null ],

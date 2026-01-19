@@ -1,5 +1,7 @@
 var NAVTREEINDEX170 =
 {
+"d6/d4c/structboss__pathaleon__the__calculator.html#adc48067c3656bf768c3013ff266565c0":[6,0,658,6],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html":[6,0,741,0],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a104f447cc52c285d59653a8ebff20fef":[6,0,741,0,4],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29":[6,0,741,0,3],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a650508e05b6fa1af538a0b34e04c8bf5":[6,0,741,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[7,0,0,0,1,3,2,9,0,11,5],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340e":[7,0,0,0,1,3,2,9,0,13],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f":[7,0,0,0,1,3,2,9,0,13,14],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902":[7,0,0,0,1,3,2,9,0,13,6],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04":[7,0,0,0,1,3,2,9,0,13,3],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28":[7,0,0,0,1,3,2,9,0,13,1]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902":[7,0,0,0,1,3,2,9,0,13,6]
 };

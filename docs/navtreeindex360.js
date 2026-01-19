@@ -1,5 +1,11 @@
 var NAVTREEINDEX360 =
 {
+"de/d2d/namespaceObjectAccessor.html#a6639665d2704cbd06727004567caac15":[5,0,23,17],
+"de/d2d/namespaceObjectAccessor.html#a86236181ddfead8560067378e385f244":[5,0,23,13],
+"de/d2d/namespaceObjectAccessor.html#a868ecab21b3e6e3ac68beed32f4ea793":[5,0,23,15],
+"de/d2d/namespaceObjectAccessor.html#a8a088e6967b9972662d788beffba14d4":[5,0,23,24],
+"de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9":[5,0,23,7],
+"de/d2d/namespaceObjectAccessor.html#a970c7277a8e1bb7b65f78fdee825b2cc":[5,0,23,20],
 "de/d2d/namespaceObjectAccessor.html#a9ede56180a13f102ad195136eadb97ee":[5,0,23,3],
 "de/d2d/namespaceObjectAccessor.html#aad91cd58924cc8a34170b5a5c34ebe77":[5,0,23,9],
 "de/d2d/namespaceObjectAccessor.html#ace68e06f8fc640d94eca642f91b4598e":[5,0,23,12],
@@ -243,11 +249,5 @@ var NAVTREEINDEX360 =
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46aa0c2a4e7377d6217e94cc8fc7c77b5b2":[7,0,0,0,1,2,41,9,65,1],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab68139e4e6c4de1ec554ce13cc339d6d":[7,0,0,0,1,2,41,9,65,9],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab6bcbd6b1f2b6e6f5ad36b83930db9d8":[7,0,0,0,1,2,41,9,65,3],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab92a05b298c10d1c2b9c3a2af4fe819b":[7,0,0,0,1,2,41,9,65,25],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46abaa632530ec78fe5964cb1591b91e3b9":[7,0,0,0,1,2,41,9,65,19],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46abe491f8f623ecee03ca01610fa2b16cf":[7,0,0,0,1,2,41,9,65,4],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ac0f0575131b658e1143778206283552a":[7,0,0,0,1,2,41,9,65,12],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ac197ffb2b4f21667b0e62369ec02f0d9":[7,0,0,0,1,2,41,9,65,14],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46acff4812164f58422db79307db4bbe715":[7,0,0,0,1,2,41,9,65,18],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ad01a7209b4b575624baa5781038d973e":[7,0,0,0,1,2,41,9,65,22]
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ab92a05b298c10d1c2b9c3a2af4fe819b":[7,0,0,0,1,2,41,9,65,25]
 };

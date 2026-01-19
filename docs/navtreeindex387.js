@@ -1,5 +1,11 @@
 var NAVTREEINDEX387 =
 {
+"df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1488,3],
+"df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1488,4],
+"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1488,2],
+"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1488,1],
+"df/d44/classspell__low__health__trigger.html":[6,0,3421],
+"df/d44/classspell__low__health__trigger.html#a3ba23fd54c35c2d2866db647811c948d":[6,0,3421,2],
 "df/d44/classspell__low__health__trigger.html#a6a58808356785c25032c2befd429ff2b":[6,0,3421,3],
 "df/d44/classspell__low__health__trigger.html#a9d3b65b251cc9680352bbf056bb74f05":[6,0,3421,1],
 "df/d44/classspell__low__health__trigger.html#ad38771460ddf0f95783718775690d1f0":[6,0,3421,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX387 =
 "df/d56/classVMAP_1_1VMapMgr2.html#a73b37fe555132c248027a5f5cea31193":[5,0,29,22,16],
 "df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[6,0,10,22,18],
 "df/d56/classVMAP_1_1VMapMgr2.html#a87d4d0a1553502c8c15fb12077ec34d2":[5,0,29,22,18],
-"df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[6,0,10,22,20],
-"df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[5,0,29,22,20],
-"df/d56/classVMAP_1_1VMapMgr2.html#a8efdd22a9fd8fbd5f94e4eb70b7a2b19":[6,0,10,22,21],
-"df/d56/classVMAP_1_1VMapMgr2.html#a8efdd22a9fd8fbd5f94e4eb70b7a2b19":[5,0,29,22,21],
-"df/d56/classVMAP_1_1VMapMgr2.html#aa3b980d488c7729118f8f8f032fdb40b":[5,0,29,22,19],
-"df/d56/classVMAP_1_1VMapMgr2.html#aa3b980d488c7729118f8f8f032fdb40b":[6,0,10,22,19],
-"df/d56/classVMAP_1_1VMapMgr2.html#aa9b0d1fc87bed0cd7e9cc58b6ed75c2e":[6,0,10,22,5]
+"df/d56/classVMAP_1_1VMapMgr2.html#a8ed4fc4a7b268adbef8cb7846be4aa88":[6,0,10,22,20]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX311 =
 {
+"dc/d76/classWorldBossAI.html#a72e92da9585e41f742ee0ff964340230":[6,0,4325,2],
+"dc/d76/classWorldBossAI.html#aa783665ce6e43e76a18515f511f82efb":[6,0,4325,8],
+"dc/d76/classWorldBossAI.html#aad7ffc5fb8215f6bf36fe72aef40c9e1":[6,0,4325,0],
+"dc/d76/classWorldBossAI.html#ab84cb945e773c41d22b682996c744768":[6,0,4325,7],
+"dc/d76/classWorldBossAI.html#abba6c74269442b0bbfe94ab583904485":[6,0,4325,12],
 "dc/d76/classWorldBossAI.html#ac11f7b51038891d8e10427ca10aa516c":[6,0,4325,4],
 "dc/d76/classWorldBossAI.html#ad19a91bf2344f531e01db07efd04c395":[6,0,4325,9],
 "dc/d76/classWorldBossAI.html#adb0612a97ccab6c817d9fa69b63cfff7":[6,0,4325,13],
@@ -239,15 +244,10 @@ var NAVTREEINDEX311 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3309],
-"dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3309,0],
-"dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3309,1],
-"dc/d84/structboss__jindo.html":[6,0,562],
-"dc/d84/structboss__jindo.html#a7ddbdc4d85936fd54fced20ff31e91cd":[6,0,562,5],
-"dc/d84/structboss__jindo.html#a7f612a1e5033c5097856222cee41f2af":[6,0,562,2],
-"dc/d84/structboss__jindo.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500":[6,0,562,1]
+"dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3309,0]
 };

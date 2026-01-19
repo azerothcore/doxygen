@@ -1,5 +1,11 @@
 var NAVTREEINDEX363 =
 {
+"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7cac7c7863ffdcf026bc67a11fb0fdddd22":[7,0,0,0,1,2,15,5,28,6],
+"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7cac951b3dea36df017f7463d58209b14f2":[7,0,0,0,1,2,15,5,28,3],
+"de/d3d/LFGMgr_8h.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898":[7,0,0,0,1,2,15,5,28,5],
+"de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7ab":[7,0,0,0,1,2,15,5,34],
+"de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7aba38d20121dea70e0d59f16686b146bb56":[7,0,0,0,1,2,15,5,34,0],
+"de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7aba41ddadf92eb865b0e08867c249cdf209":[7,0,0,0,1,2,15,5,34,3],
 "de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7aba56bdd76db5a1388446f620fb0f6f15a1":[7,0,0,0,1,2,15,5,34,5],
 "de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7aba7c07908381b5c9e14dc9f9e5fecd3a8d":[7,0,0,0,1,2,15,5,34,2],
 "de/d3d/LFGMgr_8h.html#a2ecfd5a00384574f784eb4dcd16ec7abab5b960f36f997ad211ccd39fdd8b7227":[7,0,0,0,1,2,15,5,34,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX363 =
 "de/d4a/structboss__fathomguard__tidalvess.html#a7f79a16e0c186e97aeb7f16f3b7d45ea":[6,0,465,3],
 "de/d4a/structboss__fathomguard__tidalvess.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33":[6,0,465,2],
 "de/d4a/structboss__fathomguard__tidalvess.html#a909601091c25285e0a6c9773b61ff049":[6,0,465,1],
-"de/d4a/structboss__fathomguard__tidalvess.html#a958c76b6ad9d9713625b10baa0d6d992":[6,0,465,12],
-"de/d4a/structboss__fathomguard__tidalvess.html#a9eaeaf02dbe143d38ca857e5ae478aca":[6,0,465,11],
-"de/d4a/structboss__fathomguard__tidalvess.html#aa4c3ac27c72e659bd87ad83bbadfb04c":[6,0,465,0],
-"de/d4a/structboss__fathomguard__tidalvess.html#aa524d5c047b50df8d83b5faa3fd791fc":[6,0,465,4],
-"de/d4a/structboss__fathomguard__tidalvess.html#abce5d58fced89ecaac1d1f34989f0d9e":[6,0,465,9],
-"de/d4a/structboss__fathomguard__tidalvess.html#adb4d877f50ba5653d699a0a123f5961c":[6,0,465,8],
-"de/d4a/structboss__fathomguard__tidalvess.html#ae1652d83938dc820255e383870b957a7":[6,0,465,13]
+"de/d4a/structboss__fathomguard__tidalvess.html#a958c76b6ad9d9713625b10baa0d6d992":[6,0,465,12]
 };

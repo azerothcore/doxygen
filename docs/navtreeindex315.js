@@ -1,5 +1,10 @@
 var NAVTREEINDEX315 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ab303f97a56ee2f3d7ecd4e7a7950236c":[7,0,0,0,1,2,41,11,70,22],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ac1dc8a3040268f42f5fbce32d51c71e3":[7,0,0,0,1,2,41,11,70,9],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ac81ead411b37d2496c7a9993f339a39d":[7,0,0,0,1,2,41,11,70,21],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aca91b48c557565055039bb70ba1fd2eb":[7,0,0,0,1,2,41,11,70,13],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236acde546405435d878d8a552c7209e50fb":[7,0,0,0,1,2,41,11,70,18],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ad09bca933a358610ff271989afdc2f9a":[7,0,0,0,1,2,41,11,70,8],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236adc21054212f2fda577059533337ff63a":[7,0,0,0,1,2,41,11,70,16],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236add4f24c7c71aa1892b4f7aa25f162420":[7,0,0,0,1,2,41,11,70,17],
@@ -244,10 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html":[6,0,76],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,76,0],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#ac91196d094f159932ad871ffa9c0f405":[6,0,76,1],
-"dc/dbb/namespaceWMO.html":[5,0,31],
-"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7],
-"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18],
-"dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,7,13],
-"dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a166f226fccae20bae418e894a1786e67":[7,0,0,0,1,3,2,16,7,13,5],
-"dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a17b3f7ce0f4341cf08035090bd0ca78d":[7,0,0,0,1,3,2,16,7,13,3]
+"dc/dbb/namespaceWMO.html":[5,0,31]
 };

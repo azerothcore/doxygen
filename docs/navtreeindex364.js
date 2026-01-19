@@ -1,5 +1,11 @@
 var NAVTREEINDEX364 =
 {
+"de/d4a/structboss__fathomguard__tidalvess.html#a9eaeaf02dbe143d38ca857e5ae478aca":[6,0,465,11],
+"de/d4a/structboss__fathomguard__tidalvess.html#aa4c3ac27c72e659bd87ad83bbadfb04c":[6,0,465,0],
+"de/d4a/structboss__fathomguard__tidalvess.html#aa524d5c047b50df8d83b5faa3fd791fc":[6,0,465,4],
+"de/d4a/structboss__fathomguard__tidalvess.html#abce5d58fced89ecaac1d1f34989f0d9e":[6,0,465,9],
+"de/d4a/structboss__fathomguard__tidalvess.html#adb4d877f50ba5653d699a0a123f5961c":[6,0,465,8],
+"de/d4a/structboss__fathomguard__tidalvess.html#ae1652d83938dc820255e383870b957a7":[6,0,465,13],
 "de/d4a/structboss__fathomguard__tidalvess.html#aea75646687854c08eaee75c55718376d":[6,0,465,14],
 "de/d4a/structboss__fathomguard__tidalvess.html#af218abccb0b61e483dcc6d7a3313d99d":[6,0,465,6],
 "de/d4a/structnpc__anzu__spirit.html":[6,0,1609],
@@ -243,11 +249,5 @@ var NAVTREEINDEX364 =
 "de/d5b/boss__razuvious_8cpp.html#a250372292659bed7ae290d8621f88ccfae08f003a4f949d7309007830eeb36fb7":[7,0,0,0,1,3,5,7,12,4,3],
 "de/d5b/boss__razuvious_8cpp.html#a250372292659bed7ae290d8621f88ccfae52e734f84a20910f9015362a49ffdfa":[7,0,0,0,1,3,5,7,12,4,0],
 "de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,12,6],
-"de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1dfce93d1900d47f51096f021cdb030b":[7,0,0,0,1,3,5,7,12,6,0],
-"de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a743cea9ae85ac7de3fccdb77b7744589":[7,0,0,0,1,3,5,7,12,6,1],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,12,9],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca11f59134b19776a777bda031d371c938":[7,0,0,0,1,3,5,7,12,9,3],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca235a0027b0c4aea5f9516f8cf998327f":[7,0,0,0,1,3,5,7,12,9,2],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca3b09d39dcbcaf3ef92fb024de1440f2a":[7,0,0,0,1,3,5,7,12,9,0],
-"de/d5b/boss__razuvious_8cpp.html#a5bd342133be8c2137b831460acc9298ca672fdbc1701385758a8b76f2301a7318":[7,0,0,0,1,3,5,7,12,9,4]
+"de/d5b/boss__razuvious_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1dfce93d1900d47f51096f021cdb030b":[7,0,0,0,1,3,5,7,12,6,0]
 };

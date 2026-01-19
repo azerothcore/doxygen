@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"d5/dce/outland__script__loader_8cpp.html#af322170b8d6ad428560c7ab2512f2a6f":[7,0,0,0,1,3,7,8,33],
+"d5/dce/outland__script__loader_8cpp.html#af51d6fe8cee4df374fd97aee6f3b65ca":[7,0,0,0,1,3,7,8,94],
 "d5/dce/outland__script__loader_8cpp.html#af79bca9b81cdd4bec8ed244213f42deb":[7,0,0,0,1,3,7,8,20],
 "d5/dce/outland__script__loader_8cpp.html#af803a0e2dfb7f53b6682e02b90bef865":[7,0,0,0,1,3,7,8,78],
 "d5/dce/outland__script__loader_8cpp.html#af8878a94693e7e2e32962d79c7a83e80":[7,0,0,0,1,3,7,8,44],
@@ -152,8 +154,8 @@ var NAVTREEINDEX156 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html":[6,0,2124,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "d5/dd6/structCreatureDisplayInfoEntry.html":[6,0,927],
 "d5/dd6/structCreatureDisplayInfoEntry.html#a174d6f73393e6dcfeecf487fc09c2e6f":[6,0,927,1],
 "d5/dd6/structCreatureDisplayInfoEntry.html#ada31381a4ee360e2fcb68403bc6d14e5":[6,0,927,2],
-"d5/dd6/structCreatureDisplayInfoEntry.html#adc5aee11b1e27752576b0b98156d3b3c":[6,0,927,0],
-"d5/dd6/structCreatureDisplayInfoEntry.html#ae15b89669bf5d711cc57c21d8c8be0dd":[6,0,927,3],
-"d5/dd7/classspell__blight__fog.html":[6,0,2666]
+"d5/dd6/structCreatureDisplayInfoEntry.html#adc5aee11b1e27752576b0b98156d3b3c":[6,0,927,0]
 };

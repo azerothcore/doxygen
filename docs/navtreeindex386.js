@@ -1,5 +1,11 @@
 var NAVTREEINDEX386 =
 {
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca014db384d07b4224f6b4980ad0128484":[7,0,0,0,1,3,4,9,4,4,7],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca1530874f51416012529dbaf930613670":[7,0,0,0,1,3,4,9,4,4,8],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca2febcb95eb1ab18f211a5dce322dc346":[7,0,0,0,1,3,4,9,4,4,4],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca36d9aae5b731922e850638486eb37c1c":[7,0,0,0,1,3,4,9,4,4,13],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[7,0,0,0,1,3,4,9,4,4,11],
+"df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca4834c11a8fa3e92c3ff9559febe14c30":[7,0,0,0,1,3,4,9,4,4,0],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca59bc7eb1544165237ea07097690bfd0a":[7,0,0,0,1,3,4,9,4,4,1],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298ca97d212c44ade2e69b7857fe7a63be64b":[7,0,0,0,1,3,4,9,4,4,10],
 "df/d39/boss__ouro_8cpp.html#a5bd342133be8c2137b831460acc9298caae4d22aece6a0216306160b1d1cdc659":[7,0,0,0,1,3,4,9,4,4,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX386 =
 "df/d43/namespaceOpenSSLCrypto.html#ae2c343f2efc8fa69b50e1bd35bf410fd":[5,0,24,1],
 "df/d43/namespaceOpenSSLCrypto.html#af868d9171650614810772c5675c47fd3":[5,0,24,0],
 "df/d43/structMapDifficultyEntry.html":[6,0,1488],
-"df/d43/structMapDifficultyEntry.html#a32bb8c4a4defce661d108627e25b645a":[6,0,1488,0],
-"df/d43/structMapDifficultyEntry.html#a7ab33229ffee11a27861439053c79831":[6,0,1488,3],
-"df/d43/structMapDifficultyEntry.html#a891a741efb049b51996e1a6110efc52d":[6,0,1488,4],
-"df/d43/structMapDifficultyEntry.html#aa107ad302ec2aa3ce2289ba392e1c32e":[6,0,1488,2],
-"df/d43/structMapDifficultyEntry.html#add8ed75cd6aaa3412e6222b869bb4113":[6,0,1488,1],
-"df/d44/classspell__low__health__trigger.html":[6,0,3421],
-"df/d44/classspell__low__health__trigger.html#a3ba23fd54c35c2d2866db647811c948d":[6,0,3421,2]
+"df/d43/structMapDifficultyEntry.html#a32bb8c4a4defce661d108627e25b645a":[6,0,1488,0]
 };

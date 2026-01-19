@@ -1,5 +1,11 @@
 var NAVTREEINDEX368 =
 {
+"de/d79/classGuild.html#aeb5fdb4b19981409ded323470c120170":[6,0,1253,98],
+"de/d79/classGuild.html#aec337b417dc733be4ca87d3f670b4224":[6,0,1253,86],
+"de/d79/classGuild.html#aed9d9581db0de4d6c73aa8858024e7a1":[6,0,1253,20],
+"de/d79/classGuild.html#aedae13ac977ddf2c8947d652144cfd36":[6,0,1253,36],
+"de/d79/classGuild.html#aedeba5c8ed6e8ad422562be594bd46d4":[6,0,1253,123],
+"de/d79/classGuild.html#aee0f99254e3c1fb88311876b2562e8a3":[6,0,1253,75],
 "de/d79/classGuild.html#aee9f5a339a9073219a29f634072c2f7e":[6,0,1253,13],
 "de/d79/classGuild.html#af0ea8e3ce20309b0790ad813777f1614":[6,0,1253,72],
 "de/d79/classGuild.html#af5cec12a703c5b02db7e4270c3b64c44":[6,0,1253,47],
@@ -180,9 +186,9 @@ var NAVTREEINDEX368 =
 "de/d83/classOutdoorPvP__zangarmarsh.html#a145ddfe383663ed3fb46960e39691f8f":[6,0,2357,1],
 "de/d83/classOutdoorPvP__zangarmarsh.html#ae287d5df21bf75efab6c651f4f3d875e":[6,0,2357,0],
 "de/d83/structSecretMgr_1_1Secret.html":[6,0,2536,0],
+"de/d83/structSecretMgr_1_1Secret.html#a107c7a3e4756cc5b286c536e26c5dc27":[6,0,2536,0,6],
 "de/d83/structSecretMgr_1_1Secret.html#a16b48eb9b384f6ab8c6996b38f559825":[6,0,2536,0,7],
 "de/d83/structSecretMgr_1_1Secret.html#a24733bf06b4a91abcf4945aa5303a275":[6,0,2536,0,2],
-"de/d83/structSecretMgr_1_1Secret.html#a8d5a07c626b8f329a01d3dceecd35d09":[6,0,2536,0,6],
 "de/d83/structSecretMgr_1_1Secret.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74":[6,0,2536,0,1],
 "de/d83/structSecretMgr_1_1Secret.html#ad0ddd6fe7451f2b968db3a7d7a93b342":[6,0,2536,0,3],
 "de/d83/structSecretMgr_1_1Secret.html#adfebd7a162ebae8396669de031c768a6":[6,0,2536,0,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX368 =
 "de/d85/classspell__item__linken__boomerang.html#ac3d5052bf045082fb8bc02c72a0dba39":[6,0,3290,3],
 "de/d85/classspell__item__linken__boomerang.html#ae8ce5a315886ede30eda7d3682e4ef06":[6,0,3290,0],
 "de/d86/structAuctionHouseEntry.html":[6,0,263],
-"de/d86/structAuctionHouseEntry.html#a1bf77c1b14731def0e3de44143df2eed":[6,0,263,3],
-"de/d86/structAuctionHouseEntry.html#a4b857e3c4c333b2a86f7f5d08bcc883d":[6,0,263,2],
-"de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80":[6,0,263,0],
-"de/d86/structAuctionHouseEntry.html#af7bb868f1a1e8d570ce7b6cb10ad87d9":[6,0,263,1],
-"de/d87/boss__netherspite_8cpp.html":[7,0,0,0,1,3,2,4,5],
-"de/d87/boss__netherspite_8cpp.html#a073d997a481bab87bcd582038244a4c9":[7,0,0,0,1,3,2,4,5,11],
-"de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,4,5,2]
+"de/d86/structAuctionHouseEntry.html#a1bf77c1b14731def0e3de44143df2eed":[6,0,263,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1914,0,3],
 "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#ac365753a428009f4fc4d01ead8fe46fd":[6,0,1914,0,1],
 "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#af9be00be9867622a16103bd21311327f":[6,0,1914,0,2],
 "d1/dda/boss__epoch__hunter_8cpp.html":[7,0,0,0,1,3,4,1,2,1],
@@ -149,8 +150,8 @@ var NAVTREEINDEX46 =
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,32,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,32,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,12,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,32,6,26,0],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,12,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,12,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,32,6,26,1],
 "d1/de0/classnpc__stable__master.html":[6,0,2140],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad3c10a73269e416bf262537d308f6fc6":[7,0,0,0,1,3,9,2,183,27],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad64a4f238664a1f1c10ac4225517f53d":[7,0,0,0,1,3,9,2,183,7],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadb4f74f1bd4a153f6b6514eba512d2b5":[7,0,0,0,1,3,9,2,183,28],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadddddbf72d096366d6d872035aa2984e":[7,0,0,0,1,3,9,2,183,0],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadfedde76aba2d299ab2f44b29e1a3fc2":[7,0,0,0,1,3,9,2,183,6]
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadddddbf72d096366d6d872035aa2984e":[7,0,0,0,1,3,9,2,183,0]
 };

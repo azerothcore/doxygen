@@ -1,5 +1,11 @@
 var NAVTREEINDEX394 =
 {
+"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa4c711c46840b6af1875c063444a25d2e":[7,0,0,0,1,3,5,2,0,1,9,0],
+"df/da1/boss__black__knight_8cpp.html#ad79b9efcb51c710a9e3058177ac3856fa5a04e89c8480510d7690caee50e835f1":[7,0,0,0,1,3,5,2,0,1,9,1],
+"df/da1/boss__black__knight_8cpp.html#aec5a3ee7e4ac17a1743d28ffa3ea7dfc":[7,0,0,0,1,3,5,2,0,1,12],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,2,0,1,8],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a066631db68d3e3f242aa73c4a1dc3073":[7,0,0,0,1,3,5,2,0,1,8,7],
+"df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a27f0ce9ee53d7da12092613f73030c51":[7,0,0,0,1,3,5,2,0,1,8,0],
 "df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2ef49125cbf2c3261a8f962c712845c4":[7,0,0,0,1,3,5,2,0,1,8,2],
 "df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a0814056e110c04d57a7aaec3c13d81":[7,0,0,0,1,3,5,2,0,1,8,5],
 "df/da1/boss__black__knight_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5631ca8fd7c0d4a10621bb17edae1bfa":[7,0,0,0,1,3,5,2,0,1,8,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX394 =
 "df/da7/classBattleground.html#a7a7c17250b38807ec3ec78eeb789e34c":[6,0,316,243],
 "df/da7/classBattleground.html#a7aa3e9f8429f44f24cc413dc57469e33":[6,0,316,91],
 "df/da7/classBattleground.html#a7b203e7f42f2235b993ea3a1f0b24cd7":[6,0,316,100],
-"df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[6,0,316,245],
-"df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[6,0,316,215],
-"df/da7/classBattleground.html#a8085a0357ec4f17d178279fe370478cc":[6,0,316,172],
-"df/da7/classBattleground.html#a838b709f1a74b9243f922d93bd587782":[6,0,316,56],
-"df/da7/classBattleground.html#a84d07814b989beff0bd0d39c84776882":[6,0,316,127],
-"df/da7/classBattleground.html#a85ec5c36cbe6d2ab9788de1ce2d4ff20":[6,0,316,188],
-"df/da7/classBattleground.html#a85f8b79ff233149e0f83d33e5912ab76":[6,0,316,125]
+"df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[6,0,316,245]
 };

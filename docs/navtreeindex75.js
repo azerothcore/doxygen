@@ -1,5 +1,6 @@
 var NAVTREEINDEX75 =
 {
+"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a2aaf43f7d1555a005ef263ceaad8304c":[6,0,504,0,5],
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d":[6,0,504,0,0],
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a691d46055b922efc9d1ec93a8b0fb842":[6,0,504,0,4],
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#acb9f68205a2a210737d43893a414ca52":[6,0,504,0,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX75 =
 "d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a06c04e107b8a85e4ec3c7980f4609390":[7,0,0,0,1,2,21,1,23,2],
 "d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a27eb32373627b4d85388957c19e139e9":[7,0,0,0,1,2,21,1,23,0],
 "d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a4e3f982adda8cb981e3780ea68a7ba37":[7,0,0,0,1,2,21,1,23,4],
-"d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a82ef49b228d254523c3585bb42547d66":[7,0,0,0,1,2,21,1,23,1],
-"d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667ade61003fc5fb19a6fd7044080582e584":[7,0,0,0,1,2,21,1,23,3]
+"d2/dea/Guild_8h.html#a123851062f168b4f6f203a4db8279667a82ef49b228d254523c3585bb42547d66":[7,0,0,0,1,2,21,1,23,1]
 };

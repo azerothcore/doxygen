@@ -38,6 +38,7 @@ var classBattlegroundSA =
     [ "UpdateDemolisherSpawns", "d4/d3e/classBattlegroundSA.html#a805974e647577e8259f4f16a99e84ad0", null ],
     [ "UpdateObjectInteractionFlags", "d4/d3e/classBattlegroundSA.html#af1736c6ced8c35334fcd7d1660760d4c", null ],
     [ "UpdateObjectInteractionFlags", "d4/d3e/classBattlegroundSA.html#a4182dedcd4a1154ce8055b6c7d83001d", null ],
+    [ "_nextShipIsEast", "d4/d3e/classBattlegroundSA.html#a6843b616a8624b44dd3f762db0be0a42", null ],
     [ "_notEvenAScratch", "d4/d3e/classBattlegroundSA.html#a40b5fcce8eb7d90a515b91cbd97bf79c", null ],
     [ "_relicClicked", "d4/d3e/classBattlegroundSA.html#a031cff25147d9da2de0c0aa95693ad66", null ],
     [ "Attackers", "d4/d3e/classBattlegroundSA.html#a18cef0efe0b3b0889bb319a93cb14613", null ],

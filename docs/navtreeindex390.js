@@ -1,5 +1,11 @@
 var NAVTREEINDEX390 =
 {
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2295,0,2],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[6,0,2295,0,1],
+"df/d77/classachievement__smell__saronite.html":[6,0,92],
+"df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,92,0],
+"df/d77/classachievement__smell__saronite.html#a5180e3e53fa0f4d32d2a305d315bc8b3":[6,0,92,1],
+"df/d77/classspell__drakkari__colossus__face__me.html":[6,0,2813],
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2813,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2813,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2813,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aacd73dac43590134b309423b072309bb":[7,0,0,0,1,3,5,9,2,4,23,5],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3":[7,0,0,0,1,3,5,9,2,4,23,8],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0":[7,0,0,0,1,3,5,9,2,4,23,7],
-"df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,25],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289":[7,0,0,0,1,3,5,9,2,4,20],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a096730497aecaed75def280738c8fc41":[7,0,0,0,1,3,5,9,2,4,20,10],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1242bda27cc3b925c6b9f90e4d7b5570":[7,0,0,0,1,3,5,9,2,4,20,24],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1316a096ad92778b03e69164628e0612":[7,0,0,0,1,3,5,9,2,4,20,1],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2600bfa81747443eee71fb0f0626b9a9":[7,0,0,0,1,3,5,9,2,4,20,9],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89":[7,0,0,0,1,3,5,9,2,4,20,0]
+"df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,25]
 };

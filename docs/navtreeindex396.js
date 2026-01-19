@@ -1,5 +1,11 @@
 var NAVTREEINDEX396 =
 {
+"df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[6,0,1693,2],
+"df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[6,0,1693,1],
+"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[6,0,1693,3],
+"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[6,0,1693,5],
+"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[6,0,1693,4],
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[6,0,1718,0],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[6,0,1718,0,3],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1718,0,1],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1718,0,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX396 =
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#ad0e44f34d7bd1671ef7dcc2165abaa66":[6,0,3527,3],
 "df/dc4/classspell__oculus__evasive__maneuvers__aura.html#adb7714eca4c317ab76db0ecbc813669e":[6,0,3527,0],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html":[7,0,0,0,1,3,2,1,2,1],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,1,2,1,5],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa3cadc8ccec45cd212064b10a8cac490f":[7,0,0,0,1,3,2,1,2,1,5,0],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa803d2e7c4916d465806dda8c50193087":[7,0,0,0,1,3,2,1,2,1,5,1],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a3fc7453a5ca35d531ba76a09d0ae9ef5":[7,0,0,0,1,3,2,1,2,1,9],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,2,1,8],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,2,1,8,0],
-"df/dc5/boss__broodlord__lashlayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[7,0,0,0,1,3,2,1,2,1,8,2]
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,1,2,1,5]
 };

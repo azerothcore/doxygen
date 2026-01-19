@@ -1,5 +1,11 @@
 var NAVTREEINDEX380 =
 {
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#a929c49d6dd30b6a0dedfbc23c877eb36":[6,0,3664,2],
+"df/d05/classspell__q11026__a11051__banish__the__demons.html#ad68619783c4a1aad5a24826bf5d89858":[6,0,3664,1],
+"df/d05/structVendorItem.html":[6,0,4271],
+"df/d05/structVendorItem.html#a18234f38ff242b8687265f9acf70dbe0":[6,0,4271,2],
+"df/d05/structVendorItem.html#a5f335ffdb5d82418cdb4eb7a606692c1":[6,0,4271,1],
+"df/d05/structVendorItem.html#a6b26a96440c885684c173ee17d788896":[6,0,4271,4],
 "df/d05/structVendorItem.html#a98be1e0499d9ae9cfb176063991f72ee":[6,0,4271,5],
 "df/d05/structVendorItem.html#ae79c26c304bee575a722f8a82fc79fd2":[6,0,4271,0],
 "df/d05/structVendorItem.html#afe3bb3324faf1beae6ee17c223678e9b":[6,0,4271,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX380 =
 "df/d14/ObjectDefines_8h.html#addc54387901d7793730428b2982d3f55":[7,0,0,0,1,2,16,5,3,33],
 "df/d14/ObjectDefines_8h.html#ae57720dd4437b418bb332db290c71d45":[7,0,0,0,1,2,16,5,3,26],
 "df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1d":[7,0,0,0,1,2,16,5,3,28],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592":[7,0,0,0,1,2,16,5,3,28,2],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da383c05bda6f030a44990d354b24f3338":[7,0,0,0,1,2,16,5,3,28,1],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da3a69b34ce86dacb205936a8094f6c743":[7,0,0,0,1,2,16,5,3,28,3],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da6a061313d22e51e0f25b7cd4dc065233":[7,0,0,0,1,2,16,5,3,28,6],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da87ed5c21cfc88672553ccb7896a0160b":[7,0,0,0,1,2,16,5,3,28,4],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da960b44c579bc2f6818d2daaf9e4c16f0":[7,0,0,0,1,2,16,5,3,28,0],
-"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1dab10e24496ff8fec66189548a92a67045":[7,0,0,0,1,2,16,5,3,28,5]
+"df/d14/ObjectDefines_8h.html#ae675d6469643e2aca0b1840013245a1da2660064e68655415da2628c2ae2f7592":[7,0,0,0,1,2,16,5,3,28,2]
 };

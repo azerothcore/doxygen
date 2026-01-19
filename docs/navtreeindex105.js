@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/d9f/structboss__talon__king__ikiss.html#acf8cbda5f7a33c026bfc0d6e7b31f43c":[6,0,723,0],
 "d3/d9f/structboss__talon__king__ikiss.html#ada1d993842d04453d6afad91e186a3fe":[6,0,723,1],
 "d3/d9f/structboss__talon__king__ikiss.html#adcb1dca375ec548499da5a7690babc21":[6,0,723,5],
 "d3/d9f/structboss__talon__king__ikiss.html#ae8d94f89a67f3a321c88327c076ddd77":[6,0,723,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ac353596628738da778ec84b8bb9a1cec":[7,0,0,0,1,2,8,1,17,2,5],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ad38bf62ae2758fe80b97128e48663023":[7,0,0,0,1,2,8,1,17,2,3],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ad98e0b5f80cb6ab1337f85970d94c6e8":[7,0,0,0,1,2,8,1,17,2,11],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ae6d1aa03e079f6181152c11db0461091":[7,0,0,0,1,2,8,1,17,2,8],
-"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2afb27d4c0b58b9e09a9f8800d06aea83b":[7,0,0,0,1,2,8,1,17,2,6]
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ae6d1aa03e079f6181152c11db0461091":[7,0,0,0,1,2,8,1,17,2,8]
 };

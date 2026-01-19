@@ -1,5 +1,7 @@
 var NAVTREEINDEX219 =
 {
+"d8/d74/classWorldSession.html#ad8f538bb7609ac82e84850630f6c180d":[4,1,19,338],
+"d8/d74/classWorldSession.html#ad93deff76144eb53d80896e839c592ad":[4,1,19,491],
 "d8/d74/classWorldSession.html#ada77032a1b7ad5a8d43e257a117239b9":[4,1,19,553],
 "d8/d74/classWorldSession.html#ada84df34770512a63204f4fc500d268a":[4,1,19,446],
 "d8/d74/classWorldSession.html#ada9573786b1c3cb5006a59722e2f4a8e":[4,1,19,329],
@@ -157,8 +159,8 @@ var NAVTREEINDEX219 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,968,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,968,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,968,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,32,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,12,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,32,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[6,0,12,6,31,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d7f/classnpc__ulduar__iron__construct.html#a56ddf4d4d290dbb15303419c1dab18da":[6,0,2239,1],
 "d8/d7f/classnpc__ulduar__iron__construct.html#a7d46ba96b6f1968e35721d45c17b1a49":[6,0,2239,2],
 "d8/d80/classspell__hodir__storm__cloud__aura.html":[6,0,3125],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[6,0,3125,3],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#a4cc9b379480c50e1116e3dab03afeaad":[6,0,3125,1],
-"d8/d80/classspell__hodir__storm__cloud__aura.html#ac82d5a47f5eca266eed99ab65f9eb5bf":[6,0,3125,2]
+"d8/d80/classspell__hodir__storm__cloud__aura.html#a2bb4fe398e6b225dd14bdb51e3f01522":[6,0,3125,3]
 };

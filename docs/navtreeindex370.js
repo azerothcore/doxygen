@@ -1,5 +1,11 @@
 var NAVTREEINDEX370 =
 {
+"de/d95/classTicketMgr.html#a07baf2322b9c2b51251fc921b1767a44":[6,0,4198,25],
+"de/d95/classTicketMgr.html#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3":[6,0,4198,2],
+"de/d95/classTicketMgr.html#a1a6167a7f574d205d97388914ce35d7a":[6,0,4198,30],
+"de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1":[6,0,4198,28],
+"de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[6,0,4198,8],
+"de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[6,0,4198,16],
 "de/d95/classTicketMgr.html#a41e9c383f1b9c7f4c6754fab94eb687e":[6,0,4198,31],
 "de/d95/classTicketMgr.html#a4276533fa100862fc875f3719241e592":[6,0,4198,22],
 "de/d95/classTicketMgr.html#a4a8b6dc947a6c5fcefae8a26b61ef244":[6,0,4198,15],
@@ -243,11 +249,5 @@ var NAVTREEINDEX370 =
 "de/da1/classspell__mage__summon__water__elemental.html":[6,0,3450],
 "de/da1/classspell__mage__summon__water__elemental.html#a349e674aa5e07f59dc0a0d78a25aa0cd":[6,0,3450,2],
 "de/da1/classspell__mage__summon__water__elemental.html#a9440e067db7bc5c48c973dfd61f1a95e":[6,0,3450,1],
-"de/da1/classspell__mage__summon__water__elemental.html#acb433ef020fbd090259ac969a35842ea":[6,0,3450,0],
-"de/da1/instance__magisters__terrace_8cpp.html":[7,0,0,0,1,3,2,5,4],
-"de/da1/instance__magisters__terrace_8cpp.html#a39e3bff767d59081afebb72eeb3a1646":[7,0,0,0,1,3,2,5,4,2],
-"de/da1/instance__magisters__terrace_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,5,4,3],
-"de/da1/instance__magisters__terrace_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,5,4,4],
-"de/da1/instance__magisters__terrace_8cpp.html#a6fd9df921f79258a02d22baaf7a1caca":[7,0,0,0,1,3,2,5,4,6],
-"de/da1/instance__magisters__terrace_8cpp.html#a845a92716bd40c99a93eb0715cd737b0":[7,0,0,0,1,3,2,5,4,5]
+"de/da1/classspell__mage__summon__water__elemental.html#acb433ef020fbd090259ac969a35842ea":[6,0,3450,0]
 };

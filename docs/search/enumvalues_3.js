@@ -801,7 +801,7 @@ var searchData=
   ['deals_5ftriple_5fdamage_5fto_5fpc_5fcontrolled_5fpets_798',['DEALS_TRIPLE_DAMAGE_TO_PC_CONTROLLED_PETS',['../de/d0a/SharedDefines_8h.html#aad40a29906656a984c3bd42dc3088339a130b3aeeb6f9477b29ff6e2e9154deb3',1,'SharedDefines.h']]],
   ['deathbringer_5fs_5frise_5fteleport_799',['DEATHBRINGER_S_RISE_TELEPORT',['../d9/d6a/icecrown__citadel_8h.html#a531bb2dd47a0fb7caffb86934043d412a5c9c239c26486715a37e60ac52a924d5',1,'icecrown_citadel.h']]],
   ['decimal_800',['Decimal',['../d8/db3/Field_8h.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3',1,'Field.h']]],
-  ['declined_5fnames_801',['DECLINED_NAMES',['../d2/db8/classPetLoadQueryHolder.html#abf5be8513890a50fdafa751b335c8487a27365a39f9b04a72b0dd168bb15799e5',1,'PetLoadQueryHolder']]],
+  ['declined_5fnames_801',['DECLINED_NAMES',['../d2/db8/classPetLoadQueryHolder.html#a65f69bc8a8a41bd356a23376fb645909a27365a39f9b04a72b0dd168bb15799e5',1,'PetLoadQueryHolder']]],
   ['declined_5fnames_5fresult_5ferror_802',['DECLINED_NAMES_RESULT_ERROR',['../d2/dec/group__u2w.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683',1,'WorldSession.h']]],
   ['declined_5fnames_5fresult_5fsuccess_803',['DECLINED_NAMES_RESULT_SUCCESS',['../d2/dec/group__u2w.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267',1,'WorldSession.h']]],
   ['deepdiving_5fpearl_5fbuff_804',['DEEPDIVING_PEARL_BUFF',['../de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2a6b825d9bc87b4628975ab1928b835237',1,'zone_dragonblight.cpp']]],

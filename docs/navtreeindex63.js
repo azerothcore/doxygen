@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d55/structboss__nethermancer__sepethrea.html#a0ac9dd29b73e8734318851ffd9a09162":[6,0,640,1],
 "d2/d55/structboss__nethermancer__sepethrea.html#a2ac13176ebffa245fd9e0ba6173f30cc":[6,0,640,2],
 "d2/d55/structboss__nethermancer__sepethrea.html#a89851b9f6eb94270fe22151d3a968bec":[6,0,640,3],
 "d2/d55/structboss__nethermancer__sepethrea.html#aae77446e9a8f2ac41601049d3fe9ffd4":[6,0,640,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac9e0ac9ba2e449c00dbd1ec19ba8defc":[7,0,0,0,1,3,4,1,1,5,9,4],
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe9064c567a5a2e65b37324d22a21592":[7,0,0,0,1,3,4,1,1,5,9,2],
 "d2/d5b/zone__silverpine__forest_8cpp.html":[7,0,0,0,1,3,2,29],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117":[7,0,0,0,1,3,2,29,7],
-"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117a0a1c1c8ee2f4fb58f4e107f259c6a7a5":[7,0,0,0,1,3,2,29,7,3]
+"d2/d5b/zone__silverpine__forest_8cpp.html#a17833146260016bd364b0aeabe951117":[7,0,0,0,1,3,2,29,7]
 };

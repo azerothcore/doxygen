@@ -1,5 +1,11 @@
 var NAVTREEINDEX395 =
 {
+"df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[6,0,316,215],
+"df/da7/classBattleground.html#a8085a0357ec4f17d178279fe370478cc":[6,0,316,172],
+"df/da7/classBattleground.html#a838b709f1a74b9243f922d93bd587782":[6,0,316,56],
+"df/da7/classBattleground.html#a84d07814b989beff0bd0d39c84776882":[6,0,316,127],
+"df/da7/classBattleground.html#a85ec5c36cbe6d2ab9788de1ce2d4ff20":[6,0,316,188],
+"df/da7/classBattleground.html#a85f8b79ff233149e0f83d33e5912ab76":[6,0,316,125],
 "df/da7/classBattleground.html#a8742f1afea9768a67e84aafacc618d75":[6,0,316,138],
 "df/da7/classBattleground.html#a88582ec11d22cae371ac6ffcc316877c":[6,0,316,232],
 "df/da7/classBattleground.html#a894561102fd36f3cad0e2861d0b8821d":[6,0,316,156],
@@ -243,11 +249,5 @@ var NAVTREEINDEX395 =
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#af266d40889fbecd50a118a579b711757":[6,0,514,0,3],
 "df/db2/MapScripts_8cpp.html":[7,0,0,0,1,2,38,1],
 "df/db2/structnpc__claw__tentacle.html":[6,0,1693],
-"df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[6,0,1693,0],
-"df/db2/structnpc__claw__tentacle.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc":[6,0,1693,2],
-"df/db2/structnpc__claw__tentacle.html#aa566b417d1b766668133dd1d6a58293f":[6,0,1693,1],
-"df/db2/structnpc__claw__tentacle.html#aaf3a3380a33aadc2023d192dfa85cfb2":[6,0,1693,3],
-"df/db2/structnpc__claw__tentacle.html#ab979781a8f77267348595cfa17341bae":[6,0,1693,5],
-"df/db2/structnpc__claw__tentacle.html#ae7d521445680167add653717c7ae4c86":[6,0,1693,4],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[6,0,1718,0]
+"df/db2/structnpc__claw__tentacle.html#a10f1c68d5f49dd1614e7e939498db37b":[6,0,1693,0]
 };

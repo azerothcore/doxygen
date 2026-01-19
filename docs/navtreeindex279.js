@@ -1,5 +1,7 @@
 var NAVTREEINDEX279 =
 {
+"db/d50/structVehicleAccessory.html#a73b54fbbfe8e18f7129acc65dadec447":[6,0,4262,3],
+"db/d50/structVehicleAccessory.html#ace3fd27311370e4db4103f2c3ac70410":[6,0,4262,2],
 "db/d50/structVehicleAccessory.html#afc843c62c580c860471b0e49f5901363":[6,0,4262,4],
 "db/d51/classspell__dk__death__gate.html":[6,0,2776],
 "db/d51/classspell__dk__death__gate.html#a4f4f7004be5629efdc48b52b6667edba":[6,0,2776,1],
@@ -69,10 +71,10 @@ var NAVTREEINDEX279 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,32,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,32,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,32,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html":[6,0,2233,0],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#a5e9bcd384285b9046da93bd18804d07b":[6,0,2233,0,6],
 "db/d54/structnpc__ulduar__harpoonfirestate_1_1npc__ulduar__harpoonfirestateAI.html#abf485123f0a73aa84ad5178e23c4192e":[6,0,2233,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX279 =
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5":[7,0,0,0,1,2,3,0,9,1,1],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c":[7,0,0,0,1,2,3,0,9,1,3],
 "db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948":[7,0,0,0,1,2,3,0,9,1,11],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896":[7,0,0,0,1,2,3,0,9,1,0],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6":[7,0,0,0,1,2,3,0,9,1,5],
-"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25":[7,0,0,0,1,2,3,0,9,1,10]
+"db/d5e/PetAI_8h.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896":[7,0,0,0,1,2,3,0,9,1,0]
 };

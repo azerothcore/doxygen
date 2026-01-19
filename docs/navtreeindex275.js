@@ -1,5 +1,7 @@
 var NAVTREEINDEX275 =
 {
+"db/d0f/structnpc__ahune__bunny.html#a15fdcc2fda18e118f398ccc055f52942":[6,0,1579,8],
+"db/d0f/structnpc__ahune__bunny.html#a2c5c97b497cd15a1453bbd21d279a29b":[6,0,1579,3],
 "db/d0f/structnpc__ahune__bunny.html#a60a74aabbf42116079081134a332a100":[6,0,1579,4],
 "db/d0f/structnpc__ahune__bunny.html#a8733a3e495ebf69df4f9d1213df50170":[6,0,1579,2],
 "db/d0f/structnpc__ahune__bunny.html#a8f9e25f0d8a66b18e887b061592c6950":[6,0,1579,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX275 =
 "db/d18/classspell__gen__fixate__aura.html#a8ab913cf84f55428d2b0615172f3da3b":[6,0,2974,1],
 "db/d18/classspell__gen__fixate__aura.html#aed1cfe63d82450b526e154678fb97ac4":[6,0,2974,2],
 "db/d1a/classspell__q12227__outhouse__groans.html":[6,0,3684],
-"db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3684,1],
-"db/d1a/classspell__q12227__outhouse__groans.html#a278206630f9f45f2dba50b259a6115c1":[6,0,3684,2],
-"db/d1a/classspell__q12227__outhouse__groans.html#a8f6332b2d4e7ac7ba6a68331b1d4512f":[6,0,3684,3]
+"db/d1a/classspell__q12227__outhouse__groans.html#a1fdd85c5833bf6f17395f56e2ea11fed":[6,0,3684,1]
 };

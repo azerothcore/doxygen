@@ -1,5 +1,10 @@
 var NAVTREEINDEX320 =
 {
+"dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda20e455c0ae51cf9a08598dfbd3cfad1a":[7,0,0,0,1,3,2,6,0,24,3],
+"dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda3de0f2b00dd774ee52706362e41dfda9":[7,0,0,0,1,3,2,6,0,24,9],
+"dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda3ef59951fd37ac1673af905f4afa2c3a":[7,0,0,0,1,3,2,6,0,24,4],
+"dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda5b99398ffec3de91807ff5682f0a7478":[7,0,0,0,1,3,2,6,0,24,6],
+"dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda775cad6d6cdebea207fa4d24aa12b6d2":[7,0,0,0,1,3,2,6,0,24,7],
 "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda7eabf8b933a62dab546b7b50aa8a3f2d":[7,0,0,0,1,3,2,6,0,24,1],
 "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda7faf8ac32436c1944001a241d8b02925":[7,0,0,0,1,3,2,6,0,24,8],
 "dc/dec/chapter1_8cpp.html#af590a53311e888b53dcef8e183ba91cda84b24833c5e8be35e2397c44f8ade944":[7,0,0,0,1,3,2,6,0,24,10],
@@ -115,10 +120,10 @@ var NAVTREEINDEX320 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4064,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX320 =
 "dc/dff/instance__uldaman_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a018bc01f82c1ca884f860b5c3bac429a":[7,0,0,0,1,3,2,14,0,5,0],
 "dd/d00/classspell__tsh__shoot__flame__arrow.html":[6,0,3963],
 "dd/d00/classspell__tsh__shoot__flame__arrow.html#a079e72d57550e03956088b4be1d11422":[6,0,3963,2],
-"dd/d00/classspell__tsh__shoot__flame__arrow.html#a5dd125da7dd46e2d81ab5e0f10bc00c3":[6,0,3963,1],
-"dd/d00/classspell__tsh__shoot__flame__arrow.html#a834163302ff10875227806d7d4945988":[6,0,3963,0],
-"dd/d00/classspell__tsh__shoot__flame__arrow.html#abd4e0f268652652d3828ba8d350de849":[6,0,3963,3],
-"dd/d00/structUnitActionBarEntry.html":[6,0,4242],
-"dd/d00/structUnitActionBarEntry.html#a0615e6ad9cf5523d6dc85bd529e65f32":[6,0,4242,2],
-"dd/d00/structUnitActionBarEntry.html#a110840d38445795957ee0425175b4fb6":[6,0,4242,5]
+"dd/d00/classspell__tsh__shoot__flame__arrow.html#a5dd125da7dd46e2d81ab5e0f10bc00c3":[6,0,3963,1]
 };

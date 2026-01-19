@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca60744ba9a2e4a61e4a5daf9300af4126":[7,0,0,0,1,3,7,1,8,10,4],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca6b420ad90818d59999154f2b7f29bee2":[7,0,0,0,1,3,7,1,8,10,11],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca78cce22120c14b3b2abdb45f3fdd345b":[7,0,0,0,1,3,7,1,8,10,2],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca89f4f3d3fe79cc53e80e92b494762185":[7,0,0,0,1,3,7,1,8,10,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d93/classPathGenerator.html#af899ff75492f319fc08a385e852c6b3e":[6,0,2385,41],
 "d3/d93/classPathGenerator.html#afc0a10ab4af035f3cfc0467db1c914ca":[6,0,2385,13],
 "d3/d93/classPathGenerator.html#afc9209b94640352866c5602863000618":[6,0,2385,45],
-"d3/d93/classPathGenerator.html#afe543b19501d90d837f99829a5cd7cfe":[6,0,2385,8],
-"d3/d96/classspell__rotface__mutated__infection.html":[6,0,3782]
+"d3/d93/classPathGenerator.html#afe543b19501d90d837f99829a5cd7cfe":[6,0,2385,8]
 };

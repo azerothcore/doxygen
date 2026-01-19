@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df6/DBCStores_8h.html":[7,0,0,0,1,2,14,1],
 "d2/df6/DBCStores_8h.html#a00fc8b9059a4c808fe769f8e800c2919":[7,0,0,0,1,2,14,1,69],
 "d2/df6/DBCStores_8h.html#a01782477d22431b146db05c572f522da":[7,0,0,0,1,2,14,1,120],
 "d2/df6/DBCStores_8h.html#a037c200712022193928a78d7a57f8564":[7,0,0,0,1,2,14,1,79],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#af30c26b46b14e9e16fe5d48d4dcf23de":[6,0,633,0,7],
 "d2/dfc/instance__serpent__shrine_8cpp.html":[7,0,0,0,1,3,7,2,0,6],
 "d2/dfc/instance__serpent__shrine_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,7,2,0,6,12],
-"d2/dfc/instance__serpent__shrine_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,0,6,11],
-"d2/dfc/instance__serpent__shrine_8cpp.html#a6720238df140a3c574a711042b7f5bd3":[7,0,0,0,1,3,7,2,0,6,13]
+"d2/dfc/instance__serpent__shrine_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,2,0,6,11]
 };

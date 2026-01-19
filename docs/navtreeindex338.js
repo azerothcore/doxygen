@@ -1,5 +1,11 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a3fa08968eb2d0acc747af4886085bee4":[7,0,0,0,1,2,38,0,75,1,113],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a1e3ddb279ae0a6244979b5335abe2":[7,0,0,0,1,2,38,0,75,1,54],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40a9067cbc98fb2b70b757a9625bd078":[7,0,0,0,1,2,38,0,75,1,96],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a40ab5882112be7b1aa0e8144e30bc505":[7,0,0,0,1,2,38,0,75,1,162],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a43d5a2d46876df1d33576a0f51012cd1":[7,0,0,0,1,2,38,0,75,1,28],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a44bb21dbceb7f3d834cf8896eb0bf204":[7,0,0,0,1,2,38,0,75,1,146],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a46b45eff4b16d8894f96a1d46d60d6a9":[7,0,0,0,1,2,38,0,75,1,15],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48ac1860f792469c42281167e11a5857":[7,0,0,0,1,2,38,0,75,1,59],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a48e5f4b7118a2abbd36fe0495a47dc04":[7,0,0,0,1,2,38,0,75,1,35],
@@ -243,11 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dcf/structCharacterCacheEntry.html":[6,0,856],
 "dd/dcf/structCharacterCacheEntry.html#a19dbbbdce9dbf9993d57edbebeeaf425":[6,0,856,2],
 "dd/dcf/structCharacterCacheEntry.html#a1d094e514af9970b0239cc8e27da06bc":[6,0,856,1],
-"dd/dcf/structCharacterCacheEntry.html#a41ea77c9e690336b709259bfccbd939f":[6,0,856,6],
-"dd/dcf/structCharacterCacheEntry.html#a4b6f5540de2e47959a053696698e8e05":[6,0,856,3],
-"dd/dcf/structCharacterCacheEntry.html#a4fba749bb66642a1601c5cb37c756222":[6,0,856,5],
-"dd/dcf/structCharacterCacheEntry.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b":[6,0,856,8],
-"dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,856,7],
-"dd/dcf/structCharacterCacheEntry.html#a91c17eef26be0a18823a9834853c296a":[6,0,856,10],
-"dd/dcf/structCharacterCacheEntry.html#aa57c5abbbd7218d26e4156b310229766":[6,0,856,9]
+"dd/dcf/structCharacterCacheEntry.html#a41ea77c9e690336b709259bfccbd939f":[6,0,856,6]
 };

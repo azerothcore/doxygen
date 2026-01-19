@@ -1,5 +1,7 @@
 var NAVTREEINDEX282 =
 {
+"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29add38e5480be79c53290fc7917d86d34a":[7,0,0,0,1,3,9,4,136,0],
+"db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167":[7,0,0,0,1,3,9,4,136,4],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfa":[7,0,0,0,1,3,9,4,180],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa81919b9e4b86cb71f414dd9f4a26b828":[7,0,0,0,1,3,9,4,180,1],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa878a8110f37d65985990578925b51e8b":[7,0,0,0,1,3,9,4,180,0],
@@ -236,8 +238,8 @@ var NAVTREEINDEX282 =
 "db/d7b/classItemScript.html#a87ab2f706bbb4e71921852d1ae6d78c7":[6,0,1396,6],
 "db/d7b/classItemScript.html#a924268357fec1a667f1184c91ebcef33":[6,0,1396,5],
 "db/d7b/classItemScript.html#ae0ae6754a17b88deaf3648b74a58bb9d":[6,0,1396,1],
-"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,12,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[5,0,32,6,0],
+"db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html":[6,0,12,6,0],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[6,0,12,6,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a3d39b917ca2650f645ccce12cdc1a1e0":[5,0,32,6,0,1],
 "db/d7b/classWorldPackets_1_1Guild_1_1AcceptGuildInvite.html#a4453fc550871082f6295d9229eef265a":[5,0,32,6,0,0],
@@ -245,9 +247,7 @@ var NAVTREEINDEX282 =
 "db/d7b/classgo__gilded__brazier.html":[6,0,1151],
 "db/d7b/classgo__gilded__brazier.html#a2c8ced3e29c05c9d55745c4f10c9202d":[6,0,1151,2],
 "db/d7b/classgo__gilded__brazier.html#a778c753a8432131601371da8849ef004":[6,0,1151,1],
-"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,1],
 "db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,1],
-"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[5,0,1,8,0,1,0],
-"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[6,0,0,5,0,1,0],
-"db/d7b/structnpc__ulduar__bot__summon__trigger_1_1npc__ulduar__bot__summon__triggerAI.html":[6,0,2223,0]
+"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,1],
+"db/d7b/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable_3_01void_00_01Ts_8_8_8_01_4.html#aa6558e36917995af6b37ec607751aefd":[5,0,1,8,0,1,0]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX369 =
 {
+"de/d86/structAuctionHouseEntry.html#a4b857e3c4c333b2a86f7f5d08bcc883d":[6,0,263,2],
+"de/d86/structAuctionHouseEntry.html#a8581a6a5198dab10680f477a477a7c80":[6,0,263,0],
+"de/d86/structAuctionHouseEntry.html#af7bb868f1a1e8d570ce7b6cb10ad87d9":[6,0,263,1],
+"de/d87/boss__netherspite_8cpp.html":[7,0,0,0,1,3,2,4,5],
+"de/d87/boss__netherspite_8cpp.html#a073d997a481bab87bcd582038244a4c9":[7,0,0,0,1,3,2,4,5,11],
+"de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,2,4,5,2],
 "de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaa4f9cbb8e1c3cfce68ed7682b4a74fd6":[7,0,0,0,1,3,2,4,5,2,0],
 "de/d87/boss__netherspite_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aaf68adafa8f4b00b73e1aa794a689e45c":[7,0,0,0,1,3,2,4,5,2,1],
 "de/d87/boss__netherspite_8cpp.html#a56bc96a8aa9bd958a1424749416d8bd4":[7,0,0,0,1,3,2,4,5,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX369 =
 "de/d93/ChannelMgr_8h.html#a06f16ee81d2214d67575f108b76f6333":[7,0,0,0,1,2,11,0,3,3],
 "de/d95/classTicketMgr.html":[6,0,4198],
 "de/d95/classTicketMgr.html#a014f3883e6f743db0f7e0756a0bf68c0":[6,0,4198,17],
-"de/d95/classTicketMgr.html#a02858169d0fbf1e9fd298c381dff6ac7":[6,0,4198,0],
-"de/d95/classTicketMgr.html#a07baf2322b9c2b51251fc921b1767a44":[6,0,4198,25],
-"de/d95/classTicketMgr.html#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3":[6,0,4198,2],
-"de/d95/classTicketMgr.html#a1a6167a7f574d205d97388914ce35d7a":[6,0,4198,30],
-"de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1":[6,0,4198,28],
-"de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[6,0,4198,8],
-"de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[6,0,4198,16]
+"de/d95/classTicketMgr.html#a02858169d0fbf1e9fd298c381dff6ac7":[6,0,4198,0]
 };

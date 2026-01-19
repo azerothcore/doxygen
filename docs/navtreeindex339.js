@@ -1,5 +1,11 @@
 var NAVTREEINDEX339 =
 {
+"dd/dcf/structCharacterCacheEntry.html#a4b6f5540de2e47959a053696698e8e05":[6,0,856,3],
+"dd/dcf/structCharacterCacheEntry.html#a4fba749bb66642a1601c5cb37c756222":[6,0,856,5],
+"dd/dcf/structCharacterCacheEntry.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b":[6,0,856,8],
+"dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213":[6,0,856,7],
+"dd/dcf/structCharacterCacheEntry.html#a91c17eef26be0a18823a9834853c296a":[6,0,856,10],
+"dd/dcf/structCharacterCacheEntry.html#aa57c5abbbd7218d26e4156b310229766":[6,0,856,9],
 "dd/dcf/structCharacterCacheEntry.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532":[6,0,856,4],
 "dd/dcf/structCharacterCacheEntry.html#ae1921d1e949cec70ebbd52779b775df6":[6,0,856,0],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html":[6,0,2224,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX339 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca66942423c2eaaf561eb862af838d78ce":[7,0,0,0,1,3,5,1,1,2,32,37],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a4f3b7f15d866af90559d8a7f70713":[7,0,0,0,1,3,5,1,1,2,32,47],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca76c97d42f8a62584b0d9382638688390":[7,0,0,0,1,3,5,1,1,2,32,14],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca77eccf48e230d6887d81df2755b9b4c5":[7,0,0,0,1,3,5,1,1,2,32,11],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca7f0f9b2b093213c9d2a86f7fe911a7c1":[7,0,0,0,1,3,5,1,1,2,32,22],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca8c9bff1261007c0f6374179c6a55bff4":[7,0,0,0,1,3,5,1,1,2,32,3],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c1dda2b360ae67c176c671da25d0a58":[7,0,0,0,1,3,5,1,1,2,32,13],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caa23f0852bd7a9a8d7983113dad337467":[7,0,0,0,1,3,5,1,1,2,32,20],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caa932d8829093f32605f60f73620df5e5":[7,0,0,0,1,3,5,1,1,2,32,24],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298caab57ea052e5939556b5374499f5f918d":[7,0,0,0,1,3,5,1,1,2,32,8]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298ca77eccf48e230d6887d81df2755b9b4c5":[7,0,0,0,1,3,5,1,1,2,32,11]
 };

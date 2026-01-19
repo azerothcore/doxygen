@@ -1,5 +1,11 @@
 var NAVTREEINDEX404 =
 {
+"df/de3/boss__leotheras__the__blind_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,0,3,11,0],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a7262ac762982143401d22a60a1958fea":[7,0,0,0,1,3,7,2,0,3,11,3],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a8cbd9d7ed4a88859b4245f7562b90c74":[7,0,0,0,1,3,7,2,0,3,11,5],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268aa8b5d36f1358f3ec16ba4f2fee12192a":[7,0,0,0,1,3,7,2,0,3,11,4],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268abe5a07c776d1d85707d27f145495a3f8":[7,0,0,0,1,3,7,2,0,3,11,2],
+"df/de3/boss__leotheras__the__blind_8cpp.html#a9df48fc21316c84ffdd140741d0dd476":[7,0,0,0,1,3,7,2,0,3,12],
 "df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,7,2,0,3,8],
 "df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99aa8a276adfb1bc4c990d9fcd7622ee8b44":[7,0,0,0,1,3,7,2,0,3,8,0],
 "df/de3/boss__leotheras__the__blind_8cpp.html#aab072245ab577ff0e12efe20a536b99aa9ec61b4a64bb040b8e116599fa55c192":[7,0,0,0,1,3,7,2,0,3,8,1],
@@ -191,14 +197,13 @@ var NAVTREEINDEX404 =
 "df/df1/structCell.html#a1311175ad2f4224778db22ce19913c7e":[6,0,845,10],
 "df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686":[6,0,845,21],
 "df/df1/structCell.html#a15c6d9e68123ebceaf3520a383f5b7e8":[6,0,845,11],
+"df/df1/structCell.html#a18bcb34188ad44da1f51228c2745ad90":[6,0,845,28],
 "df/df1/structCell.html#a394510643e8664cf12b5efaf5cb99f71":[6,0,845,0],
 "df/df1/structCell.html#a3ff5ef7877f8b91e5797ef8b176870fa":[6,0,845,19],
 "df/df1/structCell.html#a40eda303ad77ca42a04b00a504d49b19":[6,0,845,27],
-"df/df1/structCell.html#a5dced13f63db195b34a522437ebf2dbe":[6,0,845,25],
 "df/df1/structCell.html#a6ba637c4f7e1e563197b8006c19f00e1":[6,0,845,7],
 "df/df1/structCell.html#a6ccf5bbce503433022fce680363b4e3a":[6,0,845,14],
 "df/df1/structCell.html#a7766818a31b73b5b9f4e44936f331141":[6,0,845,12],
-"df/df1/structCell.html#a80f7af5b3065591bf58cc41600ffc1aa":[6,0,845,28],
 "df/df1/structCell.html#a83d1e587eeb791007c845f9ea52ab42f":[6,0,845,24],
 "df/df1/structCell.html#a8f7e2e56eb1a910c451fd23c974a52b7":[6,0,845,15],
 "df/df1/structCell.html#a9aeb10f855fbf40d38edb8c2b542d0ee":[6,0,845,16],
@@ -216,6 +221,7 @@ var NAVTREEINDEX404 =
 "df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[6,0,845,4],
 "df/df1/structCell.html#ad507586547e54f178924f392c0066c16":[6,0,845,20],
 "df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,845,22],
+"df/df1/structCell.html#aed958a44aeeb354b1eca6d655c47a23f":[6,0,845,25],
 "df/df2/classspell__dk__blade__barrier.html":[6,0,2762],
 "df/df2/classspell__dk__blade__barrier.html#a2e572b677ad3b754316066f3e53edbbb":[6,0,2762,1],
 "df/df2/classspell__dk__blade__barrier.html#a4838d728bddfb320ad4b30166fefb6f9":[6,0,2762,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX404 =
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca3ec76c70acd87db20b1a8aaaf83aa548":[7,0,0,0,1,3,5,6,1,19,9],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5bb2220c218eca66a7d3a13ad17b6a78":[7,0,0,0,1,3,5,6,1,19,16],
 "df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca68a49537a8eef0508c6c5cbd1e15974a":[7,0,0,0,1,3,5,6,1,19,18],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ced87c12aae4403718d5009d4655e51":[7,0,0,0,1,3,5,6,1,19,23],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cf42e828d39cadd23a9fd81b86a3c4b":[7,0,0,0,1,3,5,6,1,19,25],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca84a598b6d3d799fd9f824498ecad65b9":[7,0,0,0,1,3,5,6,1,19,7],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca953583ba31de08b70d076375d892ed0b":[7,0,0,0,1,3,5,6,1,19,13],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9557a5989c724aae0079df2e59e8e24b":[7,0,0,0,1,3,5,6,1,19,3],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca99e0e84a84c3ccfc43ff26b6ae871dac":[7,0,0,0,1,3,5,6,1,19,24],
-"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298caa4554c55d7cbfd4f7e6ee583be7db278":[7,0,0,0,1,3,5,6,1,19,5]
+"df/df3/boss__blood__queen__lana__thel_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ced87c12aae4403718d5009d4655e51":[7,0,0,0,1,3,5,6,1,19,23]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX336 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2":[7,0,0,0,1,3,5,23,43,13],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeae0627f6ad84216694a4d9c2c16fbdcd6":[7,0,0,0,1,3,5,23,43,10],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230":[7,0,0,0,1,3,5,23,43,15],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafdfdf7b225fb4eaecaafd18458a7e8e0":[7,0,0,0,1,3,5,23,43,4],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaff4432512403a338fbc9bab0fcbd6428":[7,0,0,0,1,3,5,23,43,34],
+"dd/db2/zone__storm__peaks_8cpp.html#a36178b08160d5717735f19eda88aa085":[7,0,0,0,1,3,5,23,31],
 "dd/db2/zone__storm__peaks_8cpp.html#a36178b08160d5717735f19eda88aa085a00e22ffca5dc82706eccd3a85838bcdd":[7,0,0,0,1,3,5,23,31,0],
 "dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01":[7,0,0,0,1,3,5,23,32],
 "dd/db2/zone__storm__peaks_8cpp.html#a3c3daa7deb54b462a75f105c0baebd01a3be68ebd35e3687a852a433899580628":[7,0,0,0,1,3,5,23,32,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#a98cf5d8aded78694117af64ccdb6cd83":[6,0,447,0,4],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#ab87dfcf635a65b02be29186d2990fef3":[6,0,447,0,5],
 "dd/dc4/structboss__epoch_1_1boss__epochAI.html#ae742dceac5979faebb58a133e9bd91f0":[6,0,447,0,2],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#af0c1477b3d9fb48cfcf55f32e21591f4":[6,0,447,0,7],
-"dd/dc4/structboss__epoch_1_1boss__epochAI.html#af41946feab7b86d812f706bd7abbf1bd":[6,0,447,0,3],
-"dd/dc5/classgo__orb__of__domination.html":[6,0,1166],
-"dd/dc5/classgo__orb__of__domination.html#a1d4659e21344a12ec6084ef7ef5df7d0":[6,0,1166,0],
-"dd/dc5/classgo__orb__of__domination.html#aa88cebf1bd539b55cf63f10a25cc1bbb":[6,0,1166,1],
-"dd/dc5/structnpc__doomfire__spirit.html":[6,0,1754],
-"dd/dc5/structnpc__doomfire__spirit.html#a0600718fad91723eba74b903583c5942":[6,0,1754,1]
+"dd/dc4/structboss__epoch_1_1boss__epochAI.html#af0c1477b3d9fb48cfcf55f32e21591f4":[6,0,447,0,7]
 };
