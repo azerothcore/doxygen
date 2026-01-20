@@ -4,10 +4,6 @@ var zone__zuldrak_8cpp =
     [ "npc_finklestein::npc_finklesteinAI", "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI.html", "df/d6a/structnpc__finklestein_1_1npc__finklesteinAI" ],
     [ "go_finklestein_cauldron", "d2/d9d/classgo__finklestein__cauldron.html", "d2/d9d/classgo__finklestein__cauldron" ],
     [ "npc_overlord_drakuru_betrayal", "d2/dfd/structnpc__overlord__drakuru__betrayal.html", "d2/dfd/structnpc__overlord__drakuru__betrayal" ],
-    [ "npc_drakuru_shackles", "db/dfa/classnpc__drakuru__shackles.html", "db/dfa/classnpc__drakuru__shackles" ],
-    [ "npc_drakuru_shackles::npc_drakuru_shacklesAI", "da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI.html", "da/d1b/structnpc__drakuru__shackles_1_1npc__drakuru__shacklesAI" ],
-    [ "npc_captured_rageclaw", "d0/d31/classnpc__captured__rageclaw.html", "d0/d31/classnpc__captured__rageclaw" ],
-    [ "npc_captured_rageclaw::npc_captured_rageclawAI", "d6/de3/structnpc__captured__rageclaw_1_1npc__captured__rageclawAI.html", "d6/de3/structnpc__captured__rageclaw_1_1npc__captured__rageclawAI" ],
     [ "npc_released_offspring_harkoa", "de/d11/classnpc__released__offspring__harkoa.html", "de/d11/classnpc__released__offspring__harkoa" ],
     [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "d7/dd4/structnpc__released__offspring__harkoa_1_1npc__released__offspring__harkoaAI.html", "d7/dd4/structnpc__released__offspring__harkoa_1_1npc__released__offspring__harkoaAI" ],
     [ "npc_crusade_recruit", "d1/dce/classnpc__crusade__recruit.html", "d1/dce/classnpc__crusade__recruit" ],
@@ -33,14 +29,6 @@ var zone__zuldrak_8cpp =
     [ "CrusadeRecruitEvents", "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639", [
       [ "EVENT_RECRUIT_1", "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639a0c41667591b38b074a96c3f2638f8efc", null ],
       [ "EVENT_RECRUIT_2", "d7/d1f/zone__zuldrak_8cpp.html#a7f62c9bdaea8d61503062d10b017e639a7bf6caa350b5f312ea893bd9cb9c9b46", null ]
-    ] ],
-    [ "DrakuruShackles", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468e", [
-      [ "NPC_RAGECLAW", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468eae5a7cc3995ea1ec6bf0e6b10cf88b42c", null ],
-      [ "QUEST_TROLLS_IS_GONE_CRAZY", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468ead865536461e82af4c716fcc6b05bca0d", null ],
-      [ "SPELL_LEFT_CHAIN", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468ea9ca1c028e4b4efb8f1b64fdb1aa9458f", null ],
-      [ "SPELL_RIGHT_CHAIN", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468ea78a87217309119207f5733d5b75c1bf1", null ],
-      [ "SPELL_UNLOCK_SHACKLE", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468ea38d299dfaf2a1a9d3796e60bc5792e51", null ],
-      [ "SPELL_FREE_RAGECLAW", "d7/d1f/zone__zuldrak_8cpp.html#ae1b47c6bf1ad1b8dc31220da558d468eaa4c76adb98fdd5265f5e156cdeb0dcf2", null ]
     ] ],
     [ "OverlordDrakuru", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225", [
       [ "SPELL_SHADOW_BOLT", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a8872edea8a2ac8c4e895c975482b9413", null ],
@@ -102,11 +90,6 @@ var zone__zuldrak_8cpp =
       [ "SAY_LICH_10", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ab2f216d476c5cdb1914c8ac8a18949e0", null ],
       [ "SAY_LICH_11", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a45e64fe5da4a3306688af0164b823b74", null ],
       [ "SAY_LICH_12", "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225a36a853c7970596f9e263a0e7fbf1e825", null ]
-    ] ],
-    [ "Rageclaw", "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0", [
-      [ "SPELL_UNSHACKLED", "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0ad15cf346316f00def5a6d78f5638792d", null ],
-      [ "SPELL_KNEEL", "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a3e829100c4eeade92ad79a2108141370", null ],
-      [ "SAY_RAGECLAW", "d7/d1f/zone__zuldrak_8cpp.html#a0ff9ed580599c0c850f7d53d6432fce0a7a8a42222a1947cf47ee480ab22d0c4f", null ]
     ] ],
     [ "ScourgeDisguiseInstability", "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69", [
       [ "SCOURGE_DISGUISE_FAILING_MESSAGE_1", "d7/d1f/zone__zuldrak_8cpp.html#acea5346ffad736c0f80b61ad8c885f69a0414afd740fe68ee4ce74105ed220709", null ],

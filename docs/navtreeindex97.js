@@ -1,8 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa8bc9c8115881f3b0f52cec8469b7dfa":[7,0,0,0,1,2,48,7,0,208],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa8c0ca354a3782788289ca887f16e5a5":[7,0,0,0,1,2,48,7,0,242],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa9096d7f27a7dcede122c62612720105":[7,0,0,0,1,2,48,7,0,405],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaa608be1e619e8ad3d1cac93450714db":[7,0,0,0,1,2,48,7,0,385],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baaba70b2e239f259c0e4f1a3c2f596c81":[7,0,0,0,1,2,48,7,0,92],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baac250dd6ccea4f3c0bef1a7539fc7362":[7,0,0,0,1,2,48,7,0,309],
@@ -163,11 +160,11 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3446],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3446,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3446,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3446,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3446,3],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3444],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3444,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3444,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3444,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3444,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
@@ -248,6 +245,9 @@ var NAVTREEINDEX97 =
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,4,4,0,3,22],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefaf7eb173124f0544f46b73f8f3283c":[7,0,0,0,1,3,4,4,0,3,12],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af147d22ea700cc3c2dbe3b535ddc83e2":[7,0,0,0,1,3,4,4,0,3,19],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html":[6,0,2659],
-"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a1e62c60bfc2b72811950b627ce1202c3":[6,0,2659,1]
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html":[6,0,2657],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a1e62c60bfc2b72811950b627ce1202c3":[6,0,2657,1],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a30ec063aa1ddbc3a32066e1f868bf742":[6,0,2657,0],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a3f98767367564734c9877d1870aac31b":[6,0,2657,2],
+"d3/d4a/classspell__black__temple__shadow__inferno__aura.html#a450460769e0e54e06f1b64b3c63ba0de":[6,0,2657,3]
 };
