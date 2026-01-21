@@ -1,5 +1,11 @@
 var NAVTREEINDEX179 =
 {
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
+"d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
+"d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
+"d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
 "d6/dba/CombatAI_8h.html#aef8ccdd14344d9c395d613c21bafd91e":[7,0,0,0,1,2,3,0,1,8],
 "d6/dba/classinstance__azjol__nerub.html":[6,0,1293],
 "d6/dba/classinstance__azjol__nerub.html#a61476a0d15136d2bdb3a65eca72963da":[6,0,1293,1],
@@ -193,8 +199,8 @@ var NAVTREEINDEX179 =
 "d6/dc2/classFileLoader.html":[6,0,1044],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1044,1],
 "d6/dc2/classFileLoader.html#a0954776182dd01364bdb216539ce398b":[6,0,1044,3],
-"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1044,10],
 "d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1044,11],
+"d6/dc2/classFileLoader.html#a11908109042f93ddde393e7a874683c9":[6,0,1044,10],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1044,8],
 "d6/dc2/classFileLoader.html#a2a07adb0692a51af06ccd31d449ae444":[6,0,1044,9],
 "d6/dc2/classFileLoader.html#a355891fc980538e74080b9b83a95dec8":[6,0,1044,15],
@@ -237,17 +243,11 @@ var NAVTREEINDEX179 =
 "d6/dc6/classitem__mysterious__egg.html":[6,0,1384],
 "d6/dc6/classitem__mysterious__egg.html#a5ea72284626826b75819f89b3b91c540":[6,0,1384,1],
 "d6/dc6/classitem__mysterious__egg.html#ac32e296dcb700f32f6d0296f2921e6c7":[6,0,1384,0],
-"d6/dc7/classAcore_1_1GeneralLock.html":[6,0,0,61],
 "d6/dc7/classAcore_1_1GeneralLock.html":[5,0,1,73],
-"d6/dc7/classAcore_1_1GeneralLock.html#a455c73434c26cac8bf9761900d648589":[6,0,0,61,1],
+"d6/dc7/classAcore_1_1GeneralLock.html":[6,0,0,61],
 "d6/dc7/classAcore_1_1GeneralLock.html#a455c73434c26cac8bf9761900d648589":[5,0,1,73,1],
-"d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[6,0,0,61,4],
+"d6/dc7/classAcore_1_1GeneralLock.html#a455c73434c26cac8bf9761900d648589":[6,0,0,61,1],
 "d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[5,0,1,73,4],
-"d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[6,0,0,61,3],
-"d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[5,0,1,73,3],
-"d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[5,0,1,73,0],
-"d6/dc7/classAcore_1_1GeneralLock.html#ad0fac66b181e166108c871274bce7a93":[6,0,0,61,0],
-"d6/dc7/classAcore_1_1GeneralLock.html#aecc7bf4d8ac0c4bc16a89a16e196330c":[6,0,0,61,2],
-"d6/dc7/classAcore_1_1GeneralLock.html#aecc7bf4d8ac0c4bc16a89a16e196330c":[5,0,1,73,2],
-"d6/dc7/classCreatureGroup.html":[6,0,930]
+"d6/dc7/classAcore_1_1GeneralLock.html#a80b98e278d3afb1867ff5f159eda5055":[6,0,0,61,4],
+"d6/dc7/classAcore_1_1GeneralLock.html#a876a9be3c642991811028892bcae42c4":[5,0,1,73,3]
 };

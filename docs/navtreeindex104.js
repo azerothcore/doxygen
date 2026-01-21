@@ -1,5 +1,11 @@
 var NAVTREEINDEX104 =
 {
+"d3/d93/classPathGenerator.html#afc0a10ab4af035f3cfc0467db1c914ca":[6,0,2383,13],
+"d3/d93/classPathGenerator.html#afc9209b94640352866c5602863000618":[6,0,2383,45],
+"d3/d93/classPathGenerator.html#afe543b19501d90d837f99829a5cd7cfe":[6,0,2383,8],
+"d3/d96/classspell__rotface__mutated__infection.html":[6,0,3780],
+"d3/d96/classspell__rotface__mutated__infection.html#a0cd63fa27a1ee853c5d73c766d1c4de6":[6,0,3780,3],
+"d3/d96/classspell__rotface__mutated__infection.html#a10c85fd3909e56f457d73add8021c0b7":[6,0,3780,6],
 "d3/d96/classspell__rotface__mutated__infection.html#a5d3df9715d04ea4b663b061c7c02ae03":[6,0,3780,5],
 "d3/d96/classspell__rotface__mutated__infection.html#a618e98fbd5c6ae21047cc4f911099730":[6,0,3780,2],
 "d3/d96/classspell__rotface__mutated__infection.html#ae72a470c87f7d90e4bd635e239d09f9b":[6,0,3780,4],
@@ -209,8 +215,8 @@ var NAVTREEINDEX104 =
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html":[5,0,1,41],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[6,0,0,29,0],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a038f512c564e4ae18571ac1836897edb":[5,0,1,41,0],
-"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,41,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[6,0,0,29,2],
+"d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6":[5,0,1,41,2],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[5,0,1,41,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a3bc09bf6fc4481c67190f57dc4198f6e":[6,0,0,29,1],
 "d3/d9e/classAcore_1_1AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck.html#a953943e53e25b6887bfab8cc1c19620a":[5,0,1,41,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX104 =
 "d3/d9f/classspell__eadric__radiance.html#a5ede43deece629a38f5482280983b59a":[6,0,2863,1],
 "d3/d9f/classspell__eadric__radiance.html#a79d34d7e517b27e44c6a91d6056dfec7":[6,0,2863,0],
 "d3/d9f/classspell__eadric__radiance.html#aec3d0ed996e9cbfed9fb78c5f16e254f":[6,0,2863,2],
-"d3/d9f/structboss__talon__king__ikiss.html":[6,0,723],
-"d3/d9f/structboss__talon__king__ikiss.html#a325312ce6695435fcca701720434c64f":[6,0,723,2],
-"d3/d9f/structboss__talon__king__ikiss.html#a3e9e3a8575dbf21262ba2b4226182373":[6,0,723,6],
-"d3/d9f/structboss__talon__king__ikiss.html#ab13808b75b1ca79b856e5b2e64e67d89":[6,0,723,4],
-"d3/d9f/structboss__talon__king__ikiss.html#acf8cbda5f7a33c026bfc0d6e7b31f43c":[6,0,723,0],
-"d3/d9f/structboss__talon__king__ikiss.html#ada1d993842d04453d6afad91e186a3fe":[6,0,723,1],
-"d3/d9f/structboss__talon__king__ikiss.html#adcb1dca375ec548499da5a7690babc21":[6,0,723,5]
+"d3/d9f/structboss__talon__king__ikiss.html":[6,0,723]
 };

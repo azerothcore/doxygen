@@ -1,5 +1,7 @@
 var NAVTREEINDEX33 =
 {
+"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#aa28714ce9ac251fe7c3bdec17b47deb3":[6,0,2887,1],
+"d1/d56/classspell__felmyst__open__brutallus__back__doors.html#ac7f7287b88cde82fbf8a625f002c86fa":[6,0,2887,0],
 "d1/d56/classspell__felmyst__open__brutallus__back__doors.html#aecfa38940ea3dd287179bdef3d290487":[6,0,2887,2],
 "d1/d56/classspell__igb__explosion.html":[6,0,3185],
 "d1/d56/classspell__igb__explosion.html#a4878ffa30feb16e98d3945f8a6e3c863":[6,0,3185,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d61/structCreatureTemplate.html#afcb636bae580e98ef260933a91e189f5":[6,0,939,26],
 "d1/d61/structCreatureTemplate.html#aff9648360326d0c586950f8c2c85f602":[6,0,939,56],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html":[6,0,738,0],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a195f7ab96331de6d2f796a9c38369db1":[6,0,738,0,11],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1afbac26b0cbf212b787cd53d1eb9a7d":[6,0,738,0,9],
-"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1fb667c0d156b858f4e2fe33bd9e9b53":[6,0,738,0,27]
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a195f7ab96331de6d2f796a9c38369db1":[6,0,738,0,11]
 };

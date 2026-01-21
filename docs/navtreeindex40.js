@@ -1,5 +1,7 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3":[7,0,0,0,1,2,16,10,5,43],
+"d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a022f5277968992c4fef911f834626cc3":[7,0,0,0,1,2,16,10,5,43,7],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a0c4e7fa93960abd05d20dad8a73adc85":[7,0,0,0,1,2,16,10,5,43,4],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a11b1ed73bb6e0983b659d158449e49e6":[7,0,0,0,1,2,16,10,5,43,8],
 "d1/daf/Unit_8h.html#a4f13e19b0b93a3a4dde752b929d38dc3a132d3d38beb2c1ba29ccc90c9a2d66f9":[7,0,0,0,1,2,16,10,5,43,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX40 =
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#aa00ff56a5a906e97ddf4d10d300c85c4":[6,0,1859,0,13],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0":[6,0,1859,0,3],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#ad7d3755e7b13c4b37d56f14746acc1e1":[6,0,1859,0,15],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#add68894964681b8345c3751510f7e48c":[6,0,1859,0,10],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#addacaa0e3ba686d9cb343689c56fc4b5":[6,0,1859,0,1],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9":[6,0,1859,0,12]
+"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#add68894964681b8345c3751510f7e48c":[6,0,1859,0,10]
 };

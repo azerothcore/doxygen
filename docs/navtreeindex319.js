@@ -1,5 +1,12 @@
 var NAVTREEINDEX319 =
 {
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8":[7,0,0,0,1,3,3,1,32],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a0eadd178341893fb53ddcc9d835b191f":[7,0,0,0,1,3,3,1,32,2],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a12b83bc54e5cd1250dc5c24578af5c68":[7,0,0,0,1,3,3,1,32,0],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a3365c4940364c71cdecd3455f1fcaaa9":[7,0,0,0,1,3,3,1,32,7],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a4288e74f4fd3978d4af9ada35238fd81":[7,0,0,0,1,3,3,1,32,6],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a7eddef42bae072663cd19ff05c32e720":[7,0,0,0,1,3,3,1,32,3],
+"dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8814a55a3046f8d5b12ae92edad188e6":[7,0,0,0,1,3,3,1,32,5],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a8f4df5b3207fedb818a208651ce87de9":[7,0,0,0,1,3,3,1,32,4],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a95f5bd27925c7cac826ae1065091f3f3":[7,0,0,0,1,3,3,1,32,8],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8ab009f6e52ebbe43a5f354ac86cba2540":[7,0,0,0,1,3,3,1,32,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX319 =
 "dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
 "dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
 "dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2],
-"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4],
-"dc/dee/SpellMgr_8cpp.html#af0dec25ac7c118b67a71a0356eb37877":[7,0,0,0,1,2,41,8,0],
-"dc/dee/classspell__gen__grow__flower__patch.html":[6,0,2981],
-"dc/dee/classspell__gen__grow__flower__patch.html#a41169895bb29fe136e3fb0c2dd50d9fb":[6,0,2981,0],
-"dc/dee/classspell__gen__grow__flower__patch.html#ab6a32b26cc0277f71a71b9fd1d567bf1":[6,0,2981,1],
-"dc/def/GroupRefMgr_8h.html":[7,0,0,0,1,2,20,6],
-"dc/def/structboss__mechano__lord__capacitus.html":[6,0,619],
-"dc/def/structboss__mechano__lord__capacitus.html#a4aa9ee50a942fe123acfdeee0350fa2d":[6,0,619,2]
+"dc/dee/SpellMgr_8cpp.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,8,4]
 };

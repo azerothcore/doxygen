@@ -25,6 +25,7 @@ var nexus_8h =
       [ "NPC_HORDE_CLERIC", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54da58336a1a1f4d7eaddbac94a5c13c8724", null ],
       [ "NPC_COMMANDER_STOUTBEARD", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54da568a2459d3a7841412df12615c767067", null ],
       [ "NPC_COMMANDER_KOLURG", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54da0425e79c992c887c8b446fadf58d5c75", null ],
+      [ "NPC_CRYSTALLINE_FRAYER", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54da25a74c141f8865232513b4b4e5325ce1", null ],
       [ "GO_TELESTRA_SPHERE", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54da089f33ffb46bc05ba1c96f5a35945ee2", null ],
       [ "GO_ANOMALUS_SPHERE", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54da5cb804bef6d740c87c8d774813209b30", null ],
       [ "GO_ORMOROK_SPHERE", "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54daf5b0aa3e69e1cde75a96eea26041c666", null ]

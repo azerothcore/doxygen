@@ -1,5 +1,11 @@
 var NAVTREEINDEX203 =
 {
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ac8a2297a89310f4902fdc544ef71b673":[6,0,573,0,6],
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#acd08aa78c1620f5552bbbc77c06b4344":[6,0,573,0,2],
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ad60ec485144e447fd9d43b0cd5d6c87c":[6,0,573,0,9],
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#addeb3112e8b6da5713e6c25878c7e785":[6,0,573,0,0],
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#ae6e2b0dd529f819b5b62348059dacb02":[6,0,573,0,1],
+"d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#aedfaf037ddf66d0e3aa990b4ea5b171c":[6,0,573,0,5],
 "d7/db2/structboss__kelthuzad__minion_1_1boss__kelthuzad__minionAI.html#aee871ff356bcfd38162a5f6c9bd3c994":[6,0,573,0,7],
 "d7/db3/structboss__olm__the__summoner.html":[6,0,647],
 "d7/db3/structboss__olm__the__summoner.html#a07cde4fc7bc882db40b51426dc40ab93":[6,0,647,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a60f0992dfc3c54692268e86ed4a66d4a":[7,0,0,0,1,3,5,2,1,4,15,4],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a743d8c8918157d267b1d561ef96bd37a":[7,0,0,0,1,3,5,2,1,4,15,2],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad8ce3f4de5ecaa5762ee8b55570503a4":[7,0,0,0,1,3,5,2,1,4,15,6],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,2,1,4,15,7],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae1af0b90925faa94026f02e3322dff5d":[7,0,0,0,1,3,5,2,1,4,15,5],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af30a7c83908023513ec50a5bd4da3833":[7,0,0,0,1,3,5,2,1,4,15,3],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844":[7,0,0,0,1,3,5,2,1,4,14],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a1628fb0c56457783cf8b51260c089a77":[7,0,0,0,1,3,5,2,1,4,14,7],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a193348b3273527e6365624c1dea600e8":[7,0,0,0,1,3,5,2,1,4,14,8],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a9bda0503dd65e2db0a293e5155db6844a26f1eaa976bf1028e1ffdb9c81604e43":[7,0,0,0,1,3,5,2,1,4,14,17]
+"d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,2,1,4,15,7]
 };

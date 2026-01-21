@@ -1,5 +1,11 @@
 var NAVTREEINDEX157 =
 {
+"d5/dd6/structCreatureDisplayInfoEntry.html#a174d6f73393e6dcfeecf487fc09c2e6f":[6,0,927,1],
+"d5/dd6/structCreatureDisplayInfoEntry.html#ada31381a4ee360e2fcb68403bc6d14e5":[6,0,927,2],
+"d5/dd6/structCreatureDisplayInfoEntry.html#adc5aee11b1e27752576b0b98156d3b3c":[6,0,927,0],
+"d5/dd6/structCreatureDisplayInfoEntry.html#ae15b89669bf5d711cc57c21d8c8be0dd":[6,0,927,3],
+"d5/dd7/classspell__blight__fog.html":[6,0,2664],
+"d5/dd7/classspell__blight__fog.html#a4d81860c41daab44851da605d38b4753":[6,0,2664,0],
 "d5/dd7/classspell__blight__fog.html#a80baaf9b470d7bd5e91dffb3f0442a57":[6,0,2664,2],
 "d5/dd7/classspell__blight__fog.html#a99a7b95b1cf5835aeebe85f398f6e9a4":[6,0,2664,1],
 "d5/dd7/classspell__item__mercurial__shield.html":[6,0,3295],
@@ -243,11 +249,5 @@ var NAVTREEINDEX157 =
 "d5/de6/structAreaBoundary_1_1DoublePosition.html#a543ff52f7b278f68cc36ee880932e744":[6,0,162,0,2],
 "d5/de6/structAreaBoundary_1_1DoublePosition.html#a59190a2456f052c6ffa6e181ced94a4f":[6,0,162,0,0],
 "d5/de6/structAreaBoundary_1_1DoublePosition.html#a75e75187d6663591a39c87bc1086aebd":[6,0,162,0,7],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a7c769d1762f99150a46ceaa2b2bfa8e8":[6,0,162,0,4],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a90839893f3a58a72a07177d3eee1d691":[6,0,162,0,9],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#a9900e06c36c6ebc4edd0ba45264990b8":[6,0,162,0,1],
-"d5/de6/structAreaBoundary_1_1DoublePosition.html#ae17b4e695ff23a8ec323405801f2013a":[6,0,162,0,3],
-"d5/de7/classinstance__steam__vault.html":[6,0,1342],
-"d5/de7/classinstance__steam__vault.html#a3a2edb84cc7067d3c8fa2151b4763c5a":[6,0,1342,2],
-"d5/de7/classinstance__steam__vault.html#aa3417083841ccb50c8a2f29ba343e115":[6,0,1342,1]
+"d5/de6/structAreaBoundary_1_1DoublePosition.html#a7c769d1762f99150a46ceaa2b2bfa8e8":[6,0,162,0,4]
 };

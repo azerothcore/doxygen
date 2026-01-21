@@ -1,5 +1,11 @@
 var NAVTREEINDEX267 =
 {
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#afee12f6bf5d4ede28fa45c1e7be43a16":[6,0,807,0,14],
+"da/dbf/Player_8h.html":[7,0,0,0,1,2,16,7,5],
+"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6":[7,0,0,0,1,2,16,7,5,110],
+"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6a09e4ad317ccb138b643393069d1cd1ea":[7,0,0,0,1,2,16,7,5,110,10],
+"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6a11c55883564b2e07ad509d554f77762e":[7,0,0,0,1,2,16,7,5,110,4],
+"da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6a70fc08e609917c4e5d58b7a2d55db1cc":[7,0,0,0,1,2,16,7,5,110,1],
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6aa30ffd7492e09918ba36877b89ec418e":[7,0,0,0,1,2,16,7,5,110,5],
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6aa3d02e6db3fa69e2b6bf5b65a7bfb4a8":[7,0,0,0,1,2,16,7,5,110,3],
 "da/dbf/Player_8h.html#a00eb82cc89fc1cd7281f54868c48c2f6abbcf01a6e62e367511dcdadd25d0aabf":[7,0,0,0,1,2,16,7,5,110,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX267 =
 "da/dbf/Player_8h.html#a8b548b9b50daac698d7c2900ce310aa4":[7,0,0,0,1,2,16,7,5,33],
 "da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167":[7,0,0,0,1,2,16,7,5,90],
 "da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a484b0fa66e46fb264b6373b6bf5e9e20":[7,0,0,0,1,2,16,7,5,90,2],
-"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a4ce27fd088caf2063c85464cace1dd4d":[7,0,0,0,1,2,16,7,5,90,0],
-"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a8b2e56a615bc771de8c15d9d17d2867d":[7,0,0,0,1,2,16,7,5,90,3],
-"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167ab287d75d988f8f669f28195600800d13":[7,0,0,0,1,2,16,7,5,90,1],
-"da/dbf/Player_8h.html#a8db93a42b48c6f627796a8ef38bbd2f2":[7,0,0,0,1,2,16,7,5,88],
-"da/dbf/Player_8h.html#a8db93a42b48c6f627796a8ef38bbd2f2aa69f68ed66e52b3fb5f86cb25dee7546":[7,0,0,0,1,2,16,7,5,88,0],
-"da/dbf/Player_8h.html#a8db93a42b48c6f627796a8ef38bbd2f2ae712bb7256b4aa6cced2a2a05fbe1fbe":[7,0,0,0,1,2,16,7,5,88,1],
-"da/dbf/Player_8h.html#a91f270ec47485639c39c9cbe9ddd04f5":[7,0,0,0,1,2,16,7,5,42]
+"da/dbf/Player_8h.html#a8d589ad9d1711f4ebe892105f6a1c167a4ce27fd088caf2063c85464cace1dd4d":[7,0,0,0,1,2,16,7,5,90,0]
 };

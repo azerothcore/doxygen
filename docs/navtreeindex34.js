@@ -1,5 +1,7 @@
 var NAVTREEINDEX34 =
 {
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1afbac26b0cbf212b787cd53d1eb9a7d":[6,0,738,0,9],
+"d1/d61/structboss__thorim_1_1boss__thorimAI.html#a1fb667c0d156b858f4e2fe33bd9e9b53":[6,0,738,0,27],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2097076ffb06a32b1322317de7ae66d7":[6,0,738,0,19],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a2702ed6dd323b882551754384f3696c9":[6,0,738,0,7],
 "d1/d61/structboss__thorim_1_1boss__thorimAI.html#a3eeb123a7b4756252b31c2e85b027080":[6,0,738,0,15],
@@ -32,10 +34,10 @@ var NAVTREEINDEX34 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[6,0,2052,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[6,0,2052,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2052,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,12,14,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,32,14,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,14,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,12,14,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,32,14,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,14,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,32,14,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,14,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,12,14,1,2],
@@ -60,12 +62,12 @@ var NAVTREEINDEX34 =
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[6,0,204,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,88],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d68/classspell__ignis__scorch__aura.html#aed86a298340cc05fbe2a8a68396423bb":[6,0,3199,2],
 "d1/d68/classspell__mage__burnout.html":[6,0,3428],
 "d1/d68/classspell__mage__burnout.html#a3d3db432fb051785f51ece4052ec8907":[6,0,3428,1],
-"d1/d68/classspell__mage__burnout.html#a4f8e030154606e0781ebb89294019e0e":[6,0,3428,0],
-"d1/d68/classspell__mage__burnout.html#a8cfdc8d98946fca603971ad91035e21c":[6,0,3428,3],
-"d1/d68/classspell__mage__burnout.html#abfd3c0ad08ad287b38e8da437c18376c":[6,0,3428,4]
+"d1/d68/classspell__mage__burnout.html#a4f8e030154606e0781ebb89294019e0e":[6,0,3428,0]
 };

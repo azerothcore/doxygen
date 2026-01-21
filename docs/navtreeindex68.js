@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#acbfd05bbbae2f5b8a6fa2ee8bc440498":[6,0,739,0,3],
+"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#aef980c0fe0c50beca167ea0ef46ff0c7":[6,0,739,0,5],
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#afff251a2cc56b7ce686a5b58c196c16c":[6,0,739,0,7],
 "d2/d80/classSmartTrigger.html":[6,0,2576],
 "d2/d80/classSmartTrigger.html#a713066a301e22e7744b3f82a1ca134ed":[6,0,2576,1],
@@ -117,10 +119,10 @@ var NAVTREEINDEX68 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2105],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a74eccf67e40bafa675f090644ff1d395":[6,0,2526,24],
 "d2/d8f/structScriptInfo.html#a7c105b35f29e81929fbde6100a11ed77":[6,0,2526,50],
 "d2/d8f/structScriptInfo.html#a7cdff6a71fd1e7dd5830f0fdd08c7462":[6,0,2526,6],
-"d2/d8f/structScriptInfo.html#a7ea9ceb93b8217898f2c91dd685b3271":[6,0,2526,72],
-"d2/d8f/structScriptInfo.html#a81ca402939ee7cd7a1a1bf375fe3e6fc":[6,0,2526,14],
-"d2/d8f/structScriptInfo.html#a86eb75e36f4e997a03ecfea3aebc389c":[6,0,2526,46]
+"d2/d8f/structScriptInfo.html#a7ea9ceb93b8217898f2c91dd685b3271":[6,0,2526,72]
 };

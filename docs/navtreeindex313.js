@@ -1,5 +1,12 @@
 var NAVTREEINDEX313 =
 {
+"dc/d8f/TypeList_8h.html#a7a156c571ab21a16b0495e1c882a07fa":[7,0,0,0,0,6,8,4],
+"dc/d8f/TypeList_8h.html#aad5d9b3c82c8503c85c625acd41c0a2f":[7,0,0,0,0,6,8,5],
+"dc/d8f/TypeList_8h.html#ac6f3277dcaade98ceeaa5c0e1c454816":[7,0,0,0,0,6,8,6],
+"dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html":[6,0,2074,0],
+"dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html#a466ec20c65535777c60b5c4aac4e45bd":[6,0,2074,0,1],
+"dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html#a62bde5a122748564cc806046bf9dcbaa":[6,0,2074,0,3],
+"dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html#a7fb4b6e26dd2fe66fb3e444c260999a6":[6,0,2074,0,0],
 "dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html#a8f6c5b873756a58760b2861bc8b86804":[6,0,2074,0,4],
 "dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html#ac4df0c9b8be03ce4e45fbb4efcad6892":[6,0,2074,0,6],
 "dc/d8f/structnpc__rabid__thistle__bear_1_1npc__rabid__thistle__bearAI.html#ad3852bf4588c453642e75fcdc544767b":[6,0,2074,0,5],
@@ -65,8 +72,8 @@ var NAVTREEINDEX313 =
 "dc/d95/classnpc__khunok__the__behemoth.html#a201aa35dd119d23126b192a1e3786c09":[6,0,1915,2],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[6,0,0,75],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html":[5,0,1,87],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[6,0,0,75,3],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a0ba09da942c48e523c278cff0e0a4139":[5,0,1,87,3],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[6,0,0,75,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a905ea6b07b97ed23de4f4cf9946642af":[5,0,1,87,4],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#a9a085d16b30849537441f809052ac196":[6,0,0,75,2],
@@ -75,8 +82,8 @@ var NAVTREEINDEX313 =
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#aa26e19df606a366147e1db4fd1aa6eac":[6,0,0,75,1],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[6,0,0,75,5],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ab82a4b97ebb2bef047ae85404b0e3da0":[5,0,1,87,5],
-"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
 "dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[6,0,0,75,0],
+"dc/d97/classAcore_1_1NearestAssistCreatureInCreatureRangeCheck.html#ac9e380add6c9df4afc707007528c7434":[5,0,1,87,0],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html":[6,0,1628],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#a6a8843d3f24378a2fd334e773618ab72":[6,0,1628,2],
 "dc/d97/classnpc__auriaya__sanctum__sentry.html#aa275374ba3a19a2e6a8768d4f01752b2":[6,0,1628,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX313 =
 "dc/da5/classspell__item__blade__ward__enchant.html#a3b46c5dd891d856e08cbcb9a494f2dd2":[6,0,3235,2],
 "dc/da5/classspell__item__blade__ward__enchant.html#a5299aaeacead013e00e81ec7960528f8":[6,0,3235,1],
 "dc/da5/classspell__item__blade__ward__enchant.html#a9a38fab6b581e9f9b4e092d7a4ecaebd":[6,0,3235,0],
-"dc/da6/SocialMgr_8h.html":[7,0,0,0,1,2,16,7,16],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6":[7,0,0,0,1,2,16,7,16,6],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a0adc28c49b234ffab05c179e196eff3d":[7,0,0,0,1,2,16,7,16,6,11],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a0ea8886f8d39f467ec504274c4e3ad22":[7,0,0,0,1,2,16,7,16,6,16],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a1e6d34e24913928a0d022781725e06e4":[7,0,0,0,1,2,16,7,16,6,25],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d":[7,0,0,0,1,2,16,7,16,6,2],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a2a64db13f41b90cdbf9364e45607720b":[7,0,0,0,1,2,16,7,16,6,10],
-"dc/da6/SocialMgr_8h.html#a0e8e0c842aa4e8be9a854c430b3af9b6a2e8be35fe935dc75714c2f8564cc09d7":[7,0,0,0,1,2,16,7,16,6,8]
+"dc/da6/SocialMgr_8h.html":[7,0,0,0,1,2,16,7,16]
 };

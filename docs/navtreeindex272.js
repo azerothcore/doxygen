@@ -1,5 +1,11 @@
 var NAVTREEINDEX272 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a78936e290d45a26f59971acdf3e326db":[7,0,0,0,1,3,5,2,1,7,5,34],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a79b16b1b80dc9aabd701e1abe3339225":[7,0,0,0,1,3,5,2,1,7,5,51],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7a1ad637392d984f02ff67fbe6546f5c":[7,0,0,0,1,3,5,2,1,7,5,41],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7eeac286eec9c41a33ee6fea164edc8a":[7,0,0,0,1,3,5,2,1,7,5,24],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a803bbe8e3afab4a8ae6f07c85d1474d5":[7,0,0,0,1,3,5,2,1,7,5,1],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a893ac51d414d5ed988d538dcb92ae004":[7,0,0,0,1,3,5,2,1,7,5,15],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a91c7c69d737d89cd9aa67e39672f6488":[7,0,0,0,1,3,5,2,1,7,5,43],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a9828fff074d684799053540d3a081178":[7,0,0,0,1,3,5,2,1,7,5,37],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a9b8f6fab540954668dbf0d2719c633b5":[7,0,0,0,1,3,5,2,1,7,5,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX272 =
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,1,2,3],
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a150e396f9798bfba68078c51afc82d40":[7,0,0,0,1,3,2,1,1,2,3,2],
 "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23d93f48d54ba45b0e91f20df0298e10":[7,0,0,0,1,3,2,1,1,2,3,4],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[7,0,0,0,1,3,2,1,1,2,3,3],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a99f59fc0058563b6178b14c663679117":[7,0,0,0,1,3,2,1,1,2,3,5],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9aa9c001a4541da0eaf140717036011d":[7,0,0,0,1,3,2,1,1,2,3,1],
-"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab28d9ce795ccb359d797710d2b95bc7b":[7,0,0,0,1,3,2,1,1,2,3,0],
-"da/df2/classspell__warl__ritual__of__summoning.html":[6,0,4022],
-"da/df2/classspell__warl__ritual__of__summoning.html#a1fb9a924ddba358d6d67943c5b2ffa24":[6,0,4022,1],
-"da/df2/classspell__warl__ritual__of__summoning.html#a703b21a93ba41211ac6e6ee182eecb8b":[6,0,4022,2]
+"da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7d45922cb60c655867a4c5830916465e":[7,0,0,0,1,3,2,1,1,2,3,3]
 };

@@ -1,15 +1,21 @@
 var NAVTREEINDEX283 =
 {
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[6,0,0,73,1],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[5,0,1,85,1],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[6,0,0,73,2],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[5,0,1,85,2],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[6,0,0,73,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,85,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,73,4],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,73,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
 "db/d7e/classspell__gurtogg__bloodboil.html":[6,0,3078],
 "db/d7e/classspell__gurtogg__bloodboil.html#abd3fafc2120b7069790dd9822cd62adc":[6,0,3078,0],
 "db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3078,1],
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3078,2],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1162],
@@ -243,11 +249,5 @@ var NAVTREEINDEX283 =
 "db/d88/structTimeTracker.html#a2b9f585de223c1051136b10b03a27684":[6,0,4199,0],
 "db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572":[6,0,4199,3],
 "db/d88/structTimeTracker.html#a9a13002766153882150b1985a84013ad":[6,0,4199,2],
-"db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[6,0,4199,1],
-"db/d88/structTimeTracker.html#adf2e301fdefb32008f14ced5f1c37f33":[6,0,4199,5],
-"db/d88/utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,4],
-"db/d88/utgarde__keep_8cpp.html#a0a556a898032cb18eabb6df4a3f482e1":[7,0,0,0,1,3,5,10,0,4,6],
-"db/d88/utgarde__keep_8cpp.html#a1a48021562fd573e8e0e970124788afd":[7,0,0,0,1,3,5,10,0,4,7],
-"db/d88/utgarde__keep_8cpp.html#a2f05c0a81b85a72d1ba01e87e103e895":[7,0,0,0,1,3,5,10,0,4,9],
-"db/d88/utgarde__keep_8cpp.html#a3252f1bf2be160c6d8960f41e595db47":[7,0,0,0,1,3,5,10,0,4,5]
+"db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[6,0,4199,1]
 };

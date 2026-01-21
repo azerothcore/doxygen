@@ -1,5 +1,7 @@
 var NAVTREEINDEX62 =
 {
+"d2/d4b/classPlayer.html#aecedf4bca36e55c72834fb3fee16bd25":[6,0,2403,13],
+"d2/d4b/classPlayer.html#aed09a228a30e93a74502dbf210d70a11":[6,0,2403,953],
 "d2/d4b/classPlayer.html#aed37a1667fe2a31f076a9896b1649355":[6,0,2403,687],
 "d2/d4b/classPlayer.html#aed963f86ee40b8b7a91477b3961f0c6b":[6,0,2403,1017],
 "d2/d4b/classPlayer.html#aed9b0f7b0c770459355b78ba8f6c3521":[6,0,2403,594],
@@ -111,14 +113,14 @@ var NAVTREEINDEX62 =
 "d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[6,0,4163,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[6,0,12,7,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,32,7,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[6,0,12,7,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,32,7,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[6,0,12,7,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,32,7,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,32,7,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[6,0,12,7,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,32,7,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3316],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[6,0,3316,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[6,0,3316,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX62 =
 "d2/d55/classspell__igb__battle__experience__check.html#a6214f78c5c7eb3f60371fa12530d5991":[6,0,3179,2],
 "d2/d55/classspell__igb__battle__experience__check.html#a86e62fa26606a77284c80583e7b35d27":[6,0,3179,0],
 "d2/d55/structboss__nethermancer__sepethrea.html":[6,0,640],
-"d2/d55/structboss__nethermancer__sepethrea.html#a0ac9dd29b73e8734318851ffd9a09162":[6,0,640,1],
-"d2/d55/structboss__nethermancer__sepethrea.html#a2ac13176ebffa245fd9e0ba6173f30cc":[6,0,640,2],
-"d2/d55/structboss__nethermancer__sepethrea.html#a89851b9f6eb94270fe22151d3a968bec":[6,0,640,3]
+"d2/d55/structboss__nethermancer__sepethrea.html#a0ac9dd29b73e8734318851ffd9a09162":[6,0,640,1]
 };

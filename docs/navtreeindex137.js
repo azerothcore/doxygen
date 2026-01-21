@@ -1,5 +1,11 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3":[6,0,4332,187],
+"d4/dd0/classWorldObject.html#a38404ab529c99fb26e0df18eeed1417e":[6,0,4332,100],
+"d4/dd0/classWorldObject.html#a38e13040d0cb291a8028d4b79eb09102":[6,0,4332,114],
+"d4/dd0/classWorldObject.html#a3abc3a0e7301fe3285ac566edba3eb2c":[6,0,4332,53],
+"d4/dd0/classWorldObject.html#a3abde873228ce4d5af22f8e647ae8710":[6,0,4332,104],
+"d4/dd0/classWorldObject.html#a3cce686d74d3ab3890a7de391698a106":[6,0,4332,54],
 "d4/dd0/classWorldObject.html#a3d373cd0c0cb072f225ef4ed79cf5095":[6,0,4332,19],
 "d4/dd0/classWorldObject.html#a3d9faa2fc099897b31d45d4f74937d82":[6,0,4332,39],
 "d4/dd0/classWorldObject.html#a407a8530b35f6729c71bbbc2b3e4f36f":[6,0,4332,26],
@@ -243,11 +249,5 @@ var NAVTREEINDEX137 =
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab74b58a77e3c1349ed308f7febef794a":[6,0,1884,0,0],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320":[6,0,1884,0,6],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ad7f3465f5730cd9ebd42bb4092ec8e68":[6,0,1884,0,5],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb":[6,0,1884,0,8],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html":[6,0,3379],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a66db3976fe6ec7ee8712c5788ce5f3ec":[6,0,3379,0],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a768dec18bc0e879c457a64135ec27ad9":[6,0,3379,3],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#aa3053519be0101f55450d76b1291f0f7":[6,0,3379,1],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#ada596a7f19115c7178fd07fb9e956f58":[6,0,3379,2],
-"d4/dd6/classspell__warr__vigilance.html":[6,0,4059]
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb":[6,0,1884,0,8]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX142 =
 {
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea78d41c1489bfe1594e5b47b53f48dfcc":[7,0,0,0,1,2,16,7,4,2,20],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea7b52e8cea3f9c3167d92decd72098a3b":[7,0,0,0,1,2,16,7,4,2,8],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea8e36178c90ba01bda3e3cfb4f0acc26a":[7,0,0,0,1,2,16,7,4,2,16],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea93ff5e89a80da229bb8bb32c3347c1ec":[7,0,0,0,1,2,16,7,4,2,23],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deaa040a897bd55c5a2bc0cbf54fa598bc0":[7,0,0,0,1,2,16,7,4,2,21],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deab057f340ae5124c15001b623b6a394a6":[7,0,0,0,1,2,16,7,4,2,9],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deab0f9ad7514233fbaa1def50233bb8bfc":[7,0,0,0,1,2,16,7,4,2,25],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deac53c54ed596141ee95313054fc0ef3e6":[7,0,0,0,1,2,16,7,4,2,3],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6deacb51a14db555ce9a87615b0aad13ea9c":[7,0,0,0,1,2,16,7,4,2,15],
@@ -243,11 +249,5 @@ var NAVTREEINDEX142 =
 "d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html":[6,0,74],
 "d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a5d8980111e029b4c9311737f3985ab61":[6,0,74,0],
 "d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a7682a7f2f4417dcf75ec58e34e4fd6bc":[6,0,74,1],
-"d5/d26/classspell__ignis__grab__initial.html":[6,0,3198],
-"d5/d26/classspell__ignis__grab__initial.html#a3bb460d50928bd1b57566dd6a50fa5cd":[6,0,3198,3],
-"d5/d26/classspell__ignis__grab__initial.html#a6128956f1037b62fff2e6f10ec22d956":[6,0,3198,1],
-"d5/d26/classspell__ignis__grab__initial.html#a760bb60198017605111d02af98c827b1":[6,0,3198,0],
-"d5/d26/classspell__ignis__grab__initial.html#ae445c98f5543df2f45b77b6cd54d58e7":[6,0,3198,2],
-"d5/d26/structnpc__obsidian__eradicator.html":[6,0,1998],
-"d5/d26/structnpc__obsidian__eradicator.html#a1697d83e89559f047d5bab652007bb61":[6,0,1998,3]
+"d5/d26/classspell__ignis__grab__initial.html":[6,0,3198]
 };

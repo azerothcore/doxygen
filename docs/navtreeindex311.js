@@ -1,5 +1,12 @@
 var NAVTREEINDEX311 =
 {
+"dc/d78/classBattlegroundAB.html":[6,0,317],
+"dc/d78/classBattlegroundAB.html#a0a5e9c6942ab421be303e84c0a8c20c8":[6,0,317,26],
+"dc/d78/classBattlegroundAB.html#a0bbc64eabc2bd3352e04008f06efda28":[6,0,317,10],
+"dc/d78/classBattlegroundAB.html#a0fdfb00d699fd2319847f28a29b24248":[6,0,317,5],
+"dc/d78/classBattlegroundAB.html#a13790fce0a5fae587e053a41e81ef2c2":[6,0,317,19],
+"dc/d78/classBattlegroundAB.html#a15e2f3de75d65863a1a4c92a2f7d1803":[6,0,317,25],
+"dc/d78/classBattlegroundAB.html#a1c61e9b9c8dde549d52d4cf1d1a81e1e":[6,0,317,30],
 "dc/d78/classBattlegroundAB.html#a21f09f8740e7be714c1e0dc88904cddc":[6,0,317,23],
 "dc/d78/classBattlegroundAB.html#a226a840e23c3799330fe152d732b5216":[6,0,317,4],
 "dc/d78/classBattlegroundAB.html#a242fc37f9ef07c5e2b2c5c4aa9df6c89":[6,0,317,22],
@@ -208,12 +215,12 @@ var NAVTREEINDEX311 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9e":[7,0,0,0,1,2,16,5,0,1,1],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632":[7,0,0,0,1,2,16,5,0,1,1,6],
 "dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a":[7,0,0,0,1,2,16,5,0,1,1,10],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b":[7,0,0,0,1,2,16,5,0,1,1,9],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b":[7,0,0,0,1,2,16,5,0,1,1,5],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51":[7,0,0,0,1,2,16,5,0,1,1,8],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca":[7,0,0,0,1,2,16,5,0,1,1,2],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7":[7,0,0,0,1,2,16,5,0,1,1,4],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799":[7,0,0,0,1,2,16,5,0,1,1,0],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f":[7,0,0,0,1,2,16,5,0,1,1,1],
-"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1":[7,0,0,0,1,2,16,5,0,1,1,7]
+"dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b":[7,0,0,0,1,2,16,5,0,1,1,9]
 };

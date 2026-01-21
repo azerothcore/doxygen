@@ -1,5 +1,12 @@
 var NAVTREEINDEX378 =
 {
+"de/de5/classnpc__tesla.html#a00d0e2ee0a8c20ed64dd2012f244a760":[6,0,2167,2],
+"de/de5/classnpc__tesla.html#ae74ad52adbf4a160ef0c7cf97e4faea0":[6,0,2167,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html":[6,0,2710],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#a2f67291e6e4291c9d01cdbcbe04a7db7":[6,0,2710,1],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2710,2],
+"de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2710,0],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[6,0,1335,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[6,0,1335,0,1],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1abdafc284def7ab4069a17c0aeda535":[6,0,1335,0,6],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1c9c74f06b2e1db77d5e6c75e720290c":[6,0,1335,0,9],
@@ -242,12 +249,5 @@ var NAVTREEINDEX378 =
 "de/df4/cs__cache_8cpp.html#a293f65606c1750692d4046d4fe4c4adc":[7,0,0,0,1,3,0,6,1],
 "de/df5/classOutdoorPvPNA.html":[6,0,2361],
 "de/df5/classOutdoorPvPNA.html#a09369a62ec5584dd6ce5eddf7b2bb80f":[6,0,2361,8],
-"de/df5/classOutdoorPvPNA.html#a2ede6e7dc54424d9729a094557b14792":[6,0,2361,4],
-"de/df5/classOutdoorPvPNA.html#a312c5f2aaa35a9f83740c1bdd9772b9e":[6,0,2361,5],
-"de/df5/classOutdoorPvPNA.html#a4074a96974fe1b5e6d9149c8eee36e71":[6,0,2361,9],
-"de/df5/classOutdoorPvPNA.html#a49ac785929dd16bf0735b32b787763e9":[6,0,2361,1],
-"de/df5/classOutdoorPvPNA.html#a7538d64bb494644eae3cc7db03dd631f":[6,0,2361,10],
-"de/df5/classOutdoorPvPNA.html#a7bab429e723c0ac1eb2f8cd3501f13be":[6,0,2361,2],
-"de/df5/classOutdoorPvPNA.html#ab55683b771104878c69239314a9782f4":[6,0,2361,3],
-"de/df5/classOutdoorPvPNA.html#acbdae42245c71e4274296649d8d08e9e":[6,0,2361,0]
+"de/df5/classOutdoorPvPNA.html#a2ede6e7dc54424d9729a094557b14792":[6,0,2361,4]
 };

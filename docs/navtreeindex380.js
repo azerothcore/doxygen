@@ -1,10 +1,17 @@
 var NAVTREEINDEX380 =
 {
+"df/d07/boss__moira__bronzebeard_8cpp.html#ac584f2cd7455341173b85ee36a2201ee":[7,0,0,0,1,3,2,1,0,12,8],
+"df/d07/boss__moira__bronzebeard_8cpp.html#ae016ad65dd0154ffa7d59f1e2a572d21":[7,0,0,0,1,3,2,1,0,12,11],
+"df/d07/boss__moira__bronzebeard_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[7,0,0,0,1,3,2,1,0,12,5],
+"df/d07/boss__moira__bronzebeard_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[7,0,0,0,1,3,2,1,0,12,6],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[6,0,12,12,0],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html":[5,0,32,12,0],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[6,0,12,12,0,1],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a0adb3889b6bc53646cb54163f7b04a6b":[5,0,32,12,0,1],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[6,0,12,12,0,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[5,0,32,12,0,0],
-"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[5,0,32,12,0,2],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#a14bfe5f386800785ae3f4f39aea9ea83":[6,0,12,12,0,0],
 "df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[6,0,12,12,0,2],
+"df/d07/classWorldPackets_1_1Query_1_1CorpseMapPositionQuery.html#ab7edc2e1ef196f05aef9ea1c8427f877":[5,0,32,12,0,2],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html":[6,0,3496],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html#aa9f5924b3f12c666c53ddc2b9b80aeea":[6,0,3496,2],
 "df/d07/classspell__mother__shahraz__beam__periodic__aura.html#ac52a5dccc708f9ee63f3c6c92fbf15c1":[6,0,3496,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX380 =
 "df/d14/classPet.html#a235e6d5091f5923f17257ef909128039":[6,0,2389,20],
 "df/d14/classPet.html#a29db51ddfb19ca7fe27815b9cbe11f9f":[6,0,2389,88],
 "df/d14/classPet.html#a2aa7a541439129ba1e1ec73d8b444015":[6,0,2389,27],
-"df/d14/classPet.html#a2cde20d24d5fe0fb7aea2f85ea07ce9e":[6,0,2389,14],
-"df/d14/classPet.html#a2dbea061451c0aba0ed87810d5f74c2d":[6,0,2389,63],
-"df/d14/classPet.html#a31ab715e673a1dc18255dfc4f37299d6":[6,0,2389,70],
-"df/d14/classPet.html#a3c482ec7706059ac839d59cb54431671":[6,0,2389,9],
-"df/d14/classPet.html#a43a35bdd7f233f6ae5233ad55f30c641":[6,0,2389,43],
-"df/d14/classPet.html#a462dc421828060d0478ca6a3ae0a2a57":[6,0,2389,10],
-"df/d14/classPet.html#a499659ccc6308ac8353080d13aad99c8":[6,0,2389,68],
-"df/d14/classPet.html#a4bd107b7f3105fec515833b1c4a752f9":[6,0,2389,60]
+"df/d14/classPet.html#a2cde20d24d5fe0fb7aea2f85ea07ce9e":[6,0,2389,14]
 };

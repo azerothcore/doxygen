@@ -1,5 +1,7 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a81ca402939ee7cd7a1a1bf375fe3e6fc":[6,0,2526,14],
+"d2/d8f/structScriptInfo.html#a86eb75e36f4e997a03ecfea3aebc389c":[6,0,2526,46],
 "d2/d8f/structScriptInfo.html#a8b2d1002b689627ceebedfe1ead1aaa0":[6,0,2526,34],
 "d2/d8f/structScriptInfo.html#a8e7c61ffac670290464b0232430df05c":[6,0,2526,29],
 "d2/d8f/structScriptInfo.html#a8f47be670df5df4f42031aa4423e0cbe":[6,0,2526,42],
@@ -247,7 +249,5 @@ var NAVTREEINDEX69 =
 "d2/da1/structSpell_1_1GOTargetInfo.html#a619f98bf094d2667048204f733d64d0c":[6,0,2588,0,2],
 "d2/da1/structSpell_1_1GOTargetInfo.html#ab552326c0780fe62ff95b02249458492":[6,0,2588,0,3],
 "d2/da1/structSpell_1_1GOTargetInfo.html#aedfa36678be863a558ecd0ecc07cc544":[6,0,2588,0,1],
-"d2/da2/classspell__gen__ds__flush__knockback.html":[6,0,2962],
-"d2/da2/classspell__gen__ds__flush__knockback.html#a54bb0fe145f99ea484724052c8bb1227":[6,0,2962,2],
-"d2/da2/classspell__gen__ds__flush__knockback.html#a59b5637aa8a29611463fbaabc6db2bb8":[6,0,2962,1]
+"d2/da2/classspell__gen__ds__flush__knockback.html":[6,0,2962]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX298 =
 {
+"db/df2/structGossipMenuItems.html#af53a42c8d4ec23be46dfdb16abc9c4ff":[6,0,1213,13],
+"db/df2/structGossipMenuItems.html#af8af4b4c27405908482db73797cd2d49":[6,0,1213,8],
+"db/df3/classPossessedAI.html":[6,0,2441],
+"db/df3/classPossessedAI.html#a293a49d5cffd58dff103b0aacc558cde":[6,0,2441,1],
+"db/df3/classPossessedAI.html#a29bfe06f4f6f0398e3a0a385b179cdbe":[6,0,2441,0],
+"db/df3/classPossessedAI.html#a3ce62a71e3f963f0b660bc987bf85051":[6,0,2441,7],
 "db/df3/classPossessedAI.html#a7d81135d9c23cb9b9ec48b441dd050e2":[6,0,2441,5],
 "db/df3/classPossessedAI.html#a8e6d316c08dd6fba53c8ed2edab9ea34":[6,0,2441,4],
 "db/df3/classPossessedAI.html#aae94a4a6d6e67d05d18573845ecebfd7":[6,0,2441,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX298 =
 "db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0ac08f868029f6c0c348ca1a8130361792":[7,0,0,0,1,3,9,8,88,2],
 "db/dfb/spell__quest_8cpp.html#aa061c447d4bed1f11acc31746f3521b0ada26d1888bcddbd74e311cd4efbbf676":[7,0,0,0,1,3,9,8,88,3],
 "db/dfb/spell__quest_8cpp.html#aa9dd51906e2405e327ce4371100b2d77":[7,0,0,0,1,3,9,8,105],
-"db/dfb/spell__quest_8cpp.html#aa9dd51906e2405e327ce4371100b2d77a268643034cb6f453189380d76f4da940":[7,0,0,0,1,3,9,8,105,0],
-"db/dfb/spell__quest_8cpp.html#aa9dd51906e2405e327ce4371100b2d77aa1c9ac4c6e6ae499da324fce7fa0a045":[7,0,0,0,1,3,9,8,105,1],
-"db/dfb/spell__quest_8cpp.html#ab3509a0655e0668f2ad59704b04bcb39":[7,0,0,0,1,3,9,8,93],
-"db/dfb/spell__quest_8cpp.html#ab3509a0655e0668f2ad59704b04bcb39a6884a489a06c09cd4e3adc7c14f0f060":[7,0,0,0,1,3,9,8,93,1],
-"db/dfb/spell__quest_8cpp.html#ab3509a0655e0668f2ad59704b04bcb39a88649bba1bcd72b97dce48686072d1ec":[7,0,0,0,1,3,9,8,93,2],
-"db/dfb/spell__quest_8cpp.html#ab3509a0655e0668f2ad59704b04bcb39af1a426aa8de590f0852b4d5a170905d6":[7,0,0,0,1,3,9,8,93,3],
-"db/dfb/spell__quest_8cpp.html#ab3509a0655e0668f2ad59704b04bcb39af6690d7eed5b2ccd7b72777a1aacbcd9":[7,0,0,0,1,3,9,8,93,0]
+"db/dfb/spell__quest_8cpp.html#aa9dd51906e2405e327ce4371100b2d77a268643034cb6f453189380d76f4da940":[7,0,0,0,1,3,9,8,105,0]
 };

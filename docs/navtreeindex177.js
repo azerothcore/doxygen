@@ -1,5 +1,11 @@
 var NAVTREEINDEX177 =
 {
+"d6/d8b/classspell__black__knight__ghoul__claw.html":[6,0,2645],
+"d6/d8b/classspell__black__knight__ghoul__claw.html#a2d5b57bbf51aadfc3eb56f8f756d04ef":[6,0,2645,2],
+"d6/d8b/classspell__black__knight__ghoul__claw.html#a8c801b92f6e405668edae54989dd58e8":[6,0,2645,0],
+"d6/d8b/classspell__black__knight__ghoul__claw.html#abae02a74f626b890f61df551318dcc81":[6,0,2645,1],
+"d6/d8b/classspell__pos__empowered__blizzard__aura.html":[6,0,3582],
+"d6/d8b/classspell__pos__empowered__blizzard__aura.html#a370e2cbf796c1bc0a891243b61c057e1":[6,0,3582,0],
 "d6/d8b/classspell__pos__empowered__blizzard__aura.html#a5a44978cec95fef30c9ea4308bda2508":[6,0,3582,2],
 "d6/d8b/classspell__pos__empowered__blizzard__aura.html#a8b9f7d76f86f1a5abffdead3ebee694a":[6,0,3582,3],
 "d6/d8b/classspell__pos__empowered__blizzard__aura.html#ac0cb90fe9bfa7f371cc5469626ce2467":[6,0,3582,1],
@@ -81,16 +87,16 @@ var NAVTREEINDEX177 =
 "d6/d95/structGlyphPropertiesEntry.html#ae8c119bacf706916f331d3f316fb1347":[6,0,1109,1],
 "d6/d96/classDBCFile_1_1Record.html":[6,0,960,3],
 "d6/d96/classDBCFile_1_1Record.html#a25c6e7d3b28aade82eb52d41515f0427":[6,0,960,3,11],
-"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,960,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,960,3,7],
+"d6/d96/classDBCFile_1_1Record.html#a3e330e9888e740bc16d4ba173c90c8d9":[6,0,960,3,8],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,960,3,3],
 "d6/d96/classDBCFile_1_1Record.html#a3e6402dcebb5adc1becccdc2bbf39758":[6,0,960,3,4],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,960,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,960,3,0],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,960,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,960,3,12],
-"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,960,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,960,3,5],
+"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,960,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[6,0,960,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[6,0,960,3,2],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,960,3,9],
@@ -243,11 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d9b/zone__blasted__lands_8cpp.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5":[7,0,0,0,1,3,2,19,1,1],
 "d6/d9b/zone__blasted__lands_8cpp.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d":[7,0,0,0,1,3,2,19,1,0],
 "d6/d9b/zone__blasted__lands_8cpp.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc":[7,0,0,0,1,3,2,19,1,2],
-"d6/d9c/classinstance__culling__of__stratholme.html":[6,0,1301],
-"d6/d9c/classinstance__culling__of__stratholme.html#a0b07e751032e15e7fcf2f86bf29a39be":[6,0,1301,1],
-"d6/d9c/classinstance__culling__of__stratholme.html#ad8cbcb198666d44d79d6255d066c8315":[6,0,1301,2],
-"d6/d9c/classspell__gen__tournament__pennant.html":[6,0,3050],
-"d6/d9c/classspell__gen__tournament__pennant.html#a101d38f5ffb34f90ba9af4f787445f2e":[6,0,3050,2],
-"d6/d9c/classspell__gen__tournament__pennant.html#a47a4f15ab02ba3c6ac4dbfd7c4552900":[6,0,3050,1],
-"d6/d9c/classspell__gen__tournament__pennant.html#a4e2f6d414aea8ed1339ef3caa24fc17b":[6,0,3050,0]
+"d6/d9c/classinstance__culling__of__stratholme.html":[6,0,1301]
 };

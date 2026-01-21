@@ -1,5 +1,7 @@
 var NAVTREEINDEX67 =
 {
+"d2/d73/classScriptMgr.html#ad5f55dc54e0b9a423bfd2f05037a4e67":[6,0,2527,408],
+"d2/d73/classScriptMgr.html#ad6692a2ac25a7500e4d5031c7b1d368e":[6,0,2527,156],
 "d2/d73/classScriptMgr.html#ad7235f4ca0f5f08806d47e4b8dfe0c9f":[6,0,2527,137],
 "d2/d73/classScriptMgr.html#ad7c4e52aa7cb88f2188cd482e8f40c85":[6,0,2527,72],
 "d2/d73/classScriptMgr.html#ad84c12ef3faa14e72a646f85c63e4c79":[6,0,2527,342],
@@ -247,7 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#a280a68af0d6b65bc99bb9b7116b801ad":[6,0,739,0,4],
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#a75df92817fb5eafa28e5d9c33679dcf8":[6,0,739,0,0],
 "d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#ab015a6dc76067be1d51d3ce67b6a7aff":[6,0,739,0,6],
-"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#ac69a6187be136fa53c65a7eb13bf19d4":[6,0,739,0,2],
-"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#acbfd05bbbae2f5b8a6fa2ee8bc440498":[6,0,739,0,3],
-"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#aef980c0fe0c50beca167ea0ef46ff0c7":[6,0,739,0,5]
+"d2/d7e/structboss__thorim__ancient__rune__giant_1_1boss__thorim__ancient__rune__giantAI.html#ac69a6187be136fa53c65a7eb13bf19d4":[6,0,739,0,2]
 };

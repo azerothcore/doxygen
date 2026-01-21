@@ -1,5 +1,12 @@
 var NAVTREEINDEX316 =
 {
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca397012fccbcf2bdcf5ce7bd83c3c29b7":[7,0,0,0,1,3,2,16,7,14,11],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca3d8bf8576afa397124a60457a9fdfc38":[7,0,0,0,1,3,2,16,7,14,12],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,2,16,7,14,4],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca9203ecb14e14edb80a8277f5776b9799":[7,0,0,0,1,3,2,16,7,14,1],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298ca99346d181da7e06bc6c08427a2b39880":[7,0,0,0,1,3,2,16,7,14,2],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f05c94c6cfda24c63f116f4e6fca6c":[7,0,0,0,1,3,2,16,7,14,10],
+"dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,16,7,14,5],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cabd8110f8d36f579f159e45afc797b229":[7,0,0,0,1,3,2,16,7,14,6],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298cae37216ebd9a8ae2aba1d42d643f5e127":[7,0,0,0,1,3,2,16,7,14,7],
 "dc/dbc/boss__mandokir_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,2,16,7,14,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX316 =
 "dc/dd0/classWhoListCacheMgr.html#a75495cb910c6de65d60a5080248e1e25":[6,0,4308,9],
 "dc/dd0/classWhoListCacheMgr.html#a80615aa0a66ac29765f27598e605c712":[6,0,4308,6],
 "dc/dd0/classWhoListCacheMgr.html#ab8aff37f9e66aef40ccb794928bc001c":[6,0,4308,7],
-"dc/dd0/classWhoListCacheMgr.html#ae0358ae9260f929410f6518f89135161":[6,0,4308,3],
-"dc/dd0/classWhoListCacheMgr.html#ae32706d7786014e142dc1cb9ccd29d70":[6,0,4308,1],
-"dc/dd0/structMySQLType_3_01uint32_01_4.html":[6,0,1556],
-"dc/dd1/classnpc__zephyr.html":[6,0,2306],
-"dc/dd1/classnpc__zephyr.html#a31e132e80a19bb6e63787fcdf7ffd466":[6,0,2306,1],
-"dc/dd1/classnpc__zephyr.html#a3bad7bf2bd3b193960f1f53cd7d8349d":[6,0,2306,0],
-"dc/dd1/classnpc__zephyr.html#a9b1f5a0d4ba24e65dda521bc94574ad8":[6,0,2306,2],
-"dc/dd1/classspell__q10930__big__bone__worm__aura.html":[6,0,3654]
+"dc/dd0/classWhoListCacheMgr.html#ae0358ae9260f929410f6518f89135161":[6,0,4308,3]
 };

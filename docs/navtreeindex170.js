@@ -1,5 +1,11 @@
 var NAVTREEINDEX170 =
 {
+"d6/d4c/structboss__pathaleon__the__calculator.html#a899fd2e1e01ac1347e43bcb290babc5b":[6,0,658,5],
+"d6/d4c/structboss__pathaleon__the__calculator.html#ab875fb787d71eaf008b7267c81a2a4df":[6,0,658,7],
+"d6/d4c/structboss__pathaleon__the__calculator.html#abcbb5f1236ebfbec680241ae8c5cbb00":[6,0,658,1],
+"d6/d4c/structboss__pathaleon__the__calculator.html#adc48067c3656bf768c3013ff266565c0":[6,0,658,6],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html":[6,0,741,0],
+"d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a104f447cc52c285d59653a8ebff20fef":[6,0,741,0,4],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29":[6,0,741,0,3],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a650508e05b6fa1af538a0b34e04c8bf5":[6,0,741,0,5],
 "d6/d4c/structboss__thorim__gauntlet__npcs_1_1boss__thorim__gauntlet__npcsAI.html#a9e4c25742785809d788f2e910f7840bc":[6,0,741,0,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX170 =
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825":[7,0,0,0,1,3,2,9,0,11,11],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199":[7,0,0,0,1,3,2,9,0,11,3],
 "d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a":[7,0,0,0,1,3,2,9,0,11,1],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[7,0,0,0,1,3,2,9,0,11,5],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340e":[7,0,0,0,1,3,2,9,0,13],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f":[7,0,0,0,1,3,2,9,0,13,14],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902":[7,0,0,0,1,3,2,9,0,13,6],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04":[7,0,0,0,1,3,2,9,0,13,3],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28":[7,0,0,0,1,3,2,9,0,13,1],
-"d6/d51/boss__apothecary__hummel_8cpp.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa":[7,0,0,0,1,3,2,9,0,13,10]
+"d6/d51/boss__apothecary__hummel_8cpp.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5":[7,0,0,0,1,3,2,9,0,11,5]
 };

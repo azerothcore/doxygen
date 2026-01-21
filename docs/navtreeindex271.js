@@ -1,5 +1,11 @@
 var NAVTREEINDEX271 =
 {
+"da/de5/structboss__high__king__maulgar.html#ad235febd755745313b72394c633c3723":[6,0,535,2],
+"da/de5/structboss__high__king__maulgar.html#adf1bf1c8c75fc9bbed871af157c6663c":[6,0,535,5],
+"da/de5/structboss__high__king__maulgar.html#ae540909dbbb3cf93e37503cd755c3001":[6,0,535,6],
+"da/de6/structnpc__cultist__engineer.html":[6,0,1724],
+"da/de6/structnpc__cultist__engineer.html#a02675a96d20902d147b0370fa1715d81":[6,0,1724,0],
+"da/de6/structnpc__cultist__engineer.html#a47b1b08959b8cd02ba92fcf3a55e32d2":[6,0,1724,4],
 "da/de6/structnpc__cultist__engineer.html#a4b4d561f827553998caa204e0e1b9e54":[6,0,1724,1],
 "da/de6/structnpc__cultist__engineer.html#a6f84d224a959c06fbb7a48197dd4cbdd":[6,0,1724,2],
 "da/de6/structnpc__cultist__engineer.html#ab26d124cbfdc4d649fef6058e9637845":[6,0,1724,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX271 =
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a668084cc1f8c66aad210107b4ab94bdb":[7,0,0,0,1,3,5,2,1,7,5,59],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b":[7,0,0,0,1,3,5,2,1,7,5,0],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129":[7,0,0,0,1,3,5,2,1,7,5,20],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a764bfe23208bc91b99a48bad7a6fb571":[7,0,0,0,1,3,5,2,1,7,5,2],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a78936e290d45a26f59971acdf3e326db":[7,0,0,0,1,3,5,2,1,7,5,34],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a79b16b1b80dc9aabd701e1abe3339225":[7,0,0,0,1,3,5,2,1,7,5,51],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7a1ad637392d984f02ff67fbe6546f5c":[7,0,0,0,1,3,5,2,1,7,5,41],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7eeac286eec9c41a33ee6fea164edc8a":[7,0,0,0,1,3,5,2,1,7,5,24],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a803bbe8e3afab4a8ae6f07c85d1474d5":[7,0,0,0,1,3,5,2,1,7,5,1],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a893ac51d414d5ed988d538dcb92ae004":[7,0,0,0,1,3,5,2,1,7,5,15]
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a764bfe23208bc91b99a48bad7a6fb571":[7,0,0,0,1,3,5,2,1,7,5,2]
 };

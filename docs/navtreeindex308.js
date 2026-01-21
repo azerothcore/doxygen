@@ -1,5 +1,12 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9ef69e108c829a52a71e186933314230":[7,0,0,0,1,2,26,2,1,63],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaad91b01a241a0e051c55dbf15f09d982":[7,0,0,0,1,2,26,2,1,7],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaae2f18d3199407f523a9c4e9cecc5f2d":[7,0,0,0,1,2,26,2,1,32],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab31f9abdb3a4b01be4330df182dbda40":[7,0,0,0,1,2,26,2,1,57],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab35f0b8567810b4926f23c8e89ce7b3a":[7,0,0,0,1,2,26,2,1,35],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab3b58da43c2aeaa15f4467f10f3dd7bf":[7,0,0,0,1,2,26,2,1,83],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab4de74a2eb0aeb70472ae8c67a72451d":[7,0,0,0,1,2,26,2,1,28],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab52840c4009bfeef8454490bc55c61db":[7,0,0,0,1,2,26,2,1,53],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab60028e832c1f601e8f3f5cb80c5153e":[7,0,0,0,1,2,26,2,1,43],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbab92d77bf9c3fc67381aac7ca8816d501":[7,0,0,0,1,2,26,2,1,65],
@@ -242,12 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d4e/zone__wetlands_8cpp.html":[7,0,0,0,1,3,2,34],
 "dc/d4e/zone__wetlands_8cpp.html#a96be3075a4a99658d93ffe3d69ba369a":[7,0,0,0,1,3,2,34,4],
 "dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9":[7,0,0,0,1,3,2,34,3],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda":[7,0,0,0,1,3,2,34,3,4],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779":[7,0,0,0,1,3,2,34,3,2],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576":[7,0,0,0,1,3,2,34,3,1],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1":[7,0,0,0,1,3,2,34,3,3],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2":[7,0,0,0,1,3,2,34,3,0],
-"dc/d4f/classboss__archavon.html":[6,0,387],
-"dc/d4f/classboss__archavon.html#a44e20480f8d86cf763afe67de49c6c33":[6,0,387,1],
-"dc/d4f/classboss__archavon.html#a5eb62d54fe1559ef9df51c2bd01f7de4":[6,0,387,2]
+"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda":[7,0,0,0,1,3,2,34,3,4]
 };

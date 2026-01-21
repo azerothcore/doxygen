@@ -1,5 +1,11 @@
 var NAVTREEINDEX191 =
 {
+"d7/d53/structboss__cthun.html#a04ae38b67d358f1d34820b855aab3869":[6,0,418,1],
+"d7/d53/structboss__cthun.html#a05bab8427cd4b4bfa50aee450e423f98":[6,0,418,4],
+"d7/d53/structboss__cthun.html#a139de83ae488c40d40a4587509cd197d":[6,0,418,8],
+"d7/d53/structboss__cthun.html#a287ee7b65708971e4fdfa7b814486935":[6,0,418,0],
+"d7/d53/structboss__cthun.html#a3c6478e7de0e5a6f20f693a788bf8c86":[6,0,418,2],
+"d7/d53/structboss__cthun.html#a49d76bb4cf30ee66fae6114313394961":[6,0,418,6],
 "d7/d53/structboss__cthun.html#a56fe3347ac41b67fb6912f372a5879ba":[6,0,418,3],
 "d7/d53/structboss__cthun.html#a5a0514e56217bb3b30b22b2681542adb":[6,0,418,5],
 "d7/d53/structboss__cthun.html#a7d2685597f1eec2459fe509e5b97681f":[6,0,418,7],
@@ -186,8 +192,8 @@ var NAVTREEINDEX191 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1037,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,32,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,12,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,12,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,32,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,12,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,12,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,32,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,23],
@@ -243,11 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d61/zone__elwynn__forest_8cpp.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb":[7,0,0,0,1,3,2,23,5,0],
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521":[7,0,0,0,1,3,2,23,4],
 "d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a":[7,0,0,0,1,3,2,23,4,1],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f":[7,0,0,0,1,3,2,23,4,0],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7":[7,0,0,0,1,3,2,23,4,5],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4":[7,0,0,0,1,3,2,23,4,4],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1":[7,0,0,0,1,3,2,23,4,6],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8":[7,0,0,0,1,3,2,23,4,3],
-"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d":[7,0,0,0,1,3,2,23,4,2],
-"d7/d61/zone__elwynn__forest_8cpp.html#aef9caff22cc5e92156da2c393ecfb531":[7,0,0,0,1,3,2,23,10]
+"d7/d61/zone__elwynn__forest_8cpp.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f":[7,0,0,0,1,3,2,23,4,0]
 };

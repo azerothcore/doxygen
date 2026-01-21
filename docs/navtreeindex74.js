@@ -1,5 +1,11 @@
 var NAVTREEINDEX74 =
 {
+"d2/dd6/classOutdoorPvP.html#aa8761a78ff0a1882a6886fe328c9f26d":[6,0,2347,17],
+"d2/dd6/classOutdoorPvP.html#aa924cc1d9448fd7607e671d8a06f9497":[6,0,2347,34],
+"d2/dd6/classOutdoorPvP.html#aab6b1bcfcef2a332c5c58e778a4106a2":[6,0,2347,12],
+"d2/dd6/classOutdoorPvP.html#aaefdfe0906b9f68ae59ffdb0e3512c15":[6,0,2347,3],
+"d2/dd6/classOutdoorPvP.html#ab271cade81e21da482e57f3ddffd5c65":[6,0,2347,23],
+"d2/dd6/classOutdoorPvP.html#ab332e2eafab4a8ab3f0f19ba7fce4ad4":[6,0,2347,32],
 "d2/dd6/classOutdoorPvP.html#ab6e8b36ff0b2814c55bf7aae17ae76f0":[6,0,2347,39],
 "d2/dd6/classOutdoorPvP.html#abfcc1955c4cd7d9458912ceeb4b08e04":[6,0,2347,8],
 "d2/dd6/classOutdoorPvP.html#ac28f4897e959d6e32010c79fadf252ea":[6,0,2347,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX74 =
 "d2/de7/structboss__noth_1_1boss__nothAI.html#af0c4cfb04564b23840ee88dfa1badf55":[6,0,644,0,1],
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html":[6,0,504,0],
 "d2/de8/structboss__gluth_1_1boss__gluthAI.html#a115a1f1327a931067223734dbf414675":[6,0,504,0,8],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a18f6aa3d949e68e9b38398780c017082":[6,0,504,0,11],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a1f8f87b00291d8164f607ac6262506cf":[6,0,504,0,7],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a2505f7ebda7b623edfedf96979a4a920":[6,0,504,0,9],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a25cf670d7254cc8331752987a854c63b":[6,0,504,0,2],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a2aaf43f7d1555a005ef263ceaad8304c":[6,0,504,0,5],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d":[6,0,504,0,0],
-"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a691d46055b922efc9d1ec93a8b0fb842":[6,0,504,0,4]
+"d2/de8/structboss__gluth_1_1boss__gluthAI.html#a18f6aa3d949e68e9b38398780c017082":[6,0,504,0,11]
 };

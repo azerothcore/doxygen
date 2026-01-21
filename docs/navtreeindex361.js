@@ -1,5 +1,12 @@
 var NAVTREEINDEX361 =
 {
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6":[7,0,0,0,1,2,41,9,60],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1295a3ab74d597709dccdf1265e59d8a":[7,0,0,0,1,2,41,9,60,52],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a12ae63600ccfe4296e546ef44d3ef3e9":[7,0,0,0,1,2,41,9,60,23],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a133ef040c5e5af695f03137d2aeba054":[7,0,0,0,1,2,41,9,60,10],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a13899f0b883bdae8051450ea98f98f55":[7,0,0,0,1,2,41,9,60,29],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a14ee51627f5c63cbd8d13141aae1c942":[7,0,0,0,1,2,41,9,60,5],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a15a0722a5c6a89022fcaf697df0f927c":[7,0,0,0,1,2,41,9,60,49],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1725d88f09298fec66cbe49832d4587e":[7,0,0,0,1,2,41,9,60,24],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a17e659065202f50148fd26019a3ed3a3":[7,0,0,0,1,2,41,9,60,2],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1864667d740deb130dfe62594472853f":[7,0,0,0,1,2,41,9,60,43],
@@ -242,12 +249,5 @@ var NAVTREEINDEX361 =
 "de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,4034,0],
 "de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,4034,2],
 "de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[6,0,4034,1],
-"de/d3b/MapBuilder_8h.html":[7,0,0,0,3,2,5],
-"de/d3b/MapBuilder_8h.html#aa2aae6f254337f29866a5d240d5ec2b1":[7,0,0,0,3,2,5,5],
-"de/d3b/classMotionMaster.html":[6,0,1528],
-"de/d3b/classMotionMaster.html#a007516d713c4a1e163212eff8bc72faa":[6,0,1528,0],
-"de/d3b/classMotionMaster.html#a00eea001f3c196e2bf2849adb300abce":[6,0,1528,48],
-"de/d3b/classMotionMaster.html#a0138010ee58df715205b74c99437f138":[6,0,1528,71],
-"de/d3b/classMotionMaster.html#a06d5cf35eac7d31217b2266951d60820":[6,0,1528,22],
-"de/d3b/classMotionMaster.html#a0cd0d4ba421847f9414ae3643fc46aa8":[6,0,1528,23]
+"de/d3b/MapBuilder_8h.html":[7,0,0,0,3,2,5]
 };

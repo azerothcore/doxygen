@@ -1,5 +1,7 @@
 var NAVTREEINDEX49 =
 {
+"d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385":[7,0,0,0,1,2,42,3,10,1],
+"d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9":[7,0,0,0,1,2,42,3,10,4],
 "d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab":[7,0,0,0,1,2,42,3,10,0],
 "d1/dfa/CreatureTextMgr_8h.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3":[7,0,0,0,1,2,42,3,10,3],
 "d1/dfa/structnpc__vehicle__d16__propelled__delivery_1_1npc__vehicle__d16__propelled__deliveryAI.html":[6,0,2262,0],
@@ -224,8 +226,8 @@ var NAVTREEINDEX49 =
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,12,11,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,32,11,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,12,11,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,12,11,2,0],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,32,11,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,12,11,2,0],
 "d2/d0c/structAchievementReward.html":[6,0,120],
 "d2/d0c/structAchievementReward.html#a45644f308278529f822080f8274180d8":[6,0,120,3],
 "d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,120,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html":[6,0,0,88],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[5,0,1,100,3],
 "d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0e97bfe0e160177549a831df8e9b4555":[6,0,0,88,3],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[5,0,1,100,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1],
-"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a413d991eeee0294a54f3c803e296c3ac":[6,0,0,88,2]
+"d2/d0d/classAcore_1_1ObjectGUIDCheck.html#a0f3f6e89a9e621a208cd6795722ae4ef":[6,0,0,88,1]
 };

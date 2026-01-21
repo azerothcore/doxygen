@@ -1,5 +1,11 @@
 var NAVTREEINDEX106 =
 {
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ad38bf62ae2758fe80b97128e48663023":[7,0,0,0,1,2,8,1,17,2,3],
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ad98e0b5f80cb6ab1337f85970d94c6e8":[7,0,0,0,1,2,8,1,17,2,11],
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2ae6d1aa03e079f6181152c11db0461091":[7,0,0,0,1,2,8,1,17,2,8],
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2afb27d4c0b58b9e09a9f8800d06aea83b":[7,0,0,0,1,2,8,1,17,2,6],
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2afd39bfaa9b3aafc5af644dcf29ee25ef":[7,0,0,0,1,2,8,1,17,2,2],
+"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34c":[7,0,0,0,1,2,8,1,17,1],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15":[7,0,0,0,1,2,8,1,17,1,1],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733":[7,0,0,0,1,2,8,1,17,1,2],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5":[7,0,0,0,1,2,8,1,17,1,0],
@@ -201,8 +207,8 @@ var NAVTREEINDEX106 =
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,12,9,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,32,9,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[6,0,12,9,16,1],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,12,9,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,32,9,16,5],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,12,9,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,32,9,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,9,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,32,9,16,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX106 =
 "d3/db0/boss__arlokk_8cpp.html#a5bd342133be8c2137b831460acc9298caeeabe2bc0c5c074e706dc70ebe1a1807":[7,0,0,0,1,3,2,16,0,9,7],
 "d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,2,16,0,7],
 "d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05":[7,0,0,0,1,3,2,16,0,7,1],
-"d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5a174c07b8602efe54b08ead7652a3fe":[7,0,0,0,1,3,2,16,0,7,0],
-"d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65":[7,0,0,0,1,3,2,16,0,7,2],
-"d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826":[7,0,0,0,1,3,2,16,0,11],
-"d3/db0/boss__arlokk_8cpp.html#a75c81dd580debd4ca0a0523d0c859826a0ae9cb03e0fdc3b6ba005dcf01279360":[7,0,0,0,1,3,2,16,0,11,0],
-"d3/db0/boss__arlokk_8cpp.html#a99343660ea4c1af481f86d424ff700f6":[7,0,0,0,1,3,2,16,0,15],
-"d3/db0/boss__arlokk_8cpp.html#aa1ce80ad135a7c0e6ea6e8f1534a5c7f":[7,0,0,0,1,3,2,16,0,14],
-"d3/db0/boss__arlokk_8cpp.html#ab74f6a47b9052bbd7ca85f7a351b8339":[7,0,0,0,1,3,2,16,0,17]
+"d3/db0/boss__arlokk_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a5a174c07b8602efe54b08ead7652a3fe":[7,0,0,0,1,3,2,16,0,7,0]
 };

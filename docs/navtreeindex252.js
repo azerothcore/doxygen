@@ -1,5 +1,11 @@
 var NAVTREEINDEX252 =
 {
+"da/d21/structnpc__giant__claw__tentacle.html#ad4dceaafa3bb12b2e5cb7d9530c59d31":[6,0,1811,3],
+"da/d21/structnpc__giant__claw__tentacle.html#ad5fd7a9246c9c7aba0fa71d331e1f512":[6,0,1811,1],
+"da/d21/structnpc__giant__claw__tentacle.html#af62d155ec2cf4f56c956869aed8fa1f9":[6,0,1811,5],
+"da/d22/IpAddress_8h.html":[7,0,0,0,0,0,2],
+"da/d22/IpAddress_8h.html#abb8b9761e1df323f5c258c0a12da7bd4":[7,0,0,0,0,0,2,0],
+"da/d22/structnpc__madrigosa.html":[6,0,1948],
 "da/d22/structnpc__madrigosa.html#a09525d3bb35d1da4246bd84bbadea304":[6,0,1948,4],
 "da/d22/structnpc__madrigosa.html#a3431d13ea4ebd97d3fc6e542f89e033d":[6,0,1948,2],
 "da/d22/structnpc__madrigosa.html#a5859e4c8454371eb71740616d4763c0e":[6,0,1948,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX252 =
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4":[7,0,0,0,1,2,41,0,0,6,79],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b0f1bb00bc1bcf04f26b3d4154146e4":[7,0,0,0,1,2,41,0,0,6,265],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b48a8e2e90779303af620c79bf8bfec":[7,0,0,0,1,2,41,0,0,6,95],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b5d0b48f9a7e84bf7a896602e8c66b9":[7,0,0,0,1,2,41,0,0,6,6],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7d0828cbaffd7baff253b14ffbf0a637":[7,0,0,0,1,2,41,0,0,6,213],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7dffb8e20e91a710ae9d4a2c804bcb6e":[7,0,0,0,1,2,41,0,0,6,187],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7e920736925cc01608542567a3d2107e":[7,0,0,0,1,2,41,0,0,6,175],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7eb8c04cf8d83170bef8810aefa11c1b":[7,0,0,0,1,2,41,0,0,6,104],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a80ad93ae28941c5274c5bbf707611b7d":[7,0,0,0,1,2,41,0,0,6,144],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a82981d879285ed538a097e2d197e3638":[7,0,0,0,1,2,41,0,0,6,280]
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b5d0b48f9a7e84bf7a896602e8c66b9":[7,0,0,0,1,2,41,0,0,6,6]
 };
