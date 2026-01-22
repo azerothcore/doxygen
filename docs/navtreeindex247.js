@@ -1,5 +1,10 @@
 var NAVTREEINDEX247 =
 {
+"d9/df7/classConditionMgr.html#aae36a628a3872a9a788f456c35255183":[6,0,894,27],
+"d9/df7/classConditionMgr.html#ab72928f9040bb4304539d39b8a481ac0":[6,0,894,7],
+"d9/df7/classConditionMgr.html#ab844d175a1368244bd637fb4ccdafc34":[6,0,894,26],
+"d9/df7/classConditionMgr.html#ac4ee112d1f9c762bf24e247732d69214":[6,0,894,12],
+"d9/df7/classConditionMgr.html#ac5a70ae75079bf04249a68078bff43e1":[6,0,894,1],
 "d9/df7/classConditionMgr.html#ac5b40e2fe89b2da76eed587e3b8aa49c":[6,0,894,25],
 "d9/df7/classConditionMgr.html#ac81cb31dc52945a2568ba4e0fd92b009":[6,0,894,24],
 "d9/df7/classConditionMgr.html#aed40c53e42be92b4651cfe1bbeeddd61":[6,0,894,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX247 =
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a58658947c4fc115ea9c1d6f1edd1332e":[6,0,431,0,8],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a59f9efbc2964eec057606d69458b4402":[6,0,431,0,9],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a5e9c6da15df58a206533a7c718056c3e":[6,0,431,0,6],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a8e72a38f6a605cafa2667ca585cf0761":[6,0,431,0,2],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a93f73f204d07b4805f4a7dd240a96d13":[6,0,431,0,3],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#ab58d286bb6f0ea94c2eb70e52e513ad4":[6,0,431,0,4],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#ae1151f6fc9f9ca011a7d476f7d1c6927":[6,0,431,0,5],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#ae31f77e5b63fee3d0745919ed737b599":[6,0,431,0,1],
-"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#afc816b7d1c2705675560ddd13ecce22d":[6,0,431,0,10]
+"d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#a8e72a38f6a605cafa2667ca585cf0761":[6,0,431,0,2]
 };

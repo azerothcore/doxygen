@@ -1918,7 +1918,7 @@ var searchData=
   ['_5fzigguratstate2_1915',['_zigguratState2',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#ae8cb30b4286cb160356ed4ffccbee54c',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzigguratstate3_1916',['_zigguratState3',['../d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#a996f4bdb4c04f261eaf1fc02ac223098',1,'instance_stratholme::instance_stratholme_InstanceMapScript']]],
   ['_5fzonedynamicinfo_1917',['_zoneDynamicInfo',['../d7/db0/classMap.html#aa3185486d768f73614df07d5e1036d7f',1,'Map']]],
-  ['_5fzoneid_1918',['_zoneid',['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId'],['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid']]],
+  ['_5fzoneid_1918',['_zoneid',['../d9/d20/classWhoListPlayerInfo.html#a68d1453d41fb26a42bf4239614a5b9e9',1,'WhoListPlayerInfo::_zoneid'],['../d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3',1,'WorldObject::_zoneId']]],
   ['_5fzoneplayercountmap_1919',['_zonePlayerCountMap',['../d7/db0/classMap.html#a06d635a105d849d2122492c0e2236c6b',1,'Map']]],
   ['_5fzonewidevisibleworldobjectsmap_1920',['_zoneWideVisibleWorldObjectsMap',['../d7/db0/classMap.html#a0a771dfb7878b6c0d16d06450227d51b',1,'Map']]]
 ];

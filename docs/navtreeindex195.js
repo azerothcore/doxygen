@@ -1,5 +1,10 @@
 var NAVTREEINDEX195 =
 {
+"d7/d95/classPoolMgr.html#a3ddc8dd692447fe23a7c8a0a4f552a71":[6,0,2432,23],
+"d7/d95/classPoolMgr.html#a4086f3b6424d7b68be68cb330b1bca76":[6,0,2432,0],
+"d7/d95/classPoolMgr.html#a473736f3ce675869c426352a3878fff4":[6,0,2432,10],
+"d7/d95/classPoolMgr.html#a489f044a4c6b68ee48657d9d17b13719":[6,0,2432,4],
+"d7/d95/classPoolMgr.html#a4cbd63e0d097cc082564573ab95483fc":[6,0,2432,18],
 "d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc":[6,0,2432,33],
 "d7/d95/classPoolMgr.html#a63e539c56e7a2a855c43e2fc25ba23e1":[6,0,2432,8],
 "d7/d95/classPoolMgr.html#a6522862f3c90e9e3ebd8cd3944eaf76e":[6,0,2432,21],
@@ -244,10 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9a/structboss__romulo.html#aa60d8fe07db9444f25eec9de9e5bf365":[6,0,681,4],
 "d7/d9a/structboss__romulo.html#aae979b72844ff8fcc70956925df4fa9b":[6,0,681,12],
 "d7/d9a/structboss__romulo.html#ab13e2a4ebe8a1956f6de460cdb9b199d":[6,0,681,5],
-"d7/d9a/structboss__romulo.html#ab4dda6b70337668dd36a582e8439c3db":[6,0,681,3],
-"d7/d9a/structboss__romulo.html#ab549436aec35727665150d51f1c25714":[6,0,681,14],
-"d7/d9a/structboss__romulo.html#ac42df238a2ad354a2fb21ebb558734c6":[6,0,681,10],
-"d7/d9a/structboss__romulo.html#acc23f4f4f5856b9956a764c1f69bbc92":[6,0,681,2],
-"d7/d9a/structboss__romulo.html#ae4ca6736913cc8df4d016876a8fd8576":[6,0,681,7],
-"d7/d9a/structboss__romulo.html#af8bff3f1c107dc7d8beae7956a25fbcc":[6,0,681,6]
+"d7/d9a/structboss__romulo.html#ab4dda6b70337668dd36a582e8439c3db":[6,0,681,3]
 };

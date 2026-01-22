@@ -1,5 +1,10 @@
 var NAVTREEINDEX318 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a67ff809187d02c20986ede33691ed9b2":[7,0,0,0,1,3,2,17,119],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a68260a2e19e8517b80f37e2772b17300":[7,0,0,0,1,3,2,17,12],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a68bbcacd2fb5706f56792ffffd8be2f7":[7,0,0,0,1,3,2,17,85],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6aeffef7bf01947a5bef5aaf2400384e":[7,0,0,0,1,3,2,17,126],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6bfb096b035b5f41b71e1a57bff59113":[7,0,0,0,1,3,2,17,56],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6c1206b8165879aee20d7768f374268d":[7,0,0,0,1,3,2,17,46],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6f050a93b62a1391ae6321d1d2d6450a":[7,0,0,0,1,3,2,17,124],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a7460bbae56678bce60e48f1d4f76057d":[7,0,0,0,1,3,2,17,25],
@@ -84,11 +89,11 @@ var NAVTREEINDEX318 =
 "dc/ddc/firework__show__ThunderBluff_8h.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1":[7,0,0,0,1,3,3,0,10,0],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ac35fd5df42f24906b21b6887860b96a5":[7,0,0,0,1,3,3,0,10,1],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78":[7,0,0,0,1,3,3,0,10,2],
-"dc/ddd/classspell__rimefang__icy__blast.html":[6,0,3758],
-"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[6,0,3758,2],
-"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[6,0,3758,3],
-"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[6,0,3758,1],
-"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[6,0,3758,0],
+"dc/ddd/classspell__rimefang__icy__blast.html":[6,0,3759],
+"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[6,0,3759,2],
+"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[6,0,3759,3],
+"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[6,0,3759,1],
+"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[6,0,3759,0],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html":[7,0,0,0,1,3,7,0,0,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a21f33e61c0482aa12f745f4ccbea2b46":[7,0,0,0,1,3,7,0,0,2,4],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,0,0,2,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX318 =
 "dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8eadddc942268210bdb243ecdb59e76fb74":[7,0,0,0,1,3,3,1,44,3],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1f":[7,0,0,0,1,3,3,1,42],
 "dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa4010b39236a9ad1f180684eac57e2b1e":[7,0,0,0,1,3,3,1,42,2],
-"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa778bc53e8a5095f25c826037984a87f9":[7,0,0,0,1,3,3,1,42,1],
-"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1faeeed8e128d71d3a9cbd05ac752f558c6":[7,0,0,0,1,3,3,1,42,0],
-"dc/ddf/brewfest_8cpp.html#ae08d67fac7772287f656a8ac94adbfb1":[7,0,0,0,1,3,3,1,46],
-"dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5":[7,0,0,0,1,3,3,1,33],
-"dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5af39cb0faaf2433c776cc28a5d0f21820":[7,0,0,0,1,3,3,1,33,0],
-"dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5afe8ded371b5e366b0dfdb77c2ec3eb11":[7,0,0,0,1,3,3,1,33,1]
+"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1fa778bc53e8a5095f25c826037984a87f9":[7,0,0,0,1,3,3,1,42,1]
 };

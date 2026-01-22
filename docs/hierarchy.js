@@ -906,6 +906,7 @@ var hierarchy =
         [ "spell_gen_yehkinya_bramble", "d4/d59/classspell__gen__yehkinya__bramble.html", null ],
         [ "spell_generic_quest_update_entry_SpellScript", "d4/dc5/classspell__generic__quest__update__entry__SpellScript.html", null ],
         [ "spell_gluth_decimate", "d1/dc3/classspell__gluth__decimate.html", null ],
+        [ "spell_gluth_decimate_damage", "d6/d73/classspell__gluth__decimate__damage.html", null ],
         [ "spell_gnomeregan_radiation_bolt", "da/d7e/classspell__gnomeregan__radiation__bolt.html", null ],
         [ "spell_gordunni_trap", "de/d34/classspell__gordunni__trap.html", null ],
         [ "spell_gothik_shadow_bolt_volley", "de/d1b/classspell__gothik__shadow__bolt__volley.html", null ],

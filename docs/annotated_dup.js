@@ -3586,6 +3586,7 @@ var annotated_dup =
     [ "spell_gen_yehkinya_bramble", "d4/d59/classspell__gen__yehkinya__bramble.html", "d4/d59/classspell__gen__yehkinya__bramble" ],
     [ "spell_generic_quest_update_entry_SpellScript", "d4/dc5/classspell__generic__quest__update__entry__SpellScript.html", "d4/dc5/classspell__generic__quest__update__entry__SpellScript" ],
     [ "spell_gluth_decimate", "d1/dc3/classspell__gluth__decimate.html", "d1/dc3/classspell__gluth__decimate" ],
+    [ "spell_gluth_decimate_damage", "d6/d73/classspell__gluth__decimate__damage.html", "d6/d73/classspell__gluth__decimate__damage" ],
     [ "spell_gnomeregan_radiation_bolt", "da/d7e/classspell__gnomeregan__radiation__bolt.html", "da/d7e/classspell__gnomeregan__radiation__bolt" ],
     [ "spell_gordunni_trap", "de/d34/classspell__gordunni__trap.html", "de/d34/classspell__gordunni__trap" ],
     [ "spell_gothik_shadow_bolt_volley", "de/d1b/classspell__gothik__shadow__bolt__volley.html", "de/d1b/classspell__gothik__shadow__bolt__volley" ],

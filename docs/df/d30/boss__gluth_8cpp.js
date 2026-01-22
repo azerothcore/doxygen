@@ -3,6 +3,7 @@ var boss__gluth_8cpp =
     [ "boss_gluth", "da/d36/classboss__gluth.html", "da/d36/classboss__gluth" ],
     [ "boss_gluth::boss_gluthAI", "d2/de8/structboss__gluth_1_1boss__gluthAI.html", "d2/de8/structboss__gluth_1_1boss__gluthAI" ],
     [ "spell_gluth_decimate", "d1/dc3/classspell__gluth__decimate.html", "d1/dc3/classspell__gluth__decimate" ],
+    [ "spell_gluth_decimate_damage", "d6/d73/classspell__gluth__decimate__damage.html", "d6/d73/classspell__gluth__decimate__damage" ],
     [ "Emotes", "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_SPOTS_ONE", "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa03c0ac324d8c639af54683066910ea95", null ],
       [ "EMOTE_DECIMATE", "df/d30/boss__gluth_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad533e4cc3296f79f2e8dbe5b75cf331f", null ],

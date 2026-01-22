@@ -1,5 +1,10 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba896e7c5e16b9017d4819d2d4abd00b28":[7,0,0,0,1,2,26,2,1,8],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8b0ad8ad60a3a1610cc79f115d93cdce":[7,0,0,0,1,2,26,2,1,73],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9271d3dd36a1e3161fae81366465f74c":[7,0,0,0,1,2,26,2,1,23],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9cecabaa74f226417647b2162a8355ed":[7,0,0,0,1,2,26,2,1,49],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9ddbc9e82f7cfef320fb2efa87578b30":[7,0,0,0,1,2,26,2,1,41],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba9ef69e108c829a52a71e186933314230":[7,0,0,0,1,2,26,2,1,63],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaad91b01a241a0e051c55dbf15f09d982":[7,0,0,0,1,2,26,2,1,7],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbaae2f18d3199407f523a9c4e9cecc5f2d":[7,0,0,0,1,2,26,2,1,32],
@@ -236,18 +241,13 @@ var NAVTREEINDEX308 =
 "dc/d4c/classOutdoorPvPZM.html#acd93bd13cf330ec86dde30ff9c6306de":[6,0,2365,11],
 "dc/d4c/classOutdoorPvPZM.html#ad5609bc0c13d193d16560045aa4b0c71":[6,0,2365,14],
 "dc/d4c/classOutdoorPvPZM.html#aff4124f54572e0812c39562fbc6390c3":[6,0,2365,12],
-"dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3563],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3563,0],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a4f31c76184e4ae5bc03763e04cdac72e":[6,0,3563,3],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3563,1],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[6,0,3563,2],
+"dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3564],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3564,0],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a4f31c76184e4ae5bc03763e04cdac72e":[6,0,3564,3],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#a5b404a07ccb13cabf5fa6ab90db92129":[6,0,3564,1],
+"dc/d4c/classspell__pal__seal__of__command__aura.html#af16eec48ab0f469ca3cefd149bb0d925":[6,0,3564,2],
 "dc/d4d/ArenaTeamHandler_8cpp.html":[7,0,0,0,1,2,22,2],
 "dc/d4d/enuminfo__LogCommon_8cpp.html":[7,0,0,0,0,9,7],
 "dc/d4e/classnpc__dalaran__warrior.html":[6,0,1729],
-"dc/d4e/classnpc__dalaran__warrior.html#a13d44b85173232ddedcc35184d50549c":[6,0,1729,1],
-"dc/d4e/classnpc__dalaran__warrior.html#a1e84676d2a76bac728a1f23f5f9fc25e":[6,0,1729,2],
-"dc/d4e/zone__wetlands_8cpp.html":[7,0,0,0,1,3,2,34],
-"dc/d4e/zone__wetlands_8cpp.html#a96be3075a4a99658d93ffe3d69ba369a":[7,0,0,0,1,3,2,34,4],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9":[7,0,0,0,1,3,2,34,3],
-"dc/d4e/zone__wetlands_8cpp.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda":[7,0,0,0,1,3,2,34,3,4]
+"dc/d4e/classnpc__dalaran__warrior.html#a13d44b85173232ddedcc35184d50549c":[6,0,1729,1]
 };

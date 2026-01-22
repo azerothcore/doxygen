@@ -204,11 +204,11 @@ var NAVTREEINDEX12 =
 "d0/d8c/classnpc__mistress__of__pain.html":[6,0,1975],
 "d0/d8c/classnpc__mistress__of__pain.html#a0261ed835454725e0e5629c295be4330":[6,0,1975,1],
 "d0/d8c/classnpc__mistress__of__pain.html#ae32e9b907e2e31556e72d7feb4e24e8a":[6,0,1975,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3438],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3438,0],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3438,2],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3438,1],
-"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3438,3],
+"d0/d8c/classspell__mage__ice__barrier__aura.html":[6,0,3439],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a0934aa8eaf442314aa6050d85304c15b":[6,0,3439,0],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#a627c6a88ed6ce051b0d6a06d94288498":[6,0,3439,2],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ab765b87350bd3e73ac43879abef72d98":[6,0,3439,1],
+"d0/d8c/classspell__mage__ice__barrier__aura.html#ae1b5265f817f1f4ec011d4e2607686eb":[6,0,3439,3],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html":[6,0,1322,0],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a080decfc444d3d89f0334a76bfb5e757":[6,0,1322,0,10],
 "d0/d8d/structinstance__molten__core_1_1instance__molten__core__InstanceMapScript.html#a0849a6d1a98b6c49cca7341f6341179c":[6,0,1322,0,2],
@@ -247,7 +247,7 @@ var NAVTREEINDEX12 =
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a2edf4e51c9a5bde61a1875c067e963f2":[6,0,1685,0,2],
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#a8ebaca725aba2c3aed8856fb23228ae1":[6,0,1685,0,1],
 "d0/d8e/structnpc__captain__rupert_1_1npc__captain__rupertAI.html#ae91de64c440e71e612f34e37b90076d5":[6,0,1685,0,0],
-"d0/d8f/classspell__murmur__thundering__storm.html":[6,0,3504],
-"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[6,0,3504,2],
-"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3504,1]
+"d0/d8f/classspell__murmur__thundering__storm.html":[6,0,3505],
+"d0/d8f/classspell__murmur__thundering__storm.html#a15d790b134de8a8c7497ee8d0a6217ba":[6,0,3505,2],
+"d0/d8f/classspell__murmur__thundering__storm.html#aa41700bf097963c5a352442723181037":[6,0,3505,1]
 };

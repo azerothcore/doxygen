@@ -1,5 +1,10 @@
 var NAVTREEINDEX271 =
 {
+"da/de5/structboss__high__king__maulgar.html#a2059016597039929103c053d6524ebf7":[6,0,535,4],
+"da/de5/structboss__high__king__maulgar.html#a210e9c3d42e9201b9fbee0d7776cbcc5":[6,0,535,1],
+"da/de5/structboss__high__king__maulgar.html#a306f8492d83703b339a8fbe044e0cbbd":[6,0,535,7],
+"da/de5/structboss__high__king__maulgar.html#a6ad48aba60a01df62c1ae62e6480a14d":[6,0,535,3],
+"da/de5/structboss__high__king__maulgar.html#a8a835570bd4ff5361b2025b2aaeec91f":[6,0,535,0],
 "da/de5/structboss__high__king__maulgar.html#ad235febd755745313b72394c633c3723":[6,0,535,2],
 "da/de5/structboss__high__king__maulgar.html#adf1bf1c8c75fc9bbed871af157c6663c":[6,0,535,5],
 "da/de5/structboss__high__king__maulgar.html#ae540909dbbb3cf93e37503cd755c3001":[6,0,535,6],
@@ -9,13 +14,13 @@ var NAVTREEINDEX271 =
 "da/de6/structnpc__cultist__engineer.html#a4b4d561f827553998caa204e0e1b9e54":[6,0,1724,1],
 "da/de6/structnpc__cultist__engineer.html#a6f84d224a959c06fbb7a48197dd4cbdd":[6,0,1724,2],
 "da/de6/structnpc__cultist__engineer.html#ab26d124cbfdc4d649fef6058e9637845":[6,0,1724,3],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html":[6,0,3852],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a0ee1a701f75e9f0a70dc21528ffea683":[6,0,3852,0],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a68be7f7edecd1bae8c962aaa9d556c3e":[6,0,3852,4],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a82430399e44001343f322b2c3b7769a5":[6,0,3852,2],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a9c8e0ed8fde28588e11ebf5e8abd02dc":[6,0,3852,3],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a9f427761fcca9029eb75d586e5876fcd":[6,0,3852,1],
-"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#ae20873e93fbace6272a793993fb45349":[6,0,3852,5],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html":[6,0,3853],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a0ee1a701f75e9f0a70dc21528ffea683":[6,0,3853,0],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a68be7f7edecd1bae8c962aaa9d556c3e":[6,0,3853,4],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a82430399e44001343f322b2c3b7769a5":[6,0,3853,2],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a9c8e0ed8fde28588e11ebf5e8abd02dc":[6,0,3853,3],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#a9f427761fcca9029eb75d586e5876fcd":[6,0,3853,1],
+"da/de7/classspell__sindragosa__ice__tomb__trap__aura.html#ae20873e93fbace6272a793993fb45349":[6,0,3853,5],
 "da/de7/sethekk__halls_8h.html":[7,0,0,0,1,3,7,0,2,4],
 "da/de7/sethekk__halls_8h.html#a31365a35c315c6cb485bcd31f5ba77fd":[7,0,0,0,1,3,7,0,2,4,5],
 "da/de7/sethekk__halls_8h.html#a31365a35c315c6cb485bcd31f5ba77fda4254e5b20964fa4c45d7bed553c3cb95":[7,0,0,0,1,3,7,0,2,4,5,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX271 =
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a50039b777364c63e9ed7aa2d59bde5e0":[7,0,0,0,1,3,5,2,1,7,5,8],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a518bd5eb0d32adbff6da21d82071f2fa":[7,0,0,0,1,3,5,2,1,7,5,32],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a599818bfec273aaee545ebbd22b72cf0":[7,0,0,0,1,3,5,2,1,7,5,14],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a618f48798929cb137d5a22ff73defc40":[7,0,0,0,1,3,5,2,1,7,5,36],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a629c73887e129e9e4a810f38f55a3aad":[7,0,0,0,1,3,5,2,1,7,5,10],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a668084cc1f8c66aad210107b4ab94bdb":[7,0,0,0,1,3,5,2,1,7,5,59],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a6c1847babeb1b838631eee5b2af3dc2b":[7,0,0,0,1,3,5,2,1,7,5,0],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a7048f4df677604dd1470ac18f38a9129":[7,0,0,0,1,3,5,2,1,7,5,20],
-"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a764bfe23208bc91b99a48bad7a6fb571":[7,0,0,0,1,3,5,2,1,7,5,2]
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a618f48798929cb137d5a22ff73defc40":[7,0,0,0,1,3,5,2,1,7,5,36]
 };
