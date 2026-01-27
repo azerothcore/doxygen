@@ -245,9 +245,9 @@ var NAVTREEINDEX17 =
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#ab15fc7bcd912a6c583d4c219ba37c756":[6,0,1792,0,2],
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#aed6b5cfccbbe258f501b2da5c9dadb40":[6,0,1792,0,5],
 "d0/dba/structnpc__franklin_1_1npc__franklinAI.html#afa494098126ce3291e234cfc2b36336f":[6,0,1792,0,1],
-"d0/dbb/structWGWorkshopData.html":[6,0,4307],
-"d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4307,3],
-"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4307,2],
-"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4307,1],
-"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4307,0]
+"d0/dbb/structWGWorkshopData.html":[6,0,4306],
+"d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3":[6,0,4306,3],
+"d0/dbb/structWGWorkshopData.html#a55ccbd94fe08ecc99f5be97b96761f68":[6,0,4306,2],
+"d0/dbb/structWGWorkshopData.html#a7f28adc30e9293df2f2c124469550d75":[6,0,4306,1],
+"d0/dbb/structWGWorkshopData.html#a9c1319033a432ca0db51a9a1545aa7af":[6,0,4306,0]
 };

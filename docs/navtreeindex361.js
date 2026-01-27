@@ -1,9 +1,5 @@
 var NAVTREEINDEX361 =
 {
-"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c":[7,0,0,0,1,2,41,9,68,1],
-"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527abf6eb95e7643dc725bf275f785ddbab5":[7,0,0,0,1,2,41,9,68,3],
-"de/d30/SpellMgr_8h.html#ad10a4fadd8c7f9a2263538df7932e5c3":[7,0,0,0,1,2,41,9,35],
-"de/d30/SpellMgr_8h.html#ad3397bc4e1407330978a0adb42d4aa26":[7,0,0,0,1,2,41,9,22],
 "de/d30/SpellMgr_8h.html#ad621262d491c800fb5ddd016250dd46f":[7,0,0,0,1,2,41,9,77],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6":[7,0,0,0,1,2,41,9,60],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a1295a3ab74d597709dccdf1265e59d8a":[7,0,0,0,1,2,41,9,60,52],
@@ -194,9 +190,9 @@ var NAVTREEINDEX361 =
 "de/d34/structBroadcastText.html#acc72081442b6a4544533a3084b5240da":[6,0,825,5],
 "de/d34/structBroadcastText.html#ad54e97026a67329529daaa30f997a89a":[6,0,825,4],
 "de/d34/structBroadcastText.html#af07f883cd3deb5a1a59e23aa058e6c78":[6,0,825,10],
-"de/d34/structSpellDurationEntry.html":[6,0,4113],
-"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4113,1],
-"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4113,0],
+"de/d34/structSpellDurationEntry.html":[6,0,4112],
+"de/d34/structSpellDurationEntry.html#a04f9304093a15b4b7f6596993f2e86d9":[6,0,4112,1],
+"de/d34/structSpellDurationEntry.html#a20417b0f394c08c779fd3851c2cde87d":[6,0,4112,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html":[6,0,717,0],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a35394690b8d25529c91c147025f6ad92":[6,0,717,0,2],
 "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html#a63c76fb94131830924e2bf77477261ba":[6,0,717,0,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX361 =
 "de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,842,0],
 "de/d3a/classat__karazhan__mirkblood__approach.html":[6,0,232],
 "de/d3a/classat__karazhan__mirkblood__approach.html#a032600991e9fc1aaf026adf2e63314e5":[6,0,232,0],
-"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[6,0,232,1]
+"de/d3a/classat__karazhan__mirkblood__approach.html#aaece848faa4f1086ac0b16802a1e765e":[6,0,232,1],
+"de/d3a/classspell__warlords__rage.html":[6,0,4034],
+"de/d3a/classspell__warlords__rage.html#a74610b06095572aa2c898cd84e0fb229":[6,0,4034,0],
+"de/d3a/classspell__warlords__rage.html#aad72f4aaa19f92f7a71241311f5d0582":[6,0,4034,2],
+"de/d3a/classspell__warlords__rage.html#ac0d686490ff37810e0116dea4d0b6077":[6,0,4034,1]
 };

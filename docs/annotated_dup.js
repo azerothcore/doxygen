@@ -4433,7 +4433,6 @@ var annotated_dup =
     [ "spell_the_cleansing_mirror_image_script_effect", "d3/d45/classspell__the__cleansing__mirror__image__script__effect.html", "d3/d45/classspell__the__cleansing__mirror__image__script__effect" ],
     [ "spell_the_cleansing_on_death_cast_on_master", "d7/d4e/classspell__the__cleansing__on__death__cast__on__master.html", "d7/d4e/classspell__the__cleansing__on__death__cast__on__master" ],
     [ "spell_the_cleansing_shrine_cast", "d6/dcd/classspell__the__cleansing__shrine__cast.html", "d6/dcd/classspell__the__cleansing__shrine__cast" ],
-    [ "spell_the_eye_countercharge_aura", "d8/dff/classspell__the__eye__countercharge__aura.html", "d8/dff/classspell__the__eye__countercharge__aura" ],
     [ "spell_the_flag_of_ownership", "d3/d7c/classspell__the__flag__of__ownership.html", "d3/d7c/classspell__the__flag__of__ownership" ],
     [ "spell_the_lich_king_cast_back_to_caster", "d5/da6/classspell__the__lich__king__cast__back__to__caster.html", "d5/da6/classspell__the__lich__king__cast__back__to__caster" ],
     [ "spell_the_lich_king_dark_hunger_aura", "d6/dd1/classspell__the__lich__king__dark__hunger__aura.html", "d6/dd1/classspell__the__lich__king__dark__hunger__aura" ],

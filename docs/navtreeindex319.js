@@ -1,9 +1,5 @@
 var NAVTREEINDEX319 =
 {
-"dc/ddf/brewfest_8cpp.html#ad82f6d939f1c81b9d74ac98677680b1faeeed8e128d71d3a9cbd05ac752f558c6":[7,0,0,0,1,3,3,1,42,0],
-"dc/ddf/brewfest_8cpp.html#ae08d67fac7772287f656a8ac94adbfb1":[7,0,0,0,1,3,3,1,46],
-"dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5":[7,0,0,0,1,3,3,1,33],
-"dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5af39cb0faaf2433c776cc28a5d0f21820":[7,0,0,0,1,3,3,1,33,0],
 "dc/ddf/brewfest_8cpp.html#ae458906a10ee141c4da9f10c8a0862d5afe8ded371b5e366b0dfdb77c2ec3eb11":[7,0,0,0,1,3,3,1,33,1],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8":[7,0,0,0,1,3,3,1,32],
 "dc/ddf/brewfest_8cpp.html#afd53a868088ef0d578cc351b05ab9df8a0eadd178341893fb53ddcc9d835b191f":[7,0,0,0,1,3,3,1,32,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX319 =
 "dc/dee/SpellMgr_8cpp.html":[7,0,0,0,1,2,41,8],
 "dc/dee/SpellMgr_8cpp.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,8,7],
 "dc/dee/SpellMgr_8cpp.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,8,6],
-"dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,8]
+"dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1":[7,0,0,0,1,2,41,8,8],
+"dc/dee/SpellMgr_8cpp.html#a2ba27d428865ac3f87bf6f6843271d3f":[7,0,0,0,1,2,41,8,3],
+"dc/dee/SpellMgr_8cpp.html#a35697cceaf39daf069d06c53e8e3cdf7":[7,0,0,0,1,2,41,8,1],
+"dc/dee/SpellMgr_8cpp.html#a423a80c889a3456a2b55e0e9c22ad060":[7,0,0,0,1,2,41,8,5],
+"dc/dee/SpellMgr_8cpp.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1":[7,0,0,0,1,2,41,8,2]
 };

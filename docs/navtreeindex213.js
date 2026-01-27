@@ -115,10 +115,10 @@ var NAVTREEINDEX213 =
 "d8/d38/classspell__sapphiron__frost__explosion.html#a883e383928a9b0ad0aeccf7afee4f15e":[6,0,3787,2],
 "d8/d38/structadt__MFBO_1_1plane.html":[6,0,139,0],
 "d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf":[6,0,139,0,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,3963],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,3963,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,3963,2],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,3963,1],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,3962],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,3962,0],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,3962,2],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,3962,1],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html":[6,0,3804],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a2214b10da042a3af2fd3311872cc5286":[6,0,3804,1],
 "d8/d3a/classspell__sha__ancestral__awakening__proc.html#a3766e5ed1f75c242f45b24c90eef7e11":[6,0,3804,0],
@@ -249,5 +249,5 @@ var NAVTREEINDEX213 =
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1d434373ccc7dd54c5de7bc99487170a":[6,0,604,0,1],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82":[6,0,604,0,2],
 "d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92":[6,0,604,0,4],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[6,0,12,7,9]
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html":[5,0,32,7,9]
 };

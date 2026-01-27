@@ -1,9 +1,5 @@
 var NAVTREEINDEX338 =
 {
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a521c78636641b7b4296349538151fa50":[7,0,0,0,1,2,38,0,75,1,79],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a54a718be6125ea1e21738b2cfff3d0fb":[7,0,0,0,1,2,38,0,75,1,9],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5596b0ba00107f6ad61ffa273f0984fe":[7,0,0,0,1,2,38,0,75,1,168],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a560cb75711096f4893c3845a54331c43":[7,0,0,0,1,2,38,0,75,1,127],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a57019fa5d2ee0dd29ed44f4c97de101a":[7,0,0,0,1,2,38,0,75,1,52],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a576f7398bd8eb9cc65416b019ea92f4b":[7,0,0,0,1,2,38,0,75,1,147],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a5ab1837ad76cf90374b1696111867397":[7,0,0,0,1,2,38,0,75,1,114],
@@ -200,11 +196,11 @@ var NAVTREEINDEX338 =
 "dd/dcd/structCreatureFamilyEntry.html#a937fc579ab2790f4a972f07d3453a762":[6,0,929,5],
 "dd/dcd/structCreatureFamilyEntry.html#ad4498d40b31d18742ee4ac235cb58a2e":[6,0,929,8],
 "dd/dcd/structCreatureFamilyEntry.html#ad5d722d74bc08d4de3edd54c2f24addb":[6,0,929,2],
-"dd/dcd/structSpellImmune.html":[6,0,4120],
-"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4120,1],
-"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,4120,2],
-"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,4120,0],
-"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,4120,3],
+"dd/dcd/structSpellImmune.html":[6,0,4119],
+"dd/dcd/structSpellImmune.html#a13a353d02a7330820df170eb46e7a26d":[6,0,4119,1],
+"dd/dcd/structSpellImmune.html#a6aeb1bebf2f079424ebfa5192c568adc":[6,0,4119,2],
+"dd/dcd/structSpellImmune.html#a70ebcde656db6c4d7c21fb03af44978a":[6,0,4119,0],
+"dd/dcd/structSpellImmune.html#ae1a414f35b2cce61cd4f5640c761f7ea":[6,0,4119,3],
 "dd/dcd/structboss__moira__bronzebeardAI.html":[6,0,626],
 "dd/dcd/structboss__moira__bronzebeardAI.html#a0df43e5c605783312291bd4ba1921f8c":[6,0,626,1],
 "dd/dcd/structboss__moira__bronzebeardAI.html#a11265b6aad76574c2c76253128c79165":[6,0,626,0],
@@ -249,5 +245,9 @@ var NAVTREEINDEX338 =
 "dd/dd1/classboss__professor__putricide.html":[6,0,665],
 "dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,665,2],
 "dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,665,1],
-"dd/dd1/classspell__target__fissures.html":[6,0,3892]
+"dd/dd1/classspell__target__fissures.html":[6,0,3892],
+"dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3892,1],
+"dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3892,0],
+"dd/dd1/classspell__target__fissures.html#abc6d5b845d9b76ed7abdf4132640824e":[6,0,3892,2],
+"dd/dd2/boss__anubarak_8cpp.html":[7,0,0,0,1,3,5,0,1,1]
 };

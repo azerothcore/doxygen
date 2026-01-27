@@ -559,7 +559,6 @@ var hierarchy =
         [ "spell_tharon_ja_curse_of_life_aura", "d2/d60/classspell__tharon__ja__curse__of__life__aura.html", null ],
         [ "spell_tharon_ja_dummy_aura", "df/d7a/classspell__tharon__ja__dummy__aura.html", null ],
         [ "spell_the_cleansing_cleansing_soul", "df/d3c/classspell__the__cleansing__cleansing__soul.html", null ],
-        [ "spell_the_eye_countercharge_aura", "d8/dff/classspell__the__eye__countercharge__aura.html", null ],
         [ "spell_the_lich_king_dark_hunger_aura", "d6/dd1/classspell__the__lich__king__dark__hunger__aura.html", null ],
         [ "spell_the_lich_king_harvest_soul_aura", "d6/d19/classspell__the__lich__king__harvest__soul__aura.html", null ],
         [ "spell_the_lich_king_infest_aura", "dc/d3b/classspell__the__lich__king__infest__aura.html", null ],

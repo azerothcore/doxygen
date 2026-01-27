@@ -1,9 +1,5 @@
 var NAVTREEINDEX290 =
 {
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a9ea34bba6d9c4f82801659a3ac84dc2f":[7,0,0,0,1,3,10,14,59,6],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2aa31bcc1f79f23f0eb6a3e6a2383cf319":[7,0,0,0,1,3,10,14,59,33],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2aa87ce114968f0a2139e57dae4b99bdc8":[7,0,0,0,1,3,10,14,59,21],
-"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2aaddb2a21b8478cc65c4315017dba09f6":[7,0,0,0,1,3,10,14,59,36],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2ab003477cef76ec36e8c69a6227c7b7b5":[7,0,0,0,1,3,10,14,59,34],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2ab0b781a7d9e6bb5e192e2b03155371b7":[7,0,0,0,1,3,10,14,59,14],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2ab720eab7897be2e5bb80adec57158a9d":[7,0,0,0,1,3,10,14,59,45],
@@ -181,8 +177,8 @@ var NAVTREEINDEX290 =
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a1dd967ad59159faf694b8e0bfcd369ac":[6,0,3802,2],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#a4fde347d339f08cd01e2a47883d4b988":[6,0,3802,0],
 "db/db2/classspell__serpentshrine__cavern__serpentshrine__parasite__trigger.html#ab22bd56638a6adc8d111250780221cb9":[6,0,3802,1],
-"db/db4/classSQLQueryHolder.html":[6,0,4152],
-"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[6,0,4152,0],
+"db/db4/classSQLQueryHolder.html":[6,0,4151],
+"db/db4/classSQLQueryHolder.html#a1cbb8be93d83bc3ed6295c6b13f6ce69":[6,0,4151,0],
 "db/db5/structboss__hydross__the__unstable.html":[6,0,544],
 "db/db5/structboss__hydross__the__unstable.html#a03cbe48effc4cd3a2821312e60578ed4":[6,0,544,3],
 "db/db5/structboss__hydross__the__unstable.html#a0bcad41c74800ab58df8b5ea54d2ec8e":[6,0,544,6],
@@ -249,5 +245,9 @@ var NAVTREEINDEX290 =
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339":[5,0,21,16],
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323":[5,0,21,16,2],
 "db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9":[5,0,21,16,3],
-"db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167":[5,0,21,16,1]
+"db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167":[5,0,21,16,1],
+"db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558":[5,0,21,16,0],
+"db/db7/namespaceMovement.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642":[5,0,21,16,4],
+"db/db7/namespaceMovement.html#aff10e913762216c0735a8a3530ee25d2":[5,0,21,27],
+"db/db7/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1array_3_01T_00_01N_01_4_00_01void_01_4.html":[6,0,0,5,0,9]
 };
