@@ -342,15 +342,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2638</span>    {</div>
-<div class="line"><span class="lineno"> 2639</span>        isPeriodic = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2640</span>        amplitude = 2 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
-<div class="line"><span class="lineno"> 2641</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2640</span>    {</div>
+<div class="line"><span class="lineno"> 2641</span>        isPeriodic = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2642</span>        amplitude = 2 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
+<div class="line"><span class="lineno"> 2643</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00053">IN_MILLISECONDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02653">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02655">Register()</a>.</p>
 
 </div>
 </div>
@@ -377,14 +377,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2644</span>    {</div>
-<div class="line"><span class="lineno"> 2645</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
-<div class="line"><span class="lineno"> 2646</span>        <span class="keywordflow">if</span> (!target || !target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno"> 2647</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2648</span> </div>
-<div class="line"><span class="lineno"> 2649</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2">SPELL_SANITY</a>))</div>
-<div class="line"><span class="lineno"> 2650</span>            aur-&gt;SetStackAmount(std::min(100, aur-&gt;GetStackAmount() + 20));</div>
-<div class="line"><span class="lineno"> 2651</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2646</span>    {</div>
+<div class="line"><span class="lineno"> 2647</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
+<div class="line"><span class="lineno"> 2648</span>        <span class="keywordflow">if</span> (!target || !target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno"> 2649</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2650</span> </div>
+<div class="line"><span class="lineno"> 2651</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2">SPELL_SANITY</a>))</div>
+<div class="line"><span class="lineno"> 2652</span>            aur-&gt;SetStackAmount(std::min(100, aur-&gt;GetStackAmount() + 20));</div>
+<div class="line"><span class="lineno"> 2653</span>    }</div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2">SPELL_SANITY</a></div><div class="ttdeci">@ SPELL_SANITY</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:54</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
@@ -394,7 +394,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l05704">Unit::GetAura()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l00054">SPELL_SANITY</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02653">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02655">Register()</a>.</p>
 
 </div>
 </div>
@@ -448,20 +448,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2654</span>    {</div>
-<div class="line"><span class="lineno"> 2655</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a266a051650b446c525aa6c16a256e464">DoEffectCalcPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a>(<a class="code hl_function" href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a">spell_yogg_saron_sanity_well_aura::HandleEffectCalcPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>);</div>
-<div class="line"><span class="lineno"> 2656</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c">spell_yogg_saron_sanity_well_aura::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>);</div>
-<div class="line"><span class="lineno"> 2657</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2656</span>    {</div>
+<div class="line"><span class="lineno"> 2657</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a266a051650b446c525aa6c16a256e464">DoEffectCalcPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a>(<a class="code hl_function" href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a">spell_yogg_saron_sanity_well_aura::HandleEffectCalcPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>);</div>
+<div class="line"><span class="lineno"> 2658</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c">spell_yogg_saron_sanity_well_aura::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>);</div>
+<div class="line"><span class="lineno"> 2659</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a></div><div class="ttdeci">@ SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:142</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ab8d87844aaddbc3842b2cd99266fbd6f"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a></div><div class="ttdeci">#define AuraEffectCalcPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:778</div></div>
 <div class="ttc" id="aclassAuraScript_html_a266a051650b446c525aa6c16a256e464"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a266a051650b446c525aa6c16a256e464">AuraScript::DoEffectCalcPeriodic</a></div><div class="ttdeci">HookList&lt; EffectCalcPeriodicHandler &gt; DoEffectCalcPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:777</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__yogg__saron__sanity__well__aura_html_a87b4517a6ad8630027ab2c3534b9fb8c"><div class="ttname"><a href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c">spell_yogg_saron_sanity_well_aura::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2643</div></div>
-<div class="ttc" id="aclassspell__yogg__saron__sanity__well__aura_html_af01eb94174952de52615734055b17c1a"><div class="ttname"><a href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a">spell_yogg_saron_sanity_well_aura::HandleEffectCalcPeriodic</a></div><div class="ttdeci">void HandleEffectCalcPeriodic(AuraEffect const *, bool &amp;isPeriodic, int32 &amp;amplitude)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2637</div></div>
+<div class="ttc" id="aclassspell__yogg__saron__sanity__well__aura_html_a87b4517a6ad8630027ab2c3534b9fb8c"><div class="ttname"><a href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#a87b4517a6ad8630027ab2c3534b9fb8c">spell_yogg_saron_sanity_well_aura::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2645</div></div>
+<div class="ttc" id="aclassspell__yogg__saron__sanity__well__aura_html_af01eb94174952de52615734055b17c1a"><div class="ttname"><a href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html#af01eb94174952de52615734055b17c1a">spell_yogg_saron_sanity_well_aura::HandleEffectCalcPeriodic</a></div><div class="ttdeci">void HandleEffectCalcPeriodic(AuraEffect const *, bool &amp;isPeriodic, int32 &amp;amplitude)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2639</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00778">AuraEffectCalcPeriodicFn</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00777">AuraScript::DoEffectCalcPeriodic</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02637">HandleEffectCalcPeriodic()</a>, <a class="el" href="../../#l02643">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00142">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00778">AuraEffectCalcPeriodicFn</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00777">AuraScript::DoEffectCalcPeriodic</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02639">HandleEffectCalcPeriodic()</a>, <a class="el" href="../../#l02645">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00142">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>.</p>
 
 </div>
 </div>
@@ -474,7 +474,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d40/classspell__yogg__saron__sanity__well__aura.html">spell_yogg_saron_sanity_well_aura</a></li>
-    <li class="footer">Generated on Tue Jan 27 2026 06:31:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jan 28 2026 06:32:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

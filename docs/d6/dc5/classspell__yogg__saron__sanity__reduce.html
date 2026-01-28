@@ -314,53 +314,53 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2712</span>    {</div>
-<div class="line"><span class="lineno"> 2713</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno"> 2714</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>();</div>
-<div class="line"><span class="lineno"> 2715</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno"> 2716</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2717</span> </div>
-<div class="line"><span class="lineno"> 2718</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _reduceAmount = 0;</div>
-<div class="line"><span class="lineno"> 2719</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id)</div>
-<div class="line"><span class="lineno"> 2720</span>        {</div>
-<div class="line"><span class="lineno"> 2721</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac6d341d03d0eb678dd1e1c1c7e2e226d">SPELL_SARA_PSYCHOSIS_10</a>:</div>
-<div class="line"><span class="lineno"> 2722</span>                _reduceAmount = 9;</div>
-<div class="line"><span class="lineno"> 2723</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2724</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac996a7dd448428dae125e48559b734cf">SPELL_SARA_PSYCHOSIS_25</a>:</div>
-<div class="line"><span class="lineno"> 2725</span>                _reduceAmount = 12;</div>
-<div class="line"><span class="lineno"> 2726</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2727</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8cf1d392f97e7fd80eb9423b207f78fd">SPELL_MALADY_OF_THE_MIND</a>:</div>
-<div class="line"><span class="lineno"> 2728</span>                _reduceAmount = 3;</div>
-<div class="line"><span class="lineno"> 2729</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2730</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>:</div>
-<div class="line"><span class="lineno"> 2731</span>                _reduceAmount = 3;</div>
-<div class="line"><span class="lineno"> 2732</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2733</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167">SPELL_BRAIN_LINK_DAMAGE</a>:</div>
-<div class="line"><span class="lineno"> 2734</span>                _reduceAmount = 2;</div>
-<div class="line"><span class="lineno"> 2735</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2736</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb">SPELL_LUNATIC_GAZE_TRIGGER</a>:</div>
-<div class="line"><span class="lineno"> 2737</span>                _reduceAmount = 2;</div>
-<div class="line"><span class="lineno"> 2738</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2739</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78">SPELL_YS_LUNATIC_GAZE_TRIGGER</a>:</div>
-<div class="line"><span class="lineno"> 2740</span>                _reduceAmount = 4;</div>
-<div class="line"><span class="lineno"> 2741</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2742</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af81f7bb9224117681068b61935ed5b3e">SPELL_INDUCE_MADNESS</a>:</div>
-<div class="line"><span class="lineno"> 2743</span>                <span class="comment">// Teleported out of brain</span></div>
-<div class="line"><span class="lineno"> 2744</span>                <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() &gt; 300.0f)</div>
-<div class="line"><span class="lineno"> 2745</span>                    <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2746</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 2747</span>                    target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4264fa1ab921c316df3b26131bb6abf4">SPELL_CANCEL_ILLUSION_AURA</a>, <span class="keyword">true</span>); <span class="comment">// else we are underground, remove illusion aura and teleport outside</span></div>
-<div class="line"><span class="lineno"> 2748</span>                _reduceAmount = 100;</div>
-<div class="line"><span class="lineno"> 2749</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2750</span>        }</div>
-<div class="line"><span class="lineno"> 2751</span> </div>
-<div class="line"><span class="lineno"> 2752</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2">SPELL_SANITY</a>))</div>
-<div class="line"><span class="lineno"> 2753</span>        {</div>
-<div class="line"><span class="lineno"> 2754</span>            <span class="keywordflow">if</span> ((aur-&gt;GetStackAmount() - _reduceAmount) &lt;= 20)</div>
-<div class="line"><span class="lineno"> 2755</span>                target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7">SPELL_SANITY_SCREEN_EFFECT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2756</span>            aur-&gt;ModStackAmount(-_reduceAmount);</div>
-<div class="line"><span class="lineno"> 2757</span>        }</div>
-<div class="line"><span class="lineno"> 2758</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2714</span>    {</div>
+<div class="line"><span class="lineno"> 2715</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
+<div class="line"><span class="lineno"> 2716</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">GetHitPlayer</a>();</div>
+<div class="line"><span class="lineno"> 2717</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno"> 2718</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2719</span> </div>
+<div class="line"><span class="lineno"> 2720</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _reduceAmount = 0;</div>
+<div class="line"><span class="lineno"> 2721</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a3fa31d3b29c52993d3561fad3cd12af3">GetSpellInfo</a>()-&gt;Id)</div>
+<div class="line"><span class="lineno"> 2722</span>        {</div>
+<div class="line"><span class="lineno"> 2723</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac6d341d03d0eb678dd1e1c1c7e2e226d">SPELL_SARA_PSYCHOSIS_10</a>:</div>
+<div class="line"><span class="lineno"> 2724</span>                _reduceAmount = 9;</div>
+<div class="line"><span class="lineno"> 2725</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2726</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac996a7dd448428dae125e48559b734cf">SPELL_SARA_PSYCHOSIS_25</a>:</div>
+<div class="line"><span class="lineno"> 2727</span>                _reduceAmount = 12;</div>
+<div class="line"><span class="lineno"> 2728</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2729</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a8cf1d392f97e7fd80eb9423b207f78fd">SPELL_MALADY_OF_THE_MIND</a>:</div>
+<div class="line"><span class="lineno"> 2730</span>                _reduceAmount = 3;</div>
+<div class="line"><span class="lineno"> 2731</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2732</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac61ebdbb5f18a34d8e9796f3dd8e8025">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>:</div>
+<div class="line"><span class="lineno"> 2733</span>                _reduceAmount = 3;</div>
+<div class="line"><span class="lineno"> 2734</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2735</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167">SPELL_BRAIN_LINK_DAMAGE</a>:</div>
+<div class="line"><span class="lineno"> 2736</span>                _reduceAmount = 2;</div>
+<div class="line"><span class="lineno"> 2737</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2738</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb">SPELL_LUNATIC_GAZE_TRIGGER</a>:</div>
+<div class="line"><span class="lineno"> 2739</span>                _reduceAmount = 2;</div>
+<div class="line"><span class="lineno"> 2740</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2741</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78">SPELL_YS_LUNATIC_GAZE_TRIGGER</a>:</div>
+<div class="line"><span class="lineno"> 2742</span>                _reduceAmount = 4;</div>
+<div class="line"><span class="lineno"> 2743</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2744</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af81f7bb9224117681068b61935ed5b3e">SPELL_INDUCE_MADNESS</a>:</div>
+<div class="line"><span class="lineno"> 2745</span>                <span class="comment">// Teleported out of brain</span></div>
+<div class="line"><span class="lineno"> 2746</span>                <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>() &gt; 300.0f)</div>
+<div class="line"><span class="lineno"> 2747</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2748</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 2749</span>                    target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4264fa1ab921c316df3b26131bb6abf4">SPELL_CANCEL_ILLUSION_AURA</a>, <span class="keyword">true</span>); <span class="comment">// else we are underground, remove illusion aura and teleport outside</span></div>
+<div class="line"><span class="lineno"> 2750</span>                _reduceAmount = 100;</div>
+<div class="line"><span class="lineno"> 2751</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2752</span>        }</div>
+<div class="line"><span class="lineno"> 2753</span> </div>
+<div class="line"><span class="lineno"> 2754</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2">SPELL_SANITY</a>))</div>
+<div class="line"><span class="lineno"> 2755</span>        {</div>
+<div class="line"><span class="lineno"> 2756</span>            <span class="keywordflow">if</span> ((aur-&gt;GetStackAmount() - _reduceAmount) &lt;= 20)</div>
+<div class="line"><span class="lineno"> 2757</span>                target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7">SPELL_SANITY_SCREEN_EFFECT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2758</span>            aur-&gt;ModStackAmount(-_reduceAmount);</div>
+<div class="line"><span class="lineno"> 2759</span>        }</div>
+<div class="line"><span class="lineno"> 2760</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a080b35d38c27784c1aceaa7c089ec167">SPELL_BRAIN_LINK_DAMAGE</a></div><div class="ttdeci">@ SPELL_BRAIN_LINK_DAMAGE</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:81</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a1489f4b8c0a9d36abe6c50d39c7eaef2">SPELL_SANITY</a></div><div class="ttdeci">@ SPELL_SANITY</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:54</div></div>
@@ -370,9 +370,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08ac6d341d03d0eb678dd1e1c1c7e2e226d"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac6d341d03d0eb678dd1e1c1c7e2e226d">SPELL_SARA_PSYCHOSIS_10</a></div><div class="ttdeci">@ SPELL_SARA_PSYCHOSIS_10</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:76</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08ac996a7dd448428dae125e48559b734cf"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ac996a7dd448428dae125e48559b734cf">SPELL_SARA_PSYCHOSIS_25</a></div><div class="ttdeci">@ SPELL_SARA_PSYCHOSIS_25</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:77</div></div>
 <div class="ttc" id="aboss__yoggsaron_8cpp_html_a1b30ee7b66756f07902ec6940e772f08af81f7bb9224117681068b61935ed5b3e"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af81f7bb9224117681068b61935ed5b3e">SPELL_INDUCE_MADNESS</a></div><div class="ttdeci">@ SPELL_INDUCE_MADNESS</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:120</div></div>
-<div class="ttc" id="aboss__yoggsaron_8cpp_html_adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb">SPELL_LUNATIC_GAZE_TRIGGER</a></div><div class="ttdeci">@ SPELL_LUNATIC_GAZE_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2698</div></div>
-<div class="ttc" id="aboss__yoggsaron_8cpp_html_adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78">SPELL_YS_LUNATIC_GAZE_TRIGGER</a></div><div class="ttdeci">@ SPELL_YS_LUNATIC_GAZE_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2699</div></div>
-<div class="ttc" id="aboss__yoggsaron_8cpp_html_adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7">SPELL_SANITY_SCREEN_EFFECT</a></div><div class="ttdeci">@ SPELL_SANITY_SCREEN_EFFECT</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2697</div></div>
+<div class="ttc" id="aboss__yoggsaron_8cpp_html_adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a19f58a4c68066d1c0ddb1d29d64745fb">SPELL_LUNATIC_GAZE_TRIGGER</a></div><div class="ttdeci">@ SPELL_LUNATIC_GAZE_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2700</div></div>
+<div class="ttc" id="aboss__yoggsaron_8cpp_html_adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387a6ea778e701fe717d2ba57f7747914e78">SPELL_YS_LUNATIC_GAZE_TRIGGER</a></div><div class="ttdeci">@ SPELL_YS_LUNATIC_GAZE_TRIGGER</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2701</div></div>
+<div class="ttc" id="aboss__yoggsaron_8cpp_html_adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7"><div class="ttname"><a href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7">SPELL_SANITY_SCREEN_EFFECT</a></div><div class="ttdeci">@ SPELL_SANITY_SCREEN_EFFECT</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2699</div></div>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1066</div></div>
 <div class="ttc" id="aclassSpellScript_html_a175aa4408973ae49cfe237d6c9c5f12f"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a175aa4408973ae49cfe237d6c9c5f12f">SpellScript::GetHitPlayer</a></div><div class="ttdeci">Player * GetHitPlayer()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:471</div></div>
@@ -382,9 +382,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="astructPosition_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition</b> Position.h:123</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l05704">Unit::GetAura()</a>, <a class="el" href="../../#l00471">SpellScript::GetHitPlayer()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, <a class="el" href="../../#l00081">SPELL_BRAIN_LINK_DAMAGE</a>, <a class="el" href="../../#l00128">SPELL_CANCEL_ILLUSION_AURA</a>, <a class="el" href="../../#l00120">SPELL_INDUCE_MADNESS</a>, <a class="el" href="../../#l02698">SPELL_LUNATIC_GAZE_TRIGGER</a>, <a class="el" href="../../#l00078">SPELL_MALADY_OF_THE_MIND</a>, <a class="el" href="../../#l00079">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>, <a class="el" href="../../#l00054">SPELL_SANITY</a>, <a class="el" href="../../#l02697">SPELL_SANITY_SCREEN_EFFECT</a>, <a class="el" href="../../#l00076">SPELL_SARA_PSYCHOSIS_10</a>, <a class="el" href="../../#l00077">SPELL_SARA_PSYCHOSIS_25</a>, and <a class="el" href="../../#l02699">SPELL_YS_LUNATIC_GAZE_TRIGGER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l05704">Unit::GetAura()</a>, <a class="el" href="../../#l00471">SpellScript::GetHitPlayer()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00411">SpellScript::GetSpellInfo()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, <a class="el" href="../../#l00081">SPELL_BRAIN_LINK_DAMAGE</a>, <a class="el" href="../../#l00128">SPELL_CANCEL_ILLUSION_AURA</a>, <a class="el" href="../../#l00120">SPELL_INDUCE_MADNESS</a>, <a class="el" href="../../#l02700">SPELL_LUNATIC_GAZE_TRIGGER</a>, <a class="el" href="../../#l00078">SPELL_MALADY_OF_THE_MIND</a>, <a class="el" href="../../#l00079">SPELL_MALADY_OF_THE_MIND_TRIGGER</a>, <a class="el" href="../../#l00054">SPELL_SANITY</a>, <a class="el" href="../../#l02699">SPELL_SANITY_SCREEN_EFFECT</a>, <a class="el" href="../../#l00076">SPELL_SARA_PSYCHOSIS_10</a>, <a class="el" href="../../#l00077">SPELL_SARA_PSYCHOSIS_25</a>, and <a class="el" href="../../#l02701">SPELL_YS_LUNATIC_GAZE_TRIGGER</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02760">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02762">Register()</a>.</p>
 
 </div>
 </div>
@@ -438,16 +438,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2761</span>    {</div>
-<div class="line"><span class="lineno"> 2762</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d6/dc5/classspell__yogg__saron__sanity__reduce.html#aae469190c1edc1fe45914bad1dac4e93">spell_yogg_saron_sanity_reduce::HandleScriptEffect</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#a0a642bd6187d3edf3ffcee5fb1e6459e">EFFECT_FIRST_FOUND</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno"> 2763</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2763</span>    {</div>
+<div class="line"><span class="lineno"> 2764</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d6/dc5/classspell__yogg__saron__sanity__reduce.html#aae469190c1edc1fe45914bad1dac4e93">spell_yogg_saron_sanity_reduce::HandleScriptEffect</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#a0a642bd6187d3edf3ffcee5fb1e6459e">EFFECT_FIRST_FOUND</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno"> 2765</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a0a642bd6187d3edf3ffcee5fb1e6459e"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a0a642bd6187d3edf3ffcee5fb1e6459e">EFFECT_FIRST_FOUND</a></div><div class="ttdeci">#define EFFECT_FIRST_FOUND</div><div class="ttdef"><b>Definition</b> SharedDefines.h:37</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:866</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__yogg__saron__sanity__reduce_html_aae469190c1edc1fe45914bad1dac4e93"><div class="ttname"><a href="../../d6/dc5/classspell__yogg__saron__sanity__reduce.html#aae469190c1edc1fe45914bad1dac4e93">spell_yogg_saron_sanity_reduce::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2711</div></div>
+<div class="ttc" id="aclassspell__yogg__saron__sanity__reduce_html_aae469190c1edc1fe45914bad1dac4e93"><div class="ttname"><a href="../../d6/dc5/classspell__yogg__saron__sanity__reduce.html#aae469190c1edc1fe45914bad1dac4e93">spell_yogg_saron_sanity_reduce::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2713</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">EFFECT_FIRST_FOUND</a>, <a class="el" href="../../#l02711">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00037">EFFECT_FIRST_FOUND</a>, <a class="el" href="../../#l02713">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -476,12 +476,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2707</span>    {</div>
-<div class="line"><span class="lineno"> 2708</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4264fa1ab921c316df3b26131bb6abf4">SPELL_CANCEL_ILLUSION_AURA</a>, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7">SPELL_SANITY_SCREEN_EFFECT</a> });</div>
-<div class="line"><span class="lineno"> 2709</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2709</span>    {</div>
+<div class="line"><span class="lineno"> 2710</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08a4264fa1ab921c316df3b26131bb6abf4">SPELL_CANCEL_ILLUSION_AURA</a>, <a class="code hl_enumvalue" href="../../d3/d32/boss__yoggsaron_8cpp.html#adca8bc56e4d7f7028d4fff6e7b12d387aa515696d21b83b31c69ed2dc643989d7">SPELL_SANITY_SCREEN_EFFECT</a> });</div>
+<div class="line"><span class="lineno"> 2711</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00128">SPELL_CANCEL_ILLUSION_AURA</a>, <a class="el" href="../../#l02697">SPELL_SANITY_SCREEN_EFFECT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00128">SPELL_CANCEL_ILLUSION_AURA</a>, <a class="el" href="../../#l02699">SPELL_SANITY_SCREEN_EFFECT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -494,7 +494,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dc5/classspell__yogg__saron__sanity__reduce.html">spell_yogg_saron_sanity_reduce</a></li>
-    <li class="footer">Generated on Tue Jan 27 2026 06:31:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Jan 28 2026 06:32:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
