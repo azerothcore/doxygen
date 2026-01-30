@@ -30,7 +30,9 @@ var eye__of__eternity_8h =
       [ "SPELL_SCION_ARCANE_BARRAGE", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aaacf75e9731cc683534e0dda23d58961", null ],
       [ "SPELL_ARCANE_SHOCK", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a70217cff0adeb1a0499b1651a82f03ef", null ],
       [ "SPELL_HASTE", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
-      [ "SPELL_ALEXSTRASZA_GIFT", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ]
+      [ "SPELL_ALEXSTRASZA_GIFT", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ],
+      [ "SPELL_SUMMON_RED_DRAGON_BUDDY", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a830614a9bf710d7048b72ee0a5278eff", null ],
+      [ "SPELL_RIDE_RED_DRAGON", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ]
     ] ],
     [ "NPCs", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_MALYGOS", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca2208476e0e36e4b3b2c43f2107677364", null ],
@@ -43,7 +45,6 @@ var eye__of__eternity_8h =
       [ "NPC_HOVER_DISK", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca9c327c4592f7711c26c51c3fc03d2b54", null ],
       [ "NPC_ARCANE_OVERLOAD", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca87d9c957ef45c0e90fcbef07c94c4c2e", null ],
       [ "NPC_SURGE_OF_POWER", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5caf6aa5bbf6159c712e1b25863dfe45d9b", null ],
-      [ "NPC_WYRMREST_SKYTALON", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5caf7b8a3b895235f57b62709d3ce2215a4", null ],
       [ "NPC_STATIC_FIELD", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5cac87fa82670db238f21926da3e15031de", null ],
       [ "NPC_ALEXSTRASZA", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5cab3d24eea73922a81c6c4f4a7a0071030", null ]
     ] ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX126 =
 {
+"d4/d64/classTemporaryThreatModifierEvent.html#afd58a1128ac6629d7541ba1bfd4ef886":[6,0,4187,0],
+"d4/d64/classspell__gen__divine__storm__cd__reset.html":[6,0,2961],
+"d4/d64/classspell__gen__divine__storm__cd__reset.html#a262fc7f4bc3f1fae07f69dde765d8228":[6,0,2961,1],
+"d4/d64/classspell__gen__divine__storm__cd__reset.html#a41225a9f5d9304df4a02a681e8b73ff6":[6,0,2961,3],
 "d4/d64/classspell__gen__divine__storm__cd__reset.html#a520341dc41dcce5fd9346e3f5ed6ee51":[6,0,2961,4],
 "d4/d64/classspell__gen__divine__storm__cd__reset.html#af0fda52cff0361cf6c4a69957459ddf3":[6,0,2961,2],
 "d4/d64/classspell__gen__divine__storm__cd__reset.html#af7330c1b586b809c78e0bc080cb92c65":[6,0,2961,0],
@@ -80,12 +84,12 @@ var NAVTREEINDEX126 =
 "d4/d66/classspell__auriaya__sentinel__blast.html#a38c693dd3d8fb7e04fc1e26359f12399":[6,0,2627,0],
 "d4/d66/classspell__auriaya__sentinel__blast.html#a4e803984a3eded2736825f631786c204":[6,0,2627,2],
 "d4/d66/classspell__auriaya__sentinel__blast.html#a86c4bb91547d8ea7eebb8e4d7bfd592e":[6,0,2627,1],
-"d4/d66/classspell__warr__bloodthirst.html":[6,0,4035],
-"d4/d66/classspell__warr__bloodthirst.html#a051f68946f3c246b410bbaa2ac14e4b1":[6,0,4035,1],
-"d4/d66/classspell__warr__bloodthirst.html#a180ab99bc257b841e0bbbfc0ddb83814":[6,0,4035,4],
-"d4/d66/classspell__warr__bloodthirst.html#a371d3112e619453b7c92933a145bf4d2":[6,0,4035,0],
-"d4/d66/classspell__warr__bloodthirst.html#a41d69ed3f8372c4e157aefbec6ad525c":[6,0,4035,2],
-"d4/d66/classspell__warr__bloodthirst.html#aaa1e53f38a2ba835c12fa726c030ab08":[6,0,4035,3],
+"d4/d66/classspell__warr__bloodthirst.html":[6,0,4036],
+"d4/d66/classspell__warr__bloodthirst.html#a051f68946f3c246b410bbaa2ac14e4b1":[6,0,4036,1],
+"d4/d66/classspell__warr__bloodthirst.html#a180ab99bc257b841e0bbbfc0ddb83814":[6,0,4036,4],
+"d4/d66/classspell__warr__bloodthirst.html#a371d3112e619453b7c92933a145bf4d2":[6,0,4036,0],
+"d4/d66/classspell__warr__bloodthirst.html#a41d69ed3f8372c4e157aefbec6ad525c":[6,0,4036,2],
+"d4/d66/classspell__warr__bloodthirst.html#aaa1e53f38a2ba835c12fa726c030ab08":[6,0,4036,3],
 "d4/d66/structnpc__coren__direbrew__sisters.html":[6,0,1704],
 "d4/d66/structnpc__coren__direbrew__sisters.html#a34e0b6af032240c152c463c221d99335":[6,0,1704,2],
 "d4/d66/structnpc__coren__direbrew__sisters.html#a415ea0ebd044236f5f4c4d6c28896e00":[6,0,1704,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9da806abcaac7257edd7c5b3645c3599659":[7,0,0,0,1,3,7,5,2,2,20,3],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9daa9bd6ab0881cbb9d39c5f8140672504f":[7,0,0,0,1,3,7,5,2,2,20,1],
 "d4/d67/boss__kaelthas_8cpp.html#abee04218e11edf8c7f46d4e1999fdf9dacdde9b5291e2dd6f18fbefffad1e99b7":[7,0,0,0,1,3,7,5,2,2,20,4],
-"d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27],
-"d4/d67/classMovement_1_1counter.html":[6,0,7,1],
-"d4/d67/classMovement_1_1counter.html":[5,0,21,1],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
-"d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,21,1,3]
+"d4/d67/boss__kaelthas_8cpp.html#ac35189f8de9e3f9283fb2e533af89637":[7,0,0,0,1,3,7,5,2,2,27]
 };

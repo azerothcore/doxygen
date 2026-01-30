@@ -1,5 +1,8 @@
 var NAVTREEINDEX54 =
 {
+"d2/d30/structgo__troll__cage_1_1go__troll__cageAI.html#a5c91cb491021b15ba70cc8ef5f07d037":[6,0,1197,0,1],
+"d2/d30/structgo__troll__cage_1_1go__troll__cageAI.html#a6bfb77ec97367d8704885acfef801b74":[6,0,1197,0,2],
+"d2/d30/structgo__troll__cage_1_1go__troll__cageAI.html#ad5d736dd6cbe7a23d03f21004cae530d":[6,0,1197,0,3],
 "d2/d30/structgo__troll__cage_1_1go__troll__cageAI.html#ae742afdb7a37d64bb852b7ecd076d007":[6,0,1197,0,0],
 "d2/d31/GameObjectScript_8h.html":[7,0,0,0,1,2,38,0,50],
 "d2/d31/GameObjectScript_8h.html#a1614f98721d8a94351c4be15a72e499f":[7,0,0,0,1,2,38,0,50,4],
@@ -57,8 +60,8 @@ var NAVTREEINDEX54 =
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3303,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,12,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,32,2,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,12,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,32,2,0,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,12,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,12,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,32,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
@@ -166,11 +169,11 @@ var NAVTREEINDEX54 =
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b":[7,0,0,0,1,2,8,1,1,11,6],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338a82345118263a37caa33c0f0fa160ee58":[7,0,0,0,1,2,8,1,1,11,0],
 "d2/d35/BattlegroundAB_8h.html#afa4330ec402735b2df3a043a6b018338adec8cd5886a496342cf2ade674f4edf6":[7,0,0,0,1,2,8,1,1,11,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[6,0,4094],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[6,0,4094,3],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[6,0,4094,2],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[6,0,4094,1],
-"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[6,0,4094,0],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html":[6,0,4097],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a27fdfe00e5201b6472a282f4589a66cc":[6,0,4097,3],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a35c1e8f81229565e5d333ec42aa2e92c":[6,0,4097,2],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a39510971a0e1dbd800efc37c2e09c74f":[6,0,4097,1],
+"d2/d35/classspell__yogg__saron__shadow__beacon__aura.html#a7dd5b6217db77373dfba5958a2376ff1":[6,0,4097,0],
 "d2/d38/northrend__script__loader_8cpp.html":[7,0,0,0,1,3,5,14],
 "d2/d38/northrend__script__loader_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[7,0,0,0,1,3,5,14,65],
 "d2/d38/northrend__script__loader_8cpp.html#a01a1998120992ed059db815f85926ba6":[7,0,0,0,1,3,5,14,50],
@@ -246,8 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a687b8db013a6ffd4e1920834472172d6":[7,0,0,0,1,3,5,14,39],
 "d2/d38/northrend__script__loader_8cpp.html#a692793e6fd225153e84bb5a8d45765d3":[7,0,0,0,1,3,5,14,85],
 "d2/d38/northrend__script__loader_8cpp.html#a6fad81042eb92391e8c315ed53ffbe96":[7,0,0,0,1,3,5,14,115],
-"d2/d38/northrend__script__loader_8cpp.html#a70c4d1f4d3454199b02d94be43c31a62":[7,0,0,0,1,3,5,14,12],
-"d2/d38/northrend__script__loader_8cpp.html#a714dfd56c82f4af23079d52f9a5feab4":[7,0,0,0,1,3,5,14,19],
-"d2/d38/northrend__script__loader_8cpp.html#a7179b285535d217e0603be1df96a5d6d":[7,0,0,0,1,3,5,14,101],
-"d2/d38/northrend__script__loader_8cpp.html#a7325fe50708c23d0c299c19694efc771":[7,0,0,0,1,3,5,14,37]
+"d2/d38/northrend__script__loader_8cpp.html#a70c4d1f4d3454199b02d94be43c31a62":[7,0,0,0,1,3,5,14,12]
 };

@@ -28,5 +28,6 @@ var searchData=
   ['bgzoneref_25',['bgZoneRef',['../da/dbf/Player_8h.html#ad02e5b85aad803acf5ec43c31028d07e',1,'Player.h']]],
   ['binary_26',['Binary',['../d8/db3/Field_8h.html#a45c2b15f675e85c1f4462be09f27c59e',1,'Field.h']]],
   ['boundinstancesmap_27',['BoundInstancesMap',['../d4/d57/InstanceSaveMgr_8h.html#aaa779bf09b703eb355cb51ac3481a19e',1,'InstanceSaveMgr.h']]],
-  ['broadcasttextcontainer_28',['BroadcastTextContainer',['../de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7',1,'ObjectMgr.h']]]
+  ['breadcrumbquestmap_28',['BreadcrumbQuestMap',['../d5/dfb/classObjectMgr.html#a5e84b3625de0cb9ec2933cb65301d694',1,'ObjectMgr']]],
+  ['broadcasttextcontainer_29',['BroadcastTextContainer',['../de/d25/ObjectMgr_8h.html#aee411527f1beb34609c25acb024deab7',1,'ObjectMgr.h']]]
 ];

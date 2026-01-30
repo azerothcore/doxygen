@@ -1,5 +1,9 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a74eccf67e40bafa675f090644ff1d395":[6,0,2526,24],
+"d2/d8f/structScriptInfo.html#a7c105b35f29e81929fbde6100a11ed77":[6,0,2526,50],
+"d2/d8f/structScriptInfo.html#a7cdff6a71fd1e7dd5830f0fdd08c7462":[6,0,2526,6],
+"d2/d8f/structScriptInfo.html#a7ea9ceb93b8217898f2c91dd685b3271":[6,0,2526,72],
 "d2/d8f/structScriptInfo.html#a81ca402939ee7cd7a1a1bf375fe3e6fc":[6,0,2526,14],
 "d2/d8f/structScriptInfo.html#a86eb75e36f4e997a03ecfea3aebc389c":[6,0,2526,46],
 "d2/d8f/structScriptInfo.html#a8b2d1002b689627ceebedfe1ead1aaa0":[6,0,2526,34],
@@ -110,10 +114,10 @@ var NAVTREEINDEX69 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2759,5],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2759,4],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2759,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4067],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4067,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4067,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4067,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4068],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4068,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4068,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4068,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[7,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX69 =
 "d2/da0/classboss__razorscale.html#a01cf25d901a5eddae9ef3ea291020ba1":[6,0,673,2],
 "d2/da0/classboss__razorscale.html#ad8fe81f1b553414df3fa07c646029065":[6,0,673,1],
 "d2/da1/structSpell_1_1GOTargetInfo.html":[6,0,2588,0],
-"d2/da1/structSpell_1_1GOTargetInfo.html#a07d70f3c2425f07a36db90e9fd5b3c97":[6,0,2588,0,0],
-"d2/da1/structSpell_1_1GOTargetInfo.html#a619f98bf094d2667048204f733d64d0c":[6,0,2588,0,2],
-"d2/da1/structSpell_1_1GOTargetInfo.html#ab552326c0780fe62ff95b02249458492":[6,0,2588,0,3],
-"d2/da1/structSpell_1_1GOTargetInfo.html#aedfa36678be863a558ecd0ecc07cc544":[6,0,2588,0,1],
-"d2/da2/classspell__gen__ds__flush__knockback.html":[6,0,2962]
+"d2/da1/structSpell_1_1GOTargetInfo.html#a07d70f3c2425f07a36db90e9fd5b3c97":[6,0,2588,0,0]
 };

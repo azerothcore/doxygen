@@ -18,6 +18,8 @@ var boss__malygos_8cpp =
     [ "npc_eoe_wyrmrest_skytalon::npc_eoe_wyrmrest_skytalonAI", "d1/d2a/structnpc__eoe__wyrmrest__skytalon_1_1npc__eoe__wyrmrest__skytalonAI.html", "d1/d2a/structnpc__eoe__wyrmrest__skytalon_1_1npc__eoe__wyrmrest__skytalonAI" ],
     [ "go_the_focusing_iris", "dd/d3a/classgo__the__focusing__iris.html", "dd/d3a/classgo__the__focusing__iris" ],
     [ "spell_eoe_ph3_surge_of_power", "d4/df5/classspell__eoe__ph3__surge__of__power.html", "d4/df5/classspell__eoe__ph3__surge__of__power" ],
+    [ "spell_wyrmrest_skytalon_summon_red_dragon_buddy", "d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html", "d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy" ],
+    [ "spell_wyrmrest_skytalon_ride_red_dragon_buddy_trigger", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger" ],
     [ "AREA_EYE_OF_ETERNITY", "db/d86/boss__malygos_8cpp.html#abfbb3c13e434bda2c175cf2f7b56d23e", null ],
     [ "MAX_NEXUS_LORDS", "db/d86/boss__malygos_8cpp.html#ae09b5e2028ed2dfe3f3c10532cf5dadc", null ],
     [ "MAX_SCIONS_OF_ETERNITY", "db/d86/boss__malygos_8cpp.html#ac7fb08307734367ba9b7f205c3cc94b7", null ],

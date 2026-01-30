@@ -320,25 +320,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1503</span>    {</div>
-<div class="line"><span class="lineno"> 1504</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno"> 1505</span>        {</div>
-<div class="line"><span class="lineno"> 1506</span>            targets.clear();</div>
-<div class="line"><span class="lineno"> 1507</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 3; ++i)</div>
-<div class="line"><span class="lineno"> 1508</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">DrakeGUID</a>[i])</div>
-<div class="line"><span class="lineno"> 1509</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* u = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*caster, <a class="code hl_variable" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">DrakeGUID</a>[i]))</div>
-<div class="line"><span class="lineno"> 1510</span>                        targets.push_back(u);</div>
-<div class="line"><span class="lineno"> 1511</span>        }</div>
-<div class="line"><span class="lineno"> 1512</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1510</span>    {</div>
+<div class="line"><span class="lineno"> 1511</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
+<div class="line"><span class="lineno"> 1512</span>        {</div>
+<div class="line"><span class="lineno"> 1513</span>            targets.clear();</div>
+<div class="line"><span class="lineno"> 1514</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 3; ++i)</div>
+<div class="line"><span class="lineno"> 1515</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">DrakeGUID</a>[i])</div>
+<div class="line"><span class="lineno"> 1516</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* u = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a>(*caster, <a class="code hl_variable" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">DrakeGUID</a>[i]))</div>
+<div class="line"><span class="lineno"> 1517</span>                        targets.push_back(u);</div>
+<div class="line"><span class="lineno"> 1518</span>        }</div>
+<div class="line"><span class="lineno"> 1519</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
-<div class="ttc" id="aclassspell__eoe__ph3__surge__of__power_html_ad4bbd7d559cdcc21ae5fafae75cd8eb3"><div class="ttname"><a href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">spell_eoe_ph3_surge_of_power::DrakeGUID</a></div><div class="ttdeci">ObjectGuid DrakeGUID[3]</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:1479</div></div>
+<div class="ttc" id="aclassspell__eoe__ph3__surge__of__power_html_ad4bbd7d559cdcc21ae5fafae75cd8eb3"><div class="ttname"><a href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">spell_eoe_ph3_surge_of_power::DrakeGUID</a></div><div class="ttdeci">ObjectGuid DrakeGUID[3]</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:1486</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01479">DrakeGUID</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01486">DrakeGUID</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01514">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01521">Register()</a>.</p>
 
 </div>
 </div>
@@ -366,25 +366,25 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1482</span>    {</div>
-<div class="line"><span class="lineno"> 1483</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno"> 1484</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
-<div class="line"><span class="lineno"> 1485</span>            {</div>
-<div class="line"><span class="lineno"> 1486</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0;</div>
-<div class="line"><span class="lineno"> 1487</span>                std::list&lt;Unit*&gt; drakes;</div>
-<div class="line"><span class="lineno"> 1488</span>                c-&gt;AI()-&gt;SelectTargetList(drakes, (c-&gt;GetMap()-&gt;GetSpawnMode() == 0 ? 1 : 3), <a class="code hl_enumeration" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3d">SelectTargetMethod</a>::<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, 0, 0.0f, false, true, 57403 <span class="comment">/*only drakes have this aura*/</span>);</div>
-<div class="line"><span class="lineno"> 1489</span>                <span class="keywordflow">for</span> (std::list&lt;Unit*&gt;::iterator itr = drakes.begin(); itr != drakes.end() &amp;&amp; i &lt; 3; ++itr)</div>
-<div class="line"><span class="lineno"> 1490</span>                {</div>
-<div class="line"><span class="lineno"> 1491</span>                    <a class="code hl_variable" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">DrakeGUID</a>[i++] = (*itr)-&gt;GetGUID();</div>
-<div class="line"><span class="lineno"> 1492</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* v = (*itr)-&gt;GetVehicleKit())</div>
-<div class="line"><span class="lineno"> 1493</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* p = v-&gt;GetPassenger(0))</div>
-<div class="line"><span class="lineno"> 1494</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* plr = p-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
-<div class="line"><span class="lineno"> 1495</span>                                c-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../db/d86/boss__malygos_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f8214387b7af8a5d2c7cef54e762aa2">EMOTE_SURGE_OF_POWER_WARNING_P3</a>, plr);</div>
-<div class="line"><span class="lineno"> 1496</span>                }</div>
-<div class="line"><span class="lineno"> 1497</span>            }</div>
-<div class="line"><span class="lineno"> 1498</span> </div>
-<div class="line"><span class="lineno"> 1499</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1500</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1489</span>    {</div>
+<div class="line"><span class="lineno"> 1490</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
+<div class="line"><span class="lineno"> 1491</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* c = caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno"> 1492</span>            {</div>
+<div class="line"><span class="lineno"> 1493</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0;</div>
+<div class="line"><span class="lineno"> 1494</span>                std::list&lt;Unit*&gt; drakes;</div>
+<div class="line"><span class="lineno"> 1495</span>                c-&gt;AI()-&gt;SelectTargetList(drakes, (c-&gt;GetMap()-&gt;GetSpawnMode() == 0 ? 1 : 3), <a class="code hl_enumeration" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3d">SelectTargetMethod</a>::<a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, 0, 0.0f, false, true, 57403 <span class="comment">/*only drakes have this aura*/</span>);</div>
+<div class="line"><span class="lineno"> 1496</span>                <span class="keywordflow">for</span> (std::list&lt;Unit*&gt;::iterator itr = drakes.begin(); itr != drakes.end() &amp;&amp; i &lt; 3; ++itr)</div>
+<div class="line"><span class="lineno"> 1497</span>                {</div>
+<div class="line"><span class="lineno"> 1498</span>                    <a class="code hl_variable" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3">DrakeGUID</a>[i++] = (*itr)-&gt;GetGUID();</div>
+<div class="line"><span class="lineno"> 1499</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* v = (*itr)-&gt;GetVehicleKit())</div>
+<div class="line"><span class="lineno"> 1500</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* p = v-&gt;GetPassenger(0))</div>
+<div class="line"><span class="lineno"> 1501</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* plr = p-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
+<div class="line"><span class="lineno"> 1502</span>                                c-&gt;AI()-&gt;Talk(<a class="code hl_enumvalue" href="../../db/d86/boss__malygos_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f8214387b7af8a5d2c7cef54e762aa2">EMOTE_SURGE_OF_POWER_WARNING_P3</a>, plr);</div>
+<div class="line"><span class="lineno"> 1503</span>                }</div>
+<div class="line"><span class="lineno"> 1504</span>            }</div>
+<div class="line"><span class="lineno"> 1505</span> </div>
+<div class="line"><span class="lineno"> 1506</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1507</span>    }</div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3d"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3d">SelectTargetMethod</a></div><div class="ttdeci">SelectTargetMethod</div><div class="ttdef"><b>Definition</b> UnitAI.h:44</div></div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">SelectTargetMethod::Random</a></div><div class="ttdeci">@ Random</div></div>
 <div class="ttc" id="aboss__malygos_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a7f8214387b7af8a5d2c7cef54e762aa2"><div class="ttname"><a href="../../db/d86/boss__malygos_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f8214387b7af8a5d2c7cef54e762aa2">EMOTE_SURGE_OF_POWER_WARNING_P3</a></div><div class="ttdeci">@ EMOTE_SURGE_OF_POWER_WARNING_P3</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:159</div></div>
@@ -394,7 +394,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1066</div></div>
 <div class="ttc" id="aclassVehicle_html"><div class="ttname"><a href="../../dc/d23/classVehicle.html">Vehicle</a></div><div class="ttdef"><b>Definition</b> Vehicle.h:28</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01479">DrakeGUID</a>, <a class="el" href="../../#l00159">EMOTE_SURGE_OF_POWER_WARNING_P3</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01486">DrakeGUID</a>, <a class="el" href="../../#l00159">EMOTE_SURGE_OF_POWER_WARNING_P3</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23">Random</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
 </div>
 </div>
@@ -448,16 +448,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1515</span>    {</div>
-<div class="line"><span class="lineno"> 1516</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno"> 1517</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1522</span>    {</div>
+<div class="line"><span class="lineno"> 1523</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno"> 1524</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1431</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__eoe__ph3__surge__of__power_html_af6700817fd92dbe495e20d5c43b5d6b5"><div class="ttname"><a href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:1502</div></div>
+<div class="ttc" id="aclassspell__eoe__ph3__surge__of__power_html_af6700817fd92dbe495e20d5c43b5d6b5"><div class="ttname"><a href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:1509</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01502">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01509">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -482,7 +482,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01502">FilterTargets()</a>, and <a class="el" href="../../#l01481">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01509">FilterTargets()</a>, and <a class="el" href="../../#l01488">Load()</a>.</p>
 
 </div>
 </div>
@@ -495,7 +495,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/df5/classspell__eoe__ph3__surge__of__power.html">spell_eoe_ph3_surge_of_power</a></li>
-    <li class="footer">Generated on Thu Jan 29 2026 06:42:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Jan 30 2026 06:43:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

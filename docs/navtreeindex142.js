@@ -1,5 +1,13 @@
 var NAVTREEINDEX142 =
 {
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea52d3c6406ca1ca64d241da3aa0840494":[7,0,0,0,1,2,16,7,4,2,18],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea5542926bc198b33f9a2bfa3f8e85f59f":[7,0,0,0,1,2,16,7,4,2,14],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6098faf3414ed441768bb232095b4d7e":[7,0,0,0,1,2,16,7,4,2,26],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea622731fb5fcaa439a008543afe91e0ae":[7,0,0,0,1,2,16,7,4,2,4],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea657ec519983809e892b66a4bbcc420f9":[7,0,0,0,1,2,16,7,4,2,5],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea66535a9bc1fcff584512d527a0e445ad":[7,0,0,0,1,2,16,7,4,2,11],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6cc2ad36253f710d071f6ac2f4d5d989":[7,0,0,0,1,2,16,7,4,2,12],
+"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba":[7,0,0,0,1,2,16,7,4,2,31],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea78d41c1489bfe1594e5b47b53f48dfcc":[7,0,0,0,1,2,16,7,4,2,20],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea7b52e8cea3f9c3167d92decd72098a3b":[7,0,0,0,1,2,16,7,4,2,8],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea8e36178c90ba01bda3e3cfb4f0acc26a":[7,0,0,0,1,2,16,7,4,2,16],
@@ -241,13 +249,5 @@ var NAVTREEINDEX142 =
 "d5/d23/classboss__flame__leviathan__safety__container.html":[6,0,475],
 "d5/d23/classboss__flame__leviathan__safety__container.html#a6bcbc4e65214a0c667875271ff9aa0dd":[6,0,475,2],
 "d5/d23/classboss__flame__leviathan__safety__container.html#ae14b2e13bd6358ad03d568f2bef042b7":[6,0,475,1],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html":[6,0,2993],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#a6fc446385881ddb4c94de73199649816":[6,0,2993,0],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#aaae368b2f647aa6a56827550e50dafe1":[6,0,2993,2],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#acaed5d5902194f8ba9d2b286cd47d8d0":[6,0,2993,1],
-"d5/d23/classspell__gen__leeching__swarm__dmg.html#ad4c84071b538b657fa1302982f8799b4":[6,0,2993,3],
-"d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html":[6,0,74],
-"d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a5d8980111e029b4c9311737f3985ab61":[6,0,74,0],
-"d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a7682a7f2f4417dcf75ec58e34e4fd6bc":[6,0,74,1],
-"d5/d26/classspell__ignis__grab__initial.html":[6,0,3199]
+"d5/d23/classspell__gen__leeching__swarm__dmg.html":[6,0,2993]
 };

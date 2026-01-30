@@ -1,0 +1,6 @@
+var classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger =
+[
+    [ "HandleScript", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
+];

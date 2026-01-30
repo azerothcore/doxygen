@@ -10,6 +10,7 @@ var shattered__halls_8h =
       [ "NPC_SH_ZEALOT", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab4b41c61d997b638ce0cd5d3edf707ff", null ],
       [ "NPC_SH_ARCHER", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaeb7f0c36fab7086027d8cfa947bfe824", null ],
       [ "NPC_SH_SCOUT", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eae9d5a78c8f26d0a7dd17e531e1943b94", null ],
+      [ "NPC_SH_FLAME_ARROW", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab1c1e7e7e958d45e162c75fccdb3a686", null ],
       [ "NPC_WARCHIEF_KARGATH", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaed7587fc7a79d17f3cc304728e4f9a82", null ],
       [ "NPC_WARCHIEF_PORTAL", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea468f0aea97332fed71283ff1f48e9600", null ],
       [ "NPC_OMROGG_LEFT_HEAD", "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab8c2d615cf7a50b5182e7b65a452872c", null ],
@@ -37,11 +38,13 @@ var shattered__halls_8h =
       [ "DATA_EXECUTIONER", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ad127e03b933f954d42557473b3995cf6", null ],
       [ "DATA_OMROGG_LEFT_HEAD", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a95c3bca8e95896b690f3503e3ef31875", null ],
       [ "DATA_OMROGG_RIGHT_HEAD", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a040e4b2e1bdad27be5dcca9a39a4e3cc", null ],
-      [ "DATA_WARCHIEF_PORTAL", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a67e96decde08b7bea19fc87ad8656e3e", null ]
+      [ "DATA_WARCHIEF_PORTAL", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22a67e96decde08b7bea19fc87ad8656e3e", null ],
+      [ "DATA_LAST_FLAME_ARROW", "de/dae/shattered__halls_8h.html#afb6eb4f28419b652027fad41104a6d22ae8a3a7519ff3b93747589918a6fe5129", null ]
     ] ],
     [ "GameobjectIds", "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744", [
       [ "GO_GRAND_WARLOCK_CHAMBER_DOOR_1", "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744a52f42ac688a13a610458ddb34ca3c4d9", null ],
-      [ "GO_GRAND_WARLOCK_CHAMBER_DOOR_2", "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744aee69234beaca015950f4daf5556bd092", null ]
+      [ "GO_GRAND_WARLOCK_CHAMBER_DOOR_2", "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744aee69234beaca015950f4daf5556bd092", null ],
+      [ "GO_BLAZE", "de/dae/shattered__halls_8h.html#acd8b54d8672687df8df94cb3d9a2a744a76cc377730af5a132be175c81db9ac9b", null ]
     ] ],
     [ "SpellIds", "de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e", [
       [ "SPELL_KARGATHS_EXECUTIONER_1", "de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57eae503c4471d43b67c9370f5d6f185762c", null ],

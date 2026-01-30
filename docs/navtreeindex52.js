@@ -1,5 +1,8 @@
 var NAVTREEINDEX52 =
 {
+"d2/d21/boss__infinite_8cpp.html":[7,0,0,0,1,3,4,1,1,1],
+"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,1,1,1,4],
+"d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,4,1,1,1,4,1],
 "d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a2ae4e6a98f2ff50cacca426b400367dd":[7,0,0,0,1,3,4,1,1,1,4,3],
 "d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,1,1,1,4,0],
 "d2/d21/boss__infinite_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a636ac4f9a79661edee736d7f55288204":[7,0,0,0,1,3,4,1,1,1,4,2],
@@ -116,8 +119,8 @@ var NAVTREEINDEX52 =
 "d2/d22/classspell__pri__mana__burn.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4":[6,0,3596,1],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[5,0,1,8,0,27],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html":[6,0,0,5,0,27],
-"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[6,0,0,5,0,27,0],
+"d2/d22/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer.html#ad64b76886d0118c6997cae9ff27dfd34":[5,0,1,8,0,27,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html":[6,0,1329,0],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a044c33fbb07470f38338941314f40788":[6,0,1329,0,10],
 "d2/d22/structinstance__pit__of__saron_1_1instance__pit__of__saron__InstanceScript.html#a0762be454d40ccdb5fe5150766c56b13":[6,0,1329,0,7],
@@ -156,11 +159,11 @@ var NAVTREEINDEX52 =
 "d2/d23/classnpc__mcmanus.html#a5e8c37ebcfa737ee3066ab8df3e453f8":[6,0,1961,2],
 "d2/d23/classnpc__mcmanus.html#acb8f8b9c10387c0bb45b7d68f7f9821f":[6,0,1961,1],
 "d2/d23/namespaceboost_1_1system.html":[5,0,8,3],
-"d2/d23/structWMODoodadData.html":[6,0,4317],
-"d2/d23/structWMODoodadData.html#a07f0d7daa9cd934768b8a603dc52bea3":[6,0,4317,1],
-"d2/d23/structWMODoodadData.html#a43774f8dd70e85e16aa8d49b5c6a25b6":[6,0,4317,2],
-"d2/d23/structWMODoodadData.html#a51f24c059516683f0744b81819186c0e":[6,0,4317,3],
-"d2/d23/structWMODoodadData.html#aff167c694a55441bcf5504f5d1933f41":[6,0,4317,0],
+"d2/d23/structWMODoodadData.html":[6,0,4320],
+"d2/d23/structWMODoodadData.html#a07f0d7daa9cd934768b8a603dc52bea3":[6,0,4320,1],
+"d2/d23/structWMODoodadData.html#a43774f8dd70e85e16aa8d49b5c6a25b6":[6,0,4320,2],
+"d2/d23/structWMODoodadData.html#a51f24c059516683f0744b81819186c0e":[6,0,4320,3],
+"d2/d23/structWMODoodadData.html#aff167c694a55441bcf5504f5d1933f41":[6,0,4320,0],
 "d2/d25/arcatraz_8h.html":[7,0,0,0,1,3,7,5,0,1],
 "d2/d25/arcatraz_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,5,0,1,1],
 "d2/d25/arcatraz_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,7,5,0,1,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda71e7af2ccd71b20d1ba8f973dc87fcbc":[7,0,0,0,1,2,36,2,21,14],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda7fd107acbf05a6bccb2a8472775a5b64":[7,0,0,0,1,2,36,2,21,13],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda8bdee5caba9821147650a73e33093c76":[7,0,0,0,1,2,36,2,21,3],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda93bf045ffdaf60a1fead61925f7ffe21":[7,0,0,0,1,2,36,2,21,0],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedaab43f4c6841032578ec09ee87ff279bf":[7,0,0,0,1,2,36,2,21,5],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedac2c8698c4a2f6fc698323b700ce7c1f4":[7,0,0,0,1,2,36,2,21,6],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeedadb3dfef23e8aff7d9e91e0d6ddc6b7d1":[7,0,0,0,1,2,36,2,21,4]
+"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda93bf045ffdaf60a1fead61925f7ffe21":[7,0,0,0,1,2,36,2,21,0]
 };

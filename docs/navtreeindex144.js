@@ -1,5 +1,13 @@
 var NAVTREEINDEX144 =
 {
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,90,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,90,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,90,2],
+"d5/d34/structMovieEntry.html":[6,0,1537],
 "d5/d34/structMovieEntry.html#accb2b5b3b157d344df1109115564796e":[6,0,1537,0],
 "d5/d34/structProgressionRequirement.html":[6,0,2452],
 "d5/d34/structProgressionRequirement.html#a0e800dd8869fedbe71e5b14aa3c79d8a":[6,0,2452,3],
@@ -136,10 +144,10 @@ var NAVTREEINDEX144 =
 "d5/d44/structnpc__ouro__spawner.html#a83c0972db4435ccf1af069574e4056f4":[6,0,2009,2],
 "d5/d44/structnpc__ouro__spawner.html#ac1591f1c172bfdda25b020e00cd0835e":[6,0,2009,3],
 "d5/d44/structnpc__ouro__spawner.html#acb18739e5a1734312ffdda35321e5f34":[6,0,2009,0],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html":[6,0,4025],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af":[6,0,4025,0],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#a51d7035477ba4e3994ef3161edc4cc69":[6,0,4025,1],
-"d5/d45/classspell__warl__seed__of__corruption__damage.html#adcc2ed25659208d0eeaec6d9673df3c6":[6,0,4025,2],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html":[6,0,4026],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af":[6,0,4026,0],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#a51d7035477ba4e3994ef3161edc4cc69":[6,0,4026,1],
+"d5/d45/classspell__warl__seed__of__corruption__damage.html#adcc2ed25659208d0eeaec6d9673df3c6":[6,0,4026,2],
 "d5/d45/structNPCVendorEntry.html":[6,0,2316],
 "d5/d45/structNPCVendorEntry.html#a04534ff42e5889995b5203a3257bc864":[6,0,2316,4],
 "d5/d45/structNPCVendorEntry.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5":[6,0,2316,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a5b4a726aa496923d81c41b038e5f7449":[6,0,705,0,3],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a6cfebecaaf673e40f97a46a09947a1f0":[6,0,705,0,1],
 "d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#a772d279407d724477560898559710433":[6,0,705,0,2],
-"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[6,0,705,0,0],
-"d5/d4a/structzm__beacon.html":[6,0,4348],
-"d5/d4a/structzm__beacon.html#a0107bfd3b1df99568e02d6ca80042c86":[6,0,4348,8],
-"d5/d4a/structzm__beacon.html#a0453edceab2132e900bec183e360e210":[6,0,4348,4],
-"d5/d4a/structzm__beacon.html#a3dc0a11a5c06079026d27852e7561b74":[6,0,4348,1],
-"d5/d4a/structzm__beacon.html#a65015a3a24a5554643ecb5da47e24eea":[6,0,4348,6],
-"d5/d4a/structzm__beacon.html#a94a5fa0517fd0713b74f50a3d1d627cc":[6,0,4348,9],
-"d5/d4a/structzm__beacon.html#a9a65209caac3791b835c1920f5a667cf":[6,0,4348,2],
-"d5/d4a/structzm__beacon.html#aa30ae484db7c69137abb13adb1b3c505":[6,0,4348,3]
+"d5/d4a/structboss__sjonnir__iron__sludge_1_1boss__sjonnir__iron__sludgeAI.html#aac57ae32188c47ca97b7331d62986e66":[6,0,705,0,0]
 };

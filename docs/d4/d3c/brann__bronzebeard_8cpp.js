@@ -3,6 +3,7 @@ var brann__bronzebeard_8cpp =
     [ "Yells", "dd/dbd/structYells.html", "dd/dbd/structYells" ],
     [ "brann_bronzebeard", "d8/d96/classbrann__bronzebeard.html", "d8/d96/classbrann__bronzebeard" ],
     [ "brann_bronzebeard::brann_bronzebeardAI", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI" ],
+    [ "spell_taunt_brann", "d4/dfa/classspell__taunt__brann.html", "d4/dfa/classspell__taunt__brann" ],
     [ "spell_hos_dark_matter", "d2/df5/classspell__hos__dark__matter.html", "d2/df5/classspell__hos__dark__matter" ],
     [ "spell_hos_dark_matter_size", "d9/d67/classspell__hos__dark__matter__size.html", "d9/d67/classspell__hos__dark__matter__size" ],
     [ "GOSSIP_ITEM_1", "d4/d3c/brann__bronzebeard_8cpp.html#a4f7e6d5fa5cb408e00605d73f02590f9", null ],

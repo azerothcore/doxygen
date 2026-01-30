@@ -1,5 +1,8 @@
 var NAVTREEINDEX46 =
 {
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html":[6,0,1912,0],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a3b43992dfeeb7b3b19e777b9629c55ce":[6,0,1912,0,0],
+"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1912,0,3],
 "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#ac365753a428009f4fc4d01ead8fe46fd":[6,0,1912,0,1],
 "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#af9be00be9867622a16103bd21311327f":[6,0,1912,0,2],
 "d1/dda/boss__epoch__hunter_8cpp.html":[7,0,0,0,1,3,4,1,2,1],
@@ -83,11 +86,11 @@ var NAVTREEINDEX46 =
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a9dbc4cc1830703c393fbeb9c0385b709":[6,0,653,0,3],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#ade379755d256c4c290e6dc8bbd862261":[6,0,653,0,1],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#af7780f467df92c9218700773d1257a8c":[6,0,653,0,2],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[6,0,3895],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[6,0,3895,0],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a3d4026e5208acb948c089a4bedba0de8":[6,0,3895,1],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a983cf678001efcbccc4b34a9ad919881":[6,0,3895,3],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#af66dc1cba6aa7511c11a071ea9a381bb":[6,0,3895,2],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[6,0,3896],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[6,0,3896,0],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a3d4026e5208acb948c089a4bedba0de8":[6,0,3896,1],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a983cf678001efcbccc4b34a9ad919881":[6,0,3896,3],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#af66dc1cba6aa7511c11a071ea9a381bb":[6,0,3896,2],
 "d1/dde/pets__script__loader_8cpp.html":[7,0,0,0,1,3,8,6],
 "d1/dde/pets__script__loader_8cpp.html#a689a4efb7777f4164aee994745a0e2d2":[7,0,0,0,1,3,8,6,4],
 "d1/dde/pets__script__loader_8cpp.html#a9852812a043673e45884dca938eff157":[7,0,0,0,1,3,8,6,2],
@@ -151,8 +154,8 @@ var NAVTREEINDEX46 =
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,12,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,32,6,26,0],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,32,6,26,1],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,12,6,26,1],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[5,0,32,6,26,1],
 "d1/de0/classnpc__stable__master.html":[6,0,2138],
 "d1/de0/classnpc__stable__master.html#a7e34e18d2dad465eb88b0388fa830490":[6,0,2138,2],
 "d1/de0/classnpc__stable__master.html#ad327340f47e10bec7f077192227b0899":[6,0,2138,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX46 =
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fabdd64828eb3b9112e567a8c0fff65795":[7,0,0,0,1,3,9,2,183,9],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fac0dbc0e4c5ae503fb39798c5ac8629bb":[7,0,0,0,1,3,9,2,183,4],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad3c10a73269e416bf262537d308f6fc6":[7,0,0,0,1,3,9,2,183,27],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad64a4f238664a1f1c10ac4225517f53d":[7,0,0,0,1,3,9,2,183,7],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadb4f74f1bd4a153f6b6514eba512d2b5":[7,0,0,0,1,3,9,2,183,28],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadddddbf72d096366d6d872035aa2984e":[7,0,0,0,1,3,9,2,183,0],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fadfedde76aba2d299ab2f44b29e1a3fc2":[7,0,0,0,1,3,9,2,183,6]
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fad64a4f238664a1f1c10ac4225517f53d":[7,0,0,0,1,3,9,2,183,7]
 };

@@ -7,7 +7,7 @@ var structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMa
     [ "IsEncounterInProgress", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#aa7a833aa22e9f99c10bc3f9c6b06fc9b", null ],
     [ "OnCreatureCreate", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#abe14c696da1e452c2d79f20e4a729c12", null ],
     [ "OnGameObjectCreate", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#accc79892118cce948568d7810ce64e23", null ],
-    [ "OnPlayerEnter", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#ae196d774c296cd8230946418832d158a", null ],
+    [ "OnPlayerEnter", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#a650605613671c1eeef4c36b24a5c4cf4", null ],
     [ "ProcessEvent", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#a70b9ae907b6fe2a28333ea7f1a0999d9", null ],
     [ "ReadSaveDataMore", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#a424b9a865e3d4f7953990b072599e98c", null ],
     [ "SetData", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html#a7795b115419ed6f74735535c2c9f3b74", null ],

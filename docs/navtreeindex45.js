@@ -1,5 +1,8 @@
 var NAVTREEINDEX45 =
 {
+"d1/dd0/classboss__mal__ganis.html#a604becb65e766f4fb71d2ae168d1be4e":[6,0,612,1],
+"d1/dd0/classboss__mal__ganis.html#aa747abd11310c3535ea2ea37e4aac28b":[6,0,612,2],
+"d1/dd1/classgo__veil__skith__cage.html":[6,0,1203],
 "d1/dd1/classgo__veil__skith__cage.html#a6724dc73ecf83305e5234eb0a2ad1d3c":[6,0,1203,1],
 "d1/dd1/classgo__veil__skith__cage.html#ac3fe1fdf2f12571fafc56e71a932994e":[6,0,1203,0],
 "d1/dd1/structboss__gahzranka.html":[6,0,489],
@@ -10,8 +13,8 @@ var NAVTREEINDEX45 =
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,29,28],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[5,0,29,28,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[6,0,10,28,0],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,10,28,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,29,28,2],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,10,28,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,29,28,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,10,28,1],
 "d1/dd4/Item_8h.html":[7,0,0,0,1,2,16,4,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX45 =
 "d1/dd6/WorldSocket_8cpp.html#a3ec87fe2f43cce4ee6bfb90744e72a0d":[7,0,0,0,1,2,39,9,2],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html":[6,0,1629],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html#a295eee4baef6a53cf291fdf155cfdf4a":[6,0,1629,2],
-"d1/dd9/classnpc__av__marshal__or__warmaster.html#a7ffc93248d66d50d5d75d1fcf1f907ee":[6,0,1629,1],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html":[6,0,1912,0],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a3b43992dfeeb7b3b19e777b9629c55ce":[6,0,1912,0,0],
-"d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html#a8fcbb19279b925138ba96d2a450fc404":[6,0,1912,0,3]
+"d1/dd9/classnpc__av__marshal__or__warmaster.html#a7ffc93248d66d50d5d75d1fcf1f907ee":[6,0,1629,1]
 };
