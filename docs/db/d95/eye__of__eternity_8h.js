@@ -1,11 +1,11 @@
 var eye__of__eternity_8h =
 [
-    [ "EoEDrakeEnterVehicleEvent", "dd/d19/classEoEDrakeEnterVehicleEvent.html", "dd/d19/classEoEDrakeEnterVehicleEvent" ],
     [ "ALEXSTRASZA_GIFT", "db/d95/eye__of__eternity_8h.html#a75e648e1864b15a814c2c3e02faf6336", null ],
     [ "DataHeader", "db/d95/eye__of__eternity_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "EyeOfEternityScriptName", "db/d95/eye__of__eternity_8h.html#a7ce256d13936cff51c83835c5e3329f9", null ],
     [ "HEART_OF_MAGIC", "db/d95/eye__of__eternity_8h.html#af59d6ded8cc013d2fbafa76cc1ff948a", null ],
     [ "INTRO_MOVEMENT_INTERVAL", "db/d95/eye__of__eternity_8h.html#a914791b23da531680a3fa365d19e7919", null ],
+    [ "RegisterEoECreatureAI", "db/d95/eye__of__eternity_8h.html#a7e91271b328cb120e1f5f75539ef83fa", null ],
     [ "Data", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "DATA_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
       [ "DATA_ENCOUNTER_STATUS", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a06e771c0d2e0da47d4fd955db056b0c4", null ],

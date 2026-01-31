@@ -63,7 +63,7 @@ var searchData=
   ['vertexpertileedge_60',['vertexpertileedge',['../db/dca/structMMAP_1_1Config_1_1GlobalConfig.html#a5a801e68fac6d59c1a236aeaf374bc9e',1,'MMAP::Config::GlobalConfig::vertexPerTileEdge'],['../d1/d05/structMmapTileRecastConfig.html#a88fd7166e3555df1307ad0e1a7dfc8f6',1,'MmapTileRecastConfig::vertexPerTileEdge'],['../de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1',1,'MMAP::ResolvedMeshConfig::vertexPerTileEdge'],['../dd/d5d/structMMAP_1_1Config_1_1MapOverride.html#a8dd6b0146358fcbbb6b7c56a96c467c9',1,'MMAP::Config::MapOverride::vertexPerTileEdge']]],
   ['vertical_5facceleration_61',['vertical_acceleration',['../d3/d68/classMovement_1_1MoveSpline.html#a9cd70abff5088d0fc9a32a9a6091c541',1,'Movement::MoveSpline']]],
   ['vertices_62',['vertices',['../d2/da8/classVMAP_1_1GroupModel.html#a0e784e5b8967ee5c475fab8e2e80ca88',1,'VMAP::GroupModel::vertices'],['../de/df9/structVMAP_1_1GModelRayCallback.html#af80815b123c6611f38e3d5b41e501546',1,'VMAP::GModelRayCallback::vertices'],['../d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe',1,'Model::vertices'],['../d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb',1,'VMAP::TriBoundFunc::vertices']]],
-  ['victim_63',['victim',['../d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f',1,'WorldPackets::CombatLog::EnvironmentalDamageLog::Victim'],['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2',1,'lfg::LfgPlayerBoot::victim']]],
+  ['victim_63',['victim',['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2',1,'lfg::LfgPlayerBoot::victim'],['../d7/d41/classWorldPackets_1_1CombatLog_1_1EnvironmentalDamageLog.html#a020fffe9517d30e965a4d6f6602dd05f',1,'WorldPackets::CombatLog::EnvironmentalDamageLog::Victim']]],
   ['victimguid_64',['victimGUID',['../d8/d46/structboss__maexxna__webwrap_1_1boss__maexxna__webwrapAI.html#a54081ebfc0df639b7e18b5f079802c92',1,'boss_maexxna_webwrap::boss_maexxna_webwrapAI']]],
   ['victimpos_65',['victimPos',['../d7/d2c/structnpc__taldaram__flamesphere.html#ae681d84f2324faf22296dcb6e08484b0',1,'npc_taldaram_flamesphere']]],
   ['victimsperepos_66',['victimSperePos',['../df/d7c/structboss__taldaram.html#a06efb376b0d08207a0efce74770f21dc',1,'boss_taldaram']]],
@@ -89,7 +89,7 @@ var searchData=
   ['volunteerwork_86',['volunteerWork',['../d4/dae/structboss__jedoga__shadowseeker.html#aa0ff8d7556662b8db97aebcf27e0d5e4',1,'boss_jedoga_shadowseeker']]],
   ['vorpilposition_87',['VorpilPosition',['../d1/d7a/boss__grandmaster__vorpil_8cpp.html#a2eabc22870206fb595c73ad86cc767ed',1,'boss_grandmaster_vorpil.cpp']]],
   ['vorshacoord_88',['VorshaCoord',['../df/d42/zone__ashenvale_8cpp.html#ab15d952fc1bf94911661206ead25b5b1',1,'zone_ashenvale.cpp']]],
-  ['vortex_5fradius_89',['VORTEX_RADIUS',['../dd/d3e/structnpc__vortex__ride_1_1npc__vortex__rideAI.html#adec384ccbdc5f2b90a1d09c67b47d24f',1,'npc_vortex_ride::npc_vortex_rideAI']]],
+  ['vortex_5fradius_89',['VORTEX_RADIUS',['../d7/d60/structnpc__vortex__ride.html#ad7539b34beea5abb05f443d1f5f22675',1,'npc_vortex_ride']]],
   ['vortexpositions_90',['VortexPositions',['../db/d4e/boss__ossirian_8cpp.html#af9c6051ecc2a3d0ec0dfc3dd0567a96e',1,'boss_ossirian.cpp']]],
   ['votes_91',['votes',['../d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304',1,'lfg::LfgPlayerBoot']]]
 ];

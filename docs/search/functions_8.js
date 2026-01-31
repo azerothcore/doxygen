@@ -647,7 +647,7 @@ var searchData=
   ['handleinstancesetbossstatecommand_644',['HandleInstanceSetBossStateCommand',['../d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b',1,'instance_commandscript']]],
   ['handleinstancestatscommand_645',['HandleInstanceStatsCommand',['../d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44',1,'instance_commandscript']]],
   ['handleinstanceunbindcommand_646',['HandleInstanceUnbindCommand',['../d1/dba/classinstance__commandscript.html#a7abbe257b10632f2acbdd838e1f073a9',1,'instance_commandscript']]],
-  ['handleintrospeech_647',['HandleIntroSpeech',['../db/dfc/structboss__malygos_1_1boss__malygosAI.html#ab959171061519d41998dc9a7e76f3a60',1,'boss_malygos::boss_malygosAI']]],
+  ['handleintrospeech_647',['HandleIntroSpeech',['../de/d52/structboss__malygos.html#a648e2f73ffead8912659bc342ec70774',1,'boss_malygos']]],
   ['handleinventorycountcommand_648',['HandleInventoryCountCommand',['../dc/d73/classinventory__commandscript.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3',1,'inventory_commandscript']]],
   ['handleinvitemember_649',['HandleInviteMember',['../de/d79/classGuild.html#a736e25af77eb683c295b585c4f5423e0',1,'Guild']]],
   ['handleitemmovecommand_650',['HandleItemMoveCommand',['../dd/d8b/classitem__commandscript.html#a6adae7cb08c0e69ac0a20c107f818a57',1,'item_commandscript']]],

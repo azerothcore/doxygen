@@ -935,7 +935,7 @@ var searchData=
   ['close_5fdoors_5ftime_932',['CLOSE_DOORS_TIME',['../d0/d91/BattlegroundIC_8h.html#a3c5d18364f664b5ad98e2ad610875cb5a874c2776e5fc800948efbc933f6d7337',1,'BattlegroundIC.h']]],
   ['close_5fin_5fon_5funpathable_5ftarget_933',['CLOSE_IN_ON_UNPATHABLE_TARGET',['../de/d0a/SharedDefines_8h.html#a6e63261b155771d34d267c90555209e3a0fc8be587804e843b7c21cfe5f63e9c5',1,'SharedDefines.h']]],
   ['closeandlock_934',['CloseAndLock',['../d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05',1,'GameObject.h']]],
-  ['closed_935',['closed',['../da/d75/Socket_8h.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e',1,'Closed:&#160;Socket.h'],['../d9/d61/boss__darkmaster__gandling_8cpp.html#a117f8df7c03b73093e6da94ae41b4252a929f0327e17604ce9713b2a6117bd603',1,'CLOSED:&#160;boss_darkmaster_gandling.cpp']]],
+  ['closed_935',['closed',['../d9/d61/boss__darkmaster__gandling_8cpp.html#a117f8df7c03b73093e6da94ae41b4252a929f0327e17604ce9713b2a6117bd603',1,'CLOSED:&#160;boss_darkmaster_gandling.cpp'],['../da/d75/Socket_8h.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e',1,'Closed:&#160;Socket.h']]],
   ['closing_936',['Closing',['../da/d75/Socket_8h.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e',1,'Socket.h']]],
   ['cmsg_5faccept_5flevel_5fgrant_937',['CMSG_ACCEPT_LEVEL_GRANT',['../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9babdf7e16d5b41c8a112454edbbbf15d5b',1,'Opcodes.h']]],
   ['cmsg_5faccept_5ftrade_938',['CMSG_ACCEPT_TRADE',['../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba03b7599c8e6dbf416441bfddbfc626d4',1,'Opcodes.h']]],
