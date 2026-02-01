@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d61/structCreatureTemplate.html#af77004d19cbb94f3ec3fa3be5daf1dca":[6,0,939,40],
 "d1/d61/structCreatureTemplate.html#af88626941d13903be805def34aa8e3ed":[6,0,939,44],
 "d1/d61/structCreatureTemplate.html#af91153c0555b1947b0bf5f4d2574439a":[6,0,939,25],
 "d1/d61/structCreatureTemplate.html#afcb636bae580e98ef260933a91e189f5":[6,0,939,26],
@@ -42,8 +43,8 @@ var NAVTREEINDEX34 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2051,0,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,32,14,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,12,14,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,14,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,32,14,1,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,14,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,14,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,32,14,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,12,14,1,2],
@@ -66,18 +67,18 @@ var NAVTREEINDEX34 =
 "d1/d63/structargentPonyBanner.html#a740f9162b10d31d1677a4ac4f5926db6":[6,0,204,1],
 "d1/d63/structargentPonyBanner.html#aa92e42bc2c54c3b4b1022d5767fcf10c":[6,0,204,2],
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[6,0,204,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,88],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3726],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[6,0,3726,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[6,0,3726,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d67/structnpc__high__oracle__soo__roo.html#ac22cfa519e478da643a51ae887f306fd":[6,0,1841,3],
 "d1/d67/structnpc__high__oracle__soo__roo.html#acd6636eb290a2fe4470b04d467ff7fa1":[6,0,1841,4],
 "d1/d67/structnpc__high__oracle__soo__roo.html#ae3b4da2d6b888cf6325bb93b3fdbde7f":[6,0,1841,1],
-"d1/d68/classspell__ignis__scorch__aura.html":[6,0,3199],
-"d1/d68/classspell__ignis__scorch__aura.html#a0996c661dbc4e9a4bd35c1368247c7eb":[6,0,3199,1]
+"d1/d68/classspell__ignis__scorch__aura.html":[6,0,3199]
 };

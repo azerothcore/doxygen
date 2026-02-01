@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df5/classspell__hos__dark__matter.html#abe52dbfdbd42c860e0a79873dd19e22d":[6,0,3128,2],
 "d2/df5/classspell__hos__dark__matter.html#ad8035b1b676751fcc299e4ad8df62ed8":[6,0,3128,1],
 "d2/df5/classspell__hos__dark__matter.html#af61220cb739baef9b33aecddb1cfe5ea":[6,0,3128,0],
 "d2/df5/classspell__vehicle__grab__pyrite.html":[6,0,3985],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html":[6,0,633,0],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a277e52b7086db7e6447c4ad07ff8c8a2":[6,0,633,0,0],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3471692c39233f3c25cdc875c0078f2c":[6,0,633,0,5],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3b2e5636b6c13bc243a067cacc7ab529":[6,0,633,0,1],
-"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108":[6,0,633,0,3]
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a3b2e5636b6c13bc243a067cacc7ab529":[6,0,633,0,1]
 };

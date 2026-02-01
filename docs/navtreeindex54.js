@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d30/classspell__halion__clear__debuffs.html#a9582a8faa1b8ba973a76d651a7479348":[6,0,3086,0],
 "d2/d30/classspell__halion__clear__debuffs.html#ae4a5c7952856caf2a2d3919b24b61949":[6,0,3086,3],
 "d2/d30/classspell__halion__clear__debuffs.html#aebfea5eb3339ede812b43a08a8cb82b9":[6,0,3086,2],
 "d2/d30/structgo__troll__cage_1_1go__troll__cageAI.html":[6,0,1196,0],
@@ -65,8 +66,8 @@ var NAVTREEINDEX54 =
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,32,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,32,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,12,2,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,32,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,12,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,32,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139":[7,0,0,0,1,2,8,1,1,16],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d38/northrend__script__loader_8cpp.html#a658ab117fdf89fd0f299ab8b309d41d2":[7,0,0,0,1,3,5,14,135],
 "d2/d38/northrend__script__loader_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,14,93],
 "d2/d38/northrend__script__loader_8cpp.html#a67b00a327f4faf8b4f2d9c089cc89d02":[7,0,0,0,1,3,5,14,116],
-"d2/d38/northrend__script__loader_8cpp.html#a682a6069fe297ce81f68ab2d1f9196ea":[7,0,0,0,1,3,5,14,72],
-"d2/d38/northrend__script__loader_8cpp.html#a687b8db013a6ffd4e1920834472172d6":[7,0,0,0,1,3,5,14,39]
+"d2/d38/northrend__script__loader_8cpp.html#a682a6069fe297ce81f68ab2d1f9196ea":[7,0,0,0,1,3,5,14,72]
 };

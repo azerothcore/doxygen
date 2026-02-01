@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html#a5a4117de9e45cea9e9086b3b4daed404":[6,0,1870,0,3],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html#a685f45e5cd15b005646e596ff61088e8":[6,0,1870,0,0],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html#a9274e05e45c07d14c7df5c623e2769d4":[6,0,1870,0,2],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html#ac056ecdd93bc716964054f38ab81014e":[6,0,1870,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda519915a9d5405dbdf18effc84a0b3218":[7,0,0,0,1,2,36,2,21,2],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda576763d14de26f190cda1c78246d6b62":[7,0,0,0,1,2,36,2,21,10],
 "d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda63ec13a1563a0768de6069e080fef312":[7,0,0,0,1,2,36,2,21,11],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda64623fa376a4cd5a26f6105b67f1e00c":[7,0,0,0,1,2,36,2,21,7],
-"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda71e7af2ccd71b20d1ba8f973dc87fcbc":[7,0,0,0,1,2,36,2,21,14]
+"d2/d27/QuestDef_8h.html#a4947c7f0350e13fba41d5ece641faeeda64623fa376a4cd5a26f6105b67f1e00c":[7,0,0,0,1,2,36,2,21,7]
 };

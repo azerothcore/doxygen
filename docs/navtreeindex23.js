@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"d0/dff/classUpdateMask.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b":[6,0,4252,1,0],
 "d0/dff/classUpdateMask.html#a69f7c72de49699d5730f3a10d55f30e2":[6,0,4252,7],
 "d0/dff/classUpdateMask.html#a6c7ed53833620c2754b1e0db85a96ece":[6,0,4252,19],
 "d0/dff/classUpdateMask.html#a72e9de07108361222addde025ea8362f":[6,0,4252,2],
@@ -203,12 +204,12 @@ var NAVTREEINDEX23 =
 "d1/d01/structWMOLiquidVert.html#a6c08b6fa33e12a9900218d0d0b8b78d5":[6,0,4322,1],
 "d1/d01/structWMOLiquidVert.html#a7638f586a055c48a46e36471543ff72f":[6,0,4322,0],
 "d1/d02/BattlefieldWG_8cpp.html":[7,0,0,0,1,2,7,0,0],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,32,15,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[6,0,12,15,1],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,12,15,1,0],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html":[5,0,32,15,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[5,0,32,15,1,0],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[6,0,12,15,1,2],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,12,15,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,32,15,1,2],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[6,0,12,15,1,2],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[6,0,12,15,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,32,15,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[6,0,12,15,1,3],
@@ -245,9 +246,8 @@ var NAVTREEINDEX23 =
 "d1/d05/classspell__war__sudden__death__aura.html#a3df5a215670c7a1e07bc901e442bb11c":[6,0,3997,2],
 "d1/d05/classspell__war__sudden__death__aura.html#a947c7b94512fbfdd8b51cfa8044d2e6c":[6,0,3997,0],
 "d1/d05/classspell__war__sudden__death__aura.html#aa184faf59edbad97ec361e66169137b9":[6,0,3997,1],
-"d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,115],
 "d1/d05/structAcore_1_1VisibleNotifier.html":[5,0,1,127],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,115,6],
+"d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,115],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,127,6],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[6,0,0,115,8]
+"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,115,6]
 };

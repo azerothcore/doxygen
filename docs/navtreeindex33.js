@@ -1,5 +1,6 @@
 var NAVTREEINDEX33 =
 {
+"d1/d55/classspell__karazhan__temptation.html":[6,0,3375],
 "d1/d55/classspell__karazhan__temptation.html#a24df76ff0933685bade58deff98856d2":[6,0,3375,2],
 "d1/d55/classspell__karazhan__temptation.html#a43953f2950d9a92db66a2c65a045ff6e":[6,0,3375,1],
 "d1/d55/classspell__karazhan__temptation.html#a945dad46d3c11ee4720c939390a9dc1b":[6,0,3375,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX33 =
 "d1/d61/structCreatureTemplate.html#ae8109936f1c52efe487803cfab29a581":[6,0,939,59],
 "d1/d61/structCreatureTemplate.html#af430ad69b2aa35c1788997dc5638c4c6":[6,0,939,61],
 "d1/d61/structCreatureTemplate.html#af596e49e3418f003b8ed9c6bb8305e01":[6,0,939,22],
-"d1/d61/structCreatureTemplate.html#af686b0d1ff954f16a3068eaee85b0c98":[6,0,939,18],
-"d1/d61/structCreatureTemplate.html#af77004d19cbb94f3ec3fa3be5daf1dca":[6,0,939,40]
+"d1/d61/structCreatureTemplate.html#af686b0d1ff954f16a3068eaee85b0c98":[6,0,939,18]
 };

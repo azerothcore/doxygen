@@ -1,8 +1,5 @@
 var NAVTREEINDEX377 =
 {
-"de/dd8/classInstanceMap.html#aa7191fa5eeb80404dde25802e64878cc":[6,0,1364,4],
-"de/dd8/classInstanceMap.html#aabae71377e431f1690fa3934b1bd2a5c":[6,0,1364,19],
-"de/dd8/classInstanceMap.html#aabfd4a995353adcd4ab0bd64b8e59b7e":[6,0,1364,18],
 "de/dd8/classInstanceMap.html#aac59e76c4c67bffa05b8c5994f004a18":[6,0,1364,1],
 "de/dd8/classInstanceMap.html#ab8eaa34f2319d5a2d40900360756a5c9":[6,0,1364,12],
 "de/dd8/classInstanceMap.html#aceb53450ca21e22bbf414f16d7923737":[6,0,1364,6],
@@ -249,5 +246,8 @@ var NAVTREEINDEX377 =
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac36d76ad8a5ecb2e437dcb8f1248386d":[6,0,2709,2],
 "de/de5/classspell__capacitus__polarity__charge__aura.html#ac9756a8f206c114ff6443331ca266184":[6,0,2709,0],
 "de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html":[6,0,1334,0],
-"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[6,0,1334,0,1]
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a07d9bcc1b1daa29f31be146aaa85993c":[6,0,1334,0,1],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1abdafc284def7ab4069a17c0aeda535":[6,0,1334,0,6],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a1c9c74f06b2e1db77d5e6c75e720290c":[6,0,1334,0,9],
+"de/de7/structinstance__scarlet__monastery_1_1instance__scarlet__monastery__InstanceMapScript.html#a49ac1088399ef71b1fcd7c90c6a34fac":[6,0,1334,0,2]
 };

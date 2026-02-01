@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d1/dd6/WorldSocket_8cpp.html#a3ec87fe2f43cce4ee6bfb90744e72a0d":[7,0,0,0,1,2,39,9,2],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html":[6,0,1628],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html#a295eee4baef6a53cf291fdf155cfdf4a":[6,0,1628,2],
 "d1/dd9/classnpc__av__marshal__or__warmaster.html#a7ffc93248d66d50d5d75d1fcf1f907ee":[6,0,1628,1],
@@ -153,8 +154,8 @@ var NAVTREEINDEX46 =
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[6,0,1458,19],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[6,0,12,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,32,6,26],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,32,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,32,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,12,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,32,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,12,6,26,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa960f11fd91f87c9d53376107e6d7dd12":[7,0,0,0,1,3,9,2,183,18],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa9d0500773a2dac48445fb5cb0d6e1e66":[7,0,0,0,1,3,9,2,183,21],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34faae233451e7927c6cf0b97f9340bb5bfc":[7,0,0,0,1,3,9,2,183,23],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fab4358e90b497dfdba0e47a7ee871154d":[7,0,0,0,1,3,9,2,183,26],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fabdd64828eb3b9112e567a8c0fff65795":[7,0,0,0,1,3,9,2,183,9]
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fab4358e90b497dfdba0e47a7ee871154d":[7,0,0,0,1,3,9,2,183,26]
 };

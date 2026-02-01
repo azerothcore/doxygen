@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d79/instance__icecrown__citadel_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,5,6,15,6],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a95da95220e07aa19e5b78b57895117ae":[7,0,0,0,1,3,5,6,15,6,0],
 "d3/d79/instance__icecrown__citadel_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,5,6,15,10],
 "d3/d79/instance__icecrown__citadel_8cpp.html#ab889d91b737f99f7c83d607fd615a157":[7,0,0,0,1,3,5,6,15,22],
@@ -150,8 +151,8 @@ var NAVTREEINDEX101 =
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae471545eff60a92540bc1dbb2c5c132a":[7,0,0,0,1,3,5,2,0,5,2,15],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19aed6e91b58a89d58d9a117c065201ed3d":[7,0,0,0,1,3,5,2,0,5,2,5],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19af4e06416d3f8096da97e8da8d825a7c3":[7,0,0,0,1,3,5,2,0,5,2,1],
-"d3/d81/trial__of__the__champion_8h.html#aa068aef9d884a9a392d579e59a774cea":[7,0,0,0,1,3,5,2,0,5,1],
-"d3/d81/trial__of__the__champion_8h.html#aafc8c074c401ed6c3767e66ecaf56f5d":[7,0,0,0,1,3,5,2,0,5,7]
+"d3/d81/trial__of__the__champion_8h.html#aa068aef9d884a9a392d579e59a774cea":[7,0,0,0,1,3,5,2,0,5,1]
 };

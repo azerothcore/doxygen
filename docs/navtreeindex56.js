@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d3f/classSQLQueryHolderCallback.html#afc2cb6a483d17ae115e947bc88fe592b":[6,0,4155,0],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html":[6,0,1353,0],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a18f5e55387e7262ff5a8a02b77744c62":[6,0,1353,0,23],
 "d2/d3f/structinstance__trial__of__the__crusader_1_1instance__trial__of__the__crusader__InstanceMapScript.html#a19e634103111cd6a1270ad71dbd40cf4":[6,0,1353,0,31],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d48/classspell__item__anti__venom.html":[6,0,3232],
 "d2/d48/classspell__item__anti__venom.html#ab37569c6b2362220cbce92eb184cc6db":[6,0,3232,2],
 "d2/d48/classspell__item__anti__venom.html#ade4c16273ebefaeefac3bfb51c61d19a":[6,0,3232,0],
-"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[6,0,3232,1],
-"d2/d48/structFactionState.html":[6,0,1034]
+"d2/d48/classspell__item__anti__venom.html#adfa89e065aa18b3e11998331c426151a":[6,0,3232,1]
 };

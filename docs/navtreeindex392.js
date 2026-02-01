@@ -1,8 +1,5 @@
 var NAVTREEINDEX392 =
 {
-"df/d8e/classspell__mage__burnout__trigger.html#a4fde3142b38989cb37db76da6eada03c":[6,0,3429,0],
-"df/d8e/classspell__mage__burnout__trigger.html#aa694a1a7cbbe0f20226d7e616e19cefb":[6,0,3429,1],
-"df/d91/structboss__high__botanist__freywinn.html":[6,0,533],
 "df/d91/structboss__high__botanist__freywinn.html#a06adcf26cb264d35a16ca416661ab4bd":[6,0,533,4],
 "df/d91/structboss__high__botanist__freywinn.html#a7b370482ea195d0305cba339ce0cbab3":[6,0,533,1],
 "df/d91/structboss__high__botanist__freywinn.html#a7f1a02d4b944191471f59ba728b6372e":[6,0,533,5],
@@ -98,8 +95,8 @@ var NAVTREEINDEX392 =
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2204,0,3],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[6,0,2204,0,1],
 "df/d94/classDBCFile_1_1Iterator.html":[6,0,960,1],
-"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,960,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,960,1,10],
+"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,960,1,11],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,960,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,960,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,960,1,5],
@@ -249,5 +246,8 @@ var NAVTREEINDEX392 =
 "df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f":[7,0,0,0,1,3,6,8,5,0],
 "df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2":[7,0,0,0,1,3,6,8,5,1],
 "df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d":[7,0,0,0,1,3,6,8,5,3],
-"df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3":[7,0,0,0,1,3,6,8,5,2]
+"df/d9a/OutdoorPvPNA_8h.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3":[7,0,0,0,1,3,6,8,5,2],
+"df/d9a/OutdoorPvPNA_8h.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4":[7,0,0,0,1,3,6,8,11],
+"df/d9a/OutdoorPvPNA_8h.html#a6fd5686dd6cf4251b3b33513928f44bd":[7,0,0,0,1,3,6,8,23],
+"df/d9a/OutdoorPvPNA_8h.html#a74f493038b14c5e7e5a00c661339278e":[7,0,0,0,1,3,6,8,22]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/dfa/CreatureTextMgr_8h.html#a2dc428da007cefe454220dcb355a1cde":[7,0,0,0,1,2,42,3,5],
 "d1/dfa/CreatureTextMgr_8h.html#a9baeb5ff5e542c90d9058942cf0b4bbd":[7,0,0,0,1,2,42,3,6],
 "d1/dfa/CreatureTextMgr_8h.html#aad09b58ddf486cb766cdeb242824cd2d":[7,0,0,0,1,2,42,3,7],
 "d1/dfa/CreatureTextMgr_8h.html#ab39b2d82775a84108d19ed009bd14747":[7,0,0,0,1,2,42,3,9],
@@ -224,16 +225,16 @@ var NAVTREEINDEX49 =
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ad501fe77b1d678cb593be6a0a8afd0a8":[6,0,2342,11],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae16e1448e5c21daea0a56ede78b3174a":[6,0,2342,1],
 "d2/d0b/classOPvPCapturePointZM__Graveyard.html#ae907325621c0c0a40fc1e7761b81e832":[6,0,2342,10],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,32,11,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[6,0,12,11,2],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[6,0,12,11,2,2],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html":[5,0,32,11,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,32,11,2,2],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[6,0,12,11,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,12,11,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,32,11,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,12,11,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,32,11,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,32,11,2,0],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,12,11,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,32,11,2,0],
 "d2/d0c/structAchievementReward.html":[6,0,120],
 "d2/d0c/structAchievementReward.html#a45644f308278529f822080f8274180d8":[6,0,120,3],
 "d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,120,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95":[7,0,0,0,1,2,38,0,19,1,7],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182":[7,0,0,0,1,2,38,0,19,1,2],
 "d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae":[7,0,0,0,1,2,38,0,19,1,1],
-"d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[7,0,0,0,1,2,38,0,19,1,4],
-"d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0":[7,0,0,0,1,2,38,0,19,1,3]
+"d2/d0d/AllMapScript_8h.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02":[7,0,0,0,1,2,38,0,19,1,4]
 };

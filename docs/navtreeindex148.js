@@ -1,8 +1,5 @@
 var NAVTREEINDEX148 =
 {
-"d5/d77/GameObjectModel_8cpp.html#a2f908ce58f8fea2d0606bfe603d719d1":[7,0,0,0,0,1,2,0,1],
-"d5/d77/GameObjectModel_8cpp.html#a5a80774080fc05f90c7d92213fda6788":[7,0,0,0,0,1,2,0,2],
-"d5/d77/GameObjectModel_8cpp.html#aa0a0fd13eaa3eba090a3085d41303f12":[7,0,0,0,0,1,2,0,3],
 "d5/d77/classspell__leotheras__demon__link.html":[6,0,3408],
 "d5/d77/classspell__leotheras__demon__link.html#a8444053fa146a4163ea905634be78dfc":[6,0,3408,1],
 "d5/d77/classspell__leotheras__demon__link.html#aad8868dc3d00fd3ea648abe7b536970d":[6,0,3408,2],
@@ -125,8 +122,8 @@ var NAVTREEINDEX148 =
 "d5/d79/structnpc__telonicus.html":[6,0,2164],
 "d5/d79/structnpc__telonicus.html#a49501a607aeb901aa99e94d9dd0e161b":[6,0,2164,1],
 "d5/d79/structnpc__telonicus.html#af8ba6be2d39463725bbbaf7770319a93":[6,0,2164,0],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html":[6,0,0,42],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html":[5,0,1,54],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html":[6,0,0,42],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[5,0,1,54,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a08635cefbba5dca34734569816d2edb8":[6,0,0,42,2],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a2b9afe2c43af6e68f7fa5ba661790ef9":[5,0,1,54,3],
@@ -135,8 +132,8 @@ var NAVTREEINDEX148 =
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d":[6,0,0,42,0],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[5,0,1,54,5],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#a9dd25e3437e1c1e5e4c8d68ab3548500":[6,0,0,42,5],
-"d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[5,0,1,54,4],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[6,0,0,42,4],
+"d5/d7a/structAcore_1_1CreatureLastSearcher.html#ab8a14acb8d0fc9835d1325430fa1a367":[5,0,1,54,4],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[5,0,1,54,1],
 "d5/d7a/structAcore_1_1CreatureLastSearcher.html#ae6774df4ffff18cd4f3b4c07724db4f4":[6,0,0,42,1],
 "d5/d7b/boss__ormorok_8cpp.html":[7,0,0,0,1,3,5,8,1,4],
@@ -176,8 +173,8 @@ var NAVTREEINDEX148 =
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a639ab6c078d7c746bcb328526df705be":[5,0,32,25,2],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[5,0,32,25,3],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6":[6,0,12,25,3],
-"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[6,0,12,25,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[5,0,32,25,5],
+"d5/d7b/classWorldPackets_1_1ServerPacket.html#a6fa19a94d57484aaff3498be01495258":[6,0,12,25,5],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[5,0,32,25,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#aa54f2fa66cfe4682ca56cf01f9e1296a":[6,0,12,25,1],
 "d5/d7b/classWorldPackets_1_1ServerPacket.html#ae49aa7bce566d9f0ea3c7bbb487a119d":[6,0,12,25,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX148 =
 "d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1bc2d4db34bbace04c423513eb9427ef":[7,0,0,0,1,3,5,9,2,12,24,9],
 "d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,9,2,12,24,0],
 "d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a599299b141c7f46a95fc8f04df513ead":[7,0,0,0,1,3,5,9,2,12,24,3],
-"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a883b6a9097c644576c7fefaf102c25f9":[7,0,0,0,1,3,5,9,2,12,24,11]
+"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a883b6a9097c644576c7fefaf102c25f9":[7,0,0,0,1,3,5,9,2,12,24,11],
+"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9d7b75367d584dafd3bc09185c9e9002":[7,0,0,0,1,3,5,9,2,12,24,10],
+"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,2,12,24,4],
+"d5/d7d/boss__xt002_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa7828699a2c74ef0744d37753552a957":[7,0,0,0,1,3,5,9,2,12,24,8]
 };

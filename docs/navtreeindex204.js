@@ -1,8 +1,5 @@
 var NAVTREEINDEX204 =
 {
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4":[7,0,0,0,1,3,5,2,1,4,13,1],
-"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf":[7,0,0,0,1,3,5,2,1,4,13,2],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a7856b7938de2e6a89176fb130bb602db":[7,0,0,0,1,3,5,2,1,4,13,0],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a8a7aff98e443da9bf05b24611779948e":[7,0,0,0,1,3,5,2,1,4,13,3],
 "d7/dc0/boss__twin__valkyr_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,2,1,4,15],
@@ -249,5 +246,8 @@ var NAVTREEINDEX204 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad03c27a0167ecd9ee2e560c053b040ca":[6,0,1355,0,6],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad4f48f48629950323391782619c9370e":[6,0,1355,0,31],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad896b7c62bf50fbf23ab863c8bf6e1d8":[6,0,1355,0,77],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ada77fe641387c5d96a11ed70884c1e5e":[6,0,1355,0,9]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ada77fe641387c5d96a11ed70884c1e5e":[6,0,1355,0,9],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#adbfc145d0fbb58bfb43d6f50e4844aa9":[6,0,1355,0,65],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ae9701192f9ecee1cc371de0e4aac1749":[6,0,1355,0,41],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aef7c9ab9977a037f1021efd9fe83e921":[6,0,1355,0,83]
 };

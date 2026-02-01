@@ -459,7 +459,7 @@ var searchData=
   ['boss_5fmal_5fganis_456',['boss_mal_ganis',['../d1/dd0/classboss__mal__ganis.html#a604becb65e766f4fb71d2ae168d1be4e',1,'boss_mal_ganis']]],
   ['boss_5fmal_5fganisai_457',['boss_mal_ganisAI',['../d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#aa8b70930372cd0729686f7c6032d3152',1,'boss_mal_ganis::boss_mal_ganisAI']]],
   ['boss_5fmalchezaar_458',['boss_malchezaar',['../d6/d6e/structboss__malchezaar.html#a68adb0f05177316f9e39a48669f60829',1,'boss_malchezaar']]],
-  ['boss_5fmalygos_459',['boss_malygos',['../de/d52/structboss__malygos.html#a72059788e0ec60c5fb5237e56c3730a9',1,'boss_malygos']]],
+  ['boss_5fmalygos_459',['boss_malygos',['../de/d52/structboss__malygos.html#acd26b3f587a379b568c496ea1ec3194f',1,'boss_malygos']]],
   ['boss_5fmandokir_460',['boss_mandokir',['../d4/dd3/classboss__mandokir.html#aad13c8302cef7fb4981f0d2178630def',1,'boss_mandokir']]],
   ['boss_5fmandokirai_461',['boss_mandokirAI',['../d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a4ba4ac7fabd3e74dc10a00a3188252e9',1,'boss_mandokir::boss_mandokirAI']]],
   ['boss_5fmarli_462',['boss_marli',['../dd/dda/structboss__marli.html#abba94b400523047bfa9e3a5b34b1ee54',1,'boss_marli']]],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d2c/structboss__huhuran.html#a08f1d6550680d5bcf07332eade115730":[6,0,541,2],
 "d3/d2c/structboss__huhuran.html#a23962e668f046b373f94ea6a2d75574a":[6,0,541,4],
 "d3/d2c/structboss__huhuran.html#a45571aa6bd0c7915fb666cae1c5c4544":[6,0,541,3],
 "d3/d2c/structboss__huhuran.html#a5612bf8b1eedec159b316b28e6f4c915":[6,0,541,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959a93bd16e34fafb63aaf2baf5baa478799":[7,0,0,0,1,3,5,9,2,13,58,22],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aa260a1f5edc9dabe13993e70c6aa4b62":[7,0,0,0,1,3,5,9,2,13,58,5],
 "d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959aab56e8def367d7b08fa4a2b67ce222d6":[7,0,0,0,1,3,5,9,2,13,58,21],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab4c4dc666a5c4cd4e9c16f65cf3d5ecf":[7,0,0,0,1,3,5,9,2,13,58,24],
-"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab5322ea77f92c7302d78eb2a9af502f3":[7,0,0,0,1,3,5,9,2,13,58,14]
+"d3/d32/boss__yoggsaron_8cpp.html#ad5c07972380154881982ff76298d3959ab4c4dc666a5c4cd4e9c16f65cf3d5ecf":[7,0,0,0,1,3,5,9,2,13,58,24]
 };

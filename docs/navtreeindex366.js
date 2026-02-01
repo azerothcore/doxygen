@@ -1,8 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/d69/classgo__skull__pile.html":[6,0,1180],
-"de/d69/classgo__skull__pile.html#a048dd224b46ead864958ad524d76167f":[6,0,1180,3],
-"de/d69/classgo__skull__pile.html#a9cf8dfef432c4967c60f66e645585770":[6,0,1180,0],
 "de/d69/classgo__skull__pile.html#ac95d39ea03e78fee2a10603d8c7f8840":[6,0,1180,1],
 "de/d69/classgo__skull__pile.html#af74fcd75404c0886128401d661067394":[6,0,1180,4],
 "de/d69/classgo__skull__pile.html#afb8e8db2705355e975fa48c98e09f20b":[6,0,1180,2],
@@ -23,10 +20,10 @@ var NAVTREEINDEX366 =
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0b376c5f10b6cb43f3bb63376012a0d":[6,0,1978,0,3],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#af0f11f715cac553c772c0dca7e5e3a22":[6,0,1978,0,1],
 "de/d6a/structnpc__mrfloppy_1_1npc__mrfloppyAI.html#afad6db1ccd903fd18192f832a10a32f4":[6,0,1978,0,5],
-"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html":[6,0,5,19],
-"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
+"de/d6c/structlfg_1_1RBEntryInfo.html":[5,0,18,19],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[6,0,5,19,1],
+"de/d6c/structlfg_1_1RBEntryInfo.html#a3df17ed1c70ed9b755843308d5ff6336":[5,0,18,19,1],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[5,0,18,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#a7284eac7208dba21a52b79257aad7dbc":[6,0,5,19,2],
 "de/d6c/structlfg_1_1RBEntryInfo.html#aa720dd6cae9ee7163bb9b84918249644":[5,0,18,19,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX366 =
 "de/d72/namespacelfg.html#adac5e1437b49269ef8924ba9881272d5":[5,0,18,39],
 "de/d72/namespacelfg.html#adc336ffd636b51b0052448739671d46b":[5,0,18,65],
 "de/d72/namespacelfg.html#aeaebe53b818ad905c96d2cc56c18b7ca":[5,0,18,63],
-"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05":[5,0,18,52]
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05":[5,0,18,52],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119":[5,0,18,52,2],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051":[5,0,18,52,1],
+"de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce":[5,0,18,52,0]
 };

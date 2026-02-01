@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a962a843d97885c07c4cc6827cd8ee2a3":[7,0,0,0,1,3,4,1,1,5,9,1],
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab3c99e562e9fd0eb0734bfc10a97566d":[7,0,0,0,1,3,4,1,1,5,9,0],
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab89b01e4447fcf977cd57adef4515462":[7,0,0,0,1,3,4,1,1,5,9,5],
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac9e0ac9ba2e449c00dbd1ec19ba8defc":[7,0,0,0,1,3,4,1,1,5,9,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d6c/classcache__commandscript.html#abf02cad15dabdcc5ed3df1fab0e87b6f":[6,0,834,4],
 "d2/d6c/classcache__commandscript.html#ae62aed5b701a408460d8fedcd08bb3a4":[6,0,834,1],
 "d2/d6d/structboss__halazzi.html":[6,0,521],
-"d2/d6d/structboss__halazzi.html#a000c3b6b8a73fd8f858b87724dfcf123":[6,0,521,1],
-"d2/d6d/structboss__halazzi.html#a152267cb31912106443ceea9488fee0a":[6,0,521,7]
+"d2/d6d/structboss__halazzi.html#a000c3b6b8a73fd8f858b87724dfcf123":[6,0,521,1]
 };

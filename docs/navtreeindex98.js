@@ -1,5 +1,6 @@
 var NAVTREEINDEX98 =
 {
+"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac35d3e30ef1e6650e487a7047ddf20c3":[7,0,0,0,1,3,4,4,0,3,17],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae00ee11bb7414939f5c066153c84db5e":[7,0,0,0,1,3,4,4,0,3,1],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae9cae4e710704a83fd9f229d90a08038":[7,0,0,0,1,3,4,4,0,3,15],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,4,4,0,3,22],
@@ -110,12 +111,12 @@ var NAVTREEINDEX98 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1038,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1038,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1038,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,8,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,32,8,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,8,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,32,8,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,12,8,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,32,8,1,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,12,8,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,32,8,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3481],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3481,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3481,0],
@@ -216,10 +217,10 @@ var NAVTREEINDEX98 =
 "d3/d5d/structVMAP_1_1MapSpawns.html":[5,0,29,12],
 "d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[6,0,10,12,1],
 "d3/d5d/structVMAP_1_1MapSpawns.html#a5ba6c948eedc6c070a7eb6aa3816d85c":[5,0,29,12,1],
-"d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,29,12,0],
 "d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[6,0,10,12,0],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[6,0,0,31],
+"d3/d5d/structVMAP_1_1MapSpawns.html#ac982af8210389fe769d161a12d4cdb5f":[5,0,29,12,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[5,0,1,43],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html":[6,0,0,31],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[6,0,0,31,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a2d83b68a7991d3b3dc2355ecde1efa5d":[5,0,1,43,0],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a55222acf6dbb538a213eb604f67f40ce":[6,0,0,31,2],
@@ -228,8 +229,8 @@ var NAVTREEINDEX98 =
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5b02b45b937d6b2b0b141967c70f93d9":[5,0,1,43,1],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[6,0,0,31,3],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#a5d7e5e8898bd092c1055739fae82f693":[5,0,1,43,3],
-"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#aa1c728ceea2ddc2e88ea07132a3fe250":[5,0,1,43,4],
 "d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#aa1c728ceea2ddc2e88ea07132a3fe250":[6,0,0,31,4],
+"d3/d5f/classAcore_1_1AnyUnfriendlyUnitInObjectRangeCheck.html#aa1c728ceea2ddc2e88ea07132a3fe250":[5,0,1,43,4],
 "d3/d5f/classAuraScript_1_1EffectCalcPeriodicHandler.html":[6,0,290,9],
 "d3/d5f/classAuraScript_1_1EffectCalcPeriodicHandler.html#a17288ee3b2951f1f2a8dc36a598b9a27":[6,0,290,9,0],
 "d3/d5f/classAuraScript_1_1EffectCalcPeriodicHandler.html#a57673f457c08edfbf7fc1877aa071721":[6,0,290,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d5f/classGuild_1_1BankTab.html#a9c5baa8eb92520b73c646488e3b38caa":[6,0,1252,2,3],
 "d3/d5f/classGuild_1_1BankTab.html#aa7bd9e67c6685878fa7bf158c09fae51":[6,0,1252,2,7],
 "d3/d5f/classGuild_1_1BankTab.html#ab055a2b7500c83c96a78c396dc60588a":[6,0,1252,2,16],
-"d3/d5f/classGuild_1_1BankTab.html#abc272a367b69a90207dbf10580a55038":[6,0,1252,2,12],
-"d3/d5f/classGuild_1_1BankTab.html#ac3ca58dcc1997788226c6fe0d5b690c7":[6,0,1252,2,8]
+"d3/d5f/classGuild_1_1BankTab.html#abc272a367b69a90207dbf10580a55038":[6,0,1252,2,12]
 };

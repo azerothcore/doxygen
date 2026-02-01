@@ -1,8 +1,5 @@
 var NAVTREEINDEX225 =
 {
-"d8/dc9/BattlegroundSpamProtect_8h.html":[7,0,0,0,1,2,8,17],
-"d8/dc9/BattlegroundSpamProtect_8h.html#ae37d7994736d43484a627d5de2af5fc1":[7,0,0,0,1,2,8,17,1],
-"d8/dca/classspell__nether__portal__perseverence.html":[6,0,3512],
 "d8/dca/classspell__nether__portal__perseverence.html#a391dff720ed9d2d48aa69e48e69ba8df":[6,0,3512,2],
 "d8/dca/classspell__nether__portal__perseverence.html#ac9f6f1927c9f66682892c32d4a431cc4":[6,0,3512,0],
 "d8/dca/classspell__nether__portal__perseverence.html#ae908ad87781553cc3bed05ea510a4447":[6,0,3512,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX225 =
 "d8/dd6/DBCfmt_8h.html#ab9ebf6a6efd44297fc6a9f9dd60bb8e0":[7,0,0,0,1,4,0,3,64],
 "d8/dd6/DBCfmt_8h.html#abc33ebb99c27a6f2815aa61d209c87ed":[7,0,0,0,1,4,0,3,21],
 "d8/dd6/DBCfmt_8h.html#abd8f1cd0e0a32dddac788f89b2f0d558":[7,0,0,0,1,4,0,3,11],
-"d8/dd6/DBCfmt_8h.html#abf1b7677d9768bf62c6cc4ae3d687fcc":[7,0,0,0,1,4,0,3,93]
+"d8/dd6/DBCfmt_8h.html#abf1b7677d9768bf62c6cc4ae3d687fcc":[7,0,0,0,1,4,0,3,93],
+"d8/dd6/DBCfmt_8h.html#ac022542c156c1eb7dd8247b8ba8b9a09":[7,0,0,0,1,4,0,3,105],
+"d8/dd6/DBCfmt_8h.html#ac26fe8415401e7846ba5fda26a84f3fa":[7,0,0,0,1,4,0,3,24],
+"d8/dd6/DBCfmt_8h.html#ac2d15a8d27c9dd8cf6ef939756500a20":[7,0,0,0,1,4,0,3,70]
 };

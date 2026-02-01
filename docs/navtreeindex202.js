@@ -1,8 +1,5 @@
 var NAVTREEINDEX202 =
 {
-"d7/db0/classMap.html#a2755065753451a82320cea48113249bc":[6,0,1480,137],
-"d7/db0/classMap.html#a2bde51e9e566b6752bbc03bfe3633700":[6,0,1480,152],
-"d7/db0/classMap.html#a2ef167e81a661e8b2c6d1348f52d0d7d":[6,0,1480,193],
 "d7/db0/classMap.html#a2fcd8521ddfa2aadb346f7e9f13c9966":[6,0,1480,161],
 "d7/db0/classMap.html#a31e6de12208ee11f297723222a7ee055":[6,0,1480,180],
 "d7/db0/classMap.html#a335ff13492aeed7129a82fb5e4a239ff":[6,0,1480,94],
@@ -249,5 +246,8 @@ var NAVTREEINDEX202 =
 "d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#ab90d3031b356e8004fa62c9562f1ba1f":[6,0,3658,1],
 "d7/db1/structRepSpilloverTemplate.html":[6,0,2498],
 "d7/db1/structRepSpilloverTemplate.html#a1ffb9cddf950edfb17e9779691b09f07":[6,0,2498,1],
-"d7/db1/structRepSpilloverTemplate.html#aaad6e04ef66264f040ddd91ae7f4e04b":[6,0,2498,0]
+"d7/db1/structRepSpilloverTemplate.html#aaad6e04ef66264f040ddd91ae7f4e04b":[6,0,2498,0],
+"d7/db1/structRepSpilloverTemplate.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4":[6,0,2498,2],
+"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html":[6,0,2194,0],
+"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a025d39c04e864ebd77f4f930ec20b1e5":[6,0,2194,0,0]
 };

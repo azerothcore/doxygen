@@ -1,8 +1,5 @@
 var NAVTREEINDEX203 =
 {
-"d7/db1/structRepSpilloverTemplate.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4":[6,0,2498,2],
-"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html":[6,0,2194,0],
-"d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a025d39c04e864ebd77f4f930ec20b1e5":[6,0,2194,0,0],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a06130e6e440d0b25d8b5566de6190cbc":[6,0,2194,0,1],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#a32943f1c3ffd0239c85ac1b81786f049":[6,0,2194,0,2],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html#ae47a32bbb05cf2f634ae18bc672ec004":[6,0,2194,0,3],
@@ -95,8 +92,8 @@ var NAVTREEINDEX203 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db4/structAcore_1_1has__type.html":[5,0,1,74],
+"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3702],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3702,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3702,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX203 =
 "d7/dbf/classnpc__infernal__attacker.html":[6,0,1891],
 "d7/dbf/classnpc__infernal__attacker.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa":[6,0,1891,1],
 "d7/dbf/classnpc__infernal__attacker.html#ad1d9186c186de36efbe102a07fe89de4":[6,0,1891,2],
-"d7/dc0/boss__twin__valkyr_8cpp.html":[7,0,0,0,1,3,5,2,1,4]
+"d7/dc0/boss__twin__valkyr_8cpp.html":[7,0,0,0,1,3,5,2,1,4],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204":[7,0,0,0,1,3,5,2,1,4,13],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a509cdeac646fa02986988467e7fdaed4":[7,0,0,0,1,3,5,2,1,4,13,1],
+"d7/dc0/boss__twin__valkyr_8cpp.html#a170a13b76f6ce4207855ca10337d6204a72f5fc28ca8250b2ff0d4767808371bf":[7,0,0,0,1,3,5,2,1,4,13,2]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX244 =
 {
-"d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a8eba928143d4666ff7ec63347cf17863":[7,0,0,0,1,3,5,9,0,3,5,2],
-"d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,0,3,5,3],
-"d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad8c34d014ab219079cf4e3e391391cd8":[7,0,0,0,1,3,5,9,0,3,5,6],
 "d9/dc6/boss__volkhan_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3adc9354eda690dd3336b3c8598210b005":[7,0,0,0,1,3,5,9,0,3,5,5],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72d":[7,0,0,0,1,3,5,9,0,3,2],
 "d9/dc6/boss__volkhan_8cpp.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0":[7,0,0,0,1,3,5,9,0,3,2,3],
@@ -67,8 +64,8 @@ var NAVTREEINDEX244 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a9c505f698e8beb1622e2cd28f6a02bec":[7,0,0,0,1,3,2,1,0,14,5,6],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84aae4435ce02d8a471af2a02586524d6f5":[7,0,0,0,1,3,2,1,0,14,5,4],
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84af7702a1daa05291207fd445e12244e42":[7,0,0,0,1,3,2,1,0,14,5,0],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,12,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,32,2,7],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,12,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,12,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,32,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,12,2,7,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX244 =
 "d9/dd1/classspell__class__call__handler.html#a76f9e5e11a6f2e25868dba567d798002":[6,0,2720,2],
 "d9/dd1/classspell__class__call__handler.html#ae1029dd58a48c099e8bbd071898f1b12":[6,0,2720,0],
 "d9/dd1/classspell__class__call__handler.html#af65d372cdbb365eff73edb8cf18734c8":[6,0,2720,5],
-"d9/dd1/classspell__q9452__cast__net.html":[6,0,3735]
+"d9/dd1/classspell__q9452__cast__net.html":[6,0,3735],
+"d9/dd1/classspell__q9452__cast__net.html#a016e480d7b2267c9bf824c9cb029f134":[6,0,3735,4],
+"d9/dd1/classspell__q9452__cast__net.html#a39dd06ae92d04060ee41897318a701fd":[6,0,3735,2],
+"d9/dd1/classspell__q9452__cast__net.html#a76fff3a9d20f48e4814ee0f258be07b8":[6,0,3735,3]
 };

@@ -1883,7 +1883,7 @@ var searchData=
   ['close_5fdoors_5ftime_1880',['CLOSE_DOORS_TIME',['../d0/d91/BattlegroundIC_8h.html#a3c5d18364f664b5ad98e2ad610875cb5a874c2776e5fc800948efbc933f6d7337',1,'BattlegroundIC.h']]],
   ['close_5fin_5fon_5funpathable_5ftarget_1881',['CLOSE_IN_ON_UNPATHABLE_TARGET',['../de/d0a/SharedDefines_8h.html#a6e63261b155771d34d267c90555209e3a0fc8be587804e843b7c21cfe5f63e9c5',1,'SharedDefines.h']]],
   ['closeandlock_1882',['CloseAndLock',['../d2/de5/GameObject_8h.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05',1,'GameObject.h']]],
-  ['closed_1883',['closed',['../d9/d61/boss__darkmaster__gandling_8cpp.html#a117f8df7c03b73093e6da94ae41b4252a929f0327e17604ce9713b2a6117bd603',1,'CLOSED:&#160;boss_darkmaster_gandling.cpp'],['../da/d75/Socket_8h.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e',1,'Closed:&#160;Socket.h']]],
+  ['closed_1883',['closed',['../da/d75/Socket_8h.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e',1,'Closed:&#160;Socket.h'],['../d9/d61/boss__darkmaster__gandling_8cpp.html#a117f8df7c03b73093e6da94ae41b4252a929f0327e17604ce9713b2a6117bd603',1,'CLOSED:&#160;boss_darkmaster_gandling.cpp']]],
   ['closedoorandbutton_1884',['CloseDoorAndButton',['../df/dd9/structboss__mimiron_1_1boss__mimironAI.html#a0cc9b15d27b4044922407f86b8204974',1,'boss_mimiron::boss_mimironAI']]],
   ['closedoors_1885',['CloseDoors',['../d1/d61/structboss__thorim_1_1boss__thorimAI.html#a634372ecb400bab20c38e69539c4fc4a',1,'boss_thorim::boss_thorimAI']]],
   ['closefile_1886',['CloseFile',['../d5/dc7/classAppenderFile.html#a039659a1e8e340c9522ff99f119ff5c8',1,'AppenderFile']]],

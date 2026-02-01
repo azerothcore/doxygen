@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108":[6,0,633,0,3],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#aa1693c8cc5bcc60a256f5d61f81cce1a":[6,0,633,0,4],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#adc83683c2f6a7073469cd2f5aa325717":[6,0,633,0,6],
 "d2/dfb/structboss__mr__smite_1_1boss__mr__smiteAI.html#ade54a8fa42cbbf9febecf1a3eee00fd3":[6,0,633,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#aa19c815ad64f81fb5240c5e0667bccc9":[6,0,1825,0,3],
 "d3/d09/structnpc__gunship_1_1npc__gunshipAI.html#af4480427460748bccae214737469ddb7":[6,0,1825,0,6],
 "d3/d09/zone__borean__tundra_8cpp.html":[7,0,0,0,1,3,5,15],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00d":[7,0,0,0,1,3,5,15,57],
-"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00da1c990405d3a98b7a3c95ee7d2c67b9c0":[7,0,0,0,1,3,5,15,57,1]
+"d3/d09/zone__borean__tundra_8cpp.html#a1114a9936ddd85eff9c63846bf82e00d":[7,0,0,0,1,3,5,15,57]
 };

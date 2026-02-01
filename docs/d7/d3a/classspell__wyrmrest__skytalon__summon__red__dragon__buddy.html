@@ -315,9 +315,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1444</span>    {</div>
-<div class="line"><span class="lineno"> 1445</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
-<div class="line"><span class="lineno"> 1446</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1417</span>    {</div>
+<div class="line"><span class="lineno"> 1418</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
+<div class="line"><span class="lineno"> 1419</span>    }</div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:200</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
@@ -375,16 +375,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1457</span>    {</div>
-<div class="line"><span class="lineno"> 1458</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3e67064a6f789b69c5533602c72173b8">OnDestinationTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa25d575ee7dc16898562e3906eb3ca1b">SpellDestinationTargetSelectFn</a>(<a class="code hl_function" href="../../d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html#a231a75702f4a98f51d1be45510c5d05f">spell_wyrmrest_skytalon_summon_red_dragon_buddy::SetDest</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a4f2b38c7d06c70744d67c3bd49102d03">TARGET_DEST_CASTER_RADIUS</a>);</div>
-<div class="line"><span class="lineno"> 1459</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1430</span>    {</div>
+<div class="line"><span class="lineno"> 1431</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3e67064a6f789b69c5533602c72173b8">OnDestinationTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa25d575ee7dc16898562e3906eb3ca1b">SpellDestinationTargetSelectFn</a>(<a class="code hl_function" href="../../d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html#a231a75702f4a98f51d1be45510c5d05f">spell_wyrmrest_skytalon_summon_red_dragon_buddy::SetDest</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a4f2b38c7d06c70744d67c3bd49102d03">TARGET_DEST_CASTER_RADIUS</a>);</div>
+<div class="line"><span class="lineno"> 1432</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a4f2b38c7d06c70744d67c3bd49102d03"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a4f2b38c7d06c70744d67c3bd49102d03">TARGET_DEST_CASTER_RADIUS</a></div><div class="ttdeci">@ TARGET_DEST_CASTER_RADIUS</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1488</div></div>
 <div class="ttc" id="aSpellScript_8h_html_aa25d575ee7dc16898562e3906eb3ca1b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#aa25d575ee7dc16898562e3906eb3ca1b">SpellDestinationTargetSelectFn</a></div><div class="ttdeci">#define SpellDestinationTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:364</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3e67064a6f789b69c5533602c72173b8"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3e67064a6f789b69c5533602c72173b8">SpellScript::OnDestinationTargetSelect</a></div><div class="ttdeci">HookList&lt; DestinationTargetSelectHandler &gt; OnDestinationTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:363</div></div>
-<div class="ttc" id="aclassspell__wyrmrest__skytalon__summon__red__dragon__buddy_html_a231a75702f4a98f51d1be45510c5d05f"><div class="ttname"><a href="../../d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html#a231a75702f4a98f51d1be45510c5d05f">spell_wyrmrest_skytalon_summon_red_dragon_buddy::SetDest</a></div><div class="ttdeci">void SetDest(SpellDestination &amp;dest)</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:1448</div></div>
+<div class="ttc" id="aclassspell__wyrmrest__skytalon__summon__red__dragon__buddy_html_a231a75702f4a98f51d1be45510c5d05f"><div class="ttname"><a href="../../d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html#a231a75702f4a98f51d1be45510c5d05f">spell_wyrmrest_skytalon_summon_red_dragon_buddy::SetDest</a></div><div class="ttdeci">void SetDest(SpellDestination &amp;dest)</div><div class="ttdef"><b>Definition</b> boss_malygos.cpp:1421</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00363">SpellScript::OnDestinationTargetSelect</a>, <a class="el" href="../../#l01448">SetDest()</a>, <a class="el" href="../../#l00364">SpellDestinationTargetSelectFn</a>, and <a class="el" href="../../#l01488">TARGET_DEST_CASTER_RADIUS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00363">SpellScript::OnDestinationTargetSelect</a>, <a class="el" href="../../#l01421">SetDest()</a>, <a class="el" href="../../#l00364">SpellDestinationTargetSelectFn</a>, and <a class="el" href="../../#l01488">TARGET_DEST_CASTER_RADIUS</a>.</p>
 
 </div>
 </div>
@@ -411,19 +411,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1449</span>    {</div>
-<div class="line"><span class="lineno"> 1450</span>        dest.<a class="code hl_function" href="../../d0/dd3/structSpellDestination.html#ab565861d5013130639013e3c4d22d712">Relocate</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPosition());</div>
-<div class="line"><span class="lineno"> 1451</span>        <span class="comment">// Adjust effect summon position to lower Z</span></div>
-<div class="line"><span class="lineno"> 1452</span>        <a class="code hl_struct" href="../../d0/df4/structPosition.html">Position</a> <span class="keyword">const</span> offset = { 0.0f, 0.0f, -80.0f, 0.0f };</div>
-<div class="line"><span class="lineno"> 1453</span>        dest.<a class="code hl_function" href="../../d0/dd3/structSpellDestination.html#a0bf1d731787bfed47b593d8cb4943f2a">RelocateOffset</a>(offset);</div>
-<div class="line"><span class="lineno"> 1454</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1422</span>    {</div>
+<div class="line"><span class="lineno"> 1423</span>        dest.<a class="code hl_function" href="../../d0/dd3/structSpellDestination.html#ab565861d5013130639013e3c4d22d712">Relocate</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetPosition());</div>
+<div class="line"><span class="lineno"> 1424</span>        <span class="comment">// Adjust effect summon position to lower Z</span></div>
+<div class="line"><span class="lineno"> 1425</span>        <a class="code hl_struct" href="../../d0/df4/structPosition.html">Position</a> <span class="keyword">const</span> offset = { 0.0f, 0.0f, -80.0f, 0.0f };</div>
+<div class="line"><span class="lineno"> 1426</span>        dest.<a class="code hl_function" href="../../d0/dd3/structSpellDestination.html#a0bf1d731787bfed47b593d8cb4943f2a">RelocateOffset</a>(offset);</div>
+<div class="line"><span class="lineno"> 1427</span>    }</div>
 <div class="ttc" id="astructPosition_html"><div class="ttname"><a href="../../d0/df4/structPosition.html">Position</a></div><div class="ttdef"><b>Definition</b> Position.h:27</div></div>
 <div class="ttc" id="astructSpellDestination_html_a0bf1d731787bfed47b593d8cb4943f2a"><div class="ttname"><a href="../../d0/dd3/structSpellDestination.html#a0bf1d731787bfed47b593d8cb4943f2a">SpellDestination::RelocateOffset</a></div><div class="ttdeci">void RelocateOffset(Position const &amp;offset)</div><div class="ttdef"><b>Definition</b> Spell.cpp:103</div></div>
 <div class="ttc" id="astructSpellDestination_html_ab565861d5013130639013e3c4d22d712"><div class="ttname"><a href="../../d0/dd3/structSpellDestination.html#ab565861d5013130639013e3c4d22d712">SpellDestination::Relocate</a></div><div class="ttdeci">void Relocate(Position const &amp;pos)</div><div class="ttdef"><b>Definition</b> Spell.cpp:92</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00092">SpellDestination::Relocate()</a>, and <a class="el" href="../../#l00103">SpellDestination::RelocateOffset()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01456">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01429">Register()</a>.</p>
 
 </div>
 </div>
@@ -436,7 +436,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html">spell_wyrmrest_skytalon_summon_red_dragon_buddy</a></li>
-    <li class="footer">Generated on Sat Jan 31 2026 06:34:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 1 2026 06:45:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

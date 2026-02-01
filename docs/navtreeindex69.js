@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a600fc4acb323fe5fcc409a52f8436bed":[6,0,2525,73],
 "d2/d8f/structScriptInfo.html#a61bd78ad9584ed7107e03d74502b5aa4":[6,0,2525,21],
 "d2/d8f/structScriptInfo.html#a63e9e9ca596ecad98021cbe0adc0f2cb":[6,0,2525,60],
 "d2/d8f/structScriptInfo.html#a6ad9d2567d938aa12e97ce840bce3456":[6,0,2525,36],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d9f/classspell__pal__blessing__of__faith.html#a6856f05f2cc25267f1d3023d3cb48dc2":[6,0,3542,1],
 "d2/d9f/classspell__pal__blessing__of__faith.html#a82ff05f6150750ecb6ef3b5f8c40f703":[6,0,3542,0],
 "d2/d9f/classspell__pal__blessing__of__faith.html#adadd0254d68281ac1063bcc57574ed77":[6,0,3542,2],
-"d2/da0/classboss__razorscale.html":[6,0,673],
-"d2/da0/classboss__razorscale.html#a01cf25d901a5eddae9ef3ea291020ba1":[6,0,673,2]
+"d2/da0/classboss__razorscale.html":[6,0,673]
 };

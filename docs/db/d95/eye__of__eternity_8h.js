@@ -7,8 +7,8 @@ var eye__of__eternity_8h =
     [ "INTRO_MOVEMENT_INTERVAL", "db/d95/eye__of__eternity_8h.html#a914791b23da531680a3fa365d19e7919", null ],
     [ "RegisterEoECreatureAI", "db/d95/eye__of__eternity_8h.html#a7e91271b328cb120e1f5f75539ef83fa", null ],
     [ "Data", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
+      [ "DATA_MALYGOS", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2ac20edc8400118e986cb3e8c0833118", null ],
       [ "DATA_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
-      [ "DATA_ENCOUNTER_STATUS", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a06e771c0d2e0da47d4fd955db056b0c4", null ],
       [ "DATA_SET_IRIS_INACTIVE", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a1dcf1f64522995a4635c77b607d1824c", null ],
       [ "DATA_HIDE_IRIS_AND_PORTAL", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ],
       [ "DATA_MALYGOS_GUID", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a32904c6059a5b12e98c818f97ec1b14c", null ]
@@ -19,6 +19,9 @@ var eye__of__eternity_8h =
       [ "ACHIEV_CRITERIA_A_POKE_IN_THE_EYE_10", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71a4a4522e735dd30ef16a61edadc76bfce", null ],
       [ "ACHIEV_CRITERIA_A_POKE_IN_THE_EYE_25", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71ac916a6111e77dc6c2f603f7c4ecd898b", null ],
       [ "ACHIEV_YOU_DONT_HAVE_AN_ENTERNITY_EVENT", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71a82841da172afaa60b92fc4aea561b69b", null ]
+    ] ],
+    [ "EoEMisc", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2", [
+      [ "EVENT_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2a08fdfb88363920a779952ea57f16484a", null ]
     ] ],
     [ "eSpells", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0", [
       [ "SPELL_PORTAL_BEAM", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a06970d2a2b45298362443d7a2ab1daf2", null ],
@@ -56,6 +59,7 @@ var eye__of__eternity_8h =
     ] ],
     [ "GetEyeOfEternityAI", "db/d95/eye__of__eternity_8h.html#ad65e4efd9fa965476bbaaa6da7d95fbd", null ],
     [ "CenterPos", "db/d95/eye__of__eternity_8h.html#ae66e95c14537a74ebd7d32542aa359ca", null ],
+    [ "EncounterCount", "db/d95/eye__of__eternity_8h.html#a31d630c40753c29f94ceac2db5e451a8", null ],
     [ "FourSidesPos", "db/d95/eye__of__eternity_8h.html#ae13721540dc0ce9423633d9b5fbdeef2", null ],
     [ "MalygosIntroIntervals", "db/d95/eye__of__eternity_8h.html#a96de54c0b6f0f36fadc0222347f923ab", null ],
     [ "Phase2NorthPos", "db/d95/eye__of__eternity_8h.html#aba0abca8be7751435e0981b59d9fced2", null ]

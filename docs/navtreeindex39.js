@@ -1,5 +1,6 @@
 var NAVTREEINDEX39 =
 {
+"d1/da6/structWaveData.html#ab1720ffe0aeeb5669ab49fc32cb24750":[6,0,4291,3],
 "d1/da6/structWaveData.html#ac3f9997775f34babc79d4321fd1a6d6d":[6,0,4291,6],
 "d1/da6/structWaveData.html#ad5347ee83eaa00fe0721279099c48433":[6,0,4291,2],
 "d1/da7/boss__lord__jaraxxus_8cpp.html":[7,0,0,0,1,3,5,2,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX39 =
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeab7a02dfffcefb8b769c5fa1b45afea9a":[7,0,0,0,1,2,16,10,5,52,1],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac09868c22ce88ad6bce5f6321c994de6":[7,0,0,0,1,2,16,10,5,52,29],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac1a101ffc2b3e1c261a1f27c5b95147e":[7,0,0,0,1,2,16,10,5,52,8],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaccdf98ed89e64b2482699a13bc1fd28c":[7,0,0,0,1,2,16,10,5,52,22],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeadeade1270a4a74a43289c8389e164b64":[7,0,0,0,1,2,16,10,5,52,10]
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaccdf98ed89e64b2482699a13bc1fd28c":[7,0,0,0,1,2,16,10,5,52,22]
 };

@@ -1,8 +1,5 @@
 var NAVTREEINDEX370 =
 {
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a8f5894a5729d4c8d26376bbe1a2ac29e":[6,0,270,0],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a96e56943da42f1a1258fc1d716259e1a":[6,0,270,5],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#ac83cc019ceb1752ce8d6b5a3aa3d350f":[6,0,270,7],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#aee11f4f45f83664483344e3bbfba7463":[6,0,270,2],
 "de/d97/boss__mother__shahraz_8cpp.html":[7,0,0,0,1,3,7,1,4],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,1,4,7],
@@ -138,12 +135,12 @@ var NAVTREEINDEX370 =
 "de/d99/classspell__dk__chains__of__ice.html#a7d0dd936965845c14e7b54846facdb89":[6,0,2765,1],
 "de/d99/classspell__dk__chains__of__ice.html#aaa65e67362ded5318e89272acf073bf3":[6,0,2765,0],
 "de/d99/classspell__dk__chains__of__ice.html#ab7b767743d62d9763bea710b7552a8cf":[6,0,2765,2],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,12,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,32,6,43],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,12,6,43,0],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,12,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,32,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,12,6,43,1],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,12,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,32,6,43,1],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,12,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,12,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,32,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,32,6,43,4],
@@ -249,5 +246,8 @@ var NAVTREEINDEX370 =
 "de/da1/structObjectPosSelector.html#ad33b5ad5af8ebfd14851085b5c67cc95":[6,0,2326,16],
 "de/da1/structObjectPosSelector.html#ae45835290af001233a7d76e1a5be6df0":[6,0,2326,10],
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2326,25],
-"de/da2/classMMAP_1_1IMMapMgr.html":[6,0,6,1]
+"de/da2/classMMAP_1_1IMMapMgr.html":[6,0,6,1],
+"de/da2/classMMAP_1_1IMMapMgr.html":[5,0,20,1],
+"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[5,0,20,1,0],
+"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,1,0]
 };

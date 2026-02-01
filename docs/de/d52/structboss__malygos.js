@@ -1,6 +1,6 @@
 var structboss__malygos =
 [
-    [ "boss_malygos", "de/d52/structboss__malygos.html#a72059788e0ec60c5fb5237e56c3730a9", null ],
+    [ "boss_malygos", "de/d52/structboss__malygos.html#acd26b3f587a379b568c496ea1ec3194f", null ],
     [ "AttackStart", "de/d52/structboss__malygos.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
     [ "DamageTaken", "de/d52/structboss__malygos.html#ac590fe64e84f1e634b11dacd0c28241f", null ],
     [ "EnterEvadeMode", "de/d52/structboss__malygos.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
@@ -16,10 +16,7 @@ var structboss__malygos =
     [ "SpellHit", "de/d52/structboss__malygos.html#ab520ae358e31225469e96d8628c6314c", null ],
     [ "UpdateAI", "de/d52/structboss__malygos.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
     [ "bLockHealthCheck", "de/d52/structboss__malygos.html#a8809894ee687da3133030b4d4f080b35", null ],
-    [ "events", "de/d52/structboss__malygos.html#aabe2044c9093415a53eeb214e6c4d394", null ],
     [ "IntroCounter", "de/d52/structboss__malygos.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
-    [ "pInstance", "de/d52/structboss__malygos.html#a43eb4b9b88a0d287f035bb106255dd2d", null ],
-    [ "summons", "de/d52/structboss__malygos.html#a9dd813842cb0ddbf79d496fb06ef14f3", null ],
     [ "timer1", "de/d52/structboss__malygos.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
     [ "timer2", "de/d52/structboss__malygos.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
 ];

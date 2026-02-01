@@ -1,8 +1,5 @@
 var NAVTREEINDEX223 =
 {
-"d8/daa/classspell__infected__worgen__bite__aura.html#a3e5902a79b9d2c5cad69ad2ece8592ec":[6,0,3223,1],
-"d8/daa/classspell__infected__worgen__bite__aura.html#a3ee65a1391c340e471adfc7ac653dd50":[6,0,3223,3],
-"d8/daa/classspell__infected__worgen__bite__aura.html#ab54795dc49ca453db40494a694158a98":[6,0,3223,0],
 "d8/daa/classspell__infected__worgen__bite__aura.html#addd4fac4cc8a93d800abacb144e3303c":[6,0,3223,2],
 "d8/daa/structboss__okthor_1_1boss__okthorAI.html":[6,0,646,0],
 "d8/daa/structboss__okthor_1_1boss__okthorAI.html#a21446d2cfc51a05de6cee3ba4301eae9":[6,0,646,0,3],
@@ -49,8 +46,8 @@ var NAVTREEINDEX223 =
 "d8/db1/classnpc__counselor__talbot.html":[6,0,1712],
 "d8/db1/classnpc__counselor__talbot.html#a3debd13352146a247d635042ecbfa155":[6,0,1712,2],
 "d8/db1/classnpc__counselor__talbot.html#a9223380bb78afeda617482bea0a3110c":[6,0,1712,1],
-"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,24],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,5,0,24],
+"d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,1,8,0,24],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[5,0,1,8,0,24,0],
 "d8/db1/structAcore_1_1Impl_1_1ChatCommands_1_1get__nth_3_010_00_01T1_00_01Ts_8_8_8_01_4.html#adb9fbbd823ddc1a80d7d8b3063c1ec54":[6,0,0,5,0,24,0],
 "d8/db2/classspell__gen__mine__sweeper.html":[6,0,2995],
@@ -249,5 +246,8 @@ var NAVTREEINDEX223 =
 "d8/dbb/classboss__cyanigosa.html#a4db12e2fb873ad3595a437df09663a22":[6,0,420,1],
 "d8/dbb/classboss__cyanigosa.html#a779c7c3a5f0002501361fa92fe14af69":[6,0,420,2],
 "d8/dbb/structSpellSchoolImmune.html":[6,0,4139],
-"d8/dbb/structSpellSchoolImmune.html#a6cae645736c697e2c2bf51a70c230070":[6,0,4139,0]
+"d8/dbb/structSpellSchoolImmune.html#a6cae645736c697e2c2bf51a70c230070":[6,0,4139,0],
+"d8/dbb/structSpellSchoolImmune.html#aff011cbcd136992bfe6abb4e0e4a48ac":[6,0,4139,1],
+"d8/dbb/structnpc__pet__gen__plump__turkey.html":[6,0,2027],
+"d8/dbb/structnpc__pet__gen__plump__turkey.html#a5fa88e045430adea9e72a3744bf72780":[6,0,2027,4]
 };

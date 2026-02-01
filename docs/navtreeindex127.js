@@ -1,9 +1,6 @@
 var NAVTREEINDEX127 =
 {
-"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
-"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,21,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,21,1,5],
-"d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,21,1,2],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[6,0,7,1,2],
 "d4/d67/classMovement_1_1counter.html#afff6411c2b7f1c07d72ad26dc77d4780":[5,0,21,1,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX127 =
 "d4/d74/CinematicMgr_8h.html#ae1b03a0a84708dbd9b5487f49762b4a9":[7,0,0,0,1,2,16,7,1,1],
 "d4/d74/CinematicMgr_8h.html#afdc341ad7f2f8cdfcf101e128dd7bbbb":[7,0,0,0,1,2,16,7,1,2],
 "d4/d74/classArenaTeamFilter.html":[6,0,193],
-"d4/d74/classArenaTeamFilter.html#a9a0bcfa1e5e79d2539465d84b44a235c":[6,0,193,1]
+"d4/d74/classArenaTeamFilter.html#a9a0bcfa1e5e79d2539465d84b44a235c":[6,0,193,1],
+"d4/d74/classArenaTeamFilter.html#afc05f637cc782712e6aa09bea6e85693":[6,0,193,0],
+"d4/d74/classspell__item__arcane__shroud.html":[6,0,3233],
+"d4/d74/classspell__item__arcane__shroud.html#a538ab0fdebbafa3c96183f639fe8968b":[6,0,3233,2]
 };

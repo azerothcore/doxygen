@@ -1,8 +1,5 @@
 var NAVTREEINDEX251 =
 {
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#afc02a2d3c722a22a98bbb2ba14ba7b5b":[6,0,664,0,16],
-"da/d0f/structboss__prince__valanar__icc_1_1boss__prince__valanarAI.html#afc12adf72a109be78d5ff936e3432a8f":[6,0,664,0,3],
-"da/d0f/structnpc__brew__bubble.html":[6,0,1668],
 "da/d0f/structnpc__brew__bubble.html#a188d1b68bb939d518e72e844e53e9a7d":[6,0,1668,0],
 "da/d0f/structnpc__brew__bubble.html#a25018deaa206620f6e98ba722f689b8d":[6,0,1668,4],
 "da/d0f/structnpc__brew__bubble.html#a4bee73add756ba4b3137818b2dacd27f":[6,0,1668,5],
@@ -92,8 +89,8 @@ var NAVTREEINDEX251 =
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[6,0,0,41,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,1,53,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,41,0],
-"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[6,0,0,41,4],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,53,4],
+"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[6,0,0,41,4],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,1,53,2],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,41,2],
 "da/d17/classat__naxxramas__hub__portal.html":[6,0,237],
@@ -249,5 +246,8 @@ var NAVTREEINDEX251 =
 "da/d21/structnpc__giant__claw__tentacle.html#a8da9c7e164bc7d7bc6e70a784420c3bc":[6,0,1810,4],
 "da/d21/structnpc__giant__claw__tentacle.html#aa3cc1eac6fe92e4325ec0b5a4f7a2604":[6,0,1810,7],
 "da/d21/structnpc__giant__claw__tentacle.html#aa50511886122a337fc59585fba03b590":[6,0,1810,0],
-"da/d21/structnpc__giant__claw__tentacle.html#aaaed0a9fb39d30f5c9c7381e923a3d1e":[6,0,1810,2]
+"da/d21/structnpc__giant__claw__tentacle.html#aaaed0a9fb39d30f5c9c7381e923a3d1e":[6,0,1810,2],
+"da/d21/structnpc__giant__claw__tentacle.html#ac4fedda976b2de295350363e9fef86ec":[6,0,1810,6],
+"da/d21/structnpc__giant__claw__tentacle.html#ad4dceaafa3bb12b2e5cb7d9530c59d31":[6,0,1810,3],
+"da/d21/structnpc__giant__claw__tentacle.html#ad5fd7a9246c9c7aba0fa71d331e1f512":[6,0,1810,1]
 };

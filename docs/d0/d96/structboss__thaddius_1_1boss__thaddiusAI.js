@@ -2,6 +2,7 @@ var structboss__thaddius_1_1boss__thaddiusAI =
 [
     [ "boss_thaddiusAI", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
     [ "DoAction", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
+    [ "IsAnyPlayerInMeleeRange", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#aa5175bb29e16c1c421cf16207e890d57", null ],
     [ "JustDied", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a2ec7bfa46d972cdd857289693acdc965", null ],
     [ "JustEngagedWith", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a52ec355e0ddd2a29b06b473303941b46", null ],
     [ "JustSummoned", "d0/d96/structboss__thaddius_1_1boss__thaddiusAI.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],

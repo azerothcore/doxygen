@@ -1,8 +1,5 @@
 var NAVTREEINDEX138 =
 {
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#a768dec18bc0e879c457a64135ec27ad9":[6,0,3379,3],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#aa3053519be0101f55450d76b1291f0f7":[6,0,3379,1],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html#ada596a7f19115c7178fd07fb9e956f58":[6,0,3379,2],
 "d4/dd6/classspell__warr__vigilance.html":[6,0,4059],
 "d4/dd6/classspell__warr__vigilance.html#a34f1b7782dbf2dcc18eb803497104a13":[6,0,4059,8],
 "d4/dd6/classspell__warr__vigilance.html#a3da984d172878110b77549b51409d7e0":[6,0,4059,4],
@@ -212,8 +209,8 @@ var NAVTREEINDEX138 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1048,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1048,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1048,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,19],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,32,19],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,32,19,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,19,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1894,0],
@@ -249,5 +246,8 @@ var NAVTREEINDEX138 =
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae023eb68fc066ba5713baaf3b0595f0c":[6,0,520,0,5],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae29c8c0816fc3efb83d7912c559747e4":[6,0,520,0,0],
 "d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#ae6b8c72ad3d36ee6eea624a7d79ca26b":[6,0,520,0,4],
-"d4/dde/Random_8cpp.html":[7,0,0,0,0,15,19]
+"d4/dde/Random_8cpp.html":[7,0,0,0,0,15,19],
+"d4/dde/Random_8cpp.html#a131ba7587aa544a7e73ff9884d6bc784":[7,0,0,0,0,15,19,12],
+"d4/dde/Random_8cpp.html#a19bd31014583536af788a65b398e4406":[7,0,0,0,0,15,19,0],
+"d4/dde/Random_8cpp.html#a3f7e714c8fc3a6f6ccbe91d524a84f23":[7,0,0,0,0,15,19,10]
 };

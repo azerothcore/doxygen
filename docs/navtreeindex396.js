@@ -1,8 +1,5 @@
 var NAVTREEINDEX396 =
 {
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,4,1,1,3,3,2],
-"df/db5/boss__meathook_8cpp.html#a5bd342133be8c2137b831460acc9298cabdabcf18eaa10d39312003cf001d4d61":[7,0,0,0,1,3,4,1,1,3,3,1],
-"df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,1,1,3,2],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a007991056a3ae1396d0b1454ecdf9ae8":[7,0,0,0,1,3,4,1,1,3,2,2],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0cc2c2b12f9fa479587dc32164d55d56":[7,0,0,0,1,3,4,1,1,3,2,0],
 "df/db5/boss__meathook_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a10acc786004d8e2a8bd9b4cccdd2d5d7":[7,0,0,0,1,3,4,1,1,3,2,1],
@@ -75,8 +72,8 @@ var NAVTREEINDEX396 =
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,12,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,32,6,50,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,12,6,50,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,12,6,50,0],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,32,6,50,0],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,12,6,50,0],
 "df/db9/structAddonInfo.html":[6,0,131],
 "df/db9/structAddonInfo.html#a45692257c72286e670ab8c9c50014335":[6,0,131,3],
 "df/db9/structAddonInfo.html#a5301b19e44d68540434574f023e62f46":[6,0,131,4],
@@ -126,10 +123,10 @@ var NAVTREEINDEX396 =
 "df/dbc/structSpellDifficultyEntry.html":[6,0,4113],
 "df/dbc/structSpellDifficultyEntry.html#a0272b3c1130508a2681035c91ee416e6":[6,0,4113,0],
 "df/dbc/structSpellDifficultyEntry.html#a231d22a763ddcd9f1fbdab81521dcf67":[6,0,4113,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[6,0,0,77],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[5,0,1,89],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,1,89,5],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html":[6,0,0,77],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[6,0,0,77,5],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a26242657d6f2eb61d6f8fcac30357381":[5,0,1,89,5],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[5,0,1,89,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a2f966e38682e6a02a120ad90ba19f7a4":[6,0,0,77,2],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[6,0,0,77,4],
@@ -138,8 +135,8 @@ var NAVTREEINDEX396 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,89,0],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2010],
 "df/dbd/structnpc__pallid__horror.html#a0948ef0c5971a8b6ffee2269d8bca3a6":[6,0,2010,10],
 "df/dbd/structnpc__pallid__horror.html#a2711bdb05ad74a4d0425b4f61dcddab4":[6,0,2010,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX396 =
 "df/dc5/structTransportTemplate.html":[6,0,4222],
 "df/dc5/structTransportTemplate.html#a558f3611434dbe13239834fa2f2ec6b4":[6,0,4222,2],
 "df/dc5/structTransportTemplate.html#a7b6837ef812eadb353c00cfeb2426e99":[6,0,4222,4],
-"df/dc5/structTransportTemplate.html#a93899b0648871ed8ca32dfe8394347c1":[6,0,4222,7]
+"df/dc5/structTransportTemplate.html#a93899b0648871ed8ca32dfe8394347c1":[6,0,4222,7],
+"df/dc5/structTransportTemplate.html#a971c84762c229b01cab656945f0c16de":[6,0,4222,5],
+"df/dc5/structTransportTemplate.html#a9d6a612652af64e8b4dd5cbb81ed0d71":[6,0,4222,8],
+"df/dc5/structTransportTemplate.html#ac714531f226ca06c3586cf3f6cc06808":[6,0,4222,6]
 };

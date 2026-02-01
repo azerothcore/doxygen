@@ -1,5 +1,6 @@
 var NAVTREEINDEX62 =
 {
+"d2/d4b/classPlayer.html#aea7111ad45aa0a9e164cb38cd9dd4862":[6,0,2402,12],
 "d2/d4b/classPlayer.html#aeb157596058894c011c152ded753ab17":[6,0,2402,344],
 "d2/d4b/classPlayer.html#aeb27cbb60fc471fd2cb39a321fb38245":[6,0,2402,939],
 "d2/d4b/classPlayer.html#aeb8ed0852822ab942a9fb5f49513d8ae":[6,0,2402,599],
@@ -122,12 +123,12 @@ var NAVTREEINDEX62 =
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,32,7,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[6,0,12,7,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,32,7,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,32,7,0,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,7,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,32,7,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[6,0,12,7,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,32,7,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,7,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3316],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[6,0,3316,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[6,0,3316,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX62 =
 "d2/d55/classat__ancient__leaf.html#a7c1913b5ac00659697d0b361f1a7a2fd":[6,0,210,0],
 "d2/d55/classspell__gen__baby__murloc__passive.html":[6,0,2928],
 "d2/d55/classspell__gen__baby__murloc__passive.html#a75f7fc139cf72aeaa2cc09ba30a8f119":[6,0,2928,0],
-"d2/d55/classspell__gen__baby__murloc__passive.html#abc9eb056267c7effcc7f68a3ad7891da":[6,0,2928,3],
-"d2/d55/classspell__gen__baby__murloc__passive.html#ac2040d944e47a4f1cc7721ead44aca77":[6,0,2928,2]
+"d2/d55/classspell__gen__baby__murloc__passive.html#abc9eb056267c7effcc7f68a3ad7891da":[6,0,2928,3]
 };

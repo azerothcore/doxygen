@@ -1,5 +1,6 @@
 var NAVTREEINDEX67 =
 {
+"d2/d73/classScriptMgr.html#ad073b9d9a31bc197ef13394c89c89965":[6,0,2526,36],
 "d2/d73/classScriptMgr.html#ad0cf27b50cb514b8340ed54c3383dcf1":[6,0,2526,175],
 "d2/d73/classScriptMgr.html#ad0eea7806c77aec4714794abe8047fd4":[6,0,2526,77],
 "d2/d73/classScriptMgr.html#ad108168196d0756553ef8fccba9fc3bc":[6,0,2526,149],
@@ -248,6 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d7e/boss__pandemonius_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,0,1,1,4,1],
 "d2/d7e/boss__pandemonius_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab25682f7ab54b53ab3290cf500e7d3ae":[7,0,0,0,1,3,7,0,1,1,4,3],
 "d2/d7e/boss__pandemonius_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,7,0,1,1,1],
-"d2/d7e/boss__pandemonius_8cpp.html#aab072245ab577ff0e12efe20a536b99aa42a5b582d3481d3a6c19206d7d5089c2":[7,0,0,0,1,3,7,0,1,1,1,0],
-"d2/d7e/boss__pandemonius_8cpp.html#ac3db56727d43ee42faa12afdd8c2fdd1":[7,0,0,0,1,3,7,0,1,1,5]
+"d2/d7e/boss__pandemonius_8cpp.html#aab072245ab577ff0e12efe20a536b99aa42a5b582d3481d3a6c19206d7d5089c2":[7,0,0,0,1,3,7,0,1,1,1,0]
 };

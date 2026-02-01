@@ -2384,7 +2384,7 @@ var searchData=
   ['boss_5fmal_5fganis_2ecpp_2381',['boss_mal_ganis.cpp',['../d4/dac/boss__mal__ganis_8cpp.html',1,'']]],
   ['boss_5fmal_5fganisai_2382',['boss_mal_ganisai',['../d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html',1,'boss_mal_ganis::boss_mal_ganisAI'],['../d7/dde/structboss__mal__ganis_1_1boss__mal__ganisAI.html#aa8b70930372cd0729686f7c6032d3152',1,'boss_mal_ganis::boss_mal_ganisAI::boss_mal_ganisAI()']]],
   ['boss_5fmalchezaar_2383',['boss_malchezaar',['../d6/d6e/structboss__malchezaar.html',1,'boss_malchezaar'],['../d6/d6e/structboss__malchezaar.html#a68adb0f05177316f9e39a48669f60829',1,'boss_malchezaar::boss_malchezaar()']]],
-  ['boss_5fmalygos_2384',['boss_malygos',['../de/d52/structboss__malygos.html#a72059788e0ec60c5fb5237e56c3730a9',1,'boss_malygos::boss_malygos()'],['../de/d52/structboss__malygos.html',1,'boss_malygos']]],
+  ['boss_5fmalygos_2384',['boss_malygos',['../de/d52/structboss__malygos.html#acd26b3f587a379b568c496ea1ec3194f',1,'boss_malygos::boss_malygos()'],['../de/d52/structboss__malygos.html',1,'boss_malygos']]],
   ['boss_5fmalygos_2ecpp_2385',['boss_malygos.cpp',['../db/d86/boss__malygos_8cpp.html',1,'']]],
   ['boss_5fmandokir_2386',['boss_mandokir',['../d4/dd3/classboss__mandokir.html#aad13c8302cef7fb4981f0d2178630def',1,'boss_mandokir::boss_mandokir()'],['../d4/dd3/classboss__mandokir.html',1,'boss_mandokir']]],
   ['boss_5fmandokir_2ecpp_2387',['boss_mandokir.cpp',['../dc/dbc/boss__mandokir_8cpp.html',1,'']]],

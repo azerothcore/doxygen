@@ -1,8 +1,5 @@
 var NAVTREEINDEX398 =
 {
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ade38de77f83da2f084a9ad3f8ada01d3":[6,0,2078,0,1],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ae5289a2645f3d17da452810b22a77713":[6,0,2078,0,12],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#aef1192735d87a7e83ea00cc8cb9303c7":[6,0,2078,0,2],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#af676158d45338ddbc2a366e399796642":[6,0,2078,0,15],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d":[6,0,2078,0,8],
 "df/dd7/classboss__devourer__of__souls.html":[6,0,426],
@@ -249,5 +246,8 @@ var NAVTREEINDEX398 =
 "df/dd9/classUnit.html#a369190538cd53ebc6df26d9116e2db75":[6,0,4241,220],
 "df/dd9/classUnit.html#a372fba48bf22c59362ae241ca83f51ec":[6,0,4241,455],
 "df/dd9/classUnit.html#a373a25c8d6ff3ca2f5653267c1269ad4":[6,0,4241,327],
-"df/dd9/classUnit.html#a375c07471b5dd9708337960e21ca5b28":[6,0,4241,817]
+"df/dd9/classUnit.html#a375c07471b5dd9708337960e21ca5b28":[6,0,4241,817],
+"df/dd9/classUnit.html#a37a962c6e3cf6106d547d733290740e1":[6,0,4241,722],
+"df/dd9/classUnit.html#a37bc079e17756196dd7dbb4f6722c1f9":[6,0,4241,76],
+"df/dd9/classUnit.html#a37bdb0851bcf8491275b83c163538f97":[6,0,4241,622]
 };

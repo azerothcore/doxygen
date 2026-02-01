@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d55/classspell__gen__baby__murloc__passive.html#ac2040d944e47a4f1cc7721ead44aca77":[6,0,2928,2],
 "d2/d55/classspell__gen__baby__murloc__passive.html#ae9f438dd0833b2ad214acef0e558a8be":[6,0,2928,1],
 "d2/d55/classspell__igb__battle__experience__check.html":[6,0,3179],
 "d2/d55/classspell__igb__battle__experience__check.html#a2c10a09e9e5015eb4f3c66d5086dbe1a":[6,0,3179,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d5b/culling__of__stratholme_8cpp.html#ae00215a6d1897962dd50230182fbfe22":[7,0,0,0,1,3,4,1,1,5,17],
 "d2/d5b/culling__of__stratholme_8cpp.html#aede95fd2791156799c384e405533f8c8":[7,0,0,0,1,3,4,1,1,5,15],
 "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,1,1,5,9],
-"d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4b78ee6876634cd910e6db310ee261a5":[7,0,0,0,1,3,4,1,1,5,9,3],
-"d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a962a843d97885c07c4cc6827cd8ee2a3":[7,0,0,0,1,3,4,1,1,5,9,1]
+"d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4b78ee6876634cd910e6db310ee261a5":[7,0,0,0,1,3,4,1,1,5,9,3]
 };

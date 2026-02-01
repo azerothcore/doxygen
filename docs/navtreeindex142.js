@@ -1,8 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6cc2ad36253f710d071f6ac2f4d5d989":[7,0,0,0,1,2,16,7,4,2,12],
-"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea6dc33aaf3064bb368a764a60bcb4a6ba":[7,0,0,0,1,2,16,7,4,2,31],
-"d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea78d41c1489bfe1594e5b47b53f48dfcc":[7,0,0,0,1,2,16,7,4,2,20],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea7b52e8cea3f9c3167d92decd72098a3b":[7,0,0,0,1,2,16,7,4,2,8],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea8e36178c90ba01bda3e3cfb4f0acc26a":[7,0,0,0,1,2,16,7,4,2,16],
 "d5/d11/Player_8cpp.html#aaba5b1cb73e3834489f98e5f6f0fc6dea93ff5e89a80da229bb8bb32c3347c1ec":[7,0,0,0,1,2,16,7,4,2,23],
@@ -249,5 +246,8 @@ var NAVTREEINDEX142 =
 "d5/d23/classspell__gen__leeching__swarm__dmg.html#acaed5d5902194f8ba9d2b286cd47d8d0":[6,0,2992,1],
 "d5/d23/classspell__gen__leeching__swarm__dmg.html#ad4c84071b538b657fa1302982f8799b4":[6,0,2992,3],
 "d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html":[6,0,74],
-"d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a5d8980111e029b4c9311737f3985ab61":[6,0,74,0]
+"d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a5d8980111e029b4c9311737f3985ab61":[6,0,74,0],
+"d5/d25/classachievement__mimiron__set__up__us__the__bomb__11.html#a7682a7f2f4417dcf75ec58e34e4fd6bc":[6,0,74,1],
+"d5/d26/classspell__ignis__grab__initial.html":[6,0,3198],
+"d5/d26/classspell__ignis__grab__initial.html#a3bb460d50928bd1b57566dd6a50fa5cd":[6,0,3198,3]
 };

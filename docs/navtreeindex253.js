@@ -1,8 +1,5 @@
 var NAVTREEINDEX253 =
 {
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7b5d0b48f9a7e84bf7a896602e8c66b9":[7,0,0,0,1,2,41,0,0,6,6],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7d0828cbaffd7baff253b14ffbf0a637":[7,0,0,0,1,2,41,0,0,6,213],
-"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7dffb8e20e91a710ae9d4a2c804bcb6e":[7,0,0,0,1,2,41,0,0,6,187],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7e920736925cc01608542567a3d2107e":[7,0,0,0,1,2,41,0,0,6,175],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a7eb8c04cf8d83170bef8810aefa11c1b":[7,0,0,0,1,2,41,0,0,6,104],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a80ad93ae28941c5274c5bbf707611b7d":[7,0,0,0,1,2,41,0,0,6,144],
@@ -249,5 +246,8 @@ var NAVTREEINDEX253 =
 "da/d32/structboss__watchkeeper__gargolmar.html#a39be5796b39bea913105fc48dda0d186":[6,0,784,1],
 "da/d32/structboss__watchkeeper__gargolmar.html#a3cd89b2567668b52d96b02af7eb85db8":[6,0,784,7],
 "da/d32/structboss__watchkeeper__gargolmar.html#a9e3194d02d0d3b66ef38118aa32ae684":[6,0,784,2],
-"da/d32/structboss__watchkeeper__gargolmar.html#ab5623501bf92e119806ba4e2ccd0cd7a":[6,0,784,8]
+"da/d32/structboss__watchkeeper__gargolmar.html#ab5623501bf92e119806ba4e2ccd0cd7a":[6,0,784,8],
+"da/d32/structboss__watchkeeper__gargolmar.html#acb4212c6f852f50f3edfa3880806a9d2":[6,0,784,0],
+"da/d32/structboss__watchkeeper__gargolmar.html#adec9837fdb2595ce57acffb279a7d011":[6,0,784,4],
+"da/d33/structnpc__icc__skybreaker__vicar_1_1npc__icc__skybreaker__vicarAI.html":[6,0,1878,0]
 };
