@@ -600,9 +600,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  138</span>        <span class="comment">// player&#39;s guild membership checked in AddMember before add</span></div>
 <div class="line"><span class="lineno">  139</span>        <span class="keywordflow">return</span> targetGuild-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649">AddMember</a>(target-&gt;GetGUID());</div>
 <div class="line"><span class="lineno">  140</span>    }</div>
-<div class="ttc" id="aclassGuild_html_ab4d511e35415a734e16f90f8a028d649"><div class="ttname"><a href="../../de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649">Guild::AddMember</a></div><div class="ttdeci">bool AddMember(ObjectGuid guid, uint8 rankId=GUILD_RANK_NONE)</div><div class="ttdef"><b>Definition</b> Guild.cpp:2178</div></div>
+<div class="ttc" id="aclassGuild_html_ab4d511e35415a734e16f90f8a028d649"><div class="ttname"><a href="../../de/d79/classGuild.html#ab4d511e35415a734e16f90f8a028d649">Guild::AddMember</a></div><div class="ttdeci">bool AddMember(ObjectGuid guid, uint8 rankId=GUILD_RANK_NONE)</div><div class="ttdef"><b>Definition</b> Guild.cpp:2182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02178">Guild::AddMember()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02182">Guild::AddMember()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -664,9 +664,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  183</span> </div>
 <div class="line"><span class="lineno">  184</span>        <span class="keywordflow">return</span> targetGuild-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#a8687e8ccceee50ef72dcb0bef0008cc5">ChangeMemberRank</a>(player-&gt;GetGUID(), rank);</div>
 <div class="line"><span class="lineno">  185</span>    }</div>
-<div class="ttc" id="aclassGuild_html_a8687e8ccceee50ef72dcb0bef0008cc5"><div class="ttname"><a href="../../de/d79/classGuild.html#a8687e8ccceee50ef72dcb0bef0008cc5">Guild::ChangeMemberRank</a></div><div class="ttdeci">bool ChangeMemberRank(ObjectGuid guid, uint8 newRank)</div><div class="ttdef"><b>Definition</b> Guild.cpp:2323</div></div>
+<div class="ttc" id="aclassGuild_html_a8687e8ccceee50ef72dcb0bef0008cc5"><div class="ttname"><a href="../../de/d79/classGuild.html#a8687e8ccceee50ef72dcb0bef0008cc5">Guild::ChangeMemberRank</a></div><div class="ttdeci">bool ChangeMemberRank(ObjectGuid guid, uint8 newRank)</div><div class="ttdef"><b>Definition</b> Guild.cpp:2327</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02323">Guild::ChangeMemberRank()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02327">Guild::ChangeMemberRank()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -806,9 +806,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  164</span>        targetGuild-&gt;<a class="code hl_function" href="../../de/d79/classGuild.html#a4b1c1eae7f85a92e17ba48c4ac52f0c9">DeleteMember</a>(target-&gt;GetGUID(), <span class="keyword">false</span>, <span class="keyword">true</span>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  165</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  166</span>    }</div>
-<div class="ttc" id="aclassGuild_html_a4b1c1eae7f85a92e17ba48c4ac52f0c9"><div class="ttname"><a href="../../de/d79/classGuild.html#a4b1c1eae7f85a92e17ba48c4ac52f0c9">Guild::DeleteMember</a></div><div class="ttdeci">void DeleteMember(ObjectGuid guid, bool isDisbanding=false, bool isKicked=false, bool canDeleteGuild=false)</div><div class="ttdef"><b>Definition</b> Guild.cpp:2262</div></div>
+<div class="ttc" id="aclassGuild_html_a4b1c1eae7f85a92e17ba48c4ac52f0c9"><div class="ttname"><a href="../../de/d79/classGuild.html#a4b1c1eae7f85a92e17ba48c4ac52f0c9">Guild::DeleteMember</a></div><div class="ttdeci">void DeleteMember(ObjectGuid guid, bool isDisbanding=false, bool isKicked=false, bool canDeleteGuild=false)</div><div class="ttdef"><b>Definition</b> Guild.cpp:2266</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02262">Guild::DeleteMember()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l01891">Player::GetGuildId()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02266">Guild::DeleteMember()</a>, <a class="el" href="../../#l00184">Acore::ChatCommands::PlayerIdentifier::FromTargetOrSelf()</a>, <a class="el" href="../../#l01891">Player::GetGuildId()</a>, <a class="el" href="../../#l00083">sCharacterCache</a>, and <a class="el" href="../../#l00051">sGuildMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00030">GetCommands()</a>.</p>
 
@@ -823,7 +823,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d28/classguild__commandscript.html">guild_commandscript</a></li>
-    <li class="footer">Generated on Tue Feb 3 2026 06:45:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Feb 4 2026 06:45:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

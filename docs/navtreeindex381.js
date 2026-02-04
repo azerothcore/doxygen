@@ -1,5 +1,14 @@
 var NAVTREEINDEX381 =
 {
+"df/d14/classPet.html#a499659ccc6308ac8353080d13aad99c8":[6,0,2388,68],
+"df/d14/classPet.html#a4bd107b7f3105fec515833b1c4a752f9":[6,0,2388,60],
+"df/d14/classPet.html#a4d1f1a52e2857c95762835849c6f8309":[6,0,2388,31],
+"df/d14/classPet.html#a4df379b5eb89babf9db2e29b7af83ba9":[6,0,2388,5],
+"df/d14/classPet.html#a4e3b8fbcd863d03f0ab580c3ab1902ae":[6,0,2388,6],
+"df/d14/classPet.html#a4f51b83ff25e3bfbee6d635118800938":[6,0,2388,67],
+"df/d14/classPet.html#a4f7462b8b062cb5b842244b527517fe7":[6,0,2388,35],
+"df/d14/classPet.html#a5318c4fc909c15b4ac3ed440f8ad5f2b":[6,0,2388,69],
+"df/d14/classPet.html#a53b8f73a1fa1618417bf791acc9815c8":[6,0,2388,75],
 "df/d14/classPet.html#a6152b833b94d8b470e83c6d4b1a18fa1":[6,0,2388,33],
 "df/d14/classPet.html#a62481470d2548378d2ca31c8f8af70d2":[6,0,2388,7],
 "df/d14/classPet.html#a641fba5945a2462c733fc98da6e4fee2":[6,0,2388,50],
@@ -240,14 +249,5 @@ var NAVTREEINDEX381 =
 "df/d17/group__world.html#ggac11f34aad352a3782f299b3978607d16a7c01173015d547564263c9c0cbbda246":[4,2,14,1],
 "df/d17/group__world.html#ggac11f34aad352a3782f299b3978607d16a8cec6c9d7436da0c2f14369c954f1e5f":[4,2,14,3],
 "df/d17/group__world.html#ggac11f34aad352a3782f299b3978607d16ab5bf7f117aa8390fe1605e95192bbc6e":[4,2,14,4],
-"df/d17/structboss__headless__horseman__head.html":[6,0,527],
-"df/d17/structboss__headless__horseman__head.html#a0d73ba0831118d135137953f91e7c5d7":[6,0,527,5],
-"df/d17/structboss__headless__horseman__head.html#a12343a1bb6e30681b0c82ba649bd5b8a":[6,0,527,0],
-"df/d17/structboss__headless__horseman__head.html#a300dec039465535914bf6879423a0962":[6,0,527,6],
-"df/d17/structboss__headless__horseman__head.html#a367e8b82d6d3bb08e7106c71295610f9":[6,0,527,3],
-"df/d17/structboss__headless__horseman__head.html#a72c0d0c8c534fa8fdc1370203c30c3a3":[6,0,527,7],
-"df/d17/structboss__headless__horseman__head.html#a73e75350937736ad7cfe725b785b3768":[6,0,527,1],
-"df/d17/structboss__headless__horseman__head.html#a9752326bac7ecbcdfde5b12f55b20be2":[6,0,527,8],
-"df/d17/structboss__headless__horseman__head.html#ab72d1f1891401754ffe032ed0534882d":[6,0,527,2],
-"df/d17/structboss__headless__horseman__head.html#adcd9ce9755f8dbc1391b4d2b3f5e1669":[6,0,527,4]
+"df/d17/structboss__headless__horseman__head.html":[6,0,527]
 };

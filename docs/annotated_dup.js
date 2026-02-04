@@ -2978,6 +2978,7 @@ var annotated_dup =
     [ "PyramidEventData", "d2/ddb/structPyramidEventData.html", "d2/ddb/structPyramidEventData" ],
     [ "QEmote", "db/d3e/structQEmote.html", "db/d3e/structQEmote" ],
     [ "Quaternion", "dc/dc7/structQuaternion.html", "dc/dc7/structQuaternion" ],
+    [ "QuaternionData", "dc/d84/structQuaternionData.html", "dc/d84/structQuaternionData" ],
     [ "QueryCallback", "de/db7/classQueryCallback.html", "de/db7/classQueryCallback" ],
     [ "QueryResultFieldMetadata", "d9/d6a/structQueryResultFieldMetadata.html", "d9/d6a/structQueryResultFieldMetadata" ],
     [ "Quest", "d1/d4f/classQuest.html", "d1/d4f/classQuest" ],

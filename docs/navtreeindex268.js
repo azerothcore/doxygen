@@ -248,6 +248,6 @@ var NAVTREEINDEX268 =
 "da/dc0/classnpc__ioc__gunship__captain.html":[6,0,1900],
 "da/dc0/classnpc__ioc__gunship__captain.html#a43f3ce178df31fbf693acbfa8c32a339":[6,0,1900,2],
 "da/dc0/classnpc__ioc__gunship__captain.html#a6463d7bc12d5fe4fc8921ba5916ec906":[6,0,1900,1],
-"da/dc1/classspell__karazhan__overload__aura.html":[6,0,3374],
-"da/dc1/classspell__karazhan__overload__aura.html#a267d6df2c08039581fd1c008ffc14b8c":[6,0,3374,0]
+"da/dc1/classspell__karazhan__overload__aura.html":[6,0,3375],
+"da/dc1/classspell__karazhan__overload__aura.html#a267d6df2c08039581fd1c008ffc14b8c":[6,0,3375,0]
 };

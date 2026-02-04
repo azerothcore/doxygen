@@ -3196,6 +3196,7 @@ var hierarchy =
     [ "PyramidEventData", "d2/ddb/structPyramidEventData.html", null ],
     [ "QEmote", "db/d3e/structQEmote.html", null ],
     [ "Quaternion", "dc/dc7/structQuaternion.html", null ],
+    [ "QuaternionData", "dc/d84/structQuaternionData.html", null ],
     [ "QueryCallback", "de/db7/classQueryCallback.html", null ],
     [ "QueryCallback::QueryCallbackData", "d9/ddc/structQueryCallback_1_1QueryCallbackData.html", null ],
     [ "QueryResultFieldMetadata", "d9/d6a/structQueryResultFieldMetadata.html", null ],

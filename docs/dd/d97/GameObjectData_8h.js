@@ -3,6 +3,7 @@ var GameObjectData_8h =
     [ "GameObjectTemplate", "dd/d3b/structGameObjectTemplate.html", "dd/d3b/structGameObjectTemplate" ],
     [ "GameObjectTemplateAddon", "d5/dec/structGameObjectTemplateAddon.html", "d5/dec/structGameObjectTemplateAddon" ],
     [ "GameObjectLocale", "d3/d01/structGameObjectLocale.html", "d3/d01/structGameObjectLocale" ],
+    [ "QuaternionData", "dc/d84/structQuaternionData.html", "dc/d84/structQuaternionData" ],
     [ "GameObjectAddon", "dd/d0d/structGameObjectAddon.html", "dd/d0d/structGameObjectAddon" ],
     [ "GameObjectData", "df/dd2/structGameObjectData.html", "df/dd2/structGameObjectData" ],
     [ "MAX_GAMEOBJECT_QUEST_ITEMS", "dd/d97/GameObjectData_8h.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
