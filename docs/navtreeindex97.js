@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa4ac7dd37e1fc5cb4eb66b6d30216538":[7,0,0,0,1,2,48,7,0,250],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa4ce33c95986de95622c0395c49084ca":[7,0,0,0,1,2,48,7,0,314],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa5d57d412a9afc22194d26a15c54aa56":[7,0,0,0,1,2,48,7,0,202],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baa601d27f30ad965ade70f36f4503d465":[7,0,0,0,1,2,48,7,0,450],
@@ -171,11 +172,11 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3445],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3445,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3445,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3445,1],
-"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3445,3],
+"d3/d46/classspell__mage__mirror__image.html":[6,0,3446],
+"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3446,0],
+"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3446,2],
+"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3446,1],
+"d3/d46/classspell__mage__mirror__image.html#aa66ee788b7e09815b827a0f4ac954e1f":[6,0,3446,3],
 "d3/d46/trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,4],
 "d3/d46/trial__of__the__champion_8cpp.html#a9362c29e0c33473d5b55f832d4ba6b00":[7,0,0,0,1,3,5,2,0,4,3],
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,2,0,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8ba97aeedf0b7bc307a224d7cbbd34b3":[7,0,0,0,1,3,4,4,0,3,18],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94956c534a56a353aefe171b409e7cfb":[7,0,0,0,1,3,4,4,0,3,2],
 "d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9e581454d678ee2b6aec201353369c87":[7,0,0,0,1,3,4,4,0,3,16],
-"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abdf1f7a33ed79e459618993632aded02":[7,0,0,0,1,3,4,4,0,3,20],
-"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac2f35dc46f5125c11ba5c5ceb89a31f8":[7,0,0,0,1,3,4,4,0,3,23]
+"d3/d4a/boss__onyxia_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abdf1f7a33ed79e459618993632aded02":[7,0,0,0,1,3,4,4,0,3,20]
 };

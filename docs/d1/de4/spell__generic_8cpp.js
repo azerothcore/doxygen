@@ -149,6 +149,7 @@ var spell__generic_8cpp =
     [ "spell_gen_bm_off", "df/d27/classspell__gen__bm__off.html", "df/d27/classspell__gen__bm__off" ],
     [ "spell_gen_bm_on", "d6/de6/classspell__gen__bm__on.html", "d6/de6/classspell__gen__bm__on" ],
     [ "spell_gen_whisper_to_controller", "df/ded/classspell__gen__whisper__to__controller.html", "df/ded/classspell__gen__whisper__to__controller" ],
+    [ "spell_gen_filter_party_level_80", "d0/df8/classspell__gen__filter__party__level__80.html", "d0/df8/classspell__gen__filter__party__level__80" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
       [ "SPELL_GEN_ADAPTIVE_WARDING_NATURE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a6e5208fa2df777e0c38c675c037ce7c4", null ],

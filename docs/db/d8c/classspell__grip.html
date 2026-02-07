@@ -334,36 +334,36 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1141</span>    {</div>
-<div class="line"><span class="lineno"> 1142</span>        ++<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">_tickNumber</a>;</div>
-<div class="line"><span class="lineno"> 1143</span> </div>
-<div class="line"><span class="lineno"> 1144</span>        <span class="comment">// each 15 ticks stack reduction increases by 2 (increases by 1 at each 7th and 15th tick)</span></div>
-<div class="line"><span class="lineno"> 1145</span>        <span class="comment">// except for the first 15 ticks that remove 1 stack each</span></div>
-<div class="line"><span class="lineno"> 1146</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> period = ((<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">_tickNumber</a> - 1) % 15) + 1;</div>
-<div class="line"><span class="lineno"> 1147</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> sequence = (<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">_tickNumber</a> - 1) / 15;</div>
-<div class="line"><span class="lineno"> 1148</span> </div>
-<div class="line"><span class="lineno"> 1149</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> stacksToRemove;</div>
-<div class="line"><span class="lineno"> 1150</span>        <span class="keywordflow">if</span> (sequence == 0)</div>
-<div class="line"><span class="lineno"> 1151</span>            stacksToRemove = 1;</div>
-<div class="line"><span class="lineno"> 1152</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1153</span>        {</div>
-<div class="line"><span class="lineno"> 1154</span>            stacksToRemove = sequence * 2;</div>
-<div class="line"><span class="lineno"> 1155</span>            <span class="keywordflow">if</span> (period &gt; 7)</div>
-<div class="line"><span class="lineno"> 1156</span>                ++stacksToRemove;</div>
-<div class="line"><span class="lineno"> 1157</span>        }</div>
-<div class="line"><span class="lineno"> 1158</span> </div>
-<div class="line"><span class="lineno"> 1159</span>        <span class="comment">// while we could do ModStackAmount(-stacksToRemove), this is how it&#39;s done in sniffs :)</span></div>
-<div class="line"><span class="lineno"> 1160</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; stacksToRemove; ++i)</div>
-<div class="line"><span class="lineno"> 1161</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>);</div>
-<div class="line"><span class="lineno"> 1162</span> </div>
-<div class="line"><span class="lineno"> 1163</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() &lt; 15 &amp;&amp; !<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">_warning</a>)</div>
-<div class="line"><span class="lineno"> 1164</span>        {</div>
-<div class="line"><span class="lineno"> 1165</span>            <a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">_warning</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1166</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea4a942d8bc52d96704974c03dee053cb7">ACTION_GRIP_FAILING</a>);</div>
-<div class="line"><span class="lineno"> 1167</span>        }</div>
-<div class="line"><span class="lineno"> 1168</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() &gt; 30)</div>
-<div class="line"><span class="lineno"> 1169</span>            <a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">_warning</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1170</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1099</span>    {</div>
+<div class="line"><span class="lineno"> 1100</span>        ++<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">_tickNumber</a>;</div>
+<div class="line"><span class="lineno"> 1101</span> </div>
+<div class="line"><span class="lineno"> 1102</span>        <span class="comment">// each 15 ticks stack reduction increases by 2 (increases by 1 at each 7th and 15th tick)</span></div>
+<div class="line"><span class="lineno"> 1103</span>        <span class="comment">// except for the first 15 ticks that remove 1 stack each</span></div>
+<div class="line"><span class="lineno"> 1104</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> period = ((<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">_tickNumber</a> - 1) % 15) + 1;</div>
+<div class="line"><span class="lineno"> 1105</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> sequence = (<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">_tickNumber</a> - 1) / 15;</div>
+<div class="line"><span class="lineno"> 1106</span> </div>
+<div class="line"><span class="lineno"> 1107</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> stacksToRemove;</div>
+<div class="line"><span class="lineno"> 1108</span>        <span class="keywordflow">if</span> (sequence == 0)</div>
+<div class="line"><span class="lineno"> 1109</span>            stacksToRemove = 1;</div>
+<div class="line"><span class="lineno"> 1110</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1111</span>        {</div>
+<div class="line"><span class="lineno"> 1112</span>            stacksToRemove = sequence * 2;</div>
+<div class="line"><span class="lineno"> 1113</span>            <span class="keywordflow">if</span> (period &gt; 7)</div>
+<div class="line"><span class="lineno"> 1114</span>                ++stacksToRemove;</div>
+<div class="line"><span class="lineno"> 1115</span>        }</div>
+<div class="line"><span class="lineno"> 1116</span> </div>
+<div class="line"><span class="lineno"> 1117</span>        <span class="comment">// while we could do ModStackAmount(-stacksToRemove), this is how it&#39;s done in sniffs :)</span></div>
+<div class="line"><span class="lineno"> 1118</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; stacksToRemove; ++i)</div>
+<div class="line"><span class="lineno"> 1119</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>);</div>
+<div class="line"><span class="lineno"> 1120</span> </div>
+<div class="line"><span class="lineno"> 1121</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() &lt; 15 &amp;&amp; !<a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">_warning</a>)</div>
+<div class="line"><span class="lineno"> 1122</span>        {</div>
+<div class="line"><span class="lineno"> 1123</span>            <a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">_warning</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1124</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea4a942d8bc52d96704974c03dee053cb7">ACTION_GRIP_FAILING</a>);</div>
+<div class="line"><span class="lineno"> 1125</span>        }</div>
+<div class="line"><span class="lineno"> 1126</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() &gt; 30)</div>
+<div class="line"><span class="lineno"> 1127</span>            <a class="code hl_variable" href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">_warning</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1128</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a></div><div class="ttdeci">@ AURA_REMOVE_BY_EXPIRE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:395</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
@@ -371,13 +371,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_afe631d7dac9971919237be37b6693fdb"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">AuraScript::ModStackAmount</a></div><div class="ttdeci">bool ModStackAmount(int32 num, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1135</div></div>
 <div class="ttc" id="aclassUnitAI_html_a165d336cb3423f9665ed612d2dec76ed"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI::DoAction</a></div><div class="ttdeci">virtual void DoAction(int32)</div><div class="ttdef"><b>Definition</b> UnitAI.h:217</div></div>
 <div class="ttc" id="aclassUnit_html_ac53944779fa1544c06a3fc3dc74f5294"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">Unit::GetAI</a></div><div class="ttdeci">UnitAI * GetAI()</div><div class="ttdef"><b>Definition</b> Unit.h:683</div></div>
-<div class="ttc" id="aclassspell__grip_html_a19ffd2ca76a020ca8ca4b2ff91538888"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">spell_grip::_warning</a></div><div class="ttdeci">bool _warning</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1190</div></div>
-<div class="ttc" id="aclassspell__grip_html_a3f8943e288e96f639fb805869749879b"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">spell_grip::_tickNumber</a></div><div class="ttdeci">uint32 _tickNumber</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1188</div></div>
-<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdea4a942d8bc52d96704974c03dee053cb7"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea4a942d8bc52d96704974c03dee053cb7">ACTION_GRIP_FAILING</a></div><div class="ttdeci">@ ACTION_GRIP_FAILING</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:921</div></div>
+<div class="ttc" id="aclassspell__grip_html_a19ffd2ca76a020ca8ca4b2ff91538888"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a19ffd2ca76a020ca8ca4b2ff91538888">spell_grip::_warning</a></div><div class="ttdeci">bool _warning</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1148</div></div>
+<div class="ttc" id="aclassspell__grip_html_a3f8943e288e96f639fb805869749879b"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a3f8943e288e96f639fb805869749879b">spell_grip::_tickNumber</a></div><div class="ttdeci">uint32 _tickNumber</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1146</div></div>
+<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdea4a942d8bc52d96704974c03dee053cb7"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea4a942d8bc52d96704974c03dee053cb7">ACTION_GRIP_FAILING</a></div><div class="ttdeci">@ ACTION_GRIP_FAILING</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:879</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01188">_tickNumber</a>, <a class="el" href="../../#l01190">_warning</a>, <a class="el" href="../../#l00921">ACTION_GRIP_FAILING</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l01125">AuraScript::GetStackAmount()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l01135">AuraScript::ModStackAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01146">_tickNumber</a>, <a class="el" href="../../#l01148">_warning</a>, <a class="el" href="../../#l00879">ACTION_GRIP_FAILING</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l01125">AuraScript::GetStackAmount()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l01135">AuraScript::ModStackAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01180">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01138">Register()</a>.</p>
 
 </div>
 </div>
@@ -414,18 +414,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1173</span>    {</div>
-<div class="line"><span class="lineno"> 1174</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() != <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>)</div>
-<div class="line"><span class="lineno"> 1175</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1176</span> </div>
-<div class="line"><span class="lineno"> 1177</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaa0bdae20ab2b3c995c16b65f57eb17d1">ACTION_GRIP_LOST</a>);</div>
-<div class="line"><span class="lineno"> 1178</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1131</span>    {</div>
+<div class="line"><span class="lineno"> 1132</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() != <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea9ca05b22853d12d44ac7e80a9e864a10">AURA_REMOVE_BY_EXPIRE</a>)</div>
+<div class="line"><span class="lineno"> 1133</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1134</span> </div>
+<div class="line"><span class="lineno"> 1135</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaa0bdae20ab2b3c995c16b65f57eb17d1">ACTION_GRIP_LOST</a>);</div>
+<div class="line"><span class="lineno"> 1136</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a29e48f1dc7011926160e2ed80ebf2f8e"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">AuraScript::GetTargetApplication</a></div><div class="ttdeci">AuraApplication const * GetTargetApplication() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1194</div></div>
-<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdeaa0bdae20ab2b3c995c16b65f57eb17d1"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaa0bdae20ab2b3c995c16b65f57eb17d1">ACTION_GRIP_LOST</a></div><div class="ttdeci">@ ACTION_GRIP_LOST</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:922</div></div>
+<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdeaa0bdae20ab2b3c995c16b65f57eb17d1"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeaa0bdae20ab2b3c995c16b65f57eb17d1">ACTION_GRIP_LOST</a></div><div class="ttdeci">@ ACTION_GRIP_LOST</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:880</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00922">ACTION_GRIP_LOST</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00880">ACTION_GRIP_LOST</a>, <a class="el" href="../../#l00395">AURA_REMOVE_BY_EXPIRE</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l01194">AuraScript::GetTargetApplication()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01180">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01138">Register()</a>.</p>
 
 </div>
 </div>
@@ -479,11 +479,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1181</span>    {</div>
-<div class="line"><span class="lineno"> 1182</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../db/d8c/classspell__grip.html#a0943e7887ff935ccea21d913429e25a0">spell_grip::HandlePeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1183</span> </div>
-<div class="line"><span class="lineno"> 1184</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../db/d8c/classspell__grip.html#a46ae9f9c7b31fa46e0968dc521a2511b">spell_grip::OnRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1185</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1139</span>    {</div>
+<div class="line"><span class="lineno"> 1140</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../db/d8c/classspell__grip.html#a0943e7887ff935ccea21d913429e25a0">spell_grip::HandlePeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1141</span> </div>
+<div class="line"><span class="lineno"> 1142</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../db/d8c/classspell__grip.html#a46ae9f9c7b31fa46e0968dc521a2511b">spell_grip::OnRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1143</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
@@ -491,10 +491,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:753</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__grip_html_a0943e7887ff935ccea21d913429e25a0"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a0943e7887ff935ccea21d913429e25a0">spell_grip::HandlePeriodic</a></div><div class="ttdeci">void HandlePeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1140</div></div>
-<div class="ttc" id="aclassspell__grip_html_a46ae9f9c7b31fa46e0968dc521a2511b"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a46ae9f9c7b31fa46e0968dc521a2511b">spell_grip::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1172</div></div>
+<div class="ttc" id="aclassspell__grip_html_a0943e7887ff935ccea21d913429e25a0"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a0943e7887ff935ccea21d913429e25a0">spell_grip::HandlePeriodic</a></div><div class="ttdeci">void HandlePeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1098</div></div>
+<div class="ttc" id="aclassspell__grip_html_a46ae9f9c7b31fa46e0968dc521a2511b"><div class="ttname"><a href="../../db/d8c/classspell__grip.html#a46ae9f9c7b31fa46e0968dc521a2511b">spell_grip::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1130</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01140">HandlePeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l01172">OnRemove()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00754">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01098">HandlePeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l01130">OnRemove()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -519,7 +519,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01140">HandlePeriodic()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01098">HandlePeriodic()</a>.</p>
 
 </div>
 </div>
@@ -543,7 +543,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01140">HandlePeriodic()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01098">HandlePeriodic()</a>.</p>
 
 </div>
 </div>
@@ -556,7 +556,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d8c/classspell__grip.html">spell_grip</a></li>
-    <li class="footer">Generated on Fri Feb 6 2026 06:48:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 7 2026 06:38:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

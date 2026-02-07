@@ -280,7 +280,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00553">ThreatMgr::_addThreat()</a>, and <a class="el" href="../../#l00650">ThreatMgr::processThreatEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00556">ThreatMgr::_addThreat()</a>, and <a class="el" href="../../#l00653">ThreatMgr::processThreatEvent()</a>.</p>
 
 </div>
 </div>
@@ -321,7 +321,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00138">HostileReference::AddThreat()</a>, and <a class="el" href="../../#l00261">getReferenceByTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00553">ThreatMgr::_addThreat()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00556">ThreatMgr::_addThreat()</a>.</p>
 
 </div>
 </div>
@@ -359,7 +359,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00491">ThreatMgr::clearReferences()</a>, and <a class="el" href="../../#l00151">~ThreatContainer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00494">ThreatMgr::clearReferences()</a>, and <a class="el" href="../../#l00151">~ThreatContainer()</a>.</p>
 
 </div>
 </div>
@@ -484,7 +484,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00113">Object::GetGUID()</a>, and <a class="el" href="../../#l00261">getReferenceByTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00286">AddThreat()</a>, <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>, <a class="el" href="../../#l00283">ThreatMgr::FindReference()</a>, <a class="el" href="../../#l00261">getReferenceByTarget()</a>, <a class="el" href="../../#l00590">ThreatMgr::GetThreat()</a>, <a class="el" href="../../#l00603">ThreatMgr::getThreatWithoutTemp()</a>, <a class="el" href="../../#l00296">ModifyThreatByPercent()</a>, <a class="el" href="../../#l00236">boss_priestess_lackey_commonAI::RecalculateThreat()</a>, <a class="el" href="../../#l00104">boss_faction_championsAI::RecalculateThreat()</a>, <a class="el" href="../../#l00616">ThreatMgr::tauntApply()</a>, and <a class="el" href="../../#l00628">ThreatMgr::tauntFadeOut()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00286">AddThreat()</a>, <a class="el" href="../../#l03284">Spell::EffectTaunt()</a>, <a class="el" href="../../#l00283">ThreatMgr::FindReference()</a>, <a class="el" href="../../#l00261">getReferenceByTarget()</a>, <a class="el" href="../../#l00593">ThreatMgr::GetThreat()</a>, <a class="el" href="../../#l00606">ThreatMgr::getThreatWithoutTemp()</a>, <a class="el" href="../../#l00296">ModifyThreatByPercent()</a>, <a class="el" href="../../#l00240">boss_priestess_lackey_commonAI::RecalculateThreat()</a>, <a class="el" href="../../#l00104">boss_faction_championsAI::RecalculateThreat()</a>, <a class="el" href="../../#l00619">ThreatMgr::tauntApply()</a>, and <a class="el" href="../../#l00631">ThreatMgr::tauntFadeOut()</a>.</p>
 
 </div>
 </div>
@@ -587,19 +587,25 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  468</span>    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a628ce74c6a509b58212931f024be837f">HasAuraTypeWithCaster</a>(<a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee">SPELL_AURA_IGNORED</a>, attacker-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
 <div class="line"><span class="lineno">  469</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  470</span> </div>
-<div class="line"><span class="lineno">  471</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  472</span>}</div>
+<div class="line"><span class="lineno">  471</span>    <span class="keywordflow">if</span> (attacker-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14">UNIT_STATE_ROOT</a>) &amp;&amp; attacker-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a341fd26ee36ee1696b31e8ac7b343c19">IsCombatMovementAllowed</a>() &amp;&amp; !attacker-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(target))</div>
+<div class="line"><span class="lineno">  472</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  473</span> </div>
+<div class="line"><span class="lineno">  474</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  475</span>}</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee">SPELL_AURA_IGNORED</a></div><div class="ttdeci">@ SPELL_AURA_IGNORED</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:284</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a0709fc3ab848cf1b8b4853813b8fe011a043102900f6d0a56c4ba2aaf151fa41a">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a></div><div class="ttdeci">@ AURA_INTERRUPT_FLAG_TAKE_DAMAGE</div><div class="ttdef"><b>Definition</b> SpellDefines.h:44</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a3d7431ccd5efc9f24766e69bf19845c0">UNIT_STATE_CONFUSED</a></div><div class="ttdeci">@ UNIT_STATE_CONFUSED</div><div class="ttdef"><b>Definition</b> UnitDefines.h:181</div></div>
+<div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a50d4f70d273dc4674d4f56fcab462a14">UNIT_STATE_ROOT</a></div><div class="ttdeci">@ UNIT_STATE_ROOT</div><div class="ttdef"><b>Definition</b> UnitDefines.h:180</div></div>
+<div class="ttc" id="aclassCreature_html_a341fd26ee36ee1696b31e8ac7b343c19"><div class="ttname"><a href="../../db/dd5/classCreature.html#a341fd26ee36ee1696b31e8ac7b343c19">Creature::IsCombatMovementAllowed</a></div><div class="ttdeci">bool IsCombatMovementAllowed() const</div><div class="ttdef"><b>Definition</b> Creature.h:435</div></div>
 <div class="ttc" id="aclassCreature_html_ab1fe599b19bd33530f5bba414fb41cfd"><div class="ttname"><a href="../../db/dd5/classCreature.html#ab1fe599b19bd33530f5bba414fb41cfd">Creature::GetMeleeDamageSchoolMask</a></div><div class="ttdeci">SpellSchoolMask GetMeleeDamageSchoolMask(WeaponAttackType=BASE_ATTACK, uint8=0) const override</div><div class="ttdef"><b>Definition</b> Creature.h:163</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 <div class="ttc" id="aclassUnit_html_a1bbfd6ed9dbd8e094278548724b129e4"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1bbfd6ed9dbd8e094278548724b129e4">Unit::HasNegativeAuraWithInterruptFlag</a></div><div class="ttdeci">bool HasNegativeAuraWithInterruptFlag(uint32 flag, ObjectGuid guid=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:5922</div></div>
 <div class="ttc" id="aclassUnit_html_a628ce74c6a509b58212931f024be837f"><div class="ttname"><a href="../../df/dd9/classUnit.html#a628ce74c6a509b58212931f024be837f">Unit::HasAuraTypeWithCaster</a></div><div class="ttdeci">bool HasAuraTypeWithCaster(AuraType auratype, ObjectGuid caster) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5863</div></div>
+<div class="ttc" id="aclassUnit_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:665</div></div>
 <div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:726</div></div>
 <div class="ttc" id="aclassUnit_html_ae7269683ec5b0e44c3ee49bd6f896615"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae7269683ec5b0e44c3ee49bd6f896615">Unit::IsImmunedToDamageOrSchool</a></div><div class="ttdeci">bool IsImmunedToDamageOrSchool(SpellSchoolMask meleeSchoolMask) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:13080</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00163">Creature::GetMeleeDamageSchoolMask()</a>, <a class="el" href="../../#l05863">Unit::HasAuraTypeWithCaster()</a>, <a class="el" href="../../#l05922">Unit::HasNegativeAuraWithInterruptFlag()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l13080">Unit::IsImmunedToDamageOrSchool()</a>, <a class="el" href="../../#l00284">SPELL_AURA_IGNORED</a>, and <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00044">AURA_INTERRUPT_FLAG_TAKE_DAMAGE</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00163">Creature::GetMeleeDamageSchoolMask()</a>, <a class="el" href="../../#l05863">Unit::HasAuraTypeWithCaster()</a>, <a class="el" href="../../#l05922">Unit::HasNegativeAuraWithInterruptFlag()</a>, <a class="el" href="../../#l00726">Unit::HasUnitState()</a>, <a class="el" href="../../#l00435">Creature::IsCombatMovementAllowed()</a>, <a class="el" href="../../#l13080">Unit::IsImmunedToDamageOrSchool()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00284">SPELL_AURA_IGNORED</a>, <a class="el" href="../../#l00181">UNIT_STATE_CONFUSED</a>, and <a class="el" href="../../#l00180">UNIT_STATE_ROOT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00317">SelectNextVictim()</a>, and <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>.</p>
 
@@ -637,7 +643,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00165">HostileReference::addThreatPercent()</a>, and <a class="el" href="../../#l00261">getReferenceByTarget()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00573">ThreatMgr::ModifyThreatByPercent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00576">ThreatMgr::ModifyThreatByPercent()</a>.</p>
 
 </div>
 </div>
@@ -670,7 +676,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00650">ThreatMgr::processThreatEvent()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00653">ThreatMgr::processThreatEvent()</a>.</p>
 
 </div>
 </div>
@@ -798,11 +804,10 @@ Friends</h2></td></tr>
 <div class="ttc" id="aclassThreatContainer_html_a33a691aba4def422a67bdc8453211e8e"><div class="ttname"><a href="../../d7/d65/classThreatContainer.html#a33a691aba4def422a67bdc8453211e8e">ThreatContainer::SelectNextVictimTieBreaker</a></div><div class="ttdeci">HostileReference * SelectNextVictimTieBreaker(Creature *attacker, ThreatContainer::StorageType::const_iterator currentIter, bool noPriorityTargetFound) const</div><div class="ttdef"><b>Definition</b> ThreatMgr.cpp:412</div></div>
 <div class="ttc" id="aclassThreatContainer_html_a3c471a8d7c30591a3609f98ca645f5d0"><div class="ttname"><a href="../../d7/d65/classThreatContainer.html#a3c471a8d7c30591a3609f98ca645f5d0">ThreatContainer::IsPreferredTarget</a></div><div class="ttdeci">bool IsPreferredTarget(Creature *attacker, Unit *target) const</div><div class="ttdef"><b>Definition</b> ThreatMgr.cpp:457</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
-<div class="ttc" id="aclassUnit_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:665</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l02583">Creature::CanCreatureAttack()</a>, <a class="el" href="../../#l00095">Reference&lt; TO, FROM &gt;::getTarget()</a>, <a class="el" href="../../#l00062">HostileReference::GetThreat()</a>, <a class="el" href="../../#l00457">IsPreferredTarget()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00198">iThreatList</a>, and <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00580">ThreatMgr::getHostileTarget()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00583">ThreatMgr::getHostileTarget()</a>.</p>
 
 </div>
 </div>
@@ -951,7 +956,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00199">iDirty</a>, and <a class="el" href="../../#l00198">iThreatList</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00580">ThreatMgr::getHostileTarget()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00583">ThreatMgr::getHostileTarget()</a>.</p>
 
 </div>
 </div>
@@ -1024,7 +1029,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00188">addReference()</a>, <a class="el" href="../../#l00248">clearReferences()</a>, <a class="el" href="../../#l00167">empty()</a>, <a class="el" href="../../#l00172">getMostHated()</a>, <a class="el" href="../../#l00269">getReferenceByTarget()</a>, <a class="el" href="../../#l00180">GetThreatList()</a>, <a class="el" href="../../#l00183">remove()</a>, <a class="el" href="../../#l00259">ThreatMgr::resetAggro()</a>, <a class="el" href="../../#l00716">ThreatMgr::ResetAllThreat()</a>, <a class="el" href="../../#l00317">SelectNextVictim()</a>, <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>, and <a class="el" href="../../#l00305">update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00188">addReference()</a>, <a class="el" href="../../#l00248">clearReferences()</a>, <a class="el" href="../../#l00167">empty()</a>, <a class="el" href="../../#l00172">getMostHated()</a>, <a class="el" href="../../#l00269">getReferenceByTarget()</a>, <a class="el" href="../../#l00180">GetThreatList()</a>, <a class="el" href="../../#l00183">remove()</a>, <a class="el" href="../../#l00259">ThreatMgr::resetAggro()</a>, <a class="el" href="../../#l00719">ThreatMgr::ResetAllThreat()</a>, <a class="el" href="../../#l00317">SelectNextVictim()</a>, <a class="el" href="../../#l00412">SelectNextVictimTieBreaker()</a>, and <a class="el" href="../../#l00305">update()</a>.</p>
 
 </div>
 </div>
@@ -1038,7 +1043,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d65/classThreatContainer.html">ThreatContainer</a></li>
-    <li class="footer">Generated on Fri Feb 6 2026 06:48:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 7 2026 06:38:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

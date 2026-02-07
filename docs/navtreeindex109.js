@@ -1,5 +1,6 @@
 var NAVTREEINDEX109 =
 {
+"d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba15a3454d09d2be99f0b5eeca08370803":[7,0,0,0,1,2,8,10,15,1],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba306c617622d550b16023e7c75f7c1972":[7,0,0,0,1,2,8,10,15,11],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba30852d2a8f983ec64a50520ca26f5666":[7,0,0,0,1,2,8,10,15,14],
 "d3/dcf/Battleground_8h.html#a21b0cf0e79bdf2c9ffa4991530bc71aba41e011a33c3623e2fe8045f672925879":[7,0,0,0,1,2,8,10,15,7],
@@ -160,17 +161,17 @@ var NAVTREEINDEX109 =
 "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#ad8ed5358985d98734fc2820f78309a94":[6,0,2260,0,3],
 "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#ae8a2cbcffcfbf27d00fcfc6999b74b36":[6,0,2260,0,10],
 "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#afffeda9533746909712f2f4bb8606f1b":[6,0,2260,0,20],
-"d3/dd0/classspell__hun__sniper__training.html":[6,0,3156],
-"d3/dd0/classspell__hun__sniper__training.html#a2be03ae04a562b2c908fcdb0c052ca5f":[6,0,3156,3],
-"d3/dd0/classspell__hun__sniper__training.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04":[6,0,3156,2],
-"d3/dd0/classspell__hun__sniper__training.html#ab467c3b759ac1e276d6a4815d20f5ff0":[6,0,3156,4],
-"d3/dd0/classspell__hun__sniper__training.html#acba5d68c19e68361c088e50f9b831bff":[6,0,3156,0],
-"d3/dd0/classspell__hun__sniper__training.html#af27c6dfccb12f1ba52d170da5d9228f9":[6,0,3156,1],
-"d3/dd0/classspell__mage__ice__barrier.html":[6,0,3438],
-"d3/dd0/classspell__mage__ice__barrier.html#a233ac4020722078d865cf980d7fa76cf":[6,0,3438,2],
-"d3/dd0/classspell__mage__ice__barrier.html#a2f93ff69f30b243fe787d72f78a2d159":[6,0,3438,0],
-"d3/dd0/classspell__mage__ice__barrier.html#a3648ecd94430e21dd014795156c1eb98":[6,0,3438,3],
-"d3/dd0/classspell__mage__ice__barrier.html#af043f7ee0f80baf667e64225effd57d1":[6,0,3438,1],
+"d3/dd0/classspell__hun__sniper__training.html":[6,0,3157],
+"d3/dd0/classspell__hun__sniper__training.html#a2be03ae04a562b2c908fcdb0c052ca5f":[6,0,3157,3],
+"d3/dd0/classspell__hun__sniper__training.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04":[6,0,3157,2],
+"d3/dd0/classspell__hun__sniper__training.html#ab467c3b759ac1e276d6a4815d20f5ff0":[6,0,3157,4],
+"d3/dd0/classspell__hun__sniper__training.html#acba5d68c19e68361c088e50f9b831bff":[6,0,3157,0],
+"d3/dd0/classspell__hun__sniper__training.html#af27c6dfccb12f1ba52d170da5d9228f9":[6,0,3157,1],
+"d3/dd0/classspell__mage__ice__barrier.html":[6,0,3439],
+"d3/dd0/classspell__mage__ice__barrier.html#a233ac4020722078d865cf980d7fa76cf":[6,0,3439,2],
+"d3/dd0/classspell__mage__ice__barrier.html#a2f93ff69f30b243fe787d72f78a2d159":[6,0,3439,0],
+"d3/dd0/classspell__mage__ice__barrier.html#a3648ecd94430e21dd014795156c1eb98":[6,0,3439,3],
+"d3/dd0/classspell__mage__ice__barrier.html#af043f7ee0f80baf667e64225effd57d1":[6,0,3439,1],
 "d3/dd1/DBCEnums_8h.html":[7,0,0,0,1,4,0,2],
 "d3/dd1/DBCEnums_8h.html#a10d235f3fd91ca4d4d9532092ea4cb6b":[7,0,0,0,1,4,0,2,7],
 "d3/dd1/DBCEnums_8h.html#a114472f521098d647eb8db3a6df31204":[7,0,0,0,1,4,0,2,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX109 =
 "d3/dd1/DBCEnums_8h.html#a364650a1412c9ed62462ed0b0574e14aa73d8555b8fe2db7c033389a63b74ca5c":[7,0,0,0,1,4,0,2,25,4],
 "d3/dd1/DBCEnums_8h.html#a364650a1412c9ed62462ed0b0574e14aaa138d025a73b3bb8747273f638bedd76":[7,0,0,0,1,4,0,2,25,0],
 "d3/dd1/DBCEnums_8h.html#a364650a1412c9ed62462ed0b0574e14aacd3f7f47a7b616e831315abc671ed04a":[7,0,0,0,1,4,0,2,25,3],
-"d3/dd1/DBCEnums_8h.html#a364650a1412c9ed62462ed0b0574e14aacf506de0fb5a484f8ec83eafe2fa005a":[7,0,0,0,1,4,0,2,25,6],
-"d3/dd1/DBCEnums_8h.html#a364650a1412c9ed62462ed0b0574e14aaee0512aa7f76b8a52acad31dd0253586":[7,0,0,0,1,4,0,2,25,8]
+"d3/dd1/DBCEnums_8h.html#a364650a1412c9ed62462ed0b0574e14aacf506de0fb5a484f8ec83eafe2fa005a":[7,0,0,0,1,4,0,2,25,6]
 };

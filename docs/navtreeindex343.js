@@ -1,5 +1,10 @@
 var NAVTREEINDEX343 =
 {
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c":[7,0,0,0,1,2,11,0,1,7,2],
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112":[7,0,0,0,1,2,11,0,1,7,16],
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a":[7,0,0,0,1,2,11,0,1,7,26],
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21":[7,0,0,0,1,2,11,0,1,7,6],
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07":[7,0,0,0,1,2,11,0,1,7,21],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b":[7,0,0,0,1,2,11,0,1,7,9],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82":[7,0,0,0,1,2,11,0,1,7,17],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef":[7,0,0,0,1,2,11,0,1,7,22],
@@ -101,12 +106,12 @@ var NAVTREEINDEX343 =
 "de/d09/classspell__apothecary__lingering__fumes.html#aca33d0a7c792a6ac18deaaa945a28a26":[6,0,2611,2],
 "de/d09/classspell__apothecary__lingering__fumes.html#acd21d059ce10a64a3fe648d104d75ec1":[6,0,2611,1],
 "de/d09/classspell__apothecary__lingering__fumes.html#afa662fbe1b777047259ac6212961f7a5":[6,0,2611,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html":[6,0,3448],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[6,0,3448,0],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[6,0,3448,4],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[6,0,3448,2],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[6,0,3448,1],
-"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[6,0,3448,3],
+"de/d09/classspell__mage__polymorph__cast__visual.html":[6,0,3449],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a04ff6beb930b65395ebc3df99bc53dfa":[6,0,3449,0],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a1443d2532a060514e697a8d5e0c21b20":[6,0,3449,4],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a6b03fbcf18612d9bb7361c3e4f022dc0":[6,0,3449,2],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a73eabf1e68c966f31fe8d83c2fd925c1":[6,0,3449,1],
+"de/d09/classspell__mage__polymorph__cast__visual.html#a9df13e3e8895854bc086fbfaccfb1b2c":[6,0,3449,3],
 "de/d09/maraudon_8h.html":[7,0,0,0,1,3,4,3,1],
 "de/d09/maraudon_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,3,1,0],
 "de/d09/maraudon_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,4,3,1,1],
@@ -244,10 +249,5 @@ var NAVTREEINDEX343 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a6b22b4eacf8d466364b0ba11310853f6":[7,0,0,0,1,4,7,67,88],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a6b3a3e387f58682816fb4d729b01e071":[7,0,0,0,1,4,7,67,128],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a6c2687f352c03d9f42f46050bec1a076":[7,0,0,0,1,4,7,67,29],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a701d35067b4990d2285a8f66cf4d3ca7":[7,0,0,0,1,4,7,67,18],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a72945f1ea1662edd3636c0d5d1ffb883":[7,0,0,0,1,4,7,67,158],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a74ececb82f4821c2a1455d1bd6a4d6eb":[7,0,0,0,1,4,7,67,131],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a7543f08d0ece84938be193f8c03add71":[7,0,0,0,1,4,7,67,119],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a75837d1a6e049a4e594a63af601c60ec":[7,0,0,0,1,4,7,67,147],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a76d631379666260c43fac19d206590a6":[7,0,0,0,1,4,7,67,101]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574a701d35067b4990d2285a8f66cf4d3ca7":[7,0,0,0,1,4,7,67,18]
 };

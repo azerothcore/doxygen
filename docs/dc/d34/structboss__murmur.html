@@ -133,8 +133,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1f40ead1b2269b97c69bd4db808d6bae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aab66339a7436c3c483297b25f6859558" id="r_aab66339a7436c3c483297b25f6859558"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d34/structboss__murmur.html#aab66339a7436c3c483297b25f6859558">CastSuppressionOOC</a> ()</td></tr>
 <tr class="separator:aab66339a7436c3c483297b25f6859558"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b89c95747c0a37c0b37527cd360e524" id="r_a6b89c95747c0a37c0b37527cd360e524"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d34/structboss__murmur.html#a6b89c95747c0a37c0b37527cd360e524">CanAIAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *victim) const override</td></tr>
-<tr class="separator:a6b89c95747c0a37c0b37527cd360e524"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa0f549c83a92302ece2323c75dd29acc" id="r_aa0f549c83a92302ece2323c75dd29acc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d34/structboss__murmur.html#aa0f549c83a92302ece2323c75dd29acc">EnterEvadeMode</a> (<a class="el" href="../../d5/d79/classCreatureAI.html#a48b996440be01f98686cd088857a5dbb">EvadeReason</a> why) override</td></tr>
 <tr class="separator:aa0f549c83a92302ece2323c75dd29acc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ade07217a85655a513d7a472d24589691" id="r_ade07217a85655a513d7a472d24589691"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">ShouldCastResonance</a> ()</td></tr>
@@ -404,6 +402,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a47314b7b16464a57a8bfa010900ec032 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3bf60ae9d2c16f842e97cba569d8ec01 inherit pub_methods_classUnitAI" id="r_a3bf60ae9d2c16f842e97cba569d8ec01"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a3bf60ae9d2c16f842e97cba569d8ec01">~UnitAI</a> ()</td></tr>
 <tr class="separator:a3bf60ae9d2c16f842e97cba569d8ec01 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a2ee2c8c34726e0dd7d2e7a25047690 inherit pub_methods_classUnitAI" id="r_a5a2ee2c8c34726e0dd7d2e7a25047690"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">CanAIAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *) const</td></tr>
+<tr class="separator:a5a2ee2c8c34726e0dd7d2e7a25047690 inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa88ecdf57b44fb013c3fed4ff59aec0d inherit pub_methods_classUnitAI" id="r_aa88ecdf57b44fb013c3fed4ff59aec0d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#aa88ecdf57b44fb013c3fed4ff59aec0d">InitializeAI</a> ()</td></tr>
 <tr class="separator:aa88ecdf57b44fb013c3fed4ff59aec0d inherit pub_methods_classUnitAI"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a165d336cb3423f9665ed612d2dec76ed inherit pub_methods_classUnitAI" id="r_a165d336cb3423f9665ed612d2dec76ed"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a> (<a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)</td></tr>
@@ -640,40 +640,6 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a6b89c95747c0a37c0b37527cd360e524" name="a6b89c95747c0a37c0b37527cd360e524"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b89c95747c0a37c0b37527cd360e524">&#9670;&#160;</a></span>CanAIAttack()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool boss_murmur::CanAIAttack </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>victim</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a5a2ee2c8c34726e0dd7d2e7a25047690">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(victim);</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
-<div class="ttc" id="aclassUnit_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:665</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, and <a class="el" href="../../#l00281">ScriptedAI::me</a>.</p>
-
-</div>
-</div>
 <a id="aab66339a7436c3c483297b25f6859558" name="aab66339a7436c3c483297b25f6859558"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aab66339a7436c3c483297b25f6859558">&#9670;&#160;</a></span>CastSuppressionOOC()</h2>
 
@@ -744,12 +710,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#afe5dd68e11d20028510eca29d4184778">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   94</span>    {</div>
-<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#aab795d716613d46818c7d65d9f49b1d4">GetThreatList</a>().empty())</div>
-<div class="line"><span class="lineno">   96</span>        {</div>
-<div class="line"><span class="lineno">   97</span>            <a class="code hl_function" href="../../d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5">BossAI::EnterEvadeMode</a>(why);</div>
-<div class="line"><span class="lineno">   98</span>        }</div>
-<div class="line"><span class="lineno">   99</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
+<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#aab795d716613d46818c7d65d9f49b1d4">GetThreatList</a>().empty())</div>
+<div class="line"><span class="lineno">   91</span>        {</div>
+<div class="line"><span class="lineno">   92</span>            <a class="code hl_function" href="../../d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5">BossAI::EnterEvadeMode</a>(why);</div>
+<div class="line"><span class="lineno">   93</span>        }</div>
+<div class="line"><span class="lineno">   94</span>    }</div>
 <div class="ttc" id="aclassBossAI_html_adf2e07878232fcb60ace6a79438c63f5"><div class="ttname"><a href="../../d3/d24/classBossAI.html#adf2e07878232fcb60ace6a79438c63f5">BossAI::EnterEvadeMode</a></div><div class="ttdeci">void EnterEvadeMode(EvadeReason why=EVADE_REASON_OTHER) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:521</div></div>
 <div class="ttc" id="aclassThreatMgr_html_aab795d716613d46818c7d65d9f49b1d4"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#aab795d716613d46818c7d65d9f49b1d4">ThreatMgr::GetThreatList</a></div><div class="ttdeci">ThreatContainer::StorageType const &amp; GetThreatList() const</div><div class="ttdef"><b>Definition</b> ThreatMgr.h:277</div></div>
 <div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:943</div></div>
@@ -785,72 +751,72 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  129</span>    {</div>
-<div class="line"><span class="lineno">  130</span>        <span class="comment">// Boss engages mobs during roleplay, this checks prevents it from setting the zone in combat before players engage it.</span></div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">if</span> (who-&gt;IsPlayer() || who-&gt;IsPet() || who-&gt;IsGuardian())</div>
+<div class="fragment"><div class="line"><span class="lineno">  124</span>    {</div>
+<div class="line"><span class="lineno">  125</span>        <span class="comment">// Boss engages mobs during roleplay, this checks prevents it from setting the zone in combat before players engage it.</span></div>
+<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">if</span> (who-&gt;IsPlayer() || who-&gt;IsPet() || who-&gt;IsGuardian())</div>
+<div class="line"><span class="lineno">  127</span>        {</div>
+<div class="line"><span class="lineno">  128</span>            <a class="code hl_function" href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">_JustEngagedWith</a>();</div>
+<div class="line"><span class="lineno">  129</span>        }</div>
+<div class="line"><span class="lineno">  130</span> </div>
+<div class="line"><span class="lineno">  131</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(28s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
 <div class="line"><span class="lineno">  132</span>        {</div>
-<div class="line"><span class="lineno">  133</span>            <a class="code hl_function" href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">_JustEngagedWith</a>();</div>
-<div class="line"><span class="lineno">  134</span>        }</div>
+<div class="line"><span class="lineno">  133</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe">EMOTE_SONIC_BOOM</a>);</div>
+<div class="line"><span class="lineno">  134</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca82771212970a07f40b56679233b0c79c">SPELL_SONIC_BOOM_CAST</a>);</div>
 <div class="line"><span class="lineno">  135</span> </div>
-<div class="line"><span class="lineno">  136</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(28s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  137</span>        {</div>
-<div class="line"><span class="lineno">  138</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe">EMOTE_SONIC_BOOM</a>);</div>
-<div class="line"><span class="lineno">  139</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca82771212970a07f40b56679233b0c79c">SPELL_SONIC_BOOM_CAST</a>);</div>
+<div class="line"><span class="lineno">  136</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1500ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a>)</div>
+<div class="line"><span class="lineno">  137</span>            {</div>
+<div class="line"><span class="lineno">  138</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca833809774c6c2b2bbf127ad46293df2e">SPELL_SONIC_BOOM_EFFECT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  139</span>            });</div>
 <div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(1500ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a>)</div>
-<div class="line"><span class="lineno">  142</span>            {</div>
-<div class="line"><span class="lineno">  143</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca833809774c6c2b2bbf127ad46293df2e">SPELL_SONIC_BOOM_EFFECT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  144</span>            });</div>
-<div class="line"><span class="lineno">  145</span> </div>
-<div class="line"><span class="lineno">  146</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(34s, 40s);</div>
-<div class="line"><span class="lineno">  147</span>        }).Schedule(14600ms, 25500ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  148</span>        {</div>
-<div class="line"><span class="lineno">  149</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca050f6345b07f3ae0e044b08c9fd84f03">SPELL_MURMURS_TOUCH</a>);</div>
-<div class="line"><span class="lineno">  150</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(14600ms, 25500ms);</div>
-<div class="line"><span class="lineno">  151</span>        }).Schedule(15s, 30s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  152</span>        {</div>
-<div class="line"><span class="lineno">  153</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca3917f87779ff3a60876e0373a10855d5">SPELL_MAGNETIC_PULL</a>, 0, 80.0f) == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
-<div class="line"><span class="lineno">  154</span>            {</div>
-<div class="line"><span class="lineno">  155</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 30s);</div>
-<div class="line"><span class="lineno">  156</span>            }</div>
-<div class="line"><span class="lineno">  157</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  158</span>            {</div>
-<div class="line"><span class="lineno">  159</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(500ms);</div>
-<div class="line"><span class="lineno">  160</span>            }</div>
-<div class="line"><span class="lineno">  161</span>        }).Schedule(3s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">ShouldCastResonance</a>())</div>
-<div class="line"><span class="lineno">  164</span>            {</div>
-<div class="line"><span class="lineno">  165</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a34a5818482e3b5c4dd804c559badc988">IsGroupScheduled</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0">GROUP_RESONANCE</a>))</div>
-<div class="line"><span class="lineno">  166</span>                {</div>
-<div class="line"><span class="lineno">  167</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, 5s, <a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0">GROUP_RESONANCE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  168</span>                    {</div>
-<div class="line"><span class="lineno">  169</span>                        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">ShouldCastResonance</a>())</div>
-<div class="line"><span class="lineno">  170</span>                        {</div>
-<div class="line"><span class="lineno">  171</span>                            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d4f2fa2643db3050fbc5b0bb6833af9">SPELL_RESONANCE</a>);</div>
-<div class="line"><span class="lineno">  172</span>                            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(6s, 18s);</div>
-<div class="line"><span class="lineno">  173</span>                        }</div>
-<div class="line"><span class="lineno">  174</span>                    });</div>
-<div class="line"><span class="lineno">  175</span>                }</div>
-<div class="line"><span class="lineno">  176</span>            }</div>
-<div class="line"><span class="lineno">  177</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
-<div class="line"><span class="lineno">  178</span>        });</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">IsHeroic</a>())</div>
-<div class="line"><span class="lineno">  181</span>        {</div>
-<div class="line"><span class="lineno">  182</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  183</span>            {</div>
-<div class="line"><span class="lineno">  184</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5259acaa2031bd24c2137864dd770d76">SPELL_THUNDERING_STORM</a>);</div>
-<div class="line"><span class="lineno">  185</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(6050ms, 10s);</div>
-<div class="line"><span class="lineno">  186</span>            }).Schedule(3650ms, 9150ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  187</span>            {</div>
-<div class="line"><span class="lineno">  188</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298cab26e2aa5319cc3772bf33f1e0df9cdc2">SPELL_SONIC_SHOCK</a>);</div>
-<div class="line"><span class="lineno">  189</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(3650ms, 9150ms);</div>
-<div class="line"><span class="lineno">  190</span>            });</div>
-<div class="line"><span class="lineno">  191</span>        }</div>
-<div class="line"><span class="lineno">  192</span> </div>
-<div class="line"><span class="lineno">  193</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#a29651ba6704e7908820af60ec37a2478">CancelEventGroup</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a335d606fe2b988eedc4359047f7aaa27">GROUP_OOC_CAST</a>);</div>
-<div class="line"><span class="lineno">  194</span>    }</div>
+<div class="line"><span class="lineno">  141</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(34s, 40s);</div>
+<div class="line"><span class="lineno">  142</span>        }).Schedule(14600ms, 25500ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  143</span>        {</div>
+<div class="line"><span class="lineno">  144</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca050f6345b07f3ae0e044b08c9fd84f03">SPELL_MURMURS_TOUCH</a>);</div>
+<div class="line"><span class="lineno">  145</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(14600ms, 25500ms);</div>
+<div class="line"><span class="lineno">  146</span>        }).Schedule(15s, 30s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  147</span>        {</div>
+<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca3917f87779ff3a60876e0373a10855d5">SPELL_MAGNETIC_PULL</a>, 0, 80.0f) == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
+<div class="line"><span class="lineno">  149</span>            {</div>
+<div class="line"><span class="lineno">  150</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 30s);</div>
+<div class="line"><span class="lineno">  151</span>            }</div>
+<div class="line"><span class="lineno">  152</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  153</span>            {</div>
+<div class="line"><span class="lineno">  154</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(500ms);</div>
+<div class="line"><span class="lineno">  155</span>            }</div>
+<div class="line"><span class="lineno">  156</span>        }).Schedule(3s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  157</span>        {</div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">ShouldCastResonance</a>())</div>
+<div class="line"><span class="lineno">  159</span>            {</div>
+<div class="line"><span class="lineno">  160</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a34a5818482e3b5c4dd804c559badc988">IsGroupScheduled</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0">GROUP_RESONANCE</a>))</div>
+<div class="line"><span class="lineno">  161</span>                {</div>
+<div class="line"><span class="lineno">  162</span>                    <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, 5s, <a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0">GROUP_RESONANCE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  163</span>                    {</div>
+<div class="line"><span class="lineno">  164</span>                        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">ShouldCastResonance</a>())</div>
+<div class="line"><span class="lineno">  165</span>                        {</div>
+<div class="line"><span class="lineno">  166</span>                            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d4f2fa2643db3050fbc5b0bb6833af9">SPELL_RESONANCE</a>);</div>
+<div class="line"><span class="lineno">  167</span>                            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(6s, 18s);</div>
+<div class="line"><span class="lineno">  168</span>                        }</div>
+<div class="line"><span class="lineno">  169</span>                    });</div>
+<div class="line"><span class="lineno">  170</span>                }</div>
+<div class="line"><span class="lineno">  171</span>            }</div>
+<div class="line"><span class="lineno">  172</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>();</div>
+<div class="line"><span class="lineno">  173</span>        });</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">IsHeroic</a>())</div>
+<div class="line"><span class="lineno">  176</span>        {</div>
+<div class="line"><span class="lineno">  177</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  178</span>            {</div>
+<div class="line"><span class="lineno">  179</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5259acaa2031bd24c2137864dd770d76">SPELL_THUNDERING_STORM</a>);</div>
+<div class="line"><span class="lineno">  180</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(6050ms, 10s);</div>
+<div class="line"><span class="lineno">  181</span>            }).Schedule(3650ms, 9150ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  182</span>            {</div>
+<div class="line"><span class="lineno">  183</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298cab26e2aa5319cc3772bf33f1e0df9cdc2">SPELL_SONIC_SHOCK</a>);</div>
+<div class="line"><span class="lineno">  184</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(3650ms, 9150ms);</div>
+<div class="line"><span class="lineno">  185</span>            });</div>
+<div class="line"><span class="lineno">  186</span>        }</div>
+<div class="line"><span class="lineno">  187</span> </div>
+<div class="line"><span class="lineno">  188</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_variable" href="../../d4/dd0/classWorldObject.html#ab963446488123d34f39a32587d9720a6">m_Events</a>.<a class="code hl_function" href="../../d2/d58/classEventProcessor.html#a29651ba6704e7908820af60ec37a2478">CancelEventGroup</a>(<a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a335d606fe2b988eedc4359047f7aaa27">GROUP_OOC_CAST</a>);</div>
+<div class="line"><span class="lineno">  189</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1149</div></div>
 <div class="ttc" id="aboss__murmur_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0"><div class="ttname"><a href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0">GROUP_RESONANCE</a></div><div class="ttdeci">@ GROUP_RESONANCE</div><div class="ttdef"><b>Definition</b> boss_murmur.cpp:46</div></div>
 <div class="ttc" id="aboss__murmur_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe"><div class="ttname"><a href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe">EMOTE_SONIC_BOOM</a></div><div class="ttdeci">@ EMOTE_SONIC_BOOM</div><div class="ttdef"><b>Definition</b> boss_murmur.cpp:44</div></div>
@@ -871,9 +837,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnitAI_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:276</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
 <div class="ttc" id="astructScriptedAI_html_a14abf83c60abf99df6186e0247ce20bd"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a14abf83c60abf99df6186e0247ce20bd">ScriptedAI::IsHeroic</a></div><div class="ttdeci">bool IsHeroic() const</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:380</div></div>
-<div class="ttc" id="astructboss__murmur_html_ade07217a85655a513d7a472d24589691"><div class="ttname"><a href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">boss_murmur::ShouldCastResonance</a></div><div class="ttdeci">bool ShouldCastResonance()</div><div class="ttdef"><b>Definition</b> boss_murmur.cpp:101</div></div>
+<div class="ttc" id="astructboss__murmur_html_ade07217a85655a513d7a472d24589691"><div class="ttname"><a href="../../dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691">boss_murmur::ShouldCastResonance</a></div><div class="ttdeci">bool ShouldCastResonance()</div><div class="ttdef"><b>Definition</b> boss_murmur.cpp:96</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00667">BossAI::_JustEngagedWith()</a>, <a class="el" href="../../#l00114">EventProcessor::CancelEventGroup()</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00295">UnitAI::DoCastRandomTarget()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00044">EMOTE_SONIC_BOOM</a>, <a class="el" href="../../#l00047">GROUP_OOC_CAST</a>, <a class="el" href="../../#l00046">GROUP_RESONANCE</a>, <a class="el" href="../../#l00122">TaskScheduler::IsGroupScheduled()</a>, <a class="el" href="../../#l00785">Unit::IsGuardian()</a>, <a class="el" href="../../#l00380">ScriptedAI::IsHeroic()</a>, <a class="el" href="../../#l00787">Unit::IsPet()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00730">WorldObject::m_Events</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l00101">ShouldCastResonance()</a>, <a class="el" href="../../#l01149">SPELL_CAST_OK</a>, <a class="el" href="../../#l00031">SPELL_MAGNETIC_PULL</a>, <a class="el" href="../../#l00039">SPELL_MURMURS_TOUCH</a>, <a class="el" href="../../#l00030">SPELL_RESONANCE</a>, <a class="el" href="../../#l00037">SPELL_SONIC_BOOM_CAST</a>, <a class="el" href="../../#l00038">SPELL_SONIC_BOOM_EFFECT</a>, <a class="el" href="../../#l00032">SPELL_SONIC_SHOCK</a>, and <a class="el" href="../../#l00033">SPELL_THUNDERING_STORM</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00667">BossAI::_JustEngagedWith()</a>, <a class="el" href="../../#l00114">EventProcessor::CancelEventGroup()</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00295">UnitAI::DoCastRandomTarget()</a>, <a class="el" href="../../#l00276">UnitAI::DoCastVictim()</a>, <a class="el" href="../../#l00044">EMOTE_SONIC_BOOM</a>, <a class="el" href="../../#l00047">GROUP_OOC_CAST</a>, <a class="el" href="../../#l00046">GROUP_RESONANCE</a>, <a class="el" href="../../#l00122">TaskScheduler::IsGroupScheduled()</a>, <a class="el" href="../../#l00785">Unit::IsGuardian()</a>, <a class="el" href="../../#l00380">ScriptedAI::IsHeroic()</a>, <a class="el" href="../../#l00787">Unit::IsPet()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00730">WorldObject::m_Events</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l00096">ShouldCastResonance()</a>, <a class="el" href="../../#l01149">SPELL_CAST_OK</a>, <a class="el" href="../../#l00031">SPELL_MAGNETIC_PULL</a>, <a class="el" href="../../#l00039">SPELL_MURMURS_TOUCH</a>, <a class="el" href="../../#l00030">SPELL_RESONANCE</a>, <a class="el" href="../../#l00037">SPELL_SONIC_BOOM_CAST</a>, <a class="el" href="../../#l00038">SPELL_SONIC_BOOM_EFFECT</a>, <a class="el" href="../../#l00032">SPELL_SONIC_SHOCK</a>, and <a class="el" href="../../#l00033">SPELL_THUNDERING_STORM</a>.</p>
 
 </div>
 </div>
@@ -952,15 +918,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#adc7dfa9aae02724d3a46efa8cd1c57ec">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  118</span>    {</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">if</span> (index == <a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11612b894503fbbcf49727fb87c6eac1">GUID_MURMUR_NPCS</a>)</div>
-<div class="line"><span class="lineno">  120</span>        {</div>
-<div class="line"><span class="lineno">  121</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guid))</div>
-<div class="line"><span class="lineno">  122</span>            {</div>
-<div class="line"><span class="lineno">  123</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(creature, <a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5163ffc8d1207088c0a8a47bcc7c707f">SPELL_MURMUR_WRATH</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  124</span>            }</div>
-<div class="line"><span class="lineno">  125</span>        }</div>
-<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  113</span>    {</div>
+<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">if</span> (index == <a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11612b894503fbbcf49727fb87c6eac1">GUID_MURMUR_NPCS</a>)</div>
+<div class="line"><span class="lineno">  115</span>        {</div>
+<div class="line"><span class="lineno">  116</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guid))</div>
+<div class="line"><span class="lineno">  117</span>            {</div>
+<div class="line"><span class="lineno">  118</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(creature, <a class="code hl_enumvalue" href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5163ffc8d1207088c0a8a47bcc7c707f">SPELL_MURMUR_WRATH</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  119</span>            }</div>
+<div class="line"><span class="lineno">  120</span>        }</div>
+<div class="line"><span class="lineno">  121</span>    }</div>
 <div class="ttc" id="aboss__murmur_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a11612b894503fbbcf49727fb87c6eac1"><div class="ttname"><a href="../../db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11612b894503fbbcf49727fb87c6eac1">GUID_MURMUR_NPCS</a></div><div class="ttdeci">@ GUID_MURMUR_NPCS</div><div class="ttdef"><b>Definition</b> boss_murmur.cpp:49</div></div>
 <div class="ttc" id="aboss__murmur_8cpp_html_a5bd342133be8c2137b831460acc9298ca5163ffc8d1207088c0a8a47bcc7c707f"><div class="ttname"><a href="../../db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298ca5163ffc8d1207088c0a8a47bcc7c707f">SPELL_MURMUR_WRATH</a></div><div class="ttdeci">@ SPELL_MURMUR_WRATH</div><div class="ttdef"><b>Definition</b> boss_murmur.cpp:35</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
@@ -993,26 +959,27 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  104</span>        {</div>
-<div class="line"><span class="lineno">  105</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(victim))</div>
-<div class="line"><span class="lineno">  106</span>            {</div>
-<div class="line"><span class="lineno">  107</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  108</span>            }</div>
-<div class="line"><span class="lineno">  109</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victimTarget = victim-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
-<div class="line"><span class="lineno">  110</span>            {</div>
-<div class="line"><span class="lineno">  111</span>                <span class="keywordflow">return</span> victimTarget != <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>;</div>
-<div class="line"><span class="lineno">  112</span>            }</div>
-<div class="line"><span class="lineno">  113</span>        }</div>
-<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  115</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>    {</div>
+<div class="line"><span class="lineno">   98</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victim = <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">   99</span>        {</div>
+<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(victim))</div>
+<div class="line"><span class="lineno">  101</span>            {</div>
+<div class="line"><span class="lineno">  102</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  103</span>            }</div>
+<div class="line"><span class="lineno">  104</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* victimTarget = victim-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  105</span>            {</div>
+<div class="line"><span class="lineno">  106</span>                <span class="keywordflow">return</span> victimTarget != <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>;</div>
+<div class="line"><span class="lineno">  107</span>            }</div>
+<div class="line"><span class="lineno">  108</span>        }</div>
+<div class="line"><span class="lineno">  109</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  110</span>    }</div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
+<div class="ttc" id="aclassUnit_html_a748fa068a1b1b9850141f91ff17fc65d"><div class="ttname"><a href="../../df/dd9/classUnit.html#a748fa068a1b1b9850141f91ff17fc65d">Unit::IsWithinMeleeRange</a></div><div class="ttdeci">bool IsWithinMeleeRange(Unit const *obj, float dist=0.f) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:665</div></div>
 <div class="ttc" id="aclassUnit_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../df/dd9/classUnit.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition</b> Unit.h:893</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00893">Unit::GetVictim()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, and <a class="el" href="../../#l00281">ScriptedAI::me</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00128">JustEngagedWith()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00123">JustEngagedWith()</a>.</p>
 
 </div>
 </div>
@@ -1025,7 +992,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d34/structboss__murmur.html">boss_murmur</a></li>
-    <li class="footer">Generated on Fri Feb 6 2026 06:47:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 7 2026 06:37:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -2,6 +2,7 @@ var classgo__commandscript =
 [
     [ "go_commandscript", "d4/d4d/classgo__commandscript.html#a03cfe4efbd8ed05680308c08b40c8f1b", null ],
     [ "DoTeleport", "d4/d4d/classgo__commandscript.html#a7c89031f2df751d1699627c901abd80a", null ],
+    [ "DoTeleportToTransport", "d4/d4d/classgo__commandscript.html#ae4b8e2e948f1b55c481869fb112eb199", null ],
     [ "GetCommands", "d4/d4d/classgo__commandscript.html#a672e84a91c30f7378adce918608a6a94", null ],
     [ "GetCreatureData", "d4/d4d/classgo__commandscript.html#a4ddbfdfa0f8bc74b956dd881c55065c0", null ],
     [ "GetCreatureDataList", "d4/d4d/classgo__commandscript.html#adbcec5db26748dbb65d0c84d08f2a9b8", null ],

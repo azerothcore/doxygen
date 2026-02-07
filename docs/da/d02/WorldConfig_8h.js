@@ -451,6 +451,8 @@ var WorldConfig_8h =
       [ "RATE_AUCTION_CUT", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a834213a7b762db737b7f0ba8fcda3f24", null ],
       [ "RATE_HONOR", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acb74542a711233b8c0ac367b74b306f6", null ],
       [ "RATE_ARENA_POINTS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a2cfd22081757c2c36a3f4d5cfbab4809", null ],
+      [ "RATE_ARENA_POINTS_2V2", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab1df85ff47ddb2d101906ef7744629c8", null ],
+      [ "RATE_ARENA_POINTS_3V3", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a99197db422e3cc1be6aa510a4f16cca4", null ],
       [ "RATE_TALENT", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a53eacef205b81ea8a0727fd228897d12", null ],
       [ "RATE_TALENT_PET", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ae7370ac3d73883d0effbc3ff62c4c7d7", null ],
       [ "RATE_CORPSE_DECAY_LOOTED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad924c86659fa7e252d7fe13edc385a00", null ],

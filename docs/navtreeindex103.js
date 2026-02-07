@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,8,10],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca0c1ed6b15114c8f2195fafc3a3d5d670":[7,0,0,0,1,3,7,1,8,10,1],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e264b46a6f4722747ec94059d598aef":[7,0,0,0,1,3,7,1,8,10,15],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eb4a96d4f52e2d408cc66c43175dd4e":[7,0,0,0,1,3,7,1,8,10,7],
@@ -18,14 +19,14 @@ var NAVTREEINDEX103 =
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298caea3ed8b979b3a59b5f1cfa805e42a176":[7,0,0,0,1,3,7,1,8,10,8],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#a5bd342133be8c2137b831460acc9298cafe4e4e1fb7bb1e9df3e6c6b5fd0b1606":[7,0,0,0,1,3,7,1,8,10,0],
 "d3/d8d/boss__teron__gorefiend_8cpp.html#ace349dae908acf1fb6fbb0b00c2fd938":[7,0,0,0,1,3,7,1,8,11],
-"d3/d8d/classspell__mage__master__of__elements.html":[6,0,3444],
-"d3/d8d/classspell__mage__master__of__elements.html#a3d2d6f1a00825ac66f507a790f468198":[6,0,3444,4],
-"d3/d8d/classspell__mage__master__of__elements.html#a4f614fe81d829d8a1ceb7500f9557948":[6,0,3444,2],
-"d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6":[6,0,3444,1],
-"d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994":[6,0,3444,5],
-"d3/d8d/classspell__mage__master__of__elements.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb":[6,0,3444,0],
-"d3/d8d/classspell__mage__master__of__elements.html#acd807de02a83a97a78572d672fb16027":[6,0,3444,3],
-"d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0":[6,0,3444,6],
+"d3/d8d/classspell__mage__master__of__elements.html":[6,0,3445],
+"d3/d8d/classspell__mage__master__of__elements.html#a3d2d6f1a00825ac66f507a790f468198":[6,0,3445,4],
+"d3/d8d/classspell__mage__master__of__elements.html#a4f614fe81d829d8a1ceb7500f9557948":[6,0,3445,2],
+"d3/d8d/classspell__mage__master__of__elements.html#a613182c741769d0983206bdfa89242f6":[6,0,3445,1],
+"d3/d8d/classspell__mage__master__of__elements.html#a66a5eb4caa7b43c34b2830d9a3d2f994":[6,0,3445,5],
+"d3/d8d/classspell__mage__master__of__elements.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb":[6,0,3445,0],
+"d3/d8d/classspell__mage__master__of__elements.html#acd807de02a83a97a78572d672fb16027":[6,0,3445,3],
+"d3/d8d/classspell__mage__master__of__elements.html#ae23b54499fff879a096bd459e264c4f0":[6,0,3445,6],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html":[6,0,1772,0],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a079be6dd45e96184d66e95f031dc9c5f":[6,0,1772,0,3],
 "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html#a15afc8dd6d6e15fcd1a632728ad8d16e":[6,0,1772,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d93/classPathGenerator.html#abdc462b7c82b4c790ae6899a7bd7ed4e":[6,0,2382,28],
 "d3/d93/classPathGenerator.html#abf0b9ed7ad2de3bdcdb31e8e6316ca94":[6,0,2382,50],
 "d3/d93/classPathGenerator.html#ac6ab1bd6b58d6672bcb2693379fb37f3":[6,0,2382,25],
-"d3/d93/classPathGenerator.html#acb82526eba306633683bcced07258c2a":[6,0,2382,3],
-"d3/d93/classPathGenerator.html#acdf006feac507461208204f99f08edd3":[6,0,2382,48]
+"d3/d93/classPathGenerator.html#acb82526eba306633683bcced07258c2a":[6,0,2382,3]
 };

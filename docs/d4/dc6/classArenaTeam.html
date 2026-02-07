@@ -1590,9 +1590,9 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  671</span> </div>
 <div class="line"><span class="lineno">  672</span>    <span class="comment">// Type penalties for teams &lt; 5v5</span></div>
 <div class="line"><span class="lineno">  673</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/dc6/classArenaTeam.html#a4cbab2a1e8698065a9e827a433203054">Type</a> == <a class="code hl_enumvalue" href="../../d5/dba/ArenaTeam_8h.html#a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614">ARENA_TEAM_2v2</a>)</div>
-<div class="line"><span class="lineno">  674</span>        points *= 0.76f;</div>
+<div class="line"><span class="lineno">  674</span>        points *= <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getRate(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab1df85ff47ddb2d101906ef7744629c8">RATE_ARENA_POINTS_2V2</a>);</div>
 <div class="line"><span class="lineno">  675</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/dc6/classArenaTeam.html#a4cbab2a1e8698065a9e827a433203054">Type</a> == <a class="code hl_enumvalue" href="../../d5/dba/ArenaTeam_8h.html#a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd">ARENA_TEAM_3v3</a>)</div>
-<div class="line"><span class="lineno">  676</span>        points *= 0.88f;</div>
+<div class="line"><span class="lineno">  676</span>        points *= <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getRate(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a99197db422e3cc1be6aa510a4f16cca4">RATE_ARENA_POINTS_3V3</a>);</div>
 <div class="line"><span class="lineno">  677</span> </div>
 <div class="line"><span class="lineno">  678</span>    <a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnGetArenaPoints(<span class="keyword">this</span>, points);</div>
 <div class="line"><span class="lineno">  679</span> </div>
@@ -1603,9 +1603,11 @@ Protected Attributes</h2></td></tr>
 <div class="ttc" id="aArenaTeam_8h_html_a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614"><div class="ttname"><a href="../../d5/dba/ArenaTeam_8h.html#a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614">ARENA_TEAM_2v2</a></div><div class="ttdeci">@ ARENA_TEAM_2v2</div><div class="ttdef"><b>Definition</b> ArenaTeam.h:95</div></div>
 <div class="ttc" id="aArenaTeam_8h_html_a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd"><div class="ttname"><a href="../../d5/dba/ArenaTeam_8h.html#a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd">ARENA_TEAM_3v3</a></div><div class="ttdeci">@ ARENA_TEAM_3v3</div><div class="ttdef"><b>Definition</b> ArenaTeam.h:96</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a2cfd22081757c2c36a3f4d5cfbab4809"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a2cfd22081757c2c36a3f4d5cfbab4809">RATE_ARENA_POINTS</a></div><div class="ttdeci">@ RATE_ARENA_POINTS</div><div class="ttdef"><b>Definition</b> WorldConfig.h:473</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a99197db422e3cc1be6aa510a4f16cca4"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a99197db422e3cc1be6aa510a4f16cca4">RATE_ARENA_POINTS_3V3</a></div><div class="ttdeci">@ RATE_ARENA_POINTS_3V3</div><div class="ttdef"><b>Definition</b> WorldConfig.h:475</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0ab1df85ff47ddb2d101906ef7744629c8"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab1df85ff47ddb2d101906ef7744629c8">RATE_ARENA_POINTS_2V2</a></div><div class="ttdeci">@ RATE_ARENA_POINTS_2V2</div><div class="ttdef"><b>Definition</b> WorldConfig.h:474</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0ab21e88d6a1bd6bcfd1b0f75f14ddb2b0"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab21e88d6a1bd6bcfd1b0f75f14ddb2b0">CONFIG_LEGACY_ARENA_POINTS_CALC</a></div><div class="ttdeci">@ CONFIG_LEGACY_ARENA_POINTS_CALC</div><div class="ttdef"><b>Definition</b> WorldConfig.h:290</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00095">ARENA_TEAM_2v2</a>, <a class="el" href="../../#l00096">ARENA_TEAM_3v3</a>, <a class="el" href="../../#l00290">CONFIG_LEGACY_ARENA_POINTS_CALC</a>, <a class="el" href="../../#l00473">RATE_ARENA_POINTS</a>, <a class="el" href="../../#l00124">sArenaSeasonMgr</a>, <a class="el" href="../../#l00719">sScriptMgr</a>, <a class="el" href="../../#l00316">sWorld</a>, and <a class="el" href="../../#l00222">Type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00095">ARENA_TEAM_2v2</a>, <a class="el" href="../../#l00096">ARENA_TEAM_3v3</a>, <a class="el" href="../../#l00290">CONFIG_LEGACY_ARENA_POINTS_CALC</a>, <a class="el" href="../../#l00473">RATE_ARENA_POINTS</a>, <a class="el" href="../../#l00474">RATE_ARENA_POINTS_2V2</a>, <a class="el" href="../../#l00475">RATE_ARENA_POINTS_3V3</a>, <a class="el" href="../../#l00124">sArenaSeasonMgr</a>, <a class="el" href="../../#l00719">sScriptMgr</a>, <a class="el" href="../../#l00316">sWorld</a>, and <a class="el" href="../../#l00222">Type</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00903">UpdateArenaPointsHelper()</a>.</p>
 
@@ -3805,7 +3807,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/dc6/classArenaTeam.html">ArenaTeam</a></li>
-    <li class="footer">Generated on Fri Feb 6 2026 06:47:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 7 2026 06:37:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

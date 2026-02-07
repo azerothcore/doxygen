@@ -3491,6 +3491,7 @@ var annotated_dup =
     [ "spell_gen_feign_death_all_flags", "d6/d38/classspell__gen__feign__death__all__flags.html", "d6/d38/classspell__gen__feign__death__all__flags" ],
     [ "spell_gen_feign_death_no_dyn_flag", "da/d51/classspell__gen__feign__death__no__dyn__flag.html", "da/d51/classspell__gen__feign__death__no__dyn__flag" ],
     [ "spell_gen_feign_death_no_prevent_emotes", "df/d75/classspell__gen__feign__death__no__prevent__emotes.html", "df/d75/classspell__gen__feign__death__no__prevent__emotes" ],
+    [ "spell_gen_filter_party_level_80", "d0/df8/classspell__gen__filter__party__level__80.html", "d0/df8/classspell__gen__filter__party__level__80" ],
     [ "spell_gen_fixate", "dd/d8a/classspell__gen__fixate.html", "dd/d8a/classspell__gen__fixate" ],
     [ "spell_gen_fixate_aura", "db/d18/classspell__gen__fixate__aura.html", "db/d18/classspell__gen__fixate__aura" ],
     [ "spell_gen_flurry_of_claws", "d7/dfb/classspell__gen__flurry__of__claws.html", "d7/dfb/classspell__gen__flurry__of__claws" ],

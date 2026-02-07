@@ -1,5 +1,10 @@
 var NAVTREEINDEX356 =
 {
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a07de0958bcb7fca9a3ed75f7ad1789bc":[7,0,0,0,1,4,7,107,146],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09d276f77cbf282560fcbc570c334ca8":[7,0,0,0,1,4,7,107,59],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a09ffe4e99e7854f73a28ed106ebb90e2":[7,0,0,0,1,4,7,107,137],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b7fa0c2fd1c5c2d41d88fb4d0e03fde":[7,0,0,0,1,4,7,107,23],
+"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0b9c0aef226b96385215268516b77211":[7,0,0,0,1,4,7,107,143],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0c531f48ca1947cfbe8af1377a01e148":[7,0,0,0,1,4,7,107,17],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a0edd3cdf99e0ce3885ffafd99355736d":[7,0,0,0,1,4,7,107,106],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a104647771f49f0d4d099499daf3e0f52":[7,0,0,0,1,4,7,107,38],
@@ -231,12 +236,12 @@ var NAVTREEINDEX356 =
 "de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319":[6,0,1403,0],
 "de/d0a/unionkeyData.html#a8484412ccb13cf396a4dc28b86f65b4e":[6,0,1403,1],
 "de/d0a/unionkeyData.html#a927a030bcf29b8a7fcc6d65f5fd81124":[6,0,1403,5],
-"de/d0c/classspell__mage__fire__frost__ward.html":[6,0,3435],
-"de/d0c/classspell__mage__fire__frost__ward.html#a20d5b4776ebeb859b0641af640e41d80":[6,0,3435,1],
-"de/d0c/classspell__mage__fire__frost__ward.html#a8c5399ba68554f4c2e842c5492ad715c":[6,0,3435,3],
-"de/d0c/classspell__mage__fire__frost__ward.html#a9378cde1cc6daab0dc111b94aef4f6c8":[6,0,3435,0],
-"de/d0c/classspell__mage__fire__frost__ward.html#aa6264e4dbff71b0d82e3403984c59c03":[6,0,3435,4],
-"de/d0c/classspell__mage__fire__frost__ward.html#ae1a70e11e89c4252e481ad737ad00ae0":[6,0,3435,2],
+"de/d0c/classspell__mage__fire__frost__ward.html":[6,0,3436],
+"de/d0c/classspell__mage__fire__frost__ward.html#a20d5b4776ebeb859b0641af640e41d80":[6,0,3436,1],
+"de/d0c/classspell__mage__fire__frost__ward.html#a8c5399ba68554f4c2e842c5492ad715c":[6,0,3436,3],
+"de/d0c/classspell__mage__fire__frost__ward.html#a9378cde1cc6daab0dc111b94aef4f6c8":[6,0,3436,0],
+"de/d0c/classspell__mage__fire__frost__ward.html#aa6264e4dbff71b0d82e3403984c59c03":[6,0,3436,4],
+"de/d0c/classspell__mage__fire__frost__ward.html#ae1a70e11e89c4252e481ad737ad00ae0":[6,0,3436,2],
 "de/d0e/structnpc__vekniss__stinger.html":[6,0,2263],
 "de/d0e/structnpc__vekniss__stinger.html#a1ff479e8f45710f6aa36473933bb87e0":[6,0,2263,3],
 "de/d0e/structnpc__vekniss__stinger.html#a2a79f3775aad83410ff2670aa438e811":[6,0,2263,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX356 =
 "de/d0e/structnpc__vekniss__stinger.html#ae7c758687c81cfb223066f0a9348eab8":[6,0,2263,1],
 "de/d0f/structnpc__anubisath__guardian.html":[6,0,1605],
 "de/d0f/structnpc__anubisath__guardian.html#a16d1e70f0ca0fcef972ac45f82e885e6":[6,0,1605,3],
-"de/d0f/structnpc__anubisath__guardian.html#a2b7f307b5af7c50c86a68c4834f08ed4":[6,0,1605,1],
-"de/d0f/structnpc__anubisath__guardian.html#a69b3b2cee4c84cd6dccd3465b555ad12":[6,0,1605,6],
-"de/d0f/structnpc__anubisath__guardian.html#a7db1771f9083e14c177e37d7bf6690c5":[6,0,1605,0],
-"de/d0f/structnpc__anubisath__guardian.html#a9a9c805c92a3e8e96914d01accb01051":[6,0,1605,5],
-"de/d0f/structnpc__anubisath__guardian.html#a9f40c43ded16ad5934a5d5499f16ca76":[6,0,1605,2],
-"de/d0f/structnpc__anubisath__guardian.html#ad44455c43d53426a152547d5b0770bbe":[6,0,1605,7]
+"de/d0f/structnpc__anubisath__guardian.html#a2b7f307b5af7c50c86a68c4834f08ed4":[6,0,1605,1]
 };

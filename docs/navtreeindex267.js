@@ -1,5 +1,11 @@
 var NAVTREEINDEX267 =
 {
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a70fa70c5b65a095ecdcf0a7db1ae139f":[6,0,807,0,6],
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a71a572eb57ad2fbd6172a6242173b213":[6,0,807,0,28],
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a797c16474665f163eb525cf655b26590":[6,0,807,0,26],
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a7fe8e6c02273320779f436b085a53676":[6,0,807,0,30],
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a8899b6e33498ee29c0264a3081d13590":[6,0,807,0,5],
+"da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a88f10087dc7cdb555f8f7b7363bed39e":[6,0,807,0,9],
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#a95bc46439ff75328c74d7ff2cbd7f0da":[6,0,807,0,1],
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#ab88705e06f8d5054b7f8914801d197ba":[6,0,807,0,15],
 "da/dbe/structboss__yoggsaron__sara_1_1boss__yoggsaron__saraAI.html#ac4f710f1fb790efcece38f0fd90cce59":[6,0,807,0,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX267 =
 "da/dbf/Player_8h.html#a7c3902b77dffac17f56d2f990967f5a7":[7,0,0,0,1,2,16,7,5,79],
 "da/dbf/Player_8h.html#a7cd994ea695a2fdb343be5ef0bdb03a8":[7,0,0,0,1,2,16,7,5,31],
 "da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91":[7,0,0,0,1,2,16,7,5,121],
-"da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91acedb9d51561c12e42f385009d07e2207":[7,0,0,0,1,2,16,7,5,121,0],
-"da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91ad3c6af56c3c0aa946a3b53a0fb05078c":[7,0,0,0,1,2,16,7,5,121,1],
-"da/dbf/Player_8h.html#a7e844fbb704e6a04c7fc7d5efe39433e":[7,0,0,0,1,2,16,7,5,49],
-"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0c":[7,0,0,0,1,2,16,7,5,87],
-"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cad76e6ac10062f15e697857d39056cbec":[7,0,0,0,1,2,16,7,5,87,1],
-"da/dbf/Player_8h.html#a7fcff0151a9fe9259e042a52c3c37b0cade633953c0847a2e477be4083dd037bc":[7,0,0,0,1,2,16,7,5,87,0],
-"da/dbf/Player_8h.html#a845b4a4f1fbd851dbce7bb2890187eb8":[7,0,0,0,1,2,16,7,5,69]
+"da/dbf/Player_8h.html#a7cf3ef458239d83cc218960ce090ac91acedb9d51561c12e42f385009d07e2207":[7,0,0,0,1,2,16,7,5,121,0]
 };
