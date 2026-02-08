@@ -1,5 +1,12 @@
 var NAVTREEINDEX48 =
 {
+"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7a60c3f27b512acb94cca80d0f7aa8ca77":[7,0,0,0,1,3,9,2,170,5],
+"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7a6d34405f4268188f4709fddd135879a1":[7,0,0,0,1,3,9,2,170,0],
+"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7a90509e88a53491036a7aa492471ea3f9":[7,0,0,0,1,3,9,2,170,1],
+"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7a9ba83fb192fd97fcf2ed67efe5896435":[7,0,0,0,1,3,9,2,170,2],
+"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7abf7d6fba7d0696deb84a0955dc328a6b":[7,0,0,0,1,3,9,2,170,4],
+"d1/de4/spell__generic_8cpp.html#ac2f6f2fc93e57843401650b70ab91776":[7,0,0,0,1,3,9,2,161],
+"d1/de4/spell__generic_8cpp.html#ac2f6f2fc93e57843401650b70ab91776aacb63af1aab81d18e1b5d48b31e4baba":[7,0,0,0,1,3,9,2,161,0],
 "d1/de4/spell__generic_8cpp.html#ac30dda5e87b46e62acbb0e20652e7a63":[7,0,0,0,1,3,9,2,174],
 "d1/de4/spell__generic_8cpp.html#ac30dda5e87b46e62acbb0e20652e7a63ab4c87c1eaf4d810a4e4726d0bb305964":[7,0,0,0,1,3,9,2,174,0],
 "d1/de4/spell__generic_8cpp.html#ac46bd600dd4be640c3eefcbde60b28e7":[7,0,0,0,1,3,9,2,176],
@@ -242,12 +249,5 @@ var NAVTREEINDEX48 =
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,3027,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,72,3],
-"d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[6,0,0,60,3]
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2]
 };

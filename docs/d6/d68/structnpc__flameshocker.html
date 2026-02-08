@@ -452,7 +452,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  802</span>: <a class="code hl_class" href="../../d3/dfa/classCombatAI.html">CombatAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  803</span>: <a class="code hl_class" href="../../d3/dfa/classCombatAI.html">CombatAI</a>(creature) { }</div>
 <div class="ttc" id="aclassCombatAI_html"><div class="ttname"><a href="../../d3/dfa/classCombatAI.html">CombatAI</a></div><div class="ttdef"><b>Definition</b> CombatAI.h:40</div></div>
 </div><!-- fragment -->
 </div>
@@ -483,9 +483,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/dfa/classCombatAI.html#a9176b9b9c7a5e13fb05dae636c7ef2d4">CombatAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  815</span>    {</div>
-<div class="line"><span class="lineno">  816</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a068e7d12b4b4192bbc9e35bcbbda74c5">SPELL_FLAMESHOCKERS_REVENGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  817</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  816</span>    {</div>
+<div class="line"><span class="lineno">  817</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a068e7d12b4b4192bbc9e35bcbbda74c5">SPELL_FLAMESHOCKERS_REVENGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  818</span>    }</div>
 <div class="ttc" id="aclassUnitAI_html_a6ae5c7d15b747433f4d94f80bcebd215"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">UnitAI::DoCastSelf</a></div><div class="ttdeci">SpellCastResult DoCastSelf(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition</b> UnitAI.h:391</div></div>
 <div class="ttc" id="ascourge__invasion_8h_html_a4f93bde7f07c5ec51a8cfd8df0954824a068e7d12b4b4192bbc9e35bcbbda74c5"><div class="ttname"><a href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a068e7d12b4b4192bbc9e35bcbbda74c5">SPELL_FLAMESHOCKERS_REVENGE</a></div><div class="ttdeci">@ SPELL_FLAMESHOCKERS_REVENGE</div><div class="ttdef"><b>Definition</b> scourge_invasion.h:149</div></div>
 </div><!-- fragment -->
@@ -517,14 +517,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/dfa/classCombatAI.html#a7a39daea9b9bd09572472ae0d8689edd">CombatAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  805</span>    {</div>
-<div class="line"><span class="lineno">  806</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
-<div class="line"><span class="lineno">  807</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(2s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  808</span>        {</div>
-<div class="line"><span class="lineno">  809</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_function" href="../../d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824acde532d2ed4fc10ebcb2b048df25ef8e">SPELL_FLAMESHOCKERS_TOUCH</a>, <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a33da30b17ed1f650008611e382a1a989">SPELL_FLAMESHOCKERS_TOUCH2</a>), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  810</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(30s, 45s);</div>
-<div class="line"><span class="lineno">  811</span>        });</div>
-<div class="line"><span class="lineno">  812</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  806</span>    {</div>
+<div class="line"><span class="lineno">  807</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
+<div class="line"><span class="lineno">  808</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(2s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  809</span>        {</div>
+<div class="line"><span class="lineno">  810</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_function" href="../../d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a>(<a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824acde532d2ed4fc10ebcb2b048df25ef8e">SPELL_FLAMESHOCKERS_TOUCH</a>, <a class="code hl_enumvalue" href="../../d6/d36/scourge__invasion_8h.html#a4f93bde7f07c5ec51a8cfd8df0954824a33da30b17ed1f650008611e382a1a989">SPELL_FLAMESHOCKERS_TOUCH2</a>), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  811</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(30s, 45s);</div>
+<div class="line"><span class="lineno">  812</span>        });</div>
+<div class="line"><span class="lineno">  813</span>    }</div>
 <div class="ttc" id="aCreatureAIImpl_8h_html_a95d9a0c5ba0d54645670ba51c16ed33c"><div class="ttname"><a href="../../d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a></div><div class="ttdeci">static First const &amp; RAND(First const &amp;first, Second const &amp;second, Rest const &amp;... rest)</div><div class="ttdef"><b>Definition</b> CreatureAIImpl.h:25</div></div>
 <div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:76</div></div>
 <div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:421</div></div>
@@ -566,12 +566,12 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d3/dfa/classCombatAI.html#ab157082819d821cf0b0093f084111e16" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d3/dfa/classCombatAI.html#af12583d15ccd183f6236c1889d539b9b">CombatAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  820</span>    {</div>
-<div class="line"><span class="lineno">  821</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  822</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  823</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  824</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  825</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  821</span>    {</div>
+<div class="line"><span class="lineno">  822</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  823</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  824</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  825</span>        <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  826</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition</b> CreatureAI.cpp:277</div></div>
 <div class="ttc" id="aclassTaskScheduler_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:27</div></div>
 <div class="ttc" id="aclassUnitAI_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition</b> UnitAI.cpp:39</div></div>
@@ -589,7 +589,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d68/structnpc__flameshocker.html">npc_flameshocker</a></li>
-    <li class="footer">Generated on Sat Feb 7 2026 06:38:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 8 2026 06:44:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

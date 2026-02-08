@@ -1,6 +1,6 @@
 var structboss__sartharion__dragonAI =
 [
-    [ "boss_sartharion_dragonAI", "d9/df5/structboss__sartharion__dragonAI.html#afffee05f402a1960232c7920beb9beb9", null ],
+    [ "boss_sartharion_dragonAI", "d9/df5/structboss__sartharion__dragonAI.html#ac77eaacb9a5360802e862c95e54ec8ef", null ],
     [ "ClearInstance", "d9/df5/structboss__sartharion__dragonAI.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
     [ "DoAction", "d9/df5/structboss__sartharion__dragonAI.html#aeb49e63300a317f0e969159266fd8ea1", null ],
     [ "HandleExtraEvent", "d9/df5/structboss__sartharion__dragonAI.html#a406b4d5957efb872de3bff5c8012de2a", null ],

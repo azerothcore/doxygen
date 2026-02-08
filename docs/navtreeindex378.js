@@ -1,5 +1,12 @@
 var NAVTREEINDEX378 =
 {
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a94f1144a24a622ff9e12ebe57137f266":[7,0,0,0,1,3,5,6,9,37,1],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9c1eb82ba397495012178faa3efce8f9":[7,0,0,0,1,3,5,6,9,37,18],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac4075684a4370ce40174307ddb8c7e83":[7,0,0,0,1,3,5,6,9,37,22],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac44e3da7743742f856230fb208f3afeb":[7,0,0,0,1,3,5,6,9,37,7],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad40fac9b7911b5d8c150f8d388adf4ab":[7,0,0,0,1,3,5,6,9,37,24],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,5,6,9,37,2],
+"de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aef91952064652c12e6294be214ba63da":[7,0,0,0,1,3,5,6,9,37,13],
 "de/de5/boss__sindragosa_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affa73594765dfffd558f6cb2acac4ab9":[7,0,0,0,1,3,5,6,9,37,5],
 "de/de5/boss__sindragosa_8cpp.html#afe25c59c2006d767a0fe0950884a791c":[7,0,0,0,1,3,5,6,9,46],
 "de/de5/classnpc__tesla.html":[6,0,2166],
@@ -242,12 +249,5 @@ var NAVTREEINDEX378 =
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#aab9cd0057a625afef2d96feebd6428fb":[6,0,1271,10],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ab1ce2df22dba7759ca28a77532a17db1":[6,0,1271,3],
 "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#ac5078f624899e574a7b56b72e2824b9a":[6,0,1271,8],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#acfebf75bcd7cc62c1b0105eb0c5e9100":[6,0,1271,5],
-"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#af52495a86296d288d2312bf8616108d0":[6,0,1271,0],
-"de/df4/classUnboundPlagueTargetSelector.html":[6,0,4241],
-"de/df4/classUnboundPlagueTargetSelector.html#a87eb77615e443ccec373d571708a156a":[6,0,4241,2],
-"de/df4/classUnboundPlagueTargetSelector.html#ae5fc2623d4eb0b0a82b3eaa464c92458":[6,0,4241,1],
-"de/df4/classUnboundPlagueTargetSelector.html#aedde7e013418bf6ff54cf3d3b8a70206":[6,0,4241,0],
-"de/df4/cs__cache_8cpp.html":[7,0,0,0,1,3,0,6],
-"de/df4/cs__cache_8cpp.html#a293f65606c1750692d4046d4fe4c4adc":[7,0,0,0,1,3,0,6,1]
+"de/df4/classHomeMovementGenerator_3_01Creature_01_4.html#acfebf75bcd7cc62c1b0105eb0c5e9100":[6,0,1271,5]
 };

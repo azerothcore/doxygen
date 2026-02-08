@@ -1,5 +1,15 @@
 var NAVTREEINDEX137 =
 {
+"d4/dd0/classWorldObject.html#a2ef660f7ad33f76212fa27fb777f7d49":[6,0,4336,75],
+"d4/dd0/classWorldObject.html#a2fa068bdfada15525672399270537e12":[6,0,4336,157],
+"d4/dd0/classWorldObject.html#a31d7a5673827b882fdfbe177c5aecbbc":[6,0,4336,112],
+"d4/dd0/classWorldObject.html#a347a94213bd7c981e5e4cee5b68b78c1":[6,0,4336,123],
+"d4/dd0/classWorldObject.html#a34cb764c08c8dd149d35f60fcadedfa2":[6,0,4336,193],
+"d4/dd0/classWorldObject.html#a34cef8bcc6078f22e0482ac481fa2da8":[6,0,4336,10],
+"d4/dd0/classWorldObject.html#a37401ba6edd4b7f1da216a9e5145970d":[6,0,4336,2],
+"d4/dd0/classWorldObject.html#a374795ac4206644fe9de6a2791c78360":[6,0,4336,117],
+"d4/dd0/classWorldObject.html#a378fd6aec05ee14c6c50e2c3d82be1d7":[6,0,4336,178],
+"d4/dd0/classWorldObject.html#a37cbfdae47ed55fa8ed59578165cc8e3":[6,0,4336,187],
 "d4/dd0/classWorldObject.html#a38404ab529c99fb26e0df18eeed1417e":[6,0,4336,100],
 "d4/dd0/classWorldObject.html#a38e13040d0cb291a8028d4b79eb09102":[6,0,4336,114],
 "d4/dd0/classWorldObject.html#a3abc3a0e7301fe3285ac566edba3eb2c":[6,0,4336,53],
@@ -239,15 +249,5 @@ var NAVTREEINDEX137 =
 "d4/dd3/firework__show__Undercity_8h.html#a67896d1b367cdcfcbee837b12ee9451c":[7,0,0,0,1,3,3,0,11,0],
 "d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[7,0,0,0,1,3,3,0,11,1],
 "d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[7,0,0,0,1,3,3,0,11,2],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1883,0],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1883,0,2],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1883,0,3],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1883,0,1],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1883,0,4],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c":[6,0,1883,0,7],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab74b58a77e3c1349ed308f7febef794a":[6,0,1883,0,0],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320":[6,0,1883,0,6],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ad7f3465f5730cd9ebd42bb4092ec8e68":[6,0,1883,0,5],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb":[6,0,1883,0,8],
-"d4/dd6/classspell__kelthuzad__detonate__mana__aura.html":[6,0,3381]
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1883,0]
 };

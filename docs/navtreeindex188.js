@@ -1,5 +1,15 @@
 var NAVTREEINDEX188 =
 {
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,12,11,3,3],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,32,11,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,12,11,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,32,11,3,2],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,12,11,3,2],
+"d7/d33/classnpc__ravenous__worg.html":[6,0,2081],
+"d7/d33/classnpc__ravenous__worg.html#ac966ae31d3a86c9435b14d9f50a5f4cb":[6,0,2081,2],
+"d7/d33/classnpc__ravenous__worg.html#ad7f8da1c82072367fe4a537620df9ac0":[6,0,2081,1],
+"d7/d34/AddonMgr_8h.html":[7,0,0,0,1,2,2,1],
+"d7/d34/AddonMgr_8h.html#a084249e215f787f3163d5d06ad2d256f":[7,0,0,0,1,2,2,1,3],
 "d7/d34/AddonMgr_8h.html#a2ea3deb6be3c64b7b58ed27ccf60c779":[7,0,0,0,1,2,2,1,4],
 "d7/d34/AddonMgr_8h.html#a65cb6a88902972060e44c57d7d9ec738":[7,0,0,0,1,2,2,1,5],
 "d7/d34/AddonMgr_8h.html#a85021021149b7eb4d78cbe81e43d3d45":[7,0,0,0,1,2,2,1,8],
@@ -239,15 +249,5 @@ var NAVTREEINDEX188 =
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a015de55b22fad643111f67b59a73fbc2":[7,0,0,0,1,3,5,4,0,3,4,4],
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0":[7,0,0,0,1,3,5,4,0,3,4,1],
 "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a160667151deccdd9871b9d5df3e29ea9":[7,0,0,0,1,3,5,4,0,3,4,13],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a1a28c61fa7784fd68f360c2c5f40b7ea":[7,0,0,0,1,3,5,4,0,3,4,5],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a34fc0c7d782672f9ff826bfb6eaf58b1":[7,0,0,0,1,3,5,4,0,3,4,6],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a4e949a1824d25f0029cde2a51776c792":[7,0,0,0,1,3,5,4,0,3,4,9],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a5cb735e4a8f08c6ccf45bd8ccd1516ef":[7,0,0,0,1,3,5,4,0,3,4,10],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a6b34045602bdf002ce1b3d30d7fcdac4":[7,0,0,0,1,3,5,4,0,3,4,14],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a8123c635a5ab5db37954d58117f9d044":[7,0,0,0,1,3,5,4,0,3,4,0],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a8693f2333bc4b39058e7977b4b765147":[7,0,0,0,1,3,5,4,0,3,4,3],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a8845fefb53599e42b7c88a9f416f5d18":[7,0,0,0,1,3,5,4,0,3,4,8],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a96ef45a65b59f4aa5420bd3c53bd1ffe":[7,0,0,0,1,3,5,4,0,3,4,7],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08aab6ed41a6659914644c87548396c4d9b":[7,0,0,0,1,3,5,4,0,3,4,12],
-"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08ab59791380fdc35c10d6b5e3558214e5b":[7,0,0,0,1,3,5,4,0,3,4,11]
+"d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a1a28c61fa7784fd68f360c2c5f40b7ea":[7,0,0,0,1,3,5,4,0,3,4,5]
 };

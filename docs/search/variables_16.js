@@ -84,7 +84,7 @@ var searchData=
   ['vmap_5fmagic_81',['VMAP_MAGIC',['../dd/d34/namespaceVMAP.html#aa7e5a571fdcb9d62ceefdcf5744746cb',1,'VMAP']]],
   ['voidportalcoords_82',['VoidPortalCoords',['../d1/d7a/boss__grandmaster__vorpil_8cpp.html#adff0c0bba49e4e02cde6a9cd4d77e020',1,'boss_grandmaster_vorpil.cpp']]],
   ['voidwalkers_83',['Voidwalkers',['../d4/df7/structboss__doomrel_1_1boss__doomrelAI.html#af29d871a370a534f508f225d49c3dc9f',1,'boss_doomrel::boss_doomrelAI']]],
-  ['volcanoblows_84',['volcanoBlows',['../db/d0f/structboss__sartharion_1_1boss__sartharionAI.html#a1d6e306084fb64742d28beb1f65ef338',1,'boss_sartharion::boss_sartharionAI']]],
+  ['volcanoblows_84',['volcanoBlows',['../d9/df5/structboss__sartharion.html#a4afb5ee2520c9a0648b978b5659d6c3a',1,'boss_sartharion']]],
   ['volunteerspotpositions_85',['VolunteerSpotPositions',['../d0/d2d/boss__jedoga__shadowseeker_8cpp.html#ac77f60601efe7130bea7587efa32f8db',1,'boss_jedoga_shadowseeker.cpp']]],
   ['volunteerwork_86',['volunteerWork',['../d4/dae/structboss__jedoga__shadowseeker.html#aa0ff8d7556662b8db97aebcf27e0d5e4',1,'boss_jedoga_shadowseeker']]],
   ['vorpilposition_87',['VorpilPosition',['../d1/d7a/boss__grandmaster__vorpil_8cpp.html#a2eabc22870206fb595c73ad86cc767ed',1,'boss_grandmaster_vorpil.cpp']]],

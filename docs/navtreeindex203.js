@@ -1,5 +1,15 @@
 var NAVTREEINDEX203 =
 {
+"d7/db0/classMap.html#afb56cdfd01730436842936eeaf8bf680":[6,0,1480,15],
+"d7/db0/classMap.html#afc0c7ae3323094afa8268d6dc5f58866":[6,0,1480,234],
+"d7/db0/classMap.html#afcd54ac86c6ed6ab8b9d7bd5ffdce594":[6,0,1480,205],
+"d7/db0/classMap.html#afe645aa76713224c7e7fcd0f5e12fc79":[6,0,1480,132],
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html":[6,0,3660],
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#a73628636431d3549d6e3530c6ef23c08":[6,0,3660,0],
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#a7f42cf47831d3c8544453530a1454ddc":[6,0,3660,2],
+"d7/db1/classspell__q11010__q11102__q11023__aggro__check.html#ab90d3031b356e8004fa62c9562f1ba1f":[6,0,3660,1],
+"d7/db1/structRepSpilloverTemplate.html":[6,0,2499],
+"d7/db1/structRepSpilloverTemplate.html#a1ffb9cddf950edfb17e9779691b09f07":[6,0,2499,1],
 "d7/db1/structRepSpilloverTemplate.html#aaad6e04ef66264f040ddd91ae7f4e04b":[6,0,2499,0],
 "d7/db1/structRepSpilloverTemplate.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4":[6,0,2499,2],
 "d7/db1/structnpc__toc__paladin_1_1npc__toc__paladinAI.html":[6,0,2194,0],
@@ -96,8 +106,8 @@ var NAVTREEINDEX203 =
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efadacc9a35a6c947101cb66aa1bf63b840":[7,0,0,0,1,3,3,0,1,3,14],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafa0fbaac554e9b1afdb5c581e95918d8":[7,0,0,0,1,3,3,0,1,3,33],
 "d7/db4/firework__show_8h.html#ad6101dc8b1197f1113132f0abce2b1efafbfc2514c5e6777576f0478c218599b6":[7,0,0,0,1,3,3,0,1,3,0],
-"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db4/structAcore_1_1has__type.html":[5,0,1,74],
+"d7/db4/structAcore_1_1has__type.html":[6,0,0,62],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html":[6,0,3704],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#a882d87de64d0e2c64b17c26d9e40d616":[6,0,3704,0],
 "d7/db5/classspell__q12661__q12669__q12676__q12677__q12713__summon__stefan.html#ab58938808e460e843e42f2b6fa644e8a":[6,0,3704,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX203 =
 "d7/dbd/structnpc__magister__aledis.html#a5b4cd0ab4d214547dca28b8b384f83df":[6,0,1950,6],
 "d7/dbd/structnpc__magister__aledis.html#a9149ce0a1df781043a5590fe4612511a":[6,0,1950,4],
 "d7/dbd/structnpc__magister__aledis.html#a9960de0b5be8b75e8b7bcc8f12c4f187":[6,0,1950,3],
-"d7/dbd/structnpc__magister__aledis.html#ae0a701eeaacc5188b382c59ecef14518":[6,0,1950,2],
-"d7/dbd/structnpc__magister__aledis.html#aef885088193e2597e6990e3051a31ef7":[6,0,1950,5],
-"d7/dbe/classspell__putricide__mutation__init.html":[6,0,3625],
-"d7/dbe/classspell__putricide__mutation__init.html#a0d6745dab09cdd228fc802e482c3d15c":[6,0,3625,2],
-"d7/dbe/classspell__putricide__mutation__init.html#a1568599758bdc757ae448ab5a77c1cc7":[6,0,3625,0],
-"d7/dbe/classspell__putricide__mutation__init.html#a95a250aeb3a41922c529f476d39f18e4":[6,0,3625,3],
-"d7/dbe/classspell__putricide__mutation__init.html#ac2559b4a925fc0960a902fa2b306dc54":[6,0,3625,1],
-"d7/dbf/PlayerQuest_8cpp.html":[7,0,0,0,1,2,16,7,8],
-"d7/dbf/classnpc__infernal__attacker.html":[6,0,1891],
-"d7/dbf/classnpc__infernal__attacker.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa":[6,0,1891,1],
-"d7/dbf/classnpc__infernal__attacker.html#ad1d9186c186de36efbe102a07fe89de4":[6,0,1891,2]
+"d7/dbd/structnpc__magister__aledis.html#ae0a701eeaacc5188b382c59ecef14518":[6,0,1950,2]
 };

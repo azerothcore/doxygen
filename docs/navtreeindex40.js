@@ -1,5 +1,12 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea45d2a58d49ab909fd6a6e78467f7ca0d":[7,0,0,0,1,2,16,10,5,52,5],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea49e9d4df8d30a4fa19a5d422dbb2fb41":[7,0,0,0,1,2,16,10,5,52,24],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea5aad5ea92b88fa48fb05a367e6d70bb8":[7,0,0,0,1,2,16,10,5,52,30],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea79440a990c465c7f19a3aa5cd7808c62":[7,0,0,0,1,2,16,10,5,52,15],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea7a3c5cbdc3ced891780002389b3dcd8e":[7,0,0,0,1,2,16,10,5,52,0],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea81f275f6f428145c4d3227e52b905e40":[7,0,0,0,1,2,16,10,5,52,16],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeab7a02dfffcefb8b769c5fa1b45afea9a":[7,0,0,0,1,2,16,10,5,52,1],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac09868c22ce88ad6bce5f6321c994de6":[7,0,0,0,1,2,16,10,5,52,29],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac1a101ffc2b3e1c261a1f27c5b95147e":[7,0,0,0,1,2,16,10,5,52,8],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaccdf98ed89e64b2482699a13bc1fd28c":[7,0,0,0,1,2,16,10,5,52,22],
@@ -242,12 +249,5 @@ var NAVTREEINDEX40 =
 "d1/db7/DatabaseLoader_8h.html":[7,0,0,0,1,1,0,7],
 "d1/db7/classspell__q4735__collect__rookery__egg.html":[6,0,3732],
 "d1/db7/classspell__q4735__collect__rookery__egg.html#a16983545e25f3e02064e2b3d573b2bb8":[6,0,3732,0],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a83c48e1c42a6a6dd892f0f4d6a20687b":[6,0,3732,4],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a95f7bd6dd52b19bb1c09975a7286882a":[6,0,3732,2],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a96e69476965cc2466213a5371a57093a":[6,0,3732,3],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#abc927d932c1d5e05eab1918364d68ed5":[6,0,3732,1],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html":[6,0,1858,0],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a1216634009d635f5a1658cae62f92133":[6,0,1858,0,2],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a126b67aacdfd0d96ad443944e9244f3b":[6,0,1858,0,11],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a19042362c0dc7da80b81d284d2fa7e4b":[6,0,1858,0,16]
+"d1/db7/classspell__q4735__collect__rookery__egg.html#a83c48e1c42a6a6dd892f0f4d6a20687b":[6,0,3732,4]
 };

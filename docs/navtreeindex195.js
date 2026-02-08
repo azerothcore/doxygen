@@ -1,5 +1,15 @@
 var NAVTREEINDEX195 =
 {
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html":[6,0,4076],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c":[6,0,4076,0],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ad1eae4d206e9e9e48230f60a2961fddb":[6,0,4076,1],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ae6685e7fd80373f2fc9a37cd4065f8b6":[6,0,4076,2],
+"d7/d94/structmap__liquidHeader.html":[6,0,1485],
+"d7/d94/structmap__liquidHeader.html#a2ddee980eda8b7321b55ba44697688b5":[6,0,1485,6],
+"d7/d94/structmap__liquidHeader.html#a5e7b1d32e42afbeb6898ee02014847cd":[6,0,1485,1],
+"d7/d94/structmap__liquidHeader.html#a90f22c454f03ecee6aa1b9f9392e10a0":[6,0,1485,3],
+"d7/d94/structmap__liquidHeader.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed":[6,0,1485,8],
+"d7/d94/structmap__liquidHeader.html#ab064dde684394c3aa84f9b151749d524":[6,0,1485,2],
 "d7/d94/structmap__liquidHeader.html#ab1c2612a57fcfce78e10de45dfc1c28d":[6,0,1485,0],
 "d7/d94/structmap__liquidHeader.html#ab2ce1920efaec0a4fc0a81df9d6539e3":[6,0,1485,5],
 "d7/d94/structmap__liquidHeader.html#abc57f9e6c2f9fae58f575d8e1309f420":[6,0,1485,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d9a/WorldState_8h.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453":[7,0,0,0,1,2,48,6,21,1],
 "d7/d9a/boss__captain__skarloc_8cpp.html":[7,0,0,0,1,3,4,1,2,0],
 "d7/d9a/boss__captain__skarloc_8cpp.html#a1bb5c78626c896c277b322137237181a":[7,0,0,0,1,3,4,1,2,0,4],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,2,0,1],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6233e6d3621443e4224dd31a05b3947d":[7,0,0,0,1,3,4,1,2,0,1,0],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a4bbf0643af31e91e7eda6e4ea28707ae":[7,0,0,0,1,3,4,1,2,0,5],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,2,0,2],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca0260b9413bf0f27c7d72a77a2df65622":[7,0,0,0,1,3,4,1,2,0,2,2],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca1e0d3ce9854a5b1d31d1604daf6703c7":[7,0,0,0,1,3,4,1,2,0,2,1],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca67c89fedb9ed5c08346fcda63bc9290f":[7,0,0,0,1,3,4,1,2,0,2,5],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cf4c32c97f8b49d7f92498043339aed":[7,0,0,0,1,3,4,1,2,0,2,4],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298cae3140193bf6c37d3cea4a80f8ce53892":[7,0,0,0,1,3,4,1,2,0,2,3],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a5bd342133be8c2137b831460acc9298caff7b7175905076f5844de02e303cb12a":[7,0,0,0,1,3,4,1,2,0,2,0],
-"d7/d9a/boss__captain__skarloc_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,4,1,2,0,3]
+"d7/d9a/boss__captain__skarloc_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,2,0,1]
 };

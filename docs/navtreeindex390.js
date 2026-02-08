@@ -1,5 +1,12 @@
 var NAVTREEINDEX390 =
 {
+"df/d78/classspell__dk__ghoul__thrash.html":[6,0,2779],
+"df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2779,0],
+"df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2779,1],
+"df/d78/classspell__dk__ghoul__thrash.html#a857a010e6426e931ca872f66803b99b9":[6,0,2779,2],
+"df/d78/classspell__dk__ghoul__thrash.html#ab64625ce305efb9dc92780c945b4fd62":[6,0,2779,3],
+"df/d78/classspell__hate__to__zero.html":[6,0,3114],
+"df/d78/classspell__hate__to__zero.html#a4998015873f0e0ca768c20b0f95fda90":[6,0,3114,3],
 "df/d78/classspell__hate__to__zero.html#a87777dce0e2bf1deba600b3ae7ce6b9c":[6,0,3114,0],
 "df/d78/classspell__hate__to__zero.html#a9fb8d980381264a2ef645f2e620abd21":[6,0,3114,2],
 "df/d78/classspell__hate__to__zero.html#ab61b4076aab18c0a6593c234209a2c1d":[6,0,3114,1],
@@ -180,12 +187,12 @@ var NAVTREEINDEX390 =
 "df/d81/structboss__dorothee.html#ae3f123a6a9223b7928295812326b0cb4":[6,0,430,6],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[6,0,12,6,36],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html":[5,0,32,6,36],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,32,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[6,0,12,6,36,2],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,32,6,36,0],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,32,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,12,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,32,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,32,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,12,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,32,6,36,1],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html":[6,0,601,0],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a2b39a384ac7133aa013e21b0e873c4e2":[6,0,601,0,8],
 "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html#a4c9bd060e62f1c4d3819350bf549a39a":[6,0,601,0,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a3305ced5e8edcf6f636cdbf1f2ef862f":[7,0,0,0,1,3,5,9,2,4,20,2],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a433c3a28a5d051f56a8a8565c089e13b":[7,0,0,0,1,3,5,9,2,4,20,4],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a43c2b43d7aa194507dc7912f3f1c1560":[7,0,0,0,1,3,5,9,2,4,20,3],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a466ca6f45341ce6d431e33857779c60c":[7,0,0,0,1,3,5,9,2,4,20,11],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a473c4bd4351fca7d4c76dc7e1d60dca0":[7,0,0,0,1,3,5,9,2,4,20,5],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4cf9839144b8e6fb679600dc4d642fb1":[7,0,0,0,1,3,5,9,2,4,20,22],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a4de611c7f4dff66978a503bdf1ea78ef":[7,0,0,0,1,3,5,9,2,4,20,19],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a5b3acc26d9e75f634588d801c863a8e5":[7,0,0,0,1,3,5,9,2,4,20,18],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a7794b235ec1d641afa238b9a29711a62":[7,0,0,0,1,3,5,9,2,4,20,13],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a8007a600382bf9f2b0976c4f895c2aed":[7,0,0,0,1,3,5,9,2,4,20,21],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a8ec7cc3b7964c4aed1bfb7a9ca9cf296":[7,0,0,0,1,3,5,9,2,4,20,14]
+"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a466ca6f45341ce6d431e33857779c60c":[7,0,0,0,1,3,5,9,2,4,20,11]
 };

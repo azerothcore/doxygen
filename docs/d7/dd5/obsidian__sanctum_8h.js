@@ -2,6 +2,7 @@ var obsidian__sanctum_8h =
 [
     [ "DataHeader", "d7/dd5/obsidian__sanctum_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "ObsidianSanctumScriptName", "d7/dd5/obsidian__sanctum_8h.html#accb9d1f27143774736f13b6dd04325ed", null ],
+    [ "RegisterObsidianSanctumCreatureAI", "d7/dd5/obsidian__sanctum_8h.html#a9293e1c83e19ab7b05cdce50c5aa51a0", null ],
     [ "Data", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6b", [
       [ "DATA_SARTHARION", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba666020ca779618394caa87eab7d82c3c", null ],
       [ "DATA_TENEBRON", "d7/dd5/obsidian__sanctum_8h.html#a5ddd2f4ab6b0acc94a78aa229927bd6ba2e7a9e77fa184759574ad6e526197ca2", null ],

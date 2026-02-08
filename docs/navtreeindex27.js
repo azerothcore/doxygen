@@ -1,5 +1,12 @@
 var NAVTREEINDEX27 =
 {
+"d1/d1b/classspell__pal__ardent__defender.html#a33dd57579e724aee0c6f2a8d767fc3c8":[6,0,3542,5],
+"d1/d1b/classspell__pal__ardent__defender.html#a3718265890fad2a6c6d53b5f401d16dd":[6,0,3542,4],
+"d1/d1b/classspell__pal__ardent__defender.html#a408fe2ab57ae0adcf803c71b5f6cd724":[6,0,3542,8],
+"d1/d1b/classspell__pal__ardent__defender.html#a749742ceb8be20f5d327becbea7c64d5":[6,0,3542,3],
+"d1/d1b/classspell__pal__ardent__defender.html#a74fafd4bde88c2e581cac555a131b39d":[6,0,3542,7],
+"d1/d1b/classspell__pal__ardent__defender.html#a9bc7f72089287dbac352b308489c7781":[6,0,3542,1],
+"d1/d1b/classspell__pal__ardent__defender.html#ae62bcfdf7168a58818ffc8b302cffcb7":[6,0,3542,0],
 "d1/d1b/classspell__pal__ardent__defender.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe":[6,0,3542,0,1],
 "d1/d1b/classspell__pal__ardent__defender.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b":[6,0,3542,0,0],
 "d1/d1b/classspell__pal__ardent__defender.html#aee6b0b00078a880dc5ed6684991ee8c8":[6,0,3542,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX27 =
 "d1/d2c/classspell__gen__summon__elemental.html#ae2dece3ac20afe16430e741fab909fa1":[6,0,3043,0],
 "d1/d2c/classspell__gen__summon__elemental.html#aeec3688e66a7e9f0207b219e9dcdb265":[6,0,3043,2],
 "d1/d2d/ScriptMgrMacros_8h.html":[7,0,0,0,1,2,38,4],
-"d1/d2d/ScriptMgrMacros_8h.html#a370083225ad9db5b05a730ce4fb26d2f":[7,0,0,0,1,2,38,4,1],
-"d1/d2d/ScriptMgrMacros_8h.html#a670fda94f7e41c38816a1e12f9efec7c":[7,0,0,0,1,2,38,4,6],
-"d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64":[7,0,0,0,1,2,38,4,0],
-"d1/d2d/ScriptMgrMacros_8h.html#a80951f767a7c77417a671490893db073":[7,0,0,0,1,2,38,4,3],
-"d1/d2d/ScriptMgrMacros_8h.html#a9662d12a9f13490594165729108aa0b1":[7,0,0,0,1,2,38,4,2],
-"d1/d2d/ScriptMgrMacros_8h.html#a9dedac0cb410c9d87f0470ffd0eb6c66":[7,0,0,0,1,2,38,4,5],
-"d1/d2d/ScriptMgrMacros_8h.html#aceff01aa3f5ab68a0253704ef30041df":[7,0,0,0,1,2,38,4,4],
-"d1/d2d/SpellScriptLoader_8h.html":[7,0,0,0,1,2,38,0,79]
+"d1/d2d/ScriptMgrMacros_8h.html#a370083225ad9db5b05a730ce4fb26d2f":[7,0,0,0,1,2,38,4,1]
 };

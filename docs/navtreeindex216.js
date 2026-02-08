@@ -1,5 +1,13 @@
 var NAVTREEINDEX216 =
 {
+"d8/d62/structLoot.html#ae54068e648f02a15fb56a75a882f6762":[6,0,1453,23],
+"d8/d62/structLoot.html#aea7caeb16e0fb3d9c9bcd7915c78de81":[6,0,1453,32],
+"d8/d62/structLoot.html#afa9a10adf695d6591d45a3afd74e0825":[6,0,1453,38],
+"d8/d63/classnpc__hor__lich__king.html":[6,0,1853],
+"d8/d63/classnpc__hor__lich__king.html#aab2562a7a204699735a89e7a15b3b472":[6,0,1853,1],
+"d8/d63/classnpc__hor__lich__king.html#ad670ae69daa742c19c06267399445a11":[6,0,1853,2],
+"d8/d64/firework__show__Stormwind_8h.html":[7,0,0,0,1,3,3,0,8],
+"d8/d64/firework__show__Stormwind_8h.html#a378278257abadcd4369abd66f412d8e6":[7,0,0,0,1,3,3,0,8,2],
 "d8/d64/firework__show__Stormwind_8h.html#ae843a13f6116ce380e3890397d825ae6":[7,0,0,0,1,3,3,0,8,0],
 "d8/d64/firework__show__Stormwind_8h.html#af98c86c5b3725a8753fc620996c94b7f":[7,0,0,0,1,3,3,0,8,1],
 "d8/d65/boss__emalon_8cpp.html":[7,0,0,0,1,3,5,11,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX216 =
 "d8/d74/classWorldSession.html#a116f3e73eacf4e6723edf40a527d3513":[4,1,19,602],
 "d8/d74/classWorldSession.html#a118217e3cd5b6408858db5f61dacda10":[4,1,19,291],
 "d8/d74/classWorldSession.html#a11a10d3dff183b9e571233dc5c57d48e":[4,1,19,245],
-"d8/d74/classWorldSession.html#a11d4199e2d26c9540eb36560f95189ba":[4,1,19,227],
-"d8/d74/classWorldSession.html#a11f38f7005f07ad25ed8443e3151d27f":[4,1,19,106],
-"d8/d74/classWorldSession.html#a12729a3002e3c1d0ecebab5fed4ec8e7":[4,1,19,224],
-"d8/d74/classWorldSession.html#a12c414b742792e1ea541c8a39e0cdc41":[4,1,19,390],
-"d8/d74/classWorldSession.html#a1311ae5f0ba423e3394c8efc08d0f1ca":[4,1,19,145],
-"d8/d74/classWorldSession.html#a137b5ef8c34fbb114a450182be1519a0":[4,1,19,240],
-"d8/d74/classWorldSession.html#a146351c9d05131f0384674a5684f0920":[4,1,19,325],
-"d8/d74/classWorldSession.html#a14b41d78d92813f17a7f1717501ab768":[4,1,19,244],
-"d8/d74/classWorldSession.html#a14bf08d06f555d38a6bf8f70565d418e":[4,1,19,166]
+"d8/d74/classWorldSession.html#a11d4199e2d26c9540eb36560f95189ba":[4,1,19,227]
 };
