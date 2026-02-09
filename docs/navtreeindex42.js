@@ -1,5 +1,6 @@
 var NAVTREEINDEX42 =
 {
+"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954aad95e1f2ee06f7df1846c8dabb5fc042":[7,0,0,0,1,3,2,4,12,12,11],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954aba262f8d7824a6d871c1a23d16b828bb":[7,0,0,0,1,3,2,4,12,12,4],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954abd7c61e2880da9f16211905c167a3e3a":[7,0,0,0,1,3,2,4,12,12,14],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954ac40c7b8713294b4efd8d20247e473100":[7,0,0,0,1,3,2,4,12,12,0],
@@ -89,16 +90,16 @@ var NAVTREEINDEX42 =
 "d1/dc1/DatabaseLoader_8cpp.html":[7,0,0,0,1,1,0,6],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[6,0,0,81],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html":[5,0,1,93],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,1,93,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[6,0,0,81,3],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a182fbf6b5cc68fb0eba6be26568c9d78":[5,0,1,93,3],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[6,0,0,81,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a256c64e6c82d98349b958647d98bf4ce":[5,0,1,93,1],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[6,0,0,81,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#a52e2c64f8209ab364f4e85e1f4e947dc":[5,0,1,93,2],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[6,0,0,81,0],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#ab0e4734202edf26b69881ab85abe1d93":[5,0,1,93,0],
-"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[5,0,1,93,4],
 "d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[6,0,0,81,4],
+"d1/dc1/classAcore_1_1NearestGameObjectFishingHole.html#af27a870fb654a130bf1e4ac1472fdffc":[5,0,1,93,4],
 "d1/dc1/classnpc__anachronos__the__ancient.html":[6,0,1593],
 "d1/dc1/classnpc__anachronos__the__ancient.html#a345c801231907d98f2ab2425b1d35cbc":[6,0,1593,2],
 "d1/dc1/classnpc__anachronos__the__ancient.html#a720884359886e6f881190471005f4cfc":[6,0,1593,1],
@@ -107,10 +108,10 @@ var NAVTREEINDEX42 =
 "d1/dc1/classspell__ioc__repair__turret__aura.html#a2320044c6c81a89af0fefd4f90c05bd5":[6,0,3231,1],
 "d1/dc1/classspell__ioc__repair__turret__aura.html#a4890d35f2b0889156a437c95e49f528c":[6,0,3231,2],
 "d1/dc1/classspell__ioc__repair__turret__aura.html#a4e6a66934a01d01c50208459f6771353":[6,0,3231,0],
-"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html":[6,0,4090],
-"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a3b03178d8ab54db36a19ba5a27444917":[6,0,4090,1],
-"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a6309c53b9e3828e76d34a77a8fe35df1":[6,0,4090,2],
-"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a715a58956db4253c8adfed039833debd":[6,0,4090,0],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html":[6,0,4092],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a3b03178d8ab54db36a19ba5a27444917":[6,0,4092,1],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a6309c53b9e3828e76d34a77a8fe35df1":[6,0,4092,2],
+"d1/dc1/classspell__yogg__saron__in__the__maws__of__the__old__god.html#a715a58956db4253c8adfed039833debd":[6,0,4092,0],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html":[7,0,0,0,1,3,7,2,1,1],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,1,1,1],
 "d1/dc2/boss__mennu__the__betrayer_8cpp.html#a5bd342133be8c2137b831460acc9298ca4328cf0595175e2dee8a6f0cf98bc403":[7,0,0,0,1,3,7,2,1,1,1,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX42 =
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca136e170bc692e3a0701fab7dead8275d":[7,0,0,0,1,2,3,2,5,16,7],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca14b5ea80de447e3e42ff8af7da1935f6":[7,0,0,0,1,2,3,2,5,16,126],
 "d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca1557708b37615522918312cc20039308":[7,0,0,0,1,2,3,2,5,16,114],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca15fddd1dd37f13a07cd4927b1b2bfe28":[7,0,0,0,1,2,3,2,5,16,44],
-"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca1a020d9f4be21900b65eef1d0e9a2ce2":[7,0,0,0,1,2,3,2,5,16,90]
+"d1/dc3/SmartScriptMgr_8h.html#a7b5604e647b8ac28cc6a4a64deceeebca15fddd1dd37f13a07cd4927b1b2bfe28":[7,0,0,0,1,2,3,2,5,16,44]
 };

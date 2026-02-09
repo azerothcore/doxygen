@@ -1,5 +1,13 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba67f2aa51cf5f8cec1ce017618dc7109a":[7,0,0,0,1,2,26,2,1,48],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba69a2ff1f842f130826c9b637a64b47c1":[7,0,0,0,1,2,26,2,1,24],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba6efcd09935902d0f04179f872d7f84b4":[7,0,0,0,1,2,26,2,1,52],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7379bda62387e16b085a12adf1acde59":[7,0,0,0,1,2,26,2,1,21],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba73ac5dec9f4176656209ea16a6859c20":[7,0,0,0,1,2,26,2,1,58],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7460c86126f29fe941d171186f81631e":[7,0,0,0,1,2,26,2,1,55],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba749687f0b98762ba7b58242f0ce6d47a":[7,0,0,0,1,2,26,2,1,38],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7851f9f99ce7c2c8f237ce7e0f25b74e":[7,0,0,0,1,2,26,2,1,70],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7856028541d80d6749b88b1d8e2dd999":[7,0,0,0,1,2,26,2,1,56],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba7909afbd4e04b036c4d7301fed932635":[7,0,0,0,1,2,26,2,1,22],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba8042aff64bde7d3eef7074fd7f58e7a4":[7,0,0,0,1,2,26,2,1,47],
@@ -241,13 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d4c/classOutdoorPvPZM.html#a86a36c0f47027c8d5ac64090e308d98a":[6,0,2364,1],
 "dc/d4c/classOutdoorPvPZM.html#a8c0eb1c295f389273cf2b2c7b35c9538":[6,0,2364,5],
 "dc/d4c/classOutdoorPvPZM.html#a93105e3229db7798ad882fc7e538b250":[6,0,2364,6],
-"dc/d4c/classOutdoorPvPZM.html#a9842f1c5de04af4db3e0397839de7765":[6,0,2364,13],
-"dc/d4c/classOutdoorPvPZM.html#a98bfdd944bc51f9ed30b74e1cf3217b5":[6,0,2364,3],
-"dc/d4c/classOutdoorPvPZM.html#ab7e230cfa2f06fa450ca40c381491c85":[6,0,2364,8],
-"dc/d4c/classOutdoorPvPZM.html#aba24e6285ac45dd0594f557d5830ba7c":[6,0,2364,7],
-"dc/d4c/classOutdoorPvPZM.html#acd93bd13cf330ec86dde30ff9c6306de":[6,0,2364,11],
-"dc/d4c/classOutdoorPvPZM.html#ad5609bc0c13d193d16560045aa4b0c71":[6,0,2364,14],
-"dc/d4c/classOutdoorPvPZM.html#aff4124f54572e0812c39562fbc6390c3":[6,0,2364,12],
-"dc/d4c/classspell__pal__seal__of__command__aura.html":[6,0,3565],
-"dc/d4c/classspell__pal__seal__of__command__aura.html#a2052750b91de67b330a2ae6a190a5d4e":[6,0,3565,0]
+"dc/d4c/classOutdoorPvPZM.html#a9842f1c5de04af4db3e0397839de7765":[6,0,2364,13]
 };

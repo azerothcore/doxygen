@@ -1,5 +1,6 @@
 var NAVTREEINDEX65 =
 {
+"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#ab3dca17e0350d6d46a9069f97f2d12ef":[6,0,1598,0,3],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#acdcf4110b3815635ad173a70e7a1e603":[6,0,1598,0,2],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#ad2c596253d67d051f497a8d77859846d":[6,0,1598,0,4],
 "d2/d6c/classcache__commandscript.html":[6,0,834],
@@ -54,14 +55,14 @@ var NAVTREEINDEX65 =
 "d2/d6e/structVMAP_1_1AreaInfo.html#a1f45e5e030aaf5b16fb6c58097fa8b14":[6,0,10,1,0],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[6,0,10,1,6],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a6f60501d22be8c1d374a46e598d0f2e3":[5,0,29,1,6],
-"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,29,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[6,0,10,1,4],
+"d2/d6e/structVMAP_1_1AreaInfo.html#a76ac6ccec6ff67f16689a6735e644e07":[5,0,29,1,4],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[5,0,29,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a780bdbb606fe694941d2105e14a29d70":[6,0,10,1,2],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[5,0,29,1,1],
 "d2/d6e/structVMAP_1_1AreaInfo.html#a95c1c986b14dfeba867fa55e77553499":[6,0,10,1,1],
-"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,29,1,5],
 "d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[6,0,10,1,5],
+"d2/d6e/structVMAP_1_1AreaInfo.html#ab9e9a7658d5fb76be208835f786036b0":[5,0,29,1,5],
 "d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[6,0,10,1,3],
 "d2/d6e/structVMAP_1_1AreaInfo.html#aca4fada3b2062f74cf66cd34a63c0c86":[5,0,29,1,3],
 "d2/d6f/classgo__seer__of__zebhalak.html":[6,0,1177],
@@ -248,6 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d73/classScriptMgr.html#a3e3f18c2edb07cb138960db469e9cbac":[6,0,2527,74],
 "d2/d73/classScriptMgr.html#a3e4d909cf512cd1ff97def2f6a22e7a6":[6,0,2527,171],
 "d2/d73/classScriptMgr.html#a3eb42f085fd87a5243cfff42c19f3620":[6,0,2527,49],
-"d2/d73/classScriptMgr.html#a3eec7b4ee317d3417af3ce5e5fa3f198":[6,0,2527,241],
-"d2/d73/classScriptMgr.html#a3f5ba61c8f08caffe68f480d9d0f1a91":[6,0,2527,111]
+"d2/d73/classScriptMgr.html#a3eec7b4ee317d3417af3ce5e5fa3f198":[6,0,2527,241]
 };

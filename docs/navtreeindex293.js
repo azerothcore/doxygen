@@ -1,5 +1,12 @@
 var NAVTREEINDEX293 =
 {
+"db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20":[6,0,283,104],
+"db/dce/classAura.html#af9803e108cc68b115fec9043b03f1118":[6,0,283,49],
+"db/dce/classAura.html#afa8b3462e2d68da5a9972c6cbd637022":[6,0,283,20],
+"db/dce/classAura.html#afb6874ab08b221b2f1f9d7582c1c93be":[6,0,283,8],
+"db/dce/classAura.html#afb782970ace7a9385038481911d388fc":[6,0,283,92],
+"db/dce/classboss__lavanthor.html":[6,0,594],
+"db/dce/classboss__lavanthor.html#aa935ffe07f59db59b9b8484f22927026":[6,0,594,1],
 "db/dce/classboss__lavanthor.html#aae09ecbe56efac6538bdfb6120e0be40":[6,0,594,2],
 "db/dcf/MapUpdater_8h.html":[7,0,0,0,1,2,26,12],
 "db/dd1/classspell__gen__gadgetzan__transporter__backfire.html":[6,0,2977],
@@ -242,12 +249,5 @@ var NAVTREEINDEX293 =
 "db/dd5/classCreature.html#a0382ef78aac4e6940645479a3fae5c2d":[6,0,920,91],
 "db/dd5/classCreature.html#a0740d9c891653ddbeb0fd797464eaef6":[6,0,920,109],
 "db/dd5/classCreature.html#a0748bc52577a551d80702a9d156b5cc9":[6,0,920,217],
-"db/dd5/classCreature.html#a076aee1af76526550c5547c591b672fe":[6,0,920,295],
-"db/dd5/classCreature.html#a084bed55403b693b8803b427c1a0db42":[6,0,920,187],
-"db/dd5/classCreature.html#a0894426101ba5916d899a07627905a38":[6,0,920,92],
-"db/dd5/classCreature.html#a08fc34c69555dc63d9955e624392986c":[6,0,920,158],
-"db/dd5/classCreature.html#a096755f413dc56cc48c19631e0a28bcf":[6,0,920,305],
-"db/dd5/classCreature.html#a0985639e7886c553c1af84d8d8511697":[6,0,920,84],
-"db/dd5/classCreature.html#a0a2f8439b4136fe557e025d0321029af":[6,0,920,12],
-"db/dd5/classCreature.html#a0aa6b0526eeec473ca465cf4a1c23b31":[6,0,920,78]
+"db/dd5/classCreature.html#a076aee1af76526550c5547c591b672fe":[6,0,920,295]
 };

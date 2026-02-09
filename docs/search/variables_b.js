@@ -30,9 +30,10 @@ var searchData=
   ['knockdowntimer_27',['KnockdownTimer',['../d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#a235912a2cb78bd10b6b3a45c51ee0cff',1,'boss_drekthar::boss_drektharAI']]],
   ['known_5ftitle_28',['known_title',['../d4/dd8/structAchievementCriteriaData.html#a1bda3570b1adb636a60d8d94995adbcf',1,'AchievementCriteriaData']]],
   ['knownrecipes_29',['KnownRecipes',['../d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html#a1a44c7eb6dbf3a16e8d2db47821bb39a',1,'Acore::Hyperlinks::TradeskillLinkData']]],
-  ['kologarndoorguid_30',['KologarnDoorGUID',['../d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abb2602ef10a7f2172ab58171ca6ffc39',1,'instance_ulduar::instance_ulduar_InstanceMapScript']]],
-  ['koralondeath_31',['KoralonDeath',['../dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a544c022446c0ddb39797417271ec1259',1,'instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript']]],
-  ['krickcenterpos_32',['KrickCenterPos',['../dd/dac/pit__of__saron_8h.html#a24046ff0193d2913ae35aaa983b79978',1,'pit_of_saron.h']]],
-  ['kurenaiambusha_33',['kurenaiAmbushA',['../d0/d6a/zone__nagrand_8cpp.html#aa062949c44a2a3ecfbcdc3f2bfcac8c1',1,'zone_nagrand.cpp']]],
-  ['kurenaiambushb_34',['kurenaiAmbushB',['../d0/d6a/zone__nagrand_8cpp.html#ae406cbcbcb2947b1f5ac7604043506b8',1,'zone_nagrand.cpp']]]
+  ['kodoentry_30',['kodoEntry',['../db/dfb/spell__quest_8cpp.html#a26bc33fc85087584da8eb7da42abb8ea',1,'spell_quest.cpp']]],
+  ['kologarndoorguid_31',['KologarnDoorGUID',['../d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abb2602ef10a7f2172ab58171ca6ffc39',1,'instance_ulduar::instance_ulduar_InstanceMapScript']]],
+  ['koralondeath_32',['KoralonDeath',['../dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#a544c022446c0ddb39797417271ec1259',1,'instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript']]],
+  ['krickcenterpos_33',['KrickCenterPos',['../dd/dac/pit__of__saron_8h.html#a24046ff0193d2913ae35aaa983b79978',1,'pit_of_saron.h']]],
+  ['kurenaiambusha_34',['kurenaiAmbushA',['../d0/d6a/zone__nagrand_8cpp.html#aa062949c44a2a3ecfbcdc3f2bfcac8c1',1,'zone_nagrand.cpp']]],
+  ['kurenaiambushb_35',['kurenaiAmbushB',['../d0/d6a/zone__nagrand_8cpp.html#ae406cbcbcb2947b1f5ac7604043506b8',1,'zone_nagrand.cpp']]]
 ];

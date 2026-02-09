@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad95ba7ba12fda07f5930c7c223c14f90":[7,0,0,0,1,3,9,11,35,34],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ae85880434e6eca0282993c615ead7552":[7,0,0,0,1,3,9,11,35,10],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570aebfbd8d130fbd9189f33869fa00c80be":[7,0,0,0,1,3,9,11,35,19],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af475dcd791391d00772aba22b47140a6":[7,0,0,0,1,3,9,11,35,32],
@@ -100,11 +101,11 @@ var NAVTREEINDEX46 =
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#a9dbc4cc1830703c393fbeb9c0385b709":[6,0,653,0,3],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#ade379755d256c4c290e6dc8bbd862261":[6,0,653,0,1],
 "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html#af7780f467df92c9218700773d1257a8c":[6,0,653,0,2],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[6,0,3897],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[6,0,3897,0],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a3d4026e5208acb948c089a4bedba0de8":[6,0,3897,1],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a983cf678001efcbccc4b34a9ad919881":[6,0,3897,3],
-"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#af66dc1cba6aa7511c11a071ea9a381bb":[6,0,3897,2],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html":[6,0,3899],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a227cf7329d7dee564c3f8f9f67378ffe":[6,0,3899,0],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a3d4026e5208acb948c089a4bedba0de8":[6,0,3899,1],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#a983cf678001efcbccc4b34a9ad919881":[6,0,3899,3],
+"d1/ddd/classspell__teron__gorefiend__shadow__of__death.html#af66dc1cba6aa7511c11a071ea9a381bb":[6,0,3899,2],
 "d1/dde/pets__script__loader_8cpp.html":[7,0,0,0,1,3,8,6],
 "d1/dde/pets__script__loader_8cpp.html#a689a4efb7777f4164aee994745a0e2d2":[7,0,0,0,1,3,8,6,4],
 "d1/dde/pets__script__loader_8cpp.html#a9852812a043673e45884dca938eff157":[7,0,0,0,1,3,8,6,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa4ce8dd456d1667d5b96da9beb1ec8f70":[7,0,0,0,1,3,9,2,184,19],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa523ea369d4408b5472552c11fb141688":[7,0,0,0,1,3,9,2,184,12],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa52b3be737f0c64be0a50df0d27dd4cdf":[7,0,0,0,1,3,9,2,184,8],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa6004abff0487d8ba5e503f4181901ac6":[7,0,0,0,1,3,9,2,184,30],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa629d75d0385fcf074d0336f4aa776149":[7,0,0,0,1,3,9,2,184,24]
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa6004abff0487d8ba5e503f4181901ac6":[7,0,0,0,1,3,9,2,184,30]
 };

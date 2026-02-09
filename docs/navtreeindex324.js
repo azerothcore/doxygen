@@ -1,5 +1,15 @@
 var NAVTREEINDEX324 =
 {
+"dd/d27/structSmartAction.html#a39f72e36d00fdaa214d4f38195e48ee3":[6,0,2568,17],
+"dd/d27/structSmartAction.html#a3a9b33685d26bf9ba39469d411989851":[6,0,2568,59],
+"dd/d27/structSmartAction.html#a3bcbaf44bfb40f48f3a202765e41871e":[6,0,2568,186],
+"dd/d27/structSmartAction.html#a3c1ab76a3dc81fec21f28327dcf674ff":[6,0,2568,121],
+"dd/d27/structSmartAction.html#a3cace81063f401104ffbe3a120ff126b":[6,0,2568,296],
+"dd/d27/structSmartAction.html#a3e5b7fd7611d92071448e7355cbeba7c":[6,0,2568,299],
+"dd/d27/structSmartAction.html#a3e71e2a234985c7056b009edfeddc343":[6,0,2568,238],
+"dd/d27/structSmartAction.html#a3f42f2d1b59b3167632e17bad1f49db1":[6,0,2568,256],
+"dd/d27/structSmartAction.html#a3fb37b223722eb1a63edfbd8140b3804":[6,0,2568,52],
+"dd/d27/structSmartAction.html#a40c869c4a1d943b43048a232a9a97d32":[6,0,2568,0],
 "dd/d27/structSmartAction.html#a410d2acd26fa3235938826d95ae8d4fb":[6,0,2568,204],
 "dd/d27/structSmartAction.html#a4266b65cda766e539c175613f9da86e3":[6,0,2568,217],
 "dd/d27/structSmartAction.html#a42d460c85387880967b92e11db1ddd1e":[6,0,2568,174],
@@ -239,15 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d2a/classspell__item__book__of__glyph__mastery.html":[6,0,3241],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[6,0,3241,0],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a56326701447b3a88d9022ca1f1c184a6":[6,0,3241,2],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a92e3137bb92545876ca67028bcc86a4f":[6,0,3241,1],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a94d4155e98a4ac5764d8bfd705b05602":[6,0,3241,3],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a9b440dd8bf21b70d068021d05832a3fc":[6,0,3241,4],
-"dd/d2c/classTransactionTask.html":[6,0,4214],
-"dd/d2c/classTransactionTask.html#a13573f827891ad172847dc0e466b0b9e":[6,0,4214,0],
-"dd/d2c/classTransactionTask.html#a242f0cb47bc6b456b6bea9aa372df4b6":[6,0,4214,9],
-"dd/d2c/classTransactionTask.html#a28c9ca1d9d3fdc6a722dcec68e46a38f":[6,0,4214,4],
-"dd/d2c/classTransactionTask.html#a5d89109a06fa4fca3057b99bbfa84e58":[6,0,4214,6],
-"dd/d2c/classTransactionTask.html#a68bc982f025d40bbc3a7323cd8c96786":[6,0,4214,1],
-"dd/d2c/classTransactionTask.html#a84b48dbb670dd884e9b44ea53c8b0008":[6,0,4214,8],
-"dd/d2c/classTransactionTask.html#aa1c1df059d15fe2077ceea5cfb51ba22":[6,0,4214,3]
+"dd/d2a/classspell__item__book__of__glyph__mastery.html#a92e3137bb92545876ca67028bcc86a4f":[6,0,3241,1]
 };

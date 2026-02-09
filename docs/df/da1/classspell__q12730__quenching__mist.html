@@ -324,16 +324,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1954</span>        {</div>
-<div class="line"><span class="lineno"> 1955</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329">SPELL_FLICKERING_FLAMES</a>);</div>
-<div class="line"><span class="lineno"> 1956</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2003</span>        {</div>
+<div class="line"><span class="lineno"> 2004</span>            <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329">SPELL_FLICKERING_FLAMES</a>);</div>
+<div class="line"><span class="lineno"> 2005</span>        }</div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
 <div class="ttc" id="aclassUnit_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:5032</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329">SPELL_FLICKERING_FLAMES</a></div><div class="ttdeci">@ SPELL_FLICKERING_FLAMES</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1941</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329">SPELL_FLICKERING_FLAMES</a></div><div class="ttdeci">@ SPELL_FLICKERING_FLAMES</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1990</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05032">Unit::RemoveAurasDueToSpell()</a>, and <a class="el" href="../../#l01941">SPELL_FLICKERING_FLAMES</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05032">Unit::RemoveAurasDueToSpell()</a>, and <a class="el" href="../../#l01990">SPELL_FLICKERING_FLAMES</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01958">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02007">Register()</a>.</p>
 
 </div>
 </div>
@@ -387,16 +387,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1959</span>        {</div>
-<div class="line"><span class="lineno"> 1960</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../df/da1/classspell__q12730__quenching__mist.html#a2fab66e86d3c0207183db72ecbb6fc6c">spell_q12730_quenching_mist::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
-<div class="line"><span class="lineno"> 1961</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2008</span>        {</div>
+<div class="line"><span class="lineno"> 2009</span>            <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../df/da1/classspell__q12730__quenching__mist.html#a2fab66e86d3c0207183db72ecbb6fc6c">spell_q12730_quenching_mist::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
+<div class="line"><span class="lineno"> 2010</span>        }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_HEAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:71</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__q12730__quenching__mist_html_a2fab66e86d3c0207183db72ecbb6fc6c"><div class="ttname"><a href="../../df/da1/classspell__q12730__quenching__mist.html#a2fab66e86d3c0207183db72ecbb6fc6c">spell_q12730_quenching_mist::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:1953</div></div>
+<div class="ttc" id="aclassspell__q12730__quenching__mist_html_a2fab66e86d3c0207183db72ecbb6fc6c"><div class="ttname"><a href="../../df/da1/classspell__q12730__quenching__mist.html#a2fab66e86d3c0207183db72ecbb6fc6c">spell_q12730_quenching_mist::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2002</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01953">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02002">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>.</p>
 
 </div>
 </div>
@@ -425,12 +425,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1949</span>        {</div>
-<div class="line"><span class="lineno"> 1950</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329">SPELL_FLICKERING_FLAMES</a> });</div>
-<div class="line"><span class="lineno"> 1951</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1998</span>        {</div>
+<div class="line"><span class="lineno"> 1999</span>            <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a7662ed5f345e47d80a29b02f36b82525a55634f3c6218e1e6541f9a363b6c1329">SPELL_FLICKERING_FLAMES</a> });</div>
+<div class="line"><span class="lineno"> 2000</span>        }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01941">SPELL_FLICKERING_FLAMES</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01990">SPELL_FLICKERING_FLAMES</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -443,7 +443,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/da1/classspell__q12730__quenching__mist.html">spell_q12730_quenching_mist</a></li>
-    <li class="footer">Generated on Sun Feb 8 2026 06:45:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 9 2026 07:01:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

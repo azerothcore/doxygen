@@ -1,5 +1,6 @@
 var NAVTREEINDEX88 =
 {
+"d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6":[7,0,0,0,1,2,38,0,85,1,19],
 "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca":[7,0,0,0,1,2,38,0,85,1,3],
 "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e":[7,0,0,0,1,2,38,0,85,1,4],
 "d2/df5/UnitScript_8h.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57":[7,0,0,0,1,2,38,0,85,1,18],
@@ -22,11 +23,11 @@ var NAVTREEINDEX88 =
 "d2/df5/classspell__hos__dark__matter.html#abe52dbfdbd42c860e0a79873dd19e22d":[6,0,3130,2],
 "d2/df5/classspell__hos__dark__matter.html#ad8035b1b676751fcc299e4ad8df62ed8":[6,0,3130,1],
 "d2/df5/classspell__hos__dark__matter.html#af61220cb739baef9b33aecddb1cfe5ea":[6,0,3130,0],
-"d2/df5/classspell__vehicle__grab__pyrite.html":[6,0,3987],
-"d2/df5/classspell__vehicle__grab__pyrite.html#a8fc8712a76939dea6831a9eb5b95f946":[6,0,3987,3],
-"d2/df5/classspell__vehicle__grab__pyrite.html#a924ae640d448da777ce3ecb059c1c9b6":[6,0,3987,1],
-"d2/df5/classspell__vehicle__grab__pyrite.html#a9580f04e1543262026818f0944bb96c3":[6,0,3987,0],
-"d2/df5/classspell__vehicle__grab__pyrite.html#ac05e58e9b5618b1f079bd1c4924a0f9f":[6,0,3987,2],
+"d2/df5/classspell__vehicle__grab__pyrite.html":[6,0,3989],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a8fc8712a76939dea6831a9eb5b95f946":[6,0,3989,3],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a924ae640d448da777ce3ecb059c1c9b6":[6,0,3989,1],
+"d2/df5/classspell__vehicle__grab__pyrite.html#a9580f04e1543262026818f0944bb96c3":[6,0,3989,0],
+"d2/df5/classspell__vehicle__grab__pyrite.html#ac05e58e9b5618b1f079bd1c4924a0f9f":[6,0,3989,2],
 "d2/df6/DBCStores_8h.html":[7,0,0,0,1,2,14,1],
 "d2/df6/DBCStores_8h.html#a00fc8b9059a4c808fe769f8e800c2919":[7,0,0,0,1,2,14,1,69],
 "d2/df6/DBCStores_8h.html#a01782477d22431b146db05c572f522da":[7,0,0,0,1,2,14,1,120],
@@ -248,6 +249,5 @@ var NAVTREEINDEX88 =
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#ac54fa660cf90d16e8088d15d2faf59c9":[6,0,1618,0,1],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#aca7309b36c531ffdbdee842a69d11e84":[6,0,1618,0,6],
 "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#ace215df8a11c009aa5b4f29ffa6ec5e3":[6,0,1618,0,9],
-"d2/dfa/classnpc__raging__spirit.html":[6,0,2075],
-"d2/dfa/classnpc__raging__spirit.html#ab572a667f6ddd0d4051fe424c8d9e21c":[6,0,2075,2]
+"d2/dfa/classnpc__raging__spirit.html":[6,0,2075]
 };

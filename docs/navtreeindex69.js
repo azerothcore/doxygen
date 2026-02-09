@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d8f/structScriptInfo.html#a26903db7c2ba553f6b0e37049f37cb05":[6,0,2526,47],
 "d2/d8f/structScriptInfo.html#a2b0a7513bcfe20e096cbf02b4caf009f":[6,0,2526,69],
 "d2/d8f/structScriptInfo.html#a333d0c4e4ab303e5b6ab2cb8b953d7ab":[6,0,2526,68],
 "d2/d8f/structScriptInfo.html#a3d28f689741a523173d1b50f74c62f8a":[6,0,2526,39],
@@ -134,10 +135,10 @@ var NAVTREEINDEX69 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2759,5],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2759,4],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2759,3],
-"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4069],
-"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4069,1],
-"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4069,2],
-"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4069,0],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4071],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4071,1],
+"d2/d93/classspell__winter__wondervolt__trap.html#aa0679665ba2c496e0a5aa5f6864d7230":[6,0,4071,2],
+"d2/d93/classspell__winter__wondervolt__trap.html#aebd700897688157ca62405c92fe58680":[6,0,4071,0],
 "d2/d95/zone__crystalsong__forest_8cpp.html":[7,0,0,0,1,3,5,16],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,16,4],
 "d2/d95/zone__crystalsong__forest_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,16,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d9d/instance__karazhan_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,4,13,8],
 "d2/d9d/instance__karazhan_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,4,13,6],
 "d2/d9d/instance__karazhan_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,4,13,7],
-"d2/d9d/instance__karazhan_8cpp.html#a9dacd53568280ba4bb7d0a7c7f65f6cf":[7,0,0,0,1,3,2,4,13,9],
-"d2/d9d/instance__karazhan_8cpp.html#adc62e82adedf1c9e8d47332aaa7a4cf5":[7,0,0,0,1,3,2,4,13,5]
+"d2/d9d/instance__karazhan_8cpp.html#a9dacd53568280ba4bb7d0a7c7f65f6cf":[7,0,0,0,1,3,2,4,13,9]
 };

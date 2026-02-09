@@ -1,5 +1,7 @@
 var spell__quest_8cpp =
 [
+    [ "spell_q5561_kodo_roundup_kodo_kombobulator", "d3/de2/classspell__q5561__kodo__roundup__kodo__kombobulator.html", "d3/de2/classspell__q5561__kodo__roundup__kodo__kombobulator" ],
+    [ "spell_q5561_kodo_roundup_kodo_kombobulator_despawn", "dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn.html", "dd/de2/classspell__q5561__kodo__roundup__kodo__kombobulator__despawn" ],
     [ "spell_q11065_wrangle_some_aether_rays", "dd/def/classspell__q11065__wrangle__some__aether__rays.html", "dd/def/classspell__q11065__wrangle__some__aether__rays" ],
     [ "spell_q11065_wrangle_some_aether_rays_aura", "d1/d69/classspell__q11065__wrangle__some__aether__rays__aura.html", "d1/d69/classspell__q11065__wrangle__some__aether__rays__aura" ],
     [ "spell_image_of_drakuru_reagent_check", "db/d24/classspell__image__of__drakuru__reagent__check.html", "db/d24/classspell__image__of__drakuru__reagent__check" ],
@@ -312,5 +314,6 @@ var spell__quest_8cpp =
     ] ],
     [ "AddSC_quest_spell_scripts", "db/dfb/spell__quest_8cpp.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
     [ "DESPAWN_TIME", "db/dfb/spell__quest_8cpp.html#a625d1892e04f12a55350f01fc8abb07d", null ],
+    [ "kodoEntry", "db/dfb/spell__quest_8cpp.html#a26bc33fc85087584da8eb7da42abb8ea", null ],
     [ "ShooterPos", "db/dfb/spell__quest_8cpp.html#a6fd831c15d53eb8662709430ed88d7a3", null ]
 ];

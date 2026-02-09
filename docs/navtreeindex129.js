@@ -1,5 +1,10 @@
 var NAVTREEINDEX129 =
 {
+"d4/d7b/boss__nefarian_8cpp.html#adf13623d55f10ef40921c7b99c739897a09833188939fe77088ed4fb2cfedb875":[7,0,0,0,1,3,2,1,2,6,18,0],
+"d4/d7b/boss__nefarian_8cpp.html#adf13623d55f10ef40921c7b99c739897a6596b4c264ab163a34c17c6ea798adcb":[7,0,0,0,1,3,2,1,2,6,18,1],
+"d4/d7b/boss__nefarian_8cpp.html#adfa10abf5147b705424851c637956f84":[7,0,0,0,1,3,2,1,2,6,16],
+"d4/d7b/boss__nefarian_8cpp.html#adfa10abf5147b705424851c637956f84a406ea878db72c029e757f6cfc9804118":[7,0,0,0,1,3,2,1,2,6,16,1],
+"d4/d7b/boss__nefarian_8cpp.html#adfa10abf5147b705424851c637956f84af1faeb7f45a958be04b8e98454512450":[7,0,0,0,1,3,2,1,2,6,16,0],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,2,6,14],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0aa540ef524cc39bb6cbece66204482d":[7,0,0,0,1,3,2,1,2,6,14,21],
 "d4/d7b/boss__nefarian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0f85c6b0c7e9fc82c3ce4d36ecad809c":[7,0,0,0,1,3,2,1,2,6,14,25],
@@ -47,13 +52,13 @@ var NAVTREEINDEX129 =
 "d4/d7f/classboss__thorim__trap.html#afd4ee85d73354b790c0d55abbfad75fd":[6,0,748,2],
 "d4/d7f/structPointOfInterestLocale.html":[6,0,2428],
 "d4/d7f/structPointOfInterestLocale.html#a624a1c1204cbc15acfc810a7720b8ea0":[6,0,2428,0],
-"d4/d80/structWMOAreaTableEntry.html":[6,0,4320],
-"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[6,0,4320,3],
-"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[6,0,4320,2],
-"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[6,0,4320,4],
-"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4320,5],
-"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4320,1],
-"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4320,0],
+"d4/d80/structWMOAreaTableEntry.html":[6,0,4322],
+"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[6,0,4322,3],
+"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[6,0,4322,2],
+"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[6,0,4322,4],
+"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4322,5],
+"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4322,1],
+"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4322,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[6,0,627,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[6,0,627,0,8],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[6,0,627,0,3],
@@ -244,10 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d81/boss__faction__champions_8cpp.html#a704df41bc78df4d7a7b69667678bd967a0c7b636d146fd0867dace071e49f48d3":[7,0,0,0,1,3,5,2,1,1,63,0],
 "d4/d81/boss__faction__champions_8cpp.html#a704df41bc78df4d7a7b69667678bd967af93c5ad79f6b283408944f28a4bef144":[7,0,0,0,1,3,5,2,1,1,63,1],
 "d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269e":[7,0,0,0,1,3,5,2,1,1,52],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269ea1cfa54c93b2929e2e740d8a99465d59f":[7,0,0,0,1,3,5,2,1,1,52,3],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269ea287a9ea15b7f6c77548443f528b05273":[7,0,0,0,1,3,5,2,1,1,52,2],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaaf085a0eea027f75c291005b97cb46bd":[7,0,0,0,1,3,5,2,1,1,52,0],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf315f19cb8360fc7ddd7799ed823ab81":[7,0,0,0,1,3,5,2,1,1,52,5],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf4b3b7a5e8b4481dcb60a25093408bb2":[7,0,0,0,1,3,5,2,1,1,52,1],
-"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269eaf95e858c15a693439ecb90ffa84284f5":[7,0,0,0,1,3,5,2,1,1,52,4]
+"d4/d81/boss__faction__champions_8cpp.html#a826eb113251b07efcec027971114269ea1cfa54c93b2929e2e740d8a99465d59f":[7,0,0,0,1,3,5,2,1,1,52,3]
 };

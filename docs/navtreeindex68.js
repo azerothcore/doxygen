@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"d2/d7e/boss__pandemonius_8cpp.html#a5bd342133be8c2137b831460acc9298ca2d7b9fecb06ff3fa25fd746043075fc9":[7,0,0,0,1,3,7,0,1,1,3,0],
 "d2/d7e/boss__pandemonius_8cpp.html#a5bd342133be8c2137b831460acc9298ca6af861bdf5e1db9d3c51b7d3ceb1b984":[7,0,0,0,1,3,7,0,1,1,3,1],
 "d2/d7e/boss__pandemonius_8cpp.html#a5cd88660f9332db8324b7318a2f0ed1a":[7,0,0,0,1,3,7,0,1,1,9],
 "d2/d7e/boss__pandemonius_8cpp.html#a8f4e0f917997376d638438d41f1d7d89":[7,0,0,0,1,3,7,0,1,1,6],
@@ -96,8 +97,8 @@ var NAVTREEINDEX68 =
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[5,0,1,5,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
 "d2/d8a/TicketScript_8cpp.html":[7,0,0,0,1,2,38,0,80],
 "d2/d8a/TicketScript_8cpp.html#a3455c8aecfa91396c5eb215ecbce5583":[7,0,0,0,1,2,38,0,80,0],
 "d2/d8a/classat__dragonspire__hall.html":[6,0,218],
@@ -147,8 +148,8 @@ var NAVTREEINDEX68 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2104],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2104,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2104,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d8f/structScriptInfo.html#a21b3112f265998835d219f7a0fc1fae3":[6,0,2526,75],
 "d2/d8f/structScriptInfo.html#a24be771d9b3ac244390e4bd4d7abefad":[6,0,2526,23],
 "d2/d8f/structScriptInfo.html#a24e44f5393129a5016f4207c556fdb37":[6,0,2526,53],
-"d2/d8f/structScriptInfo.html#a25a1f2377326c7581ab855a84c0ff127":[6,0,2526,62],
-"d2/d8f/structScriptInfo.html#a26903db7c2ba553f6b0e37049f37cb05":[6,0,2526,47]
+"d2/d8f/structScriptInfo.html#a25a1f2377326c7581ab855a84c0ff127":[6,0,2526,62]
 };

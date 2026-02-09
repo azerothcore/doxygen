@@ -1,5 +1,9 @@
 var NAVTREEINDEX316 =
 {
+"dc/dbb/namespaceWMO.html":[5,0,31],
+"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7],
+"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18],
+"dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,7,13],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a166f226fccae20bae418e894a1786e67":[7,0,0,0,1,3,2,16,7,13,5],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a17b3f7ce0f4341cf08035090bd0ca78d":[7,0,0,0,1,3,2,16,7,13,3],
 "dc/dbc/boss__mandokir_8cpp.html#a16774215bba3b38580ea51987d64cff1a1e6ef792a2053eb1a67a79c9f9e284e5":[7,0,0,0,1,3,2,16,7,13,1],
@@ -241,13 +245,9 @@ var NAVTREEINDEX316 =
 "dc/dca/classspell__item__recall.html#a59641895cead08de4a4503262505ee73":[6,0,3316,2],
 "dc/dca/classspell__item__recall.html#a6bc9791d0f08440e19b89daa9b65892c":[6,0,3316,1],
 "dc/dca/classspell__item__recall.html#a738e105a48f6c603f3d9a690f44b8745":[6,0,3316,0],
-"dc/dcb/classnpc__jungle__punch__target.html":[6,0,1908],
-"dc/dcb/classnpc__jungle__punch__target.html#a69220634d9d6b84e464cdc4e0cba91a7":[6,0,1908,1],
-"dc/dcb/classnpc__jungle__punch__target.html#abb38ccb55abfe0f48f360469031c6902":[6,0,1908,2],
-"dc/dcb/structnpc__jenny.html":[6,0,1907],
-"dc/dcb/structnpc__jenny.html#a8700091c82bfff473f3d5563deb69e0b":[6,0,1907,1],
-"dc/dcb/structnpc__jenny.html#aa98caf8b706551470c943b4b722a85ae":[6,0,1907,5],
-"dc/dcb/structnpc__jenny.html#aab8c540ebb90ebbaef961b1feb3013a3":[6,0,1907,2],
-"dc/dcb/structnpc__jenny.html#ab845ba4551900a03c5a995d348a1be55":[6,0,1907,0],
-"dc/dcb/structnpc__jenny.html#ac2115c122c2eac2d5a36d1795d1e6bf0":[6,0,1907,6]
+"dc/dca/structnpc__aged__dying__ancient__kodo.html":[6,0,1575],
+"dc/dca/structnpc__aged__dying__ancient__kodo.html#a24a0324d7a6bd4d05da76469b14720ac":[6,0,1575,4],
+"dc/dca/structnpc__aged__dying__ancient__kodo.html#a2bed1b0965414682dec6f6e4b2872d33":[6,0,1575,2],
+"dc/dca/structnpc__aged__dying__ancient__kodo.html#a760b1c45119893fc7e792139b2e9d948":[6,0,1575,3],
+"dc/dca/structnpc__aged__dying__ancient__kodo.html#a8707efb78e29b5a3443b0f4d9ee1798b":[6,0,1575,0]
 };

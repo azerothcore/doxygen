@@ -7,6 +7,7 @@ var classgobject__commandscript =
     [ "HandleGameObjectAddTempCommand", "d1/da2/classgobject__commandscript.html#a49908d7c180d778c43702563add17d2d", null ],
     [ "HandleGameObjectDeleteCommand", "d1/da2/classgobject__commandscript.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
     [ "HandleGameObjectInfoCommand", "d1/da2/classgobject__commandscript.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectLoadCommand", "d1/da2/classgobject__commandscript.html#a1d364680fd9c8f2be42e899e9e091676", null ],
     [ "HandleGameObjectMoveCommand", "d1/da2/classgobject__commandscript.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
     [ "HandleGameObjectNearCommand", "d1/da2/classgobject__commandscript.html#a156f293b3bf9c7439b62814ee8f27650", null ],
     [ "HandleGameObjectRespawn", "d1/da2/classgobject__commandscript.html#aafed57aa556c8cdc0c380185b056d705", null ],

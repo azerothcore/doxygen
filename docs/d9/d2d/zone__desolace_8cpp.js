@@ -2,8 +2,7 @@ var zone__desolace_8cpp =
 [
     [ "npc_cork_gizelton", "d0/dae/classnpc__cork__gizelton.html", "d0/dae/classnpc__cork__gizelton" ],
     [ "npc_cork_gizelton::npc_cork_gizeltonAI", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI" ],
-    [ "npc_aged_dying_ancient_kodo", "dc/d5a/classnpc__aged__dying__ancient__kodo.html", "dc/d5a/classnpc__aged__dying__ancient__kodo" ],
-    [ "npc_aged_dying_ancient_kodo::npc_aged_dying_ancient_kodoAI", "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI.html", "df/d49/structnpc__aged__dying__ancient__kodo_1_1npc__aged__dying__ancient__kodoAI" ],
+    [ "npc_aged_dying_ancient_kodo", "dc/dca/structnpc__aged__dying__ancient__kodo.html", "dc/dca/structnpc__aged__dying__ancient__kodo" ],
     [ "Caravan", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728", [
       [ "QUEST_BODYGUARD_FOR_HIRE", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
       [ "QUEST_GIZELTON_CARAVAN", "d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],

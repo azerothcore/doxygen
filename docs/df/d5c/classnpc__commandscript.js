@@ -13,6 +13,7 @@ var classnpc__commandscript =
     [ "HandleNpcFollowCommand", "df/d5c/classnpc__commandscript.html#a548ef7cacfcc92ac808ec0d41d51046b", null ],
     [ "HandleNpcGuidCommand", "df/d5c/classnpc__commandscript.html#a4594e04a33f25906d542a3154ca999d6", null ],
     [ "HandleNpcInfoCommand", "df/d5c/classnpc__commandscript.html#a99754050720ac6703d09ca3e2d1007ff", null ],
+    [ "HandleNpcLoadCommand", "df/d5c/classnpc__commandscript.html#acfcb450c5bb9b69c43e8eac277d411a7", null ],
     [ "HandleNpcMoveCommand", "df/d5c/classnpc__commandscript.html#a55d07e5a09c90c1327aee78559640394", null ],
     [ "HandleNpcNearCommand", "df/d5c/classnpc__commandscript.html#aa95dc7156bbca64a885882fc3cbbdacb", null ],
     [ "HandleNpcPlayEmoteCommand", "df/d5c/classnpc__commandscript.html#a598bba06df8cdb2e3012b429e444b5f1", null ],

@@ -245,9 +245,9 @@ var NAVTREEINDEX9 =
 "d0/d79/classspell__item__shimmering__vessel.html#a3ca7b1dd1187fd39e362b3451b246a4c":[6,0,3329,2],
 "d0/d79/classspell__item__shimmering__vessel.html#aa9743f357b9800ab2990fb584011b0a6":[6,0,3329,1],
 "d0/d79/classspell__item__shimmering__vessel.html#ab146c4026bc8ad129bb3d421891d344b":[6,0,3329,0],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html":[6,0,3794],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a278a1eb6d5f856a620f5a33de294b0ec":[6,0,3794,0],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a46ba800f3a3512951b83e428bc5373b9":[6,0,3794,2],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a4a59d431c7d7607e614c4ec035e3acf7":[6,0,3794,3],
-"d0/d79/classspell__scholomance__boon__of__life__aura.html#a8300f726a41882e3d3f54adc0e5bfb29":[6,0,3794,1]
+"d0/d79/classspell__scholomance__boon__of__life__aura.html":[6,0,3796],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a278a1eb6d5f856a620f5a33de294b0ec":[6,0,3796,0],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a46ba800f3a3512951b83e428bc5373b9":[6,0,3796,2],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a4a59d431c7d7607e614c4ec035e3acf7":[6,0,3796,3],
+"d0/d79/classspell__scholomance__boon__of__life__aura.html#a8300f726a41882e3d3f54adc0e5bfb29":[6,0,3796,1]
 };

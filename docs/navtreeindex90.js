@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a94fdd0778818fcc6a8b818d38dde6f75":[6,0,1924,2],
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html":[6,0,3726],
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2c2b96f1c00da9884ec9d01fe897c8c1":[6,0,3726,2],
 "d3/d09/classspell__q13291__q13292__q13239__q13261__frostbrood__skytalon__grab__decoy.html#a2ea424e6c740305340001b1c09bfec91":[6,0,3726,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d0b/namespaceAcore.html#a2de9525f5b0c56d1f592f8c63f21f52c":[5,0,1,151],
 "d3/d0b/namespaceAcore.html#a31c35cb4c5901c4bdb56be356d5ab9b3":[5,0,1,144],
 "d3/d0b/namespaceAcore.html#a31fef0ae214e75ee3251ee75539b5933":[5,0,1,156],
-"d3/d0b/namespaceAcore.html#a32c972cafca136b88de5b298d6cba338":[5,0,1,139],
-"d3/d0b/namespaceAcore.html#a339e193b2696d368e3fd5ba8ac348ba9":[5,0,1,177]
+"d3/d0b/namespaceAcore.html#a32c972cafca136b88de5b298d6cba338":[5,0,1,139]
 };

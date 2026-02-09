@@ -1,6 +1,7 @@
 var NAVTREEINDEX100 =
 {
 "d3/d69/structAcore_1_1PlayerSearcher.html#a6dd83612b7f0d00035a7efb8d970afc6":[5,0,1,109,5],
+"d3/d69/structAcore_1_1PlayerSearcher.html#a6dd83612b7f0d00035a7efb8d970afc6":[6,0,0,97,5],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[6,0,0,97,4],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a70b071a2fccb4ff29fd614d1447e87ad":[5,0,1,109,4],
 "d3/d69/structAcore_1_1PlayerSearcher.html#a7247fcab3841996ed5d699696fb21557":[6,0,0,97,0],
@@ -25,10 +26,10 @@ var NAVTREEINDEX100 =
 "d3/d6d/classAcore_1_1RespawnDo.html#a23408bf4da497d1007e4e88e0d9c0e19":[5,0,1,115,2],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[5,0,1,115,4],
 "d3/d6d/classAcore_1_1RespawnDo.html#a4551ca2e0fdb6540a724c9c2b43484c6":[6,0,0,103,4],
-"d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[5,0,1,115,3],
 "d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[6,0,0,103,3],
-"d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[6,0,0,103,0],
+"d3/d6d/classAcore_1_1RespawnDo.html#a66335f45bb1f3c770887b263e9d84236":[5,0,1,115,3],
 "d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[5,0,1,115,0],
+"d3/d6d/classAcore_1_1RespawnDo.html#a79f6424f2849c4c05998fe29a8510aeb":[6,0,0,103,0],
 "d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[5,0,1,115,1],
 "d3/d6d/classAcore_1_1RespawnDo.html#ac15ff63f29e313556b8f66e0cd80514f":[6,0,0,103,1],
 "d3/d6d/classnpc__bessy.html":[6,0,1646],
@@ -218,10 +219,10 @@ var NAVTREEINDEX100 =
 "d3/d78/classspell__novos__summon__minions.html#a71b28156c628aacbc6cb481038c0e76c":[6,0,3518,1],
 "d3/d78/classspell__novos__summon__minions.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c":[6,0,3518,3],
 "d3/d78/classspell__novos__summon__minions.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa":[6,0,3518,0],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html":[6,0,3939],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a19221c8453f23a7d384f6a2cb24c2fc2":[6,0,3939,2],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a71638bdecb0f580dceff7858441056d8":[6,0,3939,0],
-"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a741227928e07585b156ec716ae8b13da":[6,0,3939,1],
+"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html":[6,0,3941],
+"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a19221c8453f23a7d384f6a2cb24c2fc2":[6,0,3941,2],
+"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a71638bdecb0f580dceff7858441056d8":[6,0,3941,0],
+"d3/d78/classspell__the__lich__king__teleport__to__frostmourne__hc.html#a741227928e07585b156ec716ae8b13da":[6,0,3941,1],
 "d3/d79/boss__falric_8cpp.html":[7,0,0,0,1,3,5,4,1,0],
 "d3/d79/boss__falric_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea":[7,0,0,0,1,3,5,4,1,0,5],
 "d3/d79/boss__falric_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,1,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX100 =
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,15,7],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca5df32fcd69941eeba4aafb2097013c09":[7,0,0,0,1,3,5,6,15,7,6],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca747c93f2cea8d2889bd57453f2cb2cbe":[7,0,0,0,1,3,5,6,15,7,1],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a9a20f10d5b17f4f93b0171f70ede42":[7,0,0,0,1,3,5,6,15,7,3],
-"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca928dc3a2f23f4796c151995c1f82007f":[7,0,0,0,1,3,5,6,15,7,0]
+"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a9a20f10d5b17f4f93b0171f70ede42":[7,0,0,0,1,3,5,6,15,7,3]
 };

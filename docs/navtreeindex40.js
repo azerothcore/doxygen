@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea44e12d41e08bdc27e6c7736e593ad8e1":[7,0,0,0,1,2,16,10,5,52,9],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea45d2a58d49ab909fd6a6e78467f7ca0d":[7,0,0,0,1,2,16,10,5,52,5],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea49e9d4df8d30a4fa19a5d422dbb2fb41":[7,0,0,0,1,2,16,10,5,52,24],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea5aad5ea92b88fa48fb05a367e6d70bb8":[7,0,0,0,1,2,16,10,5,52,30],
@@ -184,14 +185,14 @@ var NAVTREEINDEX40 =
 "d1/db0/classspell__item__multiphase__goggles.html#aa93b45e31c33caf3ea51a26846566b34":[6,0,3302,2],
 "d1/db1/UnitAI_8cpp.html":[7,0,0,0,1,2,3,0,14],
 "d1/db1/UnitAI_8cpp.html#a7147e15125e75e9e1624cd480f4afb5f":[7,0,0,0,1,2,3,0,14,0],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html":[6,0,3966],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[6,0,3966,2],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[6,0,3966,1],
-"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[6,0,3966,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[6,0,4072],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[6,0,4072,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[6,0,4072,1],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[6,0,4072,2],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html":[6,0,3968],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[6,0,3968,2],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[6,0,3968,1],
+"d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[6,0,3968,0],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[6,0,4074],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[6,0,4074,0],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[6,0,4074,1],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[6,0,4074,2],
 "d1/db2/classspell__item__mirrens__drinking__hat.html":[6,0,3300],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a14df2ed73118826254a6ffa923063f6c":[6,0,3300,0],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a1b20ba3fe209ebf0100f32d4013f2d08":[6,0,3300,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/db6/GuildScript_8cpp.html#af7c126caabb7b664b2a28086b5f7737e":[7,0,0,0,1,2,38,0,55,0],
 "d1/db7/DatabaseLoader_8h.html":[7,0,0,0,1,1,0,7],
 "d1/db7/classspell__q4735__collect__rookery__egg.html":[6,0,3732],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a16983545e25f3e02064e2b3d573b2bb8":[6,0,3732,0],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a83c48e1c42a6a6dd892f0f4d6a20687b":[6,0,3732,4]
+"d1/db7/classspell__q4735__collect__rookery__egg.html#a16983545e25f3e02064e2b3d573b2bb8":[6,0,3732,0]
 };

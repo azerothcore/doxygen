@@ -1,5 +1,12 @@
 var NAVTREEINDEX247 =
 {
+"d9/df5/structboss__sartharion__dragonAI.html#ac77eaacb9a5360802e862c95e54ec8ef":[6,0,688,0],
+"d9/df5/structboss__sartharion__dragonAI.html#aeb49e63300a317f0e969159266fd8ea1":[6,0,688,2],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html":[6,0,1330,0],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a04d36b66a5570d03bb95ef2225a5c902":[6,0,1330,0,0],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a1dfd39d65b16bb6e1373fe83ba4053c5":[6,0,1330,0,5],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a23485a35f0aa2f2ffad53398882d163a":[6,0,1330,0,8],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a3d1611870945cd0c8cd7d4e7728cfd84":[6,0,1330,0,1],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a567ac5d9a17514ede5b84c5d78204072":[6,0,1330,0,3],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a74809429d3d2b1db5374dacf34d8a1b7":[6,0,1330,0,7],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[6,0,1330,0,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX247 =
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2af0c38948ad85b3bad780f0ea4ca871c6":[7,0,0,0,1,3,5,9,2,16,7,39],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2af1aafcd177520eb6ebf3e6a27e885b66":[7,0,0,0,1,3,5,9,2,16,7,20],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2af449b9acf59d55faafe6772c4b0b35ae":[7,0,0,0,1,3,5,9,2,16,7,9],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91":[7,0,0,0,1,3,5,9,2,16,7,36],
-"d9/df7/ulduar_8h.html#ad3805439b87317fde3f002c977899982":[7,0,0,0,1,3,5,9,2,16,2],
-"d9/df7/ulduar_8h.html#ad965a114fc35d453ec5c7a77d1251c8f":[7,0,0,0,1,3,5,9,2,16,10],
-"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbf":[7,0,0,0,1,3,5,9,2,16,4],
-"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa0bfbc3fb930e3614494c23eed66e8141":[7,0,0,0,1,3,5,9,2,16,4,2],
-"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa101a09658527e93746d37db64ff57d60":[7,0,0,0,1,3,5,9,2,16,4,12],
-"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa11376879b9fac35d2f7e043c766516a8":[7,0,0,0,1,3,5,9,2,16,4,17],
-"d9/df7/ulduar_8h.html#aefe442e31fe12a6b87afdf94f88d4bbfa15b8f0ad566e2ee3517480eb04ceee1b":[7,0,0,0,1,3,5,9,2,16,4,15]
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91":[7,0,0,0,1,3,5,9,2,16,7,36]
 };
