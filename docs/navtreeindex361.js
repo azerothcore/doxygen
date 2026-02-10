@@ -1,5 +1,9 @@
 var NAVTREEINDEX361 =
 {
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46af9c43b17dd5136a8eaeb30135047eac0":[7,0,0,0,1,2,41,9,65,16],
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46afa45851285099c233820be4d1a526892":[7,0,0,0,1,2,41,9,65,27],
+"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527":[7,0,0,0,1,2,41,9,68],
+"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527a2f157d7fe9a40c8a3444b941eb1e53b0":[7,0,0,0,1,2,41,9,68,0],
 "de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3":[7,0,0,0,1,2,41,9,68,2],
 "de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860":[7,0,0,0,1,2,41,9,68,4],
 "de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c":[7,0,0,0,1,2,41,9,68,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX361 =
 "de/d3a/classCasterAI.html":[6,0,842],
 "de/d3a/classCasterAI.html#a0fa50ac9bd99ff0c2c7e78f03a737090":[6,0,842,4],
 "de/d3a/classCasterAI.html#a28386fd1a275c002445e5eaf90314a3d":[6,0,842,1],
-"de/d3a/classCasterAI.html#a2a24cdc24b665c52363dae587572fc4d":[6,0,842,2],
-"de/d3a/classCasterAI.html#a561dbc6713a8ec58ef6b23ae4d04d81b":[6,0,842,5],
-"de/d3a/classCasterAI.html#ad436decd8b3da4323cf3fdb4a9e5a849":[6,0,842,3],
-"de/d3a/classCasterAI.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e":[6,0,842,0],
-"de/d3a/classat__karazhan__mirkblood__approach.html":[6,0,232]
+"de/d3a/classCasterAI.html#a2a24cdc24b665c52363dae587572fc4d":[6,0,842,2]
 };

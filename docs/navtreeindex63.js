@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d53/structnpc__hallows__end__soh.html#aa0b3e5d278155c0d4cf9941121641a8a":[6,0,1834,2],
 "d2/d53/structnpc__hallows__end__soh.html#aaf7522e9948401e2e747f43e80e9b38f":[6,0,1834,19],
 "d2/d53/structnpc__hallows__end__soh.html#ac199d3270e68f559359d6bc60c5d02f2":[6,0,1834,14],
 "d2/d53/structnpc__hallows__end__soh.html#ac4eb58476c010c12319ea4b1f9e36b93":[6,0,1834,7],
@@ -113,8 +114,8 @@ var NAVTREEINDEX63 =
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,32,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,12,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,32,0,3,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,12,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,32,0,3,2],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,12,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1659],
 "d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[6,0,1659,1],
 "d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[6,0,1659,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cacf5f9d036d9ca87af279cd7f9f78d7b8":[7,0,0,0,1,3,4,1,1,5,12,6],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cad148d388b2eb2cf16eaa4752434aa440":[7,0,0,0,1,3,4,1,1,5,12,15],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cad386d56d656f8bd3deb47eb673d18f10":[7,0,0,0,1,3,4,1,1,5,12,12],
-"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cad9ae3351a9b2235046db8d07d779d73e":[7,0,0,0,1,3,4,1,1,5,12,16],
-"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cadb683926e50175cbeba43215a5e558b6":[7,0,0,0,1,3,4,1,1,5,12,0]
+"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cad9ae3351a9b2235046db8d07d779d73e":[7,0,0,0,1,3,4,1,1,5,12,16]
 };

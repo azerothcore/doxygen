@@ -1,6 +1,5 @@
 var NAVTREEINDEX213 =
 {
-"d8/d37/LoginDatabase_8h.html":[7,0,0,0,1,1,0,0,3],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fb":[7,0,0,0,1,1,0,0,3,1],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba00572e471f95be8cde9fe9cacd9a7d3e":[7,0,0,0,1,1,0,0,3,1,42],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0095c50c29091e57b4d3841ff4750f06":[7,0,0,0,1,1,0,0,3,1,29],
@@ -249,5 +248,6 @@ var NAVTREEINDEX213 =
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a37ef117714403002afb4faa4978f136b":[6,0,598,0,11],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a4dac78bba24069050dd9df729dd58b45":[6,0,598,0,5],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a60256114947b0e9c01f5308108485935":[6,0,598,0,0],
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a617d45ab3bde4184aa31c1b2c70c1a6f":[6,0,598,0,1]
+"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a617d45ab3bde4184aa31c1b2c70c1a6f":[6,0,598,0,1],
+"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a709a4c2fe45fd757ecae6afa402e4728":[6,0,598,0,6]
 };

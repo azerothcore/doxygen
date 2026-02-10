@@ -5,7 +5,6 @@ var classBattlegroundAB =
     [ "~BattlegroundAB", "dc/d78/classBattlegroundAB.html#ad685d2c159dbb1b7e2a03ec0f40a9276", null ],
     [ "AddPlayer", "dc/d78/classBattlegroundAB.html#ad38dd250dc586c1092b4a19e0d13f544", null ],
     [ "AllNodesConrolledByTeam", "dc/d78/classBattlegroundAB.html#a226a840e23c3799330fe152d732b5216", null ],
-    [ "ApplyPhaseMask", "dc/d78/classBattlegroundAB.html#a0fdfb00d699fd2319847f28a29b24248", null ],
     [ "CreateBanner", "dc/d78/classBattlegroundAB.html#ad7a3d2b4777f2c4551089dfff743fcb8", null ],
     [ "DeleteBanner", "dc/d78/classBattlegroundAB.html#ab91514c9ff4f9031b9eb053fdc560fb5", null ],
     [ "EndBattleground", "dc/d78/classBattlegroundAB.html#a94a57fa4c05fba5ef64b909bc292c798", null ],

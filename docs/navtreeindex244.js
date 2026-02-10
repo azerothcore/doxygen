@@ -1,5 +1,7 @@
 var NAVTREEINDEX244 =
 {
+"d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435":[6,0,901,0,1],
+"d9/dc5/classConfigValueCache.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b":[6,0,901,0,0],
 "d9/dc5/classConfigValueCache.html#a69bceb7d8f714b478dfe6e6aea29c65a":[6,0,901,8],
 "d9/dc5/classConfigValueCache.html#a70b2a229ff1caa9924f404f5b98cf801":[6,0,901,10],
 "d9/dc5/classConfigValueCache.html#a8e49c987c471c98f707ffc8c697d959d":[6,0,901,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX244 =
 "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#a335bc64860227122e0536f61144e2003":[6,0,2807,0],
 "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#ae0c02eb80cebce089d18f8465b2f8a39":[6,0,2807,2],
 "d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#ae38bdeb74493f73bed1246c011bb2076":[6,0,2807,1],
-"d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#af29efe88b5f56c5d49f2e48c3be1d8e6":[6,0,2807,3],
-"d9/dce/structnpc__vengeful__spirit.html":[6,0,2265],
-"d9/dce/structnpc__vengeful__spirit.html#a06bd2b08a7719ae35dd6ad844ce3b3bd":[6,0,2265,0]
+"d9/dcd/classspell__dragonblight__devour__ghoul__periodic.html#af29efe88b5f56c5d49f2e48c3be1d8e6":[6,0,2807,3]
 };

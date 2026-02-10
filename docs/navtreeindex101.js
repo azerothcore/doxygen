@@ -1,5 +1,6 @@
 var NAVTREEINDEX101 =
 {
+"d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca8a9a20f10d5b17f4f93b0171f70ede42":[7,0,0,0,1,3,5,6,15,7,3],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca928dc3a2f23f4796c151995c1f82007f":[7,0,0,0,1,3,5,6,15,7,0],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298ca9b71736307754ed938440c558820b9aa":[7,0,0,0,1,3,5,6,15,7,2],
 "d3/d79/instance__icecrown__citadel_8cpp.html#a5bd342133be8c2137b831460acc9298cacb658ca309c42891a8c8014561e1c6fc":[7,0,0,0,1,3,5,6,15,7,4],
@@ -168,8 +169,8 @@ var NAVTREEINDEX101 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX101 =
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19":[7,0,0,0,1,3,5,2,0,5,2],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a09f670fffcb277f8eb1cf5203921ee11":[7,0,0,0,1,3,5,2,0,5,2,13],
 "d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2538f41a0dc11a9f5a05d543e2346e64":[7,0,0,0,1,3,5,2,0,5,2,4],
-"d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2edbdd1769e681f1a6e1608d3eddd291":[7,0,0,0,1,3,5,2,0,5,2,11],
-"d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a329cb468bbc0aae8a32d25611683bbca":[7,0,0,0,1,3,5,2,0,5,2,17]
+"d3/d81/trial__of__the__champion_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a2edbdd1769e681f1a6e1608d3eddd291":[7,0,0,0,1,3,5,2,0,5,2,11]
 };

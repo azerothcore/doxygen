@@ -1,7 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"d1/d16/classSpell.html#ace3be3c1fe1bf2f2d95b73c5e6ff1e8f":[6,0,2588,44],
-"d1/d16/classSpell.html#ace41bbee90895aa3ec6c97f6a1ab8f30":[6,0,2588,178],
 "d1/d16/classSpell.html#ad04b4741957019adf9a034714abdaa7f":[6,0,2588,84],
 "d1/d16/classSpell.html#ad0cf6773a718d8c1508e85c7a5aee159":[6,0,2588,83],
 "d1/d16/classSpell.html#ad0d721f37cd6402a14f16302e6a61d3a":[6,0,2588,344],
@@ -107,12 +105,12 @@ var NAVTREEINDEX26 =
 "d1/d17/classAcore_1_1UnitAuraCheck.html":[6,0,0,110],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[6,0,0,110,5],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a0dd71c851f803fb70a4543c77b672889":[5,0,1,122,5],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,122,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[6,0,0,110,2],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#a1c85e9d5d517a852cf4c92063e6f3ed1":[5,0,1,122,2],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[6,0,0,110,3],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#ab2bdf4c05792dd83e4e9542fc3083cc3":[5,0,1,122,3],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,110,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[5,0,1,122,1],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#abc385cad226ac51c09a908864d360fd3":[6,0,0,110,1],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,122,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,110,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
@@ -249,5 +247,7 @@ var NAVTREEINDEX26 =
 "d1/d1b/classgo__dragonflayer__cage.html#a542530a0b84879b21a4b9982cf4300d0":[6,0,1138,1],
 "d1/d1b/classgo__dragonflayer__cage.html#a9f36ba678a1e3954f21b96b227fb999e":[6,0,1138,0],
 "d1/d1b/classspell__pal__ardent__defender.html":[6,0,3542],
-"d1/d1b/classspell__pal__ardent__defender.html#a325024973959856c000f380b0bfc3bda":[6,0,3542,9]
+"d1/d1b/classspell__pal__ardent__defender.html#a325024973959856c000f380b0bfc3bda":[6,0,3542,9],
+"d1/d1b/classspell__pal__ardent__defender.html#a33dd57579e724aee0c6f2a8d767fc3c8":[6,0,3542,5],
+"d1/d1b/classspell__pal__ardent__defender.html#a3718265890fad2a6c6d53b5f401d16dd":[6,0,3542,4]
 };

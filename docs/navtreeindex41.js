@@ -1,7 +1,5 @@
 var NAVTREEINDEX41 =
 {
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a83c48e1c42a6a6dd892f0f4d6a20687b":[6,0,3732,4],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a95f7bd6dd52b19bb1c09975a7286882a":[6,0,3732,2],
 "d1/db7/classspell__q4735__collect__rookery__egg.html#a96e69476965cc2466213a5371a57093a":[6,0,3732,3],
 "d1/db7/classspell__q4735__collect__rookery__egg.html#abc927d932c1d5e05eab1918364d68ed5":[6,0,3732,1],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html":[6,0,1858,0],
@@ -155,8 +153,8 @@ var NAVTREEINDEX41 =
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[6,0,0,44,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,44,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,56,0],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,44,1],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,56,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,44,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,3],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a1691f35071d744591cc1be4a314edbec":[7,0,0,0,1,3,5,10,0,3,2],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,0,3,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX41 =
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a63f9a7ea6c7612489c4e38baba5b29a2":[7,0,0,0,1,3,2,4,12,12,20],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a7fb619287cfee307780a7816327498df":[7,0,0,0,1,3,2,4,12,12,15],
 "d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954a8386f0aeebdb52a48d754cfe52b00d62":[7,0,0,0,1,3,2,4,12,12,24],
-"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954aa6e60dbd545d18dd78ecdb9d0835893a":[7,0,0,0,1,3,2,4,12,12,1]
+"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954aa6e60dbd545d18dd78ecdb9d0835893a":[7,0,0,0,1,3,2,4,12,12,1],
+"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954aad95e1f2ee06f7df1846c8dabb5fc042":[7,0,0,0,1,3,2,4,12,12,11],
+"d1/dbd/bosses__opera_8cpp.html#a47f6a3f6e2be02297f20c1a7f3875954aba262f8d7824a6d871c1a23d16b828bb":[7,0,0,0,1,3,2,4,12,12,4]
 };

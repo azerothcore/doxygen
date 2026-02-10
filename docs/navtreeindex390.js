@@ -1,5 +1,9 @@
 var NAVTREEINDEX390 =
 {
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2292,0],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2292,0,3],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2292,0,0],
+"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2292,0,2],
 "df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#ad4c9f2265f126c7f2b5538bab6b75cb3":[6,0,2292,0,1],
 "df/d77/classachievement__smell__saronite.html":[6,0,92],
 "df/d77/classachievement__smell__saronite.html#a42dce2aefa2561952dcf5289126035a8":[6,0,92,0],
@@ -8,8 +12,8 @@ var NAVTREEINDEX390 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2811,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2811,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2811,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,118],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2779],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2779,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2779,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX390 =
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a853648b75be4547c89e3010b38275b2b":[7,0,0,0,1,3,5,9,2,4,23,2],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d5decebaaffb3be01a31ca5f084a9dd":[7,0,0,0,1,3,5,9,2,4,23,9],
 "df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa160d93acd266977ad939a8950bdf5a6":[7,0,0,0,1,3,5,9,2,4,23,1],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aacd73dac43590134b309423b072309bb":[7,0,0,0,1,3,5,9,2,4,23,5],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6c8b373bd9a9f42428ba4b4bac5c7b3":[7,0,0,0,1,3,5,9,2,4,23,8],
-"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afc0e5ba1a21a64a786d366fac88aafa0":[7,0,0,0,1,3,5,9,2,4,23,7],
-"df/d87/boss__freya_8cpp.html#a391fde45f4276779acdbe31c06cd9394":[7,0,0,0,1,3,5,9,2,4,25],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289":[7,0,0,0,1,3,5,9,2,4,20]
+"df/d87/boss__freya_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aacd73dac43590134b309423b072309bb":[7,0,0,0,1,3,5,9,2,4,23,5]
 };

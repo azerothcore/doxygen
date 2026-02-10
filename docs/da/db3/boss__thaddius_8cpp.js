@@ -17,7 +17,6 @@ var boss__thaddius_8cpp =
       [ "EVENT_THADDIUS_INIT", "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3e2e397f576ee70021c517b26d07d82c", null ],
       [ "EVENT_THADDIUS_ENTER_COMBAT", "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a14515fc304f95aa76f9d6c47c32b3458", null ],
       [ "EVENT_THADDIUS_CHAIN_LIGHTNING", "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab57ce6fe0349a91a7309d55ab7ea1b0b", null ],
-      [ "EVENT_THADDIUS_BERSERK", "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac7eef1befb536c172785d84edc3f9aff", null ],
       [ "EVENT_THADDIUS_POLARITY_SHIFT", "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a478e2b018b7e8df95526a6b8a3e93e6a", null ],
       [ "EVENT_ALLOW_BALL_LIGHTNING", "da/db3/boss__thaddius_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a756a712a742dfd0e5d7992b8f639ccee", null ]
     ] ],

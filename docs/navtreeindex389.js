@@ -1,5 +1,9 @@
 var NAVTREEINDEX389 =
 {
+"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca755ded2fc6ebfb3993d61559acda3d86":[7,0,0,0,1,3,7,1,9,6,0],
+"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298ca88fe3729150756d166312aee689665cc":[7,0,0,0,1,3,7,1,9,6,7],
+"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298cab7862f954c5dc7b3ae6757f2bc80b312":[7,0,0,0,1,3,7,1,9,6,1],
+"df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298caca50767efe13a2a5e30a9516c431ef4c":[7,0,0,0,1,3,7,1,9,6,3],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,1,9,6,6],
 "df/d6a/boss__warlord__najentus_8cpp.html#a5bd342133be8c2137b831460acc9298cafed4f39f332f96a2546e2e4c155641a8":[7,0,0,0,1,3,7,1,9,6,2],
 "df/d6a/boss__warlord__najentus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,7,1,9,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX389 =
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#a994a9030e2d8c5afaa66c21897e54f82":[6,0,2178,0,2],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#aa8609f8824f68ce7259465284c01dd35":[6,0,2178,0,6],
 "df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ab30df9277fc84f098e0bdd70a2ab3795":[6,0,2178,0,5],
-"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2178,0,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html":[6,0,2292,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a6a2fbf623b8fc55cfd48a12e2c515134":[6,0,2292,0,3],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#a75c28ce9bcbb5ef6fb4213d000d5596a":[6,0,2292,0,0],
-"df/d76/structnpc__wormhole_1_1npc__wormholeAI.html#aa0a903014ec7243036604ffcc67e0a36":[6,0,2292,0,2]
+"df/d76/structnpc__thrall__warchief_1_1npc__thrall__warchiefAI.html#ada9c79c1591a8bd28c66329dc7c5d3dc":[6,0,2178,0,0]
 };

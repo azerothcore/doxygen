@@ -1,6 +1,5 @@
 var NAVTREEINDEX206 =
 {
-"d7/dcd/classspell__warr__glyph__of__sunder__armor.html#a767c3c52e917b56dbf2368b5dbbf1610":[6,0,4046,1],
 "d7/dcd/classspell__warr__glyph__of__sunder__armor.html#af60592a9f1e595f31814eae405d03d5a":[6,0,4046,2],
 "d7/dcd/namespaceAcore_1_1Crypto.html":[5,0,1,4],
 "d7/dcd/namespaceAcore_1_1Crypto.html#a0057c59e47839100792e392e2d73783a":[5,0,1,4,13],
@@ -249,5 +248,6 @@ var NAVTREEINDEX206 =
 "d7/de1/classboss__moorabi.html#a94e14b2a9b06143985f785e781d1c302":[6,0,627,1],
 "d7/de1/classboss__moorabi.html#ae90c7dd46fb1335a525c3c3e27040420":[6,0,627,2],
 "d7/de1/classgo__soulwell.html":[6,0,1181],
-"d7/de1/classgo__soulwell.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861":[6,0,1181,2]
+"d7/de1/classgo__soulwell.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861":[6,0,1181,2],
+"d7/de1/classgo__soulwell.html#a3747499bd05326ef6f7024c0ee91a4ce":[6,0,1181,1]
 };

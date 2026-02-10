@@ -1,7 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9":[7,0,0,0,1,2,38,0,56,1,10],
-"d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7":[7,0,0,0,1,2,38,0,56,1,9],
 "d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58":[7,0,0,0,1,2,38,0,56,1,5],
 "d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51":[7,0,0,0,1,2,38,0,56,1,1],
 "d1/d55/GuildScript_8h.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d":[7,0,0,0,1,2,38,0,56,1,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX33 =
 "d1/d61/structCreatureTemplate.html#ab562ded879398960d2c0c92b8cb51953":[6,0,939,16],
 "d1/d61/structCreatureTemplate.html#ab6aeaebc19c6096a52b1a11b410229c4":[6,0,939,2],
 "d1/d61/structCreatureTemplate.html#ab7e3eb3f73b1c2098efa410649e7be57":[6,0,939,43],
-"d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0":[6,0,939,35]
+"d1/d61/structCreatureTemplate.html#abaa3da4ade0c0aff7ecb49dbe0c903d0":[6,0,939,35],
+"d1/d61/structCreatureTemplate.html#abf1474d7383c49eaa27e9d7f996cc03f":[6,0,939,20],
+"d1/d61/structCreatureTemplate.html#ac21972c55a5bb6373e86bb00144855e2":[6,0,939,7]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d14/structboss__priestess__delrissa.html#afcbf1aa400ec44b709fd194daab91d3d":[6,0,660,0],
 "d3/d15/structScriptPointMove.html":[6,0,2529],
 "d3/d15/structScriptPointMove.html#a2e02f9738393aeb8cd62ac26dda8fc10":[6,0,2529,2],
 "d3/d15/structScriptPointMove.html#a305620aad71152c1139a88dea05a1887":[6,0,2529,5],
@@ -161,16 +162,16 @@ var NAVTREEINDEX92 =
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[6,0,2063,3],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html":[6,0,2010,0],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html#a76ede7ef27a41a284821e690c88375c9":[6,0,2010,0,0],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,1,50],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[6,0,0,38],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,50,1],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html":[5,0,1,50],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[6,0,0,38,1],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a06eb5dd0f8969c20ca1234e01ae15377":[5,0,1,50,1],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,38,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,50,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,50,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2886],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a71b92ea3448c7f39b67265a96cf3c324":[7,0,0,0,1,1,0,0,5,1,2],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a73e7354186c590bb7186a61ee46a09ed":[7,0,0,0,1,1,0,0,5,1,53],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a7482bbe573a4cd19cfea3fdc0c0e8f3b":[7,0,0,0,1,1,0,0,5,1,21],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a7723bb2dd8925ae29ce73bf89bb8165c":[7,0,0,0,1,1,0,0,5,1,63],
-"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a7c09a1a4c510ab15e2ec482c179c8761":[7,0,0,0,1,1,0,0,5,1,15]
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a7723bb2dd8925ae29ce73bf89bb8165c":[7,0,0,0,1,1,0,0,5,1,63]
 };

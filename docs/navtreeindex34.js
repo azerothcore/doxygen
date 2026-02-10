@@ -1,7 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"d1/d61/structCreatureTemplate.html#abf1474d7383c49eaa27e9d7f996cc03f":[6,0,939,20],
-"d1/d61/structCreatureTemplate.html#ac21972c55a5bb6373e86bb00144855e2":[6,0,939,7],
 "d1/d61/structCreatureTemplate.html#acbd1c75616b592ed38bb2d364045e250":[6,0,939,24],
 "d1/d61/structCreatureTemplate.html#ad2e2f0d36f61d678cc700c26dc1a1385":[6,0,939,65],
 "d1/d61/structCreatureTemplate.html#adb9941ed12d10a54e04a7b4bee4310a8":[6,0,939,11],
@@ -56,8 +54,8 @@ var NAVTREEINDEX34 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,32,14,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,14,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,32,14,1,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,32,14,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,12,14,1,2],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,32,14,1,2],
 "d1/d62/classboss__steelbreaker.html":[6,0,714],
 "d1/d62/classboss__steelbreaker.html#ac4189ffbba997719fb36a10ecdabd26c":[6,0,714,2],
 "d1/d62/classboss__steelbreaker.html#af6e4c3729874e59959b35ca67a46aa44":[6,0,714,1],
@@ -76,16 +74,16 @@ var NAVTREEINDEX34 =
 "d1/d63/structargentPonyBanner.html#a740f9162b10d31d1677a4ac4f5926db6":[6,0,204,1],
 "d1/d63/structargentPonyBanner.html#aa92e42bc2c54c3b4b1022d5767fcf10c":[6,0,204,2],
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[6,0,204,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,88],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3728],
@@ -249,5 +247,7 @@ var NAVTREEINDEX34 =
 "d1/d67/structVehicleSeat.html#a9f68076857cb85ee7679f04043acdedc":[6,0,4272,1],
 "d1/d67/structVehicleSeat.html#ac334f2f573bf52f164d570f8b83fc197":[6,0,4272,2],
 "d1/d67/structVehicleSeat.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c":[6,0,4272,0],
-"d1/d67/structVehicleSeat.html#add0cf92d445f6ea0cf910b0bc0d80b62":[6,0,4272,4]
+"d1/d67/structVehicleSeat.html#add0cf92d445f6ea0cf910b0bc0d80b62":[6,0,4272,4],
+"d1/d67/structnpc__high__oracle__soo__roo.html":[6,0,1841],
+"d1/d67/structnpc__high__oracle__soo__roo.html#a329832491f86c6fcc9ccc4c98b19991e":[6,0,1841,6]
 };

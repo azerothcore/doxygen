@@ -1,5 +1,12 @@
 var NAVTREEINDEX324 =
 {
+"dd/d27/structSmartAction.html#a3209e6b129184b76674308fe8e25f863":[6,0,2568,164],
+"dd/d27/structSmartAction.html#a3309a73728b4a8645bfe9c67116b4314":[6,0,2568,134],
+"dd/d27/structSmartAction.html#a354420593a56fefd66f57cb23a4b1dea":[6,0,2568,140],
+"dd/d27/structSmartAction.html#a36085bc5376c1f93e562c1f485305363":[6,0,2568,229],
+"dd/d27/structSmartAction.html#a36e36e555e14454f7594bf5a3943032e":[6,0,2568,285],
+"dd/d27/structSmartAction.html#a392f18bdae8a530c86c176d4e405333d":[6,0,2568,167],
+"dd/d27/structSmartAction.html#a394b7cf577e1b73eec8824659fe65e49":[6,0,2568,4],
 "dd/d27/structSmartAction.html#a39f72e36d00fdaa214d4f38195e48ee3":[6,0,2568,17],
 "dd/d27/structSmartAction.html#a3a9b33685d26bf9ba39469d411989851":[6,0,2568,59],
 "dd/d27/structSmartAction.html#a3bcbaf44bfb40f48f3a202765e41871e":[6,0,2568,186],
@@ -242,12 +249,5 @@ var NAVTREEINDEX324 =
 "dd/d28/classnpc__lk__spirit__bomb.html":[6,0,1934],
 "dd/d28/classnpc__lk__spirit__bomb.html#acc08d41aa1761c450de782e92307ad7c":[6,0,1934,1],
 "dd/d28/classnpc__lk__spirit__bomb.html#ade74c00beb2da69dafb0ae93d771c430":[6,0,1934,2],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[6,0,3356],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[6,0,3356,1],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[6,0,3356,0],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[6,0,3356,2],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html":[6,0,3241],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[6,0,3241,0],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a56326701447b3a88d9022ca1f1c184a6":[6,0,3241,2],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a92e3137bb92545876ca67028bcc86a4f":[6,0,3241,1]
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[6,0,3356]
 };

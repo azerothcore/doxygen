@@ -1,5 +1,16 @@
 var NAVTREEINDEX290 =
 {
+"db/dae/npcs__special_8cpp.html#a31f4c889233803e83d5692ffda190595ade06fbaacc54b9a03a93e09f5c51db7e":[7,0,0,0,1,3,10,14,63,0],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038":[7,0,0,0,1,3,10,14,60],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a1d8a88e239cde106b375557fb799ef90":[7,0,0,0,1,3,10,14,60,6],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a2ae4e6a98f2ff50cacca426b400367dd":[7,0,0,0,1,3,10,14,60,12],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a421d6650ebd58f6ad30bc7c2c2a40eb8":[7,0,0,0,1,3,10,14,60,13],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a4427a4f52a4a68460728a828c83cf560":[7,0,0,0,1,3,10,14,60,2],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a48da002210c92ff0c5ee0c5671a457c7":[7,0,0,0,1,3,10,14,60,3],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a543f4a4539eb2a9bc69021b9bc580915":[7,0,0,0,1,3,10,14,60,14],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5732d1eaea6917e07d4f7b5407042469":[7,0,0,0,1,3,10,14,60,7],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a5ecfda4bcc8fa4e70e5b37438f6878d9":[7,0,0,0,1,3,10,14,60,9],
+"db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a6b51d9bddae864a23de2b1e42ec55ce1":[7,0,0,0,1,3,10,14,60,11],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a726854a6ac484db50f2f2beafc10f930":[7,0,0,0,1,3,10,14,60,5],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a773eb442220f586b840e02d6e0026125":[7,0,0,0,1,3,10,14,60,1],
 "db/dae/npcs__special_8cpp.html#a3c4edfa73ac0c163e64077c6b1ce6038a8be77a82a338bb45d912b34df244a028":[7,0,0,0,1,3,10,14,60,4],
@@ -238,16 +249,5 @@ var NAVTREEINDEX290 =
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a2c64240e8675fc76598600ae2632570f":[6,0,3393,0],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#a6ff74fbaf3a6ef84024d55528fd6f8e2":[6,0,3393,2],
 "db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#abdad49fe5e0a72799847fdfcfe22eec0":[6,0,3393,4],
-"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3393,3],
-"db/db7/classspell__portal__effect__acherus.html":[6,0,3582],
-"db/db7/classspell__portal__effect__acherus.html#a053451bd9ae6f7d639d0a977be843bc0":[6,0,3582,2],
-"db/db7/classspell__portal__effect__acherus.html#a36bb2b95651889eaa0321a7a327e173f":[6,0,3582,1],
-"db/db7/classspell__portal__effect__acherus.html#a6d16f25c93eef3c17ae6b4a43d884279":[6,0,3582,3],
-"db/db7/classspell__portal__effect__acherus.html#ab0ed12fadaea4c96c7f6e43b7b385653":[6,0,3582,4],
-"db/db7/classspell__portal__effect__acherus.html#add6229e3f0241ccedf446a5a37cf72ce":[6,0,3582,0],
-"db/db7/instance__hyjal_8cpp.html":[7,0,0,0,1,3,4,1,0,7],
-"db/db7/instance__hyjal_8cpp.html#a254787ab3a62d90e906ded9ef63aa229":[7,0,0,0,1,3,4,1,0,7,6],
-"db/db7/instance__hyjal_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,4,1,0,7,3],
-"db/db7/instance__hyjal_8cpp.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41":[7,0,0,0,1,3,4,1,0,7,2],
-"db/db7/instance__hyjal_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,4,1,0,7,4]
+"db/db6/classspell__kiljaeden__vengeance__of__the__blue__flight__aura.html#aebfb4b20a9b0ebefff652a0ae1727994":[6,0,3393,3]
 };

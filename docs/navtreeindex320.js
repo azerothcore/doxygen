@@ -1,5 +1,12 @@
 var NAVTREEINDEX320 =
 {
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa86efefaa2ade6c15b715cedd2dbc2a77":[7,0,0,0,1,3,2,6,0,23,6],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a":[7,0,0,0,1,3,2,6,0,23,1],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa9e6adfa172be669b3d393878095fd546":[7,0,0,0,1,3,2,6,0,23,4],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67":[7,0,0,0,1,3,2,6,0,23,0],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaab461fe19f0595f95683053bf5f18ee17":[7,0,0,0,1,3,2,6,0,23,11],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f":[7,0,0,0,1,3,2,6,0,23,16],
+"dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaae0e3bbb835b7cb4fbf75ff858f217e2a":[7,0,0,0,1,3,2,6,0,23,9],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaae9b9660563d2096d35cce6e540a8ad92":[7,0,0,0,1,3,2,6,0,23,8],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842":[7,0,0,0,1,3,2,6,0,23,15],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaef0f2fd9d58d9ccb6e04f28bac92cebc":[7,0,0,0,1,3,2,6,0,23,7],
@@ -124,12 +131,12 @@ var NAVTREEINDEX320 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4066,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[6,0,0,2,5,2],
 "dc/df8/structboss__vazruden__the__herald.html":[6,0,765],
@@ -242,12 +249,5 @@ var NAVTREEINDEX320 =
 "dc/dfe/structnpc__pet__dk__risen__ally.html#ac3927becc1ed929c384b3413bfee9330":[6,0,2021,1],
 "dc/dfe/structnpc__pet__dk__risen__ally.html#ae7ea70827f339d3968ef08dc242b1f03":[6,0,2021,0],
 "dc/dff/classnpc__spirit__warden.html":[6,0,2134],
-"dc/dff/classnpc__spirit__warden.html#ab33ab494d7fee64eed7c75464ce60489":[6,0,2134,2],
-"dc/dff/classnpc__spirit__warden.html#ab585d20eadb7876752d731702db44293":[6,0,2134,1],
-"dc/dff/instance__uldaman_8cpp.html":[7,0,0,0,1,3,2,14,0],
-"dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,14,0,6],
-"dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caaa8820e6fd41a187920e1fa0d64eb73e":[7,0,0,0,1,3,2,14,0,6,1],
-"dc/dff/instance__uldaman_8cpp.html#a5bd342133be8c2137b831460acc9298caf129104b5c949be8c6f66dad300aef63":[7,0,0,0,1,3,2,14,0,6,0],
-"dc/dff/instance__uldaman_8cpp.html#a6aeffef7bf01947a5bef5aaf2400384e":[7,0,0,0,1,3,2,14,0,7],
-"dc/dff/instance__uldaman_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,14,0,5]
+"dc/dff/classnpc__spirit__warden.html#ab33ab494d7fee64eed7c75464ce60489":[6,0,2134,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX245 =
 {
+"d9/dce/structnpc__vengeful__spirit.html":[6,0,2265],
+"d9/dce/structnpc__vengeful__spirit.html#a06bd2b08a7719ae35dd6ad844ce3b3bd":[6,0,2265,0],
 "d9/dce/structnpc__vengeful__spirit.html#a8aec87a3e6a7af96253035dbd9e813ad":[6,0,2265,1],
 "d9/dcf/classspell__thaddius__polarity__shift.html":[6,0,3904],
 "d9/dcf/classspell__thaddius__polarity__shift.html#a3009faa525c22779a0b2534b96821cfd":[6,0,3904,1],
@@ -168,12 +170,12 @@ var NAVTREEINDEX245 =
 "d9/ddd/classAcore_1_1IteratorPair.html":[6,0,0,67],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[5,0,1,79,1],
 "d9/ddd/classAcore_1_1IteratorPair.html#a446d4e8dd1146b053987d48d0dcef59d":[6,0,0,67,1],
-"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[6,0,0,67,3],
+"d9/ddd/classAcore_1_1IteratorPair.html#a59ff07f1663a3f98f2e10a895ab37ae4":[5,0,1,79,3],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[5,0,1,79,5],
 "d9/ddd/classAcore_1_1IteratorPair.html#a9b08728bc90076dd1db392982840c31e":[6,0,0,67,5],
-"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[5,0,1,79,4],
+"d9/ddd/classAcore_1_1IteratorPair.html#aa515ca48852213fb51a4d83e9d5c91d2":[6,0,0,67,4],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[6,0,0,67,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ad2e586dfd291c34c82ec71d66e59f36c":[5,0,1,79,0],
 "d9/ddd/classAcore_1_1IteratorPair.html#ae8b79501762f0c0ba6e2d769c56e9f8f":[6,0,0,67,2],
@@ -216,8 +218,8 @@ var NAVTREEINDEX245 =
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a4354c559764d2aa6b5d98bb51ee076fe":[6,0,12,10,3,3],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[5,0,32,10,3,1],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#a76c6af8b27ad75cb1f4944f8f44ba5d7":[6,0,12,10,3,1],
-"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,32,10,3,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[6,0,12,10,3,2],
+"d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#acb2b774859531ccf04fe6ba1d013e85d":[5,0,32,10,3,2],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[6,0,12,10,3,0],
 "d9/de4/classWorldPackets_1_1NPC_1_1TrainerBuySucceeded.html#ae00367a55429030c107fc8f6bb7db288":[5,0,32,10,3,0],
 "d9/de4/structnpc__firework_1_1npc__fireworkAI.html":[6,0,1782,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX245 =
 "d9/de7/classFrostwyrmLandEvent.html#a7f5b4c41c459b65e30dea66f7459a7e9":[6,0,1070,2],
 "d9/de7/classspell__hakkar__power__down.html":[6,0,3086],
 "d9/de7/classspell__hakkar__power__down.html#a1063358ed71ded8454f35f43442354ab":[6,0,3086,2],
-"d9/de7/classspell__hakkar__power__down.html#a1f133ab9e85f80c225276bf744da6898":[6,0,3086,0],
-"d9/de7/classspell__hakkar__power__down.html#ae554f8be36eabc6d23f823e6d153be2b":[6,0,3086,1],
-"d9/de8/classnpc__ulduar__flames__initial.html":[6,0,2227]
+"d9/de7/classspell__hakkar__power__down.html#a1f133ab9e85f80c225276bf744da6898":[6,0,3086,0]
 };

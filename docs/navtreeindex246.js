@@ -1,5 +1,7 @@
 var NAVTREEINDEX246 =
 {
+"d9/de7/classspell__hakkar__power__down.html#ae554f8be36eabc6d23f823e6d153be2b":[6,0,3086,1],
+"d9/de8/classnpc__ulduar__flames__initial.html":[6,0,2227],
 "d9/de8/classnpc__ulduar__flames__initial.html#ac0db78c361324a594220ad644001f4eb":[6,0,2227,2],
 "d9/de8/classnpc__ulduar__flames__initial.html#aee0c62a38e3e0958e015faef2c434273":[6,0,2227,1],
 "d9/de9/classboss__baron__geddon.html":[6,0,397],
@@ -19,16 +21,16 @@ var NAVTREEINDEX246 =
 "d9/deb/classachievement__pb__pilgrims__peril.html#a9516eab18d7e1401a5637913d8ec9595":[6,0,81,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[5,0,32,7,8],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html":[6,0,12,7,8],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,32,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[6,0,12,7,8,1],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,32,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a17752d3e862c1915f8479058a4be1eb7":[5,0,32,7,8,1],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[6,0,12,7,8,0],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a4427184d166b18e984dc301a6786aac3":[5,0,32,7,8,0],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[6,0,12,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a72a85b9f0d40c9406d64a9bf0b06581e":[5,0,32,7,8,3],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[6,0,12,7,8,5],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#a9ef981f750bee2101c1f886fa2514913":[5,0,32,7,8,5],
-"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,12,7,8,4],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[5,0,32,7,8,4],
+"d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ad393d5f227bb81738582572bd2601650":[6,0,12,7,8,4],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[5,0,32,7,8,2],
 "d9/dec/classWorldPackets_1_1Item_1_1EnchantmentLog.html#ae35a0c689357cf4b5a031f40314a7045":[6,0,12,7,8,2],
 "d9/dee/classspell__aura__of__despair__aura.html":[6,0,2626],
@@ -247,7 +249,5 @@ var NAVTREEINDEX246 =
 "d9/df5/structboss__sartharion__dragonAI.html#a6870b91b1d36c79add8bd86a8e1fac4d":[6,0,688,9],
 "d9/df5/structboss__sartharion__dragonAI.html#a75cd7f27019e4013adde104e7663e5bc":[6,0,688,8],
 "d9/df5/structboss__sartharion__dragonAI.html#a852ab0dabe5b6d8e6b0a53e6425ff085":[6,0,688,15],
-"d9/df5/structboss__sartharion__dragonAI.html#a86acfe30f898bd6b709c4743ae808867":[6,0,688,11],
-"d9/df5/structboss__sartharion__dragonAI.html#a9c664ff661a3e83b98e1a28c81d662b0":[6,0,688,4],
-"d9/df5/structboss__sartharion__dragonAI.html#a9e1fb29994441dd2d41aeb2c04205d7b":[6,0,688,1]
+"d9/df5/structboss__sartharion__dragonAI.html#a86acfe30f898bd6b709c4743ae808867":[6,0,688,11]
 };

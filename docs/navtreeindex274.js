@@ -1,6 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"da/df9/classDynamicVisibilityMgr.html#ac402ec0cb86192ce264d7909e09da5ac":[6,0,1007,2],
 "da/dfa/classnpc__fel__guard__hound.html":[6,0,1778],
 "da/dfa/classnpc__fel__guard__hound.html#a324179695f04a31b233b0ce94a46634c":[6,0,1778,1],
 "da/dfa/classnpc__fel__guard__hound.html#a5f5c20ec379994e7d0b65133d772e18f":[6,0,1778,2],
@@ -102,16 +101,16 @@ var NAVTREEINDEX274 =
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3":[7,0,0,0,1,3,4,21,2,0],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81":[7,0,0,0,1,3,4,21,2,2],
 "db/d02/zone__felwood_8cpp.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04":[7,0,0,0,1,3,4,21,2,3],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[6,0,0,91],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html":[5,0,1,103],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[5,0,1,103,2],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a0c58929de429694f24877525287f15a6":[6,0,0,91,2],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[5,0,1,103,0],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a12eb5ff486232f88c7303741ebd8e65e":[6,0,0,91,0],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[5,0,1,103,1],
-"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a1cfda97a0590e033f9b6043c8de2d0a0":[6,0,0,91,1],
 "db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[5,0,1,103,3],
+"db/d03/classAcore_1_1PlayerAtMinimumRangeAway.html#a4ea0f83c3287079cff40fac15272fa94":[6,0,0,91,3],
 "db/d03/classspell__gen__model__visible.html":[6,0,2999],
 "db/d03/classspell__gen__model__visible.html#a1527c59b43a26db344e5a4d2900ea9b0":[6,0,2999,2],
 "db/d03/classspell__gen__model__visible.html#a28c06ecd352466e0d1076d9eb4fa8e9b":[6,0,2999,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX274 =
 "db/d0c/classWorldObjectScript.html#af044c3699a591c137abc5e03c772890b":[6,0,4339,0],
 "db/d0c/classspell__blood__council__shadow__prison__damage.html":[6,0,2667],
 "db/d0c/classspell__blood__council__shadow__prison__damage.html#a5d5c32f102c525f6c25d12281a58f5f4":[6,0,2667,1],
-"db/d0c/classspell__blood__council__shadow__prison__damage.html#adeedfdd7555dfd009c99db6f002f7488":[6,0,2667,0]
+"db/d0c/classspell__blood__council__shadow__prison__damage.html#adeedfdd7555dfd009c99db6f002f7488":[6,0,2667,0],
+"db/d0c/classspell__blood__council__shadow__prison__damage.html#affe1d9a5e9c4776d1651fdb95283caf4":[6,0,2667,2]
 };

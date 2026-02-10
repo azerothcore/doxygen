@@ -205,7 +205,7 @@ var searchData=
   ['loadgameobjectquestenders_202',['LoadGameobjectQuestEnders',['../d5/dfb/classObjectMgr.html#a300c8e82451547a0b2aec4d33c8c1c79',1,'ObjectMgr']]],
   ['loadgameobjectquestitems_203',['LoadGameObjectQuestItems',['../d5/dfb/classObjectMgr.html#adeb2a399a3ab5e94d13f5c2e1f7fe73c',1,'ObjectMgr']]],
   ['loadgameobjectqueststarters_204',['LoadGameobjectQuestStarters',['../d5/dfb/classObjectMgr.html#ab8198021c58d9d7e2deb26296b8a755f',1,'ObjectMgr']]],
-  ['loadgameobjects_205',['loadgameobjects',['../d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b',1,'GridObjectLoader::LoadGameObjects()'],['../d5/dfb/classObjectMgr.html#adec5d46f2a8478de1bd75690a237c936',1,'ObjectMgr::LoadGameobjects()']]],
+  ['loadgameobjects_205',['loadgameobjects',['../d5/dfb/classObjectMgr.html#adec5d46f2a8478de1bd75690a237c936',1,'ObjectMgr::LoadGameobjects()'],['../d0/d69/classGridObjectLoader.html#ad577dbb6544e806d25b496796651ba5b',1,'GridObjectLoader::LoadGameObjects()']]],
   ['loadgameobjecttemplate_206',['LoadGameObjectTemplate',['../d5/dfb/classObjectMgr.html#a169a991f361f2617b1e6e4bbb643486a',1,'ObjectMgr']]],
   ['loadgameobjecttemplateaddons_207',['LoadGameObjectTemplateAddons',['../d5/dfb/classObjectMgr.html#aabf5931580ae390099518d22bfa77994',1,'ObjectMgr']]],
   ['loadgametele_208',['LoadGameTele',['../d5/dfb/classObjectMgr.html#a73d91cf299d39a85191f6a2a38edc718',1,'ObjectMgr']]],

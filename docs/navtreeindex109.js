@@ -1,5 +1,6 @@
 var NAVTREEINDEX109 =
 {
+"d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#abf892481c634ac48009ec366e8410e3c":[6,0,1297,0,17],
 "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#ac811176530020d9a175c6658353f2a71":[6,0,1297,0,10],
 "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#ae25b1640368ec23e1b460becb6a1c6c1":[6,0,1297,0,11],
 "d3/dcf/Battleground_8h.html":[7,0,0,0,1,2,8,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX109 =
 "d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ab4f612b5c13e82251823d80d0ab728b6":[7,0,0,0,1,4,0,2,28,4],
 "d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ad30ca726d1f53514633e18d10c09e665":[7,0,0,0,1,4,0,2,28,1],
 "d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9ae33c109f713bf214b65d889e5d7fd2fe":[7,0,0,0,1,4,0,2,28,2],
-"d3/dd1/DBCEnums_8h.html#a2a711e40e01ff93d16d97ad664f68338":[7,0,0,0,1,4,0,2,29],
-"d3/dd1/DBCEnums_8h.html#a2a711e40e01ff93d16d97ad664f68338a26dc47471dd2702245b35d54d6033609":[7,0,0,0,1,4,0,2,29,1]
+"d3/dd1/DBCEnums_8h.html#a2a711e40e01ff93d16d97ad664f68338":[7,0,0,0,1,4,0,2,29]
 };

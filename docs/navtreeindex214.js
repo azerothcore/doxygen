@@ -1,6 +1,5 @@
 var NAVTREEINDEX214 =
 {
-"d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a709a4c2fe45fd757ecae6afa402e4728":[6,0,598,0,6],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#a8a28f9fe6c087c230103d1139ddb73dc":[6,0,598,0,4],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#ab009008f892493b822e5ea5491c58525":[6,0,598,0,8],
 "d8/d45/structboss__loatheb_1_1boss__loathebAI.html#acf24e563d4876fb9f899a4250b19b6f5":[6,0,598,0,2],
@@ -21,10 +20,10 @@ var NAVTREEINDEX214 =
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad576ce6011716519a70c6e00e0753a49":[6,0,12,7,9,2],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[6,0,12,7,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[5,0,32,7,9,5],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,32,7,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[6,0,12,7,9,1],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,32,7,9,0],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,32,7,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[6,0,12,7,9,0],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,32,7,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,12,7,9,3],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,32,7,9,3],
 "d8/d49/classspell__mark__of__the__faceless__drainhealth.html":[6,0,3469],
@@ -249,5 +248,6 @@ var NAVTREEINDEX214 =
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#a95e60614808191e4c1f909f5e38e4741":[6,0,1940,0,2],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab3ed8a9536fc6be948f280e319d4fec7":[6,0,1940,0,0],
 "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02":[6,0,1940,0,5],
-"d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[6,0,1940,0,3]
+"d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad0ca7d80d68b9623b99c644daa8f4c57":[6,0,1940,0,3],
+"d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db":[6,0,1940,0,6]
 };

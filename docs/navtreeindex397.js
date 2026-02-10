@@ -1,5 +1,9 @@
 var NAVTREEINDEX397 =
 {
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,2,1,2,1,7],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,1,2,1,7,0],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a":[7,0,0,0,1,3,2,1,2,1,7,1],
+"df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,2,1,6],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a23aedf653d5d4022c6f81946a85be906":[7,0,0,0,1,3,2,1,2,1,6,5],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4f69598afd8af1c6ce8aa5846ba8fe50":[7,0,0,0,1,3,2,1,2,1,6,6],
 "df/dc5/boss__broodlord__lashlayer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6bf098fc6fa7e2a4ac752771956857f2":[7,0,0,0,1,3,2,1,2,1,6,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX397 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0":[7,0,0,0,1,3,9,10,32,9],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f":[7,0,0,0,1,3,9,10,32,16],
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html":[6,0,2078,0],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0b07925593835ce4d4aaab2f672ae387":[6,0,2078,0,6],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a15f8706b9084b72359e4c8433d771d89":[6,0,2078,0,3],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a1deb2de50401297451a3e314b5369b5e":[6,0,2078,0,16],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be":[6,0,2078,0,11],
-"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a453cfe020d81e27daa8d779be64012ee":[6,0,2078,0,7]
+"df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0b07925593835ce4d4aaab2f672ae387":[6,0,2078,0,6]
 };

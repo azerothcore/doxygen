@@ -1,5 +1,7 @@
 var NAVTREEINDEX251 =
 {
+"da/d0b/structboss__sartharion__tenebron.html#aed0f47aa2ed463ae0d2219e54e7b91bc":[6,0,690,0],
+"da/d0c/classspell__q10985__light__of__the__naaru.html":[6,0,3658],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#a87d2959523a306f85c69aa5a7a5b3de5":[6,0,3658,1],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#a9dee4c4568f36f82b82148cb847d50ca":[6,0,3658,2],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#aa9cf64a1965bd7924ce5a9c639d85fb3":[6,0,3658,0],
@@ -138,18 +140,18 @@ var NAVTREEINDEX251 =
 "da/d16/structnpc__grandmother.html#a0e2b684377ed593abfbb49b730cfe9b2":[6,0,1818,2],
 "da/d16/structnpc__grandmother.html#a6cffe8c574859779f6561dde0aef9666":[6,0,1818,0],
 "da/d16/structnpc__grandmother.html#ae39335d22b5fd1fc4c0f9d34e8977124":[6,0,1818,1],
-"da/d17/classAcore_1_1ContainerInserter.html":[5,0,1,53],
 "da/d17/classAcore_1_1ContainerInserter.html":[6,0,0,41],
+"da/d17/classAcore_1_1ContainerInserter.html":[5,0,1,53],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[6,0,0,41,3],
 "da/d17/classAcore_1_1ContainerInserter.html#a003318d4ec066ca45d79ec5b669cdb8c":[5,0,1,53,3],
-"da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,1,53,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[6,0,0,41,1],
+"da/d17/classAcore_1_1ContainerInserter.html#a44cd545e2965b309c48d40f4617bc38e":[5,0,1,53,1],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[6,0,0,41,5],
 "da/d17/classAcore_1_1ContainerInserter.html#a60d4a9120523c28d8c408c981305535e":[5,0,1,53,5],
-"da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,41,0],
 "da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[5,0,1,53,0],
-"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,53,4],
+"da/d17/classAcore_1_1ContainerInserter.html#a8ea29aedfb1eaf2b3eac29bc61849319":[6,0,0,41,0],
 "da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[6,0,0,41,4],
+"da/d17/classAcore_1_1ContainerInserter.html#ac10b2769f02687260efd531af666fbb3":[5,0,1,53,4],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[5,0,1,53,2],
 "da/d17/classAcore_1_1ContainerInserter.html#af482d9f7940d548193fc56839bc2cb87":[6,0,0,41,2],
 "da/d17/classat__naxxramas__hub__portal.html":[6,0,237],
@@ -247,7 +249,5 @@ var NAVTREEINDEX251 =
 "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264":[7,0,0,0,1,2,16,10,1,14,3],
 "da/d1e/CharmInfo_8h.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09":[7,0,0,0,1,2,16,10,1,14,0],
 "da/d1e/CharmInfo_8h.html#a6b632c5f71fb4538f4477a66a9ac63f4":[7,0,0,0,1,2,16,10,1,8],
-"da/d1e/CharmInfo_8h.html#a8a31720d588fad9fce4a74dabc39df8b":[7,0,0,0,1,2,16,10,1,16],
-"da/d1e/CharmInfo_8h.html#a8a31720d588fad9fce4a74dabc39df8ba1a1eeed651d163cde9401370f9684249":[7,0,0,0,1,2,16,10,1,16,0],
-"da/d1e/CharmInfo_8h.html#a8a31720d588fad9fce4a74dabc39df8ba2a5727b1c99073b12be5d2e5413cc9eb":[7,0,0,0,1,2,16,10,1,16,1]
+"da/d1e/CharmInfo_8h.html#a8a31720d588fad9fce4a74dabc39df8b":[7,0,0,0,1,2,16,10,1,16]
 };

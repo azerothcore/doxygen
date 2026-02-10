@@ -1,5 +1,8 @@
 var NAVTREEINDEX220 =
 {
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a60c1704617e99239d60d24d6b7513c1a":[6,0,2126,0,4],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#a8beac97ea5f7c797d2ae52e2f3c3be50":[6,0,2126,0,2],
+"d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aae75a4e69e27c1e4778a7f76caff04ba":[6,0,2126,0,5],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#ac1d282da6f2d9133619a212a349c777f":[6,0,2126,0,7],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#adfb6df0ee8ab19b58de24da8d4e6d9df":[6,0,2126,0,8],
 "d8/d7e/structnpc__snobold__vassal_1_1npc__snobold__vassalAI.html#aef408460584a17f15a84e8a6435c6348":[6,0,2126,0,3],
@@ -198,8 +201,8 @@ var NAVTREEINDEX220 =
 "d8/d86/structVampiricBiteTargetSelector.html#af23a69491c915909566249b109b1f0e8":[6,0,4262,2],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[5,0,32,6,39],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html":[6,0,12,6,39],
-"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,32,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[6,0,12,6,39,0],
+"d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#a6ab30e173d26362db0065f4f9f8fa5f8":[5,0,32,6,39,0],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[5,0,32,6,39,1],
 "d8/d87/classWorldPackets_1_1Guild_1_1GuildPermissionsQuery.html#aec20af8c3c8236627353287fe2eaa0a7":[6,0,12,6,39,1],
 "d8/d87/classboss__kelthuzad__minion.html":[6,0,573],
@@ -246,8 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d8d/structActiveBoatStruct.html#adcd8647fc0ee9799e24173780209f2d9":[6,0,126,4],
 "d8/d8d/structActiveBoatStruct.html#af3ae27adaecafe9a09802bc202973d68":[6,0,126,6],
 "d8/d8d/structTaxiPathEntry.html":[6,0,4186],
-"d8/d8d/structTaxiPathEntry.html#a4375feed48ce5ac7291dced992c9bbf4":[6,0,4186,1],
-"d8/d8d/structTaxiPathEntry.html#a44fc4c13d3426fcbc7b1108e513973de":[6,0,4186,2],
-"d8/d8d/structTaxiPathEntry.html#a6b24cdac137b2b8d9472b5d1aca4178f":[6,0,4186,3],
-"d8/d8d/structTaxiPathEntry.html#a8e87b02059c2c1e4b1dd2760c99cb004":[6,0,4186,0]
+"d8/d8d/structTaxiPathEntry.html#a4375feed48ce5ac7291dced992c9bbf4":[6,0,4186,1]
 };

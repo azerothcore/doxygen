@@ -1,5 +1,9 @@
 var NAVTREEINDEX370 =
 {
+"de/d95/classTicketMgr.html#a02858169d0fbf1e9fd298c381dff6ac7":[6,0,4202,0],
+"de/d95/classTicketMgr.html#a07baf2322b9c2b51251fc921b1767a44":[6,0,4202,25],
+"de/d95/classTicketMgr.html#a11570f6fb5ed3e9e7c69e2cf7eb6dcb3":[6,0,4202,2],
+"de/d95/classTicketMgr.html#a1a6167a7f574d205d97388914ce35d7a":[6,0,4202,30],
 "de/d95/classTicketMgr.html#a2042b8bdd21a9e29a2ab7dcf69bf96e1":[6,0,4202,28],
 "de/d95/classTicketMgr.html#a24cd222d7d81113df99d7824cf90826a":[6,0,4202,8],
 "de/d95/classTicketMgr.html#a40a7975026b34b2598da1680671f30be":[6,0,4202,16],
@@ -170,16 +174,16 @@ var NAVTREEINDEX370 =
 "de/d99/classspell__dk__chains__of__ice.html#a7d0dd936965845c14e7b54846facdb89":[6,0,2766,1],
 "de/d99/classspell__dk__chains__of__ice.html#aaa65e67362ded5318e89272acf073bf3":[6,0,2766,0],
 "de/d99/classspell__dk__chains__of__ice.html#ab7b767743d62d9763bea710b7552a8cf":[6,0,2766,2],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,12,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[5,0,32,6,43],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,12,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,12,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,32,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,32,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,12,6,43,1],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,32,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,32,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,12,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,32,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,12,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,32,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[6,0,12,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,32,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[5,0,32,6,43,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX370 =
 "de/da1/classspell__dru__t10__restoration__4p__bonus.html#a9abf4baaba572636dba3980e5ae777c5":[6,0,2856,0],
 "de/da1/classspell__mage__summon__water__elemental.html":[6,0,3450],
 "de/da1/classspell__mage__summon__water__elemental.html#a349e674aa5e07f59dc0a0d78a25aa0cd":[6,0,3450,2],
-"de/da1/classspell__mage__summon__water__elemental.html#a9440e067db7bc5c48c973dfd61f1a95e":[6,0,3450,1],
-"de/da1/classspell__mage__summon__water__elemental.html#acb433ef020fbd090259ac969a35842ea":[6,0,3450,0],
-"de/da1/instance__magisters__terrace_8cpp.html":[7,0,0,0,1,3,2,5,4],
-"de/da1/instance__magisters__terrace_8cpp.html#a39e3bff767d59081afebb72eeb3a1646":[7,0,0,0,1,3,2,5,4,2],
-"de/da1/instance__magisters__terrace_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,5,4,4]
+"de/da1/classspell__mage__summon__water__elemental.html#a9440e067db7bc5c48c973dfd61f1a95e":[6,0,3450,1]
 };

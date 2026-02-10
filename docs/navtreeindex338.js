@@ -1,5 +1,9 @@
 var NAVTREEINDEX338 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4dc9fd4f15030fce0284d0234dc7e1da":[7,0,0,0,1,2,38,0,75,1,110],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a4f8f32845d9731a818cb076a0b457588":[7,0,0,0,1,2,38,0,75,1,172],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50314971f8a5b62a5512d83b28d37b5e":[7,0,0,0,1,2,38,0,75,1,5],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9":[7,0,0,0,1,2,38,0,75,1,179],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a51d113782023b5ec1661e3d0de7ebb8b":[7,0,0,0,1,2,38,0,75,1,116],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a521c78636641b7b4296349538151fa50":[7,0,0,0,1,2,38,0,75,1,79],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a54a718be6125ea1e21738b2cfff3d0fb":[7,0,0,0,1,2,38,0,75,1,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX338 =
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#a4c1f53fbbc6189ca9ee0420bc4198684":[6,0,2221,0,2],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aa66f1aa48cf928ac12751cb3ca2358f3":[6,0,2221,0,4],
 "dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#ad21127654d5511b6b1d9b22cdd77bd08":[6,0,2221,0,3],
-"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aedb43124c923621aadecb77511204fc6":[6,0,2221,0,0],
-"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#af23cb4a19d28f5aa57ba96de95f87c87":[6,0,2221,0,1],
-"dd/dd1/classboss__professor__putricide.html":[6,0,665],
-"dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,665,2],
-"dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,665,1]
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#aedb43124c923621aadecb77511204fc6":[6,0,2221,0,0]
 };

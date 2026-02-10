@@ -1,5 +1,9 @@
 var NAVTREEINDEX341 =
 {
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a120459a2f592bd2fc7d08cf129e0196a":[7,0,0,0,1,3,5,19,21,11],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a32f469e5e5aed28b9631a2b628bfbce0":[7,0,0,0,1,3,5,19,21,13],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a343db2db56b01a8c00252b99c81201e2":[7,0,0,0,1,3,5,19,21,3],
+"dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a3565b34d1a34ff58648c1ac6c3d2c13b":[7,0,0,0,1,3,5,19,21,10],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a46b0a895be7ae9d5a29ff6273df0fe9a":[7,0,0,0,1,3,5,19,21,12],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a5ea4c443cdf136d58f98541869a0d3a7":[7,0,0,0,1,3,5,19,21,8],
 "dd/de1/zone__grizzly__hills_8cpp.html#ab1bd007b7ebb943adde818cfcf94f6c8a5eac235efc73e11d15cbd086ac1c7bc3":[7,0,0,0,1,3,5,19,21,9],
@@ -113,14 +117,14 @@ var NAVTREEINDEX341 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,2988,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3073],
@@ -172,8 +176,8 @@ var NAVTREEINDEX341 =
 "dd/ded/structboss__twin__valkyrAI.html#ae49793079dbec2dbe5e807f998705b20":[6,0,755,10],
 "dd/ded/structboss__twin__valkyrAI.html#aea878cd12d640ce4e3d87deb85c20b9f":[6,0,755,11],
 "dd/ded/structboss__twin__valkyrAI.html#af6127deaa5ff11a4ae2983e34d538bef":[6,0,755,6],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,12,11,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[5,0,32,11,4],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html":[6,0,12,11,4],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,32,11,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[6,0,12,11,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,32,11,4,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX341 =
 "dd/df4/classspell__item__valanyr__hammer__of__ancient__kings.html#aebe1c8083ba09c21125c47843b2949da":[6,0,3350,1],
 "dd/df4/map__extractor_2loadlib_2loadlib_8h.html":[7,0,0,0,3,1,0,0],
 "dd/df4/map__extractor_2loadlib_2loadlib_8h.html#a6fef47739ef9998b00a2523c98cb2315":[7,0,0,0,3,1,0,0,3],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[6,0,1844,0],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a02ed3216c8b71e3d2be695866dbc0089":[6,0,1844,0,4],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a1048c558b825b58dbc7a3d97869a3e88":[6,0,1844,0,3],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a36d1993262eb0a7200e2bec625f5b4d1":[6,0,1844,0,7],
-"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html#a77a978fdb0ba0de506f66ec0b2906229":[6,0,1844,0,1]
+"dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html":[6,0,1844,0]
 };

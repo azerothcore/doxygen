@@ -1,5 +1,9 @@
 var NAVTREEINDEX395 =
 {
+"df/da7/classBattleground.html#a899679fefc6ec036466c4abe2e71d25b":[6,0,316,164],
+"df/da7/classBattleground.html#a89ad7beedc7aca0506c87d983b74eee4":[6,0,316,1],
+"df/da7/classBattleground.html#a8a2f64b459fdd5c3fe6c556a44202a7f":[6,0,316,207],
+"df/da7/classBattleground.html#a8a507c4d4237c30326bcf1a0bf8f82b3":[6,0,316,25],
 "df/da7/classBattleground.html#a8c095e425130c2460d3ad85f85238ffe":[6,0,316,104],
 "df/da7/classBattleground.html#a8c499d8b29631281063c066fe908a9be":[6,0,316,251],
 "df/da7/classBattleground.html#a8ca3356d984db0c5b6e09d61cf7a406c":[6,0,316,101],
@@ -108,12 +112,12 @@ var NAVTREEINDEX395 =
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,316,252],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,12,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,32,2,9],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,32,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,12,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,32,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,32,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,12,2,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,32,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,32,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,12,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,32,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,2944],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,2944,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,2944,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX395 =
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html":[6,0,1716,0],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a29132346f117ba785039057619edb9e7":[6,0,1716,0,3],
 "df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a4038d707731f64f588e307c22c859902":[6,0,1716,0,1],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1716,0,2],
-"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a483e8fb0d73561e34a1078fdde1a1b5b":[6,0,1716,0,0],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[5,0,32,9,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html":[6,0,12,9,8],
-"df/db4/classWorldPackets_1_1Misc_1_1PlayMusic.html#ad01a67d76fe9dff269eac9108a27c75a":[6,0,12,9,8,2]
+"df/db2/structnpc__creditmarker__visit__with__ancestors_1_1npc__creditmarker__visit__with__ancestorsAI.html#a40d92122cd4f879f52ff78a4f172c3b8":[6,0,1716,0,2]
 };

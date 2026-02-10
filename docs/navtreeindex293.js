@@ -1,5 +1,16 @@
 var NAVTREEINDEX293 =
 {
+"db/dce/classAura.html#ae2a6c05d26b1254d93038b666d1e46cd":[6,0,283,101],
+"db/dce/classAura.html#ae44dc9394657b8fbc90bec95911cac03":[6,0,283,48],
+"db/dce/classAura.html#ae63436802a402d26115d21f4a2073e1a":[6,0,283,130],
+"db/dce/classAura.html#ae88253dbdddede64cf443796dc155852":[6,0,283,55],
+"db/dce/classAura.html#aeb7fadeb3b25c9d5a2903e5c1ea06ff2":[6,0,283,142],
+"db/dce/classAura.html#af0236680754f81e374b015640e4b6eff":[6,0,283,30],
+"db/dce/classAura.html#af22450afa8bf33c979c0a0f7d801ab4c":[6,0,283,131],
+"db/dce/classAura.html#af32b9da81a73be723f660ae4e3363e74":[6,0,283,136],
+"db/dce/classAura.html#af64f07e2756640cb9caf21433bd4e2b6":[6,0,283,73],
+"db/dce/classAura.html#af70f37c9e40b7038cf952c2969ae9ab2":[6,0,283,87],
+"db/dce/classAura.html#af94996c697b3f790489314b6175ab311":[6,0,283,0],
 "db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20":[6,0,283,104],
 "db/dce/classAura.html#af9803e108cc68b115fec9043b03f1118":[6,0,283,49],
 "db/dce/classAura.html#afa8b3462e2d68da5a9972c6cbd637022":[6,0,283,20],
@@ -238,16 +249,5 @@ var NAVTREEINDEX293 =
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac36d7100de7444fcd711eaeecd510ac3":[6,0,2177,0,6],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ac3bb42dd096d49e138399aac2d0616c0":[6,0,2177,0,3],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#addb829b3cef88f6430c2a1ae5251105f":[6,0,2177,0,22],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae097af2a0aaeecc237a73ab3d4fafb0f":[6,0,2177,0,12],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae9073aa689450fca369fa99815804f61":[6,0,2177,0,17],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae91bdf876060d8ff6fdf4fbf797d07d8":[6,0,2177,0,0],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aeeeebf8e7c9351ce7ec6b9b86c6180da":[6,0,2177,0,23],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#af6b067b16ecd834513590e51e6ddd485":[6,0,2177,0,4],
-"db/dd5/classCreature.html":[6,0,920],
-"db/dd5/classCreature.html#a00d974a3f97e003cadb1760538d8be27":[6,0,920,191],
-"db/dd5/classCreature.html#a01ccacf28df6336a774bf1672caf3571":[6,0,920,200],
-"db/dd5/classCreature.html#a0382ef78aac4e6940645479a3fae5c2d":[6,0,920,91],
-"db/dd5/classCreature.html#a0740d9c891653ddbeb0fd797464eaef6":[6,0,920,109],
-"db/dd5/classCreature.html#a0748bc52577a551d80702a9d156b5cc9":[6,0,920,217],
-"db/dd5/classCreature.html#a076aee1af76526550c5547c591b672fe":[6,0,920,295]
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae097af2a0aaeecc237a73ab3d4fafb0f":[6,0,2177,0,12]
 };

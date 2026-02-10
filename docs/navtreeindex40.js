@@ -1,7 +1,5 @@
 var NAVTREEINDEX40 =
 {
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea44e12d41e08bdc27e6c7736e593ad8e1":[7,0,0,0,1,2,16,10,5,52,9],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea45d2a58d49ab909fd6a6e78467f7ca0d":[7,0,0,0,1,2,16,10,5,52,5],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea49e9d4df8d30a4fa19a5d422dbb2fb41":[7,0,0,0,1,2,16,10,5,52,24],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea5aad5ea92b88fa48fb05a367e6d70bb8":[7,0,0,0,1,2,16,10,5,52,30],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea79440a990c465c7f19a3aa5cd7808c62":[7,0,0,0,1,2,16,10,5,52,15],
@@ -249,5 +247,7 @@ var NAVTREEINDEX40 =
 "d1/db6/GuildScript_8cpp.html#af7c126caabb7b664b2a28086b5f7737e":[7,0,0,0,1,2,38,0,55,0],
 "d1/db7/DatabaseLoader_8h.html":[7,0,0,0,1,1,0,7],
 "d1/db7/classspell__q4735__collect__rookery__egg.html":[6,0,3732],
-"d1/db7/classspell__q4735__collect__rookery__egg.html#a16983545e25f3e02064e2b3d573b2bb8":[6,0,3732,0]
+"d1/db7/classspell__q4735__collect__rookery__egg.html#a16983545e25f3e02064e2b3d573b2bb8":[6,0,3732,0],
+"d1/db7/classspell__q4735__collect__rookery__egg.html#a83c48e1c42a6a6dd892f0f4d6a20687b":[6,0,3732,4],
+"d1/db7/classspell__q4735__collect__rookery__egg.html#a95f7bd6dd52b19bb1c09975a7286882a":[6,0,3732,2]
 };

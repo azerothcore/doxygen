@@ -2,7 +2,7 @@ var structboss__malygos =
 [
     [ "boss_malygos", "de/d52/structboss__malygos.html#acd26b3f587a379b568c496ea1ec3194f", null ],
     [ "AttackStart", "de/d52/structboss__malygos.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
-    [ "DamageTaken", "de/d52/structboss__malygos.html#ac590fe64e84f1e634b11dacd0c28241f", null ],
+    [ "DamageTaken", "de/d52/structboss__malygos.html#a28a85c719c91835b5f6f52d267990c0c", null ],
     [ "EnterEvadeMode", "de/d52/structboss__malygos.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
     [ "HandleIntroSpeech", "de/d52/structboss__malygos.html#a648e2f73ffead8912659bc342ec70774", null ],
     [ "InitializeAI", "de/d52/structboss__malygos.html#a549d5333ad95dfe7ef55a7bfbdc93899", null ],

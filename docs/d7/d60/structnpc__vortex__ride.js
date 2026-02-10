@@ -9,5 +9,5 @@ var structnpc__vortex__ride =
     [ "bUpdatedFlying", "d7/d60/structnpc__vortex__ride.html#a09b82761e9b76d1a903e6c2894410bcb", null ],
     [ "despawnTimer", "d7/d60/structnpc__vortex__ride.html#ab18637398a1ca7dfea76cdbed2753f28", null ],
     [ "timer", "d7/d60/structnpc__vortex__ride.html#a34831d341551ebb36b4f9a26e12e1f36", null ],
-    [ "VORTEX_RADIUS", "d7/d60/structnpc__vortex__ride.html#ad7539b34beea5abb05f443d1f5f22675", null ]
+    [ "vortexRadius", "d7/d60/structnpc__vortex__ride.html#ae5be664edc6607df34a3ce7cc9ab1ec5", null ]
 ];

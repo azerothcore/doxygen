@@ -1,6 +1,5 @@
 var NAVTREEINDEX275 =
 {
-"db/d0c/classspell__blood__council__shadow__prison__damage.html#affe1d9a5e9c4776d1651fdb95283caf4":[6,0,2667,2],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html":[6,0,3041],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#a12f4c4a85f19ceb55d274428cf2b25a4":[6,0,3041,0],
 "db/d0c/classspell__gen__spirit__of__competition__winner.html#a437a018fd6917bee51bdbba7cf29e53d":[6,0,3041,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX275 =
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a0b5d70a7a9bf27696295ccbbffd2a8b9":[6,0,2683,2],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a1f1c3e0ea24174605a7be8fa02e30518":[6,0,2683,1],
 "db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a2804f25643e59f3922291abcb055b641":[6,0,2683,3],
-"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2683,0]
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a29679ed64fc288dc0e85beed2971d4be":[6,0,2683,0],
+"db/d17/classspell__boss__magus__telestra__summon__telestra__clones__aura.html#a711b5744770d0c9fb5aacb550f2384fa":[6,0,2683,4]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX360 =
 {
+"de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
+"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3884],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3884,1],
+"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3884,0],
 "de/d2e/classspell__svala__ritual__strike__aura.html#a9bce52699983fe798c903385faa42462":[6,0,3884,2],
 "de/d2f/CreatureData_8h.html":[7,0,0,0,1,2,16,1,2],
 "de/d2f/CreatureData_8h.html#a064cb5a850ff499a14bcf97b361ce6af":[7,0,0,0,1,2,16,1,2,28],
@@ -245,9 +249,5 @@ var NAVTREEINDEX360 =
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46adfe7bab9ca045d43f12562cdf6b82466":[7,0,0,0,1,2,41,9,65,6],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46ae5dd4dda6fda38b1dab641fb971694fc":[7,0,0,0,1,2,41,9,65,26],
 "de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46af6f8bdaf5b930cca33c0866127c57963":[7,0,0,0,1,2,41,9,65,17],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46af92071b68f90d0fc28f7941d6b9f30a5":[7,0,0,0,1,2,41,9,65,8],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46af9c43b17dd5136a8eaeb30135047eac0":[7,0,0,0,1,2,41,9,65,16],
-"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46afa45851285099c233820be4d1a526892":[7,0,0,0,1,2,41,9,65,27],
-"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527":[7,0,0,0,1,2,41,9,68],
-"de/d30/SpellMgr_8h.html#acb2f59f82f5d44cf14104713821f0527a2f157d7fe9a40c8a3444b941eb1e53b0":[7,0,0,0,1,2,41,9,68,0]
+"de/d30/SpellMgr_8h.html#ac9aaef596a1061b6b944e1dc0e679b46af92071b68f90d0fc28f7941d6b9f30a5":[7,0,0,0,1,2,41,9,65,8]
 };

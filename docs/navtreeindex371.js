@@ -1,5 +1,9 @@
 var NAVTREEINDEX371 =
 {
+"de/da1/classspell__mage__summon__water__elemental.html#acb433ef020fbd090259ac969a35842ea":[6,0,3450,0],
+"de/da1/instance__magisters__terrace_8cpp.html":[7,0,0,0,1,3,2,5,4],
+"de/da1/instance__magisters__terrace_8cpp.html#a39e3bff767d59081afebb72eeb3a1646":[7,0,0,0,1,3,2,5,4,2],
+"de/da1/instance__magisters__terrace_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,5,4,4],
 "de/da1/instance__magisters__terrace_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,5,4,5],
 "de/da1/instance__magisters__terrace_8cpp.html#a6fd9df921f79258a02d22baaf7a1caca":[7,0,0,0,1,3,2,5,4,7],
 "de/da1/instance__magisters__terrace_8cpp.html#a845a92716bd40c99a93eb0715cd737b0":[7,0,0,0,1,3,2,5,4,6],
@@ -33,16 +37,16 @@ var NAVTREEINDEX371 =
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2326,25],
 "de/da2/classMMAP_1_1IMMapMgr.html":[6,0,6,1],
 "de/da2/classMMAP_1_1IMMapMgr.html":[5,0,20,1],
-"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,1,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[5,0,20,1,0],
-"de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,1,4],
+"de/da2/classMMAP_1_1IMMapMgr.html#a2292f2bdacfc627ab33f02d399221ad5":[6,0,6,1,0],
 "de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[6,0,6,1,4],
-"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,1,2],
+"de/da2/classMMAP_1_1IMMapMgr.html#a25f8900f4546990562fb048e956bb1e0":[5,0,20,1,4],
 "de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[6,0,6,1,2],
+"de/da2/classMMAP_1_1IMMapMgr.html#a5d6bcb413c39e82da8e4924c4754c8b0":[5,0,20,1,2],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[6,0,6,1,1],
 "de/da2/classMMAP_1_1IMMapMgr.html#a8298d6b3fbce5ccd835af3c287c361b6":[5,0,20,1,1],
-"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[5,0,20,1,3],
 "de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[6,0,6,1,3],
+"de/da2/classMMAP_1_1IMMapMgr.html#afdc7e829a374c20b4d072290363c7c62":[5,0,20,1,3],
 "de/da2/classachievement__resilient__victory.html":[6,0,85],
 "de/da2/classachievement__resilient__victory.html#a21445d406f67771a20608260b3f9b033":[6,0,85,1],
 "de/da2/classachievement__resilient__victory.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8":[6,0,85,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX371 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c30d9a7d45fe7197bd97f2a84ef8c43":[7,0,0,0,1,1,0,0,1,1,313],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c7295e2064c07f435c2743037c37e7b":[7,0,0,0,1,1,0,0,1,1,107],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c742fa4d396849296ce95360a7ea0dc":[7,0,0,0,1,1,0,0,1,1,345],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c9403d39057bc4235278637f4535595":[7,0,0,0,1,1,0,0,1,1,160],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6cc7bfeee3b337ce9baddb429ccda170":[7,0,0,0,1,1,0,0,1,1,462],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6d8e811c7e58ddcd2e45c5805d5bad44":[7,0,0,0,1,1,0,0,1,1,55],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6dbfe303ba7e06723b161f79795033f1":[7,0,0,0,1,1,0,0,1,1,325],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6e6fd079d997391e6ee9b25acb9a16d7":[7,0,0,0,1,1,0,0,1,1,447]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a6c9403d39057bc4235278637f4535595":[7,0,0,0,1,1,0,0,1,1,160]
 };

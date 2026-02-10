@@ -1,5 +1,9 @@
 var NAVTREEINDEX373 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af0b10af7c3a0f16e3bcc9d6602da385f":[7,0,0,0,1,1,0,0,1,1,253],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af0f9742e3444a92a4c90b3de11b09623":[7,0,0,0,1,1,0,0,1,1,357],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af169bbfa184ce43d4393a5a1597310b2":[7,0,0,0,1,1,0,0,1,1,141],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af1ab5463e71ef54c08efa64d11bead18":[7,0,0,0,1,1,0,0,1,1,146],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af202b36dda0b284dd9de20eb92077be4":[7,0,0,0,1,1,0,0,1,1,116],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af250d5246ec1f508997531b17353c7c7":[7,0,0,0,1,1,0,0,1,1,416],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7af27b5dcf6210ce9a9fffbf4516781ebd":[7,0,0,0,1,1,0,0,1,1,319],
@@ -245,9 +249,5 @@ var NAVTREEINDEX373 =
 "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaaa730e5fcb7dda10852a326f0fc3debb":[7,0,0,0,1,3,5,18,56,2],
 "de/da6/zone__dragonblight_8cpp.html#a9518c38611ddc9d1c42359fc6a4c51acaddd53882ac63b1106f8e8512adeead4c":[7,0,0,0,1,3,5,18,56,0],
 "de/da6/zone__dragonblight_8cpp.html#aa0bde757544a3b1dcc305bff0e6ca9bb":[7,0,0,0,1,3,5,18,60],
-"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9":[7,0,0,0,1,3,5,18,58],
-"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a01f955c72d8d431c507ab329e9035d52":[7,0,0,0,1,3,5,18,58,3],
-"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a2cde59b0a4db66da80a3c1bbf39a0d4f":[7,0,0,0,1,3,5,18,58,7],
-"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a3aa7dd30f9eeea1e9280a23f00a5ce76":[7,0,0,0,1,3,5,18,58,2],
-"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9a5d2a7910d1b37d273b0cf215d624b394":[7,0,0,0,1,3,5,18,58,11]
+"de/da6/zone__dragonblight_8cpp.html#aa3ed826690378752b1c99578a346cfd9":[7,0,0,0,1,3,5,18,58]
 };

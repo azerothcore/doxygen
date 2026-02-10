@@ -1,6 +1,5 @@
 var NAVTREEINDEX204 =
 {
-"d7/dbd/structnpc__magister__aledis.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb":[6,0,1950,7],
 "d7/dbd/structnpc__magister__aledis.html#a0e30c5d4f9fe023537a1b29258967630":[6,0,1950,0],
 "d7/dbd/structnpc__magister__aledis.html#a3c3b72de2dc3e2a1e2bdeab908f0691f":[6,0,1950,1],
 "d7/dbd/structnpc__magister__aledis.html#a5b4cd0ab4d214547dca28b8b384f83df":[6,0,1950,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX204 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab35e0928c1d22f5a1110592323e53d23":[6,0,1355,0,61],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab4d4d0acf3fe6a6fc45ff635751118c0":[6,0,1355,0,34],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab52a92709907bfc41ac1d71e7ac8fee1":[6,0,1355,0,72],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab676617168b01e45e4e244dcf94aacb9":[6,0,1355,0,37]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab676617168b01e45e4e244dcf94aacb9":[6,0,1355,0,37],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ab73afbc81283f58b786e1b62848df3e2":[6,0,1355,0,3]
 };

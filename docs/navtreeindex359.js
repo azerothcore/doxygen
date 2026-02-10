@@ -1,5 +1,9 @@
 var NAVTREEINDEX359 =
 {
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html":[6,0,2232,0],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a0176f8b45c20af1552e1a8b70e307442":[6,0,2232,0,4],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a118059c877151a9f6b2b15a4070e2704":[6,0,2232,0,0],
+"de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a3217617eb3312c1da34dc7dce590fe0d":[6,0,2232,0,1],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a556453c557df0be6a57255e400d98a87":[6,0,2232,0,9],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a66ea56e856fcc706e4f938512def1590":[6,0,2232,0,2],
 "de/d23/structnpc__ulduar__hodir__mage_1_1npc__ulduar__hodir__mageAI.html#a6d4cd626dcd58f825a6c88b804bb38a7":[6,0,2232,0,3],
@@ -22,8 +26,8 @@ var NAVTREEINDEX359 =
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,41,1],
 "de/d24/structWMO_1_1MODD.html":[6,0,11,0],
 "de/d24/structWMO_1_1MODD.html":[5,0,31,0],
-"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,11,0,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,31,0,0],
+"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,11,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,11,0,3],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,31,0,3],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,31,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX359 =
 "de/d2d/namespaceObjectAccessor.html#ace68e06f8fc640d94eca642f91b4598e":[5,0,23,12],
 "de/d2d/namespaceObjectAccessor.html#ad72db398e2ff25a82a93e89fb67c56ff":[5,0,23,22],
 "de/d2d/namespaceObjectAccessor.html#ad7a6a08850b890d65a5e38a77ef92502":[5,0,23,6],
-"de/d2d/namespaceObjectAccessor.html#ae98f0c5bc69acfddbb05d43599b07195":[5,0,23,8],
-"de/d2d/namespaceObjectAccessor.html#af5cb6806842c9689cf1d5f43ffdc4b0a":[5,0,23,5],
-"de/d2e/classspell__svala__ritual__strike__aura.html":[6,0,3884],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a1336ab2b7f560deeeeaaf017578bd524":[6,0,3884,1],
-"de/d2e/classspell__svala__ritual__strike__aura.html#a79019ef395c9b66f6a88759b0517005d":[6,0,3884,0]
+"de/d2d/namespaceObjectAccessor.html#ae98f0c5bc69acfddbb05d43599b07195":[5,0,23,8]
 };

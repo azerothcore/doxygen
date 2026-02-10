@@ -1,5 +1,9 @@
 var NAVTREEINDEX336 =
 {
+"dd/db2/zone__storm__peaks_8cpp.html#a9fdba13d991fbaa7ff1363f4a4ca7144afef7f466c30209c4d2ef04320dc1b8da":[7,0,0,0,1,3,5,23,42,0],
+"dd/db2/zone__storm__peaks_8cpp.html#ab134668066163a650d4e57adb42db8c6":[7,0,0,0,1,3,5,23,46],
+"dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71":[7,0,0,0,1,3,5,23,41],
+"dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71a58a9b81c2cdf68439c2e3a4ae08ab651":[7,0,0,0,1,3,5,23,41,0],
 "dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36ed":[7,0,0,0,1,3,5,23,33],
 "dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36eda0ab0f58505a9df3f497f065b7b82c995":[7,0,0,0,1,3,5,23,33,2],
 "dd/db2/zone__storm__peaks_8cpp.html#ac0dfdb79063698c8140e5423b6ec36eda4fdbea404819b5f53d2fa2195205c8de":[7,0,0,0,1,3,5,23,33,1],
@@ -153,8 +157,8 @@ var NAVTREEINDEX336 =
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classnpc__thassarian2.html":[6,0,2170],
 "dd/dbc/classnpc__thassarian2.html#a8a2f1e1595349e4fa9968e85f17d0468":[6,0,2170,1],
 "dd/dbc/classnpc__thassarian2.html#adb87c99f3375f88eca55b39e1cd0bbd5":[6,0,2170,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX336 =
 "dd/dc5/structnpc__doomfire__spirit.html#afeab7c791c31457d86e98a0064fa6ad8":[6,0,1752,4],
 "dd/dc6/advstd_8h.html":[7,0,0,0,0,15,0],
 "dd/dc6/classspell__q10929__fumping__aura.html":[6,0,3654],
-"dd/dc6/classspell__q10929__fumping__aura.html#a13fdde1557249328306a57e159d821a7":[6,0,3654,2],
-"dd/dc6/classspell__q10929__fumping__aura.html#a317c238b165ad331beb447ea5d0de7e1":[6,0,3654,0],
-"dd/dc6/classspell__q10929__fumping__aura.html#a58a383bd4e3062a5c5b1df97192b4b7e":[6,0,3654,3],
-"dd/dc6/classspell__q10929__fumping__aura.html#a7481f017a1382eb75e0101cb49fb4fcf":[6,0,3654,1],
-"dd/dc6/steam__vault_8h.html":[7,0,0,0,1,3,7,2,2,4]
+"dd/dc6/classspell__q10929__fumping__aura.html#a13fdde1557249328306a57e159d821a7":[6,0,3654,2]
 };

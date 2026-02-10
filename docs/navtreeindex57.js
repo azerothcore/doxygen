@@ -1,5 +1,6 @@
 var NAVTREEINDEX57 =
 {
+"d2/d48/classspell__fungal__decay.html#a1c79b1016361eabb5cef57a893bccfcf":[6,0,2905,1],
 "d2/d48/classspell__fungal__decay.html#a6189a5ea90b1951b21a7e9ef36700ed9":[6,0,2905,0],
 "d2/d48/classspell__fungal__decay.html#acfa6b5217a0e0e2654b7fa9c4092abd5":[6,0,2905,2],
 "d2/d48/classspell__fungal__decay.html#adddddd0689f4686a40b1db142b5d6ce2":[6,0,2905,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d4b/classPlayer.html#a297de3a43b55b84e5d6ff5db6f1d4a48":[6,0,2402,325],
 "d2/d4b/classPlayer.html#a2a12863caf54ad9a8af56bda556d7a4b":[6,0,2402,874],
 "d2/d4b/classPlayer.html#a2a78c183bd229f9d2abe37ccc24219f5":[6,0,2402,177],
-"d2/d4b/classPlayer.html#a2a800388aa316f0108bba19a0af217fc":[6,0,2402,985],
-"d2/d4b/classPlayer.html#a2a825d54b4c6ae9e27720020b4cbd0df":[6,0,2402,1312]
+"d2/d4b/classPlayer.html#a2a800388aa316f0108bba19a0af217fc":[6,0,2402,985]
 };

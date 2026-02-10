@@ -1,5 +1,7 @@
 var NAVTREEINDEX240 =
 {
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a5f038102313e70df26e6218c38c17e6b":[7,0,0,0,1,2,24,3,20,1],
+"d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42a89e7b03ca05bd629c1aee0cb5b612128":[7,0,0,0,1,2,24,3,20,0],
 "d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42aa11325a7cb83156f4b8f07049189c2db":[7,0,0,0,1,2,24,3,20,4],
 "d9/d84/LootMgr_8h.html#a66687cf1196c7fa693fa85de99085c42ae33105bc1d7809a9f0a6fa174bc1acba":[7,0,0,0,1,2,24,3,20,3],
 "d9/d84/LootMgr_8h.html#a6d5971f1b453e4607e38ca9468ee867f":[7,0,0,0,1,2,24,3,25],
@@ -247,7 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4ae8ab9d485dfa9b53bbfbb4b595eed2":[7,0,0,0,1,3,2,4,10,9,0],
 "d9/d8c/classinstance__shadow__labyrinth.html":[6,0,1338],
 "d9/d8c/classinstance__shadow__labyrinth.html#a16a3acdfd9b1053374dfa5f27e5f3c19":[6,0,1338,1],
-"d9/d8c/classinstance__shadow__labyrinth.html#af9edf624413593a5cdf025dd9a1c3631":[6,0,1338,2],
-"d9/d8c/structnpc__rancid__mushroom.html":[6,0,2076],
-"d9/d8c/structnpc__rancid__mushroom.html#a13bfd343bdf54c829b3fcb0a775c0852":[6,0,2076,3]
+"d9/d8c/classinstance__shadow__labyrinth.html#af9edf624413593a5cdf025dd9a1c3631":[6,0,1338,2]
 };

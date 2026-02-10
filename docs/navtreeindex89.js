@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/dfa/classnpc__raging__spirit.html":[6,0,2075],
 "d2/dfa/classnpc__raging__spirit.html#ab572a667f6ddd0d4051fe424c8d9e21c":[6,0,2075,2],
 "d2/dfa/classnpc__raging__spirit.html#ad1a580bd394adc8c58575b600c16f9db":[6,0,2075,1],
 "d2/dfa/classnpc__stillpine__capitive.html":[6,0,2142],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#ac46b0f66be3074f73f5a69cffee6d354":[6,0,1763,0,1],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#af51d6abb8fc8b59d068156a4859a377e":[6,0,1763,0,5],
 "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html#afbec3c78d34ce4d11a11b56064f343f3":[6,0,1763,0,3],
-"d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html":[6,0,1924],
-"d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html#a77e98bc345f7d27f145d4b29c4deb58e":[6,0,1924,1]
+"d3/d09/classnpc__lady__sylvanas__windrunner__bfu.html":[6,0,1924]
 };

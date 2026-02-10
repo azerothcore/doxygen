@@ -1,5 +1,9 @@
 var NAVTREEINDEX339 =
 {
+"dd/dd0/structnpc__ulduar__dark__rune__guardian_1_1npc__ulduar__dark__rune__guardianAI.html#af23cb4a19d28f5aa57ba96de95f87c87":[6,0,2221,0,1],
+"dd/dd1/classboss__professor__putricide.html":[6,0,665],
+"dd/dd1/classboss__professor__putricide.html#a7c84089d24bb0c77a5203884254e0925":[6,0,665,2],
+"dd/dd1/classboss__professor__putricide.html#a80776dad5c0205aa6a98752f43e85e32":[6,0,665,1],
 "dd/dd1/classspell__target__fissures.html":[6,0,3895],
 "dd/dd1/classspell__target__fissures.html#a37ef368735fa2879871bc3ce8a52c8b1":[6,0,3895,1],
 "dd/dd1/classspell__target__fissures.html#a47c4b4da3b06d063fd2a6a612cea29da":[6,0,3895,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX339 =
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabcc48f8614db8a252e6b91cd8a239bff":[7,0,0,0,1,3,5,1,1,2,32,43],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabdd9ae17a1682ad0796a3a513093b316":[7,0,0,0,1,3,5,1,1,2,32,12],
 "dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cabeb10d9b2d8b7b7aba28d2fcb1f3ae2c":[7,0,0,0,1,3,5,1,1,2,32,16],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac0e56716d7f580cbf50f1f0317aa6947":[7,0,0,0,1,3,5,1,1,2,32,21],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac4c404944e70b252c6ffaf6ca5d5b41d":[7,0,0,0,1,3,5,1,1,2,32,32],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac614c4524edc466dc30af9f7a5ed2b0c":[7,0,0,0,1,3,5,1,1,2,32,10],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cacbf249f96ebcb245f4d180371f6ed2cf":[7,0,0,0,1,3,5,1,1,2,32,34],
-"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cace14711262a8c537d9a9944063caa5c5":[7,0,0,0,1,3,5,1,1,2,32,36]
+"dd/dd6/boss__halion_8cpp.html#a5bd342133be8c2137b831460acc9298cac0e56716d7f580cbf50f1f0317aa6947":[7,0,0,0,1,3,5,1,1,2,32,21]
 };

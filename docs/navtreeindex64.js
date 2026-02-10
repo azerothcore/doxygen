@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cadb683926e50175cbeba43215a5e558b6":[7,0,0,0,1,3,4,1,1,5,12,0],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cae089444dda1e076816b86e9d59760e28":[7,0,0,0,1,3,4,1,1,5,12,10],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cae7f41df11b0f0cbf69044d26bbeff00f":[7,0,0,0,1,3,4,1,1,5,12,18],
 "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5caeb7ea8c4489dfdfc04d1293fd117bd1a":[7,0,0,0,1,3,4,1,1,5,12,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d6a/structboss__baroness__anastari_1_1boss__baroness__anastariAI.html#afbf2d4e9c3e8e50815c398b97afb3970":[6,0,398,0,4],
 "d2/d6b/structMySQLType_3_01double_01_4.html":[6,0,1548],
 "d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html":[6,0,1598,0],
-"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a53458483699ac026ff2cd36b5f061571":[6,0,1598,0,1],
-"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a96e1bd089dfd21fa252bc6422d20bada":[6,0,1598,0,0]
+"d2/d6b/structnpc__announcer__toc5_1_1npc__announcer__toc5AI.html#a53458483699ac026ff2cd36b5f061571":[6,0,1598,0,1]
 };

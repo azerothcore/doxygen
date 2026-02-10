@@ -2282,6 +2282,7 @@ var hierarchy =
       [ "go_soulwell::go_soulwellAI", "de/d62/structgo__soulwell_1_1go__soulwellAI.html", null ],
       [ "go_suppression_device::go_suppression_deviceAI", "de/dac/structgo__suppression__device_1_1go__suppression__deviceAI.html", null ],
       [ "go_tadpole_cage::go_tadpole_cageAI", "db/d55/structgo__tadpole__cage_1_1go__tadpole__cageAI.html", null ],
+      [ "go_the_focusing_iris", "d1/df7/structgo__the__focusing__iris.html", null ],
       [ "go_transport_the_iron_eagle", "d6/d8e/structgo__transport__the__iron__eagle.html", null ],
       [ "go_transport_the_purple_princess", "d9/dd9/structgo__transport__the__purple__princess.html", null ],
       [ "go_transport_the_thundercaller", "d8/d29/structgo__transport__the__thundercaller.html", null ],
@@ -4292,7 +4293,6 @@ var hierarchy =
         [ "go_tadpole_cage", "d5/d6c/classgo__tadpole__cage.html", null ],
         [ "go_tele_to_dalaran_crystal", "de/d9e/classgo__tele__to__dalaran__crystal.html", null ],
         [ "go_tele_to_violet_stand", "d3/d48/classgo__tele__to__violet__stand.html", null ],
-        [ "go_the_focusing_iris", "dd/d3a/classgo__the__focusing__iris.html", null ],
         [ "go_the_pearl_of_the_depths", "db/d8b/classgo__the__pearl__of__the__depths.html", null ],
         [ "go_thorim_lever", "d8/d5c/classgo__thorim__lever.html", null ],
         [ "go_troll_cage", "d4/df5/classgo__troll__cage.html", null ],
@@ -4328,7 +4328,6 @@ var hierarchy =
         [ "instance_culling_of_stratholme", "d6/d9c/classinstance__culling__of__stratholme.html", null ],
         [ "instance_deadmines", "d6/d93/classinstance__deadmines.html", null ],
         [ "instance_dire_maul", "d6/de1/classinstance__dire__maul.html", null ],
-        [ "instance_eye_of_eternity", "dc/ddc/classinstance__eye__of__eternity.html", null ],
         [ "instance_forge_of_souls", "d1/d0a/classinstance__forge__of__souls.html", null ],
         [ "instance_gnomeregan", "d8/d73/classinstance__gnomeregan.html", null ],
         [ "instance_gruuls_lair", "d3/dee/classinstance__gruuls__lair.html", null ],
@@ -4784,7 +4783,6 @@ var hierarchy =
           [ "npc_love_in_air_snivel", "db/d77/structnpc__love__in__air__snivel.html", null ],
           [ "npc_madrigosa", "da/d22/structnpc__madrigosa.html", null ],
           [ "npc_mechanolift::npc_mechanoliftAI", "d0/dde/structnpc__mechanolift_1_1npc__mechanoliftAI.html", null ],
-          [ "npc_mr_bigglesworth", "d5/deb/classnpc__mr__bigglesworth.html", null ],
           [ "npc_naxxramas_trigger", "d7/d49/classnpc__naxxramas__trigger.html", null ],
           [ "npc_nerubar_victim::npc_nerubar_victimAI", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html", null ],
           [ "npc_nightbane_helper_target", "d6/d07/structnpc__nightbane__helper__target.html", null ],
@@ -4845,7 +4843,9 @@ var hierarchy =
           [ "trigger_periodic::trigger_periodicAI", "d3/d5b/structtrigger__periodic_1_1trigger__periodicAI.html", null ]
         ] ],
         [ "PassiveAI", "d8/dcd/classPassiveAI.html", [
-          [ "CritterAI", "d7/d91/classCritterAI.html", null ],
+          [ "CritterAI", "d7/d91/classCritterAI.html", [
+            [ "npc_mr_bigglesworth", "d5/deb/classnpc__mr__bigglesworth.html", null ]
+          ] ],
           [ "boss_yoggsaron_descend_portal::boss_yoggsaron_descend_portalAI", "d8/d83/structboss__yoggsaron__descend__portal_1_1boss__yoggsaron__descend__portalAI.html", null ],
           [ "npc_kernobee::npc_kernobeeAI", "d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html", null ],
           [ "npc_pet_gen_plump_turkey", "d8/dbb/structnpc__pet__gen__plump__turkey.html", null ],
@@ -6080,7 +6080,7 @@ var hierarchy =
         [ "instance_deadmines::instance_deadmines_InstanceMapScript", "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html", null ],
         [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html", null ],
         [ "instance_drak_tharon_keep", "d3/d5f/structinstance__drak__tharon__keep.html", null ],
-        [ "instance_eye_of_eternity::instance_eye_of_eternity_InstanceMapScript", "d4/d4d/structinstance__eye__of__eternity_1_1instance__eye__of__eternity__InstanceMapScript.html", null ],
+        [ "instance_eye_of_eternity", "d7/d5e/structinstance__eye__of__eternity.html", null ],
         [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "dd/d76/structinstance__forge__of__souls_1_1instance__forge__of__souls__InstanceScript.html", null ],
         [ "instance_gnomeregan::instance_gnomeregan_InstanceMapScript", "da/d3a/structinstance__gnomeregan_1_1instance__gnomeregan__InstanceMapScript.html", null ],
         [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html", null ],

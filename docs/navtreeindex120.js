@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a2cd2344c120b018a3e258c33bda9b9ab":[7,0,0,0,1,3,5,4,1,3,11,16],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a2de70c3689d001c23f0d63122b370cbb":[7,0,0,0,1,3,5,4,1,3,11,67],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a336d3d1016452ef1d155741df1ca81c6":[7,0,0,0,1,3,5,4,1,3,11,57],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a35c7c751e2f3ee5b37df85dc39de91cb":[7,0,0,0,1,3,5,4,1,3,11,13],
@@ -220,8 +221,8 @@ var NAVTREEINDEX120 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2666],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2666,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2666,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX120 =
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html":[6,0,1800,0],
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a116908f5689d6d75570379f13ed0bd90":[6,0,1800,0,4],
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a16682657d7cfb03ccd9f31d481c7af83":[6,0,1800,0,9],
-"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a42a53fedc36aa71f52900a416e414fc6":[6,0,1800,0,1],
-"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a4baa20089b50acee617c4b85bc6b8478":[6,0,1800,0,5]
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a42a53fedc36aa71f52900a416e414fc6":[6,0,1800,0,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX93 =
 {
+"d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a7c09a1a4c510ab15e2ec482c179c8761":[7,0,0,0,1,1,0,0,5,1,15],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a83b3fff2c9b5d68b5b2e67986ec09f43":[7,0,0,0,1,1,0,0,5,1,83],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a8536c62bb4820d61ea19d3fa660d55c2":[7,0,0,0,1,1,0,0,5,1,36],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a85e5c56724db77d21cee55699d07c9b7":[7,0,0,0,1,1,0,0,5,1,72],
@@ -176,16 +177,16 @@ var NAVTREEINDEX93 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a87fe4747536355ad7affda76640a082e":[6,0,336,0,1],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#a9ddcca26fb3f4c635d7bcbb045542885":[6,0,336,0,0],
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#af344a6e6bb42609887ee8a3022e9d8e5":[6,0,336,0,2],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[6,0,12,12,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,32,12,4],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[6,0,12,12,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,32,12,4,3],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[6,0,12,12,4,3],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[6,0,12,12,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[5,0,32,12,4,1],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[6,0,12,12,4,2],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a5fbfca11889684a0ab6b437eb30527cc":[6,0,12,12,4,1],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[5,0,32,12,4,2],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,32,12,4,0],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a9dfc03a60bb8a1f20eb850e3f8a00b88":[6,0,12,12,4,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[6,0,12,12,4,0],
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#abefcc15670a85ae023d24bfa5dc26a11":[5,0,32,12,4,0],
 "d3/d26/classspell__ioc__launch.html":[6,0,3229],
 "d3/d26/classspell__ioc__launch.html#a2e5311b631a4cbf6002e27e4a806280c":[6,0,3229,0],
 "d3/d26/classspell__ioc__launch.html#a575a7bf98b629dd91e7ca96e388eb8fd":[6,0,3229,1],
@@ -232,10 +233,10 @@ var NAVTREEINDEX93 =
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html":[6,0,0,4,0,5],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[6,0,0,4,0,5,1],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a0fac033c58bdd6385de489c2d7fafc18":[5,0,1,7,0,5,1],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[5,0,1,7,0,5,0],
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a695a2a7939d7c5812ddfa2148eeeb954":[6,0,0,4,0,5,0],
 "d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1754],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[6,0,1754,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[6,0,1754,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d2c/classspell__gen__tournament__duel.html#a4444d5f146e875bae40edbcc8ed408cb":[6,0,3050,0],
 "d3/d2c/classspell__gen__tournament__duel.html#a51ebef5e7fff9dfaab553ecae7be732f":[6,0,3050,3],
 "d3/d2c/classspell__gen__tournament__duel.html#ab9360c3a883dd5a7df9836306d9762ec":[6,0,3050,2],
-"d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,3050,1],
-"d3/d2c/namespaceGitRevision.html":[5,0,17]
+"d3/d2c/classspell__gen__tournament__duel.html#af4320dd6567d8c9cb2a1492095a98459":[6,0,3050,1]
 };
