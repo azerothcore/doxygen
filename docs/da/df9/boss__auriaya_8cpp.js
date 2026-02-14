@@ -1,11 +1,8 @@
 var boss__auriaya_8cpp =
 [
-    [ "boss_auriaya", "d1/da9/classboss__auriaya.html", "d1/da9/classboss__auriaya" ],
-    [ "boss_auriaya::boss_auriayaAI", "d0/d75/structboss__auriaya_1_1boss__auriayaAI.html", "d0/d75/structboss__auriaya_1_1boss__auriayaAI" ],
-    [ "npc_auriaya_sanctum_sentry", "dc/d97/classnpc__auriaya__sanctum__sentry.html", "dc/d97/classnpc__auriaya__sanctum__sentry" ],
-    [ "npc_auriaya_sanctum_sentry::npc_auriaya_sanctum_sentryAI", "d5/dc4/structnpc__auriaya__sanctum__sentry_1_1npc__auriaya__sanctum__sentryAI.html", "d5/dc4/structnpc__auriaya__sanctum__sentry_1_1npc__auriaya__sanctum__sentryAI" ],
-    [ "npc_auriaya_feral_defender", "d6/d78/classnpc__auriaya__feral__defender.html", "d6/d78/classnpc__auriaya__feral__defender" ],
-    [ "npc_auriaya_feral_defender::npc_auriaya_feral_defenderAI", "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI.html", "d0/d9a/structnpc__auriaya__feral__defender_1_1npc__auriaya__feral__defenderAI" ],
+    [ "boss_auriaya", "d6/de4/structboss__auriaya.html", "d6/de4/structboss__auriaya" ],
+    [ "npc_auriaya_sanctum_sentry", "d9/dbd/structnpc__auriaya__sanctum__sentry.html", "d9/dbd/structnpc__auriaya__sanctum__sentry" ],
+    [ "npc_auriaya_feral_defender", "d1/d24/structnpc__auriaya__feral__defender.html", "d1/d24/structnpc__auriaya__feral__defender" ],
     [ "spell_auriaya_sentinel_blast", "d4/d66/classspell__auriaya__sentinel__blast.html", "d4/d66/classspell__auriaya__sentinel__blast" ],
     [ "achievement_auriaya_crazy_cat_lady", "d9/d2e/classachievement__auriaya__crazy__cat__lady.html", "d9/d2e/classachievement__auriaya__crazy__cat__lady" ],
     [ "achievement_auriaya_nine_lives", "d9/d0d/classachievement__auriaya__nine__lives.html", "d9/d0d/classachievement__auriaya__nine__lives" ],
@@ -17,7 +14,10 @@ var boss__auriaya_8cpp =
       [ "EVENT_SENTINEL_BLAST", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca1b3f76a6c47994411b4f2c801eca13aa", null ],
       [ "EVENT_REMOVE_IMMUNE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacad9a0308c0851420ef518b98c6e3fe192", null ],
       [ "EVENT_RESPAWN_FERAL_DEFENDER", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca61e9650a536070a1519603b727f99bc8", null ],
-      [ "EVENT_ENRAGE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca470d03afa22c989a62d65ba1ce60863b", null ]
+      [ "EVENT_SAVAGE_POUNCE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacae0cf791545158754919cea4d5601ecb5", null ],
+      [ "EVENT_RIP_FLESH", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca6fefff45657f5398bd5d2bdf73ced117", null ],
+      [ "EVENT_FERAL_RUSH", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eacaa0a14f5cc7673939e738dd40a99c7eaf", null ],
+      [ "EVENT_FERAL_POUNCE", "da/df9/boss__auriaya_8cpp.html#a7e23dcf30d7d2163bfeb660ab6e77eaca5378ddfce745b5bdbc1e2b1ab88c73b2", null ]
     ] ],
     [ "AuriayaNPC", "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29f", [
       [ "NPC_FERAL_DEFENDER", "da/df9/boss__auriaya_8cpp.html#ae1c5560392584167965878b18d36a29fae9458a3edab778dc2f3052c1f6002db5", null ],

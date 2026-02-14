@@ -27,7 +27,6 @@ var boss__sartharion_8cpp =
       [ "EVENT_SARTHARION_CALL_TENEBRON", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a25a7f440bed146cb853a4500de340eb8", null ],
       [ "EVENT_SARTHARION_CALL_SHADRON", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6253cf18fcf4650ea62ba03ea5f58430", null ],
       [ "EVENT_SARTHARION_CALL_VESPERON", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aeb7030afec0f5f6b581bd6ebc1ef8cf4", null ],
-      [ "EVENT_SARTHARION_BOUNDARY", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad8597cefa76c518d9ab0b0467e43f469", null ],
       [ "EVENT_MINIDRAKE_SPEECH", "df/d71/boss__sartharion_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a023b4dbd94d9ae8eeb8dc0049948ed92", null ]
     ] ],
     [ "Misc", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
@@ -44,8 +43,7 @@ var boss__sartharion_8cpp =
       [ "MAX_DRAGONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6077dbe2bcc84af04eefbc813fd7373d", null ],
       [ "MAX_AREA_TRIGGER_COUNT", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a244f05bb61f2bdd96ebdc94c1d47b5b9", null ],
       [ "MAX_CYCLONE_COUNT", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0ca2b24731fb3131900d8eadbc449646", null ],
-      [ "MAX_TENEBORN_EGGS_SUMMONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adf6a77369a2753ebbf1e0b0f654b7af1", null ],
-      [ "MAX_BOUNDARY_POSITIONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a66c16cbeea26700bf8c87ac587a93571", null ]
+      [ "MAX_TENEBORN_EGGS_SUMMONS", "df/d71/boss__sartharion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adf6a77369a2753ebbf1e0b0f654b7af1", null ]
     ] ],
     [ "NPCs", "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_TWILIGHT_EGG", "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7d2d663e0fd0f7e37fdd04eb045c5c6c", null ],
@@ -128,6 +126,5 @@ var boss__sartharion_8cpp =
     [ "FlameTsunamiLeftOffsets", "df/d71/boss__sartharion_8cpp.html#a16e282c892201d37cc8cb653e1959b3c", null ],
     [ "FlameTsunamiRightOffsets", "df/d71/boss__sartharion_8cpp.html#a54c36c08e5af0526cdf68a8bcf184318", null ],
     [ "portalPos", "df/d71/boss__sartharion_8cpp.html#a3b3febc31b192eee159695acba35ed8f", null ],
-    [ "SartharionBoundary", "df/d71/boss__sartharion_8cpp.html#ab63433b70eec125c961329cb0a86240e", null ],
     [ "TenebronEggsPos", "df/d71/boss__sartharion_8cpp.html#abd520a29ab6e7fb834942fe165bd483a", null ]
 ];

@@ -113,6 +113,7 @@ $(document).ready(function(){initNavTree('d7/d95/classPoolMgr.html','../../'); i
 <a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d4/d2e/classPoolMgr-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">PoolMgr Class Reference</div></div>
 </div><!--header-->
@@ -149,6 +150,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aa54c24fbccbbf25f61d656e9d0cf9a30"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a473736f3ce675869c426352a3878fff4" id="r_a473736f3ce675869c426352a3878fff4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d95/classPoolMgr.html#a473736f3ce675869c426352a3878fff4">ChangeWeeklyQuests</a> ()</td></tr>
 <tr class="separator:a473736f3ce675869c426352a3878fff4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b573f837a6211a5119787bf0cb2a43b" id="r_a0b573f837a6211a5119787bf0cb2a43b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d95/classPoolMgr.html#a0b573f837a6211a5119787bf0cb2a43b">ReSpawnPoolQuests</a> ()</td></tr>
+<tr class="separator:a0b573f837a6211a5119787bf0cb2a43b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a283ab83862a94d8493b6ae68c84da910" id="r_a283ab83862a94d8493b6ae68c84da910"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
 <tr class="memitem:a283ab83862a94d8493b6ae68c84da910"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910">IsPartOfAPool</a> (<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> db_guid) const</td></tr>
 <tr class="separator:a283ab83862a94d8493b6ae68c84da910"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -235,6 +238,11 @@ Private Attributes</h2></td></tr>
 <tr class="separator:ada8afb3a232962106731c668182c2b21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad5859f1daaab43c287d0ea14837e8057" id="r_ad5859f1daaab43c287d0ea14837e8057"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d3f/classActivePoolData.html">ActivePoolData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a></td></tr>
 <tr class="separator:ad5859f1daaab43c287d0ea14837e8057"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a07dd1def859a46c4c155c8d881fb2acb" id="r_a07dd1def859a46c4c155c8d881fb2acb"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d95/classPoolMgr.html#a07dd1def859a46c4c155c8d881fb2acb">PoolQuestReloadFixTest</a></td></tr>
+<tr class="separator:a07dd1def859a46c4c155c8d881fb2acb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
@@ -477,10 +485,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1023</span>}</div>
 <div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1686</div></div>
 <div class="ttc" id="aclassPoolMgr_html_a3ddc8dd692447fe23a7c8a0a4f552a71"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a3ddc8dd692447fe23a7c8a0a4f552a71">PoolMgr::SaveQuestsToDB</a></div><div class="ttdeci">void SaveQuestsToDB(bool daily, bool weekly, bool other)</div><div class="ttdef"><b>Definition</b> PoolMgr.cpp:971</div></div>
-<div class="ttc" id="aclassPoolMgr_html_af8131356cb1b375383611d8051cbcb13"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">PoolMgr::mPoolQuestGroups</a></div><div class="ttdeci">PoolGroupQuestMap mPoolQuestGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:153</div></div>
+<div class="ttc" id="aclassPoolMgr_html_af8131356cb1b375383611d8051cbcb13"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">PoolMgr::mPoolQuestGroups</a></div><div class="ttdeci">PoolGroupQuestMap mPoolQuestGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:155</div></div>
 <div class="ttc" id="aclassQuest_html"><div class="ttname"><a href="../../d1/d4f/classQuest.html">Quest</a></div><div class="ttdef"><b>Definition</b> QuestDef.h:210</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00153">mPoolQuestGroups</a>, <a class="el" href="../../#l00971">SaveQuestsToDB()</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00155">mPoolQuestGroups</a>, <a class="el" href="../../#l00971">SaveQuestsToDB()</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -513,7 +521,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1038</span>    <a class="code hl_function" href="../../d7/d95/classPoolMgr.html#a3ddc8dd692447fe23a7c8a0a4f552a71">SaveQuestsToDB</a>(<span class="keyword">false</span>, <span class="keyword">true</span>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno"> 1039</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00153">mPoolQuestGroups</a>, <a class="el" href="../../#l00971">SaveQuestsToDB()</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00155">mPoolQuestGroups</a>, <a class="el" href="../../#l00971">SaveQuestsToDB()</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -532,34 +540,34 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1115</span>{</div>
-<div class="line"><span class="lineno"> 1116</span>    {</div>
-<div class="line"><span class="lineno"> 1117</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1118</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
-<div class="line"><span class="lineno"> 1119</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1120</span>    }</div>
-<div class="line"><span class="lineno"> 1121</span>    {</div>
-<div class="line"><span class="lineno"> 1122</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1123</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
-<div class="line"><span class="lineno"> 1124</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1125</span>    }</div>
-<div class="line"><span class="lineno"> 1126</span>    {</div>
-<div class="line"><span class="lineno"> 1127</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1128</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
-<div class="line"><span class="lineno"> 1129</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1130</span>    }</div>
-<div class="line"><span class="lineno"> 1131</span>    {</div>
-<div class="line"><span class="lineno"> 1132</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1133</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
-<div class="line"><span class="lineno"> 1134</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1135</span>    }</div>
-<div class="line"><span class="lineno"> 1136</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1137</span>}</div>
-<div class="ttc" id="aclassPoolMgr_html_a62dc08308eb4062addadb626159579dc"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">PoolMgr::mPoolCreatureGroups</a></div><div class="ttdeci">PoolGroupCreatureMap mPoolCreatureGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:150</div></div>
-<div class="ttc" id="aclassPoolMgr_html_a6bed9e069268217078324a459b8b67de"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">PoolMgr::mPoolPoolGroups</a></div><div class="ttdeci">PoolGroupPoolMap mPoolPoolGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:152</div></div>
-<div class="ttc" id="aclassPoolMgr_html_aca373dd5154697cafd3cdcf6c658253f"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">PoolMgr::mPoolGameobjectGroups</a></div><div class="ttdeci">PoolGroupGameObjectMap mPoolGameobjectGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:151</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1129</span>{</div>
+<div class="line"><span class="lineno"> 1130</span>    {</div>
+<div class="line"><span class="lineno"> 1131</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1132</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
+<div class="line"><span class="lineno"> 1133</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1134</span>    }</div>
+<div class="line"><span class="lineno"> 1135</span>    {</div>
+<div class="line"><span class="lineno"> 1136</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1137</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
+<div class="line"><span class="lineno"> 1138</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1139</span>    }</div>
+<div class="line"><span class="lineno"> 1140</span>    {</div>
+<div class="line"><span class="lineno"> 1141</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1142</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
+<div class="line"><span class="lineno"> 1143</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1144</span>    }</div>
+<div class="line"><span class="lineno"> 1145</span>    {</div>
+<div class="line"><span class="lineno"> 1146</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1147</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end() &amp;&amp; !it-&gt;second.CheckPool())</div>
+<div class="line"><span class="lineno"> 1148</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1149</span>    }</div>
+<div class="line"><span class="lineno"> 1150</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1151</span>}</div>
+<div class="ttc" id="aclassPoolMgr_html_a62dc08308eb4062addadb626159579dc"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">PoolMgr::mPoolCreatureGroups</a></div><div class="ttdeci">PoolGroupCreatureMap mPoolCreatureGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:152</div></div>
+<div class="ttc" id="aclassPoolMgr_html_a6bed9e069268217078324a459b8b67de"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">PoolMgr::mPoolPoolGroups</a></div><div class="ttdeci">PoolGroupPoolMap mPoolPoolGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:154</div></div>
+<div class="ttc" id="aclassPoolMgr_html_aca373dd5154697cafd3cdcf6c658253f"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">PoolMgr::mPoolGameobjectGroups</a></div><div class="ttdeci">PoolGroupGameObjectMap mPoolGameobjectGroups</div><div class="ttdef"><b>Definition</b> PoolMgr.h:153</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00150">mPoolCreatureGroups</a>, <a class="el" href="../../#l00151">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00152">mPoolPoolGroups</a>, and <a class="el" href="../../#l00153">mPoolQuestGroups</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00152">mPoolCreatureGroups</a>, <a class="el" href="../../#l00153">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00154">mPoolPoolGroups</a>, and <a class="el" href="../../#l00155">mPoolQuestGroups</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
 
@@ -580,31 +588,31 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1090</span>{</div>
-<div class="line"><span class="lineno"> 1091</span>    {</div>
-<div class="line"><span class="lineno"> 1092</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1093</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1094</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
-<div class="line"><span class="lineno"> 1095</span>    }</div>
-<div class="line"><span class="lineno"> 1096</span>    {</div>
-<div class="line"><span class="lineno"> 1097</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1098</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1099</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
-<div class="line"><span class="lineno"> 1100</span>    }</div>
-<div class="line"><span class="lineno"> 1101</span>    {</div>
-<div class="line"><span class="lineno"> 1102</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1103</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1104</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
-<div class="line"><span class="lineno"> 1105</span>    }</div>
-<div class="line"><span class="lineno"> 1106</span>    {</div>
-<div class="line"><span class="lineno"> 1107</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1108</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1109</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
-<div class="line"><span class="lineno"> 1110</span>    }</div>
-<div class="line"><span class="lineno"> 1111</span>}</div>
-<div class="ttc" id="aclassPoolMgr_html_ad5859f1daaab43c287d0ea14837e8057"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">PoolMgr::mSpawnedData</a></div><div class="ttdeci">ActivePoolData mSpawnedData</div><div class="ttdef"><b>Definition</b> PoolMgr.h:160</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1104</span>{</div>
+<div class="line"><span class="lineno"> 1105</span>    {</div>
+<div class="line"><span class="lineno"> 1106</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1107</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1108</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
+<div class="line"><span class="lineno"> 1109</span>    }</div>
+<div class="line"><span class="lineno"> 1110</span>    {</div>
+<div class="line"><span class="lineno"> 1111</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1112</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1113</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
+<div class="line"><span class="lineno"> 1114</span>    }</div>
+<div class="line"><span class="lineno"> 1115</span>    {</div>
+<div class="line"><span class="lineno"> 1116</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1117</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1118</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
+<div class="line"><span class="lineno"> 1119</span>    }</div>
+<div class="line"><span class="lineno"> 1120</span>    {</div>
+<div class="line"><span class="lineno"> 1121</span>        <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1122</span>        <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1123</span>            it-&gt;second.DespawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>);</div>
+<div class="line"><span class="lineno"> 1124</span>    }</div>
+<div class="line"><span class="lineno"> 1125</span>}</div>
+<div class="ttc" id="aclassPoolMgr_html_ad5859f1daaab43c287d0ea14837e8057"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">PoolMgr::mSpawnedData</a></div><div class="ttdeci">ActivePoolData mSpawnedData</div><div class="ttdef"><b>Definition</b> PoolMgr.h:162</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00150">mPoolCreatureGroups</a>, <a class="el" href="../../#l00151">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00152">mPoolPoolGroups</a>, <a class="el" href="../../#l00153">mPoolQuestGroups</a>, and <a class="el" href="../../#l00160">mSpawnedData</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00152">mPoolCreatureGroups</a>, <a class="el" href="../../#l00153">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00154">mPoolPoolGroups</a>, <a class="el" href="../../#l00155">mPoolQuestGroups</a>, and <a class="el" href="../../#l00162">mSpawnedData</a>.</p>
 
 </div>
 </div>
@@ -627,11 +635,11 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  573</span>    <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">mGameobjectSearchMap</a>.clear();</div>
 <div class="line"><span class="lineno">  574</span>    <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">mCreatureSearchMap</a>.clear();</div>
 <div class="line"><span class="lineno">  575</span>}</div>
-<div class="ttc" id="aclassPoolMgr_html_a73c7fdff269bcbf58fb55c6f4b478b98"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">PoolMgr::mGameobjectSearchMap</a></div><div class="ttdeci">SearchMap mGameobjectSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:155</div></div>
-<div class="ttc" id="aclassPoolMgr_html_ada8afb3a232962106731c668182c2b21"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">PoolMgr::mQuestSearchMap</a></div><div class="ttdeci">SearchMap mQuestSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:157</div></div>
-<div class="ttc" id="aclassPoolMgr_html_afcae30c073a687c4d1c05d3606f0a867"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">PoolMgr::mCreatureSearchMap</a></div><div class="ttdeci">SearchMap mCreatureSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:154</div></div>
+<div class="ttc" id="aclassPoolMgr_html_a73c7fdff269bcbf58fb55c6f4b478b98"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">PoolMgr::mGameobjectSearchMap</a></div><div class="ttdeci">SearchMap mGameobjectSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:157</div></div>
+<div class="ttc" id="aclassPoolMgr_html_ada8afb3a232962106731c668182c2b21"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">PoolMgr::mQuestSearchMap</a></div><div class="ttdeci">SearchMap mQuestSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:159</div></div>
+<div class="ttc" id="aclassPoolMgr_html_afcae30c073a687c4d1c05d3606f0a867"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">PoolMgr::mCreatureSearchMap</a></div><div class="ttdeci">SearchMap mCreatureSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:156</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00154">mCreatureSearchMap</a>, <a class="el" href="../../#l00155">mGameobjectSearchMap</a>, and <a class="el" href="../../#l00157">mQuestSearchMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00156">mCreatureSearchMap</a>, <a class="el" href="../../#l00157">mGameobjectSearchMap</a>, and <a class="el" href="../../#l00159">mQuestSearchMap</a>.</p>
 
 </div>
 </div>
@@ -695,15 +703,15 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">mCreatureSearchMap</a>.find(db_guid);</div>
-<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">mCreatureSearchMap</a>.end())</div>
-<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  172</span> </div>
-<div class="line"><span class="lineno">  173</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  174</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  170</span>{</div>
+<div class="line"><span class="lineno">  171</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">mCreatureSearchMap</a>.find(db_guid);</div>
+<div class="line"><span class="lineno">  172</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#afcae30c073a687c4d1c05d3606f0a867">mCreatureSearchMap</a>.end())</div>
+<div class="line"><span class="lineno">  173</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  176</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00154">mCreatureSearchMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00156">mCreatureSearchMap</a>.</p>
 
 </div>
 </div>
@@ -732,15 +740,15 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  179</span>{</div>
-<div class="line"><span class="lineno">  180</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">mGameobjectSearchMap</a>.find(db_guid);</div>
-<div class="line"><span class="lineno">  181</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">mGameobjectSearchMap</a>.end())</div>
-<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  183</span> </div>
-<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  185</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  181</span>{</div>
+<div class="line"><span class="lineno">  182</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">mGameobjectSearchMap</a>.find(db_guid);</div>
+<div class="line"><span class="lineno">  183</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a73c7fdff269bcbf58fb55c6f4b478b98">mGameobjectSearchMap</a>.end())</div>
+<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  187</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00155">mGameobjectSearchMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00157">mGameobjectSearchMap</a>.</p>
 
 </div>
 </div>
@@ -789,16 +797,16 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  201</span>{</div>
-<div class="line"><span class="lineno">  202</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69">mPoolSearchMap</a>.find(pool_id);</div>
-<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69">mPoolSearchMap</a>.end())</div>
-<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  207</span>}</div>
-<div class="ttc" id="aclassPoolMgr_html_ac63a382b06e83ee818813ea633050b69"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69">PoolMgr::mPoolSearchMap</a></div><div class="ttdeci">SearchMap mPoolSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:156</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  203</span>{</div>
+<div class="line"><span class="lineno">  204</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69">mPoolSearchMap</a>.find(pool_id);</div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69">mPoolSearchMap</a>.end())</div>
+<div class="line"><span class="lineno">  206</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">  207</span> </div>
+<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  209</span>}</div>
+<div class="ttc" id="aclassPoolMgr_html_ac63a382b06e83ee818813ea633050b69"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ac63a382b06e83ee818813ea633050b69">PoolMgr::mPoolSearchMap</a></div><div class="ttdeci">SearchMap mPoolSearchMap</div><div class="ttdef"><b>Definition</b> PoolMgr.h:158</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00156">mPoolSearchMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00158">mPoolSearchMap</a>.</p>
 
 </div>
 </div>
@@ -827,15 +835,15 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
-<div class="line"><span class="lineno">  191</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">mQuestSearchMap</a>.find(questId);</div>
-<div class="line"><span class="lineno">  192</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">mQuestSearchMap</a>.end())</div>
-<div class="line"><span class="lineno">  193</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  196</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  192</span>{</div>
+<div class="line"><span class="lineno">  193</span>    SearchMap::const_iterator itr = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">mQuestSearchMap</a>.find(questId);</div>
+<div class="line"><span class="lineno">  194</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">mQuestSearchMap</a>.end())</div>
+<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">  196</span> </div>
+<div class="line"><span class="lineno">  197</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  198</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00157">mQuestSearchMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00159">mQuestSearchMap</a>.</p>
 
 </div>
 </div>
@@ -867,7 +875,7 @@ template&lt;typename T &gt; </div>
 <div class="fragment"><div class="line"><span class="lineno">  121</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>.<a class="code hl_function" href="../../d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076">IsActiveObject</a>&lt;T&gt;(db_guid_or_pool_id); }</div>
 <div class="ttc" id="aclassActivePoolData_html_a092d75db230d224ef3e322994f1c0076"><div class="ttname"><a href="../../d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076">ActivePoolData::IsActiveObject</a></div><div class="ttdeci">bool IsActiveObject(uint32 db_guid_or_pool_id) const</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076">ActivePoolData::IsActiveObject()</a>, and <a class="el" href="../../#l00160">mSpawnedData</a>.</p>
+<p class="reference">References <a class="el" href="../../d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076">ActivePoolData::IsActiveObject()</a>, and <a class="el" href="../../#l00162">mSpawnedData</a>.</p>
 
 </div>
 </div>
@@ -1295,11 +1303,11 @@ template&lt;typename T &gt; </div>
 <div class="ttc" id="aclassPoolGroup_html"><div class="ttname"><a href="../../df/da2/classPoolGroup.html">PoolGroup</a></div><div class="ttdef"><b>Definition</b> PoolMgr.h:69</div></div>
 <div class="ttc" id="aclassPoolGroup_html_a05ceb647a0702cc1e2b97b040b8edcf8"><div class="ttname"><a href="../../df/da2/classPoolGroup.html#a05ceb647a0702cc1e2b97b040b8edcf8">PoolGroup::SetPoolId</a></div><div class="ttdeci">void SetPoolId(uint32 pool_id)</div><div class="ttdef"><b>Definition</b> PoolMgr.h:73</div></div>
 <div class="ttc" id="aclassPoolGroup_html_aaabf1574d15a9459d713c7dbe674159e"><div class="ttname"><a href="../../df/da2/classPoolGroup.html#aaabf1574d15a9459d713c7dbe674159e">PoolGroup::AddEntry</a></div><div class="ttdeci">void AddEntry(PoolObject &amp;poolitem, uint32 maxentries)</div><div class="ttdef"><b>Definition</b> PoolMgr.cpp:133</div></div>
-<div class="ttc" id="aclassPoolMgr_html_a050879176e76af42d4655703216399ba"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a050879176e76af42d4655703216399ba">PoolMgr::SearchPair</a></div><div class="ttdeci">std::pair&lt; uint32, uint32 &gt; SearchPair</div><div class="ttdef"><b>Definition</b> PoolMgr.h:146</div></div>
-<div class="ttc" id="aclassPoolMgr_html_a25cfdfbe1e55e13bc54db6793f74637d"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a25cfdfbe1e55e13bc54db6793f74637d">PoolMgr::CheckPool</a></div><div class="ttdeci">bool CheckPool(uint32 pool_id) const</div><div class="ttdef"><b>Definition</b> PoolMgr.cpp:1114</div></div>
-<div class="ttc" id="aclassPoolMgr_html_a7752a7ad027b40e22f6facc0aff5ae47"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">PoolMgr::mPoolTemplate</a></div><div class="ttdeci">PoolTemplateDataMap mPoolTemplate</div><div class="ttdef"><b>Definition</b> PoolMgr.h:149</div></div>
-<div class="ttc" id="aclassPoolMgr_html_ae3dbde9c46f8152b35f5d2d287447747"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ae3dbde9c46f8152b35f5d2d287447747">PoolMgr::mQuestGORelation</a></div><div class="ttdeci">PooledQuestRelation mQuestGORelation</div><div class="ttdef"><b>Definition</b> PoolMgr.h:135</div></div>
-<div class="ttc" id="aclassPoolMgr_html_ae4c6785df0887431da243334bbdb7f3c"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ae4c6785df0887431da243334bbdb7f3c">PoolMgr::mQuestCreatureRelation</a></div><div class="ttdeci">PooledQuestRelation mQuestCreatureRelation</div><div class="ttdef"><b>Definition</b> PoolMgr.h:134</div></div>
+<div class="ttc" id="aclassPoolMgr_html_a050879176e76af42d4655703216399ba"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a050879176e76af42d4655703216399ba">PoolMgr::SearchPair</a></div><div class="ttdeci">std::pair&lt; uint32, uint32 &gt; SearchPair</div><div class="ttdef"><b>Definition</b> PoolMgr.h:148</div></div>
+<div class="ttc" id="aclassPoolMgr_html_a25cfdfbe1e55e13bc54db6793f74637d"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a25cfdfbe1e55e13bc54db6793f74637d">PoolMgr::CheckPool</a></div><div class="ttdeci">bool CheckPool(uint32 pool_id) const</div><div class="ttdef"><b>Definition</b> PoolMgr.cpp:1128</div></div>
+<div class="ttc" id="aclassPoolMgr_html_a7752a7ad027b40e22f6facc0aff5ae47"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">PoolMgr::mPoolTemplate</a></div><div class="ttdeci">PoolTemplateDataMap mPoolTemplate</div><div class="ttdef"><b>Definition</b> PoolMgr.h:151</div></div>
+<div class="ttc" id="aclassPoolMgr_html_ae3dbde9c46f8152b35f5d2d287447747"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ae3dbde9c46f8152b35f5d2d287447747">PoolMgr::mQuestGORelation</a></div><div class="ttdeci">PooledQuestRelation mQuestGORelation</div><div class="ttdef"><b>Definition</b> PoolMgr.h:136</div></div>
+<div class="ttc" id="aclassPoolMgr_html_ae4c6785df0887431da243334bbdb7f3c"><div class="ttname"><a href="../../d7/d95/classPoolMgr.html#ae4c6785df0887431da243334bbdb7f3c">PoolMgr::mQuestCreatureRelation</a></div><div class="ttdeci">PooledQuestRelation mQuestCreatureRelation</div><div class="ttdef"><b>Definition</b> PoolMgr.h:135</div></div>
 <div class="ttc" id="aclassPreparedStatement_html"><div class="ttname"><a href="../../d7/d0f/classPreparedStatement.html">PreparedStatement</a></div><div class="ttdef"><b>Definition</b> PreparedStatement.h:157</div></div>
 <div class="ttc" id="astructCreatureData_html"><div class="ttname"><a href="../../dd/d52/structCreatureData.html">CreatureData</a></div><div class="ttdef"><b>Definition</b> CreatureData.h:366</div></div>
 <div class="ttc" id="astructGameObjectData_html"><div class="ttname"><a href="../../df/dd2/structGameObjectData.html">GameObjectData</a></div><div class="ttdef"><b>Definition</b> GameObjectData.h:712</div></div>
@@ -1309,7 +1317,7 @@ template&lt;typename T &gt; </div>
 <div class="ttc" id="astructPoolTemplateData_html"><div class="ttname"><a href="../../d4/d06/structPoolTemplateData.html">PoolTemplateData</a></div><div class="ttdef"><b>Definition</b> PoolMgr.h:27</div></div>
 <div class="ttc" id="astructPoolTemplateData_html_a38ba12a67e99cabba2388a63f12a2b53"><div class="ttname"><a href="../../d4/d06/structPoolTemplateData.html#a38ba12a67e99cabba2388a63f12a2b53">PoolTemplateData::MaxLimit</a></div><div class="ttdeci">uint32 MaxLimit</div><div class="ttdef"><b>Definition</b> PoolMgr.h:28</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00133">PoolGroup&lt; T &gt;::AddEntry()</a>, <a class="el" href="../../#l01114">CheckPool()</a>, <a class="el" href="../../#l01574">GAMEOBJECT_TYPE_CHEST</a>, <a class="el" href="../../#l01596">GAMEOBJECT_TYPE_FISHINGHOLE</a>, <a class="el" href="../../#l01581">GAMEOBJECT_TYPE_GOOBER</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00028">PoolTemplateData::MaxLimit</a>, <a class="el" href="../../#l00154">mCreatureSearchMap</a>, <a class="el" href="../../#l00155">mGameobjectSearchMap</a>, <a class="el" href="../../#l00150">mPoolCreatureGroups</a>, <a class="el" href="../../#l00151">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00152">mPoolPoolGroups</a>, <a class="el" href="../../#l00153">mPoolQuestGroups</a>, <a class="el" href="../../#l00156">mPoolSearchMap</a>, <a class="el" href="../../#l00149">mPoolTemplate</a>, <a class="el" href="../../#l00134">mQuestCreatureRelation</a>, <a class="el" href="../../#l00135">mQuestGORelation</a>, <a class="el" href="../../#l00157">mQuestSearchMap</a>, <a class="el" href="../../#l00073">PoolGroup&lt; T &gt;::SetPoolId()</a>, <a class="el" href="../../#l01686">sObjectMgr</a>, <a class="el" href="../../#l00121">SpawnPool</a>, <a class="el" href="../../#l00033">GameObjectTemplate::type</a>, <a class="el" href="../../#l00031">WORLD_SEL_QUEST_POOLS</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00133">PoolGroup&lt; T &gt;::AddEntry()</a>, <a class="el" href="../../#l01128">CheckPool()</a>, <a class="el" href="../../#l01574">GAMEOBJECT_TYPE_CHEST</a>, <a class="el" href="../../#l01596">GAMEOBJECT_TYPE_FISHINGHOLE</a>, <a class="el" href="../../#l01581">GAMEOBJECT_TYPE_GOOBER</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00028">PoolTemplateData::MaxLimit</a>, <a class="el" href="../../#l00156">mCreatureSearchMap</a>, <a class="el" href="../../#l00157">mGameobjectSearchMap</a>, <a class="el" href="../../#l00152">mPoolCreatureGroups</a>, <a class="el" href="../../#l00153">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00154">mPoolPoolGroups</a>, <a class="el" href="../../#l00155">mPoolQuestGroups</a>, <a class="el" href="../../#l00158">mPoolSearchMap</a>, <a class="el" href="../../#l00151">mPoolTemplate</a>, <a class="el" href="../../#l00135">mQuestCreatureRelation</a>, <a class="el" href="../../#l00136">mQuestGORelation</a>, <a class="el" href="../../#l00159">mQuestSearchMap</a>, <a class="el" href="../../#l00073">PoolGroup&lt; T &gt;::SetPoolId()</a>, <a class="el" href="../../#l01686">sObjectMgr</a>, <a class="el" href="../../#l00121">SpawnPool</a>, <a class="el" href="../../#l00033">GameObjectTemplate::type</a>, <a class="el" href="../../#l00031">WORLD_SEL_QUEST_POOLS</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 </div>
 </div>
@@ -1330,6 +1338,37 @@ template&lt;typename T &gt; </div>
 <div class="fragment"><div class="line"><span class="lineno">  968</span>{</div>
 <div class="line"><span class="lineno">  969</span>}</div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="a0b573f837a6211a5119787bf0cb2a43b" name="a0b573f837a6211a5119787bf0cb2a43b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b573f837a6211a5119787bf0cb2a43b">&#9670;&#160;</a></span>ReSpawnPoolQuests()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PoolMgr::ReSpawnPoolQuests </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1042</span>{</div>
+<div class="line"><span class="lineno"> 1043</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; [questId, poolId] : <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ada8afb3a232962106731c668182c2b21">mQuestSearchMap</a>)</div>
+<div class="line"><span class="lineno"> 1044</span>    {</div>
+<div class="line"><span class="lineno"> 1045</span>        <span class="keywordflow">if</span> (IsSpawnedObject&lt;Quest&gt;(questId))</div>
+<div class="line"><span class="lineno"> 1046</span>        {</div>
+<div class="line"><span class="lineno"> 1047</span>            <a class="code hl_struct" href="../../db/de2/structPoolObject.html">PoolObject</a> tempObj(questId, 0.0f);</div>
+<div class="line"><span class="lineno"> 1048</span>            <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(poolId);</div>
+<div class="line"><span class="lineno"> 1049</span>            <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end())</div>
+<div class="line"><span class="lineno"> 1050</span>                it-&gt;second.Spawn1Object(&amp;tempObj);</div>
+<div class="line"><span class="lineno"> 1051</span>        }</div>
+<div class="line"><span class="lineno"> 1052</span>    }</div>
+<div class="line"><span class="lineno"> 1053</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00155">mPoolQuestGroups</a>, and <a class="el" href="../../#l00159">mQuestSearchMap</a>.</p>
+
 </div>
 </div>
 <a id="a3ddc8dd692447fe23a7c8a0a4f552a71" name="a3ddc8dd692447fe23a7c8a0a4f552a71"></a>
@@ -1405,7 +1444,7 @@ template&lt;typename T &gt; </div>
 <div class="ttc" id="aDatabaseEnv_8cpp_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d5/d5b/DatabaseEnv_8cpp.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aclassPreparedStatementBase_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../de/db4/classPreparedStatementBase.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition</b> PreparedStatement.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">CHAR_DEL_QUEST_POOL_SAVE</a>, <a class="el" href="../../#l00032">CHAR_INS_QUEST_POOL_SAVE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00153">mPoolQuestGroups</a>, <a class="el" href="../../#l00157">mQuestSearchMap</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">CHAR_DEL_QUEST_POOL_SAVE</a>, <a class="el" href="../../#l00032">CHAR_INS_QUEST_POOL_SAVE</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00155">mPoolQuestGroups</a>, <a class="el" href="../../#l00159">mQuestSearchMap</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01009">ChangeDailyQuests()</a>, and <a class="el" href="../../#l01025">ChangeWeeklyQuests()</a>.</p>
 
@@ -1426,12 +1465,12 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1081</span>{</div>
-<div class="line"><span class="lineno"> 1082</span>    SpawnPool&lt;Pool&gt;(pool_id, 0);</div>
-<div class="line"><span class="lineno"> 1083</span>    SpawnPool&lt;GameObject&gt;(pool_id, 0);</div>
-<div class="line"><span class="lineno"> 1084</span>    SpawnPool&lt;Creature&gt;(pool_id, 0);</div>
-<div class="line"><span class="lineno"> 1085</span>    SpawnPool&lt;Quest&gt;(pool_id, 0);</div>
-<div class="line"><span class="lineno"> 1086</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1095</span>{</div>
+<div class="line"><span class="lineno"> 1096</span>    SpawnPool&lt;Pool&gt;(pool_id, 0);</div>
+<div class="line"><span class="lineno"> 1097</span>    SpawnPool&lt;GameObject&gt;(pool_id, 0);</div>
+<div class="line"><span class="lineno"> 1098</span>    SpawnPool&lt;Creature&gt;(pool_id, 0);</div>
+<div class="line"><span class="lineno"> 1099</span>    SpawnPool&lt;Quest&gt;(pool_id, 0);</div>
+<div class="line"><span class="lineno"> 1100</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1470,13 +1509,13 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1045</span>{</div>
-<div class="line"><span class="lineno"> 1046</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1047</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1048</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, db_guid);</div>
-<div class="line"><span class="lineno"> 1049</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1059</span>{</div>
+<div class="line"><span class="lineno"> 1060</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1061</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a62dc08308eb4062addadb626159579dc">mPoolCreatureGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1062</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, db_guid);</div>
+<div class="line"><span class="lineno"> 1063</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00150">mPoolCreatureGroups</a>, <a class="el" href="../../#l00149">mPoolTemplate</a>, and <a class="el" href="../../#l00160">mSpawnedData</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00152">mPoolCreatureGroups</a>, <a class="el" href="../../#l00151">mPoolTemplate</a>, and <a class="el" href="../../#l00162">mSpawnedData</a>.</p>
 
 </div>
 </div>
@@ -1515,13 +1554,13 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1055</span>{</div>
-<div class="line"><span class="lineno"> 1056</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1057</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1058</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, db_guid);</div>
-<div class="line"><span class="lineno"> 1059</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1069</span>{</div>
+<div class="line"><span class="lineno"> 1070</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1071</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#aca373dd5154697cafd3cdcf6c658253f">mPoolGameobjectGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1072</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, db_guid);</div>
+<div class="line"><span class="lineno"> 1073</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00151">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00149">mPoolTemplate</a>, and <a class="el" href="../../#l00160">mSpawnedData</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00153">mPoolGameobjectGroups</a>, <a class="el" href="../../#l00151">mPoolTemplate</a>, and <a class="el" href="../../#l00162">mSpawnedData</a>.</p>
 
 </div>
 </div>
@@ -1598,13 +1637,13 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1074</span>{</div>
-<div class="line"><span class="lineno"> 1075</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1076</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1077</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, quest_id);</div>
-<div class="line"><span class="lineno"> 1078</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1088</span>{</div>
+<div class="line"><span class="lineno"> 1089</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1090</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#af8131356cb1b375383611d8051cbcb13">mPoolQuestGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1091</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, quest_id);</div>
+<div class="line"><span class="lineno"> 1092</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00153">mPoolQuestGroups</a>, <a class="el" href="../../#l00149">mPoolTemplate</a>, and <a class="el" href="../../#l00160">mSpawnedData</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00155">mPoolQuestGroups</a>, <a class="el" href="../../#l00151">mPoolTemplate</a>, and <a class="el" href="../../#l00162">mSpawnedData</a>.</p>
 
 </div>
 </div>
@@ -1643,13 +1682,13 @@ template&lt;&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1065</span>{</div>
-<div class="line"><span class="lineno"> 1066</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.find(pool_id);</div>
-<div class="line"><span class="lineno"> 1067</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
-<div class="line"><span class="lineno"> 1068</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, sub_pool_id);</div>
-<div class="line"><span class="lineno"> 1069</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1079</span>{</div>
+<div class="line"><span class="lineno"> 1080</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.find(pool_id);</div>
+<div class="line"><span class="lineno"> 1081</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a6bed9e069268217078324a459b8b67de">mPoolPoolGroups</a>.end() &amp;&amp; !it-&gt;second.IsEmpty())</div>
+<div class="line"><span class="lineno"> 1082</span>        it-&gt;second.SpawnObject(<a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#ad5859f1daaab43c287d0ea14837e8057">mSpawnedData</a>, <a class="code hl_variable" href="../../d7/d95/classPoolMgr.html#a7752a7ad027b40e22f6facc0aff5ae47">mPoolTemplate</a>[pool_id].MaxLimit, sub_pool_id);</div>
+<div class="line"><span class="lineno"> 1083</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00152">mPoolPoolGroups</a>, <a class="el" href="../../#l00149">mPoolTemplate</a>, and <a class="el" href="../../#l00160">mSpawnedData</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00154">mPoolPoolGroups</a>, <a class="el" href="../../#l00151">mPoolTemplate</a>, and <a class="el" href="../../#l00162">mSpawnedData</a>.</p>
 
 </div>
 </div>
@@ -1680,13 +1719,36 @@ template&lt;typename T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1144</span>{</div>
-<div class="line"><span class="lineno"> 1145</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> motherpoolid = IsPartOfAPool&lt;Pool&gt;(pool_id))</div>
-<div class="line"><span class="lineno"> 1146</span>        SpawnPool&lt;Pool&gt;(motherpoolid, pool_id);</div>
-<div class="line"><span class="lineno"> 1147</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1148</span>        SpawnPool&lt;T&gt;(pool_id, db_guid_or_pool_id);</div>
-<div class="line"><span class="lineno"> 1149</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1158</span>{</div>
+<div class="line"><span class="lineno"> 1159</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> motherpoolid = IsPartOfAPool&lt;Pool&gt;(pool_id))</div>
+<div class="line"><span class="lineno"> 1160</span>        SpawnPool&lt;Pool&gt;(motherpoolid, pool_id);</div>
+<div class="line"><span class="lineno"> 1161</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1162</span>        SpawnPool&lt;T&gt;(pool_id, db_guid_or_pool_id);</div>
+<div class="line"><span class="lineno"> 1163</span>}</div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Symbol Documentation</h2>
+<a id="a07dd1def859a46c4c155c8d881fb2acb" name="a07dd1def859a46c4c155c8d881fb2acb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07dd1def859a46c4c155c8d881fb2acb">&#9670;&#160;</a></span>PoolQuestReloadFixTest</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d4/d2d/classPoolQuestReloadFixTest.html">PoolQuestReloadFixTest</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
@@ -1710,7 +1772,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00570">Initialize()</a>, <a class="el" href="../../#l00167">IsPartOfAPool()</a>, and <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00570">Initialize()</a>, <a class="el" href="../../#l00169">IsPartOfAPool()</a>, and <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
 
 </div>
 </div>
@@ -1734,7 +1796,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00570">Initialize()</a>, <a class="el" href="../../#l00178">IsPartOfAPool()</a>, and <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00570">Initialize()</a>, <a class="el" href="../../#l00180">IsPartOfAPool()</a>, and <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
 
 </div>
 </div>
@@ -1758,7 +1820,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01114">CheckPool()</a>, <a class="el" href="../../#l01089">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l01044">SpawnPool()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01128">CheckPool()</a>, <a class="el" href="../../#l01103">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l01058">SpawnPool()</a>.</p>
 
 </div>
 </div>
@@ -1782,7 +1844,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01114">CheckPool()</a>, <a class="el" href="../../#l01089">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l01054">SpawnPool()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01128">CheckPool()</a>, <a class="el" href="../../#l01103">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l01068">SpawnPool()</a>.</p>
 
 </div>
 </div>
@@ -1806,7 +1868,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01114">CheckPool()</a>, <a class="el" href="../../#l01089">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l01064">SpawnPool()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01128">CheckPool()</a>, <a class="el" href="../../#l01103">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l01078">SpawnPool()</a>.</p>
 
 </div>
 </div>
@@ -1830,7 +1892,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01009">ChangeDailyQuests()</a>, <a class="el" href="../../#l01025">ChangeWeeklyQuests()</a>, <a class="el" href="../../#l01114">CheckPool()</a>, <a class="el" href="../../#l01089">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, <a class="el" href="../../#l00971">SaveQuestsToDB()</a>, and <a class="el" href="../../#l01073">SpawnPool()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01009">ChangeDailyQuests()</a>, <a class="el" href="../../#l01025">ChangeWeeklyQuests()</a>, <a class="el" href="../../#l01128">CheckPool()</a>, <a class="el" href="../../#l01103">DespawnPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, <a class="el" href="../../#l01041">ReSpawnPoolQuests()</a>, <a class="el" href="../../#l00971">SaveQuestsToDB()</a>, and <a class="el" href="../../#l01087">SpawnPool()</a>.</p>
 
 </div>
 </div>
@@ -1854,7 +1916,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00200">IsPartOfAPool()</a>, and <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00202">IsPartOfAPool()</a>, and <a class="el" href="../../#l00577">LoadFromDB()</a>.</p>
 
 </div>
 </div>
@@ -1878,7 +1940,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00577">LoadFromDB()</a>, <a class="el" href="../../#l01044">SpawnPool()</a>, <a class="el" href="../../#l01073">SpawnPool()</a>, and <a class="el" href="../../#l01064">SpawnPool()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00577">LoadFromDB()</a>, <a class="el" href="../../#l01058">SpawnPool()</a>, <a class="el" href="../../#l01087">SpawnPool()</a>, and <a class="el" href="../../#l01078">SpawnPool()</a>.</p>
 
 </div>
 </div>
@@ -1934,7 +1996,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00570">Initialize()</a>, <a class="el" href="../../#l00189">IsPartOfAPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, and <a class="el" href="../../#l00971">SaveQuestsToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00570">Initialize()</a>, <a class="el" href="../../#l00191">IsPartOfAPool()</a>, <a class="el" href="../../#l00577">LoadFromDB()</a>, <a class="el" href="../../#l01041">ReSpawnPoolQuests()</a>, and <a class="el" href="../../#l00971">SaveQuestsToDB()</a>.</p>
 
 </div>
 </div>
@@ -1958,7 +2020,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01089">DespawnPool()</a>, <a class="el" href="../../#l00121">IsSpawnedObject()</a>, <a class="el" href="../../#l01044">SpawnPool()</a>, <a class="el" href="../../#l01073">SpawnPool()</a>, and <a class="el" href="../../#l01064">SpawnPool()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01103">DespawnPool()</a>, <a class="el" href="../../#l00121">IsSpawnedObject()</a>, <a class="el" href="../../#l01058">SpawnPool()</a>, <a class="el" href="../../#l01087">SpawnPool()</a>, and <a class="el" href="../../#l01078">SpawnPool()</a>.</p>
 
 </div>
 </div>
@@ -1972,7 +2034,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d95/classPoolMgr.html">PoolMgr</a></li>
-    <li class="footer">Generated on Fri Feb 13 2026 06:55:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 14 2026 06:40:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

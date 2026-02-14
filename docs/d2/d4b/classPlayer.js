@@ -862,7 +862,7 @@ var classPlayer =
     [ "SendRefundInfo", "d2/d4b/classPlayer.html#a9afd1999f996758e11e2ee9417cb9b00", null ],
     [ "SendRemoveControlBar", "d2/d4b/classPlayer.html#a1d11bec3e0b113e4d6423f455c2d978c", null ],
     [ "SendResetFailedNotify", "d2/d4b/classPlayer.html#a84f8fc339951e79af1bf98269f1433fe", null ],
-    [ "SendResetInstanceFailed", "d2/d4b/classPlayer.html#adf1c3782f303f43603ff1831bb246f39", null ],
+    [ "SendResetInstanceFailed", "d2/d4b/classPlayer.html#a3fdccf1455733258edf15a6f78fd3238", null ],
     [ "SendResetInstanceSuccess", "d2/d4b/classPlayer.html#ab568defddd21754ed10afc57eed069b1", null ],
     [ "SendRespondInspectAchievements", "d2/d4b/classPlayer.html#a7d92f88718f1553d4b97706797211c88", null ],
     [ "SendSavedInstances", "d2/d4b/classPlayer.html#a97b9fd78235fc954d573f94134b3616c", null ],

@@ -200,6 +200,11 @@ var Player_8h =
       [ "EQUIPMENT_SLOT_TABARD", "da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa591f131493398617246860f52b2999b8", null ],
       [ "EQUIPMENT_SLOT_END", "da/dbf/Player_8h.html#a93b8041f948d575ef2d23746324a37afa730f8fcebbadad4d0b2dadc86d8431d9", null ]
     ] ],
+    [ "InstanceResetFailureReason", "da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11", [
+      [ "INSTANCE_RESET_FAILED", "da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11a02132eaf2309a727da1c078ef639aeaa", null ],
+      [ "INSTANCE_RESET_FAILED_OFFLINE", "da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11acb3de73ceab8349ae331fb86a0379e09", null ],
+      [ "INSTANCE_RESET_FAILED_ZONING", "da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11a58ebf9a15ed31d08d2db6cbc4b0f2433", null ]
+    ] ],
     [ "InstanceResetWarningType", "da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4a", [
       [ "RAID_INSTANCE_WARNING_HOURS", "da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa997298918391902d13f306ff08b35468", null ],
       [ "RAID_INSTANCE_WARNING_MIN", "da/dbf/Player_8h.html#a96ff8529b2e55f6def4fe3c9dc1b5a4aa2a33c9bcc1f691f568c1abbdabe196a9", null ],

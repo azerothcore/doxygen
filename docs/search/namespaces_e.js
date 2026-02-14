@@ -10,13 +10,14 @@ var searchData=
   ['worldpackets_3a_3acombat_7',['Combat',['../d1/db8/namespaceWorldPackets_1_1Combat.html',1,'WorldPackets']]],
   ['worldpackets_3a_3acombatlog_8',['CombatLog',['../d8/de5/namespaceWorldPackets_1_1CombatLog.html',1,'WorldPackets']]],
   ['worldpackets_3a_3aguild_9',['Guild',['../dd/dcf/namespaceWorldPackets_1_1Guild.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3aitem_10',['Item',['../d5/de6/namespaceWorldPackets_1_1Item.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3alfg_11',['LFG',['../da/d9d/namespaceWorldPackets_1_1LFG.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3amisc_12',['Misc',['../d5/d57/namespaceWorldPackets_1_1Misc.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3anpc_13',['NPC',['../dd/d9e/namespaceWorldPackets_1_1NPC.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3apet_14',['Pet',['../df/dd1/namespaceWorldPackets_1_1Pet.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3aquery_15',['Query',['../db/d57/namespaceWorldPackets_1_1Query.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3astrings_16',['Strings',['../d3/d0d/namespaceWorldPackets_1_1Strings.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3atotem_17',['Totem',['../d7/d5c/namespaceWorldPackets_1_1Totem.html',1,'WorldPackets']]],
-  ['worldpackets_3a_3aworldstate_18',['WorldState',['../d0/d4c/namespaceWorldPackets_1_1WorldState.html',1,'WorldPackets']]]
+  ['worldpackets_3a_3ainstance_10',['Instance',['../d9/d3e/namespaceWorldPackets_1_1Instance.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3aitem_11',['Item',['../d5/de6/namespaceWorldPackets_1_1Item.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3alfg_12',['LFG',['../da/d9d/namespaceWorldPackets_1_1LFG.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3amisc_13',['Misc',['../d5/d57/namespaceWorldPackets_1_1Misc.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3anpc_14',['NPC',['../dd/d9e/namespaceWorldPackets_1_1NPC.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3apet_15',['Pet',['../df/dd1/namespaceWorldPackets_1_1Pet.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3aquery_16',['Query',['../db/d57/namespaceWorldPackets_1_1Query.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3astrings_17',['Strings',['../d3/d0d/namespaceWorldPackets_1_1Strings.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3atotem_18',['Totem',['../d7/d5c/namespaceWorldPackets_1_1Totem.html',1,'WorldPackets']]],
+  ['worldpackets_3a_3aworldstate_19',['WorldState',['../d0/d4c/namespaceWorldPackets_1_1WorldState.html',1,'WorldPackets']]]
 ];

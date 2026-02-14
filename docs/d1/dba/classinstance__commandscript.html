@@ -192,7 +192,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>: <a class="code hl_class" href="../../d1/d40/classCommandScript.html">CommandScript</a>(<span class="stringliteral">&quot;instance_commandscript&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>: <a class="code hl_class" href="../../d1/d40/classCommandScript.html">CommandScript</a>(<span class="stringliteral">&quot;instance_commandscript&quot;</span>) { }</div>
 <div class="ttc" id="aclassCommandScript_html"><div class="ttname"><a href="../../d1/d40/classCommandScript.html">CommandScript</a></div><div class="ttdef"><b>Definition</b> CommandScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -222,36 +222,36 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d1/d40/classCommandScript.html#a97dc7d00b78e0030ba2a950d23b2ebd2">CommandScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> instanceCommandTable =</div>
-<div class="line"><span class="lineno">   37</span>        {</div>
-<div class="line"><span class="lineno">   38</span>            { <span class="stringliteral">&quot;listbinds&quot;</span>,    <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233">HandleInstanceListBindsCommand</a>,    <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::No },</div>
-<div class="line"><span class="lineno">   39</span>            { <span class="stringliteral">&quot;unbind&quot;</span>,       <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a7abbe257b10632f2acbdd838e1f073a9">HandleInstanceUnbindCommand</a>,       <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::No },</div>
-<div class="line"><span class="lineno">   40</span>            { <span class="stringliteral">&quot;stats&quot;</span>,        <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44">HandleInstanceStatsCommand</a>,        <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::Yes },</div>
-<div class="line"><span class="lineno">   41</span>            { <span class="stringliteral">&quot;savedata&quot;</span>,     <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a4b494a8b1de470612436fbb9fa433416">HandleInstanceSaveDataCommand</a>,     <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::No },</div>
-<div class="line"><span class="lineno">   42</span>            { <span class="stringliteral">&quot;setbossstate&quot;</span>, <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b">HandleInstanceSetBossStateCommand</a>, <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::Yes },</div>
-<div class="line"><span class="lineno">   43</span>            { <span class="stringliteral">&quot;getbossstate&quot;</span>, <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a0530ca6481073d6bafd11596546140b0">HandleInstanceGetBossStateCommand</a>, <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::Yes },</div>
-<div class="line"><span class="lineno">   44</span>        };</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
-<div class="line"><span class="lineno">   47</span>        {</div>
-<div class="line"><span class="lineno">   48</span>            { <span class="stringliteral">&quot;instance&quot;</span>, instanceCommandTable },</div>
-<div class="line"><span class="lineno">   49</span>        };</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span> commandTable;</div>
-<div class="line"><span class="lineno">   52</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> instanceCommandTable =</div>
+<div class="line"><span class="lineno">   39</span>        {</div>
+<div class="line"><span class="lineno">   40</span>            { <span class="stringliteral">&quot;listbinds&quot;</span>,    <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233">HandleInstanceListBindsCommand</a>,    <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::No },</div>
+<div class="line"><span class="lineno">   41</span>            { <span class="stringliteral">&quot;unbind&quot;</span>,       <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a7abbe257b10632f2acbdd838e1f073a9">HandleInstanceUnbindCommand</a>,       <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::No },</div>
+<div class="line"><span class="lineno">   42</span>            { <span class="stringliteral">&quot;stats&quot;</span>,        <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44">HandleInstanceStatsCommand</a>,        <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::Yes },</div>
+<div class="line"><span class="lineno">   43</span>            { <span class="stringliteral">&quot;savedata&quot;</span>,     <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a4b494a8b1de470612436fbb9fa433416">HandleInstanceSaveDataCommand</a>,     <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>, Console::No },</div>
+<div class="line"><span class="lineno">   44</span>            { <span class="stringliteral">&quot;setbossstate&quot;</span>, <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b">HandleInstanceSetBossStateCommand</a>, <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a>,    Console::Yes },</div>
+<div class="line"><span class="lineno">   45</span>            { <span class="stringliteral">&quot;getbossstate&quot;</span>, <a class="code hl_function" href="../../d1/dba/classinstance__commandscript.html#a0530ca6481073d6bafd11596546140b0">HandleInstanceGetBossStateCommand</a>, <a class="code hl_enumvalue" href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a>,     Console::Yes },</div>
+<div class="line"><span class="lineno">   46</span>        };</div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>        <span class="keyword">static</span> <a class="code hl_typedef" href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">ChatCommandTable</a> commandTable =</div>
+<div class="line"><span class="lineno">   49</span>        {</div>
+<div class="line"><span class="lineno">   50</span>            { <span class="stringliteral">&quot;instance&quot;</span>, instanceCommandTable },</div>
+<div class="line"><span class="lineno">   51</span>        };</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">return</span> commandTable;</div>
+<div class="line"><span class="lineno">   54</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition</b> Common.h:60</div></div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a7f04060ed09e837220bc6c3f34d6fef1">SEC_GAMEMASTER</a></div><div class="ttdeci">@ SEC_GAMEMASTER</div><div class="ttdef"><b>Definition</b> Common.h:59</div></div>
 <div class="ttc" id="aCommon_8h_html_adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0"><div class="ttname"><a href="../../dc/d33/Common_8h.html#adaa1cabfe05f8df3c272bdcfd89cdac7a87035c2f608d637b9bf5cbe0b42ca7a0">SEC_MODERATOR</a></div><div class="ttdeci">@ SEC_MODERATOR</div><div class="ttdef"><b>Definition</b> Common.h:58</div></div>
-<div class="ttc" id="aclassinstance__commandscript_html_a0530ca6481073d6bafd11596546140b0"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a0530ca6481073d6bafd11596546140b0">instance_commandscript::HandleInstanceGetBossStateCommand</a></div><div class="ttdeci">static bool HandleInstanceGetBossStateCommand(ChatHandler *handler, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:202</div></div>
-<div class="ttc" id="aclassinstance__commandscript_html_a4b494a8b1de470612436fbb9fa433416"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a4b494a8b1de470612436fbb9fa433416">instance_commandscript::HandleInstanceSaveDataCommand</a></div><div class="ttdeci">static bool HandleInstanceSaveDataCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:137</div></div>
-<div class="ttc" id="aclassinstance__commandscript_html_a7abbe257b10632f2acbdd838e1f073a9"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a7abbe257b10632f2acbdd838e1f073a9">instance_commandscript::HandleInstanceUnbindCommand</a></div><div class="ttdeci">static bool HandleInstanceUnbindCommand(ChatHandler *handler, Variant&lt; uint16, EXACT_SEQUENCE(&quot;all&quot;)&gt; mapArg, Optional&lt; uint8 &gt; difficultyArg)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:81</div></div>
-<div class="ttc" id="aclassinstance__commandscript_html_a9547a0a88a3bcd7407c449f3f2f25f44"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44">instance_commandscript::HandleInstanceStatsCommand</a></div><div class="ttdeci">static bool HandleInstanceStatsCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:123</div></div>
-<div class="ttc" id="aclassinstance__commandscript_html_abf42411f9c78ce59b21b34691e3d4233"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233">instance_commandscript::HandleInstanceListBindsCommand</a></div><div class="ttdeci">static bool HandleInstanceListBindsCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:54</div></div>
-<div class="ttc" id="aclassinstance__commandscript_html_aec65b5af811eae2cbcf17571e9d1473b"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b">instance_commandscript::HandleInstanceSetBossStateCommand</a></div><div class="ttdeci">static bool HandleInstanceSetBossStateCommand(ChatHandler *handler, uint32 encounterId, uint32 state, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:158</div></div>
+<div class="ttc" id="aclassinstance__commandscript_html_a0530ca6481073d6bafd11596546140b0"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a0530ca6481073d6bafd11596546140b0">instance_commandscript::HandleInstanceGetBossStateCommand</a></div><div class="ttdeci">static bool HandleInstanceGetBossStateCommand(ChatHandler *handler, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:204</div></div>
+<div class="ttc" id="aclassinstance__commandscript_html_a4b494a8b1de470612436fbb9fa433416"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a4b494a8b1de470612436fbb9fa433416">instance_commandscript::HandleInstanceSaveDataCommand</a></div><div class="ttdeci">static bool HandleInstanceSaveDataCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:139</div></div>
+<div class="ttc" id="aclassinstance__commandscript_html_a7abbe257b10632f2acbdd838e1f073a9"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a7abbe257b10632f2acbdd838e1f073a9">instance_commandscript::HandleInstanceUnbindCommand</a></div><div class="ttdeci">static bool HandleInstanceUnbindCommand(ChatHandler *handler, Variant&lt; uint16, EXACT_SEQUENCE(&quot;all&quot;)&gt; mapArg, Optional&lt; uint8 &gt; difficultyArg)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:83</div></div>
+<div class="ttc" id="aclassinstance__commandscript_html_a9547a0a88a3bcd7407c449f3f2f25f44"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#a9547a0a88a3bcd7407c449f3f2f25f44">instance_commandscript::HandleInstanceStatsCommand</a></div><div class="ttdeci">static bool HandleInstanceStatsCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:125</div></div>
+<div class="ttc" id="aclassinstance__commandscript_html_abf42411f9c78ce59b21b34691e3d4233"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#abf42411f9c78ce59b21b34691e3d4233">instance_commandscript::HandleInstanceListBindsCommand</a></div><div class="ttdeci">static bool HandleInstanceListBindsCommand(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:56</div></div>
+<div class="ttc" id="aclassinstance__commandscript_html_aec65b5af811eae2cbcf17571e9d1473b"><div class="ttname"><a href="../../d1/dba/classinstance__commandscript.html#aec65b5af811eae2cbcf17571e9d1473b">instance_commandscript::HandleInstanceSetBossStateCommand</a></div><div class="ttdeci">static bool HandleInstanceSetBossStateCommand(ChatHandler *handler, uint32 encounterId, uint32 state, Optional&lt; PlayerIdentifier &gt; player)</div><div class="ttdef"><b>Definition</b> cs_instance.cpp:160</div></div>
 <div class="ttc" id="anamespaceAcore_1_1ChatCommands_html_a7aa1549a95f760a19b9b7ffd8e669626"><div class="ttname"><a href="../../d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626">Acore::ChatCommands::ChatCommandTable</a></div><div class="ttdeci">std::vector&lt; ChatCommandBuilder &gt; ChatCommandTable</div><div class="ttdef"><b>Definition</b> ChatCommand.h:46</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00202">HandleInstanceGetBossStateCommand()</a>, <a class="el" href="../../#l00054">HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00137">HandleInstanceSaveDataCommand()</a>, <a class="el" href="../../#l00158">HandleInstanceSetBossStateCommand()</a>, <a class="el" href="../../#l00123">HandleInstanceStatsCommand()</a>, <a class="el" href="../../#l00081">HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>, <a class="el" href="../../#l00059">SEC_GAMEMASTER</a>, and <a class="el" href="../../#l00058">SEC_MODERATOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00204">HandleInstanceGetBossStateCommand()</a>, <a class="el" href="../../#l00056">HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00139">HandleInstanceSaveDataCommand()</a>, <a class="el" href="../../#l00160">HandleInstanceSetBossStateCommand()</a>, <a class="el" href="../../#l00125">HandleInstanceStatsCommand()</a>, <a class="el" href="../../#l00083">HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>, <a class="el" href="../../#l00059">SEC_GAMEMASTER</a>, and <a class="el" href="../../#l00058">SEC_MODERATOR</a>.</p>
 
 </div>
 </div>
@@ -288,45 +288,89 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  203</span>    {</div>
-<div class="line"><span class="lineno">  204</span>        <span class="comment">// Character name must be provided when using this from console.</span></div>
-<div class="line"><span class="lineno">  205</span>        <span class="keywordflow">if</span> (!player &amp;&amp; !handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>())</div>
-<div class="line"><span class="lineno">  206</span>        {</div>
-<div class="line"><span class="lineno">  207</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a>);</div>
-<div class="line"><span class="lineno">  208</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  209</span>        }</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  212</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc">PlayerIdentifier::FromSelf</a>(handler);</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">if</span> (!player-&gt;IsConnected())</div>
-<div class="line"><span class="lineno">  215</span>        {</div>
-<div class="line"><span class="lineno">  216</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
-<div class="line"><span class="lineno">  217</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  218</span>        }</div>
-<div class="line"><span class="lineno">  219</span> </div>
-<div class="line"><span class="lineno">  220</span>        <a class="code hl_class" href="../../de/dd8/classInstanceMap.html">InstanceMap</a>* map = player-&gt;GetConnectedPlayer()-&gt;GetMap()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>();</div>
-<div class="line"><span class="lineno">  221</span>        <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">  222</span>        {</div>
-<div class="line"><span class="lineno">  223</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a>);</div>
-<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  225</span>        }</div>
-<div class="line"><span class="lineno">  226</span> </div>
-<div class="line"><span class="lineno">  227</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  228</span>        {</div>
-<div class="line"><span class="lineno">  229</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a>);</div>
-<div class="line"><span class="lineno">  230</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  231</span>        }</div>
-<div class="line"><span class="lineno">  232</span> </div>
-<div class="line"><span class="lineno">  233</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;GetEncounterCount(); ++i)</div>
-<div class="line"><span class="lineno">  234</span>        {</div>
-<div class="line"><span class="lineno">  235</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> state = map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">GetBossState</a>(i);</div>
-<div class="line"><span class="lineno">  236</span>            std::string stateName = <a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a>(state);</div>
-<div class="line"><span class="lineno">  237</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518">LANG_COMMAND_INST_GET_BOSS_STATE</a>, i, state, stateName);</div>
-<div class="line"><span class="lineno">  238</span>        }</div>
-<div class="line"><span class="lineno">  239</span> </div>
-<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  241</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  205</span>    {</div>
+<div class="line"><span class="lineno">  206</span>        <span class="comment">// Character name must be provided when using this from console.</span></div>
+<div class="line"><span class="lineno">  207</span>        <span class="keywordflow">if</span> (!player &amp;&amp; !handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>())</div>
+<div class="line"><span class="lineno">  208</span>        {</div>
+<div class="line"><span class="lineno">  209</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a>);</div>
+<div class="line"><span class="lineno">  210</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  211</span>        }</div>
+<div class="line"><span class="lineno">  212</span> </div>
+<div class="line"><span class="lineno">  213</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">  214</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc">PlayerIdentifier::FromSelf</a>(handler);</div>
+<div class="line"><span class="lineno">  215</span> </div>
+<div class="line"><span class="lineno">  216</span>        <span class="keywordflow">if</span> (!player-&gt;IsConnected())</div>
+<div class="line"><span class="lineno">  217</span>        {</div>
+<div class="line"><span class="lineno">  218</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
+<div class="line"><span class="lineno">  219</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  220</span>        }</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>        <a class="code hl_class" href="../../de/dd8/classInstanceMap.html">InstanceMap</a>* map = player-&gt;GetConnectedPlayer()-&gt;GetMap()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>();</div>
+<div class="line"><span class="lineno">  223</span>        <span class="keywordflow">if</span> (!map)</div>
+<div class="line"><span class="lineno">  224</span>        {</div>
+<div class="line"><span class="lineno">  225</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a>);</div>
+<div class="line"><span class="lineno">  226</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  227</span>        }</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  230</span>        {</div>
+<div class="line"><span class="lineno">  231</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a>);</div>
+<div class="line"><span class="lineno">  232</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  233</span>        }</div>
+<div class="line"><span class="lineno">  234</span> </div>
+<div class="line"><span class="lineno">  235</span>        <span class="comment">// Build a map of encounterIndex -&gt; encounterName from DBC data</span></div>
+<div class="line"><span class="lineno">  236</span>        std::unordered_map&lt;uint32, char const*&gt; encounterNames;</div>
+<div class="line"><span class="lineno">  237</span>        <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a> difficulty = map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#ace981bca7a407e53d8f3506b5eecb2da">GetDifficulty</a>();</div>
+<div class="line"><span class="lineno">  238</span> </div>
+<div class="line"><span class="lineno">  239</span>        <span class="comment">// For heroic ICC/Ruby Sanctum, encounters are only defined</span></div>
+<div class="line"><span class="lineno">  240</span>        <span class="comment">// for normal difficulty in the DBC, use the same fallback</span></div>
+<div class="line"><span class="lineno">  241</span>        <span class="comment">// pattern as Map::UpdateEncounterState</span></div>
+<div class="line"><span class="lineno">  242</span>        <a class="code hl_typedef" href="../../de/d25/ObjectMgr_8h.html#aebea323597e23bf0f45fd9c0c6bd78f5">DungeonEncounterList</a> <span class="keyword">const</span>* encounters = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  243</span>        <span class="keywordflow">if</span> ((map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#abea8ed605071226978969647a0246e86">GetId</a>() == 631 || map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#abea8ed605071226978969647a0246e86">GetId</a>() == 724)</div>
+<div class="line"><span class="lineno">  244</span>            &amp;&amp; map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#adcbab2814bdaeba356c591bffd953cea">IsHeroic</a>())</div>
+<div class="line"><span class="lineno">  245</span>        {</div>
+<div class="line"><span class="lineno">  246</span>            encounters = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetDungeonEncounterList(</div>
+<div class="line"><span class="lineno">  247</span>                map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#abea8ed605071226978969647a0246e86">GetId</a>(),</div>
+<div class="line"><span class="lineno">  248</span>                !map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1">Is25ManRaid</a>()</div>
+<div class="line"><span class="lineno">  249</span>                    ? <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546ba2663e2785356448e1e33d2c138e90439">RAID_DIFFICULTY_10MAN_NORMAL</a></div>
+<div class="line"><span class="lineno">  250</span>                    : <a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546ba680f3f5e9f4e8336f7f990feb2d3694a">RAID_DIFFICULTY_25MAN_NORMAL</a>);</div>
+<div class="line"><span class="lineno">  251</span>        }</div>
+<div class="line"><span class="lineno">  252</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  253</span>        {</div>
+<div class="line"><span class="lineno">  254</span>            <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a> diffFixed = <a class="code hl_function" href="../../dd/d8d/DBCStores_8cpp.html#af7b6eff71f64ecef778f854613d72288">IsSharedDifficultyMap</a>(map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#abea8ed605071226978969647a0246e86">GetId</a>())</div>
+<div class="line"><span class="lineno">  255</span>                ? <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(difficulty % 2)</div>
+<div class="line"><span class="lineno">  256</span>                : difficulty;</div>
+<div class="line"><span class="lineno">  257</span>            encounters = <a class="code hl_define" href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetDungeonEncounterList(</div>
+<div class="line"><span class="lineno">  258</span>                map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#abea8ed605071226978969647a0246e86">GetId</a>(), diffFixed);</div>
+<div class="line"><span class="lineno">  259</span>        }</div>
+<div class="line"><span class="lineno">  260</span> </div>
+<div class="line"><span class="lineno">  261</span>        <span class="keywordflow">if</span> (encounters)</div>
+<div class="line"><span class="lineno">  262</span>        {</div>
+<div class="line"><span class="lineno">  263</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>* encounter : *encounters)</div>
+<div class="line"><span class="lineno">  264</span>                encounterNames[encounter-&gt;dbcEntry-&gt;encounterIndex]</div>
+<div class="line"><span class="lineno">  265</span>                    = encounter-&gt;dbcEntry-&gt;encounterName[0];</div>
+<div class="line"><span class="lineno">  266</span>        }</div>
+<div class="line"><span class="lineno">  267</span> </div>
+<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;GetEncounterCount(); ++i)</div>
+<div class="line"><span class="lineno">  269</span>        {</div>
+<div class="line"><span class="lineno">  270</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> state = map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">GetBossState</a>(i);</div>
+<div class="line"><span class="lineno">  271</span>            std::string stateName = <a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a>(state);</div>
+<div class="line"><span class="lineno">  272</span> </div>
+<div class="line"><span class="lineno">  273</span>            <span class="keyword">auto</span> it = encounterNames.find(i);</div>
+<div class="line"><span class="lineno">  274</span>            std::string bossName = (it != encounterNames.end()</div>
+<div class="line"><span class="lineno">  275</span>                &amp;&amp; it-&gt;second) ? it-&gt;second : <span class="stringliteral">&quot;Unknown&quot;</span>;</div>
+<div class="line"><span class="lineno">  276</span> </div>
+<div class="line"><span class="lineno">  277</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(</div>
+<div class="line"><span class="lineno">  278</span>                <a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518">LANG_COMMAND_INST_GET_BOSS_STATE</a>,</div>
+<div class="line"><span class="lineno">  279</span>                i, bossName, state, stateName);</div>
+<div class="line"><span class="lineno">  280</span>        }</div>
+<div class="line"><span class="lineno">  281</span> </div>
+<div class="line"><span class="lineno">  282</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  283</span>    }</div>
+<div class="ttc" id="aDBCEnums_8h_html_a39d5903d54e674f4f2e824581ade546b"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a></div><div class="ttdeci">Difficulty</div><div class="ttdef"><b>Definition</b> DBCEnums.h:266</div></div>
+<div class="ttc" id="aDBCEnums_8h_html_a39d5903d54e674f4f2e824581ade546ba2663e2785356448e1e33d2c138e90439"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546ba2663e2785356448e1e33d2c138e90439">RAID_DIFFICULTY_10MAN_NORMAL</a></div><div class="ttdeci">@ RAID_DIFFICULTY_10MAN_NORMAL</div><div class="ttdef"><b>Definition</b> DBCEnums.h:273</div></div>
+<div class="ttc" id="aDBCEnums_8h_html_a39d5903d54e674f4f2e824581ade546ba680f3f5e9f4e8336f7f990feb2d3694a"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546ba680f3f5e9f4e8336f7f990feb2d3694a">RAID_DIFFICULTY_25MAN_NORMAL</a></div><div class="ttdeci">@ RAID_DIFFICULTY_25MAN_NORMAL</div><div class="ttdef"><b>Definition</b> DBCEnums.h:274</div></div>
+<div class="ttc" id="aDBCStores_8cpp_html_af7b6eff71f64ecef778f854613d72288"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#af7b6eff71f64ecef778f854613d72288">IsSharedDifficultyMap</a></div><div class="ttdeci">bool IsSharedDifficultyMap(uint32 mapid)</div><div class="ttdef"><b>Definition</b> DBCStores.cpp:829</div></div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa442d896fa1f388b390775be67cf9f518">LANG_COMMAND_INST_GET_BOSS_STATE</a></div><div class="ttdeci">@ LANG_COMMAND_INST_GET_BOSS_STATE</div><div class="ttdef"><b>Definition</b> Language.h:1118</div></div>
@@ -334,6 +378,8 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a></div><div class="ttdeci">@ LANG_NO_INSTANCE_DATA</div><div class="ttdef"><b>Definition</b> Language.h:1116</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a></div><div class="ttdeci">@ LANG_CMD_SYNTAX</div><div class="ttdef"><b>Definition</b> Language.h:42</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a></div><div class="ttdeci">@ LANG_PLAYER_NOT_FOUND</div><div class="ttdef"><b>Definition</b> Language.h:545</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1686</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_aebea323597e23bf0f45fd9c0c6bd78f5"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#aebea323597e23bf0f45fd9c0c6bd78f5">DungeonEncounterList</a></div><div class="ttdeci">std::list&lt; DungeonEncounter const  * &gt; DungeonEncounterList</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:711</div></div>
 <div class="ttc" id="aclassChatHandler_html_a54305506d6194dfdd1c1a3f30c8d1d62"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">ChatHandler::PSendSysMessage</a></div><div class="ttdeci">void PSendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition</b> Chat.cpp:211</div></div>
 <div class="ttc" id="aclassChatHandler_html_a635eca3065c9464e0cdcedd9f0740daa"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">ChatHandler::GetSession</a></div><div class="ttdeci">WorldSession * GetSession()</div><div class="ttdef"><b>Definition</b> Chat.h:242</div></div>
 <div class="ttc" id="aclassChatHandler_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition</b> Chat.cpp:216</div></div>
@@ -341,12 +387,16 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassInstanceMap_html_adb854ceb3abc3e768ad6b8ce66703314"><div class="ttname"><a href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">InstanceMap::GetInstanceScript</a></div><div class="ttdeci">InstanceScript * GetInstanceScript()</div><div class="ttdef"><b>Definition</b> Map.h:658</div></div>
 <div class="ttc" id="aclassInstanceScript_html_a776dbfd3b5c48f29ea0ccf8f3cf659e2"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a776dbfd3b5c48f29ea0ccf8f3cf659e2">InstanceScript::GetBossState</a></div><div class="ttdeci">EncounterState GetBossState(uint32 id) const</div><div class="ttdef"><b>Definition</b> InstanceScript.h:242</div></div>
 <div class="ttc" id="aclassInstanceScript_html_aaf54a225e2e3d36223fb0c34d65c1e44"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a></div><div class="ttdeci">static std::string GetBossStateName(uint8 state)</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:826</div></div>
+<div class="ttc" id="aclassMap_html_a594813fab209738971cc54b69fff4aa1"><div class="ttname"><a href="../../d7/db0/classMap.html#a594813fab209738971cc54b69fff4aa1">Map::Is25ManRaid</a></div><div class="ttdeci">bool Is25ManRaid() const</div><div class="ttdef"><b>Definition</b> Map.h:300</div></div>
+<div class="ttc" id="aclassMap_html_abea8ed605071226978969647a0246e86"><div class="ttname"><a href="../../d7/db0/classMap.html#abea8ed605071226978969647a0246e86">Map::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition</b> Map.h:229</div></div>
 <div class="ttc" id="aclassMap_html_aca5af60e4ebade05b3673dd341eafd4f"><div class="ttname"><a href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">Map::ToInstanceMap</a></div><div class="ttdeci">InstanceMap * ToInstanceMap()</div><div class="ttdef"><b>Definition</b> Map.h:377</div></div>
+<div class="ttc" id="aclassMap_html_ace981bca7a407e53d8f3506b5eecb2da"><div class="ttname"><a href="../../d7/db0/classMap.html#ace981bca7a407e53d8f3506b5eecb2da">Map::GetDifficulty</a></div><div class="ttdeci">Difficulty GetDifficulty() const</div><div class="ttdef"><b>Definition</b> Map.h:290</div></div>
+<div class="ttc" id="aclassMap_html_adcbab2814bdaeba356c591bffd953cea"><div class="ttname"><a href="../../d7/db0/classMap.html#adcbab2814bdaeba356c591bffd953cea">Map::IsHeroic</a></div><div class="ttdeci">bool IsHeroic() const</div><div class="ttdef"><b>Definition</b> Map.h:299</div></div>
 <div class="ttc" id="astructAcore_1_1ChatCommands_1_1PlayerIdentifier_html_af45d29f7ebca2a8af420fdec344264fc"><div class="ttname"><a href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc">Acore::ChatCommands::PlayerIdentifier::FromSelf</a></div><div class="ttdeci">static Optional&lt; PlayerIdentifier &gt; FromSelf(ChatHandler *handler)</div><div class="ttdef"><b>Definition</b> ChatCommandTags.cpp:147</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00147">Acore::ChatCommands::PlayerIdentifier::FromSelf()</a>, <a class="el" href="../../#l00242">InstanceScript::GetBossState()</a>, <a class="el" href="../../#l00826">InstanceScript::GetBossStateName()</a>, <a class="el" href="../../#l00658">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00042">LANG_CMD_SYNTAX</a>, <a class="el" href="../../#l01118">LANG_COMMAND_INST_GET_BOSS_STATE</a>, <a class="el" href="../../#l01116">LANG_NO_INSTANCE_DATA</a>, <a class="el" href="../../#l01115">LANG_NOT_DUNGEON</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00377">Map::ToInstanceMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00147">Acore::ChatCommands::PlayerIdentifier::FromSelf()</a>, <a class="el" href="../../#l00242">InstanceScript::GetBossState()</a>, <a class="el" href="../../#l00826">InstanceScript::GetBossStateName()</a>, <a class="el" href="../../#l00290">Map::GetDifficulty()</a>, <a class="el" href="../../#l00229">Map::GetId()</a>, <a class="el" href="../../#l00658">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00300">Map::Is25ManRaid()</a>, <a class="el" href="../../#l00299">Map::IsHeroic()</a>, <a class="el" href="../../#l00829">IsSharedDifficultyMap()</a>, <a class="el" href="../../#l00042">LANG_CMD_SYNTAX</a>, <a class="el" href="../../#l01118">LANG_COMMAND_INST_GET_BOSS_STATE</a>, <a class="el" href="../../#l01116">LANG_NO_INSTANCE_DATA</a>, <a class="el" href="../../#l01115">LANG_NOT_DUNGEON</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00273">RAID_DIFFICULTY_10MAN_NORMAL</a>, <a class="el" href="../../#l00274">RAID_DIFFICULTY_25MAN_NORMAL</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l01686">sObjectMgr</a>, and <a class="el" href="../../#l00377">Map::ToInstanceMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -373,32 +423,31 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a">getSelectedPlayer</a>();</div>
-<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   58</span>            player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> counter = 0;</div>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>    {</div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a">getSelectedPlayer</a>();</div>
+<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   60</span>            player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
 <div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>; ++i)</div>
-<div class="line"><span class="lineno">   63</span>        {</div>
-<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [mapId, bind] : <a class="code hl_define" href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerGetBoundInstances(player-&gt;GetGUID(), <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i)))</div>
-<div class="line"><span class="lineno">   65</span>            {</div>
-<div class="line"><span class="lineno">   66</span>                <a class="code hl_class" href="../../d7/d91/classInstanceSave.html">InstanceSave</a> <span class="keyword">const</span>* save = bind.save;</div>
-<div class="line"><span class="lineno">   67</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> resetTime = bind.extended ? save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a>() : save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
-<div class="line"><span class="lineno">   68</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ttr = (resetTime &gt;= <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() ? resetTime - <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() : 0);</div>
-<div class="line"><span class="lineno">   69</span>                std::string timeleft = <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(ttr);</div>
-<div class="line"><span class="lineno">   70</span>                handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;map: {}, inst: {}, perm: {}, diff: {}, canReset: {}, TTR: {}{}&quot;</span>,</div>
-<div class="line"><span class="lineno">   71</span>                    mapId, save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a>(), bind.perm ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, save-&gt;GetDifficulty(), save-&gt;CanReset() ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, timeleft, (bind.extended ? <span class="stringliteral">&quot; (extended)&quot;</span> : <span class="stringliteral">&quot;&quot;</span>));</div>
-<div class="line"><span class="lineno">   72</span>                counter++;</div>
-<div class="line"><span class="lineno">   73</span>            }</div>
-<div class="line"><span class="lineno">   74</span>        }</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;player binds: {}&quot;</span>, counter);</div>
+<div class="line"><span class="lineno">   62</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> counter = 0;</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>; ++i)</div>
+<div class="line"><span class="lineno">   65</span>        {</div>
+<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [mapId, bind] : <a class="code hl_define" href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerGetBoundInstances(player-&gt;GetGUID(), <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i)))</div>
+<div class="line"><span class="lineno">   67</span>            {</div>
+<div class="line"><span class="lineno">   68</span>                <a class="code hl_class" href="../../d7/d91/classInstanceSave.html">InstanceSave</a> <span class="keyword">const</span>* save = bind.save;</div>
+<div class="line"><span class="lineno">   69</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> resetTime = bind.extended ? save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a>() : save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
+<div class="line"><span class="lineno">   70</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ttr = (resetTime &gt;= <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() ? resetTime - <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() : 0);</div>
+<div class="line"><span class="lineno">   71</span>                std::string timeleft = <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(ttr);</div>
+<div class="line"><span class="lineno">   72</span>                handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;map: {}, inst: {}, perm: {}, diff: {}, canReset: {}, TTR: {}{}&quot;</span>,</div>
+<div class="line"><span class="lineno">   73</span>                    mapId, save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a>(), bind.perm ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, save-&gt;GetDifficulty(), save-&gt;CanReset() ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, timeleft, (bind.extended ? <span class="stringliteral">&quot; (extended)&quot;</span> : <span class="stringliteral">&quot;&quot;</span>));</div>
+<div class="line"><span class="lineno">   74</span>                counter++;</div>
+<div class="line"><span class="lineno">   75</span>            }</div>
+<div class="line"><span class="lineno">   76</span>        }</div>
 <div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   79</span>    }</div>
-<div class="ttc" id="aDBCEnums_8h_html_a39d5903d54e674f4f2e824581ade546b"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a></div><div class="ttdeci">Difficulty</div><div class="ttdef"><b>Definition</b> DBCEnums.h:266</div></div>
+<div class="line"><span class="lineno">   78</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;player binds: {}&quot;</span>, counter);</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   81</span>    }</div>
 <div class="ttc" id="aDBCEnums_8h_html_a4b8f96edf5459f120db77f80275dfe5c"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a></div><div class="ttdeci">#define MAX_DIFFICULTY</div><div class="ttdef"><b>Definition</b> DBCEnums.h:283</div></div>
 <div class="ttc" id="aInstanceSaveMgr_8h_html_ae1d3c96dbd749e40f06799fa52eeb9a2"><div class="ttname"><a href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a></div><div class="ttdeci">#define sInstanceSaveMgr</div><div class="ttdef"><b>Definition</b> InstanceSaveMgr.h:202</div></div>
 <div class="ttc" id="aUtil_8cpp_html_a0b4910c611cea4a1b2812dac5456c5a8"><div class="ttname"><a href="../../d9/da5/Util_8cpp.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a></div><div class="ttdeci">std::string secsToTimeString(uint64 timeInSecs, bool shortText)</div><div class="ttdef"><b>Definition</b> Util.cpp:73</div></div>
@@ -407,13 +456,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassInstanceSave_html_a2da6c5ed63b57f6449de44461c05582b"><div class="ttname"><a href="../../d7/d91/classInstanceSave.html#a2da6c5ed63b57f6449de44461c05582b">InstanceSave::GetExtendedResetTime</a></div><div class="ttdeci">time_t GetExtendedResetTime() const</div><div class="ttdef"><b>Definition</b> InstanceSaveMgr.h:76</div></div>
 <div class="ttc" id="aclassInstanceSave_html_a7def734d9c4698457fa4f631e30fa9db"><div class="ttname"><a href="../../d7/d91/classInstanceSave.html#a7def734d9c4698457fa4f631e30fa9db">InstanceSave::GetInstanceId</a></div><div class="ttdeci">uint32 GetInstanceId() const</div><div class="ttdef"><b>Definition</b> InstanceSaveMgr.h:61</div></div>
 <div class="ttc" id="aclassInstanceSave_html_af5f5969ae2d4730af0c9ad7ea7f5a8ac"><div class="ttname"><a href="../../d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">InstanceSave::GetResetTime</a></div><div class="ttdeci">time_t GetResetTime() const</div><div class="ttdef"><b>Definition</b> InstanceSaveMgr.h:75</div></div>
-<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1066</div></div>
-<div class="ttc" id="aclassWorldSession_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:435</div></div>
+<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1073</div></div>
+<div class="ttc" id="aclassWorldSession_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:443</div></div>
 <div class="ttc" id="anamespaceGameTime_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition</b> GameTime.cpp:38</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00081">InstanceSave::CanReset()</a>, <a class="el" href="../../#l00063">InstanceSave::GetDifficulty()</a>, <a class="el" href="../../#l00076">InstanceSave::GetExtendedResetTime()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00061">InstanceSave::GetInstanceId()</a>, <a class="el" href="../../#l00435">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00075">InstanceSave::GetResetTime()</a>, <a class="el" href="../../#l00374">ChatHandler::getSelectedPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00283">MAX_DIFFICULTY</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00073">secsToTimeString()</a>, and <a class="el" href="../../#l00202">sInstanceSaveMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">InstanceSave::CanReset()</a>, <a class="el" href="../../#l00063">InstanceSave::GetDifficulty()</a>, <a class="el" href="../../#l00076">InstanceSave::GetExtendedResetTime()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00061">InstanceSave::GetInstanceId()</a>, <a class="el" href="../../#l00443">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00075">InstanceSave::GetResetTime()</a>, <a class="el" href="../../#l00374">ChatHandler::getSelectedPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00283">MAX_DIFFICULTY</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00073">secsToTimeString()</a>, and <a class="el" href="../../#l00202">sInstanceSaveMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -440,33 +489,33 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  138</span>    {</div>
-<div class="line"><span class="lineno">  139</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">  140</span>        <a class="code hl_class" href="../../d7/db0/classMap.html">Map</a>* map = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>();</div>
-<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a0c80d50b012dc8d560e256201970f3b3">IsDungeon</a>())</div>
-<div class="line"><span class="lineno">  142</span>        {</div>
-<div class="line"><span class="lineno">  143</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;Map is not a dungeon.&quot;</span>);</div>
-<div class="line"><span class="lineno">  144</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  145</span>        }</div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  148</span>        {</div>
-<div class="line"><span class="lineno">  149</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;Map has no instance data.&quot;</span>);</div>
-<div class="line"><span class="lineno">  150</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  151</span>        }</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>        map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69">SaveToDB</a>();</div>
+<div class="fragment"><div class="line"><span class="lineno">  140</span>    {</div>
+<div class="line"><span class="lineno">  141</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
+<div class="line"><span class="lineno">  142</span>        <a class="code hl_class" href="../../d7/db0/classMap.html">Map</a>* map = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>();</div>
+<div class="line"><span class="lineno">  143</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a0c80d50b012dc8d560e256201970f3b3">IsDungeon</a>())</div>
+<div class="line"><span class="lineno">  144</span>        {</div>
+<div class="line"><span class="lineno">  145</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;Map is not a dungeon.&quot;</span>);</div>
+<div class="line"><span class="lineno">  146</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  147</span>        }</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  150</span>        {</div>
+<div class="line"><span class="lineno">  151</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;Map has no instance data.&quot;</span>);</div>
+<div class="line"><span class="lineno">  152</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  153</span>        }</div>
 <div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  156</span>    }</div>
+<div class="line"><span class="lineno">  155</span>        map-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>()-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69">SaveToDB</a>();</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  158</span>    }</div>
 <div class="ttc" id="aclassInstanceScript_html_a99f69b7706e28b78008952ceefe09b69"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69">InstanceScript::SaveToDB</a></div><div class="ttdeci">void SaveToDB()</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:41</div></div>
 <div class="ttc" id="aclassMap_html"><div class="ttname"><a href="../../d7/db0/classMap.html">Map</a></div><div class="ttdef"><b>Definition</b> Map.h:163</div></div>
 <div class="ttc" id="aclassMap_html_a0c80d50b012dc8d560e256201970f3b3"><div class="ttname"><a href="../../d7/db0/classMap.html#a0c80d50b012dc8d560e256201970f3b3">Map::IsDungeon</a></div><div class="ttdeci">bool IsDungeon() const</div><div class="ttdef"><b>Definition</b> Map.h:295</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:620</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00658">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00435">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00295">Map::IsDungeon()</a>, <a class="el" href="../../#l00041">InstanceScript::SaveToDB()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00377">Map::ToInstanceMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00658">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00443">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00295">Map::IsDungeon()</a>, <a class="el" href="../../#l00041">InstanceScript::SaveToDB()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00377">Map::ToInstanceMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -515,48 +564,48 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  159</span>    {</div>
-<div class="line"><span class="lineno">  160</span>        <span class="comment">// Character name must be provided when using this from console.</span></div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">if</span> (!player &amp;&amp; !handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>())</div>
-<div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a>);</div>
-<div class="line"><span class="lineno">  164</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  165</span>        }</div>
-<div class="line"><span class="lineno">  166</span> </div>
-<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  168</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc">PlayerIdentifier::FromSelf</a>(handler);</div>
-<div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">if</span> (!player-&gt;IsConnected())</div>
-<div class="line"><span class="lineno">  171</span>        {</div>
-<div class="line"><span class="lineno">  172</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
-<div class="line"><span class="lineno">  173</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  174</span>        }</div>
-<div class="line"><span class="lineno">  175</span> </div>
-<div class="line"><span class="lineno">  176</span>        <a class="code hl_class" href="../../de/dd8/classInstanceMap.html">InstanceMap</a>* map = player-&gt;GetConnectedPlayer()-&gt;GetMap()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>();</div>
-<div class="line"><span class="lineno">  177</span>        <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">  178</span>        {</div>
-<div class="line"><span class="lineno">  179</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a>);</div>
-<div class="line"><span class="lineno">  180</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  181</span>        }</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno">  184</span>        {</div>
-<div class="line"><span class="lineno">  185</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a>);</div>
-<div class="line"><span class="lineno">  186</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  187</span>        }</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>        <span class="comment">// Reject improper values.</span></div>
-<div class="line"><span class="lineno">  190</span>        <span class="keywordflow">if</span> (encounterId &gt; map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#ae58a83191deaf6ea6fb2e25fcf8a7b00">GetEncounterCount</a>())</div>
-<div class="line"><span class="lineno">  191</span>        {</div>
-<div class="line"><span class="lineno">  192</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e">LANG_BAD_VALUE</a>);</div>
-<div class="line"><span class="lineno">  193</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  194</span>        }</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>        map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a04fbee37682f3a3e08a9ad726eb0223c">SetBossState</a>(encounterId, <a class="code hl_enumeration" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a>(state));</div>
-<div class="line"><span class="lineno">  197</span>        std::string stateName = <a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a>(state);</div>
-<div class="line"><span class="lineno">  198</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657">LANG_COMMAND_INST_SET_BOSS_STATE</a>, encounterId, state, stateName);</div>
-<div class="line"><span class="lineno">  199</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  200</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  161</span>    {</div>
+<div class="line"><span class="lineno">  162</span>        <span class="comment">// Character name must be provided when using this from console.</span></div>
+<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">if</span> (!player &amp;&amp; !handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>())</div>
+<div class="line"><span class="lineno">  164</span>        {</div>
+<div class="line"><span class="lineno">  165</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa85850e0cd7d393675d31dc2a3ce7c2b8">LANG_CMD_SYNTAX</a>);</div>
+<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  167</span>        }</div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">  170</span>            player = <a class="code hl_function" href="../../dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc">PlayerIdentifier::FromSelf</a>(handler);</div>
+<div class="line"><span class="lineno">  171</span> </div>
+<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">if</span> (!player-&gt;IsConnected())</div>
+<div class="line"><span class="lineno">  173</span>        {</div>
+<div class="line"><span class="lineno">  174</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaab2e8907c804b742a54d115d079d86a6">LANG_PLAYER_NOT_FOUND</a>);</div>
+<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  176</span>        }</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>        <a class="code hl_class" href="../../de/dd8/classInstanceMap.html">InstanceMap</a>* map = player-&gt;GetConnectedPlayer()-&gt;GetMap()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f">ToInstanceMap</a>();</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">if</span> (!map)</div>
+<div class="line"><span class="lineno">  180</span>        {</div>
+<div class="line"><span class="lineno">  181</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6edc75cc446816159c8e568fdee6367c">LANG_NOT_DUNGEON</a>);</div>
+<div class="line"><span class="lineno">  182</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  183</span>        }</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">if</span> (!map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno">  186</span>        {</div>
+<div class="line"><span class="lineno">  187</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7a1c19ff6533ee84b38c73c47777a648">LANG_NO_INSTANCE_DATA</a>);</div>
+<div class="line"><span class="lineno">  188</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  189</span>        }</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>        <span class="comment">// Reject improper values.</span></div>
+<div class="line"><span class="lineno">  192</span>        <span class="keywordflow">if</span> (encounterId &gt; map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#ae58a83191deaf6ea6fb2e25fcf8a7b00">GetEncounterCount</a>())</div>
+<div class="line"><span class="lineno">  193</span>        {</div>
+<div class="line"><span class="lineno">  194</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e">LANG_BAD_VALUE</a>);</div>
+<div class="line"><span class="lineno">  195</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  196</span>        }</div>
+<div class="line"><span class="lineno">  197</span> </div>
+<div class="line"><span class="lineno">  198</span>        map-&gt;<a class="code hl_function" href="../../de/dd8/classInstanceMap.html#adb854ceb3abc3e768ad6b8ce66703314">GetInstanceScript</a>()-&gt;<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a04fbee37682f3a3e08a9ad726eb0223c">SetBossState</a>(encounterId, <a class="code hl_enumeration" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a>(state));</div>
+<div class="line"><span class="lineno">  199</span>        std::string stateName = <a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#aaf54a225e2e3d36223fb0c34d65c1e44">InstanceScript::GetBossStateName</a>(state);</div>
+<div class="line"><span class="lineno">  200</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_enumvalue" href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657">LANG_COMMAND_INST_SET_BOSS_STATE</a>, encounterId, state, stateName);</div>
+<div class="line"><span class="lineno">  201</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  202</span>    }</div>
 <div class="ttc" id="aInstanceScript_8h_html_ab6cf09cd975286c705a19a75a947d438"><div class="ttname"><a href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438">EncounterState</a></div><div class="ttdeci">EncounterState</div><div class="ttdef"><b>Definition</b> InstanceScript.h:57</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa03da1e31aea519cea72faea805f30657">LANG_COMMAND_INST_SET_BOSS_STATE</a></div><div class="ttdeci">@ LANG_COMMAND_INST_SET_BOSS_STATE</div><div class="ttdef"><b>Definition</b> Language.h:1117</div></div>
 <div class="ttc" id="aLanguage_8h_html_af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e"><div class="ttname"><a href="../../d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaba84876eafcef3a821f7a2a52fd3497e">LANG_BAD_VALUE</a></div><div class="ttdeci">@ LANG_BAD_VALUE</div><div class="ttdef"><b>Definition</b> Language.h:148</div></div>
@@ -565,7 +614,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00147">Acore::ChatCommands::PlayerIdentifier::FromSelf()</a>, <a class="el" href="../../#l00826">InstanceScript::GetBossStateName()</a>, <a class="el" href="../../#l00266">InstanceScript::GetEncounterCount()</a>, <a class="el" href="../../#l00658">InstanceMap::GetInstanceScript()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00148">LANG_BAD_VALUE</a>, <a class="el" href="../../#l00042">LANG_CMD_SYNTAX</a>, <a class="el" href="../../#l01117">LANG_COMMAND_INST_SET_BOSS_STATE</a>, <a class="el" href="../../#l01116">LANG_NO_INSTANCE_DATA</a>, <a class="el" href="../../#l01115">LANG_NOT_DUNGEON</a>, <a class="el" href="../../#l00545">LANG_PLAYER_NOT_FOUND</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l00385">InstanceScript::SetBossState()</a>, and <a class="el" href="../../#l00377">Map::ToInstanceMap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -592,23 +641,23 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>    {</div>
-<div class="line"><span class="lineno">  125</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeon = 0, battleground = 0, arena = 0, spectators = 0;</div>
-<div class="line"><span class="lineno">  126</span>        <a class="code hl_define" href="../../da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;GetNumInstances(dungeon, battleground, arena);</div>
-<div class="line"><span class="lineno">  127</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;instances loaded: dungeons ({}), battlegrounds ({}), arenas ({})&quot;</span>, dungeon, battleground, arena);</div>
-<div class="line"><span class="lineno">  128</span>        dungeon = 0;</div>
-<div class="line"><span class="lineno">  129</span>        battleground = 0;</div>
-<div class="line"><span class="lineno">  130</span>        arena = 0;</div>
-<div class="line"><span class="lineno">  131</span>        spectators = 0;</div>
-<div class="line"><span class="lineno">  132</span>        <a class="code hl_define" href="../../da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;GetNumPlayersInInstances(dungeon, battleground, arena, spectators);</div>
-<div class="line"><span class="lineno">  133</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;players in instances: dungeons ({}), battlegrounds ({}), arenas ({} + {} spect)&quot;</span>, dungeon, battleground, arena, spectators);</div>
-<div class="line"><span class="lineno">  134</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  135</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  126</span>    {</div>
+<div class="line"><span class="lineno">  127</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeon = 0, battleground = 0, arena = 0, spectators = 0;</div>
+<div class="line"><span class="lineno">  128</span>        <a class="code hl_define" href="../../da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;GetNumInstances(dungeon, battleground, arena);</div>
+<div class="line"><span class="lineno">  129</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;instances loaded: dungeons ({}), battlegrounds ({}), arenas ({})&quot;</span>, dungeon, battleground, arena);</div>
+<div class="line"><span class="lineno">  130</span>        dungeon = 0;</div>
+<div class="line"><span class="lineno">  131</span>        battleground = 0;</div>
+<div class="line"><span class="lineno">  132</span>        arena = 0;</div>
+<div class="line"><span class="lineno">  133</span>        spectators = 0;</div>
+<div class="line"><span class="lineno">  134</span>        <a class="code hl_define" href="../../da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;GetNumPlayersInInstances(dungeon, battleground, arena, spectators);</div>
+<div class="line"><span class="lineno">  135</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<span class="stringliteral">&quot;players in instances: dungeons ({}), battlegrounds ({}), arenas ({} + {} spect)&quot;</span>, dungeon, battleground, arena, spectators);</div>
+<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  137</span>    }</div>
 <div class="ttc" id="aMapMgr_8h_html_a9132749f8376c48b0ca7212eb3293905"><div class="ttname"><a href="../../da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a></div><div class="ttdeci">#define sMapMgr</div><div class="ttdef"><b>Definition</b> MapMgr.h:220</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, and <a class="el" href="../../#l00220">sMapMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -651,46 +700,46 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
-<div class="line"><span class="lineno">   83</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a">getSelectedPlayer</a>();</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">   85</span>            player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> counter = 0;</div>
-<div class="line"><span class="lineno">   88</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> mapId = 0;</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">if</span> (mapArg.<a class="code hl_function" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a85b3bbe6f4e5440fa26765d822541101">holds_alternative</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;())</div>
-<div class="line"><span class="lineno">   91</span>        {</div>
-<div class="line"><span class="lineno">   92</span>            mapId = mapArg.<a class="code hl_function" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a193636c84817e3ba5d58578127c2e812">get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">if</span> (!mapId)</div>
-<div class="line"><span class="lineno">   94</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   95</span>        }</div>
-<div class="line"><span class="lineno">   96</span> </div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>; ++i)</div>
-<div class="line"><span class="lineno">   98</span>        {</div>
-<div class="line"><span class="lineno">   99</span>            <a class="code hl_typedef" href="../../d4/d57/InstanceSaveMgr_8h.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a> <span class="keyword">const</span>&amp; m_boundInstances = <a class="code hl_define" href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerGetBoundInstances(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i));</div>
-<div class="line"><span class="lineno">  100</span>            <span class="keywordflow">for</span> (BoundInstancesMap::const_iterator itr = m_boundInstances.begin(); itr != m_boundInstances.end();)</div>
-<div class="line"><span class="lineno">  101</span>            {</div>
-<div class="line"><span class="lineno">  102</span>                <a class="code hl_class" href="../../d7/d91/classInstanceSave.html">InstanceSave</a> <span class="keyword">const</span>* save = itr-&gt;second.save;</div>
-<div class="line"><span class="lineno">  103</span>                <span class="keywordflow">if</span> (itr-&gt;first != player-&gt;<a class="code hl_function" href="../../de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>() &amp;&amp; (!mapId || mapId == itr-&gt;first) &amp;&amp; (!difficultyArg || difficultyArg == save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>()))</div>
-<div class="line"><span class="lineno">  104</span>                {</div>
-<div class="line"><span class="lineno">  105</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> resetTime = itr-&gt;second.extended ? save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a>() : save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
-<div class="line"><span class="lineno">  106</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ttr = (resetTime &gt;= <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() ? resetTime - <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() : 0);</div>
-<div class="line"><span class="lineno">  107</span>                    std::string timeleft = <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(ttr);</div>
-<div class="line"><span class="lineno">  108</span>                    handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;unbinding map: {}, inst: {}, perm: {}, diff: {}, canReset: {}, TTR: {}{}&quot;</span>, itr-&gt;first, save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a>(), itr-&gt;second.perm ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, save-&gt;GetDifficulty(), save-&gt;CanReset() ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, timeleft, (itr-&gt;second.extended ? <span class="stringliteral">&quot; (extended)&quot;</span> : <span class="stringliteral">&quot;&quot;</span>));</div>
-<div class="line"><span class="lineno">  109</span>                    <a class="code hl_define" href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerUnbindInstance(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), itr-&gt;first, <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i), <span class="keyword">true</span>, player);</div>
-<div class="line"><span class="lineno">  110</span>                    itr = m_boundInstances.begin();</div>
-<div class="line"><span class="lineno">  111</span>                    counter++;</div>
-<div class="line"><span class="lineno">  112</span>                }</div>
-<div class="line"><span class="lineno">  113</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  114</span>                    ++itr;</div>
-<div class="line"><span class="lineno">  115</span>            }</div>
-<div class="line"><span class="lineno">  116</span>        }</div>
-<div class="line"><span class="lineno">  117</span> </div>
-<div class="line"><span class="lineno">  118</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;instances unbound: {}&quot;</span>, counter);</div>
+<div class="fragment"><div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#ad948d4d7a2fe777df9d02f40201bcf4a">getSelectedPlayer</a>();</div>
+<div class="line"><span class="lineno">   86</span>        <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   87</span>            player = handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a635eca3065c9464e0cdcedd9f0740daa">GetSession</a>()-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> counter = 0;</div>
+<div class="line"><span class="lineno">   90</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> mapId = 0;</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">if</span> (mapArg.<a class="code hl_function" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a85b3bbe6f4e5440fa26765d822541101">holds_alternative</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;())</div>
+<div class="line"><span class="lineno">   93</span>        {</div>
+<div class="line"><span class="lineno">   94</span>            mapId = mapArg.<a class="code hl_function" href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a193636c84817e3ba5d58578127c2e812">get</a>&lt;<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
+<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (!mapId)</div>
+<div class="line"><span class="lineno">   96</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   97</span>        }</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dd1/DBCEnums_8h.html#a4b8f96edf5459f120db77f80275dfe5c">MAX_DIFFICULTY</a>; ++i)</div>
+<div class="line"><span class="lineno">  100</span>        {</div>
+<div class="line"><span class="lineno">  101</span>            <a class="code hl_typedef" href="../../d4/d57/InstanceSaveMgr_8h.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a> <span class="keyword">const</span>&amp; m_boundInstances = <a class="code hl_define" href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerGetBoundInstances(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i));</div>
+<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">for</span> (BoundInstancesMap::const_iterator itr = m_boundInstances.begin(); itr != m_boundInstances.end();)</div>
+<div class="line"><span class="lineno">  103</span>            {</div>
+<div class="line"><span class="lineno">  104</span>                <a class="code hl_class" href="../../d7/d91/classInstanceSave.html">InstanceSave</a> <span class="keyword">const</span>* save = itr-&gt;second.save;</div>
+<div class="line"><span class="lineno">  105</span>                <span class="keywordflow">if</span> (itr-&gt;first != player-&gt;<a class="code hl_function" href="../../de/df5/classWorldLocation.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>() &amp;&amp; (!mapId || mapId == itr-&gt;first) &amp;&amp; (!difficultyArg || difficultyArg == save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a94577295c43dc90262381beff84f5f91">GetDifficulty</a>()))</div>
+<div class="line"><span class="lineno">  106</span>                {</div>
+<div class="line"><span class="lineno">  107</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> resetTime = itr-&gt;second.extended ? save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a2da6c5ed63b57f6449de44461c05582b">GetExtendedResetTime</a>() : save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#af5f5969ae2d4730af0c9ad7ea7f5a8ac">GetResetTime</a>();</div>
+<div class="line"><span class="lineno">  108</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ttr = (resetTime &gt;= <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() ? resetTime - <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() : 0);</div>
+<div class="line"><span class="lineno">  109</span>                    std::string timeleft = <a class="code hl_function" href="../../d9/da5/Util_8cpp.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(ttr);</div>
+<div class="line"><span class="lineno">  110</span>                    handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;unbinding map: {}, inst: {}, perm: {}, diff: {}, canReset: {}, TTR: {}{}&quot;</span>, itr-&gt;first, save-&gt;<a class="code hl_function" href="../../d7/d91/classInstanceSave.html#a7def734d9c4698457fa4f631e30fa9db">GetInstanceId</a>(), itr-&gt;second.perm ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, save-&gt;GetDifficulty(), save-&gt;CanReset() ? <span class="stringliteral">&quot;yes&quot;</span> : <span class="stringliteral">&quot;no&quot;</span>, timeleft, (itr-&gt;second.extended ? <span class="stringliteral">&quot; (extended)&quot;</span> : <span class="stringliteral">&quot;&quot;</span>));</div>
+<div class="line"><span class="lineno">  111</span>                    <a class="code hl_define" href="../../d4/d57/InstanceSaveMgr_8h.html#ae1d3c96dbd749e40f06799fa52eeb9a2">sInstanceSaveMgr</a>-&gt;PlayerUnbindInstance(player-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>(), itr-&gt;first, <a class="code hl_enumeration" href="../../d3/dd1/DBCEnums_8h.html#a39d5903d54e674f4f2e824581ade546b">Difficulty</a>(i), <span class="keyword">true</span>, player);</div>
+<div class="line"><span class="lineno">  112</span>                    itr = m_boundInstances.begin();</div>
+<div class="line"><span class="lineno">  113</span>                    counter++;</div>
+<div class="line"><span class="lineno">  114</span>                }</div>
+<div class="line"><span class="lineno">  115</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  116</span>                    ++itr;</div>
+<div class="line"><span class="lineno">  117</span>            }</div>
+<div class="line"><span class="lineno">  118</span>        }</div>
 <div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  121</span>    }</div>
+<div class="line"><span class="lineno">  120</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;instances unbound: {}&quot;</span>, counter);</div>
+<div class="line"><span class="lineno">  121</span> </div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
 <div class="ttc" id="aInstanceSaveMgr_8h_html_aaa779bf09b703eb355cb51ac3481a19e"><div class="ttname"><a href="../../d4/d57/InstanceSaveMgr_8h.html#aaa779bf09b703eb355cb51ac3481a19e">BoundInstancesMap</a></div><div class="ttdeci">std::unordered_map&lt; uint32, InstancePlayerBind &gt; BoundInstancesMap</div><div class="ttdef"><b>Definition</b> InstanceSaveMgr.h:46</div></div>
 <div class="ttc" id="aclassInstanceSave_html_a94577295c43dc90262381beff84f5f91"><div class="ttname"><a href="../../d7/d91/classInstanceSave.html#a94577295c43dc90262381beff84f5f91">InstanceSave::GetDifficulty</a></div><div class="ttdeci">Difficulty GetDifficulty() const</div><div class="ttdef"><b>Definition</b> InstanceSaveMgr.h:63</div></div>
@@ -699,9 +748,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="astructAcore_1_1ChatCommands_1_1Variant_html_a193636c84817e3ba5d58578127c2e812"><div class="ttname"><a href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a193636c84817e3ba5d58578127c2e812">Acore::ChatCommands::Variant::get</a></div><div class="ttdeci">constexpr decltype(auto) get()</div><div class="ttdef"><b>Definition</b> ChatCommandTags.h:284</div></div>
 <div class="ttc" id="astructAcore_1_1ChatCommands_1_1Variant_html_a85b3bbe6f4e5440fa26765d822541101"><div class="ttname"><a href="../../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a85b3bbe6f4e5440fa26765d822541101">Acore::ChatCommands::Variant::holds_alternative</a></div><div class="ttdeci">constexpr bool holds_alternative() const</div><div class="ttdef"><b>Definition</b> ChatCommandTags.h:298</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00081">InstanceSave::CanReset()</a>, <a class="el" href="../../#l00063">InstanceSave::GetDifficulty()</a>, <a class="el" href="../../#l00076">InstanceSave::GetExtendedResetTime()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00061">InstanceSave::GetInstanceId()</a>, <a class="el" href="../../#l00281">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l00435">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00075">InstanceSave::GetResetTime()</a>, <a class="el" href="../../#l00374">ChatHandler::getSelectedPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00283">MAX_DIFFICULTY</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00073">secsToTimeString()</a>, and <a class="el" href="../../#l00202">sInstanceSaveMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">InstanceSave::CanReset()</a>, <a class="el" href="../../#l00063">InstanceSave::GetDifficulty()</a>, <a class="el" href="../../#l00076">InstanceSave::GetExtendedResetTime()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00061">InstanceSave::GetInstanceId()</a>, <a class="el" href="../../#l00281">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l00443">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00075">InstanceSave::GetResetTime()</a>, <a class="el" href="../../#l00374">ChatHandler::getSelectedPlayer()</a>, <a class="el" href="../../#l00242">ChatHandler::GetSession()</a>, <a class="el" href="../../#l00283">MAX_DIFFICULTY</a>, <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00073">secsToTimeString()</a>, and <a class="el" href="../../#l00202">sInstanceSaveMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">GetCommands()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">GetCommands()</a>.</p>
 
 </div>
 </div>
@@ -714,7 +763,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dba/classinstance__commandscript.html">instance_commandscript</a></li>
-    <li class="footer">Generated on Fri Feb 13 2026 06:55:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 14 2026 06:40:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

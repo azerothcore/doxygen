@@ -314,26 +314,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2372</span>    {</div>
-<div class="line"><span class="lineno"> 2373</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 2374</span>        <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660">IsVehicle</a>())</div>
-<div class="line"><span class="lineno"> 2375</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* passenger = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>()-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">GetPassenger</a>(1))</div>
-<div class="line"><span class="lineno"> 2376</span>            {</div>
-<div class="line"><span class="lineno"> 2377</span>                passenger-&gt;ExitVehicle();</div>
-<div class="line"><span class="lineno"> 2378</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(passenger, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8">SPELL_VARGUL_EXPLOSION</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2379</span>            }</div>
-<div class="line"><span class="lineno"> 2380</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2373</span>    {</div>
+<div class="line"><span class="lineno"> 2374</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 2375</span>        <span class="keywordflow">if</span> (caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660">IsVehicle</a>())</div>
+<div class="line"><span class="lineno"> 2376</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* passenger = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>()-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">GetPassenger</a>(1))</div>
+<div class="line"><span class="lineno"> 2377</span>            {</div>
+<div class="line"><span class="lineno"> 2378</span>                passenger-&gt;ExitVehicle();</div>
+<div class="line"><span class="lineno"> 2379</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(passenger, <a class="code hl_enumvalue" href="../../db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8">SPELL_VARGUL_EXPLOSION</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2380</span>            }</div>
+<div class="line"><span class="lineno"> 2381</span>    }</div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
 <div class="ttc" id="aclassUnit_html_a0414b693087d7f3acc4a13eadb619660"><div class="ttname"><a href="../../df/dd9/classUnit.html#a0414b693087d7f3acc4a13eadb619660">Unit::IsVehicle</a></div><div class="ttdeci">bool IsVehicle() const</div><div class="ttdef"><b>Definition</b> Unit.h:790</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="aclassUnit_html_ae54fce65a1c084c982043777288895ec"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">Unit::GetVehicleKit</a></div><div class="ttdeci">Vehicle * GetVehicleKit() const</div><div class="ttdef"><b>Definition</b> Unit.h:1904</div></div>
 <div class="ttc" id="aclassVehicle_html_a250a3ae75407ecbf79d3235a9c56679f"><div class="ttname"><a href="../../dc/d23/classVehicle.html#a250a3ae75407ecbf79d3235a9c56679f">Vehicle::GetPassenger</a></div><div class="ttdeci">Unit * GetPassenger(int8 seatId) const</div><div class="ttdef"><b>Definition</b> Vehicle.cpp:229</div></div>
-<div class="ttc" id="aspell__quest_8cpp_html_a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8">SPELL_VARGUL_EXPLOSION</a></div><div class="ttdeci">@ SPELL_VARGUL_EXPLOSION</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2364</div></div>
+<div class="ttc" id="aspell__quest_8cpp_html_a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8"><div class="ttname"><a href="../../db/dfb/spell__quest_8cpp.html#a6752d00bd2ac4a9905299d952042c690a9b11f4ed504b7b46ca98cb836d5b6dd8">SPELL_VARGUL_EXPLOSION</a></div><div class="ttdeci">@ SPELL_VARGUL_EXPLOSION</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2365</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00229">Vehicle::GetPassenger()</a>, <a class="el" href="../../#l01904">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00790">Unit::IsVehicle()</a>, and <a class="el" href="../../#l02364">SPELL_VARGUL_EXPLOSION</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00229">Vehicle::GetPassenger()</a>, <a class="el" href="../../#l01904">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00790">Unit::IsVehicle()</a>, and <a class="el" href="../../#l02365">SPELL_VARGUL_EXPLOSION</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02382">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02383">Register()</a>.</p>
 
 </div>
 </div>
@@ -387,16 +387,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2383</span>    {</div>
-<div class="line"><span class="lineno"> 2384</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291">spell_q12919_gymers_throw::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno"> 2385</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2384</span>    {</div>
+<div class="line"><span class="lineno"> 2385</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291">spell_q12919_gymers_throw::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno"> 2386</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a></div><div class="ttdeci">@ SPELL_EFFECT_SCRIPT_EFFECT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:866</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__q12919__gymers__throw_html_acde0ae837d0cd3af0f38481027200291"><div class="ttname"><a href="../../dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291">spell_q12919_gymers_throw::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2371</div></div>
+<div class="ttc" id="aclassspell__q12919__gymers__throw_html_acde0ae837d0cd3af0f38481027200291"><div class="ttname"><a href="../../dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291">spell_q12919_gymers_throw::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_quest.cpp:2372</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02371">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02372">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -409,7 +409,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/df6/classspell__q12919__gymers__throw.html">spell_q12919_gymers_throw</a></li>
-    <li class="footer">Generated on Fri Feb 13 2026 06:56:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 14 2026 06:40:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
