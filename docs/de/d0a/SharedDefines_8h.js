@@ -3406,6 +3406,7 @@ var SharedDefines_8h =
       [ "TRADE_STATUS_NO_TARGET", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a7def91117fcef85dba7f018b7fcdea49", null ],
       [ "TRADE_STATUS_BACK_TO_TRADE", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881", null ],
       [ "TRADE_STATUS_TRADE_COMPLETE", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a1fb6b87ffdd34a81deb40c3a5740fc94", null ],
+      [ "TRADE_STATUS_TRADE_REJECTED", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0ad5c6a5b76de85249068e9b2dae2969a8", null ],
       [ "TRADE_STATUS_TARGET_TO_FAR", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0ad696db43feb1d74ceadb18dc231f733a", null ],
       [ "TRADE_STATUS_WRONG_FACTION", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0af22c908eb97ad89e09316fbc439754f6", null ],
       [ "TRADE_STATUS_CLOSE_WINDOW", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0afe58155fb5030d74225cf275b7e27c6c", null ],
@@ -3417,8 +3418,8 @@ var SharedDefines_8h =
       [ "TRADE_STATUS_YOU_LOGOUT", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a455d338395e313eeebfa95cadf86b5c6", null ],
       [ "TRADE_STATUS_TARGET_LOGOUT", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0aab8c47362ff8e65f4d23ba8a0bfe2b40", null ],
       [ "TRADE_STATUS_TRIAL_ACCOUNT", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a8e35a1abafd96036e35aea8560b8f344", null ],
-      [ "TRADE_STATUS_ONLY_CONJURED", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0ac3af77312dcf17d3839b8d1614cdfed9", null ],
-      [ "TRADE_STATUS_NOT_ELIGIBLE", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0aedcd02da2ddb8a492fde58f26ce7e971", null ]
+      [ "TRADE_STATUS_WRONG_REALM", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a6e7c98c523d286503e0130e2f11ab0e5", null ],
+      [ "TRADE_STATUS_NOT_ON_TAPLIST", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a23f855ef3a6842510d0e85b20bdd3069", null ]
     ] ],
     [ "UnitClass", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513", [
       [ "UNIT_CLASS_WARRIOR", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513a82ee56c66d74c68ef6c9c7d4e493f264", null ],

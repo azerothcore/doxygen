@@ -1,5 +1,13 @@
 var NAVTREEINDEX240 =
 {
+"d9/d86/structnpc__anub__ar__crusher.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2":[6,0,1599,1],
+"d9/d86/structnpc__anub__ar__crusher.html#a66dc8cb3dc096dc0aa5b464879773df7":[6,0,1599,4],
+"d9/d86/structnpc__anub__ar__crusher.html#a70238afe4b9ae58b99067581db6734c8":[6,0,1599,2],
+"d9/d86/structnpc__anub__ar__crusher.html#ac20630563a1869f56f538968cb8bb1ea":[6,0,1599,3],
+"d9/d88/boss__assembly__of__iron_8cpp.html":[7,0,0,0,1,3,5,9,2,1],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee":[7,0,0,0,1,3,5,9,2,1,19],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165":[7,0,0,0,1,3,5,9,2,1,16],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a009ff3dd3a834eca415ba266c513203f":[7,0,0,0,1,3,5,9,2,1,16,8],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a0ca75d3d28cc8715d58618900624c42c":[7,0,0,0,1,3,5,9,2,1,16,7],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,9,2,1,16,15],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165a64c1fb1d0c8db3c5308fc59434f1aa6f":[7,0,0,0,1,3,5,9,2,1,16,4],
@@ -241,13 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d92/Metric_8h.html#ad57573999508dbc7a2c953379996b542":[7,0,0,0,0,10,1,8],
 "d9/d92/Metric_8h.html#ad81585df46d4cee988a1222012dbabf1":[7,0,0,0,0,10,1,3],
 "d9/d92/Metric_8h.html#ad88ae7d281622a32a700443aa3dc51f9":[7,0,0,0,0,10,1,10],
-"d9/d92/Metric_8h.html#adf91483a75eca0531263536ce38d9339":[7,0,0,0,0,10,1,11],
-"d9/d92/VehicleScript_8cpp.html":[7,0,0,0,1,2,38,0,86],
-"d9/d92/VehicleScript_8cpp.html#af505a519aaa0d7e6070eb203075ff98d":[7,0,0,0,1,2,38,0,86,0],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html":[6,0,3837],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html#a3711004edaef7242d9cae1f23f9b7467":[6,0,3837,1],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html#ad22b433005b2678bde3516a01eaaaa60":[6,0,3837,0],
-"d9/d93/classspell__shadow__sickle__periodic__damage.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef":[6,0,3837,2],
-"d9/d93/structSpellRangeEntry.html":[6,0,4138],
-"d9/d93/structSpellRangeEntry.html#a127a46f2382edea750ca567d5ea3d304":[6,0,4138,3]
+"d9/d92/Metric_8h.html#adf91483a75eca0531263536ce38d9339":[7,0,0,0,0,10,1,11]
 };

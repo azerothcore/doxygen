@@ -1,5 +1,6 @@
 var NAVTREEINDEX59 =
 {
+"d2/d4b/classPlayer.html#a60ef0de3403e8c16c065fe12f5f856e5":[6,0,2398,632],
 "d2/d4b/classPlayer.html#a612488b3e3af2eb3ea83c0507f07dbcf":[6,0,2398,198],
 "d2/d4b/classPlayer.html#a612ee4e2afffb61647cf493eb1008ea6":[6,0,2398,1035],
 "d2/d4b/classPlayer.html#a61324f37e8c33db0832c0aec4a2c41b3":[6,0,2398,907],
@@ -17,6 +18,7 @@ var NAVTREEINDEX59 =
 "d2/d4b/classPlayer.html#a62a08b0de5f32b752ca51d2056848408":[6,0,2398,801],
 "d2/d4b/classPlayer.html#a6307a2b4db34ca2997248becd8c70ec9":[6,0,2398,99],
 "d2/d4b/classPlayer.html#a6313d888ff224476aa988bd1f0f2ea3c":[6,0,2398,434],
+"d2/d4b/classPlayer.html#a632ed94459c48b957e0e371493d2a8a6":[6,0,2398,193],
 "d2/d4b/classPlayer.html#a6350ab29918d53372386041deb808aff":[6,0,2398,1323],
 "d2/d4b/classPlayer.html#a63606244f4daf418acf105e28795a473":[6,0,2398,1272],
 "d2/d4b/classPlayer.html#a638e81826aded9081b9c8665bd9400d6":[6,0,2398,18],
@@ -29,7 +31,6 @@ var NAVTREEINDEX59 =
 "d2/d4b/classPlayer.html#a64cb0d2cd850f9640631100b9ece4d88":[6,0,2398,1308],
 "d2/d4b/classPlayer.html#a64cced6a2ea62ddc91a8fed06a205f27":[6,0,2398,365],
 "d2/d4b/classPlayer.html#a64d7fc1d009a80de3b86e7ad66f5ad3c":[6,0,2398,692],
-"d2/d4b/classPlayer.html#a651466042fa26595ccbb304abf452e6b":[6,0,2398,194],
 "d2/d4b/classPlayer.html#a653f9cc3f9ee814259fcb80dc2efc824":[6,0,2398,688],
 "d2/d4b/classPlayer.html#a65884d27f06428a6f1c731e08e255941":[6,0,2398,950],
 "d2/d4b/classPlayer.html#a65a425689bad4a894a7294eda84ef3ea":[6,0,2398,409],
@@ -141,7 +142,6 @@ var NAVTREEINDEX59 =
 "d2/d4b/classPlayer.html#a77b1513270dddf8cb629ef0a29e0d400":[6,0,2398,464],
 "d2/d4b/classPlayer.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b":[6,0,2398,510],
 "d2/d4b/classPlayer.html#a77fff5c7965fd91c3d6fcfcd1fd80257":[6,0,2398,366],
-"d2/d4b/classPlayer.html#a7828a152b9b032529a69cd4ff5e54f45":[6,0,2398,192],
 "d2/d4b/classPlayer.html#a78498168eaeb91ca88e76f9e38867213":[6,0,2398,415],
 "d2/d4b/classPlayer.html#a787be7f5ba7c026940ecd4879e7cb52d":[6,0,2398,276],
 "d2/d4b/classPlayer.html#a78a69d6b47fd562ac35dafa6dd146324":[6,0,2398,1164],

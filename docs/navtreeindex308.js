@@ -1,5 +1,14 @@
 var NAVTREEINDEX308 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac0e09803bc2df3c1608e09976e0dd666":[7,0,0,0,1,2,26,2,1,2],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac81485d22dff8d6a4ed903b6e4b766e2":[7,0,0,0,1,2,26,2,1,36],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbac9294cb854ac9106f36bc04c1d77fd68":[7,0,0,0,1,2,26,2,1,40],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbacbc066617db6fb2a3c70607d3d9a5c5d":[7,0,0,0,1,2,26,2,1,26],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbad429d04315a23b910d4c062f2b87060d":[7,0,0,0,1,2,26,2,1,39],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbad5b94c4a49469042d4f25603bf8d5afd":[7,0,0,0,1,2,26,2,1,78],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbadcbc428be53d46ad6d3208a0acb91a83":[7,0,0,0,1,2,26,2,1,19],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae0e564693e73323fad6ad4c5500eaafb":[7,0,0,0,1,2,26,2,1,60],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae180979a6923a49cd31fb76e1de5e55b":[7,0,0,0,1,2,26,2,1,69],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae2d94258b386f6a9db97cc035d0eefae":[7,0,0,0,1,2,26,2,1,27],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae3631ecfc1ab6ce423f274722be16158":[7,0,0,0,1,2,26,2,1,33],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cbae4e1f01118fe50a4982396bececfe830":[7,0,0,0,1,2,26,2,1,50],
@@ -240,14 +249,5 @@ var NAVTREEINDEX308 =
 "dc/d51/classgo__ulduar__tower.html#aa72ebefe52d49e5b07fb36232efd7e95":[6,0,1200,1],
 "dc/d51/classgo__ulduar__tower.html#afc1add1a0543921f52afe1eb907f5de3":[6,0,1200,0],
 "dc/d51/classspell__gen__mounted__charge.html":[6,0,2999],
-"dc/d51/classspell__gen__mounted__charge.html#a1f8722308e1a5bef546dcb939d73dca7":[6,0,2999,2],
-"dc/d51/classspell__gen__mounted__charge.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc":[6,0,2999,1],
-"dc/d51/classspell__gen__mounted__charge.html#a2cdda449ab11438347e7dd32fd058e6d":[6,0,2999,3],
-"dc/d51/classspell__gen__mounted__charge.html#ad8d2871e6277dd982653fa864010d084":[6,0,2999,0],
-"dc/d51/model_8h.html":[7,0,0,0,3,4,7],
-"dc/d51/model_8h.html#a8d0afbab5641bb7d88196fbad79e4cf1":[7,0,0,0,3,4,7,3],
-"dc/d51/model_8h.html#aaece844099afc9d83362feb37427d5ae":[7,0,0,0,3,4,7,1],
-"dc/d51/model_8h.html#afd641f15b5ca6e58b68f26ef17a02912":[7,0,0,0,3,4,7,2],
-"dc/d52/classTimedFleeingMovementGenerator.html":[6,0,4201],
-"dc/d52/classTimedFleeingMovementGenerator.html#a1533d13f4e786e498353805a2a2daf85":[6,0,4201,2]
+"dc/d51/classspell__gen__mounted__charge.html#a1f8722308e1a5bef546dcb939d73dca7":[6,0,2999,2]
 };

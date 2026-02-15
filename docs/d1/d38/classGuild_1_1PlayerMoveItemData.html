@@ -282,7 +282,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassGuild_1_1MoveItemData_html_a1914b960d8990c651e46a50951f5ab42"><div class="ttname"><a href="../../db/de2/classGuild_1_1MoveItemData.html#a1914b960d8990c651e46a50951f5ab42">Guild::MoveItemData::m_pPlayer</a></div><div class="ttdeci">Player * m_pPlayer</div><div class="ttdef"><b>Definition</b> Guild.h:628</div></div>
 <div class="ttc" id="aclassGuild_1_1MoveItemData_html_a5b77825a637d5c9476239fc19c12f0cc"><div class="ttname"><a href="../../db/de2/classGuild_1_1MoveItemData.html#a5b77825a637d5c9476239fc19c12f0cc">Guild::MoveItemData::m_slotId</a></div><div class="ttdeci">uint8 m_slotId</div><div class="ttdef"><b>Definition</b> Guild.h:630</div></div>
 <div class="ttc" id="aclassGuild_1_1MoveItemData_html_add3ef514f68db7f0c93e6a07a95b0340"><div class="ttname"><a href="../../db/de2/classGuild_1_1MoveItemData.html#add3ef514f68db7f0c93e6a07a95b0340">Guild::MoveItemData::m_container</a></div><div class="ttdeci">uint8 m_container</div><div class="ttdef"><b>Definition</b> Guild.h:629</div></div>
-<div class="ttc" id="aclassPlayer_html_a3839a0db7911f71e34f92a46a8ceaa6a"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a3839a0db7911f71e34f92a46a8ceaa6a">Player::CanStoreItem</a></div><div class="ttdeci">InventoryResult CanStoreItem(uint8 bag, uint8 slot, ItemPosCountVec &amp;dest, Item *pItem, bool swap=false) const</div><div class="ttdef"><b>Definition</b> Player.h:1286</div></div>
+<div class="ttc" id="aclassPlayer_html_a3839a0db7911f71e34f92a46a8ceaa6a"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a3839a0db7911f71e34f92a46a8ceaa6a">Player::CanStoreItem</a></div><div class="ttdeci">InventoryResult CanStoreItem(uint8 bag, uint8 slot, ItemPosCountVec &amp;dest, Item *pItem, bool swap=false) const</div><div class="ttdef"><b>Definition</b> Player.h:1303</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -335,7 +335,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassItem_html_a40a343721d15fca2bbaa4e980e676fa7"><div class="ttname"><a href="../../d0/dae/classItem.html#a40a343721d15fca2bbaa4e980e676fa7">Item::CanBeTraded</a></div><div class="ttdeci">bool CanBeTraded(bool mail=false, bool trade=false) const</div><div class="ttdef"><b>Definition</b> Item.cpp:794</div></div>
 <div class="ttc" id="aclassItem_html_acc9cc3c689c82f3abacce8ec3c88383a"><div class="ttname"><a href="../../d0/dae/classItem.html#acc9cc3c689c82f3abacce8ec3c88383a">Item::IsNotEmptyBag</a></div><div class="ttdeci">bool IsNotEmptyBag() const</div><div class="ttdef"><b>Definition</b> Item.cpp:311</div></div>
 <div class="ttc" id="aclassPlayer_html_a6e31042962f16c90a443ff772363d22f"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a6e31042962f16c90a443ff772363d22f">Player::GetItemByPos</a></div><div class="ttdeci">Item * GetItemByPos(uint16 pos) const</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:443</div></div>
-<div class="ttc" id="aclassPlayer_html_ade216a89981dfce501f02f38cec9ad3f"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#ade216a89981dfce501f02f38cec9ad3f">Player::SendEquipError</a></div><div class="ttdeci">void SendEquipError(InventoryResult msg, Item *pItem, Item *pItem2=nullptr, uint32 itemid=0)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:4023</div></div>
+<div class="ttc" id="aclassPlayer_html_ade216a89981dfce501f02f38cec9ad3f"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#ade216a89981dfce501f02f38cec9ad3f">Player::SendEquipError</a></div><div class="ttdeci">void SendEquipError(InventoryResult msg, Item *pItem, Item *pItem2=nullptr, uint32 itemid=0)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:4088</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00078">EQUIP_ERR_CAN_ONLY_DO_WITH_EMPTY_BAGS</a>, and <a class="el" href="../../#l00068">EQUIP_ERR_ITEMS_CANT_BE_SWAPPED</a>.</p>
 
@@ -487,8 +487,8 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassItem_html_a02ee6e52edbee35375b164767b94b0c9"><div class="ttname"><a href="../../d0/dae/classItem.html#a02ee6e52edbee35375b164767b94b0c9">Item::SetState</a></div><div class="ttdeci">void SetState(ItemUpdateState state, Player *forplayer=nullptr)</div><div class="ttdef"><b>Definition</b> Item.cpp:714</div></div>
 <div class="ttc" id="aclassItem_html_a500e6939c70c54aea2eda5fd30810e1d"><div class="ttname"><a href="../../d0/dae/classItem.html#a500e6939c70c54aea2eda5fd30810e1d">Item::SetCount</a></div><div class="ttdeci">void SetCount(uint32 value)</div><div class="ttdef"><b>Definition</b> Item.h:273</div></div>
 <div class="ttc" id="aclassItem_html_acfce1d883f464dc73696f17c62d5ba5c"><div class="ttname"><a href="../../d0/dae/classItem.html#acfce1d883f464dc73696f17c62d5ba5c">Item::GetCount</a></div><div class="ttdeci">uint32 GetCount() const</div><div class="ttdef"><b>Definition</b> Item.h:272</div></div>
-<div class="ttc" id="aclassPlayer_html_a3918874df60dd98efbac734da445bbe9"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a3918874df60dd98efbac734da445bbe9">Player::SaveInventoryAndGoldToDB</a></div><div class="ttdeci">void SaveInventoryAndGoldToDB(CharacterDatabaseTransaction trans)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:7125</div></div>
-<div class="ttc" id="aclassPlayer_html_a7bde776a4e665d044083f1a9924ec7f5"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a7bde776a4e665d044083f1a9924ec7f5">Player::MoveItemFromInventory</a></div><div class="ttdeci">void MoveItemFromInventory(uint8 bag, uint8 slot, bool update)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:2979</div></div>
+<div class="ttc" id="aclassPlayer_html_a3918874df60dd98efbac734da445bbe9"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a3918874df60dd98efbac734da445bbe9">Player::SaveInventoryAndGoldToDB</a></div><div class="ttdeci">void SaveInventoryAndGoldToDB(CharacterDatabaseTransaction trans)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:7190</div></div>
+<div class="ttc" id="aclassPlayer_html_a7bde776a4e665d044083f1a9924ec7f5"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a7bde776a4e665d044083f1a9924ec7f5">Player::MoveItemFromInventory</a></div><div class="ttdeci">void MoveItemFromInventory(uint8 bag, uint8 slot, bool update)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:3044</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00210">ITEM_CHANGED</a>.</p>
 
@@ -535,7 +535,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  802</span>    <a class="code hl_variable" href="../../db/de2/classGuild_1_1MoveItemData.html#a1914b960d8990c651e46a50951f5ab42">m_pPlayer</a>-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a3918874df60dd98efbac734da445bbe9">SaveInventoryAndGoldToDB</a>(trans);</div>
 <div class="line"><span class="lineno">  803</span>    <span class="keywordflow">return</span> pItem;</div>
 <div class="line"><span class="lineno">  804</span>}</div>
-<div class="ttc" id="aclassPlayer_html_a8958c44c319200e710b60af00dbd5309"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a8958c44c319200e710b60af00dbd5309">Player::MoveItemToInventory</a></div><div class="ttdeci">void MoveItemToInventory(ItemPosCountVec const &amp;dest, Item *pItem, bool update, bool in_characterInventoryDB=false)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:2999</div></div>
+<div class="ttc" id="aclassPlayer_html_a8958c44c319200e710b60af00dbd5309"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a8958c44c319200e710b60af00dbd5309">Player::MoveItemToInventory</a></div><div class="ttdeci">void MoveItemToInventory(ItemPosCountVec const &amp;dest, Item *pItem, bool update, bool in_characterInventoryDB=false)</div><div class="ttdef"><b>Definition</b> PlayerStorage.cpp:3064</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
@@ -551,7 +551,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d79/classGuild.html">Guild</a></li><li class="navelem"><a class="el" href="../../d1/d38/classGuild_1_1PlayerMoveItemData.html">PlayerMoveItemData</a></li>
-    <li class="footer">Generated on Sat Feb 14 2026 06:40:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 15 2026 06:45:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

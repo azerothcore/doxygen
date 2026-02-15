@@ -1,5 +1,14 @@
 var NAVTREEINDEX319 =
 {
+"dc/ddf/structinstance__the__botanica_1_1instance__the__botanica__InstanceMapScript.html#a86c5e55fe8f7e40d041abbcdb2d23797":[6,0,1347,0,0],
+"dc/de1/SkillDiscovery_8h.html":[7,0,0,0,1,2,40,1],
+"dc/de1/SkillDiscovery_8h.html#a7cdb9e342efe04c1ba8caf202b7b0d96":[7,0,0,0,1,2,40,1,0],
+"dc/de1/SkillDiscovery_8h.html#ab50472e4f1f892eb77ce660ef00d808a":[7,0,0,0,1,2,40,1,1],
+"dc/de1/SkillDiscovery_8h.html#abdf3c2fcf65212466dfb54053e35024c":[7,0,0,0,1,2,40,1,2],
+"dc/de1/SkillDiscovery_8h.html#addd95f0a239a27ed32cd943aa1052019":[7,0,0,0,1,2,40,1,3],
+"dc/de1/instance__sunwell__plateau_8cpp.html":[7,0,0,0,1,3,2,12,6],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a1461582839e3b7fdbb7397e5d2086e31":[7,0,0,0,1,3,2,12,6,14],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216":[7,0,0,0,1,3,2,12,6,10],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368":[7,0,0,0,1,3,2,12,6,10,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b":[7,0,0,0,1,3,2,12,6,10,0],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e":[7,0,0,0,1,3,2,12,6,10,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX319 =
 "dc/def/structboss__mechano__lord__capacitus.html#a6a408c654f91a44a40b3df52c0f2b093":[6,0,619,4],
 "dc/def/structboss__mechano__lord__capacitus.html#a9a0b2cac08002db63162f95b9476c251":[6,0,619,3],
 "dc/def/structboss__mechano__lord__capacitus.html#ab5867184d4e50a89a1afe25eb40e6bc3":[6,0,619,0],
-"dc/df0/DBUpdater_8h.html":[7,0,0,0,1,1,3,1],
-"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010":[7,0,0,0,1,1,3,1,3],
-"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c":[7,0,0,0,1,1,3,1,3,1],
-"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550":[7,0,0,0,1,1,3,1,3,0],
-"dc/df0/classgo__broggok__lever.html":[6,0,1130],
-"dc/df0/classgo__broggok__lever.html#af00fe1da1cfa40dc3ece286cef45090c":[6,0,1130,1],
-"dc/df0/classgo__broggok__lever.html#af91c2e283c357d2f38c9932dcfb5c375":[6,0,1130,0],
-"dc/df0/classnpc__hourglass__of__eternity.html":[6,0,1857],
-"dc/df0/classnpc__hourglass__of__eternity.html#a40500ff582ead06bd646be86baad7d35":[6,0,1857,1],
-"dc/df0/classnpc__hourglass__of__eternity.html#a6cdec424e78e5c9decac73d091eec0ed":[6,0,1857,2]
+"dc/df0/DBUpdater_8h.html":[7,0,0,0,1,1,3,1]
 };

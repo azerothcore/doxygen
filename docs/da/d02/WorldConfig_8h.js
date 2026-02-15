@@ -417,6 +417,7 @@ var WorldConfig_8h =
       [ "RATE_XP_EXPLORE", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aafa64bca865c5a7455efe509b462a4ba", null ],
       [ "RATE_XP_PET", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8e341e176fae39ba9231664c453da2c3", null ],
       [ "RATE_XP_PET_NEXT_LEVEL", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a3abf2ff4272c8c74da449def1d014330", null ],
+      [ "RATE_XP_BATTLEGROUND_BONUS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aea301d201928f9d8661593b98827a33b", null ],
       [ "RATE_REPAIRCOST", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8026f380e8e26de1b610125ab35b9274", null ],
       [ "RATE_REPUTATION_GAIN", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab9489897fbe12ae9d2de3df9f35600bc", null ],
       [ "RATE_REPUTATION_GAIN_AB", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a355f695d32508c57cd1b5b749cbac4ff", null ],

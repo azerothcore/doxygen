@@ -138,6 +138,7 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a4b55b85a0c0a94c13e155c7031388757":[6,0,2398,336],
 "d2/d4b/classPlayer.html#a4b5fb0c28f4606ffc9baecfcf56fd99e":[6,0,2398,711],
 "d2/d4b/classPlayer.html#a4b8c18a582b0aab0f3dee61d76ec93a6":[6,0,2398,1331],
+"d2/d4b/classPlayer.html#a4b922bbf09596504fd38ed28b4817549":[6,0,2398,194],
 "d2/d4b/classPlayer.html#a4bc8665dc3afe7c44a1239affb32d733":[6,0,2398,1013],
 "d2/d4b/classPlayer.html#a4bd2ef6449b53c3fcaedd2ae36e273d9":[6,0,2398,784],
 "d2/d4b/classPlayer.html#a4c174e400f1b0df0ec02141d92ab87b2":[6,0,2398,1031],
@@ -191,7 +192,6 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a554e4c0f293d6f998123d9eb4fe65455":[6,0,2398,1286],
 "d2/d4b/classPlayer.html#a558ae516e2abd8e8be169518d7209053":[6,0,2398,844],
 "d2/d4b/classPlayer.html#a55becb15b9092c45f5b3b5f3d51a93d9":[6,0,2398,41],
-"d2/d4b/classPlayer.html#a55cddfb17ad3b149ea6ecf7885391ea9":[6,0,2398,193],
 "d2/d4b/classPlayer.html#a55cde7f707f8023d11569110f7214cec":[6,0,2398,238],
 "d2/d4b/classPlayer.html#a55d711cea5529c4e1cbaa575e2327468":[6,0,2398,117],
 "d2/d4b/classPlayer.html#a561292db1465ce3928026072248c66b2":[6,0,2398,1126],
@@ -217,6 +217,7 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a583d3a68188487a3952dc9e6bd1a1c76":[6,0,2398,1104],
 "d2/d4b/classPlayer.html#a58ab3f5b925bec79191cd2fa9b7d87b7":[6,0,2398,1146],
 "d2/d4b/classPlayer.html#a5924f9a233dfe41fff06a551d2ddc6a1":[6,0,2398,982],
+"d2/d4b/classPlayer.html#a59b45ae28e4db391dfa4e098dc9bc54f":[6,0,2398,190],
 "d2/d4b/classPlayer.html#a5a906b47d9f44df0e76333baa3e3773b":[6,0,2398,742],
 "d2/d4b/classPlayer.html#a5aa219a691b0c5212fda9de12dfd72e9":[6,0,2398,360],
 "d2/d4b/classPlayer.html#a5ab69416a77feef3e0e4061b18d4c1e7":[6,0,2398,1258],
@@ -248,6 +249,5 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a6036c04f557dab9d815456caab614c0f":[6,0,2398,978],
 "d2/d4b/classPlayer.html#a609ea07b445c00d51289c4d911bb1315":[6,0,2398,757],
 "d2/d4b/classPlayer.html#a60c16e65f7375a886b133d5e8738c798":[6,0,2398,563],
-"d2/d4b/classPlayer.html#a60c3b305f3e502c12c0207baa3545d79":[6,0,2398,1121],
-"d2/d4b/classPlayer.html#a60ef0de3403e8c16c065fe12f5f856e5":[6,0,2398,632]
+"d2/d4b/classPlayer.html#a60c3b305f3e502c12c0207baa3545d79":[6,0,2398,1121]
 };

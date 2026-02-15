@@ -1,5 +1,13 @@
 var NAVTREEINDEX208 =
 {
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7914b3a07153a9c06a9475030f9e12c2":[7,0,0,0,1,2,16,10,6,5,23],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7958764283985359d7e0560dae79920c":[7,0,0,0,1,2,16,10,6,5,12],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0":[7,0,0,0,1,2,16,10,6,5,1],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d75bb1546efb3a78c8ca3798667e2ef":[7,0,0,0,1,2,16,10,6,5,0],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a8934e8d4b86f03e5d578b153eeb63758":[7,0,0,0,1,2,16,10,6,5,21],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a96718491f9fa88e0a6cb75b9580a69e5":[7,0,0,0,1,2,16,10,6,5,10],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d":[7,0,0,0,1,2,16,10,6,5,2],
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab04ef9ae98b1939d4cb013d00ef53e2b":[7,0,0,0,1,2,16,10,6,5,17],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab12179bddd93a8ab4889165d2be55c8e":[7,0,0,0,1,2,16,10,6,5,25],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab334d1a544fae7ce011af12033dd5f29":[7,0,0,0,1,2,16,10,6,5,3],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab938c27bd379d5b5682b21a2c0b38477":[7,0,0,0,1,2,16,10,6,5,28],
@@ -241,13 +249,5 @@ var NAVTREEINDEX208 =
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[5,0,1,57,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#abc72e56d9453d798fcb457aff023d3ac":[6,0,0,45,3],
 "d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[6,0,0,45,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,1,57,0],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[5,0,1,57,4],
-"d7/df9/structAcore_1_1CreatureSearcher.html#af31c7a1cf3f03a42d7fe66836e306b85":[6,0,0,45,4],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html":[7,0,0,0,1,3,7,2,0,5],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a3450ff3a63b060754f2b4768b4815c18":[7,0,0,0,1,3,7,2,0,5,7],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,7,2,0,5,4],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,2,0,5,4,4],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a41a52fd6f17cc3f3f1fda66dd75d6c56":[7,0,0,0,1,3,7,2,0,5,4,6],
-"d7/dfa/boss__morogrim__tidewalker_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,0,5,4,0]
+"d7/df9/structAcore_1_1CreatureSearcher.html#ac6fc899c41c2a93f530fa53c693f0df8":[5,0,1,57,0]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX281 =
 {
+"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6fa85394ea79b6ba06f017c383da62e8de4":[7,0,0,0,1,3,9,4,149,1],
+"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6faa48b0e14df013eb522459c6a2616cb0b":[7,0,0,0,1,3,9,4,149,0],
+"db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074b":[7,0,0,0,1,3,9,4,192],
+"db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba1bfca19cca9412f329c19d32c7a8b808":[7,0,0,0,1,3,9,4,192,1],
+"db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba379c828f0d14e79ad4a6297247e4e957":[7,0,0,0,1,3,9,4,192,0],
+"db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba5343ed0541ecc29fe0f5dabcdeacb2af":[7,0,0,0,1,3,9,4,192,2],
+"db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba8c23e681eb815adb401547c74a3544a5":[7,0,0,0,1,3,9,4,192,3],
+"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0":[7,0,0,0,1,3,9,4,172],
+"db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0a8f79fe2abb6aa520aa6b9f26e555b051":[7,0,0,0,1,3,9,4,172,2],
 "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0aebaed561887d24beda0d2b5a03b4b2b9":[7,0,0,0,1,3,9,4,172,1],
 "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0af2013a66c33c8ca2754d0258dc317d38":[7,0,0,0,1,3,9,4,172,0],
 "db/d6e/spell__item_8cpp.html#a3601720b3378400c9374883aaa09018b":[7,0,0,0,1,3,9,4,170],
@@ -240,14 +249,5 @@ var NAVTREEINDEX281 =
 "db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66ea4e1954a9154f8fdb8d0367d1dd0422c7":[7,0,0,0,1,3,9,4,126,0],
 "db/d6f/classnpc__mature__netherwing__drake.html":[6,0,1955],
 "db/d6f/classnpc__mature__netherwing__drake.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5":[6,0,1955,1],
-"db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1955,2],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html":[6,0,2520,0],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html#a0693df9090f40b7b1b8dba0003b6092e":[6,0,2520,0,1],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html#ab52fa79b07a9fad5b0cf8a28669a94eb":[6,0,2520,0,0],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html#ad035d67dce95aa1ad7a1f39b1cf7b847":[6,0,2520,0,3],
-"db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2520,0,2],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0]
+"db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1955,2]
 };

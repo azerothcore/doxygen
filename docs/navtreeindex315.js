@@ -1,5 +1,14 @@
 var NAVTREEINDEX315 =
 {
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa58b6e103af0376dcc7a3cfa06057f4c9":[7,0,0,0,1,2,41,11,71,4],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa70615c96fc6a9b58230f57a3de92ebdb":[7,0,0,0,1,2,41,11,71,10],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fa73ad5947d65fd1d430e999de97221744":[7,0,0,0,1,2,41,11,71,1],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fab3d8974f84ad4ecf86404cae1bf61024":[7,0,0,0,1,2,41,11,71,5],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fab8aade3a3668f67ef35515fd71d5d2c8":[7,0,0,0,1,2,41,11,71,11],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860facf37b9c7baf4ab04275776bffe085399":[7,0,0,0,1,2,41,11,71,9],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fad5c7af45fe4960a23200d52bfb5ad241":[7,0,0,0,1,2,41,11,71,8],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fae0d7d51c9d7459f34b9132554d87e33c":[7,0,0,0,1,2,41,11,71,3],
+"dc/db2/SpellScript_8h.html#aa99392f191e38f2fafd72f7def07860fae5262614edabcbf24c1fec8e4b5651b9":[7,0,0,0,1,2,41,11,71,12],
 "dc/db2/SpellScript_8h.html#aa9ce4c0ac71f3efe6030048f5f3ed594":[7,0,0,0,1,2,41,11,55],
 "dc/db2/SpellScript_8h.html#ab24744c26952374d9a93b53f91de4fb7":[7,0,0,0,1,2,41,11,52],
 "dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a":[7,0,0,0,1,2,41,11,36],
@@ -240,14 +249,5 @@ var NAVTREEINDEX315 =
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a228f6168e5273bdb4cb9e26374a6d850":[7,0,0,0,1,3,2,16,7,10,3],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4e49fde4fe8ce8fa992cf9a3a4584afc":[7,0,0,0,1,3,2,16,7,10,5],
 "dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a5abf9403279a2961beeb36281ce89b87":[7,0,0,0,1,3,2,16,7,10,7],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a70097f12041f9083d3dcae31c69f6d1d":[7,0,0,0,1,3,2,16,7,10,1],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7910cd0b9f1f060a6d618a638bd4716e":[7,0,0,0,1,3,2,16,7,10,9],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a963a4bedbec5664f3c83e0b595e02321":[7,0,0,0,1,3,2,16,7,10,8],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa45497e2846cac0dd92686d1cda75c7f":[7,0,0,0,1,3,2,16,7,10,2],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abf89189f6ed940841095bca37e066ee0":[7,0,0,0,1,3,2,16,7,10,0],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a":[7,0,0,0,1,3,2,16,7,10,10],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adbcdc7932b4e3141c4e5fb1a807bc236":[7,0,0,0,1,3,2,16,7,10,4],
-"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae23fc4981b044e0c1934de2157bd5ca1":[7,0,0,0,1,3,2,16,7,10,6],
-"dc/dbc/boss__mandokir_8cpp.html#aff420b042588a02e45a53a11f637807f":[7,0,0,0,1,3,2,16,7,16],
-"dc/dbd/classinstance__scarlet__monastery.html":[6,0,1334]
+"dc/dbc/boss__mandokir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a70097f12041f9083d3dcae31c69f6d1d":[7,0,0,0,1,3,2,16,7,10,1]
 };

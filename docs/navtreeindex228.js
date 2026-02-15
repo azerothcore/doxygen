@@ -1,5 +1,13 @@
 var NAVTREEINDEX228 =
 {
+"d8/de9/classnpc__azure__captain.html#aeced2dbbfb23c161fd2bbc22859886a4":[6,0,1631,1],
+"d8/dea/boss__fankriss_8cpp.html":[7,0,0,0,1,3,4,9,2],
+"d8/dea/boss__fankriss_8cpp.html#a176383498f6bddbc2f779253f716da68":[7,0,0,0,1,3,4,9,2,5],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,2,1],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a53f29498611380176725155a3c125aa5":[7,0,0,0,1,3,4,9,2,1,0],
+"d8/dea/boss__fankriss_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a94fb56eafc6cf28b54d7d1796d52ef31":[7,0,0,0,1,3,4,9,2,1,1],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,2,2],
+"d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f02be4390ec75af1bf63256f01b6536":[7,0,0,0,1,3,4,9,2,2,3],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca3a033bbc8d70ab488a51112be5178ecc":[7,0,0,0,1,3,4,9,2,2,1],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298ca83a712e11117a952e2d16997380e14e7":[7,0,0,0,1,3,4,9,2,2,2],
 "d8/dea/boss__fankriss_8cpp.html#a5bd342133be8c2137b831460acc9298cab216c92590db1c7244215cb6fdbaa734":[7,0,0,0,1,3,4,9,2,2,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX228 =
 "d8/df8/classAuthSession.html#adb41530c1ae128b88b873e77c6d6d653":[6,0,298,24],
 "d8/df8/classAuthSession.html#ae4d2a496f4709fd0f6f2fe6a5928e130":[6,0,298,21],
 "d8/df8/classAuthSession.html#ae577d9cc22534d7fb7843758dedb7c8c":[6,0,298,19],
-"d8/df8/structABNodeInfo.html":[6,0,20],
-"d8/df8/structABNodeInfo.html#a00cea010cfe6fb9702e5cb00003e5bef":[6,0,20,7],
-"d8/df8/structABNodeInfo.html#a039c468fa0b6110809f0617496c0146c":[6,0,20,0],
-"d8/df8/structABNodeInfo.html#a0671602a29f33e353a8a339540beae18":[6,0,20,2],
-"d8/df8/structABNodeInfo.html#a281a0378999ed5966f5d28cc4310fbcd":[6,0,20,4],
-"d8/df8/structABNodeInfo.html#a2bbd1b49b9b72784d07be9db2a27fe77":[6,0,20,8],
-"d8/df8/structABNodeInfo.html#a345b2ce7c48e9d10d03ff484a0108389":[6,0,20,1],
-"d8/df8/structABNodeInfo.html#a7fb668b0b9563bb0779bf4a5daefded8":[6,0,20,5],
-"d8/df8/structABNodeInfo.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250":[6,0,20,3]
+"d8/df8/structABNodeInfo.html":[6,0,20]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX361 =
 {
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a55ffd33374e1ff0c1e18209f685a7bcc":[7,0,0,0,1,2,41,9,60,32],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a627af1a1686f4cec15005b5782204e42":[7,0,0,0,1,2,41,9,60,35],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6b4de4e8d4250a7dedba74d70c364d9e":[7,0,0,0,1,2,41,9,60,40],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6be082acf3ec6226f302ef54deba7559":[7,0,0,0,1,2,41,9,60,41],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6c21f80c1ecd8262fc1349eece91ec39":[7,0,0,0,1,2,41,9,60,47],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a6ca19cbc942cd306b4143a4c17041728":[7,0,0,0,1,2,41,9,60,19],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a7127bc77ddfb8193b045d89e73b367ec":[7,0,0,0,1,2,41,9,60,13],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a7273fc0906b645cf5665fe488f4aede4":[7,0,0,0,1,2,41,9,60,37],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a742c554d3b192f4c9065eb961fb4fe07":[7,0,0,0,1,2,41,9,60,39],
+"de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a74fa9db552286d6be06aa972e3ba6e72":[7,0,0,0,1,2,41,9,60,1],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a786f1bd3e36ac715ae12e92db63f0541":[7,0,0,0,1,2,41,9,60,16],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a7d28b9fbd24fa0df7b57ea9bc707e8a7":[7,0,0,0,1,2,41,9,60,18],
 "de/d30/SpellMgr_8h.html#adcebb12598da7d99a0d914e032ab53a6a7e8a4254e1450a2b48e2c3c36fc6fd33":[7,0,0,0,1,2,41,9,60,38],
@@ -239,15 +249,5 @@ var NAVTREEINDEX361 =
 "de/d3b/classMotionMaster.html#a36dcfce00d1f98c084755aef95bb9d7b":[6,0,1527,61],
 "de/d3b/classMotionMaster.html#a381fce2243c843d8a7ffef127d607c07":[6,0,1527,19],
 "de/d3b/classMotionMaster.html#a3d3d105985ddb190b406be35516e603f":[6,0,1527,1],
-"de/d3b/classMotionMaster.html#a3ff14061961bcc5cf1d34842683d90ac":[6,0,1527,29],
-"de/d3b/classMotionMaster.html#a406b03af782d65f52672361b763d563a":[6,0,1527,42],
-"de/d3b/classMotionMaster.html#a4080a02e45803d520556a9166f892a23":[6,0,1527,5],
-"de/d3b/classMotionMaster.html#a41c0b3036d0000be2f0d71412df77e34":[6,0,1527,3],
-"de/d3b/classMotionMaster.html#a41e9fbf11fd1a17752bf68a4a14cc8e5":[6,0,1527,15],
-"de/d3b/classMotionMaster.html#a42159811c7ba2ec5ff785f50c6bd6268":[6,0,1527,63],
-"de/d3b/classMotionMaster.html#a48a7732160d5a64aa32a82f976f2aeb4":[6,0,1527,45],
-"de/d3b/classMotionMaster.html#a4ac4ff518be1d03d8c2d3293951bf4d5":[6,0,1527,62],
-"de/d3b/classMotionMaster.html#a4ca387e0a59497eaca8ac4880f3a1970":[6,0,1527,50],
-"de/d3b/classMotionMaster.html#a55a28a0fc727f5f9895c64f75f7dd7cf":[6,0,1527,10],
-"de/d3b/classMotionMaster.html#a5b0e5db1d2928a182c647b47a42d17f7":[6,0,1527,69]
+"de/d3b/classMotionMaster.html#a3ff14061961bcc5cf1d34842683d90ac":[6,0,1527,29]
 };

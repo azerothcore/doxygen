@@ -26,6 +26,7 @@ var Player_8h =
     [ "DungeonProgressionRequirements", "d1/d5e/structDungeonProgressionRequirements.html", "d1/d5e/structDungeonProgressionRequirements" ],
     [ "BGData", "d0/d50/structBGData.html", "d0/d50/structBGData" ],
     [ "EntryPointData", "d2/dc2/structEntryPointData.html", "d2/dc2/structEntryPointData" ],
+    [ "TradeStatusInfo", "d7/d48/structTradeStatusInfo.html", "d7/d48/structTradeStatusInfo" ],
     [ "PendingSpellCastRequest", "dc/d33/structPendingSpellCastRequest.html", "dc/d33/structPendingSpellCastRequest" ],
     [ "Player", "d2/d4b/classPlayer.html", "d2/d4b/classPlayer" ],
     [ "Player::ChatFloodThrottle", "da/d35/structPlayer_1_1ChatFloodThrottle.html", "da/d35/structPlayer_1_1ChatFloodThrottle" ],

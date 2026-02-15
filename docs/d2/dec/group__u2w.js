@@ -666,7 +666,7 @@ var group__u2w =
       [ "SendTaxiStatus", "d8/d74/classWorldSession.html#a541428245c594aa775c73b43f6b324e2", null ],
       [ "SendTimeQueryResponse", "d8/d74/classWorldSession.html#aa5e9525f072893c9d063753ae85c2b35", null ],
       [ "SendTimeSync", "d8/d74/classWorldSession.html#a171a0695336b720fed0dd12fdafbf2a9", null ],
-      [ "SendTradeStatus", "d8/d74/classWorldSession.html#ac3aff1b7548faa82f1c0786c82df4cca", null ],
+      [ "SendTradeStatus", "d8/d74/classWorldSession.html#adf8e1304afaa710c8d57d2b9c0477cd1", null ],
       [ "SendTrainerList", "d8/d74/classWorldSession.html#ad5b723c9992445c7e94a7a5d37b34542", null ],
       [ "SendTutorialsData", "d8/d74/classWorldSession.html#aa8420fcbcfb81b1e76d2e70e8dc399da", null ],
       [ "SendUpdateTrade", "d8/d74/classWorldSession.html#ada77032a1b7ad5a8d43e257a117239b9", null ],

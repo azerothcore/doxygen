@@ -1,5 +1,13 @@
 var NAVTREEINDEX207 =
 {
+"d7/dea/classnpc__training__dummy.html#a87a48a42e8349ce9125de91a429d4ffa":[6,0,2206,2],
+"d7/dea/classnpc__training__dummy.html#acfed4da3b1a01bc58e599d2dc134cb7d":[6,0,2206,1],
+"d7/deb/classspell__rog__deadly__poison.html":[6,0,3764],
+"d7/deb/classspell__rog__deadly__poison.html#a05341e7a67f50c6ced4bf4bd3892f39a":[6,0,3764,0],
+"d7/deb/classspell__rog__deadly__poison.html#a133e338413e960c442446a2a4a13b85b":[6,0,3764,4],
+"d7/deb/classspell__rog__deadly__poison.html#a3aa304a5386f6c0ee4aa428bf4ed12bb":[6,0,3764,5],
+"d7/deb/classspell__rog__deadly__poison.html#a496c27472579be3b8989868765ec19ef":[6,0,3764,3],
+"d7/deb/classspell__rog__deadly__poison.html#a6b2a1f378c0f5a2762ce1d34740d310e":[6,0,3764,2],
 "d7/deb/classspell__rog__deadly__poison.html#a7ca0fe15f6679c73aa77818ef3d94eed":[6,0,3764,1],
 "d7/deb/structEnumText.html":[6,0,1023],
 "d7/deb/structEnumText.html#a020a7ebf3b1ee476d5f7ee605f43525d":[6,0,1023,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX207 =
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a31a93df7bc250700e067d52ce184d52f":[7,0,0,0,1,2,16,10,6,5,4],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a57001bfcef756447892ad19109b29ce8":[7,0,0,0,1,2,16,10,6,5,11],
 "d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a6382420cab5f5cfb854bed6c5cb54804":[7,0,0,0,1,2,16,10,6,5,24],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a712ae9993604b84baac0e4e833d73cd0":[7,0,0,0,1,2,16,10,6,5,8],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7914b3a07153a9c06a9475030f9e12c2":[7,0,0,0,1,2,16,10,6,5,23],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7958764283985359d7e0560dae79920c":[7,0,0,0,1,2,16,10,6,5,12],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d2d4d09dd0b5ba2b977f74bf55a3fd0":[7,0,0,0,1,2,16,10,6,5,1],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a7d75bb1546efb3a78c8ca3798667e2ef":[7,0,0,0,1,2,16,10,6,5,0],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a8934e8d4b86f03e5d578b153eeb63758":[7,0,0,0,1,2,16,10,6,5,21],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a96718491f9fa88e0a6cb75b9580a69e5":[7,0,0,0,1,2,16,10,6,5,10],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2aa6620004c6d23c46e0472598d5ab0b5d":[7,0,0,0,1,2,16,10,6,5,2],
-"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2ab04ef9ae98b1939d4cb013d00ef53e2b":[7,0,0,0,1,2,16,10,6,5,17]
+"d7/df1/UnitDefines_8h.html#ab054baf099d873bce22a0e84ae1090e2a712ae9993604b84baac0e4e833d73cd0":[7,0,0,0,1,2,16,10,6,5,8]
 };

@@ -4741,6 +4741,7 @@ var annotated_dup =
     [ "TotemAI", "d6/da9/classTotemAI.html", "d6/da9/classTotemAI" ],
     [ "TotemCategoryEntry", "d3/d88/structTotemCategoryEntry.html", "d3/d88/structTotemCategoryEntry" ],
     [ "TradeData", "d8/d94/classTradeData.html", "d8/d94/classTradeData" ],
+    [ "TradeStatusInfo", "d7/d48/structTradeStatusInfo.html", "d7/d48/structTradeStatusInfo" ],
     [ "Transaction", "df/d28/classTransaction.html", "df/d28/classTransaction" ],
     [ "TransactionBase", "d1/df7/classTransactionBase.html", "d1/df7/classTransactionBase" ],
     [ "TransactionCallback", "db/df0/classTransactionCallback.html", "db/df0/classTransactionCallback" ],

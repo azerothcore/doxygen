@@ -4647,6 +4647,7 @@ var hierarchy =
     [ "Acore::Hyperlinks::LinkTags::trade", "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html", null ],
     [ "TradeData", "d8/d94/classTradeData.html", null ],
     [ "Acore::Hyperlinks::TradeskillLinkData", "d9/d01/structAcore_1_1Hyperlinks_1_1TradeskillLinkData.html", null ],
+    [ "TradeStatusInfo", "d7/d48/structTradeStatusInfo.html", null ],
     [ "Trainer::Trainer", "dc/d0b/classTrainer_1_1Trainer.html", null ],
     [ "WorldPackets::NPC::TrainerListSpell", "d3/d88/structWorldPackets_1_1NPC_1_1TrainerListSpell.html", null ],
     [ "TransactionBase", "d1/df7/classTransactionBase.html", [

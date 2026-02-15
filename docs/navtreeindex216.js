@@ -1,8 +1,16 @@
 var NAVTREEINDEX216 =
 {
+"d8/d6c/classspell__kiljaeden__darkness__aura.html":[6,0,3382],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a4484cf33e423f23cad9559a6a16ed9b4":[6,0,3382,0],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a6fa407996b59d98d0eeef877ee89784d":[6,0,3382,1],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#a7dc81b47954ee8c10b99f389740de0be":[6,0,3382,2],
+"d8/d6c/classspell__kiljaeden__darkness__aura.html#afd94a159c0f429f2a63ffbd0a38d32e3":[6,0,3382,3],
+"d8/d6d/classboss__faerlina.html":[6,0,460],
+"d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[6,0,460,1],
+"d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[6,0,460,2],
 "d8/d6e/PetHandler_8cpp.html":[7,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[6,0,0,5,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6f/classnpc__injured__draenei.html":[6,0,1893],
 "d8/d6f/classnpc__injured__draenei.html#a660c0f0c4ed41d70ad0a50cde25c1d14":[6,0,1893,1],
 "d8/d6f/classnpc__injured__draenei.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb":[6,0,1893,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX216 =
 "d8/d74/classWorldSession.html#a2de46d820d366a14c89f6d6da910e616":[4,1,19,600],
 "d8/d74/classWorldSession.html#a2e114eefda540260da138191ebcff45c":[4,1,19,268],
 "d8/d74/classWorldSession.html#a2f6f8217cc88555da15b0338405eb6aa":[4,1,19,627],
-"d8/d74/classWorldSession.html#a3008a6d3b0bfa667b1378ddaa13fd35a":[4,1,19,320],
-"d8/d74/classWorldSession.html#a30657b23cffcb5781db3d66d3be59bba":[4,1,19,310],
-"d8/d74/classWorldSession.html#a30a2db8deeea54dc5bf2bfa41292656b":[4,1,19,580],
-"d8/d74/classWorldSession.html#a30c3562923214a78b3d4c55d8ecca613":[4,1,19,104],
-"d8/d74/classWorldSession.html#a31586e7a75d67e5a2cb2c9e7689babf2":[4,1,19,435],
-"d8/d74/classWorldSession.html#a31d154177d042356212d29f6b082d420":[4,1,19,301],
-"d8/d74/classWorldSession.html#a321ee68a78ff7d041665ddd07e12d5da":[4,1,19,220],
-"d8/d74/classWorldSession.html#a324172919477e93ca14cf19721cbeef9":[4,1,19,439],
-"d8/d74/classWorldSession.html#a32fbf56121e125d3a6f1b03704ffa2ec":[4,1,19,243]
+"d8/d74/classWorldSession.html#a3008a6d3b0bfa667b1378ddaa13fd35a":[4,1,19,320]
 };

@@ -1,5 +1,14 @@
 var NAVTREEINDEX294 =
 {
+"db/dd5/classCreature.html#a2c3985c2db1f44cede06a74ca0f9ffba":[6,0,920,5],
+"db/dd5/classCreature.html#a2dd6a96597e20e549718f460d8d8848b":[6,0,920,304],
+"db/dd5/classCreature.html#a2f3d475d58b8aabce8e6eafd66c7d820":[6,0,920,113],
+"db/dd5/classCreature.html#a30edd6003ed7a94d2d40c5b0be9d3fce":[6,0,920,308],
+"db/dd5/classCreature.html#a311d114dbf2ff185f20a636d3e4c61d0":[6,0,920,135],
+"db/dd5/classCreature.html#a31e933737562cf862b2e0cd92af252a1":[6,0,920,66],
+"db/dd5/classCreature.html#a32635b706d7ca7c3a97ef09f62635a52":[6,0,920,120],
+"db/dd5/classCreature.html#a32884903752c03c7e0aa3a76b73db727":[6,0,920,36],
+"db/dd5/classCreature.html#a32f799b78d9291805996869dc9af85af":[6,0,920,108],
 "db/dd5/classCreature.html#a341fd26ee36ee1696b31e8ac7b343c19":[6,0,920,121],
 "db/dd5/classCreature.html#a346ffcd0f9efd3e5a0a40c362fe4456a":[6,0,920,53],
 "db/dd5/classCreature.html#a35ac9da6ab2ade67fbcfab3f325e84e8":[6,0,920,219],
@@ -240,14 +249,5 @@ var NAVTREEINDEX294 =
 "db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23":[6,0,920,136],
 "db/dd5/classCreature.html#af95cc423ba67495e63efcfbcbd9ff978":[6,0,920,210],
 "db/dd5/classCreature.html#afad6a3c33d1a72faf082b43485072a62":[6,0,920,59],
-"db/dd5/classCreature.html#afb2c9a581a6cb7f5e4ad66e3f5086002":[6,0,920,39],
-"db/dd5/classCreature.html#afb49a62b1afbd2af7e648de979aa34ce":[6,0,920,65],
-"db/dd5/classCreature.html#afc3f5dc6dafd08d43819ac6759438495":[6,0,920,267],
-"db/dd5/classCreature.html#afcfaf1e2510eb8e6e7217f2975a67caa":[6,0,920,234],
-"db/dd5/classCreature.html#afdd782c9d977bee82ae9f4bc879c5fd0":[6,0,920,292],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html":[6,0,2780],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0a6d4617ff3351411f4e13f53876db31":[6,0,2780,1],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a0e5d974111eeca075f38910223f5eaf4":[6,0,2780,2],
-"db/dd5/classspell__dk__improved__blood__presence__proc.html#a451ceeda18638f88d2e0a24ac445f5e2":[6,0,2780,0],
-"db/dd5/classspell__madrigosa__deactivate__barrier.html":[6,0,3422]
+"db/dd5/classCreature.html#afb2c9a581a6cb7f5e4ad66e3f5086002":[6,0,920,39]
 };

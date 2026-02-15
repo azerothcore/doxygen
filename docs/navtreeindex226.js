@@ -1,5 +1,13 @@
 var NAVTREEINDEX226 =
 {
+"d8/dd8/ObjectMgr_8cpp.html#a2e3e576d2e15a5033a24dec106b42453":[7,0,0,0,1,2,18,2,12],
+"d8/dd8/ObjectMgr_8cpp.html#a34339a53afbec181844cc9d936d1d9a2":[7,0,0,0,1,2,18,2,10],
+"d8/dd8/ObjectMgr_8cpp.html#a3c2a9c06ca944c1ce8c2f02692bda619":[7,0,0,0,1,2,18,2,19],
+"d8/dd8/ObjectMgr_8cpp.html#a46371802334fe0589dc4f2b065b590e5":[7,0,0,0,1,2,18,2,9],
+"d8/dd8/ObjectMgr_8cpp.html#a4f5a667f6078863c869b5c92387532fa":[7,0,0,0,1,2,18,2,13],
+"d8/dd8/ObjectMgr_8cpp.html#a4fb11f3d6b7a6d3bd9bf49578906fc10":[7,0,0,0,1,2,18,2,1],
+"d8/dd8/ObjectMgr_8cpp.html#a5e723b66ad85198f3b0625903f5edac6":[7,0,0,0,1,2,18,2,7],
+"d8/dd8/ObjectMgr_8cpp.html#a774395755c07e6b3831e37e1f8448844":[7,0,0,0,1,2,18,2,17],
 "d8/dd8/ObjectMgr_8cpp.html#a99fc90e0f89dbe2684b6563324d8c23b":[7,0,0,0,1,2,18,2,18],
 "d8/dd8/ObjectMgr_8cpp.html#a9be9514be7df6dd6a73a9b3889eccb7c":[7,0,0,0,1,2,18,2,2],
 "d8/dd8/ObjectMgr_8cpp.html#aa622a06edade2e3d18da67881d15918c":[7,0,0,0,1,2,18,2,16],
@@ -241,13 +249,5 @@ var NAVTREEINDEX226 =
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aaccbe25a95fcd8c56847451954286c3a":[7,0,0,0,1,3,5,6,7,31,9],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae48ed16e3d81e698b26347019dff68be":[7,0,0,0,1,3,5,6,7,31,6],
 "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe67fa0dd0861c8771b271303bdbec75":[7,0,0,0,1,3,5,6,7,31,3],
-"d8/ddf/classnpc__spectral__footman.html":[6,0,2129],
-"d8/ddf/classnpc__spectral__footman.html#a300fb06b896d2d08f9e3671422232ad2":[6,0,2129,1],
-"d8/ddf/classnpc__spectral__footman.html#adbc1b961aba6cefb97dfff3014248735":[6,0,2129,2],
-"d8/de0/BattlegroundSA_8h.html":[7,0,0,0,1,2,8,1,19],
-"d8/de0/BattlegroundSA_8h.html#a10f9b0e47e9f7cab36a6148a69fd9277":[7,0,0,0,1,2,8,1,19,5],
-"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675":[7,0,0,0,1,2,8,1,19,9],
-"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a1a78f58ff71eedf3c6ab08e93805495d":[7,0,0,0,1,2,8,1,19,9,1],
-"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a7e968b899dbbf87ebb69929774e731eb":[7,0,0,0,1,2,8,1,19,9,4],
-"d8/de0/BattlegroundSA_8h.html#a11d890bc33f187169c4372df4b2a2675a823821df9525e04f84fe23ebf5dd2c23":[7,0,0,0,1,2,8,1,19,9,0]
+"d8/ddf/classnpc__spectral__footman.html":[6,0,2129]
 };

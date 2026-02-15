@@ -1,5 +1,13 @@
 var NAVTREEINDEX193 =
 {
+"d7/d7d/classnpc__pet__trainer.html#ac2279bce52e911b1c339da5e68aa2501":[6,0,2037,1],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html":[6,0,744,0],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a098974cdd91b61aa4b003d6f16a339d2":[6,0,744,0,3],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a0c39e574e8d93093be2c3c8bb2dc5b06":[6,0,744,0,5],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a1965559164451e8ee7e47d65e148b67c":[6,0,744,0,2],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a2cc71f0ef8627b133016a963ba087dc8":[6,0,744,0,7],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a324328498de2474134ccbee2be129573":[6,0,744,0,4],
+"d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a376600de56ab1af36287c2d922c7361f":[6,0,744,0,11],
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a3dbd585e96f8843e04ffab040318b977":[6,0,744,0,9],
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a4332a514588e77494a4033b67dc8145e":[6,0,744,0,8],
 "d7/d7d/structboss__thorim__runic__colossus_1_1boss__thorim__runic__colossusAI.html#a55e64ee89eb7b491b20a10d49e664f53":[6,0,744,0,0],
@@ -15,10 +23,10 @@ var NAVTREEINDEX193 =
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,32,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,12,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,32,3,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,32,3,1,3],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,12,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,32,3,1,0],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,12,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3674],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a14bd854db86750704c8377d457dea360":[6,0,3674,2],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html#a6732d51d5de34b3e737cc785fb2ab43e":[6,0,3674,0],
@@ -241,13 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a500bb7292e2d51375145250bffb2031f":[7,0,0,0,1,3,2,20,2,4],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a5c617ffeaa015ea23b065a79ac6e8bde":[7,0,0,0,1,3,2,20,2,8],
 "d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e":[7,0,0,0,1,3,2,20,2,0],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e":[7,0,0,0,1,3,2,20,2,7],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42ab11fb925c43c8e71171b5468f9bfbb41":[7,0,0,0,1,3,2,20,2,6],
-"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42acee05c856cffac557e6f7f8b4b32f173":[7,0,0,0,1,3,2,20,2,2],
-"d7/d8d/zone__burning__steppes_8cpp.html#a8cf2165dba1d5e845d5e20fbc1ce33d6":[7,0,0,0,1,3,2,20,3],
-"d7/d8f/PlayerMisc_8cpp.html":[7,0,0,0,1,2,16,7,7],
-"d7/d8f/boss__loatheb_8cpp.html":[7,0,0,0,1,3,5,7,8],
-"d7/d8f/boss__loatheb_8cpp.html#a00fbd7d9ffd951ce787d1233aa2c6d86":[7,0,0,0,1,3,5,7,8,5],
-"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,8,3],
-"d7/d8f/boss__loatheb_8cpp.html#a5bd342133be8c2137b831460acc9298ca18455dbfc5454ddc2d6528de7c6960af":[7,0,0,0,1,3,5,7,8,3,3]
+"d7/d8d/zone__burning__steppes_8cpp.html#a85e4eeb368c070d1186f1c7c07ab1a42a7e1d61976fe826333b77ae3822af1d4e":[7,0,0,0,1,3,2,20,2,7]
 };
