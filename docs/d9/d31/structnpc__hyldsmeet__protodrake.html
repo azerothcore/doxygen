@@ -446,9 +446,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  589</span>: <a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>(creature), <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a>(0) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  596</span>: <a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>(creature), <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a>(0) { }</div>
 <div class="ttc" id="aclassCreatureAI_html"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html">CreatureAI</a></div><div class="ttdef"><b>Definition</b> CreatureAI.h:71</div></div>
-<div class="ttc" id="astructnpc__hyldsmeet__protodrake_html_a724645a3d05ba26d99a8bc1668d1dc3a"><div class="ttname"><a href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">npc_hyldsmeet_protodrake::_accessoryRespawnTimer</a></div><div class="ttdeci">uint32 _accessoryRespawnTimer</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:615</div></div>
+<div class="ttc" id="astructnpc__hyldsmeet__protodrake_html_a724645a3d05ba26d99a8bc1668d1dc3a"><div class="ttname"><a href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">npc_hyldsmeet_protodrake::_accessoryRespawnTimer</a></div><div class="ttdeci">uint32 _accessoryRespawnTimer</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:622</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -496,18 +496,18 @@ Additional Inherited Members</h2></td></tr>
 <p>== Fields ======================================= </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#ac5f77a4717d02695e089042fa12f5c1e">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  592</span>    {</div>
-<div class="line"><span class="lineno">  593</span>        <span class="keywordflow">if</span> (apply)</div>
-<div class="line"><span class="lineno">  594</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  595</span> </div>
-<div class="line"><span class="lineno">  596</span>        <span class="keywordflow">if</span> (who-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7">NPC_HYLDSMEET_DRAKERIDER</a>)</div>
-<div class="line"><span class="lineno">  597</span>            <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> = 5 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
-<div class="line"><span class="lineno">  598</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  599</span>    {</div>
+<div class="line"><span class="lineno">  600</span>        <span class="keywordflow">if</span> (apply)</div>
+<div class="line"><span class="lineno">  601</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  602</span> </div>
+<div class="line"><span class="lineno">  603</span>        <span class="keywordflow">if</span> (who-&gt;GetEntry() == <a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7">NPC_HYLDSMEET_DRAKERIDER</a>)</div>
+<div class="line"><span class="lineno">  604</span>            <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> = 5 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
+<div class="line"><span class="lineno">  605</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
 <div class="ttc" id="aCommon_8h_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition</b> Common.h:47</div></div>
-<div class="ttc" id="azone__storm__peaks_8cpp_html_a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7">NPC_HYLDSMEET_DRAKERIDER</a></div><div class="ttdeci">@ NPC_HYLDSMEET_DRAKERIDER</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:584</div></div>
+<div class="ttc" id="azone__storm__peaks_8cpp_html_a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7">NPC_HYLDSMEET_DRAKERIDER</a></div><div class="ttdeci">@ NPC_HYLDSMEET_DRAKERIDER</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:591</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00615">_accessoryRespawnTimer</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, and <a class="el" href="../../#l00584">NPC_HYLDSMEET_DRAKERIDER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00622">_accessoryRespawnTimer</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, and <a class="el" href="../../#l00591">NPC_HYLDSMEET_DRAKERIDER</a>.</p>
 
 </div>
 </div>
@@ -539,22 +539,22 @@ Additional Inherited Members</h2></td></tr>
 <p>We need to manually reinstall accessories because the vehicle itself is friendly to players, so EnterEvadeMode is never triggered. The accessory on the other hand is hostile and killable.</p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  601</span>    {</div>
-<div class="line"><span class="lineno">  604</span>        <a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicleKit = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>();</div>
-<div class="line"><span class="lineno">  605</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> &amp;&amp; <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> &lt;= diff &amp;&amp; vehicleKit)</div>
-<div class="line"><span class="lineno">  606</span>        {</div>
-<div class="line"><span class="lineno">  607</span>            vehicleKit-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe">InstallAllAccessories</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  608</span>            <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  609</span>        }</div>
-<div class="line"><span class="lineno">  610</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  611</span>            <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  612</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  608</span>    {</div>
+<div class="line"><span class="lineno">  611</span>        <a class="code hl_class" href="../../dc/d23/classVehicle.html">Vehicle</a>* vehicleKit = <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>();</div>
+<div class="line"><span class="lineno">  612</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> &amp;&amp; <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> &lt;= diff &amp;&amp; vehicleKit)</div>
+<div class="line"><span class="lineno">  613</span>        {</div>
+<div class="line"><span class="lineno">  614</span>            vehicleKit-&gt;<a class="code hl_function" href="../../dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe">InstallAllAccessories</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  615</span>            <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  616</span>        }</div>
+<div class="line"><span class="lineno">  617</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  618</span>            <a class="code hl_variable" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html#a724645a3d05ba26d99a8bc1668d1dc3a">_accessoryRespawnTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  619</span>    }</div>
 <div class="ttc" id="aclassCreatureAI_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aclassUnit_html_ae54fce65a1c084c982043777288895ec"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae54fce65a1c084c982043777288895ec">Unit::GetVehicleKit</a></div><div class="ttdeci">Vehicle * GetVehicleKit() const</div><div class="ttdef"><b>Definition</b> Unit.h:1904</div></div>
 <div class="ttc" id="aclassVehicle_html"><div class="ttname"><a href="../../dc/d23/classVehicle.html">Vehicle</a></div><div class="ttdef"><b>Definition</b> Vehicle.h:28</div></div>
 <div class="ttc" id="aclassVehicle_html_aebf47d4b105ad8fffa989cb3adf55afe"><div class="ttname"><a href="../../dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe">Vehicle::InstallAllAccessories</a></div><div class="ttdeci">void InstallAllAccessories(bool evading)</div><div class="ttdef"><b>Definition</b> Vehicle.cpp:88</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00615">_accessoryRespawnTimer</a>, <a class="el" href="../../#l01904">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00088">Vehicle::InstallAllAccessories()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00622">_accessoryRespawnTimer</a>, <a class="el" href="../../#l01904">Unit::GetVehicleKit()</a>, <a class="el" href="../../#l00088">Vehicle::InstallAllAccessories()</a>, and <a class="el" href="../../#l00073">CreatureAI::me</a>.</p>
 
 </div>
 </div>
@@ -579,7 +579,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00591">PassengerBoarded()</a>, and <a class="el" href="../../#l00600">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00598">PassengerBoarded()</a>, and <a class="el" href="../../#l00607">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -592,7 +592,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d31/structnpc__hyldsmeet__protodrake.html">npc_hyldsmeet_protodrake</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:46:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -339,16 +339,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1283</span>    {</div>
-<div class="line"><span class="lineno"> 1284</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>() || !<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno"> 1285</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1286</span> </div>
-<div class="line"><span class="lineno"> 1287</span>        <span class="keywordtype">float</span> distance = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a73f3c7fa817faebff6b2752ba3bb1a50">GetDistance2d</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>()-&gt;GetPositionX(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>()-&gt;GetPositionY());</div>
-<div class="line"><span class="lineno"> 1288</span>        <span class="keywordflow">if</span> (distance &gt;= 10.0f)</div>
-<div class="line"><span class="lineno"> 1289</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<span class="keywordtype">float</span>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>()) / distance));</div>
-<div class="line"><span class="lineno"> 1290</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (distance &gt; 6.0f)</div>
-<div class="line"><span class="lineno"> 1291</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<span class="keywordtype">float</span>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>()) / distance) * 2);</div>
-<div class="line"><span class="lineno"> 1292</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1228</span>    {</div>
+<div class="line"><span class="lineno"> 1229</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>() || !<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno"> 1230</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1231</span> </div>
+<div class="line"><span class="lineno"> 1232</span>        <span class="keywordtype">float</span> distance = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a73f3c7fa817faebff6b2752ba3bb1a50">GetDistance2d</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>()-&gt;GetPositionX(), <a class="code hl_function" href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">GetExplTargetDest</a>()-&gt;GetPositionY());</div>
+<div class="line"><span class="lineno"> 1233</span>        <span class="keywordflow">if</span> (distance &gt;= 10.0f)</div>
+<div class="line"><span class="lineno"> 1234</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<span class="keywordtype">float</span>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>()) / distance));</div>
+<div class="line"><span class="lineno"> 1235</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (distance &gt; 6.0f)</div>
+<div class="line"><span class="lineno"> 1236</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ac1cfda0b3181c0da3422765acf78922e">SetHitDamage</a>(<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<span class="keywordtype">float</span>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>()) / distance) * 2);</div>
+<div class="line"><span class="lineno"> 1237</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aclassSpellScript_html_a127150f1d3edb4f1d217884f882b015f"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a127150f1d3edb4f1d217884f882b015f">SpellScript::GetExplTargetDest</a></div><div class="ttdeci">WorldLocation const * GetExplTargetDest()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:416</div></div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
@@ -358,7 +358,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01289">WorldObject::GetDistance2d()</a>, <a class="el" href="../../#l00416">SpellScript::GetExplTargetDest()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, and <a class="el" href="../../#l00524">SpellScript::SetHitDamage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01294">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01239">Register()</a>.</p>
 
 </div>
 </div>
@@ -386,14 +386,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1295</span>    {</div>
-<div class="line"><span class="lineno"> 1296</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6">spell_algalon_cosmic_smash_damage::RecalculateDamage</a>);</div>
-<div class="line"><span class="lineno"> 1297</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1240</span>    {</div>
+<div class="line"><span class="lineno"> 1241</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6">spell_algalon_cosmic_smash_damage::RecalculateDamage</a>);</div>
+<div class="line"><span class="lineno"> 1242</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:345</div></div>
-<div class="ttc" id="aclassspell__algalon__cosmic__smash__damage_html_a94e70b20f2139f668227dccb623c1af6"><div class="ttname"><a href="../../db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6">spell_algalon_cosmic_smash_damage::RecalculateDamage</a></div><div class="ttdeci">void RecalculateDamage()</div><div class="ttdef"><b>Definition</b> boss_algalon_the_observer.cpp:1282</div></div>
+<div class="ttc" id="aclassspell__algalon__cosmic__smash__damage_html_a94e70b20f2139f668227dccb623c1af6"><div class="ttname"><a href="../../db/d5d/classspell__algalon__cosmic__smash__damage.html#a94e70b20f2139f668227dccb623c1af6">spell_algalon_cosmic_smash_damage::RecalculateDamage</a></div><div class="ttdeci">void RecalculateDamage()</div><div class="ttdef"><b>Definition</b> boss_algalon_the_observer.cpp:1227</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00345">SpellScript::OnHit</a>, <a class="el" href="../../#l01282">RecalculateDamage()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00345">SpellScript::OnHit</a>, <a class="el" href="../../#l01227">RecalculateDamage()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -406,7 +406,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d5d/classspell__algalon__cosmic__smash__damage.html">spell_algalon_cosmic_smash_damage</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:46:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

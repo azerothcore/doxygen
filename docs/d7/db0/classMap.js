@@ -219,6 +219,7 @@ var classMap =
     [ "SummonCreatureGroup", "d7/db0/classMap.html#a8f5d95bf620fdcd0b9ca80c2ba45e731", null ],
     [ "SummonGameObject", "d7/db0/classMap.html#a7b9aad695426871abbbbc29f362a8f71", null ],
     [ "SummonGameObject", "d7/db0/classMap.html#afcd54ac86c6ed6ab8b9d7bd5ffdce594", null ],
+    [ "SummonGameObjectGroup", "d7/db0/classMap.html#a8b39a5d788e26d1be04a8f97da427531", null ],
     [ "ToBattlegroundMap", "d7/db0/classMap.html#a8c19801de29c39c3092344abeb3cb86a", null ],
     [ "ToBattlegroundMap", "d7/db0/classMap.html#a4deb9328493a214f15879cdc3ef426d4", null ],
     [ "ToInstanceMap", "d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f", null ],

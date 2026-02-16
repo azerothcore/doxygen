@@ -1,11 +1,8 @@
 var boss__kologarn_8cpp =
 [
-    [ "boss_kologarn", "d7/d10/classboss__kologarn.html", "d7/d10/classboss__kologarn" ],
-    [ "boss_kologarn::boss_kologarnAI", "d0/d35/structboss__kologarn_1_1boss__kologarnAI.html", "d0/d35/structboss__kologarn_1_1boss__kologarnAI" ],
-    [ "boss_kologarn_arms", "d7/dd2/classboss__kologarn__arms.html", "d7/dd2/classboss__kologarn__arms" ],
-    [ "boss_kologarn_arms::boss_kologarn_armsAI", "d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI.html", "d5/d1d/structboss__kologarn__arms_1_1boss__kologarn__armsAI" ],
-    [ "boss_kologarn_eyebeam", "d6/dee/classboss__kologarn__eyebeam.html", "d6/dee/classboss__kologarn__eyebeam" ],
-    [ "boss_kologarn_eyebeam::boss_kologarn_eyebeamAI", "d4/db9/structboss__kologarn__eyebeam_1_1boss__kologarn__eyebeamAI.html", "d4/db9/structboss__kologarn__eyebeam_1_1boss__kologarn__eyebeamAI" ],
+    [ "boss_kologarn", "d7/d27/structboss__kologarn.html", "d7/d27/structboss__kologarn" ],
+    [ "boss_kologarn_arms", "d2/d57/structboss__kologarn__arms.html", "d2/d57/structboss__kologarn__arms" ],
+    [ "boss_kologarn_eyebeam", "d5/deb/structboss__kologarn__eyebeam.html", "d5/deb/structboss__kologarn__eyebeam" ],
     [ "spell_kologarn_focused_eyebeam", "d6/de9/classspell__kologarn__focused__eyebeam.html", "d6/de9/classspell__kologarn__focused__eyebeam" ],
     [ "boss_kologarn_pit_kill_bunny", "dc/dc4/structboss__kologarn__pit__kill__bunny.html", "dc/dc4/structboss__kologarn__pit__kill__bunny" ],
     [ "StoneGripTargetSelector", "da/d63/classStoneGripTargetSelector.html", "da/d63/classStoneGripTargetSelector" ],

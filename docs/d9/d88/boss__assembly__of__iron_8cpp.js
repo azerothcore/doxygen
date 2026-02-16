@@ -1,14 +1,10 @@
 var boss__assembly__of__iron_8cpp =
 [
-    [ "boss_steelbreaker", "d1/d62/classboss__steelbreaker.html", "d1/d62/classboss__steelbreaker" ],
-    [ "boss_steelbreaker::boss_steelbreakerAI", "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI.html", "de/ddc/structboss__steelbreaker_1_1boss__steelbreakerAI" ],
+    [ "boss_steelbreaker", "dd/d73/structboss__steelbreaker.html", "dd/d73/structboss__steelbreaker" ],
     [ "CastRunesEvent", "de/dd1/classCastRunesEvent.html", "de/dd1/classCastRunesEvent" ],
-    [ "boss_runemaster_molgeim", "d9/d20/classboss__runemaster__molgeim.html", "d9/d20/classboss__runemaster__molgeim" ],
-    [ "boss_runemaster_molgeim::boss_runemaster_molgeimAI", "d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI.html", "d4/de3/structboss__runemaster__molgeim_1_1boss__runemaster__molgeimAI" ],
-    [ "npc_assembly_lightning", "d2/dec/classnpc__assembly__lightning.html", "d2/dec/classnpc__assembly__lightning" ],
-    [ "npc_assembly_lightning::npc_assembly_lightningAI", "d0/d24/structnpc__assembly__lightning_1_1npc__assembly__lightningAI.html", "d0/d24/structnpc__assembly__lightning_1_1npc__assembly__lightningAI" ],
-    [ "boss_stormcaller_brundir", "db/ddb/classboss__stormcaller__brundir.html", "db/ddb/classboss__stormcaller__brundir" ],
-    [ "boss_stormcaller_brundir::boss_stormcaller_brundirAI", "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI.html", "df/d36/structboss__stormcaller__brundir_1_1boss__stormcaller__brundirAI" ],
+    [ "boss_runemaster_molgeim", "db/d21/structboss__runemaster__molgeim.html", "db/d21/structboss__runemaster__molgeim" ],
+    [ "npc_assembly_lightning", "d4/d7e/structnpc__assembly__lightning.html", "d4/d7e/structnpc__assembly__lightning" ],
+    [ "boss_stormcaller_brundir", "d3/d04/structboss__stormcaller__brundir.html", "d3/d04/structboss__stormcaller__brundir" ],
     [ "spell_shield_of_runes_aura", "dc/d5b/classspell__shield__of__runes__aura.html", "dc/d5b/classspell__shield__of__runes__aura" ],
     [ "spell_assembly_meltdown", "d1/d3d/classspell__assembly__meltdown.html", "d1/d3d/classspell__assembly__meltdown" ],
     [ "spell_assembly_rune_of_summoning_aura", "d0/d5d/classspell__assembly__rune__of__summoning__aura.html", "d0/d5d/classspell__assembly__rune__of__summoning__aura" ],
@@ -89,5 +85,5 @@ var boss__assembly__of__iron_8cpp =
     [ "AddSC_boss_assembly_of_iron", "d9/d88/boss__assembly__of__iron_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32", null ],
     [ "IsEncounterComplete", "d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee", null ],
     [ "RespawnAssemblyOfIron", "d9/d88/boss__assembly__of__iron_8cpp.html#a17a6a60c682f5ce1ebc97521a02b1f22", null ],
-    [ "RestoreAssemblyHealth", "d9/d88/boss__assembly__of__iron_8cpp.html#a14b85df27dd556f921af626d492329e6", null ]
+    [ "RestoreAssemblyHealth", "d9/d88/boss__assembly__of__iron_8cpp.html#a2afb8a2c08b65be84a9ffeca28a7044a", null ]
 ];

@@ -23,7 +23,8 @@ var obsidian__sanctum_8h =
     ] ],
     [ "OSActions", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5d", [
       [ "ACTION_CLEAR_PORTAL", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a", null ],
-      [ "ACTION_ADD_PORTAL", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330", null ]
+      [ "ACTION_ADD_PORTAL", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330", null ],
+      [ "ACTION_START_PATROL", "d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6", null ]
     ] ],
     [ "GetObsidianSanctumAI", "d7/dd5/obsidian__sanctum_8h.html#a41a84ac02fb0e518d6e584dd2acbb8aa", null ]
 ];

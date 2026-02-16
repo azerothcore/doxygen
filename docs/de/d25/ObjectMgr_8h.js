@@ -49,6 +49,7 @@ var ObjectMgr_8h =
     [ "DungeonEncounterList", "de/d25/ObjectMgr_8h.html#aebea323597e23bf0f45fd9c0c6bd78f5", null ],
     [ "GameObjectDataContainer", "de/d25/ObjectMgr_8h.html#a628c13edbfd025ca095cdd76a505bcc3", null ],
     [ "GameObjectLocaleContainer", "de/d25/ObjectMgr_8h.html#a79f769faed22997f79f7055b5e18ad79", null ],
+    [ "GameObjectSummonDataContainer", "de/d25/ObjectMgr_8h.html#a37b774e53ac2785c57605c75cf6885cb", null ],
     [ "GameTeleContainer", "de/d25/ObjectMgr_8h.html#a9d25d1959be9fbaf72fc1fc7cfa20151", null ],
     [ "GossipMenuItemsContainer", "de/d25/ObjectMgr_8h.html#abd7b43bff723d850581347f6ad219738", null ],
     [ "GossipMenuItemsLocaleContainer", "de/d25/ObjectMgr_8h.html#a7de563aff0ffdb74b3df49977432df21", null ],

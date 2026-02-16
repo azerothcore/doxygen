@@ -314,19 +314,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1274</span>    {</div>
-<div class="line"><span class="lineno"> 1275</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> chance = 0;</div>
-<div class="line"><span class="lineno"> 1276</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* aurEff = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAuraEffect(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2">SPELL_PRY_JAWS_OPEN</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
-<div class="line"><span class="lineno"> 1277</span>            chance = aurEff-&gt;GetAmount();</div>
-<div class="line"><span class="lineno"> 1278</span> </div>
-<div class="line"><span class="lineno"> 1279</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(chance))</div>
-<div class="line"><span class="lineno"> 1280</span>        {</div>
-<div class="line"><span class="lineno"> 1281</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea6c23355bcfc540ff925293707e8464f8">ACTION_FATAL_STRIKE_MISS</a>);</div>
-<div class="line"><span class="lineno"> 1282</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1283</span>        }</div>
-<div class="line"><span class="lineno"> 1284</span> </div>
-<div class="line"><span class="lineno"> 1285</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<span class="keyword">static_cast&lt;</span><a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*<span class="keyword">&gt;</span>(<span class="keyword">nullptr</span>), <a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230">SPELL_FATAL_STRIKE_DAMAGE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1286</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1281</span>    {</div>
+<div class="line"><span class="lineno"> 1282</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> chance = 0;</div>
+<div class="line"><span class="lineno"> 1283</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* aurEff = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAuraEffect(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2">SPELL_PRY_JAWS_OPEN</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
+<div class="line"><span class="lineno"> 1284</span>            chance = aurEff-&gt;GetAmount();</div>
+<div class="line"><span class="lineno"> 1285</span> </div>
+<div class="line"><span class="lineno"> 1286</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(chance))</div>
+<div class="line"><span class="lineno"> 1287</span>        {</div>
+<div class="line"><span class="lineno"> 1288</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a165d336cb3423f9665ed612d2dec76ed">DoAction</a>(<a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea6c23355bcfc540ff925293707e8464f8">ACTION_FATAL_STRIKE_MISS</a>);</div>
+<div class="line"><span class="lineno"> 1289</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1290</span>        }</div>
+<div class="line"><span class="lineno"> 1291</span> </div>
+<div class="line"><span class="lineno"> 1292</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<span class="keyword">static_cast&lt;</span><a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*<span class="keyword">&gt;</span>(<span class="keyword">nullptr</span>), <a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230">SPELL_FATAL_STRIKE_DAMAGE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1293</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aRandom_8h_html_a50320d4edff86db31b25138ae72161ad"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a></div><div class="ttdeci">bool roll_chance_i(int chance)</div><div class="ttdef"><b>Definition</b> Random.h:63</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
@@ -336,13 +336,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
 <div class="ttc" id="aclassUnit_html_ac53944779fa1544c06a3fc3dc74f5294"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">Unit::GetAI</a></div><div class="ttdeci">UnitAI * GetAI()</div><div class="ttdef"><b>Definition</b> Unit.h:683</div></div>
-<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdea6c23355bcfc540ff925293707e8464f8"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea6c23355bcfc540ff925293707e8464f8">ACTION_FATAL_STRIKE_MISS</a></div><div class="ttdeci">@ ACTION_FATAL_STRIKE_MISS</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:881</div></div>
-<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2">SPELL_PRY_JAWS_OPEN</a></div><div class="ttdeci">@ SPELL_PRY_JAWS_OPEN</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:860</div></div>
-<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230">SPELL_FATAL_STRIKE_DAMAGE</a></div><div class="ttdeci">@ SPELL_FATAL_STRIKE_DAMAGE</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:862</div></div>
+<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdea6c23355bcfc540ff925293707e8464f8"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea6c23355bcfc540ff925293707e8464f8">ACTION_FATAL_STRIKE_MISS</a></div><div class="ttdeci">@ ACTION_FATAL_STRIKE_MISS</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:888</div></div>
+<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdead685cfc89c277ad5fce5c6943abf5cf2">SPELL_PRY_JAWS_OPEN</a></div><div class="ttdeci">@ SPELL_PRY_JAWS_OPEN</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:867</div></div>
+<div class="ttc" id="azone__storm__peaks_8cpp_html_a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230"><div class="ttname"><a href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230">SPELL_FATAL_STRIKE_DAMAGE</a></div><div class="ttdeci">@ SPELL_FATAL_STRIKE_DAMAGE</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:869</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00881">ACTION_FATAL_STRIKE_MISS</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00063">roll_chance_i()</a>, <a class="el" href="../../#l00862">SPELL_FATAL_STRIKE_DAMAGE</a>, and <a class="el" href="../../#l00860">SPELL_PRY_JAWS_OPEN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00888">ACTION_FATAL_STRIKE_MISS</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l00217">UnitAI::DoAction()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00063">roll_chance_i()</a>, <a class="el" href="../../#l00869">SPELL_FATAL_STRIKE_DAMAGE</a>, and <a class="el" href="../../#l00867">SPELL_PRY_JAWS_OPEN</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01288">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01295">Register()</a>.</p>
 
 </div>
 </div>
@@ -396,15 +396,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1289</span>    {</div>
-<div class="line"><span class="lineno"> 1290</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d31/classspell__fatal__strike.html#acdf98990ad575fec751a541cac3bcffa">spell_fatal_strike::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1291</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1296</span>    {</div>
+<div class="line"><span class="lineno"> 1297</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d31/classspell__fatal__strike.html#acdf98990ad575fec751a541cac3bcffa">spell_fatal_strike::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1298</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:792</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__fatal__strike_html_acdf98990ad575fec751a541cac3bcffa"><div class="ttname"><a href="../../de/d31/classspell__fatal__strike.html#acdf98990ad575fec751a541cac3bcffa">spell_fatal_strike::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1273</div></div>
+<div class="ttc" id="aclassspell__fatal__strike_html_acdf98990ad575fec751a541cac3bcffa"><div class="ttname"><a href="../../de/d31/classspell__fatal__strike.html#acdf98990ad575fec751a541cac3bcffa">spell_fatal_strike::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> zone_storm_peaks.cpp:1280</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01273">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01280">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -433,12 +433,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1269</span>    {</div>
-<div class="line"><span class="lineno"> 1270</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230">SPELL_FATAL_STRIKE_DAMAGE</a> });</div>
-<div class="line"><span class="lineno"> 1271</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1276</span>    {</div>
+<div class="line"><span class="lineno"> 1277</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdeafb74a758dfab3141d42d14b9b32ab230">SPELL_FATAL_STRIKE_DAMAGE</a> });</div>
+<div class="line"><span class="lineno"> 1278</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00862">SPELL_FATAL_STRIKE_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00869">SPELL_FATAL_STRIKE_DAMAGE</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -451,7 +451,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d31/classspell__fatal__strike.html">spell_fatal_strike</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:46:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

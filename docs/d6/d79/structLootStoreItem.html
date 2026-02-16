@@ -302,9 +302,9 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  376</span>    {</div>
 <div class="line"><span class="lineno">  377</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#a5a2fe7ae48508b88bbdfc70fc4035f31">needs_quest</a>)</div>
 <div class="line"><span class="lineno">  378</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table &#39;{}&#39; Entry {} Item {}: quest required will be ignored&quot;</span>, store.GetName(), entry, <a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#a5df1d4fde5f3358470bd16f7ad9154c1">itemid</a>);</div>
-<div class="line"><span class="lineno">  379</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#a20411103b449a9176b3bc665f909f06f">chance</a> == 0)                              <span class="comment">// no chance for the reference</span></div>
+<div class="line"><span class="lineno">  379</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#a20411103b449a9176b3bc665f909f06f">chance</a> == 0 &amp;&amp; <a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#abc6df381782d25490dff0e54bec63b3a">groupid</a> == 0)</div>
 <div class="line"><span class="lineno">  380</span>        {</div>
-<div class="line"><span class="lineno">  381</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table &#39;{}&#39; Entry {} Item {}: zero chance is specified for a reference, skipped&quot;</span>, store.GetName(), entry, <a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#a5df1d4fde5f3358470bd16f7ad9154c1">itemid</a>);</div>
+<div class="line"><span class="lineno">  381</span>            <a class="code hl_define" href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Table &#39;{}&#39; Entry {} Item {}: zero chance is specified for an ungrouped reference, skipped&quot;</span>, store.GetName(), entry, <a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#a5df1d4fde5f3358470bd16f7ad9154c1">itemid</a>);</div>
 <div class="line"><span class="lineno">  382</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  383</span>        }</div>
 <div class="line"><span class="lineno">  384</span>    }</div>
@@ -312,10 +312,10 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  386</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aLog_8h_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:158</div></div>
-<div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1686</div></div>
+<div class="ttc" id="aObjectMgr_8h_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../de/d25/ObjectMgr_8h.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition</b> ObjectMgr.h:1699</div></div>
 <div class="ttc" id="astructItemTemplate_html"><div class="ttname"><a href="../../d4/d69/structItemTemplate.html">ItemTemplate</a></div><div class="ttdef"><b>Definition</b> ItemTemplate.h:619</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">chance</a>, <a class="el" href="../../#l00231">LootStore::GetName()</a>, <a class="el" href="../../#l00134">groupid</a>, <a class="el" href="../../#l00129">itemid</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00136">maxcount</a>, <a class="el" href="../../#l00135">mincount</a>, <a class="el" href="../../#l00132">needs_quest</a>, <a class="el" href="../../#l00130">reference</a>, and <a class="el" href="../../#l01686">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">chance</a>, <a class="el" href="../../#l00231">LootStore::GetName()</a>, <a class="el" href="../../#l00134">groupid</a>, <a class="el" href="../../#l00129">itemid</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00136">maxcount</a>, <a class="el" href="../../#l00135">mincount</a>, <a class="el" href="../../#l00132">needs_quest</a>, <a class="el" href="../../#l00130">reference</a>, and <a class="el" href="../../#l01699">sObjectMgr</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00143">LootStore::LoadLootTable()</a>.</p>
 
@@ -379,7 +379,7 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  330</span>}</div>
 <div class="ttc" id="aLootMgr_8cpp_html_aaa3aa72e5700e28104b67a1f347c64c7"><div class="ttname"><a href="../../d8/d03/LootMgr_8cpp.html#aaa3aa72e5700e28104b67a1f347c64c7">qualityToRate</a></div><div class="ttdeci">ServerConfigs const qualityToRate[]</div><div class="ttdef"><b>Definition</b> LootMgr.cpp:33</div></div>
 <div class="ttc" id="aRandom_8h_html_a4b15099bc81731469c5078a778673c94"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a></div><div class="ttdeci">bool roll_chance_f(float chance)</div><div class="ttdef"><b>Definition</b> Random.h:57</div></div>
-<div class="ttc" id="aScriptMgr_8h_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:719</div></div>
+<div class="ttc" id="aScriptMgr_8h_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:725</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a7263b8afa7134894f236b37cc146d021a6cdde8294427dd2821daae1215052e39"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a7263b8afa7134894f236b37cc146d021a6cdde8294427dd2821daae1215052e39">ITEM_QUALITY_HEIRLOOM</a></div><div class="ttdeci">@ ITEM_QUALITY_HEIRLOOM</div><div class="ttdef"><b>Definition</b> SharedDefines.h:347</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a78d75a41dcdfad082ca6d1565e088e8d"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a78d75a41dcdfad082ca6d1565e088e8d">RATE_DROP_ITEM_REFERENCED</a></div><div class="ttdeci">@ RATE_DROP_ITEM_REFERENCED</div><div class="ttdef"><b>Definition</b> WorldConfig.h:406</div></div>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:316</div></div>
@@ -387,7 +387,7 @@ Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00131">chance</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01699">LootTemplate::Process()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01697">LootTemplate::Process()</a>.</p>
 
 </div>
 </div>
@@ -420,7 +420,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01429">LootTemplate::LootGroup::CopyConditions()</a>, <a class="el" href="../../#l01594">LootTemplate::CopyConditions()</a>, and <a class="el" href="../../#l00393">LootItem::LootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01429">LootTemplate::LootGroup::CopyConditions()</a>, <a class="el" href="../../#l01592">LootTemplate::CopyConditions()</a>, and <a class="el" href="../../#l00393">LootItem::LootItem()</a>.</p>
 
 </div>
 </div>
@@ -436,7 +436,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01562">LootTemplate::AddEntry()</a>, <a class="el" href="../../#l01330">LootTemplate::LootGroup::HasQuestDrop()</a>, <a class="el" href="../../#l01771">LootTemplate::HasQuestDrop()</a>, <a class="el" href="../../#l01816">LootTemplate::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l01380">LootTemplate::LootGroup::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l00333">IsValid()</a>, <a class="el" href="../../#l00393">LootItem::LootItem()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, and <a class="el" href="../../#l01699">LootTemplate::Process()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01562">LootTemplate::AddEntry()</a>, <a class="el" href="../../#l00333">IsValid()</a>, <a class="el" href="../../#l00393">LootItem::LootItem()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, and <a class="el" href="../../#l01697">LootTemplate::Process()</a>.</p>
 
 </div>
 </div>
@@ -452,7 +452,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01871">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l01594">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l01816">LootTemplate::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l01380">LootTemplate::LootGroup::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l00333">IsValid()</a>, <a class="el" href="../../#l00393">LootItem::LootItem()</a>, and <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01847">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l01592">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l01803">LootTemplate::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l01380">LootTemplate::LootGroup::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l00333">IsValid()</a>, <a class="el" href="../../#l00393">LootItem::LootItem()</a>, and <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>.</p>
 
 </div>
 </div>
@@ -468,7 +468,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, and <a class="el" href="../../#l01699">LootTemplate::Process()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, and <a class="el" href="../../#l01697">LootTemplate::Process()</a>.</p>
 
 </div>
 </div>
@@ -484,7 +484,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01871">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l00333">IsValid()</a>, and <a class="el" href="../../#l01699">LootTemplate::Process()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01847">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l00333">IsValid()</a>, and <a class="el" href="../../#l01697">LootTemplate::Process()</a>.</p>
 
 </div>
 </div>
@@ -500,7 +500,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01871">LootTemplate::CheckLootRefs()</a>, and <a class="el" href="../../#l00333">IsValid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01847">LootTemplate::CheckLootRefs()</a>, and <a class="el" href="../../#l00333">IsValid()</a>.</p>
 
 </div>
 </div>
@@ -516,7 +516,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01330">LootTemplate::LootGroup::HasQuestDrop()</a>, <a class="el" href="../../#l01771">LootTemplate::HasQuestDrop()</a>, <a class="el" href="../../#l00333">IsValid()</a>, and <a class="el" href="../../#l00393">LootItem::LootItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l01330">LootTemplate::LootGroup::HasQuestDrop()</a>, <a class="el" href="../../#l01769">LootTemplate::HasQuestDrop()</a>, <a class="el" href="../../#l00333">IsValid()</a>, and <a class="el" href="../../#l00393">LootItem::LootItem()</a>.</p>
 
 </div>
 </div>
@@ -532,7 +532,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01562">LootTemplate::AddEntry()</a>, <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01871">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l01594">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l01330">LootTemplate::LootGroup::HasQuestDrop()</a>, <a class="el" href="../../#l01771">LootTemplate::HasQuestDrop()</a>, <a class="el" href="../../#l01816">LootTemplate::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l01380">LootTemplate::LootGroup::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l00333">IsValid()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, and <a class="el" href="../../#l01699">LootTemplate::Process()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01511">LootTemplate::LootGroup::CheckLootRefs()</a>, <a class="el" href="../../#l01847">LootTemplate::CheckLootRefs()</a>, <a class="el" href="../../#l01592">LootTemplate::CopyConditions()</a>, <a class="el" href="../../#l01330">LootTemplate::LootGroup::HasQuestDrop()</a>, <a class="el" href="../../#l01769">LootTemplate::HasQuestDrop()</a>, <a class="el" href="../../#l01803">LootTemplate::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l01380">LootTemplate::LootGroup::HasQuestDropForPlayer()</a>, <a class="el" href="../../#l00333">IsValid()</a>, <a class="el" href="../../#l00063">LootGroupInvalidSelector::operator()()</a>, and <a class="el" href="../../#l01697">LootTemplate::Process()</a>.</p>
 
 </div>
 </div>
@@ -546,7 +546,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d79/structLootStoreItem.html">LootStoreItem</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:45:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

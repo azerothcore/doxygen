@@ -425,7 +425,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">EqualChanced</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01893">LootTemplate::addConditionItem()</a>, and <a class="el" href="../../#l01594">LootTemplate::CopyConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01869">LootTemplate::addConditionItem()</a>, and <a class="el" href="../../#l01592">LootTemplate::CopyConditions()</a>.</p>
 
 </div>
 </div>
@@ -455,7 +455,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00115">ExplicitlyChanced</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01893">LootTemplate::addConditionItem()</a>, and <a class="el" href="../../#l01594">LootTemplate::CopyConditions()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01869">LootTemplate::addConditionItem()</a>, and <a class="el" href="../../#l01592">LootTemplate::CopyConditions()</a>.</p>
 
 </div>
 </div>
@@ -486,7 +486,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1340</span>                <span class="keywordflow">continue</span>; <span class="comment">// Error message [should be] already printed at loading stage</span></div>
 <div class="line"><span class="lineno"> 1341</span>            }</div>
 <div class="line"><span class="lineno"> 1342</span> </div>
-<div class="line"><span class="lineno"> 1343</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDrop(store, item-&gt;<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#abc6df381782d25490dff0e54bec63b3a">groupid</a>))</div>
+<div class="line"><span class="lineno"> 1343</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDrop(store))</div>
 <div class="line"><span class="lineno"> 1344</span>            {</div>
 <div class="line"><span class="lineno"> 1345</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1346</span>            }</div>
@@ -508,7 +508,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1362</span>                <span class="keywordflow">continue</span>; <span class="comment">// Error message [should be] already printed at loading stage</span></div>
 <div class="line"><span class="lineno"> 1363</span>            }</div>
 <div class="line"><span class="lineno"> 1364</span> </div>
-<div class="line"><span class="lineno"> 1365</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDrop(store, item-&gt;<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#abc6df381782d25490dff0e54bec63b3a">groupid</a>))</div>
+<div class="line"><span class="lineno"> 1365</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDrop(store))</div>
 <div class="line"><span class="lineno"> 1366</span>            {</div>
 <div class="line"><span class="lineno"> 1367</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1368</span>            }</div>
@@ -522,9 +522,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1376</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1377</span>}</div>
 <div class="ttc" id="astructLootStoreItem_html_a5a2fe7ae48508b88bbdfc70fc4035f31"><div class="ttname"><a href="../../d6/d79/structLootStoreItem.html#a5a2fe7ae48508b88bbdfc70fc4035f31">LootStoreItem::needs_quest</a></div><div class="ttdeci">bool needs_quest</div><div class="ttdef"><b>Definition</b> LootMgr.h:132</div></div>
-<div class="ttc" id="astructLootStoreItem_html_abc6df381782d25490dff0e54bec63b3a"><div class="ttname"><a href="../../d6/d79/structLootStoreItem.html#abc6df381782d25490dff0e54bec63b3a">LootStoreItem::groupid</a></div><div class="ttdeci">uint8 groupid</div><div class="ttdef"><b>Definition</b> LootMgr.h:134</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00134">LootStoreItem::groupid</a>, <a class="el" href="../../#l00132">LootStoreItem::needs_quest</a>, and <a class="el" href="../../#l00130">LootStoreItem::reference</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00132">LootStoreItem::needs_quest</a>, and <a class="el" href="../../#l00130">LootStoreItem::reference</a>.</p>
 
 </div>
 </div>
@@ -565,7 +564,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1390</span>                <span class="keywordflow">continue</span>;                                   <span class="comment">// Error message already printed at loading stage</span></div>
 <div class="line"><span class="lineno"> 1391</span>            }</div>
 <div class="line"><span class="lineno"> 1392</span> </div>
-<div class="line"><span class="lineno"> 1393</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDropForPlayer(store, player, item-&gt;<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#abc6df381782d25490dff0e54bec63b3a">groupid</a>))</div>
+<div class="line"><span class="lineno"> 1393</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDropForPlayer(store, player))</div>
 <div class="line"><span class="lineno"> 1394</span>            {</div>
 <div class="line"><span class="lineno"> 1395</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1396</span>            }</div>
@@ -587,7 +586,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1412</span>                <span class="keywordflow">continue</span>;                                   <span class="comment">// Error message already printed at loading stage</span></div>
 <div class="line"><span class="lineno"> 1413</span>            }</div>
 <div class="line"><span class="lineno"> 1414</span> </div>
-<div class="line"><span class="lineno"> 1415</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDropForPlayer(store, player, item-&gt;<a class="code hl_variable" href="../../d6/d79/structLootStoreItem.html#abc6df381782d25490dff0e54bec63b3a">groupid</a>))</div>
+<div class="line"><span class="lineno"> 1415</span>            <span class="keywordflow">if</span> (Referenced-&gt;second-&gt;HasQuestDropForPlayer(store, player))</div>
 <div class="line"><span class="lineno"> 1416</span>            {</div>
 <div class="line"><span class="lineno"> 1417</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1418</span>            }</div>
@@ -601,7 +600,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1426</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1427</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00134">LootStoreItem::groupid</a>, <a class="el" href="../../#l02296">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00129">LootStoreItem::itemid</a>, and <a class="el" href="../../#l00130">LootStoreItem::reference</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02296">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00129">LootStoreItem::itemid</a>, and <a class="el" href="../../#l00130">LootStoreItem::reference</a>.</p>
 
 </div>
 </div>
@@ -688,7 +687,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1451</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> loop = 0; loop &lt; maxcount; ++loop) <span class="comment">// Ref multiplicator</span></div>
 <div class="line"><span class="lineno"> 1452</span>                    <span class="comment">// This reference needs to be processed further, but it is marked isTopLevel=false so that any groups inside</span></div>
 <div class="line"><span class="lineno"> 1453</span>                    <span class="comment">// the reference are not multiplied by Rate.Drop.Item.GroupAmount</span></div>
-<div class="line"><span class="lineno"> 1454</span>                    Referenced-&gt;Process(loot, store, lootMode, player, item-&gt;groupid, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1454</span>                    Referenced-&gt;Process(loot, store, lootMode, player, 0, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno"> 1455</span>            }</div>
 <div class="line"><span class="lineno"> 1456</span>        }</div>
 <div class="line"><span class="lineno"> 1457</span>        <span class="keywordflow">else</span></div>
@@ -708,7 +707,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1471</span>    }</div>
 <div class="line"><span class="lineno"> 1472</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
-<div class="ttc" id="aScriptMgr_8h_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:719</div></div>
+<div class="ttc" id="aScriptMgr_8h_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:725</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a198425b95cf4d6d365b9c9029ced406d"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a198425b95cf4d6d365b9c9029ced406d">RATE_DROP_ITEM_REFERENCED_AMOUNT</a></div><div class="ttdeci">@ RATE_DROP_ITEM_REFERENCED_AMOUNT</div><div class="ttdef"><b>Definition</b> WorldConfig.h:407</div></div>
 <div class="ttc" id="aclassLootTemplate_1_1LootGroup_html_a0f9d7b304045ed812b6203376dc442db"><div class="ttname"><a href="../../de/d92/classLootTemplate_1_1LootGroup.html#a0f9d7b304045ed812b6203376dc442db">LootTemplate::LootGroup::Process</a></div><div class="ttdeci">void Process(Loot &amp;loot, Player const *player, LootStore const &amp;lootstore, uint16 lootMode, uint16 nonRefIterationsLeft) const</div><div class="ttdef"><b>Definition</b> LootMgr.cpp:1439</div></div>
 <div class="ttc" id="aclassLootTemplate_html"><div class="ttname"><a href="../../db/d14/classLootTemplate.html">LootTemplate</a></div><div class="ttdef"><b>Definition</b> LootMgr.h:245</div></div>
@@ -716,7 +715,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:316</div></div>
 <div class="ttc" id="astructLoot_html_a5ff6dfc6c4a7e9f00386eb68339c00cb"><div class="ttname"><a href="../../d8/d62/structLoot.html#a5ff6dfc6c4a7e9f00386eb68339c00cb">Loot::AddItem</a></div><div class="ttdeci">void AddItem(LootStoreItem const &amp;item)</div><div class="ttdef"><b>Definition</b> LootMgr.cpp:512</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l00247">LootStore::GetLootFor()</a>, <a class="el" href="../../#l00233">LootStore::IsRatesAllowed()</a>, <a class="el" href="../../d9/d84/LootMgr_8h.html#a2d34d3171cf6ee7b6e118d5b12be319e">LootTemplates_Reference</a>, <a class="el" href="../../#l01699">LootTemplate::Process()</a>, <a class="el" href="../../#l00407">RATE_DROP_ITEM_REFERENCED_AMOUNT</a>, <a class="el" href="../../#l00719">sScriptMgr</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00512">Loot::AddItem()</a>, <a class="el" href="../../#l00247">LootStore::GetLootFor()</a>, <a class="el" href="../../#l00233">LootStore::IsRatesAllowed()</a>, <a class="el" href="../../d9/d84/LootMgr_8h.html#a2d34d3171cf6ee7b6e118d5b12be319e">LootTemplates_Reference</a>, <a class="el" href="../../#l01697">LootTemplate::Process()</a>, <a class="el" href="../../#l00407">RATE_DROP_ITEM_REFERENCED_AMOUNT</a>, <a class="el" href="../../#l00725">sScriptMgr</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
 
 </div>
 </div>
@@ -831,7 +830,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a8ca673d18562735d4ed20a11519b3d46"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a></div><div class="ttdeci">auto SelectRandomContainerElement(C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</div><div class="ttdef"><b>Definition</b> Containers.h:133</div></div>
 <div class="ttc" id="astructLootGroupInvalidSelector_html"><div class="ttname"><a href="../../db/ded/structLootGroupInvalidSelector.html">LootGroupInvalidSelector</a></div><div class="ttdef"><b>Definition</b> LootMgr.cpp:60</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">LootStoreItem::chance</a>, <a class="el" href="../../#l00091">rand_chance()</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, and <a class="el" href="../../#l00719">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">LootStoreItem::chance</a>, <a class="el" href="../../#l00091">rand_chance()</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, and <a class="el" href="../../#l00725">sScriptMgr</a>.</p>
 
 </div>
 </div>
@@ -969,7 +968,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d14/classLootTemplate.html">LootTemplate</a></li><li class="navelem"><a class="el" href="../../de/d92/classLootTemplate_1_1LootGroup.html">LootGroup</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:45:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

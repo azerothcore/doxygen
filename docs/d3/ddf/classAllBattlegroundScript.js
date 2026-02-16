@@ -1,8 +1,10 @@
 var classAllBattlegroundScript =
 [
     [ "AllBattlegroundScript", "d3/ddf/classAllBattlegroundScript.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03", null ],
+    [ "CanAddGroupToMatchingPool", "d3/ddf/classAllBattlegroundScript.html#abc41913ad3720d0dcd6d04da2588c7e5", null ],
     [ "CanFillPlayersToBG", "d3/ddf/classAllBattlegroundScript.html#a3c70c7c71f2b941cf42607806ea19874", null ],
     [ "CanSendMessageBGQueue", "d3/ddf/classAllBattlegroundScript.html#a1407ab7e2b4630ec8def2f7e6e532831", null ],
+    [ "GetPlayerMatchmakingRating", "d3/ddf/classAllBattlegroundScript.html#af4db50326e855d8fcfd9cbf2f216b934", null ],
     [ "IsCheckNormalMatch", "d3/ddf/classAllBattlegroundScript.html#a638cd6beb9edf2c538f4ac079560a07c", null ],
     [ "IsDatabaseBound", "d3/ddf/classAllBattlegroundScript.html#a91c57b646aae6467e06b4cc13b89cfb4", null ],
     [ "OnAddGroup", "d3/ddf/classAllBattlegroundScript.html#ae315ebbf606d85f59b6c0e6558283088", null ],

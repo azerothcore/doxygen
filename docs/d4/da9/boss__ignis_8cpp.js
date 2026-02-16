@@ -1,9 +1,7 @@
 var boss__ignis_8cpp =
 [
-    [ "npc_ulduar_iron_construct", "d8/d7f/classnpc__ulduar__iron__construct.html", "d8/d7f/classnpc__ulduar__iron__construct" ],
-    [ "npc_ulduar_iron_construct::npc_ulduar_iron_constructAI", "dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI.html", "dc/d78/structnpc__ulduar__iron__construct_1_1npc__ulduar__iron__constructAI" ],
-    [ "boss_ignis", "d4/d2a/classboss__ignis.html", "d4/d2a/classboss__ignis" ],
-    [ "boss_ignis::boss_ignisAI", "d9/d44/structboss__ignis_1_1boss__ignisAI.html", "d9/d44/structboss__ignis_1_1boss__ignisAI" ],
+    [ "npc_ulduar_iron_construct", "d0/d1c/structnpc__ulduar__iron__construct.html", "d0/d1c/structnpc__ulduar__iron__construct" ],
+    [ "boss_ignis", "d0/d34/structboss__ignis.html", "d0/d34/structboss__ignis" ],
     [ "spell_ignis_scorch_aura", "d1/d68/classspell__ignis__scorch__aura.html", "d1/d68/classspell__ignis__scorch__aura" ],
     [ "spell_ignis_grab_initial", "d5/d26/classspell__ignis__grab__initial.html", "d5/d26/classspell__ignis__grab__initial" ],
     [ "spell_ignis_slag_pot_aura", "d3/d00/classspell__ignis__slag__pot__aura.html", "d3/d00/classspell__ignis__slag__pot__aura" ],
@@ -18,7 +16,6 @@ var boss__ignis_8cpp =
       [ "EVENT_GRAB", "d4/da9/boss__ignis_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a765477b6f9225f44130dfa8740068745", null ]
     ] ],
     [ "IgnisNPCs", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863", [
-      [ "BOSS_IGNIS", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863a126c5ec496a2450c64ac21a3cf91b4dd", null ],
       [ "NPC_IRON_CONSTRUCT", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863a645d35b362a31973178f8706e1ef6ed9", null ],
       [ "NPC_SCORCHED_GROUND", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863afe7c200d176ee6ae3e9006cfef7695a9", null ],
       [ "NPC_WATER_TRIGGER", "d4/da9/boss__ignis_8cpp.html#af3b171aed7bf00d3a0c4475f0ca71863a81e34aaa8fd00474bd338c04094de157", null ]

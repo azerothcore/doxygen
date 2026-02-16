@@ -1,11 +1,8 @@
 var boss__general__vezax_8cpp =
 [
-    [ "boss_vezax", "d9/d45/classboss__vezax.html", "d9/d45/classboss__vezax" ],
-    [ "boss_vezax::boss_vezaxAI", "d3/d5f/structboss__vezax_1_1boss__vezaxAI.html", "d3/d5f/structboss__vezax_1_1boss__vezaxAI" ],
-    [ "npc_ulduar_saronite_vapors", "da/d57/classnpc__ulduar__saronite__vapors.html", "da/d57/classnpc__ulduar__saronite__vapors" ],
-    [ "npc_ulduar_saronite_vapors::npc_ulduar_saronite_vaporsAI", "d4/d34/structnpc__ulduar__saronite__vapors_1_1npc__ulduar__saronite__vaporsAI.html", "d4/d34/structnpc__ulduar__saronite__vapors_1_1npc__ulduar__saronite__vaporsAI" ],
-    [ "npc_ulduar_saronite_animus", "d7/d0c/classnpc__ulduar__saronite__animus.html", "d7/d0c/classnpc__ulduar__saronite__animus" ],
-    [ "npc_ulduar_saronite_animus::npc_ulduar_saronite_animusAI", "d3/dfd/structnpc__ulduar__saronite__animus_1_1npc__ulduar__saronite__animusAI.html", "d3/dfd/structnpc__ulduar__saronite__animus_1_1npc__ulduar__saronite__animusAI" ],
+    [ "boss_vezax", "db/d5c/structboss__vezax.html", "db/d5c/structboss__vezax" ],
+    [ "npc_ulduar_saronite_vapors", "d8/ddc/structnpc__ulduar__saronite__vapors.html", "d8/ddc/structnpc__ulduar__saronite__vapors" ],
+    [ "npc_ulduar_saronite_animus", "d8/df6/structnpc__ulduar__saronite__animus.html", "d8/df6/structnpc__ulduar__saronite__animus" ],
     [ "spell_aura_of_despair_aura", "d9/dee/classspell__aura__of__despair__aura.html", "d9/dee/classspell__aura__of__despair__aura" ],
     [ "spell_mark_of_the_faceless_periodic_aura", "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html", "d1/dac/classspell__mark__of__the__faceless__periodic__aura" ],
     [ "spell_mark_of_the_faceless_drainhealth", "d8/d49/classspell__mark__of__the__faceless__drainhealth.html", "d8/d49/classspell__mark__of__the__faceless__drainhealth" ],
@@ -13,7 +10,6 @@ var boss__general__vezax_8cpp =
     [ "spell_saronite_vapors_damage", "de/dd4/classspell__saronite__vapors__damage.html", "de/dd4/classspell__saronite__vapors__damage" ],
     [ "achievement_smell_saronite", "df/d77/classachievement__smell__saronite.html", "df/d77/classachievement__smell__saronite" ],
     [ "achievement_shadowdodger", "df/dd3/classachievement__shadowdodger.html", "df/dd3/classachievement__shadowdodger" ],
-    [ "go_ulduar_pure_saronite_deposit", "d2/dba/classgo__ulduar__pure__saronite__deposit.html", "d2/dba/classgo__ulduar__pure__saronite__deposit" ],
     [ "VaporsText", "d8/d93/boss__general__vezax_8cpp.html#a108c2a2d27e6ae9f94af4a209440d93e", [
       [ "SAY_EMOTE_VAPORS", "d8/d93/boss__general__vezax_8cpp.html#a108c2a2d27e6ae9f94af4a209440d93eac51fb1605f030790acd10ceedb8aa954", null ]
     ] ],

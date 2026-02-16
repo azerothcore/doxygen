@@ -90,6 +90,7 @@ var structSmartAction =
     [ "forceRespawnTimer", "dd/d27/structSmartAction.html#a949636fbd092ac7258be4a5ad20edbbf", null ],
     [ "gameEventStart", "dd/d27/structSmartAction.html#a7fca848a68773f187e9d57aa8341cfe8", null ],
     [ "gameEventStop", "dd/d27/structSmartAction.html#a6e8178d56eb608b66f0b5e02e6dd4433", null ],
+    [ "gameobjectGroup", "dd/d27/structSmartAction.html#a7af2a40cf8f7aff1a2c8659a018fe36b", null ],
     [ "goFlag", "dd/d27/structSmartAction.html#a6c611ab6bd84b0d32570aa765068c03b", null ],
     [ "goRespawnTime", "dd/d27/structSmartAction.html#ae66f72f76d44df779bf1af768f409716", null ],
     [ "gossipMenuId", "dd/d27/structSmartAction.html#aaf1c7fcbb977860e504179d0a48a82ef", null ],

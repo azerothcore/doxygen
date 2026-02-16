@@ -324,10 +324,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1232</span>    {</div>
-<div class="line"><span class="lineno"> 1233</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 1234</span>        <a class="code hl_function" href="../../df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;CountPctFromMaxHealth(1), <span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1a4d37f6fc3002a603384fa9e9d9368d35">NODAMAGE</a>);</div>
-<div class="line"><span class="lineno"> 1235</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1177</span>    {</div>
+<div class="line"><span class="lineno"> 1178</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 1179</span>        <a class="code hl_function" href="../../df/dd9/classUnit.html#afe2cdf561288531d745b6a3eb7182a98">Unit::DealDamage</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;CountPctFromMaxHealth(1), <span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1a4d37f6fc3002a603384fa9e9d9368d35">NODAMAGE</a>);</div>
+<div class="line"><span class="lineno"> 1180</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_ab0b8a9de485ea928c497ac0b5f9040b1a4d37f6fc3002a603384fa9e9d9368d35"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#ab0b8a9de485ea928c497ac0b5f9040b1a4d37f6fc3002a603384fa9e9d9368d35">NODAMAGE</a></div><div class="ttdeci">@ NODAMAGE</div><div class="ttdef"><b>Definition</b> Unit.h:259</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:985</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1165</div></div>
@@ -335,7 +335,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00824">Unit::DealDamage()</a>, <a class="el" href="../../#l01165">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00259">NODAMAGE</a>, and <a class="el" href="../../#l00985">AuraScript::PreventDefaultAction()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01237">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01182">Register()</a>.</p>
 
 </div>
 </div>
@@ -389,16 +389,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1238</span>    {</div>
-<div class="line"><span class="lineno"> 1239</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d5/db5/classspell__algalon__collapse__aura.html#a0a77c0b232e24e5cb8b3392ac8adbd3a">spell_algalon_collapse_aura::HandlePeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1240</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1183</span>    {</div>
+<div class="line"><span class="lineno"> 1184</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d5/db5/classspell__algalon__collapse__aura.html#a0a77c0b232e24e5cb8b3392ac8adbd3a">spell_algalon_collapse_aura::HandlePeriodic</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1185</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:759</div></div>
-<div class="ttc" id="aclassspell__algalon__collapse__aura_html_a0a77c0b232e24e5cb8b3392ac8adbd3a"><div class="ttname"><a href="../../d5/db5/classspell__algalon__collapse__aura.html#a0a77c0b232e24e5cb8b3392ac8adbd3a">spell_algalon_collapse_aura::HandlePeriodic</a></div><div class="ttdeci">void HandlePeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> boss_algalon_the_observer.cpp:1231</div></div>
+<div class="ttc" id="aclassspell__algalon__collapse__aura_html_a0a77c0b232e24e5cb8b3392ac8adbd3a"><div class="ttname"><a href="../../d5/db5/classspell__algalon__collapse__aura.html#a0a77c0b232e24e5cb8b3392ac8adbd3a">spell_algalon_collapse_aura::HandlePeriodic</a></div><div class="ttdeci">void HandlePeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition</b> boss_algalon_the_observer.cpp:1176</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01231">HandlePeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00760">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01176">HandlePeriodic()</a>, <a class="el" href="../../#l00759">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -411,7 +411,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/db5/classspell__algalon__collapse__aura.html">spell_algalon_collapse_aura</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:46:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

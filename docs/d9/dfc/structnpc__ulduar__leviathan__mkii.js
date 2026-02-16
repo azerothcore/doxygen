@@ -1,0 +1,18 @@
+var structnpc__ulduar__leviathan__mkii =
+[
+    [ "npc_ulduar_leviathan_mkii", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#ac38c065bfdcd0496c3a7da58b1fcf833", null ],
+    [ "DamageTaken", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
+    [ "EnterEvadeMode", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a47ceec21f91030a1810392ecc0adafd2", null ],
+    [ "GetS3", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#aba4be715815acca2ace025002750277e", null ],
+    [ "KilledUnit", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a8f40ca6bd9515e6d645e6140f21adb06", null ],
+    [ "MoveInLineOfSight", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#abb2cbb6e0999fbd0eacba4c414458b8a", null ],
+    [ "PassengerBoarded", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a2ea5689299a108e729bde24de63e71aa", null ],
+    [ "Reset", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#afaa3072c296341693ef4803330a13929", null ],
+    [ "SetData", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
+    [ "SpellHit", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a790900963d9e073f4f8e4a0546721f52", null ],
+    [ "UpdateAI", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a79b9146be412e5862b47cd34073a2fd7", null ],
+    [ "bIsEvading", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a5ab6a4c7fa03325ce1ff0239ca1edea9", null ],
+    [ "events", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a00d34da081bec623539deaec859c6079", null ],
+    [ "instance", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a1756b869c05920f3b9d64931c036fdb7", null ],
+    [ "Phase", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a76f134acc3e0f40b3d8f5b88927140c4", null ]
+];

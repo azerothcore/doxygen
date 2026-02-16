@@ -456,7 +456,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  711</span>: <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  674</span>: <a class="code hl_class" href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a>(creature) { }</div>
 <div class="ttc" id="aclassNullCreatureAI_html"><div class="ttname"><a href="../../df/dc8/classNullCreatureAI.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition</b> PassiveAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
@@ -486,23 +486,23 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  714</span>    {</div>
-<div class="line"><span class="lineno">  715</span>        <a class="code hl_class" href="../../dc/da7/classRectangleBoundary.html">RectangleBoundary</a>* _boundaryXY = <span class="keyword">new</span> <a class="code hl_class" href="../../dc/da7/classRectangleBoundary.html">RectangleBoundary</a>(1782.0f, 1832.0f, -56.0f, 8.0f);</div>
-<div class="line"><span class="lineno">  716</span>        <a class="code hl_class" href="../../d2/da8/classZRangeBoundary.html">ZRangeBoundary</a>* _boundaryZ = <span class="keyword">new</span> <a class="code hl_class" href="../../d2/da8/classZRangeBoundary.html">ZRangeBoundary</a>(400.0f, 439.0f);</div>
-<div class="line"><span class="lineno">  717</span>        <a class="code hl_variable" href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6">_boundaryIntersect</a> = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d9d/classBoundaryIntersectBoundary.html">BoundaryIntersectBoundary</a>(_boundaryXY, _boundaryZ);</div>
-<div class="line"><span class="lineno">  718</span> </div>
-<div class="line"><span class="lineno">  719</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(0s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  720</span>        {</div>
-<div class="line"><span class="lineno">  721</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;DoForAllPlayers([&amp;](<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player)</div>
-<div class="line"><span class="lineno">  722</span>            {</div>
-<div class="line"><span class="lineno">  723</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6">_boundaryIntersect</a>-&gt;<a class="code hl_function" href="../../df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213">IsWithinBoundary</a>(player-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()) &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>())</div>
-<div class="line"><span class="lineno">  724</span>                {</div>
-<div class="line"><span class="lineno">  725</span>                    player-&gt;KillSelf(false);</div>
-<div class="line"><span class="lineno">  726</span>                }</div>
-<div class="line"><span class="lineno">  727</span>            });</div>
-<div class="line"><span class="lineno">  728</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(1s);</div>
-<div class="line"><span class="lineno">  729</span>        });</div>
-<div class="line"><span class="lineno">  730</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  677</span>    {</div>
+<div class="line"><span class="lineno">  678</span>        <a class="code hl_class" href="../../dc/da7/classRectangleBoundary.html">RectangleBoundary</a>* _boundaryXY = <span class="keyword">new</span> <a class="code hl_class" href="../../dc/da7/classRectangleBoundary.html">RectangleBoundary</a>(1782.0f, 1832.0f, -56.0f, 8.0f);</div>
+<div class="line"><span class="lineno">  679</span>        <a class="code hl_class" href="../../d2/da8/classZRangeBoundary.html">ZRangeBoundary</a>* _boundaryZ = <span class="keyword">new</span> <a class="code hl_class" href="../../d2/da8/classZRangeBoundary.html">ZRangeBoundary</a>(400.0f, 439.0f);</div>
+<div class="line"><span class="lineno">  680</span>        <a class="code hl_variable" href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6">_boundaryIntersect</a> = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d9d/classBoundaryIntersectBoundary.html">BoundaryIntersectBoundary</a>(_boundaryXY, _boundaryZ);</div>
+<div class="line"><span class="lineno">  681</span> </div>
+<div class="line"><span class="lineno">  682</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(0s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  683</span>        {</div>
+<div class="line"><span class="lineno">  684</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;DoForAllPlayers([&amp;](<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player)</div>
+<div class="line"><span class="lineno">  685</span>            {</div>
+<div class="line"><span class="lineno">  686</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6">_boundaryIntersect</a>-&gt;<a class="code hl_function" href="../../df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213">IsWithinBoundary</a>(player-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()) &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>())</div>
+<div class="line"><span class="lineno">  687</span>                {</div>
+<div class="line"><span class="lineno">  688</span>                    player-&gt;KillSelf(false);</div>
+<div class="line"><span class="lineno">  689</span>                }</div>
+<div class="line"><span class="lineno">  690</span>            });</div>
+<div class="line"><span class="lineno">  691</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(1s);</div>
+<div class="line"><span class="lineno">  692</span>        });</div>
+<div class="line"><span class="lineno">  693</span>    }</div>
 <div class="ttc" id="aclassAreaBoundary_html_a1d407f77ce0388263fc0ee6224734213"><div class="ttname"><a href="../../df/d56/classAreaBoundary.html#a1d407f77ce0388263fc0ee6224734213">AreaBoundary::IsWithinBoundary</a></div><div class="ttdeci">bool IsWithinBoundary(Position const *pos) const</div><div class="ttdef"><b>Definition</b> AreaBoundary.h:26</div></div>
 <div class="ttc" id="aclassBoundaryIntersectBoundary_html"><div class="ttname"><a href="../../d3/d9d/classBoundaryIntersectBoundary.html">BoundaryIntersectBoundary</a></div><div class="ttdef"><b>Definition</b> AreaBoundary.h:169</div></div>
 <div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:76</div></div>
@@ -516,9 +516,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:620</div></div>
 <div class="ttc" id="aclassZRangeBoundary_html"><div class="ttname"><a href="../../d2/da8/classZRangeBoundary.html">ZRangeBoundary</a></div><div class="ttdef"><b>Definition</b> AreaBoundary.h:143</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:126</div></div>
-<div class="ttc" id="astructboss__kologarn__pit__kill__bunny_html_abc0560637830e70d54ce1fb6b6881ca6"><div class="ttname"><a href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6">boss_kologarn_pit_kill_bunny::_boundaryIntersect</a></div><div class="ttdeci">BoundaryIntersectBoundary const  * _boundaryIntersect</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:737</div></div>
+<div class="ttc" id="astructboss__kologarn__pit__kill__bunny_html_abc0560637830e70d54ce1fb6b6881ca6"><div class="ttname"><a href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html#abc0560637830e70d54ce1fb6b6881ca6">boss_kologarn_pit_kill_bunny::_boundaryIntersect</a></div><div class="ttdeci">BoundaryIntersectBoundary const  * _boundaryIntersect</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:700</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00737">_boundaryIntersect</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l01175">Player::IsGameMaster()</a>, <a class="el" href="../../#l00026">AreaBoundary::IsWithinBoundary()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, and <a class="el" href="../../#l00076">CreatureAI::scheduler</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00700">_boundaryIntersect</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l01175">Player::IsGameMaster()</a>, <a class="el" href="../../#l00026">AreaBoundary::IsWithinBoundary()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, and <a class="el" href="../../#l00076">CreatureAI::scheduler</a>.</p>
 
 </div>
 </div>
@@ -549,9 +549,9 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Implements <a class="el" href="../../d0/ddd/classUnitAI.html#a7288294b38c6161ab1218d75fe622fc0">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  733</span>    {</div>
-<div class="line"><span class="lineno">  734</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  735</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  696</span>    {</div>
+<div class="line"><span class="lineno">  697</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  698</span>    }</div>
 <div class="ttc" id="aclassTaskScheduler_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition</b> TaskScheduler.cpp:27</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
@@ -579,7 +579,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00713">Reset()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00676">Reset()</a>.</p>
 
 </div>
 </div>
@@ -592,7 +592,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/dc4/structboss__kologarn__pit__kill__bunny.html">boss_kologarn_pit_kill_bunny</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:45:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

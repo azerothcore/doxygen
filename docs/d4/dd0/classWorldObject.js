@@ -171,6 +171,7 @@ var classWorldObject =
     [ "SummonCreature", "d4/dd0/classWorldObject.html#a473d569a85885b1ae007e45dac084637", null ],
     [ "SummonCreatureGroup", "d4/dd0/classWorldObject.html#ae68841f54778d8b6565ad29b94e985e6", null ],
     [ "SummonGameObject", "d4/dd0/classWorldObject.html#ae5570989260234d213323c44ab5fb44c", null ],
+    [ "SummonGameObjectGroup", "d4/dd0/classWorldObject.html#a71f2e8bb01fabf3d6e10460ff8fced42", null ],
     [ "SummonTrigger", "d4/dd0/classWorldObject.html#af2a7bec75fe10adb0deee0c6573e51ce", null ],
     [ "Update", "d4/dd0/classWorldObject.html#aee66b8dc1bb1ca0b7b91502a7fe2ff43", null ],
     [ "UpdateAllowedPositionZ", "d4/dd0/classWorldObject.html#a1789853fc4dad288f626d8ca60ee9e07", null ],

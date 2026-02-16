@@ -167,6 +167,8 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a">ACTION_CLEAR_PORTAL</a> = -1
 , <br />
 &#160;&#160;<a class="el" href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330">ACTION_ADD_PORTAL</a> = -2
+, <br />
+&#160;&#160;<a class="el" href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6">ACTION_START_PATROL</a> = -3
 <br />
  }</td></tr>
 <tr class="separator:acd5e7989d1069ea934d619bdd2e5fa5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -314,13 +316,18 @@ Functions</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a" name="acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a"></a>ACTION_CLEAR_PORTAL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330" name="acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330"></a>ACTION_ADD_PORTAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6" name="acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6"></a>ACTION_START_PATROL&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
 <div class="line"><span class="lineno">   58</span>    <span class="comment">// Portal</span></div>
 <div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a">ACTION_CLEAR_PORTAL</a>               = -1,</div>
 <div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330">ACTION_ADD_PORTAL</a>                 = -2,</div>
-<div class="line"><span class="lineno">   61</span>};</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>    <span class="comment">// Dragon patrol</span></div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6">ACTION_START_PATROL</a>               = -3,</div>
+<div class="line"><span class="lineno">   64</span>};</div>
 <div class="ttc" id="aobsidian__sanctum_8h_html_acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330"><div class="ttname"><a href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330">ACTION_ADD_PORTAL</a></div><div class="ttdeci">@ ACTION_ADD_PORTAL</div><div class="ttdef"><b>Definition</b> obsidian_sanctum.h:60</div></div>
+<div class="ttc" id="aobsidian__sanctum_8h_html_acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6"><div class="ttname"><a href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6">ACTION_START_PATROL</a></div><div class="ttdeci">@ ACTION_START_PATROL</div><div class="ttdef"><b>Definition</b> obsidian_sanctum.h:63</div></div>
 <div class="ttc" id="aobsidian__sanctum_8h_html_acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a"><div class="ttname"><a href="../../d7/dd5/obsidian__sanctum_8h.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a">ACTION_CLEAR_PORTAL</a></div><div class="ttdeci">@ ACTION_CLEAR_PORTAL</div><div class="ttdef"><b>Definition</b> obsidian_sanctum.h:59</div></div>
 </div><!-- fragment -->
 </div>
@@ -351,9 +358,9 @@ template&lt;class AI , class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d7/dd5/obsidian__sanctum_8h.html#accb9d1f27143774736f13b6dd04325ed">ObsidianSanctumScriptName</a>);</div>
-<div class="line"><span class="lineno">   67</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d7/dd5/obsidian__sanctum_8h.html#accb9d1f27143774736f13b6dd04325ed">ObsidianSanctumScriptName</a>);</div>
+<div class="line"><span class="lineno">   70</span>}</div>
 <div class="ttc" id="aobsidian__sanctum_8h_html_accb9d1f27143774736f13b6dd04325ed"><div class="ttname"><a href="../../d7/dd5/obsidian__sanctum_8h.html#accb9d1f27143774736f13b6dd04325ed">ObsidianSanctumScriptName</a></div><div class="ttdeci">#define ObsidianSanctumScriptName</div><div class="ttdef"><b>Definition</b> obsidian_sanctum.h:25</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00025">ObsidianSanctumScriptName</a>.</p>
@@ -366,7 +373,7 @@ template&lt;class AI , class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_719d04167aa7ea3db3432ca0946ea1bc.html">ChamberOfAspects</a></li><li class="navelem"><a class="el" href="../../dir_6113d9d9930adc0ab9dd36cb7d5aa748.html">ObsidianSanctum</a></li><li class="navelem"><a class="el" href="../../d7/dd5/obsidian__sanctum_8h.html">obsidian_sanctum.h</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:45:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:58:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

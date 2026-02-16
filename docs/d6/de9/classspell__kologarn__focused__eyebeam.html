@@ -314,35 +314,35 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  673</span>    {</div>
-<div class="line"><span class="lineno">  674</span>        std::list&lt;Unit*&gt; newTargets;</div>
-<div class="line"><span class="lineno">  675</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>();</div>
-<div class="line"><span class="lineno">  676</span>        <span class="comment">// Select 3 most distant targets</span></div>
-<div class="line"><span class="lineno">  677</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a7057b419b4fdcb9a4a87344aa59e97b3">SelectTargetList</a>(newTargets, 3, <a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">SelectTargetMethod::MaxDistance</a>, 0, <a class="code hl_struct" href="../../d3/d7d/structNonTankTargetSelector.html">NonTankTargetSelector</a>(creature, <span class="keyword">true</span>));</div>
-<div class="line"><span class="lineno">  678</span> </div>
-<div class="line"><span class="lineno">  679</span>        <span class="comment">// If no distant targets available, get 1 target from original list</span></div>
-<div class="line"><span class="lineno">  680</span>        <span class="keywordflow">if</span> (newTargets.empty())</div>
-<div class="line"><span class="lineno">  681</span>        {</div>
-<div class="line"><span class="lineno">  682</span>            <span class="keywordflow">if</span> (!targets.empty())</div>
-<div class="line"><span class="lineno">  683</span>            {</div>
-<div class="line"><span class="lineno">  684</span>                <span class="keywordflow">while</span> (1 &lt; targets.size())</div>
-<div class="line"><span class="lineno">  685</span>                {</div>
-<div class="line"><span class="lineno">  686</span>                    std::list&lt;WorldObject*&gt;::iterator itr = targets.begin();</div>
-<div class="line"><span class="lineno">  687</span>                    advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, targets.size() - 1));</div>
-<div class="line"><span class="lineno">  688</span>                    targets.erase(itr);</div>
-<div class="line"><span class="lineno">  689</span>                }</div>
-<div class="line"><span class="lineno">  690</span>            }</div>
-<div class="line"><span class="lineno">  691</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  692</span>        }</div>
-<div class="line"><span class="lineno">  693</span> </div>
-<div class="line"><span class="lineno">  694</span>        <span class="comment">// Clear original targets</span></div>
-<div class="line"><span class="lineno">  695</span>        targets.clear();</div>
-<div class="line"><span class="lineno">  696</span> </div>
-<div class="line"><span class="lineno">  697</span>        <span class="comment">// Select a random target</span></div>
-<div class="line"><span class="lineno">  698</span>        std::list&lt;Unit*&gt;::iterator head = newTargets.begin();</div>
-<div class="line"><span class="lineno">  699</span>        advance(head, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, newTargets.size() - 1));</div>
-<div class="line"><span class="lineno">  700</span>        targets.push_back(*head);</div>
-<div class="line"><span class="lineno">  701</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  636</span>    {</div>
+<div class="line"><span class="lineno">  637</span>        std::list&lt;Unit*&gt; newTargets;</div>
+<div class="line"><span class="lineno">  638</span>        <a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* creature = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>();</div>
+<div class="line"><span class="lineno">  639</span>        <span class="comment">// Select 3 most distant targets</span></div>
+<div class="line"><span class="lineno">  640</span>        <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a7057b419b4fdcb9a4a87344aa59e97b3">SelectTargetList</a>(newTargets, 3, <a class="code hl_enumvalue" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">SelectTargetMethod::MaxDistance</a>, 0, <a class="code hl_struct" href="../../d3/d7d/structNonTankTargetSelector.html">NonTankTargetSelector</a>(creature, <span class="keyword">true</span>));</div>
+<div class="line"><span class="lineno">  641</span> </div>
+<div class="line"><span class="lineno">  642</span>        <span class="comment">// If no distant targets available, get 1 target from original list</span></div>
+<div class="line"><span class="lineno">  643</span>        <span class="keywordflow">if</span> (newTargets.empty())</div>
+<div class="line"><span class="lineno">  644</span>        {</div>
+<div class="line"><span class="lineno">  645</span>            <span class="keywordflow">if</span> (!targets.empty())</div>
+<div class="line"><span class="lineno">  646</span>            {</div>
+<div class="line"><span class="lineno">  647</span>                <span class="keywordflow">while</span> (1 &lt; targets.size())</div>
+<div class="line"><span class="lineno">  648</span>                {</div>
+<div class="line"><span class="lineno">  649</span>                    std::list&lt;WorldObject*&gt;::iterator itr = targets.begin();</div>
+<div class="line"><span class="lineno">  650</span>                    advance(itr, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, targets.size() - 1));</div>
+<div class="line"><span class="lineno">  651</span>                    targets.erase(itr);</div>
+<div class="line"><span class="lineno">  652</span>                }</div>
+<div class="line"><span class="lineno">  653</span>            }</div>
+<div class="line"><span class="lineno">  654</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  655</span>        }</div>
+<div class="line"><span class="lineno">  656</span> </div>
+<div class="line"><span class="lineno">  657</span>        <span class="comment">// Clear original targets</span></div>
+<div class="line"><span class="lineno">  658</span>        targets.clear();</div>
+<div class="line"><span class="lineno">  659</span> </div>
+<div class="line"><span class="lineno">  660</span>        <span class="comment">// Select a random target</span></div>
+<div class="line"><span class="lineno">  661</span>        std::list&lt;Unit*&gt;::iterator head = newTargets.begin();</div>
+<div class="line"><span class="lineno">  662</span>        advance(head, <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, newTargets.size() - 1));</div>
+<div class="line"><span class="lineno">  663</span>        targets.push_back(*head);</div>
+<div class="line"><span class="lineno">  664</span>    }</div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aUnitAI_8h_html_a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611"><div class="ttname"><a href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">SelectTargetMethod::MaxDistance</a></div><div class="ttdeci">@ MaxDistance</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
@@ -354,7 +354,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00683">Unit::GetAI()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611">MaxDistance</a>, <a class="el" href="../../#l00115">UnitAI::SelectTargetList()</a>, <a class="el" href="../../#l00205">Object::ToCreature()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00703">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00666">Register()</a>.</p>
 
 </div>
 </div>
@@ -382,9 +382,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  668</span>    {</div>
-<div class="line"><span class="lineno">  669</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>();</div>
-<div class="line"><span class="lineno">  670</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  631</span>    {</div>
+<div class="line"><span class="lineno">  632</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>();</div>
+<div class="line"><span class="lineno">  633</span>    }</div>
 <div class="ttc" id="aclassObject_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition</b> Object.h:204</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00204">Object::IsCreature()</a>.</p>
@@ -441,16 +441,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  704</span>    {</div>
-<div class="line"><span class="lineno">  705</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c">spell_kologarn_focused_eyebeam::FilterTargetsInitial</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  706</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  667</span>    {</div>
+<div class="line"><span class="lineno">  668</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c">spell_kologarn_focused_eyebeam::FilterTargetsInitial</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  669</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1431</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac97ba74f30438a8b51ce05c9de303cd7"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a></div><div class="ttdeci">#define EFFECT_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:38</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__kologarn__focused__eyebeam_html_a5632307d9a1a89d530a63e71c8abad1c"><div class="ttname"><a href="../../d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c">spell_kologarn_focused_eyebeam::FilterTargetsInitial</a></div><div class="ttdeci">void FilterTargetsInitial(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:672</div></div>
+<div class="ttc" id="aclassspell__kologarn__focused__eyebeam_html_a5632307d9a1a89d530a63e71c8abad1c"><div class="ttname"><a href="../../d6/de9/classspell__kologarn__focused__eyebeam.html#a5632307d9a1a89d530a63e71c8abad1c">spell_kologarn_focused_eyebeam::FilterTargetsInitial</a></div><div class="ttdeci">void FilterTargetsInitial(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_kologarn.cpp:635</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l00672">FilterTargetsInitial()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l00635">FilterTargetsInitial()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -463,7 +463,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/de9/classspell__kologarn__focused__eyebeam.html">spell_kologarn_focused_eyebeam</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:46:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:59:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

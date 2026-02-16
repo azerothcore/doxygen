@@ -13,10 +13,12 @@ var eye__of__eternity_8h =
     ] ],
     [ "Data", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "DATA_MALYGOS", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2ac20edc8400118e986cb3e8c0833118", null ],
+      [ "DATA_IRIS", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a24efc5c8149bb17f0b236d085ffb383b", null ],
+      [ "DATA_EXIT_PORTAL", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad1db00dc1aa60ed9c1261fcb5ba4d81b", null ],
+      [ "DATA_NEXUS_PLATFORM", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab6372f203e10ffecd1c55304c7f6c586", null ],
       [ "DATA_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
       [ "DATA_SET_IRIS_INACTIVE", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a1dcf1f64522995a4635c77b607d1824c", null ],
-      [ "DATA_HIDE_IRIS_AND_PORTAL", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ],
-      [ "DATA_MALYGOS_GUID", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a32904c6059a5b12e98c818f97ec1b14c", null ]
+      [ "DATA_HIDE_IRIS_AND_PORTAL", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ]
     ] ],
     [ "eAchiev", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71", [
       [ "ACHIEV_CRITERIA_DENYIN_THE_SCION_10", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71aad703e13517c628337b738660d14962d", null ],

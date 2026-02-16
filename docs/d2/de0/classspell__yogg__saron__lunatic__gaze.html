@@ -314,21 +314,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2493</span>    {</div>
-<div class="line"><span class="lineno"> 2494</span>        std::list&lt;WorldObject*&gt; tmplist;</div>
-<div class="line"><span class="lineno"> 2495</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = targets.begin(); itr != targets.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2496</span>            <span class="keywordflow">if</span> ((*itr)-&gt;HasInArc(M_PI, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()))</div>
-<div class="line"><span class="lineno"> 2497</span>                tmplist.push_back(*itr);</div>
-<div class="line"><span class="lineno"> 2498</span> </div>
-<div class="line"><span class="lineno"> 2499</span>        targets.clear();</div>
-<div class="line"><span class="lineno"> 2500</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = tmplist.begin(); itr != tmplist.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2501</span>            targets.push_back(*itr);</div>
-<div class="line"><span class="lineno"> 2502</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2317</span>    {</div>
+<div class="line"><span class="lineno"> 2318</span>        std::list&lt;WorldObject*&gt; tmplist;</div>
+<div class="line"><span class="lineno"> 2319</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = targets.begin(); itr != targets.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2320</span>            <span class="keywordflow">if</span> ((*itr)-&gt;HasInArc(M_PI, <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()))</div>
+<div class="line"><span class="lineno"> 2321</span>                tmplist.push_back(*itr);</div>
+<div class="line"><span class="lineno"> 2322</span> </div>
+<div class="line"><span class="lineno"> 2323</span>        targets.clear();</div>
+<div class="line"><span class="lineno"> 2324</span>        <span class="keywordflow">for</span> (std::list&lt;WorldObject*&gt;::iterator itr = tmplist.begin(); itr != tmplist.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2325</span>            targets.push_back(*itr);</div>
+<div class="line"><span class="lineno"> 2326</span>    }</div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02504">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02328">Register()</a>.</p>
 
 </div>
 </div>
@@ -382,16 +382,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2505</span>    {</div>
-<div class="line"><span class="lineno"> 2506</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno"> 2507</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2329</span>    {</div>
+<div class="line"><span class="lineno"> 2330</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a>, <a class="code hl_define" href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno"> 2331</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1431</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac97ba74f30438a8b51ce05c9de303cd7"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a></div><div class="ttdeci">#define EFFECT_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:38</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__yogg__saron__lunatic__gaze_html_a7efa78a7991b7ca859c7d622f973265d"><div class="ttname"><a href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2492</div></div>
+<div class="ttc" id="aclassspell__yogg__saron__lunatic__gaze_html_a7efa78a7991b7ca859c7d622f973265d"><div class="ttname"><a href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html#a7efa78a7991b7ca859c7d622f973265d">spell_yogg_saron_lunatic_gaze::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> boss_yoggsaron.cpp:2316</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l02492">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l02316">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -404,7 +404,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/de0/classspell__yogg__saron__lunatic__gaze.html">spell_yogg_saron_lunatic_gaze</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:46:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 07:00:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

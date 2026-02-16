@@ -737,7 +737,7 @@ var SharedDefines_8h =
       [ "CREATURE_FAMILY_CARRION_BIRD", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75a8f96725590080f65dd0372228a859547", null ],
       [ "CREATURE_FAMILY_CRAB", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75ab08fb5a234c66d3c59f1907fc0877b3e", null ],
       [ "CREATURE_FAMILY_GORILLA", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75aad4dbd0449866c8a674f9d32c8d59474", null ],
-      [ "CREATURE_FAMILY_HORSE_CUSTOM", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75ad8cd67fb803cffde23ad10deeebf6e62", null ],
+      [ "CREATURE_FAMILY_NOT_SPECIFIED", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75afb3c8aadff51205784f76beb8f10836d", null ],
       [ "CREATURE_FAMILY_RAPTOR", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75a8f47304ab68ace4208596ce940670906", null ],
       [ "CREATURE_FAMILY_TALLSTRIDER", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75ab60169b713849638ea9594bfa8579f96", null ],
       [ "CREATURE_FAMILY_FELHUNTER", "de/d0a/SharedDefines_8h.html#a42761d1abeaef8b69ce8df0340ee8e75ac201f040cd9338530f8a9bbba1a7da07", null ],

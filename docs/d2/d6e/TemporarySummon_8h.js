@@ -1,6 +1,7 @@
 var TemporarySummon_8h =
 [
     [ "TempSummonData", "db/de1/structTempSummonData.html", "db/de1/structTempSummonData" ],
+    [ "GameObjectSummonData", "d1/dbe/structGameObjectSummonData.html", "d1/dbe/structGameObjectSummonData" ],
     [ "TempSummon", "dc/d88/classTempSummon.html", "dc/d88/classTempSummon" ],
     [ "Minion", "d0/ddd/classMinion.html", "d0/ddd/classMinion" ],
     [ "Guardian", "db/d90/classGuardian.html", "db/d90/classGuardian" ],

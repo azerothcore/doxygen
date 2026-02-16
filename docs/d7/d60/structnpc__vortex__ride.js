@@ -1,6 +1,6 @@
 var structnpc__vortex__ride =
 [
-    [ "npc_vortex_ride", "d7/d60/structnpc__vortex__ride.html#ac801c66b9aafcb51902ed9d1b6087f23", null ],
+    [ "npc_vortex_ride", "d7/d60/structnpc__vortex__ride.html#af7572ad25d4de78511f1d7e39fc5fdaf", null ],
     [ "AttackStart", "d7/d60/structnpc__vortex__ride.html#a2a39caa082468ba4b2e6debc2639203a", null ],
     [ "DamageTaken", "d7/d60/structnpc__vortex__ride.html#a4a317d732d9a71e70ba422a7b046b9b4", null ],
     [ "MoveInLineOfSight", "d7/d60/structnpc__vortex__ride.html#a3f4bbcfec590ef3750845d8167a137d5", null ],

@@ -139,6 +139,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a164257b5ed4a0808d709870cdf73ed3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae67b000b16f56309da56f672a9f2b423" id="r_ae67b000b16f56309da56f672a9f2b423"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/classArenaScript.html#ae67b000b16f56309da56f672a9f2b423">OnArenaStart</a> (<a class="el" href="../../df/da7/classBattleground.html">Battleground</a> *)</td></tr>
 <tr class="separator:ae67b000b16f56309da56f672a9f2b423"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a548ac21d5bd9be263935a298a3b5cd16" id="r_a548ac21d5bd9be263935a298a3b5cd16"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/classArenaScript.html#a548ac21d5bd9be263935a298a3b5cd16">OnBeforeArenaTeamMemberUpdate</a> (<a class="el" href="../../d4/dc6/classArenaTeam.html">ArenaTeam</a> *, <a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *, bool, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)</td></tr>
+<tr class="separator:a548ac21d5bd9be263935a298a3b5cd16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73719d3e62d1f7cf1f174292975f0f4f" id="r_a73719d3e62d1f7cf1f174292975f0f4f"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1d/classArenaScript.html#a73719d3e62d1f7cf1f174292975f0f4f">CanSaveArenaStatsForMember</a> (<a class="el" href="../../d4/dc6/classArenaTeam.html">ArenaTeam</a> *, <a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>)</td></tr>
+<tr class="separator:a73719d3e62d1f7cf1f174292975f0f4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classScriptObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classScriptObject')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/d9a/classScriptObject.html">ScriptObject</a></td></tr>
 <tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_classScriptObject" id="r_a2f66339b1cdf1fde795c61cd24c8b0a2"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9a/classScriptObject.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
 <tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_classScriptObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -194,21 +198,21 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   48</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>)</div>
-<div class="line"><span class="lineno">   49</span>{</div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
-<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>; ++i)</div>
-<div class="line"><span class="lineno">   53</span>            enabledHooks.emplace_back(i);</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;ArenaScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
-<div class="line"><span class="lineno">   56</span>}</div>
-<div class="ttc" id="aArenaScript_8h_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition</b> ArenaScript.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>    : <a class="code hl_class" href="../../d8/d9a/classScriptObject.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>)</div>
+<div class="line"><span class="lineno">   59</span>{</div>
+<div class="line"><span class="lineno">   60</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>; ++i)</div>
+<div class="line"><span class="lineno">   63</span>            enabledHooks.emplace_back(i);</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_function" href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;ArenaScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">   66</span>}</div>
+<div class="ttc" id="aArenaScript_8h_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition</b> ArenaScript.h:34</div></div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
 <div class="ttc" id="aclassScriptObject_html"><div class="ttname"><a href="../../d8/d9a/classScriptObject.html">ScriptObject</a></div><div class="ttdef"><b>Definition</b> ScriptObject.h:43</div></div>
-<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:748</div></div>
+<div class="ttc" id="aclassScriptRegistry_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition</b> ScriptMgr.h:754</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00748">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00032">ARENAHOOK_END</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00754">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00034">ARENAHOOK_END</a>.</p>
 
 </div>
 </div>
@@ -246,9 +250,48 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00022">ScriptMgr::CanAddMember()</a>.</p>
+
+</div>
+</div>
+<a id="a73719d3e62d1f7cf1f174292975f0f4f" name="a73719d3e62d1f7cf1f174292975f0f4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73719d3e62d1f7cf1f174292975f0f4f">&#9670;&#160;</a></span>CanSaveArenaStatsForMember()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool ArenaScript::CanSaveArenaStatsForMember </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dc6/classArenaTeam.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   59</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00052">ScriptMgr::CanSaveArenaStatsForMember()</a>.</p>
 
 </div>
 </div>
@@ -275,7 +318,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00032">ScriptMgr::CanSaveToDB()</a>.</p>
 
@@ -305,7 +348,7 @@ Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d8/d9a/classScriptObject.html#a37da453729d5c8fbe2d06f905563f47c">ScriptObject</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -332,7 +375,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{ };</div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{ };</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00042">ScriptMgr::OnArenaStart()</a>.</p>
 
@@ -361,9 +404,66 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00037">ScriptMgr::OnBeforeArenaCheckWinConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a548ac21d5bd9be263935a298a3b5cd16" name="a548ac21d5bd9be263935a298a3b5cd16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a548ac21d5bd9be263935a298a3b5cd16">&#9670;&#160;</a></span>OnBeforeArenaTeamMemberUpdate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool ArenaScript::OnBeforeArenaTeamMemberUpdate </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dc6/classArenaTeam.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/d4b/classPlayer.html">Player</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00047">ScriptMgr::OnBeforeArenaTeamMemberUpdate()</a>.</p>
 
 </div>
 </div>
@@ -406,7 +506,7 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00027">ScriptMgr::OnGetPoints()</a>.</p>
 
@@ -422,7 +522,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d1d/classArenaScript.html">ArenaScript</a></li>
-    <li class="footer">Generated on Sun Feb 15 2026 06:45:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 16 2026 06:58:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

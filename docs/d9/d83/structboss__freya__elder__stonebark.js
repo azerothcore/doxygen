@@ -1,0 +1,12 @@
+var structboss__freya__elder__stonebark =
+[
+    [ "boss_freya_elder_stonebark", "d9/d83/structboss__freya__elder__stonebark.html#ad379afe772ff29d689bc763786d28793", null ],
+    [ "DamageTaken", "d9/d83/structboss__freya__elder__stonebark.html#a1a6b9897ffff95b29de351d02411f216", null ],
+    [ "JustDied", "d9/d83/structboss__freya__elder__stonebark.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
+    [ "JustEngagedWith", "d9/d83/structboss__freya__elder__stonebark.html#a363a639d65fb746cca3410427f8a1e10", null ],
+    [ "KilledUnit", "d9/d83/structboss__freya__elder__stonebark.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
+    [ "Reset", "d9/d83/structboss__freya__elder__stonebark.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
+    [ "UpdateAI", "d9/d83/structboss__freya__elder__stonebark.html#a913cd147d5a88189e183d817357946e3", null ],
+    [ "_chargesCount", "d9/d83/structboss__freya__elder__stonebark.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
+    [ "events", "d9/d83/structboss__freya__elder__stonebark.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
+];
