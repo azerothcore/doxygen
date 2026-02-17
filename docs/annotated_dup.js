@@ -713,6 +713,7 @@ var annotated_dup =
     [ "AreaTriggerTeleport", "d5/da7/structAreaTriggerTeleport.html", "d5/da7/structAreaTriggerTeleport" ],
     [ "Arena", "d6/d32/classArena.html", "d6/d32/classArena" ],
     [ "arena_commandscript", "d7/d9f/classarena__commandscript.html", "d7/d9f/classarena__commandscript" ],
+    [ "ArenaHookDefaultsTest", "d0/dcc/classArenaHookDefaultsTest.html", "d0/dcc/classArenaHookDefaultsTest" ],
     [ "ArenaLogEntryData", "d1/d9a/classArenaLogEntryData.html", "d1/d9a/classArenaLogEntryData" ],
     [ "ArenaScore", "de/d8d/structArenaScore.html", "de/d8d/structArenaScore" ],
     [ "ArenaScript", "d6/d1d/classArenaScript.html", "d6/d1d/classArenaScript" ],

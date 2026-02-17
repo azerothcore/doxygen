@@ -213,7 +213,7 @@ var searchData=
   ['verifychallengeresponse_210',['VerifyChallengeResponse',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a2270520850359c1e401ba883ef19bc66',1,'Acore::Crypto::SRP6']]],
   ['verifymovementinfo_211',['VerifyMovementInfo',['../d8/d74/classWorldSession.html#acd88f06108300ca092691a6a1535855a',1,'WorldSession']]],
   ['verifyversion_212',['VerifyVersion',['../d8/df8/classAuthSession.html#a5bb7976850813070a70566391e689669',1,'AuthSession']]],
-  ['version_213',['version',['../d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee',1,'FileLoader::version'],['../d9/d03/structModelHeader.html#ae91914678dff064bc9f73bac7223aa20',1,'ModelHeader::version'],['../de/deb/structM2Header.html#aa2ddc1846fe0bbf4e1c36e2550f56a1e',1,'M2Header::Version']]],
+  ['version_213',['version',['../de/deb/structM2Header.html#aa2ddc1846fe0bbf4e1c36e2550f56a1e',1,'M2Header::Version'],['../d6/dc2/classFileLoader.html#a41cedec185e5909d83c8a185d1476dee',1,'FileLoader::version'],['../d9/d03/structModelHeader.html#ae91914678dff064bc9f73bac7223aa20',1,'ModelHeader::version']]],
   ['version1_214',['version1',['../d3/d03/structAUTH__LOGON__CHALLENGE__C.html#aa7a794d75e11e98aa9f88cb8e82be9e9',1,'AUTH_LOGON_CHALLENGE_C']]],
   ['version2_215',['version2',['../d3/d03/structAUTH__LOGON__CHALLENGE__C.html#abe9218ee7ebdffa48dd404a2ad465ca4',1,'AUTH_LOGON_CHALLENGE_C']]],
   ['version3_216',['version3',['../d3/d03/structAUTH__LOGON__CHALLENGE__C.html#a6a9e5088baf8c568916891a55e035db3',1,'AUTH_LOGON_CHALLENGE_C']]],

@@ -4518,6 +4518,7 @@ var hierarchy =
     [ "TempSummonGroupKey", "dc/d7b/structTempSummonGroupKey.html", null ],
     [ "MMAP::TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html", null ],
     [ "testing::Test", null, [
+      [ "ArenaHookDefaultsTest", "d0/dcc/classArenaHookDefaultsTest.html", null ],
       [ "ArenaSeasonRewardDistributorTest", "d5/d6e/classArenaSeasonRewardDistributorTest.html", null ],
       [ "ArenaTeamFilterTest", "d8/dd2/classArenaTeamFilterTest.html", null ],
       [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ],

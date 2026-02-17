@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
+  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
   ['bachiev_1',['bachiev',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev'],['../dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev']]],
   ['bachievbombbot_2',['bAchievBombBot',['../d1/dab/structboss__mimiron.html#ab37a096be0b05a190f0c06d08f4c587f',1,'boss_mimiron']]],
   ['bachievcacherare_3',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
@@ -49,7 +49,7 @@ var searchData=
   ['basedamage_46',['BaseDamage',['../d7/d80/structCreatureBaseStats.html#a40f54b64689ca8c3d2b0de81384dbea9',1,'CreatureBaseStats']]],
   ['basehealth_47',['basehealth',['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth'],['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth']]],
   ['baselevel_48',['baselevel',['../d5/dc7/structSpellEntry.html#aaf7c8448b3091e0fca4aead24165d0e1',1,'SpellEntry::BaseLevel'],['../d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591',1,'SpellInfo::BaseLevel']]],
-  ['basemana_49',['basemana',['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana'],['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana']]],
+  ['basemana_49',['basemana',['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana'],['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana']]],
   ['basemovespeed_50',['basemovespeed',['../d1/daf/Unit_8h.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp'],['../d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp']]],
   ['basepoints_51',['BasePoints',['../da/db9/classSpellEffectInfo.html#ac0803c6cd41e62d0011fda578e794676',1,'SpellEffectInfo']]],
   ['baserepclassmask_52',['BaseRepClassMask',['../de/d14/structFactionEntry.html#ae73655de567de3766fcb3bbfb7f9eed3',1,'FactionEntry']]],
@@ -183,7 +183,7 @@ var searchData=
   ['bgroundphase_180',['bGroundPhase',['../d2/d5b/structboss__razorscale.html#aca43c6d64a163f2025af4fcb62f784e8',1,'boss_razorscale']]],
   ['bgteamid_181',['bgTeamId',['../d0/d50/structBGData.html#ac97f7cafb6ae69a12588e40328cdc0cb',1,'BGData']]],
   ['bgtoqueue_182',['bgToQueue',['../d1/d1a/classBattlegroundMgr.html#a88b512ac1340399735287e337bbb76a2',1,'BattlegroundMgr']]],
-  ['bgtypeid_183',['bgtypeid',['../d0/d50/structBGData.html#a3398da6a15fd66cdd8dc172997d3786b',1,'BGData::bgTypeID'],['../dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f',1,'GroupQueueInfo::BgTypeId']]],
+  ['bgtypeid_183',['bgtypeid',['../dd/d51/structGroupQueueInfo.html#aad98458292aca41fc7feb2e63ba5125f',1,'GroupQueueInfo::BgTypeId'],['../d0/d50/structBGData.html#a3398da6a15fd66cdd8dc172997d3786b',1,'BGData::bgTypeID']]],
   ['bgtypetobattleground_184',['bgtypeToBattleground',['../d1/d1a/classBattlegroundMgr.html#af9da430f07c8a040f9eb111bdfd921a6',1,'BattlegroundMgr']]],
   ['bgtypetotemplate_185',['bgTypeToTemplate',['../d1/d1a/classBattlegroundMgr.html#a25b2d7705c7e6af7f0f7a4ef35913a85',1,'BattlegroundMgr']]],
   ['bgzoneidtofillworldstates_186',['bgZoneIdToFillWorldStates',['../d2/d4b/classPlayer.html#abde07331980587025357d3ab37b2a3f5',1,'Player']]],

@@ -965,13 +965,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  353</span>                        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/da7/classBattleground.html#a311b41d380380658ba95c4cb8abb3b35">GetArenaType</a>() == <a class="code hl_enumvalue" href="../../d3/dcf/Battleground_8h.html#ad38b6d141d358ab270694a77db413e50a49cde50538e418258d292c3c2f7df512">ARENA_TYPE_5v5</a> &amp;&amp; aliveWinners == 1 &amp;&amp; player-&gt;IsAlive())</div>
 <div class="line"><span class="lineno">  354</span>                            player-&gt;CastSpell(player, <a class="code hl_enumvalue" href="../../d9/d02/Arena_8h.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd">SPELL_LAST_MAN_STANDING</a>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">  355</span> </div>
-<div class="line"><span class="lineno">  356</span>                        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(winnerArenaTeam, player, <span class="keyword">true</span>, loserMatchmakerRating, winnerMatchmakerChange))</div>
+<div class="line"><span class="lineno">  356</span>                        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(winnerArenaTeam, player, <span class="keyword">true</span>, loserMatchmakerRating, winnerMatchmakerChange))</div>
 <div class="line"><span class="lineno">  357</span>                            winnerArenaTeam-&gt;<a class="code hl_function" href="../../d4/dc6/classArenaTeam.html#af5bf16eeefe581a80fd1bc9dcf7d9eb9">MemberWon</a>(player, loserMatchmakerRating, winnerMatchmakerChange);</div>
 <div class="line"><span class="lineno">  358</span>                    }</div>
 <div class="line"><span class="lineno">  359</span>                }</div>
 <div class="line"><span class="lineno">  360</span>                <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  361</span>                {</div>
-<div class="line"><span class="lineno">  362</span>                    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(loserArenaTeam, player, <span class="keyword">false</span>, winnerMatchmakerRating, loserMatchmakerChange))</div>
+<div class="line"><span class="lineno">  362</span>                    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(loserArenaTeam, player, <span class="keyword">false</span>, winnerMatchmakerRating, loserMatchmakerChange))</div>
 <div class="line"><span class="lineno">  363</span>                        loserArenaTeam-&gt;<a class="code hl_function" href="../../d4/dc6/classArenaTeam.html#a45faa9b5dc7daae1ed780fbad285e5d0">MemberLost</a>(player, winnerMatchmakerRating, loserMatchmakerChange);</div>
 <div class="line"><span class="lineno">  364</span> </div>
 <div class="line"><span class="lineno">  365</span>                    <span class="comment">// Arena lost =&gt; reset the win_rated_arena having the &quot;no_lose&quot; condition</span></div>
@@ -1288,7 +1288,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d32/classArena.html">Arena</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 06:58:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 17 2026 06:54:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
