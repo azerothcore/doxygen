@@ -247,7 +247,6 @@ var Unit_8h =
       [ "MAXDAMAGE", "d1/daf/Unit_8h.html#a4961ced707837d09157e8296ab8a2507a5e4c68960c0bd10b439817ec3f1112ca", null ],
       [ "MAX_WEAPON_DAMAGE_RANGE", "d1/daf/Unit_8h.html#a4961ced707837d09157e8296ab8a2507a353a691300043008469d161b1bf49247", null ]
     ] ],
-    [ "createProcExtendMask", "d1/daf/Unit_8h.html#afb539370dad036ff97905efdbb4270c0", null ],
     [ "createProcFlags", "d1/daf/Unit_8h.html#a7d920511c20f084098c0f68a75006159", null ],
     [ "baseMoveSpeed", "d1/daf/Unit_8h.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
     [ "infinityCooldownDelay", "d1/daf/Unit_8h.html#a76b85ce9200f098d29159574458e921e", null ],

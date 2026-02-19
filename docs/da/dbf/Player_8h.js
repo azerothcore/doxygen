@@ -82,7 +82,7 @@ var Player_8h =
     [ "RewardedQuestSet", "da/dbf/Player_8h.html#a59ae2084b25805b47224ad24aa9c54d0", null ],
     [ "SkillStatusMap", "da/dbf/Player_8h.html#a7c3902b77dffac17f56d2f990967f5a7", null ],
     [ "SpellCooldowns", "da/dbf/Player_8h.html#a4e67032f6ccb88a3ffc6fb32196c31ce", null ],
-    [ "SpellModList", "da/dbf/Player_8h.html#a20396fe24b032cd78afb6f5c81568b26", null ],
+    [ "SpellModContainer", "da/dbf/Player_8h.html#a4795ba50eea28136ac7b2d404498f9bc", null ],
     [ "WhisperListContainer", "da/dbf/Player_8h.html#afa0804038132bea4c032ad84ed052831", null ],
     [ "ActionButtonType", "da/dbf/Player_8h.html#a6ae74597b52b61e76f80036480d4a9f9", [
       [ "ACTION_BUTTON_SPELL", "da/dbf/Player_8h.html#a6ae74597b52b61e76f80036480d4a9f9ab22c805ed49708b22344f1b60d04c70a", null ],

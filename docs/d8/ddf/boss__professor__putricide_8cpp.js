@@ -30,6 +30,7 @@ var boss__professor__putricide_8cpp =
     [ "spell_putricide_mutated_transformation_dmg", "da/df8/classspell__putricide__mutated__transformation__dmg.html", "da/df8/classspell__putricide__mutated__transformation__dmg" ],
     [ "spell_putricide_eat_ooze", "d0/de3/classspell__putricide__eat__ooze.html", "d0/de3/classspell__putricide__eat__ooze" ],
     [ "spell_putricide_regurgitated_ooze", "d2/dc2/classspell__putricide__regurgitated__ooze.html", "d2/dc2/classspell__putricide__regurgitated__ooze" ],
+    [ "spell_putricide_ooze_tank_protection", "d2/dfd/classspell__putricide__ooze__tank__protection.html", "d2/dfd/classspell__putricide__ooze__tank__protection" ],
     [ "EVENT_GROUP_ABILITIES", "d8/ddf/boss__professor__putricide_8cpp.html#a45a304b8dfba9d442913fc1a33c1b239", null ],
     [ "Events", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_NONE", "d8/ddf/boss__professor__putricide_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c", null ],

@@ -12,5 +12,7 @@ var searchData=
   ['exact_5fsequence_9',['EXACT_SEQUENCE',['../d6/dc1/ChatCommandTags_8h.html#ac61bb0d0d29d3ccc94188eb93516adf5',1,'ChatCommandTags.h']]],
   ['exception_10',['EXCEPTION',['../d7/d3f/WheatyExceptionReport_8cpp.html#a04a8ef8e5d1a39a04fed031f53ffa2db',1,'WheatyExceptionReport.cpp']]],
   ['exception_5fassertion_5ffailure_11',['EXCEPTION_ASSERTION_FAILURE',['../d2/d0e/Errors_8h.html#adb1e581c0b1db74338cf2892218ff23f',1,'Errors.h']]],
-  ['eyeofeternityscriptname_12',['EyeOfEternityScriptName',['../db/d95/eye__of__eternity_8h.html#a7ce256d13936cff51c83835c5e3329f9',1,'eye_of_eternity.h']]]
+  ['expect_5fproc_5fdoes_5fnot_5ftrigger_12',['EXPECT_PROC_DOES_NOT_TRIGGER',['../da/d86/AuraScriptTestFramework_8h.html#ab8dc66c27ffce0980153941e8e7ab701',1,'AuraScriptTestFramework.h']]],
+  ['expect_5fproc_5ftriggers_13',['EXPECT_PROC_TRIGGERS',['../da/d86/AuraScriptTestFramework_8h.html#ad89bc4ac2d1077d7e73a7e08336ff303',1,'AuraScriptTestFramework.h']]],
+  ['eyeofeternityscriptname_14',['EyeOfEternityScriptName',['../db/d95/eye__of__eternity_8h.html#a7ce256d13936cff51c83835c5e3329f9',1,'eye_of_eternity.h']]]
 ];

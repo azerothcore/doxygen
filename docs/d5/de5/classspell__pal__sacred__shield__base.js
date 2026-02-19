@@ -4,5 +4,7 @@ var classspell__pal__sacred__shield__base =
     [ "CheckProc", "d5/de5/classspell__pal__sacred__shield__base.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
     [ "HandleProc", "d5/de5/classspell__pal__sacred__shield__base.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
     [ "PrepareAuraScript", "d5/de5/classspell__pal__sacred__shield__base.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "d5/de5/classspell__pal__sacred__shield__base.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "Register", "d5/de5/classspell__pal__sacred__shield__base.html#a8e92638bbdd786ef77b17f00dcf0f643", null ],
+    [ "_cooldownEnd", "d5/de5/classspell__pal__sacred__shield__base.html#aed7cee393a5050e8b92d6436345ce2b7", null ],
+    [ "SACRED_SHIELD_ICD", "d5/de5/classspell__pal__sacred__shield__base.html#a80ec1db8bb0eca251a43c94c9ce92688", null ]
 ];

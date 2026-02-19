@@ -24,6 +24,19 @@ var spell__priest_8cpp =
     [ "spell_pri_mind_control", "d7/d0f/classspell__pri__mind__control.html", "d7/d0f/classspell__pri__mind__control" ],
     [ "spell_pri_t4_4p_bonus", "d2/db2/classspell__pri__t4__4p__bonus.html", "d2/db2/classspell__pri__t4__4p__bonus" ],
     [ "spell_pri_shadowfiend_death", "d0/d6a/classspell__pri__shadowfiend__death.html", "d0/d6a/classspell__pri__shadowfiend__death" ],
+    [ "spell_pri_vampiric_embrace", "d6/da8/classspell__pri__vampiric__embrace.html", "d6/da8/classspell__pri__vampiric__embrace" ],
+    [ "spell_pri_glyph_of_dispel_magic", "df/da4/classspell__pri__glyph__of__dispel__magic.html", "df/da4/classspell__pri__glyph__of__dispel__magic" ],
+    [ "spell_pri_body_and_soul", "df/dc1/classspell__pri__body__and__soul.html", "df/dc1/classspell__pri__body__and__soul" ],
+    [ "spell_pri_improved_shadowform", "d1/d46/classspell__pri__improved__shadowform.html", "d1/d46/classspell__pri__improved__shadowform" ],
+    [ "spell_pri_aq_3p_bonus", "d8/d26/classspell__pri__aq__3p__bonus.html", "d8/d26/classspell__pri__aq__3p__bonus" ],
+    [ "spell_pri_imp_shadowform", "de/de1/classspell__pri__imp__shadowform.html", "de/de1/classspell__pri__imp__shadowform" ],
+    [ "spell_pri_improved_spirit_tap", "db/d5c/classspell__pri__improved__spirit__tap.html", "db/d5c/classspell__pri__improved__spirit__tap" ],
+    [ "spell_pri_item_t6_trinket", "dc/d64/classspell__pri__item__t6__trinket.html", "dc/d64/classspell__pri__item__t6__trinket" ],
+    [ "spell_pri_t3_4p_bonus", "da/d20/classspell__pri__t3__4p__bonus.html", "da/d20/classspell__pri__t3__4p__bonus" ],
+    [ "spell_pri_t5_heal_2p_bonus", "d0/dd1/classspell__pri__t5__heal__2p__bonus.html", "d0/dd1/classspell__pri__t5__heal__2p__bonus" ],
+    [ "spell_pri_t10_heal_2p_bonus", "de/dd7/classspell__pri__t10__heal__2p__bonus.html", "de/dd7/classspell__pri__t10__heal__2p__bonus" ],
+    [ "spell_pri_pain_and_suffering_dummy", "d9/d3f/classspell__pri__pain__and__suffering__dummy.html", "d9/d3f/classspell__pri__pain__and__suffering__dummy" ],
+    [ "spell_pri_blessed_recovery", "d4/d7d/classspell__pri__blessed__recovery.html", "d4/d7d/classspell__pri__blessed__recovery" ],
     [ "Mics", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08f", [
       [ "PRIEST_LIGHTWELL_NPC_1", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa9bfaa0e89cf08c8ab24187cae961c97c", null ],
       [ "PRIEST_LIGHTWELL_NPC_2", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa5d0adab14c7d27efd1fbee48054ba5b8", null ],
@@ -32,10 +45,25 @@ var spell__priest_8cpp =
       [ "PRIEST_LIGHTWELL_NPC_5", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fad6392938a0dad3deb3aa4baf51a0f6a4", null ],
       [ "PRIEST_LIGHTWELL_NPC_6", "de/d21/spell__priest_8cpp.html#a439ae212e5fed4e154fe58fdb86af08fa8b0fe0e610be0d419811728348fd6ecf", null ]
     ] ],
+    [ "PriestProcSpells", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eb", [
+      [ "SPELL_PRIEST_VAMPIRIC_EMBRACE_HEAL", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba7c36644a109348f1ec3a912c50827675", null ],
+      [ "SPELL_PRIEST_GLYPH_OF_DISPEL_MAGIC_HEAL", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4ebac308d8dc0ff02ea15a48ed2271e47f51", null ],
+      [ "SPELL_PRIEST_BODY_AND_SOUL_SPEED", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba2a3a4779822cd7ff329e9ba708863dbc", null ],
+      [ "SPELL_PRIEST_ORACULAR_HEAL", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba6e31af332e85b1905cef2c97b09bb8ed", null ],
+      [ "SPELL_PRIEST_DIVINE_BLESSING", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba0310ca790c1f6c1d4eee220f9a85a2f5", null ],
+      [ "SPELL_PRIEST_DIVINE_WRATH", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba87df161babf0cdb9b9e4bc61c383386f", null ],
+      [ "SPELL_PRIEST_ARMOR_OF_FAITH", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba290047e9127003ddd3828cde89c10b79", null ],
+      [ "SPELL_PRIEST_BLESSED_HEALING", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4ebada0b4b07e77ec7ec7845841cbffb80af", null ],
+      [ "SPELL_PRIEST_SHADOW_WORD_DEATH_R1", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba9e9e52fa31ce386b0f6fc2a9ac60e1e5", null ],
+      [ "SPELL_PRIEST_MIND_BLAST_R1", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4ebaef6e2ac72592c131f516e86623cbe88a", null ],
+      [ "SPELL_PRIEST_MIND_FLAY_DAMAGE", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba10e1364ed71bdb2712c78e39bc63194d", null ],
+      [ "SPELL_PRIEST_BLESSED_RECOVERY_R1", "de/d21/spell__priest_8cpp.html#a7a9501fd4169605d0251acdf901bd4eba0039a5cc12f65f35399d8c2805ac21a5", null ]
+    ] ],
     [ "PriestSpellIcons", "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740d", [
       [ "PRIEST_ICON_ID_BORROWED_TIME", "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997", null ],
       [ "PRIEST_ICON_ID_EMPOWERED_RENEW_TALENT", "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dab3f4d7ef8d37b8c64bbc01c12e847376", null ],
-      [ "PRIEST_ICON_ID_PAIN_AND_SUFFERING", "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4", null ]
+      [ "PRIEST_ICON_ID_PAIN_AND_SUFFERING", "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740dad94a6e01fcc1a664d89fdd064aaa29f4", null ],
+      [ "PRIEST_ICON_ID_BODY_AND_SOUL", "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740da2d58d5bb5fc0d8a626705900a08716cb", null ]
     ] ],
     [ "PriestSpells", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110f", [
       [ "SPELL_PRIEST_DIVINE_AEGIS", "de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa4bd6adc8070fcaa774451c5cac40ded1", null ],

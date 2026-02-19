@@ -12,6 +12,7 @@ var classAuraEffect =
     [ "CanApplyResilience", "d7/d46/classAuraEffect.html#a1360fcb79edcab37b0a7b362bb6e7b2a", null ],
     [ "CanBeRecalculated", "d7/d46/classAuraEffect.html#a2322ac1aaf1bdfe21733d082603c503c", null ],
     [ "ChangeAmount", "d7/d46/classAuraEffect.html#a07673908af178ffaee01353a6d11a703", null ],
+    [ "CheckEffectProc", "d7/d46/classAuraEffect.html#ae0e7ebef95513b10ef4866e4c70eacf3", null ],
     [ "CleanupTriggeredSpells", "d7/d46/classAuraEffect.html#ac313992b1527bbeddf09365da0d28ebc", null ],
     [ "GetAmount", "d7/d46/classAuraEffect.html#afcf272bebf373ad3aebc03cce644cbee", null ],
     [ "GetAmplitude", "d7/d46/classAuraEffect.html#a458f465c0150d16e555d1997d7b09fc2", null ],

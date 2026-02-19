@@ -1,6 +1,5 @@
 var SpellMgr_8h =
 [
-    [ "SpellProcEventEntry", "d6/d28/structSpellProcEventEntry.html", "d6/d28/structSpellProcEventEntry" ],
     [ "SpellProcEntry", "dd/da3/structSpellProcEntry.html", "dd/da3/structSpellProcEntry" ],
     [ "SpellEnchantProcEntry", "d0/d58/structSpellEnchantProcEntry.html", "d0/d58/structSpellEnchantProcEntry" ],
     [ "SpellBonusEntry", "db/d90/structSpellBonusEntry.html", "db/d90/structSpellBonusEntry" ],
@@ -49,7 +48,6 @@ var SpellMgr_8h =
     [ "SpellLinkedMap", "de/d30/SpellMgr_8h.html#a5b7d1112d52fa7a4d81f9ac996c7030f", null ],
     [ "SpellMixologyMap", "de/d30/SpellMgr_8h.html#a32c0062c9375f8172af06d8d93eda685", null ],
     [ "SpellPetAuraMap", "de/d30/SpellMgr_8h.html#a9298eb96c8d5310030455030d2bbcb9d", null ],
-    [ "SpellProcEventMap", "de/d30/SpellMgr_8h.html#a1b0fd27c7a9df1abc01dcafac549fa57", null ],
     [ "SpellProcMap", "de/d30/SpellMgr_8h.html#a729c75c0a1016cc9e4d93d87f6b894bc", null ],
     [ "SpellRequiredMap", "de/d30/SpellMgr_8h.html#ae2cfddda5812604f30326706107ce20b", null ],
     [ "SpellRequiredMapBounds", "de/d30/SpellMgr_8h.html#a88ffc1e3eda7c90f1f55e169dc76b444", null ],
@@ -129,7 +127,13 @@ var SpellMgr_8h =
       [ "ICC_RACEMASK_ALLIANCE", "de/d30/SpellMgr_8h.html#a955c2f2d6134701c932a636512d7fbd4a7352283120084279478da1de4d3db9d0", null ]
     ] ],
     [ "ProcAttributes", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136a", [
-      [ "PROC_ATTR_REQ_EXP_OR_HONOR", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83", null ]
+      [ "PROC_ATTR_REQ_EXP_OR_HONOR", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83", null ],
+      [ "PROC_ATTR_TRIGGERED_CAN_PROC", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c", null ],
+      [ "PROC_ATTR_REQ_MANA_COST", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d", null ],
+      [ "PROC_ATTR_REQ_SPELLMOD", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876", null ],
+      [ "PROC_ATTR_USE_STACKS_FOR_CHARGES", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74", null ],
+      [ "PROC_ATTR_REDUCE_PROC_60", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc", null ],
+      [ "PROC_ATTR_CANT_PROC_FROM_ITEM_CAST", "de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa59658af2a6f300facab883172b0cca94", null ]
     ] ],
     [ "ProcFlags", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6", [
       [ "PROC_FLAG_NONE", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af765023e3e3f58d814e32d66d0f8fe45", null ],
@@ -162,7 +166,6 @@ var SpellMgr_8h =
       [ "MELEE_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a14027c6438de738ac2595d9d4d2021f6", null ],
       [ "RANGED_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac5647abe6aa2b8e292cde78a34ac29cc", null ],
       [ "SPELL_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6adc3fb7dd56615e62d28af0ea87793d58", null ],
-      [ "SPELL_CAST_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a552a1fd0206ffd94fbcde18e080a44cf", null ],
       [ "PERIODIC_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a6d718a09392612753a07abe19d65299c", null ],
       [ "DONE_HIT_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ae0cef27dc24d6bd6fa46efa85df7d488", null ],
       [ "TAKEN_HIT_PROC_FLAG_MASK", "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a4ef079da228b08645ef20ead47c22a73", null ],

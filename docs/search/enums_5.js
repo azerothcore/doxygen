@@ -48,5 +48,6 @@ var searchData=
   ['friendstatus_45',['FriendStatus',['../dc/da6/SocialMgr_8h.html#a55ec778c8e53f4a36f26e03a8f130104',1,'SocialMgr.h']]],
   ['frostwingdata_46',['FrostwingData',['../de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0e',1,'boss_sindragosa.cpp']]],
   ['frostwingvrykl_47',['FrostwingVrykl',['../db/dd3/icecrown__citadel_8cpp.html#a1bc82fb1da7a0a7aca913f49b94ff617',1,'icecrown_citadel.cpp']]],
-  ['fumping_48',['fumping',['../d6/d75/zone__terokkar__forest_8cpp.html#ab162634ca3ea951211b5f98c1f38600e',1,'zone_terokkar_forest.cpp']]]
+  ['frozenshadoweave_48',['FrozenShadoweave',['../db/d6e/spell__item_8cpp.html#ad160904c7e07fec76bbf6bae190f6c98',1,'spell_item.cpp']]],
+  ['fumping_49',['fumping',['../d6/d75/zone__terokkar__forest_8cpp.html#ab162634ca3ea951211b5f98c1f38600e',1,'zone_terokkar_forest.cpp']]]
 ];

@@ -1,7 +1,6 @@
 var classspell__warr__vigilance =
 [
     [ "CheckProc", "d4/dd6/classspell__warr__vigilance.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleAfterApply", "d4/dd6/classspell__warr__vigilance.html#ac3c12801bde3bd259b573eeca6dc4d5b", null ],
     [ "HandleApply", "d4/dd6/classspell__warr__vigilance.html#aaa07858f0604965fad5c1189125a822b", null ],
     [ "HandleProc", "d4/dd6/classspell__warr__vigilance.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
     [ "HandleRemove", "d4/dd6/classspell__warr__vigilance.html#a3da984d172878110b77549b51409d7e0", null ],

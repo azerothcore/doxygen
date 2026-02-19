@@ -314,29 +314,29 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  300</span>    {</div>
-<div class="line"><span class="lineno">  301</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  302</span>        {</div>
-<div class="line"><span class="lineno">  303</span>            <span class="keywordflow">if</span> (target-&gt;GetLevel() &gt;= 30)</div>
-<div class="line"><span class="lineno">  304</span>            {</div>
-<div class="line"><span class="lineno">  305</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> chance = 100 - std::min&lt;uint8&gt;(100, target-&gt;GetLevel() - 30 * <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(3, 10));</div>
-<div class="line"><span class="lineno">  306</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(chance))</div>
-<div class="line"><span class="lineno">  307</span>                {</div>
-<div class="line"><span class="lineno">  308</span>                    <a class="code hl_function" href="../../df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c">PreventHitAura</a>();</div>
-<div class="line"><span class="lineno">  309</span>                }</div>
-<div class="line"><span class="lineno">  310</span>            }</div>
-<div class="line"><span class="lineno">  311</span>        }</div>
-<div class="line"><span class="lineno">  312</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  534</span>    {</div>
+<div class="line"><span class="lineno">  535</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  536</span>        {</div>
+<div class="line"><span class="lineno">  537</span>            <span class="keywordflow">if</span> (target-&gt;GetLevel() &gt;= 30)</div>
+<div class="line"><span class="lineno">  538</span>            {</div>
+<div class="line"><span class="lineno">  539</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> chance = 100 - std::min&lt;uint8&gt;(100, target-&gt;GetLevel() - 30 * <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(3, 10));</div>
+<div class="line"><span class="lineno">  540</span>                <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a>(chance))</div>
+<div class="line"><span class="lineno">  541</span>                {</div>
+<div class="line"><span class="lineno">  542</span>                    <a class="code hl_function" href="../../df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c">PreventHitAura</a>();</div>
+<div class="line"><span class="lineno">  543</span>                }</div>
+<div class="line"><span class="lineno">  544</span>            }</div>
+<div class="line"><span class="lineno">  545</span>        }</div>
+<div class="line"><span class="lineno">  546</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aRandom_8h_html_a50320d4edff86db31b25138ae72161ad"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a50320d4edff86db31b25138ae72161ad">roll_chance_i</a></div><div class="ttdeci">bool roll_chance_i(int chance)</div><div class="ttdef"><b>Definition</b> Random.h:63</div></div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aclassSpellScript_html_ad5f3ea514fd686aaed7b97f4df952a9c"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ad5f3ea514fd686aaed7b97f4df952a9c">SpellScript::PreventHitAura</a></div><div class="ttdeci">void PreventHitAura()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:568</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00568">SpellScript::PreventHitAura()</a>, <a class="el" href="../../#l00063">roll_chance_i()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00314">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00548">Register()</a>.</p>
 
 </div>
 </div>
@@ -390,16 +390,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  315</span>    {</div>
-<div class="line"><span class="lineno">  316</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d1/d7b/classspell__item__magic__dust.html#a62b9a62f5379f4ca98921c7fe4278b58">spell_item_magic_dust::HandlePreventAura</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a>);</div>
-<div class="line"><span class="lineno">  317</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  549</span>    {</div>
+<div class="line"><span class="lineno">  550</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d1/d7b/classspell__item__magic__dust.html#a62b9a62f5379f4ca98921c7fe4278b58">spell_item_magic_dust::HandlePreventAura</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a>);</div>
+<div class="line"><span class="lineno">  551</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a></div><div class="ttdeci">@ SPELL_EFFECT_APPLY_AURA</div><div class="ttdef"><b>Definition</b> SharedDefines.h:795</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__item__magic__dust_html_a62b9a62f5379f4ca98921c7fe4278b58"><div class="ttname"><a href="../../d1/d7b/classspell__item__magic__dust.html#a62b9a62f5379f4ca98921c7fe4278b58">spell_item_magic_dust::HandlePreventAura</a></div><div class="ttdeci">void HandlePreventAura(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:299</div></div>
+<div class="ttc" id="aclassspell__item__magic__dust_html_a62b9a62f5379f4ca98921c7fe4278b58"><div class="ttname"><a href="../../d1/d7b/classspell__item__magic__dust.html#a62b9a62f5379f4ca98921c7fe4278b58">spell_item_magic_dust::HandlePreventAura</a></div><div class="ttdeci">void HandlePreventAura(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:533</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00299">HandlePreventAura()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00795">SPELL_EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00533">HandlePreventAura()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00795">SPELL_EFFECT_APPLY_AURA</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -412,7 +412,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d7b/classspell__item__magic__dust.html">spell_item_magic_dust</a></li>
-    <li class="footer">Generated on Wed Feb 18 2026 06:58:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:56:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

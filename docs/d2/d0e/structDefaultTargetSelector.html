@@ -208,7 +208,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   66</span>: <a class="code hl_variable" href="../../d2/d0e/structDefaultTargetSelector.html#a4e468ce5a085ef402659db46f71d6262">me</a>(unit), <a class="code hl_variable" href="../../d2/d0e/structDefaultTargetSelector.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">m_dist</a>(dist), <a class="code hl_variable" href="../../d2/d0e/structDefaultTargetSelector.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e">except</a>(!withMainTank ? <a class="code hl_variable" href="../../d2/d0e/structDefaultTargetSelector.html#a4e468ce5a085ef402659db46f71d6262">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#a31c5aa513055858f835a5f1a8d372930">GetCurrentVictim</a>() : nullptr), <a class="code hl_variable" href="../../d2/d0e/structDefaultTargetSelector.html#aa7d50214f6fcb051279373e3373a6f68">m_playerOnly</a>(playerOnly), <a class="code hl_variable" href="../../d2/d0e/structDefaultTargetSelector.html#a93cae8f794de101a6a0a821961c312b8">m_aura</a>(aura) {}</div>
 <div class="ttc" id="aclassThreatMgr_html_a31c5aa513055858f835a5f1a8d372930"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#a31c5aa513055858f835a5f1a8d372930">ThreatMgr::GetCurrentVictim</a></div><div class="ttdeci">Unit * GetCurrentVictim() const</div><div class="ttdef"><b>Definition</b> ThreatMgr.h:216</div></div>
-<div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:943</div></div>
+<div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:947</div></div>
 <div class="ttc" id="astructDefaultTargetSelector_html_a4e468ce5a085ef402659db46f71d6262"><div class="ttname"><a href="../../d2/d0e/structDefaultTargetSelector.html#a4e468ce5a085ef402659db46f71d6262">DefaultTargetSelector::me</a></div><div class="ttdeci">Unit const  * me</div><div class="ttdef"><b>Definition</b> UnitAI.h:55</div></div>
 <div class="ttc" id="astructDefaultTargetSelector_html_a57b3cdce9605ab6ff6bdfdf7bf264a5f"><div class="ttname"><a href="../../d2/d0e/structDefaultTargetSelector.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f">DefaultTargetSelector::m_dist</a></div><div class="ttdeci">float m_dist</div><div class="ttdef"><b>Definition</b> UnitAI.h:56</div></div>
 <div class="ttc" id="astructDefaultTargetSelector_html_a93cae8f794de101a6a0a821961c312b8"><div class="ttname"><a href="../../d2/d0e/structDefaultTargetSelector.html#a93cae8f794de101a6a0a821961c312b8">DefaultTargetSelector::m_aura</a></div><div class="ttdeci">int32 m_aura</div><div class="ttdef"><b>Definition</b> UnitAI.h:59</div></div>
@@ -276,9 +276,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  101</span> </div>
 <div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  103</span>    }</div>
-<div class="ttc" id="aclassUnit_html_a2b32551adec993309c35e8e88e35b4be"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2b32551adec993309c35e8e88e35b4be">Unit::IsWithinCombatRange</a></div><div class="ttdeci">bool IsWithinCombatRange(Unit const *obj, float dist2compare) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:649</div></div>
+<div class="ttc" id="aclassUnit_html_a2b32551adec993309c35e8e88e35b4be"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2b32551adec993309c35e8e88e35b4be">Unit::IsWithinCombatRange</a></div><div class="ttdeci">bool IsWithinCombatRange(Unit const *obj, float dist2compare) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:757</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">except</a>, <a class="el" href="../../#l05847">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00649">Unit::IsWithinCombatRange()</a>, <a class="el" href="../../#l00059">m_aura</a>, <a class="el" href="../../#l00056">m_dist</a>, <a class="el" href="../../#l00058">m_playerOnly</a>, and <a class="el" href="../../#l00055">me</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">except</a>, <a class="el" href="../../#l05946">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00757">Unit::IsWithinCombatRange()</a>, <a class="el" href="../../#l00059">m_aura</a>, <a class="el" href="../../#l00056">m_dist</a>, <a class="el" href="../../#l00058">m_playerOnly</a>, and <a class="el" href="../../#l00055">me</a>.</p>
 
 </div>
 </div>
@@ -372,7 +372,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d0e/structDefaultTargetSelector.html">DefaultTargetSelector</a></li>
-    <li class="footer">Generated on Wed Feb 18 2026 06:57:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:56:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

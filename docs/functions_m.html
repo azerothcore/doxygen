@@ -506,6 +506,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>m_heal&#160;:&#160;<a class="el" href="db/df2/classHealInfo.html#af0a2d7c40710cabbb88122de2650c705">HealInfo</a></li>
 <li>m_healer&#160;:&#160;<a class="el" href="db/df2/classHealInfo.html#ad291e8e65eb0a9a9054ac1827cf0d315">HealInfo</a></li>
 <li>m_healing&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#a947de48edc8fd21483f27a59e9ffcb35">Spell</a></li>
+<li>m_hitMask&#160;:&#160;<a class="el" href="d2/d2d/classDamageInfo.html#aaf007fcfad971a31ad76d293a298575b">DamageInfo</a>, <a class="el" href="db/df2/classHealInfo.html#a9a76facea1d79fb8f30ab8d58cba7f2f">HealInfo</a></li>
 <li>m_hitPreventDefaultEffectMask&#160;:&#160;<a class="el" href="df/d92/classSpellScript.html#ab477a1d96d30165236840058af3d2f78">SpellScript</a></li>
 <li>m_hitPreventEffectMask&#160;:&#160;<a class="el" href="df/d92/classSpellScript.html#a66d39d9b940e70f21e53ad254b7ab1e2">SpellScript</a></li>
 <li>m_hitTriggerSpells&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#a92d792f1d537a6c8aa319759ec3fbd0d">Spell</a></li>
@@ -843,6 +844,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>m_printBuffer&#160;:&#160;<a class="el" href="d5/dfc/classSOAPCommand.html#aa823e9c8d3048d5780b11d168f5be0d9">SOAPCommand</a></li>
 <li>m_procAttacker&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#aecb2b2a5f569bd67fd97bc349250e5f5">Spell</a></li>
 <li>m_procCharges&#160;:&#160;<a class="el" href="db/dce/classAura.html#af32b9da81a73be723f660ae4e3363e74">Aura</a></li>
+<li>m_procCooldown&#160;:&#160;<a class="el" href="db/dce/classAura.html#a57e2b3e168293383aa8edb878b5c86f6">Aura</a></li>
 <li>m_procDeep&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#adeadc6b825ccb770336a831845db1bc2">Unit</a></li>
 <li>m_procEx&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#ad0d721f37cd6402a14f16302e6a61d3a">Spell</a></li>
 <li>m_procVictim&#160;:&#160;<a class="el" href="d1/d16/classSpell.html#a132f7a222814fd8c2fc838626c7731d5">Spell</a></li>
@@ -1012,7 +1014,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>m_spellImmune&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a867583565eed9425169401bafa21e093">Unit</a></li>
 <li>m_spellInfo&#160;:&#160;<a class="el" href="db/dce/classAura.html#aaba50101334e21660ff99d4668ae06b7">Aura</a>, <a class="el" href="d7/d46/classAuraEffect.html#ac4df84854746b8de74f64e2abfec76c1">AuraEffect</a>, <a class="el" href="d2/d2d/classDamageInfo.html#a5a8ec67f5c136d0ae8822a6fa7766187">DamageInfo</a>, <a class="el" href="db/df2/classHealInfo.html#a68d6d63fdd1efb458615e24f65e643be">HealInfo</a>, <a class="el" href="d1/d16/classSpell.html#af46c9b635b8928c161d943f10ae693f1">Spell</a></li>
 <li>m_spellmod&#160;:&#160;<a class="el" href="d7/d46/classAuraEffect.html#a25ce25c5ff12969bd62d0547c48b5753">AuraEffect</a></li>
-<li>m_spellMods&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a5758820189a7bd38ca7259d145890fa4">Player</a></li>
+<li>m_spellMods&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a40e7b0d61fd8a768cf6243ae3978cdea">Player</a></li>
 <li>m_spellModTakingSpell&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#aef9ce9c5a9b057135baefb361bd396f6">Player</a></li>
 <li>m_spellPenetrationItemMod&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#ad5bae72662040d2e9784c9ad6a0ef213">Player</a></li>
 <li>m_spells&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a38727e1fc7443d11afa6e37598e932ea">Creature</a>, <a class="el" href="df/d14/classPet.html#ae8456efad9fd499fceed997fbcb72cb8">Pet</a>, <a class="el" href="d2/d4b/classPlayer.html#a09f82d39cc77e3761fe3c8f30306f802">Player</a></li>
@@ -1236,10 +1238,10 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MagicSpellHitResult()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a37bdb0851bcf8491275b83c163538f97">Unit</a></li>
 <li>MagmusGUID&#160;:&#160;<a class="el" href="d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html#a84d6419bddf10cf572d44f9dc40c7b27">instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript</a></li>
 <li>MailCount&#160;:&#160;<a class="el" href="dd/dcf/structCharacterCacheEntry.html#a8a74e276dec82ac3f2950b8637ed9213">CharacterCacheEntry</a></li>
-<li>MailDraft()&#160;:&#160;<a class="el" href="d0/de9/classMailDraft.html#adbadad7d9522146672759298c981f7db">MailDraft</a></li>
+<li>MailDraft()&#160;:&#160;<a class="el" href="d0/de9/classMailDraft.html#a8a7a37890b6a280f2b08659e5e59b354">MailDraft</a></li>
 <li>MailItemMap&#160;:&#160;<a class="el" href="d0/de9/classMailDraft.html#afad4472f25a020fd6c8d6452840d021c">MailDraft</a></li>
-<li>MailLevelReward()&#160;:&#160;<a class="el" href="df/d10/structMailLevelReward.html#accd52642cbbab457b69dba54a6ffa23b">MailLevelReward</a></li>
-<li>MailReceiver()&#160;:&#160;<a class="el" href="d7/d58/classMailReceiver.html#a6fba3ff0ab3167197f569631d766ce14">MailReceiver</a></li>
+<li>MailLevelReward()&#160;:&#160;<a class="el" href="df/d10/structMailLevelReward.html#a3e98aa5c30b0b5648784f9aaf5349a76">MailLevelReward</a></li>
+<li>MailReceiver()&#160;:&#160;<a class="el" href="d7/d58/classMailReceiver.html#af0b094a704463ed76b1c08bc3cab0380">MailReceiver</a></li>
 <li>MailScript()&#160;:&#160;<a class="el" href="d0/da6/classMailScript.html#a009eaf9dd8d44427e8e5c91a92ebb5c5">MailScript</a></li>
 <li>MailSender()&#160;:&#160;<a class="el" href="de/d1e/classMailSender.html#a735cfef6950357644d6965978dde0309">MailSender</a></li>
 <li>mailTemplate&#160;:&#160;<a class="el" href="d2/d0c/structAchievementReward.html#adc59ba563519ed9e673b734c4e40e7b8">AchievementReward</a></li>
@@ -1359,7 +1361,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MapsPath()&#160;:&#160;<a class="el" href="d8/da7/classMMAP_1_1Config.html#a1d0f34239a4770006e4f53d0f28ba8ed">MMAP::Config</a></li>
 <li>MapSpecific()&#160;:&#160;<a class="el" href="d0/d0a/classObjectGuid.html#ad869cdc228bb221ff44e820478c6cc9d">ObjectGuid</a>, <a class="el" href="d6/d00/structObjectGuidTraits.html#a42e5a0249b84d4e8175a4cb65480bbcf">ObjectGuidTraits&lt; high &gt;</a></li>
 <li>mapsUsed&#160;:&#160;<a class="el" href="df/dc5/structTransportTemplate.html#a93899b0648871ed8ca32dfe8394347c1">TransportTemplate</a></li>
-<li>MapTiles()&#160;:&#160;<a class="el" href="df/d51/structMMAP_1_1MapTiles.html#a406efc53593b5bceb0a491c0b7553350">MMAP::MapTiles</a></li>
+<li>MapTiles()&#160;:&#160;<a class="el" href="df/d51/structMMAP_1_1MapTiles.html#abc58d7154eab45ae26df27e2e82dac63">MMAP::MapTiles</a></li>
 <li>MapType&#160;:&#160;<a class="el" href="da/dd8/classHashMapHolder.html#a8fa5f0aca9316901f42b2df8251c5a5d">HashMapHolder&lt; T &gt;</a></li>
 <li>MapUpdater()&#160;:&#160;<a class="el" href="d3/db8/classMapUpdater.html#a96424fd90677e0f2d0908f9c25b58d04">MapUpdater</a></li>
 <li>MapUpdateRequest()&#160;:&#160;<a class="el" href="d1/d24/classMapUpdateRequest.html#af71812e502bb1ceb60a286ff0d676ccd">MapUpdateRequest</a></li>
@@ -1622,7 +1624,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MMapMgr()&#160;:&#160;<a class="el" href="df/d8e/classMMAP_1_1MMapMgr.html#abd4bd2ef84d57be5000ab37ed36ded8c">MMAP::MMapMgr</a></li>
 <li>mmaps_commandscript()&#160;:&#160;<a class="el" href="da/df3/classmmaps__commandscript.html#a1dbdfd26bdb685315a3012453080a56f">mmaps_commandscript</a></li>
 <li>MMapsPath()&#160;:&#160;<a class="el" href="d8/da7/classMMAP_1_1Config.html#a4c4885b899f29f8b7fdeaccbbf3c5c54">MMAP::Config</a></li>
-<li>MMapTargetData()&#160;:&#160;<a class="el" href="d8/d7d/classMMapTargetData.html#a33cc430ea3c4b5dd4012a16914dc8aeb">MMapTargetData</a></li>
+<li>MMapTargetData()&#160;:&#160;<a class="el" href="d8/d7d/classMMapTargetData.html#a3547f93af46826a051f1164ac1fc9ccc">MMapTargetData</a></li>
 <li>MmapTileHeader()&#160;:&#160;<a class="el" href="d1/d1b/structMmapTileHeader.html#a0165f9a4caee4e4759ea261dfbac08a7">MmapTileHeader</a></li>
 <li>mmapVersion&#160;:&#160;<a class="el" href="d1/d1b/structMmapTileHeader.html#a5cc3cd873419fe8aeb479d3187584410">MmapTileHeader</a></li>
 <li>mMitems&#160;:&#160;<a class="el" href="d2/d4b/classPlayer.html#a0514871236c42f709acc23c4ab03ab26">Player</a></li>
@@ -1631,7 +1633,8 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MobaEx&#160;:&#160;<a class="el" href="dc/d66/classWMOGroup.html#ae185ea49affd80b22e7fb1825ce01031">WMOGroup</a></li>
 <li>MobGUID&#160;:&#160;<a class="el" href="d7/dcf/structnpc__qiraj__war__spawn_1_1npc__qiraj__war__spawnAI.html#a4148121a56275770ee84744a0288b6c5">npc_qiraj_war_spawn::npc_qiraj_war_spawnAI</a></li>
 <li>MobSpawnId&#160;:&#160;<a class="el" href="d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html#ab17115539c7778849eb7a5d7b3c14955">npc_grimstone::npc_grimstoneAI</a></li>
-<li>MOCK_METHOD()&#160;:&#160;<a class="el" href="d8/d8b/classMockArenaSeasonTeamRewarder.html#a423c022319fa9025b56db18cc27945b3">MockArenaSeasonTeamRewarder</a>, <a class="el" href="d0/d66/classWorldMock.html#ad400cdf33f3f0b4d036cf7e2f16fcaa2">WorldMock</a></li>
+<li>MOCK_METHOD()&#160;:&#160;<a class="el" href="d8/d8b/classMockArenaSeasonTeamRewarder.html#a423c022319fa9025b56db18cc27945b3">MockArenaSeasonTeamRewarder</a>, <a class="el" href="d0/d70/classMockAuraStub.html#a727233484b563f548c9f0e2d8a78b9a6">MockAuraStub</a>, <a class="el" href="db/ded/classMockUnitStub.html#aebca824eff5f8d2f7c210abdcdf1ed7d">MockUnitStub</a>, <a class="el" href="d0/d66/classWorldMock.html#ad400cdf33f3f0b4d036cf7e2f16fcaa2">WorldMock</a></li>
+<li>MockAuraStub()&#160;:&#160;<a class="el" href="d0/d70/classMockAuraStub.html#a9f0561eabca5230f8fe27384e0deb6b8">MockAuraStub</a></li>
 <li>mockingBlowTimer&#160;:&#160;<a class="el" href="d6/d90/structnpc__corporal__keeshan_1_1npc__corporal__keeshanAI.html#a21cd1ca86864b8507d43e5a1c4c13e0c">npc_corporal_keeshan::npc_corporal_keeshanAI</a></li>
 <li>ModArmor&#160;:&#160;<a class="el" href="d1/d61/structCreatureTemplate.html#a7c9443f35fd104ab971beb0b65f1abe8">CreatureTemplate</a></li>
 <li>ModAuraStack()&#160;:&#160;<a class="el" href="d4/d1d/classspell__taldaram__ball__of__inferno__flame.html#a7535ef148e047e32a5f7a1944585e396">spell_taldaram_ball_of_inferno_flame</a></li>
@@ -1704,7 +1707,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>ModSpellCastTime()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#ab9c186b46da7139d5da042b142f845ad">Unit</a></li>
 <li>ModSpellDuration()&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a596541ef7595747d917a70cfcdd2fb20">Unit</a></li>
 <li>ModSrc()&#160;:&#160;<a class="el" href="d4/d3a/classSpellCastTargets.html#ade0adf5ac613b5cadb186433b8e53a84">SpellCastTargets</a></li>
-<li>ModStackAmount()&#160;:&#160;<a class="el" href="db/dce/classAura.html#a69b589a7414d5d73ed75d12d5ba736ef">Aura</a>, <a class="el" href="d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">AuraScript</a></li>
+<li>ModStackAmount()&#160;:&#160;<a class="el" href="db/dce/classAura.html#a69b589a7414d5d73ed75d12d5ba736ef">Aura</a>, <a class="el" href="d5/d0f/classAuraScript.html#afe631d7dac9971919237be37b6693fdb">AuraScript</a>, <a class="el" href="d8/d45/classAuraStub.html#a8acc4b01359a718092d0ab4c737f9657">AuraStub</a></li>
 <li>Module&#160;:&#160;<a class="el" href="d0/d73/structModule__79C0768D657977D697E10BAD956CCED1.html#a1fcce28666a614c83d06729bc9c88bb4">Module_79C0768D657977D697E10BAD956CCED1</a></li>
 <li>MODULE&#160;:&#160;<a class="el" href="d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbaf24fbaf4f357560007067272d5d238f4">UpdateFetcher</a></li>
 <li>ModuleId&#160;:&#160;<a class="el" href="d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516">WardenModuleUse</a></li>
@@ -1752,7 +1755,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>mouthGuid&#160;:&#160;<a class="el" href="db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a2245c14e379c83bdd47165e829de2e41">ScourgeInvasionData::InvasionZone</a></li>
 <li>MovableMapObject()&#160;:&#160;<a class="el" href="db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject</a></li>
 <li>Move()&#160;:&#160;<a class="el" href="df/d9d/classMessageBuffer.html#acc13033dd688408760116899ca38f94e">MessageBuffer</a></li>
-<li>move&#160;:&#160;<a class="el" href="dd/d27/structSmartAction.html#aea84ccbb52ca9fa1ae0fe0fdab4cc0d6">SmartAction</a></li>
+<li>move&#160;:&#160;<a class="el" href="dd/d27/structSmartAction.html#a6c3efabf39fc64bbc0ff1ab5f7a48f25">SmartAction</a></li>
 <li>Move()&#160;:&#160;<a class="el" href="d5/d7b/classWorldPackets_1_1ServerPacket.html#a659397042201ae571bb564872e54d2c6">WorldPackets::ServerPacket</a>, <a class="el" href="db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451">WorldPackets::String&lt; MaxBytesWithoutNullTerminator, Validators &gt;</a></li>
 <li>MOVE_BACKWARDS_CHECK_INTERVAL&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#a30edd6003ed7a94d2d40c5b0be9d3fce">Creature</a></li>
 <li>MOVE_CIRCLE_CHECK_INTERVAL&#160;:&#160;<a class="el" href="db/dd5/classCreature.html#aa984d1ae0f1a9190618c4e3fadf65080">Creature</a></li>
@@ -1763,7 +1766,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MoveBackwards()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#aa7daeb9ba8434cb77aff7e5b60130e89">MotionMaster</a></li>
 <li>MoveBackwardsChecks()&#160;:&#160;<a class="el" href="d5/d79/classCreatureAI.html#ae80b4a2f2107818472619d8586059d66">CreatureAI</a></li>
 <li>MovebyPath()&#160;:&#160;<a class="el" href="d4/d99/classMovement_1_1MoveSplineInit.html#aab8475d504365efbefd571f748b4f42e">Movement::MoveSplineInit</a></li>
-<li>MoveCharge()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a162fa5144b41ae9e080d41b5c7df1597">MotionMaster</a></li>
+<li>MoveCharge()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e">MotionMaster</a></li>
 <li>MoveChase()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a3ff14061961bcc5cf1d34842683d90ac">MotionMaster</a></li>
 <li>MoveCircleChecks()&#160;:&#160;<a class="el" href="d5/d79/classCreatureAI.html#a47d2c5e44ccbf09d7c2059bed31d216d">CreatureAI</a></li>
 <li>MoveCircleTarget()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#ae586859e733b3db58835a05f4a2a7818">MotionMaster</a></li>
@@ -1787,7 +1790,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MoveJump()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a9744b1869b88241035117268f3edc591">MotionMaster</a></li>
 <li>MoveJumpTo()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#adb1f82ee5ec702375fc4292e46865edf">MotionMaster</a></li>
 <li>MoveKnockbackFrom()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a64bc45f3a7151492cae042fec0aa5b2b">MotionMaster</a></li>
-<li>MoveLand()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a406b03af782d65f52672361b763d563a">MotionMaster</a></li>
+<li>MoveLand()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#aafe3a2f555b597f7904269a640c9dfd1">MotionMaster</a></li>
 <li>Movement&#160;:&#160;<a class="el" href="d1/d61/structCreatureTemplate.html#a889f2a1f348c402e15e355913b98a032">CreatureTemplate</a>, <a class="el" href="d2/d8f/structScriptInfo.html#a0497b2d357a338077d62eab84911b3b8">ScriptInfo</a></li>
 <li>MovementDistance&#160;:&#160;<a class="el" href="d2/d8f/structScriptInfo.html#a3d9b589329b6dcf5b347890fa8c03889">ScriptInfo</a></li>
 <li>MovementExpired()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a6717ae922b894d482bf6358aa99bacb4">MotionMaster</a></li>
@@ -1820,7 +1823,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>moveSpeed&#160;:&#160;<a class="el" href="dd/d3b/structGameObjectTemplate.html#a0a4d98f675333f86b8865638d368084b">GameObjectTemplate</a></li>
 <li>MoveSpline()&#160;:&#160;<a class="el" href="d3/d68/classMovement_1_1MoveSpline.html#a144977e0f5788113d1a3d846e74dda3e">Movement::MoveSpline</a></li>
 <li>movespline&#160;:&#160;<a class="el" href="df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">Unit</a></li>
-<li>MoveSplineFlag()&#160;:&#160;<a class="el" href="db/d9d/classMovement_1_1MoveSplineFlag.html#a51f45c2efce0c0ccd16e79d96051cf11">Movement::MoveSplineFlag</a></li>
+<li>MoveSplineFlag()&#160;:&#160;<a class="el" href="db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b">Movement::MoveSplineFlag</a></li>
 <li>MoveSplineInit()&#160;:&#160;<a class="el" href="d4/d99/classMovement_1_1MoveSplineInit.html#a1f35bd993c8854badb489dee016d28ef">Movement::MoveSplineInit</a></li>
 <li>MoveSplineInitArgs()&#160;:&#160;<a class="el" href="dc/d2f/structMovement_1_1MoveSplineInitArgs.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68">Movement::MoveSplineInitArgs</a></li>
 <li>MoveSplinePath()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a12335d0caa181e446d4edf71dfe7100e">MotionMaster</a></li>
@@ -1829,7 +1832,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>MoveTaxiFlight()&#160;:&#160;<a class="el" href="de/d3b/classMotionMaster.html#a1886ae83d1ae090883555a10edf597e4">MotionMaster</a></li>
 <li>MoveTheChildren()&#160;:&#160;<a class="el" href="db/d3e/structnpc__cameron.html#a85ae436f19f69ffb853330f01ee152a0">npc_cameron</a></li>
 <li>moveTimer&#160;:&#160;<a class="el" href="d7/d2c/structnpc__taldaram__flamesphere.html#afe50ac59ec441ab11745ca9461158a00">npc_taldaram_flamesphere</a></li>
-<li>MoveTo()&#160;:&#160;<a class="el" href="d4/d99/classMovement_1_1MoveSplineInit.html#a1805cc0033ca71a710bd310bed0fccd6">Movement::MoveSplineInit</a>, <a class="el" href="d2/d8f/structScriptInfo.html#ae50e3b710c418ed73b4b4029b6a3a04c">ScriptInfo</a></li>
+<li>MoveTo()&#160;:&#160;<a class="el" href="d4/d99/classMovement_1_1MoveSplineInit.html#a1a1c23b0ea579800264fe37938b3a373">Movement::MoveSplineInit</a>, <a class="el" href="d2/d8f/structScriptInfo.html#ae50e3b710c418ed73b4b4029b6a3a04c">ScriptInfo</a></li>
 <li>moveToBasePos()&#160;:&#160;<a class="el" href="da/d93/classVMAP_1_1ModelPosition.html#a2fe1b48319a056f110ef700877257731">VMAP::ModelPosition</a></li>
 <li>MoveToCorner()&#160;:&#160;<a class="el" href="d4/d17/structboss__four__horsemen_1_1boss__four__horsemenAI.html#a7891dc79980c67d82867f6181685b359">boss_four_horsemen::boss_four_horsemenAI</a></li>
 <li>MoveToNewWaypoint()&#160;:&#160;<a class="el" href="dc/d39/structnpc__janalai__hatcher.html#ab775a888ae1002eed3ed548ab89ca2e4">npc_janalai_hatcher</a></li>
@@ -1861,7 +1864,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>mpq_a&#160;:&#160;<a class="el" href="db/dc6/classMPQArchive.html#a72b9fb96b1e3db6c7be652e426978b4a">MPQArchive</a></li>
 <li>MPQArchive()&#160;:&#160;<a class="el" href="db/dc6/classMPQArchive.html#a58d57322334966ca16a22e52e5198d9f">MPQArchive</a></li>
 <li>MPQFile()&#160;:&#160;<a class="el" href="d3/df7/classMPQFile.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e">MPQFile</a></li>
-<li>MPSCQueueIntrusive()&#160;:&#160;<a class="el" href="d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#a8e05361abed759932c49b0fc71ed09c1">Acore::Impl::MPSCQueueIntrusive&lt; T, IntrusiveLink &gt;</a></li>
+<li>MPSCQueueIntrusive()&#160;:&#160;<a class="el" href="d7/d69/classAcore_1_1Impl_1_1MPSCQueueIntrusive.html#afaee06af7734e53ce50674e4ef7277b2">Acore::Impl::MPSCQueueIntrusive&lt; T, IntrusiveLink &gt;</a></li>
 <li>MPSCQueueNonIntrusive()&#160;:&#160;<a class="el" href="db/de8/classAcore_1_1Impl_1_1MPSCQueueNonIntrusive.html#a962c10fff5c86b00cc2e847ae758b9ce">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;</a></li>
 <li>mQuestCreatureRelation&#160;:&#160;<a class="el" href="d7/d95/classPoolMgr.html#ae4c6785df0887431da243334bbdb7f3c">PoolMgr</a></li>
 <li>mQuestGORelation&#160;:&#160;<a class="el" href="d7/d95/classPoolMgr.html#ae3dbde9c46f8152b35f5d2d287447747">PoolMgr</a></li>
@@ -1896,7 +1899,6 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <li>mSpellLinkedMap&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a032f25dee822225e2dfbb75e1c6d56f5">SpellMgr</a></li>
 <li>mSpellMixologyMap&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a5637b3248011a308a57338e6f74b7bdd">SpellMgr</a></li>
 <li>mSpellPetAuraMap&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a32090ca7b9037cdd52aa11d5ecb1bc51">SpellMgr</a></li>
-<li>mSpellProcEventMap&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a3e6353afe01453ebf0bab09cde94673e">SpellMgr</a></li>
 <li>mSpellProcMap&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a9f6998b4fee8fba87ad8d372abd8693d">SpellMgr</a></li>
 <li>mSpellReq&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#a0037908371f475d84ba4319c7109e12d">SpellMgr</a></li>
 <li>mSpellSameEffectStack&#160;:&#160;<a class="el" href="da/d90/classSpellMgr.html#aaf8bfa97d17b64309ba96846a42aea40">SpellMgr</a></li>
@@ -1943,7 +1945,7 @@ $(document).ready(function(){initNavTree('functions_m.html',''); initResizable()
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Wed Feb 18 2026 06:58:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:57:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

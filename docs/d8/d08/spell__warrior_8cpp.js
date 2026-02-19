@@ -21,15 +21,20 @@ var spell__warrior_8cpp =
     [ "spell_warr_shattering_throw", "d2/def/classspell__warr__shattering__throw.html", "d2/def/classspell__warr__shattering__throw" ],
     [ "spell_warr_sweeping_strikes", "d1/d85/classspell__warr__sweeping__strikes.html", "d1/d85/classspell__warr__sweeping__strikes" ],
     [ "spell_warr_vigilance", "d4/dd6/classspell__warr__vigilance.html", "d4/dd6/classspell__warr__vigilance" ],
+    [ "spell_warr_vigilance_redirect_threat", "d9/d84/classspell__warr__vigilance__redirect__threat.html", "d9/d84/classspell__warr__vigilance__redirect__threat" ],
     [ "spell_warr_vigilance_trigger", "dd/dbc/classspell__warr__vigilance__trigger.html", "dd/dbc/classspell__warr__vigilance__trigger" ],
     [ "spell_warr_glyph_of_sunder_armor", "d7/dcd/classspell__warr__glyph__of__sunder__armor.html", "d7/dcd/classspell__warr__glyph__of__sunder__armor" ],
     [ "spell_warr_t3_prot_8p_bonus", "d2/dc9/classspell__warr__t3__prot__8p__bonus.html", "d2/dc9/classspell__warr__t3__prot__8p__bonus" ],
     [ "spell_warr_retaliation", "db/d23/classspell__warr__retaliation.html", "db/d23/classspell__warr__retaliation" ],
     [ "spell_warr_heroic_strike", "de/daf/classspell__warr__heroic__strike.html", "de/daf/classspell__warr__heroic__strike" ],
     [ "spell_war_sudden_death_aura", "d1/d05/classspell__war__sudden__death__aura.html", "d1/d05/classspell__war__sudden__death__aura" ],
-    [ "CheatDeath", "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376", [
-      [ "SPELL_CHEAT_DEATH_TRIGGER", "d8/d08/spell__warrior_8cpp.html#ad5d09add8dab15b0e463e67d459f9376ab102180ca5b128f6a6454fc6c45f59d9", null ]
-    ] ],
+    [ "spell_warr_second_wind", "d0/da6/classspell__warr__second__wind.html", "d0/da6/classspell__warr__second__wind" ],
+    [ "spell_warr_deep_wounds_aura", "da/d89/classspell__warr__deep__wounds__aura.html", "da/d89/classspell__warr__deep__wounds__aura" ],
+    [ "spell_warr_extra_proc", "db/d2a/classspell__warr__extra__proc.html", "db/d2a/classspell__warr__extra__proc" ],
+    [ "spell_warr_sword_and_board", "d4/d16/classspell__warr__sword__and__board.html", "d4/d16/classspell__warr__sword__and__board" ],
+    [ "spell_warr_glyph_of_blocking", "d7/dbc/classspell__warr__glyph__of__blocking.html", "d7/dbc/classspell__warr__glyph__of__blocking" ],
+    [ "spell_warr_item_t10_prot_4p_bonus", "d3/df5/classspell__warr__item__t10__prot__4p__bonus.html", "d3/df5/classspell__warr__item__t10__prot__4p__bonus" ],
+    [ "spell_warr_warriors_wrath", "d0/d11/classspell__warr__warriors__wrath.html", "d0/d11/classspell__warr__warriors__wrath" ],
     [ "DazeSpells", "d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0", [
       [ "ICON_GENERIC_DAZE", "d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0a4edc53b949302f62d9c92f6c19aab2f9", null ],
       [ "SPELL_GENERIC_AFTERMATH", "d8/d08/spell__warrior_8cpp.html#a81bdca1937fd90501d08ca1af9164cb0ae34a561ad10f3e2ee9c6fa17ade88a88", null ]
@@ -44,7 +49,8 @@ var spell__warrior_8cpp =
       [ "SPELL_VICTORIOUS", "d8/d08/spell__warrior_8cpp.html#acef4cb7843a5797044c12329577e75e8a6c47455bc25393e351efe78e597da4f5", null ]
     ] ],
     [ "WarriorSpellIcons", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9", [
-      [ "WARRIOR_ICON_ID_SUDDEN_DEATH", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9a8158541edee02c4b1d6938cf9f09fb1a", null ]
+      [ "WARRIOR_ICON_ID_SUDDEN_DEATH", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9a8158541edee02c4b1d6938cf9f09fb1a", null ],
+      [ "WARRIOR_ICON_ID_SECOND_WIND", "d8/d08/spell__warrior_8cpp.html#ab839a76a51d15a04f4078d37863416a9a4de030c11b06f63daf9f6865e04a0ec2", null ]
     ] ],
     [ "WarriorSpells", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768", [
       [ "SPELL_WARRIOR_INTERVENE_TRIGGER", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a8d09419d3d4dd2dcb3d43a7aaefd943f", null ],
@@ -78,7 +84,17 @@ var spell__warrior_8cpp =
       [ "SPELL_WARRIOR_VIGILANCE_REDIRECT_THREAT", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a2b1e0e2d4da11d3796ef142fc1d9cb43", null ],
       [ "SPELL_WARRIOR_WHIRLWIND_MAIN", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a6d54589b1b5e425c22e9be31f219ca16", null ],
       [ "SPELL_WARRIOR_WHIRLWIND_OFF", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aab352ffaf12be7d0e86602fe71974356", null ],
-      [ "SPELL_WARRIOR_EXECUTE_R1", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a45645b8c6183c408e301ae1e2da60fad", null ]
+      [ "SPELL_WARRIOR_EXECUTE_R1", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a45645b8c6183c408e301ae1e2da60fad", null ],
+      [ "SPELL_WARRIOR_SECOND_WIND_HEAL_R1", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aca9396ca0758eef5d637249e2fc66c5f", null ],
+      [ "SPELL_WARRIOR_SECOND_WIND_HEAL_R2", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a65fece9452930c49056d89cf32ff9650", null ],
+      [ "SPELL_WARRIOR_SECOND_WIND_UK", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a7e63f177522f5b1da2e10336b0b45c4f", null ],
+      [ "SPELL_WARRIOR_T10_PROT_4P_ABSORB", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768aebbba6ee1790807106c1cea0e0d4d593", null ],
+      [ "SPELL_WARRIOR_GLYPH_OF_BLOCKING_BUFF", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768ab315a527f41a97c0c35c26fb3a8161a3", null ],
+      [ "SPELL_WARRIOR_T10_MELEE_4P_BONUS", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768af08ad97cfd8a5e99a95f0e3990f2a2e8", null ],
+      [ "SPELL_WARRIOR_T10_MELEE_4P_EXTRA_CHARGE", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768add66d52f782bab64545081a038390fa9", null ],
+      [ "SPELL_WARRIOR_SLAM_GCD_REDUCED", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a0b67afafd1482293cdf73e74db692992", null ],
+      [ "SPELL_WARRIOR_EXECUTE_GCD_REDUCED", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768acd309a35efd2e6bb6292751372cf12ed", null ],
+      [ "SPELL_WARRIOR_WARRIORS_WRATH", "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a17fc66a9c951dfa17d22d64bef636291", null ]
     ] ],
     [ "AddSC_warrior_spell_scripts", "d8/d08/spell__warrior_8cpp.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ]
 ];

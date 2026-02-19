@@ -173,22 +173,22 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  549</span>{</div>
-<div class="line"><span class="lineno">  550</span>    <span class="keywordflow">if</span> (mod &lt; 0)</div>
-<div class="line"><span class="lineno">  551</span>    {</div>
-<div class="line"><span class="lineno">  552</span>        <span class="comment">// pussywizard: prevent lowering MMR too much from max achieved MMR</span></div>
-<div class="line"><span class="lineno">  553</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> maxAllowedDrop = (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a050a1d84827b698338ee13fa89b44fe8">CONFIG_MAX_ALLOWED_MMR_DROP</a>);</div>
-<div class="line"><span class="lineno">  554</span>        mod = std::min&lt;int32&gt;(std::max&lt;int32&gt;(-((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> - (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088">MaxMMR</a> + maxAllowedDrop), mod), 0);</div>
-<div class="line"><span class="lineno">  555</span>    }</div>
-<div class="line"><span class="lineno">  556</span> </div>
-<div class="line"><span class="lineno">  557</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a>) + mod &lt; 0)</div>
-<div class="line"><span class="lineno">  558</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> = 0;</div>
-<div class="line"><span class="lineno">  559</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  560</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> += mod;</div>
-<div class="line"><span class="lineno">  561</span> </div>
-<div class="line"><span class="lineno">  562</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> &gt; <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088">MaxMMR</a>)</div>
-<div class="line"><span class="lineno">  563</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088">MaxMMR</a> = <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a>;</div>
-<div class="line"><span class="lineno">  564</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  550</span>{</div>
+<div class="line"><span class="lineno">  551</span>    <span class="keywordflow">if</span> (mod &lt; 0)</div>
+<div class="line"><span class="lineno">  552</span>    {</div>
+<div class="line"><span class="lineno">  553</span>        <span class="comment">// pussywizard: prevent lowering MMR too much from max achieved MMR</span></div>
+<div class="line"><span class="lineno">  554</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> maxAllowedDrop = (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a050a1d84827b698338ee13fa89b44fe8">CONFIG_MAX_ALLOWED_MMR_DROP</a>);</div>
+<div class="line"><span class="lineno">  555</span>        mod = std::min&lt;int32&gt;(std::max&lt;int32&gt;(-((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> - (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>)<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088">MaxMMR</a> + maxAllowedDrop), mod), 0);</div>
+<div class="line"><span class="lineno">  556</span>    }</div>
+<div class="line"><span class="lineno">  557</span> </div>
+<div class="line"><span class="lineno">  558</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a>) + mod &lt; 0)</div>
+<div class="line"><span class="lineno">  559</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> = 0;</div>
+<div class="line"><span class="lineno">  560</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  561</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> += mod;</div>
+<div class="line"><span class="lineno">  562</span> </div>
+<div class="line"><span class="lineno">  563</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a> &gt; <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088">MaxMMR</a>)</div>
+<div class="line"><span class="lineno">  564</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#afc86e111a1c699254c5ea761d0dda088">MaxMMR</a> = <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#ac91a344c7aecb72d17841413f5d935da">MatchMakerRating</a>;</div>
+<div class="line"><span class="lineno">  565</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a050a1d84827b698338ee13fa89b44fe8"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a050a1d84827b698338ee13fa89b44fe8">CONFIG_MAX_ALLOWED_MMR_DROP</a></div><div class="ttdeci">@ CONFIG_MAX_ALLOWED_MMR_DROP</div><div class="ttdef"><b>Definition</b> WorldConfig.h:304</div></div>
 <div class="ttc" id="agroup__world_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition</b> World.h:316</div></div>
@@ -230,26 +230,26 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  535</span>{</div>
-<div class="line"><span class="lineno">  536</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a>) + mod &lt; 0)</div>
-<div class="line"><span class="lineno">  537</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a> = 0;</div>
-<div class="line"><span class="lineno">  538</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  539</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a> += mod;</div>
-<div class="line"><span class="lineno">  540</span> </div>
-<div class="line"><span class="lineno">  541</span>    <span class="keywordflow">if</span> (player &amp;&amp; <a class="code hl_function" href="../../d4/dc6/classArenaTeam.html#af8d41f9e07a830d538b2798238fbb617">ArenaTeam::GetSlotByType</a>(type) &lt; 3)</div>
-<div class="line"><span class="lineno">  542</span>    {</div>
-<div class="line"><span class="lineno">  543</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a3b8f5a3120e5b9a9d903ecef3753d043">SetArenaTeamInfoField</a>(<a class="code hl_function" href="../../d4/dc6/classArenaTeam.html#af8d41f9e07a830d538b2798238fbb617">ArenaTeam::GetSlotByType</a>(type), <a class="code hl_enumvalue" href="../../d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e">ARENA_TEAM_PERSONAL_RATING</a>, <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a>);</div>
-<div class="line"><span class="lineno">  544</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a04bc54fb5b9161aa37fc07524af92634">UpdateAchievementCriteria</a>(<a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19af00d9f78491949027ae2a9b27cb80777">ACHIEVEMENT_CRITERIA_TYPE_HIGHEST_PERSONAL_RATING</a>, <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a>, type);</div>
-<div class="line"><span class="lineno">  545</span>    }</div>
-<div class="line"><span class="lineno">  546</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  536</span>{</div>
+<div class="line"><span class="lineno">  537</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a>) + mod &lt; 0)</div>
+<div class="line"><span class="lineno">  538</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a> = 0;</div>
+<div class="line"><span class="lineno">  539</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  540</span>        <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a> += mod;</div>
+<div class="line"><span class="lineno">  541</span> </div>
+<div class="line"><span class="lineno">  542</span>    <span class="keywordflow">if</span> (player &amp;&amp; <a class="code hl_function" href="../../d4/dc6/classArenaTeam.html#af8d41f9e07a830d538b2798238fbb617">ArenaTeam::GetSlotByType</a>(type) &lt; 3)</div>
+<div class="line"><span class="lineno">  543</span>    {</div>
+<div class="line"><span class="lineno">  544</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a3b8f5a3120e5b9a9d903ecef3753d043">SetArenaTeamInfoField</a>(<a class="code hl_function" href="../../d4/dc6/classArenaTeam.html#af8d41f9e07a830d538b2798238fbb617">ArenaTeam::GetSlotByType</a>(type), <a class="code hl_enumvalue" href="../../d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e">ARENA_TEAM_PERSONAL_RATING</a>, <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a>);</div>
+<div class="line"><span class="lineno">  545</span>        player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a04bc54fb5b9161aa37fc07524af92634">UpdateAchievementCriteria</a>(<a class="code hl_enumvalue" href="../../d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19af00d9f78491949027ae2a9b27cb80777">ACHIEVEMENT_CRITERIA_TYPE_HIGHEST_PERSONAL_RATING</a>, <a class="code hl_variable" href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">PersonalRating</a>, type);</div>
+<div class="line"><span class="lineno">  546</span>    }</div>
+<div class="line"><span class="lineno">  547</span>}</div>
 <div class="ttc" id="aArenaTeam_8h_html_a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e"><div class="ttname"><a href="../../d5/dba/ArenaTeam_8h.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e">ARENA_TEAM_PERSONAL_RATING</a></div><div class="ttdeci">@ ARENA_TEAM_PERSONAL_RATING</div><div class="ttdef"><b>Definition</b> ArenaTeam.h:80</div></div>
 <div class="ttc" id="aDBCEnums_8h_html_a796cde2fc6e2eaed4c657203ed43cd19af00d9f78491949027ae2a9b27cb80777"><div class="ttname"><a href="../../d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19af00d9f78491949027ae2a9b27cb80777">ACHIEVEMENT_CRITERIA_TYPE_HIGHEST_PERSONAL_RATING</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_TYPE_HIGHEST_PERSONAL_RATING</div><div class="ttdef"><b>Definition</b> DBCEnums.h:153</div></div>
-<div class="ttc" id="aclassArenaTeam_html_af8d41f9e07a830d538b2798238fbb617"><div class="ttname"><a href="../../d4/dc6/classArenaTeam.html#af8d41f9e07a830d538b2798238fbb617">ArenaTeam::GetSlotByType</a></div><div class="ttdeci">static uint8 GetSlotByType(uint32 type)</div><div class="ttdef"><b>Definition</b> ArenaTeam.cpp:621</div></div>
+<div class="ttc" id="aclassArenaTeam_html_af8d41f9e07a830d538b2798238fbb617"><div class="ttname"><a href="../../d4/dc6/classArenaTeam.html#af8d41f9e07a830d538b2798238fbb617">ArenaTeam::GetSlotByType</a></div><div class="ttdeci">static uint8 GetSlotByType(uint32 type)</div><div class="ttdef"><b>Definition</b> ArenaTeam.cpp:622</div></div>
 <div class="ttc" id="aclassPlayer_html_a04bc54fb5b9161aa37fc07524af92634"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a04bc54fb5b9161aa37fc07524af92634">Player::UpdateAchievementCriteria</a></div><div class="ttdeci">void UpdateAchievementCriteria(AchievementCriteriaTypes type, uint32 miscValue1=0, uint32 miscValue2=0, Unit *unit=nullptr)</div><div class="ttdef"><b>Definition</b> PlayerUpdates.cpp:2166</div></div>
-<div class="ttc" id="aclassPlayer_html_a3b8f5a3120e5b9a9d903ecef3753d043"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a3b8f5a3120e5b9a9d903ecef3753d043">Player::SetArenaTeamInfoField</a></div><div class="ttdeci">void SetArenaTeamInfoField(uint8 slot, ArenaTeamInfoType type, uint32 value)</div><div class="ttdef"><b>Definition</b> Player.cpp:16197</div></div>
+<div class="ttc" id="aclassPlayer_html_a3b8f5a3120e5b9a9d903ecef3753d043"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a3b8f5a3120e5b9a9d903ecef3753d043">Player::SetArenaTeamInfoField</a></div><div class="ttdeci">void SetArenaTeamInfoField(uint8 slot, ArenaTeamInfoType type, uint32 value)</div><div class="ttdef"><b>Definition</b> Player.cpp:16178</div></div>
 <div class="ttc" id="astructArenaTeamMember_html_a03168b1bdc8e6dac30d3b63e692ce854"><div class="ttname"><a href="../../d4/ddf/structArenaTeamMember.html#a03168b1bdc8e6dac30d3b63e692ce854">ArenaTeamMember::PersonalRating</a></div><div class="ttdeci">uint16 PersonalRating</div><div class="ttdef"><b>Definition</b> ArenaTeam.h:116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00153">ACHIEVEMENT_CRITERIA_TYPE_HIGHEST_PERSONAL_RATING</a>, <a class="el" href="../../#l00080">ARENA_TEAM_PERSONAL_RATING</a>, <a class="el" href="../../#l00621">ArenaTeam::GetSlotByType()</a>, <a class="el" href="../../#l00116">PersonalRating</a>, <a class="el" href="../../#l16197">Player::SetArenaTeamInfoField()</a>, and <a class="el" href="../../#l02166">Player::UpdateAchievementCriteria()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00153">ACHIEVEMENT_CRITERIA_TYPE_HIGHEST_PERSONAL_RATING</a>, <a class="el" href="../../#l00080">ARENA_TEAM_PERSONAL_RATING</a>, <a class="el" href="../../#l00622">ArenaTeam::GetSlotByType()</a>, <a class="el" href="../../#l00116">PersonalRating</a>, <a class="el" href="../../#l16178">Player::SetArenaTeamInfoField()</a>, and <a class="el" href="../../#l02166">Player::UpdateAchievementCriteria()</a>.</p>
 
 </div>
 </div>
@@ -266,7 +266,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -282,7 +282,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00363">WorldSession::HandleArenaTeamLeaderOpcode()</a>, <a class="el" href="../../#l00298">WorldSession::HandleArenaTeamRemoveOpcode()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00363">WorldSession::HandleArenaTeamLeaderOpcode()</a>, <a class="el" href="../../#l00298">WorldSession::HandleArenaTeamRemoveOpcode()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -298,7 +298,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>, and <a class="el" href="../../#l00548">ModifyMatchmakerRating()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>, and <a class="el" href="../../#l00549">ModifyMatchmakerRating()</a>.</p>
 
 </div>
 </div>
@@ -314,7 +314,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>, and <a class="el" href="../../#l00548">ModifyMatchmakerRating()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>, and <a class="el" href="../../#l00549">ModifyMatchmakerRating()</a>.</p>
 
 </div>
 </div>
@@ -330,7 +330,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -346,7 +346,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00516">ArenaTeam::Inspect()</a>, <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>, and <a class="el" href="../../#l00534">ModifyPersonalRating()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00517">ArenaTeam::Inspect()</a>, <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>, and <a class="el" href="../../#l00535">ModifyPersonalRating()</a>.</p>
 
 </div>
 </div>
@@ -362,7 +362,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00516">ArenaTeam::Inspect()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l00517">ArenaTeam::Inspect()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -378,7 +378,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -394,7 +394,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l01039">ArenaTeam::CreateTempArenaTeam()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04858">Player::_LoadArenaTeamInfo()</a>, <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, <a class="el" href="../../#l01040">ArenaTeam::CreateTempArenaTeam()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -410,7 +410,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00225">ArenaTeam::LoadMembersFromDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00092">ArenaTeam::AddMember()</a>, and <a class="el" href="../../#l00226">ArenaTeam::LoadMembersFromDB()</a>.</p>
 
 </div>
 </div>
@@ -424,7 +424,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/ddf/structArenaTeamMember.html">ArenaTeamMember</a></li>
-    <li class="footer">Generated on Wed Feb 18 2026 06:57:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:55:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

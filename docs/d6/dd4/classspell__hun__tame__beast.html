@@ -313,72 +313,72 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  948</span>    {</div>
-<div class="line"><span class="lineno">  949</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno">  950</span>        <span class="keywordflow">if</span> (!caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno">  951</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  952</span> </div>
-<div class="line"><span class="lineno">  953</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno">  954</span> </div>
-<div class="line"><span class="lineno">  955</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
-<div class="line"><span class="lineno">  956</span>        {</div>
-<div class="line"><span class="lineno">  957</span>            player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa0b5deaed23526e3736db300516134fd7">PET_TAME_INVALID_CREATURE</a>);</div>
-<div class="line"><span class="lineno">  958</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  959</span>        }</div>
-<div class="line"><span class="lineno">  960</span> </div>
-<div class="line"><span class="lineno">  961</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;ToCreature())</div>
-<div class="line"><span class="lineno">  962</span>        {</div>
-<div class="line"><span class="lineno">  963</span>            <span class="keywordflow">if</span> (target-&gt;GetLevel() &gt; player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>())</div>
-<div class="line"><span class="lineno">  964</span>            {</div>
-<div class="line"><span class="lineno">  965</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa1772b82aafb24ed0e22a2ade715bb7e6">PET_TAME_TOO_HIGHLEVEL</a>);</div>
-<div class="line"><span class="lineno">  966</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  967</span>            }</div>
+<div class="fragment"><div class="line"><span class="lineno">  964</span>    {</div>
+<div class="line"><span class="lineno">  965</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno">  966</span>        <span class="keywordflow">if</span> (!caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno">  967</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
 <div class="line"><span class="lineno">  968</span> </div>
-<div class="line"><span class="lineno">  969</span>            <span class="keywordflow">if</span> (target-&gt;GetCreatureTemplate()-&gt;IsExotic() &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a37acea1f67951ec8b125cae412ddbe4e">CanTameExoticPets</a>())</div>
-<div class="line"><span class="lineno">  970</span>            {</div>
-<div class="line"><span class="lineno">  971</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa87abb92dfeecaa8b201a980f5b9f24c9">PET_TAME_CANT_CONTROL_EXOTIC</a>);</div>
-<div class="line"><span class="lineno">  972</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  973</span>            }</div>
-<div class="line"><span class="lineno">  974</span> </div>
-<div class="line"><span class="lineno">  975</span>            <span class="keywordflow">if</span> (!target-&gt;GetCreatureTemplate()-&gt;IsTameable(player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a37acea1f67951ec8b125cae412ddbe4e">CanTameExoticPets</a>()))</div>
-<div class="line"><span class="lineno">  976</span>            {</div>
-<div class="line"><span class="lineno">  977</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa005b0d774474d654510d1fe4974c2dcd">PET_TAME_NOT_TAMEABLE</a>);</div>
-<div class="line"><span class="lineno">  978</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  979</span>            }</div>
-<div class="line"><span class="lineno">  980</span> </div>
-<div class="line"><span class="lineno">  981</span>            <a class="code hl_class" href="../../d6/d8c/classPetStable.html">PetStable</a> <span class="keyword">const</span>* petStable = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4eb5911134014709d81f2c757cf44a78">GetPetStable</a>();</div>
-<div class="line"><span class="lineno">  982</span>            <span class="keywordflow">if</span> (petStable)</div>
-<div class="line"><span class="lineno">  983</span>            {</div>
-<div class="line"><span class="lineno">  984</span>                <span class="keywordflow">if</span> (petStable-&gt;<a class="code hl_variable" href="../../d6/d8c/classPetStable.html#a7a9f76452985abc65560773ac413208f">CurrentPet</a>)</div>
-<div class="line"><span class="lineno">  985</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa4be3e77341339855ead6c47f42b2eb5a">SPELL_FAILED_ALREADY_HAVE_SUMMON</a>;</div>
-<div class="line"><span class="lineno">  986</span> </div>
-<div class="line"><span class="lineno">  987</span>                <span class="keywordflow">if</span> (petStable-&gt;<a class="code hl_function" href="../../d6/d8c/classPetStable.html#a4e0e22a135703c989976694a32912cbd">GetUnslottedHunterPet</a>())</div>
-<div class="line"><span class="lineno">  988</span>                {</div>
-<div class="line"><span class="lineno">  989</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aab802cf214477d62bab7cfe7d9d148d21">PET_TAME_TOO_MANY</a>);</div>
-<div class="line"><span class="lineno">  990</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  991</span>                }</div>
-<div class="line"><span class="lineno">  992</span>            }</div>
-<div class="line"><span class="lineno">  993</span> </div>
-<div class="line"><span class="lineno">  994</span>            <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa635c1b2bc45fb46d9064068b015356f">GetCharmGUID</a>())</div>
-<div class="line"><span class="lineno">  995</span>            {</div>
-<div class="line"><span class="lineno">  996</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aae23f61bd95eacdc5402a06c6165b7937">PET_TAME_ANOTHER_SUMMON_ACTIVE</a>);</div>
-<div class="line"><span class="lineno">  997</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno">  998</span>            }</div>
-<div class="line"><span class="lineno">  999</span> </div>
-<div class="line"><span class="lineno"> 1000</span>            <span class="keywordflow">if</span> (target-&gt;GetOwnerGUID())</div>
-<div class="line"><span class="lineno"> 1001</span>            {</div>
-<div class="line"><span class="lineno"> 1002</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa78e1b8cad4bb130a06fc28bd4f007f60">PET_TAME_CREATURE_ALREADY_OWNED</a>);</div>
-<div class="line"><span class="lineno"> 1003</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno"> 1004</span>            }</div>
-<div class="line"><span class="lineno"> 1005</span>        }</div>
-<div class="line"><span class="lineno"> 1006</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1007</span>        {</div>
-<div class="line"><span class="lineno"> 1008</span>            player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa0b5deaed23526e3736db300516134fd7">PET_TAME_INVALID_CREATURE</a>);</div>
-<div class="line"><span class="lineno"> 1009</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
-<div class="line"><span class="lineno"> 1010</span>        }</div>
-<div class="line"><span class="lineno"> 1011</span> </div>
-<div class="line"><span class="lineno"> 1012</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 1013</span>    }</div>
+<div class="line"><span class="lineno">  969</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno">  970</span> </div>
+<div class="line"><span class="lineno">  971</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
+<div class="line"><span class="lineno">  972</span>        {</div>
+<div class="line"><span class="lineno">  973</span>            player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa0b5deaed23526e3736db300516134fd7">PET_TAME_INVALID_CREATURE</a>);</div>
+<div class="line"><span class="lineno">  974</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  975</span>        }</div>
+<div class="line"><span class="lineno">  976</span> </div>
+<div class="line"><span class="lineno">  977</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>()-&gt;ToCreature())</div>
+<div class="line"><span class="lineno">  978</span>        {</div>
+<div class="line"><span class="lineno">  979</span>            <span class="keywordflow">if</span> (target-&gt;GetLevel() &gt; player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>())</div>
+<div class="line"><span class="lineno">  980</span>            {</div>
+<div class="line"><span class="lineno">  981</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa1772b82aafb24ed0e22a2ade715bb7e6">PET_TAME_TOO_HIGHLEVEL</a>);</div>
+<div class="line"><span class="lineno">  982</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  983</span>            }</div>
+<div class="line"><span class="lineno">  984</span> </div>
+<div class="line"><span class="lineno">  985</span>            <span class="keywordflow">if</span> (target-&gt;GetCreatureTemplate()-&gt;IsExotic() &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a37acea1f67951ec8b125cae412ddbe4e">CanTameExoticPets</a>())</div>
+<div class="line"><span class="lineno">  986</span>            {</div>
+<div class="line"><span class="lineno">  987</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa87abb92dfeecaa8b201a980f5b9f24c9">PET_TAME_CANT_CONTROL_EXOTIC</a>);</div>
+<div class="line"><span class="lineno">  988</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  989</span>            }</div>
+<div class="line"><span class="lineno">  990</span> </div>
+<div class="line"><span class="lineno">  991</span>            <span class="keywordflow">if</span> (!target-&gt;GetCreatureTemplate()-&gt;IsTameable(player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a37acea1f67951ec8b125cae412ddbe4e">CanTameExoticPets</a>()))</div>
+<div class="line"><span class="lineno">  992</span>            {</div>
+<div class="line"><span class="lineno">  993</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa005b0d774474d654510d1fe4974c2dcd">PET_TAME_NOT_TAMEABLE</a>);</div>
+<div class="line"><span class="lineno">  994</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno">  995</span>            }</div>
+<div class="line"><span class="lineno">  996</span> </div>
+<div class="line"><span class="lineno">  997</span>            <a class="code hl_class" href="../../d6/d8c/classPetStable.html">PetStable</a> <span class="keyword">const</span>* petStable = player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a4eb5911134014709d81f2c757cf44a78">GetPetStable</a>();</div>
+<div class="line"><span class="lineno">  998</span>            <span class="keywordflow">if</span> (petStable)</div>
+<div class="line"><span class="lineno">  999</span>            {</div>
+<div class="line"><span class="lineno"> 1000</span>                <span class="keywordflow">if</span> (petStable-&gt;<a class="code hl_variable" href="../../d6/d8c/classPetStable.html#a7a9f76452985abc65560773ac413208f">CurrentPet</a>)</div>
+<div class="line"><span class="lineno"> 1001</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa4be3e77341339855ead6c47f42b2eb5a">SPELL_FAILED_ALREADY_HAVE_SUMMON</a>;</div>
+<div class="line"><span class="lineno"> 1002</span> </div>
+<div class="line"><span class="lineno"> 1003</span>                <span class="keywordflow">if</span> (petStable-&gt;<a class="code hl_function" href="../../d6/d8c/classPetStable.html#a4e0e22a135703c989976694a32912cbd">GetUnslottedHunterPet</a>())</div>
+<div class="line"><span class="lineno"> 1004</span>                {</div>
+<div class="line"><span class="lineno"> 1005</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aab802cf214477d62bab7cfe7d9d148d21">PET_TAME_TOO_MANY</a>);</div>
+<div class="line"><span class="lineno"> 1006</span>                    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno"> 1007</span>                }</div>
+<div class="line"><span class="lineno"> 1008</span>            }</div>
+<div class="line"><span class="lineno"> 1009</span> </div>
+<div class="line"><span class="lineno"> 1010</span>            <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa635c1b2bc45fb46d9064068b015356f">GetCharmGUID</a>())</div>
+<div class="line"><span class="lineno"> 1011</span>            {</div>
+<div class="line"><span class="lineno"> 1012</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aae23f61bd95eacdc5402a06c6165b7937">PET_TAME_ANOTHER_SUMMON_ACTIVE</a>);</div>
+<div class="line"><span class="lineno"> 1013</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno"> 1014</span>            }</div>
+<div class="line"><span class="lineno"> 1015</span> </div>
+<div class="line"><span class="lineno"> 1016</span>            <span class="keywordflow">if</span> (target-&gt;GetOwnerGUID())</div>
+<div class="line"><span class="lineno"> 1017</span>            {</div>
+<div class="line"><span class="lineno"> 1018</span>                player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa78e1b8cad4bb130a06fc28bd4f007f60">PET_TAME_CREATURE_ALREADY_OWNED</a>);</div>
+<div class="line"><span class="lineno"> 1019</span>                <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno"> 1020</span>            }</div>
+<div class="line"><span class="lineno"> 1021</span>        }</div>
+<div class="line"><span class="lineno"> 1022</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1023</span>        {</div>
+<div class="line"><span class="lineno"> 1024</span>            player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">SendTameFailure</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa0b5deaed23526e3736db300516134fd7">PET_TAME_INVALID_CREATURE</a>);</div>
+<div class="line"><span class="lineno"> 1025</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daa768883072914aec215a9b37c0f8d7565">SPELL_FAILED_DONT_REPORT</a>;</div>
+<div class="line"><span class="lineno"> 1026</span>        }</div>
+<div class="line"><span class="lineno"> 1027</span> </div>
+<div class="line"><span class="lineno"> 1028</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 1029</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a8690659ff942c1b8381e38511ce2668aa005b0d774474d654510d1fe4974c2dcd"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa005b0d774474d654510d1fe4974c2dcd">PET_TAME_NOT_TAMEABLE</a></div><div class="ttdeci">@ PET_TAME_NOT_TAMEABLE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3936</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a8690659ff942c1b8381e38511ce2668aa0b5deaed23526e3736db300516134fd7"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa0b5deaed23526e3736db300516134fd7">PET_TAME_INVALID_CREATURE</a></div><div class="ttdeci">@ PET_TAME_INVALID_CREATURE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3933</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a8690659ff942c1b8381e38511ce2668aa1772b82aafb24ed0e22a2ade715bb7e6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8690659ff942c1b8381e38511ce2668aa1772b82aafb24ed0e22a2ade715bb7e6">PET_TAME_TOO_HIGHLEVEL</a></div><div class="ttdeci">@ PET_TAME_TOO_HIGHLEVEL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3941</div></div>
@@ -395,19 +395,19 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassPetStable_html"><div class="ttname"><a href="../../d6/d8c/classPetStable.html">PetStable</a></div><div class="ttdef"><b>Definition</b> PetDefines.h:212</div></div>
 <div class="ttc" id="aclassPetStable_html_a4e0e22a135703c989976694a32912cbd"><div class="ttname"><a href="../../d6/d8c/classPetStable.html#a4e0e22a135703c989976694a32912cbd">PetStable::GetUnslottedHunterPet</a></div><div class="ttdeci">PetInfo const * GetUnslottedHunterPet() const</div><div class="ttdef"><b>Definition</b> PetDefines.h:240</div></div>
 <div class="ttc" id="aclassPetStable_html_a7a9f76452985abc65560773ac413208f"><div class="ttname"><a href="../../d6/d8c/classPetStable.html#a7a9f76452985abc65560773ac413208f">PetStable::CurrentPet</a></div><div class="ttdeci">Optional&lt; PetInfo &gt; CurrentPet</div><div class="ttdef"><b>Definition</b> PetDefines.h:235</div></div>
-<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1085</div></div>
+<div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1084</div></div>
 <div class="ttc" id="aclassPlayer_html_a37acea1f67951ec8b125cae412ddbe4e"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a37acea1f67951ec8b125cae412ddbe4e">Player::CanTameExoticPets</a></div><div class="ttdeci">bool CanTameExoticPets() const</div><div class="ttdef"><b>Definition</b> Player.h:2206</div></div>
-<div class="ttc" id="aclassPlayer_html_a4eb5911134014709d81f2c757cf44a78"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a4eb5911134014709d81f2c757cf44a78">Player::GetPetStable</a></div><div class="ttdeci">PetStable * GetPetStable()</div><div class="ttdef"><b>Definition</b> Player.h:1222</div></div>
+<div class="ttc" id="aclassPlayer_html_a4eb5911134014709d81f2c757cf44a78"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a4eb5911134014709d81f2c757cf44a78">Player::GetPetStable</a></div><div class="ttdeci">PetStable * GetPetStable()</div><div class="ttdef"><b>Definition</b> Player.h:1221</div></div>
 <div class="ttc" id="aclassSpellScript_html_a0a4da6da2613261bd66a2ecc22ddc767"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">SpellScript::GetExplTargetUnit</a></div><div class="ttdeci">Unit * GetExplTargetUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:433</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
-<div class="ttc" id="aclassUnit_html_a870c5bddb94e9bac797da681fcad2b9b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">Unit::SendTameFailure</a></div><div class="ttdeci">void SendTameFailure(uint8 result)</div><div class="ttdef"><b>Definition</b> Unit.cpp:19985</div></div>
-<div class="ttc" id="aclassUnit_html_aa635c1b2bc45fb46d9064068b015356f"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa635c1b2bc45fb46d9064068b015356f">Unit::GetCharmGUID</a></div><div class="ttdeci">ObjectGuid GetCharmGUID() const</div><div class="ttdef"><b>Definition</b> Unit.h:711</div></div>
-<div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1088</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
+<div class="ttc" id="aclassUnit_html_a870c5bddb94e9bac797da681fcad2b9b"><div class="ttname"><a href="../../df/dd9/classUnit.html#a870c5bddb94e9bac797da681fcad2b9b">Unit::SendTameFailure</a></div><div class="ttdeci">void SendTameFailure(uint8 result)</div><div class="ttdef"><b>Definition</b> Unit.cpp:16093</div></div>
+<div class="ttc" id="aclassUnit_html_aa635c1b2bc45fb46d9064068b015356f"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa635c1b2bc45fb46d9064068b015356f">Unit::GetCharmGUID</a></div><div class="ttdeci">ObjectGuid GetCharmGUID() const</div><div class="ttdef"><b>Definition</b> Unit.h:715</div></div>
+<div class="ttc" id="aclassUnit_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../df/dd9/classUnit.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition</b> Unit.h:1092</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02206">Player::CanTameExoticPets()</a>, <a class="el" href="../../#l00235">PetStable::CurrentPet</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00711">Unit::GetCharmGUID()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l01088">Unit::GetLevel()</a>, <a class="el" href="../../#l01222">Player::GetPetStable()</a>, <a class="el" href="../../#l00240">PetStable::GetUnslottedHunterPet()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l03937">PET_TAME_ANOTHER_SUMMON_ACTIVE</a>, <a class="el" href="../../#l03944">PET_TAME_CANT_CONTROL_EXOTIC</a>, <a class="el" href="../../#l03935">PET_TAME_CREATURE_ALREADY_OWNED</a>, <a class="el" href="../../#l03933">PET_TAME_INVALID_CREATURE</a>, <a class="el" href="../../#l03936">PET_TAME_NOT_TAMEABLE</a>, <a class="el" href="../../#l03941">PET_TAME_TOO_HIGHLEVEL</a>, <a class="el" href="../../#l03934">PET_TAME_TOO_MANY</a>, <a class="el" href="../../#l19985">Unit::SendTameFailure()</a>, <a class="el" href="../../#l01149">SPELL_CAST_OK</a>, <a class="el" href="../../#l00967">SPELL_FAILED_ALREADY_HAVE_SUMMON</a>, <a class="el" href="../../#l00987">SPELL_FAILED_DONT_REPORT</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02206">Player::CanTameExoticPets()</a>, <a class="el" href="../../#l00235">PetStable::CurrentPet</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00715">Unit::GetCharmGUID()</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, <a class="el" href="../../#l01092">Unit::GetLevel()</a>, <a class="el" href="../../#l01221">Player::GetPetStable()</a>, <a class="el" href="../../#l00240">PetStable::GetUnslottedHunterPet()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l03937">PET_TAME_ANOTHER_SUMMON_ACTIVE</a>, <a class="el" href="../../#l03944">PET_TAME_CANT_CONTROL_EXOTIC</a>, <a class="el" href="../../#l03935">PET_TAME_CREATURE_ALREADY_OWNED</a>, <a class="el" href="../../#l03933">PET_TAME_INVALID_CREATURE</a>, <a class="el" href="../../#l03936">PET_TAME_NOT_TAMEABLE</a>, <a class="el" href="../../#l03941">PET_TAME_TOO_HIGHLEVEL</a>, <a class="el" href="../../#l03934">PET_TAME_TOO_MANY</a>, <a class="el" href="../../#l16093">Unit::SendTameFailure()</a>, <a class="el" href="../../#l01149">SPELL_CAST_OK</a>, <a class="el" href="../../#l00967">SPELL_FAILED_ALREADY_HAVE_SUMMON</a>, <a class="el" href="../../#l00987">SPELL_FAILED_DONT_REPORT</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01015">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01031">Register()</a>.</p>
 
 </div>
 </div>
@@ -461,14 +461,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1016</span>    {</div>
-<div class="line"><span class="lineno"> 1017</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d6/dd4/classspell__hun__tame__beast.html#a7fa12be149f0cb2202142d7f44cde0a6">spell_hun_tame_beast::CheckCast</a>);</div>
-<div class="line"><span class="lineno"> 1018</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1032</span>    {</div>
+<div class="line"><span class="lineno"> 1033</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d6/dd4/classspell__hun__tame__beast.html#a7fa12be149f0cb2202142d7f44cde0a6">spell_hun_tame_beast::CheckCast</a>);</div>
+<div class="line"><span class="lineno"> 1034</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
-<div class="ttc" id="aclassspell__hun__tame__beast_html_a7fa12be149f0cb2202142d7f44cde0a6"><div class="ttname"><a href="../../d6/dd4/classspell__hun__tame__beast.html#a7fa12be149f0cb2202142d7f44cde0a6">spell_hun_tame_beast::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:947</div></div>
+<div class="ttc" id="aclassspell__hun__tame__beast_html_a7fa12be149f0cb2202142d7f44cde0a6"><div class="ttname"><a href="../../d6/dd4/classspell__hun__tame__beast.html#a7fa12be149f0cb2202142d7f44cde0a6">spell_hun_tame_beast::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:963</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00947">CheckCast()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00963">CheckCast()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, and <a class="el" href="../../#l00329">SpellCheckCastFn</a>.</p>
 
 </div>
 </div>
@@ -481,7 +481,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dd4/classspell__hun__tame__beast.html">spell_hun_tame_beast</a></li>
-    <li class="footer">Generated on Wed Feb 18 2026 06:58:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:56:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

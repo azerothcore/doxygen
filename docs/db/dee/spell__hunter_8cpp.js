@@ -29,7 +29,20 @@ var spell__hunter_8cpp =
     [ "spell_hun_intimidation", "d3/dfe/classspell__hun__intimidation.html", "d3/dfe/classspell__hun__intimidation" ],
     [ "spell_hun_bestial_wrath", "d8/d37/classspell__hun__bestial__wrath.html", "d8/d37/classspell__hun__bestial__wrath" ],
     [ "spell_hun_target_self_and_pet", "d3/d56/classspell__hun__target__self__and__pet.html", "d3/d56/classspell__hun__target__self__and__pet" ],
+    [ "spell_hun_thrill_of_the_hunt", "da/dd7/classspell__hun__thrill__of__the__hunt.html", "da/dd7/classspell__hun__thrill__of__the__hunt" ],
+    [ "spell_hun_hunting_party", "d3/d40/classspell__hun__hunting__party.html", "d3/d40/classspell__hun__hunting__party" ],
+    [ "spell_hun_rapid_recuperation", "d6/d79/classspell__hun__rapid__recuperation.html", "d6/d79/classspell__hun__rapid__recuperation" ],
+    [ "spell_hun_glyph_of_mend_pet", "db/dca/classspell__hun__glyph__of__mend__pet.html", "db/dca/classspell__hun__glyph__of__mend__pet" ],
     [ "spell_hun_explosive_shot", "d1/dfc/classspell__hun__explosive__shot.html", "d1/dfc/classspell__hun__explosive__shot" ],
+    [ "spell_hun_kill_command_pet", "dd/d47/classspell__hun__kill__command__pet.html", "dd/d47/classspell__hun__kill__command__pet" ],
+    [ "spell_hun_rapid_recuperation_trigger", "d1/da1/classspell__hun__rapid__recuperation__trigger.html", "d1/da1/classspell__hun__rapid__recuperation__trigger" ],
+    [ "spell_hun_piercing_shots", "db/d08/classspell__hun__piercing__shots.html", "db/d08/classspell__hun__piercing__shots" ],
+    [ "spell_hun_t9_4p_bonus", "d0/dd6/classspell__hun__t9__4p__bonus.html", "d0/dd6/classspell__hun__t9__4p__bonus" ],
+    [ "HunterSpellIcons", "db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238", [
+      [ "HUNTER_ICON_THRILL_OF_THE_HUNT", "db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238ade6ccb76c01325a970eb6223fbbdc511", null ],
+      [ "HUNTER_ICON_HUNTING_PARTY", "db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238aeab4f54552de28b1325d250f58509f8b", null ],
+      [ "HUNTER_ICON_RAPID_RECUPERATION", "db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238ac8f9bbd6307494e003535ac18e73364f", null ]
+    ] ],
     [ "HunterSpells", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e", [
       [ "SPELL_HUNTER_WYVERN_STING_DOT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07", null ],
       [ "SPELL_HUNTER_ASPECT_OF_THE_BEAST", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00", null ],
@@ -59,10 +72,17 @@ var spell__hunter_8cpp =
       [ "SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b", null ],
       [ "SPELL_LOCK_AND_LOAD_TRIGGER", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491", null ],
       [ "SPELL_LOCK_AND_LOAD_MARKER", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002", null ],
-      [ "SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6", null ]
-    ] ],
-    [ "LocknLoadSpells", "db/dee/spell__hunter_8cpp.html#a8e414ebc815b459786b1b60831500b3e", [
-      [ "SPELL_FROST_TRAP_SLOW", "db/dee/spell__hunter_8cpp.html#a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be", null ]
+      [ "SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6", null ],
+      [ "SPELL_HUNTER_THRILL_OF_THE_HUNT_MANA", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea24b745e0a8b4cafb71fb1c3e13cc9b91", null ],
+      [ "SPELL_HUNTER_REPLENISHMENT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead3b1ddda51ad79293797b6f433d999e2", null ],
+      [ "SPELL_HUNTER_RAPID_RECUPERATION_R1", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eabed422935fb9323814241ce5c03ad6c2", null ],
+      [ "SPELL_HUNTER_RAPID_RECUPERATION_R2", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5da4e17a0898c0430c8ed6311758969c", null ],
+      [ "SPELL_HUNTER_GLYPH_OF_MEND_PET_HAPPINESS", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea43d93b93e0b2e38e803c2f4c3257df09", null ],
+      [ "SPELL_HUNTER_KILL_COMMAND_HUNTER", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea30a3a1cf72dd1294b4780aafc7e8aed1", null ],
+      [ "SPELL_HUNTER_RAPID_RECUPERATION_MANA_R1", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9f21035c8a973ce87f57c009133013ef", null ],
+      [ "SPELL_HUNTER_RAPID_RECUPERATION_MANA_R2", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea66401814c9b4995a8df906456f481b4e", null ],
+      [ "SPELL_HUNTER_PIERCING_SHOTS", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eaee85f457192462a79325e34dd2af7f45", null ],
+      [ "SPELL_HUNTER_T9_4P_GREATNESS", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eaeb7d4bc294fe32b38f00fc1b82d777a3", null ]
     ] ],
     [ "AddSC_hunter_spell_scripts", "db/dee/spell__hunter_8cpp.html#af7e6bdb12ab989b575a1dca18382ea7c", null ]
 ];

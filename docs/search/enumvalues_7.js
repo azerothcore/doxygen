@@ -90,7 +90,7 @@ var searchData=
   ['holiday_5fwotlk_5flaunch_87',['HOLIDAY_WOTLK_LAUNCH',['../de/d0a/SharedDefines_8h.html#ad279224fea61f9754572051fc5ff1fabaf5863d87fdd9a0c9abbf5a769f1f8b0f',1,'SharedDefines.h']]],
   ['home_5fmotion_5ftype_88',['HOME_MOTION_TYPE',['../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426',1,'MotionMaster.h']]],
   ['home_5frealm_5fonly_5floot_89',['HOME_REALM_ONLY_LOOT',['../de/d0a/SharedDefines_8h.html#a143cae99f236391422c06de964d1660fae139808997dde19889d2fcbee5e0f736',1,'SharedDefines.h']]],
-  ['horde_90',['horde',['../d0/d38/AuctionHouseMgr_8h.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796',1,'Horde:&#160;AuctionHouseMgr.h'],['../d0/d38/AuctionHouseMgr_8h.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796',1,'Horde:&#160;AuctionHouseMgr.h'],['../de/d0a/SharedDefines_8h.html#a9c13bb5b1d69698f9b47900990eaa598ae00f67931133b08b7de375111e800b42',1,'HORDE:&#160;SharedDefines.h']]],
+  ['horde_90',['horde',['../d0/d38/AuctionHouseMgr_8h.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796',1,'Horde:&#160;AuctionHouseMgr.h'],['../d0/d38/AuctionHouseMgr_8h.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796',1,'Horde:&#160;AuctionHouseMgr.h'],['../de/d0a/SharedDefines_8h.html#a9c13bb5b1d69698f9b47900990eaa598ae00f67931133b08b7de375111e800b42',1,'HORDE:&#160;SharedDefines.h']]],
   ['horde_5fareatrigger_91',['HORDE_AREATRIGGER',['../db/dd3/icecrown__citadel_8cpp.html#a112547a8fcea6297592796c3d9b6bcc6ab4b5e9e3a46489f2cf55f1fc0900fd96',1,'icecrown_citadel.cpp']]],
   ['horde_5fbase_5fcharge_5f1_92',['HORDE_BASE_CHARGE_1',['../d0/dff/hyjal_8h.html#a687472286140e8a3957e0864d7a0d1aaac6a5c41b83df169e455af5222349cb1b',1,'hyjal.h']]],
   ['horde_5fbase_5fcharge_5f2_93',['HORDE_BASE_CHARGE_2',['../d0/dff/hyjal_8h.html#a687472286140e8a3957e0864d7a0d1aaa9bf9ac5f687aa61ce2ee2b2b1ed0409a',1,'hyjal.h']]],
@@ -117,5 +117,8 @@ var searchData=
   ['hp_5ftower_5fstadium_114',['HP_TOWER_STADIUM',['../d4/d2b/OutdoorPvPHP_8h.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84',1,'OutdoorPvPHP.h']]],
   ['human_115',['Human',['../de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3ac1bb19b27818343c1926119b958741b5',1,'SharedDefines.h']]],
   ['human_5ffemale_5femote_5fcry_116',['HUMAN_FEMALE_EMOTE_CRY',['../d7/d61/zone__elwynn__forest_8cpp.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a',1,'zone_elwynn_forest.cpp']]],
-  ['hunter_5fpet_117',['HUNTER_PET',['../d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2',1,'PetDefines.h']]]
+  ['hunter_5ficon_5fhunting_5fparty_117',['HUNTER_ICON_HUNTING_PARTY',['../db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238aeab4f54552de28b1325d250f58509f8b',1,'spell_hunter.cpp']]],
+  ['hunter_5ficon_5frapid_5frecuperation_118',['HUNTER_ICON_RAPID_RECUPERATION',['../db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238ac8f9bbd6307494e003535ac18e73364f',1,'spell_hunter.cpp']]],
+  ['hunter_5ficon_5fthrill_5fof_5fthe_5fhunt_119',['HUNTER_ICON_THRILL_OF_THE_HUNT',['../db/dee/spell__hunter_8cpp.html#aa03e659157155f974790d5937ff68238ade6ccb76c01325a970eb6223fbbdc511',1,'spell_hunter.cpp']]],
+  ['hunter_5fpet_120',['HUNTER_PET',['../d6/d9a/PetDefines_8h.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2',1,'PetDefines.h']]]
 ];

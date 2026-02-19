@@ -124,6 +124,13 @@ var namespaces_dup =
       [ "GetSourceDirectory", "d3/d2c/namespaceGitRevision.html#a1062fcec3676f562803f4775d95a9594", null ]
     ] ],
     [ "lfg", "de/d72/namespacelfg.html", "de/d72/namespacelfg" ],
+    [ "MageSpellFlags", "d3/d98/namespaceMageSpellFlags.html", [
+      [ "ARCANE_BARRAGE", "d3/d98/namespaceMageSpellFlags.html#abfd925917520301832811c8b3b1b8ae3", null ],
+      [ "ARCANE_BLAST", "d3/d98/namespaceMageSpellFlags.html#a3cf9b20a3fe729ee462b2431e9ba830f", null ],
+      [ "ARCANE_MISSILES", "d3/d98/namespaceMageSpellFlags.html#ab9ece6fbb0862f8f3dce9aa99843c805", null ],
+      [ "FIREBALL", "d3/d98/namespaceMageSpellFlags.html#ae58d0c097ed2d1cccbf272f42b835d52", null ],
+      [ "FROSTFIRE_BOLT", "d3/d98/namespaceMageSpellFlags.html#ae8bd1511afd5de6e1475292711b50296", null ]
+    ] ],
     [ "MapObject", "d2/d6f/namespaceMapObject.html", [
       [ "Extract", "d2/d6f/namespaceMapObject.html#a9148b3ef5b412564a285737b0bd104dd", null ]
     ] ],

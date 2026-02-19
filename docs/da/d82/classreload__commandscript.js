@@ -102,7 +102,6 @@ var classreload__commandscript =
     [ "HandleReloadSpellGroupStackRulesCommand", "da/d82/classreload__commandscript.html#aceca5fd98154f35571610faf0b95eb27", null ],
     [ "HandleReloadSpellLinkedSpellCommand", "da/d82/classreload__commandscript.html#a4124297c1e5d3188241b18deeaff0ea5", null ],
     [ "HandleReloadSpellPetAurasCommand", "da/d82/classreload__commandscript.html#a70410bd8e0d08e5e8e5a14c94fa4f5c0", null ],
-    [ "HandleReloadSpellProcEventCommand", "da/d82/classreload__commandscript.html#a5a77483949de09bf2eae0e0a38cfaff8", null ],
     [ "HandleReloadSpellProcsCommand", "da/d82/classreload__commandscript.html#a193ee0c0ba4534424555113930c4987d", null ],
     [ "HandleReloadSpellRequiredCommand", "da/d82/classreload__commandscript.html#ad79102fd04467077b6fa5d1df970fc29", null ],
     [ "HandleReloadSpellScriptsCommand", "da/d82/classreload__commandscript.html#aa85ca3224af7d84d9d30745347b67107", null ],

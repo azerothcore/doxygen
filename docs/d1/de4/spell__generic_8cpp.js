@@ -1,6 +1,7 @@
 var spell__generic_8cpp =
 [
     [ "spell_gen_5000_gold", "d5/dc8/classspell__gen__5000__gold.html", "d5/dc8/classspell__gen__5000__gold" ],
+    [ "spell_gen_arena_drink", "d7/d0b/classspell__gen__arena__drink.html", "d7/d0b/classspell__gen__arena__drink" ],
     [ "spell_gen_model_visible", "db/d03/classspell__gen__model__visible.html", "db/d03/classspell__gen__model__visible" ],
     [ "spell_the_flag_of_ownership", "d3/d7c/classspell__the__flag__of__ownership.html", "d3/d7c/classspell__the__flag__of__ownership" ],
     [ "spell_gen_have_item_auras", "d5/d7f/classspell__gen__have__item__auras.html", "d5/d7f/classspell__gen__have__item__auras" ],
@@ -149,6 +150,15 @@ var spell__generic_8cpp =
     [ "spell_gen_bm_off", "df/d27/classspell__gen__bm__off.html", "df/d27/classspell__gen__bm__off" ],
     [ "spell_gen_bm_on", "d6/de6/classspell__gen__bm__on.html", "d6/de6/classspell__gen__bm__on" ],
     [ "spell_gen_whisper_to_controller", "df/ded/classspell__gen__whisper__to__controller.html", "df/ded/classspell__gen__whisper__to__controller" ],
+    [ "spell_gen_vampiric_touch", "db/d40/classspell__gen__vampiric__touch.html", "db/d40/classspell__gen__vampiric__touch" ],
+    [ "spell_gen_petrified_bark", "da/d70/classspell__gen__petrified__bark.html", "da/d70/classspell__gen__petrified__bark" ],
+    [ "spell_gen_earth_shield_toc", "d6/d4d/classspell__gen__earth__shield__toc.html", "d6/d4d/classspell__gen__earth__shield__toc" ],
+    [ "spell_gen_retaliation_toc", "db/d37/classspell__gen__retaliation__toc.html", "db/d37/classspell__gen__retaliation__toc" ],
+    [ "spell_gen_overlords_brand", "d3/dbe/classspell__gen__overlords__brand.html", "d3/dbe/classspell__gen__overlords__brand" ],
+    [ "spell_gen_overlords_brand_dot", "d4/d8f/classspell__gen__overlords__brand__dot.html", "d4/d8f/classspell__gen__overlords__brand__dot" ],
+    [ "spell_gen_vampiric_might", "df/d62/classspell__gen__vampiric__might.html", "df/d62/classspell__gen__vampiric__might" ],
+    [ "spell_gen_mirrored_soul", "d8/d7e/classspell__gen__mirrored__soul.html", "d8/d7e/classspell__gen__mirrored__soul" ],
+    [ "spell_gen_black_bow_of_the_betrayer", "dd/d59/classspell__gen__black__bow__of__the__betrayer.html", "dd/d59/classspell__gen__black__bow__of__the__betrayer" ],
     [ "spell_gen_filter_party_level_80", "d0/df8/classspell__gen__filter__party__level__80.html", "d0/df8/classspell__gen__filter__party__level__80" ],
     [ "AdaptiveWarding", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59", [
       [ "SPELL_GEN_ADAPTIVE_WARDING_FIRE", "d1/de4/spell__generic_8cpp.html#a79ff609ca4141ec4d6a457edc207fa59a4facfb8d4581572904cb314fde2a66f0", null ],
@@ -531,6 +541,9 @@ var spell__generic_8cpp =
     [ "Valthalak", "d1/de4/spell__generic_8cpp.html#affeaf7028ce63a1284f21539eae02e85", [
       [ "SPELL_INSTILL_LORD_VALTHALAK_SPIRIT", "d1/de4/spell__generic_8cpp.html#affeaf7028ce63a1284f21539eae02e85a5731caef0304be929e0bfa36d75b9c58", null ],
       [ "NPC_LORD_VALTHALAK", "d1/de4/spell__generic_8cpp.html#affeaf7028ce63a1284f21539eae02e85a7dcc4506d5a3f551aa49223a6b267716", null ]
+    ] ],
+    [ "VampiricTouchSpells", "d1/de4/spell__generic_8cpp.html#a3ae7119db8726658814a385667cf85f0", [
+      [ "SPELL_VAMPIRIC_TOUCH_HEAL", "d1/de4/spell__generic_8cpp.html#a3ae7119db8726658814a385667cf85f0a90fcc8b98d0b0db478320c39c9b93a38", null ]
     ] ],
     [ "VehicleScaling", "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149", [
       [ "SPELL_GEAR_SCALING", "d1/de4/spell__generic_8cpp.html#a43cc2e64fa4740a057ba2df061113149ac04ed98a6262941fb06bd5ce16442cce", null ]

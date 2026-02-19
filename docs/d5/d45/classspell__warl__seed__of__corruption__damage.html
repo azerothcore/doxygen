@@ -314,30 +314,30 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  704</span>    {</div>
-<div class="line"><span class="lineno">  705</span>        targets.remove_if([&amp;](<a class="code hl_class" href="../../d4/dd0/classWorldObject.html">WorldObject</a> <span class="keyword">const</span>* target)</div>
-<div class="line"><span class="lineno">  706</span>        {</div>
-<div class="line"><span class="lineno">  707</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> <span class="keyword">const</span>* unitTarget = target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
-<div class="line"><span class="lineno">  708</span>            {</div>
-<div class="line"><span class="lineno">  709</span>                if (WorldLocation const* dest = GetExplTargetDest())</div>
-<div class="line"><span class="lineno">  710</span>                {</div>
-<div class="line"><span class="lineno">  711</span>                    if (!unitTarget-&gt;IsWithinLOS(dest-&gt;GetPositionX(), dest-&gt;GetPositionY(), dest-&gt;GetPositionZ()))</div>
-<div class="line"><span class="lineno">  712</span>                    {</div>
-<div class="line"><span class="lineno">  713</span>                        return true;</div>
-<div class="line"><span class="lineno">  714</span>                    }</div>
-<div class="line"><span class="lineno">  715</span>                }</div>
-<div class="line"><span class="lineno">  716</span>            }</div>
-<div class="line"><span class="lineno">  717</span> </div>
-<div class="line"><span class="lineno">  718</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  719</span>        });</div>
-<div class="line"><span class="lineno">  720</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  721</span>    {</div>
+<div class="line"><span class="lineno">  722</span>        targets.remove_if([&amp;](<a class="code hl_class" href="../../d4/dd0/classWorldObject.html">WorldObject</a> <span class="keyword">const</span>* target)</div>
+<div class="line"><span class="lineno">  723</span>        {</div>
+<div class="line"><span class="lineno">  724</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> <span class="keyword">const</span>* unitTarget = target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>())</div>
+<div class="line"><span class="lineno">  725</span>            {</div>
+<div class="line"><span class="lineno">  726</span>                if (WorldLocation const* dest = GetExplTargetDest())</div>
+<div class="line"><span class="lineno">  727</span>                {</div>
+<div class="line"><span class="lineno">  728</span>                    if (!unitTarget-&gt;IsWithinLOS(dest-&gt;GetPositionX(), dest-&gt;GetPositionY(), dest-&gt;GetPositionZ()))</div>
+<div class="line"><span class="lineno">  729</span>                    {</div>
+<div class="line"><span class="lineno">  730</span>                        return true;</div>
+<div class="line"><span class="lineno">  731</span>                    }</div>
+<div class="line"><span class="lineno">  732</span>                }</div>
+<div class="line"><span class="lineno">  733</span>            }</div>
+<div class="line"><span class="lineno">  734</span> </div>
+<div class="line"><span class="lineno">  735</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  736</span>        });</div>
+<div class="line"><span class="lineno">  737</span>    }</div>
 <div class="ttc" id="aclassObject_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d8/d4b/classObject.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition</b> Object.h:209</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
 <div class="ttc" id="aclassWorldObject_html"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html">WorldObject</a></div><div class="ttdef"><b>Definition</b> Object.h:471</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00209">Object::ToUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00722">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00739">Register()</a>.</p>
 
 </div>
 </div>
@@ -391,16 +391,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  723</span>    {</div>
-<div class="line"><span class="lineno">  724</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af">spell_warl_seed_of_corruption_damage::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a423eed54c405c7e51816127214e8ea82">TARGET_UNIT_DEST_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  725</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  740</span>    {</div>
+<div class="line"><span class="lineno">  741</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af">spell_warl_seed_of_corruption_damage::FilterTargets</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a423eed54c405c7e51816127214e8ea82">TARGET_UNIT_DEST_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  742</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a418aed4e4066eb09ab979b5d78dc9152a423eed54c405c7e51816127214e8ea82"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a418aed4e4066eb09ab979b5d78dc9152a423eed54c405c7e51816127214e8ea82">TARGET_UNIT_DEST_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_DEST_AREA_ENEMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1432</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aclassSpellScript_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../df/d92/classSpellScript.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aclassspell__warl__seed__of__corruption__damage_html_a2bcc808d5869442e4c2e78be2d2a16af"><div class="ttname"><a href="../../d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af">spell_warl_seed_of_corruption_damage::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:703</div></div>
+<div class="ttc" id="aclassspell__warl__seed__of__corruption__damage_html_a2bcc808d5869442e4c2e78be2d2a16af"><div class="ttname"><a href="../../d5/d45/classspell__warl__seed__of__corruption__damage.html#a2bcc808d5869442e4c2e78be2d2a16af">spell_warl_seed_of_corruption_damage::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:720</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00703">FilterTargets()</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01432">TARGET_UNIT_DEST_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00720">FilterTargets()</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01432">TARGET_UNIT_DEST_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -413,7 +413,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d45/classspell__warl__seed__of__corruption__damage.html">spell_warl_seed_of_corruption_damage</a></li>
-    <li class="footer">Generated on Wed Feb 18 2026 06:58:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:57:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

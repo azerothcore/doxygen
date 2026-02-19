@@ -2,6 +2,7 @@ var utgarde__keep_8cpp =
 [
     [ "npc_dragonflayer_forge_master", "d3/d2b/structnpc__dragonflayer__forge__master.html", "d3/d2b/structnpc__dragonflayer__forge__master" ],
     [ "npc_enslaved_proto_drake", "dd/d8f/structnpc__enslaved__proto__drake.html", "dd/d8f/structnpc__enslaved__proto__drake" ],
+    [ "spell_uk_second_wind", "d5/dfb/classspell__uk__second__wind.html", "d5/dfb/classspell__uk__second__wind" ],
     [ "spell_ticking_time_bomb_aura", "de/dbb/classspell__ticking__time__bomb__aura.html", "de/dbb/classspell__ticking__time__bomb__aura" ],
     [ "EnslavedProtoDrake", "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278", [
       [ "SPELL_REND", "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
@@ -17,6 +18,9 @@ var utgarde__keep_8cpp =
       [ "POINT_TAKE_OFF", "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
       [ "POINT_PRE_LAND", "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
       [ "POINT_LAND", "db/d88/utgarde__keep_8cpp.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
+    ] ],
+    [ "SecondWind", "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045", [
+      [ "SPELL_SECOND_WIND_TRIGGER", "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
     ] ],
     [ "TickingTimeBomb", "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1cca", [
       [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "db/d88/utgarde__keep_8cpp.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]

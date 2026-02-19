@@ -17,8 +17,22 @@ var spell__rogue_8cpp =
     [ "spell_rog_pickpocket", "d2/db6/classspell__rog__pickpocket.html", "d2/db6/classspell__rog__pickpocket" ],
     [ "spell_rog_vanish_purge", "dc/d90/classspell__rog__vanish__purge.html", "dc/d90/classspell__rog__vanish__purge" ],
     [ "spell_rog_vanish", "dd/d3c/classspell__rog__vanish.html", "dd/d3c/classspell__rog__vanish" ],
+    [ "spell_rog_glyph_of_backstab", "d6/d13/classspell__rog__glyph__of__backstab.html", "d6/d13/classspell__rog__glyph__of__backstab" ],
+    [ "spell_rog_stealth_buff_tracker< RemoveSpellId >", "d7/d93/classspell__rog__stealth__buff__tracker.html", "d7/d93/classspell__rog__stealth__buff__tracker" ],
+    [ "spell_rog_cut_to_the_chase", "da/d7e/classspell__rog__cut__to__the__chase.html", "da/d7e/classspell__rog__cut__to__the__chase" ],
+    [ "spell_rog_deadly_brew", "d2/d5e/classspell__rog__deadly__brew.html", "d2/d5e/classspell__rog__deadly__brew" ],
+    [ "spell_rog_quick_recovery", "d7/d27/classspell__rog__quick__recovery.html", "d7/d27/classspell__rog__quick__recovery" ],
+    [ "spell_rog_setup", "df/d25/classspell__rog__setup.html", "df/d25/classspell__rog__setup" ],
+    [ "spell_rog_turn_the_tables", "d8/db7/classspell__rog__turn__the__tables.html", "d8/db7/classspell__rog__turn__the__tables" ],
+    [ "spell_rog_turn_the_tables_proc", "dc/dad/classspell__rog__turn__the__tables__proc.html", "dc/dad/classspell__rog__turn__the__tables__proc" ],
     [ "KillingSpreeScriptName", "de/df2/spell__rogue_8cpp.html#a3113dcef6ca918382eb15e4803d7bb42", null ],
     [ "spell_rog_killing_spree_aura_script", "de/df2/spell__rogue_8cpp.html#a68df6411a1d33b37aed8e2cb7d35de0f", null ],
+    [ "RogueSpellIcons", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033be", [
+      [ "ROGUE_ICON_MASTER_OF_SUBTLETY", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033bead712218292bc42f720ba72d4790b3f32", null ],
+      [ "ROGUE_ICON_CUT_TO_THE_CHASE", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033bea346e14f7c728a513c943612602d898ae", null ],
+      [ "ROGUE_ICON_DEADLY_BREW", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033bead8855b4bf3f7409ae414cdc630380265", null ],
+      [ "ROGUE_ICON_QUICK_RECOVERY", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033bea2ff4837246ca6516e15c951f83e4bf58", null ]
+    ] ],
     [ "RogueSpells", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523", [
       [ "SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4", null ],
       [ "SPELL_ROGUE_CHEAT_DEATH_COOLDOWN", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812", null ],
@@ -31,7 +45,14 @@ var spell__rogue_8cpp =
       [ "SPELL_ROGUE_PREY_ON_THE_WEAK", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452", null ],
       [ "SPELL_ROGUE_SHIV_TRIGGERED", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e", null ],
       [ "SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a", null ],
-      [ "SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1", null ]
+      [ "SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1", null ],
+      [ "SPELL_ROGUE_MASTER_OF_SUBTLETY_DAMAGE", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a40a5daaa3cee076b99c5d0b0329e9ee8", null ],
+      [ "SPELL_ROGUE_DEADLY_BREW_POISON", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a60344bd5443c6530f2f82c9d1c526577", null ],
+      [ "SPELL_ROGUE_QUICK_RECOVERY_ENERGY", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a2727c83f5ec6b10e80e2e0663e240c8e", null ],
+      [ "SPELL_ROGUE_TURN_THE_TABLES_R1", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523adf5331bcac01d096e0ae1e2d6798994d", null ],
+      [ "SPELL_ROGUE_TURN_THE_TABLES_R2", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a48c4c6509d0ad5ce3016b51167105674", null ],
+      [ "SPELL_ROGUE_TURN_THE_TABLES_R3", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a82bb35cce1cfe2530826c5effe613f70", null ],
+      [ "SPELL_ROGUE_OVERKILL_TRIGGERED", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523ac5b76000cd2f67af0845c57237749972", null ]
     ] ],
     [ "vanish", "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52", [
       [ "SPELL_STEALTH", "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576", null ],

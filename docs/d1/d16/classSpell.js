@@ -210,6 +210,7 @@ var classSpell =
     [ "GetSpellSchoolMask", "d1/d16/classSpell.html#a02b4bd77211425a442bf4fbf5bae4850", null ],
     [ "GetSpellValue", "d1/d16/classSpell.html#a76a59f59e77b092f49e359a9725dd340", null ],
     [ "getState", "d1/d16/classSpell.html#a6fea183fab3cd5f8946923c3d8909f5a", null ],
+    [ "GetTriggeredByAuraSpellInfo", "d1/d16/classSpell.html#a13613310ed7a4940022def4a4fd34864", null ],
     [ "GetTriggeredByAuraTickNumber", "d1/d16/classSpell.html#a33c67fa14e2f2d76f6e0369170fdac2f", null ],
     [ "GetTriggeredCastFlags", "d1/d16/classSpell.html#ad9eb5d915f096a1c796802eb03793b69", null ],
     [ "GetUniqueTargetInfo", "d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3", null ],

@@ -1,0 +1,7 @@
+var classspell__pal__judgement__of__light__heal =
+[
+    [ "HandleProc", "d8/d29/classspell__pal__judgement__of__light__heal.html#a1964ad50011e459ca449d6ff9baec189", null ],
+    [ "PrepareAuraScript", "d8/d29/classspell__pal__judgement__of__light__heal.html#a1362df471c29d59087b6dba6007ef7a1", null ],
+    [ "Register", "d8/d29/classspell__pal__judgement__of__light__heal.html#a15d6a692e8e856c2108bdf810a8f6f50", null ],
+    [ "Validate", "d8/d29/classspell__pal__judgement__of__light__heal.html#af3bce711681865628f2ee69f5e7d48a7", null ]
+];

@@ -314,32 +314,32 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3048</span>    {</div>
-<div class="line"><span class="lineno"> 3049</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 3050</span>        <span class="keywordflow">switch</span> (caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>())</div>
-<div class="line"><span class="lineno"> 3051</span>        {</div>
-<div class="line"><span class="lineno"> 3052</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d">AREA_INVASION_POINT_OVERLORD</a>:</div>
-<div class="line"><span class="lineno"> 3053</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9">SPELL_SOCRETHAR_TO_SEAT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 3054</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 3055</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262">AREA_SOCRETHARS_SEAT</a>:</div>
-<div class="line"><span class="lineno"> 3056</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4">SPELL_SOCRETHAR_FROM_SEAT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 3057</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 3058</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 3059</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 3060</span>        }</div>
-<div class="line"><span class="lineno"> 3061</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3282</span>    {</div>
+<div class="line"><span class="lineno"> 3283</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 3284</span>        <span class="keywordflow">switch</span> (caster-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>())</div>
+<div class="line"><span class="lineno"> 3285</span>        {</div>
+<div class="line"><span class="lineno"> 3286</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d">AREA_INVASION_POINT_OVERLORD</a>:</div>
+<div class="line"><span class="lineno"> 3287</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9">SPELL_SOCRETHAR_TO_SEAT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 3288</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 3289</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262">AREA_SOCRETHARS_SEAT</a>:</div>
+<div class="line"><span class="lineno"> 3290</span>                caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4">SPELL_SOCRETHAR_FROM_SEAT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 3291</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 3292</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 3293</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 3294</span>        }</div>
+<div class="line"><span class="lineno"> 3295</span>    }</div>
 <div class="ttc" id="aAreaDefines_8h_html_ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d"><div class="ttname"><a href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d">AREA_INVASION_POINT_OVERLORD</a></div><div class="ttdeci">@ AREA_INVASION_POINT_OVERLORD</div><div class="ttdef"><b>Definition</b> AreaDefines.h:136</div></div>
 <div class="ttc" id="aAreaDefines_8h_html_ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262"><div class="ttname"><a href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262">AREA_SOCRETHARS_SEAT</a></div><div class="ttdeci">@ AREA_SOCRETHARS_SEAT</div><div class="ttdef"><b>Definition</b> AreaDefines.h:126</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:655</div></div>
-<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1194</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
+<div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1302</div></div>
 <div class="ttc" id="aclassWorldObject_html_acdd585ef58eb876c506389ff96a4fbd9"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#acdd585ef58eb876c506389ff96a4fbd9">WorldObject::GetAreaId</a></div><div class="ttdeci">uint32 GetAreaId() const</div><div class="ttdef"><b>Definition</b> Object.cpp:3090</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4">SPELL_SOCRETHAR_FROM_SEAT</a></div><div class="ttdeci">@ SPELL_SOCRETHAR_FROM_SEAT</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3030</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9">SPELL_SOCRETHAR_TO_SEAT</a></div><div class="ttdeci">@ SPELL_SOCRETHAR_TO_SEAT</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3029</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4">SPELL_SOCRETHAR_FROM_SEAT</a></div><div class="ttdeci">@ SPELL_SOCRETHAR_FROM_SEAT</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3264</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9">SPELL_SOCRETHAR_TO_SEAT</a></div><div class="ttdeci">@ SPELL_SOCRETHAR_TO_SEAT</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3263</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00136">AREA_INVASION_POINT_OVERLORD</a>, <a class="el" href="../../#l00126">AREA_SOCRETHARS_SEAT</a>, <a class="el" href="../../#l01194">Unit::CastSpell()</a>, <a class="el" href="../../#l03090">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l03030">SPELL_SOCRETHAR_FROM_SEAT</a>, and <a class="el" href="../../#l03029">SPELL_SOCRETHAR_TO_SEAT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00136">AREA_INVASION_POINT_OVERLORD</a>, <a class="el" href="../../#l00126">AREA_SOCRETHARS_SEAT</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l03090">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l03264">SPELL_SOCRETHAR_FROM_SEAT</a>, and <a class="el" href="../../#l03263">SPELL_SOCRETHAR_TO_SEAT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03063">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03297">Register()</a>.</p>
 
 </div>
 </div>
@@ -367,9 +367,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3038</span>    {</div>
-<div class="line"><span class="lineno"> 3039</span>        <span class="keywordflow">return</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAreaId() == <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d">AREA_INVASION_POINT_OVERLORD</a> || <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAreaId() == <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262">AREA_SOCRETHARS_SEAT</a>);</div>
-<div class="line"><span class="lineno"> 3040</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3272</span>    {</div>
+<div class="line"><span class="lineno"> 3273</span>        <span class="keywordflow">return</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAreaId() == <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a40c60f2bb9d9f89b1666ed821c51492d">AREA_INVASION_POINT_OVERLORD</a> || <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;GetAreaId() == <a class="code hl_enumvalue" href="../../dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3af7e355d37fe6a587161cea664969e262">AREA_SOCRETHARS_SEAT</a>);</div>
+<div class="line"><span class="lineno"> 3274</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00136">AREA_INVASION_POINT_OVERLORD</a>, <a class="el" href="../../#l00126">AREA_SOCRETHARS_SEAT</a>, and <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>.</p>
 
@@ -425,16 +425,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3064</span>    {</div>
-<div class="line"><span class="lineno"> 3065</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca">spell_item_socrethars_stone::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 3066</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3298</span>    {</div>
+<div class="line"><span class="lineno"> 3299</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca">spell_item_socrethars_stone::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 3300</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:792</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__item__socrethars__stone_html_ae5487bc9e4c7444468d076785af473ca"><div class="ttname"><a href="../../d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca">spell_item_socrethars_stone::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3047</div></div>
+<div class="ttc" id="aclassspell__item__socrethars__stone_html_ae5487bc9e4c7444468d076785af473ca"><div class="ttname"><a href="../../d6/d70/classspell__item__socrethars__stone.html#ae5487bc9e4c7444468d076785af473ca">spell_item_socrethars_stone::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3281</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03047">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03281">HandleDummy()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -463,12 +463,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3043</span>    {</div>
-<div class="line"><span class="lineno"> 3044</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9">SPELL_SOCRETHAR_TO_SEAT</a>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4">SPELL_SOCRETHAR_FROM_SEAT</a> });</div>
-<div class="line"><span class="lineno"> 3045</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3277</span>    {</div>
+<div class="line"><span class="lineno"> 3278</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9">SPELL_SOCRETHAR_TO_SEAT</a>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4">SPELL_SOCRETHAR_FROM_SEAT</a> });</div>
+<div class="line"><span class="lineno"> 3279</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03030">SPELL_SOCRETHAR_FROM_SEAT</a>, <a class="el" href="../../#l03029">SPELL_SOCRETHAR_TO_SEAT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03264">SPELL_SOCRETHAR_FROM_SEAT</a>, <a class="el" href="../../#l03263">SPELL_SOCRETHAR_TO_SEAT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -481,7 +481,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d70/classspell__item__socrethars__stone.html">spell_item_socrethars_stone</a></li>
-    <li class="footer">Generated on Wed Feb 18 2026 06:58:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 19 2026 06:56:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -15,6 +15,7 @@ var boss__xt002_8cpp =
     [ "spell_xt002_searing_light_spawn_life_spark_aura", "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura.html", "d9/d37/classspell__xt002__searing__light__spawn__life__spark__aura" ],
     [ "achievement_xt002_nerf_engineering", "d3/db7/classachievement__xt002__nerf__engineering.html", "d3/db7/classachievement__xt002__nerf__engineering" ],
     [ "achievement_xt002_nerf_gravity_bombs", "da/d4f/classachievement__xt002__nerf__gravity__bombs.html", "da/d4f/classachievement__xt002__nerf__gravity__bombs" ],
+    [ "spell_xt002_321_boombot_aura", "d5/ddd/classspell__xt002__321__boombot__aura.html", "d5/ddd/classspell__xt002__321__boombot__aura" ],
     [ "GravityBomb", "d5/d7d/boss__xt002_8cpp.html#a313727b7ebcfa13720d82fc58da6c8b5", [
       [ "SPELL_GRAVITY_BOMB_TRIGGER_10", "d5/d7d/boss__xt002_8cpp.html#a313727b7ebcfa13720d82fc58da6c8b5a79e37f6f33a21262c715de8b3dd98340", null ]
     ] ],
@@ -79,7 +80,8 @@ var boss__xt002_8cpp =
       [ "SPELL_VOID_ZONE_DAMAGE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaaf5806f615ee02674d953db3b41f2d87", null ],
       [ "SPELL_SPARK_SUMMON", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa0bb543308f62c622b65d1af4d4d20ac2", null ],
       [ "SPELL_SPARK_DAMAGE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa217ee3d1abd502c13f73be7708bfba67", null ],
-      [ "SPELL_SPARK_MELEE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaaf26ac95a8c2ff3a8373011e03499e50", null ]
+      [ "SPELL_SPARK_MELEE", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effaaf26ac95a8c2ff3a8373011e03499e50", null ],
+      [ "SPELL_ACHIEVEMENT_CREDIT_NERF_SCRAPBOTS", "d5/d7d/boss__xt002_8cpp.html#a42170363d3d70af9b65253693ae22effa103ea624ac1b544aee5528bde16d8de4", null ]
     ] ],
     [ "AddSC_boss_xt002", "d5/d7d/boss__xt002_8cpp.html#aed7fa48bca193a9a68b2e3104622ec28", null ]
 ];

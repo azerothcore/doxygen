@@ -1,0 +1,7 @@
+var classspell__hun__thrill__of__the__hunt =
+[
+    [ "HandleProc", "da/dd7/classspell__hun__thrill__of__the__hunt.html#a67fd28d9426ed4825db86bf155d8d395", null ],
+    [ "PrepareAuraScript", "da/dd7/classspell__hun__thrill__of__the__hunt.html#aba5b549d9a3b9fecdc16270732e3a5d7", null ],
+    [ "Register", "da/dd7/classspell__hun__thrill__of__the__hunt.html#a50f5c5e00a327325da2e49ab0ab2bcb6", null ],
+    [ "Validate", "da/dd7/classspell__hun__thrill__of__the__hunt.html#a769737b9f5971b684f52289873970930", null ]
+];

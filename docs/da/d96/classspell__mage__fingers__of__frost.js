@@ -1,0 +1,7 @@
+var classspell__mage__fingers__of__frost =
+[
+    [ "OnRemove", "da/d96/classspell__mage__fingers__of__frost.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "da/d96/classspell__mage__fingers__of__frost.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "Register", "da/d96/classspell__mage__fingers__of__frost.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "da/d96/classspell__mage__fingers__of__frost.html#ab15a75ec708d8c683166bd73fab29701", null ]
+];

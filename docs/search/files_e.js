@@ -64,6 +64,8 @@ var searchData=
   ['position_2eh_61',['Position.h',['../de/dff/Position_8h.html',1,'']]],
   ['preparedstatement_2ecpp_62',['PreparedStatement.cpp',['../d8/d5d/PreparedStatement_8cpp.html',1,'']]],
   ['preparedstatement_2eh_63',['PreparedStatement.h',['../d2/d48/PreparedStatement_8h.html',1,'']]],
-  ['processpriority_2ecpp_64',['ProcessPriority.cpp',['../d6/da2/ProcessPriority_8cpp.html',1,'']]],
-  ['processpriority_2eh_65',['ProcessPriority.h',['../d6/d8e/ProcessPriority_8h.html',1,'']]]
+  ['procchancetesthelper_2eh_64',['ProcChanceTestHelper.h',['../dd/d97/ProcChanceTestHelper_8h.html',1,'']]],
+  ['processpriority_2ecpp_65',['ProcessPriority.cpp',['../d6/da2/ProcessPriority_8cpp.html',1,'']]],
+  ['processpriority_2eh_66',['ProcessPriority.h',['../d6/d8e/ProcessPriority_8h.html',1,'']]],
+  ['proceventinfohelper_2eh_67',['ProcEventInfoHelper.h',['../d9/dd7/ProcEventInfoHelper_8h.html',1,'']]]
 ];

@@ -1,0 +1,7 @@
+var classspell__sha__t8__elemental__4p__bonus =
+[
+    [ "HandleProc", "de/d44/classspell__sha__t8__elemental__4p__bonus.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "de/d44/classspell__sha__t8__elemental__4p__bonus.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "de/d44/classspell__sha__t8__elemental__4p__bonus.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
+];

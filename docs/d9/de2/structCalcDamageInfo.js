@@ -11,7 +11,6 @@ var structCalcDamageInfo =
     [ "HitInfo", "d9/de2/structCalcDamageInfo.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
     [ "hitOutCome", "d9/de2/structCalcDamageInfo.html#a114dcabcb8bff10c2452cb27e75da115", null ],
     [ "procAttacker", "d9/de2/structCalcDamageInfo.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
-    [ "procEx", "d9/de2/structCalcDamageInfo.html#ad629b9aad4d88247ef4dfaadd79dc1c8", null ],
     [ "procVictim", "d9/de2/structCalcDamageInfo.html#a236b06649e715fab9dbddb074ef2f075", null ],
     [ "resist", "d9/de2/structCalcDamageInfo.html#ab57d348b500203649bf532405cd9ceec", null ],
     [ "target", "d9/de2/structCalcDamageInfo.html#af2976fa1245b3e3177dcbac464345829", null ],

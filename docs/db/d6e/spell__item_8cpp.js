@@ -122,8 +122,69 @@ var spell__item_8cpp =
     [ "spell_item_spell_reflectors", "dd/dc4/classspell__item__spell__reflectors.html", "dd/dc4/classspell__item__spell__reflectors" ],
     [ "spell_item_multiphase_goggles", "d1/db0/classspell__item__multiphase__goggles.html", "d1/db0/classspell__item__multiphase__goggles" ],
     [ "spell_item_bloodsail_admiral_hat", "d9/d39/classspell__item__bloodsail__admiral__hat.html", "d9/d39/classspell__item__bloodsail__admiral__hat" ],
+    [ "spell_item_alchemists_stone", "d5/d5d/classspell__item__alchemists__stone.html", "d5/d5d/classspell__item__alchemists__stone" ],
+    [ "spell_item_darkmoon_card_greatness", "db/da7/classspell__item__darkmoon__card__greatness.html", "db/da7/classspell__item__darkmoon__card__greatness" ],
+    [ "spell_item_death_choice", "de/d6c/classspell__item__death__choice.html", "de/d6c/classspell__item__death__choice" ],
+    [ "spell_item_trinket_stack< StackSpell, TriggerSpell >", "d5/d26/classspell__item__trinket__stack.html", "d5/d26/classspell__item__trinket__stack" ],
+    [ "spell_item_soul_preserver", "de/d0e/classspell__item__soul__preserver.html", "de/d0e/classspell__item__soul__preserver" ],
+    [ "spell_item_charm_witch_doctor", "d0/d5c/classspell__item__charm__witch__doctor.html", "d0/d5c/classspell__item__charm__witch__doctor" ],
+    [ "spell_item_lifegiving_gem", "d5/d34/classspell__item__lifegiving__gem.html", "d5/d34/classspell__item__lifegiving__gem" ],
+    [ "spell_item_mana_drain", "d0/d27/classspell__item__mana__drain.html", "d0/d27/classspell__item__mana__drain" ],
+    [ "spell_item_mind_control_cap", "da/dcc/classspell__item__mind__control__cap.html", "da/dcc/classspell__item__mind__control__cap" ],
+    [ "spell_item_hourglass_sand", "d8/d77/classspell__item__hourglass__sand.html", "d8/d77/classspell__item__hourglass__sand" ],
+    [ "spell_item_ultrasafe_transporter", "dc/dcc/classspell__item__ultrasafe__transporter.html", "dc/dcc/classspell__item__ultrasafe__transporter" ],
+    [ "spell_item_power_circle", "d7/d53/classspell__item__power__circle.html", "d7/d53/classspell__item__power__circle" ],
+    [ "spell_item_thrallmar_and_honor_hold_favor", "d8/dea/classspell__item__thrallmar__and__honor__hold__favor.html", "d8/dea/classspell__item__thrallmar__and__honor__hold__favor" ],
+    [ "spell_item_drums_of_forgotten_kings", "d7/d00/classspell__item__drums__of__forgotten__kings.html", "d7/d00/classspell__item__drums__of__forgotten__kings" ],
+    [ "spell_item_drums_of_the_wild", "df/d49/classspell__item__drums__of__the__wild.html", "df/d49/classspell__item__drums__of__the__wild" ],
+    [ "spell_item_darkmoon_card_illusion", "de/d33/classspell__item__darkmoon__card__illusion.html", "de/d33/classspell__item__darkmoon__card__illusion" ],
+    [ "spell_item_mad_alchemists_potion", "d8/d31/classspell__item__mad__alchemists__potion.html", "d8/d31/classspell__item__mad__alchemists__potion" ],
+    [ "spell_item_decahedral_dwarven_dice", "de/d5a/classspell__item__decahedral__dwarven__dice.html", "de/d5a/classspell__item__decahedral__dwarven__dice" ],
+    [ "spell_item_aura_of_madness", "db/dd0/classspell__item__aura__of__madness.html", "db/dd0/classspell__item__aura__of__madness" ],
+    [ "spell_item_dementia", "d0/d59/classspell__item__dementia.html", "d0/d59/classspell__item__dementia" ],
+    [ "spell_item_deadly_precision", "dd/d30/classspell__item__deadly__precision.html", "dd/d30/classspell__item__deadly__precision" ],
+    [ "spell_item_deadly_precision_dummy", "d4/d79/classspell__item__deadly__precision__dummy.html", "d4/d79/classspell__item__deadly__precision__dummy" ],
+    [ "spell_item_deathbringers_will_normal", "d3/de9/classspell__item__deathbringers__will__normal.html", "d3/de9/classspell__item__deathbringers__will__normal" ],
+    [ "spell_item_deathbringers_will_heroic", "d7/da2/classspell__item__deathbringers__will__heroic.html", "d7/da2/classspell__item__deathbringers__will__heroic" ],
+    [ "spell_item_discerning_eye_beast_dummy", "dd/d9b/classspell__item__discerning__eye__beast__dummy.html", "dd/d9b/classspell__item__discerning__eye__beast__dummy" ],
+    [ "spell_item_frozen_shadoweave", "d3/dfc/classspell__item__frozen__shadoweave.html", "d3/dfc/classspell__item__frozen__shadoweave" ],
+    [ "spell_item_healing_touch_refund", "d2/d93/classspell__item__healing__touch__refund.html", "d2/d93/classspell__item__healing__touch__refund" ],
+    [ "spell_item_heartpierce", "df/d14/classspell__item__heartpierce.html", "df/d14/classspell__item__heartpierce" ],
+    [ "spell_item_heartpierce_hero", "d5/d44/classspell__item__heartpierce__hero.html", "d5/d44/classspell__item__heartpierce__hero" ],
+    [ "spell_item_mark_of_conquest", "d8/d25/classspell__item__mark__of__conquest.html", "d8/d25/classspell__item__mark__of__conquest" ],
+    [ "spell_item_pendant_of_the_violet_eye", "db/d73/classspell__item__pendant__of__the__violet__eye.html", "db/d73/classspell__item__pendant__of__the__violet__eye" ],
+    [ "spell_item_persistent_shield", "dc/db5/classspell__item__persistent__shield.html", "dc/db5/classspell__item__persistent__shield" ],
+    [ "spell_item_pet_healing", "df/dfc/classspell__item__pet__healing.html", "df/dfc/classspell__item__pet__healing" ],
+    [ "spell_item_restless_strength", "d7/da4/classspell__item__restless__strength.html", "d7/da4/classspell__item__restless__strength" ],
+    [ "spell_item_unstable_power", "d8/d7b/classspell__item__unstable__power.html", "d8/d7b/classspell__item__unstable__power" ],
+    [ "spell_item_commendation_of_kaelthas", "d5/d7b/classspell__item__commendation__of__kaelthas.html", "d5/d7b/classspell__item__commendation__of__kaelthas" ],
+    [ "spell_item_corpse_tongue_coin", "d5/d08/classspell__item__corpse__tongue__coin.html", "d5/d08/classspell__item__corpse__tongue__coin" ],
+    [ "spell_item_corpse_tongue_coin_heroic", "d7/d6e/classspell__item__corpse__tongue__coin__heroic.html", "d7/d6e/classspell__item__corpse__tongue__coin__heroic" ],
+    [ "spell_item_crystal_spire_of_karabor", "dd/dbd/classspell__item__crystal__spire__of__karabor.html", "dd/dbd/classspell__item__crystal__spire__of__karabor" ],
+    [ "spell_item_soul_harvesters_charm", "d5/dc5/classspell__item__soul__harvesters__charm.html", "d5/dc5/classspell__item__soul__harvesters__charm" ],
+    [ "spell_item_sunwell_exalted_caster_neck", "d9/d74/classspell__item__sunwell__exalted__caster__neck.html", "d9/d74/classspell__item__sunwell__exalted__caster__neck" ],
+    [ "spell_item_sunwell_exalted_healer_neck", "dd/d21/classspell__item__sunwell__exalted__healer__neck.html", "dd/d21/classspell__item__sunwell__exalted__healer__neck" ],
+    [ "spell_item_sunwell_exalted_melee_neck", "d5/d10/classspell__item__sunwell__exalted__melee__neck.html", "d5/d10/classspell__item__sunwell__exalted__melee__neck" ],
+    [ "spell_item_sunwell_exalted_tank_neck", "d4/df6/classspell__item__sunwell__exalted__tank__neck.html", "d4/df6/classspell__item__sunwell__exalted__tank__neck" ],
+    [ "spell_item_swift_hand_justice_dummy", "de/d93/classspell__item__swift__hand__justice__dummy.html", "de/d93/classspell__item__swift__hand__justice__dummy" ],
+    [ "spell_item_tiny_abomination_in_a_jar", "d7/da8/classspell__item__tiny__abomination__in__a__jar.html", "d7/da8/classspell__item__tiny__abomination__in__a__jar" ],
+    [ "spell_item_tiny_abomination_in_a_jar_hero", "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html", "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero" ],
+    [ "spell_item_totem_of_flowing_water", "d5/de3/classspell__item__totem__of__flowing__water.html", "d5/de3/classspell__item__totem__of__flowing__water" ],
+    [ "spell_item_petrified_twilight_scale", "db/d0b/classspell__item__petrified__twilight__scale.html", "db/d0b/classspell__item__petrified__twilight__scale" ],
+    [ "spell_item_petrified_twilight_scale_heroic", "de/d7c/classspell__item__petrified__twilight__scale__heroic.html", "de/d7c/classspell__item__petrified__twilight__scale__heroic" ],
+    [ "spell_item_purified_shard_of_the_scale", "d6/d90/classspell__item__purified__shard__of__the__scale.html", "d6/d90/classspell__item__purified__shard__of__the__scale" ],
+    [ "spell_item_shiny_shard_of_the_scale", "de/ddc/classspell__item__shiny__shard__of__the__scale.html", "de/ddc/classspell__item__shiny__shard__of__the__scale" ],
+    [ "spell_item_living_root_of_the_wildheart", "d3/da8/classspell__item__living__root__of__the__wildheart.html", "d3/da8/classspell__item__living__root__of__the__wildheart" ],
+    [ "spell_item_lightning_capacitor", "db/d6e/spell__item_8cpp.html#a2fce9bb038a3cbcdbfdb977c0287801c", null ],
+    [ "spell_item_thunder_capacitor", "db/d6e/spell__item_8cpp.html#aae0574cb7ab1b0e420c89433b545f752", null ],
+    [ "spell_item_toc25_caster_trinket_heroic", "db/d6e/spell__item_8cpp.html#a9206680d9ac44d81dddcca671878b21e", null ],
+    [ "spell_item_toc25_caster_trinket_normal", "db/d6e/spell__item_8cpp.html#a49e9b012afe42f41d4f79b891209fea2", null ],
     [ "AegisOfPreservation", "db/d6e/spell__item_8cpp.html#ae17183dd7646d832a63a93064b789c3a", [
       [ "SPELL_AEGIS_HEAL", "db/d6e/spell__item_8cpp.html#ae17183dd7646d832a63a93064b789c3aa7c5949ded6d7e5ad08374ebef35e90d8", null ]
+    ] ],
+    [ "AlchemistStone", "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09", [
+      [ "SPELL_ALCHEMISTS_STONE_EXTRA_HEAL", "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09ae485a050815547bc6bda9d16f0573480", null ],
+      [ "SPELL_ALCHEMISTS_STONE_EXTRA_MANA", "db/d6e/spell__item_8cpp.html#a989d366f663b8ace4873b6f96e908d09a5da4a6cb67518f27f6a60f629ab9615a", null ]
     ] ],
     [ "AmplifyDish", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258e", [
       [ "SPELL_AMPLIFY_30S", "db/d6e/spell__item_8cpp.html#a0c43011af0c9d2691fe0ac455214258ea82226009f5691ea06e8e091832a87269", null ],
@@ -145,6 +206,20 @@ var spell__item_8cpp =
       [ "SOUND_ASHBRINGER_10", "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75adcff5bd4613ee7a9a6b500645028aecc", null ],
       [ "SOUND_ASHBRINGER_11", "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a6f84bb29dd2f2225cfaf4fd4555c640d", null ],
       [ "SOUND_ASHBRINGER_12", "db/d6e/spell__item_8cpp.html#aa43d8aafb2a8a06a81e7837aac909d75a752446db3a1c4917302c98be365852d5", null ]
+    ] ],
+    [ "AuraOfMadness", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3", [
+      [ "SPELL_SOCIOPATH", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3aa40ca3d3c392c789780e90b288b1c2c1", null ],
+      [ "SPELL_DELUSIONAL", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3aae1a2804543604189f832111300400d0", null ],
+      [ "SPELL_KLEPTOMANIA", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ab4deeedbf839c62ccd474ed836997251", null ],
+      [ "SPELL_MEGALOMANIA", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3adc1accc20663a07944afc1d9d1710326", null ],
+      [ "SPELL_PARANOIA", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3aadeda30da6264bd81895a932e92bd692", null ],
+      [ "SPELL_MANIC", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ac950e26ea0643f184c3f87606f35d4bb", null ],
+      [ "SPELL_NARCISSISM", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a5e1db17af152b0997142fc81256358c2", null ],
+      [ "SPELL_MARTYR_COMPLEX", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a47877c5b556d0fefed4fe3e01e792d2e", null ],
+      [ "SPELL_DEMENTIA", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3aed24b61a77d47b83b8186a0ae527eaef", null ],
+      [ "SPELL_DEMENTIA_POS", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ab091bb3565a74ff16e4c2222f9541640", null ],
+      [ "SPELL_DEMENTIA_NEG", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a78dff7657e785b3c60cabbcce8d12d3c", null ],
+      [ "SAY_MADNESS", "db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3afed123775d0924d697cae150a91fa5b0", null ]
     ] ],
     [ "BlessingOfAncientKings", "db/d6e/spell__item_8cpp.html#a1b800364bfc1b73277d6923c0ad97575", [
       [ "SPELL_PROTECTION_OF_ANCIENT_KINGS", "db/d6e/spell__item_8cpp.html#a1b800364bfc1b73277d6923c0ad97575a798b299fcd9ee6fc32e487f44569fecc", null ]
@@ -168,14 +243,59 @@ var spell__item_8cpp =
     [ "BrittleArmor", "db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079", [
       [ "SPELL_BRITTLE_ARMOR", "db/d6e/spell__item_8cpp.html#acff1d58a7c81f2aeaec5000116a6e079ae9db0efd6f0086e7aab260f4ec8c502f", null ]
     ] ],
+    [ "CharmWitchDoctor", "db/d6e/spell__item_8cpp.html#ac700568eb78e6d526736f94a5f5d230c", [
+      [ "SPELL_CHARM_WITCH_DOCTOR_PROC", "db/d6e/spell__item_8cpp.html#ac700568eb78e6d526736f94a5f5d230ca31a62d98c02845fb854b03611cad5295", null ]
+    ] ],
     [ "ChickenCover", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84c", [
       [ "SPELL_CHICKEN_NET", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cae36708354003119bcf98bf0266dadb32", null ],
       [ "SPELL_CAPTURE_CHICKEN_ESCAPE", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca49a9dce1c783668fc725a6605ef996c6", null ],
       [ "QUEST_CHICKEN_PARTY", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84ca010fd08b98269e22dc82854066338b81", null ],
       [ "QUEST_FLOWN_THE_COOP", "db/d6e/spell__item_8cpp.html#aa51330a286ad45476626353c294da84cab7462dcb6cb7aa653f707d2843adf8c2", null ]
     ] ],
+    [ "CommendationOfKaelthas", "db/d6e/spell__item_8cpp.html#af521aabffd749e426bb3bfa2a8284ccf", [
+      [ "SPELL_COMMENDATION_OF_KAELTHAS", "db/d6e/spell__item_8cpp.html#af521aabffd749e426bb3bfa2a8284ccfade358c63c194c4805bb5a0f4f665f0f8", null ]
+    ] ],
     [ "CompleteRaptorCapture", "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdc", [
       [ "SPELL_RAPTOR_CAPTURE_CREDIT", "db/d6e/spell__item_8cpp.html#a88a4bc1e8fbe379dc254f8c79ff9acdca256bd618922aa914efebd4d0601aeecf", null ]
+    ] ],
+    [ "CorpseTongueCoin", "db/d6e/spell__item_8cpp.html#a32bf64d24ac6939ee923189158be8d15", [
+      [ "SPELL_CORPSE_TONGUE_COIN", "db/d6e/spell__item_8cpp.html#a32bf64d24ac6939ee923189158be8d15a70eb794eeac977ae13b2e20ece22702a", null ],
+      [ "SPELL_CORPSE_TONGUE_COIN_HERO", "db/d6e/spell__item_8cpp.html#a32bf64d24ac6939ee923189158be8d15ae73dfb97f6badc02e6bd44fcec5c0dad", null ]
+    ] ],
+    [ "CrystalSpireOfKarabor", "db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74", [
+      [ "SPELL_CRYSTAL_SPIRE_OF_KARABOR_MANA", "db/d6e/spell__item_8cpp.html#a34b9c20c889c831ab646156f6f1c4f74a9024d9c8d4c3c6c82eefd65209f48274", null ]
+    ] ],
+    [ "DarkmoonCardGreatness", "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652", [
+      [ "SPELL_DARKMOON_CARD_STRENGTH", "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652a0f59e96b5835a3227311ba8b76b33dbe", null ],
+      [ "SPELL_DARKMOON_CARD_AGILITY", "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652a91afd9caabcdf0b2666e28d08d457cf9", null ],
+      [ "SPELL_DARKMOON_CARD_INTELLECT", "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652ae43e525d9063aa0638bc9184d3507125", null ],
+      [ "SPELL_DARKMOON_CARD_SPIRIT", "db/d6e/spell__item_8cpp.html#a31c3777de34162d5ba9808330d61b652a26939cfa013e38a9b9f0db22935c05a7", null ]
+    ] ],
+    [ "DarkmoonCardIllusion", "db/d6e/spell__item_8cpp.html#a27a83bf41c899e29ceea3ff8f3a31fd0", [
+      [ "SPELL_DARKMOON_CARD_ILLUSION", "db/d6e/spell__item_8cpp.html#a27a83bf41c899e29ceea3ff8f3a31fd0a73e9b4f0807acdbb2b3dbef6bf536bcc", null ]
+    ] ],
+    [ "DeadlyPrecision", "db/d6e/spell__item_8cpp.html#a9125e7bd2bb628408accceaac03cbf96", [
+      [ "SPELL_DEADLY_PRECISION", "db/d6e/spell__item_8cpp.html#a9125e7bd2bb628408accceaac03cbf96a09a4f94d54da72b35220c9d8711fdd9a", null ]
+    ] ],
+    [ "DeathbringersWill", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7", [
+      [ "SPELL_STRENGTH_OF_THE_TAUNKA", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7ad5204ee45ec04177ee53df8234dff649", null ],
+      [ "SPELL_AGILITY_OF_THE_VRYKUL", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7afca2eac8f302ae7cfdd27597f9502ed6", null ],
+      [ "SPELL_POWER_OF_THE_TAUNKA", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7a346cb6e6dd86fbcb2da4844de42ef4b6", null ],
+      [ "SPELL_AIM_OF_THE_IRON_DWARVES", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7adfba7998bfe9327b0290e3fde3a77c7e", null ],
+      [ "SPELL_SPEED_OF_THE_VRYKUL", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7a54f5d46248d50cf195f7fbf77bfca30f", null ],
+      [ "SPELL_AGILITY_OF_THE_VRYKUL_HERO", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7a0f70a98b3d5864a5ae830b93cd8e335d", null ],
+      [ "SPELL_POWER_OF_THE_TAUNKA_HERO", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7a4edc86dd5ec80f8bd2252bf69dcf66ab", null ],
+      [ "SPELL_AIM_OF_THE_IRON_DWARVES_HERO", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7afafa0c78ca82c529b636c60fc50795a7", null ],
+      [ "SPELL_SPEED_OF_THE_VRYKUL_HERO", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7aee01b8dc2264d22ca65a9847864c8add", null ],
+      [ "SPELL_STRENGTH_OF_THE_TAUNKA_HERO", "db/d6e/spell__item_8cpp.html#aa6a9c26a1a5f9640af6b2f32a32d68c7a2a30bc73ec722c6039290106ac0d7025", null ]
+    ] ],
+    [ "DeathChoice", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37", [
+      [ "SPELL_DEATH_CHOICE_NORMAL_AURA", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ab5a383d9329436e6cff070b4372d1161", null ],
+      [ "SPELL_DEATH_CHOICE_NORMAL_AGILITY", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37acfb80ad082fc525c8a7c99880c7cccaf", null ],
+      [ "SPELL_DEATH_CHOICE_NORMAL_STRENGTH", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ac654ec2149c3ff90b6def3462d5261a4", null ],
+      [ "SPELL_DEATH_CHOICE_HEROIC_AURA", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a07ef372a7533afa6da1b26990ba78bad", null ],
+      [ "SPELL_DEATH_CHOICE_HEROIC_AGILITY", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37af7fdae3db2330d90616796875b337297", null ],
+      [ "SPELL_DEATH_CHOICE_HEROIC_STRENGTH", "db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a5411ab394634fef07189a5d4e581242f", null ]
     ] ],
     [ "Defibrillate", "db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5", [
       [ "SPELL_GOBLIN_JUMPER_CABLES_FAIL", "db/d6e/spell__item_8cpp.html#a448d7e4eb0ab001c91434b8fdc75cfc5ab5dd9a2ad56a47e4f68e692db29a5fef", null ],
@@ -205,9 +325,18 @@ var spell__item_8cpp =
       [ "SPELL_SOUL_SPLIT_EVIL", "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29a40717c6fbacb52445cbdc48e87b975b6", null ],
       [ "SPELL_SOUL_SPLIT_GOOD", "db/d6e/spell__item_8cpp.html#ac28fe7f72db58358e4108ac06beeba29afdc0ddb623a07410fd16b2046b0b1167", null ]
     ] ],
+    [ "DiscerningEyeBeastMisc", "db/d6e/spell__item_8cpp.html#afa758d4a85949192ab18840f4f615a88", [
+      [ "SPELL_DISCERNING_EYE_BEAST", "db/d6e/spell__item_8cpp.html#afa758d4a85949192ab18840f4f615a88a847ead9a913a22a1197adfecf78495da", null ]
+    ] ],
     [ "DreksOintment", "db/d6e/spell__item_8cpp.html#a4daacb2e49e4b21126bc12850579152d", [
       [ "NPC_THUNDERLORD_DIRE_WOLF", "db/d6e/spell__item_8cpp.html#a4daacb2e49e4b21126bc12850579152dafefef135450f630214264140a8c9b750", null ],
       [ "SPELL_GOR_DREKS_OINTMENT", "db/d6e/spell__item_8cpp.html#a4daacb2e49e4b21126bc12850579152da648ae63f07b190b60842ed79ee70d19b", null ]
+    ] ],
+    [ "DrumsOfForgottenKings", "db/d6e/spell__item_8cpp.html#ad1eb234856a526a57a54296cf054274f", [
+      [ "SPELL_BLESSING_OF_FORGOTTEN_KINGS", "db/d6e/spell__item_8cpp.html#ad1eb234856a526a57a54296cf054274fa360d57eb3959c4dc0da99749345e06bb", null ]
+    ] ],
+    [ "DrumsOfTheWild", "db/d6e/spell__item_8cpp.html#a247495f21c179915a037a75b8ccee7c9", [
+      [ "SPELL_GIFT_OF_THE_WILD", "db/d6e/spell__item_8cpp.html#a247495f21c179915a037a75b8ccee7c9a7f233a4bd038335dbe037350d528b243", null ]
     ] ],
     [ "eArgentKnight", "db/d6e/spell__item_8cpp.html#a2724ab7ae7b58cb4027d63b37f2d23c3", [
       [ "SPELL_SUMMON_ARGENT_KNIGHT_ALLIANCE", "db/d6e/spell__item_8cpp.html#a2724ab7ae7b58cb4027d63b37f2d23c3a9470479026b258bba6b1535d6829f2e6", null ]
@@ -258,6 +387,9 @@ var spell__item_8cpp =
       [ "SPELL_FLASK_OF_THE_NORTH_AP", "db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bdaabbae6561d21d28e0438f373179c3a4ad", null ],
       [ "SPELL_FLASK_OF_THE_NORTH_STR", "db/d6e/spell__item_8cpp.html#a23f4a43009557617a5b0aa91f9f96bdaa85f51682985841d7846c5ee72aebf180", null ]
     ] ],
+    [ "FrozenShadoweave", "db/d6e/spell__item_8cpp.html#ad160904c7e07fec76bbf6bae190f6c98", [
+      [ "SPELL_SHADOWMEND", "db/d6e/spell__item_8cpp.html#ad160904c7e07fec76bbf6bae190f6c98a5cc69f01e067da075429c5b7b99c6a31", null ]
+    ] ],
     [ "GenericData", "db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6f", [
       [ "SPELL_ARCANITE_DRAGONLING", "db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6faa48b0e14df013eb522459c6a2616cb0b", null ],
       [ "SPELL_BATTLE_CHICKEN", "db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6fa85394ea79b6ba06f017c383da62e8de4", null ],
@@ -296,6 +428,23 @@ var spell__item_8cpp =
       [ "SPELL_PRIEST_SOUL_PRESERVER_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fab46417246a53176f70e01fcfff7eb734", null ],
       [ "SPELL_SHAMAN_SOUL_PRESERVER_HEALING_TRANCE", "db/d6e/spell__item_8cpp.html#a17000072332ee989040fc69709dcf05fa5cfa4eb2b192a9a3e266b4af6b2a0e7a", null ]
     ] ],
+    [ "Heartpierce", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40", [
+      [ "SPELL_INVIGORATION_MANA", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40a43a75848e8f3a4e031a7c7d7129e72b2", null ],
+      [ "SPELL_INVIGORATION_ENERGY", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40ae629d1bd501b87730c872d79cf09ad70", null ],
+      [ "SPELL_INVIGORATION_RAGE", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40ae160aceb5fe485526654dd8b698e0a00", null ],
+      [ "SPELL_INVIGORATION_RP", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40ad6f4cad97864f453e6640ecb37b1e9f3", null ],
+      [ "SPELL_INVIGORATION_RP_HERO", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40a26e29e1ec8eb47b7ac46a49685644dde", null ],
+      [ "SPELL_INVIGORATION_RAGE_HERO", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40aacc082bc291d0880314923098cc976dd", null ],
+      [ "SPELL_INVIGORATION_ENERGY_HERO", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40a65d5c2a28d2c24fa00e31883ef2529fa", null ],
+      [ "SPELL_INVIGORATION_MANA_HERO", "db/d6e/spell__item_8cpp.html#a1336270bf94a886c22d145c7af75fd40a881fbd355f05441a94fcb48b62233d2e", null ]
+    ] ],
+    [ "HourglassSand", "db/d6e/spell__item_8cpp.html#acbb5f2c9a480c01fe1fc8db02923d9bd", [
+      [ "SPELL_HOURGLASS_SAND_HEAL", "db/d6e/spell__item_8cpp.html#acbb5f2c9a480c01fe1fc8db02923d9bda70fac3f7fb9ba0ce2f55508891d4561b", null ],
+      [ "SPELL_HOURGLASS_SAND_DAMAGE", "db/d6e/spell__item_8cpp.html#acbb5f2c9a480c01fe1fc8db02923d9bda96391f395a5edbb6f37a5809437e339d", null ]
+    ] ],
+    [ "IdolOfLongevity", "db/d6e/spell__item_8cpp.html#a3935c77646ac7740d612f52710df36d1", [
+      [ "SPELL_HEALING_TOUCH_MANA", "db/d6e/spell__item_8cpp.html#a3935c77646ac7740d612f52710df36d1a7d9486fadf104f16827d26808c82a5ba", null ]
+    ] ],
     [ "ImpaleLeviroth", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063", [
       [ "NPC_LEVIROTH", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063a31043daa70bd527bed8ae1ddb4815d50", null ],
       [ "SPELL_LEVIROTH_SELF_IMPALE", "db/d6e/spell__item_8cpp.html#ae9a550713785ef6ce3ffbb78cfbf0063a418a0c50577664404ba564a5dc8b9b3e", null ]
@@ -304,10 +453,21 @@ var spell__item_8cpp =
       [ "CREATURE_INSTANT_STATUE_PEDESTAL", "db/d6e/spell__item_8cpp.html#a5009822b241b572e55f82d5ca8081af7a2c9b0145ffa6b882a4dcba9adf08eb04", null ],
       [ "SPELL_INSTANT_STATUE", "db/d6e/spell__item_8cpp.html#a5009822b241b572e55f82d5ca8081af7a55664acb5c8c58e2d2611866c22afa83", null ]
     ] ],
+    [ "LifegivingGem", "db/d6e/spell__item_8cpp.html#a61086d7989b5a2d5467d8b69f53a1c29", [
+      [ "SPELL_GIFT_OF_LIFE_1", "db/d6e/spell__item_8cpp.html#a61086d7989b5a2d5467d8b69f53a1c29a756a2e8ea4a2595a8940a4fb443c9442", null ],
+      [ "SPELL_GIFT_OF_LIFE_2", "db/d6e/spell__item_8cpp.html#a61086d7989b5a2d5467d8b69f53a1c29afabe86f0d40155e302dffa4391784def", null ]
+    ] ],
     [ "LinkenBoomerang", "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182", [
       [ "SPELL_DISARM", "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182afa4e2a4c2a24bc29010bc0903e35ee22", null ],
       [ "SPELL_STUN", "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182aee53fe1624d32bc2c33665bf3134b0d1", null ],
       [ "CHANCE_TO_HIT", "db/d6e/spell__item_8cpp.html#abc47ab08b422691d7065ec77bef88182af49149b7f09e62dd4d646dc76386b8af", null ]
+    ] ],
+    [ "LivingRootOfTheWildheart", "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047", [
+      [ "SPELL_LIVING_ROOT_BEAR", "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047a17fbd439c3695d277bc2b57b546fd698", null ],
+      [ "SPELL_LIVING_ROOT_CAT", "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047ad91ea269501eb213dd9b197f472ebece", null ],
+      [ "SPELL_LIVING_ROOT_TREE", "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047afa6131a12195386095681ec3e0a4aace", null ],
+      [ "SPELL_LIVING_ROOT_MOONKIN", "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047ac8c89fd47fa0f9a2f8a80b146e57c243", null ],
+      [ "SPELL_LIVING_ROOT_NONE", "db/d6e/spell__item_8cpp.html#a227fbfabe43bd5337284332583418047a1376cca2fd34264140899d4a0c67a354", null ]
     ] ],
     [ "MagicEater", "db/d6e/spell__item_8cpp.html#a5ea04d5bae0edb5acd7aa4f3cb99698d", [
       [ "SPELL_WILD_MAGIC", "db/d6e/spell__item_8cpp.html#a5ea04d5bae0edb5acd7aa4f3cb99698da6af0e440fefb4d97e4f24ba39ac62988", null ],
@@ -323,6 +483,13 @@ var spell__item_8cpp =
       [ "SPELL_SUMMON_FURIOUS_MR_PINCHY", "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a4820d604c73df2f6b7e562490fb7dc3f", null ],
       [ "SPELL_TINY_MAGICAL_CRAWDAD", "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82aad688855ef67885dfb51c5a164b3b9b8", null ],
       [ "SPELL_MR_PINCHYS_GIFT", "db/d6e/spell__item_8cpp.html#a6944bd08cc9b2cb5214007763bc22a82a60458e6a34555aedacd2c698b712e448", null ]
+    ] ],
+    [ "ManaDrain", "db/d6e/spell__item_8cpp.html#ae6002f7707d1fb1b8cabd9eb3cda01a1", [
+      [ "SPELL_MANA_DRAIN_ENERGIZE", "db/d6e/spell__item_8cpp.html#ae6002f7707d1fb1b8cabd9eb3cda01a1aabf7b9573467e49ccb926608df6de718", null ],
+      [ "SPELL_MANA_DRAIN_LEECH", "db/d6e/spell__item_8cpp.html#ae6002f7707d1fb1b8cabd9eb3cda01a1a0f33da939362244eaaae63def72cd958", null ]
+    ] ],
+    [ "MarkOfConquest", "db/d6e/spell__item_8cpp.html#ad4b44fc075c9a0d181f0579513e24981", [
+      [ "SPELL_MARK_OF_CONQUEST_ENERGIZE", "db/d6e/spell__item_8cpp.html#ad4b44fc075c9a0d181f0579513e24981a439afcdbc4e728c77aa9261441d65243", null ]
     ] ],
     [ "MassiveSeaforiumCharge", "db/d6e/spell__item_8cpp.html#a4f3c7eb6fdaa771575041c9cd7070b61", [
       [ "ITEM_MASSIVE_SEAFORIUM_CHARGE", "db/d6e/spell__item_8cpp.html#a4f3c7eb6fdaa771575041c9cd7070b61ae4b4c415ddace18110d7dc9899d92884", null ]
@@ -392,10 +559,23 @@ var spell__item_8cpp =
       [ "SPELL_ABLUTION_RAGE", "db/d6e/spell__item_8cpp.html#a2ddf23802d144f24f09792ae2b7736e2af1a20709e066bd49fe554d290e391c46", null ],
       [ "SPELL_ABLUTION_ENERGY", "db/d6e/spell__item_8cpp.html#a2ddf23802d144f24f09792ae2b7736e2ab33f38f65e55eba64be386ca2ac447a4", null ]
     ] ],
+    [ "PersistentShieldMisc", "db/d6e/spell__item_8cpp.html#ab0114a476aff4d6ee492915b76b6ccf6", [
+      [ "SPELL_PERSISTENT_SHIELD_TRIGGERED", "db/d6e/spell__item_8cpp.html#ab0114a476aff4d6ee492915b76b6ccf6ac088095982c1614afc931859cea19bcd", null ]
+    ] ],
+    [ "PetHealing", "db/d6e/spell__item_8cpp.html#ae8dea7c144b1715002ebb21e6697e582", [
+      [ "SPELL_HEALTH_LINK", "db/d6e/spell__item_8cpp.html#ae8dea7c144b1715002ebb21e6697e582a97c4505f5bb9d2dc52ee50b42a81dfb3", null ]
+    ] ],
+    [ "PetrifiedTwilightScale", "db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975", [
+      [ "SPELL_PETRIFIED_TWILIGHT_SCALE_HC", "db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab0b909844f592d8b960bc3db3c710c6c", null ],
+      [ "SPELL_PETRIFIED_TWILIGHT_SCALE", "db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab2e1da76059bbd084a5d65063a7b3a86", null ]
+    ] ],
     [ "Poultryzer", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0", [
       [ "SPELL_POULTRYIZER_SUCCESS_1", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0af2013a66c33c8ca2754d0258dc317d38", null ],
       [ "SPELL_POULTRYIZER_SUCCESS_2", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0aebaed561887d24beda0d2b5a03b4b2b9", null ],
       [ "SPELL_POULTRYIZER_BACKFIRE", "db/d6e/spell__item_8cpp.html#a350e967b22be12e5ad3eada424859fd0a8f79fe2abb6aa520aa6b9f26e555b051", null ]
+    ] ],
+    [ "PowerCircle", "db/d6e/spell__item_8cpp.html#a266ba7e494e43acaf8056e765072dcc5", [
+      [ "SPELL_LIMITLESS_POWER", "db/d6e/spell__item_8cpp.html#a266ba7e494e43acaf8056e765072dcc5ab9621202b99c1cc3accdc3eae026c61b", null ]
     ] ],
     [ "PurifyHelboarMeat", "db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7ae", [
       [ "SPELL_SUMMON_PURIFIED_HELBOAR_MEAT", "db/d6e/spell__item_8cpp.html#ab7007f6a1e43352ea825079bf0b2f7aeaa71326c5e4a61d10d05f2b5976649c12", null ],
@@ -418,6 +598,9 @@ var spell__item_8cpp =
       [ "SPELL_FLYING_REINDEER_60", "db/d6e/spell__item_8cpp.html#a4ab3266b7b6876cc9b01f2c6488c07e6afcc17bb809d4472bfa22cc0e1493b585", null ],
       [ "SPELL_REINDEER_100", "db/d6e/spell__item_8cpp.html#a4ab3266b7b6876cc9b01f2c6488c07e6a74a2401e2913563dab4456787c0782d4", null ],
       [ "SPELL_REINDEER_60", "db/d6e/spell__item_8cpp.html#a4ab3266b7b6876cc9b01f2c6488c07e6a4144db4cd3501cc9b01b09775d2f28a1", null ]
+    ] ],
+    [ "RestlessStrength", "db/d6e/spell__item_8cpp.html#aba5b39902cbe27852767109bbf1325c2", [
+      [ "SPELL_RESTLESS_STRENGTH", "db/d6e/spell__item_8cpp.html#aba5b39902cbe27852767109bbf1325c2a3be5407354d317bff5d14f58a762f48c", null ]
     ] ],
     [ "RocketBoots", "db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448b", [
       [ "SPELL_ROCKET_BOOTS_PROC", "db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022", null ]
@@ -453,6 +636,10 @@ var spell__item_8cpp =
     [ "ShadowsFate", "db/d6e/spell__item_8cpp.html#a71e3828df4cbafb9734b63422b98cfe4", [
       [ "SPELL_SOUL_FEAST", "db/d6e/spell__item_8cpp.html#a71e3828df4cbafb9734b63422b98cfe4a41c9a5dc703f9b28ee134800a6dec78f", null ]
     ] ],
+    [ "ShardOfTheScale", "db/d6e/spell__item_8cpp.html#aae99d79f1d3aa4ea1ead0124d8d0e526", [
+      [ "SPELL_PURIFIED_CAUTERIZING_HEAL", "db/d6e/spell__item_8cpp.html#aae99d79f1d3aa4ea1ead0124d8d0e526a23bd343c2425e8c74a7d09321bc05c9b", null ],
+      [ "SPELL_SHINY_SEARING_FLAMES", "db/d6e/spell__item_8cpp.html#aae99d79f1d3aa4ea1ead0124d8d0e526a8c8375d05c71a0e947dde2712a1d59d4", null ]
+    ] ],
     [ "Sinkholes", "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83b", [
       [ "NPC_SOUTH_SINKHOLE", "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83ba9d18fa6c92fb53a57c8f5d6a19949d52", null ],
       [ "NPC_NORTHEAST_SINKHOLE", "db/d6e/spell__item_8cpp.html#ab2c5f073df244943fcb4aa3de4bae83ba07223ad0309cac9045f436f24bc5ff1f", null ],
@@ -473,23 +660,71 @@ var spell__item_8cpp =
       [ "SPELL_SOCRETHAR_TO_SEAT", "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aad059e37b4e70cbb714c30af8d4c942d9", null ],
       [ "SPELL_SOCRETHAR_FROM_SEAT", "db/d6e/spell__item_8cpp.html#aeb72f32881bc7faa07ef0437141da11aa88d735ed66f352dc72059f44455632e4", null ]
     ] ],
+    [ "SoulHarvestersCharm", "db/d6e/spell__item_8cpp.html#aee70402c01d54f4742078c51c0b06e4b", [
+      [ "SPELL_SOUL_HARVESTERS_CHARM", "db/d6e/spell__item_8cpp.html#aee70402c01d54f4742078c51c0b06e4baea1461711824503470a15f8deabc1924", null ]
+    ] ],
+    [ "SoulPreserver", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874", [
+      [ "SPELL_SOUL_PRESERVER_DRUID", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a9b29c6adc599fce7f686640bc94c2974", null ],
+      [ "SPELL_SOUL_PRESERVER_PALADIN", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a5570c7ea9badfab720d1709af0c3942e", null ],
+      [ "SPELL_SOUL_PRESERVER_PRIEST", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874afbc725830c11ce96213ea8d83ec6b3dd", null ],
+      [ "SPELL_SOUL_PRESERVER_SHAMAN", "db/d6e/spell__item_8cpp.html#a90e0b4df9c61539ca069a60ccbd90874a86844389607a221573ef4b4d17fdb561", null ]
+    ] ],
+    [ "SunwellExaltedNeck", "db/d6e/spell__item_8cpp.html#a2d1ef735ed14ef5a75e9a002b6659c68", [
+      [ "SPELL_LIGHTS_WRATH", "db/d6e/spell__item_8cpp.html#a2d1ef735ed14ef5a75e9a002b6659c68aab22daa2799844a7aa0718465e89a5fc", null ],
+      [ "SPELL_ARCANE_BOLT", "db/d6e/spell__item_8cpp.html#a2d1ef735ed14ef5a75e9a002b6659c68acc9efd3c20d926022e44fab28656b29c", null ],
+      [ "SPELL_LIGHTS_STRENGTH", "db/d6e/spell__item_8cpp.html#a2d1ef735ed14ef5a75e9a002b6659c68a11e38aabc56bf8770721f0a16a3a7f52", null ],
+      [ "SPELL_LIGHTS_WARD", "db/d6e/spell__item_8cpp.html#a2d1ef735ed14ef5a75e9a002b6659c68a8e53fe9a07b41e360ecc32fa18468246", null ]
+    ] ],
+    [ "SwiftHandOfJustice", "db/d6e/spell__item_8cpp.html#a1764822acae69c6bd6b43ec5b450540b", [
+      [ "SPELL_SWIFT_HAND_OF_JUSTICE_HEAL", "db/d6e/spell__item_8cpp.html#a1764822acae69c6bd6b43ec5b450540bac3b69fe45d3611e7423f22c59b896f52", null ]
+    ] ],
     [ "TeachLanguage", "db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963ef", [
       [ "SPELL_LEARN_GNOMISH_BINARY", "db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963efa31c3de5986dcae1b85b99444aa7756a6", null ],
       [ "SPELL_LEARN_GOBLIN_BINARY", "db/d6e/spell__item_8cpp.html#ae658090e5a354aeddc4b70045e5963efa2cd7fef6255b76360c3a485cb29672b9", null ]
+    ] ],
+    [ "ThrallmarAndHonorHoldFavor", "db/d6e/spell__item_8cpp.html#a21dcbee6643358d14668567243494c74", [
+      [ "SPELL_BUFFBOT_BUFF_EFFECT", "db/d6e/spell__item_8cpp.html#a21dcbee6643358d14668567243494c74a141bde7ef2f1ef5b7344825d5de01c05", null ]
+    ] ],
+    [ "TinyAbominationInAJar", "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13", [
+      [ "SPELL_MOTE_OF_ANGER", "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a84e086488ef58bc02f068e50118215c9", null ],
+      [ "SPELL_MANIFEST_ANGER_MAIN_HAND", "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a4cd8508888cd327d6497256cefd66216", null ],
+      [ "SPELL_MANIFEST_ANGER_OFF_HAND", "db/d6e/spell__item_8cpp.html#a9867b1652d2bf464481df7680344ad13a03445ea53e5c4ee75df211614672d046", null ]
     ] ],
     [ "TitaniumSealOfDalaran", "db/d6e/spell__item_8cpp.html#a07c8a9f10fb70a104c556d78659c2ae6", [
       [ "TITANIUM_SEAL_OF_DALARAN_BROADCAST_TEXT_ID_FLIP", "db/d6e/spell__item_8cpp.html#a07c8a9f10fb70a104c556d78659c2ae6a562cc88fc3b360d4f8c546663c7cd37a", null ],
       [ "TITANIUM_SEAL_OF_DALARAN_BROADCAST_TEXT_ID_HEADS_UP", "db/d6e/spell__item_8cpp.html#a07c8a9f10fb70a104c556d78659c2ae6a74eeeaafa7ca82412a9678412ba72c06", null ],
       [ "TITANIUM_SEAL_OF_DALARAN_BROADCAST_TEXT_ID_FACE_DOWN", "db/d6e/spell__item_8cpp.html#a07c8a9f10fb70a104c556d78659c2ae6abb9006e229c5372620d863e09c647042", null ]
     ] ],
+    [ "TotemOfFlowingWater", "db/d6e/spell__item_8cpp.html#a5a69c5d0fb5f6b63bdab13f3705b0627", [
+      [ "SPELL_TOTEM_OF_FLOWING_WATER_MANA", "db/d6e/spell__item_8cpp.html#a5a69c5d0fb5f6b63bdab13f3705b0627a048ca557882d7c08dcf4225dcb4e5b8c", null ]
+    ] ],
+    [ "TrinketStackSpells", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98", [
+      [ "SPELL_LIGHTNING_CAPACITOR_STACK", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98aa4a71e19564a334524ce2fba58bce310", null ],
+      [ "SPELL_LIGHTNING_CAPACITOR_TRIGGER", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a3cfafca38ec371e8c0b8ec017052d350", null ],
+      [ "SPELL_THUNDER_CAPACITOR_STACK", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a89b76735ec57bfff2e814aac4f58ae8d", null ],
+      [ "SPELL_THUNDER_CAPACITOR_TRIGGER", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a81996854d8729ac09743cf50fe101422", null ],
+      [ "SPELL_TOC25_CASTER_TRINKET_NORMAL_STACK", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a89a4037490524bc87543f44ea679d77f", null ],
+      [ "SPELL_TOC25_CASTER_TRINKET_NORMAL_TRIGGER", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a4fe343f9219190e3f7cac4db14a2826e", null ],
+      [ "SPELL_TOC25_CASTER_TRINKET_HEROIC_STACK", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a4ba64d6db23866e6e772df89c1568ab9", null ],
+      [ "SPELL_TOC25_CASTER_TRINKET_HEROIC_TRIGGER", "db/d6e/spell__item_8cpp.html#aeec0a9058e03ea210f4fafa1c7dd0a98a1a18f23a44c103cfc5bfcadf0edbbeba", null ]
+    ] ],
     [ "TrollDice", "db/d6e/spell__item_8cpp.html#aa72c6c54ede74ed2c0e43ff8b6438f56", [
       [ "TEXT_WORN_TROLL_DICE", "db/d6e/spell__item_8cpp.html#aa72c6c54ede74ed2c0e43ff8b6438f56afb6ce53b74d16d5a0ccaf1afdf796894", null ]
+    ] ],
+    [ "UltrasafeTransporter", "db/d6e/spell__item_8cpp.html#af0bc42a508febff9be03e7436a1f80d5", [
+      [ "SPELL_TRANSPORTER_MALFUNCTION_SMALL", "db/d6e/spell__item_8cpp.html#af0bc42a508febff9be03e7436a1f80d5a4a2f998f64249275ab4c3dd77f75aeb3", null ],
+      [ "SPELL_TRANSPORTER_MALFUNCTION_BIG", "db/d6e/spell__item_8cpp.html#af0bc42a508febff9be03e7436a1f80d5aa79dcd7decb5716448f05f2ff14ccfdb", null ],
+      [ "SPELL_TRANSPORTER_EVIL_TWIN", "db/d6e/spell__item_8cpp.html#af0bc42a508febff9be03e7436a1f80d5aa783900ea078d2cec7f82b61629a5aa4", null ],
+      [ "SPELL_TELEPORT_TOSHLEY_STATION", "db/d6e/spell__item_8cpp.html#af0bc42a508febff9be03e7436a1f80d5a135f3a7f74ad45aa60bc51db32a68d47", null ]
     ] ],
     [ "UnderbellyElixirSpells", "db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074b", [
       [ "SPELL_UNDERBELLY_ELIXIR_TRIGGERED1", "db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba379c828f0d14e79ad4a6297247e4e957", null ],
       [ "SPELL_UNDERBELLY_ELIXIR_TRIGGERED2", "db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba1bfca19cca9412f329c19d32c7a8b808", null ],
       [ "SPELL_UNDERBELLY_ELIXIR_TRIGGERED3", "db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba5343ed0541ecc29fe0f5dabcdeacb2af", null ],
       [ "AREA_UNDERBELLY", "db/d6e/spell__item_8cpp.html#a30fdcb8c1224902bbedf9ab1274b074ba8c23e681eb815adb401547c74a3544a5", null ]
+    ] ],
+    [ "UnstablePower", "db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0", [
+      [ "SPELL_UNSTABLE_POWER_AURA", "db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0a00d3b0fcde04b28c49a89fa7f680fca3", null ]
     ] ],
     [ "VanquishedClutchesSpells", "db/d6e/spell__item_8cpp.html#a17b847ba798c29b9e9f5240172b0f7ac", [
       [ "SPELL_CRUSHER", "db/d6e/spell__item_8cpp.html#a17b847ba798c29b9e9f5240172b0f7aca8066d7a1e09b6d8d4664bc2b48f66ea2", null ],
