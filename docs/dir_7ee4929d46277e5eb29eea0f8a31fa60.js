@@ -15,8 +15,10 @@ var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
     [ "SpellProcPPMModifierTest.cpp", "d4/d51/SpellProcPPMModifierTest_8cpp.html", "d4/d51/SpellProcPPMModifierTest_8cpp" ],
     [ "SpellProcPPMTest.cpp", "dd/d63/SpellProcPPMTest_8cpp.html", "dd/d63/SpellProcPPMTest_8cpp" ],
     [ "SpellProcSpellTypeMaskTest.cpp", "d8/d09/SpellProcSpellTypeMaskTest_8cpp.html", "d8/d09/SpellProcSpellTypeMaskTest_8cpp" ],
+    [ "SpellProcTargetResolutionTest.cpp", "d1/d95/SpellProcTargetResolutionTest_8cpp.html", "d1/d95/SpellProcTargetResolutionTest_8cpp" ],
     [ "SpellProcTest.cpp", "d3/d9d/SpellProcTest_8cpp.html", "d3/d9d/SpellProcTest_8cpp" ],
     [ "SpellProcTestData.h", "da/da0/SpellProcTestData_8h.html", "da/da0/SpellProcTestData_8h" ],
     [ "SpellProcTriggeredFilterTest.cpp", "d0/d0a/SpellProcTriggeredFilterTest_8cpp.html", "d0/d0a/SpellProcTriggeredFilterTest_8cpp" ],
-    [ "SpellScriptMissileBarrageTest.cpp", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html", "d8/d5e/SpellScriptMissileBarrageTest_8cpp" ]
+    [ "SpellScriptMissileBarrageTest.cpp", "d8/d5e/SpellScriptMissileBarrageTest_8cpp.html", "d8/d5e/SpellScriptMissileBarrageTest_8cpp" ],
+    [ "WildGrowthTickScalingTest.cpp", "d1/d1e/WildGrowthTickScalingTest_8cpp.html", "d1/d1e/WildGrowthTickScalingTest_8cpp" ]
 ];

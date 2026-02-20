@@ -336,19 +336,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2745</span>    {</div>
-<div class="line"><span class="lineno"> 2746</span>        <span class="keywordflow">if</span> (spellMod)</div>
-<div class="line"><span class="lineno"> 2747</span>        {</div>
-<div class="line"><span class="lineno"> 2748</span>            <span class="comment">// Icy Touch (mask0=2), Frost Strike (mask1=4), Howling Blast (mask1=2)</span></div>
-<div class="line"><span class="lineno"> 2749</span>            spellMod-&gt;<a class="code hl_variable" href="../../d3/d08/structSpellModifier.html#aba1b01bf3486d61cc1876b03078a35ee">mask</a> = <a class="code hl_class" href="../../dc/dd4/classflag96.html">flag96</a>(2, 6, 0);</div>
-<div class="line"><span class="lineno"> 2750</span>        }</div>
-<div class="line"><span class="lineno"> 2751</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2762</span>    {</div>
+<div class="line"><span class="lineno"> 2763</span>        <span class="keywordflow">if</span> (spellMod)</div>
+<div class="line"><span class="lineno"> 2764</span>        {</div>
+<div class="line"><span class="lineno"> 2765</span>            <span class="comment">// Icy Touch (mask0=2), Frost Strike (mask1=4), Howling Blast (mask1=2)</span></div>
+<div class="line"><span class="lineno"> 2766</span>            spellMod-&gt;<a class="code hl_variable" href="../../d3/d08/structSpellModifier.html#aba1b01bf3486d61cc1876b03078a35ee">mask</a> = <a class="code hl_class" href="../../dc/dd4/classflag96.html">flag96</a>(2, 6, 0);</div>
+<div class="line"><span class="lineno"> 2767</span>        }</div>
+<div class="line"><span class="lineno"> 2768</span>    }</div>
 <div class="ttc" id="aclassflag96_html"><div class="ttname"><a href="../../dc/dd4/classflag96.html">flag96</a></div><div class="ttdef"><b>Definition</b> Util.h:442</div></div>
 <div class="ttc" id="astructSpellModifier_html_aba1b01bf3486d61cc1876b03078a35ee"><div class="ttname"><a href="../../d3/d08/structSpellModifier.html#aba1b01bf3486d61cc1876b03078a35ee">SpellModifier::mask</a></div><div class="ttdeci">flag96 mask</div><div class="ttdef"><b>Definition</b> Player.h:188</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00188">SpellModifier::mask</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02753">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02770">Register()</a>.</p>
 
 </div>
 </div>
@@ -402,16 +402,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2754</span>    {</div>
-<div class="line"><span class="lineno"> 2755</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6dc45e5ec317cf955e089bf5f9d4b354">DoEffectCalcSpellMod</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0e218d3b7359beb034b0a6f929ced84">AuraEffectCalcSpellModFn</a>(<a class="code hl_function" href="../../d4/d94/classspell__dk__killing__machine.html#afbeb38535f9330cb1e74345f0c3a833a">spell_dk_killing_machine::HandleEffectCalcSpellMod</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f">SPELL_AURA_ADD_FLAT_MODIFIER</a>);</div>
-<div class="line"><span class="lineno"> 2756</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2771</span>    {</div>
+<div class="line"><span class="lineno"> 2772</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6dc45e5ec317cf955e089bf5f9d4b354">DoEffectCalcSpellMod</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0e218d3b7359beb034b0a6f929ced84">AuraEffectCalcSpellModFn</a>(<a class="code hl_function" href="../../d4/d94/classspell__dk__killing__machine.html#afbeb38535f9330cb1e74345f0c3a833a">spell_dk_killing_machine::HandleEffectCalcSpellMod</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f">SPELL_AURA_ADD_FLAT_MODIFIER</a>);</div>
+<div class="line"><span class="lineno"> 2773</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f">SPELL_AURA_ADD_FLAT_MODIFIER</a></div><div class="ttdeci">@ SPELL_AURA_ADD_FLAT_MODIFIER</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:170</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ae0e218d3b7359beb034b0a6f929ced84"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ae0e218d3b7359beb034b0a6f929ced84">AuraEffectCalcSpellModFn</a></div><div class="ttdeci">#define AuraEffectCalcSpellModFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:795</div></div>
 <div class="ttc" id="aclassAuraScript_html_a6dc45e5ec317cf955e089bf5f9d4b354"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a6dc45e5ec317cf955e089bf5f9d4b354">AuraScript::DoEffectCalcSpellMod</a></div><div class="ttdeci">HookList&lt; EffectCalcSpellModHandler &gt; DoEffectCalcSpellMod</div><div class="ttdef"><b>Definition</b> SpellScript.h:794</div></div>
-<div class="ttc" id="aclassspell__dk__killing__machine_html_afbeb38535f9330cb1e74345f0c3a833a"><div class="ttname"><a href="../../d4/d94/classspell__dk__killing__machine.html#afbeb38535f9330cb1e74345f0c3a833a">spell_dk_killing_machine::HandleEffectCalcSpellMod</a></div><div class="ttdeci">void HandleEffectCalcSpellMod(AuraEffect const *, SpellModifier *&amp;spellMod)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2744</div></div>
+<div class="ttc" id="aclassspell__dk__killing__machine_html_afbeb38535f9330cb1e74345f0c3a833a"><div class="ttname"><a href="../../d4/d94/classspell__dk__killing__machine.html#afbeb38535f9330cb1e74345f0c3a833a">spell_dk_killing_machine::HandleEffectCalcSpellMod</a></div><div class="ttdeci">void HandleEffectCalcSpellMod(AuraEffect const *, SpellModifier *&amp;spellMod)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2761</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00795">AuraEffectCalcSpellModFn</a>, <a class="el" href="../../#l00794">AuraScript::DoEffectCalcSpellMod</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02744">HandleEffectCalcSpellMod()</a>, and <a class="el" href="../../#l00170">SPELL_AURA_ADD_FLAT_MODIFIER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00795">AuraEffectCalcSpellModFn</a>, <a class="el" href="../../#l00794">AuraScript::DoEffectCalcSpellMod</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02761">HandleEffectCalcSpellMod()</a>, and <a class="el" href="../../#l00170">SPELL_AURA_ADD_FLAT_MODIFIER</a>.</p>
 
 </div>
 </div>
@@ -424,7 +424,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d94/classspell__dk__killing__machine.html">spell_dk_killing_machine</a></li>
-    <li class="footer">Generated on Thu Feb 19 2026 06:56:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 20 2026 06:51:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

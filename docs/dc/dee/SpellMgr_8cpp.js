@@ -12,5 +12,6 @@ var SpellMgr_8cpp =
     [ "LoadPetDefaultSpells_helper", "dc/dee/SpellMgr_8cpp.html#a26626d5f5404864fcd622872f5cd8af1", null ],
     [ "isAlwaysTriggeredAura", "dc/dee/SpellMgr_8cpp.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
     [ "isTriggerAura", "dc/dee/SpellMgr_8cpp.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "procPrepared", "dc/dee/SpellMgr_8cpp.html#a11410c456e972de7cfb44bbe17709cc4", null ]
+    [ "procPrepared", "dc/dee/SpellMgr_8cpp.html#a11410c456e972de7cfb44bbe17709cc4", null ],
+    [ "spellTypeMask", "dc/dee/SpellMgr_8cpp.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
 ];

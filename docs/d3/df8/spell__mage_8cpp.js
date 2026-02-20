@@ -55,6 +55,7 @@ var spell__mage_8cpp =
       [ "SPELL_MAGE_BURNOUT_TRIGGER", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da", null ],
       [ "SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc", null ],
       [ "SPELL_MAGE_COMBUSTION", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f", null ],
+      [ "SPELL_MAGE_COMBUSTION_PROC", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b", null ],
       [ "SPELL_MAGE_COLD_SNAP", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33", null ],
       [ "SPELL_MAGE_FOCUS_MAGIC_PROC", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234", null ],
       [ "SPELL_MAGE_FROST_WARDING_R1", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e", null ],

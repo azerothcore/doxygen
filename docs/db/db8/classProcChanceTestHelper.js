@@ -16,7 +16,7 @@ var classProcChanceTestHelper =
     [ "ShouldBlockDueToDisabledEffects", "db/db8/classProcChanceTestHelper.html#a6f7564c8a12d1531afe97c4f61fb23ac", null ],
     [ "ShouldBlockDueToEquipment", "db/db8/classProcChanceTestHelper.html#ad4b553c3a909671e7ca72a8e5fe46b2a", null ],
     [ "ShouldBlockTriggeredSpell", "db/db8/classProcChanceTestHelper.html#ab3d733d9e66b5e9554501be5e09349f7", null ],
-    [ "SimulateCalcProcChance", "db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531", null ],
+    [ "SimulateCalcProcChance", "db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1", null ],
     [ "SimulateConsumeProcCharges", "db/db8/classProcChanceTestHelper.html#a23aff9444cb03891a4d5c4cabad28610", null ],
     [ "SpellHasManaCost", "db/db8/classProcChanceTestHelper.html#abe1c702ac0906af725a638f04dcdeb69", null ],
     [ "AUTO_ATTACK_PROC_FLAG_MASK", "db/db8/classProcChanceTestHelper.html#aa954818dda0fc9921217b052ddd1a169", null ],

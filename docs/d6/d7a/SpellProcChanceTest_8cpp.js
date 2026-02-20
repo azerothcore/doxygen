@@ -16,7 +16,9 @@ var SpellProcChanceTest_8cpp =
     [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#ab15f9630cd331b465b287ea7d494d38d", null ],
     [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#a3f40e343661b10279c3e3adb0e7dde6e", null ],
     [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#a33fb9c0f8fe1a60008d10c9561570517", null ],
-    [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#a6b44b4da6fe13c007da9c2eb464af82b", null ],
+    [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089", null ],
+    [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#ae6e514aa2a436af03383f9b655859038", null ],
+    [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#a197cec06d246dbae06fda663eedf12a0", null ],
     [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#abe575be9b92937bf10c472abe91ab32f", null ],
     [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#ab8b90a08b9339c826e3ea4e9985238c9", null ],
     [ "TEST_F", "d6/d7a/SpellProcChanceTest_8cpp.html#a252b150cbb92f8bc5cc7b595ce129f2b", null ]

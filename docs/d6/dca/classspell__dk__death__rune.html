@@ -330,17 +330,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2645</span>    {</div>
-<div class="line"><span class="lineno"> 2646</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>();</div>
-<div class="line"><span class="lineno"> 2647</span>        <span class="keywordflow">if</span> (!caster || !caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
-<div class="line"><span class="lineno"> 2648</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2649</span> </div>
-<div class="line"><span class="lineno"> 2650</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno"> 2651</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a>)</div>
-<div class="line"><span class="lineno"> 2652</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2653</span> </div>
-<div class="line"><span class="lineno"> 2654</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2655</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2662</span>    {</div>
+<div class="line"><span class="lineno"> 2663</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>();</div>
+<div class="line"><span class="lineno"> 2664</span>        <span class="keywordflow">if</span> (!caster || !caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno"> 2665</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2666</span> </div>
+<div class="line"><span class="lineno"> 2667</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno"> 2668</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() != <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a>)</div>
+<div class="line"><span class="lineno"> 2669</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2670</span> </div>
+<div class="line"><span class="lineno"> 2671</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2672</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a></div><div class="ttdeci">@ CLASS_DEATH_KNIGHT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:146</div></div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:200</div></div>
 <div class="ttc" id="aclassObject_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition</b> Object.h:201</div></div>
@@ -351,7 +351,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00146">CLASS_DEATH_KNIGHT</a>, <a class="el" href="../../#l00453">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l00837">Unit::getClass()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02699">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02716">Register()</a>.</p>
 
 </div>
 </div>
@@ -378,41 +378,41 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2658</span>    {</div>
-<div class="line"><span class="lineno"> 2659</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno"> 2660</span>        <a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>* aurEff = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a80b4589d9fb316ef3e53ffdc811738b4">GetEffect</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
-<div class="line"><span class="lineno"> 2661</span>        <span class="keywordflow">if</span> (!aurEff)</div>
-<div class="line"><span class="lineno"> 2662</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 2663</span> </div>
-<div class="line"><span class="lineno"> 2664</span>        <span class="comment">// Reset amplitude - set death rune remove timer to 30s</span></div>
-<div class="line"><span class="lineno"> 2665</span>        aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#acc2bdb287922c879abcbab9e8a6f4fab">ResetPeriodic</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 2666</span> </div>
-<div class="line"><span class="lineno"> 2667</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> runesLeft = 1;</div>
-<div class="line"><span class="lineno"> 2668</span>        <span class="comment">// Death Rune Mastery (SpellIconID 2622)</span></div>
-<div class="line"><span class="lineno"> 2669</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;SpellIconID == 2622)</div>
-<div class="line"><span class="lineno"> 2670</span>            runesLeft = 2;</div>
-<div class="line"><span class="lineno"> 2671</span> </div>
-<div class="line"><span class="lineno"> 2672</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../da/dbf/Player_8h.html#a2a50815668e7443f20a14ff3fa353db4">MAX_RUNES</a> &amp;&amp; runesLeft; ++i)</div>
-<div class="line"><span class="lineno"> 2673</span>        {</div>
-<div class="line"><span class="lineno"> 2674</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;SpellIconID == 2622)</div>
-<div class="line"><span class="lineno"> 2675</span>            {</div>
-<div class="line"><span class="lineno"> 2676</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#af2ce337be8e0aaba7b050398306fa87a">GetBaseRune</a>(i) == <a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2">RUNE_BLOOD</a>)</div>
-<div class="line"><span class="lineno"> 2677</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 2678</span>            }</div>
-<div class="line"><span class="lineno"> 2679</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 2680</span>            {</div>
-<div class="line"><span class="lineno"> 2681</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#af2ce337be8e0aaba7b050398306fa87a">GetBaseRune</a>(i) != <a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2">RUNE_BLOOD</a>)</div>
-<div class="line"><span class="lineno"> 2682</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 2683</span>            }</div>
-<div class="line"><span class="lineno"> 2684</span> </div>
-<div class="line"><span class="lineno"> 2685</span>            <span class="comment">// Check if rune just went on cooldown</span></div>
-<div class="line"><span class="lineno"> 2686</span>            <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a85b9ddea0d0cc793e51e579aaa196d70">GetRuneCooldown</a>(i) != player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a485a00d3df2a10bc7aa44c8b48fe7296">GetRuneBaseCooldown</a>(i, <span class="keyword">false</span>))</div>
-<div class="line"><span class="lineno"> 2687</span>                <span class="keywordflow">continue</span>;</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2675</span>    {</div>
+<div class="line"><span class="lineno"> 2676</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno"> 2677</span>        <a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a>* aurEff = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a80b4589d9fb316ef3e53ffdc811738b4">GetEffect</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
+<div class="line"><span class="lineno"> 2678</span>        <span class="keywordflow">if</span> (!aurEff)</div>
+<div class="line"><span class="lineno"> 2679</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 2680</span> </div>
+<div class="line"><span class="lineno"> 2681</span>        <span class="comment">// Reset amplitude - set death rune remove timer to 30s</span></div>
+<div class="line"><span class="lineno"> 2682</span>        aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#acc2bdb287922c879abcbab9e8a6f4fab">ResetPeriodic</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 2683</span> </div>
+<div class="line"><span class="lineno"> 2684</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> runesLeft = 1;</div>
+<div class="line"><span class="lineno"> 2685</span>        <span class="comment">// Death Rune Mastery (SpellIconID 2622)</span></div>
+<div class="line"><span class="lineno"> 2686</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;SpellIconID == 2622)</div>
+<div class="line"><span class="lineno"> 2687</span>            runesLeft = 2;</div>
 <div class="line"><span class="lineno"> 2688</span> </div>
-<div class="line"><span class="lineno"> 2689</span>            --runesLeft;</div>
-<div class="line"><span class="lineno"> 2690</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a941506d862d404409aa0888e5244fb98">AddRuneByAuraEffect</a>(i, <a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11a4e52953e1ef02ede72070ea1231f882c">RUNE_DEATH</a>, aurEff);</div>
-<div class="line"><span class="lineno"> 2691</span>        }</div>
-<div class="line"><span class="lineno"> 2692</span>    }</div>
+<div class="line"><span class="lineno"> 2689</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../da/dbf/Player_8h.html#a2a50815668e7443f20a14ff3fa353db4">MAX_RUNES</a> &amp;&amp; runesLeft; ++i)</div>
+<div class="line"><span class="lineno"> 2690</span>        {</div>
+<div class="line"><span class="lineno"> 2691</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;SpellIconID == 2622)</div>
+<div class="line"><span class="lineno"> 2692</span>            {</div>
+<div class="line"><span class="lineno"> 2693</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#af2ce337be8e0aaba7b050398306fa87a">GetBaseRune</a>(i) == <a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2">RUNE_BLOOD</a>)</div>
+<div class="line"><span class="lineno"> 2694</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2695</span>            }</div>
+<div class="line"><span class="lineno"> 2696</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 2697</span>            {</div>
+<div class="line"><span class="lineno"> 2698</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#af2ce337be8e0aaba7b050398306fa87a">GetBaseRune</a>(i) != <a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2">RUNE_BLOOD</a>)</div>
+<div class="line"><span class="lineno"> 2699</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2700</span>            }</div>
+<div class="line"><span class="lineno"> 2701</span> </div>
+<div class="line"><span class="lineno"> 2702</span>            <span class="comment">// Check if rune just went on cooldown</span></div>
+<div class="line"><span class="lineno"> 2703</span>            <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a85b9ddea0d0cc793e51e579aaa196d70">GetRuneCooldown</a>(i) != player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a485a00d3df2a10bc7aa44c8b48fe7296">GetRuneBaseCooldown</a>(i, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno"> 2704</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2705</span> </div>
+<div class="line"><span class="lineno"> 2706</span>            --runesLeft;</div>
+<div class="line"><span class="lineno"> 2707</span>            player-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a941506d862d404409aa0888e5244fb98">AddRuneByAuraEffect</a>(i, <a class="code hl_enumvalue" href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11a4e52953e1ef02ede72070ea1231f882c">RUNE_DEATH</a>, aurEff);</div>
+<div class="line"><span class="lineno"> 2708</span>        }</div>
+<div class="line"><span class="lineno"> 2709</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aPlayer_8h_html_a2377260993cd4a14aaab6f5771385e11a4e52953e1ef02ede72070ea1231f882c"><div class="ttname"><a href="../../da/dbf/Player_8h.html#a2377260993cd4a14aaab6f5771385e11a4e52953e1ef02ede72070ea1231f882c">RUNE_DEATH</a></div><div class="ttdeci">@ RUNE_DEATH</div><div class="ttdef"><b>Definition</b> Player.h:399</div></div>
@@ -430,7 +430,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02552">Player::AddRuneByAuraEffect()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00453">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l02539">Player::GetBaseRune()</a>, <a class="el" href="../../#l01170">AuraScript::GetEffect()</a>, <a class="el" href="../../#l13371">Player::GetRuneBaseCooldown()</a>, <a class="el" href="../../#l02541">Player::GetRuneCooldown()</a>, <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>, <a class="el" href="../../#l00385">MAX_RUNES</a>, <a class="el" href="../../#l00089">AuraEffect::ResetPeriodic()</a>, <a class="el" href="../../#l00396">RUNE_BLOOD</a>, <a class="el" href="../../#l00399">RUNE_DEATH</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02699">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02716">Register()</a>.</p>
 
 </div>
 </div>
@@ -458,9 +458,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2640</span>    {</div>
-<div class="line"><span class="lineno"> 2641</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a>;</div>
-<div class="line"><span class="lineno"> 2642</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2657</span>    {</div>
+<div class="line"><span class="lineno"> 2658</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>() &amp;&amp; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a86e4e3df7a5142175aa5df522d3346cfa7f7b30426fd386c181799196c1739058">CLASS_DEATH_KNIGHT</a>;</div>
+<div class="line"><span class="lineno"> 2659</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1045</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00146">CLASS_DEATH_KNIGHT</a>, <a class="el" href="../../#l00837">Unit::getClass()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
@@ -490,15 +490,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2695</span>    {</div>
-<div class="line"><span class="lineno"> 2696</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a0d99907a41953dfe2e4589a785503fc1">RemoveRunesByAuraEffect</a>(aurEff);</div>
-<div class="line"><span class="lineno"> 2697</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2712</span>    {</div>
+<div class="line"><span class="lineno"> 2713</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>()-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a0d99907a41953dfe2e4589a785503fc1">RemoveRunesByAuraEffect</a>(aurEff);</div>
+<div class="line"><span class="lineno"> 2714</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aclassPlayer_html_a0d99907a41953dfe2e4589a785503fc1"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a0d99907a41953dfe2e4589a785503fc1">Player::RemoveRunesByAuraEffect</a></div><div class="ttdeci">void RemoveRunesByAuraEffect(AuraEffect const *aura)</div><div class="ttdef"><b>Definition</b> Player.cpp:13388</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l13388">Player::RemoveRunesByAuraEffect()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02699">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02716">Register()</a>.</p>
 
 </div>
 </div>
@@ -552,11 +552,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2700</span>    {</div>
-<div class="line"><span class="lineno"> 2701</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/dca/classspell__dk__death__rune.html#a13245a545210eed1ddfd7c49c4a43f6b">spell_dk_death_rune::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 2702</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d6/dca/classspell__dk__death__rune.html#aeec6c9e949d1edc09259a55583b3bae2">spell_dk_death_rune::HandleProc</a>);</div>
-<div class="line"><span class="lineno"> 2703</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d6/dca/classspell__dk__death__rune.html#a1621c06bce0a28a2416385563b989cbf">spell_dk_death_rune::PeriodicTick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 2704</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2717</span>    {</div>
+<div class="line"><span class="lineno"> 2718</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/dca/classspell__dk__death__rune.html#a13245a545210eed1ddfd7c49c4a43f6b">spell_dk_death_rune::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 2719</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d6/dca/classspell__dk__death__rune.html#aeec6c9e949d1edc09259a55583b3bae2">spell_dk_death_rune::HandleProc</a>);</div>
+<div class="line"><span class="lineno"> 2720</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d6/dca/classspell__dk__death__rune.html#a1621c06bce0a28a2416385563b989cbf">spell_dk_death_rune::PeriodicTick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 2721</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a05a51498d234bccc0ab35a047edc3417"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a></div><div class="ttdeci">#define AuraProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:855</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:771</div></div>
@@ -564,11 +564,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:770</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:828</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae83ae85373b045e22b5c20ec574f701b"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">AuraScript::OnProc</a></div><div class="ttdeci">HookList&lt; AuraProcHandler &gt; OnProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:850</div></div>
-<div class="ttc" id="aclassspell__dk__death__rune_html_a13245a545210eed1ddfd7c49c4a43f6b"><div class="ttname"><a href="../../d6/dca/classspell__dk__death__rune.html#a13245a545210eed1ddfd7c49c4a43f6b">spell_dk_death_rune::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2644</div></div>
-<div class="ttc" id="aclassspell__dk__death__rune_html_a1621c06bce0a28a2416385563b989cbf"><div class="ttname"><a href="../../d6/dca/classspell__dk__death__rune.html#a1621c06bce0a28a2416385563b989cbf">spell_dk_death_rune::PeriodicTick</a></div><div class="ttdeci">void PeriodicTick(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2694</div></div>
-<div class="ttc" id="aclassspell__dk__death__rune_html_aeec6c9e949d1edc09259a55583b3bae2"><div class="ttname"><a href="../../d6/dca/classspell__dk__death__rune.html#aeec6c9e949d1edc09259a55583b3bae2">spell_dk_death_rune::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2657</div></div>
+<div class="ttc" id="aclassspell__dk__death__rune_html_a13245a545210eed1ddfd7c49c4a43f6b"><div class="ttname"><a href="../../d6/dca/classspell__dk__death__rune.html#a13245a545210eed1ddfd7c49c4a43f6b">spell_dk_death_rune::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2661</div></div>
+<div class="ttc" id="aclassspell__dk__death__rune_html_a1621c06bce0a28a2416385563b989cbf"><div class="ttname"><a href="../../d6/dca/classspell__dk__death__rune.html#a1621c06bce0a28a2416385563b989cbf">spell_dk_death_rune::PeriodicTick</a></div><div class="ttdeci">void PeriodicTick(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2711</div></div>
+<div class="ttc" id="aclassspell__dk__death__rune_html_aeec6c9e949d1edc09259a55583b3bae2"><div class="ttname"><a href="../../d6/dca/classspell__dk__death__rune.html#aeec6c9e949d1edc09259a55583b3bae2">spell_dk_death_rune::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_dk.cpp:2674</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l02644">CheckProc()</a>, <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02657">HandleProc()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00850">AuraScript::OnProc</a>, <a class="el" href="../../#l02694">PeriodicTick()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l02661">CheckProc()</a>, <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02674">HandleProc()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00850">AuraScript::OnProc</a>, <a class="el" href="../../#l02711">PeriodicTick()</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -581,7 +581,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/dca/classspell__dk__death__rune.html">spell_dk_death_rune</a></li>
-    <li class="footer">Generated on Thu Feb 19 2026 06:56:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 20 2026 06:51:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

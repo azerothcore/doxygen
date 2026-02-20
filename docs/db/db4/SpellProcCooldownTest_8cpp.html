@@ -197,10 +197,10 @@ Functions</h2></td></tr>
 <div class="ttc" id="aclassAuraStubBuilder_html"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html">AuraStubBuilder</a></div><div class="ttdoc">Builder for creating AuraStub instances with fluent API.</div><div class="ttdef"><b>Definition</b> AuraStub.h:290</div></div>
 <div class="ttc" id="aclassAuraStubBuilder_html_a7d5b970e591a239849e42a0c444f62d4"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html#a7d5b970e591a239849e42a0c444f62d4">AuraStubBuilder::Build</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; Build()</div><div class="ttdef"><b>Definition</b> AuraStub.h:353</div></div>
 <div class="ttc" id="aclassAuraStubBuilder_html_aa8dc59189364f6be82822588a47d32fd"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html#aa8dc59189364f6be82822588a47d32fd">AuraStubBuilder::WithId</a></div><div class="ttdeci">AuraStubBuilder &amp; WithId(uint32_t id)</div><div class="ttdef"><b>Definition</b> AuraStub.h:294</div></div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_a57d351c38a433d00432bbb97a40b6a27"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a></div><div class="ttdeci">static void ApplyProcCooldown(AuraStub *aura, std::chrono::steady_clock::time_point now, uint32 cooldownMs)</div><div class="ttdoc">Apply proc cooldown to aura.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:161</div></div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_af0ea5c345c43d31902bc9d55c2ac7308"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a></div><div class="ttdeci">static bool IsProcOnCooldown(AuraStub const *aura, std::chrono::steady_clock::time_point now)</div><div class="ttdoc">Check if proc is on cooldown.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:147</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_a57d351c38a433d00432bbb97a40b6a27"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a></div><div class="ttdeci">static void ApplyProcCooldown(AuraStub *aura, std::chrono::steady_clock::time_point now, uint32 cooldownMs)</div><div class="ttdoc">Apply proc cooldown to aura.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:163</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_af0ea5c345c43d31902bc9d55c2ac7308"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a></div><div class="ttdeci">static bool IsProcOnCooldown(AuraStub const *aura, std::chrono::steady_clock::time_point now)</div><div class="ttdoc">Check if proc is on cooldown.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:149</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -239,7 +239,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  114</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
 <div class="line"><span class="lineno">  115</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -279,7 +279,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   85</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 1000ms));</div>
 <div class="line"><span class="lineno">   86</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -318,7 +318,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   73</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 1001ms));</div>
 <div class="line"><span class="lineno">   74</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -353,7 +353,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   50</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
 <div class="line"><span class="lineno">   51</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -393,7 +393,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   62</span>    EXPECT_TRUE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 500ms));</div>
 <div class="line"><span class="lineno">   63</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -443,16 +443,16 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  217</span>    <span class="comment">// Third proc should succeed</span></div>
 <div class="line"><span class="lineno">  218</span>    EXPECT_TRUE(scenario.<a class="code hl_function" href="../../d3/def/classProcTestScenario.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(procEntry));</div>
 <div class="line"><span class="lineno">  219</span>}</div>
-<div class="ttc" id="aclassProcTestScenario_html"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html">ProcTestScenario</a></div><div class="ttdoc">Test context for proc simulation scenarios.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:486</div></div>
-<div class="ttc" id="aclassProcTestScenario_html_a3b6e8c7f5207be98b7696b478559b24a"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html#a3b6e8c7f5207be98b7696b478559b24a">ProcTestScenario::AdvanceTime</a></div><div class="ttdeci">void AdvanceTime(std::chrono::milliseconds duration)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:491</div></div>
-<div class="ttc" id="aclassProcTestScenario_html_a6c6dc6438b7503dcda2a89f1e53bc324"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html#a6c6dc6438b7503dcda2a89f1e53bc324">ProcTestScenario::WithAura</a></div><div class="ttdeci">ProcTestScenario &amp; WithAura(uint32_t spellId, uint8_t charges=0, uint8_t stacks=1)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:517</div></div>
-<div class="ttc" id="aclassProcTestScenario_html_af3f83abbfbd4a902689b232853fdbcfb"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html#af3f83abbfbd4a902689b232853fdbcfb">ProcTestScenario::SimulateProc</a></div><div class="ttdeci">bool SimulateProc(SpellProcEntry const &amp;procEntry, float rollResult=0.0f)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:527</div></div>
+<div class="ttc" id="aclassProcTestScenario_html"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html">ProcTestScenario</a></div><div class="ttdoc">Test context for proc simulation scenarios.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:488</div></div>
+<div class="ttc" id="aclassProcTestScenario_html_a3b6e8c7f5207be98b7696b478559b24a"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html#a3b6e8c7f5207be98b7696b478559b24a">ProcTestScenario::AdvanceTime</a></div><div class="ttdeci">void AdvanceTime(std::chrono::milliseconds duration)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:493</div></div>
+<div class="ttc" id="aclassProcTestScenario_html_a6c6dc6438b7503dcda2a89f1e53bc324"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html#a6c6dc6438b7503dcda2a89f1e53bc324">ProcTestScenario::WithAura</a></div><div class="ttdeci">ProcTestScenario &amp; WithAura(uint32_t spellId, uint8_t charges=0, uint8_t stacks=1)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:519</div></div>
+<div class="ttc" id="aclassProcTestScenario_html_af3f83abbfbd4a902689b232853fdbcfb"><div class="ttname"><a href="../../d3/def/classProcTestScenario.html#af3f83abbfbd4a902689b232853fdbcfb">ProcTestScenario::SimulateProc</a></div><div class="ttdeci">bool SimulateProc(SpellProcEntry const &amp;procEntry, float rollResult=0.0f)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:529</div></div>
 <div class="ttc" id="aclassSpellProcEntryBuilder_html"><div class="ttname"><a href="../../d5/d69/classSpellProcEntryBuilder.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition</b> ProcEventInfoHelper.h:141</div></div>
 <div class="ttc" id="aclassSpellProcEntryBuilder_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d5/d69/classSpellProcEntryBuilder.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition</b> ProcEventInfoHelper.h:226</div></div>
 <div class="ttc" id="aclassSpellProcEntryBuilder_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d5/d69/classSpellProcEntryBuilder.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition</b> ProcEventInfoHelper.h:208</div></div>
 <div class="ttc" id="aclassSpellProcEntryBuilder_html_acd3a4b7ab057b5f36dd407acc11a4da4"><div class="ttname"><a href="../../d5/d69/classSpellProcEntryBuilder.html#acd3a4b7ab057b5f36dd407acc11a4da4">SpellProcEntryBuilder::WithCooldown</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithCooldown(Milliseconds cooldown)</div><div class="ttdef"><b>Definition</b> ProcEventInfoHelper.h:214</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00491">ProcTestScenario::AdvanceTime()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00527">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00517">ProcTestScenario::WithAura()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00493">ProcTestScenario::AdvanceTime()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00529">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00519">ProcTestScenario::WithAura()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
 
 </div>
 </div>
@@ -498,7 +498,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  150</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 6000ms));</div>
 <div class="line"><span class="lineno">  151</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -553,7 +553,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  191</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), time));</div>
 <div class="line"><span class="lineno">  192</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -595,7 +595,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  164</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 1000ms));</div>
 <div class="line"><span class="lineno">  165</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -633,7 +633,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   99</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
 <div class="line"><span class="lineno">  100</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00147">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -643,7 +643,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../db/db4/SpellProcCooldownTest_8cpp.html">SpellProcCooldownTest.cpp</a></li>
-    <li class="footer">Generated on Thu Feb 19 2026 06:55:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 20 2026 06:50:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

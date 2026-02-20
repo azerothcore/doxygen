@@ -545,12 +545,12 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  246</span>        .<a class="code hl_function" href="../../d5/d69/classSpellProcEntryBuilder.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
 <div class="line"><span class="lineno">  247</span>        .<a class="code hl_function" href="../../d5/d69/classSpellProcEntryBuilder.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
 <div class="line"><span class="lineno">  248</span> </div>
-<div class="line"><span class="lineno">  249</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 50);</div>
+<div class="line"><span class="lineno">  249</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 50);</div>
 <div class="line"><span class="lineno">  250</span>    EXPECT_NEAR(chance, 30.0f, 0.01f);</div>
 <div class="line"><span class="lineno">  251</span>}</div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_a7245b48dfe4cd6e023de1a1829084531"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a></div><div class="ttdeci">static float SimulateCalcProcChance(SpellProcEntry const &amp;procEntry, uint32 actorLevel=80, uint32 weaponSpeed=2500, float chanceModifier=0.0f, float ppmModifier=0.0f, bool hasDamageInfo=true)</div><div class="ttdoc">Simulate CalcProcChance() from SpellAuras.cpp.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:84</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_a439a1b27d17320fdd1769859d7a35eb1"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a></div><div class="ttdeci">static float SimulateCalcProcChance(SpellProcEntry const &amp;procEntry, uint32 actorLevel=80, uint32 weaponSpeed=2500, float chanceModifier=0.0f, float ppmModifier=0.0f, bool hasDamageInfo=true, bool hasHealInfo=false)</div><div class="ttdoc">Simulate CalcProcChance() from SpellAuras.cpp.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:85</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00084">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
 
 </div>
 </div>
@@ -585,11 +585,11 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  207</span>        .<a class="code hl_function" href="../../d5/d69/classSpellProcEntryBuilder.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
 <div class="line"><span class="lineno">  208</span>        .<a class="code hl_function" href="../../d5/d69/classSpellProcEntryBuilder.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
 <div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 60);</div>
+<div class="line"><span class="lineno">  210</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 60);</div>
 <div class="line"><span class="lineno">  211</span>    EXPECT_NEAR(chance, 30.0f, 0.01f);</div>
 <div class="line"><span class="lineno">  212</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00084">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
 
 </div>
 </div>
@@ -627,11 +627,11 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  221</span>    <span class="comment">// Level 70 = 10 levels above 60</span></div>
 <div class="line"><span class="lineno">  222</span>    <span class="comment">// Reduction = 10/30 = 33.33%</span></div>
 <div class="line"><span class="lineno">  223</span>    <span class="comment">// 30% * (1 - 0.333) = 20%</span></div>
-<div class="line"><span class="lineno">  224</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 70);</div>
+<div class="line"><span class="lineno">  224</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 70);</div>
 <div class="line"><span class="lineno">  225</span>    EXPECT_NEAR(chance, 20.0f, 0.5f);</div>
 <div class="line"><span class="lineno">  226</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00084">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
 
 </div>
 </div>
@@ -669,11 +669,11 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  235</span>    <span class="comment">// Level 80 = 20 levels above 60</span></div>
 <div class="line"><span class="lineno">  236</span>    <span class="comment">// Reduction = 20/30 = 66.67%</span></div>
 <div class="line"><span class="lineno">  237</span>    <span class="comment">// 30% * (1 - 0.667) = 10%</span></div>
-<div class="line"><span class="lineno">  238</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 80);</div>
+<div class="line"><span class="lineno">  238</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 80);</div>
 <div class="line"><span class="lineno">  239</span>    EXPECT_NEAR(chance, 10.0f, 0.5f);</div>
 <div class="line"><span class="lineno">  240</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00084">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
 
 </div>
 </div>
@@ -709,11 +709,11 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  258</span>        .<a class="code hl_function" href="../../d5/d69/classSpellProcEntryBuilder.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
 <div class="line"><span class="lineno">  259</span> </div>
 <div class="line"><span class="lineno">  260</span>    <span class="comment">// Even at level 80, no reduction without attribute</span></div>
-<div class="line"><span class="lineno">  261</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 80);</div>
+<div class="line"><span class="lineno">  261</span>    <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 80);</div>
 <div class="line"><span class="lineno">  262</span>    EXPECT_NEAR(chance, 30.0f, 0.01f);</div>
 <div class="line"><span class="lineno">  263</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00084">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
 
 </div>
 </div>
@@ -860,9 +860,9 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  110</span>    <span class="comment">// Null spell should never satisfy mana cost requirement</span></div>
 <div class="line"><span class="lineno">  111</span>    EXPECT_FALSE(<a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#abe1c702ac0906af725a638f04dcdeb69">ProcChanceTestHelper::SpellHasManaCost</a>(<span class="keyword">nullptr</span>));</div>
 <div class="line"><span class="lineno">  112</span>}</div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_abe1c702ac0906af725a638f04dcdeb69"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#abe1c702ac0906af725a638f04dcdeb69">ProcChanceTestHelper::SpellHasManaCost</a></div><div class="ttdeci">static bool SpellHasManaCost(SpellInfo const *spellInfo)</div><div class="ttdoc">Check if spell has mana cost (for PROC_ATTR_REQ_MANA_COST)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:174</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_abe1c702ac0906af725a638f04dcdeb69"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#abe1c702ac0906af725a638f04dcdeb69">ProcChanceTestHelper::SpellHasManaCost</a></div><div class="ttdeci">static bool SpellHasManaCost(SpellInfo const *spellInfo)</div><div class="ttdoc">Check if spell has mana cost (for PROC_ATTR_REQ_MANA_COST)</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:176</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00174">ProcChanceTestHelper::SpellHasManaCost()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00176">ProcChanceTestHelper::SpellHasManaCost()</a>.</p>
 
 </div>
 </div>
@@ -983,7 +983,7 @@ Functions</h2></td></tr>
 <div class="ttc" id="aSpellMgr_8h_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition</b> SpellMgr.h:131</div></div>
 <div class="ttc" id="aclassSpellProcEntryBuilder_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../d5/d69/classSpellProcEntryBuilder.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition</b> ProcEventInfoHelper.h:166</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00275">PROC_ATTR_REQ_MANA_COST</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00174">ProcChanceTestHelper::SpellHasManaCost()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00275">PROC_ATTR_REQ_MANA_COST</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00176">ProcChanceTestHelper::SpellHasManaCost()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
 
 </div>
 </div>
@@ -1035,9 +1035,9 @@ Functions</h2></td></tr>
 <div class="ttc" id="aclassAuraStubBuilder_html_a04b37ad66dde7b61695a80db00c9ab66"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html#a04b37ad66dde7b61695a80db00c9ab66">AuraStubBuilder::WithStackAmount</a></div><div class="ttdeci">AuraStubBuilder &amp; WithStackAmount(uint8_t amount)</div><div class="ttdef"><b>Definition</b> AuraStub.h:320</div></div>
 <div class="ttc" id="aclassAuraStubBuilder_html_a7d5b970e591a239849e42a0c444f62d4"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html#a7d5b970e591a239849e42a0c444f62d4">AuraStubBuilder::Build</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; Build()</div><div class="ttdef"><b>Definition</b> AuraStub.h:353</div></div>
 <div class="ttc" id="aclassAuraStubBuilder_html_aa8dc59189364f6be82822588a47d32fd"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html#aa8dc59189364f6be82822588a47d32fd">AuraStubBuilder::WithId</a></div><div class="ttdeci">AuraStubBuilder &amp; WithId(uint32_t id)</div><div class="ttdef"><b>Definition</b> AuraStub.h:294</div></div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_a23aff9444cb03891a4d5c4cabad28610"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a23aff9444cb03891a4d5c4cabad28610">ProcChanceTestHelper::SimulateConsumeProcCharges</a></div><div class="ttdeci">static bool SimulateConsumeProcCharges(AuraStub *aura, SpellProcEntry const &amp;procEntry)</div><div class="ttdoc">Simulate charge consumption from ConsumeProcCharges()</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:119</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_a23aff9444cb03891a4d5c4cabad28610"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a23aff9444cb03891a4d5c4cabad28610">ProcChanceTestHelper::SimulateConsumeProcCharges</a></div><div class="ttdeci">static bool SimulateConsumeProcCharges(AuraStub *aura, SpellProcEntry const &amp;procEntry)</div><div class="ttdoc">Simulate charge consumption from ConsumeProcCharges()</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:121</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00119">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
 
 </div>
 </div>
@@ -1074,19 +1074,19 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  393</span>        .<a class="code hl_function" href="../../d5/d69/classSpellProcEntryBuilder.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
 <div class="line"><span class="lineno">  394</span> </div>
 <div class="line"><span class="lineno">  395</span>    <span class="comment">// Level 60: Full chance</span></div>
-<div class="line"><span class="lineno">  396</span>    <span class="keywordtype">float</span> chanceAt60 = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 60);</div>
+<div class="line"><span class="lineno">  396</span>    <span class="keywordtype">float</span> chanceAt60 = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 60);</div>
 <div class="line"><span class="lineno">  397</span>    EXPECT_NEAR(chanceAt60, 50.0f, 0.01f);</div>
 <div class="line"><span class="lineno">  398</span> </div>
 <div class="line"><span class="lineno">  399</span>    <span class="comment">// Level 75: 50% reduction (15/30)</span></div>
-<div class="line"><span class="lineno">  400</span>    <span class="keywordtype">float</span> chanceAt75 = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 75);</div>
+<div class="line"><span class="lineno">  400</span>    <span class="keywordtype">float</span> chanceAt75 = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 75);</div>
 <div class="line"><span class="lineno">  401</span>    EXPECT_NEAR(chanceAt75, 25.0f, 0.5f);</div>
 <div class="line"><span class="lineno">  402</span> </div>
 <div class="line"><span class="lineno">  403</span>    <span class="comment">// Level 90: 100% reduction (30/30), capped at 0</span></div>
-<div class="line"><span class="lineno">  404</span>    <span class="keywordtype">float</span> chanceAt90 = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a7245b48dfe4cd6e023de1a1829084531">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 90);</div>
+<div class="line"><span class="lineno">  404</span>    <span class="keywordtype">float</span> chanceAt90 = <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry, 90);</div>
 <div class="line"><span class="lineno">  405</span>    EXPECT_NEAR(chanceAt90, 0.0f, 0.1f);</div>
 <div class="line"><span class="lineno">  406</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00084">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
 
 </div>
 </div>
@@ -1286,7 +1286,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  166</span>    EXPECT_EQ(aura-&gt;GetStackAmount(), 4);</div>
 <div class="line"><span class="lineno">  167</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00119">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
 
 </div>
 </div>
@@ -1335,7 +1335,7 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  187</span>}</div>
 <div class="ttc" id="aclassAuraStubBuilder_html_a0e11ce060ed827bfc2b72d2b26a6693b"><div class="ttname"><a href="../../db/dc6/classAuraStubBuilder.html#a0e11ce060ed827bfc2b72d2b26a6693b">AuraStubBuilder::WithCharges</a></div><div class="ttdeci">AuraStubBuilder &amp; WithCharges(uint8_t charges)</div><div class="ttdef"><b>Definition</b> AuraStub.h:306</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00119">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00306">AuraStubBuilder::WithCharges()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00306">AuraStubBuilder::WithCharges()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
 
 </div>
 </div>
@@ -1345,7 +1345,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../db/d8a/SpellProcAttributeTest_8cpp.html">SpellProcAttributeTest.cpp</a></li>
-    <li class="footer">Generated on Thu Feb 19 2026 06:55:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 20 2026 06:50:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

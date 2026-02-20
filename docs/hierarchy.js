@@ -100,7 +100,7 @@ var hierarchy =
         [ "spell_dk_hungering_cold", "d2/d7b/classspell__dk__hungering__cold.html", null ],
         [ "spell_dk_icebound_fortitude", "dc/dc6/classspell__dk__icebound__fortitude.html", null ],
         [ "spell_dk_improved_blood_presence", "d6/d76/classspell__dk__improved__blood__presence.html", null ],
-        [ "spell_dk_improved_blood_presence_proc", "db/dd5/classspell__dk__improved__blood__presence__proc.html", null ],
+        [ "spell_dk_improved_blood_presence_triggered", "d0/dde/classspell__dk__improved__blood__presence__triggered.html", null ],
         [ "spell_dk_improved_frost_presence", "d0/d15/classspell__dk__improved__frost__presence.html", null ],
         [ "spell_dk_improved_unholy_presence", "d8/db9/classspell__dk__improved__unholy__presence.html", null ],
         [ "spell_dk_killing_machine", "d4/d94/classspell__dk__killing__machine.html", null ],
@@ -4796,8 +4796,10 @@ var hierarchy =
       [ "SpellProcPPMModifierTest", "d1/d9d/classSpellProcPPMModifierTest.html", null ],
       [ "SpellProcPPMTest", "d2/df6/classSpellProcPPMTest.html", null ],
       [ "SpellProcPipelineTest", "d6/d67/classSpellProcPipelineTest.html", null ],
+      [ "SpellProcTargetResolutionTest", "d7/deb/classSpellProcTargetResolutionTest.html", null ],
       [ "SpellProcTest", "da/d10/classSpellProcTest.html", null ],
-      [ "SpellProcTriggeredFilterTest", "d5/d10/classSpellProcTriggeredFilterTest.html", null ]
+      [ "SpellProcTriggeredFilterTest", "d5/d10/classSpellProcTriggeredFilterTest.html", null ],
+      [ "WildGrowthTickScalingTest", "d8/d2e/classWildGrowthTickScalingTest.html", null ]
     ] ],
     [ "TestSpellEntryHelper", "db/d01/classTestSpellEntryHelper.html", null ],
     [ "testing::TestWithParam", null, [
