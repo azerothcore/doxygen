@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5da913b7d8153db9f52e555fd5207363876":[7,0,0,0,1,3,5,10,0,1,7,0],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5daa2ffab3f2903b69cf4de331c0dd4a7bc":[7,0,0,0,1,3,5,10,0,1,7,3],
 "d4/d4f/boss__keleseth_8cpp.html#aafc8c074c401ed6c3767e66ecaf56f5dab2694a03dd1e0c46c17500ebe13dcf45":[7,0,0,0,1,3,5,10,0,1,7,2],
 "d4/d4f/boss__keleseth_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911":[7,0,0,0,1,3,5,10,0,1,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d57/boss__hexlord_8cpp.html#adfb3b9eec5ef9b543982c5266b78f0c4a8fc88f33204e7fa6d6dba90e477927b2":[7,0,0,0,1,3,2,15,2,4,4],
 "d4/d57/boss__hexlord_8cpp.html#adfb3b9eec5ef9b543982c5266b78f0c4aec457fd7b1250a5753b885d0c06541e4":[7,0,0,0,1,3,2,15,2,4,5],
 "d4/d57/classspell__send__mug__control__aura.html":[6,0,3995],
-"d4/d57/classspell__send__mug__control__aura.html#a4e860850bbab0f14eb8a160bb5e6799e":[6,0,3995,1],
-"d4/d57/classspell__send__mug__control__aura.html#a5def2685cedc4fb78c1a5c534c764ee9":[6,0,3995,2]
+"d4/d57/classspell__send__mug__control__aura.html#a4e860850bbab0f14eb8a160bb5e6799e":[6,0,3995,1]
 };

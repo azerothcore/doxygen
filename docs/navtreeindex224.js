@@ -1,5 +1,6 @@
 var NAVTREEINDEX224 =
 {
+"d8/d7b/classRotateMovementGenerator.html#afd7588c7877b116cc9626a774b89d584":[6,0,2529,1],
 "d8/d7b/classspell__gen__lifebloom.html":[6,0,3055],
 "d8/d7b/classspell__gen__lifebloom.html#a196484d01d2dc07163e18fdca9f60ca9":[6,0,3055,5],
 "d8/d7b/classspell__gen__lifebloom.html#a599634d92b92a5635b89733b7bb3c3c8":[6,0,3055,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d86/structServerMail.html#a50cf3e6929e397a3c1de83b9fcf83416":[6,0,2557,0],
 "d8/d86/structServerMail.html#a58d352611dcb35126f6ec93622ddc4b9":[6,0,2557,2],
 "d8/d86/structServerMail.html#a6a84ca583beef891422f67bef7919c47":[6,0,2557,7],
-"d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[6,0,2557,4],
-"d8/d86/structServerMail.html#a818b993f72f82a022277e1c8d9160011":[6,0,2557,3]
+"d8/d86/structServerMail.html#a6b47994eff9201a6a75f8c621b64716c":[6,0,2557,4]
 };

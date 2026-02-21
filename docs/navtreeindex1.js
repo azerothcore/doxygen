@@ -221,16 +221,16 @@ var NAVTREEINDEX1 =
 "d0/d15/structAchievementRewardLocale.html#ad9bd686973c6e59518889bd5d9b6a11f":[6,0,121,0],
 "d0/d15/structAcore_1_1PlayerWorker.html":[5,0,1,110],
 "d0/d15/structAcore_1_1PlayerWorker.html":[6,0,0,98],
-"d0/d15/structAcore_1_1PlayerWorker.html#a018b799be67c284d6ed5c7a368ef1985":[6,0,0,98,1],
 "d0/d15/structAcore_1_1PlayerWorker.html#a018b799be67c284d6ed5c7a368ef1985":[5,0,1,110,1],
-"d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[6,0,0,98,2],
+"d0/d15/structAcore_1_1PlayerWorker.html#a018b799be67c284d6ed5c7a368ef1985":[6,0,0,98,1],
 "d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[5,0,1,110,2],
-"d0/d15/structAcore_1_1PlayerWorker.html#aa23944bde7aa8e3a77f33b0a93f92c57":[5,0,1,110,4],
+"d0/d15/structAcore_1_1PlayerWorker.html#a19c56b5bde9e57ea0152a89ac05e292b":[6,0,0,98,2],
 "d0/d15/structAcore_1_1PlayerWorker.html#aa23944bde7aa8e3a77f33b0a93f92c57":[6,0,0,98,4],
+"d0/d15/structAcore_1_1PlayerWorker.html#aa23944bde7aa8e3a77f33b0a93f92c57":[5,0,1,110,4],
 "d0/d15/structAcore_1_1PlayerWorker.html#ac7c16ec87b533b7b58b768cac116d7a2":[6,0,0,98,0],
 "d0/d15/structAcore_1_1PlayerWorker.html#ac7c16ec87b533b7b58b768cac116d7a2":[5,0,1,110,0],
-"d0/d15/structAcore_1_1PlayerWorker.html#ae09b42f770e895b1c283ea7ca7527b7a":[6,0,0,98,3],
 "d0/d15/structAcore_1_1PlayerWorker.html#ae09b42f770e895b1c283ea7ca7527b7a":[5,0,1,110,3],
+"d0/d15/structAcore_1_1PlayerWorker.html#ae09b42f770e895b1c283ea7ca7527b7a":[6,0,0,98,3],
 "d0/d16/ServerMailMgr_8cpp.html":[7,0,0,0,1,2,25,2],
 "d0/d17/classspell__hodir__toasty__fire__aura.html":[6,0,3193],
 "d0/d17/classspell__hodir__toasty__fire__aura.html#a439799df0d6ca43e6a81930e3e4b5334":[6,0,3193,1],
@@ -249,5 +249,5 @@ var NAVTREEINDEX1 =
 "d0/d18/classspell__wintergrasp__force__building.html#adb477d34d8012c6fb45c5548fc49e127":[6,0,4319,3],
 "d0/d19/classWorldPackets_1_1Item_1_1SwapInventoryItem.html":[6,0,12,8,17],
 "d0/d19/classWorldPackets_1_1Item_1_1SwapInventoryItem.html":[5,0,33,8,17],
-"d0/d19/classWorldPackets_1_1Item_1_1SwapInventoryItem.html#a26e2887fe352de8a8c5d9d65ba598460":[5,0,33,8,17,0]
+"d0/d19/classWorldPackets_1_1Item_1_1SwapInventoryItem.html#a26e2887fe352de8a8c5d9d65ba598460":[6,0,12,8,17,0]
 };

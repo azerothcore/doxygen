@@ -88,7 +88,8 @@ var spell__mage_8cpp =
       [ "SPELL_MAGE_CHILLED_R2", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233", null ],
       [ "SPELL_MAGE_CHILLED_R3", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204", null ],
       [ "SPELL_MAGE_MANA_SURGE", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564", null ],
-      [ "SPELL_MAGE_FROST_NOVA", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786", null ]
+      [ "SPELL_MAGE_FROST_NOVA", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786", null ],
+      [ "SPELL_MAGE_LIVING_BOMB_R1", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb", null ]
     ] ],
     [ "SilvermoonPolymorph", "d3/df8/spell__mage_8cpp.html#ae65dd3851c1d875d7169727f6decf29a", [
       [ "NPC_AUROSALIA", "d3/df8/spell__mage_8cpp.html#ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25", null ]

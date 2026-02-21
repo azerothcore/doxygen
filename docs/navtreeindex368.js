@@ -1,5 +1,6 @@
 var NAVTREEINDEX368 =
 {
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[6,0,1176,0,2],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980":[6,0,1176,0,0],
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html":[6,0,3359],
 "de/d29/classspell__item__fate__rune__of__unsurpassed__vigor.html#a7ba07407ce43ea4bfb03bc232ed409e3":[6,0,3359,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX368 =
 "de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d":[7,0,0,0,1,2,41,9,18],
 "de/d30/SpellMgr_8h.html#aa48a311ee3f1729a60deb3e4cddca333":[7,0,0,0,1,2,41,9,20],
 "de/d30/SpellMgr_8h.html#aaf44c511d7aca68a0e2f56287dc2999d":[7,0,0,0,1,2,41,9,19],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dd":[7,0,0,0,1,2,41,9,71],
-"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dda46a0c095d861d5528e67a20473b207e4":[7,0,0,0,1,2,41,9,71,1]
+"de/d30/SpellMgr_8h.html#ab05dedebdd8cfd6f2028ccc48bd240dd":[7,0,0,0,1,2,41,9,71]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX315 =
 {
+"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1770,0],
 "dc/d48/structnpc__drakonid__spawner.html#a57dd1fc80cfa43f6afae58e797b4091f":[6,0,1770,3],
 "dc/d48/structnpc__drakonid__spawner.html#a60e79dd8f56e87a2de4a203a63c6f9e3":[6,0,1770,4],
 "dc/d48/structnpc__drakonid__spawner.html#a6a2170e0f20736d69006ce6d6c769476":[6,0,1770,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a98bfe98552634d7f7de340937f236519":[7,0,0,0,1,2,26,2,0,13],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a9a9f32a3b68ef2a05bdfec803026254a":[7,0,0,0,1,2,26,2,0,136],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a9ae0ac68f0311e1bd98c92646e370267":[7,0,0,0,1,2,26,2,0,140],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a9e3264aa792a0224a8e2a2d18f02a6f8":[7,0,0,0,1,2,26,2,0,25],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a9fecf6597d85adb62ffea48e97e2436d":[7,0,0,0,1,2,26,2,0,152]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a9e3264aa792a0224a8e2a2d18f02a6f8":[7,0,0,0,1,2,26,2,0,25]
 };

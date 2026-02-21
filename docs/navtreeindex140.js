@@ -1,5 +1,6 @@
 var NAVTREEINDEX140 =
 {
+"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[6,0,3013,0],
 "d4/dd1/classspell__gen__dalaran__disguise.html#a9e29ea947d5415471d991a4e1cd699ac":[6,0,3013,1],
 "d4/dd1/classspell__gen__dalaran__disguise.html#aa4bc27415893009581b317637599a85a":[6,0,3013,2],
 "d4/dd2/classachievement__i__have__the__coolest__friends.html":[6,0,62],
@@ -248,6 +249,5 @@ var NAVTREEINDEX140 =
 "d4/dd9/structAchievementCriteriaEntry.html#a9f86f11e7d3b807bbd614f72ed5f9560":[6,0,114,38],
 "d4/dd9/structAchievementCriteriaEntry.html#aa0cb549825ace3fb07ba4f4a02ec0e31":[6,0,114,2],
 "d4/dd9/structAchievementCriteriaEntry.html#aa2da576c874b35a284abaaeb1478cad6":[6,0,114,67],
-"d4/dd9/structAchievementCriteriaEntry.html#aa4b983792df484f5fb4b683598108dff":[6,0,114,97],
-"d4/dd9/structAchievementCriteriaEntry.html#aa5e3fa7dab9e3d4439a82eec0505e8c4":[6,0,114,39]
+"d4/dd9/structAchievementCriteriaEntry.html#aa4b983792df484f5fb4b683598108dff":[6,0,114,97]
 };

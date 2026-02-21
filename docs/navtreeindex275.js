@@ -1,13 +1,14 @@
 var NAVTREEINDEX275 =
 {
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,1,48,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[6,0,0,36,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,1,48,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[6,0,0,36,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,1,48,2],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[6,0,0,36,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,1,48,0],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,1,48,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[6,0,0,36,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[6,0,0,36,4],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,1,48,4],
 "da/dd3/structMovementGeneratorFactory.html":[6,0,1546],
 "da/dd3/structMovementGeneratorFactory.html#a8b473ae9fa2af60a7fa92727ce163305":[6,0,1546,0],
 "da/dd3/structMovementGeneratorFactory.html#af3a494507c8d910bd98bb0989d42ba6f":[6,0,1546,1],
@@ -37,10 +38,10 @@ var NAVTREEINDEX275 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,18,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,18,8,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,18,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,18,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,18,8,4],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,18,8,0],
 "da/dd8/classHashMapHolder.html":[6,0,1268],
@@ -248,6 +249,5 @@ var NAVTREEINDEX275 =
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#a90c3d818318004c7c21ec66d4d080615":[6,0,2183,0,7],
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aa610e24316505165cbb826ff5bece5c5":[6,0,2183,0,3],
 "da/ddf/structnpc__the__lich__king__controller_1_1npc__the__lich__king__controllerAI.html#aaf940a0ca812d84dbde81fc7e41feaca":[6,0,2183,0,2],
-"da/de0/classnpc__wormhole.html":[6,0,2302],
-"da/de0/classnpc__wormhole.html#a6ae1a84557f8dc0f0631b9cc7e88d78e":[6,0,2302,3]
+"da/de0/classnpc__wormhole.html":[6,0,2302]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"db/dce/classAura.html#af94996c697b3f790489314b6175ab311":[6,0,284,0],
 "db/dce/classAura.html#af9799e5670c2bc3899e3430aa793ca20":[6,0,284,107],
 "db/dce/classAura.html#af9803e108cc68b115fec9043b03f1118":[6,0,284,52],
 "db/dce/classAura.html#afa8b3462e2d68da5a9972c6cbd637022":[6,0,284,21],
@@ -28,8 +29,8 @@ var NAVTREEINDEX300 =
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html":[5,0,33,7,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[6,0,12,7,1,1],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a0809c4de226d3aaab9817c393cef6055":[5,0,33,7,1,1],
-"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[5,0,33,7,1,2],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[6,0,12,7,1,2],
+"db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#a7b80bb32e524fe1d0ddadf955f1ec4a2":[5,0,33,7,1,2],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[6,0,12,7,1,0],
 "db/dd3/classWorldPackets_1_1Instance_1_1InstanceReset.html#ab1ff5009dc40f18c30941e327e5c3863":[5,0,33,7,1,0],
 "db/dd3/icecrown__citadel_8cpp.html":[7,0,0,0,1,3,5,6,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a87af515cc9a6cf73bf602b8c9bed725e":[6,0,2187,0,13],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa273d1429c6e82196b5b9f32c4232996":[6,0,2187,0,5],
 "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa681945f635c2ff9bd23d407d48c003d":[6,0,2187,0,24],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa74db6940f44d81369944ec85a292a1d":[6,0,2187,0,14],
-"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ab3cb1a4b08608c9270b957804756d6d8":[6,0,2187,0,9]
+"db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa74db6940f44d81369944ec85a292a1d":[6,0,2187,0,14]
 };

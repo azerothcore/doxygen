@@ -1,5 +1,6 @@
 var NAVTREEINDEX139 =
 {
+"d4/dcb/classEnumFlag.html#af9468dd952e12d2da9c0120d0ce9feb4":[6,0,1030,1],
 "d4/dcb/classEnumFlag.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3":[6,0,1030,5],
 "d4/dcc/GridCell_8h.html":[7,0,0,0,1,2,19,2],
 "d4/dcc/classspell__aq__shadow__storm.html":[6,0,2634],
@@ -19,10 +20,10 @@ var NAVTREEINDEX139 =
 "d4/dcd/classspell__mage__cold__snap.html#aac68e0f75f39ab25cf490dc381414b96":[6,0,3562,2],
 "d4/dcd/classspell__mage__cold__snap.html#ad2840c719abd010c629747da138e9e32":[6,0,3562,3],
 "d4/dcd/classspell__mage__cold__snap.html#ae971bd1dccc9280620b6ea44dd552bd4":[6,0,3562,1],
-"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[6,0,12,6,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[5,0,33,6,11],
-"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[6,0,12,6,11,2],
+"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html":[6,0,12,6,11],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[5,0,33,6,11,2],
+"d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#a015ba615ebe4ea09df8233f6a85332f4":[6,0,12,6,11,2],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[5,0,33,6,11,1],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#aecc28f8734a66c562c7baa1575b07ff9":[6,0,12,6,11,1],
 "d4/dce/classWorldPackets_1_1Guild_1_1GuildBankRemainingWithdrawMoney.html#afdb4e226091e8280b4ef26bd51edebdd":[5,0,33,6,11,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "d4/dd0/classWorldObject.html#afc786081f657fd125cfc0b7d938305e9":[6,0,4610,176],
 "d4/dd0/classWorldObject.html#afcae34940d170de7583765d9531b0f77":[6,0,4610,8],
 "d4/dd1/classspell__gen__dalaran__disguise.html":[6,0,3013],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[6,0,3013,3],
-"d4/dd1/classspell__gen__dalaran__disguise.html#a8b20e2ffed94ec9438dc9b756ba76693":[6,0,3013,0]
+"d4/dd1/classspell__gen__dalaran__disguise.html#a77ed10819633ae2bc381023da0feb31b":[6,0,3013,3]
 };

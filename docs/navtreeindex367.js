@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d20/structCharStartOutfitEntry.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe":[6,0,872,0],
 "de/d20/structCharStartOutfitEntry.html#aee768679c4b8ee7cd28ea3fa899206e3":[6,0,872,3],
 "de/d20/structEmotesTextEntry.html":[6,0,1024],
 "de/d20/structEmotesTextEntry.html#a2c41c957524b31ad9f7fa361ec0e9d01":[6,0,1024,0],
@@ -70,18 +71,18 @@ var NAVTREEINDEX367 =
 "de/d24/MySQLPreparedStatement_8h.html":[7,0,0,0,1,1,0,18],
 "de/d24/cs__send_8cpp.html":[7,0,0,0,1,3,0,41],
 "de/d24/cs__send_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,41,1],
-"de/d24/structWMO_1_1MODD.html":[6,0,11,0],
 "de/d24/structWMO_1_1MODD.html":[5,0,32,0],
-"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,11,0,0],
+"de/d24/structWMO_1_1MODD.html":[6,0,11,0],
 "de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[5,0,32,0,0],
+"de/d24/structWMO_1_1MODD.html#a379e4cf61345dbb4d93da5a8603138c0":[6,0,11,0,0],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[5,0,32,0,3],
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,11,0,3],
-"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,11,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,32,0,1],
+"de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,11,0,1],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,32,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,11,0,4],
-"de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,32,0,2],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[6,0,11,0,2],
+"de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,32,0,2],
 "de/d24/structnpc__demon__chain.html":[6,0,1757],
 "de/d24/structnpc__demon__chain.html#a27007fdff0d685b0a38a0b98820b95fb":[6,0,1757,2],
 "de/d24/structnpc__demon__chain.html#a35d1b7de8612f11cdf61b9d663990686":[6,0,1757,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a581436335d190466520c07fde56ad441":[6,0,1176,0,1],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#a9b4af48363a6d3194a22312fafa48587":[6,0,1176,0,3],
 "de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#aa2c83296cbe8d49de7bc7262b792e8b3":[6,0,1176,0,4],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1176,0,5],
-"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875":[6,0,1176,0,2]
+"de/d28/structgo__ossirian__crystal_1_1go__ossirian__crystalAI.html#abd96d9b4f2c5f41e4a85606b22e1b0cf":[6,0,1176,0,5]
 };

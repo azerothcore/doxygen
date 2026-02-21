@@ -1,6 +1,6 @@
 var NAVTREEINDEX95 =
 {
-"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[6,0,0,4,0,5,2],
+"d3/d2b/structAcore_1_1Hyperlinks_1_1LinkTags_1_1quest.html#a7a25abd4fae2f7411db0dd7f278235fc":[5,0,1,7,0,5,2],
 "d3/d2b/structnpc__dragonflayer__forge__master.html":[6,0,1767],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a27b5988d777347832795581b0186c09f":[6,0,1767,5],
 "d3/d2b/structnpc__dragonflayer__forge__master.html#a35962dcbbef32dbc7f63dfa33cffd4b4":[6,0,1767,4],

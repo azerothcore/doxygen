@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"d6/d7d/classDynamicMapTree.html#ac10680b14e3849bd17926cef24765d9d":[6,0,1010,5],
 "d6/d7d/classDynamicMapTree.html#ae1abe2e5e0464f2cfc6b87338698983d":[6,0,1010,0],
 "d6/d7d/classDynamicMapTree.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e":[6,0,1010,10],
 "d6/d7d/structnpc__nether__drake_1_1npc__nether__drakeAI.html":[6,0,2004,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a256fd25f172fa42871e6171e67568f28":[7,0,0,0,1,3,5,21,30,23],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a26034173423f784199af35484b89f487":[7,0,0,0,1,3,5,21,30,10],
 "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a31d9d300cdaf55e35fe5e82398aab206":[7,0,0,0,1,3,5,21,30,2],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a33886550fcce093bd39450d188489113":[7,0,0,0,1,3,5,21,30,24],
-"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a40caac803a16ce93df2fbf68fe9042f7":[7,0,0,0,1,3,5,21,30,11]
+"d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a33886550fcce093bd39450d188489113":[7,0,0,0,1,3,5,21,30,24]
 };

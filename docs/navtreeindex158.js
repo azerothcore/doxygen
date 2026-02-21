@@ -1,5 +1,6 @@
 var NAVTREEINDEX158 =
 {
+"d5/dc7/structSpellEntry.html#a5d389c378263cdd630baaee4ff27f0f7":[6,0,4368,77],
 "d5/dc7/structSpellEntry.html#a5dc75f632a583e7d59c9fd780d939246":[6,0,4368,49],
 "d5/dc7/structSpellEntry.html#a6092f385a545aa33ba1e5ee28d21e92a":[6,0,4368,48],
 "d5/dc7/structSpellEntry.html#a60af17b22d7c7fe6266828c70bb94aa7":[6,0,4368,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX158 =
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#aa4578cdbe41d28e399247c84c9fe8049":[6,0,2050,4],
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#ac274b9edb03ab13a8e95d8c4fe5055db":[6,0,2050,2],
 "d5/dce/structnpc__pet__shaman__fire__elemental.html#aef4865f83ce0c73efe0c47a11ac87594":[6,0,2050,1],
-"d5/dcf/culling__of__stratholme_8h.html":[7,0,0,0,1,3,4,1,1,6],
-"d5/dcf/culling__of__stratholme_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,1,1,6,1]
+"d5/dcf/culling__of__stratholme_8h.html":[7,0,0,0,1,3,4,1,1,6]
 };

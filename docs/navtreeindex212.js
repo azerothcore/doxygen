@@ -1,5 +1,6 @@
 var NAVTREEINDEX212 =
 {
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896adf6298eb039524594716cc25380b3130":[7,0,0,0,1,2,16,10,6,9,32],
 "d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ae09f1e65fc67ab538618acf8b4296624":[7,0,0,0,1,2,16,10,6,9,27],
 "d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ae2636cae27f7df24274545b9d1ac50d6":[7,0,0,0,1,2,16,10,6,9,16],
 "d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896aec251370b4b0299e500daf6c4be91821":[7,0,0,0,1,2,16,10,6,9,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX212 =
 "d7/df3/classspell__algalon__big__bang.html#a716bcf5bb0a24f9a57534c9dafb1a56f":[6,0,2615,2],
 "d7/df3/classspell__algalon__big__bang.html#a9340c167ef70508635092e273c23dcde":[6,0,2615,0],
 "d7/df3/classspell__algalon__big__bang.html#a996db37b678143fbc0a392032d29fff5":[6,0,2615,1],
-"d7/df3/classspell__algalon__big__bang.html#ac780614674e748274081f9f99a5165fe":[6,0,2615,5],
-"d7/df3/classspell__algalon__big__bang.html#aed312a4408134589fd02bbcb844fd1b7":[6,0,2615,4]
+"d7/df3/classspell__algalon__big__bang.html#ac780614674e748274081f9f99a5165fe":[6,0,2615,5]
 };

@@ -1,9 +1,10 @@
 var NAVTREEINDEX181 =
 {
+"d6/d96/classDBCFile_1_1Record.html#a51a9cc006bb8530fe76452c1bbe7985c":[6,0,968,3,1],
 "d6/d96/classDBCFile_1_1Record.html#a56d48f82a62e25038bf9cf339e608083":[6,0,968,3,13],
 "d6/d96/classDBCFile_1_1Record.html#a6c4f02b14caa99337bbe77b30e5615ab":[6,0,968,3,12],
-"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,968,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,968,3,5],
+"d6/d96/classDBCFile_1_1Record.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747":[6,0,968,3,6],
 "d6/d96/classDBCFile_1_1Record.html#a9830fc407400559db7e7783cc10a9394":[6,0,968,3,14],
 "d6/d96/classDBCFile_1_1Record.html#ab1897952fa01e930caffa262519645c5":[6,0,968,3,2],
 "d6/d96/classDBCFile_1_1Record.html#ace0215b88ffbaf83c69a82cde51cd45f":[6,0,968,3,9],
@@ -170,14 +171,14 @@ var NAVTREEINDEX181 =
 "d6/d9c/zone__bloodmyst__isle_8cpp.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3":[7,0,0,0,1,3,4,16,2,0],
 "d6/d9c/zone__bloodmyst__isle_8cpp.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d":[7,0,0,0,1,3,4,16,4],
 "d6/d9d/EventMap_8cpp.html":[7,0,0,0,0,15,9],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,33,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[6,0,12,11,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,11,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,33,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,33,11,4,1],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,33,11,4,5],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[6,0,12,11,4,5],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[6,0,12,11,4,3],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,33,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,33,11,4,3],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[6,0,12,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[6,0,12,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[5,0,33,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,33,11,4,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX181 =
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a16eeb7d0ed6c943c088285462131cd51":[6,0,1992,0,1],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a19b42ca678e7bf93c86891b4ea0a2dce":[6,0,1992,0,4],
 "d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1ae2393871e0f4ebeb86521f06959a7a":[6,0,1992,0,5],
-"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1cbd87af34584979b37dfff8b29f9623":[6,0,1992,0,7],
-"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a4313164857ebd174fe33a9a16340b332":[6,0,1992,0,0]
+"d6/da2/structnpc__muradin__bronzebeard__icc_1_1npc__muradin__bronzebeard__iccAI.html#a1cbd87af34584979b37dfff8b29f9623":[6,0,1992,0,7]
 };

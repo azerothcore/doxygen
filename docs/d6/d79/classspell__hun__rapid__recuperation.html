@@ -328,21 +328,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1405</span>    {</div>
-<div class="line"><span class="lineno"> 1406</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* procSpell = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno"> 1407</span>        <span class="keywordflow">if</span> (!procSpell)</div>
-<div class="line"><span class="lineno"> 1408</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1409</span> </div>
-<div class="line"><span class="lineno"> 1410</span>        <span class="comment">// This effect only from Rapid Killing (mana regen)</span></div>
-<div class="line"><span class="lineno"> 1411</span>        <span class="keywordflow">return</span> (procSpell-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[1] &amp; 0x01000000) != 0;</div>
-<div class="line"><span class="lineno"> 1412</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1408</span>    {</div>
+<div class="line"><span class="lineno"> 1409</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* procSpell = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno"> 1410</span>        <span class="keywordflow">if</span> (!procSpell)</div>
+<div class="line"><span class="lineno"> 1411</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1412</span> </div>
+<div class="line"><span class="lineno"> 1413</span>        <span class="comment">// This effect only from Rapid Killing (mana regen)</span></div>
+<div class="line"><span class="lineno"> 1414</span>        <span class="keywordflow">return</span> (procSpell-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[1] &amp; 0x01000000) != 0;</div>
+<div class="line"><span class="lineno"> 1415</span>    }</div>
 <div class="ttc" id="aclassProcEventInfo_html_a759add2c89e786125196eb6bd3b20c6d"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">ProcEventInfo::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> Unit.cpp:281</div></div>
 <div class="ttc" id="aclassSpellInfo_html"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html">SpellInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:316</div></div>
 <div class="ttc" id="aclassSpellInfo_html_a30452de2bd62607418f3962d00124144"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellInfo::SpellFamilyFlags</a></div><div class="ttdeci">flag96 SpellFamilyFlags</div><div class="ttdef"><b>Definition</b> SpellInfo.h:388</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00281">ProcEventInfo::GetSpellInfo()</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01432">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01435">Register()</a>.</p>
 
 </div>
 </div>
@@ -369,22 +369,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1415</span>    {</div>
-<div class="line"><span class="lineno"> 1416</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 1417</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> triggeredSpell = 0;</div>
-<div class="line"><span class="lineno"> 1418</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;Id)</div>
-<div class="line"><span class="lineno"> 1419</span>        {</div>
-<div class="line"><span class="lineno"> 1420</span>            <span class="keywordflow">case</span> 53228: <span class="comment">// Rank 1</span></div>
-<div class="line"><span class="lineno"> 1421</span>                triggeredSpell = <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eabed422935fb9323814241ce5c03ad6c2">SPELL_HUNTER_RAPID_RECUPERATION_R1</a>;</div>
-<div class="line"><span class="lineno"> 1422</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1423</span>            <span class="keywordflow">case</span> 53232: <span class="comment">// Rank 2</span></div>
-<div class="line"><span class="lineno"> 1424</span>                triggeredSpell = <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5da4e17a0898c0430c8ed6311758969c">SPELL_HUNTER_RAPID_RECUPERATION_R2</a>;</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1418</span>    {</div>
+<div class="line"><span class="lineno"> 1419</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 1420</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> triggeredSpell = 0;</div>
+<div class="line"><span class="lineno"> 1421</span>        <span class="keywordflow">switch</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;Id)</div>
+<div class="line"><span class="lineno"> 1422</span>        {</div>
+<div class="line"><span class="lineno"> 1423</span>            <span class="keywordflow">case</span> 53228: <span class="comment">// Rank 1</span></div>
+<div class="line"><span class="lineno"> 1424</span>                triggeredSpell = <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eabed422935fb9323814241ce5c03ad6c2">SPELL_HUNTER_RAPID_RECUPERATION_R1</a>;</div>
 <div class="line"><span class="lineno"> 1425</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1426</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 1427</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1428</span>        }</div>
-<div class="line"><span class="lineno"> 1429</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), triggeredSpell, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1430</span>    }</div>
+<div class="line"><span class="lineno"> 1426</span>            <span class="keywordflow">case</span> 53232: <span class="comment">// Rank 2</span></div>
+<div class="line"><span class="lineno"> 1427</span>                triggeredSpell = <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5da4e17a0898c0430c8ed6311758969c">SPELL_HUNTER_RAPID_RECUPERATION_R2</a>;</div>
+<div class="line"><span class="lineno"> 1428</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1429</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 1430</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1431</span>        }</div>
+<div class="line"><span class="lineno"> 1432</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), triggeredSpell, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1433</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
@@ -395,7 +395,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00075">SPELL_HUNTER_RAPID_RECUPERATION_R1</a>, and <a class="el" href="../../#l00076">SPELL_HUNTER_RAPID_RECUPERATION_R2</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01432">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01435">Register()</a>.</p>
 
 </div>
 </div>
@@ -449,18 +449,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1433</span>    {</div>
-<div class="line"><span class="lineno"> 1434</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/d79/classspell__hun__rapid__recuperation.html#a5f44528c89f15aba22081906c2675b58">spell_hun_rapid_recuperation::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 1435</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d6/d79/classspell__hun__rapid__recuperation.html#ad3e1eb048deb0ebe404d98d6bf1452a9">spell_hun_rapid_recuperation::HandleProc</a>);</div>
-<div class="line"><span class="lineno"> 1436</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1436</span>    {</div>
+<div class="line"><span class="lineno"> 1437</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d6/d79/classspell__hun__rapid__recuperation.html#a5f44528c89f15aba22081906c2675b58">spell_hun_rapid_recuperation::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 1438</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d6/d79/classspell__hun__rapid__recuperation.html#ad3e1eb048deb0ebe404d98d6bf1452a9">spell_hun_rapid_recuperation::HandleProc</a>);</div>
+<div class="line"><span class="lineno"> 1439</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a05a51498d234bccc0ab35a047edc3417"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a></div><div class="ttdeci">#define AuraProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:855</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:829</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:828</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae83ae85373b045e22b5c20ec574f701b"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">AuraScript::OnProc</a></div><div class="ttdeci">HookList&lt; AuraProcHandler &gt; OnProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:850</div></div>
-<div class="ttc" id="aclassspell__hun__rapid__recuperation_html_a5f44528c89f15aba22081906c2675b58"><div class="ttname"><a href="../../d6/d79/classspell__hun__rapid__recuperation.html#a5f44528c89f15aba22081906c2675b58">spell_hun_rapid_recuperation::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:1404</div></div>
-<div class="ttc" id="aclassspell__hun__rapid__recuperation_html_ad3e1eb048deb0ebe404d98d6bf1452a9"><div class="ttname"><a href="../../d6/d79/classspell__hun__rapid__recuperation.html#ad3e1eb048deb0ebe404d98d6bf1452a9">spell_hun_rapid_recuperation::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:1414</div></div>
+<div class="ttc" id="aclassspell__hun__rapid__recuperation_html_a5f44528c89f15aba22081906c2675b58"><div class="ttname"><a href="../../d6/d79/classspell__hun__rapid__recuperation.html#a5f44528c89f15aba22081906c2675b58">spell_hun_rapid_recuperation::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:1407</div></div>
+<div class="ttc" id="aclassspell__hun__rapid__recuperation_html_ad3e1eb048deb0ebe404d98d6bf1452a9"><div class="ttname"><a href="../../d6/d79/classspell__hun__rapid__recuperation.html#ad3e1eb048deb0ebe404d98d6bf1452a9">spell_hun_rapid_recuperation::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:1417</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l01404">CheckProc()</a>, <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l01414">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l01407">CheckProc()</a>, <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l01417">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
 
 </div>
 </div>
@@ -489,9 +489,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1400</span>    {</div>
-<div class="line"><span class="lineno"> 1401</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eabed422935fb9323814241ce5c03ad6c2">SPELL_HUNTER_RAPID_RECUPERATION_R1</a>, <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5da4e17a0898c0430c8ed6311758969c">SPELL_HUNTER_RAPID_RECUPERATION_R2</a> });</div>
-<div class="line"><span class="lineno"> 1402</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1403</span>    {</div>
+<div class="line"><span class="lineno"> 1404</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eabed422935fb9323814241ce5c03ad6c2">SPELL_HUNTER_RAPID_RECUPERATION_R1</a>, <a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5da4e17a0898c0430c8ed6311758969c">SPELL_HUNTER_RAPID_RECUPERATION_R2</a> });</div>
+<div class="line"><span class="lineno"> 1405</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00075">SPELL_HUNTER_RAPID_RECUPERATION_R1</a>, <a class="el" href="../../#l00076">SPELL_HUNTER_RAPID_RECUPERATION_R2</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -507,7 +507,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d79/classspell__hun__rapid__recuperation.html">spell_hun_rapid_recuperation</a></li>
-    <li class="footer">Generated on Fri Feb 20 2026 06:51:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 21 2026 06:37:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

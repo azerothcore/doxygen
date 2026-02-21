@@ -1,5 +1,6 @@
 var NAVTREEINDEX220 =
 {
+"d8/d60/structSavedItem.html#afaa651441e306c13acc3cd1aa3084170":[6,0,2537,2],
 "d8/d61/classspell__galdarah__impaling__charge.html":[6,0,2963],
 "d8/d61/classspell__galdarah__impaling__charge.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9":[6,0,2963,1],
 "d8/d61/classspell__galdarah__impaling__charge.html#a80638966202cb9e27d204ea621e379ef":[6,0,2963,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX220 =
 "d8/d72/classDisableMgr.html":[6,0,995],
 "d8/d72/classDisableMgr.html#a203bb85bc7ecb9be3cf09b5d093b90fa":[6,0,995,6],
 "d8/d72/classDisableMgr.html#a2f9fa5dadf6f2da5f01651d37d996377":[6,0,995,5],
-"d8/d72/classDisableMgr.html#a343955ca73dabce8e7b81bf2803992fc":[6,0,995,4],
-"d8/d72/classDisableMgr.html#a38b182e1836b2197303b2809006f5148":[6,0,995,10]
+"d8/d72/classDisableMgr.html#a343955ca73dabce8e7b81bf2803992fc":[6,0,995,4]
 };

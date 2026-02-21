@@ -1,5 +1,6 @@
 var NAVTREEINDEX406 =
 {
+"df/dc5/structSpell_1_1HitTriggerSpell.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b":[6,0,2605,1,0],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#a82d752dedab39f417af225add6af1403":[6,0,2605,1,2],
 "df/dc5/structSpell_1_1HitTriggerSpell.html#abb48d6093570ba9c5488f200544a1e83":[6,0,2605,1,1],
 "df/dc5/structTransportTemplate.html":[6,0,4496],
@@ -27,8 +28,8 @@ var NAVTREEINDEX406 =
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,33,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,33,2,1,0],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,12,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,33,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[6,0,814],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[6,0,814,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[6,0,814,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX406 =
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6a4111a8d84329485d17627a1c193db6":[7,0,0,0,1,3,9,10,61,47],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6b6e0fd0d2236e9fe5d81342e366c3ad":[7,0,0,0,1,3,9,10,61,36],
 "df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6f2782ccadb2ef2e7d49e706fc9e6b9a":[7,0,0,0,1,3,9,10,61,39],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6fb9400642e58b5db66f36336fdcd3ae":[7,0,0,0,1,3,9,10,61,27],
-"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a71b0a26925bb4da743c652f284727ab1":[7,0,0,0,1,3,9,10,61,12]
+"df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a6fb9400642e58b5db66f36336fdcd3ae":[7,0,0,0,1,3,9,10,61,27]
 };

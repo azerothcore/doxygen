@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[7,0,0,0,1,3,2,12,1,10,15],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298cadb72665839c4e1a455c082fd2ab65b43":[7,0,0,0,1,3,2,12,1,10,7],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caec57de7e481929d26fa6506cbb20e282":[7,0,0,0,1,3,2,12,1,10,2],
 "dc/dd6/boss__eredar__twins_8cpp.html#a5bd342133be8c2137b831460acc9298caf14cdba1aaf9fbfbd5b94c608513b872":[7,0,0,0,1,3,2,12,1,10,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,0,2,3],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca1fc3be82e9a8514a5089e65196f551b9":[7,0,0,0,1,3,7,0,0,2,3,0],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca48d446990e90d957ef0ee5d0da098c8f":[7,0,0,0,1,3,7,0,0,2,3,2],
-"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca1de3d76595bb0c4e35568eaa92ec":[7,0,0,0,1,3,7,0,0,2,3,3],
-"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca5dff932661b864d3df21370e3cdee19f":[7,0,0,0,1,3,7,0,0,2,3,1]
+"dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dca1de3d76595bb0c4e35568eaa92ec":[7,0,0,0,1,3,7,0,0,2,3,3]
 };

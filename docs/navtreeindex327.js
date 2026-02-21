@@ -1,5 +1,6 @@
 var NAVTREEINDEX327 =
 {
+"dc/de6/structboss__skarvald__the__constructor.html":[6,0,715],
 "dc/de6/structboss__skarvald__the__constructor.html#a28837280e161f6971564a4725c97a154":[6,0,715,7],
 "dc/de6/structboss__skarvald__the__constructor.html#a32d092ecf17aaafc61cefb4c0efce639":[6,0,715,0],
 "dc/de6/structboss__skarvald__the__constructor.html#a529439d257abf78f76db0043549964e6":[6,0,715,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX327 =
 "dc/df7/classspell__alar__ember__blast.html#a09d4af96e2d5a69b1b61a6055bcb04d4":[6,0,2612,2],
 "dc/df7/classspell__alar__ember__blast.html#a6590aab70049aa5e94ed48aeb99ab1d0":[6,0,2612,1],
 "dc/df7/classspell__alar__ember__blast.html#a912dc3b17ab7d0818089c32610d82a16":[6,0,2612,0],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html":[6,0,4312],
-"dc/df7/classspell__wg__reduce__damage__by__distance.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39":[6,0,4312,2]
+"dc/df7/classspell__wg__reduce__damage__by__distance.html":[6,0,4312]
 };

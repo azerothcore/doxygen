@@ -1,5 +1,6 @@
 var NAVTREEINDEX258 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a68f64263ab9715e5f33284b9992e8916":[7,0,0,0,1,2,41,0,0,6,49],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a69829b5093944e4f9eab44cc3f4db203":[7,0,0,0,1,2,41,0,0,6,156],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6a5808394c990e4ab270f17bc9415b16":[7,0,0,0,1,2,41,0,0,6,58],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6b0ccd5195567a4744da1763b92159e3":[7,0,0,0,1,2,41,0,0,6,201],
@@ -248,6 +249,5 @@ var NAVTREEINDEX258 =
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#ac83c25091fdd3c7876a88927b758261f":[6,0,1903,0,6],
 "da/d30/structnpc__imprisoned__beryl__sorcerer_1_1npc__imprisoned__beryl__sorcererAI.html#aedc82ee3bfa193a838d5af62533e19b4":[6,0,1903,0,3],
 "da/d32/classBattlegroundRL.html":[6,0,343],
-"da/d32/classBattlegroundRL.html#a2d03a49dee964bcaa3421a93d0735e63":[6,0,343,3],
-"da/d32/classBattlegroundRL.html#a3393353028ffd35eaad1d5e121654366":[6,0,343,4]
+"da/d32/classBattlegroundRL.html#a2d03a49dee964bcaa3421a93d0735e63":[6,0,343,3]
 };

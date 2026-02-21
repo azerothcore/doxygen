@@ -1,5 +1,6 @@
 var NAVTREEINDEX290 =
 {
+"db/d82/classspell__azjol__nerub__web__wrap__aura.html#a54b1de501bdf3193cdb89125bc1ceb0e":[6,0,2658,1],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#a985ad6d7eca06fbaf869e591136f46a3":[6,0,2658,2],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#aa794b76c4d9590b867dda57f02724d95":[6,0,2658,3],
 "db/d82/classspell__azjol__nerub__web__wrap__aura.html#afb0821bc8774e634eefdd87efe6af945":[6,0,2658,0],
@@ -197,14 +198,14 @@ var NAVTREEINDEX290 =
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[7,0,0,0,1,3,5,10,0,4,10],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045":[7,0,0,0,1,3,5,10,0,4,5],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[7,0,0,0,1,3,5,10,0,4,5,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,12,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,33,13,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,12,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,12,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,33,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,33,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,12,13,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,33,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,33,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,12,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,33,13,1,1],
 "db/d89/classboss__ambassador__flamelash.html":[6,0,382],
 "db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,382,2],
 "db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,382,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX290 =
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a98e1490705f74627cf9e5483857f3f25":[6,0,2540,1,5],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aa785f3badb9c898d24efdf6d42fb8a7f":[6,0,2540,1,1],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#aec44e315616920ba8224be8c4831f5e9":[6,0,2540,1,3],
-"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6],
-"db/d8b/ItemTemplate_8h.html#a02411d2e55d8ffa000a775af803d54b8":[7,0,0,0,1,2,16,4,6,26]
+"db/d8b/ItemTemplate_8h.html":[7,0,0,0,1,2,16,4,6]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54dacc4ffe7b205218ccc654348ce28d4f35":[7,0,0,0,1,3,5,8,1,6,4,5],
 "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54dae4fca92f29b9412c3bf4071379b29517":[7,0,0,0,1,3,5,8,1,6,4,1],
 "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54daebb24d597c6a19870c2729bebcd6392c":[7,0,0,0,1,3,5,8,1,6,4,3],
 "dc/d30/nexus_8h.html#a213e9ce155baf17b6147afe6a069d54daf5b0aa3e69e1cde75a96eea26041c666":[7,0,0,0,1,3,5,8,1,6,4,13],
@@ -21,10 +22,10 @@ var NAVTREEINDEX313 =
 "dc/d31/classOutdoorPvP__terokkar__forest.html#acf268293812d7a1a233e7f1fcba1e733":[6,0,2363,1],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[6,0,0,5,2,3],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html":[5,0,1,8,2,3],
-"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[5,0,1,8,2,3,0],
-"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
+"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#a6992aa92f56607d9546dae7ab5d1af74":[6,0,0,5,2,3,0],
 "dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[5,0,1,8,2,3,1],
+"dc/d31/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__ic7820601ba1b3616d1ff51bf56f4d77c.html#abf8940ea78f2f947274a2653da04b0a3":[6,0,0,5,2,3,1],
 "dc/d32/BuiltInConfig_8h.html":[7,0,0,0,0,2,1],
 "dc/d32/BuiltInConfig_8h.html#a84544d0c16175b62a0894c34fee2b6d7":[7,0,0,0,0,2,1,3],
 "dc/d32/BuiltInConfig_8h.html#abdfee61576e0a7c64d7bb6a516ab69b7":[7,0,0,0,0,2,1,2],
@@ -112,12 +113,12 @@ var NAVTREEINDEX313 =
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html":[5,0,1,35],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[6,0,0,23,0],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a212c308a02716ff382e820e86e233ed3":[5,0,1,35,0],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,23,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[5,0,1,35,3],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#a2f2483cf7078681cb3acf28560e61184":[6,0,0,23,3],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[6,0,0,23,5],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aa2223ad31acf47a1608ded6b5cbc2f03":[5,0,1,35,5],
-"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,23,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[5,0,1,35,4],
+"dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#aba0bf4c320a684b68743a06e724a369e":[6,0,0,23,4],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[6,0,0,23,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#adcc69b9ef03a68aa235e40449a80b701":[5,0,1,35,2],
 "dc/d33/classAcore_1_1AnyDeadUnitSpellTargetInRangeCheck.html#af328df880d17a62e2dbed0ff4231fc39":[6,0,0,23,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "dc/d37/cs__lookup_8cpp.html":[7,0,0,0,1,3,0,27],
 "dc/d37/cs__lookup_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,27,1],
 "dc/d38/classspell__ahune__spanky__hands.html":[6,0,2609],
-"dc/d38/classspell__ahune__spanky__hands.html#a03b2be5894d489a6021aff2744aee0e0":[6,0,2609,0],
-"dc/d38/classspell__ahune__spanky__hands.html#a0ff401cd6d8e32ff458b7383b76a92a1":[6,0,2609,1]
+"dc/d38/classspell__ahune__spanky__hands.html#a03b2be5894d489a6021aff2744aee0e0":[6,0,2609,0]
 };

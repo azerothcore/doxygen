@@ -1,5 +1,6 @@
 var NAVTREEINDEX314 =
 {
+"dc/d38/classspell__ahune__spanky__hands.html#a0ff401cd6d8e32ff458b7383b76a92a1":[6,0,2609,1],
 "dc/d38/classspell__ahune__spanky__hands.html#a804e1bc3d570d28cb2e06155054f3169":[6,0,2609,2],
 "dc/d38/classspell__ahune__spanky__hands.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb":[6,0,2609,3],
 "dc/d39/FollowerReference_8cpp.html":[7,0,0,0,1,2,31,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX314 =
 "dc/d48/structRangeSelector.html#a9dcf455d9db8d32aaebfc46eee36e1b5":[6,0,2500,2],
 "dc/d48/structRangeSelector.html#ac1ce7a7a7ad6d033972b449867a1c5bf":[6,0,2500,5],
 "dc/d48/structRangeSelector.html#ac68f7dfefe2e71942a3dfff7026a7ae7":[6,0,2500,6],
-"dc/d48/structnpc__drakonid__spawner.html":[6,0,1770],
-"dc/d48/structnpc__drakonid__spawner.html#a2b657e800dc5cc30c618391413ded116":[6,0,1770,0]
+"dc/d48/structnpc__drakonid__spawner.html":[6,0,1770]
 };

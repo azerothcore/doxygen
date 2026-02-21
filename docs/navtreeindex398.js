@@ -1,5 +1,6 @@
 var NAVTREEINDEX398 =
 {
+"df/d6f/structboss__thorim__arena__npcs.html#a3fa38189c886a486aabb39a372834938":[6,0,746,4],
 "df/d6f/structboss__thorim__arena__npcs.html#a6a8489763ca223c749aa71c2da05b3cf":[6,0,746,5],
 "df/d6f/structboss__thorim__arena__npcs.html#a7b118ec6fa25c0f452419d1f5b4a698f":[6,0,746,3],
 "df/d6f/structboss__thorim__arena__npcs.html#a849567e412254aa8d0d7da33b6b1522f":[6,0,746,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX398 =
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a9356f21962b312eccfba1b3e75afaba0":[6,0,688,0,6],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#a99d88373a20464fac3ebf035430c2e75":[6,0,688,0,8],
 "df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa007ed2c05914b1ce664d347bb04abaa":[6,0,688,0,11],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa34831a7c2986451ff518a76547edecc":[6,0,688,0,3],
-"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aaa273c65b0545931797057ca4cdab1eb":[6,0,688,0,5]
+"df/d7a/structboss__rotface_1_1boss__rotfaceAI.html#aa34831a7c2986451ff518a76547edecc":[6,0,688,0,3]
 };

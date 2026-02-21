@@ -1,5 +1,6 @@
 var NAVTREEINDEX403 =
 {
+"df/da3/classspell__kiljaeden__shield__of__the__blue.html#a8157e8d305bc9d7da23815ae7e684a05":[6,0,3517,0],
 "df/da3/classspell__kiljaeden__shield__of__the__blue.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a":[6,0,3517,2],
 "df/da3/classspell__kiljaeden__shield__of__the__blue.html#ae06b9dc2d00998ce288f015bfc04b323":[6,0,3517,1],
 "df/da4/boss__loken_8cpp.html":[7,0,0,0,1,3,5,9,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX403 =
 "df/da7/classBattleground.html#abfc03a1069a605e73dec57112485b974":[6,0,322,157],
 "df/da7/classBattleground.html#ac29aa14e9956d7010ded02343b8e3e67":[6,0,322,226],
 "df/da7/classBattleground.html#ac3c9c898181cfd9a2cddc451d26c6bbe":[6,0,322,16],
-"df/da7/classBattleground.html#ac3f9a4369413692efa8bfc5a4c73df47":[6,0,322,181],
-"df/da7/classBattleground.html#ac781c38088ff24a56723d4c8d60dca94":[6,0,322,108]
+"df/da7/classBattleground.html#ac3f9a4369413692efa8bfc5a4c73df47":[6,0,322,181]
 };

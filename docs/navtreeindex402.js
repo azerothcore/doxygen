@@ -1,5 +1,6 @@
 var NAVTREEINDEX402 =
 {
+"df/d9b/structboss__jarien.html#abce9540798dbae1026d1c74bfeb111a6":[6,0,565,8],
 "df/d9b/structboss__jarien.html#ac85ca96b42aa5115500bd24454f84209":[6,0,565,5],
 "df/d9b/structboss__jarien.html#acf7157ec7af7356beddc8a2429177b95":[6,0,565,6],
 "df/d9b/structboss__jarien.html#ae0c943c970990b055ebc8c31d81a7198":[6,0,565,10],
@@ -127,14 +128,14 @@ var NAVTREEINDEX402 =
 "df/d9e/structMMAP_1_1MeshData.html#a58350c36d5b88fe255880f6c217d4ef9":[6,0,6,5,3],
 "df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[5,0,21,5,5],
 "df/d9e/structMMAP_1_1MeshData.html#a706feac90bb398da61296bac9d0b7176":[6,0,6,5,5],
-"df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[6,0,6,5,7],
 "df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[5,0,21,5,7],
+"df/d9e/structMMAP_1_1MeshData.html#a8c819b625f1bb0b21bb756144b2e1266":[6,0,6,5,7],
 "df/d9e/structMMAP_1_1MeshData.html#a915387c2cfa7111de4a957646a2aace4":[6,0,6,5,9],
 "df/d9e/structMMAP_1_1MeshData.html#a915387c2cfa7111de4a957646a2aace4":[5,0,21,5,9],
 "df/d9e/structMMAP_1_1MeshData.html#ad166656bfa449d3093cb23e7bef2cc76":[5,0,21,5,0],
 "df/d9e/structMMAP_1_1MeshData.html#ad166656bfa449d3093cb23e7bef2cc76":[6,0,6,5,0],
-"df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[5,0,21,5,8],
 "df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[6,0,6,5,8],
+"df/d9e/structMMAP_1_1MeshData.html#adb04d376bfa182cf9666689e6c5a7c68":[5,0,21,5,8],
 "df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[6,0,6,5,6],
 "df/d9e/structMMAP_1_1MeshData.html#af5af113433bb2776e6735195e57ab6f7":[5,0,21,5,6],
 "df/d9e/structMMAP_1_1MeshData.html#afbbb20fcb4e597c2addcc47893a33f92":[6,0,6,5,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX402 =
 "df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#ab3c1c19817576cc4348fd2020a6aad14":[6,0,1986,0,3],
 "df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#ae5fd3c974a3f32540b2dee6b92cd4f7c":[6,0,1986,0,0],
 "df/da2/structnpc__mistress__of__pain_1_1npc__mistress__of__painAI.html#ae60f294f902a2f687446f7599d071e42":[6,0,1986,0,2],
-"df/da3/classspell__kiljaeden__shield__of__the__blue.html":[6,0,3517],
-"df/da3/classspell__kiljaeden__shield__of__the__blue.html#a8157e8d305bc9d7da23815ae7e684a05":[6,0,3517,0]
+"df/da3/classspell__kiljaeden__shield__of__the__blue.html":[6,0,3517]
 };

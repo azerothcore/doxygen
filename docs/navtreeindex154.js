@@ -1,5 +1,6 @@
 var NAVTREEINDEX154 =
 {
+"d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235":[7,0,0,0,1,3,5,9,1,4,4],
 "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a0fd4c992b4e05db440cc0ea73c4ffaad":[7,0,0,0,1,3,5,9,1,4,4,0],
 "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a557fa0e4f73adcfd231bf8165ef38c5c":[7,0,0,0,1,3,5,9,1,4,4,4],
 "d5/d9e/halls__of__stone_8h.html#a7569620d66559dad194b4764f6faf235a64d4ad26625abea66c3fff0d170d0912":[7,0,0,0,1,3,5,9,1,4,4,10],
@@ -49,10 +50,10 @@ var NAVTREEINDEX154 =
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a0906cdad65a5b11dc6a8829ace8f135b":[6,0,0,32,1],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[5,0,1,44,2],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#a834214b260576a0fe01908a163428757":[6,0,0,32,2],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,1,44,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[6,0,0,32,0],
-"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[6,0,0,32,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#ab96cd47c1a4c585e52590b94cf8ff021":[5,0,1,44,0],
 "d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[5,0,1,44,3],
+"d5/d9f/classAcore_1_1AnyUnitInObjectRangeCheck.html#acc546656dbe9a405023ba56b028c8420":[6,0,0,32,3],
 "d5/da0/TicketMgr_8h.html":[7,0,0,0,1,2,43,1],
 "d5/da0/TicketMgr_8h.html#a20db6dadbe20767eb03327894588c7be":[7,0,0,0,1,2,43,1,2],
 "d5/da0/TicketMgr_8h.html#a4c0ab886570eedf7c4ab55ac06a3ce40":[7,0,0,0,1,2,43,1,10],
@@ -239,15 +240,14 @@ var NAVTREEINDEX154 =
 "d5/da8/structnpc__pet__gen__target__following__bomb.html#ac68f18d68a313623c04e885f9506f287":[6,0,2041,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[6,0,12,12,5],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html":[5,0,33,12,5],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,12,12,5,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[5,0,33,12,5,2],
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a3c04543dcd5382682654b3860b84c6a3":[6,0,12,12,5,2],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[5,0,33,12,5,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a5c94e7acc04efbb2a50695ed4fdf7036":[6,0,12,12,5,1],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[6,0,12,12,5,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#a9afcd8b8bbd2e2fd07bc59219b1a80da":[5,0,33,12,5,4],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[6,0,12,12,5,0],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#ab858647d14031a2a6109d1e923402d08":[5,0,33,12,5,0],
-"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,33,12,5,3],
 "d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[6,0,12,12,5,3],
-"d5/dab/boss__faerlina_8cpp.html":[7,0,0,0,1,3,5,7,1]
+"d5/da9/classWorldPackets_1_1Pet_1_1PetSpellAutocast.html#aeed828abebf683078ee61204c91e28c9":[5,0,33,12,5,3]
 };

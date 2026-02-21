@@ -1,5 +1,6 @@
 var NAVTREEINDEX190 =
 {
+"d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad1729d180ff95f67da7db9ff5be43192":[7,0,0,0,1,3,5,25,15,42],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad2363acf76becae4c3b4e013387c21d1":[7,0,0,0,1,3,5,25,15,26],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad2a38733ab9b03933460a9f6e6b63dea":[7,0,0,0,1,3,5,25,15,52],
 "d7/d1f/zone__zuldrak_8cpp.html#a897271137fb114f6818b67b51fb7b225ad4e62e2b63f9d6f8e249ee9540343932":[7,0,0,0,1,3,5,25,15,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,12,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,33,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,12,6,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,33,6,47,7],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,12,6,47,7]
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,33,6,47,7]
 };

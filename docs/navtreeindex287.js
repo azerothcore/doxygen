@@ -1,5 +1,6 @@
 var NAVTREEINDEX287 =
 {
+"db/d6d/classnpc__argent__soldier.html#adfeed3d533104b9617dfbb06925a3d44":[6,0,1631,2],
 "db/d6d/classspell__sha__t9__elemental__4p__bonus.html":[6,0,4054],
 "db/d6d/classspell__sha__t9__elemental__4p__bonus.html#a111fa9ebfc9d9e8f0907635a4ce73bbb":[6,0,4054,2],
 "db/d6d/classspell__sha__t9__elemental__4p__bonus.html#a428e6d1f5e172390986ae8fd85570e21":[6,0,4054,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX287 =
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba049e0d56c3f30d8991dde2beae302c4f":[7,0,0,0,1,3,9,4,203,2],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba22aa014dbddc9e42d31d6fbb92b0aeb8":[7,0,0,0,1,3,9,4,203,3],
 "db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba6043d1df5adcc31fa3205fa20ab0c14c":[7,0,0,0,1,3,9,4,203,1],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9ad2ccfa253f4ce3df97eff0f5e257a7":[7,0,0,0,1,3,9,4,203,5],
-"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9de9ad38a5a101face3812197275230b":[7,0,0,0,1,3,9,4,203,4]
+"db/d6e/spell__item_8cpp.html#a8f2b49bc7734599954c1be2273462bfba9ad2ccfa253f4ce3df97eff0f5e257a7":[7,0,0,0,1,3,9,4,203,5]
 };

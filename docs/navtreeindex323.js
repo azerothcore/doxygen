@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dc/db3/structnpc__dark__iron__guzzler.html#ae195867416885e570c2c9a4837ac33c1":[6,0,1748,11],
 "dc/db3/structnpc__dark__iron__guzzler.html#ae8142b745e493ab4a77b9df12ea9474d":[6,0,1748,5],
 "dc/db3/structnpc__dark__iron__guzzler.html#af608024d4b41fa218a7baeae9bee72ef":[6,0,1748,9],
 "dc/db3/structnpc__dark__iron__guzzler.html#affd1f78b5c1df26824b08416d6bd03a1":[6,0,1748,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a7b0fdaa4f2603db8fd2d0c1ee6975817":[6,0,426,0,6],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a805117db567dd3d529a1c862bc24179c":[6,0,426,0,2],
 "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#a8da6ddc9b1c9f7b145920205046ce095":[6,0,426,0,1],
-"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ab5fe766d46e9445b9e7cfc605073983f":[6,0,426,0,9],
-"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#adb699a22dbf1c14cb80f8fdcca9c6f82":[6,0,426,0,5]
+"dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html#ab5fe766d46e9445b9e7cfc605073983f":[6,0,426,0,9]
 };

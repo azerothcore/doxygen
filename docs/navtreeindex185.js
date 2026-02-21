@@ -1,5 +1,6 @@
 var NAVTREEINDEX185 =
 {
+"d6/dd6/structLogMessage.html#a2dab9ed7c1aa8b784e74247667295e29":[6,0,1461,8],
 "d6/dd6/structLogMessage.html#a44096654072d07e506ef6414a8ce4970":[6,0,1461,7],
 "d6/dd6/structLogMessage.html#a4ad799611980177ae87f3acbf2af8ff7":[6,0,1461,11],
 "d6/dd6/structLogMessage.html#a563286e5cd6518e04b3069a86cf6e972":[6,0,1461,0],
@@ -35,12 +36,12 @@ var NAVTREEINDEX185 =
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a29ffba2a130f0b93d61b2025255502fb":[5,0,33,16,0,5],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[6,0,12,16,0,4],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a657c3043204c6957e8438c3c3c7068f3":[5,0,33,16,0,4],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[6,0,12,16,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[5,0,33,16,0,3],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a98ac08c68b5c004fd352f38c7084531f":[6,0,12,16,0,3],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[6,0,12,16,0,1],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#a9b1f27c7a07df6629473a6e9d6aa45b5":[5,0,33,16,0,1],
-"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[6,0,12,16,0,2],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[5,0,33,16,0,2],
+"d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#ad40588a16c7430a633c0537c82ea3a5b":[6,0,12,16,0,2],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[6,0,12,16,0,6],
 "d6/dd8/classWorldPackets_1_1WorldState_1_1InitWorldStates.html#add07a226b1fe8ea752306b0e04d4ef71":[5,0,33,16,0,6],
 "d6/dd8/classboss__arlokk.html":[6,0,395],
@@ -248,6 +249,5 @@ var NAVTREEINDEX185 =
 "d6/de6/classspell__cthun__digestive__acid.html#a08dce8b98afadc134166a615b4496151":[6,0,2753,0],
 "d6/de6/classspell__cthun__digestive__acid.html#a6a04dbb7c66324e701a8db0ee0334123":[6,0,2753,2],
 "d6/de6/classspell__cthun__digestive__acid.html#a9ebb34665b176e4e60f085da65183d8e":[6,0,2753,1],
-"d6/de6/classspell__gen__bm__on.html":[6,0,2994],
-"d6/de6/classspell__gen__bm__on.html#a800936a311c05236dbd0c9c2f0edd5d9":[6,0,2994,0]
+"d6/de6/classspell__gen__bm__on.html":[6,0,2994]
 };

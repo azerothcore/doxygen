@@ -1,5 +1,6 @@
 var NAVTREEINDEX412 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afbd8594cc3aae74a66b432862d83553e":[7,0,0,0,1,3,5,6,4,53,19],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afc0109827a409e284b0fb6511a97f7eb":[7,0,0,0,1,3,5,6,4,53,23],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afdb1fa14bde94e02d876a13d8acad0ef":[7,0,0,0,1,3,5,6,4,53,17],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af63f90d211bdeb7a5f0187a8fd697e5d":[7,0,0,0,1,3,5,6,4,55],
@@ -176,12 +177,12 @@ var NAVTREEINDEX412 =
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2099,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,10,24],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,30,24],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,30,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,10,24,2],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,30,24,1],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,30,24,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,10,24,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,30,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,30,24,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,10,24,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,30,24,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,30,24,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,10,24,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,736,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX412 =
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140":[7,0,0,0,1,3,7,2,0,3,10,1],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298cac333b108aa95e38cdd7ccf87f4f43302":[7,0,0,0,1,3,7,2,0,3,10,10],
 "df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298cacd701e7f5386c261a69a312f1f2a3ddd":[7,0,0,0,1,3,7,2,0,3,10,12],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,2,0,3,10,3],
-"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,7,2,0,3,10,4]
+"df/de3/boss__leotheras__the__blind_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,2,0,3,10,3]
 };

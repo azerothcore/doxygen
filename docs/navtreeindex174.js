@@ -1,5 +1,6 @@
 var NAVTREEINDEX174 =
 {
+"d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a2fe196b931b02461431911cba7067da3":[7,0,0,0,1,2,7,0,1,25,2],
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567":[7,0,0,0,1,2,7,0,1,25,4],
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a69768f1e4da080ed018a721f207879d2":[7,0,0,0,1,2,7,0,1,25,5],
 "d6/d4f/BattlefieldWG_8h.html#af6456fe46d30e11f415d2482c2861a59a84a413925c8de4a4ce2f24f086211f74":[7,0,0,0,1,2,7,0,1,25,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d59/structnpc__ulduar__arachnopod__destroyer.html#ac634717023bd5827e2b8b1f4c79c6084":[6,0,2229,1],
 "d6/d59/structnpc__ulduar__arachnopod__destroyer.html#acb089a5226af27005ac2356e84e976aa":[6,0,2229,3],
 "d6/d59/structnpc__ulduar__arachnopod__destroyer.html#ae781e2c258ac3ce268821b98ae310a0f":[6,0,2229,8],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html":[7,0,0,0,1,3,6,0],
-"d6/d5a/outdoorpvp__script__loader_8cpp.html#a03015585e7619177355fefd05f85e1c7":[7,0,0,0,1,3,6,0,4]
+"d6/d5a/outdoorpvp__script__loader_8cpp.html":[7,0,0,0,1,3,6,0]
 };

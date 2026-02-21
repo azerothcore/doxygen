@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#a006d67e9e82cce68930b90b00d3555a4":[6,0,3290,3],
 "d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#a07b3b1df6626a9fb657270eb1d9f386a":[6,0,3290,2],
 "d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#a973ccf17f6499bc84306a18b07fcef7b":[6,0,3290,1],
 "d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#aa5d2f7530277a6a4d4a85ec5d244b9bc":[6,0,3290,0],
@@ -63,8 +64,8 @@ var NAVTREEINDEX147 =
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
 "d5/d44/classspell__item__heartpierce__hero.html":[6,0,3381],
 "d5/d44/classspell__item__heartpierce__hero.html#a331d005fdb7ec53b49c1edc46209d8ea":[6,0,3381,1],
 "d5/d44/classspell__item__heartpierce__hero.html#a8a1afed2a17841f52c355214ab49b3af":[6,0,3381,2],
@@ -103,8 +104,8 @@ var NAVTREEINDEX147 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[6,0,3171,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[6,0,3171,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3171,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1815],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528adfbf98e4377ddf5ada53b9d204099c5d":[7,0,0,0,1,3,5,8,2,5,20,7],
 "d5/d4c/oculus_8cpp.html#a222a3a69cee0aa1d09375ffa8e2ab528af541b20e84bf5f579d9e482d7aa8a8be":[7,0,0,0,1,3,5,8,2,5,20,0],
 "d5/d4c/oculus_8cpp.html#aa8f1a8c35b82599cd1ebfc60ae15931c":[7,0,0,0,1,3,5,8,2,5,21],
-"d5/d4c/oculus_8cpp.html#aad8883e78e9afef9daca7491aa162c8c":[7,0,0,0,1,3,5,8,2,5,18],
-"d5/d4c/oculus_8cpp.html#ac3a5c0d6b6a7ab24832adce4fd436e58":[7,0,0,0,1,3,5,8,2,5,19]
+"d5/d4c/oculus_8cpp.html#aad8883e78e9afef9daca7491aa162c8c":[7,0,0,0,1,3,5,8,2,5,18]
 };

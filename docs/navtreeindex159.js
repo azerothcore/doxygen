@@ -1,5 +1,6 @@
 var NAVTREEINDEX159 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,4,1,1,6,1],
 "d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,4,1,1,6,9],
 "d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da1215d1c51cc50051852eac04cd983867":[7,0,0,0,1,3,4,1,1,6,9,1],
 "d5/dcf/culling__of__stratholme_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a":[7,0,0,0,1,3,4,1,1,6,9,5],
@@ -134,14 +135,14 @@ var NAVTREEINDEX159 =
 "d5/dd1/boss__trollgore_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad88a3894187c1d3569f3fcdc6042f664":[7,0,0,0,1,3,5,3,3,6,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[5,0,1,96],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[6,0,0,84],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,96,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,84,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,96,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[6,0,2237],
@@ -248,6 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dd7/classspell__blight__fog.html#a4d81860c41daab44851da605d38b4753":[6,0,2682,0],
 "d5/dd7/classspell__blight__fog.html#a80baaf9b470d7bd5e91dffb3f0442a57":[6,0,2682,2],
 "d5/dd7/classspell__blight__fog.html#a99a7b95b1cf5835aeebe85f398f6e9a4":[6,0,2682,1],
-"d5/dd7/classspell__item__mercurial__shield.html":[6,0,3400],
-"d5/dd7/classspell__item__mercurial__shield.html#a4bacedda40b04934e7473f7a92f6a314":[6,0,3400,2]
+"d5/dd7/classspell__item__mercurial__shield.html":[6,0,3400]
 };

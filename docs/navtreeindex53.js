@@ -1,11 +1,11 @@
 var NAVTREEINDEX53 =
 {
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,33,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[6,0,12,6,5,5],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ad98a20548478fe99f9d6d345c5a3b732":[5,0,33,6,5,5],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[6,0,12,6,5,0],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ada45d7e00efb3bf27afcf9db1ad4d813":[5,0,33,6,5,0],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[5,0,33,6,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[6,0,12,6,5,6],
+"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#ae5d493dd4798e11f02d8f02a57ba4274":[5,0,33,6,5,6],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[6,0,12,6,5,7],
 "d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html#afcc0a78c2f9a3061830679fece476a64":[5,0,33,6,5,7],
 "d2/d20/structnpc__icc__ice__sphere_1_1npc__icc__ice__sphereAI.html":[6,0,1883,0],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX373 =
 {
+"de/d59/LFG_8h.html#a253373c800edd65165575f01c960a500ab209eda24134308ca2745d9e5cc53e9b":[7,0,0,0,1,2,15,1,15,2],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5":[7,0,0,0,1,2,15,1,9],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e":[7,0,0,0,1,2,15,1,9,2],
 "de/d59/LFG_8h.html#a2f2c28e4e9ecf4a98d75b74d622161c5a867e512f38813d5c2df36fb428caf084":[7,0,0,0,1,2,15,1,9,0],
@@ -39,8 +40,8 @@ var NAVTREEINDEX373 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[6,0,3338,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX373 =
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0ad36116acdb19b54b01e4392ba58f7635":[7,0,0,0,1,2,13,1,12,9],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0ada371142bfaa5bc7793731822ce8c76a":[7,0,0,0,1,2,13,1,12,29],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0ada702a41f028d5d341f22027b935ff40":[7,0,0,0,1,2,13,1,12,18],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0add0ddf7c2278950223ec24a30a0a6ed9":[7,0,0,0,1,2,13,1,12,57],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0adf44fb74f8b692087b886d9dd5d1f7b5":[7,0,0,0,1,2,13,1,12,36]
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0add0ddf7c2278950223ec24a30a0a6ed9":[7,0,0,0,1,2,13,1,12,57]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX252 =
 {
+"d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a5f51d62708072679b70f5283207a7158":[7,0,0,0,1,3,5,9,2,16,6,18],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a625ad0393d1c2c5e2c1c0b14e70eaae7":[7,0,0,0,1,3,5,9,2,16,6,19],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a6e4e67f5acfdf1cbdcc4170b654614c8":[7,0,0,0,1,3,5,9,2,16,6,3],
 "d9/df7/ulduar_8h.html#a1b744e1c432c2a71a2d189d99b377a78a7ad35fe0801baa670dc016f0a05e166f":[7,0,0,0,1,3,5,9,2,16,6,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX252 =
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#afc816b7d1c2705675560ddd13ecce22d":[6,0,437,0,10],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html#afefbba70f93142110dcf9d7940d91d2c":[6,0,437,0,7],
 "d9/dfb/structboss__temporus.html":[6,0,731],
-"d9/dfb/structboss__temporus.html#a18a0279036324498a9daf8c7d0296ffc":[6,0,731,4],
-"d9/dfb/structboss__temporus.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7":[6,0,731,3]
+"d9/dfb/structboss__temporus.html#a18a0279036324498a9daf8c7d0296ffc":[6,0,731,4]
 };

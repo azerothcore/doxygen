@@ -1,9 +1,9 @@
 var NAVTREEINDEX27 =
 {
-"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,122,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[6,0,0,110,0],
-"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#acbc0c969db8b768720ab3b8235c28352":[5,0,1,122,0],
 "d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[5,0,1,122,4],
+"d1/d17/classAcore_1_1UnitAuraCheck.html#af553a0c4db5b11ec69ae7fbe9ce5ff78":[6,0,0,110,4],
 "d1/d17/classArenaSeasonMgr.html":[6,0,186],
 "d1/d17/classArenaSeasonMgr.html#a05f9e4be327f8ecb65729cec2d811851":[6,0,186,3],
 "d1/d17/classArenaSeasonMgr.html#a118910793bb11fba35b0cd6b28e248a8":[6,0,186,12],

@@ -1,5 +1,6 @@
 var NAVTREEINDEX242 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a569485612d3567ff98c9ba96dee509d9":[7,0,0,0,1,3,5,6,13,12,11],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a5d85cede3e65752ce2d57d007e4c7109":[7,0,0,0,1,3,5,6,13,12,7],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a63bd5e79a006fc748b7c9a7370af7d32":[7,0,0,0,1,3,5,6,13,12,12],
 "d9/d6a/icecrown__citadel_8h.html#a46b9ee4e863cf031f094f63fa573b0a1a6e3dd2a5d3c89d7629f7b4af1c3e0610":[7,0,0,0,1,3,5,6,13,12,6],
@@ -222,16 +223,16 @@ var NAVTREEINDEX242 =
 "d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[6,0,5,16,1],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,18,16,1],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,18,16,4],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[6,0,5,16,0],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,18,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[6,0,5,16,2],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,18,16,3],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[6,0,5,16,3],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,18,16,3],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html":[6,0,1988,0],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a04624b9b4d552d6b27308edc3ad44644":[6,0,1988,0,2],
 "d9/d6e/structnpc__mootoo__the__younger_1_1npc__mootoo__the__youngerAI.html#a70a5a502dab9a90a790a90eabc5c3acd":[6,0,1988,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX242 =
 "d9/d70/DetourExtended_8cpp.html":[7,0,0,0,0,11,0],
 "d9/d70/classspell__sha__item__lightning__shield__trigger.html":[6,0,4030],
 "d9/d70/classspell__sha__item__lightning__shield__trigger.html#a33cd336a6ca68e66e6046cfdac776fee":[6,0,4030,2],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0":[6,0,4030,0],
-"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a5f2c7d754a37e6ae02d4aaec758841e5":[6,0,4030,3]
+"d9/d70/classspell__sha__item__lightning__shield__trigger.html#a46726e3e05e386892ea86d74d161e8d0":[6,0,4030,0]
 };

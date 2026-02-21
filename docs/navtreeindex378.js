@@ -1,5 +1,6 @@
 var NAVTREEINDEX378 =
 {
+"de/d90/InstanceMapScript_8cpp.html#a1271f70bb9300f8012216659f38edaee":[7,0,0,0,1,2,38,0,57,0],
 "de/d90/OutdoorPvPZM_8h.html":[7,0,0,0,1,3,6,14],
 "de/d90/OutdoorPvPZM_8h.html#a308db265dfb26d8d04ea2b44077d3b42":[7,0,0,0,1,3,6,14,11],
 "de/d90/OutdoorPvPZM_8h.html#a32c62572b4ea0ef1930cffc3e9e2c6fe":[7,0,0,0,1,3,6,14,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX378 =
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766":[7,0,0,0,1,3,4,31,5,11],
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e":[7,0,0,0,1,3,4,31,5,2],
 "de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b":[7,0,0,0,1,3,4,31,5,0],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7":[7,0,0,0,1,3,4,31,5,10],
-"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484":[7,0,0,0,1,3,4,31,5,7]
+"de/d98/zone__ungoro__crater_8cpp.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7":[7,0,0,0,1,3,4,31,5,10]
 };

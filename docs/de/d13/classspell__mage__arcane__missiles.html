@@ -337,10 +337,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1426</span>{ <a class="code hl_variable" href="../../de/d13/classspell__mage__arcane__missiles.html#a26d723ef58e5df2852ce0ef20e1c1bdf">_canProcT10</a> = <span class="keyword">true</span>; }</div>
-<div class="ttc" id="aclassspell__mage__arcane__missiles_html_a26d723ef58e5df2852ce0ef20e1c1bdf"><div class="ttname"><a href="../../de/d13/classspell__mage__arcane__missiles.html#a26d723ef58e5df2852ce0ef20e1c1bdf">spell_mage_arcane_missiles::_canProcT10</a></div><div class="ttdeci">bool _canProcT10</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1429</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1443</span>{ <a class="code hl_variable" href="../../de/d13/classspell__mage__arcane__missiles.html#a26d723ef58e5df2852ce0ef20e1c1bdf">_canProcT10</a> = <span class="keyword">true</span>; }</div>
+<div class="ttc" id="aclassspell__mage__arcane__missiles_html_a26d723ef58e5df2852ce0ef20e1c1bdf"><div class="ttname"><a href="../../de/d13/classspell__mage__arcane__missiles.html#a26d723ef58e5df2852ce0ef20e1c1bdf">spell_mage_arcane_missiles::_canProcT10</a></div><div class="ttdeci">bool _canProcT10</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1446</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01429">_canProcT10</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01446">_canProcT10</a>.</p>
 
 </div>
 </div>
@@ -377,11 +377,11 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1414</span>    {</div>
-<div class="line"><span class="lineno"> 1415</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
-<div class="line"><span class="lineno"> 1416</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a>) &amp;&amp; <a class="code hl_variable" href="../../de/d13/classspell__mage__arcane__missiles.html#a26d723ef58e5df2852ce0ef20e1c1bdf">_canProcT10</a>)</div>
-<div class="line"><span class="lineno"> 1417</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 1418</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1431</span>    {</div>
+<div class="line"><span class="lineno"> 1432</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
+<div class="line"><span class="lineno"> 1433</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a>) &amp;&amp; <a class="code hl_variable" href="../../de/d13/classspell__mage__arcane__missiles.html#a26d723ef58e5df2852ce0ef20e1c1bdf">_canProcT10</a>)</div>
+<div class="line"><span class="lineno"> 1434</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 1435</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
 <div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5946</div></div>
@@ -389,9 +389,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aspell__mage_8cpp_html_ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96"><div class="ttname"><a href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a></div><div class="ttdeci">@ SPELL_MAGE_T10_2P_BONUS</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:65</div></div>
 <div class="ttc" id="aspell__mage_8cpp_html_ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac"><div class="ttname"><a href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a></div><div class="ttdeci">@ SPELL_MAGE_T10_2P_BONUS_EFFECT</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:66</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01429">_canProcT10</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05946">Unit::HasAura()</a>, <a class="el" href="../../#l00065">SPELL_MAGE_T10_2P_BONUS</a>, and <a class="el" href="../../#l00066">SPELL_MAGE_T10_2P_BONUS_EFFECT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01446">_canProcT10</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05946">Unit::HasAura()</a>, <a class="el" href="../../#l00065">SPELL_MAGE_T10_2P_BONUS</a>, and <a class="el" href="../../#l00066">SPELL_MAGE_T10_2P_BONUS_EFFECT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01420">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01437">Register()</a>.</p>
 
 </div>
 </div>
@@ -445,17 +445,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1421</span>    {</div>
-<div class="line"><span class="lineno"> 1422</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../de/d13/classspell__mage__arcane__missiles.html#a52807f94eba44a9b574577a0b27acb22">spell_mage_arcane_missiles::OnRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1423</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1438</span>    {</div>
+<div class="line"><span class="lineno"> 1439</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../de/d13/classspell__mage__arcane__missiles.html#a52807f94eba44a9b574577a0b27acb22">spell_mage_arcane_missiles::OnRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1440</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:86</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:764</div></div>
-<div class="ttc" id="aclassspell__mage__arcane__missiles_html_a52807f94eba44a9b574577a0b27acb22"><div class="ttname"><a href="../../de/d13/classspell__mage__arcane__missiles.html#a52807f94eba44a9b574577a0b27acb22">spell_mage_arcane_missiles::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1413</div></div>
+<div class="ttc" id="aclassspell__mage__arcane__missiles_html_a52807f94eba44a9b574577a0b27acb22"><div class="ttname"><a href="../../de/d13/classspell__mage__arcane__missiles.html#a52807f94eba44a9b574577a0b27acb22">spell_mage_arcane_missiles::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_mage.cpp:1430</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01413">OnRemove()</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l01430">OnRemove()</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -484,9 +484,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1409</span>    {</div>
-<div class="line"><span class="lineno"> 1410</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a>, <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a> });</div>
-<div class="line"><span class="lineno"> 1411</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1426</span>    {</div>
+<div class="line"><span class="lineno"> 1427</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a>, <a class="code hl_enumvalue" href="../../d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a> });</div>
+<div class="line"><span class="lineno"> 1428</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00065">SPELL_MAGE_T10_2P_BONUS</a>, <a class="el" href="../../#l00066">SPELL_MAGE_T10_2P_BONUS_EFFECT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -514,7 +514,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01426">AllowT10Proc()</a>, and <a class="el" href="../../#l01413">OnRemove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01443">AllowT10Proc()</a>, and <a class="el" href="../../#l01430">OnRemove()</a>.</p>
 
 </div>
 </div>
@@ -527,7 +527,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d13/classspell__mage__arcane__missiles.html">spell_mage_arcane_missiles</a></li>
-    <li class="footer">Generated on Fri Feb 20 2026 06:51:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 21 2026 06:38:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

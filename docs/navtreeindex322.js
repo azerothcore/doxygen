@@ -1,14 +1,15 @@
 var NAVTREEINDEX322 =
 {
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,12,9,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,33,9,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,33,9,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,12,9,0,6],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,12,9,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[5,0,33,9,0,1],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,12,9,0,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[6,0,12,9,0,7],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aa14a07716504723283ad80c6357cf53f":[5,0,33,9,0,7],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,12,9,0,5],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[5,0,33,9,0,5],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#aad54be871d0978034fb69a464fd5b9df":[6,0,12,9,0,5],
 "dc/dab/classnear__scarshield__infiltrator.html":[6,0,1575],
 "dc/dab/classnear__scarshield__infiltrator.html#a38d2e75946c429b4d80b007f190406bc":[6,0,1575,0],
 "dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23":[6,0,1575,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "dc/db3/structnpc__dark__iron__guzzler.html#a9748d587b61c148a27be690a6354473f":[6,0,1748,15],
 "dc/db3/structnpc__dark__iron__guzzler.html#aaa4df56f1f587029b24626ae1aca552a":[6,0,1748,7],
 "dc/db3/structnpc__dark__iron__guzzler.html#ac063799097f89c09f30bed79151e8ed6":[6,0,1748,3],
-"dc/db3/structnpc__dark__iron__guzzler.html#ada6c7f97e25eb545926d6531495bb397":[6,0,1748,8],
-"dc/db3/structnpc__dark__iron__guzzler.html#ae195867416885e570c2c9a4837ac33c1":[6,0,1748,11]
+"dc/db3/structnpc__dark__iron__guzzler.html#ada6c7f97e25eb545926d6531495bb397":[6,0,1748,8]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX160 =
 {
+"d5/dd7/classspell__item__mercurial__shield.html#a4bacedda40b04934e7473f7a92f6a314":[6,0,3400,2],
 "d5/dd7/classspell__item__mercurial__shield.html#a9fa37b95f9c3788764922f4414c383f5":[6,0,3400,1],
 "d5/dd7/classspell__item__mercurial__shield.html#ab923050ce4613538ee4837daba09dd33":[6,0,3400,0],
 "d5/dd7/classspell__sha__spirit__walk.html":[6,0,4045],
@@ -248,6 +249,5 @@ var NAVTREEINDEX160 =
 "d5/de7/classinstance__steam__vault.html#a3a2edb84cc7067d3c8fa2151b4763c5a":[6,0,1352,2],
 "d5/de7/classinstance__steam__vault.html#aa3417083841ccb50c8a2f29ba343e115":[6,0,1352,1],
 "d5/de7/structRunes.html":[6,0,2532],
-"d5/de7/structRunes.html#a88c702716eb3032c20ae5ed74922d923":[6,0,2532,1],
-"d5/de7/structRunes.html#a920d32d04ec7e872680a89b0c0a9b0ef":[6,0,2532,0]
+"d5/de7/structRunes.html#a88c702716eb3032c20ae5ed74922d923":[6,0,2532,1]
 };

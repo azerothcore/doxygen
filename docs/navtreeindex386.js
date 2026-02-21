@@ -1,5 +1,6 @@
 var NAVTREEINDEX386 =
 {
+"de/de3/classspell__dk__death__and__decay.html":[6,0,2793],
 "de/de3/classspell__dk__death__and__decay.html#a1fe9f9d4892b0ca8cb6699b555fb9268":[6,0,2793,1],
 "de/de3/classspell__dk__death__and__decay.html#a2585b06bbebf291d170df58daf6fdd4e":[6,0,2793,0],
 "de/de3/classspell__dk__death__and__decay.html#a834484683d2d782b4f4c027091108172":[6,0,2793,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX386 =
 "de/deb/structM2Header.html#a5dd5a1175c8231f1c10233067ef8d4d7":[6,0,1477,1],
 "de/deb/structM2Header.html#a5deb85781f5800c783c95ee7048841f5":[6,0,1477,52],
 "de/deb/structM2Header.html#a5ff3d3bbf18c30d7c647c3211ef95585":[6,0,1477,36],
-"de/deb/structM2Header.html#a64f93f8362a9d229250cab728e66f8de":[6,0,1477,7],
-"de/deb/structM2Header.html#a65999bfae38d96013222370f9828c960":[6,0,1477,61]
+"de/deb/structM2Header.html#a64f93f8362a9d229250cab728e66f8de":[6,0,1477,7]
 };

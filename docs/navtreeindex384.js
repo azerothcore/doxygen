@@ -1,5 +1,6 @@
 var NAVTREEINDEX384 =
 {
+"de/db8/classboss__hakkar.html#a834bd1f223154fbf1be94bf43136da28":[6,0,526,1],
 "de/db8/classboss__hakkar.html#aff3a089e30dcddfde4db372104153723":[6,0,526,2],
 "de/db8/classgo__bashir__crystalforge.html":[6,0,1130],
 "de/db8/classgo__bashir__crystalforge.html#a4aa941ae78a17eecc5593d6ccd17ff63":[6,0,1130,1],
@@ -193,22 +194,22 @@ var NAVTREEINDEX384 =
 "de/dc8/classAuthCrypt.html#ac76e9a59dc6bcef074e3213cecb4c7b8":[6,0,302,3],
 "de/dc8/classAuthCrypt.html#ae67fcb84288ebd120ad71bedc52086c2":[6,0,302,5],
 "de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,302,7],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,1,2,3],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[6,0,0,1,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,1,2,3,0],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,1,2,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,1,2,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,1,2,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,1,2,3,6],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,1,2,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[6,0,0,1,3,6],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,1,2,3,4],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,1,2,3,6],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[6,0,0,1,3,4],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,1,2,3,4],
 "de/dcb/classspell__gen__bonked.html":[6,0,2995],
 "de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[6,0,2995,3],
 "de/dcb/classspell__gen__bonked.html#a466db5b8dc15a196d67dfcbef3d810e1":[6,0,2995,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX384 =
 "de/dcc/zone__thousand__needles_8cpp.html":[7,0,0,0,1,3,4,29],
 "de/dcc/zone__thousand__needles_8cpp.html#a58e024bcebfefe3b44080ac0751c36bd":[7,0,0,0,1,3,4,29,12],
 "de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502":[7,0,0,0,1,3,4,29,10],
-"de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84":[7,0,0,0,1,3,4,29,10,0],
-"de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe":[7,0,0,0,1,3,4,29,10,1]
+"de/dcc/zone__thousand__needles_8cpp.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84":[7,0,0,0,1,3,4,29,10,0]
 };

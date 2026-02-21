@@ -1,5 +1,6 @@
 var NAVTREEINDEX135 =
 {
+"d4/d9c/classboss__isle__of__conquest.html#ad4052d1b6865585d32016e1240449659":[6,0,562,1],
 "d4/d9c/classboss__isle__of__conquest.html#ae14201c4f8654bf2c0cd9ac8a82f3800":[6,0,562,2],
 "d4/d9c/classspell__karazhan__brittle__bones__aura.html":[6,0,3502],
 "d4/d9c/classspell__karazhan__brittle__bones__aura.html#a060e189aaa4396681d42906b65c9196f":[6,0,3502,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX135 =
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ad08f34c7b7b94f455bdb93d2842c30b6":[6,0,1325,0,47],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ad332b52c5537df6a19a9d65a3b71bd44":[6,0,1325,0,52],
 "d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ad49c4e787ee06cea0763002be747eac9":[6,0,1325,0,70],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ad85355828777036b4ca82c9eb63cc02e":[6,0,1325,0,80],
-"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ad97875f7f2147c79c15bdd3ee19be594":[6,0,1325,0,99]
+"d4/da6/structinstance__icecrown__citadel_1_1instance__icecrown__citadel__InstanceMapScript.html#ad85355828777036b4ca82c9eb63cc02e":[6,0,1325,0,80]
 };

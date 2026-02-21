@@ -1,5 +1,6 @@
 var NAVTREEINDEX389 =
 {
+"df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a1a0c0432924d86090fbda4628e8a1fa7":[7,0,0,0,1,3,2,1,1,0,4,27],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a1c7da222e3cbd70261d8fde5b4567ebe":[7,0,0,0,1,3,2,1,1,0,4,22],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a32cc23c6da3d110c70631aa99f4fc336":[7,0,0,0,1,3,2,1,1,0,4,17],
 "df/d13/blackrock__spire_8h.html#a23860b8d9499fb400f8921261b19efd2a38a7f7ad51f4ec2e91337883781e0227":[7,0,0,0,1,3,2,1,1,0,4,28],
@@ -104,9 +105,9 @@ var NAVTREEINDEX389 =
 "df/d13/classEllipseBoundary.html#ae933c6b1e62967f98c95cfbd4822b818":[6,0,1020,3],
 "df/d13/classEllipseBoundary.html#aeb8c822a8c4c745de0c848721a624545":[6,0,1020,0],
 "df/d13/classspell__pal__avenging__wrath.html":[6,0,3689],
-"df/d13/classspell__pal__avenging__wrath.html#a04647b24886bda760d9970c0ef50f3eb":[6,0,3689,0],
 "df/d13/classspell__pal__avenging__wrath.html#a42590a0ef43a48c5309f995f9bec5c9b":[6,0,3689,2],
 "df/d13/classspell__pal__avenging__wrath.html#a84e7337494dc2e1772ca10dea26c675f":[6,0,3689,3],
+"df/d13/classspell__pal__avenging__wrath.html#aafdf3712f163919f010d11d0becb398f":[6,0,3689,0],
 "df/d13/classspell__pal__avenging__wrath.html#ac2558aafb3ce66ca7bbfd718eb8c6338":[6,0,3689,4],
 "df/d13/classspell__pal__avenging__wrath.html#ac3e33cb37d13b633f3938a48917a4975":[6,0,3689,1],
 "df/d14/ObjectDefines_8h.html":[7,0,0,0,1,2,16,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX389 =
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a0b08225b6ac303afd20ec213aafe4bcb":[5,0,33,2,4,1],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[5,0,33,2,4,0],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a434ee19fbc4d3e336444b1c62ac2be84":[6,0,12,2,4,0],
-"df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[5,0,33,2,4,3],
 "df/d14/classWorldPackets_1_1Character_1_1LogoutResponse.html#a5543bf1a6342e9a217cd906e4a185b2e":[6,0,12,2,4,3]
 };

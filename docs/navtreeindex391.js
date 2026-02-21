@@ -1,5 +1,6 @@
 var NAVTREEINDEX391 =
 {
+"df/d1d/structAuctionHousePlayerInfo.html":[6,0,267],
 "df/d1d/structAuctionHousePlayerInfo.html#a0a2be15a1a7c4d84fe53930c15571157":[6,0,267,4],
 "df/d1d/structAuctionHousePlayerInfo.html#a572c98b3437aff883f68d0eea4b26eb6":[6,0,267,2],
 "df/d1d/structAuctionHousePlayerInfo.html#a6aaee409b729275b9089d7db5145ba58":[6,0,267,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX391 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a457fdb5cc1a5e88757e62eca03a88a70":[7,0,0,0,1,2,16,5,0,4,6,38],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45b539b199367429e717b99815bae730":[7,0,0,0,1,2,16,5,0,4,6,230],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a45dbd0c48d73e6f2f250ec0d8bb6c8d1":[7,0,0,0,1,2,16,5,0,4,6,259],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a460d59ba194694f85dfd2165ebd49cad":[7,0,0,0,1,2,16,5,0,4,6,302],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a49274b75b31edf1b32e1922b5e37fb0c":[7,0,0,0,1,2,16,5,0,4,6,9]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a460d59ba194694f85dfd2165ebd49cad":[7,0,0,0,1,2,16,5,0,4,6,302]
 };

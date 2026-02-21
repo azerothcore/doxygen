@@ -1,5 +1,6 @@
 var NAVTREEINDEX244 =
 {
+"d9/d80/classnpc__crate__helper.html#af69c9cf385ee829853985daa7f2aa8d6":[6,0,1727,2],
 "d9/d81/ArenaSeasonRewardsDistributor_8h.html":[7,0,0,0,1,2,8,0,3],
 "d9/d81/classnpc__wg__demolisher__engineer.html":[6,0,2293],
 "d9/d81/classnpc__wg__demolisher__engineer.html#a3ecf69f45918bef0cb51023327ac9693":[6,0,2293,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470ac4a43f19865d6997246e89f86144e43d":[7,0,0,0,1,3,5,9,2,1,10,14],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,9,2,1,10,1],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470ad88b528a829180f6bc5297dad7c4c743":[7,0,0,0,1,3,5,9,2,1,10,5],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470adb39fc6a8a9947b34760e9c5205b9604":[7,0,0,0,1,3,5,9,2,1,10,22],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470aed362ab3f21c7aad46b5950bcd4e1cb1":[7,0,0,0,1,3,5,9,2,1,10,15]
+"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470adb39fc6a8a9947b34760e9c5205b9604":[7,0,0,0,1,3,5,9,2,1,10,22]
 };

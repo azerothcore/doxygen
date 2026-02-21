@@ -1,5 +1,6 @@
 var NAVTREEINDEX176 =
 {
+"d6/d66/classspell__vehicle__warhead__fuse.html#a38efc59fcbb40469521419723a1dceb3":[6,0,4216,2],
 "d6/d66/classspell__vehicle__warhead__fuse.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e":[6,0,4216,3],
 "d6/d66/classspell__vehicle__warhead__fuse.html#ab5d9f8125c75bbd8fbb2717516d3eddd":[6,0,4216,1],
 "d6/d66/classspell__vehicle__warhead__fuse.html#abb5726c8afa66a946eefc8767094ea9b":[6,0,4216,0],
@@ -225,10 +226,10 @@ var NAVTREEINDEX176 =
 "d6/d73/classspell__gluth__decimate__damage.html":[6,0,3133],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[6,0,3133,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3133,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1982],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1982,10],
 "d6/d73/structnpc__mimirons__inferno.html#a13cda9fcb49493477e4a4111d9858ec1":[6,0,1982,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,8,2,3,3,0],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1a6e3c4d3b708e8ce07968a075b3ffb22a":[7,0,0,0,1,3,5,8,2,3,3,1],
 "d6/d75/boss__varos_8cpp.html#a16774215bba3b38580ea51987d64cff1ac54151b5c8f69a89047282c61104080e":[7,0,0,0,1,3,5,8,2,3,3,2],
-"d6/d75/boss__varos_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[7,0,0,0,1,3,5,8,2,3,6],
-"d6/d75/boss__varos_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,8,2,3,4]
+"d6/d75/boss__varos_8cpp.html#a3f03c0da16e093699a7a77f26d155c8c":[7,0,0,0,1,3,5,8,2,3,6]
 };

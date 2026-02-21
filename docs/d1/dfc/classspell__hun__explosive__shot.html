@@ -313,22 +313,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1471</span>    {</div>
-<div class="line"><span class="lineno"> 1472</span>        <span class="comment">// Handling of explosive shot initial cast without LnL proc</span></div>
-<div class="line"><span class="lineno"> 1473</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>() || !<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno"> 1474</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1475</span> </div>
-<div class="line"><span class="lineno"> 1476</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491">SPELL_LOCK_AND_LOAD_TRIGGER</a>))</div>
-<div class="line"><span class="lineno"> 1477</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">GetSpell</a>()-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a5d48e255fcfcafa165137f39c73a6fcb">TakeAmmo</a>();</div>
-<div class="line"><span class="lineno"> 1478</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1474</span>    {</div>
+<div class="line"><span class="lineno"> 1475</span>        <span class="comment">// Handling of explosive shot initial cast without LnL proc</span></div>
+<div class="line"><span class="lineno"> 1476</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>() || !<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno"> 1477</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1478</span> </div>
+<div class="line"><span class="lineno"> 1479</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;HasAura(<a class="code hl_enumvalue" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491">SPELL_LOCK_AND_LOAD_TRIGGER</a>))</div>
+<div class="line"><span class="lineno"> 1480</span>            <a class="code hl_function" href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">GetSpell</a>()-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#a5d48e255fcfcafa165137f39c73a6fcb">TakeAmmo</a>();</div>
+<div class="line"><span class="lineno"> 1481</span>    }</div>
 <div class="ttc" id="aclassSpellScript_html_a926f5fbcba4bc513a7cd3777888fa895"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">SpellScript::GetSpell</a></div><div class="ttdeci">Spell * GetSpell()</div><div class="ttdef"><b>Definition</b> SpellScript.h:442</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
-<div class="ttc" id="aclassSpell_html_a5d48e255fcfcafa165137f39c73a6fcb"><div class="ttname"><a href="../../d1/d16/classSpell.html#a5d48e255fcfcafa165137f39c73a6fcb">Spell::TakeAmmo</a></div><div class="ttdeci">void TakeAmmo()</div><div class="ttdef"><b>Definition</b> Spell.cpp:5315</div></div>
+<div class="ttc" id="aclassSpell_html_a5d48e255fcfcafa165137f39c73a6fcb"><div class="ttname"><a href="../../d1/d16/classSpell.html#a5d48e255fcfcafa165137f39c73a6fcb">Spell::TakeAmmo</a></div><div class="ttdeci">void TakeAmmo()</div><div class="ttdef"><b>Definition</b> Spell.cpp:5319</div></div>
 <div class="ttc" id="aspell__hunter_8cpp_html_a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491"><div class="ttname"><a href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491">SPELL_LOCK_AND_LOAD_TRIGGER</a></div><div class="ttdeci">@ SPELL_LOCK_AND_LOAD_TRIGGER</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:68</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00442">SpellScript::GetSpell()</a>, <a class="el" href="../../#l00068">SPELL_LOCK_AND_LOAD_TRIGGER</a>, and <a class="el" href="../../#l05315">Spell::TakeAmmo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00442">SpellScript::GetSpell()</a>, <a class="el" href="../../#l00068">SPELL_LOCK_AND_LOAD_TRIGGER</a>, and <a class="el" href="../../#l05319">Spell::TakeAmmo()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01480">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01483">Register()</a>.</p>
 
 </div>
 </div>
@@ -382,14 +382,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1481</span>    {</div>
-<div class="line"><span class="lineno"> 1482</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f">AfterCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21">spell_hun_explosive_shot::HandleFinish</a>);</div>
-<div class="line"><span class="lineno"> 1483</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1484</span>    {</div>
+<div class="line"><span class="lineno"> 1485</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f">AfterCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21">spell_hun_explosive_shot::HandleFinish</a>);</div>
+<div class="line"><span class="lineno"> 1486</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_aa0eb707cdfb0f2fafeafd6ab32274654"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a></div><div class="ttdeci">#define SpellCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:324</div></div>
 <div class="ttc" id="aclassSpellScript_html_a05948ff5c05b05d77ed69043972eaa4f"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f">SpellScript::AfterCast</a></div><div class="ttdeci">HookList&lt; CastHandler &gt; AfterCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:323</div></div>
-<div class="ttc" id="aclassspell__hun__explosive__shot_html_a97cef2944f3fcc11aa6898bc8455ab21"><div class="ttname"><a href="../../d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21">spell_hun_explosive_shot::HandleFinish</a></div><div class="ttdeci">void HandleFinish()</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:1470</div></div>
+<div class="ttc" id="aclassspell__hun__explosive__shot_html_a97cef2944f3fcc11aa6898bc8455ab21"><div class="ttname"><a href="../../d1/dfc/classspell__hun__explosive__shot.html#a97cef2944f3fcc11aa6898bc8455ab21">spell_hun_explosive_shot::HandleFinish</a></div><div class="ttdeci">void HandleFinish()</div><div class="ttdef"><b>Definition</b> spell_hunter.cpp:1473</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00323">SpellScript::AfterCast</a>, <a class="el" href="../../#l01470">HandleFinish()</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00323">SpellScript::AfterCast</a>, <a class="el" href="../../#l01473">HandleFinish()</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
 
 </div>
 </div>
@@ -402,7 +402,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/dfc/classspell__hun__explosive__shot.html">spell_hun_explosive_shot</a></li>
-    <li class="footer">Generated on Fri Feb 20 2026 06:51:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 21 2026 06:37:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

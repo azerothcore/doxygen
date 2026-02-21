@@ -1,5 +1,6 @@
 var NAVTREEINDEX238 =
 {
+"d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#ab747a36a7dfefb0692e8c6abb1d161e2":[5,0,33,10,5,2],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[5,0,33,10,5,4],
 "d9/d3e/classWorldPackets_1_1Misc_1_1MinimapPing.html#abf5d5980b360cbf9332460b01d5816f5":[6,0,12,10,5,4],
 "d9/d3e/classspell__teron__gorefiend__spirit__lance.html":[6,0,4125],
@@ -248,6 +249,5 @@ var NAVTREEINDEX238 =
 "d9/d54/structnpc__necropolis__relay.html#a45fdef0f86f18b87b90d2b4f9c0df9cb":[6,0,1999,1],
 "d9/d55/UnitAI_8h.html":[7,0,0,0,1,2,3,0,15],
 "d9/d55/UnitAI_8h.html#a0476b18cfebeb691aabb4344ec4f8af3":[7,0,0,0,1,2,3,0,15,8],
-"d9/d55/UnitAI_8h.html#a1c66b73f1d3e1e8031c25ae739f094e6":[7,0,0,0,1,2,3,0,15,11],
-"d9/d55/UnitAI_8h.html#a482ee472018cb5f0e11addaabad35c3d":[7,0,0,0,1,2,3,0,15,10]
+"d9/d55/UnitAI_8h.html#a1c66b73f1d3e1e8031c25ae739f094e6":[7,0,0,0,1,2,3,0,15,11]
 };

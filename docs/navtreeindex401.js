@@ -1,5 +1,6 @@
 var NAVTREEINDEX401 =
 {
+"df/d92/classSpellScript.html#a7f3fd0137862305299f6c65d43f2abae":[6,0,4412,15],
 "df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860":[6,0,4412,35],
 "df/d92/classSpellScript.html#a85b9373e02f5abbec6c6cde8c9784e0a":[6,0,4412,30],
 "df/d92/classSpellScript.html#a890d87273b164ec530e40a94a4e39741":[6,0,4412,57],
@@ -56,15 +57,15 @@ var NAVTREEINDEX401 =
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,968,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,968,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,968,1,1],
-"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,968,1,5],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,968,1,4],
-"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,968,1,3],
+"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,968,1,5],
 "df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,968,1,2],
+"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,968,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[6,0,968,1,12],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,968,1,8],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,968,1,9],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,968,1,6],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,968,1,7],
+"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,968,1,6],
 "df/d94/classShockVortexExplodeEvent.html":[6,0,2570],
 "df/d94/classShockVortexExplodeEvent.html#a601f777052b8a142db49e9b0ab1fa81a":[6,0,2570,1],
 "df/d94/classShockVortexExplodeEvent.html#a76b1887e486969fcd7a236a8eb7a9a2a":[6,0,2570,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX401 =
 "df/d9b/structboss__jarien.html#a418380b56f3432b5aec84737012f4693":[6,0,565,3],
 "df/d9b/structboss__jarien.html#a8b9f1f2e7e45adf8df436b5c71555272":[6,0,565,1],
 "df/d9b/structboss__jarien.html#aa88435f313dc2b7880bca8f4cdb7a537":[6,0,565,7],
-"df/d9b/structboss__jarien.html#ab6590cf6626a12e804520b2cde84a93e":[6,0,565,4],
-"df/d9b/structboss__jarien.html#abce9540798dbae1026d1c74bfeb111a6":[6,0,565,8]
+"df/d9b/structboss__jarien.html#ab6590cf6626a12e804520b2cde84a93e":[6,0,565,4]
 };

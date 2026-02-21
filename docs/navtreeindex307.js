@@ -1,5 +1,6 @@
 var NAVTREEINDEX307 =
 {
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a4779c7fc11c8ad58834a08bb5c3bad5c":[7,0,0,0,1,3,2,6,3,9,15],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a50ffaf325566c41226a35d05efa52d26":[7,0,0,0,1,3,2,6,3,9,7],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a54c30265668ffecdc07091dd92cee4d5":[7,0,0,0,1,3,2,6,3,9,11],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a558b6805bac3ee9aa8f0d874f2033878":[7,0,0,0,1,3,2,6,3,9,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX307 =
 "dc/d02/WeatherScript_8h.html":[7,0,0,0,1,2,38,0,89],
 "dc/d03/InstanceMapScript_8h.html":[7,0,0,0,1,2,38,0,58],
 "dc/d03/InstanceMapScript_8h.html#a78044a95772db069981b463451a60613":[7,0,0,0,1,2,38,0,58,2],
-"dc/d03/ScriptedEscortAI_8h.html":[7,0,0,0,1,2,3,1,3],
-"dc/d03/ScriptedEscortAI_8h.html#ad23dc39ce2da634e67360fab90e3b9e2":[7,0,0,0,1,2,3,1,3,2]
+"dc/d03/ScriptedEscortAI_8h.html":[7,0,0,0,1,2,3,1,3]
 };

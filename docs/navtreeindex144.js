@@ -1,5 +1,6 @@
 var NAVTREEINDEX144 =
 {
+"d5/d09/classspell__ooze__zap__channel__end.html#a30a87266b89021caf7d05c45397f70d1":[6,0,3681,0],
 "d5/d09/classspell__ooze__zap__channel__end.html#a43a92b346088d710719722e8feed9634":[6,0,3681,1],
 "d5/d09/classspell__ooze__zap__channel__end.html#a8b5097b623adbc1d8a10d7b1c4c248ab":[6,0,3681,3],
 "d5/d09/classspell__ooze__zap__channel__end.html#ad7a53cc6a24197c050ed8577f6c6cc12":[6,0,3681,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX144 =
 "d5/d17/structnpc__love__in__air__snivel__real.html#ab1685b1ee34c81c689af3c3466b185f0":[6,0,1956,3],
 "d5/d18/classnpc__grimstone.html":[6,0,1834],
 "d5/d18/classnpc__grimstone.html#a24cf0aa69ac28c13ac3c44e14c35406c":[6,0,1834,2],
-"d5/d18/classnpc__grimstone.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb":[6,0,1834,1],
-"d5/d19/classspell__shockwave__knockback.html":[6,0,4072]
+"d5/d18/classnpc__grimstone.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb":[6,0,1834,1]
 };

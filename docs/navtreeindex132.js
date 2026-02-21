@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32a988a4726d42f52109aaea76886c06a0c":[7,0,0,0,1,3,5,2,1,1,43,1],
 "d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32ad35e819f76f4eb002fec00f3d198a539":[7,0,0,0,1,3,5,2,1,1,43,7],
 "d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32addae30652a33bc9f0e76cc83001a1e01":[7,0,0,0,1,3,5,2,1,1,43,8],
 "d4/d81/boss__faction__champions_8cpp.html#a614bd92e0d3264094b14ef3b496c4b32aeb802f458f64640302204ab62d58950e":[7,0,0,0,1,3,5,2,1,1,43,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d8a/classboss__broodlord.html#a5bd506c6f397608ce84496fa0fea2679":[6,0,414,2],
 "d4/d8a/classboss__broodlord.html#a936f7eb723111877e2a5e3a85cb95b2b":[6,0,414,1],
 "d4/d8a/classspell__gen__proc__not__self.html":[6,0,3080],
-"d4/d8a/classspell__gen__proc__not__self.html#a458745913288889f687bb19a147cb0fb":[6,0,3080,3],
-"d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[6,0,3080,2]
+"d4/d8a/classspell__gen__proc__not__self.html#a458745913288889f687bb19a147cb0fb":[6,0,3080,3]
 };

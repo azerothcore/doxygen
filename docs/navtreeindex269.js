@@ -1,5 +1,6 @@
 var NAVTREEINDEX269 =
 {
+"da/d97/classspell__trollgore__consume.html#ac73b3f568ce54f9b59b2b23f069da3c1":[6,0,4184,2],
 "da/d97/classspell__trollgore__consume.html#aff3fc5d7d6185bcb09d14f1408a67aad":[6,0,4184,1],
 "da/d97/structgo__brazier__of__madness.html":[6,0,1137],
 "da/d97/structgo__brazier__of__madness.html#aba3af326b01cd045523434aec189fd47":[6,0,1137,1],
@@ -26,14 +27,14 @@ var NAVTREEINDEX269 =
 "da/d99/classBattlegroundMapScript.html#a0148a79556f82c990fe0fc494d03c7ab":[6,0,338,2],
 "da/d99/classBattlegroundMapScript.html#a61e1c0f145064cbc6c8708824a359e4c":[6,0,338,0],
 "da/d99/classBattlegroundMapScript.html#a90584770132eb71cffc6e25a674750ad":[6,0,338,1],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[6,0,12,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[5,0,33,8,6],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html":[6,0,12,8,6],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[6,0,12,8,6,2],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a0b06dfb31f70cc547c54723d0bf70952":[5,0,33,8,6,2],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,12,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[5,0,33,8,6,1],
-"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[6,0,12,8,6,0],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#a2c77f79d63247d7aa321cf6bda026ffa":[6,0,12,8,6,1],
 "da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[5,0,33,8,6,0],
+"da/d99/classWorldPackets_1_1Item_1_1CancelTempEnchantment.html#aa70516ab1b16789cb7b705751162b70b":[6,0,12,8,6,0],
 "da/d99/structGameEventData.html":[6,0,1081],
 "da/d99/structGameEventData.html#a0915a0321c4c26bfb61824587a309cde":[6,0,1081,3],
 "da/d99/structGameEventData.html#a3be91b7e00641ca6cb853104190845dc":[6,0,1081,13],
@@ -248,6 +249,5 @@ var NAVTREEINDEX269 =
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a57d520ed6f16c3f881f892e7578ad378":[6,0,1354,0,14],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a616b3762e7400b17bb6fc1f3b0a8f2a9":[6,0,1354,0,12],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a7c686c287e8fedd53c2a22afd5721656":[6,0,1354,0,0],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a92ccf87798e87caf106e274169ef9d6e":[6,0,1354,0,11],
-"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aa4ffd7ee39e413c7486eea1d738be522":[6,0,1354,0,8]
+"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#a92ccf87798e87caf106e274169ef9d6e":[6,0,1354,0,11]
 };

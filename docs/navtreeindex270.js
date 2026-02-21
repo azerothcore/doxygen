@@ -1,5 +1,6 @@
 var NAVTREEINDEX270 =
 {
+"da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aa4ffd7ee39e413c7486eea1d738be522":[6,0,1354,0,8],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aa6247ca0f46a680373601bae1308b94d":[6,0,1354,0,1],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#aaeb98dc1aad0d16142325c4d5a5cbf8e":[6,0,1354,0,17],
 "da/da4/structinstance__sunken__temple_1_1instance__sunken__temple__InstanceMapScript.html#ab51ad8cd98d085811aa2c02494de3a7c":[6,0,1354,0,15],
@@ -247,7 +248,6 @@ var NAVTREEINDEX270 =
 "da/dae/classspell__dru__glyph__of__shred.html#afdfb44a437afb1329794fe4d0e8d3874":[6,0,2873,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[6,0,12,8,10],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html":[5,0,33,8,10],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,33,8,10,1],
 "da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[6,0,12,8,10,1],
-"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#aa257d579519d45da88694ff6306395da":[5,0,33,8,10,0]
+"da/daf/classWorldPackets_1_1Item_1_1ItemRefund.html#a6d031070a4832bdc716f8b73629ebc8d":[5,0,33,8,10,1]
 };

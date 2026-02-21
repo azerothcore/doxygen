@@ -1,5 +1,6 @@
 var NAVTREEINDEX334 =
 {
+"dd/d3b/structGameObjectTemplate.html#a036401d053d1e65581f68ca5bb5f2340":[6,0,1101,35],
 "dd/d3b/structGameObjectTemplate.html#a04a13a7bd001225137f5e7d5302879eb":[6,0,1101,159],
 "dd/d3b/structGameObjectTemplate.html#a050e002c4a6bf7eb71ea6027587db6ac":[6,0,1101,193],
 "dd/d3b/structGameObjectTemplate.html#a07b9a810b396ddc045d7ebafc787ea77":[6,0,1101,51],
@@ -210,10 +211,10 @@ var NAVTREEINDEX334 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,10,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,30,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,10,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,10,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,30,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,10,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,30,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,10,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,30,8,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX334 =
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#aa3f41b9c79c7bcdd9ad330fa58376799":[6,0,1369,0,2],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#aabf39e7d3cef7951c861c194dfff9ecd":[6,0,1369,0,14],
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ab0f9e62a516c2a572d438ee6b33ffe89":[6,0,1369,0,0],
-"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac22e9b215c1351f543289af2875491b4":[6,0,1369,0,10],
-"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac9235ec40c6648bb2a7d252b0053bc47":[6,0,1369,0,15]
+"dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#ac22e9b215c1351f543289af2875491b4":[6,0,1369,0,10]
 };

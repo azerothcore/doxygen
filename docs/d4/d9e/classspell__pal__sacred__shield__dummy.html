@@ -342,24 +342,24 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1967</span>    {</div>
-<div class="line"><span class="lineno"> 1968</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 1969</span> </div>
-<div class="line"><span class="lineno"> 1970</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 1971</span>        <span class="keywordflow">if</span> (!caster)</div>
-<div class="line"><span class="lineno"> 1972</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1973</span> </div>
-<div class="line"><span class="lineno"> 1974</span>        std::chrono::steady_clock::time_point now = std::chrono::steady_clock::now();</div>
-<div class="line"><span class="lineno"> 1975</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a4f19a965ed8ddab712633abdb761d210">_cooldownEnd</a> &gt; now)</div>
-<div class="line"><span class="lineno"> 1976</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1977</span> </div>
-<div class="line"><span class="lineno"> 1978</span>        std::chrono::seconds cooldown(aurEff-&gt;GetAmount());</div>
-<div class="line"><span class="lineno"> 1979</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* bonus = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a520e229dc1a93ea4a53d0ba81e586d11">GetAuraEffect</a>(<a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4">SPELL_PALADIN_T8_HOLY_4P_BONUS</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
-<div class="line"><span class="lineno"> 1980</span>            cooldown = std::chrono::seconds(bonus-&gt;GetAmount());</div>
-<div class="line"><span class="lineno"> 1981</span> </div>
-<div class="line"><span class="lineno"> 1982</span>        <a class="code hl_variable" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a4f19a965ed8ddab712633abdb761d210">_cooldownEnd</a> = now + cooldown;</div>
-<div class="line"><span class="lineno"> 1983</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2ade4451053ca6d954d5c0a484c24638e8">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 1984</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1964</span>    {</div>
+<div class="line"><span class="lineno"> 1965</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 1966</span> </div>
+<div class="line"><span class="lineno"> 1967</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 1968</span>        <span class="keywordflow">if</span> (!caster)</div>
+<div class="line"><span class="lineno"> 1969</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1970</span> </div>
+<div class="line"><span class="lineno"> 1971</span>        std::chrono::steady_clock::time_point now = std::chrono::steady_clock::now();</div>
+<div class="line"><span class="lineno"> 1972</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a4f19a965ed8ddab712633abdb761d210">_cooldownEnd</a> &gt; now)</div>
+<div class="line"><span class="lineno"> 1973</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1974</span> </div>
+<div class="line"><span class="lineno"> 1975</span>        std::chrono::seconds cooldown(aurEff-&gt;GetAmount());</div>
+<div class="line"><span class="lineno"> 1976</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* bonus = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a520e229dc1a93ea4a53d0ba81e586d11">GetAuraEffect</a>(<a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4">SPELL_PALADIN_T8_HOLY_4P_BONUS</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, caster-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
+<div class="line"><span class="lineno"> 1977</span>            cooldown = std::chrono::seconds(bonus-&gt;GetAmount());</div>
+<div class="line"><span class="lineno"> 1978</span> </div>
+<div class="line"><span class="lineno"> 1979</span>        <a class="code hl_variable" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a4f19a965ed8ddab712633abdb761d210">_cooldownEnd</a> = now + cooldown;</div>
+<div class="line"><span class="lineno"> 1980</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2ade4451053ca6d954d5c0a484c24638e8">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 1981</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
@@ -369,13 +369,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
 <div class="ttc" id="aclassUnit_html_a520e229dc1a93ea4a53d0ba81e586d11"><div class="ttname"><a href="../../df/dd9/classUnit.html#a520e229dc1a93ea4a53d0ba81e586d11">Unit::GetAuraEffect</a></div><div class="ttdeci">AuraEffect * GetAuraEffect(uint32 spellId, uint8 effIndex, ObjectGuid casterGUID=ObjectGuid::Empty) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5719</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1302</div></div>
-<div class="ttc" id="aclassspell__pal__sacred__shield__dummy_html_a4f19a965ed8ddab712633abdb761d210"><div class="ttname"><a href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a4f19a965ed8ddab712633abdb761d210">spell_pal_sacred_shield_dummy::_cooldownEnd</a></div><div class="ttdeci">std::chrono::steady_clock::time_point _cooldownEnd</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:1991</div></div>
+<div class="ttc" id="aclassspell__pal__sacred__shield__dummy_html_a4f19a965ed8ddab712633abdb761d210"><div class="ttname"><a href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a4f19a965ed8ddab712633abdb761d210">spell_pal_sacred_shield_dummy::_cooldownEnd</a></div><div class="ttdeci">std::chrono::steady_clock::time_point _cooldownEnd</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:1988</div></div>
 <div class="ttc" id="aspell__paladin_8cpp_html_aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4"><div class="ttname"><a href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4">SPELL_PALADIN_T8_HOLY_4P_BONUS</a></div><div class="ttdeci">@ SPELL_PALADIN_T8_HOLY_4P_BONUS</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:148</div></div>
 <div class="ttc" id="aspell__paladin_8cpp_html_aebd260fe2268d412cac39b40bbde60b2ade4451053ca6d954d5c0a484c24638e8"><div class="ttname"><a href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2ade4451053ca6d954d5c0a484c24638e8">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a></div><div class="ttdeci">@ SPELL_PALADIN_SACRED_SHIELD_TRIGGER</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:147</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01991">_cooldownEnd</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l05719">Unit::GetAuraEffect()</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00147">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>, and <a class="el" href="../../#l00148">SPELL_PALADIN_T8_HOLY_4P_BONUS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01988">_cooldownEnd</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>, <a class="el" href="../../#l05719">Unit::GetAuraEffect()</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00147">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>, and <a class="el" href="../../#l00148">SPELL_PALADIN_T8_HOLY_4P_BONUS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01986">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01983">Register()</a>.</p>
 
 </div>
 </div>
@@ -429,15 +429,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1987</span>    {</div>
-<div class="line"><span class="lineno"> 1988</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a95553bc0c973be3a2e3911602e4067c8">spell_pal_sacred_shield_dummy::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1989</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1984</span>    {</div>
+<div class="line"><span class="lineno"> 1985</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a95553bc0c973be3a2e3911602e4067c8">spell_pal_sacred_shield_dummy::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1986</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:865</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:860</div></div>
-<div class="ttc" id="aclassspell__pal__sacred__shield__dummy_html_a95553bc0c973be3a2e3911602e4067c8"><div class="ttname"><a href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a95553bc0c973be3a2e3911602e4067c8">spell_pal_sacred_shield_dummy::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:1966</div></div>
+<div class="ttc" id="aclassspell__pal__sacred__shield__dummy_html_a95553bc0c973be3a2e3911602e4067c8"><div class="ttname"><a href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html#a95553bc0c973be3a2e3911602e4067c8">spell_pal_sacred_shield_dummy::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:1963</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01966">HandleProc()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01963">HandleProc()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -466,13 +466,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1958</span>    {</div>
-<div class="line"><span class="lineno"> 1959</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
-<div class="line"><span class="lineno"> 1960</span>        {</div>
-<div class="line"><span class="lineno"> 1961</span>            <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2ade4451053ca6d954d5c0a484c24638e8">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>,</div>
-<div class="line"><span class="lineno"> 1962</span>            <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4">SPELL_PALADIN_T8_HOLY_4P_BONUS</a></div>
-<div class="line"><span class="lineno"> 1963</span>        });</div>
-<div class="line"><span class="lineno"> 1964</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1955</span>    {</div>
+<div class="line"><span class="lineno"> 1956</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
+<div class="line"><span class="lineno"> 1957</span>        {</div>
+<div class="line"><span class="lineno"> 1958</span>            <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2ade4451053ca6d954d5c0a484c24638e8">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>,</div>
+<div class="line"><span class="lineno"> 1959</span>            <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4">SPELL_PALADIN_T8_HOLY_4P_BONUS</a></div>
+<div class="line"><span class="lineno"> 1960</span>        });</div>
+<div class="line"><span class="lineno"> 1961</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00147">SPELL_PALADIN_SACRED_SHIELD_TRIGGER</a>, <a class="el" href="../../#l00148">SPELL_PALADIN_T8_HOLY_4P_BONUS</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -500,7 +500,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01966">HandleProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01963">HandleProc()</a>.</p>
 
 </div>
 </div>
@@ -513,7 +513,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d9e/classspell__pal__sacred__shield__dummy.html">spell_pal_sacred_shield_dummy</a></li>
-    <li class="footer">Generated on Fri Feb 20 2026 06:51:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 21 2026 06:38:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

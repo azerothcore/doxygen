@@ -1,12 +1,12 @@
 var NAVTREEINDEX36 =
 {
 "d1/d71/structADT_1_1MDDF.html#a374c9893af515badc54b22b2a4d5e024":[6,0,1,0,5],
-"d1/d71/structADT_1_1MDDF.html#a4471edebd870d3dfaaf34292341e5f60":[6,0,1,0,0],
 "d1/d71/structADT_1_1MDDF.html#a4471edebd870d3dfaaf34292341e5f60":[5,0,3,0,0],
+"d1/d71/structADT_1_1MDDF.html#a4471edebd870d3dfaaf34292341e5f60":[6,0,1,0,0],
 "d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[6,0,1,0,1],
 "d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[5,0,3,0,1],
-"d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[6,0,1,0,2],
 "d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[5,0,3,0,2],
+"d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[6,0,1,0,2],
 "d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[5,0,3,0,3],
 "d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[6,0,1,0,3],
 "d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[5,0,3,0,4],
@@ -245,8 +245,8 @@ var NAVTREEINDEX36 =
 "d1/d7e/structInstanceTemplate.html#a611108f0c1f623bb0761a174e477df22":[6,0,1381,0],
 "d1/d7e/structInstanceTemplate.html#a6298c3dd0c8939b1cf228727c363918e":[6,0,1381,1],
 "d1/d7e/structInstanceTemplate.html#ac9cdaf7fc486bc89b5c5d95ac13146da":[6,0,1381,2],
-"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,10,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html":[5,0,30,17],
+"d1/d7f/classVMAP_1_1MyCollisionDetection.html":[6,0,10,17],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[6,0,10,17,0],
 "d1/d7f/classVMAP_1_1MyCollisionDetection.html#afe38618ab1de028db0657601f1e51d21":[5,0,30,17,0],
 "d1/d80/classachievement__better__off__dred.html":[6,0,37]

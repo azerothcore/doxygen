@@ -1,5 +1,6 @@
 var NAVTREEINDEX416 =
 {
+"functions_g.html":[6,3,0,7],
 "functions_h.html":[6,3,0,8],
 "functions_i.html":[6,3,0,9],
 "functions_j.html":[6,3,0,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX416 =
 "globals_vars_r.html":[7,1,2,18],
 "globals_vars_s.html":[7,1,2,19],
 "globals_vars_t.html":[7,1,2,20],
-"globals_vars_u.html":[7,1,2,21],
-"globals_vars_v.html":[7,1,2,22]
+"globals_vars_u.html":[7,1,2,21]
 };

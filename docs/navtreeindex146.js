@@ -1,5 +1,6 @@
 var NAVTREEINDEX146 =
 {
+"d5/d2a/classspell__valanar__kinetic__bomb.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd":[6,0,4202,2],
 "d5/d2a/structBattlemasterListEntry.html":[6,0,352],
 "d5/d2a/structBattlemasterListEntry.html#a11e1326eeb24b436b10db53acc323c13":[6,0,352,2],
 "d5/d2a/structBattlemasterListEntry.html#a3f70ffbb1abb5a96fe91c2eec3682c8b":[6,0,352,0],
@@ -177,16 +178,16 @@ var NAVTREEINDEX146 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[6,0,1116,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[6,0,1116,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1116,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,102],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,90,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,90,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,90,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[6,0,3385],
 "d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[6,0,3385,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[6,0,3385,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX146 =
 "d5/d3b/classAuctionSorter.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b":[6,0,282,0],
 "d5/d3b/classAuctionSorter.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7":[6,0,282,1],
 "d5/d3b/classAuctionSorter.html#a9c777b91d8b80940daee0b32c4f11c37":[6,0,282,3],
-"d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html":[6,0,3290],
-"d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html#a006d67e9e82cce68930b90b00d3555a4":[6,0,3290,3]
+"d5/d3d/classspell__illidan__tear__of__azzinoth__summon__channel__aura.html":[6,0,3290]
 };

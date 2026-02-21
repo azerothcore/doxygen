@@ -1,5 +1,6 @@
 var NAVTREEINDEX311 =
 {
+"dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a27e249733a4a590428dc06f94fa42acc":[7,0,0,0,1,3,5,9,2,9,24,1],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a2a65edd541cbb9511059a862de52e43b":[7,0,0,0,1,3,5,9,2,9,24,30],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a2a8f468c9a1e1a2b7ba99a37efc49fd8":[7,0,0,0,1,3,5,9,2,9,24,11],
 "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a34bc5a8fc39ff7105fad8e170b3ad83f":[7,0,0,0,1,3,5,9,2,9,24,49],
@@ -161,10 +162,10 @@ var NAVTREEINDEX311 =
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[7,0,0,0,1,3,5,9,2,9,21],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,33,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[6,0,12,11,2],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[6,0,12,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,33,11,2,0],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,33,11,2,1],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[6,0,12,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[6,0,12,11,2,1],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,33,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,33,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[6,0,12,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,33,11,2,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a048903542ee13601cfa0542a17fd9bf2":[7,0,0,0,1,3,7,1,0,4,7],
 "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a1376eb57d0ca08bdea0c6826c0ac9309":[7,0,0,0,1,3,7,1,0,4,6],
 "dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a163ac53b570bfdf51deddf4ccc085a23":[7,0,0,0,1,3,7,1,0,4,13],
-"dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a1a7173accf4d1579a6fc65df3b8c3a3e":[7,0,0,0,1,3,7,1,0,4,1],
-"dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a43676b3768d799d6add93854359101be":[7,0,0,0,1,3,7,1,0,4,12]
+"dc/d2a/black__temple_8h.html#afb6eb4f28419b652027fad41104a6d22a1a7173accf4d1579a6fc65df3b8c3a3e":[7,0,0,0,1,3,7,1,0,4,1]
 };

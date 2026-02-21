@@ -1,5 +1,6 @@
 var NAVTREEINDEX236 =
 {
+"d9/d17/classspell__toc25__mistress__kiss__aura.html#a66dcb98f38ed6b040928543015f59c9b":[6,0,4177,1],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#abbebe9c5ad44db61e80ce3707e744ab6":[6,0,4177,2],
 "d9/d17/classspell__toc25__mistress__kiss__aura.html#ae5749a43f37f0eb3f049d8804845f61e":[6,0,4177,0],
 "d9/d17/structBattlegroundObjectInfo.html":[6,0,341],
@@ -247,7 +248,6 @@ var NAVTREEINDEX236 =
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#abd59d91ab50eb8945a4a00157d9d5564":[6,0,3665,0],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#accad8dfdf29a1475b6f272259f1ed9bf":[6,0,3665,3],
 "d9/d30/classspell__obsidian__sanctum__flame__tsunami.html#af132eee38064c5123f4e01d52efb9314":[6,0,3665,2],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5],
 "d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[6,0,0,5,0,5],
-"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html#a0fa36d8fd2dc6a74e2b2a15787a33969":[6,0,0,5,0,5,0]
+"d9/d30/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01GameTele_01const_01_5_01_4.html":[5,0,1,8,0,5]
 };

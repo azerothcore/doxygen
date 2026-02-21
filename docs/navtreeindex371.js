@@ -1,5 +1,6 @@
 var NAVTREEINDEX371 =
 {
+"de/d3d/Group_8h.html#abe79d73a0524988ef836a72c9fab0afc":[7,0,0,0,1,2,20,1,6],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ff":[7,0,0,0,1,2,20,1,8],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f":[7,0,0,0,1,2,20,1,8,0],
 "de/d3d/Group_8h.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be":[7,0,0,0,1,2,20,1,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX371 =
 "de/d49/classspell__the__lich__king__shadow__trap__visual__aura.html#a8ce8f5d4ebd4279fdfd192ba3b01b894":[6,0,4159,1],
 "de/d4a/classWorldMapScript.html":[6,0,4608],
 "de/d4a/classWorldMapScript.html#a49300e796ceb6ab1a40ed9cbb89a9e4d":[6,0,4608,0],
-"de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4608,2],
-"de/d4a/classWorldMapScript.html#aa212e582764d2cfbc5e7e600a54f2cb4":[6,0,4608,1]
+"de/d4a/classWorldMapScript.html#a6aeda6e4c8328d7334527cbe69311ddc":[6,0,4608,2]
 };
