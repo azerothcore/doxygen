@@ -326,10 +326,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5256</span>    {</div>
-<div class="line"><span class="lineno"> 5257</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 5258</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a>(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ab091bb3565a74ff16e4c2222f9541640">SPELL_DEMENTIA_POS</a>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a78dff7657e785b3c60cabbcce8d12d3c">SPELL_DEMENTIA_NEG</a>), <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 5259</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5270</span>    {</div>
+<div class="line"><span class="lineno"> 5271</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 5272</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), <a class="code hl_function" href="../../d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a>(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ab091bb3565a74ff16e4c2222f9541640">SPELL_DEMENTIA_POS</a>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a78dff7657e785b3c60cabbcce8d12d3c">SPELL_DEMENTIA_NEG</a>), <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 5273</span>    }</div>
 <div class="ttc" id="aCreatureAIImpl_8h_html_a95d9a0c5ba0d54645670ba51c16ed33c"><div class="ttname"><a href="../../d8/df3/CreatureAIImpl_8h.html#a95d9a0c5ba0d54645670ba51c16ed33c">RAND</a></div><div class="ttdeci">static First const &amp; RAND(First const &amp;first, Second const &amp;second, Rest const &amp;... rest)</div><div class="ttdef"><b>Definition</b> CreatureAIImpl.h:25</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
@@ -339,7 +339,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00025">RAND()</a>, <a class="el" href="../../#l00143">SPELL_DEMENTIA_NEG</a>, and <a class="el" href="../../#l00142">SPELL_DEMENTIA_POS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05261">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05275">Register()</a>.</p>
 
 </div>
 </div>
@@ -393,16 +393,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5262</span>    {</div>
-<div class="line"><span class="lineno"> 5263</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d0/d59/classspell__item__dementia.html#ac8ca6a69b47cb2316b93e1953e233f8f">spell_item_dementia::HandlePeriodicDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 5264</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5276</span>    {</div>
+<div class="line"><span class="lineno"> 5277</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d0/d59/classspell__item__dementia.html#ac8ca6a69b47cb2316b93e1953e233f8f">spell_item_dementia::HandlePeriodicDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 5278</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:771</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:770</div></div>
-<div class="ttc" id="aclassspell__item__dementia_html_ac8ca6a69b47cb2316b93e1953e233f8f"><div class="ttname"><a href="../../d0/d59/classspell__item__dementia.html#ac8ca6a69b47cb2316b93e1953e233f8f">spell_item_dementia::HandlePeriodicDummy</a></div><div class="ttdeci">void HandlePeriodicDummy(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5255</div></div>
+<div class="ttc" id="aclassspell__item__dementia_html_ac8ca6a69b47cb2316b93e1953e233f8f"><div class="ttname"><a href="../../d0/d59/classspell__item__dementia.html#ac8ca6a69b47cb2316b93e1953e233f8f">spell_item_dementia::HandlePeriodicDummy</a></div><div class="ttdeci">void HandlePeriodicDummy(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5269</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l05255">HandlePeriodicDummy()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l05269">HandlePeriodicDummy()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -431,9 +431,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5251</span>    {</div>
-<div class="line"><span class="lineno"> 5252</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ab091bb3565a74ff16e4c2222f9541640">SPELL_DEMENTIA_POS</a>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a78dff7657e785b3c60cabbcce8d12d3c">SPELL_DEMENTIA_NEG</a> });</div>
-<div class="line"><span class="lineno"> 5253</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5265</span>    {</div>
+<div class="line"><span class="lineno"> 5266</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3ab091bb3565a74ff16e4c2222f9541640">SPELL_DEMENTIA_POS</a>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3a78dff7657e785b3c60cabbcce8d12d3c">SPELL_DEMENTIA_NEG</a> });</div>
+<div class="line"><span class="lineno"> 5267</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00143">SPELL_DEMENTIA_NEG</a>, <a class="el" href="../../#l00142">SPELL_DEMENTIA_POS</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -449,7 +449,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d59/classspell__item__dementia.html">spell_item_dementia</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

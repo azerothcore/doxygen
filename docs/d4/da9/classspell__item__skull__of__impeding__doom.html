@@ -344,18 +344,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  806</span>    {</div>
-<div class="line"><span class="lineno">  807</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  808</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  809</span> </div>
-<div class="line"><span class="lineno">  810</span>        amount = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">GetMaxHealth</a>() * 0.12f; <span class="comment">// 5 ticks which reduce health by 60%</span></div>
-<div class="line"><span class="lineno">  811</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  780</span>    {</div>
+<div class="line"><span class="lineno">  781</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  782</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  783</span> </div>
+<div class="line"><span class="lineno">  784</span>        amount = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">GetMaxHealth</a>() * 0.12f; <span class="comment">// 5 ticks which reduce health by 60%</span></div>
+<div class="line"><span class="lineno">  785</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1035</div></div>
 <div class="ttc" id="aclassUnit_html_a5173c1774b09b42c409bf31280c37d36"><div class="ttname"><a href="../../df/dd9/classUnit.html#a5173c1774b09b42c409bf31280c37d36">Unit::GetMaxHealth</a></div><div class="ttdeci">uint32 GetMaxHealth() const</div><div class="ttdef"><b>Definition</b> Unit.h:1098</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l01098">Unit::GetMaxHealth()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00821">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00795">Register()</a>.</p>
 
 </div>
 </div>
@@ -398,18 +398,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  814</span>    {</div>
-<div class="line"><span class="lineno">  815</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>() || !<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;HasActivePowerType(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>))</div>
-<div class="line"><span class="lineno">  816</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  817</span> </div>
-<div class="line"><span class="lineno">  818</span>        amount = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>) * 0.12f; <span class="comment">// 5 ticks which reduce health by 60%</span></div>
-<div class="line"><span class="lineno">  819</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  788</span>    {</div>
+<div class="line"><span class="lineno">  789</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>() || !<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;HasActivePowerType(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>))</div>
+<div class="line"><span class="lineno">  790</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  791</span> </div>
+<div class="line"><span class="lineno">  792</span>        amount = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">GetMaxPower</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>) * 0.12f; <span class="comment">// 5 ticks which reduce health by 60%</span></div>
+<div class="line"><span class="lineno">  793</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a></div><div class="ttdeci">@ POWER_MANA</div><div class="ttdef"><b>Definition</b> SharedDefines.h:280</div></div>
 <div class="ttc" id="aclassUnit_html_a93f83fd909310de2c76382d00d7dbbf1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a93f83fd909310de2c76382d00d7dbbf1">Unit::GetMaxPower</a></div><div class="ttdeci">uint32 GetMaxPower(Powers power) const</div><div class="ttdef"><b>Definition</b> Unit.h:1125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01125">Unit::GetMaxPower()</a>, and <a class="el" href="../../#l00280">POWER_MANA</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00821">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00795">Register()</a>.</p>
 
 </div>
 </div>
@@ -463,20 +463,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  822</span>    {</div>
-<div class="line"><span class="lineno">  823</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe">spell_item_skull_of_impeding_doom::CalculateDamageAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
-<div class="line"><span class="lineno">  824</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb">spell_item_skull_of_impeding_doom::CalculateManaLeechAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2eb3f6e6a49bc0b70fa9726b1fa12bb3">SPELL_AURA_PERIODIC_MANA_LEECH</a>);</div>
-<div class="line"><span class="lineno">  825</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  796</span>    {</div>
+<div class="line"><span class="lineno">  797</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe">spell_item_skull_of_impeding_doom::CalculateDamageAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">  798</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb">spell_item_skull_of_impeding_doom::CalculateManaLeechAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2eb3f6e6a49bc0b70fa9726b1fa12bb3">SPELL_AURA_PERIODIC_MANA_LEECH</a>);</div>
+<div class="line"><span class="lineno">  799</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a></div><div class="ttdeci">@ EFFECT_2</div><div class="ttdef"><b>Definition</b> SharedDefines.h:33</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DAMAGE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:66</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a2eb3f6e6a49bc0b70fa9726b1fa12bb3"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2eb3f6e6a49bc0b70fa9726b1fa12bb3">SPELL_AURA_PERIODIC_MANA_LEECH</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_MANA_LEECH</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:127</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:783</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:782</div></div>
-<div class="ttc" id="aclassspell__item__skull__of__impeding__doom_html_a2f608e8391e61434ef1b164c023854fe"><div class="ttname"><a href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe">spell_item_skull_of_impeding_doom::CalculateDamageAmount</a></div><div class="ttdeci">void CalculateDamageAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:805</div></div>
-<div class="ttc" id="aclassspell__item__skull__of__impeding__doom_html_a8a4946d1718d8045a72c92355ff38ecb"><div class="ttname"><a href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb">spell_item_skull_of_impeding_doom::CalculateManaLeechAmount</a></div><div class="ttdeci">void CalculateManaLeechAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:813</div></div>
+<div class="ttc" id="aclassspell__item__skull__of__impeding__doom_html_a2f608e8391e61434ef1b164c023854fe"><div class="ttname"><a href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a2f608e8391e61434ef1b164c023854fe">spell_item_skull_of_impeding_doom::CalculateDamageAmount</a></div><div class="ttdeci">void CalculateDamageAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:779</div></div>
+<div class="ttc" id="aclassspell__item__skull__of__impeding__doom_html_a8a4946d1718d8045a72c92355ff38ecb"><div class="ttname"><a href="../../d4/da9/classspell__item__skull__of__impeding__doom.html#a8a4946d1718d8045a72c92355ff38ecb">spell_item_skull_of_impeding_doom::CalculateManaLeechAmount</a></div><div class="ttdeci">void CalculateManaLeechAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:787</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00805">CalculateDamageAmount()</a>, <a class="el" href="../../#l00813">CalculateManaLeechAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>, and <a class="el" href="../../#l00127">SPELL_AURA_PERIODIC_MANA_LEECH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00779">CalculateDamageAmount()</a>, <a class="el" href="../../#l00787">CalculateManaLeechAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>, and <a class="el" href="../../#l00127">SPELL_AURA_PERIODIC_MANA_LEECH</a>.</p>
 
 </div>
 </div>
@@ -489,7 +489,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/da9/classspell__item__skull__of__impeding__doom.html">spell_item_skull_of_impeding_doom</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

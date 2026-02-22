@@ -326,10 +326,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 6065</span>    {</div>
-<div class="line"><span class="lineno"> 6066</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 6067</span>        eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab0b909844f592d8b960bc3db3c710c6c">SPELL_PETRIFIED_TWILIGHT_SCALE_HC</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a80b4589d9fb316ef3e53ffdc811738b4">GetEffect</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>));</div>
-<div class="line"><span class="lineno"> 6068</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6079</span>    {</div>
+<div class="line"><span class="lineno"> 6080</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 6081</span>        eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab0b909844f592d8b960bc3db3c710c6c">SPELL_PETRIFIED_TWILIGHT_SCALE_HC</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a80b4589d9fb316ef3e53ffdc811738b4">GetEffect</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>));</div>
+<div class="line"><span class="lineno"> 6082</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassAuraScript_html_a80b4589d9fb316ef3e53ffdc811738b4"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a80b4589d9fb316ef3e53ffdc811738b4">AuraScript::GetEffect</a></div><div class="ttdeci">AuraEffect * GetEffect(uint8 effIndex) const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1170</div></div>
@@ -340,7 +340,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00454">ProcEventInfo::GetActionTarget()</a>, <a class="el" href="../../#l01170">AuraScript::GetEffect()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00266">SPELL_PETRIFIED_TWILIGHT_SCALE_HC</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06070">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06084">Register()</a>.</p>
 
 </div>
 </div>
@@ -394,14 +394,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 6071</span>    {</div>
-<div class="line"><span class="lineno"> 6072</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../de/d7c/classspell__item__petrified__twilight__scale__heroic.html#a296b2622253bae04cb797cad703bd2f1">spell_item_petrified_twilight_scale_heroic::HandleProc</a>);</div>
-<div class="line"><span class="lineno"> 6073</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6085</span>    {</div>
+<div class="line"><span class="lineno"> 6086</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../de/d7c/classspell__item__petrified__twilight__scale__heroic.html#a296b2622253bae04cb797cad703bd2f1">spell_item_petrified_twilight_scale_heroic::HandleProc</a>);</div>
+<div class="line"><span class="lineno"> 6087</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a05a51498d234bccc0ab35a047edc3417"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a></div><div class="ttdeci">#define AuraProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:855</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae83ae85373b045e22b5c20ec574f701b"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">AuraScript::OnProc</a></div><div class="ttdeci">HookList&lt; AuraProcHandler &gt; OnProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:850</div></div>
-<div class="ttc" id="aclassspell__item__petrified__twilight__scale__heroic_html_a296b2622253bae04cb797cad703bd2f1"><div class="ttname"><a href="../../de/d7c/classspell__item__petrified__twilight__scale__heroic.html#a296b2622253bae04cb797cad703bd2f1">spell_item_petrified_twilight_scale_heroic::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6064</div></div>
+<div class="ttc" id="aclassspell__item__petrified__twilight__scale__heroic_html_a296b2622253bae04cb797cad703bd2f1"><div class="ttname"><a href="../../de/d7c/classspell__item__petrified__twilight__scale__heroic.html#a296b2622253bae04cb797cad703bd2f1">spell_item_petrified_twilight_scale_heroic::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:6078</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l06064">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l06078">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
 
 </div>
 </div>
@@ -430,9 +430,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 6060</span>    {</div>
-<div class="line"><span class="lineno"> 6061</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab0b909844f592d8b960bc3db3c710c6c">SPELL_PETRIFIED_TWILIGHT_SCALE_HC</a> });</div>
-<div class="line"><span class="lineno"> 6062</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6074</span>    {</div>
+<div class="line"><span class="lineno"> 6075</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a06402edc80bb00518555bc085a388975ab0b909844f592d8b960bc3db3c710c6c">SPELL_PETRIFIED_TWILIGHT_SCALE_HC</a> });</div>
+<div class="line"><span class="lineno"> 6076</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00266">SPELL_PETRIFIED_TWILIGHT_SCALE_HC</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -448,7 +448,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d7c/classspell__item__petrified__twilight__scale__heroic.html">spell_item_petrified_twilight_scale_heroic</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -315,18 +315,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3624</span>    {</div>
-<div class="line"><span class="lineno"> 3625</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsInWater())</div>
-<div class="line"><span class="lineno"> 3626</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daaa6cc63143dadc031b5c849e25b6b6647">SPELL_FAILED_ONLY_ABOVEWATER</a>;</div>
-<div class="line"><span class="lineno"> 3627</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
-<div class="line"><span class="lineno"> 3628</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3598</span>    {</div>
+<div class="line"><span class="lineno"> 3599</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;IsInWater())</div>
+<div class="line"><span class="lineno"> 3600</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daaa6cc63143dadc031b5c849e25b6b6647">SPELL_FAILED_ONLY_ABOVEWATER</a>;</div>
+<div class="line"><span class="lineno"> 3601</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>;</div>
+<div class="line"><span class="lineno"> 3602</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daaa6cc63143dadc031b5c849e25b6b6647"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daaa6cc63143dadc031b5c849e25b6b6647">SPELL_FAILED_ONLY_ABOVEWATER</a></div><div class="ttdeci">@ SPELL_FAILED_ONLY_ABOVEWATER</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1048</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1149</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01149">SPELL_CAST_OK</a>, and <a class="el" href="../../#l01048">SPELL_FAILED_ONLY_ABOVEWATER</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03630">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03604">Register()</a>.</p>
 
 </div>
 </div>
@@ -353,25 +353,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 3614</span>    {</div>
-<div class="line"><span class="lineno"> 3615</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno"> 3616</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/da7/classBattleground.html">Battleground</a>* bg = caster-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a5f17db78f9356bf239b7631ebc38fa2d">GetBattleground</a>())</div>
-<div class="line"><span class="lineno"> 3617</span>            bg-&gt;EventPlayerDroppedFlag(caster);</div>
-<div class="line"><span class="lineno"> 3618</span> </div>
-<div class="line"><span class="lineno"> 3619</span>        caster-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ad52044947ef0aa2325b2688075bac34d">RemoveSpellCooldown</a>(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a>);</div>
-<div class="line"><span class="lineno"> 3620</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno"> 3621</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3588</span>    {</div>
+<div class="line"><span class="lineno"> 3589</span>        <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
+<div class="line"><span class="lineno"> 3590</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/da7/classBattleground.html">Battleground</a>* bg = caster-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#a5f17db78f9356bf239b7631ebc38fa2d">GetBattleground</a>())</div>
+<div class="line"><span class="lineno"> 3591</span>            bg-&gt;EventPlayerDroppedFlag(caster);</div>
+<div class="line"><span class="lineno"> 3592</span> </div>
+<div class="line"><span class="lineno"> 3593</span>        caster-&gt;<a class="code hl_function" href="../../d2/d4b/classPlayer.html#ad52044947ef0aa2325b2688075bac34d">RemoveSpellCooldown</a>(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a>);</div>
+<div class="line"><span class="lineno"> 3594</span>        caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno"> 3595</span>    }</div>
 <div class="ttc" id="aclassBattleground_html"><div class="ttname"><a href="../../df/da7/classBattleground.html">Battleground</a></div><div class="ttdef"><b>Definition</b> Battleground.h:294</div></div>
 <div class="ttc" id="aclassObject_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d8/d4b/classObject.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition</b> Object.h:201</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1084</div></div>
 <div class="ttc" id="aclassPlayer_html_a5f17db78f9356bf239b7631ebc38fa2d"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#a5f17db78f9356bf239b7631ebc38fa2d">Player::GetBattleground</a></div><div class="ttdeci">Battleground * GetBattleground(bool create=false) const</div><div class="ttdef"><b>Definition</b> Player.cpp:12175</div></div>
 <div class="ttc" id="aclassPlayer_html_ad52044947ef0aa2325b2688075bac34d"><div class="ttname"><a href="../../d2/d4b/classPlayer.html#ad52044947ef0aa2325b2688075bac34d">Player::RemoveSpellCooldown</a></div><div class="ttdeci">void RemoveSpellCooldown(uint32 spell_id, bool update=false)</div><div class="ttdef"><b>Definition</b> Player.cpp:3521</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1302</div></div>
-<div class="ttc" id="aspell__item_8cpp_html_a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a></div><div class="ttdeci">@ SPELL_ROCKET_BOOTS_PROC</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3596</div></div>
+<div class="ttc" id="aspell__item_8cpp_html_a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022"><div class="ttname"><a href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a></div><div class="ttdeci">@ SPELL_ROCKET_BOOTS_PROC</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3570</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l12175">Player::GetBattleground()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l03521">Player::RemoveSpellCooldown()</a>, <a class="el" href="../../#l03596">SPELL_ROCKET_BOOTS_PROC</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l12175">Player::GetBattleground()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l03521">Player::RemoveSpellCooldown()</a>, <a class="el" href="../../#l03570">SPELL_ROCKET_BOOTS_PROC</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03630">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03604">Register()</a>.</p>
 
 </div>
 </div>
@@ -399,9 +399,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3604</span>    {</div>
-<div class="line"><span class="lineno"> 3605</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
-<div class="line"><span class="lineno"> 3606</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3578</span>    {</div>
+<div class="line"><span class="lineno"> 3579</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>();</div>
+<div class="line"><span class="lineno"> 3580</span>    }</div>
 <div class="ttc" id="aclassObject_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition</b> Object.h:200</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00200">Object::IsPlayer()</a>.</p>
@@ -458,20 +458,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3631</span>    {</div>
-<div class="line"><span class="lineno"> 3632</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d2/d6f/classspell__item__rocket__boots.html#af92fe276563a8ca0d939d881dba8adda">spell_item_rocket_boots::CheckCast</a>);</div>
-<div class="line"><span class="lineno"> 3633</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/d6f/classspell__item__rocket__boots.html#a86b4413dd25f96fb197604007171a8d1">spell_item_rocket_boots::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 3634</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3605</span>    {</div>
+<div class="line"><span class="lineno"> 3606</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">OnCheckCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a>(<a class="code hl_function" href="../../d2/d6f/classspell__item__rocket__boots.html#af92fe276563a8ca0d939d881dba8adda">spell_item_rocket_boots::CheckCast</a>);</div>
+<div class="line"><span class="lineno"> 3607</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/d6f/classspell__item__rocket__boots.html#a86b4413dd25f96fb197604007171a8d1">spell_item_rocket_boots::HandleDummy</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 3608</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:792</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a44cc78b7e05a8f3b83e430f5115a2183"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a44cc78b7e05a8f3b83e430f5115a2183">SpellCheckCastFn</a></div><div class="ttdeci">#define SpellCheckCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:329</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a1212a7fd9c9b531c13d5781f60b05590"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a1212a7fd9c9b531c13d5781f60b05590">SpellScript::OnCheckCast</a></div><div class="ttdeci">HookList&lt; CheckCastHandler &gt; OnCheckCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:328</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__item__rocket__boots_html_a86b4413dd25f96fb197604007171a8d1"><div class="ttname"><a href="../../d2/d6f/classspell__item__rocket__boots.html#a86b4413dd25f96fb197604007171a8d1">spell_item_rocket_boots::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3613</div></div>
-<div class="ttc" id="aclassspell__item__rocket__boots_html_af92fe276563a8ca0d939d881dba8adda"><div class="ttname"><a href="../../d2/d6f/classspell__item__rocket__boots.html#af92fe276563a8ca0d939d881dba8adda">spell_item_rocket_boots::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3623</div></div>
+<div class="ttc" id="aclassspell__item__rocket__boots_html_a86b4413dd25f96fb197604007171a8d1"><div class="ttname"><a href="../../d2/d6f/classspell__item__rocket__boots.html#a86b4413dd25f96fb197604007171a8d1">spell_item_rocket_boots::HandleDummy</a></div><div class="ttdeci">void HandleDummy(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3587</div></div>
+<div class="ttc" id="aclassspell__item__rocket__boots_html_af92fe276563a8ca0d939d881dba8adda"><div class="ttname"><a href="../../d2/d6f/classspell__item__rocket__boots.html#af92fe276563a8ca0d939d881dba8adda">spell_item_rocket_boots::CheckCast</a></div><div class="ttdeci">SpellCastResult CheckCast()</div><div class="ttdef"><b>Definition</b> spell_item.cpp:3597</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03623">CheckCast()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03613">HandleDummy()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, <a class="el" href="../../#l00329">SpellCheckCastFn</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03597">CheckCast()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l03587">HandleDummy()</a>, <a class="el" href="../../#l00328">SpellScript::OnCheckCast</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00792">SPELL_EFFECT_DUMMY</a>, <a class="el" href="../../#l00329">SpellCheckCastFn</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -500,12 +500,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 3609</span>    {</div>
-<div class="line"><span class="lineno"> 3610</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a> });</div>
-<div class="line"><span class="lineno"> 3611</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 3583</span>    {</div>
+<div class="line"><span class="lineno"> 3584</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#a48d822a9bae433e3077a409dc660448ba0d2125315f5c1fe970685b85fedab022">SPELL_ROCKET_BOOTS_PROC</a> });</div>
+<div class="line"><span class="lineno"> 3585</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03596">SPELL_ROCKET_BOOTS_PROC</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03570">SPELL_ROCKET_BOOTS_PROC</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -518,7 +518,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d6f/classspell__item__rocket__boots.html">spell_item_rocket_boots</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

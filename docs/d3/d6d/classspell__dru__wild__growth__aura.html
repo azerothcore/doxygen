@@ -336,25 +336,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2076</span>    {</div>
-<div class="line"><span class="lineno"> 2077</span>        <span class="comment">// Wild Growth = first tick gains a 6% bonus, reduced by 2% each tick</span></div>
-<div class="line"><span class="lineno"> 2078</span>        <span class="keywordtype">float</span> reduction = <a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a8a3a8adce3dde9300e380500c6877d37">_baseReduction</a>;</div>
-<div class="line"><span class="lineno"> 2079</span>        reduction *= (aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">GetTickNumber</a>() - 1);</div>
-<div class="line"><span class="lineno"> 2080</span> </div>
-<div class="line"><span class="lineno"> 2081</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> bonus = 6.f - reduction;</div>
-<div class="line"><span class="lineno"> 2082</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <span class="keyword">const</span> amount = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">_baseTick</a> + <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(<a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">_baseTick</a>, bonus));</div>
-<div class="line"><span class="lineno"> 2083</span>        aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(amount);</div>
-<div class="line"><span class="lineno"> 2084</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2064</span>    {</div>
+<div class="line"><span class="lineno"> 2065</span>        <span class="comment">// Wild Growth = first tick gains a 6% bonus, reduced by 2% each tick</span></div>
+<div class="line"><span class="lineno"> 2066</span>        <span class="keywordtype">float</span> reduction = <a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a8a3a8adce3dde9300e380500c6877d37">_baseReduction</a>;</div>
+<div class="line"><span class="lineno"> 2067</span>        reduction *= (aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">GetTickNumber</a>() - 1);</div>
+<div class="line"><span class="lineno"> 2068</span> </div>
+<div class="line"><span class="lineno"> 2069</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> bonus = 6.f - reduction;</div>
+<div class="line"><span class="lineno"> 2070</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <span class="keyword">const</span> amount = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">_baseTick</a> + <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(<a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">_baseTick</a>, bonus));</div>
+<div class="line"><span class="lineno"> 2071</span>        aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(amount);</div>
+<div class="line"><span class="lineno"> 2072</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aUtil_8h_html_ae00607f8188c59ffcea5a3997c0120b0"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a></div><div class="ttdeci">T CalculatePct(T base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:52</div></div>
 <div class="ttc" id="aclassAuraEffect_html_a0c28e995bc0e15c692c24154bab9df4d"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">AuraEffect::GetTickNumber</a></div><div class="ttdeci">uint32 GetTickNumber() const</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:87</div></div>
 <div class="ttc" id="aclassAuraEffect_html_a9790b9f33c52c6d3b830dc6f56f08bf0"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">AuraEffect::SetAmount</a></div><div class="ttdeci">void SetAmount(int32 amount)</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:66</div></div>
-<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_a8a3a8adce3dde9300e380500c6877d37"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a8a3a8adce3dde9300e380500c6877d37">spell_dru_wild_growth_aura::_baseReduction</a></div><div class="ttdeci">float _baseReduction</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2093</div></div>
-<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_acd801570e2a1b274ed0d9e8bcc6b66f0"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">spell_dru_wild_growth_aura::_baseTick</a></div><div class="ttdeci">float _baseTick</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2092</div></div>
+<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_a8a3a8adce3dde9300e380500c6877d37"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a8a3a8adce3dde9300e380500c6877d37">spell_dru_wild_growth_aura::_baseReduction</a></div><div class="ttdeci">float _baseReduction</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2081</div></div>
+<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_acd801570e2a1b274ed0d9e8bcc6b66f0"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">spell_dru_wild_growth_aura::_baseTick</a></div><div class="ttdeci">float _baseTick</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2080</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02093">_baseReduction</a>, <a class="el" href="../../#l02092">_baseTick</a>, <a class="el" href="../../#l00052">CalculatePct()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00066">AuraEffect::SetAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02081">_baseReduction</a>, <a class="el" href="../../#l02080">_baseTick</a>, <a class="el" href="../../#l00052">CalculatePct()</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00066">AuraEffect::SetAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02086">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02074">Register()</a>.</p>
 
 </div>
 </div>
@@ -408,20 +408,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2087</span>    {</div>
-<div class="line"><span class="lineno"> 2088</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a2eabcc9aa3898c11062677eca73d1de1">spell_dru_wild_growth_aura::SetTickHeal</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
-<div class="line"><span class="lineno"> 2089</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#aa9c1d6c644a3e42b21d1025fc3b06f69">spell_dru_wild_growth_aura::HandleTickUpdate</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
-<div class="line"><span class="lineno"> 2090</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2075</span>    {</div>
+<div class="line"><span class="lineno"> 2076</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a2eabcc9aa3898c11062677eca73d1de1">spell_dru_wild_growth_aura::SetTickHeal</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
+<div class="line"><span class="lineno"> 2077</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#aa9c1d6c644a3e42b21d1025fc3b06f69">spell_dru_wild_growth_aura::HandleTickUpdate</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a>);</div>
+<div class="line"><span class="lineno"> 2078</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a6442a4a379f82e2f08734296e1e21c9f">SPELL_AURA_PERIODIC_HEAL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_HEAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:71</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:783</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a715640892166108a23f30ed68346d395"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a></div><div class="ttdeci">#define AuraEffectUpdatePeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:777</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:782</div></div>
 <div class="ttc" id="aclassAuraScript_html_a6baf2932d6e9170f5dc3aa969e6f0396"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">AuraScript::OnEffectUpdatePeriodic</a></div><div class="ttdeci">HookList&lt; EffectUpdatePeriodicHandler &gt; OnEffectUpdatePeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:776</div></div>
-<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_a2eabcc9aa3898c11062677eca73d1de1"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a2eabcc9aa3898c11062677eca73d1de1">spell_dru_wild_growth_aura::SetTickHeal</a></div><div class="ttdeci">void SetTickHeal(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2067</div></div>
-<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_aa9c1d6c644a3e42b21d1025fc3b06f69"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#aa9c1d6c644a3e42b21d1025fc3b06f69">spell_dru_wild_growth_aura::HandleTickUpdate</a></div><div class="ttdeci">void HandleTickUpdate(AuraEffect *aurEff)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2075</div></div>
+<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_a2eabcc9aa3898c11062677eca73d1de1"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a2eabcc9aa3898c11062677eca73d1de1">spell_dru_wild_growth_aura::SetTickHeal</a></div><div class="ttdeci">void SetTickHeal(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2055</div></div>
+<div class="ttc" id="aclassspell__dru__wild__growth__aura_html_aa9c1d6c644a3e42b21d1025fc3b06f69"><div class="ttname"><a href="../../d3/d6d/classspell__dru__wild__growth__aura.html#aa9c1d6c644a3e42b21d1025fc3b06f69">spell_dru_wild_growth_aura::HandleTickUpdate</a></div><div class="ttdeci">void HandleTickUpdate(AuraEffect *aurEff)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:2063</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00777">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02075">HandleTickUpdate()</a>, <a class="el" href="../../#l00776">AuraScript::OnEffectUpdatePeriodic</a>, <a class="el" href="../../#l02067">SetTickHeal()</a>, and <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00777">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l02063">HandleTickUpdate()</a>, <a class="el" href="../../#l00776">AuraScript::OnEffectUpdatePeriodic</a>, <a class="el" href="../../#l02055">SetTickHeal()</a>, and <a class="el" href="../../#l00071">SPELL_AURA_PERIODIC_HEAL</a>.</p>
 
 </div>
 </div>
@@ -464,21 +464,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2068</span>    {</div>
-<div class="line"><span class="lineno"> 2069</span>        <a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">_baseTick</a> = amount;</div>
-<div class="line"><span class="lineno"> 2070</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno"> 2071</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* bonus = caster-&gt;GetAuraEffect(<a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
-<div class="line"><span class="lineno"> 2072</span>                <a class="code hl_function" href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a>(<a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a8a3a8adce3dde9300e380500c6877d37">_baseReduction</a>, -bonus-&gt;GetAmount());</div>
-<div class="line"><span class="lineno"> 2073</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2056</span>    {</div>
+<div class="line"><span class="lineno"> 2057</span>        <a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#acd801570e2a1b274ed0d9e8bcc6b66f0">_baseTick</a> = amount;</div>
+<div class="line"><span class="lineno"> 2058</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno"> 2059</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* bonus = caster-&gt;GetAuraEffect(<a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
+<div class="line"><span class="lineno"> 2060</span>                <a class="code hl_function" href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a>(<a class="code hl_variable" href="../../d3/d6d/classspell__dru__wild__growth__aura.html#a8a3a8adce3dde9300e380500c6877d37">_baseReduction</a>, -bonus-&gt;GetAmount());</div>
+<div class="line"><span class="lineno"> 2061</span>    }</div>
 <div class="ttc" id="aUtil_8h_html_a53176b459b4462b058b2a1be47ef82ee"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a></div><div class="ttdeci">T AddPct(T &amp;base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:58</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1035</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
 <div class="ttc" id="aspell__druid_8cpp_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250"><div class="ttname"><a href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a></div><div class="ttdeci">@ SPELL_DRUID_RESTORATION_T10_2P_BONUS</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:102</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02093">_baseReduction</a>, <a class="el" href="../../#l02092">_baseTick</a>, <a class="el" href="../../#l00058">AddPct()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l00102">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02081">_baseReduction</a>, <a class="el" href="../../#l02080">_baseTick</a>, <a class="el" href="../../#l00058">AddPct()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l00102">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02086">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02074">Register()</a>.</p>
 
 </div>
 </div>
@@ -507,9 +507,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2063</span>    {</div>
-<div class="line"><span class="lineno"> 2064</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a> });</div>
-<div class="line"><span class="lineno"> 2065</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2051</span>    {</div>
+<div class="line"><span class="lineno"> 2052</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aafdb25609007e133b781767ea0d1d4250">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a> });</div>
+<div class="line"><span class="lineno"> 2053</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00102">SPELL_DRUID_RESTORATION_T10_2P_BONUS</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -537,7 +537,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02075">HandleTickUpdate()</a>, and <a class="el" href="../../#l02067">SetTickHeal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02063">HandleTickUpdate()</a>, and <a class="el" href="../../#l02055">SetTickHeal()</a>.</p>
 
 </div>
 </div>
@@ -561,7 +561,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02075">HandleTickUpdate()</a>, and <a class="el" href="../../#l02067">SetTickHeal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02063">HandleTickUpdate()</a>, and <a class="el" href="../../#l02055">SetTickHeal()</a>.</p>
 
 </div>
 </div>
@@ -574,7 +574,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d6d/classspell__dru__wild__growth__aura.html">spell_dru_wild_growth_aura</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:37:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

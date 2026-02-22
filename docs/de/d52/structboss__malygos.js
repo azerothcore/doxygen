@@ -15,6 +15,7 @@ var structboss__malygos =
     [ "Reset", "de/d52/structboss__malygos.html#a0b2603b3691b4961977acbc593202306", null ],
     [ "SpellHit", "de/d52/structboss__malygos.html#ab520ae358e31225469e96d8628c6314c", null ],
     [ "UpdateAI", "de/d52/structboss__malygos.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
+    [ "_executingVortex", "de/d52/structboss__malygos.html#a1a838052f9465530a586132a24c7ec5b", null ],
     [ "bLockHealthCheck", "de/d52/structboss__malygos.html#a8809894ee687da3133030b4d4f080b35", null ],
     [ "IntroCounter", "de/d52/structboss__malygos.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
     [ "timer1", "de/d52/structboss__malygos.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],

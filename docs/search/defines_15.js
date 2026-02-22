@@ -19,7 +19,5 @@ var searchData=
   ['visibility_5fsettings_5fplayer_5finterval_16',['VISIBILITY_SETTINGS_PLAYER_INTERVAL',['../d4/df7/DynamicVisibility_8h.html#a2733c1a6a4018078df00a4c426661436',1,'DynamicVisibility.h']]],
   ['visual_5fwaypoint_17',['VISUAL_WAYPOINT',['../db/d10/MotionMaster_8h.html#af0544189c7fc748059c3075861102b40',1,'MotionMaster.h']]],
   ['vmap_5finvalid_5fheight_18',['VMAP_INVALID_HEIGHT',['../db/d23/IVMapMgr_8h.html#aa3e862468079e7d1ca850fab429fb316',1,'IVMapMgr.h']]],
-  ['vmap_5finvalid_5fheight_5fvalue_19',['VMAP_INVALID_HEIGHT_VALUE',['../db/d23/IVMapMgr_8h.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]],
-  ['vortex_5fdefault_5fdiff_20',['VORTEX_DEFAULT_DIFF',['../db/d86/boss__malygos_8cpp.html#a7100ba43dcb23992d0c1aa883b63f3b5',1,'boss_malygos.cpp']]],
-  ['vortex_5ftravel_5ftime_21',['VORTEX_TRAVEL_TIME',['../db/d86/boss__malygos_8cpp.html#a4cc5108382726c6576ae18ef024ba300',1,'boss_malygos.cpp']]]
+  ['vmap_5finvalid_5fheight_5fvalue_19',['VMAP_INVALID_HEIGHT_VALUE',['../db/d23/IVMapMgr_8h.html#a6d0d846568e1fbb60e05aacfa9c1c73c',1,'IVMapMgr.h']]]
 ];

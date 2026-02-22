@@ -341,14 +341,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5140</span>    {</div>
-<div class="line"><span class="lineno"> 5141</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f">AfterCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../d8/d31/classspell__item__mad__alchemists__potion.html#a6150d8615c7f579aadd50e28aba0d569">spell_item_mad_alchemists_potion::SecondaryEffect</a>);</div>
-<div class="line"><span class="lineno"> 5142</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5114</span>    {</div>
+<div class="line"><span class="lineno"> 5115</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f">AfterCast</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a>(<a class="code hl_function" href="../../d8/d31/classspell__item__mad__alchemists__potion.html#a6150d8615c7f579aadd50e28aba0d569">spell_item_mad_alchemists_potion::SecondaryEffect</a>);</div>
+<div class="line"><span class="lineno"> 5116</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_aa0eb707cdfb0f2fafeafd6ab32274654"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#aa0eb707cdfb0f2fafeafd6ab32274654">SpellCastFn</a></div><div class="ttdeci">#define SpellCastFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:324</div></div>
 <div class="ttc" id="aclassSpellScript_html_a05948ff5c05b05d77ed69043972eaa4f"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a05948ff5c05b05d77ed69043972eaa4f">SpellScript::AfterCast</a></div><div class="ttdeci">HookList&lt; CastHandler &gt; AfterCast</div><div class="ttdef"><b>Definition</b> SpellScript.h:323</div></div>
-<div class="ttc" id="aclassspell__item__mad__alchemists__potion_html_a6150d8615c7f579aadd50e28aba0d569"><div class="ttname"><a href="../../d8/d31/classspell__item__mad__alchemists__potion.html#a6150d8615c7f579aadd50e28aba0d569">spell_item_mad_alchemists_potion::SecondaryEffect</a></div><div class="ttdeci">void SecondaryEffect()</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5079</div></div>
+<div class="ttc" id="aclassspell__item__mad__alchemists__potion_html_a6150d8615c7f579aadd50e28aba0d569"><div class="ttname"><a href="../../d8/d31/classspell__item__mad__alchemists__potion.html#a6150d8615c7f579aadd50e28aba0d569">spell_item_mad_alchemists_potion::SecondaryEffect</a></div><div class="ttdeci">void SecondaryEffect()</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5053</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00323">SpellScript::AfterCast</a>, <a class="el" href="../../#l05079">SecondaryEffect()</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00323">SpellScript::AfterCast</a>, <a class="el" href="../../#l05053">SecondaryEffect()</a>, and <a class="el" href="../../#l00324">SpellCastFn</a>.</p>
 
 </div>
 </div>
@@ -374,64 +374,64 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5080</span>    {</div>
-<div class="line"><span class="lineno"> 5081</span>        std::vector&lt;uint32&gt; availableElixirs =</div>
-<div class="line"><span class="lineno"> 5082</span>        {</div>
-<div class="line"><span class="lineno"> 5083</span>            <span class="comment">// Battle Elixirs</span></div>
-<div class="line"><span class="lineno"> 5084</span>            33720, <span class="comment">// Onslaught Elixir</span></div>
-<div class="line"><span class="lineno"> 5085</span>            54452, <span class="comment">// Adept&#39;s Elixir</span></div>
-<div class="line"><span class="lineno"> 5086</span>            33726, <span class="comment">// Elixir of Mastery</span></div>
-<div class="line"><span class="lineno"> 5087</span>            28490, <span class="comment">// Elixir of Major Strength</span></div>
-<div class="line"><span class="lineno"> 5088</span>            28491, <span class="comment">// Elixir of Healing Power</span></div>
-<div class="line"><span class="lineno"> 5089</span>            28493, <span class="comment">// Elixir of Major Frost Power</span></div>
-<div class="line"><span class="lineno"> 5090</span>            54494, <span class="comment">// Elixir of Major Agility</span></div>
-<div class="line"><span class="lineno"> 5091</span>            28501, <span class="comment">// Elixir of Major Firepower</span></div>
-<div class="line"><span class="lineno"> 5092</span>            28503, <span class="comment">// Elixir of Major Shadow Power</span></div>
-<div class="line"><span class="lineno"> 5093</span>            38954, <span class="comment">// Fel Strength Elixir</span></div>
-<div class="line"><span class="lineno"> 5094</span>            <span class="comment">// Guardian Elixirs</span></div>
-<div class="line"><span class="lineno"> 5095</span>            39625, <span class="comment">// Elixir of Major Fortitude</span></div>
-<div class="line"><span class="lineno"> 5096</span>            39626, <span class="comment">// Earthen Elixir</span></div>
-<div class="line"><span class="lineno"> 5097</span>            39627, <span class="comment">// Elixir of Draenic Wisdom</span></div>
-<div class="line"><span class="lineno"> 5098</span>            39628, <span class="comment">// Elixir of Ironskin</span></div>
-<div class="line"><span class="lineno"> 5099</span>            28502, <span class="comment">// Elixir of Major Defense</span></div>
-<div class="line"><span class="lineno"> 5100</span>            28514, <span class="comment">// Elixir of Empowerment</span></div>
-<div class="line"><span class="lineno"> 5101</span>            <span class="comment">// Other</span></div>
-<div class="line"><span class="lineno"> 5102</span>            28489, <span class="comment">// Elixir of Camouflage</span></div>
-<div class="line"><span class="lineno"> 5103</span>            28496  <span class="comment">// Elixir of the Searching Eye</span></div>
-<div class="line"><span class="lineno"> 5104</span>        };</div>
-<div class="line"><span class="lineno"> 5105</span> </div>
-<div class="line"><span class="lineno"> 5106</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 5107</span> </div>
-<div class="line"><span class="lineno"> 5108</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>)</div>
-<div class="line"><span class="lineno"> 5109</span>            availableElixirs.push_back(28509); <span class="comment">// Elixir of Major Mageblood</span></div>
-<div class="line"><span class="lineno"> 5110</span> </div>
-<div class="line"><span class="lineno"> 5111</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> chosenElixir = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(availableElixirs);</div>
-<div class="line"><span class="lineno"> 5112</span> </div>
-<div class="line"><span class="lineno"> 5113</span>        <span class="keywordtype">bool</span> useElixir = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 5114</span> </div>
-<div class="line"><span class="lineno"> 5115</span>        <a class="code hl_enumeration" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3">SpellGroup</a> chosenSpellGroup = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a73f9d62696d848b5f623a0388ca6c4bb">SPELL_GROUP_NONE</a>;</div>
-<div class="line"><span class="lineno"> 5116</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;IsSpellMemberOfSpellGroup(chosenElixir, <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a89a97a6782ba13e601f6e907cff6a5c9">SPELL_GROUP_ELIXIR_BATTLE</a>))</div>
-<div class="line"><span class="lineno"> 5117</span>            chosenSpellGroup = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a89a97a6782ba13e601f6e907cff6a5c9">SPELL_GROUP_ELIXIR_BATTLE</a>;</div>
-<div class="line"><span class="lineno"> 5118</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;IsSpellMemberOfSpellGroup(chosenElixir, <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a916e771457d5b76bcdb0731d880f32ad">SPELL_GROUP_ELIXIR_GUARDIAN</a>))</div>
-<div class="line"><span class="lineno"> 5119</span>            chosenSpellGroup = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a916e771457d5b76bcdb0731d880f32ad">SPELL_GROUP_ELIXIR_GUARDIAN</a>;</div>
-<div class="line"><span class="lineno"> 5120</span> </div>
-<div class="line"><span class="lineno"> 5121</span>        <span class="keywordflow">if</span> (chosenSpellGroup != <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a73f9d62696d848b5f623a0388ca6c4bb">SPELL_GROUP_NONE</a>)</div>
-<div class="line"><span class="lineno"> 5122</span>        {</div>
-<div class="line"><span class="lineno"> 5123</span>            <a class="code hl_typedef" href="../../df/dd9/classUnit.html#a32f102f941cf4a53fe17e7f7e957150a">Unit::AuraApplicationMap</a> <span class="keyword">const</span>&amp; auraMap = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adc7150ef9ed6fc45dc84ac504fd75141">GetAppliedAuras</a>();</div>
-<div class="line"><span class="lineno"> 5124</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = auraMap.begin(); itr != auraMap.end(); ++itr)</div>
-<div class="line"><span class="lineno"> 5125</span>            {</div>
-<div class="line"><span class="lineno"> 5126</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = itr-&gt;second-&gt;GetBase()-&gt;GetId();</div>
-<div class="line"><span class="lineno"> 5127</span>                <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;IsSpellMemberOfSpellGroup(spellId, chosenSpellGroup) &amp;&amp; spellId != chosenElixir)</div>
-<div class="line"><span class="lineno"> 5128</span>                {</div>
-<div class="line"><span class="lineno"> 5129</span>                    useElixir = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 5130</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 5131</span>                }</div>
-<div class="line"><span class="lineno"> 5132</span>            }</div>
-<div class="line"><span class="lineno"> 5133</span>        }</div>
-<div class="line"><span class="lineno"> 5134</span> </div>
-<div class="line"><span class="lineno"> 5135</span>        <span class="keywordflow">if</span> (useElixir)</div>
-<div class="line"><span class="lineno"> 5136</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, chosenElixir, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a6850117c995152d98522696c9e518baf">GetCastItem</a>());</div>
-<div class="line"><span class="lineno"> 5137</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5054</span>    {</div>
+<div class="line"><span class="lineno"> 5055</span>        std::vector&lt;uint32&gt; availableElixirs =</div>
+<div class="line"><span class="lineno"> 5056</span>        {</div>
+<div class="line"><span class="lineno"> 5057</span>            <span class="comment">// Battle Elixirs</span></div>
+<div class="line"><span class="lineno"> 5058</span>            33720, <span class="comment">// Onslaught Elixir (28102)</span></div>
+<div class="line"><span class="lineno"> 5059</span>            54452, <span class="comment">// Adept&#39;s Elixir (28103)</span></div>
+<div class="line"><span class="lineno"> 5060</span>            33726, <span class="comment">// Elixir of Mastery (28104)</span></div>
+<div class="line"><span class="lineno"> 5061</span>            28490, <span class="comment">// Elixir of Major Strength (22824)</span></div>
+<div class="line"><span class="lineno"> 5062</span>            28491, <span class="comment">// Elixir of Healing Power (22825)</span></div>
+<div class="line"><span class="lineno"> 5063</span>            28493, <span class="comment">// Elixir of Major Frost Power (22827)</span></div>
+<div class="line"><span class="lineno"> 5064</span>            54494, <span class="comment">// Elixir of Major Agility (22831)</span></div>
+<div class="line"><span class="lineno"> 5065</span>            28501, <span class="comment">// Elixir of Major Firepower (22833)</span></div>
+<div class="line"><span class="lineno"> 5066</span>            28503, <span class="comment">// Elixir of Major Shadow Power (22835)</span></div>
+<div class="line"><span class="lineno"> 5067</span>            38954, <span class="comment">// Fel Strength Elixir (31679)</span></div>
+<div class="line"><span class="lineno"> 5068</span>            <span class="comment">// Guardian Elixirs</span></div>
+<div class="line"><span class="lineno"> 5069</span>            39625, <span class="comment">// Elixir of Major Fortitude (32062)</span></div>
+<div class="line"><span class="lineno"> 5070</span>            39626, <span class="comment">// Earthen Elixir (32063)</span></div>
+<div class="line"><span class="lineno"> 5071</span>            39627, <span class="comment">// Elixir of Draenic Wisdom (32067)</span></div>
+<div class="line"><span class="lineno"> 5072</span>            39628, <span class="comment">// Elixir of Ironskin (32068)</span></div>
+<div class="line"><span class="lineno"> 5073</span>            28502, <span class="comment">// Elixir of Major Defense (22834)</span></div>
+<div class="line"><span class="lineno"> 5074</span>            28514, <span class="comment">// Elixir of Empowerment (22848)</span></div>
+<div class="line"><span class="lineno"> 5075</span>            <span class="comment">// Other</span></div>
+<div class="line"><span class="lineno"> 5076</span>            28489, <span class="comment">// Elixir of Camouflage (22823)</span></div>
+<div class="line"><span class="lineno"> 5077</span>            28496  <span class="comment">// Elixir of the Searching Eye (22830)</span></div>
+<div class="line"><span class="lineno"> 5078</span>        };</div>
+<div class="line"><span class="lineno"> 5079</span> </div>
+<div class="line"><span class="lineno"> 5080</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 5081</span> </div>
+<div class="line"><span class="lineno"> 5082</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>() == <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a>)</div>
+<div class="line"><span class="lineno"> 5083</span>            availableElixirs.push_back(28509); <span class="comment">// Elixir of Major Mageblood (22840)</span></div>
+<div class="line"><span class="lineno"> 5084</span> </div>
+<div class="line"><span class="lineno"> 5085</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> chosenElixir = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(availableElixirs);</div>
+<div class="line"><span class="lineno"> 5086</span> </div>
+<div class="line"><span class="lineno"> 5087</span>        <span class="keywordtype">bool</span> useElixir = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 5088</span> </div>
+<div class="line"><span class="lineno"> 5089</span>        <a class="code hl_enumeration" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3">SpellGroup</a> chosenSpellGroup = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a73f9d62696d848b5f623a0388ca6c4bb">SPELL_GROUP_NONE</a>;</div>
+<div class="line"><span class="lineno"> 5090</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;IsSpellMemberOfSpellGroup(chosenElixir, <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a89a97a6782ba13e601f6e907cff6a5c9">SPELL_GROUP_ELIXIR_BATTLE</a>))</div>
+<div class="line"><span class="lineno"> 5091</span>            chosenSpellGroup = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a89a97a6782ba13e601f6e907cff6a5c9">SPELL_GROUP_ELIXIR_BATTLE</a>;</div>
+<div class="line"><span class="lineno"> 5092</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;IsSpellMemberOfSpellGroup(chosenElixir, <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a916e771457d5b76bcdb0731d880f32ad">SPELL_GROUP_ELIXIR_GUARDIAN</a>))</div>
+<div class="line"><span class="lineno"> 5093</span>            chosenSpellGroup = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a916e771457d5b76bcdb0731d880f32ad">SPELL_GROUP_ELIXIR_GUARDIAN</a>;</div>
+<div class="line"><span class="lineno"> 5094</span>        <span class="comment">// If another spell of the same group is already active the elixir should not be cast</span></div>
+<div class="line"><span class="lineno"> 5095</span>        <span class="keywordflow">if</span> (chosenSpellGroup != <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3a73f9d62696d848b5f623a0388ca6c4bb">SPELL_GROUP_NONE</a>)</div>
+<div class="line"><span class="lineno"> 5096</span>        {</div>
+<div class="line"><span class="lineno"> 5097</span>            <a class="code hl_typedef" href="../../df/dd9/classUnit.html#a32f102f941cf4a53fe17e7f7e957150a">Unit::AuraApplicationMap</a> <span class="keyword">const</span>&amp; auraMap = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#adc7150ef9ed6fc45dc84ac504fd75141">GetAppliedAuras</a>();</div>
+<div class="line"><span class="lineno"> 5098</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = auraMap.begin(); itr != auraMap.end(); ++itr)</div>
+<div class="line"><span class="lineno"> 5099</span>            {</div>
+<div class="line"><span class="lineno"> 5100</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = itr-&gt;second-&gt;GetBase()-&gt;GetId();</div>
+<div class="line"><span class="lineno"> 5101</span>                <span class="keywordflow">if</span> (<a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;IsSpellMemberOfSpellGroup(spellId, chosenSpellGroup) &amp;&amp; spellId != chosenElixir)</div>
+<div class="line"><span class="lineno"> 5102</span>                {</div>
+<div class="line"><span class="lineno"> 5103</span>                    useElixir = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 5104</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 5105</span>                }</div>
+<div class="line"><span class="lineno"> 5106</span>            }</div>
+<div class="line"><span class="lineno"> 5107</span>        }</div>
+<div class="line"><span class="lineno"> 5108</span> </div>
+<div class="line"><span class="lineno"> 5109</span>        <span class="keywordflow">if</span> (useElixir)</div>
+<div class="line"><span class="lineno"> 5110</span>            target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(target, chosenElixir, <a class="code hl_function" href="../../df/d92/classSpellScript.html#a6850117c995152d98522696c9e518baf">GetCastItem</a>());</div>
+<div class="line"><span class="lineno"> 5111</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a></div><div class="ttdeci">@ POWER_MANA</div><div class="ttdef"><b>Definition</b> SharedDefines.h:280</div></div>
 <div class="ttc" id="aSpellMgr_8h_html_a5cc792b331587e5eed7f868a807c89a3"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#a5cc792b331587e5eed7f868a807c89a3">SpellGroup</a></div><div class="ttdeci">SpellGroup</div><div class="ttdef"><b>Definition</b> SpellMgr.h:328</div></div>
@@ -450,7 +450,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l01372">Unit::GetAppliedAuras()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00620">SpellScript::GetCastItem()</a>, <a class="el" href="../../#l01120">Unit::getPowerType()</a>, <a class="el" href="../../#l00280">POWER_MANA</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, <a class="el" href="../../#l00330">SPELL_GROUP_ELIXIR_BATTLE</a>, <a class="el" href="../../#l00331">SPELL_GROUP_ELIXIR_GUARDIAN</a>, <a class="el" href="../../#l00329">SPELL_GROUP_NONE</a>, and <a class="el" href="../../#l00814">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05139">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05113">Register()</a>.</p>
 
 </div>
 </div>
@@ -463,7 +463,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d31/classspell__item__mad__alchemists__potion.html">spell_item_mad_alchemists_potion</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

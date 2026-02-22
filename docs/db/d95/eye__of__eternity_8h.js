@@ -18,7 +18,9 @@ var eye__of__eternity_8h =
       [ "DATA_NEXUS_PLATFORM", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab6372f203e10ffecd1c55304c7f6c586", null ],
       [ "DATA_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
       [ "DATA_SET_IRIS_INACTIVE", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a1dcf1f64522995a4635c77b607d1824c", null ],
-      [ "DATA_HIDE_IRIS_AND_PORTAL", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ]
+      [ "DATA_HIDE_IRIS_AND_PORTAL", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ],
+      [ "DATA_VORTEX_HANDLING", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a44b662ecf6f6bedba76886bf5cefe454", null ],
+      [ "DATA_VORTEX_TRIGGER", "db/d95/eye__of__eternity_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a78682e31a92de032ba23262026f9d530", null ]
     ] ],
     [ "eAchiev", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71", [
       [ "ACHIEV_CRITERIA_DENYIN_THE_SCION_10", "db/d95/eye__of__eternity_8h.html#a7b67ae0eba9bb5ef739ec60c6231af71aad703e13517c628337b738660d14962d", null ],
@@ -50,7 +52,8 @@ var eye__of__eternity_8h =
       [ "SPELL_HASTE", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a4c56cbad6da8e7d609a031112e3e54ba", null ],
       [ "SPELL_ALEXSTRASZA_GIFT", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ad1bf2f324e36b82abfe1d592b1876e20", null ],
       [ "SPELL_SUMMON_RED_DRAGON_BUDDY", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a830614a9bf710d7048b72ee0a5278eff", null ],
-      [ "SPELL_RIDE_RED_DRAGON", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ]
+      [ "SPELL_RIDE_RED_DRAGON", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ae9ca7f82c64c8f01db6b7ed1e7178750", null ],
+      [ "SPELL_VORTEX_4", "db/d95/eye__of__eternity_8h.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0ab8c278a3ff3030d3af6df0836fed6879", null ]
     ] ],
     [ "NPCs", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_MALYGOS", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca2208476e0e36e4b3b2c43f2107677364", null ],
@@ -79,5 +82,7 @@ var eye__of__eternity_8h =
     [ "FourSidesPos", "db/d95/eye__of__eternity_8h.html#ae13721540dc0ce9423633d9b5fbdeef2", null ],
     [ "HeartOfMagicPos", "db/d95/eye__of__eternity_8h.html#a36f953ee2a1b37fe4693089faf69c1b0", null ],
     [ "MalygosIntroIntervals", "db/d95/eye__of__eternity_8h.html#a96de54c0b6f0f36fadc0222347f923ab", null ],
-    [ "Phase2NorthPos", "db/d95/eye__of__eternity_8h.html#aba0abca8be7751435e0981b59d9fced2", null ]
+    [ "Phase2NorthPos", "db/d95/eye__of__eternity_8h.html#aba0abca8be7751435e0981b59d9fced2", null ],
+    [ "VortexLandPos", "db/d95/eye__of__eternity_8h.html#a6c96f8bd6bf658e412930b948b14b58c", null ],
+    [ "VortexPos", "db/d95/eye__of__eternity_8h.html#ade33ce440e1ed89280ff4f14f2a2d2a1", null ]
 ];

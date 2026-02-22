@@ -336,31 +336,31 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 4651</span>    {</div>
-<div class="line"><span class="lineno"> 4652</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 4653</span> </div>
-<div class="line"><span class="lineno"> 4654</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>();</div>
-<div class="line"><span class="lineno"> 4655</span>        <span class="keywordtype">float</span> str = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8">GetStat</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa8b5028ba51024ead888adb32c0b7778">STAT_STRENGTH</a>);</div>
-<div class="line"><span class="lineno"> 4656</span>        <span class="keywordtype">float</span> agi = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8">GetStat</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d">STAT_AGILITY</a>);</div>
-<div class="line"><span class="lineno"> 4657</span> </div>
-<div class="line"><span class="lineno"> 4658</span>        <span class="keywordflow">switch</span> (aurEff-&gt;GetId())</div>
-<div class="line"><span class="lineno"> 4659</span>        {</div>
-<div class="line"><span class="lineno"> 4660</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ab5a383d9329436e6cff070b4372d1161">SPELL_DEATH_CHOICE_NORMAL_AURA</a>:</div>
-<div class="line"><span class="lineno"> 4661</span>                <span class="keywordflow">if</span> (str &gt; agi)</div>
-<div class="line"><span class="lineno"> 4662</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ac654ec2149c3ff90b6def3462d5261a4">SPELL_DEATH_CHOICE_NORMAL_STRENGTH</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 4663</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 4664</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37acfb80ad082fc525c8a7c99880c7cccaf">SPELL_DEATH_CHOICE_NORMAL_AGILITY</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 4665</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 4666</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a07ef372a7533afa6da1b26990ba78bad">SPELL_DEATH_CHOICE_HEROIC_AURA</a>:</div>
-<div class="line"><span class="lineno"> 4667</span>                <span class="keywordflow">if</span> (str &gt; agi)</div>
-<div class="line"><span class="lineno"> 4668</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a5411ab394634fef07189a5d4e581242f">SPELL_DEATH_CHOICE_HEROIC_STRENGTH</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 4669</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 4670</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37af7fdae3db2330d90616796875b337297">SPELL_DEATH_CHOICE_HEROIC_AGILITY</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 4671</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 4672</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno"> 4673</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 4674</span>        }</div>
-<div class="line"><span class="lineno"> 4675</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4625</span>    {</div>
+<div class="line"><span class="lineno"> 4626</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 4627</span> </div>
+<div class="line"><span class="lineno"> 4628</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>();</div>
+<div class="line"><span class="lineno"> 4629</span>        <span class="keywordtype">float</span> str = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8">GetStat</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa8b5028ba51024ead888adb32c0b7778">STAT_STRENGTH</a>);</div>
+<div class="line"><span class="lineno"> 4630</span>        <span class="keywordtype">float</span> agi = caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac7e280621948a32b7d8ef0fc57fdf3c8">GetStat</a>(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d">STAT_AGILITY</a>);</div>
+<div class="line"><span class="lineno"> 4631</span> </div>
+<div class="line"><span class="lineno"> 4632</span>        <span class="keywordflow">switch</span> (aurEff-&gt;GetId())</div>
+<div class="line"><span class="lineno"> 4633</span>        {</div>
+<div class="line"><span class="lineno"> 4634</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ab5a383d9329436e6cff070b4372d1161">SPELL_DEATH_CHOICE_NORMAL_AURA</a>:</div>
+<div class="line"><span class="lineno"> 4635</span>                <span class="keywordflow">if</span> (str &gt; agi)</div>
+<div class="line"><span class="lineno"> 4636</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ac654ec2149c3ff90b6def3462d5261a4">SPELL_DEATH_CHOICE_NORMAL_STRENGTH</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 4637</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 4638</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37acfb80ad082fc525c8a7c99880c7cccaf">SPELL_DEATH_CHOICE_NORMAL_AGILITY</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 4639</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 4640</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a07ef372a7533afa6da1b26990ba78bad">SPELL_DEATH_CHOICE_HEROIC_AURA</a>:</div>
+<div class="line"><span class="lineno"> 4641</span>                <span class="keywordflow">if</span> (str &gt; agi)</div>
+<div class="line"><span class="lineno"> 4642</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a5411ab394634fef07189a5d4e581242f">SPELL_DEATH_CHOICE_HEROIC_STRENGTH</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 4643</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 4644</span>                    caster-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(caster, <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37af7fdae3db2330d90616796875b337297">SPELL_DEATH_CHOICE_HEROIC_AGILITY</a>, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 4645</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 4646</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 4647</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 4648</span>        }</div>
+<div class="line"><span class="lineno"> 4649</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa06d404424a14cef13f2f52b671d567d">STAT_AGILITY</a></div><div class="ttdeci">@ STAT_AGILITY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:270</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ad28c24e82986133459dee232a5360bc4aa8b5028ba51024ead888adb32c0b7778"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ad28c24e82986133459dee232a5360bc4aa8b5028ba51024ead888adb32c0b7778">STAT_STRENGTH</a></div><div class="ttdeci">@ STAT_STRENGTH</div><div class="ttdef"><b>Definition</b> SharedDefines.h:269</div></div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
@@ -377,7 +377,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l00453">ProcEventInfo::GetActor()</a>, <a class="el" href="../../#l00432">AuraEffect::GetId()</a>, <a class="el" href="../../#l01047">Unit::GetStat()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00062">SPELL_DEATH_CHOICE_HEROIC_AGILITY</a>, <a class="el" href="../../#l00061">SPELL_DEATH_CHOICE_HEROIC_AURA</a>, <a class="el" href="../../#l00063">SPELL_DEATH_CHOICE_HEROIC_STRENGTH</a>, <a class="el" href="../../#l00059">SPELL_DEATH_CHOICE_NORMAL_AGILITY</a>, <a class="el" href="../../#l00058">SPELL_DEATH_CHOICE_NORMAL_AURA</a>, <a class="el" href="../../#l00060">SPELL_DEATH_CHOICE_NORMAL_STRENGTH</a>, <a class="el" href="../../#l00270">STAT_AGILITY</a>, and <a class="el" href="../../#l00269">STAT_STRENGTH</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04677">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04651">Register()</a>.</p>
 
 </div>
 </div>
@@ -431,16 +431,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4678</span>    {</div>
-<div class="line"><span class="lineno"> 4679</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645">spell_item_death_choice::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 4680</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4652</span>    {</div>
+<div class="line"><span class="lineno"> 4653</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645">spell_item_death_choice::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 4654</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:865</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:860</div></div>
-<div class="ttc" id="aclassspell__item__death__choice_html_ac162e47e5334e15865a315b1a30fc645"><div class="ttname"><a href="../../de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645">spell_item_death_choice::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:4650</div></div>
+<div class="ttc" id="aclassspell__item__death__choice_html_ac162e47e5334e15865a315b1a30fc645"><div class="ttname"><a href="../../de/d6c/classspell__item__death__choice.html#ac162e47e5334e15865a315b1a30fc645">spell_item_death_choice::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:4624</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l04650">HandleProc()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l04624">HandleProc()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -469,14 +469,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 4641</span>    {</div>
-<div class="line"><span class="lineno"> 4642</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({</div>
-<div class="line"><span class="lineno"> 4643</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ac654ec2149c3ff90b6def3462d5261a4">SPELL_DEATH_CHOICE_NORMAL_STRENGTH</a>,</div>
-<div class="line"><span class="lineno"> 4644</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37acfb80ad082fc525c8a7c99880c7cccaf">SPELL_DEATH_CHOICE_NORMAL_AGILITY</a>,</div>
-<div class="line"><span class="lineno"> 4645</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a5411ab394634fef07189a5d4e581242f">SPELL_DEATH_CHOICE_HEROIC_STRENGTH</a>,</div>
-<div class="line"><span class="lineno"> 4646</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37af7fdae3db2330d90616796875b337297">SPELL_DEATH_CHOICE_HEROIC_AGILITY</a></div>
-<div class="line"><span class="lineno"> 4647</span>        });</div>
-<div class="line"><span class="lineno"> 4648</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 4615</span>    {</div>
+<div class="line"><span class="lineno"> 4616</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({</div>
+<div class="line"><span class="lineno"> 4617</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37ac654ec2149c3ff90b6def3462d5261a4">SPELL_DEATH_CHOICE_NORMAL_STRENGTH</a>,</div>
+<div class="line"><span class="lineno"> 4618</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37acfb80ad082fc525c8a7c99880c7cccaf">SPELL_DEATH_CHOICE_NORMAL_AGILITY</a>,</div>
+<div class="line"><span class="lineno"> 4619</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37a5411ab394634fef07189a5d4e581242f">SPELL_DEATH_CHOICE_HEROIC_STRENGTH</a>,</div>
+<div class="line"><span class="lineno"> 4620</span>            <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ae9203ac2703df18860ca2559283a7a37af7fdae3db2330d90616796875b337297">SPELL_DEATH_CHOICE_HEROIC_AGILITY</a></div>
+<div class="line"><span class="lineno"> 4621</span>        });</div>
+<div class="line"><span class="lineno"> 4622</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00062">SPELL_DEATH_CHOICE_HEROIC_AGILITY</a>, <a class="el" href="../../#l00063">SPELL_DEATH_CHOICE_HEROIC_STRENGTH</a>, <a class="el" href="../../#l00059">SPELL_DEATH_CHOICE_NORMAL_AGILITY</a>, <a class="el" href="../../#l00060">SPELL_DEATH_CHOICE_NORMAL_STRENGTH</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -492,7 +492,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d6c/classspell__item__death__choice.html">spell_item_death_choice</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

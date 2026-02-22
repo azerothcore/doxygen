@@ -5,7 +5,6 @@ var spell__paladin_8cpp =
     [ "spell_pal_divine_intervention", "dd/d06/classspell__pal__divine__intervention.html", "dd/d06/classspell__pal__divine__intervention" ],
     [ "spell_pal_seal_of_light", "da/dbb/classspell__pal__seal__of__light.html", "da/dbb/classspell__pal__seal__of__light" ],
     [ "spell_pal_sacred_shield", "d8/dd4/classspell__pal__sacred__shield.html", "d8/dd4/classspell__pal__sacred__shield" ],
-    [ "spell_pal_sacred_shield_base", "d5/de5/classspell__pal__sacred__shield__base.html", "d5/de5/classspell__pal__sacred__shield__base" ],
     [ "spell_pal_ardent_defender", "d1/d1b/classspell__pal__ardent__defender.html", "d1/d1b/classspell__pal__ardent__defender" ],
     [ "spell_pal_aura_mastery", "d5/dc7/classspell__pal__aura__mastery.html", "d5/dc7/classspell__pal__aura__mastery" ],
     [ "spell_pal_aura_mastery_immune", "d1/d45/classspell__pal__aura__mastery__immune.html", "d1/d45/classspell__pal__aura__mastery__immune" ],

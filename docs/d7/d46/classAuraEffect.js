@@ -113,6 +113,7 @@ var classAuraEffect =
     [ "HandleAuraUntrackable", "d7/d46/classAuraEffect.html#add3e6484132f5de2d6bfe76c0f2b21ae", null ],
     [ "HandleAuraWaterWalk", "d7/d46/classAuraEffect.html#af5a0845c419937a8d5450876dff3224c", null ],
     [ "HandleBindSight", "d7/d46/classAuraEffect.html#aeeed00e5103faf76fec0eb8f88b8d071", null ],
+    [ "HandleBreakableCCAuraProc", "d7/d46/classAuraEffect.html#ad403f2ff67e6cd48c2eddee5f3646558", null ],
     [ "HandleChannelDeathItem", "d7/d46/classAuraEffect.html#ab144ae6a14c8fd95ff6b868b64cd7c12", null ],
     [ "HandleCharmConvert", "d7/d46/classAuraEffect.html#a9939adabdadcf853bbabb848afb5e8b4", null ],
     [ "HandleComprehendLanguage", "d7/d46/classAuraEffect.html#a95b987b958ac0ce5653d44029a31ea59", null ],

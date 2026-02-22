@@ -16,7 +16,6 @@ var spell__item_8cpp =
     [ "spell_item_toxic_wasteling", "d0/db1/classspell__item__toxic__wasteling.html", "d0/db1/classspell__item__toxic__wasteling" ],
     [ "spell_item_lil_xt", "d9/d3b/classspell__item__lil__xt.html", "d9/d3b/classspell__item__lil__xt" ],
     [ "spell_item_essence_of_life", "d6/dc8/classspell__item__essence__of__life.html", "d6/dc8/classspell__item__essence__of__life" ],
-    [ "spell_item_crazy_alchemists_potion", "d3/d5b/classspell__item__crazy__alchemists__potion.html", "d3/d5b/classspell__item__crazy__alchemists__potion" ],
     [ "spell_item_skull_of_impeding_doom", "d4/da9/classspell__item__skull__of__impeding__doom.html", "d4/da9/classspell__item__skull__of__impeding__doom" ],
     [ "spell_item_feast", "d0/df3/classspell__item__feast.html", "d0/df3/classspell__item__feast" ],
     [ "spell_item_gnomish_universal_remote", "dd/d2d/classspell__item__gnomish__universal__remote.html", "dd/d2d/classspell__item__gnomish__universal__remote" ],
@@ -139,6 +138,7 @@ var spell__item_8cpp =
     [ "spell_item_drums_of_the_wild", "df/d49/classspell__item__drums__of__the__wild.html", "df/d49/classspell__item__drums__of__the__wild" ],
     [ "spell_item_darkmoon_card_illusion", "de/d33/classspell__item__darkmoon__card__illusion.html", "de/d33/classspell__item__darkmoon__card__illusion" ],
     [ "spell_item_mad_alchemists_potion", "d8/d31/classspell__item__mad__alchemists__potion.html", "d8/d31/classspell__item__mad__alchemists__potion" ],
+    [ "spell_item_crazy_alchemists_potion", "d3/d5b/classspell__item__crazy__alchemists__potion.html", "d3/d5b/classspell__item__crazy__alchemists__potion" ],
     [ "spell_item_decahedral_dwarven_dice", "de/d5a/classspell__item__decahedral__dwarven__dice.html", "de/d5a/classspell__item__decahedral__dwarven__dice" ],
     [ "spell_item_aura_of_madness", "db/dd0/classspell__item__aura__of__madness.html", "db/dd0/classspell__item__aura__of__madness" ],
     [ "spell_item_dementia", "d0/d59/classspell__item__dementia.html", "d0/d59/classspell__item__dementia" ],
@@ -736,6 +736,5 @@ var spell__item_8cpp =
     ] ],
     [ "AddSC_item_spell_scripts", "db/d6e/spell__item_8cpp.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
     [ "WeatherForcast", "db/d6e/spell__item_8cpp.html#a06a241fe0c846d04b962a53fb6dc0d43", null ],
-    [ "crazyAlchemistTable", "db/d6e/spell__item_8cpp.html#acffae967cd0de0e559abfe1c1573273b", null ],
     [ "CreateFortuneSpells", "db/d6e/spell__item_8cpp.html#aebeab6810ce34d1a4abf52cdec763a65", null ]
 ];

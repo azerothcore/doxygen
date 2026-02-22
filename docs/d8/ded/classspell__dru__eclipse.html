@@ -336,39 +336,39 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1485</span>    {</div>
-<div class="line"><span class="lineno"> 1486</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno"> 1487</span>        <span class="keywordflow">if</span> (!spellInfo)</div>
-<div class="line"><span class="lineno"> 1488</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1489</span> </div>
-<div class="line"><span class="lineno"> 1490</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
-<div class="line"><span class="lineno"> 1491</span>        <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1473</span>    {</div>
+<div class="line"><span class="lineno"> 1474</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno"> 1475</span>        <span class="keywordflow">if</span> (!spellInfo)</div>
+<div class="line"><span class="lineno"> 1476</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1477</span> </div>
+<div class="line"><span class="lineno"> 1478</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* target = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
+<div class="line"><span class="lineno"> 1479</span>        <span class="keywordflow">if</span> (!target-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>())</div>
+<div class="line"><span class="lineno"> 1480</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1481</span> </div>
+<div class="line"><span class="lineno"> 1482</span>        <span class="keywordtype">bool</span> isWrathSpell = (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[0] &amp; 1);</div>
+<div class="line"><span class="lineno"> 1483</span>        <span class="keywordtype">bool</span> isStarfireSpell = (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[0] &amp; 4);</div>
+<div class="line"><span class="lineno"> 1484</span> </div>
+<div class="line"><span class="lineno"> 1485</span>        <span class="comment">// Must be Wrath or Starfire</span></div>
+<div class="line"><span class="lineno"> 1486</span>        <span class="keywordflow">if</span> (!isWrathSpell &amp;&amp; !isStarfireSpell)</div>
+<div class="line"><span class="lineno"> 1487</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1488</span> </div>
+<div class="line"><span class="lineno"> 1489</span>        <span class="comment">// Check 30 second internal cooldown</span></div>
+<div class="line"><span class="lineno"> 1490</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> now = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a>().count();</div>
+<div class="line"><span class="lineno"> 1491</span>        <span class="keywordflow">if</span> (isWrathSpell &amp;&amp; <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2">_lunarProcCooldownEnd</a> &gt; now)</div>
 <div class="line"><span class="lineno"> 1492</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1493</span> </div>
-<div class="line"><span class="lineno"> 1494</span>        <span class="keywordtype">bool</span> isWrathSpell = (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[0] &amp; 1);</div>
-<div class="line"><span class="lineno"> 1495</span>        <span class="keywordtype">bool</span> isStarfireSpell = (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[0] &amp; 4);</div>
-<div class="line"><span class="lineno"> 1496</span> </div>
-<div class="line"><span class="lineno"> 1497</span>        <span class="comment">// Must be Wrath or Starfire</span></div>
-<div class="line"><span class="lineno"> 1498</span>        <span class="keywordflow">if</span> (!isWrathSpell &amp;&amp; !isStarfireSpell)</div>
-<div class="line"><span class="lineno"> 1499</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1500</span> </div>
-<div class="line"><span class="lineno"> 1501</span>        <span class="comment">// Check 30 second internal cooldown</span></div>
-<div class="line"><span class="lineno"> 1502</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> now = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a>().count();</div>
-<div class="line"><span class="lineno"> 1503</span>        <span class="keywordflow">if</span> (isWrathSpell &amp;&amp; <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2">_lunarProcCooldownEnd</a> &gt; now)</div>
-<div class="line"><span class="lineno"> 1504</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1505</span>        <span class="keywordflow">if</span> (isStarfireSpell &amp;&amp; <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4">_solarProcCooldownEnd</a> &gt; now)</div>
-<div class="line"><span class="lineno"> 1506</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1507</span> </div>
-<div class="line"><span class="lineno"> 1508</span>        <span class="comment">// Don&#39;t proc if already have any eclipse aura</span></div>
-<div class="line"><span class="lineno"> 1509</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a>) || target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a>))</div>
-<div class="line"><span class="lineno"> 1510</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1511</span> </div>
-<div class="line"><span class="lineno"> 1512</span>        <span class="comment">// Check proc chance (60% for Wrath, 100% for Starfire)</span></div>
-<div class="line"><span class="lineno"> 1513</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;ProcChance * (isWrathSpell ? 0.6f : 1.0f)))</div>
-<div class="line"><span class="lineno"> 1514</span>            return false;</div>
-<div class="line"><span class="lineno"> 1515</span> </div>
-<div class="line"><span class="lineno"> 1516</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1517</span>    }</div>
+<div class="line"><span class="lineno"> 1493</span>        <span class="keywordflow">if</span> (isStarfireSpell &amp;&amp; <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4">_solarProcCooldownEnd</a> &gt; now)</div>
+<div class="line"><span class="lineno"> 1494</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1495</span> </div>
+<div class="line"><span class="lineno"> 1496</span>        <span class="comment">// Don&#39;t proc if already have any eclipse aura</span></div>
+<div class="line"><span class="lineno"> 1497</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a>) || target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a>))</div>
+<div class="line"><span class="lineno"> 1498</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1499</span> </div>
+<div class="line"><span class="lineno"> 1500</span>        <span class="comment">// Check proc chance (60% for Wrath, 100% for Starfire)</span></div>
+<div class="line"><span class="lineno"> 1501</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;ProcChance * (isWrathSpell ? 0.6f : 1.0f)))</div>
+<div class="line"><span class="lineno"> 1502</span>            return false;</div>
+<div class="line"><span class="lineno"> 1503</span> </div>
+<div class="line"><span class="lineno"> 1504</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1505</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aRandom_8h_html_a4b15099bc81731469c5078a778673c94"><div class="ttname"><a href="../../dd/d6d/Random_8h.html#a4b15099bc81731469c5078a778673c94">roll_chance_f</a></div><div class="ttdeci">bool roll_chance_f(float chance)</div><div class="ttdef"><b>Definition</b> Random.h:57</div></div>
 <div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
@@ -379,15 +379,15 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassSpellInfo_html_a30452de2bd62607418f3962d00124144"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellInfo::SpellFamilyFlags</a></div><div class="ttdeci">flag96 SpellFamilyFlags</div><div class="ttdef"><b>Definition</b> SpellInfo.h:388</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
 <div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5946</div></div>
-<div class="ttc" id="aclassspell__dru__eclipse_html_a6f50d14abee53eb06f50edbcc78628c4"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4">spell_dru_eclipse::_solarProcCooldownEnd</a></div><div class="ttdeci">uint32 _solarProcCooldownEnd</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1544</div></div>
-<div class="ttc" id="aclassspell__dru__eclipse_html_a9fd6d9c34dba5cb302010df4d5c560c2"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2">spell_dru_eclipse::_lunarProcCooldownEnd</a></div><div class="ttdeci">uint32 _lunarProcCooldownEnd</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1543</div></div>
+<div class="ttc" id="aclassspell__dru__eclipse_html_a6f50d14abee53eb06f50edbcc78628c4"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4">spell_dru_eclipse::_solarProcCooldownEnd</a></div><div class="ttdeci">uint32 _solarProcCooldownEnd</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1532</div></div>
+<div class="ttc" id="aclassspell__dru__eclipse_html_a9fd6d9c34dba5cb302010df4d5c560c2"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2">spell_dru_eclipse::_lunarProcCooldownEnd</a></div><div class="ttdeci">uint32 _lunarProcCooldownEnd</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1531</div></div>
 <div class="ttc" id="anamespaceGameTime_html_a6d0d49f37e25e497391157b2a2ec90c1"><div class="ttname"><a href="../../df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a></div><div class="ttdeci">Milliseconds GetGameTimeMS()</div><div class="ttdef"><b>Definition</b> GameTime.cpp:43</div></div>
 <div class="ttc" id="aspell__druid_8cpp_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78"><div class="ttname"><a href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a></div><div class="ttdeci">@ SPELL_DRUID_ECLIPSE_SOLAR</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:74</div></div>
 <div class="ttc" id="aspell__druid_8cpp_html_aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4"><div class="ttname"><a href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a></div><div class="ttdeci">@ SPELL_DRUID_ECLIPSE_LUNAR</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:73</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01543">_lunarProcCooldownEnd</a>, <a class="el" href="../../#l01544">_solarProcCooldownEnd</a>, <a class="el" href="../../#l00043">GameTime::GetGameTimeMS()</a>, <a class="el" href="../../#l00281">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05946">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00057">roll_chance_f()</a>, <a class="el" href="../../#l00073">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="el" href="../../#l00074">SPELL_DRUID_ECLIPSE_SOLAR</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01531">_lunarProcCooldownEnd</a>, <a class="el" href="../../#l01532">_solarProcCooldownEnd</a>, <a class="el" href="../../#l00043">GameTime::GetGameTimeMS()</a>, <a class="el" href="../../#l00281">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05946">Unit::HasAura()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, <a class="el" href="../../#l00057">roll_chance_f()</a>, <a class="el" href="../../#l00073">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="el" href="../../#l00074">SPELL_DRUID_ECLIPSE_SOLAR</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01536">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01524">Register()</a>.</p>
 
 </div>
 </div>
@@ -424,27 +424,27 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1520</span>    {</div>
-<div class="line"><span class="lineno"> 1521</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 1522</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno"> 1523</span>        <span class="keywordtype">bool</span> isWrathSpell = (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[0] &amp; 1);</div>
-<div class="line"><span class="lineno"> 1524</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> triggeredSpell = isWrathSpell ? <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a> : <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a>;</div>
-<div class="line"><span class="lineno"> 1525</span> </div>
-<div class="line"><span class="lineno"> 1526</span>        <span class="comment">// Set 30 second internal cooldown</span></div>
-<div class="line"><span class="lineno"> 1527</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> now = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a>().count();</div>
-<div class="line"><span class="lineno"> 1528</span>        <span class="keywordflow">if</span> (isWrathSpell)</div>
-<div class="line"><span class="lineno"> 1529</span>            <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2">_lunarProcCooldownEnd</a> = now + 30000;</div>
-<div class="line"><span class="lineno"> 1530</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1531</span>            <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4">_solarProcCooldownEnd</a> = now + 30000;</div>
-<div class="line"><span class="lineno"> 1532</span> </div>
-<div class="line"><span class="lineno"> 1533</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), triggeredSpell, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno"> 1534</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1508</span>    {</div>
+<div class="line"><span class="lineno"> 1509</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 1510</span>        <a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>();</div>
+<div class="line"><span class="lineno"> 1511</span>        <span class="keywordtype">bool</span> isWrathSpell = (spellInfo-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#a30452de2bd62607418f3962d00124144">SpellFamilyFlags</a>[0] &amp; 1);</div>
+<div class="line"><span class="lineno"> 1512</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> triggeredSpell = isWrathSpell ? <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a> : <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a>;</div>
+<div class="line"><span class="lineno"> 1513</span> </div>
+<div class="line"><span class="lineno"> 1514</span>        <span class="comment">// Set 30 second internal cooldown</span></div>
+<div class="line"><span class="lineno"> 1515</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> now = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a>().count();</div>
+<div class="line"><span class="lineno"> 1516</span>        <span class="keywordflow">if</span> (isWrathSpell)</div>
+<div class="line"><span class="lineno"> 1517</span>            <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2">_lunarProcCooldownEnd</a> = now + 30000;</div>
+<div class="line"><span class="lineno"> 1518</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1519</span>            <a class="code hl_variable" href="../../d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4">_solarProcCooldownEnd</a> = now + 30000;</div>
+<div class="line"><span class="lineno"> 1520</span> </div>
+<div class="line"><span class="lineno"> 1521</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>(), triggeredSpell, <span class="keyword">true</span>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno"> 1522</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassUnit_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition</b> Unit.cpp:1302</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01543">_lunarProcCooldownEnd</a>, <a class="el" href="../../#l01544">_solarProcCooldownEnd</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l00043">GameTime::GetGameTimeMS()</a>, <a class="el" href="../../#l00281">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00073">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="el" href="../../#l00074">SPELL_DRUID_ECLIPSE_SOLAR</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01531">_lunarProcCooldownEnd</a>, <a class="el" href="../../#l01532">_solarProcCooldownEnd</a>, <a class="el" href="../../#l01302">Unit::CastSpell()</a>, <a class="el" href="../../#l00043">GameTime::GetGameTimeMS()</a>, <a class="el" href="../../#l00281">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00073">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="el" href="../../#l00074">SPELL_DRUID_ECLIPSE_SOLAR</a>, and <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01536">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01524">Register()</a>.</p>
 
 </div>
 </div>
@@ -498,20 +498,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1537</span>    {</div>
-<div class="line"><span class="lineno"> 1538</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3">spell_dru_eclipse::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 1539</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3">spell_dru_eclipse::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1540</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1525</span>    {</div>
+<div class="line"><span class="lineno"> 1526</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3">spell_dru_eclipse::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 1527</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3">spell_dru_eclipse::HandleProc</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1528</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:865</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:829</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:828</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:860</div></div>
-<div class="ttc" id="aclassspell__dru__eclipse_html_a1afbc5f8e86e0382be43c947e88306b3"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3">spell_dru_eclipse::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1484</div></div>
-<div class="ttc" id="aclassspell__dru__eclipse_html_a9fbfe3fba6283362bab181fcd15611b3"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3">spell_dru_eclipse::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1519</div></div>
+<div class="ttc" id="aclassspell__dru__eclipse_html_a1afbc5f8e86e0382be43c947e88306b3"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3">spell_dru_eclipse::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1472</div></div>
+<div class="ttc" id="aclassspell__dru__eclipse_html_a9fbfe3fba6283362bab181fcd15611b3"><div class="ttname"><a href="../../d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3">spell_dru_eclipse::HandleProc</a></div><div class="ttdeci">void HandleProc(AuraEffect const *aurEff, ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:1507</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l01484">CheckProc()</a>, <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01519">HandleProc()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l01472">CheckProc()</a>, <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01507">HandleProc()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -540,9 +540,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1480</span>    {</div>
-<div class="line"><span class="lineno"> 1481</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a> });</div>
-<div class="line"><span class="lineno"> 1482</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1468</span>    {</div>
+<div class="line"><span class="lineno"> 1469</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa2789ee55d3468afb4403027c969a8a4">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="code hl_enumvalue" href="../../db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa12c8fe0117ea0b9e9e1778a4b430ea78">SPELL_DRUID_ECLIPSE_SOLAR</a> });</div>
+<div class="line"><span class="lineno"> 1470</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00073">SPELL_DRUID_ECLIPSE_LUNAR</a>, <a class="el" href="../../#l00074">SPELL_DRUID_ECLIPSE_SOLAR</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -570,7 +570,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01484">CheckProc()</a>, and <a class="el" href="../../#l01519">HandleProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01472">CheckProc()</a>, and <a class="el" href="../../#l01507">HandleProc()</a>.</p>
 
 </div>
 </div>
@@ -594,7 +594,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01484">CheckProc()</a>, and <a class="el" href="../../#l01519">HandleProc()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01472">CheckProc()</a>, and <a class="el" href="../../#l01507">HandleProc()</a>.</p>
 
 </div>
 </div>
@@ -607,7 +607,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/ded/classspell__dru__eclipse.html">spell_dru_eclipse</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:37:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

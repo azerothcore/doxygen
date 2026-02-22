@@ -326,16 +326,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  507</span>    {</div>
-<div class="line"><span class="lineno">  508</span>        <span class="keywordflow">return</span> target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067">GetCasterGUID</a>());</div>
-<div class="line"><span class="lineno">  509</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  407</span>    {</div>
+<div class="line"><span class="lineno">  408</span>        <span class="keywordflow">return</span> target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">HasAura</a>(<a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a>, <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067">GetCasterGUID</a>());</div>
+<div class="line"><span class="lineno">  409</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a9bb1cb08922b17a40a33fd6d8e8e3067"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067">AuraScript::GetCasterGUID</a></div><div class="ttdeci">ObjectGuid GetCasterGUID() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1030</div></div>
 <div class="ttc" id="aclassUnit_html_a69c5ac45b65cf0dede6e0ee837361f61"><div class="ttname"><a href="../../df/dd9/classUnit.html#a69c5ac45b65cf0dede6e0ee837361f61">Unit::HasAura</a></div><div class="ttdeci">bool HasAura(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5946</div></div>
 <div class="ttc" id="aspell__paladin_8cpp_html_a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5"><div class="ttname"><a href="../../db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a></div><div class="ttdeci">@ SPELL_PALADIN_CONCENTRACTION_AURA</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:74</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01030">AuraScript::GetCasterGUID()</a>, <a class="el" href="../../#l05946">Unit::HasAura()</a>, and <a class="el" href="../../#l00074">SPELL_PALADIN_CONCENTRACTION_AURA</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00511">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00411">Register()</a>.</p>
 
 </div>
 </div>
@@ -389,14 +389,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  512</span>    {</div>
-<div class="line"><span class="lineno">  513</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405">DoCheckAreaTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826">AuraCheckAreaTargetFn</a>(<a class="code hl_function" href="../../d1/d45/classspell__pal__aura__mastery__immune.html#a2d240518259d2452d263fc436de5056e">spell_pal_aura_mastery_immune::CheckAreaTarget</a>);</div>
-<div class="line"><span class="lineno">  514</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  412</span>    {</div>
+<div class="line"><span class="lineno">  413</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405">DoCheckAreaTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826">AuraCheckAreaTargetFn</a>(<a class="code hl_function" href="../../d1/d45/classspell__pal__aura__mastery__immune.html#a2d240518259d2452d263fc436de5056e">spell_pal_aura_mastery_immune::CheckAreaTarget</a>);</div>
+<div class="line"><span class="lineno">  414</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ae48944a76973e5072df96136a9e79826"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826">AuraCheckAreaTargetFn</a></div><div class="ttdeci">#define AuraCheckAreaTargetFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:733</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9afe5ca2d01661fb7fab59aa5d58c405"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405">AuraScript::DoCheckAreaTarget</a></div><div class="ttdeci">HookList&lt; CheckAreaTargetHandler &gt; DoCheckAreaTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:732</div></div>
-<div class="ttc" id="aclassspell__pal__aura__mastery__immune_html_a2d240518259d2452d263fc436de5056e"><div class="ttname"><a href="../../d1/d45/classspell__pal__aura__mastery__immune.html#a2d240518259d2452d263fc436de5056e">spell_pal_aura_mastery_immune::CheckAreaTarget</a></div><div class="ttdeci">bool CheckAreaTarget(Unit *target)</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:506</div></div>
+<div class="ttc" id="aclassspell__pal__aura__mastery__immune_html_a2d240518259d2452d263fc436de5056e"><div class="ttname"><a href="../../d1/d45/classspell__pal__aura__mastery__immune.html#a2d240518259d2452d263fc436de5056e">spell_pal_aura_mastery_immune::CheckAreaTarget</a></div><div class="ttdeci">bool CheckAreaTarget(Unit *target)</div><div class="ttdef"><b>Definition</b> spell_paladin.cpp:406</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00733">AuraCheckAreaTargetFn</a>, <a class="el" href="../../#l00506">CheckAreaTarget()</a>, and <a class="el" href="../../#l00732">AuraScript::DoCheckAreaTarget</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00733">AuraCheckAreaTargetFn</a>, <a class="el" href="../../#l00406">CheckAreaTarget()</a>, and <a class="el" href="../../#l00732">AuraScript::DoCheckAreaTarget</a>.</p>
 
 </div>
 </div>
@@ -425,9 +425,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  502</span>    {</div>
-<div class="line"><span class="lineno">  503</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a> });</div>
-<div class="line"><span class="lineno">  504</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  402</span>    {</div>
+<div class="line"><span class="lineno">  403</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a9e68b448e59e19457cdd35ba5f94fdf5">SPELL_PALADIN_CONCENTRACTION_AURA</a> });</div>
+<div class="line"><span class="lineno">  404</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00074">SPELL_PALADIN_CONCENTRACTION_AURA</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -443,7 +443,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d45/classspell__pal__aura__mastery__immune.html">spell_pal_aura_mastery_immune</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

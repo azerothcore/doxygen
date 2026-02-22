@@ -336,10 +336,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5274</span>    {</div>
-<div class="line"><span class="lineno"> 5275</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 5276</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetGUID());</div>
-<div class="line"><span class="lineno"> 5277</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5288</span>    {</div>
+<div class="line"><span class="lineno"> 5289</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 5290</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetGUID());</div>
+<div class="line"><span class="lineno"> 5291</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aclassAuraScript_html_afca894c30f544ccf512e0966eb7e10ce"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#afca894c30f544ccf512e0966eb7e10ce">AuraScript::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1025</div></div>
@@ -347,7 +347,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01025">AuraScript::GetId()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l05143">Unit::RemoveAuraFromStack()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05279">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05293">Register()</a>.</p>
 
 </div>
 </div>
@@ -401,16 +401,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5280</span>    {</div>
-<div class="line"><span class="lineno"> 5281</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d30/classspell__item__deadly__precision.html#a8e452c968558f3bd273b18a8055745d2">spell_item_deadly_precision::HandleStackDrop</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63">SPELL_AURA_MOD_RATING</a>);</div>
-<div class="line"><span class="lineno"> 5282</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5294</span>    {</div>
+<div class="line"><span class="lineno"> 5295</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">OnEffectProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a>(<a class="code hl_function" href="../../dd/d30/classspell__item__deadly__precision.html#a8e452c968558f3bd273b18a8055745d2">spell_item_deadly_precision::HandleStackDrop</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63">SPELL_AURA_MOD_RATING</a>);</div>
+<div class="line"><span class="lineno"> 5296</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63">SPELL_AURA_MOD_RATING</a></div><div class="ttdeci">@ SPELL_AURA_MOD_RATING</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:252</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a477ed5ca0e8da0b293428f4596802c0b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a477ed5ca0e8da0b293428f4596802c0b">AuraEffectProcFn</a></div><div class="ttdeci">#define AuraEffectProcFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:865</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae01a6d3f559913b72bd67a145c668457"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae01a6d3f559913b72bd67a145c668457">AuraScript::OnEffectProc</a></div><div class="ttdeci">HookList&lt; EffectProcHandler &gt; OnEffectProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:860</div></div>
-<div class="ttc" id="aclassspell__item__deadly__precision_html_a8e452c968558f3bd273b18a8055745d2"><div class="ttname"><a href="../../dd/d30/classspell__item__deadly__precision.html#a8e452c968558f3bd273b18a8055745d2">spell_item_deadly_precision::HandleStackDrop</a></div><div class="ttdeci">void HandleStackDrop(AuraEffect const *, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5273</div></div>
+<div class="ttc" id="aclassspell__item__deadly__precision_html_a8e452c968558f3bd273b18a8055745d2"><div class="ttname"><a href="../../dd/d30/classspell__item__deadly__precision.html#a8e452c968558f3bd273b18a8055745d2">spell_item_deadly_precision::HandleStackDrop</a></div><div class="ttdeci">void HandleStackDrop(AuraEffect const *, ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5287</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l05273">HandleStackDrop()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00252">SPELL_AURA_MOD_RATING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00865">AuraEffectProcFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l05287">HandleStackDrop()</a>, <a class="el" href="../../#l00860">AuraScript::OnEffectProc</a>, and <a class="el" href="../../#l00252">SPELL_AURA_MOD_RATING</a>.</p>
 
 </div>
 </div>
@@ -423,7 +423,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d30/classspell__item__deadly__precision.html">spell_item_deadly_precision</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

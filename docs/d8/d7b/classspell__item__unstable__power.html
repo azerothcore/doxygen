@@ -326,10 +326,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5705</span>    {</div>
-<div class="line"><span class="lineno"> 5706</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 5707</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0a00d3b0fcde04b28c49a89fa7f680fca3">SPELL_UNSTABLE_POWER_AURA</a>);</div>
-<div class="line"><span class="lineno"> 5708</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5719</span>    {</div>
+<div class="line"><span class="lineno"> 5720</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 5721</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0a00d3b0fcde04b28c49a89fa7f680fca3">SPELL_UNSTABLE_POWER_AURA</a>);</div>
+<div class="line"><span class="lineno"> 5722</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aclassUnit_html_a9be4ef63ee27e3e727cc3a5160d380ce"><div class="ttname"><a href="../../df/dd9/classUnit.html#a9be4ef63ee27e3e727cc3a5160d380ce">Unit::RemoveAuraFromStack</a></div><div class="ttdeci">void RemoveAuraFromStack(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:5143</div></div>
@@ -337,7 +337,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l05143">Unit::RemoveAuraFromStack()</a>, and <a class="el" href="../../#l00215">SPELL_UNSTABLE_POWER_AURA</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05710">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05724">Register()</a>.</p>
 
 </div>
 </div>
@@ -391,14 +391,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5711</span>    {</div>
-<div class="line"><span class="lineno"> 5712</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d8/d7b/classspell__item__unstable__power.html#af93da4cc948eff04ff27c04ca7b09618">spell_item_unstable_power::HandleProc</a>);</div>
-<div class="line"><span class="lineno"> 5713</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5725</span>    {</div>
+<div class="line"><span class="lineno"> 5726</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../d8/d7b/classspell__item__unstable__power.html#af93da4cc948eff04ff27c04ca7b09618">spell_item_unstable_power::HandleProc</a>);</div>
+<div class="line"><span class="lineno"> 5727</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_a05a51498d234bccc0ab35a047edc3417"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a></div><div class="ttdeci">#define AuraProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:855</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae83ae85373b045e22b5c20ec574f701b"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae83ae85373b045e22b5c20ec574f701b">AuraScript::OnProc</a></div><div class="ttdeci">HookList&lt; AuraProcHandler &gt; OnProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:850</div></div>
-<div class="ttc" id="aclassspell__item__unstable__power_html_af93da4cc948eff04ff27c04ca7b09618"><div class="ttname"><a href="../../d8/d7b/classspell__item__unstable__power.html#af93da4cc948eff04ff27c04ca7b09618">spell_item_unstable_power::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5704</div></div>
+<div class="ttc" id="aclassspell__item__unstable__power_html_af93da4cc948eff04ff27c04ca7b09618"><div class="ttname"><a href="../../d8/d7b/classspell__item__unstable__power.html#af93da4cc948eff04ff27c04ca7b09618">spell_item_unstable_power::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;)</div><div class="ttdef"><b>Definition</b> spell_item.cpp:5718</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l05704">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l05718">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
 
 </div>
 </div>
@@ -427,9 +427,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5700</span>    {</div>
-<div class="line"><span class="lineno"> 5701</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0a00d3b0fcde04b28c49a89fa7f680fca3">SPELL_UNSTABLE_POWER_AURA</a> });</div>
-<div class="line"><span class="lineno"> 5702</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5714</span>    {</div>
+<div class="line"><span class="lineno"> 5715</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../db/d6e/spell__item_8cpp.html#ad14bee65a84de12b1dac1bee583701e0a00d3b0fcde04b28c49a89fa7f680fca3">SPELL_UNSTABLE_POWER_AURA</a> });</div>
+<div class="line"><span class="lineno"> 5716</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00215">SPELL_UNSTABLE_POWER_AURA</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -445,7 +445,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d7b/classspell__item__unstable__power.html">spell_item_unstable_power</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:38:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

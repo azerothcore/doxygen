@@ -1,5 +1,10 @@
 var NAVTREEINDEX48 =
 {
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa52b3be737f0c64be0a50df0d27dd4cdf":[7,0,0,0,1,3,9,2,194,8],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa6004abff0487d8ba5e503f4181901ac6":[7,0,0,0,1,3,9,2,194,30],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa629d75d0385fcf074d0336f4aa776149":[7,0,0,0,1,3,9,2,194,24],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa62f2bd4cca1836126832757de34e3369":[7,0,0,0,1,3,9,2,194,22],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa637522bc2075b68089ecfa7c3c81bfa5":[7,0,0,0,1,3,9,2,194,13],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa68a64acab8a94299916178195d003cac":[7,0,0,0,1,3,9,2,194,20],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa69bc0a121d059e4afa51e84d7543593a":[7,0,0,0,1,3,9,2,194,32],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa6a12983961b2c359d4bdedb6aeb352cf":[7,0,0,0,1,3,9,2,194,34],
@@ -244,10 +249,5 @@ var NAVTREEINDEX48 =
 "d1/de4/spell__generic_8cpp.html#abda5febccbab2e6e96139e2858404ab5":[7,0,0,0,1,3,9,2,177],
 "d1/de4/spell__generic_8cpp.html#abda5febccbab2e6e96139e2858404ab5a010dbfbfb806c8d9a0651bf9692b575c":[7,0,0,0,1,3,9,2,177,0],
 "d1/de4/spell__generic_8cpp.html#abda5febccbab2e6e96139e2858404ab5a2296ff83954af9e159920060942b5cf6":[7,0,0,0,1,3,9,2,177,1],
-"d1/de4/spell__generic_8cpp.html#abe1ce7161f3fe9c09efa1e4580acba6c":[7,0,0,0,1,3,9,2,224],
-"d1/de4/spell__generic_8cpp.html#ac2312ffa0b01ce8bf63b45b5f8620399":[7,0,0,0,1,3,9,2,175],
-"d1/de4/spell__generic_8cpp.html#ac2312ffa0b01ce8bf63b45b5f8620399ac61cb65d7d9b3ba66dc98fa8fdc9e602":[7,0,0,0,1,3,9,2,175,0],
-"d1/de4/spell__generic_8cpp.html#ac2941716297c47e58e65de027a53ce16":[7,0,0,0,1,3,9,2,223],
-"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7":[7,0,0,0,1,3,9,2,180],
-"d1/de4/spell__generic_8cpp.html#ac2f0ee40b2e34785d162754ff2fec2d7a34e2172a41d9eebd1877edfa13bff894":[7,0,0,0,1,3,9,2,180,3]
+"d1/de4/spell__generic_8cpp.html#abe1ce7161f3fe9c09efa1e4580acba6c":[7,0,0,0,1,3,9,2,224]
 };

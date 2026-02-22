@@ -350,21 +350,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  769</span>    {</div>
-<div class="line"><span class="lineno">  770</span>        <span class="comment">// reduces all damage taken while Stunned in Moonkin Form</span></div>
-<div class="line"><span class="lineno">  771</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetUnitFlags() &amp; (<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a20d03528858479b31941a42820257eeb">UNIT_FLAG_STUNNED</a>) &amp;&amp; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;HasAuraWithMechanic(1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a>))</div>
-<div class="line"><span class="lineno">  772</span>            absorbAmount = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(dmgInfo.<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>(), <a class="code hl_variable" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb">absorbPct</a>);</div>
-<div class="line"><span class="lineno">  773</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  757</span>    {</div>
+<div class="line"><span class="lineno">  758</span>        <span class="comment">// reduces all damage taken while Stunned in Moonkin Form</span></div>
+<div class="line"><span class="lineno">  759</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;GetUnitFlags() &amp; (<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a20d03528858479b31941a42820257eeb">UNIT_FLAG_STUNNED</a>) &amp;&amp; <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;HasAuraWithMechanic(1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a>))</div>
+<div class="line"><span class="lineno">  760</span>            absorbAmount = <a class="code hl_function" href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a>(dmgInfo.<a class="code hl_function" href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>(), <a class="code hl_variable" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb">absorbPct</a>);</div>
+<div class="line"><span class="lineno">  761</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a></div><div class="ttdeci">@ MECHANIC_STUN</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1348</div></div>
 <div class="ttc" id="aUnitDefines_8h_html_affdd0d554c8bcaaa85a879f5a9d60934a20d03528858479b31941a42820257eeb"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934a20d03528858479b31941a42820257eeb">UNIT_FLAG_STUNNED</a></div><div class="ttdeci">@ UNIT_FLAG_STUNNED</div><div class="ttdef"><b>Definition</b> UnitDefines.h:272</div></div>
 <div class="ttc" id="aUtil_8h_html_ae00607f8188c59ffcea5a3997c0120b0"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#ae00607f8188c59ffcea5a3997c0120b0">CalculatePct</a></div><div class="ttdeci">T CalculatePct(T base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:52</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aclassDamageInfo_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition</b> Unit.h:373</div></div>
-<div class="ttc" id="aclassspell__dru__moonkin__form__passive_html_a0c067ba7bbfd5cde53f1323b5c2f47cb"><div class="ttname"><a href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb">spell_dru_moonkin_form_passive::absorbPct</a></div><div class="ttdeci">uint32 absorbPct</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:754</div></div>
+<div class="ttc" id="aclassspell__dru__moonkin__form__passive_html_a0c067ba7bbfd5cde53f1323b5c2f47cb"><div class="ttname"><a href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb">spell_dru_moonkin_form_passive::absorbPct</a></div><div class="ttdeci">uint32 absorbPct</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:742</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00754">absorbPct</a>, <a class="el" href="../../#l00052">CalculatePct()</a>, <a class="el" href="../../#l00373">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01348">MECHANIC_STUN</a>, and <a class="el" href="../../#l00272">UNIT_FLAG_STUNNED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00742">absorbPct</a>, <a class="el" href="../../#l00052">CalculatePct()</a>, <a class="el" href="../../#l00373">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01348">MECHANIC_STUN</a>, and <a class="el" href="../../#l00272">UNIT_FLAG_STUNNED</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00775">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00763">Register()</a>.</p>
 
 </div>
 </div>
@@ -407,12 +407,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  763</span>    {</div>
-<div class="line"><span class="lineno">  764</span>        <span class="comment">// Set absorbtion amount to unlimited</span></div>
-<div class="line"><span class="lineno">  765</span>        amount = -1;</div>
-<div class="line"><span class="lineno">  766</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  751</span>    {</div>
+<div class="line"><span class="lineno">  752</span>        <span class="comment">// Set absorbtion amount to unlimited</span></div>
+<div class="line"><span class="lineno">  753</span>        amount = -1;</div>
+<div class="line"><span class="lineno">  754</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00775">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00763">Register()</a>.</p>
 
 </div>
 </div>
@@ -440,16 +440,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  757</span>    {</div>
-<div class="line"><span class="lineno">  758</span>        <a class="code hl_variable" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb">absorbPct</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcValue(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>());</div>
-<div class="line"><span class="lineno">  759</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  760</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  745</span>    {</div>
+<div class="line"><span class="lineno">  746</span>        <a class="code hl_variable" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb">absorbPct</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">GetSpellInfo</a>()-&gt;<a class="code hl_variable" href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">Effects</a>[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>].CalcValue(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>());</div>
+<div class="line"><span class="lineno">  747</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  748</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aclassAuraScript_html_a4bb3068ac63e4645787fac6ff0085662"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4bb3068ac63e4645787fac6ff0085662">AuraScript::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1020</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1035</div></div>
 <div class="ttc" id="aclassSpellInfo_html_aa5bb0d7d6df03526d011d9cbfa3734e0"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html#aa5bb0d7d6df03526d011d9cbfa3734e0">SpellInfo::Effects</a></div><div class="ttdeci">std::array&lt; SpellEffectInfo, MAX_SPELL_EFFECTS &gt; Effects</div><div class="ttdef"><b>Definition</b> SpellInfo.h:393</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00754">absorbPct</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00742">absorbPct</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l01020">AuraScript::GetSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -503,19 +503,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  776</span>    {</div>
-<div class="line"><span class="lineno">  777</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85">spell_dru_moonkin_form_passive::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08">SPELL_AURA_SCHOOL_ABSORB</a>);</div>
-<div class="line"><span class="lineno">  778</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">OnEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff">spell_dru_moonkin_form_passive::Absorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
-<div class="line"><span class="lineno">  779</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  764</span>    {</div>
+<div class="line"><span class="lineno">  765</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85">spell_dru_moonkin_form_passive::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08">SPELL_AURA_SCHOOL_ABSORB</a>);</div>
+<div class="line"><span class="lineno">  766</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">OnEffectAbsorb</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a>(<a class="code hl_function" href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff">spell_dru_moonkin_form_passive::Absorb</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>);</div>
+<div class="line"><span class="lineno">  767</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ab7b51e8dff5aaafa4617c9fdde043b08">SPELL_AURA_SCHOOL_ABSORB</a></div><div class="ttdeci">@ SPELL_AURA_SCHOOL_ABSORB</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:132</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:783</div></div>
 <div class="ttc" id="aSpellScript_8h_html_ab4a9285b03a1956f599d7ee5f955373a"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ab4a9285b03a1956f599d7ee5f955373a">AuraEffectAbsorbFn</a></div><div class="ttdeci">#define AuraEffectAbsorbFn(F, I)</div><div class="ttdef"><b>Definition</b> SpellScript.h:801</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:782</div></div>
 <div class="ttc" id="aclassAuraScript_html_a909387711ea2be188172d2f72391e2cf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf">AuraScript::OnEffectAbsorb</a></div><div class="ttdeci">HookList&lt; EffectAbsorbHandler &gt; OnEffectAbsorb</div><div class="ttdef"><b>Definition</b> SpellScript.h:800</div></div>
-<div class="ttc" id="aclassspell__dru__moonkin__form__passive_html_a3800ed0d14eacf39a3930c1b5e139f85"><div class="ttname"><a href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85">spell_dru_moonkin_form_passive::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:762</div></div>
-<div class="ttc" id="aclassspell__dru__moonkin__form__passive_html_a5d4b54569b16175ae84d3c94a1a6fcff"><div class="ttname"><a href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff">spell_dru_moonkin_form_passive::Absorb</a></div><div class="ttdeci">void Absorb(AuraEffect *, DamageInfo &amp;dmgInfo, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:768</div></div>
+<div class="ttc" id="aclassspell__dru__moonkin__form__passive_html_a3800ed0d14eacf39a3930c1b5e139f85"><div class="ttname"><a href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a3800ed0d14eacf39a3930c1b5e139f85">spell_dru_moonkin_form_passive::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:750</div></div>
+<div class="ttc" id="aclassspell__dru__moonkin__form__passive_html_a5d4b54569b16175ae84d3c94a1a6fcff"><div class="ttname"><a href="../../dc/d46/classspell__dru__moonkin__form__passive.html#a5d4b54569b16175ae84d3c94a1a6fcff">spell_dru_moonkin_form_passive::Absorb</a></div><div class="ttdeci">void Absorb(AuraEffect *, DamageInfo &amp;dmgInfo, uint32 &amp;absorbAmount)</div><div class="ttdef"><b>Definition</b> spell_druid.cpp:756</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00768">Absorb()</a>, <a class="el" href="../../#l00801">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00762">CalculateAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00800">AuraScript::OnEffectAbsorb</a>, and <a class="el" href="../../#l00132">SPELL_AURA_SCHOOL_ABSORB</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00756">Absorb()</a>, <a class="el" href="../../#l00801">AuraEffectAbsorbFn</a>, <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00750">CalculateAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00800">AuraScript::OnEffectAbsorb</a>, and <a class="el" href="../../#l00132">SPELL_AURA_SCHOOL_ABSORB</a>.</p>
 
 </div>
 </div>
@@ -540,7 +540,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00768">Absorb()</a>, and <a class="el" href="../../#l00756">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00756">Absorb()</a>, and <a class="el" href="../../#l00744">Load()</a>.</p>
 
 </div>
 </div>
@@ -553,7 +553,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d46/classspell__dru__moonkin__form__passive.html">spell_dru_moonkin_form_passive</a></li>
-    <li class="footer">Generated on Sat Feb 21 2026 06:37:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Feb 22 2026 06:42:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
