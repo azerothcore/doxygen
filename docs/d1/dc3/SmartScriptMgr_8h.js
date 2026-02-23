@@ -387,6 +387,7 @@ var SmartScriptMgr_8h =
       [ "SMART_TARGET_ROLE_SELECTION", "d1/dc3/SmartScriptMgr_8h.html#a20fbd4053053320ca4f2a803a09eb92ea8ef1eee06daa7fa65fc8de074ed50546", null ],
       [ "SMART_TARGET_SUMMONED_CREATURES", "d1/dc3/SmartScriptMgr_8h.html#a20fbd4053053320ca4f2a803a09eb92ea3c84bd8919f1955840a5ed45183026f8", null ],
       [ "SMART_TARGET_INSTANCE_STORAGE", "d1/dc3/SmartScriptMgr_8h.html#a20fbd4053053320ca4f2a803a09eb92eab90d059ceb3f4e2b7737cbb60b8d67a8", null ],
+      [ "SMART_TARGET_FORMATION", "d1/dc3/SmartScriptMgr_8h.html#a20fbd4053053320ca4f2a803a09eb92ea15a6c47c5ae973b41e88ab6196cf070f", null ],
       [ "SMART_TARGET_AC_END", "d1/dc3/SmartScriptMgr_8h.html#a20fbd4053053320ca4f2a803a09eb92eabc392ba55937eb7338456a2bbec325f7", null ]
     ] ],
     [ "SMARTAI_TEMPLATE", "d1/dc3/SmartScriptMgr_8h.html#a191dc5b4a228fd0a252c021a8c3b1cf6", [

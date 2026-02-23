@@ -128,6 +128,9 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html">EquipmentConfig</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configuration for simulating equipment requirements.  <a href="../../d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig.html">ExtraAttackProcConfig</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configuration for simulating extra attack chain-proc prevention.  <a href="../../d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d04/structProcChanceTestHelper_1_1PPMModifierConfig.html">PPMModifierConfig</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.  <a href="../../d3/d04/structProcChanceTestHelper_1_1PPMModifierConfig.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -164,6 +167,9 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:ab3d733d9e66b5e9554501be5e09349f7" id="r_ab3d733d9e66b5e9554501be5e09349f7"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#ab3d733d9e66b5e9554501be5e09349f7">ShouldBlockTriggeredSpell</a> (<a class="el" href="../../d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig.html">TriggeredSpellConfig</a> const &amp;config, <a class="el" href="../../dd/da3/structSpellProcEntry.html">SpellProcEntry</a> const &amp;procEntry, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> eventTypeMask)</td></tr>
 <tr class="memdesc:ab3d733d9e66b5e9554501be5e09349f7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulate triggered spell filtering Implements the self-loop prevention and triggered spell blocking from <a class="el" href="../../d8/dab/SpellAuras_8cpp.html">SpellAuras.cpp</a>.  <br /></td></tr>
 <tr class="separator:ab3d733d9e66b5e9554501be5e09349f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad11bf4c6cd4a5bb1bcd80699f1d4a16e" id="r_ad11bf4c6cd4a5bb1bcd80699f1d4a16e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ShouldBlockExtraAttackChainProc</a> (<a class="el" href="../../d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig.html">ExtraAttackProcConfig</a> const &amp;config)</td></tr>
+<tr class="memdesc:ad11bf4c6cd4a5bb1bcd80699f1d4a16e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulate extra attack chain-proc prevention from CheckEffectProc Returns true if proc should be blocked.  <br /></td></tr>
+<tr class="separator:ad11bf4c6cd4a5bb1bcd80699f1d4a16e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afdbe9b23c7bbe076f45ec94d1289b297" id="r_afdbe9b23c7bbe076f45ec94d1289b297"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297">ApplyDisableEffectsMask</a> (<a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> initialMask, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableEffectsMask)</td></tr>
 <tr class="memdesc:afdbe9b23c7bbe076f45ec94d1289b297"><td class="mdescLeft">&#160;</td><td class="mdescRight">Apply DisableEffectsMask to get final proc effect mask.  <br /></td></tr>
 <tr class="separator:afdbe9b23c7bbe076f45ec94d1289b297"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -273,18 +279,18 @@ Static Public Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Resulting effect mask after applying disable mask </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  297</span>    {</div>
-<div class="line"><span class="lineno">  298</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = initialMask;</div>
-<div class="line"><span class="lineno">  299</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 3; ++i)</div>
-<div class="line"><span class="lineno">  300</span>        {</div>
-<div class="line"><span class="lineno">  301</span>            <span class="keywordflow">if</span> (disableEffectsMask &amp; (1u &lt;&lt; i))</div>
-<div class="line"><span class="lineno">  302</span>                result &amp;= ~(1 &lt;&lt; i);</div>
-<div class="line"><span class="lineno">  303</span>        }</div>
-<div class="line"><span class="lineno">  304</span>        <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">  305</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  336</span>    {</div>
+<div class="line"><span class="lineno">  337</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = initialMask;</div>
+<div class="line"><span class="lineno">  338</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 3; ++i)</div>
+<div class="line"><span class="lineno">  339</span>        {</div>
+<div class="line"><span class="lineno">  340</span>            <span class="keywordflow">if</span> (disableEffectsMask &amp; (1u &lt;&lt; i))</div>
+<div class="line"><span class="lineno">  341</span>                result &amp;= ~(1 &lt;&lt; i);</div>
+<div class="line"><span class="lineno">  342</span>        }</div>
+<div class="line"><span class="lineno">  343</span>        <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  344</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00314">ShouldBlockDueToDisabledEffects()</a>, <a class="el" href="../../#l00115">TEST_F()</a>, <a class="el" href="../../#l00047">TEST_F()</a>, <a class="el" href="../../#l00057">TEST_F()</a>, <a class="el" href="../../#l00067">TEST_F()</a>, <a class="el" href="../../#l00081">TEST_F()</a>, <a class="el" href="../../#l00091">TEST_F()</a>, <a class="el" href="../../#l00101">TEST_F()</a>, <a class="el" href="../../#l00194">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00160">TEST_F()</a>, <a class="el" href="../../#l00216">TEST_F()</a>, and <a class="el" href="../../#l00177">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00353">ShouldBlockDueToDisabledEffects()</a>, <a class="el" href="../../#l00115">TEST_F()</a>, <a class="el" href="../../#l00047">TEST_F()</a>, <a class="el" href="../../#l00057">TEST_F()</a>, <a class="el" href="../../#l00067">TEST_F()</a>, <a class="el" href="../../#l00081">TEST_F()</a>, <a class="el" href="../../#l00091">TEST_F()</a>, <a class="el" href="../../#l00101">TEST_F()</a>, <a class="el" href="../../#l00194">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00160">TEST_F()</a>, <a class="el" href="../../#l00216">TEST_F()</a>, and <a class="el" href="../../#l00177">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -402,7 +408,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00191">AuraStub::AddProcCooldown()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00529">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00568">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -564,25 +570,25 @@ Static Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Calculate PPM chance with spell modifiers Simulates GetPPMProcChance() with SPELLMOD_PROC_PER_MINUTE. </p>
-<div class="fragment"><div class="line"><span class="lineno">  342</span>    {</div>
-<div class="line"><span class="lineno">  343</span>        <span class="keywordflow">if</span> (basePPM &lt;= 0.0f)</div>
-<div class="line"><span class="lineno">  344</span>            <span class="keywordflow">return</span> 0.0f;</div>
-<div class="line"><span class="lineno">  345</span> </div>
-<div class="line"><span class="lineno">  346</span>        <span class="keywordtype">float</span> ppm = basePPM;</div>
-<div class="line"><span class="lineno">  347</span> </div>
-<div class="line"><span class="lineno">  348</span>        <span class="comment">// Apply modifiers only if we have spell proto and spell mod owner</span></div>
-<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">if</span> (modConfig.hasSpellProto &amp;&amp; modConfig.hasSpellModOwner)</div>
-<div class="line"><span class="lineno">  350</span>        {</div>
-<div class="line"><span class="lineno">  351</span>            <span class="comment">// Apply flat modifier first (SPELLMOD_FLAT)</span></div>
-<div class="line"><span class="lineno">  352</span>            ppm += modConfig.flatModifier;</div>
-<div class="line"><span class="lineno">  353</span>            <span class="comment">// Apply percent modifier (SPELLMOD_PCT)</span></div>
-<div class="line"><span class="lineno">  354</span>            ppm *= modConfig.pctModifier;</div>
-<div class="line"><span class="lineno">  355</span>        }</div>
-<div class="line"><span class="lineno">  356</span> </div>
-<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">return</span> (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(weaponSpeed) * ppm) / 600.0f;</div>
-<div class="line"><span class="lineno">  358</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  381</span>    {</div>
+<div class="line"><span class="lineno">  382</span>        <span class="keywordflow">if</span> (basePPM &lt;= 0.0f)</div>
+<div class="line"><span class="lineno">  383</span>            <span class="keywordflow">return</span> 0.0f;</div>
+<div class="line"><span class="lineno">  384</span> </div>
+<div class="line"><span class="lineno">  385</span>        <span class="keywordtype">float</span> ppm = basePPM;</div>
+<div class="line"><span class="lineno">  386</span> </div>
+<div class="line"><span class="lineno">  387</span>        <span class="comment">// Apply modifiers only if we have spell proto and spell mod owner</span></div>
+<div class="line"><span class="lineno">  388</span>        <span class="keywordflow">if</span> (modConfig.hasSpellProto &amp;&amp; modConfig.hasSpellModOwner)</div>
+<div class="line"><span class="lineno">  389</span>        {</div>
+<div class="line"><span class="lineno">  390</span>            <span class="comment">// Apply flat modifier first (SPELLMOD_FLAT)</span></div>
+<div class="line"><span class="lineno">  391</span>            ppm += modConfig.flatModifier;</div>
+<div class="line"><span class="lineno">  392</span>            <span class="comment">// Apply percent modifier (SPELLMOD_PCT)</span></div>
+<div class="line"><span class="lineno">  393</span>            ppm *= modConfig.pctModifier;</div>
+<div class="line"><span class="lineno">  394</span>        }</div>
+<div class="line"><span class="lineno">  395</span> </div>
+<div class="line"><span class="lineno">  396</span>        <span class="keywordflow">return</span> (<span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(weaponSpeed) * ppm) / 600.0f;</div>
+<div class="line"><span class="lineno">  397</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00328">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>, <a class="el" href="../../#l00330">ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner</a>, <a class="el" href="../../#l00331">ProcChanceTestHelper::PPMModifierConfig::hasSpellProto</a>, and <a class="el" href="../../#l00329">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00367">ProcChanceTestHelper::PPMModifierConfig::flatModifier</a>, <a class="el" href="../../#l00369">ProcChanceTestHelper::PPMModifierConfig::hasSpellModOwner</a>, <a class="el" href="../../#l00370">ProcChanceTestHelper::PPMModifierConfig::hasSpellProto</a>, and <a class="el" href="../../#l00368">ProcChanceTestHelper::PPMModifierConfig::pctModifier</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00066">TEST_F()</a>, <a class="el" href="../../#l00093">TEST_F()</a>, <a class="el" href="../../#l00051">TEST_F()</a>, <a class="el" href="../../#l00082">TEST_F()</a>, <a class="el" href="../../#l00226">TEST_F()</a>, <a class="el" href="../../#l00209">TEST_F()</a>, <a class="el" href="../../#l00356">TEST_F()</a>, <a class="el" href="../../#l00378">TEST_F()</a>, <a class="el" href="../../#l00367">TEST_F()</a>, <a class="el" href="../../#l00390">TEST_F()</a>, <a class="el" href="../../#l00123">TEST_F()</a>, <a class="el" href="../../#l00108">TEST_F()</a>, <a class="el" href="../../#l00138">TEST_F()</a>, <a class="el" href="../../#l00246">TEST_F()</a>, <a class="el" href="../../#l00267">TEST_F()</a>, <a class="el" href="../../#l00175">TEST_F()</a>, <a class="el" href="../../#l00160">TEST_F()</a>, <a class="el" href="../../#l00190">TEST_F()</a>, <a class="el" href="../../#l00339">TEST_F()</a>, <a class="el" href="../../#l00288">TEST_F()</a>, <a class="el" href="../../#l00300">TEST_F()</a>, <a class="el" href="../../#l00313">TEST_F()</a>, and <a class="el" href="../../#l00326">TEST_F()</a>.</p>
 
@@ -620,24 +626,24 @@ Static Public Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Equipment slot index (simulated) </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  438</span>    {</div>
-<div class="line"><span class="lineno">  439</span>        <span class="keywordflow">switch</span> (attackType)</div>
-<div class="line"><span class="lineno">  440</span>        {</div>
-<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">case</span> <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#af0f724a2ed57a03dab9a640b61ced974">BASE_ATTACK</a>:</div>
-<div class="line"><span class="lineno">  442</span>                <span class="keywordflow">return</span> 15;  <span class="comment">// EQUIPMENT_SLOT_MAINHAND</span></div>
-<div class="line"><span class="lineno">  443</span>            <span class="keywordflow">case</span> <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#a97323266b01f9dcf63a38b00684d12c9">OFF_ATTACK</a>:</div>
-<div class="line"><span class="lineno">  444</span>                <span class="keywordflow">return</span> 16;  <span class="comment">// EQUIPMENT_SLOT_OFFHAND</span></div>
-<div class="line"><span class="lineno">  445</span>            <span class="keywordflow">case</span> <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575">RANGED_ATTACK</a>:</div>
-<div class="line"><span class="lineno">  446</span>                <span class="keywordflow">return</span> 17;  <span class="comment">// EQUIPMENT_SLOT_RANGED</span></div>
-<div class="line"><span class="lineno">  447</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  448</span>                <span class="keywordflow">return</span> 15;</div>
-<div class="line"><span class="lineno">  449</span>        }</div>
-<div class="line"><span class="lineno">  450</span>    }</div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_a37eb38df7f1ea2b2fa2f21d9f348e575"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575">ProcChanceTestHelper::RANGED_ATTACK</a></div><div class="ttdeci">static constexpr uint8 RANGED_ATTACK</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:376</div></div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_a97323266b01f9dcf63a38b00684d12c9"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a97323266b01f9dcf63a38b00684d12c9">ProcChanceTestHelper::OFF_ATTACK</a></div><div class="ttdeci">static constexpr uint8 OFF_ATTACK</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:375</div></div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_af0f724a2ed57a03dab9a640b61ced974"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#af0f724a2ed57a03dab9a640b61ced974">ProcChanceTestHelper::BASE_ATTACK</a></div><div class="ttdeci">static constexpr uint8 BASE_ATTACK</div><div class="ttdoc">Attack types for weapon slot mapping.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:374</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  477</span>    {</div>
+<div class="line"><span class="lineno">  478</span>        <span class="keywordflow">switch</span> (attackType)</div>
+<div class="line"><span class="lineno">  479</span>        {</div>
+<div class="line"><span class="lineno">  480</span>            <span class="keywordflow">case</span> <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#af0f724a2ed57a03dab9a640b61ced974">BASE_ATTACK</a>:</div>
+<div class="line"><span class="lineno">  481</span>                <span class="keywordflow">return</span> 15;  <span class="comment">// EQUIPMENT_SLOT_MAINHAND</span></div>
+<div class="line"><span class="lineno">  482</span>            <span class="keywordflow">case</span> <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#a97323266b01f9dcf63a38b00684d12c9">OFF_ATTACK</a>:</div>
+<div class="line"><span class="lineno">  483</span>                <span class="keywordflow">return</span> 16;  <span class="comment">// EQUIPMENT_SLOT_OFFHAND</span></div>
+<div class="line"><span class="lineno">  484</span>            <span class="keywordflow">case</span> <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575">RANGED_ATTACK</a>:</div>
+<div class="line"><span class="lineno">  485</span>                <span class="keywordflow">return</span> 17;  <span class="comment">// EQUIPMENT_SLOT_RANGED</span></div>
+<div class="line"><span class="lineno">  486</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  487</span>                <span class="keywordflow">return</span> 15;</div>
+<div class="line"><span class="lineno">  488</span>        }</div>
+<div class="line"><span class="lineno">  489</span>    }</div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_a37eb38df7f1ea2b2fa2f21d9f348e575"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a37eb38df7f1ea2b2fa2f21d9f348e575">ProcChanceTestHelper::RANGED_ATTACK</a></div><div class="ttdeci">static constexpr uint8 RANGED_ATTACK</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:415</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_a97323266b01f9dcf63a38b00684d12c9"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#a97323266b01f9dcf63a38b00684d12c9">ProcChanceTestHelper::OFF_ATTACK</a></div><div class="ttdeci">static constexpr uint8 OFF_ATTACK</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:414</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_af0f724a2ed57a03dab9a640b61ced974"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#af0f724a2ed57a03dab9a640b61ced974">ProcChanceTestHelper::BASE_ATTACK</a></div><div class="ttdeci">static constexpr uint8 BASE_ATTACK</div><div class="ttdoc">Attack types for weapon slot mapping.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:413</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00374">BASE_ATTACK</a>, <a class="el" href="../../#l00375">OFF_ATTACK</a>, and <a class="el" href="../../#l00376">RANGED_ATTACK</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00413">BASE_ATTACK</a>, <a class="el" href="../../#l00414">OFF_ATTACK</a>, and <a class="el" href="../../#l00415">RANGED_ATTACK</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00266">TEST_F()</a>, <a class="el" href="../../#l00287">TEST_F()</a>, <a class="el" href="../../#l00273">TEST_F()</a>, and <a class="el" href="../../#l00280">TEST_F()</a>.</p>
 
@@ -694,7 +700,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00186">AuraStub::IsProcOnCooldown()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00529">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00568">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -730,16 +736,16 @@ Static Public Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if proc should be blocked </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  474</span>    {</div>
-<div class="line"><span class="lineno">  475</span>        <span class="comment">// No conditions configured - allow proc</span></div>
-<div class="line"><span class="lineno">  476</span>        <span class="keywordflow">if</span> (!config.hasConditions)</div>
-<div class="line"><span class="lineno">  477</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  478</span> </div>
-<div class="line"><span class="lineno">  479</span>        <span class="comment">// Check if conditions are met</span></div>
-<div class="line"><span class="lineno">  480</span>        <span class="keywordflow">return</span> !config.conditionsMet;</div>
-<div class="line"><span class="lineno">  481</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  513</span>    {</div>
+<div class="line"><span class="lineno">  514</span>        <span class="comment">// No conditions configured - allow proc</span></div>
+<div class="line"><span class="lineno">  515</span>        <span class="keywordflow">if</span> (!config.hasConditions)</div>
+<div class="line"><span class="lineno">  516</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  517</span> </div>
+<div class="line"><span class="lineno">  518</span>        <span class="comment">// Check if conditions are met</span></div>
+<div class="line"><span class="lineno">  519</span>        <span class="keywordflow">return</span> !config.conditionsMet;</div>
+<div class="line"><span class="lineno">  520</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00462">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, and <a class="el" href="../../#l00461">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00501">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, and <a class="el" href="../../#l00500">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00086">TEST_F()</a>, <a class="el" href="../../#l00263">TEST_F()</a>, <a class="el" href="../../#l00305">TEST_F()</a>, <a class="el" href="../../#l00326">TEST_F()</a>, <a class="el" href="../../#l00316">TEST_F()</a>, <a class="el" href="../../#l00336">TEST_F()</a>, <a class="el" href="../../#l00273">TEST_F()</a>, <a class="el" href="../../#l00283">TEST_F()</a>, <a class="el" href="../../#l00294">TEST_F()</a>, <a class="el" href="../../#l00360">TEST_F()</a>, <a class="el" href="../../#l00350">TEST_F()</a>, <a class="el" href="../../#l00370">TEST_F()</a>, <a class="el" href="../../#l00154">TEST_F()</a>, <a class="el" href="../../#l00143">TEST_F()</a>, <a class="el" href="../../#l00116">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00067">TEST_F()</a>, <a class="el" href="../../#l00241">TEST_F()</a>, <a class="el" href="../../#l00169">TEST_F()</a>, <a class="el" href="../../#l00187">TEST_F()</a>, <a class="el" href="../../#l00205">TEST_F()</a>, <a class="el" href="../../#l00223">TEST_F()</a>, and <a class="el" href="../../#l00100">TEST_F()</a>.</p>
 
@@ -788,12 +794,12 @@ Static Public Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if all effects disabled (proc blocked), false otherwise </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  315</span>    {</div>
-<div class="line"><span class="lineno">  316</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297">ApplyDisableEffectsMask</a>(initialMask, disableEffectsMask) == 0;</div>
-<div class="line"><span class="lineno">  317</span>    }</div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_afdbe9b23c7bbe076f45ec94d1289b297"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a></div><div class="ttdeci">static uint8 ApplyDisableEffectsMask(uint8 initialMask, uint32 disableEffectsMask)</div><div class="ttdoc">Apply DisableEffectsMask to get final proc effect mask.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:296</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  354</span>    {</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297">ApplyDisableEffectsMask</a>(initialMask, disableEffectsMask) == 0;</div>
+<div class="line"><span class="lineno">  356</span>    }</div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_afdbe9b23c7bbe076f45ec94d1289b297"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a></div><div class="ttdeci">static uint8 ApplyDisableEffectsMask(uint8 initialMask, uint32 disableEffectsMask)</div><div class="ttdoc">Apply DisableEffectsMask to get final proc effect mask.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:335</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00296">ApplyDisableEffectsMask()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00335">ApplyDisableEffectsMask()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00115">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00160">TEST_F()</a>, <a class="el" href="../../#l00264">TEST_F()</a>, <a class="el" href="../../#l00250">TEST_F()</a>, <a class="el" href="../../#l00234">TEST_F()</a>, and <a class="el" href="../../#l00177">TEST_F()</a>.</p>
 
@@ -831,39 +837,94 @@ Static Public Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if proc should be blocked </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  403</span>    {</div>
-<div class="line"><span class="lineno">  404</span>        <span class="comment">// Only check for passive player auras with equipment requirements</span></div>
-<div class="line"><span class="lineno">  405</span>        <span class="keywordflow">if</span> (!config.isPassive || !config.isPlayer || config.equippedItemClass == <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96">ITEM_CLASS_ANY</a>)</div>
-<div class="line"><span class="lineno">  406</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  407</span> </div>
-<div class="line"><span class="lineno">  408</span>        <span class="comment">// SPELL_ATTR3_NO_PROC_EQUIP_REQUIREMENT bypasses check</span></div>
-<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">if</span> (config.hasNoEquipRequirementAttr)</div>
-<div class="line"><span class="lineno">  410</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  411</span> </div>
-<div class="line"><span class="lineno">  412</span>        <span class="comment">// Feral form blocks weapon procs</span></div>
-<div class="line"><span class="lineno">  413</span>        <span class="keywordflow">if</span> (config.equippedItemClass == <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#addc4abaac2862092dec9206cf746a84a">ITEM_CLASS_WEAPON</a> &amp;&amp; config.isInFeralForm)</div>
-<div class="line"><span class="lineno">  414</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  415</span> </div>
-<div class="line"><span class="lineno">  416</span>        <span class="comment">// No item equipped in the required slot</span></div>
-<div class="line"><span class="lineno">  417</span>        <span class="keywordflow">if</span> (!config.hasEquippedItem)</div>
-<div class="line"><span class="lineno">  418</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  419</span> </div>
-<div class="line"><span class="lineno">  420</span>        <span class="comment">// Item is broken</span></div>
-<div class="line"><span class="lineno">  421</span>        <span class="keywordflow">if</span> (config.itemIsBroken)</div>
-<div class="line"><span class="lineno">  422</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  423</span> </div>
-<div class="line"><span class="lineno">  424</span>        <span class="comment">// Item doesn&#39;t fit spell requirements (wrong subclass, etc.)</span></div>
-<div class="line"><span class="lineno">  425</span>        <span class="keywordflow">if</span> (!config.itemFitsRequirements)</div>
-<div class="line"><span class="lineno">  426</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  427</span> </div>
-<div class="line"><span class="lineno">  428</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  429</span>    }</div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_addc4abaac2862092dec9206cf746a84a"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#addc4abaac2862092dec9206cf746a84a">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a></div><div class="ttdeci">static constexpr int32 ITEM_CLASS_WEAPON</div><div class="ttdoc">Item classes for equipment requirement checking.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:367</div></div>
-<div class="ttc" id="aclassProcChanceTestHelper_html_af1b7930d947922e39bb11e4414338a96"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96">ProcChanceTestHelper::ITEM_CLASS_ANY</a></div><div class="ttdeci">static constexpr int32 ITEM_CLASS_ANY</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:369</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  442</span>    {</div>
+<div class="line"><span class="lineno">  443</span>        <span class="comment">// Only check for passive player auras with equipment requirements</span></div>
+<div class="line"><span class="lineno">  444</span>        <span class="keywordflow">if</span> (!config.isPassive || !config.isPlayer || config.equippedItemClass == <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96">ITEM_CLASS_ANY</a>)</div>
+<div class="line"><span class="lineno">  445</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  446</span> </div>
+<div class="line"><span class="lineno">  447</span>        <span class="comment">// SPELL_ATTR3_NO_PROC_EQUIP_REQUIREMENT bypasses check</span></div>
+<div class="line"><span class="lineno">  448</span>        <span class="keywordflow">if</span> (config.hasNoEquipRequirementAttr)</div>
+<div class="line"><span class="lineno">  449</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  450</span> </div>
+<div class="line"><span class="lineno">  451</span>        <span class="comment">// Feral form blocks weapon procs</span></div>
+<div class="line"><span class="lineno">  452</span>        <span class="keywordflow">if</span> (config.equippedItemClass == <a class="code hl_variable" href="../../db/db8/classProcChanceTestHelper.html#addc4abaac2862092dec9206cf746a84a">ITEM_CLASS_WEAPON</a> &amp;&amp; config.isInFeralForm)</div>
+<div class="line"><span class="lineno">  453</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  454</span> </div>
+<div class="line"><span class="lineno">  455</span>        <span class="comment">// No item equipped in the required slot</span></div>
+<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">if</span> (!config.hasEquippedItem)</div>
+<div class="line"><span class="lineno">  457</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  458</span> </div>
+<div class="line"><span class="lineno">  459</span>        <span class="comment">// Item is broken</span></div>
+<div class="line"><span class="lineno">  460</span>        <span class="keywordflow">if</span> (config.itemIsBroken)</div>
+<div class="line"><span class="lineno">  461</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  462</span> </div>
+<div class="line"><span class="lineno">  463</span>        <span class="comment">// Item doesn&#39;t fit spell requirements (wrong subclass, etc.)</span></div>
+<div class="line"><span class="lineno">  464</span>        <span class="keywordflow">if</span> (!config.itemFitsRequirements)</div>
+<div class="line"><span class="lineno">  465</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  466</span> </div>
+<div class="line"><span class="lineno">  467</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  468</span>    }</div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_addc4abaac2862092dec9206cf746a84a"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#addc4abaac2862092dec9206cf746a84a">ProcChanceTestHelper::ITEM_CLASS_WEAPON</a></div><div class="ttdeci">static constexpr int32 ITEM_CLASS_WEAPON</div><div class="ttdoc">Item classes for equipment requirement checking.</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:406</div></div>
+<div class="ttc" id="aclassProcChanceTestHelper_html_af1b7930d947922e39bb11e4414338a96"><div class="ttname"><a href="../../db/db8/classProcChanceTestHelper.html#af1b7930d947922e39bb11e4414338a96">ProcChanceTestHelper::ITEM_CLASS_ANY</a></div><div class="ttdeci">static constexpr int32 ITEM_CLASS_ANY</div><div class="ttdef"><b>Definition</b> ProcChanceTestHelper.h:408</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00385">ProcChanceTestHelper::EquipmentConfig::equippedItemClass</a>, <a class="el" href="../../#l00390">ProcChanceTestHelper::EquipmentConfig::hasEquippedItem</a>, <a class="el" href="../../#l00387">ProcChanceTestHelper::EquipmentConfig::hasNoEquipRequirementAttr</a>, <a class="el" href="../../#l00389">ProcChanceTestHelper::EquipmentConfig::isInFeralForm</a>, <a class="el" href="../../#l00383">ProcChanceTestHelper::EquipmentConfig::isPassive</a>, <a class="el" href="../../#l00384">ProcChanceTestHelper::EquipmentConfig::isPlayer</a>, <a class="el" href="../../#l00369">ITEM_CLASS_ANY</a>, <a class="el" href="../../#l00367">ITEM_CLASS_WEAPON</a>, <a class="el" href="../../#l00392">ProcChanceTestHelper::EquipmentConfig::itemFitsRequirements</a>, and <a class="el" href="../../#l00391">ProcChanceTestHelper::EquipmentConfig::itemIsBroken</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00424">ProcChanceTestHelper::EquipmentConfig::equippedItemClass</a>, <a class="el" href="../../#l00429">ProcChanceTestHelper::EquipmentConfig::hasEquippedItem</a>, <a class="el" href="../../#l00426">ProcChanceTestHelper::EquipmentConfig::hasNoEquipRequirementAttr</a>, <a class="el" href="../../#l00428">ProcChanceTestHelper::EquipmentConfig::isInFeralForm</a>, <a class="el" href="../../#l00422">ProcChanceTestHelper::EquipmentConfig::isPassive</a>, <a class="el" href="../../#l00423">ProcChanceTestHelper::EquipmentConfig::isPlayer</a>, <a class="el" href="../../#l00408">ITEM_CLASS_ANY</a>, <a class="el" href="../../#l00406">ITEM_CLASS_WEAPON</a>, <a class="el" href="../../#l00431">ProcChanceTestHelper::EquipmentConfig::itemFitsRequirements</a>, and <a class="el" href="../../#l00430">ProcChanceTestHelper::EquipmentConfig::itemIsBroken</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00188">TEST_F()</a>, <a class="el" href="../../#l00179">TEST_F()</a>, <a class="el" href="../../#l00171">TEST_F()</a>, <a class="el" href="../../#l00378">TEST_F()</a>, <a class="el" href="../../#l00362">TEST_F()</a>, <a class="el" href="../../#l00392">TEST_F()</a>, <a class="el" href="../../#l00210">TEST_F()</a>, <a class="el" href="../../#l00201">TEST_F()</a>, <a class="el" href="../../#l00093">TEST_F()</a>, <a class="el" href="../../#l00242">TEST_F()</a>, <a class="el" href="../../#l00252">TEST_F()</a>, <a class="el" href="../../#l00232">TEST_F()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, <a class="el" href="../../#l00116">TEST_F()</a>, <a class="el" href="../../#l00219">TEST_F()</a>, <a class="el" href="../../#l00338">TEST_F()</a>, <a class="el" href="../../#l00328">TEST_F()</a>, <a class="el" href="../../#l00318">TEST_F()</a>, <a class="el" href="../../#l00298">TEST_F()</a>, <a class="el" href="../../#l00308">TEST_F()</a>, <a class="el" href="../../#l00348">TEST_F()</a>, <a class="el" href="../../#l00149">TEST_F()</a>, <a class="el" href="../../#l00140">TEST_F()</a>, <a class="el" href="../../#l00132">TEST_F()</a>, and <a class="el" href="../../#l00158">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="ad11bf4c6cd4a5bb1bcd80699f1d4a16e" name="ad11bf4c6cd4a5bb1bcd80699f1d4a16e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">&#9670;&#160;</a></span>ShouldBlockExtraAttackChainProc()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool ProcChanceTestHelper::ShouldBlockExtraAttackChainProc </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig.html">ExtraAttackProcConfig</a> const &amp;&#160;</td>
+          <td class="paramname"><em>config</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Simulate extra attack chain-proc prevention from CheckEffectProc Returns true if proc should be blocked. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">config</td><td>Extra attack proc configuration </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if proc should be blocked </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  307</span>    {</div>
+<div class="line"><span class="lineno">  308</span>        <span class="comment">// Only applies when the triggered spell grants extra attacks</span></div>
+<div class="line"><span class="lineno">  309</span>        <span class="keywordflow">if</span> (!config.triggeredSpellHasExtraAttacks)</div>
+<div class="line"><span class="lineno">  310</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  311</span> </div>
+<div class="line"><span class="lineno">  312</span>        <span class="comment">// Patch 1.12.0(?) extra attack abilities can no longer chain proc themselves</span></div>
+<div class="line"><span class="lineno">  313</span>        <span class="keywordflow">if</span> (config.lastExtraAttackSpell == config.triggerSpellId)</div>
+<div class="line"><span class="lineno">  314</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  315</span> </div>
+<div class="line"><span class="lineno">  316</span>        <span class="comment">// Patch 2.2.0 Sword Specialization (Warrior, Rogue) extra attack can no longer proc additional extra attacks</span></div>
+<div class="line"><span class="lineno">  317</span>        <span class="comment">// 3.3.5 Sword Specialization (Warrior), Hack and Slash (Rogue)</span></div>
+<div class="line"><span class="lineno">  318</span>        <span class="keywordflow">if</span> (config.lastExtraAttackSpell == 16459 || config.lastExtraAttackSpell == 66923)</div>
+<div class="line"><span class="lineno">  319</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  320</span> </div>
+<div class="line"><span class="lineno">  321</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  322</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00296">ProcChanceTestHelper::ExtraAttackProcConfig::lastExtraAttackSpell</a>, <a class="el" href="../../#l00294">ProcChanceTestHelper::ExtraAttackProcConfig::triggeredSpellHasExtraAttacks</a>, and <a class="el" href="../../#l00295">ProcChanceTestHelper::ExtraAttackProcConfig::triggerSpellId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00091">TEST_F()</a>, <a class="el" href="../../#l00082">TEST_F()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, <a class="el" href="../../#l00118">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00141">TEST_F()</a>, <a class="el" href="../../#l00132">TEST_F()</a>, and <a class="el" href="../../#l00069">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -1054,7 +1115,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00063">ApplyLevel60Reduction()</a>, <a class="el" href="../../#l00291">SpellProcEntry::AttributesMask</a>, <a class="el" href="../../#l00046">CalculatePPMChance()</a>, <a class="el" href="../../#l00294">SpellProcEntry::Chance</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, and <a class="el" href="../../#l00293">SpellProcEntry::ProcsPerMinute</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00529">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00343">TEST_F()</a>, <a class="el" href="../../#l00242">TEST_F()</a>, <a class="el" href="../../#l00203">TEST_F()</a>, <a class="el" href="../../#l00214">TEST_F()</a>, <a class="el" href="../../#l00228">TEST_F()</a>, <a class="el" href="../../#l00253">TEST_F()</a>, <a class="el" href="../../#l00387">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00045">TEST_F()</a>, <a class="el" href="../../#l00066">TEST_F()</a>, <a class="el" href="../../#l00183">TEST_F()</a>, <a class="el" href="../../#l00171">TEST_F()</a>, <a class="el" href="../../#l00159">TEST_F()</a>, <a class="el" href="../../#l00335">TEST_F()</a>, <a class="el" href="../../#l00294">TEST_F()</a>, <a class="el" href="../../#l00266">TEST_F()</a>, <a class="el" href="../../#l00212">TEST_F()</a>, <a class="el" href="../../#l00224">TEST_F()</a>, <a class="el" href="../../#l00281">TEST_F()</a>, <a class="el" href="../../#l00236">TEST_F()</a>, <a class="el" href="../../#l00251">TEST_F()</a>, <a class="el" href="../../#l00107">TEST_F()</a>, <a class="el" href="../../#l00121">TEST_F()</a>, <a class="el" href="../../#l00094">TEST_F()</a>, <a class="el" href="../../#l00080">TEST_F()</a>, <a class="el" href="../../#l00138">TEST_F()</a>, <a class="el" href="../../#l00195">TEST_F()</a>, and <a class="el" href="../../#l00266">TEST_P()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00568">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00343">TEST_F()</a>, <a class="el" href="../../#l00242">TEST_F()</a>, <a class="el" href="../../#l00203">TEST_F()</a>, <a class="el" href="../../#l00214">TEST_F()</a>, <a class="el" href="../../#l00228">TEST_F()</a>, <a class="el" href="../../#l00253">TEST_F()</a>, <a class="el" href="../../#l00387">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00045">TEST_F()</a>, <a class="el" href="../../#l00066">TEST_F()</a>, <a class="el" href="../../#l00183">TEST_F()</a>, <a class="el" href="../../#l00171">TEST_F()</a>, <a class="el" href="../../#l00159">TEST_F()</a>, <a class="el" href="../../#l00335">TEST_F()</a>, <a class="el" href="../../#l00294">TEST_F()</a>, <a class="el" href="../../#l00266">TEST_F()</a>, <a class="el" href="../../#l00212">TEST_F()</a>, <a class="el" href="../../#l00224">TEST_F()</a>, <a class="el" href="../../#l00281">TEST_F()</a>, <a class="el" href="../../#l00236">TEST_F()</a>, <a class="el" href="../../#l00251">TEST_F()</a>, <a class="el" href="../../#l00107">TEST_F()</a>, <a class="el" href="../../#l00121">TEST_F()</a>, <a class="el" href="../../#l00094">TEST_F()</a>, <a class="el" href="../../#l00080">TEST_F()</a>, <a class="el" href="../../#l00138">TEST_F()</a>, <a class="el" href="../../#l00195">TEST_F()</a>, and <a class="el" href="../../#l00266">TEST_P()</a>.</p>
 
 </div>
 </div>
@@ -1129,7 +1190,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00291">SpellProcEntry::AttributesMask</a>, <a class="el" href="../../#l00161">AuraStub::DropCharge()</a>, <a class="el" href="../../#l00155">AuraStub::GetCharges()</a>, <a class="el" href="../../#l00156">AuraStub::IsUsingCharges()</a>, <a class="el" href="../../#l00209">AuraStub::ModStackAmount()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, and <a class="el" href="../../#l00233">AuraStub::Remove()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00529">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00366">TEST_F()</a>, <a class="el" href="../../#l00152">TEST_F()</a>, <a class="el" href="../../#l00169">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00315">TEST_F()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, <a class="el" href="../../#l00286">TEST_F()</a>, <a class="el" href="../../#l00232">TEST_F()</a>, <a class="el" href="../../#l00206">TEST_F()</a>, <a class="el" href="../../#l00258">TEST_F()</a>, <a class="el" href="../../#l00181">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00297">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00568">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00366">TEST_F()</a>, <a class="el" href="../../#l00152">TEST_F()</a>, <a class="el" href="../../#l00169">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00315">TEST_F()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, <a class="el" href="../../#l00286">TEST_F()</a>, <a class="el" href="../../#l00232">TEST_F()</a>, <a class="el" href="../../#l00206">TEST_F()</a>, <a class="el" href="../../#l00258">TEST_F()</a>, <a class="el" href="../../#l00181">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00297">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
 
 </div>
 </div>
@@ -1233,7 +1294,7 @@ Static Public Attributes</h2></td></tr>
 
 <p>Attack types for weapon slot mapping. </p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00437">GetWeaponSlotForAttackType()</a>, <a class="el" href="../../#l00298">TEST_F()</a>, and <a class="el" href="../../#l00266">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00476">GetWeaponSlotForAttackType()</a>, <a class="el" href="../../#l00298">TEST_F()</a>, and <a class="el" href="../../#l00266">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -1307,7 +1368,7 @@ Static Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00402">ShouldBlockDueToEquipment()</a>, and <a class="el" href="../../#l00093">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00441">ShouldBlockDueToEquipment()</a>, and <a class="el" href="../../#l00093">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -1357,7 +1418,7 @@ Static Public Attributes</h2></td></tr>
 
 <p><a class="el" href="../../d0/dae/classItem.html">Item</a> classes for equipment requirement checking. </p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00063">SpellProcEquipmentTest::CreateWeaponProcConfig()</a>, <a class="el" href="../../#l00402">ShouldBlockDueToEquipment()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, and <a class="el" href="../../#l00116">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00063">SpellProcEquipmentTest::CreateWeaponProcConfig()</a>, <a class="el" href="../../#l00441">ShouldBlockDueToEquipment()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, and <a class="el" href="../../#l00116">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -1381,7 +1442,7 @@ Static Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00437">GetWeaponSlotForAttackType()</a>, <a class="el" href="../../#l00308">TEST_F()</a>, and <a class="el" href="../../#l00273">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00476">GetWeaponSlotForAttackType()</a>, <a class="el" href="../../#l00308">TEST_F()</a>, and <a class="el" href="../../#l00273">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -1473,7 +1534,7 @@ Static Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00437">GetWeaponSlotForAttackType()</a>, <a class="el" href="../../#l00318">TEST_F()</a>, and <a class="el" href="../../#l00280">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00476">GetWeaponSlotForAttackType()</a>, <a class="el" href="../../#l00318">TEST_F()</a>, and <a class="el" href="../../#l00280">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -1600,7 +1661,7 @@ Static Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/db8/classProcChanceTestHelper.html">ProcChanceTestHelper</a></li>
-    <li class="footer">Generated on Sun Feb 22 2026 06:42:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 23 2026 07:00:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

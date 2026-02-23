@@ -366,7 +366,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aUtil_8h_html_a53176b459b4462b058b2a1be47ef82ee"><div class="ttname"><a href="../../d1/dc8/Util_8h.html#a53176b459b4462b058b2a1be47ef82ee">AddPct</a></div><div class="ttdeci">T AddPct(T &amp;base, U pct)</div><div class="ttdef"><b>Definition</b> Util.h:58</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1035</div></div>
-<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:658</div></div>
+<div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:665</div></div>
 <div class="ttc" id="aspell__priest_8cpp_html_a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d"><div class="ttname"><a href="../../de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110fa08ad85769dce5870b0201048c1537b8d">SPELL_PRIEST_GLYPH_OF_LIGHTWELL</a></div><div class="ttdeci">@ SPELL_PRIEST_GLYPH_OF_LIGHTWELL</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:37</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00058">AddPct()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, and <a class="el" href="../../#l00037">SPELL_PRIEST_GLYPH_OF_LIGHTWELL</a>.</p>
@@ -415,10 +415,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aclassDamageInfo_html"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html">DamageInfo</a></div><div class="ttdef"><b>Definition</b> Unit.h:337</div></div>
 <div class="ttc" id="aclassDamageInfo_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d2/d2d/classDamageInfo.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition</b> Unit.h:373</div></div>
-<div class="ttc" id="aclassProcEventInfo_html_ad2eb8dffb2a2b91b02ca1b56861c7221"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">ProcEventInfo::GetDamageInfo</a></div><div class="ttdeci">DamageInfo * GetDamageInfo() const</div><div class="ttdef"><b>Definition</b> Unit.h:463</div></div>
+<div class="ttc" id="aclassProcEventInfo_html_ad2eb8dffb2a2b91b02ca1b56861c7221"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ad2eb8dffb2a2b91b02ca1b56861c7221">ProcEventInfo::GetDamageInfo</a></div><div class="ttdeci">DamageInfo * GetDamageInfo() const</div><div class="ttdef"><b>Definition</b> Unit.h:470</div></div>
 <div class="ttc" id="aclassspell__pri__lightwell__renew_html_aa9a60ff01b89cb7c800d068e92c00ce3"><div class="ttname"><a href="../../da/d92/classspell__pri__lightwell__renew.html#aa9a60ff01b89cb7c800d068e92c00ce3">spell_pri_lightwell_renew::_remainingAmount</a></div><div class="ttdeci">uint32 _remainingAmount</div><div class="ttdef"><b>Definition</b> spell_priest.cpp:498</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00498">_remainingAmount</a>, <a class="el" href="../../#l00373">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00463">ProcEventInfo::GetDamageInfo()</a>, and <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00498">_remainingAmount</a>, <a class="el" href="../../#l00373">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00470">ProcEventInfo::GetDamageInfo()</a>, and <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00488">Register()</a>.</p>
 
@@ -519,9 +519,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  454</span>        <span class="comment">// Attacks done to you equal to 30% of your total health will cancel the effect</span></div>
 <div class="line"><span class="lineno">  455</span>        <a class="code hl_variable" href="../../da/d92/classspell__pri__lightwell__renew.html#aa9a60ff01b89cb7c800d068e92c00ce3">_remainingAmount</a> = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ac6fc3f50b72cb6f2fd8bb988d48a8dba">CountPctFromMaxHealth</a>(30);</div>
 <div class="line"><span class="lineno">  456</span>    }</div>
-<div class="ttc" id="aclassUnit_html_ac6fc3f50b72cb6f2fd8bb988d48a8dba"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac6fc3f50b72cb6f2fd8bb988d48a8dba">Unit::CountPctFromMaxHealth</a></div><div class="ttdeci">uint32 CountPctFromMaxHealth(int32 pct) const</div><div class="ttdef"><b>Definition</b> Unit.h:1110</div></div>
+<div class="ttc" id="aclassUnit_html_ac6fc3f50b72cb6f2fd8bb988d48a8dba"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac6fc3f50b72cb6f2fd8bb988d48a8dba">Unit::CountPctFromMaxHealth</a></div><div class="ttdeci">uint32 CountPctFromMaxHealth(int32 pct) const</div><div class="ttdef"><b>Definition</b> Unit.h:1117</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00498">_remainingAmount</a>, <a class="el" href="../../#l01110">Unit::CountPctFromMaxHealth()</a>, and <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00498">_remainingAmount</a>, <a class="el" href="../../#l01117">Unit::CountPctFromMaxHealth()</a>, and <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00488">Register()</a>.</p>
 
@@ -638,7 +638,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d92/classspell__pri__lightwell__renew.html">spell_pri_lightwell_renew</a></li>
-    <li class="footer">Generated on Sun Feb 22 2026 06:43:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Feb 23 2026 07:01:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

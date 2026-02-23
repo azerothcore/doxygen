@@ -7,7 +7,6 @@ var boss__malygos_8cpp =
     [ "npc_hover_disk", "df/dfa/structnpc__hover__disk.html", "df/dfa/structnpc__hover__disk" ],
     [ "npc_alexstrasza", "d8/de4/structnpc__alexstrasza.html", "d8/de4/structnpc__alexstrasza" ],
     [ "npc_eoe_wyrmrest_skytalon", "df/d19/structnpc__eoe__wyrmrest__skytalon.html", "df/d19/structnpc__eoe__wyrmrest__skytalon" ],
-    [ "go_the_focusing_iris", "d1/df7/structgo__the__focusing__iris.html", "d1/df7/structgo__the__focusing__iris" ],
     [ "spell_malygos_vortex_dummy", "d0/d77/classspell__malygos__vortex__dummy.html", "d0/d77/classspell__malygos__vortex__dummy" ],
     [ "spell_malygos_vortex_visual", "d2/d4c/classspell__malygos__vortex__visual.html", "d2/d4c/classspell__malygos__vortex__visual" ],
     [ "spell_eoe_ph3_surge_of_power", "d4/df5/classspell__eoe__ph3__surge__of__power.html", "d4/df5/classspell__eoe__ph3__surge__of__power" ],

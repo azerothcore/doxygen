@@ -80,5 +80,6 @@ var boss__kologarn_8cpp =
       [ "DATA_KOLOGARN_RUBBLE_ACHIEV", "d3/de1/boss__kologarn_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad36134a002d20b5ffbac947d29480a86", null ],
       [ "DATA_KOLOGARN_ARMS_ACHIEV", "d3/de1/boss__kologarn_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2be9439f068708825a306a2b29491fea", null ]
     ] ],
-    [ "AddSC_boss_kologarn", "d3/de1/boss__kologarn_8cpp.html#aa65e3b9110a22f8242eb7a6008565c52", null ]
+    [ "AddSC_boss_kologarn", "d3/de1/boss__kologarn_8cpp.html#aa65e3b9110a22f8242eb7a6008565c52", null ],
+    [ "boundaryIntersect", "d3/de1/boss__kologarn_8cpp.html#ae137fb738d524b299f3c238c8e1e464a", null ]
 ];

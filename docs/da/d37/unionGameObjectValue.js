@@ -1,13 +1,13 @@
 var unionGameObjectValue =
 [
     [ "AnimationInfo", "da/d37/unionGameObjectValue.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "da/d37/unionGameObjectValue.html#a53c177a0b800f7e0952bff948fca636c", null ],
-    [ "CapturePoint", "da/d37/unionGameObjectValue.html#a200f05ff1207f21ef67cb9c14d3a4767", null ],
-    [ "FishingHole", "da/d37/unionGameObjectValue.html#a1ccae6fe25f6c9377c5c2933b6301254", null ],
+    [ "Building", "da/d37/unionGameObjectValue.html#aef41ba6d4c2602b60bc2a6effcb1566a", null ],
+    [ "CapturePoint", "da/d37/unionGameObjectValue.html#a9c5d239c211fd341300a77a53a87734d", null ],
+    [ "FishingHole", "da/d37/unionGameObjectValue.html#a207f6a3102fb04285c05b83c5234dbec", null ],
     [ "Health", "da/d37/unionGameObjectValue.html#af70b72663064c9c4b88c93a824f1e14b", null ],
     [ "MaxHealth", "da/d37/unionGameObjectValue.html#ab606f11596c1dd3d1cf7588346338721", null ],
     [ "MaxOpens", "da/d37/unionGameObjectValue.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
     [ "OPvPObj", "da/d37/unionGameObjectValue.html#a565624b690fa7fabf21b175548765652", null ],
     [ "PathProgress", "da/d37/unionGameObjectValue.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "da/d37/unionGameObjectValue.html#a0e552fe0bfca9c74cbe9c6f72fc044e5", null ]
+    [ "Transport", "da/d37/unionGameObjectValue.html#a049255e30486113c3337079edbd80ff9", null ]
 ];

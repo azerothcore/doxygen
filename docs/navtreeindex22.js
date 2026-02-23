@@ -1,5 +1,7 @@
 var NAVTREEINDEX22 =
 {
+"d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad4cd768f265ec798d7ec64b84e5943ef":[7,0,0,0,1,3,2,1,3,6,9,4],
+"d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad99fee41a83bfbcd5113588d0f304a67":[7,0,0,0,1,3,2,1,3,6,9,6],
 "d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af6069985f50476851af18377f38f0e0a":[7,0,0,0,1,3,2,1,3,6,9,3],
 "d0/df1/boss__majordomo__executus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,1,3,6,6],
 "d0/df1/boss__majordomo__executus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a183bb65b5f932b74a4e9a513d8929e91":[7,0,0,0,1,3,2,1,3,6,6,10],
@@ -22,13 +24,13 @@ var NAVTREEINDEX22 =
 "d0/df2/classnpc__vh__teleportation__portal.html#a9a554058f594f992a17dbb3887117a6f":[6,0,2280,1],
 "d0/df2/instance__wailing__caverns_8cpp.html":[7,0,0,0,1,3,4,10,0],
 "d0/df2/instance__wailing__caverns_8cpp.html#a67427453c8ec357648c276eaed523225":[7,0,0,0,1,3,4,10,0,2],
-"d0/df2/structSummonPropertiesEntry.html":[6,0,4440],
-"d0/df2/structSummonPropertiesEntry.html#a24449c3e3fd89ae3dbe4be3f64248115":[6,0,4440,4],
-"d0/df2/structSummonPropertiesEntry.html#a4876df0f9a92e10634b7bc0b389ade00":[6,0,4440,1],
-"d0/df2/structSummonPropertiesEntry.html#a8b41ed573eae71196664a61bac83fe3e":[6,0,4440,2],
-"d0/df2/structSummonPropertiesEntry.html#aa1cbad19aaa973e21fdbd74cec5119f6":[6,0,4440,5],
-"d0/df2/structSummonPropertiesEntry.html#acd933f251a1faa1f705420307136681d":[6,0,4440,0],
-"d0/df2/structSummonPropertiesEntry.html#ae0b89d5ae5f82b4f807a2f8dbbec351a":[6,0,4440,3],
+"d0/df2/structSummonPropertiesEntry.html":[6,0,4443],
+"d0/df2/structSummonPropertiesEntry.html#a24449c3e3fd89ae3dbe4be3f64248115":[6,0,4443,4],
+"d0/df2/structSummonPropertiesEntry.html#a4876df0f9a92e10634b7bc0b389ade00":[6,0,4443,1],
+"d0/df2/structSummonPropertiesEntry.html#a8b41ed573eae71196664a61bac83fe3e":[6,0,4443,2],
+"d0/df2/structSummonPropertiesEntry.html#aa1cbad19aaa973e21fdbd74cec5119f6":[6,0,4443,5],
+"d0/df2/structSummonPropertiesEntry.html#acd933f251a1faa1f705420307136681d":[6,0,4443,0],
+"d0/df2/structSummonPropertiesEntry.html#ae0b89d5ae5f82b4f807a2f8dbbec351a":[6,0,4443,3],
 "d0/df3/BattlegroundEY_8h.html":[7,0,0,0,1,2,8,1,9],
 "d0/df3/BattlegroundEY_8h.html#a0249cc17563cf762e09fd2bb8edfe050":[7,0,0,0,1,2,8,1,9,6],
 "d0/df3/BattlegroundEY_8h.html#a0249cc17563cf762e09fd2bb8edfe050a0b0cce464621636a1dc97261dd901ca5":[7,0,0,0,1,2,8,1,9,6,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX22 =
 "d0/df4/structPosition.html#a77f89ef0ce6c1cb3144a2d2265dfff87":[6,0,2448,13],
 "d0/df4/structPosition.html#a7e91a07c89b5645ddff795e0b5495632":[6,0,2448,36],
 "d0/df4/structPosition.html#a7fdb84796f2742172b8ee6edb3ae25c1":[6,0,2448,15],
-"d0/df4/structPosition.html#a820a67efab101953f719681b15defcf6":[6,0,2448,40],
-"d0/df4/structPosition.html#a870635c65e302219c9428a2aa3bab6cb":[6,0,2448,26],
-"d0/df4/structPosition.html#a8aedfa2a6eae470274a37e870dfac3b3":[6,0,2448,6]
+"d0/df4/structPosition.html#a820a67efab101953f719681b15defcf6":[6,0,2448,40]
 };

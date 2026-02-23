@@ -72,6 +72,7 @@ var spell__hunter_8cpp =
       [ "SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b", null ],
       [ "SPELL_LOCK_AND_LOAD_TRIGGER", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491", null ],
       [ "SPELL_LOCK_AND_LOAD_MARKER", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002", null ],
+      [ "SPELL_FROST_TRAP_SLOW", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3fe2049f68094a11efb86e4e93a040be", null ],
       [ "SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6", null ],
       [ "SPELL_HUNTER_THRILL_OF_THE_HUNT_MANA", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea24b745e0a8b4cafb71fb1c3e13cc9b91", null ],
       [ "SPELL_HUNTER_REPLENISHMENT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead3b1ddda51ad79293797b6f433d999e2", null ],

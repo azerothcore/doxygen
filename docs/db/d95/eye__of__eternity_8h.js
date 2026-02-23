@@ -36,6 +36,7 @@ var eye__of__eternity_8h =
     ] ],
     [ "EoEMisc", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2", [
       [ "AREA_EYE_OF_ETERNITY", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2ad864e12bb07ab8a788f5ebb0513c8105", null ],
+      [ "EVENT_DESTROY_PLATFORM", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2ab63ae09b5ebc057bbcbd073d45674526", null ],
       [ "EVENT_IRIS_ACTIVATED", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2a08fdfb88363920a779952ea57f16484a", null ],
       [ "PLATFORM_DESTROY_DAMAGE", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2af9db613d2390452ea9cbe927f82f066c", null ],
       [ "INTRO_MOVEMENT_INTERVAL", "db/d95/eye__of__eternity_8h.html#a7c97f73f4cb0f865cae5bcb83b5b01c2ac1c0b018544bb2bb22f1acb9be3d68af", null ]

@@ -48,5 +48,7 @@ var searchData=
   ['eventmap_45',['EventMap',['../d1/d2e/classEventMap.html',1,'']]],
   ['eventprocessor_46',['EventProcessor',['../d2/d58/classEventProcessor.html',1,'']]],
   ['exactsequence_47',['ExactSequence',['../d0/dbd/structAcore_1_1ChatCommands_1_1ExactSequence.html',1,'Acore::ChatCommands']]],
-  ['exception_48',['Exception',['../dd/d96/classDBCFile_1_1Exception.html',1,'DBCFile']]]
+  ['exception_48',['Exception',['../dd/d96/classDBCFile_1_1Exception.html',1,'DBCFile']]],
+  ['extraattackchainproctest_49',['ExtraAttackChainProcTest',['../d0/d17/classExtraAttackChainProcTest.html',1,'']]],
+  ['extraattackprocconfig_50',['ExtraAttackProcConfig',['../d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig.html',1,'ProcChanceTestHelper']]]
 ];

@@ -172,6 +172,9 @@ var namespaces_dup =
       [ "threadsCleanup", "df/d43/namespaceOpenSSLCrypto.html#af868d9171650614810772c5675c47fd3", null ],
       [ "threadsSetup", "df/d43/namespaceOpenSSLCrypto.html#ae2c343f2efc8fa69b50e1bd35bf410fd", null ]
     ] ],
+    [ "pitKillBoundary", "de/d1c/namespacepitKillBoundary.html", [
+      [ "boundaryIntersect", "de/d1c/namespacepitKillBoundary.html#ae137fb738d524b299f3c238c8e1e464a", null ]
+    ] ],
     [ "PlayerNameMapHolder", "d6/dba/namespacePlayerNameMapHolder.html", [
       [ "MapType", "d6/dba/namespacePlayerNameMapHolder.html#a2a540ae6cb73c9914f0253464b155227", null ],
       [ "Find", "d6/dba/namespacePlayerNameMapHolder.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],

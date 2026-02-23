@@ -2,6 +2,7 @@ var classProcChanceTestHelper =
 [
     [ "ConditionsConfig", "de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html", "de/d89/structProcChanceTestHelper_1_1ConditionsConfig" ],
     [ "EquipmentConfig", "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig.html", "d4/df3/structProcChanceTestHelper_1_1EquipmentConfig" ],
+    [ "ExtraAttackProcConfig", "d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig.html", "d5/d8f/structProcChanceTestHelper_1_1ExtraAttackProcConfig" ],
     [ "PPMModifierConfig", "d3/d04/structProcChanceTestHelper_1_1PPMModifierConfig.html", "d3/d04/structProcChanceTestHelper_1_1PPMModifierConfig" ],
     [ "TriggeredSpellConfig", "d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig.html", "d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig" ],
     [ "ApplyDisableEffectsMask", "db/db8/classProcChanceTestHelper.html#afdbe9b23c7bbe076f45ec94d1289b297", null ],
@@ -15,6 +16,7 @@ var classProcChanceTestHelper =
     [ "ShouldBlockDueToConditions", "db/db8/classProcChanceTestHelper.html#a2a1c402850c063484c273d6fb4962771", null ],
     [ "ShouldBlockDueToDisabledEffects", "db/db8/classProcChanceTestHelper.html#a6f7564c8a12d1531afe97c4f61fb23ac", null ],
     [ "ShouldBlockDueToEquipment", "db/db8/classProcChanceTestHelper.html#ad4b553c3a909671e7ca72a8e5fe46b2a", null ],
+    [ "ShouldBlockExtraAttackChainProc", "db/db8/classProcChanceTestHelper.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e", null ],
     [ "ShouldBlockTriggeredSpell", "db/db8/classProcChanceTestHelper.html#ab3d733d9e66b5e9554501be5e09349f7", null ],
     [ "SimulateCalcProcChance", "db/db8/classProcChanceTestHelper.html#a439a1b27d17320fdd1769859d7a35eb1", null ],
     [ "SimulateConsumeProcCharges", "db/db8/classProcChanceTestHelper.html#a23aff9444cb03891a4d5c4cabad28610", null ],

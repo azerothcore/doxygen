@@ -3,6 +3,7 @@ var structTargetInfo =
     [ "alive", "db/de6/structTargetInfo.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
     [ "crit", "db/de6/structTargetInfo.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
     [ "damage", "db/de6/structTargetInfo.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "db/de6/structTargetInfo.html#a85196e5b5865856962898c18001880c7", null ],
     [ "effectMask", "db/de6/structTargetInfo.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
     [ "missCondition", "db/de6/structTargetInfo.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
     [ "processed", "db/de6/structTargetInfo.html#a2de96d62297ff614fc3702bec035ce5b", null ],
