@@ -839,7 +839,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00814">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02933">SpellMgr::LoadSpellInfoCustomAttributes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02947">SpellMgr::LoadSpellInfoCustomAttributes()</a>.</p>
 
 </div>
 </div>
@@ -912,59 +912,59 @@ Variables</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2489</span>{</div>
-<div class="line"><span class="lineno"> 2490</span>    <span class="comment">// skip empty list;</span></div>
-<div class="line"><span class="lineno"> 2491</span>    <span class="keywordtype">bool</span> have_spell = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2492</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> j = 0; j &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>; ++j)</div>
-<div class="line"><span class="lineno"> 2493</span>    {</div>
-<div class="line"><span class="lineno"> 2494</span>        <span class="keywordflow">if</span> (petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
-<div class="line"><span class="lineno"> 2495</span>        {</div>
-<div class="line"><span class="lineno"> 2496</span>            have_spell = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2497</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2498</span>        }</div>
-<div class="line"><span class="lineno"> 2499</span>    }</div>
-<div class="line"><span class="lineno"> 2500</span>    <span class="keywordflow">if</span> (!have_spell)</div>
-<div class="line"><span class="lineno"> 2501</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2502</span> </div>
-<div class="line"><span class="lineno"> 2503</span>    <span class="comment">// remove duplicates with levelupSpells if any</span></div>
-<div class="line"><span class="lineno"> 2504</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89">PetLevelupSpellSet</a> <span class="keyword">const</span>* levelupSpells = cInfo-&gt;family ? <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetPetLevelupSpellList(cInfo-&gt;family) : nullptr)</div>
-<div class="line"><span class="lineno"> 2505</span>    {</div>
-<div class="line"><span class="lineno"> 2506</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> j = 0; j &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>; ++j)</div>
-<div class="line"><span class="lineno"> 2507</span>        {</div>
-<div class="line"><span class="lineno"> 2508</span>            <span class="keywordflow">if</span> (!petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
-<div class="line"><span class="lineno"> 2509</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno"> 2510</span> </div>
-<div class="line"><span class="lineno"> 2511</span>            <span class="keywordflow">for</span> (PetLevelupSpellSet::const_iterator itr = levelupSpells-&gt;begin(); itr != levelupSpells-&gt;end(); ++itr)</div>
-<div class="line"><span class="lineno"> 2512</span>            {</div>
-<div class="line"><span class="lineno"> 2513</span>                <span class="keywordflow">if</span> (itr-&gt;second == petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
-<div class="line"><span class="lineno"> 2514</span>                {</div>
-<div class="line"><span class="lineno"> 2515</span>                    petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j] = 0;</div>
-<div class="line"><span class="lineno"> 2516</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2517</span>                }</div>
-<div class="line"><span class="lineno"> 2518</span>            }</div>
-<div class="line"><span class="lineno"> 2519</span>        }</div>
-<div class="line"><span class="lineno"> 2520</span>    }</div>
-<div class="line"><span class="lineno"> 2521</span> </div>
-<div class="line"><span class="lineno"> 2522</span>    <span class="comment">// skip empty list;</span></div>
-<div class="line"><span class="lineno"> 2523</span>    have_spell = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 2524</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> j = 0; j &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>; ++j)</div>
-<div class="line"><span class="lineno"> 2525</span>    {</div>
-<div class="line"><span class="lineno"> 2526</span>        <span class="keywordflow">if</span> (petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
-<div class="line"><span class="lineno"> 2527</span>        {</div>
-<div class="line"><span class="lineno"> 2528</span>            have_spell = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 2529</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2530</span>        }</div>
-<div class="line"><span class="lineno"> 2531</span>    }</div>
-<div class="line"><span class="lineno"> 2532</span> </div>
-<div class="line"><span class="lineno"> 2533</span>    <span class="keywordflow">return</span> have_spell;</div>
-<div class="line"><span class="lineno"> 2534</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2503</span>{</div>
+<div class="line"><span class="lineno"> 2504</span>    <span class="comment">// skip empty list;</span></div>
+<div class="line"><span class="lineno"> 2505</span>    <span class="keywordtype">bool</span> have_spell = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2506</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> j = 0; j &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>; ++j)</div>
+<div class="line"><span class="lineno"> 2507</span>    {</div>
+<div class="line"><span class="lineno"> 2508</span>        <span class="keywordflow">if</span> (petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
+<div class="line"><span class="lineno"> 2509</span>        {</div>
+<div class="line"><span class="lineno"> 2510</span>            have_spell = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2511</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2512</span>        }</div>
+<div class="line"><span class="lineno"> 2513</span>    }</div>
+<div class="line"><span class="lineno"> 2514</span>    <span class="keywordflow">if</span> (!have_spell)</div>
+<div class="line"><span class="lineno"> 2515</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2516</span> </div>
+<div class="line"><span class="lineno"> 2517</span>    <span class="comment">// remove duplicates with levelupSpells if any</span></div>
+<div class="line"><span class="lineno"> 2518</span>    <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89">PetLevelupSpellSet</a> <span class="keyword">const</span>* levelupSpells = cInfo-&gt;family ? <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetPetLevelupSpellList(cInfo-&gt;family) : nullptr)</div>
+<div class="line"><span class="lineno"> 2519</span>    {</div>
+<div class="line"><span class="lineno"> 2520</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> j = 0; j &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>; ++j)</div>
+<div class="line"><span class="lineno"> 2521</span>        {</div>
+<div class="line"><span class="lineno"> 2522</span>            <span class="keywordflow">if</span> (!petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
+<div class="line"><span class="lineno"> 2523</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno"> 2524</span> </div>
+<div class="line"><span class="lineno"> 2525</span>            <span class="keywordflow">for</span> (PetLevelupSpellSet::const_iterator itr = levelupSpells-&gt;begin(); itr != levelupSpells-&gt;end(); ++itr)</div>
+<div class="line"><span class="lineno"> 2526</span>            {</div>
+<div class="line"><span class="lineno"> 2527</span>                <span class="keywordflow">if</span> (itr-&gt;second == petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
+<div class="line"><span class="lineno"> 2528</span>                {</div>
+<div class="line"><span class="lineno"> 2529</span>                    petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j] = 0;</div>
+<div class="line"><span class="lineno"> 2530</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2531</span>                }</div>
+<div class="line"><span class="lineno"> 2532</span>            }</div>
+<div class="line"><span class="lineno"> 2533</span>        }</div>
+<div class="line"><span class="lineno"> 2534</span>    }</div>
+<div class="line"><span class="lineno"> 2535</span> </div>
+<div class="line"><span class="lineno"> 2536</span>    <span class="comment">// skip empty list;</span></div>
+<div class="line"><span class="lineno"> 2537</span>    have_spell = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 2538</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> j = 0; j &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>; ++j)</div>
+<div class="line"><span class="lineno"> 2539</span>    {</div>
+<div class="line"><span class="lineno"> 2540</span>        <span class="keywordflow">if</span> (petDefSpells.<a class="code hl_variable" href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">spellid</a>[j])</div>
+<div class="line"><span class="lineno"> 2541</span>        {</div>
+<div class="line"><span class="lineno"> 2542</span>            have_spell = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 2543</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2544</span>        }</div>
+<div class="line"><span class="lineno"> 2545</span>    }</div>
+<div class="line"><span class="lineno"> 2546</span> </div>
+<div class="line"><span class="lineno"> 2547</span>    <span class="keywordflow">return</span> have_spell;</div>
+<div class="line"><span class="lineno"> 2548</span>}</div>
 <div class="ttc" id="aDBCStructure_8h_html_a84f97addb2541cd13960d71b99ac4f9c"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a></div><div class="ttdeci">#define MAX_CREATURE_SPELL_DATA_SLOT</div><div class="ttdef"><b>Definition</b> DBCStructure.h:807</div></div>
 <div class="ttc" id="aSpellMgr_8h_html_aff302d7ad23409ef738f15bcb560ed89"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aff302d7ad23409ef738f15bcb560ed89">PetLevelupSpellSet</a></div><div class="ttdeci">std::multimap&lt; uint32, uint32 &gt; PetLevelupSpellSet</div><div class="ttdef"><b>Definition</b> SpellMgr.h:573</div></div>
 <div class="ttc" id="astructPetDefaultSpellsEntry_html_a14f5dd3b53f06437074965e9b7753e89"><div class="ttname"><a href="../../d2/d00/structPetDefaultSpellsEntry.html#a14f5dd3b53f06437074965e9b7753e89">PetDefaultSpellsEntry::spellid</a></div><div class="ttdeci">uint32 spellid[MAX_CREATURE_SPELL_DATA_SLOT]</div><div class="ttdef"><b>Definition</b> SpellMgr.h:580</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00217">CreatureTemplate::family</a>, <a class="el" href="../../#l00807">MAX_CREATURE_SPELL_DATA_SLOT</a>, <a class="el" href="../../#l00580">PetDefaultSpellsEntry::spellid</a>, and <a class="el" href="../../#l00814">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02536">SpellMgr::LoadPetDefaultSpells()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02550">SpellMgr::LoadPetDefaultSpells()</a>.</p>
 
 </div>
 </div>
@@ -1069,7 +1069,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../dc/dee/SpellMgr_8cpp.html">SpellMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 06:59:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 24 2026 06:55:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

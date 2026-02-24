@@ -1,9 +1,5 @@
 var NAVTREEINDEX102 =
 {
-"d3/d75/classspell__warl__seed__of__corruption__dummy.html#a3fa1917fc77575531e485cd0228bcc00":[6,0,4267,0],
-"d3/d75/classspell__warl__seed__of__corruption__dummy.html#ae7de3e43a47e6b35d0dead23ac51325e":[6,0,4267,4],
-"d3/d77/classspell__dru__rip.html":[6,0,2895],
-"d3/d77/classspell__dru__rip.html#a2ed00d02a1685bc8b66e9cdfd430d1ad":[6,0,2895,0],
 "d3/d77/classspell__dru__rip.html#a6766b6ebbba04bc595373145e4eaaa7a":[6,0,2895,3],
 "d3/d77/classspell__dru__rip.html#a7ba8da2fdc3bf18cd9925b280e60affa":[6,0,2895,1],
 "d3/d77/classspell__dru__rip.html#a93df43072a344485c389160306b1fecd":[6,0,2895,2],
@@ -249,5 +245,9 @@ var NAVTREEINDEX102 =
 "d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2599,3],
 "d3/d81/structsOnyxMove.html#a7b12c520ee50ab29e5047a1c71b22729":[6,0,2599,1],
 "d3/d81/structsOnyxMove.html#a94c284d63e66765c4d484c8edea8fdb8":[6,0,2599,2],
-"d3/d81/structsOnyxMove.html#abe083129d7a4e514e97eeae7cff40af5":[6,0,2599,5]
+"d3/d81/structsOnyxMove.html#abe083129d7a4e514e97eeae7cff40af5":[6,0,2599,5],
+"d3/d81/structsOnyxMove.html#ac49d886d09e2ebf8ccf8abd59a9649ec":[6,0,2599,6],
+"d3/d81/trial__of__the__champion_8h.html":[7,0,0,0,1,3,5,2,0,5],
+"d3/d81/trial__of__the__champion_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,2,0,5,0],
+"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250":[7,0,0,0,1,3,5,2,0,5,4]
 };

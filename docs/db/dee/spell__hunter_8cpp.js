@@ -76,8 +76,6 @@ var spell__hunter_8cpp =
       [ "SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6", null ],
       [ "SPELL_HUNTER_THRILL_OF_THE_HUNT_MANA", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea24b745e0a8b4cafb71fb1c3e13cc9b91", null ],
       [ "SPELL_HUNTER_REPLENISHMENT", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead3b1ddda51ad79293797b6f433d999e2", null ],
-      [ "SPELL_HUNTER_RAPID_RECUPERATION_R1", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7eabed422935fb9323814241ce5c03ad6c2", null ],
-      [ "SPELL_HUNTER_RAPID_RECUPERATION_R2", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5da4e17a0898c0430c8ed6311758969c", null ],
       [ "SPELL_HUNTER_GLYPH_OF_MEND_PET_HAPPINESS", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea43d93b93e0b2e38e803c2f4c3257df09", null ],
       [ "SPELL_HUNTER_KILL_COMMAND_HUNTER", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea30a3a1cf72dd1294b4780aafc7e8aed1", null ],
       [ "SPELL_HUNTER_RAPID_RECUPERATION_MANA_R1", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea9f21035c8a973ce87f57c009133013ef", null ],

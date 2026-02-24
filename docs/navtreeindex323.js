@@ -1,11 +1,5 @@
 var NAVTREEINDEX323 =
 {
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea79cdebc2f1cd492d80831a1538eec9e9":[7,0,0,0,1,3,4,1,0,1,8,4],
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ea906920afb87b1d09cadbd93eefc1c0a8":[7,0,0,0,1,3,4,1,0,1,8,2],
-"dc/db3/boss__archimonde_8cpp.html#ab33096358996f6413879b5c6ab8d623ead5b3e1b17cb1a42c914158702338f49b":[7,0,0,0,1,3,4,1,0,1,8,0],
-"dc/db3/boss__archimonde_8cpp.html#ae72869d214b7d3a071fb6094ed4948d5":[7,0,0,0,1,3,4,1,0,1,13],
-"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,1,0,1,6],
-"dc/db3/boss__archimonde_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,4,1,0,1,6,0],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html":[7,0,0,0,1,3,7,2,2,1],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dd":[7,0,0,0,1,3,7,2,2,1,1],
 "dc/db3/boss__mekgineer__steamrigger_8cpp.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,2,2,1,1,3],
@@ -249,5 +243,11 @@ var NAVTREEINDEX323 =
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a88cca74225a0099c85bb661c7f2ad382":[6,0,1710,0,6],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a93cf7cfcf3197543c3878278d99ff980":[6,0,1710,0,9],
 "dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#a9b20a0ad46dc0be2fe1a65072eb3477a":[6,0,1710,0,10],
-"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f":[6,0,1710,0,14]
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ab6c0afdc952c048efeea9d665075c54f":[6,0,1710,0,14],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ad0f1b869b85c8a94e84be5714a191cab":[6,0,1710,0,8],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae4ca305e3067cbdb2771d6a9e858f191":[6,0,1710,0,7],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#ae8f5216936ce3a3b5aa9d5b773521523":[6,0,1710,0,13],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#af57a218b98606c273ee3eba5d661d5d1":[6,0,1710,0,4],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#afb3eb981fe7e7cdcd0caca8f7d7c14f9":[6,0,1710,0,1],
+"dc/dc2/structnpc__commander__dawnforge_1_1npc__commander__dawnforgeAI.html#affa24c62af088b4b216aaa4789f6a40e":[6,0,1710,0,2]
 };

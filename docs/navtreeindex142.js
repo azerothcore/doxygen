@@ -1,9 +1,5 @@
 var NAVTREEINDEX142 =
 {
-"d4/de5/classspell__sha__astral__shift__visual__dummy.html#aeeca3a2be368025147702c4aa8c518ce":[6,0,4010,2],
-"d4/de6/structnpc__xt002__boombot.html":[6,0,2306],
-"d4/de6/structnpc__xt002__boombot.html#a0b5e372dc3c7fadb6d0ccf5138487a9d":[6,0,2306,5],
-"d4/de6/structnpc__xt002__boombot.html#a2a8b91db7af5f9f935623fe2b2ba3455":[6,0,2306,6],
 "d4/de6/structnpc__xt002__boombot.html#a40d523365cd398085b7f8dc96c3a52a1":[6,0,2306,0],
 "d4/de6/structnpc__xt002__boombot.html#a4307aaf92856d146095497cf74ef3e67":[6,0,2306,7],
 "d4/de6/structnpc__xt002__boombot.html#a4c0c94a400b20cb910cb6c10e18af31a":[6,0,2306,2],
@@ -84,14 +80,14 @@ var NAVTREEINDEX142 =
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html":[5,0,1,36],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[6,0,0,24,4],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a16cd07545542916e0f49250c77fad304":[5,0,1,36,4],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[5,0,1,36,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[6,0,0,24,0],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[6,0,0,24,2],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a213e07e67eefd1454be655e154380202":[5,0,1,36,0],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[5,0,1,36,2],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a43b531ac740cb263d347ece24ff675fc":[6,0,0,24,2],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[5,0,1,36,3],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a5fe4b376f00d33554a9a263abc743e68":[6,0,0,24,3],
-"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[5,0,1,36,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[6,0,0,24,1],
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#a8b3547500300e3b9d8de88c0b12b268e":[5,0,1,36,1],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[5,0,1,36,5],
 "d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[6,0,0,24,5],
 "d4/df1/classat__icc__spire__frostwyrm.html":[6,0,229],
@@ -249,5 +245,9 @@ var NAVTREEINDEX142 =
 "d4/df7/structAchievementCriteriaDataSet.html#a0abc37729d2f3c400bb7cfde212f51c0":[6,0,113,5],
 "d4/df7/structAchievementCriteriaDataSet.html#a297f02665679b19961998fb529d064e4":[6,0,113,2],
 "d4/df7/structAchievementCriteriaDataSet.html#a49a70316b169e50ad64ff51d6a568bbc":[6,0,113,0],
-"d4/df7/structAchievementCriteriaDataSet.html#a5055f8710c48379035e132e8f20577dc":[6,0,113,1]
+"d4/df7/structAchievementCriteriaDataSet.html#a5055f8710c48379035e132e8f20577dc":[6,0,113,1],
+"d4/df7/structAchievementCriteriaDataSet.html#a6abf189d95226b370cfcfe7b628ed7c0":[6,0,113,6],
+"d4/df7/structAchievementCriteriaDataSet.html#a8edbe32d695308633fa7abfc91d2a1a1":[6,0,113,3],
+"d4/df7/structAchievementCriteriaDataSet.html#addedfd39d9948923a2704b51eaacecbc":[6,0,113,4],
+"d4/df7/structboss__doomrel_1_1boss__doomrelAI.html":[6,0,434,0]
 };

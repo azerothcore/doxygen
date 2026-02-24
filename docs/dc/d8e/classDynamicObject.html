@@ -179,6 +179,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac9befb89dbebc4e1ab2fcf8e4edc68c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada02fde0ea7b50b213957999024bf75f" id="r_ada02fde0ea7b50b213957999024bf75f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d8e/classDynamicObject.html#ada02fde0ea7b50b213957999024bf75f">GetOldFarsightGUID</a> () const</td></tr>
 <tr class="separator:ada02fde0ea7b50b213957999024bf75f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4efe3d88f552ebf5dd6748de03b41cfb" id="r_a4efe3d88f552ebf5dd6748de03b41cfb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d8e/classDynamicObject.html#a4efe3d88f552ebf5dd6748de03b41cfb">IsUpdateNeeded</a> () override</td></tr>
+<tr class="separator:a4efe3d88f552ebf5dd6748de03b41cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classWorldObject"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classWorldObject')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a></td></tr>
 <tr class="memitem:aeabb8ef7d4741b002bc4c57199b2d3a5 inherit pub_methods_classWorldObject" id="r_aeabb8ef7d4741b002bc4c57199b2d3a5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#aeabb8ef7d4741b002bc4c57199b2d3a5">~WorldObject</a> () override</td></tr>
 <tr class="separator:aeabb8ef7d4741b002bc4c57199b2d3a5 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -495,8 +497,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad96f519ebde4fdba4ad02336c67234fb inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a780670221d578c6f70132aec3b0b3730 inherit pub_methods_classWorldObject" id="r_a780670221d578c6f70132aec3b0b3730"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a780670221d578c6f70132aec3b0b3730">RemoveAllowedLooter</a> (<a class="el" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid)</td></tr>
 <tr class="separator:a780670221d578c6f70132aec3b0b3730 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a810c1217b049c0d3721ee3c18c389105 inherit pub_methods_classWorldObject" id="r_a810c1217b049c0d3721ee3c18c389105"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a810c1217b049c0d3721ee3c18c389105">IsUpdateNeeded</a> ()</td></tr>
-<tr class="separator:a810c1217b049c0d3721ee3c18c389105 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a67c9fe1a567ad855dfd9be5cbebadca2 inherit pub_methods_classWorldObject" id="r_a67c9fe1a567ad855dfd9be5cbebadca2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a67c9fe1a567ad855dfd9be5cbebadca2">CanBeAddedToMapUpdateList</a> ()</td></tr>
 <tr class="separator:a67c9fe1a567ad855dfd9be5cbebadca2 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4a495dba05e29028f7967ccc08560870 inherit pub_methods_classWorldObject" id="r_a4a495dba05e29028f7967ccc08560870"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a4a495dba05e29028f7967ccc08560870">GetDebugInfo</a> () const override</td></tr>
@@ -1033,12 +1033,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aUpdateData_8h_html_af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b"><div class="ttname"><a href="../../dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b">UPDATEFLAG_LOWGUID</a></div><div class="ttdeci">@ UPDATEFLAG_LOWGUID</div><div class="ttdef"><b>Definition</b> UpdateData.h:43</div></div>
 <div class="ttc" id="aUpdateData_8h_html_af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1"><div class="ttname"><a href="../../dc/d86/UpdateData_8h.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1">UPDATEFLAG_STATIONARY_POSITION</a></div><div class="ttdeci">@ UPDATEFLAG_STATIONARY_POSITION</div><div class="ttdef"><b>Definition</b> UpdateData.h:45</div></div>
 <div class="ttc" id="aUpdateFields_8h_html_ae2cf7880bbc4b76e73c4928370c0b030aae9c28d0118d9d15b37c6190829a6abb"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#ae2cf7880bbc4b76e73c4928370c0b030aae9c28d0118d9d15b37c6190829a6abb">DYNAMICOBJECT_END</a></div><div class="ttdeci">@ DYNAMICOBJECT_END</div><div class="ttdef"><b>Definition</b> UpdateFields.h:415</div></div>
-<div class="ttc" id="aclassDynamicObject_html_a10357daa868050603b2d89cceda81500"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a10357daa868050603b2d89cceda81500">DynamicObject::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition</b> DynamicObject.h:68</div></div>
-<div class="ttc" id="aclassDynamicObject_html_a2a8626ce02e7f1bd6a8c8f84d38b5625"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a2a8626ce02e7f1bd6a8c8f84d38b5625">DynamicObject::_duration</a></div><div class="ttdeci">int32 _duration</div><div class="ttdef"><b>Definition</b> DynamicObject.h:69</div></div>
-<div class="ttc" id="aclassDynamicObject_html_ac7b3ca8ea91e5995cb36654448a57a2f"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#ac7b3ca8ea91e5995cb36654448a57a2f">DynamicObject::_removedAura</a></div><div class="ttdeci">Aura * _removedAura</div><div class="ttdef"><b>Definition</b> DynamicObject.h:67</div></div>
-<div class="ttc" id="aclassDynamicObject_html_ad1a6b47b129b8bb32bc9343e2d84d137"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#ad1a6b47b129b8bb32bc9343e2d84d137">DynamicObject::_isViewpoint</a></div><div class="ttdeci">bool _isViewpoint</div><div class="ttdef"><b>Definition</b> DynamicObject.h:70</div></div>
-<div class="ttc" id="aclassDynamicObject_html_ad386e45b476f87b60ff5126ad03943f9"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#ad386e45b476f87b60ff5126ad03943f9">DynamicObject::_aura</a></div><div class="ttdeci">Aura * _aura</div><div class="ttdef"><b>Definition</b> DynamicObject.h:66</div></div>
-<div class="ttc" id="aclassDynamicObject_html_afacef0933f6897e295e217bc8eaad69f"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#afacef0933f6897e295e217bc8eaad69f">DynamicObject::_updateViewerVisibilityTimer</a></div><div class="ttdeci">uint32 _updateViewerVisibilityTimer</div><div class="ttdef"><b>Definition</b> DynamicObject.h:71</div></div>
+<div class="ttc" id="aclassDynamicObject_html_a10357daa868050603b2d89cceda81500"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a10357daa868050603b2d89cceda81500">DynamicObject::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition</b> DynamicObject.h:70</div></div>
+<div class="ttc" id="aclassDynamicObject_html_a2a8626ce02e7f1bd6a8c8f84d38b5625"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a2a8626ce02e7f1bd6a8c8f84d38b5625">DynamicObject::_duration</a></div><div class="ttdeci">int32 _duration</div><div class="ttdef"><b>Definition</b> DynamicObject.h:71</div></div>
+<div class="ttc" id="aclassDynamicObject_html_ac7b3ca8ea91e5995cb36654448a57a2f"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#ac7b3ca8ea91e5995cb36654448a57a2f">DynamicObject::_removedAura</a></div><div class="ttdeci">Aura * _removedAura</div><div class="ttdef"><b>Definition</b> DynamicObject.h:69</div></div>
+<div class="ttc" id="aclassDynamicObject_html_ad1a6b47b129b8bb32bc9343e2d84d137"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#ad1a6b47b129b8bb32bc9343e2d84d137">DynamicObject::_isViewpoint</a></div><div class="ttdeci">bool _isViewpoint</div><div class="ttdef"><b>Definition</b> DynamicObject.h:72</div></div>
+<div class="ttc" id="aclassDynamicObject_html_ad386e45b476f87b60ff5126ad03943f9"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#ad386e45b476f87b60ff5126ad03943f9">DynamicObject::_aura</a></div><div class="ttdeci">Aura * _aura</div><div class="ttdef"><b>Definition</b> DynamicObject.h:68</div></div>
+<div class="ttc" id="aclassDynamicObject_html_afacef0933f6897e295e217bc8eaad69f"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#afacef0933f6897e295e217bc8eaad69f">DynamicObject::_updateViewerVisibilityTimer</a></div><div class="ttdeci">uint32 _updateViewerVisibilityTimer</div><div class="ttdef"><b>Definition</b> DynamicObject.h:73</div></div>
 <div class="ttc" id="aclassMovableMapObject_html_ad9f4cb74c55993cfdfc5895aefc33cfb"><div class="ttname"><a href="../../db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject::MovableMapObject</a></div><div class="ttdeci">MovableMapObject()=default</div></div>
 <div class="ttc" id="aclassObject_html_a139043a10260048589bb9c61292df815"><div class="ttname"><a href="../../d8/d4b/classObject.html#a139043a10260048589bb9c61292df815">Object::m_objectType</a></div><div class="ttdeci">uint16 m_objectType</div><div class="ttdef"><b>Definition</b> Object.h:251</div></div>
 <div class="ttc" id="aclassObject_html_a742999a5b0741f84b7dbd594dfba693a"><div class="ttname"><a href="../../d8/d4b/classObject.html#a742999a5b0741f84b7dbd594dfba693a">Object::m_valuesCount</a></div><div class="ttdeci">uint16 m_valuesCount</div><div class="ttdef"><b>Definition</b> Object.h:265</div></div>
@@ -1081,7 +1081,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   43</span>}</div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, <a class="el" href="../../#l00068">_caster</a>, <a class="el" href="../../#l00070">_isViewpoint</a>, <a class="el" href="../../#l00067">_removedAura</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, <a class="el" href="../../#l00070">_caster</a>, <a class="el" href="../../#l00072">_isViewpoint</a>, <a class="el" href="../../#l00069">_removedAura</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
 </div>
 </div>
@@ -1161,7 +1161,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a341e2d8e8df4372808274d7af103da69"><div class="ttname"><a href="../../df/dd9/classUnit.html#a341e2d8e8df4372808274d7af103da69">Unit::_RegisterDynObject</a></div><div class="ttdeci">void _RegisterDynObject(DynamicObject *dynObj)</div><div class="ttdef"><b>Definition</b> Unit.cpp:6451</div></div>
 <div class="ttc" id="anamespaceObjectAccessor_html_a1cb1e2f3906c3bd150a0d18377253d16"><div class="ttname"><a href="../../de/d2d/namespaceObjectAccessor.html#a1cb1e2f3906c3bd150a0d18377253d16">ObjectAccessor::GetUnit</a></div><div class="ttdeci">Unit * GetUnit(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition</b> ObjectAccessor.cpp:199</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_caster</a>, <a class="el" href="../../#l06451">Unit::_RegisterDynObject()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">GetCasterGUID()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, and <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">_caster</a>, <a class="el" href="../../#l06451">Unit::_RegisterDynObject()</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00059">GetCasterGUID()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, and <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00058">AddToWorld()</a>.</p>
 
@@ -1380,9 +1380,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   55</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d8e/classDynamicObject.html#a10357daa868050603b2d89cceda81500">_caster</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_caster</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">_caster</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00536">MotionTransport::DelayedTeleportTransport()</a>, <a class="el" href="../../#l02907">DynObjAura::FillTargetMap()</a>, <a class="el" href="../../#l00262">Acore::MessageDistDeliverer::Visit()</a>, and <a class="el" href="../../#l00334">Acore::MessageDistDelivererToHostile::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00536">MotionTransport::DelayedTeleportTransport()</a>, <a class="el" href="../../#l02915">DynObjAura::FillTargetMap()</a>, <a class="el" href="../../#l00262">Acore::MessageDistDeliverer::Visit()</a>, and <a class="el" href="../../#l00334">Acore::MessageDistDelivererToHostile::Visit()</a>.</p>
 
 </div>
 </div>
@@ -1439,7 +1439,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  196</span>}</div>
 <div class="ttc" id="aclassAura_html_a5e79eaa33b5f9ae5aaa44a62d096d6fe"><div class="ttname"><a href="../../db/dce/classAura.html#a5e79eaa33b5f9ae5aaa44a62d096d6fe">Aura::GetDuration</a></div><div class="ttdeci">int32 GetDuration() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:133</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, <a class="el" href="../../#l00069">_duration</a>, and <a class="el" href="../../#l00133">Aura::GetDuration()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, <a class="el" href="../../#l00071">_duration</a>, and <a class="el" href="../../#l00133">Aura::GetDuration()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00206">Delay()</a>, and <a class="el" href="../../#l00134">Update()</a>.</p>
 
@@ -1468,9 +1468,9 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d8e/classDynamicObject.html#a847f961fb032f97be1b007b30ff225f3">_oldFarsightGUID</a>; }</div>
-<div class="ttc" id="aclassDynamicObject_html_a847f961fb032f97be1b007b30ff225f3"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a847f961fb032f97be1b007b30ff225f3">DynamicObject::_oldFarsightGUID</a></div><div class="ttdeci">ObjectGuid _oldFarsightGUID</div><div class="ttdef"><b>Definition</b> DynamicObject.h:72</div></div>
+<div class="ttc" id="aclassDynamicObject_html_a847f961fb032f97be1b007b30ff225f3"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a847f961fb032f97be1b007b30ff225f3">DynamicObject::_oldFarsightGUID</a></div><div class="ttdeci">ObjectGuid _oldFarsightGUID</div><div class="ttdef"><b>Definition</b> DynamicObject.h:74</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00072">_oldFarsightGUID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00074">_oldFarsightGUID</a>.</p>
 
 </div>
 </div>
@@ -1501,7 +1501,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00413">DYNAMICOBJECT_RADIUS</a>, and <a class="el" href="../../#l00306">Object::GetFloatValue()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02907">DynObjAura::FillTargetMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02915">DynObjAura::FillTargetMap()</a>.</p>
 
 </div>
 </div>
@@ -1536,6 +1536,44 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a4efe3d88f552ebf5dd6748de03b41cfb" name="a4efe3d88f552ebf5dd6748de03b41cfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4efe3d88f552ebf5dd6748de03b41cfb">&#9670;&#160;</a></span>IsUpdateNeeded()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool DynamicObject::IsUpdateNeeded </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d4/dd0/classWorldObject.html#a810c1217b049c0d3721ee3c18c389105">WorldObject</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  277</span>{</div>
+<div class="line"><span class="lineno">  278</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/d4b/classObject.html#a0958df7e77da48c2cfb6fad103a9ea44">GetByteValue</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#ae2cf7880bbc4b76e73c4928370c0b030aace34541f56d2230d2fbaeb4d8636704">DYNAMICOBJECT_BYTES</a>, 0) == <a class="code hl_enumvalue" href="../../d8/d18/DynamicObject_8h.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546">DYNAMIC_OBJECT_AREA_SPELL</a>)</div>
+<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  280</span> </div>
+<div class="line"><span class="lineno">  281</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a810c1217b049c0d3721ee3c18c389105">WorldObject::IsUpdateNeeded</a>();</div>
+<div class="line"><span class="lineno">  282</span>}</div>
+<div class="ttc" id="aDynamicObject_8h_html_aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546"><div class="ttname"><a href="../../d8/d18/DynamicObject_8h.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546">DYNAMIC_OBJECT_AREA_SPELL</a></div><div class="ttdeci">@ DYNAMIC_OBJECT_AREA_SPELL</div><div class="ttdef"><b>Definition</b> DynamicObject.h:30</div></div>
+<div class="ttc" id="aclassObject_html_a0958df7e77da48c2cfb6fad103a9ea44"><div class="ttname"><a href="../../d8/d4b/classObject.html#a0958df7e77da48c2cfb6fad103a9ea44">Object::GetByteValue</a></div><div class="ttdeci">uint8 GetByteValue(uint16 index, uint8 offset) const</div><div class="ttdef"><b>Definition</b> Object.cpp:312</div></div>
+<div class="ttc" id="aclassWorldObject_html_a810c1217b049c0d3721ee3c18c389105"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a810c1217b049c0d3721ee3c18c389105">WorldObject::IsUpdateNeeded</a></div><div class="ttdeci">virtual bool IsUpdateNeeded()</div><div class="ttdef"><b>Definition</b> Object.cpp:3158</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00030">DYNAMIC_OBJECT_AREA_SPELL</a>, <a class="el" href="../../#l00411">DYNAMICOBJECT_BYTES</a>, <a class="el" href="../../#l00312">Object::GetByteValue()</a>, and <a class="el" href="../../#l03158">WorldObject::IsUpdateNeeded()</a>.</p>
+
+</div>
+</div>
 <a id="ac9befb89dbebc4e1ab2fcf8e4edc68c9" name="ac9befb89dbebc4e1ab2fcf8e4edc68c9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac9befb89dbebc4e1ab2fcf8e4edc68c9">&#9670;&#160;</a></span>IsViewpoint()</h2>
 
@@ -1560,7 +1598,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d8e/classDynamicObject.html#ad1a6b47b129b8bb32bc9343e2d84d137">_isViewpoint</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00070">_isViewpoint</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">_isViewpoint</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00262">Acore::MessageDistDeliverer::Visit()</a>.</p>
 
@@ -1623,7 +1661,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAura_html_a462457cadd52ba8a0edd5609c71ebbc0"><div class="ttname"><a href="../../db/dce/classAura.html#a462457cadd52ba8a0edd5609c71ebbc0">Aura::IsRemoved</a></div><div class="ttdeci">bool IsRemoved() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:162</div></div>
 <div class="ttc" id="aclassAura_html_afb6874ab08b221b2f1f9d7582c1c93be"><div class="ttname"><a href="../../db/dce/classAura.html#afb6874ab08b221b2f1f9d7582c1c93be">Aura::_Remove</a></div><div class="ttdeci">void _Remove(AuraRemoveMode removeMode)</div><div class="ttdef"><b>Definition</b> SpellAuras.cpp:513</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, <a class="el" href="../../#l00513">Aura::_Remove()</a>, <a class="el" href="../../#l00067">_removedAura</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, and <a class="el" href="../../#l00162">Aura::IsRemoved()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, <a class="el" href="../../#l00513">Aura::_Remove()</a>, <a class="el" href="../../#l00069">_removedAura</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00392">AURA_REMOVE_BY_DEFAULT</a>, and <a class="el" href="../../#l00162">Aura::IsRemoved()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00071">RemoveFromWorld()</a>.</p>
 
@@ -1662,7 +1700,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1084</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:665</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_caster</a>, <a class="el" href="../../#l00070">_isViewpoint</a>, <a class="el" href="../../#l00072">_oldFarsightGUID</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">_caster</a>, <a class="el" href="../../#l00072">_isViewpoint</a>, <a class="el" href="../../#l00074">_oldFarsightGUID</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00071">RemoveFromWorld()</a>.</p>
 
@@ -1724,7 +1762,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassTypeUnorderedMapContainer_html_a5a9666fc5f0136a778d8c542a386d4bf"><div class="ttname"><a href="../../d9/d63/classTypeUnorderedMapContainer.html#a5a9666fc5f0136a778d8c542a386d4bf">TypeUnorderedMapContainer::Remove</a></div><div class="ttdeci">bool Remove(KEY_TYPE const &amp;handle)</div><div class="ttdef"><b>Definition</b> TypeContainer.h:183</div></div>
 <div class="ttc" id="aclassWorldObject_html_a21de1db6f9d389433465f36b2f769861"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a21de1db6f9d389433465f36b2f769861">WorldObject::RemoveFromWorld</a></div><div class="ttdeci">void RemoveFromWorld() override</div><div class="ttdef"><b>Definition</b> Object.cpp:1200</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, <a class="el" href="../../#l00070">_isViewpoint</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00349">Map::GetObjectsStore()</a>, <a class="el" href="../../#l00683">WorldObject::GetTransport()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, <a class="el" href="../../#l00183">TypeUnorderedMapContainer&lt; OBJECT_TYPES, KEY_TYPE &gt;::Remove()</a>, <a class="el" href="../../#l00217">RemoveAura()</a>, <a class="el" href="../../#l00244">RemoveCasterViewpoint()</a>, <a class="el" href="../../#l01200">WorldObject::RemoveFromWorld()</a>, and <a class="el" href="../../#l00269">UnbindFromCaster()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, <a class="el" href="../../#l00072">_isViewpoint</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00349">Map::GetObjectsStore()</a>, <a class="el" href="../../#l00683">WorldObject::GetTransport()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, <a class="el" href="../../#l00183">TypeUnorderedMapContainer&lt; OBJECT_TYPES, KEY_TYPE &gt;::Remove()</a>, <a class="el" href="../../#l00217">RemoveAura()</a>, <a class="el" href="../../#l00244">RemoveCasterViewpoint()</a>, <a class="el" href="../../#l01200">WorldObject::RemoveFromWorld()</a>, and <a class="el" href="../../#l00269">UnbindFromCaster()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00180">Remove()</a>.</p>
 
@@ -1750,9 +1788,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  214</span>    <a class="code hl_variable" href="../../dc/d8e/classDynamicObject.html#ad386e45b476f87b60ff5126ad03943f9">_aura</a> = aura;</div>
 <div class="line"><span class="lineno">  215</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02889">DynObjAura::DynObjAura()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02897">DynObjAura::DynObjAura()</a>.</p>
 
 </div>
 </div>
@@ -1789,7 +1827,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  242</span>}</div>
 <div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881acbbc2f72651995ffa95bda05c7e99349"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881acbbc2f72651995ffa95bda05c7e99349">PLAYER_FARSIGHT</a></div><div class="ttdeci">@ PLAYER_FARSIGHT</div><div class="ttdef"><b>Definition</b> UpdateFields.h:334</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_caster</a>, <a class="el" href="../../#l00070">_isViewpoint</a>, <a class="el" href="../../#l00072">_oldFarsightGUID</a>, <a class="el" href="../../#l00071">_updateViewerVisibilityTimer</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00334">PLAYER_FARSIGHT</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">_caster</a>, <a class="el" href="../../#l00072">_isViewpoint</a>, <a class="el" href="../../#l00074">_oldFarsightGUID</a>, <a class="el" href="../../#l00073">_updateViewerVisibilityTimer</a>, <a class="el" href="../../#l00199">ObjectAccessor::GetUnit()</a>, <a class="el" href="../../#l00334">PLAYER_FARSIGHT</a>, and <a class="el" href="../../#l00201">Object::ToPlayer()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l02725">Spell::EffectAddFarsight()</a>.</p>
 
@@ -1818,7 +1856,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  204</span>}</div>
 <div class="ttc" id="aclassAura_html_a99930c42ad9f6e002ffe6de5e5fbe59b"><div class="ttname"><a href="../../db/dce/classAura.html#a99930c42ad9f6e002ffe6de5e5fbe59b">Aura::SetDuration</a></div><div class="ttdeci">void SetDuration(int32 duration, bool withMods=false)</div><div class="ttdef"><b>Definition</b> SpellAuras.cpp:810</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, <a class="el" href="../../#l00069">_duration</a>, and <a class="el" href="../../#l00810">Aura::SetDuration()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, <a class="el" href="../../#l00071">_duration</a>, and <a class="el" href="../../#l00810">Aura::SetDuration()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00206">Delay()</a>, and <a class="el" href="../../#l02725">Spell::EffectAddFarsight()</a>.</p>
 
@@ -1845,7 +1883,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  274</span>}</div>
 <div class="ttc" id="aclassUnit_html_a1b2e0bb4188512b464d98062f503e857"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1b2e0bb4188512b464d98062f503e857">Unit::_UnregisterDynObject</a></div><div class="ttdeci">void _UnregisterDynObject(DynamicObject *dynObj)</div><div class="ttdef"><b>Definition</b> Unit.cpp:6456</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">_caster</a>, <a class="el" href="../../#l06456">Unit::_UnregisterDynObject()</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">_caster</a>, <a class="el" href="../../#l06456">Unit::_UnregisterDynObject()</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00071">RemoveFromWorld()</a>.</p>
 
@@ -1926,7 +1964,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAura_html_ace74284832d9713a175bb3905449f954"><div class="ttname"><a href="../../db/dce/classAura.html#ace74284832d9713a175bb3905449f954">Aura::IsExpired</a></div><div class="ttdeci">bool IsExpired() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:138</div></div>
 <div class="ttc" id="aclassDynamicObject_html_a6e890d9004aa12aaa70457b391da7a13"><div class="ttname"><a href="../../dc/d8e/classDynamicObject.html#a6e890d9004aa12aaa70457b391da7a13">DynamicObject::Remove</a></div><div class="ttdeci">void Remove()</div><div class="ttdef"><b>Definition</b> DynamicObject.cpp:180</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00066">_aura</a>, <a class="el" href="../../#l00068">_caster</a>, <a class="el" href="../../#l00069">_duration</a>, <a class="el" href="../../#l00071">_updateViewerVisibilityTimer</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00190">GetDuration()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00138">Aura::IsExpired()</a>, <a class="el" href="../../#l00162">Aura::IsRemoved()</a>, <a class="el" href="../../#l00180">Remove()</a>, <a class="el" href="../../#l00725">sScriptMgr</a>, <a class="el" href="../../#l00201">Object::ToPlayer()</a>, and <a class="el" href="../../#l00698">Aura::UpdateOwner()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">_aura</a>, <a class="el" href="../../#l00070">_caster</a>, <a class="el" href="../../#l00071">_duration</a>, <a class="el" href="../../#l00073">_updateViewerVisibilityTimer</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00190">GetDuration()</a>, <a class="el" href="../../#l00620">WorldObject::GetMap()</a>, <a class="el" href="../../#l00138">Aura::IsExpired()</a>, <a class="el" href="../../#l00162">Aura::IsRemoved()</a>, <a class="el" href="../../#l00180">Remove()</a>, <a class="el" href="../../#l00725">sScriptMgr</a>, <a class="el" href="../../#l00201">Object::ToPlayer()</a>, and <a class="el" href="../../#l00698">Aura::UpdateOwner()</a>.</p>
 
 </div>
 </div>
@@ -2109,7 +2147,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d8e/classDynamicObject.html">DynamicObject</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 07:00:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 24 2026 06:56:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,16 +1,5 @@
 var NAVTREEINDEX274 =
 {
-"da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631":[7,0,0,0,1,2,16,7,5,136],
-"da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631a14f05147e756e9d928f6759e43541968":[7,0,0,0,1,2,16,7,5,136,3],
-"da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631a484f2cf1987c9512855c222040c9a5e6":[7,0,0,0,1,2,16,7,5,136,1],
-"da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631a5a813f231f33d394c1c2f54e1665b281":[7,0,0,0,1,2,16,7,5,136,0],
-"da/dbf/Player_8h.html#ad7133f5242269df996858d8167cea631ac6d3121ccb6ec61d5c598fd9eac0f855":[7,0,0,0,1,2,16,7,5,136,2],
-"da/dbf/Player_8h.html#adc637ac719fdefb939a974c01dc7c838":[7,0,0,0,1,2,16,7,5,52],
-"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870ed":[7,0,0,0,1,2,16,7,5,95],
-"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda01028419e0fdd37426276b1b6c6a9784":[7,0,0,0,1,2,16,7,5,95,1],
-"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda6123ab27dcbbe6042bec1e3230fe3c2d":[7,0,0,0,1,2,16,7,5,95,2],
-"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870eda8b35d1194abf0f952fc5fb6450bea654":[7,0,0,0,1,2,16,7,5,95,0],
-"da/dbf/Player_8h.html#adc8fb9638bd9c8f972163d22b9d870edabf93e12c2036f95b171f99c8ce23baef":[7,0,0,0,1,2,16,7,5,95,3],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939":[7,0,0,0,1,2,16,7,5,119],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a4476cda19355fddd2fbfdfb3683421ba":[7,0,0,0,1,2,16,7,5,119,0],
 "da/dbf/Player_8h.html#ae0c57a2bb851b9d5a88e5d5fef69f939a9ad97828a3dd598a45dcbbcd3969879b":[7,0,0,0,1,2,16,7,5,119,2],
@@ -249,5 +238,16 @@ var NAVTREEINDEX274 =
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a2d17fee7344a23b9bf6c47ee10f1e436":[6,0,1320,0,4],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a39611dead845510e26b16e8eb54114a2":[6,0,1320,0,6],
 "da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a39875572cef853eb3d3f624366e3f93f":[6,0,1320,0,12],
-"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a3ed3ada72ca634b0888f182a93c9e657":[6,0,1320,0,9]
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a3ed3ada72ca634b0888f182a93c9e657":[6,0,1320,0,9],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a4457a3506a587d7337042eb489b441dc":[6,0,1320,0,8],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a50b5e4d1ff3baf4698483f47828ee492":[6,0,1320,0,7],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a680e2b0263e64f4f0b0a71f011199202":[6,0,1320,0,1],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a816e18bd1725e9deaa9e50521ddd3c05":[6,0,1320,0,3],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a8e34281d52ac3199b90e1971899db6b1":[6,0,1320,0,10],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a93b651e93e28c63272a8d06d0c521aef":[6,0,1320,0,13],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#a9b014cab41720868f61028ef201cadaa":[6,0,1320,0,11],
+"da/dcc/structinstance__gundrak_1_1instance__gundrak__InstanceMapScript.html#aab01abeae0f8df7c74c65c689c3c9f30":[6,0,1320,0,0],
+"da/dd0/namespacePlayerSettingsStore.html":[5,0,28],
+"da/dd0/namespacePlayerSettingsStore.html#a070b072e62079e512137662a87d710f6":[5,0,28,0],
+"da/dd0/namespacePlayerSettingsStore.html#a0d5c2c2c4a1dede6bfb6e9fb0763b641":[5,0,28,2]
 };

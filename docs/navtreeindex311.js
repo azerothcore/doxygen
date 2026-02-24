@@ -1,12 +1,5 @@
 var NAVTREEINDEX311 =
 {
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,0,5,1,0],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,0,5,1,1],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93":[7,0,0,0,1,3,7,5,0,5,1,2],
-"dc/d28/BaseEncoding_8h.html":[7,0,0,0,0,7,4],
-"dc/d28/boss__amanitar_8cpp.html":[7,0,0,0,1,3,5,0,0,1],
-"dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,5,0,0,1,2],
-"dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a739fce663be8b13f09f9590c508ee188":[7,0,0,0,1,3,5,0,0,1,2,0],
 "dc/d28/boss__amanitar_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ae5abbd9e7d682c77a56749f83994e4ff":[7,0,0,0,1,3,5,0,0,1,2,1],
 "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,0,0,1,4],
 "dc/d28/boss__amanitar_8cpp.html#a5bd342133be8c2137b831460acc9298ca2b2c82ecf4d0a6c6ebdf5cc6a20cb93f":[7,0,0,0,1,3,5,0,0,1,4,2],
@@ -194,12 +187,12 @@ var NAVTREEINDEX311 =
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[7,0,0,0,1,3,5,9,2,9,21],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[6,0,12,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,34,11,2],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[6,0,12,11,2,0],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[6,0,12,11,2,1],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[6,0,12,11,2,3],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[6,0,12,11,2,2],
 "dc/d29/classspell__gen__clone__weapon__aura.html":[6,0,3005],
@@ -249,5 +242,12 @@ var NAVTREEINDEX311 =
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea5a3c0749a2de9faefdb841cbfaefe110":[7,0,0,0,1,3,7,1,0,3,9],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea647a31b70984c3c2377f845dfc8204e7":[7,0,0,0,1,3,7,1,0,3,25],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea6bae4c19086e3483e5bcebdfbbd68967":[7,0,0,0,1,3,7,1,0,3,13],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea6ce0f5d4cf99ddb7c029ca8c8bf8f0e4":[7,0,0,0,1,3,7,1,0,3,29]
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea6ce0f5d4cf99ddb7c029ca8c8bf8f0e4":[7,0,0,0,1,3,7,1,0,3,29],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea700fcf6fcee79a69a409c3e6a03f095c":[7,0,0,0,1,3,7,1,0,3,22],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea756d4558d5fec41eff81f04fcce113a7":[7,0,0,0,1,3,7,1,0,3,21],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea761c77eb126486f9c3087c186fbfa27c":[7,0,0,0,1,3,7,1,0,3,14],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea77e1b3a98c9ba959ac842120175191dd":[7,0,0,0,1,3,7,1,0,3,27],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea84ad95735d3ae95cb12e11ec7c064c91":[7,0,0,0,1,3,7,1,0,3,28],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea8b9a0ec23b62e4ba25e5b335360b83a5":[7,0,0,0,1,3,7,1,0,3,17],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea8ce0fba19402c4379ccac01b8e85a5d7":[7,0,0,0,1,3,7,1,0,3,34]
 };

@@ -1,15 +1,11 @@
 var NAVTREEINDEX89 =
 {
-"d2/def/classspell__oculus__shock__lance.html#a773c608119a84cc3f02e7b4d786f2741":[6,0,3676,3],
-"d2/def/classspell__oculus__shock__lance.html#abb2bf75cc347597b17ed5e4ccd213132":[6,0,3676,0],
-"d2/def/classspell__q5056__summon__shy__rotam.html":[6,0,3921],
-"d2/def/classspell__q5056__summon__shy__rotam.html#a5a14594ed93150e34626a7e0edb8171b":[6,0,3921,1],
 "d2/def/classspell__q5056__summon__shy__rotam.html#a9d28a3b88d57e2f89921d59f56148f74":[6,0,3921,2],
 "d2/def/classspell__q5056__summon__shy__rotam.html#ac4c50220d86f809644e339fc578d9b4a":[6,0,3921,0],
-"d2/def/classspell__warr__shattering__throw.html":[6,0,4305],
-"d2/def/classspell__warr__shattering__throw.html#a22b9877e2cd27c925ae7b351d3d6f41b":[6,0,4305,2],
-"d2/def/classspell__warr__shattering__throw.html#a60454f2c1ba8d1ea160350b5e02bf56d":[6,0,4305,1],
-"d2/def/classspell__warr__shattering__throw.html#ab2bad52272a5cd7167a7601fdfa02b1d":[6,0,4305,0],
+"d2/def/classspell__warr__shattering__throw.html":[6,0,4303],
+"d2/def/classspell__warr__shattering__throw.html#a22b9877e2cd27c925ae7b351d3d6f41b":[6,0,4303,2],
+"d2/def/classspell__warr__shattering__throw.html#a60454f2c1ba8d1ea160350b5e02bf56d":[6,0,4303,1],
+"d2/def/classspell__warr__shattering__throw.html#ab2bad52272a5cd7167a7601fdfa02b1d":[6,0,4303,0],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html":[6,0,1936,0],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a0778846d7d67f5d29ed3f7ef02f912f4":[6,0,1936,0,1],
 "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a19a5190b72f78ee698d5fa2df6ac9b4b":[6,0,1936,0,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#ac23ee38f90604810485a3d0adfdf8cf6":[7,0,0,0,1,2,14,1,37],
 "d2/df6/DBCStores_8h.html#ac4516e9785c8d2a553ae77098fb998a6":[7,0,0,0,1,2,14,1,87],
 "d2/df6/DBCStores_8h.html#ac542dfc59634e22e93cc3fb541209d80":[7,0,0,0,1,2,14,1,118],
-"d2/df6/DBCStores_8h.html#ac85312571ff0deab6d303b8907e5b24a":[7,0,0,0,1,2,14,1,10]
+"d2/df6/DBCStores_8h.html#ac85312571ff0deab6d303b8907e5b24a":[7,0,0,0,1,2,14,1,10],
+"d2/df6/DBCStores_8h.html#accdbe5db6fa908c53b90259351646f72":[7,0,0,0,1,2,14,1,8],
+"d2/df6/DBCStores_8h.html#ace1d6388921a595b4037c0d6bfa176b8":[7,0,0,0,1,2,14,1,73],
+"d2/df6/DBCStores_8h.html#ace7930a262ef76b4cc7119616a3da108":[7,0,0,0,1,2,14,1,111],
+"d2/df6/DBCStores_8h.html#ace991d7104725f1660247ecac608db7b":[7,0,0,0,1,2,14,1,44]
 };

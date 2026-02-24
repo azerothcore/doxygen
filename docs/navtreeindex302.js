@@ -1,10 +1,5 @@
 var NAVTREEINDEX302 =
 {
-"db/dd5/classCreature.html#ab43f3a5ec7395efcb5f043b993038b42":[6,0,927,237],
-"db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9":[6,0,927,38],
-"db/dd5/classCreature.html#ab6b53aeb869c6542525bddfad563098a":[6,0,927,16],
-"db/dd5/classCreature.html#ab7d351aa8efffae4f04f6f25ef4806b9":[6,0,927,204],
-"db/dd5/classCreature.html#ab845d9a60e029daa5c1e9f34fbe2aa4c":[6,0,927,19],
 "db/dd5/classCreature.html#ab861d1f64d1852833bf89f42c5412f0b":[6,0,927,289],
 "db/dd5/classCreature.html#ab889e4b3e49530c362799ae155352246":[6,0,927,74],
 "db/dd5/classCreature.html#ab972fe7efab1a5e541e29424c32e98ac":[6,0,927,231],
@@ -244,10 +239,15 @@ var NAVTREEINDEX302 =
 "db/dda/structAccountFlagText.html":[6,0,25],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,25,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,25,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,905],
-"db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[6,0,905,0]
+"db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[6,0,905,0],
+"db/ddb/classTaskContext.html":[6,0,4453],
+"db/ddb/classTaskContext.html#a0a8b54efb0dca1b279ba5a042e8e953f":[6,0,4453,20],
+"db/ddb/classTaskContext.html#a0cac55da6d10d0a74c9f83689d028174":[6,0,4453,28],
+"db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda":[6,0,4453,23],
+"db/ddb/classTaskContext.html#a40aa7f8f29b300c5252ffd23c7e1632f":[6,0,4453,4]
 };

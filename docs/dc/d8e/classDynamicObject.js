@@ -13,6 +13,7 @@ var classDynamicObject =
     [ "GetOldFarsightGUID", "dc/d8e/classDynamicObject.html#ada02fde0ea7b50b213957999024bf75f", null ],
     [ "GetRadius", "dc/d8e/classDynamicObject.html#afb0de652437ede9d70a06b3c110b5ae9", null ],
     [ "GetSpellId", "dc/d8e/classDynamicObject.html#a687c54b3c4863fd2cb889dd54d44a21f", null ],
+    [ "IsUpdateNeeded", "dc/d8e/classDynamicObject.html#a4efe3d88f552ebf5dd6748de03b41cfb", null ],
     [ "IsViewpoint", "dc/d8e/classDynamicObject.html#ac9befb89dbebc4e1ab2fcf8e4edc68c9", null ],
     [ "Remove", "dc/d8e/classDynamicObject.html#a6e890d9004aa12aaa70457b391da7a13", null ],
     [ "RemoveAura", "dc/d8e/classDynamicObject.html#ad2abb4e82cf82b1d24baff5573bef384", null ],

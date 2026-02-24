@@ -1,10 +1,5 @@
 var NAVTREEINDEX301 =
 {
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a38253b6d1e1f7fb8fc3fdccb2522a090":[6,0,2035,11],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4abeb86eb0179a77d47d737d67495411":[6,0,2035,10],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4c08ed385886a118c165925602b1dff7":[6,0,2035,1],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4d885f00ea1b6b97270d41f2583bd0dc":[6,0,2035,6],
-"db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a862546ec66d8282c87169305711e4ec7":[6,0,2035,3],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a897e72a4bf279607903bce58a5a45c6f":[6,0,2035,2],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a8a7dd73d9d3af5ca00998735e45ee7e8":[6,0,2035,9],
 "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9df25627a92b8914ab8009be099f15d4":[6,0,2035,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX301 =
 "db/dd5/classCreature.html#ab1fe599b19bd33530f5bba414fb41cfd":[6,0,927,71],
 "db/dd5/classCreature.html#ab26405afc43fce337c2497290045a04f":[6,0,927,57],
 "db/dd5/classCreature.html#ab3aa8c41875b4a783d31695e1c136d52":[6,0,927,260],
-"db/dd5/classCreature.html#ab3f28ac02133420e537305b38948388a":[6,0,927,48]
+"db/dd5/classCreature.html#ab3f28ac02133420e537305b38948388a":[6,0,927,48],
+"db/dd5/classCreature.html#ab43f3a5ec7395efcb5f043b993038b42":[6,0,927,237],
+"db/dd5/classCreature.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9":[6,0,927,38],
+"db/dd5/classCreature.html#ab6b53aeb869c6542525bddfad563098a":[6,0,927,16],
+"db/dd5/classCreature.html#ab7d351aa8efffae4f04f6f25ef4806b9":[6,0,927,204],
+"db/dd5/classCreature.html#ab845d9a60e029daa5c1e9f34fbe2aa4c":[6,0,927,19]
 };

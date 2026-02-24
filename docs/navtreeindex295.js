@@ -1,17 +1,12 @@
 var NAVTREEINDEX295 =
 {
-"db/d9d/classMovement_1_1MoveSplineFlag.html#ae4379be978b9dc1de688f51a374675f0":[6,0,7,7,3],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#ae4379be978b9dc1de688f51a374675f0":[5,0,22,7,3],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#ae65f37c984660baba457257fb95f02af":[6,0,7,7,54],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#ae65f37c984660baba457257fb95f02af":[5,0,22,7,54],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5":[6,0,7,7,52],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#ae7259d3492907af0b2198a4e217687f5":[5,0,22,7,52],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[5,0,22,7,28],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[6,0,7,7,28],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#aeb304862f183a9c2033477af58a16543":[5,0,22,7,28],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[6,0,7,7,37],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afb2ab2e120170c78a0311f8286a93b4e":[5,0,22,7,37],
-"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,22,7,4],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[6,0,7,7,4],
+"db/d9d/classMovement_1_1MoveSplineFlag.html#afd772f31407cca037dc7e5135a7e122b":[5,0,22,7,4],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[6,0,7,7,27],
 "db/d9d/classMovement_1_1MoveSplineFlag.html#affc4f02a4c776e38346f8390e93cdb7d":[5,0,22,7,27],
 "db/d9d/classboss__galvangar.html":[6,0,497],
@@ -249,5 +244,10 @@ var NAVTREEINDEX295 =
 "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bac2d30da7b378ca6e232c2578d3456ce6":[7,0,0,0,1,3,2,6,1,14,3],
 "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bacc6d33f1c0ebf1a434ff8d445570c028":[7,0,0,0,1,3,2,6,1,14,1],
 "db/da5/chapter2_8cpp.html#a740e6f9c50ed1d0a3646b0131773e54bafb3b3ff0c180c391669df10af2f84672":[7,0,0,0,1,3,2,6,1,14,2],
-"db/da5/chapter2_8cpp.html#aae283a7ae2c577c738ccad6a34533fec":[7,0,0,0,1,3,2,6,1,19]
+"db/da5/chapter2_8cpp.html#aae283a7ae2c577c738ccad6a34533fec":[7,0,0,0,1,3,2,6,1,19],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[6,0,0,5,0,17],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html":[5,0,1,8,0,17],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[6,0,0,5,0,17,15],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a0028dd4991726c18bebb0168376bff52":[5,0,1,8,0,17,15],
+"db/da6/classAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandNode.html#a17d8dd1747fd24663accd2e2af45551b":[6,0,0,5,0,17,12]
 };

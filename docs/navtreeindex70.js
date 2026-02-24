@@ -1,16 +1,12 @@
 var NAVTREEINDEX70 =
 {
-"d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2117],
@@ -249,5 +245,9 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#ae94493ffed217a218e21c05e002cec00":[6,0,2780,3],
 "d2/d93/classspell__item__healing__touch__refund.html":[6,0,3378],
 "d2/d93/classspell__item__healing__touch__refund.html#a18da1331c481cd3871194f8af735b6df":[6,0,3378,2],
-"d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[6,0,3378,0]
+"d2/d93/classspell__item__healing__touch__refund.html#a6cf02cf1ae3c9b2c24be6dd0d5c13528":[6,0,3378,0],
+"d2/d93/classspell__item__healing__touch__refund.html#a97c9a39b38c3cd74962a1cc7102cbe70":[6,0,3378,1],
+"d2/d93/classspell__item__healing__touch__refund.html#ab5ab7a31b40a88f147fae1e49bc4364e":[6,0,3378,3],
+"d2/d93/classspell__winter__wondervolt__trap.html":[6,0,4319],
+"d2/d93/classspell__winter__wondervolt__trap.html#a09e11d1938279a2302fb8805e71c6c36":[6,0,4319,1]
 };

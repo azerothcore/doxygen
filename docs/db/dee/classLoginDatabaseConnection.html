@@ -343,7 +343,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   24</span>        <a class="code hl_variable" href="../../d5/db3/classMySQLConnection.html#a5d82989a517e562adb833004fd56ff2a">m_stmts</a>.resize(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba4a7dcdba7c9e8aeda8e34fba9d1da0b8">MAX_LOGINDATABASE_STATEMENTS</a>);</div>
 <div class="line"><span class="lineno">   25</span> </div>
 <div class="line"><span class="lineno">   26</span>    <a class="code hl_function" href="../../d5/db3/classMySQLConnection.html#a1f4f168a16bbd4b589b38a2d12cd3cd0">PrepareStatement</a>(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbaddf20184ca7a298ed44a8222c79b8087">LOGIN_SEL_LOGONCHALLENGE</a>,</div>
-<div class="line"><span class="lineno">   27</span>        <span class="stringliteral">&quot;SELECT a.id, a.username, a.locked, a.lock_country, a.last_ip, a.failed_logins, &quot;</span></div>
+<div class="line"><span class="lineno">   27</span>        <span class="stringliteral">&quot;SELECT a.id, a.username, a.locked, a.lock_country, a.last_ip, a.Flags, a.failed_logins, &quot;</span></div>
 <div class="line"><span class="lineno">   28</span>        <span class="stringliteral">&quot;ab.unbandate &gt; UNIX_TIMESTAMP() OR ab.unbandate = ab.bandate, ab.unbandate = ab.bandate, &quot;</span></div>
 <div class="line"><span class="lineno">   29</span>        <span class="stringliteral">&quot;ipb.unbandate &gt; UNIX_TIMESTAMP() OR ipb.unbandate = ipb.bandate, ipb.unbandate = ipb.bandate, &quot;</span></div>
 <div class="line"><span class="lineno">   30</span>        <span class="stringliteral">&quot;aa.gmlevel, a.totp_secret, a.salt, a.verifier &quot;</span></div>
@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   34</span>        <span class="stringliteral">&quot;LEFT JOIN ip_banned ipb ON ipb.ip = ? &quot;</span></div>
 <div class="line"><span class="lineno">   35</span>        <span class="stringliteral">&quot;WHERE a.username = ?&quot;</span>, <a class="code hl_enumvalue" href="../../d7/dcd/MySQLConnection_8h.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9">CONNECTION_ASYNC</a>);</div>
 <div class="line"><span class="lineno">   36</span>    <a class="code hl_function" href="../../d5/db3/classMySQLConnection.html#a1f4f168a16bbd4b589b38a2d12cd3cd0">PrepareStatement</a>(<a class="code hl_enumvalue" href="../../d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fbab5ffdacb18c902bb645d2d7434d5732d">LOGIN_SEL_RECONNECTCHALLENGE</a>,</div>
-<div class="line"><span class="lineno">   37</span>        <span class="stringliteral">&quot;SELECT a.id, a.username, a.locked, a.lock_country, a.last_ip, a.failed_logins, &quot;</span></div>
+<div class="line"><span class="lineno">   37</span>        <span class="stringliteral">&quot;SELECT a.id, a.username, a.locked, a.lock_country, a.last_ip, a.Flags, a.failed_logins, &quot;</span></div>
 <div class="line"><span class="lineno">   38</span>        <span class="stringliteral">&quot;ab.unbandate &gt; UNIX_TIMESTAMP() OR ab.unbandate = ab.bandate, ab.unbandate = ab.bandate, &quot;</span></div>
 <div class="line"><span class="lineno">   39</span>        <span class="stringliteral">&quot;ipb.unbandate &gt; UNIX_TIMESTAMP() OR ipb.unbandate = ipb.bandate, ipb.unbandate = ipb.bandate, &quot;</span></div>
 <div class="line"><span class="lineno">   40</span>        <span class="stringliteral">&quot;aa.gmlevel, a.session_key &quot;</span></div>
@@ -579,7 +579,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/dee/classLoginDatabaseConnection.html">LoginDatabaseConnection</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 07:00:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Feb 24 2026 06:56:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

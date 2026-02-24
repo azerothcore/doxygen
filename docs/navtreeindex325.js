@@ -1,11 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dc/dd4/classflag96.html#ac7fcf4d74fa4d6b580e3b204c97964dd":[6,0,1059,20],
-"dc/dd4/classflag96.html#ad7dd7bba12e955d0ec70e2df24d23ef9":[6,0,1059,17],
-"dc/dd4/classflag96.html#ad9b2afb9b2de6cd8a8779d1646efd2ab":[6,0,1059,13],
-"dc/dd4/classflag96.html#afed5a26552cc3d614fe7caec06d74170":[6,0,1059,16],
-"dc/dd6/MapReference_8h.html":[7,0,0,0,1,2,26,9],
-"dc/dd6/boss__eredar__twins_8cpp.html":[7,0,0,0,1,3,2,12,1],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463c":[7,0,0,0,1,3,2,12,1,9],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca17e03d2f8f2ad6e9ab898b86666742b4":[7,0,0,0,1,3,2,12,1,9,6],
 "dc/dd6/boss__eredar__twins_8cpp.html#a3f2ffdc8d4bc224b9ab0264dab54463ca2b82d3bcf51a16f74e314b1020801d04":[7,0,0,0,1,3,2,12,1,9,5],
@@ -249,5 +243,11 @@ var NAVTREEINDEX325 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#add963c2bc2b515348b9b7c636d176927":[7,0,0,0,1,3,2,17,138],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adddf7149f93506373434f27a27ec17c8":[7,0,0,0,1,3,2,17,105],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae12754fa9b1801326b9eb6b618d6b48b":[7,0,0,0,1,3,2,17,139],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae2f3bbb94b06940b4d2aa67f726ee011":[7,0,0,0,1,3,2,17,42]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae2f3bbb94b06940b4d2aa67f726ee011":[7,0,0,0,1,3,2,17,42],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[7,0,0,0,1,3,2,17,75],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4d8848387918b6d4fbc1efdbb445f12":[7,0,0,0,1,3,2,17,55],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[7,0,0,0,1,3,2,17,47],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aed31b52543c556f43d7268340ea660fe":[7,0,0,0,1,3,2,17,73],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aef9caff22cc5e92156da2c393ecfb531":[7,0,0,0,1,3,2,17,107],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af32a86ddb56934f5f61eb00bd7f62399":[7,0,0,0,1,3,2,17,140]
 };

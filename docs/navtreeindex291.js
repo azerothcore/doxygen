@@ -1,17 +1,12 @@
 var NAVTREEINDEX291 =
 {
-"db/d8a/SpellProcAttributeTest_8cpp.html#a752ddc9378135a027648059075ad87c5":[7,0,0,0,2,2,0,6,2,20],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a76477f8f5ca1efe4f1437739a4c684f1":[7,0,0,0,2,2,0,6,2,11],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a8765488ee7f541a834983dc128579db1":[7,0,0,0,2,2,0,6,2,27],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a91df1fb0dfad463863ff1fb97fc36ede":[7,0,0,0,2,2,0,6,2,23],
-"db/d8a/SpellProcAttributeTest_8cpp.html#aa4614962cf86c1517e1f57c1416b3416":[7,0,0,0,2,2,0,6,2,2],
-"db/d8a/SpellProcAttributeTest_8cpp.html#acff26b2ada487fad55c73ec3a238de45":[7,0,0,0,2,2,0,6,2,6],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ad212ac5a213adfd8d189e60c1ec70f6e":[7,0,0,0,2,2,0,6,2,9],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ad21d614163259c32dd12d73bf57adbb2":[7,0,0,0,2,2,0,6,2,4],
-"db/d8a/SpellProcAttributeTest_8cpp.html#adff05a1fab89144afba732d350033b88":[7,0,0,0,2,2,0,6,2,21],
+"db/d8a/SpellProcAttributeTest_8cpp.html#adff05a1fab89144afba732d350033b88":[7,0,0,0,2,2,0,6,2,27],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ae07e97eab7a0988f48eb90a885614bd8":[7,0,0,0,2,2,0,6,2,10],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ae0fa2330d62d1c6d679f605e63d8c16a":[7,0,0,0,2,2,0,6,2,12],
 "db/d8a/SpellProcAttributeTest_8cpp.html#ae2e24eac7b8f98972d3e33d72f3ec17e":[7,0,0,0,2,2,0,6,2,14],
+"db/d8a/SpellProcAttributeTest_8cpp.html#af7a64ad127268bfe6ef0eef8df94161c":[7,0,0,0,2,2,0,6,2,23],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html":[6,0,2540,1],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a2245c14e379c83bdd47165e829de2e41":[6,0,2540,1,2],
 "db/d8a/structScourgeInvasionData_1_1InvasionZone.html#a274c6d61203c24b3c680055244e1f590":[6,0,2540,1,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX291 =
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea64eda96b81fcff756346feddb3e24e2a":[7,0,0,0,1,2,16,4,6,45,39],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea6d525f6a466880a8a0088775a272a9cc":[7,0,0,0,1,2,16,4,6,45,25],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea6e03818b7a37dcb1afb297cb4fee93ef":[7,0,0,0,1,2,16,4,6,45,33],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea817b76275e2c9b4f58ec0a926c42fab6":[7,0,0,0,1,2,16,4,6,45,31]
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea817b76275e2c9b4f58ec0a926c42fab6":[7,0,0,0,1,2,16,4,6,45,31],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea87ef53d631e1e0783372bbc3943cf940":[7,0,0,0,1,2,16,4,6,45,12],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea8bbc6b058b97da171a64f1bbb6094ba0":[7,0,0,0,1,2,16,4,6,45,16],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea9169819d371dd59061e61d4ddc4ee6f0":[7,0,0,0,1,2,16,4,6,45,42],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea922d9feaaae455ae9633304fff7a58a1":[7,0,0,0,1,2,16,4,6,45,15],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea9924860e9b1fa270edd2d14b340d6d5e":[7,0,0,0,1,2,16,4,6,45,14]
 };

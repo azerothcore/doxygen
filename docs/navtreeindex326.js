@@ -1,11 +1,5 @@
 var NAVTREEINDEX326 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[7,0,0,0,1,3,2,17,75],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4d8848387918b6d4fbc1efdbb445f12":[7,0,0,0,1,3,2,17,55],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[7,0,0,0,1,3,2,17,47],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aed31b52543c556f43d7268340ea660fe":[7,0,0,0,1,3,2,17,73],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aef9caff22cc5e92156da2c393ecfb531":[7,0,0,0,1,3,2,17,107],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af32a86ddb56934f5f61eb00bd7f62399":[7,0,0,0,1,3,2,17,140],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af3b2432bbc2e83bc5e9db4a0357483cd":[7,0,0,0,1,3,2,17,66],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af414808b24a4dc5db7a8127004ca9e3f":[7,0,0,0,1,3,2,17,27],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#af502fe83c3c2b212621876f1c04b1e02":[7,0,0,0,1,3,2,17,18],
@@ -249,5 +243,11 @@ var NAVTREEINDEX326 =
 "dc/de3/structboss__isalien.html#a84a94a1a8889b48cd02d5cb6a205a487":[6,0,561,4],
 "dc/de3/structboss__isalien.html#a8eb56a907e3395b9e81588aab7c07ca6":[6,0,561,8],
 "dc/de3/structboss__isalien.html#a954bbd32948e6c416197199d96142056":[6,0,561,7],
-"dc/de3/structboss__isalien.html#a95d461e099193b5e2c1363acb1b5939a":[6,0,561,1]
+"dc/de3/structboss__isalien.html#a95d461e099193b5e2c1363acb1b5939a":[6,0,561,1],
+"dc/de3/structboss__isalien.html#aa067bea34557a4b2fe840ef305852bc0":[6,0,561,6],
+"dc/de3/structboss__isalien.html#ad6714da515db77c7299ee80b3268433e":[6,0,561,3],
+"dc/de4/classPartyTimeEmoteEvent.html":[6,0,2388],
+"dc/de4/classPartyTimeEmoteEvent.html#a525efd58fc8465658208058e6dc5d31c":[6,0,2388,0],
+"dc/de4/classPartyTimeEmoteEvent.html#a61ecb44828c6e4c868def8899791feb3":[6,0,2388,2],
+"dc/de4/classPartyTimeEmoteEvent.html#a65a796ff4efece46c519f7bdf1524bb8":[6,0,2388,1]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX334 =
 {
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
-"dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12],
-"dd/d3a/BattlegroundMgr_8h.html#a0167dc8561c0fb4a41f0eaa6bea38980":[7,0,0,0,1,2,8,12,6],
-"dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,12,9],
-"dd/d3a/BattlegroundMgr_8h.html#a33858c5514cd62b25f056e4ba170de59":[7,0,0,0,1,2,8,12,5],
-"dd/d3a/BattlegroundMgr_8h.html#a356842317f4215b2ee31abb25b4d54e7":[7,0,0,0,1,2,8,12,7],
 "dd/d3a/BattlegroundMgr_8h.html#a91490e6276f571e959bcc65a1a7e4007":[7,0,0,0,1,2,8,12,8],
 "dd/d3a/BattlegroundMgr_8h.html#aa4d7efc49483e1820c6d759f0f3613f2":[7,0,0,0,1,2,8,12,4],
 "dd/d3a/BattlegroundMgr_8h.html#ab13257a97cde6f35eb3aed651e61e20c":[7,0,0,0,1,2,8,12,10],
@@ -240,14 +234,20 @@ var NAVTREEINDEX334 =
 "dd/d3d/classnpc__living__mojo.html#af24190023549b4ec5fa47b5959618a8a":[6,0,1945,1],
 "dd/d3d/instance__razorfen__kraul_8cpp.html":[7,0,0,0,1,3,4,7,0],
 "dd/d3d/instance__razorfen__kraul_8cpp.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0":[7,0,0,0,1,3,4,7,0,2],
-"dd/d3e/classspell__wintergrasp__water.html":[6,0,4327],
-"dd/d3e/classspell__wintergrasp__water.html#a01225e48eaf2a6dfe13da245725b0a64":[6,0,4327,2],
-"dd/d3e/classspell__wintergrasp__water.html#a5139e3e9cb1c9079798cefc3cb04d387":[6,0,4327,1],
-"dd/d3e/classspell__wintergrasp__water.html#afde7c1e90f2faa9c587490ce358a59b2":[6,0,4327,0],
+"dd/d3e/classspell__wintergrasp__water.html":[6,0,4325],
+"dd/d3e/classspell__wintergrasp__water.html#a01225e48eaf2a6dfe13da245725b0a64":[6,0,4325,2],
+"dd/d3e/classspell__wintergrasp__water.html#a5139e3e9cb1c9079798cefc3cb04d387":[6,0,4325,1],
+"dd/d3e/classspell__wintergrasp__water.html#afde7c1e90f2faa9c587490ce358a59b2":[6,0,4325,0],
 "dd/d3f/AchievementCriteriaScript_8cpp.html":[7,0,0,0,1,2,38,0,2],
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,10,8],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8]
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,10,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,10,8,3],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,10,8,2]
 };
