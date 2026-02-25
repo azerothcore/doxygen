@@ -1,5 +1,11 @@
 var NAVTREEINDEX36 =
 {
+"d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#a89b08bf0a3fb31ef6c0f71919b05195e":[5,0,1,7,5,3],
+"d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#aa9a99d071ee623b0df6f456199e1262a":[5,0,1,7,5,6],
+"d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#aa9a99d071ee623b0df6f456199e1262a":[6,0,0,4,5,6],
+"d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#acb1024455a3b847ea13390c05b79cd0c":[5,0,1,7,5,7],
+"d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#acb1024455a3b847ea13390c05b79cd0c":[6,0,0,4,5,7],
+"d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#ad68d4f09195ba9c2a74bc9187e1cc1dd":[5,0,1,7,5,0],
 "d1/d6e/structAcore_1_1Hyperlinks_1_1ItemLinkData.html#ad68d4f09195ba9c2a74bc9187e1cc1dd":[6,0,0,4,5,0],
 "d1/d6f/classinstance__obsidian__sanctum.html":[6,0,1336],
 "d1/d6f/classinstance__obsidian__sanctum.html#a67acb36f65c1bc3d6eca59bf71a5c220":[6,0,1336,2],
@@ -9,16 +15,16 @@ var NAVTREEINDEX36 =
 "d1/d71/namespaceG3D.html":[5,0,15],
 "d1/d71/structADT_1_1MDDF.html":[6,0,1,0],
 "d1/d71/structADT_1_1MDDF.html":[5,0,3,0],
-"d1/d71/structADT_1_1MDDF.html#a374c9893af515badc54b22b2a4d5e024":[6,0,1,0,5],
 "d1/d71/structADT_1_1MDDF.html#a374c9893af515badc54b22b2a4d5e024":[5,0,3,0,5],
+"d1/d71/structADT_1_1MDDF.html#a374c9893af515badc54b22b2a4d5e024":[6,0,1,0,5],
 "d1/d71/structADT_1_1MDDF.html#a4471edebd870d3dfaaf34292341e5f60":[6,0,1,0,0],
 "d1/d71/structADT_1_1MDDF.html#a4471edebd870d3dfaaf34292341e5f60":[5,0,3,0,0],
 "d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[5,0,3,0,1],
 "d1/d71/structADT_1_1MDDF.html#a6a25126338a8c3aa7d36c02c979639dd":[6,0,1,0,1],
 "d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[6,0,1,0,2],
 "d1/d71/structADT_1_1MDDF.html#a8fa9a49b3195ffe74dcf1872d0fb05c1":[5,0,3,0,2],
-"d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[5,0,3,0,3],
 "d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[6,0,1,0,3],
+"d1/d71/structADT_1_1MDDF.html#a986c3ea05d510db03ec969f0d116fb34":[5,0,3,0,3],
 "d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[5,0,3,0,4],
 "d1/d71/structADT_1_1MDDF.html#af8bcb02c541b9261dbf879353ba6893a":[6,0,1,0,4],
 "d1/d71/structnpc__frost__tomb.html":[6,0,1811],
@@ -243,11 +249,5 @@ var NAVTREEINDEX36 =
 "d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#a4e2a5a2d666419ccbb0ca71670332b8c":[6,0,2671,3],
 "d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#a7494c41e41ffc55811c57208f80c7eb6":[6,0,2671,1],
 "d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#aad87c25b9b3255a4871bec39d9787299":[6,0,2671,0],
-"d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#acce25abc58a29dfe5a5287a8b00242ae":[6,0,2671,2],
-"d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#ae4f7bfb1cd95666acada217173876352":[6,0,2671,4],
-"d1/d7d/classspell__igb__explosion__main__aura.html":[6,0,3262],
-"d1/d7d/classspell__igb__explosion__main__aura.html#a0fa7d86214827711edd019dd3b40c667":[6,0,3262,3],
-"d1/d7d/classspell__igb__explosion__main__aura.html#a418212d2daa873d69a83b4c1341a8903":[6,0,3262,4],
-"d1/d7d/classspell__igb__explosion__main__aura.html#a88f4baca7ceac44e5d148b73386a10a7":[6,0,3262,2],
-"d1/d7d/classspell__igb__explosion__main__aura.html#a8e675178256746d08af50a6b75ec582e":[6,0,3262,1]
+"d1/d7c/classspell__black__temple__curse__of__the__bleakheart__aura.html#acce25abc58a29dfe5a5287a8b00242ae":[6,0,2671,2]
 };

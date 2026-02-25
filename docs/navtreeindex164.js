@@ -1,5 +1,13 @@
 var NAVTREEINDEX164 =
 {
+"d5/dfb/classObjectMgr.html#aab82294f44bdb372efcd4cf5e36efdb0":[6,0,2335,310],
+"d5/dfb/classObjectMgr.html#aab83fc8b78fde5481cc9dec477845f99":[6,0,2335,269],
+"d5/dfb/classObjectMgr.html#aabf5931580ae390099518d22bfa77994":[6,0,2335,232],
+"d5/dfb/classObjectMgr.html#aac3485ec682fc1830ed9dcce7b194b4c":[6,0,2335,118],
+"d5/dfb/classObjectMgr.html#aac6f64e0e0cdc9ba5be5a8ebc838cf8c":[6,0,2335,254],
+"d5/dfb/classObjectMgr.html#aacc77cb8f7b33f634f26e6e8ea13c6a6":[6,0,2335,295],
+"d5/dfb/classObjectMgr.html#aad2cf04426695d958e5c4bf75864efae":[6,0,2335,284],
+"d5/dfb/classObjectMgr.html#aad3f3e751ff2bc9e6864cd9f328be947":[6,0,2335,276],
 "d5/dfb/classObjectMgr.html#aae223106c7e84e2dbeea81fd7a18c0ea":[6,0,2335,306],
 "d5/dfb/classObjectMgr.html#aae41970aa16dbfd5e18ee30002016502":[6,0,2335,121],
 "d5/dfb/classObjectMgr.html#aae5dd3c768f7c1d189032dadad0b3f3e":[6,0,2335,57],
@@ -184,10 +192,10 @@ var NAVTREEINDEX164 =
 "d5/dfc/classaccount__commandscript.html#ad4f26277c3484e8091e5f23ddbd45a2f":[6,0,22,15],
 "d5/dfc/classaccount__commandscript.html#aedfc70990dd6211938baad8b11a45e8c":[6,0,22,3],
 "d5/dfc/classaccount__commandscript.html#af8b6cb76e8a6f762b86c3a8d7134d056":[6,0,22,6],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[5,0,1,8,0,21],
-"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html":[6,0,0,5,0,21],
 "d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[5,0,1,8,0,21,0],
+"d5/dfe/structAcore_1_1Impl_1_1ChatCommands_1_1ContainerTag.html#a6150ebd46977676b2ddeebfb818e86a9":[6,0,0,5,0,21,0],
 "d6/d00/boss__svala_8cpp.html":[7,0,0,0,1,3,5,10,1,2],
 "d6/d00/boss__svala_8cpp.html#a195da0593c7dcda5b370c27054549a29":[7,0,0,0,1,3,5,10,1,2,8],
 "d6/d00/boss__svala_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,10,1,2,7],
@@ -241,13 +249,5 @@ var NAVTREEINDEX164 =
 "d6/d00/classspell__mage__arcane__potency.html#ab75f7630b98e266b08d0317bd852b1a9":[6,0,3555,1],
 "d6/d00/structObjectGuidTraits.html":[6,0,2333],
 "d6/d00/structObjectGuidTraits.html#a42e5a0249b84d4e8175a4cb65480bbcf":[6,0,2333,1],
-"d6/d00/structObjectGuidTraits.html#a77d72711ba9384384f9fd789f778e8c8":[6,0,2333,0],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html":[6,0,513,0],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#a4ab769a862310bbd8b283e83077ad23d":[6,0,513,0,3],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#a52bc5f76baff626b8834aa604fdd8e6a":[6,0,513,0,1],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#aa17e26419a8e3f7cd99c5e9b44be8ed8":[6,0,513,0,2],
-"d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html#adac003c51a2d1d0a8daa6ba552114c25":[6,0,513,0,0],
-"d6/d03/classinstance__utgarde__keep.html":[6,0,1368],
-"d6/d03/classinstance__utgarde__keep.html#a9a42e0dde1c7598eb2ef665f11e25e92":[6,0,1368,2],
-"d6/d03/classinstance__utgarde__keep.html#abe013e4f086f63722a6398b2b7928c80":[6,0,1368,1]
+"d6/d00/structObjectGuidTraits.html#a77d72711ba9384384f9fd789f778e8c8":[6,0,2333,0]
 };

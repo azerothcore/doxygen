@@ -1,5 +1,13 @@
 var NAVTREEINDEX233 =
 {
+"d8/df1/classObjectRegistry.html#a2734a0e6001f597b43e006bc9d84a6b1":[6,0,2337,2],
+"d8/df1/classObjectRegistry.html#a3c95897734a780c1f299d24a058b3595":[6,0,2337,5],
+"d8/df1/classObjectRegistry.html#a474bdff0ab0f0a3db5f914b9dfaa48d1":[6,0,2337,4],
+"d8/df1/classObjectRegistry.html#a55416824a5dff4138f5d828e352e3d7c":[6,0,2337,6],
+"d8/df1/classObjectRegistry.html#a61e6a6eb75512241e82092abfeba7a65":[6,0,2337,8],
+"d8/df1/classObjectRegistry.html#a7a6582a84361d5ad1142f29c9e1d9cb5":[6,0,2337,7],
+"d8/df1/classObjectRegistry.html#aa3bcc30791e82bc900eacf1c5833b7f8":[6,0,2337,1],
+"d8/df1/classObjectRegistry.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2":[6,0,2337,0],
 "d8/df1/classObjectRegistry.html#aba4a4fcc7ee59afbb4dea6df7410dc02":[6,0,2337,3],
 "d8/df2/ArenaTeamFilterTest_8cpp.html":[7,0,0,0,2,2,0,0,0,1],
 "d8/df2/ArenaTeamFilterTest_8cpp.html#a03a46ff29d075ef3207bb12d9a539b5b":[7,0,0,0,2,2,0,0,0,1,5],
@@ -188,10 +196,10 @@ var NAVTREEINDEX233 =
 "d8/df8/structABNodeInfo.html#a7fb668b0b9563bb0779bf4a5daefded8":[6,0,20,5],
 "d8/df8/structABNodeInfo.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250":[6,0,20,3],
 "d8/df8/structABNodeInfo.html#acddac09017717cf5b2893ab83e1d10c8":[6,0,20,6],
-"d8/dfa/classspell__warl__shadowflame.html":[6,0,4270],
-"d8/dfa/classspell__warl__shadowflame.html#a42bb397aa53fb43ba1b1799a7f162d9b":[6,0,4270,1],
-"d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[6,0,4270,0],
-"d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[6,0,4270,2],
+"d8/dfa/classspell__warl__shadowflame.html":[6,0,4271],
+"d8/dfa/classspell__warl__shadowflame.html#a42bb397aa53fb43ba1b1799a7f162d9b":[6,0,4271,1],
+"d8/dfa/classspell__warl__shadowflame.html#a8f3ff0a48d5de4dcd33831400de0ba28":[6,0,4271,0],
+"d8/dfa/classspell__warl__shadowflame.html#ac1271959fe8de3c11403b1e76acdbf15":[6,0,4271,2],
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html":[6,0,2357],
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#a5178152ee493eb90b1c1c0f611c6cd92":[6,0,2357,0],
 "d8/dfb/classOutdoorPvP__eastern__plaguelands.html#abc4e99dfa8a600ef578b77ffc3956ada":[6,0,2357,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX233 =
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7":[7,0,0,0,1,3,2,16,6,8,6],
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca6b8886388ce2379482df86ac1424ecd3":[7,0,0,0,1,3,2,16,6,8,1],
 "d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca88cd9f67c5feb7f0ba6c853b8520a00b":[7,0,0,0,1,3,2,16,6,8,2],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140":[7,0,0,0,1,3,2,16,6,8,5],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298cadf1ad63daf979b5f4480e6b2dc8aa586":[7,0,0,0,1,3,2,16,6,8,7],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caefc5f218ab9a404b2aab3af0a7d7c29f":[7,0,0,0,1,3,2,16,6,8,9],
-"d8/dfd/boss__jindo_8cpp.html#a8f6712ef6e82bea90b12e3e8853492f3":[7,0,0,0,1,3,2,16,6,9],
-"d8/dfd/boss__jindo_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,2,16,6,7],
-"d8/dfd/boss__jindo_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,16,6,7,0],
-"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,16,6,6],
-"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1153ef20f3d1171c2fc54495b84d29e9":[7,0,0,0,1,3,2,16,6,6,3],
-"d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a276f9f8267f8ecb1cecf102e3a396dc2":[7,0,0,0,1,3,2,16,6,6,1]
+"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298caac24cc2caebd844c628ef25f29cd4140":[7,0,0,0,1,3,2,16,6,8,5]
 };

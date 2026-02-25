@@ -1,5 +1,11 @@
 var NAVTREEINDEX26 =
 {
+"d1/d16/classSpell.html#a68b7071f7708ddf46cb20e2e76e414ad":[6,0,2605,219],
+"d1/d16/classSpell.html#a68f9348b9f781dab56d7d8a194822b3e":[6,0,2605,124],
+"d1/d16/classSpell.html#a69206f5984e77ba464a4f4a135592a94":[6,0,2605,255],
+"d1/d16/classSpell.html#a6997d5f606e25d2380de24ef96825257":[6,0,2605,313],
+"d1/d16/classSpell.html#a69d7714c4cbd81d3dbe8e16cc8cb74a3":[6,0,2605,323],
+"d1/d16/classSpell.html#a6aa6a909f19a729eed135e2108083038":[6,0,2605,70],
 "d1/d16/classSpell.html#a6ad76e29c8c7a1f9242f9b59744d647c":[6,0,2605,31],
 "d1/d16/classSpell.html#a6d7887c9aa24b5d6e9958fd838f87e5e":[6,0,2605,170],
 "d1/d16/classSpell.html#a6ebbac5b41e112fc075e12ce1cc82117":[6,0,2605,202],
@@ -243,11 +249,5 @@ var NAVTREEINDEX26 =
 "d1/d16/structadt__liquid__instance.html#aecd2f6f40509d9b65f9f254e59298e8c":[6,0,134,2],
 "d1/d16/structboss__sartharion__vesperon.html":[6,0,697],
 "d1/d16/structboss__sartharion__vesperon.html#a0c45127e9eb2be20765f92e1161e2e5a":[6,0,697,1],
-"d1/d16/structboss__sartharion__vesperon.html#a3ce6d2036faa108cb97ebf75bdb6ad33":[6,0,697,0],
-"d1/d16/structboss__sartharion__vesperon.html#a948bfddea4eb3c0fe471d8f501a88d6c":[6,0,697,3],
-"d1/d16/structboss__sartharion__vesperon.html#a9df29b4c71c93da8cf7ae9f81b870345":[6,0,697,4],
-"d1/d16/structboss__sartharion__vesperon.html#aefc42452e75c476aef39ba0df3a03d70":[6,0,697,2],
-"d1/d17/ByteBuffer_8h.html":[7,0,0,0,1,4,2,1],
-"d1/d17/ByteBuffer_8h.html#a31d035bbbf2d8edc4942e9f676b32878":[7,0,0,0,1,4,2,1,5],
-"d1/d17/ByteBuffer_8h.html#a3550abfaebcca85d45dd39281be0101d":[7,0,0,0,1,4,2,1,6]
+"d1/d16/structboss__sartharion__vesperon.html#a3ce6d2036faa108cb97ebf75bdb6ad33":[6,0,697,0]
 };

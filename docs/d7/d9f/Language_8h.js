@@ -1142,7 +1142,8 @@ var Language_8h =
       [ "LANG_DEBUG_BG_CONF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa50826b159e821296df25480ba2486352", null ],
       [ "LANG_DEBUG_ARENA_CONF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aab02c6c69fa59d4b07392f564de51012b", null ],
       [ "LANG_DEBUG_LFG_ON", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa294a7978fe6817b10dd5eeddce1828ce", null ],
-      [ "LANG_DEBUG_LFG_OFF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadee00b2c07ce9f18942080ca028f075f", null ]
+      [ "LANG_DEBUG_LFG_OFF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadee00b2c07ce9f18942080ca028f075f", null ],
+      [ "LANG_DEBUG_LFG_CONF", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae016f7bbaf63a8b1d484c63fa446af05", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

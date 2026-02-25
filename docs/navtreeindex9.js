@@ -1,5 +1,11 @@
 var NAVTREEINDEX9 =
 {
+"d0/d6e/shadowfang__keep_8h.html#aa60ee4c9e0714a8a60f38dd9b53071e5":[7,0,0,0,1,3,2,9,2,6],
+"d0/d6e/shadowfang__keep_8h.html#af22fef896fb455b08a732c2261e847f5":[7,0,0,0,1,3,2,9,2,5],
+"d0/d6e/shadowfang__keep_8h.html#af22fef896fb455b08a732c2261e847f5a0f3980e6e980f7c16ef71a4626871fa6":[7,0,0,0,1,3,2,9,2,5,1],
+"d0/d6e/shadowfang__keep_8h.html#af22fef896fb455b08a732c2261e847f5a94152e6e5337a064dc525631299792f2":[7,0,0,0,1,3,2,9,2,5,2],
+"d0/d6e/shadowfang__keep_8h.html#af22fef896fb455b08a732c2261e847f5ac9f726deba2e14db13f56912cdb11d6a":[7,0,0,0,1,3,2,9,2,5,0],
+"d0/d6e/shadowfang__keep_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,2,9,2,3],
 "d0/d6e/shadowfang__keep_8h.html#afb6eb4f28419b652027fad41104a6d22a2dc9c98edbe469a7264be90d687f267b":[7,0,0,0,1,3,2,9,2,3,4],
 "d0/d6e/shadowfang__keep_8h.html#afb6eb4f28419b652027fad41104a6d22a5e012075e3ecc60c868c8a683e4b1135":[7,0,0,0,1,3,2,9,2,3,0],
 "d0/d6e/shadowfang__keep_8h.html#afb6eb4f28419b652027fad41104a6d22a8638aa4ac2dff9bdb123ef0b93bb21bd":[7,0,0,0,1,3,2,9,2,3,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX9 =
 "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651a68d09fc4591462cf7d4f4338753af548":[7,0,0,0,1,2,41,2,20,2],
 "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651af4c5b99ead243a7fd18d4925aa310dc4":[7,0,0,0,1,2,41,2,20,3],
 "d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2":[7,0,0,0,1,2,41,2,22],
-"d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2a821083f58cdc2d250afcee151634e757":[7,0,0,0,1,2,41,2,22,1],
-"d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2abc18f1a292e6163055b15c50854a6cbe":[7,0,0,0,1,2,41,2,22,0],
-"d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2adfcc1624804cc74a9267c4608e9dd11a":[7,0,0,0,1,2,41,2,22,2],
-"d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79":[7,0,0,0,1,2,41,2,21],
-"d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79a801f4293e4205d7aaee865810214cf2e":[7,0,0,0,1,2,41,2,21,2],
-"d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79aa20e2ccdafdb980830693d0eb1efded4":[7,0,0,0,1,2,41,2,21,0],
-"d0/d78/Spell_8h.html#a6d7d0bbc480b8cf98760932cf0526e79aa662eb26a5979fec55cf4069acaa82bd":[7,0,0,0,1,2,41,2,21,1]
+"d0/d78/Spell_8h.html#a68423826ac8d5f2d2aca7e83dfa9d2c2a821083f58cdc2d250afcee151634e757":[7,0,0,0,1,2,41,2,22,1]
 };

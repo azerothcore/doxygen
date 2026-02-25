@@ -1,5 +1,13 @@
 var NAVTREEINDEX98 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba8f98d3f2bda474d465c3a5c17a89955e":[7,0,0,0,1,2,48,7,0,141],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba912eaf62827621aba1f1b59ec4b4871d":[7,0,0,0,1,2,48,7,0,241],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba91db98bf30a24f568cce83ebd40e3be0":[7,0,0,0,1,2,48,7,0,32],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9289f25bd9d4395cee7ac1c47d5f010a":[7,0,0,0,1,2,48,7,0,427],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba92cd2acd2858d2163698c0b446b52b14":[7,0,0,0,1,2,48,7,0,345],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba93c6c6f0be80fd4c102bd970ed915c78":[7,0,0,0,1,2,48,7,0,237],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba93df7a833ba6da65841cb0aa8cb8b9b6":[7,0,0,0,1,2,48,7,0,216],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba941206b11bd284ffb17b7bb7029e6a5d":[7,0,0,0,1,2,48,7,0,466],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9415f1e8672b0bca0c29538f4cdf3e75":[7,0,0,0,1,2,48,7,0,347],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9503586698fc97c5e71f1fa3468efd6e":[7,0,0,0,1,2,48,7,0,114],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba9510660be4db7bdd4b85b3e9c78d39a1":[7,0,0,0,1,2,48,7,0,457],
@@ -241,13 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d49/GameObjectAI_8cpp.html":[7,0,0,0,1,2,3,0,2],
 "d3/d4a/boss__onyxia_8cpp.html":[7,0,0,0,1,3,4,4,0],
 "d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,4,4,0,6],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,4,0,6,0],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a4c0b5471a48798034d9c7e81ab7b58d5":[7,0,0,0,1,3,4,4,0,6,2],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,4,4,0,6,4],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,4,4,0,6,1],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3abbf2a44fca45825ba4bfd186fefde815":[7,0,0,0,1,3,4,4,0,6,3],
-"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad089ecf6b1860e0cf125942c8697880d":[7,0,0,0,1,3,4,4,0,6,5],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,4,0,5],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,4,4,0,5,2],
-"d3/d4a/boss__onyxia_8cpp.html#a5bd342133be8c2137b831460acc9298ca0f3c361aa07e357050b5884750406087":[7,0,0,0,1,3,4,4,0,5,11]
+"d3/d4a/boss__onyxia_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,4,4,0,6,0]
 };

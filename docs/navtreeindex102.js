@@ -1,5 +1,13 @@
 var NAVTREEINDEX102 =
 {
+"d3/d75/classspell__warl__seed__of__corruption__dummy.html":[6,0,4267],
+"d3/d75/classspell__warl__seed__of__corruption__dummy.html#a2d107c9db0b3b1859cb284b741a77ef8":[6,0,4267,3],
+"d3/d75/classspell__warl__seed__of__corruption__dummy.html#a325ad66cd69a15260e274562250c8e32":[6,0,4267,2],
+"d3/d75/classspell__warl__seed__of__corruption__dummy.html#a35edcf5f57dee1bbb63321cd67b200db":[6,0,4267,1],
+"d3/d75/classspell__warl__seed__of__corruption__dummy.html#a3fa1917fc77575531e485cd0228bcc00":[6,0,4267,0],
+"d3/d75/classspell__warl__seed__of__corruption__dummy.html#ae7de3e43a47e6b35d0dead23ac51325e":[6,0,4267,4],
+"d3/d77/classspell__dru__rip.html":[6,0,2895],
+"d3/d77/classspell__dru__rip.html#a2ed00d02a1685bc8b66e9cdfd430d1ad":[6,0,2895,0],
 "d3/d77/classspell__dru__rip.html#a6766b6ebbba04bc595373145e4eaaa7a":[6,0,2895,3],
 "d3/d77/classspell__dru__rip.html#a7ba8da2fdc3bf18cd9925b280e60affa":[6,0,2895,1],
 "d3/d77/classspell__dru__rip.html#a93df43072a344485c389160306b1fecd":[6,0,2895,2],
@@ -217,10 +225,10 @@ var NAVTREEINDEX102 =
 "d3/d7e/classspell__grab__on.html#af0f5206d98dbc9de355abbeb03709c05":[6,0,3137,1],
 "d3/d7f/namespaceadvstd.html":[5,0,4],
 "d3/d80/WorldSocket_8h.html":[7,0,0,0,1,2,39,10],
-"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html":[5,0,18,4],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
+"d3/d80/structlfg_1_1LfgJoinResultData.html":[6,0,5,4],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[6,0,5,4,0],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX102 =
 "d3/d81/structinstance__hellfire__ramparts_1_1instance__hellfire__ramparts__InstanceMapScript.html#aebc047b45cb4560a38df89db75f8efab":[6,0,1324,0,0],
 "d3/d81/structsOnyxMove.html":[6,0,2599],
 "d3/d81/structsOnyxMove.html#a126d1c0e7d475a07acd91de471cb7cab":[6,0,2599,0],
-"d3/d81/structsOnyxMove.html#a41c7bdb057d984f552a41835651d84f5":[6,0,2599,4],
-"d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2599,3],
-"d3/d81/structsOnyxMove.html#a7b12c520ee50ab29e5047a1c71b22729":[6,0,2599,1],
-"d3/d81/structsOnyxMove.html#a94c284d63e66765c4d484c8edea8fdb8":[6,0,2599,2],
-"d3/d81/structsOnyxMove.html#abe083129d7a4e514e97eeae7cff40af5":[6,0,2599,5],
-"d3/d81/structsOnyxMove.html#ac49d886d09e2ebf8ccf8abd59a9649ec":[6,0,2599,6],
-"d3/d81/trial__of__the__champion_8h.html":[7,0,0,0,1,3,5,2,0,5],
-"d3/d81/trial__of__the__champion_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,2,0,5,0],
-"d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250":[7,0,0,0,1,3,5,2,0,5,4]
+"d3/d81/structsOnyxMove.html#a41c7bdb057d984f552a41835651d84f5":[6,0,2599,4]
 };

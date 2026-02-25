@@ -35,7 +35,6 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "m_leviathanVisualTowers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af33dd81c241b5354a2cbced9dc9f4c93", null ],
     [ "m_mageBarrier", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac9e21b4262c6d049732fa4d4de349c69", null ],
     [ "m_mimironTramUsed", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a7ff5d775a2c529fe241bd9f1bf43df7c", null ],
-    [ "m_RazorscaleHarpoonFireStateGUID", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a3f48ecffa8cad0a6c7524fb1062a922d", null ],
     [ "m_RepairSGUID", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a618d1caccb85e3817cff0db20022c308", null ],
     [ "m_unbrokenAchievement", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af67b7d54d4deabe48192155c1ac18eb9", null ],
     [ "m_watchersMask", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a47a63df8f0fd7ec5f2aea0fdd5709bda", null ],

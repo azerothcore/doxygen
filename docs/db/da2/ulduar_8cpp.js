@@ -9,6 +9,7 @@ var ulduar_8cpp =
     [ "spell_ulduar_arachnopod_damaged_aura", "d4/de8/classspell__ulduar__arachnopod__damaged__aura.html", "d4/de8/classspell__ulduar__arachnopod__damaged__aura" ],
     [ "AreaTrigger_at_celestial_planetarium_enterance", "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html", "de/dae/classAreaTrigger__at__celestial__planetarium__enterance" ],
     [ "npc_salvaged_siege_engine", "d1/d96/structnpc__salvaged__siege__engine.html", "d1/d96/structnpc__salvaged__siege__engine" ],
+    [ "spell_ulduar_teleporter", "d9/de2/classspell__ulduar__teleporter.html", "d9/de2/classspell__ulduar__teleporter" ],
     [ "EnergySap", "db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93d", [
       [ "SPELL_ENERGY_SAP_DAMAGE_1", "db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab", null ],
       [ "SPELL_ENERGY_SAP_DAMAGE_2", "db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d", null ]

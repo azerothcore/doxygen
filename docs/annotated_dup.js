@@ -4735,6 +4735,7 @@ var annotated_dup =
     [ "spell_ulduar_squeezed_lifeless", "d4/da4/classspell__ulduar__squeezed__lifeless.html", "d4/da4/classspell__ulduar__squeezed__lifeless" ],
     [ "spell_ulduar_stone_grip_aura", "d6/d30/classspell__ulduar__stone__grip__aura.html", "d6/d30/classspell__ulduar__stone__grip__aura" ],
     [ "spell_ulduar_stone_grip_cast_target", "db/d52/classspell__ulduar__stone__grip__cast__target.html", "db/d52/classspell__ulduar__stone__grip__cast__target" ],
+    [ "spell_ulduar_teleporter", "d9/de2/classspell__ulduar__teleporter.html", "d9/de2/classspell__ulduar__teleporter" ],
     [ "spell_utgarde_pinnacle_beast_mark", "d2/dfa/classspell__utgarde__pinnacle__beast__mark.html", "d2/dfa/classspell__utgarde__pinnacle__beast__mark" ],
     [ "spell_vael_burning_adrenaline", "d3/da5/classspell__vael__burning__adrenaline.html", "d3/da5/classspell__vael__burning__adrenaline" ],
     [ "spell_valanar_kinetic_bomb", "d5/d2a/classspell__valanar__kinetic__bomb.html", "d5/d2a/classspell__valanar__kinetic__bomb" ],

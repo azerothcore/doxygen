@@ -1,5 +1,11 @@
 var NAVTREEINDEX40 =
 {
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,2,1,2,11,10],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea36d8706f7d591eeae67e5ab22e97ef2e":[7,0,0,0,1,3,5,2,1,2,11,4],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,2,1,2,11,1],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea53129d482821d39ef2e9ec6bc49be994":[7,0,0,0,1,3,5,2,1,2,11,3],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea5cdb0d02f284b7b5291ce74280295247":[7,0,0,0,1,3,5,2,1,2,11,6],
+"d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea6497a890096599c52269313b8a8605b7":[7,0,0,0,1,3,5,2,1,2,11,8],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360ea7217192e0677e014f01747f589e4510f":[7,0,0,0,1,3,5,2,1,2,11,2],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360eaadb464bdc16c06288cb11d9fbd32232f":[7,0,0,0,1,3,5,2,1,2,11,5],
 "d1/da7/boss__lord__jaraxxus_8cpp.html#a0de5ed4733cf2c29f4248c9eddb9360eabd232b7f412e11fae257acd4044638db":[7,0,0,0,1,3,5,2,1,2,11,7],
@@ -100,12 +106,12 @@ var NAVTREEINDEX40 =
 "d1/dab/structboss__mimiron.html#aee739c9b16ae36af6104b54bde9cf7f7":[6,0,629,1],
 "d1/dab/structboss__mimiron.html#af4e88527fb72bcbc1dc0a57b6007a461":[6,0,629,11],
 "d1/dab/structboss__mimiron.html#af74157021d0711cb8d27f7437a272afc":[6,0,629,17],
-"d1/dac/classTypeMapContainer.html":[6,0,4510],
-"d1/dac/classTypeMapContainer.html#a026880bb3378687143ed19fa7b99b41b":[6,0,4510,3],
-"d1/dac/classTypeMapContainer.html#a4ab8f061208d7733ee65ba768f85f513":[6,0,4510,0],
-"d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d":[6,0,4510,4],
-"d1/dac/classTypeMapContainer.html#abbdfddc576af5f2d49dddf5e49ad2864":[6,0,4510,2],
-"d1/dac/classTypeMapContainer.html#af75467b56830b1447bebbf974b2747b6":[6,0,4510,1],
+"d1/dac/classTypeMapContainer.html":[6,0,4511],
+"d1/dac/classTypeMapContainer.html#a026880bb3378687143ed19fa7b99b41b":[6,0,4511,3],
+"d1/dac/classTypeMapContainer.html#a4ab8f061208d7733ee65ba768f85f513":[6,0,4511,0],
+"d1/dac/classTypeMapContainer.html#a8ef4a180d448dcba2141fc389621433d":[6,0,4511,4],
+"d1/dac/classTypeMapContainer.html#abbdfddc576af5f2d49dddf5e49ad2864":[6,0,4511,2],
+"d1/dac/classTypeMapContainer.html#af75467b56830b1447bebbf974b2747b6":[6,0,4511,1],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html":[6,0,3616],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a16c536c913d003826ef4b86c7a497fec":[6,0,3616,3],
 "d1/dac/classspell__mark__of__the__faceless__periodic__aura.html#a1c54b6c86fc39d96d601b24c5b30fbdd":[6,0,3616,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea79440a990c465c7f19a3aa5cd7808c62":[7,0,0,0,1,2,16,10,5,52,15],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea7a3c5cbdc3ced891780002389b3dcd8e":[7,0,0,0,1,2,16,10,5,52,0],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdea81f275f6f428145c4d3227e52b905e40":[7,0,0,0,1,2,16,10,5,52,16],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeab7a02dfffcefb8b769c5fa1b45afea9a":[7,0,0,0,1,2,16,10,5,52,1],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac09868c22ce88ad6bce5f6321c994de6":[7,0,0,0,1,2,16,10,5,52,29],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac1a101ffc2b3e1c261a1f27c5b95147e":[7,0,0,0,1,2,16,10,5,52,8],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaccdf98ed89e64b2482699a13bc1fd28c":[7,0,0,0,1,2,16,10,5,52,22],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeadeade1270a4a74a43289c8389e164b64":[7,0,0,0,1,2,16,10,5,52,10],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae06346b2541d3e99698435cb0e0bdcf3":[7,0,0,0,1,2,16,10,5,52,6],
-"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae4231ed105be6058ed4deb6b4a5f3ba0":[7,0,0,0,1,2,16,10,5,52,26]
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeab7a02dfffcefb8b769c5fa1b45afea9a":[7,0,0,0,1,2,16,10,5,52,1]
 };

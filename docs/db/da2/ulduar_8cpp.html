@@ -121,6 +121,7 @@ $(document).ready(function(){initNavTree('db/da2/ulduar_8cpp.html','../../'); in
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
@@ -148,6 +149,8 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html">AreaTrigger_at_celestial_planetarium_enterance</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de2/classspell__ulduar__teleporter.html">spell_ulduar_teleporter</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
@@ -240,12 +243,12 @@ Functions</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab" name="acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab"></a>SPELL_ENERGY_SAP_DAMAGE_1&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d" name="acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d"></a>SPELL_ENERGY_SAP_DAMAGE_2&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  209</span>{</div>
-<div class="line"><span class="lineno">  210</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab">SPELL_ENERGY_SAP_DAMAGE_1</a> = 64747,</div>
-<div class="line"><span class="lineno">  211</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d">SPELL_ENERGY_SAP_DAMAGE_2</a> = 64863,</div>
-<div class="line"><span class="lineno">  212</span>};</div>
-<div class="ttc" id="aulduar_8cpp_html_acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab">SPELL_ENERGY_SAP_DAMAGE_1</a></div><div class="ttdeci">@ SPELL_ENERGY_SAP_DAMAGE_1</div><div class="ttdef"><b>Definition</b> ulduar.cpp:210</div></div>
-<div class="ttc" id="aulduar_8cpp_html_acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d">SPELL_ENERGY_SAP_DAMAGE_2</a></div><div class="ttdeci">@ SPELL_ENERGY_SAP_DAMAGE_2</div><div class="ttdef"><b>Definition</b> ulduar.cpp:211</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
+<div class="line"><span class="lineno">  211</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab">SPELL_ENERGY_SAP_DAMAGE_1</a> = 64747,</div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d">SPELL_ENERGY_SAP_DAMAGE_2</a> = 64863,</div>
+<div class="line"><span class="lineno">  213</span>};</div>
+<div class="ttc" id="aulduar_8cpp_html_acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab">SPELL_ENERGY_SAP_DAMAGE_1</a></div><div class="ttdeci">@ SPELL_ENERGY_SAP_DAMAGE_1</div><div class="ttdef"><b>Definition</b> ulduar.cpp:211</div></div>
+<div class="ttc" id="aulduar_8cpp_html_acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d">SPELL_ENERGY_SAP_DAMAGE_2</a></div><div class="ttdeci">@ SPELL_ENERGY_SAP_DAMAGE_2</div><div class="ttdef"><b>Definition</b> ulduar.cpp:212</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -274,43 +277,43 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626" name="aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626"></a>SAY_KEEPER_CHOSEN_TO_PLAYER&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992" name="aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992"></a>SAY_KEEPER_CHOSEN_ANNOUNCE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <span class="comment">// Freya</span></div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033">GOSSIP_MENU_FREYA</a>           = 10324,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741">NPC_TEXT_FREYA</a>              = 14332,</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <span class="comment">// Hodir</span></div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17">GOSSIP_MENU_HODIR</a>           = 10335,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383">NPC_TEXT_HODIR</a>              = 14326,</div>
-<div class="line"><span class="lineno">   41</span> </div>
-<div class="line"><span class="lineno">   42</span>    <span class="comment">// Mimiron</span></div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b">GOSSIP_MENU_MIMIRON</a>         = 10336,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac">NPC_TEXT_MIMIRON</a>            = 14334,</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <span class="comment">// Thorim</span></div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9">GOSSIP_MENU_THORIM</a>          = 10337,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28">NPC_TEXT_THORIM</a>             = 14333,</div>
-<div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>    <span class="comment">// Confirm assistance</span></div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80">GOSSIP_MENU_CONFIRM</a>         = 10333,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8">NPC_TEXT_CONFIRM</a>            = 14325,</div>
-<div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <span class="comment">// Chosen</span></div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626">SAY_KEEPER_CHOSEN_TO_PLAYER</a> = 0,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992">SAY_KEEPER_CHOSEN_ANNOUNCE</a>  = 1,</div>
-<div class="line"><span class="lineno">   57</span>};</div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992">SAY_KEEPER_CHOSEN_ANNOUNCE</a></div><div class="ttdeci">@ SAY_KEEPER_CHOSEN_ANNOUNCE</div><div class="ttdef"><b>Definition</b> ulduar.cpp:56</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741">NPC_TEXT_FREYA</a></div><div class="ttdeci">@ NPC_TEXT_FREYA</div><div class="ttdef"><b>Definition</b> ulduar.cpp:36</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9">GOSSIP_MENU_THORIM</a></div><div class="ttdeci">@ GOSSIP_MENU_THORIM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:47</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8">NPC_TEXT_CONFIRM</a></div><div class="ttdeci">@ NPC_TEXT_CONFIRM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:52</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28">NPC_TEXT_THORIM</a></div><div class="ttdeci">@ NPC_TEXT_THORIM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:48</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac">NPC_TEXT_MIMIRON</a></div><div class="ttdeci">@ NPC_TEXT_MIMIRON</div><div class="ttdef"><b>Definition</b> ulduar.cpp:44</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17">GOSSIP_MENU_HODIR</a></div><div class="ttdeci">@ GOSSIP_MENU_HODIR</div><div class="ttdef"><b>Definition</b> ulduar.cpp:39</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033">GOSSIP_MENU_FREYA</a></div><div class="ttdeci">@ GOSSIP_MENU_FREYA</div><div class="ttdef"><b>Definition</b> ulduar.cpp:35</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626">SAY_KEEPER_CHOSEN_TO_PLAYER</a></div><div class="ttdeci">@ SAY_KEEPER_CHOSEN_TO_PLAYER</div><div class="ttdef"><b>Definition</b> ulduar.cpp:55</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80">GOSSIP_MENU_CONFIRM</a></div><div class="ttdeci">@ GOSSIP_MENU_CONFIRM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:51</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383">NPC_TEXT_HODIR</a></div><div class="ttdeci">@ NPC_TEXT_HODIR</div><div class="ttdef"><b>Definition</b> ulduar.cpp:40</div></div>
-<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b">GOSSIP_MENU_MIMIRON</a></div><div class="ttdeci">@ GOSSIP_MENU_MIMIRON</div><div class="ttdef"><b>Definition</b> ulduar.cpp:43</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <span class="comment">// Freya</span></div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033">GOSSIP_MENU_FREYA</a>           = 10324,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741">NPC_TEXT_FREYA</a>              = 14332,</div>
+<div class="line"><span class="lineno">   38</span> </div>
+<div class="line"><span class="lineno">   39</span>    <span class="comment">// Hodir</span></div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17">GOSSIP_MENU_HODIR</a>           = 10335,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383">NPC_TEXT_HODIR</a>              = 14326,</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <span class="comment">// Mimiron</span></div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b">GOSSIP_MENU_MIMIRON</a>         = 10336,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac">NPC_TEXT_MIMIRON</a>            = 14334,</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="comment">// Thorim</span></div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9">GOSSIP_MENU_THORIM</a>          = 10337,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28">NPC_TEXT_THORIM</a>             = 14333,</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>    <span class="comment">// Confirm assistance</span></div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80">GOSSIP_MENU_CONFIRM</a>         = 10333,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8">NPC_TEXT_CONFIRM</a>            = 14325,</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <span class="comment">// Chosen</span></div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626">SAY_KEEPER_CHOSEN_TO_PLAYER</a> = 0,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992">SAY_KEEPER_CHOSEN_ANNOUNCE</a>  = 1,</div>
+<div class="line"><span class="lineno">   58</span>};</div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a0617df7febfb50141f9f0814f1d5f992">SAY_KEEPER_CHOSEN_ANNOUNCE</a></div><div class="ttdeci">@ SAY_KEEPER_CHOSEN_ANNOUNCE</div><div class="ttdef"><b>Definition</b> ulduar.cpp:57</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1a050bb0da373d47bbf69a545da13741">NPC_TEXT_FREYA</a></div><div class="ttdeci">@ NPC_TEXT_FREYA</div><div class="ttdef"><b>Definition</b> ulduar.cpp:37</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1d111f9b14d227f5f9ef71eb0c6561e9">GOSSIP_MENU_THORIM</a></div><div class="ttdeci">@ GOSSIP_MENU_THORIM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:48</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a53804c70cdceb0d00c94b4234a2648b8">NPC_TEXT_CONFIRM</a></div><div class="ttdeci">@ NPC_TEXT_CONFIRM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:53</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a67bdd3bea53649f3f12679a2cb679c28">NPC_TEXT_THORIM</a></div><div class="ttdeci">@ NPC_TEXT_THORIM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:49</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a72a8b9907d2bd29f7f26d0a23e96dfac">NPC_TEXT_MIMIRON</a></div><div class="ttdeci">@ NPC_TEXT_MIMIRON</div><div class="ttdef"><b>Definition</b> ulduar.cpp:45</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8d5557e430edcb53d9c0db033098db17">GOSSIP_MENU_HODIR</a></div><div class="ttdeci">@ GOSSIP_MENU_HODIR</div><div class="ttdef"><b>Definition</b> ulduar.cpp:40</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a8e5a08643c22253c21c38ee6e8d53033">GOSSIP_MENU_FREYA</a></div><div class="ttdeci">@ GOSSIP_MENU_FREYA</div><div class="ttdef"><b>Definition</b> ulduar.cpp:36</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31aa5cbfd7a93705482f5a7000294146626">SAY_KEEPER_CHOSEN_TO_PLAYER</a></div><div class="ttdeci">@ SAY_KEEPER_CHOSEN_TO_PLAYER</div><div class="ttdef"><b>Definition</b> ulduar.cpp:56</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ab54535d16beec318de753f18e6496a80">GOSSIP_MENU_CONFIRM</a></div><div class="ttdeci">@ GOSSIP_MENU_CONFIRM</div><div class="ttdef"><b>Definition</b> ulduar.cpp:52</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abb2c4a265648903f16c308b512415383">NPC_TEXT_HODIR</a></div><div class="ttdeci">@ NPC_TEXT_HODIR</div><div class="ttdef"><b>Definition</b> ulduar.cpp:41</div></div>
+<div class="ttc" id="aulduar_8cpp_html_aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af69a15e2723e424de39a0bd7193f151b">GOSSIP_MENU_MIMIRON</a></div><div class="ttdeci">@ GOSSIP_MENU_MIMIRON</div><div class="ttdef"><b>Definition</b> ulduar.cpp:44</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -328,10 +331,10 @@ Functions</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c" name="abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c"></a>ACTION_KEEPER_OUTRO&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c">ACTION_KEEPER_OUTRO</a>         = 0,</div>
-<div class="line"><span class="lineno">   62</span>};</div>
-<div class="ttc" id="aulduar_8cpp_html_abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c">ACTION_KEEPER_OUTRO</a></div><div class="ttdeci">@ ACTION_KEEPER_OUTRO</div><div class="ttdef"><b>Definition</b> ulduar.cpp:61</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c">ACTION_KEEPER_OUTRO</a>         = 0,</div>
+<div class="line"><span class="lineno">   63</span>};</div>
+<div class="ttc" id="aulduar_8cpp_html_abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#abacb9deae829622b56c4792843ae6ad1ae65eddafffa3cbeda5a32eefab45181c">ACTION_KEEPER_OUTRO</a></div><div class="ttdeci">@ ACTION_KEEPER_OUTRO</div><div class="ttdef"><b>Definition</b> ulduar.cpp:62</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -349,10 +352,10 @@ Functions</h2></td></tr>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e" name="a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e"></a>GOBJ_SNOW_MOUND&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e">GOBJ_SNOW_MOUND</a>             = 194907</div>
-<div class="line"><span class="lineno">   75</span>};</div>
-<div class="ttc" id="aulduar_8cpp_html_a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e">GOBJ_SNOW_MOUND</a></div><div class="ttdeci">@ GOBJ_SNOW_MOUND</div><div class="ttdef"><b>Definition</b> ulduar.cpp:74</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e">GOBJ_SNOW_MOUND</a>             = 194907</div>
+<div class="line"><span class="lineno">   76</span>};</div>
+<div class="ttc" id="aulduar_8cpp_html_a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a51b87489a88947e854cb187e28ead3aaa233cf03dd9bf576e44d7cc038e30c63e">GOBJ_SNOW_MOUND</a></div><div class="ttdeci">@ GOBJ_SNOW_MOUND</div><div class="ttdef"><b>Definition</b> ulduar.cpp:75</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -373,16 +376,16 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb" name="a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb"></a>NPC_SNOW_MOUND_6&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512" name="a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512"></a>NPC_SNOW_MOUND_8&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6">NPC_WINTER_JORMUNGAR</a>        = 34137,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e">NPC_SNOW_MOUND_4</a>            = 34146,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb">NPC_SNOW_MOUND_6</a>            = 34150,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512">NPC_SNOW_MOUND_8</a>            = 34151</div>
-<div class="line"><span class="lineno">   70</span>};</div>
-<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb">NPC_SNOW_MOUND_6</a></div><div class="ttdeci">@ NPC_SNOW_MOUND_6</div><div class="ttdef"><b>Definition</b> ulduar.cpp:68</div></div>
-<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6">NPC_WINTER_JORMUNGAR</a></div><div class="ttdeci">@ NPC_WINTER_JORMUNGAR</div><div class="ttdef"><b>Definition</b> ulduar.cpp:66</div></div>
-<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e">NPC_SNOW_MOUND_4</a></div><div class="ttdeci">@ NPC_SNOW_MOUND_4</div><div class="ttdef"><b>Definition</b> ulduar.cpp:67</div></div>
-<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512">NPC_SNOW_MOUND_8</a></div><div class="ttdeci">@ NPC_SNOW_MOUND_8</div><div class="ttdef"><b>Definition</b> ulduar.cpp:69</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6">NPC_WINTER_JORMUNGAR</a>        = 34137,</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e">NPC_SNOW_MOUND_4</a>            = 34146,</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb">NPC_SNOW_MOUND_6</a>            = 34150,</div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512">NPC_SNOW_MOUND_8</a>            = 34151</div>
+<div class="line"><span class="lineno">   71</span>};</div>
+<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9994e8f29e13d43324f2b9e30e9c8dbb">NPC_SNOW_MOUND_6</a></div><div class="ttdeci">@ NPC_SNOW_MOUND_6</div><div class="ttdef"><b>Definition</b> ulduar.cpp:69</div></div>
+<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00ca9e47edb2b8ebecd8f6bea4def90b3cd6">NPC_WINTER_JORMUNGAR</a></div><div class="ttdeci">@ NPC_WINTER_JORMUNGAR</div><div class="ttdef"><b>Definition</b> ulduar.cpp:67</div></div>
+<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00caa11811fdbfb8f74e252570087685666e">NPC_SNOW_MOUND_4</a></div><div class="ttdeci">@ NPC_SNOW_MOUND_4</div><div class="ttdef"><b>Definition</b> ulduar.cpp:68</div></div>
+<div class="ttc" id="aulduar_8cpp_html_a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#a8e998b5fb88f3b3f473a27db4836b00cad516f79bbf6412d217a98495744bf512">NPC_SNOW_MOUND_8</a></div><div class="ttdeci">@ NPC_SNOW_MOUND_8</div><div class="ttdef"><b>Definition</b> ulduar.cpp:70</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -405,22 +408,22 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24" name="addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24"></a>SPELL_FLAME_SPRAY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8" name="addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8"></a>SPELL_MACHINE_GUN&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8">SPELL_SIMPLE_TELEPORT</a>       = 12980,</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef">SPELL_KEEPER_TELEPORT</a>       = 62940,</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3">SPELL_SNOW_MOUND_PARTICLES</a>  = 64615,</div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4">SPELL_ENERGY_SAP_10</a>         = 64740,</div>
-<div class="line"><span class="lineno">   83</span> </div>
-<div class="line"><span class="lineno">   84</span>    <span class="comment">// Arachnopod Destroyer</span></div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24">SPELL_FLAME_SPRAY</a>           = 64717,</div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8">SPELL_MACHINE_GUN</a>           = 64776,</div>
-<div class="line"><span class="lineno">   87</span>};</div>
-<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8">SPELL_MACHINE_GUN</a></div><div class="ttdeci">@ SPELL_MACHINE_GUN</div><div class="ttdef"><b>Definition</b> ulduar.cpp:86</div></div>
-<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24">SPELL_FLAME_SPRAY</a></div><div class="ttdeci">@ SPELL_FLAME_SPRAY</div><div class="ttdef"><b>Definition</b> ulduar.cpp:85</div></div>
-<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3">SPELL_SNOW_MOUND_PARTICLES</a></div><div class="ttdeci">@ SPELL_SNOW_MOUND_PARTICLES</div><div class="ttdef"><b>Definition</b> ulduar.cpp:81</div></div>
-<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8">SPELL_SIMPLE_TELEPORT</a></div><div class="ttdeci">@ SPELL_SIMPLE_TELEPORT</div><div class="ttdef"><b>Definition</b> ulduar.cpp:79</div></div>
-<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef">SPELL_KEEPER_TELEPORT</a></div><div class="ttdeci">@ SPELL_KEEPER_TELEPORT</div><div class="ttdef"><b>Definition</b> ulduar.cpp:80</div></div>
-<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4">SPELL_ENERGY_SAP_10</a></div><div class="ttdeci">@ SPELL_ENERGY_SAP_10</div><div class="ttdef"><b>Definition</b> ulduar.cpp:82</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8">SPELL_SIMPLE_TELEPORT</a>       = 12980,</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef">SPELL_KEEPER_TELEPORT</a>       = 62940,</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3">SPELL_SNOW_MOUND_PARTICLES</a>  = 64615,</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4">SPELL_ENERGY_SAP_10</a>         = 64740,</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    <span class="comment">// Arachnopod Destroyer</span></div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24">SPELL_FLAME_SPRAY</a>           = 64717,</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_enumvalue" href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8">SPELL_MACHINE_GUN</a>           = 64776,</div>
+<div class="line"><span class="lineno">   88</span>};</div>
+<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a15a2c2d1a96e0116506722e9739600f8">SPELL_MACHINE_GUN</a></div><div class="ttdeci">@ SPELL_MACHINE_GUN</div><div class="ttdef"><b>Definition</b> ulduar.cpp:87</div></div>
+<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a2817c9a7ba6d581931ea40fd06d8ad24">SPELL_FLAME_SPRAY</a></div><div class="ttdeci">@ SPELL_FLAME_SPRAY</div><div class="ttdef"><b>Definition</b> ulduar.cpp:86</div></div>
+<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a555a4abaecb1b980f5cad7394d8c3cf3">SPELL_SNOW_MOUND_PARTICLES</a></div><div class="ttdeci">@ SPELL_SNOW_MOUND_PARTICLES</div><div class="ttdef"><b>Definition</b> ulduar.cpp:82</div></div>
+<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a58ded91cb3c92499be38f0586eb20db8">SPELL_SIMPLE_TELEPORT</a></div><div class="ttdeci">@ SPELL_SIMPLE_TELEPORT</div><div class="ttdef"><b>Definition</b> ulduar.cpp:80</div></div>
+<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53a8fe91c9c0c48c22ebe17945c5ab0abef">SPELL_KEEPER_TELEPORT</a></div><div class="ttdeci">@ SPELL_KEEPER_TELEPORT</div><div class="ttdef"><b>Definition</b> ulduar.cpp:81</div></div>
+<div class="ttc" id="aulduar_8cpp_html_addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4"><div class="ttname"><a href="../../db/da2/ulduar_8cpp.html#addfe4ba782b5f341c14812aa09dd2f53ad9e0ae4d03a7c40f6506fe6815840ef4">SPELL_ENERGY_SAP_10</a></div><div class="ttdeci">@ SPELL_ENERGY_SAP_10</div><div class="ttdef"><b>Definition</b> ulduar.cpp:83</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -439,29 +442,31 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  548</span>{</div>
-<div class="line"><span class="lineno">  549</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d9e/classnpc__ulduar__keeper.html">npc_ulduar_keeper</a>();</div>
-<div class="line"><span class="lineno">  550</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d0b/classspell__ulduar__energy__sap__aura.html">spell_ulduar_energy_sap_aura</a>);</div>
-<div class="line"><span class="lineno">  551</span>    <a class="code hl_define" href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a>(<a class="code hl_struct" href="../../da/d76/structnpc__ulduar__snow__mound.html">npc_ulduar_snow_mound</a>);</div>
-<div class="line"><span class="lineno">  552</span>    <a class="code hl_define" href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a>(<a class="code hl_struct" href="../../dd/d33/structnpc__ulduar__storm__tempered__keeper.html">npc_ulduar_storm_tempered_keeper</a>);</div>
-<div class="line"><span class="lineno">  553</span>    <a class="code hl_define" href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a>(<a class="code hl_struct" href="../../d6/d59/structnpc__ulduar__arachnopod__destroyer.html">npc_ulduar_arachnopod_destroyer</a>);</div>
-<div class="line"><span class="lineno">  554</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/de8/classspell__ulduar__arachnopod__damaged__aura.html">spell_ulduar_arachnopod_damaged_aura</a>);</div>
-<div class="line"><span class="lineno">  555</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html">AreaTrigger_at_celestial_planetarium_enterance</a>();</div>
-<div class="line"><span class="lineno">  556</span>    <a class="code hl_define" href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a>);</div>
-<div class="line"><span class="lineno">  557</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  583</span>{</div>
+<div class="line"><span class="lineno">  584</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d9e/classnpc__ulduar__keeper.html">npc_ulduar_keeper</a>();</div>
+<div class="line"><span class="lineno">  585</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/de2/classspell__ulduar__teleporter.html">spell_ulduar_teleporter</a>);</div>
+<div class="line"><span class="lineno">  586</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d0b/classspell__ulduar__energy__sap__aura.html">spell_ulduar_energy_sap_aura</a>);</div>
+<div class="line"><span class="lineno">  587</span>    <a class="code hl_define" href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a>(<a class="code hl_struct" href="../../da/d76/structnpc__ulduar__snow__mound.html">npc_ulduar_snow_mound</a>);</div>
+<div class="line"><span class="lineno">  588</span>    <a class="code hl_define" href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a>(<a class="code hl_struct" href="../../dd/d33/structnpc__ulduar__storm__tempered__keeper.html">npc_ulduar_storm_tempered_keeper</a>);</div>
+<div class="line"><span class="lineno">  589</span>    <a class="code hl_define" href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a>(<a class="code hl_struct" href="../../d6/d59/structnpc__ulduar__arachnopod__destroyer.html">npc_ulduar_arachnopod_destroyer</a>);</div>
+<div class="line"><span class="lineno">  590</span>    <a class="code hl_define" href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/de8/classspell__ulduar__arachnopod__damaged__aura.html">spell_ulduar_arachnopod_damaged_aura</a>);</div>
+<div class="line"><span class="lineno">  591</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html">AreaTrigger_at_celestial_planetarium_enterance</a>();</div>
+<div class="line"><span class="lineno">  592</span>    <a class="code hl_define" href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a>);</div>
+<div class="line"><span class="lineno">  593</span>}</div>
 <div class="ttc" id="aCreatureScript_8h_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../de/d4c/CreatureScript_8h.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> CreatureScript.h:71</div></div>
 <div class="ttc" id="aSpellScriptLoader_8h_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d2d/SpellScriptLoader_8h.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aclassAreaTrigger__at__celestial__planetarium__enterance_html"><div class="ttname"><a href="../../de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html">AreaTrigger_at_celestial_planetarium_enterance</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:502</div></div>
-<div class="ttc" id="aclassnpc__ulduar__keeper_html"><div class="ttname"><a href="../../d4/d9e/classnpc__ulduar__keeper.html">npc_ulduar_keeper</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:90</div></div>
-<div class="ttc" id="aclassspell__ulduar__arachnopod__damaged__aura_html"><div class="ttname"><a href="../../d4/de8/classspell__ulduar__arachnopod__damaged__aura.html">spell_ulduar_arachnopod_damaged_aura</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:486</div></div>
-<div class="ttc" id="aclassspell__ulduar__energy__sap__aura_html"><div class="ttname"><a href="../../d7/d0b/classspell__ulduar__energy__sap__aura.html">spell_ulduar_energy_sap_aura</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:215</div></div>
-<div class="ttc" id="astructnpc__salvaged__siege__engine_html"><div class="ttname"><a href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:520</div></div>
-<div class="ttc" id="astructnpc__ulduar__arachnopod__destroyer_html"><div class="ttname"><a href="../../d6/d59/structnpc__ulduar__arachnopod__destroyer.html">npc_ulduar_arachnopod_destroyer</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:382</div></div>
-<div class="ttc" id="astructnpc__ulduar__snow__mound_html"><div class="ttname"><a href="../../da/d76/structnpc__ulduar__snow__mound.html">npc_ulduar_snow_mound</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:236</div></div>
-<div class="ttc" id="astructnpc__ulduar__storm__tempered__keeper_html"><div class="ttname"><a href="../../dd/d33/structnpc__ulduar__storm__tempered__keeper.html">npc_ulduar_storm_tempered_keeper</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:304</div></div>
-<div class="ttc" id="aulduar_8h_html_a931b38afb5ce101cc5629897c67b31be"><div class="ttname"><a href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a></div><div class="ttdeci">#define RegisterUlduarCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> ulduar.h:366</div></div>
+<div class="ttc" id="aclassAreaTrigger__at__celestial__planetarium__enterance_html"><div class="ttname"><a href="../../de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html">AreaTrigger_at_celestial_planetarium_enterance</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:503</div></div>
+<div class="ttc" id="aclassnpc__ulduar__keeper_html"><div class="ttname"><a href="../../d4/d9e/classnpc__ulduar__keeper.html">npc_ulduar_keeper</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:91</div></div>
+<div class="ttc" id="aclassspell__ulduar__arachnopod__damaged__aura_html"><div class="ttname"><a href="../../d4/de8/classspell__ulduar__arachnopod__damaged__aura.html">spell_ulduar_arachnopod_damaged_aura</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:487</div></div>
+<div class="ttc" id="aclassspell__ulduar__energy__sap__aura_html"><div class="ttname"><a href="../../d7/d0b/classspell__ulduar__energy__sap__aura.html">spell_ulduar_energy_sap_aura</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:216</div></div>
+<div class="ttc" id="aclassspell__ulduar__teleporter_html"><div class="ttname"><a href="../../d9/de2/classspell__ulduar__teleporter.html">spell_ulduar_teleporter</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:558</div></div>
+<div class="ttc" id="astructnpc__salvaged__siege__engine_html"><div class="ttname"><a href="../../d1/d96/structnpc__salvaged__siege__engine.html">npc_salvaged_siege_engine</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:521</div></div>
+<div class="ttc" id="astructnpc__ulduar__arachnopod__destroyer_html"><div class="ttname"><a href="../../d6/d59/structnpc__ulduar__arachnopod__destroyer.html">npc_ulduar_arachnopod_destroyer</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:383</div></div>
+<div class="ttc" id="astructnpc__ulduar__snow__mound_html"><div class="ttname"><a href="../../da/d76/structnpc__ulduar__snow__mound.html">npc_ulduar_snow_mound</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:237</div></div>
+<div class="ttc" id="astructnpc__ulduar__storm__tempered__keeper_html"><div class="ttname"><a href="../../dd/d33/structnpc__ulduar__storm__tempered__keeper.html">npc_ulduar_storm_tempered_keeper</a></div><div class="ttdef"><b>Definition</b> ulduar.cpp:305</div></div>
+<div class="ttc" id="aulduar_8h_html_a931b38afb5ce101cc5629897c67b31be"><div class="ttname"><a href="../../d9/df7/ulduar_8h.html#a931b38afb5ce101cc5629897c67b31be">RegisterUlduarCreatureAI</a></div><div class="ttdeci">#define RegisterUlduarCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> ulduar.h:360</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>, <a class="el" href="../../#l00088">RegisterSpellScript</a>, and <a class="el" href="../../#l00366">RegisterUlduarCreatureAI</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>, <a class="el" href="../../#l00088">RegisterSpellScript</a>, and <a class="el" href="../../#l00360">RegisterUlduarCreatureAI</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
@@ -473,7 +478,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_fd35eb90f0e73b64930f951fffa7a603.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../dir_10467085a1f56260d3e93e65d32ed8de.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../db/da2/ulduar_8cpp.html">ulduar.cpp</a></li>
-    <li class="footer">Generated on Tue Feb 24 2026 06:55:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Feb 25 2026 06:58:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -119,6 +119,8 @@ var spell__druid_8cpp =
       [ "SPELL_DRUID_GLYPH_OF_RIP", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aaa9d02578268c605aa96972908926ab92", null ],
       [ "SPELL_DRUID_RIP_DURATION_LACERATE_DMG", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa3694473e4fddb6ef57b45145f9dd9c82", null ],
       [ "SPELL_DRUID_REJUVENATION_T10_PROC", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa5a57d53340800db24fc30b217dd4a3ff", null ],
+      [ "SPELL_DRUID_BALANCE_T10_BONUS", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aad73e656272e0d260ca151a5024f34124", null ],
+      [ "SPELL_DRUID_BALANCE_T10_BONUS_PROC", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa694c1cd147b6ddf3bf159f3c0614e685", null ],
       [ "SPELL_DRUID_LANGUISH", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aae6797caf48ca76200d619589ffe6d777", null ],
       [ "SPELL_DRUID_T9_FERAL_RELIC_BEAR", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa68d6e017085da6a1845b1615d42bf993", null ],
       [ "SPELL_DRUID_T9_FERAL_RELIC_CAT", "db/d55/spell__druid_8cpp.html#aeec0f89a5dcaf62f9b5fd1225eb6eb1aa4d7481c6f88ad8ba8849862f7413dbc9", null ],

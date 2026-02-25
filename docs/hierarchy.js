@@ -1684,6 +1684,7 @@ var hierarchy =
         [ "spell_ulduar_mimiron_mine_explosion", "d4/d95/classspell__ulduar__mimiron__mine__explosion.html", null ],
         [ "spell_ulduar_squeezed_lifeless", "d4/da4/classspell__ulduar__squeezed__lifeless.html", null ],
         [ "spell_ulduar_stone_grip_cast_target", "db/d52/classspell__ulduar__stone__grip__cast__target.html", null ],
+        [ "spell_ulduar_teleporter", "d9/de2/classspell__ulduar__teleporter.html", null ],
         [ "spell_valanar_kinetic_bomb", "d5/d2a/classspell__valanar__kinetic__bomb.html", null ],
         [ "spell_valanar_kinetic_bomb_knockback", "df/d7c/classspell__valanar__kinetic__bomb__knockback.html", null ],
         [ "spell_valanar_kinetic_bomb_summon", "db/df8/classspell__valanar__kinetic__bomb__summon.html", null ],

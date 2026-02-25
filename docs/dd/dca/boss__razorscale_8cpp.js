@@ -65,7 +65,6 @@ var boss__razorscale_8cpp =
       [ "SPELL_CHAIN_2", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca104814a14eeb9d1870ff64a125311ef5", null ],
       [ "SPELL_CHAIN_3", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca184a82424312923dd0101fd411de77b7", null ],
       [ "SPELL_CHAIN_4", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298cae6acaed58805e1c6cb7a249d23756de0", null ],
-      [ "SPELL_LAUNCH_CHAIN", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caa756eb46c3d992396d03a7aca5a28665", null ],
       [ "SPELL_WHIRLWIND", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801", null ],
       [ "SPELL_BATTLE_SHOUT", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298ca4f4b8cd8f87524623197ea23d28c08dc", null ],
       [ "SPELL_STORMSTRIKE_DMG", "dd/dca/boss__razorscale_8cpp.html#a5bd342133be8c2137b831460acc9298caf607053c2fbe203ae33aff560bbe82ae", null ],

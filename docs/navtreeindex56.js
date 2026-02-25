@@ -1,5 +1,13 @@
 var NAVTREEINDEX56 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a1b1c6365ffe43f997a9a6dc549f99464":[7,0,0,0,1,3,5,14,0],
+"d2/d38/northrend__script__loader_8cpp.html#a1cb981f8cde0e4abfb38b82efb4fadfb":[7,0,0,0,1,3,5,14,25],
+"d2/d38/northrend__script__loader_8cpp.html#a1d921e98e5be4d4d399cc5b1401c5d10":[7,0,0,0,1,3,5,14,113],
+"d2/d38/northrend__script__loader_8cpp.html#a1ea721e41d8a17d633b7b434977a807d":[7,0,0,0,1,3,5,14,80],
+"d2/d38/northrend__script__loader_8cpp.html#a1ec461fda59c652788d1a38e62cdea20":[7,0,0,0,1,3,5,14,130],
+"d2/d38/northrend__script__loader_8cpp.html#a1f2f485d0649e510913e07a28b6082a5":[7,0,0,0,1,3,5,14,122],
+"d2/d38/northrend__script__loader_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5":[7,0,0,0,1,3,5,14,73],
+"d2/d38/northrend__script__loader_8cpp.html#a232822e6236513eb23c90943d98fd6dc":[7,0,0,0,1,3,5,14,131],
 "d2/d38/northrend__script__loader_8cpp.html#a2972716154b70d529741fe54021269d6":[7,0,0,0,1,3,5,14,108],
 "d2/d38/northrend__script__loader_8cpp.html#a2b97ed405a382cb7c383c958798fb4df":[7,0,0,0,1,3,5,14,120],
 "d2/d38/northrend__script__loader_8cpp.html#a2c605e9c8b27e970c308e89491e4b541":[7,0,0,0,1,3,5,14,30],
@@ -143,8 +151,8 @@ var NAVTREEINDEX56 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[6,0,2213,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[6,0,2213,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[6,0,969,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,969,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,969,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,969,2,1],
 "d2/d39/classboss__varos.html":[6,0,769],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[6,0,769,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[6,0,769,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bb4524fb9c690612847210c57c384da":[7,0,0,0,1,3,7,5,0,4,1,7],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadf13998632eaa9d781a68474123f21b":[7,0,0,0,1,3,7,5,0,4,1,0],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae523cbc14c66251128efe20bc56cbbd7":[7,0,0,0,1,3,7,5,0,4,1,5],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af137de451469e18686301805adad2a54":[7,0,0,0,1,3,7,5,0,4,1,1],
-"d2/d3d/classnpc__risen__archmage.html":[6,0,2101],
-"d2/d3d/classnpc__risen__archmage.html#a8e8c4913e163c5d649fa79c2eb424864":[6,0,2101,2],
-"d2/d3d/classnpc__risen__archmage.html#adf6dfe2a00325955939c84bcc1e4eb68":[6,0,2101,1],
-"d2/d3d/classspell__gen__summon__tournament__mount.html":[6,0,3109],
-"d2/d3d/classspell__gen__summon__tournament__mount.html#a2af9ee2ccd34c97734c58bfcbb83c8b5":[6,0,3109,1],
-"d2/d3d/classspell__gen__summon__tournament__mount.html#a4421ceaedce16777f8f04b9c40855782":[6,0,3109,2],
-"d2/d3d/classspell__gen__summon__tournament__mount.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5":[6,0,3109,0],
-"d2/d3d/classspell__gen__summon__tournament__mount.html#ab0908d7a15e7554c735d8e5554f7cd65":[6,0,3109,3]
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af137de451469e18686301805adad2a54":[7,0,0,0,1,3,7,5,0,4,1,1]
 };

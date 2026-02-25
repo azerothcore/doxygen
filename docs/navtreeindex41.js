@@ -1,5 +1,11 @@
 var NAVTREEINDEX41 =
 {
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac09868c22ce88ad6bce5f6321c994de6":[7,0,0,0,1,2,16,10,5,52,29],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeac1a101ffc2b3e1c261a1f27c5b95147e":[7,0,0,0,1,2,16,10,5,52,8],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaccdf98ed89e64b2482699a13bc1fd28c":[7,0,0,0,1,2,16,10,5,52,22],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeadeade1270a4a74a43289c8389e164b64":[7,0,0,0,1,2,16,10,5,52,10],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae06346b2541d3e99698435cb0e0bdcf3":[7,0,0,0,1,2,16,10,5,52,6],
+"d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae4231ed105be6058ed4deb6b4a5f3ba0":[7,0,0,0,1,2,16,10,5,52,26],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeae90db694c912c6fdcba4aa700169df3f":[7,0,0,0,1,2,16,10,5,52,7],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaeb6cc5edea088858c2439cb51ada4173":[7,0,0,0,1,2,16,10,5,52,2],
 "d1/daf/Unit_8h.html#a4c5336cd4be5f0162bd4874b0a1e5bdeaec4b16bf2e45d9666bbf47d9380022b5":[7,0,0,0,1,2,16,10,5,52,12],
@@ -174,10 +180,10 @@ var NAVTREEINDEX41 =
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#a0827e177a8268994bb4e63f07993a354":[6,0,4197,2],
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#acea8e256f267dd496e5f573e982dba5f":[6,0,4197,1],
 "d1/db1/classspell__uldaman__sub__boss__agro__keepers.html#af62c176d53589228d5e0077c9fc268a3":[6,0,4197,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[6,0,4322],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[6,0,4322,0],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[6,0,4322,1],
-"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[6,0,4322,2],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html":[6,0,4323],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#a0096e0521c37a4f7f9ab1f2173a807d4":[6,0,4323,0],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#ad55ab81c39e8bf53d1e2066bbeefa712":[6,0,4323,1],
+"d1/db1/classspell__wintergrasp__hide__small__elementals__aura.html#afeccfe29a0e0f192a4242217f9d4b7e5":[6,0,4323,2],
 "d1/db2/classspell__item__mirrens__drinking__hat.html":[6,0,3404],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a14df2ed73118826254a6ffa923063f6c":[6,0,3404,0],
 "d1/db2/classspell__item__mirrens__drinking__hat.html#a1b20ba3fe209ebf0100f32d4013f2d08":[6,0,3404,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX41 =
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a1216634009d635f5a1658cae62f92133":[6,0,1872,0,2],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a126b67aacdfd0d96ad443944e9244f3b":[6,0,1872,0,11],
 "d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a19042362c0dc7da80b81d284d2fa7e4b":[6,0,1872,0,16],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a19527a426055c689a36f5b02e2978307":[6,0,1872,0,5],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a235353e41ee463f43f3d18a7b4f5a75d":[6,0,1872,0,7],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a483e2a5a89b3dc4cfd51bb78732a6af2":[6,0,1872,0,8],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a51c68ff78150b7351dc34edf7a51e1a7":[6,0,1872,0,0],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a66a80c2c36a5fa7a89b30a7c872007d8":[6,0,1872,0,9],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a6ad97b2c11057f936dce4aad04894177":[6,0,1872,0,14],
-"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#aa00ff56a5a906e97ddf4d10d300c85c4":[6,0,1872,0,13]
+"d1/db7/structnpc__hourglass__of__eternity_1_1npc__hourglass__of__eternityAI.html#a19527a426055c689a36f5b02e2978307":[6,0,1872,0,5]
 };
