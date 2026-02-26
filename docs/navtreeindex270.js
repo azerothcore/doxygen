@@ -1,10 +1,5 @@
 var NAVTREEINDEX270 =
 {
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab02e42a863496b27a8f2b745085e30ea":[6,0,707,0,0],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ab4bc9869ad6074a1671b0b18f681a913":[6,0,707,0,2],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abbdaf0b2fe76e6f79126d15a1cecca2a":[6,0,707,0,5],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#abff1b505e9d2d6c826f814b2d43409af":[6,0,707,0,11],
-"da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ac3d9b66097202719781ede743fabc1ea":[6,0,707,0,8],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#acb1e677b2347e0464df832e1d86cd3b5":[6,0,707,0,4],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#ad2d10d5aeebea48809a61eee293ff9da":[6,0,707,0,13],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#addc25d8f87dd9fd627c0bde5944c037a":[6,0,707,0,18],
@@ -205,11 +200,11 @@ var NAVTREEINDEX270 =
 "da/da9/classinstance__ruby__sanctum.html":[6,0,1344],
 "da/da9/classinstance__ruby__sanctum.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb":[6,0,1344,1],
 "da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[6,0,1344,2],
-"da/da9/classspell__slippery__floor__periodic.html":[6,0,4094],
-"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[6,0,4094,3],
-"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[6,0,4094,1],
-"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[6,0,4094,2],
-"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[6,0,4094,0],
+"da/da9/classspell__slippery__floor__periodic.html":[6,0,4093],
+"da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[6,0,4093,3],
+"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[6,0,4093,1],
+"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[6,0,4093,2],
+"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[6,0,4093,0],
 "da/daa/BattlegroundRV_8cpp.html":[7,0,0,0,1,2,8,1,16],
 "da/daa/BattlegroundRV_8cpp.html#a20f119684cfae65594c4cb1fc59e60c1":[7,0,0,0,1,2,8,1,16,1],
 "da/daa/BattlegroundRV_8cpp.html#a6ecc5972946e4de12babadf07ce85e2f":[7,0,0,0,1,2,8,1,16,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX270 =
 "da/dad/structboss__harbinger__skyriss.html#a045ec2371ad99c3465b8f089eb604e0a":[6,0,530,6],
 "da/dad/structboss__harbinger__skyriss.html#a245179f74d61c2671b397e8f2473b599":[6,0,530,0],
 "da/dad/structboss__harbinger__skyriss.html#a2b5152ddeb53d382294bd0fe7455a21e":[6,0,530,2],
-"da/dad/structboss__harbinger__skyriss.html#a873413da06569343225e6659f8277b2c":[6,0,530,1]
+"da/dad/structboss__harbinger__skyriss.html#a873413da06569343225e6659f8277b2c":[6,0,530,1],
+"da/dad/structboss__harbinger__skyriss.html#a8f9e1bd87c80041e07b428ec300ceef8":[6,0,530,5],
+"da/dad/structboss__harbinger__skyriss.html#a97d84139a3e970e22d7d422f2f825f12":[6,0,530,4],
+"da/dad/structboss__harbinger__skyriss.html#adb4cdec41f4b61f82efdb78fe995c313":[6,0,530,3],
+"da/dae/classspell__black__template__harpooners__mark__aura.html":[6,0,2667],
+"da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7":[6,0,2667,1]
 };

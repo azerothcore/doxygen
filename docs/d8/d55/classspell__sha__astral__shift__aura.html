@@ -326,13 +326,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1535</span>    {</div>
-<div class="line"><span class="lineno"> 1536</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>())</div>
-<div class="line"><span class="lineno"> 1537</span>            <span class="keywordflow">if</span> (spellInfo-&gt;GetAllEffectsMechanicMask() &amp; ((1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adaca6c784aae46996e1ab07dce55ae4170">MECHANIC_SILENCE</a>) | (1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a>) | (1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada3f5a5b15800c7e6d11e1c1482fc53f96">MECHANIC_FEAR</a>)))</div>
-<div class="line"><span class="lineno"> 1538</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1539</span> </div>
-<div class="line"><span class="lineno"> 1540</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1541</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1496</span>    {</div>
+<div class="line"><span class="lineno"> 1497</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* spellInfo = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a759add2c89e786125196eb6bd3b20c6d">GetSpellInfo</a>())</div>
+<div class="line"><span class="lineno"> 1498</span>            <span class="keywordflow">if</span> (spellInfo-&gt;GetAllEffectsMechanicMask() &amp; ((1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adaca6c784aae46996e1ab07dce55ae4170">MECHANIC_SILENCE</a>) | (1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a>) | (1 &lt;&lt; <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada3f5a5b15800c7e6d11e1c1482fc53f96">MECHANIC_FEAR</a>)))</div>
+<div class="line"><span class="lineno"> 1499</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1500</span> </div>
+<div class="line"><span class="lineno"> 1501</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1502</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7ada3f5a5b15800c7e6d11e1c1482fc53f96"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada3f5a5b15800c7e6d11e1c1482fc53f96">MECHANIC_FEAR</a></div><div class="ttdeci">@ MECHANIC_FEAR</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1341</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada77412c9a71759f2e8b7f3c629681be4d">MECHANIC_STUN</a></div><div class="ttdeci">@ MECHANIC_STUN</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1348</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a8fe6a763d72d84ded23cec01c772f7adaca6c784aae46996e1ab07dce55ae4170"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adaca6c784aae46996e1ab07dce55ae4170">MECHANIC_SILENCE</a></div><div class="ttdeci">@ MECHANIC_SILENCE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1345</div></div>
@@ -341,7 +341,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00281">ProcEventInfo::GetSpellInfo()</a>, <a class="el" href="../../#l01341">MECHANIC_FEAR</a>, <a class="el" href="../../#l01345">MECHANIC_SILENCE</a>, and <a class="el" href="../../#l01348">MECHANIC_STUN</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01543">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01504">Register()</a>.</p>
 
 </div>
 </div>
@@ -395,14 +395,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1544</span>    {</div>
-<div class="line"><span class="lineno"> 1545</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d8/d55/classspell__sha__astral__shift__aura.html#a705be9d078a9c7b04bcec0594cab9ac5">spell_sha_astral_shift_aura::CheckProc</a>);</div>
-<div class="line"><span class="lineno"> 1546</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1505</span>    {</div>
+<div class="line"><span class="lineno"> 1506</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">DoCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a>(<a class="code hl_function" href="../../d8/d55/classspell__sha__astral__shift__aura.html#a705be9d078a9c7b04bcec0594cab9ac5">spell_sha_astral_shift_aura::CheckProc</a>);</div>
+<div class="line"><span class="lineno"> 1507</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad25bcd0c3aa73ba267fa87ea50bc1780"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad25bcd0c3aa73ba267fa87ea50bc1780">AuraCheckProcFn</a></div><div class="ttdeci">#define AuraCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:829</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab771dd972497502e5202fd48a1d6c17d"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab771dd972497502e5202fd48a1d6c17d">AuraScript::DoCheckProc</a></div><div class="ttdeci">HookList&lt; CheckProcHandler &gt; DoCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:828</div></div>
-<div class="ttc" id="aclassspell__sha__astral__shift__aura_html_a705be9d078a9c7b04bcec0594cab9ac5"><div class="ttname"><a href="../../d8/d55/classspell__sha__astral__shift__aura.html#a705be9d078a9c7b04bcec0594cab9ac5">spell_sha_astral_shift_aura::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:1534</div></div>
+<div class="ttc" id="aclassspell__sha__astral__shift__aura_html_a705be9d078a9c7b04bcec0594cab9ac5"><div class="ttname"><a href="../../d8/d55/classspell__sha__astral__shift__aura.html#a705be9d078a9c7b04bcec0594cab9ac5">spell_sha_astral_shift_aura::CheckProc</a></div><div class="ttdeci">bool CheckProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:1495</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l01534">CheckProc()</a>, and <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00829">AuraCheckProcFn</a>, <a class="el" href="../../#l01495">CheckProc()</a>, and <a class="el" href="../../#l00828">AuraScript::DoCheckProc</a>.</p>
 
 </div>
 </div>
@@ -415,7 +415,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d55/classspell__sha__astral__shift__aura.html">spell_sha_astral_shift_aura</a></li>
-    <li class="footer">Generated on Wed Feb 25 2026 06:59:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Feb 26 2026 06:56:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

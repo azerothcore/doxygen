@@ -1,12 +1,7 @@
 var NAVTREEINDEX199 =
 {
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html":[5,0,34,12,7],
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#a11cf7780eba530026a0898bfafd27109":[6,0,12,12,7,1],
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#a11cf7780eba530026a0898bfafd27109":[5,0,34,12,7,1],
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#aa2b125a271228aee0d942a207de170b7":[6,0,12,12,7,0],
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#aa2b125a271228aee0d942a207de170b7":[5,0,34,12,7,0],
-"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#adfca5feb5be2408e489edc44e9cd215b":[5,0,34,12,7,2],
 "d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#adfca5feb5be2408e489edc44e9cd215b":[6,0,12,12,7,2],
+"d7/d94/classWorldPackets_1_1Pet_1_1PetUnlearnedSpell.html#adfca5feb5be2408e489edc44e9cd215b":[5,0,34,12,7,2],
 "d7/d94/classspell__despawn__underbog__mushrooms.html":[6,0,2768],
 "d7/d94/classspell__despawn__underbog__mushrooms.html#a217953fda43e2c3abdd0d24ddbabc75d":[6,0,2768,1],
 "d7/d94/classspell__despawn__underbog__mushrooms.html#a6b9e449a64747f0a5715424295b1c30f":[6,0,2768,2],
@@ -20,10 +15,10 @@ var NAVTREEINDEX199 =
 "d7/d94/classspell__dru__typhoon.html#a035df6b2e29aa0d2b5558e1cfef96ead":[6,0,2914,2],
 "d7/d94/classspell__dru__typhoon.html#a73666b297ef8bbfd490fee6075b06b3a":[6,0,2914,1],
 "d7/d94/classspell__dru__typhoon.html#ae50d143953074b83183482770046e131":[6,0,2914,0],
-"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html":[6,0,4327],
-"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c":[6,0,4327,0],
-"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ad1eae4d206e9e9e48230f60a2961fddb":[6,0,4327,1],
-"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ae6685e7fd80373f2fc9a37cd4065f8b6":[6,0,4327,2],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html":[6,0,4326],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c":[6,0,4326,0],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ad1eae4d206e9e9e48230f60a2961fddb":[6,0,4326,1],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ae6685e7fd80373f2fc9a37cd4065f8b6":[6,0,4326,2],
 "d7/d94/structmap__liquidHeader.html":[6,0,1497],
 "d7/d94/structmap__liquidHeader.html#a2ddee980eda8b7321b55ba44697688b5":[6,0,1497,6],
 "d7/d94/structmap__liquidHeader.html#a5e7b1d32e42afbeb6898ee02014847cd":[6,0,1497,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX199 =
 "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3ae3129ded3c64bc0778910f4c39b6e7f6":[7,0,0,0,1,2,48,6,7,6],
 "d7/d9a/WorldState_8h.html#ad0c8fcbd6054089a8ad5ce31f8856ff3af71cb6c51675592ad400b429e342792c":[7,0,0,0,1,2,48,6,7,0],
 "d7/d9a/WorldState_8h.html#adc7b7b38a655f2354624ac5335163266":[7,0,0,0,1,2,48,6,19],
-"d7/d9a/WorldState_8h.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b":[7,0,0,0,1,2,48,6,19,2]
+"d7/d9a/WorldState_8h.html#adc7b7b38a655f2354624ac5335163266a4c5ce93e17daa3d8df5b892b3d76af2b":[7,0,0,0,1,2,48,6,19,2],
+"d7/d9a/WorldState_8h.html#adc7b7b38a655f2354624ac5335163266aa2c3350c135eec4653e10f9a416d4ae8":[7,0,0,0,1,2,48,6,19,0],
+"d7/d9a/WorldState_8h.html#adc7b7b38a655f2354624ac5335163266ae87a6f363d942d1928ba2b052ab2f88e":[7,0,0,0,1,2,48,6,19,1],
+"d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690":[7,0,0,0,1,2,48,6,9],
+"d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a18a3aa8c7a1474797f609b125e9e10a3":[7,0,0,0,1,2,48,6,9,2],
+"d7/d9a/WorldState_8h.html#aecf9527110a7255a02e5f9add33dd690a27acc7e6cdaaad5f13ed4df7be56defc":[7,0,0,0,1,2,48,6,9,1]
 };

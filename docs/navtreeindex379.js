@@ -1,10 +1,5 @@
 var NAVTREEINDEX379 =
 {
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba125b4ea317d12715b14359c6236b4659":[7,0,0,0,1,3,7,14,5,9],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba259d6522a87397ef181b1e044655a03d":[7,0,0,0,1,3,7,14,5,19],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba54dd5f261513f2ff74ce1244ca6b1124":[7,0,0,0,1,3,7,14,5,18],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba64a7bf590ec27341ff76882ad6d5d704":[7,0,0,0,1,3,7,14,5,8],
-"de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba6843bfc854a4c39e00685acb402e590c":[7,0,0,0,1,3,7,14,5,3],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba692112c22f75620b0f7f6c33db9e041a":[7,0,0,0,1,3,7,14,5,4],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba69698fd807a2e78a575e841d4dcd6ed7":[7,0,0,0,1,3,7,14,5,2],
 "de/d98/zone__shattrath__city_8cpp.html#a44d53e3bd4dd0381b62455517ce5e04ba852626a57853588410e9702e8834a782":[7,0,0,0,1,3,7,14,5,1],
@@ -138,10 +133,10 @@ var NAVTREEINDEX379 =
 "de/d9f/structSkillPerfectItemEntry.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3":[6,0,2579,0],
 "de/d9f/structSkillPerfectItemEntry.html#a750d5ab6bc3df0026e640f1c84de8547":[6,0,2579,2],
 "de/d9f/structSkillPerfectItemEntry.html#aa7ad968ab1b8804ee8f0f8f40bc6f762":[6,0,2579,4],
-"de/da0/classUpdateRequest.html":[6,0,4531],
-"de/da0/classUpdateRequest.html#a23b3dbcff54691b2710109a822a486a0":[6,0,4531,0],
-"de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[6,0,4531,1],
-"de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[6,0,4531,2],
+"de/da0/classUpdateRequest.html":[6,0,4530],
+"de/da0/classUpdateRequest.html#a23b3dbcff54691b2710109a822a486a0":[6,0,4530,0],
+"de/da0/classUpdateRequest.html#a240bdc56685c270c597588231c3bf8f8":[6,0,4530,1],
+"de/da0/classUpdateRequest.html#a8221fa415f828a4866f85f3983f7dab9":[6,0,4530,2],
 "de/da0/classspell__mage__imp__blizzard.html":[6,0,3581],
 "de/da0/classspell__mage__imp__blizzard.html#a4f3c644a91dab0641ef489fd2da171a2":[6,0,3581,2],
 "de/da0/classspell__mage__imp__blizzard.html#a691f14220a619e1915636417927aaa13":[6,0,3581,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX379 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a080ff8b1f373c21a3274323166dd3624":[7,0,0,0,1,1,0,0,1,1,419],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a083d904d5262a1cce22dae87881ae7ab":[7,0,0,0,1,1,0,0,1,1,151],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a09bcdaf54c39f67b33631d32edfcd746":[7,0,0,0,1,1,0,0,1,1,94],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a09e97d6b8a8fc53d95988ebd26c9deed":[7,0,0,0,1,1,0,0,1,1,295]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a09e97d6b8a8fc53d95988ebd26c9deed":[7,0,0,0,1,1,0,0,1,1,295],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0ab5f8934f7b51c9b64a20e368a1377f":[7,0,0,0,1,1,0,0,1,1,456],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0b03a001e364d56113672ffc6fe7102e":[7,0,0,0,1,1,0,0,1,1,342],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0b232a6d1ebc4ebca547b6f8b2a3e3ed":[7,0,0,0,1,1,0,0,1,1,219],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0b33ccc39fca2e9b8b2bcdaa2577e755":[7,0,0,0,1,1,0,0,1,1,6],
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a0b3648ac24f0e2b0cb46fc7933a02dc0":[7,0,0,0,1,1,0,0,1,1,365]
 };

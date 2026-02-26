@@ -717,7 +717,6 @@ var hierarchy =
         [ "spell_sha_t10_restoration_4p_bonus", "d4/dde/classspell__sha__t10__restoration__4p__bonus.html", null ],
         [ "spell_sha_t3_6p_bonus", "dd/de7/classspell__sha__t3__6p__bonus.html", null ],
         [ "spell_sha_t3_8p_bonus", "d1/dd0/classspell__sha__t3__8p__bonus.html", null ],
-        [ "spell_sha_t8_electrified", "d2/dff/classspell__sha__t8__electrified.html", null ],
         [ "spell_sha_t8_elemental_4p_bonus", "de/d44/classspell__sha__t8__elemental__4p__bonus.html", null ],
         [ "spell_sha_t9_elemental_4p_bonus", "db/d6d/classspell__sha__t9__elemental__4p__bonus.html", null ],
         [ "spell_sha_tidal_force_dummy", "d3/dcb/classspell__sha__tidal__force__dummy.html", null ],

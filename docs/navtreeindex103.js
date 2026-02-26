@@ -1,10 +1,5 @@
 var NAVTREEINDEX103 =
 {
-"d3/d81/structsOnyxMove.html#a7240ecd6f50a6db0e2be4eb4e55b3a48":[6,0,2599,3],
-"d3/d81/structsOnyxMove.html#a7b12c520ee50ab29e5047a1c71b22729":[6,0,2599,1],
-"d3/d81/structsOnyxMove.html#a94c284d63e66765c4d484c8edea8fdb8":[6,0,2599,2],
-"d3/d81/structsOnyxMove.html#abe083129d7a4e514e97eeae7cff40af5":[6,0,2599,5],
-"d3/d81/structsOnyxMove.html#ac49d886d09e2ebf8ccf8abd59a9649ec":[6,0,2599,6],
 "d3/d81/trial__of__the__champion_8h.html":[7,0,0,0,1,3,5,2,0,5],
 "d3/d81/trial__of__the__champion_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,2,0,5,0],
 "d3/d81/trial__of__the__champion_8h.html#a0b356f44d43edb1bff30f404c9469250":[7,0,0,0,1,3,5,2,0,5,4],
@@ -245,9 +240,14 @@ var NAVTREEINDEX103 =
 "d3/d88/SpellHandler_8cpp.html":[7,0,0,0,1,2,22,30],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[6,0,12,1,1],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html":[5,0,34,1,1],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[6,0,12,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[5,0,34,1,1,0],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a35252d9ee72257a0771f3faa274f8029":[6,0,12,1,1,0],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[5,0,34,1,1,2],
 "d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3a8ba139be8eef32193658fa235fc4c5":[6,0,12,1,1,2],
-"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[6,0,12,1,1,3]
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[6,0,12,1,1,3],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#a3cc5c6b822a697df900826b64b5b9759":[5,0,34,1,1,3],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[6,0,12,1,1,1],
+"d3/d88/classWorldPackets_1_1Calendar_1_1CalendarComplain.html#ae955f181fe7b36ba360d5b8e9a53db45":[5,0,34,1,1,1],
+"d3/d88/structTotemCategoryEntry.html":[6,0,4482],
+"d3/d88/structTotemCategoryEntry.html#a2e0f0cb7a05da77dee49bd7221c01d60":[6,0,4482,2]
 };

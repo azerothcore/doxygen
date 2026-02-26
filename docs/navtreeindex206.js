@@ -1,10 +1,5 @@
 var NAVTREEINDEX206 =
 {
-"d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[6,0,3207,1],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html":[6,0,727,0],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a08babc3ca2cd76891b9c0e196e461c79":[6,0,727,0,1],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a2d49f2ce95d16cfc1b9525256f0a6bc2":[6,0,727,0,11],
-"d7/daf/structboss__taerar_1_1boss__taerarAI.html#a35557d97df6d83c9fafead3f59e1af2e":[6,0,727,0,6],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a406213e6b3a1397c0026d5dc857f08a9":[6,0,727,0,7],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a69171fba79d49d12a2e96fb5c2baa0aa":[6,0,727,0,0],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a6b7bd08d3e4362201ee904019f9e6b51":[6,0,727,0,9],
@@ -249,5 +244,10 @@ var NAVTREEINDEX206 =
 "d7/db0/classMap.html#acc7cf060c710e279cdfef16a744ed328":[6,0,1492,57],
 "d7/db0/classMap.html#acd127a41af0319958a7066382e71e293":[6,0,1492,158],
 "d7/db0/classMap.html#acd71e42ca86d66e62fc0360bb4cab851":[6,0,1492,252],
-"d7/db0/classMap.html#ace981bca7a407e53d8f3506b5eecb2da":[6,0,1492,75]
+"d7/db0/classMap.html#ace981bca7a407e53d8f3506b5eecb2da":[6,0,1492,75],
+"d7/db0/classMap.html#ad0a523fd11e3723da2bcdc87abb4b390":[6,0,1492,156],
+"d7/db0/classMap.html#ad30dac23514a184f0809d380fc1f0a61":[6,0,1492,14],
+"d7/db0/classMap.html#ad44a8275dc7b736cc1a9c43eee8bd471":[6,0,1492,2],
+"d7/db0/classMap.html#ad70d62beede9f7db927d4d708e32f0c5":[6,0,1492,68],
+"d7/db0/classMap.html#ad8d292cbfb60dc5fa1d0210eb1f4b0ab":[6,0,1492,72]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX177 =
 {
-"d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1983,10],
-"d6/d73/structnpc__mimirons__inferno.html#a13cda9fcb49493477e4a4111d9858ec1":[6,0,1983,8],
-"d6/d73/structnpc__mimirons__inferno.html#a43a03388c06ef38ab29a1b4d5bc701c6":[6,0,1983,1],
-"d6/d73/structnpc__mimirons__inferno.html#a77ddb0fbd9f0c2334df122d91913300b":[6,0,1983,3],
-"d6/d73/structnpc__mimirons__inferno.html#a7a0be8291200404285277c3689c54106":[6,0,1983,11],
 "d6/d73/structnpc__mimirons__inferno.html#a9b5176d6f1712d36283b0ebeeddee5b2":[6,0,1983,6],
 "d6/d73/structnpc__mimirons__inferno.html#ac74ee90383d6ac140d6187c6115716ed":[6,0,1983,9],
 "d6/d73/structnpc__mimirons__inferno.html#acc2e756af50ebde8300c46ec6f369760":[6,0,1983,4],
@@ -244,10 +239,15 @@ var NAVTREEINDEX177 =
 "d6/d7a/SpellProcChanceTest_8cpp.html#aeef06ffd03eb849db7c9ea03090d7089":[7,0,0,0,2,2,0,6,3,16],
 "d6/d7a/SpellProcChanceTest_8cpp.html#af95c1f926cfd5f0172818790e5a8dad0":[7,0,0,0,2,2,0,6,3,9],
 "d6/d7c/WardenMac_8h.html":[7,0,0,0,1,2,46,7],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[5,0,1,31],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html":[6,0,0,19],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[5,0,1,31,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a2e9cbff4e627fe8ccf67997123afe0a6":[6,0,0,19,0],
 "d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[5,0,1,31,1],
-"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,19,1]
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a314a4800047f7e661cd011010b3f148e":[6,0,0,19,1],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[6,0,0,19,2],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a37318ae783e6cf4a658063aab149e8a3":[5,0,1,31,2],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[6,0,0,19,4],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#a4bcf67be5bae4649d82586349d30be04":[5,0,1,31,4],
+"d6/d7c/classAcore_1_1AnyAssistCreatureInRangeCheck.html#add1071091d1696c3f537483810dcb6f1":[6,0,0,19,3]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX326 =
 {
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#add44fd9ad05267cc5db256b112db2585":[7,0,0,0,1,3,2,17,122],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#add963c2bc2b515348b9b7c636d176927":[7,0,0,0,1,3,2,17,138],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adddf7149f93506373434f27a27ec17c8":[7,0,0,0,1,3,2,17,105],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae12754fa9b1801326b9eb6b618d6b48b":[7,0,0,0,1,3,2,17,139],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae2f3bbb94b06940b4d2aa67f726ee011":[7,0,0,0,1,3,2,17,42],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4736d19ec246f377527359fac0e8e8b":[7,0,0,0,1,3,2,17,75],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae4d8848387918b6d4fbc1efdbb445f12":[7,0,0,0,1,3,2,17,55],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae5733b68f3b4e0c7e7a948f26165e388":[7,0,0,0,1,3,2,17,47],
@@ -249,5 +244,10 @@ var NAVTREEINDEX326 =
 "dc/de3/classspell__pal__beacon__of__light.html#ad752eaecf8b0b3efcc7f61d88fb447d9":[6,0,3692,2],
 "dc/de3/structboss__isalien.html":[6,0,561],
 "dc/de3/structboss__isalien.html#a4995c18e2baa62d05717617d0b1e3529":[6,0,561,5],
-"dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[6,0,561,2]
+"dc/de3/structboss__isalien.html#a6544b5eb398eb2fc9cae05709e4a5cc1":[6,0,561,2],
+"dc/de3/structboss__isalien.html#a736a25e60ae367a45c7d6451be96126d":[6,0,561,0],
+"dc/de3/structboss__isalien.html#a84a94a1a8889b48cd02d5cb6a205a487":[6,0,561,4],
+"dc/de3/structboss__isalien.html#a8eb56a907e3395b9e81588aab7c07ca6":[6,0,561,8],
+"dc/de3/structboss__isalien.html#a954bbd32948e6c416197199d96142056":[6,0,561,7],
+"dc/de3/structboss__isalien.html#a95d461e099193b5e2c1363acb1b5939a":[6,0,561,1]
 };

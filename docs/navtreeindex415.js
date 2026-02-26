@@ -1,10 +1,5 @@
 var NAVTREEINDEX415 =
 {
-"df/df9/structnpc__brann__bronzebeard__algalon.html#a5403badf59f96111aefaddf78379e65f":[6,0,1680,4],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#a6d44478868a74ed7baac757258334806":[6,0,1680,1],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ac00755dca7e187b55516be889386c499":[6,0,1680,0],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ad74f8f8a31431dd2eaa4279e6a8fae36":[6,0,1680,3],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[6,0,1680,5],
 "df/dfa/structnpc__hover__disk.html":[6,0,1873],
 "df/dfa/structnpc__hover__disk.html#a073e1161eda3b714ad0d7ea96f865b6d":[6,0,1873,7],
 "df/dfa/structnpc__hover__disk.html#a0ad97e511bd01c269c04d2ccfe007f91":[6,0,1873,3],
@@ -19,10 +14,10 @@ var NAVTREEINDEX415 =
 "df/dfc/classspell__item__pet__healing.html#a61a84072d467596b8b2b2704ecbca03a":[6,0,3417,1],
 "df/dfc/classspell__item__pet__healing.html#aa1d3ef35912daa094bd9527280d0064b":[6,0,3417,3],
 "df/dfc/classspell__item__pet__healing.html#ad96085df198965575061ab989195983a":[6,0,3417,0],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,4152],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,4152,2],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,4152,1],
-"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,4152,0],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html":[6,0,4151],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a172490b953b958df354394e947b7cfd0":[6,0,4151,2],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a5405e4547ec6cbc05acceb72d1b16530":[6,0,4151,1],
+"df/dfc/classspell__the__lich__king__jump__remove__aura.html#a6f9b2c00cdc050ff25ec37f5b7610c71":[6,0,4151,0],
 "df/dff/classinstance__old__hillsbrad.html":[6,0,1338],
 "df/dff/classinstance__old__hillsbrad.html#a1929c38b1c745b2df1ccaf462113e220":[6,0,1338,2],
 "df/dff/classinstance__old__hillsbrad.html#a1ba2d39ae8f9209055de4b944cc535d8":[6,0,1338,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX415 =
 "dir_d90aaa2ea94453e3d8129317a50f1cad.html":[7,0,0,0,1,3,2,1,2],
 "dir_d9de844c1d859dc2cc6a65181dd33644.html":[7,0,0,0,1,2,8,1],
 "dir_da01a965bae6fd871215c00876339143.html":[7,0,0,0,1,3,7,3],
-"dir_ddeb450e5fe586f747c0635391d1d1d6.html":[7,0,0,0,1,3,2]
+"dir_ddeb450e5fe586f747c0635391d1d1d6.html":[7,0,0,0,1,3,2],
+"dir_df159a8f325d88d9d469ac728430a4fa.html":[7,0,0,0,1,4,0],
+"dir_e068b882fd581e5818b3e126213c1b22.html":[7,0,0,0,1,3,4,1,0],
+"dir_e130f032a9c2fe76630794320043c894.html":[7,0,0,0,1,2,20],
+"dir_e30894caaa8ce00721e2b63527d5c720.html":[7,0,0,0,1,2,10],
+"dir_e56388218ded62e9fe679e8749c12bd9.html":[7,0,0,0,1,3,7,0,1]
 };

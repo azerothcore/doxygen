@@ -1,10 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a800fbab7d9796285b151916518d4ef8c":[7,0,0,0,1,3,5,4,1,3,11,11],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a8139f09a125bcff861939fd6fb4d054f":[7,0,0,0,1,3,5,4,1,3,11,35],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83723489e700cdad48c4b497900b07e4":[7,0,0,0,1,3,5,4,1,3,11,14],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83b0bd7fe47a9d47ec60aed062c0fa18":[7,0,0,0,1,3,5,4,1,3,11,77],
-"d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83d8ff631b83cf7438514e61d8a9c5a6":[7,0,0,0,1,3,5,4,1,3,11,37],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a83f322cea32d954b21a77e39e6ea1ff6":[7,0,0,0,1,3,5,4,1,3,11,74],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a841956620dda1005c6b7d187c9985a71":[7,0,0,0,1,3,5,4,1,3,11,58],
 "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a89ff42ca7c867d9d2f768eb9ae403204":[7,0,0,0,1,3,5,4,1,3,11,83],
@@ -222,8 +217,8 @@ var NAVTREEINDEX122 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2684],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2684,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2684,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX122 =
 "d4/d27/structinstance__serpent__shrine_1_1instance__serpentshrine__cavern__InstanceMapScript.html#af3ca65eef9902a029f5b836d0b6fd58a":[6,0,1348,0,7],
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html":[6,0,1814,0],
 "d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a116908f5689d6d75570379f13ed0bd90":[6,0,1814,0,4],
-"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a16682657d7cfb03ccd9f31d481c7af83":[6,0,1814,0,9]
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a16682657d7cfb03ccd9f31d481c7af83":[6,0,1814,0,9],
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a42a53fedc36aa71f52900a416e414fc6":[6,0,1814,0,1],
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a4baa20089b50acee617c4b85bc6b8478":[6,0,1814,0,5],
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a645dd6d85676cdd7ec1845c184dd2f93":[6,0,1814,0,6],
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a6f2e29ca9c859fe96648a2b55ccb773f":[6,0,1814,0,10],
+"d4/d27/structnpc__frostwing__vrykul_1_1npc__frostwing__vrykulAI.html#a810d1b1829623836f88b5a3ddfc277c5":[6,0,1814,0,7]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX393 =
 {
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae6e122f4ee7b8192beae27168da3a245":[7,0,0,0,1,2,16,5,0,4,6,173],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae93848f47aefd5711275363eb160d8f0":[7,0,0,0,1,2,16,5,0,4,6,62],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881ae95201f0e38555fba872b05aae0847e1":[7,0,0,0,1,2,16,5,0,4,6,90],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aea67e139c1fd791a6ef4d5595f8c6d7f":[7,0,0,0,1,2,16,5,0,4,6,104],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aebcd916152e7d9118c4a4fb15bc7cc9e":[7,0,0,0,1,2,16,5,0,4,6,212],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aec5a53232e5ddee6a77c6b1339b908b6":[7,0,0,0,1,2,16,5,0,4,6,236],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aed253017fbffa608b66ca1e45802f968":[7,0,0,0,1,2,16,5,0,4,6,250],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aed4ac27a8cc705415c9f4001f95f0216":[7,0,0,0,1,2,16,5,0,4,6,102],
@@ -176,10 +171,10 @@ var NAVTREEINDEX393 =
 "df/d27/classspell__gen__bm__off.html":[6,0,2993],
 "df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[6,0,2993,1],
 "df/d27/classspell__gen__bm__off.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5":[6,0,2993,0],
-"df/d28/classTransaction.html":[6,0,4486],
-"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[6,0,4486,0],
-"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4486,1],
-"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4486,2],
+"df/d28/classTransaction.html":[6,0,4485],
+"df/d28/classTransaction.html#a290b052f7cbd321c646e9e5e19484444":[6,0,4485,0],
+"df/d28/classTransaction.html#a867b7a92080104278aef5fb4975a4a52":[6,0,4485,1],
+"df/d28/classTransaction.html#aa0a81814abe26d456018c3bc9153cd4d":[6,0,4485,2],
 "df/d29/oculus_8h.html":[7,0,0,0,1,3,5,8,2,6],
 "df/d29/oculus_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,8,2,6,0],
 "df/d29/oculus_8h.html#a0e34bfee1d19a882b3f839910a0df5c5":[7,0,0,0,1,3,5,8,2,6,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX393 =
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ad12541907c439117cf8c8a6741c07445":[6,0,2098,0,12],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ad161bb0a6c76d223b1e687a1cc604375":[6,0,2098,0,4],
 "df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ade0c279565236eb3fd59fd43eef4c3e1":[6,0,2098,0,10],
-"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae515d0b1d383c48e40fa4795edd1b247":[6,0,2098,0,2]
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae515d0b1d383c48e40fa4795edd1b247":[6,0,2098,0,2],
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#ae89b397bafdcb06e94fa94c18ef0d2c8":[6,0,2098,0,0],
+"df/d29/structnpc__rimefang_1_1npc__rimefangAI.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9":[6,0,2098,0,11],
+"df/d2a/StringFormat_8cpp.html":[7,0,0,0,0,15,28],
+"df/d2a/StringFormat_8cpp.html#a39e286b6ca47198eba4d5e31cef66aa5":[7,0,0,0,0,15,28,0],
+"df/d2a/classboss__sjonnir__dwarf.html":[6,0,710]
 };

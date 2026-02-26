@@ -1,11 +1,6 @@
 var NAVTREEINDEX334 =
 {
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[6,0,0,5,0,31,0],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[5,0,1,8,0,31,0],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
 "dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12],
 "dd/d3a/BattlegroundMgr_8h.html#a0167dc8561c0fb4a41f0eaa6bea38980":[7,0,0,0,1,2,8,12,6],
 "dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,12,9],
@@ -245,9 +240,14 @@ var NAVTREEINDEX334 =
 "dd/d3d/classnpc__living__mojo.html#af24190023549b4ec5fa47b5959618a8a":[6,0,1945,1],
 "dd/d3d/instance__razorfen__kraul_8cpp.html":[7,0,0,0,1,3,4,7,0],
 "dd/d3d/instance__razorfen__kraul_8cpp.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0":[7,0,0,0,1,3,4,7,0,2],
-"dd/d3e/classspell__wintergrasp__water.html":[6,0,4326],
-"dd/d3e/classspell__wintergrasp__water.html#a01225e48eaf2a6dfe13da245725b0a64":[6,0,4326,2],
-"dd/d3e/classspell__wintergrasp__water.html#a5139e3e9cb1c9079798cefc3cb04d387":[6,0,4326,1],
-"dd/d3e/classspell__wintergrasp__water.html#afde7c1e90f2faa9c587490ce358a59b2":[6,0,4326,0],
-"dd/d3f/AchievementCriteriaScript_8cpp.html":[7,0,0,0,1,2,38,0,2]
+"dd/d3e/classspell__wintergrasp__water.html":[6,0,4325],
+"dd/d3e/classspell__wintergrasp__water.html#a01225e48eaf2a6dfe13da245725b0a64":[6,0,4325,2],
+"dd/d3e/classspell__wintergrasp__water.html#a5139e3e9cb1c9079798cefc3cb04d387":[6,0,4325,1],
+"dd/d3e/classspell__wintergrasp__water.html#afde7c1e90f2faa9c587490ce358a59b2":[6,0,4325,0],
+"dd/d3f/AchievementCriteriaScript_8cpp.html":[7,0,0,0,1,2,38,0,2],
+"dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
+"dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
+"dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,10,8]
 };

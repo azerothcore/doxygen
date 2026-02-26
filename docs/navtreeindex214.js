@@ -1,10 +1,5 @@
 var NAVTREEINDEX214 =
 {
-"d8/d08/spell__warrior_8cpp.html#a3525a442f39985394d99136a32ab3f1aa8b8be7cbf60a21286583cb5f48683432":[7,0,0,0,1,3,9,12,36,1],
-"d8/d08/spell__warrior_8cpp.html#a3525a442f39985394d99136a32ab3f1aacf6bfff1b74b44928d81308a6d8c2f4a":[7,0,0,0,1,3,9,12,36,2],
-"d8/d08/spell__warrior_8cpp.html#a3525a442f39985394d99136a32ab3f1aaea270ba1ac1e5c6c184d3091c614576f":[7,0,0,0,1,3,9,12,36,3],
-"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768":[7,0,0,0,1,3,9,12,39],
-"d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a00bc1de59a4d5ef5237e7ef4052b5077":[7,0,0,0,1,3,9,12,39,7],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a099d2b17aad4abc8896d537aa7a4b4cf":[7,0,0,0,1,3,9,12,39,17],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a0b67afafd1482293cdf73e74db692992":[7,0,0,0,1,3,9,12,39,39],
 "d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a17fc66a9c951dfa17d22d64bef636291":[7,0,0,0,1,3,9,12,39,41],
@@ -97,12 +92,12 @@ var NAVTREEINDEX214 =
 "d8/d0d/instance__maraudon_8cpp.html#a6ab7baf162a5cf99b16fb0a26d7973cb":[7,0,0,0,1,3,4,3,0,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[6,0,10,0,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html":[5,0,31,0,1],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[6,0,10,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[5,0,31,0,1,0],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a0caefac43d2f5c59446e2a9f7e565c11":[6,0,10,0,1,0],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[6,0,10,0,1,3],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#a46eda7aed64f2a5b0bd5ce1f88942c20":[5,0,31,0,1,3],
-"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,10,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[5,0,31,0,1,1],
+"d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#abfae4e75223a93b5b71840f60710afb9":[6,0,10,0,1,1],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[6,0,10,0,1,2],
 "d8/d0d/structVMAP_1_1AreaAndLiquidData_1_1LiquidInfo.html#ade8f31cc9adc77ff82724134b5ebba24":[5,0,31,0,1,2],
 "d8/d0d/structnpc__living__inferno_1_1npc__living__infernoAI.html":[6,0,1944,0],
@@ -236,8 +231,8 @@ var NAVTREEINDEX214 =
 "d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,152,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[5,0,34,23],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html":[6,0,12,23],
-"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,12,23,0],
 "d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[5,0,34,23,0],
+"d8/d14/classWorldPackets_1_1InvalidUtf8ValueException.html#ad629b46d769fbf8784ce3c4a04c1f121":[6,0,12,23,0],
 "d8/d14/instance__shattered__halls_8cpp.html":[7,0,0,0,1,3,7,4,3,4],
 "d8/d14/instance__shattered__halls_8cpp.html#a206458c4d90391b7cb2b182c06ad6360":[7,0,0,0,1,3,7,4,3,4,3],
 "d8/d14/instance__shattered__halls_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,4,3,4,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX214 =
 "d8/d15/classCharacterDatabaseConnection.html#a01224074cff69c86792d0b77e804d7f4":[6,0,866,3],
 "d8/d15/classCharacterDatabaseConnection.html#a7527387a1261a4307515ed0c56dd6520":[6,0,866,0],
 "d8/d15/classCharacterDatabaseConnection.html#aa7308d6978756861043c1c0c861bfffc":[6,0,866,1],
-"d8/d15/classCharacterDatabaseConnection.html#af7c6148029613ce06159b5867bba9cad":[6,0,866,2]
+"d8/d15/classCharacterDatabaseConnection.html#af7c6148029613ce06159b5867bba9cad":[6,0,866,2],
+"d8/d15/classCharacterDatabaseConnection.html#afbbb8d2bb335119e5bc8b37764301db5":[6,0,866,4],
+"d8/d15/classdtQueryFilterExt.html":[6,0,1003],
+"d8/d15/classdtQueryFilterExt.html#a0845f84350babaebbf0254c3d0f215e1":[6,0,1003,0],
+"d8/d15/classgo__bristlelimb__cage.html":[6,0,1141],
+"d8/d15/classgo__bristlelimb__cage.html#a6f29e07550767c1c0610f46e4921503f":[6,0,1141,1]
 };

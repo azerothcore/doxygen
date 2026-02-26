@@ -1,10 +1,5 @@
 var NAVTREEINDEX376 =
 {
-"de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#afb44bdf61319bea21975898f9be0adac":[6,0,1369,0,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html":[6,0,1589,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2142cebc84e64919fa5c2ef630453282":[6,0,1589,0,0],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c1bbe079c065745782adfa13b030515":[6,0,1589,0,1],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[6,0,1589,0,3],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aac071887c100f91cc7ffc545ea6439d9":[6,0,1589,0,4],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aba8ad016f0e470b07163fef07b603380":[6,0,1589,0,5],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#ae192a3b38c0ec65cddfce3b95d15555a":[6,0,1589,0,2],
@@ -171,8 +166,8 @@ var NAVTREEINDEX376 =
 "de/d79/classGuild.html#af76df3509c1f01fd6bf2ff07aea4de36":[6,0,1262,58],
 "de/d79/classGuild.html#af805b19f736df4c51bacbf96a8e5d38c":[6,0,1262,102],
 "de/d79/classGuild.html#afa4b8cefd0140b86ee10d67c0734e17e":[6,0,1262,104],
-"de/d79/classSpellProcAttributeTest.html":[6,0,4388],
-"de/d79/classSpellProcAttributeTest.html#a3435d06dcb74c39719a1b141bd50cb23":[6,0,4388,0],
+"de/d79/classSpellProcAttributeTest.html":[6,0,4387],
+"de/d79/classSpellProcAttributeTest.html#a3435d06dcb74c39719a1b141bd50cb23":[6,0,4387,0],
 "de/d79/structMMAP_1_1IntermediateValues.html":[6,0,6,2],
 "de/d79/structMMAP_1_1IntermediateValues.html":[5,0,21,2],
 "de/d79/structMMAP_1_1IntermediateValues.html#a00b7be3482af7973667e13f8c5cbc203":[6,0,6,2,7],
@@ -249,5 +244,10 @@ var NAVTREEINDEX376 =
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca248eca01cf3e30b7ab8e432a43367ece":[7,0,0,0,1,3,7,0,0,1,3,3],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca258574c4fada51659dd69eac0086d02d":[7,0,0,0,1,3,7,0,0,1,3,12],
 "de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,7,0,0,1,3,11],
-"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,0,0,1,3,6]
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,0,0,1,3,6],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298ca96202845ce0a0e2a5099d834b3cc8cc4":[7,0,0,0,1,3,7,0,0,1,3,10],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298caa0cfe2b0e6e353cf8f8e4fc864ba9a0a":[7,0,0,0,1,3,7,0,0,1,3,1],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298caa664d912f53e50768282c551e086cc01":[7,0,0,0,1,3,7,0,0,1,3,9],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826":[7,0,0,0,1,3,7,0,0,1,3,7],
+"de/d7f/boss__exarch__maladaar_8cpp.html#a5bd342133be8c2137b831460acc9298cac3ce3112661d749306b57b8b47599903":[7,0,0,0,1,3,7,0,0,1,3,8]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX414 =
 {
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#a904a57d99527b6ff47d4f9ab8751a4a5":[6,0,1867,0,1],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#adcee3757198acfaf4fd4dc8765b86a98":[6,0,1867,0,5],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#aed675a5238ca6a6312d1758ecbe86aa2":[6,0,1867,0,2],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#aeeea82d3e5869e5f604314474533975c":[6,0,1867,0,3],
-"df/dee/structnpc__hor__lich__king_1_1npc__hor__lich__kingAI.html#af55dd229cd141ffab701c6ab77304127":[6,0,1867,0,13],
 "df/df0/structboss__flamegor_1_1boss__flamegorAI.html":[6,0,483,0],
 "df/df0/structboss__flamegor_1_1boss__flamegorAI.html#a2e5146815e533cf62e0084a54aa222d5":[6,0,483,0,2],
 "df/df0/structboss__flamegor_1_1boss__flamegorAI.html#a4b3d46c3faa566095b0cedad3df9f057":[6,0,483,0,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX414 =
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#aed4c70f571586c8cbcc044c01bdc472d":[6,0,700,0,5],
 "df/df9/structboss__saviana__ragefire_1_1boss__saviana__ragefireAI.html#af36ca2a359f950a10214d07aad240324":[6,0,700,0,7],
 "df/df9/structnpc__brann__bronzebeard__algalon.html":[6,0,1680],
-"df/df9/structnpc__brann__bronzebeard__algalon.html#a33af1a38ab2827aec38f95e57e54f589":[6,0,1680,2]
+"df/df9/structnpc__brann__bronzebeard__algalon.html#a33af1a38ab2827aec38f95e57e54f589":[6,0,1680,2],
+"df/df9/structnpc__brann__bronzebeard__algalon.html#a5403badf59f96111aefaddf78379e65f":[6,0,1680,4],
+"df/df9/structnpc__brann__bronzebeard__algalon.html#a6d44478868a74ed7baac757258334806":[6,0,1680,1],
+"df/df9/structnpc__brann__bronzebeard__algalon.html#ac00755dca7e187b55516be889386c499":[6,0,1680,0],
+"df/df9/structnpc__brann__bronzebeard__algalon.html#ad74f8f8a31431dd2eaa4279e6a8fae36":[6,0,1680,3],
+"df/df9/structnpc__brann__bronzebeard__algalon.html#ae63e7d3c53c3039186221c8b59c43e3e":[6,0,1680,5]
 };

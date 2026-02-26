@@ -1,10 +1,5 @@
 var NAVTREEINDEX264 =
 {
-"da/d74/structfile__MVER.html#adb92d3e9f7e35255a2e6e147d51ba8fc":[6,0,1051,3],
-"da/d74/structfile__MVER.html#afbaa5fdd612d1c93f7f07aa299d144ad":[6,0,1051,0],
-"da/d75/Socket_8h.html":[7,0,0,0,1,4,1,2],
-"da/d75/Socket_8h.html#a16ba013af02b9d4400b5e47d8daa022b":[7,0,0,0,1,4,1,2,1],
-"da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3":[7,0,0,0,1,4,1,2,5],
 "da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5":[7,0,0,0,1,4,1,2,5,0],
 "da/d75/Socket_8h.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481":[7,0,0,0,1,4,1,2,5,1],
 "da/d75/Socket_8h.html#a7ddce6d0420753babeb6258ada50eec1":[7,0,0,0,1,4,1,2,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX264 =
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4395f0b5b835d9573a230823018c41a2":[7,0,0,0,1,3,5,6,10,76,25],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4591f914abb219a4790b45f2846152cf":[7,0,0,0,1,3,5,6,10,76,51],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca45fc8673f164308f0c496cc16271b1e5":[7,0,0,0,1,3,5,6,10,76,14],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca46726b2ace592519496eb8a40e6bd68d":[7,0,0,0,1,3,5,6,10,76,8]
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca46726b2ace592519496eb8a40e6bd68d":[7,0,0,0,1,3,5,6,10,76,8],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca477edfee07566a27f2ed8d02a0b8b79c":[7,0,0,0,1,3,5,6,10,76,3],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca486f50cd0d2ec4ffbb9917e0d95659eb":[7,0,0,0,1,3,5,6,10,76,75],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4af04a4a8a87f181296d7a4d944eb8cf":[7,0,0,0,1,3,5,6,10,76,21],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4c6127902fff4840cc0d0bd881af150f":[7,0,0,0,1,3,5,6,10,76,69],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca4d043a85dac2b43234076f36d494b175":[7,0,0,0,1,3,5,6,10,76,28]
 };

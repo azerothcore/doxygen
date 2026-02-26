@@ -1,10 +1,5 @@
 var NAVTREEINDEX131 =
 {
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca7e22cb3fe0c7aa0479c372658a550fd3":[7,0,0,0,1,3,2,1,2,6,21,10],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca85a709d6db4db1d7de162bab489085dc":[7,0,0,0,1,3,2,1,2,6,21,34],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca980a044673f4bad411f269b6e999f748":[7,0,0,0,1,3,2,1,2,6,21,0],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca9920244895e362fd1d3b8789ac5f5811":[7,0,0,0,1,3,2,1,2,6,21,3],
-"d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298ca9e392d888ec9b34ec132207299aef62f":[7,0,0,0,1,3,2,1,2,6,21,38],
 "d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298caa3626d5428ab2d05b8d93fe51d7c9438":[7,0,0,0,1,3,2,1,2,6,21,1],
 "d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298caabd8e61063e4c654419a9e07d3f76078":[7,0,0,0,1,3,2,1,2,6,21,32],
 "d4/d7b/boss__nefarian_8cpp.html#a5bd342133be8c2137b831460acc9298cab043e44c607199afb73be64d2cb02945":[7,0,0,0,1,3,2,1,2,6,21,18],
@@ -92,13 +87,13 @@ var NAVTREEINDEX131 =
 "d4/d7e/structnpc__assembly__lightning.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8":[6,0,1638,6],
 "d4/d7f/structPointOfInterestLocale.html":[6,0,2438],
 "d4/d7f/structPointOfInterestLocale.html#a624a1c1204cbc15acfc810a7720b8ea0":[6,0,2438,0],
-"d4/d80/structWMOAreaTableEntry.html":[6,0,4597],
-"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[6,0,4597,3],
-"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[6,0,4597,2],
-"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[6,0,4597,4],
-"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4597,5],
-"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4597,1],
-"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4597,0],
+"d4/d80/structWMOAreaTableEntry.html":[6,0,4596],
+"d4/d80/structWMOAreaTableEntry.html#a09052bad3028899580ffedd556672b64":[6,0,4596,3],
+"d4/d80/structWMOAreaTableEntry.html#a60f9a61948d1e28587c9d1a338730f37":[6,0,4596,2],
+"d4/d80/structWMOAreaTableEntry.html#a70e3e94df9d0b0b1c114ed1001768066":[6,0,4596,4],
+"d4/d80/structWMOAreaTableEntry.html#a7997c7ac31abdb40f2e7f0e0a7e04403":[6,0,4596,5],
+"d4/d80/structWMOAreaTableEntry.html#a7f652c68036429350543fc5a2cc6861e":[6,0,4596,1],
+"d4/d80/structWMOAreaTableEntry.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0":[6,0,4596,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html":[6,0,633,0],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a02a3bc20ca7b1b750bfd1bd29f093dd2":[6,0,633,0,8],
 "d4/d80/structboss__moorabi_1_1boss__moorabiAI.html#a1fa46ac21b28ff49382c7389a46fad75":[6,0,633,0,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX131 =
 "d4/d81/boss__faction__champions_8cpp.html#a4649327707512e3d2b8350a2614da093ab0dea4de61535b7690ae66cfa6440f58":[7,0,0,0,1,3,5,2,1,1,36,6],
 "d4/d81/boss__faction__champions_8cpp.html#a4649327707512e3d2b8350a2614da093abe500eadf9d63f2f5340e4b8a94a118f":[7,0,0,0,1,3,5,2,1,1,36,0],
 "d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481":[7,0,0,0,1,3,5,2,1,1,65],
-"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a4b8106aaab8b34ddd83dae8cb530da42":[7,0,0,0,1,3,5,2,1,1,65,7]
+"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a4b8106aaab8b34ddd83dae8cb530da42":[7,0,0,0,1,3,5,2,1,1,65,7],
+"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a4e01d6eb679ee834da7c1640952f98e7":[7,0,0,0,1,3,5,2,1,1,65,5],
+"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,5,2,1,1,65,4],
+"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a5b8dc7951828e9c3b9658279646bb47d":[7,0,0,0,1,3,5,2,1,1,65,9],
+"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a5e89b71161222e725b57fce4f50e0ef4":[7,0,0,0,1,3,5,2,1,1,65,0],
+"d4/d81/boss__faction__champions_8cpp.html#a50fdb9aced3566f66426b380ceeff481a8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,5,2,1,1,65,6]
 };

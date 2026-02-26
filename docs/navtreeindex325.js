@@ -1,10 +1,5 @@
 var NAVTREEINDEX325 =
 {
-"dc/dd4/classflag96.html#a8a64335d82e361162fdade6288b7ae1f":[6,0,1059,8],
-"dc/dd4/classflag96.html#a8ba92013e7c9863ed1f23fcf2c677268":[6,0,1059,21],
-"dc/dd4/classflag96.html#aba036b2e11561fd76165054e06dbf6b4":[6,0,1059,1],
-"dc/dd4/classflag96.html#ac335aaf38f9dcd9afdde58b7412c5082":[6,0,1059,10],
-"dc/dd4/classflag96.html#ac460f571a26d61462c2cda4b3388752c":[6,0,1059,6],
 "dc/dd4/classflag96.html#ac7fcf4d74fa4d6b580e3b204c97964dd":[6,0,1059,20],
 "dc/dd4/classflag96.html#ad7dd7bba12e955d0ec70e2df24d23ef9":[6,0,1059,17],
 "dc/dd4/classflag96.html#ad9b2afb9b2de6cd8a8779d1646efd2ab":[6,0,1059,13],
@@ -56,11 +51,11 @@ var NAVTREEINDEX325 =
 "dc/dd7/classboss__wushoolay.html":[6,0,792],
 "dc/dd7/classboss__wushoolay.html#a68359ee086bb4e86c3c16c4a03e54893":[6,0,792,1],
 "dc/dd7/classboss__wushoolay.html#a70b476358956fd05d6effb75517e2b3d":[6,0,792,2],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[6,0,4165],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[6,0,4165,2],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[6,0,4165,1],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[6,0,4165,0],
-"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[6,0,4165,3],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html":[6,0,4164],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a0fc7ca43a0d82058fc04277742231388":[6,0,4164,2],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#a5bb82c03f7c34e6febd3fe8aa57d4723":[6,0,4164,1],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#adfbfcf4ad8671ca4eaa439705f7b6c2a":[6,0,4164,0],
+"dc/dd7/classspell__the__lich__king__soul__rip__aura.html#ae52c7c189a45a0bb5f3a627f502e3730":[6,0,4164,3],
 "dc/dd8/classachievement__all__you__can__eat.html":[6,0,31],
 "dc/dd8/classachievement__all__you__can__eat.html#a0995024862a445ea1f0ff5c82475fc64":[6,0,31,0],
 "dc/dd8/classachievement__all__you__can__eat.html#a0baa07a7cbd239e4a5fcfd3e687aedf6":[6,0,31,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX325 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad6c5f805d876c924d7e5030eb2124183":[7,0,0,0,1,3,2,17,26],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad8180e172408496a5c0398e245dc2e92":[7,0,0,0,1,3,2,17,81],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adb6c19fe584b9ecd11ab67084570a0be":[7,0,0,0,1,3,2,17,38],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adc62e82adedf1c9e8d47332aaa7a4cf5":[7,0,0,0,1,3,2,17,116]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adc62e82adedf1c9e8d47332aaa7a4cf5":[7,0,0,0,1,3,2,17,116],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#add44fd9ad05267cc5db256b112db2585":[7,0,0,0,1,3,2,17,122],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#add963c2bc2b515348b9b7c636d176927":[7,0,0,0,1,3,2,17,138],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adddf7149f93506373434f27a27ec17c8":[7,0,0,0,1,3,2,17,105],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae12754fa9b1801326b9eb6b618d6b48b":[7,0,0,0,1,3,2,17,139],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ae2f3bbb94b06940b4d2aa67f726ee011":[7,0,0,0,1,3,2,17,42]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX217 =
 {
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba501cb23965fc47e1140452ae7cf171be":[7,0,0,0,1,1,0,0,3,1,4],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba51a9baeacbb62b6c0a13f7be09e09792":[7,0,0,0,1,1,0,0,3,1,44],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba52284772870b1649e11a21df1af04991":[7,0,0,0,1,1,0,0,3,1,48],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba579d27799f36ec2c5b9ed84e57f04acb":[7,0,0,0,1,1,0,0,3,1,67],
-"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5a4a29b257bff1e7be9cdbfc9bffae15":[7,0,0,0,1,1,0,0,3,1,73],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5a9324a37ef24f3d2131dd3a24960d0a":[7,0,0,0,1,1,0,0,3,1,40],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5c1264159410cb73b61635879083b394":[7,0,0,0,1,1,0,0,3,1,24],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba5eef388f328734f6de8b8e8573eee031":[7,0,0,0,1,1,0,0,3,1,86],
@@ -102,10 +97,10 @@ var NAVTREEINDEX217 =
 "d8/d38/classspell__sapphiron__frost__explosion.html#a883e383928a9b0ad0aeccf7afee4f15e":[6,0,3989,2],
 "d8/d38/structadt__MFBO_1_1plane.html":[6,0,139,0],
 "d8/d38/structadt__MFBO_1_1plane.html#a6de1e0be070d552f8002bff7675bb9cf":[6,0,139,0,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,4195],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,4195,0],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,4195,2],
-"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,4195,1],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html":[6,0,4194],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a1be975f4440b823c34cc3e790fcff608":[6,0,4194,0],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a217fb7cb47b08999d49ec04b345b77fe":[6,0,4194,2],
+"d8/d39/classspell__uldaman__boss__agro__archaedas.html#a91ac4a392fcf5b6e833fb3f5103d8e06":[6,0,4194,1],
 "d8/d39/structnpc__xt002__heart.html":[6,0,2307],
 "d8/d39/structnpc__xt002__heart.html#a13dc0cd623322cfc28c09c08bddd9207":[6,0,2307,5],
 "d8/d39/structnpc__xt002__heart.html#a3b89ec3c162656dcb45f51390a95c70b":[6,0,2307,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX217 =
 "d8/d45/classAuraStub.html#a52ab904d4503a6050960132c677c08ec":[6,0,295,30],
 "d8/d45/classAuraStub.html#a53cbbb0b1c31583827e80b88e0d27e69":[6,0,295,29],
 "d8/d45/classAuraStub.html#a6100f97e9f7f4e11205a2ba16deaf53d":[6,0,295,31],
-"d8/d45/classAuraStub.html#a672ff1d71cbfb2ea312298b897a07080":[6,0,295,4]
+"d8/d45/classAuraStub.html#a672ff1d71cbfb2ea312298b897a07080":[6,0,295,4],
+"d8/d45/classAuraStub.html#a68347746ed79c8da64223d256ae3072e":[6,0,295,16],
+"d8/d45/classAuraStub.html#a6db3047e147efb206d08e87735f1e798":[6,0,295,40],
+"d8/d45/classAuraStub.html#a750d6a1420dafc8a7c917e186c5ba27e":[6,0,295,32],
+"d8/d45/classAuraStub.html#a828a307a414bad0af9f9c98b4c4b19af":[6,0,295,13],
+"d8/d45/classAuraStub.html#a834d69a9a8d6e58106fb139bd08b15ef":[6,0,295,17]
 };

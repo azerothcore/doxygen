@@ -1,10 +1,5 @@
 var NAVTREEINDEX343 =
 {
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea1a28c61fa7784fd68f360c2c5f40b7ea":[7,0,0,0,1,3,5,4,2,5,6,11],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea1ac1d64a3f7591d0d676b8f3ab5e33d3":[7,0,0,0,1,3,5,4,2,5,6,7],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea1cd5ce0a1953e6fa14deccfdeae65aa9":[7,0,0,0,1,3,5,4,2,5,6,30],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea28b55fecb61bc2d5e45367dbb0cb1e0e":[7,0,0,0,1,3,5,4,2,5,6,32],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea30d2f6b91c56e748e7345bc11e36ab7b":[7,0,0,0,1,3,5,4,2,5,6,4],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea3195b579cdb27bd956e54a6a7ea6c2ce":[7,0,0,0,1,3,5,4,2,5,6,26],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea34fc0c7d782672f9ff826bfb6eaf58b1":[7,0,0,0,1,3,5,4,2,5,6,12],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea39df3f14b9a458c5fb87756eca3f1888":[7,0,0,0,1,3,5,4,2,5,6,45],
@@ -249,5 +244,10 @@ var NAVTREEINDEX343 =
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cde":[7,0,0,0,1,3,5,23,43],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea00a78fa6710daf60099ea8e0a4a189f1":[7,0,0,0,1,3,5,23,43,35],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea067fa1e992c848d14cfa2ae451d7d92a":[7,0,0,0,1,3,5,23,43,33],
-"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea06d546a6420668728ecbaa61db8026c0":[7,0,0,0,1,3,5,23,43,31]
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea06d546a6420668728ecbaa61db8026c0":[7,0,0,0,1,3,5,23,43,31],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea1192cc62c7f51e3b4ab7ab62ba997eb0":[7,0,0,0,1,3,5,23,43,37],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea181f68ae93a20b937818e409ba8e47cb":[7,0,0,0,1,3,5,23,43,22],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea189032763f0efaa7516effaa4352af54":[7,0,0,0,1,3,5,23,43,7],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea189bd0650e378afdab6cf7b5a0d906b4":[7,0,0,0,1,3,5,23,43,17],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea268dd0e7aca5fa4e9ff65f33ab1b9b71":[7,0,0,0,1,3,5,23,43,14]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX291 =
 {
-"db/d8a/SpellProcAttributeTest_8cpp.html#a6a3317651aef4b486a83a15938ebfa8c":[7,0,0,0,2,2,0,6,2,32],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a700011a1198db1f1d889c66e156018c1":[7,0,0,0,2,2,0,6,2,18],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a71a2d14661771c2fdb1818cb1192b261":[7,0,0,0,2,2,0,6,2,16],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a752ddc9378135a027648059075ad87c5":[7,0,0,0,2,2,0,6,2,26],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a76477f8f5ca1efe4f1437739a4c684f1":[7,0,0,0,2,2,0,6,2,11],
 "db/d8a/SpellProcAttributeTest_8cpp.html#a7b6110dd7f69ae3d82810f21403f7392":[7,0,0,0,2,2,0,6,2,20],
 "db/d8a/SpellProcAttributeTest_8cpp.html#a80fcff3d8b881c44f37e83efbd0cc083":[7,0,0,0,2,2,0,6,2,24],
 "db/d8a/SpellProcAttributeTest_8cpp.html#a8765488ee7f541a834983dc128579db1":[7,0,0,0,2,2,0,6,2,33],
@@ -249,5 +244,10 @@ var NAVTREEINDEX291 =
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea45a41c17c17360092217decc587afa84":[7,0,0,0,1,2,16,4,6,45,0],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea481aabd062516995139de79b60343d53":[7,0,0,0,1,2,16,4,6,45,34],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea4a24cc418954f07e4203499769485349":[7,0,0,0,1,2,16,4,6,45,1],
-"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea5fd9103615b5db7d243688749c4e302e":[7,0,0,0,1,2,16,4,6,45,22]
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea5fd9103615b5db7d243688749c4e302e":[7,0,0,0,1,2,16,4,6,45,22],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea62a6b671434df4cc1904cfaa866efdb0":[7,0,0,0,1,2,16,4,6,45,19],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea62ac8ad88cde02bfbc96892495707317":[7,0,0,0,1,2,16,4,6,45,5],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea64eda96b81fcff756346feddb3e24e2a":[7,0,0,0,1,2,16,4,6,45,39],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea6d525f6a466880a8a0088775a272a9cc":[7,0,0,0,1,2,16,4,6,45,25],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea6e03818b7a37dcb1afb297cb4fee93ef":[7,0,0,0,1,2,16,4,6,45,33]
 };

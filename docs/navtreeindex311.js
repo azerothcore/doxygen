@@ -1,10 +1,5 @@
 var NAVTREEINDEX311 =
 {
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298cadb72665839c4e1a455c082fd2ab65b43":[7,0,0,0,1,3,7,5,0,5,2,1],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#a5bd342133be8c2137b831460acc9298cadb8f879d06dfb7dc0449c3be2c3e69f9":[7,0,0,0,1,3,7,5,0,5,2,3],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,7,5,0,5,1],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,7,5,0,5,1,3],
-"dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,5,0,5,1,0],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,5,0,5,1,1],
 "dc/d26/boss__zereketh__the__unbound_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68aa5879d41a354921f966a0453e5fc0e93":[7,0,0,0,1,3,7,5,0,5,1,2],
 "dc/d28/BaseEncoding_8h.html":[7,0,0,0,0,7,4],
@@ -198,10 +193,10 @@ var NAVTREEINDEX311 =
 "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde":[7,0,0,0,1,3,5,9,2,9,21],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[6,0,12,11,2],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html":[5,0,34,11,2],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[6,0,12,11,2,0],
-"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#a8afb92fb908d5efd54bcb78269069d39":[5,0,34,11,2,0],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[6,0,12,11,2,1],
+"dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aa916b9d01157f5f8e98efbcacb3bb5a2":[5,0,34,11,2,1],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[5,0,34,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#aca1d9dc89b96415a5065a67f7083423c":[6,0,12,11,2,3],
 "dc/d29/classWorldPackets_1_1NPC_1_1TrainerBuySpell.html#ae342c806c8faabae54260a26659d49ea":[5,0,34,11,2,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX311 =
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea3ba76fcb66b3b20da5ebde72fee4e419":[7,0,0,0,1,3,7,1,0,3,16],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea3bd64cc6d235f0cf12460381ec110071":[7,0,0,0,1,3,7,1,0,3,0],
 "dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea5255041a372f6cd83cf4c000e9c34603":[7,0,0,0,1,3,7,1,0,3,2],
-"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea584eefab2baa4d65e2be81a8f27b2544":[7,0,0,0,1,3,7,1,0,3,8]
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea584eefab2baa4d65e2be81a8f27b2544":[7,0,0,0,1,3,7,1,0,3,8],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea5a3c0749a2de9faefdb841cbfaefe110":[7,0,0,0,1,3,7,1,0,3,9],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea647a31b70984c3c2377f845dfc8204e7":[7,0,0,0,1,3,7,1,0,3,25],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea6bae4c19086e3483e5bcebdfbbd68967":[7,0,0,0,1,3,7,1,0,3,13],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea6ce0f5d4cf99ddb7c029ca8c8bf8f0e4":[7,0,0,0,1,3,7,1,0,3,29],
+"dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963ea700fcf6fcee79a69a409c3e6a03f095c":[7,0,0,0,1,3,7,1,0,3,22]
 };

@@ -35,7 +35,6 @@ var spell__shaman_8cpp =
     [ "spell_sha_stoneclaw_totem", "d1/dd0/classspell__sha__stoneclaw__totem.html", "d1/dd0/classspell__sha__stoneclaw__totem" ],
     [ "spell_sha_thunderstorm", "d3/d2a/classspell__sha__thunderstorm.html", "d3/d2a/classspell__sha__thunderstorm" ],
     [ "spell_sha_flurry_proc", "dc/d44/classspell__sha__flurry__proc.html", "dc/d44/classspell__sha__flurry__proc" ],
-    [ "spell_sha_t8_electrified", "d2/dff/classspell__sha__t8__electrified.html", "d2/dff/classspell__sha__t8__electrified" ],
     [ "spell_sha_glyph_of_healing_wave", "d9/d13/classspell__sha__glyph__of__healing__wave.html", "d9/d13/classspell__sha__glyph__of__healing__wave" ],
     [ "spell_sha_spirit_hunt", "d6/d21/classspell__sha__spirit__hunt.html", "d6/d21/classspell__sha__spirit__hunt" ],
     [ "spell_sha_frozen_power", "d5/de8/classspell__sha__frozen__power.html", "d5/de8/classspell__sha__frozen__power" ],

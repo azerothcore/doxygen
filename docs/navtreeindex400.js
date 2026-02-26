@@ -1,10 +1,5 @@
 var NAVTREEINDEX400 =
 {
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a096730497aecaed75def280738c8fc41":[7,0,0,0,1,3,5,9,2,4,11,10],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1242bda27cc3b925c6b9f90e4d7b5570":[7,0,0,0,1,3,5,9,2,4,11,24],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a1316a096ad92778b03e69164628e0612":[7,0,0,0,1,3,5,9,2,4,11,1],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2600bfa81747443eee71fb0f0626b9a9":[7,0,0,0,1,3,5,9,2,4,11,9],
-"df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a2b0943ac1c53bad8993bb7b4b3d06b89":[7,0,0,0,1,3,5,9,2,4,11,0],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a31f296b7dc55c430e7e5ed7d05f8f9da":[7,0,0,0,1,3,5,9,2,4,11,20],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a3305ced5e8edcf6f636cdbf1f2ef862f":[7,0,0,0,1,3,5,9,2,4,11,2],
 "df/d87/boss__freya_8cpp.html#a903d49042cede4a8821e4711c0a81289a433c3a28a5d051f56a8a8565c089e13b":[7,0,0,0,1,3,5,9,2,4,11,4],
@@ -160,10 +155,10 @@ var NAVTREEINDEX400 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3857,0],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3857,3],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3857,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4351],
-"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4351,2],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4351,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4351,0],
+"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4350],
+"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4350,2],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4350,1],
+"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4350,0],
 "df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
 "df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,1,1,0],
 "df/d8d/GlobalScript_8cpp.html":[7,0,0,0,1,2,38,0,51],
@@ -249,5 +244,10 @@ var NAVTREEINDEX400 =
 "df/d8e/classMMAP_1_1MMapMgr.html#a83acf8ce1357052ccb8aa6b63f6860ca":[6,0,6,8,11],
 "df/d8e/classMMAP_1_1MMapMgr.html#a83acf8ce1357052ccb8aa6b63f6860ca":[5,0,21,8,11],
 "df/d8e/classMMAP_1_1MMapMgr.html#a88c7145d0475a2e5d9be5baa72a2ca7e":[5,0,21,8,7],
-"df/d8e/classMMAP_1_1MMapMgr.html#a88c7145d0475a2e5d9be5baa72a2ca7e":[6,0,6,8,7]
+"df/d8e/classMMAP_1_1MMapMgr.html#a88c7145d0475a2e5d9be5baa72a2ca7e":[6,0,6,8,7],
+"df/d8e/classMMAP_1_1MMapMgr.html#a89c7b087891d313e69437504dc0e449f":[6,0,6,8,16],
+"df/d8e/classMMAP_1_1MMapMgr.html#a89c7b087891d313e69437504dc0e449f":[5,0,21,8,16],
+"df/d8e/classMMAP_1_1MMapMgr.html#a8b087a39387a10c17dca364b9db537f9":[6,0,6,8,2],
+"df/d8e/classMMAP_1_1MMapMgr.html#a8b087a39387a10c17dca364b9db537f9":[5,0,21,8,2],
+"df/d8e/classMMAP_1_1MMapMgr.html#a98a7d0bf952eb80340863f2336ae84d1":[5,0,21,8,14]
 };

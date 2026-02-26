@@ -1,10 +1,5 @@
 var NAVTREEINDEX404 =
 {
-"df/da7/classBattleground.html#a7cfcbaa5502d370744b2044a69f1e184":[6,0,322,245],
-"df/da7/classBattleground.html#a7ff19ab842df78018af777ec08062194":[6,0,322,215],
-"df/da7/classBattleground.html#a8085a0357ec4f17d178279fe370478cc":[6,0,322,172],
-"df/da7/classBattleground.html#a838b709f1a74b9243f922d93bd587782":[6,0,322,56],
-"df/da7/classBattleground.html#a84d07814b989beff0bd0d39c84776882":[6,0,322,127],
 "df/da7/classBattleground.html#a85ec5c36cbe6d2ab9788de1ce2d4ff20":[6,0,322,188],
 "df/da7/classBattleground.html#a85f8b79ff233149e0f83d33e5912ab76":[6,0,322,125],
 "df/da7/classBattleground.html#a8742f1afea9768a67e84aafacc618d75":[6,0,322,138],
@@ -249,5 +244,10 @@ var NAVTREEINDEX404 =
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a39ce39397f845a4fddf20da5f5812713":[6,0,520,0,11],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a4c74d53fe029d02df9652dbb87a09242":[6,0,520,0,2],
 "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a5fdcf157f498b8e47d6380b03fe819d6":[6,0,520,0,9],
-"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb":[6,0,520,0,6]
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb":[6,0,520,0,6],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a810a91ffbcc3caa7c31e17afbd615392":[6,0,520,0,10],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aa717d51aa10c139473031072065064ce":[6,0,520,0,1],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aafd79debbe76b02a1478c03daf235b05":[6,0,520,0,8],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ad215f20452cd48c2c2bca394410d739b":[6,0,520,0,5],
+"df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ad9e7cd519e30eded06f76bcc69189117":[6,0,520,0,0]
 };
