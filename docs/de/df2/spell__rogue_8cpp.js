@@ -28,6 +28,7 @@ var spell__rogue_8cpp =
     [ "spell_rog_honor_among_thieves_proc_aura", "d1/d89/classspell__rog__honor__among__thieves__proc__aura.html", "d1/d89/classspell__rog__honor__among__thieves__proc__aura" ],
     [ "spell_rog_turn_the_tables", "d8/db7/classspell__rog__turn__the__tables.html", "d8/db7/classspell__rog__turn__the__tables" ],
     [ "spell_rog_turn_the_tables_proc", "dc/dad/classspell__rog__turn__the__tables__proc.html", "dc/dad/classspell__rog__turn__the__tables__proc" ],
+    [ "spell_rog_focused_attacks", "d7/db0/classspell__rog__focused__attacks.html", "d7/db0/classspell__rog__focused__attacks" ],
     [ "KillingSpreeScriptName", "de/df2/spell__rogue_8cpp.html#a3113dcef6ca918382eb15e4803d7bb42", null ],
     [ "spell_rog_killing_spree_aura_script", "de/df2/spell__rogue_8cpp.html#a68df6411a1d33b37aed8e2cb7d35de0f", null ],
     [ "RogueSpellIcons", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033be", [

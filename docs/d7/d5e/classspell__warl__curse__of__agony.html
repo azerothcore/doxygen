@@ -344,14 +344,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1363</span>    {</div>
-<div class="line"><span class="lineno"> 1364</span>        <a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> = aurEff-&gt;GetAmount();</div>
-<div class="line"><span class="lineno"> 1365</span>    }</div>
-<div class="ttc" id="aclassspell__warl__curse__of__agony_html_a33d9f114efa50a2fdfe7a17852a474f7"><div class="ttname"><a href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">spell_warl_curse_of_agony::_tick_amount</a></div><div class="ttdeci">uint32 _tick_amount</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1396</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1315</span>    {</div>
+<div class="line"><span class="lineno"> 1316</span>        <a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> = aurEff-&gt;GetAmount();</div>
+<div class="line"><span class="lineno"> 1317</span>    }</div>
+<div class="ttc" id="aclassspell__warl__curse__of__agony_html_a33d9f114efa50a2fdfe7a17852a474f7"><div class="ttname"><a href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">spell_warl_curse_of_agony::_tick_amount</a></div><div class="ttdeci">uint32 _tick_amount</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1348</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01396">_tick_amount</a>, and <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01348">_tick_amount</a>, and <a class="el" href="../../#l00064">AuraEffect::GetAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01390">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01342">Register()</a>.</p>
 
 </div>
 </div>
@@ -378,33 +378,33 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1368</span>    {</div>
-<div class="line"><span class="lineno"> 1369</span>        <span class="keywordflow">switch</span> (aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">GetTickNumber</a>())</div>
-<div class="line"><span class="lineno"> 1370</span>        {</div>
-<div class="line"><span class="lineno"> 1371</span>            <span class="comment">// 1..4 ticks, 1/2 from normal tick damage</span></div>
-<div class="line"><span class="lineno"> 1372</span>            <span class="keywordflow">case</span> 1:</div>
-<div class="line"><span class="lineno"> 1373</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> / 2);</div>
-<div class="line"><span class="lineno"> 1374</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1375</span>            <span class="comment">// 5..8 ticks have normal tick damage</span></div>
-<div class="line"><span class="lineno"> 1376</span>            <span class="keywordflow">case</span> 5:</div>
-<div class="line"><span class="lineno"> 1377</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a>);</div>
-<div class="line"><span class="lineno"> 1378</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1379</span>            <span class="comment">// 9..12 ticks, 3/2 from normal tick damage</span></div>
-<div class="line"><span class="lineno"> 1380</span>            <span class="keywordflow">case</span> 9:</div>
-<div class="line"><span class="lineno"> 1381</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>((<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> + 1) * 3 / 2); <span class="comment">// +1 prevent 0.5 damage possible lost at 1..4 ticks</span></div>
-<div class="line"><span class="lineno"> 1382</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1383</span>            <span class="comment">// 13 and 14 ticks (glyphed only), twice normal tick damage</span></div>
-<div class="line"><span class="lineno"> 1384</span>            <span class="keywordflow">case</span> 13:</div>
-<div class="line"><span class="lineno"> 1385</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> * 2);</div>
-<div class="line"><span class="lineno"> 1386</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1387</span>        }</div>
-<div class="line"><span class="lineno"> 1388</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1320</span>    {</div>
+<div class="line"><span class="lineno"> 1321</span>        <span class="keywordflow">switch</span> (aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">GetTickNumber</a>())</div>
+<div class="line"><span class="lineno"> 1322</span>        {</div>
+<div class="line"><span class="lineno"> 1323</span>            <span class="comment">// 1..4 ticks, 1/2 from normal tick damage</span></div>
+<div class="line"><span class="lineno"> 1324</span>            <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno"> 1325</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> / 2);</div>
+<div class="line"><span class="lineno"> 1326</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1327</span>            <span class="comment">// 5..8 ticks have normal tick damage</span></div>
+<div class="line"><span class="lineno"> 1328</span>            <span class="keywordflow">case</span> 5:</div>
+<div class="line"><span class="lineno"> 1329</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a>);</div>
+<div class="line"><span class="lineno"> 1330</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1331</span>            <span class="comment">// 9..12 ticks, 3/2 from normal tick damage</span></div>
+<div class="line"><span class="lineno"> 1332</span>            <span class="keywordflow">case</span> 9:</div>
+<div class="line"><span class="lineno"> 1333</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>((<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> + 1) * 3 / 2); <span class="comment">// +1 prevent 0.5 damage possible lost at 1..4 ticks</span></div>
+<div class="line"><span class="lineno"> 1334</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1335</span>            <span class="comment">// 13 and 14 ticks (glyphed only), twice normal tick damage</span></div>
+<div class="line"><span class="lineno"> 1336</span>            <span class="keywordflow">case</span> 13:</div>
+<div class="line"><span class="lineno"> 1337</span>                aurEff-&gt;<a class="code hl_function" href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">SetAmount</a>(<a class="code hl_variable" href="../../d7/d5e/classspell__warl__curse__of__agony.html#a33d9f114efa50a2fdfe7a17852a474f7">_tick_amount</a> * 2);</div>
+<div class="line"><span class="lineno"> 1338</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1339</span>        }</div>
+<div class="line"><span class="lineno"> 1340</span>    }</div>
 <div class="ttc" id="aclassAuraEffect_html_a0c28e995bc0e15c692c24154bab9df4d"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#a0c28e995bc0e15c692c24154bab9df4d">AuraEffect::GetTickNumber</a></div><div class="ttdeci">uint32 GetTickNumber() const</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:87</div></div>
 <div class="ttc" id="aclassAuraEffect_html_a9790b9f33c52c6d3b830dc6f56f08bf0"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html#a9790b9f33c52c6d3b830dc6f56f08bf0">AuraEffect::SetAmount</a></div><div class="ttdeci">void SetAmount(int32 amount)</div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:66</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01396">_tick_amount</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00066">AuraEffect::SetAmount()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01348">_tick_amount</a>, <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, and <a class="el" href="../../#l00066">AuraEffect::SetAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01390">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01342">Register()</a>.</p>
 
 </div>
 </div>
@@ -458,10 +458,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1391</span>    {</div>
-<div class="line"><span class="lineno"> 1392</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad29ed182a00516e736bb8d1381f4ac84">spell_warl_curse_of_agony::ApplyEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
-<div class="line"><span class="lineno"> 1393</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad5319328c018dbb3ddbd58bfc08589c4">spell_warl_curse_of_agony::HandleEffectPeriodicUpdate</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
-<div class="line"><span class="lineno"> 1394</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1343</span>    {</div>
+<div class="line"><span class="lineno"> 1344</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad29ed182a00516e736bb8d1381f4ac84">spell_warl_curse_of_agony::ApplyEffect</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
+<div class="line"><span class="lineno"> 1345</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">OnEffectUpdatePeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a715640892166108a23f30ed68346d395">AuraEffectUpdatePeriodicFn</a>(<a class="code hl_function" href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad5319328c018dbb3ddbd58bfc08589c4">spell_warl_curse_of_agony::HandleEffectPeriodicUpdate</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a>);</div>
+<div class="line"><span class="lineno"> 1346</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a11166673929d2fda5967add284832fad">SPELL_AURA_PERIODIC_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DAMAGE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:66</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:51</div></div>
@@ -469,10 +469,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aclassAuraScript_html_a509262d9721d83783e19142eee1645df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AuraScript::AfterEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:753</div></div>
 <div class="ttc" id="aclassAuraScript_html_a6baf2932d6e9170f5dc3aa969e6f0396"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a6baf2932d6e9170f5dc3aa969e6f0396">AuraScript::OnEffectUpdatePeriodic</a></div><div class="ttdeci">HookList&lt; EffectUpdatePeriodicHandler &gt; OnEffectUpdatePeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:776</div></div>
-<div class="ttc" id="aclassspell__warl__curse__of__agony_html_ad29ed182a00516e736bb8d1381f4ac84"><div class="ttname"><a href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad29ed182a00516e736bb8d1381f4ac84">spell_warl_curse_of_agony::ApplyEffect</a></div><div class="ttdeci">void ApplyEffect(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1362</div></div>
-<div class="ttc" id="aclassspell__warl__curse__of__agony_html_ad5319328c018dbb3ddbd58bfc08589c4"><div class="ttname"><a href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad5319328c018dbb3ddbd58bfc08589c4">spell_warl_curse_of_agony::HandleEffectPeriodicUpdate</a></div><div class="ttdeci">void HandleEffectPeriodicUpdate(AuraEffect *aurEff)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1367</div></div>
+<div class="ttc" id="aclassspell__warl__curse__of__agony_html_ad29ed182a00516e736bb8d1381f4ac84"><div class="ttname"><a href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad29ed182a00516e736bb8d1381f4ac84">spell_warl_curse_of_agony::ApplyEffect</a></div><div class="ttdeci">void ApplyEffect(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1314</div></div>
+<div class="ttc" id="aclassspell__warl__curse__of__agony_html_ad5319328c018dbb3ddbd58bfc08589c4"><div class="ttname"><a href="../../d7/d5e/classspell__warl__curse__of__agony.html#ad5319328c018dbb3ddbd58bfc08589c4">spell_warl_curse_of_agony::HandleEffectPeriodicUpdate</a></div><div class="ttdeci">void HandleEffectPeriodicUpdate(AuraEffect *aurEff)</div><div class="ttdef"><b>Definition</b> spell_warlock.cpp:1319</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l01362">ApplyEffect()</a>, <a class="el" href="../../#l00051">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00777">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01367">HandleEffectPeriodicUpdate()</a>, <a class="el" href="../../#l00776">AuraScript::OnEffectUpdatePeriodic</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l01314">ApplyEffect()</a>, <a class="el" href="../../#l00051">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00777">AuraEffectUpdatePeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01319">HandleEffectPeriodicUpdate()</a>, <a class="el" href="../../#l00776">AuraScript::OnEffectUpdatePeriodic</a>, and <a class="el" href="../../#l00066">SPELL_AURA_PERIODIC_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -497,7 +497,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01362">ApplyEffect()</a>, and <a class="el" href="../../#l01367">HandleEffectPeriodicUpdate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01314">ApplyEffect()</a>, and <a class="el" href="../../#l01319">HandleEffectPeriodicUpdate()</a>.</p>
 
 </div>
 </div>
@@ -510,7 +510,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d5e/classspell__warl__curse__of__agony.html">spell_warl_curse_of_agony</a></li>
-    <li class="footer">Generated on Thu Feb 26 2026 06:56:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Feb 27 2026 06:48:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

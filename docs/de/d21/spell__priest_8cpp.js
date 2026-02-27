@@ -7,7 +7,6 @@ var spell__priest_8cpp =
     [ "spell_pri_glyph_of_prayer_of_healing", "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html", "d8/d71/classspell__pri__glyph__of__prayer__of__healing" ],
     [ "spell_pri_guardian_spirit", "dc/dc8/classspell__pri__guardian__spirit.html", "dc/dc8/classspell__pri__guardian__spirit" ],
     [ "spell_pri_hymn_of_hope", "db/d1c/classspell__pri__hymn__of__hope.html", "db/d1c/classspell__pri__hymn__of__hope" ],
-    [ "spell_pri_item_greater_heal_refund", "d6/dd9/classspell__pri__item__greater__heal__refund.html", "d6/dd9/classspell__pri__item__greater__heal__refund" ],
     [ "spell_pri_lightwell", "d1/d14/classspell__pri__lightwell.html", "d1/d14/classspell__pri__lightwell" ],
     [ "spell_pri_lightwell_renew", "da/d92/classspell__pri__lightwell__renew.html", "da/d92/classspell__pri__lightwell__renew" ],
     [ "spell_pri_mana_burn", "d2/d22/classspell__pri__mana__burn.html", "d2/d22/classspell__pri__mana__burn" ],

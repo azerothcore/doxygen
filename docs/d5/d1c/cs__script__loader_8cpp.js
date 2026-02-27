@@ -44,6 +44,7 @@ var cs__script__loader_8cpp =
     [ "AddSC_send_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ],
     [ "AddSC_server_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aaa97392c09b5045a6040d75b224bdf22", null ],
     [ "AddSC_spectator_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a223cb7b19bd79c486919c41509ea6ddf", null ],
+    [ "AddSC_spellinfo_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ],
     [ "AddSC_tele_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a75673ffc02c68c43cefd69bb0648dd53", null ],
     [ "AddSC_ticket_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ad71463f4442d2e022a92404a4d9dec76", null ],
     [ "AddSC_titles_commandscript", "d5/d1c/cs__script__loader_8cpp.html#abd13948cbed6e10bdbf797847a0f6839", null ],

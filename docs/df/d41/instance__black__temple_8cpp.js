@@ -13,7 +13,6 @@ var instance__black__temple_8cpp =
     [ "spell_black_temple_bloodbolt", "d0/dd4/classspell__black__temple__bloodbolt.html", "d0/dd4/classspell__black__temple__bloodbolt" ],
     [ "spell_black_temple_consuming_strikes_aura", "d3/d00/classspell__black__temple__consuming__strikes__aura.html", "d3/d00/classspell__black__temple__consuming__strikes__aura" ],
     [ "spell_black_temple_curse_of_vitality_aura", "d2/d87/classspell__black__temple__curse__of__vitality__aura.html", "d2/d87/classspell__black__temple__curse__of__vitality__aura" ],
-    [ "spell_black_temple_dementia_aura", "df/d66/classspell__black__temple__dementia__aura.html", "df/d66/classspell__black__temple__dementia__aura" ],
     [ "spell_black_temple_summon_shadowfiends", "d2/d17/classspell__black__temple__summon__shadowfiends.html", "d2/d17/classspell__black__temple__summon__shadowfiends" ],
     [ "spell_black_temple_l5_arcane_charge", "da/d58/classspell__black__temple__l5__arcane__charge.html", "da/d58/classspell__black__temple__l5__arcane__charge" ],
     [ "AddSC_instance_black_temple", "df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8", null ],

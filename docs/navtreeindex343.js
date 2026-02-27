@@ -1,8 +1,5 @@
 var NAVTREEINDEX343 =
 {
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea3195b579cdb27bd956e54a6a7ea6c2ce":[7,0,0,0,1,3,5,4,2,5,6,26],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea34fc0c7d782672f9ff826bfb6eaf58b1":[7,0,0,0,1,3,5,4,2,5,6,12],
-"dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea39df3f14b9a458c5fb87756eca3f1888":[7,0,0,0,1,3,5,4,2,5,6,45],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea439f6a3edc66d7fd967ec04e2dfbf046":[7,0,0,0,1,3,5,4,2,5,6,42],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea4e949a1824d25f0029cde2a51776c792":[7,0,0,0,1,3,5,4,2,5,6,15],
 "dd/dac/pit__of__saron_8h.html#a92f6fd626e1834a4cc509efc1186963ea548e3c5b6404fcc16c8612d1f77b9623":[7,0,0,0,1,3,5,4,2,5,6,0],
@@ -196,15 +193,15 @@ var NAVTREEINDEX343 =
 "dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[6,0,33,2],
 "dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[6,0,33,1],
 "dd/db1/classachievement__assembly__of__iron.html#ae90d193b039d88ce38108b6617b5b8e9":[6,0,33,0],
-"dd/db1/classspell__gen__replenishment.html":[6,0,3092],
-"dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[6,0,3092,3],
-"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[6,0,3092,2],
-"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[6,0,3092,0],
-"dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[6,0,3092,1],
-"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3315],
-"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3315,0],
-"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3315,2],
-"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3315,1],
+"dd/db1/classspell__gen__replenishment.html":[6,0,3090],
+"dd/db1/classspell__gen__replenishment.html#a27ee4f0e6d14d15e5da2119c2bc49516":[6,0,3090,3],
+"dd/db1/classspell__gen__replenishment.html#a53262865dfa222de1d020f8c7cbf15fd":[6,0,3090,2],
+"dd/db1/classspell__gen__replenishment.html#a65d5717a25e371e09c44148c679dd390":[6,0,3090,0],
+"dd/db1/classspell__gen__replenishment.html#afb5f3560c022a8ef659d82cf24a46d8a":[6,0,3090,1],
+"dd/db1/classspell__item__blood__draining__enchant.html":[6,0,3311],
+"dd/db1/classspell__item__blood__draining__enchant.html#a04796308cb57993dea310e0aca051c46":[6,0,3311,0],
+"dd/db1/classspell__item__blood__draining__enchant.html#a191d0bcc015b92a6f2481b3b5c196cab":[6,0,3311,2],
+"dd/db1/classspell__item__blood__draining__enchant.html#a1a0291eb2ca9073b0bac8dc8c7d22550":[6,0,3311,1],
 "dd/db2/classGenericCreatureScript.html":[6,0,1110],
 "dd/db2/classGenericCreatureScript.html#a52157430320e253a5897612623eb796c":[6,0,1110,0],
 "dd/db2/classGenericCreatureScript.html#a9e8eb28ece41af0c4159710c6eb51395":[6,0,1110,1],
@@ -249,5 +246,8 @@ var NAVTREEINDEX343 =
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea181f68ae93a20b937818e409ba8e47cb":[7,0,0,0,1,3,5,23,43,22],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea189032763f0efaa7516effaa4352af54":[7,0,0,0,1,3,5,23,43,7],
 "dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea189bd0650e378afdab6cf7b5a0d906b4":[7,0,0,0,1,3,5,23,43,17],
-"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea268dd0e7aca5fa4e9ff65f33ab1b9b71":[7,0,0,0,1,3,5,23,43,14]
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea268dd0e7aca5fa4e9ff65f33ab1b9b71":[7,0,0,0,1,3,5,23,43,14],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea27e4246c0b6e8f71f0077b6c99fc1f92":[7,0,0,0,1,3,5,23,43,36],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea2d3e090b42693ee3eda1af3f2dc302f7":[7,0,0,0,1,3,5,23,43,12],
+"dd/db2/zone__storm__peaks_8cpp.html#a347e6e2a9546dac1bc73bb0b5d428cdea2fff83fa74dc86f6ed580776924e8467":[7,0,0,0,1,3,5,23,43,38]
 };

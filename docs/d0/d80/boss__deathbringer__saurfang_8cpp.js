@@ -9,7 +9,6 @@ var boss__deathbringer__saurfang_8cpp =
     [ "npc_saurfang_event", "dc/da2/classnpc__saurfang__event.html", "dc/da2/classnpc__saurfang__event" ],
     [ "npc_saurfang_event::npc_saurfang_eventAI", "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI.html", "d8/dd6/structnpc__saurfang__event_1_1npc__saurfang__eventAI" ],
     [ "spell_deathbringer_blood_link_aura", "dc/d48/classspell__deathbringer__blood__link__aura.html", "dc/d48/classspell__deathbringer__blood__link__aura" ],
-    [ "spell_deathbringer_blood_link_blood_beast_aura", "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura.html", "dd/d4a/classspell__deathbringer__blood__link__blood__beast__aura" ],
     [ "spell_deathbringer_blood_link", "d7/dba/classspell__deathbringer__blood__link.html", "d7/dba/classspell__deathbringer__blood__link" ],
     [ "spell_deathbringer_blood_power", "dd/df4/classspell__deathbringer__blood__power.html", "dd/df4/classspell__deathbringer__blood__power" ],
     [ "spell_deathbringer_blood_power_aura", "db/d8b/classspell__deathbringer__blood__power__aura.html", "db/d8b/classspell__deathbringer__blood__power__aura" ],

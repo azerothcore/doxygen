@@ -29,7 +29,6 @@ var spell__item_8cpp =
     [ "spell_item_fetch_ball", "df/da0/classspell__item__fetch__ball.html", "df/da0/classspell__item__fetch__ball" ],
     [ "spell_item_oracle_ablutions", "dc/d83/classspell__item__oracle__ablutions.html", "dc/d83/classspell__item__oracle__ablutions" ],
     [ "spell_item_trauma", "d3/d0c/classspell__item__trauma.html", "d3/d0c/classspell__item__trauma" ],
-    [ "spell_item_blade_ward_enchant", "dc/da5/classspell__item__blade__ward__enchant.html", "dc/da5/classspell__item__blade__ward__enchant" ],
     [ "spell_item_blood_draining_enchant", "dd/db1/classspell__item__blood__draining__enchant.html", "dd/db1/classspell__item__blood__draining__enchant" ],
     [ "spell_item_dragon_kite_summon_lightning_bunny", "dd/da1/classspell__item__dragon__kite__summon__lightning__bunny.html", "dd/da1/classspell__item__dragon__kite__summon__lightning__bunny" ],
     [ "spell_item_enchanted_broom_periodic", "d5/d71/classspell__item__enchanted__broom__periodic.html", "d5/d71/classspell__item__enchanted__broom__periodic" ],

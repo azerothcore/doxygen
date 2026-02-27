@@ -31,7 +31,6 @@ var spell__warlock_8cpp =
     [ "spell_warl_drain_soul", "d0/dcf/classspell__warl__drain__soul.html", "d0/dcf/classspell__warl__drain__soul" ],
     [ "spell_warl_shadowburn", "d6/d2b/classspell__warl__shadowburn.html", "d6/d2b/classspell__warl__shadowburn" ],
     [ "spell_warl_voidwalker_pet_passive", "d5/ded/classspell__warl__voidwalker__pet__passive.html", "d5/ded/classspell__warl__voidwalker__pet__passive" ],
-    [ "spell_warl_demonic_pact_aura", "d5/d4b/classspell__warl__demonic__pact__aura.html", "d5/d4b/classspell__warl__demonic__pact__aura" ],
     [ "spell_warl_curse_of_agony", "d7/d5e/classspell__warl__curse__of__agony.html", "d7/d5e/classspell__warl__curse__of__agony" ],
     [ "spell_warl_glyph_of_corruption_nightfall", "d7/d09/classspell__warl__glyph__of__corruption__nightfall.html", "d7/d09/classspell__warl__glyph__of__corruption__nightfall" ],
     [ "spell_warl_nightfall", "da/db4/classspell__warl__nightfall.html", "da/db4/classspell__warl__nightfall" ],

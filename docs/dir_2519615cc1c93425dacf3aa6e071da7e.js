@@ -44,6 +44,7 @@ var dir_2519615cc1c93425dacf3aa6e071da7e =
     [ "cs_send.cpp", "de/d24/cs__send_8cpp.html", "de/d24/cs__send_8cpp" ],
     [ "cs_server.cpp", "d8/d2d/cs__server_8cpp.html", "d8/d2d/cs__server_8cpp" ],
     [ "cs_spectator.cpp", "dc/d44/cs__spectator_8cpp.html", "dc/d44/cs__spectator_8cpp" ],
+    [ "cs_spellinfo.cpp", "d8/dcf/cs__spellinfo_8cpp.html", "d8/dcf/cs__spellinfo_8cpp" ],
     [ "cs_tele.cpp", "d3/d08/cs__tele_8cpp.html", "d3/d08/cs__tele_8cpp" ],
     [ "cs_ticket.cpp", "dc/d77/cs__ticket_8cpp.html", "dc/d77/cs__ticket_8cpp" ],
     [ "cs_titles.cpp", "d7/d70/cs__titles_8cpp.html", "d7/d70/cs__titles_8cpp" ],

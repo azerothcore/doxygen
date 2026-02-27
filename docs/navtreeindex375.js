@@ -1,8 +1,5 @@
 var NAVTREEINDEX375 =
 {
-"de/d72/classFollowerAI.html":[6,0,1066],
-"de/d72/classFollowerAI.html#a0c833da3d0096607828aeeefef2f313b":[6,0,1066,20],
-"de/d72/classFollowerAI.html#a1571d129b6bf4eb6eb7a1cd4fdbb4f00":[6,0,1066,14],
 "de/d72/classFollowerAI.html#a21a4c066ea3d6983c1b6e1f02d24cbae":[6,0,1066,21],
 "de/d72/classFollowerAI.html#a34d732db8b189e0243854ad3b87cb70f":[6,0,1066,9],
 "de/d72/classFollowerAI.html#a4aeb51a87a2ea025fa743243c587d6b2":[6,0,1066,18],
@@ -211,11 +208,11 @@ var NAVTREEINDEX375 =
 "de/d75/classDelayedSummonEvent.html#a5cfa870b670fff17d2241ecb85b2ba6c":[6,0,985,0],
 "de/d75/classDelayedSummonEvent.html#a65ba0f1a1dc14e07b7b93a71c92ace6b":[6,0,985,1],
 "de/d75/classDelayedSummonEvent.html#aef19987803a1cce47cbd8d9005a288ac":[6,0,985,4],
-"de/d75/classspell__dk__death__pact.html":[6,0,2798],
-"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2798,3],
-"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2798,1],
-"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2798,2],
-"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2798,0],
+"de/d75/classspell__dk__death__pact.html":[6,0,2796],
+"de/d75/classspell__dk__death__pact.html#a6107ba00471dd346c363db80fe81b698":[6,0,2796,3],
+"de/d75/classspell__dk__death__pact.html#a6ee8387c7fed3fd3042852a2f542c5bd":[6,0,2796,1],
+"de/d75/classspell__dk__death__pact.html#a83447d184bb2299987d0c54d5af4c910":[6,0,2796,2],
+"de/d75/classspell__dk__death__pact.html#ab215bbeea333d250ecbff0482f4f0966":[6,0,2796,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html":[6,0,1369,0],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a06dcb97d611bf5ef03cbed9cc13ab5cd":[6,0,1369,0,11],
 "de/d75/structinstance__utgarde__pinnacle_1_1instance__utgarde__pinnacle__InstanceMapScript.html#a0d60ef06f0698714ecbfc3b5a77d1fd5":[6,0,1369,0,12],
@@ -249,5 +246,8 @@ var NAVTREEINDEX375 =
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html":[6,0,1589,0],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2142cebc84e64919fa5c2ef630453282":[6,0,1589,0,0],
 "de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a2c1bbe079c065745782adfa13b030515":[6,0,1589,0,1],
-"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[6,0,1589,0,3]
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#a566b5d648abe630efc191f9d6d4938a2":[6,0,1589,0,3],
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aac071887c100f91cc7ffc545ea6439d9":[6,0,1589,0,4],
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#aba8ad016f0e470b07163fef07b603380":[6,0,1589,0,5],
+"de/d75/structnpc__aeranas_1_1npc__aeranasAI.html#ae192a3b38c0ec65cddfce3b95d15555a":[6,0,1589,0,2]
 };

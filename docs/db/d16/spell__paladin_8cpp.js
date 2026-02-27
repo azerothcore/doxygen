@@ -34,7 +34,6 @@ var spell__paladin_8cpp =
     [ "spell_pal_judgement_of_light_heal", "d8/d29/classspell__pal__judgement__of__light__heal.html", "d8/d29/classspell__pal__judgement__of__light__heal" ],
     [ "spell_pal_judgement_of_wisdom_mana", "d4/db2/classspell__pal__judgement__of__wisdom__mana.html", "d4/db2/classspell__pal__judgement__of__wisdom__mana" ],
     [ "spell_pal_spiritual_attunement", "d7/d17/classspell__pal__spiritual__attunement.html", "d7/d17/classspell__pal__spiritual__attunement" ],
-    [ "spell_pal_glyph_of_holy_light_proc", "d3/dc8/classspell__pal__glyph__of__holy__light__proc.html", "d3/dc8/classspell__pal__glyph__of__holy__light__proc" ],
     [ "spell_pal_hand_of_protection", "da/d57/classspell__pal__hand__of__protection.html", "da/d57/classspell__pal__hand__of__protection" ],
     [ "spell_pal_divine_purpose", "dd/df2/classspell__pal__divine__purpose.html", "dd/df2/classspell__pal__divine__purpose" ],
     [ "spell_pal_infusion_of_light", "de/daf/classspell__pal__infusion__of__light.html", "de/daf/classspell__pal__infusion__of__light" ],

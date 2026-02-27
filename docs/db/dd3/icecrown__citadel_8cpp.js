@@ -43,7 +43,6 @@ var icecrown__citadel_8cpp =
     [ "at_icc_start_blood_quickening", "dd/df2/classat__icc__start__blood__quickening.html", "dd/df2/classat__icc__start__blood__quickening" ],
     [ "at_icc_start_frostwing_gauntlet", "d3/ddd/classat__icc__start__frostwing__gauntlet.html", "d3/ddd/classat__icc__start__frostwing__gauntlet" ],
     [ "spell_icc_web_wrap_aura", "d2/d0f/classspell__icc__web__wrap__aura.html", "d2/d0f/classspell__icc__web__wrap__aura" ],
-    [ "spell_icc_dark_reckoning_aura", "db/d80/classspell__icc__dark__reckoning__aura.html", "db/d80/classspell__icc__dark__reckoning__aura" ],
     [ "spell_stinky_precious_decimate", "df/dee/classspell__stinky__precious__decimate.html", "df/dee/classspell__stinky__precious__decimate" ],
     [ "spell_icc_yf_frozen_orb_aura", "d6/d2b/classspell__icc__yf__frozen__orb__aura.html", "d6/d2b/classspell__icc__yf__frozen__orb__aura" ],
     [ "spell_icc_yh_volley_aura", "d9/d64/classspell__icc__yh__volley__aura.html", "d9/d64/classspell__icc__yh__volley__aura" ],
