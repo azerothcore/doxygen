@@ -1,20 +1,22 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8b/structArenaTeamStats.html#a124c6d64f22c13707764eedd79fe1912":[6,0,203,2],
+"d2/d8b/structArenaTeamStats.html#a1d0092200b2c9428e821473949cfda77":[6,0,203,4],
 "d2/d8b/structArenaTeamStats.html#a313afef901bd5a9347f2074a7ca1bfe0":[6,0,203,5],
 "d2/d8b/structArenaTeamStats.html#a9bcd8dc00437bcf015565eeb43263578":[6,0,203,0],
 "d2/d8b/structArenaTeamStats.html#ab43875cc3ae58eb636a490c2c0f5c1f6":[6,0,203,1],
 "d2/d8b/structArenaTeamStats.html#ad274601b85ea634524b1c00979e09465":[6,0,203,3],
 "d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2117],
@@ -247,7 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#a4f827a906ac279e143ba8545545090ad":[6,0,2778,2],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#a5052689d815e0a0543693b39b7454deb":[6,0,2778,6],
 "d2/d93/classspell__dk__army__of__the__dead__passive.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d":[6,0,2778,0],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ab23f26c3470f629f0a20f28faf272a68":[6,0,2778,1],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#ac5a656d4fa474b1d0c82af7613bcac10":[6,0,2778,5],
-"d2/d93/classspell__dk__army__of__the__dead__passive.html#acaa3bd6385b05101cad38d4f0738b9d8":[6,0,2778,4]
+"d2/d93/classspell__dk__army__of__the__dead__passive.html#ab23f26c3470f629f0a20f28faf272a68":[6,0,2778,1]
 };

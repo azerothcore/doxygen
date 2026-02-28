@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_0',['b',['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B'],['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b']]],
+  ['b_0',['b',['../dd/d75/structAcore_1_1Hyperlinks_1_1HyperlinkColor.html#a5ef7a2aab07e2e9a5097a27a466adeca',1,'Acore::Hyperlinks::HyperlinkColor::b'],['../dd/d8b/classAcore_1_1Crypto_1_1SRP6.html#a508a8478810de9c7515ecd9311053010',1,'Acore::Crypto::SRP6::B']]],
   ['bachiev_1',['bachiev',['../d9/dc7/structinstance__violet__hold_1_1instance__violet__hold__InstanceMapScript.html#a45e54ccf98c56afae98dffbabd3e36c1',1,'instance_violet_hold::instance_violet_hold_InstanceMapScript::bAchiev'],['../dc/d39/structboss__devourer__of__souls_1_1boss__devourer__of__soulsAI.html#ad57135868c5c631a4add0dea0067feb0',1,'boss_devourer_of_souls::boss_devourer_of_soulsAI::bAchiev']]],
   ['bachievbombbot_2',['bAchievBombBot',['../d1/dab/structboss__mimiron.html#ab37a096be0b05a190f0c06d08f4c587f',1,'boss_mimiron']]],
   ['bachievcacherare_3',['bAchievCacheRare',['../d4/d22/structboss__hodir.html#a9e82c04f57105550e3c21c66d98829f5',1,'boss_hodir']]],
@@ -48,9 +48,9 @@ var searchData=
   ['basearmor_45',['BaseArmor',['../d7/d80/structCreatureBaseStats.html#a9fed8e3227aa2ad7b40579b0be615030',1,'CreatureBaseStats']]],
   ['baseattacktime_46',['BaseAttackTime',['../d1/d61/structCreatureTemplate.html#a4600b8b2117a7b2ae7006c8a373886b8',1,'CreatureTemplate']]],
   ['basedamage_47',['BaseDamage',['../d7/d80/structCreatureBaseStats.html#a40f54b64689ca8c3d2b0de81384dbea9',1,'CreatureBaseStats']]],
-  ['basehealth_48',['basehealth',['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth'],['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth']]],
+  ['basehealth_48',['basehealth',['../d7/d80/structCreatureBaseStats.html#a83cee007ec623b19bb2b002d16180d2d',1,'CreatureBaseStats::BaseHealth'],['../d6/dcb/structPlayerClassLevelInfo.html#a034ae3d2b5b14ce454710ca8f92ffee0',1,'PlayerClassLevelInfo::basehealth']]],
   ['baselevel_49',['baselevel',['../d5/dc7/structSpellEntry.html#aaf7c8448b3091e0fca4aead24165d0e1',1,'SpellEntry::BaseLevel'],['../d2/de9/classSpellInfo.html#a0354bd4a5ad01abf27587e382e415591',1,'SpellInfo::BaseLevel']]],
-  ['basemana_50',['basemana',['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana'],['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana']]],
+  ['basemana_50',['basemana',['../d7/d80/structCreatureBaseStats.html#a204af635372cb4a2c6ede1f79579385c',1,'CreatureBaseStats::BaseMana'],['../d6/dcb/structPlayerClassLevelInfo.html#a939a8d8739a553c919d84e399ce17d22',1,'PlayerClassLevelInfo::basemana']]],
   ['basemovespeed_51',['basemovespeed',['../d1/daf/Unit_8h.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp'],['../d1/deb/Unit_8cpp.html#a2ede1cce0416c74db2d4599bab36eb57',1,'baseMoveSpeed:&#160;Unit.cpp']]],
   ['basepoints_52',['BasePoints',['../da/db9/classSpellEffectInfo.html#ac0803c6cd41e62d0011fda578e794676',1,'SpellEffectInfo']]],
   ['baserepclassmask_53',['BaseRepClassMask',['../de/d14/structFactionEntry.html#ae73655de567de3766fcb3bbfb7f9eed3',1,'FactionEntry']]],
@@ -309,7 +309,7 @@ var searchData=
   ['bugfixversion_306',['BugfixVersion',['../dc/d0e/structRealmBuildInfo.html#a461f8c749a874405584dc1fd3fe1d805',1,'RealmBuildInfo']]],
   ['bugtriodeathcount_307',['BugTrioDeathCount',['../db/dbe/structinstance__temple__of__ahnqiraj_1_1instance__temple__of__ahnqiraj__InstanceMapScript.html#aab0191f5b31264f0632a24df0607d05b',1,'instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript']]],
   ['build_308',['build',['../d3/d03/structAUTH__LOGON__CHALLENGE__C.html#a4c2989e284a86a7257c3f4a7b507265c',1,'AUTH_LOGON_CHALLENGE_C::build'],['../d6/d5d/structLogHeader.html#aa5ed2806342a36723f1317105ebc13fa',1,'LogHeader::Build'],['../d0/d4c/structClientAuthSession.html#ae4a83f8e8c81c1d797512245392fd582',1,'ClientAuthSession::Build'],['../d0/d7e/structRealm.html#a64533e919d8c3a37bd5668af77d09166',1,'Realm::Build'],['../dc/d0e/structRealmBuildInfo.html#a6cc7aff1b397df7333b9bb0003282abd',1,'RealmBuildInfo::Build']]],
-  ['building_309',['building',['../da/d37/unionGameObjectValue.html#aef41ba6d4c2602b60bc2a6effcb1566a',1,'GameObjectValue::Building'],['../dd/d3b/structGameObjectTemplate.html#a99c669ac0fcdd49a1889102d715dc16a',1,'GameObjectTemplate::building']]],
+  ['building_309',['building',['../dd/d3b/structGameObjectTemplate.html#a99c669ac0fcdd49a1889102d715dc16a',1,'GameObjectTemplate::building'],['../da/d37/unionGameObjectValue.html#aef41ba6d4c2602b60bc2a6effcb1566a',1,'GameObjectValue::Building']]],
   ['buildingsinzone_310',['BuildingsInZone',['../d0/d76/classBattlefieldWG.html#a9f2722e37733f13609af2dfe85ddac10',1,'BattlefieldWG']]],
   ['buildmagic_311',['buildMagic',['../df/d52/structmap__fileheader.html#a82d0f500f9e84cf6c8bf917a98f92115',1,'map_fileheader']]],
   ['bunnytimer_312',['bunnyTimer',['../d2/d16/structnpc__spring__rabbit_1_1npc__spring__rabbitAI.html#a99c2923194cf6a07bee8924abf98f470',1,'npc_spring_rabbit::npc_spring_rabbitAI']]],

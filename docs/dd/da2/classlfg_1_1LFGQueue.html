@@ -238,7 +238,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00036">AddToQueue()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00511">lfg::LFGMgr::JoinLfg()</a>, and <a class="el" href="../../#l01407">lfg::LFGMgr::UpdateRoleCheck()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00595">lfg::LFGMgr::JoinLfg()</a>, and <a class="el" href="../../#l01491">lfg::LFGMgr::UpdateRoleCheck()</a>.</p>
 
 </div>
 </div>
@@ -373,7 +373,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00084">AddToNewQueue()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00106">AddQueueData()</a>, <a class="el" href="../../#l01928">lfg::LFGMgr::RemoveProposal()</a>, and <a class="el" href="../../#l00469">UpdateQueueTimers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00106">AddQueueData()</a>, <a class="el" href="../../#l02012">lfg::LFGMgr::RemoveProposal()</a>, and <a class="el" href="../../#l00472">UpdateQueueTimers()</a>.</p>
 
 </div>
 </div>
@@ -599,70 +599,73 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  415</span>        proposal.cancelTime = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count() + <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7ca7c25463752da16999540b959230d1905">LFG_TIME_PROPOSAL</a>;</div>
 <div class="line"><span class="lineno">  416</span>        proposal.state = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce">LFG_PROPOSAL_INITIATING</a>;</div>
 <div class="line"><span class="lineno">  417</span>        proposal.leader.Clear();</div>
-<div class="line"><span class="lineno">  418</span>        proposal.dungeonId = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(proposalDungeons);</div>
-<div class="line"><span class="lineno">  419</span> </div>
-<div class="line"><span class="lineno">  420</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> completedEncounters = 0;</div>
-<div class="line"><span class="lineno">  421</span>        <span class="keywordtype">bool</span> leader = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">for</span> (LfgRolesMap::const_iterator itRoles = proposalRoles.begin(); itRoles != proposalRoles.end(); ++itRoles)</div>
-<div class="line"><span class="lineno">  423</span>        {</div>
-<div class="line"><span class="lineno">  424</span>            <span class="comment">// Assing new leader</span></div>
-<div class="line"><span class="lineno">  425</span>            <span class="keywordflow">if</span> (itRoles-&gt;second &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246">PLAYER_ROLE_LEADER</a>)</div>
-<div class="line"><span class="lineno">  426</span>            {</div>
-<div class="line"><span class="lineno">  427</span>                <span class="keywordflow">if</span> (!leader || !proposal.leader || <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1))</div>
-<div class="line"><span class="lineno">  428</span>                    proposal.leader = itRoles-&gt;first;</div>
-<div class="line"><span class="lineno">  429</span>                leader = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  430</span>            }</div>
-<div class="line"><span class="lineno">  431</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!leader &amp;&amp; (!proposal.leader || <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1)))</div>
-<div class="line"><span class="lineno">  432</span>                proposal.leader = itRoles-&gt;first;</div>
-<div class="line"><span class="lineno">  433</span> </div>
-<div class="line"><span class="lineno">  434</span>            <span class="comment">// Assing player data and roles</span></div>
-<div class="line"><span class="lineno">  435</span>            LfgProposalPlayer&amp; data = proposal.players[itRoles-&gt;first];</div>
-<div class="line"><span class="lineno">  436</span>            data.role = itRoles-&gt;second;</div>
-<div class="line"><span class="lineno">  437</span>            data.group = proposalGroups.find(itRoles-&gt;first)-&gt;second;</div>
-<div class="line"><span class="lineno">  438</span>            <span class="keywordflow">if</span> (!proposal.isNew &amp;&amp; data.group &amp;&amp; data.group == proposal.group) <span class="comment">// Player from existing group, autoaccept</span></div>
-<div class="line"><span class="lineno">  439</span>                data.accept = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e">LFG_ANSWER_AGREE</a>;</div>
-<div class="line"><span class="lineno">  440</span> </div>
-<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">if</span> (!completedEncounters &amp;&amp; !proposal.isNew)</div>
-<div class="line"><span class="lineno">  442</span>            {</div>
-<div class="line"><span class="lineno">  443</span>                <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/dbf/structLFGDungeonEntry.html">LFGDungeonEntry</a> <span class="keyword">const</span>* dungeon = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf">sLFGDungeonStore</a>.LookupEntry(proposal.dungeonId))</div>
-<div class="line"><span class="lineno">  444</span>                {</div>
-<div class="line"><span class="lineno">  445</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(itRoles-&gt;first))</div>
-<div class="line"><span class="lineno">  446</span>                    {</div>
-<div class="line"><span class="lineno">  447</span>                        <span class="keywordflow">if</span> (player-&gt;GetMapId() == <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(dungeon-&gt;MapID))</div>
-<div class="line"><span class="lineno">  448</span>                        {</div>
-<div class="line"><span class="lineno">  449</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;GetInstanceScript())</div>
-<div class="line"><span class="lineno">  450</span>                            {</div>
-<div class="line"><span class="lineno">  451</span>                                completedEncounters = instance-&gt;GetCompletedEncounterMask();</div>
-<div class="line"><span class="lineno">  452</span>                            }</div>
-<div class="line"><span class="lineno">  453</span>                        }</div>
-<div class="line"><span class="lineno">  454</span>                    }</div>
-<div class="line"><span class="lineno">  455</span>                }</div>
-<div class="line"><span class="lineno">  456</span>            }</div>
-<div class="line"><span class="lineno">  457</span>        }</div>
-<div class="line"><span class="lineno">  458</span> </div>
-<div class="line"><span class="lineno">  459</span>        proposal.encounters = completedEncounters;</div>
-<div class="line"><span class="lineno">  460</span> </div>
-<div class="line"><span class="lineno">  461</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 5 &amp;&amp; proposal.queues.guids[i]; ++i)</div>
-<div class="line"><span class="lineno">  462</span>            <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad41490777ca68c59fc4172d2560f5eb2">RemoveFromQueue</a>(proposal.queues.guids[i], <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  418</span> </div>
+<div class="line"><span class="lineno">  419</span>        <span class="comment">// Filter out recently completed dungeons to prevent same dungeon in a row</span></div>
+<div class="line"><span class="lineno">  420</span>        <a class="code hl_typedef" href="../../de/d72/namespacelfg.html#a7f47ec56c1412d2da0ff629b760e7f5f">LfgDungeonSet</a> filteredDungeons = <a class="code hl_define" href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;FilterCooldownDungeons(proposalDungeons, proposalRoles);</div>
+<div class="line"><span class="lineno">  421</span>        proposal.dungeonId = <a class="code hl_function" href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(filteredDungeons);</div>
+<div class="line"><span class="lineno">  422</span> </div>
+<div class="line"><span class="lineno">  423</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> completedEncounters = 0;</div>
+<div class="line"><span class="lineno">  424</span>        <span class="keywordtype">bool</span> leader = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  425</span>        <span class="keywordflow">for</span> (LfgRolesMap::const_iterator itRoles = proposalRoles.begin(); itRoles != proposalRoles.end(); ++itRoles)</div>
+<div class="line"><span class="lineno">  426</span>        {</div>
+<div class="line"><span class="lineno">  427</span>            <span class="comment">// Assing new leader</span></div>
+<div class="line"><span class="lineno">  428</span>            <span class="keywordflow">if</span> (itRoles-&gt;second &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcac4fe0913fc02886cf3e87ff7a05b2246">PLAYER_ROLE_LEADER</a>)</div>
+<div class="line"><span class="lineno">  429</span>            {</div>
+<div class="line"><span class="lineno">  430</span>                <span class="keywordflow">if</span> (!leader || !proposal.leader || <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1))</div>
+<div class="line"><span class="lineno">  431</span>                    proposal.leader = itRoles-&gt;first;</div>
+<div class="line"><span class="lineno">  432</span>                leader = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  433</span>            }</div>
+<div class="line"><span class="lineno">  434</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!leader &amp;&amp; (!proposal.leader || <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1)))</div>
+<div class="line"><span class="lineno">  435</span>                proposal.leader = itRoles-&gt;first;</div>
+<div class="line"><span class="lineno">  436</span> </div>
+<div class="line"><span class="lineno">  437</span>            <span class="comment">// Assing player data and roles</span></div>
+<div class="line"><span class="lineno">  438</span>            LfgProposalPlayer&amp; data = proposal.players[itRoles-&gt;first];</div>
+<div class="line"><span class="lineno">  439</span>            data.role = itRoles-&gt;second;</div>
+<div class="line"><span class="lineno">  440</span>            data.group = proposalGroups.find(itRoles-&gt;first)-&gt;second;</div>
+<div class="line"><span class="lineno">  441</span>            <span class="keywordflow">if</span> (!proposal.isNew &amp;&amp; data.group &amp;&amp; data.group == proposal.group) <span class="comment">// Player from existing group, autoaccept</span></div>
+<div class="line"><span class="lineno">  442</span>                data.accept = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a2f2c28e4e9ecf4a98d75b74d622161c5a07e18fcf478fdfb16df41e18db0e400e">LFG_ANSWER_AGREE</a>;</div>
+<div class="line"><span class="lineno">  443</span> </div>
+<div class="line"><span class="lineno">  444</span>            <span class="keywordflow">if</span> (!completedEncounters &amp;&amp; !proposal.isNew)</div>
+<div class="line"><span class="lineno">  445</span>            {</div>
+<div class="line"><span class="lineno">  446</span>                <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d8/dbf/structLFGDungeonEntry.html">LFGDungeonEntry</a> <span class="keyword">const</span>* dungeon = <a class="code hl_variable" href="../../dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf">sLFGDungeonStore</a>.LookupEntry(proposal.dungeonId))</div>
+<div class="line"><span class="lineno">  447</span>                {</div>
+<div class="line"><span class="lineno">  448</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(itRoles-&gt;first))</div>
+<div class="line"><span class="lineno">  449</span>                    {</div>
+<div class="line"><span class="lineno">  450</span>                        <span class="keywordflow">if</span> (player-&gt;GetMapId() == <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(dungeon-&gt;MapID))</div>
+<div class="line"><span class="lineno">  451</span>                        {</div>
+<div class="line"><span class="lineno">  452</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d1e/classInstanceScript.html">InstanceScript</a>* instance = player-&gt;GetInstanceScript())</div>
+<div class="line"><span class="lineno">  453</span>                            {</div>
+<div class="line"><span class="lineno">  454</span>                                completedEncounters = instance-&gt;GetCompletedEncounterMask();</div>
+<div class="line"><span class="lineno">  455</span>                            }</div>
+<div class="line"><span class="lineno">  456</span>                        }</div>
+<div class="line"><span class="lineno">  457</span>                    }</div>
+<div class="line"><span class="lineno">  458</span>                }</div>
+<div class="line"><span class="lineno">  459</span>            }</div>
+<div class="line"><span class="lineno">  460</span>        }</div>
+<div class="line"><span class="lineno">  461</span> </div>
+<div class="line"><span class="lineno">  462</span>        proposal.encounters = completedEncounters;</div>
 <div class="line"><span class="lineno">  463</span> </div>
-<div class="line"><span class="lineno">  464</span>        <a class="code hl_define" href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;AddProposal(proposal);</div>
-<div class="line"><span class="lineno">  465</span> </div>
-<div class="line"><span class="lineno">  466</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0">LFG_COMPATIBLES_MATCH</a>;</div>
-<div class="line"><span class="lineno">  467</span>    }</div>
+<div class="line"><span class="lineno">  464</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 5 &amp;&amp; proposal.queues.guids[i]; ++i)</div>
+<div class="line"><span class="lineno">  465</span>            <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad41490777ca68c59fc4172d2560f5eb2">RemoveFromQueue</a>(proposal.queues.guids[i], <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  466</span> </div>
+<div class="line"><span class="lineno">  467</span>        <a class="code hl_define" href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;AddProposal(proposal);</div>
+<div class="line"><span class="lineno">  468</span> </div>
+<div class="line"><span class="lineno">  469</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0">LFG_COMPATIBLES_MATCH</a>;</div>
+<div class="line"><span class="lineno">  470</span>    }</div>
 <div class="ttc" id="aDBCStores_8cpp_html_a23ea4d3675e61599f29015d7301a4ecf"><div class="ttname"><a href="../../dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf">sLFGDungeonStore</a></div><div class="ttdeci">DBCStorage&lt; LFGDungeonEntry &gt; sLFGDungeonStore(LFGDungeonEntryfmt)</div></div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aDefine_8h_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition</b> Define.h:106</div></div>
 <div class="ttc" id="aGroup_8h_html_a41ded42f25275d85cb15f89e0cb21745"><div class="ttname"><a href="../../de/d3d/Group_8h.html#a41ded42f25275d85cb15f89e0cb21745">MAXGROUPSIZE</a></div><div class="ttdeci">#define MAXGROUPSIZE</div><div class="ttdef"><b>Definition</b> Group.h:43</div></div>
-<div class="ttc" id="aLFGMgr_8h_html_a9876016115774ddaf27fca5cc9adb96e"><div class="ttname"><a href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a></div><div class="ttdeci">#define sLFGMgr</div><div class="ttdef"><b>Definition</b> LFGMgr.h:646</div></div>
+<div class="ttc" id="aLFGMgr_8h_html_a9876016115774ddaf27fca5cc9adb96e"><div class="ttname"><a href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a></div><div class="ttdeci">#define sLFGMgr</div><div class="ttdef"><b>Definition</b> LFGMgr.h:658</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
 <div class="ttc" id="aclassInstanceScript_html"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html">InstanceScript</a></div><div class="ttdef"><b>Definition</b> InstanceScript.h:143</div></div>
 <div class="ttc" id="aclassObjectGuid_html"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a></div><div class="ttdef"><b>Definition</b> ObjectGuid.h:118</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:120</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1084</div></div>
-<div class="ttc" id="aclasslfg_1_1LFGMgr_html_ab4e07580d4946b89e413b66ec85ba4d3"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">lfg::LFGMgr::CheckGroupRoles</a></div><div class="ttdeci">static uint8 CheckGroupRoles(LfgRolesMap &amp;groles)</div><div class="ttdoc">Checks if given roles match, modifies given roles map with new roles.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1526</div></div>
+<div class="ttc" id="aclasslfg_1_1LFGMgr_html_ab4e07580d4946b89e413b66ec85ba4d3"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ab4e07580d4946b89e413b66ec85ba4d3">lfg::LFGMgr::CheckGroupRoles</a></div><div class="ttdeci">static uint8 CheckGroupRoles(LfgRolesMap &amp;groles)</div><div class="ttdoc">Checks if given roles match, modifies given roles map with new roles.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:1610</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_a238312c3f7d40c80b2cbb208ebee0937"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a238312c3f7d40c80b2cbb208ebee0937">lfg::LFGQueue::AddToCompatibles</a></div><div class="ttdeci">void AddToCompatibles(Lfg5Guids const &amp;key)</div><div class="ttdef"><b>Definition</b> LFGQueue.cpp:169</div></div>
-<div class="ttc" id="aclasslfg_1_1LFGQueue_html_a36ec812546b40a0e34d918a48b5f555c"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a36ec812546b40a0e34d918a48b5f555c">lfg::LFGQueue::UpdateBestCompatibleInQueue</a></div><div class="ttdeci">void UpdateBestCompatibleInQueue(LfgQueueDataContainer::iterator itrQueue, Lfg5Guids const &amp;key)</div><div class="ttdef"><b>Definition</b> LFGQueue.cpp:586</div></div>
+<div class="ttc" id="aclasslfg_1_1LFGQueue_html_a36ec812546b40a0e34d918a48b5f555c"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a36ec812546b40a0e34d918a48b5f555c">lfg::LFGQueue::UpdateBestCompatibleInQueue</a></div><div class="ttdeci">void UpdateBestCompatibleInQueue(LfgQueueDataContainer::iterator itrQueue, Lfg5Guids const &amp;key)</div><div class="ttdef"><b>Definition</b> LFGQueue.cpp:589</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_ad41490777ca68c59fc4172d2560f5eb2"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#ad41490777ca68c59fc4172d2560f5eb2">lfg::LFGQueue::RemoveFromQueue</a></div><div class="ttdeci">void RemoveFromQueue(ObjectGuid guid, bool partial=false)</div><div class="ttdef"><b>Definition</b> LFGQueue.cpp:49</div></div>
 <div class="ttc" id="anamespaceAcore_1_1Containers_html_a8ca673d18562735d4ed20a11519b3d46"><div class="ttname"><a href="../../d0/d65/namespaceAcore_1_1Containers.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a></div><div class="ttdeci">auto SelectRandomContainerElement(C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</div><div class="ttdef"><b>Definition</b> Containers.h:133</div></div>
 <div class="ttc" id="anamespaceGameTime_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition</b> GameTime.cpp:38</div></div>
@@ -684,7 +687,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespacelfg_html_af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce"><div class="ttname"><a href="../../de/d72/namespacelfg.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce">lfg::LFG_PROPOSAL_INITIATING</a></div><div class="ttdeci">@ LFG_PROPOSAL_INITIATING</div><div class="ttdef"><b>Definition</b> LFGMgr.h:80</div></div>
 <div class="ttc" id="astructLFGDungeonEntry_html"><div class="ttname"><a href="../../d8/dbf/structLFGDungeonEntry.html">LFGDungeonEntry</a></div><div class="ttdef"><b>Definition</b> DBCStructure.h:1245</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00349">lfg::LfgProposalPlayer::accept</a>, <a class="el" href="../../#l00153">lfg::Lfg5Guids::addRoles()</a>, <a class="el" href="../../#l00169">AddToCompatibles()</a>, <a class="el" href="../../#l00364">lfg::LfgProposal::cancelTime</a>, <a class="el" href="../../#l01526">lfg::LFGMgr::CheckGroupRoles()</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00360">lfg::LfgProposal::dungeonId</a>, <a class="el" href="../../#l00053">lfg::LfgQueueData::dungeons</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00365">lfg::LfgProposal::encounters</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00276">lfg::Lfg5Guids::force_insert_front()</a>, <a class="el" href="../../#l00156">lfg::Lfg5Guids::front()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00350">lfg::LfgProposalPlayer::group</a>, <a class="el" href="../../#l00362">lfg::LfgProposal::group</a>, <a class="el" href="../../#l00125">lfg::Lfg5Guids::guids</a>, <a class="el" href="../../#l00185">lfg::Lfg5Guids::insert()</a>, <a class="el" href="../../#l00366">lfg::LfgProposal::isNew</a>, <a class="el" href="../../#l00363">lfg::LfgProposal::leader</a>, <a class="el" href="../../#l00100">lfg::LFG_ANSWER_AGREE</a>, <a class="el" href="../../#l00027">lfg::LFG_COMPATIBILITY_PENDING</a>, <a class="el" href="../../#l00035">lfg::LFG_COMPATIBLES_MATCH</a>, <a class="el" href="../../#l00034">lfg::LFG_COMPATIBLES_WITH_LESS_PLAYERS</a>, <a class="el" href="../../#l00031">lfg::LFG_INCOMPATIBLES_HAS_IGNORES</a>, <a class="el" href="../../#l00030">lfg::LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS</a>, <a class="el" href="../../#l00033">lfg::LFG_INCOMPATIBLES_NO_DUNGEONS</a>, <a class="el" href="../../#l00032">lfg::LFG_INCOMPATIBLES_NO_ROLES</a>, <a class="el" href="../../#l00029">lfg::LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS</a>, <a class="el" href="../../#l00080">lfg::LFG_PROPOSAL_INITIATING</a>, <a class="el" href="../../#l00050">lfg::LFG_TIME_PROPOSAL</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00043">MAXGROUPSIZE</a>, <a class="el" href="../../#l00040">lfg::PLAYER_ROLE_LEADER</a>, <a class="el" href="../../#l00369">lfg::LfgProposal::players</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, <a class="el" href="../../#l00367">lfg::LfgProposal::queues</a>, <a class="el" href="../../#l00049">RemoveFromQueue()</a>, <a class="el" href="../../#l00348">lfg::LfgProposalPlayer::role</a>, <a class="el" href="../../#l00054">lfg::LfgQueueData::roles</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, <a class="el" href="../../#l00158">lfg::Lfg5Guids::size()</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf">sLFGDungeonStore</a>, <a class="el" href="../../#l00646">sLFGMgr</a>, <a class="el" href="../../#l00361">lfg::LfgProposal::state</a>, <a class="el" href="../../#l00489">lfg::Lfg5Guids::toString()</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00586">UpdateBestCompatibleInQueue()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00349">lfg::LfgProposalPlayer::accept</a>, <a class="el" href="../../#l00153">lfg::Lfg5Guids::addRoles()</a>, <a class="el" href="../../#l00169">AddToCompatibles()</a>, <a class="el" href="../../#l00364">lfg::LfgProposal::cancelTime</a>, <a class="el" href="../../#l01610">lfg::LFGMgr::CheckGroupRoles()</a>, <a class="el" href="../../#l00138">ObjectGuid::Clear()</a>, <a class="el" href="../../#l00360">lfg::LfgProposal::dungeonId</a>, <a class="el" href="../../#l00053">lfg::LfgQueueData::dungeons</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00365">lfg::LfgProposal::encounters</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00276">lfg::Lfg5Guids::force_insert_front()</a>, <a class="el" href="../../#l00156">lfg::Lfg5Guids::front()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00350">lfg::LfgProposalPlayer::group</a>, <a class="el" href="../../#l00362">lfg::LfgProposal::group</a>, <a class="el" href="../../#l00125">lfg::Lfg5Guids::guids</a>, <a class="el" href="../../#l00185">lfg::Lfg5Guids::insert()</a>, <a class="el" href="../../#l00366">lfg::LfgProposal::isNew</a>, <a class="el" href="../../#l00363">lfg::LfgProposal::leader</a>, <a class="el" href="../../#l00100">lfg::LFG_ANSWER_AGREE</a>, <a class="el" href="../../#l00027">lfg::LFG_COMPATIBILITY_PENDING</a>, <a class="el" href="../../#l00035">lfg::LFG_COMPATIBLES_MATCH</a>, <a class="el" href="../../#l00034">lfg::LFG_COMPATIBLES_WITH_LESS_PLAYERS</a>, <a class="el" href="../../#l00031">lfg::LFG_INCOMPATIBLES_HAS_IGNORES</a>, <a class="el" href="../../#l00030">lfg::LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS</a>, <a class="el" href="../../#l00033">lfg::LFG_INCOMPATIBLES_NO_DUNGEONS</a>, <a class="el" href="../../#l00032">lfg::LFG_INCOMPATIBLES_NO_ROLES</a>, <a class="el" href="../../#l00029">lfg::LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS</a>, <a class="el" href="../../#l00080">lfg::LFG_PROPOSAL_INITIATING</a>, <a class="el" href="../../#l00050">lfg::LFG_TIME_PROPOSAL</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00043">MAXGROUPSIZE</a>, <a class="el" href="../../#l00040">lfg::PLAYER_ROLE_LEADER</a>, <a class="el" href="../../#l00369">lfg::LfgProposal::players</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, <a class="el" href="../../#l00367">lfg::LfgProposal::queues</a>, <a class="el" href="../../#l00049">RemoveFromQueue()</a>, <a class="el" href="../../#l00348">lfg::LfgProposalPlayer::role</a>, <a class="el" href="../../#l00054">lfg::LfgQueueData::roles</a>, <a class="el" href="../../#l00133">Acore::Containers::SelectRandomContainerElement()</a>, <a class="el" href="../../#l00158">lfg::Lfg5Guids::size()</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a23ea4d3675e61599f29015d7301a4ecf">sLFGDungeonStore</a>, <a class="el" href="../../#l00658">sLFGMgr</a>, <a class="el" href="../../#l00361">lfg::LfgProposal::state</a>, <a class="el" href="../../#l00489">lfg::Lfg5Guids::toString()</a>, <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>, <a class="el" href="../../#l00589">UpdateBestCompatibleInQueue()</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00197">FindNewGroups()</a>.</p>
 
@@ -713,21 +716,21 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  575</span>    {</div>
-<div class="line"><span class="lineno">  576</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> numOfCompatibles = 0;</div>
-<div class="line"><span class="lineno">  577</span>        <span class="keywordflow">for</span> (LfgCompatibleContainer::const_iterator itr = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.begin(); itr != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  578</span>            <span class="keywordflow">if</span> (itr-&gt;hasGuid(itrQueue-&gt;first))</div>
-<div class="line"><span class="lineno">  579</span>            {</div>
-<div class="line"><span class="lineno">  580</span>                ++numOfCompatibles;</div>
-<div class="line"><span class="lineno">  581</span>                <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a36ec812546b40a0e34d918a48b5f555c">UpdateBestCompatibleInQueue</a>(itrQueue, *itr);</div>
-<div class="line"><span class="lineno">  582</span>            }</div>
-<div class="line"><span class="lineno">  583</span>        <span class="keywordflow">return</span> numOfCompatibles;</div>
-<div class="line"><span class="lineno">  584</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  578</span>    {</div>
+<div class="line"><span class="lineno">  579</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> numOfCompatibles = 0;</div>
+<div class="line"><span class="lineno">  580</span>        <span class="keywordflow">for</span> (LfgCompatibleContainer::const_iterator itr = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.begin(); itr != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.end(); ++itr)</div>
+<div class="line"><span class="lineno">  581</span>            <span class="keywordflow">if</span> (itr-&gt;hasGuid(itrQueue-&gt;first))</div>
+<div class="line"><span class="lineno">  582</span>            {</div>
+<div class="line"><span class="lineno">  583</span>                ++numOfCompatibles;</div>
+<div class="line"><span class="lineno">  584</span>                <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a36ec812546b40a0e34d918a48b5f555c">UpdateBestCompatibleInQueue</a>(itrQueue, *itr);</div>
+<div class="line"><span class="lineno">  585</span>            }</div>
+<div class="line"><span class="lineno">  586</span>        <span class="keywordflow">return</span> numOfCompatibles;</div>
+<div class="line"><span class="lineno">  587</span>    }</div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_a72b6c026f78e941e7759f7efbd30761a"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">lfg::LFGQueue::CompatibleList</a></div><div class="ttdeci">LfgCompatibleContainer CompatibleList</div><div class="ttdef"><b>Definition</b> LFGQueue.h:112</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">CompatibleList</a>, and <a class="el" href="../../#l00586">UpdateBestCompatibleInQueue()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00112">CompatibleList</a>, and <a class="el" href="../../#l00589">UpdateBestCompatibleInQueue()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">UpdateQueueTimers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">UpdateQueueTimers()</a>.</p>
 
 </div>
 </div>
@@ -866,13 +869,13 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  570</span>    {</div>
-<div class="line"><span class="lineno">  571</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>[guid].joinTime;</div>
-<div class="line"><span class="lineno">  572</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  573</span>    {</div>
+<div class="line"><span class="lineno">  574</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>[guid].joinTime;</div>
+<div class="line"><span class="lineno">  575</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00111">QueueDataStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01825">lfg::LFGMgr::UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01909">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -1021,7 +1024,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, <a class="el" href="../../#l00149">RemoveFromCompatibles()</a>, <a class="el" href="../../#l00099">RemoveFromNewQueue()</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02731">lfg::LFGMgr::AllQueued()</a>, <a class="el" href="../../#l00246">CheckCompatibility()</a>, <a class="el" href="../../#l00511">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l00826">lfg::LFGMgr::LeaveLfg()</a>, and <a class="el" href="../../#l01928">lfg::LFGMgr::RemoveProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02818">lfg::LFGMgr::AllQueued()</a>, <a class="el" href="../../#l00246">CheckCompatibility()</a>, <a class="el" href="../../#l00595">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l00910">lfg::LFGMgr::LeaveLfg()</a>, and <a class="el" href="../../#l02012">lfg::LFGMgr::RemoveProposal()</a>.</p>
 
 </div>
 </div>
@@ -1049,7 +1052,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01825">lfg::LFGMgr::UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01909">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -1122,31 +1125,31 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  587</span>    {</div>
-<div class="line"><span class="lineno">  588</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;UpdateBestCompatibleInQueue: {}&quot;</span>, key.toString());</div>
-<div class="line"><span class="lineno">  589</span>        LfgQueueData&amp; queueData = itrQueue-&gt;second;</div>
-<div class="line"><span class="lineno">  590</span> </div>
-<div class="line"><span class="lineno">  591</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> storedSize = queueData.bestCompatible.size();</div>
-<div class="line"><span class="lineno">  592</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> size = key.size();</div>
+<div class="fragment"><div class="line"><span class="lineno">  590</span>    {</div>
+<div class="line"><span class="lineno">  591</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;UpdateBestCompatibleInQueue: {}&quot;</span>, key.toString());</div>
+<div class="line"><span class="lineno">  592</span>        LfgQueueData&amp; queueData = itrQueue-&gt;second;</div>
 <div class="line"><span class="lineno">  593</span> </div>
-<div class="line"><span class="lineno">  594</span>        <span class="keywordflow">if</span> (size &lt;= storedSize)</div>
-<div class="line"><span class="lineno">  595</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  594</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> storedSize = queueData.bestCompatible.size();</div>
+<div class="line"><span class="lineno">  595</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> size = key.size();</div>
 <div class="line"><span class="lineno">  596</span> </div>
-<div class="line"><span class="lineno">  597</span>        queueData.bestCompatible = key;</div>
-<div class="line"><span class="lineno">  598</span>        queueData.tanks = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">LFG_TANKS_NEEDED</a>;</div>
-<div class="line"><span class="lineno">  599</span>        queueData.healers = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">LFG_HEALERS_NEEDED</a>;</div>
-<div class="line"><span class="lineno">  600</span>        queueData.dps = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">LFG_DPS_NEEDED</a>;</div>
-<div class="line"><span class="lineno">  601</span>        <span class="keywordflow">for</span> (LfgRolesMap::const_iterator it = key.roles-&gt;begin(); it != key.roles-&gt;end(); ++it)</div>
-<div class="line"><span class="lineno">  602</span>        {</div>
-<div class="line"><span class="lineno">  603</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> role = it-&gt;second;</div>
-<div class="line"><span class="lineno">  604</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)</div>
-<div class="line"><span class="lineno">  605</span>                --queueData.tanks;</div>
-<div class="line"><span class="lineno">  606</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>)</div>
-<div class="line"><span class="lineno">  607</span>                --queueData.healers;</div>
-<div class="line"><span class="lineno">  608</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  609</span>                --queueData.dps;</div>
-<div class="line"><span class="lineno">  610</span>        }</div>
-<div class="line"><span class="lineno">  611</span>    }</div>
+<div class="line"><span class="lineno">  597</span>        <span class="keywordflow">if</span> (size &lt;= storedSize)</div>
+<div class="line"><span class="lineno">  598</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  599</span> </div>
+<div class="line"><span class="lineno">  600</span>        queueData.bestCompatible = key;</div>
+<div class="line"><span class="lineno">  601</span>        queueData.tanks = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">LFG_TANKS_NEEDED</a>;</div>
+<div class="line"><span class="lineno">  602</span>        queueData.healers = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">LFG_HEALERS_NEEDED</a>;</div>
+<div class="line"><span class="lineno">  603</span>        queueData.dps = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">LFG_DPS_NEEDED</a>;</div>
+<div class="line"><span class="lineno">  604</span>        <span class="keywordflow">for</span> (LfgRolesMap::const_iterator it = key.roles-&gt;begin(); it != key.roles-&gt;end(); ++it)</div>
+<div class="line"><span class="lineno">  605</span>        {</div>
+<div class="line"><span class="lineno">  606</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> role = it-&gt;second;</div>
+<div class="line"><span class="lineno">  607</span>            <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>)</div>
+<div class="line"><span class="lineno">  608</span>                --queueData.tanks;</div>
+<div class="line"><span class="lineno">  609</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (role &amp; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>)</div>
+<div class="line"><span class="lineno">  610</span>                --queueData.healers;</div>
+<div class="line"><span class="lineno">  611</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  612</span>                --queueData.dps;</div>
+<div class="line"><span class="lineno">  613</span>        }</div>
+<div class="line"><span class="lineno">  614</span>    }</div>
 <div class="ttc" id="anamespacelfg_html_a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaa1e3d8db3c36adb0658523698531e36ff">lfg::LFG_HEALERS_NEEDED</a></div><div class="ttdeci">@ LFG_HEALERS_NEEDED</div><div class="ttdef"><b>Definition</b> LFG.h:33</div></div>
 <div class="ttc" id="anamespacelfg_html_a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaab8f2d0b0ac5a1792e43f0e1c22426fe5">lfg::LFG_TANKS_NEEDED</a></div><div class="ttdeci">@ LFG_TANKS_NEEDED</div><div class="ttdef"><b>Definition</b> LFG.h:32</div></div>
 <div class="ttc" id="anamespacelfg_html_a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6"><div class="ttname"><a href="../../de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baaaed2c93535d7ee14377e3b48abe10c5c6">lfg::LFG_DPS_NEEDED</a></div><div class="ttdeci">@ LFG_DPS_NEEDED</div><div class="ttdef"><b>Definition</b> LFG.h:34</div></div>
@@ -1155,7 +1158,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00055">lfg::LfgQueueData::bestCompatible</a>, <a class="el" href="../../#l00052">lfg::LfgQueueData::dps</a>, <a class="el" href="../../#l00051">lfg::LfgQueueData::healers</a>, <a class="el" href="../../#l00034">lfg::LFG_DPS_NEEDED</a>, <a class="el" href="../../#l00033">lfg::LFG_HEALERS_NEEDED</a>, <a class="el" href="../../#l00032">lfg::LFG_TANKS_NEEDED</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00126">lfg::Lfg5Guids::roles</a>, <a class="el" href="../../#l00158">lfg::Lfg5Guids::size()</a>, <a class="el" href="../../#l00050">lfg::LfgQueueData::tanks</a>, and <a class="el" href="../../#l00489">lfg::Lfg5Guids::toString()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00246">CheckCompatibility()</a>, and <a class="el" href="../../#l00574">FindBestCompatibleInQueue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">CheckCompatibility()</a>, and <a class="el" href="../../#l00577">FindBestCompatibleInQueue()</a>.</p>
 
 </div>
 </div>
@@ -1174,110 +1177,110 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  470</span>    {</div>
-<div class="line"><span class="lineno">  471</span>        time_t currTime = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
-<div class="line"><span class="lineno">  472</span>        <span class="keywordtype">bool</span> sendQueueStatus = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  473</span> </div>
-<div class="line"><span class="lineno">  474</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">m_QueueStatusTimer</a> &gt; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7cac951b3dea36df017f7463d58209b14f2">LFG_QUEUEUPDATE_INTERVAL</a>)</div>
-<div class="line"><span class="lineno">  475</span>        {</div>
-<div class="line"><span class="lineno">  476</span>            <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">m_QueueStatusTimer</a> = 0;</div>
-<div class="line"><span class="lineno">  477</span>            sendQueueStatus = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  478</span>        }</div>
-<div class="line"><span class="lineno">  479</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  480</span>            <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">m_QueueStatusTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  481</span> </div>
-<div class="line"><span class="lineno">  482</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;UPDATE UpdateQueueTimers&quot;</span>);</div>
-<div class="line"><span class="lineno">  483</span>        <span class="keywordflow">for</span> (Lfg5GuidsList::iterator it = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.begin(); it != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.end(); )</div>
-<div class="line"><span class="lineno">  484</span>        {</div>
-<div class="line"><span class="lineno">  485</span>            Lfg5GuidsList::iterator itr = it++;</div>
-<div class="line"><span class="lineno">  486</span>            <span class="keywordflow">if</span> (itr-&gt;empty())</div>
-<div class="line"><span class="lineno">  487</span>            {</div>
-<div class="line"><span class="lineno">  488</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;UpdateQueueTimers ERASE compatible&quot;</span>);</div>
-<div class="line"><span class="lineno">  489</span>                <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  490</span>            }</div>
-<div class="line"><span class="lineno">  491</span>        }</div>
-<div class="line"><span class="lineno">  492</span> </div>
-<div class="line"><span class="lineno">  493</span>        <span class="keywordflow">if</span> (!sendQueueStatus)</div>
-<div class="line"><span class="lineno">  494</span>        {</div>
-<div class="line"><span class="lineno">  495</span>            <span class="keywordflow">for</span> (LfgQueueDataContainer::iterator itQueue = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.begin(); itQueue != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.end(); )</div>
-<div class="line"><span class="lineno">  496</span>            {</div>
-<div class="line"><span class="lineno">  497</span>                <span class="keywordflow">if</span> (currTime - itQueue-&gt;second.joinTime &gt; 2 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a>)</div>
-<div class="line"><span class="lineno">  498</span>                {</div>
-<div class="line"><span class="lineno">  499</span>                    <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid = itQueue-&gt;first;</div>
-<div class="line"><span class="lineno">  500</span>                    <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.erase(itQueue++);</div>
-<div class="line"><span class="lineno">  501</span>                    <a class="code hl_define" href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveAllLfgQueues(guid, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  502</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  503</span>                }</div>
-<div class="line"><span class="lineno">  504</span>                <span class="keywordflow">if</span> (itQueue-&gt;second.bestCompatible.empty())</div>
-<div class="line"><span class="lineno">  505</span>                {</div>
-<div class="line"><span class="lineno">  506</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> numOfCompatibles = <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c">FindBestCompatibleInQueue</a>(itQueue);</div>
-<div class="line"><span class="lineno">  507</span>                    <span class="keywordflow">if</span> (numOfCompatibles <span class="comment">/*must be positive, because proposals don&#39;t delete QueueQueueData*/</span> &amp;&amp; currTime - itQueue-&gt;second.lastRefreshTime &gt;= 60 &amp;&amp; numOfCompatibles &lt; (5 - itQueue-&gt;second.bestCompatible.roles-&gt;size()) * 25)</div>
-<div class="line"><span class="lineno">  508</span>                    {</div>
-<div class="line"><span class="lineno">  509</span>                        itQueue-&gt;second.lastRefreshTime = currTime;</div>
-<div class="line"><span class="lineno">  510</span>                        <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a7eed7dd32ff16c88e277ec269ba6e3d9">AddToQueue</a>(itQueue-&gt;first, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  511</span>                    }</div>
-<div class="line"><span class="lineno">  512</span>                }</div>
-<div class="line"><span class="lineno">  513</span>                ++itQueue;</div>
-<div class="line"><span class="lineno">  514</span>            }</div>
-<div class="line"><span class="lineno">  515</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  516</span>        }</div>
-<div class="line"><span class="lineno">  517</span> </div>
-<div class="line"><span class="lineno">  518</span>        <span class="comment">// LOG_TRACE(&quot;lfg&quot;, &quot;Updating queue timers...&quot;);</span></div>
-<div class="line"><span class="lineno">  519</span>        <span class="keywordflow">for</span> (LfgQueueDataContainer::iterator itQueue = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.begin(); itQueue != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.end(); ++itQueue)</div>
-<div class="line"><span class="lineno">  520</span>        {</div>
-<div class="line"><span class="lineno">  521</span>            LfgQueueData&amp; queueinfo = itQueue-&gt;second;</div>
-<div class="line"><span class="lineno">  522</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeonId = (*queueinfo.dungeons.begin());</div>
-<div class="line"><span class="lineno">  523</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> queuedTime = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(currTime - queueinfo.joinTime);</div>
-<div class="line"><span class="lineno">  524</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> role = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>;</div>
-<div class="line"><span class="lineno">  525</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> waitTime = -1;</div>
-<div class="line"><span class="lineno">  526</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtTank = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a601c7fc4c45afab5b8bccd10bb859cd2">waitTimesTankStore</a>[dungeonId].time;</div>
-<div class="line"><span class="lineno">  527</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtHealer = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ae11efd436bf476d434e92432a6db4c5a">waitTimesHealerStore</a>[dungeonId].time;</div>
-<div class="line"><span class="lineno">  528</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtDps = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad6a3508c6a249526a259cbd9c6213eef">waitTimesDpsStore</a>[dungeonId].time;</div>
-<div class="line"><span class="lineno">  529</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtAvg = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a6c6ed35eb7117aa46772457236935a97">waitTimesAvgStore</a>[dungeonId].time;</div>
-<div class="line"><span class="lineno">  530</span> </div>
-<div class="line"><span class="lineno">  531</span>            <span class="keywordflow">for</span> (LfgRolesMap::const_iterator itPlayer = queueinfo.roles.begin(); itPlayer != queueinfo.roles.end(); ++itPlayer)</div>
-<div class="line"><span class="lineno">  532</span>                role |= itPlayer-&gt;second;</div>
-<div class="line"><span class="lineno">  533</span>            role &amp;= ~PLAYER_ROLE_LEADER;</div>
-<div class="line"><span class="lineno">  534</span> </div>
-<div class="line"><span class="lineno">  535</span>            <span class="keywordflow">switch</span> (role)</div>
-<div class="line"><span class="lineno">  536</span>            {</div>
-<div class="line"><span class="lineno">  537</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>:                                <span class="comment">// Should not happen - just in case</span></div>
-<div class="line"><span class="lineno">  538</span>                    waitTime = -1;</div>
-<div class="line"><span class="lineno">  539</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  540</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>:</div>
-<div class="line"><span class="lineno">  541</span>                    waitTime = wtTank;</div>
+<div class="fragment"><div class="line"><span class="lineno">  473</span>    {</div>
+<div class="line"><span class="lineno">  474</span>        time_t currTime = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  475</span>        <span class="keywordtype">bool</span> sendQueueStatus = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  476</span> </div>
+<div class="line"><span class="lineno">  477</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">m_QueueStatusTimer</a> &gt; <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#a2b5cf5a4940992366122159776b67c7cac951b3dea36df017f7463d58209b14f2">LFG_QUEUEUPDATE_INTERVAL</a>)</div>
+<div class="line"><span class="lineno">  478</span>        {</div>
+<div class="line"><span class="lineno">  479</span>            <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">m_QueueStatusTimer</a> = 0;</div>
+<div class="line"><span class="lineno">  480</span>            sendQueueStatus = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  481</span>        }</div>
+<div class="line"><span class="lineno">  482</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  483</span>            <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">m_QueueStatusTimer</a> += diff;</div>
+<div class="line"><span class="lineno">  484</span> </div>
+<div class="line"><span class="lineno">  485</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;UPDATE UpdateQueueTimers&quot;</span>);</div>
+<div class="line"><span class="lineno">  486</span>        <span class="keywordflow">for</span> (Lfg5GuidsList::iterator it = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.begin(); it != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.end(); )</div>
+<div class="line"><span class="lineno">  487</span>        {</div>
+<div class="line"><span class="lineno">  488</span>            Lfg5GuidsList::iterator itr = it++;</div>
+<div class="line"><span class="lineno">  489</span>            <span class="keywordflow">if</span> (itr-&gt;empty())</div>
+<div class="line"><span class="lineno">  490</span>            {</div>
+<div class="line"><span class="lineno">  491</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;UpdateQueueTimers ERASE compatible&quot;</span>);</div>
+<div class="line"><span class="lineno">  492</span>                <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a72b6c026f78e941e7759f7efbd30761a">CompatibleList</a>.erase(itr);</div>
+<div class="line"><span class="lineno">  493</span>            }</div>
+<div class="line"><span class="lineno">  494</span>        }</div>
+<div class="line"><span class="lineno">  495</span> </div>
+<div class="line"><span class="lineno">  496</span>        <span class="keywordflow">if</span> (!sendQueueStatus)</div>
+<div class="line"><span class="lineno">  497</span>        {</div>
+<div class="line"><span class="lineno">  498</span>            <span class="keywordflow">for</span> (LfgQueueDataContainer::iterator itQueue = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.begin(); itQueue != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.end(); )</div>
+<div class="line"><span class="lineno">  499</span>            {</div>
+<div class="line"><span class="lineno">  500</span>                <span class="keywordflow">if</span> (currTime - itQueue-&gt;second.joinTime &gt; 2 * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a>)</div>
+<div class="line"><span class="lineno">  501</span>                {</div>
+<div class="line"><span class="lineno">  502</span>                    <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> guid = itQueue-&gt;first;</div>
+<div class="line"><span class="lineno">  503</span>                    <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.erase(itQueue++);</div>
+<div class="line"><span class="lineno">  504</span>                    <a class="code hl_define" href="../../de/d3d/LFGMgr_8h.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>-&gt;LeaveAllLfgQueues(guid, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  505</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  506</span>                }</div>
+<div class="line"><span class="lineno">  507</span>                <span class="keywordflow">if</span> (itQueue-&gt;second.bestCompatible.empty())</div>
+<div class="line"><span class="lineno">  508</span>                {</div>
+<div class="line"><span class="lineno">  509</span>                    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> numOfCompatibles = <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c">FindBestCompatibleInQueue</a>(itQueue);</div>
+<div class="line"><span class="lineno">  510</span>                    <span class="keywordflow">if</span> (numOfCompatibles <span class="comment">/*must be positive, because proposals don&#39;t delete QueueQueueData*/</span> &amp;&amp; currTime - itQueue-&gt;second.lastRefreshTime &gt;= 60 &amp;&amp; numOfCompatibles &lt; (5 - itQueue-&gt;second.bestCompatible.roles-&gt;size()) * 25)</div>
+<div class="line"><span class="lineno">  511</span>                    {</div>
+<div class="line"><span class="lineno">  512</span>                        itQueue-&gt;second.lastRefreshTime = currTime;</div>
+<div class="line"><span class="lineno">  513</span>                        <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a7eed7dd32ff16c88e277ec269ba6e3d9">AddToQueue</a>(itQueue-&gt;first, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  514</span>                    }</div>
+<div class="line"><span class="lineno">  515</span>                }</div>
+<div class="line"><span class="lineno">  516</span>                ++itQueue;</div>
+<div class="line"><span class="lineno">  517</span>            }</div>
+<div class="line"><span class="lineno">  518</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  519</span>        }</div>
+<div class="line"><span class="lineno">  520</span> </div>
+<div class="line"><span class="lineno">  521</span>        <span class="comment">// LOG_TRACE(&quot;lfg&quot;, &quot;Updating queue timers...&quot;);</span></div>
+<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">for</span> (LfgQueueDataContainer::iterator itQueue = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.begin(); itQueue != <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a0adcad64f55e00a27a89a2330fbc0b00">QueueDataStore</a>.end(); ++itQueue)</div>
+<div class="line"><span class="lineno">  523</span>        {</div>
+<div class="line"><span class="lineno">  524</span>            LfgQueueData&amp; queueinfo = itQueue-&gt;second;</div>
+<div class="line"><span class="lineno">  525</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dungeonId = (*queueinfo.dungeons.begin());</div>
+<div class="line"><span class="lineno">  526</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> queuedTime = <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(currTime - queueinfo.joinTime);</div>
+<div class="line"><span class="lineno">  527</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> role = <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>;</div>
+<div class="line"><span class="lineno">  528</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> waitTime = -1;</div>
+<div class="line"><span class="lineno">  529</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtTank = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a601c7fc4c45afab5b8bccd10bb859cd2">waitTimesTankStore</a>[dungeonId].time;</div>
+<div class="line"><span class="lineno">  530</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtHealer = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ae11efd436bf476d434e92432a6db4c5a">waitTimesHealerStore</a>[dungeonId].time;</div>
+<div class="line"><span class="lineno">  531</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtDps = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#ad6a3508c6a249526a259cbd9c6213eef">waitTimesDpsStore</a>[dungeonId].time;</div>
+<div class="line"><span class="lineno">  532</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> wtAvg = <a class="code hl_variable" href="../../dd/da2/classlfg_1_1LFGQueue.html#a6c6ed35eb7117aa46772457236935a97">waitTimesAvgStore</a>[dungeonId].time;</div>
+<div class="line"><span class="lineno">  533</span> </div>
+<div class="line"><span class="lineno">  534</span>            <span class="keywordflow">for</span> (LfgRolesMap::const_iterator itPlayer = queueinfo.roles.begin(); itPlayer != queueinfo.roles.end(); ++itPlayer)</div>
+<div class="line"><span class="lineno">  535</span>                role |= itPlayer-&gt;second;</div>
+<div class="line"><span class="lineno">  536</span>            role &amp;= ~PLAYER_ROLE_LEADER;</div>
+<div class="line"><span class="lineno">  537</span> </div>
+<div class="line"><span class="lineno">  538</span>            <span class="keywordflow">switch</span> (role)</div>
+<div class="line"><span class="lineno">  539</span>            {</div>
+<div class="line"><span class="lineno">  540</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">PLAYER_ROLE_NONE</a>:                                <span class="comment">// Should not happen - just in case</span></div>
+<div class="line"><span class="lineno">  541</span>                    waitTime = -1;</div>
 <div class="line"><span class="lineno">  542</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  543</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>:</div>
-<div class="line"><span class="lineno">  544</span>                    waitTime = wtHealer;</div>
+<div class="line"><span class="lineno">  543</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca808970a6df969b4333cb33b9e912df3c">PLAYER_ROLE_TANK</a>:</div>
+<div class="line"><span class="lineno">  544</span>                    waitTime = wtTank;</div>
 <div class="line"><span class="lineno">  545</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  546</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>:</div>
-<div class="line"><span class="lineno">  547</span>                    waitTime = wtDps;</div>
+<div class="line"><span class="lineno">  546</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdcaea1fdd287c89408bc39023c14f9b08d2">PLAYER_ROLE_HEALER</a>:</div>
+<div class="line"><span class="lineno">  547</span>                    waitTime = wtHealer;</div>
 <div class="line"><span class="lineno">  548</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  549</span>                <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  550</span>                    waitTime = wtAvg;</div>
+<div class="line"><span class="lineno">  549</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">PLAYER_ROLE_DAMAGE</a>:</div>
+<div class="line"><span class="lineno">  550</span>                    waitTime = wtDps;</div>
 <div class="line"><span class="lineno">  551</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  552</span>            }</div>
-<div class="line"><span class="lineno">  553</span> </div>
-<div class="line"><span class="lineno">  554</span>            <span class="keywordflow">if</span> (queueinfo.bestCompatible.empty())</div>
-<div class="line"><span class="lineno">  555</span>            {</div>
-<div class="line"><span class="lineno">  556</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;found empty bestCompatible&quot;</span>);</div>
-<div class="line"><span class="lineno">  557</span>                <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c">FindBestCompatibleInQueue</a>(itQueue);</div>
-<div class="line"><span class="lineno">  558</span>            }</div>
-<div class="line"><span class="lineno">  559</span> </div>
-<div class="line"><span class="lineno">  560</span>            LfgQueueStatusData queueData(dungeonId, waitTime, wtAvg, wtTank, wtHealer, wtDps, queuedTime, queueinfo.tanks, queueinfo.healers, queueinfo.dps);</div>
-<div class="line"><span class="lineno">  561</span>            <span class="keywordflow">for</span> (LfgRolesMap::const_iterator itPlayer = queueinfo.roles.begin(); itPlayer != queueinfo.roles.end(); ++itPlayer)</div>
-<div class="line"><span class="lineno">  562</span>            {</div>
-<div class="line"><span class="lineno">  563</span>                <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> pguid = itPlayer-&gt;first;</div>
-<div class="line"><span class="lineno">  564</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae6435826655908729b096a3b1c142cfb">LFGMgr::SendLfgQueueStatus</a>(pguid, queueData);</div>
-<div class="line"><span class="lineno">  565</span>            }</div>
-<div class="line"><span class="lineno">  566</span>        }</div>
-<div class="line"><span class="lineno">  567</span>    }</div>
+<div class="line"><span class="lineno">  552</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  553</span>                    waitTime = wtAvg;</div>
+<div class="line"><span class="lineno">  554</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  555</span>            }</div>
+<div class="line"><span class="lineno">  556</span> </div>
+<div class="line"><span class="lineno">  557</span>            <span class="keywordflow">if</span> (queueinfo.bestCompatible.empty())</div>
+<div class="line"><span class="lineno">  558</span>            {</div>
+<div class="line"><span class="lineno">  559</span>                <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;lfg&quot;</span>, <span class="stringliteral">&quot;found empty bestCompatible&quot;</span>);</div>
+<div class="line"><span class="lineno">  560</span>                <a class="code hl_function" href="../../dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c">FindBestCompatibleInQueue</a>(itQueue);</div>
+<div class="line"><span class="lineno">  561</span>            }</div>
+<div class="line"><span class="lineno">  562</span> </div>
+<div class="line"><span class="lineno">  563</span>            LfgQueueStatusData queueData(dungeonId, waitTime, wtAvg, wtTank, wtHealer, wtDps, queuedTime, queueinfo.tanks, queueinfo.healers, queueinfo.dps);</div>
+<div class="line"><span class="lineno">  564</span>            <span class="keywordflow">for</span> (LfgRolesMap::const_iterator itPlayer = queueinfo.roles.begin(); itPlayer != queueinfo.roles.end(); ++itPlayer)</div>
+<div class="line"><span class="lineno">  565</span>            {</div>
+<div class="line"><span class="lineno">  566</span>                <a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> pguid = itPlayer-&gt;first;</div>
+<div class="line"><span class="lineno">  567</span>                <a class="code hl_function" href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae6435826655908729b096a3b1c142cfb">LFGMgr::SendLfgQueueStatus</a>(pguid, queueData);</div>
+<div class="line"><span class="lineno">  568</span>            }</div>
+<div class="line"><span class="lineno">  569</span>        }</div>
+<div class="line"><span class="lineno">  570</span>    }</div>
 <div class="ttc" id="aCommon_8h_html_ac78ba8a81d12635c129fe2f92ca46c6f"><div class="ttname"><a href="../../dc/d33/Common_8h.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a></div><div class="ttdeci">constexpr auto HOUR</div><div class="ttdef"><b>Definition</b> Common.h:48</div></div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
-<div class="ttc" id="aclasslfg_1_1LFGMgr_html_ae6435826655908729b096a3b1c142cfb"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae6435826655908729b096a3b1c142cfb">lfg::LFGMgr::SendLfgQueueStatus</a></div><div class="ttdeci">static void SendLfgQueueStatus(ObjectGuid guid, LfgQueueStatusData const &amp;data)</div><div class="ttdoc">Sends queue status to player.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2703</div></div>
+<div class="ttc" id="aclasslfg_1_1LFGMgr_html_ae6435826655908729b096a3b1c142cfb"><div class="ttname"><a href="../../d2/dbc/classlfg_1_1LFGMgr.html#ae6435826655908729b096a3b1c142cfb">lfg::LFGMgr::SendLfgQueueStatus</a></div><div class="ttdeci">static void SendLfgQueueStatus(ObjectGuid guid, LfgQueueStatusData const &amp;data)</div><div class="ttdoc">Sends queue status to player.</div><div class="ttdef"><b>Definition</b> LFGMgr.cpp:2790</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_a601c7fc4c45afab5b8bccd10bb859cd2"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a601c7fc4c45afab5b8bccd10bb859cd2">lfg::LFGQueue::waitTimesTankStore</a></div><div class="ttdeci">LfgWaitTimesContainer waitTimesTankStore</div><div class="ttdef"><b>Definition</b> LFGQueue.h:116</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_a6c6ed35eb7117aa46772457236935a97"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a6c6ed35eb7117aa46772457236935a97">lfg::LFGQueue::waitTimesAvgStore</a></div><div class="ttdeci">LfgWaitTimesContainer waitTimesAvgStore</div><div class="ttdef"><b>Definition</b> LFGQueue.h:115</div></div>
-<div class="ttc" id="aclasslfg_1_1LFGQueue_html_a70df692d0a73ae385c7620469935dd5c"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c">lfg::LFGQueue::FindBestCompatibleInQueue</a></div><div class="ttdeci">uint32 FindBestCompatibleInQueue(LfgQueueDataContainer::iterator itrQueue)</div><div class="ttdef"><b>Definition</b> LFGQueue.cpp:574</div></div>
+<div class="ttc" id="aclasslfg_1_1LFGQueue_html_a70df692d0a73ae385c7620469935dd5c"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#a70df692d0a73ae385c7620469935dd5c">lfg::LFGQueue::FindBestCompatibleInQueue</a></div><div class="ttdeci">uint32 FindBestCompatibleInQueue(LfgQueueDataContainer::iterator itrQueue)</div><div class="ttdef"><b>Definition</b> LFGQueue.cpp:577</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_ad6a3508c6a249526a259cbd9c6213eef"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#ad6a3508c6a249526a259cbd9c6213eef">lfg::LFGQueue::waitTimesDpsStore</a></div><div class="ttdeci">LfgWaitTimesContainer waitTimesDpsStore</div><div class="ttdef"><b>Definition</b> LFGQueue.h:118</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_ad963ea078c2e9fd33e695bc62e6f2e7c"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#ad963ea078c2e9fd33e695bc62e6f2e7c">lfg::LFGQueue::m_QueueStatusTimer</a></div><div class="ttdeci">uint32 m_QueueStatusTimer</div><div class="ttdef"><b>Definition</b> LFGQueue.h:110</div></div>
 <div class="ttc" id="aclasslfg_1_1LFGQueue_html_ae11efd436bf476d434e92432a6db4c5a"><div class="ttname"><a href="../../dd/da2/classlfg_1_1LFGQueue.html#ae11efd436bf476d434e92432a6db4c5a">lfg::LFGQueue::waitTimesHealerStore</a></div><div class="ttdeci">LfgWaitTimesContainer waitTimesHealerStore</div><div class="ttdef"><b>Definition</b> LFGQueue.h:117</div></div>
@@ -1285,7 +1288,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="anamespacelfg_html_ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed"><div class="ttname"><a href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca670b6714e53cc7bd31a2cf680d03efed">lfg::PLAYER_ROLE_DAMAGE</a></div><div class="ttdeci">@ PLAYER_ROLE_DAMAGE</div><div class="ttdef"><b>Definition</b> LFG.h:43</div></div>
 <div class="ttc" id="anamespacelfg_html_ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca"><div class="ttname"><a href="../../de/d72/namespacelfg.html#ad029231df694177db4bad322ad868fdca91a7fd2ae529c38df6417b72279c57ca">lfg::PLAYER_ROLE_NONE</a></div><div class="ttdeci">@ PLAYER_ROLE_NONE</div><div class="ttdef"><b>Definition</b> LFG.h:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">AddToQueue()</a>, <a class="el" href="../../#l00055">lfg::LfgQueueData::bestCompatible</a>, <a class="el" href="../../#l00112">CompatibleList</a>, <a class="el" href="../../#l00052">lfg::LfgQueueData::dps</a>, <a class="el" href="../../#l00053">lfg::LfgQueueData::dungeons</a>, <a class="el" href="../../#l00155">lfg::Lfg5Guids::empty()</a>, <a class="el" href="../../#l00574">FindBestCompatibleInQueue()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00051">lfg::LfgQueueData::healers</a>, <a class="el" href="../../#l00048">HOUR</a>, <a class="el" href="../../#l00048">lfg::LfgQueueData::joinTime</a>, <a class="el" href="../../#l00051">lfg::LFG_QUEUEUPDATE_INTERVAL</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00110">m_QueueStatusTimer</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00039">lfg::PLAYER_ROLE_NONE</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, <a class="el" href="../../#l00054">lfg::LfgQueueData::roles</a>, <a class="el" href="../../#l02703">lfg::LFGMgr::SendLfgQueueStatus()</a>, <a class="el" href="../../#l00646">sLFGMgr</a>, <a class="el" href="../../#l00050">lfg::LfgQueueData::tanks</a>, <a class="el" href="../../#l00115">waitTimesAvgStore</a>, <a class="el" href="../../#l00118">waitTimesDpsStore</a>, <a class="el" href="../../#l00117">waitTimesHealerStore</a>, and <a class="el" href="../../#l00116">waitTimesTankStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">AddToQueue()</a>, <a class="el" href="../../#l00055">lfg::LfgQueueData::bestCompatible</a>, <a class="el" href="../../#l00112">CompatibleList</a>, <a class="el" href="../../#l00052">lfg::LfgQueueData::dps</a>, <a class="el" href="../../#l00053">lfg::LfgQueueData::dungeons</a>, <a class="el" href="../../#l00155">lfg::Lfg5Guids::empty()</a>, <a class="el" href="../../#l00577">FindBestCompatibleInQueue()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00051">lfg::LfgQueueData::healers</a>, <a class="el" href="../../#l00048">HOUR</a>, <a class="el" href="../../#l00048">lfg::LfgQueueData::joinTime</a>, <a class="el" href="../../#l00051">lfg::LFG_QUEUEUPDATE_INTERVAL</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00110">m_QueueStatusTimer</a>, <a class="el" href="../../#l00043">lfg::PLAYER_ROLE_DAMAGE</a>, <a class="el" href="../../#l00042">lfg::PLAYER_ROLE_HEALER</a>, <a class="el" href="../../#l00039">lfg::PLAYER_ROLE_NONE</a>, <a class="el" href="../../#l00041">lfg::PLAYER_ROLE_TANK</a>, <a class="el" href="../../#l00111">QueueDataStore</a>, <a class="el" href="../../#l00054">lfg::LfgQueueData::roles</a>, <a class="el" href="../../#l02790">lfg::LFGMgr::SendLfgQueueStatus()</a>, <a class="el" href="../../#l00658">sLFGMgr</a>, <a class="el" href="../../#l00050">lfg::LfgQueueData::tanks</a>, <a class="el" href="../../#l00115">waitTimesAvgStore</a>, <a class="el" href="../../#l00118">waitTimesDpsStore</a>, <a class="el" href="../../#l00117">waitTimesHealerStore</a>, and <a class="el" href="../../#l00116">waitTimesTankStore</a>.</p>
 
 </div>
 </div>
@@ -1322,7 +1325,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00062">lfg::LfgWaitTime::number</a>, <a class="el" href="../../#l00061">lfg::LfgWaitTime::time</a>, and <a class="el" href="../../#l00115">waitTimesAvgStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01825">lfg::LFGMgr::UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01909">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -1359,7 +1362,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00062">lfg::LfgWaitTime::number</a>, <a class="el" href="../../#l00061">lfg::LfgWaitTime::time</a>, and <a class="el" href="../../#l00118">waitTimesDpsStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01825">lfg::LFGMgr::UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01909">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -1396,7 +1399,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00062">lfg::LfgWaitTime::number</a>, <a class="el" href="../../#l00061">lfg::LfgWaitTime::time</a>, and <a class="el" href="../../#l00117">waitTimesHealerStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01825">lfg::LFGMgr::UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01909">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -1433,7 +1436,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00062">lfg::LfgWaitTime::number</a>, <a class="el" href="../../#l00061">lfg::LfgWaitTime::time</a>, and <a class="el" href="../../#l00116">waitTimesTankStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01825">lfg::LFGMgr::UpdateProposal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01909">lfg::LFGMgr::UpdateProposal()</a>.</p>
 
 </div>
 </div>
@@ -1458,7 +1461,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00574">FindBestCompatibleInQueue()</a>, <a class="el" href="../../#l00175">FindGroups()</a>, <a class="el" href="../../#l00197">FindNewGroups()</a>, <a class="el" href="../../#l00149">RemoveFromCompatibles()</a>, and <a class="el" href="../../#l00469">UpdateQueueTimers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00577">FindBestCompatibleInQueue()</a>, <a class="el" href="../../#l00175">FindGroups()</a>, <a class="el" href="../../#l00197">FindNewGroups()</a>, <a class="el" href="../../#l00149">RemoveFromCompatibles()</a>, and <a class="el" href="../../#l00472">UpdateQueueTimers()</a>.</p>
 
 </div>
 </div>
@@ -1506,7 +1509,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">UpdateQueueTimers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">UpdateQueueTimers()</a>.</p>
 
 </div>
 </div>
@@ -1554,7 +1557,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00106">AddQueueData()</a>, <a class="el" href="../../#l00036">AddToQueue()</a>, <a class="el" href="../../#l00246">CheckCompatibility()</a>, <a class="el" href="../../#l00569">GetJoinTime()</a>, <a class="el" href="../../#l00049">RemoveFromQueue()</a>, <a class="el" href="../../#l00113">RemoveQueueData()</a>, and <a class="el" href="../../#l00469">UpdateQueueTimers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00106">AddQueueData()</a>, <a class="el" href="../../#l00036">AddToQueue()</a>, <a class="el" href="../../#l00246">CheckCompatibility()</a>, <a class="el" href="../../#l00572">GetJoinTime()</a>, <a class="el" href="../../#l00049">RemoveFromQueue()</a>, <a class="el" href="../../#l00113">RemoveQueueData()</a>, and <a class="el" href="../../#l00472">UpdateQueueTimers()</a>.</p>
 
 </div>
 </div>
@@ -1602,7 +1605,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00121">UpdateWaitTimeAvg()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00121">UpdateWaitTimeAvg()</a>.</p>
 
 </div>
 </div>
@@ -1626,7 +1629,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00142">UpdateWaitTimeDps()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00142">UpdateWaitTimeDps()</a>.</p>
 
 </div>
 </div>
@@ -1650,7 +1653,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00135">UpdateWaitTimeHealer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00135">UpdateWaitTimeHealer()</a>.</p>
 
 </div>
 </div>
@@ -1674,7 +1677,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00469">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00128">UpdateWaitTimeTank()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00472">UpdateQueueTimers()</a>, and <a class="el" href="../../#l00128">UpdateWaitTimeTank()</a>.</p>
 
 </div>
 </div>
@@ -1688,7 +1691,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d72/namespacelfg.html">lfg</a></li><li class="navelem"><a class="el" href="../../dd/da2/classlfg_1_1LFGQueue.html">LFGQueue</a></li>
-    <li class="footer">Generated on Fri Feb 27 2026 06:48:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Feb 28 2026 06:34:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

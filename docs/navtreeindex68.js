@@ -1,5 +1,7 @@
 var NAVTREEINDEX68 =
 {
+"d2/d73/classScriptMgr.html#a817be72f0a1cc900008be6087fb74ba0":[6,0,2544,410],
+"d2/d73/classScriptMgr.html#a826317933785486230ad57ddde2d7b5b":[6,0,2544,239],
 "d2/d73/classScriptMgr.html#a82d5fe3f34855a583e0acfd62048da83":[6,0,2544,302],
 "d2/d73/classScriptMgr.html#a83318fb17b1463bcd7262e3c07fe1986":[6,0,2544,262],
 "d2/d73/classScriptMgr.html#a835229c05d3f501202182837def81989":[6,0,2544,398],
@@ -224,11 +226,11 @@ var NAVTREEINDEX68 =
 "d2/d73/classScriptMgr.html#afebd2c8dbe07c66a60a59484e65361ce":[6,0,2544,452],
 "d2/d73/classScriptMgr.html#aff9a8ed02bf9ee5d4af463232ea4e1d5":[6,0,2544,28],
 "d2/d73/classScriptMgr.html#affb1862a353fbc0e9b89eb664fe5f797":[6,0,2544,57],
-"d2/d73/classStartMovementEvent.html":[6,0,4428],
-"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[6,0,4428,0],
-"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4428,2],
-"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4428,1],
-"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4428,3],
+"d2/d73/classStartMovementEvent.html":[6,0,4431],
+"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[6,0,4431,0],
+"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4431,2],
+"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4431,1],
+"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4431,3],
 "d2/d73/classitem__incendiary__explosives.html":[6,0,1394],
 "d2/d73/classitem__incendiary__explosives.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4":[6,0,1394,1],
 "d2/d73/classitem__incendiary__explosives.html#a3a10f4e40374cae75a5ed320385a67f9":[6,0,1394,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d75/Duration_8h.html#a7f38d5f5e7db75251b49712f910059ac":[7,0,0,0,0,15,6,12],
 "d2/d75/Duration_8h.html#a7ff3ff81243ee7b2ce873364bb7ad676":[7,0,0,0,0,15,6,13],
 "d2/d75/Duration_8h.html#a983745490d3d3a0322c4ccf0f418f179":[7,0,0,0,0,15,6,9],
-"d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083":[7,0,0,0,0,15,6,1],
-"d2/d75/Duration_8h.html#ab4fa20b33a9b5ee358963159b01d72f3":[7,0,0,0,0,15,6,10],
-"d2/d75/Duration_8h.html#ada798961abc5a533d616ff780f567bb6":[7,0,0,0,0,15,6,7]
+"d2/d75/Duration_8h.html#aa0f87984d2b3835a61dffc22ae8bf083":[7,0,0,0,0,15,6,1]
 };

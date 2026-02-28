@@ -94,11 +94,13 @@ var namespaces_dup =
     [ "FactorySelector", "d1/d44/namespaceFactorySelector.html", "d1/d44/namespaceFactorySelector" ],
     [ "G3D", "d1/d71/namespaceG3D.html", null ],
     [ "GameTime", "df/d3e/namespaceGameTime.html", [
+      [ "Elapsed", "df/d3e/namespaceGameTime.html#af9a7dcb5dfa331445f56900767b13e8b", null ],
       [ "GetGameTime", "df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
       [ "GetGameTimeMS", "df/d3e/namespaceGameTime.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
       [ "GetStartTime", "df/d3e/namespaceGameTime.html#a872d34d3f9d420cfc749073c809931f9", null ],
       [ "GetSystemTime", "df/d3e/namespaceGameTime.html#a443eccf314fe436192278d425d6d8220", null ],
       [ "GetUptime", "df/d3e/namespaceGameTime.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+      [ "HasElapsed", "df/d3e/namespaceGameTime.html#a6acb8998bc9dae720531cb39082262f2", null ],
       [ "Now", "df/d3e/namespaceGameTime.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
       [ "UpdateGameTimers", "df/d3e/namespaceGameTime.html#a45712735241c9563a12fc3da54fb144d", null ],
       [ "GameMSTime", "df/d3e/namespaceGameTime.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],

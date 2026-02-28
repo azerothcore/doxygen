@@ -1130,6 +1130,7 @@ var Language_8h =
       [ "LANG_SELECT_PLAYER_OR_PET", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa487e61b5378be9dc3fd349133520681e", null ],
       [ "LANG_BAN_IP_YOUBANNEDMESSAGE_WORLD", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa70c17c2b9baf99fd3e7776625b5af50b", null ],
       [ "LANG_BAN_IP_YOUPERMBANNEDMESSAGE_WORLD", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6f0b7a8a3baa951554aab2aafeb720ea", null ],
+      [ "LANG_LFG_COOLDOWN_CLEARED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa3e7f16f45ee65d7d3f18243751722076", null ],
       [ "LANG_MUTED_PLAYER", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aab7be95117f7015b1ded46f6ac80185e1", null ],
       [ "LANG_TOGGLE_INSTANT_FLIGHT", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4a7d71af37424437effc8a540693f884", null ],
       [ "LANG_INSTANT_FLIGHT_ON", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7449b8067e1a347f182f1472de53fdc4", null ],
