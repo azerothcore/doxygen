@@ -1,6 +1,7 @@
 var structChrRacesEntry =
 [
     [ "HasFlag", "d3/d9d/structChrRacesEntry.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "alliance", "d3/d9d/structChrRacesEntry.html#a44c3824aef4f4724c189727f12801a5b", null ],
     [ "CinematicSequence", "d3/d9d/structChrRacesEntry.html#a33a01b1c26b21706d9898af246f2a0df", null ],
     [ "expansion", "d3/d9d/structChrRacesEntry.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
     [ "FactionID", "d3/d9d/structChrRacesEntry.html#a5c66801f2f89aeb847699a2dd87486c7", null ],

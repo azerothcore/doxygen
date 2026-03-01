@@ -1,5 +1,12 @@
 var NAVTREEINDEX48 =
 {
+"d1/de2/classspell__magtheridon__blaze.html#af0841e5c67c981b792a8d8f0d0d18edc":[6,0,3598,0],
+"d1/de2/structSelectableAI.html":[6,0,2553],
+"d1/de2/structSelectableAI.html#af34ed4ae0c831a3dd41585704488528f":[6,0,2553,0],
+"d1/de4/SteadyTimer_8h.html":[7,0,0,0,0,0,5],
+"d1/de4/SteadyTimer_8h.html#a546bd84b57be90f3ceb4cfc0fb92ae1c":[7,0,0,0,0,0,5,0],
+"d1/de4/spell__generic_8cpp.html":[7,0,0,0,1,3,9,2],
+"d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484":[7,0,0,0,1,3,9,2,163],
 "d1/de4/spell__generic_8cpp.html#a049dcab166f9314dc0300fb7a66e2484a116b52b7535b0bfe2d0390371fbc2690":[7,0,0,0,1,3,9,2,163,0],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34f":[7,0,0,0,1,3,9,2,194],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa01612c983854a7806b4c2da23cc5f9a5":[7,0,0,0,1,3,9,2,194,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX48 =
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609aee45db189cb7fe3822ab527b9fecfb68":[7,0,0,0,1,3,9,2,213,12],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609af3c70cd2faa18c4b284b7e590d543593":[7,0,0,0,1,3,9,2,213,17],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609af6967a17fa4ef21bd7b4f2836c7aa3b8":[7,0,0,0,1,3,9,2,213,9],
-"d1/de4/spell__generic_8cpp.html#aa8c4d3da0110db6ed905a7290901c630":[7,0,0,0,1,3,9,2,192],
-"d1/de4/spell__generic_8cpp.html#aa8c4d3da0110db6ed905a7290901c630aa7fc3707e4da741c5c4fd7f15851a68e":[7,0,0,0,1,3,9,2,192,0],
-"d1/de4/spell__generic_8cpp.html#aaa058613c2097e6d21c6151fbb72bf57":[7,0,0,0,1,3,9,2,170],
-"d1/de4/spell__generic_8cpp.html#aaa058613c2097e6d21c6151fbb72bf57a1396b53df23a07216edf1b11fcc6dd3e":[7,0,0,0,1,3,9,2,170,0],
-"d1/de4/spell__generic_8cpp.html#aaa058613c2097e6d21c6151fbb72bf57a7c97a046feca9e41c58137495bf39a4f":[7,0,0,0,1,3,9,2,170,1],
-"d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715":[7,0,0,0,1,3,9,2,204],
-"d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715a2f8d43dc95b7c8a614dc514348e41405":[7,0,0,0,1,3,9,2,204,1],
-"d1/de4/spell__generic_8cpp.html#aae02be788a7c7f9a814b72f3da36b715ad08f16f521ec63bc5f7ddc6df33c8967":[7,0,0,0,1,3,9,2,204,0]
+"d1/de4/spell__generic_8cpp.html#aa8c4d3da0110db6ed905a7290901c630":[7,0,0,0,1,3,9,2,192]
 };

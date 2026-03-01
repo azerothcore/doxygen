@@ -339,26 +339,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  495</span>    {</div>
-<div class="line"><span class="lineno">  496</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>() != <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  497</span>        {</div>
-<div class="line"><span class="lineno">  498</span>            std::list&lt;TargetInfo&gt;* targetsInfo = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">GetSpell</a>()-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3">GetUniqueTargetInfo</a>();</div>
-<div class="line"><span class="lineno">  499</span>            <span class="keywordflow">for</span> (std::list&lt;TargetInfo&gt;::iterator ihit = targetsInfo-&gt;begin(); ihit != targetsInfo-&gt;end(); ++ihit)</div>
-<div class="line"><span class="lineno">  500</span>                <span class="keywordflow">if</span> (ihit-&gt;targetGUID == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
-<div class="line"><span class="lineno">  501</span>                    ihit-&gt;damage = -<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * 0.25f);</div>
-<div class="line"><span class="lineno">  502</span>        }</div>
-<div class="line"><span class="lineno">  503</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  499</span>    {</div>
+<div class="line"><span class="lineno">  500</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>() != <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  501</span>        {</div>
+<div class="line"><span class="lineno">  502</span>            std::list&lt;TargetInfo&gt;* targetsInfo = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">GetSpell</a>()-&gt;<a class="code hl_function" href="../../d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3">GetUniqueTargetInfo</a>();</div>
+<div class="line"><span class="lineno">  503</span>            <span class="keywordflow">for</span> (std::list&lt;TargetInfo&gt;::iterator ihit = targetsInfo-&gt;begin(); ihit != targetsInfo-&gt;end(); ++ihit)</div>
+<div class="line"><span class="lineno">  504</span>                <span class="keywordflow">if</span> (ihit-&gt;targetGUID == <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>())</div>
+<div class="line"><span class="lineno">  505</span>                    ihit-&gt;damage = -<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_function" href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">GetHitDamage</a>() * 0.25f);</div>
+<div class="line"><span class="lineno">  506</span>        }</div>
+<div class="line"><span class="lineno">  507</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:113</div></div>
 <div class="ttc" id="aclassSpellScript_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aclassSpellScript_html_a926f5fbcba4bc513a7cd3777888fa895"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a926f5fbcba4bc513a7cd3777888fa895">SpellScript::GetSpell</a></div><div class="ttdeci">Spell * GetSpell()</div><div class="ttdef"><b>Definition</b> SpellScript.h:442</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassSpellScript_html_aff69d3a9a6f02ae0afa8f8bbaa543493"><div class="ttname"><a href="../../df/d92/classSpellScript.html#aff69d3a9a6f02ae0afa8f8bbaa543493">SpellScript::GetHitDamage</a></div><div class="ttdeci">int32 GetHitDamage()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:514</div></div>
-<div class="ttc" id="aclassSpell_html_ac60eb5ed3630c60f4e6723b3832778a3"><div class="ttname"><a href="../../d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3">Spell::GetUniqueTargetInfo</a></div><div class="ttdeci">std::list&lt; TargetInfo &gt; * GetUniqueTargetInfo()</div><div class="ttdef"><b>Definition</b> Spell.h:601</div></div>
+<div class="ttc" id="aclassSpell_html_ac60eb5ed3630c60f4e6723b3832778a3"><div class="ttname"><a href="../../d1/d16/classSpell.html#ac60eb5ed3630c60f4e6723b3832778a3">Spell::GetUniqueTargetInfo</a></div><div class="ttdeci">std::list&lt; TargetInfo &gt; * GetUniqueTargetInfo()</div><div class="ttdef"><b>Definition</b> Spell.h:602</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00442">SpellScript::GetSpell()</a>, and <a class="el" href="../../#l00601">Spell::GetUniqueTargetInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00514">SpellScript::GetHitDamage()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00442">SpellScript::GetSpell()</a>, and <a class="el" href="../../#l00602">Spell::GetUniqueTargetInfo()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00505">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00509">Register()</a>.</p>
 
 </div>
 </div>
@@ -386,14 +386,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  506</span>    {</div>
-<div class="line"><span class="lineno">  507</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d0/dca/classspell__pet__gen__valkyr__guardian__smite.html#af01757d0968da2a096d800782ed7e66e">spell_pet_gen_valkyr_guardian_smite::RecalculateDamage</a>);</div>
-<div class="line"><span class="lineno">  508</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  510</span>    {</div>
+<div class="line"><span class="lineno">  511</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d0/dca/classspell__pet__gen__valkyr__guardian__smite.html#af01757d0968da2a096d800782ed7e66e">spell_pet_gen_valkyr_guardian_smite::RecalculateDamage</a>);</div>
+<div class="line"><span class="lineno">  512</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:345</div></div>
-<div class="ttc" id="aclassspell__pet__gen__valkyr__guardian__smite_html_af01757d0968da2a096d800782ed7e66e"><div class="ttname"><a href="../../d0/dca/classspell__pet__gen__valkyr__guardian__smite.html#af01757d0968da2a096d800782ed7e66e">spell_pet_gen_valkyr_guardian_smite::RecalculateDamage</a></div><div class="ttdeci">void RecalculateDamage()</div><div class="ttdef"><b>Definition</b> pet_generic.cpp:494</div></div>
+<div class="ttc" id="aclassspell__pet__gen__valkyr__guardian__smite_html_af01757d0968da2a096d800782ed7e66e"><div class="ttname"><a href="../../d0/dca/classspell__pet__gen__valkyr__guardian__smite.html#af01757d0968da2a096d800782ed7e66e">spell_pet_gen_valkyr_guardian_smite::RecalculateDamage</a></div><div class="ttdeci">void RecalculateDamage()</div><div class="ttdef"><b>Definition</b> pet_generic.cpp:498</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00345">SpellScript::OnHit</a>, <a class="el" href="../../#l00494">RecalculateDamage()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00345">SpellScript::OnHit</a>, <a class="el" href="../../#l00498">RecalculateDamage()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -406,7 +406,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/dca/classspell__pet__gen__valkyr__guardian__smite.html">spell_pet_gen_valkyr_guardian_smite</a></li>
-    <li class="footer">Generated on Sat Feb 28 2026 06:34:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Mar 1 2026 06:42:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

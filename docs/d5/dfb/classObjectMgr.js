@@ -382,7 +382,7 @@ var classObjectMgr =
     [ "_petHalfName1", "d5/dfb/classObjectMgr.html#a21d968f5c87559c65e929c6bbf2423ba", null ],
     [ "_petInfoStore", "d5/dfb/classObjectMgr.html#a8793465152bc8eaec02f3212bf736537", null ],
     [ "_playerClassInfo", "d5/dfb/classObjectMgr.html#ab20931ba72c3598a90379ae0a1f2e372", null ],
-    [ "_playerInfo", "d5/dfb/classObjectMgr.html#a09b20d94350c77afef61dbb5249baf83", null ],
+    [ "_playerInfo", "d5/dfb/classObjectMgr.html#a29658a41cfd4fedd9a02254c667b9d0e", null ],
     [ "_playerShapeshiftModel", "d5/dfb/classObjectMgr.html#ade11768f3e9835b1d822c337b985bf10", null ],
     [ "_playerTotemModel", "d5/dfb/classObjectMgr.html#a55cc65f00e1e10644980e88703b020c0", null ],
     [ "_playerXPperLevel", "d5/dfb/classObjectMgr.html#ad805cf5617dd768f3f390b2587ebf6a3", null ],

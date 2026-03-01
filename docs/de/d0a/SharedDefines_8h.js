@@ -21,7 +21,6 @@ var SharedDefines_8h =
     [ "MAX_GLYPH_SLOT_INDEX", "de/d0a/SharedDefines_8h.html#a81bad32063c8fa96f892b95fbcb156ca", null ],
     [ "MAX_ITEM_QUALITY", "de/d0a/SharedDefines_8h.html#a8b7f3e9bd0473c61e8fd7bb42b24faaa", null ],
     [ "MAX_PET_DIET", "de/d0a/SharedDefines_8h.html#a424f0b4e4e15f4bbc962a18ed30895db", null ],
-    [ "MAX_RACES", "de/d0a/SharedDefines_8h.html#a4f1557efbaca04e932287ce09a5b5206", null ],
     [ "MAX_REPUTATION_RANK", "de/d0a/SharedDefines_8h.html#a1a7eedbd325882888a3de6c19d38261a", null ],
     [ "MAX_SHEATHETYPE", "de/d0a/SharedDefines_8h.html#a5b0201c2562467d1f4b39abdd19b74e2", null ],
     [ "MAX_SKILL_TYPE", "de/d0a/SharedDefines_8h.html#a97abb2e37f990652334199396083aec1", null ],
@@ -34,9 +33,6 @@ var SharedDefines_8h =
     [ "MIN_REPUTATION_RANK", "de/d0a/SharedDefines_8h.html#a37ec5c9991b7291bce7ffa92f82534e1", null ],
     [ "PER_CASTER_AURA_STATE_MASK", "de/d0a/SharedDefines_8h.html#a8758dc4a07850cb0ded0c0d98eb4cd1c", null ],
     [ "PLAYER_MAX_BATTLEGROUND_QUEUES", "de/d0a/SharedDefines_8h.html#ae00102953affc07f8aa49666d1b97c3c", null ],
-    [ "RACEMASK_ALL_PLAYABLE", "de/d0a/SharedDefines_8h.html#ad935ca576b06ccd85380777030e2585f", null ],
-    [ "RACEMASK_ALLIANCE", "de/d0a/SharedDefines_8h.html#abffe645bbf68feff37eaf74e61486e39", null ],
-    [ "RACEMASK_HORDE", "de/d0a/SharedDefines_8h.html#ab5e19e68728e875c58ac966d530981d3", null ],
     [ "THIS_SERVER_PROCESS", "de/d0a/SharedDefines_8h.html#a2df3f69215188ccffab8728c27a25c7c", null ],
     [ "ActivateTaxiReply", "de/d0a/SharedDefines_8h.html#ada2af0eed6774f9140d937699ba7d5f9", [
       [ "ERR_TAXIOK", "de/d0a/SharedDefines_8h.html#ada2af0eed6774f9140d937699ba7d5f9a02cb695f52e0b79fe7f34bee5d30d6a2", null ],
@@ -59,6 +55,11 @@ var SharedDefines_8h =
       [ "AI_REACTION_HOSTILE", "de/d0a/SharedDefines_8h.html#a778970dac3bad037a4c508ce518dc7b4a49ef9a8648347ca7a01b7f41d73f3449", null ],
       [ "AI_REACTION_AFRAID", "de/d0a/SharedDefines_8h.html#a778970dac3bad037a4c508ce518dc7b4a92d109bc070803c27ebe74428d562a01", null ],
       [ "AI_REACTION_DESTROY", "de/d0a/SharedDefines_8h.html#a778970dac3bad037a4c508ce518dc7b4a0e0f3bf806425942db2acc965ebfb8de", null ]
+    ] ],
+    [ "AllianceId", "de/d0a/SharedDefines_8h.html#a796ad9c090eebb8bc66086d5e0bf8ccc", [
+      [ "ALLIANCE_ALLIANCE", "de/d0a/SharedDefines_8h.html#a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245", null ],
+      [ "ALLIANCE_HORDE", "de/d0a/SharedDefines_8h.html#a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd", null ],
+      [ "ALLIANCE_NEUTRAL", "de/d0a/SharedDefines_8h.html#a796ad9c090eebb8bc66086d5e0bf8ccca91d076bfe68ad36c48eeff0467de2ae8", null ]
     ] ],
     [ "Anim", "de/d0a/SharedDefines_8h.html#a58404e1297c1d828412a4cf0ad4af4c8", [
       [ "ANIM_STAND", "de/d0a/SharedDefines_8h.html#a58404e1297c1d828412a4cf0ad4af4c8aa9a862a767f66c86f7740c65b8418efa", null ],
@@ -3420,12 +3421,6 @@ var SharedDefines_8h =
       [ "TRADE_STATUS_TRIAL_ACCOUNT", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a8e35a1abafd96036e35aea8560b8f344", null ],
       [ "TRADE_STATUS_WRONG_REALM", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a6e7c98c523d286503e0130e2f11ab0e5", null ],
       [ "TRADE_STATUS_NOT_ON_TAPLIST", "de/d0a/SharedDefines_8h.html#a4d14fbf24745aec4ec29280851d99dc0a23f855ef3a6842510d0e85b20bdd3069", null ]
-    ] ],
-    [ "UnitClass", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513", [
-      [ "UNIT_CLASS_WARRIOR", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513a82ee56c66d74c68ef6c9c7d4e493f264", null ],
-      [ "UNIT_CLASS_PALADIN", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513ae17277aa4d51b995823743271857bff8", null ],
-      [ "UNIT_CLASS_ROGUE", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513ac921e18b79889379bb168f38f695c7fb", null ],
-      [ "UNIT_CLASS_MAGE", "de/d0a/SharedDefines_8h.html#a4321ed64e2a894e642a49be85920b513a03a8ccef67ecc87b91e9399e626ee46d", null ]
     ] ],
     [ "UnitDynFlags", "de/d0a/SharedDefines_8h.html#a6d2f7a5452237dadf8fd3aed70f44039", [
       [ "UNIT_DYNFLAG_NONE", "de/d0a/SharedDefines_8h.html#a6d2f7a5452237dadf8fd3aed70f44039a7846c0137067e3870ef646bc0f6d0a05", null ],

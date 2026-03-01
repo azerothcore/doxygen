@@ -6,6 +6,7 @@ var boss__lady__vashj_8cpp =
     [ "spell_lady_vashj_summon_sporebat", "d6/d7f/classspell__lady__vashj__summon__sporebat.html", "d6/d7f/classspell__lady__vashj__summon__sporebat" ],
     [ "spell_lady_vashj_spore_drop_effect", "dd/d59/classspell__lady__vashj__spore__drop__effect.html", "dd/d59/classspell__lady__vashj__spore__drop__effect" ],
     [ "spell_lady_vashj_summons", "d5/d22/classspell__lady__vashj__summons.html", "d5/d22/classspell__lady__vashj__summons" ],
+    [ "spell_lady_vashj_tainted_core_paralyze", "d8/d25/classspell__lady__vashj__tainted__core__paralyze.html", "d8/d25/classspell__lady__vashj__tainted__core__paralyze" ],
     [ "Misc", "d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "ITEM_TAINTED_CORE", "d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ed31d628663339b15d99c7e0ebe47af", null ],
       [ "POINT_HOME", "d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a032be97ee26935943c3313fb24491162", null ],

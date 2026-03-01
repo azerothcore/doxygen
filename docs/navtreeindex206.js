@@ -1,5 +1,13 @@
 var NAVTREEINDEX206 =
 {
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#aea65a8fab859db4396690d846d10f5a1":[6,0,494,0,5],
+"d7/da9/structboss__frostsworn__general_1_1boss__frostsworn__generalAI.html#afd3e486cd9a0ac18d10675f40f7f6314":[6,0,494,0,0],
+"d7/daa/LFG_8cpp.html":[7,0,0,0,1,2,15,0],
+"d7/daa/LFG_8cpp.html#a9d097d73fe8f096de2098ac74022b643":[7,0,0,0,1,2,15,0,2],
+"d7/daa/LFG_8cpp.html#adc336ffd636b51b0052448739671d46b":[7,0,0,0,1,2,15,0,1],
+"d7/daa/LFG_8cpp.html#aeaebe53b818ad905c96d2cc56c18b7ca":[7,0,0,0,1,2,15,0,0],
+"d7/dab/classboss__toravon.html":[6,0,757],
+"d7/dab/classboss__toravon.html#a6db140b1d232312300e20155830cb249":[6,0,757,2],
 "d7/dab/classboss__toravon.html#abd30a86924bd7dd9474b5df16f3a8d8d":[6,0,757,1],
 "d7/dab/classnpc__tirion__fordring__tft.html":[6,0,2194],
 "d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2194,1],
@@ -15,10 +23,10 @@ var NAVTREEINDEX206 =
 "d7/daf/classboss__noth.html":[6,0,650],
 "d7/daf/classboss__noth.html#a2760f1ec46a21f22de0e57527cbe9768":[6,0,650,1],
 "d7/daf/classboss__noth.html#a534f30792c051ab44c6c07c9347893e5":[6,0,650,2],
-"d7/daf/classspell__hun__disengage.html":[6,0,3207],
-"d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[6,0,3207,2],
-"d7/daf/classspell__hun__disengage.html#a849de7a9bc8d22ca1556e4e798807eaa":[6,0,3207,0],
-"d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[6,0,3207,1],
+"d7/daf/classspell__hun__disengage.html":[6,0,3208],
+"d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[6,0,3208,2],
+"d7/daf/classspell__hun__disengage.html#a849de7a9bc8d22ca1556e4e798807eaa":[6,0,3208,0],
+"d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[6,0,3208,1],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html":[6,0,727,0],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a08babc3ca2cd76891b9c0e196e461c79":[6,0,727,0,1],
 "d7/daf/structboss__taerar_1_1boss__taerarAI.html#a2d49f2ce95d16cfc1b9525256f0a6bc2":[6,0,727,0,11],
@@ -241,13 +249,5 @@ var NAVTREEINDEX206 =
 "d7/db0/classMap.html#ab8a0f0ee2c5280d116fef1c28f3c52cd":[6,0,1492,147],
 "d7/db0/classMap.html#ab9855e187255da4c4bdb41c5debadcb0":[6,0,1492,237],
 "d7/db0/classMap.html#abd2e3763ea880bfd74f4b1288ca16e89":[6,0,1492,241],
-"d7/db0/classMap.html#abd3105b1a9479ade772f6a4c47d4c83b":[6,0,1492,30],
-"d7/db0/classMap.html#abd49e22094a2e7fac3a2b242e7514847":[6,0,1492,159],
-"d7/db0/classMap.html#abdac644dc3c8b30989d16efe624c8894":[6,0,1492,110],
-"d7/db0/classMap.html#abdb1b9067ac6ad5b27ec537c654a2e1a":[6,0,1492,139],
-"d7/db0/classMap.html#abe71c918251dd915dc490c0c2e78ea97":[6,0,1492,53],
-"d7/db0/classMap.html#abea8ed605071226978969647a0246e86":[6,0,1492,92],
-"d7/db0/classMap.html#abf584fdf26c71394f42c8a440d98804e":[6,0,1492,224],
-"d7/db0/classMap.html#ac128082bd657db6000ab05ad5a6b0f95":[6,0,1492,189],
-"d7/db0/classMap.html#ac1c96f4061f210aad8d8cb1c7de0aa0f":[6,0,1492,200]
+"d7/db0/classMap.html#abd3105b1a9479ade772f6a4c47d4c83b":[6,0,1492,30]
 };

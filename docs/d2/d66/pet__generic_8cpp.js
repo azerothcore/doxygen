@@ -65,6 +65,6 @@ var pet__generic_8cpp =
       [ "SPELL_TURKEY_STARTS_TO_BURN", "d2/d66/pet__generic_8cpp.html#a8bc1d91a992db83fed0477b2a50adca3acae2431d12566203a4dd6826000d74c5", null ]
     ] ],
     [ "AddSC_generic_pet_scripts", "d2/d66/pet__generic_8cpp.html#a9852812a043673e45884dca938eff157", null ],
-    [ "argentBanners", "d2/d66/pet__generic_8cpp.html#ab65fc23daecf619037accd45b3b5e28d", null ],
+    [ "argentBanners", "d2/d66/pet__generic_8cpp.html#a186564f573420d5c2e6647a2f9b1096e", null ],
     [ "argentPonyService", "d2/d66/pet__generic_8cpp.html#a4fcf1a55583a661981f5b5fda27a7eab", null ]
 ];

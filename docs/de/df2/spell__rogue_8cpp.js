@@ -29,6 +29,8 @@ var spell__rogue_8cpp =
     [ "spell_rog_turn_the_tables", "d8/db7/classspell__rog__turn__the__tables.html", "d8/db7/classspell__rog__turn__the__tables" ],
     [ "spell_rog_turn_the_tables_proc", "dc/dad/classspell__rog__turn__the__tables__proc.html", "dc/dad/classspell__rog__turn__the__tables__proc" ],
     [ "spell_rog_focused_attacks", "d7/db0/classspell__rog__focused__attacks.html", "d7/db0/classspell__rog__focused__attacks" ],
+    [ "spell_rog_cold_blood", "d8/d48/classspell__rog__cold__blood.html", "d8/d48/classspell__rog__cold__blood" ],
+    [ "spell_rog_mutilate", "dc/df4/classspell__rog__mutilate.html", "dc/df4/classspell__rog__mutilate" ],
     [ "KillingSpreeScriptName", "de/df2/spell__rogue_8cpp.html#a3113dcef6ca918382eb15e4803d7bb42", null ],
     [ "spell_rog_killing_spree_aura_script", "de/df2/spell__rogue_8cpp.html#a68df6411a1d33b37aed8e2cb7d35de0f", null ],
     [ "RogueSpellIcons", "de/df2/spell__rogue_8cpp.html#ae3ad41089c64de2a13f94210b4a033be", [
@@ -58,7 +60,8 @@ var spell__rogue_8cpp =
       [ "SPELL_ROGUE_TURN_THE_TABLES_R3", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a82bb35cce1cfe2530826c5effe613f70", null ],
       [ "SPELL_ROGUE_OVERKILL_TRIGGERED", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523ac5b76000cd2f67af0845c57237749972", null ],
       [ "SPELL_ROGUE_HONOR_AMONG_THIEVES_PROC", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523ab7077f795ac8bed4bac85f5bd59cbc6e", null ],
-      [ "SPELL_ROGUE_HONOR_AMONG_THIEVES_TRIGGERED", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa8394c6d559ce082733c9cd01e45a5cc", null ]
+      [ "SPELL_ROGUE_HONOR_AMONG_THIEVES_TRIGGERED", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523aa8394c6d559ce082733c9cd01e45a5cc", null ],
+      [ "SPELL_ROGUE_COLD_BLOOD", "de/df2/spell__rogue_8cpp.html#a8b34bf8ceba4b8c2efea84d90002d523a9151b9010b4da41ba0080b1c90e159de", null ]
     ] ],
     [ "vanish", "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52", [
       [ "SPELL_STEALTH", "de/df2/spell__rogue_8cpp.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576", null ],

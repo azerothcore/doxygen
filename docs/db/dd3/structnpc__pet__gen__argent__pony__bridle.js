@@ -8,7 +8,7 @@ var structnpc__pet__gen__argent__pony__bridle =
     [ "OnGossipSelect", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a36f15c2c0ec3466b492148303e828403", null ],
     [ "Reset", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
     [ "UpdateAI", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
-    [ "_banners", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
+    [ "_banners", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a9c89972cde36f3d2b5686485f0e2905f", null ],
     [ "_init", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
     [ "_lastAura", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a4abeb86eb0179a77d47d737d67495411", null ],
     [ "_mountTimer", "db/dd3/structnpc__pet__gen__argent__pony__bridle.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
