@@ -466,6 +466,7 @@ var hierarchy =
         [ "spell_mage_brain_freeze", "d1/dcd/classspell__mage__brain__freeze.html", null ],
         [ "spell_mage_burning_determination", "d5/d60/classspell__mage__burning__determination.html", null ],
         [ "spell_mage_burnout", "d1/d68/classspell__mage__burnout.html", null ],
+        [ "spell_mage_clearcasting", "d4/d03/classspell__mage__clearcasting.html", null ],
         [ "spell_mage_combustion", "dd/dcd/classspell__mage__combustion.html", null ],
         [ "spell_mage_combustion_proc", "d5/df8/classspell__mage__combustion__proc.html", null ],
         [ "spell_mage_dragon_breath", "dd/d27/classspell__mage__dragon__breath.html", null ],
@@ -3695,6 +3696,7 @@ var hierarchy =
       [ "ArenaScript", "d6/d1d/classArenaScript.html", null ],
       [ "ArenaTeamScript", "d0/d32/classArenaTeamScript.html", null ],
       [ "AuctionHouseScript", "da/d5a/classAuctionHouseScript.html", null ],
+      [ "BattlefieldScript", "d4/d61/classBattlefieldScript.html", null ],
       [ "BattlegroundMapScript", "da/d99/classBattlegroundMapScript.html", null ],
       [ "BattlegroundScript", "d4/da9/classBattlegroundScript.html", null ],
       [ "CommandScript", "d1/d40/classCommandScript.html", [
@@ -4976,7 +4978,6 @@ var hierarchy =
           [ "npc_lk_spirit_bomb::npc_lk_spirit_bombAI", "d1/d60/structnpc__lk__spirit__bomb_1_1npc__lk__spirit__bombAI.html", null ],
           [ "npc_love_in_air_snivel", "db/d77/structnpc__love__in__air__snivel.html", null ],
           [ "npc_madrigosa", "da/d22/structnpc__madrigosa.html", null ],
-          [ "npc_mechanolift", "d5/d92/structnpc__mechanolift.html", null ],
           [ "npc_naxxramas_trigger", "d7/d49/classnpc__naxxramas__trigger.html", null ],
           [ "npc_nerubar_victim::npc_nerubar_victimAI", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html", null ],
           [ "npc_nightbane_helper_target", "d6/d07/structnpc__nightbane__helper__target.html", null ],

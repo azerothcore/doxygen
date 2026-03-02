@@ -88,6 +88,7 @@ var spell__paladin_8cpp =
     ] ],
     [ "PaladinSpellIcons", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75", [
       [ "PALADIN_ICON_ID_RETRIBUTION_AURA", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a4846eaf42f17564133602bfaefc563d7", null ],
+      [ "PALADIN_ICON_JUDGEMENTS_OF_THE_JUST", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a191694723c55d979d73034d21f0c73ce", null ],
       [ "PALADIN_ICON_JUDGEMENTS_OF_THE_WISE", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75aae189eec4e2cfeb46d16d2586f8e37dd", null ],
       [ "PALADIN_ICON_HAMMER_OF_THE_RIGHTEOUS", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75a94cce91ab20a9b642d5964a5b3d9d11d", null ],
       [ "PALADIN_ICON_RIGHTEOUS_VENGEANCE", "db/d16/spell__paladin_8cpp.html#afcd3af8358f8e093e96dc37cd9caba75aa8b2ac8c64000c63f5c4362f941e20a3", null ],
@@ -141,7 +142,10 @@ var spell__paladin_8cpp =
       [ "SPELL_PALADIN_HOLY_VENGEANCE", "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aa04478bfbd9088482d32a2b9be1baf68", null ],
       [ "SPELL_PALADIN_BLOOD_CORRUPTION", "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997aab5e92129a532ae938e29dec3ac9119f", null ],
       [ "SPELL_PALADIN_SEAL_OF_VENGEANCE_EFFECT", "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a17a5199969f77714058e81d1fb044dd6", null ],
-      [ "SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT", "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9", null ]
+      [ "SPELL_PALADIN_SEAL_OF_CORRUPTION_EFFECT", "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a5db1f4deefccd6b5e2bef81f44b801a9", null ],
+      [ "SPELL_PALADIN_SEAL_OF_COMMAND", "db/d16/spell__paladin_8cpp.html#a0d9fc6ef3866d56692ca47a1a36dc997a411e5e12431c6e471cfef84417376074", null ]
     ] ],
-    [ "AddSC_paladin_spell_scripts", "db/d16/spell__paladin_8cpp.html#a1b3a1eb790e51c96829e92e5c922f437", null ]
+    [ "AddSC_paladin_spell_scripts", "db/d16/spell__paladin_8cpp.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
+    [ "HasJudgementsOfTheJust", "db/d16/spell__paladin_8cpp.html#a2cd94a913b63488e2ac0619107111e5c", null ],
+    [ "IsJudgementDamageSpell", "db/d16/spell__paladin_8cpp.html#af4d2640cce45290deb97e0b4d1ede46d", null ]
 ];

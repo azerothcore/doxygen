@@ -1,5 +1,6 @@
 var classspell__pal__seal__of__vengeance__aura =
 [
+    [ "CheckProc", "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#aeeb075a2dcaf57b328e4196959c40390", null ],
     [ "HandleApplyDoT", "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#a4f832f97ae2f777c659876e20b7515a5", null ],
     [ "HandleSeal", "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#aca82977aa1ee943bc557a76d09dba147", null ],
     [ "Load", "d3/d1a/classspell__pal__seal__of__vengeance__aura.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],

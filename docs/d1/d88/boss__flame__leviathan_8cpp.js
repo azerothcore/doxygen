@@ -12,7 +12,6 @@ var boss__flame__leviathan_8cpp =
     [ "npc_brann_radio", "da/ddb/structnpc__brann__radio.html", "da/ddb/structnpc__brann__radio" ],
     [ "npc_storm_beacon_spawn", "d4/d3b/structnpc__storm__beacon__spawn.html", "d4/d3b/structnpc__storm__beacon__spawn" ],
     [ "boss_flame_leviathan_safety_container", "dc/dab/structboss__flame__leviathan__safety__container.html", "dc/dab/structboss__flame__leviathan__safety__container" ],
-    [ "npc_mechanolift", "d5/d92/structnpc__mechanolift.html", "d5/d92/structnpc__mechanolift" ],
     [ "go_ulduar_tower", "dc/d51/classgo__ulduar__tower.html", "dc/d51/classgo__ulduar__tower" ],
     [ "spell_load_into_catapult_aura", "d6/d58/classspell__load__into__catapult__aura.html", "d6/d58/classspell__load__into__catapult__aura" ],
     [ "spell_auto_repair", "d2/d1a/classspell__auto__repair.html", "d2/d1a/classspell__auto__repair" ],
@@ -40,7 +39,6 @@ var boss__flame__leviathan_8cpp =
       [ "EVENT_MISSILE", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1abfa57823f7fb4dd0b79c695426eccc21", null ],
       [ "EVENT_VENT", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0b28eb3a3391541940a0757fb35fc58c", null ],
       [ "EVENT_SPEED", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1449fe1d21eacce2126fef058bb32ec3", null ],
-      [ "EVENT_SUMMON", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1add8bdb393464292c61e1b11136a8099a", null ],
       [ "EVENT_REINSTALL", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a34b9ae422d4aac07a75ec58162e9fa70", null ],
       [ "EVENT_HODIRS_FURY", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a903848efd344a72da06e2617acd775f4", null ],
       [ "EVENT_FREYA", "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc052e50f034cb22a759436f67ea9de9", null ],
@@ -52,7 +50,6 @@ var boss__flame__leviathan_8cpp =
     [ "GosNpcs", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550", [
       [ "NPC_FLAME_LEVIATHAN_TURRET", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550aae2afab8f90fc421a8f5e65c951e9cb5", null ],
       [ "NPC_SEAT", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550afde1ee16f7ce2e9ac37eda5286bdc4a1", null ],
-      [ "NPC_MECHANOLIFT", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550abfe788724deab963bb086d5234777db5", null ],
       [ "NPC_LIQUID", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a9f151c8ed1d7dddc7c413473a0b32a90", null ],
       [ "NPC_ULDUAR_COLOSSUS", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a7e88244c64ef84f8d1ef43abe016e10b", null ],
       [ "NPC_BRANN_RADIO", "d1/d88/boss__flame__leviathan_8cpp.html#a640f990db89b5748398cd4fd8eb97550a25c0c7ff17faaf2dd5ecba40f542ca27", null ],

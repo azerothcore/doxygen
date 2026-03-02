@@ -1,5 +1,10 @@
 var NAVTREEINDEX98 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba80ddc539617cdfe2b21f022506053fcd":[7,0,0,0,1,2,48,7,0,264],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba818d38b39ad3d4e9c83c100a75f061e4":[7,0,0,0,1,2,48,7,0,394],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81942061571c827a340e4cb54e9d634f":[7,0,0,0,1,2,48,7,0,286],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba81cc2a0aaa76b709d9ef86d62f66dd17":[7,0,0,0,1,2,48,7,0,398],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba823df9e80a0ffee992cef7912d1a02e1":[7,0,0,0,1,2,48,7,0,366],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba828d18bca804a834ef2f9fc0d46a007f":[7,0,0,0,1,2,48,7,0,100],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba849508ce233f836f39602f85719a9fbc":[7,0,0,0,1,2,48,7,0,472],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba85010bce830526461df2c276efe59a20":[7,0,0,0,1,2,48,7,0,165],
@@ -244,10 +249,5 @@ var NAVTREEINDEX98 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafda7d78f46e93505e97a1a8d16cb4bf3":[7,0,0,0,1,2,48,7,0,386],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafdf35d8af70d4c3b62a5acbb9010b87a":[7,0,0,0,1,2,48,7,0,278],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafeb95eb352794e22f94e4e90db422a29":[7,0,0,0,1,2,48,7,0,330],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bafff6cc7a5b2a1da25fd15f8fb3df2380":[7,0,0,0,1,2,48,7,0,204],
-"d3/d46/classspell__mage__mirror__image.html":[6,0,3589],
-"d3/d46/classspell__mage__mirror__image.html#a404e5309016cfcaa3071c0216978699e":[6,0,3589,0],
-"d3/d46/classspell__mage__mirror__image.html#a60ffc059d00fd58abe7e758f06bbf35c":[6,0,3589,2],
-"d3/d46/classspell__mage__mirror__image.html#a9675e5c417e5e9a5a358a3ffb371073e":[6,0,3589,1]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baff79628895d6df56730be6afed375e96":[7,0,0,0,1,2,48,7,0,113]
 };

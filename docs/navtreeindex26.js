@@ -224,9 +224,9 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#afec646b713f94bf7e2fc8cd21d46a012":[6,0,2606,19],
 "d1/d16/classSpell.html#afecdd65c73b267d8cb2b9525bed5f851":[6,0,2606,54],
 "d1/d16/classSpell.html#aff5477a54c2dfe98575d5ea12984b86f":[6,0,2606,29],
-"d1/d16/classboss__lethon.html":[6,0,602],
-"d1/d16/classboss__lethon.html#a493baf37aac400635dd0409e79375a1c":[6,0,602,2],
-"d1/d16/classboss__lethon.html#a5d758979b061646830373de64b2b3af4":[6,0,602,1],
+"d1/d16/classboss__lethon.html":[6,0,603],
+"d1/d16/classboss__lethon.html#a493baf37aac400635dd0409e79375a1c":[6,0,603,2],
+"d1/d16/classboss__lethon.html#a5d758979b061646830373de64b2b3af4":[6,0,603,1],
 "d1/d16/classspell__alert__drums.html":[6,0,2615],
 "d1/d16/classspell__alert__drums.html#a4b00497e095b5c43571b543252b31e58":[6,0,2615,1],
 "d1/d16/classspell__alert__drums.html#a66b366f4989d99a58b331e56024e4520":[6,0,2615,0],
@@ -247,7 +247,7 @@ var NAVTREEINDEX26 =
 "d1/d16/structadt__liquid__instance.html#abb92a54ddecdd06c1031bafd41e642dc":[6,0,134,4],
 "d1/d16/structadt__liquid__instance.html#abfe19bd9c6d9d1d41433abe6fae3baea":[6,0,134,10],
 "d1/d16/structadt__liquid__instance.html#aecd2f6f40509d9b65f9f254e59298e8c":[6,0,134,2],
-"d1/d16/structboss__sartharion__vesperon.html":[6,0,697],
-"d1/d16/structboss__sartharion__vesperon.html#a0c45127e9eb2be20765f92e1161e2e5a":[6,0,697,1],
-"d1/d16/structboss__sartharion__vesperon.html#a3ce6d2036faa108cb97ebf75bdb6ad33":[6,0,697,0]
+"d1/d16/structboss__sartharion__vesperon.html":[6,0,698],
+"d1/d16/structboss__sartharion__vesperon.html#a0c45127e9eb2be20765f92e1161e2e5a":[6,0,698,1],
+"d1/d16/structboss__sartharion__vesperon.html#a3ce6d2036faa108cb97ebf75bdb6ad33":[6,0,698,0]
 };

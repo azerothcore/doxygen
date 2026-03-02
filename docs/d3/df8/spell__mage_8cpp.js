@@ -41,6 +41,7 @@ var spell__mage_8cpp =
     [ "spell_mage_dragon_breath", "dd/d27/classspell__mage__dragon__breath.html", "dd/d27/classspell__mage__dragon__breath" ],
     [ "spell_mage_frostfire_bolt", "da/dfa/classspell__mage__frostfire__bolt.html", "da/dfa/classspell__mage__frostfire__bolt" ],
     [ "spell_mage_ice_block", "de/db0/classspell__mage__ice__block.html", "de/db0/classspell__mage__ice__block" ],
+    [ "spell_mage_clearcasting", "d4/d03/classspell__mage__clearcasting.html", "d4/d03/classspell__mage__clearcasting" ],
     [ "spell_mage_missile_barrage_proc", "d5/dae/classspell__mage__missile__barrage__proc.html", "d5/dae/classspell__mage__missile__barrage__proc" ],
     [ "MageSpellIcons", "d3/df8/spell__mage_8cpp.html#a926dc2c0d9908e3fd08efcd7595ffb98", [
       [ "MAGE_ICON_MAGIC_ABSORPTION", "d3/df8/spell__mage_8cpp.html#a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606", null ],
@@ -89,7 +90,8 @@ var spell__mage_8cpp =
       [ "SPELL_MAGE_CHILLED_R3", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204", null ],
       [ "SPELL_MAGE_MANA_SURGE", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564", null ],
       [ "SPELL_MAGE_FROST_NOVA", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786", null ],
-      [ "SPELL_MAGE_LIVING_BOMB_R1", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb", null ]
+      [ "SPELL_MAGE_LIVING_BOMB_R1", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb", null ],
+      [ "SPELL_MAGE_MISSILE_BARRAGE_PROC", "d3/df8/spell__mage_8cpp.html#ab25cd6fd3bfda5736fd43f449c1b5124aea3e790fd819d1693c42451ed75d6648", null ]
     ] ],
     [ "SilvermoonPolymorph", "d3/df8/spell__mage_8cpp.html#ae65dd3851c1d875d7169727f6decf29a", [
       [ "NPC_AUROSALIA", "d3/df8/spell__mage_8cpp.html#ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25", null ]

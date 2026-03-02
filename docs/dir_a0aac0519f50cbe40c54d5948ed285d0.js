@@ -31,6 +31,8 @@ var dir_a0aac0519f50cbe40c54d5948ed285d0 =
     [ "ArenaTeamScript.h", "d6/d21/ArenaTeamScript_8h.html", "d6/d21/ArenaTeamScript_8h" ],
     [ "AuctionHouseScript.cpp", "d2/d22/AuctionHouseScript_8cpp.html", "d2/d22/AuctionHouseScript_8cpp" ],
     [ "AuctionHouseScript.h", "d4/d09/AuctionHouseScript_8h.html", "d4/d09/AuctionHouseScript_8h" ],
+    [ "BattlefieldScript.cpp", "d2/d31/BattlefieldScript_8cpp.html", "d2/d31/BattlefieldScript_8cpp" ],
+    [ "BattlefieldScript.h", "de/dbf/BattlefieldScript_8h.html", "de/dbf/BattlefieldScript_8h" ],
     [ "BattlegroundMapScript.cpp", "dd/dcb/BattlegroundMapScript_8cpp.html", "dd/dcb/BattlegroundMapScript_8cpp" ],
     [ "BattlegroundMapScript.h", "d8/d93/BattlegroundMapScript_8h.html", "d8/d93/BattlegroundMapScript_8h" ],
     [ "BattlegroundScript.cpp", "d9/d53/BattlegroundScript_8cpp.html", "d9/d53/BattlegroundScript_8cpp" ],
