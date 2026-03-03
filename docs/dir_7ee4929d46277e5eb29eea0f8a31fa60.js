@@ -1,8 +1,11 @@
 var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
 [
     [ "BreakableCCProcTest.cpp", "dd/d9c/BreakableCCProcTest_8cpp.html", "dd/d9c/BreakableCCProcTest_8cpp" ],
+    [ "CascadeProcSuppressionTest.cpp", "d0/d9e/CascadeProcSuppressionTest_8cpp.html", "d0/d9e/CascadeProcSuppressionTest_8cpp" ],
     [ "ExtraAttackChainProcTest.cpp", "de/d3a/ExtraAttackChainProcTest_8cpp.html", "de/d3a/ExtraAttackChainProcTest_8cpp" ],
+    [ "PeriodicAbsorbStealthProcTest.cpp", "da/d99/PeriodicAbsorbStealthProcTest_8cpp.html", "da/d99/PeriodicAbsorbStealthProcTest_8cpp" ],
     [ "SpellProcAttributeTest.cpp", "db/d8a/SpellProcAttributeTest_8cpp.html", "db/d8a/SpellProcAttributeTest_8cpp" ],
+    [ "SpellProcChainGuardTest.cpp", "d1/d1e/SpellProcChainGuardTest_8cpp.html", "d1/d1e/SpellProcChainGuardTest_8cpp" ],
     [ "SpellProcChanceTest.cpp", "d6/d7a/SpellProcChanceTest_8cpp.html", "d6/d7a/SpellProcChanceTest_8cpp" ],
     [ "SpellProcChargeTest.cpp", "d9/d7c/SpellProcChargeTest_8cpp.html", "d9/d7c/SpellProcChargeTest_8cpp" ],
     [ "SpellProcConditionsTest.cpp", "d0/d7e/SpellProcConditionsTest_8cpp.html", "d0/d7e/SpellProcConditionsTest_8cpp" ],

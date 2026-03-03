@@ -2,6 +2,7 @@ var classTestSpellEntryHelper =
 [
     [ "TestSpellEntryHelper", "db/d01/classTestSpellEntryHelper.html#a3f6b812ad6767cf68cf41653f29fa998", null ],
     [ "Get", "db/d01/classTestSpellEntryHelper.html#a43cc8638601f863dc0b55f7fee6a314a", null ],
+    [ "WithAttributesEx3", "db/d01/classTestSpellEntryHelper.html#aa1538c2401ad99f7ee7b83dcc1acb86b", null ],
     [ "WithDmgClass", "db/d01/classTestSpellEntryHelper.html#af2f2490bfad43901e0c43c43a658b7b8", null ],
     [ "WithEffect", "db/d01/classTestSpellEntryHelper.html#a97111bde77ad15919433437546f141eb", null ],
     [ "WithEffectTriggerSpell", "db/d01/classTestSpellEntryHelper.html#a10af5cfe1d3e166c38b250c5043039e7", null ],

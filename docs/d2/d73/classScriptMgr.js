@@ -96,6 +96,7 @@ var classScriptMgr =
     [ "OnAuraApply", "d2/d73/classScriptMgr.html#aa286026b91c3aa541472d25f53eec010", null ],
     [ "OnAuraRemove", "d2/d73/classScriptMgr.html#a0d9a2d1b31cc4c13929d13fab02f2e88", null ],
     [ "OnBaseGainCalculation", "d2/d73/classScriptMgr.html#a0a4848cd8f65fc9814e6298bd00bfd2c", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "d2/d73/classScriptMgr.html#aa03a97598aaf1102676253b55df6bad7", null ],
     [ "OnBattlefieldPlayerEnterZone", "d2/d73/classScriptMgr.html#ae2ea3c695b6f8606ebefbcc33e095033", null ],
     [ "OnBattlefieldPlayerJoinWar", "d2/d73/classScriptMgr.html#acf56b0416b55ef604689f9933cf8950a", null ],
     [ "OnBattlefieldPlayerLeaveWar", "d2/d73/classScriptMgr.html#a970a859166d4f4c4ff40f7c3ed1cbefc", null ],

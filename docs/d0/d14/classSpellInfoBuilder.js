@@ -3,6 +3,7 @@ var classSpellInfoBuilder =
     [ "SpellInfoBuilder", "d0/d14/classSpellInfoBuilder.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
     [ "Build", "d0/d14/classSpellInfoBuilder.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
     [ "BuildUnique", "d0/d14/classSpellInfoBuilder.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
+    [ "WithAttributesEx3", "d0/d14/classSpellInfoBuilder.html#ab92a2a4b9be30a760ce90467c7dfa234", null ],
     [ "WithDmgClass", "d0/d14/classSpellInfoBuilder.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
     [ "WithEffect", "d0/d14/classSpellInfoBuilder.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
     [ "WithEffectTriggerSpell", "d0/d14/classSpellInfoBuilder.html#ab7e6d316ff67f1610695b89723b7e364", null ],

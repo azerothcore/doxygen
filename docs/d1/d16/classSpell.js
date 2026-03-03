@@ -234,6 +234,7 @@ var classSpell =
     [ "IsInterruptable", "d1/d16/classSpell.html#a466e44db9d22dc72705df2d0ba488d70", null ],
     [ "IsNeedSendToClient", "d1/d16/classSpell.html#ad42c124e517260f702bc7a5ff9d00568", null ],
     [ "IsNextMeleeSwingSpell", "d1/d16/classSpell.html#ab1df43b19e74ad30219358adffe098bb", null ],
+    [ "IsProcDisabled", "d1/d16/classSpell.html#a56a6c8f6b797c49a06e33ee3e017712e", null ],
     [ "IsTriggered", "d1/d16/classSpell.html#ac4a65258ce0c7848ef6d4a528e6f599e", null ],
     [ "IsValidDeadOrAliveTarget", "d1/d16/classSpell.html#a3a0cf9d43912ab1fddb649fb081f18ff", null ],
     [ "LoadScripts", "d1/d16/classSpell.html#a15fb735ebd7b6b956042e947aa0bf4a3", null ],

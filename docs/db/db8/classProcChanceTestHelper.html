@@ -122,6 +122,9 @@ $(document).ready(function(){initNavTree('db/db8/classProcChanceTestHelper.html'
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9b/structProcChanceTestHelper_1_1CascadeProcConfig.html">CascadeProcConfig</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configuration for simulating cascade proc suppression.  <a href="../../dd/d9b/structProcChanceTestHelper_1_1CascadeProcConfig.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html">ConditionsConfig</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configuration for simulating conditions system.  <a href="../../de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -133,6 +136,9 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d04/structProcChanceTestHelper_1_1PPMModifierConfig.html">PPMModifierConfig</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">PPM modifier configuration for testing SPELLMOD_PROC_PER_MINUTE.  <a href="../../d3/d04/structProcChanceTestHelper_1_1PPMModifierConfig.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html">TakenAutoTriggerConfig</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configuration for simulating the TAKEN auto-trigger logic from <a class="el" href="../../da/d90/classSpellMgr.html#aeca13d7535faa653ad4de42e2cef9c48">SpellMgr::LoadSpellProcs()</a> auto-generation.  <a href="../../dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig.html">TriggeredSpellConfig</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Configuration for simulating triggered spell filtering.  <a href="../../d8/de9/structProcChanceTestHelper_1_1TriggeredSpellConfig.html#details">More...</a><br /></td></tr>
@@ -185,6 +191,12 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:ab9fa7b4e963eef370817b26fc07a14e5" id="r_ab9fa7b4e963eef370817b26fc07a14e5"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#ab9fa7b4e963eef370817b26fc07a14e5">GetWeaponSlotForAttackType</a> (<a class="el" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> attackType)</td></tr>
 <tr class="memdesc:ab9fa7b4e963eef370817b26fc07a14e5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get equipment slot for attack type.  <br /></td></tr>
 <tr class="separator:ab9fa7b4e963eef370817b26fc07a14e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0bc4afe7ed1254af740a59add4e9e85" id="r_ac0bc4afe7ed1254af740a59add4e9e85"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#ac0bc4afe7ed1254af740a59add4e9e85">ShouldSuppressCascadingProc</a> (<a class="el" href="../../dd/d9b/structProcChanceTestHelper_1_1CascadeProcConfig.html">CascadeProcConfig</a> const &amp;config)</td></tr>
+<tr class="memdesc:ac0bc4afe7ed1254af740a59add4e9e85"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if cascading procs should be suppressed for this aura.  <br /></td></tr>
+<tr class="separator:ac0bc4afe7ed1254af740a59add4e9e85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fabb85c7059a3df250ab3c68eca624e" id="r_a9fabb85c7059a3df250ab3c68eca624e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#a9fabb85c7059a3df250ab3c68eca624e">ShouldAutoAddTriggeredCanProc</a> (<a class="el" href="../../dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html">TakenAutoTriggerConfig</a> const &amp;config)</td></tr>
+<tr class="memdesc:a9fabb85c7059a3df250ab3c68eca624e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulate the TAKEN auto-trigger logic from <a class="el" href="../../da/d90/classSpellMgr.html#aeca13d7535faa653ad4de42e2cef9c48">SpellMgr::LoadSpellProcs()</a>  <br /></td></tr>
+<tr class="separator:a9fabb85c7059a3df250ab3c68eca624e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2a1c402850c063484c273d6fb4962771" id="r_a2a1c402850c063484c273d6fb4962771"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db8/classProcChanceTestHelper.html#a2a1c402850c063484c273d6fb4962771">ShouldBlockDueToConditions</a> (<a class="el" href="../../de/d89/structProcChanceTestHelper_1_1ConditionsConfig.html">ConditionsConfig</a> const &amp;config)</td></tr>
 <tr class="memdesc:a2a1c402850c063484c273d6fb4962771"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulate conditions check Returns true if proc should be blocked due to conditions.  <br /></td></tr>
 <tr class="separator:a2a1c402850c063484c273d6fb4962771"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -408,7 +420,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00191">AuraStub::AddProcCooldown()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00572">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00654">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -700,7 +712,70 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00186">AuraStub::IsProcOnCooldown()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00572">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00654">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00117">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00053">TEST_F()</a>, <a class="el" href="../../#l00135">TEST_F()</a>, <a class="el" href="../../#l00167">TEST_F()</a>, <a class="el" href="../../#l00153">TEST_F()</a>, and <a class="el" href="../../#l00092">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a9fabb85c7059a3df250ab3c68eca624e" name="a9fabb85c7059a3df250ab3c68eca624e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9fabb85c7059a3df250ab3c68eca624e">&#9670;&#160;</a></span>ShouldAutoAddTriggeredCanProc()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d25/structProcChanceTestHelper_1_1TakenAutoTriggerConfig.html">TakenAutoTriggerConfig</a> const &amp;&#160;</td>
+          <td class="paramname"><em>config</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Simulate the TAKEN auto-trigger logic from <a class="el" href="../../da/d90/classSpellMgr.html#aeca13d7535faa653ad4de42e2cef9c48">SpellMgr::LoadSpellProcs()</a> </p>
+<p>During auto-generation of proc entries, TAKEN-proc auras with SPELL_AURA_PROC_TRIGGER_SPELL or SPELL_AURA_PROC_TRIGGER_DAMAGE should get PROC_ATTR_TRIGGERED_CAN_PROC set automatically.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">config</td><td>Configuration describing the aura </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if addTriggerFlag should be set </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  556</span>    {</div>
+<div class="line"><span class="lineno">  557</span>        <span class="comment">// If already marked as always-triggered, keep it</span></div>
+<div class="line"><span class="lineno">  558</span>        <span class="keywordflow">if</span> (config.isAlwaysTriggeredAura)</div>
+<div class="line"><span class="lineno">  559</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  560</span> </div>
+<div class="line"><span class="lineno">  561</span>        <span class="comment">// TAKEN auto-trigger: TAKEN proc flags + PROC_TRIGGER_SPELL/DAMAGE</span></div>
+<div class="line"><span class="lineno">  562</span>        <span class="keywordflow">if</span> (config.procFlags &amp; <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a4ef079da228b08645ef20ead47c22a73">TAKEN_HIT_PROC_FLAG_MASK</a>)</div>
+<div class="line"><span class="lineno">  563</span>        {</div>
+<div class="line"><span class="lineno">  564</span>            <span class="keywordflow">switch</span> (config.auraName)</div>
+<div class="line"><span class="lineno">  565</span>            {</div>
+<div class="line"><span class="lineno">  566</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>:</div>
+<div class="line"><span class="lineno">  567</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>:</div>
+<div class="line"><span class="lineno">  568</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  569</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  570</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  571</span>            }</div>
+<div class="line"><span class="lineno">  572</span>        }</div>
+<div class="line"><span class="lineno">  573</span> </div>
+<div class="line"><span class="lineno">  574</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  575</span>    }</div>
+<div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:105</div></div>
+<div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f">SPELL_AURA_PROC_TRIGGER_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_DAMAGE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:106</div></div>
+<div class="ttc" id="aSpellMgr_8h_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a4ef079da228b08645ef20ead47c22a73"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a4ef079da228b08645ef20ead47c22a73">TAKEN_HIT_PROC_FLAG_MASK</a></div><div class="ttdeci">@ TAKEN_HIT_PROC_FLAG_MASK</div><div class="ttdef"><b>Definition</b> SpellMgr.h:175</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00106">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>, <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>, and <a class="el" href="../../#l00175">TAKEN_HIT_PROC_FLAG_MASK</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00111">TEST_F()</a>, <a class="el" href="../../#l00217">TEST_F()</a>, <a class="el" href="../../#l00089">TEST_F()</a>, <a class="el" href="../../#l00145">TEST_F()</a>, <a class="el" href="../../#l00100">TEST_F()</a>, <a class="el" href="../../#l00174">TEST_F()</a>, <a class="el" href="../../#l00189">TEST_F()</a>, <a class="el" href="../../#l00201">TEST_F()</a>, <a class="el" href="../../#l00122">TEST_F()</a>, <a class="el" href="../../#l00134">TEST_F()</a>, <a class="el" href="../../#l00158">TEST_F()</a>, <a class="el" href="../../#l00078">TEST_F()</a>, <a class="el" href="../../#l00067">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, and <a class="el" href="../../#l00247">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -736,16 +811,16 @@ Static Public Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>true if proc should be blocked </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  517</span>    {</div>
-<div class="line"><span class="lineno">  518</span>        <span class="comment">// No conditions configured - allow proc</span></div>
-<div class="line"><span class="lineno">  519</span>        <span class="keywordflow">if</span> (!config.hasConditions)</div>
-<div class="line"><span class="lineno">  520</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  521</span> </div>
-<div class="line"><span class="lineno">  522</span>        <span class="comment">// Check if conditions are met</span></div>
-<div class="line"><span class="lineno">  523</span>        <span class="keywordflow">return</span> !config.conditionsMet;</div>
-<div class="line"><span class="lineno">  524</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  599</span>    {</div>
+<div class="line"><span class="lineno">  600</span>        <span class="comment">// No conditions configured - allow proc</span></div>
+<div class="line"><span class="lineno">  601</span>        <span class="keywordflow">if</span> (!config.hasConditions)</div>
+<div class="line"><span class="lineno">  602</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  603</span> </div>
+<div class="line"><span class="lineno">  604</span>        <span class="comment">// Check if conditions are met</span></div>
+<div class="line"><span class="lineno">  605</span>        <span class="keywordflow">return</span> !config.conditionsMet;</div>
+<div class="line"><span class="lineno">  606</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00505">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, and <a class="el" href="../../#l00504">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, and <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00076">TEST_F()</a>, <a class="el" href="../../#l00086">TEST_F()</a>, <a class="el" href="../../#l00263">TEST_F()</a>, <a class="el" href="../../#l00305">TEST_F()</a>, <a class="el" href="../../#l00326">TEST_F()</a>, <a class="el" href="../../#l00316">TEST_F()</a>, <a class="el" href="../../#l00336">TEST_F()</a>, <a class="el" href="../../#l00273">TEST_F()</a>, <a class="el" href="../../#l00283">TEST_F()</a>, <a class="el" href="../../#l00294">TEST_F()</a>, <a class="el" href="../../#l00360">TEST_F()</a>, <a class="el" href="../../#l00350">TEST_F()</a>, <a class="el" href="../../#l00370">TEST_F()</a>, <a class="el" href="../../#l00154">TEST_F()</a>, <a class="el" href="../../#l00143">TEST_F()</a>, <a class="el" href="../../#l00116">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00067">TEST_F()</a>, <a class="el" href="../../#l00241">TEST_F()</a>, <a class="el" href="../../#l00169">TEST_F()</a>, <a class="el" href="../../#l00187">TEST_F()</a>, <a class="el" href="../../#l00205">TEST_F()</a>, <a class="el" href="../../#l00223">TEST_F()</a>, and <a class="el" href="../../#l00100">TEST_F()</a>.</p>
 
@@ -1015,7 +1090,56 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00291">SpellProcEntry::AttributesMask</a>, <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00231">AUTO_ATTACK_PROC_FLAG_MASK</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, <a class="el" href="../../#l00143">PROC_FLAG_DEATH</a>, <a class="el" href="../../#l00108">PROC_FLAG_KILL</a>, <a class="el" href="../../#l00107">PROC_FLAG_KILLED</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, and <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00203">TEST_F()</a>, <a class="el" href="../../#l00220">TEST_F()</a>, <a class="el" href="../../#l00141">TEST_F()</a>, <a class="el" href="../../#l00386">TEST_F()</a>, <a class="el" href="../../#l00366">TEST_F()</a>, <a class="el" href="../../#l00291">TEST_F()</a>, <a class="el" href="../../#l00482">TEST_F()</a>, <a class="el" href="../../#l00468">TEST_F()</a>, <a class="el" href="../../#l00276">TEST_F()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, <a class="el" href="../../#l00344">TEST_F()</a>, <a class="el" href="../../#l00306">TEST_F()</a>, <a class="el" href="../../#l00122">TEST_F()</a>, <a class="el" href="../../#l00184">TEST_F()</a>, <a class="el" href="../../#l00409">TEST_F()</a>, <a class="el" href="../../#l00323">TEST_F()</a>, <a class="el" href="../../#l00425">TEST_F()</a>, <a class="el" href="../../#l00446">TEST_F()</a>, <a class="el" href="../../#l00087">TEST_F()</a>, <a class="el" href="../../#l00071">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00237">TEST_F()</a>, <a class="el" href="../../#l00160">TEST_F()</a>, and <a class="el" href="../../#l00106">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00203">TEST_F()</a>, <a class="el" href="../../#l00220">TEST_F()</a>, <a class="el" href="../../#l00141">TEST_F()</a>, <a class="el" href="../../#l00386">TEST_F()</a>, <a class="el" href="../../#l00366">TEST_F()</a>, <a class="el" href="../../#l00291">TEST_F()</a>, <a class="el" href="../../#l00482">TEST_F()</a>, <a class="el" href="../../#l00468">TEST_F()</a>, <a class="el" href="../../#l00276">TEST_F()</a>, <a class="el" href="../../#l00261">TEST_F()</a>, <a class="el" href="../../#l00344">TEST_F()</a>, <a class="el" href="../../#l00306">TEST_F()</a>, <a class="el" href="../../#l00122">TEST_F()</a>, <a class="el" href="../../#l00184">TEST_F()</a>, <a class="el" href="../../#l00409">TEST_F()</a>, <a class="el" href="../../#l00323">TEST_F()</a>, <a class="el" href="../../#l00425">TEST_F()</a>, <a class="el" href="../../#l00446">TEST_F()</a>, <a class="el" href="../../#l00087">TEST_F()</a>, <a class="el" href="../../#l00071">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00237">TEST_F()</a>, <a class="el" href="../../#l00160">TEST_F()</a>, <a class="el" href="../../#l00106">TEST_F()</a>, <a class="el" href="../../#l00217">TEST_F()</a>, and <a class="el" href="../../#l00247">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="ac0bc4afe7ed1254af740a59add4e9e85" name="ac0bc4afe7ed1254af740a59add4e9e85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0bc4afe7ed1254af740a59add4e9e85">&#9670;&#160;</a></span>ShouldSuppressCascadingProc()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool ProcChanceTestHelper::ShouldSuppressCascadingProc </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d9b/structProcChanceTestHelper_1_1CascadeProcConfig.html">CascadeProcConfig</a> const &amp;&#160;</td>
+          <td class="paramname"><em>config</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Returns true if cascading procs should be suppressed for this aura. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">config</td><td>Cascade proc configuration </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if SetCantProc(true) would be active during this aura's proc </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  519</span>    {</div>
+<div class="line"><span class="lineno">  520</span>        <span class="comment">// Outer check: triggering spell disables all cascading procs</span></div>
+<div class="line"><span class="lineno">  521</span>        <span class="keywordflow">if</span> (config.triggeringSpellIsProcDisabled)</div>
+<div class="line"><span class="lineno">  522</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  523</span>        <span class="comment">// Per-aura check: aura itself suppresses cascading</span></div>
+<div class="line"><span class="lineno">  524</span>        <span class="keywordflow">if</span> (config.auraHasDisableProcAttr)</div>
+<div class="line"><span class="lineno">  525</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  526</span> </div>
+<div class="line"><span class="lineno">  527</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  528</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00509">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a>, and <a class="el" href="../../#l00508">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00191">TEST_F()</a>, <a class="el" href="../../#l00084">TEST_F()</a>, <a class="el" href="../../#l00052">TEST_F()</a>, <a class="el" href="../../#l00199">TEST_F()</a>, <a class="el" href="../../#l00207">TEST_F()</a>, <a class="el" href="../../#l00064">TEST_F()</a>, <a class="el" href="../../#l00072">TEST_F()</a>, and <a class="el" href="../../#l00144">TEST_P()</a>.</p>
 
 </div>
 </div>
@@ -1123,7 +1247,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00063">ApplyLevel60Reduction()</a>, <a class="el" href="../../#l00291">SpellProcEntry::AttributesMask</a>, <a class="el" href="../../#l00046">CalculatePPMChance()</a>, <a class="el" href="../../#l00294">SpellProcEntry::Chance</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, and <a class="el" href="../../#l00293">SpellProcEntry::ProcsPerMinute</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00572">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00343">TEST_F()</a>, <a class="el" href="../../#l00388">TEST_F()</a>, <a class="el" href="../../#l00349">TEST_F()</a>, <a class="el" href="../../#l00360">TEST_F()</a>, <a class="el" href="../../#l00374">TEST_F()</a>, <a class="el" href="../../#l00399">TEST_F()</a>, <a class="el" href="../../#l00533">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00045">TEST_F()</a>, <a class="el" href="../../#l00066">TEST_F()</a>, <a class="el" href="../../#l00183">TEST_F()</a>, <a class="el" href="../../#l00171">TEST_F()</a>, <a class="el" href="../../#l00159">TEST_F()</a>, <a class="el" href="../../#l00335">TEST_F()</a>, <a class="el" href="../../#l00294">TEST_F()</a>, <a class="el" href="../../#l00266">TEST_F()</a>, <a class="el" href="../../#l00212">TEST_F()</a>, <a class="el" href="../../#l00224">TEST_F()</a>, <a class="el" href="../../#l00281">TEST_F()</a>, <a class="el" href="../../#l00236">TEST_F()</a>, <a class="el" href="../../#l00251">TEST_F()</a>, <a class="el" href="../../#l00107">TEST_F()</a>, <a class="el" href="../../#l00121">TEST_F()</a>, <a class="el" href="../../#l00094">TEST_F()</a>, <a class="el" href="../../#l00080">TEST_F()</a>, <a class="el" href="../../#l00138">TEST_F()</a>, <a class="el" href="../../#l00195">TEST_F()</a>, and <a class="el" href="../../#l00266">TEST_P()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00654">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00343">TEST_F()</a>, <a class="el" href="../../#l00388">TEST_F()</a>, <a class="el" href="../../#l00349">TEST_F()</a>, <a class="el" href="../../#l00360">TEST_F()</a>, <a class="el" href="../../#l00374">TEST_F()</a>, <a class="el" href="../../#l00399">TEST_F()</a>, <a class="el" href="../../#l00533">TEST_F()</a>, <a class="el" href="../../#l00056">TEST_F()</a>, <a class="el" href="../../#l00045">TEST_F()</a>, <a class="el" href="../../#l00066">TEST_F()</a>, <a class="el" href="../../#l00183">TEST_F()</a>, <a class="el" href="../../#l00171">TEST_F()</a>, <a class="el" href="../../#l00159">TEST_F()</a>, <a class="el" href="../../#l00335">TEST_F()</a>, <a class="el" href="../../#l00294">TEST_F()</a>, <a class="el" href="../../#l00266">TEST_F()</a>, <a class="el" href="../../#l00212">TEST_F()</a>, <a class="el" href="../../#l00224">TEST_F()</a>, <a class="el" href="../../#l00281">TEST_F()</a>, <a class="el" href="../../#l00236">TEST_F()</a>, <a class="el" href="../../#l00251">TEST_F()</a>, <a class="el" href="../../#l00107">TEST_F()</a>, <a class="el" href="../../#l00121">TEST_F()</a>, <a class="el" href="../../#l00094">TEST_F()</a>, <a class="el" href="../../#l00080">TEST_F()</a>, <a class="el" href="../../#l00138">TEST_F()</a>, <a class="el" href="../../#l00195">TEST_F()</a>, and <a class="el" href="../../#l00266">TEST_P()</a>.</p>
 
 </div>
 </div>
@@ -1198,7 +1322,7 @@ Static Public Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00291">SpellProcEntry::AttributesMask</a>, <a class="el" href="../../#l00161">AuraStub::DropCharge()</a>, <a class="el" href="../../#l00155">AuraStub::GetCharges()</a>, <a class="el" href="../../#l00156">AuraStub::IsUsingCharges()</a>, <a class="el" href="../../#l00209">AuraStub::ModStackAmount()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, and <a class="el" href="../../#l00233">AuraStub::Remove()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00572">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00512">TEST_F()</a>, <a class="el" href="../../#l00298">TEST_F()</a>, <a class="el" href="../../#l00315">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00315">TEST_F()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, <a class="el" href="../../#l00286">TEST_F()</a>, <a class="el" href="../../#l00232">TEST_F()</a>, <a class="el" href="../../#l00206">TEST_F()</a>, <a class="el" href="../../#l00258">TEST_F()</a>, <a class="el" href="../../#l00181">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00297">TEST_F()</a>, <a class="el" href="../../#l00198">TEST_F()</a>, <a class="el" href="../../#l00155">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00654">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00512">TEST_F()</a>, <a class="el" href="../../#l00298">TEST_F()</a>, <a class="el" href="../../#l00315">TEST_F()</a>, <a class="el" href="../../#l00065">TEST_F()</a>, <a class="el" href="../../#l00046">TEST_F()</a>, <a class="el" href="../../#l00315">TEST_F()</a>, <a class="el" href="../../#l00104">TEST_F()</a>, <a class="el" href="../../#l00286">TEST_F()</a>, <a class="el" href="../../#l00232">TEST_F()</a>, <a class="el" href="../../#l00206">TEST_F()</a>, <a class="el" href="../../#l00258">TEST_F()</a>, <a class="el" href="../../#l00181">TEST_F()</a>, <a class="el" href="../../#l00147">TEST_F()</a>, <a class="el" href="../../#l00128">TEST_F()</a>, <a class="el" href="../../#l00297">TEST_F()</a>, <a class="el" href="../../#l00198">TEST_F()</a>, <a class="el" href="../../#l00155">TEST_F()</a>, and <a class="el" href="../../#l00193">TEST_P()</a>.</p>
 
 </div>
 </div>
@@ -1669,7 +1793,7 @@ Static Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/db8/classProcChanceTestHelper.html">ProcChanceTestHelper</a></li>
-    <li class="footer">Generated on Mon Mar 2 2026 06:53:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Tue Mar 3 2026 06:46:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
