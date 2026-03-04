@@ -1,10 +1,5 @@
 var NAVTREEINDEX125 =
 {
-"d4/d39/structnpc__pilgrims__bounty__chair.html#ad3cbb85577ca0f7b596d1882c71f2371":[6,0,2058,4],
-"d4/d39/structnpc__pilgrims__bounty__chair.html#aebe6eb7aca62faece6dfb6dff27d775e":[6,0,2058,9],
-"d4/d39/structnpc__pilgrims__bounty__chair.html#affd51da83859b962977ed6b51c74d01e":[6,0,2058,8],
-"d4/d3a/AuctionHouseHandler_8cpp.html":[7,0,0,0,1,2,22,3],
-"d4/d3a/boss__vazruden__the__herald_8cpp.html":[7,0,0,0,1,3,7,4,1,1],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,4,1,1,7],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b11a5a68fcea8fb2cda9807df10b353":[7,0,0,0,1,3,7,4,1,1,7,1],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,4,1,1,7,2],
@@ -232,8 +227,8 @@ var NAVTREEINDEX125 =
 "d4/d3e/classspell__gen__animal__blood.html#ac05f2898ebbb78bf55d70d8a660fb22d":[6,0,2981,3],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[5,0,34,14,4],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html":[6,0,12,14,4],
-"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,12,14,4,0],
 "d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[5,0,34,14,4,0],
+"d4/d3e/structWorldPackets_1_1Strings_1_1Utf8.html#ab0d4c07b4ce9903a913bdced5e05bbd6":[6,0,12,14,4,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html":[6,0,2200,0],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#a5439b98d544124836d2cf9762f764cea":[6,0,2200,0,4],
 "d4/d3e/structnpc__toc5__player__vehicle_1_1npc__toc5__player__vehicleAI.html#aac7db7f40b47a9c098c98bacb7569faf":[6,0,2200,0,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX125 =
 "d4/d40/VMapMgr2_8h.html#aad39c14e5fae9fd5141df154332ae6fd":[7,0,0,0,0,1,0,9,3],
 "d4/d40/VMapMgr2_8h.html#ae6fa86a61cff3bac928739b18ffb8c1b":[7,0,0,0,0,1,0,9,6],
 "d4/d40/VMapMgr2_8h.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec":[7,0,0,0,0,1,0,9,6,3],
-"d4/d40/VMapMgr2_8h.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108":[7,0,0,0,0,1,0,9,6,2]
+"d4/d40/VMapMgr2_8h.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108":[7,0,0,0,0,1,0,9,6,2],
+"d4/d40/VMapMgr2_8h.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926":[7,0,0,0,0,1,0,9,6,1],
+"d4/d40/VMapMgr2_8h.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19":[7,0,0,0,0,1,0,9,6,0],
+"d4/d40/VMapMgr2_8h.html#aebe91d3f560a4221b135ef03b21a485f":[7,0,0,0,0,1,0,9,2],
+"d4/d42/VMapAssembler_8cpp.html":[7,0,0,0,3,3,0],
+"d4/d42/VMapAssembler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[7,0,0,0,3,3,0,0]
 };

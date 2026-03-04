@@ -1,10 +1,5 @@
 var NAVTREEINDEX107 =
 {
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a5df838fc03f1338db5873b67568ad82b":[7,0,0,0,1,3,10,10,54,36],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a630dbfd037bd41c58cbe97a0a93d7048":[7,0,0,0,1,3,10,10,54,43],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a64dc1baada02c2b1b22685246f38f55a":[7,0,0,0,1,3,10,10,54,52],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a675070578aeff5617fe8a87a03671398":[7,0,0,0,1,3,10,10,54,45],
-"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6752ed36642e53558e3e1e2f75ce91f6":[7,0,0,0,1,3,10,10,54,6],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6f534af865db4bea6cde552b8aa7f406":[7,0,0,0,1,3,10,10,54,50],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a7007742dd64ae8fc19276136a79fc0c0":[7,0,0,0,1,3,10,10,54,30],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a725b66f7e48fde5bab7df4bc687c8a65":[7,0,0,0,1,3,10,10,54,2],
@@ -222,8 +217,8 @@ var NAVTREEINDEX107 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,3073,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,3073,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,3073,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[6,0,200],
@@ -249,5 +244,10 @@ var NAVTREEINDEX107 =
 "d3/da8/classArenaTeamMgr.html#aab81eef5786283d423d7e35a75517831":[6,0,200,25],
 "d3/da8/classArenaTeamMgr.html#ac05c55a9d51acaeea1784637849aa58e":[6,0,200,19],
 "d3/da8/classArenaTeamMgr.html#ac7213a41de4e09ca079fe266496d4b51":[6,0,200,14],
-"d3/da8/classArenaTeamMgr.html#ac76e895599b64e0824e923faf9c08560":[6,0,200,0]
+"d3/da8/classArenaTeamMgr.html#ac76e895599b64e0824e923faf9c08560":[6,0,200,0],
+"d3/da8/classArenaTeamMgr.html#acbb4d0e050ed3e1ad3081fe11e25b200":[6,0,200,17],
+"d3/da8/classArenaTeamMgr.html#af23ad2886a67eb69dfda7a5e1a9d30ac":[6,0,200,23],
+"d3/da8/classArenaTeamMgr.html#afb136b89fdcc549f2b379199fe1c5c3e":[6,0,200,2],
+"d3/da8/classspell__hun__cobra__strikes.html":[6,0,3211],
+"d3/da8/classspell__hun__cobra__strikes.html#a3722c927cf522685c08886338433964d":[6,0,3211,1]
 };

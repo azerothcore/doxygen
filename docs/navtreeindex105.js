@@ -1,10 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/d91/boss__heigan_8cpp.html#a49bbcf9a87dc8e4840bca69d059b6774":[7,0,0,0,1,3,5,7,6,5],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,7,6,4],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a7e6f1162026a2384f854999372ceb4":[7,0,0,0,1,3,5,7,6,4,0],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca67bcc1762851a84e6174ca01cb4d0c10":[7,0,0,0,1,3,5,7,6,4,3],
-"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298ca91e9581231c56c9bbaa049c497cd78b8":[7,0,0,0,1,3,5,7,6,4,2],
 "d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298cae8e05c43a10c1885e6dd64eccb4afdca":[7,0,0,0,1,3,5,7,6,4,1],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,6,1],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a38bf9abef479846a5b7962e7c6661947":[7,0,0,0,1,3,5,7,6,1,5],
@@ -249,5 +244,10 @@ var NAVTREEINDEX105 =
 "d3/d9b/classspell__gyth__chromatic__protection.html#afd3d4786f739566056b69390553d9c71":[6,0,3153,1],
 "d3/d9b/structPlayerClassInfo.html":[6,0,2420],
 "d3/d9b/structPlayerClassInfo.html#a6a0a6db24e144593356e0505946e8f06":[6,0,2420,0],
-"d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[6,0,2420,1]
+"d3/d9b/structPlayerClassInfo.html#aa234b353361ef0017ec974ca4c8e86f1":[6,0,2420,1],
+"d3/d9c/classinstance__magtheridons__lair.html":[6,0,1332],
+"d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1332,2],
+"d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1332,1],
+"d3/d9d/SpellProcTest_8cpp.html":[7,0,0,0,2,2,0,6,21],
+"d3/d9d/SpellProcTest_8cpp.html#a14438e4c45ff52556c6b858ab9557f8b":[7,0,0,0,2,2,0,6,21,38]
 };

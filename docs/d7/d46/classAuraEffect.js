@@ -232,6 +232,7 @@ var classAuraEffect =
     [ "m_effIndex", "d7/d46/classAuraEffect.html#a355d61580194626ea54b22ff9a3ac96a", null ],
     [ "m_isAuraEnabled", "d7/d46/classAuraEffect.html#acec00491f0ec7f7c68d6a25d85b5b53f", null ],
     [ "m_isPeriodic", "d7/d46/classAuraEffect.html#ad6931b2764b92bc6c2a20b092c011f0a", null ],
+    [ "m_isRecalculatingPassiveAuras", "d7/d46/classAuraEffect.html#af8b30a555e10ae8e779bc661be6b1beb", null ],
     [ "m_oldAmount", "d7/d46/classAuraEffect.html#a5fa9f61c77274c75e6f3d8222142ab4e", null ],
     [ "m_pctMods", "d7/d46/classAuraEffect.html#a8e00da47192a4d1c9139b037d07d565b", null ],
     [ "m_periodicTimer", "d7/d46/classAuraEffect.html#a2d9b475cbf04d8597953802e1accc938", null ],

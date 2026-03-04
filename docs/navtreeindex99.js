@@ -1,10 +1,5 @@
 var NAVTREEINDEX99 =
 {
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae1a859f0c1240bd7080901156c77f1b6":[7,0,0,0,1,2,48,7,0,197],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae284643a47bc6efea677b56b4453b5a1":[7,0,0,0,1,2,48,7,0,365],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae383bb53863fe42ded6c7a38fb797d54":[7,0,0,0,1,2,48,7,0,210],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae4137417c12b32757552fb93c7e17281":[7,0,0,0,1,2,48,7,0,181],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae534ae7e805d6736cd5a5a128ac3388e":[7,0,0,0,1,2,48,7,0,240],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae5e018324d5bab83e032c7afadcb39c9":[7,0,0,0,1,2,48,7,0,411],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae65cf8ca7cb39c96c31d4d13bef976fc":[7,0,0,0,1,2,48,7,0,438],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21bae8a6bb0916143bc3e520bb14d4dbc2db":[7,0,0,0,1,2,48,7,0,174],
@@ -249,5 +244,10 @@ var NAVTREEINDEX99 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1051,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,9,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0]
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,12,9,1,0],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,12,9,1,1],
+"d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3637],
+"d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3637,1]
 };

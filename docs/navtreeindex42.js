@@ -1,10 +1,5 @@
 var NAVTREEINDEX42 =
 {
-"d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,2,16,10,4],
-"d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,16,10,4,1],
-"d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b942bcbae4fe8e343cc371a3e5d2560":[7,0,0,0,1,3,2,16,10,4,2],
-"d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1a436e410ce8f1aafb7f7282d41f035b04":[7,0,0,0,1,3,2,16,10,4,3],
-"d1/db4/boss__thekal_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,16,10,4,0],
 "d1/db4/boss__thekal_8cpp.html#a250372292659bed7ae290d8621f88ccf":[7,0,0,0,1,3,2,16,10,3],
 "d1/db4/boss__thekal_8cpp.html#a250372292659bed7ae290d8621f88ccfae3bff20470d6c07bfd26f3d4fa8faf97":[7,0,0,0,1,3,2,16,10,3,0],
 "d1/db4/boss__thekal_8cpp.html#a57604b634eb000dd3a77ed767652d105":[7,0,0,0,1,3,2,16,10,6],
@@ -198,10 +193,10 @@ var NAVTREEINDEX42 =
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a3116f6245816ba8fb9edb5995faa9927":[6,0,0,44,3],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[5,0,1,56,2],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#a8b346c55d80a8ed92afa2e1f591f5807":[6,0,0,44,2],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,44,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[5,0,1,56,0],
-"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,56,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa144cd2c5b69351afd312084c0e97f0d":[6,0,0,44,0],
 "d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[6,0,0,44,1],
+"d1/dba/structAcore_1_1CreatureRelocationNotifier.html#aa69e9bd551895ca3497d1bfbe5fa79ba":[5,0,1,56,1],
 "d1/dbb/instance__utgarde__keep_8cpp.html":[7,0,0,0,1,3,5,10,0,3],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a1691f35071d744591cc1be4a314edbec":[7,0,0,0,1,3,5,10,0,3,2],
 "d1/dbb/instance__utgarde__keep_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,10,0,3,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX42 =
 "d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a879a87959c687ac7d45fefab89e9cd33":[7,0,0,0,1,3,5,10,0,5,4,9],
 "d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a91156271b279525b5e89bfbfef908dd2":[7,0,0,0,1,3,5,10,0,5,4,0],
 "d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19a93dc1a3744941a9325155e24066e57d3":[7,0,0,0,1,3,5,10,0,5,4,12],
-"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19aaf9bb08a5940dc5432628fb4c9fc914e":[7,0,0,0,1,3,5,10,0,5,4,14]
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19aaf9bb08a5940dc5432628fb4c9fc914e":[7,0,0,0,1,3,5,10,0,5,4,14],
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19ab74c59643e93c2ff34170b8add4fb3a3":[7,0,0,0,1,3,5,10,0,5,4,8],
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19abe2a7bc19c24e5e9b3f9d52af57a0bc3":[7,0,0,0,1,3,5,10,0,5,4,15],
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae4984d96449b5f21602ac3200b4e878c":[7,0,0,0,1,3,5,10,0,5,4,6],
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19ae83b52b50f79446e72f719162604a301":[7,0,0,0,1,3,5,10,0,5,4,2],
+"d1/dbc/utgarde__keep_8h.html#a8d0deb2f48ff4560c08e13e9a1f92c19aec083d8bd0b158056e5bff0fa5365ce2":[7,0,0,0,1,3,5,10,0,5,4,1]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX266 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a29d8bd6a8f58546d9a895de195a3bdf2":[7,0,0,0,1,3,5,6,10,72,67],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2d608af0b45778f802abbacce78c2cdb":[7,0,0,0,1,3,5,6,10,72,39],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2e0f52b03ec8b757ae7bd5e8443077bf":[7,0,0,0,1,3,5,6,10,72,63],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a307e1c2756b5eac4b4cfbfa4faff4df8":[7,0,0,0,1,3,5,6,10,72,65],
+"da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a35ccf7aadd530fe536f2b066fc0593d6":[7,0,0,0,1,3,5,6,10,72,53],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39a238df924d660af6f9ce820eea9d8c":[7,0,0,0,1,3,5,6,10,72,21],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a2afb6cf92db173a55f495c7638a4b8":[7,0,0,0,1,3,5,6,10,72,43],
 "da/d78/boss__the__lich__king_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a6e3e940c0fe46fe4621781829b06da":[7,0,0,0,1,3,5,6,10,72,51],
@@ -66,8 +71,8 @@ var NAVTREEINDEX266 =
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[7,0,0,0,1,2,26,8,1],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,29,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[7,0,0,0,1,3,2,12,4],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc":[7,0,0,0,1,3,2,12,4,18],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca0280995450e87c95815ba28d7f860f62":[7,0,0,0,1,3,2,12,4,18,40],
@@ -244,10 +249,5 @@ var NAVTREEINDEX266 =
 "da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a49b41a9719548bffd2020caea7a94a3d":[6,0,1862,0,16],
 "da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a503f8e5166ec08664085ae032611de61":[6,0,1862,0,20],
 "da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a7103aa11bc2dff6942f4a4de5cd8d759":[6,0,1862,0,1],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a7dde645763bab79e34fa7421dbec518e":[6,0,1862,0,10],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a9ddc2350ffbbf6e3ae91410da55bd326":[6,0,1862,0,8],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#aa0935ab5c5a8a3ad41719e520703ff92":[6,0,1862,0,13],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#aa3eae106cf85eb7cb163f9780bf16b9f":[6,0,1862,0,3],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#aabaa1fb49467d4dc5abf2a14ec833d15":[6,0,1862,0,19],
-"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#ab3fef458ca3180f49d78579f7485e76c":[6,0,1862,0,2]
+"da/d7f/structnpc__highlord__darion__mograine_1_1npc__highlord__darion__mograineAI.html#a7dde645763bab79e34fa7421dbec518e":[6,0,1862,0,10]
 };

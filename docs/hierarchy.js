@@ -4812,7 +4812,6 @@ var hierarchy =
       [ "SpellProcEquipmentTest", "d3/d04/classSpellProcEquipmentTest.html", null ],
       [ "SpellProcPPMModifierTest", "d1/d9d/classSpellProcPPMModifierTest.html", null ],
       [ "SpellProcPPMTest", "d2/df6/classSpellProcPPMTest.html", null ],
-      [ "SpellProcPhaseOrderingTest", "d1/d23/classSpellProcPhaseOrderingTest.html", null ],
       [ "SpellProcPipelineTest", "d6/d67/classSpellProcPipelineTest.html", null ],
       [ "SpellProcTargetResolutionTest", "d7/deb/classSpellProcTargetResolutionTest.html", null ],
       [ "SpellProcTest", "da/d10/classSpellProcTest.html", null ],

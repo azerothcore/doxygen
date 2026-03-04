@@ -1,5 +1,10 @@
 var NAVTREEINDEX289 =
 {
+"db/d6e/spell__item_8cpp.html#acbb5f2c9a480c01fe1fc8db02923d9bd":[7,0,0,0,1,3,9,4,228],
+"db/d6e/spell__item_8cpp.html#acbb5f2c9a480c01fe1fc8db02923d9bda70fac3f7fb9ba0ce2f55508891d4561b":[7,0,0,0,1,3,9,4,228,0],
+"db/d6e/spell__item_8cpp.html#acbb5f2c9a480c01fe1fc8db02923d9bda96391f395a5edbb6f37a5809437e339d":[7,0,0,0,1,3,9,4,228,1],
+"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbc":[7,0,0,0,1,3,9,4,213],
+"db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca3c7d967aa1e91ffcb560ef89bdfa3a16":[7,0,0,0,1,3,9,4,213,1],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca687144bbd8cf840094e4823cd87b9d8f":[7,0,0,0,1,3,9,4,213,4],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbca7f116bd9a93fc8656d10814e0dc40e4d":[7,0,0,0,1,3,9,4,213,3],
 "db/d6e/spell__item_8cpp.html#acc0ea2825a3cf2ab479c00c03266efbcad7b1f8fd5ade1cf300bb226f05d8dbba":[7,0,0,0,1,3,9,4,213,0],
@@ -114,8 +119,8 @@ var NAVTREEINDEX289 =
 "db/d70/structScourgeInvasionData_1_1CityAttack.html#ae78b3d7448e8f43a993f46208039f0b1":[6,0,2547,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[6,0,0,106,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX289 =
 "db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84ad4e94f0b566e0ff9db022ccd4d76d659":[7,0,0,0,1,3,2,15,5,8,0],
 "db/d78/boss__zuljin_8cpp.html#aee0dddecd161ba2804129238298840af":[7,0,0,0,1,3,2,15,5,12],
 "db/d78/classDatabaseWorker.html":[6,0,968],
-"db/d78/classDatabaseWorker.html#a15e753c757da609b55a66380f526091a":[6,0,968,3],
-"db/d78/classDatabaseWorker.html#a170c873cbc917ece6a87591450dbe5a9":[6,0,968,1],
-"db/d78/classDatabaseWorker.html#a2f21d73b584d9e5f17afc7a0ac78f129":[6,0,968,5],
-"db/d78/classDatabaseWorker.html#a64450680e7b6e31bb42ce4f79788eb27":[6,0,968,0],
-"db/d78/classDatabaseWorker.html#a9c47ad6c0d4dca85a63be45c4e678a70":[6,0,968,6],
-"db/d78/classDatabaseWorker.html#aa43f1d875400b0ba6c031e0811397ed3":[6,0,968,2]
+"db/d78/classDatabaseWorker.html#a15e753c757da609b55a66380f526091a":[6,0,968,3]
 };

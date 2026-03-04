@@ -1,10 +1,5 @@
 var NAVTREEINDEX33 =
 {
-"d1/d49/classDatabaseWorkerPool.html#a9073e4eb5be9bda6c8464dbff263dbc8":[6,0,969,32],
-"d1/d49/classDatabaseWorkerPool.html#a974881f497c973f6de63a13fe11bde69":[6,0,969,0],
-"d1/d49/classDatabaseWorkerPool.html#a9cdd2e2ff577973534d525f3ca1f5980":[6,0,969,33],
-"d1/d49/classDatabaseWorkerPool.html#aa3903bd03f577eb0cd78a0daf1d6fc47":[6,0,969,26],
-"d1/d49/classDatabaseWorkerPool.html#aa97cb925f2294d32bb1fbe23d6057867":[6,0,969,23],
 "d1/d49/classDatabaseWorkerPool.html#ab30047af2d612bf4032778cc82f4932d":[6,0,969,16],
 "d1/d49/classDatabaseWorkerPool.html#ab52cd78dc0c7f757a0cf71156c9dabeb":[6,0,969,25],
 "d1/d49/classDatabaseWorkerPool.html#ab6f68567b1dc23c16723f84504b47eb1":[6,0,969,13],
@@ -249,5 +244,10 @@ var NAVTREEINDEX33 =
 "d1/d50/classspell__gen__seaforium__blast.html#ab0ec836feb53875de355330e05367fe8":[6,0,3100,0],
 "d1/d50/classspell__gen__seaforium__blast.html#ae48c67f363e399f076122cb6eee10ffb":[6,0,3100,1],
 "d1/d50/classspell__gen__seaforium__blast.html#af0bb22c618af5dca7f534bea32e7ee7f":[6,0,3100,2],
-"d1/d53/classspell__mammoth__explosion.html":[6,0,3614]
+"d1/d53/classspell__mammoth__explosion.html":[6,0,3614],
+"d1/d53/classspell__mammoth__explosion.html#a909ec44339061a114697cacee5fba5b2":[6,0,3614,0],
+"d1/d53/classspell__mammoth__explosion.html#aa241c97b4e895d07fe89d03edca29912":[6,0,3614,2],
+"d1/d53/classspell__mammoth__explosion.html#aa84f4c29ca00789bb47661267549cda6":[6,0,3614,3],
+"d1/d53/classspell__mammoth__explosion.html#ac1bfb2b49cd335ca5961b984fadfffb8":[6,0,3614,1],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,117]
 };

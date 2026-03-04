@@ -1,5 +1,10 @@
 var NAVTREEINDEX233 =
 {
+"d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4a07a997e9e94ff0c05366cf511ae15023":[7,0,0,0,1,3,2,1,1,14,2,0],
+"d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4a1e021fe44219e24920535b1359bc4a52":[7,0,0,0,1,3,2,1,1,14,2,2],
+"d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4ad5abea2cad34b3bc9e90d92eb3927dd3":[7,0,0,0,1,3,2,1,1,14,2,1],
+"d8/de6/boss__warmaster__voone_8cpp.html#a46bbf91344c10e04ee369fcab5df3902":[7,0,0,0,1,3,2,1,1,14,6],
+"d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,14,5],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0116639bee243d92b61fb03a198321e7":[7,0,0,0,1,3,2,1,1,14,5,1],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,2,1,1,14,5,2],
 "d8/de6/boss__warmaster__voone_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9":[7,0,0,0,1,3,2,1,1,14,5,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX233 =
 "d8/df6/TypeContainerFunctions_8h.html#afe44e70d4fae1d3c112291bd985e82b1":[7,0,0,0,0,6,5,27],
 "d8/df6/TypeContainerFunctions_8h.html#affed0a39c687fd0d71e1838f7d91d106":[7,0,0,0,0,6,5,20],
 "d8/df6/classAuraScript_1_1EffectAbsorbHandler.html":[6,0,293,6],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a29bb773b8271acf651b08f33ce358720":[6,0,293,6,0],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a519489b8d951173a806e86cfe075faf1":[6,0,293,6,2],
-"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a56bfb0fd0d860678920445d1182c09ef":[6,0,293,6,1],
-"d8/df6/classspell__gen__clone__weapon.html":[6,0,3009],
-"d8/df6/classspell__gen__clone__weapon.html#a4ba7f7935c4acda891190dc375086dee":[6,0,3009,1],
-"d8/df6/classspell__gen__clone__weapon.html#ab3f415ae783f2a778178cc3319b32773":[6,0,3009,0]
+"d8/df6/classAuraScript_1_1EffectAbsorbHandler.html#a29bb773b8271acf651b08f33ce358720":[6,0,293,6,0]
 };

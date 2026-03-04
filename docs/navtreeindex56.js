@@ -1,10 +1,5 @@
 var NAVTREEINDEX56 =
 {
-"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba1b44cf78923307fdbb2d2d48579928f9":[7,0,0,0,1,2,8,1,1,7,7],
-"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba3f2ba4902de6da31bbf923ed4dee5d9b":[7,0,0,0,1,2,8,1,1,7,8],
-"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba6190a7037359672935918608ee40a92b":[7,0,0,0,1,2,8,1,1,7,4],
-"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba6db06b2b26df09a77ac22be870092a9f":[7,0,0,0,1,2,8,1,1,7,3],
-"d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba":[7,0,0,0,1,2,8,1,1,7,9],
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9bababa1c289a4cc48f49d5158962c7a654ea":[7,0,0,0,1,2,8,1,1,7,0],
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacbe3a72209c0fb6f9567d37056c651d3":[7,0,0,0,1,2,8,1,1,7,5],
 "d2/d35/BattlegroundAB_8h.html#a5fdbcfc2e08c809423685172cb1e9babacf222243191f9ac4a83ff33723f923b4":[7,0,0,0,1,2,8,1,1,7,2],
@@ -209,8 +204,8 @@ var NAVTREEINDEX56 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[6,0,2215,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[6,0,2215,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[6,0,972,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,972,2,1],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,972,2,0],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,972,2,1],
 "d2/d39/classboss__varos.html":[6,0,770],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[6,0,770,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[6,0,770,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX56 =
 "d2/d3c/classspell__karathress__power__of__tidalvess.html#a769d30c78e4feaa9cc0c581af5264c02":[6,0,3506,0],
 "d2/d3c/classspell__karathress__power__of__tidalvess.html#af1c2b7baf0ff7164cafab8f1a53bbb18":[6,0,3506,2],
 "d2/d3c/classspell__q12659__ahunaes__knife.html":[6,0,3897],
-"d2/d3c/classspell__q12659__ahunaes__knife.html#a69336bea35240c0014693ae167d4124b":[6,0,3897,3]
+"d2/d3c/classspell__q12659__ahunaes__knife.html#a69336bea35240c0014693ae167d4124b":[6,0,3897,3],
+"d2/d3c/classspell__q12659__ahunaes__knife.html#ab8e5dcd009cca538c9921dcb9c5fe109":[6,0,3897,1],
+"d2/d3c/classspell__q12659__ahunaes__knife.html#ac92fd133395705e4cb3730bc96e1f787":[6,0,3897,2],
+"d2/d3c/classspell__q12659__ahunaes__knife.html#aef93741620dcf29179502f88891ad0b5":[6,0,3897,0],
+"d2/d3d/boss__lurker__below_8cpp.html":[7,0,0,0,1,3,7,2,0,4],
+"d2/d3d/boss__lurker__below_8cpp.html#a2c5ff196151f05c644067b8a53f792b8":[7,0,0,0,1,3,7,2,0,4,7]
 };

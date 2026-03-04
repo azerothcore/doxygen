@@ -1,7 +1,5 @@
 var NAVTREEINDEX392 =
 {
-"df/d1e/classspell__pri__shadowfiend__scaling.html#a9ae59870127884029a938684786e67a9":[6,0,3798,2],
-"df/d1e/classspell__pri__shadowfiend__scaling.html#aa3fd9aa18ea2afa20c7c2298a8699812":[6,0,3798,1],
 "df/d1e/classspell__pri__shadowfiend__scaling.html#aa90952337607986eaf7485200a32c353":[6,0,3798,5],
 "df/d1e/classspell__pri__shadowfiend__scaling.html#aaca0801f75839ebd9568c4cd31011a1e":[6,0,3798,4],
 "df/d1e/instance__blackrock__spire_8cpp.html":[7,0,0,0,1,3,2,1,1,15],
@@ -249,5 +247,7 @@ var NAVTREEINDEX392 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a54595526b36d446c755f3f39f168e24c":[7,0,0,0,1,2,16,5,0,4,6,194],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a5504968db4eadc948df53a97a40746b1":[7,0,0,0,1,2,16,5,0,4,6,88],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a5515e9404fb0d2f2aa473d2bd925db48":[7,0,0,0,1,2,16,5,0,4,6,19],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55942aa82e4f35477e715b919a6644f2":[7,0,0,0,1,2,16,5,0,4,6,185]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55942aa82e4f35477e715b919a6644f2":[7,0,0,0,1,2,16,5,0,4,6,185],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55b1adfa47b8df5d6f75c0ec664f1588":[7,0,0,0,1,2,16,5,0,4,6,244],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a55f40855e6113cdd2a025afc25fabdfb":[7,0,0,0,1,2,16,5,0,4,6,284]
 };

@@ -1,5 +1,10 @@
 var NAVTREEINDEX323 =
 {
+"dc/db2/SpellScript_8h.html":[7,0,0,0,1,2,41,11],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236":[7,0,0,0,1,2,41,11,72],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a01bccb65044d0e5ccab470539e8a71a3":[7,0,0,0,1,2,41,11,72,7],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a0905d7f2def92251e0ebe8ab5bdc4221":[7,0,0,0,1,2,41,11,72,18],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a12c382920aa6890efbc36805fc32e25a":[7,0,0,0,1,2,41,11,72,6],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a1794d2594c7b6dfe59a79a48aba6f142":[7,0,0,0,1,2,41,11,72,2],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a2ef312bd29f036eb8b15fedd4d2bc082":[7,0,0,0,1,2,41,11,72,12],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a35f3fc9519440c5f846a1cb2789706df":[7,0,0,0,1,2,41,11,72,20],
@@ -244,10 +249,5 @@ var NAVTREEINDEX323 =
 "dc/db7/classOutdoorPvPSI.html#a7392eed60ec3307bdea4ed35cd859077":[6,0,2374,1],
 "dc/db7/classOutdoorPvPSI.html#a7c6d70d7a611752456c55d13420ff840":[6,0,2374,2],
 "dc/db7/classOutdoorPvPSI.html#a81f4362ece83f37f14471926e9a85fb3":[6,0,2374,10],
-"dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1":[6,0,2374,0],
-"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[6,0,2374,4],
-"dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[6,0,2374,6],
-"dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[6,0,2374,7],
-"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[6,0,2374,11],
-"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[6,0,2374,12]
+"dc/db7/classOutdoorPvPSI.html#a89bf2d913b7d68ee921ef4b9aeea61e1":[6,0,2374,0]
 };

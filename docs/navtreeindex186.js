@@ -1,10 +1,5 @@
 var NAVTREEINDEX186 =
 {
-"d6/ddb/classDamageInfoStub.html#a2ec521265ea69e94924e10aad3fd1a6c":[6,0,963,17],
-"d6/ddb/classDamageInfoStub.html#a353709b9695720cd67a5ac8cec9a2672":[6,0,963,14],
-"d6/ddb/classDamageInfoStub.html#a37b0384b8dc1f9865100dd3c234e79a7":[6,0,963,16],
-"d6/ddb/classDamageInfoStub.html#a3d25fd3b20e5555af8d8d6bb745ba3ef":[6,0,963,25],
-"d6/ddb/classDamageInfoStub.html#a4553e0e6d8657ab54b7c98d9262fb5f5":[6,0,963,5],
 "d6/ddb/classDamageInfoStub.html#a4b36b0de9a5875e0f3a14b83d768dfcd":[6,0,963,10],
 "d6/ddb/classDamageInfoStub.html#a5b5c0871a6222563a1b86e25eb4c7e8a":[6,0,963,7],
 "d6/ddb/classDamageInfoStub.html#a5bc50df8c1efcc1f7628f2707fcc06da":[6,0,963,20],
@@ -224,8 +219,8 @@ var NAVTREEINDEX186 =
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1672,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,12,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[6,0,12,11,0,1],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,12,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[6,0,12,11,0,0],
@@ -241,13 +236,18 @@ var NAVTREEINDEX186 =
 "d6/dec/classinstance__onyxias__lair.html":[6,0,1342],
 "d6/dec/classinstance__onyxias__lair.html#a1be32e45cb8af86477d300efb6e545cc":[6,0,1342,1],
 "d6/dec/classinstance__onyxias__lair.html#abbdc474ce17bca0cb55180661c5204a8":[6,0,1342,2],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,95],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[5,0,1,107],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,107,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html":[6,0,0,95],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[6,0,0,95,2],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a34c24d8e219b8dbbdf27c1d36489f3fa":[5,0,1,107,2],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[5,0,1,107,1],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6]
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,95,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3]
 };

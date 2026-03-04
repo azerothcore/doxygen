@@ -1,5 +1,10 @@
 var NAVTREEINDEX287 =
 {
+"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#add8fd9a6f63482df9f45b3bfd766ab8d":[6,0,1832,0,1],
+"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#add8fd9a6f63482df9f45b3bfd766ab8da9e753f89ab9b6e361811f315e05cd86d":[6,0,1832,0,1,0],
+"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#ae8b39c5bb662dcd75f77afadabe479e0":[6,0,1832,0,2],
+"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#ae8b39c5bb662dcd75f77afadabe479e0a813bb4a12b95a86434f4e82fecaeade2":[6,0,1832,0,2,2],
+"db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#ae8b39c5bb662dcd75f77afadabe479e0aa8758b509f2342c32be1e28329ec0397":[6,0,1832,0,2,0],
 "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#ae8b39c5bb662dcd75f77afadabe479e0acf87a9a0c9d87d1874eb0d8aeca450db":[6,0,1832,0,2,1],
 "db/d64/structnpc__gothik__the__harvester_1_1npc__gothik__the__harvesterAI.html#af2a9927516a41e3d8c35edb993a4aef5":[6,0,1832,0,6],
 "db/d65/classspell__rog__tricks__of__the__trade__proc.html":[6,0,3984],
@@ -244,10 +249,5 @@ var NAVTREEINDEX287 =
 "db/d6e/spell__item_8cpp.html#a2ddf23802d144f24f09792ae2b7736e2a36f89b91efd54b32ee8ca7a5be324cc4":[7,0,0,0,1,3,9,4,249,0],
 "db/d6e/spell__item_8cpp.html#a2ddf23802d144f24f09792ae2b7736e2ab33f38f65e55eba64be386ca2ac447a4":[7,0,0,0,1,3,9,4,249,3],
 "db/d6e/spell__item_8cpp.html#a2ddf23802d144f24f09792ae2b7736e2af1a20709e066bd49fe554d290e391c46":[7,0,0,0,1,3,9,4,249,2],
-"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6f":[7,0,0,0,1,3,9,4,220],
-"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6fa0dc7e33feb95cca3044fa05f48900ff4":[7,0,0,0,1,3,9,4,220,2],
-"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6fa6d6db538d8f87b1653710b8c93543b47":[7,0,0,0,1,3,9,4,220,3],
-"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6fa85394ea79b6ba06f017c383da62e8de4":[7,0,0,0,1,3,9,4,220,1],
-"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6faa48b0e14df013eb522459c6a2616cb0b":[7,0,0,0,1,3,9,4,220,0],
-"db/d6e/spell__item_8cpp.html#a2fce9bb038a3cbcdbfdb977c0287801c":[7,0,0,0,1,3,9,4,174]
+"db/d6e/spell__item_8cpp.html#a2ed78951e6688d2a04a8209dbdaa7e6f":[7,0,0,0,1,3,9,4,220]
 };

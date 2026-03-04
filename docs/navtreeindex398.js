@@ -1,7 +1,5 @@
 var NAVTREEINDEX398 =
 {
-"df/d5c/classnpc__commandscript.html#a265fbd601b08b2265f58a4301093ff7d":[6,0,1715,28],
-"df/d5c/classnpc__commandscript.html#a2b6ee43b9f9295a47d3445a1f09c6d0f":[6,0,1715,32],
 "df/d5c/classnpc__commandscript.html#a30052a3759151fb2c99f13bd83a0bc6e":[6,0,1715,33],
 "df/d5c/classnpc__commandscript.html#a3ff7f55e9234685be9e61c5508246225":[6,0,1715,26],
 "df/d5c/classnpc__commandscript.html#a432ce71efa4ba98072b77140df7f867b":[6,0,1715,36],
@@ -54,8 +52,8 @@ var NAVTREEINDEX398 =
 "df/d5d/classspell__dru__revitalize.html#a43704e8ddf8eb94adf27225eb02135bd":[6,0,2899,0],
 "df/d5d/classspell__dru__revitalize.html#a626ebecdbb7e431af364fa9bcde38644":[6,0,2899,1],
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[6,0,2899,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,8,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,29,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX398 =
 "df/d6f/structboss__thorim__arena__npcs.html#a2f23cddcf5a0db42ba24730dfbe54976":[6,0,747,2],
 "df/d6f/structboss__thorim__arena__npcs.html#a3fa38189c886a486aabb39a372834938":[6,0,747,4],
 "df/d6f/structboss__thorim__arena__npcs.html#a6a8489763ca223c749aa71c2da05b3cf":[6,0,747,5],
-"df/d6f/structboss__thorim__arena__npcs.html#a7b118ec6fa25c0f452419d1f5b4a698f":[6,0,747,3]
+"df/d6f/structboss__thorim__arena__npcs.html#a7b118ec6fa25c0f452419d1f5b4a698f":[6,0,747,3],
+"df/d6f/structboss__thorim__arena__npcs.html#a849567e412254aa8d0d7da33b6b1522f":[6,0,747,0],
+"df/d6f/structboss__thorim__arena__npcs.html#aa4f90aadf8a9705fea03433195d41ad0":[6,0,747,1]
 };

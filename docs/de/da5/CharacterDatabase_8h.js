@@ -375,6 +375,8 @@ var CharacterDatabase_8h =
       [ "CHAR_UDP_CHAR_HONOR_POINTS_ACCUMULATIVE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a868f093ec4ce5d1b93010f0dbf7080e7", null ],
       [ "CHAR_UDP_CHAR_ARENA_POINTS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a83f8506a23a2c0e4c1244adc55d007db", null ],
       [ "CHAR_UDP_CHAR_ARENA_POINTS_ACCUMULATIVE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7adecba61325b67d5a71eeddc0c3d75134", null ],
+      [ "CHAR_UPD_ALL_HONOR_POINTS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a4fa546567463a2a56b44e8914af818f5", null ],
+      [ "CHAR_UPD_ALL_ARENA_POINTS", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5d543ba5c16ab271a5fd0e5253f65863", null ],
       [ "CHAR_UDP_CHAR_MONEY", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7ae83139f56429e021e888cf0eb093cfb4", null ],
       [ "CHAR_UDP_CHAR_MONEY_ACCUMULATIVE", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a69d30ae3c21b711e2035d179ae700958", null ],
       [ "CHAR_UPD_CHAR_REMOVE_GHOST", "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7adb10033c9707f58309772eeb7751c677", null ],

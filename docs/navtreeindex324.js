@@ -1,5 +1,10 @@
 var NAVTREEINDEX324 =
 {
+"dc/db7/classOutdoorPvPSI.html#a9238a5007253d84d66192bd340d8311a":[6,0,2374,4],
+"dc/db7/classOutdoorPvPSI.html#aa06088b1d80072577e6fc7653a214512":[6,0,2374,6],
+"dc/db7/classOutdoorPvPSI.html#aae7deda0662b28f6fc0e16115a65304b":[6,0,2374,7],
+"dc/db7/classOutdoorPvPSI.html#ab532337ab7e66e1489221e3189e48bac":[6,0,2374,11],
+"dc/db7/classOutdoorPvPSI.html#abcd36fe918edbbea387573bd5fab89e7":[6,0,2374,12],
 "dc/db7/classOutdoorPvPSI.html#ad2cabd461406a61e40411850b3d31c0c":[6,0,2374,5],
 "dc/db8/classspell__dk__necrosis.html":[6,0,2820],
 "dc/db8/classspell__dk__necrosis.html#a1b2746e9013ecfbbc112d74a9229719f":[6,0,2820,0],
@@ -97,15 +102,6 @@ var NAVTREEINDEX324 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[6,0,668,12],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[6,0,668,0],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#adf87bd797da345e49700265319d808cc":[6,0,668,10],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html":[7,0,0,0,2,2,0,6,16],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#a0920a0ca262ff197e0f0bfb03719e144":[7,0,0,0,2,2,0,6,16,5],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#a1563c4f06ca41776594d3a6be65f6b03":[7,0,0,0,2,2,0,6,16,3],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#a310d31b0c6be5187e7fa52d08792bd7d":[7,0,0,0,2,2,0,6,16,6],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#a45dce23c5bc0dc9069ef949aaf473ca2":[7,0,0,0,2,2,0,6,16,7],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#a71bde42e5089a7cc2b962cbbd55db21c":[7,0,0,0,2,2,0,6,16,2],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#a95a6cbb6a193a051a5621ebe9d3a3d88":[7,0,0,0,2,2,0,6,16,8],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#aa7ee5d5198cb3371ecae476006daeaa6":[7,0,0,0,2,2,0,6,16,4],
-"dc/dc0/SpellProcPhaseOrderingTest_8cpp.html#ad57f16deef4fea30d1060479fb462dea":[7,0,0,0,2,2,0,6,16,1],
 "dc/dc0/structBattlegroundAVScore.html":[6,0,327],
 "dc/dc0/structBattlegroundAVScore.html#a09038f1133996849064da1b09983be82":[6,0,327,11],
 "dc/dc0/structBattlegroundAVScore.html#a13edee0d2da9b539eeab5d5d7a15dcc9":[6,0,327,6],
@@ -249,5 +245,9 @@ var NAVTREEINDEX324 =
 "dc/dc9/ObjectGuid_8h.html#ae616985e1e68f294e055e2bced156ada":[7,0,0,0,1,2,16,5,5,9],
 "dc/dc9/ScriptedCreature_8cpp.html":[7,0,0,0,1,2,3,1,0],
 "dc/dc9/ScriptedCreature_8cpp.html#a136c0c059281a05f9cb91237ce55be7b":[7,0,0,0,1,2,3,1,0,2],
-"dc/dc9/ScriptedCreature_8cpp.html#a2e3edf6fd8a6865d815af4f8acb184af":[7,0,0,0,1,2,3,1,0,5]
+"dc/dc9/ScriptedCreature_8cpp.html#a2e3edf6fd8a6865d815af4f8acb184af":[7,0,0,0,1,2,3,1,0,5],
+"dc/dc9/ScriptedCreature_8cpp.html#a80b13d7c0fa3b835b0834955ed0f93d8":[7,0,0,0,1,2,3,1,0,3],
+"dc/dc9/ScriptedCreature_8cpp.html#ab6a8246d473139627106be4651f6329d":[7,0,0,0,1,2,3,1,0,4],
+"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911":[7,0,0,0,1,2,3,1,0,1],
+"dc/dc9/ScriptedCreature_8cpp.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc":[7,0,0,0,1,2,3,1,0,1,0]
 };

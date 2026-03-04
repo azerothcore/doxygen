@@ -1,10 +1,5 @@
 var NAVTREEINDEX97 =
 {
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7722420716c030b5abe7b760199df14d":[6,0,1772,0,12],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a7d6fb37d1953630aa79f8665eca0db61":[6,0,1772,0,7],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a98a045606d9e689ef25a5068b81b1ebf":[6,0,1772,0,6],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#a9d876ec76b51f743c71e67749c21d939":[6,0,1772,0,4],
-"d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#abd5b37793aa2fb150c808b7dc7270763":[6,0,1772,0,2],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#abe5162608ba0acd7360a630562ff5935":[6,0,1772,0,5],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#acebbfa8da88d8d683ba5ea6463f6b5f7":[6,0,1772,0,10],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ad6838d98e34a32cbed42c77cdf096070":[6,0,1772,0,8],
@@ -249,5 +244,10 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba668a21a7468511f36d3d7fef442ee916":[7,0,0,0,1,2,48,7,0,47],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba66acdf83ce5e091e8360e71286fcd689":[7,0,0,0,1,2,48,7,0,23],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba68c77c07e22e8b74f1becb8a89c31054":[7,0,0,0,1,2,48,7,0,307],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba690edaa3cdc5ec8f67903adab1ff5ad2":[7,0,0,0,1,2,48,7,0,396]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba690edaa3cdc5ec8f67903adab1ff5ad2":[7,0,0,0,1,2,48,7,0,396],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba69a56b7768750809d067866b80e23345":[7,0,0,0,1,2,48,7,0,29],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6b57b527a9b9b7652ebacebce99c6f15":[7,0,0,0,1,2,48,7,0,110],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6b866fde1e4447450ede6ab06e8d3ce4":[7,0,0,0,1,2,48,7,0,465],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6bed8c2e8c0ddbd0819273935d676dd6":[7,0,0,0,1,2,48,7,0,246],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6c1f198e6ecb3910910a86dde772c0f1":[7,0,0,0,1,2,48,7,0,72]
 };

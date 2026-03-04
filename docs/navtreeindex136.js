@@ -1,10 +1,5 @@
 var NAVTREEINDEX136 =
 {
-"d4/da1/classspectator__commandscript.html#a23a1a3740609a6d0caa6e0f10c7e8653":[6,0,2610,4],
-"d4/da1/classspectator__commandscript.html#a3451bcda07b51a33fd8368cf00ac190f":[6,0,2610,1],
-"d4/da1/classspectator__commandscript.html#aaf331e54c3c19b5d16d9d5f5c9d28721":[6,0,2610,2],
-"d4/da1/classspectator__commandscript.html#aaf7c57603d263f7ab919f12d9680f058":[6,0,2610,6],
-"d4/da1/classspectator__commandscript.html#ad1f117a77c0154fc25e937dfe21870a2":[6,0,2610,5],
 "d4/da2/BoundingIntervalHierarchyWrapper_8h.html":[7,0,0,0,0,1,5],
 "d4/da2/classboss__firemaw.html":[6,0,477],
 "d4/da2/classboss__firemaw.html#a3a20bcefa86a21daaecaef14396dadc4":[6,0,477,2],
@@ -245,9 +240,14 @@ var NAVTREEINDEX136 =
 "d4/daa/classspell__oculus__rider__aura.html#a88af7f269f56e474434d51c7ac0eb0a0":[6,0,3683,4],
 "d4/daa/classspell__oculus__rider__aura.html#a9f66217f4785c8240c4b074bbf04b96e":[6,0,3683,1],
 "d4/daa/classspell__oculus__rider__aura.html#aa94b30468b2c853c0d8b86658a43dee4":[6,0,3683,2],
-"d4/dab/classMMAP_1_1MapBuilder.html":[5,0,21,3],
 "d4/dab/classMMAP_1_1MapBuilder.html":[6,0,6,3],
-"d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0":[6,0,6,3,24],
+"d4/dab/classMMAP_1_1MapBuilder.html":[5,0,21,3],
 "d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0":[5,0,21,3,24],
-"d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e":[6,0,6,3,3]
+"d4/dab/classMMAP_1_1MapBuilder.html#a0a5843c2b412f6cc82b3a376df3c6ff0":[6,0,6,3,24],
+"d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e":[6,0,6,3,3],
+"d4/dab/classMMAP_1_1MapBuilder.html#a2f266b4cd1ed376df97f345d6e41996e":[5,0,21,3,3],
+"d4/dab/classMMAP_1_1MapBuilder.html#a3dfc20dcb3b5e8e85a6f3fa7e2cfd057":[5,0,21,3,23],
+"d4/dab/classMMAP_1_1MapBuilder.html#a3dfc20dcb3b5e8e85a6f3fa7e2cfd057":[6,0,6,3,23],
+"d4/dab/classMMAP_1_1MapBuilder.html#a4016c48626d420fe1eed0aa21b7932a1":[6,0,6,3,20],
+"d4/dab/classMMAP_1_1MapBuilder.html#a4016c48626d420fe1eed0aa21b7932a1":[5,0,21,3,20]
 };

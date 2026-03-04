@@ -1,10 +1,5 @@
 var NAVTREEINDEX167 =
 {
-"d6/d12/classspell__leotheras__insidious__whisper.html#a8622bc4d61c5c236349d4b12c2a6b10d":[6,0,3545,1],
-"d6/d12/classspell__leotheras__insidious__whisper.html#ac20676c292d87276e444bad56d71960d":[6,0,3545,0],
-"d6/d12/classspell__leotheras__insidious__whisper.html#ae356b768872de3e87806c19bf8cccb08":[6,0,3545,2],
-"d6/d13/classspell__rog__glyph__of__backstab.html":[6,0,3966],
-"d6/d13/classspell__rog__glyph__of__backstab.html#a34fc7c89e962791d76c24c40bbdba827":[6,0,3966,0],
 "d6/d13/classspell__rog__glyph__of__backstab.html#a3558a23d2d428ee4f0bec8ae6c1afba5":[6,0,3966,1],
 "d6/d13/classspell__rog__glyph__of__backstab.html#aab998e808ec9f53e87d92e71b3cc1c30":[6,0,3966,2],
 "d6/d13/structServerPktHeader.html":[6,0,2570],
@@ -140,14 +135,14 @@ var NAVTREEINDEX167 =
 "d6/d16/structinstance__the__stockade_1_1instance__the__stockade__InstanceMapScript.html#a255ebc2ebda65b412f46e05e332d605e":[6,0,1365,0,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[6,0,12,6,42],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html":[5,0,34,6,42],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[6,0,12,6,42,3],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a3dc50115a24b686d3a2fa9e28a7042af":[5,0,34,6,42,3],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[5,0,34,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#a46bfcae3e4788d6ea4e6ee71b8a16edd":[6,0,12,6,42,0],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[5,0,34,6,42,2],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af16392abbddf27a8b21fd21d998501e6":[6,0,12,6,42,2],
-"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
 "d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[6,0,12,6,42,1],
+"d6/d17/structWorldPackets_1_1Guild_1_1GuildRankData.html#af9c7b68d1bd48da88f65fa40a01ccc72":[5,0,34,6,42,1],
 "d6/d18/classModel.html":[6,0,1537],
 "d6/d18/classModel.html#a1af9857df4d0e16ab9940846300fa8fe":[6,0,1537,8],
 "d6/d18/classModel.html#a2f6e66bbf4acc662d73e8fe8e5a0e085":[6,0,1537,6],
@@ -249,5 +244,10 @@ var NAVTREEINDEX167 =
 "d6/d1a/classOutdoorPvPEP.html#ac1b185125fa1f8864d1062b65be24bdc":[6,0,2368,2],
 "d6/d1a/classOutdoorPvPEP.html#ac6a61c19ba96ca843eb12952d0c09078":[6,0,2368,1],
 "d6/d1a/classOutdoorPvPEP.html#acecc8126180c027cb3d685231e55d873":[6,0,2368,7],
-"d6/d1a/classOutdoorPvPEP.html#afad47628bb4cfcc6060ce35396e33d9d":[6,0,2368,5]
+"d6/d1a/classOutdoorPvPEP.html#afad47628bb4cfcc6060ce35396e33d9d":[6,0,2368,5],
+"d6/d1a/classboss__gloomrel.html":[6,0,510],
+"d6/d1a/classboss__gloomrel.html#a6ce6898142d767a130ec09769f2be488":[6,0,510,1],
+"d6/d1a/classboss__gloomrel.html#ab7c623cdd2301f3a0a74d6b1e187a8c5":[6,0,510,2],
+"d6/d1a/classboss__gloomrel.html#ad655acba7b2d88779f849a685bb9fbb7":[6,0,510,0],
+"d6/d1a/classboss__pyroguard__emberseer.html":[6,0,673]
 };

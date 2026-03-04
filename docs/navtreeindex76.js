@@ -1,10 +1,5 @@
 var NAVTREEINDEX76 =
 {
-"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a94993441ef94f84c85aa10c693cf34fe":[6,0,3950,0],
-"d2/dd6/classspell__reliquary__of__souls__aura__of__suffering__aura.html#a964637541cd64e64b4e02c00d36abf2d":[6,0,3950,4],
-"d2/dd6/structnpc__warmage__violetstand.html":[6,0,2292],
-"d2/dd6/structnpc__warmage__violetstand.html#a1f67c9521cc3bd63886a8936b28e6622":[6,0,2292,0],
-"d2/dd6/structnpc__warmage__violetstand.html#a46560aa7aa90778967a79c931a81721b":[6,0,2292,3],
 "d2/dd6/structnpc__warmage__violetstand.html#a99015610597f43f184cc686c9fab2fa9":[6,0,2292,1],
 "d2/dd6/structnpc__warmage__violetstand.html#aa0eac837ab697c3e0cd5ab753f0bd0b4":[6,0,2292,2],
 "d2/dd7/RegularGrid_8h.html":[7,0,0,0,0,1,8],
@@ -249,5 +244,10 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a13ea1f77e430e697e2ca7acc368d93e1":[6,0,4384,30],
 "d2/de9/classSpellInfo.html#a154f650ed5020b96a76cea54d31736af":[6,0,4384,190],
 "d2/de9/classSpellInfo.html#a16e049ec579732409fb7029e8f8863a1":[6,0,4384,163],
-"d2/de9/classSpellInfo.html#a185415f971271de2af5a352cc92932ef":[6,0,4384,132]
+"d2/de9/classSpellInfo.html#a185415f971271de2af5a352cc92932ef":[6,0,4384,132],
+"d2/de9/classSpellInfo.html#a1867bc7f5d95b4897b0fd07e0ba5d3e7":[6,0,4384,91],
+"d2/de9/classSpellInfo.html#a1c8abb4ae8877f346dcf95f7d1b59640":[6,0,4384,173],
+"d2/de9/classSpellInfo.html#a1dbf49afa821937a1f84938df6bde31e":[6,0,4384,160],
+"d2/de9/classSpellInfo.html#a20c43b3c24e4cfb1b41d00259f9343c4":[6,0,4384,103],
+"d2/de9/classSpellInfo.html#a21cf48a7eb77db7f731ebe746d2d6878":[6,0,4384,184]
 };

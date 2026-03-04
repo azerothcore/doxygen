@@ -16,7 +16,6 @@ var dir_7ee4929d46277e5eb29eea0f8a31fa60 =
     [ "SpellProcEquipmentTest.cpp", "de/de9/SpellProcEquipmentTest_8cpp.html", "de/de9/SpellProcEquipmentTest_8cpp" ],
     [ "SpellProcFullCoverageTest.cpp", "d4/da0/SpellProcFullCoverageTest_8cpp.html", "d4/da0/SpellProcFullCoverageTest_8cpp" ],
     [ "SpellProcIntegrationTest.cpp", "d5/d26/SpellProcIntegrationTest_8cpp.html", "d5/d26/SpellProcIntegrationTest_8cpp" ],
-    [ "SpellProcPhaseOrderingTest.cpp", "dc/dc0/SpellProcPhaseOrderingTest_8cpp.html", "dc/dc0/SpellProcPhaseOrderingTest_8cpp" ],
     [ "SpellProcPipelineTest.cpp", "d3/d8f/SpellProcPipelineTest_8cpp.html", "d3/d8f/SpellProcPipelineTest_8cpp" ],
     [ "SpellProcPPMModifierTest.cpp", "d4/d51/SpellProcPPMModifierTest_8cpp.html", "d4/d51/SpellProcPPMModifierTest_8cpp" ],
     [ "SpellProcPPMTest.cpp", "dd/d63/SpellProcPPMTest_8cpp.html", "dd/d63/SpellProcPPMTest_8cpp" ],

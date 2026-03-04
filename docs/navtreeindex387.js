@@ -1,7 +1,5 @@
 var NAVTREEINDEX387 =
 {
-"de/de3/structboss__ick_1_1boss__ickAI.html#abf700d993e1cfaa0cc64d90903bfa842":[6,0,554,0,6],
-"de/de3/structboss__ick_1_1boss__ickAI.html#afa3a7ef19f014ed9c46be4a3adc83aa3":[6,0,554,0,1],
 "de/de3/structboss__ick_1_1boss__ickAI.html#afd7752ee19dcc6be0b28181bb4485146":[6,0,554,0,4],
 "de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html":[6,0,2056,0],
 "de/de3/structnpc__phantom__hallucination_1_1npc__phantom__hallucinationAI.html#a5a4f05c5930a7e5bd31df2e3131f4cec":[6,0,2056,0,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX387 =
 "de/deb/structM2Header.html#a8f0e0ee5b86676aeca52169482a064df":[6,0,1481,27],
 "de/deb/structM2Header.html#a9481f813c0509802e511d326a4d9ef3c":[6,0,1481,24],
 "de/deb/structM2Header.html#a95dd62284219efb375c5e258ca676bc6":[6,0,1481,50],
-"de/deb/structM2Header.html#a96fbb6535b0a3b6fe789cfbc4a42c0b2":[6,0,1481,40]
+"de/deb/structM2Header.html#a96fbb6535b0a3b6fe789cfbc4a42c0b2":[6,0,1481,40],
+"de/deb/structM2Header.html#a99351e33e3e66270ffd11dd2c4d5925d":[6,0,1481,10],
+"de/deb/structM2Header.html#a9d3afd1f545d59c8c19b45fbf8498e86":[6,0,1481,6]
 };

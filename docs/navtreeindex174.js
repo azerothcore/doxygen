@@ -1,10 +1,5 @@
 var NAVTREEINDEX174 =
 {
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa21e4be84a7a3700a41bca73f2926aab0":[7,0,0,0,1,2,7,0,1,24,22],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa2212b8a7264348f2fcd236f6a6290b42":[7,0,0,0,1,2,7,0,1,24,25],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa316fceef8a2ba2af24ce5dec816ca76b":[7,0,0,0,1,2,7,0,1,24,0],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa34937af13fa02e66405494376ef05ba3":[7,0,0,0,1,2,7,0,1,24,20],
-"d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa4722aae8de08b9bbae744a18d6dd81c7":[7,0,0,0,1,2,7,0,1,24,3],
 "d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa4e656bbbcf2c78243dba60f1e9a126f1":[7,0,0,0,1,2,7,0,1,24,28],
 "d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa55e23dafb3c817af6d35d3271cf45918":[7,0,0,0,1,2,7,0,1,24,27],
 "d6/d4f/BattlefieldWG_8h.html#a6d3ae36107d254525baaeec61e83ef2aa5b7a15e20943db058b79db3d11836f13":[7,0,0,0,1,2,7,0,1,24,12],
@@ -249,5 +244,10 @@ var NAVTREEINDEX174 =
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499add11728be2c5ca3593759ebd60abcb6a":[7,0,0,0,1,3,9,0,68,62],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499adfe39f9cdb4c38c4b5c6d8ca109b239c":[7,0,0,0,1,3,9,0,68,41],
 "d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499ae23535d4ae7804c0b21e692fa64e62eb":[7,0,0,0,1,3,9,0,68,37],
-"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499aead60649d7615af1407b41fb91458ee4":[7,0,0,0,1,3,9,0,68,57]
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499aead60649d7615af1407b41fb91458ee4":[7,0,0,0,1,3,9,0,68,57],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499aed2f121b8035ac607b34365fa52ba470":[7,0,0,0,1,3,9,0,68,11],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499af18767d3c2b7c54c42df28644f4c5e14":[7,0,0,0,1,3,9,0,68,38],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499af99b1b9b416a8e4814cb8ba256fabaf5":[7,0,0,0,1,3,9,0,68,8],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499afbf5dd93d92af7a77570be5f869d7e8e":[7,0,0,0,1,3,9,0,68,14],
+"d6/d51/spell__dk_8cpp.html#a70990262974db7bc1730b177eb17a499afe4a9e8ec64eb213836833029e889c9e":[7,0,0,0,1,3,9,0,68,12]
 };

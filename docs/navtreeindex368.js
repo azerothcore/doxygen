@@ -1,9 +1,5 @@
 var NAVTREEINDEX368 =
 {
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faecf270b72f7ced3aab3ce3b2f24b8a87":[7,0,0,0,1,3,9,7,39,15],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faeee484b733ad552750cbbd4bb82f11af":[7,0,0,0,1,3,9,7,39,23],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf1c99f5067e5ef0ef1fb7f96bd317bf4":[7,0,0,0,1,3,9,7,39,21],
-"de/d21/spell__priest_8cpp.html#a8aaecfe4214ff7bd567980dd904b110faf42f043dbb422920b04d0521f2103c68":[7,0,0,0,1,3,9,7,39,11],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740d":[7,0,0,0,1,3,9,7,38],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740da2d58d5bb5fc0d8a626705900a08716cb":[7,0,0,0,1,3,9,7,38,3],
 "de/d21/spell__priest_8cpp.html#abe70daab495ab444be54480721d6740daa3df6a2068f628d09dfdd5106fcde997":[7,0,0,0,1,3,9,7,38,0],
@@ -29,8 +25,8 @@ var NAVTREEINDEX368 =
 "de/d24/structWMO_1_1MODD.html#a48d372bc1371fa5f94db9aa39669942a":[6,0,11,0,3],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[5,0,33,0,1],
 "de/d24/structWMO_1_1MODD.html#add893e045d13a3633fd7346457a10477":[6,0,11,0,1],
-"de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,33,0,4],
 "de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[6,0,11,0,4],
+"de/d24/structWMO_1_1MODD.html#aefacaaf0be0745c95ffc53f410da6e8d":[5,0,33,0,4],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[5,0,33,0,2],
 "de/d24/structWMO_1_1MODD.html#afae9056582e71160c151de2c172bc60a":[6,0,11,0,2],
 "de/d24/structnpc__demon__chain.html":[6,0,1761],
@@ -249,5 +245,9 @@ var NAVTREEINDEX368 =
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea010139a112a534bdec268292ffb51a56":[7,0,0,0,1,2,16,1,2,33,13],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018":[7,0,0,0,1,2,16,1,2,33,4],
 "de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5":[7,0,0,0,1,2,16,1,2,33,32],
-"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f":[7,0,0,0,1,2,16,1,2,33,5]
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f":[7,0,0,0,1,2,16,1,2,33,5],
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa":[7,0,0,0,1,2,16,1,2,33,17],
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799":[7,0,0,0,1,2,16,1,2,33,28],
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4":[7,0,0,0,1,2,16,1,2,33,26],
+"de/d2f/CreatureData_8h.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92":[7,0,0,0,1,2,16,1,2,33,7]
 };

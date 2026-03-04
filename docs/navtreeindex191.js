@@ -1,10 +1,5 @@
 var NAVTREEINDEX191 =
 {
-"d7/d24/classspell__cthun__dark__glare.html#a511e54100036307aa5d37bc959405c73":[6,0,2758,1],
-"d7/d25/classspell__illidan__draw__soul.html":[6,0,3288],
-"d7/d25/classspell__illidan__draw__soul.html#a4f00eca7c78a785780be4379c1a56a6b":[6,0,3288,1],
-"d7/d25/classspell__illidan__draw__soul.html#a6ec6e79849c618d009eae3551e16ff0a":[6,0,3288,0],
-"d7/d25/classspell__illidan__draw__soul.html#a9ce122d497e72e3a46b1857d722af48d":[6,0,3288,3],
 "d7/d25/classspell__illidan__draw__soul.html#adb676b9d6f36c30efbb8286b1e5edf6d":[6,0,3288,2],
 "d7/d25/structnpc__pet__darting__hatchling.html":[6,0,2031],
 "d7/d25/structnpc__pet__darting__hatchling.html#a23196d05aebe5fa4a65455c55368820a":[6,0,2031,2],
@@ -104,16 +99,16 @@ var NAVTREEINDEX191 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a":[7,0,0,0,1,3,2,1,0,1,4,35],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22af35cb36a55922c0c6a4fba89d556aa74":[7,0,0,0,1,3,2,1,0,1,4,23],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[7,0,0,0,1,3,2,1,0,1,4,14],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,12,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,12,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,12,6,47,3],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,12,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,12,6,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,12,6,47,1],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,12,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,12,6,47,6],
@@ -249,5 +244,10 @@ var NAVTREEINDEX191 =
 "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a04b0f89f124acf798b1f8b28168b3559":[7,0,0,0,1,3,5,6,8,17,5],
 "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a46197bee1561258a5f54111fb35a9750":[7,0,0,0,1,3,5,6,8,17,10],
 "d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a47bbd6fd157ca8317223abadc1233aca":[7,0,0,0,1,3,5,6,8,17,2],
-"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a499b8c1f264705b6dceeb456b99e7669":[7,0,0,0,1,3,5,6,8,17,6]
+"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a499b8c1f264705b6dceeb456b99e7669":[7,0,0,0,1,3,5,6,8,17,6],
+"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4b28b406cda8e52b72782b205ea9cadf":[7,0,0,0,1,3,5,6,8,17,9],
+"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c":[7,0,0,0,1,3,5,6,8,17,0],
+"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa6fda36bf97147ea76e6a76d16c8dfef":[7,0,0,0,1,3,5,6,8,17,7],
+"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadf8ca8e7b6166cf8e4971f7c77fbf72":[7,0,0,0,1,3,5,6,8,17,4],
+"d7/d2b/boss__rotface_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad60e005740d8660b12eb935b0823c6c4":[7,0,0,0,1,3,5,6,8,17,3]
 };

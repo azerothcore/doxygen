@@ -4942,7 +4942,6 @@ var annotated_dup =
     [ "SpellProcEquipmentTest", "d3/d04/classSpellProcEquipmentTest.html", "d3/d04/classSpellProcEquipmentTest" ],
     [ "SpellProcFullCoverageTest", "da/d6b/classSpellProcFullCoverageTest.html", "da/d6b/classSpellProcFullCoverageTest" ],
     [ "SpellProcIntegrationTest", "d0/db0/classSpellProcIntegrationTest.html", "d0/db0/classSpellProcIntegrationTest" ],
-    [ "SpellProcPhaseOrderingTest", "d1/d23/classSpellProcPhaseOrderingTest.html", "d1/d23/classSpellProcPhaseOrderingTest" ],
     [ "SpellProcPipelineTest", "d6/d67/classSpellProcPipelineTest.html", "d6/d67/classSpellProcPipelineTest" ],
     [ "SpellProcPPMModifierTest", "d1/d9d/classSpellProcPPMModifierTest.html", "d1/d9d/classSpellProcPPMModifierTest" ],
     [ "SpellProcPPMTest", "d2/df6/classSpellProcPPMTest.html", "d2/df6/classSpellProcPPMTest" ],

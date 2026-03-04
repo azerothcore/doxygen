@@ -1,9 +1,5 @@
 var NAVTREEINDEX365 =
 {
-"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a55f0508293e66c80cf0a5e04a0fe464a":[7,0,0,0,1,4,7,88,4],
-"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77a9561b292a8d7dc1ee6d11b0d5198caed":[7,0,0,0,1,4,7,88,2],
-"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77ae5f352af54ef4389d7462f78e00a49f1":[7,0,0,0,1,4,7,88,1],
-"de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77aeb570056c8e2f64067ef37bc6783414f":[7,0,0,0,1,4,7,88,7],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77aed2190375d8625fda98b15212a5974d2":[7,0,0,0,1,4,7,88,6],
 "de/d0a/SharedDefines_8h.html#af35ebe35d76ce8cf05fd2291a2a62a77afc061afd38dafd1ef0884c372aa04f32":[7,0,0,0,1,4,7,88,5],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234":[7,0,0,0,1,4,7,104],
@@ -249,5 +245,9 @@ var NAVTREEINDEX365 =
 "de/d0a/unionkeyData.html#a811f59fc775a37c7c9eaaae2f175c864":[6,0,1418,2],
 "de/d0a/unionkeyData.html#a8484412ccb13cf396a4dc28b86f65b4e":[6,0,1418,1],
 "de/d0c/classGameObjectSummonGroupTest.html":[6,0,1105],
-"de/d0c/classGameObjectSummonGroupTest.html#a0cb70a624f55509497866a1fac787800":[6,0,1105,1]
+"de/d0c/classGameObjectSummonGroupTest.html#a0cb70a624f55509497866a1fac787800":[6,0,1105,1],
+"de/d0c/classGameObjectSummonGroupTest.html#ac7db18817aa330aedefd1f688d53219b":[6,0,1105,0],
+"de/d0c/classGameObjectSummonGroupTest.html#afec905a799e8fe7522a2fa6756fa41d9":[6,0,1105,2],
+"de/d0c/classspell__mage__fire__frost__ward.html":[6,0,3576],
+"de/d0c/classspell__mage__fire__frost__ward.html#a20d5b4776ebeb859b0641af640e41d80":[6,0,3576,1]
 };

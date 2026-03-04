@@ -1,10 +1,5 @@
 var NAVTREEINDEX147 =
 {
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a1519f1a03d1392137d1f1a8bb70aa3f5":[7,0,0,0,1,3,5,6,0,31,15],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a262c474ec2073ec78c48eb44023e0069":[7,0,0,0,1,3,5,6,0,31,1],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a27d0c508d911640be935ea00292d94ae":[7,0,0,0,1,3,5,6,0,31,16],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a36b64a976f9f2a0d8b4b947997fa148b":[7,0,0,0,1,3,5,6,0,31,21],
-"d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a3c7f41895cb0e54184e8af055c97c718":[7,0,0,0,1,3,5,6,0,31,8],
 "d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4ff24732cc936b9dbb78a98ae2e97d5a":[7,0,0,0,1,3,5,6,0,31,14],
 "d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a52b55438797a32364894ad635ddb272a":[7,0,0,0,1,3,5,6,0,31,9],
 "d5/d33/boss__blood__prince__council_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5461645970973fa7d945af43fed68a10":[7,0,0,0,1,3,5,6,0,31,6],
@@ -42,10 +37,10 @@ var NAVTREEINDEX147 =
 "d5/d33/classGlobalCooldownMgr.html#acc0291e56fe4d3594d079e357f6ea3ed":[6,0,1121,1],
 "d5/d33/classGlobalCooldownMgr.html#ae44caed35e93f834ff68394c1ab6434b":[6,0,1121,3],
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1121,2],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,102],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,90,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,90,1],
@@ -218,8 +213,8 @@ var NAVTREEINDEX147 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#a7877187ad7afb2dfbd28fb7c74d40478":[6,0,3176,1],
 "d5/d46/classspell__hallows__end__bucket__lands.html#acf3a9296a36f131f852afbf60beb7ea4":[6,0,3176,4],
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3176,2],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1819],
@@ -249,5 +244,10 @@ var NAVTREEINDEX147 =
 "d5/d48/the__black__morass_8h.html#a74fe4cc51d80fd3e88eb463b8f99b986aa7ba8d2f8bf34320c132de597c8f63fd":[7,0,0,0,1,3,4,1,3,5,6,2],
 "d5/d48/the__black__morass_8h.html#a74fe4cc51d80fd3e88eb463b8f99b986abf96029c340f31b0a70ca0605d9b9501":[7,0,0,0,1,3,4,1,3,5,6,1],
 "d5/d48/the__black__morass_8h.html#a7b09b15c58f982363e57697717c044f7":[7,0,0,0,1,3,4,1,3,5,1],
-"d5/d48/the__black__morass_8h.html#a7b242f799a19891d37b493147655ef47":[7,0,0,0,1,3,4,1,3,5,9]
+"d5/d48/the__black__morass_8h.html#a7b242f799a19891d37b493147655ef47":[7,0,0,0,1,3,4,1,3,5,9],
+"d5/d48/the__black__morass_8h.html#a7b242f799a19891d37b493147655ef47ae1f1c6d537d731e921ed0e71f832a9d0":[7,0,0,0,1,3,4,1,3,5,9,1],
+"d5/d48/the__black__morass_8h.html#a7b242f799a19891d37b493147655ef47af6a4dfb179ce196d4182612884d11479":[7,0,0,0,1,3,4,1,3,5,9,0],
+"d5/d48/the__black__morass_8h.html#a80d1b03d151c460c13b7a74f3969e462":[7,0,0,0,1,3,4,1,3,5,10],
+"d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963e":[7,0,0,0,1,3,4,1,3,5,3],
+"d5/d48/the__black__morass_8h.html#a92f6fd626e1834a4cc509efc1186963ea08461cd21590200e35d2b2790982dddd":[7,0,0,0,1,3,4,1,3,5,3,21]
 };

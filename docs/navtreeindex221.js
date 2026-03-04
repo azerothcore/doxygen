@@ -1,12 +1,17 @@
 var NAVTREEINDEX221 =
 {
+"d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html":[6,0,1930,0],
+"d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#a9dfc478b7da1bf33463e3653aea3c4da":[6,0,1930,0,0],
+"d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#ab704b138670279f6d731a6bb58ac6d10":[6,0,1930,0,1],
+"d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#aca1009b03ee24200f5dbad788ec5c5c8":[6,0,1930,0,4],
+"d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#ae4731b5dd7b92d6989b0960d88e1dc35":[6,0,1930,0,3],
 "d8/d6a/structnpc__kernobee_1_1npc__kernobeeAI.html#ae99836a836234ad441d6ac97c60d7fc6":[6,0,1930,0,2],
 "d8/d6b/classspell__alar__dive__bomb.html":[6,0,2618],
 "d8/d6b/classspell__alar__dive__bomb.html#a12dba24d5aa3d41671980d8dd509d6f2":[6,0,2618,1],
 "d8/d6b/classspell__alar__dive__bomb.html#a472220f22165c6d21eab5f4b5f75921e":[6,0,2618,0],
 "d8/d6b/classspell__alar__dive__bomb.html#aa8530071a4053e6c6f8b194a9cc723e2":[6,0,2618,2],
-"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,14,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[6,0,12,14,0],
+"d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html":[5,0,34,14,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[6,0,12,14,0,0],
 "d8/d6b/structWorldPackets_1_1Strings_1_1ByteSize.html#a4512047d5f150789a00428a8431fd55f":[5,0,34,14,0,0],
 "d8/d6c/classboss__ichoron.html":[6,0,553],
@@ -21,8 +26,8 @@ var NAVTREEINDEX221 =
 "d8/d6d/classboss__faerlina.html#a86543ac855287e3de2e3ffcde66fb1cb":[6,0,467,1],
 "d8/d6d/classboss__faerlina.html#aed8214323ff5b792d9bd6aae478e7848":[6,0,467,2],
 "d8/d6e/PetHandler_8cpp.html":[7,0,0,0,1,2,22,23],
-"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[6,0,0,5,2,0],
+"d8/d6e/structAcore_1_1Impl_1_1StringConvertImpl_1_1For.html":[5,0,1,8,2,0],
 "d8/d6f/classnpc__injured__draenei.html":[6,0,1911],
 "d8/d6f/classnpc__injured__draenei.html#a660c0f0c4ed41d70ad0a50cde25c1d14":[6,0,1911,1],
 "d8/d6f/classnpc__injured__draenei.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb":[6,0,1911,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d74/classWorldSession.html#a270dd99b520b49d471eb1e5def55860a":[4,1,19,375],
 "d8/d74/classWorldSession.html#a27830a318c7b09abc315258f8ecf1777":[4,1,19,125],
 "d8/d74/classWorldSession.html#a27ee6ec7cbcdb15a8b68aed1d51497ca":[4,1,19,27],
-"d8/d74/classWorldSession.html#a2932892fe992dd518fd5929aaa7a46b7":[4,1,19,566],
-"d8/d74/classWorldSession.html#a29a70a4e237e15a2a76ffc5a17d2831c":[4,1,19,110],
-"d8/d74/classWorldSession.html#a29ae136a29749f46fd715f5362e40325":[4,1,19,185],
-"d8/d74/classWorldSession.html#a2a51e88cab8c007756b59edf45776fac":[4,1,19,149],
-"d8/d74/classWorldSession.html#a2a7c514b4cb8e43b968389256006abfc":[4,1,19,133],
-"d8/d74/classWorldSession.html#a2aa7e10179c4bff07997c5636fbe6f06":[4,1,19,309]
+"d8/d74/classWorldSession.html#a2932892fe992dd518fd5929aaa7a46b7":[4,1,19,566]
 };

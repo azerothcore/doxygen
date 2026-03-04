@@ -1,9 +1,5 @@
 var NAVTREEINDEX348 =
 {
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html":[6,0,2700],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a59255a2cee0f9d8a75ca183647851779":[6,0,2700,0],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#a6b6dbeaa8feb8eac4441a87cdf371a36":[6,0,2700,2],
-"dd/dd2/classspell__blood__queen__swarming__shadows__floor__dmg.html#af8d1cc9c709aeb3a68d1f452bb605c71":[6,0,2700,1],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html":[6,0,679,0],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9":[6,0,679,0,13],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a35fddf983ba4dfc16fd231e2cca43f60":[6,0,679,0,4],
@@ -249,5 +245,9 @@ var NAVTREEINDEX348 =
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html":[6,0,102],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#ae575bae454689e05c161e8480a13fa18":[6,0,102,1],
 "dd/dd6/classachievement__wg__didnt__stand__a__chance.html#afb397c74f00d1f5c59a24ef74b0cd1cd":[6,0,102,0],
-"dd/dd6/classcharacter__commandscript.html":[6,0,863]
+"dd/dd6/classcharacter__commandscript.html":[6,0,863],
+"dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,863,5],
+"dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[6,0,863,13],
+"dd/dd6/classcharacter__commandscript.html#a1bb702a0244068ae8bf49ff6399387ee":[6,0,863,9],
+"dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[6,0,863,26]
 };

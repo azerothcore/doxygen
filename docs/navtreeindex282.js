@@ -1,5 +1,10 @@
 var NAVTREEINDEX282 =
 {
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a34277517e3e00bc12f90eb2bc54b9f90":[7,0,0,0,1,3,9,6,52,4],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a3a630b8ffb80a2e4bf348dee0e9d9487":[7,0,0,0,1,3,9,6,52,21],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a3c948847a819e5b64d663d51edb1b89e":[7,0,0,0,1,3,9,6,52,3],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a4958ba126227113bc9edac21913ff052":[7,0,0,0,1,3,9,6,52,15],
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a61649b6799d14ab50dffdcc455e38d75":[7,0,0,0,1,3,9,6,52,24],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a6360b1e3791994e84a6567943e247254":[7,0,0,0,1,3,9,6,52,16],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a670e417587f7cfee2aeeaf0ae0c648c7":[7,0,0,0,1,3,9,6,52,25],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a70e0e24076318a420a4cad7a063ab313":[7,0,0,0,1,3,9,6,52,26],
@@ -211,8 +216,8 @@ var NAVTREEINDEX282 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[7,0,0,0,1,3,2,7,0,4,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[7,0,0,0,1,3,2,7,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[5,0,1,7,6,1],
@@ -236,18 +241,13 @@ var NAVTREEINDEX282 =
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,12,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,12,6,40,0,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,12,6,40,0,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[5,0,34,6,40,0,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,12,6,40,0,0],
 "db/d21/structboss__runemaster__molgeim.html":[6,0,690],
 "db/d21/structboss__runemaster__molgeim.html#a0597a7360c24899e9f74f1d3f289e9c5":[6,0,690,3],
 "db/d21/structboss__runemaster__molgeim.html#a148c913fcc44c8dfd05260d76d389538":[6,0,690,12],
 "db/d21/structboss__runemaster__molgeim.html#a277b45a2b2399b91650907de2fb86b89":[6,0,690,10],
 "db/d21/structboss__runemaster__molgeim.html#a2d779d09adfd1f19ce3655d8e9740a9f":[6,0,690,2],
 "db/d21/structboss__runemaster__molgeim.html#a33c0a2d070cf6d3d850c840b048de251":[6,0,690,4],
-"db/d21/structboss__runemaster__molgeim.html#a40d0466bfbe6fae8435fb4921bca6c1a":[6,0,690,8],
-"db/d21/structboss__runemaster__molgeim.html#a8d05dd3f38eb24cf5be700328a874ff1":[6,0,690,6],
-"db/d21/structboss__runemaster__molgeim.html#a9f8cca601307af0475141d6b8370199a":[6,0,690,5],
-"db/d21/structboss__runemaster__molgeim.html#ad8f1b523299c7a2c3dd9013fa211a090":[6,0,690,7],
-"db/d21/structboss__runemaster__molgeim.html#adfbc84f0922e69b38723ecbc7eeead62":[6,0,690,11],
-"db/d21/structboss__runemaster__molgeim.html#ae465b567aeba025d2fde3baa94e55e1e":[6,0,690,0]
+"db/d21/structboss__runemaster__molgeim.html#a40d0466bfbe6fae8435fb4921bca6c1a":[6,0,690,8]
 };

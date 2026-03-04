@@ -1,10 +1,5 @@
 var NAVTREEINDEX122 =
 {
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca6120eea8c7cf93c77a440b6d6625183f":[7,0,0,0,1,3,5,4,1,3,10,12],
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca662074617cb51c00a6119b2d0197ee66":[7,0,0,0,1,3,5,4,1,3,10,0],
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca6cb3dd039a09f63d96b6b6705ca2e9c0":[7,0,0,0,1,3,5,4,1,3,10,7],
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca6cfaca76e20f0e5f131344e6e7135163":[7,0,0,0,1,3,5,4,1,3,10,24],
-"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca6d94c8afab61a7c05663d18ae985efb9":[7,0,0,0,1,3,5,4,1,3,10,8],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca727123a2a03452743d7ccb53754b22da":[7,0,0,0,1,3,5,4,1,3,10,39],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca78d08311d716fe8dac2d448d199fc7de":[7,0,0,0,1,3,5,4,1,3,10,29],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca822a7d601c02746225120a58d8027d94":[7,0,0,0,1,3,5,4,1,3,10,32],
@@ -249,5 +244,10 @@ var NAVTREEINDEX122 =
 "d4/d24/boss__cyanigosa_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad7ddbda746ff91b3cf02d00be61e5675":[7,0,0,0,1,3,5,12,0,4,6],
 "d4/d24/boss__cyanigosa_8cpp.html#a714dfd56c82f4af23079d52f9a5feab4":[7,0,0,0,1,3,5,12,0,5],
 "d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0":[7,0,0,0,1,3,5,12,0,3],
-"d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a72d6cfbd4d9a3ee75f83b63410197221":[7,0,0,0,1,3,5,12,0,3,4]
+"d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a72d6cfbd4d9a3ee75f83b63410197221":[7,0,0,0,1,3,5,12,0,3,4],
+"d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a761a9ee1d731bcf9c30c3c2d454c946e":[7,0,0,0,1,3,5,12,0,3,0],
+"d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a8271bf723a74d49c9a4cf81f134cf956":[7,0,0,0,1,3,5,12,0,3,1],
+"d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa7e91e6ca05c84d217b0f49c20500ee3":[7,0,0,0,1,3,5,12,0,3,2],
+"d4/d24/boss__cyanigosa_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0addcb3daa6cdc61ef04c65580e44ef823":[7,0,0,0,1,3,5,12,0,3,3],
+"d4/d25/boss__koralon_8cpp.html":[7,0,0,0,1,3,5,11,2]
 };
