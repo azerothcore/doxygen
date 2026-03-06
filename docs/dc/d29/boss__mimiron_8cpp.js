@@ -7,8 +7,9 @@ var boss__mimiron_8cpp =
     [ "npc_ulduar_proximity_mine", "d4/dab/structnpc__ulduar__proximity__mine.html", "d4/dab/structnpc__ulduar__proximity__mine" ],
     [ "spell_ulduar_mimiron_mine_explosion", "d4/d95/classspell__ulduar__mimiron__mine__explosion.html", "d4/d95/classspell__ulduar__mimiron__mine__explosion" ],
     [ "npc_ulduar_mimiron_rocket", "d1/d49/structnpc__ulduar__mimiron__rocket.html", "d1/d49/structnpc__ulduar__mimiron__rocket" ],
-    [ "npc_ulduar_magnetic_core", "df/d58/structnpc__ulduar__magnetic__core.html", "df/d58/structnpc__ulduar__magnetic__core" ],
     [ "npc_ulduar_bot_summon_trigger", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html", "d4/ddf/structnpc__ulduar__bot__summon__trigger" ],
+    [ "spell_mimiron_magnetic_core_summon", "d9/dc2/classspell__mimiron__magnetic__core__summon.html", "d9/dc2/classspell__mimiron__magnetic__core__summon" ],
+    [ "spell_mimiron_magnetic_core_aura", "d3/dad/classspell__mimiron__magnetic__core__aura.html", "d3/dad/classspell__mimiron__magnetic__core__aura" ],
     [ "spell_mimiron_rapid_burst_aura", "d3/d06/classspell__mimiron__rapid__burst__aura.html", "d3/d06/classspell__mimiron__rapid__burst__aura" ],
     [ "spell_mimiron_p3wx2_laser_barrage_aura", "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html", "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura" ],
     [ "go_ulduar_do_not_push_this_button", "d1/de6/classgo__ulduar__do__not__push__this__button.html", "d1/de6/classgo__ulduar__do__not__push__this__button" ],
@@ -24,6 +25,10 @@ var boss__mimiron_8cpp =
     [ "GetLMK2", "dc/d29/boss__mimiron_8cpp.html#ae87f21ed02c2f3995e248950ba0edfde", null ],
     [ "GetMimiron", "dc/d29/boss__mimiron_8cpp.html#a2630dd6d5e18380948268eaf946745be", null ],
     [ "GetVX001", "dc/d29/boss__mimiron_8cpp.html#acb8328e170a92d1db4eabfe0852921c0", null ],
+    [ "Actions", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
+      [ "DO_DISABLE_AERIAL", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfadca8f99832fac3e06025e419485fb1d9", null ],
+      [ "DO_ENABLE_AERIAL", "dc/d29/boss__mimiron_8cpp.html#a250372292659bed7ae290d8621f88ccfa1b73792b6ccf93886022e4549bf4f757", null ]
+    ] ],
     [ "EVENTS", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_SIT_LMK2", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a3a1a48db029f9535241cbc1ba696f821", null ],
       [ "EVENT_SIT_LMK2_INTERVAL", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a27e249733a4a590428dc06f94fa42acc", null ],
@@ -71,9 +76,6 @@ var boss__mimiron_8cpp =
       [ "EVENT_BOMB_BOT_RELOCATE", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a70c38695238f55ae31af01109dff2f24", null ],
       [ "EVENT_SUMMON_ASSAULT_BOT", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a87a3895ab96ce5e3ab8d99a578ef0159", null ],
       [ "EVENT_SUMMON_JUNK_BOT", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a0331f9823f775ce2167c3078eff7e190", null ],
-      [ "EVENT_MAGNETIC_CORE_PULL_DOWN", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a752ad1450bafaf650c0eb34cbfce03b8", null ],
-      [ "EVENT_MAGNETIC_CORE_FREE", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3ae02a327d57acca92786091ce7a551b60", null ],
-      [ "EVENT_MAGNETIC_CORE_REMOVE_IMMOBILIZE", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3aaa8eaa7909859492bd639fdf6403dc5d", null ],
       [ "EVENT_COMPUTER_SAY_INITIATED", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a34bc5a8fc39ff7105fad8e170b3ad83f", null ],
       [ "EVENT_COMPUTER_SAY_MINUTES", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a989260a0ab7101d82faba6db59b077e0", null ],
       [ "EVENT_MIMIRON_SAY_HARDMODE", "dc/d29/boss__mimiron_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3a6c155f0d9a3cbf613e7a7c30918ffda4", null ],
@@ -150,9 +152,11 @@ var boss__mimiron_8cpp =
       [ "SPELL_RAPID_BURST_DAMAGE_2", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a1ed45b60bc630b347fbea9143a85c449", null ],
       [ "SPELL_SUMMON_BURST_TARGET", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36ab30658575090f7dd7c5dc76917b1f48b", null ],
       [ "SPELL_SPINNING_UP", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36adc736b0d73dd062a61c4ac518eb8833b", null ],
-      [ "SPELL_PLASMA_BALL", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a5fd1ae9370c75f462fcc0b8cfc34ef06", null ],
+      [ "SPELL_PLASMA_BALL_P1", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a18b534cd2b176ebd8867e4825a7c0c7f", null ],
+      [ "SPELL_PLASMA_BALL_P2", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a0c693c93150256fa9b384d04b0fd13e0", null ],
       [ "SPELL_MAGNETIC_CORE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a91fa946a31de2e120c040553e40e9a34", null ],
-      [ "SPELL_SPINNING", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36af897726cb25def2d897ae48f89a5900b", null ],
+      [ "SPELL_MAGNETIC_CORE_VISUAL", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36aa0b6b943c6bfa56f166a0b14a13b9f6a", null ],
+      [ "SPELL_MAGNETIC_CORE_SUMMON", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36accfc6283f0f54b39a0e754c400b97ab6", null ],
       [ "SPELL_SUMMON_BOMB_BOT", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a60f8fdb744c47f472ef3fb4e36071621", null ],
       [ "SPELL_BB_EXPLODE", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a3ab2e003ab03db4ee23d354f0af82f4f", null ],
       [ "SPELL_BEAM_GREEN", "dc/d29/boss__mimiron_8cpp.html#a8aad05826c6de945fac0de45623cdf36a3d541c3e17d09307020683d882299a82", null ],
@@ -195,5 +199,6 @@ var boss__mimiron_8cpp =
       [ "TALK_COMPUTER_ONE", "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ace8fb4aca8c620daf9dddebb043d3556", null ],
       [ "TALK_COMPUTER_ZERO", "dc/d29/boss__mimiron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a29c5bf84120b3c70381c5f15053011e9", null ]
     ] ],
-    [ "AddSC_boss_mimiron", "dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5", null ]
+    [ "AddSC_boss_mimiron", "dc/d29/boss__mimiron_8cpp.html#a21a2b1b31e74937f267cf23830ec72d5", null ],
+    [ "ACUSummonPos", "dc/d29/boss__mimiron_8cpp.html#a3b6a6ffc8a00ed9fcecd8c9cea558135", null ]
 ];

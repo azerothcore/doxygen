@@ -1,7 +1,5 @@
 var NAVTREEINDEX382 =
 {
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acd9026edfbb6b693b350eed95b7146c4":[7,0,0,0,1,1,0,0,1,1,24],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acdfe5a9d0aa307fa2ebf5560aef06a1f":[7,0,0,0,1,1,0,0,1,1,358],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acecf274a531024a05b8983365b7347a1":[7,0,0,0,1,1,0,0,1,1,416],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acefc2d47a372047564d12ff7f0e80845":[7,0,0,0,1,1,0,0,1,1,153],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7acf32ff7992d507bb8c2cc30d94085439":[7,0,0,0,1,1,0,0,1,1,269],
@@ -171,13 +169,13 @@ var NAVTREEINDEX382 =
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0ab83b898058a1a7dfb48469256a193761":[7,0,0,0,1,3,2,4,7,4,6],
 "de/da6/boss__prince__malchezaar_8cpp.html#a6e089756759f99eebae6d3e5c1e939b0af33521ce9c53da3dbaafe94761ee78c9":[7,0,0,0,1,3,2,4,7,4,0],
 "de/da6/boss__prince__malchezaar_8cpp.html#af8e510276b48a9ecc3045a4a2d9d6fff":[7,0,0,0,1,3,2,4,7,9],
-"de/da6/classspell__item__with__mount__speed.html":[6,0,3486],
-"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3486,2],
-"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3486,4],
-"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3486,5],
-"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3486,3],
-"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3486,1],
-"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3486,0],
+"de/da6/classspell__item__with__mount__speed.html":[6,0,3484],
+"de/da6/classspell__item__with__mount__speed.html#a162d466a1dcd2cb710abf12c06f7c2de":[6,0,3484,2],
+"de/da6/classspell__item__with__mount__speed.html#a481e5295da3d789d9b3c1ed30fdaf0bd":[6,0,3484,4],
+"de/da6/classspell__item__with__mount__speed.html#a6868f6e88c9179efd921b266c83f6daf":[6,0,3484,5],
+"de/da6/classspell__item__with__mount__speed.html#a7070cc7aeec4a88fbde960cebf1aef56":[6,0,3484,3],
+"de/da6/classspell__item__with__mount__speed.html#aa8bee986d413be60d00ac1d2111ef719":[6,0,3484,1],
+"de/da6/classspell__item__with__mount__speed.html#afe306ed6057050baf342ee717723764d":[6,0,3484,0],
 "de/da6/zone__dragonblight_8cpp.html":[7,0,0,0,1,3,5,18],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2":[7,0,0,0,1,3,5,18,47],
 "de/da6/zone__dragonblight_8cpp.html#a09538057661ff2064952469292924ac2a5220fc25d0e046e45924ef4a9f6a3b7d":[7,0,0,0,1,3,5,18,47,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX382 =
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a98d94d62aa2f2f69a52a2b2582c6ffda":[7,0,0,0,1,3,5,18,46,40],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a99b8cd77cdd9cbfceda7ff4cbe0311dd":[7,0,0,0,1,3,5,18,46,1],
 "de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1a9e4602631a8a3c8b0e642942f386b567":[7,0,0,0,1,3,5,18,46,11],
-"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1aa69b0ede96a570bf91244df388f31248":[7,0,0,0,1,3,5,18,46,0]
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1aa69b0ede96a570bf91244df388f31248":[7,0,0,0,1,3,5,18,46,0],
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1aab3c64f272b5d470d9e38891befba1ef":[7,0,0,0,1,3,5,18,46,35],
+"de/da6/zone__dragonblight_8cpp.html#a5d012cb06d7a9ef3d827182db6326dc1ab083ff4d79bc6cd31d5a1935dee327d8":[7,0,0,0,1,3,5,18,46,62]
 };

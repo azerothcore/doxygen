@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97fae4056733c3ac81847baf38144c86e5ea":[7,0,0,0,1,3,5,2,1,1,50,6],
 "d4/d81/boss__faction__champions_8cpp.html#a27c9ac24b05652c2e866edcadfa4a97faff7b7175905076f5844de02e303cb12a":[7,0,0,0,1,3,5,2,1,1,50,4],
 "d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162":[7,0,0,0,1,3,5,2,1,1,59],
 "d4/d81/boss__faction__champions_8cpp.html#a2c5d3e1994d6a8cbc6c8c68aa8c2e162a2fbda2e8eaca516b13c34fc8162feaf3":[7,0,0,0,1,3,5,2,1,1,59,0],
@@ -241,13 +242,12 @@ var NAVTREEINDEX132 =
 "d4/d81/structTransportAnimationEntry.html#a859d25b3c11839ad7e37facd40dc79df":[6,0,4503,1],
 "d4/d81/structTransportAnimationEntry.html#a8fbd166503396e33a4ad77448bf307ea":[6,0,4503,2],
 "d4/d81/structTransportAnimationEntry.html#ab94639ba8e26b215ebd31163967574d3":[6,0,4503,0],
-"d4/d82/classspell__blight__worm__ingest.html":[6,0,2689],
-"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2689,1],
-"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2689,3],
-"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2689,2],
-"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2689,0],
+"d4/d82/classspell__blight__worm__ingest.html":[6,0,2687],
+"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2687,1],
+"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2687,3],
+"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2687,2],
+"d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2687,0],
 "d4/d82/structboss__ambassador__hellmaw.html":[6,0,384],
 "d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[6,0,384,2],
-"d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[6,0,384,3],
-"d4/d82/structboss__ambassador__hellmaw.html#a44dae5d6517e22dd2be399d08fa67a71":[6,0,384,12]
+"d4/d82/structboss__ambassador__hellmaw.html#a3cbd58fb11fe8d297907bb40d69e4ccb":[6,0,384,3]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX194 =
 {
-"d7/d46/classAuraEffect.html#a43b0158e5c699baf571fa2a064bf70c9":[6,0,289,70],
 "d7/d46/classAuraEffect.html#a43dd810a38d13af5ffee45dc4f7d5aac":[6,0,289,4],
 "d7/d46/classAuraEffect.html#a458f465c0150d16e555d1997d7b09fc2":[6,0,289,15],
 "d7/d46/classAuraEffect.html#a45af9668ac3271c2f5a924872d0f1614":[6,0,289,38],
@@ -227,11 +226,11 @@ var NAVTREEINDEX194 =
 "d7/d48/structboss__vexallus.html#aa9d37e8132c715552e2ce0102ac9a59b":[6,0,778,2],
 "d7/d49/SpellScriptLoader_8cpp.html":[7,0,0,0,1,2,38,0,80],
 "d7/d49/SpellScriptLoader_8cpp.html#aae80ff7a03e35c91f47550f388c3f3bb":[7,0,0,0,1,2,38,0,80,0],
-"d7/d49/classnpc__naxxramas__trigger.html":[6,0,1998],
-"d7/d49/classnpc__naxxramas__trigger.html#a1ab25fd0b40f373d30b0f60462dd276b":[6,0,1998,3],
-"d7/d49/classnpc__naxxramas__trigger.html#a5bf85ab6027ca5101df32cda6df29b28":[6,0,1998,1],
-"d7/d49/classnpc__naxxramas__trigger.html#a62fd64468daf378fbe2e8f18b1f002f8":[6,0,1998,0],
-"d7/d49/classnpc__naxxramas__trigger.html#acd051dd7790aa37cd2375479433509cb":[6,0,1998,2],
+"d7/d49/classnpc__naxxramas__trigger.html":[6,0,1997],
+"d7/d49/classnpc__naxxramas__trigger.html#a1ab25fd0b40f373d30b0f60462dd276b":[6,0,1997,3],
+"d7/d49/classnpc__naxxramas__trigger.html#a5bf85ab6027ca5101df32cda6df29b28":[6,0,1997,1],
+"d7/d49/classnpc__naxxramas__trigger.html#a62fd64468daf378fbe2e8f18b1f002f8":[6,0,1997,0],
+"d7/d49/classnpc__naxxramas__trigger.html#acd051dd7790aa37cd2375479433509cb":[6,0,1997,2],
 "d7/d4a/drak__tharon__keep_8h.html":[7,0,0,0,1,3,5,3,4],
 "d7/d4a/drak__tharon__keep_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,5,3,4,0],
 "d7/d4a/drak__tharon__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,5,3,4,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX194 =
 "d7/d4a/drak__tharon__keep_8h.html#ad8dbb1aadd0c7628ef50254f698de59f":[7,0,0,0,1,3,5,3,4,4],
 "d7/d4a/drak__tharon__keep_8h.html#ad8dbb1aadd0c7628ef50254f698de59fa2c53f7b0c779106e718e6ce5dc8668d9":[7,0,0,0,1,3,5,3,4,4,0],
 "d7/d4a/drak__tharon__keep_8h.html#ad8dbb1aadd0c7628ef50254f698de59faad6eec227e43561356f0cf739c7a1a07":[7,0,0,0,1,3,5,3,4,4,1],
-"d7/d4a/drak__tharon__keep_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,5,3,4,3]
+"d7/d4a/drak__tharon__keep_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,5,3,4,3],
+"d7/d4a/drak__tharon__keep_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a69368db5115aeaff78242fee1538ccc1":[7,0,0,0,1,3,5,3,4,3,3]
 };

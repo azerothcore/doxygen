@@ -280,11 +280,14 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
-<div class="line"><span class="lineno">   41</span>    <span class="keyword">delete</span>[] <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944">CompressedData</a>;</div>
-<div class="line"><span class="lineno">   42</span>    <span class="keyword">delete</span> <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>;</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   45</span>}</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>)</div>
+<div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <span class="keyword">delete</span>[] <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944">CompressedData</a>;</div>
+<div class="line"><span class="lineno">   44</span>        <span class="keyword">delete</span> <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>;</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   46</span>    }</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   48</span>}</div>
 <div class="ttc" id="astructClientWardenModule_html_a22e1d740e6c3094fea83eb1a44e40944"><div class="ttname"><a href="../../d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944">ClientWardenModule::CompressedData</a></div><div class="ttdeci">uint8 * CompressedData</div><div class="ttdef"><b>Definition</b> Warden.h:97</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00149">_initialized</a>, <a class="el" href="../../#l00148">_module</a>, and <a class="el" href="../../#l00097">ClientWardenModule::CompressedData</a>.</p>
@@ -317,84 +320,84 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
-<div class="line"><span class="lineno">  198</span>    <a class="code hl_struct" href="../../db/d29/structWardenCheck.html">WardenCheck</a> <span class="keyword">const</span>* checkData = <a class="code hl_define" href="../../db/d90/WardenCheckMgr_8h.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>-&gt;GetWardenDataById(checkId);</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action = <a class="code hl_enumeration" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aec3a59266bdaf51d0f9c604741b8d0b7">CONFIG_WARDEN_CLIENT_FAIL_ACTION</a>));</div>
-<div class="line"><span class="lineno">  201</span>    std::string causeMsg;</div>
-<div class="line"><span class="lineno">  202</span>    <span class="keywordflow">if</span> (checkId &amp;&amp; checkData)</div>
-<div class="line"><span class="lineno">  203</span>    {</div>
-<div class="line"><span class="lineno">  204</span>        action = checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25">Action</a>;</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>        <span class="keywordflow">if</span> (checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a>.empty())</div>
-<div class="line"><span class="lineno">  207</span>        {</div>
-<div class="line"><span class="lineno">  208</span>            causeMsg = <span class="stringliteral">&quot;Warden id &quot;</span> + std::to_string(checkId) + <span class="stringliteral">&quot; violation&quot;</span>;</div>
-<div class="line"><span class="lineno">  209</span>        }</div>
-<div class="line"><span class="lineno">  210</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  211</span>        {</div>
-<div class="line"><span class="lineno">  212</span>            causeMsg = <span class="stringliteral">&quot;Warden: &quot;</span> + checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a>;</div>
-<div class="line"><span class="lineno">  213</span>        }</div>
-<div class="line"><span class="lineno">  214</span>    }</div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  216</span>    {</div>
-<div class="line"><span class="lineno">  217</span>        <span class="comment">// if its not warden check id based, reason must be always provided</span></div>
-<div class="line"><span class="lineno">  218</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!reason.empty());</div>
-<div class="line"><span class="lineno">  219</span>        causeMsg = reason;</div>
-<div class="line"><span class="lineno">  220</span>    }</div>
-<div class="line"><span class="lineno">  221</span> </div>
-<div class="line"><span class="lineno">  222</span>    <span class="keywordflow">switch</span> (action)</div>
-<div class="line"><span class="lineno">  223</span>    {</div>
-<div class="line"><span class="lineno">  224</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>:</div>
-<div class="line"><span class="lineno">  225</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  226</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>:</div>
-<div class="line"><span class="lineno">  227</span>        {</div>
-<div class="line"><span class="lineno">  228</span>            <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(causeMsg.find(<span class="stringliteral">&quot;Warden&quot;</span>) != std::string::npos ? causeMsg : <span class="stringliteral">&quot;Warden: &quot;</span> + causeMsg);</div>
-<div class="line"><span class="lineno">  229</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  230</span>        }</div>
-<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>:</div>
-<div class="line"><span class="lineno">  232</span>        {</div>
-<div class="line"><span class="lineno">  233</span>            std::stringstream duration;</div>
-<div class="line"><span class="lineno">  234</span>            duration &lt;&lt; <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4">CONFIG_WARDEN_CLIENT_BAN_DURATION</a>) &lt;&lt; <span class="stringliteral">&quot;s&quot;</span>;</div>
-<div class="line"><span class="lineno">  235</span>            std::string accountName;</div>
-<div class="line"><span class="lineno">  236</span>            <a class="code hl_function" href="../../db/d92/namespaceAccountMgr.html#af911e3860ec519c541d6df35468ee41b">AccountMgr::GetName</a>(<a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), accountName);</div>
-<div class="line"><span class="lineno">  237</span>            <a class="code hl_define" href="../../d2/d76/BanMgr_8h.html#a7d5e9b6aab3c8157bcf25fa0f070bb17">sBan</a>-&gt;BanAccount(accountName, duration.str(), causeMsg, <span class="stringliteral">&quot;Server&quot;</span>);</div>
-<div class="line"><span class="lineno">  238</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  239</span>        }</div>
-<div class="line"><span class="lineno">  240</span>    }</div>
-<div class="line"><span class="lineno">  241</span> </div>
-<div class="line"><span class="lineno">  242</span>    std::string reportMsg;</div>
-<div class="line"><span class="lineno">  243</span>    <span class="keywordflow">if</span> (checkId)</div>
-<div class="line"><span class="lineno">  244</span>    {</div>
-<div class="line"><span class="lineno">  245</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a> <span class="keyword">const</span>* plr = <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>())</div>
-<div class="line"><span class="lineno">  246</span>        {</div>
-<div class="line"><span class="lineno">  247</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Player {} (guid {}, account id: {}) failed warden {} check ({}). Action: {}&quot;</span>;</div>
-<div class="line"><span class="lineno">  248</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, plr-&gt;GetName(), plr-&gt;GetGUID().GetCounter(), <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(),</div>
-<div class="line"><span class="lineno">  249</span>                                           checkId, ((checkData &amp;&amp; !checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a>.empty()) ? checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a> : <span class="stringliteral">&quot;&lt;warden comment is not set&gt;&quot;</span>),</div>
-<div class="line"><span class="lineno">  250</span>                                           <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
-<div class="line"><span class="lineno">  251</span>        }</div>
-<div class="line"><span class="lineno">  252</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  253</span>        {</div>
-<div class="line"><span class="lineno">  254</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Account id: {} failed warden {} check. Action: {}&quot;</span>;</div>
-<div class="line"><span class="lineno">  255</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), checkId, <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
-<div class="line"><span class="lineno">  256</span>        }</div>
-<div class="line"><span class="lineno">  257</span>    }</div>
-<div class="line"><span class="lineno">  258</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  259</span>    {</div>
-<div class="line"><span class="lineno">  260</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a> <span class="keyword">const</span>* plr = <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>())</div>
-<div class="line"><span class="lineno">  261</span>        {</div>
-<div class="line"><span class="lineno">  262</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Player {} (guid {}, account id: {}) triggered warden penalty by reason: {}. Action: {}&quot;</span>;</div>
-<div class="line"><span class="lineno">  263</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, plr-&gt;GetName(), plr-&gt;GetGUID().GetCounter(), <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), causeMsg, <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
-<div class="line"><span class="lineno">  264</span>        }</div>
-<div class="line"><span class="lineno">  265</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  266</span>        {</div>
-<div class="line"><span class="lineno">  267</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Account id: {} failed warden {} check. Action: {}&quot;</span>;</div>
-<div class="line"><span class="lineno">  268</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), causeMsg, <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
-<div class="line"><span class="lineno">  269</span>        }</div>
-<div class="line"><span class="lineno">  270</span>    }</div>
-<div class="line"><span class="lineno">  271</span> </div>
-<div class="line"><span class="lineno">  272</span>    reportMsg = <span class="stringliteral">&quot;Warden: &quot;</span> + reportMsg;</div>
-<div class="line"><span class="lineno">  273</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;&gt; Warden: {}&quot;</span>, reportMsg);</div>
-<div class="line"><span class="lineno">  274</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_struct" href="../../db/d29/structWardenCheck.html">WardenCheck</a> <span class="keyword">const</span>* checkData = <a class="code hl_define" href="../../db/d90/WardenCheckMgr_8h.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>-&gt;GetWardenDataById(checkId);</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action = <a class="code hl_enumeration" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1">WardenActions</a>(<a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aec3a59266bdaf51d0f9c604741b8d0b7">CONFIG_WARDEN_CLIENT_FAIL_ACTION</a>));</div>
+<div class="line"><span class="lineno">  204</span>    std::string causeMsg;</div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordflow">if</span> (checkId &amp;&amp; checkData)</div>
+<div class="line"><span class="lineno">  206</span>    {</div>
+<div class="line"><span class="lineno">  207</span>        action = checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25">Action</a>;</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>        <span class="keywordflow">if</span> (checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a>.empty())</div>
+<div class="line"><span class="lineno">  210</span>        {</div>
+<div class="line"><span class="lineno">  211</span>            causeMsg = <span class="stringliteral">&quot;Warden id &quot;</span> + std::to_string(checkId) + <span class="stringliteral">&quot; violation&quot;</span>;</div>
+<div class="line"><span class="lineno">  212</span>        }</div>
+<div class="line"><span class="lineno">  213</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  214</span>        {</div>
+<div class="line"><span class="lineno">  215</span>            causeMsg = <span class="stringliteral">&quot;Warden: &quot;</span> + checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a>;</div>
+<div class="line"><span class="lineno">  216</span>        }</div>
+<div class="line"><span class="lineno">  217</span>    }</div>
+<div class="line"><span class="lineno">  218</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  219</span>    {</div>
+<div class="line"><span class="lineno">  220</span>        <span class="comment">// if its not warden check id based, reason must be always provided</span></div>
+<div class="line"><span class="lineno">  221</span>        <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!reason.empty());</div>
+<div class="line"><span class="lineno">  222</span>        causeMsg = reason;</div>
+<div class="line"><span class="lineno">  223</span>    }</div>
+<div class="line"><span class="lineno">  224</span> </div>
+<div class="line"><span class="lineno">  225</span>    <span class="keywordflow">switch</span> (action)</div>
+<div class="line"><span class="lineno">  226</span>    {</div>
+<div class="line"><span class="lineno">  227</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a>:</div>
+<div class="line"><span class="lineno">  228</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  229</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a>:</div>
+<div class="line"><span class="lineno">  230</span>        {</div>
+<div class="line"><span class="lineno">  231</span>            <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(causeMsg.find(<span class="stringliteral">&quot;Warden&quot;</span>) != std::string::npos ? causeMsg : <span class="stringliteral">&quot;Warden: &quot;</span> + causeMsg);</div>
+<div class="line"><span class="lineno">  232</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  233</span>        }</div>
+<div class="line"><span class="lineno">  234</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a>:</div>
+<div class="line"><span class="lineno">  235</span>        {</div>
+<div class="line"><span class="lineno">  236</span>            std::stringstream duration;</div>
+<div class="line"><span class="lineno">  237</span>            duration &lt;&lt; <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4">CONFIG_WARDEN_CLIENT_BAN_DURATION</a>) &lt;&lt; <span class="stringliteral">&quot;s&quot;</span>;</div>
+<div class="line"><span class="lineno">  238</span>            std::string accountName;</div>
+<div class="line"><span class="lineno">  239</span>            <a class="code hl_function" href="../../db/d92/namespaceAccountMgr.html#af911e3860ec519c541d6df35468ee41b">AccountMgr::GetName</a>(<a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), accountName);</div>
+<div class="line"><span class="lineno">  240</span>            <a class="code hl_define" href="../../d2/d76/BanMgr_8h.html#a7d5e9b6aab3c8157bcf25fa0f070bb17">sBan</a>-&gt;BanAccount(accountName, duration.str(), causeMsg, <span class="stringliteral">&quot;Server&quot;</span>);</div>
+<div class="line"><span class="lineno">  241</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  242</span>        }</div>
+<div class="line"><span class="lineno">  243</span>    }</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>    std::string reportMsg;</div>
+<div class="line"><span class="lineno">  246</span>    <span class="keywordflow">if</span> (checkId)</div>
+<div class="line"><span class="lineno">  247</span>    {</div>
+<div class="line"><span class="lineno">  248</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a> <span class="keyword">const</span>* plr = <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>())</div>
+<div class="line"><span class="lineno">  249</span>        {</div>
+<div class="line"><span class="lineno">  250</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Player {} (guid {}, account id: {}) failed warden {} check ({}). Action: {}&quot;</span>;</div>
+<div class="line"><span class="lineno">  251</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, plr-&gt;GetName(), plr-&gt;GetGUID().GetCounter(), <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(),</div>
+<div class="line"><span class="lineno">  252</span>                                           checkId, ((checkData &amp;&amp; !checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a>.empty()) ? checkData-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">Comment</a> : <span class="stringliteral">&quot;&lt;warden comment is not set&gt;&quot;</span>),</div>
+<div class="line"><span class="lineno">  253</span>                                           <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
+<div class="line"><span class="lineno">  254</span>        }</div>
+<div class="line"><span class="lineno">  255</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  256</span>        {</div>
+<div class="line"><span class="lineno">  257</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Account id: {} failed warden {} check. Action: {}&quot;</span>;</div>
+<div class="line"><span class="lineno">  258</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), checkId, <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
+<div class="line"><span class="lineno">  259</span>        }</div>
+<div class="line"><span class="lineno">  260</span>    }</div>
+<div class="line"><span class="lineno">  261</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  262</span>    {</div>
+<div class="line"><span class="lineno">  263</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a> <span class="keyword">const</span>* plr = <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>())</div>
+<div class="line"><span class="lineno">  264</span>        {</div>
+<div class="line"><span class="lineno">  265</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Player {} (guid {}, account id: {}) triggered warden penalty by reason: {}. Action: {}&quot;</span>;</div>
+<div class="line"><span class="lineno">  266</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, plr-&gt;GetName(), plr-&gt;GetGUID().GetCounter(), <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), causeMsg, <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
+<div class="line"><span class="lineno">  267</span>        }</div>
+<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  269</span>        {</div>
+<div class="line"><span class="lineno">  270</span>            std::string <span class="keyword">const</span> reportFormat = <span class="stringliteral">&quot;Account id: {} failed warden {} check. Action: {}&quot;</span>;</div>
+<div class="line"><span class="lineno">  271</span>            reportMsg = <a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(reportFormat, <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), causeMsg, <a class="code hl_function" href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a>(action));</div>
+<div class="line"><span class="lineno">  272</span>        }</div>
+<div class="line"><span class="lineno">  273</span>    }</div>
+<div class="line"><span class="lineno">  274</span> </div>
+<div class="line"><span class="lineno">  275</span>    reportMsg = <span class="stringliteral">&quot;Warden: &quot;</span> + reportMsg;</div>
+<div class="line"><span class="lineno">  276</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;&gt; Warden: {}&quot;</span>, reportMsg);</div>
+<div class="line"><span class="lineno">  277</span>}</div>
 <div class="ttc" id="aBanMgr_8h_html_a7d5e9b6aab3c8157bcf25fa0f070bb17"><div class="ttname"><a href="../../d2/d76/BanMgr_8h.html#a7d5e9b6aab3c8157bcf25fa0f070bb17">sBan</a></div><div class="ttdeci">#define sBan</div><div class="ttdef"><b>Definition</b> BanMgr.h:48</div></div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
@@ -404,9 +407,9 @@ Friends</h2></td></tr>
 <div class="ttc" id="aWardenCheckMgr_8h_html_acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13"><div class="ttname"><a href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13">WARDEN_ACTION_KICK</a></div><div class="ttdeci">@ WARDEN_ACTION_KICK</div><div class="ttdef"><b>Definition</b> WardenCheckMgr.h:28</div></div>
 <div class="ttc" id="aWardenCheckMgr_8h_html_acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0"><div class="ttname"><a href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0">WARDEN_ACTION_BAN</a></div><div class="ttdeci">@ WARDEN_ACTION_BAN</div><div class="ttdef"><b>Definition</b> WardenCheckMgr.h:29</div></div>
 <div class="ttc" id="aWardenCheckMgr_8h_html_acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81"><div class="ttname"><a href="../../db/d90/WardenCheckMgr_8h.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81">WARDEN_ACTION_LOG</a></div><div class="ttdeci">@ WARDEN_ACTION_LOG</div><div class="ttdef"><b>Definition</b> WardenCheckMgr.h:27</div></div>
-<div class="ttc" id="aWarden_8cpp_html_a4e3c0063e5bf94a2e640c7b887fe14fc"><div class="ttname"><a href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a></div><div class="ttdeci">static std::string GetWardenActionStr(uint32 action)</div><div class="ttdef"><b>Definition</b> Warden.cpp:181</div></div>
-<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4">CONFIG_WARDEN_CLIENT_BAN_DURATION</a></div><div class="ttdeci">@ CONFIG_WARDEN_CLIENT_BAN_DURATION</div><div class="ttdef"><b>Definition</b> WorldConfig.h:337</div></div>
-<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0aec3a59266bdaf51d0f9c604741b8d0b7"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aec3a59266bdaf51d0f9c604741b8d0b7">CONFIG_WARDEN_CLIENT_FAIL_ACTION</a></div><div class="ttdeci">@ CONFIG_WARDEN_CLIENT_FAIL_ACTION</div><div class="ttdef"><b>Definition</b> WorldConfig.h:336</div></div>
+<div class="ttc" id="aWarden_8cpp_html_a4e3c0063e5bf94a2e640c7b887fe14fc"><div class="ttname"><a href="../../d8/de3/Warden_8cpp.html#a4e3c0063e5bf94a2e640c7b887fe14fc">GetWardenActionStr</a></div><div class="ttdeci">static std::string GetWardenActionStr(uint32 action)</div><div class="ttdef"><b>Definition</b> Warden.cpp:184</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a3d232fd7b2a56c54e41f3d8bf2f8b4">CONFIG_WARDEN_CLIENT_BAN_DURATION</a></div><div class="ttdeci">@ CONFIG_WARDEN_CLIENT_BAN_DURATION</div><div class="ttdef"><b>Definition</b> WorldConfig.h:335</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0aec3a59266bdaf51d0f9c604741b8d0b7"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aec3a59266bdaf51d0f9c604741b8d0b7">CONFIG_WARDEN_CLIENT_FAIL_ACTION</a></div><div class="ttdeci">@ CONFIG_WARDEN_CLIENT_FAIL_ACTION</div><div class="ttdef"><b>Definition</b> WorldConfig.h:334</div></div>
 <div class="ttc" id="aclassPlayer_html"><div class="ttname"><a href="../../d2/d4b/classPlayer.html">Player</a></div><div class="ttdef"><b>Definition</b> Player.h:1084</div></div>
 <div class="ttc" id="aclassWorldSession_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:444</div></div>
 <div class="ttc" id="aclassWorldSession_html_a9fa5510daf576fe281d1961430902dd9"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a9fa5510daf576fe281d1961430902dd9">WorldSession::GetAccountId</a></div><div class="ttdeci">uint32 GetAccountId() const</div><div class="ttdef"><b>Definition</b> WorldSession.h:443</div></div>
@@ -418,9 +421,9 @@ Friends</h2></td></tr>
 <div class="ttc" id="astructWardenCheck_html_a0aba96ac9e7af155a1d9bdf120afae25"><div class="ttname"><a href="../../db/d29/structWardenCheck.html#a0aba96ac9e7af155a1d9bdf120afae25">WardenCheck::Action</a></div><div class="ttdeci">uint32 Action</div><div class="ttdef"><b>Definition</b> WardenCheckMgr.h:53</div></div>
 <div class="ttc" id="astructWardenCheck_html_a6abdb409f49751b2f6aa8df88c349ba2"><div class="ttname"><a href="../../db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2">WardenCheck::Comment</a></div><div class="ttdeci">std::string Comment</div><div class="ttdef"><b>Definition</b> WardenCheckMgr.h:50</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00053">WardenCheck::Action</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00050">WardenCheck::Comment</a>, <a class="el" href="../../#l00337">CONFIG_WARDEN_CLIENT_BAN_DURATION</a>, <a class="el" href="../../#l00336">CONFIG_WARDEN_CLIENT_FAIL_ACTION</a>, <a class="el" href="../../#l00443">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00264">AccountMgr::GetName()</a>, <a class="el" href="../../#l00444">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00181">GetWardenActionStr()</a>, <a class="el" href="../../#l00482">WorldSession::KickPlayer()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00048">sBan</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00089">sWardenCheckMgr</a>, <a class="el" href="../../#l00316">sWorld</a>, <a class="el" href="../../#l00029">WARDEN_ACTION_BAN</a>, <a class="el" href="../../#l00028">WARDEN_ACTION_KICK</a>, and <a class="el" href="../../#l00027">WARDEN_ACTION_LOG</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00053">WardenCheck::Action</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00050">WardenCheck::Comment</a>, <a class="el" href="../../#l00335">CONFIG_WARDEN_CLIENT_BAN_DURATION</a>, <a class="el" href="../../#l00334">CONFIG_WARDEN_CLIENT_FAIL_ACTION</a>, <a class="el" href="../../#l00443">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00264">AccountMgr::GetName()</a>, <a class="el" href="../../#l00444">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00184">GetWardenActionStr()</a>, <a class="el" href="../../#l00482">WorldSession::KickPlayer()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00048">sBan</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00089">sWardenCheckMgr</a>, <a class="el" href="../../#l00316">sWorld</a>, <a class="el" href="../../#l00029">WARDEN_ACTION_BAN</a>, <a class="el" href="../../#l00028">WARDEN_ACTION_KICK</a>, and <a class="el" href="../../#l00027">WARDEN_ACTION_LOG</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00122">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, and <a class="el" href="../../#l00276">ProcessLuaCheckResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, and <a class="el" href="../../#l00279">ProcessLuaCheckResponse()</a>.</p>
 
 </div>
 </div>
@@ -457,26 +460,26 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    <a class="code hl_struct" href="../../de/d0a/unionkeyData.html">keyData</a> hash{};</div>
-<div class="line"><span class="lineno">  170</span>    hash.<a class="code hl_variable" href="../../de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319">bytes</a> = <a class="code hl_function" href="../../d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Crypto::SHA1::GetDigestOf</a>(data, std::size_t(length));</div>
-<div class="line"><span class="lineno">  171</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> checkSum = 0;</div>
-<div class="line"><span class="lineno">  172</span> </div>
-<div class="line"><span class="lineno">  173</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 5; ++i)</div>
-<div class="line"><span class="lineno">  174</span>    {</div>
-<div class="line"><span class="lineno">  175</span>        checkSum = checkSum ^ hash.ints[i];</div>
-<div class="line"><span class="lineno">  176</span>    }</div>
-<div class="line"><span class="lineno">  177</span> </div>
-<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">return</span> checkSum;</div>
-<div class="line"><span class="lineno">  179</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  171</span>{</div>
+<div class="line"><span class="lineno">  172</span>    <a class="code hl_struct" href="../../de/d0a/unionkeyData.html">keyData</a> hash{};</div>
+<div class="line"><span class="lineno">  173</span>    hash.<a class="code hl_variable" href="../../de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319">bytes</a> = <a class="code hl_function" href="../../d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Crypto::SHA1::GetDigestOf</a>(data, std::size_t(length));</div>
+<div class="line"><span class="lineno">  174</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> checkSum = 0;</div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 5; ++i)</div>
+<div class="line"><span class="lineno">  177</span>    {</div>
+<div class="line"><span class="lineno">  178</span>        checkSum = checkSum ^ hash.ints[i];</div>
+<div class="line"><span class="lineno">  179</span>    }</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    <span class="keywordflow">return</span> checkSum;</div>
+<div class="line"><span class="lineno">  182</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aclassAcore_1_1Impl_1_1GenericHash_html_a42db9cd1a68778340bfdb7c7a8a049de"><div class="ttname"><a href="../../d9/d36/classAcore_1_1Impl_1_1GenericHash.html#a42db9cd1a68778340bfdb7c7a8a049de">Acore::Impl::GenericHash::GetDigestOf</a></div><div class="ttdeci">static Digest GetDigestOf(uint8 const *data, std::size_t len)</div><div class="ttdef"><b>Definition</b> CryptoHash.h:48</div></div>
-<div class="ttc" id="aunionkeyData_html"><div class="ttname"><a href="../../de/d0a/unionkeyData.html">keyData</a></div><div class="ttdef"><b>Definition</b> Warden.cpp:162</div></div>
-<div class="ttc" id="aunionkeyData_html_a3a2997d203c186bc3cd54a9ba4235319"><div class="ttname"><a href="../../de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319">keyData::bytes</a></div><div class="ttdeci">std::array&lt; uint8, 20 &gt; bytes</div><div class="ttdef"><b>Definition</b> Warden.cpp:163</div></div>
+<div class="ttc" id="aunionkeyData_html"><div class="ttname"><a href="../../de/d0a/unionkeyData.html">keyData</a></div><div class="ttdef"><b>Definition</b> Warden.cpp:165</div></div>
+<div class="ttc" id="aunionkeyData_html_a3a2997d203c186bc3cd54a9ba4235319"><div class="ttname"><a href="../../de/d0a/unionkeyData.html#a3a2997d203c186bc3cd54a9ba4235319">keyData::bytes</a></div><div class="ttdeci">std::array&lt; uint8, 20 &gt; bytes</div><div class="ttdef"><b>Definition</b> Warden.cpp:166</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00163">keyData::bytes</a>, and <a class="el" href="../../#l00048">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::GetDigestOf()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00166">keyData::bytes</a>, and <a class="el" href="../../#l00048">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;::GetDigestOf()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, and <a class="el" href="../../#l00140">IsValidCheckSum()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, and <a class="el" href="../../#l00143">IsValidCheckSum()</a>.</p>
 
 </div>
 </div>
@@ -505,9 +508,9 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
-<div class="line"><span class="lineno">  132</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#a2290a6e3a863b9a49941e7ecad9e2db7">_inputCrypto</a>.<a class="code hl_function" href="../../da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c">UpdateData</a>(buffer, length);</div>
-<div class="line"><span class="lineno">  133</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#a2290a6e3a863b9a49941e7ecad9e2db7">_inputCrypto</a>.<a class="code hl_function" href="../../da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c">UpdateData</a>(buffer, length);</div>
+<div class="line"><span class="lineno">  136</span>}</div>
 <div class="ttc" id="aclassAcore_1_1Crypto_1_1ARC4_html_a4023480221891e0d1ccd7a92aabd173c"><div class="ttname"><a href="../../da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c">Acore::Crypto::ARC4::UpdateData</a></div><div class="ttdeci">void UpdateData(uint8 *data, std::size_t len)</div><div class="ttdef"><b>Definition</b> ARC4.cpp:44</div></div>
 <div class="ttc" id="aclassWarden_html_a2290a6e3a863b9a49941e7ecad9e2db7"><div class="ttname"><a href="../../db/d5c/classWarden.html#a2290a6e3a863b9a49941e7ecad9e2db7">Warden::_inputCrypto</a></div><div class="ttdeci">Acore::Crypto::ARC4 _inputCrypto</div><div class="ttdef"><b>Definition</b> Warden.h:143</div></div>
 </div><!-- fragment -->
@@ -540,14 +543,14 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  136</span>{</div>
-<div class="line"><span class="lineno">  137</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#a4e23f5a6d7fdeefed9c2511831ce0928">_outputCrypto</a>.<a class="code hl_function" href="../../da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c">UpdateData</a>(buffer, length);</div>
-<div class="line"><span class="lineno">  138</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  139</span>{</div>
+<div class="line"><span class="lineno">  140</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#a4e23f5a6d7fdeefed9c2511831ce0928">_outputCrypto</a>.<a class="code hl_function" href="../../da/d88/classAcore_1_1Crypto_1_1ARC4.html#a4023480221891e0d1ccd7a92aabd173c">UpdateData</a>(buffer, length);</div>
+<div class="line"><span class="lineno">  141</span>}</div>
 <div class="ttc" id="aclassWarden_html_a4e23f5a6d7fdeefed9c2511831ce0928"><div class="ttname"><a href="../../db/d5c/classWarden.html#a4e23f5a6d7fdeefed9c2511831ce0928">Warden::_outputCrypto</a></div><div class="ttdeci">Acore::Crypto::ARC4 _outputCrypto</div><div class="ttdef"><b>Definition</b> Warden.h:144</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00144">_outputCrypto</a>, and <a class="el" href="../../#l00044">Acore::Crypto::ARC4::UpdateData()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00182">WardenMac::RequestChecks()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, <a class="el" href="../../#l00089">WardenMac::RequestHash()</a>, <a class="el" href="../../#l00213">WardenWin::RequestHash()</a>, <a class="el" href="../../#l00073">RequestModule()</a>, and <a class="el" href="../../#l00047">SendModuleToClient()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00185">WardenMac::RequestChecks()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, <a class="el" href="../../#l00092">WardenMac::RequestHash()</a>, <a class="el" href="../../#l00213">WardenWin::RequestHash()</a>, <a class="el" href="../../#l00076">RequestModule()</a>, and <a class="el" href="../../#l00050">SendModuleToClient()</a>.</p>
 
 </div>
 </div>
@@ -619,9 +622,9 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  313</span>{</div>
-<div class="line"><span class="lineno">  314</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../db/d5c/classWarden.html#a6331604c865f2719c9d6e3960ce5c112">_payloadMgr</a>;</div>
-<div class="line"><span class="lineno">  315</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  316</span>{</div>
+<div class="line"><span class="lineno">  317</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../db/d5c/classWarden.html#a6331604c865f2719c9d6e3960ce5c112">_payloadMgr</a>;</div>
+<div class="line"><span class="lineno">  318</span>}</div>
 <div class="ttc" id="aclassWarden_html_a6331604c865f2719c9d6e3960ce5c112"><div class="ttname"><a href="../../db/d5c/classWarden.html#a6331604c865f2719c9d6e3960ce5c112">Warden::_payloadMgr</a></div><div class="ttdeci">WardenPayloadMgr _payloadMgr</div><div class="ttdef"><b>Definition</b> Warden.h:139</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00139">_payloadMgr</a>.</p>
@@ -798,9 +801,9 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  157</span>{</div>
-<div class="line"><span class="lineno">  158</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a>;</div>
-<div class="line"><span class="lineno">  159</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
+<div class="line"><span class="lineno">  161</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a>;</div>
+<div class="line"><span class="lineno">  162</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00149">_initialized</a>.</p>
 
@@ -845,24 +848,24 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  141</span>{</div>
-<div class="line"><span class="lineno">  142</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> newChecksum = <a class="code hl_function" href="../../db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e">BuildChecksum</a>(data, length);</div>
-<div class="line"><span class="lineno">  143</span> </div>
-<div class="line"><span class="lineno">  144</span>    <span class="keywordflow">if</span> (checksum != newChecksum)</div>
-<div class="line"><span class="lineno">  145</span>    {</div>
-<div class="line"><span class="lineno">  146</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;CHECKSUM IS NOT VALID&quot;</span>);</div>
-<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  148</span>    }</div>
-<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  150</span>    {</div>
-<div class="line"><span class="lineno">  151</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;CHECKSUM IS VALID&quot;</span>);</div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  153</span>    }</div>
-<div class="line"><span class="lineno">  154</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> newChecksum = <a class="code hl_function" href="../../db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e">BuildChecksum</a>(data, length);</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">if</span> (checksum != newChecksum)</div>
+<div class="line"><span class="lineno">  148</span>    {</div>
+<div class="line"><span class="lineno">  149</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;CHECKSUM IS NOT VALID&quot;</span>);</div>
+<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  151</span>    }</div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  153</span>    {</div>
+<div class="line"><span class="lineno">  154</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;CHECKSUM IS VALID&quot;</span>);</div>
+<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  156</span>    }</div>
+<div class="line"><span class="lineno">  157</span>}</div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:170</div></div>
-<div class="ttc" id="aclassWarden_html_ae6327ec057f90a964e8c48eff3de994e"><div class="ttname"><a href="../../db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e">Warden::BuildChecksum</a></div><div class="ttdeci">static uint32 BuildChecksum(uint8 const *data, uint32 length)</div><div class="ttdef"><b>Definition</b> Warden.cpp:167</div></div>
+<div class="ttc" id="aclassWarden_html_ae6327ec057f90a964e8c48eff3de994e"><div class="ttname"><a href="../../db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e">Warden::BuildChecksum</a></div><div class="ttdeci">static uint32 BuildChecksum(uint8 const *data, uint32 length)</div><div class="ttdef"><b>Definition</b> Warden.cpp:170</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00167">BuildChecksum()</a>, and <a class="el" href="../../#l00170">LOG_DEBUG</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00170">BuildChecksum()</a>, and <a class="el" href="../../#l00170">LOG_DEBUG</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00563">WardenWin::HandleData()</a>.</p>
 
@@ -883,46 +886,46 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  277</span>{</div>
-<div class="line"><span class="lineno">  278</span>    <span class="keyword">static</span> <span class="keyword">constexpr</span> <span class="keywordtype">char</span> WARDEN_TOKEN[] = <span class="stringliteral">&quot;_TW\t&quot;</span>;</div>
-<div class="line"><span class="lineno">  279</span>    <span class="comment">// if msg starts with WARDEN_TOKEN</span></div>
-<div class="line"><span class="lineno">  280</span>    <span class="keywordflow">if</span> (msg.rfind(WARDEN_TOKEN, 0) != 0)</div>
-<div class="line"><span class="lineno">  281</span>    {</div>
-<div class="line"><span class="lineno">  282</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  283</span>    }</div>
-<div class="line"><span class="lineno">  284</span> </div>
-<div class="line"><span class="lineno">  285</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> <span class="keywordtype">id</span> = 0;</div>
-<div class="line"><span class="lineno">  286</span> </div>
-<div class="line"><span class="lineno">  287</span>    {</div>
-<div class="line"><span class="lineno">  288</span>        std::stringstream msg2(msg);</div>
-<div class="line"><span class="lineno">  289</span>        std::string temp;</div>
-<div class="line"><span class="lineno">  290</span>        <span class="keywordflow">while</span> (msg2 &gt;&gt; temp)</div>
-<div class="line"><span class="lineno">  291</span>        {</div>
-<div class="line"><span class="lineno">  292</span>            <span class="comment">// Found check id - stop loop</span></div>
-<div class="line"><span class="lineno">  293</span>            <span class="keywordflow">if</span> (std::stringstream(temp) &gt;&gt; <span class="keywordtype">id</span>)</div>
-<div class="line"><span class="lineno">  294</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  295</span>        }</div>
-<div class="line"><span class="lineno">  296</span>    }</div>
-<div class="line"><span class="lineno">  297</span> </div>
-<div class="line"><span class="lineno">  298</span>    <span class="keywordflow">if</span> (id &lt; sWardenCheckMgr-&gt;GetMaxValidCheckId())</div>
-<div class="line"><span class="lineno">  299</span>    {</div>
-<div class="line"><span class="lineno">  300</span>        <a class="code hl_struct" href="../../db/d29/structWardenCheck.html">WardenCheck</a> <span class="keyword">const</span>* check = <a class="code hl_define" href="../../db/d90/WardenCheckMgr_8h.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>-&gt;GetWardenDataById(<span class="keywordtype">id</span>);</div>
-<div class="line"><span class="lineno">  301</span>        <span class="keywordflow">if</span> (check &amp;&amp; check-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70">Type</a> == <a class="code hl_enumvalue" href="../../d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>)</div>
-<div class="line"><span class="lineno">  302</span>        {</div>
-<div class="line"><span class="lineno">  303</span>            <a class="code hl_function" href="../../db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6">ApplyPenalty</a>(<span class="keywordtype">id</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
-<div class="line"><span class="lineno">  304</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  305</span>        }</div>
-<div class="line"><span class="lineno">  306</span>    }</div>
-<div class="line"><span class="lineno">  307</span> </div>
-<div class="line"><span class="lineno">  308</span>    <a class="code hl_function" href="../../db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6">ApplyPenalty</a>(0, <span class="stringliteral">&quot;Sent bogus Lua check response for Warden&quot;</span>);</div>
-<div class="line"><span class="lineno">  309</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  310</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  280</span>{</div>
+<div class="line"><span class="lineno">  281</span>    <span class="keyword">static</span> <span class="keyword">constexpr</span> <span class="keywordtype">char</span> WARDEN_TOKEN[] = <span class="stringliteral">&quot;_TW\t&quot;</span>;</div>
+<div class="line"><span class="lineno">  282</span>    <span class="comment">// if msg starts with WARDEN_TOKEN</span></div>
+<div class="line"><span class="lineno">  283</span>    <span class="keywordflow">if</span> (msg.rfind(WARDEN_TOKEN, 0) != 0)</div>
+<div class="line"><span class="lineno">  284</span>    {</div>
+<div class="line"><span class="lineno">  285</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  286</span>    }</div>
+<div class="line"><span class="lineno">  287</span> </div>
+<div class="line"><span class="lineno">  288</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> <span class="keywordtype">id</span> = 0;</div>
+<div class="line"><span class="lineno">  289</span> </div>
+<div class="line"><span class="lineno">  290</span>    {</div>
+<div class="line"><span class="lineno">  291</span>        std::stringstream msg2(msg);</div>
+<div class="line"><span class="lineno">  292</span>        std::string temp;</div>
+<div class="line"><span class="lineno">  293</span>        <span class="keywordflow">while</span> (msg2 &gt;&gt; temp)</div>
+<div class="line"><span class="lineno">  294</span>        {</div>
+<div class="line"><span class="lineno">  295</span>            <span class="comment">// Found check id - stop loop</span></div>
+<div class="line"><span class="lineno">  296</span>            <span class="keywordflow">if</span> (std::stringstream(temp) &gt;&gt; <span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  297</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  298</span>        }</div>
+<div class="line"><span class="lineno">  299</span>    }</div>
+<div class="line"><span class="lineno">  300</span> </div>
+<div class="line"><span class="lineno">  301</span>    <span class="keywordflow">if</span> (id &lt; sWardenCheckMgr-&gt;GetMaxValidCheckId())</div>
+<div class="line"><span class="lineno">  302</span>    {</div>
+<div class="line"><span class="lineno">  303</span>        <a class="code hl_struct" href="../../db/d29/structWardenCheck.html">WardenCheck</a> <span class="keyword">const</span>* check = <a class="code hl_define" href="../../db/d90/WardenCheckMgr_8h.html#a367963ecc82479f8bea3aea9e235a85c">sWardenCheckMgr</a>-&gt;GetWardenDataById(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  304</span>        <span class="keywordflow">if</span> (check &amp;&amp; check-&gt;<a class="code hl_variable" href="../../db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70">Type</a> == <a class="code hl_enumvalue" href="../../d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a>)</div>
+<div class="line"><span class="lineno">  305</span>        {</div>
+<div class="line"><span class="lineno">  306</span>            <a class="code hl_function" href="../../db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6">ApplyPenalty</a>(<span class="keywordtype">id</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  307</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  308</span>        }</div>
+<div class="line"><span class="lineno">  309</span>    }</div>
+<div class="line"><span class="lineno">  310</span> </div>
+<div class="line"><span class="lineno">  311</span>    <a class="code hl_function" href="../../db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6">ApplyPenalty</a>(0, <span class="stringliteral">&quot;Sent bogus Lua check response for Warden&quot;</span>);</div>
+<div class="line"><span class="lineno">  312</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  313</span>}</div>
 <div class="ttc" id="aDefine_8h_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition</b> Define.h:108</div></div>
 <div class="ttc" id="aWarden_8h_html_a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada"><div class="ttname"><a href="../../d7/dc7/Warden_8h.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada">LUA_EVAL_CHECK</a></div><div class="ttdeci">@ LUA_EVAL_CHECK</div><div class="ttdef"><b>Definition</b> Warden.h:52</div></div>
-<div class="ttc" id="aclassWarden_html_a3aae296cc62f62e9deef0ec2dbb774f6"><div class="ttname"><a href="../../db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6">Warden::ApplyPenalty</a></div><div class="ttdeci">void ApplyPenalty(uint16 checkId, std::string const &amp;reason)</div><div class="ttdef"><b>Definition</b> Warden.cpp:196</div></div>
+<div class="ttc" id="aclassWarden_html_a3aae296cc62f62e9deef0ec2dbb774f6"><div class="ttname"><a href="../../db/d5c/classWarden.html#a3aae296cc62f62e9deef0ec2dbb774f6">Warden::ApplyPenalty</a></div><div class="ttdeci">void ApplyPenalty(uint16 checkId, std::string const &amp;reason)</div><div class="ttdef"><b>Definition</b> Warden.cpp:199</div></div>
 <div class="ttc" id="astructWardenCheck_html_aca31cdb700dca4801dfa514812639c70"><div class="ttname"><a href="../../db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70">WardenCheck::Type</a></div><div class="ttdeci">uint8 Type</div><div class="ttdef"><b>Definition</b> WardenCheckMgr.h:45</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00196">ApplyPenalty()</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00089">sWardenCheckMgr</a>, and <a class="el" href="../../#l00045">WardenCheck::Type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00199">ApplyPenalty()</a>, <a class="el" href="../../#l00052">LUA_EVAL_CHECK</a>, <a class="el" href="../../#l00089">sWardenCheckMgr</a>, and <a class="el" href="../../#l00045">WardenCheck::Type</a>.</p>
 
 </div>
 </div>
@@ -951,7 +954,7 @@ Friends</h2></td></tr>
 
 <p>Implemented in <a class="el" href="../../db/d32/classWardenMac.html#a2437a3a5650305b05fc22d312d0006da">WardenMac</a>, and <a class="el" href="../../dd/d0d/classWardenWin.html#a9a3e9b53f66e97a615c288058b9adcf3">WardenWin</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00095">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">Update()</a>.</p>
 
 </div>
 </div>
@@ -996,29 +999,29 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request module&quot;</span>);</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    <span class="comment">// Create packet structure</span></div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a> request{};</div>
-<div class="line"><span class="lineno">   79</span>    request.<a class="code hl_variable" href="../../d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f">Command</a> = <a class="code hl_enumvalue" href="../../d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a>;</div>
-<div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>    memcpy(request.ModuleId, <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#af1e6a5cc01ee05432be5c41c88d84794">Id</a>.data(), 16);</div>
-<div class="line"><span class="lineno">   82</span>    memcpy(request.ModuleKey, <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#ad100540b5c6722a19c938b134a985aed">Key</a>.data(), 16);</div>
-<div class="line"><span class="lineno">   83</span>    request.Size = <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e">CompressedSize</a>;</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <a class="code hl_function" href="../../d0/d7e/ByteConverter_8h.html#a9d20b1e463a04f0a22d79ca802902be6">EndianConvert</a>(request.Size);</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>    <span class="comment">// Encrypt with warden RC4 key.</span></div>
-<div class="line"><span class="lineno">   88</span>    <a class="code hl_function" href="../../db/d5c/classWarden.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a>));</div>
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Request module&quot;</span>);</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>    <span class="comment">// Create packet structure</span></div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a> request{};</div>
+<div class="line"><span class="lineno">   82</span>    request.<a class="code hl_variable" href="../../d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f">Command</a> = <a class="code hl_enumvalue" href="../../d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a>;</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    memcpy(request.ModuleId, <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#af1e6a5cc01ee05432be5c41c88d84794">Id</a>.data(), 16);</div>
+<div class="line"><span class="lineno">   85</span>    memcpy(request.ModuleKey, <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#ad100540b5c6722a19c938b134a985aed">Key</a>.data(), 16);</div>
+<div class="line"><span class="lineno">   86</span>    request.Size = <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e">CompressedSize</a>;</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_function" href="../../d0/d7e/ByteConverter_8h.html#a9d20b1e463a04f0a22d79ca802902be6">EndianConvert</a>(request.Size);</div>
 <div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> pkt(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a>));</div>
-<div class="line"><span class="lineno">   91</span>    pkt.append((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a>));</div>
-<div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt);</div>
-<div class="line"><span class="lineno">   93</span>}</div>
+<div class="line"><span class="lineno">   90</span>    <span class="comment">// Encrypt with warden RC4 key.</span></div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_function" href="../../db/d5c/classWarden.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a>));</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> pkt(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a>));</div>
+<div class="line"><span class="lineno">   94</span>    pkt.append((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;request, <span class="keyword">sizeof</span>(<a class="code hl_struct" href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a>));</div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt);</div>
+<div class="line"><span class="lineno">   96</span>}</div>
 <div class="ttc" id="aByteConverter_8h_html_a9d20b1e463a04f0a22d79ca802902be6"><div class="ttname"><a href="../../d0/d7e/ByteConverter_8h.html#a9d20b1e463a04f0a22d79ca802902be6">EndianConvert</a></div><div class="ttdeci">void EndianConvert(T &amp;val)</div><div class="ttdef"><b>Definition</b> ByteConverter.h:47</div></div>
 <div class="ttc" id="aWarden_8h_html_a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30"><div class="ttname"><a href="../../d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30">WARDEN_SMSG_MODULE_USE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_USE</div><div class="ttdef"><b>Definition</b> Warden.h:38</div></div>
-<div class="ttc" id="aclassWarden_html_a1880eaaeb13cca6852cf9c51fa29d339"><div class="ttname"><a href="../../db/d5c/classWarden.html#a1880eaaeb13cca6852cf9c51fa29d339">Warden::EncryptData</a></div><div class="ttdeci">void EncryptData(uint8 *buffer, uint32 length)</div><div class="ttdef"><b>Definition</b> Warden.cpp:135</div></div>
+<div class="ttc" id="aclassWarden_html_a1880eaaeb13cca6852cf9c51fa29d339"><div class="ttname"><a href="../../db/d5c/classWarden.html#a1880eaaeb13cca6852cf9c51fa29d339">Warden::EncryptData</a></div><div class="ttdeci">void EncryptData(uint8 *buffer, uint32 length)</div><div class="ttdef"><b>Definition</b> Warden.cpp:138</div></div>
 <div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
 <div class="ttc" id="aclassWorldSession_html_a2c74b80ca9b81765049e315813b29269"><div class="ttname"><a href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">WorldSession::SendPacket</a></div><div class="ttdeci">void SendPacket(WorldPacket const *packet)</div><div class="ttdoc">Send a packet to the client.</div><div class="ttdef"><b>Definition</b> WorldSession.cpp:283</div></div>
 <div class="ttc" id="agroup__u2w_html_gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88"><div class="ttname"><a href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a></div><div class="ttdeci">@ SMSG_WARDEN_DATA</div><div class="ttdef"><b>Definition</b> Opcodes.h:772</div></div>
@@ -1028,7 +1031,7 @@ Friends</h2></td></tr>
 <div class="ttc" id="astructWardenModuleUse_html"><div class="ttname"><a href="../../d6/d36/structWardenModuleUse.html">WardenModuleUse</a></div><div class="ttdef"><b>Definition</b> Warden.h:66</div></div>
 <div class="ttc" id="astructWardenModuleUse_html_a6042a93c52d18e3a74d3cd46ac3d940f"><div class="ttname"><a href="../../d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f">WardenModuleUse::Command</a></div><div class="ttdeci">uint8 Command</div><div class="ttdef"><b>Definition</b> Warden.h:67</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00148">_module</a>, <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00067">WardenModuleUse::Command</a>, <a class="el" href="../../#l00096">ClientWardenModule::CompressedSize</a>, <a class="el" href="../../#l00135">EncryptData()</a>, <a class="el" href="../../#l00047">EndianConvert()</a>, <a class="el" href="../../#l00094">ClientWardenModule::Id</a>, <a class="el" href="../../#l00095">ClientWardenModule::Key</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00283">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00772">SMSG_WARDEN_DATA</a>, and <a class="el" href="../../#l00038">WARDEN_SMSG_MODULE_USE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00148">_module</a>, <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00067">WardenModuleUse::Command</a>, <a class="el" href="../../#l00096">ClientWardenModule::CompressedSize</a>, <a class="el" href="../../#l00138">EncryptData()</a>, <a class="el" href="../../#l00047">EndianConvert()</a>, <a class="el" href="../../#l00094">ClientWardenModule::Id</a>, <a class="el" href="../../#l00095">ClientWardenModule::Key</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00283">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00772">SMSG_WARDEN_DATA</a>, and <a class="el" href="../../#l00038">WARDEN_SMSG_MODULE_USE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00037">WardenMac::Init()</a>, and <a class="el" href="../../#l00113">WardenWin::Init()</a>.</p>
 
@@ -1048,37 +1051,37 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Send module to client&quot;</span>);</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>    <span class="comment">// Create packet structure</span></div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_struct" href="../../d7/dc9/structWardenModuleTransfer.html">WardenModuleTransfer</a> packet;</div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Send module to client&quot;</span>);</div>
 <div class="line"><span class="lineno">   53</span> </div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sizeLeft = <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e">CompressedSize</a>;</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pos = 0;</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> burstSize;</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">while</span> (sizeLeft &gt; 0)</div>
-<div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        burstSize = sizeLeft &lt; 500 ? sizeLeft : 500;</div>
-<div class="line"><span class="lineno">   60</span>        packet.<a class="code hl_variable" href="../../d7/dc9/structWardenModuleTransfer.html#a65dc9a4861ab63743146c65a0a6249f2">Command</a> = <a class="code hl_enumvalue" href="../../d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a>;</div>
-<div class="line"><span class="lineno">   61</span>        packet.<a class="code hl_variable" href="../../d7/dc9/structWardenModuleTransfer.html#a279f37acfa44c06ae14c5a544dd7baf6">DataSize</a> = burstSize;</div>
-<div class="line"><span class="lineno">   62</span>        memcpy(packet.<a class="code hl_variable" href="../../d7/dc9/structWardenModuleTransfer.html#abda0f8cc15c7fb45fa81fcf5ccad8d08">Data</a>, &amp;<a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944">CompressedData</a>[pos], burstSize);</div>
-<div class="line"><span class="lineno">   63</span>        sizeLeft -= burstSize;</div>
-<div class="line"><span class="lineno">   64</span>        pos += burstSize;</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>        <a class="code hl_function" href="../../db/d5c/classWarden.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;packet, burstSize + 3);</div>
-<div class="line"><span class="lineno">   67</span>        <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> pkt1(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, burstSize + 3);</div>
-<div class="line"><span class="lineno">   68</span>        pkt1.append((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;packet, burstSize + 3);</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt1);</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
-<div class="line"><span class="lineno">   71</span>}</div>
+<div class="line"><span class="lineno">   54</span>    <span class="comment">// Create packet structure</span></div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_struct" href="../../d7/dc9/structWardenModuleTransfer.html">WardenModuleTransfer</a> packet;</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sizeLeft = <a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#ab57879b41c825623a989db13a53f2f4e">CompressedSize</a>;</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pos = 0;</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_typedef" href="../../da/d97/Define_8h.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> burstSize;</div>
+<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">while</span> (sizeLeft &gt; 0)</div>
+<div class="line"><span class="lineno">   61</span>    {</div>
+<div class="line"><span class="lineno">   62</span>        burstSize = sizeLeft &lt; 500 ? sizeLeft : 500;</div>
+<div class="line"><span class="lineno">   63</span>        packet.<a class="code hl_variable" href="../../d7/dc9/structWardenModuleTransfer.html#a65dc9a4861ab63743146c65a0a6249f2">Command</a> = <a class="code hl_enumvalue" href="../../d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a>;</div>
+<div class="line"><span class="lineno">   64</span>        packet.<a class="code hl_variable" href="../../d7/dc9/structWardenModuleTransfer.html#a279f37acfa44c06ae14c5a544dd7baf6">DataSize</a> = burstSize;</div>
+<div class="line"><span class="lineno">   65</span>        memcpy(packet.<a class="code hl_variable" href="../../d7/dc9/structWardenModuleTransfer.html#abda0f8cc15c7fb45fa81fcf5ccad8d08">Data</a>, &amp;<a class="code hl_variable" href="../../db/d5c/classWarden.html#a76a5a99f32011ad4dd9bc004dc9bf102">_module</a>-&gt;<a class="code hl_variable" href="../../d8/dd5/structClientWardenModule.html#a22e1d740e6c3094fea83eb1a44e40944">CompressedData</a>[pos], burstSize);</div>
+<div class="line"><span class="lineno">   66</span>        sizeLeft -= burstSize;</div>
+<div class="line"><span class="lineno">   67</span>        pos += burstSize;</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>        <a class="code hl_function" href="../../db/d5c/classWarden.html#a1880eaaeb13cca6852cf9c51fa29d339">EncryptData</a>((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;packet, burstSize + 3);</div>
+<div class="line"><span class="lineno">   70</span>        <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> pkt1(<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baeee0f388f48c1735d91912e4be941f88">SMSG_WARDEN_DATA</a>, burstSize + 3);</div>
+<div class="line"><span class="lineno">   71</span>        pkt1.append((<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)&amp;packet, burstSize + 3);</div>
+<div class="line"><span class="lineno">   72</span>        <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#a2c74b80ca9b81765049e315813b29269">SendPacket</a>(&amp;pkt1);</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
+<div class="line"><span class="lineno">   74</span>}</div>
 <div class="ttc" id="aWarden_8h_html_a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11"><div class="ttname"><a href="../../d7/dc7/Warden_8h.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11">WARDEN_SMSG_MODULE_CACHE</a></div><div class="ttdeci">@ WARDEN_SMSG_MODULE_CACHE</div><div class="ttdef"><b>Definition</b> Warden.h:39</div></div>
 <div class="ttc" id="astructWardenModuleTransfer_html"><div class="ttname"><a href="../../d7/dc9/structWardenModuleTransfer.html">WardenModuleTransfer</a></div><div class="ttdef"><b>Definition</b> Warden.h:74</div></div>
 <div class="ttc" id="astructWardenModuleTransfer_html_a279f37acfa44c06ae14c5a544dd7baf6"><div class="ttname"><a href="../../d7/dc9/structWardenModuleTransfer.html#a279f37acfa44c06ae14c5a544dd7baf6">WardenModuleTransfer::DataSize</a></div><div class="ttdeci">uint16 DataSize</div><div class="ttdef"><b>Definition</b> Warden.h:76</div></div>
 <div class="ttc" id="astructWardenModuleTransfer_html_a65dc9a4861ab63743146c65a0a6249f2"><div class="ttname"><a href="../../d7/dc9/structWardenModuleTransfer.html#a65dc9a4861ab63743146c65a0a6249f2">WardenModuleTransfer::Command</a></div><div class="ttdeci">uint8 Command</div><div class="ttdef"><b>Definition</b> Warden.h:75</div></div>
 <div class="ttc" id="astructWardenModuleTransfer_html_abda0f8cc15c7fb45fa81fcf5ccad8d08"><div class="ttname"><a href="../../d7/dc9/structWardenModuleTransfer.html#abda0f8cc15c7fb45fa81fcf5ccad8d08">WardenModuleTransfer::Data</a></div><div class="ttdeci">uint8 Data[500]</div><div class="ttdef"><b>Definition</b> Warden.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00148">_module</a>, <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00075">WardenModuleTransfer::Command</a>, <a class="el" href="../../#l00097">ClientWardenModule::CompressedData</a>, <a class="el" href="../../#l00096">ClientWardenModule::CompressedSize</a>, <a class="el" href="../../#l00077">WardenModuleTransfer::Data</a>, <a class="el" href="../../#l00076">WardenModuleTransfer::DataSize</a>, <a class="el" href="../../#l00135">EncryptData()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00283">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00772">SMSG_WARDEN_DATA</a>, and <a class="el" href="../../#l00039">WARDEN_SMSG_MODULE_CACHE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00148">_module</a>, <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00075">WardenModuleTransfer::Command</a>, <a class="el" href="../../#l00097">ClientWardenModule::CompressedData</a>, <a class="el" href="../../#l00096">ClientWardenModule::CompressedSize</a>, <a class="el" href="../../#l00077">WardenModuleTransfer::Data</a>, <a class="el" href="../../#l00076">WardenModuleTransfer::DataSize</a>, <a class="el" href="../../#l00138">EncryptData()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00283">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00772">SMSG_WARDEN_DATA</a>, and <a class="el" href="../../#l00039">WARDEN_SMSG_MODULE_CACHE</a>.</p>
 
 </div>
 </div>
@@ -1097,44 +1100,44 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   96</span>{</div>
-<div class="line"><span class="lineno">   97</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a>)</div>
-<div class="line"><span class="lineno">   98</span>    {</div>
-<div class="line"><span class="lineno">   99</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  100</span>    }</div>
-<div class="line"><span class="lineno">  101</span> </div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d5c/classWarden.html#ab67c63af0423210e927a7ce349de762a">_dataSent</a>)</div>
-<div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxClientResponseDelay = <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adcf526d0e348ba99123772b8f38ffa6f">CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</a>);</div>
-<div class="line"><span class="lineno">  105</span>        <span class="keywordflow">if</span> (maxClientResponseDelay &gt; 0)</div>
-<div class="line"><span class="lineno">  106</span>        {</div>
-<div class="line"><span class="lineno">  107</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d5c/classWarden.html#a26834a0b56572c83ddf665ba5feb3229">_clientResponseTimer</a> &gt; maxClientResponseDelay * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>)</div>
-<div class="line"><span class="lineno">  108</span>            {</div>
-<div class="line"><span class="lineno">  109</span>                <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(<span class="stringliteral">&quot;Warden: clientResponseTimer &gt; maxClientResponseDelay (Warden::Update)&quot;</span>);</div>
-<div class="line"><span class="lineno">  110</span>            }</div>
-<div class="line"><span class="lineno">  111</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  112</span>            {</div>
-<div class="line"><span class="lineno">  113</span>                <a class="code hl_variable" href="../../db/d5c/classWarden.html#a26834a0b56572c83ddf665ba5feb3229">_clientResponseTimer</a> += diff;</div>
-<div class="line"><span class="lineno">  114</span>            }</div>
-<div class="line"><span class="lineno">  115</span>        }</div>
-<div class="line"><span class="lineno">  116</span>    }</div>
-<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  118</span>    {</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">if</span> (diff &gt;= <a class="code hl_variable" href="../../db/d5c/classWarden.html#a1b578b6824a704c33e136c5d2fa0241c">_checkTimer</a>)</div>
-<div class="line"><span class="lineno">  120</span>        {</div>
-<div class="line"><span class="lineno">  121</span>            <a class="code hl_function" href="../../db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428">RequestChecks</a>();</div>
-<div class="line"><span class="lineno">  122</span>        }</div>
-<div class="line"><span class="lineno">  123</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  124</span>        {</div>
-<div class="line"><span class="lineno">  125</span>            <a class="code hl_variable" href="../../db/d5c/classWarden.html#a1b578b6824a704c33e136c5d2fa0241c">_checkTimer</a> -= diff;</div>
-<div class="line"><span class="lineno">  126</span>        }</div>
-<div class="line"><span class="lineno">  127</span>    }</div>
-<div class="line"><span class="lineno">  128</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654">_initialized</a>)</div>
+<div class="line"><span class="lineno">  101</span>    {</div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  103</span>    }</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d5c/classWarden.html#ab67c63af0423210e927a7ce349de762a">_dataSent</a>)</div>
+<div class="line"><span class="lineno">  106</span>    {</div>
+<div class="line"><span class="lineno">  107</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> maxClientResponseDelay = <a class="code hl_define" href="../../df/d17/group__world.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adcf526d0e348ba99123772b8f38ffa6f">CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</a>);</div>
+<div class="line"><span class="lineno">  108</span>        <span class="keywordflow">if</span> (maxClientResponseDelay &gt; 0)</div>
+<div class="line"><span class="lineno">  109</span>        {</div>
+<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d5c/classWarden.html#a26834a0b56572c83ddf665ba5feb3229">_clientResponseTimer</a> &gt; maxClientResponseDelay * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>)</div>
+<div class="line"><span class="lineno">  111</span>            {</div>
+<div class="line"><span class="lineno">  112</span>                <a class="code hl_variable" href="../../db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88">_session</a>-&gt;<a class="code hl_function" href="../../d8/d74/classWorldSession.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>(<span class="stringliteral">&quot;Warden: clientResponseTimer &gt; maxClientResponseDelay (Warden::Update)&quot;</span>);</div>
+<div class="line"><span class="lineno">  113</span>            }</div>
+<div class="line"><span class="lineno">  114</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  115</span>            {</div>
+<div class="line"><span class="lineno">  116</span>                <a class="code hl_variable" href="../../db/d5c/classWarden.html#a26834a0b56572c83ddf665ba5feb3229">_clientResponseTimer</a> += diff;</div>
+<div class="line"><span class="lineno">  117</span>            }</div>
+<div class="line"><span class="lineno">  118</span>        }</div>
+<div class="line"><span class="lineno">  119</span>    }</div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">if</span> (diff &gt;= <a class="code hl_variable" href="../../db/d5c/classWarden.html#a1b578b6824a704c33e136c5d2fa0241c">_checkTimer</a>)</div>
+<div class="line"><span class="lineno">  123</span>        {</div>
+<div class="line"><span class="lineno">  124</span>            <a class="code hl_function" href="../../db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428">RequestChecks</a>();</div>
+<div class="line"><span class="lineno">  125</span>        }</div>
+<div class="line"><span class="lineno">  126</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  127</span>        {</div>
+<div class="line"><span class="lineno">  128</span>            <a class="code hl_variable" href="../../db/d5c/classWarden.html#a1b578b6824a704c33e136c5d2fa0241c">_checkTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  129</span>        }</div>
+<div class="line"><span class="lineno">  130</span>    }</div>
+<div class="line"><span class="lineno">  131</span>}</div>
 <div class="ttc" id="aCommon_8h_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition</b> Common.h:53</div></div>
-<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0adcf526d0e348ba99123772b8f38ffa6f"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adcf526d0e348ba99123772b8f38ffa6f">CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</a></div><div class="ttdeci">@ CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</div><div class="ttdef"><b>Definition</b> WorldConfig.h:334</div></div>
+<div class="ttc" id="aWorldConfig_8h_html_a468ad15992691eb97dd20680046832e0adcf526d0e348ba99123772b8f38ffa6f"><div class="ttname"><a href="../../da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adcf526d0e348ba99123772b8f38ffa6f">CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</a></div><div class="ttdeci">@ CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</div><div class="ttdef"><b>Definition</b> WorldConfig.h:332</div></div>
 <div class="ttc" id="aclassWarden_html_ae4d9116061d9e4544e5f4291fd2f7428"><div class="ttname"><a href="../../db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428">Warden::RequestChecks</a></div><div class="ttdeci">virtual void RequestChecks()=0</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">_checkTimer</a>, <a class="el" href="../../#l00146">_clientResponseTimer</a>, <a class="el" href="../../#l00147">_dataSent</a>, <a class="el" href="../../#l00149">_initialized</a>, <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00334">CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00482">WorldSession::KickPlayer()</a>, <a class="el" href="../../db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428">RequestChecks()</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">_checkTimer</a>, <a class="el" href="../../#l00146">_clientResponseTimer</a>, <a class="el" href="../../#l00147">_dataSent</a>, <a class="el" href="../../#l00149">_initialized</a>, <a class="el" href="../../#l00138">_session</a>, <a class="el" href="../../#l00332">CONFIG_WARDEN_CLIENT_RESPONSE_DELAY</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00482">WorldSession::KickPlayer()</a>, <a class="el" href="../../db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428">RequestChecks()</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
 
 </div>
 </div>
@@ -1228,7 +1231,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, and <a class="el" href="../../#l00095">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, and <a class="el" href="../../#l00098">Update()</a>.</p>
 
 </div>
 </div>
@@ -1252,7 +1255,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00206">WardenMac::HandleData()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, and <a class="el" href="../../#l00095">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00209">WardenMac::HandleData()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, and <a class="el" href="../../#l00098">Update()</a>.</p>
 
 </div>
 </div>
@@ -1276,7 +1279,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00266">WardenWin::ForceChecks()</a>, <a class="el" href="../../#l00206">WardenMac::HandleData()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00182">WardenMac::RequestChecks()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, and <a class="el" href="../../#l00095">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00266">WardenWin::ForceChecks()</a>, <a class="el" href="../../#l00209">WardenMac::HandleData()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00185">WardenMac::RequestChecks()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, and <a class="el" href="../../#l00098">Update()</a>.</p>
 
 </div>
 </div>
@@ -1300,7 +1303,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00122">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00156">IsInitialized()</a>, <a class="el" href="../../#l00095">Update()</a>, and <a class="el" href="../../#l00039">~Warden()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00159">IsInitialized()</a>, <a class="el" href="../../#l00098">Update()</a>, and <a class="el" href="../../#l00039">~Warden()</a>.</p>
 
 </div>
 </div>
@@ -1324,7 +1327,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00130">DecryptData()</a>, <a class="el" href="../../#l00122">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, and <a class="el" href="../../#l00113">WardenWin::Init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00133">DecryptData()</a>, <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, and <a class="el" href="../../#l00113">WardenWin::Init()</a>.</p>
 
 </div>
 </div>
@@ -1348,7 +1351,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00122">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, and <a class="el" href="../../#l00031">Warden()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, and <a class="el" href="../../#l00031">Warden()</a>.</p>
 
 </div>
 </div>
@@ -1420,7 +1423,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00073">RequestModule()</a>, <a class="el" href="../../#l00047">SendModuleToClient()</a>, and <a class="el" href="../../#l00039">~Warden()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00076">RequestModule()</a>, <a class="el" href="../../#l00050">SendModuleToClient()</a>, and <a class="el" href="../../#l00039">~Warden()</a>.</p>
 
 </div>
 </div>
@@ -1444,7 +1447,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00135">EncryptData()</a>, <a class="el" href="../../#l00122">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, and <a class="el" href="../../#l00113">WardenWin::Init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00138">EncryptData()</a>, <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, and <a class="el" href="../../#l00113">WardenWin::Init()</a>.</p>
 
 </div>
 </div>
@@ -1468,7 +1471,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00122">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, and <a class="el" href="../../#l00031">Warden()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">WardenMac::HandleHashResult()</a>, <a class="el" href="../../#l00230">WardenWin::HandleHashResult()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, and <a class="el" href="../../#l00031">Warden()</a>.</p>
 
 </div>
 </div>
@@ -1492,7 +1495,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00312">GetPayloadMgr()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00315">GetPayloadMgr()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
@@ -1516,7 +1519,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00089">WardenMac::RequestHash()</a>, <a class="el" href="../../#l00213">WardenWin::RequestHash()</a>, and <a class="el" href="../../#l00031">Warden()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00092">WardenMac::RequestHash()</a>, <a class="el" href="../../#l00213">WardenWin::RequestHash()</a>, and <a class="el" href="../../#l00031">Warden()</a>.</p>
 
 </div>
 </div>
@@ -1540,7 +1543,7 @@ Friends</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00196">ApplyPenalty()</a>, <a class="el" href="../../#l00206">WardenMac::HandleData()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00182">WardenMac::RequestChecks()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, <a class="el" href="../../#l00089">WardenMac::RequestHash()</a>, <a class="el" href="../../#l00213">WardenWin::RequestHash()</a>, <a class="el" href="../../#l00073">RequestModule()</a>, <a class="el" href="../../#l00047">SendModuleToClient()</a>, and <a class="el" href="../../#l00095">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00199">ApplyPenalty()</a>, <a class="el" href="../../#l00209">WardenMac::HandleData()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00037">WardenMac::Init()</a>, <a class="el" href="../../#l00113">WardenWin::Init()</a>, <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00185">WardenMac::RequestChecks()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, <a class="el" href="../../#l00092">WardenMac::RequestHash()</a>, <a class="el" href="../../#l00213">WardenWin::RequestHash()</a>, <a class="el" href="../../#l00076">RequestModule()</a>, <a class="el" href="../../#l00050">SendModuleToClient()</a>, and <a class="el" href="../../#l00098">Update()</a>.</p>
 
 </div>
 </div>
@@ -1554,7 +1557,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d5c/classWarden.html">Warden</a></li>
-    <li class="footer">Generated on Thu Mar 5 2026 06:48:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Mar 6 2026 06:43:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

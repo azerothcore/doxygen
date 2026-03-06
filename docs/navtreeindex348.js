@@ -1,7 +1,5 @@
 var NAVTREEINDEX348 =
 {
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html":[6,0,679,0],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a095840a314841b1cff58d606d7580da9":[6,0,679,0,13],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a35fddf983ba4dfc16fd231e2cca43f60":[6,0,679,0,4],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a41a08d44cf7282fc1fd4e950013ac475":[6,0,679,0,2],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#a4dd28e487d5eadfdb4dd008b9afff93f":[6,0,679,0,5],
@@ -17,10 +15,10 @@ var NAVTREEINDEX348 =
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac813528b31e7c39d2f8b74dfe6d2c556":[6,0,679,0,12],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#af39972324073464ed9ec625afbebc51f":[6,0,679,0,8],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#aff8ed7cbb1e374ebde41a06a6b8a7544":[6,0,679,0,14],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3583],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[6,0,3583,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[6,0,3583,2],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[6,0,3583,0],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3581],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[6,0,3581,1],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[6,0,3581,2],
+"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[6,0,3581,0],
 "dd/dd3/zone__netherstorm_8cpp.html":[7,0,0,0,1,3,7,12],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800":[7,0,0,0,1,3,7,12,12],
 "dd/dd3/zone__netherstorm_8cpp.html#a2a01e5c4cbe1dd73ba234f4da412a800a03d22d23fb95f8127b016cf43730aa78":[7,0,0,0,1,3,7,12,12,0],
@@ -131,11 +129,11 @@ var NAVTREEINDEX348 =
 "dd/dd4/structboss__midnight.html#ad46a3726f398e5db56612d78d33fb13f":[6,0,629,1],
 "dd/dd4/structboss__midnight.html#ae5f3f452f5141cecab1b99616eb2bf74":[6,0,629,10],
 "dd/dd4/structboss__midnight.html#afbb95384e6c747e73c87c5a5eb40843e":[6,0,629,5],
-"dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2831],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2831,3],
-"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[6,0,2831,0],
-"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2831,2],
-"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2831,1],
+"dd/dd5/classspell__dk__scent__of__blood.html":[6,0,2829],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6a70833aaae84cbb512d3ebaa79fe301":[6,0,2829,3],
+"dd/dd5/classspell__dk__scent__of__blood.html#a6bfa44b7adfff5aebbfe96bd7b983744":[6,0,2829,0],
+"dd/dd5/classspell__dk__scent__of__blood.html#a7e63aa6af08411ad8e75fc69bdb84de5":[6,0,2829,2],
+"dd/dd5/classspell__dk__scent__of__blood.html#adf8a9d15a105bb639ae240d6062a7041":[6,0,2829,1],
 "dd/dd6/boss__halion_8cpp.html":[7,0,0,0,1,3,5,1,1,2],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,1,1,2,31],
 "dd/dd6/boss__halion_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a00471081bfbf35def217fa6094b4041c":[7,0,0,0,1,3,5,1,1,2,31,5],
@@ -249,5 +247,7 @@ var NAVTREEINDEX348 =
 "dd/dd6/classcharacter__commandscript.html#a0182ab0c535560f2b15fe743f200687e":[6,0,863,5],
 "dd/dd6/classcharacter__commandscript.html#a1b1b854e31b939eedf6af6050a762d9a":[6,0,863,13],
 "dd/dd6/classcharacter__commandscript.html#a1bb702a0244068ae8bf49ff6399387ee":[6,0,863,9],
-"dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[6,0,863,26]
+"dd/dd6/classcharacter__commandscript.html#a2164c3ebebcae60cd891c7db3da0ba68":[6,0,863,26],
+"dd/dd6/classcharacter__commandscript.html#a2296736d1a5420f5395b90fa6a828d33":[6,0,863,15],
+"dd/dd6/classcharacter__commandscript.html#a2ff56fd5a20e71301fb1ea6d78bd1670":[6,0,863,24]
 };

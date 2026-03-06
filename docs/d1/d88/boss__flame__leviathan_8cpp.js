@@ -9,7 +9,6 @@ var boss__flame__leviathan_8cpp =
     [ "npc_mimirons_inferno", "d6/d73/structnpc__mimirons__inferno.html", "d6/d73/structnpc__mimirons__inferno" ],
     [ "npc_thorims_hammer", "d0/da1/structnpc__thorims__hammer.html", "d0/da1/structnpc__thorims__hammer" ],
     [ "npc_pool_of_tar", "d2/d2b/structnpc__pool__of__tar.html", "d2/d2b/structnpc__pool__of__tar" ],
-    [ "npc_brann_radio", "da/ddb/structnpc__brann__radio.html", "da/ddb/structnpc__brann__radio" ],
     [ "npc_storm_beacon_spawn", "d4/d3b/structnpc__storm__beacon__spawn.html", "d4/d3b/structnpc__storm__beacon__spawn" ],
     [ "boss_flame_leviathan_safety_container", "dc/dab/structboss__flame__leviathan__safety__container.html", "dc/dab/structboss__flame__leviathan__safety__container" ],
     [ "go_ulduar_tower", "dc/d51/classgo__ulduar__tower.html", "dc/d51/classgo__ulduar__tower" ],
@@ -142,12 +141,6 @@ var boss__flame__leviathan_8cpp =
       [ "BRANN_RADIO_SAY_FL_START_0", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a4f3b179c18413d466cdb870b5b9fd19c", null ],
       [ "BRANN_RADIO_SAY_FL_START_1", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a5e61b77c0a00fc6dfda3336980f4f724", null ],
       [ "BRANN_RADIO_SAY_FL_START_2", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a98643a8b534605b7f23c1a119acad9d2", null ],
-      [ "BRANN_RADIO_SAY_GENERATORS", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abc1b55600c053ca4c268962fc0e9f73f", null ],
-      [ "BRANN_RADIO_SAY_STATIONS", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af2d9cfd537e1bf4c968631b6fe08439a", null ],
-      [ "BRANN_RADIO_SAY_TOWER_THORIM", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ad706f63b8a0ab788ec1e56eea8aad689", null ],
-      [ "BRANN_RADIO_SAY_TOWER_HODIR", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae00c0b354cabdaeeddad996545c28772", null ],
-      [ "BRANN_RADIO_SAY_TOWER_FREYA", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afc19414673cd157bbdf5fb27aaf9f6af", null ],
-      [ "BRANN_RADIO_SAY_TOWER_MIMIRON", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afb1354b9ff13ad62cd13fefe66062a00", null ],
       [ "VEHICLE_EMOTE_REPAIR", "d1/d88/boss__flame__leviathan_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31abafa70640e433ae130c05badf6fc82bc", null ]
     ] ],
     [ "VehicleGrabPyrite", "d1/d88/boss__flame__leviathan_8cpp.html#a9ca9930133c0aef2df1d265647c65913", [

@@ -280,8 +280,6 @@ var WorldConfig_8h =
       [ "CONFIG_NUMTHREADS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af364b552bd7075a90a9ad6bee9fa33f0", null ],
       [ "CONFIG_LOGDB_CLEARINTERVAL", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aca5416c13f19dfa0d11be90f03ab93ac", null ],
       [ "CONFIG_LOGDB_CLEARTIME", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a32173903fbfb4e737aaad5fd6f925a13", null ],
-      [ "CONFIG_TELEPORT_TIMEOUT_NEAR", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0acf3230e703a0afd758731b3a7c487cb4", null ],
-      [ "CONFIG_TELEPORT_TIMEOUT_FAR", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a877eeed6b475cd9064065f761b771650", null ],
       [ "CONFIG_MAX_ALLOWED_MMR_DROP", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a050a1d84827b698338ee13fa89b44fe8", null ],
       [ "CONFIG_CLIENTCACHE_VERSION", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1a7ef7b65c799cb9632affaf8ef4be36", null ],
       [ "CONFIG_GUILD_EVENT_LOG_COUNT", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a0c5487ab169b56e43bfbd93857d79e68", null ],

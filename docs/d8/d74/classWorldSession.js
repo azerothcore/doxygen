@@ -416,7 +416,6 @@ var classWorldSession =
     [ "HandleTalentWipeConfirmOpcode", "d8/d74/classWorldSession.html#a7591d95511798c0ebc423d882d911c80", null ],
     [ "HandleTaxiNodeStatusQueryOpcode", "d8/d74/classWorldSession.html#a8299872ed71348a55f115df63318c1ce", null ],
     [ "HandleTaxiQueryAvailableNodes", "d8/d74/classWorldSession.html#aa66027dea2a5813aeddf6d47b8ce5f5d", null ],
-    [ "HandleTeleportTimeout", "d8/d74/classWorldSession.html#aca9099e451be496138d0edc4643c6643", null ],
     [ "HandleTextEmoteOpcode", "d8/d74/classWorldSession.html#a42c367cc873ddba4ee27871aae8725c3", null ],
     [ "HandleTimeQueryOpcode", "d8/d74/classWorldSession.html#aec42e39d400992ba7ae18f27bdee9cd9", null ],
     [ "HandleTimeSyncResp", "d8/d74/classWorldSession.html#a15229940947ce8fe4000bab784a9320a", null ],

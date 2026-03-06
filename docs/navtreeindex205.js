@@ -1,6 +1,5 @@
 var NAVTREEINDEX205 =
 {
-"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae1d980a6fc025d69f40e1b8c1b8d0fff":[7,0,0,0,1,2,28,2,0,705],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae27e492a59ff05393d85363a1042b8d4":[7,0,0,0,1,2,28,2,0,823],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae2aa8158f23caf47db55f9e09e3a0aba":[7,0,0,0,1,2,28,2,0,717],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae2adfc0927f1a5c36cd430dc19754e17":[7,0,0,0,1,2,28,2,0,243],
@@ -201,11 +200,11 @@ var NAVTREEINDEX205 =
 "d7/da1/structSpellCastTimesEntry.html":[6,0,4367],
 "d7/da1/structSpellCastTimesEntry.html#a41b1059fc4059bd198925861a9414497":[6,0,4367,1],
 "d7/da1/structSpellCastTimesEntry.html#af0bf895b1a5d61974cb63230b786c55e":[6,0,4367,0],
-"d7/da2/classspell__item__deathbringers__will__heroic.html":[6,0,3342],
-"d7/da2/classspell__item__deathbringers__will__heroic.html#a0564e0b3ae8c18c35d4c32feb7e365bd":[6,0,3342,0],
-"d7/da2/classspell__item__deathbringers__will__heroic.html#a07f8c8aa2ed37512b197084febed50ef":[6,0,3342,1],
-"d7/da2/classspell__item__deathbringers__will__heroic.html#a10d283df17223afb32c238844bb5db67":[6,0,3342,2],
-"d7/da2/classspell__item__deathbringers__will__heroic.html#a1ee914e76abd22ba119740aa4aa6805e":[6,0,3342,3],
+"d7/da2/classspell__item__deathbringers__will__heroic.html":[6,0,3340],
+"d7/da2/classspell__item__deathbringers__will__heroic.html#a0564e0b3ae8c18c35d4c32feb7e365bd":[6,0,3340,0],
+"d7/da2/classspell__item__deathbringers__will__heroic.html#a07f8c8aa2ed37512b197084febed50ef":[6,0,3340,1],
+"d7/da2/classspell__item__deathbringers__will__heroic.html#a10d283df17223afb32c238844bb5db67":[6,0,3340,2],
+"d7/da2/classspell__item__deathbringers__will__heroic.html#a1ee914e76abd22ba119740aa4aa6805e":[6,0,3340,3],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html":[6,0,603,0],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a0e53d139f64d104557e157a91176a47a":[6,0,603,0,3],
 "d7/da2/structboss__lethon_1_1boss__lethonAI.html#a1a3acb1e8cbceb16854aafcf51a0f99d":[6,0,603,0,2],
@@ -242,12 +241,13 @@ var NAVTREEINDEX205 =
 "d7/da4/classDBCFileLoader.html#aeedb51dd9b316063a58a989b175d0bc5":[6,0,973,8],
 "d7/da4/classDBCFileLoader.html#af322bc9e92472463998ca8082c5da3d6":[6,0,973,11],
 "d7/da4/classDBCFileLoader.html#af8810dd9cef9ed82036bbebb4c938521":[6,0,973,4],
-"d7/da4/classspell__item__restless__strength.html":[6,0,3436],
-"d7/da4/classspell__item__restless__strength.html#a10e7c8e5df3cc2e13450fc6ee9f30342":[6,0,3436,1],
-"d7/da4/classspell__item__restless__strength.html#a690f78253492b2d509d0ce1cf7807ffa":[6,0,3436,3],
-"d7/da4/classspell__item__restless__strength.html#aed93f4b7af2194f765375b8f5e0318f7":[6,0,3436,0],
-"d7/da4/classspell__item__restless__strength.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a":[6,0,3436,2],
+"d7/da4/classspell__item__restless__strength.html":[6,0,3434],
+"d7/da4/classspell__item__restless__strength.html#a10e7c8e5df3cc2e13450fc6ee9f30342":[6,0,3434,1],
+"d7/da4/classspell__item__restless__strength.html#a690f78253492b2d509d0ce1cf7807ffa":[6,0,3434,3],
+"d7/da4/classspell__item__restless__strength.html#aed93f4b7af2194f765375b8f5e0318f7":[6,0,3434,0],
+"d7/da4/classspell__item__restless__strength.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a":[6,0,3434,2],
 "d7/da5/classat__karazhan__atiesh__aran.html":[6,0,232],
 "d7/da5/classat__karazhan__atiesh__aran.html#a5a6646c573b6e0bab0cbc288e594979e":[6,0,232,1],
-"d7/da5/classat__karazhan__atiesh__aran.html#ac84f5848b8a26cbfdd2544108567a6cc":[6,0,232,0]
+"d7/da5/classat__karazhan__atiesh__aran.html#ac84f5848b8a26cbfdd2544108567a6cc":[6,0,232,0],
+"d7/da7/boss__marli_8cpp.html":[7,0,0,0,1,3,2,16,8]
 };

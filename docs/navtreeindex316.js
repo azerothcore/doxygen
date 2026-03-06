@@ -1,7 +1,5 @@
 var NAVTREEINDEX316 =
 {
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba1720f18574bec2060f578e981c7aa8a1":[7,0,0,0,1,2,26,2,1,34],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba1885000009aae8d98aad95fa510f3810":[7,0,0,0,1,2,26,2,1,66],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba19e5d34f879bc869b8df158e593133ea":[7,0,0,0,1,2,26,2,1,71],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba2065a55b80538f8ca95f059acf9cd2f7":[7,0,0,0,1,2,26,2,1,76],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba22a9761c6f7e43be0c97216f6343fbb0":[7,0,0,0,1,2,26,2,1,68],
@@ -244,10 +242,12 @@ var NAVTREEINDEX316 =
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee":[6,0,192,2],
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html#a57e1ffbe543a93799d6c26d880e128ad":[6,0,192,1],
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html#a962da3fcdc2feb57ffd2a635d431939a":[6,0,192,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html":[6,0,1804,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a5bb03371b24593ca2de995bf85857782":[6,0,1804,0,1],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a61797329ecddde6da2e23e951fa92ca2":[6,0,1804,0,0],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a6ced23b3b4150b31020a636559d6eec6":[6,0,1804,0,3],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#aa19c9928e3979bb01d89dc81b8feb4fc":[6,0,1804,0,4],
-"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#ac6e651186c5edfd8e5279ddd38a15eb9":[6,0,1804,0,2]
+"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html":[6,0,1803,0],
+"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a5bb03371b24593ca2de995bf85857782":[6,0,1803,0,1],
+"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a61797329ecddde6da2e23e951fa92ca2":[6,0,1803,0,0],
+"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#a6ced23b3b4150b31020a636559d6eec6":[6,0,1803,0,3],
+"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#aa19c9928e3979bb01d89dc81b8feb4fc":[6,0,1803,0,4],
+"dc/d4b/structnpc__fos__corrupted__soul__fragment_1_1npc__fos__corrupted__soul__fragmentAI.html#ac6e651186c5edfd8e5279ddd38a15eb9":[6,0,1803,0,2],
+"dc/d4c/MiscScript_8h.html":[7,0,0,0,1,2,38,0,67],
+"dc/d4c/MiscScript_8h.html#af37f873b1735a7e1f78da6f2f334c134":[7,0,0,0,1,2,38,0,67,1]
 };

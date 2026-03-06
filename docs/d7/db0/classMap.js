@@ -104,6 +104,7 @@ var classMap =
     [ "GetGridTerrainDataSharedPtr", "d7/db0/classMap.html#aaee44ddf86b18fce2f095ee28d8e0e1a", null ],
     [ "GetGuidSequenceGenerator", "d7/db0/classMap.html#a8fc6fda79e88f5335cb330332ef3e04d", null ],
     [ "GetHeight", "d7/db0/classMap.html#a3668979ad8cf0b5002b2efd859ac2e48", null ],
+    [ "GetHeight", "d7/db0/classMap.html#a6189633fb9b04cde53f163d66ec1f8a9", null ],
     [ "GetHeight", "d7/db0/classMap.html#a05cd3567824466c27989fcef4b415cfb", null ],
     [ "GetId", "d7/db0/classMap.html#abea8ed605071226978969647a0246e86", null ],
     [ "GetInstanceId", "d7/db0/classMap.html#ae0451da49ca7ce3b856f38870c451e44", null ],
