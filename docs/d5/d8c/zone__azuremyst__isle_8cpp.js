@@ -13,6 +13,7 @@ var zone__azuremyst__isle_8cpp =
     [ "npc_stillpine_capitive::npc_stillpine_capitiveAI", "d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI.html", "d4/d10/structnpc__stillpine__capitive_1_1npc__stillpine__capitiveAI" ],
     [ "go_bristlelimb_cage", "d8/d15/classgo__bristlelimb__cage.html", "d8/d15/classgo__bristlelimb__cage" ],
     [ "spell_inoculate_nestlewood_owlkin", "d4/d0f/classspell__inoculate__nestlewood__owlkin.html", "d4/d0f/classspell__inoculate__nestlewood__owlkin" ],
+    [ "npc_prophet_velen", "d8/db5/structnpc__prophet__velen.html", "d8/db5/structnpc__prophet__velen" ],
     [ "BristlelimbCage", "d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0", [
       [ "QUEST_THE_PROPHECY_OF_AKIDA", "d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5", null ],
       [ "NPC_STILLPINE_CAPITIVE", "d5/d8c/zone__azuremyst__isle_8cpp.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf", null ],

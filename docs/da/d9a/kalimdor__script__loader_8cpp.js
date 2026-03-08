@@ -70,6 +70,7 @@ var kalimdor__script__loader_8cpp =
     [ "AddSC_silithus", "da/d9a/kalimdor__script__loader_8cpp.html#a029f13fc388645daedf110882b97ab2b", null ],
     [ "AddSC_stonetalon_mountains", "da/d9a/kalimdor__script__loader_8cpp.html#a985f3fb3a28d1163b27b5de21b1ec6cf", null ],
     [ "AddSC_tanaris", "da/d9a/kalimdor__script__loader_8cpp.html#accb894d274ef2ad335966f8efb2265ae", null ],
+    [ "AddSC_teldrassil", "da/d9a/kalimdor__script__loader_8cpp.html#a3c3f043ac68f32b085d7fa2d72c7da94", null ],
     [ "AddSC_temple_of_ahnqiraj", "da/d9a/kalimdor__script__loader_8cpp.html#a01dd3a78f0b663896c149c395a890753", null ],
     [ "AddSC_the_barrens", "da/d9a/kalimdor__script__loader_8cpp.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
     [ "AddSC_the_black_morass", "da/d9a/kalimdor__script__loader_8cpp.html#a40d83565d4b54b30e895e0b76768246b", null ],

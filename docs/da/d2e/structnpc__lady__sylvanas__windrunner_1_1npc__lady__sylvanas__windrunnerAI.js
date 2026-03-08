@@ -1,6 +1,7 @@
 var structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI =
 [
     [ "npc_lady_sylvanas_windrunnerAI", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
     [ "JustEngagedWith", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a36324482fb264cc3cacf11c3ed542eee", null ],
     [ "JustSummoned", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
     [ "Reset", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],

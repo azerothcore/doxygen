@@ -2,6 +2,7 @@ var classBossAI =
 [
     [ "BossAI", "d3/d24/classBossAI.html#aa6f8397176bd9e80b2508006718cbb85", null ],
     [ "~BossAI", "d3/d24/classBossAI.html#a0a1675959a530aacb7f6516d6198a65c", null ],
+    [ "_CheckHealthAfterCast", "d3/d24/classBossAI.html#a0c352769137bc16cb7cbe216702d358f", null ],
     [ "_EnterEvadeMode", "d3/d24/classBossAI.html#aa3133830d3ea0203b71628a549f38b59", null ],
     [ "_JustDied", "d3/d24/classBossAI.html#acb0ee118bdfc7f7aef660e44b5fb18ae", null ],
     [ "_JustEngagedWith", "d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150", null ],
@@ -15,7 +16,9 @@ var classBossAI =
     [ "JustEngagedWith", "d3/d24/classBossAI.html#a04dd3e06f19801bb419613f7d7482fa6", null ],
     [ "JustReachedHome", "d3/d24/classBossAI.html#a9a84666026e84e2e1f19aff503faa8e3", null ],
     [ "JustSummoned", "d3/d24/classBossAI.html#a55938a5ee8ad433cca9fad829cc0d915", null ],
-    [ "OnSpellCastFinished", "d3/d24/classBossAI.html#afb5e0434e21b48895b34b6b625aacedf", null ],
+    [ "OnChannelFinished", "d3/d24/classBossAI.html#a51bf321a6c99a9a4d6635eb4c07ece9f", null ],
+    [ "OnSpellCast", "d3/d24/classBossAI.html#a4e96f23395b7101c59a0a43180c904f1", null ],
+    [ "OnSpellFailed", "d3/d24/classBossAI.html#ae14c59d2f34c8e82b0fc6f8c707d81ca", null ],
     [ "ProcessHealthCheck", "d3/d24/classBossAI.html#af90b6b4ea6b676e5f25f1411b98837cf", null ],
     [ "Reset", "d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7", null ],
     [ "ScheduleEnrageTimer", "d3/d24/classBossAI.html#accee8f999f68b7e739db5ba89228c679", null ],

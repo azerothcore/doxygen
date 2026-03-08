@@ -129,6 +129,7 @@ var eastern__kingdoms__script__loader_8cpp =
     [ "AddSC_instance_uldaman", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a6aeffef7bf01947a5bef5aaf2400384e", null ],
     [ "AddSC_instance_zulaman", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a25158005199d5378837927c0299a6f72", null ],
     [ "AddSC_instance_zulgurub", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a224e147b1990c0996e0ac61a1865e34c", null ],
+    [ "AddSC_ironforge", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2", null ],
     [ "AddSC_isle_of_queldanas", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a04c0b579fd8cf79f50c4720c82138c4c", null ],
     [ "AddSC_karazhan", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#afbbdf0fa76ce4311c7976b843d92b03a", null ],
     [ "AddSC_molten_core", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad31dc1d2e5e18b7598a1b8d917a0c538", null ],

@@ -28,6 +28,7 @@ var dir_5ee14a0f6ab8ad29bd27b6821baacc69 =
     [ "zone_silithus.cpp", "d3/d9d/zone__silithus_8cpp.html", "d3/d9d/zone__silithus_8cpp" ],
     [ "zone_stonetalon_mountains.cpp", "dc/d91/zone__stonetalon__mountains_8cpp.html", "dc/d91/zone__stonetalon__mountains_8cpp" ],
     [ "zone_tanaris.cpp", "de/d14/zone__tanaris_8cpp.html", "de/d14/zone__tanaris_8cpp" ],
+    [ "zone_teldrassil.cpp", "df/d91/zone__teldrassil_8cpp.html", "df/d91/zone__teldrassil_8cpp" ],
     [ "zone_the_barrens.cpp", "d9/ddc/zone__the__barrens_8cpp.html", "d9/ddc/zone__the__barrens_8cpp" ],
     [ "zone_thousand_needles.cpp", "de/dcc/zone__thousand__needles_8cpp.html", "de/dcc/zone__thousand__needles_8cpp" ],
     [ "zone_thunder_bluff.cpp", "da/d0d/zone__thunder__bluff_8cpp.html", "da/d0d/zone__thunder__bluff_8cpp" ],

@@ -7,7 +7,7 @@ var zone__stormwind__city_8cpp =
     [ "npc_tyrion_spybot", "d8/d2e/classnpc__tyrion__spybot.html", "d8/d2e/classnpc__tyrion__spybot" ],
     [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI.html", "de/d42/structnpc__tyrion__spybot_1_1npc__tyrion__spybotAI" ],
     [ "npc_tyrion", "d9/d85/classnpc__tyrion.html", "d9/d85/classnpc__tyrion" ],
-    [ "npc_king_varian_wrynn", "d0/d56/classnpc__king__varian__wrynn.html", "d0/d56/classnpc__king__varian__wrynn" ],
+    [ "npc_king_varian_wrynn", "da/d50/structnpc__king__varian__wrynn.html", "da/d50/structnpc__king__varian__wrynn" ],
     [ "KingVarianWrynn", "df/d1b/zone__stormwind__city_8cpp.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
       [ "QUEST_WHERE_KINGS_WALK", "df/d1b/zone__stormwind__city_8cpp.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
     ] ],

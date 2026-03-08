@@ -21,6 +21,7 @@ var structScriptedAI =
     [ "DoPlaySoundToSet", "db/dc8/structScriptedAI.html#af5c4c2aa7107593244f0d4cf02c47dcb", null ],
     [ "DoResetThreat", "db/dc8/structScriptedAI.html#abaddc3fb490d5cb946057da48ec92b38", null ],
     [ "DoResetThreatList", "db/dc8/structScriptedAI.html#a0e0f63f6d980fe86a9f69f06428078a2", null ],
+    [ "DoRewardPlayersInArea", "db/dc8/structScriptedAI.html#aa0d8759d95eb67551054b90b03c3c1ee", null ],
     [ "DoSelectLowestHpFriendly", "db/dc8/structScriptedAI.html#a671ed92586143776b08dfa277546f53b", null ],
     [ "DoSpawnCreature", "db/dc8/structScriptedAI.html#af99b82166b746d71646eca776570c90e", null ],
     [ "DoStartMovement", "db/dc8/structScriptedAI.html#afed1534b4e851949094e179870fb54ec", null ],

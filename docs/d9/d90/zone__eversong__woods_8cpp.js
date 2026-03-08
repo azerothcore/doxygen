@@ -2,6 +2,7 @@ var zone__eversong__woods_8cpp =
 [
     [ "npc_partygoer_pather", "d3/df3/structnpc__partygoer__pather.html", "d3/df3/structnpc__partygoer__pather" ],
     [ "npc_partygoer", "da/dc6/structnpc__partygoer.html", "da/dc6/structnpc__partygoer" ],
+    [ "npc_lor_themar_theron", "d4/d88/structnpc__lor__themar__theron.html", "d4/d88/structnpc__lor__themar__theron" ],
     [ "Partygoer", "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
       [ "EVENT_RANDOM_ACTION", "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
       [ "EVENT_REMOVE_EQUIPMENT", "d9/d90/zone__eversong__woods_8cpp.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],

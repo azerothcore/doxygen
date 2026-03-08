@@ -27,6 +27,7 @@ var dir_ddeb450e5fe586f747c0635391d1d1d6 =
     [ "zone_eversong_woods.cpp", "d9/d90/zone__eversong__woods_8cpp.html", "d9/d90/zone__eversong__woods_8cpp" ],
     [ "zone_ghostlands.cpp", "de/d62/zone__ghostlands_8cpp.html", "de/d62/zone__ghostlands_8cpp" ],
     [ "zone_hinterlands.cpp", "db/ded/zone__hinterlands_8cpp.html", "db/ded/zone__hinterlands_8cpp" ],
+    [ "zone_ironforge.cpp", "df/dfa/zone__ironforge_8cpp.html", "df/dfa/zone__ironforge_8cpp" ],
     [ "zone_isle_of_queldanas.cpp", "df/d9d/zone__isle__of__queldanas_8cpp.html", "df/d9d/zone__isle__of__queldanas_8cpp" ],
     [ "zone_redridge_mountains.cpp", "dc/d17/zone__redridge__mountains_8cpp.html", "dc/d17/zone__redridge__mountains_8cpp" ],
     [ "zone_silverpine_forest.cpp", "d2/d5b/zone__silverpine__forest_8cpp.html", "d2/d5b/zone__silverpine__forest_8cpp" ],
