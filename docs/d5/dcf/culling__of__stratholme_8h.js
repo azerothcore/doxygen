@@ -55,7 +55,8 @@ var culling__of__stratholme_8h =
       [ "DATA_CRATE_COUNT", "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f", null ],
       [ "DATA_START_WAVES", "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4d067c8498081a870a958ac9f552e509", null ],
       [ "DATA_SHOW_INFINITE_TIMER", "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a2e80a277bcb0e797ac5e65a2e9ae26b1", null ],
-      [ "DATA_ARTHAS_REPOSITION", "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a0a8922410dd29b7c826468f06fc15fc9", null ]
+      [ "DATA_ARTHAS_REPOSITION", "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a0a8922410dd29b7c826468f06fc15fc9", null ],
+      [ "DATA_INTRO_EVENT_FINISHED", "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a379cfad976e25ed5ae304b74dcf5ab37", null ]
     ] ],
     [ "Data64", "d5/dcf/culling__of__stratholme_8h.html#a315a17942468c7ee5edce54ccdb1644d", [
       [ "DATA_ARTHAS", "d5/dcf/culling__of__stratholme_8h.html#a315a17942468c7ee5edce54ccdb1644dae04cb4f41658a3fa2155c3de367a2993", null ],

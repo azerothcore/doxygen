@@ -36,6 +36,7 @@ var classMotionMaster =
     [ "MoveFall", "de/d3b/classMotionMaster.html#ae37d25ba49a3887faa07bc194f3447fd", null ],
     [ "MoveFleeing", "de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6", null ],
     [ "MoveFollow", "de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f", null ],
+    [ "MoveFormation", "de/d3b/classMotionMaster.html#a25c83ddaac5eefc0bdeb9b6108c5c4ad", null ],
     [ "MoveForwards", "de/d3b/classMotionMaster.html#a27936a997b09d916396ebb3930b61b21", null ],
     [ "MoveIdle", "de/d3b/classMotionMaster.html#ad0697d75ff06afb1247424100c99619f", null ],
     [ "MoveJump", "de/d3b/classMotionMaster.html#a6856df13255c117b0405f75ba911c4ac", null ],

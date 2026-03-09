@@ -64,6 +64,7 @@ var classSpellInfo =
     [ "IsAbilityLearnedWithProfession", "d2/de9/classSpellInfo.html#a858b0769a36dc62c2b100c46ff415366", null ],
     [ "IsAbilityOfSkillType", "d2/de9/classSpellInfo.html#a740f5feadcb5b1e8bc59c4cc1db7e6f8", null ],
     [ "IsActionAllowedChannel", "d2/de9/classSpellInfo.html#a4d9302963bfb1a7adbf9403a9ba0b7eb", null ],
+    [ "IsAffected", "d2/de9/classSpellInfo.html#a3232ba3bdbc538d5b8ccc77112ea59ea", null ],
     [ "IsAffectedBySpellMod", "d2/de9/classSpellInfo.html#a75e80fd4e12d1c445584627bb4bf9c84", null ],
     [ "IsAffectedBySpellMods", "d2/de9/classSpellInfo.html#aa957eeb510350df83e1e7f18994a53d0", null ],
     [ "IsAffectingArea", "d2/de9/classSpellInfo.html#adcb25797866149773be76304042db8a9", null ],

@@ -40,6 +40,7 @@ var classMovement_1_1MoveSpline =
     [ "ToString", "d3/d68/classMovement_1_1MoveSpline.html#a16f9799522821c4b0ced892a431ec86b", null ],
     [ "updateState", "d3/d68/classMovement_1_1MoveSpline.html#a5a601ad6ac5069f9b702bba4bc6960fd", null ],
     [ "updateState", "d3/d68/classMovement_1_1MoveSpline.html#ad92db22796b029c4d5c912019461e6c3", null ],
+    [ "Velocity", "d3/d68/classMovement_1_1MoveSpline.html#a1a0dc555de0f51e0b123eb60f5eb439c", null ],
     [ "PacketBuilder", "d3/d68/classMovement_1_1MoveSpline.html#a607dc7708aea97be99c623f61b1e6db7", null ],
     [ "effect_start_time", "d3/d68/classMovement_1_1MoveSpline.html#a6c5cf7915bce1fbaa7a7b2c452700d2c", null ],
     [ "facing", "d3/d68/classMovement_1_1MoveSpline.html#acaefd7981d82fef5f8352aca2791d9bf", null ],
@@ -51,5 +52,6 @@ var classMovement_1_1MoveSpline =
     [ "spline", "d3/d68/classMovement_1_1MoveSpline.html#a94a0255f355fadbaee5314a548a90882", null ],
     [ "splineflags", "d3/d68/classMovement_1_1MoveSpline.html#ae4f7636760ddc72da3daeaeff76f34de", null ],
     [ "time_passed", "d3/d68/classMovement_1_1MoveSpline.html#a43b26a2cb5d7047054b6bdbd35e170e1", null ],
+    [ "velocity", "d3/d68/classMovement_1_1MoveSpline.html#a44f034889aa24fc63fb99feb7bba52cf", null ],
     [ "vertical_acceleration", "d3/d68/classMovement_1_1MoveSpline.html#a9cd70abff5088d0fc9a32a9a6091c541", null ]
 ];

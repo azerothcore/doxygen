@@ -12,7 +12,10 @@ var culling__of__stratholme_8cpp =
       [ "ITEM_ARCANE_DISRUPTOR", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789a1aba293237d434c6b08ff568880b3e23", null ],
       [ "QUEST_DISPELLING_ILLUSIONS", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789a4647fb793847c95144cb48cfa4107b47", null ],
       [ "QUEST_A_ROYAL_ESCORT", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789aa8ad5479ffe514d5fb627009a7066b75", null ],
-      [ "SPELL_SUMMON_ARCANE_DISRUPTOR", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789a63fba65044696c6aa27ef09432d034a3", null ]
+      [ "SPELL_SUMMON_ARCANE_DISRUPTOR", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789a63fba65044696c6aa27ef09432d034a3", null ],
+      [ "GOSSIP_MENU_START", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789acad8efa52754b9888620a1bda210c3e2", null ],
+      [ "GOSSIP_MENU_ACTION_MENU_SKIP", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789aa818e69319dcbcf1ab339dc85990d507", null ],
+      [ "GOSSIP_MENU_ACTION_INTERFERE", "d2/d5b/culling__of__stratholme_8cpp.html#a57afdde1f716bba8c87448af7cad7789af3365f8cde44ae1654753a52daad4726", null ]
     ] ],
     [ "Events", "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_COMBAT_EXORCISM", "d2/d5b/culling__of__stratholme_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab3c99e562e9fd0eb0734bfc10a97566d", null ],

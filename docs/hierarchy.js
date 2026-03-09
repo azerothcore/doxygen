@@ -1769,6 +1769,11 @@ var hierarchy =
     [ "ABNodeInfo", "d8/df8/structABNodeInfo.html", null ],
     [ "AbominationDespawner", "d3/d81/classAbominationDespawner.html", null ],
     [ "Acore::AbsorbAuraOrderPred", "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html", null ],
+    [ "AbstractFollower", "d9/d32/classAbstractFollower.html", [
+      [ "ChaseMovementGenerator< T >", "dd/dcb/classChaseMovementGenerator.html", null ],
+      [ "FollowMovementGenerator< T >", "d0/dac/classFollowMovementGenerator.html", null ],
+      [ "FormationMovementGenerator", "d6/d90/classFormationMovementGenerator.html", null ]
+    ] ],
     [ "AccountData", "da/dac/structAccountData.html", null ],
     [ "AccountFlagText", "db/dda/structAccountFlagText.html", null ],
     [ "AccountInfo", "d0/ddf/structAccountInfo.html", null ],
@@ -2807,7 +2812,7 @@ var hierarchy =
       [ "Reference< GridRefMgr< Corpse >, Corpse >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< Creature >, Creature >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< DynamicObject >, DynamicObject >", "d4/d52/classReference.html", null ],
-      [ "Reference< Unit, TargetedMovementGeneratorBase >", "d4/d52/classReference.html", [
+      [ "Reference< Unit, AbstractFollower >", "d4/d52/classReference.html", [
         [ "FollowerReference", "d4/d39/classFollowerReference.html", null ]
       ] ],
       [ "Reference< GridRefMgr< GameObject >, GameObject >", "d4/d52/classReference.html", null ],
@@ -2845,7 +2850,7 @@ var hierarchy =
       [ "RefMgr< GridRefMgr< Corpse >, Corpse >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< Creature >, Creature >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< DynamicObject >, DynamicObject >", "d4/d73/classRefMgr.html", null ],
-      [ "RefMgr< Unit, TargetedMovementGeneratorBase >", "d4/d73/classRefMgr.html", [
+      [ "RefMgr< Unit, AbstractFollower >", "d4/d73/classRefMgr.html", [
         [ "FollowerRefMgr", "d7/d99/classFollowerRefMgr.html", null ]
       ] ],
       [ "RefMgr< GridRefMgr< GameObject >, GameObject >", "d4/d73/classRefMgr.html", null ],
@@ -3047,6 +3052,9 @@ var hierarchy =
       ] ],
       [ "MovementGeneratorMedium< T, FollowMovementGenerator< T > >", "de/dd3/classMovementGeneratorMedium.html", [
         [ "FollowMovementGenerator< T >", "d0/dac/classFollowMovementGenerator.html", null ]
+      ] ],
+      [ "MovementGeneratorMedium< Creature, FormationMovementGenerator >", "de/dd3/classMovementGeneratorMedium.html", [
+        [ "FormationMovementGenerator", "d6/d90/classFormationMovementGenerator.html", null ]
       ] ],
       [ "MovementGeneratorMedium< Creature, HomeMovementGenerator< Creature > >", "de/dd3/classMovementGeneratorMedium.html", [
         [ "HomeMovementGenerator< Creature >", "de/df4/classHomeMovementGenerator_3_01Creature_01_4.html", null ]
@@ -4766,10 +4774,6 @@ var hierarchy =
     [ "Acore::Hyperlinks::TalentLinkData", "da/dbc/structAcore_1_1Hyperlinks_1_1TalentLinkData.html", null ],
     [ "TalentSpellPos", "d9/d3f/structTalentSpellPos.html", null ],
     [ "TalentTabEntry", "da/d93/structTalentTabEntry.html", null ],
-    [ "TargetedMovementGeneratorBase", "d5/d9a/classTargetedMovementGeneratorBase.html", [
-      [ "ChaseMovementGenerator< T >", "dd/dcb/classChaseMovementGenerator.html", null ],
-      [ "FollowMovementGenerator< T >", "d0/dac/classFollowMovementGenerator.html", null ]
-    ] ],
     [ "TargetInfo", "db/de6/structTargetInfo.html", null ],
     [ "TaskScheduler::Task", "d6/dbf/classTaskScheduler_1_1Task.html", null ],
     [ "TaskContext", "db/ddb/classTaskContext.html", null ],

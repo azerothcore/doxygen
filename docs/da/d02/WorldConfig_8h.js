@@ -469,6 +469,7 @@ var WorldConfig_8h =
       [ "RATE_MISS_CHANCE_MULTIPLIER_TARGET_PLAYER", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a6d2c4cc301b01dd9562645e94aa0817c", null ],
       [ "CONFIG_NEW_CHAR_STRING", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af83be77fe30f5f7bd745497467b68248", null ],
       [ "CONFIG_VALIDATE_SKILL_LEARNED_BY_SPELLS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad7c2d120ede8fb9ecd4c9904934778de", null ],
+      [ "CONFIG_ACHIEVEMENT_REALM_FIRST_KILL_WINDOW", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aaf7425556caaabd7ac1f88eee9a4a736", null ],
       [ "MAX_NUM_SERVER_CONFIGS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a7cebf4fbc55ce913c4f3fd3b8992c8c7", null ]
     ] ]
 ];

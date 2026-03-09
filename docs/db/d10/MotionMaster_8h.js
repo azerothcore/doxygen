@@ -45,6 +45,7 @@ var MotionMaster_8h =
       [ "ROTATE_MOTION_TYPE", "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f", null ],
       [ "EFFECT_MOTION_TYPE", "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac", null ],
       [ "ESCORT_MOTION_TYPE", "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf", null ],
+      [ "FORMATION_MOTION_TYPE", "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a0c2be8cafce0c581d8b51ac1b31d0721", null ],
       [ "NULL_MOTION_TYPE", "db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b", null ]
     ] ],
     [ "MovementSlot", "db/d10/MotionMaster_8h.html#a42f80f4e5d95e3ba656adbee43cfc3f5", [
