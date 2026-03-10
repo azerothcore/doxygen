@@ -4792,9 +4792,11 @@ var hierarchy =
       [ "ArenaSeasonRewardDistributorTest", "d5/d6e/classArenaSeasonRewardDistributorTest.html", null ],
       [ "ArenaTeamFilterTest", "d8/dd2/classArenaTeamFilterTest.html", null ],
       [ "AuraScriptProcTestFixture", "d6/d59/classAuraScriptProcTestFixture.html", [
+        [ "ArcanePotencyProcTest", "d4/db7/classArcanePotencyProcTest.html", null ],
         [ "SpellProcIntegrationTest", "d0/db0/classSpellProcIntegrationTest.html", null ],
         [ "SpellProcSpellTypeMaskTest", "d5/db6/classSpellProcSpellTypeMaskTest.html", null ]
       ] ],
+      [ "BinarySpellDetectionTest", "db/db0/classBinarySpellDetectionTest.html", null ],
       [ "BreakableCCProcTest", "d6/d11/classBreakableCCProcTest.html", null ],
       [ "CascadeProcSuppressionTest", "d4/d65/classCascadeProcSuppressionTest.html", null ],
       [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ],

@@ -1,0 +1,11 @@
+var BinarySpellDetectionTest_8cpp =
+[
+    [ "BinarySpellDetectionTest", "db/db0/classBinarySpellDetectionTest.html", "db/db0/classBinarySpellDetectionTest" ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
+    [ "TEST_F", "d7/dd2/BinarySpellDetectionTest_8cpp.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+];
