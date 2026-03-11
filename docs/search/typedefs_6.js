@@ -10,5 +10,7 @@ var searchData=
   ['fishingbaseskillcontainer_7',['FishingBaseSkillContainer',['../d5/dfb/classObjectMgr.html#a3210918ebcf80261513a0129dd26b6d5',1,'ObjectMgr']]],
   ['flybycameracollection_8',['FlyByCameraCollection',['../d8/d41/M2Stores_8cpp.html#a058e5fb250bd785cecc9a6913132dfe4',1,'M2Stores.cpp']]],
   ['forcedreactions_9',['ForcedReactions',['../d3/d4e/ReputationMgr_8h.html#a7f488a06b2477791f620e975ea444f4e',1,'ReputationMgr.h']]],
-  ['formatstring_10',['FormatString',['../d3/d0b/namespaceAcore.html#a32c972cafca136b88de5b298d6cba338',1,'Acore']]]
+  ['formatargs_10',['FormatArgs',['../d3/d0b/namespaceAcore.html#a300bea6aa9ed219f5f3636b900db3ac9',1,'Acore']]],
+  ['formatstring_11',['FormatString',['../d3/d0b/namespaceAcore.html#a32c972cafca136b88de5b298d6cba338',1,'Acore']]],
+  ['formatstringview_12',['FormatStringView',['../d3/d0b/namespaceAcore.html#a9a310e3057a14b5ee0f7520e08cb0410',1,'Acore']]]
 ];

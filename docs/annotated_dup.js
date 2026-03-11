@@ -1592,6 +1592,7 @@ var annotated_dup =
     [ "FileCloser", "d4/d37/structFileCloser.html", "d4/d37/structFileCloser" ],
     [ "FileLoader", "d6/dc2/classFileLoader.html", "d6/dc2/classFileLoader" ],
     [ "Finder", "d1/ddf/structFinder.html", "d1/ddf/structFinder" ],
+    [ "FindStartTimeForStageTest", "d6/d50/classFindStartTimeForStageTest.html", "d6/d50/classFindStartTimeForStageTest" ],
     [ "FireworkShow", "d5/dea/structFireworkShow.html", "d5/dea/structFireworkShow" ],
     [ "FireworkShowGameobject", "df/d87/structFireworkShowGameobject.html", "df/d87/structFireworkShowGameobject" ],
     [ "FireworkShowScheduleEntry", "db/d8d/structFireworkShowScheduleEntry.html", "db/d8d/structFireworkShowScheduleEntry" ],

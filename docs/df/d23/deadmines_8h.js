@@ -15,7 +15,9 @@ var deadmines_8h =
       [ "GO_DOOR_LEVER_1", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac", null ],
       [ "GO_DOOR_LEVER_2", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e", null ],
       [ "GO_DOOR_LEVER_3", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55", null ],
-      [ "GO_CANNON", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb", null ]
+      [ "GO_CANNON", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb", null ],
+      [ "GO_FOUNDRY_DOOR", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce", null ],
+      [ "GO_MAST_ROOM_DOOR", "df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa", null ]
     ] ],
     [ "GetDeadminesAI", "df/d23/deadmines_8h.html#a430093e84bf56df8f56940091b668c93", null ]
 ];

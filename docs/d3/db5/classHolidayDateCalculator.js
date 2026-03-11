@@ -9,6 +9,7 @@ var classHolidayDateCalculator =
     [ "CalculateWeekdayOnOrAfter", "d3/db5/classHolidayDateCalculator.html#af29aa127743e914f29ed413a13fca808", null ],
     [ "CalculateWinterSolstice", "d3/db5/classHolidayDateCalculator.html#aeeb30fa2ae99b92963b2c7309d0314e7", null ],
     [ "DateToJulianDay", "d3/db5/classHolidayDateCalculator.html#a8895f79fb06caa15c3bd4b7341dc769d", null ],
+    [ "FindStartTimeForStage", "d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e", null ],
     [ "GetDarkmoonFaireDates", "d3/db5/classHolidayDateCalculator.html#a6e27a5ec3e65f21f17a9f2a61cc23022", null ],
     [ "GetHolidayRules", "d3/db5/classHolidayDateCalculator.html#af9cc71880618916280c3b783001f9a09", null ],
     [ "GetPackedHolidayDate", "d3/db5/classHolidayDateCalculator.html#a787a8a7a5316fee2f488ba60e62ac6ea", null ],

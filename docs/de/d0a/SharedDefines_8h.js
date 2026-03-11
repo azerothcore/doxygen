@@ -2259,7 +2259,7 @@ var SharedDefines_8h =
       [ "SPELL_ATTR4_NO_PARTIAL_IMMUNITY", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6ac37729a4d7e64ecec3efaf54d7cef57e", null ],
       [ "SPELL_ATTR4_AURA_IS_BUFF", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6aa265d12eeec544d1395c5260223539bc", null ],
       [ "SPELL_ATTR4_DO_NOT_LOG_CASTER", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6a7c7289a48d354d8e879332bc1f629b87", null ],
-      [ "SPELL_ATTR4_REACTIVE_DAMAGE_PROC", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6ad67c11c16b7239803ce216691ed50360", null ],
+      [ "SPELL_ATTR4_DAMAGE_DOESNT_BREAK_AURAS", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6adac4a290df9fda687632c3b741ad99d5", null ],
       [ "SPELL_ATTR4_NOT_IN_SPELLBOOK", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6a8a9b2cf488c872233928e3e42662b4e7", null ],
       [ "SPELL_ATTR4_NOT_IN_ARENA_OR_RATED_BATTLEGROUND", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6a712b2bc4c2287e224f870f3f670feb46", null ],
       [ "SPELL_ATTR4_IGNORE_DEFAULT_ARENA_RESTRICTIONS", "de/d0a/SharedDefines_8h.html#aec1a0b3970de527f109db7fb8b7df5b6a27c01fb7c82ddd16b800adeeaaa286f1", null ],

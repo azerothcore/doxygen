@@ -154,6 +154,7 @@ var classSpellInfo =
     [ "FacingCasterFlags", "d2/de9/classSpellInfo.html#ab9d1fe21e95fb5bb4525e2de76c96ca2", null ],
     [ "Id", "d2/de9/classSpellInfo.html#a49bc14059c2bd3785231c52e0d54d382", null ],
     [ "InterruptFlags", "d2/de9/classSpellInfo.html#a984c1ea12c7a47027ec61f2712492806", null ],
+    [ "JumpDistance", "d2/de9/classSpellInfo.html#a488de86d200a06710977c145dc37b2c2", null ],
     [ "ManaCost", "d2/de9/classSpellInfo.html#af7122c0e749f13e75cbe53c77bd4edaf", null ],
     [ "ManaCostPercentage", "d2/de9/classSpellInfo.html#aad468ff1d83ba29cad67dc5d395337db", null ],
     [ "ManaCostPerlevel", "d2/de9/classSpellInfo.html#a2e44c18008c7d8e826d0e3872a37d29a", null ],

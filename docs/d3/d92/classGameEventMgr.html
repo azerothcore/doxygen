@@ -1415,7 +1415,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00188">_gameEvent</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02011">GetHolidayEventId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02008">GetHolidayEventId()</a>.</p>
 
 </div>
 </div>
@@ -1434,19 +1434,19 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2012</span>{</div>
-<div class="line"><span class="lineno"> 2013</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_function" href="../../d3/d92/classGameEventMgr.html#a16894713be97088401fef6f68cdb2496">GetEventMap</a>();</div>
-<div class="line"><span class="lineno"> 2014</span> </div>
-<div class="line"><span class="lineno"> 2015</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; eventEntry : <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>)</div>
-<div class="line"><span class="lineno"> 2016</span>    {</div>
-<div class="line"><span class="lineno"> 2017</span>        <span class="keywordflow">if</span> (eventEntry.HolidayId == holidayId)</div>
-<div class="line"><span class="lineno"> 2018</span>        {</div>
-<div class="line"><span class="lineno"> 2019</span>            <span class="keywordflow">return</span> eventEntry.EventId;</div>
-<div class="line"><span class="lineno"> 2020</span>        }</div>
-<div class="line"><span class="lineno"> 2021</span>    }</div>
-<div class="line"><span class="lineno"> 2022</span> </div>
-<div class="line"><span class="lineno"> 2023</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno"> 2024</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2009</span>{</div>
+<div class="line"><span class="lineno"> 2010</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a> = <a class="code hl_function" href="../../d3/d92/classGameEventMgr.html#a16894713be97088401fef6f68cdb2496">GetEventMap</a>();</div>
+<div class="line"><span class="lineno"> 2011</span> </div>
+<div class="line"><span class="lineno"> 2012</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; eventEntry : <a class="code hl_enumeration" href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>)</div>
+<div class="line"><span class="lineno"> 2013</span>    {</div>
+<div class="line"><span class="lineno"> 2014</span>        <span class="keywordflow">if</span> (eventEntry.HolidayId == holidayId)</div>
+<div class="line"><span class="lineno"> 2015</span>        {</div>
+<div class="line"><span class="lineno"> 2016</span>            <span class="keywordflow">return</span> eventEntry.EventId;</div>
+<div class="line"><span class="lineno"> 2017</span>        }</div>
+<div class="line"><span class="lineno"> 2018</span>    }</div>
+<div class="line"><span class="lineno"> 2019</span> </div>
+<div class="line"><span class="lineno"> 2020</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 2021</span>}</div>
 <div class="ttc" id="aboss__sartura_8cpp_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../df/d9a/boss__sartura_8cpp.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="aclassGameEventMgr_html_a16894713be97088401fef6f68cdb2496"><div class="ttname"><a href="../../d3/d92/classGameEventMgr.html#a16894713be97088401fef6f68cdb2496">GameEventMgr::GetEventMap</a></div><div class="ttdeci">GameEventDataMap const &amp; GetEventMap() const</div><div class="ttdef"><b>Definition</b> GameEventMgr.h:109</div></div>
 </div><!-- fragment -->
@@ -3182,7 +3182,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  323</span>    <a class="code hl_define" href="../../d1/d45/Log_8h.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
 <div class="line"><span class="lineno">  324</span> </div>
 <div class="line"><span class="lineno">  325</span>}</div>
-<div class="ttc" id="aGameEventMgr_8h_html_ad54f33b2e05154d9c2a384ff579b9208"><div class="ttname"><a href="../../d8/d92/GameEventMgr_8h.html#ad54f33b2e05154d9c2a384ff579b9208">IsEventActive</a></div><div class="ttdeci">bool IsEventActive(uint16 eventId)</div><div class="ttdef"><b>Definition</b> GameEventMgr.cpp:2041</div></div>
+<div class="ttc" id="aGameEventMgr_8h_html_ad54f33b2e05154d9c2a384ff579b9208"><div class="ttname"><a href="../../d8/d92/GameEventMgr_8h.html#ad54f33b2e05154d9c2a384ff579b9208">IsEventActive</a></div><div class="ttdeci">bool IsEventActive(uint16 eventId)</div><div class="ttdef"><b>Definition</b> GameEventMgr.cpp:2038</div></div>
 <div class="ttc" id="aWorldDatabase_8h_html_a736c0fca3c789518de967ddf4d44fc32a407c46bd315d756424f11282a91638de"><div class="ttname"><a href="../../d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a407c46bd315d756424f11282a91638de">WORLD_SEL_GAME_EVENT_NPC_VENDOR</a></div><div class="ttdeci">@ WORLD_SEL_GAME_EVENT_NPC_VENDOR</div><div class="ttdef"><b>Definition</b> WorldDatabase.h:109</div></div>
 <div class="ttc" id="aclassGameEventMgr_html_ab33aa86e40a4465f89f444ba16bd962d"><div class="ttname"><a href="../../d3/d92/classGameEventMgr.html#ab33aa86e40a4465f89f444ba16bd962d">GameEventMgr::NPCFlagList</a></div><div class="ttdeci">std::list&lt; GuidNPCFlagPair &gt; NPCFlagList</div><div class="ttdef"><b>Definition</b> GameEventMgr.h:179</div></div>
 <div class="ttc" id="aclassGameEventMgr_html_adcc6d8a9aaefca1ae44783598d70531f"><div class="ttname"><a href="../../d3/d92/classGameEventMgr.html#adcc6d8a9aaefca1ae44783598d70531f">GameEventMgr::NPCVendorList</a></div><div class="ttdeci">std::list&lt; NPCVendorEntry &gt; NPCVendorList</div><div class="ttdef"><b>Definition</b> GameEventMgr.h:175</div></div>
@@ -3193,7 +3193,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="astructNPCVendorEntry_html_ac826dc078ef456ed93bf23175bce243d"><div class="ttname"><a href="../../d5/d45/structNPCVendorEntry.html#ac826dc078ef456ed93bf23175bce243d">NPCVendorEntry::ExtendedCost</a></div><div class="ttdeci">uint32 ExtendedCost</div><div class="ttdef"><b>Definition</b> GameEventMgr.h:90</div></div>
 <div class="ttc" id="astructNPCVendorEntry_html_ac9fa29db15e06513805124a56cd073e8"><div class="ttname"><a href="../../d5/d45/structNPCVendorEntry.html#ac9fa29db15e06513805124a56cd073e8">NPCVendorEntry::Entry</a></div><div class="ttdeci">uint32 Entry</div><div class="ttdef"><b>Definition</b> GameEventMgr.h:86</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00191">_gameEventNPCFlags</a>, <a class="el" href="../../#l00185">_gameEventVendors</a>, <a class="el" href="../../#l00086">NPCVendorEntry::Entry</a>, <a class="el" href="../../#l00090">NPCVendorEntry::ExtendedCost</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00089">NPCVendorEntry::Incrtime</a>, <a class="el" href="../../#l02041">IsEventActive()</a>, <a class="el" href="../../#l00087">NPCVendorEntry::Item</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00088">NPCVendorEntry::MaxCount</a>, <a class="el" href="../../#l01699">sObjectMgr</a>, <a class="el" href="../../#l00109">WORLD_SEL_GAME_EVENT_NPC_VENDOR</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00191">_gameEventNPCFlags</a>, <a class="el" href="../../#l00185">_gameEventVendors</a>, <a class="el" href="../../#l00086">NPCVendorEntry::Entry</a>, <a class="el" href="../../#l00090">NPCVendorEntry::ExtendedCost</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00089">NPCVendorEntry::Incrtime</a>, <a class="el" href="../../#l02038">IsEventActive()</a>, <a class="el" href="../../#l00087">NPCVendorEntry::Item</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00088">NPCVendorEntry::MaxCount</a>, <a class="el" href="../../#l01699">sObjectMgr</a>, <a class="el" href="../../#l00109">WORLD_SEL_GAME_EVENT_NPC_VENDOR</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01051">LoadFromDB()</a>.</p>
 
@@ -3715,60 +3715,58 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1961</span>    <span class="keywordtype">bool</span> singleDate = ((holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>[0] &gt;&gt; 24) &amp; 0x1F) == 31; <span class="comment">// Events with fixed date within year have - 1</span></div>
 <div class="line"><span class="lineno"> 1962</span> </div>
 <div class="line"><span class="lineno"> 1963</span>    time_t curTime = <a class="code hl_function" href="../../df/d3e/namespaceGameTime.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
-<div class="line"><span class="lineno"> 1964</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#ae9554dfb95ff901f440f4166cf1d04ab">MAX_HOLIDAY_DATES</a> &amp;&amp; holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>[i]; ++i)</div>
-<div class="line"><span class="lineno"> 1965</span> </div>
+<div class="line"><span class="lineno"> 1964</span> </div>
+<div class="line"><span class="lineno"> 1965</span>    <span class="keywordflow">if</span> (!singleDate)</div>
 <div class="line"><span class="lineno"> 1966</span>    {</div>
-<div class="line"><span class="lineno"> 1967</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> date = holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>[i];</div>
-<div class="line"><span class="lineno"> 1968</span> </div>
-<div class="line"><span class="lineno"> 1969</span>        tm timeInfo;</div>
-<div class="line"><span class="lineno"> 1970</span>        <span class="keywordflow">if</span> (singleDate)</div>
-<div class="line"><span class="lineno"> 1971</span>        {</div>
-<div class="line"><span class="lineno"> 1972</span>            timeInfo = <a class="code hl_function" href="../../da/d02/namespaceAcore_1_1Time.html#ab6a946894ec0cb9fa9bf76afa8e7fec8">Acore::Time::TimeBreakdown</a>(curTime);</div>
-<div class="line"><span class="lineno"> 1973</span>            timeInfo.tm_year -= 1; <span class="comment">// First try last year (event active through New Year)</span></div>
-<div class="line"><span class="lineno"> 1974</span>        }</div>
-<div class="line"><span class="lineno"> 1975</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1976</span>        {</div>
-<div class="line"><span class="lineno"> 1977</span>            timeInfo.tm_year = ((date &gt;&gt; 24) &amp; 0x1F) + 100;</div>
-<div class="line"><span class="lineno"> 1978</span>        }</div>
-<div class="line"><span class="lineno"> 1979</span> </div>
-<div class="line"><span class="lineno"> 1980</span>        timeInfo.tm_mon = (date &gt;&gt; 20) &amp; 0xF;</div>
-<div class="line"><span class="lineno"> 1981</span>        timeInfo.tm_mday = ((date &gt;&gt; 14) &amp; 0x3F) + 1;</div>
-<div class="line"><span class="lineno"> 1982</span>        timeInfo.tm_hour = (date &gt;&gt; 6) &amp; 0x1F;</div>
-<div class="line"><span class="lineno"> 1983</span>        timeInfo.tm_min = date &amp; 0x3F;</div>
-<div class="line"><span class="lineno"> 1984</span>        timeInfo.tm_sec = 0;</div>
-<div class="line"><span class="lineno"> 1985</span>        timeInfo.tm_isdst = -1;</div>
-<div class="line"><span class="lineno"> 1986</span> </div>
-<div class="line"><span class="lineno"> 1987</span>        <span class="comment">// try to get next start time (skip past dates)</span></div>
-<div class="line"><span class="lineno"> 1988</span>        time_t startTime = mktime(&amp;timeInfo);</div>
-<div class="line"><span class="lineno"> 1989</span>        <span class="keywordflow">if</span> (curTime &lt; startTime + event.<a class="code hl_variable" href="../../da/d99/structGameEventData.html#a72bff4c3a62db350460993d804a461ea">Length</a> * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a>)</div>
-<div class="line"><span class="lineno"> 1990</span>        {</div>
-<div class="line"><span class="lineno"> 1991</span>            <span class="keyword">event</span>.Start = startTime + stageOffset;</div>
-<div class="line"><span class="lineno"> 1992</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1993</span>        }</div>
-<div class="line"><span class="lineno"> 1994</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (singleDate)</div>
-<div class="line"><span class="lineno"> 1995</span>        {</div>
-<div class="line"><span class="lineno"> 1996</span>            tm tmCopy = <a class="code hl_function" href="../../da/d02/namespaceAcore_1_1Time.html#ab6a946894ec0cb9fa9bf76afa8e7fec8">Acore::Time::TimeBreakdown</a>(curTime);</div>
-<div class="line"><span class="lineno"> 1997</span>            <span class="keywordtype">int</span> year = tmCopy.tm_year; <span class="comment">// This year</span></div>
-<div class="line"><span class="lineno"> 1998</span>            tmCopy = timeInfo;</div>
-<div class="line"><span class="lineno"> 1999</span>            tmCopy.tm_year = year;</div>
-<div class="line"><span class="lineno"> 2000</span>            <span class="keyword">event</span>.Start = mktime(&amp;tmCopy) + stageOffset;</div>
-<div class="line"><span class="lineno"> 2001</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 2002</span>        }</div>
-<div class="line"><span class="lineno"> 2003</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 2004</span>        {</div>
-<div class="line"><span class="lineno"> 2005</span>            <span class="comment">// date is due and not a singleDate event, try with next DBC date (dynamically calculated or overridden by game_event.start_time)</span></div>
-<div class="line"><span class="lineno"> 2006</span>            <span class="comment">// if none is found we don&#39;t modify start date and use the one in game_event</span></div>
-<div class="line"><span class="lineno"> 2007</span>        }</div>
-<div class="line"><span class="lineno"> 2008</span>    }</div>
-<div class="line"><span class="lineno"> 2009</span>}</div>
+<div class="line"><span class="lineno"> 1967</span>        time_t start = <a class="code hl_function" href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a>(</div>
+<div class="line"><span class="lineno"> 1968</span>            holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>, <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#ae9554dfb95ff901f440f4166cf1d04ab">MAX_HOLIDAY_DATES</a>, stageOffset, event.<a class="code hl_variable" href="../../da/d99/structGameEventData.html#a72bff4c3a62db350460993d804a461ea">Length</a>, curTime);</div>
+<div class="line"><span class="lineno"> 1969</span>        <span class="keywordflow">if</span> (start)</div>
+<div class="line"><span class="lineno"> 1970</span>            <span class="keyword">event</span>.Start = start;</div>
+<div class="line"><span class="lineno"> 1971</span> </div>
+<div class="line"><span class="lineno"> 1972</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1973</span>    }</div>
+<div class="line"><span class="lineno"> 1974</span> </div>
+<div class="line"><span class="lineno"> 1975</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_define" href="../../d3/dbd/DBCStructure_8h.html#ae9554dfb95ff901f440f4166cf1d04ab">MAX_HOLIDAY_DATES</a> &amp;&amp; holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>[i]; ++i)</div>
+<div class="line"><span class="lineno"> 1976</span>    {</div>
+<div class="line"><span class="lineno"> 1977</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> date = holiday-&gt;<a class="code hl_variable" href="../../d6/d35/structHolidaysEntry.html#ac5b08b086ef0668508ea9da48642e95b">Date</a>[i];</div>
+<div class="line"><span class="lineno"> 1978</span> </div>
+<div class="line"><span class="lineno"> 1979</span>        tm timeInfo = <a class="code hl_function" href="../../da/d02/namespaceAcore_1_1Time.html#ab6a946894ec0cb9fa9bf76afa8e7fec8">Acore::Time::TimeBreakdown</a>(curTime);</div>
+<div class="line"><span class="lineno"> 1980</span>        timeInfo.tm_year -= 1; <span class="comment">// First try last year (event active through New Year)</span></div>
+<div class="line"><span class="lineno"> 1981</span> </div>
+<div class="line"><span class="lineno"> 1982</span>        timeInfo.tm_mon = (date &gt;&gt; 20) &amp; 0xF;</div>
+<div class="line"><span class="lineno"> 1983</span>        timeInfo.tm_mday = ((date &gt;&gt; 14) &amp; 0x3F) + 1;</div>
+<div class="line"><span class="lineno"> 1984</span>        timeInfo.tm_hour = (date &gt;&gt; 6) &amp; 0x1F;</div>
+<div class="line"><span class="lineno"> 1985</span>        timeInfo.tm_min = date &amp; 0x3F;</div>
+<div class="line"><span class="lineno"> 1986</span>        timeInfo.tm_sec = 0;</div>
+<div class="line"><span class="lineno"> 1987</span>        timeInfo.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1988</span> </div>
+<div class="line"><span class="lineno"> 1989</span>        <span class="comment">// try to get next start time (skip past dates)</span></div>
+<div class="line"><span class="lineno"> 1990</span>        time_t startTime = mktime(&amp;timeInfo);</div>
+<div class="line"><span class="lineno"> 1991</span>        <span class="keywordflow">if</span> (curTime &lt; startTime + stageOffset + event.<a class="code hl_variable" href="../../da/d99/structGameEventData.html#a72bff4c3a62db350460993d804a461ea">Length</a> * <a class="code hl_variable" href="../../dc/d33/Common_8h.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a>)</div>
+<div class="line"><span class="lineno"> 1992</span>        {</div>
+<div class="line"><span class="lineno"> 1993</span>            <span class="keyword">event</span>.Start = startTime + stageOffset;</div>
+<div class="line"><span class="lineno"> 1994</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1995</span>        }</div>
+<div class="line"><span class="lineno"> 1996</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1997</span>        {</div>
+<div class="line"><span class="lineno"> 1998</span>            tm tmCopy = <a class="code hl_function" href="../../da/d02/namespaceAcore_1_1Time.html#ab6a946894ec0cb9fa9bf76afa8e7fec8">Acore::Time::TimeBreakdown</a>(curTime);</div>
+<div class="line"><span class="lineno"> 1999</span>            <span class="keywordtype">int</span> year = tmCopy.tm_year; <span class="comment">// This year</span></div>
+<div class="line"><span class="lineno"> 2000</span>            tmCopy = timeInfo;</div>
+<div class="line"><span class="lineno"> 2001</span>            tmCopy.tm_year = year;</div>
+<div class="line"><span class="lineno"> 2002</span>            <span class="keyword">event</span>.Start = mktime(&amp;tmCopy) + stageOffset;</div>
+<div class="line"><span class="lineno"> 2003</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 2004</span>        }</div>
+<div class="line"><span class="lineno"> 2005</span>    }</div>
+<div class="line"><span class="lineno"> 2006</span>}</div>
 <div class="ttc" id="aCommon_8h_html_a0552dd357fedab8892f8550548357a55"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a0552dd357fedab8892f8550548357a55">YEAR</a></div><div class="ttdeci">constexpr auto YEAR</div><div class="ttdef"><b>Definition</b> Common.h:52</div></div>
 <div class="ttc" id="aCommon_8h_html_a688431b3f57feed4c5408d11114cdf1a"><div class="ttname"><a href="../../dc/d33/Common_8h.html#a688431b3f57feed4c5408d11114cdf1a">WEEK</a></div><div class="ttdeci">constexpr auto WEEK</div><div class="ttdef"><b>Definition</b> Common.h:50</div></div>
 <div class="ttc" id="aCommon_8h_html_ac78ba8a81d12635c129fe2f92ca46c6f"><div class="ttname"><a href="../../dc/d33/Common_8h.html#ac78ba8a81d12635c129fe2f92ca46c6f">HOUR</a></div><div class="ttdeci">constexpr auto HOUR</div><div class="ttdef"><b>Definition</b> Common.h:48</div></div>
 <div class="ttc" id="aDBCStructure_8h_html_ae4bf557cbdd070d5483ea758ef1ef0f2"><div class="ttname"><a href="../../d3/dbd/DBCStructure_8h.html#ae4bf557cbdd070d5483ea758ef1ef0f2">MAX_HOLIDAY_DURATIONS</a></div><div class="ttdeci">#define MAX_HOLIDAY_DURATIONS</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1122</div></div>
+<div class="ttc" id="aclassHolidayDateCalculator_html_ad67e9add59e743a47b087e62737eab7e"><div class="ttname"><a href="../../d3/db5/classHolidayDateCalculator.html#ad67e9add59e743a47b087e62737eab7e">HolidayDateCalculator::FindStartTimeForStage</a></div><div class="ttdeci">static time_t FindStartTimeForStage(const uint32_t *packedDates, uint8_t numDates, time_t stageOffset, uint32_t stageLengthMinutes, time_t curTime)</div><div class="ttdef"><b>Definition</b> HolidayDateCalculator.cpp:584</div></div>
 <div class="ttc" id="astructHolidaysEntry_html_a082b59a0ead8223e590cbb371f3ad122"><div class="ttname"><a href="../../d6/d35/structHolidaysEntry.html#a082b59a0ead8223e590cbb371f3ad122">HolidaysEntry::CalendarFilterType</a></div><div class="ttdeci">int32 CalendarFilterType</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1138</div></div>
 <div class="ttc" id="astructHolidaysEntry_html_afa2d93998650f88e62bfa76807961274"><div class="ttname"><a href="../../d6/d35/structHolidaysEntry.html#afa2d93998650f88e62bfa76807961274">HolidaysEntry::Looping</a></div><div class="ttdeci">uint32 Looping</div><div class="ttdef"><b>Definition</b> DBCStructure.h:1132</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01138">HolidaysEntry::CalendarFilterType</a>, <a class="el" href="../../#l01130">HolidaysEntry::Date</a>, <a class="el" href="../../#l01129">HolidaysEntry::Duration</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00065">GameEventData::HolidayId</a>, <a class="el" href="../../#l00066">GameEventData::HolidayStage</a>, <a class="el" href="../../#l00048">HOUR</a>, <a class="el" href="../../#l00064">GameEventData::Length</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l01132">HolidaysEntry::Looping</a>, <a class="el" href="../../#l01123">MAX_HOLIDAY_DATES</a>, <a class="el" href="../../#l01122">MAX_HOLIDAY_DURATIONS</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a817e11f567a65f71476999c0012318bd">sHolidaysStore</a>, <a class="el" href="../../#l00233">Acore::Time::TimeBreakdown()</a>, <a class="el" href="../../#l00050">WEEK</a>, and <a class="el" href="../../#l00052">YEAR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01138">HolidaysEntry::CalendarFilterType</a>, <a class="el" href="../../#l01130">HolidaysEntry::Date</a>, <a class="el" href="../../#l01129">HolidaysEntry::Duration</a>, <a class="el" href="../../#l00584">HolidayDateCalculator::FindStartTimeForStage()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00065">GameEventData::HolidayId</a>, <a class="el" href="../../#l00066">GameEventData::HolidayStage</a>, <a class="el" href="../../#l00048">HOUR</a>, <a class="el" href="../../#l00064">GameEventData::Length</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l01132">HolidaysEntry::Looping</a>, <a class="el" href="../../#l01123">MAX_HOLIDAY_DATES</a>, <a class="el" href="../../#l01122">MAX_HOLIDAY_DURATIONS</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../dd/d8d/DBCStores_8cpp.html#a817e11f567a65f71476999c0012318bd">sHolidaysStore</a>, <a class="el" href="../../#l00233">Acore::Time::TimeBreakdown()</a>, <a class="el" href="../../#l00050">WEEK</a>, and <a class="el" href="../../#l00052">YEAR</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00327">LoadEvents()</a>.</p>
 
@@ -4818,7 +4816,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d92/classGameEventMgr.html">GameEventMgr</a></li>
-    <li class="footer">Generated on Tue Mar 10 2026 06:43:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 11 2026 06:46:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

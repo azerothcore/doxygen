@@ -4801,6 +4801,7 @@ var hierarchy =
       [ "CascadeProcSuppressionTest", "d4/d65/classCascadeProcSuppressionTest.html", null ],
       [ "ConfigEnvTest", "d5/dac/classConfigEnvTest.html", null ],
       [ "ExtraAttackChainProcTest", "d0/d17/classExtraAttackChainProcTest.html", null ],
+      [ "FindStartTimeForStageTest", "d6/d50/classFindStartTimeForStageTest.html", null ],
       [ "GameObjectSummonGroupTest", "de/d0c/classGameObjectSummonGroupTest.html", null ],
       [ "HolidayDateCalculatorTest", "d5/d72/classHolidayDateCalculatorTest.html", null ],
       [ "MissileBarrageTest", "d9/d82/classMissileBarrageTest.html", null ],

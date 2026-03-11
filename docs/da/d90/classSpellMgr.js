@@ -67,6 +67,7 @@ var classSpellMgr =
     [ "LoadSpellInfoCorrections", "da/d90/classSpellMgr.html#aa246091a96d42f80b5beb68091264b29", null ],
     [ "LoadSpellInfoCustomAttributes", "da/d90/classSpellMgr.html#a57a52b9d7490bc3e73d5906c6c7780a0", null ],
     [ "LoadSpellInfoStore", "da/d90/classSpellMgr.html#a223c626fa01fd3c17c80b9f8eb63e5a1", null ],
+    [ "LoadSpellJumpDistances", "da/d90/classSpellMgr.html#a6e38bc3d9e47c67ebbd18f368db62a5c", null ],
     [ "LoadSpellLearnSkills", "da/d90/classSpellMgr.html#a728b29c7bbad1e6a4a924197579a9c28", null ],
     [ "LoadSpellLinked", "da/d90/classSpellMgr.html#a085ba1ffcde6b34c7b612d11e36513df", null ],
     [ "LoadSpellMixology", "da/d90/classSpellMgr.html#ae2abb2ff60931b9849f928fd74892971", null ],

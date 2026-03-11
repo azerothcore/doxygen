@@ -420,14 +420,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/d1e/classInstanceScript.html#a022ce21017a893af65f30fc0726b0687">InstanceScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   82</span>        {</div>
-<div class="line"><span class="lineno">   83</span>            std::ostringstream saveStream;</div>
-<div class="line"><span class="lineno">   84</span>            saveStream &lt;&lt; <span class="stringliteral">&quot;D E &quot;</span> &lt;&lt; <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[0] &lt;&lt; <span class="charliteral">&#39; &#39;</span> &lt;&lt; <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[1];</div>
-<div class="line"><span class="lineno">   85</span>            <span class="keywordflow">return</span> saveStream.str();</div>
-<div class="line"><span class="lineno">   86</span>        }</div>
-<div class="ttc" id="astructinstance__deadmines_1_1instance__deadmines__InstanceMapScript_html_a01d69e135cbd2dd885dfc84c98ed8be1"><div class="ttname"><a href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">instance_deadmines::instance_deadmines_InstanceMapScript::_encounters</a></div><div class="ttdeci">uint32 _encounters[MAX_ENCOUNTERS]</div><div class="ttdef"><b>Definition</b> instance_deadmines.cpp:108</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   83</span>        {</div>
+<div class="line"><span class="lineno">   84</span>            std::ostringstream saveStream;</div>
+<div class="line"><span class="lineno">   85</span>            saveStream &lt;&lt; <span class="stringliteral">&quot;D E &quot;</span> &lt;&lt; <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[0] &lt;&lt; <span class="charliteral">&#39; &#39;</span> &lt;&lt; <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[1];</div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span> saveStream.str();</div>
+<div class="line"><span class="lineno">   87</span>        }</div>
+<div class="ttc" id="astructinstance__deadmines_1_1instance__deadmines__InstanceMapScript_html_a01d69e135cbd2dd885dfc84c98ed8be1"><div class="ttname"><a href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">instance_deadmines::instance_deadmines_InstanceMapScript::_encounters</a></div><div class="ttdeci">uint32 _encounters[MAX_ENCOUNTERS]</div><div class="ttdef"><b>Definition</b> instance_deadmines.cpp:109</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">_encounters</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">_encounters</a>.</p>
 
 </div>
 </div>
@@ -459,7 +459,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   36</span>            memset(&amp;<a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>));</div>
 <div class="line"><span class="lineno">   37</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">_encounters</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">_encounters</a>.</p>
 
 </div>
 </div>
@@ -488,29 +488,29 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/d1e/classInstanceScript.html#a37ec54dd873f77cf63b2b9a2d0ab7a01">InstanceScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   89</span>        {</div>
-<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">if</span> (!in)</div>
-<div class="line"><span class="lineno">   91</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>            <span class="keywordtype">char</span> dataHead1, dataHead2;</div>
-<div class="line"><span class="lineno">   94</span>            std::istringstream loadStream(in);</div>
-<div class="line"><span class="lineno">   95</span>            loadStream &gt;&gt; dataHead1 &gt;&gt; dataHead2;</div>
-<div class="line"><span class="lineno">   96</span>            <span class="keywordflow">if</span> (dataHead1 == <span class="charliteral">&#39;D&#39;</span> &amp;&amp; dataHead2 == <span class="charliteral">&#39;E&#39;</span>)</div>
-<div class="line"><span class="lineno">   97</span>            {</div>
-<div class="line"><span class="lineno">   98</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a>; ++i)</div>
-<div class="line"><span class="lineno">   99</span>                {</div>
-<div class="line"><span class="lineno">  100</span>                    loadStream &gt;&gt; <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[i];</div>
-<div class="line"><span class="lineno">  101</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[i] == <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a>)</div>
-<div class="line"><span class="lineno">  102</span>                        <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[i] = <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5">NOT_STARTED</a>;</div>
-<div class="line"><span class="lineno">  103</span>                }</div>
-<div class="line"><span class="lineno">  104</span>            }</div>
-<div class="line"><span class="lineno">  105</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   90</span>        {</div>
+<div class="line"><span class="lineno">   91</span>            <span class="keywordflow">if</span> (!in)</div>
+<div class="line"><span class="lineno">   92</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>            <span class="keywordtype">char</span> dataHead1, dataHead2;</div>
+<div class="line"><span class="lineno">   95</span>            std::istringstream loadStream(in);</div>
+<div class="line"><span class="lineno">   96</span>            loadStream &gt;&gt; dataHead1 &gt;&gt; dataHead2;</div>
+<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">if</span> (dataHead1 == <span class="charliteral">&#39;D&#39;</span> &amp;&amp; dataHead2 == <span class="charliteral">&#39;E&#39;</span>)</div>
+<div class="line"><span class="lineno">   98</span>            {</div>
+<div class="line"><span class="lineno">   99</span>                <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a>; ++i)</div>
+<div class="line"><span class="lineno">  100</span>                {</div>
+<div class="line"><span class="lineno">  101</span>                    loadStream &gt;&gt; <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[i];</div>
+<div class="line"><span class="lineno">  102</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[i] == <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a>)</div>
+<div class="line"><span class="lineno">  103</span>                        <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[i] = <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5">NOT_STARTED</a>;</div>
+<div class="line"><span class="lineno">  104</span>                }</div>
+<div class="line"><span class="lineno">  105</span>            }</div>
+<div class="line"><span class="lineno">  106</span>        }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aInstanceScript_8h_html_ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012"><div class="ttname"><a href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a643cea6438bbca00e218a0b1c05e1012">IN_PROGRESS</a></div><div class="ttdeci">@ IN_PROGRESS</div><div class="ttdef"><b>Definition</b> InstanceScript.h:59</div></div>
 <div class="ttc" id="aInstanceScript_8h_html_ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5"><div class="ttname"><a href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438ae7d82dfe80ea0bd4feea8ee49ea2eab5">NOT_STARTED</a></div><div class="ttdeci">@ NOT_STARTED</div><div class="ttdef"><b>Definition</b> InstanceScript.h:58</div></div>
 <div class="ttc" id="adeadmines_8h_html_afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a></div><div class="ttdeci">@ MAX_ENCOUNTERS</div><div class="ttdef"><b>Definition</b> deadmines.h:30</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">_encounters</a>, <a class="el" href="../../#l00059">IN_PROGRESS</a>, <a class="el" href="../../#l00030">MAX_ENCOUNTERS</a>, and <a class="el" href="../../#l00058">NOT_STARTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">_encounters</a>, <a class="el" href="../../#l00059">IN_PROGRESS</a>, <a class="el" href="../../#l00030">MAX_ENCOUNTERS</a>, and <a class="el" href="../../#l00058">NOT_STARTED</a>.</p>
 
 </div>
 </div>
@@ -548,23 +548,24 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   46</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e">GO_DOOR_LEVER_2</a>:</div>
 <div class="line"><span class="lineno">   47</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55">GO_DOOR_LEVER_3</a>:</div>
 <div class="line"><span class="lineno">   48</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb">GO_CANNON</a>:</div>
-<div class="line"><span class="lineno">   49</span>                    gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">AllowSaveToDB</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   50</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   51</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463">GO_FACTORY_DOOR</a>:</div>
-<div class="line"><span class="lineno">   52</span>                    gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">AllowSaveToDB</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   53</span>                    <span class="comment">// GoState (Door opened) is restored during GO creation, but we need to set LootState to prevent Lever from closing it again</span></div>
-<div class="line"><span class="lineno">   54</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[<a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db">TYPE_RHAHK_ZOR</a>] == <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
-<div class="line"><span class="lineno">   55</span>                        gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d">SetLootState</a>(<a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a>);</div>
-<div class="line"><span class="lineno">   56</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   57</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e">GO_IRON_CLAD_DOOR</a>:</div>
-<div class="line"><span class="lineno">   58</span>                    gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">AllowSaveToDB</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   59</span>                    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a6093184b917e8a062c36f843c1458169">GetStoredGameObjectState</a>(gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a8c289dddc67ceaeb458a4418e4929f2f">GetSpawnId</a>()) == <a class="code hl_enumvalue" href="../../dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a>)</div>
-<div class="line"><span class="lineno">   60</span>                    {</div>
-<div class="line"><span class="lineno">   61</span>                        gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#aa42104cda151bf8c6c33cc98fa716f36">DespawnOrUnsummon</a>();</div>
-<div class="line"><span class="lineno">   62</span>                    }</div>
-<div class="line"><span class="lineno">   63</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   64</span>            }</div>
-<div class="line"><span class="lineno">   65</span>        }</div>
+<div class="line"><span class="lineno">   49</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce">GO_FOUNDRY_DOOR</a>:</div>
+<div class="line"><span class="lineno">   50</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa">GO_MAST_ROOM_DOOR</a>:</div>
+<div class="line"><span class="lineno">   51</span>                    gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">AllowSaveToDB</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   52</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   53</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463">GO_FACTORY_DOOR</a>:</div>
+<div class="line"><span class="lineno">   54</span>                    gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">AllowSaveToDB</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   55</span>                    <span class="comment">// GoState (Door opened) is restored during GO creation, but we need to set LootState to prevent Lever from closing it again</span></div>
+<div class="line"><span class="lineno">   56</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[<a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db">TYPE_RHAHK_ZOR</a>] == <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
+<div class="line"><span class="lineno">   57</span>                        gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a643b94ed112dc4e4fd2e335ecfbfe92d">SetLootState</a>(<a class="code hl_enumvalue" href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a>);</div>
+<div class="line"><span class="lineno">   58</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   59</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e">GO_IRON_CLAD_DOOR</a>:</div>
+<div class="line"><span class="lineno">   60</span>                    gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">AllowSaveToDB</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   61</span>                    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a6093184b917e8a062c36f843c1458169">GetStoredGameObjectState</a>(gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#a8c289dddc67ceaeb458a4418e4929f2f">GetSpawnId</a>()) == <a class="code hl_enumvalue" href="../../dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a>)</div>
+<div class="line"><span class="lineno">   62</span>                        gameobject-&gt;<a class="code hl_function" href="../../de/d1c/classGameObject.html#aa42104cda151bf8c6c33cc98fa716f36">DespawnOrUnsummon</a>();</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   65</span>            }</div>
+<div class="line"><span class="lineno">   66</span>        }</div>
 <div class="ttc" id="aGameObjectData_8h_html_ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e"><div class="ttname"><a href="../../dd/d97/GameObjectData_8h.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e">GO_STATE_ACTIVE</a></div><div class="ttdeci">@ GO_STATE_ACTIVE</div><div class="ttdef"><b>Definition</b> GameObjectData.h:707</div></div>
 <div class="ttc" id="aGameObject_8h_html_a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e"><div class="ttname"><a href="../../d2/de5/GameObject_8h.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e">GO_ACTIVATED</a></div><div class="ttdeci">@ GO_ACTIVATED</div><div class="ttdef"><b>Definition</b> GameObject.h:112</div></div>
 <div class="ttc" id="aInstanceScript_8h_html_ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749"><div class="ttname"><a href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a></div><div class="ttdeci">@ DONE</div><div class="ttdef"><b>Definition</b> InstanceScript.h:61</div></div>
@@ -574,17 +575,19 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassGameObject_html_afacf7f1516a6ef175df34000b77e884d"><div class="ttname"><a href="../../de/d1c/classGameObject.html#afacf7f1516a6ef175df34000b77e884d">GameObject::AllowSaveToDB</a></div><div class="ttdeci">void AllowSaveToDB(bool enable)</div><div class="ttdef"><b>Definition</b> GameObject.h:360</div></div>
 <div class="ttc" id="aclassInstanceScript_html_a6093184b917e8a062c36f843c1458169"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a6093184b917e8a062c36f843c1458169">InstanceScript::GetStoredGameObjectState</a></div><div class="ttdeci">uint8 GetStoredGameObjectState(ObjectGuid::LowType spawnId) const</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:848</div></div>
 <div class="ttc" id="aclassObject_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d8/d4b/classObject.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition</b> Object.h:116</div></div>
+<div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce">GO_FOUNDRY_DOOR</a></div><div class="ttdeci">@ GO_FOUNDRY_DOOR</div><div class="ttdef"><b>Definition</b> deadmines.h:43</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e">GO_IRON_CLAD_DOOR</a></div><div class="ttdeci">@ GO_IRON_CLAD_DOOR</div><div class="ttdef"><b>Definition</b> deadmines.h:38</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463">GO_FACTORY_DOOR</a></div><div class="ttdeci">@ GO_FACTORY_DOOR</div><div class="ttdef"><b>Definition</b> deadmines.h:35</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e">GO_DOOR_LEVER_2</a></div><div class="ttdeci">@ GO_DOOR_LEVER_2</div><div class="ttdef"><b>Definition</b> deadmines.h:40</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55">GO_DOOR_LEVER_3</a></div><div class="ttdeci">@ GO_DOOR_LEVER_3</div><div class="ttdef"><b>Definition</b> deadmines.h:41</div></div>
+<div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa">GO_MAST_ROOM_DOOR</a></div><div class="ttdeci">@ GO_MAST_ROOM_DOOR</div><div class="ttdef"><b>Definition</b> deadmines.h:44</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3dab4f246f333db2b004ffc7b6372e92640"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dab4f246f333db2b004ffc7b6372e92640">GO_HEAVY_DOOR_1</a></div><div class="ttdeci">@ GO_HEAVY_DOOR_1</div><div class="ttdef"><b>Definition</b> deadmines.h:36</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb">GO_CANNON</a></div><div class="ttdeci">@ GO_CANNON</div><div class="ttdef"><b>Definition</b> deadmines.h:42</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac">GO_DOOR_LEVER_1</a></div><div class="ttdeci">@ GO_DOOR_LEVER_1</div><div class="ttdef"><b>Definition</b> deadmines.h:39</div></div>
 <div class="ttc" id="adeadmines_8h_html_a11b4fe9f4efc221e06a058a1b6650e3daee49fd68149e134d493d16c3dc7fa5cb"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#a11b4fe9f4efc221e06a058a1b6650e3daee49fd68149e134d493d16c3dc7fa5cb">GO_HEAVY_DOOR_2</a></div><div class="ttdeci">@ GO_HEAVY_DOOR_2</div><div class="ttdef"><b>Definition</b> deadmines.h:37</div></div>
 <div class="ttc" id="adeadmines_8h_html_afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db">TYPE_RHAHK_ZOR</a></div><div class="ttdeci">@ TYPE_RHAHK_ZOR</div><div class="ttdef"><b>Definition</b> deadmines.h:28</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">_encounters</a>, <a class="el" href="../../#l00360">GameObject::AllowSaveToDB()</a>, <a class="el" href="../../#l00927">GameObject::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00144">GameObject::GetSpawnId()</a>, <a class="el" href="../../#l00848">InstanceScript::GetStoredGameObjectState()</a>, <a class="el" href="../../#l00112">GO_ACTIVATED</a>, <a class="el" href="../../#l00042">GO_CANNON</a>, <a class="el" href="../../#l00039">GO_DOOR_LEVER_1</a>, <a class="el" href="../../#l00040">GO_DOOR_LEVER_2</a>, <a class="el" href="../../#l00041">GO_DOOR_LEVER_3</a>, <a class="el" href="../../#l00035">GO_FACTORY_DOOR</a>, <a class="el" href="../../#l00036">GO_HEAVY_DOOR_1</a>, <a class="el" href="../../#l00037">GO_HEAVY_DOOR_2</a>, <a class="el" href="../../#l00038">GO_IRON_CLAD_DOOR</a>, <a class="el" href="../../#l00707">GO_STATE_ACTIVE</a>, <a class="el" href="../../#l02427">GameObject::SetLootState()</a>, and <a class="el" href="../../#l00028">TYPE_RHAHK_ZOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">_encounters</a>, <a class="el" href="../../#l00360">GameObject::AllowSaveToDB()</a>, <a class="el" href="../../#l00927">GameObject::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00144">GameObject::GetSpawnId()</a>, <a class="el" href="../../#l00848">InstanceScript::GetStoredGameObjectState()</a>, <a class="el" href="../../#l00112">GO_ACTIVATED</a>, <a class="el" href="../../#l00042">GO_CANNON</a>, <a class="el" href="../../#l00039">GO_DOOR_LEVER_1</a>, <a class="el" href="../../#l00040">GO_DOOR_LEVER_2</a>, <a class="el" href="../../#l00041">GO_DOOR_LEVER_3</a>, <a class="el" href="../../#l00035">GO_FACTORY_DOOR</a>, <a class="el" href="../../#l00043">GO_FOUNDRY_DOOR</a>, <a class="el" href="../../#l00036">GO_HEAVY_DOOR_1</a>, <a class="el" href="../../#l00037">GO_HEAVY_DOOR_2</a>, <a class="el" href="../../#l00038">GO_IRON_CLAD_DOOR</a>, <a class="el" href="../../#l00044">GO_MAST_ROOM_DOOR</a>, <a class="el" href="../../#l00707">GO_STATE_ACTIVE</a>, <a class="el" href="../../#l02427">GameObject::SetLootState()</a>, and <a class="el" href="../../#l00028">TYPE_RHAHK_ZOR</a>.</p>
 
 </div>
 </div>
@@ -623,22 +626,22 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dc/d7d/classZoneScript.html#a949e67ea24c7e4b70a20806952735576">ZoneScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   68</span>        {</div>
-<div class="line"><span class="lineno">   69</span>            <span class="keywordflow">switch</span> (type)</div>
-<div class="line"><span class="lineno">   70</span>            {</div>
-<div class="line"><span class="lineno">   71</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db">TYPE_RHAHK_ZOR</a>:</div>
-<div class="line"><span class="lineno">   72</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c">TYPE_CANNON</a>:</div>
-<div class="line"><span class="lineno">   73</span>                    <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[type] = data;</div>
-<div class="line"><span class="lineno">   74</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">   75</span>            }</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>            <span class="keywordflow">if</span> (data == <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
-<div class="line"><span class="lineno">   78</span>                <a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69">SaveToDB</a>();</div>
-<div class="line"><span class="lineno">   79</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   69</span>        {</div>
+<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">switch</span> (type)</div>
+<div class="line"><span class="lineno">   71</span>            {</div>
+<div class="line"><span class="lineno">   72</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22a1df993785b1241d4ad2a1f70eaa506db">TYPE_RHAHK_ZOR</a>:</div>
+<div class="line"><span class="lineno">   73</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c">TYPE_CANNON</a>:</div>
+<div class="line"><span class="lineno">   74</span>                    <a class="code hl_variable" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1">_encounters</a>[type] = data;</div>
+<div class="line"><span class="lineno">   75</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   76</span>            }</div>
+<div class="line"><span class="lineno">   77</span> </div>
+<div class="line"><span class="lineno">   78</span>            <span class="keywordflow">if</span> (data == <a class="code hl_enumvalue" href="../../db/d8e/InstanceScript_8h.html#ab6cf09cd975286c705a19a75a947d438a9c954bcf443428c80b0f107b3bc48749">DONE</a>)</div>
+<div class="line"><span class="lineno">   79</span>                <a class="code hl_function" href="../../d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69">SaveToDB</a>();</div>
+<div class="line"><span class="lineno">   80</span>        }</div>
 <div class="ttc" id="aclassInstanceScript_html_a99f69b7706e28b78008952ceefe09b69"><div class="ttname"><a href="../../d2/d1e/classInstanceScript.html#a99f69b7706e28b78008952ceefe09b69">InstanceScript::SaveToDB</a></div><div class="ttdeci">void SaveToDB()</div><div class="ttdef"><b>Definition</b> InstanceScript.cpp:41</div></div>
 <div class="ttc" id="adeadmines_8h_html_afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c"><div class="ttname"><a href="../../df/d23/deadmines_8h.html#afb6eb4f28419b652027fad41104a6d22aba369ea55e3502bc0037a884df05286c">TYPE_CANNON</a></div><div class="ttdeci">@ TYPE_CANNON</div><div class="ttdef"><b>Definition</b> deadmines.h:29</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">_encounters</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00041">InstanceScript::SaveToDB()</a>, <a class="el" href="../../#l00029">TYPE_CANNON</a>, and <a class="el" href="../../#l00028">TYPE_RHAHK_ZOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00109">_encounters</a>, <a class="el" href="../../#l00061">DONE</a>, <a class="el" href="../../#l00041">InstanceScript::SaveToDB()</a>, <a class="el" href="../../#l00029">TYPE_CANNON</a>, and <a class="el" href="../../#l00028">TYPE_RHAHK_ZOR</a>.</p>
 
 </div>
 </div>
@@ -663,7 +666,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00081">GetSaveData()</a>, <a class="el" href="../../#l00034">Initialize()</a>, <a class="el" href="../../#l00088">Load()</a>, <a class="el" href="../../#l00039">OnGameObjectCreate()</a>, and <a class="el" href="../../#l00067">SetData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00082">GetSaveData()</a>, <a class="el" href="../../#l00034">Initialize()</a>, <a class="el" href="../../#l00089">Load()</a>, <a class="el" href="../../#l00039">OnGameObjectCreate()</a>, and <a class="el" href="../../#l00068">SetData()</a>.</p>
 
 </div>
 </div>
@@ -676,7 +679,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d93/classinstance__deadmines.html">instance_deadmines</a></li><li class="navelem"><a class="el" href="../../dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html">instance_deadmines_InstanceMapScript</a></li>
-    <li class="footer">Generated on Tue Mar 10 2026 06:43:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 11 2026 06:46:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

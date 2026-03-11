@@ -83,6 +83,7 @@ var boss__assembly__of__iron_8cpp =
       [ "POINT_CHANNEL_STEELBREAKER", "d9/d88/boss__assembly__of__iron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a29d8f797f45f444b64bba7b3fcd8d359", null ]
     ] ],
     [ "AddSC_boss_assembly_of_iron", "d9/d88/boss__assembly__of__iron_8cpp.html#a796765dd60d7827b7ecbf9e291aa1d32", null ],
+    [ "CountAliveBosses", "d9/d88/boss__assembly__of__iron_8cpp.html#a89736e77b2eea60ae64a7400ebd31893", null ],
     [ "IsEncounterComplete", "d9/d88/boss__assembly__of__iron_8cpp.html#a097bf4a24bf1a1ae8b593024d18613ee", null ],
     [ "RespawnAssemblyOfIron", "d9/d88/boss__assembly__of__iron_8cpp.html#a17a6a60c682f5ce1ebc97521a02b1f22", null ],
     [ "RestoreAssemblyHealth", "d9/d88/boss__assembly__of__iron_8cpp.html#a2afb8a2c08b65be84a9ffeca28a7044a", null ]
