@@ -1,5 +1,15 @@
 var NAVTREEINDEX345 =
 {
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a34a18991ff2c0aafac15694ed9667193":[6,0,2133,0,7],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a43de246b93f3380d5b79ffba6434aa5a":[6,0,2133,0,6],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8278a73501ea33164cbdef8599144f4a":[6,0,2133,0,1],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5":[6,0,2133,0,8],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c":[6,0,2133,0,5],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2133,0,2],
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e":[6,0,2133,0,9],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,17,0],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,17,0,0],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a602fc1ddafe663e2e5ddceaeaec8b118":[6,0,17,0,2],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a7fff405a99c65d3e846463ca29a8ddfd":[6,0,17,0,1],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[6,0,17,0,3],
 "dd/db1/classachievement__assembly__of__iron.html":[6,0,34],
@@ -239,15 +249,5 @@ var NAVTREEINDEX345 =
 "dd/dba/structboss__moroes.html":[6,0,640],
 "dd/dba/structboss__moroes.html#a1bba38840a7e6f09720ce33c51802a77":[6,0,640,3],
 "dd/dba/structboss__moroes.html#a3d28056a0d26d426d84363fb0c4f7e4d":[6,0,640,8],
-"dd/dba/structboss__moroes.html#a60d99b80815a2b2626638d6410ce64a2":[6,0,640,14],
-"dd/dba/structboss__moroes.html#a6408ec64b2777dbcd322cb64af3f8c17":[6,0,640,13],
-"dd/dba/structboss__moroes.html#a651f53f476f205785d596ed9d52fdb89":[6,0,640,11],
-"dd/dba/structboss__moroes.html#a677f2b8375981d904183dd804f4b32b8":[6,0,640,9],
-"dd/dba/structboss__moroes.html#a73f4b3c1a3a46261cf62143f8359b55e":[6,0,640,2],
-"dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,640,5],
-"dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,640,4],
-"dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[6,0,640,6],
-"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,640,10],
-"dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[6,0,640,1],
-"dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,640,7]
+"dd/dba/structboss__moroes.html#a60d99b80815a2b2626638d6410ce64a2":[6,0,640,14]
 };

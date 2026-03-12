@@ -1,5 +1,15 @@
 var NAVTREEINDEX315 =
 {
+"dc/d34/structboss__murmur.html#aab66339a7436c3c483297b25f6859558":[6,0,644,1],
+"dc/d34/structboss__murmur.html#ad89ea433764c3017a3d33b37eb9e5602":[6,0,644,0],
+"dc/d34/structboss__murmur.html#ade07217a85655a513d7a472d24589691":[6,0,644,6],
+"dc/d35/classadt__MHDR.html":[6,0,142],
+"dc/d35/classadt__MHDR.html#a04fe5874241fd7b868f1d3f5caf7d257":[6,0,142,11],
+"dc/d35/classadt__MHDR.html#a0e5716fc4586c41f07103baa84c67388":[6,0,142,19],
+"dc/d35/classadt__MHDR.html#a1996770c42791100aa0cbef91c78fcd2":[6,0,142,5],
+"dc/d35/classadt__MHDR.html#a23b9fac4ccbdcae862135fa3cbe3061d":[6,0,142,22],
+"dc/d35/classadt__MHDR.html#a28a247f0addfd93d3eeed190516e515a":[6,0,142,1],
+"dc/d35/classadt__MHDR.html#a4936a7d0e5ad64f4f75f6550418f80e6":[6,0,142,6],
 "dc/d35/classadt__MHDR.html#a5014297529c070757b1a3672f679b83f":[6,0,142,0],
 "dc/d35/classadt__MHDR.html#a5d1b23b9a55361516d4dedbef5886d52":[6,0,142,9],
 "dc/d35/classadt__MHDR.html#a62270e73c2fd69dcfd38a4073de20fbc":[6,0,142,12],
@@ -239,15 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html":[6,0,1321,0],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a01d69e135cbd2dd885dfc84c98ed8be1":[6,0,1321,0,6],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a095202af8915f8a1d8888c045e18d6c4":[6,0,1321,0,4],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a775c7d564b931e157a32b0909efed859":[6,0,1321,0,1],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8b8bca7a1d7880bc53b8002934ceeb7a":[6,0,1321,0,2],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8cd5bf5302b1a7221c69dd9fdc9518dc":[6,0,1321,0,5],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1321,0,0],
-"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1321,0,3],
-"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,4],
-"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,715],
-"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,715,2],
-"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,715,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3173],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3173,3]
+"dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a775c7d564b931e157a32b0909efed859":[6,0,1321,0,1]
 };

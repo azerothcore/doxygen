@@ -1,5 +1,15 @@
 var NAVTREEINDEX259 =
 {
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ac7186261b11b30b5a0dd58ff23a418":[7,0,0,0,1,2,41,0,0,6,165],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5b09d71c8d286bff5c7cfd7ccec9a5f3":[7,0,0,0,1,2,41,0,0,6,176],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5bab152ed590ff92beb4b2424605e51a":[7,0,0,0,1,2,41,0,0,6,121],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5c0332bede12de9c3d9f85274376a7c1":[7,0,0,0,1,2,41,0,0,6,35],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5c3f71de1a6a2f4ee76468303a123e2b":[7,0,0,0,1,2,41,0,0,6,171],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5d113c39c499d21187268b3f0200371c":[7,0,0,0,1,2,41,0,0,6,143],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5e6639ac0ff61c39893a68ee3e750e5b":[7,0,0,0,1,2,41,0,0,6,68],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5ea9211c39ddc18059dd17b3e675c0ee":[7,0,0,0,1,2,41,0,0,6,301],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5f9221ad5292d1442ce0d4a748c820f3":[7,0,0,0,1,2,41,0,0,6,57],
+"da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a5fea715473ab185848b45de1ec1b6c63":[7,0,0,0,1,2,41,0,0,6,189],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600ad2316202aec206facbfa746a136b":[7,0,0,0,1,2,41,0,0,6,18],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a600cd4f45aacef7c9309066ab76e877a":[7,0,0,0,1,2,41,0,0,6,46],
 "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a60e00cb4b8d4e07009f51480d25d7bfb":[7,0,0,0,1,2,41,0,0,6,210],
@@ -239,15 +249,5 @@ var NAVTREEINDEX259 =
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a4908c5c3e6afdf0305dfb4729cfba503":[6,0,2947,3],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#a8d863af82300eacc1456a08f8461d5a7":[6,0,2947,1],
 "da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa41bba6ce2889eb2a58409b611f53e49":[6,0,2947,0],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa873d0475c70db5c5ba9cea802dc3569":[6,0,2947,6],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#ae60a5c2918105785805dc45b3942ee4a":[6,0,2947,7],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aebeee23df951737b99e7a4ab026cbb1b":[6,0,2947,4],
-"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#af04b38478379a10c5d94a7e4216ad9fa":[6,0,2947,2],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html":[6,0,1945,0],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a10ecf7bf7551be186e1c00390eaad203":[6,0,1945,0,5],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a36324482fb264cc3cacf11c3ed542eee":[6,0,1945,0,2],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a410c84a1fcf50b50e6ebc340c1b58939":[6,0,1945,0,1],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a456ee6f4b5b8cdd79647a42185265be8":[6,0,1945,0,3],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a621d4db4fac3a7c3d08defa2a8ed06d0":[6,0,1945,0,7],
-"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#aa125ab2a33dbf9f1d40f238e7d45000d":[6,0,1945,0,9]
+"da/d2e/classspell__eredar__twins__handle__touch__periodic.html#aa873d0475c70db5c5ba9cea802dc3569":[6,0,2947,6]
 };

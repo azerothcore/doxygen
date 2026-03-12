@@ -1,5 +1,9 @@
 var NAVTREEINDEX191 =
 {
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab3351ba394a1714092e03cc819f6343d":[7,0,0,0,1,3,2,1,3,9,4,3],
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acebc7ccb891364a3963896b971f23eb7":[7,0,0,0,1,3,2,1,3,9,4,0],
+"d7/d22/classGossipMenu.html":[6,0,1227],
+"d7/d22/classGossipMenu.html#a02393cb3a0a3b9cf3ccfc788479bd1ca":[6,0,1227,6],
 "d7/d22/classGossipMenu.html#a0dd173ce7a9995c9bac5080e53d78b07":[6,0,1227,18],
 "d7/d22/classGossipMenu.html#a143ee125ba5709c1a3f5fb75fb9ade1c":[6,0,1227,12],
 "d7/d22/classGossipMenu.html#a258217dfb85114323231ded153b0099d":[6,0,1227,23],
@@ -191,18 +195,18 @@ var NAVTREEINDEX191 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[7,0,0,0,1,3,2,1,0,1,4,14],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,12,6,47],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,12,6,47,3],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[6,0,12,6,47,7],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[6,0,12,6,47,4],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a24dde2aa8dd0ae1b9e8b37317334e0d4":[5,0,34,6,47,4],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,12,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[5,0,34,6,47,1],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a534550862a3c634697e8277f31ad4c25":[6,0,12,6,47,1],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[6,0,12,6,47,0],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a8b3fd3e4da77c6fb70db28721ec46714":[5,0,34,6,47,0],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,12,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[5,0,34,6,47,6],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c":[6,0,12,6,47,6],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[5,0,34,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#adea48131efa7c05b84c4de596933bfbe":[6,0,12,6,47,2],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#af19e6fd8ddfe980f8c1f1110e9332bad":[6,0,12,6,47,5],
@@ -245,9 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d27/structboss__kologarn.html#a6638cf2efb62d2a2b861e78e360554f3":[6,0,588,9],
 "d7/d27/structboss__kologarn.html#a74183a296b722f14ff6d06751733f425":[6,0,588,1],
 "d7/d27/structboss__kologarn.html#a785ca1b78ef1c04b3c1d5f0b243b99d9":[6,0,588,0],
-"d7/d27/structboss__kologarn.html#a78f85fbbf7da9a6b8dd78859ec727bf5":[6,0,588,4],
-"d7/d27/structboss__kologarn.html#a87285d89c60ad61b76805e7bef75c55f":[6,0,588,3],
-"d7/d27/structboss__kologarn.html#a955364165d45784ca506bf77d8ab7e7c":[6,0,588,19],
-"d7/d27/structboss__kologarn.html#ab6daf2bc1350574ca3d96864fbac298a":[6,0,588,2],
-"d7/d27/structboss__kologarn.html#ac311a3c891f723d82c6c848675b27c4e":[6,0,588,11]
+"d7/d27/structboss__kologarn.html#a78f85fbbf7da9a6b8dd78859ec727bf5":[6,0,588,4]
 };

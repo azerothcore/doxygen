@@ -1,5 +1,15 @@
 var NAVTREEINDEX374 =
 {
+"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#a1b5999f392cec9fea4431c3f746ee034":[6,0,2693,0],
+"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#a4748a82fcc7b3794850461092ee6b2e4":[6,0,2693,1],
+"de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html#acfa32dfc22778576d0dd3096c456ebe0":[6,0,2693,2],
+"de/d52/structboss__malygos.html":[6,0,624],
+"de/d52/structboss__malygos.html#a0b2603b3691b4961977acbc593202306":[6,0,624,12],
+"de/d52/structboss__malygos.html#a110748ba104014f161c8bb51bb6ba566":[6,0,624,7],
+"de/d52/structboss__malygos.html#a1a838052f9465530a586132a24c7ec5b":[6,0,624,15],
+"de/d52/structboss__malygos.html#a28a85c719c91835b5f6f52d267990c0c":[6,0,624,2],
+"de/d52/structboss__malygos.html#a53c5686a8cf473d8ed1569890bdf70a5":[6,0,624,3],
+"de/d52/structboss__malygos.html#a549d5333ad95dfe7ef55a7bfbdc93899":[6,0,624,5],
 "de/d52/structboss__malygos.html#a597f5291a656746becdb058c538cff89":[6,0,624,6],
 "de/d52/structboss__malygos.html#a5cccd64acbf07ab2cbd5650feb2bb115":[6,0,624,19],
 "de/d52/structboss__malygos.html#a648e2f73ffead8912659bc342ec70774":[6,0,624,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX374 =
 "de/d5e/classGridTerrainData.html#a28f80f4acdb72dd9641a261178df0859":[6,0,1245,14],
 "de/d5e/classGridTerrainData.html#a2e3b2ea01f5ce3f93944529d73fa70de":[6,0,1245,10],
 "de/d5e/classGridTerrainData.html#a347927f9d7df887b2a6fd89d841e004c":[6,0,1245,0],
-"de/d5e/classGridTerrainData.html#a3d72914b55d6c6413ade869503b259cc":[6,0,1245,22],
-"de/d5e/classGridTerrainData.html#a421f20b133fab6afa2295de1ebe5b51a":[6,0,1245,21],
-"de/d5e/classGridTerrainData.html#a43b34255bd40b0824ad161bd40c8a5ec":[6,0,1245,6],
-"de/d5e/classGridTerrainData.html#a4ae5997baa9f9905cf13a3a214781df9":[6,0,1245,7],
-"de/d5e/classGridTerrainData.html#a6d4887b105ac3c7f6c49ef0d92a33780":[6,0,1245,19],
-"de/d5e/classGridTerrainData.html#a7380c5dbf731134733b87cab470603a4":[6,0,1245,2],
-"de/d5e/classGridTerrainData.html#a938710a8304ef342373d41581018c623":[6,0,1245,3],
-"de/d5e/classGridTerrainData.html#ab39ef52957f9c1ece42c3fc11893a3fc":[6,0,1245,11],
-"de/d5e/classGridTerrainData.html#abdf3da449ed62b2d7a54547178d21110":[6,0,1245,12],
-"de/d5e/classGridTerrainData.html#ac3dc194ca16a7e9b604b2c2d14c478d8":[6,0,1245,17],
-"de/d5e/classGridTerrainData.html#acacaa661126e761a863b5490a3e78e73":[6,0,1245,13]
+"de/d5e/classGridTerrainData.html#a3d72914b55d6c6413ade869503b259cc":[6,0,1245,22]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX324 =
 {
+"dc/db2/classspell__calling__korkron__or__wildhammer.html":[6,0,2738],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a0deddf7497d3bdb82901d612dce28dc9":[6,0,2738,1],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[6,0,2738,2],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2738,0],
+"dc/db3/boss__archimonde_8cpp.html":[7,0,0,0,1,3,4,1,0,1],
+"dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[7,0,0,0,1,3,4,1,0,1,10],
+"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[7,0,0,0,1,3,4,1,0,1,12],
+"dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[7,0,0,0,1,3,4,1,0,1,11],
+"dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[7,0,0,0,1,3,4,1,0,1,15],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0":[7,0,0,0,1,3,4,1,0,1,5],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0b9fc9a91d0ecbb9f26e41495f727b76":[7,0,0,0,1,3,4,1,0,1,5,3],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0db281a1e681866a39bca35ce98dab32":[7,0,0,0,1,3,4,1,0,1,5,16],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a131160f2bc14eeba884641435ee938ad":[7,0,0,0,1,3,4,1,0,1,5,12],
@@ -239,15 +249,5 @@ var NAVTREEINDEX324 =
 "dc/dbd/instance__onyxias__lair_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,4,4,1,3],
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html":[6,0,2724],
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html#a0fa160f1218cf838444f894716cb8aed":[6,0,2724,1],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a2a6816d9ab97abddfa20cd6413a94178":[6,0,2724,2],
-"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a71f8c9bad4a102914a1047ef61d20f92":[6,0,2724,0],
-"dc/dbf/structboss__priestess__lackey__commonAI.html":[6,0,671],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a23aaa0a619470898dd617a18130ca17b":[6,0,671,7],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[6,0,671,11],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2e0e387ae4645c9bbd4625d1469403a8":[6,0,671,3],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a498ef73fcc7995113318c5f0b6efa23e":[6,0,671,13],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7":[6,0,671,5],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a6056ef3425f39208e5731b25fc94a335":[6,0,671,1],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a6935410d7a4ce8e9dec9feed9f5351d7":[6,0,671,2],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[6,0,671,8]
+"dc/dbf/classspell__brewfest__relay__race__force__cast.html#a2a6816d9ab97abddfa20cd6413a94178":[6,0,2724,2]
 };

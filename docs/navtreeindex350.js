@@ -1,5 +1,15 @@
 var NAVTREEINDEX350 =
 {
+"dd/ddb/class__SpellScript.html":[6,0,17],
+"dd/ddb/class__SpellScript.html#a0ee15cbc62cccd346ce148c6acbe96f9":[6,0,17,17],
+"dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[6,0,17,3],
+"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[6,0,17,19],
+"dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[6,0,17,18],
+"dd/ddb/class__SpellScript.html#a423786f1fc45a010a4ebc16db2645a1f":[6,0,17,10],
+"dd/ddb/class__SpellScript.html#a6a2621e4aeda24af6ec55b9a8c461262":[6,0,17,4],
+"dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df":[6,0,17,8],
+"dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e":[6,0,17,15],
+"dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159":[6,0,17,16],
 "dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1":[6,0,17,13],
 "dd/ddb/class__SpellScript.html#abb223d1713d7594bf4dfd1fc7c0dc5d5":[6,0,17,11],
 "dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443":[6,0,17,12],
@@ -239,15 +249,5 @@ var NAVTREEINDEX350 =
 "dd/dec/classChannelMgr.html#a4e153c81aede8182160b0a5ab89e5b4b":[6,0,863,1],
 "dd/dec/classChannelMgr.html#a4fa043d2c61f5013d62b192d46bd453a":[6,0,863,8],
 "dd/dec/classChannelMgr.html#a5cc03c09dfc33a89d3d4f59d1e92d757":[6,0,863,6],
-"dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401":[6,0,863,4],
-"dd/dec/classChannelMgr.html#a73e822c758aacb7f959407b100b9aff6":[6,0,863,9],
-"dd/dec/classChannelMgr.html#a823810bd463e51a0fb007712717f13dd":[6,0,863,15],
-"dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5":[6,0,863,0],
-"dd/dec/classChannelMgr.html#a89dbd4095eeeb79ae59947beb2d2cd17":[6,0,863,5],
-"dd/dec/classChannelMgr.html#a92540d37b38ccc032665fa220349a4ec":[6,0,863,7],
-"dd/dec/classChannelMgr.html#aa671334be6933f374466666ec5c6cc46":[6,0,863,2],
-"dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f":[6,0,863,16],
-"dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5":[6,0,863,10],
-"dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9":[6,0,863,14],
-"dd/ded/classat__karazhan__side__entrance.html":[6,0,237]
+"dd/dec/classChannelMgr.html#a62fd837572c3c88d8848115c98587401":[6,0,863,4]
 };

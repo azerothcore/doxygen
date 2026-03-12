@@ -1,5 +1,15 @@
 var NAVTREEINDEX384 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a06516d8acac42f9635bcabca9885b4de":[7,0,0,0,1,3,5,18,51,26],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a12b3ad955ab13fdd3aa52c96bcd70b58":[7,0,0,0,1,3,5,18,51,33],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a202971ea23fa079e19418d08fb0e96c9":[7,0,0,0,1,3,5,18,51,7],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a2f68edbc1e38872baadd78ea56f7cde2":[7,0,0,0,1,3,5,18,51,16],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a34dde365d2e77c893549436104e9042e":[7,0,0,0,1,3,5,18,51,0],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a35a71bb9820f5dfc53fb19b40e777714":[7,0,0,0,1,3,5,18,51,8],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a465ed6831f5cbb7a46acc646867a4418":[7,0,0,0,1,3,5,18,51,17],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a49d6cee12d60b301c2d1486de834b5c7":[7,0,0,0,1,3,5,18,51,1],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a52392614bdbb88305c4cfea368c9a8a2":[7,0,0,0,1,3,5,18,51,21],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,51,29],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,51,20],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,51,13],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a6e32f2d5d60dd665537583376cd6fb8a":[7,0,0,0,1,3,5,18,51,14],
@@ -239,15 +249,5 @@ var NAVTREEINDEX384 =
 "de/daf/classspell__warr__heroic__strike.html#a1742dc0c039f7f981cae8114ff9ae59a":[6,0,4307,2],
 "de/daf/classspell__warr__heroic__strike.html#a32a6f464057fbfb3bbffe0e10d1d4141":[6,0,4307,0],
 "de/daf/classspell__warr__heroic__strike.html#adfa4da76e8c2486fbcc2b3bea0f50005":[6,0,4307,1],
-"de/db0/classnpc__xerestrasza.html":[6,0,2314],
-"de/db0/classnpc__xerestrasza.html#a49023756b5dab130e4ffd7e62fa80ce4":[6,0,2314,1],
-"de/db0/classnpc__xerestrasza.html#a5e0ede0054969d4787db56781dc55846":[6,0,2314,2],
-"de/db0/classspell__mage__ice__block.html":[6,0,3594],
-"de/db0/classspell__mage__ice__block.html#a1f0cef532c2bd13d94e647722f85457a":[6,0,3594,3],
-"de/db0/classspell__mage__ice__block.html#a71d397da4a4804cf6023806c15e8bedf":[6,0,3594,1],
-"de/db0/classspell__mage__ice__block.html#ade3a3f956ae8be922bd1d2204919d360":[6,0,3594,0],
-"de/db0/classspell__mage__ice__block.html#af40f92afae93778e477c50ddf18c8adc":[6,0,3594,2],
-"de/db0/classspell__warl__siphon__life.html":[6,0,4288],
-"de/db0/classspell__warl__siphon__life.html#a19e8f1b9aab5ee4e718b304c87303627":[6,0,4288,4],
-"de/db0/classspell__warl__siphon__life.html#a33381b811abcd52f7a57e0f62fa73e5f":[6,0,4288,2]
+"de/db0/classnpc__xerestrasza.html":[6,0,2314]
 };

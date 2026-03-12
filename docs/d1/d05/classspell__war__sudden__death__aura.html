@@ -336,15 +336,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  976</span>    {</div>
-<div class="line"><span class="lineno">  977</span>        <span class="comment">// Check PROC_SPELL_PHASE_FINISH only for Execute</span></div>
-<div class="line"><span class="lineno">  978</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>() != <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
-<div class="line"><span class="lineno">  979</span>            <span class="keywordflow">return</span> isTriggeredAtSpellProcEvent;</div>
-<div class="line"><span class="lineno">  980</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a> <span class="keyword">const</span>* procSpell = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">GetProcSpell</a>())</div>
-<div class="line"><span class="lineno">  981</span>            <span class="keywordflow">if</span> (procSpell-&gt;GetSpellInfo()-&gt;GetFirstRankSpell()-&gt;Id == <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a45645b8c6183c408e301ae1e2da60fad">SPELL_WARRIOR_EXECUTE_R1</a>)</div>
-<div class="line"><span class="lineno">  982</span>                <span class="keywordflow">return</span> isTriggeredAtSpellProcEvent;</div>
-<div class="line"><span class="lineno">  983</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  984</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  980</span>    {</div>
+<div class="line"><span class="lineno">  981</span>        <span class="comment">// Check PROC_SPELL_PHASE_FINISH only for Execute</span></div>
+<div class="line"><span class="lineno">  982</span>        <span class="keywordflow">if</span> (eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">GetSpellPhaseMask</a>() != <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">  983</span>            <span class="keywordflow">return</span> isTriggeredAtSpellProcEvent;</div>
+<div class="line"><span class="lineno">  984</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/d16/classSpell.html">Spell</a> <span class="keyword">const</span>* procSpell = eventInfo.<a class="code hl_function" href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">GetProcSpell</a>())</div>
+<div class="line"><span class="lineno">  985</span>            <span class="keywordflow">if</span> (procSpell-&gt;GetSpellInfo()-&gt;GetFirstRankSpell()-&gt;Id == <a class="code hl_enumvalue" href="../../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768a45645b8c6183c408e301ae1e2da60fad">SPELL_WARRIOR_EXECUTE_R1</a>)</div>
+<div class="line"><span class="lineno">  986</span>                <span class="keywordflow">return</span> isTriggeredAtSpellProcEvent;</div>
+<div class="line"><span class="lineno">  987</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  988</span>    }</div>
 <div class="ttc" id="aSpellMgr_8h_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition</b> SpellMgr.h:247</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_a4fc02fb30c7c964a4fa804e69c47c9a2"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#a4fc02fb30c7c964a4fa804e69c47c9a2">ProcEventInfo::GetProcSpell</a></div><div class="ttdeci">Spell const * GetProcSpell() const</div><div class="ttdef"><b>Definition</b> Unit.h:469</div></div>
 <div class="ttc" id="aclassProcEventInfo_html_ab3b2d919ecc5f4bfd15e3656a6990708"><div class="ttname"><a href="../../d0/dde/classProcEventInfo.html#ab3b2d919ecc5f4bfd15e3656a6990708">ProcEventInfo::GetSpellPhaseMask</a></div><div class="ttdeci">uint32 GetSpellPhaseMask() const</div><div class="ttdef"><b>Definition</b> Unit.h:465</div></div>
@@ -353,7 +353,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00469">ProcEventInfo::GetProcSpell()</a>, <a class="el" href="../../#l00465">ProcEventInfo::GetSpellPhaseMask()</a>, <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>, and <a class="el" href="../../#l00064">SPELL_WARRIOR_EXECUTE_R1</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00986">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00990">Register()</a>.</p>
 
 </div>
 </div>
@@ -411,14 +411,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  987</span>    {</div>
-<div class="line"><span class="lineno">  988</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">DoAfterCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a>(<a class="code hl_function" href="../../d1/d05/classspell__war__sudden__death__aura.html#a947c7b94512fbfdd8b51cfa8044d2e6c">spell_war_sudden_death_aura::AfterCheckProc</a>);</div>
-<div class="line"><span class="lineno">  989</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  991</span>    {</div>
+<div class="line"><span class="lineno">  992</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">DoAfterCheckProc</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a>(<a class="code hl_function" href="../../d1/d05/classspell__war__sudden__death__aura.html#a947c7b94512fbfdd8b51cfa8044d2e6c">spell_war_sudden_death_aura::AfterCheckProc</a>);</div>
+<div class="line"><span class="lineno">  993</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ae0687be1e7030c249fe64a34fac8fe6d"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ae0687be1e7030c249fe64a34fac8fe6d">AuraAfterCheckProcFn</a></div><div class="ttdeci">#define AuraAfterCheckProcFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:841</div></div>
 <div class="ttc" id="aclassAuraScript_html_a863736f1713d88c9bcf0eb552c2aebd4"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4">AuraScript::DoAfterCheckProc</a></div><div class="ttdeci">HookList&lt; AfterCheckProcHandler &gt; DoAfterCheckProc</div><div class="ttdef"><b>Definition</b> SpellScript.h:840</div></div>
-<div class="ttc" id="aclassspell__war__sudden__death__aura_html_a947c7b94512fbfdd8b51cfa8044d2e6c"><div class="ttname"><a href="../../d1/d05/classspell__war__sudden__death__aura.html#a947c7b94512fbfdd8b51cfa8044d2e6c">spell_war_sudden_death_aura::AfterCheckProc</a></div><div class="ttdeci">bool AfterCheckProc(ProcEventInfo &amp;eventInfo, bool isTriggeredAtSpellProcEvent)</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:975</div></div>
+<div class="ttc" id="aclassspell__war__sudden__death__aura_html_a947c7b94512fbfdd8b51cfa8044d2e6c"><div class="ttname"><a href="../../d1/d05/classspell__war__sudden__death__aura.html#a947c7b94512fbfdd8b51cfa8044d2e6c">spell_war_sudden_death_aura::AfterCheckProc</a></div><div class="ttdeci">bool AfterCheckProc(ProcEventInfo &amp;eventInfo, bool isTriggeredAtSpellProcEvent)</div><div class="ttdef"><b>Definition</b> spell_warrior.cpp:979</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00975">AfterCheckProc()</a>, <a class="el" href="../../#l00841">AuraAfterCheckProcFn</a>, and <a class="el" href="../../#l00840">AuraScript::DoAfterCheckProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00979">AfterCheckProc()</a>, <a class="el" href="../../#l00841">AuraAfterCheckProcFn</a>, and <a class="el" href="../../#l00840">AuraScript::DoAfterCheckProc</a>.</p>
 
 </div>
 </div>
@@ -431,7 +431,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d05/classspell__war__sudden__death__aura.html">spell_war_sudden_death_aura</a></li>
-    <li class="footer">Generated on Wed Mar 11 2026 06:47:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Mar 12 2026 06:50:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

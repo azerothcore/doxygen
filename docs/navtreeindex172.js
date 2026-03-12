@@ -1,5 +1,9 @@
 var NAVTREEINDEX172 =
 {
+"d6/d38/classAchievementGlobalMgr.html#a05890722918305e7142c6d717a37c868":[6,0,118,2],
+"d6/d38/classAchievementGlobalMgr.html#a0d2613ae8ba43b8b6b0820f10e8a2c42":[6,0,118,11],
+"d6/d38/classAchievementGlobalMgr.html#a1cf68ed7afb929d4963b9b381ca813bd":[6,0,118,13],
+"d6/d38/classAchievementGlobalMgr.html#a1dc84c9b8243eb9bc8626e63fb421023":[6,0,118,22],
 "d6/d38/classAchievementGlobalMgr.html#a1ef8eb6c302f0d5deb887f9b03b1ea4a":[6,0,118,24],
 "d6/d38/classAchievementGlobalMgr.html#a29193ffa36b0698e365d57b25dbcafb9":[6,0,118,10],
 "d6/d38/classAchievementGlobalMgr.html#a2b4dc8e045dd563567a55570e37b86fb":[6,0,118,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d39/classWorld.html#af27489b9c412e1b060ac4b20ec652e50":[4,2,11,62],
 "d6/d39/classWorld.html#af2dc81f0cf0d4186c8c92fe79ed27a64":[4,2,11,21],
 "d6/d39/classWorld.html#af316951a4fad8be6307b10bd5b5cbc72":[4,2,11,17],
-"d6/d39/classWorld.html#afa39d4e6f714a7a3691ac0c656f5e8a8":[4,2,11,0],
-"d6/d39/classWorld.html#afcff4834a924e6d6ec051052b707acc7":[4,2,11,84],
-"d6/d39/classWorld.html#afef544af0f989b2d3ea975f22d02fb46":[4,2,11,56],
-"d6/d39/classspell__karathress__power__of__caribdis.html":[6,0,3512],
-"d6/d39/classspell__karathress__power__of__caribdis.html#a4d3d6350a06b6c7382792670c04e38e1":[6,0,3512,0]
+"d6/d39/classWorld.html#afa39d4e6f714a7a3691ac0c656f5e8a8":[4,2,11,0]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX337 =
 {
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ad7185292820feb168565648133c9e2cc":[6,0,4038,4],
+"dd/d4d/classspell__sha__feral__spirit__scaling.html#ae2bca6c841d1ba02a8a39b1a2179ac97":[6,0,4038,6],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html":[6,0,566,0],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a38e308b66b0f35d3efe6916b03e4391c":[6,0,566,0,5],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a6d60480e39fa89dbcc0facce9f0b69a3":[6,0,566,0,1],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a7880ea86e7a03f5b14875065a83a206a":[6,0,566,0,0],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#a878635ef0673325943e6026ad76c2b06":[6,0,566,0,2],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696":[6,0,566,0,6],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#ab33aa7e735c5837428a4cf2b76e4275e":[6,0,566,0,4],
+"dd/d4d/structboss__isle__of__conquest_1_1boss__isle__of__conquestAI.html#add59669e5f6c3c882ac008c720349573":[6,0,566,0,3],
 "dd/d4e/classspell__rog__blade__flurry.html":[6,0,3967],
 "dd/d4e/classspell__rog__blade__flurry.html#a13976d069846f29d2f744f3f03502787":[6,0,3967,6],
 "dd/d4e/classspell__rog__blade__flurry.html#a291fcf1af497d1e83a31209cd01a360d":[6,0,3967,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX337 =
 "dd/d5a/structBfWGGameObjectBuilding.html#aa503519e630d9b12db5a2d42667dd757":[6,0,361,9],
 "dd/d5a/structBfWGGameObjectBuilding.html#ab2f22ba682800ff54f961b2343770907":[6,0,361,5],
 "dd/d5a/structBfWGGameObjectBuilding.html#aba34ec3fca7faafd5f6dbd51bd03daf5":[6,0,361,16],
-"dd/d5a/structBfWGGameObjectBuilding.html#ac66ae383f2029fe0b0190f1a6beb935c":[6,0,361,12],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae40fdca69431e761daad935cf8130df3":[6,0,361,6],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae48e5946636b67fea33a6313329b4725":[6,0,361,8],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae770e04de54fd1a425a78bb30f57d02e":[6,0,361,18],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae963cc5bd41ff4cd6ce08f6abbaf98af":[6,0,361,4],
-"dd/d5a/structBfWGGameObjectBuilding.html#ae9da48817573f5fb94c31a347e228588":[6,0,361,11],
-"dd/d5b/World_8h.html":[4,2,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[5,0,1,0,1],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html":[6,0,0,0,0],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[6,0,0,0,0,5],
-"dd/d5b/classAcore_1_1Asio_1_1IoContext.html#a086cd2ed56d61cf1ec0dbfdec16c50fe":[5,0,1,0,1,5]
+"dd/d5a/structBfWGGameObjectBuilding.html#ac66ae383f2029fe0b0190f1a6beb935c":[6,0,361,12]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX351 =
 {
+"dd/dec/classChannelMgr.html#a73e822c758aacb7f959407b100b9aff6":[6,0,863,9],
+"dd/dec/classChannelMgr.html#a823810bd463e51a0fb007712717f13dd":[6,0,863,15],
+"dd/dec/classChannelMgr.html#a84c686f095464d67f750309244a47ba5":[6,0,863,0],
+"dd/dec/classChannelMgr.html#a89dbd4095eeeb79ae59947beb2d2cd17":[6,0,863,5],
+"dd/dec/classChannelMgr.html#a92540d37b38ccc032665fa220349a4ec":[6,0,863,7],
+"dd/dec/classChannelMgr.html#aa671334be6933f374466666ec5c6cc46":[6,0,863,2],
+"dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f":[6,0,863,16],
+"dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5":[6,0,863,10],
+"dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9":[6,0,863,14],
+"dd/ded/classat__karazhan__side__entrance.html":[6,0,237],
 "dd/ded/classat__karazhan__side__entrance.html#a80d0018a9442ef7f0834dc329047e135":[6,0,237,1],
 "dd/ded/classat__karazhan__side__entrance.html#abdaa7339a53941e2e89c4fcd439395fc":[6,0,237,0],
 "dd/ded/classspell__item__goblin__weather__machine__aura.html":[6,0,3386],
@@ -239,15 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab33d820d98797835fcb46449daf38223":[7,0,0,0,1,3,5,10,1,3,4,20],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac648beb61bb04b9ac3a2dd037f1b55d6":[7,0,0,0,1,3,5,10,1,3,4,19],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad25980d921193f49d265ab7cdc25d162":[7,0,0,0,1,3,5,10,1,3,4,7],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad2dd30eb9b2f59ea3831da53267d4941":[7,0,0,0,1,3,5,10,1,3,4,4],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aea82b49c8cb6517b9907d00d994f4701":[7,0,0,0,1,3,5,10,1,3,4,25],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aff87b7b2ae3e43713ebfdc0d833eb711":[7,0,0,0,1,3,5,10,1,3,4,9],
-"dd/dfd/boss__ymiron_8cpp.html#a355ad2d8907e4053f3d0021f0f9f6476":[7,0,0,0,1,3,5,10,1,3,5],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,3,3],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2c42690b871b8fd8d191648269062827":[7,0,0,0,1,3,5,10,1,3,3,6],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2e2e169c70137b524d22e57398d5a7d3":[7,0,0,0,1,3,5,10,1,3,3,5],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f77cef4543ef2ad786d84774b06bde8":[7,0,0,0,1,3,5,10,1,3,3,8],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a362947cb90c81d47035df5c90f43acff":[7,0,0,0,1,3,5,10,1,3,3,2],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a508e0829b66ba80c2989a1e6a15342f2":[7,0,0,0,1,3,5,10,1,3,3,9],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6743bbc050e771eef1184f59ed86ebb6":[7,0,0,0,1,3,5,10,1,3,3,1]
+"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad2dd30eb9b2f59ea3831da53267d4941":[7,0,0,0,1,3,5,10,1,3,4,4]
 };

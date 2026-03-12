@@ -1,5 +1,15 @@
 var NAVTREEINDEX243 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11":[7,0,0,0,1,3,5,6,13,4],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a02d88d456fc820130ad8bd6803f289ae":[7,0,0,0,1,3,5,6,13,4,3],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a08bb47796001cc63db5d6f1d8b3af5d0":[7,0,0,0,1,3,5,6,13,4,0],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a0b5860c76ec8da2c5420f62673277098":[7,0,0,0,1,3,5,6,13,4,10],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a0ef8e81ae8485cd822f3cf45250671c1":[7,0,0,0,1,3,5,6,13,4,1],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a3019da6347d1347944026c2f27676da6":[7,0,0,0,1,3,5,6,13,4,2],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a4fbad99c5a8c53dc7ec76f285a13e149":[7,0,0,0,1,3,5,6,13,4,6],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a62c29436f7d1aef088d458e74ba14f55":[7,0,0,0,1,3,5,6,13,4,8],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a694cfa84e1dd474b9d48b94bf3ce59b2":[7,0,0,0,1,3,5,6,13,4,9],
+"d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a779bcefcd63742e6174041d35f5389fb":[7,0,0,0,1,3,5,6,13,4,11],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a7e97aa2d3cc81d4b2eb14953ca0f1cd7":[7,0,0,0,1,3,5,6,13,4,15],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a9b80ab7c10a65f2986e785c042761b9c":[7,0,0,0,1,3,5,6,13,4,4],
 "d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a9c842791ca03c53cb3f54b089fce41be":[7,0,0,0,1,3,5,6,13,4,7],
@@ -239,15 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d6e/classSmartWaypointMgr.html#ac22c9bc98be18bb4ffa051387dd844e1":[6,0,2608,5],
 "d9/d6e/classSmartWaypointMgr.html#ac833faad34e77a7b9e5a7b0c46fe8394":[6,0,2608,2],
 "d9/d6e/classSmartWaypointMgr.html#ad9168edcc4fd16260178d4a9277f71ba":[6,0,2608,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html":[5,0,18,16],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[5,0,18,16,1],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a1e6c1deaf47dc835bbab7a1741a57fe2":[6,0,5,16,1],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[5,0,18,16,4],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[6,0,5,16,0],
-"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[6,0,5,16,2]
+"d9/d6e/structlfg_1_1LfgRoleCheck.html":[6,0,5,16]
 };

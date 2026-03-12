@@ -141,11 +141,12 @@ var NAVTREEINDEX116 =
 "d3/de1/boss__kologarn_8cpp.html#aeaf2bb87fe7872c5637aba7c4810330eafc96d1d67df48b01f8de5fc556d145a5":[7,0,0,0,1,3,5,9,2,8,17,5],
 "d3/de2/classbf__commandscript.html":[6,0,356],
 "d3/de2/classbf__commandscript.html#a08dd3bdd279c760fe0f126200a01619e":[6,0,356,2],
-"d3/de2/classbf__commandscript.html#a55102cc3b29a3ded0832ec82be1e3a5e":[6,0,356,4],
-"d3/de2/classbf__commandscript.html#a7168b3db9435d70e2c5ca5eb41fc8ef2":[6,0,356,6],
+"d3/de2/classbf__commandscript.html#a23f6e8d14c511f3e9c3c070be14477e4":[6,0,356,4],
+"d3/de2/classbf__commandscript.html#a55102cc3b29a3ded0832ec82be1e3a5e":[6,0,356,5],
+"d3/de2/classbf__commandscript.html#a7168b3db9435d70e2c5ca5eb41fc8ef2":[6,0,356,7],
 "d3/de2/classbf__commandscript.html#a806ca440ae1b51fffefee9d298dab3df":[6,0,356,0],
 "d3/de2/classbf__commandscript.html#a97f0192d7ccd3532cfceaebff9f242be":[6,0,356,1],
-"d3/de2/classbf__commandscript.html#ac12cac377007d90b25b9797f2b2cc8de":[6,0,356,5],
+"d3/de2/classbf__commandscript.html#ac12cac377007d90b25b9797f2b2cc8de":[6,0,356,6],
 "d3/de2/classbf__commandscript.html#af7100032ad26a66fbc9d9b37d1da98e1":[6,0,356,3],
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html":[6,0,3764],
 "d3/de2/classspell__pet__spellhit__expertise__spellpen__scaling.html#a11f2c759a5587eb865560eceff5b8414":[6,0,3764,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX116 =
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca08c41693f8afe1222d96cd6c7b7d8a5d":[7,0,0,0,1,3,3,4,22,22],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca0a789f86d5fa91841d3dda4140dc3d8d":[7,0,0,0,1,3,3,4,22,5],
 "d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca0f4889bc683086c80b9b46ff472efdae":[7,0,0,0,1,3,3,4,22,32],
-"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca108707b5ed70718a2be6322e7b3600df":[7,0,0,0,1,3,3,4,22,31],
-"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca17744a5a7b9b550ff4be6d202f80ed8f":[7,0,0,0,1,3,3,4,22,0]
+"d3/dec/hallows__end_8cpp.html#a30d4bfa88f3128cbf2103148eb02f20ca108707b5ed70718a2be6322e7b3600df":[7,0,0,0,1,3,3,4,22,31]
 };

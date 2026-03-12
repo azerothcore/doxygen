@@ -1,5 +1,15 @@
 var NAVTREEINDEX379 =
 {
+"de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2615,1],
+"de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[6,0,2615,0],
+"de/d87/structSpawnAssociation.html#a97d3cd7c2751fe85d9724ff1f808ba98":[6,0,2615,2],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[6,0,12,8,4],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[5,0,34,8,4],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[5,0,34,8,4,3],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[6,0,12,8,4,3],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[6,0,12,8,4,0],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[5,0,34,8,4,0],
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[5,0,34,8,4,2],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[6,0,12,8,4,2],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[5,0,34,8,4,4],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[6,0,12,8,4,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX379 =
 "de/d95/classTicketMgr.html#ab2adb26abcc34cec26786f9030bca6e5":[6,0,4491,12],
 "de/d95/classTicketMgr.html#ab837d31037c50df0740583ffd7165fbe":[6,0,4491,10],
 "de/d95/classTicketMgr.html#ab89b490da7ddfd888b36f4ec0beced36":[6,0,4491,13],
-"de/d95/classTicketMgr.html#abd1be6074a685517dc152da7e7639f3c":[6,0,4491,6],
-"de/d95/classTicketMgr.html#ace173a347497eb6601a8c4654bdf0347":[6,0,4491,9],
-"de/d95/classTicketMgr.html#ad2bec18f0007fc2160b4899b86dcb9e9":[6,0,4491,14],
-"de/d95/classTicketMgr.html#ad9aafcc0c0211eea71ba7c69de9f9d8b":[6,0,4491,20],
-"de/d95/classTicketMgr.html#aecb8908d0ea10ab044cf969aea4d3b88":[6,0,4491,4],
-"de/d95/classTicketMgr.html#af1176e11f3cb248599a0684b8a779012":[6,0,4491,24],
-"de/d95/structAuctionHouseUsablePlayerInfo.html":[6,0,273],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a3400ad05d8423ae6878fab815521ec6f":[6,0,273,1],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a41a57c372871c84a572d2f3697cb18aa":[6,0,273,3],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a55c2ad9d1cdea4913cb35deb4adc87fd":[6,0,273,6],
-"de/d95/structAuctionHouseUsablePlayerInfo.html#a870f632b54e4638b1f5a4e93b6bd9e52":[6,0,273,4]
+"de/d95/classTicketMgr.html#abd1be6074a685517dc152da7e7639f3c":[6,0,4491,6]
 };

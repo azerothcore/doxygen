@@ -1,5 +1,15 @@
 var NAVTREEINDEX349 =
 {
+"dd/dd4/classBattlegroundEY.html#a3ec3d69561b2490b9da313ab49dfa6c6":[6,0,333,38],
+"dd/dd4/classBattlegroundEY.html#a46ec7660e3436222f3f02974ea6cbb2b":[6,0,333,24],
+"dd/dd4/classBattlegroundEY.html#a4aecc5819c764e9d8877128b4f88c5ee":[6,0,333,26],
+"dd/dd4/classBattlegroundEY.html#a57ad26ba5c2bd943b6cef0b7e1c89047":[6,0,333,20],
+"dd/dd4/classBattlegroundEY.html#a5d5bac36a19271758235be840f78e3c3":[6,0,333,17],
+"dd/dd4/classBattlegroundEY.html#a5ebf4beb2d3209a1256cc422ee3a7bd9":[6,0,333,6],
+"dd/dd4/classBattlegroundEY.html#a6794c411d4e1d70073da9c4f2a243de5":[6,0,333,42],
+"dd/dd4/classBattlegroundEY.html#a684cd0542820ac28867093c717f139b1":[6,0,333,28],
+"dd/dd4/classBattlegroundEY.html#a6f7775340f04768d873d511630a5adee":[6,0,333,16],
+"dd/dd4/classBattlegroundEY.html#a78d122110a9ab5ec21e32d8108ce6ba6":[6,0,333,4],
 "dd/dd4/classBattlegroundEY.html#a7a7fbd6c04f47a47958c6f166eb397ac":[6,0,333,36],
 "dd/dd4/classBattlegroundEY.html#a7eefcebe1a25cc10a9d8ab48c1db88a6":[6,0,333,32],
 "dd/dd4/classBattlegroundEY.html#a87e043ebb95448ad4a17bf437424b479":[6,0,333,30],
@@ -239,15 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dda/structboss__marli.html#ad6977930dac1cddd2162f7db1b239c83":[6,0,626,3],
 "dd/dda/structboss__marli.html#ada18ae0feb0c512267ec6bd83b8ac591":[6,0,626,6],
 "dd/dda/structboss__marli.html#af2b3f0e75ad60b6a9d013a3e9654021e":[6,0,626,7],
-"dd/dda/structboss__marli.html#aff86376080fdcb9773e0a4b2751d3ae6":[6,0,626,2],
-"dd/ddb/class__SpellScript.html":[6,0,17],
-"dd/ddb/class__SpellScript.html#a0ee15cbc62cccd346ce148c6acbe96f9":[6,0,17,17],
-"dd/ddb/class__SpellScript.html#a1094c9cbb65098fe0733ff54dce04388":[6,0,17,3],
-"dd/ddb/class__SpellScript.html#a38bdb79ae6d11489dd6007485c1510de":[6,0,17,19],
-"dd/ddb/class__SpellScript.html#a3f9d5cd0ea4eadbdb6a72f73875c0585":[6,0,17,18],
-"dd/ddb/class__SpellScript.html#a423786f1fc45a010a4ebc16db2645a1f":[6,0,17,10],
-"dd/ddb/class__SpellScript.html#a6a2621e4aeda24af6ec55b9a8c461262":[6,0,17,4],
-"dd/ddb/class__SpellScript.html#a6b372f003568d60066449ee58a0469df":[6,0,17,8],
-"dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e":[6,0,17,15],
-"dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159":[6,0,17,16]
+"dd/dda/structboss__marli.html#aff86376080fdcb9773e0a4b2751d3ae6":[6,0,626,2]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX320 =
 {
+"dc/d79/classSocialMgr.html":[6,0,2610],
+"dc/d79/classSocialMgr.html#a223f3d7811d8c360da7f467b70af808f":[6,0,2610,5],
+"dc/d79/classSocialMgr.html#a2b80fa18a6f1ed54fda7719867f45ebd":[6,0,2610,0],
+"dc/d79/classSocialMgr.html#a2f8a276598ad01d350aa245fcef82a7a":[6,0,2610,10],
+"dc/d79/classSocialMgr.html#a3cff8262ce10d2e8c8c38dc834230545":[6,0,2610,1],
+"dc/d79/classSocialMgr.html#a55b35ea17ebfea4ff31710186b87865f":[6,0,2610,3],
+"dc/d79/classSocialMgr.html#a7d0c4638b6fde1bf614d90492160ee55":[6,0,2610,4],
+"dc/d79/classSocialMgr.html#aab17f5c27494cfdf2b1c5d5038f446a0":[6,0,2610,6],
+"dc/d79/classSocialMgr.html#acf245ca689bd5c0efe4a791b9e0e3c5f":[6,0,2610,9],
+"dc/d79/classSocialMgr.html#aef859e6c923a6ba4bb7ac0049f17463d":[6,0,2610,2],
 "dc/d79/classSocialMgr.html#af30fe2f3223dc7ad9094e44393420d3a":[6,0,2610,7],
 "dc/d79/classSocialMgr.html#af537c83cc3d481dde68d0a60aa122289":[6,0,2610,8],
 "dc/d7a/structnpc__conversing__with__the__depths__trigger_1_1npc__conversing__with__the__depths__triggerAI.html":[6,0,1722,0],
@@ -166,8 +176,8 @@ var NAVTREEINDEX320 =
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d87/structinstance__razorfen__kraul_1_1instance__razorfen__kraul__InstanceMapScript.html":[6,0,1351,0],
 "dc/d87/structinstance__razorfen__kraul_1_1instance__razorfen__kraul__InstanceMapScript.html#a60715ab6220e798f16b16bcaa3714ad9":[6,0,1351,0,0],
 "dc/d88/classTempSummon.html":[6,0,4479],
-"dc/d88/classTempSummon.html#a0861c8d9d39586690b434056d2ee7e18":[6,0,4479,3],
-"dc/d88/classTempSummon.html#a19a3c747fabe3c2d788380b6b3aff5b5":[6,0,4479,25],
-"dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25":[6,0,4479,21],
-"dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73":[6,0,4479,23],
-"dc/d88/classTempSummon.html#a29cd1896bf2fb92feb3b31cad1b38111":[6,0,4479,9],
-"dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a":[6,0,4479,8],
-"dc/d88/classTempSummon.html#a4f1c054b1e80b1ae0b44e6f38951082e":[6,0,4479,6],
-"dc/d88/classTempSummon.html#a5181f042a68a54c93797fc9afa7a4440":[6,0,4479,18],
-"dc/d88/classTempSummon.html#a55ec70ec7811303644caea24642cc94c":[6,0,4479,11],
-"dc/d88/classTempSummon.html#a5b711bd3a4003da1507be950e4d33d0f":[6,0,4479,15],
-"dc/d88/classTempSummon.html#a65a25081690a9820065680d94c15bd7f":[6,0,4479,1]
+"dc/d88/classTempSummon.html#a0861c8d9d39586690b434056d2ee7e18":[6,0,4479,3]
 };

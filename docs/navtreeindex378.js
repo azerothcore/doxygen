@@ -1,5 +1,15 @@
 var NAVTREEINDEX378 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[6,0,6,2,2],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad30e4e53edb0fc48b117087ed882a0d6":[5,0,21,2,2],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[6,0,6,2,5],
+"de/d79/structMMAP_1_1IntermediateValues.html#ad477427f0cdc4680d711166f5a2b2cc6":[5,0,21,2,5],
+"de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[6,0,6,2,0],
+"de/d79/structMMAP_1_1IntermediateValues.html#adaa52f94036d068f48843be78544ea28":[5,0,21,2,0],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[6,0,6,2,1],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae32f71ccdd0ceae28fcbf3502ae1935b":[5,0,21,2,1],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[5,0,21,2,6],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae68be0f76993246bd43e3056c7bee29b":[6,0,6,2,6],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[6,0,6,2,4],
 "de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,21,2,4],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,21,2,12],
@@ -239,15 +249,5 @@ var NAVTREEINDEX378 =
 "de/d87/boss__netherspite_8cpp.html#aff530bc0bbc5bbb30a3c89b58ef94d89af949d2d316511db87640272621f71911":[7,0,0,0,1,3,2,4,5,4,2],
 "de/d87/classWaypointMovementGenerator.html":[6,0,4590],
 "de/d87/namespaceAcore_1_1Impl_1_1EnumUtilsImpl.html":[5,0,1,8,1],
-"de/d87/structSpawnAssociation.html":[6,0,2615],
-"de/d87/structSpawnAssociation.html#a056dabf4092da4ef3155a661607ca772":[6,0,2615,1],
-"de/d87/structSpawnAssociation.html#a32b390dfff99d5fd3c49359779718af4":[6,0,2615,0],
-"de/d87/structSpawnAssociation.html#a97d3cd7c2751fe85d9724ff1f808ba98":[6,0,2615,2],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[6,0,12,8,4],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html":[5,0,34,8,4],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[5,0,34,8,4,3],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[6,0,12,8,4,3],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[6,0,12,8,4,0],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[5,0,34,8,4,0],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[5,0,34,8,4,2]
+"de/d87/structSpawnAssociation.html":[6,0,2615]
 };

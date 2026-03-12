@@ -1,5 +1,15 @@
 var NAVTREEINDEX332 =
 {
+"dd/d1c/structSpellChainNode.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f":[6,0,4378,3],
+"dd/d1d/classspell__egg__explosion.html":[6,0,2933],
+"dd/d1d/classspell__egg__explosion.html#a651cc94581130224ba23e864f8ad7060":[6,0,2933,2],
+"dd/d1d/classspell__egg__explosion.html#a822fe6d19c2ee0d02dc5561b4f910cf9":[6,0,2933,1],
+"dd/d1d/classspell__egg__explosion.html#ae773d73496578170061baedd8f7daec1":[6,0,2933,0],
+"dd/d1d/classspell__lady__vashj__magic__barrier.html":[6,0,3543],
+"dd/d1d/classspell__lady__vashj__magic__barrier.html#a2b7fb2d6d0f92a970a45e0b9c409408d":[6,0,3543,2],
+"dd/d1d/classspell__lady__vashj__magic__barrier.html#a94b91d27b9a218b5fdce91d6a6e72f62":[6,0,3543,1],
+"dd/d1d/classspell__lady__vashj__magic__barrier.html#adfbbb75ace34ab5c0fec35e6aa88505a":[6,0,3543,0],
+"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html":[6,0,3958],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a19dcb71e46cc6fb08fda251829afae6f":[6,0,3958,0],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a4f10d23f63c47b408b70373623b877a8":[6,0,3958,6],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a6e066884663276dbba82e46ca5f66e59":[6,0,3958,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX332 =
 "dd/d27/structSmartAction.html#a29902a8e3adb2d3cfb1cebae3bb12962":[6,0,2599,16],
 "dd/d27/structSmartAction.html#a2a0cb7596a2f526555d56f2190f1d342":[6,0,2599,116],
 "dd/d27/structSmartAction.html#a2b097c9299b957a450e02536b0f3e6fa":[6,0,2599,61],
-"dd/d27/structSmartAction.html#a2babba120b0ff1ad19e391cbb7700d67":[6,0,2599,47],
-"dd/d27/structSmartAction.html#a2bef6b8b9d21c2ebc152f8b9dcbf8524":[6,0,2599,176],
-"dd/d27/structSmartAction.html#a2c9a142e48bf9f687120b76474436895":[6,0,2599,164],
-"dd/d27/structSmartAction.html#a2ce838285d1b0af711a36632a5bf5c61":[6,0,2599,185],
-"dd/d27/structSmartAction.html#a2de3cbce5c4af48efd14e8c006008bb2":[6,0,2599,68],
-"dd/d27/structSmartAction.html#a2e30a07ecb79b556a65f1a14325aa061":[6,0,2599,6],
-"dd/d27/structSmartAction.html#a304ec3da80fc071a94ddb0260ee54ef4":[6,0,2599,46],
-"dd/d27/structSmartAction.html#a3080e764ba78ec64aee440ec2eaba083":[6,0,2599,163],
-"dd/d27/structSmartAction.html#a30db7567ffa7d3d940c67edd2f867483":[6,0,2599,98],
-"dd/d27/structSmartAction.html#a3199056e9ae23e911e75bcda5cf4e257":[6,0,2599,226],
-"dd/d27/structSmartAction.html#a3209e6b129184b76674308fe8e25f863":[6,0,2599,165]
+"dd/d27/structSmartAction.html#a2babba120b0ff1ad19e391cbb7700d67":[6,0,2599,47]
 };

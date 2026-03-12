@@ -1,5 +1,6 @@
 var NAVTREEINDEX136 =
 {
+"d4/d9f/classTriangleBoundary.html#acbb7a9e61dd4e6188837461821843b9a":[6,0,4517,10],
 "d4/d9f/classTriangleBoundary.html#acd21a26ca6b830c4d4c6ed2b4a186a30":[6,0,4517,0],
 "d4/d9f/classTriangleBoundary.html#afa03a5b23a6e0d3d4e134fe7b1599df0":[6,0,4517,7],
 "d4/d9f/structget__packet__class.html":[6,0,1122],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba2adde576f86ca0dac01eeb141434fd00":[7,0,0,0,1,3,5,9,2,7,9,10],
 "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba2eafb8513e00a03882597f28841065e9":[7,0,0,0,1,3,5,9,2,7,9,11],
 "d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba36edcd23c5475457ebc9c1b6fa284442":[7,0,0,0,1,3,5,9,2,7,9,8],
-"d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba38f811da624da91b7081801f0af1023b":[7,0,0,0,1,3,5,9,2,7,9,13],
-"d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba399d29cb7ddcee9c8af71bbbcb9d2dca":[7,0,0,0,1,3,5,9,2,7,9,6]
+"d4/da9/boss__ignis_8cpp.html#a93fc7de8b9543da02c5490c105e2395ba38f811da624da91b7081801f0af1023b":[7,0,0,0,1,3,5,9,2,7,9,13]
 };

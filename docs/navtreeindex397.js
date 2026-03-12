@@ -1,5 +1,15 @@
 var NAVTREEINDEX397 =
 {
+"df/d41/classSocketMgr.html#ac1afac1d7f3e5092e9fe4425412186fc":[6,0,2612,3],
+"df/d41/classSocketMgr.html#ac712a459d409da9e8f21603da8aa0305":[6,0,2612,2],
+"df/d41/classSocketMgr.html#acc5fbaea6228d5d5122e22472c79476e":[6,0,2612,4],
+"df/d41/classSocketMgr.html#ad0830a83c94a940b254b71b4c7c979c2":[6,0,2612,5],
+"df/d41/classSocketMgr.html#af397e6129662d41adeeef25d27a980ea":[6,0,2612,10],
+"df/d41/instance__black__temple_8cpp.html":[7,0,0,0,1,3,7,1,10],
+"df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8":[7,0,0,0,1,3,7,1,10,15],
+"df/d41/instance__black__temple_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,1,10,17],
+"df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,7,1,10,18],
+"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,7,1,10,16],
 "df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,1,10,19],
 "df/d42/zone__ashenvale_8cpp.html":[7,0,0,0,1,3,4,14],
 "df/d42/zone__ashenvale_8cpp.html#a2381a800b34807e7f0d47d7b60feb025":[7,0,0,0,1,3,4,14,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX397 =
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a986f19145e46f5975f22a84a3e1b10ee":[6,0,1642,0,3],
 "df/d53/structnpc__arthas__teleport__visual_1_1npc__arthas__teleport__visualAI.html#a9b9b2ba725cde9aec898244a9e50c394":[6,0,1642,0,0],
 "df/d54/classat__ring__of__law.html":[6,0,244],
-"df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,244,1],
-"df/d54/classat__ring__of__law.html#ad9bb44e898f90fb489b50cad0a711976":[6,0,244,0],
-"df/d54/classat__underbog__ghazan.html":[6,0,257],
-"df/d54/classat__underbog__ghazan.html#aa6c74496bb30bf04e66ac3cd06110811":[6,0,257,0],
-"df/d54/classat__underbog__ghazan.html#aff03fc0bbded7bf7fa68d0c736bfaff2":[6,0,257,1],
-"df/d55/PlayerGossip_8cpp.html":[7,0,0,0,1,2,16,7,6],
-"df/d55/classlfg_1_1LFGPlayerScript.html":[5,0,18,9],
-"df/d55/classlfg_1_1LFGPlayerScript.html":[6,0,5,9],
-"df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[5,0,18,9,4],
-"df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[6,0,5,9,4],
-"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[6,0,5,9,3]
+"df/d54/classat__ring__of__law.html#a613471caae75ab3d82ce915101a20108":[6,0,244,1]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX413 =
 {
+"df/dd9/classUnit.html#afec63037dd022c6ece9895d8ef44496a":[6,0,4535,740],
+"df/dd9/classUnit.html#aff4b0ca639163338639c4460b516c1bd":[6,0,4535,112],
+"df/dd9/classUnit.html#aff4eb1f27398eec48dfe1ac69bf23b5d":[6,0,4535,930],
+"df/dd9/classUnit.html#aff6c755067d9a6c33c846482faf1b6f1":[6,0,4535,196],
+"df/dd9/classUnit.html#affc27e4d3a55fb4fd16b0c6e033e1941":[6,0,4535,142],
+"df/dd9/classUnit.html#affc5148f2c60051706b4e85a29eb4d45":[6,0,4535,225],
+"df/dd9/classWorldPackets_1_1Array.html":[6,0,12,17],
+"df/dd9/classWorldPackets_1_1Array.html":[5,0,34,17],
+"df/dd9/classWorldPackets_1_1Array.html#a03f40f93fb06fb760db6c33e10a3b32e":[6,0,12,17,3],
+"df/dd9/classWorldPackets_1_1Array.html#a03f40f93fb06fb760db6c33e10a3b32e":[5,0,34,17,3],
 "df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[6,0,12,17,7],
 "df/dd9/classWorldPackets_1_1Array.html#a26ca423c917ee3a5f1a6b6833db60c9a":[5,0,34,17,7],
 "df/dd9/classWorldPackets_1_1Array.html#a3708388e67428fe0ebefb4e71c069939":[6,0,12,17,17],
@@ -239,15 +249,5 @@ var NAVTREEINDEX413 =
 "df/dda/structnpc__ulduar__vx001.html#a34837d8ab0335605d7bf61eae5c29c2a":[6,0,2268,8],
 "df/dda/structnpc__ulduar__vx001.html#a47d955c4db0c8ceb30ae770a82aaf424":[6,0,2268,1],
 "df/dda/structnpc__ulduar__vx001.html#a4f019ff2bb5897c0c088f417f8ba4d45":[6,0,2268,4],
-"df/dda/structnpc__ulduar__vx001.html#a513c2610c3a87698b2c535f18c441ecb":[6,0,2268,0],
-"df/dda/structnpc__ulduar__vx001.html#a65f34247f41eb03420bda684844ae627":[6,0,2268,17],
-"df/dda/structnpc__ulduar__vx001.html#a720b4fdc32d067cdb91589bdc1724299":[6,0,2268,16],
-"df/dda/structnpc__ulduar__vx001.html#a8a28ca9a6420e6074eef79871b220400":[6,0,2268,13],
-"df/dda/structnpc__ulduar__vx001.html#a8ab3cc297213380846090ab086a6a34f":[6,0,2268,18],
-"df/dda/structnpc__ulduar__vx001.html#a8ae4ce7110f8ad7f7b800924220133b0":[6,0,2268,10],
-"df/dda/structnpc__ulduar__vx001.html#a9430de7bd29421a89fee5c626db79b17":[6,0,2268,19],
-"df/dda/structnpc__ulduar__vx001.html#aa5d26dcde4346e8f803c9461ef053a8c":[6,0,2268,5],
-"df/dda/structnpc__ulduar__vx001.html#ab25d0f2a79708c86d798f83e68100d03":[6,0,2268,6],
-"df/dda/structnpc__ulduar__vx001.html#ab294e5733f2f27a8846a10d78aff2f05":[6,0,2268,15],
-"df/dda/structnpc__ulduar__vx001.html#ab8f9d5f73674dd351731210f5e053fd9":[6,0,2268,12]
+"df/dda/structnpc__ulduar__vx001.html#a513c2610c3a87698b2c535f18c441ecb":[6,0,2268,0]
 };

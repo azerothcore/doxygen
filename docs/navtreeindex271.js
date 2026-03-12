@@ -1,5 +1,15 @@
 var NAVTREEINDEX271 =
 {
+"da/da1/classspell__mage__pet__scaling.html#abf0d76c220911d88990f3071f14a9d5a":[6,0,3607,3],
+"da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[6,0,3607,8],
+"da/da3/classgroup__commandscript.html":[6,0,1249],
+"da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[6,0,1249,7],
+"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[6,0,1249,5],
+"da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[6,0,1249,6],
+"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[6,0,1249,3],
+"da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[6,0,1249,2],
+"da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[6,0,1249,1],
+"da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[6,0,1249,4],
 "da/da3/classgroup__commandscript.html#ad2890427cfe3649b2e0fe0896693372c":[6,0,1249,0],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html":[6,0,711,0],
 "da/da4/structboss__sindragosa_1_1boss__sindragosaAI.html#a0a41a38ba0577f9b4f10bd1143a1e615":[6,0,711,0,6],
@@ -239,15 +249,5 @@ var NAVTREEINDEX271 =
 "da/dab/classspell__gen__proc__from__direct__damage.html#a4ec4dd2342a5b75c975dc6ffe0b02b79":[6,0,3091,2],
 "da/dab/classspell__gen__proc__from__direct__damage.html#af742bdfd97c9202d50ed7aa1cf8e7d49":[6,0,3091,0],
 "da/dab/instance__razorfen__downs_8cpp.html":[7,0,0,0,1,3,4,6,0],
-"da/dab/instance__razorfen__downs_8cpp.html#a0db4d34b8ea594cf2808b93c362a49c4":[7,0,0,0,1,3,4,6,0,2],
-"da/dac/Transport_8cpp.html":[7,0,0,0,1,2,16,9,0],
-"da/dac/classat__orb__of__command.html":[6,0,241],
-"da/dac/classat__orb__of__command.html#a1f0b196362b76e050eba66d3ce612623":[6,0,241,0],
-"da/dac/classat__orb__of__command.html#a8d30d303c72d5eaf59222c890ab13ca3":[6,0,241,1],
-"da/dac/classspell__item__eggnog.html":[6,0,3366],
-"da/dac/classspell__item__eggnog.html#a2b22be9826db241ecf3f99ff16c309c0":[6,0,3366,2],
-"da/dac/classspell__item__eggnog.html#a85dee311aab08d796a3a0c1bc9e9390d":[6,0,3366,1],
-"da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[6,0,3366,3],
-"da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[6,0,3366,0],
-"da/dac/classspell__q10923__evil__draws__near__summon.html":[6,0,3854]
+"da/dab/instance__razorfen__downs_8cpp.html#a0db4d34b8ea594cf2808b93c362a49c4":[7,0,0,0,1,3,4,6,0,2]
 };

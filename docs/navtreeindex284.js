@@ -1,5 +1,15 @@
 var NAVTREEINDEX284 =
 {
+"db/d2b/classspell__gen__consume.html#a9763527e0a95c52888847b84d8f1dd8d":[6,0,3018,6],
+"db/d2b/classspell__gen__consume.html#aa9b47c361eaad7dac4725e0be1bfe254":[6,0,3018,7],
+"db/d2b/classspell__gen__consume.html#ac521cc1524ddb9dd298145f23cc8fcd1":[6,0,3018,1],
+"db/d2b/classspell__gen__consume.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9":[6,0,3018,5],
+"db/d2b/classspell__gen__consume.html#af69251aa0415a2148162f32dd9113917":[6,0,3018,2],
+"db/d2c/custom__script__loader_8cpp.html":[7,0,0,0,1,3,1,0],
+"db/d2c/custom__script__loader_8cpp.html#a068af514420f658f0c087bbb77628173":[7,0,0,0,1,3,1,0,0],
+"db/d2c/structVisibilitySettingData.html":[6,0,4572],
+"db/d2c/structVisibilitySettingData.html#aaa4faa0170181e409940b5441eb2f586":[6,0,4572,1],
+"db/d2c/structVisibilitySettingData.html#ad566fd5eff102929247b75cf5092a60b":[6,0,4572,2],
 "db/d2c/structVisibilitySettingData.html#af70453021c5ded85c73a4d5559dca2ea":[6,0,4572,0],
 "db/d2d/boss__hazzarah_8cpp.html":[7,0,0,0,1,3,2,16,4],
 "db/d2d/boss__hazzarah_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,4,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX284 =
 "db/d3e/structnpc__cameron.html#a32a2dd2be2c06700fb81f4072a364ce2":[6,0,1701,5],
 "db/d3e/structnpc__cameron.html#a45e47ec5c9dadc6f0899e83ac2e19cff":[6,0,1701,0],
 "db/d3e/structnpc__cameron.html#a85ae436f19f69ffb853330f01ee152a0":[6,0,1701,1],
-"db/d3e/structnpc__cameron.html#a985d0590eedde340a3923e299d4dffd8":[6,0,1701,8],
-"db/d3e/structnpc__cameron.html#ab22841871cfcdc926b28296a5b4e440c":[6,0,1701,3],
-"db/d3e/structnpc__cameron.html#ad260466902e8fb1a2e02998cc4549695":[6,0,1701,6],
-"db/d3e/structnpc__cameron.html#ad6c58f433520c4ed55f43ef3604dde28":[6,0,1701,7],
-"db/d3f/boss__murmur_8cpp.html":[7,0,0,0,1,3,7,0,3,3],
-"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,0,3,3,4],
-"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11612b894503fbbcf49727fb87c6eac1":[7,0,0,0,1,3,7,0,3,3,4,3],
-"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a335d606fe2b988eedc4359047f7aaa27":[7,0,0,0,1,3,7,0,3,3,4,2],
-"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a466186dd00aac675adc19bbcb79ffad0":[7,0,0,0,1,3,7,0,3,3,4,1],
-"db/d3f/boss__murmur_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aaf85560beac4309bd7674acafda9e6fe":[7,0,0,0,1,3,7,0,3,3,4,0],
-"db/d3f/boss__murmur_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,0,3,3,6]
+"db/d3e/structnpc__cameron.html#a985d0590eedde340a3923e299d4dffd8":[6,0,1701,8]
 };

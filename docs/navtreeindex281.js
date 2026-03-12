@@ -1,5 +1,15 @@
 var NAVTREEINDEX281 =
 {
+"db/d03/classspell__gen__model__visible.html#acd9c460acb60eae5db8874c246014147":[6,0,3071,1],
+"db/d03/classspell__gen__model__visible.html#adb5058ba54ea53db9fdc9251a44619aa":[6,0,3071,4],
+"db/d03/classspell__gen__model__visible.html#ae77b9ae8a1092e0dc144e83db4c0758c":[6,0,3071,6],
+"db/d03/structGtChanceToSpellCritEntry.html":[6,0,1259],
+"db/d03/structGtChanceToSpellCritEntry.html#ad5d1466406daa3696314ef2f6f18cd15":[6,0,1259,0],
+"db/d04/enuminfo__AppenderConsole_8cpp.html":[7,0,0,0,0,9,6],
+"db/d07/classWorldSocketThread.html":[6,0,4639],
+"db/d07/classWorldSocketThread.html#a01090d6713f49dc026f77f8481b492cb":[6,0,4639,0],
+"db/d07/classWorldSocketThread.html#a4a978f9304e4aeabfb9ce1998b8a27cc":[6,0,4639,1],
+"db/d07/classnpc__nerubian__burrower.html":[6,0,2012],
 "db/d07/classnpc__nerubian__burrower.html#a02c3eb1ed867738c705af8bf38a1aae5":[6,0,2012,1],
 "db/d07/classnpc__nerubian__burrower.html#a145ebac6f95f9190429b9bfa37e23312":[6,0,2012,2],
 "db/d07/instance__obsidian__sanctum_8cpp.html":[7,0,0,0,1,3,5,1,0,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX281 =
 "db/d13/ScriptMgr_8cpp.html":[7,0,0,0,1,2,38,2],
 "db/d13/ScriptMgr_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc":[7,0,0,0,1,2,38,2,1],
 "db/d13/SmartAI_8h.html":[7,0,0,0,1,2,3,2,1],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54":[7,0,0,0,1,2,3,2,1,3],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19":[7,0,0,0,1,2,3,2,1,3,1],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7":[7,0,0,0,1,2,3,2,1,3,3],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8":[7,0,0,0,1,2,3,2,1,3,2],
-"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889":[7,0,0,0,1,2,3,2,1,3,0],
-"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbf":[7,0,0,0,1,2,3,2,1,4],
-"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba":[7,0,0,0,1,2,3,2,1,4,0],
-"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f":[7,0,0,0,1,2,3,2,1,4,1],
-"db/d13/SmartAI_8h.html#a9a381b0c4b9dc5403d4a93b3afb19dff":[7,0,0,0,1,2,3,2,1,2],
-"db/d13/SmartAI_8h.html#ab6012619ba76775b314475ec60f8c7d7":[7,0,0,0,1,2,3,2,1,5],
-"db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4]
+"db/d13/SmartAI_8h.html#a0911043eb49fd7958a828a60e0537d54":[7,0,0,0,1,2,3,2,1,3]
 };

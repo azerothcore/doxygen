@@ -1,6 +1,7 @@
 var NAVTREEINDEX158 =
 {
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,1,105,2],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[6,0,0,93,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,1,105,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,93,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX158 =
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a4ccde1675aba3eaa457deab76c96aa7c":[6,0,1316,0,35],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a54402e1b0547ef9355453a4adb0faf41":[6,0,1316,0,37],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a5b356988597842dc882bab3302f1ea2f":[6,0,1316,0,5],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a5c6f0970a54188997832d8023eff3317":[6,0,1316,0,12],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a5eb6fc2999384f00e90eaa98602cad4d":[6,0,1316,0,14]
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a5c6f0970a54188997832d8023eff3317":[6,0,1316,0,12]
 };

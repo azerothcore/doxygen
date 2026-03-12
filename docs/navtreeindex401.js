@@ -1,5 +1,15 @@
 var NAVTREEINDEX401 =
 {
+"df/d7f/structboss__novos.html#a0f5bde7e5d7fd31887d22a6151e99c48":[6,0,655,1],
+"df/d7f/structboss__novos.html#a1cbe1a2536171688e78da2cfda04effa":[6,0,655,10],
+"df/d7f/structboss__novos.html#a2488d1b0be72b76e2ea125dad3986217":[6,0,655,12],
+"df/d7f/structboss__novos.html#a47ae86a8b48aeebebfca23ee44d4563e":[6,0,655,3],
+"df/d7f/structboss__novos.html#a5a6651d0e08c0557d53174d40da0fac3":[6,0,655,14],
+"df/d7f/structboss__novos.html#a7567db25d51851888a35c70a4d7c833c":[6,0,655,7],
+"df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[6,0,655,5],
+"df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[6,0,655,8],
+"df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[6,0,655,9],
+"df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[6,0,655,6],
 "df/d7f/structboss__novos.html#accd720c3cb74905ef5ecf793089681eb":[6,0,655,4],
 "df/d7f/structboss__novos.html#ad037870744002e44a48e056875bd7ec1":[6,0,655,2],
 "df/d7f/structboss__novos.html#ae05afda7873a26a7a812813628e970fc":[6,0,655,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX401 =
 "df/d8b/classspell__item__rocket__chicken.html":[6,0,3445],
 "df/d8b/classspell__item__rocket__chicken.html#a000f8fd84e7292ac759b64a8a25d3ca2":[6,0,3445,0],
 "df/d8b/classspell__item__rocket__chicken.html#a2848e44f1520cc32af916a8e6578c3ea":[6,0,3445,1],
-"df/d8b/classspell__item__rocket__chicken.html#a4a13827baeb7ed4f2681ab114d44eb37":[6,0,3445,2],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html":[6,0,3872],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a2b06b0dc1a4c2f5b5e4657e11a097660":[6,0,3872,2],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3872,0],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3872,3],
-"df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3872,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4367],
-"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4367,2],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4367,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4367,0],
-"df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1]
+"df/d8b/classspell__item__rocket__chicken.html#a4a13827baeb7ed4f2681ab114d44eb37":[6,0,3445,2]
 };

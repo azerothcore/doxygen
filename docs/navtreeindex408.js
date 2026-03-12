@@ -1,5 +1,15 @@
 var NAVTREEINDEX408 =
 {
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a31e45a754930cdc3206fe2b7f754d234":[6,0,1183,0,2],
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#a8cbadc16a9588c469ff48dbaf51ac71c":[6,0,1183,0,0],
+"df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#adf185ee702e9e74f65204b90786f9eb4":[6,0,1183,0,1],
+"df/dc8/structnpc__onyxian__lair__guard.html":[6,0,2026],
+"df/dc8/structnpc__onyxian__lair__guard.html#a7b1d3bc68684202f9b4b95f6dc078be0":[6,0,2026,1],
+"df/dc8/structnpc__onyxian__lair__guard.html#a99acb2010853fcf9f7ac6f08143d06ed":[6,0,2026,3],
+"df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[6,0,2026,2],
+"df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[6,0,2026,0],
+"df/dc9/classCreatureScript.html":[6,0,949],
+"df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[6,0,949,11],
 "df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[6,0,949,1],
 "df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[6,0,949,6],
 "df/dc9/classCreatureScript.html#a316efb5c026588eb4bce8a0ce6b5cc0f":[6,0,949,4],
@@ -239,15 +249,5 @@ var NAVTREEINDEX408 =
 "df/dd8/classDBCStorage.html#acbe3d8adad76c063eeff0472b14e9c2d":[6,0,978,0],
 "df/dd8/classDBCStorage.html#ace37b566e9013928a845c981437158ae":[6,0,978,12],
 "df/dd8/classDBCStorage.html#af1212e7eac4a35aed1cc30d1885093d0":[6,0,978,3],
-"df/dd8/classDBCStorage.html#afdd7f0d3393eece5c4222f0f3c20868e":[6,0,978,14],
-"df/dd8/classspell__charge__shield__bomber.html":[6,0,2750],
-"df/dd8/classspell__charge__shield__bomber.html#a21daeadffbfd28621d897dfe67dd11a8":[6,0,2750,3],
-"df/dd8/classspell__charge__shield__bomber.html#a61ca2f71b0fa323a54f716415b25b75e":[6,0,2750,1],
-"df/dd8/classspell__charge__shield__bomber.html#a7a2cc833ae8d079b821caabf55b6f0e5":[6,0,2750,2],
-"df/dd8/classspell__charge__shield__bomber.html#abfb58e49821e6a563940e8ba518db850":[6,0,2750,0],
-"df/dd8/classspell__hodir__starlight__aura.html":[6,0,3202],
-"df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[6,0,3202,1],
-"df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[6,0,3202,2],
-"df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[6,0,3202,0],
-"df/dd9/classUnit.html":[6,0,4535]
+"df/dd8/classDBCStorage.html#afdd7f0d3393eece5c4222f0f3c20868e":[6,0,978,14]
 };

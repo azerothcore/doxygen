@@ -1,5 +1,15 @@
 var NAVTREEINDEX414 =
 {
+"df/dda/structnpc__ulduar__vx001.html#a65f34247f41eb03420bda684844ae627":[6,0,2268,17],
+"df/dda/structnpc__ulduar__vx001.html#a720b4fdc32d067cdb91589bdc1724299":[6,0,2268,16],
+"df/dda/structnpc__ulduar__vx001.html#a8a28ca9a6420e6074eef79871b220400":[6,0,2268,13],
+"df/dda/structnpc__ulduar__vx001.html#a8ab3cc297213380846090ab086a6a34f":[6,0,2268,18],
+"df/dda/structnpc__ulduar__vx001.html#a8ae4ce7110f8ad7f7b800924220133b0":[6,0,2268,10],
+"df/dda/structnpc__ulduar__vx001.html#a9430de7bd29421a89fee5c626db79b17":[6,0,2268,19],
+"df/dda/structnpc__ulduar__vx001.html#aa5d26dcde4346e8f803c9461ef053a8c":[6,0,2268,5],
+"df/dda/structnpc__ulduar__vx001.html#ab25d0f2a79708c86d798f83e68100d03":[6,0,2268,6],
+"df/dda/structnpc__ulduar__vx001.html#ab294e5733f2f27a8846a10d78aff2f05":[6,0,2268,15],
+"df/dda/structnpc__ulduar__vx001.html#ab8f9d5f73674dd351731210f5e053fd9":[6,0,2268,12],
 "df/dda/structnpc__ulduar__vx001.html#abf40f67c5768094f50b51a74e4501694":[6,0,2268,14],
 "df/dda/structnpc__ulduar__vx001.html#ad1d0ec1e6a3905f3ede091383ce02116":[6,0,2268,2],
 "df/dda/structnpc__ulduar__vx001.html#ae988d7c48b11e72b5d8e02966fd432ed":[6,0,2268,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX414 =
 "df/de7/classOutdoorPvPTF.html#a4836d80df43fb3af7f3c0fd76cbaf20b":[6,0,2382,19],
 "df/de7/classOutdoorPvPTF.html#a50576e4a5957a45205341bcb503f045b":[6,0,2382,18],
 "df/de7/classOutdoorPvPTF.html#a531956513de1703c5017193cd6d5f04b":[6,0,2382,6],
-"df/de7/classOutdoorPvPTF.html#a54856e667989fda0c208783691acb3f5":[6,0,2382,1],
-"df/de7/classOutdoorPvPTF.html#a63cbdec29b584c5744b8676489609ecf":[6,0,2382,17],
-"df/de7/classOutdoorPvPTF.html#a643ab6b5318aa1fd16ef26119696fefd":[6,0,2382,23],
-"df/de7/classOutdoorPvPTF.html#a66b822334b04a8a2d72b4fe24cb9c9d5":[6,0,2382,0],
-"df/de7/classOutdoorPvPTF.html#a6ae15350f6d7b65a1bdacc6a7df9696d":[6,0,2382,21],
-"df/de7/classOutdoorPvPTF.html#a6ff61d4338983b61f653d6780c96c8d0":[6,0,2382,5],
-"df/de7/classOutdoorPvPTF.html#a7a99a565db9930f322071e667df913d8":[6,0,2382,20],
-"df/de7/classOutdoorPvPTF.html#a993b5e28423be75745c13d3514defe15":[6,0,2382,13],
-"df/de7/classOutdoorPvPTF.html#aa99c8348cd06f182cdeabbde02ae1e76":[6,0,2382,22],
-"df/de7/classOutdoorPvPTF.html#abc72dff4380cfef895c0cd535e69d5c3":[6,0,2382,14],
-"df/de7/classOutdoorPvPTF.html#ac8833f965d6138db3c3f3dc53754a1e9":[6,0,2382,16]
+"df/de7/classOutdoorPvPTF.html#a54856e667989fda0c208783691acb3f5":[6,0,2382,1]
 };

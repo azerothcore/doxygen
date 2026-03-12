@@ -1,5 +1,15 @@
 var NAVTREEINDEX396 =
 {
+"df/d33/structWintergraspTeleporterData.html#aa761c9076be145dab6d2cac773bb6e7a":[6,0,4611,3],
+"df/d33/structWintergraspTeleporterData.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8":[6,0,4611,0],
+"df/d33/structWintergraspTeleporterData.html#ac9ff501bbf00d80f5b9350a78ffbb6fb":[6,0,4611,4],
+"df/d33/structWintergraspTeleporterData.html#af2bf42b7d1a18e7ee1125a305ee7bc79":[6,0,4611,1],
+"df/d34/structNotOnSameSide.html":[6,0,1593],
+"df/d34/structNotOnSameSide.html#a59ea48b9633049180ec62d3616fe4dea":[6,0,1593,1],
+"df/d34/structNotOnSameSide.html#a77c1d18f54609a5f4da2e9c13f62293d":[6,0,1593,2],
+"df/d34/structNotOnSameSide.html#ac3189b202a8c0ca4c8f52799ed54e284":[6,0,1593,0],
+"df/d36/classRedirectSpellEvent.html":[6,0,2522],
+"df/d36/classRedirectSpellEvent.html#a010f14a7d389b4e9ae9896061fa18a65":[6,0,2522,2],
 "df/d36/classRedirectSpellEvent.html#a1b3fb598748362379fef15b3172d8e2b":[6,0,2522,3],
 "df/d36/classRedirectSpellEvent.html#a34ae2bc23904558bd5f5b99e8f1c5fdc":[6,0,2522,1],
 "df/d36/classRedirectSpellEvent.html#a77d243d64c2fc651d71c42e10a315161":[6,0,2522,0],
@@ -239,15 +249,5 @@ var NAVTREEINDEX396 =
 "df/d41/classSocketMgr.html#a8c8b979692599a68d6f9dbe864e58645":[6,0,2612,0],
 "df/d41/classSocketMgr.html#aace37f1c8fa4c4c4dd378ba2da496b50":[6,0,2612,9],
 "df/d41/classSocketMgr.html#abeae5090b8ea81e39465a20c7b960885":[6,0,2612,11],
-"df/d41/classSocketMgr.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd":[6,0,2612,6],
-"df/d41/classSocketMgr.html#ac1afac1d7f3e5092e9fe4425412186fc":[6,0,2612,3],
-"df/d41/classSocketMgr.html#ac712a459d409da9e8f21603da8aa0305":[6,0,2612,2],
-"df/d41/classSocketMgr.html#acc5fbaea6228d5d5122e22472c79476e":[6,0,2612,4],
-"df/d41/classSocketMgr.html#ad0830a83c94a940b254b71b4c7c979c2":[6,0,2612,5],
-"df/d41/classSocketMgr.html#af397e6129662d41adeeef25d27a980ea":[6,0,2612,10],
-"df/d41/instance__black__temple_8cpp.html":[7,0,0,0,1,3,7,1,10],
-"df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8":[7,0,0,0,1,3,7,1,10,15],
-"df/d41/instance__black__temple_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,1,10,17],
-"df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,7,1,10,18],
-"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,7,1,10,16]
+"df/d41/classSocketMgr.html#abf161238fa7dcf2ee8b3a4ef3c71d5fd":[6,0,2612,6]
 };

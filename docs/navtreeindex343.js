@@ -1,5 +1,15 @@
 var NAVTREEINDEX343 =
 {
+"dd/d9e/classspell__ragnaros__lava__burst__randomizer.html#aa03795d909e24dfe2ccd12e431b2575e":[6,0,3948,3],
+"dd/d9e/classspell__ragnaros__lava__burst__randomizer.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae":[6,0,3948,0],
+"dd/d9e/classspell__ragnaros__lava__burst__randomizer.html#ad3c052a9bd00d04c954f85218dcfcb0a":[6,0,3948,1],
+"dd/d9e/namespaceWorldPackets_1_1NPC.html":[5,0,34,11],
+"dd/d9f/FormationMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
+"dd/d9f/MoveSpline_8cpp.html":[7,0,0,0,1,2,31,1,4],
+"dd/d9f/MoveSpline_8cpp.html#a0f9e26b66bd86bb9701c366e4f9529c3":[7,0,0,0,1,2,31,1,4,3],
+"dd/d9f/MoveSpline_8cpp.html#a4005b3acaa5011bfc2cc027562c04dfb":[7,0,0,0,1,2,31,1,4,2],
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html":[6,0,3961],
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#a2e2668f0b5bf369ec859627e0bd8d980":[6,0,3961,1],
 "dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#acd7e22159d262a9888c744eecb978c09":[6,0,3961,2],
 "dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#ae9baf688d8ac42c4ccbbf13f3b79e831":[6,0,3961,0],
 "dd/d9f/classspell__voodoo.html":[6,0,4246],
@@ -239,15 +249,5 @@ var NAVTREEINDEX343 =
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9":[7,0,0,0,1,3,5,9,1,2,11,8],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,5,9,1,2,11,0],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52":[7,0,0,0,1,3,5,9,1,2,11,4],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d":[7,0,0,0,1,3,5,9,1,2,11,1],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07":[7,0,0,0,1,3,5,9,1,2,11,2],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34":[7,0,0,0,1,3,5,9,1,2,11,7],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0":[7,0,0,0,1,3,5,9,1,2,11,3],
-"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca":[7,0,0,0,1,3,5,9,1,2,11,6],
-"dd/dab/boss__sjonnir_8cpp.html#a751d0854890cab158f40e51e23feec32":[7,0,0,0,1,3,5,9,1,2,14],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,5,9,1,2,9],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7":[7,0,0,0,1,3,5,9,1,2,9,0],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591":[7,0,0,0,1,3,5,9,1,2,9,2],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a":[7,0,0,0,1,3,5,9,1,2,9,1],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280":[7,0,0,0,1,3,5,9,1,2,9,3]
+"dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cac0997e72929070d8e30cc0f49cc4539d":[7,0,0,0,1,3,5,9,1,2,11,1]
 };

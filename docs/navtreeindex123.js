@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d22/structboss__hodir.html#a6196c82c6e23563f91a8b149cacbef04":[6,0,550,15],
 "d4/d22/structboss__hodir.html#a6d12ec37b287d5e283f3207593435d60":[6,0,550,1],
 "d4/d22/structboss__hodir.html#a7cdb38932e616696f96008c321f9189c":[6,0,550,6],
 "d4/d22/structboss__hodir.html#a90af0893d62f1e71067a356de64e7fc2":[6,0,550,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45a884668d3645a97e3290c97af7d8c82af":[7,0,0,0,1,3,5,9,0,1,4,2],
 "d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45abefb182d30a413bc95249cb4b78b187c":[7,0,0,0,1,3,5,9,0,1,4,0],
 "d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3":[7,0,0,0,1,3,5,9,0,1,5],
-"d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a12c06129c4f7d93c09671196ad95a854":[7,0,0,0,1,3,5,9,0,1,5,4],
-"d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a1c7751ae4ca5b1e2d35d7ab87cbaf49c":[7,0,0,0,1,3,5,9,0,1,5,7]
+"d4/d2b/boss__ionar_8cpp.html#ad38e13b91473fd0a924fbda8426cdbd3a12c06129c4f7d93c09671196ad95a854":[7,0,0,0,1,3,5,9,0,1,5,4]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1904,0,2],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1904,0,3],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1904,0,1],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1904,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX141 =
 "d4/ddd/structPetLevelInfo.html#a322dcab3af8f98726aa6addf38e8891b":[6,0,2416,2],
 "d4/ddd/structPetLevelInfo.html#a897aabacdbe9cbc4afcc40ab059c12be":[6,0,2416,6],
 "d4/ddd/structPetLevelInfo.html#ab7097f75cf86bd6f135f21dace61a89e":[6,0,2416,1],
-"d4/ddd/structPetLevelInfo.html#ad8e757abeae500063e963ffef5469809":[6,0,2416,0],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html":[6,0,530,0]
+"d4/ddd/structPetLevelInfo.html#ad8e757abeae500063e963ffef5469809":[6,0,2416,0]
 };

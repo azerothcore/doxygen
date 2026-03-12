@@ -1,5 +1,15 @@
 var NAVTREEINDEX391 =
 {
+"df/d13/blackrock__spire_8h.html#afb6eb4f28419b652027fad41104a6d22af30872e3809676e4f327ad83ace997eb":[7,0,0,0,1,3,2,1,1,0,5,19],
+"df/d13/classEllipseBoundary.html":[6,0,1027],
+"df/d13/classEllipseBoundary.html#a203ccf7ca23f1d66f834bdadb8b18b31":[6,0,1027,1],
+"df/d13/classEllipseBoundary.html#aa84bae8bced77e38fec652e473cf39c7":[6,0,1027,2],
+"df/d13/classEllipseBoundary.html#ad781cadd6c09e482d3a93ad71440a4c2":[6,0,1027,4],
+"df/d13/classEllipseBoundary.html#ae933c6b1e62967f98c95cfbd4822b818":[6,0,1027,3],
+"df/d13/classEllipseBoundary.html#aeb8c822a8c4c745de0c848721a624545":[6,0,1027,0],
+"df/d13/classspell__pal__avenging__wrath.html":[6,0,3708],
+"df/d13/classspell__pal__avenging__wrath.html#a42590a0ef43a48c5309f995f9bec5c9b":[6,0,3708,2],
+"df/d13/classspell__pal__avenging__wrath.html#a84e7337494dc2e1772ca10dea26c675f":[6,0,3708,3],
 "df/d13/classspell__pal__avenging__wrath.html#aafdf3712f163919f010d11d0becb398f":[6,0,3708,0],
 "df/d13/classspell__pal__avenging__wrath.html#ac2558aafb3ce66ca7bbfd718eb8c6338":[6,0,3708,4],
 "df/d13/classspell__pal__avenging__wrath.html#ac3e33cb37d13b633f3938a48917a4975":[6,0,3708,1],
@@ -239,15 +249,5 @@ var NAVTREEINDEX391 =
 "df/d17/group__world.html#gga11501f5782bd40fa2c7b56d7b12221e2aecfb61fe30dad8b80bb93881cafe105d":[4,2,17,1],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba03d0c4dd430afeb66acc56c0a9c104aa":[4,2,15,18],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba09e6d6b40910f762c092171266a042cc":[4,2,15,26],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba177e3d98ca0a68108d04800fec4c5d86":[4,2,15,7],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba2f2f733f59cd3f944091a5ecbefba3a5":[4,2,15,5],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba3b6507bcbebedb32e913002e218ff156":[4,2,15,4],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba44c3162fd70316c504cd4e8068559a4e":[4,2,15,20],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba47aaebf38c22faea919f15103ca564f8":[4,2,15,25],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4a3d3718b458559db2843274259e9caf":[4,2,15,11],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4ac5df4b9eff2cf69d2312d1cf3174db":[4,2,15,3],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4f8f0506d09c5079326b000d5d074611":[4,2,15,6],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba507b40d8e1860051d9bd9d2fcada3053":[4,2,15,0],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba600d0faad5b165a2d50d8a857c1caed7":[4,2,15,15],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba614f2939bc31c0a396c2017c8baac109":[4,2,15,33]
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba177e3d98ca0a68108d04800fec4c5d86":[4,2,15,7]
 };

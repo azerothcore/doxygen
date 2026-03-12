@@ -1,5 +1,15 @@
 var NAVTREEINDEX371 =
 {
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae5fc43a8846ce78d4f02d7fe2ca5ee8":[7,0,0,0,1,2,41,9,62,23],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a":[7,0,0,0,1,2,41,9,62,7],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aaf9170997f464e7fb1c87b84bb38651a":[7,0,0,0,1,2,41,9,62,14],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ab47347c9f4b3ba1255744ba7c0a1e007":[7,0,0,0,1,2,41,9,62,13],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73":[7,0,0,0,1,2,41,9,62,16],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abcffcf75e3fd5015383c586153dc32c1":[7,0,0,0,1,2,41,9,62,21],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12":[7,0,0,0,1,2,41,9,62,4],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac5647abe6aa2b8e292cde78a34ac29cc":[7,0,0,0,1,2,41,9,62,28],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6acf742e65ebea270b541f0f374f54ece4":[7,0,0,0,1,2,41,9,62,12],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c":[7,0,0,0,1,2,41,9,62,6],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6adc3fb7dd56615e62d28af0ea87793d58":[7,0,0,0,1,2,41,9,62,29],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ae0cef27dc24d6bd6fa46efa85df7d488":[7,0,0,0,1,2,41,9,62,31],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aec3e2077cfabdc92fbbc9a1858dd5c7b":[7,0,0,0,1,2,41,9,62,22],
@@ -239,15 +249,5 @@ var NAVTREEINDEX371 =
 "de/d3b/classMotionMaster.html#ad818cb3597d79fb4fde0f972f9f521b2":[6,0,1550,61],
 "de/d3b/classMotionMaster.html#adb1f82ee5ec702375fc4292e46865edf":[6,0,1550,41],
 "de/d3b/classMotionMaster.html#ae37d25ba49a3887faa07bc194f3447fd":[6,0,1550,33],
-"de/d3b/classMotionMaster.html#ae586859e733b3db58835a05f4a2a7818":[6,0,1550,30],
-"de/d3b/classMotionMaster.html#ae59d20f5f912abfb83be3bfc263af04f":[6,0,1550,35],
-"de/d3b/classMotionMaster.html#ae6301ad8595007b17f64c93a770d0149":[6,0,1550,68],
-"de/d3b/classMotionMaster.html#aee31fdcb7478b54690970b9481d15dad":[6,0,1550,7],
-"de/d3b/classMotionMaster.html#aeef3695b4f5678e5c361dba9ae7b4cc4":[6,0,1550,20],
-"de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e":[6,0,1550,26],
-"de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[6,0,1550,4],
-"de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920":[6,0,1550,48],
-"de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[6,0,1550,34],
-"de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[6,0,1550,50],
-"de/d3b/classspell__vazruden__call__nazan.html":[6,0,4233]
+"de/d3b/classMotionMaster.html#ae586859e733b3db58835a05f4a2a7818":[6,0,1550,30]
 };

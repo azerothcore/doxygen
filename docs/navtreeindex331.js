@@ -1,5 +1,15 @@
 var NAVTREEINDEX331 =
 {
+"dd/d0f/classspell__dk__blood__gorged.html#a769f2b77b2972c40e3e43e70d2ff5820":[6,0,2796,3],
+"dd/d0f/classspell__dk__blood__gorged.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02":[6,0,2796,0],
+"dd/d0f/classspell__dk__blood__gorged.html#ab8a35292c0d4d392d9dd9db438d59cc4":[6,0,2796,4],
+"dd/d0f/classspell__dk__blood__gorged.html#aba8bd9ae5ec9e92eccb04163114c4802":[6,0,2796,5],
+"dd/d0f/classspell__dk__blood__gorged.html#ac90b54e946baa80589cab2f66aca1f5f":[6,0,2796,1],
+"dd/d0f/classspell__dk__blood__gorged.html#ada85014de8a3602e83912d5e1a0165c5":[6,0,2796,2],
+"dd/d0f/classspell__icc__shattered__bones.html":[6,0,3258],
+"dd/d0f/classspell__icc__shattered__bones.html#a10c9f511da4eb366117d356c118408c6":[6,0,3258,2],
+"dd/d0f/classspell__icc__shattered__bones.html#a4bfc155129bd80c94b4b59474f30d748":[6,0,3258,0],
+"dd/d0f/classspell__icc__shattered__bones.html#a655f2081d17c06c155641efc45efc1f8":[6,0,3258,3],
 "dd/d0f/classspell__icc__shattered__bones.html#a9c72772f9d17b34562bd11418d67872d":[6,0,3258,1],
 "dd/d10/boss__dred_8cpp.html":[7,0,0,0,1,3,5,3,0],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,3,0,5],
@@ -239,15 +249,5 @@ var NAVTREEINDEX331 =
 "dd/d1c/structSpellChainNode.html#a05a8077c7ec39bcca66fe84aa1da7040":[6,0,4378,1],
 "dd/d1c/structSpellChainNode.html#a0a7791b7069912a013299e7afaf4142f":[6,0,4378,2],
 "dd/d1c/structSpellChainNode.html#a0b58cef8fc18f91fa59b8c7d7b9f9872":[6,0,4378,4],
-"dd/d1c/structSpellChainNode.html#a49aea8bfed353c2c552f6195b8e9f60a":[6,0,4378,0],
-"dd/d1c/structSpellChainNode.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f":[6,0,4378,3],
-"dd/d1d/classspell__egg__explosion.html":[6,0,2933],
-"dd/d1d/classspell__egg__explosion.html#a651cc94581130224ba23e864f8ad7060":[6,0,2933,2],
-"dd/d1d/classspell__egg__explosion.html#a822fe6d19c2ee0d02dc5561b4f910cf9":[6,0,2933,1],
-"dd/d1d/classspell__egg__explosion.html#ae773d73496578170061baedd8f7daec1":[6,0,2933,0],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html":[6,0,3543],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html#a2b7fb2d6d0f92a970a45e0b9c409408d":[6,0,3543,2],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html#a94b91d27b9a218b5fdce91d6a6e72f62":[6,0,3543,1],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html#adfbbb75ace34ab5c0fec35e6aa88505a":[6,0,3543,0],
-"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html":[6,0,3958]
+"dd/d1c/structSpellChainNode.html#a49aea8bfed353c2c552f6195b8e9f60a":[6,0,4378,0]
 };

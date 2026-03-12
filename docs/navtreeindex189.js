@@ -1,5 +1,9 @@
 var NAVTREEINDEX189 =
 {
+"d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298cafa63300aa4ebffd0e035a8a25610ce1b":[7,0,0,0,1,3,7,5,3,4,3,4],
+"d7/d02/structboss__thorngrin__the__tender.html":[6,0,759],
+"d7/d02/structboss__thorngrin__the__tender.html#a48fc89c7e9814d90a8724ca38c5e2fe8":[6,0,759,6],
+"d7/d02/structboss__thorngrin__the__tender.html#a4bc13108f7cb240fedb44ccae2b54047":[6,0,759,1],
 "d7/d02/structboss__thorngrin__the__tender.html#a647ed5b29861b719d3c4a11fd110c512":[6,0,759,2],
 "d7/d02/structboss__thorngrin__the__tender.html#a9467e59287b3e917907de82507d1a16d":[6,0,759,4],
 "d7/d02/structboss__thorngrin__the__tender.html#ab3731c5b56e1c01aa5d78d84a5e60234":[6,0,759,3],
@@ -63,16 +67,16 @@ var NAVTREEINDEX189 =
 "d7/d06/classspell__the__lich__king__soul__reaper__aura.html#accb775d3a9c4ae40f5d8644c366ec39e":[6,0,4181,1],
 "d7/d07/AllGameObjectScript_8cpp.html":[7,0,0,0,1,2,38,0,14],
 "d7/d07/AllGameObjectScript_8cpp.html#a60896f2f8318a9eeba3e23357a17292f":[7,0,0,0,1,2,38,0,14,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[5,0,1,7,2],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[6,0,8,1,0],
 "d7/d0e/structstd_1_1hash_3_01SpellGroup_01_4.html#ac27052eb73a3723e8678c92aeeb2f499":[5,0,29,1,0],
 "d7/d0f/classPreparedStatement.html":[6,0,2465],
-"d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[6,0,2465,0],
-"d7/d0f/classPreparedStatement.html#a8b0dccfd3e274bf55d8b161b1390b0d9":[6,0,2465,1],
-"d7/d0f/classPreparedStatement.html#a9ed475a188f208344cffd74058b749e2":[6,0,2465,2],
-"d7/d0f/classspell__pri__mind__control.html":[6,0,3796],
-"d7/d0f/classspell__pri__mind__control.html#a59e7d23c969b03aa75ef1da3bf42f6e9":[6,0,3796,1]
+"d7/d0f/classPreparedStatement.html#a4f689d37a5d174ade76e590379edc46a":[6,0,2465,0]
 };

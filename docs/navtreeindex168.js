@@ -1,5 +1,6 @@
 var NAVTREEINDEX168 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8cb0ce30f128c8db142a2fcfdb7ba17f":[7,0,0,0,1,3,5,6,11,37,17],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca8ea68b7a9f8984372d34a01128c98410":[7,0,0,0,1,3,5,6,11,37,24],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca955744cf3fb9ab62285b64b578021190":[7,0,0,0,1,3,5,6,11,37,6],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c3cf2497f2c1ad4bf05869e73bc072e":[7,0,0,0,1,3,5,6,11,37,27],
@@ -248,6 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[6,0,3170,3],
 "d6/d1f/classspell__halion__marks__aura.html#aeef9d928c6a8739337251e144558b169":[6,0,3170,5],
 "d6/d21/ArenaTeamScript_8h.html":[7,0,0,0,1,2,38,0,28],
-"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218":[7,0,0,0,1,2,38,0,28,1],
-"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc":[7,0,0,0,1,2,38,0,28,1,0]
+"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218":[7,0,0,0,1,2,38,0,28,1]
 };
