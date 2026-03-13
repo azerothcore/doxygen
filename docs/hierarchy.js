@@ -2812,9 +2812,6 @@ var hierarchy =
       [ "Reference< GridRefMgr< Corpse >, Corpse >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< Creature >, Creature >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< DynamicObject >, DynamicObject >", "d4/d52/classReference.html", null ],
-      [ "Reference< Unit, AbstractFollower >", "d4/d52/classReference.html", [
-        [ "FollowerReference", "d4/d39/classFollowerReference.html", null ]
-      ] ],
       [ "Reference< GridRefMgr< GameObject >, GameObject >", "d4/d52/classReference.html", null ],
       [ "Reference< GridRefMgr< OBJECT >, OBJECT >", "d4/d52/classReference.html", [
         [ "GridReference< OBJECT >", "d4/db8/classGridReference.html", null ]
@@ -2850,9 +2847,6 @@ var hierarchy =
       [ "RefMgr< GridRefMgr< Corpse >, Corpse >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< Creature >, Creature >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< DynamicObject >, DynamicObject >", "d4/d73/classRefMgr.html", null ],
-      [ "RefMgr< Unit, AbstractFollower >", "d4/d73/classRefMgr.html", [
-        [ "FollowerRefMgr", "d7/d99/classFollowerRefMgr.html", null ]
-      ] ],
       [ "RefMgr< GridRefMgr< GameObject >, GameObject >", "d4/d73/classRefMgr.html", null ],
       [ "RefMgr< GridRefMgr< OBJECT >, OBJECT >", "d4/d73/classRefMgr.html", [
         [ "GridRefMgr< OBJECT >", "db/d9d/classGridRefMgr.html", null ]

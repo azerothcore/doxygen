@@ -1605,8 +1605,6 @@ var annotated_dup =
     [ "FlightPathMovementGenerator", "db/d82/classFlightPathMovementGenerator.html", "db/d82/classFlightPathMovementGenerator" ],
     [ "FlyByCamera", "d9/d21/structFlyByCamera.html", "d9/d21/structFlyByCamera" ],
     [ "FollowerAI", "de/d72/classFollowerAI.html", "de/d72/classFollowerAI" ],
-    [ "FollowerReference", "d4/d39/classFollowerReference.html", "d4/d39/classFollowerReference" ],
-    [ "FollowerRefMgr", "d7/d99/classFollowerRefMgr.html", null ],
     [ "FollowMovementGenerator", "d0/dac/classFollowMovementGenerator.html", "d0/dac/classFollowMovementGenerator" ],
     [ "ForcedDespawnDelayEvent", "d6/d80/classForcedDespawnDelayEvent.html", "d6/d80/classForcedDespawnDelayEvent" ],
     [ "ForcedUnsummonDelayEvent", "d7/d91/classForcedUnsummonDelayEvent.html", "d7/d91/classForcedUnsummonDelayEvent" ],
