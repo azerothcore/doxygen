@@ -1,5 +1,11 @@
 var NAVTREEINDEX331 =
 {
+"dd/d0f/classspell__icc__shattered__bones.html":[6,0,3256],
+"dd/d0f/classspell__icc__shattered__bones.html#a10c9f511da4eb366117d356c118408c6":[6,0,3256,2],
+"dd/d0f/classspell__icc__shattered__bones.html#a4bfc155129bd80c94b4b59474f30d748":[6,0,3256,0],
+"dd/d0f/classspell__icc__shattered__bones.html#a655f2081d17c06c155641efc45efc1f8":[6,0,3256,3],
+"dd/d0f/classspell__icc__shattered__bones.html#a9c72772f9d17b34562bd11418d67872d":[6,0,3256,1],
+"dd/d10/boss__dred_8cpp.html":[7,0,0,0,1,3,5,3,0],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,3,0,5],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdf1f3390fb22db6bb6e2184f1d5bd2":[7,0,0,0,1,3,5,3,0,5,1],
 "dd/d10/boss__dred_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924":[7,0,0,0,1,3,5,3,0,5,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX331 =
 "dd/d1d/classspell__egg__explosion.html#a651cc94581130224ba23e864f8ad7060":[6,0,2931,2],
 "dd/d1d/classspell__egg__explosion.html#a822fe6d19c2ee0d02dc5561b4f910cf9":[6,0,2931,1],
 "dd/d1d/classspell__egg__explosion.html#ae773d73496578170061baedd8f7daec1":[6,0,2931,0],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html":[6,0,3541],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html#a2b7fb2d6d0f92a970a45e0b9c409408d":[6,0,3541,2],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html#a94b91d27b9a218b5fdce91d6a6e72f62":[6,0,3541,1],
-"dd/d1d/classspell__lady__vashj__magic__barrier.html#adfbbb75ace34ab5c0fec35e6aa88505a":[6,0,3541,0],
-"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html":[6,0,3956],
-"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a19dcb71e46cc6fb08fda251829afae6f":[6,0,3956,0],
-"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a4f10d23f63c47b408b70373623b877a8":[6,0,3956,6]
+"dd/d1d/classspell__lady__vashj__magic__barrier.html":[6,0,3541]
 };

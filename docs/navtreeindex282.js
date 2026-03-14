@@ -1,5 +1,11 @@
 var NAVTREEINDEX282 =
 {
+"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba":[7,0,0,0,1,2,3,2,1,4,0],
+"db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f":[7,0,0,0,1,2,3,2,1,4,1],
+"db/d13/SmartAI_8h.html#a9a381b0c4b9dc5403d4a93b3afb19dff":[7,0,0,0,1,2,3,2,1,2],
+"db/d13/SmartAI_8h.html#ab6012619ba76775b314475ec60f8c7d7":[7,0,0,0,1,2,3,2,1,5],
+"db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
+"db/d14/classLootTemplate.html":[6,0,1478],
 "db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1478,7],
 "db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1478,9],
 "db/d14/classLootTemplate.html#a533d3acacc8086a6f8f75013dd790a94":[6,0,1478,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX282 =
 "db/d1b/structboss__kazrogal.html":[6,0,579],
 "db/d1b/structboss__kazrogal.html#a0b54f8c935d09367d7e6b7dbf6c4ce61":[6,0,579,2],
 "db/d1b/structboss__kazrogal.html#a2b3cc0e99c478c55f907898fbec2b8b2":[6,0,579,0],
-"db/d1b/structboss__kazrogal.html#a2c0aafd271b2500d32f5add7e75cd990":[6,0,579,4],
-"db/d1b/structboss__kazrogal.html#a54ef8b88bf62e260e19a964d1926ef4a":[6,0,579,7],
-"db/d1b/structboss__kazrogal.html#a7721debceeefaeb69e71855b8e8742f8":[6,0,579,1],
-"db/d1b/structboss__kazrogal.html#ab1439114a84d85947106d979f38d12fa":[6,0,579,5],
-"db/d1b/structboss__kazrogal.html#abc839abddfbb5fb1e1dd3a67e0b661cb":[6,0,579,3],
-"db/d1b/structboss__kazrogal.html#acb9f4ee5d97b43082bf6fc0c424685ab":[6,0,579,6],
-"db/d1b/structboss__kazrogal.html#ad7401abae1b25d58ed93cc800d75bc26":[6,0,579,8]
+"db/d1b/structboss__kazrogal.html#a2c0aafd271b2500d32f5add7e75cd990":[6,0,579,4]
 };

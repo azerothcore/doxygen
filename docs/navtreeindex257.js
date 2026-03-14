@@ -1,5 +1,11 @@
 var NAVTREEINDEX257 =
 {
+"da/d0d/classachievement__yogg__saron__darkness.html#a536c7156305d47c41a062d3c1a1b16eb":[6,0,108,0],
+"da/d0d/classachievement__yogg__saron__darkness.html#a765ec4606bb489760ed1e15db10de1dc":[6,0,108,2],
+"da/d0d/classachievement__yogg__saron__darkness.html#a809902fca87abaeb4334132763624ed6":[6,0,108,1],
+"da/d0d/classnpc__stone__watcher__of__norgannon.html":[6,0,2165],
+"da/d0d/classnpc__stone__watcher__of__norgannon.html#a00f526b1b17b68f31a86e892e0997856":[6,0,2165,1],
+"da/d0d/classnpc__stone__watcher__of__norgannon.html#a5b79ebae097266ec4e1a0e3dfaa87da5":[6,0,2165,2],
 "da/d0d/classnpc__stone__watcher__of__norgannon.html#aa838e060c8ef6d7d85981c718328d9ef":[6,0,2165,0],
 "da/d0d/structnpc__the__etymidian.html":[6,0,2190],
 "da/d0d/structnpc__the__etymidian.html#a1f3cfddae43e443c5cd4a8a0f9f87a89":[6,0,2190,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX257 =
 "da/d1e/CharmInfo_8h.html#a8a31720d588fad9fce4a74dabc39df8ba3086533ebf4fa00b6546f53176b512db":[7,0,0,0,1,2,16,10,1,16,3],
 "da/d1e/CharmInfo_8h.html#a8a31720d588fad9fce4a74dabc39df8ba5db5c00596b83fd1ed870c3fea737fa6":[7,0,0,0,1,2,16,10,1,16,2],
 "da/d1e/CharmInfo_8h.html#aa4580ef0cb84c2cc5983e75cb92e3ed1":[7,0,0,0,1,2,16,10,1,4],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46da":[7,0,0,0,1,2,16,10,1,15],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daa0435ad3a133e548a54374e9d90d39f0d":[7,0,0,0,1,2,16,10,1,15,4],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daa24d8db1d523431e423ef8354296ed162":[7,0,0,0,1,2,16,10,1,15,5],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daa33c1330b175929e3016c6bb437b60ae8":[7,0,0,0,1,2,16,10,1,15,3],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952":[7,0,0,0,1,2,16,10,1,15,2],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b":[7,0,0,0,1,2,16,10,1,15,0],
-"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17":[7,0,0,0,1,2,16,10,1,15,1]
+"da/d1e/CharmInfo_8h.html#aaec28a439b9086a5fd69bd5358bb46da":[7,0,0,0,1,2,16,10,1,15]
 };

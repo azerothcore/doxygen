@@ -1,5 +1,11 @@
 var NAVTREEINDEX251 =
 {
+"d9/dd6/classspell__item__muisek__vessel.html#af306009f2c418e898478720b9c4ad6ab":[6,0,3416,0],
+"d9/dd6/classspell__item__muisek__vessel.html#af51e3b3cbfb469fa6230a36d8d5fcec7":[6,0,3416,2],
+"d9/dd7/AllItemScript_8cpp.html":[7,0,0,0,1,2,38,0,16],
+"d9/dd7/AllItemScript_8cpp.html#a0f69164743e657905c670df85e97a29c":[7,0,0,0,1,2,38,0,16,0],
+"d9/dd7/AllItemScript_8cpp.html#a9f258d1e2f9fb6ce144923451b63f995":[7,0,0,0,1,2,38,0,16,1],
+"d9/dd7/CreatureAIRegistry_8cpp.html":[7,0,0,0,1,2,3,7],
 "d9/dd7/CreatureAIRegistry_8cpp.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,7,0],
 "d9/dd7/ProcEventInfoHelper_8h.html":[7,0,0,0,2,1,4],
 "d9/dd7/classspell__the__lich__king__vile__spirits__aura.html":[6,0,4188],
@@ -243,11 +249,5 @@ var NAVTREEINDEX251 =
 "d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,15,3,3],
 "d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a13fbfeb47a6085679bd44bcf4db10da4":[7,0,0,0,1,3,2,15,3,3,1],
 "d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abb1b0d048c012ee227241b4d7a567edb":[7,0,0,0,1,3,2,15,3,3,0],
-"d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ac8c746f010ffb9dba052834764b5ec74":[7,0,0,0,1,3,2,15,3,3,2],
-"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,15,3,5],
-"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4b4b2f055e20c3e8e5019979b6b85e67":[7,0,0,0,1,3,2,15,3,5,3],
-"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a55b3541c734c6bf371563c020ea4918e":[7,0,0,0,1,3,2,15,3,5,0],
-"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a98519d98f2763476413ba8ba9b1aa780":[7,0,0,0,1,3,2,15,3,5,1],
-"d9/df1/boss__janalai_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad004964bc87e3ee20b6bd3fcb2411521":[7,0,0,0,1,3,2,15,3,5,2],
-"d9/df1/boss__janalai_8cpp.html#a336b54adea653f7e3dd702b96d6443a9":[7,0,0,0,1,3,2,15,3,10]
+"d9/df1/boss__janalai_8cpp.html#a25a619e6b66096a4f05d048e4a96df08ac8c746f010ffb9dba052834764b5ec74":[7,0,0,0,1,3,2,15,3,3,2]
 };

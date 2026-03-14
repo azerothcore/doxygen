@@ -1,5 +1,11 @@
 var NAVTREEINDEX262 =
 {
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aa75252b46a683eccfaaad37f1a843781":[7,0,0,0,1,3,5,12,9,5,20],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aae2978e3479a298d86d8c5c57b0c734c":[7,0,0,0,1,3,5,12,9,5,29],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08acdf52ce130a3859a52c6aab654d7290f":[7,0,0,0,1,3,5,12,9,5,28],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08acf739e85d59c06eec4902f13bc565fe1":[7,0,0,0,1,3,5,12,9,5,26],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae092e4fa982331f6b3c2feda0fa11cff":[7,0,0,0,1,3,5,12,9,5,15],
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae3a118d7269afc21b3398e745a6eaad2":[7,0,0,0,1,3,5,12,9,5,0],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae574f06e115eeb0ad9aadd7f9e7ffc6f":[7,0,0,0,1,3,5,12,9,5,3],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aea08ff310ee1bf320fb1248cfa315ab4":[7,0,0,0,1,3,5,12,9,5,16],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08af20a3af8d218ff280bb0188c62a29672":[7,0,0,0,1,3,5,12,9,5,18],
@@ -243,11 +249,5 @@ var NAVTREEINDEX262 =
 "da/d57/classspell__xt002__gravity__bomb__aura.html#aa56622a1e57c157260940023a6c70a35":[6,0,4345,4],
 "da/d57/classspell__xt002__gravity__bomb__aura.html#ad3a81506d71ed3d6ddffce7d8f902eb4":[6,0,4345,1],
 "da/d58/classVMAP_1_1IVMapMgr.html":[6,0,10,7],
-"da/d58/classVMAP_1_1IVMapMgr.html":[5,0,31,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[5,0,31,7,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a0a3b250f0674709fac851c6e63bedd51":[6,0,10,7,7],
-"da/d58/classVMAP_1_1IVMapMgr.html#a3ce407c232386fbe00958660457474e4":[5,0,31,7,17],
-"da/d58/classVMAP_1_1IVMapMgr.html#a3ce407c232386fbe00958660457474e4":[6,0,10,7,17],
-"da/d58/classVMAP_1_1IVMapMgr.html#a5642a08f1cbd688985314fb821525c95":[5,0,31,7,13],
-"da/d58/classVMAP_1_1IVMapMgr.html#a5642a08f1cbd688985314fb821525c95":[6,0,10,7,13]
+"da/d58/classVMAP_1_1IVMapMgr.html":[5,0,31,7]
 };

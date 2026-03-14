@@ -1,5 +1,11 @@
 var NAVTREEINDEX260 =
 {
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a36324482fb264cc3cacf11c3ed542eee":[6,0,1943,0,2],
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a410c84a1fcf50b50e6ebc340c1b58939":[6,0,1943,0,1],
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a456ee6f4b5b8cdd79647a42185265be8":[6,0,1943,0,3],
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#a621d4db4fac3a7c3d08defa2a8ed06d0":[6,0,1943,0,7],
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#aa125ab2a33dbf9f1d40f238e7d45000d":[6,0,1943,0,9],
+"da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ab704e4f3af8aa734910efd259db31407":[6,0,1943,0,6],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ace9e901a965665e0f97cb9646af308aa":[6,0,1943,0,8],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad4c6cb31a8d3dc280e689d5d29e27479":[6,0,1943,0,4],
 "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html#ad6eefe9a14ce64b12b65a22c3ebb4db0":[6,0,1943,0,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX260 =
 "da/d40/boss__rajaxx_8cpp.html#adfc3eda6f1c0f62c59171b07b63a3b70aa6b153fc5ae92c459e41f77c4ebf6104":[7,0,0,0,1,3,4,8,5,3,4],
 "da/d40/boss__rajaxx_8cpp.html#adfc3eda6f1c0f62c59171b07b63a3b70ad1521dc079c87020b71b6aa09dafe4aa":[7,0,0,0,1,3,4,8,5,3,9],
 "da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,4,8,5,4],
-"da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a327d8ea12efb07aa8cf621a819001ff2":[7,0,0,0,1,3,4,8,5,4,0],
-"da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa126f9277d0c1f797fa73563b96f744b":[7,0,0,0,1,3,4,8,5,4,1],
-"da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ade84310875eb9b98a07da9bb755aa46a":[7,0,0,0,1,3,4,8,5,4,2],
-"da/d40/classTotem.html":[6,0,4496],
-"da/d40/classTotem.html#a01f507b7699f92e90b5601280408ba76":[6,0,4496,15],
-"da/d40/classTotem.html#a0b587243be09d58f5693570933680bff":[6,0,4496,12],
-"da/d40/classTotem.html#a0bff976b49617405869ac7f2416e0ca1":[6,0,4496,19]
+"da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a327d8ea12efb07aa8cf621a819001ff2":[7,0,0,0,1,3,4,8,5,4,0]
 };

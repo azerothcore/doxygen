@@ -1,5 +1,11 @@
 var NAVTREEINDEX371 =
 {
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12":[7,0,0,0,1,2,41,9,62,4],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac5647abe6aa2b8e292cde78a34ac29cc":[7,0,0,0,1,2,41,9,62,28],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6acf742e65ebea270b541f0f374f54ece4":[7,0,0,0,1,2,41,9,62,12],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c":[7,0,0,0,1,2,41,9,62,6],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6adc3fb7dd56615e62d28af0ea87793d58":[7,0,0,0,1,2,41,9,62,29],
+"de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ae0cef27dc24d6bd6fa46efa85df7d488":[7,0,0,0,1,2,41,9,62,31],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aec3e2077cfabdc92fbbc9a1858dd5c7b":[7,0,0,0,1,2,41,9,62,22],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af35f6e787a7269cd40370e1d4b8d48d6":[7,0,0,0,1,2,41,9,62,24],
 "de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af765023e3e3f58d814e32d66d0f8fe45":[7,0,0,0,1,2,41,9,62,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX371 =
 "de/d3b/classMotionMaster.html#aee31fdcb7478b54690970b9481d15dad":[6,0,1548,7],
 "de/d3b/classMotionMaster.html#aeef3695b4f5678e5c361dba9ae7b4cc4":[6,0,1548,20],
 "de/d3b/classMotionMaster.html#af3d7e6d3efb2a211fa4683ed1a1b554e":[6,0,1548,26],
-"de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[6,0,1548,4],
-"de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920":[6,0,1548,48],
-"de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[6,0,1548,34],
-"de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[6,0,1548,50],
-"de/d3b/classspell__vazruden__call__nazan.html":[6,0,4231],
-"de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[6,0,4231,2],
-"de/d3b/classspell__vazruden__call__nazan.html#a434945da0a6b64db79cab0e09cbbb286":[6,0,4231,1]
+"de/d3b/classMotionMaster.html#afa6ffa9c5d6897f3aad3ac524c7bb35a":[6,0,1548,4]
 };

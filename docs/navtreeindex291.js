@@ -1,5 +1,11 @@
 var NAVTREEINDEX291 =
 {
+"db/d81/classspell__item__brewfest__mount__transformation.html#a2081334e6b7a4191801bc0556e26198c":[6,0,3331,3],
+"db/d81/classspell__item__brewfest__mount__transformation.html#a455bdb8fb98431d47b3e414dc3b59b13":[6,0,3331,1],
+"db/d81/classspell__item__brewfest__mount__transformation.html#ac3486a646322ef1b6098eeeedaec7d4b":[6,0,3331,0],
+"db/d81/classspell__item__brewfest__mount__transformation.html#acdade97c38a75439b3da751a0c348e37":[6,0,3331,2],
+"db/d81/structnpc__costumed__orphan__matron.html":[6,0,1731],
+"db/d81/structnpc__costumed__orphan__matron.html#a0b913090588613ac00ea928f6273d56f":[6,0,1731,0],
 "db/d81/structnpc__costumed__orphan__matron.html#a1a9c58c087b8addf8e482375737d6c49":[6,0,1731,4],
 "db/d81/structnpc__costumed__orphan__matron.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533":[6,0,1731,2],
 "db/d81/structnpc__costumed__orphan__matron.html#a4679d807df8749265ba0453c5b7588f1":[6,0,1731,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX291 =
 "db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,386,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[6,0,3355],
 "db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[6,0,3355,1],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[6,0,3355,0],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a8ae826705bd1a1f1da3160be73926d7b":[6,0,3355,2],
-"db/d89/classspell__item__dimensional__ripper__area52.html#abda715e38cf19fa7276ec4f4a12d3b63":[6,0,3355,3],
-"db/d8a/SpellProcAttributeTest_8cpp.html":[7,0,0,0,2,2,0,7,6],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a02bd4f6e5e771d5f4ef2cd70cf84a7fb":[7,0,0,0,2,2,0,7,6,5],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a0ed23b14d34ae9009d8474c59bbc490e":[7,0,0,0,2,2,0,7,6,7],
-"db/d8a/SpellProcAttributeTest_8cpp.html#a17aba2cc2fb4a797f1ecb1ae710396e3":[7,0,0,0,2,2,0,7,6,31]
+"db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[6,0,3355,0]
 };

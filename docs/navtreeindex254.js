@@ -1,5 +1,11 @@
 var NAVTREEINDEX254 =
 {
+"d9/df9/classspell__dk__pestilence.html":[6,0,2826],
+"d9/df9/classspell__dk__pestilence.html#a553f2f26a412d2060151b4f49055b847":[6,0,2826,3],
+"d9/df9/classspell__dk__pestilence.html#a9c30d4d6427cfc96b88a1427afcedb00":[6,0,2826,1],
+"d9/df9/classspell__dk__pestilence.html#ab8b68e02d05abceeb4b7eef00092e759":[6,0,2826,2],
+"d9/df9/classspell__dk__pestilence.html#afaffd667477e286700dd7e5562423452":[6,0,2826,0],
+"d9/dfa/classnpc__anubisath__sentinel.html":[6,0,1627],
 "d9/dfa/classnpc__anubisath__sentinel.html#ada1ab0d1857fe52020e798d9710a66cb":[6,0,1627,1],
 "d9/dfa/classnpc__anubisath__sentinel.html#ae19b8ba3766ede8f715dad5ff8d4b2d2":[6,0,1627,2],
 "d9/dfb/structboss__drakkari__colossus_1_1boss__drakkari__colossusAI.html":[6,0,441,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX254 =
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4ba746bb25ddccb7da0f438b2af0cad7":[7,0,0,0,1,2,48,4,1,258],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c2ee0ab8ef74bdd9e3e0b12be1bfa82":[7,0,0,0,1,2,48,4,1,175],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c467b494c80543428ffc6059a7a24ed":[7,0,0,0,1,2,48,4,1,370],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c768205209b4bbd8767f0fb30892da5":[7,0,0,0,1,2,48,4,1,259],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4d69cc3c9f8d32547d0c07a6c18bb3b4":[7,0,0,0,1,2,48,4,1,16],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4dd020f6ff563c8f94e41f1e8056c402":[7,0,0,0,1,2,48,4,1,328],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4e0c9a65d5995d1af9ae06f2c8174b89":[7,0,0,0,1,2,48,4,1,136],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4e4663fc79c3199b9c2b871ece3ee066":[7,0,0,0,1,2,48,4,1,432],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4f33adb78ececbbbc071856161251bbb":[7,0,0,0,1,2,48,4,1,408],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4f41ab781ea1ffc20bf17285a158c4df":[7,0,0,0,1,2,48,4,1,38]
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a4c768205209b4bbd8767f0fb30892da5":[7,0,0,0,1,2,48,4,1,259]
 };

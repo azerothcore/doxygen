@@ -1,5 +1,11 @@
 var NAVTREEINDEX244 =
 {
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#a3759dc8140194b09be842365dc0053d7":[6,0,5,16,4],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[6,0,5,16,5],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#aa70ef2d83084359af7bcc9e2de60ce77":[5,0,18,16,5],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[6,0,5,16,0],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#ac1d5edf075556c488aff36799ee6cb96":[5,0,18,16,0],
+"d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[6,0,5,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#ad92b0bd391dae5f934b7d6f8a39351d8":[5,0,18,16,2],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[6,0,5,16,3],
 "d9/d6e/structlfg_1_1LfgRoleCheck.html#af07fdfed0b56211af723db06959013f6":[5,0,18,16,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX244 =
 "d9/d7c/structboss__eck.html#aeaa0388d9fee4c6a025f823cd9e7e650":[6,0,450,3],
 "d9/d7e/classDatabaseLoader.html":[6,0,969],
 "d9/d7e/classDatabaseLoader.html#a236ce20d055e58a9e3de119c4dc2ff31":[6,0,969,17],
-"d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9":[6,0,969,9],
-"d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed":[6,0,969,14],
-"d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6":[6,0,969,12],
-"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5":[6,0,969,2],
-"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5a5161a0e808becff885fa27e98cb5341c":[6,0,969,2,2],
-"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5a714c8ecb6138cd56a8b1547ec0ad9886":[6,0,969,2,3],
-"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5ac000a77a66232f40f1ed5877b3d6e163":[6,0,969,2,1]
+"d9/d7e/classDatabaseLoader.html#a29da07080df4818e2ad57ee12361bfe9":[6,0,969,9]
 };

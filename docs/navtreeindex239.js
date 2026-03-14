@@ -1,5 +1,11 @@
 var NAVTREEINDEX239 =
 {
+"d9/d3d/classWorldPacket.html#af406fe2f357035990fd5eccf37f3fb93":[6,0,4630,2],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html":[5,0,34,1,3],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html":[6,0,12,1,3],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a0c6523d46a325841cc5511a2a0f3e5c2":[5,0,34,1,3,3],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a0c6523d46a325841cc5511a2a0f3e5c2":[6,0,12,1,3,3],
+"d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[5,0,34,1,3,0],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a20ffe6a8d19489014484722b1481cb65":[6,0,12,1,3,0],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[6,0,12,1,3,4],
 "d9/d3d/classWorldPackets_1_1Calendar_1_1GuildFilter.html#a363df89cbe7b5aba7c7df69b65468c49":[5,0,34,1,3,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX239 =
 "d9/d51/classEventEmitter.html":[6,0,1045],
 "d9/d51/classEventEmitter.html#a0221f13bb39f5087bce33b6075edaf3b":[6,0,1045,0],
 "d9/d51/classEventEmitter.html#a685854261b2714cf924622e58a88e6b6":[6,0,1045,1],
-"d9/d51/classEventEmitter.html#aae8c666d695a517a3ad1e08afa8c355a":[6,0,1045,2],
-"d9/d51/classspell__illidan__demon__transform1__aura.html":[6,0,3291],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a22d6c338ea1f2af9be0eb02aceba42bd":[6,0,3291,4],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a3e3bb503a6b5f90741a4df668851accf":[6,0,3291,1],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a4126d35669859963f10ed1425a054298":[6,0,3291,2],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3291,0],
-"d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3291,3]
+"d9/d51/classEventEmitter.html#aae8c666d695a517a3ad1e08afa8c355a":[6,0,1045,2]
 };

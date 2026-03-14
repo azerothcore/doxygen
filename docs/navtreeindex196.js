@@ -1,5 +1,11 @@
 var NAVTREEINDEX196 =
 {
+"d7/d56/AutobroadcastMgr_8h.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6":[7,0,0,0,1,2,6,1,2,0],
+"d7/d56/AutobroadcastMgr_8h.html#a34abff2dadcb74370b0749fe9fda3878":[7,0,0,0,1,2,6,1,1],
+"d7/d56/classnpc__kservant.html":[6,0,1941],
+"d7/d56/classnpc__kservant.html#a3ae7327ec2ead5a2d3ffb043f18ccc09":[6,0,1941,2],
+"d7/d56/classnpc__kservant.html#af04c8a87516e41f7d35071664034af9d":[6,0,1941,1],
+"d7/d56/classspell__brutallus__burn.html":[6,0,2731],
 "d7/d56/classspell__brutallus__burn.html#a17c49de5f6a37ff83126398d96b43a51":[6,0,2731,1],
 "d7/d56/classspell__brutallus__burn.html#a17d53f598be9fe9e9790bb96dfcb4891":[6,0,2731,3],
 "d7/d56/classspell__brutallus__burn.html#a703ac8467126f5c2aee393fcf2400ffc":[6,0,2731,0],
@@ -170,8 +176,8 @@ var NAVTREEINDEX196 =
 "d7/d61/classFactoryCreatureScript.html":[6,0,1052],
 "d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1052,1],
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1052,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,12,2,3],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,12,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
@@ -242,12 +248,6 @@ var NAVTREEINDEX196 =
 "d7/d64/classachievement__respect__your__elders.html":[6,0,87],
 "d7/d64/classachievement__respect__your__elders.html#a2fd66ada0ff7482c00b2cb417a12e88e":[6,0,87,0],
 "d7/d64/classachievement__respect__your__elders.html#a770922be3ab19848f7a8f43a82d78b88":[6,0,87,1],
-"d7/d64/structMMAP_1_1MMapData.html":[5,0,21,6],
 "d7/d64/structMMAP_1_1MMapData.html":[6,0,6,6],
-"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[5,0,21,6,1],
-"d7/d64/structMMAP_1_1MMapData.html#a28ad87f05014c49373557369e9177df5":[6,0,6,6,1],
-"d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[5,0,21,6,3],
-"d7/d64/structMMAP_1_1MMapData.html#a786a4b43773e4402451bed82cf221f66":[6,0,6,6,3],
-"d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[6,0,6,6,0],
-"d7/d64/structMMAP_1_1MMapData.html#ab6aa577df2b8bc749e68515b7b5ef96c":[5,0,21,6,0]
+"d7/d64/structMMAP_1_1MMapData.html":[5,0,21,6]
 };

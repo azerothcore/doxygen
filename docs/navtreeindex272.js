@@ -1,5 +1,11 @@
 var NAVTREEINDEX272 =
 {
+"da/dac/classspell__item__eggnog.html#a2b22be9826db241ecf3f99ff16c309c0":[6,0,3364,2],
+"da/dac/classspell__item__eggnog.html#a85dee311aab08d796a3a0c1bc9e9390d":[6,0,3364,1],
+"da/dac/classspell__item__eggnog.html#a98df659504307fc0666fe2b1001eaa00":[6,0,3364,3],
+"da/dac/classspell__item__eggnog.html#aad0be226a2d294d3361c1afbf644c5e4":[6,0,3364,0],
+"da/dac/classspell__q10923__evil__draws__near__summon.html":[6,0,3852],
+"da/dac/classspell__q10923__evil__draws__near__summon.html#a0adf10b63735dbdf1cb3d49c73f7da1d":[6,0,3852,1],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a8b32db78a3b4d5a01be230968fda3a8d":[6,0,3852,0],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#a9b72b16ac81c53aaa7936640e5149e6c":[6,0,3852,3],
 "da/dac/classspell__q10923__evil__draws__near__summon.html#ad6aedfed88d4a921122fdc7a8b501f0e":[6,0,3852,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX272 =
 "da/db9/classSpellEffectInfo.html#ac0803c6cd41e62d0011fda578e794676":[6,0,4383,26],
 "da/db9/classSpellEffectInfo.html#accc12116b35b54c6e8ab0bb5f3a1ec3f":[6,0,4383,17],
 "da/db9/classSpellEffectInfo.html#ad42425ba752779860726bd34b0bcc52a":[6,0,4383,11],
-"da/db9/classSpellEffectInfo.html#ad43f677913250f4b0505c6730912d5c4":[6,0,4383,1],
-"da/db9/classSpellEffectInfo.html#adc355dcdff6910ebd36b65598ce1920e":[6,0,4383,28],
-"da/db9/classSpellEffectInfo.html#ae3f69e686423d2bc2afb360d045ba62c":[6,0,4383,7],
-"da/db9/classSpellEffectInfo.html#ae53e6943b7ee4929e54eb07198a03ffb":[6,0,4383,40],
-"da/db9/classSpellEffectInfo.html#ae55c90629f04e78543272dfc9bb58474":[6,0,4383,34],
-"da/db9/classSpellEffectInfo.html#aee74e36f2e739bdfb7db58a3206f25c1":[6,0,4383,30],
-"da/db9/classSpellEffectInfo.html#af2e8b50078e3b9ff38a0ce326ce2a2ac":[6,0,4383,39]
+"da/db9/classSpellEffectInfo.html#ad43f677913250f4b0505c6730912d5c4":[6,0,4383,1]
 };

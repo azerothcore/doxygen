@@ -1871,19 +1871,16 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d23/classScriptRegistry.html">ScriptRegistry&lt;ServerScript&gt;::ScriptPointerList</a>.empty())</div>
-<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> copy(packet);</div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../da/dc8/classServerScript.html">ServerScript</a>, <a class="code hl_enumvalue" href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a>, !script-&gt;<a class="code hl_function" href="../../da/dc8/classServerScript.html#a9c817a6f922029c9c58f783c4ebc18ff">CanPacketReceive</a>(session, copy));</div>
-<div class="line"><span class="lineno">   66</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d23/classScriptRegistry.html">ScriptRegistry&lt;ServerScript&gt;::ScriptPointerList</a>.empty())</div>
+<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../da/dc8/classServerScript.html">ServerScript</a>, <a class="code hl_enumvalue" href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a>, !script-&gt;<a class="code hl_function" href="../../da/dc8/classServerScript.html#ada6045c5dcd48a011d66bd2998000d27">CanPacketReceive</a>(session, packet));</div>
+<div class="line"><span class="lineno">   62</span>}</div>
 <div class="ttc" id="aServerScript_8h_html_af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971"><div class="ttname"><a href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971">SERVERHOOK_CAN_PACKET_RECEIVE</a></div><div class="ttdeci">@ SERVERHOOK_CAN_PACKET_RECEIVE</div><div class="ttdef"><b>Definition</b> ServerScript.h:32</div></div>
 <div class="ttc" id="aclassScriptRegistry_html"><div class="ttname"><a href="../../d5/d23/classScriptRegistry.html">ScriptRegistry</a></div><div class="ttdef"><b>Definition</b> ScriptMgr.h:737</div></div>
 <div class="ttc" id="aclassServerScript_html"><div class="ttname"><a href="../../da/dc8/classServerScript.html">ServerScript</a></div><div class="ttdef"><b>Definition</b> ServerScript.h:37</div></div>
-<div class="ttc" id="aclassServerScript_html_a9c817a6f922029c9c58f783c4ebc18ff"><div class="ttname"><a href="../../da/dc8/classServerScript.html#a9c817a6f922029c9c58f783c4ebc18ff">ServerScript::CanPacketReceive</a></div><div class="ttdeci">virtual bool CanPacketReceive(WorldSession *, WorldPacket &amp;)</div><div class="ttdoc">Called when a (valid) packet is received by a client. The packet object is a copy of the original pac...</div><div class="ttdef"><b>Definition</b> ServerScript.h:72</div></div>
-<div class="ttc" id="aclassWorldPacket_html"><div class="ttname"><a href="../../d9/d3d/classWorldPacket.html">WorldPacket</a></div><div class="ttdef"><b>Definition</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aclassServerScript_html_ada6045c5dcd48a011d66bd2998000d27"><div class="ttname"><a href="../../da/dc8/classServerScript.html#ada6045c5dcd48a011d66bd2998000d27">ServerScript::CanPacketReceive</a></div><div class="ttdeci">virtual bool CanPacketReceive(WorldSession *, WorldPacket const &amp;)</div><div class="ttdoc">Called when a (valid) packet is received by a client. Make sure to check WorldSession pointer before ...</div><div class="ttdef"><b>Definition</b> ServerScript.h:72</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00072">ServerScript::CanPacketReceive()</a>, and <a class="el" href="../../#l00032">SERVERHOOK_CAN_PACKET_RECEIVE</a>.</p>
 
@@ -1920,13 +1917,11 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   50</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d23/classScriptRegistry.html">ScriptRegistry&lt;ServerScript&gt;::ScriptPointerList</a>.empty())</div>
 <div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_class" href="../../d9/d3d/classWorldPacket.html">WorldPacket</a> copy(packet);</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../da/dc8/classServerScript.html">ServerScript</a>, <a class="code hl_enumvalue" href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12">SERVERHOOK_CAN_PACKET_SEND</a>, !script-&gt;<a class="code hl_function" href="../../da/dc8/classServerScript.html#a6682dfb556d137feb5fc95a66ccd6917">CanPacketSend</a>(session, copy));</div>
-<div class="line"><span class="lineno">   56</span>}</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_define" href="../../d1/d2d/ScriptMgrMacros_8h.html#a6ed5893c246e1f2c46b3d33ef8729a64">CALL_ENABLED_BOOLEAN_HOOKS</a>(<a class="code hl_class" href="../../da/dc8/classServerScript.html">ServerScript</a>, <a class="code hl_enumvalue" href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12">SERVERHOOK_CAN_PACKET_SEND</a>, !script-&gt;<a class="code hl_function" href="../../da/dc8/classServerScript.html#ae7d02121a95adcc53263d006bc14da2f">CanPacketSend</a>(session, packet));</div>
+<div class="line"><span class="lineno">   54</span>}</div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
 <div class="ttc" id="aServerScript_8h_html_af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12"><div class="ttname"><a href="../../d8/d16/ServerScript_8h.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12">SERVERHOOK_CAN_PACKET_SEND</a></div><div class="ttdeci">@ SERVERHOOK_CAN_PACKET_SEND</div><div class="ttdef"><b>Definition</b> ServerScript.h:31</div></div>
-<div class="ttc" id="aclassServerScript_html_a6682dfb556d137feb5fc95a66ccd6917"><div class="ttname"><a href="../../da/dc8/classServerScript.html#a6682dfb556d137feb5fc95a66ccd6917">ServerScript::CanPacketSend</a></div><div class="ttdeci">virtual bool CanPacketSend(WorldSession *, WorldPacket &amp;)</div><div class="ttdoc">This hook called when a packet is sent to a client. The packet object is a copy of the original packe...</div><div class="ttdef"><b>Definition</b> ServerScript.h:62</div></div>
+<div class="ttc" id="aclassServerScript_html_ae7d02121a95adcc53263d006bc14da2f"><div class="ttname"><a href="../../da/dc8/classServerScript.html#ae7d02121a95adcc53263d006bc14da2f">ServerScript::CanPacketSend</a></div><div class="ttdeci">virtual bool CanPacketSend(WorldSession *, WorldPacket const &amp;)</div><div class="ttdoc">This hook is called when a packet is sent to a client.</div><div class="ttdef"><b>Definition</b> ServerScript.h:62</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00076">CALL_ENABLED_BOOLEAN_HOOKS</a>, <a class="el" href="../../#l00062">ServerScript::CanPacketSend()</a>, and <a class="el" href="../../#l00031">SERVERHOOK_CAN_PACKET_SEND</a>.</p>
 
@@ -20950,7 +20945,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d73/classScriptMgr.html">ScriptMgr</a></li>
-    <li class="footer">Generated on Fri Mar 13 2026 06:46:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Mar 14 2026 06:41:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

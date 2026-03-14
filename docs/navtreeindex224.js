@@ -1,5 +1,11 @@
 var NAVTREEINDEX224 =
 {
+"d8/d74/classWorldSession.html#abef70ca4333a15e804d54cb29982e1f2":[4,1,19,71],
+"d8/d74/classWorldSession.html#abf41f82f2279a60bbe2be97c9fb6a1f7":[4,1,19,138],
+"d8/d74/classWorldSession.html#abfdeb75eeb16716ab79be1cb00a074fb":[4,1,19,533],
+"d8/d74/classWorldSession.html#ac05f9883c87607d590a1a1fb8fe5880a":[4,1,19,319],
+"d8/d74/classWorldSession.html#ac0f9edb90c25fee08521145d1d84ec09":[4,1,19,103],
+"d8/d74/classWorldSession.html#ac12574e7948a0b481b446feb080b4893":[4,1,19,501],
 "d8/d74/classWorldSession.html#ac18167cbf822ae58c88cf859295ed543":[4,1,19,465],
 "d8/d74/classWorldSession.html#ac1913839b62e0bc6daa7905d3dfa87d0":[4,1,19,170],
 "d8/d74/classWorldSession.html#ac198550f5c1b253c06382d5b4d7237d0":[4,1,19,359],
@@ -218,8 +224,8 @@ var NAVTREEINDEX224 =
 "d8/d78/classDeathEvent.html#a099d0d5ae50126f00220b3ed90907617":[6,0,983,2],
 "d8/d78/classDeathEvent.html#a2fb9a98c077d715c4648aede6597276e":[6,0,983,0],
 "d8/d78/classDeathEvent.html#a497ac46ab1acf95816020fc6be8ce03a":[6,0,983,1],
-"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[6,0,12,6,31],
+"d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html":[5,0,34,6,31],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[5,0,34,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#a585a6a49fe9747d5044ac185f1236cf5":[6,0,12,6,31,0],
 "d8/d78/classWorldPackets_1_1Guild_1_1GuildGetInfo.html#aa2b107f35fcf348fb7f84c2971c5fa00":[5,0,34,6,31,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d7b/classRotateMovementGenerator.html#a0dc8600e3aa862a81735dfb927232e53":[6,0,2541,5],
 "d8/d7b/classRotateMovementGenerator.html#a18fea8760bb24912af9349a06ff7b596":[6,0,2541,3],
 "d8/d7b/classRotateMovementGenerator.html#a20677803edf5d93ceae3bf76ef426a81":[6,0,2541,2],
-"d8/d7b/classRotateMovementGenerator.html#a2cb8d5fc3d26c24e62c7373f1ce49b13":[6,0,2541,7],
-"d8/d7b/classRotateMovementGenerator.html#a3e177762fcfc11ac47aa820b46b93ed0":[6,0,2541,4],
-"d8/d7b/classRotateMovementGenerator.html#a7cf10886bdd50ccbc5900b9229958e01":[6,0,2541,8],
-"d8/d7b/classRotateMovementGenerator.html#a8717e890670d9f4e2ff66c0981d14aa6":[6,0,2541,6],
-"d8/d7b/classRotateMovementGenerator.html#a89a6559b4380210972e82c6ca6d5a9db":[6,0,2541,0],
-"d8/d7b/classRotateMovementGenerator.html#afd7588c7877b116cc9626a774b89d584":[6,0,2541,1],
-"d8/d7b/classspell__gen__lifebloom.html":[6,0,3065]
+"d8/d7b/classRotateMovementGenerator.html#a2cb8d5fc3d26c24e62c7373f1ce49b13":[6,0,2541,7]
 };

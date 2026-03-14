@@ -1,5 +1,11 @@
 var NAVTREEINDEX276 =
 {
+"da/dcc/boss__isalien_8cpp.html#ae7ff175f63ed6dcb6b39ddd95361f8bc":[7,0,0,0,1,3,4,2,0,5],
+"da/dcc/classspell__item__mind__control__cap.html":[6,0,3413],
+"da/dcc/classspell__item__mind__control__cap.html#a787b5b1c0d0687bad944452c678f33b9":[6,0,3413,0],
+"da/dcc/classspell__item__mind__control__cap.html#a79dcac5234ca195488e647a280806e69":[6,0,3413,2],
+"da/dcc/classspell__item__mind__control__cap.html#a8d7e2821f74443292c43c40bbfb9ed92":[6,0,3413,1],
+"da/dcc/classspell__item__mind__control__cap.html#ae9cbe89924c2578bb1ed21a55a48cf6b":[6,0,3413,3],
 "da/dcc/structGameTeleVisitor.html":[6,0,1113],
 "da/dcc/structGameTeleVisitor.html#a8ee9220d4226b4dd028f3f9c438f34ba":[6,0,1113,2],
 "da/dcc/structGameTeleVisitor.html#abeff0e73688ad4745201c5d817f7a442":[6,0,1113,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX276 =
 "da/ddc/classSmartAI.html#afb8837b85b794b28fce672d1e87c07a4":[6,0,2598,90],
 "da/ddc/classSmartAI.html#afc5db5d96c8de4036ab72b9dd5fa2225":[6,0,2598,27],
 "da/ddd/classboss__solakar__flamewreath.html":[6,0,722],
-"da/ddd/classboss__solakar__flamewreath.html#a0bd7971406392f15f68828ed217f4d06":[6,0,722,2],
-"da/ddd/classboss__solakar__flamewreath.html#a0d5a9f9525303014e72cd98d45bf302f":[6,0,722,1],
-"da/dde/Hyperlinks_8cpp.html":[7,0,0,0,1,2,11,4],
-"da/dde/Hyperlinks_8cpp.html#a0b5e4d40ad5549ddc48c127306499b6c":[7,0,0,0,1,2,11,4,10],
-"da/dde/Hyperlinks_8cpp.html#a1021653ddd2d2e78df34d8c4a2a7ed93":[7,0,0,0,1,2,11,4,11],
-"da/dde/Hyperlinks_8cpp.html#a7de61dd7d7c595063ae73f415e961cc9":[7,0,0,0,1,2,11,4,12],
-"da/dde/Hyperlinks_8cpp.html#af1c86bff85f30ff113d5f78421c280af":[7,0,0,0,1,2,11,4,9]
+"da/ddd/classboss__solakar__flamewreath.html#a0bd7971406392f15f68828ed217f4d06":[6,0,722,2]
 };

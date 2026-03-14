@@ -1,5 +1,11 @@
 var NAVTREEINDEX316 =
 {
+"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,715,2],
+"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,715,1],
+"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3171],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3171,3],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3171,2],
+"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3171,1],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#ad0782bfbd977954aac6170ee9111aef6":[6,0,3171,0],
 "dc/d44/classspell__sha__flurry__proc.html":[6,0,4041],
 "dc/d44/classspell__sha__flurry__proc.html#a912dd7ea10038103bb6d242bb7723830":[6,0,4041,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b5d78f04f1f0d7d3b5bb5d7611adfba":[7,0,0,0,1,2,26,2,0,127],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b7c08f3769b14c85ccd9b592323252e":[7,0,0,0,1,2,26,2,0,42],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1c45a09bb36f6d74685c180cb859a623":[7,0,0,0,1,2,26,2,0,16],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1ef74df5f0b7ad15e4af5a8aaf43f2cc":[7,0,0,0,1,2,26,2,0,156],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a213eafa2cb946183680992f7c9fbdf6b":[7,0,0,0,1,2,26,2,0,143],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14":[7,0,0,0,1,2,26,2,0,61],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a26e9d52bcf30e20484f21c591753b23b":[7,0,0,0,1,2,26,2,0,20],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a29509391af755a2d16bbc7dc9a34b777":[7,0,0,0,1,2,26,2,0,21],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2b3e2264e10df69b4fd91dddd6596e21":[7,0,0,0,1,2,26,2,0,5],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2dc05848dae9c1e9ddb3ba49785ebbfa":[7,0,0,0,1,2,26,2,0,130]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1ef74df5f0b7ad15e4af5a8aaf43f2cc":[7,0,0,0,1,2,26,2,0,156]
 };

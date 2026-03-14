@@ -1,5 +1,11 @@
 var NAVTREEINDEX256 =
 {
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad8950402705db05f483054517038fdcf":[7,0,0,0,1,2,48,4,1,295],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad89550cbe9f702ee1088f0221981bc67":[7,0,0,0,1,2,48,4,1,205],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad924c86659fa7e252d7fe13edc385a00":[7,0,0,0,1,2,48,4,1,454],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad9655657a01fceca399ae00e918977ec":[7,0,0,0,1,2,48,4,1,230],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ad9b2247cfa71502b4a206a4f9b55fd79":[7,0,0,0,1,2,48,4,1,459],
+"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4":[7,0,0,0,1,2,48,4,1,218],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adaa87ae1a662451454f455457f662729":[7,0,0,0,1,2,48,4,1,445],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adb4253fa69e835b574c8407d084c38a3":[7,0,0,0,1,2,48,4,1,82],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0adb9b5e0b0f2f4fa070cbeec1ddbbf86d":[7,0,0,0,1,2,48,4,1,409],
@@ -243,11 +249,5 @@ var NAVTREEINDEX256 =
 "da/d0c/classspell__q10985__light__of__the__naaru.html#a87d2959523a306f85c69aa5a7a5b3de5":[6,0,3859,1],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#a9dee4c4568f36f82b82148cb847d50ca":[6,0,3859,2],
 "da/d0c/classspell__q10985__light__of__the__naaru.html#aa9cf64a1965bd7924ce5a9c639d85fb3":[6,0,3859,0],
-"da/d0d/classachievement__yogg__saron__darkness.html":[6,0,108],
-"da/d0d/classachievement__yogg__saron__darkness.html#a536c7156305d47c41a062d3c1a1b16eb":[6,0,108,0],
-"da/d0d/classachievement__yogg__saron__darkness.html#a765ec4606bb489760ed1e15db10de1dc":[6,0,108,2],
-"da/d0d/classachievement__yogg__saron__darkness.html#a809902fca87abaeb4334132763624ed6":[6,0,108,1],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html":[6,0,2165],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html#a00f526b1b17b68f31a86e892e0997856":[6,0,2165,1],
-"da/d0d/classnpc__stone__watcher__of__norgannon.html#a5b79ebae097266ec4e1a0e3dfaa87da5":[6,0,2165,2]
+"da/d0d/classachievement__yogg__saron__darkness.html":[6,0,108]
 };

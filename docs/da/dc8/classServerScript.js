@@ -1,8 +1,8 @@
 var classServerScript =
 [
     [ "ServerScript", "da/dc8/classServerScript.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "da/dc8/classServerScript.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "da/dc8/classServerScript.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
+    [ "CanPacketReceive", "da/dc8/classServerScript.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "da/dc8/classServerScript.html#ae7d02121a95adcc53263d006bc14da2f", null ],
     [ "OnNetworkStart", "da/dc8/classServerScript.html#ab51ce520816236687820d1f72bae0ed6", null ],
     [ "OnNetworkStop", "da/dc8/classServerScript.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
     [ "OnSocketClose", "da/dc8/classServerScript.html#a8386aef9c139f06732a5f36eadccec6c", null ],

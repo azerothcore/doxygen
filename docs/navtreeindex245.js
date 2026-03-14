@@ -1,5 +1,11 @@
 var NAVTREEINDEX245 =
 {
+"d9/d7e/classDatabaseLoader.html#a2cfecfa5c98f816deca6b1f8fd19f8ed":[6,0,969,14],
+"d9/d7e/classDatabaseLoader.html#a3335a6486e3e65b1ca3cbe42167455c6":[6,0,969,12],
+"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5":[6,0,969,2],
+"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5a5161a0e808becff885fa27e98cb5341c":[6,0,969,2,2],
+"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5a714c8ecb6138cd56a8b1547ec0ad9886":[6,0,969,2,3],
+"d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5ac000a77a66232f40f1ed5877b3d6e163":[6,0,969,2,1],
 "d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5ade00402102c878cff7f8344ca6020927":[6,0,969,2,0],
 "d9/d7e/classDatabaseLoader.html#a48b4a16db3575bc0e3885a6ffd11a8e5af32e2f62e18c4336d9cc446665627f9b":[6,0,969,2,4],
 "d9/d7e/classDatabaseLoader.html#a4d4e52215ebf500e0603153089127ad8":[6,0,969,8],
@@ -243,11 +249,5 @@ var NAVTREEINDEX245 =
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165af795a10e6473f818cd879a2b04c1be0a":[7,0,0,0,1,3,5,9,2,1,12,1],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165afc08b54924472faa1ccc8d57dee7cc0a":[7,0,0,0,1,3,5,9,2,1,12,10],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165afe7f2eb3573c34df20b69de24ea2c9fc":[7,0,0,0,1,3,5,9,2,1,12,2],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a17a6a60c682f5ce1ebc97521a02b1f22":[7,0,0,0,1,3,5,9,2,1,17],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a2afb8a2c08b65be84a9ffeca28a7044a":[7,0,0,0,1,3,5,9,2,1,18],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,9,2,1,13],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a29d8f797f45f444b64bba7b3fcd8d359":[7,0,0,0,1,3,5,9,2,1,13,1],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3992b6754ab23e4ce03f9e8674bacb34":[7,0,0,0,1,3,5,9,2,1,13,0],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470":[7,0,0,0,1,3,5,9,2,1,10],
-"d9/d88/boss__assembly__of__iron_8cpp.html#a4b0e77731f7ebd91ba03b6884940e470a05a8137e8cfea5a884c1e26e7bc68dc3":[7,0,0,0,1,3,5,9,2,1,10,3]
+"d9/d88/boss__assembly__of__iron_8cpp.html#a17a6a60c682f5ce1ebc97521a02b1f22":[7,0,0,0,1,3,5,9,2,1,17]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX186 =
 {
+"d6/dd8/classboss__arlokk.html#a55bb21239e05acff18d2fb147449800e":[6,0,399,1],
+"d6/dd8/classboss__arlokk.html#a58b8cc7a198784b48faaab1b069d397c":[6,0,399,2],
+"d6/dd8/classnpc__sindragosa__trash.html":[6,0,2142],
+"d6/dd8/classnpc__sindragosa__trash.html#a9634ea10e767b4d6e293fc3fdd491702":[6,0,2142,1],
+"d6/dd8/classnpc__sindragosa__trash.html#ab1de715d98236a853a793d830bc601d7":[6,0,2142,2],
+"d6/dd8/structAcore_1_1find__type__if_3_01Check_00_01T1_00_01Ts_8_8_8_01_4.html":[5,0,1,64],
 "d6/dd8/structAcore_1_1find__type__if_3_01Check_00_01T1_00_01Ts_8_8_8_01_4.html":[6,0,0,52],
 "d6/dd9/boss__skadi_8cpp.html":[7,0,0,0,1,3,5,10,1,1],
 "d6/dd9/boss__skadi_8cpp.html#a2b02990fe865bfd78ada58f3bab76840":[7,0,0,0,1,3,5,10,1,1,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX186 =
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae28afffba3897232433dfda687d84c90":[7,0,0,0,1,3,2,12,2,8,10],
 "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,12,2,10],
 "d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a16e9cc7703fe1fd664375ca8578cb3fc":[7,0,0,0,1,3,2,12,2,10,2],
-"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,2,12,2,10,6],
-"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaa268af7149a8c484dcf655ef0ea1b5e":[7,0,0,0,1,3,2,12,2,10,3],
-"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aaff7201ebe3a2de7322accea1f9266f6":[7,0,0,0,1,3,2,12,2,10,1],
-"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab0554bb474effa5a810d32f250d0c1e5":[7,0,0,0,1,3,2,12,2,10,5],
-"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ab2f747037153944199e358bc39a12d25":[7,0,0,0,1,3,2,12,2,10,4],
-"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ad833823a492893c6d67c64bea8e80c7a":[7,0,0,0,1,3,2,12,2,10,0],
-"d6/de9/boss__felmyst_8cpp.html#a4e49dd316fb0b3871e52ae3697488110":[7,0,0,0,1,3,2,12,2,15]
+"d6/de9/boss__felmyst_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a50c8ef575df67b3816d12afc28db8162":[7,0,0,0,1,3,2,12,2,10,6]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX286 =
 {
+"db/d50/structVehicleAccessory.html#a73b54fbbfe8e18f7129acc65dadec447":[6,0,4555,3],
+"db/d50/structVehicleAccessory.html#ace3fd27311370e4db4103f2c3ac70410":[6,0,4555,2],
+"db/d50/structVehicleAccessory.html#afc843c62c580c860471b0e49f5901363":[6,0,4555,4],
+"db/d51/classspell__dk__death__gate.html":[6,0,2806],
+"db/d51/classspell__dk__death__gate.html#a4f4f7004be5629efdc48b52b6667edba":[6,0,2806,1],
+"db/d51/classspell__dk__death__gate.html#a599ce758681c5196bd40e4c7b86635cc":[6,0,2806,2],
 "db/d51/classspell__dk__death__gate.html#a931d7a6aa2f1b574c225d3e803edbab4":[6,0,2806,0],
 "db/d51/classspell__dk__death__gate.html#ab184b23aa446c826db39928eb3ff3ecc":[6,0,2806,3],
 "db/d52/boss__eck_8cpp.html":[7,0,0,0,1,3,5,5,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX286 =
 "db/d5c/classWarden.html#ab8bfafc802aa201500682bb39cee6e32":[6,0,4571,12],
 "db/d5c/classWarden.html#ac39706645f201fed3c8ff7c1cf3d2654":[6,0,4571,28],
 "db/d5c/classWarden.html#ac5a815f5f6527a3588c6cd138a02f7d2":[6,0,4571,22],
-"db/d5c/classWarden.html#acf842c95b7d7ab5eb5a4f539a487d449":[6,0,4571,11],
-"db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428":[6,0,4571,17],
-"db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e":[6,0,4571,3],
-"db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88":[6,0,4571,38],
-"db/d5c/classWarden.html#af79f135bbac6904b2f80485ae838f570":[6,0,4571,13],
-"db/d5c/classWarden.html#afa01784ae3fa6815dd7f746f52ffb4b4":[6,0,4571,32],
-"db/d5c/classWarden.html#afac740e6d1e2b7c9df4a282b43fa24b5":[6,0,4571,10]
+"db/d5c/classWarden.html#acf842c95b7d7ab5eb5a4f539a487d449":[6,0,4571,11]
 };

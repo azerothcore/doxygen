@@ -1,5 +1,11 @@
 var NAVTREEINDEX394 =
 {
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa20f14895acd728e52ad86e45f67eaee":[7,0,0,0,1,2,16,5,0,4,6,287],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa32bfbfaf9d72cb71f04a1d05ca8e1e5":[7,0,0,0,1,2,16,5,0,4,6,179],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa504cdcaddddd04829722efd30ef532b":[7,0,0,0,1,2,16,5,0,4,6,208],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa5602b12f581ee976d98dca4ee253e1f":[7,0,0,0,1,2,16,5,0,4,6,289],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa5f02fdbcf1bc92eaa1c3c79f8fca465":[7,0,0,0,1,2,16,5,0,4,6,242],
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa5fe51a87dea1a8de0c196ee561b9928":[7,0,0,0,1,2,16,5,0,4,6,220],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa70f1fc55b073a9f471e80647ac50f98":[7,0,0,0,1,2,16,5,0,4,6,89],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa8ed00abbd7e7cf1ebafcbb9e0c634bb":[7,0,0,0,1,2,16,5,0,4,6,82],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881aa9a2f26b2dfa7410ebb0f092b520d1eb":[7,0,0,0,1,2,16,5,0,4,6,177],
@@ -243,11 +249,5 @@ var NAVTREEINDEX394 =
 "df/d26/structnpc__icc__blood__beast_1_1npc__icc__blood__beastAI.html#af52eff9f66451444c5acba6930c1bff6":[6,0,1886,0,0],
 "df/d27/DatabaseWorkerPool_8cpp.html":[7,0,0,0,1,1,0,10],
 "df/d27/DatabaseWorkerPool_8cpp.html#a25e66781580e4e7fcbd8e8ca6ef9f13a":[7,0,0,0,1,1,0,10,4],
-"df/d27/DatabaseWorkerPool_8cpp.html#a31d71bc4748fa66e040eb20dc995e12e":[7,0,0,0,1,1,0,10,1],
-"df/d27/DatabaseWorkerPool_8cpp.html#a8751940b74a554bf0a86046325e0c5ed":[7,0,0,0,1,1,0,10,3],
-"df/d27/DatabaseWorkerPool_8cpp.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18":[7,0,0,0,1,1,0,10,2],
-"df/d27/classnpc__magwin.html":[6,0,1971],
-"df/d27/classnpc__magwin.html#a1a45602fd312a4c436b09fb7b90ac1d4":[6,0,1971,1],
-"df/d27/classnpc__magwin.html#a83bee0fd5c1494f2bb732fe9e0ed1594":[6,0,1971,2],
-"df/d27/classspell__gen__bm__off.html":[6,0,3003]
+"df/d27/DatabaseWorkerPool_8cpp.html#a31d71bc4748fa66e040eb20dc995e12e":[7,0,0,0,1,1,0,10,1]
 };

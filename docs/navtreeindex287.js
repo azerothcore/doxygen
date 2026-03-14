@@ -1,5 +1,11 @@
 var NAVTREEINDEX287 =
 {
+"db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428":[6,0,4571,17],
+"db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e":[6,0,4571,3],
+"db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88":[6,0,4571,38],
+"db/d5c/classWarden.html#af79f135bbac6904b2f80485ae838f570":[6,0,4571,13],
+"db/d5c/classWarden.html#afa01784ae3fa6815dd7f746f52ffb4b4":[6,0,4571,32],
+"db/d5c/classWarden.html#afac740e6d1e2b7c9df4a282b43fa24b5":[6,0,4571,10],
 "db/d5c/classWarden.html#affe98268403db8e661541e7cc2b4714c":[6,0,4571,1],
 "db/d5c/classspell__pri__improved__spirit__tap.html":[6,0,3788],
 "db/d5c/classspell__pri__improved__spirit__tap.html#a13e108f88a07f0b46291cdc718022437":[6,0,3788,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX287 =
 "db/d68/WorldState_8cpp.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5":[7,0,0,0,1,2,48,5,2,3],
 "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6c":[7,0,0,0,1,2,48,5,0],
 "db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c":[7,0,0,0,1,2,48,5,0,1],
-"db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130":[7,0,0,0,1,2,48,5,0,2],
-"db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b":[7,0,0,0,1,2,48,5,0,3],
-"db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589":[7,0,0,0,1,2,48,5,0,0],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704":[7,0,0,0,1,2,48,5,1],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5":[7,0,0,0,1,2,48,5,1,11],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24":[7,0,0,0,1,2,48,5,1,0],
-"db/d68/WorldState_8cpp.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377":[7,0,0,0,1,2,48,5,1,4]
+"db/d68/WorldState_8cpp.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130":[7,0,0,0,1,2,48,5,0,2]
 };

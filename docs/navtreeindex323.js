@@ -1,5 +1,11 @@
 var NAVTREEINDEX323 =
 {
+"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad8c34d014ab219079cf4e3e391391cd8":[7,0,0,0,1,3,4,9,8,5,4],
+"dc/da8/boss__viscidus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,8,8],
+"dc/da8/boss__viscidus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af126c88292aed181eaab23fb134e71e2":[7,0,0,0,1,3,4,9,8,8,0],
+"dc/da8/boss__viscidus_8cpp.html#a55ed06aacd845849df65d5b7fc848ee6":[7,0,0,0,1,3,4,9,8,13],
+"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,8,11],
+"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca0f256187ffe94ab52276a131aa23663a":[7,0,0,0,1,3,4,9,8,11,10],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca1060b31df8e0a9bb9da396eb250017bb":[7,0,0,0,1,3,4,9,8,11,0],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca23348545909131535a18f457a02c4431":[7,0,0,0,1,3,4,9,8,11,8],
 "dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca52d7b44065026b46654e430dd05f73a8":[7,0,0,0,1,3,4,9,8,11,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX323 =
 "dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[6,0,2736,2],
 "dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2736,0],
 "dc/db3/boss__archimonde_8cpp.html":[7,0,0,0,1,3,4,1,0,1],
-"dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[7,0,0,0,1,3,4,1,0,1,10],
-"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[7,0,0,0,1,3,4,1,0,1,12],
-"dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[7,0,0,0,1,3,4,1,0,1,11],
-"dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[7,0,0,0,1,3,4,1,0,1,15],
-"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0":[7,0,0,0,1,3,4,1,0,1,5],
-"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0b9fc9a91d0ecbb9f26e41495f727b76":[7,0,0,0,1,3,4,1,0,1,5,3],
-"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0db281a1e681866a39bca35ce98dab32":[7,0,0,0,1,3,4,1,0,1,5,16]
+"dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[7,0,0,0,1,3,4,1,0,1,10]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX335 =
 {
+"dd/d33/structnpc__ulduar__storm__tempered__keeper.html#ae4dc8352fd0ff41974a33a4500d19e74":[6,0,2264,0],
+"dd/d34/classinstance__the__black__morass.html":[6,0,1364],
+"dd/d34/classinstance__the__black__morass.html#a44b01fc7ab23c8f4ecfa1e375a237463":[6,0,1364,2],
+"dd/d34/classinstance__the__black__morass.html#aa59c960a89dbd66a4c0ad2105792efb4":[6,0,1364,1],
+"dd/d34/namespaceVMAP.html":[5,0,31],
+"dd/d34/namespaceVMAP.html#a166f3eeee53079ac9df4f15ccd577974":[5,0,31,42],
 "dd/d34/namespaceVMAP.html#a28dc2e567f8620fed1128b6c4cf5b749":[5,0,31,30],
 "dd/d34/namespaceVMAP.html#a3424b44a092b5f3d8074649ae11ee481":[5,0,31,33],
 "dd/d34/namespaceVMAP.html#a38798cd0b87931dbaeda34fa316c2f6f":[5,0,31,29],
@@ -243,11 +249,5 @@ var NAVTREEINDEX335 =
 "dd/d3b/structGameObjectTemplate.html#abaca379bf55b3a1d2843b24dc193ddf3":[6,0,1109,52],
 "dd/d3b/structGameObjectTemplate.html#abce6b163842d2c417ec037578cb30bc5":[6,0,1109,37],
 "dd/d3b/structGameObjectTemplate.html#abcf70152170d7b4cf2166eb7fff428c4":[6,0,1109,174],
-"dd/d3b/structGameObjectTemplate.html#abeca02391fbdf614e0ef029afbe2534d":[6,0,1109,40],
-"dd/d3b/structGameObjectTemplate.html#abf785d310ce10d3edab56e8c03f589c3":[6,0,1109,160],
-"dd/d3b/structGameObjectTemplate.html#ac3d37219dab971cd5a9b891d8ce3042b":[6,0,1109,79],
-"dd/d3b/structGameObjectTemplate.html#ac5314d6e2c76eae67b79cd47806958f6":[6,0,1109,34],
-"dd/d3b/structGameObjectTemplate.html#ac742ba457283faf214f1c2b8d8ab6fe1":[6,0,1109,67],
-"dd/d3b/structGameObjectTemplate.html#ac9504a9e96b449ee0935e5434b794e1a":[6,0,1109,102],
-"dd/d3b/structGameObjectTemplate.html#ac959710b366a821094ba7b897fada884":[6,0,1109,136]
+"dd/d3b/structGameObjectTemplate.html#abeca02391fbdf614e0ef029afbe2534d":[6,0,1109,40]
 };

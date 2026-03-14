@@ -1,5 +1,11 @@
 var NAVTREEINDEX233 =
 {
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea839059eca54ba38023aa55cf145a7b8b":[7,0,0,0,1,2,8,1,19,10,19],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea96ed9b8c8ee7a83223e574eb5f10a5f5":[7,0,0,0,1,2,8,1,19,10,25],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa38a0ee752c0842ff30602a6fd1d3f18":[7,0,0,0,1,2,8,1,19,10,24],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa7b9b17103e6e227b4753d3d82a1c4ff":[7,0,0,0,1,2,8,1,19,10,16],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beaa9e1c5eb5858ba48354ae39686111b64":[7,0,0,0,1,2,8,1,19,10,23],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beab5b28e7ffb35f76df37b53d2c3a01a86":[7,0,0,0,1,2,8,1,19,10,6],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beac4146576abce67a75c7bd9ac83626024":[7,0,0,0,1,2,8,1,19,10,0],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924beac83ade9e45d805fb4aa9e95400bb5b98":[7,0,0,0,1,2,8,1,19,10,7],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bead91e87158b2006ef8b30c3a5e464e68b":[7,0,0,0,1,2,8,1,19,10,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX233 =
 "d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[7,0,0,0,1,3,0,51,0],
 "d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[7,0,0,0,1,3,0,51,1],
 "d8/df0/classat__lady__deathwhisper__entrance.html":[6,0,238],
-"d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[6,0,238,0],
-"d8/df0/classat__lady__deathwhisper__entrance.html#a769c838c94a88af5492057909d88f3de":[6,0,238,1],
-"d8/df1/classObjectRegistry.html":[6,0,2344],
-"d8/df1/classObjectRegistry.html#a2734a0e6001f597b43e006bc9d84a6b1":[6,0,2344,2],
-"d8/df1/classObjectRegistry.html#a3c95897734a780c1f299d24a058b3595":[6,0,2344,5],
-"d8/df1/classObjectRegistry.html#a474bdff0ab0f0a3db5f914b9dfaa48d1":[6,0,2344,4],
-"d8/df1/classObjectRegistry.html#a55416824a5dff4138f5d828e352e3d7c":[6,0,2344,6]
+"d8/df0/classat__lady__deathwhisper__entrance.html#a3c16844f4ff97fd0699edb1d1aca2f60":[6,0,238,0]
 };

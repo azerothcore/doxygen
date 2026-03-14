@@ -1,5 +1,11 @@
 var NAVTREEINDEX401 =
 {
+"df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[6,0,655,5],
+"df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[6,0,655,8],
+"df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[6,0,655,9],
+"df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[6,0,655,6],
+"df/d7f/structboss__novos.html#accd720c3cb74905ef5ecf793089681eb":[6,0,655,4],
+"df/d7f/structboss__novos.html#ad037870744002e44a48e056875bd7ec1":[6,0,655,2],
 "df/d7f/structboss__novos.html#ae05afda7873a26a7a812813628e970fc":[6,0,655,0],
 "df/d7f/structboss__novos.html#ae6c7721cfc95e8a524ea3d2fc4e20a88":[6,0,655,15],
 "df/d7f/structboss__novos.html#af37e7d05ad672d443f7f2f89c7fd24a5":[6,0,655,11],
@@ -243,11 +249,5 @@ var NAVTREEINDEX401 =
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a475d0bab96e226853368be3b68c5a2d3":[6,0,3870,0],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#a91e75a059828a30d509fd22be19048f8":[6,0,3870,3],
 "df/d8c/classspell__q11396__11399__force__shield__arcane__purple__x3.html#aa22a095e40789ac562a64c20d7eadb28":[6,0,3870,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4365],
-"df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4365,2],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4365,1],
-"df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4365,0],
-"df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
-"df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,1,1,0],
-"df/d8d/GlobalScript_8cpp.html":[7,0,0,0,1,2,38,0,53]
+"df/d8c/classspell__yogg__saron__target__selectors.html":[6,0,4365]
 };

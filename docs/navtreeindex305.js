@@ -1,5 +1,11 @@
 var NAVTREEINDEX305 =
 {
+"db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[5,0,34,27,9],
+"db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[6,0,12,27,9],
+"db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[5,0,34,27,3],
+"db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[6,0,12,27,3],
+"db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[5,0,34,27,8],
+"db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[6,0,12,27,8],
 "db/de2/structPoolObject.html":[6,0,2450],
 "db/de2/structPoolObject.html#a772dc7bc9e1ce25edba89977bf87e3f0":[6,0,2450,0],
 "db/de2/structPoolObject.html#ae10fa01f5959e231fe2c16d38d9f3615":[6,0,2450,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX305 =
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07":[7,0,0,0,1,3,9,3,42,0],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea30a3a1cf72dd1294b4780aafc7e8aed1":[7,0,0,0,1,3,9,3,42,33],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410":[7,0,0,0,1,3,9,3,42,21],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c":[7,0,0,0,1,3,9,3,42,13],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3fe2049f68094a11efb86e4e93a040be":[7,0,0,0,1,3,9,3,42,28],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea43d93b93e0b2e38e803c2f4c3257df09":[7,0,0,0,1,3,9,3,42,32],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491":[7,0,0,0,1,3,9,3,42,26],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7":[7,0,0,0,1,3,9,3,42,19],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54":[7,0,0,0,1,3,9,3,42,12],
-"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1":[7,0,0,0,1,3,9,3,42,9]
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c":[7,0,0,0,1,3,9,3,42,13]
 };

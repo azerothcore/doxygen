@@ -1,5 +1,11 @@
 var NAVTREEINDEX340 =
 {
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba055f28e2d12b3f0bdd256be893e30212":[7,0,0,0,1,3,3,2,12,15],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba0db37d09c602d7d587905ed4aa71f7b7":[7,0,0,0,1,3,3,2,12,9],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba420c31da23089399832d6e0e451ab290":[7,0,0,0,1,3,3,2,12,0],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba51685353084b593adaf0f84b25ab71bb":[7,0,0,0,1,3,3,2,12,8],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba834574fed20fd18467e66663074a9aa4":[7,0,0,0,1,3,3,2,12,12],
+"dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba9737bb7a7b903e68e31a18aa1aa331df":[7,0,0,0,1,3,3,2,12,2],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa51c253238b3d595a7ee2ce267a8c3ef":[7,0,0,0,1,3,3,2,12,10],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa7970d45dae9a330fd3e3bd098bb5f97":[7,0,0,0,1,3,3,2,12,14],
 "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebabec129b310b63190274ed89412ae2f62":[7,0,0,0,1,3,3,2,12,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX340 =
 "dd/d88/classspell__pal__righteous__defense.html#a4fc8f6a7ecd041dcfca4fd51d71e725c":[6,0,3741,5],
 "dd/d88/classspell__pal__righteous__defense.html#a9247b5f3a376bebdcf857565b5049944":[6,0,3741,3],
 "dd/d88/classspell__pal__righteous__defense.html#aa67bf9f81086a3837037d67306979072":[6,0,3741,2],
-"dd/d88/classspell__pal__righteous__defense.html#aaf056806d72da6aa2e3e6e70d46d6933":[6,0,3741,4],
-"dd/d88/classspell__pal__righteous__defense.html#aca027bb2995456bfcedd33c06966eb88":[6,0,3741,1],
-"dd/d88/classspell__pal__righteous__defense.html#ad7bfc65b26013ad259679ae8b4a5dd9a":[6,0,3741,0],
-"dd/d89/structMCBossObject.html":[6,0,1519],
-"dd/d89/structMCBossObject.html#a898f2ce24d96fb7d6a118e9772344c43":[6,0,1519,0],
-"dd/d89/structMCBossObject.html#aa7ac7e2d5729aa906e00ca9c2648581d":[6,0,1519,2],
-"dd/d89/structMCBossObject.html#aaa379e61fda2f7225ab4089757df5d24":[6,0,1519,1]
+"dd/d88/classspell__pal__righteous__defense.html#aaf056806d72da6aa2e3e6e70d46d6933":[6,0,3741,4]
 };

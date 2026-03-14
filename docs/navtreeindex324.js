@@ -1,5 +1,11 @@
 var NAVTREEINDEX324 =
 {
+"dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[7,0,0,0,1,3,4,1,0,1,12],
+"dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[7,0,0,0,1,3,4,1,0,1,11],
+"dc/db3/boss__archimonde_8cpp.html#a46e3f1b18b8885563b0c6ab2fa5d8f84":[7,0,0,0,1,3,4,1,0,1,15],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0":[7,0,0,0,1,3,4,1,0,1,5],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0b9fc9a91d0ecbb9f26e41495f727b76":[7,0,0,0,1,3,4,1,0,1,5,3],
+"dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a0db281a1e681866a39bca35ce98dab32":[7,0,0,0,1,3,4,1,0,1,5,16],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a131160f2bc14eeba884641435ee938ad":[7,0,0,0,1,3,4,1,0,1,5,12],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a1c068d4f23d35de4584c55a0c132507f":[7,0,0,0,1,3,4,1,0,1,5,2],
 "dc/db3/boss__archimonde_8cpp.html#a53d8e09d2b56c10f7952ddbff6d587b0a1f19bfd1711ba15c931347a727666494":[7,0,0,0,1,3,4,1,0,1,5,13],
@@ -243,11 +249,5 @@ var NAVTREEINDEX324 =
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a23aaa0a619470898dd617a18130ca17b":[6,0,671,7],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[6,0,671,11],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#a2e0e387ae4645c9bbd4625d1469403a8":[6,0,671,3],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a498ef73fcc7995113318c5f0b6efa23e":[6,0,671,13],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7":[6,0,671,5],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a6056ef3425f39208e5731b25fc94a335":[6,0,671,1],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a6935410d7a4ce8e9dec9feed9f5351d7":[6,0,671,2],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[6,0,671,8],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a8b06ee0a3e22d495a41ccf4c7009ad2d":[6,0,671,4],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[6,0,671,6]
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a498ef73fcc7995113318c5f0b6efa23e":[6,0,671,13]
 };

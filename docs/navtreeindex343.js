@@ -1,5 +1,11 @@
 var NAVTREEINDEX343 =
 {
+"dd/d9f/MoveSpline_8cpp.html#a0f9e26b66bd86bb9701c366e4f9529c3":[7,0,0,0,1,2,31,1,4,3],
+"dd/d9f/MoveSpline_8cpp.html#a4005b3acaa5011bfc2cc027562c04dfb":[7,0,0,0,1,2,31,1,4,2],
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html":[6,0,3959],
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#a2e2668f0b5bf369ec859627e0bd8d980":[6,0,3959,1],
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#acd7e22159d262a9888c744eecb978c09":[6,0,3959,2],
+"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#ae9baf688d8ac42c4ccbbf13f3b79e831":[6,0,3959,0],
 "dd/d9f/classspell__voodoo.html":[6,0,4244],
 "dd/d9f/classspell__voodoo.html#a2f297ab67d5e2e990658706f7c508bd4":[6,0,4244,2],
 "dd/d9f/classspell__voodoo.html#a38dafff805471b19ca3cca4ff5273a87":[6,0,4244,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX343 =
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0":[7,0,0,0,1,3,5,9,1,2,11,3],
 "dd/dab/boss__sjonnir_8cpp.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca":[7,0,0,0,1,3,5,9,1,2,11,6],
 "dd/dab/boss__sjonnir_8cpp.html#a751d0854890cab158f40e51e23feec32":[7,0,0,0,1,3,5,9,1,2,14],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,5,9,1,2,9],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7":[7,0,0,0,1,3,5,9,1,2,9,0],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591":[7,0,0,0,1,3,5,9,1,2,9,2],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a":[7,0,0,0,1,3,5,9,1,2,9,1],
-"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280":[7,0,0,0,1,3,5,9,1,2,9,3],
-"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,9,1,2,8],
-"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401":[7,0,0,0,1,3,5,9,1,2,8,0]
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753":[7,0,0,0,1,3,5,9,1,2,9]
 };

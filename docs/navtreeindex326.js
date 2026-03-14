@@ -1,5 +1,11 @@
 var NAVTREEINDEX326 =
 {
+"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#ad906b7602a34abcfaede92cba6f0a6d7":[6,0,1662,0,1],
+"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#aed531e61508d4d404827f47c6348a5e6":[6,0,1662,0,0],
+"dc/dd3/classboss__ymiron.html":[6,0,801],
+"dc/dd3/classboss__ymiron.html#a0a8caed3c8021ddf861cc71b57297c41":[6,0,801,2],
+"dc/dd3/classboss__ymiron.html#a708ffc55e0a190a8ed6adb0bca6ced7c":[6,0,801,1],
+"dc/dd3/structboss__aeonus.html":[6,0,378],
 "dc/dd3/structboss__aeonus.html#a3147774fa5bff34d01947fdcf254ba7b":[6,0,378,6],
 "dc/dd3/structboss__aeonus.html#a4aa2f3d82aaaf5cd3a938ad92aad059d":[6,0,378,5],
 "dc/dd3/structboss__aeonus.html#a5f193144e36a889630d5dbadb4aa665f":[6,0,378,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX326 =
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9c6e961944f462fc3c48a6400c76266c":[7,0,0,0,1,3,2,17,143],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9ed2340a152ddd317bff9bfd72ed5e2a":[7,0,0,0,1,3,2,17,33],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[7,0,0,0,1,3,2,17,61],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[7,0,0,0,1,3,2,17,129],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa3656c85bb96e31201c40ed1747c9b27":[7,0,0,0,1,3,2,17,98],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa56adbecee394d8cb06c22e6e910d0f2":[7,0,0,0,1,3,2,17,29],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa67242f93d926d1bc712d8bfd0cd779a":[7,0,0,0,1,3,2,17,32],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa6b1d1380186602b7ff6054055bce67f":[7,0,0,0,1,3,2,17,96],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa6bd449c9eeb3b1873d3563b6250e0a6":[7,0,0,0,1,3,2,17,80],
-"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa8221a45c0b038126f83d9decb794dbe":[7,0,0,0,1,3,2,17,102]
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa2f983b337fe1f23e428542f1d26d0c2":[7,0,0,0,1,3,2,17,129]
 };

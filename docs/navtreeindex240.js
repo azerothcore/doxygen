@@ -1,5 +1,11 @@
 var NAVTREEINDEX240 =
 {
+"d9/d51/classspell__illidan__demon__transform1__aura.html":[6,0,3291],
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a22d6c338ea1f2af9be0eb02aceba42bd":[6,0,3291,4],
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a3e3bb503a6b5f90741a4df668851accf":[6,0,3291,1],
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a4126d35669859963f10ed1425a054298":[6,0,3291,2],
+"d9/d51/classspell__illidan__demon__transform1__aura.html#a4ff26763f05b07d882cd8d209464910e":[6,0,3291,0],
+"d9/d51/classspell__illidan__demon__transform1__aura.html#adb6a44892d80aeaaf4c15c71a47f422e":[6,0,3291,3],
 "d9/d51/cs__mmaps_8cpp.html":[7,0,0,0,1,3,0,30],
 "d9/d51/cs__mmaps_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd":[7,0,0,0,1,3,0,30,1],
 "d9/d52/BattlegroundAB_8cpp.html":[7,0,0,0,1,2,8,1,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a06e8cf8bb83527dc849a8592824ef8fe":[7,0,0,0,1,3,7,9,20,8],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a468edebb941f00217520eefcdfe3d68e":[7,0,0,0,1,3,7,9,20,6],
 "d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a563ed89b46ef1e4e83dfbc2e107afbd4":[7,0,0,0,1,3,7,9,20,1],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a5f901d05ecf27732526767593c0f7fba":[7,0,0,0,1,3,7,9,20,4],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a797f54d0d464bbb96b4a1f649b569c38":[7,0,0,0,1,3,7,9,20,0],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a874851cb8a953950ffa035172eec154a":[7,0,0,0,1,3,7,9,20,9],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a9d0a417b9cc050ac2def55b7d547b775":[7,0,0,0,1,3,7,9,20,5],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7aa06323f3475c60d56c3762e257499fa5":[7,0,0,0,1,3,7,9,20,2],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7ab2faeebcb9085fcd5b538e8ccd74881e":[7,0,0,0,1,3,7,9,20,7],
-"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7ab89cba16e9fd4a6660141f8884eeb953":[7,0,0,0,1,3,7,9,20,13]
+"d9/d60/zone__blades__edge__mountains_8cpp.html#a67a4bc47e4b4efea9056aba5e3c079e7a5f901d05ecf27732526767593c0f7fba":[7,0,0,0,1,3,7,9,20,4]
 };

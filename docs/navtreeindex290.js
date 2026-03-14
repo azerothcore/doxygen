@@ -1,5 +1,11 @@
 var NAVTREEINDEX290 =
 {
+"db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3adc1accc20663a07944afc1d9d1710326":[7,0,0,0,1,3,9,4,182,3],
+"db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3aed24b61a77d47b83b8186a0ae527eaef":[7,0,0,0,1,3,9,4,182,8],
+"db/d6e/spell__item_8cpp.html#afbc5dc37d66bc358e17bc8e6fe32f3f3afed123775d0924d697cae150a91fa5b0":[7,0,0,0,1,3,9,4,182,11],
+"db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66e":[7,0,0,0,1,3,9,4,184],
+"db/d6e/spell__item_8cpp.html#aff2050f15a40b8d397df14e9396cf66ea4e1954a9154f8fdb8d0367d1dd0422c7":[7,0,0,0,1,3,9,4,184,0],
+"db/d6f/classnpc__mature__netherwing__drake.html":[6,0,1977],
 "db/d6f/classnpc__mature__netherwing__drake.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5":[6,0,1977,1],
 "db/d6f/classnpc__mature__netherwing__drake.html#ac5a1dad24920396156f22ab02bfab84b":[6,0,1977,2],
 "db/d70/structScourgeInvasionData_1_1CityAttack.html":[6,0,2552,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX290 =
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a1f364414b053ffc92c2a219b713e8c38":[6,0,2814,2],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#a9eebffe3b716f7de63bfd6617e6ecf3b":[6,0,2814,1],
 "db/d81/classspell__dk__glyph__of__scourge__strike.html#afc5208979ec0ce81e2bb88b3bd429012":[6,0,2814,0],
-"db/d81/classspell__item__brewfest__mount__transformation.html":[6,0,3331],
-"db/d81/classspell__item__brewfest__mount__transformation.html#a2081334e6b7a4191801bc0556e26198c":[6,0,3331,3],
-"db/d81/classspell__item__brewfest__mount__transformation.html#a455bdb8fb98431d47b3e414dc3b59b13":[6,0,3331,1],
-"db/d81/classspell__item__brewfest__mount__transformation.html#ac3486a646322ef1b6098eeeedaec7d4b":[6,0,3331,0],
-"db/d81/classspell__item__brewfest__mount__transformation.html#acdade97c38a75439b3da751a0c348e37":[6,0,3331,2],
-"db/d81/structnpc__costumed__orphan__matron.html":[6,0,1731],
-"db/d81/structnpc__costumed__orphan__matron.html#a0b913090588613ac00ea928f6273d56f":[6,0,1731,0]
+"db/d81/classspell__item__brewfest__mount__transformation.html":[6,0,3331]
 };

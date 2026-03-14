@@ -1,5 +1,11 @@
 var NAVTREEINDEX409 =
 {
+"df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[6,0,3200,1],
+"df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[6,0,3200,2],
+"df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[6,0,3200,0],
+"df/dd9/classUnit.html":[6,0,4533],
+"df/dd9/classUnit.html#a000570a88dd253d3746e6ff5ac1c918b":[6,0,4533,406],
+"df/dd9/classUnit.html#a000c04b10ef04a72e5ccc10da3338c06":[6,0,4533,338],
 "df/dd9/classUnit.html#a008966d0caec959bee0e00910870804d":[6,0,4533,160],
 "df/dd9/classUnit.html#a009a87eeb9cc40ed7017610cbb914b9b":[6,0,4533,625],
 "df/dd9/classUnit.html#a014a963253d5d4adcbede3cba48c74ca":[6,0,4533,539],
@@ -243,11 +249,5 @@ var NAVTREEINDEX409 =
 "df/dd9/classUnit.html#a40701366d968723298d7dd3d4e59c2fe":[6,0,4533,176],
 "df/dd9/classUnit.html#a40ed8e294f5c12e493cd24e6ad5c43e8":[6,0,4533,452],
 "df/dd9/classUnit.html#a413f3a85a1e57ce8c13b8870347830f5":[6,0,4533,616],
-"df/dd9/classUnit.html#a415c8ea3de742bd3a8b4f92ca575f547":[6,0,4533,144],
-"df/dd9/classUnit.html#a41781ed2f15641ad0aa30b2767ab2b66":[6,0,4533,812],
-"df/dd9/classUnit.html#a41b1ebfca550dddf9a7b9408e475c534":[6,0,4533,536],
-"df/dd9/classUnit.html#a4201f83700f22de93fb924a630f2f7db":[6,0,4533,207],
-"df/dd9/classUnit.html#a4289636c380fb305043c4da0043e9133":[6,0,4533,385],
-"df/dd9/classUnit.html#a428f255fb17386374a4bcce7f2f94a51":[6,0,4533,320],
-"df/dd9/classUnit.html#a42a040f8a13ed984f25c21acf3721a8d":[6,0,4533,787]
+"df/dd9/classUnit.html#a415c8ea3de742bd3a8b4f92ca575f547":[6,0,4533,144]
 };

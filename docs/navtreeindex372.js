@@ -1,5 +1,11 @@
 var NAVTREEINDEX372 =
 {
+"de/d3b/classMotionMaster.html#afc9ce801b909ecbe54867f6f643b5920":[6,0,1548,48],
+"de/d3b/classMotionMaster.html#afd6b00aace2b2c96d27ad2b1345ae0e6":[6,0,1548,34],
+"de/d3b/classMotionMaster.html#afffbc53c2b9aff673a784898bbed3e54":[6,0,1548,50],
+"de/d3b/classspell__vazruden__call__nazan.html":[6,0,4231],
+"de/d3b/classspell__vazruden__call__nazan.html#a396acb663b8c9151196b8fedea3660c7":[6,0,4231,2],
+"de/d3b/classspell__vazruden__call__nazan.html#a434945da0a6b64db79cab0e09cbbb286":[6,0,4231,1],
 "de/d3b/classspell__vazruden__call__nazan.html#afae95a49843aa956d627e9bd92f8820f":[6,0,4231,0],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html":[6,0,2194,0],
 "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a0a2f6ddcb7334a6a7c0b131f82611776":[6,0,2194,0,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX372 =
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a7dbf5504651c521c971c8f9f63387992":[6,0,1374,0,15],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#a8ffa659e32c32a5699b85b68c52239cf":[6,0,1374,0,19],
 "de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ab1a0732c93f1e57772a61cbce5edb7fb":[6,0,1374,0,5],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ab57bdeba49160c7992d9108c41c153d8":[6,0,1374,0,6],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#abcaffd445d47826c47f03a94f511b362":[6,0,1374,0,9],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ad8310db74874b9f870f4f41dc866c7be":[6,0,1374,0,7],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#add59d5cf1b5098bc303fef469ccfb034":[6,0,1374,0,11],
-"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#aea59c925ddafa04fbfc7c0df32c0e6d8":[6,0,1374,0,3],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html":[6,0,1615,0],
-"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a2b553c29823e5ef888ee02a3ed413386":[6,0,1615,0,3]
+"de/d3f/structinstance__utgarde__keep_1_1instance__utgarde__keep__InstanceMapScript.html#ab57bdeba49160c7992d9108c41c153d8":[6,0,1374,0,6]
 };

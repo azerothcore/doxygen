@@ -1,5 +1,11 @@
 var NAVTREEINDEX407 =
 {
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[6,0,1933,0,0],
+"df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[6,0,1933,0,1],
+"df/dbb/BankPackets_8cpp.html":[7,0,0,0,1,2,39,0,1],
+"df/dbb/classspell__gen__netherbloom.html":[6,0,3073],
+"df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[6,0,3073,0],
+"df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[6,0,3073,3],
 "df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[6,0,3073,2],
 "df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[6,0,3073,1],
 "df/dbb/structItemDisplayInfoEntry.html":[6,0,1405],
@@ -243,11 +249,5 @@ var NAVTREEINDEX407 =
 "df/dc8/structgo__midsummer__music_1_1go__midsummer__musicAI.html#adf185ee702e9e74f65204b90786f9eb4":[6,0,1181,0,1],
 "df/dc8/structnpc__onyxian__lair__guard.html":[6,0,2024],
 "df/dc8/structnpc__onyxian__lair__guard.html#a7b1d3bc68684202f9b4b95f6dc078be0":[6,0,2024,1],
-"df/dc8/structnpc__onyxian__lair__guard.html#a99acb2010853fcf9f7ac6f08143d06ed":[6,0,2024,3],
-"df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[6,0,2024,2],
-"df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[6,0,2024,0],
-"df/dc9/classCreatureScript.html":[6,0,949],
-"df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[6,0,949,11],
-"df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[6,0,949,1],
-"df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[6,0,949,6]
+"df/dc8/structnpc__onyxian__lair__guard.html#a99acb2010853fcf9f7ac6f08143d06ed":[6,0,2024,3]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX225 =
 {
+"d8/d7b/classRotateMovementGenerator.html#a3e177762fcfc11ac47aa820b46b93ed0":[6,0,2541,4],
+"d8/d7b/classRotateMovementGenerator.html#a7cf10886bdd50ccbc5900b9229958e01":[6,0,2541,8],
+"d8/d7b/classRotateMovementGenerator.html#a8717e890670d9f4e2ff66c0981d14aa6":[6,0,2541,6],
+"d8/d7b/classRotateMovementGenerator.html#a89a6559b4380210972e82c6ca6d5a9db":[6,0,2541,0],
+"d8/d7b/classRotateMovementGenerator.html#afd7588c7877b116cc9626a774b89d584":[6,0,2541,1],
+"d8/d7b/classspell__gen__lifebloom.html":[6,0,3065],
 "d8/d7b/classspell__gen__lifebloom.html#a196484d01d2dc07163e18fdca9f60ca9":[6,0,3065,5],
 "d8/d7b/classspell__gen__lifebloom.html#a599634d92b92a5635b89733b7bb3c3c8":[6,0,3065,4],
 "d8/d7b/classspell__gen__lifebloom.html#a5cb52a4dda841d9d31fd00a31ddc3350":[6,0,3065,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX225 =
 "d8/d84/structRealSpellTestCase.html":[6,0,2518],
 "d8/d84/structRealSpellTestCase.html#a6b7e7e5d028fb5c006f8785a53394535":[6,0,2518,2],
 "d8/d84/structRealSpellTestCase.html#aec6e687803471c9e36fb371be3994db9":[6,0,2518,0],
-"d8/d84/structRealSpellTestCase.html#aff9bdbf422a9e22dacc2bbbea0c99a73":[6,0,2518,1],
-"d8/d86/map__extractor_2dbcfile_8cpp.html":[7,0,0,0,3,1,3],
-"d8/d86/map__extractor_2dbcfile_8cpp.html#a411c46599e926f8cdf49c63957255359":[7,0,0,0,3,1,3,0],
-"d8/d86/structServerMail.html":[6,0,2569],
-"d8/d86/structServerMail.html#a0992466672427c1d24c686bd8fa39378":[6,0,2569,5],
-"d8/d86/structServerMail.html#a0e899ce54283bc000cc6afb96e6a3244":[6,0,2569,8],
-"d8/d86/structServerMail.html#a246e499c69c57a436aac4c039ea37d31":[6,0,2569,9]
+"d8/d84/structRealSpellTestCase.html#aff9bdbf422a9e22dacc2bbbea0c99a73":[6,0,2518,1]
 };

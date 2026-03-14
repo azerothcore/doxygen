@@ -1,5 +1,11 @@
 var NAVTREEINDEX311 =
 {
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,2,2,0,1,1],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6":[7,0,0,0,1,3,7,2,2,0,1,6],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,2,2,0,1,2],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,7,2,2,0,1,0],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92":[7,0,0,0,1,3,7,2,2,0,1,7],
+"dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2":[7,0,0,0,1,3,7,2,2,0,1,4],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2":[7,0,0,0,1,3,7,2,2,0,1,5],
 "dc/d16/boss__hydromancer__thespia_8cpp.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671":[7,0,0,0,1,3,7,2,2,0,1,3],
 "dc/d17/TransportScript_8h.html":[7,0,0,0,1,2,38,0,85],
@@ -243,11 +249,5 @@ var NAVTREEINDEX311 =
 "dc/d23/classVehicle.html#abda487ca98b12c033e7ec07f043c49f3":[6,0,4554,2],
 "dc/d23/classVehicle.html#ad62a34478fb6e6d23e2c156a05ea83c7":[6,0,4554,14],
 "dc/d23/classVehicle.html#aeb4b794f10c72e50ad08427f8bd827cf":[6,0,4554,37],
-"dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4554,22],
-"dc/d23/classVehicle.html#af8c5538eb32ae303b1213948606acc71":[6,0,4554,5],
-"dc/d25/classCorruptTriggers.html":[6,0,931],
-"dc/d25/classCorruptTriggers.html#a225cafcce56db7d4aefd3fb75ed2533f":[6,0,931,0],
-"dc/d25/classCorruptTriggers.html#a2b9e4c3d292b7e3deea57e1542b3ba12":[6,0,931,2],
-"dc/d25/classCorruptTriggers.html#a53e4c60e29f59aa91e059d50e470a22a":[6,0,931,3],
-"dc/d25/classCorruptTriggers.html#a9929f3518f307e0b753782967f06c6c1":[6,0,931,1]
+"dc/d23/classVehicle.html#aebf47d4b105ad8fffa989cb3adf55afe":[6,0,4554,22]
 };

@@ -3,8 +3,8 @@ var Battlefield_8h =
     [ "BfCapturePoint", "df/d3d/classBfCapturePoint.html", "df/d3d/classBfCapturePoint" ],
     [ "BfGraveyard", "d0/d25/classBfGraveyard.html", "d0/d25/classBfGraveyard" ],
     [ "Battlefield", "d6/d26/classBattlefield.html", "d6/d26/classBattlefield" ],
-    [ "GraveyardVect", "df/da2/Battlefield_8h.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
-    [ "PlayerTimerMap", "df/da2/Battlefield_8h.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
+    [ "GraveyardVect", "df/da2/Battlefield_8h.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
+    [ "PlayerTimerMap", "df/da2/Battlefield_8h.html#afedbb171b4e4bd0bce549b015440ce95", null ],
     [ "BattlefieldIDs", "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187f", [
       [ "BATTLEFIELD_BATTLEID_WG", "df/da2/Battlefield_8h.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
     ] ],

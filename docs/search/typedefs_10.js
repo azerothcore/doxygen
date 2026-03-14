@@ -40,7 +40,7 @@ var searchData=
   ['playerspellmap_37',['PlayerSpellMap',['../da/dbf/Player_8h.html#a6829a36dad31b0ac277fae810007c700',1,'Player.h']]],
   ['playerswatchingcontainer_38',['PlayersWatchingContainer',['../d2/d48/classChannel.html#ac2bdfa226c6be25946e23a80af6cc393',1,'Channel']]],
   ['playertalentmap_39',['PlayerTalentMap',['../da/dbf/Player_8h.html#a58b30b88955cb12b1f6441e41eed03b5',1,'Player.h']]],
-  ['playertimermap_40',['PlayerTimerMap',['../df/da2/Battlefield_8h.html#a0467dc30f5bb6a1c9ee1487a3aced1a1',1,'Battlefield.h']]],
+  ['playertimermap_40',['PlayerTimerMap',['../df/da2/Battlefield_8h.html#afedbb171b4e4bd0bce549b015440ce95',1,'Battlefield.h']]],
   ['playertotemmodelmap_41',['PlayerTotemModelMap',['../de/d25/ObjectMgr_8h.html#a3948798e8d6f8bf8943831da638720ff',1,'ObjectMgr.h']]],
   ['playervote_42',['PlayerVote',['../d5/d0a/classRoll.html#a9b86264db334335ec202909fc7130b77',1,'Roll']]],
   ['playerxpperlevel_43',['PlayerXPperLevel',['../d5/dfb/classObjectMgr.html#accfb0246708b945cb5ec25d34a27fb02',1,'ObjectMgr']]],

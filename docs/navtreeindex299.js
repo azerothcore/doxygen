@@ -1,5 +1,11 @@
 var NAVTREEINDEX299 =
 {
+"db/db7/namespaceMovement.html#a0f9e26b66bd86bb9701c366e4f9529c3":[5,0,22,19],
+"db/db7/namespaceMovement.html#a15b376933a666c7f7c4600e62d7afe91":[5,0,22,35],
+"db/db7/namespaceMovement.html#a189485de5eba32c5b18dbb5c579b60d9":[5,0,22,25],
+"db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f":[5,0,22,29],
+"db/db7/namespaceMovement.html#a2982e1b6388bf8b29797b16969b64173":[5,0,22,33],
+"db/db7/namespaceMovement.html#a2fc34c9abcc5822e12037c23c2ecbfe0":[5,0,22,39],
 "db/db7/namespaceMovement.html#a318f60ef13751f5cf60cdb79cf353faa":[5,0,22,18],
 "db/db7/namespaceMovement.html#a409e47c24c7802840315c6e4c75725cc":[5,0,22,17],
 "db/db7/namespaceMovement.html#a40f989c23fe19e12628da3cd9e64edf4":[5,0,22,21],
@@ -243,11 +249,5 @@ var NAVTREEINDEX299 =
 "db/dc7/classWorldPackets_1_1Instance_1_1ResetInstances.html#a7f190f2bb133fa18e46830f68695b050":[6,0,12,7,4,1],
 "db/dc7/classWorldPackets_1_1Instance_1_1ResetInstances.html#a7f190f2bb133fa18e46830f68695b050":[5,0,34,7,4,1],
 "db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html":[6,0,12,11,1],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html":[5,0,34,11,1],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a01e7709ea4fe86de57f61ba8ffc5ba6d":[6,0,12,11,1,0],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a01e7709ea4fe86de57f61ba8ffc5ba6d":[5,0,34,11,1,0],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a746ff497fba16adb16bbb647dff385df":[5,0,34,11,1,3],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a746ff497fba16adb16bbb647dff385df":[6,0,12,11,1,3],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a75c3bff5da4699fc412793caef1b75af":[5,0,34,11,1,1],
-"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a75c3bff5da4699fc412793caef1b75af":[6,0,12,11,1,1]
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html":[5,0,34,11,1]
 };

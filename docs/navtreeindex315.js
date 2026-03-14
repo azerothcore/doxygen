@@ -1,5 +1,11 @@
 var NAVTREEINDEX315 =
 {
+"dc/d35/classadt__MHDR.html#a0e5716fc4586c41f07103baa84c67388":[6,0,142,19],
+"dc/d35/classadt__MHDR.html#a1996770c42791100aa0cbef91c78fcd2":[6,0,142,5],
+"dc/d35/classadt__MHDR.html#a23b9fac4ccbdcae862135fa3cbe3061d":[6,0,142,22],
+"dc/d35/classadt__MHDR.html#a28a247f0addfd93d3eeed190516e515a":[6,0,142,1],
+"dc/d35/classadt__MHDR.html#a4936a7d0e5ad64f4f75f6550418f80e6":[6,0,142,6],
+"dc/d35/classadt__MHDR.html#a5014297529c070757b1a3672f679b83f":[6,0,142,0],
 "dc/d35/classadt__MHDR.html#a5d1b23b9a55361516d4dedbef5886d52":[6,0,142,9],
 "dc/d35/classadt__MHDR.html#a62270e73c2fd69dcfd38a4073de20fbc":[6,0,142,12],
 "dc/d35/classadt__MHDR.html#a6672516f9b82b4dc33e28a5b9fda7000":[6,0,142,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1319,0,0],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1319,0,3],
 "dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,4],
-"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,715],
-"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,715,2],
-"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,715,1],
-"dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3171],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3171,3],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3171,2],
-"dc/d44/classspell__halion__meteor__strike__targeting.html#ac456524856c4a3c4913423693a8fd50c":[6,0,3171,1]
+"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,715]
 };

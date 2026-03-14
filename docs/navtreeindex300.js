@@ -1,5 +1,11 @@
 var NAVTREEINDEX300 =
 {
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a01e7709ea4fe86de57f61ba8ffc5ba6d":[6,0,12,11,1,0],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a01e7709ea4fe86de57f61ba8ffc5ba6d":[5,0,34,11,1,0],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a746ff497fba16adb16bbb647dff385df":[5,0,34,11,1,3],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a746ff497fba16adb16bbb647dff385df":[6,0,12,11,1,3],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a75c3bff5da4699fc412793caef1b75af":[5,0,34,11,1,1],
+"db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a75c3bff5da4699fc412793caef1b75af":[6,0,12,11,1,1],
 "db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a807873fb60cfa1bafa78f3f479fef75b":[5,0,34,11,1,2],
 "db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#a807873fb60cfa1bafa78f3f479fef75b":[6,0,12,11,1,2],
 "db/dc7/classWorldPackets_1_1NPC_1_1TrainerBuyFailed.html#ac8d286ad6add18b92dd7e2111a4ec28c":[5,0,34,11,1,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX300 =
 "db/dce/classAura.html#a8f9f4a57e87c86b384b637403fff06e7":[6,0,286,114],
 "db/dce/classAura.html#a90bc220f5ffcca4efa900c1905782355":[6,0,286,62],
 "db/dce/classAura.html#a9637e205c147457e50b47efe0f8f7904":[6,0,286,120],
-"db/dce/classAura.html#a96d2072a3b0b06f82113eb9d3e186ac1":[6,0,286,39],
-"db/dce/classAura.html#a97347f8dc5f2dd96c7c45a77c13988a5":[6,0,286,23],
-"db/dce/classAura.html#a97f212bb7332fdf03fccafe5389c1e0a":[6,0,286,17],
-"db/dce/classAura.html#a998a0e0cfd700ef9fed95f969ad9b791":[6,0,286,69],
-"db/dce/classAura.html#a99930c42ad9f6e002ffe6de5e5fbe59b":[6,0,286,110],
-"db/dce/classAura.html#a99d38e9baa13b6683db43d67757ec982":[6,0,286,44],
-"db/dce/classAura.html#a9ed84a2b95a1cb898a682c809dd25d2b":[6,0,286,98]
+"db/dce/classAura.html#a96d2072a3b0b06f82113eb9d3e186ac1":[6,0,286,39]
 };

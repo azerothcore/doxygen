@@ -1,5 +1,11 @@
 var NAVTREEINDEX375 =
 {
+"de/d5e/classGridTerrainData.html#ab39ef52957f9c1ece42c3fc11893a3fc":[6,0,1243,11],
+"de/d5e/classGridTerrainData.html#abdf3da449ed62b2d7a54547178d21110":[6,0,1243,12],
+"de/d5e/classGridTerrainData.html#ac3dc194ca16a7e9b604b2c2d14c478d8":[6,0,1243,17],
+"de/d5e/classGridTerrainData.html#acacaa661126e761a863b5490a3e78e73":[6,0,1243,13],
+"de/d5e/classGridTerrainData.html#adc73b5d06468dbf30b7b6507f6ac6474":[6,0,1243,5],
+"de/d5e/classGridTerrainData.html#ae50db87879b0b0bca66f0f0a625e2bc9":[6,0,1243,15],
 "de/d5e/classGridTerrainData.html#aea51fcf34105d685405203093ce67085":[6,0,1243,20],
 "de/d5e/classGridTerrainData.html#af849394add099d86aa8ec9eb8c807f5d":[6,0,1243,8],
 "de/d5e/classnpc__gilthares.html":[6,0,1832],
@@ -243,11 +249,5 @@ var NAVTREEINDEX375 =
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a3da812593b22ef506a9d61e16b5485d1":[5,0,34,7,7,1],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a61a4f0fb74db04cdc11c0729bc104f7a":[6,0,12,7,7,4],
 "de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a61a4f0fb74db04cdc11c0729bc104f7a":[5,0,34,7,7,4],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a8833543c4f179be97476a26152ec049b":[6,0,12,7,7,3],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a8833543c4f179be97476a26152ec049b":[5,0,34,7,7,3],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#af8d6189ed0209b4f70e32f92c00e13fb":[6,0,12,7,7,0],
-"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#af8d6189ed0209b4f70e32f92c00e13fb":[5,0,34,7,7,0],
-"de/d6c/classspell__item__death__choice.html":[6,0,3346],
-"de/d6c/classspell__item__death__choice.html#a0d30a007e3f67b78197ac0cae83e2976":[6,0,3346,1],
-"de/d6c/classspell__item__death__choice.html#aad337f75e2132940ed3cfef209e1c73b":[6,0,3346,2]
+"de/d6b/classWorldPackets_1_1Instance_1_1SetRaidDifficulty.html#a8833543c4f179be97476a26152ec049b":[6,0,12,7,7,3]
 };

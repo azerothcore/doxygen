@@ -1,5 +1,11 @@
 var NAVTREEINDEX328 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,2,12,6,8,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,12,6,8,0],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,2,12,6,8,2],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,12,6,13],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901c":[7,0,0,0,1,3,2,12,6,7],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f":[7,0,0,0,1,3,2,12,6,7,5],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8":[7,0,0,0,1,3,2,12,6,7,6],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3":[7,0,0,0,1,3,2,12,6,7,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX328 =
 "dc/df0/DBUpdater_8h.html":[7,0,0,0,1,1,3,1],
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010":[7,0,0,0,1,1,3,1,3],
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c":[7,0,0,0,1,1,3,1,3,1],
-"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550":[7,0,0,0,1,1,3,1,3,0],
-"dc/df0/classgo__broggok__lever.html":[6,0,1148],
-"dc/df0/classgo__broggok__lever.html#af00fe1da1cfa40dc3ece286cef45090c":[6,0,1148,1],
-"dc/df0/classgo__broggok__lever.html#af91c2e283c357d2f38c9932dcfb5c375":[6,0,1148,0],
-"dc/df0/classnpc__hourglass__of__eternity.html":[6,0,1877],
-"dc/df0/classnpc__hourglass__of__eternity.html#a40500ff582ead06bd646be86baad7d35":[6,0,1877,1],
-"dc/df0/classnpc__hourglass__of__eternity.html#a6cdec424e78e5c9decac73d091eec0ed":[6,0,1877,2]
+"dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550":[7,0,0,0,1,1,3,1,3,0]
 };

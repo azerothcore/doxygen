@@ -1,5 +1,11 @@
 var NAVTREEINDEX304 =
 {
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ae04bcfb1e62ba3eaedbeff5a429f66ad":[6,0,1333,0,8],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#aeb558d0ccd3eb2e2f3c969400bc7d3b1":[6,0,1333,0,27],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#af746ee8c6cba19aff00c4c0f70084cee":[6,0,1333,0,19],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#afab9992873421c7aeaa746bd6740b008":[6,0,1333,0,24],
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#aff4cb278ad948a3983d91ce8670cb054":[6,0,1333,0,12],
+"db/dd7/classinstance__halls__of__reflection.html":[6,0,1328],
 "db/dd7/classinstance__halls__of__reflection.html#a8872b51ceec25dbf4831f45b27206ed1":[6,0,1328,1],
 "db/dd7/classinstance__halls__of__reflection.html#aca27a4f654f41fe6f238c905b48285b7":[6,0,1328,2],
 "db/dd7/zone__the__scarlet__enclave_8cpp.html":[7,0,0,0,1,3,2,6,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX304 =
 "db/de2/classWorldPackets_1_1String.html#aa1ebd4ac4d40d582d707f04d09187ade":[5,0,34,27,7],
 "db/de2/classWorldPackets_1_1String.html#aa1ebd4ac4d40d582d707f04d09187ade":[6,0,12,27,7],
 "db/de2/classWorldPackets_1_1String.html#aa21bedffd7781262ca29ff801e7f8224":[6,0,12,27,6],
-"db/de2/classWorldPackets_1_1String.html#aa21bedffd7781262ca29ff801e7f8224":[5,0,34,27,6],
-"db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[5,0,34,27,9],
-"db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4":[6,0,12,27,9],
-"db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[5,0,34,27,3],
-"db/de2/classWorldPackets_1_1String.html#ad4c8b4cb693929cc172adaf1e3374451":[6,0,12,27,3],
-"db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[5,0,34,27,8],
-"db/de2/classWorldPackets_1_1String.html#ae652fb9308dfddeebae5b776c91d2cec":[6,0,12,27,8]
+"db/de2/classWorldPackets_1_1String.html#aa21bedffd7781262ca29ff801e7f8224":[5,0,34,27,6]
 };

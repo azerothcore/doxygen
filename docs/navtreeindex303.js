@@ -1,5 +1,11 @@
 var NAVTREEINDEX303 =
 {
+"db/dd5/classCreature.html#a96fe53bce662d3c1182114e7625a2586":[6,0,933,189],
+"db/dd5/classCreature.html#a97e8f71cb079e6544424cf5a9ab92ce6":[6,0,933,258],
+"db/dd5/classCreature.html#a97fd2015b3956323ef777b5f9e23a1e8":[6,0,933,51],
+"db/dd5/classCreature.html#a989aa9d63c9e511f577bdae373cb211c":[6,0,933,82],
+"db/dd5/classCreature.html#a98d2c325bf2d68a2ff3835f9b11017cc":[6,0,933,95],
+"db/dd5/classCreature.html#a9dd21b89113c15d7b1bf853a48bbc1f1":[6,0,933,42],
 "db/dd5/classCreature.html#a9e3eb5b77311ca48eefb35e5b42fc4c4":[6,0,933,277],
 "db/dd5/classCreature.html#aa168eb878c3461189c81178cab0fb3a0":[6,0,933,116],
 "db/dd5/classCreature.html#aa456e2c1541472454a1ea95f364f3a5b":[6,0,933,268],
@@ -243,11 +249,5 @@ var NAVTREEINDEX303 =
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ad14d3e7546c3638b4b3ccded54565714":[6,0,1333,0,20],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ad482f48be8a302805045c4ea6ae44f09":[6,0,1333,0,18],
 "db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ad4841a65643c8a52986f5e1f373d278e":[6,0,1333,0,6],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ad67b11d021a2b9411b94ade4417dbf3d":[6,0,1333,0,26],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ae04bcfb1e62ba3eaedbeff5a429f66ad":[6,0,1333,0,8],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#aeb558d0ccd3eb2e2f3c969400bc7d3b1":[6,0,1333,0,27],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#af746ee8c6cba19aff00c4c0f70084cee":[6,0,1333,0,19],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#afab9992873421c7aeaa746bd6740b008":[6,0,1333,0,24],
-"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#aff4cb278ad948a3983d91ce8670cb054":[6,0,1333,0,12],
-"db/dd7/classinstance__halls__of__reflection.html":[6,0,1328]
+"db/dd6/structinstance__karazhan_1_1instance__karazhan__InstanceMapScript.html#ad67b11d021a2b9411b94ade4417dbf3d":[6,0,1333,0,26]
 };

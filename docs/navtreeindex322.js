@@ -1,5 +1,11 @@
 var NAVTREEINDEX322 =
 {
+"dc/d93/classspell__summon__amanishi__sentries.html#a94a5697e9d8a068fe6ae34b8aaf974fd":[6,0,4117,3],
+"dc/d93/classspell__summon__amanishi__sentries.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3":[6,0,4117,1],
+"dc/d93/classspell__summon__amanishi__sentries.html#af7f22d3b7ba136ec2af88656b9805168":[6,0,4117,0],
+"dc/d93/structDisableData.html":[6,0,1001],
+"dc/d93/structDisableData.html#a5426d7accbe5734016fed99e632ea313":[6,0,1001,1],
+"dc/d93/structDisableData.html#ac55cea8114883b0000fb9fd195910f65":[6,0,1001,0],
 "dc/d95/classnpc__khunok__the__behemoth.html":[6,0,1933],
 "dc/d95/classnpc__khunok__the__behemoth.html#a0370959631c00581495dbd7c37263236":[6,0,1933,1],
 "dc/d95/classnpc__khunok__the__behemoth.html#a201aa35dd119d23126b192a1e3786c09":[6,0,1933,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX322 =
 "dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa27792529efcc5838f6d25fde2f57366e":[7,0,0,0,1,3,4,9,8,5,3],
 "dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa53932f6bd26d447675c1f673e24d40ae":[7,0,0,0,1,3,4,9,8,5,1],
 "dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa80e38f8871f1de4fecd0c9818da70edf":[7,0,0,0,1,3,4,9,8,5,2],
-"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa9c783b6c89bb42eb682fd4b9afcddbbe":[7,0,0,0,1,3,4,9,8,5,5],
-"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aad8c34d014ab219079cf4e3e391391cd8":[7,0,0,0,1,3,4,9,8,5,4],
-"dc/da8/boss__viscidus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,9,8,8],
-"dc/da8/boss__viscidus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af126c88292aed181eaab23fb134e71e2":[7,0,0,0,1,3,4,9,8,8,0],
-"dc/da8/boss__viscidus_8cpp.html#a55ed06aacd845849df65d5b7fc848ee6":[7,0,0,0,1,3,4,9,8,13],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,9,8,11],
-"dc/da8/boss__viscidus_8cpp.html#a5bd342133be8c2137b831460acc9298ca0f256187ffe94ab52276a131aa23663a":[7,0,0,0,1,3,4,9,8,11,10]
+"dc/da8/boss__viscidus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa9c783b6c89bb42eb682fd4b9afcddbbe":[7,0,0,0,1,3,4,9,8,5,5]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX270 =
 {
+"da/d97/classWorldPackets_1_1CompactArray.html#a313aedf5c623505860a227149cb64b5a":[6,0,12,19,6],
+"da/d97/classWorldPackets_1_1CompactArray.html#a313aedf5c623505860a227149cb64b5a":[5,0,34,19,6],
+"da/d97/classWorldPackets_1_1CompactArray.html#a3a421d4ee2e7459cbc945c6c70c1993f":[6,0,12,19,4],
+"da/d97/classWorldPackets_1_1CompactArray.html#a3a421d4ee2e7459cbc945c6c70c1993f":[5,0,34,19,4],
+"da/d97/classWorldPackets_1_1CompactArray.html#a656c3568cd73d10dd6f9cda1809ff509":[6,0,12,19,5],
+"da/d97/classWorldPackets_1_1CompactArray.html#a656c3568cd73d10dd6f9cda1809ff509":[5,0,34,19,5],
 "da/d97/classWorldPackets_1_1CompactArray.html#a70adda7a73d5c54b1d29668f23778c9f":[5,0,34,19,1],
 "da/d97/classWorldPackets_1_1CompactArray.html#a70adda7a73d5c54b1d29668f23778c9f":[6,0,12,19,1],
 "da/d97/classWorldPackets_1_1CompactArray.html#a757f7d94e52fa821dc1fdb03877574f3":[6,0,12,19,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX270 =
 "da/da1/classspell__mage__pet__scaling.html#acc22795ea812f31b0b9e21e6494c2d19":[6,0,3605,8],
 "da/da3/classgroup__commandscript.html":[6,0,1247],
 "da/da3/classgroup__commandscript.html#a13968d61ec037aacc8070bc675290f94":[6,0,1247,7],
-"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[6,0,1247,5],
-"da/da3/classgroup__commandscript.html#a2bbb27e0f221ce533f0b0e94e944f7fb":[6,0,1247,6],
-"da/da3/classgroup__commandscript.html#a382e8532c653464e90b45569e813ae37":[6,0,1247,3],
-"da/da3/classgroup__commandscript.html#a538539340a697e02453ddcfa669fb646":[6,0,1247,2],
-"da/da3/classgroup__commandscript.html#a5e7e069c58ecc5baca4ef1118e6c143e":[6,0,1247,1],
-"da/da3/classgroup__commandscript.html#a899858a63add3c68e0e1446d29216c00":[6,0,1247,4],
-"da/da3/classgroup__commandscript.html#ad2890427cfe3649b2e0fe0896693372c":[6,0,1247,0]
+"da/da3/classgroup__commandscript.html#a1b841d1c4bc59b56f2d166767089b93f":[6,0,1247,5]
 };

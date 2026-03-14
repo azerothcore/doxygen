@@ -1,5 +1,11 @@
 var NAVTREEINDEX351 =
 {
+"dd/dec/classChannelMgr.html#adfc7c2e0156b2dc290c1c0f307a6911f":[6,0,863,16],
+"dd/dec/classChannelMgr.html#ae85b95eac40037d5066efa17fb484bc5":[6,0,863,10],
+"dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9":[6,0,863,14],
+"dd/ded/classat__karazhan__side__entrance.html":[6,0,237],
+"dd/ded/classat__karazhan__side__entrance.html#a80d0018a9442ef7f0834dc329047e135":[6,0,237,1],
+"dd/ded/classat__karazhan__side__entrance.html#abdaa7339a53941e2e89c4fcd439395fc":[6,0,237,0],
 "dd/ded/classspell__item__goblin__weather__machine__aura.html":[6,0,3384],
 "dd/ded/classspell__item__goblin__weather__machine__aura.html#a0bc1dae33d0a780623f4551b1dfb1fbf":[6,0,3384,2],
 "dd/ded/classspell__item__goblin__weather__machine__aura.html#a9b3985c6f2b1b88ab86ec38c8508fc16":[6,0,3384,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dfd/boss__ymiron_8cpp.html#a355ad2d8907e4053f3d0021f0f9f6476":[7,0,0,0,1,3,5,10,1,3,5],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,10,1,3,3],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2c42690b871b8fd8d191648269062827":[7,0,0,0,1,3,5,10,1,3,3,6],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2e2e169c70137b524d22e57398d5a7d3":[7,0,0,0,1,3,5,10,1,3,3,5],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2f77cef4543ef2ad786d84774b06bde8":[7,0,0,0,1,3,5,10,1,3,3,8],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a362947cb90c81d47035df5c90f43acff":[7,0,0,0,1,3,5,10,1,3,3,2],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a508e0829b66ba80c2989a1e6a15342f2":[7,0,0,0,1,3,5,10,1,3,3,9],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6743bbc050e771eef1184f59ed86ebb6":[7,0,0,0,1,3,5,10,1,3,3,1],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a68f039d955e93b57c0fea177a4f2b529":[7,0,0,0,1,3,5,10,1,3,3,7],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e09e566101bf6aff3706ca1855982bc":[7,0,0,0,1,3,5,10,1,3,3,3]
+"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a2e2e169c70137b524d22e57398d5a7d3":[7,0,0,0,1,3,5,10,1,3,3,5]
 };

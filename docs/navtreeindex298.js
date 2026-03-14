@@ -1,5 +1,11 @@
 var NAVTREEINDEX298 =
 {
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a549abccc70e0ad0506b7f8cb5499a9b4":[7,0,0,0,1,3,10,14,59,27],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a58a447b847f98fdf065f6c2177921195":[7,0,0,0,1,3,10,14,59,10],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a644554d2c59c93f146665ecd2935dad8":[7,0,0,0,1,3,10,14,59,25],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6b6199606f7e8c2252179891dfc8397b":[7,0,0,0,1,3,10,14,59,17],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6d34405f4268188f4709fddd135879a1":[7,0,0,0,1,3,10,14,59,0],
+"db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a6f7a20543235e228a26a33cfd57c0341":[7,0,0,0,1,3,10,14,59,19],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a72d295e229e24eae17687c2364096624":[7,0,0,0,1,3,10,14,59,7],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a766d99abee59a98f337904bb678d3228":[7,0,0,0,1,3,10,14,59,31],
 "db/dae/npcs__special_8cpp.html#a41e445b6098934678789af8f3d009bd2a7774ed11dbf2a5bc05c1460b70eb28bc":[7,0,0,0,1,3,10,14,59,24],
@@ -243,11 +249,5 @@ var NAVTREEINDEX298 =
 "db/db7/instance__trial__of__the__champion_8cpp.html":[7,0,0,0,1,3,5,2,0,3],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd":[7,0,0,0,1,3,5,2,0,3,2],
 "db/db7/instance__trial__of__the__champion_8cpp.html#a70438d12d4153aa7d510c89551abf7c9":[7,0,0,0,1,3,5,2,0,3,3],
-"db/db7/namespaceMovement.html":[5,0,22],
-"db/db7/namespaceMovement.html#a0f9e26b66bd86bb9701c366e4f9529c3":[5,0,22,19],
-"db/db7/namespaceMovement.html#a15b376933a666c7f7c4600e62d7afe91":[5,0,22,35],
-"db/db7/namespaceMovement.html#a189485de5eba32c5b18dbb5c579b60d9":[5,0,22,25],
-"db/db7/namespaceMovement.html#a1f10281929f445f6d8150dc510bf1f2f":[5,0,22,29],
-"db/db7/namespaceMovement.html#a2982e1b6388bf8b29797b16969b64173":[5,0,22,33],
-"db/db7/namespaceMovement.html#a2fc34c9abcc5822e12037c23c2ecbfe0":[5,0,22,39]
+"db/db7/namespaceMovement.html":[5,0,22]
 };

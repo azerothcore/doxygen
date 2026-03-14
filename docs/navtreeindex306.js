@@ -1,5 +1,11 @@
 var NAVTREEINDEX306 =
 {
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3fe2049f68094a11efb86e4e93a040be":[7,0,0,0,1,3,9,3,42,28],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea43d93b93e0b2e38e803c2f4c3257df09":[7,0,0,0,1,3,9,3,42,32],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491":[7,0,0,0,1,3,9,3,42,26],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7":[7,0,0,0,1,3,9,3,42,19],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54":[7,0,0,0,1,3,9,3,42,12],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1":[7,0,0,0,1,3,9,3,42,9],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea66401814c9b4995a8df906456f481b4e":[7,0,0,0,1,3,9,3,42,35],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332":[7,0,0,0,1,3,9,3,42,17],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd":[7,0,0,0,1,3,9,3,42,16],
@@ -243,11 +249,5 @@ var NAVTREEINDEX306 =
 "db/df9/classspell__warr__overpower.html":[6,0,4314],
 "db/df9/classspell__warr__overpower.html#a15d4ce9c947ca2f25e29f97119c4106e":[6,0,4314,2],
 "db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[6,0,4314,1],
-"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,4314,0],
-"db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,4314,3],
-"db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a344f61fb209b507b775a0bbfb1315fac":[7,0,0,0,1,2,45,1,7],
-"db/dfa/CharacterDatabaseCleaner_8h.html#a357c8a07f912c6efb55a13cc9bc089b9":[7,0,0,0,1,2,45,1,8]
+"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,4314,0]
 };

@@ -1,5 +1,11 @@
 var NAVTREEINDEX264 =
 {
+"da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed":[7,0,0,0,1,3,7,1,7,2,5],
+"da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9":[7,0,0,0,1,3,7,1,7,2,3],
+"da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,7,1,7,2,11],
+"da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da":[7,0,0,0,1,3,7,1,7,2,2],
+"da/d65/boss__supremus_8cpp.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6":[7,0,0,0,1,3,7,1,7,2,16],
+"da/d65/boss__supremus_8cpp.html#aca4140213fae739c682d7d7e241294e0":[7,0,0,0,1,3,7,1,7,3],
 "da/d65/classspell__rotface__unstable__ooze__explosion__init.html":[6,0,4002],
 "da/d65/classspell__rotface__unstable__ooze__explosion__init.html#a6ca80316fe7bcbb4ebda095d633bb1bc":[6,0,4002,3],
 "da/d65/classspell__rotface__unstable__ooze__explosion__init.html#aaa3262bc782e342825d4caba2954e95d":[6,0,4002,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX264 =
 "da/d74/classspell__item__pygmy__oil.html#a22614b06c6f1853f02a992dcab027a60":[6,0,3437,1],
 "da/d74/classspell__item__pygmy__oil.html#a3fab2057be5de9e2f7703b8f43a99ed5":[6,0,3437,3],
 "da/d74/classspell__item__pygmy__oil.html#a9ad5691f6049078c45052d07513b35a2":[6,0,3437,2],
-"da/d74/classspell__item__pygmy__oil.html#addfcb17cbbb56bda88997b34ce3e3ddd":[6,0,3437,0],
-"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[6,0,0,63],
-"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[5,0,1,75],
-"da/d74/structAuctionEntryItemEnchants.html":[6,0,265],
-"da/d74/structAuctionEntryItemEnchants.html#a36445b0d9d75886a0697c75513eb6c41":[6,0,265,1],
-"da/d74/structAuctionEntryItemEnchants.html#a583aee5baaad873bcbcc2acad403d0bf":[6,0,265,0],
-"da/d74/structAuctionEntryItemEnchants.html#ab19975d2dd203aa1124f2e06fb637171":[6,0,265,2]
+"da/d74/classspell__item__pygmy__oil.html#addfcb17cbbb56bda88997b34ce3e3ddd":[6,0,3437,0]
 };

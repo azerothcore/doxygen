@@ -1,5 +1,11 @@
 var NAVTREEINDEX344 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7":[7,0,0,0,1,3,5,9,1,2,9,0],
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591":[7,0,0,0,1,3,5,9,1,2,9,2],
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a31de9593493f6c0df4bc225a579b416a":[7,0,0,0,1,3,5,9,1,2,9,1],
+"dd/dab/boss__sjonnir_8cpp.html#a8d8031a9ef6bd14633aa0a1bc87e2753a91a7ce732d98ba347db59cd467acc280":[7,0,0,0,1,3,5,9,1,2,9,3],
+"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,9,1,2,8],
+"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1185912d5acfdb750a6217655785b401":[7,0,0,0,1,3,5,9,1,2,8,0],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74":[7,0,0,0,1,3,5,9,1,2,8,2],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848":[7,0,0,0,1,3,5,9,1,2,8,3],
 "dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631":[7,0,0,0,1,3,5,9,1,2,8,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX344 =
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8278a73501ea33164cbdef8599144f4a":[6,0,2131,0,1],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8ce2b172757d1f7d188152ecc0fe30f5":[6,0,2131,0,8],
 "dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#a8df4e1046348599cd5d1e31e3dc4eb0c":[6,0,2131,0,5],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2131,0,2],
-"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e":[6,0,2131,0,9],
-"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,17,0],
-"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,17,0,0],
-"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a602fc1ddafe663e2e5ddceaeaec8b118":[6,0,17,0,2],
-"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a7fff405a99c65d3e846463ca29a8ddfd":[6,0,17,0,1],
-"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[6,0,17,0,3]
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#ab08cc327c4206e4526e77eea3bf17e0b":[6,0,2131,0,2]
 };

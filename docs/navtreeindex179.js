@@ -1,5 +1,11 @@
 var NAVTREEINDEX179 =
 {
+"d6/d7f/classUpdateFetcher.html#ad8dd66f9b12ae37fd657a8983a9ea6a1":[6,0,4544,19],
+"d6/d7f/classUpdateFetcher.html#adace6180bb32614655fb1f99bbf4c1ef":[6,0,4544,15],
+"d6/d7f/classUpdateFetcher.html#adb2996b906800fb0cdb5cf7ae14353d0":[6,0,4544,6],
+"d6/d7f/classUpdateFetcher.html#aea00e99b87bd24fd182676bf79e68c95":[6,0,4544,29],
+"d6/d7f/classUpdateFetcher.html#af5faa613edb979a761f04784e8e9143f":[6,0,4544,20],
+"d6/d7f/classspell__egg__event.html":[6,0,2930],
 "d6/d7f/classspell__egg__event.html#a53bed6f1af71fd309a04bc004d07be80":[6,0,2930,2],
 "d6/d7f/classspell__egg__event.html#a804097903354ab3a730f0fe3eb5ec863":[6,0,2930,0],
 "d6/d7f/classspell__egg__event.html#aea221ad6fb1a30bec6fee0c3a67d01b0":[6,0,2930,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a63188dbf596f82f012c996377a53de90":[7,0,0,0,1,3,5,7,16,3,14],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a68309c44964eb71412655820c016018a":[7,0,0,0,1,3,5,7,16,3,2],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a6cb77949249220426e8d8afcf6953052":[7,0,0,0,1,3,5,7,16,3,46],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a6de53c7729e26e1f55bbe03e1fb20cf2":[7,0,0,0,1,3,5,7,16,3,38],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a6f3db3a42165b02762b586c0a0294898":[7,0,0,0,1,3,5,7,16,3,50],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a7a52ec8d438b4382d013e4d9ffbf2941":[7,0,0,0,1,3,5,7,16,3,12],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a7c1932bcf801d950b3b24ccf52997906":[7,0,0,0,1,3,5,7,16,3,23],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a87ea957658064ea1b0c1950c6cff357d":[7,0,0,0,1,3,5,7,16,3,4],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a89951d6a1f72a796a85a7c878317c9a7":[7,0,0,0,1,3,5,7,16,3,18],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a94da57ab5f54980d3851454977a03594":[7,0,0,0,1,3,5,7,16,3,41]
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74a6de53c7729e26e1f55bbe03e1fb20cf2":[7,0,0,0,1,3,5,7,16,3,38]
 };

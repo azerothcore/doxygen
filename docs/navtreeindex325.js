@@ -1,5 +1,11 @@
 var NAVTREEINDEX325 =
 {
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7":[6,0,671,5],
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a6056ef3425f39208e5731b25fc94a335":[6,0,671,1],
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a6935410d7a4ce8e9dec9feed9f5351d7":[6,0,671,2],
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2":[6,0,671,8],
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a8b06ee0a3e22d495a41ccf4c7009ad2d":[6,0,671,4],
+"dc/dbf/structboss__priestess__lackey__commonAI.html#a9a7bcf641bae31827872faf7666635d5":[6,0,671,6],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#aa2ef03d73c43668c97205fa72414e71b":[6,0,671,9],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#ac71aa86c97fe11d934f09d62c4ed8eab":[6,0,671,12],
 "dc/dbf/structboss__priestess__lackey__commonAI.html#acf122076823631cef5d66e03a9f607aa":[6,0,671,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX325 =
 "dc/dd2/classAcore_1_1LocalizedPacketListDo.html#ae2ec6175868c4c82274ce7a623a954a3":[6,0,0,69,5],
 "dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html":[6,0,1662,0],
 "dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#a6e2819f73f0fccd02b7188f0e6f1ffa9":[6,0,1662,0,3],
-"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#ab0c1cf041146a3e16a33986e3e824a2d":[6,0,1662,0,2],
-"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#ad906b7602a34abcfaede92cba6f0a6d7":[6,0,1662,0,1],
-"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#aed531e61508d4d404827f47c6348a5e6":[6,0,1662,0,0],
-"dc/dd3/classboss__ymiron.html":[6,0,801],
-"dc/dd3/classboss__ymiron.html#a0a8caed3c8021ddf861cc71b57297c41":[6,0,801,2],
-"dc/dd3/classboss__ymiron.html#a708ffc55e0a190a8ed6adb0bca6ced7c":[6,0,801,1],
-"dc/dd3/structboss__aeonus.html":[6,0,378]
+"dc/dd2/structnpc__baltharus__the__warborn__clone_1_1npc__baltharus__the__warborn__cloneAI.html#ab0c1cf041146a3e16a33986e3e824a2d":[6,0,1662,0,2]
 };

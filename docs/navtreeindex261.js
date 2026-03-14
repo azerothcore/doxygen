@@ -1,5 +1,11 @@
 var NAVTREEINDEX261 =
 {
+"da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aa126f9277d0c1f797fa73563b96f744b":[7,0,0,0,1,3,4,8,5,4,1],
+"da/d40/boss__rajaxx_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ade84310875eb9b98a07da9bb755aa46a":[7,0,0,0,1,3,4,8,5,4,2],
+"da/d40/classTotem.html":[6,0,4496],
+"da/d40/classTotem.html#a01f507b7699f92e90b5601280408ba76":[6,0,4496,15],
+"da/d40/classTotem.html#a0b587243be09d58f5693570933680bff":[6,0,4496,12],
+"da/d40/classTotem.html#a0bff976b49617405869ac7f2416e0ca1":[6,0,4496,19],
 "da/d40/classTotem.html#a1454ef318166d69bee1eddcaec73604a":[6,0,4496,2],
 "da/d40/classTotem.html#a25d245ac788196851f748d84b529bd98":[6,0,4496,7],
 "da/d40/classTotem.html#a4661c91b5123862fc44e7a290cf70d1f":[6,0,4496,5],
@@ -243,11 +249,5 @@ var NAVTREEINDEX261 =
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a8f7444b04596b5af383d74be70d97c13":[7,0,0,0,1,3,5,12,9,5,4],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a9132dbb7e224c1b476917674cae5dd28":[7,0,0,0,1,3,5,12,9,5,1],
 "da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a986d0b33665e5b760f9007f28dc3d382":[7,0,0,0,1,3,5,12,9,5,7],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a9fa07bf0069a05b4fd6dec3d83681b42":[7,0,0,0,1,3,5,12,9,5,19],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aa75252b46a683eccfaaad37f1a843781":[7,0,0,0,1,3,5,12,9,5,20],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08aae2978e3479a298d86d8c5c57b0c734c":[7,0,0,0,1,3,5,12,9,5,29],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08acdf52ce130a3859a52c6aab654d7290f":[7,0,0,0,1,3,5,12,9,5,28],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08acf739e85d59c06eec4902f13bc565fe1":[7,0,0,0,1,3,5,12,9,5,26],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae092e4fa982331f6b3c2feda0fa11cff":[7,0,0,0,1,3,5,12,9,5,15],
-"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08ae3a118d7269afc21b3398e745a6eaad2":[7,0,0,0,1,3,5,12,9,5,0]
+"da/d4c/violet__hold_8h.html#a25a619e6b66096a4f05d048e4a96df08a9fa07bf0069a05b4fd6dec3d83681b42":[7,0,0,0,1,3,5,12,9,5,19]
 };

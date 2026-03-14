@@ -1,5 +1,11 @@
 var NAVTREEINDEX293 =
 {
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571afb650e0f5f0d4a8cb9eefde9a0a9eda3":[7,0,0,0,1,2,16,4,6,42,1],
+"db/d8b/ItemTemplate_8h.html#a40a08686fc4f70e1f190b17397f25571afe360730c5206ed27eb3957ba20a8a66":[7,0,0,0,1,2,16,4,6,42,14],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5e":[7,0,0,0,1,2,16,4,6,45],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea0e08332b1f5becf2ccc7aea02ee13908":[7,0,0,0,1,2,16,4,6,45,21],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea1912c2a19d4aaf55d69815cf1fcaf054":[7,0,0,0,1,2,16,4,6,45,11],
+"db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea24e283371b56dce8fdd229acc7e86328":[7,0,0,0,1,2,16,4,6,45,17],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea2900612b0a5b387523ef5660703d33a3":[7,0,0,0,1,2,16,4,6,45,6],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea295f5868936247b2b872a4353712fcf6":[7,0,0,0,1,2,16,4,6,45,13],
 "db/d8b/ItemTemplate_8h.html#a503a2b6600bb3748183e03351fe32f5ea2b9a3d888ab3df4bb6ca379e6cd4da85":[7,0,0,0,1,2,16,4,6,45,41],
@@ -243,11 +249,5 @@ var NAVTREEINDEX293 =
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a74f331d2e68ddf7cefc14b4c47369311":[5,0,1,8,0,18,8],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a74f331d2e68ddf7cefc14b4c47369311":[6,0,0,5,0,18,8],
 "db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a7b92f80ef21e6a0a799f3b4197453117":[5,0,1,8,0,18,10],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a7b92f80ef21e6a0a799f3b4197453117":[6,0,0,5,0,18,10],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a8b18e436b6e7d8040b2a9667d06baaa0":[5,0,1,8,0,18,3],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a8b18e436b6e7d8040b2a9667d06baaa0":[6,0,0,5,0,18,3],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a9b7c7996bcc4a601c957d2bfc66ec41c":[6,0,0,5,0,18,6],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a9b7c7996bcc4a601c957d2bfc66ec41c":[5,0,1,8,0,18,6],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aa4373a403bed4b58eac5e83099f32b4f":[5,0,1,8,0,18,9],
-"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#aa4373a403bed4b58eac5e83099f32b4f":[6,0,0,5,0,18,9]
+"db/d8c/structAcore_1_1Impl_1_1ChatCommands_1_1ChatCommandResult.html#a7b92f80ef21e6a0a799f3b4197453117":[6,0,0,5,0,18,10]
 };

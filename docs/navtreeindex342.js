@@ -1,5 +1,11 @@
 var NAVTREEINDEX342 =
 {
+"dd/d8d/DBCStores_8cpp.html#aedcdbef7c215330459e17b2f224ff0e3":[7,0,0,0,1,2,14,0,39],
+"dd/d8d/DBCStores_8cpp.html#aedd41232de632a297dc5d445263ed005":[7,0,0,0,1,2,14,0,29],
+"dd/d8d/DBCStores_8cpp.html#aeeb4aed00cc65a59d882997d8ed991bd":[7,0,0,0,1,2,14,0,120],
+"dd/d8d/DBCStores_8cpp.html#aefc3df82cbf332a6af4aeca1fbefb4e1":[7,0,0,0,1,2,14,0,48],
+"dd/d8d/DBCStores_8cpp.html#aefeec9f1e85a7d39f6b75e5d148391b6":[7,0,0,0,1,2,14,0,58],
+"dd/d8d/DBCStores_8cpp.html#af00952046ad30fb52804f21bcf62d8c9":[7,0,0,0,1,2,14,0,13],
 "dd/d8d/DBCStores_8cpp.html#af1e332a2f034094201c5bac37a9e4d1e":[7,0,0,0,1,2,14,0,64],
 "dd/d8d/DBCStores_8cpp.html#af2f5ba318bc05ae239ae3b162a9f4062":[7,0,0,0,1,2,14,0,76],
 "dd/d8d/DBCStores_8cpp.html#af3003bf91bbf3cd78c669cbc9e8a18cf":[7,0,0,0,1,2,14,0,98],
@@ -243,11 +249,5 @@ var NAVTREEINDEX342 =
 "dd/d9e/classspell__ragnaros__lava__burst__randomizer.html#ad3c052a9bd00d04c954f85218dcfcb0a":[6,0,3946,1],
 "dd/d9e/namespaceWorldPackets_1_1NPC.html":[5,0,34,11],
 "dd/d9f/FormationMovementGenerator_8h.html":[7,0,0,0,1,2,31,0,7],
-"dd/d9f/MoveSpline_8cpp.html":[7,0,0,0,1,2,31,1,4],
-"dd/d9f/MoveSpline_8cpp.html#a0f9e26b66bd86bb9701c366e4f9529c3":[7,0,0,0,1,2,31,1,4,3],
-"dd/d9f/MoveSpline_8cpp.html#a4005b3acaa5011bfc2cc027562c04dfb":[7,0,0,0,1,2,31,1,4,2],
-"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html":[6,0,3959],
-"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#a2e2668f0b5bf369ec859627e0bd8d980":[6,0,3959,1],
-"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#acd7e22159d262a9888c744eecb978c09":[6,0,3959,2],
-"dd/d9f/classspell__reliquary__of__souls__fixate__aura.html#ae9baf688d8ac42c4ccbbf13f3b79e831":[6,0,3959,0]
+"dd/d9f/MoveSpline_8cpp.html":[7,0,0,0,1,2,31,1,4]
 };

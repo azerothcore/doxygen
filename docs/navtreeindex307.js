@@ -1,5 +1,11 @@
 var NAVTREEINDEX307 =
 {
+"db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,4314,3],
+"db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a344f61fb209b507b775a0bbfb1315fac":[7,0,0,0,1,2,45,1,7],
+"db/dfa/CharacterDatabaseCleaner_8h.html#a357c8a07f912c6efb55a13cc9bc089b9":[7,0,0,0,1,2,45,1,8],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a9f512823f852120bf4c3ec78eb4bbeaa":[7,0,0,0,1,2,45,1,4],
 "db/dfa/CharacterDatabaseCleaner_8h.html#aac707369555aa95807c11b1578ae80d2":[7,0,0,0,1,2,45,1,11],
 "db/dfa/CharacterDatabaseCleaner_8h.html#ab98182e5f92f72090600314cc41f0d39":[7,0,0,0,1,2,45,1,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX307 =
 "db/dfd/classboss__anubarak__trial.html":[6,0,391],
 "db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[6,0,391,1],
 "db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[6,0,391,2],
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[6,0,1336,0],
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[6,0,1336,0,0],
-"db/dfe/ALEScript_8h.html":[7,0,0,0,1,2,38,0,7],
-"db/dfe/GroupReference_8h.html":[7,0,0,0,1,2,20,5],
-"db/dfe/boss__ayamiss_8cpp.html":[7,0,0,0,1,3,4,8,0],
-"db/dfe/boss__ayamiss_8cpp.html#a003141c19060ffd9059b2d498b8a5138":[7,0,0,0,1,3,4,8,0,14],
-"db/dfe/boss__ayamiss_8cpp.html#a14d205149c8d0d9429e98695e31d105d":[7,0,0,0,1,3,4,8,0,13]
+"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[6,0,1336,0]
 };

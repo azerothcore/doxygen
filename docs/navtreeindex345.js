@@ -1,5 +1,11 @@
 var NAVTREEINDEX345 =
 {
+"dd/db0/structnpc__shadowpriest__sezziz_1_1npc__shadowpriest__sezzizAI.html#aff413ce6f4106d212f35fb7abbfa047e":[6,0,2131,0,9],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html":[6,0,17,0],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,17,0,0],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a602fc1ddafe663e2e5ddceaeaec8b118":[6,0,17,0,2],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a7fff405a99c65d3e846463ca29a8ddfd":[6,0,17,0,1],
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[6,0,17,0,3],
 "dd/db1/classachievement__assembly__of__iron.html":[6,0,34],
 "dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[6,0,34,2],
 "dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[6,0,34,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX345 =
 "dd/dba/structboss__moroes.html#a677f2b8375981d904183dd804f4b32b8":[6,0,640,9],
 "dd/dba/structboss__moroes.html#a73f4b3c1a3a46261cf62143f8359b55e":[6,0,640,2],
 "dd/dba/structboss__moroes.html#a7d425d58b1e64ef174ff92e1263de544":[6,0,640,5],
-"dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,640,4],
-"dd/dba/structboss__moroes.html#aa0bf31d8298b4ec6ce205cefd0766194":[6,0,640,6],
-"dd/dba/structboss__moroes.html#aa639032a49b3e9bd4209d17e0863db32":[6,0,640,10],
-"dd/dba/structboss__moroes.html#ad34daa424532003e8da616aed3df6c82":[6,0,640,1],
-"dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,640,7],
-"dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,640,12],
-"dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,640,0]
+"dd/dba/structboss__moroes.html#a815ca169e0787c92c09a5803007355aa":[6,0,640,4]
 };

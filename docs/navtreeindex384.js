@@ -1,5 +1,11 @@
 var NAVTREEINDEX384 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a465ed6831f5cbb7a46acc646867a4418":[7,0,0,0,1,3,5,18,51,17],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a49d6cee12d60b301c2d1486de834b5c7":[7,0,0,0,1,3,5,18,51,1],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a52392614bdbb88305c4cfea368c9a8a2":[7,0,0,0,1,3,5,18,51,21],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,51,29],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,51,20],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,51,13],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a6e32f2d5d60dd665537583376cd6fb8a":[7,0,0,0,1,3,5,18,51,14],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a723f43bebeb9fb471451eab79c9b2f8b":[7,0,0,0,1,3,5,18,51,19],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a7f0014c0bccdc769cc63e8f1e7304282":[7,0,0,0,1,3,5,18,51,31],
@@ -243,11 +249,5 @@ var NAVTREEINDEX384 =
 "de/db0/classspell__mage__ice__block.html":[6,0,3592],
 "de/db0/classspell__mage__ice__block.html#a1f0cef532c2bd13d94e647722f85457a":[6,0,3592,3],
 "de/db0/classspell__mage__ice__block.html#a71d397da4a4804cf6023806c15e8bedf":[6,0,3592,1],
-"de/db0/classspell__mage__ice__block.html#ade3a3f956ae8be922bd1d2204919d360":[6,0,3592,0],
-"de/db0/classspell__mage__ice__block.html#af40f92afae93778e477c50ddf18c8adc":[6,0,3592,2],
-"de/db0/classspell__warl__siphon__life.html":[6,0,4286],
-"de/db0/classspell__warl__siphon__life.html#a19e8f1b9aab5ee4e718b304c87303627":[6,0,4286,4],
-"de/db0/classspell__warl__siphon__life.html#a33381b811abcd52f7a57e0f62fa73e5f":[6,0,4286,2],
-"de/db0/classspell__warl__siphon__life.html#ab953f817368120933828d6b3e5e200c0":[6,0,4286,1],
-"de/db0/classspell__warl__siphon__life.html#abfdd5179215432a3e89ea7b498d49867":[6,0,4286,3]
+"de/db0/classspell__mage__ice__block.html#ade3a3f956ae8be922bd1d2204919d360":[6,0,3592,0]
 };

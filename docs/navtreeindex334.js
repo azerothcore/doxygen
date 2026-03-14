@@ -1,5 +1,11 @@
 var NAVTREEINDEX334 =
 {
+"dd/d28/classnpc__lk__spirit__bomb.html":[6,0,1953],
+"dd/d28/classnpc__lk__spirit__bomb.html#acc08d41aa1761c450de782e92307ad7c":[6,0,1953,1],
+"dd/d28/classnpc__lk__spirit__bomb.html#ade74c00beb2da69dafb0ae93d771c430":[6,0,1953,2],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[6,0,3494],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[6,0,3494,1],
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[6,0,3494,0],
 "dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[6,0,3494,2],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html":[6,0,3328],
 "dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[6,0,3328,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX334 =
 "dd/d33/structnpc__ulduar__storm__tempered__keeper.html#a5bbb71bfbeb2c4e09d20a94ed7913183":[6,0,2264,4],
 "dd/d33/structnpc__ulduar__storm__tempered__keeper.html#a8051e2b824a6c0df08dafab6e25d6bc7":[6,0,2264,1],
 "dd/d33/structnpc__ulduar__storm__tempered__keeper.html#a9b1f8cd15790dbd179e313546f9754bf":[6,0,2264,3],
-"dd/d33/structnpc__ulduar__storm__tempered__keeper.html#a9f36f099f7db4c3e1a06b8d4082e58c5":[6,0,2264,5],
-"dd/d33/structnpc__ulduar__storm__tempered__keeper.html#ae4dc8352fd0ff41974a33a4500d19e74":[6,0,2264,0],
-"dd/d34/classinstance__the__black__morass.html":[6,0,1364],
-"dd/d34/classinstance__the__black__morass.html#a44b01fc7ab23c8f4ecfa1e375a237463":[6,0,1364,2],
-"dd/d34/classinstance__the__black__morass.html#aa59c960a89dbd66a4c0ad2105792efb4":[6,0,1364,1],
-"dd/d34/namespaceVMAP.html":[5,0,31],
-"dd/d34/namespaceVMAP.html#a166f3eeee53079ac9df4f15ccd577974":[5,0,31,42]
+"dd/d33/structnpc__ulduar__storm__tempered__keeper.html#a9f36f099f7db4c3e1a06b8d4082e58c5":[6,0,2264,5]
 };

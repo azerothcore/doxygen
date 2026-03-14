@@ -1,5 +1,11 @@
 var NAVTREEINDEX230 =
 {
+"d8/dc2/boss__halazzi_8cpp.html#aab072245ab577ff0e12efe20a536b99aa796793e979d08c776caffceafb33aa85":[7,0,0,0,1,3,2,15,1,2,1],
+"d8/dc2/boss__halazzi_8cpp.html#aab072245ab577ff0e12efe20a536b99aac01236358f92d366822edd70b15d96e6":[7,0,0,0,1,3,2,15,1,2,2],
+"d8/dc2/boss__halazzi_8cpp.html#aab072245ab577ff0e12efe20a536b99aaff89ad484a46d0b7b06edeacb6a01395":[7,0,0,0,1,3,2,15,1,2,0],
+"d8/dc2/boss__halazzi_8cpp.html#ac90421cd4206eda5129bd1e1e42a3ba8":[7,0,0,0,1,3,2,15,1,3],
+"d8/dc2/boss__halazzi_8cpp.html#ac90421cd4206eda5129bd1e1e42a3ba8a76871419e416cabd16418062e27e10c2":[7,0,0,0,1,3,2,15,1,3,1],
+"d8/dc2/boss__halazzi_8cpp.html#ac90421cd4206eda5129bd1e1e42a3ba8ad90073fb2d46ae92672bc6498f12a29e":[7,0,0,0,1,3,2,15,1,3,0],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696":[7,0,0,0,1,3,2,15,1,4],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a61e900515aec51ba22cfdd63c1082fc7":[7,0,0,0,1,3,2,15,1,4,0],
 "d8/dc2/boss__halazzi_8cpp.html#ae9d84216082b1306e6ff4b17c27b3696a7272d361ebd09b163573d51d24c73198":[7,0,0,0,1,3,2,15,1,4,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX230 =
 "d8/dd4/classspell__grobbulus__slime__spray.html#ad7290a8d786f64fdf7b5b04a7770ff6d":[6,0,3151,2],
 "d8/dd4/classspell__pal__sacred__shield.html":[6,0,3743],
 "d8/dd4/classspell__pal__sacred__shield.html#a018d2a8a106a621730fcaa1d500df7b1":[6,0,3743,2],
-"d8/dd4/classspell__pal__sacred__shield.html#a8d7e840994ba5034a249171dbfc016a6":[6,0,3743,1],
-"d8/dd4/classspell__pal__sacred__shield.html#acc2c4cea16dfa30c49387ac166cef560":[6,0,3743,0],
-"d8/dd4/structnpc__necropolis.html":[6,0,2003],
-"d8/dd4/structnpc__necropolis.html#a6535d6dbdc5a6b3c715ca9ec470fb258":[6,0,2003,0],
-"d8/dd4/structnpc__necropolis.html#ae068da7f6b1de5d06568b672d9f46f18":[6,0,2003,1],
-"d8/dd5/LootHandler_8cpp.html":[7,0,0,0,1,2,22,17],
-"d8/dd5/classnpc__bushwhacker.html":[6,0,1697]
+"d8/dd4/classspell__pal__sacred__shield.html#a8d7e840994ba5034a249171dbfc016a6":[6,0,3743,1]
 };

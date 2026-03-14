@@ -1,5 +1,11 @@
 var NAVTREEINDEX273 =
 {
+"da/db9/classSpellEffectInfo.html#adc355dcdff6910ebd36b65598ce1920e":[6,0,4383,28],
+"da/db9/classSpellEffectInfo.html#ae3f69e686423d2bc2afb360d045ba62c":[6,0,4383,7],
+"da/db9/classSpellEffectInfo.html#ae53e6943b7ee4929e54eb07198a03ffb":[6,0,4383,40],
+"da/db9/classSpellEffectInfo.html#ae55c90629f04e78543272dfc9bb58474":[6,0,4383,34],
+"da/db9/classSpellEffectInfo.html#aee74e36f2e739bdfb7db58a3206f25c1":[6,0,4383,30],
+"da/db9/classSpellEffectInfo.html#af2e8b50078e3b9ff38a0ce326ce2a2ac":[6,0,4383,39],
 "da/db9/classSpellEffectInfo.html#af821fd10fbf2f95289b4bd3f86b9ef9d":[6,0,4383,10],
 "da/db9/classSpellEffectInfo.html#af8310ea0f1ed4123e2389dd3dc18c70a":[6,0,4383,42],
 "da/db9/classSpellEffectInfo.html#af92944366476e306d28639eb4fe2c872":[6,0,4383,3],
@@ -243,11 +249,5 @@ var NAVTREEINDEX273 =
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda3545e357a3349ee42fad9ec871660880":[7,0,0,0,1,2,16,7,5,121,9],
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda3bc0762eb887939b2925dc398760df88":[7,0,0,0,1,2,16,7,5,121,11],
 "da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda3f3fca6123651e9953a9ffad63d9514e":[7,0,0,0,1,2,16,7,5,121,12],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda41798f78d62382fc517da86534ad7191":[7,0,0,0,1,2,16,7,5,121,8],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda64495577dd93a1ecb57289c309bcce6b":[7,0,0,0,1,2,16,7,5,121,25],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda65f43c5507b5355b67a2fa8a57300cd6":[7,0,0,0,1,2,16,7,5,121,27],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda6686aeb9c65234c7326dbbfa0ce8ffa7":[7,0,0,0,1,2,16,7,5,121,26],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda68aeeecc2703ca6b7aa4185b8aa41548":[7,0,0,0,1,2,16,7,5,121,0],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda73d7f97ed3311ab8d4adc27637e12c74":[7,0,0,0,1,2,16,7,5,121,5],
-"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda75e9eb6779326cc091b249095ec088de":[7,0,0,0,1,2,16,7,5,121,14]
+"da/dbf/Player_8h.html#a3ff501fa2c348b8887c3e9eac3ab7dcda41798f78d62382fc517da86534ad7191":[7,0,0,0,1,2,16,7,5,121,8]
 };
