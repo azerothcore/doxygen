@@ -2,8 +2,6 @@ var chapter1_8cpp =
 [
     [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls.html", "dc/d1a/classspell__q12641__death__comes__from__on__high__summon__ghouls" ],
     [ "spell_q12641_death_comes_from_on_high_recall_eye", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye.html", "d0/df7/classspell__q12641__death__comes__from__on__high__recall__eye" ],
-    [ "npc_death_knight_initiate", "d8/d74/classnpc__death__knight__initiate.html", "d8/d74/classnpc__death__knight__initiate" ],
-    [ "npc_death_knight_initiate::npc_death_knight_initiateAI", "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI.html", "da/da7/structnpc__death__knight__initiate_1_1npc__death__knight__initiateAI" ],
     [ "spell_item_gift_of_the_harvester", "d5/df0/classspell__item__gift__of__the__harvester.html", "d5/df0/classspell__item__gift__of__the__harvester" ],
     [ "spell_q12698_the_gift_that_keeps_on_giving", "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving.html", "d7/d2f/classspell__q12698__the__gift__that__keeps__on__giving" ],
     [ "npc_scarlet_ghoul", "d8/d0a/classnpc__scarlet__ghoul.html", "d8/d0a/classnpc__scarlet__ghoul" ],
@@ -22,16 +20,6 @@ var chapter1_8cpp =
     [ "DeathComesFromOnHigh", "dc/dec/chapter1_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887ea", [
       [ "SPELL_CALL_OF_THE_DEAD", "dc/dec/chapter1_8cpp.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982", null ]
     ] ],
-    [ "deathsChallenge", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63", [
-      [ "SPELL_DUEL", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63aa4a531ba862d340d8569255af4c59069", null ],
-      [ "SPELL_DUEL_VICTORY", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63ae8d88b372b66f9b825344bfeaf392708", null ],
-      [ "SPELL_DUEL_FLAG", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63a1c592d461a8cc02648121d8f87329a7d", null ],
-      [ "SAY_DUEL", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63a7a383d3a269b4cf23c0b99b8cf60d0b5", null ],
-      [ "QUEST_DEATH_CHALLENGE", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63a10d1682200c0c72611b3cd99af1b613c", null ],
-      [ "DATA_IN_PROGRESS", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63a80cd6f5d182cc1729fa496f31ae35ca6", null ],
-      [ "EVENT_SPEAK", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63a4b6c4609ea1b0550ac22871ebd9af5bc", null ],
-      [ "EVENT_DUEL_LOST", "dc/dec/chapter1_8cpp.html#a8f10a57d17ad15b9a0e14245bcf79b63aba893dd076928fa851701f5b25107cc8", null ]
-    ] ],
     [ "EyeOfAcherusMisc", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6f", [
       [ "SPELL_THE_EYE_OF_ACHERUS", "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b", null ]
     ] ],
@@ -46,6 +34,9 @@ var chapter1_8cpp =
       [ "EVENT_GHOUL_EMOTE", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a9d1897c09a5510faf943cf99ed02050a", null ],
       [ "EVENT_GHOUL_MOVE_TO_PIT", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb", null ],
       [ "SAY_GOTHIK_PIT", "dc/dec/chapter1_8cpp.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5", null ]
+    ] ],
+    [ "GothikActions", "dc/dec/chapter1_8cpp.html#a5a83eaaf24170ee2259363469448ced2", [
+      [ "ACTION_DK_INITIATE_ASSAULT_ROAR", "dc/dec/chapter1_8cpp.html#a5a83eaaf24170ee2259363469448ced2a0d146a11bd98f9f335ac6fffee8a182b", null ]
     ] ],
     [ "spells_lich_king_whisper", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
       [ "SPELL_LICH_KING_VO_BLOCKER", "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],

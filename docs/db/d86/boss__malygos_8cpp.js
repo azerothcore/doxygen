@@ -10,10 +10,16 @@ var boss__malygos_8cpp =
     [ "spell_malygos_vortex_dummy", "d0/d77/classspell__malygos__vortex__dummy.html", "d0/d77/classspell__malygos__vortex__dummy" ],
     [ "spell_malygos_vortex_visual", "d2/d4c/classspell__malygos__vortex__visual.html", "d2/d4c/classspell__malygos__vortex__visual" ],
     [ "spell_eoe_ph3_surge_of_power", "d4/df5/classspell__eoe__ph3__surge__of__power.html", "d4/df5/classspell__eoe__ph3__surge__of__power" ],
+    [ "spell_malygos_surge_of_power_warning_selector_25", "d6/d58/classspell__malygos__surge__of__power__warning__selector__25.html", "d6/d58/classspell__malygos__surge__of__power__warning__selector__25" ],
+    [ "spell_malygos_surge_of_power_25", "d6/dbf/classspell__malygos__surge__of__power__25.html", "d6/dbf/classspell__malygos__surge__of__power__25" ],
     [ "spell_wyrmrest_skytalon_summon_red_dragon_buddy", "d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy.html", "d7/d3a/classspell__wyrmrest__skytalon__summon__red__dragon__buddy" ],
     [ "spell_wyrmrest_skytalon_ride_red_dragon_buddy_trigger", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html", "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger" ],
     [ "MAX_NEXUS_LORDS", "db/d86/boss__malygos_8cpp.html#ae09b5e2028ed2dfe3f3c10532cf5dadc", null ],
     [ "MAX_SCIONS_OF_ETERNITY", "db/d86/boss__malygos_8cpp.html#ac7fb08307734367ba9b7f205c3cc94b7", null ],
+    [ "MalygosData", "db/d86/boss__malygos_8cpp.html#a8555f7c54ab1e75fe715cd0b0a7e610e", [
+      [ "DATA_FIRST_SURGE_TARGET_GUID", "db/d86/boss__malygos_8cpp.html#a8555f7c54ab1e75fe715cd0b0a7e610ea3b14190267a3ebdc7ca3fd1c020c76dc", null ],
+      [ "NUM_MAX_SURGE_TARGETS", "db/d86/boss__malygos_8cpp.html#a8555f7c54ab1e75fe715cd0b0a7e610ea437629cd227f4d4104c184e3ff14737a", null ]
+    ] ],
     [ "MalygosEvents", "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cc", [
       [ "EVENT_INTRO_MOVE_CENTER", "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca338250c0ce0788a7307ce8740567b36b", null ],
       [ "EVENT_INTRO_LAND", "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88ccad6bac51bd08bb76348b62d336933fd7f", null ],
@@ -80,6 +86,9 @@ var boss__malygos_8cpp =
       [ "SPELL_DESTROY_PLATFORM_VISUAL", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a3be5445a63092c13f5c5870fcc363308", null ],
       [ "SPELL_ARCANE_PULSE", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a1dd438f9024606a385b62fe0891d1bd5", null ],
       [ "SPELL_PH3_SURGE_OF_POWER", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a7252a7fee1c73f1f441ea729cb597492", null ],
+      [ "SPELL_PH3_SURGE_OF_POWER_25", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a367a58c2a50be17654ae8cefda345537", null ],
+      [ "SPELL_SURGE_OF_POWER_WARN_SELECTOR_25", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a412a4e98b23fe55c64f5954bf088322a", null ],
+      [ "SPELL_RIDE_RED_DRAGON_BUDDY", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a4cb967317a9769951ebc012fd31e28a0", null ],
       [ "SPELL_STATIC_FIELD_MAIN", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2a7b032d61ea97aa0edcf124be5cb55c1d", null ],
       [ "SPELL_STATIC_FIELD_SUMMON", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2ab7024638b883ad19a43abac06ad0c1af", null ],
       [ "SPELL_STATIC_FIELD_AURA", "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2add493ebca917ea94cc54ada3ed8310e5", null ],

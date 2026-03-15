@@ -1,5 +1,14 @@
 var NAVTREEINDEX213 =
 {
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ac1b88065a8659a2d68cbe94126f89eb0":[7,0,0,0,1,2,16,10,6,9,21],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ac64ead6f489dab18f712c03b5f25b23a":[7,0,0,0,1,2,16,10,6,9,23],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ad2500975cd249289bc8493d09e6645c2":[7,0,0,0,1,2,16,10,6,9,4],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ad9e82491a4caa68aad2522fd0deca3b3":[7,0,0,0,1,2,16,10,6,9,1],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896adf6298eb039524594716cc25380b3130":[7,0,0,0,1,2,16,10,6,9,32],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ae09f1e65fc67ab538618acf8b4296624":[7,0,0,0,1,2,16,10,6,9,27],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896ae2636cae27f7df24274545b9d1ac50d6":[7,0,0,0,1,2,16,10,6,9,16],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896aec251370b4b0299e500daf6c4be91821":[7,0,0,0,1,2,16,10,6,9,18],
+"d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896af0f7e4885c166c5764b27f439bd3e917":[7,0,0,0,1,2,16,10,6,9,12],
 "d7/df1/UnitDefines_8h.html#a3b388b7fbe309af507459a14b84e7896af8216e30d04dc8ac70594857ddcc6104":[7,0,0,0,1,2,16,10,6,9,14],
 "d7/df1/UnitDefines_8h.html#a5675a5c1697c67bf33e72b41232b39ea":[7,0,0,0,1,2,16,10,6,11],
 "d7/df1/UnitDefines_8h.html#a5675a5c1697c67bf33e72b41232b39eaa17d9f31118723dbf09e89460443647e9":[7,0,0,0,1,2,16,10,6,11,3],
@@ -239,15 +248,6 @@ var NAVTREEINDEX213 =
 "d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934af994460e0ac7694f237deaac22dfee97":[7,0,0,0,1,2,16,10,6,13,29],
 "d7/df1/UnitDefines_8h.html#affdd0d554c8bcaaa85a879f5a9d60934affec48f5508d2721fefca9bb9be22004":[7,0,0,0,1,2,16,10,6,13,31],
 "d7/df2/CharacterPackets_8h.html":[7,0,0,0,1,2,39,0,6],
-"d7/df3/classspell__algalon__big__bang.html":[6,0,2627],
-"d7/df3/classspell__algalon__big__bang.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9":[6,0,2627,3],
-"d7/df3/classspell__algalon__big__bang.html#a716bcf5bb0a24f9a57534c9dafb1a56f":[6,0,2627,2],
-"d7/df3/classspell__algalon__big__bang.html#a9340c167ef70508635092e273c23dcde":[6,0,2627,0],
-"d7/df3/classspell__algalon__big__bang.html#a996db37b678143fbc0a392032d29fff5":[6,0,2627,1],
-"d7/df3/classspell__algalon__big__bang.html#ac780614674e748274081f9f99a5165fe":[6,0,2627,5],
-"d7/df3/classspell__algalon__big__bang.html#aed312a4408134589fd02bbcb844fd1b7":[6,0,2627,4],
-"d7/df4/classnpc__qiraj__war__spawn.html":[6,0,2092],
-"d7/df4/classnpc__qiraj__war__spawn.html#a2afba33e9fd879ac3fea206768b14334":[6,0,2092,1],
-"d7/df4/classnpc__qiraj__war__spawn.html#a32339f20251c188b895c02b6cc9217e9":[6,0,2092,2],
-"d7/df4/structgo__loosely__turned__soil_1_1go__loosely__turned__soilAI.html":[6,0,1176,0]
+"d7/df3/classspell__algalon__big__bang.html":[6,0,2626],
+"d7/df3/classspell__algalon__big__bang.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9":[6,0,2626,3]
 };

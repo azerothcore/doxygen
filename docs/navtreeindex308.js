@@ -1,7 +1,5 @@
 var NAVTREEINDEX308 =
 {
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[6,0,1336,0,0],
-"db/dfe/ALEScript_8h.html":[7,0,0,0,1,2,38,0,7],
 "db/dfe/GroupReference_8h.html":[7,0,0,0,1,2,20,5],
 "db/dfe/boss__ayamiss_8cpp.html":[7,0,0,0,1,3,4,8,0],
 "db/dfe/boss__ayamiss_8cpp.html#a003141c19060ffd9059b2d498b8a5138":[7,0,0,0,1,3,4,8,0,14],
@@ -43,9 +41,9 @@ var NAVTREEINDEX308 =
 "db/dfe/boss__ayamiss_8cpp.html#aaff9bf4a1193d28032a46428a879f03d":[7,0,0,0,1,3,4,8,0,12],
 "db/dfe/boss__ayamiss_8cpp.html#aaff9bf4a1193d28032a46428a879f03da2d1cdac72395e4d8222cd2ddd9b285db":[7,0,0,0,1,3,4,8,0,12,0],
 "db/dff/QueryHandler_8cpp.html":[7,0,0,0,1,2,22,25],
-"db/dff/classnpc__gunship__boarding__add.html":[6,0,1845],
-"db/dff/classnpc__gunship__boarding__add.html#aa80871f80bae7186d3665f73d757e108":[6,0,1845,1],
-"db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[6,0,1845,2],
+"db/dff/classnpc__gunship__boarding__add.html":[6,0,1844],
+"db/dff/classnpc__gunship__boarding__add.html#aa80871f80bae7186d3665f73d757e108":[6,0,1844,1],
+"db/dff/classnpc__gunship__boarding__add.html#ad7e173bffccca6d852ba545427235447":[6,0,1844,2],
 "dc/d00/AllCreatureScript_8h.html":[7,0,0,0,1,2,38,0,13],
 "dc/d00/chapter5_8cpp.html":[7,0,0,0,1,3,2,6,3],
 "dc/d00/chapter5_8cpp.html#a2361288a6bfc083ea12d77072611faa0":[7,0,0,0,1,3,2,6,3,6],
@@ -249,5 +247,7 @@ var NAVTREEINDEX308 =
 "dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a2c6e5993b5839ab856bdf148f2f8c5f9":[7,0,0,0,1,3,2,6,3,7,11],
 "dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a33455eee6842c171a91b3bcefdf708f0":[7,0,0,0,1,3,2,6,3,7,8],
 "dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a38cf3d1191706948beec28ac2da3c620":[7,0,0,0,1,3,2,6,3,7,16],
-"dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a3fd6b406f1f7c5e11a3d621fe8f1daba":[7,0,0,0,1,3,2,6,3,7,0]
+"dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a3fd6b406f1f7c5e11a3d621fe8f1daba":[7,0,0,0,1,3,2,6,3,7,0],
+"dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a69cec1d4fa7043dc33f2d8faec027e29":[7,0,0,0,1,3,2,6,3,7,14],
+"dc/d00/chapter5_8cpp.html#ad06adbcdb44f10d2db56963841db0dd1a7d50c01dbb2e71db83a2aeda2a340a51":[7,0,0,0,1,3,2,6,3,7,18]
 };

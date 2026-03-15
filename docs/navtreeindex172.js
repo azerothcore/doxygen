@@ -1,7 +1,5 @@
 var NAVTREEINDEX172 =
 {
-"d6/d38/classAchievementGlobalMgr.html#a01ce43650f0e13322d74da5da695d870":[6,0,118,26],
-"d6/d38/classAchievementGlobalMgr.html#a05890722918305e7142c6d717a37c868":[6,0,118,2],
 "d6/d38/classAchievementGlobalMgr.html#a0d2613ae8ba43b8b6b0820f10e8a2c42":[6,0,118,11],
 "d6/d38/classAchievementGlobalMgr.html#a1cf68ed7afb929d4963b9b381ca813bd":[6,0,118,13],
 "d6/d38/classAchievementGlobalMgr.html#a1dc84c9b8243eb9bc8626e63fb421023":[6,0,118,22],
@@ -109,11 +107,11 @@ var NAVTREEINDEX172 =
 "d6/d38/classChatHandler.html#afdbe90fd350a062b2afae318284ce07d":[6,0,885,35],
 "d6/d38/classChatHandler.html#afdbeccdfa99d98175ce520f8eb5621dd":[6,0,885,54],
 "d6/d38/classChatHandler.html#affa04b48f8ce2a0c11b9e245e200f68b":[6,0,885,23],
-"d6/d38/classspell__gen__feign__death__all__flags.html":[6,0,3037],
-"d6/d38/classspell__gen__feign__death__all__flags.html#a0635d5e34bfc62df1ec006b7818bffb2":[6,0,3037,3],
-"d6/d38/classspell__gen__feign__death__all__flags.html#a4925868cc5b61b7f35d59fdb27af27b6":[6,0,3037,2],
-"d6/d38/classspell__gen__feign__death__all__flags.html#a65ad32ded4246c3469f15b6ab167830e":[6,0,3037,0],
-"d6/d38/classspell__gen__feign__death__all__flags.html#a8aab4a5dab173bd0296843a0c2991142":[6,0,3037,1],
+"d6/d38/classspell__gen__feign__death__all__flags.html":[6,0,3036],
+"d6/d38/classspell__gen__feign__death__all__flags.html#a0635d5e34bfc62df1ec006b7818bffb2":[6,0,3036,3],
+"d6/d38/classspell__gen__feign__death__all__flags.html#a4925868cc5b61b7f35d59fdb27af27b6":[6,0,3036,2],
+"d6/d38/classspell__gen__feign__death__all__flags.html#a65ad32ded4246c3469f15b6ab167830e":[6,0,3036,0],
+"d6/d38/classspell__gen__feign__death__all__flags.html#a8aab4a5dab173bd0296843a0c2991142":[6,0,3036,1],
 "d6/d38/instance__blackfathom__deeps_8cpp.html":[7,0,0,0,1,3,4,0,1],
 "d6/d38/instance__blackfathom__deeps_8cpp.html#a6df6617d1b66a2f3d1f610218af85c18":[7,0,0,0,1,3,4,0,1,2],
 "d6/d38/molten__core_8cpp.html":[7,0,0,0,1,3,2,1,3,11],
@@ -249,5 +247,7 @@ var NAVTREEINDEX172 =
 "d6/d39/classWorld.html#af0e397fef43d8165502535de9d48da4d":[4,2,11,13],
 "d6/d39/classWorld.html#af27489b9c412e1b060ac4b20ec652e50":[4,2,11,62],
 "d6/d39/classWorld.html#af2dc81f0cf0d4186c8c92fe79ed27a64":[4,2,11,21],
-"d6/d39/classWorld.html#af316951a4fad8be6307b10bd5b5cbc72":[4,2,11,17]
+"d6/d39/classWorld.html#af316951a4fad8be6307b10bd5b5cbc72":[4,2,11,17],
+"d6/d39/classWorld.html#afa39d4e6f714a7a3691ac0c656f5e8a8":[4,2,11,0],
+"d6/d39/classWorld.html#afcff4834a924e6d6ec051052b707acc7":[4,2,11,84]
 };
