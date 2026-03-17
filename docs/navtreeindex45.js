@@ -1,5 +1,6 @@
 var NAVTREEINDEX45 =
 {
+"d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a8012e9d256b0750989e91425898bcecd":[7,0,0,0,1,2,3,2,5,17,80],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a8058bc5bff88173fb390153df062fe21":[7,0,0,0,1,2,3,2,5,17,94],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a81d48f725c298b3807f08d39f0f29e6d":[7,0,0,0,1,2,3,2,5,17,54],
 "d1/dc3/SmartScriptMgr_8h.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a837911d0cc8a407ba9d0a0ab9d58403c":[7,0,0,0,1,2,3,2,5,17,29],
@@ -231,10 +232,10 @@ var NAVTREEINDEX45 =
 "d1/dc8/Util_8h.html#afd94ec4691ef4676cd4225a64bbc7c77a9712e218ad6ecc969cdf62c18789b6a2":[7,0,0,0,0,15,41,4,3],
 "d1/dc8/Util_8h.html#afd94ec4691ef4676cd4225a64bbc7c77ac16673fa57fe84621aa27036c43ea94d":[7,0,0,0,0,15,41,4,4],
 "d1/dc8/Util_8h.html#afe20f8aa14e9b4dccd5a547a48a5c55c":[7,0,0,0,0,15,41,25],
-"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html":[6,0,12,8,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html":[5,0,34,8,3],
-"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a05dec559746537669fcf32f52a171b44":[5,0,34,8,3,0],
+"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html":[6,0,12,8,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a05dec559746537669fcf32f52a171b44":[6,0,12,8,3,0],
+"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a05dec559746537669fcf32f52a171b44":[5,0,34,8,3,0],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[5,0,34,8,3,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[6,0,12,8,3,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[6,0,12,8,3,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX45 =
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html#afe59e0c21eaa06e2b1d614613b1d2f73":[6,0,3767,0],
 "d1/dc8/classspell__winter__veil__shoot__air__rifle.html":[6,0,4334],
 "d1/dc8/classspell__winter__veil__shoot__air__rifle.html#a2acaaf3716237f147429cb07779ae49e":[6,0,4334,0],
-"d1/dc8/classspell__winter__veil__shoot__air__rifle.html#a55df717ede47b17a32ae33ecd64617cd":[6,0,4334,1],
-"d1/dc8/classspell__winter__veil__shoot__air__rifle.html#ac515af62f7e42cafecc4afdf7ba15ddf":[6,0,4334,2]
+"d1/dc8/classspell__winter__veil__shoot__air__rifle.html#a55df717ede47b17a32ae33ecd64617cd":[6,0,4334,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX406 =
 {
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a90dff89c652339ecf7479d2c9233962a":[6,0,2077,0,0],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a9ecb9771140d1248c08c56886c8d4ca9":[6,0,2077,0,4],
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#ab752e504c7cf463a4447a07fbb67211c":[6,0,2077,0,8],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#adafed6974cbd70ccfc0f9ee83732d162":[6,0,2077,0,3],
 "df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#af59e24c588861fe7d1bcd456780f571a":[6,0,2077,0,5],
 "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html":[6,0,2225,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX406 =
 "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a435ac0418fe4bba1d2877ce6bea6451c":[6,0,1932,0,0],
 "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html#a5d54954a159da764aa7b83579e03688c":[6,0,1932,0,1],
 "df/dbb/BankPackets_8cpp.html":[7,0,0,0,1,2,39,0,1],
-"df/dbb/classspell__gen__netherbloom.html":[6,0,3072],
-"df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[6,0,3072,0],
-"df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[6,0,3072,3],
-"df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[6,0,3072,2]
+"df/dbb/classspell__gen__netherbloom.html":[6,0,3072]
 };

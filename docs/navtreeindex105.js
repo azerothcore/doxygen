@@ -1,5 +1,8 @@
 var NAVTREEINDEX105 =
 {
+"d3/d8f/SpellProcPipelineTest_8cpp.html#abe1d49b795fc6def60b42b113cec4b6f":[7,0,0,0,2,2,0,7,18,19],
+"d3/d8f/SpellProcPipelineTest_8cpp.html#ad2fb2ff6f41f7e7771cb74d49a945a2f":[7,0,0,0,2,2,0,7,18,14],
+"d3/d8f/SpellProcPipelineTest_8cpp.html#ad9d5ae60773ca5e0adec858f943d6219":[7,0,0,0,2,2,0,7,18,8],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#aee6d5257c9330329d3161f0da69ff4b7":[7,0,0,0,2,2,0,7,18,18],
 "d3/d8f/SpellProcPipelineTest_8cpp.html#af1b16c6116add0a4321bbeea7a241688":[7,0,0,0,2,2,0,7,18,9],
 "d3/d8f/classgo__pumpkin__shrine.html":[6,0,1188],
@@ -246,8 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d9a/classspell__dk__corpse__explosion.html#a5028b9d3166270b2b0557943e962eade":[6,0,2799,8],
 "d3/d9a/classspell__dk__corpse__explosion.html#a731aa2c0a2b67b8a15cab72ea2cb961a":[6,0,2799,0],
 "d3/d9a/classspell__dk__corpse__explosion.html#a810fc65eb5d7160366d63210bad9caea":[6,0,2799,3],
-"d3/d9a/classspell__dk__corpse__explosion.html#a93984e8b831cb4c37ec2726d44532d43":[6,0,2799,7],
-"d3/d9a/classspell__dk__corpse__explosion.html#a9e67ea51300569a0e163cb3e427b086e":[6,0,2799,6],
-"d3/d9a/classspell__hadronox__leech__poison__aura.html":[6,0,3158],
-"d3/d9a/classspell__hadronox__leech__poison__aura.html#a34b88963dd81e6a8855daaedb9c238d4":[6,0,3158,1]
+"d3/d9a/classspell__dk__corpse__explosion.html#a93984e8b831cb4c37ec2726d44532d43":[6,0,2799,7]
 };

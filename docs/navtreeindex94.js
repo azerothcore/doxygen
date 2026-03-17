@@ -1,5 +1,8 @@
 var NAVTREEINDEX94 =
 {
+"d3/d18/classat__battleguard__sartura.html":[6,0,215],
+"d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[6,0,215,1],
+"d3/d18/classat__battleguard__sartura.html#a9247cdebeb57d2ddbfa75f60da125d36":[6,0,215,0],
 "d3/d18/structContainerVector_3_01TypeNull_01_4.html":[6,0,927],
 "d3/d19/structArenaTeamScore.html":[6,0,203],
 "d3/d19/structArenaTeamScore.html#a017cd1a4d90a466b42aeab8ff1a12f3a":[6,0,203,0],
@@ -15,8 +18,8 @@ var NAVTREEINDEX94 =
 "d3/d19/structArenaTeamScore.html#ae3e2b8e8a29c50ca20a42a0364349764":[6,0,203,3],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[6,0,0,89,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html":[5,0,1,101,0],
-"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,101,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[6,0,0,89,0,0],
+"d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a09c992e631ec8e778a238b38208d686b":[5,0,1,101,0,0],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[5,0,1,101,0,1],
 "d3/d1a/classAcore_1_1ObjectLevelLockable_1_1Lock.html#a45314b9d141b17ba5bac603afb0ffbe0":[6,0,0,89,0,1],
 "d3/d1a/classspell__pal__seal__of__vengeance__aura.html":[6,0,3750],
@@ -51,8 +54,8 @@ var NAVTREEINDEX94 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2951],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[6,0,2951,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[6,0,2951,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d23/classspell__hor__gunship__cannon__fire__aura.html#ae0ccb7d4566777e52b71e99a908d13fa":[6,0,3203,1],
 "d3/d23/structRotfaceHeightCheck.html":[6,0,2541],
 "d3/d23/structRotfaceHeightCheck.html#a585743e0e76c64a5caa37acab46d04d5":[6,0,2541,1],
-"d3/d23/structRotfaceHeightCheck.html#aabdeaee465989c339fc7a3f186e20498":[6,0,2541,0],
-"d3/d24/classBossAI.html":[6,0,824],
-"d3/d24/classBossAI.html#a04dd3e06f19801bb419613f7d7482fa6":[6,0,824,13],
-"d3/d24/classBossAI.html#a05890dbd00c482b204af44f69d3efdc0":[6,0,824,33]
+"d3/d23/structRotfaceHeightCheck.html#aabdeaee465989c339fc7a3f186e20498":[6,0,2541,0]
 };

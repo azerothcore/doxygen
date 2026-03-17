@@ -1,9 +1,12 @@
 var NAVTREEINDEX158 =
 {
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,1,105,1],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,93,4],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,1,105,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[6,0,0,93,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,1,105,3],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,1,105,5],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[6,0,0,93,5],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,1,105,5],
 "d5/dc0/classspell__marli__transform.html":[6,0,3631],
 "d5/dc0/classspell__marli__transform.html#a56bf9c77cf96b1e34543a59fc2a308b2":[6,0,3631,1],
 "d5/dc0/classspell__marli__transform.html#a92734043e53b5e1ef81fa9b5ccce135e":[6,0,3631,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX158 =
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a5c6f0970a54188997832d8023eff3317":[6,0,1314,0,12],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a5eb6fc2999384f00e90eaa98602cad4d":[6,0,1314,0,14],
 "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a6fc28098e9a7164169fbb3a1dfa2a362":[6,0,1314,0,33],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a71474c27dc4ae7fb95e8b65cbb7dd41e":[6,0,1314,0,9],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a741a2a4865a860074536cf772a4d2256":[6,0,1314,0,28],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a7d296d838d6504adc64b07c3e200dbde":[6,0,1314,0,2],
-"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a7ee0956b6c836759a82a0b1a17252bbb":[6,0,1314,0,23]
+"d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html#a71474c27dc4ae7fb95e8b65cbb7dd41e":[6,0,1314,0,9]
 };

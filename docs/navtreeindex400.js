@@ -1,5 +1,8 @@
 var NAVTREEINDEX400 =
 {
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0cc2e07c558bd96e8b2a0cee3a1858b2":[7,0,0,0,1,3,5,1,0,0,11,3],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0e04c9e676c9885a1a0bdb7fe5608933":[7,0,0,0,1,3,5,1,0,0,11,7],
+"df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca0ec96f1c508d36b39e9c829ff7336fe2":[7,0,0,0,1,3,5,1,0,0,11,8],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca3c9327f7d61c69a02771e58f8254bd43":[7,0,0,0,1,3,5,1,0,0,11,2],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca70525d65c99bb1860cd206023b4d0051":[7,0,0,0,1,3,5,1,0,0,11,5],
 "df/d71/boss__sartharion_8cpp.html#a6986ec7b2d3274669934af9795f26d5ca7d2d663e0fd0f7e37fdd04eb045c5c6c":[7,0,0,0,1,3,5,1,0,0,11,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX400 =
 "df/d7f/structboss__novos.html#a93c6c9c3a8e94f1d051047ddf24fbe14":[6,0,655,5],
 "df/d7f/structboss__novos.html#a95732678db7d6b103a6523100b27544b":[6,0,655,8],
 "df/d7f/structboss__novos.html#aa383cb44a4eddcf73b00da9925060dde":[6,0,655,9],
-"df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[6,0,655,6],
-"df/d7f/structboss__novos.html#accd720c3cb74905ef5ecf793089681eb":[6,0,655,4],
-"df/d7f/structboss__novos.html#ad037870744002e44a48e056875bd7ec1":[6,0,655,2],
-"df/d7f/structboss__novos.html#ae05afda7873a26a7a812813628e970fc":[6,0,655,0]
+"df/d7f/structboss__novos.html#ac06fea8658bedcbf0ede8ddace6b9c3c":[6,0,655,6]
 };

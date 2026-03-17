@@ -1,5 +1,8 @@
 var NAVTREEINDEX177 =
 {
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ad135529fe083af2ce3e79823213d2735":[6,0,2222,0,9],
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ad34b85c80ebfb2332709c7ee21c053b7":[6,0,2222,0,0],
+"d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#ad5f7769462aa39fabb7ec5e79670cda1":[6,0,2222,0,5],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#aef9d2bcc04b8c1a54bf59f4744eba3ae":[6,0,2222,0,2],
 "d6/d68/structnpc__torloth__the__magnificent_1_1npc__torloth__the__magnificentAI.html#afbe712b9e3dfe97417e1e621f4eff113":[6,0,2222,0,7],
 "d6/d68/the__eye_8h.html":[7,0,0,0,1,3,7,5,2,5],
@@ -167,8 +170,8 @@ var NAVTREEINDEX177 =
 "d6/d73/classspell__gluth__decimate__damage.html":[6,0,3142],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[6,0,3142,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3142,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1988],
@@ -246,8 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39aba1816dec6964a547d88e1fb02f60288":[7,0,0,0,1,3,7,15,16,2],
 "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39afcc4ad64be5adf59fd88632315f6824c":[7,0,0,0,1,3,7,15,16,3],
 "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02":[7,0,0,0,1,3,7,15,23],
-"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6":[7,0,0,0,1,3,7,15,23,3],
-"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a9f091068e93fe04fde1b2d77d34d5fcf":[7,0,0,0,1,3,7,15,23,1],
-"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c":[7,0,0,0,1,3,7,15,23,0],
-"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac9b055761d26e7020af8fca0ad0914e8":[7,0,0,0,1,3,7,15,23,2]
+"d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02a69dd71f7b0eefec5bcdd15cddbb128d6":[7,0,0,0,1,3,7,15,23,3]
 };

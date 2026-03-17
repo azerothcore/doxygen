@@ -1,5 +1,8 @@
 var NAVTREEINDEX397 =
 {
+"df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,1,10,19],
+"df/d42/zone__ashenvale_8cpp.html":[7,0,0,0,1,3,4,14],
+"df/d42/zone__ashenvale_8cpp.html#a2381a800b34807e7f0d47d7b60feb025":[7,0,0,0,1,3,4,14,5],
 "df/d42/zone__ashenvale_8cpp.html#a44aaebd71b577ea90de1a8b853f557ed":[7,0,0,0,1,3,4,14,4],
 "df/d42/zone__ashenvale_8cpp.html#a5bc25863ec332eb1c8498f84556810c2":[7,0,0,0,1,3,4,14,3],
 "df/d42/zone__ashenvale_8cpp.html#a61aa1bf847260f3b69320f14a98eb057":[7,0,0,0,1,3,4,14,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX397 =
 "df/d55/classlfg_1_1LFGPlayerScript.html":[5,0,18,9],
 "df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[5,0,18,9,4],
 "df/d55/classlfg_1_1LFGPlayerScript.html#a13c365770c90d1a44f72ab4cb8c7f903":[6,0,5,9,4],
-"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[6,0,5,9,3],
-"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[5,0,18,9,3],
-"df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c":[6,0,5,9,5],
-"df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c":[5,0,18,9,5]
+"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[6,0,5,9,3]
 };

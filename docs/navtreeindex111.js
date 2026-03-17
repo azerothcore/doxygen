@@ -1,5 +1,8 @@
 var NAVTREEINDEX111 =
 {
+"d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#a946bb26f4db468867efe40f26c77064b":[6,0,1315,0,22],
+"d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#a9a03ee3eece1b15d547f64ab5070c30b":[6,0,1315,0,2],
+"d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#a9cf94352442fc16d348cf4d422410fe1":[6,0,1315,0,0],
 "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#aa2aceddb53255eb977446cc76ec7f201":[6,0,1315,0,20],
 "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#aa7aec41b51c994602d75c38e4e51f2d4":[6,0,1315,0,24],
 "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#ab65352275d06c7d5b7f1e15c0dffb4db":[6,0,1315,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX111 =
 "d3/dd1/DBCEnums_8h.html#a282f094fb8ee80177dd57d2086ddd35ba9b803bb6e5e2b495dea9495e48ceeae9":[7,0,0,0,1,4,0,2,14,5],
 "d3/dd1/DBCEnums_8h.html#a282f094fb8ee80177dd57d2086ddd35bac02bba0f3ad69a2fc8ccde1efade56a3":[7,0,0,0,1,4,0,2,14,0],
 "d3/dd1/DBCEnums_8h.html#a282f094fb8ee80177dd57d2086ddd35bade60c4178807ba9725dbc89de211259d":[7,0,0,0,1,4,0,2,14,1],
-"d3/dd1/DBCEnums_8h.html#a282f094fb8ee80177dd57d2086ddd35bae055875e7c3d41430e64e17fe9c89bf6":[7,0,0,0,1,4,0,2,14,3],
-"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9":[7,0,0,0,1,4,0,2,28],
-"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9a319c961bd0442d8a6cc838e6dad28175":[7,0,0,0,1,4,0,2,28,0],
-"d3/dd1/DBCEnums_8h.html#a28c252fd678ff644cdad7b1b835f24c9aa9a058d60db14ffc3f1cc5ef8339ff14":[7,0,0,0,1,4,0,2,28,3]
+"d3/dd1/DBCEnums_8h.html#a282f094fb8ee80177dd57d2086ddd35bae055875e7c3d41430e64e17fe9c89bf6":[7,0,0,0,1,4,0,2,14,3]
 };

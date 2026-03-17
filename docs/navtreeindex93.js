@@ -1,5 +1,8 @@
 var NAVTREEINDEX93 =
 {
+"d3/d0e/classitem__captured__frog.html":[6,0,1396],
+"d3/d0e/classitem__captured__frog.html#a1156467ca046a077ea494f92c488bf54":[6,0,1396,1],
+"d3/d0e/classitem__captured__frog.html#ad41b743c98c9534453eca8cf1f367366":[6,0,1396,0],
 "d3/d10/classspell__algalon__phase__punch__aura.html":[6,0,2629],
 "d3/d10/classspell__algalon__phase__punch__aura.html#a2724a85983561a14db8b06ae492ead55":[6,0,2629,0],
 "d3/d10/classspell__algalon__phase__punch__aura.html#a6d0f941f30d8c850e48396fffd13768d":[6,0,2629,1],
@@ -64,8 +67,8 @@ var NAVTREEINDEX93 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae5939466cf9b4fbb63eb136baf62767f":[5,0,11,3],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ae8c5d4dc123b8a900254bcbc82c1ffbe":[5,0,11,5],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#afe5cf638b3ba626c9dc18258d4c528fa":[5,0,11,1],
-"d3/d13/structADT_1_1MODF.html":[6,0,1,1],
 "d3/d13/structADT_1_1MODF.html":[5,0,3,1],
+"d3/d13/structADT_1_1MODF.html":[6,0,1,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[6,0,1,1,2],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,3,1,2],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,3,1,7],
@@ -76,14 +79,14 @@ var NAVTREEINDEX93 =
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[6,0,1,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[6,0,1,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,3,1,4],
-"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[6,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[5,0,3,1,8],
-"d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[5,0,3,1,5],
+"d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[6,0,1,1,8],
 "d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[6,0,1,1,5],
+"d3/d13/structADT_1_1MODF.html#a7e6463db89eaf53bc20832afb1842a5b":[5,0,3,1,5],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[5,0,3,1,3],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[6,0,1,1,3],
-"d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[5,0,3,1,1],
 "d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[6,0,1,1,1],
+"d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[5,0,3,1,1],
 "d3/d13/structOverrideSpellDataEntry.html":[6,0,2382],
 "d3/d13/structOverrideSpellDataEntry.html#a22e48015dd880199e131089e35b1ce05":[6,0,2382,0],
 "d3/d13/structOverrideSpellDataEntry.html#a956d683b42f34eae3a1ea3f8882716fd":[6,0,2382,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX93 =
 "d3/d18/boss__hadronox_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afe0395f07c1935e97da3c4438e4a9132":[7,0,0,0,1,3,5,0,1,2,11,14],
 "d3/d18/classObjectGuidGenerator.html":[6,0,2337],
 "d3/d18/classObjectGuidGenerator.html#a1d917989d9bf681546d0e3e9b20593e0":[6,0,2337,0],
-"d3/d18/classObjectGuidGenerator.html#a43dfe501c5ec222bbd1f8687a1a103b9":[6,0,2337,1],
-"d3/d18/classat__battleguard__sartura.html":[6,0,215],
-"d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[6,0,215,1],
-"d3/d18/classat__battleguard__sartura.html#a9247cdebeb57d2ddbfa75f60da125d36":[6,0,215,0]
+"d3/d18/classObjectGuidGenerator.html#a43dfe501c5ec222bbd1f8687a1a103b9":[6,0,2337,1]
 };

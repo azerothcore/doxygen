@@ -1,5 +1,8 @@
 var NAVTREEINDEX189 =
 {
+"d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,5,3,4,3],
+"d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298ca0773fc356b7bccb6470799100b531826":[7,0,0,0,1,3,7,5,3,4,3,8],
+"d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298ca12ae7d2e18841c2bf64e5d5143144527":[7,0,0,0,1,3,7,5,3,4,3,2],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298ca4541fa3ec0c66a9eeaf0a7c18a6caa20":[7,0,0,0,1,3,7,5,3,4,3,10],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad3eba43ad2f40e5e97fe16c2e5004b":[7,0,0,0,1,3,7,5,3,4,3,9],
 "d7/d02/boss__pathaleon__the__calculator_8cpp.html#a5bd342133be8c2137b831460acc9298ca504d01cfc63a8b604bcd1b8e4885a5df":[7,0,0,0,1,3,7,5,3,4,3,11],
@@ -81,16 +84,16 @@ var NAVTREEINDEX189 =
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html":[6,0,0,4,2],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[6,0,0,4,2,0],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#a99ef57f9c0bbab04953bd6edcf5b83f2":[5,0,1,7,2,0],
-"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
 "d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[5,0,1,7,2,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
+"d7/d07/structAcore_1_1Hyperlinks_1_1GlyphLinkData.html#acc79672f4bddb27eb980b6aac19f83ec":[6,0,0,4,2,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[6,0,0,96],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html":[5,0,1,108],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[5,0,1,108,3],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#aa92ab4dcd81b669f41f6ab1029b791df":[6,0,0,96,3],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[5,0,1,108,1],
-"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,108,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#ab9b3ad469216db3a7a49176b41b0b1ea":[6,0,0,96,1],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[6,0,0,96,2],
+"d7/d08/structAcore_1_1PlayerRelocationNotifier.html#acffc7490cb9b0cf171a1cfc6e1dbdc79":[5,0,1,108,2],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[5,0,1,108,0],
 "d7/d08/structAcore_1_1PlayerRelocationNotifier.html#afa316348fb6151cc992b0da7aab39ec3":[6,0,0,96,0],
 "d7/d09/boss__scourgelord__tyrannus_8cpp.html":[7,0,0,0,1,3,5,4,2,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d0e/classspell__spawn__blood__pool.html":[6,0,4112],
 "d7/d0e/classspell__spawn__blood__pool.html#a47d6dbe250410458fe54421158545efb":[6,0,4112,0],
 "d7/d0e/classspell__spawn__blood__pool.html#aa037240eae1a1dd2c2670fed7dcc4e8c":[6,0,4112,2],
-"d7/d0e/classspell__spawn__blood__pool.html#ae2334b3fcfa916eb4b9ae1ca85a9687e":[6,0,4112,1],
-"d7/d0e/structPassengerInfo.html":[6,0,2396],
-"d7/d0e/structPassengerInfo.html#a037411c58c414d0c5a39915b7acd578d":[6,0,2396,2],
-"d7/d0e/structPassengerInfo.html#a738a014abc8cb5df525642acc218576b":[6,0,2396,1]
+"d7/d0e/classspell__spawn__blood__pool.html#ae2334b3fcfa916eb4b9ae1ca85a9687e":[6,0,4112,1]
 };

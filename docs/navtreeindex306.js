@@ -1,5 +1,8 @@
 var NAVTREEINDEX306 =
 {
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c":[7,0,0,0,1,3,9,3,42,13],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3fe2049f68094a11efb86e4e93a040be":[7,0,0,0,1,3,9,3,42,28],
+"db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea43d93b93e0b2e38e803c2f4c3257df09":[7,0,0,0,1,3,9,3,42,32],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491":[7,0,0,0,1,3,9,3,42,26],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7":[7,0,0,0,1,3,9,3,42,19],
 "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54":[7,0,0,0,1,3,9,3,42,12],
@@ -38,16 +41,16 @@ var NAVTREEINDEX306 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1550,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1550,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1550,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,12,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,12,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
 "db/def/classspell__igb__teleport__players__on__victory.html":[6,0,3283],
 "db/def/classspell__igb__teleport__players__on__victory.html#a0d01b8292c1c071a5c828a5a88617bd5":[6,0,3283,3],
 "db/def/classspell__igb__teleport__players__on__victory.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa":[6,0,3283,0],
@@ -227,8 +230,8 @@ var NAVTREEINDEX306 =
 "db/df8/classAuraRemoveEvent.html#a14ac906a0fcff86f61983c570b0bd6ad":[6,0,294,1],
 "db/df8/classAuraRemoveEvent.html#a6fad41839e07e9545859be7c3afcfc36":[6,0,294,2],
 "db/df8/classAuraRemoveEvent.html#aad8c27befc102dae6823d5d74fed50b4":[6,0,294,3],
-"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[6,0,12,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[5,0,34,7,6],
+"db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html":[6,0,12,7,6],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[5,0,34,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a3cb1f62fba1849dfb59c9b8f46fe4c27":[6,0,12,7,6,2],
 "db/df8/classWorldPackets_1_1Instance_1_1SetDungeonDifficultyClient.html#a6f92ee86dc73b1a51a9c4683997e6c4f":[5,0,34,7,6,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX306 =
 "db/df9/classboss__grilek.html#acffe0061db18c5725c8c290822c5fed7":[6,0,522,1],
 "db/df9/classspell__warr__overpower.html":[6,0,4315],
 "db/df9/classspell__warr__overpower.html#a15d4ce9c947ca2f25e29f97119c4106e":[6,0,4315,2],
-"db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[6,0,4315,1],
-"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,4315,0],
-"db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,4315,3],
-"db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1]
+"db/df9/classspell__warr__overpower.html#a7645af1c876e1f6ad91ef92884d220ac":[6,0,4315,1]
 };

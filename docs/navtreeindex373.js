@@ -1,5 +1,8 @@
 var NAVTREEINDEX373 =
 {
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a59ccca7093575f4bcac57a4751d977d4":[6,0,1615,0,0],
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#a9778a1648ca0007f7daf4ee98308d8d2":[6,0,1615,0,2],
+"de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#ac238214604720e298124b58c35d58e05":[6,0,1615,0,4],
 "de/d41/structnpc__ancestral__wolf_1_1npc__ancestral__wolfAI.html#aec5788f0be3c1dcb63b3e61b50ae39c1":[6,0,1615,0,1],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html":[6,0,3526],
 "de/d42/classspell__kiljaeden__shadow__spike__aura.html#a7ac99d626990f068a00f403847bfa6bc":[6,0,3526,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX373 =
 "de/d52/structboss__malygos.html#a53c5686a8cf473d8ed1569890bdf70a5":[6,0,624,3],
 "de/d52/structboss__malygos.html#a597f5291a656746becdb058c538cff89":[6,0,624,6],
 "de/d52/structboss__malygos.html#a5cccd64acbf07ab2cbd5650feb2bb115":[6,0,624,21],
-"de/d52/structboss__malygos.html#a648e2f73ffead8912659bc342ec70774":[6,0,624,5],
-"de/d52/structboss__malygos.html#a743aba102bcad0f032113a32c34a131e":[6,0,624,8],
-"de/d52/structboss__malygos.html#a832a8890c9b8cefb7c1043de745c1e25":[6,0,624,17],
-"de/d52/structboss__malygos.html#a8809894ee687da3133030b4d4f080b35":[6,0,624,18]
+"de/d52/structboss__malygos.html#a648e2f73ffead8912659bc342ec70774":[6,0,624,5]
 };

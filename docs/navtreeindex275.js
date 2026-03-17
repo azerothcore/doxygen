@@ -1,5 +1,8 @@
 var NAVTREEINDEX275 =
 {
+"da/dbf/Player_8h.html#ac8ff30d921f58b07bf6b61afbcd880b9ae54edeab8c5afb0816bf330bc2909300":[7,0,0,0,1,2,16,7,5,111,1],
+"da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11":[7,0,0,0,1,2,16,7,5,101],
+"da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11a02132eaf2309a727da1c078ef639aeaa":[7,0,0,0,1,2,16,7,5,101,0],
 "da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11a58ebf9a15ed31d08d2db6cbc4b0f2433":[7,0,0,0,1,2,16,7,5,101,2],
 "da/dbf/Player_8h.html#acbb3cb41f64738b82263cc9200c01f11acb3de73ceab8349ae331fb86a0379e09":[7,0,0,0,1,2,16,7,5,101,1],
 "da/dbf/Player_8h.html#ace7965b06d468750afb8d5bd36ca6103":[7,0,0,0,1,2,16,7,5,107],
@@ -246,8 +249,5 @@ var NAVTREEINDEX275 =
 "da/dcc/classspell__item__mind__control__cap.html":[6,0,3412],
 "da/dcc/classspell__item__mind__control__cap.html#a787b5b1c0d0687bad944452c678f33b9":[6,0,3412,0],
 "da/dcc/classspell__item__mind__control__cap.html#a79dcac5234ca195488e647a280806e69":[6,0,3412,2],
-"da/dcc/classspell__item__mind__control__cap.html#a8d7e2821f74443292c43c40bbfb9ed92":[6,0,3412,1],
-"da/dcc/classspell__item__mind__control__cap.html#ae9cbe89924c2578bb1ed21a55a48cf6b":[6,0,3412,3],
-"da/dcc/structGameTeleVisitor.html":[6,0,1113],
-"da/dcc/structGameTeleVisitor.html#a8ee9220d4226b4dd028f3f9c438f34ba":[6,0,1113,2]
+"da/dcc/classspell__item__mind__control__cap.html#a8d7e2821f74443292c43c40bbfb9ed92":[6,0,3412,1]
 };

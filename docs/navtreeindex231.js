@@ -1,5 +1,8 @@
 var NAVTREEINDEX231 =
 {
+"d8/dd4/classspell__grobbulus__slime__spray.html":[6,0,3150],
+"d8/dd4/classspell__grobbulus__slime__spray.html#a87b57541a36d711ecbca6f485915c9ab":[6,0,3150,1],
+"d8/dd4/classspell__grobbulus__slime__spray.html#aa6302d9372bf6ea514d49d8c8e280781":[6,0,3150,0],
 "d8/dd4/classspell__grobbulus__slime__spray.html#ad7290a8d786f64fdf7b5b04a7770ff6d":[6,0,3150,2],
 "d8/dd4/classspell__pal__sacred__shield.html":[6,0,3744],
 "d8/dd4/classspell__pal__sacred__shield.html#a018d2a8a106a621730fcaa1d500df7b1":[6,0,3744,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX231 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a8524632b1d6a0ac718fd4ea7dc149866":[7,0,0,0,1,3,5,24,23,23],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a98838add0f26951d1bf15024a64679bc":[7,0,0,0,1,3,5,24,23,21],
 "d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47aa5e17e8888d598d76200baca680e9831":[7,0,0,0,1,3,5,24,23,14],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47aafb0bd405c6e3aa2c4713eded64064c1":[7,0,0,0,1,3,5,24,23,11],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47ab04c9a45c25e26f2ca081cd3849b08e1":[7,0,0,0,1,3,5,24,23,6],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47ab51ed0e086901b52386f4e59bf4e3e18":[7,0,0,0,1,3,5,24,23,20],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47ab52fb62cea3f301664a01679463cd239":[7,0,0,0,1,3,5,24,23,25]
+"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47aafb0bd405c6e3aa2c4713eded64064c1":[7,0,0,0,1,3,5,24,23,11]
 };

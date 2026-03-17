@@ -1,5 +1,8 @@
 var NAVTREEINDEX246 =
 {
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165adb3c4c4961002363d163bc8a85a9e168":[7,0,0,0,1,3,5,9,2,1,12,12],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165ae8554ff58df27407bd6b43ac8cc26125":[7,0,0,0,1,3,5,9,2,1,12,14],
+"d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165af1e0ff65b4785baf5b678810bd69a2e7":[7,0,0,0,1,3,5,9,2,1,12,13],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165af795a10e6473f818cd879a2b04c1be0a":[7,0,0,0,1,3,5,9,2,1,12,1],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165afc08b54924472faa1ccc8d57dee7cc0a":[7,0,0,0,1,3,5,9,2,1,12,10],
 "d9/d88/boss__assembly__of__iron_8cpp.html#a0ec08fe05ebfdddfa34c747c9c62a165afe7f2eb3573c34df20b69de24ea2c9fc":[7,0,0,0,1,3,5,9,2,1,12,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d93/structSpellRangeEntry.html":[6,0,4428],
 "d9/d93/structSpellRangeEntry.html#a127a46f2382edea750ca567d5ea3d304":[6,0,4428,3],
 "d9/d93/structSpellRangeEntry.html#a12b3cb0e28ed0f47ff5ccea09fc8b860":[6,0,4428,0],
-"d9/d93/structSpellRangeEntry.html#a9691134e5cb1e15e3c93ea05a653975d":[6,0,4428,2],
-"d9/d93/structSpellRangeEntry.html#ab6ccf4a64672a6ade01f59cdeeeb85cb":[6,0,4428,1],
-"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html":[6,0,1350,0],
-"d9/d93/structinstance__ruby__sanctum_1_1instance__ruby__sanctum__InstanceMapScript.html#a0b824e7cf269619220329aecba08e448":[6,0,1350,0,12]
+"d9/d93/structSpellRangeEntry.html#a9691134e5cb1e15e3c93ea05a653975d":[6,0,4428,2]
 };

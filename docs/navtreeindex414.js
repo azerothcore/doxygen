@@ -1,5 +1,8 @@
 var NAVTREEINDEX414 =
 {
+"df/dda/structnpc__ulduar__vx001.html#abf40f67c5768094f50b51a74e4501694":[6,0,2265,14],
+"df/dda/structnpc__ulduar__vx001.html#ad1d0ec1e6a3905f3ede091383ce02116":[6,0,2265,2],
+"df/dda/structnpc__ulduar__vx001.html#ae988d7c48b11e72b5d8e02966fd432ed":[6,0,2265,3],
 "df/ddb/classnpc__unworthy__initiate.html":[6,0,2269],
 "df/ddb/classnpc__unworthy__initiate.html#a0912cc56cb2082b2de086cbd9b914b4a":[6,0,2269,2],
 "df/ddb/classnpc__unworthy__initiate.html#aaa04626b783eadc0b14bd89aa715e694":[6,0,2269,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX414 =
 "df/de7/classOutdoorPvPTF.html#a993b5e28423be75745c13d3514defe15":[6,0,2379,13],
 "df/de7/classOutdoorPvPTF.html#aa99c8348cd06f182cdeabbde02ae1e76":[6,0,2379,22],
 "df/de7/classOutdoorPvPTF.html#abc72dff4380cfef895c0cd535e69d5c3":[6,0,2379,14],
-"df/de7/classOutdoorPvPTF.html#ac8833f965d6138db3c3f3dc53754a1e9":[6,0,2379,16],
-"df/de7/classOutdoorPvPTF.html#aea70b0297157e9cab3faf182e339ee3f":[6,0,2379,15],
-"df/de7/classOutdoorPvPTF.html#aeafe05bb2ef984a411436f3971239ae4":[6,0,2379,9],
-"df/de7/classOutdoorPvPTF.html#aff6c829b47c073150e5f5bf5d58477da":[6,0,2379,11]
+"df/de7/classOutdoorPvPTF.html#ac8833f965d6138db3c3f3dc53754a1e9":[6,0,2379,16]
 };

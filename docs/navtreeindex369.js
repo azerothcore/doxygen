@@ -1,5 +1,8 @@
 var NAVTREEINDEX369 =
 {
+"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1aa3f07d4a701c45a3eb3b0618dbbf4988":[7,0,0,0,1,2,18,3,91,19],
+"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1ab671fec2ae711f8a71847b9ff223f753":[7,0,0,0,1,2,18,3,91,22],
+"de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1ab91cf8605c2ff15416499a62599f929c":[7,0,0,0,1,2,18,3,91,16],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1abf6b0143074365cfcfe390d4ee04e65d":[7,0,0,0,1,2,18,3,91,24],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1ac60e397bde6e50bbf131a9a643aa4cf6":[7,0,0,0,1,2,18,3,91,25],
 "de/d25/ObjectMgr_8h.html#a3b5dc6beed23a198fcf9b4b0c2da57e1ac79f317cb60b763b07a031407cb58e3b":[7,0,0,0,1,2,18,3,91,14],
@@ -246,8 +249,5 @@ var NAVTREEINDEX369 =
 "de/d2f/structFactionTemplateEntry.html#af0d102e7e7ae480b2c61cf121bcd012a":[6,0,1051,0],
 "de/d2f/structFactionTemplateEntry.html#af20e4983d34c419b4a14c60d8049d9f4":[6,0,1051,10],
 "de/d30/SpellMgr_8h.html":[7,0,0,0,1,2,41,9],
-"de/d30/SpellMgr_8h.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,9,78],
-"de/d30/SpellMgr_8h.html#a0dc33f42e2cfb5fe14119c11ad2040c7":[7,0,0,0,1,2,41,9,15],
-"de/d30/SpellMgr_8h.html#a18102741b602d3b4473f75d4f619a09b":[7,0,0,0,1,2,41,9,77],
-"de/d30/SpellMgr_8h.html#a183ff5e89f6053b74daa4e3c73b28684":[7,0,0,0,1,2,41,9,39]
+"de/d30/SpellMgr_8h.html#a09c4e23bd85fab812b67beafbbf1b7b3":[7,0,0,0,1,2,41,9,78]
 };

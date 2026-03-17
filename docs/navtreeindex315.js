@@ -1,5 +1,8 @@
 var NAVTREEINDEX315 =
 {
+"dc/d35/classadt__MHDR.html#a04fe5874241fd7b868f1d3f5caf7d257":[6,0,142,11],
+"dc/d35/classadt__MHDR.html#a0e5716fc4586c41f07103baa84c67388":[6,0,142,19],
+"dc/d35/classadt__MHDR.html#a1996770c42791100aa0cbef91c78fcd2":[6,0,142,5],
 "dc/d35/classadt__MHDR.html#a23b9fac4ccbdcae862135fa3cbe3061d":[6,0,142,22],
 "dc/d35/classadt__MHDR.html#a28a247f0addfd93d3eeed190516e515a":[6,0,142,1],
 "dc/d35/classadt__MHDR.html#a4936a7d0e5ad64f4f75f6550418f80e6":[6,0,142,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#a8cd5bf5302b1a7221c69dd9fdc9518dc":[6,0,1319,0,5],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afa12491c1b276d0d643822da562320c3":[6,0,1319,0,0],
 "dc/d42/structinstance__deadmines_1_1instance__deadmines__InstanceMapScript.html#afff7e04cc632e2d4ddb438d03e561560":[6,0,1319,0,3],
-"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,4],
-"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,715],
-"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,715,2],
-"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,715,1]
+"dc/d43/ArenaScore_8h.html":[7,0,0,0,1,2,8,4]
 };

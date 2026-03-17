@@ -1,5 +1,8 @@
 var NAVTREEINDEX332 =
 {
+"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a6e066884663276dbba82e46ca5f66e59":[6,0,3957,3],
+"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a8c4f5c9f3db8710aafd687a7bf304572":[6,0,3957,1],
+"dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#a9f5f3767f52f9755de6592f00f62a3d4":[6,0,3957,5],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#ab5fc5ad25ab1d7451f0b8801894ae400":[6,0,3957,2],
 "dd/d1e/classspell__reliquary__of__souls__aura__of__desire__aura.html#ac4154f0746e77229e8d349021d5b9c30":[6,0,3957,4],
 "dd/d1f/boss__marwyn_8cpp.html":[7,0,0,0,1,3,5,4,1,1],
@@ -106,8 +109,8 @@ var NAVTREEINDEX332 =
 "dd/d26/VehicleScript_8h.html":[7,0,0,0,1,2,38,0,89],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[6,0,12,10,11],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html":[5,0,34,10,11],
-"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,12,10,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[5,0,34,10,11,2],
+"dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a21460b09eddfbee6ba022f88b5f37cc7":[6,0,12,10,11,2],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[5,0,34,10,11,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#a34fd2c1d018bb292836724671163ff07":[6,0,12,10,11,4],
 "dd/d26/classWorldPackets_1_1Misc_1_1RandomRoll.html#aab5879874745603dd448a7f5084d60d4":[6,0,12,10,11,1],
@@ -163,10 +166,10 @@ var NAVTREEINDEX332 =
 "dd/d27/Timer_8h.html#af415b3b5ef693e8bd9a8b7f5088ab704":[7,0,0,0,0,15,35,22],
 "dd/d27/Timer_8h.html#af9e00ccf9512f0bcdd1289d7e876e9e6":[7,0,0,0,0,15,35,33],
 "dd/d27/Timer_8h.html#afe6fb6cf9a0829f40c9ba45356eec815":[7,0,0,0,0,15,35,21],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html":[6,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html":[5,0,1,0,3],
-"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[6,0,0,0,2,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html":[6,0,0,0,2],
 "dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,1,0,3,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[6,0,0,0,2,0],
 "dd/d27/classOPvPCapturePointTF.html":[6,0,2356],
 "dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[6,0,2356,7],
 "dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[6,0,2356,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX332 =
 "dd/d27/structSmartAction.html#a3199056e9ae23e911e75bcda5cf4e257":[6,0,2596,226],
 "dd/d27/structSmartAction.html#a3209e6b129184b76674308fe8e25f863":[6,0,2596,165],
 "dd/d27/structSmartAction.html#a3309a73728b4a8645bfe9c67116b4314":[6,0,2596,135],
-"dd/d27/structSmartAction.html#a354420593a56fefd66f57cb23a4b1dea":[6,0,2596,141],
-"dd/d27/structSmartAction.html#a36085bc5376c1f93e562c1f485305363":[6,0,2596,230],
-"dd/d27/structSmartAction.html#a36e36e555e14454f7594bf5a3943032e":[6,0,2596,286],
-"dd/d27/structSmartAction.html#a392f18bdae8a530c86c176d4e405333d":[6,0,2596,168]
+"dd/d27/structSmartAction.html#a354420593a56fefd66f57cb23a4b1dea":[6,0,2596,141]
 };

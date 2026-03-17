@@ -1,5 +1,8 @@
 var NAVTREEINDEX385 =
 {
+"de/db0/classspell__warl__siphon__life.html#ab953f817368120933828d6b3e5e200c0":[6,0,4287,1],
+"de/db0/classspell__warl__siphon__life.html#abfdd5179215432a3e89ea7b498d49867":[6,0,4287,3],
+"de/db0/classspell__warl__siphon__life.html#afcda3b112699e108e2db6270836fce1b":[6,0,4287,0],
 "de/db1/WhoListCacheMgr_8cpp.html":[7,0,0,0,1,2,9,2],
 "de/db1/classRaceMgr.html":[6,0,2505],
 "de/db1/classRaceMgr.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a":[6,0,2505,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a73e1c3688a853b70527e862efe05bc11":[6,0,411,0,13],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a77d1dc632828691fa07a543544bd266c":[6,0,411,0,3],
 "de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#a8a9b3f248f3d889b1804c387396d3054":[6,0,411,0,1],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ac25e3299bc9787d5bbad22263ebab235":[6,0,411,0,11],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#acde711225a78e54d4bc1e0fde41e951d":[6,0,411,0,12],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ae67498247b9d631c4ca6af0acb1c76af":[6,0,411,0,7],
-"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#af8600ff24856d079df7e9c59f49850b2":[6,0,411,0,9]
+"de/dc0/structboss__black__knight_1_1boss__black__knightAI.html#ac25e3299bc9787d5bbad22263ebab235":[6,0,411,0,11]
 };

@@ -75,7 +75,7 @@ var searchData=
   ['unitfieldfactiontemplatepos_72',['UnitFieldFactionTemplatePos',['../d7/ddc/structBuildValuesCachePosPointers.html#a9b8eae9da685231956dca3e92b845cbb',1,'BuildValuesCachePosPointers']]],
   ['unitfieldflagspos_73',['UnitFieldFlagsPos',['../d7/ddc/structBuildValuesCachePosPointers.html#a04e607123d1d1dde24611b573d25fedb',1,'BuildValuesCachePosPointers']]],
   ['unitflag_74',['unitFlag',['../dd/d27/structSmartAction.html#acb0d94f4c525efba979f578a08257dd4',1,'SmartAction']]],
-  ['unitguid_75',['unitguid',['../d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68',1,'WorldPackets::Pet::PetActionSound::UnitGUID'],['../df/d8d/structSmartTarget.html#abb9a95fc4f54bda287fe402b985d0a21',1,'SmartTarget::unitGUID']]],
+  ['unitguid_75',['unitguid',['../df/d8d/structSmartTarget.html#abb9a95fc4f54bda287fe402b985d0a21',1,'SmartTarget::unitGUID'],['../d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68',1,'WorldPackets::Pet::PetActionSound::UnitGUID']]],
   ['unitlist_76',['unitList',['../d2/d53/structnpc__hallows__end__soh.html#aaf7522e9948401e2e747f43e80e9b38f',1,'npc_hallows_end_soh']]],
   ['unitnpcflagspos_77',['UnitNPCFlagsPos',['../d7/ddc/structBuildValuesCachePosPointers.html#aa9412413e1a867d1f3857d18f4d52906',1,'BuildValuesCachePosPointers']]],
   ['unitrange_78',['unitRange',['../df/d8d/structSmartTarget.html#a2412b827a2616f709dbb5354e8d2d67f',1,'SmartTarget']]],

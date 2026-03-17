@@ -1,5 +1,8 @@
 var NAVTREEINDEX398 =
 {
+"df/d55/classlfg_1_1LFGPlayerScript.html#a3b4e8775787feb8266edc52fddc7ab3a":[5,0,18,9,3],
+"df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c":[6,0,5,9,5],
+"df/d55/classlfg_1_1LFGPlayerScript.html#ab3022d19b8d32bf0f269b2e991150a1c":[5,0,18,9,5],
 "df/d55/classlfg_1_1LFGPlayerScript.html#ad27ca48d9e573ad0ba155a3f7eb1ae88":[6,0,5,9,0],
 "df/d55/classlfg_1_1LFGPlayerScript.html#ad27ca48d9e573ad0ba155a3f7eb1ae88":[5,0,18,9,0],
 "df/d55/classlfg_1_1LFGPlayerScript.html#aeb3fd4e39ed8ba345cf3c76a232f241d":[5,0,18,9,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX398 =
 "df/d5e/structAuctionHouseSearchInfo.html#ad81a5f3c2c58e620673539b6271ff8e9":[6,0,272,9],
 "df/d62/classspell__gen__vampiric__might.html":[6,0,3130],
 "df/d62/classspell__gen__vampiric__might.html#a36160ed669487cd87be364c2e37c0b0e":[6,0,3130,2],
-"df/d62/classspell__gen__vampiric__might.html#a8713f0e7fae54fc4f5ead19351bec0d8":[6,0,3130,0],
-"df/d62/classspell__gen__vampiric__might.html#ac2a7ac008dca96bb8dc272118d184f3d":[6,0,3130,1],
-"df/d62/classspell__gen__vampiric__might.html#acc97118979bfbcbb1d9fbd88e12c9650":[6,0,3130,3],
-"df/d64/classProcChainGuardSimulator.html":[6,0,2466]
+"df/d62/classspell__gen__vampiric__might.html#a8713f0e7fae54fc4f5ead19351bec0d8":[6,0,3130,0]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX148 =
 {
+"d5/d44/structboss__warlord__kalithresh.html#afcf2288fbea2d5010c41344ce0247559":[6,0,790,0],
+"d5/d44/structnpc__ouro__spawner.html":[6,0,2026],
+"d5/d44/structnpc__ouro__spawner.html#a6ac376861c1206cc1551d9fa86c0fc97":[6,0,2026,4],
 "d5/d44/structnpc__ouro__spawner.html#a722dada5bf97c730462a0de2b082d5ff":[6,0,2026,1],
 "d5/d44/structnpc__ouro__spawner.html#a83c0972db4435ccf1af069574e4056f4":[6,0,2026,2],
 "d5/d44/structnpc__ouro__spawner.html#ac1591f1c172bfdda25b020e00cd0835e":[6,0,2026,3],
@@ -22,8 +25,8 @@ var NAVTREEINDEX148 =
 "d5/d46/classspell__hallows__end__bucket__lands.html#af1d1ad32d41d79008d650b388353346b":[6,0,3180,2],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[6,0,0,5,0,13],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html":[5,0,1,8,0,13],
-"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[6,0,0,5,0,13,0],
+"d5/d46/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01std_1_1wstring_00_01void_01_4.html#a8f2b6448f80a4fac69d0157c9f556dc4":[5,0,1,8,0,13,0],
 "d5/d47/classnpc__frozen__orb.html":[6,0,1820],
 "d5/d47/classnpc__frozen__orb.html#a2f9e1a2cb14ee9e5f24e02aa97697116":[6,0,1820,2],
 "d5/d47/classnpc__frozen__orb.html#ac14966722e39b2b6b3a907756701ed98":[6,0,1820,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX148 =
 "d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a7308f9eb202cbc0502045a3fc3cad082":[7,0,0,0,1,3,5,7,7,9,0],
 "d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a844de7ae64876d1f9b3b4df6afe6794a":[7,0,0,0,1,3,5,7,7,9,8],
 "d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,7,7,9,3],
-"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aad9f389d170b33e74a9c6c1caf8768d0":[7,0,0,0,1,3,5,7,7,9,1],
-"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3ae13a241b8d32f229858f8949a2ae143b":[7,0,0,0,1,3,5,7,7,9,9],
-"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3af8aadb3c154ba56fdc14368ba26008c0":[7,0,0,0,1,3,5,7,7,9,7],
-"d5/d50/boss__kelthuzad_8cpp.html#a508bf5731dbff3767dbae97c2fecb87e":[7,0,0,0,1,3,5,7,7,10]
+"d5/d50/boss__kelthuzad_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3aad9f389d170b33e74a9c6c1caf8768d0":[7,0,0,0,1,3,5,7,7,9,1]
 };

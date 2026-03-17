@@ -1,5 +1,8 @@
 var NAVTREEINDEX407 =
 {
+"df/dbb/classspell__gen__netherbloom.html#a2e323378559d8f11cbdbcb76e86a25ca":[6,0,3072,0],
+"df/dbb/classspell__gen__netherbloom.html#a81222d8ac4f55175d1dc4d7c359cc331":[6,0,3072,3],
+"df/dbb/classspell__gen__netherbloom.html#aa8ea297d751913def150dc1e29d37664":[6,0,3072,2],
 "df/dbb/classspell__gen__netherbloom.html#ad511986b26dccd1be8206f01458c2b40":[6,0,3072,1],
 "df/dbb/structItemDisplayInfoEntry.html":[6,0,1405],
 "df/dbb/structItemDisplayInfoEntry.html#a26b43ee179bd546c6e956dd797fc0842":[6,0,1405,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX407 =
 "df/dc8/structnpc__onyxian__lair__guard.html#ac8649636d5847813e49d2ada05f78645":[6,0,2023,2],
 "df/dc8/structnpc__onyxian__lair__guard.html#ae72d86cddafd8829fc9edd479a01ab1d":[6,0,2023,0],
 "df/dc9/classCreatureScript.html":[6,0,949],
-"df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[6,0,949,11],
-"df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[6,0,949,1],
-"df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[6,0,949,6],
-"df/dc9/classCreatureScript.html#a316efb5c026588eb4bce8a0ce6b5cc0f":[6,0,949,4]
+"df/dc9/classCreatureScript.html#a1e054fb61dd560aa7718d59127ad4b51":[6,0,949,11]
 };

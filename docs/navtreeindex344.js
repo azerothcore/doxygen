@@ -1,5 +1,8 @@
 var NAVTREEINDEX344 =
 {
+"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a303c804c8024707cf7c469f9e78ffe74":[7,0,0,0,1,3,5,9,1,2,8,2],
+"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a48344109dfc08d80881beb23171b7848":[7,0,0,0,1,3,5,9,1,2,8,3],
+"dd/dab/boss__sjonnir_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af83dd47acf8dc215e5f24fb97ce85631":[7,0,0,0,1,3,5,9,1,2,8,1],
 "dd/dac/classspell__black__knight__ghoul__explode.html":[6,0,2675],
 "dd/dac/classspell__black__knight__ghoul__explode.html#a11b9bb078e5c38b8db8b3e3fcd5114d8":[6,0,2675,0],
 "dd/dac/classspell__black__knight__ghoul__explode.html#a75a2441ca6b4fb7928c4d14f44c08ba3":[6,0,2675,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX344 =
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a4b10ec0fcb3ffd841cf790574875017d":[6,0,17,0,0],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a602fc1ddafe663e2e5ddceaeaec8b118":[6,0,17,0,2],
 "dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#a7fff405a99c65d3e846463ca29a8ddfd":[6,0,17,0,1],
-"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[6,0,17,0,3],
-"dd/db1/classachievement__assembly__of__iron.html":[6,0,34],
-"dd/db1/classachievement__assembly__of__iron.html#a20e8938ff30b18737fb96cf0277b5680":[6,0,34,2],
-"dd/db1/classachievement__assembly__of__iron.html#ae66b3e708b38bfe685f9d28c14c2d3f5":[6,0,34,1]
+"dd/db1/class__SpellScript_1_1EffectAuraNameCheck.html#abcf90ed5a832b5fe5ce3913a812da05d":[6,0,17,0,3]
 };

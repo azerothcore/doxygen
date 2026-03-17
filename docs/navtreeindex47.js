@@ -1,5 +1,6 @@
 var NAVTREEINDEX47 =
 {
+"d1/dd5/classRandomMovementGenerator.html#aa09f453a7853bdf6bb143414aa86e274":[6,0,2508,2],
 "d1/dd5/classRandomMovementGenerator.html#aae1ad7a92bb3471d4651588baba81b0a":[6,0,2508,11],
 "d1/dd5/classRandomMovementGenerator.html#ac7ebbd23fd3dd18ebca3a0698ca65cb8":[6,0,2508,16],
 "d1/dd5/classRandomMovementGenerator.html#ad5880ec25953f9f6495b503d92621021":[6,0,2508,24],
@@ -245,9 +246,8 @@ var NAVTREEINDEX47 =
 "d1/de0/classLootStore.html#ad800486cf5afb5842073b8ca1a43aad8":[6,0,1476,10],
 "d1/de0/classLootStore.html#af0fe6608310a123d70cc8221e65e4556":[6,0,1476,17],
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[6,0,1476,19],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,34,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[6,0,12,6,26],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,34,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,12,6,26,0]
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2]
 };

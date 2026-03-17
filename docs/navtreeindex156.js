@@ -1,5 +1,8 @@
 var NAVTREEINDEX156 =
 {
+"d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html#a081333b967abb3812b9ddae2f933a324":[6,0,1721,0,5],
+"d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html#a2183cf5ab22b737413b86a657fde6d3c":[6,0,1721,0,3],
+"d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html#a3c5125e0a10043f6181c10ba749fa579":[6,0,1721,0,0],
 "d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html#a758eb158eb9d232d74514281028efcb3":[6,0,1721,0,1],
 "d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html#a7cfddba62f737214b8cfc7fbffa8c2e2":[6,0,1721,0,4],
 "d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html#acf83e469d3d8108276227a942fda28b3":[6,0,1721,0,2],
@@ -21,8 +24,8 @@ var NAVTREEINDEX156 =
 "d5/db0/classVMAP_1_1WorldModel.html":[5,0,31,27],
 "d5/db0/classVMAP_1_1WorldModel.html#a101692f46ae752cbde7b264b02e23168":[6,0,10,27,10],
 "d5/db0/classVMAP_1_1WorldModel.html#a101692f46ae752cbde7b264b02e23168":[5,0,31,27,10],
-"d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[5,0,31,27,0],
 "d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[6,0,10,27,0],
+"d5/db0/classVMAP_1_1WorldModel.html#a42116d73362e248de40a88f49d95a0f4":[5,0,31,27,0],
 "d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[6,0,10,27,11],
 "d5/db0/classVMAP_1_1WorldModel.html#a5a8745b313b1417e9dbb1d571fb173dd":[5,0,31,27,11],
 "d5/db0/classVMAP_1_1WorldModel.html#a5d6daa757304ceb69e578a6b9ae519d4":[6,0,10,27,6],
@@ -31,8 +34,8 @@ var NAVTREEINDEX156 =
 "d5/db0/classVMAP_1_1WorldModel.html#a63c3d4e85d0924d6c46d8b6c6f70a593":[6,0,10,27,3],
 "d5/db0/classVMAP_1_1WorldModel.html#a8e33038d14961c4f28b36d2bd2237df6":[6,0,10,27,4],
 "d5/db0/classVMAP_1_1WorldModel.html#a8e33038d14961c4f28b36d2bd2237df6":[5,0,31,27,4],
-"d5/db0/classVMAP_1_1WorldModel.html#a9dd4a14ce5af9f108714ec263a3507f7":[6,0,10,27,2],
 "d5/db0/classVMAP_1_1WorldModel.html#a9dd4a14ce5af9f108714ec263a3507f7":[5,0,31,27,2],
+"d5/db0/classVMAP_1_1WorldModel.html#a9dd4a14ce5af9f108714ec263a3507f7":[6,0,10,27,2],
 "d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[6,0,10,27,5],
 "d5/db0/classVMAP_1_1WorldModel.html#aadf13de73aee68848ea6082418e625b0":[5,0,31,27,5],
 "d5/db0/classVMAP_1_1WorldModel.html#ae449aaa575e98eac6838b0f18660697a":[5,0,31,27,7],
@@ -43,10 +46,10 @@ var NAVTREEINDEX156 =
 "d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[5,0,31,27,1],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,31,27,8],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[6,0,10,27,8],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html":[5,0,31,3],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[6,0,10,3],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,10,3,0],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html":[5,0,31,3],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[5,0,31,3,0],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,10,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,31,3,1],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[6,0,10,3,1],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html":[6,0,1984],
@@ -246,8 +249,5 @@ var NAVTREEINDEX156 =
 "d5/db3/structnpc__amanishi__tempest.html#aadda903d17a5f4560ce2db896bd7b257":[6,0,1611,3],
 "d5/db3/structnpc__amanishi__tempest.html#ab88e1d1ad979192f0519045d8ed2e14f":[6,0,1611,10],
 "d5/db3/structnpc__amanishi__tempest.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d":[6,0,1611,9],
-"d5/db3/structnpc__amanishi__tempest.html#af277f5d1f73cf79ea8cfcb1e4fc744e3":[6,0,1611,4],
-"d5/db4/classspell__crashing__wave.html":[6,0,2760],
-"d5/db4/classspell__crashing__wave.html#a1b3458fc865d320050fae1ffeb4c7b5d":[6,0,2760,1],
-"d5/db4/classspell__crashing__wave.html#a58d28dea272b1237cf60efb45d67765d":[6,0,2760,2]
+"d5/db3/structnpc__amanishi__tempest.html#af277f5d1f73cf79ea8cfcb1e4fc744e3":[6,0,1611,4]
 };

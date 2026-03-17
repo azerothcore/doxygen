@@ -19,7 +19,7 @@ var searchData=
   ['kickdontaccepttimer_16',['KickDontAcceptTimer',['../d6/d26/classBattlefield.html#ac4bddec2dcdd3e7be1e70bd23906f7f7',1,'Battlefield']]],
   ['kickpos_17',['KickPos',['../da/d47/boss__cthun_8cpp.html#aed31bd88fed65a845df7d4c20e4017de',1,'boss_cthun.cpp']]],
   ['kickposition_18',['KickPosition',['../d6/d26/classBattlefield.html#ad691e1287c8c36d8631a428c71abaf41',1,'Battlefield']]],
-  ['kill_19',['kill',['../d2/d8f/structScriptInfo.html#ab5defb40c0db36084146e909c51956ff',1,'ScriptInfo::Kill'],['../d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725',1,'SmartEvent::kill']]],
+  ['kill_19',['kill',['../d4/d02/structSmartEvent.html#a881d681a601eb7d5808bc8f9952d0725',1,'SmartEvent::kill'],['../d2/d8f/structScriptInfo.html#ab5defb40c0db36084146e909c51956ff',1,'ScriptInfo::Kill']]],
   ['kill_5fcreature_20',['kill_creature',['../d4/dd9/structAchievementCriteriaEntry.html#a29f25a27f75e26218c5f492da2dc4948',1,'AchievementCriteriaEntry']]],
   ['killcount_21',['killcount',['../d4/dd9/structAchievementCriteriaEntry.html#adc7dd192a39e1f2b9b0b2fbec1dfe877',1,'AchievementCriteriaEntry::killCount'],['../d4/d85/structboss__mandokir_1_1boss__mandokirAI.html#a280e27385988e0f5cc65c60511bd4100',1,'boss_mandokir::boss_mandokirAI::killCount']]],
   ['killcredit_22',['killcredit',['../d1/d61/structCreatureTemplate.html#a8f1f7c9c67532ec302ebeb41b340e287',1,'CreatureTemplate::KillCredit'],['../d2/d8f/structScriptInfo.html#a978ce757c179a2f009f6e13774ab8afe',1,'ScriptInfo::KillCredit']]],

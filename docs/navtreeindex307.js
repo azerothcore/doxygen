@@ -1,5 +1,8 @@
 var NAVTREEINDEX307 =
 {
+"db/df9/classspell__warr__overpower.html#a83b2bd3a3f9a9027766f15f23cae95f0":[6,0,4315,0],
+"db/df9/classspell__warr__overpower.html#ab6d78ecb650f13df3376baced8c40a63":[6,0,4315,3],
+"db/dfa/CharacterDatabaseCleaner_8h.html":[7,0,0,0,1,2,45,1],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a02688f57778d28a7bcc4ca6cee2074ad":[7,0,0,0,1,2,45,1,10],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a0f72cf24646d1ece0eb793890840992d":[7,0,0,0,1,2,45,1,9],
 "db/dfa/CharacterDatabaseCleaner_8h.html#a344f61fb209b507b775a0bbfb1315fac":[7,0,0,0,1,2,45,1,7],
@@ -240,14 +243,11 @@ var NAVTREEINDEX307 =
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html":[5,0,34,12,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[6,0,12,12,1,1],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a58ebb244de4bd65a85f75dcc24250883":[5,0,34,12,1,1],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[6,0,12,12,1,2],
-"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#a7175c081b7cb691ceb4729c1abc5028e":[5,0,34,12,1,2],
 "db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[6,0,12,12,1,0],
+"db/dfd/classWorldPackets_1_1Pet_1_1PetAbandon.html#aeac05969ce6bdb41a02f7ffe56126dfd":[5,0,34,12,1,0],
 "db/dfd/classboss__anubarak__trial.html":[6,0,391],
 "db/dfd/classboss__anubarak__trial.html#a5204e33a412608b53cc155a043356d58":[6,0,391,1],
-"db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[6,0,391,2],
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html":[6,0,1336,0],
-"db/dfd/structinstance__mana__tombs_1_1instance__mana__tombs__InstanceMapScript.html#a1523ad04993ce4ddf5b503355f7c856a":[6,0,1336,0,0],
-"db/dfe/ALEScript_8h.html":[7,0,0,0,1,2,38,0,7]
+"db/dfd/classboss__anubarak__trial.html#a9b8fe9ed3370434612cbd46e7649213d":[6,0,391,2]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX351 =
 {
+"dd/ded/classspell__item__goblin__weather__machine__aura.html":[6,0,3383],
+"dd/ded/classspell__item__goblin__weather__machine__aura.html#a0bc1dae33d0a780623f4551b1dfb1fbf":[6,0,3383,2],
+"dd/ded/classspell__item__goblin__weather__machine__aura.html#a9b3985c6f2b1b88ab86ec38c8508fc16":[6,0,3383,1],
 "dd/ded/classspell__item__goblin__weather__machine__aura.html#adcdc87bcfb9aee5eaa227ba66ad5f010":[6,0,3383,0],
 "dd/ded/structboss__twin__valkyrAI.html":[6,0,765],
 "dd/ded/structboss__twin__valkyrAI.html#a08867e9274660a8913034bf3d80e559f":[6,0,765,13],
@@ -26,8 +29,8 @@ var NAVTREEINDEX351 =
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a5d105cca08515b9550998f2c86b13a1a":[5,0,34,12,4,0],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[6,0,12,12,4,2],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6ab11b614f13d518a2a007adfbe00ab7":[5,0,34,12,4,2],
-"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,34,12,4,1],
 "dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[6,0,12,12,4,1],
+"dd/dee/classWorldPackets_1_1Pet_1_1PetLearnedSpell.html#a6fd7d4bc907b0bb78c438e6a9159dc69":[5,0,34,12,4,1],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html":[6,0,3296],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a08be3cb2bef2f4697b7e258b231bd35b":[6,0,3296,3],
 "dd/dee/classspell__illidan__parasitic__shadowfiend__aura.html#a0d8d042e6e9bf8fd26b6f283f6da6194":[6,0,3296,0],
@@ -124,8 +127,8 @@ var NAVTREEINDEX351 =
 "dd/df6/structContainerUnorderedMap_3_01TypeNull_00_01KEY__TYPE_01_4.html":[6,0,924],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[5,0,1,18],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html":[6,0,0,6],
-"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[6,0,0,6,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[5,0,1,18,0],
+"dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a30283854715c90496e14d260f913f5fa":[6,0,0,6,0],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[5,0,1,18,1],
 "dd/df7/classAcore_1_1AbsorbAuraOrderPred.html#a8f705a8b053ef6ff2e2827b4c7f9c643":[6,0,0,6,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html":[5,0,1,52,0],
@@ -136,8 +139,8 @@ var NAVTREEINDEX351 =
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a231cacf52a05959e927bc8514bfa1cf3":[6,0,0,40,0,1],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[5,0,1,52,0,2],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#a342f976604dd6d072e781f27dc511030":[6,0,0,40,0,2],
-"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,52,0,0],
 "dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[6,0,0,40,0,0],
+"dd/df7/classAcore_1_1ClassLevelLockable_1_1Lock.html#aa6bc6f64cebaec1a4b7d4657bff5c4c6":[5,0,1,52,0,0],
 "dd/df8/SRP6_8h.html":[7,0,0,0,0,3,0,4],
 "dd/df9/classspell__kaelthas__summon__nether__vapor.html":[6,0,3503],
 "dd/df9/classspell__kaelthas__summon__nether__vapor.html#a724e857ad8604ef4546c8823bb7bd632":[6,0,3503,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX351 =
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a508e0829b66ba80c2989a1e6a15342f2":[7,0,0,0,1,3,5,10,1,3,3,9],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6743bbc050e771eef1184f59ed86ebb6":[7,0,0,0,1,3,5,10,1,3,3,1],
 "dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a68f039d955e93b57c0fea177a4f2b529":[7,0,0,0,1,3,5,10,1,3,3,7],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e09e566101bf6aff3706ca1855982bc":[7,0,0,0,1,3,5,10,1,3,3,3],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadab9d29df45dabbc112090c9763a126":[7,0,0,0,1,3,5,10,1,3,3,0],
-"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff2ac9c9ea0e57a9cf7e1761d97a3200":[7,0,0,0,1,3,5,10,1,3,3,4],
-"dd/dfd/classGridCell.html":[6,0,1236]
+"dd/dfd/boss__ymiron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8e09e566101bf6aff3706ca1855982bc":[7,0,0,0,1,3,5,10,1,3,3,3]
 };

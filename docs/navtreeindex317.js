@@ -1,5 +1,8 @@
 var NAVTREEINDEX317 =
 {
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1ef74df5f0b7ad15e4af5a8aaf43f2cc":[7,0,0,0,1,2,26,2,0,156],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a213eafa2cb946183680992f7c9fbdf6b":[7,0,0,0,1,2,26,2,0,143],
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14":[7,0,0,0,1,2,26,2,0,61],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a26e9d52bcf30e20484f21c591753b23b":[7,0,0,0,1,2,26,2,0,20],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a29509391af755a2d16bbc7dc9a34b777":[7,0,0,0,1,2,26,2,0,21],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2b3e2264e10df69b4fd91dddd6596e21":[7,0,0,0,1,2,26,2,0,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX317 =
 "dc/d56/classTypeVectorContainer.html#abfb5e987b1c711d259896708887ca6d7":[6,0,4529,4],
 "dc/d56/classTypeVectorContainer.html#ae04b24e63268c7b60bea36beec148a8a":[6,0,4529,2],
 "dc/d56/structStoredLootItem.html":[6,0,4453],
-"dc/d56/structStoredLootItem.html#a076564a43a586c6b6d17cd64fca8e9fb":[6,0,4453,9],
-"dc/d56/structStoredLootItem.html#a12e1cb9403cc4f6ceb770c8cf50a1d17":[6,0,4453,11],
-"dc/d56/structStoredLootItem.html#a2588c810dcd51a5c0c6558b99493602b":[6,0,4453,12],
-"dc/d56/structStoredLootItem.html#a25c63cc5a94ecc3bf803e83be5aabc39":[6,0,4453,2]
+"dc/d56/structStoredLootItem.html#a076564a43a586c6b6d17cd64fca8e9fb":[6,0,4453,9]
 };

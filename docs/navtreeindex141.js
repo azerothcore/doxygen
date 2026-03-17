@@ -1,5 +1,8 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1901,0,3],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1901,0,1],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1901,0,4],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c":[6,0,1901,0,7],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab74b58a77e3c1349ed308f7febef794a":[6,0,1901,0,0],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320":[6,0,1901,0,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX141 =
 "d4/ddd/structPetLevelInfo.html#a897aabacdbe9cbc4afcc40ab059c12be":[6,0,2413,6],
 "d4/ddd/structPetLevelInfo.html#ab7097f75cf86bd6f135f21dace61a89e":[6,0,2413,1],
 "d4/ddd/structPetLevelInfo.html#ad8e757abeae500063e963ffef5469809":[6,0,2413,0],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html":[6,0,530,0],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a1119212465bcf293991d7a520c6ffe42":[6,0,530,0,7],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a52db5743c09088e2e9f1aff1513960f2":[6,0,530,0,6],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html#a6ca87d663714ddecfe562f0c705fa6f8":[6,0,530,0,3]
+"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html":[6,0,530,0]
 };

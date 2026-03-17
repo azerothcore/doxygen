@@ -1,5 +1,8 @@
 var NAVTREEINDEX281 =
 {
+"db/d07/classnpc__nerubian__burrower.html#a02c3eb1ed867738c705af8bf38a1aae5":[6,0,2009,1],
+"db/d07/classnpc__nerubian__burrower.html#a145ebac6f95f9190429b9bfa37e23312":[6,0,2009,2],
+"db/d07/instance__obsidian__sanctum_8cpp.html":[7,0,0,0,1,3,5,1,0,1],
 "db/d07/instance__obsidian__sanctum_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,5,1,0,1,3],
 "db/d07/instance__obsidian__sanctum_8cpp.html#ac4abea2a912b12612a4c884df63abe00":[7,0,0,0,1,3,5,1,0,1,2],
 "db/d08/classspell__hun__piercing__shots.html":[6,0,3236],
@@ -246,8 +249,5 @@ var NAVTREEINDEX281 =
 "db/d13/SmartAI_8h.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f":[7,0,0,0,1,2,3,2,1,4,1],
 "db/d13/SmartAI_8h.html#a9a381b0c4b9dc5403d4a93b3afb19dff":[7,0,0,0,1,2,3,2,1,2],
 "db/d13/SmartAI_8h.html#ab6012619ba76775b314475ec60f8c7d7":[7,0,0,0,1,2,3,2,1,5],
-"db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4],
-"db/d14/classLootTemplate.html":[6,0,1478],
-"db/d14/classLootTemplate.html#a19e8a2736ba5fd376ad3854cbc68867d":[6,0,1478,7],
-"db/d14/classLootTemplate.html#a477c848bcf79153cc430c8d03bbea054":[6,0,1478,9]
+"db/d14/GroupReference_8cpp.html":[7,0,0,0,1,2,20,4]
 };

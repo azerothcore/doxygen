@@ -1,5 +1,6 @@
 var NAVTREEINDEX64 =
 {
+"d2/d50/classspell__kaelthas__summon__weapons.html":[6,0,3504],
 "d2/d50/classspell__kaelthas__summon__weapons.html#a17cb5f874343bd40c6aafaf9d627b047":[6,0,3504,1],
 "d2/d50/classspell__kaelthas__summon__weapons.html#a4bb5cfd2cc8503b3a840fc68624a33c1":[6,0,3504,2],
 "d2/d50/classspell__kaelthas__summon__weapons.html#acfe80e22e6c78dba50155f7f20c0678b":[6,0,3504,0],
@@ -239,8 +240,8 @@ var NAVTREEINDEX64 =
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a03ed4f257c313ba33361c16f313fdfcc":[6,0,4183,2],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a2c6acef52962f606130d643cbd93104b":[6,0,4183,1],
 "d2/d59/classspell__the__lich__king__summon__spirit__bomb.html#a910663e3fb2534c0e3aefcfd0adfe2fb":[6,0,4183,0],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,12,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[5,0,34,0,3],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,12,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,12,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,34,0,3,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,12,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,34,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1680],
-"d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[6,0,1680,1],
-"d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[6,0,1680,2]
+"d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[6,0,1680,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX97 =
 {
+"d3/d40/classspell__hun__hunting__party.html":[6,0,3223],
+"d3/d40/classspell__hun__hunting__party.html#a133ff30c99bd6521d83e2de2361a5123":[6,0,3223,1],
+"d3/d40/classspell__hun__hunting__party.html#a202ed9cca388b984f0dfebb64a512c47":[6,0,3223,0],
 "d3/d40/classspell__hun__hunting__party.html#a39b41d1560869ef9a1231fd39d0a652f":[6,0,3223,3],
 "d3/d40/classspell__hun__hunting__party.html#a6cab1853296da43b4a4cb39bedb20ffa":[6,0,3223,2],
 "d3/d40/classspell__yogg__saron__sanity__well__aura.html":[6,0,4364],
@@ -246,8 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba583ace925d5f890b6460e8c964186cad":[7,0,0,0,1,2,48,7,0,102],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba58471be4e04fb487abe4e107755e35b8":[7,0,0,0,1,2,48,7,0,446],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba58a329872256a2533b8ed1ea8b2d86f2":[7,0,0,0,1,2,48,7,0,236],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba58b578a99ea99261445d503e7ef672d4":[7,0,0,0,1,2,48,7,0,150],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba593a1b4cc9df4625f0b17b2d619b658b":[7,0,0,0,1,2,48,7,0,130],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba59b36632e6da3fb9105cef3ecb0d0486":[7,0,0,0,1,2,48,7,0,101],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba59b9fdee57cbd40238ed29bf9b8509e4":[7,0,0,0,1,2,48,7,0,487]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba58b578a99ea99261445d503e7ef672d4":[7,0,0,0,1,2,48,7,0,150]
 };

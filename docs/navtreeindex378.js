@@ -1,5 +1,8 @@
 var NAVTREEINDEX378 =
 {
+"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[5,0,21,2,4],
+"de/d79/structMMAP_1_1IntermediateValues.html#ae96699a8ed50f1bfe8375b91d67f1d87":[6,0,6,2,4],
+"de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[5,0,21,2,12],
 "de/d79/structMMAP_1_1IntermediateValues.html#affddc2891e1c0f4d7e3d649fd6135baf":[6,0,6,2,12],
 "de/d7c/classspell__item__petrified__twilight__scale__heroic.html":[6,0,3429],
 "de/d7c/classspell__item__petrified__twilight__scale__heroic.html#a296b2622253bae04cb797cad703bd2f1":[6,0,3429,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX378 =
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a07c03ec8db8e498b417b7dbabb9412b3":[5,0,34,8,4,3],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[5,0,34,8,4,0],
 "de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a3069d333bccadf53310ce86118b2c224":[6,0,12,8,4,0],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[6,0,12,8,4,2],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[5,0,34,8,4,2],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[5,0,34,8,4,4],
-"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a7db43e484bf82fb81ccca197c24df2d1":[6,0,12,8,4,4]
+"de/d88/classWorldPackets_1_1Item_1_1BuyItem.html#a72fee9e84781ae2be25f9f15a2bb6de2":[6,0,12,8,4,2]
 };

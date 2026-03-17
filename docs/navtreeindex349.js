@@ -1,5 +1,8 @@
 var NAVTREEINDEX349 =
 {
+"dd/dd4/classBattlegroundEY.html#a87e043ebb95448ad4a17bf437424b479":[6,0,333,30],
+"dd/dd4/classBattlegroundEY.html#a88dbc7809571281359a62490b33c2aba":[6,0,333,39],
+"dd/dd4/classBattlegroundEY.html#a8f5556ecd5b356628d022c7bb22c68d9":[6,0,333,9],
 "dd/dd4/classBattlegroundEY.html#a96f14d6bfd2f451ed0cfc1ef832980be":[6,0,333,2],
 "dd/dd4/classBattlegroundEY.html#a98f279fc1a1ea4f0d04cb14deb264411":[6,0,333,23],
 "dd/dd4/classBattlegroundEY.html#a9d062944c4b7e4f0b1dc52f583f6f6d5":[6,0,333,25],
@@ -181,10 +184,10 @@ var NAVTREEINDEX349 =
 "dd/dd6/classnpc__aeranas.html#a81167df6665bdca81ee13468dec19643":[6,0,1595,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[6,0,12,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html":[5,0,34,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[6,0,12,6,6,6],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,34,6,6,2],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[5,0,34,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[6,0,12,6,6,2],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,34,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[6,0,12,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,34,6,6,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX349 =
 "dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e":[6,0,17,15],
 "dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159":[6,0,17,16],
 "dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1":[6,0,17,13],
-"dd/ddb/class__SpellScript.html#abb223d1713d7594bf4dfd1fc7c0dc5d5":[6,0,17,11],
-"dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443":[6,0,17,12],
-"dd/ddb/class__SpellScript.html#ad3c16df6214a973fca3c62e4bc23f6a6":[6,0,17,5],
-"dd/ddb/class__SpellScript.html#ad501b6dde3e42c3af93589b117e2cafc":[6,0,17,14]
+"dd/ddb/class__SpellScript.html#abb223d1713d7594bf4dfd1fc7c0dc5d5":[6,0,17,11]
 };

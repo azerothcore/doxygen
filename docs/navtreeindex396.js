@@ -1,5 +1,8 @@
 var NAVTREEINDEX396 =
 {
+"df/d36/classRedirectSpellEvent.html#a1b3fb598748362379fef15b3172d8e2b":[6,0,2519,3],
+"df/d36/classRedirectSpellEvent.html#a34ae2bc23904558bd5f5b99e8f1c5fdc":[6,0,2519,1],
+"df/d36/classRedirectSpellEvent.html#a77d243d64c2fc651d71c42e10a315161":[6,0,2519,0],
 "df/d36/classRedirectSpellEvent.html#aecfa190843c1493b47652ccdac7ae9c3":[6,0,2519,4],
 "df/d37/ReputationMgr_8cpp.html":[7,0,0,0,1,2,37,0],
 "df/d37/classHyperlinkDataTokenizer.html":[6,0,1295],
@@ -246,8 +249,5 @@ var NAVTREEINDEX396 =
 "df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8":[7,0,0,0,1,3,7,1,10,15],
 "df/d41/instance__black__temple_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,1,10,17],
 "df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,7,1,10,18],
-"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,7,1,10,16],
-"df/d41/instance__black__temple_8cpp.html#af7ba92b4a76e9cb7835c84a49f9c2052":[7,0,0,0,1,3,7,1,10,19],
-"df/d42/zone__ashenvale_8cpp.html":[7,0,0,0,1,3,4,14],
-"df/d42/zone__ashenvale_8cpp.html#a2381a800b34807e7f0d47d7b60feb025":[7,0,0,0,1,3,4,14,5]
+"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,7,1,10,16]
 };

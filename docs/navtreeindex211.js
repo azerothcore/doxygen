@@ -1,5 +1,8 @@
 var NAVTREEINDEX211 =
 {
+"d7/dcf/structCreatureModel.html":[6,0,945],
+"d7/dcf/structCreatureModel.html#a02b05bf92c3341b90173b4aa998087ba":[6,0,945,1],
+"d7/dcf/structCreatureModel.html#a0f48fde2c8438ecf411d7f80d3bca1a9":[6,0,945,2],
 "d7/dcf/structCreatureModel.html#a49bec3e0996adfb6ec5bd5a9b6e38448":[6,0,945,4],
 "d7/dcf/structCreatureModel.html#a4b729e5730c1fa0e5e4995f5dd65e9b3":[6,0,945,3],
 "d7/dcf/structCreatureModel.html#a7736d6480dca65a68afb82a830b35874":[6,0,945,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX211 =
 "d7/de7/classTriggerWickedSpirit.html#ab460675158bfedd7f17a4b8e1cc06b3c":[6,0,4520,3],
 "d7/de7/classTriggerWickedSpirit.html#ace62bc037a2bd8ca9c9c56202eb811e7":[6,0,4520,0],
 "d7/de7/classspell__warr__last__stand.html":[6,0,4313],
-"d7/de7/classspell__warr__last__stand.html#a0eae8fe2faee05bad7a34e84dddd3317":[6,0,4313,0],
-"d7/de7/classspell__warr__last__stand.html#a24634405a8d0ccdd22f4832815262446":[6,0,4313,1],
-"d7/de7/classspell__warr__last__stand.html#a3394b9b9e5899550251d553ac9f77f8a":[6,0,4313,2],
-"d7/de7/classspell__warr__last__stand.html#ae56a900b3484fd6397d38c4ad8efe5c2":[6,0,4313,3]
+"d7/de7/classspell__warr__last__stand.html#a0eae8fe2faee05bad7a34e84dddd3317":[6,0,4313,0]
 };

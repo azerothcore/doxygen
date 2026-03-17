@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"df/d7f/structboss__novos.html#accd720c3cb74905ef5ecf793089681eb":[6,0,655,4],
+"df/d7f/structboss__novos.html#ad037870744002e44a48e056875bd7ec1":[6,0,655,2],
+"df/d7f/structboss__novos.html#ae05afda7873a26a7a812813628e970fc":[6,0,655,0],
 "df/d7f/structboss__novos.html#ae6c7721cfc95e8a524ea3d2fc4e20a88":[6,0,655,15],
 "df/d7f/structboss__novos.html#af37e7d05ad672d443f7f2f89c7fd24a5":[6,0,655,11],
 "df/d81/classspell__dk__wandering__plague.html":[6,0,2845],
@@ -246,8 +249,5 @@ var NAVTREEINDEX401 =
 "df/d8c/classspell__yogg__saron__target__selectors.html#a7e03062d9e28ed1917b7aa63d65f22ba":[6,0,4366,2],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ab2a4155f6029850c61e84d7c180addae":[6,0,4366,1],
 "df/d8c/classspell__yogg__saron__target__selectors.html#ac7fc87a7585c866aa3fa1001c803bb00":[6,0,4366,0],
-"df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1],
-"df/d8c/namespaceAcore_1_1Banner.html#af6170962feecf3d126a80593221a357d":[5,0,1,1,0],
-"df/d8d/GlobalScript_8cpp.html":[7,0,0,0,1,2,38,0,53],
-"df/d8d/GlobalScript_8cpp.html#aab5e9d371cdc72eb5a60f210f00cdc34":[7,0,0,0,1,2,38,0,53,0]
+"df/d8c/namespaceAcore_1_1Banner.html":[5,0,1,1]
 };

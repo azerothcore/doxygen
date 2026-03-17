@@ -1,5 +1,8 @@
 var NAVTREEINDEX380 =
 {
+"de/d95/structAuctionHouseUsablePlayerInfo.html#a8f5894a5729d4c8d26376bbe1a2ac29e":[6,0,273,0],
+"de/d95/structAuctionHouseUsablePlayerInfo.html#a96e56943da42f1a1258fc1d716259e1a":[6,0,273,5],
+"de/d95/structAuctionHouseUsablePlayerInfo.html#ac83cc019ceb1752ce8d6b5a3aa3d350f":[6,0,273,7],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#aee11f4f45f83664483344e3bbfba7463":[6,0,273,2],
 "de/d97/boss__mother__shahraz_8cpp.html":[7,0,0,0,1,3,7,1,4],
 "de/d97/boss__mother__shahraz_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,1,4,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX380 =
 "de/da1/structObjectPosSelector.html#ae45835290af001233a7d76e1a5be6df0":[6,0,2342,10],
 "de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2342,25],
 "de/da1/structnpc__ulduar__flames__spread.html":[6,0,2246],
-"de/da1/structnpc__ulduar__flames__spread.html#a8309d2c6a0d7ad7a7dc2111c709bf45f":[6,0,2246,0],
-"de/da1/structnpc__ulduar__flames__spread.html#af8cad4be1736f377721b7a0a63cfafe7":[6,0,2246,1],
-"de/da2/classMMAP_1_1IMMapMgr.html":[5,0,21,1],
-"de/da2/classMMAP_1_1IMMapMgr.html":[6,0,6,1]
+"de/da1/structnpc__ulduar__flames__spread.html#a8309d2c6a0d7ad7a7dc2111c709bf45f":[6,0,2246,0]
 };

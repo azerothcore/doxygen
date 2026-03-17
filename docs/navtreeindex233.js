@@ -1,5 +1,8 @@
 var NAVTREEINDEX233 =
 {
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2cf04af92e948da7904271426dbe405f":[7,0,0,0,1,2,8,1,19,10,18],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea2f98d10b9734f1faf99fe9ba1fa13c08":[7,0,0,0,1,2,8,1,19,10,14],
+"d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea329adab562700210e7bc1fa2acbc497b":[7,0,0,0,1,2,8,1,19,10,1],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea430f4279be64578c1343e30e9db1854e":[7,0,0,0,1,2,8,1,19,10,20],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea465d29324f41dc0286952d883faa2103":[7,0,0,0,1,2,8,1,19,10,11],
 "d8/de0/BattlegroundSA_8h.html#aea1aed3c14fd6d73de4714dba32924bea4c8dacda16962033bcf544136ad60259":[7,0,0,0,1,2,8,1,19,10,21],
@@ -60,18 +63,18 @@ var NAVTREEINDEX233 =
 "d8/de1/structTrainer_1_1Spell.html":[6,0,9,0],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,9,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
-"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,9,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
+"d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,9,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,9,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,9,0,0],
-"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,9,0,5],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
-"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
+"d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[6,0,9,0,5],
 "d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[5,0,30,0,6],
-"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[6,0,9,0,1],
+"d8/de1/structTrainer_1_1Spell.html#ac289744925387c199fde756867bbfc57":[6,0,9,0,6],
 "d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[5,0,30,0,1],
+"d8/de1/structTrainer_1_1Spell.html#af20caa962ba1f5edb376b78b6b35b119":[6,0,9,0,1],
 "d8/de1/structnpc__zealot__zath.html":[6,0,2320],
 "d8/de1/structnpc__zealot__zath.html#a146679c4eb3eec444ff1dcd9a780110a":[6,0,2320,5],
 "d8/de1/structnpc__zealot__zath.html#a25e059f40de51d880f4ec209ff4dd924":[6,0,2320,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX233 =
 "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a501d0bdb9d77be1229dadf60d5f8af8c":[6,0,2024,0,1],
 "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a6b6b127db878ca3b79ac8d7aeff4156e":[6,0,2024,0,2],
 "d8/ded/structnpc__orb__carrier_1_1npc__orb__carrierAI.html#a99a08390fcf2b0a058aee161932392d0":[6,0,2024,0,3],
-"d8/dee/classboss__taerar.html":[6,0,731],
-"d8/dee/classboss__taerar.html#a100c1b80a50faf93088db870faa21b58":[6,0,731,1],
-"d8/dee/classboss__taerar.html#ae6615da6ee14c4f7cb3087b4ee5d6246":[6,0,731,2],
-"d8/def/PlayerCommand_8h.html":[7,0,0,0,1,3,0,51]
+"d8/dee/classboss__taerar.html":[6,0,731]
 };

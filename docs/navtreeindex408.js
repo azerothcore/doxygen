@@ -1,5 +1,8 @@
 var NAVTREEINDEX408 =
 {
+"df/dc9/classCreatureScript.html#a24ba3529655943afdf6598450d14e6c2":[6,0,949,1],
+"df/dc9/classCreatureScript.html#a30f160576b4cb97d940ecf3468834667":[6,0,949,6],
+"df/dc9/classCreatureScript.html#a316efb5c026588eb4bce8a0ce6b5cc0f":[6,0,949,4],
 "df/dc9/classCreatureScript.html#a41562245c4a44843363d6b0ce32ce48d":[6,0,949,2],
 "df/dc9/classCreatureScript.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b":[6,0,949,9],
 "df/dc9/classCreatureScript.html#a6268b132444845302ada504f48629a4f":[6,0,949,5],
@@ -246,8 +249,5 @@ var NAVTREEINDEX408 =
 "df/dd8/classspell__hodir__starlight__aura.html#a1824853d0b369deac0745fabe2df657c":[6,0,3199,1],
 "df/dd8/classspell__hodir__starlight__aura.html#a33e7c6cab2c99789661e6bb2d6b9a593":[6,0,3199,2],
 "df/dd8/classspell__hodir__starlight__aura.html#af655bb31dc24a3cede08ca371f784913":[6,0,3199,0],
-"df/dd9/classUnit.html":[6,0,4534],
-"df/dd9/classUnit.html#a000570a88dd253d3746e6ff5ac1c918b":[6,0,4534,406],
-"df/dd9/classUnit.html#a000c04b10ef04a72e5ccc10da3338c06":[6,0,4534,338],
-"df/dd9/classUnit.html#a008966d0caec959bee0e00910870804d":[6,0,4534,160]
+"df/dd9/classUnit.html":[6,0,4534]
 };

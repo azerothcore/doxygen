@@ -1,5 +1,6 @@
 var NAVTREEINDEX63 =
 {
+"d2/d4b/classPlayer.html#ad44127ae589c9be2a053996a1eddb26a":[6,0,2419,1201],
 "d2/d4b/classPlayer.html#ad46f720cf4699c8a2a9f4e0b2fad33b5":[6,0,2419,1133],
 "d2/d4b/classPlayer.html#ad4765f5f31e484e3fd7c8a39ede36499":[6,0,2419,664],
 "d2/d4b/classPlayer.html#ad52044947ef0aa2325b2688075bac34d":[6,0,2419,725],
@@ -219,14 +220,14 @@ var NAVTREEINDEX63 =
 "d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[6,0,4456,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[6,0,12,8,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[6,0,12,8,0,1],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,8,0,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[6,0,12,8,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3439],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[6,0,3439,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[6,0,3439,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d50/classspell__geddon__armageddon__aura.html#a7970613f1668294f29f61c1f10a9ba37":[6,0,2978,1],
 "d2/d50/classspell__geddon__armageddon__aura.html#a8f55616f861cccf7126f7e1a7c88f3c1":[6,0,2978,0],
 "d2/d50/classspell__geddon__armageddon__aura.html#ae38b71adaff3b36f5d7b3007e84e620f":[6,0,2978,3],
-"d2/d50/classspell__geddon__armageddon__aura.html#aea2f52682e723f8dacfffa20cd0f41a5":[6,0,2978,2],
-"d2/d50/classspell__kaelthas__summon__weapons.html":[6,0,3504]
+"d2/d50/classspell__geddon__armageddon__aura.html#aea2f52682e723f8dacfffa20cd0f41a5":[6,0,2978,2]
 };

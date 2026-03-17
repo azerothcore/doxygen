@@ -1,5 +1,8 @@
 var NAVTREEINDEX143 =
 {
+"d4/df0/classAcore_1_1AnyFriendlyNotSelfUnitInObjectRangeCheck.html#ac087254cf99c5f845918998f369c176a":[5,0,1,36,5],
+"d4/df1/classat__icc__spire__frostwyrm.html":[6,0,231],
+"d4/df1/classat__icc__spire__frostwyrm.html#a67e320fb8ada7cb2c87f5944395fa174":[6,0,231,1],
 "d4/df1/classat__icc__spire__frostwyrm.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8":[6,0,231,0],
 "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html":[6,0,2863],
 "d4/df1/classspell__dreamwalker__summon__suppresser__effect.html#a7206571378a0196a8648659628bdeece":[6,0,2863,1],
@@ -176,10 +179,10 @@ var NAVTREEINDEX143 =
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a7c0ee21531ba43d9d2ab427d95da2ec5":[6,0,0,35,1],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[6,0,0,35,5],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#a8867dd698d0457688202e1a9378255d2":[5,0,1,47,5],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[6,0,0,35,2],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[5,0,1,47,2],
-"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aebfaeac77c40d4c7938cbdd488defc51":[6,0,0,35,3],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aa6959944406804f01baa18cd898bfc41":[6,0,0,35,2],
 "d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aebfaeac77c40d4c7938cbdd488defc51":[5,0,1,47,3],
+"d4/df8/classAcore_1_1Battleground2ChatBuilder.html#aebfaeac77c40d4c7938cbdd488defc51":[6,0,0,35,3],
 "d4/df8/classGroupMgr.html":[6,0,1248],
 "d4/df8/classGroupMgr.html#a1b7275cfd70d46216df8c353e70d64c8":[6,0,1248,8],
 "d4/df8/classGroupMgr.html#a2af93882e217f762df95ba21af191c89":[6,0,1248,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX143 =
 "d4/dfc/structSignatures.html#a70bd865a5b11ffc0ceed08b683548b42":[6,0,2583,1],
 "d4/dfc/structSignatures.html#adafc1020d722bd3885429041ce9a292c":[6,0,2583,0],
 "d4/dff/TicketScript_8h.html":[7,0,0,0,1,2,38,0,83],
-"d4/dff/TicketScript_8h.html#af2de2d4afd6c8a1968e6e4b055620b72":[7,0,0,0,1,2,38,0,83,1],
-"d4/dff/TicketScript_8h.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61":[7,0,0,0,1,2,38,0,83,1,0],
-"d4/dff/TicketScript_8h.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222":[7,0,0,0,1,2,38,0,83,1,5],
-"d4/dff/TicketScript_8h.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374":[7,0,0,0,1,2,38,0,83,1,1]
+"d4/dff/TicketScript_8h.html#af2de2d4afd6c8a1968e6e4b055620b72":[7,0,0,0,1,2,38,0,83,1]
 };

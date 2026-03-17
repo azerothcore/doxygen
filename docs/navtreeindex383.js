@@ -1,5 +1,8 @@
 var NAVTREEINDEX383 =
 {
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7afe7f92f2a88eca3936c823baae7e0b02":[7,0,0,0,1,1,0,0,1,1,123],
+"de/da5/boss__quartermaster__zigris_8cpp.html":[7,0,0,0,1,3,2,1,1,9],
+"de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,1,9,2],
 "de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298ca13bb6f847a01b8a989be597f21d79b75":[7,0,0,0,1,3,2,1,1,9,2,2],
 "de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298ca1b728fa1bb0194534b5b491d35ed871c":[7,0,0,0,1,3,2,1,1,9,2,0],
 "de/da5/boss__quartermaster__zigris_8cpp.html#a5bd342133be8c2137b831460acc9298caa87262d7dbc51fbcccf3295b75b9f57a":[7,0,0,0,1,3,2,1,1,9,2,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX383 =
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a465ed6831f5cbb7a46acc646867a4418":[7,0,0,0,1,3,5,18,51,17],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a49d6cee12d60b301c2d1486de834b5c7":[7,0,0,0,1,3,5,18,51,1],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a52392614bdbb88305c4cfea368c9a8a2":[7,0,0,0,1,3,5,18,51,21],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,51,29],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,51,20],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,51,13],
-"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a6e32f2d5d60dd665537583376cd6fb8a":[7,0,0,0,1,3,5,18,51,14]
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a556281d5f6f8f5db4e80cebe221e55c5":[7,0,0,0,1,3,5,18,51,29]
 };

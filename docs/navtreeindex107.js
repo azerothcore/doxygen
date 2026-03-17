@@ -1,5 +1,8 @@
 var NAVTREEINDEX107 =
 {
+"d3/d9f/classspell__eadric__radiance.html#aec3d0ed996e9cbfed9fb78c5f16e254f":[6,0,2928,2],
+"d3/d9f/structboss__talon__king__ikiss.html":[6,0,733],
+"d3/d9f/structboss__talon__king__ikiss.html#a325312ce6695435fcca701720434c64f":[6,0,733,2],
 "d3/d9f/structboss__talon__king__ikiss.html#a3e9e3a8575dbf21262ba2b4226182373":[6,0,733,6],
 "d3/d9f/structboss__talon__king__ikiss.html#ab13808b75b1ca79b856e5b2e64e67d89":[6,0,733,4],
 "d3/d9f/structboss__talon__king__ikiss.html#acf8cbda5f7a33c026bfc0d6e7b31f43c":[6,0,733,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2afb27d4c0b58b9e09a9f8800d06aea83b":[7,0,0,0,1,2,8,1,17,2,6],
 "d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2afd39bfaa9b3aafc5af644dcf29ee25ef":[7,0,0,0,1,2,8,1,17,2,2],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34c":[7,0,0,0,1,2,8,1,17,1],
-"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15":[7,0,0,0,1,2,8,1,17,1,1],
-"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733":[7,0,0,0,1,2,8,1,17,1,2],
-"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5":[7,0,0,0,1,2,8,1,17,1,0],
-"d3/da6/classspell__gen__oracle__wolvar__reputation.html":[6,0,3077]
+"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15":[7,0,0,0,1,2,8,1,17,1,1]
 };

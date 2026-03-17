@@ -1,5 +1,8 @@
 var NAVTREEINDEX384 =
 {
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a59a273f6d22d2c2de60579f405c3d829":[7,0,0,0,1,3,5,18,51,20],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a652e55c889334e8ff1f3e9913e4d5429":[7,0,0,0,1,3,5,18,51,13],
+"de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a6e32f2d5d60dd665537583376cd6fb8a":[7,0,0,0,1,3,5,18,51,14],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a723f43bebeb9fb471451eab79c9b2f8b":[7,0,0,0,1,3,5,18,51,19],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a7f0014c0bccdc769cc63e8f1e7304282":[7,0,0,0,1,3,5,18,51,31],
 "de/da6/zone__dragonblight_8cpp.html#acbab1c82942a4975632e2b708f802bd7a80a9c48f6a731f2ff48f0b7ae687fec9":[7,0,0,0,1,3,5,18,51,28],
@@ -246,8 +249,5 @@ var NAVTREEINDEX384 =
 "de/db0/classspell__mage__ice__block.html#af40f92afae93778e477c50ddf18c8adc":[6,0,3591,2],
 "de/db0/classspell__warl__siphon__life.html":[6,0,4287],
 "de/db0/classspell__warl__siphon__life.html#a19e8f1b9aab5ee4e718b304c87303627":[6,0,4287,4],
-"de/db0/classspell__warl__siphon__life.html#a33381b811abcd52f7a57e0f62fa73e5f":[6,0,4287,2],
-"de/db0/classspell__warl__siphon__life.html#ab953f817368120933828d6b3e5e200c0":[6,0,4287,1],
-"de/db0/classspell__warl__siphon__life.html#abfdd5179215432a3e89ea7b498d49867":[6,0,4287,3],
-"de/db0/classspell__warl__siphon__life.html#afcda3b112699e108e2db6270836fce1b":[6,0,4287,0]
+"de/db0/classspell__warl__siphon__life.html#a33381b811abcd52f7a57e0f62fa73e5f":[6,0,4287,2]
 };

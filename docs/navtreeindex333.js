@@ -1,5 +1,8 @@
 var NAVTREEINDEX333 =
 {
+"dd/d27/structSmartAction.html#a36085bc5376c1f93e562c1f485305363":[6,0,2596,230],
+"dd/d27/structSmartAction.html#a36e36e555e14454f7594bf5a3943032e":[6,0,2596,286],
+"dd/d27/structSmartAction.html#a392f18bdae8a530c86c176d4e405333d":[6,0,2596,168],
 "dd/d27/structSmartAction.html#a394b7cf577e1b73eec8824659fe65e49":[6,0,2596,4],
 "dd/d27/structSmartAction.html#a39f72e36d00fdaa214d4f38195e48ee3":[6,0,2596,17],
 "dd/d27/structSmartAction.html#a3a9b33685d26bf9ba39469d411989851":[6,0,2596,59],
@@ -246,8 +249,5 @@ var NAVTREEINDEX333 =
 "dd/d28/classnpc__lk__spirit__bomb.html#ade74c00beb2da69dafb0ae93d771c430":[6,0,1952,2],
 "dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[6,0,3493],
 "dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[6,0,3493,1],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[6,0,3493,0],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a85a70f019dcd87f2ed578f041a0bc194":[6,0,3493,2],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html":[6,0,3327],
-"dd/d2a/classspell__item__book__of__glyph__mastery.html#a3ed8450641baeee915fc5a129f9c7434":[6,0,3327,0]
+"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[6,0,3493,0]
 };

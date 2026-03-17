@@ -1,5 +1,8 @@
 var NAVTREEINDEX169 =
 {
+"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6":[7,0,0,0,1,2,38,0,28,1,4],
+"d6/d21/ArenaTeamScript_8h.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7":[7,0,0,0,1,2,38,0,28,1,2],
+"d6/d21/WardenWin_8h.html":[7,0,0,0,1,2,46,11],
 "d6/d21/classspell__sha__spirit__hunt.html":[6,0,4065],
 "d6/d21/classspell__sha__spirit__hunt.html#a0e488d9d96e37a20887f0befc1950dd5":[6,0,4065,3],
 "d6/d21/classspell__sha__spirit__hunt.html#a7152aa6ab02938d981ee83875e533b32":[6,0,4065,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5":[7,0,0,0,0,1,1,0,7,0],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56":[7,0,0,0,0,1,1,0,7,8],
 "d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670":[7,0,0,0,0,1,1,0,7,2],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98":[7,0,0,0,0,1,1,0,7,1],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75":[7,0,0,0,0,1,1,0,7,3],
-"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1":[7,0,0,0,0,1,1,0,7,4],
-"d6/d2a/MapDefines_8h.html#aea71555fdd0af33ccc21c76c67574421":[7,0,0,0,0,1,1,0,5]
+"d6/d2a/MapDefines_8h.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98":[7,0,0,0,0,1,1,0,7,1]
 };

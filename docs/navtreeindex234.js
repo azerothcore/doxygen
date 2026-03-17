@@ -1,5 +1,8 @@
 var NAVTREEINDEX234 =
 {
+"d8/dee/classboss__taerar.html#a100c1b80a50faf93088db870faa21b58":[6,0,731,1],
+"d8/dee/classboss__taerar.html#ae6615da6ee14c4f7cb3087b4ee5d6246":[6,0,731,2],
+"d8/def/PlayerCommand_8h.html":[7,0,0,0,1,3,0,51],
 "d8/def/PlayerCommand_8h.html#acbe37f872cbc981a27671ebdf10904de":[7,0,0,0,1,3,0,51,0],
 "d8/def/PlayerCommand_8h.html#ad36f90f90b3d9aaf782f7efc859f7e7a":[7,0,0,0,1,3,0,51,1],
 "d8/df0/classat__lady__deathwhisper__entrance.html":[6,0,238],
@@ -246,8 +249,5 @@ var NAVTREEINDEX234 =
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#aebb7d901669fe987e805e0dfcfe9993a":[6,0,555,0,10],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#afeebf7a1039b3eed4b351e88751818b5":[6,0,555,0,3],
 "d8/dfd/boss__jindo_8cpp.html":[7,0,0,0,1,3,2,16,6],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,6,8],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca1eba628b0180472599dfa6ca143740e6":[7,0,0,0,1,3,2,16,6,8,8],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca1f82651b939a725a33b71ac33ae80d86":[7,0,0,0,1,3,2,16,6,8,0],
-"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298ca2ba771caa9a3deb676600a28f815e8ca":[7,0,0,0,1,3,2,16,6,8,3]
+"d8/dfd/boss__jindo_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,16,6,8]
 };

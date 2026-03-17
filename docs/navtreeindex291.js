@@ -1,5 +1,8 @@
 var NAVTREEINDEX291 =
 {
+"db/d81/structnpc__costumed__orphan__matron.html#a0b913090588613ac00ea928f6273d56f":[6,0,1731,0],
+"db/d81/structnpc__costumed__orphan__matron.html#a1a9c58c087b8addf8e482375737d6c49":[6,0,1731,4],
+"db/d81/structnpc__costumed__orphan__matron.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533":[6,0,1731,2],
 "db/d81/structnpc__costumed__orphan__matron.html#a4679d807df8749265ba0453c5b7588f1":[6,0,1731,6],
 "db/d81/structnpc__costumed__orphan__matron.html#a5292ab4e45fe3a858b3a59ef4a79bb34":[6,0,1731,8],
 "db/d81/structnpc__costumed__orphan__matron.html#a722f4bfd0fb8b2665ff2b79d3208bc90":[6,0,1731,7],
@@ -234,20 +237,17 @@ var NAVTREEINDEX291 =
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[7,0,0,0,1,3,5,10,0,4,10],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045":[7,0,0,0,1,3,5,10,0,4,5],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[7,0,0,0,1,3,5,10,0,4,5,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,12,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,12,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,12,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,12,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,12,13,1,1],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
 "db/d89/classboss__ambassador__flamelash.html":[6,0,386],
 "db/d89/classboss__ambassador__flamelash.html#a332e347d803a58989445ec57d75361ab":[6,0,386,2],
 "db/d89/classboss__ambassador__flamelash.html#a53d24a240e48033b0474970e8acac1f4":[6,0,386,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[6,0,3354],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[6,0,3354,1],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a7c7f92d21898322c501f582a524f4052":[6,0,3354,0],
-"db/d89/classspell__item__dimensional__ripper__area52.html#a8ae826705bd1a1f1da3160be73926d7b":[6,0,3354,2],
-"db/d89/classspell__item__dimensional__ripper__area52.html#abda715e38cf19fa7276ec4f4a12d3b63":[6,0,3354,3]
+"db/d89/classspell__item__dimensional__ripper__area52.html#a600eb87e8bbedd3504e3d259f89e3785":[6,0,3354,1]
 };

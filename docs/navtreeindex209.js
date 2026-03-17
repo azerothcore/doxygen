@@ -1,5 +1,8 @@
 var NAVTREEINDEX209 =
 {
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#a96ef76527449a138685830b52fa95146":[6,0,4098,4],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae0c0320b523076e03c01f69b9d0df4bd":[6,0,4098,0],
+"d7/dbc/classspell__sindragosa__ice__tomb__trap.html#ae5c08d71d0e1d30f0b126ca593763697":[6,0,4098,2],
 "d7/dbc/classspell__sindragosa__ice__tomb__trap.html#afcfbcf16c29b3bda1d7b85f79c624db1":[6,0,4098,5],
 "d7/dbc/classspell__warr__glyph__of__blocking.html":[6,0,4304],
 "d7/dbc/classspell__warr__glyph__of__blocking.html#a04085f70b61ea7ff2073a1cd777eca1b":[6,0,4304,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX209 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aef7c9ab9977a037f1021efd9fe83e921":[6,0,1373,0,38],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af22922662a070b419c4ddbf98c57b384":[6,0,1373,0,27],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af33dd81c241b5354a2cbced9dc9f4c93":[6,0,1373,0,32],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af67b7d54d4deabe48192155c1ac18eb9":[6,0,1373,0,36],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#afb94afd3f36b7205a45f708c7429a437":[6,0,1373,0,28],
-"d7/dc6/boss__galvangar_8cpp.html":[7,0,0,0,1,3,2,0,3],
-"d7/dc6/boss__galvangar_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,2,0,3,3]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af67b7d54d4deabe48192155c1ac18eb9":[6,0,1373,0,36]
 };

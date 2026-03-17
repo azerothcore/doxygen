@@ -1,8 +1,11 @@
 var NAVTREEINDEX166 =
 {
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[6,0,0,5,6,2],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#a9132df0434948b03df8f79b6cc48252c":[5,0,1,8,6,2],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[5,0,1,8,6,5],
-"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,1,8,6,3],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab52b675a0956909cdac9413443551086":[6,0,0,5,6,5],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[6,0,0,5,6,3],
+"d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ab6808fd4c674e10ce28153394189abf5":[5,0,1,8,6,3],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[5,0,1,8,6,1],
 "d6/d07/structAcore_1_1Impl_1_1GenericBaseEncoding.html#ae7f09527200686c22611e59e995a17ef":[6,0,0,5,6,1],
 "d6/d07/structnpc__nightbane__helper__target.html":[6,0,2013],
@@ -246,8 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca51957276e00d01081d2a598d1055985b":[7,0,0,0,1,3,10,5,83,0],
 "d6/d0c/go__scripts_8cpp.html#afb6224fffef0ad81bb5368a9a386f3fca65bfe4ffff93d1df9a6fdfcb6e760f0c":[7,0,0,0,1,3,10,5,83,1],
 "d6/d0f/classspell__dk__anti__magic__zone.html":[6,0,2787],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a2419bff95bad81a0f63c4988f14eb3f9":[6,0,2787,4],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a279a025cac490ee3647f47584b59179f":[6,0,2787,1],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a3fededdbfca9d12e6dbd097620e104be":[6,0,2787,2],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a60eb14be1b3108b7b896a27eab35569b":[6,0,2787,5]
+"d6/d0f/classspell__dk__anti__magic__zone.html#a2419bff95bad81a0f63c4988f14eb3f9":[6,0,2787,4]
 };

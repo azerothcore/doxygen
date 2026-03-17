@@ -1,16 +1,19 @@
 var NAVTREEINDEX221 =
 {
+"d8/d5f/classspell__item__goblin__gumbo__kettle.html#a5847ba4daad49dca2527513055fa4429":[6,0,3381,0],
+"d8/d5f/classspell__item__goblin__gumbo__kettle.html#a8753419b2fa1b1bb96a08bf54995e82c":[6,0,3381,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[6,0,12,10,9],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html":[5,0,34,10,9],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[6,0,12,10,9,2],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a1162715dd557a9f7b7c25a0331bc3b74":[5,0,34,10,9,2],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[6,0,12,10,9,1],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a2c4d15099e991a9c2ddc5295536aa28e":[5,0,34,10,9,1],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[6,0,12,10,9,3],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a5e794706b8793d164a1189e9a6918735":[5,0,34,10,9,3],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[6,0,12,10,9,4],
-"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#a82b226eba66e569c1f377f529e511361":[5,0,34,10,9,4],
 "d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[6,0,12,10,9,0],
+"d8/d60/classWorldPackets_1_1Misc_1_1PlayObjectSound.html#ab322044d36abddeb2fafbf99261bb70b":[5,0,34,10,9,0],
 "d8/d60/structSavedItem.html":[6,0,2548],
 "d8/d60/structSavedItem.html#a7261d44eefdbd56df651a57a71f5af6e":[6,0,2548,0],
 "d8/d60/structSavedItem.html#af844c8b955858b1ead94798c6326fa03":[6,0,2548,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX221 =
 "d8/d72/classBattlegroundQueue.html#a755e3939e10afdf5adaa3f551828bd4d":[6,0,345,19],
 "d8/d72/classBattlegroundQueue.html#a784b02b5618f7f394861fd246f7f1067":[6,0,345,35],
 "d8/d72/classBattlegroundQueue.html#a81be56ef4b228ee8571198c2746fd13f":[6,0,345,31],
-"d8/d72/classBattlegroundQueue.html#a89cff162564a81d8d23ca7f35940c2d3":[6,0,345,2],
-"d8/d72/classBattlegroundQueue.html#a8a4cf9b6eb2460e7147596a743b35e3d":[6,0,345,4],
-"d8/d72/classBattlegroundQueue.html#a98dab7149e82c2a1c2fec2b0982f6c67":[6,0,345,21],
-"d8/d72/classBattlegroundQueue.html#aaf510dab8eb5bb065f104eb281332b18":[6,0,345,22]
+"d8/d72/classBattlegroundQueue.html#a89cff162564a81d8d23ca7f35940c2d3":[6,0,345,2]
 };

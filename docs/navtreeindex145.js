@@ -1,5 +1,8 @@
 var NAVTREEINDEX145 =
 {
+"d5/d0f/classAuraScript.html#a9256947ce172fcf7947390e893c154f6":[6,0,295,24],
+"d5/d0f/classAuraScript.html#a926652b8b5f116a13674f8b423db706c":[6,0,295,18],
+"d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f":[6,0,295,29],
 "d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405":[6,0,295,68],
 "d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912":[6,0,295,41],
 "d5/d0f/classAuraScript.html#a9bb1cb08922b17a40a33fd6d8e8e3067":[6,0,295,31],
@@ -246,8 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d1f/structnpc__batrider.html#a6304a39ea92d48508a17dc059c47bc1b":[6,0,1664,0],
 "d5/d1f/structnpc__batrider.html#a828e5ab4b3ff52d7daf9a3a6a5412f52":[6,0,1664,4],
 "d5/d1f/structnpc__batrider.html#abee249da6f3bb6c2fd859812b02d7b65":[6,0,1664,3],
-"d5/d1f/structnpc__batrider.html#acd53ec78a754219511af1ad2f11422a9":[6,0,1664,5],
-"d5/d1f/structnpc__batrider.html#ad4818b1363082a91223526908c38777c":[6,0,1664,1],
-"d5/d1f/structnpc__batrider.html#ad90beb6685c031a8b0ce4ec8ea3daa3f":[6,0,1664,6],
-"d5/d21/instance__forge__of__souls_8cpp.html":[7,0,0,0,1,3,5,4,0,4]
+"d5/d1f/structnpc__batrider.html#acd53ec78a754219511af1ad2f11422a9":[6,0,1664,5]
 };

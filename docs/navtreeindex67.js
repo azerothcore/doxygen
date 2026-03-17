@@ -1,5 +1,6 @@
 var NAVTREEINDEX67 =
 {
+"d2/d70/classspell__flamewreath.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c":[6,0,2960,1],
 "d2/d70/classspell__flamewreath.html#a88b91e40b330d39bd04a7873128fb858":[6,0,2960,0],
 "d2/d70/classspell__flamewreath.html#ab2008e585589cbf313170064d37c4aa9":[6,0,2960,3],
 "d2/d70/classspell__flamewreath.html#ab4ef82283e4d651d2e5304e49970efa8":[6,0,2960,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX67 =
 "d2/d73/classScriptMgr.html#a6855f317fb6e982a745810e008b261db":[6,0,2555,270],
 "d2/d73/classScriptMgr.html#a68c1ec6d1d950485632d9dcb2ca3dbcd":[6,0,2555,476],
 "d2/d73/classScriptMgr.html#a68c7d0e44ebfd4275519fc1bcfd3fcd0":[6,0,2555,340],
-"d2/d73/classScriptMgr.html#a6a2a1d7a9920a5889b992802c48fe737":[6,0,2555,409],
-"d2/d73/classScriptMgr.html#a6b1eeefc4450e981ae9ab860f7421415":[6,0,2555,404]
+"d2/d73/classScriptMgr.html#a6a2a1d7a9920a5889b992802c48fe737":[6,0,2555,409]
 };

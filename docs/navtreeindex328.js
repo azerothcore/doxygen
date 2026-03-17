@@ -1,5 +1,8 @@
 var NAVTREEINDEX328 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,12],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,2,12,6,8,1],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce":[7,0,0,0,1,3,2,12,6,8,0],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03":[7,0,0,0,1,3,2,12,6,8,2],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,2,12,6,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX328 =
 "dc/df0/classgo__broggok__lever.html#af91c2e283c357d2f38c9932dcfb5c375":[6,0,1148,0],
 "dc/df0/classnpc__hourglass__of__eternity.html":[6,0,1876],
 "dc/df0/classnpc__hourglass__of__eternity.html#a40500ff582ead06bd646be86baad7d35":[6,0,1876,1],
-"dc/df0/classnpc__hourglass__of__eternity.html#a6cdec424e78e5c9decac73d091eec0ed":[6,0,1876,2],
-"dc/df0/zulgurub_8h.html":[7,0,0,0,1,3,2,16,15],
-"dc/df0/zulgurub_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,2,16,15,0],
-"dc/df0/zulgurub_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,2,16,15,6]
+"dc/df0/classnpc__hourglass__of__eternity.html#a6cdec424e78e5c9decac73d091eec0ed":[6,0,1876,2]
 };

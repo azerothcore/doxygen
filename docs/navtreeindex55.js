@@ -1,5 +1,6 @@
 var NAVTREEINDEX55 =
 {
+"d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54":[7,0,0,0,1,2,16,11,2,12],
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae":[7,0,0,0,1,2,16,11,2,12,1],
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b":[7,0,0,0,1,2,16,11,2,12,3],
 "d2/d2c/VehicleDefines_8h.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe":[7,0,0,0,1,2,16,11,2,12,2],
@@ -105,12 +106,12 @@ var NAVTREEINDEX55 =
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[5,0,34,7,5,0],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[5,0,34,7,5,2],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[6,0,12,7,5,2],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[5,0,34,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[6,0,12,7,5,1],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[5,0,34,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[5,0,34,7,5,4],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[6,0,12,7,5,4],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[6,0,12,7,5,3],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[5,0,34,7,5,3],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aff9bae997a9ff6dc64b7b60f736527d7":[6,0,12,7,5,3],
 "d2/d31/classspell__madrigosa__activate__barrier.html":[6,0,3562],
 "d2/d31/classspell__madrigosa__activate__barrier.html#a6a0fe507ca7a382122d55e04d3c021d9":[6,0,3562,2],
 "d2/d31/classspell__madrigosa__activate__barrier.html#ad55914fdc6771e09a508572d59ad30ed":[6,0,3562,1],
@@ -161,10 +162,10 @@ var NAVTREEINDEX55 =
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3418,3],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,12,2,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,12,2,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,34,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,12,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,34,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139":[7,0,0,0,1,2,8,1,1,16],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d35/BattlegroundAB_8h.html#a6d6a352719d503f3002b193c412ec53b":[7,0,0,0,1,2,8,1,1,15],
 "d2/d35/BattlegroundAB_8h.html#a6f996d495e116848d3bd6384e501d51e":[7,0,0,0,1,2,8,1,1,17],
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ad":[7,0,0,0,1,2,8,1,1,4],
-"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada0d2696d111c150a16896fc7a9b88af53":[7,0,0,0,1,2,8,1,1,4,1],
-"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada1659f989b2c934ff7bbb18ddf3889f0f":[7,0,0,0,1,2,8,1,1,4,0]
+"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada0d2696d111c150a16896fc7a9b88af53":[7,0,0,0,1,2,8,1,1,4,1]
 };

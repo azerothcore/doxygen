@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#af0e2c615ca136f4fffd1ed41e471f492":[6,0,1320,0,14],
 "d1/df6/namespaceWorldPackets.html#a82e35db0d6b671a4f4a581aac05828dc":[5,0,34,29],
 "d1/df6/namespaceWorldPackets.html#ab21e8e534a45a2a33d69cd11562a45c6":[5,0,34,30],
 "d1/df6/namespaceWorldPackets.html#afb4909c8c4c13b14c8eceda2e9b4246d":[5,0,34,28],
@@ -46,12 +47,12 @@ var NAVTREEINDEX50 =
 "d1/df8/classspell__gen__remove__flight__auras.html#a18913a7455cf3f158136f2d3bb415779":[6,0,3099,1],
 "d1/df8/classspell__gen__remove__flight__auras.html#a913c8c461f291ccaad2f48614c0146c6":[6,0,3099,0],
 "d1/df8/classspell__gen__remove__flight__auras.html#ac24208b646e95d87fbb340d7779cb7c5":[6,0,3099,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html":[6,0,0,60],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
+"d1/df9/structAcore_1_1GameObjectWorker.html":[5,0,1,72],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[6,0,0,60,2],
-"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a47a10a6790179eb5b78cbb66dd9d7b54":[5,0,1,72,2],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[6,0,0,60,1],
+"d1/df9/structAcore_1_1GameObjectWorker.html#a754197d7a9aa3203cda964cbee81ae9a":[5,0,1,72,1],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[5,0,1,72,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#a79dd3983b007d982bbb1f0b33c5c7a54":[6,0,0,60,0],
 "d1/df9/structAcore_1_1GameObjectWorker.html#abeaa251f909368e3ebeeff4dcefbda94":[5,0,1,72,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d09/classspell__hun__pet__heart__of__the__phoenix.html#a169b60644259855f0614271e4769f6b9":[6,0,3235,3],
 "d2/d09/classspell__hun__pet__heart__of__the__phoenix.html#a7313a3d9840d7dc81e5a894e83cb6347":[6,0,3235,1],
 "d2/d09/classspell__hun__pet__heart__of__the__phoenix.html#a9e69eb36c1a2640ff616ae5744c04f4f":[6,0,3235,5],
-"d2/d09/classspell__hun__pet__heart__of__the__phoenix.html#a9e7f8cbc7ec3de507069b69678005da3":[6,0,3235,4],
-"d2/d09/classspell__hun__pet__heart__of__the__phoenix.html#aadfc8a873c72e31d65001ce00518ca45":[6,0,3235,2]
+"d2/d09/classspell__hun__pet__heart__of__the__phoenix.html#a9e7f8cbc7ec3de507069b69678005da3":[6,0,3235,4]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX350 =
 {
+"dd/ddb/class__SpellScript.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443":[6,0,17,12],
+"dd/ddb/class__SpellScript.html#ad3c16df6214a973fca3c62e4bc23f6a6":[6,0,17,5],
+"dd/ddb/class__SpellScript.html#ad501b6dde3e42c3af93589b117e2cafc":[6,0,17,14],
 "dd/ddb/class__SpellScript.html#ae22c1ed4b0e2742ee4c35de03c70d9d8":[6,0,17,7],
 "dd/ddb/class__SpellScript.html#ae2ab4203d324b2179ad06ffdb5d8626f":[6,0,17,20],
 "dd/ddb/class__SpellScript.html#ae85c836ab2da173942a40b53561df1fb":[6,0,17,6],
@@ -213,14 +216,14 @@ var NAVTREEINDEX350 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0],
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[5,0,1,27,0],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html":[6,0,3148],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a570bb63c6ed7af58b0b886e8a954dea9":[6,0,3148,3],
 "dd/deb/classspell__grobbulus__mutating__injection__aura.html#a7c81c567ae10bf4fd4d3c1eb480b5761":[6,0,3148,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX350 =
 "dd/dec/classChannelMgr.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9":[6,0,863,14],
 "dd/ded/classat__karazhan__side__entrance.html":[6,0,237],
 "dd/ded/classat__karazhan__side__entrance.html#a80d0018a9442ef7f0834dc329047e135":[6,0,237,1],
-"dd/ded/classat__karazhan__side__entrance.html#abdaa7339a53941e2e89c4fcd439395fc":[6,0,237,0],
-"dd/ded/classspell__item__goblin__weather__machine__aura.html":[6,0,3383],
-"dd/ded/classspell__item__goblin__weather__machine__aura.html#a0bc1dae33d0a780623f4551b1dfb1fbf":[6,0,3383,2],
-"dd/ded/classspell__item__goblin__weather__machine__aura.html#a9b3985c6f2b1b88ab86ec38c8508fc16":[6,0,3383,1]
+"dd/ded/classat__karazhan__side__entrance.html#abdaa7339a53941e2e89c4fcd439395fc":[6,0,237,0]
 };

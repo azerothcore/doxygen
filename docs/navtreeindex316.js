@@ -1,5 +1,8 @@
 var NAVTREEINDEX316 =
 {
+"dc/d44/classboss__sjonnir__iron__sludge.html":[6,0,715],
+"dc/d44/classboss__sjonnir__iron__sludge.html#a2d077bfeac6479d83240ee00ca5aa0e0":[6,0,715,2],
+"dc/d44/classboss__sjonnir__iron__sludge.html#ae1c523266aab3e8e2c337dede7390c7b":[6,0,715,1],
 "dc/d44/classspell__halion__meteor__strike__targeting.html":[6,0,3170],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a2cf4ee02293cee5e383e99efe14e0008":[6,0,3170,3],
 "dc/d44/classspell__halion__meteor__strike__targeting.html#a82d88c5dac164eb9dee9883a91edd0df":[6,0,3170,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506":[7,0,0,0,1,2,26,2,0,9],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b5d78f04f1f0d7d3b5bb5d7611adfba":[7,0,0,0,1,2,26,2,0,127],
 "dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1b7c08f3769b14c85ccd9b592323252e":[7,0,0,0,1,2,26,2,0,42],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1c45a09bb36f6d74685c180cb859a623":[7,0,0,0,1,2,26,2,0,16],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1ef74df5f0b7ad15e4af5a8aaf43f2cc":[7,0,0,0,1,2,26,2,0,156],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a213eafa2cb946183680992f7c9fbdf6b":[7,0,0,0,1,2,26,2,0,143],
-"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a2586636bdb8cfe2c9e37c164b9c88e14":[7,0,0,0,1,2,26,2,0,61]
+"dc/d4b/AreaDefines_8h.html#ad26fccabf338d55f9fdcce090c8a0aa3a1c45a09bb36f6d74685c180cb859a623":[7,0,0,0,1,2,26,2,0,16]
 };
