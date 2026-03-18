@@ -1,5 +1,8 @@
 var NAVTREEINDEX324 =
 {
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#a7b9a31e79d13af130566cda1fcb5dac1":[6,0,2735,2],
+"dc/db2/classspell__calling__korkron__or__wildhammer.html#aa858fff409e5c75d865c91cb5fbef679":[6,0,2735,0],
+"dc/db3/boss__archimonde_8cpp.html":[7,0,0,0,1,3,4,1,0,1],
 "dc/db3/boss__archimonde_8cpp.html#a14d49738c82a5651ad3c70613f6a8aa4":[7,0,0,0,1,3,4,1,0,1,10],
 "dc/db3/boss__archimonde_8cpp.html#a2dce2637e8e3adb0edaeaea16d8005bc":[7,0,0,0,1,3,4,1,0,1,12],
 "dc/db3/boss__archimonde_8cpp.html#a41a857b62f9d6c353a81cc935789d697":[7,0,0,0,1,3,4,1,0,1,11],
@@ -246,8 +249,5 @@ var NAVTREEINDEX324 =
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html#a0fa160f1218cf838444f894716cb8aed":[6,0,2721,1],
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html#a2a6816d9ab97abddfa20cd6413a94178":[6,0,2721,2],
 "dc/dbf/classspell__brewfest__relay__race__force__cast.html#a71f8c9bad4a102914a1047ef61d20f92":[6,0,2721,0],
-"dc/dbf/structboss__priestess__lackey__commonAI.html":[6,0,671],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a23aaa0a619470898dd617a18130ca17b":[6,0,671,7],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2b7ccbf195658e402ba6f276b18e3551":[6,0,671,11],
-"dc/dbf/structboss__priestess__lackey__commonAI.html#a2e0e387ae4645c9bbd4625d1469403a8":[6,0,671,3]
+"dc/dbf/structboss__priestess__lackey__commonAI.html":[6,0,671]
 };

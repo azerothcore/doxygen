@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d16/structnpc__spring__rabbit_1_1npc__spring__rabbitAI.html#af838b25c8442767aaef16e95022cb062":[6,0,2155,0,8],
 "d2/d16/structnpc__spring__rabbit_1_1npc__spring__rabbitAI.html#af9da118068234755fa9219b84050d2a3":[6,0,2155,0,4],
 "d2/d17/classspell__black__temple__summon__shadowfiends.html":[6,0,2688],
 "d2/d17/classspell__black__temple__summon__shadowfiends.html#a0038e566bc5054e4208fd727fcc266fa":[6,0,2688,0],
@@ -10,12 +11,12 @@ var NAVTREEINDEX52 =
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#a147d8a6d95f011f27600d052ef7b4000":[6,0,295,1,1],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab6e675b4db931c601b3d6aef65ae0ff6":[6,0,295,1,0],
 "d2/d19/classAuraScript_1_1AuraDispelHandler.html#ab7dd73a36aa517354a023deb7db0cf19":[6,0,295,1,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[6,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[5,0,1,7,0,3],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,1,7,0,3,2],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html":[6,0,0,4,0,3],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[6,0,0,4,0,3,2],
-"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,1,7,0,3,1],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a08484916162055a368e768b9f5300047":[5,0,1,7,0,3,2],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[6,0,0,4,0,3,1],
+"d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a1f5494d3c3472abbf8783026015b5f70":[5,0,1,7,0,3,1],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[6,0,0,4,0,3,0],
 "d2/d19/structAcore_1_1Hyperlinks_1_1LinkTags_1_1glyph.html#a9297944511f34279a6439ade9d83b0c6":[5,0,1,7,0,3,0],
 "d2/d19/structAuthHandler.html":[6,0,305],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d1e/classInstanceScript.html#aedd4eef2e0653d655e20fdd5343b372e":[6,0,1387,25],
 "d2/d1e/classInstanceScript.html#aef0bfc4bd8c254d754202afe4a16bf0b":[6,0,1387,69],
 "d2/d1e/classInstanceScript.html#af16437156dbc2c7b111f0478b3d3e048":[6,0,1387,54],
-"d2/d1e/classInstanceScript.html#af245e9c6f05b94e3ca41f7f25915db95":[6,0,1387,81],
-"d2/d1e/classInstanceScript.html#af5cfdb2fbf92acc21fd1eef22f92a03c":[6,0,1387,11]
+"d2/d1e/classInstanceScript.html#af245e9c6f05b94e3ca41f7f25915db95":[6,0,1387,81]
 };

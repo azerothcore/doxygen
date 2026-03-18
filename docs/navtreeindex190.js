@@ -1,5 +1,8 @@
 var NAVTREEINDEX190 =
 {
+"d7/d0e/classspell__spawn__blood__pool.html#a47d6dbe250410458fe54421158545efb":[6,0,4112,0],
+"d7/d0e/classspell__spawn__blood__pool.html#aa037240eae1a1dd2c2670fed7dcc4e8c":[6,0,4112,2],
+"d7/d0e/classspell__spawn__blood__pool.html#ae2334b3fcfa916eb4b9ae1ca85a9687e":[6,0,4112,1],
 "d7/d0e/structPassengerInfo.html":[6,0,2396],
 "d7/d0e/structPassengerInfo.html#a037411c58c414d0c5a39915b7acd578d":[6,0,2396,2],
 "d7/d0e/structPassengerInfo.html#a738a014abc8cb5df525642acc218576b":[6,0,2396,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX190 =
 "d7/d21/cs__quest_8cpp.html":[7,0,0,0,1,3,0,37],
 "d7/d21/cs__quest_8cpp.html#ae9edb5f21eaacbfd73cc01543cb2fcdd":[7,0,0,0,1,3,0,37,1],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html":[7,0,0,0,1,3,2,1,3,9],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a311f82bbe3d21c6f1a7e9d5330558a8d":[7,0,0,0,1,3,2,1,3,9,6],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,3,9,5],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca307882d908ad05c14d5db70f3a0ddff9":[7,0,0,0,1,3,2,1,3,9,5,1],
-"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dc0b509ffe06922dcec8a51670f63cf":[7,0,0,0,1,3,2,1,3,9,5,4]
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a311f82bbe3d21c6f1a7e9d5330558a8d":[7,0,0,0,1,3,2,1,3,9,6]
 };

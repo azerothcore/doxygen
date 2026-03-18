@@ -69,6 +69,7 @@ var classPlayerScript =
     [ "OnPlayerCanJoinInArenaQueue", "d0/d5b/classPlayerScript.html#ad43d75de0c95360d8ce296d2415613e2", null ],
     [ "OnPlayerCanJoinInBattlegroundQueue", "d0/d5b/classPlayerScript.html#a20848bb0164df83c152f4a7de89b14ec", null ],
     [ "OnPlayerCanJoinLfg", "d0/d5b/classPlayerScript.html#a9fb3b566553250bf325cf4b9c0ed7c92", null ],
+    [ "OnPlayerCanLearnTalent", "d0/d5b/classPlayerScript.html#a4f4f8a7c5eb4f93e487fef760d1b8a87", null ],
     [ "OnPlayerCanPlaceAuctionBid", "d0/d5b/classPlayerScript.html#a3b94bc0974c5f7564fd98b848546b676", null ],
     [ "OnPlayerCanRepopAtGraveyard", "d0/d5b/classPlayerScript.html#aa78bd0f92ec5282196d3723fe0488d64", null ],
     [ "OnPlayerCanResurrect", "d0/d5b/classPlayerScript.html#a6383a1107e66713eaceee27a08f869e8", null ],

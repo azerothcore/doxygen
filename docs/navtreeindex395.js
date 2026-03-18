@@ -1,5 +1,9 @@
 var NAVTREEINDEX395 =
 {
+"df/d27/DatabaseWorkerPool_8cpp.html#a8751940b74a554bf0a86046325e0c5ed":[7,0,0,0,1,1,0,10,3],
+"df/d27/DatabaseWorkerPool_8cpp.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18":[7,0,0,0,1,1,0,10,2],
+"df/d27/classnpc__magwin.html":[6,0,1970],
+"df/d27/classnpc__magwin.html#a1a45602fd312a4c436b09fb7b90ac1d4":[6,0,1970,1],
 "df/d27/classnpc__magwin.html#a83bee0fd5c1494f2bb732fe9e0ed1594":[6,0,1970,2],
 "df/d27/classspell__gen__bm__off.html":[6,0,3002],
 "df/d27/classspell__gen__bm__off.html#a0ca6ec06108f964432f1cafc00b96313":[6,0,3002,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX395 =
 "df/d33/structWintergraspTeleporterData.html#ac9ff501bbf00d80f5b9350a78ffbb6fb":[6,0,4610,4],
 "df/d33/structWintergraspTeleporterData.html#af2bf42b7d1a18e7ee1125a305ee7bc79":[6,0,4610,1],
 "df/d34/structNotOnSameSide.html":[6,0,1591],
-"df/d34/structNotOnSameSide.html#a59ea48b9633049180ec62d3616fe4dea":[6,0,1591,1],
-"df/d34/structNotOnSameSide.html#a77c1d18f54609a5f4da2e9c13f62293d":[6,0,1591,2],
-"df/d34/structNotOnSameSide.html#ac3189b202a8c0ca4c8f52799ed54e284":[6,0,1591,0],
-"df/d36/classRedirectSpellEvent.html":[6,0,2519],
-"df/d36/classRedirectSpellEvent.html#a010f14a7d389b4e9ae9896061fa18a65":[6,0,2519,2]
+"df/d34/structNotOnSameSide.html#a59ea48b9633049180ec62d3616fe4dea":[6,0,1591,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX108 =
 {
+"d3/da6/BattlegroundRV_8h.html#abfa3c262a87e3676b902ea7d76e7f6c2afd39bfaa9b3aafc5af644dcf29ee25ef":[7,0,0,0,1,2,8,1,17,2,2],
+"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34c":[7,0,0,0,1,2,8,1,17,1],
+"d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15":[7,0,0,0,1,2,8,1,17,1,1],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34cabd4e313e8dca8e6cd60540a49cab8733":[7,0,0,0,1,2,8,1,17,1,2],
 "d3/da6/BattlegroundRV_8h.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5":[7,0,0,0,1,2,8,1,17,1,0],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html":[6,0,3077],
@@ -228,10 +231,10 @@ var NAVTREEINDEX108 =
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[6,0,12,10,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,12,10,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,34,10,16,5],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,10,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,34,10,16,2],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,34,10,16,0],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,10,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[6,0,12,10,16,0],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,34,10,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[6,0,12,10,16,4],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[5,0,34,10,16,4],
 "d3/daf/classspell__igb__rocket__artillery.html":[6,0,3279],
@@ -246,8 +249,5 @@ var NAVTREEINDEX108 =
 "d3/daf/classspell__pal__immunities.html#a5fc226206c08aa65459c144cd5f34c6c":[6,0,3729,0],
 "d3/daf/classspell__pal__immunities.html#a767853d4b05e055cb32991bfe8c6516a":[6,0,3729,4],
 "d3/daf/zone__feralas_8cpp.html":[7,0,0,0,1,3,4,22],
-"d3/daf/zone__feralas_8cpp.html#a06e54e3edc2df068be660ac788b402e3":[7,0,0,0,1,3,4,22,2],
-"d3/daf/zone__feralas_8cpp.html#ae11511f5835ecdfec73fde1f9f29431c":[7,0,0,0,1,3,4,22,1],
-"d3/daf/zone__feralas_8cpp.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab":[7,0,0,0,1,3,4,22,1,0],
-"d3/db0/boss__arlokk_8cpp.html":[7,0,0,0,1,3,2,16,0]
+"d3/daf/zone__feralas_8cpp.html#a06e54e3edc2df068be660ac788b402e3":[7,0,0,0,1,3,4,22,2]
 };

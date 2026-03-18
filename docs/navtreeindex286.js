@@ -1,5 +1,8 @@
 var NAVTREEINDEX286 =
 {
+"db/d50/structVehicleAccessory.html#afc843c62c580c860471b0e49f5901363":[6,0,4556,4],
+"db/d51/classspell__dk__death__gate.html":[6,0,2805],
+"db/d51/classspell__dk__death__gate.html#a4f4f7004be5629efdc48b52b6667edba":[6,0,2805,1],
 "db/d51/classspell__dk__death__gate.html#a599ce758681c5196bd40e4c7b86635cc":[6,0,2805,2],
 "db/d51/classspell__dk__death__gate.html#a931d7a6aa2f1b574c225d3e803edbab4":[6,0,2805,0],
 "db/d51/classspell__dk__death__gate.html#ab184b23aa446c826db39928eb3ff3ecc":[6,0,2805,3],
@@ -66,10 +69,10 @@ var NAVTREEINDEX286 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[6,0,3181],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[6,0,3181,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[6,0,3181,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX286 =
 "db/d5c/classWarden.html#ac5a815f5f6527a3588c6cd138a02f7d2":[6,0,4572,22],
 "db/d5c/classWarden.html#acf842c95b7d7ab5eb5a4f539a487d449":[6,0,4572,11],
 "db/d5c/classWarden.html#ae4d9116061d9e4544e5f4291fd2f7428":[6,0,4572,17],
-"db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e":[6,0,4572,3],
-"db/d5c/classWarden.html#aef445e5a6406a0bb5874c3de8f42bd88":[6,0,4572,38],
-"db/d5c/classWarden.html#af79f135bbac6904b2f80485ae838f570":[6,0,4572,13],
-"db/d5c/classWarden.html#afa01784ae3fa6815dd7f746f52ffb4b4":[6,0,4572,32]
+"db/d5c/classWarden.html#ae6327ec057f90a964e8c48eff3de994e":[6,0,4572,3]
 };

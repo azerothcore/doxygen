@@ -1,5 +1,8 @@
 var NAVTREEINDEX328 =
 {
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368":[7,0,0,0,1,3,2,12,6,10,1],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b":[7,0,0,0,1,3,2,12,6,10,0],
+"dc/de1/instance__sunwell__plateau_8cpp.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e":[7,0,0,0,1,3,2,12,6,10,2],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,2,12,6,12],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8":[7,0,0,0,1,3,2,12,6,8],
 "dc/de1/instance__sunwell__plateau_8cpp.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a":[7,0,0,0,1,3,2,12,6,8,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX328 =
 "dc/df0/DBUpdater_8h.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550":[7,0,0,0,1,1,3,1,3,0],
 "dc/df0/classgo__broggok__lever.html":[6,0,1148],
 "dc/df0/classgo__broggok__lever.html#af00fe1da1cfa40dc3ece286cef45090c":[6,0,1148,1],
-"dc/df0/classgo__broggok__lever.html#af91c2e283c357d2f38c9932dcfb5c375":[6,0,1148,0],
-"dc/df0/classnpc__hourglass__of__eternity.html":[6,0,1876],
-"dc/df0/classnpc__hourglass__of__eternity.html#a40500ff582ead06bd646be86baad7d35":[6,0,1876,1],
-"dc/df0/classnpc__hourglass__of__eternity.html#a6cdec424e78e5c9decac73d091eec0ed":[6,0,1876,2]
+"dc/df0/classgo__broggok__lever.html#af91c2e283c357d2f38c9932dcfb5c375":[6,0,1148,0]
 };

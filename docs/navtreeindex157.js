@@ -1,5 +1,8 @@
 var NAVTREEINDEX157 =
 {
+"d5/db3/structnpc__amanishi__tempest.html#ab88e1d1ad979192f0519045d8ed2e14f":[6,0,1611,10],
+"d5/db3/structnpc__amanishi__tempest.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d":[6,0,1611,9],
+"d5/db3/structnpc__amanishi__tempest.html#af277f5d1f73cf79ea8cfcb1e4fc744e3":[6,0,1611,4],
 "d5/db4/classspell__crashing__wave.html":[6,0,2760],
 "d5/db4/classspell__crashing__wave.html#a1b3458fc865d320050fae1ffeb4c7b5d":[6,0,2760,1],
 "d5/db4/classspell__crashing__wave.html#a58d28dea272b1237cf60efb45d67765d":[6,0,2760,2],
@@ -243,11 +246,8 @@ var NAVTREEINDEX157 =
 "d5/dbf/classspell__dk__threat__of__thassarian.html#a393909e3765443aa4930d8036c36b132":[6,0,2841,0],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#aeaacd337fd8a02e7c19ead8912fc68d9":[6,0,2841,1],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#af37fd1db3dc6cbbe985734853ea59109":[6,0,2841,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,1,105],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[6,0,0,93],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,1,105],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[6,0,0,93,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,1,105,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,1,105,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[6,0,0,93,1]
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,1,105,0]
 };

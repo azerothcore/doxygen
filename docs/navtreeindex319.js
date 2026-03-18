@@ -1,5 +1,8 @@
 var NAVTREEINDEX319 =
 {
+"dc/d66/classWMOGroup.html#a2e022922ced7ed76ae88abcab1ee36d6":[6,0,4615,28],
+"dc/d66/classWMOGroup.html#a2e5e1e025b036e40d3e25c5bd5bd5e10":[6,0,4615,31],
+"dc/d66/classWMOGroup.html#a2fb13fd2ca9f92720c57110436140a89":[6,0,4615,11],
 "dc/d66/classWMOGroup.html#a313188e09699e7e1c6a83e13e9885ce9":[6,0,4615,12],
 "dc/d66/classWMOGroup.html#a387406120b3c91dac872a4ab66e7bfc1":[6,0,4615,24],
 "dc/d66/classWMOGroup.html#a3dd16ad2acc44ffac305ca53e58f088f":[6,0,4615,10],
@@ -73,10 +76,10 @@ var NAVTREEINDEX319 =
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a16e5b9fa05e35fa1e32e33bef2688487":[6,0,12,18,3],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[6,0,12,18,1],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#a1cdaaacca2695c4366647c7611073ff0":[5,0,34,18,1],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,34,18,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[6,0,12,18,0],
-"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,34,18,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa1d1946c07e248bae5927e83fdad9500":[5,0,34,18,0],
 "dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[6,0,12,18,2],
+"dc/d6d/classWorldPackets_1_1ClientPacket.html#aa51558bb8faa96a665fe40b1bddf9d14":[5,0,34,18,2],
 "dc/d6d/classgo__crystalline__tear.html":[6,0,1153],
 "dc/d6d/classgo__crystalline__tear.html#a4efd6b2b8ca37462ba3a26d05f01ec2d":[6,0,1153,1],
 "dc/d6d/classgo__crystalline__tear.html#a9e19c6538ecd1a758f2639171321d965":[6,0,1153,0],
@@ -110,10 +113,10 @@ var NAVTREEINDEX319 =
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f":[7,0,0,0,1,3,10,1,3,1],
 "dc/d6f/action__ip__logger_8cpp.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7":[7,0,0,0,1,3,10,1,3,10],
 "dc/d6f/action__ip__logger_8cpp.html#a530be5efb251d5ca58e97804e48ad953":[7,0,0,0,1,3,10,1,4],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[5,0,1,29],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[6,0,0,17],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[6,0,0,17,1],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[5,0,1,29],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,1,29,1],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[6,0,0,17,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,17,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,1,29,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,17,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d78/classboss__infinite__corruptor.html#ab6eaf2f9d1928817e45b092a3a87bda4":[6,0,562,2],
 "dc/d79/ServiceWin32_8h.html":[7,0,0,0,0,12,1],
 "dc/d79/classSocialMgr.html":[6,0,2607],
-"dc/d79/classSocialMgr.html#a223f3d7811d8c360da7f467b70af808f":[6,0,2607,5],
-"dc/d79/classSocialMgr.html#a2b80fa18a6f1ed54fda7719867f45ebd":[6,0,2607,0],
-"dc/d79/classSocialMgr.html#a2f8a276598ad01d350aa245fcef82a7a":[6,0,2607,10],
-"dc/d79/classSocialMgr.html#a3cff8262ce10d2e8c8c38dc834230545":[6,0,2607,1]
+"dc/d79/classSocialMgr.html#a223f3d7811d8c360da7f467b70af808f":[6,0,2607,5]
 };

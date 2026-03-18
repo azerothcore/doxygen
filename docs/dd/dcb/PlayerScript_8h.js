@@ -16,6 +16,7 @@ var PlayerScript_8h =
       [ "PLAYERHOOK_ON_LEVEL_CHANGED", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4bf1cfaeec7a2b9f9aa56f6d372b507", null ],
       [ "PLAYERHOOK_ON_FREE_TALENT_POINTS_CHANGED", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab70d80d23c1fe1e07425d9624bfef614", null ],
       [ "PLAYERHOOK_ON_TALENTS_RESET", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aa3c8ae160547aae5db74400fbca0b172", null ],
+      [ "PLAYERHOOK_CAN_LEARN_TALENT", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a687d65d077a657fc0a584e8282a9ab3f", null ],
       [ "PLAYERHOOK_ON_AFTER_SPEC_SLOT_CHANGED", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a8043837a5a24b20e0a818edd643f47b0", null ],
       [ "PLAYERHOOK_ON_BEFORE_UPDATE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a46b45eff4b16d8894f96a1d46d60d6a9", null ],
       [ "PLAYERHOOK_ON_UPDATE", "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357a61781f07e1030f0042df1878535a17a7", null ],

@@ -1895,78 +1895,78 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">12855</span>{</div>
-<div class="line"><span class="lineno">12856</span>    <span class="keywordflow">if</span> (spellInfo)</div>
-<div class="line"><span class="lineno">12857</span>    {</div>
-<div class="line"><span class="lineno">12858</span>        <span class="keywordflow">switch</span> (spellInfo-&gt;DmgClass)</div>
-<div class="line"><span class="lineno">12859</span>        {</div>
-<div class="line"><span class="lineno">12860</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4a44c25232e532dcd5a47b225f2e531093">SPELL_DAMAGE_CLASS_MAGIC</a>:</div>
-<div class="line"><span class="lineno">12861</span>                <span class="keywordflow">if</span> (positive)</div>
-<div class="line"><span class="lineno">12862</span>                {</div>
-<div class="line"><span class="lineno">12863</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">12864</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">12865</span>                }</div>
-<div class="line"><span class="lineno">12866</span>                <span class="keywordflow">else</span></div>
+<div class="fragment"><div class="line"><span class="lineno">12848</span>{</div>
+<div class="line"><span class="lineno">12849</span>    <span class="keywordflow">if</span> (spellInfo)</div>
+<div class="line"><span class="lineno">12850</span>    {</div>
+<div class="line"><span class="lineno">12851</span>        <span class="keywordflow">switch</span> (spellInfo-&gt;DmgClass)</div>
+<div class="line"><span class="lineno">12852</span>        {</div>
+<div class="line"><span class="lineno">12853</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4a44c25232e532dcd5a47b225f2e531093">SPELL_DAMAGE_CLASS_MAGIC</a>:</div>
+<div class="line"><span class="lineno">12854</span>                <span class="keywordflow">if</span> (positive)</div>
+<div class="line"><span class="lineno">12855</span>                {</div>
+<div class="line"><span class="lineno">12856</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
+<div class="line"><span class="lineno">12857</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
+<div class="line"><span class="lineno">12858</span>                }</div>
+<div class="line"><span class="lineno">12859</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">12860</span>                {</div>
+<div class="line"><span class="lineno">12861</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">12862</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">12863</span>                }</div>
+<div class="line"><span class="lineno">12864</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">12865</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4a5aee25f13be5fe04f98537e1da06a615">SPELL_DAMAGE_CLASS_NONE</a>:</div>
+<div class="line"><span class="lineno">12866</span>                <span class="keywordflow">if</span> (positive)</div>
 <div class="line"><span class="lineno">12867</span>                {</div>
-<div class="line"><span class="lineno">12868</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">12869</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">12868</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a6d76a272a9d09c21d6959afdccf27119">PROC_FLAG_DONE_SPELL_NONE_DMG_CLASS_POS</a>;</div>
+<div class="line"><span class="lineno">12869</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6acf742e65ebea270b541f0f374f54ece4">PROC_FLAG_TAKEN_SPELL_NONE_DMG_CLASS_POS</a>;</div>
 <div class="line"><span class="lineno">12870</span>                }</div>
-<div class="line"><span class="lineno">12871</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">12872</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4a5aee25f13be5fe04f98537e1da06a615">SPELL_DAMAGE_CLASS_NONE</a>:</div>
-<div class="line"><span class="lineno">12873</span>                <span class="keywordflow">if</span> (positive)</div>
-<div class="line"><span class="lineno">12874</span>                {</div>
-<div class="line"><span class="lineno">12875</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a6d76a272a9d09c21d6959afdccf27119">PROC_FLAG_DONE_SPELL_NONE_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">12876</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6acf742e65ebea270b541f0f374f54ece4">PROC_FLAG_TAKEN_SPELL_NONE_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">12877</span>                }</div>
-<div class="line"><span class="lineno">12878</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">12879</span>                {</div>
-<div class="line"><span class="lineno">12880</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ab47347c9f4b3ba1255744ba7c0a1e007">PROC_FLAG_DONE_SPELL_NONE_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">12881</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aaf9170997f464e7fb1c87b84bb38651a">PROC_FLAG_TAKEN_SPELL_NONE_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">12882</span>                }</div>
-<div class="line"><span class="lineno">12883</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">12884</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4ad6e0146bc0d96e2ff12e902b53a29fe3">SPELL_DAMAGE_CLASS_MELEE</a>:</div>
-<div class="line"><span class="lineno">12885</span>                procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>;</div>
-<div class="line"><span class="lineno">12886</span>                <span class="keywordflow">if</span> (attackType == <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a052681ec165e5b5e3edcf2089607ae67">OFF_ATTACK</a>)</div>
-<div class="line"><span class="lineno">12887</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af35f6e787a7269cd40370e1d4b8d48d6">PROC_FLAG_DONE_OFFHAND_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12888</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">12889</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae5fc43a8846ce78d4f02d7fe2ca5ee8">PROC_FLAG_DONE_MAINHAND_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12890</span>                procVictim = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c">PROC_FLAG_TAKEN_SPELL_MELEE_DMG_CLASS</a>;</div>
-<div class="line"><span class="lineno">12891</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">12892</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4a26638bd2ee5365a4b278420b7dc66956">SPELL_DAMAGE_CLASS_RANGED</a>:</div>
-<div class="line"><span class="lineno">12893</span>                <span class="comment">// Auto attack</span></div>
-<div class="line"><span class="lineno">12894</span>                <span class="keywordflow">if</span> (spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668a060a09d1c3e79f4d89e98c53d4a5aed6">SPELL_ATTR2_AUTO_REPEAT</a>))</div>
-<div class="line"><span class="lineno">12895</span>                {</div>
-<div class="line"><span class="lineno">12896</span>                    procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12897</span>                    procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3893c541596a829d5bc2dcbe9af2ecb7">PROC_FLAG_TAKEN_RANGED_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12898</span>                }</div>
-<div class="line"><span class="lineno">12899</span>                <span class="keywordflow">else</span> <span class="comment">// Ranged spell attack</span></div>
-<div class="line"><span class="lineno">12900</span>                {</div>
-<div class="line"><span class="lineno">12901</span>                    procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a2104a6deae3549ac25a6859286168d28">PROC_FLAG_DONE_SPELL_RANGED_DMG_CLASS</a>;</div>
-<div class="line"><span class="lineno">12902</span>                    procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a92ea6e4f95430b1579ae29b233f1e1ed">PROC_FLAG_TAKEN_SPELL_RANGED_DMG_CLASS</a>;</div>
-<div class="line"><span class="lineno">12903</span>                }</div>
-<div class="line"><span class="lineno">12904</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">12905</span>            <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">12906</span>                <span class="keywordflow">if</span> (spellInfo-&gt;EquippedItemClass == <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a> &amp;&amp;</div>
-<div class="line"><span class="lineno">12907</span>                        spellInfo-&gt;EquippedItemSubClassMask &amp; (1 &lt;&lt; <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556acfba60aacffd401146e4b0eefcb3dc48">ITEM_SUBCLASS_WEAPON_WAND</a>)</div>
-<div class="line"><span class="lineno">12908</span>                        &amp;&amp; spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668a060a09d1c3e79f4d89e98c53d4a5aed6">SPELL_ATTR2_AUTO_REPEAT</a>)) <span class="comment">// Wands auto attack</span></div>
-<div class="line"><span class="lineno">12909</span>                {</div>
-<div class="line"><span class="lineno">12910</span>                    procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12911</span>                    procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3893c541596a829d5bc2dcbe9af2ecb7">PROC_FLAG_TAKEN_RANGED_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12912</span>                }</div>
-<div class="line"><span class="lineno">12913</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">12914</span>        }</div>
-<div class="line"><span class="lineno">12915</span>    }</div>
-<div class="line"><span class="lineno">12916</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (attackType == <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>)</div>
-<div class="line"><span class="lineno">12917</span>    {</div>
-<div class="line"><span class="lineno">12918</span>        procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a> | <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae5fc43a8846ce78d4f02d7fe2ca5ee8">PROC_FLAG_DONE_MAINHAND_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12919</span>        procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12920</span>    }</div>
-<div class="line"><span class="lineno">12921</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (attackType == <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a052681ec165e5b5e3edcf2089607ae67">OFF_ATTACK</a>)</div>
-<div class="line"><span class="lineno">12922</span>    {</div>
-<div class="line"><span class="lineno">12923</span>        procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a> | <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af35f6e787a7269cd40370e1d4b8d48d6">PROC_FLAG_DONE_OFFHAND_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12924</span>        procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">12925</span>    }</div>
-<div class="line"><span class="lineno">12926</span>}</div>
+<div class="line"><span class="lineno">12871</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">12872</span>                {</div>
+<div class="line"><span class="lineno">12873</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ab47347c9f4b3ba1255744ba7c0a1e007">PROC_FLAG_DONE_SPELL_NONE_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">12874</span>                    procVictim   |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aaf9170997f464e7fb1c87b84bb38651a">PROC_FLAG_TAKEN_SPELL_NONE_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">12875</span>                }</div>
+<div class="line"><span class="lineno">12876</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">12877</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4ad6e0146bc0d96e2ff12e902b53a29fe3">SPELL_DAMAGE_CLASS_MELEE</a>:</div>
+<div class="line"><span class="lineno">12878</span>                procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>;</div>
+<div class="line"><span class="lineno">12879</span>                <span class="keywordflow">if</span> (attackType == <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a052681ec165e5b5e3edcf2089607ae67">OFF_ATTACK</a>)</div>
+<div class="line"><span class="lineno">12880</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af35f6e787a7269cd40370e1d4b8d48d6">PROC_FLAG_DONE_OFFHAND_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12881</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">12882</span>                    procAttacker |= <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae5fc43a8846ce78d4f02d7fe2ca5ee8">PROC_FLAG_DONE_MAINHAND_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12883</span>                procVictim = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c">PROC_FLAG_TAKEN_SPELL_MELEE_DMG_CLASS</a>;</div>
+<div class="line"><span class="lineno">12884</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">12885</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a7443b708d5bd7312fc0a420679ae10a4a26638bd2ee5365a4b278420b7dc66956">SPELL_DAMAGE_CLASS_RANGED</a>:</div>
+<div class="line"><span class="lineno">12886</span>                <span class="comment">// Auto attack</span></div>
+<div class="line"><span class="lineno">12887</span>                <span class="keywordflow">if</span> (spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668a060a09d1c3e79f4d89e98c53d4a5aed6">SPELL_ATTR2_AUTO_REPEAT</a>))</div>
+<div class="line"><span class="lineno">12888</span>                {</div>
+<div class="line"><span class="lineno">12889</span>                    procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12890</span>                    procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3893c541596a829d5bc2dcbe9af2ecb7">PROC_FLAG_TAKEN_RANGED_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12891</span>                }</div>
+<div class="line"><span class="lineno">12892</span>                <span class="keywordflow">else</span> <span class="comment">// Ranged spell attack</span></div>
+<div class="line"><span class="lineno">12893</span>                {</div>
+<div class="line"><span class="lineno">12894</span>                    procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a2104a6deae3549ac25a6859286168d28">PROC_FLAG_DONE_SPELL_RANGED_DMG_CLASS</a>;</div>
+<div class="line"><span class="lineno">12895</span>                    procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a92ea6e4f95430b1579ae29b233f1e1ed">PROC_FLAG_TAKEN_SPELL_RANGED_DMG_CLASS</a>;</div>
+<div class="line"><span class="lineno">12896</span>                }</div>
+<div class="line"><span class="lineno">12897</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">12898</span>            <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">12899</span>                <span class="keywordflow">if</span> (spellInfo-&gt;EquippedItemClass == <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a> &amp;&amp;</div>
+<div class="line"><span class="lineno">12900</span>                        spellInfo-&gt;EquippedItemSubClassMask &amp; (1 &lt;&lt; <a class="code hl_enumvalue" href="../../db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556acfba60aacffd401146e4b0eefcb3dc48">ITEM_SUBCLASS_WEAPON_WAND</a>)</div>
+<div class="line"><span class="lineno">12901</span>                        &amp;&amp; spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668a060a09d1c3e79f4d89e98c53d4a5aed6">SPELL_ATTR2_AUTO_REPEAT</a>)) <span class="comment">// Wands auto attack</span></div>
+<div class="line"><span class="lineno">12902</span>                {</div>
+<div class="line"><span class="lineno">12903</span>                    procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12904</span>                    procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3893c541596a829d5bc2dcbe9af2ecb7">PROC_FLAG_TAKEN_RANGED_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12905</span>                }</div>
+<div class="line"><span class="lineno">12906</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">12907</span>        }</div>
+<div class="line"><span class="lineno">12908</span>    }</div>
+<div class="line"><span class="lineno">12909</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (attackType == <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>)</div>
+<div class="line"><span class="lineno">12910</span>    {</div>
+<div class="line"><span class="lineno">12911</span>        procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a> | <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae5fc43a8846ce78d4f02d7fe2ca5ee8">PROC_FLAG_DONE_MAINHAND_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12912</span>        procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12913</span>    }</div>
+<div class="line"><span class="lineno">12914</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (attackType == <a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a052681ec165e5b5e3edcf2089607ae67">OFF_ATTACK</a>)</div>
+<div class="line"><span class="lineno">12915</span>    {</div>
+<div class="line"><span class="lineno">12916</span>        procAttacker = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a> | <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6af35f6e787a7269cd40370e1d4b8d48d6">PROC_FLAG_DONE_OFFHAND_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12917</span>        procVictim   = <a class="code hl_enumvalue" href="../../de/d30/SpellMgr_8h.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">12918</span>    }</div>
+<div class="line"><span class="lineno">12919</span>}</div>
 <div class="ttc" id="aItemTemplate_8h_html_a10e11b09bccd6b87211d851310d1e556acfba60aacffd401146e4b0eefcb3dc48"><div class="ttname"><a href="../../db/d8b/ItemTemplate_8h.html#a10e11b09bccd6b87211d851310d1e556acfba60aacffd401146e4b0eefcb3dc48">ITEM_SUBCLASS_WEAPON_WAND</a></div><div class="ttdeci">@ ITEM_SUBCLASS_WEAPON_WAND</div><div class="ttdef"><b>Definition</b> ItemTemplate.h:363</div></div>
 <div class="ttc" id="aItemTemplate_8h_html_ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a"><div class="ttname"><a href="../../db/d8b/ItemTemplate_8h.html#ab76605e05d3b13f61472b9a89cd22a68aeaefdfc527a31c7c733104c01368ac2a">ITEM_CLASS_WEAPON</a></div><div class="ttdeci">@ ITEM_CLASS_WEAPON</div><div class="ttdef"><b>Definition</b> ItemTemplate.h:293</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a583cc1b9a8909370e4d51a890d897668a060a09d1c3e79f4d89e98c53d4a5aed6"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a583cc1b9a8909370e4d51a890d897668a060a09d1c3e79f4d89e98c53d4a5aed6">SPELL_ATTR2_AUTO_REPEAT</a></div><div class="ttdeci">@ SPELL_ATTR2_AUTO_REPEAT</div><div class="ttdef"><b>Definition</b> SharedDefines.h:449</div></div>
@@ -2031,7 +2031,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   87</span>    3.14f                  <span class="comment">// MOVE_PITCH_RATE</span></div>
 <div class="line"><span class="lineno">   88</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01153">Spell::CalculateJumpSpeeds()</a>, <a class="el" href="../../#l11385">Unit::GetSpeed()</a>, <a class="el" href="../../#l00165">World::LoadConfigSettings()</a>, and <a class="el" href="../../#l11211">Unit::UpdateSpeed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01153">Spell::CalculateJumpSpeeds()</a>, <a class="el" href="../../#l11378">Unit::GetSpeed()</a>, <a class="el" href="../../#l00165">World::LoadConfigSettings()</a>, and <a class="el" href="../../#l11204">Unit::UpdateSpeed()</a>.</p>
 
 </div>
 </div>
@@ -2138,7 +2138,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  100</span>    3.14f                  <span class="comment">// MOVE_PITCH_RATE</span></div>
 <div class="line"><span class="lineno">  101</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01153">Spell::CalculateJumpSpeeds()</a>, <a class="el" href="../../#l11385">Unit::GetSpeed()</a>, <a class="el" href="../../#l00165">World::LoadConfigSettings()</a>, and <a class="el" href="../../#l11211">Unit::UpdateSpeed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01153">Spell::CalculateJumpSpeeds()</a>, <a class="el" href="../../#l11378">Unit::GetSpeed()</a>, <a class="el" href="../../#l00165">World::LoadConfigSettings()</a>, and <a class="el" href="../../#l11204">Unit::UpdateSpeed()</a>.</p>
 
 </div>
 </div>
@@ -2204,7 +2204,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  660</span>    {<a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9bae9698c5d77fe4af39012d85a26d83479">SMSG_FORCE_PITCH_RATE_CHANGE</a>,        <a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9baf8a74d10efc4084de0394a2b2f04ae6b">SMSG_SPLINE_SET_PITCH_RATE</a>,           <a class="code hl_enumvalue" href="../../d2/dec/group__u2w.html#gga1073b6abb3a749f18bf1633020879e9ba347db4bce35bc2b8910e7ea1a76d66bf">MSG_MOVE_SET_PITCH_RATE</a>},</div>
 <div class="line"><span class="lineno">  661</span>};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00665">WorldSession::HandleForceSpeedChangeAck()</a>, and <a class="el" href="../../#l11390">Unit::SetSpeed()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00665">WorldSession::HandleForceSpeedChangeAck()</a>, and <a class="el" href="../../#l11383">Unit::SetSpeed()</a>.</p>
 
 </div>
 </div>
@@ -2214,7 +2214,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_ac8643af82ea53313fd6af4324ac5b57.html">Unit</a></li><li class="navelem"><a class="el" href="../../d1/daf/Unit_8h.html">Unit.h</a></li>
-    <li class="footer">Generated on Tue Mar 17 2026 06:59:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 18 2026 06:58:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

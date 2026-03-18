@@ -1,5 +1,8 @@
 var NAVTREEINDEX160 =
 {
+"d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204a2e765adee82f627ffe02fd6bfc88ce19":[7,0,0,0,1,3,4,1,1,6,4,3],
+"d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204a51c6be413169b5bb9ead6206f94db6b2":[7,0,0,0,1,3,4,1,1,6,4,1],
+"d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204a6bfc9213c7e065df53351a3d76571a87":[7,0,0,0,1,3,4,1,1,6,4,2],
 "d5/dcf/culling__of__stratholme_8h.html#aef960871e1a997a7b3096b0424eb6204adb29bd58bb0b0e9cf2cb3b4c75e38db6":[7,0,0,0,1,3,4,1,1,6,4,0],
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63":[7,0,0,0,1,3,4,1,1,6,6],
 "d5/dcf/culling__of__stratholme_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a0a8922410dd29b7c826468f06fc15fc9":[7,0,0,0,1,3,4,1,1,6,6,6],
@@ -48,12 +51,12 @@ var NAVTREEINDEX160 =
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html":[6,0,0,84],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[5,0,1,96,0],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a0b1d14f1347a3749a91ef6e888ccb23e":[6,0,0,84,0],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[5,0,1,96,4],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a298d2489b9bf30aa510407afca79a374":[6,0,0,84,4],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[6,0,0,84,1],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#a5645c9808db082b0301ec8b2ea93ce7f":[5,0,1,96,1],
-"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[5,0,1,96,3],
+"d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#ab79296a88ed07257edbe3449c2515b40":[6,0,0,84,3],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[6,0,0,84,2],
 "d5/dd1/classAcore_1_1NearestHostileUnitInAttackDistanceCheck.html#adc28281742cd1f6a49152481b48f944e":[5,0,1,96,2],
 "d5/dd1/structnpc__ulduar__flames__initial.html":[6,0,2245],
@@ -246,8 +249,5 @@ var NAVTREEINDEX160 =
 "d5/ddd/classspell__xt002__321__boombot__aura.html":[6,0,4344],
 "d5/ddd/classspell__xt002__321__boombot__aura.html#a2bbcd3aca15eb271759c2a64276bb9d3":[6,0,4344,0],
 "d5/ddd/classspell__xt002__321__boombot__aura.html#a430a5c4d0e3f77d4d966a4bf8f629e1e":[6,0,4344,3],
-"d5/ddd/classspell__xt002__321__boombot__aura.html#a6761dd910808090d78c9b9ad88ba7bda":[6,0,4344,1],
-"d5/ddd/classspell__xt002__321__boombot__aura.html#a683a37c787ae5797d8c68aca1af0742a":[6,0,4344,4],
-"d5/ddd/classspell__xt002__321__boombot__aura.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60":[6,0,4344,2],
-"d5/ddd/structAuctionSearchListRequest.html":[6,0,280]
+"d5/ddd/classspell__xt002__321__boombot__aura.html#a6761dd910808090d78c9b9ad88ba7bda":[6,0,4344,1]
 };

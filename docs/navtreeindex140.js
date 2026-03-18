@@ -1,5 +1,8 @@
 var NAVTREEINDEX140 =
 {
+"d4/dd0/classWorldObject.html#a2e8ea39b9d94173fd73fa3d9f50d5c56":[6,0,4629,115],
+"d4/dd0/classWorldObject.html#a2ef660f7ad33f76212fa27fb777f7d49":[6,0,4629,75],
+"d4/dd0/classWorldObject.html#a2fa068bdfada15525672399270537e12":[6,0,4629,157],
 "d4/dd0/classWorldObject.html#a31d7a5673827b882fdfbe177c5aecbbc":[6,0,4629,112],
 "d4/dd0/classWorldObject.html#a347a94213bd7c981e5e4cee5b68b78c1":[6,0,4629,123],
 "d4/dd0/classWorldObject.html#a34cb764c08c8dd149d35f60fcadedfa2":[6,0,4629,194],
@@ -246,8 +249,5 @@ var NAVTREEINDEX140 =
 "d4/dd3/classspell__hun__volley__trigger.html#af25d11fc93423ee6e1678ebb5dcf1276":[6,0,3248,4],
 "d4/dd3/firework__show__Undercity_8h.html":[7,0,0,0,1,3,3,0,11],
 "d4/dd3/firework__show__Undercity_8h.html#a67896d1b367cdcfcbee837b12ee9451c":[7,0,0,0,1,3,3,0,11,0],
-"d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[7,0,0,0,1,3,3,0,11,1],
-"d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[7,0,0,0,1,3,3,0,11,2],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1901,0],
-"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1901,0,2]
+"d4/dd3/firework__show__Undercity_8h.html#ab00bea2179a021590447cb30da50fce1":[7,0,0,0,1,3,3,0,11,1]
 };

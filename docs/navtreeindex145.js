@@ -1,5 +1,8 @@
 var NAVTREEINDEX145 =
 {
+"d5/d0f/classAuraScript.html#a80da96635d7bab5bebd929ce9a82628d":[6,0,295,46],
+"d5/d0f/classAuraScript.html#a863736f1713d88c9bcf0eb552c2aebd4":[6,0,295,67],
+"d5/d0f/classAuraScript.html#a909387711ea2be188172d2f72391e2cf":[6,0,295,80],
 "d5/d0f/classAuraScript.html#a9256947ce172fcf7947390e893c154f6":[6,0,295,24],
 "d5/d0f/classAuraScript.html#a926652b8b5f116a13674f8b423db706c":[6,0,295,18],
 "d5/d0f/classAuraScript.html#a99cbee6d75732fbd9aa54d2d9679986f":[6,0,295,29],
@@ -246,8 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d1e/structboss__thorim__lightning__orb.html#adeefc7cd014021305b77cc9c52102ce6":[6,0,752,5],
 "d5/d1f/structnpc__batrider.html":[6,0,1664],
 "d5/d1f/structnpc__batrider.html#a02e950fd30e4a0637d078d49c5c50d48":[6,0,1664,2],
-"d5/d1f/structnpc__batrider.html#a6304a39ea92d48508a17dc059c47bc1b":[6,0,1664,0],
-"d5/d1f/structnpc__batrider.html#a828e5ab4b3ff52d7daf9a3a6a5412f52":[6,0,1664,4],
-"d5/d1f/structnpc__batrider.html#abee249da6f3bb6c2fd859812b02d7b65":[6,0,1664,3],
-"d5/d1f/structnpc__batrider.html#acd53ec78a754219511af1ad2f11422a9":[6,0,1664,5]
+"d5/d1f/structnpc__batrider.html#a6304a39ea92d48508a17dc059c47bc1b":[6,0,1664,0]
 };

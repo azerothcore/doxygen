@@ -1,5 +1,8 @@
 var NAVTREEINDEX320 =
 {
+"dc/d79/classSocialMgr.html#a2b80fa18a6f1ed54fda7719867f45ebd":[6,0,2607,0],
+"dc/d79/classSocialMgr.html#a2f8a276598ad01d350aa245fcef82a7a":[6,0,2607,10],
+"dc/d79/classSocialMgr.html#a3cff8262ce10d2e8c8c38dc834230545":[6,0,2607,1],
 "dc/d79/classSocialMgr.html#a55b35ea17ebfea4ff31710186b87865f":[6,0,2607,3],
 "dc/d79/classSocialMgr.html#a7d0c4638b6fde1bf614d90492160ee55":[6,0,2607,4],
 "dc/d79/classSocialMgr.html#aab17f5c27494cfdf2b1c5d5038f446a0":[6,0,2607,6],
@@ -167,10 +170,10 @@ var NAVTREEINDEX320 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d88/classTempSummon.html":[6,0,4478],
 "dc/d88/classTempSummon.html#a0861c8d9d39586690b434056d2ee7e18":[6,0,4478,3],
 "dc/d88/classTempSummon.html#a19a3c747fabe3c2d788380b6b3aff5b5":[6,0,4478,25],
-"dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25":[6,0,4478,21],
-"dc/d88/classTempSummon.html#a267f8af8ae1f496571569e8ec67faf73":[6,0,4478,23],
-"dc/d88/classTempSummon.html#a29cd1896bf2fb92feb3b31cad1b38111":[6,0,4478,9],
-"dc/d88/classTempSummon.html#a331c63533ec0473a314bb16e696c849a":[6,0,4478,8]
+"dc/d88/classTempSummon.html#a24a10d9b92e125eb90b2edbd5158ce25":[6,0,4478,21]
 };

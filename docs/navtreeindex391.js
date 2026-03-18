@@ -1,5 +1,9 @@
 var NAVTREEINDEX391 =
 {
+"df/d13/classEllipseBoundary.html#aeb8c822a8c4c745de0c848721a624545":[6,0,1027,0],
+"df/d13/classspell__pal__avenging__wrath.html":[6,0,3707],
+"df/d13/classspell__pal__avenging__wrath.html#a42590a0ef43a48c5309f995f9bec5c9b":[6,0,3707,2],
+"df/d13/classspell__pal__avenging__wrath.html#a84e7337494dc2e1772ca10dea26c675f":[6,0,3707,3],
 "df/d13/classspell__pal__avenging__wrath.html#aafdf3712f163919f010d11d0becb398f":[6,0,3707,0],
 "df/d13/classspell__pal__avenging__wrath.html#ac2558aafb3ce66ca7bbfd718eb8c6338":[6,0,3707,4],
 "df/d13/classspell__pal__avenging__wrath.html#ac3e33cb37d13b633f3938a48917a4975":[6,0,3707,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX391 =
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba44c3162fd70316c504cd4e8068559a4e":[4,2,15,20],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba47aaebf38c22faea919f15103ca564f8":[4,2,15,25],
 "df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4a3d3718b458559db2843274259e9caf":[4,2,15,11],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4ac5df4b9eff2cf69d2312d1cf3174db":[4,2,15,3],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4f8f0506d09c5079326b000d5d074611":[4,2,15,6],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba507b40d8e1860051d9bd9d2fcada3053":[4,2,15,0],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba600d0faad5b165a2d50d8a857c1caed7":[4,2,15,15],
-"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba614f2939bc31c0a396c2017c8baac109":[4,2,15,33]
+"df/d17/group__world.html#gga26aa1cb8ae0de12da27fef70a5b9c7aba4ac5df4b9eff2cf69d2312d1cf3174db":[4,2,15,3]
 };

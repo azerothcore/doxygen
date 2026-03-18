@@ -1,5 +1,9 @@
 var NAVTREEINDEX380 =
 {
+"de/d95/structAuctionHouseUsablePlayerInfo.html#a3400ad05d8423ae6878fab815521ec6f":[6,0,273,1],
+"de/d95/structAuctionHouseUsablePlayerInfo.html#a41a57c372871c84a572d2f3697cb18aa":[6,0,273,3],
+"de/d95/structAuctionHouseUsablePlayerInfo.html#a55c2ad9d1cdea4913cb35deb4adc87fd":[6,0,273,6],
+"de/d95/structAuctionHouseUsablePlayerInfo.html#a870f632b54e4638b1f5a4e93b6bd9e52":[6,0,273,4],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a8f5894a5729d4c8d26376bbe1a2ac29e":[6,0,273,0],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#a96e56943da42f1a1258fc1d716259e1a":[6,0,273,5],
 "de/d95/structAuctionHouseUsablePlayerInfo.html#ac83cc019ceb1752ce8d6b5a3aa3d350f":[6,0,273,7],
@@ -245,9 +249,5 @@ var NAVTREEINDEX380 =
 "de/da1/structObjectPosSelector.html#abb77ce4bf44b926a4bc1db59e7b84e36":[6,0,2342,3],
 "de/da1/structObjectPosSelector.html#ac58836fb3671cf87b156072910b811c2":[6,0,2342,8],
 "de/da1/structObjectPosSelector.html#ad0fc5c7a577bd9584d7a81346ff78c14":[6,0,2342,7],
-"de/da1/structObjectPosSelector.html#ad33b5ad5af8ebfd14851085b5c67cc95":[6,0,2342,16],
-"de/da1/structObjectPosSelector.html#ae45835290af001233a7d76e1a5be6df0":[6,0,2342,10],
-"de/da1/structObjectPosSelector.html#afa4cdf73a3473398e0fa2106b6680e55":[6,0,2342,25],
-"de/da1/structnpc__ulduar__flames__spread.html":[6,0,2246],
-"de/da1/structnpc__ulduar__flames__spread.html#a8309d2c6a0d7ad7a7dc2111c709bf45f":[6,0,2246,0]
+"de/da1/structObjectPosSelector.html#ad33b5ad5af8ebfd14851085b5c67cc95":[6,0,2342,16]
 };

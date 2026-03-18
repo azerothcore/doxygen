@@ -1,5 +1,8 @@
 var NAVTREEINDEX224 =
 {
+"d8/d74/classWorldSession.html#aba0d5c49bc78f449da94cca0dee6e685":[4,1,19,24],
+"d8/d74/classWorldSession.html#aba6d26a07a49f74c1c15ad91df4a8561":[4,1,19,471],
+"d8/d74/classWorldSession.html#abb51ac5b8c3910c53d21fb22f7b95557":[4,1,19,144],
 "d8/d74/classWorldSession.html#abc245826fa7835ec09549a98d4d66f65":[4,1,19,19],
 "d8/d74/classWorldSession.html#abc768acad0d68404afdcef70b22dbf8f":[4,1,19,304],
 "d8/d74/classWorldSession.html#abd418473386494f3776f63612ed6a85f":[4,1,19,43],
@@ -246,8 +249,5 @@ var NAVTREEINDEX224 =
 "d8/d78/structnpc__akilzon__eagle.html#aa5c3d77a1086ad90397d47f081b25476":[6,0,1604,1],
 "d8/d78/structnpc__akilzon__eagle.html#abf69be0c32356e65e6d451c33fb389f0":[6,0,1604,3],
 "d8/d78/structnpc__akilzon__eagle.html#ad70a735ce3a06f9c92ddb8ef7e5fd595":[6,0,1604,0],
-"d8/d78/structnpc__akilzon__eagle.html#adefd384b8a273ca52343d836a399f3cb":[6,0,1604,2],
-"d8/d79/classgo__jotunheim__cage.html":[6,0,1173],
-"d8/d79/classgo__jotunheim__cage.html#a28c9312de97a822e34f05c7358b42df4":[6,0,1173,0],
-"d8/d79/classgo__jotunheim__cage.html#a5598fcb4df9c7d0a610ea064af8095d3":[6,0,1173,1]
+"d8/d78/structnpc__akilzon__eagle.html#adefd384b8a273ca52343d836a399f3cb":[6,0,1604,2]
 };

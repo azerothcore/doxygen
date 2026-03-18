@@ -1,5 +1,8 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#a5bd342133be8c2137b831460acc9298ca62335d218ebbb80340180598b850b24c":[7,0,0,0,1,3,5,15,46,0],
+"d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dd":[7,0,0,0,1,3,5,15,32],
+"d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda1bb4495229ca373b57120cbbd5bdfd42":[7,0,0,0,1,3,5,15,32,1],
 "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda3300ceea0456cc026efa4f2ed6825fa0":[7,0,0,0,1,3,5,15,32,2],
 "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda67f57077a8ba41787ab4dae828e1d4e5":[7,0,0,0,1,3,5,15,32,3],
 "d3/d09/zone__borean__tundra_8cpp.html#a5fdb2729501c05d939fb1ed5c82995dda84cc8537adb737ababc7f8f47b3f02e6":[7,0,0,0,1,3,5,15,32,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d0c/structnpc__kiljaeden__controller.html#aed2772552dd500c180c3db4aeef8359a":[6,0,1933,5],
 "d3/d0c/structnpc__kiljaeden__controller.html#af28211012d8398a450439b8e24bf60ce":[6,0,1933,2],
 "d3/d0d/GridNotifiers_8h.html":[7,0,0,0,1,2,19,1,1],
-"d3/d0d/classnpc__icc__buff__switcher.html":[6,0,1886],
-"d3/d0d/classnpc__icc__buff__switcher.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba":[6,0,1886,1],
-"d3/d0d/classnpc__icc__buff__switcher.html#aeabc3d97c88bf12177b824524af3ae1d":[6,0,1886,0],
-"d3/d0d/namespaceWorldPackets_1_1Strings.html":[5,0,34,14]
+"d3/d0d/classnpc__icc__buff__switcher.html":[6,0,1886]
 };

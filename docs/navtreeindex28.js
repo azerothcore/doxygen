@@ -1,5 +1,6 @@
 var NAVTREEINDEX28 =
 {
+"d1/d1e/SpellProcChainGuardTest_8cpp.html#a653b066b3e623a583d805d62372e5c18":[7,0,0,0,2,2,0,7,7,7],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a6dff023d399c8508abe0e654a2e57531":[7,0,0,0,2,2,0,7,7,26],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a6f96584c668b3204d49226e736c38727":[7,0,0,0,2,2,0,7,7,17],
 "d1/d1e/SpellProcChainGuardTest_8cpp.html#a7856746333fc36f6ea16d9a9277ac519":[7,0,0,0,2,2,0,7,7,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX28 =
 "d1/d2c/structboss__thorim.html#a9b7dbefb5528c1b7cfb9f71fac93095e":[6,0,748,16],
 "d1/d2c/structboss__thorim.html#a9bea04c636ab457fedda5a5794ab636d":[6,0,748,18],
 "d1/d2c/structboss__thorim.html#a9eddcc82c14463cba7495e96d0fc10bd":[6,0,748,23],
-"d1/d2c/structboss__thorim.html#aa1d1c5dab7bc01f0e606867869070f7c":[6,0,748,1],
-"d1/d2c/structboss__thorim.html#aa34533dfb0ac3baf9e9e0d9205af9107":[6,0,748,3]
+"d1/d2c/structboss__thorim.html#aa1d1c5dab7bc01f0e606867869070f7c":[6,0,748,1]
 };

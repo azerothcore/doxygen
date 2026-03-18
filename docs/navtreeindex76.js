@@ -1,15 +1,18 @@
 var NAVTREEINDEX76 =
 {
+"d2/dd6/structnpc__warmage__violetstand.html#a99015610597f43f184cc686c9fab2fa9":[6,0,2296,1],
+"d2/dd6/structnpc__warmage__violetstand.html#aa0eac837ab697c3e0cd5ab753f0bd0b4":[6,0,2296,2],
+"d2/dd7/RegularGrid_8h.html":[7,0,0,0,0,1,8],
 "d2/dd7/RegularGrid_8h.html#a7a4127f14f16563da90eb3c836bc404f":[7,0,0,0,0,1,8,4],
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
 "d2/ddb/structPyramidEventData.html":[6,0,2481],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[6,0,2481,2],
 "d2/ddb/structPyramidEventData.html#a44a9f5e58bfa58e2e2325e116e988f07":[6,0,2481,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a1c8abb4ae8877f346dcf95f7d1b59640":[6,0,4392,175],
 "d2/de9/classSpellInfo.html#a1dbf49afa821937a1f84938df6bde31e":[6,0,4392,162],
 "d2/de9/classSpellInfo.html#a20c43b3c24e4cfb1b41d00259f9343c4":[6,0,4392,104],
-"d2/de9/classSpellInfo.html#a21cf48a7eb77db7f731ebe746d2d6878":[6,0,4392,186],
-"d2/de9/classSpellInfo.html#a22c160b08675a57daf18ecb7bf660695":[6,0,4392,112],
-"d2/de9/classSpellInfo.html#a236dc1b4f58ebf6a2eb5b1824c5e8073":[6,0,4392,33],
-"d2/de9/classSpellInfo.html#a243b5bc4eb72b1c64695f8b10be3801c":[6,0,4392,72]
+"d2/de9/classSpellInfo.html#a21cf48a7eb77db7f731ebe746d2d6878":[6,0,4392,186]
 };

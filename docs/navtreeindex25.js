@@ -1,5 +1,6 @@
 var NAVTREEINDEX25 =
 {
+"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a21f91de064bec6943aae5d710e6ec485":[6,0,1791,0,3],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a258d870137c02dd74ff23b94cb3f90d1":[6,0,1791,0,11],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a2b11d54ff39f568cf26845251a38a612":[6,0,1791,0,12],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a3f3da888c1076f4f728157f7ba9edf1c":[6,0,1791,0,9],
@@ -248,6 +249,5 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a587554773427224df51cbce7a50b9d2c":[6,0,2616,362],
 "d1/d16/classSpell.html#a5b4ebeb10ad576a529d0556064930297":[6,0,2616,343],
 "d1/d16/classSpell.html#a5d48e255fcfcafa165137f39c73a6fcb":[6,0,2616,284],
-"d1/d16/classSpell.html#a5fd7b2fa3f7559c425c367852e187846":[6,0,2616,196],
-"d1/d16/classSpell.html#a60270bcdc75f67903cafd81eaf9a398a":[6,0,2616,199]
+"d1/d16/classSpell.html#a5fd7b2fa3f7559c425c367852e187846":[6,0,2616,196]
 };

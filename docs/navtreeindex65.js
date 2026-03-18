@@ -1,5 +1,6 @@
 var NAVTREEINDEX65 =
 {
+"d2/d5a/classnpc__bloodmage__laurith.html#a40ab80342ddc86afca3b1bd37b1ca6b5":[6,0,1680,1],
 "d2/d5a/classnpc__bloodmage__laurith.html#a5a5151a56de3ad1012d9a795dbfb5bd5":[6,0,1680,2],
 "d2/d5b/boss__novos_8cpp.html":[7,0,0,0,1,3,5,3,1],
 "d2/d5b/boss__novos_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,3,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d5f/classspell__voa__lightning__nova.html":[6,0,4241],
 "d2/d5f/classspell__voa__lightning__nova.html#a3b62711a0ba478d6321a93d436359939":[6,0,4241,1],
 "d2/d5f/classspell__voa__lightning__nova.html#aa3f90eb49ae947b5729f722750cb8711":[6,0,4241,0],
-"d2/d5f/classspell__voa__lightning__nova.html#af7bdde31f1221d5679983a41e3eca204":[6,0,4241,2],
-"d2/d60/classnpc__lord__illidan__stormrage.html":[6,0,1960]
+"d2/d5f/classspell__voa__lightning__nova.html#af7bdde31f1221d5679983a41e3eca204":[6,0,4241,2]
 };

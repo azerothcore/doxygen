@@ -1,5 +1,8 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd3/firework__show__Undercity_8h.html#afd61e001f4ea31858964426d56d2b3cf":[7,0,0,0,1,3,3,0,11,2],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html":[6,0,1901,0],
+"d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a1465c4779ea8b080f934163c8db6c99c":[6,0,1901,0,2],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a3140c8306a384833cca1580ad964d73a":[6,0,1901,0,3],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a56615ecdb45389aa793374d26a636d45":[6,0,1901,0,1],
 "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a8455dd4afb5ef5a694ca9237848df907":[6,0,1901,0,4],
@@ -223,8 +226,8 @@ var NAVTREEINDEX141 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1065,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,20],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1912,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1912,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1912,0,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX141 =
 "d4/ddd/structPetLevelInfo.html#a27352e73d6ed3945e398e0634dee1e96":[6,0,2413,3],
 "d4/ddd/structPetLevelInfo.html#a299d1c7f4c28893e09de79cd816afa95":[6,0,2413,5],
 "d4/ddd/structPetLevelInfo.html#a322dcab3af8f98726aa6addf38e8891b":[6,0,2413,2],
-"d4/ddd/structPetLevelInfo.html#a897aabacdbe9cbc4afcc40ab059c12be":[6,0,2413,6],
-"d4/ddd/structPetLevelInfo.html#ab7097f75cf86bd6f135f21dace61a89e":[6,0,2413,1],
-"d4/ddd/structPetLevelInfo.html#ad8e757abeae500063e963ffef5469809":[6,0,2413,0],
-"d4/ddd/structboss__hakkar_1_1boss__hakkarAI.html":[6,0,530,0]
+"d4/ddd/structPetLevelInfo.html#a897aabacdbe9cbc4afcc40ab059c12be":[6,0,2413,6]
 };

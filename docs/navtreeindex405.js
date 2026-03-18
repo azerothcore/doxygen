@@ -1,5 +1,9 @@
 var NAVTREEINDEX405 =
 {
+"df/da7/classBattleground.html#a1ef95ebaace6f65e5d00b2257212f366":[6,0,325,149],
+"df/da7/classBattleground.html#a20439edb1d9a09cf7119a53f422a3902":[6,0,325,92],
+"df/da7/classBattleground.html#a24586375b2c9b3077a93df903900a03f":[6,0,325,120],
+"df/da7/classBattleground.html#a2808a911ce471c2c360699c8dd187317":[6,0,325,202],
 "df/da7/classBattleground.html#a28880ae21f1a5e399313a59fb7cde617":[6,0,325,158],
 "df/da7/classBattleground.html#a28fbb36887aa6d22c22d8486383d3ef9":[6,0,325,118],
 "df/da7/classBattleground.html#a2a10e1c738f24cb5d7354d398a60b34a":[6,0,325,29],
@@ -245,9 +249,5 @@ var NAVTREEINDEX405 =
 "df/da7/structboss__thorim__sif.html#a61fec6c7b91d5f34339ebabd18b94e5d":[6,0,755,2],
 "df/da7/structboss__thorim__sif.html#a9762a5d386897bcd6d42b3c36d9fc18f":[6,0,755,0],
 "df/da7/structboss__thorim__sif.html#adbe7effa0bab5046f26f8d7df0f82a04":[6,0,755,5],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2077,0],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a05cd30f0bf149d16c75ad3f717cb9dcc":[6,0,2077,0,2],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a06671144929a3783f17397b818016032":[6,0,2077,0,1],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a1fd3a4d7d16bb93be68d8b135546ab1e":[6,0,2077,0,6],
-"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html#a4ac57f4ffe0886f463378b42525e2e4d":[6,0,2077,0,7]
+"df/da8/structnpc__precious__icc_1_1npc__precious__iccAI.html":[6,0,2077,0]
 };

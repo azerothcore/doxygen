@@ -1,5 +1,6 @@
 var NAVTREEINDEX32 =
 {
+"d1/d43/boss__algalon__the__observer_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af707790e92a4b757e86a2c9e6a237bda":[7,0,0,0,1,3,5,9,2,0,25,15],
 "d1/d43/boss__algalon__the__observer_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31afc3fd4599d8c43e726cbe42e75d3c4a7":[7,0,0,0,1,3,5,9,2,0,25,11],
 "d1/d43/boss__algalon__the__observer_8cpp.html#ae346e0c388a63113fb8622470a346600":[7,0,0,0,1,3,5,9,2,0,30],
 "d1/d43/boss__algalon__the__observer_8cpp.html#aeeb061299a20d936b10ca54816e5c9bb":[7,0,0,0,1,3,5,9,2,0,28],
@@ -94,8 +95,8 @@ var NAVTREEINDEX32 =
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a2b017300220426ac42de18e3a8699219":[6,0,0,119,0],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4":[5,0,1,131,1],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4":[6,0,0,119,1],
-"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[6,0,0,119,3],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[5,0,1,131,3],
+"d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a4ee3762b4a7f35d252cbb5337d61d92c":[6,0,0,119,3],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[5,0,1,131,2],
 "d1/d43/structAcore_1_1WorldObjectSpellAreaTargetCheck.html#a680c45dd148161657da011a1772375ca":[6,0,0,119,2],
 "d1/d43/structboss__commander__sarannis.html":[6,0,425],
@@ -199,18 +200,18 @@ var NAVTREEINDEX32 =
 "d1/d48/classSFMTRand.html#ace8e8802bdb710f3354d3ff7d619497c":[6,0,2578,8],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[5,0,34,15,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html":[6,0,12,15,0],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[6,0,12,15,0,3],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[5,0,34,15,0,3],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a0889c816fbef728f1a0a6c530c801eac":[6,0,12,15,0,3],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[6,0,12,15,0,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a24c9e483d1edb526330311c719d750df":[5,0,34,15,0,0],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[6,0,12,15,0,4],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a2fe9f98b653d7c2afcf3166e86f3756e":[5,0,34,15,0,4],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a554900ae7442f00a63c983ea7ea74510":[5,0,34,15,0,1],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a554900ae7442f00a63c983ea7ea74510":[6,0,12,15,0,1],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a554900ae7442f00a63c983ea7ea74510":[5,0,34,15,0,1],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a684d15c5368e8065c78e9320eebb676b":[6,0,12,15,0,5],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#a684d15c5368e8065c78e9320eebb676b":[5,0,34,15,0,5],
-"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#aff6335b86ac051bccb623124905c7180":[5,0,34,15,0,2],
 "d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#aff6335b86ac051bccb623124905c7180":[6,0,12,15,0,2],
+"d1/d48/classWorldPackets_1_1Totem_1_1TotemCreated.html#aff6335b86ac051bccb623124905c7180":[5,0,34,15,0,2],
 "d1/d48/structboss__eviscerator_1_1boss__evisceratorAI.html":[6,0,465,0],
 "d1/d48/structboss__eviscerator_1_1boss__evisceratorAI.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4":[6,0,465,0,0],
 "d1/d48/structboss__eviscerator_1_1boss__evisceratorAI.html#a3e5d8a40bfca16cc811f35b1293c19aa":[6,0,465,0,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX32 =
 "d1/d49/classDatabaseWorkerPool.html#aa97cb925f2294d32bb1fbe23d6057867":[6,0,972,23],
 "d1/d49/classDatabaseWorkerPool.html#ab30047af2d612bf4032778cc82f4932d":[6,0,972,16],
 "d1/d49/classDatabaseWorkerPool.html#ab52cd78dc0c7f757a0cf71156c9dabeb":[6,0,972,25],
-"d1/d49/classDatabaseWorkerPool.html#ab6f68567b1dc23c16723f84504b47eb1":[6,0,972,13],
-"d1/d49/classDatabaseWorkerPool.html#ab829bec07e80b6ee0fd983a45e37bbc3":[6,0,972,6]
+"d1/d49/classDatabaseWorkerPool.html#ab6f68567b1dc23c16723f84504b47eb1":[6,0,972,13]
 };

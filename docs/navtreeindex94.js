@@ -1,5 +1,8 @@
 var NAVTREEINDEX94 =
 {
+"d3/d18/classObjectGuidGenerator.html":[6,0,2337],
+"d3/d18/classObjectGuidGenerator.html#a1d917989d9bf681546d0e3e9b20593e0":[6,0,2337,0],
+"d3/d18/classObjectGuidGenerator.html#a43dfe501c5ec222bbd1f8687a1a103b9":[6,0,2337,1],
 "d3/d18/classat__battleguard__sartura.html":[6,0,215],
 "d3/d18/classat__battleguard__sartura.html#a6a7b9f210ce0c2844b4f2412c0fe440e":[6,0,215,1],
 "d3/d18/classat__battleguard__sartura.html#a9247cdebeb57d2ddbfa75f60da125d36":[6,0,215,0],
@@ -52,8 +55,8 @@ var NAVTREEINDEX94 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[5,0,1,50,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,50,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2951],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d23/classspell__hor__gunship__cannon__fire__aura.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea":[6,0,3203,2],
 "d3/d23/classspell__hor__gunship__cannon__fire__aura.html#aaefcf8ace7c109648c9220fb0ff9d4de":[6,0,3203,0],
 "d3/d23/classspell__hor__gunship__cannon__fire__aura.html#ab3fcbe5386e9529824228e8f3b6be797":[6,0,3203,3],
-"d3/d23/classspell__hor__gunship__cannon__fire__aura.html#ae0ccb7d4566777e52b71e99a908d13fa":[6,0,3203,1],
-"d3/d23/structRotfaceHeightCheck.html":[6,0,2541],
-"d3/d23/structRotfaceHeightCheck.html#a585743e0e76c64a5caa37acab46d04d5":[6,0,2541,1],
-"d3/d23/structRotfaceHeightCheck.html#aabdeaee465989c339fc7a3f186e20498":[6,0,2541,0]
+"d3/d23/classspell__hor__gunship__cannon__fire__aura.html#ae0ccb7d4566777e52b71e99a908d13fa":[6,0,3203,1]
 };

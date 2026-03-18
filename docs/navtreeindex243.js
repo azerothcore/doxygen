@@ -1,5 +1,8 @@
 var NAVTREEINDEX243 =
 {
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af3618fbd043a6a73ac2224184ec94979":[7,0,0,0,1,3,5,6,13,5,104],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af4a20369e2d64f239386ddfac38c9dde":[7,0,0,0,1,3,5,6,13,5,132],
+"d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2af50d11e4cc7b4a93a19943750fa682e0":[7,0,0,0,1,3,5,6,13,5,138],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afb5f2a5d6e7620645df070ef86301948":[7,0,0,0,1,3,5,6,13,5,164],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afbdd66447e7bc201168d3c2ea76c965b":[7,0,0,0,1,3,5,6,13,5,19],
 "d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2afced814168fc11985b08779f48e6882b":[7,0,0,0,1,3,5,6,13,5,57],
@@ -246,8 +249,5 @@ var NAVTREEINDEX243 =
 "d9/d6c/classspell__item__unsated__craving.html#ae034bd626880858c9701ed963de993c9":[6,0,3484,1],
 "d9/d6d/Strand_8h.html":[7,0,0,0,0,0,6],
 "d9/d6e/classSmartWaypointMgr.html":[6,0,2605],
-"d9/d6e/classSmartWaypointMgr.html#a300be22ad39e320833297c3f05cdcecc":[6,0,2605,1],
-"d9/d6e/classSmartWaypointMgr.html#a7ae477d4d210d938e167453d9085e520":[6,0,2605,3],
-"d9/d6e/classSmartWaypointMgr.html#a9b5cdb29d31e7de0a407f600aef482af":[6,0,2605,4],
-"d9/d6e/classSmartWaypointMgr.html#ac22c9bc98be18bb4ffa051387dd844e1":[6,0,2605,5]
+"d9/d6e/classSmartWaypointMgr.html#a300be22ad39e320833297c3f05cdcecc":[6,0,2605,1]
 };

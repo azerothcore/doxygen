@@ -1,9 +1,10 @@
 var NAVTREEINDEX38 =
 {
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[5,0,34,6,18],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[6,0,12,6,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[5,0,34,6,18,0],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[6,0,12,6,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[5,0,34,6,18,2],
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[6,0,12,6,18,2],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[5,0,34,6,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#acb6b28dcf56b821e3c0d5b58f6baa2dd":[6,0,12,6,18,1],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#ae78c1d1b802e12efd058987117158ec3":[6,0,12,6,18,3],
@@ -66,14 +67,14 @@ var NAVTREEINDEX38 =
 "d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a77555109b1c145d26a3e4e3faa3e37a5":[7,0,0,0,1,3,4,9,6,2,0],
 "d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a80c7f5121acd88b5e03ee019030e0ca2":[7,0,0,0,1,3,4,9,6,2,3],
 "d1/d8b/boss__skeram_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae61fb37102d75637ff66886786e93660":[7,0,0,0,1,3,4,9,6,2,1],
-"d1/d8b/classAcore_1_1ObjectLevelLockable.html":[6,0,0,89],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html":[5,0,1,101],
+"d1/d8b/classAcore_1_1ObjectLevelLockable.html":[6,0,0,89],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a133cb19ac25d346ba24b8405595dd174":[5,0,1,101,2],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a133cb19ac25d346ba24b8405595dd174":[6,0,0,89,2],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[6,0,0,89,1],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[5,0,1,101,1],
-"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,89,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,101,4],
+"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,89,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a8ebb63f3adccf1bf121f569f1d527e17":[6,0,0,89,3],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a8ebb63f3adccf1bf121f569f1d527e17":[5,0,1,101,3],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#ae373bee24a50a7eda232b51769c042aa":[5,0,1,101,5],
@@ -86,8 +87,8 @@ var NAVTREEINDEX38 =
 "d1/d8c/structMovement_1_1CommonInitializer.html":[6,0,7,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[5,0,22,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[6,0,7,0,2],
-"d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,22,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[6,0,7,0,0],
+"d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,22,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[6,0,7,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,22,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[6,0,7,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX38 =
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e":[7,0,0,0,1,2,38,0,26,1,3],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588":[7,0,0,0,1,2,38,0,26,1,1],
 "d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09":[7,0,0,0,1,2,38,0,26,1,4],
-"d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7":[7,0,0,0,1,2,38,0,26,1,6],
-"d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baade4a09676bcc54d050070c72869f1a03":[7,0,0,0,1,2,38,0,26,1,5]
+"d1/d93/ArenaScript_8h.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7":[7,0,0,0,1,2,38,0,26,1,6]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX183 =
 {
+"d6/da9/classTotemAI.html#aa5bb81b51ec79a4328016cca34363880":[6,0,4498,1],
+"d6/da9/classTotemAI.html#acd8ed4528ac7c16182a0470e49b422f6":[6,0,4498,3],
+"d6/da9/classTotemAI.html#ad57f973e52d22f45b5171faeb28f2e91":[6,0,4498,0],
 "d6/da9/classTotemAI.html#ae651f8f7a02261c1a0e37a6c7ddde4be":[6,0,4498,8],
 "d6/dab/classAreaTrigger__at__sentry__point.html":[6,0,178],
 "d6/dab/classAreaTrigger__at__sentry__point.html#a9c27f669aba3be1a83fdd1c99a8af4cf":[6,0,178,0],
@@ -21,12 +24,12 @@ var NAVTREEINDEX183 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[6,0,2301,0,1],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2301,0,0],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2301,0,2],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,34,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,12,6,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,34,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,34,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,12,6,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,12,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,34,6,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,12,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,34,6,22,2],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,12,6,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1910],
@@ -246,8 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dbc/classspell__reflective__shield__aura.html#a87750183d2b2d6adb67bba4a1f767029":[6,0,3955,3],
 "d6/dbc/classspell__reflective__shield__aura.html#ab3d9f3679931b4b3b29713602d08701d":[6,0,3955,0],
 "d6/dbc/classspell__reflective__shield__aura.html#ab68a5ccfb0d96390bb83c329eb849cdd":[6,0,3955,2],
-"d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html":[6,0,2224,0],
-"d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html#a0886d83c8ab8b7db728928ecf922031b":[6,0,2224,0,0],
-"d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html#a13177e318e7777ecb13ba71c4f10f425":[6,0,2224,0,2],
-"d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html#a45919da006b0e767ec38810a6fcbac5d":[6,0,2224,0,4]
+"d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html":[6,0,2224,0]
 };

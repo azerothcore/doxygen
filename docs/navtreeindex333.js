@@ -1,5 +1,8 @@
 var NAVTREEINDEX333 =
 {
+"dd/d27/structSmartAction.html#a3209e6b129184b76674308fe8e25f863":[6,0,2596,165],
+"dd/d27/structSmartAction.html#a3309a73728b4a8645bfe9c67116b4314":[6,0,2596,135],
+"dd/d27/structSmartAction.html#a354420593a56fefd66f57cb23a4b1dea":[6,0,2596,141],
 "dd/d27/structSmartAction.html#a36085bc5376c1f93e562c1f485305363":[6,0,2596,230],
 "dd/d27/structSmartAction.html#a36e36e555e14454f7594bf5a3943032e":[6,0,2596,286],
 "dd/d27/structSmartAction.html#a392f18bdae8a530c86c176d4e405333d":[6,0,2596,168],
@@ -246,8 +249,5 @@ var NAVTREEINDEX333 =
 "dd/d27/structSmartAction.html#afdfac7cae8c27992b345ead5c44372fe":[6,0,2596,214],
 "dd/d28/classnpc__lk__spirit__bomb.html":[6,0,1952],
 "dd/d28/classnpc__lk__spirit__bomb.html#acc08d41aa1761c450de782e92307ad7c":[6,0,1952,1],
-"dd/d28/classnpc__lk__spirit__bomb.html#ade74c00beb2da69dafb0ae93d771c430":[6,0,1952,2],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html":[6,0,3493],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a23b6afe1e35edc4013767b119b8e0218":[6,0,3493,1],
-"dd/d29/classspell__jaws__of__death__claw__swipe__pct__damage.html#a7ca8b15a5dc204a11095fddb3c8d12c0":[6,0,3493,0]
+"dd/d28/classnpc__lk__spirit__bomb.html#ade74c00beb2da69dafb0ae93d771c430":[6,0,1952,2]
 };

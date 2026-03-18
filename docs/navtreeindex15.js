@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d91/BattlegroundIC_8h.html#adb47e6c643f659f5c735276e7c3a0800acea6d4b77754d7f45497dae27e8a6cd5":[7,0,0,0,1,2,8,1,11,12,1],
 "d0/d91/BattlegroundIC_8h.html#adb47e6c643f659f5c735276e7c3a0800ade2f61bedc27fc253dfd523f82f36c59":[7,0,0,0,1,2,8,1,11,12,61],
 "d0/d91/BattlegroundIC_8h.html#adb47e6c643f659f5c735276e7c3a0800ae048456da4a80233b580f019529eeaba":[7,0,0,0,1,2,8,1,11,12,48],
 "d0/d91/BattlegroundIC_8h.html#adb47e6c643f659f5c735276e7c3a0800ae1d7ace346cae2e75b167f229e595f60":[7,0,0,0,1,2,8,1,11,12,24],
@@ -123,16 +124,16 @@ var NAVTREEINDEX15 =
 "d0/d9b/structboss__dalronn__the__controller.html#aad89cfa81c69058adc633e85ded5b4e3":[6,0,432,3],
 "d0/d9b/structboss__dalronn__the__controller.html#ac2845d24aa036372cd0084d2b5e8090b":[6,0,432,10],
 "d0/d9b/structboss__dalronn__the__controller.html#ad11e43d40a61f093b5e51482437467b8":[6,0,432,1],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[6,0,0,86],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[5,0,1,98],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[5,0,1,98,2],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html":[6,0,0,86],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[6,0,0,86,2],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[6,0,0,86,1],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a031abed7dd2e5523991bf72d47e8e050":[5,0,1,98,2],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[5,0,1,98,1],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a042697dbc7622f5ff96bd1ade1afe5eb":[6,0,0,86,1],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a470ab1e22a90a00752717d76b45a7aab":[6,0,0,86,0],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a470ab1e22a90a00752717d76b45a7aab":[5,0,1,98,0],
-"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[5,0,1,98,3],
 "d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[6,0,0,86,3],
+"d0/d9c/classAcore_1_1NearestVisibleDetectableContestedGuardUnitCheck.html#a6cb490747146e1861006654deea366eb":[5,0,1,98,3],
 "d0/d9d/SpellAuraEffects_8cpp.html":[7,0,0,0,1,2,41,0,1],
 "d0/d9d/SpellAuraEffects_8cpp.html#a2817e7c4c5917ae8deba00b38850e8db":[7,0,0,0,1,2,41,0,1,0],
 "d0/d9d/structMMAP_1_1TileInfo.html":[6,0,6,13],
@@ -143,10 +144,10 @@ var NAVTREEINDEX15 =
 "d0/d9d/structMMAP_1_1TileInfo.html#a54cc23d82dfe690e0d62b6156d440fc1":[5,0,21,13,3],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[5,0,21,13,2],
 "d0/d9d/structMMAP_1_1TileInfo.html#a9d7c909370359edafa8a9b6a91cef354":[6,0,6,13,2],
-"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[6,0,6,13,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[5,0,21,13,4],
-"d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[5,0,21,13,0],
+"d0/d9d/structMMAP_1_1TileInfo.html#ab7fba310dd471fddcf2e7d6fba3205ed":[6,0,6,13,4],
 "d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[6,0,6,13,0],
+"d0/d9d/structMMAP_1_1TileInfo.html#af1a25ded4212f141ab4f32db95709210":[5,0,21,13,0],
 "d0/d9e/CascadeProcSuppressionTest_8cpp.html":[7,0,0,0,2,2,0,7,2],
 "d0/d9e/CascadeProcSuppressionTest_8cpp.html#a0fa51afabb656e204b564ca6fb0edc9c":[7,0,0,0,2,2,0,7,2,4],
 "d0/d9e/CascadeProcSuppressionTest_8cpp.html#a111eadd5b4ba536e22a70ee1ac1a8010":[7,0,0,0,2,2,0,7,2,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/da4/classSpellImplicitTargetInfo.html#a59769a12291673682e1b5c3650e8aff7":[6,0,4391,8],
 "d0/da4/classSpellImplicitTargetInfo.html#a5dd39484ccfed1e34b27d957614b45e6":[6,0,4391,9],
 "d0/da4/classSpellImplicitTargetInfo.html#a6eadac193f40d3a14db74d6e07552bdb":[6,0,4391,1],
-"d0/da4/classSpellImplicitTargetInfo.html#a8e746c8dd4956a1bedc78c932740dfca":[6,0,4391,2],
-"d0/da4/classSpellImplicitTargetInfo.html#a964c185b1d3ed3563c6efa68e8bf9f42":[6,0,4391,7]
+"d0/da4/classSpellImplicitTargetInfo.html#a8e746c8dd4956a1bedc78c932740dfca":[6,0,4391,2]
 };

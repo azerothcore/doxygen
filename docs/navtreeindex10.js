@@ -1,5 +1,6 @@
 var NAVTREEINDEX10 =
 {
+"d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651a35e58ffc84a8e4dbd99478f2848678b2":[7,0,0,0,1,2,41,2,20,1],
 "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651a505182af284efeaf5427cd49ccdae48a":[7,0,0,0,1,2,41,2,20,0],
 "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651a68d09fc4591462cf7d4f4338753af548":[7,0,0,0,1,2,41,2,20,2],
 "d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651af4c5b99ead243a7fd18d4925aa310dc4":[7,0,0,0,1,2,41,2,20,3],
@@ -159,16 +160,16 @@ var NAVTREEINDEX10 =
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a1a95cfd469f27284e6ff35e9856bddcb":[6,0,0,22,5],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[5,0,1,34,1],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a71355418a935e1e4c4f5294c0e6a244f":[6,0,0,22,1],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,34,3],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[6,0,0,22,3],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#a92b2dcfedf97677e84f46ee0e3affb91":[5,0,1,34,3],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[5,0,1,34,6],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#acf10f61f95961ff4b9fd4a8c162fa029":[6,0,0,22,6],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[5,0,1,34,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[6,0,0,22,0],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ad51c7d9c256d8d769e7e5df2a618f233":[5,0,1,34,0],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[6,0,0,22,4],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae7a76a9bcc28c6e4705a2885b02be20d":[5,0,1,34,4],
-"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,1,34,2],
 "d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[6,0,0,22,2],
+"d0/d7e/classAcore_1_1AnyDeadUnitObjectInRangeCheck.html#ae885f49537043421a92b44c201bec358":[5,0,1,34,2],
 "d0/d7e/structMySQLHandle.html":[6,0,1564],
 "d0/d7e/structRealm.html":[6,0,2513],
 "d0/d7e/structRealm.html#a0131d758f10cbae0c610c2c088299feb":[6,0,2513,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX10 =
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caec10f95e773d0a10745a1335a23ecc5c":[7,0,0,0,1,3,5,6,2,25,6],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caf0cda9d8ada6170ec2b02ae052b2750b":[7,0,0,0,1,3,5,6,2,25,18],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caf12ee6db3e95dd46b1db49f97872cf00":[7,0,0,0,1,3,5,6,2,25,4],
-"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caf5f223f639cebf6791c85e554151f036":[7,0,0,0,1,3,5,6,2,25,3],
-"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,5,6,2,23]
+"d0/d80/boss__deathbringer__saurfang_8cpp.html#a5bd342133be8c2137b831460acc9298caf5f223f639cebf6791c85e554151f036":[7,0,0,0,1,3,5,6,2,25,3]
 };

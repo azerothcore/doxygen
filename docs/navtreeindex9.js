@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d0/d6e/shadowfang__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d":[7,0,0,0,1,3,2,9,2,4],
 "d0/d6e/shadowfang__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da44c78702d5d0d06edcfa62a51f90aba0":[7,0,0,0,1,3,2,9,2,4,0],
 "d0/d6e/shadowfang__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dabe0733a4d225a0cab150dc8b569705f3":[7,0,0,0,1,3,2,9,2,4,1],
 "d0/d6e/shadowfang__keep_8h.html#a11b4fe9f4efc221e06a058a1b6650e3dafaab886da1f8baab8eccde6a723c5dfa":[7,0,0,0,1,3,2,9,2,4,2],
@@ -47,8 +48,8 @@ var NAVTREEINDEX9 =
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a922cb6d06285bdf9f3d89ff990c40b0a":[6,0,12,10,10,3],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[6,0,12,10,10,0],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#a955f91d0d65c64f154f99b3b9472e273":[5,0,34,10,10,0],
-"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[6,0,12,10,10,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[5,0,34,10,10,1],
+"d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#aa242d4ca729d67d7fd58dc81985f22f9":[6,0,12,10,10,1],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[5,0,34,10,10,2],
 "d0/d72/classWorldPackets_1_1Misc_1_1Playsound.html#acb4bdd9a1613a158832115e4c18bfcd9":[6,0,12,10,10,2],
 "d0/d72/classspell__felmyst__fog__of__corruption.html":[6,0,2950],
@@ -248,6 +249,5 @@ var NAVTREEINDEX9 =
 "d0/d78/Spell_8h.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a724b22f40487687925b63b0d9661651a":[7,0,0,0,1,2,41,2,22,1],
 "d0/d78/Spell_8h.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a7b43656e0f553be5f98a3f4c839236ab":[7,0,0,0,1,2,41,2,22,2],
 "d0/d78/Spell_8h.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a87a9dc2134a092ce47e269803da73049":[7,0,0,0,1,2,41,2,22,0],
-"d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651":[7,0,0,0,1,2,41,2,20],
-"d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651a35e58ffc84a8e4dbd99478f2848678b2":[7,0,0,0,1,2,41,2,20,1]
+"d0/d78/Spell_8h.html#a5f7398919556f987efbdbf8c7ed4b651":[7,0,0,0,1,2,41,2,20]
 };

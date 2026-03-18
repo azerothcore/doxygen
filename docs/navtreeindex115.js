@@ -1,5 +1,8 @@
 var NAVTREEINDEX115 =
 {
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da6470ad6199f35977a700f76457eac851":[7,0,0,0,1,2,8,1,3,21,53],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da6565ab7820a1027c65fd22316904d1dc":[7,0,0,0,1,2,8,1,3,21,51],
+"d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da6a00606d1f45095100ee170bbc4af7cb":[7,0,0,0,1,2,8,1,3,21,44],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da6e71aa86b897b6eaab0136d285e8d4e4":[7,0,0,0,1,2,8,1,3,21,34],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da73efadafd091506a9fe6443fb8ac54ce":[7,0,0,0,1,2,8,1,3,21,49],
 "d3/dd4/BattlegroundAV_8h.html#aabedfa25d0f57f64f9eb1488323cc08da7496718b40dad005781a2448bc9ff8e2":[7,0,0,0,1,2,8,1,3,21,63],
@@ -246,8 +249,5 @@ var NAVTREEINDEX115 =
 "d3/ddf/classAllBattlegroundScript.html":[6,0,149],
 "d3/ddf/classAllBattlegroundScript.html#a00e6e5d7ec0925a28b84719f1ef32b8d":[6,0,149,15],
 "d3/ddf/classAllBattlegroundScript.html#a1407ab7e2b4630ec8def2f7e6e532831":[6,0,149,3],
-"d3/ddf/classAllBattlegroundScript.html#a159e7e138cb75f57f013cd50a4a16a49":[6,0,149,18],
-"d3/ddf/classAllBattlegroundScript.html#a1991c567eb8578f1874613987526ce10":[6,0,149,11],
-"d3/ddf/classAllBattlegroundScript.html#a30ec158dc1fdc13712de9db261eac589":[6,0,149,9],
-"d3/ddf/classAllBattlegroundScript.html#a39a66e14a6e18f233ce33a86492142f7":[6,0,149,20]
+"d3/ddf/classAllBattlegroundScript.html#a159e7e138cb75f57f013cd50a4a16a49":[6,0,149,18]
 };

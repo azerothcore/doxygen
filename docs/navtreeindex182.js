@@ -1,5 +1,8 @@
 var NAVTREEINDEX182 =
 {
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a17ac2d316ec1de174e4ec1ddf8f22a9a":[7,0,0,0,1,2,16,6,2,8,39],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a18b2632c7e6f3079e8a2cafa094d1477":[7,0,0,0,1,2,16,6,2,8,34],
+"d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a213f9282a4c8984e0f80f63df1ee0070":[7,0,0,0,1,2,16,6,2,8,0],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a240acb20321b160a3a785a61bd6335ff":[7,0,0,0,1,2,16,6,2,8,40],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4":[7,0,0,0,1,2,16,6,2,8,16],
 "d6/d9a/PetDefines_8h.html#a275a80dca15b0657c37715c1b9e3b9b7a43d8df8353834d274815da41bec89570":[7,0,0,0,1,2,16,6,2,8,32],
@@ -133,8 +136,8 @@ var NAVTREEINDEX182 =
 "d6/d9d/EventMap_8cpp.html":[7,0,0,0,0,15,9],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[6,0,12,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[6,0,12,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
@@ -143,8 +146,8 @@ var NAVTREEINDEX182 =
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[6,0,12,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[6,0,12,11,4,2],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[6,0,12,11,4,0],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[6,0,12,11,4,0],
 "d6/d9d/classspell__brewfest__add__mug.html":[6,0,2716],
 "d6/d9d/classspell__brewfest__add__mug.html#a1c69fb2fd3fa623d62647fca738d27d6":[6,0,2716,1],
 "d6/d9d/classspell__brewfest__add__mug.html#a3860ad8a34e37601f7a4cef395f7ab2a":[6,0,2716,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX182 =
 "d6/da9/classTotemAI.html#a75a0cdb27da98b47cf3ccbd2e594cd18":[6,0,4498,5],
 "d6/da9/classTotemAI.html#a796d05b45b4ba4dc23f04897fc2ce253":[6,0,4498,4],
 "d6/da9/classTotemAI.html#a7a5fc1dc37708fab628bc78bb28575be":[6,0,4498,6],
-"d6/da9/classTotemAI.html#a9457dae982b3c1d411aa42ff2f30feac":[6,0,4498,2],
-"d6/da9/classTotemAI.html#aa5bb81b51ec79a4328016cca34363880":[6,0,4498,1],
-"d6/da9/classTotemAI.html#acd8ed4528ac7c16182a0470e49b422f6":[6,0,4498,3],
-"d6/da9/classTotemAI.html#ad57f973e52d22f45b5171faeb28f2e91":[6,0,4498,0]
+"d6/da9/classTotemAI.html#a9457dae982b3c1d411aa42ff2f30feac":[6,0,4498,2]
 };

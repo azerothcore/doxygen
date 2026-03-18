@@ -1,5 +1,6 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5d/classspell__assembly__rune__of__summoning__aura.html#ac6d961793ddb6423540da9d97e016b82":[6,0,2651,1],
 "d0/d5d/structnpc__lava__spawn.html":[6,0,1946],
 "d0/d5d/structnpc__lava__spawn.html#a3b93df8de3c0f8a50768b860cfa11b72":[6,0,1946,1],
 "d0/d5d/structnpc__lava__spawn.html#a6a17c8c40b0110b688ff5faef5585185":[6,0,1946,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d65/namespaceAcore_1_1Containers.html#ad8b2c621f5a22f8ae253a1c9733794b9":[5,0,1,3,5],
 "d0/d66/classDBUpdater.html":[6,0,981],
 "d0/d66/classDBUpdater.html#a0dc68f83bce10c3e1cd26cb3924909df":[6,0,981,9],
-"d0/d66/classDBUpdater.html#a167281c797c975a635294c3f5f2484ff":[6,0,981,12],
-"d0/d66/classDBUpdater.html#a261c8c0fbf6d0532436ce0457617f238":[6,0,981,29]
+"d0/d66/classDBUpdater.html#a167281c797c975a635294c3f5f2484ff":[6,0,981,12]
 };

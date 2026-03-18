@@ -1,5 +1,8 @@
 var NAVTREEINDEX161 =
 {
+"d5/ddd/classspell__xt002__321__boombot__aura.html#a683a37c787ae5797d8c68aca1af0742a":[6,0,4344,4],
+"d5/ddd/classspell__xt002__321__boombot__aura.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60":[6,0,4344,2],
+"d5/ddd/structAuctionSearchListRequest.html":[6,0,280],
 "d5/ddd/structAuctionSearchListRequest.html#a1e9d71ab67e1a9eb50333d620c4b170c":[6,0,280,2],
 "d5/ddd/structAuctionSearchListRequest.html#a73178eac3df25fd103b20b5894e8c4d8":[6,0,280,1],
 "d5/ddd/structAuctionSearchListRequest.html#ac619da4568504e2d25a0f90a4f8d1f0a":[6,0,280,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX161 =
 "d5/deb/structboss__kologarn__eyebeam.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d":[6,0,590,1],
 "d5/deb/structboss__kologarn__eyebeam.html#ae51ea98b22b3a0734347825b3a0346be":[6,0,590,0],
 "d5/dec/classspell__black__temple__charge__rage__aura.html":[6,0,2680],
-"d5/dec/classspell__black__temple__charge__rage__aura.html#a0dca39c324a5431d4861c1f20a34355e":[6,0,2680,0],
-"d5/dec/classspell__black__temple__charge__rage__aura.html#a6201eaa3b961e838a535b80679996ada":[6,0,2680,2],
-"d5/dec/classspell__black__temple__charge__rage__aura.html#a8f52092f25bdbf453d4126c56ff69f0a":[6,0,2680,1],
-"d5/dec/classspell__kiljaeden__dragon__breath.html":[6,0,3523]
+"d5/dec/classspell__black__temple__charge__rage__aura.html#a0dca39c324a5431d4861c1f20a34355e":[6,0,2680,0]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX49 =
 {
+"d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a0fe9048e296d787a40432723242bf3d8":[7,0,0,0,1,3,9,2,213,3],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a11863def8598b3dc0e03477db3152fdd":[7,0,0,0,1,3,9,2,213,35],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a13ed09bab4d7f0f08aaf3549e14d73e5":[7,0,0,0,1,3,9,2,213,20],
 "d1/de4/spell__generic_8cpp.html#aa5a7a1d4377ce125ec27e0c810a98609a1c4da6655bb56c8ba901a578cfae055c":[7,0,0,0,1,3,9,2,213,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX49 =
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ab4d27deece6b8274300904571fb62e90":[6,0,1320,0,13],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ab7130c806073258f4efae9e9177587be":[6,0,1320,0,10],
 "d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ad3eaa065114b6a0d2a38844df9289dc7":[6,0,1320,0,1],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ad6f52ef932cc09e377325e83482a3b5c":[6,0,1320,0,7],
-"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ae8c49e7531b89074cc07ac0555650f05":[6,0,1320,0,5]
+"d1/df5/structinstance__dire__maul_1_1instance__dire__maul__InstanceMapScript.html#ad6f52ef932cc09e377325e83482a3b5c":[6,0,1320,0,7]
 };

@@ -305,6 +305,7 @@ var classScriptMgr =
     [ "OnPlayerCanJoinInArenaQueue", "d2/d73/classScriptMgr.html#a3c68ad7d1e89c214d54bd47fb5178748", null ],
     [ "OnPlayerCanJoinInBattlegroundQueue", "d2/d73/classScriptMgr.html#a4abaf79bf61c7b90a929c1720dc806a1", null ],
     [ "OnPlayerCanJoinLfg", "d2/d73/classScriptMgr.html#a43b1e480d35bb658862f8e517464e5ba", null ],
+    [ "OnPlayerCanLearnTalent", "d2/d73/classScriptMgr.html#ab153d164d5665cc7c10fa95dbd8140dd", null ],
     [ "OnPlayerCanPlaceAuctionBid", "d2/d73/classScriptMgr.html#a9d1ff94d4a386e82cf07dca82f8efad7", null ],
     [ "OnPlayerCanRepopAtGraveyard", "d2/d73/classScriptMgr.html#a6ffb09fe1445d9c2a12aa3a5336d7bed", null ],
     [ "OnPlayerCanResurrect", "d2/d73/classScriptMgr.html#a82d5fe3f34855a583e0acfd62048da83", null ],

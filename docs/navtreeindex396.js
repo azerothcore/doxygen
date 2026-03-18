@@ -1,5 +1,9 @@
 var NAVTREEINDEX396 =
 {
+"df/d34/structNotOnSameSide.html#a77c1d18f54609a5f4da2e9c13f62293d":[6,0,1591,2],
+"df/d34/structNotOnSameSide.html#ac3189b202a8c0ca4c8f52799ed54e284":[6,0,1591,0],
+"df/d36/classRedirectSpellEvent.html":[6,0,2519],
+"df/d36/classRedirectSpellEvent.html#a010f14a7d389b4e9ae9896061fa18a65":[6,0,2519,2],
 "df/d36/classRedirectSpellEvent.html#a1b3fb598748362379fef15b3172d8e2b":[6,0,2519,3],
 "df/d36/classRedirectSpellEvent.html#a34ae2bc23904558bd5f5b99e8f1c5fdc":[6,0,2519,1],
 "df/d36/classRedirectSpellEvent.html#a77d243d64c2fc651d71c42e10a315161":[6,0,2519,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX396 =
 "df/d41/classSocketMgr.html#acc5fbaea6228d5d5122e22472c79476e":[6,0,2609,4],
 "df/d41/classSocketMgr.html#ad0830a83c94a940b254b71b4c7c979c2":[6,0,2609,5],
 "df/d41/classSocketMgr.html#af397e6129662d41adeeef25d27a980ea":[6,0,2609,10],
-"df/d41/instance__black__temple_8cpp.html":[7,0,0,0,1,3,7,1,10],
-"df/d41/instance__black__temple_8cpp.html#a15f766c45ce62741982e2a1711514aa8":[7,0,0,0,1,3,7,1,10,15],
-"df/d41/instance__black__temple_8cpp.html#a412286b689bd324fedd65ddd8dde8afb":[7,0,0,0,1,3,7,1,10,17],
-"df/d41/instance__black__temple_8cpp.html#a69c4a0ca4694d5ed1d42f0373dd5d80c":[7,0,0,0,1,3,7,1,10,18],
-"df/d41/instance__black__temple_8cpp.html#aa75d7d0ffe0cef214f982966c33db1c1":[7,0,0,0,1,3,7,1,10,16]
+"df/d41/instance__black__temple_8cpp.html":[7,0,0,0,1,3,7,1,10]
 };

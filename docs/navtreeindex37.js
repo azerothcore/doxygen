@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"d1/d79/structnpc__shadowy__mercenary_1_1npc__shadowy__mercenaryAI.html#a001fa53e29cf8a20ed2e3312058ceb0a":[6,0,2131,0,1],
 "d1/d79/structnpc__shadowy__mercenary_1_1npc__shadowy__mercenaryAI.html#a31a9ddf038046534fad1d41afcf76548":[6,0,2131,0,3],
 "d1/d79/structnpc__shadowy__mercenary_1_1npc__shadowy__mercenaryAI.html#a33e576c92d1b10492cb6e65000ca8198":[6,0,2131,0,4],
 "d1/d79/structnpc__shadowy__mercenary_1_1npc__shadowy__mercenaryAI.html#a4c6e5a49dc4364477187a0189a166578":[6,0,2131,0,8],
@@ -92,8 +93,8 @@ var NAVTREEINDEX37 =
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a0cb7d140b51d52e0db5b8d9f70250ced":[5,0,1,23,2],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[5,0,1,23,1],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#a99f472f33c0e5a6a76d6ffc08af2783b":[6,0,0,11,1],
-"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[6,0,0,11,4],
+"d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#abf653360d2ee482728fb137a37fe0512":[5,0,1,23,4],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[5,0,1,23,3],
 "d1/d84/classAcore_1_1AllCreaturesOfEntryInRange.html#ade8cc66e1cd421550d2674e3ad960f48":[6,0,0,11,3],
 "d1/d85/boss__high__botanist__freywinn_8cpp.html":[7,0,0,0,1,3,7,5,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12":[7,0,0,0,1,3,5,9,2,3,31,9],
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc052e50f034cb22a759436f67ea9de9":[7,0,0,0,1,3,5,9,2,3,31,6],
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a":[7,0,0,0,1,3,5,9,2,3,31,8],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[5,0,34,6,18],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[6,0,12,6,18]
 };

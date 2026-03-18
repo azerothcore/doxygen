@@ -1,5 +1,6 @@
 var NAVTREEINDEX35 =
 {
+"d1/d61/structCreatureTemplate.html#a8f1f7c9c67532ec302ebeb41b340e287":[6,0,952,27],
 "d1/d61/structCreatureTemplate.html#a91c0796b5706b563d3ab153bc6f4a8fe":[6,0,952,58],
 "d1/d61/structCreatureTemplate.html#a93fc6818b8e2dc407896a87249549989":[6,0,952,41],
 "d1/d61/structCreatureTemplate.html#aa174cd6d183b65271be32dfb5f972eaf":[6,0,952,23],
@@ -37,8 +38,8 @@ var NAVTREEINDEX35 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,15,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,15,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,15,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,15,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,15,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,15,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,12,15,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,34,15,1,2],
 "d1/d63/GameTime_8h.html":[7,0,0,0,1,2,44,1],
@@ -57,16 +58,16 @@ var NAVTREEINDEX35 =
 "d1/d63/structargentPonyBanner.html#abb6071e172abbcbc65020a0ad9554a03":[6,0,207,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[5,0,1,88],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html":[6,0,0,76],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[5,0,1,88,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3930],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[6,0,3930,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[6,0,3930,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX35 =
 "d1/d68/classspell__mage__burnout.html#a3d3db432fb051785f51ece4052ec8907":[6,0,3571,1],
 "d1/d68/classspell__mage__burnout.html#a4f8e030154606e0781ebb89294019e0e":[6,0,3571,0],
 "d1/d68/classspell__mage__burnout.html#a8cfdc8d98946fca603971ad91035e21c":[6,0,3571,3],
-"d1/d68/classspell__mage__burnout.html#abfd3c0ad08ad287b38e8da437c18376c":[6,0,3571,4],
-"d1/d68/classspell__mage__burnout.html#aed40577ca9a1de3efc501606bcc9a8dd":[6,0,3571,2]
+"d1/d68/classspell__mage__burnout.html#abfd3c0ad08ad287b38e8da437c18376c":[6,0,3571,4]
 };

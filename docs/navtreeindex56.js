@@ -1,5 +1,6 @@
 var NAVTREEINDEX56 =
 {
+"d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada0d2696d111c150a16896fc7a9b88af53":[7,0,0,0,1,2,8,1,1,4,1],
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada1659f989b2c934ff7bbb18ddf3889f0f":[7,0,0,0,1,2,8,1,1,4,0],
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada24a3b25885e054c2107989e87e2008e1":[7,0,0,0,1,2,8,1,1,4,8],
 "d2/d35/BattlegroundAB_8h.html#a7cb15f4d123cdbe557e15c7daaf014ada4ba9970fd23b48756d7a9cb2774752d7":[7,0,0,0,1,2,8,1,1,4,3],
@@ -196,8 +197,8 @@ var NAVTREEINDEX56 =
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a554849d02d923439bd810b7d8c242afa":[6,0,2219,0,3],
 "d2/d38/structnpc__toc__warlock_1_1npc__toc__warlockAI.html#a62b2df362bc07aa4a9c14cbc63a10e05":[6,0,2219,0,2],
 "d2/d39/classDBCFile_1_1NotFound.html":[6,0,975,2],
-"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,975,2,0],
 "d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,975,2,1],
+"d2/d39/classDBCFile_1_1NotFound.html#a4739d3e517296da2f645383194b13a62":[6,0,975,2,0],
 "d2/d39/classboss__varos.html":[6,0,773],
 "d2/d39/classboss__varos.html#a36733c4eb6179e43d61a1c37480666ea":[6,0,773,2],
 "d2/d39/classboss__varos.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c":[6,0,773,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421":[7,0,0,0,1,3,7,2,0,4,5,2],
 "d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab5ce504033be3070a9dd1c8ee753183e":[7,0,0,0,1,3,7,2,0,4,5,0],
 "d2/d3d/boss__lurker__below_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af90b3f4f3487db802150211ac829c7ae":[7,0,0,0,1,3,7,2,0,4,5,4],
-"d2/d3d/boss__lurker__below_8cpp.html#a55e6b22a71b5c615b82389bdf1717718":[7,0,0,0,1,3,7,2,0,4,8],
-"d2/d3d/boss__lurker__below_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,2,0,4,6]
+"d2/d3d/boss__lurker__below_8cpp.html#a55e6b22a71b5c615b82389bdf1717718":[7,0,0,0,1,3,7,2,0,4,8]
 };

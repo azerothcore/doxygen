@@ -1,17 +1,18 @@
 var NAVTREEINDEX19 =
 {
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a0cf0b21ebfccb843ee23831e17982081":[5,0,34,8,18,3],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html":[5,0,34,8,18],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a0cf0b21ebfccb843ee23831e17982081":[6,0,12,8,18,3],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a0cf0b21ebfccb843ee23831e17982081":[5,0,34,8,18,3],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a19d0895bf7a25da8d8bdaceed14ff0a1":[5,0,34,8,18,4],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a19d0895bf7a25da8d8bdaceed14ff0a1":[6,0,12,8,18,4],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[5,0,34,8,18,2],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[6,0,12,8,18,2],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[5,0,34,8,18,1],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a30a5a1fccf9c028fa207e58dd0ff82b6":[5,0,34,8,18,2],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[6,0,12,8,18,1],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a475122a155c96446ecad1b92ef5c7a19":[5,0,34,8,18,1],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[5,0,34,8,18,0],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#a603871bfd69a2bcc2083de350f48875a":[6,0,12,8,18,0],
-"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[6,0,12,8,18,5],
 "d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[5,0,34,8,18,5],
+"d0/dc4/classWorldPackets_1_1Item_1_1SwapItem.html#ab080d55f63eb07c8db090123260bee23":[6,0,12,8,18,5],
 "d0/dc5/classNpcRunToHome.html":[6,0,2326],
 "d0/dc5/classNpcRunToHome.html#a0da766e3bae0d8d97a46ef82b3873cc0":[6,0,2326,1],
 "d0/dc5/classNpcRunToHome.html#a7dd38171a6e55665fc28a74212313e51":[6,0,2326,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html#ab85b5379b6c177dc1d61ccd14106a325":[6,0,1341,0,8],
 "d0/dd3/structinstance__nexus_1_1instance__nexus__InstanceMapScript.html#ac148c67823484eee38ab6646dfb68530":[6,0,1341,0,5],
 "d0/dd4/classspell__black__temple__bloodbolt.html":[6,0,2679],
-"d0/dd4/classspell__black__temple__bloodbolt.html#a2b46490b70bf93effb7379686e648618":[6,0,2679,0],
-"d0/dd4/classspell__black__temple__bloodbolt.html#a5030d071372ef12663f6a75be637476e":[6,0,2679,1]
+"d0/dd4/classspell__black__temple__bloodbolt.html#a2b46490b70bf93effb7379686e648618":[6,0,2679,0]
 };

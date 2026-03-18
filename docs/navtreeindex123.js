@@ -1,5 +1,8 @@
 var NAVTREEINDEX123 =
 {
+"d4/d22/structboss__hodir.html#a31c3693cdf73d684a5a39963ff5a4121":[6,0,550,10],
+"d4/d22/structboss__hodir.html#a33f6771817e47bda0fc2067a40258cc1":[6,0,550,13],
+"d4/d22/structboss__hodir.html#a35dd93db8580c4b8a971f129e3fd3827":[6,0,550,4],
 "d4/d22/structboss__hodir.html#a388eaf944b07001390f4f1796a8918b7":[6,0,550,2],
 "d4/d22/structboss__hodir.html#a42f8a10a8b148d9f0bfd9eb943a15f03":[6,0,550,20],
 "d4/d22/structboss__hodir.html#a4e075098d5ae6f553efcac0b76e777b5":[6,0,550,5],
@@ -101,8 +104,8 @@ var NAVTREEINDEX123 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2694],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2694,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2694,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX123 =
 "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06":[7,0,0,0,1,3,5,9,0,1,3,0],
 "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76":[7,0,0,0,1,3,5,9,0,1,3,1],
 "d4/d2b/boss__ionar_8cpp.html#a55c0c07978cfe70c0de268fffe25dc01aecc2f7d81ce1fd43bc3c75f6fa49b4cf":[7,0,0,0,1,3,5,9,0,1,3,5],
-"d4/d2b/boss__ionar_8cpp.html#abbb21fdf05e396088cb8e568c506cf60":[7,0,0,0,1,3,5,9,0,1,7],
-"d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45":[7,0,0,0,1,3,5,9,0,1,4],
-"d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45a5fadc424ad07a56106e789cd73d21913":[7,0,0,0,1,3,5,9,0,1,4,1],
-"d4/d2b/boss__ionar_8cpp.html#ad24f90689dd5be1e46b422f4ddd65e45a884668d3645a97e3290c97af7d8c82af":[7,0,0,0,1,3,5,9,0,1,4,2]
+"d4/d2b/boss__ionar_8cpp.html#abbb21fdf05e396088cb8e568c506cf60":[7,0,0,0,1,3,5,9,0,1,7]
 };

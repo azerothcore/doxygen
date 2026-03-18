@@ -1,5 +1,8 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08ae84684305059a1606f582290905e206e":[7,0,0,0,1,3,5,9,2,13,46,70],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aea69465d125cca0657956b9f9d40be17":[7,0,0,0,1,3,5,9,2,13,46,12],
+"d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aebf3efa796179c4cf450caa64d567448":[7,0,0,0,1,3,5,9,2,13,46,72],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08aec8e6370f7859a47a5348de489da1a56":[7,0,0,0,1,3,5,9,2,13,46,18],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af705f331e78877c4f65918835eba1bb3":[7,0,0,0,1,3,5,9,2,13,46,58],
 "d3/d32/boss__yoggsaron_8cpp.html#a1b30ee7b66756f07902ec6940e772f08af81f7bb9224117681068b61935ed5b3e":[7,0,0,0,1,3,5,9,2,13,46,60],
@@ -246,8 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d3d/classnpc__draenei__survivor.html#aa8dde30279bb898a4412491faca79267":[6,0,1771,2],
 "d3/d3e/PassiveAI_8cpp.html":[7,0,0,0,1,2,3,0,6],
 "d3/d3f/classspell__item__healing__trance.html":[6,0,3389],
-"d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[6,0,3389,3],
-"d3/d3f/classspell__item__healing__trance.html#a5dbf2d5e9b31828b79150f40f6033896":[6,0,3389,0],
-"d3/d3f/classspell__item__healing__trance.html#a7afae9d94162490cb40d29159d88f4a8":[6,0,3389,2],
-"d3/d3f/classspell__item__healing__trance.html#a84f326e1353437f29fb051533d3391eb":[6,0,3389,1]
+"d3/d3f/classspell__item__healing__trance.html#a3d39936e9b44abce8746d1ef23c8e27e":[6,0,3389,3]
 };

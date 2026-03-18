@@ -1,5 +1,6 @@
 var NAVTREEINDEX33 =
 {
+"d1/d49/classDatabaseWorkerPool.html#ab829bec07e80b6ee0fd983a45e37bbc3":[6,0,972,6],
 "d1/d49/classDatabaseWorkerPool.html#ac55c306dff67fad0674806500b20be2e":[6,0,972,3],
 "d1/d49/classDatabaseWorkerPool.html#ac70d274e2567dadf93ae9b284665a091":[6,0,972,10],
 "d1/d49/classDatabaseWorkerPool.html#ac7c9774a74e661a407009a63c85cfc39":[6,0,972,21],
@@ -245,9 +246,8 @@ var NAVTREEINDEX33 =
 "d1/d53/classspell__mammoth__explosion.html#aa241c97b4e895d07fe89d03edca29912":[6,0,3620,2],
 "d1/d53/classspell__mammoth__explosion.html#aa84f4c29ca00789bb47661267549cda6":[6,0,3620,3],
 "d1/d53/classspell__mammoth__explosion.html#ac1bfb2b49cd335ca5961b984fadfffb8":[6,0,3620,1],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,117],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html":[5,0,1,129],
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html":[6,0,0,117],
 "d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[6,0,0,117,1],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,1,129,1],
-"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a18572bc1f4cfde19476ac9df393296b2":[5,0,1,129,4]
+"d1/d53/structAcore_1_1WorldObjectListSearcher.html#a154998e616ba17d66cf4899debc92ca1":[5,0,1,129,1]
 };
