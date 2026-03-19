@@ -74,6 +74,7 @@ var classAura =
     [ "GetMaxDuration", "db/dce/classAura.html#a14457cfa6d589b8024bbeeb1d4aa03d3", null ],
     [ "GetOwner", "db/dce/classAura.html#a5041a8d07612a0ddf3bc2b944e14c9ad", null ],
     [ "GetProcEffectMask", "db/dce/classAura.html#a505acbe544ed06762030bbd3f2a02f7c", null ],
+    [ "GetScript", "db/dce/classAura.html#aeffc3672b1a5562b50f2434f69b2681b", null ],
     [ "GetScriptByName", "db/dce/classAura.html#ab048dcde17f19db0f48464f9cdea182b", null ],
     [ "GetSpellInfo", "db/dce/classAura.html#ab4abe60bbc09777bab95a0a0ec66af25", null ],
     [ "GetStackAmount", "db/dce/classAura.html#aae0b7e0da61a681e67a19b6d23c2cee6", null ],

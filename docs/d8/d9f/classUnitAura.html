@@ -366,6 +366,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a97347f8dc5f2dd96c7c45a77c13988a5 inherit pub_methods_classAura"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab048dcde17f19db0f48464f9cdea182b inherit pub_methods_classAura" id="r_ab048dcde17f19db0f48464f9cdea182b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d0f/classAuraScript.html">AuraScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dce/classAura.html#ab048dcde17f19db0f48464f9cdea182b">GetScriptByName</a> (std::string const &amp;scriptName) const</td></tr>
 <tr class="separator:ab048dcde17f19db0f48464f9cdea182b inherit pub_methods_classAura"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeffc3672b1a5562b50f2434f69b2681b inherit pub_methods_classAura" id="r_aeffc3672b1a5562b50f2434f69b2681b"><td class="memTemplParams" colspan="2">template&lt;class Script &gt; </td></tr>
+<tr class="memitem:aeffc3672b1a5562b50f2434f69b2681b inherit pub_methods_classAura"><td class="memTemplItemLeft" align="right" valign="top">Script *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/dce/classAura.html#aeffc3672b1a5562b50f2434f69b2681b">GetScript</a> (std::string const &amp;scriptName) const</td></tr>
+<tr class="separator:aeffc3672b1a5562b50f2434f69b2681b inherit pub_methods_classAura"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a184dae26b21f0c106cd2ccf2db67c452 inherit pub_methods_classAura" id="r_a184dae26b21f0c106cd2ccf2db67c452"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dce/classAura.html#a184dae26b21f0c106cd2ccf2db67c452">GetDebugInfo</a> () const</td></tr>
 <tr class="separator:a184dae26b21f0c106cd2ccf2db67c452 inherit pub_methods_classAura"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a32cda9926aa3e5d7def42ebf85f23bc8 inherit pub_methods_classAura" id="r_a32cda9926aa3e5d7def42ebf85f23bc8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dce/classAura.html#a32cda9926aa3e5d7def42ebf85f23bc8">SetTriggeredByAuraSpellInfo</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *triggeredByAuraSpellInfo)</td></tr>
@@ -528,10 +531,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAura_html_a25ce9277dfb99c46f2f0136e4aa5ab7c"><div class="ttname"><a href="../../db/dce/classAura.html#a25ce9277dfb99c46f2f0136e4aa5ab7c">Aura::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:108</div></div>
 <div class="ttc" id="aclassAura_html_a9ed84a2b95a1cb898a682c809dd25d2b"><div class="ttname"><a href="../../db/dce/classAura.html#a9ed84a2b95a1cb898a682c809dd25d2b">Aura::LoadScripts</a></div><div class="ttdeci">void LoadScripts()</div><div class="ttdef"><b>Definition</b> SpellAuras.cpp:2348</div></div>
 <div class="ttc" id="aclassAura_html_ab477124f94af36e9be706451dce791f7"><div class="ttname"><a href="../../db/dce/classAura.html#ab477124f94af36e9be706451dce791f7">Aura::_InitEffects</a></div><div class="ttdeci">void _InitEffects(uint8 effMask, Unit *caster, int32 *baseAmount)</div><div class="ttdef"><b>Definition</b> SpellAuras.cpp:374</div></div>
-<div class="ttc" id="aclassUnitAura_html_a4b413c5e62eee76875a22345059e6124"><div class="ttname"><a href="../../d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124">UnitAura::m_AuraDRGroup</a></div><div class="ttdeci">DiminishingGroup m_AuraDRGroup</div><div class="ttdef"><b>Definition</b> SpellAuras.h:302</div></div>
-<div class="ttc" id="aclassUnit_html_a95169cc622a982afdbb1e5d865148c9d"><div class="ttname"><a href="../../df/dd9/classUnit.html#a95169cc622a982afdbb1e5d865148c9d">Unit::_AddAura</a></div><div class="ttdeci">void _AddAura(UnitAura *aura, Unit *caster)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4625</div></div>
+<div class="ttc" id="aclassUnitAura_html_a4b413c5e62eee76875a22345059e6124"><div class="ttname"><a href="../../d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124">UnitAura::m_AuraDRGroup</a></div><div class="ttdeci">DiminishingGroup m_AuraDRGroup</div><div class="ttdef"><b>Definition</b> SpellAuras.h:308</div></div>
+<div class="ttc" id="aclassUnit_html_a95169cc622a982afdbb1e5d865148c9d"><div class="ttname"><a href="../../df/dd9/classUnit.html#a95169cc622a982afdbb1e5d865148c9d">Unit::_AddAura</a></div><div class="ttdeci">void _AddAura(UnitAura *aura, Unit *caster)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4617</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l04625">Unit::_AddAura()</a>, <a class="el" href="../../#l00374">Aura::_InitEffects()</a>, <a class="el" href="../../#l03475">DIMINISHING_NONE</a>, <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l02348">Aura::LoadScripts()</a>, and <a class="el" href="../../#l00302">m_AuraDRGroup</a>.</p>
+<p class="reference">References <a class="el" href="../../#l04617">Unit::_AddAura()</a>, <a class="el" href="../../#l00374">Aura::_InitEffects()</a>, <a class="el" href="../../#l03475">DIMINISHING_NONE</a>, <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l02348">Aura::LoadScripts()</a>, and <a class="el" href="../../#l00308">m_AuraDRGroup</a>.</p>
 
 </div>
 </div>
@@ -586,10 +589,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2791</span>}</div>
 <div class="ttc" id="aSharedDefines_8h_html_a1d74b2169d9a060490d81975a3064f50"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a1d74b2169d9a060490d81975a3064f50">DiminishingGroup</a></div><div class="ttdeci">DiminishingGroup</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3474</div></div>
 <div class="ttc" id="aclassAura_html_ad1c2269615a73318dc9438801d1ee087"><div class="ttname"><a href="../../db/dce/classAura.html#ad1c2269615a73318dc9438801d1ee087">Aura::_ApplyForTarget</a></div><div class="ttdeci">virtual void _ApplyForTarget(Unit *target, Unit *caster, AuraApplication *auraApp)</div><div class="ttdef"><b>Definition</b> SpellAuras.cpp:431</div></div>
-<div class="ttc" id="aclassUnitAura_html_a8ebf7b01e7f324938f68ad4ce74d56b5"><div class="ttname"><a href="../../d8/d9f/classUnitAura.html#a8ebf7b01e7f324938f68ad4ce74d56b5">UnitAura::GetDiminishGroup</a></div><div class="ttdeci">DiminishingGroup GetDiminishGroup() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:299</div></div>
-<div class="ttc" id="aclassUnit_html_ae2d52757675f654e5e314e49c5df210b"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae2d52757675f654e5e314e49c5df210b">Unit::ApplyDiminishingAura</a></div><div class="ttdeci">void ApplyDiminishingAura(DiminishingGroup group, bool apply)</div><div class="ttdef"><b>Definition</b> Unit.cpp:12021</div></div>
+<div class="ttc" id="aclassUnitAura_html_a8ebf7b01e7f324938f68ad4ce74d56b5"><div class="ttname"><a href="../../d8/d9f/classUnitAura.html#a8ebf7b01e7f324938f68ad4ce74d56b5">UnitAura::GetDiminishGroup</a></div><div class="ttdeci">DiminishingGroup GetDiminishGroup() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:305</div></div>
+<div class="ttc" id="aclassUnit_html_ae2d52757675f654e5e314e49c5df210b"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae2d52757675f654e5e314e49c5df210b">Unit::ApplyDiminishingAura</a></div><div class="ttdeci">void ApplyDiminishingAura(DiminishingGroup group, bool apply)</div><div class="ttdef"><b>Definition</b> Unit.cpp:11793</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00431">Aura::_ApplyForTarget()</a>, <a class="el" href="../../#l12021">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00299">GetDiminishGroup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00431">Aura::_ApplyForTarget()</a>, <a class="el" href="../../#l11793">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00305">GetDiminishGroup()</a>.</p>
 
 </div>
 </div>
@@ -643,7 +646,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2800</span>}</div>
 <div class="ttc" id="aclassAura_html_a068cc46b636b35d317aea47a2de6253e"><div class="ttname"><a href="../../db/dce/classAura.html#a068cc46b636b35d317aea47a2de6253e">Aura::_UnapplyForTarget</a></div><div class="ttdeci">virtual void _UnapplyForTarget(Unit *target, Unit *caster, AuraApplication *auraApp)</div><div class="ttdef"><b>Definition</b> SpellAuras.cpp:454</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00454">Aura::_UnapplyForTarget()</a>, <a class="el" href="../../#l12021">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00299">GetDiminishGroup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00454">Aura::_UnapplyForTarget()</a>, <a class="el" href="../../#l11793">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00305">GetDiminishGroup()</a>.</p>
 
 </div>
 </div>
@@ -680,7 +683,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000118">Todo:</a></b></dt><dd>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked. </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000117">Todo:</a></b></dt><dd>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked. </dd></dl>
 
 <p>Implements <a class="el" href="../../db/dce/classAura.html#a304404f284fba0b6d8dc046140e309ae">Aura</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno"> 2810</span>{</div>
@@ -797,9 +800,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  299</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124">m_AuraDRGroup</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  305</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124">m_AuraDRGroup</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00302">m_AuraDRGroup</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00308">m_AuraDRGroup</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l02784">_ApplyForTarget()</a>, and <a class="el" href="../../#l02793">_UnapplyForTarget()</a>.</p>
 
@@ -836,9 +839,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2806</span>    <a class="code hl_function" href="../../db/dce/classAura.html#a25ce9277dfb99c46f2f0136e4aa5ab7c">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a07e3ea0e73b3ac9987aedd33c99873c9">RemoveOwnedAura</a>(<span class="keyword">this</span>, removeMode);</div>
 <div class="line"><span class="lineno"> 2807</span>}</div>
 <div class="ttc" id="aclassAura_html_a462457cadd52ba8a0edd5609c71ebbc0"><div class="ttname"><a href="../../db/dce/classAura.html#a462457cadd52ba8a0edd5609c71ebbc0">Aura::IsRemoved</a></div><div class="ttdeci">bool IsRemoved() const</div><div class="ttdef"><b>Definition</b> SpellAuras.h:162</div></div>
-<div class="ttc" id="aclassUnit_html_a07e3ea0e73b3ac9987aedd33c99873c9"><div class="ttname"><a href="../../df/dd9/classUnit.html#a07e3ea0e73b3ac9987aedd33c99873c9">Unit::RemoveOwnedAura</a></div><div class="ttdeci">void RemoveOwnedAura(AuraMap::iterator &amp;i, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4910</div></div>
+<div class="ttc" id="aclassUnit_html_a07e3ea0e73b3ac9987aedd33c99873c9"><div class="ttname"><a href="../../df/dd9/classUnit.html#a07e3ea0e73b3ac9987aedd33c99873c9">Unit::RemoveOwnedAura</a></div><div class="ttdeci">void RemoveOwnedAura(AuraMap::iterator &amp;i, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition</b> Unit.cpp:4902</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l00162">Aura::IsRemoved()</a>, and <a class="el" href="../../#l04910">Unit::RemoveOwnedAura()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l00162">Aura::IsRemoved()</a>, and <a class="el" href="../../#l04902">Unit::RemoveOwnedAura()</a>.</p>
 
 </div>
 </div>
@@ -865,9 +868,9 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  298</span>{ <a class="code hl_variable" href="../../d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124">m_AuraDRGroup</a> = group; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  304</span>{ <a class="code hl_variable" href="../../d8/d9f/classUnitAura.html#a4b413c5e62eee76875a22345059e6124">m_AuraDRGroup</a> = group; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00302">m_AuraDRGroup</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00308">m_AuraDRGroup</a>.</p>
 
 </div>
 </div>
@@ -965,7 +968,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00299">GetDiminishGroup()</a>, <a class="el" href="../../#l00298">SetDiminishGroup()</a>, and <a class="el" href="../../#l02775">UnitAura()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00305">GetDiminishGroup()</a>, <a class="el" href="../../#l00304">SetDiminishGroup()</a>, and <a class="el" href="../../#l02775">UnitAura()</a>.</p>
 
 </div>
 </div>
@@ -979,7 +982,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d9f/classUnitAura.html">UnitAura</a></li>
-    <li class="footer">Generated on Wed Mar 18 2026 06:59:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Mar 19 2026 06:55:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

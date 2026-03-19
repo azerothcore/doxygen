@@ -349,11 +349,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  215</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(creatureList, 80.0f, <a class="code hl_enumvalue" href="../../dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eaae4e7a325446bbf77f2273ec3bc9a4d5">NPC_DRAGON_TURTLE</a>);</div>
 <div class="line"><span class="lineno">  216</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = creatureList.begin(); itr != creatureList.end(); ++itr)</div>
 <div class="line"><span class="lineno">  217</span>        {</div>
-<div class="line"><span class="lineno">  218</span>            (*itr)-&gt;TauntApply(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>());</div>
-<div class="line"><span class="lineno">  219</span>            (*itr)-&gt;AddThreat(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), 10000000.0f);</div>
-<div class="line"><span class="lineno">  220</span>            <a class="code hl_variable" href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23">_turtleSet</a>.insert((*itr)-&gt;GetGUID());</div>
-<div class="line"><span class="lineno">  221</span>        }</div>
-<div class="line"><span class="lineno">  222</span>    }</div>
+<div class="line"><span class="lineno">  218</span>            (*itr)-&gt;AddThreat(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), 10000000.0f);</div>
+<div class="line"><span class="lineno">  219</span>            <span class="keywordflow">if</span> ((*itr)-&gt;AI())</div>
+<div class="line"><span class="lineno">  220</span>                (*itr)-&gt;AI()-&gt;AttackStart(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>());</div>
+<div class="line"><span class="lineno">  221</span>            <a class="code hl_variable" href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23">_turtleSet</a>.insert((*itr)-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">  222</span>        }</div>
+<div class="line"><span class="lineno">  223</span>    }</div>
 <div class="ttc" id="ablack__temple_8h_html_a92f6fd626e1834a4cc509efc1186963eaae4e7a325446bbf77f2273ec3bc9a4d5"><div class="ttname"><a href="../../dc/d2a/black__temple_8h.html#a92f6fd626e1834a4cc509efc1186963eaae4e7a325446bbf77f2273ec3bc9a4d5">NPC_DRAGON_TURTLE</a></div><div class="ttdeci">@ NPC_DRAGON_TURTLE</div><div class="ttdef"><b>Definition</b> black_temple.h:86</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1045</div></div>
 <div class="ttc" id="aclassWorldObject_html_aa95da5ea65fa0d7f7cd74c11b70b1ed2"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">WorldObject::GetCreaturesWithEntryInRange</a></div><div class="ttdeci">void GetCreaturesWithEntryInRange(std::list&lt; Creature * &gt; &amp;creatureList, float radius, uint32 entry)</div><div class="ttdef"><b>Definition</b> Object.cpp:3056</div></div>
@@ -398,11 +399,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  225</span>    {</div>
-<div class="line"><span class="lineno">  226</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23">_turtleSet</a>)</div>
-<div class="line"><span class="lineno">  227</span>            if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* turtle = <a class="code hl_namespace" href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a>::<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">GetCreature</a>(*<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), guid))</div>
-<div class="line"><span class="lineno">  228</span>            {</div>
-<div class="line"><span class="lineno">  229</span>                turtle-&gt;TauntFadeOut(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>());</div>
+<div class="fragment"><div class="line"><span class="lineno">  226</span>    {</div>
+<div class="line"><span class="lineno">  227</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#a308b9e032576ae058e9f2469dcc8ff23">_turtleSet</a>)</div>
+<div class="line"><span class="lineno">  228</span>            if (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* turtle = <a class="code hl_namespace" href="../../de/d2d/namespaceObjectAccessor.html">ObjectAccessor</a>::<a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">GetCreature</a>(*<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), guid))</div>
+<div class="line"><span class="lineno">  229</span>            {</div>
 <div class="line"><span class="lineno">  230</span>                turtle-&gt;AddThreat(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), -10000000.0f);</div>
 <div class="line"><span class="lineno">  231</span>            }</div>
 <div class="line"><span class="lineno">  232</span>    }</div>
@@ -511,10 +511,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aclassAuraScript_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aclassAuraScript_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:749</div></div>
-<div class="ttc" id="aclassspell__black__template__harpooners__mark__aura_html_a2e16e86ce6e3231cf3fabc1d5bb1a6e7"><div class="ttname"><a href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7">spell_black_template_harpooners_mark_aura::HandleEffectRemove</a></div><div class="ttdeci">void HandleEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> instance_black_temple.cpp:224</div></div>
+<div class="ttc" id="aclassspell__black__template__harpooners__mark__aura_html_a2e16e86ce6e3231cf3fabc1d5bb1a6e7"><div class="ttname"><a href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7">spell_black_template_harpooners_mark_aura::HandleEffectRemove</a></div><div class="ttdeci">void HandleEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> instance_black_temple.cpp:225</div></div>
 <div class="ttc" id="aclassspell__black__template__harpooners__mark__aura_html_aca8ff864832d30e45bccfca12256560a"><div class="ttname"><a href="../../da/dae/classspell__black__template__harpooners__mark__aura.html#aca8ff864832d30e45bccfca12256560a">spell_black_template_harpooners_mark_aura::HandleEffectApply</a></div><div class="ttdeci">void HandleEffectApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> instance_black_temple.cpp:212</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00212">HandleEffectApply()</a>, <a class="el" href="../../#l00224">HandleEffectRemove()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00212">HandleEffectApply()</a>, <a class="el" href="../../#l00225">HandleEffectRemove()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -539,7 +539,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00212">HandleEffectApply()</a>, <a class="el" href="../../#l00224">HandleEffectRemove()</a>, and <a class="el" href="../../#l00206">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00212">HandleEffectApply()</a>, <a class="el" href="../../#l00225">HandleEffectRemove()</a>, and <a class="el" href="../../#l00206">Load()</a>.</p>
 
 </div>
 </div>
@@ -552,7 +552,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/dae/classspell__black__template__harpooners__mark__aura.html">spell_black_template_harpooners_mark_aura</a></li>
-    <li class="footer">Generated on Wed Mar 18 2026 06:59:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Mar 19 2026 06:54:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

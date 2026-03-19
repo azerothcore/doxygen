@@ -132,6 +132,7 @@ var classAuraEffect =
     [ "HandleModConfuse", "d7/d46/classAuraEffect.html#aa5aba9aa102d0402b423ce57a616bb0c", null ],
     [ "HandleModDamageDone", "d7/d46/classAuraEffect.html#a3ee0e71dbbb4e685b4e8db327e3b639b", null ],
     [ "HandleModDamagePercentDone", "d7/d46/classAuraEffect.html#a1681732afa7c5a767eb0ba2264f4958c", null ],
+    [ "HandleModDetaunt", "d7/d46/classAuraEffect.html#afc337a50bc9fb1f9f8cb4c7dc8d51572", null ],
     [ "HandleModFear", "d7/d46/classAuraEffect.html#a26498e695742b5689c35f806af38ae8a", null ],
     [ "HandleModHealingDone", "d7/d46/classAuraEffect.html#a09dda5a0af27ab34292b312fd20203bb", null ],
     [ "HandleModHitChance", "d7/d46/classAuraEffect.html#afa9f84f40fa41ddee3d6fb22c8bd3ac4", null ],

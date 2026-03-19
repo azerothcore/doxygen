@@ -1,11 +1,12 @@
 var searchData=
 [
-  ['objectgridloader_0',['ObjectGridLoader',['../db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262',1,'MovableMapObject']]],
-  ['objectmgr_1',['ObjectMgr',['../d1/d4f/classQuest.html#aac8f51f53620f0332898fd966cfe177b',1,'Quest']]],
-  ['operator_26_2',['operator&amp;',['../d4/dcb/classEnumFlag.html#aa91d02e5d8b6d9ef507f47720ac6d9e6',1,'EnumFlag']]],
-  ['operator_2a_3',['operator*',['../d5/dc1/classVec3D.html#ae30695a767fd2a31300bd1b858fda811',1,'Vec3D::operator*'],['../d9/d3a/classVec2D.html#a660f31d3628356cb7d2aeb45e90da03b',1,'Vec2D::operator*']]],
-  ['operator_3c_3c_4',['operator&lt;&lt;',['../d5/d8c/structAcore_1_1ChatCommands_1_1Variant.html#a39009e4358c42d0b9f03c7101ee1d2c6',1,'Acore::ChatCommands::Variant::operator&lt;&lt;'],['../da/d23/classPackedGuid.html#a94ab551ce00fd82dea1532d47ad908bc',1,'PackedGuid::operator&lt;&lt;'],['../d5/d76/classPlayerTaxi.html#aa8a947319a6f00895a3c443f5cb258ad',1,'PlayerTaxi::operator&lt;&lt;'],['../d8/d62/structLoot.html#a08df83acd4a8d8591eebb3753e121fc7',1,'Loot::operator&lt;&lt;'],['../d5/dc1/classVec3D.html#ae0085c2ad66a850cb8270bbdd52d680e',1,'Vec3D::operator&lt;&lt;']]],
-  ['operator_3e_3e_5',['operator&gt;&gt;',['../db/de2/classWorldPackets_1_1String.html#ad49e16ca5e4f4a46c243ccfc52f9dee4',1,'WorldPackets::String::operator&gt;&gt;'],['../d5/dc1/classVec3D.html#a9aa8110efc91a62f0719d9476b3cd7cf',1,'Vec3D::operator&gt;&gt;'],['../d9/d3a/classVec2D.html#a4c343ad5d1c11513956aba01ba7568c3',1,'Vec2D::operator&gt;&gt;']]],
-  ['operator_7c_6',['operator|',['../d4/dcb/classEnumFlag.html#add07cc2598afc632e84ffdc0bf60cd81',1,'EnumFlag']]],
-  ['outdoorpvpmgr_7',['OutdoorPvPMgr',['../d2/dd6/classOutdoorPvP.html#a346efe38ed68708e66bc606619bd30ef',1,'OutdoorPvP']]]
+  ['packetbuilder_0',['PacketBuilder',['../d3/d68/classMovement_1_1MoveSpline.html#a607dc7708aea97be99c623f61b1e6db7',1,'Movement::MoveSpline']]],
+  ['pingoperation_1',['PingOperation',['../d5/db3/classMySQLConnection.html#aa254e4dbbdf587d4c97b626ddd33a501',1,'MySQLConnection']]],
+  ['player_2',['player',['../d8/d26/classCinematicMgr.html#a7f4241aa9ecc051c75f779af132a52ed',1,'CinematicMgr::Player'],['../db/d17/classCharacterCreateInfo.html#a7f4241aa9ecc051c75f779af132a52ed',1,'CharacterCreateInfo::Player'],['../da/dca/structCharacterCustomizeInfo.html#a7f4241aa9ecc051c75f779af132a52ed',1,'CharacterCustomizeInfo::Player'],['../d0/dbd/structCharacterFactionChangeInfo.html#a7f4241aa9ecc051c75f779af132a52ed',1,'CharacterFactionChangeInfo::Player']]],
+  ['playerdumpreader_3',['PlayerDumpReader',['../d5/dfb/classObjectMgr.html#a2c62e103c8525ffb804feb313c953b1f',1,'ObjectMgr']]],
+  ['poolquestreloadfixtest_4',['PoolQuestReloadFixTest',['../d7/d95/classPoolMgr.html#a07dd1def859a46c4c155c8d881fb2acb',1,'PoolMgr']]],
+  ['preparedresultset_5',['PreparedResultSet',['../d7/d24/classField.html#a44a7840e8504a7b2a668b09cc8236843',1,'Field']]],
+  ['preparedstatementbase_6',['PreparedStatementBase',['../d5/d2d/classMySQLPreparedStatement.html#abf71b570a82e0e9867e9b62b659001f3',1,'MySQLPreparedStatement']]],
+  ['preparedstatementtask_7',['PreparedStatementTask',['../de/db4/classPreparedStatementBase.html#a4c1bf9847756076bf3bba7b1178f0f99',1,'PreparedStatementBase']]],
+  ['pvpcombatreference_8',['PvPCombatReference',['../d9/d26/classCombatManager.html#acc6e9af2cbc04d0b3fdc7e69ec48875f',1,'CombatManager']]]
 ];

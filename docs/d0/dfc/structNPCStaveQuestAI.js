@@ -26,6 +26,5 @@ var structNPCStaveQuestAI =
     [ "entryKeys", "d0/dfc/structNPCStaveQuestAI.html#a0ea30f49ac6a9f78a9c0429f2c20c4c5", null ],
     [ "entryList", "d0/dfc/structNPCStaveQuestAI.html#a1a9ccd1d254bdb80b87d997d91afd6d7", null ],
     [ "gossipPlayerGUID", "d0/dfc/structNPCStaveQuestAI.html#a286967eb3806c73746bcb8524ecbda24", null ],
-    [ "playerGUID", "d0/dfc/structNPCStaveQuestAI.html#a81644c431d107dda59c726fdbc4b671c", null ],
-    [ "threatList", "d0/dfc/structNPCStaveQuestAI.html#a29dfd88e9b3a32f596b834bc793225ce", null ]
+    [ "playerGUID", "d0/dfc/structNPCStaveQuestAI.html#a81644c431d107dda59c726fdbc4b671c", null ]
 ];

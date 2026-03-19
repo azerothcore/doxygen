@@ -260,7 +260,7 @@ var SpellAuraDefines_8h =
       [ "SPELL_AURA_HASTE_RANGED", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a046ef4ea3ad295a43696ee378490e1a4", null ],
       [ "SPELL_AURA_MOD_MANA_REGEN_FROM_STAT", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799ad68c289ae30ca012553dd9103bd44321", null ],
       [ "SPELL_AURA_MOD_RATING_FROM_STAT", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a1b980e2a09de4ec8747945e8ee141f10", null ],
-      [ "SPELL_AURA_IGNORED", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af68ea2e3dbd416aee413864788174dee", null ],
+      [ "SPELL_AURA_MOD_DETAUNT", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a727bce2f9e6269218972b56baa1dad0f", null ],
       [ "SPELL_AURA_222", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a2297c9d2fbff7c96a7b6d46e7193ab1c", null ],
       [ "SPELL_AURA_RAID_PROC_FROM_CHARGE", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a97e43d4f89788b97090ee8df08682157", null ],
       [ "SPELL_AURA_224", "da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a215cf088c29ab33e34e9338ef0194b09", null ],

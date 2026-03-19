@@ -6,6 +6,10 @@ var dir_d35b7636bdd4a8db0bf316c0b0a1358d =
     [ "ProcChanceTestHelper.h", "dd/d97/ProcChanceTestHelper_8h.html", "dd/d97/ProcChanceTestHelper_8h" ],
     [ "ProcEventInfoHelper.h", "d9/dd7/ProcEventInfoHelper_8h.html", "d9/dd7/ProcEventInfoHelper_8h" ],
     [ "SpellInfoTestHelper.h", "db/de7/SpellInfoTestHelper_8h.html", "db/de7/SpellInfoTestHelper_8h" ],
+    [ "TestCreature.cpp", "de/d39/TestCreature_8cpp.html", null ],
+    [ "TestCreature.h", "dd/da5/TestCreature_8h.html", "dd/da5/TestCreature_8h" ],
+    [ "TestMap.cpp", "d8/d1d/TestMap_8cpp.html", null ],
+    [ "TestMap.h", "d7/dc0/TestMap_8h.html", "d7/dc0/TestMap_8h" ],
     [ "UnitStub.h", "d9/d33/UnitStub_8h.html", "d9/d33/UnitStub_8h" ],
     [ "WorldMock.h", "dc/d7e/WorldMock_8h.html", "dc/d7e/WorldMock_8h" ]
 ];

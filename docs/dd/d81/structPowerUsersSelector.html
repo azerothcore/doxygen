@@ -243,7 +243,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  146</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d81/structPowerUsersSelector.html#a7f6dda10c26982d9633fae57b64af7ef">_me</a> || !target)</div>
 <div class="line"><span class="lineno">  147</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  148</span> </div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d81/structPowerUsersSelector.html#a0b682b6d926ced8eecff642a4bb51756">_withTank</a> &amp;&amp; target == <a class="code hl_variable" href="../../dd/d81/structPowerUsersSelector.html#a7f6dda10c26982d9633fae57b64af7ef">_me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">GetThreatMgr</a>().<a class="code hl_function" href="../../d2/d53/classThreatMgr.html#a31c5aa513055858f835a5f1a8d372930">GetCurrentVictim</a>())</div>
+<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/d81/structPowerUsersSelector.html#a0b682b6d926ced8eecff642a4bb51756">_withTank</a> &amp;&amp; target == <a class="code hl_variable" href="../../dd/d81/structPowerUsersSelector.html#a7f6dda10c26982d9633fae57b64af7ef">_me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab31a3c24572b1ed4c7203b2b738899a8">GetThreatMgr</a>().<a class="code hl_function" href="../../d5/d1b/classThreatManager.html#a89495d06c48be8e0e3b08aacb17ad375">GetLastVictim</a>())</div>
 <div class="line"><span class="lineno">  150</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  151</span> </div>
 <div class="line"><span class="lineno">  152</span>        <span class="keywordflow">if</span> (target-&gt;getPowerType() != <a class="code hl_variable" href="../../dd/d81/structPowerUsersSelector.html#a9a518903606768e505e7230fe9344bbf">_power</a>)</div>
@@ -260,11 +260,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  163</span> </div>
 <div class="line"><span class="lineno">  164</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  165</span>    }</div>
-<div class="ttc" id="aclassThreatMgr_html_a31c5aa513055858f835a5f1a8d372930"><div class="ttname"><a href="../../d2/d53/classThreatMgr.html#a31c5aa513055858f835a5f1a8d372930">ThreatMgr::GetCurrentVictim</a></div><div class="ttdeci">Unit * GetCurrentVictim() const</div><div class="ttdef"><b>Definition</b> ThreatMgr.h:216</div></div>
-<div class="ttc" id="aclassUnit_html_a2b32551adec993309c35e8e88e35b4be"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2b32551adec993309c35e8e88e35b4be">Unit::IsWithinCombatRange</a></div><div class="ttdeci">bool IsWithinCombatRange(Unit const *obj, float dist2compare) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:757</div></div>
-<div class="ttc" id="aclassUnit_html_ad56089c61bf09419bedbb4edd2d94aeb"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad56089c61bf09419bedbb4edd2d94aeb">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatMgr &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:953</div></div>
+<div class="ttc" id="aclassThreatManager_html_a89495d06c48be8e0e3b08aacb17ad375"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#a89495d06c48be8e0e3b08aacb17ad375">ThreatManager::GetLastVictim</a></div><div class="ttdeci">Unit * GetLastVictim() const</div><div class="ttdef"><b>Definition</b> ThreatManager.cpp:252</div></div>
+<div class="ttc" id="aclassUnit_html_a2b32551adec993309c35e8e88e35b4be"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2b32551adec993309c35e8e88e35b4be">Unit::IsWithinCombatRange</a></div><div class="ttdeci">bool IsWithinCombatRange(Unit const *obj, float dist2compare) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:752</div></div>
+<div class="ttc" id="aclassUnit_html_ab31a3c24572b1ed4c7203b2b738899a8"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab31a3c24572b1ed4c7203b2b738899a8">Unit::GetThreatMgr</a></div><div class="ttdeci">ThreatManager &amp; GetThreatMgr()</div><div class="ttdef"><b>Definition</b> Unit.h:951</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00138">_dist</a>, <a class="el" href="../../#l00136">_me</a>, <a class="el" href="../../#l00139">_playerOnly</a>, <a class="el" href="../../#l00137">_power</a>, <a class="el" href="../../#l00140">_withTank</a>, <a class="el" href="../../#l00216">ThreatMgr::GetCurrentVictim()</a>, <a class="el" href="../../#l01126">Unit::getPowerType()</a>, <a class="el" href="../../#l00953">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, and <a class="el" href="../../#l00757">Unit::IsWithinCombatRange()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00138">_dist</a>, <a class="el" href="../../#l00136">_me</a>, <a class="el" href="../../#l00139">_playerOnly</a>, <a class="el" href="../../#l00137">_power</a>, <a class="el" href="../../#l00140">_withTank</a>, <a class="el" href="../../#l00252">ThreatManager::GetLastVictim()</a>, <a class="el" href="../../#l01131">Unit::getPowerType()</a>, <a class="el" href="../../#l00951">Unit::GetThreatMgr()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, and <a class="el" href="../../#l00752">Unit::IsWithinCombatRange()</a>.</p>
 
 </div>
 </div>
@@ -358,7 +358,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d81/structPowerUsersSelector.html">PowerUsersSelector</a></li>
-    <li class="footer">Generated on Wed Mar 18 2026 06:59:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Mar 19 2026 06:54:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

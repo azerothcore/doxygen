@@ -148,7 +148,8 @@ var searchData=
   ['producerconsumerqueue_3c_20updaterequest_20_2a_20_3e_145',['ProducerConsumerQueue&lt; UpdateRequest * &gt;',['../d7/d29/classProducerConsumerQueue.html',1,'']]],
   ['progressionrequirement_146',['ProgressionRequirement',['../d5/d34/structProgressionRequirement.html',1,'']]],
   ['puppet_147',['Puppet',['../d3/d06/classPuppet.html',1,'']]],
-  ['pvpdifficultyentry_148',['PvPDifficultyEntry',['../db/d2f/structPvPDifficultyEntry.html',1,'']]],
-  ['pvpinfo_149',['PvPInfo',['../d2/db0/structPvPInfo.html',1,'']]],
-  ['pyramideventdata_150',['PyramidEventData',['../d2/ddb/structPyramidEventData.html',1,'']]]
+  ['pvpcombatreference_148',['PvPCombatReference',['../d6/d52/structPvPCombatReference.html',1,'']]],
+  ['pvpdifficultyentry_149',['PvPDifficultyEntry',['../db/d2f/structPvPDifficultyEntry.html',1,'']]],
+  ['pvpinfo_150',['PvPInfo',['../d2/db0/structPvPInfo.html',1,'']]],
+  ['pyramideventdata_151',['PyramidEventData',['../d2/ddb/structPyramidEventData.html',1,'']]]
 ];

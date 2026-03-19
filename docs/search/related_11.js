@@ -1,12 +1,7 @@
 var searchData=
 [
-  ['unit_3a_3a_5fapplyaura_0',['_ApplyAura',['../d1/d61/classAuraApplication.html#a0ee9d6fcaabda925fdbf12feed2d6fbe',1,'AuraApplication']]],
-  ['unit_3a_3a_5fapplyauraeffect_1',['_ApplyAuraEffect',['../d1/d61/classAuraApplication.html#a7bccd89e3e56acad8ccb5ff6fe004bc8',1,'AuraApplication']]],
-  ['unit_3a_3a_5fcreateauraapplication_2',['_CreateAuraApplication',['../d1/d61/classAuraApplication.html#a70986d45ff7bcd29d8198bed9a4b8645',1,'AuraApplication']]],
-  ['unit_3a_3a_5ftrystackingorrefreshingexistingaura_3',['unit::_trystackingorrefreshingexistingaura',['../d7/d46/classAuraEffect.html#a851e18dcd4b806db1cd3843a7814d15a',1,'AuraEffect::_TryStackingOrRefreshingExistingAura'],['../db/dce/classAura.html#a851e18dcd4b806db1cd3843a7814d15a',1,'Aura::_TryStackingOrRefreshingExistingAura']]],
-  ['unit_3a_3a_5funapplyaura_4',['_UnapplyAura',['../d1/d61/classAuraApplication.html#a4eef528c953f9f6c5e08e0a3cbd6c0c5',1,'AuraApplication']]],
-  ['unit_3a_3acreatevehiclekit_5',['CreateVehicleKit',['../dc/d23/classVehicle.html#a9086db467f2f71f20bc02ed2330a8c37',1,'Vehicle']]],
-  ['unit_3a_3aremoveaura_6',['RemoveAura',['../d1/d61/classAuraApplication.html#a521cdbdf816702f2a928d8b1d775d209',1,'AuraApplication']]],
-  ['unit_3a_3aremovevehiclekit_7',['RemoveVehicleKit',['../dc/d23/classVehicle.html#a64f84e614dc48de43b62bb1f77fe2bb3',1,'Vehicle']]],
-  ['unit_3a_3asetcurrentcastedspell_8',['SetCurrentCastedSpell',['../d1/d16/classSpell.html#a61c5e93627b85645d6a3b0a5af13d58a',1,'Spell']]]
+  ['wardenmac_0',['WardenMac',['../db/d5c/classWarden.html#ac5a815f5f6527a3588c6cd138a02f7d2',1,'Warden']]],
+  ['wardenwin_1',['WardenWin',['../db/d5c/classWarden.html#a7e8075b64a48dea5876b9199aeb75717',1,'Warden']]],
+  ['world_2',['world',['../d8/d74/classWorldSession.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::World'],['../d5/d08/classWorldSession_1_1DosProtection.html#a7b4bcdf992c21ae83363f25df05b1d25',1,'WorldSession::DosProtection::World']]],
+  ['worldsession_3',['worldsession',['../d2/d4b/classPlayer.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'Player::WorldSession'],['../db/d17/classCharacterCreateInfo.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCreateInfo::WorldSession'],['../d9/d6b/structCharacterRenameInfo.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterRenameInfo::WorldSession'],['../da/dca/structCharacterCustomizeInfo.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterCustomizeInfo::WorldSession'],['../d0/dbd/structCharacterFactionChangeInfo.html#a65b5c30bf4f5f118a199e378d903aaf6',1,'CharacterFactionChangeInfo::WorldSession']]]
 ];

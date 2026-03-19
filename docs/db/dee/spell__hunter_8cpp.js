@@ -60,6 +60,7 @@ var spell__hunter_8cpp =
       [ "SPELL_HUNTER_IMPROVED_MEND_PET", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3", null ],
       [ "SPELL_HUNTER_INVIGORATION_TRIGGERED", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516", null ],
       [ "SPELL_HUNTER_MASTERS_CALL_TRIGGERED", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54", null ],
+      [ "SPELL_HUNTER_MISDIRECTION", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea55750865a16ceb597832ea42120abcb6", null ],
       [ "SPELL_HUNTER_MISDIRECTION_PROC", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c", null ],
       [ "SPELL_HUNTER_PET_LAST_STAND_TRIGGERED", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7", null ],
       [ "SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX", "db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5", null ],

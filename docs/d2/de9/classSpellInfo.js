@@ -61,6 +61,7 @@ var classSpellInfo =
     [ "HasAura", "d2/de9/classSpellInfo.html#aefe1e81c5922419ada55844bdb30e269", null ],
     [ "HasEffect", "d2/de9/classSpellInfo.html#ad66dd61ba67ee1626e7e8393f0c27498", null ],
     [ "HasEffectMechanic", "d2/de9/classSpellInfo.html#ae495ac815d0ccf4bdaa8b1a0f917230d", null ],
+    [ "HasInitialAggro", "d2/de9/classSpellInfo.html#a6e34484850f00e74672cd27fe50c7a69", null ],
     [ "IsAbilityLearnedWithProfession", "d2/de9/classSpellInfo.html#a858b0769a36dc62c2b100c46ff415366", null ],
     [ "IsAbilityOfSkillType", "d2/de9/classSpellInfo.html#a740f5feadcb5b1e8bc59c4cc1db7e6f8", null ],
     [ "IsActionAllowedChannel", "d2/de9/classSpellInfo.html#a4d9302963bfb1a7adbf9403a9ba0b7eb", null ],

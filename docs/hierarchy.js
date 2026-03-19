@@ -666,7 +666,7 @@ var hierarchy =
         [ "spell_rog_savage_combat", "dc/d2b/classspell__rog__savage__combat.html", null ],
         [ "spell_rog_setup", "df/d25/classspell__rog__setup.html", null ],
         [ "spell_rog_stealth_buff_tracker< RemoveSpellId >", "d7/d93/classspell__rog__stealth__buff__tracker.html", null ],
-        [ "spell_rog_tricks_of_the_trade", "d2/d39/classspell__rog__tricks__of__the__trade.html", null ],
+        [ "spell_rog_tricks_of_the_trade_aura", "d9/d55/classspell__rog__tricks__of__the__trade__aura.html", null ],
         [ "spell_rog_tricks_of_the_trade_proc", "db/d65/classspell__rog__tricks__of__the__trade__proc.html", null ],
         [ "spell_rog_turn_the_tables", "d8/db7/classspell__rog__turn__the__tables.html", null ],
         [ "spell_rotface_mutated_infection_aura", "d3/d2d/classspell__rotface__mutated__infection__aura.html", null ],
@@ -1570,6 +1570,7 @@ var hierarchy =
         [ "spell_rog_pickpocket", "d2/db6/classspell__rog__pickpocket.html", null ],
         [ "spell_rog_preparation", "dd/d23/classspell__rog__preparation.html", null ],
         [ "spell_rog_shiv", "d8/dcd/classspell__rog__shiv.html", null ],
+        [ "spell_rog_tricks_of_the_trade", "d2/d39/classspell__rog__tricks__of__the__trade.html", null ],
         [ "spell_rog_turn_the_tables_proc", "dc/dad/classspell__rog__turn__the__tables__proc.html", null ],
         [ "spell_rog_vanish", "dd/d3c/classspell__rog__vanish.html", null ],
         [ "spell_rog_vanish_purge", "dc/d90/classspell__rog__vanish__purge.html", null ],
@@ -2197,11 +2198,16 @@ var hierarchy =
     [ "ClientAuthSession", "d0/d4c/structClientAuthSession.html", null ],
     [ "ClientPktHeader", "da/d28/structClientPktHeader.html", null ],
     [ "ClientWardenModule", "d8/dd5/structClientWardenModule.html", null ],
+    [ "CombatManager", "d9/d26/classCombatManager.html", null ],
+    [ "CombatReference", "da/d9b/structCombatReference.html", [
+      [ "PvPCombatReference", "d6/d52/structPvPCombatReference.html", null ]
+    ] ],
     [ "Acore::Impl::ChatCommands::CommandInvoker", "d4/de3/structAcore_1_1Impl_1_1ChatCommands_1_1CommandInvoker.html", null ],
     [ "Acore::Impl::ChatCommands::CommandPermissions", "da/d5c/structAcore_1_1Impl_1_1ChatCommands_1_1CommandPermissions.html", null ],
     [ "Movement::CommonInitializer", "d1/d8c/structMovement_1_1CommonInitializer.html", null ],
     [ "WorldPackets::CompactArray< T >", "da/d97/classWorldPackets_1_1CompactArray.html", null ],
     [ "TaskScheduler::Compare", "d5/d87/structTaskScheduler_1_1Compare.html", null ],
+    [ "CompareThreatLessThan", "d7/dc9/structCompareThreatLessThan.html", null ],
     [ "CompletedAchievementData", "d5/dc0/structCompletedAchievementData.html", null ],
     [ "Condition", "d6/d9f/structCondition.html", null ],
     [ "std::conditional_t", null, [
@@ -2462,6 +2468,9 @@ var hierarchy =
       [ "Acore::is_tuple< typename >", "d4/da8/structAcore_1_1is__tuple.html", null ]
     ] ],
     [ "FBSPosition", "da/d56/structFBSPosition.html", null ],
+    [ "boost::heap::fibonacci_heap", null, [
+      [ "ThreatManager::Heap", "d5/d83/classThreatManager_1_1Heap.html", null ]
+    ] ],
     [ "Field", "d7/d24/classField.html", null ],
     [ "file_MVER", "da/d74/structfile__MVER.html", null ],
     [ "FileCloser", "d4/d37/structFileCloser.html", null ],
@@ -2616,7 +2625,8 @@ var hierarchy =
             [ "Puppet", "d3/d06/classPuppet.html", null ],
             [ "Totem", "da/d40/classTotem.html", null ]
           ] ]
-        ] ]
+        ] ],
+        [ "TestCreature", "dc/d9f/classTestCreature.html", null ]
       ] ]
     ] ],
     [ "GridObject< DynamicObject >", "d5/ddf/classGridObject.html", [
@@ -2821,9 +2831,6 @@ var hierarchy =
       [ "Reference< Group, Player >", "d4/d52/classReference.html", [
         [ "GroupReference", "d2/d7d/classGroupReference.html", null ]
       ] ],
-      [ "Reference< Unit, ThreatMgr >", "d4/d52/classReference.html", [
-        [ "HostileReference", "d9/d9b/classHostileReference.html", null ]
-      ] ],
       [ "Reference< Loot, LootValidatorRef >", "d4/d52/classReference.html", [
         [ "LootValidatorRef", "d7/dfe/classLootValidatorRef.html", [
           [ "Roll", "d5/d0a/classRoll.html", null ]
@@ -2856,9 +2863,6 @@ var hierarchy =
       [ "RefMgr< Group, Player >", "d4/d73/classRefMgr.html", [
         [ "GroupRefMgr", "db/d59/classGroupRefMgr.html", null ]
       ] ],
-      [ "RefMgr< Unit, ThreatMgr >", "d4/d73/classRefMgr.html", [
-        [ "HostileRefMgr", "df/d9c/classHostileRefMgr.html", null ]
-      ] ],
       [ "RefMgr< Loot, LootValidatorRef >", "d4/d73/classRefMgr.html", [
         [ "LootValidatorRefMgr", "dd/df6/classLootValidatorRefMgr.html", null ]
       ] ],
@@ -2881,7 +2885,8 @@ var hierarchy =
           [ "Map", "d7/db0/classMap.html", [
             [ "BattlegroundMap", "d4/d93/classBattlegroundMap.html", null ],
             [ "InstanceMap", "de/dd8/classInstanceMap.html", null ],
-            [ "MapInstanced", "df/de3/classMapInstanced.html", null ]
+            [ "MapInstanced", "df/de3/classMapInstanced.html", null ],
+            [ "TestMap", "d2/d17/classTestMap.html", null ]
           ] ]
         ] ],
         [ "GridRefMgr< Player >", "db/d9d/classGridRefMgr.html", null ],
@@ -3514,7 +3519,6 @@ var hierarchy =
     [ "RealSpellTestCase", "d8/d84/structRealSpellTestCase.html", null ],
     [ "DBCFile::Record", "d6/d96/classDBCFile_1_1Record.html", null ],
     [ "DBCFileLoader::Record", "d9/df7/classDBCFileLoader_1_1Record.html", null ],
-    [ "RedirectThreatInfo", "d7/d96/structRedirectThreatInfo.html", null ],
     [ "RegularGrid2D< T, Node, NodeCreatorFunc, PositionFunc >", "db/d62/classRegularGrid2D.html", [
       [ "DynTreeImpl", "da/d8d/structDynTreeImpl.html", null ]
     ] ],
@@ -4301,7 +4305,6 @@ var hierarchy =
         [ "npc_swarm_scarab", "d9/dcc/classnpc__swarm__scarab.html", null ],
         [ "npc_tapoke_slim_jahn", "db/d4b/classnpc__tapoke__slim__jahn.html", null ],
         [ "npc_taretha", "d3/d64/classnpc__taretha.html", null ],
-        [ "npc_target_dummy", "d8/df3/classnpc__target__dummy.html", null ],
         [ "npc_taskmaster_fizzule", "d3/dd8/classnpc__taskmaster__fizzule.html", null ],
         [ "npc_taxi", "d9/d6f/classnpc__taxi.html", null ],
         [ "npc_terenas_menethil", "d4/de3/classnpc__terenas__menethil.html", null ],
@@ -4340,7 +4343,6 @@ var hierarchy =
         [ "npc_tortured_rifleman", "df/ded/classnpc__tortured__rifleman.html", null ],
         [ "npc_torturer_lecraft", "d9/dcc/classnpc__torturer__lecraft.html", null ],
         [ "npc_tournament_training_dummy", "d6/d55/classnpc__tournament__training__dummy.html", null ],
-        [ "npc_training_dummy", "d7/dea/classnpc__training__dummy.html", null ],
         [ "npc_troll_volunteer", "d1/dc6/classnpc__troll__volunteer.html", null ],
         [ "npc_twiggy_flathead", "da/d6e/classnpc__twiggy__flathead.html", null ],
         [ "npc_tyrion", "d9/d85/classnpc__tyrion.html", null ],
@@ -4831,10 +4833,11 @@ var hierarchy =
     [ "tf_tower_world_state", "dd/d26/structtf__tower__world__state.html", null ],
     [ "Acore::Thread", "db/d4a/classAcore_1_1Thread.html", null ],
     [ "ThreadingModel< T >", "db/d8c/classThreadingModel_3_01T_01_4.html", null ],
-    [ "ThreatCalcHelper", "d3/db9/structThreatCalcHelper.html", null ],
-    [ "ThreatContainer", "d7/d65/classThreatContainer.html", null ],
-    [ "ThreatMgr", "d2/d53/classThreatMgr.html", null ],
-    [ "Acore::ThreatOrderPred", "d9/d71/classAcore_1_1ThreatOrderPred.html", null ],
+    [ "ThreatManager::ThreatListIterator", "d6/d16/classThreatManager_1_1ThreatListIterator.html", null ],
+    [ "ThreatManager", "d5/d1b/classThreatManager.html", null ],
+    [ "ThreatReference", "df/d30/classThreatReference.html", [
+      [ "ThreatReferenceImpl", "df/d53/classThreatReferenceImpl.html", null ]
+    ] ],
     [ "TicketMgr", "de/d95/classTicketMgr.html", null ],
     [ "MMAP::Tile", "d2/dc0/structMMAP_1_1Tile.html", null ],
     [ "VMAP::TileAssembler", "dc/d8d/classVMAP_1_1TileAssembler.html", null ],
@@ -5024,8 +5027,10 @@ var hierarchy =
           [ "npc_storm_beacon_spawn", "d4/d3b/structnpc__storm__beacon__spawn.html", null ],
           [ "npc_strangulate_vehicle::npc_strangulate_vehicleAI", "d1/d4e/structnpc__strangulate__vehicle_1_1npc__strangulate__vehicleAI.html", null ],
           [ "npc_taldaram_flamesphere", "d7/d2c/structnpc__taldaram__flamesphere.html", null ],
+          [ "npc_target_dummy", "dc/dd2/structnpc__target__dummy.html", null ],
           [ "npc_thorims_hammer", "d0/da1/structnpc__thorims__hammer.html", null ],
           [ "npc_time_rift", "dd/d19/structnpc__time__rift.html", null ],
+          [ "npc_training_dummy", "d2/d91/structnpc__training__dummy.html", null ],
           [ "npc_ulduar_bot_summon_trigger", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html", null ],
           [ "npc_ulduar_expedition_commander::npc_ulduar_expedition_commanderAI", "d1/d57/structnpc__ulduar__expedition__commander_1_1npc__ulduar__expedition__commanderAI.html", null ],
           [ "npc_ulduar_expedition_engineer", "dc/d39/structnpc__ulduar__expedition__engineer.html", null ],
@@ -5989,7 +5994,6 @@ var hierarchy =
           [ "npc_suppresser::npc_suppresserAI", "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html", null ],
           [ "npc_supremus_punch_invisible_stalker", "d3/dd8/structnpc__supremus__punch__invisible__stalker.html", null ],
           [ "npc_swarm_scarab::npc_swarm_scarabAI", "d4/d9e/structnpc__swarm__scarab_1_1npc__swarm__scarabAI.html", null ],
-          [ "npc_target_dummy::npc_target_dummyAI", "d3/df4/structnpc__target__dummy_1_1npc__target__dummyAI.html", null ],
           [ "npc_target_trigger", "d9/d75/structnpc__target__trigger.html", null ],
           [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d2/d7a/structnpc__taskmaster__fizzule_1_1npc__taskmaster__fizzuleAI.html", null ],
           [ "npc_terenas_menethil::npc_terenas_menethilAI", "d6/d3d/structnpc__terenas__menethil_1_1npc__terenas__menethilAI.html", null ],
@@ -6011,7 +6015,6 @@ var hierarchy =
           [ "npc_torturer_lecraft::npc_torturer_lecraftAI", "d6/dbd/structnpc__torturer__lecraft_1_1npc__torturer__lecraftAI.html", null ],
           [ "npc_tournament_training_dummy::npc_tournament_training_dummyAI", "df/da8/structnpc__tournament__training__dummy_1_1npc__tournament__training__dummyAI.html", null ],
           [ "npc_toxic_slime", "dd/df0/structnpc__toxic__slime.html", null ],
-          [ "npc_training_dummy::npc_training_dummyAI", "d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html", null ],
           [ "npc_traveler_mammoth_vendor", "d8/d2e/structnpc__traveler__mammoth__vendor.html", null ],
           [ "npc_troll_volunteer::npc_troll_volunteerAI", "d1/d21/structnpc__troll__volunteer_1_1npc__troll__volunteerAI.html", null ],
           [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html", null ],
@@ -6113,11 +6116,6 @@ var hierarchy =
       ] ]
     ] ],
     [ "Acore::UnitAuraCheck", "d1/d17/classAcore_1_1UnitAuraCheck.html", null ],
-    [ "UnitBaseEvent", "dd/de2/classUnitBaseEvent.html", [
-      [ "ThreatRefStatusChangeEvent", "d2/db9/classThreatRefStatusChangeEvent.html", [
-        [ "ThreatMgrEvent", "da/d3b/classThreatMgrEvent.html", null ]
-      ] ]
-    ] ],
     [ "Acore::UnitLastSearcher< Check >", "d0/de9/structAcore_1_1UnitLastSearcher.html", null ],
     [ "Acore::UnitSearcher< Check >", "d9/d5a/structAcore_1_1UnitSearcher.html", null ],
     [ "UnitStub", "dc/d3b/classUnitStub.html", [

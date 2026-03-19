@@ -12,11 +12,9 @@ var searchData=
   ['holidaydatecalculatortest_2ecpp_9',['HolidayDateCalculatorTest.cpp',['../dc/d7b/HolidayDateCalculatorTest_8cpp.html',1,'']]],
   ['homemovementgenerator_2ecpp_10',['HomeMovementGenerator.cpp',['../d5/dc7/HomeMovementGenerator_8cpp.html',1,'']]],
   ['homemovementgenerator_2eh_11',['HomeMovementGenerator.h',['../dc/d33/HomeMovementGenerator_8h.html',1,'']]],
-  ['hostilerefmgr_2ecpp_12',['HostileRefMgr.cpp',['../d8/dd9/HostileRefMgr_8cpp.html',1,'']]],
-  ['hostilerefmgr_2eh_13',['HostileRefMgr.h',['../df/dbe/HostileRefMgr_8h.html',1,'']]],
-  ['hyjal_2ecpp_14',['hyjal.cpp',['../d6/d6f/hyjal_8cpp.html',1,'']]],
-  ['hyjal_2eh_15',['hyjal.h',['../d0/dff/hyjal_8h.html',1,'']]],
-  ['hyperlinks_2ecpp_16',['Hyperlinks.cpp',['../da/dde/Hyperlinks_8cpp.html',1,'']]],
-  ['hyperlinks_2eh_17',['Hyperlinks.h',['../d6/db2/Hyperlinks_8h.html',1,'']]],
-  ['hyperlinktags_2ecpp_18',['HyperlinkTags.cpp',['../d4/d6d/HyperlinkTags_8cpp.html',1,'']]]
+  ['hyjal_2ecpp_12',['hyjal.cpp',['../d6/d6f/hyjal_8cpp.html',1,'']]],
+  ['hyjal_2eh_13',['hyjal.h',['../d0/dff/hyjal_8h.html',1,'']]],
+  ['hyperlinks_2ecpp_14',['Hyperlinks.cpp',['../da/dde/Hyperlinks_8cpp.html',1,'']]],
+  ['hyperlinks_2eh_15',['Hyperlinks.h',['../d6/db2/Hyperlinks_8h.html',1,'']]],
+  ['hyperlinktags_2ecpp_16',['HyperlinkTags.cpp',['../d4/d6d/HyperlinkTags_8cpp.html',1,'']]]
 ];

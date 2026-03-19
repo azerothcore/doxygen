@@ -1,8 +1,7 @@
 var dir_6b63bbd5ab28cd54e716b5236a19bef7 =
 [
-    [ "HostileRefMgr.cpp", "d8/dd9/HostileRefMgr_8cpp.html", null ],
-    [ "HostileRefMgr.h", "df/dbe/HostileRefMgr_8h.html", "df/dbe/HostileRefMgr_8h" ],
-    [ "ThreatMgr.cpp", "db/da5/ThreatMgr_8cpp.html", null ],
-    [ "ThreatMgr.h", "d0/d31/ThreatMgr_8h.html", "d0/d31/ThreatMgr_8h" ],
-    [ "UnitEvents.h", "d8/dbb/UnitEvents_8h.html", "d8/dbb/UnitEvents_8h" ]
+    [ "CombatManager.cpp", "d4/dd5/CombatManager_8cpp.html", null ],
+    [ "CombatManager.h", "d2/d0f/CombatManager_8h.html", "d2/d0f/CombatManager_8h" ],
+    [ "ThreatManager.cpp", "d0/d11/ThreatManager_8cpp.html", "d0/d11/ThreatManager_8cpp" ],
+    [ "ThreatManager.h", "d0/d81/ThreatManager_8h.html", "d0/d81/ThreatManager_8h" ]
 ];

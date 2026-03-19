@@ -4,10 +4,8 @@ var npcs__special_8cpp =
     [ "npc_elder_clearwater::npc_elder_clearwaterAI", "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI.html", "d3/d08/structnpc__elder__clearwater_1_1npc__elder__clearwaterAI" ],
     [ "npc_riggle_bassbait", "d6/d03/classnpc__riggle__bassbait.html", "d6/d03/classnpc__riggle__bassbait" ],
     [ "npc_riggle_bassbait::npc_riggle_bassbaitAI", "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI.html", "dd/d14/structnpc__riggle__bassbait_1_1npc__riggle__bassbaitAI" ],
-    [ "npc_training_dummy", "d7/dea/classnpc__training__dummy.html", "d7/dea/classnpc__training__dummy" ],
-    [ "npc_training_dummy::npc_training_dummyAI", "d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI.html", "d5/d99/structnpc__training__dummy_1_1npc__training__dummyAI" ],
-    [ "npc_target_dummy", "d8/df3/classnpc__target__dummy.html", "d8/df3/classnpc__target__dummy" ],
-    [ "npc_target_dummy::npc_target_dummyAI", "d3/df4/structnpc__target__dummy_1_1npc__target__dummyAI.html", "d3/df4/structnpc__target__dummy_1_1npc__target__dummyAI" ],
+    [ "npc_training_dummy", "d2/d91/structnpc__training__dummy.html", "d2/d91/structnpc__training__dummy" ],
+    [ "npc_target_dummy", "dc/dd2/structnpc__target__dummy.html", "dc/dd2/structnpc__target__dummy" ],
     [ "SpawnAssociation", "de/d87/structSpawnAssociation.html", "de/d87/structSpawnAssociation" ],
     [ "npc_air_force_bots", "dd/de4/classnpc__air__force__bots.html", "dd/de4/classnpc__air__force__bots" ],
     [ "npc_air_force_bots::npc_air_force_botsAI", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI.html", "dc/d0b/structnpc__air__force__bots_1_1npc__air__force__botsAI" ],
@@ -86,9 +84,6 @@ var npcs__special_8cpp =
       [ "CLEARWATER_SAY_END", "db/dae/npcs__special_8cpp.html#af50bef9d3527931a86ff2289526e2d8ea8145d63c377a156ba3fe5fb3f2febbd3", null ],
       [ "QUEST_FISHING_DERBY", "db/dae/npcs__special_8cpp.html#af50bef9d3527931a86ff2289526e2d8eaa424f79bd2b4e44c29deb94f210d008e", null ],
       [ "DATA_DERBY_FINISHED", "db/dae/npcs__special_8cpp.html#af50bef9d3527931a86ff2289526e2d8eaaac450decd6de636b2fa27fad3e7f055", null ]
-    ] ],
-    [ "eTrainingDummy", "db/dae/npcs__special_8cpp.html#a8977e2a39480056c7134b232950a7b24", [
-      [ "SPELL_STUN_PERMANENT", "db/dae/npcs__special_8cpp.html#a8977e2a39480056c7134b232950a7b24a92cd6f4e479f986bb0db84321633fa1a", null ]
     ] ],
     [ "ExperienceNPCgossip", "db/dae/npcs__special_8cpp.html#a503427e7eab2eb3f7b8145c4d12019a3", [
       [ "GOSSIP_MENU_EXP_NPC", "db/dae/npcs__special_8cpp.html#a503427e7eab2eb3f7b8145c4d12019a3a03a141d7e0532749a842e50f7de07c83", null ]

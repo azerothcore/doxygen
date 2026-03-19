@@ -193,7 +193,6 @@ var namespaceAcore =
     [ "SignalHandler", "da/d4b/classAcore_1_1SignalHandler.html", "da/d4b/classAcore_1_1SignalHandler" ],
     [ "SingleThreaded", "df/d78/classAcore_1_1SingleThreaded.html", "df/d78/classAcore_1_1SingleThreaded" ],
     [ "Thread", "db/d4a/classAcore_1_1Thread.html", "db/d4a/classAcore_1_1Thread" ],
-    [ "ThreatOrderPred", "d9/d71/classAcore_1_1ThreatOrderPred.html", "d9/d71/classAcore_1_1ThreatOrderPred" ],
     [ "unary_function", "d8/dfc/structAcore_1_1unary__function.html", "d8/dfc/structAcore_1_1unary__function" ],
     [ "UnitAuraCheck", "d1/d17/classAcore_1_1UnitAuraCheck.html", "d1/d17/classAcore_1_1UnitAuraCheck" ],
     [ "UnitLastSearcher", "d0/de9/structAcore_1_1UnitLastSearcher.html", "d0/de9/structAcore_1_1UnitLastSearcher" ],
