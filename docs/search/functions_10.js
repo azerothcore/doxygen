@@ -288,7 +288,7 @@ var searchData=
   ['proxyreadheaderhandler_285',['ProxyReadHeaderHandler',['../d4/d33/classSocket.html#a56a21d7a3effe0224419fc461f334e9c',1,'Socket']]],
   ['psendmodulesysmessage_286',['PSendModuleSysMessage',['../d6/d38/classChatHandler.html#a8fa00e6140e8bfe8551f8a3f5b48218e',1,'ChatHandler']]],
   ['psendsysmessage_287',['psendsysmessage',['../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62',1,'ChatHandler::PSendSysMessage(std::string_view str, bool escapeCharacters=false)'],['../d6/d38/classChatHandler.html#ab2e685f37d4f0f3b763a6323cce7af25',1,'ChatHandler::PSendSysMessage(char const *fmt, Args &amp;&amp;... args)'],['../d6/d38/classChatHandler.html#afcaa57574b1d32eaf14a7ce688e52f77',1,'ChatHandler::PSendSysMessage(uint32 entry, Args &amp;&amp;... args)']]],
-  ['pullchamberadds_288',['PullChamberAdds',['../df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ad215f20452cd48c2c2bca394410d739b',1,'boss_grobbulus::boss_grobbulusAI']]],
+  ['pullchamberadds_288',['PullChamberAdds',['../df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a0d68b84c035bb8b4b16075116a6d7992',1,'boss_grobbulus::boss_grobbulusAI']]],
   ['pullroom_289',['PullRoom',['../db/d1b/structboss__pandemonius.html#a05011127290350f11cc1a333b23dbb04',1,'boss_pandemonius']]],
   ['puppet_290',['Puppet',['../d3/d06/classPuppet.html#ab0082936291e6b7f5370656c7c9ed948',1,'Puppet']]],
   ['purgereference_291',['PurgeReference',['../d9/d26/classCombatManager.html#aefda9ea098ee0a996fddd075c000d150',1,'CombatManager']]],

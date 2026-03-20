@@ -5,7 +5,7 @@ var structboss__grobbulus_1_1boss__grobbulusAI =
     [ "JustEngagedWith", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a4c74d53fe029d02df9652dbb87a09242", null ],
     [ "JustSummoned", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#af266d40889fbecd50a118a579b711757", null ],
     [ "KilledUnit", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "PullChamberAdds", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
     [ "Reset", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
     [ "SummonedCreatureDespawn", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
     [ "UpdateAI", "df/db1/structboss__grobbulus_1_1boss__grobbulusAI.html#aafd79debbe76b02a1478c03daf235b05", null ],
