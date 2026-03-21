@@ -1,5 +1,8 @@
 var NAVTREEINDEX247 =
 {
+"d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[6,0,3350,1],
+"d9/d90/classspell__item__defibrillate.html#ab64fdd36fc646ca0bcb2010380199ede":[6,0,3350,0],
+"d9/d90/classspell__item__defibrillate.html#ad2faa26a2874f68e8e419e59cafbf10b":[6,0,3350,3],
 "d9/d90/classspell__item__defibrillate.html#ad871a6bef7ba074f32abe1bf062dffe1":[6,0,3350,4],
 "d9/d90/classspell__razelikh__teleport__group.html":[6,0,3954],
 "d9/d90/classspell__razelikh__teleport__group.html#a1d9cfdc65bd5ae76376e709d0ac891c0":[6,0,3954,2],
@@ -204,8 +207,8 @@ var NAVTREEINDEX247 =
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html":[6,0,0,5,1,0],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[5,0,1,8,1,0,2],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a25cc4ea08020adcf6deac42e2912b1f9":[6,0,0,5,1,0,2],
-"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[5,0,1,8,1,0,1],
+"d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8c6cb9f0a8d3488956904e2141405cf7":[6,0,0,5,1,0,1],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[5,0,1,8,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#a8d3379c79f103655dd49d993402b741d":[6,0,0,5,1,0,3],
 "d9/d9a/structAcore_1_1Impl_1_1EnumUtilsImpl_1_1EnumUtils.html#aeeb13e953eff5fde8c9edff41ee17806":[5,0,1,8,1,0,0],
@@ -231,8 +234,8 @@ var NAVTREEINDEX247 =
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html":[5,0,34,6,46],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[5,0,34,6,46,2],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a33b7b73bd5d26c2a0ac99d6dc0131c41":[6,0,12,6,46,2],
-"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,34,6,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[6,0,12,6,46,1],
+"d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a3d90b6ce26d55a55bac1d953dd39b049":[5,0,34,6,46,1],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[6,0,12,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#a4747c3d015cb1b0d0056928fd75e4d18":[5,0,34,6,46,0],
 "d9/d9d/classWorldPackets_1_1Guild_1_1GuildSetMemberNote.html#acf6beb0a5b122a04162e9d2c027203af":[5,0,34,6,46,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX247 =
 "d9/d9e/HolidayDateCalculator_8cpp.html#a6dd118cfa29609d98e0207909b863c88":[7,0,0,0,1,2,17,2,0],
 "d9/d9f/classnpc__putricide__oozeAI.html":[6,0,2087],
 "d9/d9f/classnpc__putricide__oozeAI.html#a0a4167a73249967fcf268683f936647d":[6,0,2087,3],
-"d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2087,6],
-"d9/d9f/classnpc__putricide__oozeAI.html#a508fe1a9974f2ffa36c72575c2d4b252":[6,0,2087,7],
-"d9/d9f/classnpc__putricide__oozeAI.html#a5b3200110d6cd8ac1311220ab2ee3385":[6,0,2087,0],
-"d9/d9f/classnpc__putricide__oozeAI.html#a62c9027b6d8a7812fcf5c0023621ef70":[6,0,2087,1]
+"d9/d9f/classnpc__putricide__oozeAI.html#a501e0f46abdb1bcc0d99ab9792f738fe":[6,0,2087,6]
 };

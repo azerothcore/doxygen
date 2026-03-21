@@ -1,5 +1,9 @@
 var NAVTREEINDEX306 =
 {
+"db/ded/classMockUnitStub.html#af6fccda3c70d3ddb643dcae31d63c205":[6,0,1540,7],
+"db/ded/classMockUnitStub.html#afc487e92b80c573fd5b01400204401da":[6,0,1540,5],
+"db/ded/classMockUnitStub.html#aff433673cca191db03810f378879eae1":[6,0,1540,9],
+"db/ded/structLootGroupInvalidSelector.html":[6,0,1473],
 "db/ded/structLootGroupInvalidSelector.html#a10e307846a0731aa812388c29c0d4bc8":[6,0,1473,3],
 "db/ded/structLootGroupInvalidSelector.html#a2ea426fdeced03324c4a63184c2c1fc4":[6,0,1473,1],
 "db/ded/structLootGroupInvalidSelector.html#a67b9d223426512af79bbf5b035c18a6d":[6,0,1473,2],
@@ -81,12 +85,12 @@ var NAVTREEINDEX306 =
 "db/def/classMovableMapObject.html#a9551c85ae0e43e4d212225c643da2262":[6,0,1551,4],
 "db/def/classMovableMapObject.html#ad2f32e921244459f7cc6d50355429cc6":[6,0,1551,3],
 "db/def/classMovableMapObject.html#ad9f4cb74c55993cfdfc5895aefc33cfb":[6,0,1551,0],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[6,0,12,6,2],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[6,0,12,6,2,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX306 =
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a94c4efe28aac474a88eeb4b0f370af02":[6,0,680,0,0],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a96505d1dbb57c7d52d8730952f5c46f8":[6,0,680,0,20],
 "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a9e043455beaadc2a47e0d753cc5c18d7":[6,0,680,0,5],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a9e7506026fc816aea5e1b58bab0e50c0":[6,0,680,0,19],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#ac2b114c221b2713b4c2ab039cf3bc924":[6,0,680,0,21],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#ad02bb8b22e166a2fd34fa56ddea3d396":[6,0,680,0,4],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#adcb09077e86ad069dbe219bfc5c45613":[6,0,680,0,23],
-"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#ae15e53e682b9d8475861c64847d8b89c":[6,0,680,0,6]
+"db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html#a9e7506026fc816aea5e1b58bab0e50c0":[6,0,680,0,19]
 };

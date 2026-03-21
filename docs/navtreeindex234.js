@@ -1,5 +1,8 @@
 var NAVTREEINDEX234 =
 {
+"d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4":[6,0,2875,6],
+"d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3":[6,0,2875,1],
+"d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2":[6,0,2875,5],
 "d8/ded/classspell__dru__eclipse.html#aa060ed89bc5e3c80d6402c8e79baa597":[6,0,2875,2],
 "d8/ded/classspell__dru__eclipse.html#ad167a260f9a3d1f71a5a11b0bab6161c":[6,0,2875,4],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html":[6,0,1684,0],
@@ -240,14 +243,11 @@ var NAVTREEINDEX234 =
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
 "d8/dfc/structAcore_1_1unary__function.html":[5,0,1,120],
 "d8/dfc/structAcore_1_1unary__function.html":[6,0,0,108],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,120,1],
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,1,120,0],
 "d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[6,0,0,108,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[6,0,555,0],
 "d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[6,0,555,0,8],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a1034e0e9f5af03cd1d36aef4df724bc9":[6,0,555,0,6],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a302879641400e0f0b329fd960256c9fb":[6,0,555,0,12],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a4149dd25a04d661448255858e57387f4":[6,0,555,0,13],
-"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a664ac70b8bb380329aacdf11cfb53bf1":[6,0,555,0,7]
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a1034e0e9f5af03cd1d36aef4df724bc9":[6,0,555,0,6]
 };

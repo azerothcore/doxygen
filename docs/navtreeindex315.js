@@ -1,5 +1,9 @@
 var NAVTREEINDEX315 =
 {
+"dc/d33/structTaxiNodesEntry.html#a685931e2a361f9e0fc81c004c7467d19":[6,0,4474,1],
+"dc/d33/structTaxiNodesEntry.html#a7cbd40848094fa367862d653b0f7170d":[6,0,4474,4],
+"dc/d33/structTaxiNodesEntry.html#a9380befd45cab3104003b2487464bd71":[6,0,4474,5],
+"dc/d33/structTaxiNodesEntry.html#ab59ab7e8b302ac8858bfd67bc10d803f":[6,0,4474,2],
 "dc/d33/structTaxiNodesEntry.html#ae00db3ea736c3a470f6f0690c178e758":[6,0,4474,3],
 "dc/d34/boss__rage__winterchill_8cpp.html":[7,0,0,0,1,3,4,1,0,4],
 "dc/d34/boss__rage__winterchill_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,0,4,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX315 =
 "dc/d3b/classachievement__bg__ic__mowed__down.html":[6,0,42],
 "dc/d3b/classachievement__bg__ic__mowed__down.html#a385e09c605084900f374090e5e19c24f":[6,0,42,1],
 "dc/d3b/classachievement__bg__ic__mowed__down.html#ab05387d1e14958e87123bd0fc2188445":[6,0,42,0],
-"dc/d3b/classnpc__black__knight__skeletal__gryphon.html":[6,0,1673],
-"dc/d3b/classnpc__black__knight__skeletal__gryphon.html#a5dc83a92fbe2eb4d6faa30f23a9ac777":[6,0,1673,1],
-"dc/d3b/classnpc__black__knight__skeletal__gryphon.html#aad244f95877a208b56a2b6544984d724":[6,0,1673,2],
-"dc/d3b/classspell__the__lich__king__infest__aura.html":[6,0,4168],
-"dc/d3b/classspell__the__lich__king__infest__aura.html#aa4a548a222dd79554e3e4e8f837c1d49":[6,0,4168,3]
+"dc/d3b/classnpc__black__knight__skeletal__gryphon.html":[6,0,1673]
 };

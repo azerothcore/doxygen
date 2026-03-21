@@ -1,5 +1,9 @@
 var NAVTREEINDEX346 =
 {
+"dd/db3/classReputationMgr.html#af636fd98488c7661eba8bee677e139a7":[6,0,2529,7],
+"dd/db3/classReputationMgr.html#af67314d7007c3b81130dd1e47c479d7d":[6,0,2529,34],
+"dd/db3/classReputationMgr.html#af7c9b1b5eb2fdb2681b21bf729a55fb0":[6,0,2529,25],
+"dd/db3/classReputationMgr.html#af9da8affdfa257988cb8b4783b1b9db9":[6,0,2529,39],
 "dd/db4/classnpc__future__you.html":[6,0,1823],
 "dd/db4/classnpc__future__you.html#a2e1529fef3ce307d98057dc93ce5e5fe":[6,0,1823,2],
 "dd/db4/classnpc__future__you.html#a36e363156bcb32fee468989062817bd5":[6,0,1823,1],
@@ -73,10 +77,10 @@ var NAVTREEINDEX346 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,640,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,640,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,640,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[6,0,4329],
@@ -245,9 +249,5 @@ var NAVTREEINDEX346 =
 "dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
 "dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
 "dd/dc9/classboss__festergut.html":[6,0,479],
-"dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,479,1],
-"dd/dc9/classboss__festergut.html#ab2624e1908bb376f1b195a88e4b9b146":[6,0,479,2],
-"dd/dca/boss__moroes_8cpp.html":[7,0,0,0,1,3,2,4,4],
-"dd/dca/boss__moroes_8cpp.html#a23fefc79344f5bb5f9927175baf200b6":[7,0,0,0,1,3,2,4,4,7],
-"dd/dca/boss__moroes_8cpp.html#a2a6c515d8914dfc6bb22bcf5bde27cdc":[7,0,0,0,1,3,2,4,4,8]
+"dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,479,1]
 };

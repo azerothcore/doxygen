@@ -71,7 +71,7 @@ var searchData=
   ['_7echarminfo_68',['~CharmInfo',['../dd/d80/structCharmInfo.html#a830ad219cd0f1647154bfd3a27862e4a',1,'CharmInfo']]],
   ['_7echasemovementgenerator_69',['~ChaseMovementGenerator',['../dd/dcb/classChaseMovementGenerator.html#ac30308e6e93e600778047e6dc54ebb74',1,'ChaseMovementGenerator']]],
   ['_7echathandler_70',['~ChatHandler',['../d6/d38/classChatHandler.html#a8a6e1c0e80c356fc41360f2cc427c0f3',1,'ChatHandler']]],
-  ['_7ecinematicmgr_71',['~CinematicMgr',['../d8/d26/classCinematicMgr.html#ac56017a73bed15eadfdb6d17891328ff',1,'CinematicMgr']]],
+  ['_7ecinematicmgr_71',['~CinematicMgr',['../d8/d26/classCinematicMgr.html#a8c9788deb0f2dd3b49b935262b752d57',1,'CinematicMgr']]],
   ['_7eclicommandholder_72',['~CliCommandHolder',['../de/d80/structCliCommandHolder.html#a44ca7e8af5c717b1cff7b143afc077ee',1,'CliCommandHolder']]],
   ['_7ecombatmanager_73',['~CombatManager',['../d9/d26/classCombatManager.html#ab1f852f6cae8f22802f062b75b9c9f38',1,'CombatManager']]],
   ['_7econditionmgr_74',['~ConditionMgr',['../d9/df7/classConditionMgr.html#ac5a70ae75079bf04249a68078bff43e1',1,'ConditionMgr']]],

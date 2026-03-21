@@ -1,5 +1,8 @@
 var NAVTREEINDEX69 =
 {
+"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4452,2],
+"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4452,1],
+"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4452,3],
 "d2/d73/classitem__incendiary__explosives.html":[6,0,1401],
 "d2/d73/classitem__incendiary__explosives.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4":[6,0,1401,1],
 "d2/d73/classitem__incendiary__explosives.html#a3a10f4e40374cae75a5ed320385a67f9":[6,0,1401,0],
@@ -133,12 +136,12 @@ var NAVTREEINDEX69 =
 "d2/d7d/structLockEntry.html#aed5e58cf605d3c28cd0d26015722be03":[6,0,1463,2],
 "d2/d7e/MMapFactory_8h.html":[7,0,0,0,0,1,0,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868":[7,0,0,0,0,1,0,3,1],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,0],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85":[7,0,0,0,0,1,0,3,1,3],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,2],
-"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8":[7,0,0,0,0,1,0,3,1,5],
 "d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,1],
+"d2/d7e/MMapFactory_8h.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10":[7,0,0,0,0,1,0,3,1,4],
 "d2/d7e/boss__pandemonius_8cpp.html":[7,0,0,0,1,3,7,0,1,1],
 "d2/d7e/boss__pandemonius_8cpp.html#a0a0bb294821c88853f49c728b9a5fdb2":[7,0,0,0,1,3,7,0,1,1,8],
 "d2/d7e/boss__pandemonius_8cpp.html#a18d62d8f86b7d4023e10d17dce27919f":[7,0,0,0,1,3,7,0,1,1,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d8a/classspell__putricide__ooze__eruption__searcher.html":[6,0,3830],
 "d2/d8a/classspell__putricide__ooze__eruption__searcher.html#a6dee5fc9fafd7faa3eadbf9431568dcc":[6,0,3830,2],
 "d2/d8a/classspell__putricide__ooze__eruption__searcher.html#aa61db53d7395fd45b8569e12978fed0b":[6,0,3830,0],
-"d2/d8a/classspell__putricide__ooze__eruption__searcher.html#ab63054debe6763027ab52ad122277719":[6,0,3830,1],
-"d2/d8a/classspell__putricide__ooze__eruption__searcher.html#adb7e30d10c2071de5d5070b64a10af30":[6,0,3830,3],
-"d2/d8a/structboss__sartharion__shadron.html":[6,0,699],
-"d2/d8a/structboss__sartharion__shadron.html#a1f1a235d4d5654e273ef821ebf962491":[6,0,699,1]
+"d2/d8a/classspell__putricide__ooze__eruption__searcher.html#ab63054debe6763027ab52ad122277719":[6,0,3830,1]
 };

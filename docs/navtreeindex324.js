@@ -1,5 +1,9 @@
 var NAVTREEINDEX324 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aca91b48c557565055039bb70ba1fd2eb":[7,0,0,0,1,2,41,11,72,13],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236acde546405435d878d8a552c7209e50fb":[7,0,0,0,1,2,41,11,72,19],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ad09bca933a358610ff271989afdc2f9a":[7,0,0,0,1,2,41,11,72,8],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236adc21054212f2fda577059533337ff63a":[7,0,0,0,1,2,41,11,72,16],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236add4f24c7c71aa1892b4f7aa25f162420":[7,0,0,0,1,2,41,11,72,17],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aef9114d2ad5df80081d2e5fce725a352":[7,0,0,0,1,2,41,11,72,5],
 "dc/db2/SpellScript_8h.html#a05a51498d234bccc0ab35a047edc3417":[7,0,0,0,1,2,41,11,49],
@@ -245,9 +249,5 @@ var NAVTREEINDEX324 =
 "dc/db8/structboss__mother__shahraz.html#ab9e4162ac92e786b84b6497c37251386":[6,0,642,4],
 "dc/db8/structboss__mother__shahraz.html#adba94363f74975301472d79f24894df8":[6,0,642,0],
 "dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html":[6,0,77],
-"dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,77,0],
-"dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#ac91196d094f159932ad871ffa9c0f405":[6,0,77,1],
-"dc/dbb/namespaceWMO.html":[5,0,33],
-"dc/dbc/boss__mandokir_8cpp.html":[7,0,0,0,1,3,2,16,7],
-"dc/dbc/boss__mandokir_8cpp.html#a02ddb9bd85d71aaef21b511adcdfba8e":[7,0,0,0,1,3,2,16,7,18]
+"dc/dba/classachievement__mimiron__set__up__us__the__bomb__13.html#a74b0cafbc4be4261c8f8f2af3671cbd9":[6,0,77,0]
 };

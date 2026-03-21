@@ -1,5 +1,8 @@
 var NAVTREEINDEX105 =
 {
+"d3/d91/boss__heigan_8cpp.html#a5bd342133be8c2137b831460acc9298cae8e05c43a10c1885e6dd64eccb4afdca":[7,0,0,0,1,3,5,7,6,4,1],
+"d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,7,6,1],
+"d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a38bf9abef479846a5b7962e7c6661947":[7,0,0,0,1,3,5,7,6,1,5],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a433c241f2b80d08bfe9c5822231e2d8b":[7,0,0,0,1,3,5,7,6,1,4],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a89121271f4b28a781a1419fb040082ff":[7,0,0,0,1,3,5,7,6,1,0],
 "d3/d91/boss__heigan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a965a1c4a685b66429571b3764be702b0":[7,0,0,0,1,3,5,7,6,1,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d9c/classinstance__magtheridons__lair.html#a6c9cc959cf4f294e6173d244f54bcd02":[6,0,1336,2],
 "d3/d9c/classinstance__magtheridons__lair.html#a9bc61758478dc18ba413264eec2e3ca3":[6,0,1336,1],
 "d3/d9d/SpellProcTest_8cpp.html":[7,0,0,0,2,2,0,8,23],
-"d3/d9d/SpellProcTest_8cpp.html#a14438e4c45ff52556c6b858ab9557f8b":[7,0,0,0,2,2,0,8,23,39],
-"d3/d9d/SpellProcTest_8cpp.html#a1c6ba50540dbe52e60a32d1e9eed388a":[7,0,0,0,2,2,0,8,23,1],
-"d3/d9d/SpellProcTest_8cpp.html#a222153105e3e42efbcdba1de3e553c7a":[7,0,0,0,2,2,0,8,23,10],
-"d3/d9d/SpellProcTest_8cpp.html#a24bd8eba1b42247aebe3abda078c2c5a":[7,0,0,0,2,2,0,8,23,26]
+"d3/d9d/SpellProcTest_8cpp.html#a14438e4c45ff52556c6b858ab9557f8b":[7,0,0,0,2,2,0,8,23,39]
 };

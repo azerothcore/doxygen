@@ -1,5 +1,8 @@
 var NAVTREEINDEX133 =
 {
+"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2694,1],
+"d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2694,3],
+"d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2694,2],
 "d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2694,0],
 "d4/d82/structboss__ambassador__hellmaw.html":[6,0,387],
 "d4/d82/structboss__ambassador__hellmaw.html#a35579b31dec1d0c110b459230ee129e4":[6,0,387,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6c1e6b5787916970155d69a771a3a5a":[7,0,0,0,1,3,7,1,6,8,2],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2ceacf2dd73998484b4e3cb3d35f89c":[7,0,0,0,1,3,7,1,6,8,10],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeabe40685ff637651067fdacb682eb12":[7,0,0,0,1,3,7,1,6,8,0],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,6,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca1be268c00440d3f2aadfe79c39e372a3":[7,0,0,0,1,3,7,1,6,10,10],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca24181f85c3b5098a24c5b91e925fbe65":[7,0,0,0,1,3,7,1,6,10,13],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca2583f5d8b2b35a894207213e0f747d64":[7,0,0,0,1,3,7,1,6,10,12]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,6,10]
 };

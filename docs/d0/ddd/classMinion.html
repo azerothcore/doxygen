@@ -458,8 +458,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a8c6ee69d05582bd846a9850297313b29 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a58f65a0093d74afb248ac9fb5b8ce755 inherit pub_methods_classCreature" id="r_a58f65a0093d74afb248ac9fb5b8ce755"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a58f65a0093d74afb248ac9fb5b8ce755">reachWithSpellCure</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim)</td></tr>
 <tr class="separator:a58f65a0093d74afb248ac9fb5b8ce755 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44d11d16e2cbdb8316790cc8550df75c inherit pub_methods_classCreature" id="r_a44d11d16e2cbdb8316790cc8550df75c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a44d11d16e2cbdb8316790cc8550df75c">CanStartAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *u) const</td></tr>
-<tr class="separator:a44d11d16e2cbdb8316790cc8550df75c inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fdd2916fd441db2f0f6c25eda902a35 inherit pub_methods_classCreature" id="r_a7fdd2916fd441db2f0f6c25eda902a35"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a7fdd2916fd441db2f0f6c25eda902a35">CanStartAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *u, bool force=false) const</td></tr>
+<tr class="separator:a7fdd2916fd441db2f0f6c25eda902a35 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4c4b7c330d622d549e968d848c2c4c5f inherit pub_methods_classCreature" id="r_a4c4b7c330d622d549e968d848c2c4c5f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f">GetAggroRange</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *target) const</td></tr>
 <tr class="separator:a4c4b7c330d622d549e968d848c2c4c5f inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26eefd4b39d582228f970322c8c44ac5 inherit pub_methods_classCreature" id="r_a26eefd4b39d582228f970322c8c44ac5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a26eefd4b39d582228f970322c8c44ac5">GetAttackDistance</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *player) const</td></tr>
@@ -2411,6 +2411,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0ecfe05a8965ef2d2764685fff1cc961 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a347a94213bd7c981e5e4cee5b68b78c1 inherit pub_methods_classWorldObject" id="r_a347a94213bd7c981e5e4cee5b68b78c1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a347a94213bd7c981e5e4cee5b68b78c1">IsWithinDist2d</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, float dist) const</td></tr>
 <tr class="separator:a347a94213bd7c981e5e4cee5b68b78c1 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a599fc0e33f4b0a9ed2a47853164b45 inherit pub_methods_classWorldObject" id="r_a1a599fc0e33f4b0a9ed2a47853164b45"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a1a599fc0e33f4b0a9ed2a47853164b45">IsWithinSightRange</a> (<a class="el" href="../../d0/df4/structPosition.html">Position</a> const &amp;pos, float dist) const</td></tr>
+<tr class="separator:a1a599fc0e33f4b0a9ed2a47853164b45 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4ac4fb3c927029f132b38a0e875788d inherit pub_methods_classWorldObject" id="r_ae4ac4fb3c927029f132b38a0e875788d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#ae4ac4fb3c927029f132b38a0e875788d">IsWithinDist</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</td></tr>
 <tr class="separator:ae4ac4fb3c927029f132b38a0e875788d inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaeea293a6966a717f17113370d364168 inherit pub_methods_classWorldObject" id="r_aaeea293a6966a717f17113370d364168"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</td></tr>
@@ -3667,10 +3669,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:99</div></div>
 <div class="ttc" id="aclassTempSummon_html_a671477f035313e96517c1c92079d9911"><div class="ttname"><a href="../../dc/d88/classTempSummon.html#a671477f035313e96517c1c92079d9911">TempSummon::InitStats</a></div><div class="ttdeci">virtual void InitStats(uint32 lifetime)</div><div class="ttdef"><b>Definition</b> TemporarySummon.cpp:200</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
-<div class="ttc" id="aclassUnit_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition</b> Unit.cpp:7005</div></div>
+<div class="ttc" id="aclassUnit_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../df/dd9/classUnit.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition</b> Unit.cpp:6998</div></div>
 <div class="ttc" id="aclassUnit_html_ad5dfdae7e2ebb21335b459c6426e0cfc"><div class="ttname"><a href="../../df/dd9/classUnit.html#ad5dfdae7e2ebb21335b459c6426e0cfc">Unit::SetCreatorGUID</a></div><div class="ttdeci">void SetCreatorGUID(ObjectGuid creator)</div><div class="ttdef"><b>Definition</b> Unit.h:716</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00390">GetOwner()</a>, <a class="el" href="../../#l00200">TempSummon::InitStats()</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l00716">Unit::SetCreatorGUID()</a>, <a class="el" href="../../#l07005">Unit::SetFaction()</a>, and <a class="el" href="../../#l00099">Creature::SetReactState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00390">GetOwner()</a>, <a class="el" href="../../#l00200">TempSummon::InitStats()</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l00716">Unit::SetCreatorGUID()</a>, <a class="el" href="../../#l06998">Unit::SetFaction()</a>, and <a class="el" href="../../#l00099">Creature::SetReactState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00434">Guardian::InitStats()</a>, <a class="el" href="../../#l00475">Puppet::InitStats()</a>, and <a class="el" href="../../#l00055">Totem::InitStats()</a>.</p>
 
@@ -3700,7 +3702,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01911">SummonPropertiesEntry::Category</a>, <a class="el" href="../../#l00797">Unit::IsPet()</a>, <a class="el" href="../../#l00074">TempSummon::m_Properties</a>, and <a class="el" href="../../#l03502">SUMMON_CATEGORY_PET</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00400">setDeathState()</a>, and <a class="el" href="../../#l07704">Unit::SetMinion()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00400">setDeathState()</a>, and <a class="el" href="../../#l07706">Unit::SetMinion()</a>.</p>
 
 </div>
 </div>
@@ -3731,7 +3733,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00117">Object::GetEntry()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l00771">PetAI::ReceiveEmote()</a>, <a class="el" href="../../#l07704">Unit::SetMinion()</a>, <a class="el" href="../../#l08974">Player::SummonPet()</a>, <a class="el" href="../../#l00148">PetAI::UpdateAI()</a>, and <a class="el" href="../../#l01319">Guardian::UpdateAttackPowerAndDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l00771">PetAI::ReceiveEmote()</a>, <a class="el" href="../../#l07706">Unit::SetMinion()</a>, <a class="el" href="../../#l08967">Player::SummonPet()</a>, <a class="el" href="../../#l00148">PetAI::UpdateAI()</a>, and <a class="el" href="../../#l01319">Guardian::UpdateAttackPowerAndDamage()</a>.</p>
 
 </div>
 </div>
@@ -3845,13 +3847,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  412</span>                    }</div>
 <div class="line"><span class="lineno">  413</span>}</div>
 <div class="ttc" id="aUnit_8h_html_a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0">DeathState::JustDied</a></div><div class="ttdeci">@ JustDied</div></div>
-<div class="ttc" id="aclassCreature_html_a00d974a3f97e003cadb1760538d8be27"><div class="ttname"><a href="../../db/dd5/classCreature.html#a00d974a3f97e003cadb1760538d8be27">Creature::setDeathState</a></div><div class="ttdeci">void setDeathState(DeathState s, bool despawn=false) override</div><div class="ttdoc">A creature can be in 4 different states: Alive, JustDied, Corpse, and JustRespawned....</div><div class="ttdef"><b>Definition</b> Creature.cpp:1894</div></div>
+<div class="ttc" id="aclassCreature_html_a00d974a3f97e003cadb1760538d8be27"><div class="ttname"><a href="../../db/dd5/classCreature.html#a00d974a3f97e003cadb1760538d8be27">Creature::setDeathState</a></div><div class="ttdeci">void setDeathState(DeathState s, bool despawn=false) override</div><div class="ttdoc">A creature can be in 4 different states: Alive, JustDied, Corpse, and JustRespawned....</div><div class="ttdef"><b>Definition</b> Creature.cpp:1889</div></div>
 <div class="ttc" id="aclassMinion_html_a63335ad34731e8a26ab027bf690f9d4d"><div class="ttname"><a href="../../d0/ddd/classMinion.html#a63335ad34731e8a26ab027bf690f9d4d">Minion::IsGuardianPet</a></div><div class="ttdeci">bool IsGuardianPet() const</div><div class="ttdef"><b>Definition</b> TemporarySummon.cpp:395</div></div>
 <div class="ttc" id="aclassObject_html_ae65fbd7720a9aa448516f6cf494bda67"><div class="ttname"><a href="../../d8/d4b/classObject.html#ae65fbd7720a9aa448516f6cf494bda67">Object::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition</b> Object.h:115</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00115">Object::GetGUID()</a>, <a class="el" href="../../#l00390">GetOwner()</a>, <a class="el" href="../../#l00395">IsGuardianPet()</a>, <a class="el" href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0">JustDied</a>, and <a class="el" href="../../#l01894">Creature::setDeathState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00115">Object::GetGUID()</a>, <a class="el" href="../../#l00390">GetOwner()</a>, <a class="el" href="../../#l00395">IsGuardianPet()</a>, <a class="el" href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306aae649c7a16dd2cc0a03b454de711f6d0">JustDied</a>, and <a class="el" href="../../#l01889">Creature::setDeathState()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04754">Unit::_UnapplyAura()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04747">Unit::_UnapplyAura()</a>.</p>
 
 </div>
 </div>
@@ -3943,7 +3945,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/ddd/classMinion.html">Minion</a></li>
-    <li class="footer">Generated on Fri Mar 20 2026 06:50:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Mar 21 2026 06:38:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

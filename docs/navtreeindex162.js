@@ -1,5 +1,8 @@
 var NAVTREEINDEX162 =
 {
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af07eae7f1e94a9317aec26404b68b33e":[6,0,1361,0,2],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#af9b41e111ea55b45d007685c1b122ac4":[6,0,1361,0,16],
+"d5/de9/structinstance__stratholme_1_1instance__stratholme__InstanceMapScript.html#afa7f98e85998447206dc06b09dfc928d":[6,0,1361,0,34],
 "d5/dea/Banner_8h.html":[7,0,0,0,0,17],
 "d5/dea/Banner_8h.html#af6170962feecf3d126a80593221a357d":[7,0,0,0,0,17,0],
 "d5/dea/classspell__gen__proc__reduced__above__60.html":[6,0,3093],
@@ -111,8 +114,8 @@ var NAVTREEINDEX162 =
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,12,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,12,6,29,0],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,12,6,29,0],
 "d5/def/classdeserter__commandscript.html":[6,0,997],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[6,0,997,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[6,0,997,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX162 =
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153ea7f0e5071bc08579a814ae1cb62cc37e4":[7,0,0,0,1,3,7,5,0,0,7,1],
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153ea846055c995374082714483a6b39bc963":[7,0,0,0,1,3,7,5,0,0,7,6],
 "d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eab066547e004691aae6b23d39f4c0da4b":[7,0,0,0,1,3,7,5,0,0,7,4],
-"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eae4ccd71da672cd021682c47fc6ac6fee":[7,0,0,0,1,3,7,5,0,0,7,8],
-"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eae53e80b52afcd7b783b905b39635f58b":[7,0,0,0,1,3,7,5,0,0,7,5],
-"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eaf9613db3725f3d2ee90e2f29d95f209a":[7,0,0,0,1,3,7,5,0,0,7,3],
-"d5/df1/structAcore_1_1Hyperlinks_1_1LinkTags_1_1achievement.html":[6,0,0,4,0,0]
+"d5/df1/arcatraz_8cpp.html#ac09f9532893c1b33d77acd4a6e92153eae4ccd71da672cd021682c47fc6ac6fee":[7,0,0,0,1,3,7,5,0,0,7,8]
 };

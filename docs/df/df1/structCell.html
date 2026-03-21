@@ -170,6 +170,9 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a3ff5ef7877f8b91e5797ef8b176870fa" id="r_a3ff5ef7877f8b91e5797ef8b176870fa"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a3ff5ef7877f8b91e5797ef8b176870fa"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/df1/structCell.html#a3ff5ef7877f8b91e5797ef8b176870fa">VisitFarVisibleObjects</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *obj, T &amp;visitor, float radius)</td></tr>
 <tr class="separator:a3ff5ef7877f8b91e5797ef8b176870fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13c2328ec9e465adf403610ffc4f8753" id="r_a13c2328ec9e465adf403610ffc4f8753"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a13c2328ec9e465adf403610ffc4f8753"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/df1/structCell.html#a13c2328ec9e465adf403610ffc4f8753">VisitFarVisibleObjects</a> (float x, float y, <a class="el" href="../../d7/db0/classMap.html">Map</a> *map, T &amp;visitor, float radius)</td></tr>
+<tr class="separator:a13c2328ec9e465adf403610ffc4f8753"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -947,7 +950,7 @@ template&lt;class T , class CONTAINER &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00506">WorldObject::GetCombatReach()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l07748">Spell::CheckSpellFocus()</a>, <a class="el" href="../../#l00057">Visit()</a>, <a class="el" href="../../#l00185">VisitFarVisibleObjects()</a>, <a class="el" href="../../#l00175">VisitObjects()</a>, and <a class="el" href="../../#l00165">VisitObjects()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l07741">Spell::CheckSpellFocus()</a>, <a class="el" href="../../#l00057">Visit()</a>, <a class="el" href="../../#l00187">VisitFarVisibleObjects()</a>, and <a class="el" href="../../#l00171">VisitObjects()</a>.</p>
 
 </div>
 </div>
@@ -1051,8 +1054,74 @@ template&lt;class T , class CONTAINER &gt; </div>
 
 </div>
 </div>
+<a id="a13c2328ec9e465adf403610ffc4f8753" name="a13c2328ec9e465adf403610ffc4f8753"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13c2328ec9e465adf403610ffc4f8753">&#9670;&#160;</a></span>VisitFarVisibleObjects() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Cell::VisitFarVisibleObjects </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d7/db0/classMap.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"><em>visitor</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>radius</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  188</span>{</div>
+<div class="line"><span class="lineno">  189</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
+<div class="line"><span class="lineno">  190</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  191</span> </div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, FarVisibleGridContainer&gt;</a> gnotifier(visitor);</div>
+<div class="line"><span class="lineno">  193</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
+<div class="line"><span class="lineno">  194</span>}</div>
+<div class="ttc" id="aclassTypeContainerVisitor_html"><div class="ttname"><a href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor</a></div><div class="ttdef"><b>Definition</b> TypeContainerVisitor.h:105</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00197">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+
+</div>
+</div>
 <a id="a3ff5ef7877f8b91e5797ef8b176870fa" name="a3ff5ef7877f8b91e5797ef8b176870fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ff5ef7877f8b91e5797ef8b176870fa">&#9670;&#160;</a></span>VisitFarVisibleObjects()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ff5ef7877f8b91e5797ef8b176870fa">&#9670;&#160;</a></span>VisitFarVisibleObjects() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1092,18 +1161,14 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
-<div class="line"><span class="lineno">  187</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
-<div class="line"><span class="lineno">  188</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  189</span> </div>
-<div class="line"><span class="lineno">  190</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, FarVisibleGridContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  191</span>    cell.Visit(p, gnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
-<div class="line"><span class="lineno">  192</span>}</div>
-<div class="ttc" id="aclassTypeContainerVisitor_html"><div class="ttname"><a href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor</a></div><div class="ttdef"><b>Definition</b> TypeContainerVisitor.h:105</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  182</span>{</div>
+<div class="line"><span class="lineno">  183</span>    <a class="code hl_function" href="../../df/df1/structCell.html#a3ff5ef7877f8b91e5797ef8b176870fa">VisitFarVisibleObjects</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY(), center_obj-&gt;GetMap(), visitor, radius);</div>
+<div class="line"><span class="lineno">  184</span>}</div>
+<div class="ttc" id="astructCell_html_a3ff5ef7877f8b91e5797ef8b176870fa"><div class="ttname"><a href="../../df/df1/structCell.html#a3ff5ef7877f8b91e5797ef8b176870fa">Cell::VisitFarVisibleObjects</a></div><div class="ttdeci">static void VisitFarVisibleObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition</b> CellImpl.h:181</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00197">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00624">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00181">VisitFarVisibleObjects()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l16247">Unit::ExecuteDelayedUnitRelocationEvent()</a>, and <a class="el" href="../../#l01593">Player::UpdateVisibilityForPlayer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l16255">Unit::ExecuteDelayedUnitRelocationEvent()</a>, <a class="el" href="../../#l01597">Player::UpdateVisibilityForPlayer()</a>, and <a class="el" href="../../#l00181">VisitFarVisibleObjects()</a>.</p>
 
 </div>
 </div>
@@ -1160,13 +1225,13 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  176</span>{</div>
-<div class="line"><span class="lineno">  177</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
-<div class="line"><span class="lineno">  178</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  181</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
-<div class="line"><span class="lineno">  182</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  172</span>{</div>
+<div class="line"><span class="lineno">  173</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(x, y));</div>
+<div class="line"><span class="lineno">  174</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
+<div class="line"><span class="lineno">  177</span>    cell.Visit(p, gnotifier, *map, x, y, radius);</div>
+<div class="line"><span class="lineno">  178</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00197">Acore::ComputeCellCoord()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
 
@@ -1214,16 +1279,13 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  166</span>{</div>
-<div class="line"><span class="lineno">  167</span>    <a class="code hl_class" href="../../d4/d6f/structCoordPair.html">CellCoord</a> p(<a class="code hl_function" href="../../d3/d0b/namespaceAcore.html#af056a475dba505792191bc6e8c3370a5">Acore::ComputeCellCoord</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY()));</div>
-<div class="line"><span class="lineno">  168</span>    <a class="code hl_struct" href="../../df/df1/structCell.html">Cell</a> cell(p);</div>
-<div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>    <a class="code hl_class" href="../../d1/d14/classTypeContainerVisitor.html">TypeContainerVisitor&lt;T, GridTypeMapContainer&gt;</a> gnotifier(visitor);</div>
-<div class="line"><span class="lineno">  171</span>    cell.Visit(p, gnotifier, *center_obj-&gt;GetMap(), *center_obj, radius);</div>
-<div class="line"><span class="lineno">  172</span>}</div>
+<div class="line"><span class="lineno">  167</span>    <a class="code hl_function" href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">VisitObjects</a>(center_obj-&gt;GetPositionX(), center_obj-&gt;GetPositionY(), center_obj-&gt;GetMap(), visitor, radius);</div>
+<div class="line"><span class="lineno">  168</span>}</div>
+<div class="ttc" id="astructCell_html_a1498ced567e6adac094dc3be7e6e9686"><div class="ttname"><a href="../../df/df1/structCell.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a></div><div class="ttdeci">static void VisitObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition</b> CellImpl.h:165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00197">Acore::ComputeCellCoord()</a>, <a class="el" href="../../#l00624">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00057">Visit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00165">VisitObjects()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02359">Creature::CallAssistance()</a>, <a class="el" href="../../#l02395">Creature::CallForHelp()</a>, <a class="el" href="../../#l00788">npc_hallows_end_soh::CastFires()</a>, <a class="el" href="../../#l00176">boss_ouro::CastGroundRupture()</a>, <a class="el" href="../../#l01436">spell_gen_cannibalize::CheckIfCorpseNear()</a>, <a class="el" href="../../#l00855">spell_hun_pet_carrion_feeder::CheckIfCorpseNear()</a>, <a class="el" href="../../#l01055">npc_q24545_lich_king::npc_q24545_lich_kingAI::CleanAll()</a>, <a class="el" href="../../#l00884">npc_hallows_end_soh::CompleteQuest()</a>, <a class="el" href="../../#l05372">SmartScript::DoFindClosestFriendlyInRange()</a>, <a class="el" href="../../#l00527">ScriptedAI::DoFindFriendlyCC()</a>, <a class="el" href="../../#l05352">SmartScript::DoFindFriendlyCC()</a>, <a class="el" href="../../#l00536">ScriptedAI::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l05362">SmartScript::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l01018">Creature::DoFleeToGetAssistance()</a>, <a class="el" href="../../#l05325">SmartScript::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l00517">ScriptedAI::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l05338">SmartScript::DoSelectLowestHpPercentFriendly()</a>, <a class="el" href="../../#l04739">Spell::EffectForceDeselect()</a>, <a class="el" href="../../#l03990">Spell::EffectSanctuary()</a>, <a class="el" href="../../#l00221">ValithriaDespawner::Execute()</a>, <a class="el" href="../../#l16348">Unit::ExecuteDelayedUnitAINotifyEvent()</a>, <a class="el" href="../../#l16247">Unit::ExecuteDelayedUnitRelocationEvent()</a>, <a class="el" href="../../#l02809">UnitAura::FillTargetMap()</a>, <a class="el" href="../../#l02896">DynObjAura::FillTargetMap()</a>, <a class="el" href="../../#l01363">npc_captain_arnath::npc_captain_arnathAI::FindFriendlyCreature()</a>, <a class="el" href="../../#l02494">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l02503">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l02512">WorldObject::FindNearestGameObjectOfType()</a>, <a class="el" href="../../#l02562">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l02555">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l03056">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l02569">WorldObject::GetDeadCreatureListInGrid()</a>, <a class="el" href="../../#l02548">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l02541">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l00565">ChatHandler::GetNearbyGameObject()</a>, <a class="el" href="../../#l00545">ScriptedAI::GetPlayerAtMinimumRange()</a>, <a class="el" href="../../#l04111">SmartScript::GetWorldObjectsInDist()</a>, <a class="el" href="../../#l05520">AuraEffect::HandleAuraDummy()</a>, <a class="el" href="../../#l01047">debug_commandscript::HandleDebugEnterVehicleCommand()</a>, <a class="el" href="../../#l01929">spell_q11010_q11102_q11023_choose_loc::HandleDummy()</a>, <a class="el" href="../../#l02929">AuraEffect::HandleFeignDeath()</a>, <a class="el" href="../../#l00498">gobject_commandscript::HandleGameObjectNearCommand()</a>, <a class="el" href="../../#l00297">mmaps_commandscript::HandleMmapTestArea()</a>, <a class="el" href="../../#l00775">npc_commandscript::HandleNpcNearCommand()</a>, <a class="el" href="../../#l00495">spell_zulfarrak_unlocking::HandleOpenLock()</a>, <a class="el" href="../../#l00133">pooltools_commandscript::HandlePoolAdd()</a>, <a class="el" href="../../#l07373">AuraEffect::HandleRaidProcFromChargeWithValueAuraProc()</a>, <a class="el" href="../../#l02467">misc_commandscript::HandleRespawnAllCommand()</a>, <a class="el" href="../../#l01364">spell_vehicle_throw_passenger::HandleScript()</a>, <a class="el" href="../../#l00684">WorldSession::HandleTextEmoteOpcode()</a>, <a class="el" href="../../#l00331">npc_clintar_spirit::npc_clintar_spiritAI::IsSummonedBy()</a>, <a class="el" href="../../#l00519">npc_green_dragon_combat_trigger::npc_green_dragon_combat_triggerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00037">GridObjectLoader::LoadCreatures()</a>, <a class="el" href="../../#l01384">GameObject::LookupFishingHoleAround()</a>, <a class="el" href="../../#l00387">spell_love_is_in_the_air_romantic_picnic::OnPeriodic()</a>, <a class="el" href="../../#l02265">at_icc_start_frostwing_gauntlet::OnTrigger()</a>, <a class="el" href="../../#l02979">WorldObject::PlayRadiusMusic()</a>, <a class="el" href="../../#l02960">WorldObject::PlayRadiusSound()</a>, <a class="el" href="../../#l00646">boss_the_lich_king::boss_the_lich_kingAI::Reset()</a>, <a class="el" href="../../#l09375">Player::Say()</a>, <a class="el" href="../../#l00843">npc_pallid_horror::ScheduleTasks()</a>, <a class="el" href="../../#l02074">Spell::SearchTargets()</a>, <a class="el" href="../../#l13342">Unit::SelectNearbyNoTotemTarget()</a>, <a class="el" href="../../#l13307">Unit::SelectNearbyTarget()</a>, <a class="el" href="../../#l02521">WorldObject::SelectNearestPlayer()</a>, <a class="el" href="../../#l02314">Creature::SelectNearestTarget()</a>, <a class="el" href="../../#l02332">Creature::SelectNearestTargetInAttackDistance()</a>, <a class="el" href="../../#l00704">AchievementMgr::SendAchievementEarned()</a>, <a class="el" href="../../#l00171">CreatureTextMgr::SendChatPacket()</a>, <a class="el" href="../../#l13583">Unit::SetContestedPvP()</a>, <a class="el" href="../../#l00685">npc_simon_bunny::npc_simon_bunnyAI::StartGame()</a>, <a class="el" href="../../#l02183">Map::SummonCreature()</a>, <a class="el" href="../../#l17086">Unit::Talk()</a>, <a class="el" href="../../#l17138">Unit::Talk()</a>, <a class="el" href="../../#l09418">Player::TextEmote()</a>, <a class="el" href="../../#l00945">BfCapturePoint::Update()</a>, <a class="el" href="../../#l00317">OPvPCapturePoint::Update()</a>, <a class="el" href="../../#l00598">OPvPCapturePointNA::Update()</a>, <a class="el" href="../../#l00438">GameObject::Update()</a>, <a class="el" href="../../#l00063">TotemAI::UpdateAI()</a>, <a class="el" href="../../#l00787">npc_brewfest_super_brew_trigger::UpdateAI()</a>, <a class="el" href="../../#l00142">npc_belnistrasz::npc_belnistraszAI::UpdateAI()</a>, <a class="el" href="../../#l00617">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::UpdateAI()</a>, <a class="el" href="../../#l00889">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01144">npc_q24545_lich_king::npc_q24545_lich_kingAI::UpdateAI()</a>, <a class="el" href="../../#l00485">npc_overlord_drakuru_betrayal::UpdateAI()</a>, <a class="el" href="../../#l00168">npc_pet_dk_ebon_gargoyle::UpdateAI()</a>, <a class="el" href="../../#l00297">go_flames::go_flamesAI::UpdateAI()</a>, <a class="el" href="../../#l00344">go_heat::go_heatAI::UpdateAI()</a>, <a class="el" href="../../#l00789">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>, <a class="el" href="../../#l03008">WorldObject::UpdateObjectVisibility()</a>, <a class="el" href="../../#l15303">Unit::UpdateObjectVisibility()</a>, <a class="el" href="../../#l01593">Player::UpdateVisibilityForPlayer()</a>, <a class="el" href="../../#l00827">npc_crok_scourgebane::npc_crok_scourgebaneAI::WaypointStart()</a>, and <a class="el" href="../../#l09396">Player::Yell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02354">Creature::CallAssistance()</a>, <a class="el" href="../../#l02390">Creature::CallForHelp()</a>, <a class="el" href="../../#l00788">npc_hallows_end_soh::CastFires()</a>, <a class="el" href="../../#l00176">boss_ouro::CastGroundRupture()</a>, <a class="el" href="../../#l01436">spell_gen_cannibalize::CheckIfCorpseNear()</a>, <a class="el" href="../../#l00855">spell_hun_pet_carrion_feeder::CheckIfCorpseNear()</a>, <a class="el" href="../../#l01055">npc_q24545_lich_king::npc_q24545_lich_kingAI::CleanAll()</a>, <a class="el" href="../../#l00884">npc_hallows_end_soh::CompleteQuest()</a>, <a class="el" href="../../#l05372">SmartScript::DoFindClosestFriendlyInRange()</a>, <a class="el" href="../../#l00527">ScriptedAI::DoFindFriendlyCC()</a>, <a class="el" href="../../#l05352">SmartScript::DoFindFriendlyCC()</a>, <a class="el" href="../../#l00536">ScriptedAI::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l05362">SmartScript::DoFindFriendlyMissingBuff()</a>, <a class="el" href="../../#l01018">Creature::DoFleeToGetAssistance()</a>, <a class="el" href="../../#l05325">SmartScript::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l00517">ScriptedAI::DoSelectLowestHpFriendly()</a>, <a class="el" href="../../#l05338">SmartScript::DoSelectLowestHpPercentFriendly()</a>, <a class="el" href="../../#l04739">Spell::EffectForceDeselect()</a>, <a class="el" href="../../#l03990">Spell::EffectSanctuary()</a>, <a class="el" href="../../#l00221">ValithriaDespawner::Execute()</a>, <a class="el" href="../../#l16356">Unit::ExecuteDelayedUnitAINotifyEvent()</a>, <a class="el" href="../../#l16255">Unit::ExecuteDelayedUnitRelocationEvent()</a>, <a class="el" href="../../#l02809">UnitAura::FillTargetMap()</a>, <a class="el" href="../../#l02896">DynObjAura::FillTargetMap()</a>, <a class="el" href="../../#l01363">npc_captain_arnath::npc_captain_arnathAI::FindFriendlyCreature()</a>, <a class="el" href="../../#l02499">WorldObject::FindNearestCreature()</a>, <a class="el" href="../../#l02508">WorldObject::FindNearestGameObject()</a>, <a class="el" href="../../#l02517">WorldObject::FindNearestGameObjectOfType()</a>, <a class="el" href="../../#l02567">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l02560">WorldObject::GetCreatureListWithEntryInGrid()</a>, <a class="el" href="../../#l03061">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l02574">WorldObject::GetDeadCreatureListInGrid()</a>, <a class="el" href="../../#l02553">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l02546">WorldObject::GetGameObjectListWithEntryInGrid()</a>, <a class="el" href="../../#l00565">ChatHandler::GetNearbyGameObject()</a>, <a class="el" href="../../#l00545">ScriptedAI::GetPlayerAtMinimumRange()</a>, <a class="el" href="../../#l04111">SmartScript::GetWorldObjectsInDist()</a>, <a class="el" href="../../#l05520">AuraEffect::HandleAuraDummy()</a>, <a class="el" href="../../#l01047">debug_commandscript::HandleDebugEnterVehicleCommand()</a>, <a class="el" href="../../#l01929">spell_q11010_q11102_q11023_choose_loc::HandleDummy()</a>, <a class="el" href="../../#l02929">AuraEffect::HandleFeignDeath()</a>, <a class="el" href="../../#l00498">gobject_commandscript::HandleGameObjectNearCommand()</a>, <a class="el" href="../../#l00297">mmaps_commandscript::HandleMmapTestArea()</a>, <a class="el" href="../../#l00775">npc_commandscript::HandleNpcNearCommand()</a>, <a class="el" href="../../#l00495">spell_zulfarrak_unlocking::HandleOpenLock()</a>, <a class="el" href="../../#l00133">pooltools_commandscript::HandlePoolAdd()</a>, <a class="el" href="../../#l07373">AuraEffect::HandleRaidProcFromChargeWithValueAuraProc()</a>, <a class="el" href="../../#l02474">misc_commandscript::HandleRespawnAllCommand()</a>, <a class="el" href="../../#l01364">spell_vehicle_throw_passenger::HandleScript()</a>, <a class="el" href="../../#l00684">WorldSession::HandleTextEmoteOpcode()</a>, <a class="el" href="../../#l00331">npc_clintar_spirit::npc_clintar_spiritAI::IsSummonedBy()</a>, <a class="el" href="../../#l00519">npc_green_dragon_combat_trigger::npc_green_dragon_combat_triggerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00037">GridObjectLoader::LoadCreatures()</a>, <a class="el" href="../../#l01384">GameObject::LookupFishingHoleAround()</a>, <a class="el" href="../../#l00387">spell_love_is_in_the_air_romantic_picnic::OnPeriodic()</a>, <a class="el" href="../../#l02265">at_icc_start_frostwing_gauntlet::OnTrigger()</a>, <a class="el" href="../../#l02984">WorldObject::PlayRadiusMusic()</a>, <a class="el" href="../../#l02965">WorldObject::PlayRadiusSound()</a>, <a class="el" href="../../#l00646">boss_the_lich_king::boss_the_lich_kingAI::Reset()</a>, <a class="el" href="../../#l09368">Player::Say()</a>, <a class="el" href="../../#l00843">npc_pallid_horror::ScheduleTasks()</a>, <a class="el" href="../../#l02074">Spell::SearchTargets()</a>, <a class="el" href="../../#l13344">Unit::SelectNearbyNoTotemTarget()</a>, <a class="el" href="../../#l13309">Unit::SelectNearbyTarget()</a>, <a class="el" href="../../#l02526">WorldObject::SelectNearestPlayer()</a>, <a class="el" href="../../#l02309">Creature::SelectNearestTarget()</a>, <a class="el" href="../../#l02327">Creature::SelectNearestTargetInAttackDistance()</a>, <a class="el" href="../../#l00704">AchievementMgr::SendAchievementEarned()</a>, <a class="el" href="../../#l00171">CreatureTextMgr::SendChatPacket()</a>, <a class="el" href="../../#l13585">Unit::SetContestedPvP()</a>, <a class="el" href="../../#l00685">npc_simon_bunny::npc_simon_bunnyAI::StartGame()</a>, <a class="el" href="../../#l02188">Map::SummonCreature()</a>, <a class="el" href="../../#l17094">Unit::Talk()</a>, <a class="el" href="../../#l17146">Unit::Talk()</a>, <a class="el" href="../../#l09411">Player::TextEmote()</a>, <a class="el" href="../../#l00945">BfCapturePoint::Update()</a>, <a class="el" href="../../#l00317">OPvPCapturePoint::Update()</a>, <a class="el" href="../../#l00598">OPvPCapturePointNA::Update()</a>, <a class="el" href="../../#l00438">GameObject::Update()</a>, <a class="el" href="../../#l00063">TotemAI::UpdateAI()</a>, <a class="el" href="../../#l00787">npc_brewfest_super_brew_trigger::UpdateAI()</a>, <a class="el" href="../../#l00142">npc_belnistrasz::npc_belnistraszAI::UpdateAI()</a>, <a class="el" href="../../#l00617">npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI::UpdateAI()</a>, <a class="el" href="../../#l00889">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01144">npc_q24545_lich_king::npc_q24545_lich_kingAI::UpdateAI()</a>, <a class="el" href="../../#l00485">npc_overlord_drakuru_betrayal::UpdateAI()</a>, <a class="el" href="../../#l00168">npc_pet_dk_ebon_gargoyle::UpdateAI()</a>, <a class="el" href="../../#l00297">go_flames::go_flamesAI::UpdateAI()</a>, <a class="el" href="../../#l00344">go_heat::go_heatAI::UpdateAI()</a>, <a class="el" href="../../#l00789">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>, <a class="el" href="../../#l03013">WorldObject::UpdateObjectVisibility()</a>, <a class="el" href="../../#l15305">Unit::UpdateObjectVisibility()</a>, <a class="el" href="../../#l01597">Player::UpdateVisibilityForPlayer()</a>, <a class="el" href="../../#l00165">VisitObjects()</a>, <a class="el" href="../../#l00827">npc_crok_scourgebane::npc_crok_scourgebaneAI::WaypointStart()</a>, and <a class="el" href="../../#l09389">Player::Yell()</a>.</p>
 
 </div>
 </div>
@@ -1350,7 +1412,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/df1/structCell.html">Cell</a></li>
-    <li class="footer">Generated on Fri Mar 20 2026 06:50:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Mar 21 2026 06:38:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

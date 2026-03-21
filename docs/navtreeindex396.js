@@ -1,5 +1,13 @@
 var NAVTREEINDEX396 =
 {
+"df/d30/classAccountScript.html#a6b5b94c1ac64bf8d926928d8401cd533":[6,0,29,1],
+"df/d30/classAccountScript.html#aae3401d74bdc9e8328a5f084462ae740":[6,0,29,5],
+"df/d30/classAccountScript.html#adf20bd20cdc97b91db664dca95f82670":[6,0,29,4],
+"df/d30/classAccountScript.html#aefa30b298f52d7c1a44e7648d088c3f0":[6,0,29,9],
+"df/d30/classAccountScript.html#afbebc7186ba77b0fefe0a6d32a774601":[6,0,29,2],
+"df/d30/classThreatReference.html":[6,0,4489],
+"df/d30/classThreatReference.html#a031c33fcc3a29175602f7614b42fb6c3":[6,0,4489,6],
+"df/d30/classThreatReference.html#a1033d7348fddc24bfd56a9b2437555d1":[6,0,4489,26],
 "df/d30/classThreatReference.html#a117569165c1d157d2a55813fdd539bad":[6,0,4489,36],
 "df/d30/classThreatReference.html#a1b7f5a5b937f845cdce28c494709b33b":[6,0,4489,7],
 "df/d30/classThreatReference.html#a225a1a78da5da2d285554f067c63bc18":[6,0,4489,13],
@@ -235,19 +243,11 @@ var NAVTREEINDEX396 =
 "df/d3d/classBfCapturePoint.html#afd5cbd6dd52834c59e119389b7e8a416":[6,0,357,24],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[6,0,12,10,14],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html":[5,0,34,10,14],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[6,0,12,10,14,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,34,10,14,1],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[6,0,12,10,14,3],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[6,0,12,10,14,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[5,0,34,10,14,3],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[6,0,12,10,14,3],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[6,0,12,10,14,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,34,10,14,0],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[6,0,12,10,14,2],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,34,10,14,2],
-"df/d3d/classspell__pal__item__t6__trinket.html":[6,0,3734],
-"df/d3d/classspell__pal__item__t6__trinket.html#a1ea48d77c2bb5b26c12384e4e11411ff":[6,0,3734,0],
-"df/d3d/classspell__pal__item__t6__trinket.html#a560ade778e046213f60f48364ea3800c":[6,0,3734,5],
-"df/d3d/classspell__pal__item__t6__trinket.html#a65e88419d625dc6e8033b573ce7f18ee":[6,0,3734,4],
-"df/d3d/classspell__pal__item__t6__trinket.html#a9585ecde57ccfa26f59174732e3132fc":[6,0,3734,2],
-"df/d3d/classspell__pal__item__t6__trinket.html#afe1282b6df7593066469f3ddf7ff8a33":[6,0,3734,1],
-"df/d3d/classspell__pal__item__t6__trinket.html#aff856108cd0b92c3a4eaeb4c354ee56f":[6,0,3734,3]
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,34,10,14,2]
 };

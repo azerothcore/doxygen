@@ -68,7 +68,8 @@ var eye__of__eternity_8h =
       [ "NPC_ARCANE_OVERLOAD", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5ca87d9c957ef45c0e90fcbef07c94c4c2e", null ],
       [ "NPC_SURGE_OF_POWER", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5caf6aa5bbf6159c712e1b25863dfe45d9b", null ],
       [ "NPC_STATIC_FIELD", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5cac87fa82670db238f21926da3e15031de", null ],
-      [ "NPC_ALEXSTRASZA", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5cab3d24eea73922a81c6c4f4a7a0071030", null ]
+      [ "NPC_ALEXSTRASZA", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5cab3d24eea73922a81c6c4f4a7a0071030", null ],
+      [ "NPC_WYRMREST_SKYTALON", "db/d95/eye__of__eternity_8h.html#a6986ec7b2d3274669934af9795f26d5caf7b8a3b895235f57b62709d3ce2215a4", null ]
     ] ],
     [ "Objects", "db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fd", [
       [ "GO_NEXUS_PLATFORM", "db/d95/eye__of__eternity_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdaf7088dd52d3a6d96f1794432905c7d77", null ],

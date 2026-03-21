@@ -1,5 +1,8 @@
 var NAVTREEINDEX286 =
 {
+"db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31ae6c3c868c2884cf43209f57f34b83a3f":[7,0,0,0,1,3,4,8,4,11,0],
+"db/d4e/boss__ossirian_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,4,8,4,11,1],
+"db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9":[7,0,0,0,1,3,4,8,4,7],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a27af9be1537cb49791e9bf62bb2e4001":[7,0,0,0,1,3,4,8,4,7,9],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a2a20f56307679be4d4f01a0d3d93cc7e":[7,0,0,0,1,3,4,8,4,7,6],
 "db/d4e/boss__ossirian_8cpp.html#ab1705f101c2e8ded19438fbb5197b3e9a52f8736ce3878b4b6aec10dbdc69e73e":[7,0,0,0,1,3,4,8,4,7,5],
@@ -101,12 +104,12 @@ var NAVTREEINDEX286 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[6,0,3182],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[6,0,3182,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[6,0,3182,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX286 =
 "db/d5a/classnpc__sinkhole__kill__credit.html#a4d734432f132bea2c4525d049fbcfa67":[6,0,2144,2],
 "db/d5a/classnpc__sinkhole__kill__credit.html#a627d01aaaa3408986f2b4d171624e680":[6,0,2144,1],
 "db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html":[6,0,2420,0],
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca":[6,0,2420,0,0],
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a5efaf8479d7afb8c24e7f3389ad9c8cf":[6,0,2420,0,1],
-"db/d5c/BattlegroundAV_8cpp.html":[7,0,0,0,1,2,8,1,2],
-"db/d5c/classWarden.html":[6,0,4573]
+"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca":[6,0,2420,0,0]
 };

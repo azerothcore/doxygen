@@ -1,17 +1,20 @@
 var NAVTREEINDEX291 =
 {
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[5,0,1,85,2],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,85,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[6,0,0,73,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,73,4],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,73,0],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[5,0,1,85,0],
 "db/d7e/classspell__gurtogg__bloodboil.html":[6,0,3156],
 "db/d7e/classspell__gurtogg__bloodboil.html#abd3fafc2120b7069790dd9822cd62adc":[6,0,3156,0],
 "db/d7e/classspell__gurtogg__bloodboil.html#aebc0441481a2c458fc904175df931a9e":[6,0,3156,1],
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3156,2],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1182],
 "db/d7f/classgo__manticron__cube.html#a87d9571aea57f16d38067ebd9e22200d":[6,0,1182,0],
 "db/d7f/classgo__manticron__cube.html#accab4a61f00f5e465fb795b4cbe672bf":[6,0,1182,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX291 =
 "db/d88/structTimeTracker.html":[6,0,4495],
 "db/d88/structTimeTracker.html#a2009e98647f04c20cb3064e1e9e9a611":[6,0,4495,4],
 "db/d88/structTimeTracker.html#a2b9f585de223c1051136b10b03a27684":[6,0,4495,0],
-"db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572":[6,0,4495,3],
-"db/d88/structTimeTracker.html#a9a13002766153882150b1985a84013ad":[6,0,4495,2],
-"db/d88/structTimeTracker.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3":[6,0,4495,1],
-"db/d88/structTimeTracker.html#adf2e301fdefb32008f14ced5f1c37f33":[6,0,4495,5]
+"db/d88/structTimeTracker.html#a798cf19378c4de243fac01d7d51a3572":[6,0,4495,3]
 };

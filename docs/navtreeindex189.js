@@ -1,5 +1,8 @@
 var NAVTREEINDEX189 =
 {
+"d6/dfe/classspell__hun__misdirection.html#a5345da73b9c4c9fe4ae5d272e3574955":[6,0,3233,1],
+"d6/dfe/classspell__hun__misdirection.html#a6fc9a3945a736ba4a62ad754090d8525":[6,0,3233,4],
+"d6/dff/classspell__igb__rocket__pack__aura.html":[6,0,3282],
 "d6/dff/classspell__igb__rocket__pack__aura.html#a1b140274e283dd95e28fcb773e30f965":[6,0,3282,2],
 "d6/dff/classspell__igb__rocket__pack__aura.html#a5ff571c616b69bb50c736622feb9ed96":[6,0,3282,0],
 "d6/dff/classspell__igb__rocket__pack__aura.html#a624887bb5e6d8b72d6c0591661d6ba38":[6,0,3282,1],
@@ -18,14 +21,14 @@ var NAVTREEINDEX189 =
 "d7/d00/structboss__yoggsaron__crusher__tentacle.html#ae22a12401dc98534da1cb771468a58ce":[6,0,807,4],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html":[5,0,34,8,1],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html":[6,0,12,8,1],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[6,0,12,8,1,2],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[5,0,34,8,1,2],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a683a9bd141b2f99db431de2ae7d213e3":[6,0,12,8,1,2],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[6,0,12,8,1,3],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#a9d4da587061833262acff66674d3ac41":[5,0,34,8,1,3],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[6,0,12,8,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[5,0,34,8,1,0],
-"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[6,0,12,8,1,1],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#aa51f40a4172ac41548ec6199bc84375d":[6,0,12,8,1,0],
 "d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[5,0,34,8,1,1],
+"d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html#ade6a15026e9c461b38301edf79f367be":[6,0,12,8,1,1],
 "d7/d01/classnpc__shenthul.html":[6,0,2138],
 "d7/d01/classnpc__shenthul.html#a1683f8c89add6270277c59951c74027e":[6,0,2138,2],
 "d7/d01/classnpc__shenthul.html#a3a63fec338dca74eb7d071dfcc9c95b5":[6,0,2138,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX189 =
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ab71db011b1cc1f3a2e85cd6b6f115242":[6,0,4111,1],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#ad8a16d599a11fa4409d132f66e37e04e":[6,0,4111,2],
 "d7/d0c/classspell__sladran__grip__of__sladran__aura.html#afe821a7eb4eaf959d803c7c846f3bdf0":[6,0,4111,3],
-"d7/d0c/classspell__warl__haunt.html":[6,0,4271],
-"d7/d0c/classspell__warl__haunt.html#a177bcf10d6b8fa586ff0cac3834367f9":[6,0,4271,0],
-"d7/d0c/classspell__warl__haunt.html#a46fe3d7ebd663d1cb27aa473a56e81eb":[6,0,4271,2],
-"d7/d0c/classspell__warl__haunt.html#ac16ef2ff92440deab6c69f4824bdd619":[6,0,4271,1]
+"d7/d0c/classspell__warl__haunt.html":[6,0,4271]
 };

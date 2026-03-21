@@ -1,5 +1,13 @@
 var NAVTREEINDEX400 =
 {
+"df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[6,0,335,3],
+"df/d6e/BattlegroundBE_8cpp.html":[7,0,0,0,1,2,8,1,4],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html":[6,0,518,0],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a18ae481969ed0885122058b0ebf98cc8":[6,0,518,0,0],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1e4526d104670d4899ef6dd5760c2437":[6,0,518,0,14],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1efec7ad0793812f83e808b961059875":[6,0,518,0,1],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a2223b2c287b2b21a7377ed49b2a65628":[6,0,518,0,9],
+"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[6,0,518,0,8],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a40e40340002d05d97aa944c14af4030c":[6,0,518,0,2],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a4ed9dfac7e4d22fcb1f8396ca1318073":[6,0,518,0,16],
 "df/d6e/structboss__gothik_1_1boss__gothikAI.html#a73b20994a1949731b83a3a28b70ad9d1":[6,0,518,0,3],
@@ -241,13 +249,5 @@ var NAVTREEINDEX400 =
 "df/d79/Map_8h.html#a48df2f2b831ed13fcc0eef2e9d017b4d":[7,0,0,0,1,2,26,4,13],
 "df/d79/Map_8h.html#a6ca566ddeb275c5d65ead48048181bff":[7,0,0,0,1,2,26,4,11],
 "df/d79/Map_8h.html#a85895841def625e565ac3122a1267447":[7,0,0,0,1,2,26,4,16],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[7,0,0,0,1,2,26,4,16,3],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d":[7,0,0,0,1,2,26,4,16,1],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c":[7,0,0,0,1,2,26,4,16,2],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab":[7,0,0,0,1,2,26,4,16,4],
-"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d":[7,0,0,0,1,2,26,4,16,0],
-"df/d79/Map_8h.html#a925afa52f886092b35ca06011fbe870d":[7,0,0,0,1,2,26,4,17],
-"df/d79/Map_8h.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2":[7,0,0,0,1,2,26,4,17,0],
-"df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6":[7,0,0,0,1,2,26,4,18],
-"df/d79/Map_8h.html#abc95f0a7147fb553d023f994f003a1c6a04ff8bf4653f852773d9bdf2838efb07":[7,0,0,0,1,2,26,4,18,1]
+"df/d79/Map_8h.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170":[7,0,0,0,1,2,26,4,16,3]
 };

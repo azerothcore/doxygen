@@ -1,5 +1,8 @@
 var NAVTREEINDEX252 =
 {
+"d9/dec/structboss__yoggsaron__llane.html#a0df3a85717ab26ad1ac889d6fe4d8007":[6,0,815,2],
+"d9/dec/structboss__yoggsaron__llane.html#a3043382e2727bc78a74acaec28697045":[6,0,815,5],
+"d9/dec/structboss__yoggsaron__llane.html#a42e3d189cff0da5995401e4bc8dfffdd":[6,0,815,0],
 "d9/dec/structboss__yoggsaron__llane.html#a58ec957cd59b944439fe514e728e2902":[6,0,815,4],
 "d9/dec/structboss__yoggsaron__llane.html#a91a71f85bab9e4d1234964ef534e51c2":[6,0,815,7],
 "d9/dec/structboss__yoggsaron__llane.html#ab7e1b1ed82f311b12f28f1622e6ad378":[6,0,815,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX252 =
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#aed9ab9542badb0296ca0660c39541cb8":[6,0,1349,0,2],
 "d9/df6/classat__thaddius__entrance.html":[6,0,251],
 "d9/df6/classat__thaddius__entrance.html#acc869cade2b48ceb782d78aa7df6f246":[6,0,251,1],
-"d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,251,0],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2861],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2861,2],
-"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a3a5fa4814a7724db0ba7be5c5158798b":[6,0,2861,0]
+"d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,251,0]
 };

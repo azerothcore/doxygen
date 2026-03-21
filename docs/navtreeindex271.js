@@ -1,5 +1,8 @@
 var NAVTREEINDEX271 =
 {
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,4155,3],
+"da/da0/SpellProcTestData_8h.html":[7,0,0,0,2,2,0,8,24],
+"da/da0/SpellProcTestData_8h.html#a39025d5b336e745566f739e9d1f68e78":[7,0,0,0,2,2,0,8,24,1],
 "da/da0/SpellProcTestData_8h.html#a8a30ea152f1ec07a3e93549376c04b74":[7,0,0,0,2,2,0,8,24,3],
 "da/da0/SpellProcTestData_8h.html#a9c10a33f80d5dad16ac98bf115774ded":[7,0,0,0,2,2,0,8,24,2],
 "da/da0/SpellProcTestData_8h.html#ac781b3845801dede698012d7118061a4":[7,0,0,0,2,2,0,8,24,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX271 =
 "da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a435b22ca3c7e573d4e3c70e2497063e7":[6,0,797,0,7],
 "da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a519c1222ef186067dcb9a98bb84ea031":[6,0,797,0,6],
 "da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a5557f799c862759c8fd94a98cadee7d5":[6,0,797,0,1],
-"da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a6e66dec2e1bc198d9b3e855366ca8b02":[6,0,797,0,2],
-"da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a8a5796089d42dad89c9cec5ea4d38321":[6,0,797,0,10],
-"da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a9eda85f10a814efa32f7b224e1772b89":[6,0,797,0,11],
-"da/da8/structboss__xevozz_1_1boss__xevozzAI.html#aa61271e4a9d8e13ac875f6efd550aa4b":[6,0,797,0,9]
+"da/da8/structboss__xevozz_1_1boss__xevozzAI.html#a6e66dec2e1bc198d9b3e855366ca8b02":[6,0,797,0,2]
 };

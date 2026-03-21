@@ -1,5 +1,14 @@
 var NAVTREEINDEX416 =
 {
+"df/df1/structCell.html#ad2bffe1e67368857b3c82a07a89c3a55":[6,0,858,4],
+"df/df1/structCell.html#ad507586547e54f178924f392c0066c16":[6,0,858,21],
+"df/df1/structCell.html#ad5e39934e854314a3f1c0cfcd129e123":[6,0,858,23],
+"df/df1/structCell.html#aed958a44aeeb354b1eca6d655c47a23f":[6,0,858,26],
+"df/df2/classspell__dk__blade__barrier.html":[6,0,2791],
+"df/df2/classspell__dk__blade__barrier.html#a2e572b677ad3b754316066f3e53edbbb":[6,0,2791,1],
+"df/df2/classspell__dk__blade__barrier.html#a4e1d93c20d0926d3ac93c23d9c139df6":[6,0,2791,0],
+"df/df2/classspell__dk__blade__barrier.html#acecdc9e5079c49b312521a65682b602a":[6,0,2791,2],
+"df/df2/classspell__kalecgos__spectral__blast__dummy.html":[6,0,3507],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a1efa036eac25d789850849dc1b209379":[6,0,3507,2],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a33534d9fd70af99bbde1e4a908d22084":[6,0,3507,4],
 "df/df2/classspell__kalecgos__spectral__blast__dummy.html#a3aac5e364d04a4a086aaa911051417d5":[6,0,3507,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX416 =
 "dir_0a0414616ece51a8570c4e36029d4e29.html":[7,0,0,0,1,3,10],
 "dir_0a6176fbf4a4e2963f993c806916a71c.html":[7,0,0,0,1,1,1],
 "dir_0a95014d09215914835c277ca75ca7c3.html":[7,0,0,0,1,3,4,1,3],
-"dir_0b75308b148efd21a65d1041b5f64421.html":[7,0,0,0,1,3,5,0,1],
-"dir_0c622659d06034757145c6bf3f556631.html":[7,0,0,0,3,1,0],
-"dir_10297b48ba7ced035a247ae7b230d081.html":[7,0,0,0,1,2,24],
-"dir_1030cafe24ff22cf50f89adc924924e3.html":[7,0,0,0,1,2,16,0],
-"dir_10467085a1f56260d3e93e65d32ed8de.html":[7,0,0,0,1,3,5,9,2],
-"dir_104b7121e64315d1b2361279804102a4.html":[7,0,0,0,1,4,3],
-"dir_1070012e9e40376f8468ff0aa5b77c71.html":[7,0,0,0,0],
-"dir_10cc9e05dd2639963b68719a523d1ea8.html":[7,0,0,0,1,2,31,2],
-"dir_10e0fdc55825859b4f92970a0e407994.html":[7,0,0,0,1,2,9],
-"dir_14e88a38456ce636c6ee65eed9c3a2a1.html":[7,0,0,0,1,3,5,10,0]
+"dir_0b75308b148efd21a65d1041b5f64421.html":[7,0,0,0,1,3,5,0,1]
 };

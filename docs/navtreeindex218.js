@@ -1,5 +1,8 @@
 var NAVTREEINDEX218 =
 {
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0095c50c29091e57b4d3841ff4750f06":[7,0,0,0,1,1,0,0,3,1,29],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba04893ad49a10d1f620485f6f7e51c5f5":[7,0,0,0,1,1,0,0,3,1,20],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba061bb35856031b8a67e661ed9758ee12":[7,0,0,0,1,1,0,0,3,1,9],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0ac28ba0659614927e451408b01ddedb":[7,0,0,0,1,1,0,0,3,1,85],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0d58bd022a55ac9c5a9be4c1443b2bf3":[7,0,0,0,1,1,0,0,3,1,39],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba0e2f944c309ca24a8702e71aa7643a45":[7,0,0,0,1,1,0,0,3,1,23],
@@ -246,8 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d41/M2Stores_8cpp.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9":[7,0,0,0,1,2,14,2,4],
 "d8/d41/M2Stores_8cpp.html#ad7c17022a3ffed42c9d4995f5f6bb7ac":[7,0,0,0,1,2,14,2,3],
 "d8/d41/M2Stores_8cpp.html#af4a9ba9da1a2f4075cc36b95cce62f6f":[7,0,0,0,1,2,14,2,1],
-"d8/d41/classnpc__great__bear__spirit.html":[6,0,1838],
-"d8/d41/classnpc__great__bear__spirit.html#a141470a3623aa1152d3505661f1532c8":[6,0,1838,0],
-"d8/d41/classnpc__great__bear__spirit.html#a2307b8d56fc117d918adc9814fa86f8f":[6,0,1838,1],
-"d8/d41/classnpc__great__bear__spirit.html#aae026f4cf8b0de61d36a841dcfdbd92e":[6,0,1838,2]
+"d8/d41/classnpc__great__bear__spirit.html":[6,0,1838]
 };

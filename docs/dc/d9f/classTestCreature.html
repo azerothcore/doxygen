@@ -433,8 +433,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a8c6ee69d05582bd846a9850297313b29 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a58f65a0093d74afb248ac9fb5b8ce755 inherit pub_methods_classCreature" id="r_a58f65a0093d74afb248ac9fb5b8ce755"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a58f65a0093d74afb248ac9fb5b8ce755">reachWithSpellCure</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> *victim)</td></tr>
 <tr class="separator:a58f65a0093d74afb248ac9fb5b8ce755 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44d11d16e2cbdb8316790cc8550df75c inherit pub_methods_classCreature" id="r_a44d11d16e2cbdb8316790cc8550df75c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a44d11d16e2cbdb8316790cc8550df75c">CanStartAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *u) const</td></tr>
-<tr class="separator:a44d11d16e2cbdb8316790cc8550df75c inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fdd2916fd441db2f0f6c25eda902a35 inherit pub_methods_classCreature" id="r_a7fdd2916fd441db2f0f6c25eda902a35"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a7fdd2916fd441db2f0f6c25eda902a35">CanStartAttack</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *u, bool force=false) const</td></tr>
+<tr class="separator:a7fdd2916fd441db2f0f6c25eda902a35 inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4c4b7c330d622d549e968d848c2c4c5f inherit pub_methods_classCreature" id="r_a4c4b7c330d622d549e968d848c2c4c5f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a4c4b7c330d622d549e968d848c2c4c5f">GetAggroRange</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *target) const</td></tr>
 <tr class="separator:a4c4b7c330d622d549e968d848c2c4c5f inherit pub_methods_classCreature"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26eefd4b39d582228f970322c8c44ac5 inherit pub_methods_classCreature" id="r_a26eefd4b39d582228f970322c8c44ac5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/classCreature.html#a26eefd4b39d582228f970322c8c44ac5">GetAttackDistance</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *player) const</td></tr>
@@ -2390,6 +2390,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0ecfe05a8965ef2d2764685fff1cc961 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a347a94213bd7c981e5e4cee5b68b78c1 inherit pub_methods_classWorldObject" id="r_a347a94213bd7c981e5e4cee5b68b78c1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a347a94213bd7c981e5e4cee5b68b78c1">IsWithinDist2d</a> (const <a class="el" href="../../d0/df4/structPosition.html">Position</a> *pos, float dist) const</td></tr>
 <tr class="separator:a347a94213bd7c981e5e4cee5b68b78c1 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a599fc0e33f4b0a9ed2a47853164b45 inherit pub_methods_classWorldObject" id="r_a1a599fc0e33f4b0a9ed2a47853164b45"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#a1a599fc0e33f4b0a9ed2a47853164b45">IsWithinSightRange</a> (<a class="el" href="../../d0/df4/structPosition.html">Position</a> const &amp;pos, float dist) const</td></tr>
+<tr class="separator:a1a599fc0e33f4b0a9ed2a47853164b45 inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4ac4fb3c927029f132b38a0e875788d inherit pub_methods_classWorldObject" id="r_ae4ac4fb3c927029f132b38a0e875788d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#ae4ac4fb3c927029f132b38a0e875788d">IsWithinDist</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</td></tr>
 <tr class="separator:ae4ac4fb3c927029f132b38a0e875788d inherit pub_methods_classWorldObject"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaeea293a6966a717f17113370d364168 inherit pub_methods_classWorldObject" id="r_aaeea293a6966a717f17113370d364168"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a> (<a class="el" href="../../d4/dd0/classWorldObject.html">WorldObject</a> const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</td></tr>
@@ -3791,9 +3793,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  119</span>    <a class="code hl_function" href="../../df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f">SetUInt32Value</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4fe913762a045b46b4ddbaa227f10bf4">UNIT_FIELD_FACTIONTEMPLATE</a>, faction);</div>
 <div class="line"><span class="lineno">  120</span>}</div>
 <div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881a4fe913762a045b46b4ddbaa227f10bf4"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4fe913762a045b46b4ddbaa227f10bf4">UNIT_FIELD_FACTIONTEMPLATE</a></div><div class="ttdeci">@ UNIT_FIELD_FACTIONTEMPLATE</div><div class="ttdef"><b>Definition</b> UpdateFields.h:115</div></div>
-<div class="ttc" id="aclassUnit_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition</b> Unit.cpp:17277</div></div>
+<div class="ttc" id="aclassUnit_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition</b> Unit.cpp:17285</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l17277">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00115">UNIT_FIELD_FACTIONTEMPLATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l17285">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00115">UNIT_FIELD_FACTIONTEMPLATE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00064">SetFriendlyFaction()</a>, and <a class="el" href="../../#l00063">SetHostileFaction()</a>.</p>
 
@@ -3908,9 +3910,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  112</span>    <a class="code hl_function" href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  113</span>}</div>
 <div class="ttc" id="aboss__skadi_8cpp_html_a4432ad5c680b2372adf2f56998516c6d"><div class="ttname"><a href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a></div><div class="ttdeci">phase</div><div class="ttdef"><b>Definition</b> boss_skadi.cpp:99</div></div>
-<div class="ttc" id="aclassUnit_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition</b> Unit.cpp:15234</div></div>
+<div class="ttc" id="aclassUnit_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition</b> Unit.cpp:15236</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l15234">Unit::SetPhaseMask()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l15236">Unit::SetPhaseMask()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00122">SetupForCombatTest()</a>.</p>
 
@@ -3938,9 +3940,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   94</span>    <a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a7ef77a055df228f1e6580eb52d66cba8">WorldObject::SetMap</a>(map);</div>
 <div class="line"><span class="lineno">   95</span>}</div>
 <div class="ttc" id="aclassTestCreature_html_aa7ed608845789326b9465a820360f4a4"><div class="ttname"><a href="../../dc/d9f/classTestCreature.html#aa7ed608845789326b9465a820360f4a4">TestCreature::_testMap</a></div><div class="ttdeci">Map * _testMap</div><div class="ttdef"><b>Definition</b> TestCreature.h:82</div></div>
-<div class="ttc" id="aclassWorldObject_html_a7ef77a055df228f1e6580eb52d66cba8"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7ef77a055df228f1e6580eb52d66cba8">WorldObject::SetMap</a></div><div class="ttdeci">virtual void SetMap(Map *map)</div><div class="ttdef"><b>Definition</b> Object.cpp:2133</div></div>
+<div class="ttc" id="aclassWorldObject_html_a7ef77a055df228f1e6580eb52d66cba8"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a7ef77a055df228f1e6580eb52d66cba8">WorldObject::SetMap</a></div><div class="ttdeci">virtual void SetMap(Map *map)</div><div class="ttdef"><b>Definition</b> Object.cpp:2138</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">_testMap</a>, and <a class="el" href="../../#l02133">WorldObject::SetMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00082">_testMap</a>, and <a class="el" href="../../#l02138">WorldObject::SetMap()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00122">SetupForCombatTest()</a>.</p>
 
@@ -4184,7 +4186,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d9f/classTestCreature.html">TestCreature</a></li>
-    <li class="footer">Generated on Fri Mar 20 2026 06:50:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Mar 21 2026 06:39:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

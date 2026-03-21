@@ -1,5 +1,8 @@
 var NAVTREEINDEX129 =
 {
+"d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1":[7,0,0,0,1,3,7,5,2,2,18],
+"d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1a30f19cb5d583e9949e1fc1c6d632863e":[7,0,0,0,1,3,7,5,2,2,18,0],
+"d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1a470bfc1ce3b60ee87326a7508a84cdbd":[7,0,0,0,1,3,7,5,2,2,18,1],
 "d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1a564c950f5242c74281770e9d9c9609bd":[7,0,0,0,1,3,7,5,2,2,18,4],
 "d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1a74be7706686b5f59990d2cc5426555d3":[7,0,0,0,1,3,7,5,2,2,18,2],
 "d4/d67/boss__kaelthas_8cpp.html#a0fa9f55ab34cdd903214f58207df4cf1aa4b231cb6643e0eadb2d8f1948504caf":[7,0,0,0,1,3,7,5,2,2,18,5],
@@ -136,10 +139,10 @@ var NAVTREEINDEX129 =
 "d4/d67/classMovement_1_1counter.html":[6,0,7,1],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[5,0,22,1,3],
 "d4/d67/classMovement_1_1counter.html#a0369662be009b781174021a2eb6b3202":[6,0,7,1,3],
-"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[5,0,22,1,4],
-"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
+"d4/d67/classMovement_1_1counter.html#a06d5bc4ea248173316ed4d1ce96d6281":[6,0,7,1,4],
 "d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[5,0,22,1,0],
+"d4/d67/classMovement_1_1counter.html#a0efb94229f4a9370dc5b256ba623385b":[6,0,7,1,0],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[6,0,7,1,5],
 "d4/d67/classMovement_1_1counter.html#a297f1ba5e072e4c90b62c7242ee1b01c":[5,0,22,1,5],
 "d4/d67/classMovement_1_1counter.html#a463e0ba077c8398a6125e715afcd8860":[5,0,22,1,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX129 =
 "d4/d69/structItemTemplate.html#af8e238c0d7bc950b984de7ed656e5bae":[6,0,1419,47],
 "d4/d69/structItemTemplate.html#af901eb6a60466962d9c7847f4d634d79":[6,0,1419,26],
 "d4/d69/structItemTemplate.html#af980de2019b35cfb0abe40f2df8ac3de":[6,0,1419,80],
-"d4/d69/structItemTemplate.html#afd010d3d47ce9eece832f3e5690c3609":[6,0,1419,5],
-"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html":[6,0,2124,0],
-"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a03f0f6d015065c5afcf025dc44dc6aa8":[6,0,2124,0,1],
-"d4/d69/structnpc__scholomance__occultist_1_1npc__scholomance__occultistAI.html#a195fe4d681580c17086a5390fd4f82ba":[6,0,2124,0,6]
+"d4/d69/structItemTemplate.html#afd010d3d47ce9eece832f3e5690c3609":[6,0,1419,5]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX207 =
 {
+"d7/daf/classboss__noth.html":[6,0,654],
+"d7/daf/classboss__noth.html#a2760f1ec46a21f22de0e57527cbe9768":[6,0,654,1],
+"d7/daf/classboss__noth.html#a534f30792c051ab44c6c07c9347893e5":[6,0,654,2],
+"d7/daf/classspell__hun__disengage.html":[6,0,3219],
 "d7/daf/classspell__hun__disengage.html#a2ca1fd7353e69d1028b8a9b2882d7931":[6,0,3219,2],
 "d7/daf/classspell__hun__disengage.html#a849de7a9bc8d22ca1556e4e798807eaa":[6,0,3219,0],
 "d7/daf/classspell__hun__disengage.html#aadbfe7c69dac7cbc76aee2bfb790b612":[6,0,3219,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX207 =
 "d7/db0/classMap.html#ac5220af343d506037b56fbc5861ae027":[6,0,1499,109],
 "d7/db0/classMap.html#ac6cdaebabf597df48be6fe48d6172480":[6,0,1499,156],
 "d7/db0/classMap.html#ac6e125affc167d59afd4af38f4791b01":[6,0,1499,101],
-"d7/db0/classMap.html#ac6fa8894329c511b932385a069204b0f":[6,0,1499,104],
-"d7/db0/classMap.html#aca5af60e4ebade05b3673dd341eafd4f":[6,0,1499,210],
-"d7/db0/classMap.html#acba733ebb1500dc5e86225730915e48f":[6,0,1499,66],
-"d7/db0/classMap.html#acc6e018eedcd4943734d153dc4a8cb89":[6,0,1499,165],
-"d7/db0/classMap.html#acc7cf060c710e279cdfef16a744ed328":[6,0,1499,57]
+"d7/db0/classMap.html#ac6fa8894329c511b932385a069204b0f":[6,0,1499,104]
 };

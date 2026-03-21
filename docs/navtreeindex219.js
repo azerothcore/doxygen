@@ -1,5 +1,8 @@
 var NAVTREEINDEX219 =
 {
+"d8/d41/classnpc__great__bear__spirit.html#a141470a3623aa1152d3505661f1532c8":[6,0,1838,0],
+"d8/d41/classnpc__great__bear__spirit.html#a2307b8d56fc117d918adc9814fa86f8f":[6,0,1838,1],
+"d8/d41/classnpc__great__bear__spirit.html#aae026f4cf8b0de61d36a841dcfdbd92e":[6,0,1838,2],
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html":[6,0,920],
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a40b7d4b51ba0849a77a41abc76407e39":[6,0,920,0],
 "d8/d41/structContainerList_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a8762b1028a8b81762e9b08fd45d13269":[6,0,920,1],
@@ -86,10 +89,10 @@ var NAVTREEINDEX219 =
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ad8ddb0dfbe2c07385cc2c95a456086b5":[6,0,12,8,9,5],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[5,0,34,8,9,1],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade148bd152f0708ed90d549d8f9feb0a":[6,0,12,8,9,1],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,34,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[6,0,12,8,9,0],
-"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,12,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#ade76f6fcc5a2f4032ba1f6a10022de53":[5,0,34,8,9,0],
 "d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[5,0,34,8,9,3],
+"d8/d47/classWorldPackets_1_1Item_1_1ItemEnchantTimeUpdate.html#aeff05f6bb1235655b81d21a2f7aecdc8":[6,0,12,8,9,3],
 "d8/d48/classspell__rog__cold__blood.html":[6,0,3969],
 "d8/d48/classspell__rog__cold__blood.html#a24faa9992523bc87df7f5ebccfb42233":[6,0,3969,2],
 "d8/d48/classspell__rog__cold__blood.html#a2e564758a050827108955f73a08e72e7":[6,0,3969,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX219 =
 "d8/d4c/structnpc__akama__illidan.html#af68f04faaf8a1893a82674cf1f2dd453":[6,0,1603,2],
 "d8/d4d/classnpc__toc__warlock.html":[6,0,2220],
 "d8/d4d/classnpc__toc__warlock.html#a75ac1d6f6835860fed8a9197fa1cf3c2":[6,0,2220,1],
-"d8/d4d/classnpc__toc__warlock.html#ad3162c9414be83d53d9513c7aa6b75d7":[6,0,2220,2],
-"d8/d4d/classspell__dru__savage__roar__aura.html":[6,0,2908],
-"d8/d4d/classspell__dru__savage__roar__aura.html#a4d2941ebb326d603ac08f428f811c29b":[6,0,2908,0],
-"d8/d4d/classspell__dru__savage__roar__aura.html#a78e30a950b9fc08dff5072028816b8b4":[6,0,2908,3]
+"d8/d4d/classnpc__toc__warlock.html#ad3162c9414be83d53d9513c7aa6b75d7":[6,0,2220,2]
 };

@@ -1,5 +1,13 @@
 var NAVTREEINDEX399 =
 {
+"df/d57/classnpc__lake__frog.html#ac7c56b2a6443356523b468c05c36bc6c":[6,0,1945,1],
+"df/d57/classnpc__prospector__remtravel.html":[6,0,2086],
+"df/d57/classnpc__prospector__remtravel.html#a5e11149b6359927a71c98242d979e65b":[6,0,2086,3],
+"df/d57/classnpc__prospector__remtravel.html#aa213161fc60e615682252125f6c58f7f":[6,0,2086,1],
+"df/d57/classnpc__prospector__remtravel.html#aa8e1bb551036684b05c1b3bea4c66b1d":[6,0,2086,2],
+"df/d58/classspell__gen__obsidian__armor.html":[6,0,3076],
+"df/d58/classspell__gen__obsidian__armor.html#a1ba43a41ca6909f2bd377290b1b0b12b":[6,0,3076,0],
+"df/d58/classspell__gen__obsidian__armor.html#a9d0df8ec96c17661daaf620dd88cecd5":[6,0,3076,1],
 "df/d58/classspell__gen__obsidian__armor.html#ab6e36f24dea949c8cedaaed0d5fa9517":[6,0,3076,4],
 "df/d58/classspell__gen__obsidian__armor.html#ae533e87550b1aedc67b67c217495286d":[6,0,3076,3],
 "df/d58/classspell__gen__obsidian__armor.html#af474a768c441fb666163f4ebd5068393":[6,0,3076,2],
@@ -77,8 +85,8 @@ var NAVTREEINDEX399 =
 "df/d5d/classspell__dru__revitalize.html#a43704e8ddf8eb94adf27225eb02135bd":[6,0,2904,0],
 "df/d5d/classspell__dru__revitalize.html#a626ebecdbb7e431af364fa9bcde38644":[6,0,2904,1],
 "df/d5d/classspell__dru__revitalize.html#ab56bed8649452b9ae7ac07bf6ee16641":[6,0,2904,2],
-"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[6,0,8,2],
+"df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html":[5,0,29,2],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[6,0,8,2,0],
 "df/d5d/structstd_1_1hash_3_01std_1_1pair_3_01uint32__t_00_01uint32__t_01_4_01_4.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771":[5,0,29,2,0],
 "df/d5e/boss__buru_8cpp.html":[7,0,0,0,1,3,4,8,1],
@@ -241,13 +249,5 @@ var NAVTREEINDEX399 =
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a335205cb71b7055db4c01a5e562001b6":[6,0,335,2],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a57c1a6f485ea6617b5218da411cae38f":[6,0,335,5],
 "df/d6c/structBattlegroundEYLosingPointStruct.html#a8295974ee1f663dd0d22bcc4f0e0fa92":[6,0,335,4],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[6,0,335,0],
-"df/d6c/structBattlegroundEYLosingPointStruct.html#afe89eccc8c21351edb4ce943d937e521":[6,0,335,3],
-"df/d6e/BattlegroundBE_8cpp.html":[7,0,0,0,1,2,8,1,4],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html":[6,0,518,0],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a18ae481969ed0885122058b0ebf98cc8":[6,0,518,0,0],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1e4526d104670d4899ef6dd5760c2437":[6,0,518,0,14],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a1efec7ad0793812f83e808b961059875":[6,0,518,0,1],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a2223b2c287b2b21a7377ed49b2a65628":[6,0,518,0,9],
-"df/d6e/structboss__gothik_1_1boss__gothikAI.html#a31f3993b01755f45f3fe997d599a52d4":[6,0,518,0,8]
+"df/d6c/structBattlegroundEYLosingPointStruct.html#ae3f19e55206e1a8097fe173a8a37aa12":[6,0,335,0]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX304 =
 {
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea60618ea4f53e59c633f145aa9ebbf2db":[7,0,0,0,1,3,5,1,1,5,4,2],
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea850d75427f6f9a02a4dabaa4008782b1":[7,0,0,0,1,3,5,1,1,5,4,7],
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaa7ba6d8894a1a818799937d6862a46c1":[7,0,0,0,1,3,5,1,1,5,4,9],
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabb48b200a2a9213dd5cce20e4a473368":[7,0,0,0,1,3,5,1,1,5,4,1],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ead8059fa6f75c76d0f2d7bfc31ce0047d":[7,0,0,0,1,3,5,1,1,5,4,10],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eae916a2187053d174552a7767836952d5":[7,0,0,0,1,3,5,1,1,5,4,4],
 "db/dd6/ruby__sanctum_8h.html#afb6eb4f28419b652027fad41104a6d22":[7,0,0,0,1,3,5,1,1,5,3],
@@ -115,10 +119,10 @@ var NAVTREEINDEX304 =
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1680,2],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1680,1],
 "db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,17],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,12,6,48],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,12,6,48,1],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,34,6,48,1],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,12,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,12,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,34,6,48,0],
@@ -201,8 +205,8 @@ var NAVTREEINDEX304 =
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html":[6,0,12,6,27],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[6,0,12,6,27,2],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a35bcac3da7db22a22b4e8dba21ae1d0a":[5,0,34,6,27,2],
-"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[6,0,12,6,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[5,0,34,6,27,1],
+"db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a4ae1c0daaec964981ad982b97c1b0408":[6,0,12,6,27,1],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[6,0,12,6,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a78be16122c01d4c68d67e050ede92006":[5,0,34,6,27,0],
 "db/dde/classWorldPackets_1_1Guild_1_1GuildEvent.html#a8f0faa70581ca04c26f87ebcd25cee80":[6,0,12,6,27,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX304 =
 "db/de2/boss__drekthar_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293":[7,0,0,0,1,3,2,0,2,2,3],
 "db/de2/boss__drekthar_8cpp.html#a5bd342133be8c2137b831460acc9298cac74b05f0e56f3e57978e9333f609d793":[7,0,0,0,1,3,2,0,2,2,4],
 "db/de2/boss__drekthar_8cpp.html#a5bd342133be8c2137b831460acc9298cace00400987bd4444f7fe64180848cf5b":[7,0,0,0,1,3,2,0,2,2,2],
-"db/de2/boss__drekthar_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,2,0,2,2,0],
-"db/de2/classGuild_1_1MoveItemData.html":[6,0,1271,7],
-"db/de2/classGuild_1_1MoveItemData.html#a1107940e15604337a2a7bc3a839c1e58":[6,0,1271,7,19],
-"db/de2/classGuild_1_1MoveItemData.html#a175034d78526f6fe0db2011839cffe67":[6,0,1271,7,0],
-"db/de2/classGuild_1_1MoveItemData.html#a190c6110c353bbe91b9b407c59478967":[6,0,1271,7,24]
+"db/de2/boss__drekthar_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801":[7,0,0,0,1,3,2,0,2,2,0]
 };

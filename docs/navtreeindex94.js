@@ -1,5 +1,8 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1b/classnpc__prof__leather.html#a1a0dc1574c814af5e4f992c7fb199215":[6,0,2082,2],
+"d3/d1b/classnpc__prof__leather.html#a4a96f0c41a2a75ed26f52b1b0377c800":[6,0,2082,0],
+"d3/d1b/classnpc__prof__leather.html#aefbf75b4109f8013335f36cd2d6e84de":[6,0,2082,1],
 "d3/d1b/classnpc__prof__leather.html#afdf3a42c20903efd7f45ab0042f79de0":[6,0,2082,3],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html":[6,0,2029,0],
 "d3/d1b/structnpc__pallid__horror_1_1FlameshockerCheck.html#a76ede7ef27a41a284821e690c88375c9":[6,0,2029,0,0],
@@ -11,10 +14,10 @@ var NAVTREEINDEX94 =
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a6ff932341f415b659d486e63cbeb5fe4":[6,0,0,38,0],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[5,0,1,50,2],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#a8e2e259c0159fd9418777787e4c68ccd":[6,0,0,38,2],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[6,0,0,38,4],
-"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#ab0544cf93f94766701b72dbb6b3b55c1":[5,0,1,50,4],
 "d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[5,0,1,50,3],
+"d3/d1d/classAcore_1_1CallOfHelpCreatureInRangeDo.html#aff1768cd844e4e23821cf78f9d360e06":[6,0,0,38,3],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html":[6,0,2952],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a2e07ffc92d44757fe2b074244048dbf4":[6,0,2952,0],
 "d3/d1d/classspell__felmyst__fog__of__corruption__charm__aura.html#a3b91d692ad34b7ce965887590780e146":[6,0,2952,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d24/classBossAI.html#ae14c59d2f34c8e82b0fc6f8c707d81ca":[6,0,824,18],
 "d3/d24/classBossAI.html#af90b6b4ea6b676e5f25f1411b98837cf":[6,0,824,19],
 "d3/d24/classnpc__toc__enh__shaman.html":[6,0,2209],
-"d3/d24/classnpc__toc__enh__shaman.html#a4501c9289a06750d8f153f89565b12f3":[6,0,2209,2],
-"d3/d24/classnpc__toc__enh__shaman.html#ac328b63a988d2cd8640237b250c338a8":[6,0,2209,1],
-"d3/d24/structBattlegroundABScore.html":[6,0,327],
-"d3/d24/structBattlegroundABScore.html#a25643abf67d1ae2f8498951c11833994":[6,0,327,6]
+"d3/d24/classnpc__toc__enh__shaman.html#a4501c9289a06750d8f153f89565b12f3":[6,0,2209,2]
 };

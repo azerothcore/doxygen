@@ -1,5 +1,8 @@
 var NAVTREEINDEX174 =
 {
+"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[6,0,0,5,0,8,0],
+"d6/d4b/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01SpellInfo_01const_01_5_01_4.html#a6fe249c25aabf5f7eb70612982ac2b82":[5,0,1,8,0,8,0],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[6,0,10,26],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html":[5,0,31,26],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[5,0,31,26,1],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a02e9d8789336d77e34bffa19adbab394":[6,0,10,26,1],
@@ -11,12 +14,12 @@ var NAVTREEINDEX174 =
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3":[5,0,31,26,3],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a94789843c68d705184e6332ac46bd69d":[5,0,31,26,4],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#a94789843c68d705184e6332ac46bd69d":[6,0,10,26,4],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[6,0,10,26,7],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[5,0,31,26,7],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[5,0,31,26,2],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#aa9ecb62b53af527b3bd855b8e93ba604":[6,0,10,26,7],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[6,0,10,26,2],
-"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[6,0,10,26,6],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac3162ce321a1f21e4e6fe35041e49a6a":[5,0,31,26,2],
 "d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[5,0,31,26,6],
+"d6/d4b/structVMAP_1_1WMOLiquidHeader.html#ac50224cdce231460c78c3e0f077b555d":[6,0,10,26,6],
 "d6/d4c/structboss__pathaleon__the__calculator.html":[6,0,668],
 "d6/d4c/structboss__pathaleon__the__calculator.html#a0224d47bc85fe54c0cfded69b55e57b3":[6,0,668,3],
 "d6/d4c/structboss__pathaleon__the__calculator.html#a3ba024e86ceb83ebb26afcc11a75791d":[6,0,668,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX174 =
 "d6/d4f/classspell__huhuran__poison__bolt.html":[6,0,3208],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a15ebe9125f5f4a8f66241ee4da1ac83e":[6,0,3208,0],
 "d6/d4f/classspell__huhuran__poison__bolt.html#a32b0be74a9127f920e22aa03c910a005":[6,0,3208,1],
-"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3208,2],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html":[6,0,2043],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a2aab464c099e8e5e760a9ae4f28ac33f":[6,0,2043,1],
-"d6/d4f/structnpc__pet__gen__gnomish__flame__turret.html#a46fe5703a5859d5583e7df3a57b3910a":[6,0,2043,2]
+"d6/d4f/classspell__huhuran__poison__bolt.html#a80efa2858d4270c497e49a1fe6a7472e":[6,0,3208,2]
 };

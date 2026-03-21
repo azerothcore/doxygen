@@ -1,5 +1,9 @@
 var NAVTREEINDEX348 =
 {
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abb27f4633fb115258b7c9e209de437d3":[7,0,0,0,1,2,38,0,77,1,102],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc589b6df12f95e213fb6e4c4898ad5c":[7,0,0,0,1,2,38,0,77,1,21],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abc70b591319e2beadccdc28b72bc52f8":[7,0,0,0,1,2,38,0,77,1,150],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abd876cf1d5d8a56ee131b38607e9076e":[7,0,0,0,1,2,38,0,77,1,116],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abe45f1af98bac742d8c4795da61ba835":[7,0,0,0,1,2,38,0,77,1,47],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357abfc3690d7eae7d7706e710b392557acd":[7,0,0,0,1,2,38,0,77,1,99],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ac0399502c9c935fec9513ecfde9a28ce":[7,0,0,0,1,2,38,0,77,1,171],
@@ -245,9 +249,5 @@ var NAVTREEINDEX348 =
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac4635cad5e60da5755e1504608320e71":[6,0,682,0,1],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#ac813528b31e7c39d2f8b74dfe6d2c556":[6,0,682,0,12],
 "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#af39972324073464ed9ec625afbebc51f":[6,0,682,0,8],
-"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#aff8ed7cbb1e374ebde41a06a6b8a7544":[6,0,682,0,14],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html":[6,0,3588],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a1710a08cfe8b6f9b3890840bac97c711":[6,0,3588,1],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a2e65cb7fa379f1330610aaa56e002ba3":[6,0,3588,2],
-"dd/dd3/classspell__mage__glyph__of__polymorph.html#a81736c5dd5fd02181673a9f12d4d9ab2":[6,0,3588,0]
+"dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html#aff8ed7cbb1e374ebde41a06a6b8a7544":[6,0,682,0,14]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX76 =
 {
+"d2/ddc/structnpc__escortAI.html#a59830f742b9967303df22f5bcf0d2b9d":[6,0,1793,33],
+"d2/ddc/structnpc__escortAI.html#a5e9c333411c54ff4d644812e53ba1831":[6,0,1793,31],
+"d2/ddc/structnpc__escortAI.html#a638cbb76a4dd772f073d11351e02f795":[6,0,1793,46],
 "d2/ddc/structnpc__escortAI.html#a648799d00219673bd974e08e1176c495":[6,0,1793,16],
 "d2/ddc/structnpc__escortAI.html#a689a50e0af6c80ef59ee207ac518df45":[6,0,1793,12],
 "d2/ddc/structnpc__escortAI.html#a69c565febabbe991c7011e22953a95c2":[6,0,1793,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a4f75c2549377f879be98ad02cb3282e1":[6,0,4394,26],
 "d2/de9/classSpellInfo.html#a4fa29bd816428ad9a9f5f07cdf040840":[6,0,4394,46],
 "d2/de9/classSpellInfo.html#a517ef88a7d9ce773b7906bdd19a88e85":[6,0,4394,165],
-"d2/de9/classSpellInfo.html#a5410be2b801d2f8ae0173cdc06a21835":[6,0,4394,54],
-"d2/de9/classSpellInfo.html#a54e6c05479963284d49062a9ce6090d2":[6,0,4394,119],
-"d2/de9/classSpellInfo.html#a562060f7c0d25cb229a16da38692b69e":[6,0,4394,96],
-"d2/de9/classSpellInfo.html#a57b15d860d8c712031e663b08f549d26":[6,0,4394,118]
+"d2/de9/classSpellInfo.html#a5410be2b801d2f8ae0173cdc06a21835":[6,0,4394,54]
 };

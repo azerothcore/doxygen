@@ -1,9 +1,13 @@
 var NAVTREEINDEX303 =
 {
+"db/dd5/classCreature.html#a74732016d6f0ffadd871eb84d59c33df":[6,0,936,76],
+"db/dd5/classCreature.html#a749fe442db18ff741314465c44afcae0":[6,0,936,37],
+"db/dd5/classCreature.html#a7708fbc45bcbbfdf5461c9a088b40b77":[6,0,936,273],
 "db/dd5/classCreature.html#a778e80682e3c6b2c9247869165c091ee":[6,0,936,270],
 "db/dd5/classCreature.html#a77c3bc05a8fa4406f436f786ead63131":[6,0,936,59],
 "db/dd5/classCreature.html#a77d6b4a992fc16966212a77dce61aabf":[6,0,936,233],
 "db/dd5/classCreature.html#a7923faf4b93b1a03ff75bf275c4eb083":[6,0,936,143],
+"db/dd5/classCreature.html#a7fdd2916fd441db2f0f6c25eda902a35":[6,0,936,29],
 "db/dd5/classCreature.html#a8047b1cc99f35cb1a7d4d9f085a8d91c":[6,0,936,302],
 "db/dd5/classCreature.html#a8127401b1a832cca416fa63f6a705a3d":[6,0,936,42],
 "db/dd5/classCreature.html#a81300250a7a12ca03c6613d339c9b530":[6,0,936,248],
@@ -245,9 +249,5 @@ var NAVTREEINDEX303 =
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea41b5772c7489cd9f745e7cdac5035bc9":[7,0,0,0,1,3,5,1,1,5,4,3],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea427400c1c8099ae1e2bf8022dbf0a19f":[7,0,0,0,1,3,5,1,1,5,4,8],
 "db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea43d94d174a0f277385bd547e8699bcd8":[7,0,0,0,1,3,5,1,1,5,4,6],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea497d3965318f838503396514a84cae25":[7,0,0,0,1,3,5,1,1,5,4,5],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea60618ea4f53e59c633f145aa9ebbf2db":[7,0,0,0,1,3,5,1,1,5,4,2],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea850d75427f6f9a02a4dabaa4008782b1":[7,0,0,0,1,3,5,1,1,5,4,7],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eaa7ba6d8894a1a818799937d6862a46c1":[7,0,0,0,1,3,5,1,1,5,4,9],
-"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909eabb48b200a2a9213dd5cce20e4a473368":[7,0,0,0,1,3,5,1,1,5,4,1]
+"db/dd6/ruby__sanctum_8h.html#af7a9ac7973846c078e2e9f7c9e3e909ea497d3965318f838503396514a84cae25":[7,0,0,0,1,3,5,1,1,5,4,5]
 };

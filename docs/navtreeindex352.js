@@ -1,5 +1,9 @@
 var NAVTREEINDEX352 =
 {
+"dd/dfa/structboss__nightbane.html#ae15a984403ef5ef27b58400dbc92777d":[6,0,653,19],
+"dd/dfa/structboss__nightbane.html#ae49cca4df3d3e4671fcd29d0ff80b820":[6,0,653,2],
+"dd/dfa/structboss__nightbane.html#aebe3a054846638cb704537bb6ae8df26":[6,0,653,8],
+"dd/dfa/structboss__nightbane.html#aebfd407ada0b093a22ba50fbfb22dc0c":[6,0,653,10],
 "dd/dfa/structboss__nightbane.html#afc9746671aab95918269375a672ecbed":[6,0,653,17],
 "dd/dfa/structboss__nightbane.html#aff6649c16f1c929325e1941479569fc1":[6,0,653,21],
 "dd/dfa/structboss__nightbane.html#affc0741ba52bdb3af2f3ca1ba65e5d16":[6,0,653,5],
@@ -170,7 +174,9 @@ var NAVTREEINDEX352 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae424685131ee51e8d6390e4ddb341b04":[6,0,1737,0,7],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6":[6,0,1737,0,2],
 "de/d02/structnpc__pet__dk__ghoul.html":[6,0,2039],
+"de/d02/structnpc__pet__dk__ghoul.html#a55ed58a264bd30cc4f891dc1e6d2fe03":[6,0,2039,3],
 "de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[6,0,2039,2],
+"de/d02/structnpc__pet__dk__ghoul.html#aaca50b80273c75a48ee366fc07a3a3d0":[6,0,2039,4],
 "de/d02/structnpc__pet__dk__ghoul.html#ae6ea5ad522229289a16d5be1e52181f6":[6,0,2039,1],
 "de/d02/structnpc__pet__dk__ghoul.html#aff3b8dc660a7e263c6e30960819b4ffa":[6,0,2039,0],
 "de/d03/Channel_8h.html":[7,0,0,0,1,2,11,0,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX352 =
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b":[7,0,0,0,1,2,11,0,1,7,28],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b":[7,0,0,0,1,2,11,0,1,7,3],
 "de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d":[7,0,0,0,1,2,11,0,1,7,11],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3":[7,0,0,0,1,2,11,0,1,7,4],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff":[7,0,0,0,1,2,11,0,1,7,31],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0":[7,0,0,0,1,2,11,0,1,7,30],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022":[7,0,0,0,1,2,11,0,1,7,24],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1":[7,0,0,0,1,2,11,0,1,7,10],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f":[7,0,0,0,1,2,11,0,1,7,7],
-"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8":[7,0,0,0,1,2,11,0,1,7,27]
+"de/d03/Channel_8h.html#aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3":[7,0,0,0,1,2,11,0,1,7,4]
 };

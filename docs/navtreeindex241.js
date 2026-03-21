@@ -1,5 +1,8 @@
 var NAVTREEINDEX241 =
 {
+"d9/d5d/structboss__najentus.html#ab7e0bdb8954722c9080146a88a3c5aa2":[6,0,646,4],
+"d9/d5d/structboss__najentus.html#ac5d3d54a49524892fe844925d483c244":[6,0,646,0],
+"d9/d5d/structboss__najentus.html#ad55e1de3aa7a636b3d30b0d61a17dab9":[6,0,646,3],
 "d9/d5d/structboss__najentus.html#afee32dd32033c7a45068ce12e961797c":[6,0,646,1],
 "d9/d5e/structnpc__stolen__soul.html":[6,0,2164],
 "d9/d5e/structnpc__stolen__soul.html#a35b3478f2541f7b3d56e0873f96f479f":[6,0,2164,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d63/classspell__destroy__door__seal__aura.html#a1fb46036f0860440f3a9201e0d86cdc4":[6,0,2780,2],
 "d9/d63/classspell__destroy__door__seal__aura.html#a79dbb866c06cd1c031cae2f1370146d5":[6,0,2780,1],
 "d9/d63/classspell__destroy__door__seal__aura.html#affa7fb949d4b1a05813df0da17fef3bb":[6,0,2780,0],
-"d9/d64/classinstance__hyjal.html":[6,0,1332],
-"d9/d64/classinstance__hyjal.html#ade946c0fcaa4bad790bfcb4b6ffb6420":[6,0,1332,1],
-"d9/d64/classinstance__hyjal.html#ae6e39933d7cfd6563f6d37636f1c6f68":[6,0,1332,2],
-"d9/d64/classspell__icc__yh__volley__aura.html":[6,0,3263]
+"d9/d64/classinstance__hyjal.html":[6,0,1332]
 };

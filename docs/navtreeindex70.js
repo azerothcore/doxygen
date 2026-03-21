@@ -1,5 +1,8 @@
 var NAVTREEINDEX70 =
 {
+"d2/d8a/classspell__putricide__ooze__eruption__searcher.html#adb7e30d10c2071de5d5070b64a10af30":[6,0,3830,3],
+"d2/d8a/structboss__sartharion__shadron.html":[6,0,699],
+"d2/d8a/structboss__sartharion__shadron.html#a1f1a235d4d5654e273ef821ebf962491":[6,0,699,1],
 "d2/d8a/structboss__sartharion__shadron.html#a3967c70698675d2c925a1a0366bf1d00":[6,0,699,3],
 "d2/d8a/structboss__sartharion__shadron.html#a8511eb55a486665a248d555337c25002":[6,0,699,2],
 "d2/d8a/structboss__sartharion__shadron.html#ab4a7991c276a12af0b54936c271bfd0b":[6,0,699,0],
@@ -36,8 +39,8 @@ var NAVTREEINDEX70 =
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2124],
 "d2/d8c/classnpc__scholomance__occultist.html#a5da2b011ec4859523c1f713dc18e4d5b":[6,0,2124,2],
 "d2/d8c/classnpc__scholomance__occultist.html#adf100912a15ff8edf056efa7eebd13ff":[6,0,2124,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX70 =
 "d2/d93/classGuild_1_1Member.html#a6b7a32ad9402be44ebadb133e063451b":[6,0,1271,6,11],
 "d2/d93/classGuild_1_1Member.html#a6e506b4596877e49a16d9d65f24a2a2a":[6,0,1271,6,39],
 "d2/d93/classGuild_1_1Member.html#a72b6e514edb19461b00340df621d4545":[6,0,1271,6,22],
-"d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c":[6,0,1271,6,3],
-"d2/d93/classGuild_1_1Member.html#a8efa359ba98c8df180926061d086be40":[6,0,1271,6,1],
-"d2/d93/classGuild_1_1Member.html#a92aca42547d84388d6a0815a2c9584a6":[6,0,1271,6,27],
-"d2/d93/classGuild_1_1Member.html#a9709c46216985dc71ccf766b96ee2c09":[6,0,1271,6,17]
+"d2/d93/classGuild_1_1Member.html#a801d78a7a584fb3ee8c862b3aa5b4a4c":[6,0,1271,6,3]
 };

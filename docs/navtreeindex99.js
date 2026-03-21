@@ -1,5 +1,8 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baed23628ad94ecdc5508cd46767fa531d":[7,0,0,0,1,2,48,7,0,223],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baed2de96f30f3c9cb3a78095950b4d19c":[7,0,0,0,1,2,48,7,0,364],
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baed62628c57ce0036ccc3482005118670":[7,0,0,0,1,2,48,7,0,2],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baeda66e18c313770cb5708473a9239597":[7,0,0,0,1,2,48,7,0,48],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baedbc72d60d8fe1e4df361b1cfacbcd31":[7,0,0,0,1,2,48,7,0,201],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baee7dc5296c7d3514b6c0a383cbc151af":[7,0,0,0,1,2,48,7,0,291],
@@ -237,17 +240,14 @@ var NAVTREEINDEX99 =
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1057,4],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,9,1],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,12,9,1,0],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,12,9,1,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[5,0,34,9,1,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3644],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3644,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3644,0],
 "d3/d56/ChannelMgr_8cpp.html":[7,0,0,0,1,2,11,0,2],
 "d3/d56/classspell__hun__target__self__and__pet.html":[6,0,3246],
-"d3/d56/classspell__hun__target__self__and__pet.html#a12ff05520225209b476b3ba8422de1c6":[6,0,3246,2],
-"d3/d56/classspell__hun__target__self__and__pet.html#a1343407ca8b571140ed2ecf5501bf378":[6,0,3246,1],
-"d3/d56/classspell__hun__target__self__and__pet.html#ac99786385187e21fb02e65e9b9719400":[6,0,3246,3],
-"d3/d56/classspell__hun__target__self__and__pet.html#affede599b86e05e6475fd64a60268e8e":[6,0,3246,0]
+"d3/d56/classspell__hun__target__self__and__pet.html#a12ff05520225209b476b3ba8422de1c6":[6,0,3246,2]
 };

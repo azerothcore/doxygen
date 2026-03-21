@@ -1,5 +1,8 @@
 var NAVTREEINDEX158 =
 {
+"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065ac3a4396238fbb11f537aa061424abe2b":[7,0,0,0,1,3,5,2,0,0,16,1],
+"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065acbff865e8b9b8593c0115a78538d222c":[7,0,0,0,1,3,5,2,0,0,16,6],
+"d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065ae91867f1a05437c18a1d58ad219cf00f":[7,0,0,0,1,3,5,2,0,0,16,9],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af19d664ef227eb9bfc2779735274b4b4":[7,0,0,0,1,3,5,2,0,0,16,8],
 "d5/dbb/boss__argent__challenge_8cpp.html#ae9595f620d9888aeae1c43934e479065af4b3b7a5e8b4481dcb60a25093408bb2":[7,0,0,0,1,3,5,2,0,0,16,4],
 "d5/dbc/namespaceDoodad.html":[5,0,12],
@@ -30,18 +33,18 @@ var NAVTREEINDEX158 =
 "d5/dbf/classspell__dk__threat__of__thassarian.html#a393909e3765443aa4930d8036c36b132":[6,0,2842,0],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#aeaacd337fd8a02e7c19ead8912fc68d9":[6,0,2842,1],
 "d5/dbf/classspell__dk__threat__of__thassarian.html#af37fd1db3dc6cbbe985734853ea59109":[6,0,2842,2],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,1,105],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html":[6,0,0,93],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[6,0,0,93,0],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html":[5,0,1,105],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[5,0,1,105,0],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,1,105,2],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a0a4c736bbde38ccb0a0a8ceafdb751c7":[6,0,0,93,0],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[6,0,0,93,2],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a19e60fc9fc43ad3a718132a2884e41b0":[5,0,1,105,2],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[5,0,1,105,1],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a25785fbe4cb8ac9a8753705b9df3b507":[6,0,0,93,1],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,93,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[5,0,1,105,4],
-"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,1,105,3],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a2d9af6a6ef1105b19c49852fce17b8e6":[6,0,0,93,4],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[6,0,0,93,3],
+"d5/dbf/structAcore_1_1PlayerLastSearcher.html#a93f5e1dd1f680cc9467671b59d2c5a12":[5,0,1,105,3],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[6,0,0,93,5],
 "d5/dbf/structAcore_1_1PlayerLastSearcher.html#ad5bfaa4154c99e34515da98db7dccadf":[5,0,1,105,5],
 "d5/dc0/classspell__marli__transform.html":[6,0,3632],
@@ -246,8 +249,5 @@ var NAVTREEINDEX158 =
 "d5/dc7/structSpellEntry.html#accbc0425316d6848dbdd9f6bed9ec306":[6,0,4388,51],
 "d5/dc7/structSpellEntry.html#ada025398095d1c43c73f510a1506e68a":[6,0,4388,45],
 "d5/dc7/structSpellEntry.html#adb7e392a667089b5bc2f83770f427fb1":[6,0,4388,5],
-"d5/dc7/structSpellEntry.html#adc959169176db46bced57df3534e2ed3":[6,0,4388,35],
-"d5/dc7/structSpellEntry.html#add85942c5df8e490774afa400404edda":[6,0,4388,90],
-"d5/dc7/structSpellEntry.html#ae2557dda8531ce194843a5cec938d9e7":[6,0,4388,43],
-"d5/dc7/structSpellEntry.html#ae5ff025c22c5ab702e908f975b3f7edf":[6,0,4388,67]
+"d5/dc7/structSpellEntry.html#adc959169176db46bced57df3534e2ed3":[6,0,4388,35]
 };

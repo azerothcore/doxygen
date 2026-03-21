@@ -1,5 +1,8 @@
 var NAVTREEINDEX107 =
 {
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a675070578aeff5617fe8a87a03671398":[7,0,0,0,1,3,10,10,54,45],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6752ed36642e53558e3e1e2f75ce91f6":[7,0,0,0,1,3,10,10,54,6],
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a6f534af865db4bea6cde552b8aa7f406":[7,0,0,0,1,3,10,10,54,50],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a7007742dd64ae8fc19276136a79fc0c0":[7,0,0,0,1,3,10,10,54,30],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a725b66f7e48fde5bab7df4bc687c8a65":[7,0,0,0,1,3,10,10,54,2],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262a72b8ebebb0d2a0c0c5a0a4ab6a361bb7":[7,0,0,0,1,3,10,10,54,12],
@@ -246,8 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da8/classArenaTeamMgr.html#ac76e895599b64e0824e923faf9c08560":[6,0,202,0],
 "d3/da8/classArenaTeamMgr.html#acbb4d0e050ed3e1ad3081fe11e25b200":[6,0,202,17],
 "d3/da8/classArenaTeamMgr.html#af23ad2886a67eb69dfda7a5e1a9d30ac":[6,0,202,23],
-"d3/da8/classArenaTeamMgr.html#afb136b89fdcc549f2b379199fe1c5c3e":[6,0,202,2],
-"d3/da8/classspell__hun__cobra__strikes.html":[6,0,3216],
-"d3/da8/classspell__hun__cobra__strikes.html#a3722c927cf522685c08886338433964d":[6,0,3216,1],
-"d3/da8/classspell__hun__cobra__strikes.html#a38985baeb0c24c948747492bf1d1f546":[6,0,3216,2]
+"d3/da8/classArenaTeamMgr.html#afb136b89fdcc549f2b379199fe1c5c3e":[6,0,202,2]
 };

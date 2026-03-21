@@ -1,5 +1,8 @@
 var NAVTREEINDEX284 =
 {
+"db/d29/structWardenCheck.html#a6abdb409f49751b2f6aa8df88c349ba2":[6,0,4574,3],
+"db/d29/structWardenCheck.html#a962795028d40645fe67e4290ea64b10b":[6,0,4574,4],
+"db/d29/structWardenCheck.html#aaae2d4fd576f3eeb40c1413d54802345":[6,0,4574,1],
 "db/d29/structWardenCheck.html#abe0249d9550042e696eb74edf06aaec8":[6,0,4574,6],
 "db/d29/structWardenCheck.html#aca31cdb700dca4801dfa514812639c70":[6,0,4574,8],
 "db/d2a/classspell__q10898__skywing.html":[6,0,3852],
@@ -246,8 +249,5 @@ var NAVTREEINDEX284 =
 "db/d3d/classspell__igb__incinerating__blast.html#ae7a8d0cc36708b11f8eefebd5df0a980":[6,0,3276,1],
 "db/d3d/classspell__igb__incinerating__blast.html#af082a763f6524aeb5ae2eb3c82fd12e5":[6,0,3276,5],
 "db/d3d/classspell__item__mana__injector.html":[6,0,3407],
-"db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b":[6,0,3407,0],
-"db/d3d/classspell__item__mana__injector.html#a8847e05e6eeafd801fca5423d0689432":[6,0,3407,2],
-"db/d3d/classspell__item__mana__injector.html#a89847e0e9435a708c5722ff928f7033f":[6,0,3407,1],
-"db/d3d/classspell__item__mana__injector.html#ae0778ffd8cf203e22510ee91b0394303":[6,0,3407,3]
+"db/d3d/classspell__item__mana__injector.html#a283e713252166a863aa96530d6e7608b":[6,0,3407,0]
 };

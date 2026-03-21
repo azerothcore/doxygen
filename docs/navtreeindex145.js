@@ -1,5 +1,9 @@
 var NAVTREEINDEX145 =
 {
+"d5/d10/classspell__dru__t9__feral__relic.html#aee9068453d0c16088eb120da65657903":[6,0,2921,2],
+"d5/d10/classspell__item__sunwell__exalted__melee__neck.html":[6,0,3468],
+"d5/d10/classspell__item__sunwell__exalted__melee__neck.html#abfb835c784033a6b2eb4159a6a15221e":[6,0,3468,3],
+"d5/d10/classspell__item__sunwell__exalted__melee__neck.html#acbaa8391980af138bd53173f0b8bd243":[6,0,3468,1],
 "d5/d10/classspell__item__sunwell__exalted__melee__neck.html#adae03d8ff102215e61bbfff13c63290d":[6,0,3468,0],
 "d5/d10/classspell__item__sunwell__exalted__melee__neck.html#aec87249ec23b6b3314e5fb95fd832ad0":[6,0,3468,2],
 "d5/d11/Player_8cpp.html":[7,0,0,0,1,2,16,7,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX145 =
 "d5/d1c/cs__script__loader_8cpp.html#a9c7b2cae4f7afb6ae0c9ccc623877625":[7,0,0,0,1,3,0,40,34],
 "d5/d1c/cs__script__loader_8cpp.html#a9cbb6ad3c630cbeb9ba39b4552f72e87":[7,0,0,0,1,3,0,40,32],
 "d5/d1c/cs__script__loader_8cpp.html#a9f3fee551f6ca7aa7dad83edb2dfe480":[7,0,0,0,1,3,0,40,41],
-"d5/d1c/cs__script__loader_8cpp.html#aa94d37f012ac02e97a1021713b7dbeeb":[7,0,0,0,1,3,0,40,3],
-"d5/d1c/cs__script__loader_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd":[7,0,0,0,1,3,0,40,31],
-"d5/d1c/cs__script__loader_8cpp.html#aaa97392c09b5045a6040d75b224bdf22":[7,0,0,0,1,3,0,40,42],
-"d5/d1c/cs__script__loader_8cpp.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff":[7,0,0,0,1,3,0,40,5],
-"d5/d1c/cs__script__loader_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6":[7,0,0,0,1,3,0,40,28]
+"d5/d1c/cs__script__loader_8cpp.html#aa94d37f012ac02e97a1021713b7dbeeb":[7,0,0,0,1,3,0,40,3]
 };

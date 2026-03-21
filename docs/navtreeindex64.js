@@ -1,5 +1,8 @@
 var NAVTREEINDEX64 =
 {
+"d2/d4c/classspell__malygos__vortex__visual.html#aae6c3a215b09fd2270976190600e2cc4":[6,0,3620,2],
+"d2/d4c/classspell__malygos__vortex__visual.html#ae4ac76269793280335d76a78e5dced91":[6,0,3620,4],
+"d2/d4e/classspell__magtheridon__shadow__grasp.html":[6,0,3613],
 "d2/d4e/classspell__magtheridon__shadow__grasp.html#a02a350060a9ce54be88c0ad62eac11d3":[6,0,3613,2],
 "d2/d4e/classspell__magtheridon__shadow__grasp.html#a30a7b07fc37d13f9b3a96e95940410c1":[6,0,3613,3],
 "d2/d4e/classspell__magtheridon__shadow__grasp.html#a368376fe4262815b9b9a9811178cec6d":[6,0,3613,1],
@@ -211,8 +214,8 @@ var NAVTREEINDEX64 =
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html":[6,0,12,0,3],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[5,0,34,0,3,1],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a55a6609863b0d3ef966f222526268acb":[6,0,12,0,3,1],
-"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,12,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[5,0,34,0,3,0],
+"d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#a93b60814becc451c38f06f9702a9e027":[6,0,12,0,3,0],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[5,0,34,0,3,2],
 "d2/d5a/classWorldPackets_1_1Bank_1_1BuyBankSlotResult.html#ad7bf499ad8d5f0a7e1a580dd02b84c68":[6,0,12,0,3,2],
 "d2/d5a/classnpc__bloodmage__laurith.html":[6,0,1681],
@@ -246,8 +249,5 @@ var NAVTREEINDEX64 =
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cac95df81f3d783f0a3b0e67ccb07223fb":[7,0,0,0,1,3,5,3,1,6,5],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7":[7,0,0,0,1,3,5,3,1,6,9],
 "d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cae3f2667b591e742f5ecdfbd70392fee2":[7,0,0,0,1,3,5,3,1,6,8],
-"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[7,0,0,0,1,3,5,3,1,6,1],
-"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee":[7,0,0,0,1,3,5,3,1,6,12],
-"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cafe8c049a6cab762f884fffc99a042a1e":[7,0,0,0,1,3,5,3,1,6,4],
-"d2/d5b/boss__novos_8cpp.html#af7fe3ddb31bc5d41cf2ec6537b92ed40":[7,0,0,0,1,3,5,3,1,8]
+"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf122c6c3fe00bd98cedb873409dc4803":[7,0,0,0,1,3,5,3,1,6,1]
 };

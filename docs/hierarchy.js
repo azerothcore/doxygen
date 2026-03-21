@@ -4911,7 +4911,9 @@ var hierarchy =
     [ "UnitActionBarEntry", "dd/d00/structUnitActionBarEntry.html", null ],
     [ "UnitAI", "d0/ddd/classUnitAI.html", [
       [ "CreatureAI", "d5/d79/classCreatureAI.html", [
-        [ "AggressorAI", "d4/d4f/classAggressorAI.html", null ],
+        [ "AggressorAI", "d4/d4f/classAggressorAI.html", [
+          [ "npc_pet_dk_army_of_the_dead", "d5/d61/structnpc__pet__dk__army__of__the__dead.html", null ]
+        ] ],
         [ "ArcherAI", "dd/d24/structArcherAI.html", null ],
         [ "CombatAI", "d3/dfa/classCombatAI.html", [
           [ "CasterAI", "de/d3a/classCasterAI.html", [
@@ -4921,7 +4923,6 @@ var hierarchy =
           [ "npc_flameshocker", "d6/d68/structnpc__flameshocker.html", null ],
           [ "npc_heated_battle::npc_heated_battleAI", "d4/d27/structnpc__heated__battle_1_1npc__heated__battleAI.html", null ],
           [ "npc_llod_generic::npc_llod_genericAI", "dd/d41/structnpc__llod__generic_1_1npc__llod__genericAI.html", null ],
-          [ "npc_pet_dk_army_of_the_dead", "d5/d61/structnpc__pet__dk__army__of__the__dead.html", null ],
           [ "npc_pet_dk_ghoul", "de/d02/structnpc__pet__dk__ghoul.html", null ],
           [ "npc_ravenous_worg::npc_ravenous_worgAI", "d7/d7a/structnpc__ravenous__worg_1_1npc__ravenous__worgAI.html", null ]
         ] ],

@@ -682,6 +682,7 @@ var Language_8h =
       [ "LANG_NO_REASON", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa166fddb474c3c2541a233c247da39721", null ],
       [ "LANG_UNAUTHORIZED", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa39753763054ee805bb2419de11b3af2d", null ],
       [ "LANG_PINFO_CHR_MAP_WITH_AREA", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa4723e1e3f6b7e5de59bfa04bfbfc5a2c", null ],
+      [ "LANG_PINFO_CHR_ONLINETIME", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa557e3095e512cb818f21186e2ba476f3", null ],
       [ "LANG_CHARACTER_GENDER_MALE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa6000f475c065898c05a19f02cd164df4", null ],
       [ "LANG_CHARACTER_GENDER_FEMALE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa062db88f381574ec00474b33724121a7", null ],
       [ "LANG_ARENA_ERROR_NOT_FOUND", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aadd65776a07abff1a4b12c17feac9f2cd", null ],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX125 =
 {
+"d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a74c92bfc4fa00316be9df0764ae882d2":[7,0,0,0,1,3,7,4,1,1,7,5],
+"d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,4,1,1,7,3],
+"d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1ac06e5bbf853ac54e131d78954cadb856":[7,0,0,0,1,3,7,4,1,1,7,4],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1af5bc3db04213b3bf118af6ce85b5a637":[7,0,0,0,1,3,7,4,1,1,7,0],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,4,1,1,6],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a281d135742c425451ffb339d213bf765":[7,0,0,0,1,3,7,4,1,1,6,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d42/VMapAssembler_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[7,0,0,0,3,3,0,0],
 "d4/d42/adtfile_8cpp.html":[7,0,0,0,3,4,1],
 "d4/d42/adtfile_8cpp.html#a5e577b4c8e75312883ba4e8c571908ca":[7,0,0,0,3,4,1,3],
-"d4/d42/adtfile_8cpp.html#a939d4568b4058bf826a517f55cb963af":[7,0,0,0,3,4,1,4],
-"d4/d42/adtfile_8cpp.html#abdc56edc46e0804c456749761cff8daf":[7,0,0,0,3,4,1,1],
-"d4/d42/adtfile_8cpp.html#ac0029be4572a61d00eb1435db5526a74":[7,0,0,0,3,4,1,0],
-"d4/d42/adtfile_8cpp.html#ac3f75fc482c41471364c2c3e8bd1dd96":[7,0,0,0,3,4,1,2]
+"d4/d42/adtfile_8cpp.html#a939d4568b4058bf826a517f55cb963af":[7,0,0,0,3,4,1,4]
 };

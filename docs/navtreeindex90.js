@@ -1,5 +1,8 @@
 var NAVTREEINDEX90 =
 {
+"d2/df6/DBCStores_8h.html#a7670b9bb3f03fd4976edbb4285549cd3":[7,0,0,0,1,2,14,1,104],
+"d2/df6/DBCStores_8h.html#a77e97d6c628460065eabb2f3711329c1":[7,0,0,0,1,2,14,1,39],
+"d2/df6/DBCStores_8h.html#a7a46cdf97ec2682ecadac60a83be479d":[7,0,0,0,1,2,14,1,125],
 "d2/df6/DBCStores_8h.html#a7cf25117a95f68c6a4a580facea1590f":[7,0,0,0,1,2,14,1,115],
 "d2/df6/DBCStores_8h.html#a7d11ef3986ba2d890c236d491073b8e7":[7,0,0,0,1,2,14,1,140],
 "d2/df6/DBCStores_8h.html#a7fe8bbd11c3e4c484997cfe5c5f137c8":[7,0,0,0,1,2,14,1,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX90 =
 "d3/d01/classgo__palehoof__sphere.html#ad939fd46f8bdf32d4e158f32f2bcd8da":[6,0,1188,1],
 "d3/d01/structGameObjectLocale.html":[6,0,1104],
 "d3/d01/structGameObjectLocale.html#a462917eda1e095c99054495abf70cd67":[6,0,1104,1],
-"d3/d01/structGameObjectLocale.html#ae78195bdc8edd6f4996c617e7a541e12":[6,0,1104,0],
-"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html":[6,0,1900,0],
-"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#a161fd53eca71cb0a3b8fb8d483b7e49b":[6,0,1900,0,2],
-"d3/d01/structnpc__icc__vengeful__fleshreaper_1_1npc__icc__vengeful__fleshreaperAI.html#a28eb6d3f007f45b9db4eafafe71b779c":[6,0,1900,0,9]
+"d3/d01/structGameObjectLocale.html#ae78195bdc8edd6f4996c617e7a541e12":[6,0,1104,0]
 };

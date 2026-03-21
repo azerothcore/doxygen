@@ -1,5 +1,8 @@
 var NAVTREEINDEX193 =
 {
+"d7/d32/classBIH_1_1BuildStats.html#a9a2e28e15f755a8a0b5751d62664734f":[6,0,370,1,0],
+"d7/d32/classBIH_1_1BuildStats.html#a9f30e85b3eaa67dc38a28e3472c56de3":[6,0,370,1,2],
+"d7/d32/classBIH_1_1BuildStats.html#acd34211244a97c08193421818f326ff9":[6,0,370,1,6],
 "d7/d32/classBIH_1_1BuildStats.html#ae8cf4ba9eaa7dc424914483ab3fafeba":[6,0,370,1,4],
 "d7/d32/classBIH_1_1BuildStats.html#afbedc638e0117b7ca5c5f1e447846717":[6,0,370,1,12],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html":[6,0,455,0],
@@ -11,10 +14,10 @@ var NAVTREEINDEX193 =
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#ab4b27bf33b58b44ac604ca6bf6b5e424":[6,0,455,0,7],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#acec58686917d6e5aff9a51a96b023174":[6,0,455,0,3],
 "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html#aef5ede4f444e85fafd30faab6043672b":[6,0,455,0,6],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,34,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,12,12,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,34,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,12,12,3,0],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,12,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX193 =
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a013e9e0eef93583722f7d347c2ebbc49":[6,0,3649,4],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a2537b325ff57b867092f3d9a1bd0fa8b":[6,0,3649,5],
 "d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a524c071390365b7dab59bc7a79b50f15":[6,0,3649,3],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a60deabce505dd3993dca0e71402dc190":[6,0,3649,1],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a9a2fae625718f854ec5d2587a01a2da7":[6,0,3649,2],
-"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#ae3cb0f7a3da5a72eaa59350d7df13ffc":[6,0,3649,0],
-"d7/d40/classspell__warl__create__healthstone.html":[6,0,4253]
+"d7/d3f/classspell__mimiron__p3wx2__laser__barrage__aura.html#a60deabce505dd3993dca0e71402dc190":[6,0,3649,1]
 };

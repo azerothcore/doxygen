@@ -1,5 +1,13 @@
 var NAVTREEINDEX414 =
 {
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#ad715dcec9521507358b9afa8b8d2996c":[7,0,0,0,1,3,5,6,4,61],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#ad7644ed611766081df58d5fc303ed289":[7,0,0,0,1,3,5,6,4,70],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#ae92d05f7650b6872c0c52567999bd6d6":[7,0,0,0,1,3,5,6,4,59],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,5,6,4,53],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a05541857570dd14f7000e7df8d032a81":[7,0,0,0,1,3,5,6,4,53,18],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0aa8a23ae64d6bd0f640df478468954c":[7,0,0,0,1,3,5,6,4,53,1],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1b84eaac59b0fab3493d96f9a1e7a9cf":[7,0,0,0,1,3,5,6,4,53,20],
+"df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1e11bc026b79acde6be53cc7b321ebf3":[7,0,0,0,1,3,5,6,4,53,9],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1e40e26d20a33b399d77d065cdd6144a":[7,0,0,0,1,3,5,6,4,53,22],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a37fc020ad78dcdaf86bb5174e8a843ab":[7,0,0,0,1,3,5,6,4,53,5],
 "df/dda/boss__icecrown__gunship__battle_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39b0576f021c8ae77d938a2c23b95716":[7,0,0,0,1,3,5,6,4,53,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX414 =
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html":[6,0,3665],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#a06bdac68e36b43ee534e937ffd974086":[6,0,3665,2],
 "df/de1/classspell__mother__shahraz__saber__lash__aura.html#a0968b7b32f2d2bef6035e030f544088a":[6,0,3665,0],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[6,0,3665,1],
-"df/de1/classspell__mother__shahraz__saber__lash__aura.html#af6c228840f6af96e353ba964fdd01e54":[6,0,3665,3],
-"df/de2/classspell__brewfest__main__ram__buff.html":[6,0,2720],
-"df/de2/classspell__brewfest__main__ram__buff.html#a798c8ddfc71e703bfe1e3c1f2d926cef":[6,0,2720,0],
-"df/de2/classspell__brewfest__main__ram__buff.html#a85cbc44e586330e2adfc0656a428bd7b":[6,0,2720,2],
-"df/de2/classspell__brewfest__main__ram__buff.html#a96ed7366e568b70e82d622586740aa56":[6,0,2720,1],
-"df/de2/classspell__brewfest__main__ram__buff.html#aa3cd85aed063017c4737e7660fa81f37":[6,0,2720,4],
-"df/de2/classspell__brewfest__main__ram__buff.html#abd1f851112a50b79e815cdd894275bab":[6,0,2720,3],
-"df/de2/classspell__brewfest__main__ram__buff.html#ae2980e5f4934ce2ba5b755b7d45fab82":[6,0,2720,5]
+"df/de1/classspell__mother__shahraz__saber__lash__aura.html#ac424e41948196a6e60b790ebcf40783f":[6,0,3665,1]
 };

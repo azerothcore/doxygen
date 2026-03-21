@@ -130,6 +130,7 @@ var classWorldObject =
     [ "IsWithinDistInMap", "d4/dd0/classWorldObject.html#aaeea293a6966a717f17113370d364168", null ],
     [ "IsWithinLOS", "d4/dd0/classWorldObject.html#a9ddb6dae0ed9e02166b45ea3c0a9d92d", null ],
     [ "IsWithinLOSInMap", "d4/dd0/classWorldObject.html#a64f76cf543cb4851cb271bb7d2facaf2", null ],
+    [ "IsWithinSightRange", "d4/dd0/classWorldObject.html#a1a599fc0e33f4b0a9ed2a47853164b45", null ],
     [ "IsZoneWideVisible", "d4/dd0/classWorldObject.html#ace5ee2cc64ff7731eecea719f04413c4", null ],
     [ "MovePosition", "d4/dd0/classWorldObject.html#af1a07406645d5615e49109837b613e11", null ],
     [ "MovePositionToFirstCollision", "d4/dd0/classWorldObject.html#a51ee0969c43fed32eacf1a56e24393eb", null ],

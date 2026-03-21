@@ -1,5 +1,8 @@
 var NAVTREEINDEX250 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca6be9aaac2d0ece39335d70b587cf5e82":[7,0,0,0,1,3,5,9,0,3,4,5],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34eca860fbfbef46f69ee9a0aa899e040991e":[7,0,0,0,1,3,5,9,0,3,4,6],
+"d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaa7eba26f13cb62deb289afdbf2a512c4":[7,0,0,0,1,3,5,9,0,3,4,2],
 "d9/dc6/boss__volkhan_8cpp.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d":[7,0,0,0,1,3,5,9,0,3,4,0],
 "d9/dc6/classspell__dru__frenzied__regeneration.html":[6,0,2878],
 "d9/dc6/classspell__dru__frenzied__regeneration.html#a507e7e61eef30115812dc5ab5ad33fea":[6,0,2878,3],
@@ -47,8 +50,8 @@ var NAVTREEINDEX250 =
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,12,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,12,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,12,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54d":[7,0,0,0,1,3,10,13,2],
 "d9/dc7/npc__taxi_8cpp.html#a213e9ce155baf17b6147afe6a069d54da0c50614f8ab3cf5c324844c5ee6854dd":[7,0,0,0,1,3,10,13,2,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX250 =
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#abd23b7e24d9688dd4b9cbe70cdd45d75":[6,0,4274,0],
 "d9/dd1/classspell__warl__improved__demonic__tactics.html#ae2c4de235fc727039a50f1b6ba729422":[6,0,4274,3],
 "d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html":[6,0,1852,0],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a13a9efcb11ed31725c45011508407287":[6,0,1852,0,10],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a3004aecb50815287d5f832f2a8a0d250":[6,0,1852,0,2],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a3ce9a62d3e44b3ccc279803d5ef87a47":[6,0,1852,0,3],
-"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a4c23df1bb774ac724bdf537453592671":[6,0,1852,0,6]
+"d9/dd1/structnpc__halion__controller_1_1npc__halion__controllerAI.html#a13a9efcb11ed31725c45011508407287":[6,0,1852,0,10]
 };

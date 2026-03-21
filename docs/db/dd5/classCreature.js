@@ -29,7 +29,7 @@ var classCreature =
     [ "CanNotReachTarget", "db/dd5/classCreature.html#a964d74e322e372aa45056c06c66c0fe3", null ],
     [ "CanPeriodicallyCallForAssistance", "db/dd5/classCreature.html#a60cb4364f3717bbfe85ff0377c2d4b7c", null ],
     [ "CanResetTalents", "db/dd5/classCreature.html#a81715f70ada8e5a9bdb843255e2890d6", null ],
-    [ "CanStartAttack", "db/dd5/classCreature.html#a44d11d16e2cbdb8316790cc8550df75c", null ],
+    [ "CanStartAttack", "db/dd5/classCreature.html#a7fdd2916fd441db2f0f6c25eda902a35", null ],
     [ "CanSwim", "db/dd5/classCreature.html#a16beb3b4989e58aa487cfa3beb1c5287", null ],
     [ "CanWalk", "db/dd5/classCreature.html#a3b6e690e892fd8e3281f67d9c0e08948", null ],
     [ "ClearLastLeashExtensionTimePtr", "db/dd5/classCreature.html#ab1a73e378f1a219e03392a5c5b327b6f", null ],

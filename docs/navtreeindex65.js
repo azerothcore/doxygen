@@ -1,5 +1,8 @@
 var NAVTREEINDEX65 =
 {
+"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee":[7,0,0,0,1,3,5,3,1,6,12],
+"d2/d5b/boss__novos_8cpp.html#a5bd342133be8c2137b831460acc9298cafe8c049a6cab762f884fffc99a042a1e":[7,0,0,0,1,3,5,3,1,6,4],
+"d2/d5b/boss__novos_8cpp.html#af7fe3ddb31bc5d41cf2ec6537b92ed40":[7,0,0,0,1,3,5,3,1,8],
 "d2/d5b/culling__of__stratholme_8cpp.html":[7,0,0,0,1,3,4,1,1,5],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,4,1,1,5,13],
 "d2/d5b/culling__of__stratholme_8cpp.html#a16774215bba3b38580ea51987d64cff1a05ca3543e3f3563b8279436e81e333a0":[7,0,0,0,1,3,4,1,1,5,13,10],
@@ -246,8 +249,5 @@ var NAVTREEINDEX65 =
 "d2/d62/AuthCodes_8cpp.html#a50a906b5a3fdca3508aee0997881a717":[7,0,0,0,1,0,0,0,0,0],
 "d2/d62/AuthCodes_8cpp.html#a96896fc9dad2c304f681a24776f6726b":[7,0,0,0,1,0,0,0,0,2],
 "d2/d62/AuthCodes_8cpp.html#ac023f15b280fc65fdefefb77f2f7be7b":[7,0,0,0,1,0,0,0,0,3],
-"d2/d62/AuthCodes_8cpp.html#ad4f22daf9d88367d90d92416f470a28c":[7,0,0,0,1,0,0,0,0,1],
-"d2/d62/classat__zulgurub__temple__speech.html":[6,0,262],
-"d2/d62/classat__zulgurub__temple__speech.html#ab727ad7cb7f0a0e8309bbab233766cde":[6,0,262,0],
-"d2/d62/classat__zulgurub__temple__speech.html#afd42cd408df7562a9dcd91e33750f3d4":[6,0,262,1]
+"d2/d62/AuthCodes_8cpp.html#ad4f22daf9d88367d90d92416f470a28c":[7,0,0,0,1,0,0,0,0,1]
 };

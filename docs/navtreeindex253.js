@@ -1,5 +1,8 @@
 var NAVTREEINDEX253 =
 {
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2861],
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2861,2],
+"d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a3a5fa4814a7724db0ba7be5c5158798b":[6,0,2861,0],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a4ff0ab22db0bbd4483ddb379de069c48":[6,0,2861,1],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a909819dde9d5154f3d2cf04b04fa33f7":[6,0,2861,3],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#aebebb858f2ae41f2260d6843b3da8052":[6,0,2861,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX253 =
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a319c58d49d912ff832705b2688179ded":[7,0,0,0,1,3,5,9,2,16,7,16],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a3af6170de8bbc07660c821be72c668e0":[7,0,0,0,1,3,5,9,2,16,7,45],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a43a870e0638f36d495cd0f2dbeee07d2":[7,0,0,0,1,3,5,9,2,16,7,14],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a45edaf308d0e7eae0ae4168db7f19849":[7,0,0,0,1,3,5,9,2,16,7,41],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a4e60979567f63f1b7359017f9abae37c":[7,0,0,0,1,3,5,9,2,16,7,42],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a5406e0387cdb4e28fe7718f28ec3d752":[7,0,0,0,1,3,5,9,2,16,7,12],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a56e0ac9ce82008a01f4856d6c42a7016":[7,0,0,0,1,3,5,9,2,16,7,11]
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a45edaf308d0e7eae0ae4168db7f19849":[7,0,0,0,1,3,5,9,2,16,7,41]
 };

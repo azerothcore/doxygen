@@ -1,5 +1,8 @@
 var NAVTREEINDEX237 =
 {
+"d9/d16/structMetricData.html#a8248a27d920ca431493750e3f2dec48b":[6,0,1525,3],
+"d9/d16/structMetricData.html#a857d2d4843480b9967334f079351292a":[6,0,1525,4],
+"d9/d16/structMetricData.html#ab63598f64896186fde81048550767b28":[6,0,1525,2],
 "d9/d16/structMetricData.html#ac22787b2dadd4d3991f72f6ccab5c225":[6,0,1525,1],
 "d9/d16/structMetricData.html#af9962592650ba24fd9b3c0ee9ce06f7f":[6,0,1525,5],
 "d9/d16/structnpc__anubisath__sentinel_1_1aqsentinelAI.html":[6,0,1628,0],
@@ -235,8 +238,8 @@ var NAVTREEINDEX237 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3381,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3381,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3381,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,12,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,12,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,12,14,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca43af3f88ddf88aa8bfed99ccf363097f":[7,0,0,0,1,3,2,4,2,1,3],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cac3a4396238fbb11f537aa061424abe2b":[7,0,0,0,1,3,2,4,2,1,1],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298cad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,2,4,2,1,4],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[7,0,0,0,1,3,2,4,2,3],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,2,4,2,2],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,4,2,2,3],
-"d9/d2b/boss__maiden__of__virtue_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba27ce692ed085c6170fc7b22e4ed99c49":[7,0,0,0,1,3,2,4,2,2,2]
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#aa207ba534922ef000b6937e48599ffc1":[7,0,0,0,1,3,2,4,2,3]
 };

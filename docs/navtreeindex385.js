@@ -1,5 +1,13 @@
 var NAVTREEINDEX385 =
 {
+"de/dad/classWorldUpdateTime.html#ada81050229ccacc49d5b6a9f6101174c":[6,0,4642,4],
+"de/dad/classspell__despawner__self.html":[6,0,2779],
+"de/dad/classspell__despawner__self.html#a2f12e71b9793be8e81011b0cd7583a39":[6,0,2779,3],
+"de/dad/classspell__despawner__self.html#a3fda4d652c1264b3cfababdd98297c61":[6,0,2779,2],
+"de/dad/classspell__despawner__self.html#a550d6e90705745bdb5c4ee02ed1fce4b":[6,0,2779,1],
+"de/dad/classspell__despawner__self.html#ad57b334c7d985a3bda1cb19b81a77ee1":[6,0,2779,0],
+"de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html":[6,0,172],
+"de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#aa7aa93e00170313de251af4e562c422c":[6,0,172,1],
 "de/dae/classAreaTrigger__at__celestial__planetarium__enterance.html#ae1503a754a05a77991d9955a2fb74265":[6,0,172,0],
 "de/dae/shattered__halls_8h.html":[7,0,0,0,1,3,7,4,3,5],
 "de/dae/shattered__halls_8h.html#a2cd0f1a61f215e1bdcde5cbbd34da57e":[7,0,0,0,1,3,7,4,3,5,5],
@@ -241,13 +249,5 @@ var NAVTREEINDEX385 =
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898":[7,0,0,0,1,2,22,21,0,1],
 "de/dbe/NPCHandler_8cpp.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1":[7,0,0,0,1,2,22,21,0,3],
 "de/dbe/classspell__tsh__shadow__bolt.html":[6,0,4209],
-"de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[6,0,4209,0],
-"de/dbe/classspell__tsh__shadow__bolt.html#a8a2229c61fb2eaaac3b0694008ec3ae1":[6,0,4209,2],
-"de/dbe/classspell__tsh__shadow__bolt.html#aab0cdddfc5c8188ff246a04035b8b552":[6,0,4209,1],
-"de/dbf/BattlefieldScript_8h.html":[7,0,0,0,1,2,38,0,32],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089":[7,0,0,0,1,2,38,0,32,1],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007":[7,0,0,0,1,2,38,0,32,1,1],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235":[7,0,0,0,1,2,38,0,32,1,0],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac":[7,0,0,0,1,2,38,0,32,1,5],
-"de/dbf/BattlefieldScript_8h.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab":[7,0,0,0,1,2,38,0,32,1,3]
+"de/dbe/classspell__tsh__shadow__bolt.html#a5b17110b189b7134939aea9dbf2d724b":[6,0,4209,0]
 };

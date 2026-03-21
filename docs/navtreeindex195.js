@@ -1,5 +1,8 @@
 var NAVTREEINDEX195 =
 {
+"d7/d46/classAuraEffect.html#aa6f7dcbeef11bbb6af9fd5d2fb52af3c":[6,0,291,167],
+"d7/d46/classAuraEffect.html#aa95ea36217eb2e120bb22fa8fe9c82e2":[6,0,291,162],
+"d7/d46/classAuraEffect.html#aa978582e776583063a2a82af4c658c35":[6,0,291,153],
 "d7/d46/classAuraEffect.html#aab17b1ef9a6932ad13b43b0ed377e044":[6,0,291,52],
 "d7/d46/classAuraEffect.html#aab9391e1ba5774b3df74dee4f65f707a":[6,0,291,119],
 "d7/d46/classAuraEffect.html#aad290467c397f70ff3ca4c24961a05fb":[6,0,291,89],
@@ -206,12 +209,12 @@ var NAVTREEINDEX195 =
 "d7/d4d/classachievement__everything__counts.html":[6,0,50],
 "d7/d4d/classachievement__everything__counts.html#a81741a8df4d10b37314ec8ef09eb888b":[6,0,50,1],
 "d7/d4d/classachievement__everything__counts.html#af18e6b3128a9d722c98f33f7ec6430b3":[6,0,50,0],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[5,0,1,4,3],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html":[6,0,0,2,3],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[6,0,0,2,3,2],
-"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#a218da21da27931b95ab95a0f5186318a":[5,0,1,4,3,2],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[6,0,0,2,3,0],
+"d7/d4d/structAcore_1_1Crypto_1_1Constants.html#ab3ea6cdc55c7a1ba84db796cf18aaaf1":[5,0,1,4,3,0],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[6,0,0,2,3,1],
 "d7/d4d/structAcore_1_1Crypto_1_1Constants.html#acc400beaab2819b6e9799b3fbd9c3dde":[5,0,1,4,3,1],
 "d7/d4d/structFlightPathMovementGenerator_1_1TaxiNodeChangeInfo.html":[6,0,1074,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d4f/classspell__the__lich__king__summon__into__air.html#acd31e130e72cd93bee3544ecd2dc38ad":[6,0,4184,0],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[5,0,34,8,5],
 "d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html":[6,0,12,8,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[6,0,12,8,5,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[6,0,12,8,5,1],
-"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a2608e83a41fb44c8469d2b9196702627":[5,0,34,8,5,1]
+"d7/d50/classWorldPackets_1_1Item_1_1BuyItemInSlot.html#a1fdfad3b4dd000c0f6d6d60f30bdd981":[5,0,34,8,5,5]
 };

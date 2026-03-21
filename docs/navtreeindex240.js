@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html":[6,0,1865,0],
+"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a5642aab7afc50a7494c43ae7a130d571":[6,0,1865,0,2],
+"d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a56e035884d2ab94629c133efc1fc8feb":[6,0,1865,0,5],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a80051b1b2a663997304b1754a3f9ff25":[6,0,1865,0,1],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a8852f9196a6609f317b6113ac2eee9ee":[6,0,1865,0,0],
 "d9/d4e/structnpc__highlord__tirion__fordring__lh_1_1npc__highlord__tirion__fordringAI.html#a8d8d6f1b8dc65b28a8117426e3767762":[6,0,1865,0,6],
@@ -214,14 +217,14 @@ var NAVTREEINDEX240 =
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[6,0,0,112,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,1,124,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[6,0,0,112,4],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,112,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,112,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,112,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,112,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,124,1],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,112,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,124,6],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,112,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,112,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,124,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[6,0,3656],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d5c/structLoadedHeightData_1_1FloatHeightData.html#ab4f6ec9aefc2721bd216582d7a882aa3":[6,0,1455,0,3],
 "d9/d5d/structboss__najentus.html":[6,0,646],
 "d9/d5d/structboss__najentus.html#a25ac29a79cdcfb4ebc48de13d677f1d4":[6,0,646,5],
-"d9/d5d/structboss__najentus.html#a46e3aab64c21b24ac6457acd598679ec":[6,0,646,2],
-"d9/d5d/structboss__najentus.html#ab7e0bdb8954722c9080146a88a3c5aa2":[6,0,646,4],
-"d9/d5d/structboss__najentus.html#ac5d3d54a49524892fe844925d483c244":[6,0,646,0],
-"d9/d5d/structboss__najentus.html#ad55e1de3aa7a636b3d30b0d61a17dab9":[6,0,646,3]
+"d9/d5d/structboss__najentus.html#a46e3aab64c21b24ac6457acd598679ec":[6,0,646,2]
 };

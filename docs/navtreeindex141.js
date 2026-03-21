@@ -1,5 +1,9 @@
 var NAVTREEINDEX141 =
 {
+"d4/dd8/structAchievementCriteriaData.html#a4396188fb155aa4ae9de9639025b2c70":[6,0,113,5],
+"d4/dd8/structAchievementCriteriaData.html#a457346e2e32cb17e0a92ece57484fb33":[6,0,113,36],
+"d4/dd8/structAchievementCriteriaData.html#a47883c03fca4df9c2a3612ef9dd0d6cb":[6,0,113,11],
+"d4/dd8/structAchievementCriteriaData.html#a544dfbd51369b7ccc7187f8a5e993843":[6,0,113,9],
 "d4/dd8/structAchievementCriteriaData.html#a55c9583e535d66c4647c4dd03401956a":[6,0,113,48],
 "d4/dd8/structAchievementCriteriaData.html#a56f5213c63183a8da51cf796dc91d590":[6,0,113,35],
 "d4/dd8/structAchievementCriteriaData.html#a5b3aa64489e928ee6ac255f7ba48f410":[6,0,113,46],
@@ -174,8 +178,8 @@ var NAVTREEINDEX141 =
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1068,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,20],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1913,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1913,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1913,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX141 =
 "d4/dde/structboss__xt002.html#a0d33da735deae0fb5a22c4f7d6b19fa2":[6,0,798,9],
 "d4/dde/structboss__xt002.html#a19aeed1f8e5b3fb4ac34f752e5cb647d":[6,0,798,14],
 "d4/dde/structboss__xt002.html#a2882a78918439bbc63902cab0179049c":[6,0,798,12],
-"d4/dde/structboss__xt002.html#a31eae472c8da2f891e7d2c3424cf8075":[6,0,798,6],
-"d4/dde/structboss__xt002.html#a326eb111c3d94e1bb57e9fe6e1f38c57":[6,0,798,10],
-"d4/dde/structboss__xt002.html#a33d64c79af00c3e306fc0c63639d39fc":[6,0,798,3],
-"d4/dde/structboss__xt002.html#a3ff4223b4eecab9c8b193cd5f63d8f50":[6,0,798,8],
-"d4/dde/structboss__xt002.html#a4afb96f905e61c8b35941a8481e19882":[6,0,798,4]
+"d4/dde/structboss__xt002.html#a31eae472c8da2f891e7d2c3424cf8075":[6,0,798,6]
 };

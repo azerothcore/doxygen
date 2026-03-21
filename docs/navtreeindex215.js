@@ -1,5 +1,9 @@
 var NAVTREEINDEX215 =
 {
+"d8/d06/structnpc__blackhand__incarcerator_1_1npc__blackhand__incarceratorAI.html#ae9d92237c6327abd78ada9a306ee8a09":[6,0,1675,0,4],
+"d8/d06/structnpc__direbrew__minion.html":[6,0,1767],
+"d8/d06/structnpc__direbrew__minion.html#a21fb7a778e9025ca4185951460a96d08":[6,0,1767,2],
+"d8/d06/structnpc__direbrew__minion.html#a78d40e0f2a285b0b9c257f12876eabeb":[6,0,1767,1],
 "d8/d06/structnpc__direbrew__minion.html#aaac7d1b1a464ea7ff1ec18ace11d54b7":[6,0,1767,0],
 "d8/d06/structnpc__direbrew__minion.html#aeea9f455c014afa347ce0c3f106ebdb6":[6,0,1767,3],
 "d8/d08/AreaBoundary_8cpp.html":[7,0,0,0,1,2,26,0],
@@ -221,8 +225,8 @@ var NAVTREEINDEX215 =
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a4b5442d97f2bc8005cb20eefa6c13dc8":[6,0,12,22,0],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[5,0,34,22,1],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a5ef59243610de6d0a9db22ddb9cd7bdd":[6,0,12,22,1],
-"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,22,2],
 "d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[6,0,12,22,2],
+"d8/d12/classWorldPackets_1_1InvalidStringValueException.html#a8a8c86a63c34789ab7cce999455eb4bb":[5,0,34,22,2],
 "d8/d12/structboss__ayamiss.html":[6,0,402],
 "d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[6,0,402,1],
 "d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[6,0,402,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX215 =
 "d8/d12/structnpc__infra__green__bomber__generic_1_1npc__infra__green__bomber__genericAI.html#aed712ea3625971e059e2ecd158227287":[6,0,1911,0,0],
 "d8/d12/structnpc__webbed__creature_1_1npc__webbed__creatureAI.html":[6,0,2298,0],
 "d8/d12/structnpc__webbed__creature_1_1npc__webbed__creatureAI.html#a153d461124ec9266ffcac147a217f6d9":[6,0,2298,0,1],
-"d8/d12/structnpc__webbed__creature_1_1npc__webbed__creatureAI.html#a459eaadd7f0145b7a1a6caf99d1e8a5d":[6,0,2298,0,3],
-"d8/d12/structnpc__webbed__creature_1_1npc__webbed__creatureAI.html#a6b7507eda84c29d6bd557b1b424ee10a":[6,0,2298,0,0],
-"d8/d12/structnpc__webbed__creature_1_1npc__webbed__creatureAI.html#ac52ad6512bcaee35932f856abdac80d4":[6,0,2298,0,2],
-"d8/d14/classAllianceChannelMgr.html":[6,0,153],
-"d8/d14/classAllianceChannelMgr.html#a7d90a6a0d987ac461668642c9ecfb619":[6,0,153,0]
+"d8/d12/structnpc__webbed__creature_1_1npc__webbed__creatureAI.html#a459eaadd7f0145b7a1a6caf99d1e8a5d":[6,0,2298,0,3]
 };

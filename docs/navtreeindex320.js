@@ -1,5 +1,9 @@
 var NAVTREEINDEX320 =
 {
+"dc/d77/cs__ticket_8cpp.html#ad71463f4442d2e022a92404a4d9dec76":[7,0,0,0,1,3,0,46,1],
+"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html":[6,0,2213,0],
+"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#a751e37388df10abf4bf9df5d3f373fa3":[6,0,2213,0,0],
+"dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#a7f60ea2596fa4af2209333696dbe00e0":[6,0,2213,0,1],
 "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#ade038312363f976b34868ed2cbebb58d":[6,0,2213,0,4],
 "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#aec1d16cdcb7d86d7de4de10ca34f491d":[6,0,2213,0,3],
 "dc/d77/structnpc__toc__pet__hunter_1_1npc__toc__pet__hunterAI.html#aefaa41a92000d8915853988ce3fd5bc4":[6,0,2213,0,2],
@@ -211,16 +215,16 @@ var NAVTREEINDEX320 =
 "dc/d83/QuestDef_8cpp.html":[7,0,0,0,1,2,36,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[5,0,1,91],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html":[6,0,0,79],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[5,0,1,91,2],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a00df56adb5c6459c59b5ae4e0b85f0d3":[6,0,0,79,2],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[5,0,1,91,1],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#a366ef1710823d1e52eb2df650e60562f":[6,0,0,79,1],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[6,0,0,79,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#a92fc9a7ac2995ad962173ae3a794e825":[5,0,1,91,4],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[6,0,0,79,0],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aa8ede7ca83cc53cc5b4a8a057f6e8477":[5,0,1,91,0],
-"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[5,0,1,91,3],
+"dc/d83/classAcore_1_1NearestGameObjectCheck.html#aeaec0e0f53cb870e1f0a93f8b05b74bc":[6,0,0,79,3],
 "dc/d83/classspell__item__oracle__ablutions.html":[6,0,3424],
 "dc/d83/classspell__item__oracle__ablutions.html#a64c8a9156181a78dfcb413eedc47f0ed":[6,0,3424,0],
 "dc/d83/classspell__item__oracle__ablutions.html#af8f8b5901a068bef3e2663809180b3e2":[6,0,3424,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX320 =
 "dc/d85/classboss__prince__taldaram__icc.html#a2a8c89206ab72afc68260f41a246da3b":[6,0,673,2],
 "dc/d85/classboss__prince__taldaram__icc.html#abe14f754e1daf597aa2b7d401f337c8d":[6,0,673,1],
 "dc/d86/UpdateData_8h.html":[7,0,0,0,1,2,16,5,0,1],
-"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbad":[7,0,0,0,1,2,16,5,0,1,2],
-"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef":[7,0,0,0,1,2,16,5,0,1,2,0],
-"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20":[7,0,0,0,1,2,16,5,0,1,2,2],
-"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5":[7,0,0,0,1,2,16,5,0,1,2,5],
-"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089":[7,0,0,0,1,2,16,5,0,1,2,4]
+"dc/d86/UpdateData_8h.html#aa0f2952f4b375c0e91f5276ff267cbad":[7,0,0,0,1,2,16,5,0,1,2]
 };

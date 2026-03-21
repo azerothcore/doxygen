@@ -1,5 +1,8 @@
 var NAVTREEINDEX198 =
 {
+"d7/d72/classspell__warl__health__funnel.html#a571b1b19f4d5b13e54288aa89ab1e9b6":[6,0,4273,3],
+"d7/d72/classspell__warl__health__funnel.html#a716a483282946f840ac15d73c6e21a94":[6,0,4273,1],
+"d7/d72/classspell__warl__health__funnel.html#a99eb27ead6f5c8c8f569626600f2daf9":[6,0,4273,4],
 "d7/d72/classspell__warl__health__funnel.html#ad72816bc73bdb1cf578f3c4599ec1682":[6,0,4273,2],
 "d7/d73/classspell__summon__ragnaros.html":[6,0,4123],
 "d7/d73/classspell__summon__ragnaros.html#a074b9e23de0a9b24776c7e361791c6ff":[6,0,4123,1],
@@ -49,14 +52,14 @@ var NAVTREEINDEX198 =
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html":[5,0,1,69],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[6,0,0,57,3],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a06f8a6b33e26cdc17508198a9ee08f87":[5,0,1,69,3],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[6,0,0,57,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,1,69,1],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[6,0,0,57,1],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[6,0,0,57,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,69,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[6,0,0,57,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,1,69,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,69,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,57,5],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,69,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[6,0,0,57,0],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,1,69,0],
 "d7/d78/classnpc__plucky.html":[6,0,2065],
@@ -93,8 +96,8 @@ var NAVTREEINDEX198 =
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,12,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,12,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,12,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca1a7799016b55afde2db1b879d1a71ad9":[7,0,0,0,1,3,2,10,1,4,9],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca537c5df46213267d67cdc8e34a0029cc":[7,0,0,0,1,3,2,10,1,4,2],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca5a0d904d66dec096d1d013333b118f88":[7,0,0,0,1,3,2,10,1,4,8],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,2,10,1,4,0],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca87e97c72d7c0b8816b9ff97ee3f715d3":[7,0,0,0,1,3,2,10,1,4,4],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca8872edea8a2ac8c4e895c975482b9413":[7,0,0,0,1,3,2,10,1,4,7],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298cac4c6a55dc540f5e9df4db71c3fd594d7":[7,0,0,0,1,3,2,10,1,4,5]
+"d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110":[7,0,0,0,1,3,2,10,1,4,0]
 };
