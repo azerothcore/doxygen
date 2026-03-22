@@ -1,5 +1,12 @@
 var NAVTREEINDEX327 =
 {
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a0d335438c9186ebcca3c79be7156018f":[7,0,0,0,1,3,2,17,20],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a0e7af4a9a0f1dcec20ae3d284f9721c5":[7,0,0,0,1,3,2,17,133],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a101b34eda7ee80883e3c85448960a871":[7,0,0,0,1,3,2,17,84],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a10351afe91f93fd858a2a105bb645a27":[7,0,0,0,1,3,2,17,86],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a1093517f6bb08d3a1c9e52cf36b6a054":[7,0,0,0,1,3,2,17,109],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a1121d979aa878b844e93b718564dda30":[7,0,0,0,1,3,2,17,77],
+"dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a182dae5a06e199c8e00f756011206a51":[7,0,0,0,1,3,2,17,91],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a185a86af6f910845f0f833704f0101af":[7,0,0,0,1,3,2,17,125],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a191e88b101ff3e6db86a2b5b93feb9a5":[7,0,0,0,1,3,2,17,78],
 "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a1b5f2f746cd333d57bd8f249fef4dd19":[7,0,0,0,1,3,2,17,13],
@@ -136,11 +143,11 @@ var NAVTREEINDEX327 =
 "dc/ddc/firework__show__ThunderBluff_8h.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1":[7,0,0,0,1,3,3,0,10,0],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ac35fd5df42f24906b21b6887860b96a5":[7,0,0,0,1,3,3,0,10,1],
 "dc/ddc/firework__show__ThunderBluff_8h.html#ae9cf9fa234ec7db55622bede66c21f78":[7,0,0,0,1,3,3,0,10,2],
-"dc/ddd/classspell__rimefang__icy__blast.html":[6,0,3965],
-"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[6,0,3965,2],
-"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[6,0,3965,3],
-"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[6,0,3965,1],
-"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[6,0,3965,0],
+"dc/ddd/classspell__rimefang__icy__blast.html":[6,0,3966],
+"dc/ddd/classspell__rimefang__icy__blast.html#a0b79f5ee23e53c18277712f1b26e13f3":[6,0,3966,2],
+"dc/ddd/classspell__rimefang__icy__blast.html#abe0b9290ddf9beaa60a583840d90d914":[6,0,3966,3],
+"dc/ddd/classspell__rimefang__icy__blast.html#aeeca4381273f382c3abb68f34d229213":[6,0,3966,1],
+"dc/ddd/classspell__rimefang__icy__blast.html#af6370594be48d35a12009fa10a38d91d":[6,0,3966,0],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html":[7,0,0,0,1,3,7,0,0,2],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a21f33e61c0482aa12f745f4ccbea2b46":[7,0,0,0,1,3,7,0,0,2,4],
 "dc/dde/boss__shirrak__the__dead__watcher_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,7,0,0,2,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX327 =
 "dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a122677f40c388416fc6533f1e95ee560":[7,0,0,0,1,3,3,1,43,2],
 "dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a13406c6b7df92db99d8d2f4ae956ab3b":[7,0,0,0,1,3,3,1,43,7],
 "dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a1b594e8564f9eb50f05f6105f5655627":[7,0,0,0,1,3,3,1,43,1],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a22c846995b2cfeb816c4d25d4d4dd165":[7,0,0,0,1,3,3,1,43,0],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a2954b452a8b4f4afc1346bb37adabe4b":[7,0,0,0,1,3,3,1,43,15],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a2cc1b2bc167fac78f4dd69b48829495a":[7,0,0,0,1,3,3,1,43,14],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a488cc7f002d880cfbbde95ac80ff5243":[7,0,0,0,1,3,3,1,43,13],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a4ab819de7c4f6c6008401ca3eaf44d04":[7,0,0,0,1,3,3,1,43,8],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a62e530dbbf3f050d534803de757aa208":[7,0,0,0,1,3,3,1,43,9],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a7668631ecf9569dcc22d893d2b5525c3":[7,0,0,0,1,3,3,1,43,12],
-"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a87d358aacdb8d87ad2215e4adb5283db":[7,0,0,0,1,3,3,1,43,11]
+"dc/ddf/brewfest_8cpp.html#aab2e4119dcd498416f0a3220e243e486a22c846995b2cfeb816c4d25d4d4dd165":[7,0,0,0,1,3,3,1,43,0]
 };

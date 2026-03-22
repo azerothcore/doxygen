@@ -1,5 +1,12 @@
 var NAVTREEINDEX347 =
 {
+"dd/dc8/classspell__warl__demonic__knowledge.html#a525009acb345d6b0a9857c30cfce2230":[6,0,4262,1],
+"dd/dc8/classspell__warl__demonic__knowledge.html#a5627212e48a3044a9a7480851787a839":[6,0,4262,3],
+"dd/dc9/GitRevision_8cpp.html":[7,0,0,0,0,22],
+"dd/dc9/GitRevision_8cpp.html#a498cc8d79612cf645e7afc2ceb4174f3":[7,0,0,0,0,22,0],
+"dd/dc9/GitRevision_8cpp.html#af7cd76a18bc19a0ec34ac7693e406971":[7,0,0,0,0,22,1],
+"dd/dc9/classboss__festergut.html":[6,0,479],
+"dd/dc9/classboss__festergut.html#a07ac6be688118cc57e6fdc1d8e961953":[6,0,479,1],
 "dd/dc9/classboss__festergut.html#ab2624e1908bb376f1b195a88e4b9b146":[6,0,479,2],
 "dd/dca/boss__moroes_8cpp.html":[7,0,0,0,1,3,2,4,4],
 "dd/dca/boss__moroes_8cpp.html#a23fefc79344f5bb5f9927175baf200b6":[7,0,0,0,1,3,2,4,4,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX347 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aad94f0716d8254dff5cf25c8365f7d0e":[7,0,0,0,1,2,38,0,77,1,91],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadd48e0b0bf28a62bf7c1e4212ba5577":[7,0,0,0,1,2,38,0,77,1,61],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aadec086d3fcbab101abaf7b06e0f5a32":[7,0,0,0,1,2,38,0,77,1,96],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[7,0,0,0,1,2,38,0,77,1,140],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab07d4ed0b727b51e4af832dcf4dc0cda":[7,0,0,0,1,2,38,0,77,1,166],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab0b2918f61bea6b069f7813919f4dbf2":[7,0,0,0,1,2,38,0,77,1,64],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4793820f67c5e5839eb7a0110cd6684":[7,0,0,0,1,2,38,0,77,1,38],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab4bf1cfaeec7a2b9f9aa56f6d372b507":[7,0,0,0,1,2,38,0,77,1,11],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab538dcce965c1bd3ccc225865220111c":[7,0,0,0,1,2,38,0,77,1,8],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab623a201402aebde784e83fbbaf21753":[7,0,0,0,1,2,38,0,77,1,109],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357ab70d80d23c1fe1e07425d9624bfef614":[7,0,0,0,1,2,38,0,77,1,12]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aae5e1790b3208fed60adf9e23496eead":[7,0,0,0,1,2,38,0,77,1,140]
 };

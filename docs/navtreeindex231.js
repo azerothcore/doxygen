@@ -1,5 +1,11 @@
 var NAVTREEINDEX231 =
 {
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a1db9eee6c0d33c1cf8b8107810a10ab0":[6,0,1594,0,0,3],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a2fcb5b116ac91e1ae11dfb820a2c8e58":[6,0,1594,0,0,1],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a5c1cf14a3bf0dfd786daa93ac0a8b043":[6,0,1594,0,0,0],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ac42a71db175efdf9b2ab4c2bbb899428a77051c0b97f18ea906fd85d954ec6184":[6,0,1594,0,0,2],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#ad446b9b5bbd6f27ac9d3c71d0fe48518":[6,0,1594,0,3],
+"d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#adf1d8777507658f264c951c88623ce9e":[6,0,1594,0,9],
 "d8/dd2/structnpc__acherus__necromancer_1_1npc__acherus__necromancerAI.html#af8d7f13d1b58a01311637d004bf14f2c":[6,0,1594,0,7],
 "d8/dd3/BattlegroundSpamProtect_8cpp.html":[7,0,0,0,1,2,8,16],
 "d8/dd3/UpdateFieldFlags_8h.html":[7,0,0,0,1,2,16,5,0,3],
@@ -23,10 +29,10 @@ var NAVTREEINDEX231 =
 "d8/dd4/classspell__grobbulus__slime__spray.html#a87b57541a36d711ecbca6f485915c9ab":[6,0,3151,1],
 "d8/dd4/classspell__grobbulus__slime__spray.html#aa6302d9372bf6ea514d49d8c8e280781":[6,0,3151,0],
 "d8/dd4/classspell__grobbulus__slime__spray.html#ad7290a8d786f64fdf7b5b04a7770ff6d":[6,0,3151,2],
-"d8/dd4/classspell__pal__sacred__shield.html":[6,0,3745],
-"d8/dd4/classspell__pal__sacred__shield.html#a018d2a8a106a621730fcaa1d500df7b1":[6,0,3745,2],
-"d8/dd4/classspell__pal__sacred__shield.html#a8d7e840994ba5034a249171dbfc016a6":[6,0,3745,1],
-"d8/dd4/classspell__pal__sacred__shield.html#acc2c4cea16dfa30c49387ac166cef560":[6,0,3745,0],
+"d8/dd4/classspell__pal__sacred__shield.html":[6,0,3746],
+"d8/dd4/classspell__pal__sacred__shield.html#a018d2a8a106a621730fcaa1d500df7b1":[6,0,3746,2],
+"d8/dd4/classspell__pal__sacred__shield.html#a8d7e840994ba5034a249171dbfc016a6":[6,0,3746,1],
+"d8/dd4/classspell__pal__sacred__shield.html#acc2c4cea16dfa30c49387ac166cef560":[6,0,3746,0],
 "d8/dd4/structnpc__necropolis.html":[6,0,2003],
 "d8/dd4/structnpc__necropolis.html#a6535d6dbdc5a6b3c715ca9ec470fb258":[6,0,2003,0],
 "d8/dd4/structnpc__necropolis.html#ae068da7f6b1de5d06568b672d9f46f18":[6,0,2003,1],
@@ -243,11 +249,5 @@ var NAVTREEINDEX231 =
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a345d1f196fc525b7e87af7a2de032880":[7,0,0,0,1,3,5,24,21,2],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a50a07d5a03d9101afeda66be27abf348":[7,0,0,0,1,3,5,24,21,0],
 "d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7a9ae0ef67fad278c0f119dd3ceb49e475":[7,0,0,0,1,3,5,24,21,7],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd":[7,0,0,0,1,3,5,24,21,5],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7abcb555fac266c1f381a94d799cf7aac9":[7,0,0,0,1,3,5,24,21,6],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ac069519bd3953b5092adc50929c5ff1b":[7,0,0,0,1,3,5,24,21,4],
-"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ae1667169ac21f5fe1945c8a8bd65b6c3":[7,0,0,0,1,3,5,24,21,1],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47":[7,0,0,0,1,3,5,24,23],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a0545d95ae8820ca631065269524b61cb":[7,0,0,0,1,3,5,24,23,10],
-"d8/dd9/zone__wintergrasp_8cpp.html#a7b242f799a19891d37b493147655ef47a09658e9d78fdc4d1dcc3f62866442406":[7,0,0,0,1,3,5,24,23,5]
+"d8/dd9/zone__wintergrasp_8cpp.html#a64c3f8a647667a03f55f65fdd6303da7ab93cc4dc480545cb812fff456281cbfd":[7,0,0,0,1,3,5,24,21,5]
 };

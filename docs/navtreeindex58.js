@@ -1,7 +1,5 @@
 var NAVTREEINDEX58 =
 {
-"d2/d48/classChannel.html#a35849fec3a2108f30f6f21bbfc35f7bd":[6,0,862,20],
-"d2/d48/classChannel.html#a36b3374b96058be47bea0d796aadc5fd":[6,0,862,66],
 "d2/d48/classChannel.html#a44d672f44a53313a939caf6456115dce":[6,0,862,27],
 "d2/d48/classChannel.html#a454611c49803610f4103ef5b6d9b776b":[6,0,862,94],
 "d2/d48/classChannel.html#a46079102573a30071cc5ad1e2df9f0ab":[6,0,862,89],
@@ -116,8 +114,8 @@ var NAVTREEINDEX58 =
 "d2/d48/structFactionState.html#ab8692e4433db81f9d3e0f96f8f930a8f":[6,0,1053,3],
 "d2/d48/structFactionState.html#abf9c2701e766951e5a211bf6bf85b175":[6,0,1053,0],
 "d2/d48/structFactionState.html#ae87da6cada559e11a9607e194013d671":[6,0,1053,6],
-"d2/d49/structAcore_1_1find__type__if.html":[5,0,1,62],
 "d2/d49/structAcore_1_1find__type__if.html":[6,0,0,50],
+"d2/d49/structAcore_1_1find__type__if.html":[5,0,1,62],
 "d2/d4a/classinstance__zulaman.html":[6,0,1380],
 "d2/d4a/classinstance__zulaman.html#a2144a517b22c5d6e7f6cc31d344669fc":[6,0,1380,2],
 "d2/d4a/classinstance__zulaman.html#a5a81dddc07dea599e2a197737206427b":[6,0,1380,1],
@@ -249,5 +247,7 @@ var NAVTREEINDEX58 =
 "d2/d4b/classPlayer.html#a19ea15940b7b8e6ed7480b3dc3702bee":[6,0,2420,648],
 "d2/d4b/classPlayer.html#a19ea4193a73c66fbe75230e1fb7bebf4":[6,0,2420,527],
 "d2/d4b/classPlayer.html#a1a18465f17f2500b4e6b5f98b714c313":[6,0,2420,538],
-"d2/d4b/classPlayer.html#a1a22dcb91745d5cdfd20afe2800b1916":[6,0,2420,1083]
+"d2/d4b/classPlayer.html#a1a22dcb91745d5cdfd20afe2800b1916":[6,0,2420,1083],
+"d2/d4b/classPlayer.html#a1a66666fd7d58e8b9f56e8ff434bbd5c":[6,0,2420,554],
+"d2/d4b/classPlayer.html#a1b1a6b8747589aae62b420b7f5c0f384":[6,0,2420,357]
 };

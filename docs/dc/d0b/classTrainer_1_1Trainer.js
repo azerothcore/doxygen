@@ -2,7 +2,7 @@ var classTrainer_1_1Trainer =
 [
     [ "Trainer", "dc/d0b/classTrainer_1_1Trainer.html#a8851a0e9cddd2d698dfb59293e7a51ec", null ],
     [ "AddGreetingLocale", "dc/d0b/classTrainer_1_1Trainer.html#a8b3b7849084ae4ded822b9e2124cf93d", null ],
-    [ "CanTeachSpell", "dc/d0b/classTrainer_1_1Trainer.html#aa3ccf5cae6274d432e7ceeb3f5d6533f", null ],
+    [ "CanTeachSpell", "dc/d0b/classTrainer_1_1Trainer.html#a5530f841bdf7e7135bc56b686b555815", null ],
     [ "GetGreeting", "dc/d0b/classTrainer_1_1Trainer.html#ab8a22da42d8087d0f4cfe4dc338d1c20", null ],
     [ "GetSpell", "dc/d0b/classTrainer_1_1Trainer.html#a500cc19073a49d772d4cb0645415aedc", null ],
     [ "GetSpells", "dc/d0b/classTrainer_1_1Trainer.html#ab489dbe1c41096ef281e42c594bd874c", null ],

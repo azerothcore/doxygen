@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa7ab11d72868a3375d471cec33a023fb2":[7,0,0,0,1,3,10,17,2,30],
+"d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa7d37e7a3a18515346a8f508c3cf9e3fe":[7,0,0,0,1,3,10,17,2,19],
 "d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa83f4ae02f7bf60384f8a2f43f121d471":[7,0,0,0,1,3,10,17,2,9],
 "d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa8e7123d2b1cbab1b8490eaa7acf5cab8":[7,0,0,0,1,3,10,17,2,18],
 "d6/d36/scourge__invasion_8h.html#ae7873ccf201443d53796a2237da26e1fa90b0733ae59069bdef5b43df61b7762b":[7,0,0,0,1,3,10,17,2,39],
@@ -47,11 +49,11 @@ var NAVTREEINDEX172 =
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a73c15622fa008ed706483c64498ea6f3":[7,0,0,0,1,3,10,17,5,0],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4a8b7f6f10fedd10ba4293d6cd99fcb6fc":[7,0,0,0,1,3,10,17,5,1],
 "d6/d36/scourge__invasion_8h.html#af2c6d5e148b9861a11c784e5a9bc46d4aef65a19c1de21b60343a771d6036ed66":[7,0,0,0,1,3,10,17,5,2],
-"d6/d36/structWardenModuleUse.html":[6,0,4581],
-"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[6,0,4581,0],
-"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[6,0,4581,3],
-"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[6,0,4581,1],
-"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[6,0,4581,2],
+"d6/d36/structWardenModuleUse.html":[6,0,4582],
+"d6/d36/structWardenModuleUse.html#a6042a93c52d18e3a74d3cd46ac3d940f":[6,0,4582,0],
+"d6/d36/structWardenModuleUse.html#a6912224c1ef6fd117a5ed02d394254d9":[6,0,4582,3],
+"d6/d36/structWardenModuleUse.html#aa2e1c1cee71fc1eb887511c655de0516":[6,0,4582,1],
+"d6/d36/structWardenModuleUse.html#aba0f236c39186022816bd86f8e8e9093":[6,0,4582,2],
 "d6/d38/classAchievementGlobalMgr.html":[6,0,118],
 "d6/d38/classAchievementGlobalMgr.html#a01ce43650f0e13322d74da5da695d870":[6,0,118,26],
 "d6/d38/classAchievementGlobalMgr.html#a05890722918305e7142c6d717a37c868":[6,0,118,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d39/classWorld.html#a56821b6ec5b647768bf1a5176e8c9302":[4,2,11,9],
 "d6/d39/classWorld.html#a579f0cd72f3f4aa1d7956cb30b313faf":[4,2,11,95],
 "d6/d39/classWorld.html#a5844e926808161034ab8e94ddcd113ee":[4,2,11,8],
-"d6/d39/classWorld.html#a58f57acf4b9a133ea79a4bdfed6b93c4":[4,2,11,40],
-"d6/d39/classWorld.html#a5e74823cfe51ef5e895808ee80040b7b":[4,2,11,52],
-"d6/d39/classWorld.html#a5ea5935ae76ef8a32b16c8afff44f92b":[4,2,11,91]
+"d6/d39/classWorld.html#a58f57acf4b9a133ea79a4bdfed6b93c4":[4,2,11,40]
 };

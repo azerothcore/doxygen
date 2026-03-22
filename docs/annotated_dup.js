@@ -3905,6 +3905,7 @@ var annotated_dup =
     [ "spell_item_fel_mana_potion", "d1/d97/classspell__item__fel__mana__potion.html", "d1/d97/classspell__item__fel__mana__potion" ],
     [ "spell_item_fetch_ball", "df/da0/classspell__item__fetch__ball.html", "df/da0/classspell__item__fetch__ball" ],
     [ "spell_item_flask_of_the_north", "db/d32/classspell__item__flask__of__the__north.html", "db/d32/classspell__item__flask__of__the__north" ],
+    [ "spell_item_flexweave_underlay", "d6/dd9/classspell__item__flexweave__underlay.html", "d6/dd9/classspell__item__flexweave__underlay" ],
     [ "spell_item_freeze_rookery_egg", "d0/d69/classspell__item__freeze__rookery__egg.html", "d0/d69/classspell__item__freeze__rookery__egg" ],
     [ "spell_item_frozen_shadoweave", "d3/dfc/classspell__item__frozen__shadoweave.html", "d3/dfc/classspell__item__frozen__shadoweave" ],
     [ "spell_item_gift_of_the_harvester", "d5/df0/classspell__item__gift__of__the__harvester.html", "d5/df0/classspell__item__gift__of__the__harvester" ],

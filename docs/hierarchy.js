@@ -1240,6 +1240,7 @@ var hierarchy =
         [ "spell_item_feast", "d0/df3/classspell__item__feast.html", null ],
         [ "spell_item_fetch_ball", "df/da0/classspell__item__fetch__ball.html", null ],
         [ "spell_item_flask_of_the_north", "db/d32/classspell__item__flask__of__the__north.html", null ],
+        [ "spell_item_flexweave_underlay", "d6/dd9/classspell__item__flexweave__underlay.html", null ],
         [ "spell_item_freeze_rookery_egg", "d0/d69/classspell__item__freeze__rookery__egg.html", null ],
         [ "spell_item_gift_of_the_harvester", "d5/df0/classspell__item__gift__of__the__harvester.html", null ],
         [ "spell_item_gnomish_death_ray", "df/d32/classspell__item__gnomish__death__ray.html", null ],

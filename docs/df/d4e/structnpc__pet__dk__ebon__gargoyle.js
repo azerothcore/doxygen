@@ -2,8 +2,10 @@ var structnpc__pet__dk__ebon__gargoyle =
 [
     [ "npc_pet_dk_ebon_gargoyle", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
     [ "AttackStart", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#ae5408b18b589fb483095450bf1338b2f", null ],
+    [ "EnterEvadeMode", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a73e70d9deaa647edd2904dae180c9cef", null ],
     [ "FlyAway", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
     [ "InitializeAI", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a05e7d29c738dcc280603ab12a82b819b", null ],
+    [ "JustExitedCombat", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a980844a2d503761efe7e7cacef35bef1", null ],
     [ "MovementInform", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a33e0260425cf179daae147bfc1a570b4", null ],
     [ "MySelectNextTarget", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#af86f48070b8c329c6a6a3f43d0156273", null ],
     [ "RemoveTargetAura", "df/d4e/structnpc__pet__dk__ebon__gargoyle.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],

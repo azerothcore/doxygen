@@ -1,5 +1,11 @@
 var NAVTREEINDEX253 =
 {
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[6,0,1349,0,4],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#ae5cd5cf84e8db976f3006dc52bb5fab4":[6,0,1349,0,6],
+"d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#aed9ab9542badb0296ca0660c39541cb8":[6,0,1349,0,2],
+"d9/df6/classat__thaddius__entrance.html":[6,0,251],
+"d9/df6/classat__thaddius__entrance.html#acc869cade2b48ceb782d78aa7df6f246":[6,0,251,1],
+"d9/df6/classat__thaddius__entrance.html#ad81a60cac337baad82ea526de1d151d1":[6,0,251,0],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html":[6,0,2861],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a029820fbfc34af4d0ccb825a9f9d2b0d":[6,0,2861,2],
 "d9/df6/classspell__dreamwalker__nightmare__cloud__aura.html#a3a5fa4814a7724db0ba7be5c5158798b":[6,0,2861,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX253 =
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a1e9001eaadecf3fe2cfb2e9ce37735ff":[7,0,0,0,1,3,5,9,2,16,7,44],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a217ee559391eb53a26f469beef613d3a":[7,0,0,0,1,3,5,9,2,16,7,29],
 "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a21c09636aa6badefb39ecf773aab413e":[7,0,0,0,1,3,5,9,2,16,7,43],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a21dbaac8718fc7a924baabe8526ea5d2":[7,0,0,0,1,3,5,9,2,16,7,6],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a2c62b6e2216886988d69a472f943d34d":[7,0,0,0,1,3,5,9,2,16,7,49],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a2e581069f6343f9557e664619dcdcbf5":[7,0,0,0,1,3,5,9,2,16,7,37],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a319c58d49d912ff832705b2688179ded":[7,0,0,0,1,3,5,9,2,16,7,16],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a3af6170de8bbc07660c821be72c668e0":[7,0,0,0,1,3,5,9,2,16,7,45],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a43a870e0638f36d495cd0f2dbeee07d2":[7,0,0,0,1,3,5,9,2,16,7,14],
-"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a45edaf308d0e7eae0ae4168db7f19849":[7,0,0,0,1,3,5,9,2,16,7,41]
+"d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a21dbaac8718fc7a924baabe8526ea5d2":[7,0,0,0,1,3,5,9,2,16,7,6]
 };

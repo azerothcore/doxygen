@@ -1,6 +1,5 @@
 var NAVTREEINDEX133 =
 {
-"d4/d82/classspell__blight__worm__ingest.html#a113216b272d0386f248a75bfcf30c6a3":[6,0,2694,1],
 "d4/d82/classspell__blight__worm__ingest.html#a5746fd6257dd10be58a61e0e8a2403be":[6,0,2694,3],
 "d4/d82/classspell__blight__worm__ingest.html#abbf65c0cabb06141a5856210f5ce5ab8":[6,0,2694,2],
 "d4/d82/classspell__blight__worm__ingest.html#acd4373ab762d00d262984c36190d6f93":[6,0,2694,0],
@@ -65,12 +64,12 @@ var NAVTREEINDEX133 =
 "d4/d89/classnpc__toc__dk.html":[6,0,2207],
 "d4/d89/classnpc__toc__dk.html#ac5252f0f7ab993c8187aff17dac7a795":[6,0,2207,2],
 "d4/d89/classnpc__toc__dk.html#ac8b2c11f64f9cc6f4be91be1e3184b8a":[6,0,2207,1],
-"d4/d89/classspell__item__necrotic__touch.html":[6,0,3418],
-"d4/d89/classspell__item__necrotic__touch.html#a1d45afc30c8dd6de0a01285778117033":[6,0,3418,1],
-"d4/d89/classspell__item__necrotic__touch.html#a2e83dd62bfcbe23e38b62e8299a52ee5":[6,0,3418,0],
-"d4/d89/classspell__item__necrotic__touch.html#a30e57e0b04e16a4a232c6a18801fafa0":[6,0,3418,4],
-"d4/d89/classspell__item__necrotic__touch.html#a37700b8597a3945d30700c5e8b60404a":[6,0,3418,3],
-"d4/d89/classspell__item__necrotic__touch.html#ab468329029c4bc3c16475585b3451615":[6,0,3418,2],
+"d4/d89/classspell__item__necrotic__touch.html":[6,0,3419],
+"d4/d89/classspell__item__necrotic__touch.html#a1d45afc30c8dd6de0a01285778117033":[6,0,3419,1],
+"d4/d89/classspell__item__necrotic__touch.html#a2e83dd62bfcbe23e38b62e8299a52ee5":[6,0,3419,0],
+"d4/d89/classspell__item__necrotic__touch.html#a30e57e0b04e16a4a232c6a18801fafa0":[6,0,3419,4],
+"d4/d89/classspell__item__necrotic__touch.html#a37700b8597a3945d30700c5e8b60404a":[6,0,3419,3],
+"d4/d89/classspell__item__necrotic__touch.html#ab468329029c4bc3c16475585b3451615":[6,0,3419,2],
 "d4/d8a/classBigNumber.html":[6,0,369],
 "d4/d8a/classBigNumber.html#a01648adec08358efb8d5c2a4c9bf4d18":[6,0,369,31],
 "d4/d8a/classBigNumber.html#a09c0956ffbc4413200140793ff353051":[6,0,369,36],
@@ -132,8 +131,8 @@ var NAVTREEINDEX133 =
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,868],
@@ -249,5 +248,6 @@ var NAVTREEINDEX133 =
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab6c1e6b5787916970155d69a771a3a5a":[7,0,0,0,1,3,7,1,6,8,2],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2ceacf2dd73998484b4e3cb3d35f89c":[7,0,0,0,1,3,7,1,6,8,10],
 "d4/d8f/boss__shade__of__akama_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aeabe40685ff637651067fdacb682eb12":[7,0,0,0,1,3,7,1,6,8,0],
-"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,6,10]
+"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,7,1,6,10],
+"d4/d8f/boss__shade__of__akama_8cpp.html#a5bd342133be8c2137b831460acc9298ca1be268c00440d3f2aadfe79c39e372a3":[7,0,0,0,1,3,7,1,6,10,10]
 };

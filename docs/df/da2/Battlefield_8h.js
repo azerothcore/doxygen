@@ -22,6 +22,11 @@ var Battlefield_8h =
       [ "BF_ALLIANCE_WINS", "df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
       [ "BF_START", "df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
     ] ],
+    [ "BattlefieldTimerGroups", "df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005a", [
+      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
+      [ "BATTLEFIELD_TIMER_GROUP_WAR", "df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
+      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "df/da2/Battlefield_8h.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
+    ] ],
     [ "BattlefieldTypes", "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2d", [
       [ "BATTLEFIELD_WG", "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
       [ "BATTLEFIELD_TB", "df/da2/Battlefield_8h.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]

@@ -1,6 +1,5 @@
 var NAVTREEINDEX141 =
 {
-"d4/dd8/structAchievementCriteriaData.html#a4396188fb155aa4ae9de9639025b2c70":[6,0,113,5],
 "d4/dd8/structAchievementCriteriaData.html#a457346e2e32cb17e0a92ece57484fb33":[6,0,113,36],
 "d4/dd8/structAchievementCriteriaData.html#a47883c03fca4df9c2a3612ef9dd0d6cb":[6,0,113,11],
 "d4/dd8/structAchievementCriteriaData.html#a544dfbd51369b7ccc7187f8a5e993843":[6,0,113,9],
@@ -176,10 +175,10 @@ var NAVTREEINDEX141 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1068,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1068,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1068,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,20],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1913,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1913,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1913,0,0],
@@ -236,11 +235,11 @@ var NAVTREEINDEX141 =
 "d4/dde/classspell__dk__rune__tap__party.html#a4ce2790448bd39c19daf8caae7ef5a9d":[6,0,2835,1],
 "d4/dde/classspell__dk__rune__tap__party.html#abb6ffb41731b05b868f82498b373d8b9":[6,0,2835,0],
 "d4/dde/classspell__dk__rune__tap__party.html#aeefc7910c2960dbf3a49da6ed3c15523":[6,0,2835,2],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html":[6,0,4072],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#a91ee1b654a3a26e027407635a45b80b3":[6,0,4072,1],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#aa03bd8b92debda29f0b236fdbef73f16":[6,0,4072,0],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ab06a732203303d5533bdc4b217640d2d":[6,0,4072,3],
-"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ad2796a924fbe36dc9cd1c9de60eb9b16":[6,0,4072,2],
+"d4/dde/classspell__sha__t10__restoration__4p__bonus.html":[6,0,4073],
+"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#a91ee1b654a3a26e027407635a45b80b3":[6,0,4073,1],
+"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#aa03bd8b92debda29f0b236fdbef73f16":[6,0,4073,0],
+"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ab06a732203303d5533bdc4b217640d2d":[6,0,4073,3],
+"d4/dde/classspell__sha__t10__restoration__4p__bonus.html#ad2796a924fbe36dc9cd1c9de60eb9b16":[6,0,4073,2],
 "d4/dde/structLinkValidator.html":[6,0,1441],
 "d4/dde/structLinkValidator.html#a1c9a027ff1f355b16fe629b7c4af7b98":[6,0,1441,1],
 "d4/dde/structLinkValidator.html#a5b13574c40a78f28d15e6b11bc7bd5bc":[6,0,1441,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX141 =
 "d4/dde/structboss__xt002.html#a0d33da735deae0fb5a22c4f7d6b19fa2":[6,0,798,9],
 "d4/dde/structboss__xt002.html#a19aeed1f8e5b3fb4ac34f752e5cb647d":[6,0,798,14],
 "d4/dde/structboss__xt002.html#a2882a78918439bbc63902cab0179049c":[6,0,798,12],
-"d4/dde/structboss__xt002.html#a31eae472c8da2f891e7d2c3424cf8075":[6,0,798,6]
+"d4/dde/structboss__xt002.html#a31eae472c8da2f891e7d2c3424cf8075":[6,0,798,6],
+"d4/dde/structboss__xt002.html#a326eb111c3d94e1bb57e9fe6e1f38c57":[6,0,798,10]
 };

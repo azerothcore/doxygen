@@ -90,6 +90,7 @@ var spell__item_8cpp =
     [ "spell_item_nitro_boots", "d9/d5c/classspell__item__nitro__boots.html", "d9/d5c/classspell__item__nitro__boots" ],
     [ "spell_item_teach_language", "d0/d3f/classspell__item__teach__language.html", "d0/d3f/classspell__item__teach__language" ],
     [ "spell_item_rocket_boots", "d2/d6f/classspell__item__rocket__boots.html", "d2/d6f/classspell__item__rocket__boots" ],
+    [ "spell_item_flexweave_underlay", "d6/dd9/classspell__item__flexweave__underlay.html", "d6/dd9/classspell__item__flexweave__underlay" ],
     [ "spell_item_healing_injector", "d6/dea/classspell__item__healing__injector.html", "d6/dea/classspell__item__healing__injector" ],
     [ "spell_item_mana_injector", "db/d3d/classspell__item__mana__injector.html", "db/d3d/classspell__item__mana__injector" ],
     [ "spell_item_pygmy_oil", "da/d74/classspell__item__pygmy__oil.html", "da/d74/classspell__item__pygmy__oil" ],

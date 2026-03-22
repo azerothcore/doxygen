@@ -1,5 +1,12 @@
 var NAVTREEINDEX388 =
 {
+"de/de5/boss__sindragosa_8cpp.html":[7,0,0,0,1,3,5,6,9],
+"de/de5/boss__sindragosa_8cpp.html#a471e93670828fa8b9bbba54072636134":[7,0,0,0,1,3,5,6,9,48],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,9,41],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca04d9ca553048827780dd42cd898fda7a":[7,0,0,0,1,3,5,6,9,41,7],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca09e45a23051683bd46e7723f524ecd82":[7,0,0,0,1,3,5,6,9,41,1],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca0ab956e60d6e548b21f81fcc09a9b429":[7,0,0,0,1,3,5,6,9,41,22],
+"de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca0de0a536dbf18ec5c2e76cfee1d751eb":[7,0,0,0,1,3,5,6,9,41,5],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca1bb7f9a430179692fe95ffeea097e13c":[7,0,0,0,1,3,5,6,9,41,4],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca1d42626d23878c805befd09cd0c7a8b5":[7,0,0,0,1,3,5,6,9,41,21],
 "de/de5/boss__sindragosa_8cpp.html#a5bd342133be8c2137b831460acc9298ca2036558ddc62685dd0de184d4fb40c8f":[7,0,0,0,1,3,5,6,9,41,27],
@@ -154,11 +161,11 @@ var NAVTREEINDEX388 =
 "de/de9/SpellProcEquipmentTest_8cpp.html#ace39e46c5d8aa496edf55827a45ab831":[7,0,0,0,2,2,0,8,15,9],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae6e67189670b8ff19e187042fc35b9f1":[7,0,0,0,2,2,0,8,15,23],
 "de/de9/SpellProcEquipmentTest_8cpp.html#ae98f34a798ccbe023ff60c740baf668c":[7,0,0,0,2,2,0,8,15,13],
-"de/de9/classspell__pal__righteous__vengeance.html":[6,0,3744],
-"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[6,0,3744,3],
-"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[6,0,3744,0],
-"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[6,0,3744,2],
-"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[6,0,3744,1],
+"de/de9/classspell__pal__righteous__vengeance.html":[6,0,3745],
+"de/de9/classspell__pal__righteous__vengeance.html#a072b480f483c44b81f50680224ab75ef":[6,0,3745,3],
+"de/de9/classspell__pal__righteous__vengeance.html#a6d66a94a0ede604ea0f6dbf0db10cf4a":[6,0,3745,0],
+"de/de9/classspell__pal__righteous__vengeance.html#ace907f15156ac0ac8e88c74fdc77b96c":[6,0,3745,2],
+"de/de9/classspell__pal__righteous__vengeance.html#acfecd9231847898b931aad7b270579ea":[6,0,3745,1],
 "de/dea/structnpc__corrupted__totem.html":[6,0,1727],
 "de/dea/structnpc__corrupted__totem.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4":[6,0,1727,3],
 "de/dea/structnpc__corrupted__totem.html#a509688befda49f789f77ee0e4170a74e":[6,0,1727,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX388 =
 "de/deb/structM2Header.html#aaf31096accfb7e3fa2eddbf0d0cafa81":[6,0,1485,16],
 "de/deb/structM2Header.html#aaf4b42bfdd9f1d21a8b36e8cdb5039d5":[6,0,1485,3],
 "de/deb/structM2Header.html#ab69dd1ffe8f06e87a27681eade2ed48f":[6,0,1485,55],
-"de/deb/structM2Header.html#ab8dcc8205a16925f9e081d6104d774b5":[6,0,1485,34],
-"de/deb/structM2Header.html#aba0c84ae340e0c10b57c28f1f213b1f1":[6,0,1485,48],
-"de/deb/structM2Header.html#abc8298f0df518c86849014e16f31f366":[6,0,1485,54],
-"de/deb/structM2Header.html#abe770c6c73bcf50d11b867df69985ec3":[6,0,1485,26],
-"de/deb/structM2Header.html#ac1d0efcfbc4dc0c535b80018f7b1e2f4":[6,0,1485,21],
-"de/deb/structM2Header.html#ac40bbd37c559d5f7a3623cc511f2b98a":[6,0,1485,59],
-"de/deb/structM2Header.html#ac454302f9a9a85e16af1ad298247f63e":[6,0,1485,12],
-"de/deb/structM2Header.html#ac64b9118d8bb1f80538332f5f03b9dc1":[6,0,1485,53]
+"de/deb/structM2Header.html#ab8dcc8205a16925f9e081d6104d774b5":[6,0,1485,34]
 };

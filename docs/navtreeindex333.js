@@ -1,5 +1,12 @@
 var NAVTREEINDEX333 =
 {
+"dd/d27/classAcore_1_1Asio_1_1Strand.html":[6,0,0,0,2],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[6,0,0,0,2,0],
+"dd/d27/classAcore_1_1Asio_1_1Strand.html#afd0efbcfbbd1ff7ef26d7f8c476380dc":[5,0,1,0,3,0],
+"dd/d27/classOPvPCapturePointTF.html":[6,0,2357],
+"dd/d27/classOPvPCapturePointTF.html#a15b0758d901bf98f65fa2ee87bb4b401":[6,0,2357,7],
+"dd/d27/classOPvPCapturePointTF.html#a16efee78249e510e211b18694ea868f2":[6,0,2357,6],
+"dd/d27/classOPvPCapturePointTF.html#a3f6cbfddd3322e3d948a1330cfa0e4d8":[6,0,2357,8],
 "dd/d27/classOPvPCapturePointTF.html#a74e1c07d3186fb6ba54b65efa9700989":[6,0,2357,9],
 "dd/d27/classOPvPCapturePointTF.html#a7ad637f6a4005da3166601dafda52d1b":[6,0,2357,5],
 "dd/d27/classOPvPCapturePointTF.html#a8f8588000b515e0c33449f9d7c1357a3":[6,0,2357,2],
@@ -8,10 +15,10 @@ var NAVTREEINDEX333 =
 "dd/d27/classOPvPCapturePointTF.html#ace7e183b6dd438b9649e9ee60c6d00e2":[6,0,2357,10],
 "dd/d27/classOPvPCapturePointTF.html#ae73763b63f5c1522c9b9c5950a6e5dfe":[6,0,2357,3],
 "dd/d27/classOPvPCapturePointTF.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33":[6,0,2357,0],
-"dd/d27/classspell__mage__dragon__breath.html":[6,0,3578],
-"dd/d27/classspell__mage__dragon__breath.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7":[6,0,3578,0],
-"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[6,0,3578,1],
-"dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[6,0,3578,2],
+"dd/d27/classspell__mage__dragon__breath.html":[6,0,3579],
+"dd/d27/classspell__mage__dragon__breath.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7":[6,0,3579,0],
+"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[6,0,3579,1],
+"dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[6,0,3579,2],
 "dd/d27/structSmartAction.html":[6,0,2597],
 "dd/d27/structSmartAction.html#a033767c66047cb24b21bbb97221d78aa":[6,0,2597,189],
 "dd/d27/structSmartAction.html#a04ef38fdb43231aa69107411cb76bb97":[6,0,2597,30],
@@ -242,12 +249,5 @@ var NAVTREEINDEX333 =
 "dd/d27/structSmartAction.html#ac289571666aa82e6efc54bec3e982e0a":[6,0,2597,41],
 "dd/d27/structSmartAction.html#ac37109569c985279e30fec2df29679aa":[6,0,2597,298],
 "dd/d27/structSmartAction.html#ac3fda8d1c507b511b18cf5526b9332f8":[6,0,2597,130],
-"dd/d27/structSmartAction.html#ac410826fa81170fdf8471c5721fed133":[6,0,2597,143],
-"dd/d27/structSmartAction.html#ac5e5b226552e6413b537da9221afc246":[6,0,2597,119],
-"dd/d27/structSmartAction.html#ac6204f6a775428d46ee9a7dbd9bc240f":[6,0,2597,203],
-"dd/d27/structSmartAction.html#ac6275ac75000fc389a77b750835c04cd":[6,0,2597,28],
-"dd/d27/structSmartAction.html#ac6dbdc06300b9a2c85d2f749410ebba8":[6,0,2597,120],
-"dd/d27/structSmartAction.html#ac87149859928ca1cdf2f5c41b13cdcc2":[6,0,2597,107],
-"dd/d27/structSmartAction.html#ac9eb9b95cab08a8be11fce0ddfa4ee42":[6,0,2597,170],
-"dd/d27/structSmartAction.html#acb0d94f4c525efba979f578a08257dd4":[6,0,2597,290]
+"dd/d27/structSmartAction.html#ac410826fa81170fdf8471c5721fed133":[6,0,2597,143]
 };
