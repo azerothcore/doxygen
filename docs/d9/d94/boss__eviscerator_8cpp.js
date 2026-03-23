@@ -1,7 +1,6 @@
 var boss__eviscerator_8cpp =
 [
-    [ "boss_eviscerator", "d5/d01/classboss__eviscerator.html", "d5/d01/classboss__eviscerator" ],
-    [ "boss_eviscerator::boss_evisceratorAI", "d1/d48/structboss__eviscerator_1_1boss__evisceratorAI.html", "d1/d48/structboss__eviscerator_1_1boss__evisceratorAI" ],
+    [ "boss_eviscerator", "df/d38/structboss__eviscerator.html", "df/d38/structboss__eviscerator" ],
     [ "Spells", "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SHADOWBOLT_VOLLEY", "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298ca9920244895e362fd1d3b8789ac5f5811", null ],
       [ "SPELL_REND", "d9/d94/boss__eviscerator_8cpp.html#a5bd342133be8c2137b831460acc9298cac553ad24710435636bd9736df18484c6", null ],

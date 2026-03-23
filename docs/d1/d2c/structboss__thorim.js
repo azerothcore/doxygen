@@ -10,6 +10,7 @@ var structboss__thorim =
     [ "GetData", "d1/d2c/structboss__thorim.html#a13b72a53c8c1315013d91c453fd48fa6", null ],
     [ "GetThorimObject", "d1/d2c/structboss__thorim.html#ab84b2c095b0327653469eeea890920e6", null ],
     [ "JustEngagedWith", "d1/d2c/structboss__thorim.html#abd5a18fafd08c20bab594d55ba021c5b", null ],
+    [ "JustExitedCombat", "d1/d2c/structboss__thorim.html#a79d4f548132a2785e22cd2a3e03925be", null ],
     [ "JustReachedHome", "d1/d2c/structboss__thorim.html#a900db5399abde4fea6df0e9a0be824b1", null ],
     [ "KilledUnit", "d1/d2c/structboss__thorim.html#a5e9622ce3b0b198183c9fb2643aed159", null ],
     [ "Reset", "d1/d2c/structboss__thorim.html#a0a967a2080a07081cfcc65ad9c230b87", null ],

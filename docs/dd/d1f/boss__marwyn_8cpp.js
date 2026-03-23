@@ -1,10 +1,8 @@
 var boss__marwyn_8cpp =
 [
-    [ "boss_marwyn", "d1/d0c/classboss__marwyn.html", "d1/d0c/classboss__marwyn" ],
-    [ "boss_marwyn::boss_marwynAI", "d5/d13/structboss__marwyn_1_1boss__marwynAI.html", "d5/d13/structboss__marwyn_1_1boss__marwynAI" ],
+    [ "boss_marwyn", "d8/d16/structboss__marwyn.html", "d8/d16/structboss__marwyn" ],
     [ "spell_hor_shared_suffering_aura", "dc/d1c/classspell__hor__shared__suffering__aura.html", "dc/d1c/classspell__hor__shared__suffering__aura" ],
     [ "Events", "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_NONE", "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_OBLITERATE", "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab1704ad76123dba28b2d817aad76eb7e", null ],
       [ "EVENT_WELL_OF_CORRUPTION", "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a61817513fee18f80bfcabfc95ee63a26", null ],
       [ "EVENT_CORRUPTED_FLESH", "dd/d1f/boss__marwyn_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9c8a0600307896c7a0c7faf8e522b527", null ],

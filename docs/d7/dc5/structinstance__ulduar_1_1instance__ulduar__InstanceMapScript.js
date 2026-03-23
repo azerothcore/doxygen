@@ -30,7 +30,6 @@ var structinstance__ulduar_1_1instance__ulduar__InstanceMapScript =
     [ "m_algalonTimer", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af22922662a070b419c4ddbf98c57b384", null ],
     [ "m_conspeedatoryAttempt", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#afb94afd3f36b7205a45f708c7429a437", null ],
     [ "m_difficulty", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abe3577ac52ca385f06b9eaf8aaf4054d", null ],
-    [ "m_keepersGossipGUID", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#abeb0ba6141f81d8e1b268a1fa8be25aa", null ],
     [ "m_leviathanTowers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#a6d04a9a48291822ea2a2a7871e782524", null ],
     [ "m_leviathanVisualTowers", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#af33dd81c241b5354a2cbced9dc9f4c93", null ],
     [ "m_mageBarrier", "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac9e21b4262c6d049732fa4d4de349c69", null ],

@@ -1,0 +1,28 @@
+var structinstance__blackwing__lair =
+[
+    [ "instance_blackwing_lair", "d0/d76/structinstance__blackwing__lair.html#acc616ac1ebc0a30b223b56db6d1d194d", null ],
+    [ "CheckRequiredBosses", "d0/d76/structinstance__blackwing__lair.html#a4a9399b6f1cfbae07aa39a941ab04de6", null ],
+    [ "GetData", "d0/d76/structinstance__blackwing__lair.html#a8aa2cb3ec0fb6ac894fe2386bb587cd6", null ],
+    [ "GetGuidData", "d0/d76/structinstance__blackwing__lair.html#a83845db9412c9db9020fe5cb916f15ed", null ],
+    [ "Initialize", "d0/d76/structinstance__blackwing__lair.html#a897fb61d904ece635288d79823847f19", null ],
+    [ "OnCreatureCreate", "d0/d76/structinstance__blackwing__lair.html#ab9d92beeef2b4cff728b3b07628be143", null ],
+    [ "OnGameObjectCreate", "d0/d76/structinstance__blackwing__lair.html#afadc17e8273352507021fe801540cfea", null ],
+    [ "OnGameObjectRemove", "d0/d76/structinstance__blackwing__lair.html#ad17a7e6c445a33ccf504e3346f4337d5", null ],
+    [ "OnUnitDeath", "d0/d76/structinstance__blackwing__lair.html#aa7d4423a1d3de7d1f28e03e1242ab29f", null ],
+    [ "ReadSaveDataMore", "d0/d76/structinstance__blackwing__lair.html#a44fc3e4344c72fa859f87ebec10f391a", null ],
+    [ "SetBossState", "d0/d76/structinstance__blackwing__lair.html#a71e2889ad19c4d445b1a9e3e852f5408", null ],
+    [ "SetData", "d0/d76/structinstance__blackwing__lair.html#a1a51777e7bdffcd5633d435c65aec5ad", null ],
+    [ "Update", "d0/d76/structinstance__blackwing__lair.html#abd4fe01494c20a4b413392011ee8b901", null ],
+    [ "WriteSaveDataMore", "d0/d76/structinstance__blackwing__lair.html#a9b5f810bdaacd35144a3a054f706fca2", null ],
+    [ "_events", "d0/d76/structinstance__blackwing__lair.html#a069b3a56def2564f026a3404bf0fd1c6", null ],
+    [ "addsCount", "d0/d76/structinstance__blackwing__lair.html#adb5f0436eca9ff1ae539590416a93994", null ],
+    [ "EggCount", "d0/d76/structinstance__blackwing__lair.html#a1ac13e5d1453f4ea0d01ccef32cdde04", null ],
+    [ "EggEvent", "d0/d76/structinstance__blackwing__lair.html#a7477504fa86afb6380234cf659c5f7d2", null ],
+    [ "EggList", "d0/d76/structinstance__blackwing__lair.html#a2e78bb7c91616d00af59b29af160d311", null ],
+    [ "guardList", "d0/d76/structinstance__blackwing__lair.html#ac396d405834c12dee713f9367a4d12db", null ],
+    [ "nefarianDoorGUID", "d0/d76/structinstance__blackwing__lair.html#a286d20f905bab05fae40019d2193169c", null ],
+    [ "nefarianGUID", "d0/d76/structinstance__blackwing__lair.html#af5e25c709a68da078cbaca38e4f692d8", null ],
+    [ "NefarianLeftTunnel", "d0/d76/structinstance__blackwing__lair.html#ae9dfe41953a427db9c3d87825dc4123b", null ],
+    [ "NefarianRightTunnel", "d0/d76/structinstance__blackwing__lair.html#aeb857871a07bea6822da067041c0a126", null ],
+    [ "razorgoreGUID", "d0/d76/structinstance__blackwing__lair.html#a96ca7c618cdf5d604e4b5700bffefadb", null ]
+];

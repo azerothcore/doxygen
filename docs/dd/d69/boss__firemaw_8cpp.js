@@ -1,7 +1,6 @@
 var boss__firemaw_8cpp =
 [
-    [ "boss_firemaw", "d4/da2/classboss__firemaw.html", "d4/da2/classboss__firemaw" ],
-    [ "boss_firemaw::boss_firemawAI", "d1/de5/structboss__firemaw_1_1boss__firemawAI.html", "d1/de5/structboss__firemaw_1_1boss__firemawAI" ],
+    [ "boss_firemaw", "dd/d29/structboss__firemaw.html", "dd/d29/structboss__firemaw" ],
     [ "Events", "dd/d69/boss__firemaw_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_SHADOWFLAME", "dd/d69/boss__firemaw_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db", null ],
       [ "EVENT_WINGBUFFET", "dd/d69/boss__firemaw_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a205166e04da1b06f87e762c2cc05ff80", null ],

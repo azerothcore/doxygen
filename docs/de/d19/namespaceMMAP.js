@@ -1,22 +1,19 @@
 var namespaceMMAP =
 [
     [ "Config", "d8/da7/classMMAP_1_1Config.html", "d8/da7/classMMAP_1_1Config" ],
-    [ "IMMapMgr", "de/da2/classMMAP_1_1IMMapMgr.html", "de/da2/classMMAP_1_1IMMapMgr" ],
     [ "IntermediateValues", "de/d79/structMMAP_1_1IntermediateValues.html", "de/d79/structMMAP_1_1IntermediateValues" ],
     [ "MapBuilder", "d4/dab/classMMAP_1_1MapBuilder.html", "d4/dab/classMMAP_1_1MapBuilder" ],
     [ "MapTiles", "df/d51/structMMAP_1_1MapTiles.html", "df/d51/structMMAP_1_1MapTiles" ],
     [ "MeshData", "df/d9e/structMMAP_1_1MeshData.html", "df/d9e/structMMAP_1_1MeshData" ],
-    [ "MMapData", "d7/d64/structMMAP_1_1MMapData.html", "d7/d64/structMMAP_1_1MMapData" ],
-    [ "MMapFactory", "dc/d5c/classMMAP_1_1MMapFactory.html", "dc/d5c/classMMAP_1_1MMapFactory" ],
     [ "MMapMgr", "df/d8e/classMMAP_1_1MMapMgr.html", "df/d8e/classMMAP_1_1MMapMgr" ],
+    [ "NavMeshDeleter", "d3/d47/structMMAP_1_1NavMeshDeleter.html", "d3/d47/structMMAP_1_1NavMeshDeleter" ],
+    [ "NavMeshQueryDeleter", "d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html", "d2/d9a/structMMAP_1_1NavMeshQueryDeleter" ],
     [ "ResolvedMeshConfig", "de/d4a/structMMAP_1_1ResolvedMeshConfig.html", "de/d4a/structMMAP_1_1ResolvedMeshConfig" ],
     [ "TerrainBuilder", "d3/dfe/classMMAP_1_1TerrainBuilder.html", "d3/dfe/classMMAP_1_1TerrainBuilder" ],
     [ "Tile", "d2/dc0/structMMAP_1_1Tile.html", "d2/dc0/structMMAP_1_1Tile" ],
     [ "TileBuilder", "dd/d2d/classMMAP_1_1TileBuilder.html", "dd/d2d/classMMAP_1_1TileBuilder" ],
     [ "TileInfo", "d0/d9d/structMMAP_1_1TileInfo.html", "d0/d9d/structMMAP_1_1TileInfo" ],
-    [ "MMapDataSet", "de/d19/namespaceMMAP.html#a7c987e5b93af6a44b28948b66804ad88", null ],
-    [ "MMapTileSet", "de/d19/namespaceMMAP.html#a1e41f7222e3ee601b787809808325f2c", null ],
-    [ "NavMeshQuerySet", "de/d19/namespaceMMAP.html#a89710e07eb1c881e22b1b2bb7c8f671c", null ],
+    [ "ManagedNavMeshQuery", "de/d19/namespaceMMAP.html#aa9864ce68a669d59d8baee4cb742900b", null ],
     [ "TileList", "de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1", null ],
     [ "Grid", "de/d19/namespaceMMAP.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
       [ "GRID_V8", "de/d19/namespaceMMAP.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
@@ -27,20 +24,9 @@ var namespaceMMAP =
       [ "LISTFILE_OK", "de/d19/namespaceMMAP.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
     ] ],
     [ "MMAP_LOAD_RESULT", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
-      [ "MMAP_LOAD_RESULT_ERROR", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
-    ] ],
-    [ "MMAP_LOAD_RESULT", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
-      [ "MMAP_LOAD_RESULT_ERROR", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
-      [ "MMAP_LOAD_RESULT_OK", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+      [ "MMAP_LOAD_RESULT_ERROR", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
     ] ],
     [ "Spot", "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165", [
       [ "TOP", "de/d19/namespaceMMAP.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
@@ -55,7 +41,6 @@ var namespaceMMAP =
     [ "isCurrentDirectory", "de/d19/namespaceMMAP.html#aa116779ddd87038d6077a805710a7e4d", null ],
     [ "MakeTileKey", "de/d19/namespaceMMAP.html#a45540263b1795bfc48c91a117c239a6c", null ],
     [ "matchWildcardFilter", "de/d19/namespaceMMAP.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ],
-    [ "g_MMapMgr", "de/d19/namespaceMMAP.html#a7ca17c8e81612c16a92e901cac65113e", null ],
     [ "GRID_PART_SIZE", "de/d19/namespaceMMAP.html#a39bc2d4fa649e77addef85b06c49b369", null ],
     [ "GRID_SIZE", "de/d19/namespaceMMAP.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
     [ "holetab_h", "de/d19/namespaceMMAP.html#abeb39e913287295598939165f99abe3b", null ],

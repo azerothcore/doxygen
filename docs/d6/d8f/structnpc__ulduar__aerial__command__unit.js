@@ -12,9 +12,10 @@ var structnpc__ulduar__aerial__command__unit =
     [ "SpellHit", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
     [ "SummonedCreatureDespawn", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a429da72273b2126452eef1e9b724b40b", null ],
     [ "UpdateAI", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
-    [ "bIsEvading", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#add45262675f20fbe17ae0a8480cbfa44", null ],
-    [ "events", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a2ef45e3cd98d57977f417283988e130c", null ],
-    [ "instance", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a36f7e3b4228aca4adf092c14827fa072", null ],
-    [ "Phase", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#acf05bb3fbbd5b539a95a0238982fb867", null ],
-    [ "summons", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#af756d258c01be1768019372acdd9297c", null ]
+    [ "_events", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a4832f888cc77613d99ff165e5bf47022", null ],
+    [ "_isDefeated", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a8272d619675b54d454b825efdf1357e6", null ],
+    [ "_isEvading", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a6976c445331a25cd2735e963a102157c", null ],
+    [ "_phase", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a7947005a05430e9734db3cf14eac0d17", null ],
+    [ "_summons", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#ac961aedcde178320276eeaf0fa8a8675", null ],
+    [ "instance", "d6/d8f/structnpc__ulduar__aerial__command__unit.html#a36f7e3b4228aca4adf092c14827fa072", null ]
 ];

@@ -8,7 +8,9 @@ var structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI =
     [ "SpellHit", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
     [ "UpdateAI", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a81a1382493091a99cae1c2bb580a7f32", null ],
     [ "allowTimer", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "ambientTalkTimer", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aaa8eef94d1707207d241010d066d02fc", null ],
     [ "changeTimer", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "isBrandonCrowd", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
     [ "locked", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
     [ "pInstance", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

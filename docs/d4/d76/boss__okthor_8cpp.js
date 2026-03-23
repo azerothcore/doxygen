@@ -1,7 +1,6 @@
 var boss__okthor_8cpp =
 [
-    [ "boss_okthor", "d3/dc8/classboss__okthor.html", "d3/dc8/classboss__okthor" ],
-    [ "boss_okthor::boss_okthorAI", "d8/daa/structboss__okthor_1_1boss__okthorAI.html", "d8/daa/structboss__okthor_1_1boss__okthorAI" ],
+    [ "boss_okthor", "d7/d5e/structboss__okthor.html", "d7/d5e/structboss__okthor" ],
     [ "Spells", "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_ARCANE_BOLT", "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9efd3c20d926022e44fab28656b29c", null ],
       [ "SPELL_ARCANE_EXPLOSION", "d4/d76/boss__okthor_8cpp.html#a5bd342133be8c2137b831460acc9298ca6cef4c5e88133771f6b27aec8b8cfdce", null ],

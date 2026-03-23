@@ -1,5 +1,7 @@
 var SpellInfo_8h =
 [
+    [ "SpellDiminishInfo", "d1/dbc/structSpellDiminishInfo.html", "d1/dbc/structSpellDiminishInfo" ],
+    [ "ImmunityInfo", "da/d44/structImmunityInfo.html", "da/d44/structImmunityInfo" ],
     [ "SpellImplicitTargetInfo", "d0/da4/classSpellImplicitTargetInfo.html", "d0/da4/classSpellImplicitTargetInfo" ],
     [ "SpellImplicitTargetInfo::StaticData", "d9/d74/structSpellImplicitTargetInfo_1_1StaticData.html", "d9/d74/structSpellImplicitTargetInfo_1_1StaticData" ],
     [ "SpellEffectInfo", "da/db9/classSpellEffectInfo.html", "da/db9/classSpellEffectInfo" ],

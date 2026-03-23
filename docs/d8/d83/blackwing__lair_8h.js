@@ -3,6 +3,7 @@ var blackwing__lair_8h =
     [ "BWLScriptName", "d8/d83/blackwing__lair_8h.html#a7b545b19f3c0a35967e17ed74f3f21b2", null ],
     [ "DataHeader", "d8/d83/blackwing__lair_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "RegisterBlackwingLairCreatureAI", "d8/d83/blackwing__lair_8h.html#a82a479b9c6b812beefeb3a8ced1438aa", null ],
+    [ "RegisterBlackwingLairGameObjectAI", "d8/d83/blackwing__lair_8h.html#a99e2d9e686221aea62f0c3c69adf41af", null ],
     [ "BWLCreatureIds", "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4f", [
       [ "NPC_GRETHOK", "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4faf397b79c56313c06d741f61f9a3fa8bf", null ],
       [ "NPC_BLACKWING_GUARDSMAN", "d8/d83/blackwing__lair_8h.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa452d2bfa37157a8f9c0cfae3243afd61", null ],

@@ -10,7 +10,6 @@ var namespaceVMAP =
     [ "IVMapMgr", "da/d58/classVMAP_1_1IVMapMgr.html", "da/d58/classVMAP_1_1IVMapMgr" ],
     [ "LocationInfo", "dd/d3f/structVMAP_1_1LocationInfo.html", "dd/d3f/structVMAP_1_1LocationInfo" ],
     [ "LocationInfoCallback", "d8/d27/classVMAP_1_1LocationInfoCallback.html", "d8/d27/classVMAP_1_1LocationInfoCallback" ],
-    [ "ManagedModel", "d7/d2b/classVMAP_1_1ManagedModel.html", "d7/d2b/classVMAP_1_1ManagedModel" ],
     [ "MapRayCallback", "de/d20/classVMAP_1_1MapRayCallback.html", "de/d20/classVMAP_1_1MapRayCallback" ],
     [ "MapSpawns", "d3/d5d/structVMAP_1_1MapSpawns.html", "d3/d5d/structVMAP_1_1MapSpawns" ],
     [ "MeshTriangle", "d4/dc7/classVMAP_1_1MeshTriangle.html", "d4/dc7/classVMAP_1_1MeshTriangle" ],
@@ -29,9 +28,7 @@ var namespaceVMAP =
     [ "WMOLiquidHeader", "d6/d4b/structVMAP_1_1WMOLiquidHeader.html", "d6/d4b/structVMAP_1_1WMOLiquidHeader" ],
     [ "WorldModel", "d5/db0/classVMAP_1_1WorldModel.html", "d5/db0/classVMAP_1_1WorldModel" ],
     [ "WorldModel_Raw", "d1/dd3/structVMAP_1_1WorldModel__Raw.html", "d1/dd3/structVMAP_1_1WorldModel__Raw" ],
-    [ "InstanceTreeMap", "dd/d34/namespaceVMAP.html#a38798cd0b87931dbaeda34fa316c2f6f", null ],
     [ "MapData", "dd/d34/namespaceVMAP.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
-    [ "ModelFileMap", "dd/d34/namespaceVMAP.html#a6efa1bd5795cb2fcc8688e7500a8570f", null ],
     [ "TileMap", "dd/d34/namespaceVMAP.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
     [ "UniqueEntryMap", "dd/d34/namespaceVMAP.html#a3424b44a092b5f3d8074649ae11ee481", null ],
     [ "DisableTypes", "dd/d34/namespaceVMAP.html#ae6fa86a61cff3bac928739b18ffb8c1b", [

@@ -1,7 +1,6 @@
 var boss__overlord__wyrmthalak_8cpp =
 [
-    [ "boss_overlord_wyrmthalak", "da/df4/classboss__overlord__wyrmthalak.html", "da/df4/classboss__overlord__wyrmthalak" ],
-    [ "boss_overlord_wyrmthalak::boss_overlordwyrmthalakAI", "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI.html", "d1/ddc/structboss__overlord__wyrmthalak_1_1boss__overlordwyrmthalakAI" ],
+    [ "boss_overlord_wyrmthalak", "d2/d2f/structboss__overlord__wyrmthalak.html", "d2/d2f/structboss__overlord__wyrmthalak" ],
     [ "Adds", "d5/da5/boss__overlord__wyrmthalak_8cpp.html#a2933cb34869f6eceea9b33441a4608ad", [
       [ "NPC_SPIRESTONE_WARLORD", "d5/da5/boss__overlord__wyrmthalak_8cpp.html#a2933cb34869f6eceea9b33441a4608ada3f7866506513346cd5aebdcf27322b25", null ],
       [ "NPC_SMOLDERTHORN_BERSERKER", "d5/da5/boss__overlord__wyrmthalak_8cpp.html#a2933cb34869f6eceea9b33441a4608ada7c0a3088589c1df2edf499c7d65a496d", null ]

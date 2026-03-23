@@ -1,7 +1,6 @@
 var boss__gorosh__the__dervish_8cpp =
 [
-    [ "boss_gorosh_the_dervish", "d7/d91/classboss__gorosh__the__dervish.html", "d7/d91/classboss__gorosh__the__dervish" ],
-    [ "boss_gorosh_the_dervish::boss_gorosh_the_dervishAI", "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI.html", "d6/d00/structboss__gorosh__the__dervish_1_1boss__gorosh__the__dervishAI" ],
+    [ "boss_gorosh_the_dervish", "d5/df4/structboss__gorosh__the__dervish.html", "d5/df4/structboss__gorosh__the__dervish" ],
     [ "Spells", "d7/d05/boss__gorosh__the__dervish_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_WHIRLWIND", "d7/d05/boss__gorosh__the__dervish_8cpp.html#a5bd342133be8c2137b831460acc9298caed3f27157e41ec7644a53b6f9a827801", null ],
       [ "SPELL_MORTALSTRIKE", "d7/d05/boss__gorosh__the__dervish_8cpp.html#a5bd342133be8c2137b831460acc9298ca1950c1ee29f765e442243e8d8e16d3d9", null ],

@@ -1,9 +1,7 @@
 var boss__sulfuron__harbinger_8cpp =
 [
-    [ "boss_sulfuron", "de/d47/classboss__sulfuron.html", "de/d47/classboss__sulfuron" ],
-    [ "boss_sulfuron::boss_sulfuronAI", "de/d35/structboss__sulfuron_1_1boss__sulfuronAI.html", "de/d35/structboss__sulfuron_1_1boss__sulfuronAI" ],
-    [ "npc_flamewaker_priest", "dd/d55/classnpc__flamewaker__priest.html", "dd/d55/classnpc__flamewaker__priest" ],
-    [ "npc_flamewaker_priest::npc_flamewaker_priestAI", "d8/d95/structnpc__flamewaker__priest_1_1npc__flamewaker__priestAI.html", "d8/d95/structnpc__flamewaker__priest_1_1npc__flamewaker__priestAI" ],
+    [ "boss_sulfuron", "da/d7f/structboss__sulfuron.html", "da/d7f/structboss__sulfuron" ],
+    [ "npc_flamewaker_priest", "de/dfc/structnpc__flamewaker__priest.html", "de/dfc/structnpc__flamewaker__priest" ],
     [ "Events", "d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_DEMORALIZING_SHOUT", "d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acebc7ccb891364a3963896b971f23eb7", null ],
       [ "EVENT_INSPIRE", "d7/d22/boss__sulfuron__harbinger_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a819b8c41ed0be3c584a05ac308b313d2", null ],

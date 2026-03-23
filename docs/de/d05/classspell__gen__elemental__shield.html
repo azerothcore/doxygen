@@ -314,27 +314,25 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  305</span>    {</div>
-<div class="line"><span class="lineno">  306</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  307</span>        {</div>
-<div class="line"><span class="lineno">  308</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell = <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a>; spell &lt;= <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d">SPELL_ARCANE_ELEMENTAL_SHIELD</a>; ++spell)</div>
-<div class="line"><span class="lineno">  309</span>            {</div>
-<div class="line"><span class="lineno">  310</span>                caster-&gt;RemoveAurasDueToSpell(spell);</div>
-<div class="line"><span class="lineno">  311</span>            }</div>
-<div class="line"><span class="lineno">  312</span> </div>
-<div class="line"><span class="lineno">  313</span>            caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a> + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 4), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  314</span>        }</div>
-<div class="line"><span class="lineno">  315</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  273</span>    {</div>
+<div class="line"><span class="lineno">  274</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  275</span>        {</div>
+<div class="line"><span class="lineno">  276</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell = <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a>; spell &lt;= <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d">SPELL_ARCANE_ELEMENTAL_SHIELD</a>; ++spell)</div>
+<div class="line"><span class="lineno">  277</span>                caster-&gt;RemoveAurasDueToSpell(spell);</div>
+<div class="line"><span class="lineno">  278</span> </div>
+<div class="line"><span class="lineno">  279</span>            caster-&gt;CastSpell(caster, <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a> + <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 4), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  280</span>        }</div>
+<div class="line"><span class="lineno">  281</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aRandom_8cpp_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition</b> Random.cpp:44</div></div>
-<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d">SPELL_ARCANE_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_ARCANE_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:278</div></div>
-<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_FIRE_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:274</div></div>
+<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d">SPELL_ARCANE_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_ARCANE_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:246</div></div>
+<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_FIRE_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:242</div></div>
 <div class="ttc" id="aclassSpellScript_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../df/d92/classSpellScript.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:401</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00278">SPELL_ARCANE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00274">SPELL_FIRE_ELEMENTAL_SHIELD</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l00246">SPELL_ARCANE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00242">SPELL_FIRE_ELEMENTAL_SHIELD</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00317">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00283">Register()</a>.</p>
 
 </div>
 </div>
@@ -388,16 +386,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  318</span>    {</div>
-<div class="line"><span class="lineno">  319</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d05/classspell__gen__elemental__shield.html#a0d244cc1785b136bae0960d697dc761d">spell_gen_elemental_shield::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
-<div class="line"><span class="lineno">  320</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  284</span>    {</div>
+<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../de/d05/classspell__gen__elemental__shield.html#a0d244cc1785b136bae0960d697dc761d">spell_gen_elemental_shield::HandleScript</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a>);</div>
+<div class="line"><span class="lineno">  286</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a292c893150c454dd75628b719db1fe97a027bcdf3b42e90e7374802fe61fd776d">SPELL_EFFECT_DUMMY</a></div><div class="ttdeci">@ SPELL_EFFECT_DUMMY</div><div class="ttdef"><b>Definition</b> SharedDefines.h:769</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aclassSpellScript_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:336</div></div>
-<div class="ttc" id="aclassspell__gen__elemental__shield_html_a0d244cc1785b136bae0960d697dc761d"><div class="ttname"><a href="../../de/d05/classspell__gen__elemental__shield.html#a0d244cc1785b136bae0960d697dc761d">spell_gen_elemental_shield::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:304</div></div>
+<div class="ttc" id="aclassspell__gen__elemental__shield_html_a0d244cc1785b136bae0960d697dc761d"><div class="ttname"><a href="../../de/d05/classspell__gen__elemental__shield.html#a0d244cc1785b136bae0960d697dc761d">spell_gen_elemental_shield::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:272</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00304">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00769">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00272">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00769">SPELL_EFFECT_DUMMY</a>, and <a class="el" href="../../#l00337">SpellEffectFn</a>.</p>
 
 </div>
 </div>
@@ -426,22 +424,22 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  293</span>    {</div>
-<div class="line"><span class="lineno">  294</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
-<div class="line"><span class="lineno">  295</span>            {</div>
-<div class="line"><span class="lineno">  296</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a>,</div>
-<div class="line"><span class="lineno">  297</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de">SPELL_FROST_ELEMENTAL_SHIELD</a>,</div>
-<div class="line"><span class="lineno">  298</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa226b9639fc68d1c7467a166ea945dd47">SPELL_SHADOW_ELEMENTAL_SHIELD</a>,</div>
-<div class="line"><span class="lineno">  299</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa3067b7efeca1fbfb0232862272d21aeb">SPELL_NATURE_ELEMENTAL_SHIELD</a>,</div>
-<div class="line"><span class="lineno">  300</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d">SPELL_ARCANE_ELEMENTAL_SHIELD</a></div>
-<div class="line"><span class="lineno">  301</span>            });</div>
-<div class="line"><span class="lineno">  302</span>    }</div>
-<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aa226b9639fc68d1c7467a166ea945dd47"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa226b9639fc68d1c7467a166ea945dd47">SPELL_SHADOW_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_SHADOW_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:276</div></div>
-<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aa3067b7efeca1fbfb0232862272d21aeb"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa3067b7efeca1fbfb0232862272d21aeb">SPELL_NATURE_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_NATURE_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:277</div></div>
-<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de">SPELL_FROST_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_FROST_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:275</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  261</span>    {</div>
+<div class="line"><span class="lineno">  262</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>(</div>
+<div class="line"><span class="lineno">  263</span>            {</div>
+<div class="line"><span class="lineno">  264</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224">SPELL_FIRE_ELEMENTAL_SHIELD</a>,</div>
+<div class="line"><span class="lineno">  265</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de">SPELL_FROST_ELEMENTAL_SHIELD</a>,</div>
+<div class="line"><span class="lineno">  266</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa226b9639fc68d1c7467a166ea945dd47">SPELL_SHADOW_ELEMENTAL_SHIELD</a>,</div>
+<div class="line"><span class="lineno">  267</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa3067b7efeca1fbfb0232862272d21aeb">SPELL_NATURE_ELEMENTAL_SHIELD</a>,</div>
+<div class="line"><span class="lineno">  268</span>                <a class="code hl_enumvalue" href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aaadbb407f49dbf02f7d48c383d1de780d">SPELL_ARCANE_ELEMENTAL_SHIELD</a></div>
+<div class="line"><span class="lineno">  269</span>            });</div>
+<div class="line"><span class="lineno">  270</span>    }</div>
+<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aa226b9639fc68d1c7467a166ea945dd47"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa226b9639fc68d1c7467a166ea945dd47">SPELL_SHADOW_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_SHADOW_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:244</div></div>
+<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aa3067b7efeca1fbfb0232862272d21aeb"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa3067b7efeca1fbfb0232862272d21aeb">SPELL_NATURE_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_NATURE_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:245</div></div>
+<div class="ttc" id="aboss__chromaggus_8cpp_html_a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de"><div class="ttname"><a href="../../d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de">SPELL_FROST_ELEMENTAL_SHIELD</a></div><div class="ttdeci">@ SPELL_FROST_ELEMENTAL_SHIELD</div><div class="ttdef"><b>Definition</b> boss_chromaggus.cpp:243</div></div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00278">SPELL_ARCANE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00274">SPELL_FIRE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00275">SPELL_FROST_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00277">SPELL_NATURE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00276">SPELL_SHADOW_ELEMENTAL_SHIELD</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00246">SPELL_ARCANE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00242">SPELL_FIRE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00243">SPELL_FROST_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00245">SPELL_NATURE_ELEMENTAL_SHIELD</a>, <a class="el" href="../../#l00244">SPELL_SHADOW_ELEMENTAL_SHIELD</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -454,7 +452,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d05/classspell__gen__elemental__shield.html">spell_gen_elemental_shield</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

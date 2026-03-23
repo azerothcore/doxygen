@@ -268,6 +268,5 @@ var boss__yoggsaron_8cpp =
     [ "SanityWellsPos", "d3/d32/boss__yoggsaron_8cpp.html#a6fc5a6dc0f00185fb8c0669071b98c1a", null ],
     [ "TABLE_GOSSIP_ENTRY", "d3/d32/boss__yoggsaron_8cpp.html#a1f36aa5da591928c5859e94bfc665ae2", null ],
     [ "TABLE_KEEPER_ENTRY", "d3/d32/boss__yoggsaron_8cpp.html#a33c715771c98c52ca6e93a6c63582494", null ],
-    [ "TABLE_KEEPER_TYPE", "d3/d32/boss__yoggsaron_8cpp.html#ab783489f2e16264b22a8959d4fd576fd", null ],
     [ "yoggPortalLoc", "d3/d32/boss__yoggsaron_8cpp.html#a24e97d868d452de43fd8267549dd8dc2", null ]
 ];

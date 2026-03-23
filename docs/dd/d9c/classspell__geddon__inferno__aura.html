@@ -340,20 +340,20 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  141</span>    {</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pCreatureTarget = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToCreature())</div>
-<div class="line"><span class="lineno">  143</span>        {</div>
-<div class="line"><span class="lineno">  144</span>            pCreatureTarget-&gt;SetReactState(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">  145</span>            pCreatureTarget-&gt;AttackStop();</div>
-<div class="line"><span class="lineno">  146</span>        }</div>
-<div class="line"><span class="lineno">  147</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  126</span>    {</div>
+<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pCreatureTarget = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToCreature())</div>
+<div class="line"><span class="lineno">  128</span>        {</div>
+<div class="line"><span class="lineno">  129</span>            pCreatureTarget-&gt;SetReactState(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">  130</span>            pCreatureTarget-&gt;AttackStop();</div>
+<div class="line"><span class="lineno">  131</span>        }</div>
+<div class="line"><span class="lineno">  132</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:566</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00566">REACT_PASSIVE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00187">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">Register()</a>.</p>
 
 </div>
 </div>
@@ -390,17 +390,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  150</span>    {</div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pCreatureTarget = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToCreature())</div>
-<div class="line"><span class="lineno">  152</span>        {</div>
-<div class="line"><span class="lineno">  153</span>            pCreatureTarget-&gt;SetReactState(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>);</div>
-<div class="line"><span class="lineno">  154</span>        }</div>
-<div class="line"><span class="lineno">  155</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  135</span>    {</div>
+<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* pCreatureTarget = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToCreature())</div>
+<div class="line"><span class="lineno">  137</span>            pCreatureTarget-&gt;SetReactState(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>);</div>
+<div class="line"><span class="lineno">  138</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a></div><div class="ttdeci">@ REACT_AGGRESSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:568</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00568">REACT_AGGRESSIVE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00187">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">Register()</a>.</p>
 
 </div>
 </div>
@@ -427,34 +425,34 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>    {</div>
-<div class="line"><span class="lineno">  159</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>())</div>
-<div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            <span class="comment">//The pulses come about 1 second apart and last for 10 seconds. Damage starts at 500 damage per pulse and increases by 500 every other pulse (500, 500, 1000, 1000, 1500, etc.). (Source: Wowwiki)</span></div>
-<div class="line"><span class="lineno">  164</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> multiplier = 1;</div>
-<div class="line"><span class="lineno">  165</span>            <span class="keywordflow">switch</span> (aurEff-&gt;GetTickNumber())</div>
-<div class="line"><span class="lineno">  166</span>            {</div>
-<div class="line"><span class="lineno">  167</span>                <span class="keywordflow">case</span> 3:</div>
-<div class="line"><span class="lineno">  168</span>                <span class="keywordflow">case</span> 4:</div>
-<div class="line"><span class="lineno">  169</span>                    multiplier = 2;</div>
-<div class="line"><span class="lineno">  170</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  171</span>                <span class="keywordflow">case</span> 5:</div>
-<div class="line"><span class="lineno">  172</span>                <span class="keywordflow">case</span> 6:</div>
-<div class="line"><span class="lineno">  173</span>                    multiplier = 4;</div>
-<div class="line"><span class="lineno">  174</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  175</span>                <span class="keywordflow">case</span> 7:</div>
-<div class="line"><span class="lineno">  176</span>                    multiplier = 6;</div>
-<div class="line"><span class="lineno">  177</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  178</span>                <span class="keywordflow">case</span> 8:</div>
-<div class="line"><span class="lineno">  179</span>                    multiplier = 10;</div>
-<div class="line"><span class="lineno">  180</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  181</span>            }</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>            caster-&gt;CastCustomSpell(<a class="code hl_enumvalue" href="../../da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298cacf12b86f196313d1d9954fcc2cbc1259">SPELL_INFERNO_DUMMY_EFFECT</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, 500 * multiplier, (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a>, <span class="keyword">nullptr</span>, aurEff);</div>
-<div class="line"><span class="lineno">  184</span>        }</div>
-<div class="line"><span class="lineno">  185</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  141</span>    {</div>
+<div class="line"><span class="lineno">  142</span>        <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>())</div>
+<div class="line"><span class="lineno">  145</span>        {</div>
+<div class="line"><span class="lineno">  146</span>            <span class="comment">//The pulses come about 1 second apart and last for 10 seconds. Damage starts at 500 damage per pulse and increases by 500 every other pulse (500, 500, 1000, 1000, 1500, etc.). (Source: Wowwiki)</span></div>
+<div class="line"><span class="lineno">  147</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> multiplier = 1;</div>
+<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">switch</span> (aurEff-&gt;GetTickNumber())</div>
+<div class="line"><span class="lineno">  149</span>            {</div>
+<div class="line"><span class="lineno">  150</span>                <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno">  151</span>                <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno">  152</span>                    multiplier = 2;</div>
+<div class="line"><span class="lineno">  153</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  154</span>                <span class="keywordflow">case</span> 5:</div>
+<div class="line"><span class="lineno">  155</span>                <span class="keywordflow">case</span> 6:</div>
+<div class="line"><span class="lineno">  156</span>                    multiplier = 4;</div>
+<div class="line"><span class="lineno">  157</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  158</span>                <span class="keywordflow">case</span> 7:</div>
+<div class="line"><span class="lineno">  159</span>                    multiplier = 6;</div>
+<div class="line"><span class="lineno">  160</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  161</span>                <span class="keywordflow">case</span> 8:</div>
+<div class="line"><span class="lineno">  162</span>                    multiplier = 10;</div>
+<div class="line"><span class="lineno">  163</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  164</span>            }</div>
+<div class="line"><span class="lineno">  165</span> </div>
+<div class="line"><span class="lineno">  166</span>            caster-&gt;CastCustomSpell(<a class="code hl_enumvalue" href="../../da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298cacf12b86f196313d1d9954fcc2cbc1259">SPELL_INFERNO_DUMMY_EFFECT</a>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a>, 500 * multiplier, (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a>, <span class="keyword">nullptr</span>, aurEff);</div>
+<div class="line"><span class="lineno">  167</span>        }</div>
+<div class="line"><span class="lineno">  168</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a4ad87b8c967acbbcb154a32bc123371bae5c19f392b2ebda372a39538fa9b592a">SPELLVALUE_BASE_POINT0</a></div><div class="ttdeci">@ SPELLVALUE_BASE_POINT0</div><div class="ttdef"><b>Definition</b> SpellDefines.h:113</div></div>
 <div class="ttc" id="aSpellDefines_8h_html_a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20"><div class="ttname"><a href="../../d0/d60/SpellDefines_8h.html#a9f3c49d8db7e142b86eba36bc8951967ad2e82d2342b545f831dfe79d922a3b20">TRIGGERED_NONE</a></div><div class="ttdeci">@ TRIGGERED_NONE</div><div class="ttdef"><b>Definition</b> SpellDefines.h:133</div></div>
@@ -465,7 +463,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00087">AuraEffect::GetTickNumber()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, <a class="el" href="../../#l00033">SPELL_INFERNO_DUMMY_EFFECT</a>, <a class="el" href="../../#l00113">SPELLVALUE_BASE_POINT0</a>, and <a class="el" href="../../#l00133">TRIGGERED_NONE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00187">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00170">Register()</a>.</p>
 
 </div>
 </div>
@@ -519,11 +517,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  188</span>    {</div>
-<div class="line"><span class="lineno">  189</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../dd/d9c/classspell__geddon__inferno__aura.html#ab5dea2b9154ea73e9f159f6899f71d1d">spell_geddon_inferno_aura::HandleAfterApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  190</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/d9c/classspell__geddon__inferno__aura.html#a07bfb9395c738a197bafbaa0a43b9d48">spell_geddon_inferno_aura::HandleAfterRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  191</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../dd/d9c/classspell__geddon__inferno__aura.html#a1ea9275cf310f95e9f8351892dce0a21">spell_geddon_inferno_aura::PeriodicTick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>);</div>
-<div class="line"><span class="lineno">  192</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  171</span>    {</div>
+<div class="line"><span class="lineno">  172</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AfterEffectApply</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../dd/d9c/classspell__geddon__inferno__aura.html#ab5dea2b9154ea73e9f159f6899f71d1d">spell_geddon_inferno_aura::HandleAfterApply</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  173</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/d9c/classspell__geddon__inferno__aura.html#a07bfb9395c738a197bafbaa0a43b9d48">spell_geddon_inferno_aura::HandleAfterRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  174</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../dd/d9c/classspell__geddon__inferno__aura.html#a1ea9275cf310f95e9f8351892dce0a21">spell_geddon_inferno_aura::PeriodicTick</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>);</div>
+<div class="line"><span class="lineno">  175</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799af51e1877e096bbfd69505e5ab4fc69ad">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:86</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
@@ -533,11 +531,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:764</div></div>
 <div class="ttc" id="aclassAuraScript_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition</b> SpellScript.h:770</div></div>
 <div class="ttc" id="aclassAuraScript_html_a509262d9721d83783e19142eee1645df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a509262d9721d83783e19142eee1645df">AuraScript::AfterEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectApply</div><div class="ttdef"><b>Definition</b> SpellScript.h:753</div></div>
-<div class="ttc" id="aclassspell__geddon__inferno__aura_html_a07bfb9395c738a197bafbaa0a43b9d48"><div class="ttname"><a href="../../dd/d9c/classspell__geddon__inferno__aura.html#a07bfb9395c738a197bafbaa0a43b9d48">spell_geddon_inferno_aura::HandleAfterRemove</a></div><div class="ttdeci">void HandleAfterRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_baron_geddon.cpp:149</div></div>
-<div class="ttc" id="aclassspell__geddon__inferno__aura_html_a1ea9275cf310f95e9f8351892dce0a21"><div class="ttname"><a href="../../dd/d9c/classspell__geddon__inferno__aura.html#a1ea9275cf310f95e9f8351892dce0a21">spell_geddon_inferno_aura::PeriodicTick</a></div><div class="ttdeci">void PeriodicTick(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> boss_baron_geddon.cpp:157</div></div>
-<div class="ttc" id="aclassspell__geddon__inferno__aura_html_ab5dea2b9154ea73e9f159f6899f71d1d"><div class="ttname"><a href="../../dd/d9c/classspell__geddon__inferno__aura.html#ab5dea2b9154ea73e9f159f6899f71d1d">spell_geddon_inferno_aura::HandleAfterApply</a></div><div class="ttdeci">void HandleAfterApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_baron_geddon.cpp:140</div></div>
+<div class="ttc" id="aclassspell__geddon__inferno__aura_html_a07bfb9395c738a197bafbaa0a43b9d48"><div class="ttname"><a href="../../dd/d9c/classspell__geddon__inferno__aura.html#a07bfb9395c738a197bafbaa0a43b9d48">spell_geddon_inferno_aura::HandleAfterRemove</a></div><div class="ttdeci">void HandleAfterRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_baron_geddon.cpp:134</div></div>
+<div class="ttc" id="aclassspell__geddon__inferno__aura_html_a1ea9275cf310f95e9f8351892dce0a21"><div class="ttname"><a href="../../dd/d9c/classspell__geddon__inferno__aura.html#a1ea9275cf310f95e9f8351892dce0a21">spell_geddon_inferno_aura::PeriodicTick</a></div><div class="ttdeci">void PeriodicTick(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition</b> boss_baron_geddon.cpp:140</div></div>
+<div class="ttc" id="aclassspell__geddon__inferno__aura_html_ab5dea2b9154ea73e9f159f6899f71d1d"><div class="ttname"><a href="../../dd/d9c/classspell__geddon__inferno__aura.html#ab5dea2b9154ea73e9f159f6899f71d1d">spell_geddon_inferno_aura::HandleAfterApply</a></div><div class="ttdeci">void HandleAfterApply(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_baron_geddon.cpp:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00140">HandleAfterApply()</a>, <a class="el" href="../../#l00149">HandleAfterRemove()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00157">PeriodicTick()</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00753">AuraScript::AfterEffectApply</a>, <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00125">HandleAfterApply()</a>, <a class="el" href="../../#l00134">HandleAfterRemove()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00140">PeriodicTick()</a>, and <a class="el" href="../../#l00086">SPELL_AURA_PERIODIC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
@@ -566,9 +564,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  136</span>    {</div>
-<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298cacf12b86f196313d1d9954fcc2cbc1259">SPELL_INFERNO_DUMMY_EFFECT</a> });</div>
-<div class="line"><span class="lineno">  138</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../da/d0a/boss__baron__geddon_8cpp.html#a5bd342133be8c2137b831460acc9298cacf12b86f196313d1d9954fcc2cbc1259">SPELL_INFERNO_DUMMY_EFFECT</a> });</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00033">SPELL_INFERNO_DUMMY_EFFECT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -584,7 +582,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d9c/classspell__geddon__inferno__aura.html">spell_geddon_inferno_aura</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

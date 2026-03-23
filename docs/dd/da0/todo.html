@@ -266,7 +266,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dd><a class="anchor" id="_todo000044"></a>: Move stat mods code to pet passive auras  </dd>
 <dt>Member <a class="el" href="../../db/dee/spell__hunter_8cpp.html#a87efb4c7cf60464c813daf57f8006a7e">HunterSpells</a>  </dt>
 <dd><a class="anchor" id="_todo000206"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
-<dt>Member <a class="el" href="../../d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html#ac811176530020d9a175c6658353f2a71">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::SetBossState</a>  (uint32 type, EncounterState state) override</dt>
+<dt>Member <a class="el" href="../../d0/d76/structinstance__blackwing__lair.html#a71e2889ad19c4d445b1a9e3e852f5408">instance_blackwing_lair::SetBossState</a>  (uint32 type, EncounterState state) override</dt>
 <dd><a class="anchor" id="_todo000163"></a>: after dynamic spawns  </dd>
 <dt>Member <a class="el" href="../../d9/d58/structinstance__trial__of__the__champion_1_1instance__trial__of__the__champion__InstanceMapScript.html#a02e6df2528dc6be81fd4cdcd6fc69472">instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript::DoSummonGrandChampion</a>  (uint32 BossNumber, uint8 BossOrder)</dt>
 <dd><a class="anchor" id="_todo000181"></a>: Missing Argent Raid Spectator cheers.  </dd>
@@ -415,11 +415,11 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dd><p class="startdd"><a class="anchor" id="_todo000123"></a>: this is a hack </p>
 <p class="enddd"><a class="anchor" id="_todo000124"></a>: seduction should be casted only on humanoids (not demons)  </p>
 </dd>
-<dt>Member <a class="el" href="../../d1/d16/classSpell.html#ab2a42ecc2773f29d512625f1fb2ab17d">Spell::CheckCast</a>  (bool strict)</dt>
+<dt>Member <a class="el" href="../../d1/d16/classSpell.html#ad881b64f25523dcc660475e7c0180e5e">Spell::CheckCast</a>  (bool strict, uint32 *param1=nullptr, uint32 *param2=nullptr)</dt>
 <dd><a class="anchor" id="_todo000129"></a>: determine if there is some flag to enable/disable the check  </dd>
 <dt>Member <a class="el" href="../../d1/d16/classSpell.html#a94b9d3dd0ca28b8c6e14d33beeeb1c77">Spell::CheckEffectTarget</a>  (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *target, uint32 eff) const</dt>
 <dd><a class="anchor" id="_todo000132"></a>: below shouldn't be here, but it's temporary  </dd>
-<dt>Member <a class="el" href="../../d1/d16/classSpell.html#a516f3d4404f0ca2010d21d8c64d478ee">Spell::CheckItems</a>  ()</dt>
+<dt>Member <a class="el" href="../../d1/d16/classSpell.html#ad874ca57657bed47527a38aa2c98f701">Spell::CheckItems</a>  (uint32 *param1=nullptr, uint32 *param2=nullptr)</dt>
 <dd><p class="startdd"><a class="anchor" id="_todo000130"></a>Needs review </p>
 <p class="enddd"><a class="anchor" id="_todo000131"></a>: Not sure whether the fallthrough was a mistake (forgetting a break) or intended. This should be double-checked.  </p>
 </dd>
@@ -506,7 +506,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <dt>Member <a class="el" href="../../dc/dc9/ScriptedCreature_8cpp.html#ae56af266ccaa1794f1f014938b07e9cc">SpellSummary</a>  </dt>
 <dd><a class="anchor" id="_todo000013"></a>: this import is not necessary for compilation and marked as unused by the IDE  </dd>
 <dt>Struct <a class="el" href="../../d2/d5c/structSpellTargetSelector.html">SpellTargetSelector</a>  </dt>
-<dd><a class="anchor" id="_todo000011"></a>: Add more checks from <a class="el" href="../../d1/d16/classSpell.html#ab2a42ecc2773f29d512625f1fb2ab17d">Spell::CheckCast</a>  </dd>
+<dd><a class="anchor" id="_todo000011"></a>: Add more checks from <a class="el" href="../../d1/d16/classSpell.html#ad881b64f25523dcc660475e7c0180e5e">Spell::CheckCast</a>  </dd>
 <dt>Member <a class="el" href="../../d3/dd1/DBCEnums_8h.html#a3cd8070d9b609b098c34c22d9120f2afa535c32e8cb7be506e0b0983519303312">SUMMON_PROP_FLAG_ASSIST_COMBAT_SUMMON</a>  </dt>
 <dd><a class="anchor" id="_todo000236"></a>: NYI 75 spells in 3.0.3, something unfriendly  </dd>
 <dt>Member <a class="el" href="../../d3/dd1/DBCEnums_8h.html#a3cd8070d9b609b098c34c22d9120f2afaadbabe3496ad48f5b5218e15ae23bebe">SUMMON_PROP_FLAG_DESPAWN_ON_SUMMONER_DEATH</a>  </dt>
@@ -634,7 +634,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Mar 22 2026 06:45:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:05:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

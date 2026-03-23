@@ -1,8 +1,7 @@
 var boss__majordomo__executus_8cpp =
 [
     [ "MajordomoAddData", "d6/d54/structMajordomoAddData.html", "d6/d54/structMajordomoAddData" ],
-    [ "boss_majordomo", "de/dd8/classboss__majordomo.html", "de/dd8/classboss__majordomo" ],
-    [ "boss_majordomo::boss_majordomoAI", "db/d14/structboss__majordomo_1_1boss__majordomoAI.html", "db/d14/structboss__majordomo_1_1boss__majordomoAI" ],
+    [ "boss_majordomo", "db/d55/structboss__majordomo.html", "db/d55/structboss__majordomo" ],
     [ "spell_hate_to_zero", "df/d78/classspell__hate__to__zero.html", "df/d78/classspell__hate__to__zero" ],
     [ "spell_majordomo_separation_anxiety_aura", "da/df4/classspell__majordomo__separation__anxiety__aura.html", "da/df4/classspell__majordomo__separation__anxiety__aura" ],
     [ "spell_summon_ragnaros", "d7/d73/classspell__summon__ragnaros.html", "d7/d73/classspell__summon__ragnaros" ],

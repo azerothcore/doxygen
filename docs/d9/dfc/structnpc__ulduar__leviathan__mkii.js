@@ -11,8 +11,8 @@ var structnpc__ulduar__leviathan__mkii =
     [ "SetData", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
     [ "SpellHit", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a790900963d9e073f4f8e4a0546721f52", null ],
     [ "UpdateAI", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a79b9146be412e5862b47cd34073a2fd7", null ],
-    [ "bIsEvading", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a5ab6a4c7fa03325ce1ff0239ca1edea9", null ],
-    [ "events", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a00d34da081bec623539deaec859c6079", null ],
-    [ "instance", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a1756b869c05920f3b9d64931c036fdb7", null ],
-    [ "Phase", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a76f134acc3e0f40b3d8f5b88927140c4", null ]
+    [ "_events", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a8569f601aa9a6963d41d00e30f041727", null ],
+    [ "_isEvading", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a61fed1e77c98422cda155255dc7730d7", null ],
+    [ "_phase", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#aadcf5849e2a2098e8183aebbc3c16c91", null ],
+    [ "instance", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a1756b869c05920f3b9d64931c036fdb7", null ]
 ];

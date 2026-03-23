@@ -1,7 +1,6 @@
 var boss__emperor__dagran__thaurissan_8cpp =
 [
-    [ "boss_emperor_dagran_thaurissan", "d6/d75/classboss__emperor__dagran__thaurissan.html", "d6/d75/classboss__emperor__dagran__thaurissan" ],
-    [ "boss_emperor_dagran_thaurissan::boss_draganthaurissanAI", "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI.html", "d7/d32/structboss__emperor__dagran__thaurissan_1_1boss__draganthaurissanAI" ],
+    [ "boss_emperor_dagran_thaurissan", "d3/d7f/structboss__emperor__dagran__thaurissan.html", "d3/d7f/structboss__emperor__dagran__thaurissan" ],
     [ "DATA_PERCENT_DEAD_SENATORS", "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#aa9a19276734a6565dfae91ec2c00c7c4", null ],
     [ "Spells", "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_HANDOFTHAURISSAN", "dc/d20/boss__emperor__dagran__thaurissan_8cpp.html#a5bd342133be8c2137b831460acc9298caaa7c0f74470168d7d0393986aebbeedf", null ],

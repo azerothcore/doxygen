@@ -1,9 +1,7 @@
 var boss__pyroguard__emberseer_8cpp =
 [
-    [ "boss_pyroguard_emberseer", "d6/d1a/classboss__pyroguard__emberseer.html", "d6/d1a/classboss__pyroguard__emberseer" ],
-    [ "boss_pyroguard_emberseer::boss_pyroguard_emberseerAI", "d2/d53/structboss__pyroguard__emberseer_1_1boss__pyroguard__emberseerAI.html", "d2/d53/structboss__pyroguard__emberseer_1_1boss__pyroguard__emberseerAI" ],
-    [ "npc_blackhand_incarcerator", "d4/d93/classnpc__blackhand__incarcerator.html", "d4/d93/classnpc__blackhand__incarcerator" ],
-    [ "npc_blackhand_incarcerator::npc_blackhand_incarceratorAI", "d8/d06/structnpc__blackhand__incarcerator_1_1npc__blackhand__incarceratorAI.html", "d8/d06/structnpc__blackhand__incarcerator_1_1npc__blackhand__incarceratorAI" ],
+    [ "boss_pyroguard_emberseer", "d7/d85/structboss__pyroguard__emberseer.html", "d7/d85/structboss__pyroguard__emberseer" ],
+    [ "npc_blackhand_incarcerator", "d0/d07/structnpc__blackhand__incarcerator.html", "d0/d07/structnpc__blackhand__incarcerator" ],
     [ "Events", "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_RESPAWN", "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acb479b353fa088bba14a35c37aba7de1", null ],
       [ "EVENT_PRE_FIGHT_1", "d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4a2530481456b71f0499b7d6ca8832a0", null ],

@@ -1,7 +1,6 @@
 var boss__gyth_8cpp =
 [
-    [ "boss_gyth", "d0/d9b/classboss__gyth.html", "d0/d9b/classboss__gyth" ],
-    [ "boss_gyth::boss_gythAI", "d5/d68/structboss__gyth_1_1boss__gythAI.html", "d5/d68/structboss__gyth_1_1boss__gythAI" ],
+    [ "boss_gyth", "db/d8c/structboss__gyth.html", "db/d8c/structboss__gyth" ],
     [ "spell_gyth_chromatic_protection", "d3/d9b/classspell__gyth__chromatic__protection.html", "d3/d9b/classspell__gyth__chromatic__protection" ],
     [ "Events", "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CORROSIVE_ACID", "da/df2/boss__gyth_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab28d9ce795ccb359d797710d2b95bc7b", null ],

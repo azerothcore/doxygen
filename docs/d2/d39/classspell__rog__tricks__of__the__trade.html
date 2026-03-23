@@ -313,26 +313,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  667</span>    {</div>
-<div class="line"><span class="lineno">  668</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aura = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd">GetHitAura</a>())</div>
-<div class="line"><span class="lineno">  669</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span>* script = aura-&gt;GetScript&lt;<a class="code hl_class" href="../../d9/d55/classspell__rog__tricks__of__the__trade__aura.html">spell_rog_tricks_of_the_trade_aura</a>&gt;(<span class="stringliteral">&quot;spell_rog_tricks_of_the_trade&quot;</span>))</div>
-<div class="line"><span class="lineno">  670</span>            {</div>
-<div class="line"><span class="lineno">  671</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* explTarget = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
-<div class="line"><span class="lineno">  672</span>                    script-&gt;SetRedirectTarget(explTarget-&gt;GetGUID());</div>
-<div class="line"><span class="lineno">  673</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  674</span>                    script-&gt;SetRedirectTarget(<a class="code hl_variable" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
-<div class="line"><span class="lineno">  675</span>            }</div>
-<div class="line"><span class="lineno">  676</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  666</span>    {</div>
+<div class="line"><span class="lineno">  667</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aura = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd">GetHitAura</a>())</div>
+<div class="line"><span class="lineno">  668</span>            <span class="keywordflow">if</span> (<span class="keyword">auto</span>* script = aura-&gt;GetScript&lt;<a class="code hl_class" href="../../d9/d55/classspell__rog__tricks__of__the__trade__aura.html">spell_rog_tricks_of_the_trade_aura</a>&gt;(<span class="stringliteral">&quot;spell_rog_tricks_of_the_trade&quot;</span>))</div>
+<div class="line"><span class="lineno">  669</span>            {</div>
+<div class="line"><span class="lineno">  670</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* explTarget = <a class="code hl_function" href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
+<div class="line"><span class="lineno">  671</span>                    script-&gt;SetRedirectTarget(explTarget-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">  672</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  673</span>                    script-&gt;SetRedirectTarget(<a class="code hl_variable" href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
+<div class="line"><span class="lineno">  674</span>            }</div>
+<div class="line"><span class="lineno">  675</span>    }</div>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aclassObjectGuid_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d0/d0a/classObjectGuid.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition</b> ObjectGuid.h:120</div></div>
 <div class="ttc" id="aclassSpellScript_html_a06569042edcd0574522cbb78ffd600fd"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a06569042edcd0574522cbb78ffd600fd">SpellScript::GetHitAura</a></div><div class="ttdeci">Aura * GetHitAura()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:554</div></div>
 <div class="ttc" id="aclassSpellScript_html_a0a4da6da2613261bd66a2ecc22ddc767"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a0a4da6da2613261bd66a2ecc22ddc767">SpellScript::GetExplTargetUnit</a></div><div class="ttdeci">Unit * GetExplTargetUnit()</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:433</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
-<div class="ttc" id="aclassspell__rog__tricks__of__the__trade__aura_html"><div class="ttname"><a href="../../d9/d55/classspell__rog__tricks__of__the__trade__aura.html">spell_rog_tricks_of_the_trade_aura</a></div><div class="ttdef"><b>Definition</b> spell_rogue.cpp:622</div></div>
+<div class="ttc" id="aclassspell__rog__tricks__of__the__trade__aura_html"><div class="ttname"><a href="../../d9/d55/classspell__rog__tricks__of__the__trade__aura.html">spell_rog_tricks_of_the_trade_aura</a></div><div class="ttdef"><b>Definition</b> spell_rogue.cpp:621</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>, and <a class="el" href="../../#l00554">SpellScript::GetHitAura()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00678">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00677">Register()</a>.</p>
 
 </div>
 </div>
@@ -386,14 +386,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  679</span>    {</div>
-<div class="line"><span class="lineno">  680</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d2/d39/classspell__rog__tricks__of__the__trade.html#a38ede5147a11c41770c4483a70d81e5d">spell_rog_tricks_of_the_trade::DoAfterHit</a>);</div>
-<div class="line"><span class="lineno">  681</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  678</span>    {</div>
+<div class="line"><span class="lineno">  679</span>        <a class="code hl_variable" href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">AfterHit</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d2/d39/classspell__rog__tricks__of__the__trade.html#a38ede5147a11c41770c4483a70d81e5d">spell_rog_tricks_of_the_trade::DoAfterHit</a>);</div>
+<div class="line"><span class="lineno">  680</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:349</div></div>
 <div class="ttc" id="aclassSpellScript_html_a3362c737af695ae44f841bf3c94003af"><div class="ttname"><a href="../../df/d92/classSpellScript.html#a3362c737af695ae44f841bf3c94003af">SpellScript::AfterHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; AfterHit</div><div class="ttdef"><b>Definition</b> SpellScript.h:347</div></div>
-<div class="ttc" id="aclassspell__rog__tricks__of__the__trade_html_a38ede5147a11c41770c4483a70d81e5d"><div class="ttname"><a href="../../d2/d39/classspell__rog__tricks__of__the__trade.html#a38ede5147a11c41770c4483a70d81e5d">spell_rog_tricks_of_the_trade::DoAfterHit</a></div><div class="ttdeci">void DoAfterHit()</div><div class="ttdef"><b>Definition</b> spell_rogue.cpp:666</div></div>
+<div class="ttc" id="aclassspell__rog__tricks__of__the__trade_html_a38ede5147a11c41770c4483a70d81e5d"><div class="ttname"><a href="../../d2/d39/classspell__rog__tricks__of__the__trade.html#a38ede5147a11c41770c4483a70d81e5d">spell_rog_tricks_of_the_trade::DoAfterHit</a></div><div class="ttdeci">void DoAfterHit()</div><div class="ttdef"><b>Definition</b> spell_rogue.cpp:665</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l00666">DoAfterHit()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00347">SpellScript::AfterHit</a>, <a class="el" href="../../#l00665">DoAfterHit()</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -406,7 +406,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d39/classspell__rog__tricks__of__the__trade.html">spell_rog_tricks_of_the_trade</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

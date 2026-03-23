@@ -342,22 +342,22 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  571</span>    {</div>
-<div class="line"><span class="lineno">  572</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> <span class="keyword">const</span>* owner = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>();</div>
-<div class="line"><span class="lineno">  573</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a> <span class="keyword">const</span>* aura = owner-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1">GetAuraOfRankedSpell</a>(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399">SPELL_SHAMAN_ELEMENTAL_OATH</a>, owner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
-<div class="line"><span class="lineno">  574</span>            amount = aura-&gt;GetSpellInfo()-&gt;Effects[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>].CalcValue();</div>
-<div class="line"><span class="lineno">  575</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  570</span>    {</div>
+<div class="line"><span class="lineno">  571</span>        <a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a> <span class="keyword">const</span>* owner = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>();</div>
+<div class="line"><span class="lineno">  572</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a> <span class="keyword">const</span>* aura = owner-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1">GetAuraOfRankedSpell</a>(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399">SPELL_SHAMAN_ELEMENTAL_OATH</a>, owner-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
+<div class="line"><span class="lineno">  573</span>            amount = aura-&gt;GetSpellInfo()-&gt;Effects[<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>].CalcValue();</div>
+<div class="line"><span class="lineno">  574</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a></div><div class="ttdeci">@ EFFECT_1</div><div class="ttdef"><b>Definition</b> SharedDefines.h:32</div></div>
 <div class="ttc" id="aclassAuraScript_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1045</div></div>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aclassObject_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition</b> Object.h:114</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
-<div class="ttc" id="aclassUnit_html_a1b5426ed0a821b78377faac8113796b1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1">Unit::GetAuraOfRankedSpell</a></div><div class="ttdeci">Aura * GetAuraOfRankedSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5802</div></div>
-<div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399">SPELL_SHAMAN_ELEMENTAL_OATH</a></div><div class="ttdeci">@ SPELL_SHAMAN_ELEMENTAL_OATH</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:42</div></div>
+<div class="ttc" id="aclassUnit_html_a1b5426ed0a821b78377faac8113796b1"><div class="ttname"><a href="../../df/dd9/classUnit.html#a1b5426ed0a821b78377faac8113796b1">Unit::GetAuraOfRankedSpell</a></div><div class="ttdeci">Aura * GetAuraOfRankedSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, ObjectGuid itemCasterGUID=ObjectGuid::Empty, uint8 reqEffMask=0) const</div><div class="ttdef"><b>Definition</b> Unit.cpp:5841</div></div>
+<div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399">SPELL_SHAMAN_ELEMENTAL_OATH</a></div><div class="ttdeci">@ SPELL_SHAMAN_ELEMENTAL_OATH</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l05802">Unit::GetAuraOfRankedSpell()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00042">SPELL_SHAMAN_ELEMENTAL_OATH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l05841">Unit::GetAuraOfRankedSpell()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00041">SPELL_SHAMAN_ELEMENTAL_OATH</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00577">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00576">Register()</a>.</p>
 
 </div>
 </div>
@@ -411,15 +411,15 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  578</span>    {</div>
-<div class="line"><span class="lineno">  579</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d0/dc9/classspell__sha__clearcasting.html#adc34e5742173d039f6050d5ccc0a2cae">spell_sha_clearcasting::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>);</div>
-<div class="line"><span class="lineno">  580</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  577</span>    {</div>
+<div class="line"><span class="lineno">  578</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d0/dc9/classspell__sha__clearcasting.html#adc34e5742173d039f6050d5ccc0a2cae">spell_sha_clearcasting::CalculateAmount</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>);</div>
+<div class="line"><span class="lineno">  579</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a79fed7b57d432e3ad0df6492f387c8b4">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a></div><div class="ttdeci">@ SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:142</div></div>
 <div class="ttc" id="aSpellScript_8h_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition</b> SpellScript.h:783</div></div>
 <div class="ttc" id="aclassAuraScript_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition</b> SpellScript.h:782</div></div>
-<div class="ttc" id="aclassspell__sha__clearcasting_html_adc34e5742173d039f6050d5ccc0a2cae"><div class="ttname"><a href="../../d0/dc9/classspell__sha__clearcasting.html#adc34e5742173d039f6050d5ccc0a2cae">spell_sha_clearcasting::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:570</div></div>
+<div class="ttc" id="aclassspell__sha__clearcasting_html_adc34e5742173d039f6050d5ccc0a2cae"><div class="ttname"><a href="../../d0/dc9/classspell__sha__clearcasting.html#adc34e5742173d039f6050d5ccc0a2cae">spell_sha_clearcasting::CalculateAmount</a></div><div class="ttdeci">void CalculateAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:569</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00570">CalculateAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, and <a class="el" href="../../#l00142">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00569">CalculateAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, and <a class="el" href="../../#l00142">SPELL_AURA_MOD_DAMAGE_PERCENT_DONE</a>.</p>
 
 </div>
 </div>
@@ -448,12 +448,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  565</span>    {</div>
-<div class="line"><span class="lineno">  566</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399">SPELL_SHAMAN_ELEMENTAL_OATH</a> });</div>
-<div class="line"><span class="lineno">  567</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  564</span>    {</div>
+<div class="line"><span class="lineno">  565</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ad6ccb2775eaa00fe609fa085c0b69399">SPELL_SHAMAN_ELEMENTAL_OATH</a> });</div>
+<div class="line"><span class="lineno">  566</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">SPELL_SHAMAN_ELEMENTAL_OATH</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">SPELL_SHAMAN_ELEMENTAL_OATH</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -466,7 +466,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/dc9/classspell__sha__clearcasting.html">spell_sha_clearcasting</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

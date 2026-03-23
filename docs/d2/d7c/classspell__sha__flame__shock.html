@@ -326,34 +326,34 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  820</span>    {</div>
-<div class="line"><span class="lineno">  821</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
-<div class="line"><span class="lineno">  822</span>            <span class="comment">// Lava Flows</span></div>
-<div class="line"><span class="lineno">  823</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* aurEff = caster-&gt;GetDummyAuraEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba9c8a9c6e102c760263471a93e58e80ea">SPELLFAMILY_SHAMAN</a>, <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090">SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
-<div class="line"><span class="lineno">  824</span>            {</div>
-<div class="line"><span class="lineno">  825</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* firstRankSpellInfo = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a>))</div>
-<div class="line"><span class="lineno">  826</span>                    <span class="keywordflow">if</span> (!aurEff-&gt;GetSpellInfo()-&gt;IsRankOf(firstRankSpellInfo))</div>
-<div class="line"><span class="lineno">  827</span>                        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  828</span> </div>
-<div class="line"><span class="lineno">  829</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> rank = aurEff-&gt;GetSpellInfo()-&gt;GetRank();</div>
-<div class="line"><span class="lineno">  830</span>                caster-&gt;CastSpell(caster, <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellWithRank(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a>, rank), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  831</span>            }</div>
-<div class="line"><span class="lineno">  832</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  819</span>    {</div>
+<div class="line"><span class="lineno">  820</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* caster = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>())</div>
+<div class="line"><span class="lineno">  821</span>            <span class="comment">// Lava Flows</span></div>
+<div class="line"><span class="lineno">  822</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d46/classAuraEffect.html">AuraEffect</a> <span class="keyword">const</span>* aurEff = caster-&gt;GetDummyAuraEffect(<a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba9c8a9c6e102c760263471a93e58e80ea">SPELLFAMILY_SHAMAN</a>, <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090">SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>))</div>
+<div class="line"><span class="lineno">  823</span>            {</div>
+<div class="line"><span class="lineno">  824</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> <span class="keyword">const</span>* firstRankSpellInfo = <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a>))</div>
+<div class="line"><span class="lineno">  825</span>                    <span class="keywordflow">if</span> (!aurEff-&gt;GetSpellInfo()-&gt;IsRankOf(firstRankSpellInfo))</div>
+<div class="line"><span class="lineno">  826</span>                        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  827</span> </div>
+<div class="line"><span class="lineno">  828</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> rank = aurEff-&gt;GetSpellInfo()-&gt;GetRank();</div>
+<div class="line"><span class="lineno">  829</span>                caster-&gt;CastSpell(caster, <a class="code hl_define" href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellWithRank(<a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a>, rank), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  830</span>            }</div>
+<div class="line"><span class="lineno">  831</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/d97/Define_8h.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition</b> Define.h:109</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
-<div class="ttc" id="aSharedDefines_8h_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba9c8a9c6e102c760263471a93e58e80ea"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba9c8a9c6e102c760263471a93e58e80ea">SPELLFAMILY_SHAMAN</a></div><div class="ttdeci">@ SPELLFAMILY_SHAMAN</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3779</div></div>
-<div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:815</div></div>
+<div class="ttc" id="aSharedDefines_8h_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba9c8a9c6e102c760263471a93e58e80ea"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba9c8a9c6e102c760263471a93e58e80ea">SPELLFAMILY_SHAMAN</a></div><div class="ttdeci">@ SPELLFAMILY_SHAMAN</div><div class="ttdef"><b>Definition</b> SharedDefines.h:3797</div></div>
+<div class="ttc" id="aSpellMgr_8h_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../de/d30/SpellMgr_8h.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition</b> SpellMgr.h:836</div></div>
 <div class="ttc" id="aclassAuraEffect_html"><div class="ttname"><a href="../../d7/d46/classAuraEffect.html">AuraEffect</a></div><div class="ttdef"><b>Definition</b> SpellAuraEffects.h:39</div></div>
 <div class="ttc" id="aclassAuraScript_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1035</div></div>
-<div class="ttc" id="aclassSpellInfo_html"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html">SpellInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:316</div></div>
+<div class="ttc" id="aclassSpellInfo_html"><div class="ttname"><a href="../../d2/de9/classSpellInfo.html">SpellInfo</a></div><div class="ttdef"><b>Definition</b> SpellInfo.h:340</div></div>
 <div class="ttc" id="aclassUnit_html"><div class="ttname"><a href="../../df/dd9/classUnit.html">Unit</a></div><div class="ttdef"><b>Definition</b> Unit.h:664</div></div>
-<div class="ttc" id="aspell__shaman_8cpp_html_a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090">SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</a></div><div class="ttdeci">@ SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:95</div></div>
-<div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a></div><div class="ttdeci">@ SPELL_SHAMAN_LAVA_FLOWS_R1</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:55</div></div>
-<div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a></div><div class="ttdeci">@ SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:56</div></div>
+<div class="ttc" id="aspell__shaman_8cpp_html_a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#a86df7d637744c5ff8f61c21d0ef4186fa5e084adfa3518de5af6826a3e3c68090">SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</a></div><div class="ttdeci">@ SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:94</div></div>
+<div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a></div><div class="ttdeci">@ SPELL_SHAMAN_LAVA_FLOWS_R1</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:54</div></div>
+<div class="ttc" id="aspell__shaman_8cpp_html_aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800"><div class="ttname"><a href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a></div><div class="ttdeci">@ SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:55</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00095">SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</a>, <a class="el" href="../../#l00055">SPELL_SHAMAN_LAVA_FLOWS_R1</a>, <a class="el" href="../../#l00056">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a>, <a class="el" href="../../#l03779">SPELLFAMILY_SHAMAN</a>, and <a class="el" href="../../#l00815">sSpellMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00094">SHAMAN_ICON_ID_SHAMAN_LAVA_FLOW</a>, <a class="el" href="../../#l00054">SPELL_SHAMAN_LAVA_FLOWS_R1</a>, <a class="el" href="../../#l00055">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a>, <a class="el" href="../../#l03797">SPELLFAMILY_SHAMAN</a>, and <a class="el" href="../../#l00836">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00834">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00833">Register()</a>.</p>
 
 </div>
 </div>
@@ -407,14 +407,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  835</span>    {</div>
-<div class="line"><span class="lineno">  836</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#abbfd3de68cd278d4dcc99e0a5f5b4822">AfterDispel</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc">AuraDispelFn</a>(<a class="code hl_function" href="../../d2/d7c/classspell__sha__flame__shock.html#aeab02cfd37c20aaf57e70aca62c82d99">spell_sha_flame_shock::HandleDispel</a>);</div>
-<div class="line"><span class="lineno">  837</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  834</span>    {</div>
+<div class="line"><span class="lineno">  835</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#abbfd3de68cd278d4dcc99e0a5f5b4822">AfterDispel</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc">AuraDispelFn</a>(<a class="code hl_function" href="../../d2/d7c/classspell__sha__flame__shock.html#aeab02cfd37c20aaf57e70aca62c82d99">spell_sha_flame_shock::HandleDispel</a>);</div>
+<div class="line"><span class="lineno">  836</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_af2fd7627b33028274141d6e790134ccc"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af2fd7627b33028274141d6e790134ccc">AuraDispelFn</a></div><div class="ttdeci">#define AuraDispelFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:743</div></div>
 <div class="ttc" id="aclassAuraScript_html_abbfd3de68cd278d4dcc99e0a5f5b4822"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#abbfd3de68cd278d4dcc99e0a5f5b4822">AuraScript::AfterDispel</a></div><div class="ttdeci">HookList&lt; AuraDispelHandler &gt; AfterDispel</div><div class="ttdef"><b>Definition</b> SpellScript.h:742</div></div>
-<div class="ttc" id="aclassspell__sha__flame__shock_html_aeab02cfd37c20aaf57e70aca62c82d99"><div class="ttname"><a href="../../d2/d7c/classspell__sha__flame__shock.html#aeab02cfd37c20aaf57e70aca62c82d99">spell_sha_flame_shock::HandleDispel</a></div><div class="ttdeci">void HandleDispel(DispelInfo *)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:819</div></div>
+<div class="ttc" id="aclassspell__sha__flame__shock_html_aeab02cfd37c20aaf57e70aca62c82d99"><div class="ttname"><a href="../../d2/d7c/classspell__sha__flame__shock.html#aeab02cfd37c20aaf57e70aca62c82d99">spell_sha_flame_shock::HandleDispel</a></div><div class="ttdeci">void HandleDispel(DispelInfo *)</div><div class="ttdef"><b>Definition</b> spell_shaman.cpp:818</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00742">AuraScript::AfterDispel</a>, <a class="el" href="../../#l00743">AuraDispelFn</a>, and <a class="el" href="../../#l00819">HandleDispel()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00742">AuraScript::AfterDispel</a>, <a class="el" href="../../#l00743">AuraDispelFn</a>, and <a class="el" href="../../#l00818">HandleDispel()</a>.</p>
 
 </div>
 </div>
@@ -443,12 +443,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/ddb/class__SpellScript.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  815</span>    {</div>
-<div class="line"><span class="lineno">  816</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a>, <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a> });</div>
-<div class="line"><span class="lineno">  817</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  814</span>    {</div>
+<div class="line"><span class="lineno">  815</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a>, <a class="code hl_enumvalue" href="../../df/dd5/spell__shaman_8cpp.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a> });</div>
+<div class="line"><span class="lineno">  816</span>    }</div>
 <div class="ttc" id="aclass__SpellScript_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../dd/ddb/class__SpellScript.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00055">SPELL_SHAMAN_LAVA_FLOWS_R1</a>, <a class="el" href="../../#l00056">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00054">SPELL_SHAMAN_LAVA_FLOWS_R1</a>, <a class="el" href="../../#l00055">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -461,7 +461,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d7c/classspell__sha__flame__shock.html">spell_sha_flame_shock</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

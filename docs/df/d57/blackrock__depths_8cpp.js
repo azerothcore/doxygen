@@ -1,17 +1,13 @@
 var blackrock__depths_8cpp =
 [
-    [ "go_shadowforge_brazier", "d2/d74/classgo__shadowforge__brazier.html", "d2/d74/classgo__shadowforge__brazier" ],
-    [ "ironhand_guardian", "db/d4a/classironhand__guardian.html", "db/d4a/classironhand__guardian" ],
-    [ "ironhand_guardian::ironhand_guardianAI", "d8/d01/structironhand__guardian_1_1ironhand__guardianAI.html", "d8/d01/structironhand__guardian_1_1ironhand__guardianAI" ],
+    [ "go_shadowforge_brazier", "d6/db0/structgo__shadowforge__brazier.html", "d6/db0/structgo__shadowforge__brazier" ],
+    [ "brd_ironhand_guardian", "d1/d5c/structbrd__ironhand__guardian.html", "d1/d5c/structbrd__ironhand__guardian" ],
     [ "WaveCreature", "dd/dc6/structWaveCreature.html", "dd/dc6/structWaveCreature" ],
     [ "at_ring_of_law", "df/d54/classat__ring__of__law.html", "df/d54/classat__ring__of__law" ],
-    [ "npc_grimstone", "d5/d18/classnpc__grimstone.html", "d5/d18/classnpc__grimstone" ],
-    [ "npc_grimstone::npc_grimstoneAI", "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI.html", "d3/d5c/structnpc__grimstone_1_1npc__grimstoneAI" ],
-    [ "npc_phalanx", "dc/d97/classnpc__phalanx.html", "dc/d97/classnpc__phalanx" ],
-    [ "npc_phalanx::npc_phalanxAI", "d8/dbd/structnpc__phalanx_1_1npc__phalanxAI.html", "d8/dbd/structnpc__phalanx_1_1npc__phalanxAI" ],
-    [ "npc_lokhtos_darkbargainer", "d1/d57/classnpc__lokhtos__darkbargainer.html", "d1/d57/classnpc__lokhtos__darkbargainer" ],
-    [ "npc_rocknot", "d8/df3/classnpc__rocknot.html", "d8/df3/classnpc__rocknot" ],
-    [ "npc_rocknot::npc_rocknotAI", "df/d98/structnpc__rocknot_1_1npc__rocknotAI.html", "df/d98/structnpc__rocknot_1_1npc__rocknotAI" ],
+    [ "npc_grimstone", "d7/df6/structnpc__grimstone.html", "d7/df6/structnpc__grimstone" ],
+    [ "npc_phalanx", "de/d1d/structnpc__phalanx.html", "de/d1d/structnpc__phalanx" ],
+    [ "npc_lokhtos_darkbargainer", "d4/d80/structnpc__lokhtos__darkbargainer.html", "d4/d80/structnpc__lokhtos__darkbargainer" ],
+    [ "npc_rocknot", "dd/d4c/structnpc__rocknot.html", "dd/d4c/structnpc__rocknot" ],
     [ "GrimstoneTexts", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954", [
       [ "SAY_TEXT1", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
       [ "SAY_TEXT2", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],

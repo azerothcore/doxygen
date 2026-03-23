@@ -1,7 +1,6 @@
 var boss__ragnaros_8cpp =
 [
-    [ "boss_ragnaros", "d2/d80/classboss__ragnaros.html", "d2/d80/classboss__ragnaros" ],
-    [ "boss_ragnaros::boss_ragnarosAI", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI.html", "db/df4/structboss__ragnaros_1_1boss__ragnarosAI" ],
+    [ "boss_ragnaros", "d6/d41/structboss__ragnaros.html", "d6/d41/structboss__ragnaros" ],
     [ "spell_ragnaros_lava_burst_randomizer", "dd/d9e/classspell__ragnaros__lava__burst__randomizer.html", "dd/d9e/classspell__ragnaros__lava__burst__randomizer" ],
     [ "spell_ragnaros_summon_sons_of_flame", "d2/dbf/classspell__ragnaros__summon__sons__of__flame.html", "d2/dbf/classspell__ragnaros__summon__sons__of__flame" ],
     [ "Creatures", "d2/db3/boss__ragnaros_8cpp.html#a25a619e6b66096a4f05d048e4a96df08", [

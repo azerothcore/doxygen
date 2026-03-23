@@ -1,7 +1,6 @@
 var boss__halycon_8cpp =
 [
-    [ "boss_halycon", "d6/de0/classboss__halycon.html", "d6/de0/classboss__halycon" ],
-    [ "boss_halycon::boss_halyconAI", "d1/d17/structboss__halycon_1_1boss__halyconAI.html", "d1/d17/structboss__halycon_1_1boss__halyconAI" ],
+    [ "boss_halycon", "dd/d8d/structboss__halycon.html", "dd/d8d/structboss__halycon" ],
     [ "Events", "db/d95/boss__halycon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_REND", "db/d95/boss__halycon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d", null ],
       [ "EVENT_THRASH", "db/d95/boss__halycon_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aebaaa45e8931cb1260ee80ba87bd2f0d", null ]

@@ -1,7 +1,6 @@
 var boss__magmadar_8cpp =
 [
-    [ "boss_magmadar", "d0/d9f/classboss__magmadar.html", "d0/d9f/classboss__magmadar" ],
-    [ "boss_magmadar::boss_magmadarAI", "d6/d97/structboss__magmadar_1_1boss__magmadarAI.html", "d6/d97/structboss__magmadar_1_1boss__magmadarAI" ],
+    [ "boss_magmadar", "d7/d3f/structboss__magmadar.html", "d7/d3f/structboss__magmadar" ],
     [ "spell_magmadar_lava_bomb", "d2/d32/classspell__magmadar__lava__bomb.html", "d2/d32/classspell__magmadar__lava__bomb" ],
     [ "Events", "d0/d26/boss__magmadar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_FRENZY", "d0/d26/boss__magmadar_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acfbd0b3d8c5edf866b4b7b17adf6ade3", null ],

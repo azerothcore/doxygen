@@ -2,6 +2,8 @@ var blackrock__depths_8h =
 [
     [ "BRDScriptName", "d7/d26/blackrock__depths_8h.html#addbf6aa184505d46d7bfe8b89b981efb", null ],
     [ "DataHeader", "d7/d26/blackrock__depths_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterBlackrockDepthsCreatureAI", "d7/d26/blackrock__depths_8h.html#ad8a3ba7dab406252a979d5af66be980a", null ],
+    [ "RegisterBlackrockDepthsGameObjectAI", "d7/d26/blackrock__depths_8h.html#a648e7de381945a58e4b153457cbfd37f", null ],
     [ "BRDBosses", "d7/d26/blackrock__depths_8h.html#a12f080ffb40a9cfa70f01269458f77b6", [
       [ "BOSS_AMBASSADOR_FLAMELASH", "d7/d26/blackrock__depths_8h.html#a12f080ffb40a9cfa70f01269458f77b6a75348ec9edcca36d4dbdaecbe689e087", null ]
     ] ],

@@ -1,7 +1,6 @@
 var boss__rend__blackhand_8cpp =
 [
-    [ "boss_rend_blackhand", "da/dee/classboss__rend__blackhand.html", "da/dee/classboss__rend__blackhand" ],
-    [ "boss_rend_blackhand::boss_rend_blackhandAI", "d4/d30/structboss__rend__blackhand_1_1boss__rend__blackhandAI.html", "d4/d30/structboss__rend__blackhand_1_1boss__rend__blackhandAI" ],
+    [ "boss_rend_blackhand", "d6/df9/structboss__rend__blackhand.html", "d6/df9/structboss__rend__blackhand" ],
     [ "Adds", "d9/da9/boss__rend__blackhand_8cpp.html#a2933cb34869f6eceea9b33441a4608ad", [
       [ "NPC_CHROMATIC_WHELP", "d9/da9/boss__rend__blackhand_8cpp.html#a2933cb34869f6eceea9b33441a4608ada1ba875cc3fc7b34b0f70719ea634b087", null ],
       [ "NPC_CHROMATIC_DRAGONSPAWN", "d9/da9/boss__rend__blackhand_8cpp.html#a2933cb34869f6eceea9b33441a4608ada602beef772fae24a32ec05623fb6b163", null ],

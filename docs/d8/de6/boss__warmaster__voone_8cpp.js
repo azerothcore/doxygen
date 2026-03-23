@@ -1,7 +1,6 @@
 var boss__warmaster__voone_8cpp =
 [
-    [ "boss_warmaster_voone", "dd/d85/classboss__warmaster__voone.html", "dd/d85/classboss__warmaster__voone" ],
-    [ "boss_warmaster_voone::boss_warmastervooneAI", "d8/d22/structboss__warmaster__voone_1_1boss__warmastervooneAI.html", "d8/d22/structboss__warmaster__voone_1_1boss__warmastervooneAI" ],
+    [ "boss_warmaster_voone", "d9/d19/structboss__warmaster__voone.html", "d9/d19/structboss__warmaster__voone" ],
     [ "EventGroups", "d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4", [
       [ "GROUP_THRASHER", "d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4a07a997e9e94ff0c05366cf511ae15023", null ],
       [ "GROUP_BRAWLER", "d8/de6/boss__warmaster__voone_8cpp.html#a1b10b77865251702395e967f7d08cba4ad5abea2cad34b3bc9e90d92eb3927dd3", null ],

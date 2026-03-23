@@ -1,7 +1,6 @@
 var boss__flamegor_8cpp =
 [
-    [ "boss_flamegor", "d5/d8b/classboss__flamegor.html", "d5/d8b/classboss__flamegor" ],
-    [ "boss_flamegor::boss_flamegorAI", "df/df0/structboss__flamegor_1_1boss__flamegorAI.html", "df/df0/structboss__flamegor_1_1boss__flamegorAI" ],
+    [ "boss_flamegor", "d9/dc1/structboss__flamegor.html", "d9/dc1/structboss__flamegor" ],
     [ "Emotes", "d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d5/dd8/boss__flamegor_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ]
     ] ],

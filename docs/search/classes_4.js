@@ -67,6 +67,7 @@ var searchData=
   ['dynamictreeintersectioncallback_64',['DynamicTreeIntersectionCallback',['../d7/dff/structDynamicTreeIntersectionCallback.html',1,'']]],
   ['dynamictreelocationinfocallback_65',['DynamicTreeLocationInfoCallback',['../d3/d98/structDynamicTreeLocationInfoCallback.html',1,'']]],
   ['dynamicvisibilitymgr_66',['DynamicVisibilityMgr',['../da/df9/classDynamicVisibilityMgr.html',1,'']]],
-  ['dynobjaura_67',['DynObjAura',['../d1/d3f/classDynObjAura.html',1,'']]],
-  ['dyntreeimpl_68',['DynTreeImpl',['../da/d8d/structDynTreeImpl.html',1,'']]]
+  ['dynamicvmapcollisiondata_67',['DynamicVMapCollisionData',['../d7/d2f/classDynamicVMapCollisionData.html',1,'']]],
+  ['dynobjaura_68',['DynObjAura',['../d1/d3f/classDynObjAura.html',1,'']]],
+  ['dyntreeimpl_69',['DynTreeImpl',['../da/d8d/structDynTreeImpl.html',1,'']]]
 ];

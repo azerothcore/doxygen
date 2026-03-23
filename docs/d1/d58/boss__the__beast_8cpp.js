@@ -2,8 +2,7 @@ var boss__the__beast_8cpp =
 [
     [ "OrcMoveEvent", "dc/da5/classOrcMoveEvent.html", "dc/da5/classOrcMoveEvent" ],
     [ "OrcDeathEvent", "d5/df5/classOrcDeathEvent.html", "d5/df5/classOrcDeathEvent" ],
-    [ "boss_the_beast", "d3/dfd/classboss__the__beast.html", "d3/dfd/classboss__the__beast" ],
-    [ "boss_the_beast::boss_thebeastAI", "d0/d5c/structboss__the__beast_1_1boss__thebeastAI.html", "d0/d5c/structboss__the__beast_1_1boss__thebeastAI" ],
+    [ "boss_the_beast", "d4/d5c/structboss__the__beast.html", "d4/d5c/structboss__the__beast" ],
     [ "at_trigger_the_beast_movement", "d0/d28/classat__trigger__the__beast__movement.html", "d0/d28/classat__trigger__the__beast__movement" ],
     [ "at_the_beast_room", "da/def/classat__the__beast__room.html", "da/def/classat__the__beast__room" ],
     [ "BeastMisc", "d1/d58/boss__the__beast_8cpp.html#a90702f385b86278a300e5589aa870fe7", [

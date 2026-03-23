@@ -670,21 +670,11 @@ Additional Inherited Members</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#aa88ecdf57b44fb013c3fed4ff59aec0d">UnitAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
-<div class="line"><span class="lineno">   77</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2">SetValidator</a>([<span class="keyword">this</span>]</div>
-<div class="line"><span class="lineno">   78</span>        {</div>
-<div class="line"><span class="lineno">   79</span>            <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>);</div>
-<div class="line"><span class="lineno">   80</span>        });</div>
-<div class="line"><span class="lineno">   81</span> </div>
-<div class="line"><span class="lineno">   82</span>        <a class="code hl_function" href="../../d3/d56/structboss__venoxis.html#a40cbcd4d41ff85ff71d5d913d8e62368">Reset</a>();</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition</b> UnitDefines.h:188</div></div>
-<div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:74</div></div>
-<div class="ttc" id="aclassTaskScheduler_html_af2bb90b6b81ab1cacd9ac56c3d7e11b2"><div class="ttname"><a href="../../df/ddc/classTaskScheduler.html#af2bb90b6b81ab1cacd9ac56c3d7e11b2">TaskScheduler::SetValidator</a></div><div class="ttdeci">TaskScheduler &amp; SetValidator(P &amp;&amp;predicate)</div><div class="ttdoc">Sets a validator which is asked if tasks are allowed to be executed.</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:197</div></div>
-<div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:736</div></div>
-<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:281</div></div>
-<div class="ttc" id="astructboss__venoxis_html_a40cbcd4d41ff85ff71d5d913d8e62368"><div class="ttname"><a href="../../d3/d56/structboss__venoxis.html#a40cbcd4d41ff85ff71d5d913d8e62368">boss_venoxis::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> boss_venoxis.cpp:85</div></div>
+<div class="line"><span class="lineno">   77</span>        <a class="code hl_function" href="../../d3/d56/structboss__venoxis.html#a40cbcd4d41ff85ff71d5d913d8e62368">Reset</a>();</div>
+<div class="line"><span class="lineno">   78</span>    }</div>
+<div class="ttc" id="astructboss__venoxis_html_a40cbcd4d41ff85ff71d5d913d8e62368"><div class="ttname"><a href="../../d3/d56/structboss__venoxis.html#a40cbcd4d41ff85ff71d5d913d8e62368">boss_venoxis::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> boss_venoxis.cpp:80</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00736">Unit::HasUnitState()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00085">Reset()</a>, <a class="el" href="../../#l00074">CreatureAI::scheduler</a>, <a class="el" href="../../#l00197">TaskScheduler::SetValidator()</a>, and <a class="el" href="../../#l00188">UNIT_STATE_CASTING</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00080">Reset()</a>.</p>
 
 </div>
 </div>
@@ -713,17 +703,18 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  164</span>    {</div>
-<div class="line"><span class="lineno">  165</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a3980e3c1e8e9992034c9ec35a8b3e298">BossAI::JustDied</a>(killer);</div>
-<div class="line"><span class="lineno">  166</span>        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1afb5221b6fb19819cb7883923ade34b03">SAY_VENOXIS_DEATH</a>);</div>
-<div class="line"><span class="lineno">  167</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();       <span class="comment">// removes transform</span></div>
-<div class="line"><span class="lineno">  168</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  159</span>    {</div>
+<div class="line"><span class="lineno">  160</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a3980e3c1e8e9992034c9ec35a8b3e298">BossAI::JustDied</a>(killer);</div>
+<div class="line"><span class="lineno">  161</span>        <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1afb5221b6fb19819cb7883923ade34b03">SAY_VENOXIS_DEATH</a>);</div>
+<div class="line"><span class="lineno">  162</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();       <span class="comment">// removes transform</span></div>
+<div class="line"><span class="lineno">  163</span>    }</div>
 <div class="ttc" id="aboss__venoxis_8cpp_html_a16774215bba3b38580ea51987d64cff1afb5221b6fb19819cb7883923ade34b03"><div class="ttname"><a href="../../db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1afb5221b6fb19819cb7883923ade34b03">SAY_VENOXIS_DEATH</a></div><div class="ttdeci">@ SAY_VENOXIS_DEATH</div><div class="ttdef"><b>Definition</b> boss_venoxis.cpp:30</div></div>
 <div class="ttc" id="aclassBossAI_html_a3980e3c1e8e9992034c9ec35a8b3e298"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a3980e3c1e8e9992034c9ec35a8b3e298">BossAI::JustDied</a></div><div class="ttdeci">void JustDied(Unit *) override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:527</div></div>
-<div class="ttc" id="aclassUnit_html_aca967faa985dbe4062dd23360cdb607c"><div class="ttname"><a href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">Unit::RemoveAllAuras</a></div><div class="ttdeci">void RemoveAllAuras()</div><div class="ttdef"><b>Definition</b> Unit.cpp:5522</div></div>
+<div class="ttc" id="aclassUnit_html_aca967faa985dbe4062dd23360cdb607c"><div class="ttname"><a href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">Unit::RemoveAllAuras</a></div><div class="ttdeci">void RemoveAllAuras()</div><div class="ttdef"><b>Definition</b> Unit.cpp:5561</div></div>
 <div class="ttc" id="ahyjal_8cpp_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition</b> hyjal.cpp:82</div></div>
+<div class="ttc" id="astructScriptedAI_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:281</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00527">BossAI::JustDied()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l05522">Unit::RemoveAllAuras()</a>, and <a class="el" href="../../#l00030">SAY_VENOXIS_DEATH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00527">BossAI::JustDied()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l05561">Unit::RemoveAllAuras()</a>, and <a class="el" href="../../#l00030">SAY_VENOXIS_DEATH</a>.</p>
 
 </div>
 </div>
@@ -754,74 +745,74 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged - this happens <em>after</em> JustEnteredCombat. </p>
 
 <p>Reimplemented from <a class="el" href="../../d5/d79/classCreatureAI.html#a15f691c9137273cd5c3d5ba6f0762300">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   94</span>    {</div>
-<div class="line"><span class="lineno">   95</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">_JustEngagedWith</a>();</div>
-<div class="line"><span class="lineno">   96</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>);</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>        <span class="comment">// Both phases</span></div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(8s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  100</span>        {</div>
-<div class="line"><span class="lineno">  101</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b">SPELL_THRASH</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  102</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(10s, 20s);</div>
-<div class="line"><span class="lineno">  103</span>        });</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>        <span class="comment">//</span></div>
-<div class="line"><span class="lineno">  106</span>        <span class="comment">// Phase 1 - Troll Form</span></div>
-<div class="line"><span class="lineno">  107</span>        <span class="comment">//</span></div>
-<div class="line"><span class="lineno">  108</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, 15s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  109</span>        {</div>
-<div class="line"><span class="lineno">  110</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca678bab3de60ed4108ef58f54329f520d">SPELL_HOLY_NOVA</a>);</div>
-<div class="line"><span class="lineno">  111</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(10s, 24s);</div>
-<div class="line"><span class="lineno">  112</span>        }).Schedule(35s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  113</span>        {</div>
-<div class="line"><span class="lineno">  114</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca62cb4713c11ae62dc9d66b3db7b20b19">SPELL_DISPEL_MAGIC</a>);</div>
-<div class="line"><span class="lineno">  115</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 20s);</div>
-<div class="line"><span class="lineno">  116</span>        }).Schedule(10s, 20s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  117</span>        {</div>
-<div class="line"><span class="lineno">  118</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cac3a4396238fbb11f537aa061424abe2b">SPELL_HOLY_FIRE</a>);</div>
-<div class="line"><span class="lineno">  119</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(10s, 24s);</div>
-<div class="line"><span class="lineno">  120</span>        }).Schedule(30s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  121</span>        {</div>
-<div class="line"><span class="lineno">  122</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298caaf085a0eea027f75c291005b97cb46bd">SPELL_RENEW</a>);</div>
-<div class="line"><span class="lineno">  123</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 30s);</div>
-<div class="line"><span class="lineno">  124</span>        }).Schedule(15s, 25s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  125</span>        {</div>
-<div class="line"><span class="lineno">  126</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a60e6b86ce644125ad36c4f148e0997a3">DoCastMaxThreat</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379">SPELL_HOLY_WRATH</a>, 0, 100.0f, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  127</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(12s, 22s);</div>
-<div class="line"><span class="lineno">  128</span>        });</div>
-<div class="line"><span class="lineno">  129</span> </div>
-<div class="line"><span class="lineno">  130</span>        <span class="comment">//</span></div>
-<div class="line"><span class="lineno">  131</span>        <span class="comment">// Phase 2 - Snake Form (50% health)</span></div>
-<div class="line"><span class="lineno">  132</span>        <span class="comment">//</span></div>
-<div class="line"><span class="lineno">  133</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a2fe5fffaedd7d15e8edde6f2e276287c">ScheduleHealthCheckEvent</a>(50, [&amp;]</div>
-<div class="line"><span class="lineno">  134</span>        {</div>
-<div class="line"><span class="lineno">  135</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#aa4076cb693d644584f7475dd4f5f4b5d">CancelGroup</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>);</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e08df0c8328f4454fe08c310a1e07be">SPELL_VENOXIS_TRANSFORM</a>);</div>
-<div class="line"><span class="lineno">  138</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1ae2eb91d9c6d4fcc91a33d9be46526683">SAY_VENOXIS_TRANSFORM</a>);</div>
-<div class="line"><span class="lineno">  139</span>            <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a0e0f63f6d980fe86a9f69f06428078a2">DoResetThreatList</a>();</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  142</span>            {</div>
-<div class="line"><span class="lineno">  143</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cafd3521571de9e08368645054056733f6">SPELL_VENOM_SPIT</a>);</div>
-<div class="line"><span class="lineno">  144</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(5s, 15s);</div>
-<div class="line"><span class="lineno">  145</span>            }).Schedule(10s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  146</span>            {</div>
-<div class="line"><span class="lineno">  147</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009">SPELL_POISON_CLOUD</a>);</div>
-<div class="line"><span class="lineno">  148</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 20s);</div>
-<div class="line"><span class="lineno">  149</span>            }).Schedule(30s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  150</span>            {</div>
-<div class="line"><span class="lineno">  151</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cc74aee59a27eb586805a9e8c2001cf">SPELL_SUMMON_PARASITIC_SERPENT</a>);</div>
-<div class="line"><span class="lineno">  152</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s);</div>
-<div class="line"><span class="lineno">  153</span>            });</div>
-<div class="line"><span class="lineno">  154</span> </div>
-<div class="line"><span class="lineno">  155</span>            <span class="comment">// frenzy at 20% health</span></div>
-<div class="line"><span class="lineno">  156</span>            <a class="code hl_function" href="../../d3/d24/classBossAI.html#a2fe5fffaedd7d15e8edde6f2e276287c">ScheduleHealthCheckEvent</a>(20, [&amp;]</div>
-<div class="line"><span class="lineno">  157</span>            {</div>
-<div class="line"><span class="lineno">  158</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  159</span>            });</div>
-<div class="line"><span class="lineno">  160</span>        });</div>
-<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
+<div class="line"><span class="lineno">   90</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">_JustEngagedWith</a>();</div>
+<div class="line"><span class="lineno">   91</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>);</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>        <span class="comment">// Both phases</span></div>
+<div class="line"><span class="lineno">   94</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(8s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">   95</span>        {</div>
+<div class="line"><span class="lineno">   96</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298caab4ccf93bfa07a14df4f49c08ca4318b">SPELL_THRASH</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   97</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(10s, 20s);</div>
+<div class="line"><span class="lineno">   98</span>        });</div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>        <span class="comment">//</span></div>
+<div class="line"><span class="lineno">  101</span>        <span class="comment">// Phase 1 - Troll Form</span></div>
+<div class="line"><span class="lineno">  102</span>        <span class="comment">//</span></div>
+<div class="line"><span class="lineno">  103</span>        <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, 15s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  104</span>        {</div>
+<div class="line"><span class="lineno">  105</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca678bab3de60ed4108ef58f54329f520d">SPELL_HOLY_NOVA</a>);</div>
+<div class="line"><span class="lineno">  106</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(10s, 24s);</div>
+<div class="line"><span class="lineno">  107</span>        }).Schedule(35s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  108</span>        {</div>
+<div class="line"><span class="lineno">  109</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca62cb4713c11ae62dc9d66b3db7b20b19">SPELL_DISPEL_MAGIC</a>);</div>
+<div class="line"><span class="lineno">  110</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 20s);</div>
+<div class="line"><span class="lineno">  111</span>        }).Schedule(10s, 20s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  112</span>        {</div>
+<div class="line"><span class="lineno">  113</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a01ab166c5d8c01645f8c638c85ed2c94">DoCastRandomTarget</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cac3a4396238fbb11f537aa061424abe2b">SPELL_HOLY_FIRE</a>);</div>
+<div class="line"><span class="lineno">  114</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(10s, 24s);</div>
+<div class="line"><span class="lineno">  115</span>        }).Schedule(30s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  116</span>        {</div>
+<div class="line"><span class="lineno">  117</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298caaf085a0eea027f75c291005b97cb46bd">SPELL_RENEW</a>);</div>
+<div class="line"><span class="lineno">  118</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(25s, 30s);</div>
+<div class="line"><span class="lineno">  119</span>        }).Schedule(15s, 25s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  120</span>        {</div>
+<div class="line"><span class="lineno">  121</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a60e6b86ce644125ad36c4f148e0997a3">DoCastMaxThreat</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379">SPELL_HOLY_WRATH</a>, 0, 100.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  122</span>            context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(12s, 22s);</div>
+<div class="line"><span class="lineno">  123</span>        });</div>
+<div class="line"><span class="lineno">  124</span> </div>
+<div class="line"><span class="lineno">  125</span>        <span class="comment">//</span></div>
+<div class="line"><span class="lineno">  126</span>        <span class="comment">// Phase 2 - Snake Form (50% health)</span></div>
+<div class="line"><span class="lineno">  127</span>        <span class="comment">//</span></div>
+<div class="line"><span class="lineno">  128</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#a2fe5fffaedd7d15e8edde6f2e276287c">ScheduleHealthCheckEvent</a>(50, [&amp;]</div>
+<div class="line"><span class="lineno">  129</span>        {</div>
+<div class="line"><span class="lineno">  130</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#aa4076cb693d644584f7475dd4f5f4b5d">CancelGroup</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a010c34255c53692507f4cf089853cd05">PHASE_ONE</a>);</div>
+<div class="line"><span class="lineno">  131</span> </div>
+<div class="line"><span class="lineno">  132</span>            <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca0e08df0c8328f4454fe08c310a1e07be">SPELL_VENOXIS_TRANSFORM</a>);</div>
+<div class="line"><span class="lineno">  133</span>            <a class="code hl_enumeration" href="../../d6/d6f/hyjal_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1ae2eb91d9c6d4fcc91a33d9be46526683">SAY_VENOXIS_TRANSFORM</a>);</div>
+<div class="line"><span class="lineno">  134</span>            <a class="code hl_function" href="../../db/dc8/structScriptedAI.html#a0e0f63f6d980fe86a9f69f06428078a2">DoResetThreatList</a>();</div>
+<div class="line"><span class="lineno">  135</span> </div>
+<div class="line"><span class="lineno">  136</span>            <a class="code hl_variable" href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../df/ddc/classTaskScheduler.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(5s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  137</span>            {</div>
+<div class="line"><span class="lineno">  138</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cafd3521571de9e08368645054056733f6">SPELL_VENOM_SPIT</a>);</div>
+<div class="line"><span class="lineno">  139</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(5s, 15s);</div>
+<div class="line"><span class="lineno">  140</span>            }).Schedule(10s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  141</span>            {</div>
+<div class="line"><span class="lineno">  142</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009">SPELL_POISON_CLOUD</a>);</div>
+<div class="line"><span class="lineno">  143</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s, 20s);</div>
+<div class="line"><span class="lineno">  144</span>            }).Schedule(30s, <a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a>, [<span class="keyword">this</span>](<a class="code hl_class" href="../../db/ddb/classTaskContext.html">TaskContext</a> context)</div>
+<div class="line"><span class="lineno">  145</span>            {</div>
+<div class="line"><span class="lineno">  146</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca9cc74aee59a27eb586805a9e8c2001cf">SPELL_SUMMON_PARASITIC_SERPENT</a>);</div>
+<div class="line"><span class="lineno">  147</span>                context.<a class="code hl_function" href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(15s);</div>
+<div class="line"><span class="lineno">  148</span>            });</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>            <span class="comment">// frenzy at 20% health</span></div>
+<div class="line"><span class="lineno">  151</span>            <a class="code hl_function" href="../../d3/d24/classBossAI.html#a2fe5fffaedd7d15e8edde6f2e276287c">ScheduleHealthCheckEvent</a>(20, [&amp;]</div>
+<div class="line"><span class="lineno">  152</span>            {</div>
+<div class="line"><span class="lineno">  153</span>                <a class="code hl_function" href="../../d0/ddd/classUnitAI.html#a6ae5c7d15b747433f4d94f80bcebd215">DoCastSelf</a>(<a class="code hl_enumvalue" href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  154</span>            });</div>
+<div class="line"><span class="lineno">  155</span>        });</div>
+<div class="line"><span class="lineno">  156</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a></div><div class="ttdeci">@ REACT_AGGRESSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:568</div></div>
 <div class="ttc" id="aboss__venoxis_8cpp_html_a16774215bba3b38580ea51987d64cff1ae2eb91d9c6d4fcc91a33d9be46526683"><div class="ttname"><a href="../../db/d98/boss__venoxis_8cpp.html#a16774215bba3b38580ea51987d64cff1ae2eb91d9c6d4fcc91a33d9be46526683">SAY_VENOXIS_TRANSFORM</a></div><div class="ttdeci">@ SAY_VENOXIS_TRANSFORM</div><div class="ttdef"><b>Definition</b> boss_venoxis.cpp:29</div></div>
 <div class="ttc" id="aboss__venoxis_8cpp_html_a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379"><div class="ttname"><a href="../../db/d98/boss__venoxis_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379">SPELL_HOLY_WRATH</a></div><div class="ttdeci">@ SPELL_HOLY_WRATH</div><div class="ttdef"><b>Definition</b> boss_venoxis.cpp:44</div></div>
@@ -839,6 +830,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aboss__venoxis_8cpp_html_a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65"><div class="ttname"><a href="../../db/d98/boss__venoxis_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219ad306b605b01d26aee45d81b8a241cb65">PHASE_TWO</a></div><div class="ttdeci">@ PHASE_TWO</div><div class="ttdef"><b>Definition</b> boss_venoxis.cpp:59</div></div>
 <div class="ttc" id="aclassBossAI_html_a2fe5fffaedd7d15e8edde6f2e276287c"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a2fe5fffaedd7d15e8edde6f2e276287c">BossAI::ScheduleHealthCheckEvent</a></div><div class="ttdeci">void ScheduleHealthCheckEvent(uint32 healthPct, std::function&lt; void()&gt; exec, bool allowedWhileCasting=true)</div><div class="ttdoc">Executes a function once the creature reaches the defined health point percent.</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:831</div></div>
 <div class="ttc" id="aclassBossAI_html_a9619670887e8e94096e50f784b083150"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9619670887e8e94096e50f784b083150">BossAI::_JustEngagedWith</a></div><div class="ttdeci">void _JustEngagedWith()</div><div class="ttdef"><b>Definition</b> ScriptedCreature.cpp:677</div></div>
+<div class="ttc" id="aclassCreatureAI_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d5/d79/classCreatureAI.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition</b> CreatureAI.h:74</div></div>
 <div class="ttc" id="aclassCreature_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition</b> Creature.h:99</div></div>
 <div class="ttc" id="aclassTaskContext_html"><div class="ttname"><a href="../../db/ddb/classTaskContext.html">TaskContext</a></div><div class="ttdef"><b>Definition</b> TaskScheduler.h:421</div></div>
 <div class="ttc" id="aclassTaskContext_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition</b> TaskScheduler.h:493</div></div>
@@ -877,16 +869,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d0/ddd/classUnitAI.html#a43eb9ef68b977d98f6618d69a0d62115">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   86</span>    {</div>
-<div class="line"><span class="lineno">   87</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a>();</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
-<div class="line"><span class="lineno">   90</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
+<div class="line"><span class="lineno">   82</span>        <a class="code hl_function" href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a>();</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aca967faa985dbe4062dd23360cdb607c">RemoveAllAuras</a>();</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">   86</span>    }</div>
 <div class="ttc" id="aUnit_8h_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition</b> Unit.h:566</div></div>
 <div class="ttc" id="aclassBossAI_html_abe75353ec3f0c86502696b8ccb059cb7"><div class="ttname"><a href="../../d3/d24/classBossAI.html#abe75353ec3f0c86502696b8ccb059cb7">BossAI::Reset</a></div><div class="ttdeci">void Reset() override</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:524</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l05522">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l00524">BossAI::Reset()</a>, and <a class="el" href="../../#l00099">Creature::SetReactState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l05561">Unit::RemoveAllAuras()</a>, <a class="el" href="../../#l00524">BossAI::Reset()</a>, and <a class="el" href="../../#l00099">Creature::SetReactState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00075">InitializeAI()</a>.</p>
 
@@ -901,7 +893,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d56/structboss__venoxis.html">boss_venoxis</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:45:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:05:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

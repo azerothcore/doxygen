@@ -1,7 +1,6 @@
 var boss__shazzrah_8cpp =
 [
-    [ "boss_shazzrah", "db/d78/classboss__shazzrah.html", "db/d78/classboss__shazzrah" ],
-    [ "boss_shazzrah::boss_shazzrahAI", "d6/d13/structboss__shazzrah_1_1boss__shazzrahAI.html", "d6/d13/structboss__shazzrah_1_1boss__shazzrahAI" ],
+    [ "boss_shazzrah", "d6/d1b/structboss__shazzrah.html", "d6/d1b/structboss__shazzrah" ],
     [ "spell_shazzrah_gate_dummy", "db/d48/classspell__shazzrah__gate__dummy.html", "db/d48/classspell__shazzrah__gate__dummy" ],
     [ "Events", "d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_ARCANE_EXPLOSION", "d5/d5d/boss__shazzrah_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a77555109b1c145d26a3e4e3faa3e37a5", null ],

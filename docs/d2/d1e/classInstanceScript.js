@@ -43,6 +43,7 @@ var classInstanceScript =
     [ "GetStoredGameObjectState", "d2/d1e/classInstanceScript.html#a6093184b917e8a062c36f843c1458169", null ],
     [ "GetTeamIdInInstance", "d2/d1e/classInstanceScript.html#af8c6fd92a69d0795f88102635aab33a8", null ],
     [ "HandleGameObject", "d2/d1e/classInstanceScript.html#a1961c04a44bb8d0fc3e5c6dc0c39790f", null ],
+    [ "HandleGameObject", "d2/d1e/classInstanceScript.html#a44e323e8f12d4c6e3e53b7321a43c246", null ],
     [ "Initialize", "d2/d1e/classInstanceScript.html#ae28a789e519af133bb744c796902294c", null ],
     [ "IsAreaTriggerDone", "d2/d1e/classInstanceScript.html#a3274aa9b13afba93420bcc7422ad7794", null ],
     [ "IsBossDone", "d2/d1e/classInstanceScript.html#a7aaa52e19edf18424e12a0457b5d45b6", null ],

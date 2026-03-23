@@ -1,6 +1,8 @@
 var molten__core_8h =
 [
     [ "DataHeader", "d0/dad/molten__core_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterMoltenCoreCreatureAI", "d0/dad/molten__core_8h.html#a4afbea2a751ce8ae061a4066e2edb593", null ],
+    [ "RegisterMoltenCoreGameObjectAI", "d0/dad/molten__core_8h.html#aa6c7e3af3690d3417a05ad828ceb5bbd", null ],
     [ "MCActions", "d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5", [
       [ "ACTION_START_RAGNAROS_INTRO", "d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5a9c9e0ba8ffebd28ae3b0a640d668d288", null ],
       [ "ACTION_FINISH_RAGNAROS_INTRO", "d0/dad/molten__core_8h.html#acc1dd05eec888d523a252c36c0cb8ee5a229d2386881bf04dc811f0a76c69fe5f", null ],

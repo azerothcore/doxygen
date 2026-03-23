@@ -223,6 +223,10 @@ var namespaceAcore =
       [ "Priority_Highest", "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
       [ "Priority_Realtime", "d3/d0b/namespaceAcore.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
     ] ],
+    [ "WorldObjectSpellAreaTargetSearchReason", "d3/d0b/namespaceAcore.html#a5f5f9b21657494ac28217867f6f20a9d", [
+      [ "Area", "d3/d0b/namespaceAcore.html#a5f5f9b21657494ac28217867f6f20a9dadeec4ff19974f12ed781cb9a59064214", null ],
+      [ "Chain", "d3/d0b/namespaceAcore.html#a5f5f9b21657494ac28217867f6f20a9da5320550175ad6f79ad658943b9c013a7", null ]
+    ] ],
     [ "Abort", "d3/d0b/namespaceAcore.html#a257b055b35d21943eb2a144cccd26429", null ],
     [ "Abort", "d3/d0b/namespaceAcore.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
     [ "AbortHandler", "d3/d0b/namespaceAcore.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],

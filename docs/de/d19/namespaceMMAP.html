@@ -120,8 +120,6 @@ $(document).ready(function(){initNavTree('de/d19/namespaceMMAP.html','../../'); 
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da7/classMMAP_1_1Config.html">Config</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da2/classMMAP_1_1IMMapMgr.html">IMMapMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d79/structMMAP_1_1IntermediateValues.html">IntermediateValues</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dab/classMMAP_1_1MapBuilder.html">MapBuilder</a></td></tr>
@@ -130,11 +128,11 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9e/structMMAP_1_1MeshData.html">MeshData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/structMMAP_1_1MMapData.html">MMapData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d5c/classMMAP_1_1MMapFactory.html">MMapFactory</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8e/classMMAP_1_1MMapMgr.html">MMapMgr</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d47/structMMAP_1_1NavMeshDeleter.html">NavMeshDeleter</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html">NavMeshQueryDeleter</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4a/structMMAP_1_1ResolvedMeshConfig.html">ResolvedMeshConfig</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -149,44 +147,19 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a1e41f7222e3ee601b787809808325f2c" id="r_a1e41f7222e3ee601b787809808325f2c"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, dtTileRef &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a1e41f7222e3ee601b787809808325f2c">MMapTileSet</a></td></tr>
-<tr class="separator:a1e41f7222e3ee601b787809808325f2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89710e07eb1c881e22b1b2bb7c8f671c" id="r_a89710e07eb1c881e22b1b2bb7c8f671c"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, dtNavMeshQuery * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a89710e07eb1c881e22b1b2bb7c8f671c">NavMeshQuerySet</a></td></tr>
-<tr class="separator:a89710e07eb1c881e22b1b2bb7c8f671c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c987e5b93af6a44b28948b66804ad88" id="r_a7c987e5b93af6a44b28948b66804ad88"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/d64/structMMAP_1_1MMapData.html">MMapData</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a7c987e5b93af6a44b28948b66804ad88">MMapDataSet</a></td></tr>
-<tr class="separator:a7c987e5b93af6a44b28948b66804ad88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9864ce68a669d59d8baee4cb742900b" id="r_aa9864ce68a669d59d8baee4cb742900b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#aa9864ce68a669d59d8baee4cb742900b">ManagedNavMeshQuery</a> = std::unique_ptr&lt; dtNavMeshQuery, <a class="el" href="../../d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html">NavMeshQueryDeleter</a> &gt;</td></tr>
+<tr class="separator:aa9864ce68a669d59d8baee4cb742900b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2aae6f254337f29866a5d240d5ec2b1" id="r_aa2aae6f254337f29866a5d240d5ec2b1"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; <a class="el" href="../../df/d51/structMMAP_1_1MapTiles.html">MapTiles</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#aa2aae6f254337f29866a5d240d5ec2b1">TileList</a></td></tr>
 <tr class="separator:aa2aae6f254337f29866a5d240d5ec2b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
 <tr class="memitem:a329271d76c3ed7ad6d255d45094b4868" id="r_a329271d76c3ed7ad6d255d45094b4868"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868">MMAP_LOAD_RESULT</a> { <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP_LOAD_RESULT_ERROR</a>
+&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44">MMAP_LOAD_RESULT_ERROR</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP_LOAD_RESULT_OK</a>
+&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a">MMAP_LOAD_RESULT_OK</a>
 , <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP_LOAD_RESULT_IGNORED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP_LOAD_RESULT_ERROR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP_LOAD_RESULT_OK</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP_LOAD_RESULT_IGNORED</a>
-<br />
- }</td></tr>
-<tr class="separator:a329271d76c3ed7ad6d255d45094b4868"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a329271d76c3ed7ad6d255d45094b4868" id="r_a329271d76c3ed7ad6d255d45094b4868"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868">MMAP_LOAD_RESULT</a> { <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP_LOAD_RESULT_ERROR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP_LOAD_RESULT_OK</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP_LOAD_RESULT_IGNORED</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP_LOAD_RESULT_ERROR</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP_LOAD_RESULT_OK</a>
-, <br />
-&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP_LOAD_RESULT_IGNORED</a>
+&#160;&#160;<a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88">MMAP_LOAD_RESULT_IGNORED</a>
 <br />
  }</td></tr>
 <tr class="separator:a329271d76c3ed7ad6d255d45094b4868"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -235,8 +208,6 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a7ca17c8e81612c16a92e901cac65113e" id="r_a7ca17c8e81612c16a92e901cac65113e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d8e/classMMAP_1_1MMapMgr.html">MMapMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a7ca17c8e81612c16a92e901cac65113e">g_MMapMgr</a> = nullptr</td></tr>
-<tr class="separator:a7ca17c8e81612c16a92e901cac65113e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1d57d156046bda88886b7488ab0b83bc" id="r_a1d57d156046bda88886b7488ab0b83bc"><td class="memItemLeft" align="right" valign="top">static char const  *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a1d57d156046bda88886b7488ab0b83bc">MAP_FILE_NAME_FORMAT</a> = &quot;{}/mmaps/{:03}.mmap&quot;</td></tr>
 <tr class="separator:a1d57d156046bda88886b7488ab0b83bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a27e34ce3b8808f2aa889e5c4e623059a" id="r_a27e34ce3b8808f2aa889e5c4e623059a"><td class="memItemLeft" align="right" valign="top">static char const  *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d19/namespaceMMAP.html#a27e34ce3b8808f2aa889e5c4e623059a">TILE_FILE_NAME_FORMAT</a> = &quot;{}/mmaps/{:03}{:02}{:02}.mmtile&quot;</td></tr>
@@ -267,42 +238,14 @@ Variables</h2></td></tr>
 <tr class="separator:a26a6da9ce81eb096651bf47cb90f947f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
-<a id="a7c987e5b93af6a44b28948b66804ad88" name="a7c987e5b93af6a44b28948b66804ad88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c987e5b93af6a44b28948b66804ad88">&#9670;&#160;</a></span>MMapDataSet</h2>
+<a id="aa9864ce68a669d59d8baee4cb742900b" name="aa9864ce68a669d59d8baee4cb742900b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9864ce68a669d59d8baee4cb742900b">&#9670;&#160;</a></span>ManagedNavMeshQuery</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d7/d64/structMMAP_1_1MMapData.html">MMapData</a>*&gt; <a class="el" href="../../de/d19/namespaceMMAP.html#a7c987e5b93af6a44b28948b66804ad88">MMAP::MMapDataSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a1e41f7222e3ee601b787809808325f2c" name="a1e41f7222e3ee601b787809808325f2c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1e41f7222e3ee601b787809808325f2c">&#9670;&#160;</a></span>MMapTileSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, dtTileRef&gt; <a class="el" href="../../de/d19/namespaceMMAP.html#a1e41f7222e3ee601b787809808325f2c">MMAP::MMapTileSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a89710e07eb1c881e22b1b2bb7c8f671c" name="a89710e07eb1c881e22b1b2bb7c8f671c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89710e07eb1c881e22b1b2bb7c8f671c">&#9670;&#160;</a></span>NavMeshQuerySet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, dtNavMeshQuery*&gt; <a class="el" href="../../de/d19/namespaceMMAP.html#a89710e07eb1c881e22b1b2bb7c8f671c">MMAP::NavMeshQuerySet</a></td>
+          <td class="memname">using <a class="el" href="../../de/d19/namespaceMMAP.html#aa9864ce68a669d59d8baee4cb742900b">MMAP::ManagedNavMeshQuery</a> = typedef std::unique_ptr&lt;dtNavMeshQuery, <a class="el" href="../../d2/d9a/structMMAP_1_1NavMeshQueryDeleter.html">NavMeshQueryDeleter</a>&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -373,7 +316,7 @@ Variables</h2></td></tr>
 </div>
 </div>
 <a id="a329271d76c3ed7ad6d255d45094b4868" name="a329271d76c3ed7ad6d255d45094b4868"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a329271d76c3ed7ad6d255d45094b4868">&#9670;&#160;</a></span>MMAP_LOAD_RESULT <span class="overload">[1/2]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a329271d76c3ed7ad6d255d45094b4868">&#9670;&#160;</a></span>MMAP_LOAD_RESULT</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -384,48 +327,18 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85" name="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85"></a>MMAP_LOAD_RESULT_ERROR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10" name="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10"></a>MMAP_LOAD_RESULT_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8" name="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8"></a>MMAP_LOAD_RESULT_IGNORED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85" name="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85"></a>MMAP_LOAD_RESULT_ERROR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10" name="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10"></a>MMAP_LOAD_RESULT_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8" name="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8"></a>MMAP_LOAD_RESULT_IGNORED&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44" name="a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44"></a>MMAP_LOAD_RESULT_ERROR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a" name="a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a"></a>MMAP_LOAD_RESULT_OK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88" name="a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88"></a>MMAP_LOAD_RESULT_IGNORED&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   25</span>    {</div>
-<div class="line"><span class="lineno">   26</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP_LOAD_RESULT_ERROR</a>,</div>
-<div class="line"><span class="lineno">   27</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP_LOAD_RESULT_OK</a>,</div>
-<div class="line"><span class="lineno">   28</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP_LOAD_RESULT_IGNORED</a>,</div>
-<div class="line"><span class="lineno">   29</span>    };</div>
-<div class="ttc" id="anamespaceMMAP_html_a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP::MMAP_LOAD_RESULT_ERROR</a></div><div class="ttdeci">@ MMAP_LOAD_RESULT_ERROR</div><div class="ttdef"><b>Definition</b> IMMAPMgr.h:26</div></div>
-<div class="ttc" id="anamespaceMMAP_html_a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP::MMAP_LOAD_RESULT_IGNORED</a></div><div class="ttdeci">@ MMAP_LOAD_RESULT_IGNORED</div><div class="ttdef"><b>Definition</b> IMMAPMgr.h:28</div></div>
-<div class="ttc" id="anamespaceMMAP_html_a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP::MMAP_LOAD_RESULT_OK</a></div><div class="ttdeci">@ MMAP_LOAD_RESULT_OK</div><div class="ttdef"><b>Definition</b> IMMAPMgr.h:27</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a329271d76c3ed7ad6d255d45094b4868" name="a329271d76c3ed7ad6d255d45094b4868"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a329271d76c3ed7ad6d255d45094b4868">&#9670;&#160;</a></span>MMAP_LOAD_RESULT <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868">MMAP::MMAP_LOAD_RESULT</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85" name="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85"></a>MMAP_LOAD_RESULT_ERROR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10" name="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10"></a>MMAP_LOAD_RESULT_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8" name="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8"></a>MMAP_LOAD_RESULT_IGNORED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85" name="a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85"></a>MMAP_LOAD_RESULT_ERROR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10" name="a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10"></a>MMAP_LOAD_RESULT_OK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8" name="a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8"></a>MMAP_LOAD_RESULT_IGNORED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>    {</div>
-<div class="line"><span class="lineno">   27</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85">MMAP_LOAD_RESULT_ERROR</a>,</div>
-<div class="line"><span class="lineno">   28</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10">MMAP_LOAD_RESULT_OK</a>,</div>
-<div class="line"><span class="lineno">   29</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8">MMAP_LOAD_RESULT_IGNORED</a>,</div>
-<div class="line"><span class="lineno">   30</span>    };</div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44">MMAP_LOAD_RESULT_ERROR</a>,</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a">MMAP_LOAD_RESULT_OK</a>,</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_enumvalue" href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88">MMAP_LOAD_RESULT_IGNORED</a>,</div>
+<div class="line"><span class="lineno">   46</span>    };</div>
+<div class="ttc" id="anamespaceMMAP_html_a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44">MMAP::MMAP_LOAD_RESULT_ERROR</a></div><div class="ttdeci">@ MMAP_LOAD_RESULT_ERROR</div><div class="ttdef"><b>Definition</b> MMapMgr.h:43</div></div>
+<div class="ttc" id="anamespaceMMAP_html_a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88">MMAP::MMAP_LOAD_RESULT_IGNORED</a></div><div class="ttdeci">@ MMAP_LOAD_RESULT_IGNORED</div><div class="ttdef"><b>Definition</b> MMapMgr.h:45</div></div>
+<div class="ttc" id="anamespaceMMAP_html_a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a"><div class="ttname"><a href="../../de/d19/namespaceMMAP.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a">MMAP::MMAP_LOAD_RESULT_OK</a></div><div class="ttdeci">@ MMAP_LOAD_RESULT_OK</div><div class="ttdef"><b>Definition</b> MMapMgr.h:44</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -741,22 +654,6 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a7ca17c8e81612c16a92e901cac65113e" name="a7ca17c8e81612c16a92e901cac65113e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7ca17c8e81612c16a92e901cac65113e">&#9670;&#160;</a></span>g_MMapMgr</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/d8e/classMMAP_1_1MMapMgr.html">MMapMgr</a>* MMAP::g_MMapMgr = nullptr</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00048">MMAP::MMapFactory::clear()</a>, and <a class="el" href="../../#l00027">MMAP::MMapFactory::createOrGetMMapMgr()</a>.</p>
-
-</div>
-</div>
 <a id="a39bc2d4fa649e77addef85b06c49b369" name="a39bc2d4fa649e77addef85b06c49b369"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a39bc2d4fa649e77addef85b06c49b369">&#9670;&#160;</a></span>GRID_PART_SIZE</h2>
 
@@ -923,7 +820,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00510">MMAP::MapBuilder::buildNavMesh()</a>, <a class="el" href="../../#l00144">MMAP::TerrainBuilder::loadMap()</a>, and <a class="el" href="../../#l00061">MMAP::MMapMgr::loadMapData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00510">MMAP::MapBuilder::buildNavMesh()</a>, <a class="el" href="../../#l00144">MMAP::TerrainBuilder::loadMap()</a>, and <a class="el" href="../../#l00027">MMAP::MMapMgr::LoadNavMesh()</a>.</p>
 
 </div>
 </div>
@@ -985,7 +882,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00588">MMAP::TileBuilder::buildMoveMapTile()</a>, <a class="el" href="../../#l00130">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l00125">MMAP::MMapMgr::loadMap()</a>, and <a class="el" href="../../#l01035">MMAP::TileBuilder::shouldSkipTile()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00588">MMAP::TileBuilder::buildMoveMapTile()</a>, <a class="el" href="../../#l00130">mmaps_commandscript::HandleMmapLocCommand()</a>, <a class="el" href="../../#l00068">MMAP::MMapMgr::LoadTile()</a>, and <a class="el" href="../../#l01035">MMAP::TileBuilder::shouldSkipTile()</a>.</p>
 
 </div>
 </div>
@@ -1091,7 +988,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d19/namespaceMMAP.html">MMAP</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

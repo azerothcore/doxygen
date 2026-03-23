@@ -1,9 +1,7 @@
 var boss__golemagg_8cpp =
 [
-    [ "boss_golemagg", "d1/de5/classboss__golemagg.html", "d1/de5/classboss__golemagg" ],
-    [ "boss_golemagg::boss_golemaggAI", "d5/dea/structboss__golemagg_1_1boss__golemaggAI.html", "d5/dea/structboss__golemagg_1_1boss__golemaggAI" ],
-    [ "npc_core_rager", "d2/d56/classnpc__core__rager.html", "d2/d56/classnpc__core__rager" ],
-    [ "npc_core_rager::npc_core_ragerAI", "d5/dae/structnpc__core__rager_1_1npc__core__ragerAI.html", "d5/dae/structnpc__core__rager_1_1npc__core__ragerAI" ],
+    [ "boss_golemagg", "da/dcb/structboss__golemagg.html", "da/dcb/structboss__golemagg" ],
+    [ "npc_core_rager", "d8/d4c/structnpc__core__rager.html", "d8/d4c/structnpc__core__rager" ],
     [ "Spells", "d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_PYROBLAST", "d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298cae4ccd71da672cd021682c47fc6ac6fee", null ],
       [ "SPELL_EARTHQUAKE", "d3/dae/boss__golemagg_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561", null ],

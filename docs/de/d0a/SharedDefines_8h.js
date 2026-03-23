@@ -10,7 +10,6 @@ var SharedDefines_8h =
     [ "EFFECT_FIRST_FOUND", "de/d0a/SharedDefines_8h.html#a0a642bd6187d3edf3ffcee5fb1e6459e", null ],
     [ "GUILD_BANKLOG_MAX_RECORDS", "de/d0a/SharedDefines_8h.html#aa739e98a6316eb8f5adc3727ae8575b7", null ],
     [ "GUILD_EVENTLOG_MAX_RECORDS", "de/d0a/SharedDefines_8h.html#a52afba6c120c4ac5b94ac9fe5700e520", null ],
-    [ "IMMUNE_TO_MOVEMENT_IMPAIRMENT_AND_LOSS_CONTROL_MASK", "de/d0a/SharedDefines_8h.html#aad347546e73152f50df1695839e39ca1", null ],
     [ "LANGUAGES_COUNT", "de/d0a/SharedDefines_8h.html#a27a1fd993f2db7b4025c32c736e1886b", null ],
     [ "MAX_BATTLEGROUND_TYPE_ID", "de/d0a/SharedDefines_8h.html#add6e677d0cfd3f1eff02a4dd3b90b95c", null ],
     [ "MAX_CHAT_MSG_TYPE", "de/d0a/SharedDefines_8h.html#a5ee700eeb3fcc1390f2699f3c36d9607", null ],
@@ -577,6 +576,7 @@ var SharedDefines_8h =
       [ "AURA_STATE_FROZEN", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a2d367a773fa7878bff424e1c11aa2906", null ],
       [ "AURA_STATE_JUDGEMENT", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a82db5cc406338788dd2efb20542c2771", null ],
       [ "AURA_STATE_HUNTER_PARRY", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3af33c5898d4ef9a7506f87137858bcb13", null ],
+      [ "AURA_STATE_BANISHED", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3ae19bec8068142b662694361f18cd9a9f", null ],
       [ "AURA_STATE_WARRIOR_VICTORY_RUSH", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a686406c696d3c66f704eb3e902b1514e", null ],
       [ "AURA_STATE_FAERIE_FIRE", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a5fae28010e70a8c025bc027f81e3935a", null ],
       [ "AURA_STATE_HEALTHLESS_35_PERCENT", "de/d0a/SharedDefines_8h.html#ac94bd5b366099f43ad3260724e538ec3a8e6b28abc9f125c767c79f6d6e471b52", null ],
@@ -1083,7 +1083,8 @@ var SharedDefines_8h =
       [ "DISPEL_SPE_NPC_ONLY", "de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1a9c2033201c0ce0880b166f449fcf0c19", null ],
       [ "DISPEL_ENRAGE", "de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1a2722bc08c2d3ff4aa9a91ae23784f80b", null ],
       [ "DISPEL_ZG_TICKET", "de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1a2ddf9400e0bc64a85c3547bafa464313", null ],
-      [ "DESPEL_OLD_UNUSED", "de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1ab817fe08894b196cc6ef25b1f58f74ff", null ]
+      [ "DESPEL_OLD_UNUSED", "de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1ab817fe08894b196cc6ef25b1f58f74ff", null ],
+      [ "DISPEL_MAX", "de/d0a/SharedDefines_8h.html#ada2b5e66b650d7a63f70c06a746070d1a2d116de1f76925369bca2c04a543bab0", null ]
     ] ],
     [ "DisplayRace", "de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3", [
       [ "None", "de/d0a/SharedDefines_8h.html#a191923d1acd50a08f3503e3568f5fae3a6adf97f83acf6453d4a6a4b1070f3754", null ],
@@ -1629,6 +1630,11 @@ var SharedDefines_8h =
       [ "MECHANIC_IMMUNE_SHIELD", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adab77d9dd5c0239162ff1d744fac67ca4c", null ],
       [ "MECHANIC_SAPPED", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adad9aacefd364ef80ddcf9f0caaf7bc930", null ],
       [ "MECHANIC_ENRAGED", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada1ab5d9d6cd07affb40f85b8d058493c6", null ],
+      [ "MECHANIC_WOUNDED", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada9245f4e075794abf2fb810b5220eaed0", null ],
+      [ "MECHANIC_INFECTED_2", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada1e9bd8183878140ef1389cb1356efefe", null ],
+      [ "MECHANIC_INFECTED_3", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adac68ffb433a950f361569656892b159a8", null ],
+      [ "MECHANIC_INFECTED_4", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7ada0f6a1ab48d63c36e34e96df39ce067b3", null ],
+      [ "MECHANIC_TAUNTED", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adafc76e84fae21d0bec6f29e88d83871ea", null ],
       [ "MAX_MECHANIC", "de/d0a/SharedDefines_8h.html#a8fe6a763d72d84ded23cec01c772f7adaaee270cf1a99c6c99a0953cf91f72c6c", null ]
     ] ],
     [ "MoneyConstants", "de/d0a/SharedDefines_8h.html#aa61850c8cc16fdf9ea749bfde3adb448", [
@@ -3459,6 +3465,7 @@ var SharedDefines_8h =
     [ "CREATURE_TYPEMASK_HUMANOID_OR_UNDEAD", "de/d0a/SharedDefines_8h.html#aa19a7eb0277889d7bfc2cdc5081bf42a", null ],
     [ "CREATURE_TYPEMASK_MECHANICAL_OR_ELEMENTAL", "de/d0a/SharedDefines_8h.html#a6aeea8e1947484ee2c5735a7404004af", null ],
     [ "GROUND_HEIGHT_TOLERANCE", "de/d0a/SharedDefines_8h.html#a8667a1be2c04990c44bf5515a00970a1", null ],
+    [ "IMMUNE_TO_MOVEMENT_IMPAIRMENT_AND_LOSS_CONTROL_MASK", "de/d0a/SharedDefines_8h.html#a069d7f0e0656af67e7c88751744ebc45", null ],
     [ "ItemQualityColors", "de/d0a/SharedDefines_8h.html#a683db3fe009c60f8cedefbea5f00f58f", null ],
     [ "MAX_QUEST_DIFFICULTY", "de/d0a/SharedDefines_8h.html#a6cafd11eee681e9d948109aa73cba116", null ],
     [ "MAX_SPELL_SCHOOL", "de/d0a/SharedDefines_8h.html#a3d2e33bfddb1e3c28157eb6d136bfd28", null ],

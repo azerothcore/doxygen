@@ -130,7 +130,8 @@ var searchData=
   ['swaypointmgr_127',['sWaypointMgr',['../d8/dda/WaypointMgr_8h.html#a8e3218ae672aeeb8c1d9dc23a3a1a627',1,'WaypointMgr.h']]],
   ['swholistcachemgr_128',['sWhoListCacheMgr',['../dd/d14/WhoListCacheMgr_8h.html#aae5ef4cf031d5523b7d5fda6d83af41a',1,'WhoListCacheMgr.h']]],
   ['sworldglobals_129',['sWorldGlobals',['../db/d9c/WorldGlobals_8h.html#abde160907db136b0b0c16309add3ae94',1,'WorldGlobals.h']]],
-  ['sworldsessionmgr_130',['sWorldSessionMgr',['../de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85',1,'WorldSessionMgr.h']]],
-  ['sworldstate_131',['sWorldState',['../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f',1,'WorldState.h']]],
-  ['swpscriptname_132',['SWPScriptName',['../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7',1,'sunwell_plateau.h']]]
+  ['sworldmodelstore_130',['sWorldModelStore',['../da/dcc/WorldModelStore_8h.html#ac34a0ffef200907436157f7ccb40be46',1,'WorldModelStore.h']]],
+  ['sworldsessionmgr_131',['sWorldSessionMgr',['../de/d6d/WorldSessionMgr_8h.html#a57dd9797e2282d27210248275f47ab85',1,'WorldSessionMgr.h']]],
+  ['sworldstate_132',['sWorldState',['../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f',1,'WorldState.h']]],
+  ['swpscriptname_133',['SWPScriptName',['../dd/d2c/sunwell__plateau_8h.html#a103ca16a488216d0f7e12edd6d99e1b7',1,'sunwell_plateau.h']]]
 ];

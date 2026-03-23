@@ -3,6 +3,7 @@ var blackrock__spire_8h =
     [ "BRSScriptName", "df/d13/blackrock__spire_8h.html#ad3bc9bdd2aa9c179fedc567b4ab2b7db", null ],
     [ "DataHeader", "df/d13/blackrock__spire_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "RegisterBlackrockSpireCreatureAI", "df/d13/blackrock__spire_8h.html#a827f0b5fa02456e320d9ee1624b0fa52", null ],
+    [ "RegisterBlackrockSpireGameObjectAI", "df/d13/blackrock__spire_8h.html#a764adb1bc1122a80dfbd7daaad697995", null ],
     [ "AdditionalData", "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651", [
       [ "SPELL_SUMMON_ROOKERY_WHELP", "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651a04a798596253400e56aa5d0bc400fde5", null ],
       [ "EVENT_UROK_DOOMHOWL", "df/d13/blackrock__spire_8h.html#a2d3096de779e7ad430ffcf8a85a52651acdae31cd04ffe19515b94f6b02cefa4a", null ],

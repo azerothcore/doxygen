@@ -1,7 +1,6 @@
 var boss__drakkisath_8cpp =
 [
-    [ "boss_drakkisath", "d2/d86/classboss__drakkisath.html", "d2/d86/classboss__drakkisath" ],
-    [ "boss_drakkisath::boss_drakkisathAI", "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI.html", "d3/d86/structboss__drakkisath_1_1boss__drakkisathAI" ],
+    [ "boss_drakkisath", "d1/dc9/structboss__drakkisath.html", "d1/dc9/structboss__drakkisath" ],
     [ "Events", "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_FLAMESTRIKE", "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a577a20676d33b95dcf6880e929828a93", null ],
       [ "EVENT_CLEAVE", "dd/d49/boss__drakkisath_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

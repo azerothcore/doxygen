@@ -1,7 +1,6 @@
 var molten__core_8cpp =
 [
-    [ "npc_mc_core_hound", "de/d15/classnpc__mc__core__hound.html", "de/d15/classnpc__mc__core__hound" ],
-    [ "npc_mc_core_hound::npc_mc_core_houndAI", "d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI.html", "d4/d3d/structnpc__mc__core__hound_1_1npc__mc__core__houndAI" ],
+    [ "npc_mc_core_hound", "d0/d1a/structnpc__mc__core__hound.html", "d0/d1a/structnpc__mc__core__hound" ],
     [ "spell_mc_play_dead_aura", "db/d88/classspell__mc__play__dead__aura.html", "db/d88/classspell__mc__play__dead__aura" ],
     [ "npc_lava_spawn", "d0/d5d/structnpc__lava__spawn.html", "d0/d5d/structnpc__lava__spawn" ],
     [ "Spells", "d6/d38/molten__core_8cpp.html#a5bd342133be8c2137b831460acc9298c", [

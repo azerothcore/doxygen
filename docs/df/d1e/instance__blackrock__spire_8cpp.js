@@ -1,15 +1,13 @@
 var instance__blackrock__spire_8cpp =
 [
-    [ "instance_blackrock_spire", "d2/d84/classinstance__blackrock__spire.html", "d2/d84/classinstance__blackrock__spire" ],
-    [ "instance_blackrock_spire::instance_blackrock_spireMapScript", "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript.html", "d5/dc9/structinstance__blackrock__spire_1_1instance__blackrock__spireMapScript" ],
+    [ "instance_blackrock_spire", "db/d80/structinstance__blackrock__spire.html", "db/d80/structinstance__blackrock__spire" ],
     [ "at_dragonspire_hall", "d2/d8a/classat__dragonspire__hall.html", "d2/d8a/classat__dragonspire__hall" ],
     [ "at_blackrock_stadium", "d3/dd6/classat__blackrock__stadium.html", "d3/dd6/classat__blackrock__stadium" ],
-    [ "go_father_flame", "d7/dcb/classgo__father__flame.html", "d7/dcb/classgo__father__flame" ],
+    [ "go_father_flame", "d3/dfc/structgo__father__flame.html", "d3/dfc/structgo__father__flame" ],
     [ "near_scarshield_infiltrator", "dc/dab/classnear__scarshield__infiltrator.html", "dc/dab/classnear__scarshield__infiltrator" ],
     [ "at_scarshield_infiltrator", "d4/d59/classat__scarshield__infiltrator.html", "d4/d59/classat__scarshield__infiltrator" ],
     [ "spell_blackrock_spire_call_of_vaelastrasz", "de/d4f/classspell__blackrock__spire__call__of__vaelastrasz.html", "de/d4f/classspell__blackrock__spire__call__of__vaelastrasz" ],
-    [ "npc_vaelastrasz_the_red", "d8/d74/classnpc__vaelastrasz__the__red.html", "d8/d74/classnpc__vaelastrasz__the__red" ],
-    [ "npc_vaelastrasz_the_red::npc_vaelastrasz_the_redAI", "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI.html", "dd/dd8/structnpc__vaelastrasz__the__red_1_1npc__vaelastrasz__the__redAI" ],
+    [ "npc_vaelastrasz_the_red", "d7/d85/structnpc__vaelastrasz__the__red.html", "d7/d85/structnpc__vaelastrasz__the__red" ],
     [ "EventIds", "df/d1e/instance__blackrock__spire_8cpp.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "df/d1e/instance__blackrock__spire_8cpp.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "df/d1e/instance__blackrock__spire_8cpp.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],

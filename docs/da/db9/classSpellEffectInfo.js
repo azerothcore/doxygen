@@ -8,6 +8,7 @@ var classSpellEffectInfo =
     [ "CalcRadius", "da/db9/classSpellEffectInfo.html#a158f2cbd1261d3151820d6ce8c04fd84", null ],
     [ "CalcValue", "da/db9/classSpellEffectInfo.html#a74c133d9e253498bb68c32d3afa9a5bd", null ],
     [ "CalcValueMultiplier", "da/db9/classSpellEffectInfo.html#ae3f69e686423d2bc2afb360d045ba62c", null ],
+    [ "GetImmunityInfo", "da/db9/classSpellEffectInfo.html#a4f82c5645763cea6b9e1302ee5ebff65", null ],
     [ "GetImplicitTargetType", "da/db9/classSpellEffectInfo.html#ab477f5162ecaa9e05ae24ff6646a74f1", null ],
     [ "GetMissingTargetMask", "da/db9/classSpellEffectInfo.html#a787d203f0022a383a4d07258e3bf662f", null ],
     [ "GetProvidedTargetMask", "da/db9/classSpellEffectInfo.html#af821fd10fbf2f95289b4bd3f86b9ef9d", null ],

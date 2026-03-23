@@ -1,7 +1,6 @@
 var boss__lucifron_8cpp =
 [
-    [ "boss_lucifron", "d9/dd5/classboss__lucifron.html", "d9/dd5/classboss__lucifron" ],
-    [ "boss_lucifron::boss_lucifronAI", "dd/dff/structboss__lucifron_1_1boss__lucifronAI.html", "dd/dff/structboss__lucifron_1_1boss__lucifronAI" ],
+    [ "boss_lucifron", "d5/d16/structboss__lucifron.html", "d5/d16/structboss__lucifron" ],
     [ "Events", "d1/df2/boss__lucifron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_IMPENDING_DOOM", "d1/df2/boss__lucifron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0276ac1982b0796b47c12e0dc7499c83", null ],
       [ "EVENT_LUCIFRON_CURSE", "d1/df2/boss__lucifron_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9c0a03eab743351f86d0478a03fda6b0", null ],

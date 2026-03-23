@@ -60,6 +60,8 @@ var WorldConfig_8h =
       [ "CONFIG_OFFHAND_CHECK_AT_SPELL_UNLEARN", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a8daa70b5caa3696a40e7abb382a54742", null ],
       [ "CONFIG_CREATURE_REPOSITION_AGAINST_NPCS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af18020afe6a9ccf4bd155cd16c5f7993", null ],
       [ "CONFIG_VMAP_INDOOR_CHECK", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab1bace8ac46add7b9a3afdd1fe39390a", null ],
+      [ "CONFIG_VMAP_ENABLE_LOS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a199d3fc5f2280cea07467eec6d894f02", null ],
+      [ "CONFIG_VMAP_ENABLE_HEIGHT", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a2eb324b6d6b3c89ef97d72117c25e186", null ],
       [ "CONFIG_PET_LOS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0af2e6953094f83d6e48bf4f6bccbad462", null ],
       [ "CONFIG_START_CUSTOM_SPELLS", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0a1ffe0ac616b73762d7a5258b1852deb6", null ],
       [ "CONFIG_START_ALL_EXPLORED", "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aebead623f1d3b2426f915ea8a7ae9345", null ],

@@ -1,9 +1,7 @@
 var boss__moira__bronzebeard_8cpp =
 [
-    [ "boss_moira_bronzebeardAI", "dd/dcd/structboss__moira__bronzebeardAI.html", "dd/dcd/structboss__moira__bronzebeardAI" ],
-    [ "boss_high_priestess_thaurissanAI", "d5/d56/structboss__high__priestess__thaurissanAI.html", "d5/d56/structboss__high__priestess__thaurissanAI" ],
-    [ "boss_moira_bronzebeard", "d7/d9e/classboss__moira__bronzebeard.html", "d7/d9e/classboss__moira__bronzebeard" ],
-    [ "boss_high_priestess_thaurissan", "d4/d3b/classboss__high__priestess__thaurissan.html", "d4/d3b/classboss__high__priestess__thaurissan" ],
+    [ "boss_moira_bronzebeard", "df/d97/structboss__moira__bronzebeard.html", "df/d97/structboss__moira__bronzebeard" ],
+    [ "boss_high_priestess_thaurissan", "d0/da3/structboss__high__priestess__thaurissan.html", "d0/da3/structboss__high__priestess__thaurissan" ],
     [ "Spells", "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_HEAL", "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298ca69fcca2d13e03c684fa0459f960ef9a7", null ],
       [ "SPELL_RENEW", "df/d07/boss__moira__bronzebeard_8cpp.html#a5bd342133be8c2137b831460acc9298caaf085a0eea027f75c291005b97cb46bd", null ],

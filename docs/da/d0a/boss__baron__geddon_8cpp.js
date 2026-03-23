@@ -1,7 +1,6 @@
 var boss__baron__geddon_8cpp =
 [
-    [ "boss_baron_geddon", "d9/de9/classboss__baron__geddon.html", "d9/de9/classboss__baron__geddon" ],
-    [ "boss_baron_geddon::boss_baron_geddonAI", "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI.html", "d7/da7/structboss__baron__geddon_1_1boss__baron__geddonAI" ],
+    [ "boss_baron_geddon", "d9/d46/structboss__baron__geddon.html", "d9/d46/structboss__baron__geddon" ],
     [ "spell_geddon_inferno_aura", "dd/d9c/classspell__geddon__inferno__aura.html", "dd/d9c/classspell__geddon__inferno__aura" ],
     [ "spell_geddon_armageddon_aura", "d2/d50/classspell__geddon__armageddon__aura.html", "d2/d50/classspell__geddon__armageddon__aura" ],
     [ "Emotes", "da/d0a/boss__baron__geddon_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a", [

@@ -1,7 +1,6 @@
 var boss__lord__valthalak_8cpp =
 [
-    [ "boss_lord_valthalak", "de/dd0/classboss__lord__valthalak.html", "de/dd0/classboss__lord__valthalak" ],
-    [ "boss_lord_valthalak::boss_lord_valthalakAI", "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI.html", "df/d84/structboss__lord__valthalak_1_1boss__lord__valthalakAI" ],
+    [ "boss_lord_valthalak", "d8/d1a/structboss__lord__valthalak.html", "d8/d1a/structboss__lord__valthalak" ],
     [ "EventPhase", "d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226a", [
       [ "EVENT_PHASE_TALK", "d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226aa501bb05d0c7a016be1a399e0361f8e47", null ],
       [ "EVENT_PHASE_FIGHT", "d6/d54/boss__lord__valthalak_8cpp.html#a43e68df0d4eba2cb57fbd798181b226aa82f20b32e61c68efeea2b7df8747f3ae", null ]

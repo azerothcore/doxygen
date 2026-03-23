@@ -1,7 +1,7 @@
 var classGameObjectModel =
 [
     [ "GameObjectModel", "d7/d6f/classGameObjectModel.html#aec1b2fdef131624210451e7cee7182ff", null ],
-    [ "~GameObjectModel", "d7/d6f/classGameObjectModel.html#a9473e6c816f412408c2f46e407fba6ca", null ],
+    [ "~GameObjectModel", "d7/d6f/classGameObjectModel.html#a9e54193b5c94283e838f66854a96b03e", null ],
     [ "Create", "d7/d6f/classGameObjectModel.html#ac47c77a56730f93ed14f131f34891f84", null ],
     [ "disable", "d7/d6f/classGameObjectModel.html#a09d7c38bf6b01fb8f743dbf7130df396", null ],
     [ "enable", "d7/d6f/classGameObjectModel.html#ac8ebd1a33e4127b9a0805701152ba0a2", null ],
@@ -17,7 +17,7 @@ var classGameObjectModel =
     [ "iBound", "d7/d6f/classGameObjectModel.html#ab8c4c51baf86d39e230ab8b8793658a3", null ],
     [ "iInvRot", "d7/d6f/classGameObjectModel.html#a8c9f3297a5779831d7ba9251f79eb2f0", null ],
     [ "iInvScale", "d7/d6f/classGameObjectModel.html#af41878cd24e4208de2630f5a91d001e3", null ],
-    [ "iModel", "d7/d6f/classGameObjectModel.html#a8d57c07682f5fecfa8160d47197044eb", null ],
+    [ "iModel", "d7/d6f/classGameObjectModel.html#a6dd47cf6507ae2752d835ee00c6d9f32", null ],
     [ "iPos", "d7/d6f/classGameObjectModel.html#a6c290e3dbcfb5eab05771f4da5e717b0", null ],
     [ "iScale", "d7/d6f/classGameObjectModel.html#abbde1836561761b858f08b436edb3b53", null ],
     [ "isWmo", "d7/d6f/classGameObjectModel.html#a83c4f6f0c45910fb6b86288bb809e787", null ],

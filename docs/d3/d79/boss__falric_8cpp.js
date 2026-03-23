@@ -1,9 +1,7 @@
 var boss__falric_8cpp =
 [
-    [ "boss_falric", "d5/db2/classboss__falric.html", "d5/db2/classboss__falric" ],
-    [ "boss_falric::boss_falricAI", "dd/d3f/structboss__falric_1_1boss__falricAI.html", "dd/d3f/structboss__falric_1_1boss__falricAI" ],
+    [ "boss_falric", "dd/dd6/structboss__falric.html", "dd/dd6/structboss__falric" ],
     [ "Events", "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
-      [ "EVENT_NONE", "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c", null ],
       [ "EVENT_QUIVERING_STRIKE", "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae7467a172c1d1643bb355dd55ef5d96a", null ],
       [ "EVENT_IMPENDING_DESPAIR", "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a3a0497a6269ce51334a50c0424d744e8", null ],
       [ "EVENT_DEFILING_HORROR", "d3/d79/boss__falric_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8b5be84f696318f18e5804a29772777a", null ],
@@ -22,5 +20,5 @@ var boss__falric_8cpp =
       [ "SAY_DEFILING_HORROR", "d3/d79/boss__falric_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a433d2ab4f081a501bd475c180e6a3664", null ]
     ] ],
     [ "AddSC_boss_falric", "d3/d79/boss__falric_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea", null ],
-    [ "hopelessnessId", "d3/d79/boss__falric_8cpp.html#a7e77023c3e8be8bce55e0daee68d34ad", null ]
+    [ "hopelessnessId", "d3/d79/boss__falric_8cpp.html#addc73de2388497b9c14f09d1e2191f20", null ]
 ];

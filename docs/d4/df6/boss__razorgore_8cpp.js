@@ -1,8 +1,7 @@
 var boss__razorgore_8cpp =
 [
-    [ "boss_razorgore", "d8/d2e/classboss__razorgore.html", "d8/d2e/classboss__razorgore" ],
-    [ "boss_razorgore::boss_razorgoreAI", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI.html", "dd/dd2/structboss__razorgore_1_1boss__razorgoreAI" ],
-    [ "go_orb_of_domination", "dd/dc5/classgo__orb__of__domination.html", "dd/dc5/classgo__orb__of__domination" ],
+    [ "boss_razorgore", "de/d4f/structboss__razorgore.html", "de/d4f/structboss__razorgore" ],
+    [ "go_orb_of_domination", "d4/dc3/structgo__orb__of__domination.html", "d4/dc3/structgo__orb__of__domination" ],
     [ "spell_egg_event", "d6/d7f/classspell__egg__event.html", "d6/d7f/classspell__egg__event" ],
     [ "EVENTS", "d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_CLEAVE", "d4/df6/boss__razorgore_8cpp.html#a0383e5bf22653a832beeabda82c1eeb3ad4266671217cc53e473a6844d92ef36a", null ],

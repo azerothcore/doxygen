@@ -1,9 +1,7 @@
 var boss__garr_8cpp =
 [
-    [ "boss_garr", "db/dc9/classboss__garr.html", "db/dc9/classboss__garr" ],
-    [ "boss_garr::boss_garrAI", "d8/da7/structboss__garr_1_1boss__garrAI.html", "d8/da7/structboss__garr_1_1boss__garrAI" ],
-    [ "npc_garr_firesworn", "da/dec/classnpc__garr__firesworn.html", "da/dec/classnpc__garr__firesworn" ],
-    [ "npc_garr_firesworn::npc_garr_fireswornAI", "db/d1d/structnpc__garr__firesworn_1_1npc__garr__fireswornAI.html", "db/d1d/structnpc__garr__firesworn_1_1npc__garr__fireswornAI" ],
+    [ "boss_garr", "d5/dcf/structboss__garr.html", "d5/dcf/structboss__garr" ],
+    [ "npc_garr_firesworn", "d0/d85/structnpc__garr__firesworn.html", "d0/d85/structnpc__garr__firesworn" ],
     [ "spell_garr_separation_anxiety_aura", "d0/d6b/classspell__garr__separation__anxiety__aura.html", "d0/d6b/classspell__garr__separation__anxiety__aura" ],
     [ "spell_garr_frenzy", "d0/d61/classspell__garr__frenzy.html", "d0/d61/classspell__garr__frenzy" ],
     [ "Events", "d6/ddb/boss__garr_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [

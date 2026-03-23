@@ -1,8 +1,7 @@
 var boss__tomb__of__seven_8cpp =
 [
-    [ "boss_gloomrel", "d6/d1a/classboss__gloomrel.html", "d6/d1a/classboss__gloomrel" ],
-    [ "boss_doomrel", "d6/dec/classboss__doomrel.html", "d6/dec/classboss__doomrel" ],
-    [ "boss_doomrel::boss_doomrelAI", "d4/df7/structboss__doomrel_1_1boss__doomrelAI.html", "d4/df7/structboss__doomrel_1_1boss__doomrelAI" ],
+    [ "boss_gloomrel", "d2/d2e/structboss__gloomrel.html", "d2/d2e/structboss__gloomrel" ],
+    [ "boss_doomrel", "db/d8b/structboss__doomrel.html", "db/d8b/structboss__doomrel" ],
     [ "DoomrelEvents", "d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3a", [
       [ "EVENT_SPELL_SHADOWBOLTVOLLEY", "d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aa642858fddb5ee881ee52f837caf26c76", null ],
       [ "EVENT_SPELL_IMMOLATE", "d9/dc7/boss__tomb__of__seven_8cpp.html#ab9389560cf2d38a16f6e60a780c1be3aa2e843514087cb8fd60441d23a27e1ac2", null ],

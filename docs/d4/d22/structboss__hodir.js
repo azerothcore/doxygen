@@ -8,6 +8,7 @@ var structboss__hodir =
     [ "GetHardmodeChest", "d4/d22/structboss__hodir.html#a4e075098d5ae6f553efcac0b76e777b5", null ],
     [ "GetHelper", "d4/d22/structboss__hodir.html#a7cdb38932e616696f96008c321f9189c", null ],
     [ "JustEngagedWith", "d4/d22/structboss__hodir.html#a9ac83d7503d1f4703ea022bdcf52fcde", null ],
+    [ "JustExitedCombat", "d4/d22/structboss__hodir.html#ad75b72b5e045121ea6ba601aa2291443", null ],
     [ "KilledUnit", "d4/d22/structboss__hodir.html#a95f6ef35af40713c02c7f52b05bf9c11", null ],
     [ "MoveInLineOfSight", "d4/d22/structboss__hodir.html#afdaf742fe150b4d58a596c5be52ae00d", null ],
     [ "Reset", "d4/d22/structboss__hodir.html#a31c3693cdf73d684a5a39963ff5a4121", null ],

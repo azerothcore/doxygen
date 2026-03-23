@@ -9,5 +9,5 @@ var structnpc__hor__leader__second_1_1npc__hor__leader__secondAI =
     [ "UpdateAI", "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#ae991e18a6729a1b088c60060802c01c2", null ],
     [ "currentStopPoint", "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
     [ "events", "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "instance", "dc/dd8/structnpc__hor__leader__second_1_1npc__hor__leader__secondAI.html#a09cc193b1a718c06ef8349499e697f10", null ]
 ];

@@ -1,9 +1,7 @@
 var boss__broodlord__lashlayer_8cpp =
 [
-    [ "boss_broodlord", "d4/d8a/classboss__broodlord.html", "d4/d8a/classboss__broodlord" ],
-    [ "boss_broodlord::boss_broodlordAI", "d8/d2a/structboss__broodlord_1_1boss__broodlordAI.html", "d8/d2a/structboss__broodlord_1_1boss__broodlordAI" ],
-    [ "go_suppression_device", "de/d9b/classgo__suppression__device.html", "de/d9b/classgo__suppression__device" ],
-    [ "go_suppression_device::go_suppression_deviceAI", "de/dac/structgo__suppression__device_1_1go__suppression__deviceAI.html", "de/dac/structgo__suppression__device_1_1go__suppression__deviceAI" ],
+    [ "boss_broodlord", "d0/dbd/structboss__broodlord.html", "d0/dbd/structboss__broodlord" ],
+    [ "go_suppression_device", "d4/d84/structgo__suppression__device.html", "d4/d84/structgo__suppression__device" ],
     [ "spell_suppression_aura", "d9/d3c/classspell__suppression__aura.html", "d9/d3c/classspell__suppression__aura" ],
     [ "Actions", "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_DEACTIVATE", "df/dc5/boss__broodlord__lashlayer_8cpp.html#a250372292659bed7ae290d8621f88ccfa3cadc8ccec45cd212064b10a8cac490f", null ],

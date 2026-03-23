@@ -1,7 +1,6 @@
 var boss__gehennas_8cpp =
 [
-    [ "boss_gehennas", "db/dbc/classboss__gehennas.html", "db/dbc/classboss__gehennas" ],
-    [ "boss_gehennas::boss_gehennasAI", "d3/d7b/structboss__gehennas_1_1boss__gehennasAI.html", "d3/d7b/structboss__gehennas_1_1boss__gehennasAI" ],
+    [ "boss_gehennas", "d5/d24/structboss__gehennas.html", "d5/d24/structboss__gehennas" ],
     [ "Events", "db/d8e/boss__gehennas_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_GEHENNAS_CURSE", "db/d8e/boss__gehennas_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a39dce0fe0d9e821522a7479db339d4c7", null ],
       [ "EVENT_RAIN_OF_FIRE", "db/d8e/boss__gehennas_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7fd8e50f40dc400b525bd1b92d813270", null ],

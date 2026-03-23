@@ -83,7 +83,11 @@ var ulduar_8h =
       [ "DATA_MAGE_BARRIER", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a60fc90610d8b5a35f5aa5cf2fc1d0b12", null ],
       [ "DATA_BRANN_MEMOTESAY", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a077677c7905fb459eec26c7552c0f6a1", null ],
       [ "DATA_BRANN_EASY_MODE", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a8a64246fa08e4067032642bf13f084c8", null ],
-      [ "DATA_BRANN_BASE_CAMP", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a0c35f8343f37fb453bfcc0ce0664a543", null ]
+      [ "DATA_BRANN_BASE_CAMP", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a0c35f8343f37fb453bfcc0ce0664a543", null ],
+      [ "DATA_FREYA_GOSSIP", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a23ea1e5fa78af91f0762f0c57048a141", null ],
+      [ "DATA_HODIR_GOSSIP", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2a8c03691efdf02c6ae7e912df34833f6f", null ],
+      [ "DATA_MIMIRON_GOSSIP", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2ac14fe3a753bf7c038499926e637f459a", null ],
+      [ "DATA_THORIM_GOSSIP", "d9/df7/ulduar_8h.html#a637b611fb0e8ff96b12cacdde24ac9b2acaa441e261f6cd4e9608fe8bf6c73737", null ]
     ] ],
     [ "UlduarGameObjects", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904", [
       [ "GO_KOLOGARN_CHEST", "d9/df7/ulduar_8h.html#a73f5d28752ceaaa887c1a1a2c7006904a97c21d8eb109597e9de1359f68f6f008", null ],

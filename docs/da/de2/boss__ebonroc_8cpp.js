@@ -1,7 +1,6 @@
 var boss__ebonroc_8cpp =
 [
-    [ "boss_ebonroc", "d7/dce/classboss__ebonroc.html", "d7/dce/classboss__ebonroc" ],
-    [ "boss_ebonroc::boss_ebonrocAI", "dc/d3e/structboss__ebonroc_1_1boss__ebonrocAI.html", "dc/d3e/structboss__ebonroc_1_1boss__ebonrocAI" ],
+    [ "boss_ebonroc", "dd/de8/structboss__ebonroc.html", "dd/de8/structboss__ebonroc" ],
     [ "Events", "da/de2/boss__ebonroc_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_SHADOWFLAME", "da/de2/boss__ebonroc_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ada39d3284176dffb6389f0f738f434db", null ],
       [ "EVENT_WINGBUFFET", "da/de2/boss__ebonroc_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a205166e04da1b06f87e762c2cc05ff80", null ],

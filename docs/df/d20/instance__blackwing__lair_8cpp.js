@@ -1,7 +1,6 @@
 var instance__blackwing__lair_8cpp =
 [
-    [ "instance_blackwing_lair", "d7/d22/classinstance__blackwing__lair.html", "d7/d22/classinstance__blackwing__lair" ],
-    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript.html", "d3/dce/structinstance__blackwing__lair_1_1instance__blackwing__lair__InstanceMapScript" ],
+    [ "instance_blackwing_lair", "d0/d76/structinstance__blackwing__lair.html", "d0/d76/structinstance__blackwing__lair" ],
     [ "spell_bwl_shadowflame", "dc/d17/classspell__bwl__shadowflame.html", "dc/d17/classspell__bwl__shadowflame" ],
     [ "at_orb_of_command", "da/dac/classat__orb__of__command.html", "da/dac/classat__orb__of__command" ],
     [ "orb_of_command_misc", "df/d20/instance__blackwing__lair_8cpp.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [

@@ -336,13 +336,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  410</span>    {</div>
-<div class="line"><span class="lineno">  411</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() != <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913">AURA_REMOVE_BY_DEATH</a>)</div>
-<div class="line"><span class="lineno">  412</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  413</span> </div>
-<div class="line"><span class="lineno">  414</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
-<div class="line"><span class="lineno">  415</span>            player-&gt;DestroyItemCount(<a class="code hl_enumvalue" href="../../d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ed31d628663339b15d99c7e0ebe47af">ITEM_TAINTED_CORE</a>, -1, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  416</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  405</span>    {</div>
+<div class="line"><span class="lineno">  406</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">GetTargetApplication</a>()-&gt;GetRemoveMode() != <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913">AURA_REMOVE_BY_DEATH</a>)</div>
+<div class="line"><span class="lineno">  407</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  408</span> </div>
+<div class="line"><span class="lineno">  409</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* player = <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>()-&gt;ToPlayer())</div>
+<div class="line"><span class="lineno">  410</span>            player-&gt;DestroyItemCount(<a class="code hl_enumvalue" href="../../d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ed31d628663339b15d99c7e0ebe47af">ITEM_TAINTED_CORE</a>, -1, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  411</span>    }</div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a56f7dd5627e22afd9eb73530b767115ea8b8b753a1458a21a162528088acee913">AURA_REMOVE_BY_DEATH</a></div><div class="ttdeci">@ AURA_REMOVE_BY_DEATH</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:396</div></div>
 <div class="ttc" id="aboss__lady__vashj_8cpp_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ed31d628663339b15d99c7e0ebe47af"><div class="ttname"><a href="../../d0/dd5/boss__lady__vashj_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6ed31d628663339b15d99c7e0ebe47af">ITEM_TAINTED_CORE</a></div><div class="ttdeci">@ ITEM_TAINTED_CORE</div><div class="ttdef"><b>Definition</b> boss_lady_vashj.cpp:66</div></div>
 <div class="ttc" id="aclassAuraScript_html_a29e48f1dc7011926160e2ed80ebf2f8e"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a29e48f1dc7011926160e2ed80ebf2f8e">AuraScript::GetTargetApplication</a></div><div class="ttdeci">AuraApplication const * GetTargetApplication() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1210</div></div>
@@ -351,7 +351,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00396">AURA_REMOVE_BY_DEATH</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l01210">AuraScript::GetTargetApplication()</a>, and <a class="el" href="../../#l00066">ITEM_TAINTED_CORE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00418">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00413">Register()</a>.</p>
 
 </div>
 </div>
@@ -405,17 +405,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  419</span>    {</div>
-<div class="line"><span class="lineno">  420</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d8/d25/classspell__lady__vashj__tainted__core__paralyze.html#ae31aae4e762b3c19e7df0c1d3a3733c3">spell_lady_vashj_tainted_core_paralyze::HandleEffectRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a833a8773139c4fdffb24499f28e98c63">SPELL_AURA_MOD_ROOT</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno">  421</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  414</span>    {</div>
+<div class="line"><span class="lineno">  415</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d8/d25/classspell__lady__vashj__tainted__core__paralyze.html#ae31aae4e762b3c19e7df0c1d3a3733c3">spell_lady_vashj_tainted_core_paralyze::HandleEffectRemove</a>, <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a833a8773139c4fdffb24499f28e98c63">SPELL_AURA_MOD_ROOT</a>, <a class="code hl_enumvalue" href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno">  416</span>    }</div>
 <div class="ttc" id="aSharedDefines_8h_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a538cdc259460b365f406fe0b3a981799a833a8773139c4fdffb24499f28e98c63"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a538cdc259460b365f406fe0b3a981799a833a8773139c4fdffb24499f28e98c63">SPELL_AURA_MOD_ROOT</a></div><div class="ttdeci">@ SPELL_AURA_MOD_ROOT</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:89</div></div>
 <div class="ttc" id="aSpellAuraDefines_8h_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../da/d2d/SpellAuraDefines_8h.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aSpellScript_8h_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aclassAuraScript_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition</b> SpellScript.h:764</div></div>
-<div class="ttc" id="aclassspell__lady__vashj__tainted__core__paralyze_html_ae31aae4e762b3c19e7df0c1d3a3733c3"><div class="ttname"><a href="../../d8/d25/classspell__lady__vashj__tainted__core__paralyze.html#ae31aae4e762b3c19e7df0c1d3a3733c3">spell_lady_vashj_tainted_core_paralyze::HandleEffectRemove</a></div><div class="ttdeci">void HandleEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_lady_vashj.cpp:409</div></div>
+<div class="ttc" id="aclassspell__lady__vashj__tainted__core__paralyze_html_ae31aae4e762b3c19e7df0c1d3a3733c3"><div class="ttname"><a href="../../d8/d25/classspell__lady__vashj__tainted__core__paralyze.html#ae31aae4e762b3c19e7df0c1d3a3733c3">spell_lady_vashj_tainted_core_paralyze::HandleEffectRemove</a></div><div class="ttdeci">void HandleEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition</b> boss_lady_vashj.cpp:404</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00409">HandleEffectRemove()</a>, and <a class="el" href="../../#l00089">SPELL_AURA_MOD_ROOT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00404">HandleEffectRemove()</a>, and <a class="el" href="../../#l00089">SPELL_AURA_MOD_ROOT</a>.</p>
 
 </div>
 </div>
@@ -428,7 +428,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d25/classspell__lady__vashj__tainted__core__paralyze.html">spell_lady_vashj_tainted_core_paralyze</a></li>
-    <li class="footer">Generated on Sun Mar 22 2026 06:46:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Mar 23 2026 07:06:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

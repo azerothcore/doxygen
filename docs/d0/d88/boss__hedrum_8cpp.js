@@ -1,7 +1,6 @@
 var boss__hedrum_8cpp =
 [
-    [ "boss_hedrum", "d2/d52/classboss__hedrum.html", "d2/d52/classboss__hedrum" ],
-    [ "boss_hedrum::boss_hedrumAI", "de/d80/structboss__hedrum_1_1boss__hedrumAI.html", "de/d80/structboss__hedrum_1_1boss__hedrumAI" ],
+    [ "boss_hedrum", "da/dd8/structboss__hedrum.html", "da/dd8/structboss__hedrum" ],
     [ "Spells", "d0/d88/boss__hedrum_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_PARALYZING", "d0/d88/boss__hedrum_8cpp.html#a5bd342133be8c2137b831460acc9298ca4441d74ae8e78ca332d99858e335511a", null ],
       [ "SPELL_BANEFUL", "d0/d88/boss__hedrum_8cpp.html#a5bd342133be8c2137b831460acc9298ca3af9e85c201353d355626caf27f49b6e", null ],

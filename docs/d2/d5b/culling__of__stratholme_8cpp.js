@@ -41,7 +41,9 @@ var culling__of__stratholme_8cpp =
       [ "ENCOUNTER_CHRONO_MAX_SPAWNS_SECOND", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae212297585dad9a49b545acbff34bce9", null ],
       [ "ACTION_INFECT_CITIZIEN", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af94e080f9fd3d13f7aaac1cd0979bdca", null ],
       [ "ACTION_FORCE_CHANGE_LOCK", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa202ef4120176efb3ae0b092d1c33b62", null ],
-      [ "POINT_CHRONOS", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3487d0cc144ba7a68d23431a110d7f7c", null ]
+      [ "POINT_CHRONOS", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3487d0cc144ba7a68d23431a110d7f7c", null ],
+      [ "NPC_BRANDON_EIREDECK", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6315d0eaa11bb12bbb5f343e9ec2d79", null ],
+      [ "SAY_BRANDON_CROWD_AMBIENT", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a95e741e55dc2d3e7532c84e3403a326a", null ]
     ] ],
     [ "NPCs", "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_RISEN_ZOMBIE", "d2/d5b/culling__of__stratholme_8cpp.html#a6986ec7b2d3274669934af9795f26d5cadb683926e50175cbeba43215a5e558b6", null ],

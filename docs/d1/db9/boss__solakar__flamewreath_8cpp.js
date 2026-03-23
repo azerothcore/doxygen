@@ -1,9 +1,7 @@
 var boss__solakar__flamewreath_8cpp =
 [
-    [ "npc_rookery_hatcher", "dd/df0/classnpc__rookery__hatcher.html", "dd/df0/classnpc__rookery__hatcher" ],
-    [ "npc_rookery_hatcher::npc_rookery_hatcherAI", "d0/d69/structnpc__rookery__hatcher_1_1npc__rookery__hatcherAI.html", "d0/d69/structnpc__rookery__hatcher_1_1npc__rookery__hatcherAI" ],
-    [ "boss_solakar_flamewreath", "da/ddd/classboss__solakar__flamewreath.html", "da/ddd/classboss__solakar__flamewreath" ],
-    [ "boss_solakar_flamewreath::boss_solakar_flamewreathAI", "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI.html", "d1/d73/structboss__solakar__flamewreath_1_1boss__solakar__flamewreathAI" ],
+    [ "npc_rookery_hatcher", "df/d76/structnpc__rookery__hatcher.html", "df/d76/structnpc__rookery__hatcher" ],
+    [ "boss_solakar_flamewreath", "d6/db0/structboss__solakar__flamewreath.html", "d6/db0/structboss__solakar__flamewreath" ],
     [ "Says", "d1/db9/boss__solakar__flamewreath_8cpp.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_SUMMON", "d1/db9/boss__solakar__flamewreath_8cpp.html#a16774215bba3b38580ea51987d64cff1acebbfa1f13b8de4f039f5d550063c7bf", null ]
     ] ],

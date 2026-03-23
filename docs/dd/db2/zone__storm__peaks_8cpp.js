@@ -30,6 +30,7 @@ var zone__storm__peaks_8cpp =
     [ "spell_fatal_strike", "de/d31/classspell__fatal__strike.html", "de/d31/classspell__fatal__strike" ],
     [ "spell_player_mount_wyrm", "d4/d5a/classspell__player__mount__wyrm.html", "d4/d5a/classspell__player__mount__wyrm" ],
     [ "spell_eject_passenger_wild_wyrm", "df/d2a/classspell__eject__passenger__wild__wyrm.html", "df/d2a/classspell__eject__passenger__wild__wyrm" ],
+    [ "npc_oathbound_warder", "de/d6c/structnpc__oathbound__warder.html", "de/d6c/structnpc__oathbound__warder" ],
     [ "BrunnhildarPrisoner", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
       [ "SPELL_ICE_PRISON", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
       [ "SPELL_ICE_LANCE", "dd/db2/zone__storm__peaks_8cpp.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],

@@ -7,7 +7,7 @@ var classTotem =
     [ "GetTotemType", "da/d40/classTotem.html#aa1c94dfcaee2deaef2786e2f4f63b837", null ],
     [ "InitStats", "da/d40/classTotem.html#a4661c91b5123862fc44e7a290cf70d1f", null ],
     [ "InitSummon", "da/d40/classTotem.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
-    [ "IsImmunedToSpellEffect", "da/d40/classTotem.html#a25d245ac788196851f748d84b529bd98", null ],
+    [ "IsImmunedToSpellEffect", "da/d40/classTotem.html#a195c04199c99dadea710d96a3d91b01c", null ],
     [ "SetTotemDuration", "da/d40/classTotem.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
     [ "UnSummon", "da/d40/classTotem.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
     [ "Update", "da/d40/classTotem.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],

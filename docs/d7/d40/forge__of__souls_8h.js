@@ -4,6 +4,7 @@ var forge__of__souls_8h =
     [ "DataHeader", "d7/d40/forge__of__souls_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "ForgeOfSoulsScriptName", "d7/d40/forge__of__souls_8h.html#a3c0c936a921822a81a5164ac22d1d2be", null ],
     [ "PATH_BEGIN_VALUE", "d7/d40/forge__of__souls_8h.html#a5e53249f20085a0a3fa19bdb577ee3c0", null ],
+    [ "RegisterForgeOfSoulsCreatureAI", "d7/d40/forge__of__souls_8h.html#abd4b2b28b7919ac02cef65fe56e0d287", null ],
     [ "Creatures", "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_BRONJAHM", "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a8123c635a5ab5db37954d58117f9d044", null ],
       [ "NPC_DEVOURER", "d7/d40/forge__of__souls_8h.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0", null ],
@@ -24,7 +25,11 @@ var forge__of__souls_8h =
     [ "Data", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "DATA_BRONJAHM", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4b59c780af059481cef282a4a633787c", null ],
       [ "DATA_DEVOURER", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a543a7f7aa73668312c27b6fab64449b9", null ],
-      [ "MAX_ENCOUNTER", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d", null ]
+      [ "MAX_ENCOUNTER", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_LEADER_FIRST", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a12a672a5572182b75cd573f1f497fb32", null ],
+      [ "DATA_LEADER_SECOND", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a078db0dd2abfa5bc33068569f62a3622", null ],
+      [ "DATA_GUARD_FIRST", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a08ef083122c33ded425d0c5cba9855fb", null ],
+      [ "DATA_GUARD_SECOND", "d7/d40/forge__of__souls_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aaf3103e179562b96b6d6da3b3154d1f2", null ]
     ] ],
     [ "GetForgeOfSoulsAI", "d7/d40/forge__of__souls_8h.html#ad15f4591edb3d3ae386b206de5dc4aa7", null ],
     [ "outroPositions", "d7/d40/forge__of__souls_8h.html#ad21937fd84650fa779a140f25c64578c", null ],

@@ -1,7 +1,6 @@
 var boss__urok__doomhowl_8cpp =
 [
-    [ "boss_urok_doomhowl", "d7/db7/classboss__urok__doomhowl.html", "d7/db7/classboss__urok__doomhowl" ],
-    [ "boss_urok_doomhowl::boss_urok_doomhowlAI", "da/d6b/structboss__urok__doomhowl_1_1boss__urok__doomhowlAI.html", "da/d6b/structboss__urok__doomhowl_1_1boss__urok__doomhowlAI" ],
+    [ "boss_urok_doomhowl", "dd/df9/structboss__urok__doomhowl.html", "dd/df9/structboss__urok__doomhowl" ],
     [ "Events", "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_REND", "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4330423ee013a070a273cb7ffefebd5d", null ],
       [ "EVENT_STRIKE", "d8/dff/boss__urok__doomhowl_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad1521dc079c87020b71b6aa09dafe4aa", null ],

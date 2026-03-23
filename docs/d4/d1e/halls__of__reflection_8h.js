@@ -6,6 +6,7 @@ var halls__of__reflection_8h =
     [ "MAX_DIST_FROM_CENTER_TO_START", "d4/d1e/halls__of__reflection_8h.html#aa89b3f92a3ff258325941cbc60b95cb4", null ],
     [ "NUM_OF_TRASH", "d4/d1e/halls__of__reflection_8h.html#a00eca5db139942c79e12425a1f7ba3b6", null ],
     [ "PATH_WP_COUNT", "d4/d1e/halls__of__reflection_8h.html#aa1c1e4a1c43ac56f156ba8bd7cb62348", null ],
+    [ "RegisterHallsOfReflectionCreatureAI", "d4/d1e/halls__of__reflection_8h.html#a0b2f8aa32c5b2212e9778904bf781550", null ],
     [ "BatteredHiltStatusFlags", "d4/d1e/halls__of__reflection_8h.html#a1b94204d297ce0fcfa83bf1889ea44d4", [
       [ "BHSF_NONE", "d4/d1e/halls__of__reflection_8h.html#a1b94204d297ce0fcfa83bf1889ea44d4a1d43d569a5ca3ed3e62e218bd5e08ce6", null ],
       [ "BHSF_STARTED", "d4/d1e/halls__of__reflection_8h.html#a1b94204d297ce0fcfa83bf1889ea44d4a39110e5bc2bc19ecbe27da2442e9a15f", null ],
@@ -56,7 +57,8 @@ var halls__of__reflection_8h =
       [ "ACTION_STOP_LK_FIGHT", "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a6d0545e70a620ef4e1b900fcb622ab57", null ],
       [ "ACTION_DELETE_ICE_WALL", "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a4beba7db429c52083d439baa4da667ca", null ],
       [ "DATA_WAVE_NUMBER", "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ac1747b726f5dc8f3d9fc3578da1a6bb4", null ],
-      [ "DATA_LK_BATTLE", "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab8e10ca903fb36c37526a471beb5119c", null ]
+      [ "DATA_LK_BATTLE", "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63ab8e10ca903fb36c37526a471beb5119c", null ],
+      [ "DATA_SHIP_CAPTAIN", "d4/d1e/halls__of__reflection_8h.html#af5baa506e65b4caa6be6d1c6661dfe63aab3c78f00d008a5edf0af59d016103bd", null ]
     ] ],
     [ "GameObjects", "d4/d1e/halls__of__reflection_8h.html#a11b4fe9f4efc221e06a058a1b6650e3d", [
       [ "GO_FROSTMOURNE", "d4/d1e/halls__of__reflection_8h.html#a11b4fe9f4efc221e06a058a1b6650e3da5efbb3b471967803074801b3cf27780b", null ],
@@ -124,7 +126,19 @@ var halls__of__reflection_8h =
       [ "SPELL_SUMMON_LUMBERING_ABOMINATION", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca4e7784aac57b8ba9131bd71a524eba12", null ],
       [ "SPELL_GUNSHIP_CANNON_FIRE_PERIODIC", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca89d56c3c609930ad0050fa70e773da24", null ],
       [ "SPELL_ACHIEVEMENT_CHECK", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca297ac684cd3fa815d7021b0943a36fae", null ],
-      [ "SPELL_SUMMON_EVIL_QUEL", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca40322f0978b2a6c9e9147293b3dc014e", null ]
+      [ "SPELL_SUMMON_EVIL_QUEL", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca40322f0978b2a6c9e9147293b3dc014e", null ],
+      [ "SPELL_QUEL_DELAR_HATRED", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467caefee6c88cf136f2dbc162205816ffcfa", null ],
+      [ "SPELL_FROSTMOURNE_ALTAR_GLOW", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca5434badafb05690472435e31682f7dc1", null ],
+      [ "SPELL_UTHER_HOLY_LIGHT_VISUAL", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca6bda06d2fb03a3b318100ed512d21c11", null ],
+      [ "SPELL_QUELDELAR_COMPULSION", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467cafb6c5dc275198ba7a3f10647442db080", null ],
+      [ "SPELL_QUELDELAR_WILL", "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca94b1aa4f0bab41e24a35c04d04c24c60", null ]
+    ] ],
+    [ "HoRPersistentData", "d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3", [
+      [ "PERSISTENT_DATA_INTRO", "d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3af5053d256ffab9f0c01004fff5fc1a74", null ],
+      [ "PERSISTENT_DATA_FROSTSWORN_GENERAL", "d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3a8058a4e2fdc58f1f4777bd82f203de29", null ],
+      [ "PERSISTENT_DATA_LK_INTRO", "d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3aba3343fbf435265d4293f9030d700c54", null ],
+      [ "PERSISTENT_DATA_BATTERED_HILT", "d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3a95424cc4e3d85fa94019583e6ad7e5e6", null ],
+      [ "PERSISTENT_DATA_COUNT", "d4/d1e/halls__of__reflection_8h.html#a01c9bdd526d31c49d9f7f70b1b9ae1b3a327cde1f8f9908a139da6e4deb38dc76", null ]
     ] ],
     [ "hYells", "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99", [
       [ "SAY_JAINA_INTRO_1", "d4/d1e/halls__of__reflection_8h.html#aa1238bc23100f9e9f532209a59184b99a6b281ebb353154d1e4c6b39eb83d65f4", null ],
@@ -235,6 +249,8 @@ var halls__of__reflection_8h =
     [ "LoralenFollowPos", "d4/d1e/halls__of__reflection_8h.html#a1336e62200882bdc0f54fcd0bcb0aabc", null ],
     [ "LoralenMidleFollowPos", "d4/d1e/halls__of__reflection_8h.html#aa1f1ef611bd6a3cb7c9130d85c1a750a", null ],
     [ "MarwynMovePos", "d4/d1e/halls__of__reflection_8h.html#a4a0d25ab54e75973ec00b79befb8ce31", null ],
+    [ "MAX_ICE_WALL_TARGETS", "d4/d1e/halls__of__reflection_8h.html#a8c12eb8a9f39d004becb93d52e12320b", null ],
+    [ "MAX_SPIRITUAL_REFLECTIONS", "d4/d1e/halls__of__reflection_8h.html#afc99a44a5c4865c869f0dcde19df035f", null ],
     [ "MoveThronePos", "d4/d1e/halls__of__reflection_8h.html#a103fff62976ea3640a5a0f980df6b83c", null ],
     [ "PathWaypoints", "d4/d1e/halls__of__reflection_8h.html#a01b3e5f9902e55fda0e21507f557dc19", null ],
     [ "ShipMasterSummonPos", "d4/d1e/halls__of__reflection_8h.html#a0772cd9221a9dd6209e04458a8573df7", null ],

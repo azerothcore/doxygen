@@ -1,7 +1,6 @@
 var boss__vaelastrasz_8cpp =
 [
-    [ "boss_vaelastrasz", "df/df3/classboss__vaelastrasz.html", "df/df3/classboss__vaelastrasz" ],
-    [ "boss_vaelastrasz::boss_vaelAI", "d3/def/structboss__vaelastrasz_1_1boss__vaelAI.html", "d3/def/structboss__vaelastrasz_1_1boss__vaelAI" ],
+    [ "boss_vaelastrasz", "d9/d6d/structboss__vaelastrasz.html", "d9/d6d/structboss__vaelastrasz" ],
     [ "spell_vael_burning_adrenaline", "d3/da5/classspell__vael__burning__adrenaline.html", "d3/da5/classspell__vael__burning__adrenaline" ],
     [ "Events", "d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_SPEECH_1", "d9/d59/boss__vaelastrasz_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a8ae0ed0e08e247b5a6e95eddaa6229f4", null ],

@@ -1,7 +1,6 @@
 var boss__anubshiah_8cpp =
 [
-    [ "boss_anubshiah", "da/d41/classboss__anubshiah.html", "da/d41/classboss__anubshiah" ],
-    [ "boss_anubshiah::boss_anubshiahAI", "d1/def/structboss__anubshiah_1_1boss__anubshiahAI.html", "d1/def/structboss__anubshiah_1_1boss__anubshiahAI" ],
+    [ "boss_anubshiah", "d3/dc2/structboss__anubshiah.html", "d3/dc2/structboss__anubshiah" ],
     [ "Spells", "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_SHADOWBOLT", "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298ca7d3e13f7a79db8c5b11aa3b77add6883", null ],
       [ "SPELL_CURSE_TONGUES", "d8/df3/boss__anubshiah_8cpp.html#a5bd342133be8c2137b831460acc9298ca3944e1c2dd7f4892b71fd51ee6ae2171", null ],

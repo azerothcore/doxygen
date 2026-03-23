@@ -1,9 +1,7 @@
 var boss__chromaggus_8cpp =
 [
-    [ "boss_chromaggus", "d8/d2c/classboss__chromaggus.html", "d8/d2c/classboss__chromaggus" ],
-    [ "boss_chromaggus::boss_chromaggusAI", "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI.html", "dc/d86/structboss__chromaggus_1_1boss__chromaggusAI" ],
-    [ "go_chromaggus_lever", "d0/d51/classgo__chromaggus__lever.html", "d0/d51/classgo__chromaggus__lever" ],
-    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI.html", "d6/dd1/structgo__chromaggus__lever_1_1go__chromaggus__leverAI" ],
+    [ "boss_chromaggus", "d2/ddf/structboss__chromaggus.html", "d2/ddf/structboss__chromaggus" ],
+    [ "go_chromaggus_lever", "d4/ddc/structgo__chromaggus__lever.html", "d4/ddc/structgo__chromaggus__lever" ],
     [ "spell_gen_elemental_shield", "de/d05/classspell__gen__elemental__shield.html", "de/d05/classspell__gen__elemental__shield" ],
     [ "spell_gen_brood_power", "dd/d0c/classspell__gen__brood__power.html", "dd/d0c/classspell__gen__brood__power" ],
     [ "ElementalShieldSpells", "d1/d0a/boss__chromaggus_8cpp.html#a7cc21086b00c27f6dd4ccd562708ec6a", [

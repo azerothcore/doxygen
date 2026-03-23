@@ -1,8 +1,7 @@
 var instance__blackrock__depths_8cpp =
 [
     [ "RestoreAttack", "d2/d61/classRestoreAttack.html", "d2/d61/classRestoreAttack" ],
-    [ "instance_blackrock_depths", "d5/d5a/classinstance__blackrock__depths.html", "d5/d5a/classinstance__blackrock__depths" ],
-    [ "instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript", "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript.html", "d1/d1f/structinstance__blackrock__depths_1_1instance__blackrock__depths__InstanceMapScript" ],
+    [ "instance_blackrock_depths", "d3/dd6/structinstance__blackrock__depths.html", "d3/dd6/structinstance__blackrock__depths" ],
     [ "Distances", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dc", [
       [ "RADIUS_RING_OF_LAW", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62", null ],
       [ "DISTANCE_EMPEROR_ROOM", "d6/d61/instance__blackrock__depths_8cpp.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71", null ]

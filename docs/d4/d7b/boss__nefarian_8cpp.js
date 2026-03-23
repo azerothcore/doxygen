@@ -1,8 +1,7 @@
 var boss__nefarian_8cpp =
 [
     [ "ClassCallSelector", "de/dde/structClassCallSelector.html", "de/dde/structClassCallSelector" ],
-    [ "boss_victor_nefarius", "dc/da9/classboss__victor__nefarius.html", "dc/da9/classboss__victor__nefarius" ],
-    [ "boss_victor_nefarius::boss_victor_nefariusAI", "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI.html", "d6/d35/structboss__victor__nefarius_1_1boss__victor__nefariusAI" ],
+    [ "boss_victor_nefarius", "d1/de5/structboss__victor__nefarius.html", "d1/de5/structboss__victor__nefarius" ],
     [ "boss_nefarian", "df/df5/structboss__nefarian.html", "df/df5/structboss__nefarian" ],
     [ "npc_corrupted_totem", "de/dea/structnpc__corrupted__totem.html", "de/dea/structnpc__corrupted__totem" ],
     [ "npc_drakonid_spawner", "dc/d48/structnpc__drakonid__spawner.html", "dc/d48/structnpc__drakonid__spawner" ],

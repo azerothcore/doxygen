@@ -78,5 +78,9 @@ var Spell_8h =
       [ "SPELL_STATE_IDLE", "d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aafd1c8a760bdbbe80d8f6bc6a7de07197", null ],
       [ "SPELL_STATE_DELAYED", "d0/d78/Spell_8h.html#a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452", null ]
     ] ],
+    [ "WorldObjectSpellAreaTargetSearchReason", "d0/d78/Spell_8h.html#a5f5f9b21657494ac28217867f6f20a9d", [
+      [ "Area", "d0/d78/Spell_8h.html#a5f5f9b21657494ac28217867f6f20a9dadeec4ff19974f12ed781cb9a59064214", null ],
+      [ "Chain", "d0/d78/Spell_8h.html#a5f5f9b21657494ac28217867f6f20a9da5320550175ad6f79ad658943b9c013a7", null ]
+    ] ],
     [ "SPELL_INTERRUPT_NONPLAYER", "d0/d78/Spell_8h.html#a925df27fa7c1cddda3066155bff0ef5c", null ]
 ];
