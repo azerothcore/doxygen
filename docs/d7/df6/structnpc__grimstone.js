@@ -10,6 +10,7 @@ var structnpc__grimstone =
     [ "UpdateEscortAI", "d7/df6/structnpc__grimstone.html#a848b405425ef4bb3dc20a4ec4ea081af", null ],
     [ "updateReset", "d7/df6/structnpc__grimstone.html#afe73a3b9a9e7c9e24ea5ba09c23c05fa", null ],
     [ "WaypointReached", "d7/df6/structnpc__grimstone.html#a4d381cecdada9577012e2c7914b7c5f9", null ],
+    [ "WaypointReached", "d7/df6/structnpc__grimstone.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "BossSpawnId", "d7/df6/structnpc__grimstone.html#a145a7bbecf4e061f44355948367f33bc", null ],
     [ "eventPhase", "d7/df6/structnpc__grimstone.html#a0cb794b7343a42cc55c1be563acd4e52", null ],
     [ "eventTimer", "d7/df6/structnpc__grimstone.html#aa246b08433ad44365e2bfe47a9025001", null ],

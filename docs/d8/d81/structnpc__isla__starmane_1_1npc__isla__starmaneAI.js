@@ -6,5 +6,6 @@ var structnpc__isla__starmane_1_1npc__isla__starmaneAI =
     [ "JustRespawned", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a69b395a9b9504737109870c5e8db74c8", null ],
     [ "UpdateEscortAI", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#af4b8c80e7443bb671be253238b124910", null ],
     [ "WaypointReached", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "events", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

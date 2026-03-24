@@ -14,6 +14,7 @@ var structnpc__thrall__bfu_1_1npc__thrall__bfuAI =
     [ "UpdateAI", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ac0d604a3db43172dcc8ae121fe3faa60", null ],
     [ "UpdateWorldState", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a1f3968dbd3168e745815c45c0b1f044c", null ],
     [ "WaypointReached", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab9058c31253d42457136ad4e7a92909c", null ],
+    [ "WaypointReached", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_events", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#ab724c7b0673ab8cd50def4a864545617", null ],
     [ "allianceForcesGUID", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a97badd906bc9b0cd0278d003191e585a", null ],
     [ "bStepping", "de/d3b/structnpc__thrall__bfu_1_1npc__thrall__bfuAI.html#a2f03d831bd3217366741716f671fcde6", null ],

@@ -11,6 +11,7 @@ var structnpc__general__andorov =
     [ "sGossipSelect", "d4/d37/structnpc__general__andorov.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
     [ "UpdateEscortAI", "d4/d37/structnpc__general__andorov.html#ab5f5af15cf76071dcce833514bb8c867", null ],
     [ "WaypointReached", "d4/d37/structnpc__general__andorov.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
+    [ "WaypointReached", "d4/d37/structnpc__general__andorov.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_initialAttackTimer", "d4/d37/structnpc__general__andorov.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
     [ "_paused", "d4/d37/structnpc__general__andorov.html#aa0708d2c1e4829371b93697744fb10b7", null ],
     [ "_summons", "d4/d37/structnpc__general__andorov.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],

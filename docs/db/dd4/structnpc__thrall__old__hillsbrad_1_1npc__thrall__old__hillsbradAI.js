@@ -17,6 +17,7 @@ var structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI =
     [ "UpdateAI", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#aa74db6940f44d81369944ec85a292a1d", null ],
     [ "UpdateEscortAI", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a1396da1a6a45041f0736ecd3cc09927c", null ],
     [ "WaypointReached", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a341ef3b9166257d6e8b3452af9b32887", null ],
+    [ "WaypointReached", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "WaypointStart", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#ae9073aa689450fca369fa99815804f61", null ],
     [ "_barnWave", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a391d5e452e96cfcd529ca32c5f168a92", null ],
     [ "_churchWave", "db/dd4/structnpc__thrall__old__hillsbrad_1_1npc__thrall__old__hillsbradAI.html#a5aad5eb0df573cdfe8d55ac53010df0d", null ],

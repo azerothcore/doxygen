@@ -8,6 +8,7 @@ var structnpc__maghar__captive_1_1npc__maghar__captiveAI =
     [ "SpellHitTarget", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
     [ "UpdateAI", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
     [ "WaypointReached", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "WaypointReached", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "ChainLightningTimer", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
     [ "FrostShockTimer", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
     [ "HealTimer", "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038", null ]

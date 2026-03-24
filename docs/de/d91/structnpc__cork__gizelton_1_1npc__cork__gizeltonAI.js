@@ -19,6 +19,7 @@ var structnpc__cork__gizelton_1_1npc__cork__gizeltonAI =
     [ "SummonsFollow", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a81a72db27d196b2fb6696b6466d26449", null ],
     [ "UpdateEscortAI", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
     [ "WaypointReached", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
+    [ "WaypointReached", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_faction", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
     [ "_playerGUID", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a94277075d53a9d9115894e3bf378d106", null ],
     [ "events", "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a251f091e5b314341c8e5131bf38188f0", null ],

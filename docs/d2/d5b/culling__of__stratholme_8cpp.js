@@ -42,6 +42,12 @@ var culling__of__stratholme_8cpp =
       [ "ACTION_INFECT_CITIZIEN", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af94e080f9fd3d13f7aaac1cd0979bdca", null ],
       [ "ACTION_FORCE_CHANGE_LOCK", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa202ef4120176efb3ae0b092d1c33b62", null ],
       [ "POINT_CHRONOS", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3487d0cc144ba7a68d23431a110d7f7c", null ],
+      [ "NPC_STEPHANIE_SINDREE", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a559e846d52e8195bc1e8d3f592272427", null ],
+      [ "SAY_STEPHANIE_CROWD_1", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af8dc2746fe31571664ed0a26e57036a7", null ],
+      [ "SAY_STEPHANIE_CROWD_2", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aac6bb1af40d958e0a8c778fc9bb91b30", null ],
+      [ "SAY_STEPHANIE_CROWD_3", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abdcc9b51b301cc586e0e84c28fa1466d", null ],
+      [ "SAY_STEPHANIE_RESPONSE_1", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0763fd117447754e9a1f240094ac476a", null ],
+      [ "SAY_STEPHANIE_RESPONSE_2", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae733e1de8299a631aefe1433812b86ff", null ],
       [ "NPC_BRANDON_EIREDECK", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad6315d0eaa11bb12bbb5f343e9ec2d79", null ],
       [ "SAY_BRANDON_CROWD_AMBIENT", "d2/d5b/culling__of__stratholme_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a95e741e55dc2d3e7532c84e3403a326a", null ]
     ] ],

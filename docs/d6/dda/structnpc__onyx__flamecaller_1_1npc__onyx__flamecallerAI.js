@@ -8,6 +8,7 @@ var structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI =
     [ "Reset", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a756a44feb79eb56f443ee16995a2566d", null ],
     [ "UpdateEscortAI", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
     [ "WaypointReached", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "WaypointReached", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_events", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a9280b604135308078860c20667da9819", null ],
     [ "_instance", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
     [ "_lavaGoutCount", "d6/dda/structnpc__onyx__flamecaller_1_1npc__onyx__flamecallerAI.html#a1f46c988316c1870f506a66f2390e79b", null ]

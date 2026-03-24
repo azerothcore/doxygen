@@ -6,6 +6,7 @@ var classMovement_1_1MoveSplineInit =
     [ "MovebyPath", "d4/d99/classMovement_1_1MoveSplineInit.html#aab8475d504365efbefd571f748b4f42e", null ],
     [ "MoveTo", "d4/d99/classMovement_1_1MoveSplineInit.html#a1a1c23b0ea579800264fe37938b3a373", null ],
     [ "MoveTo", "d4/d99/classMovement_1_1MoveSplineInit.html#a1805cc0033ca71a710bd310bed0fccd6", null ],
+    [ "MoveTo", "d4/d99/classMovement_1_1MoveSplineInit.html#a37ed72b2676a98769fe691efd9b2eafd", null ],
     [ "Path", "d4/d99/classMovement_1_1MoveSplineInit.html#a28e5ddb362b3271a6a8cb1894b27ef99", null ],
     [ "SetAnimation", "d4/d99/classMovement_1_1MoveSplineInit.html#a80bd851e9a1647eb4472398bfe8a5310", null ],
     [ "SetCyclic", "d4/d99/classMovement_1_1MoveSplineInit.html#aec622d3475640701c147f246e0b38c9a", null ],

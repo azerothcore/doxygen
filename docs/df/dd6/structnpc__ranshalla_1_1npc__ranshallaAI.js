@@ -10,6 +10,7 @@ var structnpc__ranshalla_1_1npc__ranshallaAI =
     [ "SummonedMovementInform", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a453cfe020d81e27daa8d779be64012ee", null ],
     [ "UpdateEscortAI", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d", null ],
     [ "WaypointReached", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a96ff03de70b433e2ff5c35f50d062c55", null ],
+    [ "WaypointReached", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_altarGUID", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ab9e42364744d89301944b7baa852bc9f", null ],
     [ "_delayTimer", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#a219e1f257f0ddae9de5fd89ba9a338be", null ],
     [ "_firstPriestessGUID", "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#ae5289a2645f3d17da452810b22a77713", null ],

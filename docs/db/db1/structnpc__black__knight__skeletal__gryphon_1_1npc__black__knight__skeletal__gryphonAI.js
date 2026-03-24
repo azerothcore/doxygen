@@ -4,5 +4,6 @@ var structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal_
     [ "DoAction", "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#af38e129cdf4af99e99c41b6a98448e56", null ],
     [ "Reset", "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
     [ "UpdateAI", "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "WaypointReached", "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "db/db1/structnpc__black__knight__skeletal__gryphon_1_1npc__black__knight__skeletal__gryphonAI.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

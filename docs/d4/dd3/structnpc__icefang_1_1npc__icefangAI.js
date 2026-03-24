@@ -8,5 +8,6 @@ var structnpc__icefang_1_1npc__icefangAI =
     [ "OnCharmed", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
     [ "PassengerBoarded", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
     [ "UpdateAI", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "WaypointReached", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#ae315a1d22317edb2864e4d796f808ffb", null ],
+    [ "WaypointReached", "d4/dd3/structnpc__icefang_1_1npc__icefangAI.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

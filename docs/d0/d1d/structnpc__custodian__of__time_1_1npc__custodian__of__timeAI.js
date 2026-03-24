@@ -5,5 +5,6 @@ var structnpc__custodian__of__time_1_1npc__custodian__of__timeAI =
     [ "MoveInLineOfSight", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
     [ "Reset", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html#a56bcc694ac286488ed4b3f2328c30573", null ],
     [ "UpdateAI", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "WaypointReached", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html#a963736e62fbd0caea631ee3fb69fca46", null ],
+    [ "WaypointReached", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

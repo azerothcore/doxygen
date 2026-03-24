@@ -11,6 +11,9 @@ var structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI =
     [ "ambientTalkTimer", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aaa8eef94d1707207d241010d066d02fc", null ],
     [ "changeTimer", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b", null ],
     [ "isBrandonCrowd", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a7ded1c196b311e5b61686ba9f22efd20", null ],
+    [ "isStephanieCrowd", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a211859fa8f83c08d6150f9fb5730e409", null ],
     [ "locked", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "pInstance", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e", null ],
+    [ "stephanieDialoguePhase", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a5cadb975125ec915dcc1899d159c2aa3", null ],
+    [ "stephanieDialogueTimer", "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a61fa61e81acfc543353312914a99d841", null ]
 ];

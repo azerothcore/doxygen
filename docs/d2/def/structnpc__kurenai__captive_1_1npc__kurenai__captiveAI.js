@@ -9,6 +9,7 @@ var structnpc__kurenai__captive_1_1npc__kurenai__captiveAI =
     [ "SpellHitTarget", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a1f0cb1afc62b1b29a71cc04a21c456f0", null ],
     [ "UpdateEscortAI", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a3d0dfb0df190fe1b32cacb039e611dc3", null ],
     [ "WaypointReached", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a584bfc3a62f9d856e6d918d8f8694b3e", null ],
+    [ "WaypointReached", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "ChainLightningTimer", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a9aede5daebe0cf90ca2091a052c34282", null ],
     [ "FrostShockTimer", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a224c2df273f8d032e4302958879ce4d5", null ],
     [ "HealTimer", "d2/def/structnpc__kurenai__captive_1_1npc__kurenai__captiveAI.html#a5a8d15bf6d2fd7a04818ba4535195922", null ]

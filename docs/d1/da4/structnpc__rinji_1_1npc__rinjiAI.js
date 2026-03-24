@@ -9,6 +9,7 @@ var structnpc__rinji_1_1npc__rinjiAI =
     [ "sQuestAccept", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
     [ "UpdateEscortAI", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#a60f05b58b115f3f2ea11206778893547", null ],
     [ "WaypointReached", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "WaypointReached", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_IsByOutrunner", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#adecc4eb9f90969621b52b97ff594558d", null ],
     [ "postEventCount", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#a601f142bd2a04ed303611044bac91035", null ],
     [ "postEventTimer", "d1/da4/structnpc__rinji_1_1npc__rinjiAI.html#a5154e551143e81d431f706ad07b78ca0", null ],

@@ -11,6 +11,7 @@ var structnpc__varian__wrynn_1_1npc__varian__wrynnAI =
     [ "UpdateAI", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#abc90f62951ede3792dd2ea2d1794a040", null ],
     [ "UpdateWorldState", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a0f0948edb85f45cbd12faec72c23b129", null ],
     [ "WaypointReached", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#ae8a2cbcffcfbf27d00fcfc6999b74b36", null ],
+    [ "WaypointReached", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_events", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a93929fbbd33d7e95c95d93df87da4e32", null ],
     [ "allianceForcesGUID", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#aaf9f3fc958530168ba4f3c86e1cf6fa4", null ],
     [ "allianceGuardsGUID", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#aafeadcb50b34de9cb109f0293889aaf4", null ],

@@ -7,6 +7,7 @@ var structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI =
     [ "SummonedCreatureDies", "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
     [ "Update", "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a4099d75c4a6bca1525781a5753ef9972", null ],
     [ "WaypointReached", "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "WaypointReached", "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "summons", "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
     [ "textCounter", "d5/dfb/structnpc__daphne__stilwell_1_1npc__daphne__stilwellAI.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

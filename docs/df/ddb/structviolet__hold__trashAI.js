@@ -11,6 +11,7 @@ var structviolet__hold__trashAI =
     [ "MoveInLineOfSight", "df/ddb/structviolet__hold__trashAI.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
     [ "UpdateAI", "df/ddb/structviolet__hold__trashAI.html#a8647797343650fcd4f6304bce3742883", null ],
     [ "WaypointReached", "df/ddb/structviolet__hold__trashAI.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "WaypointReached", "df/ddb/structviolet__hold__trashAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "bAddedWP", "df/ddb/structviolet__hold__trashAI.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
     [ "bAlt", "df/ddb/structviolet__hold__trashAI.html#ad84ecad1a57f0af44af2795a252d2214", null ],
     [ "pInstance", "df/ddb/structviolet__hold__trashAI.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],

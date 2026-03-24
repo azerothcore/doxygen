@@ -6,6 +6,7 @@ var structnpc__garments__of__quests_1_1npc__garments__of__questsAI =
     [ "SpellHit", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad22195dba70ced744b319bc1ad83c083", null ],
     [ "UpdateAI", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
     [ "WaypointReached", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "CanRun", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a93c41781e4cb037b56773bbbf36181b7", null ],
     [ "CasterGUID", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
     [ "IsHealed", "dc/d0a/structnpc__garments__of__quests_1_1npc__garments__of__questsAI.html#a96db66704eabf028362d5f8b5c424712", null ],

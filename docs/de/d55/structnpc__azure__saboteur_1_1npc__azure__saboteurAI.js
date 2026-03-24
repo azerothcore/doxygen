@@ -5,6 +5,7 @@ var structnpc__azure__saboteur_1_1npc__azure__saboteurAI =
     [ "MoveInLineOfSight", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a21868549892cdd0e67d6403dece9efce", null ],
     [ "UpdateAI", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
     [ "WaypointReached", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#ac17dc46bfe75582a789a2056978218fb", null ],
+    [ "WaypointReached", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "bAddedWPs", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
     [ "bOpening", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a924ceb13552f0f01d55375af0324bf5a", null ],
     [ "count", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],

@@ -5,5 +5,6 @@ var structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI =
     [ "Reset", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
     [ "UpdateEscortAI", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
     [ "WaypointReached", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "PotTimer", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

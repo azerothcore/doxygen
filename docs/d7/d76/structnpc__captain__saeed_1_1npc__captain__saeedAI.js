@@ -12,6 +12,7 @@ var structnpc__captain__saeed_1_1npc__captain__saeedAI =
     [ "SummonsAction", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a7ffef7c2b998062ecc3544b2b8508a4c", null ],
     [ "UpdateAI", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a2e3fd3ec84807f5b35ba6745c5ca7788", null ],
     [ "WaypointReached", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a2af760112f66b315ee36ecc2c4205d44", null ],
+    [ "WaypointReached", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "events", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a3e48ae282cea46e17e9558864f87aa3b", null ],
     [ "fight", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a19f52a735bbd742862a417fb3adb23a2", null ],
     [ "started", "d7/d76/structnpc__captain__saeed_1_1npc__captain__saeedAI.html#a30299a3d26b5e6d4ff56b48754f0023c", null ],

@@ -5,5 +5,6 @@ var structnpc__engineer__helice_1_1npc__engineer__heliceAI =
     [ "Reset", "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#ade3f7f526dd8973c155aafb939db3778", null ],
     [ "UpdateAI", "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#a1c333511dd6e82cd22af111e12a701c4", null ],
     [ "WaypointReached", "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "m_uiChatTimer", "da/d0a/structnpc__engineer__helice_1_1npc__engineer__heliceAI.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

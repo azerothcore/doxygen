@@ -6,5 +6,6 @@ var structnpc__ame_1_1npc__ameAI =
     [ "Reset", "d6/d75/structnpc__ame_1_1npc__ameAI.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
     [ "UpdateAI", "d6/d75/structnpc__ame_1_1npc__ameAI.html#a0a073e4c216985607aa51099044ff6c5", null ],
     [ "WaypointReached", "d6/d75/structnpc__ame_1_1npc__ameAI.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "WaypointReached", "d6/d75/structnpc__ame_1_1npc__ameAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "DemoralizingShoutTimer", "d6/d75/structnpc__ame_1_1npc__ameAI.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

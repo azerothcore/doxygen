@@ -7,5 +7,6 @@ var structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI =
     [ "JustSummoned", "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#ae468305fbe930baf0a1547f2e6de9953", null ],
     [ "Reset", "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a5aeaa5511584d1095639e7df584019c5", null ],
     [ "WaypointReached", "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "WaypointReached", "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "IsFriendSummoned", "de/d80/structnpc__tapoke__slim__jahn_1_1npc__tapoke__slim__jahnAI.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

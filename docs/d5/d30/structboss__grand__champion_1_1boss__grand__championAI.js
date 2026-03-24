@@ -14,6 +14,7 @@ var structboss__grand__champion_1_1boss__grand__championAI =
     [ "SpellHit", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a0a3eb3835e3997689cd40568b85bcae4", null ],
     [ "UpdateAI", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a9217801f076974ee5da5af19c43097b3", null ],
     [ "WaypointReached", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a6240088bec30b62a8ae223e0236959c7", null ],
+    [ "WaypointReached", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "BossOrder", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a4c6a17931fbfbab3609d70da53662676", null ],
     [ "events", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a786bfc8397062beb22412b0873dcb1f0", null ],
     [ "MountPhase", "d5/d30/structboss__grand__champion_1_1boss__grand__championAI.html#a2a03cc604720f4952a11d72a54bd4437", null ],

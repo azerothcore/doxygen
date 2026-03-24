@@ -10,6 +10,7 @@ var structboss__bjarngrim =
     [ "RollStance", "df/dda/structboss__bjarngrim.html#acd511435f9d77aa4839e1c856382ea51", null ],
     [ "UpdateEscortAI", "df/dda/structboss__bjarngrim.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
     [ "WaypointReached", "df/dda/structboss__bjarngrim.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "WaypointReached", "df/dda/structboss__bjarngrim.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "events", "df/dda/structboss__bjarngrim.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
     [ "m_pInstance", "df/dda/structboss__bjarngrim.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
     [ "m_uiStance", "df/dda/structboss__bjarngrim.html#aec11755c71f056c8294a8af1c1084353", null ],

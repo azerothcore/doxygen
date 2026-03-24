@@ -16,6 +16,7 @@ var structbrann__bronzebeard_1_1brann__bronzebeardAI =
     [ "SwitchHeadVisaul", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a19d3bc69584186ae151416ee959f4369", null ],
     [ "UpdateEscortAI", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a814f7f6018e2553eba3f1201c2450d57", null ],
     [ "WaypointReached", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#acbcecd90533986c2a6185e7a7b5387f0", null ],
+    [ "WaypointReached", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "AbedneumGUID", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a961f61bf9a9392c5d0c2db0450f8e519", null ],
     [ "canExecuteEvents", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a891ad98b38be5eb90bb66bb59f0dc6e5", null ],
     [ "darkMatterTargetGUID", "d7/d9d/structbrann__bronzebeard_1_1brann__bronzebeardAI.html#a62b095c494b4e034f6d77023e75f0d29", null ],

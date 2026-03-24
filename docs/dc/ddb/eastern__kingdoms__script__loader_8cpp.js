@@ -104,7 +104,6 @@ var eastern__kingdoms__script__loader_8cpp =
     [ "AddSC_boss_wushoolay", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#ad2e7df8d3992e578087af76371426f72", null ],
     [ "AddSC_boss_zuljin", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aa8221a45c0b038126f83d9decb794dbe", null ],
     [ "AddSC_bosses_opera", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a9931154ef167189090827144138a3a7c", null ],
-    [ "AddSC_burning_steppes", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#a8cf2165dba1d5e845d5e20fbc1ce33d6", null ],
     [ "AddSC_duskwood", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#adddf7149f93506373434f27a27ec17c8", null ],
     [ "AddSC_eastern_plaguelands", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aaef7747656518bf0ce052d780430ed88", null ],
     [ "AddSC_elwynn_forest", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html#aef9caff22cc5e92156da2c393ecfb531", null ],

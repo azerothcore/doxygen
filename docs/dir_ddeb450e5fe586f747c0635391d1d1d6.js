@@ -20,7 +20,6 @@ var dir_ddeb450e5fe586f747c0635391d1d1d6 =
     [ "eastern_kingdoms_script_loader.cpp", "dc/ddb/eastern__kingdoms__script__loader_8cpp.html", "dc/ddb/eastern__kingdoms__script__loader_8cpp" ],
     [ "zone_arathi_highlands.cpp", "d5/d15/zone__arathi__highlands_8cpp.html", "d5/d15/zone__arathi__highlands_8cpp" ],
     [ "zone_blasted_lands.cpp", "d6/d9b/zone__blasted__lands_8cpp.html", "d6/d9b/zone__blasted__lands_8cpp" ],
-    [ "zone_burning_steppes.cpp", "d7/d8d/zone__burning__steppes_8cpp.html", "d7/d8d/zone__burning__steppes_8cpp" ],
     [ "zone_duskwood.cpp", "de/df1/zone__duskwood_8cpp.html", "de/df1/zone__duskwood_8cpp" ],
     [ "zone_eastern_plaguelands.cpp", "da/da0/zone__eastern__plaguelands_8cpp.html", "da/da0/zone__eastern__plaguelands_8cpp" ],
     [ "zone_elwynn_forest.cpp", "d7/d61/zone__elwynn__forest_8cpp.html", "d7/d61/zone__elwynn__forest_8cpp" ],

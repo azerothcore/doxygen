@@ -16,6 +16,7 @@ var structnpc__arthas_1_1npc__arthasAI =
     [ "SummonNextWave", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#abf90e835139da0fdfca443a690e49a0b", null ],
     [ "UpdateAI", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#ac17e7dd501117025ea07c3d834e4e598", null ],
     [ "WaypointReached", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a32c42420cad46b39db528611893ffc12", null ],
+    [ "WaypointReached", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "actionEvents", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a581e9b0704ebb1d154e81b772dcf5dea", null ],
     [ "combatEvents", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#a4ca63fe136d8acacedb1a3770c36beab", null ],
     [ "eventInRun", "d2/df9/structnpc__arthas_1_1npc__arthasAI.html#abd0371c89f2d0986c73ac26080b61a4e", null ],

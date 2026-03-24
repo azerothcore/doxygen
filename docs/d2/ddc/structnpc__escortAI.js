@@ -34,6 +34,7 @@ var structnpc__escortAI =
     [ "UpdateAI", "d2/ddc/structnpc__escortAI.html#a5e9c333411c54ff4d644812e53ba1831", null ],
     [ "UpdateEscortAI", "d2/ddc/structnpc__escortAI.html#aed1525b79824e29e0f93419c0b6b26e2", null ],
     [ "WaypointReached", "d2/ddc/structnpc__escortAI.html#a59830f742b9967303df22f5bcf0d2b9d", null ],
+    [ "WaypointReached", "d2/ddc/structnpc__escortAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "WaypointStart", "d2/ddc/structnpc__escortAI.html#ae4df5980d742911c1599614780942c02", null ],
     [ "CurrentWP", "d2/ddc/structnpc__escortAI.html#a41795ca2d0ac33dd784253e55228d62a", null ],
     [ "DespawnAtEnd", "d2/ddc/structnpc__escortAI.html#ab5c0bf212580843da4adcd62c0cd959e", null ],

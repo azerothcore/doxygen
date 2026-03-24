@@ -6,5 +6,6 @@ var structboss__thorim__sif__blizzard =
     [ "JustEngagedWith", "d9/d9a/structboss__thorim__sif__blizzard.html#a019b50cc265dff0e92417482b85ccf64", null ],
     [ "MoveInLineOfSight", "d9/d9a/structboss__thorim__sif__blizzard.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
     [ "Reset", "d9/d9a/structboss__thorim__sif__blizzard.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "d9/d9a/structboss__thorim__sif__blizzard.html#af69dfd0ec232c7e45d13b117988ba924", null ]
+    [ "WaypointReached", "d9/d9a/structboss__thorim__sif__blizzard.html#af69dfd0ec232c7e45d13b117988ba924", null ],
+    [ "WaypointReached", "d9/d9a/structboss__thorim__sif__blizzard.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

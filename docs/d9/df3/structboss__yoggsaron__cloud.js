@@ -9,6 +9,7 @@ var structboss__yoggsaron__cloud =
     [ "Reset", "d9/df3/structboss__yoggsaron__cloud.html#ad548ae65a05f600487a57899760ebab0", null ],
     [ "UpdateEscortAI", "d9/df3/structboss__yoggsaron__cloud.html#aba8043fca75864e583da9c5167efce3b", null ],
     [ "WaypointReached", "d9/df3/structboss__yoggsaron__cloud.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "WaypointReached", "d9/df3/structboss__yoggsaron__cloud.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_checkTimer", "d9/df3/structboss__yoggsaron__cloud.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
     [ "_isSummoning", "d9/df3/structboss__yoggsaron__cloud.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

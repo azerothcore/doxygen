@@ -7,5 +7,6 @@ var structboss__thorim__lightning__orb =
     [ "MoveInLineOfSight", "d5/d1e/structboss__thorim__lightning__orb.html#a3577618ff9d5bdea191d840b6c968fad", null ],
     [ "Reset", "d5/d1e/structboss__thorim__lightning__orb.html#adeefc7cd014021305b77cc9c52102ce6", null ],
     [ "WaypointReached", "d5/d1e/structboss__thorim__lightning__orb.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "WaypointReached", "d5/d1e/structboss__thorim__lightning__orb.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "Timer", "d5/d1e/structboss__thorim__lightning__orb.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

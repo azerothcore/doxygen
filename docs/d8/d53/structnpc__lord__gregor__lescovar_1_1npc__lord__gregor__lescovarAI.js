@@ -7,6 +7,7 @@ var structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI =
     [ "Reset", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#a06df695e9acd96b07f4e58c9461a708c", null ],
     [ "UpdateAI", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
     [ "WaypointReached", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "WaypointReached", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "MarzonGUID", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
     [ "uiPhase", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
     [ "uiTimer", "d8/d53/structnpc__lord__gregor__lescovar_1_1npc__lord__gregor__lescovarAI.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]

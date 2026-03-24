@@ -1,7 +1,11 @@
 var NAVTREEINDEX12 =
 {
-"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4436,1],
-"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4436,2],
+"d0/d88/boss__hedrum_8cpp.html#a89d9028330c8dc18f9e316257103a7a3":[7,0,0,0,1,3,2,1,0,9,3],
+"d0/d88/structSpellRadiusEntry.html":[6,0,4434],
+"d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[6,0,4434,3],
+"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4434,0],
+"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4434,1],
+"d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4434,2],
 "d0/d89/boss__thorim_8cpp.html":[7,0,0,0,1,3,5,9,2,11],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369":[7,0,0,0,1,3,5,9,2,11,18],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369a03db2c1cb03e4beb4ef4e8293a7dae18":[7,0,0,0,1,3,5,9,2,11,18,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX12 =
 "d0/d8c/classEnumUtils.html#a49acd4658f9bb3452b8f79af2acd0a6d":[6,0,1043,16],
 "d0/d8c/classEnumUtils.html#a4ad1877db4a83e23ebd8ba3a6e127b48":[6,0,1043,129],
 "d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[6,0,1043,81],
-"d0/d8c/classEnumUtils.html#a51a68a1df95a1dd6497f2d0f05732f59":[6,0,1043,93],
-"d0/d8c/classEnumUtils.html#a530800a1db54a25fc05968066ca6bc00":[6,0,1043,76],
-"d0/d8c/classEnumUtils.html#a5454b740ce1ac05526d97dd35fbc9511":[6,0,1043,37],
-"d0/d8c/classEnumUtils.html#a56feebca73ac73c6f1c0db0105c091a9":[6,0,1043,77],
-"d0/d8c/classEnumUtils.html#a5755b5373878105871fe59b33d8f447a":[6,0,1043,55]
+"d0/d8c/classEnumUtils.html#a51a68a1df95a1dd6497f2d0f05732f59":[6,0,1043,93]
 };

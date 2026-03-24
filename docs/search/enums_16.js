@@ -19,7 +19,7 @@ var searchData=
   ['warriorspells_16',['WarriorSpells',['../d8/d08/spell__warrior_8cpp.html#a49a26bdcb60985ed85596f2f19423768',1,'spell_warrior.cpp']]],
   ['waterelementalpathids_17',['WaterElementalPathIds',['../d7/dba/boss__hydross__the__unstable_8cpp.html#afcc5e0865e6ec38509578afd6dd93dd8',1,'boss_hydross_the_unstable.cpp']]],
   ['waterterror_18',['WaterTerror',['../d6/d81/zone__icecrown_8cpp.html#ad361bb8443208419f6cafbaeabadb081',1,'zone_icecrown.cpp']]],
-  ['waypointmovetype_19',['WaypointMoveType',['../d8/dda/WaypointMgr_8h.html#ac26115060a1cd0169937b206edddd863',1,'WaypointMgr.h']]],
+  ['waypointmovetype_19',['WaypointMoveType',['../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863',1,'WaypointDefines.h']]],
   ['waypoints_20',['Waypoints',['../da/dea/zulaman_8cpp.html#aaf8533b7d71c297704e118e0d1a43e54',1,'zulaman.cpp']]],
   ['weapon_21',['Weapon',['../d3/db0/boss__arlokk_8cpp.html#ad9700e9db9d62004af4a04e4e13912c5',1,'boss_arlokk.cpp']]],
   ['weaponattacktype_22',['WeaponAttackType',['../d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352',1,'Unit.h']]],

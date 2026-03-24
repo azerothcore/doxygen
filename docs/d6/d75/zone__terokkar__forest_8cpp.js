@@ -15,7 +15,6 @@ var zone__terokkar__forest_8cpp =
     [ "npc_isla_starmane::npc_isla_starmaneAI", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI.html", "d8/d81/structnpc__isla__starmane_1_1npc__isla__starmaneAI" ],
     [ "go_skull_pile", "de/d69/classgo__skull__pile.html", "de/d69/classgo__skull__pile" ],
     [ "go_ancient_skull_pile", "de/d4c/classgo__ancient__skull__pile.html", "de/d4c/classgo__ancient__skull__pile" ],
-    [ "npc_slim", "dc/dc2/classnpc__slim.html", "dc/dc2/classnpc__slim" ],
     [ "AncientSkullPile", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39", [
       [ "ITEM_TIME_LOST_OFFERING", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39a9518eccb8f2091e25757305c7df45735", null ],
       [ "SPELL_SUMMON_TEROKK", "d6/d75/zone__terokkar__forest_8cpp.html#a64b23573db3082d7e53f25e57c765a39a060ed19ca52e3aad49e15a5c676391da", null ],
@@ -67,9 +66,6 @@ var zone__terokkar__forest_8cpp =
       [ "SPELL_SUMMON_DARKSCREECHER_AKKARAI", "d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747add0291da1877a5245c1d72118dda56cd", null ],
       [ "SPELL_SUMMON_KARROG", "d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747a941c2f8289835f0d4d722d36f99771d2", null ],
       [ "SPELL_SUMMON_VAKKIZ_THE_WINDRAGER", "d6/d75/zone__terokkar__forest_8cpp.html#aad52625e74763db1be908eb68d6f1747a5d006fae9f9d39fb5ffa345a83679bf0", null ]
-    ] ],
-    [ "Slim", "d6/d75/zone__terokkar__forest_8cpp.html#a02ee5712d433b97576ee20c54707947b", [
-      [ "FACTION_CONSORTIUM", "d6/d75/zone__terokkar__forest_8cpp.html#a02ee5712d433b97576ee20c54707947bad1b1eee7cc5ca5f4ddaa8929e49a0046", null ]
     ] ],
     [ "UnkorTheRuthless", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02", [
       [ "SAY_SUBMIT", "d6/d75/zone__terokkar__forest_8cpp.html#a88cc97a269783b482b7b90a366327e02ac438d344c95f2fc9bceaf8955f07a62c", null ],

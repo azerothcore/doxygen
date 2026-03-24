@@ -6,6 +6,7 @@ var structnpc__magwin_1_1npc__magwinAI =
     [ "sQuestAccept", "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
     [ "UpdateEscortAI", "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a34236331be8842a9e2a98036ea382e18", null ],
     [ "WaypointReached", "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "_events", "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#a32dad2bde92efab7e0f0d16e809df665", null ],
     [ "_player", "df/dbe/structnpc__magwin_1_1npc__magwinAI.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

@@ -8,6 +8,7 @@ var structnpc__clintar__spirit_1_1npc__clintar__spiritAI =
     [ "StartEvent", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
     [ "UpdateAI", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
     [ "WaypointReached", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a98315f3202daaac261a1e7f0222b01c5", null ],
+    [ "WaypointReached", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "checkPlayerTimer", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a10165a369bb8a7775050ae425cb94123", null ],
     [ "CurrWP", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
     [ "EventOnWait", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
