@@ -4,6 +4,7 @@ var cs__script__loader_8cpp =
     [ "AddSC_account_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ],
     [ "AddSC_achievement_commandscript", "d5/d1c/cs__script__loader_8cpp.html#afeb482a8cffe8416071764bc4e78bff2", null ],
     [ "AddSC_arena_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aa94d37f012ac02e97a1021713b7dbeeb", null ],
+    [ "AddSC_autobroadcast_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a1d398e7e3a10b992b1d0a10671683d46", null ],
     [ "AddSC_bag_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a8fa1e803122341d611168b2b62fde4e5", null ],
     [ "AddSC_ban_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ],
     [ "AddSC_bf_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ],

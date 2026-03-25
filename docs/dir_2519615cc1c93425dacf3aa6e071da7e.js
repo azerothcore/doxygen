@@ -3,6 +3,7 @@ var dir_2519615cc1c93425dacf3aa6e071da7e =
     [ "cs_account.cpp", "d9/d9d/cs__account_8cpp.html", "d9/d9d/cs__account_8cpp" ],
     [ "cs_achievement.cpp", "db/de3/cs__achievement_8cpp.html", "db/de3/cs__achievement_8cpp" ],
     [ "cs_arena.cpp", "dd/d2f/cs__arena_8cpp.html", "dd/d2f/cs__arena_8cpp" ],
+    [ "cs_autobroadcast.cpp", "d9/d1b/cs__autobroadcast_8cpp.html", "d9/d1b/cs__autobroadcast_8cpp" ],
     [ "cs_bag.cpp", "d6/d3a/cs__bag_8cpp.html", "d6/d3a/cs__bag_8cpp" ],
     [ "cs_ban.cpp", "d7/dc1/cs__ban_8cpp.html", "d7/dc1/cs__ban_8cpp" ],
     [ "cs_bf.cpp", "d4/d49/cs__bf_8cpp.html", "d4/d49/cs__bf_8cpp" ],

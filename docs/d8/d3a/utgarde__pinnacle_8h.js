@@ -1,6 +1,7 @@
 var utgarde__pinnacle_8h =
 [
     [ "DataHeader", "d8/d3a/utgarde__pinnacle_8h.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterUtgardePinnacleCreatureAI", "d8/d3a/utgarde__pinnacle_8h.html#a498b14633fc6249e745f4d7953bbb477", null ],
     [ "UtgardePinnacleScriptName", "d8/d3a/utgarde__pinnacle_8h.html#ab473f94c945d852ec2a8a0ff3ec66566", null ],
     [ "Data", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63", [
       [ "DATA_SVALA_SORROWGRAVE", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9e1acffd1dabd37331c892008becf883", null ],
@@ -20,7 +21,8 @@ var utgarde__pinnacle_8h =
       [ "MAX_ENCOUNTERS", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
       [ "DATA_SVALA_ACHIEVEMENT", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63acfeb42528cff1cb4071b6de9c302d51e", null ],
       [ "DATA_SKADI_ACHIEVEMENT", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a11a8be67f165278f64ab033b6eee63c2", null ],
-      [ "DATA_YMIRON_ACHIEVEMENT", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a3d709a559414e22ab4a0465bada54b61", null ]
+      [ "DATA_YMIRON_ACHIEVEMENT", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63a3d709a559414e22ab4a0465bada54b61", null ],
+      [ "DATA_LOVE_TO_SKADI", "d8/d3a/utgarde__pinnacle_8h.html#af5baa506e65b4caa6be6d1c6661dfe63acae9e952d6384e217a35eb706e805108", null ]
     ] ],
     [ "Objects", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fd", [
       [ "GO_SKADI_THE_RUTHLESS_DOOR", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdafcf1e456541a7ba8bfa808845d710131", null ],
@@ -37,7 +39,10 @@ var utgarde__pinnacle_8h =
       [ "NPC_RAVENOUS_FURBOLG", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda00e3e051d999e7c46d6591c355108eed", null ],
       [ "NPC_MASSIVE_JORMUNGAR", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdab44f6a2f2c532eb045eb8199477ae0b7", null ],
       [ "NPC_FEROCIOUS_RHINO", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdafa55eeb7ed59860eb27262c92b511b95", null ],
-      [ "NPC_GARUF", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdaca585740c72caaf99da4153a098aee95", null ]
+      [ "NPC_GARUF", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdaca585740c72caaf99da4153a098aee95", null ],
+      [ "NPC_YMIRJAR_WARRIOR", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda4ad8352754e963d50347dbed73b85be2", null ],
+      [ "NPC_YMIRJAR_WITCH_DOCTOR", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fda47a8412a0aead43c1129b6662987f0ef", null ],
+      [ "NPC_YMIRJAR_HARPOONER", "d8/d3a/utgarde__pinnacle_8h.html#a6095c54a56c4e904d4f4c3c8bb1456fdaf7a445ae2c533f53b385fd5552b19d20", null ]
     ] ],
     [ "GetUtgardePinnacleAI", "d8/d3a/utgarde__pinnacle_8h.html#a4262fffde6719c3b158860a0a1b52319", null ]
 ];

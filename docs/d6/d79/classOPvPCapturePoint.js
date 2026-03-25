@@ -14,6 +14,8 @@ var classOPvPCapturePoint =
     [ "DeleteSpawns", "d6/d79/classOPvPCapturePoint.html#a6dbc532e45c77db37f89a410394878e3", null ],
     [ "DelObject", "d6/d79/classOPvPCapturePoint.html#adc968f6934c72d739311599fc0507664", null ],
     [ "FillInitialWorldStates", "d6/d79/classOPvPCapturePoint.html#a7c9283a6f080f7164d9506510e95e383", null ],
+    [ "GetMaxValue", "d6/d79/classOPvPCapturePoint.html#abfc98c11a311a094fa6f3e3a60c4d716", null ],
+    [ "GetMinValue", "d6/d79/classOPvPCapturePoint.html#ada5de9d6309ca48f77a1be61033fe9d4", null ],
     [ "GetSlider", "d6/d79/classOPvPCapturePoint.html#a671854f611072c86f293c03ad6e202d6", null ],
     [ "HandleCustomSpell", "d6/d79/classOPvPCapturePoint.html#a341553dac679f6e257ed7c6d1c6a9f9a", null ],
     [ "HandleDropFlag", "d6/d79/classOPvPCapturePoint.html#a9b6713759cd263075c2f07d515ae41eb", null ],

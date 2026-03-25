@@ -1,6 +1,5 @@
 var NAVTREEINDEX68 =
 {
-"d2/d73/classScriptMgr.html#a9025469634f68a9105273670034cba0e":[6,0,2557,7],
 "d2/d73/classScriptMgr.html#a90cf60c04068b96e406981aceb893c86":[6,0,2557,85],
 "d2/d73/classScriptMgr.html#a90f71782ee49a4fc3178d4882fd56ea5":[6,0,2557,315],
 "d2/d73/classScriptMgr.html#a90fd83060323b49498fd5f6f8a0510cd":[6,0,2557,347],
@@ -207,11 +206,11 @@ var NAVTREEINDEX68 =
 "d2/d73/classScriptMgr.html#afebd2c8dbe07c66a60a59484e65361ce":[6,0,2557,458],
 "d2/d73/classScriptMgr.html#aff9a8ed02bf9ee5d4af463232ea4e1d5":[6,0,2557,28],
 "d2/d73/classScriptMgr.html#affb1862a353fbc0e9b89eb664fe5f797":[6,0,2557,57],
-"d2/d73/classStartMovementEvent.html":[6,0,4457],
-"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[6,0,4457,0],
-"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4457,2],
-"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4457,1],
-"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4457,3],
+"d2/d73/classStartMovementEvent.html":[6,0,4464],
+"d2/d73/classStartMovementEvent.html#a4f0fd5e835f742c876f37f31bf03c56f":[6,0,4464,0],
+"d2/d73/classStartMovementEvent.html#ac2f4166af128a161c471b243144856ba":[6,0,4464,2],
+"d2/d73/classStartMovementEvent.html#af1a043d953bcffe9341292e85cae2f55":[6,0,4464,1],
+"d2/d73/classStartMovementEvent.html#afe1f7bcb3569758bc075380a24527067":[6,0,4464,3],
 "d2/d73/classitem__incendiary__explosives.html":[6,0,1401],
 "d2/d73/classitem__incendiary__explosives.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4":[6,0,1401,1],
 "d2/d73/classitem__incendiary__explosives.html#a3a10f4e40374cae75a5ed320385a67f9":[6,0,1401,0],
@@ -234,9 +233,9 @@ var NAVTREEINDEX68 =
 "d2/d75/Duration_8h.html#ae62919aa53468bfadd4984bdd0498c03":[7,0,0,0,0,15,6,11],
 "d2/d75/Duration_8h.html#af2161f9db850581e2228078614990df8":[7,0,0,0,0,15,6,4],
 "d2/d75/Duration_8h.html#af5dc5e7ad7b3f6d8e84530de842d125b":[7,0,0,0,0,15,6,0],
-"d2/d75/classspell__gen__invis__on.html":[6,0,3062],
-"d2/d75/classspell__gen__invis__on.html#a5e2cdc942b9972f79ff0a4fac2f0d77d":[6,0,3062,1],
-"d2/d75/classspell__gen__invis__on.html#ac83289482a8f83a2af80e2f9f35b6716":[6,0,3062,0],
+"d2/d75/classspell__gen__invis__on.html":[6,0,3065],
+"d2/d75/classspell__gen__invis__on.html#a5e2cdc942b9972f79ff0a4fac2f0d77d":[6,0,3065,1],
+"d2/d75/classspell__gen__invis__on.html#ac83289482a8f83a2af80e2f9f35b6716":[6,0,3065,0],
 "d2/d76/BanMgr_8h.html":[7,0,0,0,1,2,27,1],
 "d2/d76/BanMgr_8h.html#a4dd4670ead55e2780d09a66ab39943a7":[7,0,0,0,1,2,27,1,2],
 "d2/d76/BanMgr_8h.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8":[7,0,0,0,1,2,27,1,2,1],
@@ -248,6 +247,7 @@ var NAVTREEINDEX68 =
 "d2/d76/classnpc__hyjal__tyrande.html#a014a63098e18b08b6f5cd33a0cba2072":[6,0,1886,3],
 "d2/d76/classnpc__hyjal__tyrande.html#a2f863e616352a98763eef9a717d73388":[6,0,1886,2],
 "d2/d76/classnpc__hyjal__tyrande.html#abd2ba500d8e2bbf20c00905012d47d12":[6,0,1886,1],
-"d2/d77/classspell__scholomance__fixate__aura.html":[6,0,4019],
-"d2/d77/classspell__scholomance__fixate__aura.html#a16623b3187e98fc50f5a3b8e0297b0ea":[6,0,4019,1]
+"d2/d77/classspell__scholomance__fixate__aura.html":[6,0,4022],
+"d2/d77/classspell__scholomance__fixate__aura.html#a16623b3187e98fc50f5a3b8e0297b0ea":[6,0,4022,1],
+"d2/d77/classspell__scholomance__fixate__aura.html#a710536e0a3bacf173d037041e755bd82":[6,0,4022,0]
 };

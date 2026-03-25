@@ -190,7 +190,7 @@ var searchData=
   ['areaandliquiddata_187',['AreaAndLiquidData',['../d7/dcc/structVMAP_1_1AreaAndLiquidData.html',1,'VMAP']]],
   ['areaboundary_188',['AreaBoundary',['../df/d56/classAreaBoundary.html',1,'']]],
   ['areagroupentry_189',['AreaGroupEntry',['../d8/d01/structAreaGroupEntry.html',1,'']]],
-  ['areainfo_190',['areainfo',['../d2/d6e/structVMAP_1_1AreaInfo.html',1,'VMAP::AreaInfo'],['../d1/d36/structVMAP_1_1AreaAndLiquidData_1_1AreaInfo.html',1,'VMAP::AreaAndLiquidData::AreaInfo']]],
+  ['areainfo_190',['areainfo',['../d1/d36/structVMAP_1_1AreaAndLiquidData_1_1AreaInfo.html',1,'VMAP::AreaAndLiquidData::AreaInfo'],['../d2/d6e/structVMAP_1_1AreaInfo.html',1,'VMAP::AreaInfo']]],
   ['areapoientry_191',['AreaPOIEntry',['../d9/d28/structAreaPOIEntry.html',1,'']]],
   ['areas_192',['Areas',['../dd/d9f/structAreas.html',1,'']]],
   ['areatableentry_193',['AreaTableEntry',['../de/df5/structAreaTableEntry.html',1,'']]],
@@ -220,7 +220,7 @@ var searchData=
   ['arenaseasonrewardgroup_217',['ArenaSeasonRewardGroup',['../d5/dd9/structArenaSeasonRewardGroup.html',1,'']]],
   ['arenaseasonteamrewarder_218',['ArenaSeasonTeamRewarder',['../d4/d07/classArenaSeasonTeamRewarder.html',1,'']]],
   ['arenaseasonteamrewarderimpl_219',['ArenaSeasonTeamRewarderImpl',['../dc/d4b/classArenaSeasonTeamRewarderImpl.html',1,'']]],
-  ['arenateam_220',['arenateam',['../d4/dc6/classArenaTeam.html',1,'ArenaTeam'],['../df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html',1,'WorldPackets::Calendar::ArenaTeam']]],
+  ['arenateam_220',['arenateam',['../df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html',1,'WorldPackets::Calendar::ArenaTeam'],['../d4/dc6/classArenaTeam.html',1,'ArenaTeam']]],
   ['arenateamfilter_221',['ArenaTeamFilter',['../d4/d74/classArenaTeamFilter.html',1,'']]],
   ['arenateamfilterallteams_222',['ArenaTeamFilterAllTeams',['../d4/df6/classArenaTeamFilterAllTeams.html',1,'']]],
   ['arenateamfilterbytypes_223',['ArenaTeamFilterByTypes',['../d7/d19/classArenaTeamFilterByTypes.html',1,'']]],
@@ -360,9 +360,10 @@ var searchData=
   ['authsession_357',['AuthSession',['../d8/df8/classAuthSession.html',1,'']]],
   ['authsocketmgr_358',['AuthSocketMgr',['../dd/d76/classAuthSocketMgr.html',1,'']]],
   ['autobankitem_359',['AutoBankItem',['../d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html',1,'WorldPackets::Bank']]],
-  ['autobroadcastmgr_360',['AutobroadcastMgr',['../d6/d59/classAutobroadcastMgr.html',1,'']]],
-  ['autoequipitem_361',['AutoEquipItem',['../d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html',1,'WorldPackets::Item']]],
-  ['autoequipitemslot_362',['AutoEquipItemSlot',['../d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html',1,'WorldPackets::Item']]],
-  ['autostorebagitem_363',['AutoStoreBagItem',['../dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html',1,'WorldPackets::Item']]],
-  ['autostorebankitem_364',['AutoStoreBankItem',['../d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html',1,'WorldPackets::Bank']]]
+  ['autobroadcast_5fcommandscript_360',['autobroadcast_commandscript',['../df/d27/classautobroadcast__commandscript.html',1,'']]],
+  ['autobroadcastmgr_361',['AutobroadcastMgr',['../d6/d59/classAutobroadcastMgr.html',1,'']]],
+  ['autoequipitem_362',['AutoEquipItem',['../d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html',1,'WorldPackets::Item']]],
+  ['autoequipitemslot_363',['AutoEquipItemSlot',['../d7/d01/classWorldPackets_1_1Item_1_1AutoEquipItemSlot.html',1,'WorldPackets::Item']]],
+  ['autostorebagitem_364',['AutoStoreBagItem',['../dd/d49/classWorldPackets_1_1Item_1_1AutoStoreBagItem.html',1,'WorldPackets::Item']]],
+  ['autostorebankitem_365',['AutoStoreBankItem',['../d0/d41/classWorldPackets_1_1Bank_1_1AutoStoreBankItem.html',1,'WorldPackets::Bank']]]
 ];

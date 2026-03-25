@@ -709,12 +709,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  257</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  258</span>        }</div>
 <div class="line"><span class="lineno">  259</span> </div>
-<div class="line"><span class="lineno">  260</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> = 1;</div>
+<div class="line"><span class="lineno">  260</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phase = 1;</div>
 <div class="line"><span class="lineno">  261</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d0/d0a/classObjectGuid.html">ObjectGuid</a> <span class="keyword">const</span>&amp; summonGUID : <a class="code hl_variable" href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">summons</a>)</div>
 <div class="line"><span class="lineno">  262</span>        {</div>
 <div class="line"><span class="lineno">  263</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* summon = <a class="code hl_function" href="../../de/d2d/namespaceObjectAccessor.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*<a class="code hl_variable" href="../../db/dc8/structScriptedAI.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, summonGUID))</div>
 <div class="line"><span class="lineno">  264</span>            {</div>
-<div class="line"><span class="lineno">  265</span>                <a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> |= summon-&gt;GetPhaseMask();</div>
+<div class="line"><span class="lineno">  265</span>                phase |= summon-&gt;GetPhaseMask();</div>
 <div class="line"><span class="lineno">  266</span>            }</div>
 <div class="line"><span class="lineno">  267</span>        }</div>
 <div class="line"><span class="lineno">  268</span> </div>
@@ -722,7 +722,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  270</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; i : players)</div>
 <div class="line"><span class="lineno">  271</span>        {</div>
 <div class="line"><span class="lineno">  272</span>            <a class="code hl_class" href="../../d2/d4b/classPlayer.html">Player</a>* pPlayer = i.GetSource();</div>
-<div class="line"><span class="lineno">  273</span>            <span class="keywordflow">if</span> (pPlayer &amp;&amp; !(pPlayer-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a0a471b58ac8905281008aa4a730c4093">GetPhaseMask</a>() &amp; <a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>))</div>
+<div class="line"><span class="lineno">  273</span>            <span class="keywordflow">if</span> (pPlayer &amp;&amp; !(pPlayer-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a0a471b58ac8905281008aa4a730c4093">GetPhaseMask</a>() &amp; phase))</div>
 <div class="line"><span class="lineno">  274</span>            {</div>
 <div class="line"><span class="lineno">  275</span>                pPlayer-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_function" href="../../d0/d2f/structboss__volazj.html#a5b6936cedb3fc411ae58f3dc3f6b689a">GetPlrInsanityAuraId</a>(pPlayer-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a0a471b58ac8905281008aa4a730c4093">GetPhaseMask</a>()));</div>
 <div class="line"><span class="lineno">  276</span>            }</div>
@@ -731,7 +731,6 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  280</span>    }</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
-<div class="ttc" id="aboss__skadi_8cpp_html_a4432ad5c680b2372adf2f56998516c6d"><div class="ttname"><a href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a></div><div class="ttdeci">phase</div><div class="ttdef"><b>Definition</b> boss_skadi.cpp:99</div></div>
 <div class="ttc" id="aclassBossAI_html_a9deaaae20cd3bd12dcc3889f79b2c6cc"><div class="ttname"><a href="../../d3/d24/classBossAI.html#a9deaaae20cd3bd12dcc3889f79b2c6cc">BossAI::summons</a></div><div class="ttdeci">SummonList summons</div><div class="ttdef"><b>Definition</b> ScriptedCreature.h:539</div></div>
 <div class="ttc" id="aclassCreature_html"><div class="ttname"><a href="../../db/dd5/classCreature.html">Creature</a></div><div class="ttdef"><b>Definition</b> Creature.h:47</div></div>
 <div class="ttc" id="aclassMapRefMgr_html"><div class="ttname"><a href="../../d4/dbe/classMapRefMgr.html">MapRefMgr</a></div><div class="ttdef"><b>Definition</b> MapRefMgr.h:26</div></div>
@@ -1263,7 +1262,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/d2f/structboss__volazj.html">boss_volazj</a></li>
-    <li class="footer">Generated on Tue Mar 24 2026 07:00:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 25 2026 06:58:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

@@ -1,11 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"d1/d16/classSpell.html#a60270bcdc75f67903cafd81eaf9a398a":[6,0,2620,199],
-"d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5":[6,0,2620,229],
-"d1/d16/classSpell.html#a60b216a1bca90c36cfd69edddcbbf0ca":[6,0,2620,291],
-"d1/d16/classSpell.html#a6128294a5ab1a765cc51d55c31edb3f4":[6,0,2620,48],
-"d1/d16/classSpell.html#a613280e0bb3fb91996ef0b44b89d4a1a":[6,0,2620,289],
-"d1/d16/classSpell.html#a61abfe0ff8dd599877e543deb4977af0":[6,0,2620,365],
 "d1/d16/classSpell.html#a61b0b397250bb79024c8657e28323879":[6,0,2620,318],
 "d1/d16/classSpell.html#a61c5e93627b85645d6a3b0a5af13d58a":[6,0,2620,297],
 "d1/d16/classSpell.html#a61fa27111203c2e2f55a4ca7e20dc708":[6,0,2620,249],
@@ -241,13 +235,19 @@ var NAVTREEINDEX26 =
 "d1/d16/classSpell.html#afec646b713f94bf7e2fc8cd21d46a012":[6,0,2620,19],
 "d1/d16/classSpell.html#afecdd65c73b267d8cb2b9525bed5f851":[6,0,2620,54],
 "d1/d16/classSpell.html#aff5477a54c2dfe98575d5ea12984b86f":[6,0,2620,29],
-"d1/d16/classboss__lethon.html":[6,0,605],
-"d1/d16/classboss__lethon.html#a493baf37aac400635dd0409e79375a1c":[6,0,605,2],
-"d1/d16/classboss__lethon.html#a5d758979b061646830373de64b2b3af4":[6,0,605,1],
+"d1/d16/classboss__lethon.html":[6,0,606],
+"d1/d16/classboss__lethon.html#a493baf37aac400635dd0409e79375a1c":[6,0,606,2],
+"d1/d16/classboss__lethon.html#a5d758979b061646830373de64b2b3af4":[6,0,606,1],
 "d1/d16/classspell__alert__drums.html":[6,0,2629],
 "d1/d16/classspell__alert__drums.html#a4b00497e095b5c43571b543252b31e58":[6,0,2629,1],
 "d1/d16/classspell__alert__drums.html#a66b366f4989d99a58b331e56024e4520":[6,0,2629,0],
 "d1/d16/classspell__alert__drums.html#a6bef0ac760a319deed6f71fee213e885":[6,0,2629,3],
 "d1/d16/classspell__alert__drums.html#abacee7689888bf8c5d21b534a6d71b40":[6,0,2629,2],
-"d1/d16/structadt__liquid__instance.html":[6,0,135]
+"d1/d16/structadt__liquid__instance.html":[6,0,135],
+"d1/d16/structadt__liquid__instance.html#a08a02703ec946d3a6fb6326c24b4f6cc":[6,0,135,12],
+"d1/d16/structadt__liquid__instance.html#a1852863d7fcbbd95e6ccb190895841ca":[6,0,135,9],
+"d1/d16/structadt__liquid__instance.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c":[6,0,135,11],
+"d1/d16/structadt__liquid__instance.html#a240dac4718a12daee7c8ec526209c4ba":[6,0,135,3],
+"d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3":[6,0,135,13],
+"d1/d16/structadt__liquid__instance.html#a5c56ad9303d1b652774019efbe316dbd":[6,0,135,8]
 };

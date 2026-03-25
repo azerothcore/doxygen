@@ -146,7 +146,7 @@ Public Member Functions</h2></td></tr>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a1534e35532bc29b8d03594af30e4cdfa" id="r_a1534e35532bc29b8d03594af30e4cdfa"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a1534e35532bc29b8d03594af30e4cdfa">HandleSunsReachReclamationStatusCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler)</td></tr>
 <tr class="separator:a1534e35532bc29b8d03594af30e4cdfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b7049c1c9932b098441a3af4d7cd03c" id="r_a4b7049c1c9932b098441a3af4d7cd03c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a4b7049c1c9932b098441a3af4d7cd03c">HandleSunsReachReclamationPhaseCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>)</td></tr>
+<tr class="memitem:a4b7049c1c9932b098441a3af4d7cd03c" id="r_a4b7049c1c9932b098441a3af4d7cd03c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a4b7049c1c9932b098441a3af4d7cd03c">HandleSunsReachReclamationPhaseCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> phase)</td></tr>
 <tr class="separator:a4b7049c1c9932b098441a3af4d7cd03c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2307687ae1d3cb3f6e5237af4d8f8595" id="r_a2307687ae1d3cb3f6e5237af4d8f8595"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/classworldstate__commandscript.html#a2307687ae1d3cb3f6e5237af4d8f8595">HandleSunsReachReclamationSubPhaseCommand</a> (<a class="el" href="../../d6/d38/classChatHandler.html">ChatHandler</a> *handler, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> subphase)</td></tr>
 <tr class="separator:a2307687ae1d3cb3f6e5237af4d8f8595"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -559,17 +559,16 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   70</span>    {</div>
-<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a>)</div>
+<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">if</span> (phase &gt; <a class="code hl_enumvalue" href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a>)</div>
 <div class="line"><span class="lineno">   72</span>        {</div>
 <div class="line"><span class="lineno">   73</span>            handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<span class="stringliteral">&quot;Invalid phase, see \&quot;.worldstate sunsreach phase\&quot; for usage&quot;</span>);</div>
 <div class="line"><span class="lineno">   74</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   75</span>        }</div>
-<div class="line"><span class="lineno">   76</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunsReachPhaseTransition(<a class="code hl_enumeration" href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>);</div>
+<div class="line"><span class="lineno">   76</span>        <a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;HandleSunsReachPhaseTransition(phase);</div>
 <div class="line"><span class="lineno">   77</span>        handler-&gt;<a class="code hl_function" href="../../d6/d38/classChatHandler.html#a54305506d6194dfdd1c1a3f30c8d1d62">PSendSysMessage</a>(<a class="code hl_define" href="../../d7/d9a/WorldState_8h.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;GetSunsReachPrintout());</div>
 <div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   79</span>    }</div>
 <div class="ttc" id="aWorldState_8h_html_aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938"><div class="ttname"><a href="../../d7/d9a/WorldState_8h.html#aa3e8fbd653500f90fa1ebe182d4891d6ad46034efa280e589b555f346debbb938">SUNS_REACH_PHASE_4_HARBOR</a></div><div class="ttdeci">@ SUNS_REACH_PHASE_4_HARBOR</div><div class="ttdef"><b>Definition</b> WorldState.h:220</div></div>
-<div class="ttc" id="aboss__skadi_8cpp_html_a4432ad5c680b2372adf2f56998516c6d"><div class="ttname"><a href="../../d6/dd9/boss__skadi_8cpp.html#a4432ad5c680b2372adf2f56998516c6d">phase</a></div><div class="ttdeci">phase</div><div class="ttdef"><b>Definition</b> boss_skadi.cpp:99</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00211">ChatHandler::PSendSysMessage()</a>, <a class="el" href="../../#l00220">SUNS_REACH_PHASE_4_HARBOR</a>, and <a class="el" href="../../#l00377">sWorldState</a>.</p>
 
@@ -781,7 +780,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/dab/classworldstate__commandscript.html">worldstate_commandscript</a></li>
-    <li class="footer">Generated on Tue Mar 24 2026 07:01:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Wed Mar 25 2026 06:59:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>
