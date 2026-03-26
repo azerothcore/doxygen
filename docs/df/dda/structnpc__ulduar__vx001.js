@@ -1,6 +1,6 @@
 var structnpc__ulduar__vx001 =
 [
-    [ "npc_ulduar_vx001", "df/dda/structnpc__ulduar__vx001.html#a513c2610c3a87698b2c535f18c441ecb", null ],
+    [ "npc_ulduar_vx001", "df/dda/structnpc__ulduar__vx001.html#a1fbaef8e14a2fa2e7a946bcce751c3a9", null ],
     [ "AttackStart", "df/dda/structnpc__ulduar__vx001.html#a47d955c4db0c8ceb30ae770a82aaf424", null ],
     [ "DamageTaken", "df/dda/structnpc__ulduar__vx001.html#ad1d0ec1e6a3905f3ede091383ce02116", null ],
     [ "DoAction", "df/dda/structnpc__ulduar__vx001.html#ae988d7c48b11e72b5d8e02966fd432ed", null ],

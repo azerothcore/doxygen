@@ -1,5 +1,7 @@
 var NAVTREEINDEX179 =
 {
+"d6/d7f/classspell__illidan__found__target.html#af5926d8570de13e66aa1870184620b94":[6,0,3301,2],
+"d6/d7f/classspell__lady__vashj__summon__sporebat.html":[6,0,3551],
 "d6/d7f/classspell__lady__vashj__summon__sporebat.html#a0d722447d91991462245e8b392d20e10":[6,0,3551,2],
 "d6/d7f/classspell__lady__vashj__summon__sporebat.html#a0e87265cf22ef8b4e302b8e216123395":[6,0,3551,1],
 "d6/d7f/classspell__lady__vashj__summon__sporebat.html#a62ed9bff154c5aab74e044f8f9982263":[6,0,3551,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX179 =
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aa6137f14ffb1790d7ca6ab6fd6e4872a":[7,0,0,0,1,3,5,7,16,3,8],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aa93ed50b9118a48c1349e294cba51e9e":[7,0,0,0,1,3,5,7,16,3,1],
 "d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aad52e47c0ecfd88fdb2cef2f2348cf15":[7,0,0,0,1,3,5,7,16,3,22],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aaf65dd61ce3ad2fe53fdebdc884e82cb":[7,0,0,0,1,3,5,7,16,3,5],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74ab439af8572dd1e99aa058b8685be81da":[7,0,0,0,1,3,5,7,16,3,37],
-"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74abff890446f96e9b237d992181a6ec160":[7,0,0,0,1,3,5,7,16,3,16]
+"d6/d84/naxxramas_8h.html#a282d4b583a6bdfc71d046f3ef5ee2e74aaf65dd61ce3ad2fe53fdebdc884e82cb":[7,0,0,0,1,3,5,7,16,3,5]
 };

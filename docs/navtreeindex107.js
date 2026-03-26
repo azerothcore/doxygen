@@ -1,5 +1,6 @@
 var NAVTREEINDEX107 =
 {
+"d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262aac4a177f71fbe12b5422a54237b11abe":[7,0,0,0,1,3,10,10,54,47],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ab454a65b1b0fe2c1341c1d7a9aaba66f":[7,0,0,0,1,3,10,10,54,37],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262ab5dd93a08e4577253118715dd610869f":[7,0,0,0,1,3,10,10,54,29],
 "d3/da1/npc__professions_8cpp.html#a26d890ef51a8f0b6d41a8595d653c262aba4475b0b9244f0403d91be494509f8f":[7,0,0,0,1,3,10,10,54,38],
@@ -201,8 +202,8 @@ var NAVTREEINDEX107 =
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#a4d683270dc086454630475d39f0105e8":[6,0,3084,3],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#ad9d1823fa4302334419e6f9a01f0a728":[6,0,3084,2],
 "d3/da6/classspell__gen__oracle__wolvar__reputation.html#af5d0fc4e596c04c6ca3faf4079f6b602":[6,0,3084,0],
-"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da7/structboost_1_1asio_1_1time__traits.html":[6,0,2,0,1],
+"d3/da7/structboost_1_1asio_1_1time__traits.html":[5,0,8,0,1],
 "d3/da8/chat__log_8cpp.html":[7,0,0,0,1,3,10,4],
 "d3/da8/chat__log_8cpp.html#ae796ad81a78a552e5c31fcf6c5c135fa":[7,0,0,0,1,3,10,4,1],
 "d3/da8/classArenaTeamMgr.html":[6,0,202],
@@ -248,6 +249,5 @@ var NAVTREEINDEX107 =
 "d3/da8/classspell__transitus__shield__beam__aura.html#a5ec8ffeceae335423dff10f54e096e8a":[6,0,4215,2],
 "d3/da8/classspell__transitus__shield__beam__aura.html#a83ff54727e886161c5568a60833932d1":[6,0,4215,0],
 "d3/da8/classspell__transitus__shield__beam__aura.html#a9e48d1c9dc26f882ee685a2cbf59667e":[6,0,4215,1],
-"d3/da8/classspell__transitus__shield__beam__aura.html#ae07af138c6f9c565799574b4f8343492":[6,0,4215,3],
-"d3/da8/structIdleMovementFactory.html":[6,0,1303]
+"d3/da8/classspell__transitus__shield__beam__aura.html#ae07af138c6f9c565799574b4f8343492":[6,0,4215,3]
 };

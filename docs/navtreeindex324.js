@@ -1,5 +1,7 @@
 var NAVTREEINDEX324 =
 {
+"dc/dab/classnear__scarshield__infiltrator.html#aeb761433e3210ce85c1de4dab653a87c":[6,0,1585,1],
+"dc/dab/structboss__flame__leviathan__safety__container.html":[6,0,486],
 "dc/dab/structboss__flame__leviathan__safety__container.html#a42842de299fd9346cc0d61b649b652a4":[6,0,486,1],
 "dc/dab/structboss__flame__leviathan__safety__container.html#a4519a6bf9c96ff13df4ae019b02f3593":[6,0,486,0],
 "dc/dab/structboss__flame__leviathan__safety__container.html#a55119d077f905a8207ad2afbe31f17a4":[6,0,486,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX324 =
 "dc/db4/structboss__gruul.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d":[6,0,527,1],
 "dc/db4/structboss__gruul.html#a9a14e75144c79d7ad4f65192edd385f9":[6,0,527,0],
 "dc/db4/structboss__gruul.html#ace9cf892fc1cc345d6f82d6e9816e301":[6,0,527,4],
-"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,527,2],
-"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,527,3],
-"dc/db5/classnpc__frenzied__worgen.html":[6,0,1814]
+"dc/db4/structboss__gruul.html#afb0cc9bb5acad80cea8d3e572d45da94":[6,0,527,2]
 };

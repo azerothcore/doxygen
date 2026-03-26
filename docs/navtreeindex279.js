@@ -1,5 +1,7 @@
 var NAVTREEINDEX279 =
 {
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a0e50bbe28bfbf438f305b68cb886f62a":[7,0,0,0,1,3,5,2,1,7,5,9],
+"da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a1072e6fe5657727e178ee0ae274d289b":[7,0,0,0,1,3,5,2,1,7,5,48],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a10f8ef2881a32a48fa89fd9f59acd209":[7,0,0,0,1,3,5,2,1,7,5,4],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a1131f60f4bc1c4e2db607bbc1ec83865":[7,0,0,0,1,3,5,2,1,7,5,57],
 "da/de8/trial__of__the__crusader_8h.html#af60e00b78607064c5be6aa9397ea49c1a11d18ea727a1f8a8245a242dea3b4ca8":[7,0,0,0,1,3,5,2,1,7,5,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX279 =
 "da/df1/classgo__direbrew__mole__machine.html#a759d291a5be227d8beae3bbc779e56f4":[6,0,1160,1],
 "da/df1/classgo__direbrew__mole__machine.html#a793e5e544664d6c2c3897161c9cccbbb":[6,0,1160,2],
 "da/df2/boss__gyth_8cpp.html":[7,0,0,0,1,3,2,1,1,2],
-"da/df2/boss__gyth_8cpp.html#a08f05b41404effb5d4eafec305ae1640":[7,0,0,0,1,3,2,1,1,2,5],
-"da/df2/boss__gyth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,1,1,2,3],
-"da/df2/boss__gyth_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875":[7,0,0,0,1,3,2,1,1,2,3,0]
+"da/df2/boss__gyth_8cpp.html#a08f05b41404effb5d4eafec305ae1640":[7,0,0,0,1,3,2,1,1,2,5]
 };

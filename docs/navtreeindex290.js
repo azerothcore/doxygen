@@ -1,5 +1,7 @@
 var NAVTREEINDEX290 =
 {
+"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfa":[7,0,0,0,1,3,9,4,264],
+"db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa81919b9e4b86cb71f414dd9f4a26b828":[7,0,0,0,1,3,9,4,264,1],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa878a8110f37d65985990578925b51e8b":[7,0,0,0,1,3,9,4,264,0],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaa9435c1a867755c85d7441044de224455":[7,0,0,0,1,3,9,4,264,3],
 "db/d6e/spell__item_8cpp.html#ac3582ff316374163480dddaab15b9dfaabe82f02066d4e94d02c9b27f63cd6b16":[7,0,0,0,1,3,9,4,264,2],
@@ -126,8 +128,8 @@ var NAVTREEINDEX290 =
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html":[5,0,1,118,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[5,0,1,118,0,0],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a0f0b6620e023294fface21ac3f893bdf":[6,0,0,106,0,0],
-"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[6,0,0,106,0,1],
+"db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a415c0e24ca5ab6bc6956ac4d43db0a29":[5,0,1,118,0,1],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[6,0,0,106,0,2],
 "db/d72/structAcore_1_1SingleThreaded_1_1Lock.html#a887ed48e8f289cf90fa89870dd53477a":[5,0,1,118,0,2],
 "db/d72/structLootItem.html":[6,0,1474],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "db/d78/boss__zuljin_8cpp.html#aa8221a45c0b038126f83d9decb794dbe":[7,0,0,0,1,3,2,15,5,11],
 "db/d78/boss__zuljin_8cpp.html#ac785a3372cda0226bc10b059c6e0172b":[7,0,0,0,1,3,2,15,5,14],
 "db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84":[7,0,0,0,1,3,2,15,5,8],
-"db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a2874624467f074706f7d11aeaf4ce9ab":[7,0,0,0,1,3,2,15,5,8,1],
-"db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a33e32523ded2cdeccc948e877731ba75":[7,0,0,0,1,3,2,15,5,8,4],
-"db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a99298379c308e427d9aa5ef2b5efc340":[7,0,0,0,1,3,2,15,5,8,3]
+"db/d78/boss__zuljin_8cpp.html#ae1c5184dc404edf057ed537bcfddef84a2874624467f074706f7d11aeaf4ce9ab":[7,0,0,0,1,3,2,15,5,8,1]
 };

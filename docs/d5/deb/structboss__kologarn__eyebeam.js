@@ -5,6 +5,6 @@ var structboss__kologarn__eyebeam =
     [ "IsSummonedBy", "d5/deb/structboss__kologarn__eyebeam.html#a1640ef2ca2a58803786a6c675191676c", null ],
     [ "UpdateAI", "d5/deb/structboss__kologarn__eyebeam.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
     [ "_damaged", "d5/deb/structboss__kologarn__eyebeam.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
-    [ "_timer", "d5/deb/structboss__kologarn__eyebeam.html#a0d324467d4d02d7bd204f66fcadc52ea", null ],
-    [ "m_pInstance", "d5/deb/structboss__kologarn__eyebeam.html#a3725453f7a0d7b307cdbb9b63d990e5b", null ]
+    [ "_instance", "d5/deb/structboss__kologarn__eyebeam.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "d5/deb/structboss__kologarn__eyebeam.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

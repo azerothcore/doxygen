@@ -1,5 +1,7 @@
 var NAVTREEINDEX375 =
 {
+"de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bda6e3997033ed801ae9e367d9e213ca2fb":[7,0,0,0,1,2,15,1,14,5],
+"de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bda81ff40b31f8218c064e20184df97ea45":[7,0,0,0,1,2,15,1,14,3],
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bda985d1a74011853d219a8e5b4e08c27e3":[7,0,0,0,1,2,15,1,14,4],
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bdacfbad3fe693a63f528f32509a78c79f0":[7,0,0,0,1,2,15,1,14,0],
 "de/d59/LFG_8h.html#a246dcd646c556ecaff639514ef9a80bdaea7c189e5c3292416cbd788e048b8915":[7,0,0,0,1,2,15,1,14,2],
@@ -59,8 +61,8 @@ var NAVTREEINDEX375 =
 "de/d5a/classspell__item__decahedral__dwarven__dice.html#aee35eb07631e991dc019a2b716894237":[6,0,3355,1],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[6,0,0,5,3],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html":[5,0,1,8,3],
-"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
 "de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[6,0,0,5,3,0],
+"de/d5a/structAcore_1_1Impl_1_1CastToVisitor.html#a1c1e59697194005023a42873b8856a50":[5,0,1,8,3,0],
 "de/d5b/boss__razuvious_8cpp.html":[7,0,0,0,1,3,5,7,12],
 "de/d5b/boss__razuvious_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,7,12,10],
 "de/d5b/boss__razuvious_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,5,7,12,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX375 =
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a84d8bd9c7b479bfb1d76317024936dbb":[7,0,0,0,1,2,13,1,12,5],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a85afb5334c6dccc84e8a88ca71a21b2f":[7,0,0,0,1,2,13,1,12,38],
 "de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8644356b55834449b042c99fca9c121c":[7,0,0,0,1,2,13,1,12,28],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8a49593011ff5ae9c30fcea2cd01bf04":[7,0,0,0,1,2,13,1,12,25],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a96d73299936abaeb0e203fa14d82f4f3":[7,0,0,0,1,2,13,1,12,4],
-"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a99e92550f5255c2923aa40144aea907c":[7,0,0,0,1,2,13,1,12,44]
+"de/d5f/ConditionMgr_8h.html#aab5835ceff4b64ce6db4148256e0a0f0a8a49593011ff5ae9c30fcea2cd01bf04":[7,0,0,0,1,2,13,1,12,25]
 };

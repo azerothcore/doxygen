@@ -1,11 +1,5 @@
 var NAVTREEINDEX233 =
 {
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a69966db660491a3a4729604ac13b2ed1":[7,0,0,0,1,2,8,1,19,11,16],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a6d74052a63d48c5200a918ef7795e0f6":[7,0,0,0,1,2,8,1,19,11,4],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a7b1c25d2dbc02248850ce278c1f7522f":[7,0,0,0,1,2,8,1,19,11,18],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a93e7b80ca65c61286e8dcecae63d530f":[7,0,0,0,1,2,8,1,19,11,15],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701a95308567d5588fc80028306730cf9935":[7,0,0,0,1,2,8,1,19,11,20],
-"d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701aa677dd9786ce46653d34a6530475b6ed":[7,0,0,0,1,2,8,1,19,11,2],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abbfe6fdb0124b85b630a16bce9aac795":[7,0,0,0,1,2,8,1,19,11,24],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701abd9577fc76c6eeedcebf599212f060d5":[7,0,0,0,1,2,8,1,19,11,8],
 "d8/de0/BattlegroundSA_8h.html#abcc187f20ab36658182fcc66b4ceb701ac2d12e7289110383ac3b8d0a769d1977":[7,0,0,0,1,2,8,1,19,11,12],
@@ -85,12 +79,12 @@ var NAVTREEINDEX233 =
 "d8/de1/structCalendarInvite.html#afbc50591e10790fbf4b3c8f6b37be3f2":[6,0,848,12],
 "d8/de1/structTrainer_1_1Spell.html":[5,0,30,0],
 "d8/de1/structTrainer_1_1Spell.html":[6,0,9,0],
-"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,9,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[5,0,30,0,4],
+"d8/de1/structTrainer_1_1Spell.html#a008ff0df36f2e19534a5fda97616f14f":[6,0,9,0,4],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[5,0,30,0,2],
 "d8/de1/structTrainer_1_1Spell.html#a101686190208be6fb46a46768ca779f9":[6,0,9,0,2],
-"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[6,0,9,0,3],
+"d8/de1/structTrainer_1_1Spell.html#a45e87439b1ae356ccb9ff381f58f942e":[5,0,30,0,3],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[6,0,9,0,0],
 "d8/de1/structTrainer_1_1Spell.html#a677b21866e24d2c94de28d96db07aafd":[5,0,30,0,0],
 "d8/de1/structTrainer_1_1Spell.html#aa151d559cb276797a39dd203fd1b24c2":[5,0,30,0,5],
@@ -249,5 +243,11 @@ var NAVTREEINDEX233 =
 "d8/deb/structboss__freya__iron__root.html#af35a268c89c025d95c13ea8c87d6516e":[6,0,495,0],
 "d8/ded/classat__cthun__center.html":[6,0,219],
 "d8/ded/classat__cthun__center.html#a75cf2b77215e0d50c1c89ec9b522ebc3":[6,0,219,0],
-"d8/ded/classat__cthun__center.html#af744df9577e84ab64749076324e574c9":[6,0,219,1]
+"d8/ded/classat__cthun__center.html#af744df9577e84ab64749076324e574c9":[6,0,219,1],
+"d8/ded/classspell__dru__eclipse.html":[6,0,2878],
+"d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3":[6,0,2878,0],
+"d8/ded/classspell__dru__eclipse.html#a43cc9387ce5b1665147dcfecb1476c22":[6,0,2878,3],
+"d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4":[6,0,2878,6],
+"d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3":[6,0,2878,1],
+"d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2":[6,0,2878,5]
 };

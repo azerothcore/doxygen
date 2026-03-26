@@ -1,12 +1,14 @@
 var NAVTREEINDEX183 =
 {
+"d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2303,0,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,12,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,34,6,22],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,12,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,34,6,22,0],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,12,6,22,1],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,12,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,34,6,22,1],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,12,6,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[6,0,12,6,22,1],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[5,0,34,6,22,2],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a95a0859dd32b6eaf31ea53311ffaa293":[6,0,12,6,22,2],
 "d6/db0/classnpc__infra__green__bomber__generic.html":[6,0,1913],
 "d6/db0/classnpc__infra__green__bomber__generic.html#a39134a09376c35f15e99377cd28ac6ff":[6,0,1913,1],
 "d6/db0/classnpc__infra__green__bomber__generic.html#ad21ce86a9c88f2ee77acb1d130fd4696":[6,0,1913,2],
@@ -126,8 +128,8 @@ var NAVTREEINDEX183 =
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
 "d6/dba/CombatAI_8h.html#a2842973ff947088648cd327dc9e1d379":[7,0,0,0,1,2,3,0,1,6],
 "d6/dba/CombatAI_8h.html#a9b232fec810abbe5eaf5536e608b6e38":[7,0,0,0,1,2,3,0,1,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dbb/classSpellScript_1_1ObjectTargetSelectHandler.html":[6,0,4445,7],
 "d6/dbb/classSpellScript_1_1ObjectTargetSelectHandler.html#a6982985537c0ddb8dd79647766c9ae70":[6,0,4445,7,2],
 "d6/dbb/classSpellScript_1_1ObjectTargetSelectHandler.html#a7e18103fb5c68b2cf85f54bf7caf4b3b":[6,0,4445,7,1],
-"d6/dbb/classSpellScript_1_1ObjectTargetSelectHandler.html#abe96c3e266375ab64f8dec54a047a5b8":[6,0,4445,7,0],
-"d6/dbc/classspell__reflective__shield__aura.html":[6,0,3963],
-"d6/dbc/classspell__reflective__shield__aura.html#a10ee3cda9edfec8140b94e13b88266bd":[6,0,3963,1]
+"d6/dbb/classSpellScript_1_1ObjectTargetSelectHandler.html#abe96c3e266375ab64f8dec54a047a5b8":[6,0,4445,7,0]
 };

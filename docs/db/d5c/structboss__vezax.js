@@ -1,6 +1,6 @@
 var structboss__vezax =
 [
-    [ "boss_vezax", "db/d5c/structboss__vezax.html#a1ffe141a8af8d1142100a95cc21d8def", null ],
+    [ "boss_vezax", "db/d5c/structboss__vezax.html#a8e9210793b5b00d81bf5f1a3eb214f29", null ],
     [ "DoAction", "db/d5c/structboss__vezax.html#ac7c14cfbae5d031615e7f62ded2045c1", null ],
     [ "GetData", "db/d5c/structboss__vezax.html#addfa8398f2a1c21b7ed44547fa6e2899", null ],
     [ "JustDied", "db/d5c/structboss__vezax.html#a1ce855485a7edaace620956cb620ed39", null ],

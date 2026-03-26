@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#a33c715771c98c52ca6e93a6c63582494":[7,0,0,0,1,3,5,9,2,13,53],
 "d3/d32/boss__yoggsaron_8cpp.html#a40748663b5ac87efa1a03300b56a5f2f":[7,0,0,0,1,3,5,9,2,13,50],
 "d3/d32/boss__yoggsaron_8cpp.html#a655187d10949d0652e41a036f5f10b81":[7,0,0,0,1,3,5,9,2,13,48],
 "d3/d32/boss__yoggsaron_8cpp.html#a6fc5a6dc0f00185fb8c0669071b98c1a":[7,0,0,0,1,3,5,9,2,13,51],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ae393f8d3cb47f38a4c4314a262826d03":[6,0,1776,0,9],
 "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html#ae5a1d416c712803ec0b80ae7ccf29e2d":[6,0,1776,0,11],
 "d3/d42/classspell__warl__everlasting__affliction.html":[6,0,4275],
-"d3/d42/classspell__warl__everlasting__affliction.html#a3f8988017d088d08df08ba8b696b552b":[6,0,4275,0],
-"d3/d42/classspell__warl__everlasting__affliction.html#a4ebc3c83dd77134af2ee81a46b121d19":[6,0,4275,2]
+"d3/d42/classspell__warl__everlasting__affliction.html#a3f8988017d088d08df08ba8b696b552b":[6,0,4275,0]
 };

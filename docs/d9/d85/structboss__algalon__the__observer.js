@@ -21,8 +21,8 @@ var structboss__algalon__the__observer =
     [ "_fightWon", "d9/d85/structboss__algalon__the__observer.html#a01a09a0b57378f01faa7c9a28c7fbe15", null ],
     [ "_firstPull", "d9/d85/structboss__algalon__the__observer.html#afff79a02e3ac0a6755e071589d3616e9", null ],
     [ "_heraldOfTheTitans", "d9/d85/structboss__algalon__the__observer.html#ace0156d62013cf93afb9eda7ce511570", null ],
+    [ "_instance", "d9/d85/structboss__algalon__the__observer.html#abd66b84088263188a45f62a0ca285e22", null ],
     [ "_phaseTwo", "d9/d85/structboss__algalon__the__observer.html#aa291c5d670ba6e69fa7c6cf4cf899e41", null ],
     [ "events", "d9/d85/structboss__algalon__the__observer.html#aed6084e6c8f289905675d0c908653855", null ],
-    [ "m_pInstance", "d9/d85/structboss__algalon__the__observer.html#a9ef8dd385a1f53068ba3eaa1da448b09", null ],
     [ "summons", "d9/d85/structboss__algalon__the__observer.html#a8f4703505b8f00327fe0405c1d7010eb", null ]
 ];

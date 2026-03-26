@@ -1,6 +1,6 @@
 var structboss__hodir =
 [
-    [ "boss_hodir", "d4/d22/structboss__hodir.html#ad5c0eb001737b1fc9f33e01a53aaa1e0", null ],
+    [ "boss_hodir", "d4/d22/structboss__hodir.html#a054fe2dcd8480d3d0b50ce2776e64194", null ],
     [ "CanAIAttack", "d4/d22/structboss__hodir.html#a6d12ec37b287d5e283f3207593435d60", null ],
     [ "DamageTaken", "d4/d22/structboss__hodir.html#a388eaf944b07001390f4f1796a8918b7", null ],
     [ "DoAction", "d4/d22/structboss__hodir.html#af12f631de82a8668d77728ccb7ace4f1", null ],

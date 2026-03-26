@@ -1,5 +1,7 @@
 var NAVTREEINDEX282 =
 {
+"db/d0c/classspell__gen__spirit__of__competition__winner.html#acf1173670c35c84ae7aba29be00d31cf":[6,0,3121,1],
+"db/d0d/classProcTestContext.html":[6,0,2475],
 "db/d0d/classProcTestContext.html#a0abd60970b6588ffdc80fa4030554979":[6,0,2475,9],
 "db/d0d/classProcTestContext.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb":[6,0,2475,5],
 "db/d0d/classProcTestContext.html#a2892ee3c159c616c6b1cd9bb7d4edc21":[6,0,2475,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX282 =
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a8142408f5810bd43a48773b07c0a173d":[7,0,0,0,1,3,9,6,52,10],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a8bde95d69ab99e5af1cbcbe7bd4fd5a8":[7,0,0,0,1,3,9,6,52,0],
 "db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a97202ef9a10f6afbbc76794b2e6b0638":[7,0,0,0,1,3,9,6,52,16],
-"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a99a6890219a39d114247deb27765f765":[7,0,0,0,1,3,9,6,52,8],
-"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa3a7ff54ec44ac0914e4b98f1f6ac2d8":[7,0,0,0,1,3,9,6,52,19],
-"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2aa4c0ddb12eff62aa6a2998ab5aa98da4":[7,0,0,0,1,3,9,6,52,30]
+"db/d16/spell__paladin_8cpp.html#aebd260fe2268d412cac39b40bbde60b2a99a6890219a39d114247deb27765f765":[7,0,0,0,1,3,9,6,52,8]
 };

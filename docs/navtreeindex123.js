@@ -1,5 +1,6 @@
 var NAVTREEINDEX123 =
 {
+"d4/d23/classspell__dru__nourish.html#a10dd1c0f67ff07f8e35ba0322c934899":[6,0,2900,1],
 "d4/d23/classspell__dru__nourish.html#a682a496d59201774de50951ffd2c7c0d":[6,0,2900,0],
 "d4/d23/classspell__dru__nourish.html#abc29f509e703f3807241b63f728a69af":[6,0,2900,2],
 "d4/d24/boss__cyanigosa_8cpp.html":[7,0,0,0,1,3,5,12,0],
@@ -78,8 +79,8 @@ var NAVTREEINDEX123 =
 "d4/d26/namespaceAcore_1_1Honor.html":[5,0,1,6],
 "d4/d26/namespaceAcore_1_1Honor.html#a218866625f1b3b8224fb44f5a0c8b416":[5,0,1,6,1],
 "d4/d26/namespaceAcore_1_1Honor.html#ad25519337dcc6370a39a072c53386f55":[5,0,1,6,0],
-"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[5,0,1,8,0,2],
+"d4/d26/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo.html":[6,0,0,5,0,2],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html":[6,0,2698],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a0e61ac6aa03aaad08d91883e587f1c40":[6,0,2698,1],
 "d4/d27/classspell__blood__council__shadow__prison__aura.html#a626900d1d0c8a471f4d100b2c2883a52":[6,0,2698,2],
@@ -247,7 +248,6 @@ var NAVTREEINDEX123 =
 "d4/d2d/classHideNpcEvent.html#aecfbbbcac3fd98675913a6381c891a59":[6,0,1285,1],
 "d4/d2d/classMovement_1_1SplineBase.html":[5,0,22,12],
 "d4/d2d/classMovement_1_1SplineBase.html":[6,0,7,12],
-"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[6,0,7,12,6],
 "d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[5,0,22,12,6],
-"d4/d2d/classMovement_1_1SplineBase.html#a0d320a2dc6db0e026829cdfce4bf1bd9":[6,0,7,12,23]
+"d4/d2d/classMovement_1_1SplineBase.html#a049a627baadc57b9908adb3f852a640e":[6,0,7,12,6]
 };

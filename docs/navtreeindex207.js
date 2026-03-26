@@ -1,5 +1,7 @@
 var NAVTREEINDEX207 =
 {
+"d7/dab/classnpc__tirion__fordring__tft.html":[6,0,2202],
+"d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2202,1],
 "d7/dab/classnpc__tirion__fordring__tft.html#a41dcfa415831091531cbf46e946f442d":[6,0,2202,2],
 "d7/dab/structboss__glob__of__viscidus.html":[6,0,513],
 "d7/dab/structboss__glob__of__viscidus.html#a0247055fc4f3a60c880ffb78e96edcb9":[6,0,513,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX207 =
 "d7/db0/classMap.html#abea8ed605071226978969647a0246e86":[6,0,1499,93],
 "d7/db0/classMap.html#abf584fdf26c71394f42c8a440d98804e":[6,0,1499,225],
 "d7/db0/classMap.html#ac128082bd657db6000ab05ad5a6b0f95":[6,0,1499,190],
-"d7/db0/classMap.html#ac1c96f4061f210aad8d8cb1c7de0aa0f":[6,0,1499,201],
-"d7/db0/classMap.html#ac1dcad60fa21d983c548a38323775ee2":[6,0,1499,268],
-"d7/db0/classMap.html#ac21667c6e51bb7ae902a6731fa50e277":[6,0,1499,180]
+"d7/db0/classMap.html#ac1c96f4061f210aad8d8cb1c7de0aa0f":[6,0,1499,201]
 };

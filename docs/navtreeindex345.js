@@ -1,5 +1,7 @@
 var NAVTREEINDEX345 =
 {
+"dd/dac/pit__of__saron_8h.html#aa4af8b626b7e8849a7a6d82d531909de":[7,0,0,0,1,3,5,4,2,5,33],
+"dd/dac/pit__of__saron_8h.html#aa63746b129e86d39a3f0010671af9e35":[7,0,0,0,1,3,5,4,2,5,35],
 "dd/dac/pit__of__saron_8h.html#aa8facc4fa02b031be7121767e65080b1":[7,0,0,0,1,3,5,4,2,5,34],
 "dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3fa":[7,0,0,0,1,3,5,4,2,5,8],
 "dd/dac/pit__of__saron_8h.html#aa92f6e955ae64411972c6a62d4b4d3faa2e0bb89777a30e2cd2dcd394174cf13a":[7,0,0,0,1,3,5,4,2,5,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX345 =
 "dd/db2/zone__storm__peaks_8cpp.html#ac8298d2bc33aa6752bc997cb838fe008":[7,0,0,0,1,3,5,23,45],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7":[7,0,0,0,1,3,5,23,35],
 "dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a21d2702c1c121e1139359d986fbab12a":[7,0,0,0,1,3,5,23,35,4],
-"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a5d38574cee111f6e50341380b20c0c26":[7,0,0,0,1,3,5,23,35,0],
-"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a7fc208b2a88944b4c011d71b5a40ec78":[7,0,0,0,1,3,5,23,35,1],
-"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7abf276d995824f99a65014da1cac10b65":[7,0,0,0,1,3,5,23,35,3]
+"dd/db2/zone__storm__peaks_8cpp.html#ae562cc946c36ab373babd16dad7493d7a5d38574cee111f6e50341380b20c0c26":[7,0,0,0,1,3,5,23,35,0]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX240 =
 {
-"d9/d4d/classmisc__commandscript.html#ad7a445556e92c64ab769cb2e3631a993":[6,0,1532,21],
-"d9/d4d/classmisc__commandscript.html#adc0ef6940602615062c716204c333f98":[6,0,1532,30],
-"d9/d4d/classmisc__commandscript.html#adc6779a70c7a79a7bd08a419d62edb88":[6,0,1532,19],
-"d9/d4d/classmisc__commandscript.html#ae63e89580f430cffe62afdf4fb2ff882":[6,0,1532,20],
-"d9/d4d/classmisc__commandscript.html#af11cc1d015103bed5d1d2391f46d1df1":[6,0,1532,33],
-"d9/d4d/classmisc__commandscript.html#af18039cb343286cf2f510b5d75ed500e":[6,0,1532,54],
 "d9/d4d/classmisc__commandscript.html#af6dd391539dfcb985388805735c0c82e":[6,0,1532,32],
 "d9/d4d/classmisc__commandscript.html#af7e879af94a5c48cd3c1194fdc118ec8":[6,0,1532,40],
 "d9/d4e/classboss__epoch.html":[6,0,458],
@@ -249,5 +243,11 @@ var NAVTREEINDEX240 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b":[5,0,1,2,10,0],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a7aa1549a95f760a19b9b7ffd8e669626":[5,0,1,2,9],
 "d9/d59/namespaceAcore_1_1ChatCommands.html#a81e8830ce306f6cfbcd04c92d3e0cc7f":[5,0,1,2,14],
-"d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d":[5,0,1,2,11]
+"d9/d59/namespaceAcore_1_1ChatCommands.html#a9a1f396a96afbd90b5c426315c8ba37d":[5,0,1,2,11],
+"d9/d59/namespaceAcore_1_1ChatCommands.html#aca39508e7753f6ca5d9aa21a854c0a77":[5,0,1,2,15],
+"d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,1,2,12],
+"d9/d5a/structAcore_1_1UnitSearcher.html":[6,0,0,112],
+"d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,1,124],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,1,124,5],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[6,0,0,112,5]
 };

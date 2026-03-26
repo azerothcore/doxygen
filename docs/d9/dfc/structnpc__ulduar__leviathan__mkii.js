@@ -1,6 +1,6 @@
 var structnpc__ulduar__leviathan__mkii =
 [
-    [ "npc_ulduar_leviathan_mkii", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#ac38c065bfdcd0496c3a7da58b1fcf833", null ],
+    [ "npc_ulduar_leviathan_mkii", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a90485942ab092db2f28b165f761eb495", null ],
     [ "DamageTaken", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
     [ "EnterEvadeMode", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#a47ceec21f91030a1810392ecc0adafd2", null ],
     [ "GetS3", "d9/dfc/structnpc__ulduar__leviathan__mkii.html#aba4be715815acca2ace025002750277e", null ],

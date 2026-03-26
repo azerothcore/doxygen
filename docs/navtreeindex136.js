@@ -1,15 +1,16 @@
 var NAVTREEINDEX136 =
 {
+"d4/da1/classBoundaryUnionBoundary.html#ae70530673803bd2ee85bf722fe42718b":[6,0,828,4],
 "d4/da1/classMovement_1_1PacketBuilder.html":[5,0,22,10],
 "d4/da1/classMovement_1_1PacketBuilder.html":[6,0,7,10],
-"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[5,0,22,10,3],
+"d4/da1/classMovement_1_1PacketBuilder.html#a1b960c1141ab9b4dca932e0eddaee204":[6,0,7,10,3],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[5,0,22,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a4c4294e3fed32aca35078dd4975b057d":[6,0,7,10,2],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[5,0,22,10,0],
 "d4/da1/classMovement_1_1PacketBuilder.html#a5dcdbeb513f6da51b0af20d9acd2ac58":[6,0,7,10,0],
-"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[5,0,22,10,1],
+"d4/da1/classMovement_1_1PacketBuilder.html#ae5682d7012cca35bd8643b01ce558eb5":[6,0,7,10,1],
 "d4/da1/classspectator__commandscript.html":[6,0,2618],
 "d4/da1/classspectator__commandscript.html#a15e661891f4e08c3efa0bd844c3954aa":[6,0,2618,3],
 "d4/da1/classspectator__commandscript.html#a1bf79d739a6af02405bc268c9bb50c26":[6,0,2618,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX136 =
 "d4/da9/classspell__talon__king__ikiss__blink.html#ae892090a9bd48aa447224c9f96801d37":[6,0,4149,1],
 "d4/da9/classspell__talon__king__ikiss__blink.html#aeb1aad59b6b4767a63660c5fe0277392":[6,0,4149,3],
 "d4/da9/classspell__talon__king__ikiss__blink.html#af08ab4fcc3705b07e89ed222794e70e9":[6,0,4149,2],
-"d4/da9/namespaceboost.html":[5,0,8],
-"d4/daa/classspell__oculus__rider__aura.html":[6,0,3699]
+"d4/da9/namespaceboost.html":[5,0,8]
 };

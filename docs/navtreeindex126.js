@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d44/structboss__lady__vashj.html#a005515a4f2ad0661d5faff9107ea068b":[6,0,602,14],
 "d4/d44/structboss__lady__vashj.html#a0418ead0213eeea16a531baca96db704":[6,0,602,5],
 "d4/d44/structboss__lady__vashj.html#a0ccfbf23e8f47b77496d35cdeae5e3ac":[6,0,602,11],
 "d4/d44/structboss__lady__vashj.html#a114729e5a3caa70c89d8c8b53eba5af3":[6,0,602,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a07e7b215ed7653fe7e1ee44d34a74bbd":[6,0,2296,0,2],
 "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a0d0e8d1af5179aea73aa60e060ba751a":[6,0,2296,0,8],
 "d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a2b16dc3ad358e4179fe20e2066ba5c64":[6,0,2296,0,1],
-"d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a3486b015ccb8fecfe5e215f45e45f15e":[6,0,2296,0,0],
-"d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a3fe95a64b640fb61459da2c8621fbc9c":[6,0,2296,0,5]
+"d4/d56/structnpc__warden__mellichar_1_1npc__warden__mellicharAI.html#a3486b015ccb8fecfe5e215f45e45f15e":[6,0,2296,0,0]
 };

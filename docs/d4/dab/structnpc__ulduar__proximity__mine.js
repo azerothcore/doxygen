@@ -1,6 +1,6 @@
 var structnpc__ulduar__proximity__mine =
 [
-    [ "npc_ulduar_proximity_mine", "d4/dab/structnpc__ulduar__proximity__mine.html#ab9ce5859157d12f4577eda515a183ef6", null ],
+    [ "npc_ulduar_proximity_mine", "d4/dab/structnpc__ulduar__proximity__mine.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
     [ "AttackStart", "d4/dab/structnpc__ulduar__proximity__mine.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
     [ "CanAIAttack", "d4/dab/structnpc__ulduar__proximity__mine.html#a18311072271a18b279c5bf21f7da2482", null ],
     [ "MoveInLineOfSight", "d4/dab/structnpc__ulduar__proximity__mine.html#a6a406f8098dac7038173f51e9f85a79b", null ],

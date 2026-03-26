@@ -1,5 +1,7 @@
 var NAVTREEINDEX336 =
 {
+"dd/d3b/classspell__kormok__summon__bone__minions.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2":[6,0,3544,2],
+"dd/d3b/structGameObjectTemplate.html":[6,0,1114],
 "dd/d3b/structGameObjectTemplate.html#a00eb000816f295001a68a3b4b75be832":[6,0,1114,104],
 "dd/d3b/structGameObjectTemplate.html#a01bfeb15be2a8e1d59805c83a2a75ac8":[6,0,1114,138],
 "dd/d3b/structGameObjectTemplate.html#a036401d053d1e65581f68ca5bb5f2340":[6,0,1114,35],
@@ -213,14 +215,14 @@ var NAVTREEINDEX336 =
 "dd/d3f/AchievementCriteriaScript_8cpp.html#a691565a1335cabfa534300dece8e65e8":[7,0,0,0,1,2,38,0,2,0],
 "dd/d3f/MoveSplineInit_8cpp.html":[7,0,0,0,1,2,31,1,7],
 "dd/d3f/MoveSplineInit_8cpp.html#a1f10281929f445f6d8150dc510bf1f2f":[7,0,0,0,1,2,31,1,7,0],
-"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,10,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html":[5,0,31,8],
+"dd/d3f/structVMAP_1_1LocationInfo.html":[6,0,10,8],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[5,0,31,8,1],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a0ffbfcfc677809dda6250855d9594ca5":[6,0,10,8,1],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[6,0,10,8,3],
-"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a2a7e0be8d8e43b055dd1d43cd5331738":[5,0,31,8,3],
 "dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[6,0,10,8,2],
+"dd/d3f/structVMAP_1_1LocationInfo.html#a5e3fc81a2b7353808dc0c95eebe570be":[5,0,31,8,2],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[5,0,31,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#aae82d7d8518db5e131d6a327927c75a2":[6,0,10,8,4],
 "dd/d3f/structVMAP_1_1LocationInfo.html#ae2e70dc65cd3b0379600a67dce7de6ba":[5,0,31,8,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX336 =
 "dd/d3f/structinstance__vault__of__archavon_1_1instance__vault__of__archavon__InstanceMapScript.html#afafb4c0c0e79b58094ea09068ebdf724":[6,0,1378,0,1],
 "dd/d40/classboss__loatheb.html":[6,0,608],
 "dd/d40/classboss__loatheb.html#a93bf8055a9ed900c880ef8b81b87bafd":[6,0,608,1],
-"dd/d40/classboss__loatheb.html#aca9b3a2515777f81b354c01a9727276e":[6,0,608,2],
-"dd/d40/instance__molten__core_8cpp.html":[7,0,0,0,1,3,2,1,3,10],
-"dd/d40/instance__molten__core_8cpp.html#a1712840a822c3d823764d3c974c6ea31":[7,0,0,0,1,3,2,1,3,10,6]
+"dd/d40/classboss__loatheb.html#aca9b3a2515777f81b354c01a9727276e":[6,0,608,2]
 };

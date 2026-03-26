@@ -1,5 +1,7 @@
 var NAVTREEINDEX328 =
 {
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#aad6527f64ede0d896880ffa90d05a378":[6,0,1124,6],
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[6,0,1124,3],
 "dc/ddf/brewfest_8cpp.html":[7,0,0,0,1,3,3,1],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784c":[7,0,0,0,1,3,3,1,40],
 "dc/ddf/brewfest_8cpp.html#a0b1768ced5432e6bc04e07393305784ca10c8bfd73eb8715dbfb00d15fbfbb10f":[7,0,0,0,1,3,3,1,40,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX328 =
 "dc/de6/structboss__skarvald__the__constructor.html#a9d65e24161dd1f7bac9fe991624c5c80":[6,0,718,4],
 "dc/de6/structboss__skarvald__the__constructor.html#ab5b773a9960f611a6383578a607ba258":[6,0,718,8],
 "dc/de6/structboss__skarvald__the__constructor.html#ada2068f8b5d125062ec0b7fde0d05c7f":[6,0,718,5],
-"dc/de7/structboss__fathomlord__karathress.html":[6,0,477],
-"dc/de7/structboss__fathomlord__karathress.html#a02812a3cc7de22348058dedd107bb6d0":[6,0,477,6],
-"dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[6,0,477,0]
+"dc/de7/structboss__fathomlord__karathress.html":[6,0,477]
 };

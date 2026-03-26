@@ -1,6 +1,6 @@
 var structnpc__ulduar__hodir__shaman =
 [
-    [ "npc_ulduar_hodir_shaman", "da/d5f/structnpc__ulduar__hodir__shaman.html#a6630f2da1a4e1f19b698e9520040b059", null ],
+    [ "npc_ulduar_hodir_shaman", "da/d5f/structnpc__ulduar__hodir__shaman.html#a3277cda17d5409be3426bdaa61e092cd", null ],
     [ "AttackStart", "da/d5f/structnpc__ulduar__hodir__shaman.html#a933908d61afac33002411874060c0f74", null ],
     [ "CanAIAttack", "da/d5f/structnpc__ulduar__hodir__shaman.html#a8907c7300cef735a70b088de3c16cfb9", null ],
     [ "EnterEvadeMode", "da/d5f/structnpc__ulduar__hodir__shaman.html#afa6124e630cd878659172a06df68d39f", null ],
@@ -10,6 +10,6 @@ var structnpc__ulduar__hodir__shaman =
     [ "SpellHit", "da/d5f/structnpc__ulduar__hodir__shaman.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
     [ "SpellHitTarget", "da/d5f/structnpc__ulduar__hodir__shaman.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
     [ "UpdateAI", "da/d5f/structnpc__ulduar__hodir__shaman.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "events", "da/d5f/structnpc__ulduar__hodir__shaman.html#a7e147f6f230513cfb666473c61ab4be4", null ],
-    [ "pInstance", "da/d5f/structnpc__ulduar__hodir__shaman.html#a05d8e52fa793df7e0a261cfa7ac3d499", null ]
+    [ "_instance", "da/d5f/structnpc__ulduar__hodir__shaman.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
+    [ "events", "da/d5f/structnpc__ulduar__hodir__shaman.html#a7e147f6f230513cfb666473c61ab4be4", null ]
 ];

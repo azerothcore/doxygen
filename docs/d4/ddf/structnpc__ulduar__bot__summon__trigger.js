@@ -1,6 +1,6 @@
 var structnpc__ulduar__bot__summon__trigger =
 [
-    [ "npc_ulduar_bot_summon_trigger", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a0d489ab4f401fc44fbc712fb84f87ec7", null ],
+    [ "npc_ulduar_bot_summon_trigger", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a16d36c154b6851c0081cc05f838b0fed", null ],
     [ "DoAction", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a776782a85892d2d674773573be25bfa0", null ],
     [ "Reset", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a4ec8487028b188347cf0c9a080076fe6", null ],
     [ "UpdateAI", "d4/ddf/structnpc__ulduar__bot__summon__trigger.html#a788d3eaba382e3af897678f6709a0242", null ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX206 =
 {
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf51b42fc7e33ac0d9d8489537d55727e":[7,0,0,0,1,2,28,2,0,152],
+"d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf52415e9c257fc8154331f20502dc45e":[7,0,0,0,1,2,28,2,0,615],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf54c651d2132afe554a3400af5218d02":[7,0,0,0,1,2,28,2,0,290],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf5627e09a9465613fbc933db20b52cd7":[7,0,0,0,1,2,28,2,0,105],
 "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf58f9bbda53da49544ad687756937dde":[7,0,0,0,1,2,28,2,0,605],
@@ -247,7 +249,5 @@ var NAVTREEINDEX206 =
 "d7/daa/structnpc__tyrande__whisperwind.html#af716e954e59221d26ee88032e895fa18":[6,0,2235,0],
 "d7/dab/classboss__toravon.html":[6,0,760],
 "d7/dab/classboss__toravon.html#a6db140b1d232312300e20155830cb249":[6,0,760,2],
-"d7/dab/classboss__toravon.html#abd30a86924bd7dd9474b5df16f3a8d8d":[6,0,760,1],
-"d7/dab/classnpc__tirion__fordring__tft.html":[6,0,2202],
-"d7/dab/classnpc__tirion__fordring__tft.html#a04036d958e7ac643c9ba8d9073bca404":[6,0,2202,1]
+"d7/dab/classboss__toravon.html#abd30a86924bd7dd9474b5df16f3a8d8d":[6,0,760,1]
 };

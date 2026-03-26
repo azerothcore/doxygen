@@ -1,5 +1,6 @@
 var NAVTREEINDEX99 =
 {
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baeda66e18c313770cb5708473a9239597":[7,0,0,0,1,2,48,7,0,48],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baedbc72d60d8fe1e4df361b1cfacbcd31":[7,0,0,0,1,2,48,7,0,201],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baee7dc5296c7d3514b6c0a383cbc151af":[7,0,0,0,1,2,48,7,0,291],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21baeeb640b82c60af7a956b9d91d2e9a8a4":[7,0,0,0,1,2,48,7,0,479],
@@ -58,8 +59,8 @@ var NAVTREEINDEX99 =
 "d3/d46/trial__of__the__champion_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31af1834042b38498aba7a5f96a1ad45c8a":[7,0,0,0,1,3,5,2,0,4,2,3],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[6,0,6,6],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html":[5,0,21,6],
-"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,21,6,0],
 "d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[6,0,6,6,0],
+"d3/d47/structMMAP_1_1NavMeshDeleter.html#a21f61d591d9d7b7efd797905cbb15d13":[5,0,21,6,0],
 "d3/d48/classgo__tele__to__violet__stand.html":[6,0,1211],
 "d3/d48/classgo__tele__to__violet__stand.html#a4d075584f065501a2c3be9ef82387f43":[6,0,1211,1],
 "d3/d48/classgo__tele__to__violet__stand.html#a63350db1dfd400c565e30775378d48cc":[6,0,1211,0],
@@ -239,8 +240,8 @@ var NAVTREEINDEX99 =
 "d3/d54/classFactoryHolder.html#a78673bd2f3d857127c1a91c49e3cd62f":[6,0,1059,2],
 "d3/d54/classFactoryHolder.html#a98c0e66f8caaa207771efd82b2c2f9aa":[6,0,1059,5],
 "d3/d54/classFactoryHolder.html#a9e173f9daaf5c2de36bb8b46da4249e1":[6,0,1059,4],
-"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[5,0,34,9,1],
+"d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html":[6,0,12,9,1],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[6,0,12,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#aba31f53e0e13c13fd96f1b6ea1d42310":[5,0,34,9,1,0],
 "d3/d54/classWorldPackets_1_1LFG_1_1LFGLeave.html#abae9c55efce73edf5edf1940cb8b61eb":[6,0,12,9,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX99 =
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html":[6,0,3651],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#a99f7d0be5668d5b005400140fc9865a4":[6,0,3651,1],
 "d3/d55/classspell__midsummer__ribbon__pole__visual.html#aa5593d0da0fe9cb1cb22cb2ccab18e05":[6,0,3651,0],
-"d3/d56/ChannelMgr_8cpp.html":[7,0,0,0,1,2,11,0,2],
-"d3/d56/classspell__hun__target__self__and__pet.html":[6,0,3252]
+"d3/d56/ChannelMgr_8cpp.html":[7,0,0,0,1,2,11,0,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX329 =
 {
+"dc/de7/structboss__fathomlord__karathress.html#a02812a3cc7de22348058dedd107bb6d0":[6,0,477,6],
+"dc/de7/structboss__fathomlord__karathress.html#a05c483ea61011926c260b43f6c01cac3":[6,0,477,0],
 "dc/de7/structboss__fathomlord__karathress.html#a1e03da049ad75a464de5dd15ac5e6d88":[6,0,477,4],
 "dc/de7/structboss__fathomlord__karathress.html#a3a692ef94d555e991a7cd34dee9812d9":[6,0,477,5],
 "dc/de7/structboss__fathomlord__karathress.html#a4c356359be50b626a28fab4a803386f8":[6,0,477,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX329 =
 "dc/df5/structGemPropertiesEntry.html#a3a6329c8f5caa3cd6e61138339f37f4d":[6,0,1120,2],
 "dc/df5/structGemPropertiesEntry.html#ac125147c2dc5546a0116f48e08f36e59":[6,0,1120,1],
 "dc/df6/classspell__q12919__gymers__throw.html":[6,0,3927],
-"dc/df6/classspell__q12919__gymers__throw.html#a2dc2628984358628afe7d9b62ced7794":[6,0,3927,2],
-"dc/df6/classspell__q12919__gymers__throw.html#ac1237e0af7f88f75ebc551af52fc301c":[6,0,3927,1],
-"dc/df6/classspell__q12919__gymers__throw.html#acde0ae837d0cd3af0f38481027200291":[6,0,3927,0]
+"dc/df6/classspell__q12919__gymers__throw.html#a2dc2628984358628afe7d9b62ced7794":[6,0,3927,2]
 };

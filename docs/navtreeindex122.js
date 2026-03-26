@@ -1,5 +1,6 @@
 var NAVTREEINDEX122 =
 {
+"d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca15a66789fb5f0a530c0e919503950a92":[7,0,0,0,1,3,5,4,1,3,11,10],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca15ee1fe4dc519e62c5d29f95e764e2ee":[7,0,0,0,1,3,5,4,1,3,11,16],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca1753cc502402f3ecd1305ef2eb23824d":[7,0,0,0,1,3,5,4,1,3,11,27],
 "d4/d1e/halls__of__reflection_8h.html#a68a3aa965a19156844e14a626767467ca19efe3750a417e5c452cf75e9b66b1c6":[7,0,0,0,1,3,5,4,1,3,11,21],
@@ -221,6 +222,7 @@ var NAVTREEINDEX122 =
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#acee81492b9b751df587a3a2cdd691ab3":[6,0,471,0,5],
 "d4/d22/structboss__faerlina_1_1boss__faerlinaAI.html#af2fbf866f87d568ee6028f0931d3b74e":[6,0,471,0,7],
 "d4/d22/structboss__hodir.html":[6,0,550],
+"d4/d22/structboss__hodir.html#a054fe2dcd8480d3d0b50ce2776e64194":[6,0,550,0],
 "d4/d22/structboss__hodir.html#a0fb16b675ef36f3453cb78adcecdf00f":[6,0,550,17],
 "d4/d22/structboss__hodir.html#a319c9a0bb8e9771b8fb89df5055628ef":[6,0,550,15],
 "d4/d22/structboss__hodir.html#a31c3693cdf73d684a5a39963ff5a4121":[6,0,550,11],
@@ -242,12 +244,10 @@ var NAVTREEINDEX122 =
 "d4/d22/structboss__hodir.html#abb26187af8b74a3564b1208d9d4d6518":[6,0,550,12],
 "d4/d22/structboss__hodir.html#ac7f18efccc5bdf3802ca264b31ddc4f0":[6,0,550,13],
 "d4/d22/structboss__hodir.html#aca3d3a6e9270504e480fea9e0b0e6eca":[6,0,550,24],
-"d4/d22/structboss__hodir.html#ad5c0eb001737b1fc9f33e01a53aaa1e0":[6,0,550,0],
 "d4/d22/structboss__hodir.html#ad75b72b5e045121ea6ba601aa2291443":[6,0,550,8],
 "d4/d22/structboss__hodir.html#af12f631de82a8668d77728ccb7ace4f1":[6,0,550,3],
 "d4/d22/structboss__hodir.html#af1faea8be0fe1468f6f313ea143501cf":[6,0,550,20],
 "d4/d22/structboss__hodir.html#af9d9bedc4f11ce4fe264fe77afd7e717":[6,0,550,22],
 "d4/d22/structboss__hodir.html#afdaf742fe150b4d58a596c5be52ae00d":[6,0,550,10],
-"d4/d23/classspell__dru__nourish.html":[6,0,2900],
-"d4/d23/classspell__dru__nourish.html#a10dd1c0f67ff07f8e35ba0322c934899":[6,0,2900,1]
+"d4/d23/classspell__dru__nourish.html":[6,0,2900]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX309 =
 {
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a2a9cbf0779ce2b26fb025f4fc9831d96":[7,0,0,0,1,3,2,6,3,9,9],
+"dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a2ad624a6823c9d1c68507d31f2d1ee42":[7,0,0,0,1,3,2,6,3,9,2],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a425c1f831c3622a2e7de70426262a77d":[7,0,0,0,1,3,2,6,3,9,8],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a4779c7fc11c8ad58834a08bb5c3bad5c":[7,0,0,0,1,3,2,6,3,9,15],
 "dc/d00/chapter5_8cpp.html#a49c51006ae31940078fa2eb3ca6040b1a50ffaf325566c41226a35d05efa52d26":[7,0,0,0,1,3,2,6,3,9,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX309 =
 "dc/d01/classspell__blood__queen__presence__of__the__darkfallen.html#ad7f12515dc21ab6b19148370fd491629":[6,0,2707,2],
 "dc/d01/instance__hellfire__ramparts_8cpp.html":[7,0,0,0,1,3,7,4,1,4],
 "dc/d01/instance__hellfire__ramparts_8cpp.html#a4172290a7e1e8ffcbf19519225978acf":[7,0,0,0,1,3,7,4,1,4,2],
-"dc/d02/WeatherScript_8h.html":[7,0,0,0,1,2,38,0,91],
-"dc/d03/InstanceMapScript_8h.html":[7,0,0,0,1,2,38,0,60],
-"dc/d03/InstanceMapScript_8h.html#a78044a95772db069981b463451a60613":[7,0,0,0,1,2,38,0,60,2]
+"dc/d02/WeatherScript_8h.html":[7,0,0,0,1,2,38,0,91]
 };

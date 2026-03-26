@@ -1,5 +1,7 @@
 var NAVTREEINDEX176 =
 {
+"d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b11a5a68fcea8fb2cda9807df10b353":[7,0,0,0,1,3,7,4,1,0,1,5],
+"d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,4,1,0,1,0],
 "d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a4c6c9ebf638f46e2a60fe869cea0573d":[7,0,0,0,1,3,7,4,1,0,1,2],
 "d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1a7f4f26c3b97b953fd229ac5d308024d5":[7,0,0,0,1,3,7,4,1,0,1,3],
 "d6/d5e/boss__omor__the__unscarred_8cpp.html#a16774215bba3b38580ea51987d64cff1ac06e5bbf853ac54e131d78954cadb856":[7,0,0,0,1,3,7,4,1,0,1,4],
@@ -68,16 +70,16 @@ var NAVTREEINDEX176 =
 "d6/d60/classspell__dreamwalker__twisted__nightmares.html#a892b0ba0f6541b3557a0200be5028479":[6,0,2869,1],
 "d6/d60/classspell__dreamwalker__twisted__nightmares.html#a930b8a515b5d156c16925dc218cf8172":[6,0,2869,0],
 "d6/d60/structnpc__ulduar__hodir__mage.html":[6,0,2252],
-"d6/d60/structnpc__ulduar__hodir__mage.html#a0d307cd24431bdc2d8e4a20eca3b74e5":[6,0,2252,0],
+"d6/d60/structnpc__ulduar__hodir__mage.html#a1f16ae119ae7819348b3013bac867b68":[6,0,2252,0],
 "d6/d60/structnpc__ulduar__hodir__mage.html#a411b6a3b456fb216f96a9426a13e3369":[6,0,2252,4],
+"d6/d60/structnpc__ulduar__hodir__mage.html#a75528e6ce772183e63a9a415932b05cf":[6,0,2252,9],
 "d6/d60/structnpc__ulduar__hodir__mage.html#a7c942a1ad420731a6e57ede7720d164b":[6,0,2252,3],
-"d6/d60/structnpc__ulduar__hodir__mage.html#a8c89348ce80bc9e4ac72dec41855db8a":[6,0,2252,9],
+"d6/d60/structnpc__ulduar__hodir__mage.html#a8c89348ce80bc9e4ac72dec41855db8a":[6,0,2252,10],
 "d6/d60/structnpc__ulduar__hodir__mage.html#aa486b501aefeb70beb325feece5ec34c":[6,0,2252,1],
 "d6/d60/structnpc__ulduar__hodir__mage.html#aab476b5a585b30d429bdcae64a18424c":[6,0,2252,5],
 "d6/d60/structnpc__ulduar__hodir__mage.html#add40de5492e4ec9bd19260669b4bbb22":[6,0,2252,6],
 "d6/d60/structnpc__ulduar__hodir__mage.html#ae9aa4904f3deaa6cae56853f8541eb40":[6,0,2252,8],
 "d6/d60/structnpc__ulduar__hodir__mage.html#af35bcc1ee03dd8128ff0fe7329eb980d":[6,0,2252,7],
-"d6/d60/structnpc__ulduar__hodir__mage.html#af7b337ac852b19ea3d866c5ca2623873":[6,0,2252,10],
 "d6/d60/structnpc__ulduar__hodir__mage.html#afe11d15da8769f50db470460cf759c2d":[6,0,2252,2],
 "d6/d61/classnpc__maghar__captive.html":[6,0,1971],
 "d6/d61/classnpc__maghar__captive.html#a59e177f33306ed0bb3de9f640d3685e4":[6,0,1971,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654a":[7,0,0,0,1,3,7,5,2,5,4],
 "d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654aa2a88b3366d09af56089aa586daf1e374":[7,0,0,0,1,3,7,5,2,5,4,3],
 "d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654aa509b917488bf30db3c305b4c32649536":[7,0,0,0,1,3,7,5,2,5,4,4],
-"d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654aa9e1eee49e78e1e8cd177e9426ee1661d":[7,0,0,0,1,3,7,5,2,5,4,2],
-"d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654aad04c2fe3d81625ee29aedd4d709a4697":[7,0,0,0,1,3,7,5,2,5,4,0],
-"d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654aaf07783e681473fb9f52dc50b03b64311":[7,0,0,0,1,3,7,5,2,5,4,1]
+"d6/d68/the__eye_8h.html#abd7b2582f2ee738e1a53e2e92a6f654aa9e1eee49e78e1e8cd177e9426ee1661d":[7,0,0,0,1,3,7,5,2,5,4,2]
 };

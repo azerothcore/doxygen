@@ -153,6 +153,8 @@ Functions</h2></td></tr>
 <tr class="separator:ac84d48375a4e21b33f5c099b5ddba489"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33ab344e5a5a3cd55aa736f4c4076e8d" id="r_a33ab344e5a5a3cd55aa736f4c4076e8d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html#a33ab344e5a5a3cd55aa736f4c4076e8d">TEST</a> (SpellImmunityTest, Bladestorm_ImmuneToStun)</td></tr>
 <tr class="separator:a33ab344e5a5a3cd55aa736f4c4076e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48ed8d85023d0633bff5255d90e5d2be" id="r_a48ed8d85023d0633bff5255d90e5d2be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html#a48ed8d85023d0633bff5255d90e5d2be">TEST</a> (SpellImmunityTest, StunImmunity_DoesNotFullyBlockMixedSpell)</td></tr>
+<tr class="separator:a48ed8d85023d0633bff5255d90e5d2be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Tests for spell immunity mechanics. </p>
@@ -160,7 +162,7 @@ Functions</h2></td></tr>
 <p class="definition">Definition in file <a class="el" href="../../">SpellImmunityTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
 <a id="a33ab344e5a5a3cd55aa736f4c4076e8d" name="a33ab344e5a5a3cd55aa736f4c4076e8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33ab344e5a5a3cd55aa736f4c4076e8d">&#9670;&#160;</a></span>TEST() <span class="overload">[1/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a33ab344e5a5a3cd55aa736f4c4076e8d">&#9670;&#160;</a></span>TEST() <span class="overload">[1/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -184,16 +186,16 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  321</span>{</div>
-<div class="line"><span class="lineno">  322</span>    SpellDesc stunSpell;</div>
-<div class="line"><span class="lineno">  323</span>    stunSpell.effects[0] = {EFFECT_APPLY_AURA, AURA_MOD_STUN};</div>
-<div class="line"><span class="lineno">  324</span> </div>
-<div class="line"><span class="lineno">  325</span>    <span class="comment">// without any special immunity the stun should land</span></div>
-<div class="line"><span class="lineno">  326</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">false</span>, stunSpell), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
-<div class="line"><span class="lineno">  327</span> </div>
-<div class="line"><span class="lineno">  328</span>    <span class="comment">// with a bladestorm‑style stun immunity it is blocked</span></div>
-<div class="line"><span class="lineno">  329</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">false</span>, stunSpell, <span class="keyword">true</span>), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  330</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  346</span>{</div>
+<div class="line"><span class="lineno">  347</span>    SpellDesc stunSpell;</div>
+<div class="line"><span class="lineno">  348</span>    stunSpell.effects[0] = {EFFECT_APPLY_AURA, AURA_MOD_STUN};</div>
+<div class="line"><span class="lineno">  349</span> </div>
+<div class="line"><span class="lineno">  350</span>    <span class="comment">// without any special immunity the stun should land</span></div>
+<div class="line"><span class="lineno">  351</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">false</span>, stunSpell), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  352</span> </div>
+<div class="line"><span class="lineno">  353</span>    <span class="comment">// with a bladestorm‑style stun immunity it is blocked</span></div>
+<div class="line"><span class="lineno">  354</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">false</span>, stunSpell, <span class="keyword">true</span>), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  355</span>}</div>
 <div class="ttc" id="aSharedDefines_8h_html_ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a></div><div class="ttdeci">@ SPELL_MISS_IMMUNE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1532</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a></div><div class="ttdeci">@ SPELL_MISS_NONE</div><div class="ttdef"><b>Definition</b> SharedDefines.h:1525</div></div>
 </div><!-- fragment -->
@@ -202,7 +204,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a0ceea3be37a3fb8d89b3ef53f31ac777" name="a0ceea3be37a3fb8d89b3ef53f31ac777"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ceea3be37a3fb8d89b3ef53f31ac777">&#9670;&#160;</a></span>TEST() <span class="overload">[2/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ceea3be37a3fb8d89b3ef53f31ac777">&#9670;&#160;</a></span>TEST() <span class="overload">[2/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -226,18 +228,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  261</span>{</div>
-<div class="line"><span class="lineno">  262</span>    SpellDesc cycloneLike = MakeCycloneLikeSpell();</div>
-<div class="line"><span class="lineno">  263</span> </div>
-<div class="line"><span class="lineno">  264</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, cycloneLike), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  265</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  286</span>{</div>
+<div class="line"><span class="lineno">  287</span>    SpellDesc cycloneLike = MakeCycloneLikeSpell();</div>
+<div class="line"><span class="lineno">  288</span> </div>
+<div class="line"><span class="lineno">  289</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, cycloneLike), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  290</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01532">SPELL_MISS_IMMUNE</a>.</p>
 
 </div>
 </div>
 <a id="a7079e204a81977a4f3621da623fde93f" name="a7079e204a81977a4f3621da623fde93f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7079e204a81977a4f3621da623fde93f">&#9670;&#160;</a></span>TEST() <span class="overload">[3/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a7079e204a81977a4f3621da623fde93f">&#9670;&#160;</a></span>TEST() <span class="overload">[3/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -261,18 +263,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  212</span>{</div>
-<div class="line"><span class="lineno">  213</span>    SpellDesc damageOnly = MakeDamageOnlySpell();</div>
-<div class="line"><span class="lineno">  214</span> </div>
-<div class="line"><span class="lineno">  215</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, damageOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  216</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
+<div class="line"><span class="lineno">  238</span>    SpellDesc damageOnly = MakeDamageOnlySpell();</div>
+<div class="line"><span class="lineno">  239</span> </div>
+<div class="line"><span class="lineno">  240</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, damageOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  241</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01532">SPELL_MISS_IMMUNE</a>.</p>
 
 </div>
 </div>
 <a id="ad0300dc54f7b0fce3c749eea97288ce8" name="ad0300dc54f7b0fce3c749eea97288ce8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0300dc54f7b0fce3c749eea97288ce8">&#9670;&#160;</a></span>TEST() <span class="overload">[4/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0300dc54f7b0fce3c749eea97288ce8">&#9670;&#160;</a></span>TEST() <span class="overload">[4/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -296,17 +298,17 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  282</span>{</div>
-<div class="line"><span class="lineno">  283</span>    SpellDesc slowOnly = MakeSlowOnlySpell();</div>
-<div class="line"><span class="lineno">  284</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, slowOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
-<div class="line"><span class="lineno">  285</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  307</span>{</div>
+<div class="line"><span class="lineno">  308</span>    SpellDesc slowOnly = MakeSlowOnlySpell();</div>
+<div class="line"><span class="lineno">  309</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, slowOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  310</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01525">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
 <a id="a98b2939a7b596ecad1bfe7fc9eea3b10" name="a98b2939a7b596ecad1bfe7fc9eea3b10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98b2939a7b596ecad1bfe7fc9eea3b10">&#9670;&#160;</a></span>TEST() <span class="overload">[5/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a98b2939a7b596ecad1bfe7fc9eea3b10">&#9670;&#160;</a></span>TEST() <span class="overload">[5/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -330,20 +332,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  232</span>{</div>
-<div class="line"><span class="lineno">  233</span>    <span class="comment">// This is the key fix: damage immunity must not force SPELL_MISS_IMMUNE</span></div>
-<div class="line"><span class="lineno">  234</span>    <span class="comment">// for mixed spells that include non-damage effects.</span></div>
-<div class="line"><span class="lineno">  235</span>    SpellDesc frostboltLike = MakeFrostboltLikeSpell();</div>
-<div class="line"><span class="lineno">  236</span> </div>
-<div class="line"><span class="lineno">  237</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, frostboltLike), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
-<div class="line"><span class="lineno">  238</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  257</span>{</div>
+<div class="line"><span class="lineno">  258</span>    <span class="comment">// This is the key fix: damage immunity must not force SPELL_MISS_IMMUNE</span></div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// for mixed spells that include non-damage effects.</span></div>
+<div class="line"><span class="lineno">  260</span>    SpellDesc frostboltLike = MakeFrostboltLikeSpell();</div>
+<div class="line"><span class="lineno">  261</span> </div>
+<div class="line"><span class="lineno">  262</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, frostboltLike), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  263</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01525">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
 <a id="a93e1a99e06e23b7f476361a13f400619" name="a93e1a99e06e23b7f476361a13f400619"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93e1a99e06e23b7f476361a13f400619">&#9670;&#160;</a></span>TEST() <span class="overload">[6/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a93e1a99e06e23b7f476361a13f400619">&#9670;&#160;</a></span>TEST() <span class="overload">[6/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -367,19 +369,19 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  241</span>{</div>
-<div class="line"><span class="lineno">  242</span>    SpellDesc frostboltLike = MakeFrostboltLikeSpell();</div>
-<div class="line"><span class="lineno">  243</span> </div>
-<div class="line"><span class="lineno">  244</span>    EffectApplyResult result = ApplyEffectsWithMovementImmunity(frostboltLike, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  245</span> </div>
-<div class="line"><span class="lineno">  246</span>    EXPECT_TRUE(result.damageApplied);</div>
-<div class="line"><span class="lineno">  247</span>    EXPECT_FALSE(result.slowApplied);</div>
-<div class="line"><span class="lineno">  248</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
+<div class="line"><span class="lineno">  267</span>    SpellDesc frostboltLike = MakeFrostboltLikeSpell();</div>
+<div class="line"><span class="lineno">  268</span> </div>
+<div class="line"><span class="lineno">  269</span>    EffectApplyResult result = ApplyEffectsWithMovementImmunity(frostboltLike, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  270</span> </div>
+<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(result.damageApplied);</div>
+<div class="line"><span class="lineno">  272</span>    EXPECT_FALSE(result.slowApplied);</div>
+<div class="line"><span class="lineno">  273</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <a id="a8a029b959e38d4926026f7dc1ba4d261" name="a8a029b959e38d4926026f7dc1ba4d261"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a029b959e38d4926026f7dc1ba4d261">&#9670;&#160;</a></span>TEST() <span class="overload">[7/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a029b959e38d4926026f7dc1ba4d261">&#9670;&#160;</a></span>TEST() <span class="overload">[7/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -403,15 +405,15 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
-<div class="line"><span class="lineno">  198</span>    SpellDesc spell = MakeFrostboltLikeSpell();</div>
-<div class="line"><span class="lineno">  199</span>    EXPECT_FALSE(HasOnlyDamageEffects(spell));</div>
-<div class="line"><span class="lineno">  200</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  222</span>{</div>
+<div class="line"><span class="lineno">  223</span>    SpellDesc spell = MakeFrostboltLikeSpell();</div>
+<div class="line"><span class="lineno">  224</span>    EXPECT_FALSE(HasOnlyDamageEffects(spell));</div>
+<div class="line"><span class="lineno">  225</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <a id="a113ef5bc9c956d6ddee3e2918c3ce3ab" name="a113ef5bc9c956d6ddee3e2918c3ce3ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a113ef5bc9c956d6ddee3e2918c3ce3ab">&#9670;&#160;</a></span>TEST() <span class="overload">[8/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a113ef5bc9c956d6ddee3e2918c3ce3ab">&#9670;&#160;</a></span>TEST() <span class="overload">[8/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -435,15 +437,15 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  191</span>{</div>
-<div class="line"><span class="lineno">  192</span>    SpellDesc spell = MakeDamageOnlySpell();</div>
-<div class="line"><span class="lineno">  193</span>    EXPECT_TRUE(HasOnlyDamageEffects(spell));</div>
-<div class="line"><span class="lineno">  194</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  216</span>{</div>
+<div class="line"><span class="lineno">  217</span>    SpellDesc spell = MakeDamageOnlySpell();</div>
+<div class="line"><span class="lineno">  218</span>    EXPECT_TRUE(HasOnlyDamageEffects(spell));</div>
+<div class="line"><span class="lineno">  219</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <a id="a44d3aa6c1687da3b2950b5426d1a72f6" name="a44d3aa6c1687da3b2950b5426d1a72f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44d3aa6c1687da3b2950b5426d1a72f6">&#9670;&#160;</a></span>TEST() <span class="overload">[9/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a44d3aa6c1687da3b2950b5426d1a72f6">&#9670;&#160;</a></span>TEST() <span class="overload">[9/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -467,14 +469,14 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  299</span>{</div>
-<div class="line"><span class="lineno">  300</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>; <span class="comment">// holy+spell</span></div>
-<div class="line"><span class="lineno">  301</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkMagic = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>;</div>
-<div class="line"><span class="lineno">  302</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkSpell = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a>;</div>
-<div class="line"><span class="lineno">  303</span> </div>
-<div class="line"><span class="lineno">  304</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
-<div class="line"><span class="lineno">  305</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkSpell));</div>
-<div class="line"><span class="lineno">  306</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  324</span>{</div>
+<div class="line"><span class="lineno">  325</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>; <span class="comment">// holy+spell</span></div>
+<div class="line"><span class="lineno">  326</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkMagic = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>;</div>
+<div class="line"><span class="lineno">  327</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkSpell = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a>;</div>
+<div class="line"><span class="lineno">  328</span> </div>
+<div class="line"><span class="lineno">  329</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
+<div class="line"><span class="lineno">  330</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkSpell));</div>
+<div class="line"><span class="lineno">  331</span>}</div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a></div><div class="ttdeci">SpellSchoolMask</div><div class="ttdef"><b>Definition</b> SharedDefines.h:283</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_MAGIC</div><div class="ttdef"><b>Definition</b> SharedDefines.h:300</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_SPELL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:296</div></div>
@@ -485,7 +487,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a101bdde4ca635021674b9c4d547289bf" name="a101bdde4ca635021674b9c4d547289bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a101bdde4ca635021674b9c4d547289bf">&#9670;&#160;</a></span>TEST() <span class="overload">[10/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a101bdde4ca635021674b9c4d547289bf">&#9670;&#160;</a></span>TEST() <span class="overload">[10/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -509,13 +511,13 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  290</span>{</div>
-<div class="line"><span class="lineno">  291</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a>;</div>
-<div class="line"><span class="lineno">  292</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkAll = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>;</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>    <span class="comment">// a frost-only immunity should *not* make you immune to all damage</span></div>
-<div class="line"><span class="lineno">  295</span>    EXPECT_FALSE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkAll));</div>
-<div class="line"><span class="lineno">  296</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  315</span>{</div>
+<div class="line"><span class="lineno">  316</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a>;</div>
+<div class="line"><span class="lineno">  317</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkAll = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>;</div>
+<div class="line"><span class="lineno">  318</span> </div>
+<div class="line"><span class="lineno">  319</span>    <span class="comment">// a frost-only immunity should *not* make you immune to all damage</span></div>
+<div class="line"><span class="lineno">  320</span>    EXPECT_FALSE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkAll));</div>
+<div class="line"><span class="lineno">  321</span>}</div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:303</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FROST</div><div class="ttdef"><b>Definition</b> SharedDefines.h:289</div></div>
 </div><!-- fragment -->
@@ -524,7 +526,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ac84d48375a4e21b33f5c099b5ddba489" name="ac84d48375a4e21b33f5c099b5ddba489"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac84d48375a4e21b33f5c099b5ddba489">&#9670;&#160;</a></span>TEST() <span class="overload">[11/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac84d48375a4e21b33f5c099b5ddba489">&#9670;&#160;</a></span>TEST() <span class="overload">[11/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -548,19 +550,19 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  309</span>{</div>
-<div class="line"><span class="lineno">  310</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>;</div>
-<div class="line"><span class="lineno">  311</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkMagic = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>;</div>
-<div class="line"><span class="lineno">  312</span> </div>
-<div class="line"><span class="lineno">  313</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
-<div class="line"><span class="lineno">  314</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  334</span>{</div>
+<div class="line"><span class="lineno">  335</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> immune = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a>;</div>
+<div class="line"><span class="lineno">  336</span>    <a class="code hl_enumeration" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> checkMagic = <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a>;</div>
+<div class="line"><span class="lineno">  337</span> </div>
+<div class="line"><span class="lineno">  338</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
+<div class="line"><span class="lineno">  339</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01645">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>.</p>
 
 </div>
 </div>
 <a id="a29cf4cb38c8eafbe22a418f0b08cda79" name="a29cf4cb38c8eafbe22a418f0b08cda79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29cf4cb38c8eafbe22a418f0b08cda79">&#9670;&#160;</a></span>TEST() <span class="overload">[12/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a29cf4cb38c8eafbe22a418f0b08cda79">&#9670;&#160;</a></span>TEST() <span class="overload">[12/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -584,19 +586,19 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  251</span>{</div>
-<div class="line"><span class="lineno">  252</span>    SpellDesc frostboltLike = MakeFrostboltLikeSpell();</div>
-<div class="line"><span class="lineno">  253</span> </div>
-<div class="line"><span class="lineno">  254</span>    EffectApplyResult result = ApplyEffectsWithMovementImmunity(frostboltLike, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  255</span> </div>
-<div class="line"><span class="lineno">  256</span>    EXPECT_TRUE(result.damageApplied);</div>
-<div class="line"><span class="lineno">  257</span>    EXPECT_TRUE(result.slowApplied);</div>
-<div class="line"><span class="lineno">  258</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  276</span>{</div>
+<div class="line"><span class="lineno">  277</span>    SpellDesc frostboltLike = MakeFrostboltLikeSpell();</div>
+<div class="line"><span class="lineno">  278</span> </div>
+<div class="line"><span class="lineno">  279</span>    EffectApplyResult result = ApplyEffectsWithMovementImmunity(frostboltLike, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  280</span> </div>
+<div class="line"><span class="lineno">  281</span>    EXPECT_TRUE(result.damageApplied);</div>
+<div class="line"><span class="lineno">  282</span>    EXPECT_TRUE(result.slowApplied);</div>
+<div class="line"><span class="lineno">  283</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <a id="a579210bd95da263d35a859c51af21bad" name="a579210bd95da263d35a859c51af21bad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a579210bd95da263d35a859c51af21bad">&#9670;&#160;</a></span>TEST() <span class="overload">[13/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a579210bd95da263d35a859c51af21bad">&#9670;&#160;</a></span>TEST() <span class="overload">[13/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -620,19 +622,19 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  224</span>{</div>
-<div class="line"><span class="lineno">  225</span>    SpellDesc meleeAttack = MakeDamageOnlySpell();</div>
-<div class="line"><span class="lineno">  226</span>    <span class="comment">// simulate physical damage coming from a rogue melee ability</span></div>
-<div class="line"><span class="lineno">  227</span> </div>
-<div class="line"><span class="lineno">  228</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, meleeAttack), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  229</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  249</span>{</div>
+<div class="line"><span class="lineno">  250</span>    SpellDesc meleeAttack = MakeDamageOnlySpell();</div>
+<div class="line"><span class="lineno">  251</span>    <span class="comment">// simulate physical damage coming from a rogue melee ability</span></div>
+<div class="line"><span class="lineno">  252</span> </div>
+<div class="line"><span class="lineno">  253</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">true</span>, meleeAttack), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  254</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01532">SPELL_MISS_IMMUNE</a>.</p>
 
 </div>
 </div>
 <a id="aa825e1abd2f35f0c5dd9ebacc11325f5" name="aa825e1abd2f35f0c5dd9ebacc11325f5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa825e1abd2f35f0c5dd9ebacc11325f5">&#9670;&#160;</a></span>TEST() <span class="overload">[14/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aa825e1abd2f35f0c5dd9ebacc11325f5">&#9670;&#160;</a></span>TEST() <span class="overload">[14/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -656,20 +658,20 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  203</span>{</div>
-<div class="line"><span class="lineno">  204</span>    SpellDesc damageOnly = MakeDamageOnlySpell();</div>
-<div class="line"><span class="lineno">  205</span>    SpellDesc cycloneLike = MakeCycloneLikeSpell();</div>
-<div class="line"><span class="lineno">  206</span> </div>
-<div class="line"><span class="lineno">  207</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, damageOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  208</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, cycloneLike), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  209</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  228</span>{</div>
+<div class="line"><span class="lineno">  229</span>    SpellDesc damageOnly = MakeDamageOnlySpell();</div>
+<div class="line"><span class="lineno">  230</span>    SpellDesc cycloneLike = MakeCycloneLikeSpell();</div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, damageOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  233</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, cycloneLike), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  234</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01532">SPELL_MISS_IMMUNE</a>.</p>
 
 </div>
 </div>
 <a id="a364c61e1fd8f2cced1b6473676301fdc" name="a364c61e1fd8f2cced1b6473676301fdc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a364c61e1fd8f2cced1b6473676301fdc">&#9670;&#160;</a></span>TEST() <span class="overload">[15/15]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a364c61e1fd8f2cced1b6473676301fdc">&#9670;&#160;</a></span>TEST() <span class="overload">[15/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -693,12 +695,51 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  273</span>{</div>
-<div class="line"><span class="lineno">  274</span>    SpellDesc slowOnly = MakeSlowOnlySpell();</div>
-<div class="line"><span class="lineno">  275</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, slowOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
-<div class="line"><span class="lineno">  276</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  298</span>{</div>
+<div class="line"><span class="lineno">  299</span>    SpellDesc slowOnly = MakeSlowOnlySpell();</div>
+<div class="line"><span class="lineno">  300</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">true</span>, <span class="keyword">false</span>, slowOnly), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>);</div>
+<div class="line"><span class="lineno">  301</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01532">SPELL_MISS_IMMUNE</a>.</p>
+
+</div>
+</div>
+<a id="a48ed8d85023d0633bff5255d90e5d2be" name="a48ed8d85023d0633bff5255d90e5d2be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48ed8d85023d0633bff5255d90e5d2be">&#9670;&#160;</a></span>TEST() <span class="overload">[16/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">StunImmunity_DoesNotFullyBlockMixedSpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  358</span>{</div>
+<div class="line"><span class="lineno">  359</span>    SpellDesc mixedSpell;</div>
+<div class="line"><span class="lineno">  360</span>    mixedSpell.effects[0] = { EFFECT_SCHOOL_DAMAGE, AURA_NONE };</div>
+<div class="line"><span class="lineno">  361</span>    mixedSpell.effects[1] = { EFFECT_APPLY_AURA, AURA_MOD_STUN };</div>
+<div class="line"><span class="lineno">  362</span> </div>
+<div class="line"><span class="lineno">  363</span>    <span class="comment">// This models partial immunity: stun effect is blocked, damage still hits.</span></div>
+<div class="line"><span class="lineno">  364</span>    EXPECT_TRUE(IsStunSpell(mixedSpell));</div>
+<div class="line"><span class="lineno">  365</span>    EXPECT_EQ(ComputeSpellHitResult(<span class="keyword">false</span>, <span class="keyword">false</span>, mixedSpell, <span class="keyword">true</span>), <a class="code hl_enumvalue" href="../../de/d0a/SharedDefines_8h.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>);</div>
+<div class="line"><span class="lineno">  366</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01525">SPELL_MISS_NONE</a>.</p>
 
 </div>
 </div>
@@ -708,7 +749,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html">SpellImmunityTest.cpp</a></li>
-    <li class="footer">Generated on Wed Mar 25 2026 06:58:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Thu Mar 26 2026 07:03:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

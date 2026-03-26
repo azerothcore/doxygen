@@ -242,6 +242,15 @@ var ulduar_8h =
       [ "NPC_ALGALON_STALKER_ASTEROID_TARGET_02", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2ab01f7b3ca20a4376ee69fdc61d1b9e04", null ],
       [ "NPC_UNLEASHED_DARK_MATTER", "d9/df7/ulduar_8h.html#abfe5de1fd9db676abc952fa6839d50b2a2c62b6e2216886988d69a472f943d34d", null ]
     ] ],
+    [ "UlduarPersistentData", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7", [
+      [ "PERSISTENT_DATA_WATCHERS_MASK", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ab86bd79b912a9756639960ba251cb388", null ],
+      [ "PERSISTENT_DATA_CONSPEEDATORY", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a2f4bad90049534d435ac9d2d9b495761", null ],
+      [ "PERSISTENT_DATA_UNBROKEN", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7a7a41941dcd32555baa2d07915cd689fe", null ],
+      [ "PERSISTENT_DATA_ALGALON_TIMER", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7aa1d994044e6428793c48b48a5eeb04de", null ],
+      [ "PERSISTENT_DATA_C_OF_ULDUAR_MASK", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7acb2638bb40b78607b204fefd94f870cb", null ],
+      [ "PERSISTENT_DATA_MAGE_BARRIER", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ae4fa74b63b7b02c1327ad0ba02048289", null ],
+      [ "MAX_PERSISTENT_DATA", "d9/df7/ulduar_8h.html#a06b14e3c2854bc8d7ae2bc1a9f44d3f7ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
     [ "GetUlduarAI", "d9/df7/ulduar_8h.html#aab0d4e386149b9e2e10cf46466c6e373", null ],
     [ "AlgalonLandPos", "d9/df7/ulduar_8h.html#a0429d4d2f640868770605570b7d2ac30", null ],
     [ "AlgalonSummonPos", "d9/df7/ulduar_8h.html#ad965a114fc35d453ec5c7a77d1251c8f", null ]

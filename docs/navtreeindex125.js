@@ -1,5 +1,6 @@
 var NAVTREEINDEX125 =
 {
+"d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1":[7,0,0,0,1,3,7,4,1,1,7],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a1b11a5a68fcea8fb2cda9807df10b353":[7,0,0,0,1,3,7,4,1,1,7,1],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,4,1,1,7,2],
 "d4/d3a/boss__vazruden__the__herald_8cpp.html#a16774215bba3b38580ea51987d64cff1a74c92bfc4fa00316be9df0764ae882d2":[7,0,0,0,1,3,7,4,1,1,7,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX125 =
 "d4/d42/classgo__duskwither__spire__power__source.html#aab69de16e8b744af2671e2ed882ee94a":[6,0,1162,0],
 "d4/d43/modelheaders_8h.html":[7,0,0,0,3,4,8],
 "d4/d44/classWeather.html":[4,2,9],
-"d4/d44/structboss__lady__vashj.html":[6,0,602],
-"d4/d44/structboss__lady__vashj.html#a005515a4f2ad0661d5faff9107ea068b":[6,0,602,14]
+"d4/d44/structboss__lady__vashj.html":[6,0,602]
 };

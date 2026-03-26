@@ -1,5 +1,7 @@
 var NAVTREEINDEX327 =
 {
+"dc/dd6/classRespawnEvent.html":[6,0,2535],
+"dc/dd6/classRespawnEvent.html#a2e58f4e472fb72cf5401f11be6e5e136":[6,0,2535,1],
 "dc/dd6/classRespawnEvent.html#accc0d5638ff7a493fa116ac2e8f2e58b":[6,0,2535,0],
 "dc/dd6/classRespawnEvent.html#adb0835b4a2e7a2795bb81f0a1e3c911a":[6,0,2535,2],
 "dc/dd7/classboss__wushoolay.html":[6,0,795],
@@ -247,7 +249,5 @@ var NAVTREEINDEX327 =
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a5f3c898a0dc6d9085589b88eb5571528":[6,0,1124,4],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a790a8ef2b59bfe6298486648858506ed":[6,0,1124,2],
 "dc/dde/classGenericSpellAndAuraScriptLoader.html#a7b2a19d6c7c75c0df22eae17b0c8e90a":[6,0,1124,1],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[6,0,1124,5],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#aad6527f64ede0d896880ffa90d05a378":[6,0,1124,6],
-"dc/dde/classGenericSpellAndAuraScriptLoader.html#ab1bd69d57c6e2322044b8f7cf46cedb6":[6,0,1124,3]
+"dc/dde/classGenericSpellAndAuraScriptLoader.html#a913fa28d2a2cf100ce73cf641e333e01":[6,0,1124,5]
 };

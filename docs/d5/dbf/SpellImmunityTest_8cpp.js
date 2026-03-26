@@ -14,5 +14,6 @@ var SpellImmunityTest_8cpp =
     [ "TEST", "d5/dbf/SpellImmunityTest_8cpp.html#a29cf4cb38c8eafbe22a418f0b08cda79", null ],
     [ "TEST", "d5/dbf/SpellImmunityTest_8cpp.html#a579210bd95da263d35a859c51af21bad", null ],
     [ "TEST", "d5/dbf/SpellImmunityTest_8cpp.html#aa825e1abd2f35f0c5dd9ebacc11325f5", null ],
-    [ "TEST", "d5/dbf/SpellImmunityTest_8cpp.html#a364c61e1fd8f2cced1b6473676301fdc", null ]
+    [ "TEST", "d5/dbf/SpellImmunityTest_8cpp.html#a364c61e1fd8f2cced1b6473676301fdc", null ],
+    [ "TEST", "d5/dbf/SpellImmunityTest_8cpp.html#a48ed8d85023d0633bff5255d90e5d2be", null ]
 ];

@@ -1,5 +1,6 @@
 var NAVTREEINDEX97 =
 {
+"d3/d42/classspell__warl__everlasting__affliction.html#a4ebc3c83dd77134af2ee81a46b121d19":[6,0,4275,2],
 "d3/d42/classspell__warl__everlasting__affliction.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b":[6,0,4275,1],
 "d3/d42/structContainerVector_3_01TypeList_3_01H_00_01T_01_4_01_4.html":[6,0,929],
 "d3/d42/structContainerVector_3_01TypeList_3_01H_00_01T_01_4_01_4.html#a3c5144877b9dcd68e1c2db2043796213":[6,0,929,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX97 =
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6d8dc88c382742f447655896c72f1161":[7,0,0,0,1,2,48,7,0,498],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6dcb2ac6a8df1ccc456b5f9753aa5537":[7,0,0,0,1,2,48,7,0,145],
 "d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6e95bf8ca54c710155a678c6df08ebb2":[7,0,0,0,1,2,48,7,0,463],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6f400c85195183af1128bd09e73c5e6e":[7,0,0,0,1,2,48,7,0,233],
-"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6f86d08041c9f6fee34a1b57b23bc050":[7,0,0,0,1,2,48,7,0,15]
+"d3/d46/WorldStateDefines_8h.html#ae6baf1e387f45e029dcac6faea13c21ba6f400c85195183af1128bd09e73c5e6e":[7,0,0,0,1,2,48,7,0,233]
 };

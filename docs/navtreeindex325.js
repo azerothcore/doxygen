@@ -1,5 +1,7 @@
 var NAVTREEINDEX325 =
 {
+"dc/db4/structboss__gruul.html#afec4bb1b631cab0b167afb7cc2578b7d":[6,0,527,3],
+"dc/db5/classnpc__frenzied__worgen.html":[6,0,1814],
 "dc/db5/classnpc__frenzied__worgen.html#a1ed46e8e6bd001f8f35492f340ab1d56":[6,0,1814,2],
 "dc/db5/classnpc__frenzied__worgen.html#ad46eb89ab86876950652f6dd6b7dc91a":[6,0,1814,1],
 "dc/db5/classspell__festergut__gaseous__blight.html":[6,0,2958],
@@ -247,7 +249,5 @@ var NAVTREEINDEX325 =
 "dc/dc7/structQuaternion.html":[6,0,2486],
 "dc/dc7/structQuaternion.html#a2676f1a5ec3a2f69ebb953e4b5741c4b":[6,0,2486,1],
 "dc/dc7/structQuaternion.html#a533b5e90b6333d89190828f28721e61d":[6,0,2486,3],
-"dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[6,0,2486,2],
-"dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec":[6,0,2486,0],
-"dc/dc7/structnpc__parasitic__shadowfiend.html":[6,0,2033]
+"dc/dc7/structQuaternion.html#aa3353a9f5afdf3614e37f9681441ae05":[6,0,2486,2]
 };

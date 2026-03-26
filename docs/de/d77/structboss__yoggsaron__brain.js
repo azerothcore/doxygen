@@ -1,6 +1,6 @@
 var structboss__yoggsaron__brain =
 [
-    [ "boss_yoggsaron_brain", "de/d77/structboss__yoggsaron__brain.html#acff8a9441c64626af86cfaaed7295076", null ],
+    [ "boss_yoggsaron_brain", "de/d77/structboss__yoggsaron__brain.html#a36521541acc73c7cb67d88dfd7cfe2ab", null ],
     [ "DamageTaken", "de/d77/structboss__yoggsaron__brain.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
     [ "DoAction", "de/d77/structboss__yoggsaron__brain.html#aff1761f23cd984cc5db31026f84b4218", null ],
     [ "GetData", "de/d77/structboss__yoggsaron__brain.html#a30593cbb193bf868f99d54279e04d39e", null ],

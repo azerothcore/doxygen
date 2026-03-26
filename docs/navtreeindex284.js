@@ -1,5 +1,7 @@
 var NAVTREEINDEX284 =
 {
+"db/d22/classspell__pilgrims__bounty__feast__on__generic.html":[6,0,3772],
+"db/d22/classspell__pilgrims__bounty__feast__on__generic.html#a21c4872e16c18c2918dfbea366e61df3":[6,0,3772,1],
 "db/d22/classspell__pilgrims__bounty__feast__on__generic.html#a841c9277224cbae878946deb288b87a1":[6,0,3772,2],
 "db/d22/classspell__pilgrims__bounty__feast__on__generic.html#aa75140309e66c28590a64e10676356da":[6,0,3772,0],
 "db/d23/IVMapMgr_8h.html":[7,0,0,0,0,1,0,0],
@@ -33,8 +35,8 @@ var NAVTREEINDEX284 =
 "db/d24/structnpc__hyjal__ground__trash.html#aa92481bcf993c4eda5ef271145200d77":[6,0,1883,2],
 "db/d24/structnpc__hyjal__ground__trash.html#ad94fe6d4dca64fa8eec183481f82bb39":[6,0,1883,3],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html":[6,0,2261],
+"db/d24/structnpc__ulduar__rocket__strike__trigger.html#a14fc5830fe192856bd7c99f78de91070":[6,0,2261,0],
 "db/d24/structnpc__ulduar__rocket__strike__trigger.html#ad4a438c5143a6de2b469baa28f0893c5":[6,0,2261,1],
-"db/d24/structnpc__ulduar__rocket__strike__trigger.html#aeed5dd446c67bba7edac698fe5e237c8":[6,0,2261,0],
 "db/d24/worldserverPCH_8h.html":[7,0,0,0,1,0,1,2,0],
 "db/d25/classMysticBuffetTargetFilter.html":[6,0,1582],
 "db/d25/classMysticBuffetTargetFilter.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea":[6,0,1582,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX284 =
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#ab979c3602897b1148ffd5d4a81941197":[6,0,1799,0,2],
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#ad22bb6efafb4396cd0137c1384240029":[6,0,1799,0,4],
 "db/d36/structnpc__fel__guard__hound_1_1npc__fel__guard__houndAI.html#af8b3a9b56e4bdf8d8b654ecccd096651":[6,0,1799,0,0],
-"db/d37/classboss__urom.html":[6,0,768],
-"db/d37/classboss__urom.html#ac381b851f3cc746fb323ff238892c537":[6,0,768,2],
-"db/d37/classboss__urom.html#ae85d0bb54d3bf6571bec9d35f31a3e25":[6,0,768,1]
+"db/d37/classboss__urom.html":[6,0,768]
 };

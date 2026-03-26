@@ -1,5 +1,7 @@
 var NAVTREEINDEX387 =
 {
+"de/dcc/classspell__dk__blood__boil.html":[6,0,2795],
+"de/dcc/classspell__dk__blood__boil.html#a293ff5d232851bce7cbc4a83aa8253b5":[6,0,2795,2],
 "de/dcc/classspell__dk__blood__boil.html#a2fe77cc280a5fa3bb324d969f1081b65":[6,0,2795,5],
 "de/dcc/classspell__dk__blood__boil.html#a7f0dae9dd4ead6ea10e8343810671282":[6,0,2795,1],
 "de/dcc/classspell__dk__blood__boil.html#ae1b4b01bd1a6903bcd594d2191e2770b":[6,0,2795,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX387 =
 "de/de0/classspell__gen__steal__weapon.html#a9332cb72f66e83f648b4ed02c8c074eb":[6,0,3122,3],
 "de/de0/classspell__gen__steal__weapon.html#acf25199409ab6f991db15a784749aaf1":[6,0,3122,0],
 "de/de0/classspell__gen__steal__weapon.html#ae6f93ab542d8f05a95745d7b10d1856a":[6,0,3122,2],
-"de/de0/structSpellClickInfo.html":[6,0,4391],
-"de/de0/structSpellClickInfo.html#a03cd65a460ea252818de9230cb656c1c":[6,0,4391,1],
-"de/de0/structSpellClickInfo.html#a34641755a5267b7a907d320cc5b4ddb4":[6,0,4391,2]
+"de/de0/structSpellClickInfo.html":[6,0,4391]
 };

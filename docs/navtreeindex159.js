@@ -1,5 +1,7 @@
 var NAVTREEINDEX159 =
 {
+"d5/dc7/structSpellEntry.html#afd20211c0346e85509641da5c413f3de":[6,0,4400,6],
+"d5/dc8/classspell__blood__queen__bloodbolt.html":[6,0,2701],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a1add221102b7067ffc130969f5172eae":[6,0,2701,4],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a46a43b9a8dec2f61aee3dccad4178a78":[6,0,2701,2],
 "d5/dc8/classspell__blood__queen__bloodbolt.html#a4d2b60161f5aed31132f0fc554aab7b6":[6,0,2701,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX159 =
 "d5/dcf/structboss__garr.html#a2a412224072b47de6780ea7b8d543743":[6,0,505,3],
 "d5/dcf/structboss__garr.html#a64bcae059cfa97def7e52a42d404a016":[6,0,505,2],
 "d5/dcf/structboss__garr.html#a6c428a4c92e4dcbe2fc2b97b5f377560":[6,0,505,4],
-"d5/dcf/structboss__garr.html#abab82d2e00b373ea1f0e444de23f4987":[6,0,505,1],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html":[6,0,1872,0],
-"d5/dcf/structnpc__hor__leader_1_1npc__hor__leaderAI.html#a2072f9facbc476bb97f1a3ca9c24fcb7":[6,0,1872,0,0]
+"d5/dcf/structboss__garr.html#abab82d2e00b373ea1f0e444de23f4987":[6,0,505,1]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX377 =
 {
+"de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934dad3581eb39f585b9bf3e1fa5dfeaf2c91":[5,0,18,49,6],
+"de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934dad8270e4f972b44030fc82de6d6d7c685":[5,0,18,49,11],
 "de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934dadf18f20df955c492523edce427d81c22":[5,0,18,49,10],
 "de/d72/namespacelfg.html#a04ff8774a1ad0847dc787646d984934daecc07574ef81bb491ac68098777d7dc7":[5,0,18,49,8],
 "de/d72/namespacelfg.html#a065ef655b9009bee21abb924cb6f3baa":[5,0,18,46],
@@ -233,13 +235,13 @@ var NAVTREEINDEX377 =
 "de/d77/structboss__yoggsaron__brain.html":[6,0,802],
 "de/d77/structboss__yoggsaron__brain.html#a193b18ba9aa03583659002c6a339c0c7":[6,0,802,7],
 "de/d77/structboss__yoggsaron__brain.html#a30593cbb193bf868f99d54279e04d39e":[6,0,802,3],
+"de/d77/structboss__yoggsaron__brain.html#a36521541acc73c7cb67d88dfd7cfe2ab":[6,0,802,0],
 "de/d77/structboss__yoggsaron__brain.html#a3c0d87cf1dc824321aa02034f800f14b":[6,0,802,12],
 "de/d77/structboss__yoggsaron__brain.html#a58a8dcda9f7f41f061af4cb6b26657fd":[6,0,802,13],
 "de/d77/structboss__yoggsaron__brain.html#a5b1aa2863bcec9dff0f87a6d4154daf6":[6,0,802,4],
 "de/d77/structboss__yoggsaron__brain.html#a7146ec81c014dd9c19a18ccf0fe30d87":[6,0,802,9],
 "de/d77/structboss__yoggsaron__brain.html#a9b8045951ba23deda3db3f9bfcee0754":[6,0,802,11],
 "de/d77/structboss__yoggsaron__brain.html#a9d75d3a6e7d89d8d1c4e472b8fe82161":[6,0,802,8],
-"de/d77/structboss__yoggsaron__brain.html#acff8a9441c64626af86cfaaed7295076":[6,0,802,0],
 "de/d77/structboss__yoggsaron__brain.html#ad162b38c8b4d638c6f3f6c673b6554d4":[6,0,802,5],
 "de/d77/structboss__yoggsaron__brain.html#adf41fc4e1adda0e969e06f490fe59414":[6,0,802,6],
 "de/d77/structboss__yoggsaron__brain.html#ae51cea57d22cfac38efdddde1bed15f9":[6,0,802,14],
@@ -247,7 +249,5 @@ var NAVTREEINDEX377 =
 "de/d77/structboss__yoggsaron__brain.html#aebc5e80be39aea6be68b9b1e78ec770f":[6,0,802,10],
 "de/d77/structboss__yoggsaron__brain.html#aff1761f23cd984cc5db31026f84b4218":[6,0,802,2],
 "de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html":[6,0,1327,0],
-"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a1ad656ccd4d41c756c4f525d079fd9b6":[6,0,1327,0,0],
-"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a410630dbbe00acf0b69603cfc357d503":[6,0,1327,0,1],
-"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a4cbe09489797fa0076d976f9a717a2bd":[6,0,1327,0,3]
+"de/d77/structinstance__gruuls__lair_1_1instance__gruuls__lair__InstanceMapScript.html#a1ad656ccd4d41c756c4f525d079fd9b6":[6,0,1327,0,0]
 };

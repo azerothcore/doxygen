@@ -1,5 +1,6 @@
 var NAVTREEINDEX103 =
 {
+"d3/d7c/classspell__the__flag__of__ownership.html#ac9b8d46cc77b06c427b5b3cbc1135072":[6,0,4173,5],
 "d3/d7d/classMovementGenerator.html":[6,0,1555],
 "d3/d7d/classMovementGenerator.html#a0040e427ac4a09273641a96a13fd4c1f":[6,0,1555,5],
 "d3/d7d/classMovementGenerator.html#a0f9c4fd52947688dcda1161924e829bb":[6,0,1555,9],
@@ -43,10 +44,10 @@ var NAVTREEINDEX103 =
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a1d711d49a6b49f55eb3771352b294b95":[5,0,18,4,0],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[5,0,18,4,3],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#a2eee5e81651a7a9be245e4b717ab53ed":[6,0,5,4,3],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[6,0,5,4,2],
-"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aa713cbc1930962d520883523f6f6446c":[5,0,18,4,2],
 "d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[6,0,5,4,1],
+"d3/d80/structlfg_1_1LfgJoinResultData.html#aff918b3c02ca76982a964402175f8ad7":[5,0,18,4,1],
 "d3/d81/GroupScript_8cpp.html":[7,0,0,0,1,2,38,0,55],
 "d3/d81/GroupScript_8cpp.html#a6ad2435b6116a997a5bacd47b955d688":[7,0,0,0,1,2,38,0,55,0],
 "d3/d81/classAbominationDespawner.html":[6,0,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX103 =
 "d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#a800ccd2508f8ec0e53bd185b8944acb0":[6,0,2022,0,0],
 "d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#a8e62f1613ccaba5d93758d6573f4dd6c":[6,0,2022,0,9],
 "d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#ab8a13498d8c9926c3d6496a0d4707557":[6,0,2022,0,8],
-"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#ac2e391d0149b62823ac9074d45c694cf":[6,0,2022,0,5],
-"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#acd8fd7a6353642c8e4a61eae0150c07f":[6,0,2022,0,6]
+"d3/d82/structnpc__oculus__unstable__sphere_1_1npc__oculus__unstable__sphereAI.html#ac2e391d0149b62823ac9074d45c694cf":[6,0,2022,0,5]
 };

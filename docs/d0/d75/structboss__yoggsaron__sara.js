@@ -1,6 +1,6 @@
 var structboss__yoggsaron__sara =
 [
-    [ "boss_yoggsaron_sara", "d0/d75/structboss__yoggsaron__sara.html#ad9ce79ebf3ec7efff9c230a956431328", null ],
+    [ "boss_yoggsaron_sara", "d0/d75/structboss__yoggsaron__sara.html#ae980ceb429ca66a9fbd79350e1f3c120", null ],
     [ "AddPortals", "d0/d75/structboss__yoggsaron__sara.html#a2e907912c6a398fd6b2e80771cfcd4aa", null ],
     [ "AttackStart", "d0/d75/structboss__yoggsaron__sara.html#ac415641616399b0e61449da756cdc4d0", null ],
     [ "DamageTaken", "d0/d75/structboss__yoggsaron__sara.html#a011ba69847dfa9eca5ead750a8db224b", null ],
@@ -23,12 +23,12 @@ var structboss__yoggsaron__sara =
     [ "UpdateKeeperSpawns", "d0/d75/structboss__yoggsaron__sara.html#a8e35aa5461cf9188728d6814aa075124", null ],
     [ "_currentIllusion", "d0/d75/structboss__yoggsaron__sara.html#aa3de5f62a10bd73009f7d67de2ba26cd", null ],
     [ "_initFight", "d0/d75/structboss__yoggsaron__sara.html#aa8092c39eaea08cf9a4a32a3e0b6f807", null ],
+    [ "_instance", "d0/d75/structboss__yoggsaron__sara.html#aa2cf2a72a90414ca7bc2e60a1e0c0365", null ],
     [ "_isIllusionReversed", "d0/d75/structboss__yoggsaron__sara.html#a94770a3156ebed6fa61113ff47caf9e4", null ],
     [ "_p2TalkTimer", "d0/d75/structboss__yoggsaron__sara.html#a913d2b1ac184cd2500713fcc260d9f71", null ],
     [ "_secondPhase", "d0/d75/structboss__yoggsaron__sara.html#ab9e712f1ddd1a2bc2ca20ce9003e4332", null ],
     [ "_summonedGuardiansCount", "d0/d75/structboss__yoggsaron__sara.html#ab902b624b70fd71cb90d9ffbb254a29c", null ],
     [ "_summonSpeed", "d0/d75/structboss__yoggsaron__sara.html#a8fe301d0dc27d0fae5d25c0135c887fd", null ],
     [ "events", "d0/d75/structboss__yoggsaron__sara.html#a8b31ba26c3b30790ed4102aa1f6e3d7f", null ],
-    [ "m_pInstance", "d0/d75/structboss__yoggsaron__sara.html#a15ee93c917cb53c47072668d3153f4af", null ],
     [ "summons", "d0/d75/structboss__yoggsaron__sara.html#a9d42c570fb67e24819b454e6dcf2ef3e", null ]
 ];

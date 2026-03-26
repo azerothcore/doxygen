@@ -1,11 +1,5 @@
 var NAVTREEINDEX237 =
 {
-"d9/d16/classachievement__fa__la__la__la__ogrila.html#ab98a8ab33fec62936bf3c235659c1445":[6,0,51,0],
-"d9/d16/classachievement__fa__la__la__la__ogrila.html#ad9f33606fcacfd698ed3a9fa22545022":[6,0,51,1],
-"d9/d16/structMetricData.html":[6,0,1526],
-"d9/d16/structMetricData.html#a09832a09e989c3851e72f4ec198f0e20":[6,0,1526,6],
-"d9/d16/structMetricData.html#a6a7956fedac99271428968ba339f464f":[6,0,1526,0],
-"d9/d16/structMetricData.html#a8248a27d920ca431493750e3f2dec48b":[6,0,1526,3],
 "d9/d16/structMetricData.html#a857d2d4843480b9967334f079351292a":[6,0,1526,4],
 "d9/d16/structMetricData.html#ab63598f64896186fde81048550767b28":[6,0,1526,2],
 "d9/d16/structMetricData.html#ac22787b2dadd4d3991f72f6ccab5c225":[6,0,1526,1],
@@ -247,7 +241,13 @@ var NAVTREEINDEX237 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3388,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3388,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3388,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,12,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0]
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,12,14,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,12,14,2,0],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
+"d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,4,2,1],
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca01399a5b2a68ac4cb80994196b005379":[7,0,0,0,1,3,2,4,2,1,2],
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca27bdd95528c81703a7768a704a29e5d3":[7,0,0,0,1,3,2,4,2,1,0],
+"d9/d2b/boss__maiden__of__virtue_8cpp.html#a5bd342133be8c2137b831460acc9298ca43af3f88ddf88aa8bfed99ccf363097f":[7,0,0,0,1,3,2,4,2,1,3]
 };

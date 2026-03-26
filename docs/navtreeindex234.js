@@ -1,11 +1,5 @@
 var NAVTREEINDEX234 =
 {
-"d8/ded/classspell__dru__eclipse.html":[6,0,2878],
-"d8/ded/classspell__dru__eclipse.html#a1afbc5f8e86e0382be43c947e88306b3":[6,0,2878,0],
-"d8/ded/classspell__dru__eclipse.html#a43cc9387ce5b1665147dcfecb1476c22":[6,0,2878,3],
-"d8/ded/classspell__dru__eclipse.html#a6f50d14abee53eb06f50edbcc78628c4":[6,0,2878,6],
-"d8/ded/classspell__dru__eclipse.html#a9fbfe3fba6283362bab181fcd15611b3":[6,0,2878,1],
-"d8/ded/classspell__dru__eclipse.html#a9fd6d9c34dba5cb302010df4d5c560c2":[6,0,2878,5],
 "d8/ded/classspell__dru__eclipse.html#aa060ed89bc5e3c80d6402c8e79baa597":[6,0,2878,2],
 "d8/ded/classspell__dru__eclipse.html#ad167a260f9a3d1f71a5a11b0bab6161c":[6,0,2878,4],
 "d8/ded/structnpc__bonker__togglevolt_1_1npc__bonker__togglevoltAI.html":[6,0,1686,0],
@@ -168,10 +162,10 @@ var NAVTREEINDEX234 =
 "d8/df6/structnpc__spawn__of__marli.html#a79ef192d41af75e0dad0494776c75189":[6,0,2151,2],
 "d8/df6/structnpc__spawn__of__marli.html#ae9d30ec62ff25a454824ff4334ad2d99":[6,0,2151,4],
 "d8/df6/structnpc__ulduar__saronite__animus.html":[6,0,2262],
-"d8/df6/structnpc__ulduar__saronite__animus.html#a223063bddb3e02d4e599a37e53909c94":[6,0,2262,0],
 "d8/df6/structnpc__ulduar__saronite__animus.html#a25c8d5d48558d3ce80cdef4545852bc6":[6,0,2262,1],
+"d8/df6/structnpc__ulduar__saronite__animus.html#a6f2bf52c82185365efe88941b7922504":[6,0,2262,3],
+"d8/df6/structnpc__ulduar__saronite__animus.html#a991f2e68f4b0430c1ccdf470edb44082":[6,0,2262,0],
 "d8/df6/structnpc__ulduar__saronite__animus.html#acdc763ba9d1f35dafb87469e33a6b180":[6,0,2262,4],
-"d8/df6/structnpc__ulduar__saronite__animus.html#ad1973f3016ac70fb66710f1665728736":[6,0,2262,3],
 "d8/df6/structnpc__ulduar__saronite__animus.html#afc7899752e25669b37ab04b50fb2d604":[6,0,2262,2],
 "d8/df6/structnpc__underbog__mushroom.html":[6,0,2269],
 "d8/df6/structnpc__underbog__mushroom.html#a2b77b2590d46c14c783d2df4a3699c44":[6,0,2269,0],
@@ -246,8 +240,14 @@ var NAVTREEINDEX234 =
 "d8/dfb/structboss__erekem_1_1boss__erekemAI.html#aedf10fef3f0f2ac6797efa5f5a809f4a":[6,0,462,0,0],
 "d8/dfc/CreatureAIRegistry_8h.html":[7,0,0,0,1,2,3,8],
 "d8/dfc/CreatureAIRegistry_8h.html#a9ddfbc9345acf19d3b4bcb7ce7804c94":[7,0,0,0,1,2,3,8,0],
-"d8/dfc/structAcore_1_1unary__function.html":[6,0,0,108],
 "d8/dfc/structAcore_1_1unary__function.html":[5,0,1,120],
+"d8/dfc/structAcore_1_1unary__function.html":[6,0,0,108],
 "d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[5,0,1,120,1],
-"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1]
+"d8/dfc/structAcore_1_1unary__function.html#a6dcbf6789c1565b95f16de3d580118a9":[6,0,0,108,1],
+"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[5,0,1,120,0],
+"d8/dfc/structAcore_1_1unary__function.html#ad0011a133ce27e947c35917314e60693":[6,0,0,108,0],
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html":[6,0,555,0],
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a0972a2b86426f6d0efbde3d8b802a8f3":[6,0,555,0,8],
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a1034e0e9f5af03cd1d36aef4df724bc9":[6,0,555,0,6],
+"d8/dfc/structboss__icehowl_1_1boss__icehowlAI.html#a302879641400e0f0b329fd960256c9fb":[6,0,555,0,12]
 };

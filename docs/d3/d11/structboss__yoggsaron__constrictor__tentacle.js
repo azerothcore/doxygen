@@ -1,6 +1,6 @@
 var structboss__yoggsaron__constrictor__tentacle =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a3206b641b6c6dffdabb8cacc09ac564a", null ],
+    [ "boss_yoggsaron_constrictor_tentacle", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
     [ "DoAction", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
     [ "JustDied", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#aac8f5a80248c4616074e7ef88fb10395", null ],
     [ "SelectConstrictTarget", "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],

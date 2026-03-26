@@ -1,5 +1,7 @@
 var NAVTREEINDEX196 =
 {
+"d7/d52/classSpellEvent.html#a22cce1d722f5086932ae3e97c58d2921":[6,0,4401,5],
+"d7/d52/classSpellEvent.html#a2ecd9b31bacc717cc509eb9bb69c3cb3":[6,0,4401,4],
 "d7/d52/classSpellEvent.html#abca64eb7d39df9788cef9df7e8634368":[6,0,4401,0],
 "d7/d52/classSpellEvent.html#ac21656467ae71def45fd78b9d1fa1c30":[6,0,4401,2],
 "d7/d52/classSpellEvent.html#ac8158bfbe916ff6207b2f6608308ae24":[6,0,4401,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d61/classADTFile.html#acd96c287a01828bf3e49fb599a3b5d81":[6,0,143,6],
 "d7/d61/classADTFile.html#ad1533f5b630a70b6ff95861e64960de0":[6,0,143,1],
 "d7/d61/classFactoryCreatureScript.html":[6,0,1057],
-"d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1057,1],
-"d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1057,0],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3]
+"d7/d61/classFactoryCreatureScript.html#a0e491e4cda2b03456d798f6726dbde54":[6,0,1057,1]
 };

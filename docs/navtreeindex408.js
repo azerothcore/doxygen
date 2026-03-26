@@ -1,5 +1,7 @@
 var NAVTREEINDEX408 =
 {
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a97c16b1689cfdb7fa680381964cb272a":[6,0,760,0,6],
+"df/dc2/structboss__toravon_1_1boss__toravonAI.html#a98474fcfbc56c7850ae054b7489eaa4f":[6,0,760,0,0],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ac4e2ed28ba7863630cd54c8f6c11455f":[6,0,760,0,1],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ad501bb34a0014be0abc965aae5383e21":[6,0,760,0,2],
 "df/dc2/structboss__toravon_1_1boss__toravonAI.html#ae2a3b691f1580275228204ea8ccaf846":[6,0,760,0,7],
@@ -71,10 +73,10 @@ var NAVTREEINDEX408 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2354,8],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,12,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[6,0,12,2,1,0],
 "df/dc7/structboss__yoggsaron__voice.html":[6,0,817],
 "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d":[6,0,817,1],
 "df/dc7/structboss__yoggsaron__voice.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b":[6,0,817,4],
@@ -82,7 +84,7 @@ var NAVTREEINDEX408 =
 "df/dc7/structboss__yoggsaron__voice.html#aa3570bf74b7caee5dcf844853a73d7e5":[6,0,817,3],
 "df/dc7/structboss__yoggsaron__voice.html#aae3b82dbb871f0f297bdacf975958492":[6,0,817,2],
 "df/dc7/structboss__yoggsaron__voice.html#abd4829f72aea74d3f9be6df3e40b08b5":[6,0,817,6],
-"df/dc7/structboss__yoggsaron__voice.html#aeb0654fe32fc4233fa129652091f84c8":[6,0,817,0],
+"df/dc7/structboss__yoggsaron__voice.html#ae9baa030c275b7f80d084f4e5d44aed2":[6,0,817,0],
 "df/dc8/AccountScript_8cpp.html":[7,0,0,0,1,2,38,0,0],
 "df/dc8/AccountScript_8cpp.html#a737db11e5096ba1c596f469d64c2cc97":[7,0,0,0,1,2,38,0,0,0],
 "df/dc8/AppenderConsole_8h.html":[7,0,0,0,0,9,3],
@@ -217,7 +219,7 @@ var NAVTREEINDEX408 =
 "df/dd3/structboss__yoggsaron__influence__tentacle.html":[6,0,811],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a0e76ab78b378ba4262dfb603e7634dfb":[6,0,811,1],
 "df/dd3/structboss__yoggsaron__influence__tentacle.html#a9fac83d89c8c5810b2b5a25d0228c741":[6,0,811,2],
-"df/dd3/structboss__yoggsaron__influence__tentacle.html#ad770f3c3e63240e50c965f277b2324ea":[6,0,811,0],
+"df/dd3/structboss__yoggsaron__influence__tentacle.html#ac5908d64a4749303a08d352d470995dd":[6,0,811,0],
 "df/dd4/MMapMgr_8cpp.html":[7,0,0,0,0,1,0,1],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html":[6,0,3918],
 "df/dd4/classspell__q12726__song__of__wind__and__water.html#a52f253d2a3b9b3890020107b7722ad96":[6,0,3918,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX408 =
 "df/dd4/structBattlegroundScore.html#adcf01c124ea66990fc63fee5ea3b3eeb":[6,0,351,12],
 "df/dd4/structBattlegroundScore.html#add869c398158195c32be0aa2d5786d4d":[6,0,351,3],
 "df/dd4/structBattlegroundScore.html#ae384f32b0c73e16c56090af803be3779":[6,0,351,14],
-"df/dd4/structBattlegroundScore.html#ae5e399ad4749489f1b8feb4f3b2d8c1e":[6,0,351,19],
-"df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[6,0,351,23],
-"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[6,0,351,20]
+"df/dd4/structBattlegroundScore.html#ae5e399ad4749489f1b8feb4f3b2d8c1e":[6,0,351,19]
 };

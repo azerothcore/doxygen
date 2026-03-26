@@ -1,5 +1,7 @@
 var NAVTREEINDEX162 =
 {
+"d5/ded/classspell__midsummer__fling__torch.html#a026fbf7123f6780459c19ff04b370b08":[6,0,3647,6],
+"d5/ded/classspell__midsummer__fling__torch.html#a177ea78202f4d5b4c381f1712b01fe43":[6,0,3647,2],
 "d5/ded/classspell__midsummer__fling__torch.html#a2a2f005c29f0381c3c45d04a75ccc378":[6,0,3647,1],
 "d5/ded/classspell__midsummer__fling__torch.html#a6ea11852ede397c1ede1ebaabb906c35":[6,0,3647,5],
 "d5/ded/classspell__midsummer__fling__torch.html#a869fde9e5d0756d3c68a8db3e10ad50d":[6,0,3647,7],
@@ -52,12 +54,12 @@ var NAVTREEINDEX162 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,12,6,29],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[6,0,12,6,29,1],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[6,0,12,6,29,0],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#af66d667a4b722745fa4f855870ef332c":[5,0,34,6,29,0],
 "d5/def/classdeserter__commandscript.html":[6,0,998],
 "d5/def/classdeserter__commandscript.html#a11fba09d369e7244244887947a91369e":[6,0,998,3],
 "d5/def/classdeserter__commandscript.html#a210dc9a7eddede6fe976157d6b22b683":[6,0,998,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX162 =
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,7,2,0,0,10,5],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a747a224b6b3195f9a33c56ddc6c7e268afe1b4f10ec28cd90d74e088cd05d2faa":[7,0,0,0,1,3,7,2,0,0,10,4],
 "d5/df2/boss__fathomlord__karathress_8cpp.html#a78cc94e636596a036ac86871e6d18cac":[7,0,0,0,1,3,7,2,0,0,13],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#aa77d6873c64e6a60816dcf68bf8a0d88":[7,0,0,0,1,3,7,2,0,0,11],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#aa77d6873c64e6a60816dcf68bf8a0d88a3704655ed13d6e715f714c60b555b1d0":[7,0,0,0,1,3,7,2,0,0,11,0],
-"d5/df2/boss__fathomlord__karathress_8cpp.html#aa77d6873c64e6a60816dcf68bf8a0d88a6f628adfead988f9091c291c9737e97c":[7,0,0,0,1,3,7,2,0,0,11,2]
+"d5/df2/boss__fathomlord__karathress_8cpp.html#aa77d6873c64e6a60816dcf68bf8a0d88":[7,0,0,0,1,3,7,2,0,0,11]
 };

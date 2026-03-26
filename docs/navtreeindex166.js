@@ -1,5 +1,7 @@
 var NAVTREEINDEX166 =
 {
+"d6/d07/structnpc__nightbane__helper__target.html#a688ebb85baad72e523be0dceb70a75fc":[6,0,2015,0],
+"d6/d09/classMMapData.html":[6,0,1535],
 "d6/d09/classMMapData.html#a237375e56702f7e83c9e13e1f959cfdb":[6,0,1535,4],
 "d6/d09/classMMapData.html#a472038a89678719bf8868ab0c75e394f":[6,0,1535,2],
 "d6/d09/classMMapData.html#a81e3e8249f22accbd06f9e80aa3fccf9":[6,0,1535,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d0f/classspell__dk__anti__magic__zone.html#a2419bff95bad81a0f63c4988f14eb3f9":[6,0,2791,4],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a279a025cac490ee3647f47584b59179f":[6,0,2791,1],
 "d6/d0f/classspell__dk__anti__magic__zone.html#a3fededdbfca9d12e6dbd097620e104be":[6,0,2791,2],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a60eb14be1b3108b7b896a27eab35569b":[6,0,2791,5],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a818875a8073491eab2508182bd941e25":[6,0,2791,3],
-"d6/d0f/classspell__dk__anti__magic__zone.html#a99db0d1254ddcfa9e7afb241e73b3235":[6,0,2791,0]
+"d6/d0f/classspell__dk__anti__magic__zone.html#a60eb14be1b3108b7b896a27eab35569b":[6,0,2791,5]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX200 =
 {
+"d7/d94/classspell__dru__typhoon.html#ae50d143953074b83183482770046e131":[6,0,2927,0],
+"d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html":[6,0,4355],
 "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c":[6,0,4355,0],
 "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ad1eae4d206e9e9e48230f60a2961fddb":[6,0,4355,1],
 "d7/d94/classspell__wyrmrest__skytalon__ride__red__dragon__buddy__trigger.html#ae6685e7fd80373f2fc9a37cd4065f8b6":[6,0,4355,2],
@@ -21,8 +23,8 @@ var NAVTREEINDEX200 =
 "d7/d95/classPoolMgr.html#a0b573f837a6211a5119787bf0cb2a43b":[6,0,2450,23],
 "d7/d95/classPoolMgr.html#a1d50c2070261d0a92b9db89d99805d57":[6,0,2450,5],
 "d7/d95/classPoolMgr.html#a25cfdfbe1e55e13bc54db6793f74637d":[6,0,2450,11],
-"d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910":[6,0,2450,16],
 "d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910":[6,0,2450,15],
+"d7/d95/classPoolMgr.html#a283ab83862a94d8493b6ae68c84da910":[6,0,2450,16],
 "d7/d95/classPoolMgr.html#a2ad8dead6e22788d2837e7c924d1105b":[6,0,2450,29],
 "d7/d95/classPoolMgr.html#a386ce51b39f64942ccda8a3599cead5d":[6,0,2450,13],
 "d7/d95/classPoolMgr.html#a3bd87a76e3167d829c8e4eb06a499b9c":[6,0,2450,14],
@@ -77,8 +79,8 @@ var NAVTREEINDEX200 =
 "d7/d97/MapGridManager_8h.html":[7,0,0,0,1,2,19,14],
 "d7/d97/structnpc__ulduar__toasty__fire.html":[6,0,2266],
 "d7/d97/structnpc__ulduar__toasty__fire.html#a514ed4231da0ad9e7d1ee2ea03106cb5":[6,0,2266,1],
-"d7/d97/structnpc__ulduar__toasty__fire.html#aa4447547d1689440813877ddd0347d5a":[6,0,2266,0],
 "d7/d97/structnpc__ulduar__toasty__fire.html#ad1ac241490db52177ae13640d7ae3eec":[6,0,2266,2],
+"d7/d97/structnpc__ulduar__toasty__fire.html#ad63c424b2ee9ff8013bc776acb7dbba7":[6,0,2266,0],
 "d7/d98/structboss__captain__skarloc.html":[6,0,423],
 "d7/d98/structboss__captain__skarloc.html#a196477160ab6d07dc644ddadf756a1e0":[6,0,423,0],
 "d7/d98/structboss__captain__skarloc.html#a1c67fb99984f666b63f8f79c6783341d":[6,0,423,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX200 =
 "d7/d9a/WorldState_8h.html#affad9750ec1568c3314d687af290f2acad1cfed631a6d170354306de21a9c8e10":[7,0,0,0,1,2,48,6,21,0],
 "d7/d9a/WorldState_8h.html#affad9750ec1568c3314d687af290f2acaef8c621060f45cd17565368474467453":[7,0,0,0,1,2,48,6,21,1],
 "d7/d9a/boss__captain__skarloc_8cpp.html":[7,0,0,0,1,3,4,1,2,0],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a1bb5c78626c896c277b322137237181a":[7,0,0,0,1,3,4,1,2,0,4],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,4,1,2,0,1],
-"d7/d9a/boss__captain__skarloc_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6233e6d3621443e4224dd31a05b3947d":[7,0,0,0,1,3,4,1,2,0,1,0]
+"d7/d9a/boss__captain__skarloc_8cpp.html#a1bb5c78626c896c277b322137237181a":[7,0,0,0,1,3,4,1,2,0,4]
 };

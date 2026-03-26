@@ -1,11 +1,5 @@
 var NAVTREEINDEX216 =
 {
-"d8/d12/structboss__ayamiss.html":[6,0,403],
-"d8/d12/structboss__ayamiss.html#a0114a79274c34fe3dfbc8a34f39920bc":[6,0,403,1],
-"d8/d12/structboss__ayamiss.html#a0e923d4fa8bd6623ec58d7f64b5ea261":[6,0,403,0],
-"d8/d12/structboss__ayamiss.html#a10111f97236c2846181aa20f7d9b64fd":[6,0,403,7],
-"d8/d12/structboss__ayamiss.html#a166238b9395a426a7333cf71a38c6c5c":[6,0,403,8],
-"d8/d12/structboss__ayamiss.html#a4281f761256cd93c19aea0a76239512d":[6,0,403,5],
 "d8/d12/structboss__ayamiss.html#a52f584da6d3d1b87fe91528dc25b8c5e":[6,0,403,2],
 "d8/d12/structboss__ayamiss.html#a6bc1f0767785efb5a5fb005b49338032":[6,0,403,6],
 "d8/d12/structboss__ayamiss.html#aa6dd99f8085d1424acf07cc124ac210c":[6,0,403,9],
@@ -249,5 +243,11 @@ var NAVTREEINDEX216 =
 "d8/d1e/classspell__q55__sacred__cleansing.html#a4aa8a16350a7a55706841471fd985ca2":[6,0,3947,0],
 "d8/d1e/classspell__q55__sacred__cleansing.html#a50a8f2d777169aaeef88533b66b88fb2":[6,0,3947,1],
 "d8/d20/SpellAuras_8h.html":[7,0,0,0,1,2,41,0,4],
-"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,1,59]
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[6,0,0,47],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html":[5,0,1,59],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[5,0,1,59,3],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a0db1501da33fde77ab3c50943666b1fd":[6,0,0,47,3],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[6,0,0,47,0],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a47b3e24f7100d13180ad1946647999ae":[5,0,1,59,0],
+"d8/d20/classAcore_1_1CustomChatTextBuilder.html#a92d1c58d76d5d450892338d0e1856dc0":[5,0,1,59,2]
 };

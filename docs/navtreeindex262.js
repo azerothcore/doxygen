@@ -1,5 +1,7 @@
 var NAVTREEINDEX262 =
 {
+"da/d4a/classspell__torch__tossing__training.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b":[6,0,4213,2],
+"da/d4a/classspell__torch__tossing__training.html#acf650fe6fe65164c12fbb06b45e092c9":[6,0,4213,0],
 "da/d4b/GuardAI_8h.html":[7,0,0,0,1,2,3,0,5],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html":[7,0,0,0,2,2,0,8,15],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#a168e46f935ad0b05479d64d810f07fac":[7,0,0,0,2,2,0,8,15,9],
@@ -18,14 +20,14 @@ var NAVTREEINDEX262 =
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#aca9a42766818ffc52919d66ab1017745":[7,0,0,0,2,2,0,8,15,16],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#acf2364ee45cd14949ea8fa599d15207b":[7,0,0,0,2,2,0,8,15,11],
 "da/d4b/SpellProcDisableEffectsTest_8cpp.html#ada6aa7946b5b1650643d1101a7b0a6a1":[7,0,0,0,2,2,0,8,15,2],
-"da/d4b/classAcore_1_1SignalHandler.html":[6,0,0,105],
 "da/d4b/classAcore_1_1SignalHandler.html":[5,0,1,117],
+"da/d4b/classAcore_1_1SignalHandler.html":[6,0,0,105],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[5,0,1,117,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a0c4d6ba642dd3877c3333b067db22db6":[6,0,0,105,3],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[6,0,0,105,2],
 "da/d4b/classAcore_1_1SignalHandler.html#a21b208a696ed4a320a7cf312006a787f":[5,0,1,117,2],
-"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,1,117,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[6,0,0,105,1],
+"da/d4b/classAcore_1_1SignalHandler.html#a56782d1718cb243bb5b0c6dc2d100042":[5,0,1,117,1],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[5,0,1,117,0],
 "da/d4b/classAcore_1_1SignalHandler.html#a9c515cb60b156629c43d1a6fce81d58e":[6,0,0,105,0],
 "da/d4b/classCastArmageddon.html":[6,0,854],
@@ -247,7 +249,5 @@ var NAVTREEINDEX262 =
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a46f47c937db63c2cd12331bce4e251cf":[6,0,1671,0,1],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a55b6176ee579f5f320ce36b63f83d314":[6,0,1671,0,2],
 "da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a5b98f3bcba320cbec0116d3f4a8e4d05":[6,0,1671,0,9],
-"da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a5f47c72447c197642a0081e544095489":[6,0,1671,0,4],
-"da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a6a9beaf984d954bc11a5f7dff17ca442":[6,0,1671,0,5],
-"da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#aa0fc35194d16d63854926d4266569d77":[6,0,1671,0,0]
+"da/d51/structnpc__bh__thalorien__dawnseeker_1_1npc__bh__thalorien__dawnseekerAI.html#a5f47c72447c197642a0081e544095489":[6,0,1671,0,4]
 };

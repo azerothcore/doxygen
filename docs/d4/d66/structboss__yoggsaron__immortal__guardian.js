@@ -1,6 +1,6 @@
 var structboss__yoggsaron__immortal__guardian =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d4/d66/structboss__yoggsaron__immortal__guardian.html#af282d41a1ee71c15bb51e03bebd97486", null ],
+    [ "boss_yoggsaron_immortal_guardian", "d4/d66/structboss__yoggsaron__immortal__guardian.html#a14839f96771d185718e88a4e371b31f6", null ],
     [ "DamageTaken", "d4/d66/structboss__yoggsaron__immortal__guardian.html#a9bf936d6a501e53ce98786f043562a71", null ],
     [ "Reset", "d4/d66/structboss__yoggsaron__immortal__guardian.html#a1173d401233670a45b31040b8e5d98cb", null ],
     [ "SpellHit", "d4/d66/structboss__yoggsaron__immortal__guardian.html#ae9fedb55d903edf6384cb9d0285cc528", null ],

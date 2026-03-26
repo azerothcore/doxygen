@@ -1,6 +1,6 @@
 var structboss__yoggsaron__cloud =
 [
-    [ "boss_yoggsaron_cloud", "d9/df3/structboss__yoggsaron__cloud.html#a905612697cf1c1d4fd155af61bf6866d", null ],
+    [ "boss_yoggsaron_cloud", "d9/df3/structboss__yoggsaron__cloud.html#a4efbeab85d5770784f1474176a23fd74", null ],
     [ "AttackStart", "d9/df3/structboss__yoggsaron__cloud.html#a280ad77f30f06c01ee16434794814767", null ],
     [ "DoAction", "d9/df3/structboss__yoggsaron__cloud.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
     [ "InitWaypoint", "d9/df3/structboss__yoggsaron__cloud.html#a390c25b21c29aafb616bd2c827352ffe", null ],

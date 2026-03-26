@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1e/classspell__the__lich__king__trigger__vile__spirit.html":[6,0,4198],
 "d3/d1e/classspell__the__lich__king__trigger__vile__spirit.html#a2b1d27e93a879681098a83d17c4d686a":[6,0,4198,2],
 "d3/d1e/classspell__the__lich__king__trigger__vile__spirit.html#aa55f0fe4e27520b8a7ae1bb0f810838d":[6,0,4198,1],
 "d3/d1e/classspell__the__lich__king__trigger__vile__spirit.html#ae5c9f8e693a98c828e0e922870552952":[6,0,4198,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d24/structinstance__molten__core.html#a89cbb06ebad5f4f0cc61b86f7990dc33":[6,0,1341,4],
 "d3/d24/structinstance__molten__core.html#a8c2cf1b9854b6af21c89afec8f7a77b9":[6,0,1341,20],
 "d3/d24/structinstance__molten__core.html#aa4120e388eb005d5477bf90c0fbff0ca":[6,0,1341,17],
-"d3/d24/structinstance__molten__core.html#aa67497f900a6413785ce9820a4a2514c":[6,0,1341,7],
-"d3/d24/structinstance__molten__core.html#abd45bf933b6d9d696d3e91556d01f181":[6,0,1341,11]
+"d3/d24/structinstance__molten__core.html#aa67497f900a6413785ce9820a4a2514c":[6,0,1341,7]
 };

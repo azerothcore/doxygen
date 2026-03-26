@@ -1,5 +1,7 @@
 var NAVTREEINDEX316 =
 {
+"dc/d37/classGlobalScript.html#abf690afbe28ca4a138c012c55cfd1990":[6,0,1130,19],
+"dc/d37/classGlobalScript.html#ac25cacd2f032ada74b7cb3cd35ddeb84":[6,0,1130,4],
 "dc/d37/classGlobalScript.html#ad03b87900646cdead06f820e0091d1ff":[6,0,1130,5],
 "dc/d37/classGlobalScript.html#ad6d3a51c35e8718533d0809fd132a253":[6,0,1130,9],
 "dc/d37/classGlobalScript.html#ad8bf354c9cc7145f515b646c8e5b2b3e":[6,0,1130,15],
@@ -194,15 +196,15 @@ var NAVTREEINDEX316 =
 "dc/d45/structnpc__ulduar__hodir__druid.html":[6,0,2251],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a1053d484f30df43fba465981cd3cfa38":[6,0,2251,7],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a22a10571e9cfe69200fd4a8fd383e500":[6,0,2251,3],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a2c5e8b14d1feedc6ff6f4634653e9b47":[6,0,2251,10],
-"dc/d45/structnpc__ulduar__hodir__druid.html#a323184c52fcbc3e18eb74c96db716327":[6,0,2251,9],
+"dc/d45/structnpc__ulduar__hodir__druid.html#a323184c52fcbc3e18eb74c96db716327":[6,0,2251,10],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a67884f16c32f849bc68d68256c19d21a":[6,0,2251,1],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a6cfefe7ccb156a658e8e2dad603b3fce":[6,0,2251,4],
 "dc/d45/structnpc__ulduar__hodir__druid.html#a81b0f60596e63ec618a9a9e1d8bc6c9d":[6,0,2251,2],
 "dc/d45/structnpc__ulduar__hodir__druid.html#aa2e3e904c5f7fee4236a9395b95ef3e9":[6,0,2251,5],
+"dc/d45/structnpc__ulduar__hodir__druid.html#aac822cf4203af0e0173004ccc33abc21":[6,0,2251,0],
 "dc/d45/structnpc__ulduar__hodir__druid.html#abcd580306a3abb5663bbac33f68115eb":[6,0,2251,8],
 "dc/d45/structnpc__ulduar__hodir__druid.html#ac8bee382634e20a49178be8b224eca2d":[6,0,2251,6],
-"dc/d45/structnpc__ulduar__hodir__druid.html#afab822c1363aaf51a94bb002a531b4a8":[6,0,2251,0],
+"dc/d45/structnpc__ulduar__hodir__druid.html#add7048881ec8b0dd2c09e34813c7c353":[6,0,2251,9],
 "dc/d46/classspell__dru__moonkin__form__passive.html":[6,0,2898],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a0c067ba7bbfd5cde53f1323b5c2f47cb":[6,0,2898,5],
 "dc/d46/classspell__dru__moonkin__form__passive.html#a1bdab939c229c466ce6b71a7e00dedf9":[6,0,2898,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d48/structnpc__drakonid__spawner.html#a6e0f0d2f6c265f9e5206f441dead8b2f":[6,0,1778,5],
 "dc/d48/structnpc__drakonid__spawner.html#ab013cff0430c09fe1045fdc735e45182":[6,0,1778,1],
 "dc/d49/boss__sapphiron_8cpp.html":[7,0,0,0,1,3,5,7,13],
-"dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,13,4],
-"dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a35c48d5f51bc05447105b2cfb112e69f":[7,0,0,0,1,3,5,7,13,4,2],
-"dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a41aed87dcb29c9f3fd8f7a9f49754f5b":[7,0,0,0,1,3,5,7,13,4,0]
+"dc/d49/boss__sapphiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,5,7,13,4]
 };

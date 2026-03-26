@@ -1,5 +1,6 @@
 var NAVTREEINDEX120 =
 {
+"d4/d02/structSmartEvent.html#a383f63ef0e7a093c1fdda34d3050d22da87557f11575c0ad78e4e28abedc13b6e":[6,0,2601,0,3],
 "d4/d02/structSmartEvent.html#a383f63ef0e7a093c1fdda34d3050d22da9274e222baca0ac1a8fc77e6531db468":[6,0,2601,0,1],
 "d4/d02/structSmartEvent.html#a383f63ef0e7a093c1fdda34d3050d22daa62a927d0ab6a08f916aa9f5ec0306e4":[6,0,2601,0,0],
 "d4/d02/structSmartEvent.html#a383f63ef0e7a093c1fdda34d3050d22daed36a1ef76a59ee3f15180e0441188ad":[6,0,2601,0,2],
@@ -236,18 +237,17 @@ var NAVTREEINDEX120 =
 "d4/d09/structlfg_1_1LfgPlayerBoot.html":[6,0,5,6],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a279a5575ca0956266ae81b7a165874cf":[5,0,18,6,2],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a279a5575ca0956266ae81b7a165874cf":[6,0,5,6,2],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[5,0,18,6,0],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[6,0,5,6,0],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a5fe6d6ede54a1f1228e29fc7ef55a413":[5,0,18,6,0],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[5,0,18,6,4],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a7619305fea30cc7fdc47f0a7ee365304":[6,0,5,6,4],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[6,0,5,6,1],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[5,0,18,6,1],
-"d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[5,0,18,6,3],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a8f3eddc8fbca950f184b6fb8b400344e":[6,0,5,6,1],
 "d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[6,0,5,6,3],
+"d4/d09/structlfg_1_1LfgPlayerBoot.html#a949262b4b3cbe0f813aae4fab704e7d2":[5,0,18,6,3],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[6,0,12,6,45],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html":[5,0,34,6,45],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[6,0,12,6,45,2],
 "d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a02f37610492c75373266bb93000adcbf":[5,0,34,6,45,2],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,12,6,45,1],
-"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[5,0,34,6,45,1]
+"d4/d0a/classWorldPackets_1_1Guild_1_1GuildSetGuildMaster.html#a94f16e55a840c7cba991a119af5d8263":[6,0,12,6,45,1]
 };

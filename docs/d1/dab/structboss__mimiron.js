@@ -1,6 +1,6 @@
 var structboss__mimiron =
 [
-    [ "boss_mimiron", "d1/dab/structboss__mimiron.html#a780bfc5cae4bd1c45671071e4d5f9521", null ],
+    [ "boss_mimiron", "d1/dab/structboss__mimiron.html#acb08d1e24173014a7c443dc2eaea76ce", null ],
     [ "AttackStart", "d1/dab/structboss__mimiron.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
     [ "CloseDoorAndButton", "d1/dab/structboss__mimiron.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
     [ "EnterEvadeMode", "d1/dab/structboss__mimiron.html#a9f39f9afa3f561115c4f7e630364f566", null ],

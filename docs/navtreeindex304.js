@@ -1,5 +1,7 @@
 var NAVTREEINDEX304 =
 {
+"db/dd5/classCreature.html#ad58781a5fb6888d1e82dd4d068628709":[6,0,936,203],
+"db/dd5/classCreature.html#ad5b34b08e224d1e86b00899de41046a9":[6,0,936,98],
 "db/dd5/classCreature.html#ad871ba0b75de51b893579296eba79e3f":[6,0,936,179],
 "db/dd5/classCreature.html#ad8891b07b8b211818d4284ed88e6ba10":[6,0,936,185],
 "db/dd5/classCreature.html#ad89b31f980b01291e35b631ecb333f8f":[6,0,936,299],
@@ -235,8 +237,8 @@ var NAVTREEINDEX304 =
 "db/dda/structAccountFlagText.html":[6,0,26],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,26,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,26,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
 "db/ddb/classConfigException.html":[6,0,914],
@@ -247,7 +249,5 @@ var NAVTREEINDEX304 =
 "db/ddb/classTaskContext.html#a380c596857dd0030414db5e8d28a3dda":[6,0,4485,23],
 "db/ddb/classTaskContext.html#a40aa7f8f29b300c5252ffd23c7e1632f":[6,0,4485,4],
 "db/ddb/classTaskContext.html#a47b03e1428d2b3df88a0664b93b0debc":[6,0,4485,17],
-"db/ddb/classTaskContext.html#a5c5bc5a317527f3dbc496e6e5a873505":[6,0,4485,14],
-"db/ddb/classTaskContext.html#a5c856d7c07fe8058ff53d35ccfb9b677":[6,0,4485,31],
-"db/ddb/classTaskContext.html#a686aee457802bc71b6560549c13239c9":[6,0,4485,24]
+"db/ddb/classTaskContext.html#a5c5bc5a317527f3dbc496e6e5a873505":[6,0,4485,14]
 };

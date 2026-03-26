@@ -1,11 +1,5 @@
 var NAVTREEINDEX227 =
 {
-"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a8f89764c360b3f491e241d70d098103f":[7,0,0,0,1,3,5,9,2,5,15,2],
-"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a92bcf11d1648ecebb99c4921e08f4c9b":[7,0,0,0,1,3,5,9,2,5,15,6],
-"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8a9e64f6e600dd42567d18006912811f75":[7,0,0,0,1,3,5,9,2,5,15,1],
-"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8ada55f761193c5ce51964480004c8462b":[7,0,0,0,1,3,5,9,2,5,15,4],
-"d8/d93/boss__general__vezax_8cpp.html#a0a2af133c7bcb5387c68abce0287eea8aecf72087c7e1bd8acdabb2785154c48f":[7,0,0,0,1,3,5,9,2,5,15,5],
-"d8/d93/boss__general__vezax_8cpp.html#a108c2a2d27e6ae9f94af4a209440d93e":[7,0,0,0,1,3,5,9,2,5,10],
 "d8/d93/boss__general__vezax_8cpp.html#a108c2a2d27e6ae9f94af4a209440d93eac51fb1605f030790acd10ceedb8aa954":[7,0,0,0,1,3,5,9,2,5,10,0],
 "d8/d93/boss__general__vezax_8cpp.html#a247f87b67f9639834c1ecd69fb31c186":[7,0,0,0,1,3,5,9,2,5,12],
 "d8/d93/boss__general__vezax_8cpp.html#a5c6fe86ca515a67bca7dfaf2465a4b04":[7,0,0,0,1,3,5,9,2,5,16],
@@ -152,8 +146,8 @@ var NAVTREEINDEX227 =
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,12,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,12,3,2,1],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[6,0,12,3,2,0],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
 "d8/d9c/classResetEncounterEvent.html":[6,0,2533],
 "d8/d9c/classResetEncounterEvent.html#a7f2d0aaade5833381e3e7624745fc504":[6,0,2533,3],
 "d8/d9c/classResetEncounterEvent.html#aaa1bc6d3d529524df6b0ed6be6e0966f":[6,0,2533,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX227 =
 "d8/da3/classCalendarMgr.html#a9c70930cd48cd10110aded2da7cd25bc":[6,0,849,14],
 "d8/da3/classCalendarMgr.html#aa1aa26499b95ec87d2d1fa5c74f87db8":[6,0,849,36],
 "d8/da3/classCalendarMgr.html#aa47ee6cabf2d9a7cee4abbc149f5bc3a":[6,0,849,28],
-"d8/da3/classCalendarMgr.html#aa63d643073c9b44bdcef4e8ead4cb993":[6,0,849,20]
+"d8/da3/classCalendarMgr.html#aa63d643073c9b44bdcef4e8ead4cb993":[6,0,849,20],
+"d8/da3/classCalendarMgr.html#aaa7a09cc5c03fe7dc023a0e5a780aef7":[6,0,849,15],
+"d8/da3/classCalendarMgr.html#aacdf88030ccec430eef86cd7f748279a":[6,0,849,10],
+"d8/da3/classCalendarMgr.html#ab4e4e54a47eec9bfa2fdf97a22a70ea9":[6,0,849,45],
+"d8/da3/classCalendarMgr.html#ab6328c3650492b9a00871836b6b09669":[6,0,849,43],
+"d8/da3/classCalendarMgr.html#ab959daa9f33c7f54a7bcd302f372470e":[6,0,849,26],
+"d8/da3/classCalendarMgr.html#ac0f16fa5c4fd5230c2322cf58a8d4f5c":[6,0,849,29]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d09/zone__borean__tundra_8cpp.html#ac3d28f1aad6c310215f801abd4286e71a65b64cf29c0d183fb2b68c7e0887ae61":[7,0,0,0,1,3,5,15,33,1],
 "d3/d09/zone__borean__tundra_8cpp.html#ad647b24d2a24dd0f8d147067c670ff75":[7,0,0,0,1,3,5,15,45],
 "d3/d09/zone__borean__tundra_8cpp.html#ad647b24d2a24dd0f8d147067c670ff75a0f1def3a1c98dcbd73123122899b04ee":[7,0,0,0,1,3,5,15,45,1],
 "d3/d09/zone__borean__tundra_8cpp.html#ad647b24d2a24dd0f8d147067c670ff75a8447133790ffd0fabc502d930321f7b2":[7,0,0,0,1,3,5,15,45,0],
@@ -200,8 +201,8 @@ var NAVTREEINDEX92 =
 "d3/d10/mob__generic__creature_8cpp.html#a50f66c4d6429b38157e35a75a0daa31d":[7,0,0,0,1,3,10,8,2],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html":[6,0,804],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a12103bc4e58febfdcb9fbbc31aab9ad7":[6,0,804,3],
-"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a3206b641b6c6dffdabb8cacc09ac564a":[6,0,804,0],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a381b56eb1c81f893fd061cf4aead0bc4":[6,0,804,6],
+"d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a543b785ba3033ab378fcb77d39db2ab1":[6,0,804,0],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#a930b35c2385ba2977f2f2da3b4b38f07":[6,0,804,4],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#aa6c76606c7c9e6ee71e94433cb721f96":[6,0,804,5],
 "d3/d11/structboss__yoggsaron__constrictor__tentacle.html#aac8f5a80248c4616074e7ef88fb10395":[6,0,804,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67":[5,0,11,0],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550":[5,0,11,0,3],
 "d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564":[5,0,11,0,2],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714":[5,0,11,0,1],
-"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c":[5,0,11,0,4]
+"d3/d13/namespaceCharacterDatabaseCleaner.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714":[5,0,11,0,1]
 };

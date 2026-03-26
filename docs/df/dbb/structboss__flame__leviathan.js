@@ -1,6 +1,6 @@
 var structboss__flame__leviathan =
 [
-    [ "boss_flame_leviathan", "df/dbb/structboss__flame__leviathan.html#ae073f5011aee6c4f4da10a4ee92b5920", null ],
+    [ "boss_flame_leviathan", "df/dbb/structboss__flame__leviathan.html#a48d7411965fc5bbc8fe9d7579d020633", null ],
     [ "ActivateTowers", "df/dbb/structboss__flame__leviathan.html#af7efd745e49df1305deb9e11797d310e", null ],
     [ "AttackStart", "df/dbb/structboss__flame__leviathan.html#ad5f0d06bbe2e5e821bbaf616c4dc1288", null ],
     [ "BindPlayers", "df/dbb/structboss__flame__leviathan.html#a7b05024f5098a612688b08f1f47f67e0", null ],

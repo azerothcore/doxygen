@@ -1,5 +1,7 @@
 var NAVTREEINDEX168 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca5d68feb336809f83b6bcb14458f55c0b":[7,0,0,0,1,3,5,6,11,37,22],
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67a4f3b7f15d866af90559d8a7f70713":[7,0,0,0,1,3,5,6,11,37,0],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca758d7f1622b5a89191ae7774d52c0eea":[7,0,0,0,1,3,5,6,11,37,31],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca793a49a00dcc6f1483d25cd234f8a608":[7,0,0,0,1,3,5,6,11,37,5],
 "d6/d1a/boss__valithria__dreamwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca846055c995374082714483a6b39bc963":[7,0,0,0,1,3,5,6,11,37,28],
@@ -247,7 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d1f/classspell__halion__marks__aura.html#a1c9fefecd33db13e06f267c41e6b0375":[6,0,3174,2],
 "d6/d1f/classspell__halion__marks__aura.html#a3351eb9a4b497e1d92bd0021c0fa01f8":[6,0,3174,0],
 "d6/d1f/classspell__halion__marks__aura.html#a48fb48567091c8fd9d365ea3ff8730cc":[6,0,3174,1],
-"d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[6,0,3174,4],
-"d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[6,0,3174,3],
-"d6/d1f/classspell__halion__marks__aura.html#aeef9d928c6a8739337251e144558b169":[6,0,3174,5]
+"d6/d1f/classspell__halion__marks__aura.html#ac84d4ab83e56314ff15ee363cafd2feb":[6,0,3174,4]
 };

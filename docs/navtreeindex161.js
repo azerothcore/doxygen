@@ -1,5 +1,7 @@
 var NAVTREEINDEX161 =
 {
+"d5/ddf/structVehicleSeatEntry.html#a19e43027903965f82f174c0b58d91c5c":[6,0,4578,3],
+"d5/ddf/structVehicleSeatEntry.html#a1cefa2dceb7f45178440cb853aaaee87":[6,0,4578,37],
 "d5/ddf/structVehicleSeatEntry.html#a217a659f344349810a787a4f193b2e70":[6,0,4578,1],
 "d5/ddf/structVehicleSeatEntry.html#a29e7ce53071885ef509c339d47664d0d":[6,0,4578,31],
 "d5/ddf/structVehicleSeatEntry.html#a36d6a9668d3405ba7a226d8ed0281fe9":[6,0,4578,6],
@@ -220,9 +222,9 @@ var NAVTREEINDEX161 =
 "d5/deb/classnpc__mr__bigglesworth.html#a3d5957253ef3af4f48f5bfaf4d93ce0f":[6,0,1997,1],
 "d5/deb/classnpc__mr__bigglesworth.html#a51e81be4146e8e40a82ecf4018cb955d":[6,0,1997,0],
 "d5/deb/structboss__kologarn__eyebeam.html":[6,0,590],
-"d5/deb/structboss__kologarn__eyebeam.html#a0d324467d4d02d7bd204f66fcadc52ea":[6,0,590,5],
+"d5/deb/structboss__kologarn__eyebeam.html#a0d324467d4d02d7bd204f66fcadc52ea":[6,0,590,6],
 "d5/deb/structboss__kologarn__eyebeam.html#a1640ef2ca2a58803786a6c675191676c":[6,0,590,2],
-"d5/deb/structboss__kologarn__eyebeam.html#a3725453f7a0d7b307cdbb9b63d990e5b":[6,0,590,6],
+"d5/deb/structboss__kologarn__eyebeam.html#a600467b5bb551022d7e0b12ce739b672":[6,0,590,5],
 "d5/deb/structboss__kologarn__eyebeam.html#a62d025ceaa080f78e587ee08c6f780ef":[6,0,590,4],
 "d5/deb/structboss__kologarn__eyebeam.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3":[6,0,590,3],
 "d5/deb/structboss__kologarn__eyebeam.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d":[6,0,590,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX161 =
 "d5/dec/structGameObjectTemplateAddon.html#a7ae038f7051f3da177d3cdc95ef608d2":[6,0,1115,0],
 "d5/dec/structGameObjectTemplateAddon.html#ae1378dcb4327a4d000c3299a32f9d23f":[6,0,1115,1],
 "d5/dec/structGameObjectTemplateAddon.html#ae80fd304ee4d02d5e0d13ec6136ec736":[6,0,1115,4],
-"d5/ded/classspell__midsummer__fling__torch.html":[6,0,3647],
-"d5/ded/classspell__midsummer__fling__torch.html#a026fbf7123f6780459c19ff04b370b08":[6,0,3647,6],
-"d5/ded/classspell__midsummer__fling__torch.html#a177ea78202f4d5b4c381f1712b01fe43":[6,0,3647,2]
+"d5/ded/classspell__midsummer__fling__torch.html":[6,0,3647]
 };

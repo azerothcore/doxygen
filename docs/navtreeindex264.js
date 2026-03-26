@@ -1,19 +1,21 @@
 var NAVTREEINDEX264 =
 {
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[6,0,5,14,9],
+"da/d5e/structlfg_1_1LfgQueueStatusData.html#abf57fbbaac89b08bacf0731e3a8b65e3":[5,0,18,14,9],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[6,0,5,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc":[5,0,18,14,7],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[5,0,18,14,0],
 "da/d5e/structlfg_1_1LfgQueueStatusData.html#af50fc3422feb137a7ccd820e2ac2fe44":[6,0,5,14,0],
 "da/d5f/structnpc__ulduar__hodir__shaman.html":[6,0,2254],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a02476e4ddb2287c647a2a4bd7e342150":[6,0,2254,7],
-"da/d5f/structnpc__ulduar__hodir__shaman.html#a05d8e52fa793df7e0a261cfa7ac3d499":[6,0,2254,11],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a08af85d3446c86443ff5a620b159d000":[6,0,2254,4],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa":[6,0,2254,8],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a29de52dcae485f00403dae8e28ff1395":[6,0,2254,5],
-"da/d5f/structnpc__ulduar__hodir__shaman.html#a6630f2da1a4e1f19b698e9520040b059":[6,0,2254,0],
-"da/d5f/structnpc__ulduar__hodir__shaman.html#a7e147f6f230513cfb666473c61ab4be4":[6,0,2254,10],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#a3277cda17d5409be3426bdaa61e092cd":[6,0,2254,0],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#a7e147f6f230513cfb666473c61ab4be4":[6,0,2254,11],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a8907c7300cef735a70b088de3c16cfb9":[6,0,2254,2],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#a933908d61afac33002411874060c0f74":[6,0,2254,1],
+"da/d5f/structnpc__ulduar__hodir__shaman.html#aa09753bc9b54ea8dcc9b61a9ace77ae3":[6,0,2254,10],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#ab9aa67f07721c0bf60e9db75b5b3e888":[6,0,2254,6],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#adf8d9895cdd35712fa44e4a19de1315a":[6,0,2254,9],
 "da/d5f/structnpc__ulduar__hodir__shaman.html#afa6124e630cd878659172a06df68d39f":[6,0,2254,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420add1499675819fe1f00e71390131dade4":[7,0,0,0,1,2,5,3,24,9],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420ae73234222b3a934423cb2c47827d9055":[7,0,0,0,1,2,5,3,24,1],
 "da/d70/AuctionHouseSearcher_8h.html#abce5a6a07f5c4ef07bed8f8f5fba2420af48b05fc2213181717f3490c46c63094":[7,0,0,0,1,2,5,3,24,10],
-"da/d70/AuctionHouseSearcher_8h.html#add0df1394d287b79672ebf01c59138c1":[7,0,0,0,1,2,5,3,20],
-"da/d70/AuctionHouseSearcher_8h.html#afefbc3444cfffa5e2fe0ded42a20e407":[7,0,0,0,1,2,5,3,21],
-"da/d70/classat__icc__saurfang__portal.html":[6,0,229]
+"da/d70/AuctionHouseSearcher_8h.html#add0df1394d287b79672ebf01c59138c1":[7,0,0,0,1,2,5,3,20]
 };

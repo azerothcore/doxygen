@@ -1,5 +1,7 @@
 var NAVTREEINDEX405 =
 {
+"df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4":[7,0,0,0,1,2,7,2,7],
+"df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007":[7,0,0,0,1,2,7,2,7,2],
 "df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138":[7,0,0,0,1,2,7,2,7,1],
 "df/da2/Battlefield_8h.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a":[7,0,0,0,1,2,7,2,7,0],
 "df/da2/Battlefield_8h.html#a9d81160ef5262b2f7a9dc65170d7f3e5":[7,0,0,0,1,2,7,2,3],
@@ -84,8 +86,8 @@ var NAVTREEINDEX405 =
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#a9953d33b35eca1b91ed1618609c6acea":[6,0,12,1,0,1],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[6,0,12,1,0,0],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#ab199427a8f1a5c4063aef2aeb390714f":[5,0,34,1,0,0],
-"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,12,1,0,2],
 "df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[5,0,34,1,0,2],
+"df/da6/classWorldPackets_1_1Calendar_1_1ArenaTeam.html#aecda79f3715bd7ff5a6e872800ef256d":[6,0,12,1,0,2],
 "df/da6/classspell__gurtogg__eject.html":[6,0,3163],
 "df/da6/classspell__gurtogg__eject.html#a21740b341acce23e284a3d4ceea9b6e0":[6,0,3163,0],
 "df/da6/classspell__gurtogg__eject.html#aad6959f74932db219e991efd3b3af44a":[6,0,3163,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX405 =
 "df/da7/classBattleground.html#a926ca777b624d721f4c4109f1a2c5781":[6,0,326,126],
 "df/da7/classBattleground.html#a92d7cf55decc0cd7f684585849e30f3c":[6,0,326,244],
 "df/da7/classBattleground.html#a92e6f79cab403a320bb9089b1f85d0a9":[6,0,326,132],
-"df/da7/classBattleground.html#a94a18a6b96492ef2f66fcd2d3fe3475c":[6,0,326,213],
-"df/da7/classBattleground.html#a961cd8ab1362894a64d302d94c705782":[6,0,326,150],
-"df/da7/classBattleground.html#a983c89eabad301bdef23af18e84d4e55":[6,0,326,31]
+"df/da7/classBattleground.html#a94a18a6b96492ef2f66fcd2d3fe3475c":[6,0,326,213]
 };

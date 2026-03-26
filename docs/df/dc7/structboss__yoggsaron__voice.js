@@ -1,6 +1,6 @@
 var structboss__yoggsaron__voice =
 [
-    [ "boss_yoggsaron_voice", "df/dc7/structboss__yoggsaron__voice.html#aeb0654fe32fc4233fa129652091f84c8", null ],
+    [ "boss_yoggsaron_voice", "df/dc7/structboss__yoggsaron__voice.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
     [ "Reset", "df/dc7/structboss__yoggsaron__voice.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
     [ "SpellHitTarget", "df/dc7/structboss__yoggsaron__voice.html#aae3b82dbb871f0f297bdacf975958492", null ],
     [ "UpdateAI", "df/dc7/structboss__yoggsaron__voice.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],

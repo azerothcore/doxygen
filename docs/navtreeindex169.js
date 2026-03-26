@@ -1,5 +1,7 @@
 var NAVTREEINDEX169 =
 {
+"d6/d1f/classspell__halion__marks__aura.html#acd5285ea5c378b31526440d263c54770":[6,0,3174,3],
+"d6/d1f/classspell__halion__marks__aura.html#aeef9d928c6a8739337251e144558b169":[6,0,3174,5],
 "d6/d1f/structnpc__hor__lumbering__abomination.html":[6,0,1875],
 "d6/d1f/structnpc__hor__lumbering__abomination.html#a08ae4bc9025a4bfbe91d39d256e34060":[6,0,1875,0],
 "d6/d1f/structnpc__hor__lumbering__abomination.html#a5380771abba095749e1e0b30fe070a73":[6,0,1875,2],
@@ -23,8 +25,8 @@ var NAVTREEINDEX169 =
 "d6/d22/structnpc__ulduar__icicle.html":[6,0,2255],
 "d6/d22/structnpc__ulduar__icicle.html#a0a46c8ee0c4bb8932406fe8170a54310":[6,0,2255,1],
 "d6/d22/structnpc__ulduar__icicle.html#a9a098b0a31fcbc029fc7ae6823ea99a4":[6,0,2255,3],
+"d6/d22/structnpc__ulduar__icicle.html#ac5f024031a70b4ca04ecc0a96fcbdcae":[6,0,2255,0],
 "d6/d22/structnpc__ulduar__icicle.html#ae277d302131abd17cef018872b12da06":[6,0,2255,2],
-"d6/d22/structnpc__ulduar__icicle.html#af52ccbf93e54673f8a91dcea682d9e9b":[6,0,2255,0],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html":[6,0,2638],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac8349deb2e9c8861194e80132bd72fc5":[6,0,2638,1],
 "d6/d23/classspell__amanitar__remove__mushroom__power.html#ac83962bef84b68cef6d7937769730598":[6,0,2638,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d29/classnpc__battle__at__valhalas.html":[6,0,1668],
 "d6/d29/classnpc__battle__at__valhalas.html#a3660ba847b3b40c2d358d63c63517a5e":[6,0,1668,2],
 "d6/d29/classnpc__battle__at__valhalas.html#aacec717b5b91ae55307c9642779c15ec":[6,0,1668,1],
-"d6/d29/classnpc__battle__at__valhalas.html#addd76fd9f4b4f8ce706693614b80966b":[6,0,1668,3],
-"d6/d2a/MapDefines_8h.html":[7,0,0,0,0,1,1,0],
-"d6/d2a/MapDefines_8h.html#a2c6994ea025f427f1485c1c7aaee01fe":[7,0,0,0,0,1,1,0,2]
+"d6/d29/classnpc__battle__at__valhalas.html#addd76fd9f4b4f8ce706693614b80966b":[6,0,1668,3]
 };

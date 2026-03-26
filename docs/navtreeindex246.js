@@ -1,11 +1,5 @@
 var NAVTREEINDEX246 =
 {
-"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09aa0cc09263e211b927f27729048870ddd":[7,0,0,0,1,2,24,3,18,12],
-"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09aa5c06a447f44fd77502fdd223c43b8a3":[7,0,0,0,1,2,24,3,18,6],
-"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09ad9797ce8bbde2394425000ce74e8b19d":[7,0,0,0,1,2,24,3,18,11],
-"d9/d84/LootMgr_8h.html#ab7512a72e6d0efa31dcc083eecea5a09addff70df944727fb7954fdefb27cf552":[7,0,0,0,1,2,24,3,18,5],
-"d9/d84/LootMgr_8h.html#abf507a0fbd8ed984100b16e0b9aa20e7":[7,0,0,0,1,2,24,3,12],
-"d9/d84/LootMgr_8h.html#ac7f789f6da959300694693d249113e9f":[7,0,0,0,1,2,24,3,39],
 "d9/d84/LootMgr_8h.html#ac9e46e174fc099adcec7130517afc524":[7,0,0,0,1,2,24,3,14],
 "d9/d84/LootMgr_8h.html#ace36a12afd7b338b0b935b6a824c1bbe":[7,0,0,0,1,2,24,3,53],
 "d9/d84/LootMgr_8h.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9":[7,0,0,0,1,2,24,3,21],
@@ -56,11 +50,11 @@ var NAVTREEINDEX246 =
 "d9/d85/structboss__algalon__the__observer.html#a9523f5eb6a9465f8ffcd7c8abf2c6c87":[6,0,383,17],
 "d9/d85/structboss__algalon__the__observer.html#a969adb280ab53ffec6d7b3f3fa1cb2cc":[6,0,383,12],
 "d9/d85/structboss__algalon__the__observer.html#a9976bad2fdff356ae3739a90a9761798":[6,0,383,6],
-"d9/d85/structboss__algalon__the__observer.html#a9ef8dd385a1f53068ba3eaa1da448b09":[6,0,383,23],
 "d9/d85/structboss__algalon__the__observer.html#aa1a53d920464a31a22612e5463187da0":[6,0,383,13],
-"d9/d85/structboss__algalon__the__observer.html#aa291c5d670ba6e69fa7c6cf4cf899e41":[6,0,383,21],
+"d9/d85/structboss__algalon__the__observer.html#aa291c5d670ba6e69fa7c6cf4cf899e41":[6,0,383,22],
 "d9/d85/structboss__algalon__the__observer.html#ab9deffb6af78a88e000b206632e801f9":[6,0,383,4],
 "d9/d85/structboss__algalon__the__observer.html#abbd0be74c681da6606d79a1b6a210ffa":[6,0,383,3],
+"d9/d85/structboss__algalon__the__observer.html#abd66b84088263188a45f62a0ca285e22":[6,0,383,21],
 "d9/d85/structboss__algalon__the__observer.html#aca6ba41d820682a7af80d5f6e492bd80":[6,0,383,14],
 "d9/d85/structboss__algalon__the__observer.html#ace0156d62013cf93afb9eda7ce511570":[6,0,383,20],
 "d9/d85/structboss__algalon__the__observer.html#ad2bdc1d3cd5fbbda4cf0c504b6c024b7":[6,0,383,15],
@@ -68,7 +62,7 @@ var NAVTREEINDEX246 =
 "d9/d85/structboss__algalon__the__observer.html#ad5851cc0f7fc5a7dcfd9986b6b26579a":[6,0,383,2],
 "d9/d85/structboss__algalon__the__observer.html#ae1f987efb9b167719520ff9e560da568":[6,0,383,8],
 "d9/d85/structboss__algalon__the__observer.html#ae8b810a6495b7c2fb8bba59252655b76":[6,0,383,7],
-"d9/d85/structboss__algalon__the__observer.html#aed6084e6c8f289905675d0c908653855":[6,0,383,22],
+"d9/d85/structboss__algalon__the__observer.html#aed6084e6c8f289905675d0c908653855":[6,0,383,23],
 "d9/d85/structboss__algalon__the__observer.html#af61dc178b3c0f5757d5dfce067b5d07f":[6,0,383,1],
 "d9/d85/structboss__algalon__the__observer.html#afff79a02e3ac0a6755e071589d3616e9":[6,0,383,19],
 "d9/d85/structnpc__paoka__swiftmountain_1_1npc__paoka__swiftmountainAI.html":[6,0,2032,0],
@@ -249,5 +243,11 @@ var NAVTREEINDEX246 =
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caf72b4293cee71bba7611981892241f57":[7,0,0,0,1,3,2,4,10,10,5],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#a5bd342133be8c2137b831460acc9298caff9621704258262228dc3a9943a6056f":[7,0,0,0,1,3,2,4,10,10,2],
 "d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fb":[7,0,0,0,1,3,2,4,10,11],
-"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,10,11,1]
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,2,4,10,11,1],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fba579e6c58ffcd03b92b428ca3ae9e71ad":[7,0,0,0,1,3,2,4,10,11,0],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#ab54cabecd48a4eb41ddb3c17c26eb6fbacebbfa1f13b8de4f039f5d550063c7bf":[7,0,0,0,1,3,2,4,10,11,2],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,2,4,10,9],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a182d706f8884d7b8976aa5e93dca45df":[7,0,0,0,1,3,2,4,10,9,1],
+"d9/d8c/boss__tenris__mirkblood_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4ae8ab9d485dfa9b53bbfbb4b595eed2":[7,0,0,0,1,3,2,4,10,9,0],
+"d9/d8c/classinstance__shadow__labyrinth.html":[6,0,1358]
 };

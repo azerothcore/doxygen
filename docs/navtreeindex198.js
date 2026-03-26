@@ -1,5 +1,7 @@
 var NAVTREEINDEX198 =
 {
+"d7/d73/structItemTemplateVisitor.html#a3042bf741c31893eb607817093239f1a":[6,0,1420,1],
+"d7/d73/structItemTemplateVisitor.html#a83fddb5675f63d4535fac9e62cf9638d":[6,0,1420,2],
 "d7/d73/structItemTemplateVisitor.html#aa9f15f4c6028776b59bf56cbd63587d9":[6,0,1420,0],
 "d7/d74/structnpc__idol__room__spawner_1_1npc__idol__room__spawnerAI.html":[6,0,1906,0],
 "d7/d74/structnpc__idol__room__spawner_1_1npc__idol__room__spawnerAI.html#a77c4aa88d213271166158c8e75d41a69":[6,0,1906,0,0],
@@ -48,10 +50,10 @@ var NAVTREEINDEX198 =
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[6,0,0,57,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,1,69,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[6,0,0,57,4],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,57,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,69,5],
-"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[6,0,0,57,0],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[6,0,0,57,5],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[5,0,1,69,0],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a9f478f784f46fa502910f621f10238f2":[6,0,0,57,0],
 "d7/d78/classnpc__plucky.html":[6,0,2067],
 "d7/d78/classnpc__plucky.html#a3443f3e8c2b3fcc96955ab2e55e7fd61":[6,0,2067,3],
 "d7/d78/classnpc__plucky.html#a51e73f4e1f618aee5a000e31328efefc":[6,0,2067,2],
@@ -82,8 +84,8 @@ var NAVTREEINDEX198 =
 "d7/d7d/classnpc__pet__trainer.html#ac2279bce52e911b1c339da5e68aa2501":[6,0,2060,1],
 "d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,41],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,41,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,34,3,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,12,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5bd342133be8c2137b831460acc9298caefc5f218ab9a404b2aab3af0a7d7c29f":[7,0,0,0,1,3,2,10,1,4,1],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219":[7,0,0,0,1,3,2,10,1,3],
 "d7/d85/boss__jarien__and__sothos_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a2fd171d98f13f3d0942bc91fcffd8a47":[7,0,0,0,1,3,2,10,1,3,1],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a6b34ef8295e09ac556868d560a98812c":[7,0,0,0,1,3,2,10,1,3,0],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,2,10,1,5],
-"d7/d85/boss__jarien__and__sothos_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a19f3016295ec2fea1bae9ac24a6ca085":[7,0,0,0,1,3,2,10,1,5,5]
+"d7/d85/boss__jarien__and__sothos_8cpp.html#a5d32d09cde4f13ec4fb05a824d3e3219a6b34ef8295e09ac556868d560a98812c":[7,0,0,0,1,3,2,10,1,3,0]
 };

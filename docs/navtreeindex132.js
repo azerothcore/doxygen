@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69a46a69b6550e6d7d5434d68f872f61724":[7,0,0,0,1,3,5,2,1,1,57,2],
 "d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69a4babf6b9898c8bb9e95b6ee365ee2225":[7,0,0,0,1,3,5,2,1,1,57,6],
 "d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69a6dda0d3a1ea7d31fb7ac9112df394a4b":[7,0,0,0,1,3,5,2,1,1,57,0],
 "d4/d81/boss__faction__champions_8cpp.html#a1a5966f2f882efcc94dc2e4350233e69a730e349ed06685cbf43821e78b1a080e":[7,0,0,0,1,3,5,2,1,1,57,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "d4/d81/classspell__yogg__saron__insane__aura.html#a5fb0837417b915676549370cc76c477d":[6,0,4371,1],
 "d4/d81/classspell__yogg__saron__insane__aura.html#a7f1844fded6ad112cc99d33f52e0799c":[6,0,4371,2],
 "d4/d81/structTransportAnimationEntry.html":[6,0,4525],
-"d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[6,0,4525,3],
-"d4/d81/structTransportAnimationEntry.html#a680689c57479a2cc1ec72ab97204d3e7":[6,0,4525,4]
+"d4/d81/structTransportAnimationEntry.html#a67c279b26cebd8e5c81c36576b145af6":[6,0,4525,3]
 };

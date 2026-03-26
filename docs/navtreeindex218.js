@@ -1,11 +1,5 @@
 var NAVTREEINDEX218 =
 {
-"d8/d36/classspell__dk__death__strike.html":[6,0,2813],
-"d8/d36/classspell__dk__death__strike.html#a2fe4b009fa3741c180e18730af5853e3":[6,0,2813,1],
-"d8/d36/classspell__dk__death__strike.html#a42fbc381d7ae89f1ac265fb15ebd864f":[6,0,2813,3],
-"d8/d36/classspell__dk__death__strike.html#a54f7f56a9122b623855eb9d11e34dfca":[6,0,2813,0],
-"d8/d36/classspell__dk__death__strike.html#a762c2320ab8d48e1284d81962a4b078f":[6,0,2813,2],
-"d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html":[6,0,2132,0],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a0d2649de651279fa6bbe3ae2f18571bb":[6,0,2132,0,5],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a14523a24042d23efbafc7924f394dd04":[6,0,2132,0,3],
 "d8/d36/structnpc__shadowmoon__tuber__node_1_1npc__shadowmoon__tuber__nodeAI.html#a2deaa1aeed26b862e93055d90c9139d6":[6,0,2132,0,7],
@@ -249,5 +243,11 @@ var NAVTREEINDEX218 =
 "d8/d3e/classEscortMovementGenerator.html#a61d74b098d1ae692ce305fa493aaa6d2":[6,0,1048,6],
 "d8/d3e/classEscortMovementGenerator.html#a91a6caae81e7715fdcf4c7134f88bc0b":[6,0,1048,0],
 "d8/d3e/classEscortMovementGenerator.html#a9f7048c5e49cc09f809496312a0c6550":[6,0,1048,10],
-"d8/d3e/classEscortMovementGenerator.html#ac4934d70ab62e08488cfc29c13355a7f":[6,0,1048,3]
+"d8/d3e/classEscortMovementGenerator.html#ac4934d70ab62e08488cfc29c13355a7f":[6,0,1048,3],
+"d8/d3e/classEscortMovementGenerator.html#ad068798c6e186c1eb1a79f3872955e97":[6,0,1048,2],
+"d8/d3e/classEscortMovementGenerator.html#af6286fa4ed6afcc8a6c5f03575c774e6":[6,0,1048,9],
+"d8/d3e/classspell__dru__glyph__of__rejuvenation.html":[6,0,2885],
+"d8/d3e/classspell__dru__glyph__of__rejuvenation.html#a23746c343ca01160b73822e3457514d5":[6,0,2885,1],
+"d8/d3e/classspell__dru__glyph__of__rejuvenation.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0":[6,0,2885,2],
+"d8/d3e/classspell__dru__glyph__of__rejuvenation.html#a715de16d0510d8b2cbd9e281c3e3274a":[6,0,2885,4]
 };

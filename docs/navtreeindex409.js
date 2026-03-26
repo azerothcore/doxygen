@@ -1,5 +1,7 @@
 var NAVTREEINDEX409 =
 {
+"df/dd4/structBattlegroundScore.html#aeb6613d7343a9b356aebc63d1e1cb585":[6,0,351,23],
+"df/dd4/structBattlegroundScore.html#af9610e48d6fb67f06c008bdfe4333c21":[6,0,351,20],
 "df/dd5/spell__shaman_8cpp.html":[7,0,0,0,1,3,9,10],
 "df/dd5/spell__shaman_8cpp.html#a3082f46075e4e453c37bc429c9d57a1a":[7,0,0,0,1,3,9,10,61],
 "df/dd5/spell__shaman_8cpp.html#a6ad222c231a9194f1a898ad8e2279b9e":[7,0,0,0,1,3,9,10,58],
@@ -247,7 +249,5 @@ var NAVTREEINDEX409 =
 "df/dd9/classUnit.html#a1e69fbab577551800dadbd0611998572":[6,0,4549,565],
 "df/dd9/classUnit.html#a1ea5dd018a829cf7aae73fc7e72a6507":[6,0,4549,804],
 "df/dd9/classUnit.html#a1ed7bebb7769f200cc2625ae2a1988b0":[6,0,4549,160],
-"df/dd9/classUnit.html#a1ed9a17a4f9c74be7f57474434aa528b":[6,0,4549,949],
-"df/dd9/classUnit.html#a1f133c042285f311c455f73e7cdff3fb":[6,0,4549,465],
-"df/dd9/classUnit.html#a1f1c9408465967c12bfb01e7c4752956":[6,0,4549,600]
+"df/dd9/classUnit.html#a1ed9a17a4f9c74be7f57474434aa528b":[6,0,4549,949]
 };
