@@ -1145,7 +1145,7 @@ var searchData=
   ['npc_5fherald_5fof_5fthrall_1142',['NPC_HERALD_OF_THRALL',['../d4/d90/zone__orgrimmar_8cpp.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc',1,'zone_orgrimmar.cpp']]],
   ['npc_5fherald_5fvolazj_1143',['NPC_HERALD_VOLAZJ',['../da/dfd/ahnkahet_8h.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85',1,'ahnkahet.h']]],
   ['npc_5fhexlord_1144',['NPC_HEXLORD',['../d9/d98/zulaman_8h.html#a92f6fd626e1834a4cc509efc1186963eac84820d025b516898e6afcbd23db2254',1,'zulaman.h']]],
-  ['npc_5fhideous_5fplagebringer_1145',['NPC_HIDEOUS_PLAGEBRINGER',['../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a26034173423f784199af35484b89f487',1,'zone_icecrown.cpp']]],
+  ['npc_5fhideous_5fplaguebringer_1145',['NPC_HIDEOUS_PLAGUEBRINGER',['../d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832adc0787e8afeaad526c32c8b5c8829634',1,'zone_icecrown.cpp']]],
   ['npc_5fhigh_5fbotanist_5ffreywinn_1146',['NPC_HIGH_BOTANIST_FREYWINN',['../dc/d56/the__botanica_8h.html#a92f6fd626e1834a4cc509efc1186963eabbe4a4f3f4a1a960e58ceb98907f22dd',1,'the_botanica.h']]],
   ['npc_5fhigh_5fcaptain_5fjustin_5fbarlett_1147',['NPC_HIGH_CAPTAIN_JUSTIN_BARLETT',['../d4/d1e/halls__of__reflection_8h.html#a25a619e6b66096a4f05d048e4a96df08a209992f40cdaed7ac1002b4cdf42eded',1,'halls_of_reflection.h']]],
   ['npc_5fhigh_5fcaptain_5fjustin_5fbartlett_1148',['NPC_HIGH_CAPTAIN_JUSTIN_BARTLETT',['../d9/d6a/icecrown__citadel_8h.html#a23860b8d9499fb400f8921261b19efd2a0a604427edce6013235e751ead6f9af0',1,'icecrown_citadel.h']]],

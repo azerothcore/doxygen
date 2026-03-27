@@ -2017,6 +2017,7 @@ var annotated_dup =
     [ "M2SplineKey", "d6/dac/structM2SplineKey.html", "d6/dac/structM2SplineKey" ],
     [ "M2Track", "dd/d83/structM2Track.html", "dd/d83/structM2Track" ],
     [ "Mail", "d0/d12/structMail.html", "d0/d12/structMail" ],
+    [ "mail_commandscript", "dd/d8c/classmail__commandscript.html", "dd/d8c/classmail__commandscript" ],
     [ "MailDraft", "d0/de9/classMailDraft.html", "d0/de9/classMailDraft" ],
     [ "MailItemInfo", "d0/d3b/structMailItemInfo.html", "d0/d3b/structMailItemInfo" ],
     [ "MailLevelReward", "df/d10/structMailLevelReward.html", "df/d10/structMailLevelReward" ],

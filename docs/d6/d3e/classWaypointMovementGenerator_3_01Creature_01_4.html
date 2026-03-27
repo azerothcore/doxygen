@@ -528,126 +528,127 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
-<div class="line"><span class="lineno">  349</span>    <span class="keywordflow">if</span> (!creature || !creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  350</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  351</span> </div>
-<div class="line"><span class="lineno">  352</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a> || !<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a> || <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.empty())</div>
-<div class="line"><span class="lineno">  353</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  354</span> </div>
-<div class="line"><span class="lineno">  355</span>    <span class="comment">// Stop movement if paused, rooted, or casting</span></div>
-<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">IsAllowedToMove</a>(creature) &amp;&amp; !creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
-<div class="line"><span class="lineno">  357</span>    {</div>
-<div class="line"><span class="lineno">  358</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  359</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a> = 0;</div>
-<div class="line"><span class="lineno">  360</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  361</span>    }</div>
-<div class="line"><span class="lineno">  362</span> </div>
-<div class="line"><span class="lineno">  363</span>    <span class="comment">// Set home position to current position.</span></div>
-<div class="line"><span class="lineno">  364</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
-<div class="line"><span class="lineno">  365</span>    {</div>
-<div class="line"><span class="lineno">  366</span>        <span class="keywordtype">bool</span> transportPath = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>) &amp;&amp; creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab38bf07f849039068d02971f5e006d29">GetTransGUID</a>();</div>
-<div class="line"><span class="lineno">  367</span>        <span class="keywordflow">if</span> (!transportPath)</div>
-<div class="line"><span class="lineno">  368</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>());</div>
-<div class="line"><span class="lineno">  369</span>    }</div>
-<div class="line"><span class="lineno">  370</span> </div>
-<div class="line"><span class="lineno">  371</span>    <span class="comment">// Smooth spline: track waypoint passages without rebuilding</span></div>
-<div class="line"><span class="lineno">  372</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> &amp;&amp; creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>() == <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a>)</div>
-<div class="line"><span class="lineno">  373</span>    {</div>
-<div class="line"><span class="lineno">  374</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> currentIdx = creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a76e1f096005cddf6d43fea86b4bd4a88">currentPathIdx</a>();</div>
+<div class="fragment"><div class="line"><span class="lineno">  353</span>{</div>
+<div class="line"><span class="lineno">  354</span>    <span class="keywordflow">if</span> (!creature || !creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  356</span> </div>
+<div class="line"><span class="lineno">  357</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a> || !<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a> || <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.empty())</div>
+<div class="line"><span class="lineno">  358</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  359</span> </div>
+<div class="line"><span class="lineno">  360</span>    <span class="comment">// Stop movement if paused, rooted, or casting</span></div>
+<div class="line"><span class="lineno">  361</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">IsAllowedToMove</a>(creature) &amp;&amp; !creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
+<div class="line"><span class="lineno">  362</span>    {</div>
+<div class="line"><span class="lineno">  363</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno">  364</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a> = 0;</div>
+<div class="line"><span class="lineno">  365</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  366</span>    }</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>    <span class="comment">// Set home position to current position.</span></div>
+<div class="line"><span class="lineno">  369</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
+<div class="line"><span class="lineno">  370</span>    {</div>
+<div class="line"><span class="lineno">  371</span>        <span class="keywordtype">bool</span> transportPath = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>) &amp;&amp; creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab38bf07f849039068d02971f5e006d29">GetTransGUID</a>();</div>
+<div class="line"><span class="lineno">  372</span>        <span class="keywordflow">if</span> (!transportPath)</div>
+<div class="line"><span class="lineno">  373</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>());</div>
+<div class="line"><span class="lineno">  374</span>    }</div>
 <div class="line"><span class="lineno">  375</span> </div>
-<div class="line"><span class="lineno">  376</span>        <span class="comment">// Process passed waypoints</span></div>
-<div class="line"><span class="lineno">  377</span>        <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab38d9221836ec1c2e2d0999b4504fe77">_lastPassedSplineIdx</a> &lt; currentIdx)</div>
-<div class="line"><span class="lineno">  378</span>        {</div>
-<div class="line"><span class="lineno">  379</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab38d9221836ec1c2e2d0999b4504fe77">_lastPassedSplineIdx</a>++;</div>
-<div class="line"><span class="lineno">  380</span>            <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; passedWp = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  381</span> </div>
-<div class="line"><span class="lineno">  382</span>            <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#a2cfd2302ba925854b6edc6af49bcb40a">UpdateHomePosition</a>(creature, passedWp);</div>
-<div class="line"><span class="lineno">  383</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a5a9647db81a56085f4540249d203ecc2">UpdateWaypointID</a>(passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>);</div>
-<div class="line"><span class="lineno">  384</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  385</span> </div>
-<div class="line"><span class="lineno">  386</span>            <span class="keywordflow">if</span> (passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a> &amp;&amp; <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 99) &lt; passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a>)</div>
-<div class="line"><span class="lineno">  387</span>            {</div>
-<div class="line"><span class="lineno">  388</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
-<div class="line"><span class="lineno">  389</span>                creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a0fe34e1ebcf27ed7b47a29341720cbc4">ScriptsStart</a>(<a class="code hl_variable" href="../../d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1">sWaypointScripts</a>, passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a>, creature, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  390</span>            }</div>
-<div class="line"><span class="lineno">  391</span> </div>
-<div class="line"><span class="lineno">  392</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  393</span>            {</div>
-<div class="line"><span class="lineno">  394</span>                AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  395</span>                AI-&gt;WaypointReached(passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  396</span>            }</div>
-<div class="line"><span class="lineno">  397</span> </div>
-<div class="line"><span class="lineno">  398</span>            <span class="comment">// Advance node</span></div>
-<div class="line"><span class="lineno">  399</span>            <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + 1) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
-<div class="line"><span class="lineno">  400</span> </div>
-<div class="line"><span class="lineno">  401</span>            <span class="comment">// If this waypoint has a delay, stop the spline and pause</span></div>
-<div class="line"><span class="lineno">  402</span>            <span class="keywordflow">if</span> (passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  403</span>            {</div>
-<div class="line"><span class="lineno">  404</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  405</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
-<div class="line"><span class="lineno">  406</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> = passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a>;</div>
-<div class="line"><span class="lineno">  407</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  408</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  409</span>                <span class="keywordflow">if</span> (passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>.has_value())</div>
-<div class="line"><span class="lineno">  410</span>                    creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(*passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>);</div>
-<div class="line"><span class="lineno">  411</span> </div>
-<div class="line"><span class="lineno">  412</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  413</span>            }</div>
-<div class="line"><span class="lineno">  414</span>        }</div>
-<div class="line"><span class="lineno">  415</span> </div>
-<div class="line"><span class="lineno">  416</span>        <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
-<div class="line"><span class="lineno">  417</span>        {</div>
-<div class="line"><span class="lineno">  418</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aaf8c25b3cd8b77dba7212b0ab3a65791">_repeating</a>)</div>
-<div class="line"><span class="lineno">  419</span>            {</div>
-<div class="line"><span class="lineno">  420</span>                <span class="comment">// Path ended</span></div>
-<div class="line"><span class="lineno">  421</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  422</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  423</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(0, 0);</div>
-<div class="line"><span class="lineno">  424</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  425</span>                {</div>
-<div class="line"><span class="lineno">  426</span>                    AI-&gt;PathEndReached(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  427</span>                    AI-&gt;WaypointPathEnded(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>).Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  428</span>                }</div>
-<div class="line"><span class="lineno">  429</span>            }</div>
-<div class="line"><span class="lineno">  430</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  431</span>            {</div>
-<div class="line"><span class="lineno">  432</span>                <span class="comment">// Repeating: rebuild spline</span></div>
-<div class="line"><span class="lineno">  433</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  434</span>                <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab56245ad28794cd2f3aa696031f7f072">StartMove</a>(creature);</div>
+<div class="line"><span class="lineno">  376</span>    <span class="comment">// Smooth spline: track waypoint passages without rebuilding</span></div>
+<div class="line"><span class="lineno">  377</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> &amp;&amp; creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>() == <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a>)</div>
+<div class="line"><span class="lineno">  378</span>    {</div>
+<div class="line"><span class="lineno">  379</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> currentIdx = creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a76e1f096005cddf6d43fea86b4bd4a88">currentPathIdx</a>();</div>
+<div class="line"><span class="lineno">  380</span> </div>
+<div class="line"><span class="lineno">  381</span>        <span class="comment">// Process passed waypoints</span></div>
+<div class="line"><span class="lineno">  382</span>        <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab38d9221836ec1c2e2d0999b4504fe77">_lastPassedSplineIdx</a> &lt; currentIdx)</div>
+<div class="line"><span class="lineno">  383</span>        {</div>
+<div class="line"><span class="lineno">  384</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab38d9221836ec1c2e2d0999b4504fe77">_lastPassedSplineIdx</a>++;</div>
+<div class="line"><span class="lineno">  385</span>            <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; passedWp = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
+<div class="line"><span class="lineno">  386</span> </div>
+<div class="line"><span class="lineno">  387</span>            <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#a2cfd2302ba925854b6edc6af49bcb40a">UpdateHomePosition</a>(creature, passedWp);</div>
+<div class="line"><span class="lineno">  388</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a5a9647db81a56085f4540249d203ecc2">UpdateWaypointID</a>(passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>);</div>
+<div class="line"><span class="lineno">  389</span>            creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  390</span> </div>
+<div class="line"><span class="lineno">  391</span>            <span class="keywordflow">if</span> (passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a> &amp;&amp; <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 99) &lt; passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a>)</div>
+<div class="line"><span class="lineno">  392</span>            {</div>
+<div class="line"><span class="lineno">  393</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  394</span>                creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a0fe34e1ebcf27ed7b47a29341720cbc4">ScriptsStart</a>(<a class="code hl_variable" href="../../d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1">sWaypointScripts</a>, passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a>, creature, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  395</span>            }</div>
+<div class="line"><span class="lineno">  396</span> </div>
+<div class="line"><span class="lineno">  397</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  398</span>            {</div>
+<div class="line"><span class="lineno">  399</span>                AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>);</div>
+<div class="line"><span class="lineno">  400</span>                AI-&gt;WaypointReached(passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  401</span>            }</div>
+<div class="line"><span class="lineno">  402</span> </div>
+<div class="line"><span class="lineno">  403</span>            <span class="comment">// Advance node</span></div>
+<div class="line"><span class="lineno">  404</span>            <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + 1) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
+<div class="line"><span class="lineno">  405</span> </div>
+<div class="line"><span class="lineno">  406</span>            <span class="comment">// If this waypoint has a delay, stop the spline and pause</span></div>
+<div class="line"><span class="lineno">  407</span>            <span class="keywordflow">if</span> (passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  408</span>            {</div>
+<div class="line"><span class="lineno">  409</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno">  410</span>                creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  411</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> = passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a>;</div>
+<div class="line"><span class="lineno">  412</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  413</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  414</span>                <span class="keywordflow">if</span> (passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>.has_value())</div>
+<div class="line"><span class="lineno">  415</span>                    creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(*passedWp.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>);</div>
+<div class="line"><span class="lineno">  416</span> </div>
+<div class="line"><span class="lineno">  417</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  418</span>            }</div>
+<div class="line"><span class="lineno">  419</span>        }</div>
+<div class="line"><span class="lineno">  420</span> </div>
+<div class="line"><span class="lineno">  421</span>        <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
+<div class="line"><span class="lineno">  422</span>        {</div>
+<div class="line"><span class="lineno">  423</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aaf8c25b3cd8b77dba7212b0ab3a65791">_repeating</a>)</div>
+<div class="line"><span class="lineno">  424</span>            {</div>
+<div class="line"><span class="lineno">  425</span>                <span class="comment">// Path ended</span></div>
+<div class="line"><span class="lineno">  426</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  427</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  428</span>                creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(0, 0);</div>
+<div class="line"><span class="lineno">  429</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  430</span>                    AI-&gt;PathEndReached(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  431</span> </div>
+<div class="line"><span class="lineno">  432</span>                <span class="comment">// Re-fetch AI — PathEndReached may have despawned the creature or swapped its AI</span></div>
+<div class="line"><span class="lineno">  433</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  434</span>                    AI-&gt;WaypointPathEnded(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>).Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
 <div class="line"><span class="lineno">  435</span>            }</div>
-<div class="line"><span class="lineno">  436</span>        }</div>
-<div class="line"><span class="lineno">  437</span> </div>
-<div class="line"><span class="lineno">  438</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  439</span>    }</div>
-<div class="line"><span class="lineno">  440</span> </div>
-<div class="line"><span class="lineno">  441</span>    <span class="comment">// Non-smooth: per-waypoint logic</span></div>
-<div class="line"><span class="lineno">  442</span>    <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; waypoint = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  443</span>    <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc">UpdateWaypointState</a>(creature, waypoint);</div>
-<div class="line"><span class="lineno">  444</span> </div>
-<div class="line"><span class="lineno">  445</span>    <span class="comment">// Process movement preventing timers</span></div>
-<div class="line"><span class="lineno">  446</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  447</span>    {</div>
-<div class="line"><span class="lineno">  448</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> -= diff;</div>
-<div class="line"><span class="lineno">  449</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  450</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  451</span>    }</div>
-<div class="line"><span class="lineno">  452</span> </div>
-<div class="line"><span class="lineno">  453</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a>.has_value())</div>
-<div class="line"><span class="lineno">  454</span>    {</div>
-<div class="line"><span class="lineno">  455</span>        *<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> -= diff;</div>
-<div class="line"><span class="lineno">  456</span>        <span class="keywordflow">if</span> (*<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  457</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  458</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  459</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a>.reset();</div>
-<div class="line"><span class="lineno">  460</span>    }</div>
-<div class="line"><span class="lineno">  461</span> </div>
-<div class="line"><span class="lineno">  462</span>    <span class="comment">// Timers are ready, let&#39;s try to move</span></div>
-<div class="line"><span class="lineno">  463</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">IsAllowedToMove</a>(creature) &amp;&amp; (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059">_recalculateSpeed</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a>))</div>
-<div class="line"><span class="lineno">  464</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab56245ad28794cd2f3aa696031f7f072">StartMove</a>(creature, <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059">_recalculateSpeed</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a>);</div>
-<div class="line"><span class="lineno">  465</span> </div>
-<div class="line"><span class="lineno">  466</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  467</span>}</div>
+<div class="line"><span class="lineno">  436</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  437</span>            {</div>
+<div class="line"><span class="lineno">  438</span>                <span class="comment">// Repeating: rebuild spline</span></div>
+<div class="line"><span class="lineno">  439</span>                <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  440</span>                <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab56245ad28794cd2f3aa696031f7f072">StartMove</a>(creature);</div>
+<div class="line"><span class="lineno">  441</span>            }</div>
+<div class="line"><span class="lineno">  442</span>        }</div>
+<div class="line"><span class="lineno">  443</span> </div>
+<div class="line"><span class="lineno">  444</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  445</span>    }</div>
+<div class="line"><span class="lineno">  446</span> </div>
+<div class="line"><span class="lineno">  447</span>    <span class="comment">// Non-smooth: per-waypoint logic</span></div>
+<div class="line"><span class="lineno">  448</span>    <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; waypoint = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
+<div class="line"><span class="lineno">  449</span>    <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc">UpdateWaypointState</a>(creature, waypoint);</div>
+<div class="line"><span class="lineno">  450</span> </div>
+<div class="line"><span class="lineno">  451</span>    <span class="comment">// Process movement preventing timers</span></div>
+<div class="line"><span class="lineno">  452</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  453</span>    {</div>
+<div class="line"><span class="lineno">  454</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> -= diff;</div>
+<div class="line"><span class="lineno">  455</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  456</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  457</span>    }</div>
+<div class="line"><span class="lineno">  458</span> </div>
+<div class="line"><span class="lineno">  459</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a>.has_value())</div>
+<div class="line"><span class="lineno">  460</span>    {</div>
+<div class="line"><span class="lineno">  461</span>        *<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> -= diff;</div>
+<div class="line"><span class="lineno">  462</span>        <span class="keywordflow">if</span> (*<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  463</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  464</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  465</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a>.reset();</div>
+<div class="line"><span class="lineno">  466</span>    }</div>
+<div class="line"><span class="lineno">  467</span> </div>
+<div class="line"><span class="lineno">  468</span>    <span class="comment">// Timers are ready, let&#39;s try to move</span></div>
+<div class="line"><span class="lineno">  469</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">IsAllowedToMove</a>(creature) &amp;&amp; (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059">_recalculateSpeed</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a>))</div>
+<div class="line"><span class="lineno">  470</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab56245ad28794cd2f3aa696031f7f072">StartMove</a>(creature, <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059">_recalculateSpeed</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a>);</div>
+<div class="line"><span class="lineno">  471</span> </div>
+<div class="line"><span class="lineno">  472</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  473</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition</b> Define.h:103</div></div>
 <div class="ttc" id="aMotionMaster_8h_html_a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a></div><div class="ttdeci">@ WAYPOINT_MOTION_TYPE</div><div class="ttdef"><b>Definition</b> MotionMaster.h:41</div></div>
 <div class="ttc" id="aObjectMgr_8cpp_html_ad3bd41d0f54f2baa59f94e7fb1b426d1"><div class="ttname"><a href="../../d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1">sWaypointScripts</a></div><div class="ttdeci">ScriptMapMap sWaypointScripts</div><div class="ttdef"><b>Definition</b> ObjectMgr.cpp:62</div></div>
@@ -666,9 +667,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassUnit_html_a924b296aeb24186da0b821b8b47bb712"><div class="ttname"><a href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">Unit::HasUnitMovementFlag</a></div><div class="ttdeci">bool HasUnitMovementFlag(uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:774</div></div>
 <div class="ttc" id="aclassUnit_html_ab38bf07f849039068d02971f5e006d29"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab38bf07f849039068d02971f5e006d29">Unit::GetTransGUID</a></div><div class="ttdeci">ObjectGuid GetTransGUID() const override</div><div class="ttdef"><b>Definition</b> Unit.cpp:14981</div></div>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a23f5561cba5a57f4286abf44e250a8e6"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">WaypointMovementGenerator&lt; Creature &gt;::_pauseTime</a></div><div class="ttdeci">std::optional&lt; int32 &gt; _pauseTime</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.h:82</div></div>
-<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a2624db9623fbe5cd6a5991d502b429bc"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc">WaypointMovementGenerator&lt; Creature &gt;::UpdateWaypointState</a></div><div class="ttdeci">void UpdateWaypointState(Creature *, WaypointNode const &amp;)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:513</div></div>
-<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a36b49616bca7be96ba1a8b60fe38ef79"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">WaypointMovementGenerator&lt; Creature &gt;::IsAllowedToMove</a></div><div class="ttdeci">bool IsAllowedToMove(Creature *) const</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:499</div></div>
-<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_ab56245ad28794cd2f3aa696031f7f072"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab56245ad28794cd2f3aa696031f7f072">WaypointMovementGenerator&lt; Creature &gt;::StartMove</a></div><div class="ttdeci">void StartMove(Creature *, bool relaunch=false)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:199</div></div>
+<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a2624db9623fbe5cd6a5991d502b429bc"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2624db9623fbe5cd6a5991d502b429bc">WaypointMovementGenerator&lt; Creature &gt;::UpdateWaypointState</a></div><div class="ttdeci">void UpdateWaypointState(Creature *, WaypointNode const &amp;)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:519</div></div>
+<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a36b49616bca7be96ba1a8b60fe38ef79"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">WaypointMovementGenerator&lt; Creature &gt;::IsAllowedToMove</a></div><div class="ttdeci">bool IsAllowedToMove(Creature *) const</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:505</div></div>
+<div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_ab56245ad28794cd2f3aa696031f7f072"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab56245ad28794cd2f3aa696031f7f072">WaypointMovementGenerator&lt; Creature &gt;::StartMove</a></div><div class="ttdeci">void StartMove(Creature *, bool relaunch=false)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:204</div></div>
 <div class="ttc" id="aclassWorldObject_html_a1013c27be4347a1b1a4a986a07456deb"><div class="ttname"><a href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">WorldObject::GetMap</a></div><div class="ttdeci">Map * GetMap() const</div><div class="ttdef"><b>Definition</b> Object.h:625</div></div>
 <div class="ttc" id="astructPosition_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition</b> Position.h:126</div></div>
 <div class="ttc" id="astructWaypointNode_html"><div class="ttname"><a href="../../d7/d5c/structWaypointNode.html">WaypointNode</a></div><div class="ttdef"><b>Definition</b> WaypointDefines.h:37</div></div>
@@ -753,19 +754,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/d7d/classMovementGenerator.html#a60ac9e99f41d1f5c320441cf78b4b46a">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  485</span>{</div>
-<div class="line"><span class="lineno">  486</span>    <span class="comment">// prevent a crash at empty waypoint path.</span></div>
-<div class="line"><span class="lineno">  487</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a> || <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.empty())</div>
-<div class="line"><span class="lineno">  488</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  489</span> </div>
-<div class="line"><span class="lineno">  490</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(i_currentNode &lt; i_path-&gt;Nodes.size(), <span class="stringliteral">&quot;WaypointMovementGenerator::GetResetPos: tried to reference a node id ({}) which is not included in path ({})&quot;</span>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  491</span>    <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; waypoint = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  492</span> </div>
-<div class="line"><span class="lineno">  493</span>    x = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>;</div>
-<div class="line"><span class="lineno">  494</span>    y = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>;</div>
-<div class="line"><span class="lineno">  495</span>    z = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>;</div>
-<div class="line"><span class="lineno">  496</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  497</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  491</span>{</div>
+<div class="line"><span class="lineno">  492</span>    <span class="comment">// prevent a crash at empty waypoint path.</span></div>
+<div class="line"><span class="lineno">  493</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a> || <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.empty())</div>
+<div class="line"><span class="lineno">  494</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  495</span> </div>
+<div class="line"><span class="lineno">  496</span>    <a class="code hl_define" href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(i_currentNode &lt; i_path-&gt;Nodes.size(), <span class="stringliteral">&quot;WaypointMovementGenerator::GetResetPos: tried to reference a node id ({}) which is not included in path ({})&quot;</span>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  497</span>    <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; waypoint = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
+<div class="line"><span class="lineno">  498</span> </div>
+<div class="line"><span class="lineno">  499</span>    x = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>;</div>
+<div class="line"><span class="lineno">  500</span>    y = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>;</div>
+<div class="line"><span class="lineno">  501</span>    z = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>;</div>
+<div class="line"><span class="lineno">  502</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  503</span>}</div>
 <div class="ttc" id="aErrors_8h_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d2/d0e/Errors_8h.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition</b> Errors.h:68</div></div>
 <div class="ttc" id="astructWaypointNode_html_aa62bd26c57e5cfbe62de0eb2d63e4610"><div class="ttname"><a href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">WaypointNode::X</a></div><div class="ttdeci">float X</div><div class="ttdef"><b>Definition</b> WaypointDefines.h:48</div></div>
 <div class="ttc" id="astructWaypointNode_html_aab4756345912b48fd2f352464e24bc1a"><div class="ttname"><a href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">WaypointNode::Z</a></div><div class="ttdeci">float Z</div><div class="ttdef"><b>Definition</b> WaypointDefines.h:48</div></div>
@@ -798,18 +799,18 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  500</span>{</div>
-<div class="line"><span class="lineno">  501</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582">_stalled</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a>)</div>
-<div class="line"><span class="lineno">  502</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  503</span> </div>
-<div class="line"><span class="lineno">  504</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a>.has_value())</div>
-<div class="line"><span class="lineno">  505</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  506</span> </div>
-<div class="line"><span class="lineno">  507</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>) || creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23">IsMovementPreventedByCasting</a>())</div>
+<div class="fragment"><div class="line"><span class="lineno">  506</span>{</div>
+<div class="line"><span class="lineno">  507</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582">_stalled</a> || <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a>)</div>
 <div class="line"><span class="lineno">  508</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  509</span> </div>
-<div class="line"><span class="lineno">  510</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  511</span>}</div>
+<div class="line"><span class="lineno">  510</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a>.has_value())</div>
+<div class="line"><span class="lineno">  511</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  512</span> </div>
+<div class="line"><span class="lineno">  513</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a>) || creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23">IsMovementPreventedByCasting</a>())</div>
+<div class="line"><span class="lineno">  514</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  515</span> </div>
+<div class="line"><span class="lineno">  516</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  517</span>}</div>
 <div class="ttc" id="aUnitDefines_8h_html_ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545"><div class="ttname"><a href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a181f17e7c0d805f0fc82cff6c534b545">UNIT_STATE_NOT_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_NOT_MOVE</div><div class="ttdef"><b>Definition</b> UnitDefines.h:225</div></div>
 <div class="ttc" id="aclassCreature_html_af90aacd784c2059ec078510bd58bdb23"><div class="ttname"><a href="../../db/dd5/classCreature.html#af90aacd784c2059ec078510bd58bdb23">Creature::IsMovementPreventedByCasting</a></div><div class="ttdeci">bool IsMovementPreventedByCasting() const override</div><div class="ttdef"><b>Definition</b> Creature.cpp:3558</div></div>
 <div class="ttc" id="aclassUnit_html_ab78147cd520d2dac6be709b4c80a7de3"><div class="ttname"><a href="../../df/dd9/classUnit.html#ab78147cd520d2dac6be709b4c80a7de3">Unit::HasUnitState</a></div><div class="ttdeci">bool HasUnitState(const uint32 f) const</div><div class="ttdef"><b>Definition</b> Unit.h:736</div></div>
@@ -843,11 +844,11 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/d7d/classMovementGenerator.html#a37530e5cd743faecabd21eba08dce939">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  470</span>{</div>
-<div class="line"><span class="lineno">  471</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582">_stalled</a> = timer ? false : <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  472</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a> = !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a>;</div>
-<div class="line"><span class="lineno">  473</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> = timer;</div>
-<div class="line"><span class="lineno">  474</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  476</span>{</div>
+<div class="line"><span class="lineno">  477</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582">_stalled</a> = timer ? false : <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  478</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a> = !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a>;</div>
+<div class="line"><span class="lineno">  479</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> = timer;</div>
+<div class="line"><span class="lineno">  480</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -894,58 +895,63 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  143</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> = waypoint.Delay;</div>
 <div class="line"><span class="lineno">  144</span>    }</div>
 <div class="line"><span class="lineno">  145</span> </div>
-<div class="line"><span class="lineno">  146</span>    <span class="comment">// Check if the waypoint path has reached its end and may not repeat. Inform AI.</span></div>
-<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> == <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size() - 1) &amp;&amp; !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aaf8c25b3cd8b77dba7212b0ab3a65791">_repeating</a> &amp;&amp; !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a>)</div>
-<div class="line"><span class="lineno">  148</span>    {</div>
-<div class="line"><span class="lineno">  149</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  150</span>        creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(0, 0);</div>
+<div class="line"><span class="lineno">  146</span>    <span class="keywordtype">bool</span> pathEnded = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> == <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size() - 1) &amp;&amp; !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aaf8c25b3cd8b77dba7212b0ab3a65791">_repeating</a> &amp;&amp; !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a>;</div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">if</span> (pathEnded)</div>
+<div class="line"><span class="lineno">  148</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#afbed2e8b6baac625df369ed3942bcdec">_done</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#a2cfd2302ba925854b6edc6af49bcb40a">UpdateHomePosition</a>(creature, waypoint);</div>
 <div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  153</span>        {</div>
-<div class="line"><span class="lineno">  154</span>            AI-&gt;PathEndReached(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  155</span>            AI-&gt;WaypointPathEnded(waypoint.Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  156</span>        }</div>
-<div class="line"><span class="lineno">  157</span>    }</div>
-<div class="line"><span class="lineno">  158</span> </div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#a2cfd2302ba925854b6edc6af49bcb40a">UpdateHomePosition</a>(creature, waypoint);</div>
-<div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>    <span class="keywordflow">if</span> (waypoint.EventId &amp;&amp; <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 99) &lt; waypoint.EventChance)</div>
-<div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps.script&quot;</span>, <span class="stringliteral">&quot;Creature movement start script {} at point {} for {}.&quot;</span>,</div>
-<div class="line"><span class="lineno">  164</span>            waypoint.EventId, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>, creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
-<div class="line"><span class="lineno">  165</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
-<div class="line"><span class="lineno">  166</span>        creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a0fe34e1ebcf27ed7b47a29341720cbc4">ScriptsStart</a>(<a class="code hl_variable" href="../../d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1">sWaypointScripts</a>, waypoint.EventId, creature, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  167</span>    }</div>
-<div class="line"><span class="lineno">  168</span> </div>
-<div class="line"><span class="lineno">  169</span>    creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a5a9647db81a56085f4540249d203ecc2">UpdateWaypointID</a>(waypoint.Id);</div>
-<div class="line"><span class="lineno">  170</span>    creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(waypoint.Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  171</span> </div>
-<div class="line"><span class="lineno">  172</span>    <span class="comment">// Inform AI</span></div>
-<div class="line"><span class="lineno">  173</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  174</span>    {</div>
-<div class="line"><span class="lineno">  175</span>        AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  176</span>        AI-&gt;WaypointReached(waypoint.Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
-<div class="line"><span class="lineno">  177</span>    }</div>
-<div class="line"><span class="lineno">  178</span> </div>
-<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a7cdd398abd6ac328deb42529195e6add">GetCharmerOrOwner</a>())</div>
-<div class="line"><span class="lineno">  180</span>    {</div>
-<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/ddd/classUnitAI.html">UnitAI</a>* AI = owner-&gt;GetAI())</div>
-<div class="line"><span class="lineno">  182</span>            AI-&gt;SummonMovementInform(creature, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  183</span>    }</div>
-<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  185</span>    {</div>
-<div class="line"><span class="lineno">  186</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d88/classTempSummon.html">TempSummon</a>* tempSummon = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>())</div>
-<div class="line"><span class="lineno">  187</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner2 = tempSummon-&gt;GetSummonerUnit())</div>
-<div class="line"><span class="lineno">  188</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/ddd/classUnitAI.html">UnitAI</a>* AI = owner2-&gt;GetAI())</div>
-<div class="line"><span class="lineno">  189</span>                    AI-&gt;SummonMovementInform(creature, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  190</span>    }</div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">if</span> (waypoint.EventId &amp;&amp; <a class="code hl_function" href="../../d4/dde/Random_8cpp.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 99) &lt; waypoint.EventChance)</div>
+<div class="line"><span class="lineno">  153</span>    {</div>
+<div class="line"><span class="lineno">  154</span>        <a class="code hl_define" href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps.script&quot;</span>, <span class="stringliteral">&quot;Creature movement start script {} at point {} for {}.&quot;</span>,</div>
+<div class="line"><span class="lineno">  155</span>            waypoint.EventId, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>, creature-&gt;<a class="code hl_function" href="../../d8/d4b/classObject.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d0/d0a/classObjectGuid.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  156</span>        creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  157</span>        creature-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d7/db0/classMap.html#a0fe34e1ebcf27ed7b47a29341720cbc4">ScriptsStart</a>(<a class="code hl_variable" href="../../d8/dd8/ObjectMgr_8cpp.html#ad3bd41d0f54f2baa59f94e7fb1b426d1">sWaypointScripts</a>, waypoint.EventId, creature, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  158</span>    }</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>    creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a5a9647db81a56085f4540249d203ecc2">UpdateWaypointID</a>(waypoint.Id);</div>
+<div class="line"><span class="lineno">  161</span>    creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(waypoint.Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    <span class="comment">// Inform AI</span></div>
+<div class="line"><span class="lineno">  164</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  165</span>    {</div>
+<div class="line"><span class="lineno">  166</span>        AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, waypoint.Id);</div>
+<div class="line"><span class="lineno">  167</span>        AI-&gt;WaypointReached(waypoint.Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  168</span>    }</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a7cdd398abd6ac328deb42529195e6add">GetCharmerOrOwner</a>())</div>
+<div class="line"><span class="lineno">  171</span>    {</div>
+<div class="line"><span class="lineno">  172</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/ddd/classUnitAI.html">UnitAI</a>* AI = owner-&gt;GetAI())</div>
+<div class="line"><span class="lineno">  173</span>            AI-&gt;SummonMovementInform(creature, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, waypoint.Id);</div>
+<div class="line"><span class="lineno">  174</span>    }</div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  176</span>    {</div>
+<div class="line"><span class="lineno">  177</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d88/classTempSummon.html">TempSummon</a>* tempSummon = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>())</div>
+<div class="line"><span class="lineno">  178</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>* owner2 = tempSummon-&gt;GetSummonerUnit())</div>
+<div class="line"><span class="lineno">  179</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/ddd/classUnitAI.html">UnitAI</a>* AI = owner2-&gt;GetAI())</div>
+<div class="line"><span class="lineno">  180</span>                    AI-&gt;SummonMovementInform(creature, <a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9">WAYPOINT_MOTION_TYPE</a>, waypoint.Id);</div>
+<div class="line"><span class="lineno">  181</span>    }</div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>    <span class="comment">// Path end notifications fire after WaypointReached so that m_path_id</span></div>
+<div class="line"><span class="lineno">  184</span>    <span class="comment">// is still valid when SmartAI checks it for SMART_EVENT_WAYPOINT_REACHED.</span></div>
+<div class="line"><span class="lineno">  185</span>    <span class="keywordflow">if</span> (pathEnded)</div>
+<div class="line"><span class="lineno">  186</span>    {</div>
+<div class="line"><span class="lineno">  187</span>        creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a7a24981a3a0b1f5ed5a178a3aafae5f9">UpdateCurrentWaypointInfo</a>(0, 0);</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  190</span>            AI-&gt;PathEndReached(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
 <div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>    <span class="comment">// All hooks called and infos updated. Time to increment the waypoint node id</span></div>
-<div class="line"><span class="lineno">  193</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a> &amp;&amp; !<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.empty()) <span class="comment">// ensure that the path has not been changed in one of the hooks.</span></div>
-<div class="line"><span class="lineno">  194</span>        <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + 1) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  197</span>}</div>
+<div class="line"><span class="lineno">  192</span>        <span class="comment">// Re-fetch AI — PathEndReached may have despawned the creature or swapped its AI</span></div>
+<div class="line"><span class="lineno">  193</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  194</span>            AI-&gt;WaypointPathEnded(waypoint.Id, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  195</span>    }</div>
+<div class="line"><span class="lineno">  196</span> </div>
+<div class="line"><span class="lineno">  197</span>    <span class="comment">// All hooks called and infos updated. Time to increment the waypoint node id</span></div>
+<div class="line"><span class="lineno">  198</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a> &amp;&amp; !<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.empty()) <span class="comment">// ensure that the path has not been changed in one of the hooks.</span></div>
+<div class="line"><span class="lineno">  199</span>        <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + 1) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  202</span>}</div>
 <div class="ttc" id="aLog_8h_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d1/d45/Log_8h.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition</b> Log.h:170</div></div>
 <div class="ttc" id="aclassTempSummon_html"><div class="ttname"><a href="../../dc/d88/classTempSummon.html">TempSummon</a></div><div class="ttdef"><b>Definition</b> TemporarySummon.h:50</div></div>
 <div class="ttc" id="aclassUnitAI_html"><div class="ttname"><a href="../../d0/ddd/classUnitAI.html">UnitAI</a></div><div class="ttdef"><b>Definition</b> UnitAI.h:198</div></div>
@@ -982,12 +988,12 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/d7d/classMovementGenerator.html#a51988a8b0a45459242467e38ca46303c">MovementGenerator</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  477</span>{</div>
-<div class="line"><span class="lineno">  478</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a> = !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a>;</div>
-<div class="line"><span class="lineno">  479</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582">_stalled</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  480</span>    <span class="keywordflow">if</span> (overrideTimer)</div>
-<div class="line"><span class="lineno">  481</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> = overrideTimer;</div>
-<div class="line"><span class="lineno">  482</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  483</span>{</div>
+<div class="line"><span class="lineno">  484</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a> = !<a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a>;</div>
+<div class="line"><span class="lineno">  485</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a53cbe2e24386cf2e9ebe7c45f1c50582">_stalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  486</span>    <span class="keywordflow">if</span> (overrideTimer)</div>
+<div class="line"><span class="lineno">  487</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a23f5561cba5a57f4286abf44e250a8e6">_pauseTime</a> = overrideTimer;</div>
+<div class="line"><span class="lineno">  488</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -1025,151 +1031,151 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <p>If the creature is on transport, we assume waypoints set in DB are already transport offsets</p>
-<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
-<div class="line"><span class="lineno">  201</span>    <span class="comment">// Formation checks. Do not launch a new spline when one of our formation members is currently in combat.</span></div>
-<div class="line"><span class="lineno">  202</span>    <span class="keywordflow">if</span> (!relaunch)</div>
-<div class="line"><span class="lineno">  203</span>    {</div>
-<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">IsAllowedToMove</a>(creature) || (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a990ee9cafe5d2d48ac99ef340e8bb249">IsFormationLeader</a>() &amp;&amp; !creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a77c1602cc68a6285f678aa0d9636f4cb">IsFormationLeaderMoveAllowed</a>()))</div>
-<div class="line"><span class="lineno">  205</span>        {</div>
-<div class="line"><span class="lineno">  206</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> = 1000;</div>
-<div class="line"><span class="lineno">  207</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  208</span>        }</div>
-<div class="line"><span class="lineno">  209</span>    }</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    <span class="comment">// Dont allow dead creatures to move</span></div>
-<div class="line"><span class="lineno">  212</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  213</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  214</span> </div>
-<div class="line"><span class="lineno">  215</span>    <span class="comment">// Step two: node selection is done, build spline data</span></div>
-<div class="line"><span class="lineno">  216</span>    creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
-<div class="line"><span class="lineno">  217</span>    <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; waypoint = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  218</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> useTransportPath = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>) &amp;&amp; creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab38bf07f849039068d02971f5e006d29">GetTransGUID</a>();</div>
+<div class="fragment"><div class="line"><span class="lineno">  205</span>{</div>
+<div class="line"><span class="lineno">  206</span>    <span class="comment">// Formation checks. Do not launch a new spline when one of our formation members is currently in combat.</span></div>
+<div class="line"><span class="lineno">  207</span>    <span class="keywordflow">if</span> (!relaunch)</div>
+<div class="line"><span class="lineno">  208</span>    {</div>
+<div class="line"><span class="lineno">  209</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a36b49616bca7be96ba1a8b60fe38ef79">IsAllowedToMove</a>(creature) || (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a990ee9cafe5d2d48ac99ef340e8bb249">IsFormationLeader</a>() &amp;&amp; !creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a77c1602cc68a6285f678aa0d9636f4cb">IsFormationLeaderMoveAllowed</a>()))</div>
+<div class="line"><span class="lineno">  210</span>        {</div>
+<div class="line"><span class="lineno">  211</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a4247151e88db4991c97ad588ab73c82d">_waypointDelay</a> = 1000;</div>
+<div class="line"><span class="lineno">  212</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  213</span>        }</div>
+<div class="line"><span class="lineno">  214</span>    }</div>
+<div class="line"><span class="lineno">  215</span> </div>
+<div class="line"><span class="lineno">  216</span>    <span class="comment">// Dont allow dead creatures to move</span></div>
+<div class="line"><span class="lineno">  217</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  218</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">  219</span> </div>
-<div class="line"><span class="lineno">  220</span>    <a class="code hl_class" href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a> init(creature);</div>
-<div class="line"><span class="lineno">  222</span>    <span class="keywordflow">if</span> (useTransportPath)</div>
-<div class="line"><span class="lineno">  223</span>        init.DisableTransportPathTransformations();</div>
+<div class="line"><span class="lineno">  220</span>    <span class="comment">// Step two: node selection is done, build spline data</span></div>
+<div class="line"><span class="lineno">  221</span>    creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#ae51d2ecb71f7a5cb3882982a622c9544a29574782754ed5dc3a18df110d433f1b">UNIT_STATE_ROAMING_MOVE</a>);</div>
+<div class="line"><span class="lineno">  222</span>    <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; waypoint = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
+<div class="line"><span class="lineno">  223</span>    <span class="keywordtype">bool</span> <span class="keyword">const</span> useTransportPath = creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d7/df1/UnitDefines_8h.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>) &amp;&amp; creature-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#ab38bf07f849039068d02971f5e006d29">GetTransGUID</a>();</div>
 <div class="line"><span class="lineno">  224</span> </div>
-<div class="line"><span class="lineno">  225</span>    <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a> &amp;&amp; <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size() &gt; 2)</div>
-<div class="line"><span class="lineno">  226</span>    {</div>
-<div class="line"><span class="lineno">  227</span>        <span class="comment">// Build a catmullrom spline segment, stopping at delay waypoints</span></div>
-<div class="line"><span class="lineno">  228</span>        init.Path().push_back(<a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()));</div>
+<div class="line"><span class="lineno">  225</span>    <a class="code hl_class" href="../../d4/d99/classMovement_1_1MoveSplineInit.html">Movement::MoveSplineInit</a> init(creature);</div>
+<div class="line"><span class="lineno">  227</span>    <span class="keywordflow">if</span> (useTransportPath)</div>
+<div class="line"><span class="lineno">  228</span>        init.DisableTransportPathTransformations();</div>
 <div class="line"><span class="lineno">  229</span> </div>
-<div class="line"><span class="lineno">  230</span>        <span class="keywordtype">bool</span> hasDelayInSegment = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  231</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> segmentNodes = 0;</div>
-<div class="line"><span class="lineno">  232</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size(); ++i)</div>
-<div class="line"><span class="lineno">  233</span>        {</div>
-<div class="line"><span class="lineno">  234</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> idx = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + i) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
-<div class="line"><span class="lineno">  235</span>            <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; node = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(idx);</div>
-<div class="line"><span class="lineno">  236</span>            init.Path().push_back(G3D::Vector3(node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
-<div class="line"><span class="lineno">  237</span>            segmentNodes++;</div>
-<div class="line"><span class="lineno">  238</span> </div>
-<div class="line"><span class="lineno">  239</span>            <span class="comment">// Stop the segment at a waypoint with a delay</span></div>
-<div class="line"><span class="lineno">  240</span>            <span class="keywordflow">if</span> (node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  241</span>            {</div>
-<div class="line"><span class="lineno">  242</span>                hasDelayInSegment = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  243</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  244</span>            }</div>
-<div class="line"><span class="lineno">  245</span>        }</div>
-<div class="line"><span class="lineno">  246</span> </div>
-<div class="line"><span class="lineno">  247</span>        <span class="comment">// If no delays found and repeating, add wrap-around points for seamless loop</span></div>
-<div class="line"><span class="lineno">  248</span>        <span class="keywordflow">if</span> (!hasDelayInSegment &amp;&amp; <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aaf8c25b3cd8b77dba7212b0ab3a65791">_repeating</a>)</div>
-<div class="line"><span class="lineno">  249</span>        {</div>
-<div class="line"><span class="lineno">  250</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; std::min&lt;uint32&gt;(3, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size()); ++i)</div>
-<div class="line"><span class="lineno">  251</span>            {</div>
-<div class="line"><span class="lineno">  252</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> idx = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + i) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
-<div class="line"><span class="lineno">  253</span>                <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; node = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(idx);</div>
-<div class="line"><span class="lineno">  254</span>                init.Path().push_back(G3D::Vector3(node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
-<div class="line"><span class="lineno">  255</span>            }</div>
-<div class="line"><span class="lineno">  256</span>        }</div>
-<div class="line"><span class="lineno">  257</span> </div>
-<div class="line"><span class="lineno">  258</span>        <span class="comment">// Need at least 3 waypoints for a meaningful catmullrom spline</span></div>
-<div class="line"><span class="lineno">  259</span>        <span class="keywordflow">if</span> (segmentNodes &gt;= 3)</div>
-<div class="line"><span class="lineno">  260</span>        {</div>
-<div class="line"><span class="lineno">  261</span>            init.SetFirstPointId(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
-<div class="line"><span class="lineno">  262</span>            init.SetSmooth();</div>
-<div class="line"><span class="lineno">  263</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  264</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab38d9221836ec1c2e2d0999b4504fe77">_lastPassedSplineIdx</a> = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>;</div>
-<div class="line"><span class="lineno">  265</span>        }</div>
-<div class="line"><span class="lineno">  266</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  267</span>        {</div>
-<div class="line"><span class="lineno">  268</span>            <span class="comment">// Too few points for catmullrom, fall back to linear point-to-point</span></div>
-<div class="line"><span class="lineno">  269</span>            init.Path().clear();</div>
-<div class="line"><span class="lineno">  270</span>            init.MoveTo(G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
-<div class="line"><span class="lineno">  271</span>        }</div>
-<div class="line"><span class="lineno">  272</span>    }</div>
-<div class="line"><span class="lineno">  273</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.empty())</div>
-<div class="line"><span class="lineno">  274</span>    {</div>
-<div class="line"><span class="lineno">  275</span>        <span class="comment">// We have spline points in waypoint_data_addon table</span></div>
-<div class="line"><span class="lineno">  276</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> splineIndex = 0;</div>
-<div class="line"><span class="lineno">  277</span> </div>
-<div class="line"><span class="lineno">  278</span>        <span class="keyword">auto</span> itr = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.begin();</div>
-<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">if</span> (splineIndex)</div>
-<div class="line"><span class="lineno">  280</span>            std::advance(itr, splineIndex);</div>
-<div class="line"><span class="lineno">  281</span> </div>
-<div class="line"><span class="lineno">  282</span>        init.Path().reserve(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.size() - splineIndex);</div>
-<div class="line"><span class="lineno">  283</span>        std::copy(itr, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.end(), std::back_inserter(init.Path()));</div>
-<div class="line"><span class="lineno">  284</span> </div>
-<div class="line"><span class="lineno">  285</span>        <span class="comment">// Add starting vertex and destination</span></div>
-<div class="line"><span class="lineno">  286</span>        init.Path().insert(init.Path().begin(), <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()));</div>
-<div class="line"><span class="lineno">  287</span>        init.Path().insert(init.Path().end(), G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
-<div class="line"><span class="lineno">  288</span>    }</div>
-<div class="line"><span class="lineno">  289</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  290</span>    {</div>
-<div class="line"><span class="lineno">  291</span>        <span class="comment">// Smooth transition for short paths (&lt;=2 nodes): use previous spline endpoint as start</span></div>
-<div class="line"><span class="lineno">  292</span>        <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a> &amp;&amp; !creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>() &amp;&amp; <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a> == creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>())</div>
-<div class="line"><span class="lineno">  293</span>        {</div>
-<div class="line"><span class="lineno">  294</span>            init.MoveTo(creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a5a75c3c093ade5d45a92f7d777e572c5">FinalDestination</a>(), G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
-<div class="line"><span class="lineno">  295</span>            <span class="keywordflow">if</span> (!init.Path().empty())</div>
-<div class="line"><span class="lineno">  296</span>                init.Path().insert(init.Path().begin(), <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()));</div>
-<div class="line"><span class="lineno">  297</span>        }</div>
-<div class="line"><span class="lineno">  298</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  299</span>            init.MoveTo(<a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()), G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
-<div class="line"><span class="lineno">  300</span>    }</div>
-<div class="line"><span class="lineno">  301</span> </div>
-<div class="line"><span class="lineno">  302</span>    <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>.has_value() &amp;&amp; waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a> &gt; 0)</div>
-<div class="line"><span class="lineno">  303</span>        init.SetFacing(*waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>);</div>
-<div class="line"><span class="lineno">  304</span> </div>
-<div class="line"><span class="lineno">  305</span>    <span class="keywordflow">switch</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a>)</div>
-<div class="line"><span class="lineno">  306</span>    {</div>
-<div class="line"><span class="lineno">  307</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a>:</div>
-<div class="line"><span class="lineno">  308</span>            init.SetAnimation(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf">AnimTier::Ground</a>);</div>
-<div class="line"><span class="lineno">  309</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  310</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843">WAYPOINT_MOVE_TYPE_TAKEOFF</a>:</div>
-<div class="line"><span class="lineno">  311</span>            init.SetAnimation(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc">AnimTier::Hover</a>);</div>
-<div class="line"><span class="lineno">  312</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  313</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>:</div>
-<div class="line"><span class="lineno">  314</span>            init.SetWalk(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  315</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  316</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>:</div>
-<div class="line"><span class="lineno">  317</span>            init.SetWalk(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  318</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  319</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  230</span>    <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a> &amp;&amp; <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size() &gt; 2)</div>
+<div class="line"><span class="lineno">  231</span>    {</div>
+<div class="line"><span class="lineno">  232</span>        <span class="comment">// Build a catmullrom spline segment, stopping at delay waypoints</span></div>
+<div class="line"><span class="lineno">  233</span>        init.Path().push_back(<a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()));</div>
+<div class="line"><span class="lineno">  234</span> </div>
+<div class="line"><span class="lineno">  235</span>        <span class="keywordtype">bool</span> hasDelayInSegment = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  236</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> segmentNodes = 0;</div>
+<div class="line"><span class="lineno">  237</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size(); ++i)</div>
+<div class="line"><span class="lineno">  238</span>        {</div>
+<div class="line"><span class="lineno">  239</span>            <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> idx = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + i) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
+<div class="line"><span class="lineno">  240</span>            <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; node = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(idx);</div>
+<div class="line"><span class="lineno">  241</span>            init.Path().push_back(G3D::Vector3(node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
+<div class="line"><span class="lineno">  242</span>            segmentNodes++;</div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>            <span class="comment">// Stop the segment at a waypoint with a delay</span></div>
+<div class="line"><span class="lineno">  245</span>            <span class="keywordflow">if</span> (node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  246</span>            {</div>
+<div class="line"><span class="lineno">  247</span>                hasDelayInSegment = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  248</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  249</span>            }</div>
+<div class="line"><span class="lineno">  250</span>        }</div>
+<div class="line"><span class="lineno">  251</span> </div>
+<div class="line"><span class="lineno">  252</span>        <span class="comment">// If no delays found and repeating, add wrap-around points for seamless loop</span></div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">if</span> (!hasDelayInSegment &amp;&amp; <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#aaf8c25b3cd8b77dba7212b0ab3a65791">_repeating</a>)</div>
+<div class="line"><span class="lineno">  254</span>        {</div>
+<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; std::min&lt;uint32&gt;(3, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size()); ++i)</div>
+<div class="line"><span class="lineno">  256</span>            {</div>
+<div class="line"><span class="lineno">  257</span>                <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> idx = (<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a> + i) % <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.size();</div>
+<div class="line"><span class="lineno">  258</span>                <a class="code hl_struct" href="../../d7/d5c/structWaypointNode.html">WaypointNode</a> <span class="keyword">const</span>&amp; node = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Nodes.at(idx);</div>
+<div class="line"><span class="lineno">  259</span>                init.Path().push_back(G3D::Vector3(node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, node.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
+<div class="line"><span class="lineno">  260</span>            }</div>
+<div class="line"><span class="lineno">  261</span>        }</div>
+<div class="line"><span class="lineno">  262</span> </div>
+<div class="line"><span class="lineno">  263</span>        <span class="comment">// Need at least 3 waypoints for a meaningful catmullrom spline</span></div>
+<div class="line"><span class="lineno">  264</span>        <span class="keywordflow">if</span> (segmentNodes &gt;= 3)</div>
+<div class="line"><span class="lineno">  265</span>        {</div>
+<div class="line"><span class="lineno">  266</span>            init.SetFirstPointId(<a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>);</div>
+<div class="line"><span class="lineno">  267</span>            init.SetSmooth();</div>
+<div class="line"><span class="lineno">  268</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a2170c7ea053bd543f9ea9b04e2af94cb">_smoothSplineLaunched</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  269</span>            <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#ab38d9221836ec1c2e2d0999b4504fe77">_lastPassedSplineIdx</a> = <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a5420aef90d3529881ef41362ebb29934">i_currentNode</a>;</div>
+<div class="line"><span class="lineno">  270</span>        }</div>
+<div class="line"><span class="lineno">  271</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  272</span>        {</div>
+<div class="line"><span class="lineno">  273</span>            <span class="comment">// Too few points for catmullrom, fall back to linear point-to-point</span></div>
+<div class="line"><span class="lineno">  274</span>            init.Path().clear();</div>
+<div class="line"><span class="lineno">  275</span>            init.MoveTo(G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
+<div class="line"><span class="lineno">  276</span>        }</div>
+<div class="line"><span class="lineno">  277</span>    }</div>
+<div class="line"><span class="lineno">  278</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.empty())</div>
+<div class="line"><span class="lineno">  279</span>    {</div>
+<div class="line"><span class="lineno">  280</span>        <span class="comment">// We have spline points in waypoint_data_addon table</span></div>
+<div class="line"><span class="lineno">  281</span>        <a class="code hl_typedef" href="../../da/d97/Define_8h.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> splineIndex = 0;</div>
+<div class="line"><span class="lineno">  282</span> </div>
+<div class="line"><span class="lineno">  283</span>        <span class="keyword">auto</span> itr = waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.begin();</div>
+<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">if</span> (splineIndex)</div>
+<div class="line"><span class="lineno">  285</span>            std::advance(itr, splineIndex);</div>
+<div class="line"><span class="lineno">  286</span> </div>
+<div class="line"><span class="lineno">  287</span>        init.Path().reserve(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.size() - splineIndex);</div>
+<div class="line"><span class="lineno">  288</span>        std::copy(itr, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a>.end(), std::back_inserter(init.Path()));</div>
+<div class="line"><span class="lineno">  289</span> </div>
+<div class="line"><span class="lineno">  290</span>        <span class="comment">// Add starting vertex and destination</span></div>
+<div class="line"><span class="lineno">  291</span>        init.Path().insert(init.Path().begin(), <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()));</div>
+<div class="line"><span class="lineno">  292</span>        init.Path().insert(init.Path().end(), G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
+<div class="line"><span class="lineno">  293</span>    }</div>
+<div class="line"><span class="lineno">  294</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  295</span>    {</div>
+<div class="line"><span class="lineno">  296</span>        <span class="comment">// Smooth transition for short paths (&lt;=2 nodes): use previous spline endpoint as start</span></div>
+<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a> &amp;&amp; !creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>() &amp;&amp; <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a> == creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>())</div>
+<div class="line"><span class="lineno">  298</span>        {</div>
+<div class="line"><span class="lineno">  299</span>            init.MoveTo(creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a5a75c3c093ade5d45a92f7d777e572c5">FinalDestination</a>(), G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
+<div class="line"><span class="lineno">  300</span>            <span class="keywordflow">if</span> (!init.Path().empty())</div>
+<div class="line"><span class="lineno">  301</span>                init.Path().insert(init.Path().begin(), <a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()));</div>
+<div class="line"><span class="lineno">  302</span>        }</div>
+<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  304</span>            init.MoveTo(<a class="code hl_function" href="../../d4/dc1/WaypointMovementGenerator_8cpp.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a>(creature-&gt;<a class="code hl_function" href="../../d0/df4/structPosition.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>()), G3D::Vector3(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>, waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aab4756345912b48fd2f352464e24bc1a">Z</a>));</div>
+<div class="line"><span class="lineno">  305</span>    }</div>
+<div class="line"><span class="lineno">  306</span> </div>
+<div class="line"><span class="lineno">  307</span>    <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>.has_value() &amp;&amp; waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a03268e85010c56f29325b80a9624a73b">Delay</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  308</span>        init.SetFacing(*waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>);</div>
+<div class="line"><span class="lineno">  309</span> </div>
+<div class="line"><span class="lineno">  310</span>    <span class="keywordflow">switch</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a>)</div>
+<div class="line"><span class="lineno">  311</span>    {</div>
+<div class="line"><span class="lineno">  312</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa">WAYPOINT_MOVE_TYPE_LAND</a>:</div>
+<div class="line"><span class="lineno">  313</span>            init.SetAnimation(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf">AnimTier::Ground</a>);</div>
+<div class="line"><span class="lineno">  314</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  315</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843">WAYPOINT_MOVE_TYPE_TAKEOFF</a>:</div>
+<div class="line"><span class="lineno">  316</span>            init.SetAnimation(<a class="code hl_enumvalue" href="../../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc">AnimTier::Hover</a>);</div>
+<div class="line"><span class="lineno">  317</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  318</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>:</div>
+<div class="line"><span class="lineno">  319</span>            init.SetWalk(<span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  320</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  321</span>    }</div>
-<div class="line"><span class="lineno">  322</span> </div>
-<div class="line"><span class="lineno">  323</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a3fbb952be0b9ff2229d88931eac105b2">CanFly</a>())</div>
-<div class="line"><span class="lineno">  324</span>        init.SetFly();</div>
-<div class="line"><span class="lineno">  325</span> </div>
-<div class="line"><span class="lineno">  326</span>    <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a> &gt; 0.f)</div>
-<div class="line"><span class="lineno">  327</span>        init.SetVelocity(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a>);</div>
-<div class="line"><span class="lineno">  328</span> </div>
-<div class="line"><span class="lineno">  329</span>    init.Launch();</div>
+<div class="line"><span class="lineno">  321</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d4e/WaypointDefines_8h.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>:</div>
+<div class="line"><span class="lineno">  322</span>            init.SetWalk(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  323</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  324</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  325</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  326</span>    }</div>
+<div class="line"><span class="lineno">  327</span> </div>
+<div class="line"><span class="lineno">  328</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a3fbb952be0b9ff2229d88931eac105b2">CanFly</a>())</div>
+<div class="line"><span class="lineno">  329</span>        init.SetFly();</div>
 <div class="line"><span class="lineno">  330</span> </div>
-<div class="line"><span class="lineno">  331</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
-<div class="line"><span class="lineno">  332</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a> = creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>();</div>
+<div class="line"><span class="lineno">  331</span>    <span class="keywordflow">if</span> (waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a> &gt; 0.f)</div>
+<div class="line"><span class="lineno">  332</span>        init.SetVelocity(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a>);</div>
 <div class="line"><span class="lineno">  333</span> </div>
-<div class="line"><span class="lineno">  334</span>    <span class="comment">// Inform formation</span></div>
-<div class="line"><span class="lineno">  335</span>    creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a533da58134d6187e3f8d05744b9c75bf">SignalFormationMovement</a>();</div>
-<div class="line"><span class="lineno">  336</span> </div>
-<div class="line"><span class="lineno">  337</span>    <span class="comment">// Inform AI</span></div>
-<div class="line"><span class="lineno">  338</span>    <span class="keywordflow">if</span> (!relaunch)</div>
-<div class="line"><span class="lineno">  339</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
-<div class="line"><span class="lineno">  340</span>            AI-&gt;WaypointStarted(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  334</span>    init.Launch();</div>
+<div class="line"><span class="lineno">  335</span> </div>
+<div class="line"><span class="lineno">  336</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
+<div class="line"><span class="lineno">  337</span>        <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a> = creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>();</div>
+<div class="line"><span class="lineno">  338</span> </div>
+<div class="line"><span class="lineno">  339</span>    <span class="comment">// Inform formation</span></div>
+<div class="line"><span class="lineno">  340</span>    creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#a533da58134d6187e3f8d05744b9c75bf">SignalFormationMovement</a>();</div>
 <div class="line"><span class="lineno">  341</span> </div>
-<div class="line"><span class="lineno">  342</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  343</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059">_recalculateSpeed</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  344</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  345</span>}</div>
+<div class="line"><span class="lineno">  342</span>    <span class="comment">// Inform AI</span></div>
+<div class="line"><span class="lineno">  343</span>    <span class="keywordflow">if</span> (!relaunch)</div>
+<div class="line"><span class="lineno">  344</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d79/classCreatureAI.html">CreatureAI</a>* AI = creature-&gt;<a class="code hl_function" href="../../db/dd5/classCreature.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>())</div>
+<div class="line"><span class="lineno">  345</span>            AI-&gt;WaypointStarted(waypoint.<a class="code hl_variable" href="../../d7/d5c/structWaypointNode.html#aec030367189f87dec789df49303916ed">Id</a>, <a class="code hl_variable" href="../../da/d2a/classPathMovementBase.html#a3dbc5e41e0c6245f369afc7a24081c83">i_path</a>-&gt;Id);</div>
+<div class="line"><span class="lineno">  346</span> </div>
+<div class="line"><span class="lineno">  347</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1b509cc4a5f44179ad946e716e91e7c8">_waypointReached</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  348</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc77f2d2ba7465f27f6dd023b779a059">_recalculateSpeed</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  349</span>    <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#adc5f52b6c18ed23d8234dff47c2f05c1">_hasBeenStalled</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  350</span>}</div>
 <div class="ttc" id="aDefine_8h_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition</b> Define.h:107</div></div>
 <div class="ttc" id="aMotionMaster_8h_html_ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf">AnimTier::Ground</a></div><div class="ttdeci">@ Ground</div></div>
 <div class="ttc" id="aMotionMaster_8h_html_ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc"><div class="ttname"><a href="../../db/d10/MotionMaster_8h.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc">AnimTier::Hover</a></div><div class="ttdeci">@ Hover</div></div>
@@ -1254,13 +1260,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  514</span>{</div>
-<div class="line"><span class="lineno">  515</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>() != <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a>)</div>
-<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  517</span> </div>
-<div class="line"><span class="lineno">  518</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
-<div class="line"><span class="lineno">  519</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1bd7efd399a13fe679c76a8f3c2e59ee">ProcessWaypointArrival</a>(creature, waypointNode);</div>
-<div class="line"><span class="lineno">  520</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  520</span>{</div>
+<div class="line"><span class="lineno">  521</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a397cd76f394503b4460e746c7cfb2603">GetId</a>() != <a class="code hl_variable" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a9c49da35e49b00ada71895649aff1722">_lastSplineId</a>)</div>
+<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  523</span> </div>
+<div class="line"><span class="lineno">  524</span>    <span class="keywordflow">if</span> (creature-&gt;<a class="code hl_variable" href="../../df/dd9/classUnit.html#a1805acabea4c9a75ad7c0bcab734f627">movespline</a>-&gt;<a class="code hl_function" href="../../d3/d68/classMovement_1_1MoveSpline.html#a4c375981abbfa1ea7335cd9369fd93f6">Finalized</a>())</div>
+<div class="line"><span class="lineno">  525</span>        <a class="code hl_function" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1bd7efd399a13fe679c76a8f3c2e59ee">ProcessWaypointArrival</a>(creature, waypointNode);</div>
+<div class="line"><span class="lineno">  526</span>}</div>
 <div class="ttc" id="aclassWaypointMovementGenerator_3_01Creature_01_4_html_a1bd7efd399a13fe679c76a8f3c2e59ee"><div class="ttname"><a href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html#a1bd7efd399a13fe679c76a8f3c2e59ee">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival</a></div><div class="ttdeci">void ProcessWaypointArrival(Creature *, WaypointNode const &amp;)</div><div class="ttdef"><b>Definition</b> WaypointMovementGenerator.cpp:135</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00118">Movement::MoveSpline::Finalized()</a>, <a class="el" href="../../#l00117">Movement::MoveSpline::GetId()</a>, and <a class="el" href="../../#l02114">Unit::movespline</a>.</p>
@@ -1586,7 +1592,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/d3e/classWaypointMovementGenerator_3_01Creature_01_4.html">WaypointMovementGenerator&lt; Creature &gt;</a></li>
-    <li class="footer">Generated on Thu Mar 26 2026 07:05:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Mar 27 2026 07:03:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

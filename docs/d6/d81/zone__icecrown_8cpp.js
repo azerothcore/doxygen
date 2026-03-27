@@ -41,7 +41,7 @@ var zone__icecrown_8cpp =
       [ "NPC_ARGENT_MASON", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a92418c415758bf1c74b811a9140921aa", null ],
       [ "NPC_REANIMATED_CAPTAIN", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a6aa45914ea9fa836bb8864fea3a99af5", null ],
       [ "NPC_SCOURGE_DRUDGE", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832adac5755f530959473c492c4bbda18477", null ],
-      [ "NPC_HIDEOUS_PLAGEBRINGER", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a26034173423f784199af35484b89f487", null ],
+      [ "NPC_HIDEOUS_PLAGUEBRINGER", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832adc0787e8afeaad526c32c8b5c8829634", null ],
       [ "NPC_HALOF_THE_DEATHBRINGER", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a40caac803a16ce93df2fbf68fe9042f7", null ],
       [ "NPC_LK", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832aed9434f188bb6819735cf83d36482b4f", null ],
       [ "BANNER_SAY", "d6/d81/zone__icecrown_8cpp.html#adc6d71d7da6e47d9baa23eeca72ce832a17a69be4ebf12ea9ab77d626ab4c6f4d", null ],

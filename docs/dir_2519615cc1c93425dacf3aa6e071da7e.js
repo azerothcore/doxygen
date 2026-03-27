@@ -29,6 +29,7 @@ var dir_2519615cc1c93425dacf3aa6e071da7e =
     [ "cs_lfg.cpp", "de/d64/cs__lfg_8cpp.html", "de/d64/cs__lfg_8cpp" ],
     [ "cs_list.cpp", "dc/d74/cs__list_8cpp.html", "dc/d74/cs__list_8cpp" ],
     [ "cs_lookup.cpp", "dc/d37/cs__lookup_8cpp.html", "dc/d37/cs__lookup_8cpp" ],
+    [ "cs_mail.cpp", "dc/d0b/cs__mail_8cpp.html", "dc/d0b/cs__mail_8cpp" ],
     [ "cs_message.cpp", "da/d6d/cs__message_8cpp.html", "da/d6d/cs__message_8cpp" ],
     [ "cs_misc.cpp", "d3/db0/cs__misc_8cpp.html", "d3/db0/cs__misc_8cpp" ],
     [ "cs_mmaps.cpp", "d9/d51/cs__mmaps_8cpp.html", "d9/d51/cs__mmaps_8cpp" ],

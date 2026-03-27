@@ -3756,6 +3756,7 @@ var hierarchy =
         [ "lfg_commandscript", "d4/de2/classlfg__commandscript.html", null ],
         [ "list_commandscript", "db/da4/classlist__commandscript.html", null ],
         [ "lookup_commandscript", "d6/d85/classlookup__commandscript.html", null ],
+        [ "mail_commandscript", "dd/d8c/classmail__commandscript.html", null ],
         [ "message_commandscript", "d2/d10/classmessage__commandscript.html", null ],
         [ "misc_commandscript", "d9/d4d/classmisc__commandscript.html", null ],
         [ "mmaps_commandscript", "da/df3/classmmaps__commandscript.html", null ],

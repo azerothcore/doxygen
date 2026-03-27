@@ -30,6 +30,7 @@ var cs__script__loader_8cpp =
     [ "AddSC_lfg_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
     [ "AddSC_list_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a81af00772e7a06ad952109222b1f53a3", null ],
     [ "AddSC_lookup_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aae75b0f1415c6529e5837e3b27d054f6", null ],
+    [ "AddSC_mail_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a60390ceaf08c6b305bdc77fd27243938", null ],
     [ "AddSC_message_commandscript", "d5/d1c/cs__script__loader_8cpp.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ],
     [ "AddSC_misc_commandscript", "d5/d1c/cs__script__loader_8cpp.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
     [ "AddSC_mmaps_commandscript", "d5/d1c/cs__script__loader_8cpp.html#aa9672a1e32f85f31a4be02f505768ecd", null ],

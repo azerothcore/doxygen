@@ -68,7 +68,7 @@ var searchData=
   ['killcredit_65',['killcredit',['../d2/d8f/structScriptInfo.html#a20555299c549229f6b8686d231244113',1,'ScriptInfo::KillCredit'],['../d1/d61/structCreatureTemplate.html#a8f1f7c9c67532ec302ebeb41b340e287',1,'CreatureTemplate::KillCredit']]],
   ['killcreditgo_66',['KillCreditGO',['../d2/d4b/classPlayer.html#ac1e9eaf17709fa3fec00fc2356ead46b',1,'Player']]],
   ['killed_5fby_5fcreature_67',['killed_by_creature',['../d4/dd9/structAchievementCriteriaEntry.html#aaf1c1dc88af9d8cc435277cf9b65efbb',1,'AchievementCriteriaEntry']]],
-  ['killedmonster_68',['killedmonster',['../d2/d4b/classPlayer.html#a60ef0de3403e8c16c065fe12f5f856e5',1,'Player::KilledMonster()'],['../dd/d27/structSmartAction.html#a061fee019b88560c4dddb4133647ec8c',1,'SmartAction::killedMonster']]],
+  ['killedmonster_68',['killedmonster',['../dd/d27/structSmartAction.html#a061fee019b88560c4dddb4133647ec8c',1,'SmartAction::killedMonster'],['../d2/d4b/classPlayer.html#a60ef0de3403e8c16c065fe12f5f856e5',1,'Player::KilledMonster(CreatureTemplate const *cInfo, ObjectGuid guid)']]],
   ['killedmonstercredit_69',['KilledMonsterCredit',['../d2/d4b/classPlayer.html#a05924f5e9df8d5f06ba422e159a4fd8a',1,'Player']]],
   ['killedplayercredit_70',['KilledPlayerCredit',['../d2/d4b/classPlayer.html#ad41ec715f6adfcb5cfc70e3d5925ae85',1,'Player']]],
   ['killedplayercreditforquest_71',['KilledPlayerCreditForQuest',['../d2/d4b/classPlayer.html#ad868b1cd905ba7dc0fc8969240cf8c58',1,'Player']]],
