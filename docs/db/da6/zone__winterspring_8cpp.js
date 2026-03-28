@@ -1,6 +1,5 @@
 var zone__winterspring_8cpp =
 [
-    [ "npc_rivern_frostwind", "d5/dae/classnpc__rivern__frostwind.html", "d5/dae/classnpc__rivern__frostwind" ],
     [ "DialogueEntry", "de/d06/structDialogueEntry.html", "de/d06/structDialogueEntry" ],
     [ "DialogueHelper", "d9/dc8/classDialogueHelper.html", "d9/dc8/classDialogueHelper" ],
     [ "npc_ranshalla", "d0/d19/classnpc__ranshalla.html", "d0/d19/classnpc__ranshalla" ],

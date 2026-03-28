@@ -495,7 +495,7 @@ var searchData=
   ['resetweeklyqueststatus_492',['ResetWeeklyQuestStatus',['../d2/d4b/classPlayer.html#a9a3f45d250c80621182d71d0648f05c8',1,'Player']]],
   ['resetzonetoteamcontrolled_493',['ResetZoneToTeamControlled',['../df/de7/classOutdoorPvPTF.html#aff6e736e4a6d9bd5868a3c0ad599cb5b',1,'OutdoorPvPTF']]],
   ['resistdamage_494',['ResistDamage',['../d2/d2d/classDamageInfo.html#a02e857277fbc00370143180b4fb3daac',1,'DamageInfo']]],
-  ['resize_495',['resize',['../df/dd9/classWorldPackets_1_1Array.html#aee31c094fadba01a43e7eba0294a9275',1,'WorldPackets::Array::resize()'],['../da/d07/classByteBuffer.html#ac7b8a563946443354563733ffbcc7bf5',1,'ByteBuffer::resize()'],['../df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b',1,'MessageBuffer::Resize()']]],
+  ['resize_495',['resize',['../df/d9d/classMessageBuffer.html#a38f46c8d6dd9a13ee51d4a429837ae9b',1,'MessageBuffer::Resize()'],['../df/dd9/classWorldPackets_1_1Array.html#aee31c094fadba01a43e7eba0294a9275',1,'WorldPackets::Array::resize()'],['../da/d07/classByteBuffer.html#ac7b8a563946443354563733ffbcc7bf5',1,'ByteBuffer::resize()']]],
   ['resizeborders_496',['ResizeBorders',['../d2/db5/structCellArea.html#aebb8a0eb3210fa09d647d89ce8a0c7b8',1,'CellArea']]],
   ['resolve_497',['Resolve',['../d9/dac/classAcore_1_1Asio_1_1Resolver.html#ab190f885c84753fe65405db6fb04bf7c',1,'Acore::Asio::Resolver']]],
   ['resolveandcloseticket_498',['ResolveAndCloseTicket',['../de/d95/classTicketMgr.html#a9f3873fd2a9a9436b6626803b1eee0b2',1,'TicketMgr']]],

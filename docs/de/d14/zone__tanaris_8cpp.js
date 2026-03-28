@@ -5,7 +5,6 @@ var zone__tanaris_8cpp =
     [ "npc_custodian_of_time", "de/d25/classnpc__custodian__of__time.html", "de/d25/classnpc__custodian__of__time" ],
     [ "npc_custodian_of_time::npc_custodian_of_timeAI", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI.html", "d0/d1d/structnpc__custodian__of__time_1_1npc__custodian__of__timeAI" ],
     [ "npc_steward_of_time", "d5/d57/classnpc__steward__of__time.html", "d5/d57/classnpc__steward__of__time" ],
-    [ "npc_stone_watcher_of_norgannon", "da/d0d/classnpc__stone__watcher__of__norgannon.html", "da/d0d/classnpc__stone__watcher__of__norgannon" ],
     [ "npc_tooga", "da/d53/classnpc__tooga.html", "da/d53/classnpc__tooga" ],
     [ "npc_tooga::npc_toogaAI", "df/d93/structnpc__tooga_1_1npc__toogaAI.html", "df/d93/structnpc__tooga_1_1npc__toogaAI" ],
     [ "Aquementas", "de/d14/zone__tanaris_8cpp.html#a664764efa00aaadfd6e4510fe26486d8", [

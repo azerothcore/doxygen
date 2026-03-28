@@ -1,13 +1,7 @@
 var zone__stonetalon__mountains_8cpp =
 [
-    [ "npc_braug_dimspirit", "dc/d93/classnpc__braug__dimspirit.html", "dc/d93/classnpc__braug__dimspirit" ],
     [ "npc_kaya_flathoof", "dc/d55/classnpc__kaya__flathoof.html", "dc/d55/classnpc__kaya__flathoof" ],
     [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI.html", "d1/dd9/structnpc__kaya__flathoof_1_1npc__kaya__flathoofAI" ],
-    [ "GOSSIP_HBD1", "dc/d91/zone__stonetalon__mountains_8cpp.html#a487e562e5e99ccd61aa7e93289874033", null ],
-    [ "GOSSIP_HBD2", "dc/d91/zone__stonetalon__mountains_8cpp.html#adc43152833884ed78e5debdaaf5d500d", null ],
-    [ "GOSSIP_HBD3", "dc/d91/zone__stonetalon__mountains_8cpp.html#aced35316178914dd542d4750f8bbb6cf", null ],
-    [ "GOSSIP_HBD4", "dc/d91/zone__stonetalon__mountains_8cpp.html#a182f8c24fa1421c6a7c68e289491400e", null ],
-    [ "GOSSIP_HBD5", "dc/d91/zone__stonetalon__mountains_8cpp.html#a34cc0e8072e5c86b2dd23a03fbc8f024", null ],
     [ "Kaya", "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
       [ "FACTION_ESCORTEE_H", "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
       [ "NPC_GRIMTOTEM_RUFFIAN", "dc/d91/zone__stonetalon__mountains_8cpp.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],

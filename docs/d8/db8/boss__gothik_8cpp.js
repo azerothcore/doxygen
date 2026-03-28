@@ -1,6 +1,5 @@
 var boss__gothik_8cpp =
 [
-    [ "NotOnSameSide", "df/d34/structNotOnSameSide.html", "df/d34/structNotOnSameSide" ],
     [ "boss_gothik", "d3/d6c/classboss__gothik.html", "d3/d6c/classboss__gothik" ],
     [ "boss_gothik::boss_gothikAI", "df/d6e/structboss__gothik_1_1boss__gothikAI.html", "df/d6e/structboss__gothik_1_1boss__gothikAI" ],
     [ "npc_boss_gothik_minion", "d1/db9/classnpc__boss__gothik__minion.html", "d1/db9/classnpc__boss__gothik__minion" ],
@@ -31,7 +30,8 @@ var boss__gothik_8cpp =
       [ "EVENT_STOMP", "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316", null ],
       [ "EVENT_INTRO_2", "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a33886550fcce093bd39450d188489113", null ],
       [ "EVENT_INTRO_3", "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ad59301158e6d930fd6318326d74e141c", null ],
-      [ "EVENT_INTRO_4", "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1726bf3c477a72f10e75fd8c734343f2", null ]
+      [ "EVENT_INTRO_4", "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a1726bf3c477a72f10e75fd8c734343f2", null ],
+      [ "EVENT_RESUME_ATTACK", "d8/db8/boss__gothik_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a6ffcbb9b84ac49cadfa72b20facf6e41", null ]
     ] ],
     [ "Misc", "d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NPC_LIVING_TRAINEE", "d8/db8/boss__gothik_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae05dc092bb50bad35884fc7f2c334fb5", null ],

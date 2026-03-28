@@ -1,7 +1,6 @@
 var zone__moonglade_8cpp =
 [
     [ "npc_bunthen_plainswind", "df/d3b/classnpc__bunthen__plainswind.html", "df/d3b/classnpc__bunthen__plainswind" ],
-    [ "npc_great_bear_spirit", "d8/d41/classnpc__great__bear__spirit.html", "d8/d41/classnpc__great__bear__spirit" ],
     [ "npc_silva_filnaveth", "d1/d3b/classnpc__silva__filnaveth.html", "d1/d3b/classnpc__silva__filnaveth" ],
     [ "npc_clintar_spirit", "d6/dbe/classnpc__clintar__spirit.html", "d6/dbe/classnpc__clintar__spirit" ],
     [ "npc_clintar_spirit::npc_clintar_spiritAI", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI.html", "d8/d19/structnpc__clintar__spirit_1_1npc__clintar__spiritAI" ],

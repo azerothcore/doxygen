@@ -66,6 +66,7 @@ var classThreatManager =
     [ "UpdateMyTempModifiers", "d5/d1b/classThreatManager.html#ae4697ec289700a142c0380851e610468", null ],
     [ "UpdateRedirectInfo", "d5/d1b/classThreatManager.html#a70cdfcc43f2355aab3fdc49f28bb2833", null ],
     [ "UpdateVictim", "d5/d1b/classThreatManager.html#afb2fd4289a42e5dbcaac7d51ecdc7fae", null ],
+    [ "UpdateVictimForTesting", "d5/d1b/classThreatManager.html#a4120fe507639ad017d036825662875f1", null ],
     [ "CompareThreatLessThan", "d5/d1b/classThreatManager.html#aec0e6964906625aed78a2fa2b70bcd53", null ],
     [ "debug_commandscript", "d5/d1b/classThreatManager.html#a25aa066ba98678029d373def665bfb42", null ],
     [ "ThreatReference", "d5/d1b/classThreatManager.html#a3b9f29cdbe1670fc06ffb6b8408ee25c", null ],
