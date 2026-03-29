@@ -4,7 +4,6 @@ var zone__eastern__plaguelands_8cpp =
     [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html", "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI" ],
     [ "npc_balance_of_light_and_shadow", "d4/d60/classnpc__balance__of__light__and__shadow.html", "d4/d60/classnpc__balance__of__light__and__shadow" ],
     [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI.html", "d6/dd5/structnpc__balance__of__light__and__shadow_1_1npc__balance__of__light__and__shadowAI" ],
-    [ "npc_augustus_the_touched", "d3/d0a/classnpc__augustus__the__touched.html", "d3/d0a/classnpc__augustus__the__touched" ],
     [ "eEris", "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
       [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
       [ "ITEM_EYE_OF_DIVINITY", "da/da0/zone__eastern__plaguelands_8cpp.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],

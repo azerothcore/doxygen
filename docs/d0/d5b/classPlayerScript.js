@@ -133,6 +133,7 @@ var classPlayerScript =
     [ "OnPlayerKilledByCreature", "d0/d5b/classPlayerScript.html#aea9b3ff2882fd0a3c511c8b7c0193f85", null ],
     [ "OnPlayerLearnSpell", "d0/d5b/classPlayerScript.html#ad49b8284773c1a88cc60093247a4fa6e", null ],
     [ "OnPlayerLearnTalents", "d0/d5b/classPlayerScript.html#a4eab0a3195d658a1a2caa8e620cd4b7f", null ],
+    [ "OnPlayerLearnTaxiNode", "d0/d5b/classPlayerScript.html#a84f0c306bd7b1e721fe43db519b2cbb6", null ],
     [ "OnPlayerLeaveCombat", "d0/d5b/classPlayerScript.html#ab1aa7309009b5fa7422d0358e659ccc5", null ],
     [ "OnPlayerLevelChanged", "d0/d5b/classPlayerScript.html#acca6097e95fdffdf25694e0a40eaf575", null ],
     [ "OnPlayerLoadFromDB", "d0/d5b/classPlayerScript.html#a0825f8c0b2a86e23e9e9606cae561951", null ],

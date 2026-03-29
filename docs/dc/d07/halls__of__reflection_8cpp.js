@@ -43,8 +43,7 @@ var halls__of__reflection_8cpp =
       [ "EVENT_LK_SUMMON_RWD", "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a908a4e1ff6da3d9074e87a34a8105dd0", null ],
       [ "EVENT_LK_SUMMON_LA", "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a9aed6ae35b26a0c6ec1d4eacdfc11650", null ],
       [ "EVENT_LK_SUMMON_NEXT_ICE_WALL", "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a343a63c10e381459a513284f29692cab", null ],
-      [ "EVENT_SAY_OPENING", "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a55b20b71a31c8057d1093822e0a81add", null ],
-      [ "EVENT_DECREASE_REQ_COUNT_BY_100", "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a21512f4e840f3d59864f568cd753d462", null ]
+      [ "EVENT_SAY_OPENING", "dc/d07/halls__of__reflection_8cpp.html#a0b8e633eb392f65b1348715bcaebc543a55b20b71a31c8057d1093822e0a81add", null ]
     ] ],
     [ "Events", "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_NONE", "dc/d07/halls__of__reflection_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a939a6cc6d749a232a23ff324dca6d48c", null ],

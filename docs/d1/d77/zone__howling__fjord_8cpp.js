@@ -6,7 +6,6 @@ var zone__howling__fjord_8cpp =
     [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI.html", "dd/dfb/structnpc__apothecary__hanes_1_1npc__Apothecary__HanesAI" ],
     [ "npc_plaguehound_tracker", "d4/dfa/classnpc__plaguehound__tracker.html", "d4/dfa/classnpc__plaguehound__tracker" ],
     [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d4/d9a/structnpc__plaguehound__tracker_1_1npc__plaguehound__trackerAI.html", "d4/d9a/structnpc__plaguehound__tracker_1_1npc__plaguehound__trackerAI" ],
-    [ "npc_razael_and_lyana", "dd/d16/classnpc__razael__and__lyana.html", "dd/d16/classnpc__razael__and__lyana" ],
     [ "npc_rodin_lightning_enabler", "d5/dae/structnpc__rodin__lightning__enabler.html", "d5/dae/structnpc__rodin__lightning__enabler" ],
     [ "spell_hawk_hunting", "d4/dc6/classspell__hawk__hunting.html", "d4/dc6/classspell__hawk__hunting" ],
     [ "spell_the_cleansing_shrine_cast", "d6/dcd/classspell__the__cleansing__shrine__cast.html", "d6/dcd/classspell__the__cleansing__shrine__cast" ],
@@ -22,15 +21,6 @@ var zone__howling__fjord_8cpp =
     ] ],
     [ "HawkHunting", "d1/d77/zone__howling__fjord_8cpp.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
       [ "SPELL_HAWK_HUNTING_ITEM", "d1/d77/zone__howling__fjord_8cpp.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
-    ] ],
-    [ "Razael", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbc", [
-      [ "QUEST_REPORTS_FROM_THE_FIELD", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca7babf6a26e3dc43b61fa6284e07f955a", null ],
-      [ "NPC_RAZAEL", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbcae04ab9caff2861d2f49da40755b84e1c", null ],
-      [ "NPC_LYANA", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca5efa419daacf74521ba680f68bed979e", null ],
-      [ "GOSSIP_TEXTID_RAZAEL1", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca65b20fa216028b36c1a98b0af4e4239a", null ],
-      [ "GOSSIP_TEXTID_RAZAEL2", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca313a7629a69c0bf528e79730249c4d51", null ],
-      [ "GOSSIP_TEXTID_LYANA1", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca141f525bef4cf496e2f8aaf8cfa2799b", null ],
-      [ "GOSSIP_TEXTID_LYANA2", "d1/d77/zone__howling__fjord_8cpp.html#a7fbd4804d568fc6fbf46da35d3c3ffbca43caf287e871cac2d4a7d2e821727377", null ]
     ] ],
     [ "RodinLightningSpells", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3", [
       [ "SPELL_RODIN_LIGHTNING_START", "d1/d77/zone__howling__fjord_8cpp.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],

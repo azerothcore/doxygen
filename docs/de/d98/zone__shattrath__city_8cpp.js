@@ -1,7 +1,5 @@
 var zone__shattrath__city_8cpp =
 [
-    [ "npc_shattrathflaskvendors", "da/d1c/classnpc__shattrathflaskvendors.html", "da/d1c/classnpc__shattrathflaskvendors" ],
-    [ "npc_zephyr", "dc/dd1/classnpc__zephyr.html", "dc/dd1/classnpc__zephyr" ],
     [ "npc_kservant", "d7/d56/classnpc__kservant.html", "d7/d56/classnpc__kservant" ],
     [ "npc_kservant::npc_kservantAI", "d1/d00/structnpc__kservant_1_1npc__kservantAI.html", "d1/d00/structnpc__kservant_1_1npc__kservantAI" ],
     [ "npc_shattrath_daily_quest", "dc/dcc/structnpc__shattrath__daily__quest.html", "dc/dcc/structnpc__shattrath__daily__quest" ],
@@ -59,10 +57,6 @@ var zone__shattrath__city_8cpp =
       [ "POOL_SHATTRATH_DAILY_N", "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31ad9a40b1ff8e0eca051b556754531a04f", null ],
       [ "NPC_SHATTRATH_DAILY_H", "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31a0d5757b63fcb3c39042c1cbd6da4e377", null ],
       [ "NPC_SHATTRATH_DAILY_N", "de/d98/zone__shattrath__city_8cpp.html#ae8c63bdfa455c89419359453671f2e31ae29235cb9cc56c74bacfd344e7fa0a87", null ]
-    ] ],
-    [ "Zephyr", "de/d98/zone__shattrath__city_8cpp.html#ab0f1601defe96b7a00eb381a8d06bbd0", [
-      [ "GOSSIP_MENU_ZEPHYR", "de/d98/zone__shattrath__city_8cpp.html#ab0f1601defe96b7a00eb381a8d06bbd0a17949e22b0d24a36e25d60066af3bb1c", null ],
-      [ "SPELL_TELEPORT_CAVERNS_OF_TIME", "de/d98/zone__shattrath__city_8cpp.html#ab0f1601defe96b7a00eb381a8d06bbd0a196d48a27f0ea77f6d249a742dab97d9", null ]
     ] ],
     [ "AddSC_shattrath_city", "de/d98/zone__shattrath__city_8cpp.html#a48333af9544088068e574ea5dad8ccea", null ]
 ];

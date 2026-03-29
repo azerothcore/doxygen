@@ -370,6 +370,7 @@ var classScriptMgr =
     [ "OnPlayerKilledByCreature", "d2/d73/classScriptMgr.html#aa44972dbfd2357978332e5a90e7a86f7", null ],
     [ "OnPlayerLearnSpell", "d2/d73/classScriptMgr.html#adb1826f90fbd133496674a8b9d5b1f2c", null ],
     [ "OnPlayerLearnTalents", "d2/d73/classScriptMgr.html#a1785fe08d4aca99035da7d63fc2bd441", null ],
+    [ "OnPlayerLearnTaxiNode", "d2/d73/classScriptMgr.html#ad91f449a8664b8d9234f0684c71b7d9c", null ],
     [ "OnPlayerLeaveCombat", "d2/d73/classScriptMgr.html#a3325cc35bbe4c4b658260f58768f1bce", null ],
     [ "OnPlayerLeaveMap", "d2/d73/classScriptMgr.html#a425a35071837d5fb08717244594520cc", null ],
     [ "OnPlayerLevelChanged", "d2/d73/classScriptMgr.html#aaa6f887a0f0c0b005fee9db3997b2334", null ],

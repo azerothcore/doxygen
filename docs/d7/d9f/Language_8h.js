@@ -1205,7 +1205,9 @@ var Language_8h =
       [ "LANG_DEBUG_FACTIONCHANGE_GOLD_FAIL", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa29bb2205e6a260fcb23e71db7ec1a0f1", null ],
       [ "LANG_DEBUG_FACTIONCHANGE_GOLD_OK", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf064f853ce2de504cf1b80cb6bd4f84d", null ],
       [ "LANG_DEBUG_FACTIONCHANGE_GOLD_NOLIMIT", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aafc18ac2f7d7012b5ae51e6131fe902b1", null ],
-      [ "LANG_DEBUG_FACTIONCHANGE_NA", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa19606134adb1183280e048195e3cb0f4", null ]
+      [ "LANG_DEBUG_FACTIONCHANGE_NA", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aa19606134adb1183280e048195e3cb0f4", null ],
+      [ "LANG_ACHIEVEMENT_ADD_ONLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aac24d9e8a13fd5bac6e6673f8a776e3bd", null ],
+      [ "LANG_ACHIEVEMENT_ADD_OFFLINE", "d7/d9f/Language_8h.html#af9ee42b1cf006ecb2d2e74fe71c0761aae98d1d77a1fc3707d17553193cbe8820", null ]
     ] ],
     [ "BroadcastTextIds", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d7/d9f/Language_8h.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

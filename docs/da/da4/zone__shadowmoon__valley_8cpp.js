@@ -11,8 +11,6 @@ var zone__shadowmoon__valley_8cpp =
     [ "npc_enslaved_netherwing_drake", "d7/d0c/structnpc__enslaved__netherwing__drake.html", "d7/d0c/structnpc__enslaved__netherwing__drake" ],
     [ "npc_dragonmaw_peon", "d5/d27/classnpc__dragonmaw__peon.html", "d5/d27/classnpc__dragonmaw__peon" ],
     [ "npc_dragonmaw_peon::npc_dragonmaw_peonAI", "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI.html", "d3/d41/structnpc__dragonmaw__peon_1_1npc__dragonmaw__peonAI" ],
-    [ "npc_drake_dealer_hurlunk", "d5/d49/classnpc__drake__dealer__hurlunk.html", "d5/d49/classnpc__drake__dealer__hurlunk" ],
-    [ "npcs_flanis_swiftwing_and_kagrosh", "dd/da0/classnpcs__flanis__swiftwing__and__kagrosh.html", "dd/da0/classnpcs__flanis__swiftwing__and__kagrosh" ],
     [ "npc_karynaku", "de/d66/classnpc__karynaku.html", "de/d66/classnpc__karynaku" ],
     [ "TorlothCinematic", "d0/d87/structTorlothCinematic.html", "d0/d87/structTorlothCinematic" ],
     [ "Location", "d3/d98/structLocation.html", "d3/d98/structLocation" ],
@@ -123,11 +121,6 @@ var zone__shadowmoon__valley_8cpp =
       [ "NPC_ESCAPE_DUMMY", "da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846a08ffe87232f0c55b72bd5e43b9570800", null ],
       [ "POINT_DESPAWN", "da/da4/zone__shadowmoon__valley_8cpp.html#adac4495636f524e96492a9b0806ca846a193b32ae3e767cdd2899238b38950ddf", null ]
     ] ],
-    [ "Flanis", "da/da4/zone__shadowmoon__valley_8cpp.html#a954375235f2df9db6615f7f93286c537", [
-      [ "QUEST_THE_FATE_OF_FLANIS", "da/da4/zone__shadowmoon__valley_8cpp.html#a954375235f2df9db6615f7f93286c537a19a57e186b8adea2503d432562389fa9", null ],
-      [ "ITEM_FLAUNISS_PACK", "da/da4/zone__shadowmoon__valley_8cpp.html#a954375235f2df9db6615f7f93286c537a255556fffe624599c901bb11edb37417", null ],
-      [ "GOSSIP_MENU_FLANIS", "da/da4/zone__shadowmoon__valley_8cpp.html#a954375235f2df9db6615f7f93286c537ac9040b837bc1d0468e6ab3496e3ac37c", null ]
-    ] ],
     [ "InfernalOversoul", "da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450", [
       [ "NPC_INFERNAL_OVERSOUL", "da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f", null ],
       [ "SPELL_DISRUPT_SUMMONING_RITUAL", "da/da4/zone__shadowmoon__valley_8cpp.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8", null ]
@@ -140,11 +133,6 @@ var zone__shadowmoon__valley_8cpp =
       [ "SPELL_SUMMON_INFERNAL", "da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981ade42ab46d5d7f906d8fb7bd16cdcc241", null ],
       [ "TYPE_INFERNAL", "da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981ad8a8f951d8f106aa11eed28742d7a6c8", null ],
       [ "DATA_DIED", "da/da4/zone__shadowmoon__valley_8cpp.html#afc71d3d9676b2a12bfa07cf43efa1981a04a6cbcda450d7a68236e4f4df039e36", null ]
-    ] ],
-    [ "Kagrosh", "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0", [
-      [ "QUEST_THE_FATE_OF_KAGROSH", "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a42d86cd1fce27ed52b16e1fa816f2d40", null ],
-      [ "ITEM_KAGROSHS_PACK", "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0a94af56a7ae4437fec24f8fe79b6cc54e", null ],
-      [ "GOSSIP_MENU_KAGROSH", "da/da4/zone__shadowmoon__valley_8cpp.html#acf24b0c484b7b6811a4d54e4c870f6f0aff0e297296a4075024da992fd5b774c8", null ]
     ] ],
     [ "Karynaku", "da/da4/zone__shadowmoon__valley_8cpp.html#a123c4b1ebb762013db19c932e44a4e24", [
       [ "QUEST_ALLY_OF_NETHER", "da/da4/zone__shadowmoon__valley_8cpp.html#a123c4b1ebb762013db19c932e44a4e24a0cea5be66aa00f0a720a75b2dfe52849", null ],

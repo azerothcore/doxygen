@@ -6,7 +6,6 @@ var blackrock__depths_8cpp =
     [ "at_ring_of_law", "df/d54/classat__ring__of__law.html", "df/d54/classat__ring__of__law" ],
     [ "npc_grimstone", "d7/df6/structnpc__grimstone.html", "d7/df6/structnpc__grimstone" ],
     [ "npc_phalanx", "de/d1d/structnpc__phalanx.html", "de/d1d/structnpc__phalanx" ],
-    [ "npc_lokhtos_darkbargainer", "d4/d80/structnpc__lokhtos__darkbargainer.html", "d4/d80/structnpc__lokhtos__darkbargainer" ],
     [ "npc_rocknot", "dd/d4c/structnpc__rocknot.html", "dd/d4c/structnpc__rocknot" ],
     [ "GrimstoneTexts", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954", [
       [ "SAY_TEXT1", "df/d57/blackrock__depths_8cpp.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
@@ -19,16 +18,6 @@ var blackrock__depths_8cpp =
     [ "IronhandData", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779", [
       [ "IRONHAND_N_GROUPS", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
       [ "SPELL_GOUT_OF_FLAMES", "df/d57/blackrock__depths_8cpp.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
-    ] ],
-    [ "LokhtosItems", "df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94", [
-      [ "ITEM_THRORIUM_BROTHERHOOD_CONTRACT", "df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b", null ],
-      [ "ITEM_SULFURON_INGOT", "df/d57/blackrock__depths_8cpp.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700", null ]
-    ] ],
-    [ "LokhtosQuests", "df/d57/blackrock__depths_8cpp.html#a45b983ab1cb7b86457cb9e2996c3db7e", [
-      [ "QUEST_A_BINDING_CONTRACT", "df/d57/blackrock__depths_8cpp.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6", null ]
-    ] ],
-    [ "LokhtosSpells", "df/d57/blackrock__depths_8cpp.html#afc72f18a766ff75425d24ce4bff0b174", [
-      [ "SPELL_CREATE_THORIUM_BROTHERHOOD_CONTRACT_DND", "df/d57/blackrock__depths_8cpp.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7", null ]
     ] ],
     [ "PhalanxSpells", "df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21", [
       [ "SPELL_THUNDERCLAP", "df/d57/blackrock__depths_8cpp.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e", null ],

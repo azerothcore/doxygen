@@ -7,7 +7,6 @@ var zone__sholazar__basin_8cpp =
     [ "go_pressure_valve", "d0/d94/classgo__pressure__valve.html", "d0/d94/classgo__pressure__valve" ],
     [ "go_brazier", "d9/d2c/classgo__brazier.html", "d9/d2c/classgo__brazier" ],
     [ "npc_vekjik", "d4/d0a/classnpc__vekjik.html", "d4/d0a/classnpc__vekjik" ],
-    [ "npc_avatar_of_freya", "d4/d99/classnpc__avatar__of__freya.html", "d4/d99/classnpc__avatar__of__freya" ],
     [ "npc_bushwhacker", "d8/dd5/classnpc__bushwhacker.html", "d8/dd5/classnpc__bushwhacker" ],
     [ "npc_bushwhacker::npc_bushwhackerAI", "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI.html", "db/d2d/structnpc__bushwhacker_1_1npc__bushwhackerAI" ],
     [ "npc_engineer_helice", "d1/d3a/classnpc__engineer__helice.html", "d1/d3a/classnpc__engineer__helice" ],
@@ -46,16 +45,6 @@ var zone__sholazar__basin_8cpp =
       [ "SAY_WP_6", "d3/d6e/zone__sholazar__basin_8cpp.html#a46213cdc4e36daec2b9c847b1a8b41edaa132382790f2e1789a23c86da0deb0c6", null ],
       [ "SAY_WP_7", "d3/d6e/zone__sholazar__basin_8cpp.html#a46213cdc4e36daec2b9c847b1a8b41eda5544841a30e1ff97bdd2b39e550dc219", null ],
       [ "QUEST_DISASTER", "d3/d6e/zone__sholazar__basin_8cpp.html#a46213cdc4e36daec2b9c847b1a8b41edae0be2b168a36b8c07d2044f909d1d757", null ]
-    ] ],
-    [ "Freya", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90", [
-      [ "QUEST_FREYA_PACT", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90a38a64601eb27798af9d1e9f3888995da", null ],
-      [ "SPELL_FREYA_CONVERSATION", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90ab049cf1b16710d7a0d498aa3278846b8", null ],
-      [ "GOSSIP_AVATAR_MENU_1", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90a95508ef65e5d9fe8714f873ced6ab1f1", null ],
-      [ "GOSSIP_AVATAR_MENU_2", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90adf3feb1455c3d7f45eccb415552cd583", null ],
-      [ "GOSSIP_AVATAR_MENU_3", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90a05895ed39a5350fe65d54946886c1444", null ],
-      [ "GOSSIP_TEXTID_AVATAR_1", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90a636662f383fbac9fe631f175de811cc6", null ],
-      [ "GOSSIP_TEXTID_AVATAR_2", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90ab2255a6ee272c6388e7cb26befac8a3f", null ],
-      [ "GOSSIP_TEXTID_AVATAR_3", "d3/d6e/zone__sholazar__basin_8cpp.html#a63ab7942a53cd2dcbf9d693116434e90ab8f08026ba3384dabf237cd0308a3321", null ]
     ] ],
     [ "JunglePunch", "d3/d6e/zone__sholazar__basin_8cpp.html#a53ad00f06e31972f3b2874e94efd3466", [
       [ "ITEM_TANKARD", "d3/d6e/zone__sholazar__basin_8cpp.html#a53ad00f06e31972f3b2874e94efd3466a9f74e9799fe1ee2254676728aa83f9df", null ],

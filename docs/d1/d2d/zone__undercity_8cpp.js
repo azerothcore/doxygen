@@ -4,7 +4,6 @@ var zone__undercity_8cpp =
     [ "npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI.html", "da/d2e/structnpc__lady__sylvanas__windrunner_1_1npc__lady__sylvanas__windrunnerAI" ],
     [ "npc_highborne_lamenter", "dc/d5b/classnpc__highborne__lamenter.html", "dc/d5b/classnpc__highborne__lamenter" ],
     [ "npc_highborne_lamenter::npc_highborne_lamenterAI", "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI.html", "dd/df4/structnpc__highborne__lamenter_1_1npc__highborne__lamenterAI" ],
-    [ "npc_parqual_fintallas", "db/d99/classnpc__parqual__fintallas.html", "db/d99/classnpc__parqual__fintallas" ],
     [ "LocationXYZO", "d5/d59/structLocationXYZO.html", "d5/d59/structLocationXYZO" ],
     [ "npc_varian_wrynn", "da/d2e/classnpc__varian__wrynn.html", "da/d2e/classnpc__varian__wrynn" ],
     [ "npc_varian_wrynn::npc_varian_wrynnAI", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html", "d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI" ],
@@ -47,13 +46,6 @@ var zone__undercity_8cpp =
     ] ],
     [ "KhanokMisc", "d1/d2d/zone__undercity_8cpp.html#a413aee4481657aedfb2dd3d4830f7472", [
       [ "NPC_KHANOK", "d1/d2d/zone__undercity_8cpp.html#a413aee4481657aedfb2dd3d4830f7472aad971efc8bb1fb3c3efb61f1a5398207", null ]
-    ] ],
-    [ "ParqualFintallas", "d1/d2d/zone__undercity_8cpp.html#aed5adbb1536a74842c8c2cf6566926f2", [
-      [ "SPELL_MARK_OF_SHAME", "d1/d2d/zone__undercity_8cpp.html#aed5adbb1536a74842c8c2cf6566926f2a80db9d1716b6ff7f5c217cb9c2a2bcca", null ],
-      [ "QUEST_ID_TEST_OF_LORE", "d1/d2d/zone__undercity_8cpp.html#aed5adbb1536a74842c8c2cf6566926f2ac341597eff9f05f1c4afda175096f1b2", null ],
-      [ "GOSSIP_MENU_ID_TEST_OF_LORE", "d1/d2d/zone__undercity_8cpp.html#aed5adbb1536a74842c8c2cf6566926f2a5e58487d4df3c5a6fa7c1249153bf4da", null ],
-      [ "GOSSIP_TEXTID_PARQUAL_FINTALLAS", "d1/d2d/zone__undercity_8cpp.html#aed5adbb1536a74842c8c2cf6566926f2ac0bdb1c1f1cc622c06873ad25889baeb", null ],
-      [ "GOSSIP_TEXTID_TEST_OF_LORE", "d1/d2d/zone__undercity_8cpp.html#aed5adbb1536a74842c8c2cf6566926f2a6d038367b6537846c72c4502c3d518e8", null ]
     ] ],
     [ "PutressMisc", "d1/d2d/zone__undercity_8cpp.html#ab042849081acbe9247b6a85e4c0e5c1b", [
       [ "NPC_PUTRESS", "d1/d2d/zone__undercity_8cpp.html#ab042849081acbe9247b6a85e4c0e5c1ba42dd0ff9ce409d32a15f3a70e839f7ea", null ],

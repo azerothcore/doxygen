@@ -6,7 +6,6 @@ var zone__storm__peaks_8cpp =
     [ "npc_time_lost_proto_drake", "d8/dc3/classnpc__time__lost__proto__drake.html", "d8/dc3/classnpc__time__lost__proto__drake" ],
     [ "npc_time_lost_proto_drake::npc_time_lost_proto_drakeAI", "d3/d15/structnpc__time__lost__proto__drake_1_1npc__time__lost__proto__drakeAI.html", "d3/d15/structnpc__time__lost__proto__drake_1_1npc__time__lost__proto__drakeAI" ],
     [ "spell_q13007_iron_colossus", "d6/d8d/classspell__q13007__iron__colossus.html", "d6/d8d/classspell__q13007__iron__colossus" ],
-    [ "npc_roxi_ramrocket", "df/d94/classnpc__roxi__ramrocket.html", "df/d94/classnpc__roxi__ramrocket" ],
     [ "npc_brunnhildar_prisoner", "d3/d57/classnpc__brunnhildar__prisoner.html", "d3/d57/classnpc__brunnhildar__prisoner" ],
     [ "npc_brunnhildar_prisoner::npc_brunnhildar_prisonerAI", "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI.html", "db/d92/structnpc__brunnhildar__prisoner_1_1npc__brunnhildar__prisonerAI" ],
     [ "npc_freed_protodrake", "dd/db0/classnpc__freed__protodrake.html", "dd/db0/classnpc__freed__protodrake" ],
@@ -91,10 +90,6 @@ var zone__storm__peaks_8cpp =
       [ "TALK_SEEN", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a10134bf581c9c70666065b71b0f762f4", null ],
       [ "TALK_CONFRONT", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530a9e44cf3b9850cdf13cdac25dc598a7e8", null ],
       [ "TALK_EMOTE_TRACKED_COMPLETE", "dd/db2/zone__storm__peaks_8cpp.html#ae794c084a85a17bd6a4ca1e996c00530ad5b32ae894fa82cc4251ea6d2d7f658b", null ]
-    ] ],
-    [ "RoxiRamrocket", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaff", [
-      [ "SPELL_MECHANO_HOG", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffa3e2dee241927533a2d68385a01272ffe", null ],
-      [ "SPELL_MEKGINEERS_CHOPPER", "dd/db2/zone__storm__peaks_8cpp.html#a058d6572cf39f2cc3c25d28e576fdaffac82446ffb1ea10bf1e736999e287b9f6", null ]
     ] ],
     [ "StormcrestEagle", "dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71", [
       [ "NPC_STORMCREST_EAGLE", "dd/db2/zone__storm__peaks_8cpp.html#abe5acaa40f94ddf6dd0a5aa1ac9a4d71a58a9b81c2cdf68439c2e3a4ae08ab651", null ]

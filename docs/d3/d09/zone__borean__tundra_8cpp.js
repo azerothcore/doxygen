@@ -5,7 +5,6 @@ var zone__borean__tundra_8cpp =
     [ "npc_sinkhole_kill_credit::npc_sinkhole_kill_creditAI", "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI.html", "df/d4d/structnpc__sinkhole__kill__credit_1_1npc__sinkhole__kill__creditAI" ],
     [ "npc_khunok_the_behemoth", "dc/d95/classnpc__khunok__the__behemoth.html", "dc/d95/classnpc__khunok__the__behemoth" ],
     [ "npc_khunok_the_behemoth::npc_khunok_the_behemothAI", "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI.html", "df/dba/structnpc__khunok__the__behemoth_1_1npc__khunok__the__behemothAI" ],
-    [ "npc_iruk", "d4/dc0/classnpc__iruk.html", "d4/dc0/classnpc__iruk" ],
     [ "npc_nerubar_victim", "dd/d44/classnpc__nerubar__victim.html", "dd/d44/classnpc__nerubar__victim" ],
     [ "npc_nerubar_victim::npc_nerubar_victimAI", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI.html", "d2/d65/structnpc__nerubar__victim_1_1npc__nerubar__victimAI" ],
     [ "npc_lurgglbr", "d3/daa/classnpc__lurgglbr.html", "d3/daa/classnpc__lurgglbr" ],
@@ -75,13 +74,6 @@ var zone__borean__tundra_8cpp =
       [ "SAY_IMPRISIONED_BERYL_5", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a98aaa997cbd8824a4e9b5c50047078f5", null ],
       [ "SAY_IMPRISIONED_BERYL_6", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a0ac92ed472704313c5dc8cdc65935b00", null ],
       [ "SAY_IMPRISIONED_BERYL_7", "d3/d09/zone__borean__tundra_8cpp.html#a6f2fd2620ffdf295515afcd78e32b178a1e32811c8b718211a4bc078ce8a395e7", null ]
-    ] ],
-    [ "Iruk", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2", [
-      [ "GOSSIP_MENU_ID_NPC_IRUK", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a449324578bf5e9b268f1a06b37a95c44", null ],
-      [ "GOSSIP_OPTION_SEARCH_CORPSE", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2af053b10d23f7b5cf05d7975e7757f302", null ],
-      [ "NPC_TEXT_THIS_YOUNG_TUSKARR", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2ad3ddb886288e845bf2f5a2eb8ae0eb57", null ],
-      [ "QUEST_SPIRITS_WATCH_OVER_US", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a040eb64d494253cbfc4c3827a7dc5335", null ],
-      [ "SPELL_CREATE_TOTEM_OF_ISSLIRUK", "d3/d09/zone__borean__tundra_8cpp.html#a59322cb73a45c5590c54783a648b3dc2a881a49b3b13e7eae34180a2a08dd674d", null ]
     ] ],
     [ "Jenny", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753ea", [
       [ "EVENT_JENNY_START_FOLLOW", "d3/d09/zone__borean__tundra_8cpp.html#a24840ea4f38b25e4319b540f94a753eaa4024ad02fa31b228201d11fbec9c6d21", null ],

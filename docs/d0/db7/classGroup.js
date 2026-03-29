@@ -84,6 +84,7 @@ var classGroup =
     [ "RemoveAllInvites", "d0/db7/classGroup.html#a3b32b431817aa26514853799df1bab72", null ],
     [ "RemoveInvite", "d0/db7/classGroup.html#a6ae8d8bc41a1770558866a505ce4b1a1", null ],
     [ "RemoveMember", "d0/db7/classGroup.html#aa32c9c240d705c57efe1fd53a1a380bf", null ],
+    [ "RemovePlayerFromRolls", "d0/db7/classGroup.html#ac61415d4a06851fdf5747a039ef2e41f", null ],
     [ "RemoveUniqueGroupMemberFlag", "d0/db7/classGroup.html#af7dc42bf9fa25408fca33ed7b0cf168c", null ],
     [ "ResetInstances", "d0/db7/classGroup.html#ab0c811d817dad5a3c5dab2c7ea830a9e", null ],
     [ "ResetMaxEnchantingLevel", "d0/db7/classGroup.html#a84fd1b95882fe710133f015e3c1b59fd", null ],

@@ -7,11 +7,13 @@ var structnpc__hor__lich__king =
     [ "Reset", "d6/dda/structnpc__hor__lich__king.html#a5c9512ccad51c881c9e8759341fd9d14", null ],
     [ "SpellHitTarget", "d6/dda/structnpc__hor__lich__king.html#a44b63fa387d05676c992cc100fb92806", null ],
     [ "SummonedCreatureDespawn", "d6/dda/structnpc__hor__lich__king.html#ac261de86ded5c319226867dfc3a5f42f", null ],
+    [ "SummonedCreatureDies", "d6/dda/structnpc__hor__lich__king.html#a56b91c8d991778306bfea3702d94f1e7", null ],
     [ "UpdateAI", "d6/dda/structnpc__hor__lich__king.html#a0b5247d0e23ede8b867343803cec9774", null ],
+    [ "WallCompleted", "d6/dda/structnpc__hor__lich__king.html#ad668e38cc7c651700686665d088d3a1d", null ],
     [ "currentWall", "d6/dda/structnpc__hor__lich__king.html#a5bac2be147e9725b68f56f056a341442", null ],
     [ "div2", "d6/dda/structnpc__hor__lich__king.html#af656d33ad0117378a75551d54d2a376f", null ],
     [ "events", "d6/dda/structnpc__hor__lich__king.html#acab01caba2cf66c21fe8a164f77491f1", null ],
     [ "instance", "d6/dda/structnpc__hor__lich__king.html#acaf28a6ecc646d551795bcb10d803923", null ],
-    [ "reqKillCount", "d6/dda/structnpc__hor__lich__king.html#a3092e353ab92f5439704f47cf9b3224d", null ],
-    [ "summons", "d6/dda/structnpc__hor__lich__king.html#ad7c511cfa480c3b6801b63e63c0013c6", null ]
+    [ "summons", "d6/dda/structnpc__hor__lich__king.html#ad7c511cfa480c3b6801b63e63c0013c6", null ],
+    [ "summonsCount", "d6/dda/structnpc__hor__lich__king.html#aa2e468e58f92cbdf7377805d5711c45e", null ]
 ];
