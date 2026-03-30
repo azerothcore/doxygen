@@ -1,5 +1,7 @@
 var NAVTREEINDEX319 =
 {
+"dc/d5d/classspell__baltharus__enervating__brand__trigger.html#adb14940f47dc509d75a4e81bb90fc40d":[6,0,2659,1],
+"dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html":[6,0,2287,0],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a08ef419fbef2ec38b7bcd408f135cd29":[6,0,2287,0,15],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a0927116dcc55a1107dce7c65d1295e2a":[6,0,2287,0,8],
 "dc/d5d/structnpc__weegli__blastfuse_1_1npc__weegli__blastfuseAI.html#a0c7f207666da8ad74ff9dc64b582a042":[6,0,2287,0,11],
@@ -65,12 +67,12 @@ var NAVTREEINDEX319 =
 "dc/d64/classspell__pri__item__t6__trinket.html#a283f05b3649e3c137679ab92386f7a84":[6,0,3783,2],
 "dc/d64/classspell__pri__item__t6__trinket.html#a4805c758dc85e065cdb9550a5856fe31":[6,0,3783,3],
 "dc/d64/classspell__pri__item__t6__trinket.html#af27f9408725ff9c7ec17e8ae352234a9":[6,0,3783,0],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[5,0,34,6,23],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[6,0,12,6,23],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[6,0,12,6,23,0],
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html":[5,0,34,6,23],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[5,0,34,6,23,0],
-"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[5,0,34,6,23,1],
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#a11a70a9974bb139e53f76c8b78944fe7":[6,0,12,6,23,0],
 "dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[6,0,12,6,23,1],
+"dc/d65/classWorldPackets_1_1Guild_1_1GuildDeclineInvitation.html#ad034438e18a7feddbac376a599c1e01a":[5,0,34,6,23,1],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html":[6,0,3294],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html#a0d2e97463f268892965e307628aaa931":[6,0,3294,2],
 "dc/d65/classspell__illidari__council__balance__of__power__aura.html#a5cf70fe73d01e08e78a2d00e5bc95e8e":[6,0,3294,1],
@@ -198,12 +200,12 @@ var NAVTREEINDEX319 =
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html":[6,0,0,17],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[5,0,1,29,1],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a2cf23c24df93b5f7f29163b32e965a94":[6,0,0,17,1],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,17,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[5,0,1,29,0],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,17,2],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a63f46d510df0fa3153d4b3325676a468":[6,0,0,17,0],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[5,0,1,29,2],
-"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[6,0,0,17,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#a6afe3ef05369dce8ee205db219f97846":[6,0,0,17,2],
 "dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[5,0,1,29,3],
+"dc/d6f/classAcore_1_1AllWorldObjectsInRange.html#ae7dde7b946d8affb79cb2d4c58eedbed":[6,0,0,17,3],
 "dc/d70/boss__grobbulus_8cpp.html":[7,0,0,0,1,3,5,7,5],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21a":[7,0,0,0,1,3,5,7,5,7],
 "dc/d70/boss__grobbulus_8cpp.html#a2d0a63150f7988db8ff39124dc1cb21aae05689015180c76c861c384e412b23f5":[7,0,0,0,1,3,5,7,5,7,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX319 =
 "dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#a0dde3447e38e45cea94df44449a19a01":[6,0,2851,3],
 "dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#a28f52bc253899aa407e67f9a089c815c":[6,0,2851,2],
 "dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#a358193e3340112c04f79c043548c3de0":[6,0,2851,1],
-"dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#ac1bace4fc66349364c84b5784967e9bf":[6,0,2851,0],
-"dc/d74/cs__list_8cpp.html":[7,0,0,0,1,3,0,27],
-"dc/d74/cs__list_8cpp.html#a81af00772e7a06ad952109222b1f53a3":[7,0,0,0,1,3,0,27,1]
+"dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#ac1bace4fc66349364c84b5784967e9bf":[6,0,2851,0]
 };

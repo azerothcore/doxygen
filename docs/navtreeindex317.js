@@ -1,5 +1,7 @@
 var NAVTREEINDEX317 =
 {
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba117da9b791c8b4e08170c7b3d31352a7":[7,0,0,0,1,2,26,2,1,74],
+"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba14591cd75238061f282618b77da4ae6b":[7,0,0,0,1,2,26,2,1,18],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba161f4bd3f328ad58f737ed33468387ea":[7,0,0,0,1,2,26,2,1,10],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba1720f18574bec2060f578e981c7aa8a1":[7,0,0,0,1,2,26,2,1,34],
 "dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba1885000009aae8d98aad95fa510f3810":[7,0,0,0,1,2,26,2,1,66],
@@ -247,7 +249,5 @@ var NAVTREEINDEX317 =
 "dc/d4b/classArenaSeasonTeamRewarderImpl.html#a962da3fcdc2feb57ffd2a635d431939a":[6,0,194,0],
 "dc/d4c/MiscScript_8h.html":[7,0,0,0,1,2,38,0,67],
 "dc/d4c/MiscScript_8h.html#af37f873b1735a7e1f78da6f2f334c134":[7,0,0,0,1,2,38,0,67,1],
-"dc/d4c/MiscScript_8h.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433":[7,0,0,0,1,2,38,0,67,1,13],
-"dc/d4c/MiscScript_8h.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72":[7,0,0,0,1,2,38,0,67,1,4],
-"dc/d4c/MiscScript_8h.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616":[7,0,0,0,1,2,38,0,67,1,15]
+"dc/d4c/MiscScript_8h.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433":[7,0,0,0,1,2,38,0,67,1,13]
 };

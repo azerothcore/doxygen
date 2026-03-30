@@ -1,5 +1,7 @@
 var NAVTREEINDEX345 =
 {
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a5fd7be997bc2cd3b4ca83129bf323c60":[7,0,0,0,1,3,5,12,1,4,4],
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a698a2a2065c46398098d92e6fee6be00":[7,0,0,0,1,3,5,12,1,4,6],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a75b13fc62a4d1499ac5db4508a22b31c":[7,0,0,0,1,3,5,12,1,4,3],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a7961a2f4ed5c4dc560b7f16b26ecb49d":[7,0,0,0,1,3,5,12,1,4,5],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af7367c4fd2983cfdf945a7c40dae1fe0":[7,0,0,0,1,3,5,12,1,4,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX345 =
 "dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[6,0,156,13],
 "dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[6,0,156,15],
 "dd/db7/classAllSpellScript.html#ae5a4590e4fb49d4cfe73c5ce307773ca":[6,0,156,5],
-"dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff":[6,0,156,1],
-"dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[6,0,156,9],
-"dd/db8/classnpc__massive__jormungar.html":[6,0,1970]
+"dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff":[6,0,156,1]
 };

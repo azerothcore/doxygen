@@ -1,12 +1,14 @@
 var NAVTREEINDEX335 =
 {
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a4a5d0a04c5461c56b8c6028926bda2a0":[5,0,1,2,4,1],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a5658078bcce50c453f087b1e3f602f05":[5,0,1,2,4,16],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a5658078bcce50c453f087b1e3f602f05":[6,0,0,1,4,16],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a617834cc8474970950b45066f2e86dbd":[6,0,0,1,4,5],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a617834cc8474970950b45066f2e86dbd":[5,0,1,2,4,5],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a617834cc8474970950b45066f2e86dbd":[6,0,0,1,4,5],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a6895aec33b3b5c1a43abd6fa077f1ea8":[6,0,0,1,4,10],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a6895aec33b3b5c1a43abd6fa077f1ea8":[5,0,1,2,4,10],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a6baa96394c108ae26c66a790f024ae3a":[6,0,0,1,4,8],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a6baa96394c108ae26c66a790f024ae3a":[5,0,1,2,4,8],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#a6baa96394c108ae26c66a790f024ae3a":[6,0,0,1,4,8],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#ac4d51841e160051dde72827e9bc71318":[6,0,0,1,4,6],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#ac4d51841e160051dde72827e9bc71318":[5,0,1,2,4,6],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#ac757cca4b11332e5b091639a9a946f88":[6,0,0,1,4,2],
@@ -17,8 +19,8 @@ var NAVTREEINDEX335 =
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#aea33fb49551ebc0f687f3d24dc3dfbea":[5,0,1,2,4,4],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af37d94f83894f4182211208db19c8678":[5,0,1,2,4,12],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af37d94f83894f4182211208db19c8678":[6,0,0,1,4,12],
-"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[6,0,0,1,4,3],
 "dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[5,0,1,2,4,3],
+"dd/d32/structAcore_1_1ChatCommands_1_1PlayerIdentifier.html#af45d29f7ebca2a8af420fdec344264fc":[6,0,0,1,4,3],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html":[7,0,0,0,1,3,2,8,1],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,8,1,3],
 "dd/d33/boss__kirtonos__the__herald_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2d7918e6244e568a604193e00b867466":[7,0,0,0,1,3,2,8,1,3,2],
@@ -123,8 +125,8 @@ var NAVTREEINDEX335 =
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a02878c282dfcfd2b9f4eddf99a805fa3":[6,0,0,5,0,31,0],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[5,0,1,8,0,31,1],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a0bd839d0c7a8b7ce84612c80f3ca84e7":[6,0,0,5,0,31,1],
-"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[5,0,1,8,0,31,2],
+"dd/d37/structAcore_1_1Impl_1_1ChatCommands_1_1TokenizeResult.html#a55e214db8a01ac3c427874d03f1bda54":[6,0,0,5,0,31,2],
 "dd/d3a/BattlegroundMgr_8h.html":[7,0,0,0,1,2,8,12],
 "dd/d3a/BattlegroundMgr_8h.html#a0167dc8561c0fb4a41f0eaa6bea38980":[7,0,0,0,1,2,8,12,6],
 "dd/d3a/BattlegroundMgr_8h.html#a1d8c1781106a97335f700c82ac98e915":[7,0,0,0,1,2,8,12,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX335 =
 "dd/d3b/structGameObjectTemplate.html#a6c88f4672ef3c4d2e44d7d486fab8776":[6,0,1114,25],
 "dd/d3b/structGameObjectTemplate.html#a6c9615541f4a5f94b7c05e86f945179e":[6,0,1114,145],
 "dd/d3b/structGameObjectTemplate.html#a6cb578bfe1db3a811b1bdd39d26cabca":[6,0,1114,179],
-"dd/d3b/structGameObjectTemplate.html#a6e0b8dea8097c04989c81b811a598418":[6,0,1114,86],
-"dd/d3b/structGameObjectTemplate.html#a6f07c1a9e828ec1a92d305fdefcfa428":[6,0,1114,155],
-"dd/d3b/structGameObjectTemplate.html#a70157d695d22d221ef89b6901d2e7b5c":[6,0,1114,169]
+"dd/d3b/structGameObjectTemplate.html#a6e0b8dea8097c04989c81b811a598418":[6,0,1114,86]
 };

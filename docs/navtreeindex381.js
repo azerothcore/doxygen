@@ -1,5 +1,9 @@
 var NAVTREEINDEX381 =
 {
+"de/d9f/cs__cheat_8cpp.html#aafc88882ff0af0beb4632ec2c929fc8c":[7,0,0,0,1,3,0,10,1],
+"de/d9f/structSkillPerfectItemEntry.html":[6,0,2577],
+"de/d9f/structSkillPerfectItemEntry.html#a057605f8867d4df5cb290318598a2908":[6,0,2577,3],
+"de/d9f/structSkillPerfectItemEntry.html#a678f9908440187faad38c0e1ffaf82de":[6,0,2577,1],
 "de/d9f/structSkillPerfectItemEntry.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3":[6,0,2577,0],
 "de/d9f/structSkillPerfectItemEntry.html#a750d5ab6bc3df0026e640f1c84de8547":[6,0,2577,2],
 "de/d9f/structSkillPerfectItemEntry.html#aa7ad968ab1b8804ee8f0f8f40bc6f762":[6,0,2577,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX381 =
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5a2600a437c6ca43cda77708d276ac23":[7,0,0,0,1,1,0,0,1,1,167],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5bb4a38bd69d9a0eb461a649d282df43":[7,0,0,0,1,1,0,0,1,1,227],
 "de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5c2671ab1919145e1b624a95af859375":[7,0,0,0,1,1,0,0,1,1,54],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5c98fddc61c20cf17e99c5a52da8a996":[7,0,0,0,1,1,0,0,1,1,380],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5d543ba5c16ab271a5fd0e5253f65863":[7,0,0,0,1,1,0,0,1,1,374],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5e89131e8d36d82e8341ec03bfa0a32c":[7,0,0,0,1,1,0,0,1,1,52],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5e8f6a73bbecd6f0421ea791bfb1a305":[7,0,0,0,1,1,0,0,1,1,344],
-"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5f44044e91ccc3d31b7791e0fab74d12":[7,0,0,0,1,1,0,0,1,1,335]
+"de/da5/CharacterDatabase_8h.html#a76116b4fa282d8e35bf8f8e940b5cba7a5c98fddc61c20cf17e99c5a52da8a996":[7,0,0,0,1,1,0,0,1,1,380]
 };

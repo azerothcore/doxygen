@@ -1,16 +1,20 @@
 var NAVTREEINDEX403 =
 {
-"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,10],
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#abea9fa4d2623dab4f14978a7f94b595f":[6,0,2210,0,7],
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2210,0,3],
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#aff15508b97bce5f5fad9cf9750e89ff1":[6,0,2210,0,1],
+"df/d94/classDBCFile_1_1Iterator.html":[6,0,979,1],
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,11],
+"df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,979,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,979,1,1],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,979,1,4],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,979,1,5],
-"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,979,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,979,1,2],
+"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,979,1,3],
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[6,0,979,1,12],
-"df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,979,1,9],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,979,1,8],
+"df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,979,1,9],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,979,1,6],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,979,1,7],
 "df/d94/classShockVortexExplodeEvent.html":[6,0,2568],
@@ -245,9 +249,5 @@ var NAVTREEINDEX403 =
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a18fdf10f61e4a27533be8f21d1ae9b6a":[7,0,0,0,1,3,2,27,8,16],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c28745aea8562e2f30166e0ceec0ea":[7,0,0,0,1,3,2,27,8,7],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c3614363fa241f02fede94adfb3ae6":[7,0,0,0,1,3,2,27,8,21],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a267ae47905d29e505c96215636419e87":[7,0,0,0,1,3,2,27,8,22],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a3d3d147dbdefaa5a8280f3d1bcc15ea8":[7,0,0,0,1,3,2,27,8,1],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a43045e804493fb3330d3a72acfed223f":[7,0,0,0,1,3,2,27,8,11],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a49ac50c1122c09f7999dda6775be82e7":[7,0,0,0,1,3,2,27,8,2],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a4b530df2bddb5247e4e9d02d582823d3":[7,0,0,0,1,3,2,27,8,12]
+"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a267ae47905d29e505c96215636419e87":[7,0,0,0,1,3,2,27,8,22]
 };

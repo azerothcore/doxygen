@@ -1,5 +1,7 @@
 var NAVTREEINDEX286 =
 {
+"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc65c64262072ed5f836e4378433067":[7,0,0,0,1,3,4,8,4,8,0],
+"db/d4e/boss__ossirian_8cpp.html#af8d4cf87cdc6c4b3e2a903610294a592":[7,0,0,0,1,3,4,8,4,15],
 "db/d4e/boss__ossirian_8cpp.html#af9c6051ecc2a3d0ec0dfc3dd0567a96e":[7,0,0,0,1,3,4,8,4,17],
 "db/d4e/structboss__grizzle.html":[6,0,524],
 "db/d4e/structboss__grizzle.html#a220d7e426d7bd2034cf2dc70d0a18f26":[6,0,524,3],
@@ -87,10 +89,10 @@ var NAVTREEINDEX286 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[6,0,3173],
@@ -189,7 +191,7 @@ var NAVTREEINDEX286 =
 "db/d55/structboss__majordomo.html#a72ebc3e2bbdf01d5951453479a09ed86":[6,0,621,8],
 "db/d55/structboss__majordomo.html#a7813d29acb394127003c657a78ba49a3":[6,0,621,3],
 "db/d55/structboss__majordomo.html#a7c18f6ed427829f8bf043fab4de16eb8":[6,0,621,16],
-"db/d55/structboss__majordomo.html#a939d8f37e62aada04cefcbb893bb1675":[6,0,621,13],
+"db/d55/structboss__majordomo.html#a9c34c8e5125cbe0b472134ce94258c62":[6,0,621,13],
 "db/d55/structboss__majordomo.html#aa5c60db0a8fca290e40c06c76e86071c":[6,0,621,2],
 "db/d55/structboss__majordomo.html#aa8b25ae89f739c38d1761b36f7dd3fa1":[6,0,621,15],
 "db/d55/structboss__majordomo.html#aaa14f1315a46d4d06bf0227a080d0c49":[6,0,621,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX286 =
 "db/d5a/classAuctionHouseObject.html#ac22a84a7e3f2c6baf5e40a1a43bbf098":[6,0,268,5],
 "db/d5a/classAuctionHouseObject.html#ae769fbe419c78c580fc0c6d6b91a6e28":[6,0,268,6],
 "db/d5a/classAuctionHouseObject.html#ae980b3dc0cb776fa77810d488c0144aa":[6,0,268,1],
-"db/d5a/classAuctionHouseObject.html#ae9a2bed6b57af310230134cdf2cfd46a":[6,0,268,10],
-"db/d5a/classAuctionHouseObject.html#af760e3c74242ab2bbc0cfb03a9224aff":[6,0,268,9],
-"db/d5a/classnpc__sinkhole__kill__credit.html":[6,0,2134]
+"db/d5a/classAuctionHouseObject.html#ae9a2bed6b57af310230134cdf2cfd46a":[6,0,268,10]
 };

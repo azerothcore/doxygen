@@ -13,7 +13,7 @@ var structboss__majordomo =
     [ "MovementInform", "db/d55/structboss__majordomo.html#aaa14f1315a46d4d06bf0227a080d0c49", null ],
     [ "Reset", "db/d55/structboss__majordomo.html#a5b326322edaae37adf38d4479ac1f3e2", null ],
     [ "sGossipHello", "db/d55/structboss__majordomo.html#a556101ceaba8a025694ff50c702fb8cc", null ],
-    [ "sGossipSelect", "db/d55/structboss__majordomo.html#a939d8f37e62aada04cefcbb893bb1675", null ],
+    [ "sGossipSelect", "db/d55/structboss__majordomo.html#a9c34c8e5125cbe0b472134ce94258c62", null ],
     [ "SpellHit", "db/d55/structboss__majordomo.html#ae1522ff98f287c5b7b4755b1f57d3337", null ],
     [ "SummonedCreatureDies", "db/d55/structboss__majordomo.html#aa8b25ae89f739c38d1761b36f7dd3fa1", null ],
     [ "UpdateAI", "db/d55/structboss__majordomo.html#a7c18f6ed427829f8bf043fab4de16eb8", null ],

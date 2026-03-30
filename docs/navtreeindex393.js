@@ -1,5 +1,9 @@
 var NAVTREEINDEX393 =
 {
+"df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afc3e2fe9429a9d43bb8e00ffe69703cf":[7,0,0,0,1,3,2,1,1,15,9,3],
+"df/d1e/instance__blackrock__spire_8cpp.html#af60e00b78607064c5be6aa9397ea49c1afd09db3869f04306b07aef3cb2bd47e8":[7,0,0,0,1,3,2,1,1,15,9,9],
+"df/d1f/classnpc__tharnarian.html":[6,0,2176],
+"df/d1f/classnpc__tharnarian.html#a39d9d9842a7a42c5381e38d10285aa15":[6,0,2176,1],
 "df/d1f/classnpc__tharnarian.html#aaff8dad5d2bdb1571ed2e7a14c64899f":[6,0,2176,2],
 "df/d1f/classnpc__tharnarian.html#aedf88edfd99292a68b8e08f9f05d8f00":[6,0,2176,3],
 "df/d20/GameObjectAI_8h.html":[7,0,0,0,1,2,3,0,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX393 =
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a781565bf5ad5771c78cdb93870dc8f95":[7,0,0,0,1,2,16,5,0,4,6,76],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a78c66f483e148831040080bd93991237":[7,0,0,0,1,2,16,5,0,4,6,223],
 "df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a79bbde3bd7e439a29e7453da2a5b557d":[7,0,0,0,1,2,16,5,0,4,6,136],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7a38ebe68ba7f5fc514789abe842adc1":[7,0,0,0,1,2,16,5,0,4,6,170],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7c01656429ff96f72b601bcbe2b7cbfe":[7,0,0,0,1,2,16,5,0,4,6,189],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7c77babca17795b8279db88d4aa055a5":[7,0,0,0,1,2,16,5,0,4,6,229],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7cd26420de526eaa688c2b9e9abae347":[7,0,0,0,1,2,16,5,0,4,6,303],
-"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7d0145c37c76154e68991026b6c8e609":[7,0,0,0,1,2,16,5,0,4,6,129]
+"df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a7a38ebe68ba7f5fc514789abe842adc1":[7,0,0,0,1,2,16,5,0,4,6,170]
 };

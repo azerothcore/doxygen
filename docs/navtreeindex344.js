@@ -1,5 +1,7 @@
 var NAVTREEINDEX344 =
 {
+"dd/daa/classOPvPCapturePointHP.html#aa8d725422951485970d9106450fb6a38":[6,0,2341,2],
+"dd/daa/classOPvPCapturePointHP.html#ad9738c621df084d5a3f0070c80403642":[6,0,2341,3],
 "dd/dab/Packet_8cpp.html":[7,0,0,0,1,2,39,2],
 "dd/dab/boss__anomalus_8cpp.html":[7,0,0,0,1,3,5,8,1,0],
 "dd/dab/boss__anomalus_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,8,1,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX344 =
 "dd/dae/boss__erekem_8cpp.html":[7,0,0,0,1,3,5,12,1],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,1,4],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5":[7,0,0,0,1,3,5,12,1,4,0],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a427b9c40709ca27786c5816e36640227":[7,0,0,0,1,3,5,12,1,4,2],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a5fd7be997bc2cd3b4ca83129bf323c60":[7,0,0,0,1,3,5,12,1,4,4],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a698a2a2065c46398098d92e6fee6be00":[7,0,0,0,1,3,5,12,1,4,6]
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a427b9c40709ca27786c5816e36640227":[7,0,0,0,1,3,5,12,1,4,2]
 };

@@ -65,6 +65,7 @@ var classSmartAI =
     [ "SetInvincibilityHpLevel", "da/ddc/classSmartAI.html#ae12d7b3a2c9a8f69c69ca0cc795c0e10", null ],
     [ "SetMainSpell", "da/ddc/classSmartAI.html#a47a5f07690b9a4d3f0cf07b1d4a10568", null ],
     [ "SetScript9", "da/ddc/classSmartAI.html#a613858d346747d285b74378c04a43f9c", null ],
+    [ "SetSuppressEvade", "da/ddc/classSmartAI.html#a83b0c4046be68e8f0c6fbda28ab5b919", null ],
     [ "SetSwim", "da/ddc/classSmartAI.html#a30c41adbb3605470306e8711ad24a22b", null ],
     [ "SetWPPauseTimer", "da/ddc/classSmartAI.html#a84af95d422892ad176c80c7491070fef", null ],
     [ "sGossipHello", "da/ddc/classSmartAI.html#ab3dab2651ea4db36edbbc855eb18ecda", null ],
@@ -126,6 +127,7 @@ var classSmartAI =
     [ "mLastWP", "da/ddc/classSmartAI.html#af3af7f64edab082958d39b9b96f671ef", null ],
     [ "mOOCReached", "da/ddc/classSmartAI.html#a19fc7b43f13fb11e7e3af5a8705fdf64", null ],
     [ "mScript", "da/ddc/classSmartAI.html#a84470fef594196f8ab1cdf76b06a6436", null ],
+    [ "mSuppressEvade", "da/ddc/classSmartAI.html#aa27a1fcf15c822ab136273f177549195", null ],
     [ "mWayPoints", "da/ddc/classSmartAI.html#a7770dc965a8ea3a1df3461d2067dd413", null ],
     [ "mWPPauseTimer", "da/ddc/classSmartAI.html#a1bcc493b41ae52b3ad07dca6e319ad1a", null ],
     [ "mWPReached", "da/ddc/classSmartAI.html#a3fc7a4c3e0f39dae42ddbe545272e2d2", null ]

@@ -1,5 +1,7 @@
 var NAVTREEINDEX350 =
 {
+"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1935,1],
+"dd/dda/classnpc__koltira__deathweaver.html#afddc561b88679f3dd6ca8b374807b0f0":[6,0,1935,2],
 "dd/dda/classspell__dk__advantage__t10__4p.html":[6,0,2773],
 "dd/dda/classspell__dk__advantage__t10__4p.html#a04258b702d79372c0e9c2e1845a6563e":[6,0,2773,1],
 "dd/dda/classspell__dk__advantage__t10__4p.html#a56eaad6f2b1d14cea5fe3f7f27cdb877":[6,0,2773,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX350 =
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4]
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3]
 };
