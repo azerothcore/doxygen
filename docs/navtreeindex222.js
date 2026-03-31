@@ -1,6 +1,5 @@
 var NAVTREEINDEX222 =
 {
-"d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a2da64a27cfa5a68464f8f3a885e09751":[6,0,3777,2],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a72463db57f87387aa3ff3175c45ca9df":[6,0,3777,0],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#a798f51ee6333d3ebb2bbb617ea88ea2b":[6,0,3777,3],
 "d8/d71/classspell__pri__glyph__of__prayer__of__healing.html#ae158b4b624b50ad984b2c5e9c16d7670":[6,0,3777,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX222 =
 "d8/d74/classWorldSession.html#a4968ea39ddad12829b885244eaf1dd51":[4,1,19,472],
 "d8/d74/classWorldSession.html#a49c1bcdcc1d6d79404fa6303ac371e2e":[4,1,19,137],
 "d8/d74/classWorldSession.html#a49eaf02202ba67bf4999b2bde0fa408e":[4,1,19,585],
-"d8/d74/classWorldSession.html#a4a037acdeee7df3d3ab7aa35529417d3":[4,1,19,323]
+"d8/d74/classWorldSession.html#a4a037acdeee7df3d3ab7aa35529417d3":[4,1,19,323],
+"d8/d74/classWorldSession.html#a4a31242ddb6263d37d582f0599d6dc6e":[4,1,19,396]
 };

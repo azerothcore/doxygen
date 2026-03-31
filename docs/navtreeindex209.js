@@ -1,6 +1,5 @@
 var NAVTREEINDEX209 =
 {
-"d7/dbc/classspell__warr__glyph__of__blocking.html#a04085f70b61ea7ff2073a1cd777eca1b":[6,0,4302,3],
 "d7/dbc/classspell__warr__glyph__of__blocking.html#a052f2a48c2b30b5e83c95eb4aada0899":[6,0,4302,2],
 "d7/dbc/classspell__warr__glyph__of__blocking.html#abdb4073728e7e637a8538a238eda2f6d":[6,0,4302,1],
 "d7/dbc/classspell__warr__glyph__of__blocking.html#ae41ac4278c643bcd14ff4ab0ecc6dc46":[6,0,4302,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX209 =
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ac2feda8cd6838208b4125660768bd149":[6,0,1375,0,4],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#acf3803f7c36401f8d07d338deb85f8bf":[6,0,1375,0,9],
 "d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ad03c27a0167ecd9ee2e560c053b040ca":[6,0,1375,0,7],
-"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ada77fe641387c5d96a11ed70884c1e5e":[6,0,1375,0,10]
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#ada77fe641387c5d96a11ed70884c1e5e":[6,0,1375,0,10],
+"d7/dc5/structinstance__ulduar_1_1instance__ulduar__InstanceMapScript.html#aef7c9ab9977a037f1021efd9fe83e921":[6,0,1375,0,29]
 };

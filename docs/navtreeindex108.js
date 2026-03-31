@@ -1,10 +1,5 @@
 var NAVTREEINDEX108 =
 {
-"d3/da9/classWorldState.html#a66228290309a4c9dc76994e6f0ab1e2c":[6,0,4640,0],
-"d3/da9/classWorldState.html#a66fb9980d02e5d6d11b0a1113aba2d39":[6,0,4640,74],
-"d3/da9/classWorldState.html#a67c189d45ab5f01e820ff001a7427b77":[6,0,4640,55],
-"d3/da9/classWorldState.html#a6981d17a891b8460a64ced84ff5470f4":[6,0,4640,60],
-"d3/da9/classWorldState.html#a6ad09269608f3670926c7d195743ce0e":[6,0,4640,59],
 "d3/da9/classWorldState.html#a6eafdbdd9c30de839b5768aaf9ae16a8":[6,0,4640,12],
 "d3/da9/classWorldState.html#a7478dfc56b6941b135d97ff3bdd91746":[6,0,4640,17],
 "d3/da9/classWorldState.html#a83055208536e3138eabf84f154bd4f05":[6,0,4640,52],
@@ -140,10 +135,10 @@ var NAVTREEINDEX108 =
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a0abe1fcb36d21ac246174cdc98c0e261":[6,0,12,10,16,3],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[6,0,12,10,16,1],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a28f45d81441d2dde6917380978dfb4d0":[5,0,34,10,16,1],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,12,10,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[5,0,34,10,16,5],
-"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,10,16,2],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a32e56458b1e562c124cfc0288a578134":[6,0,12,10,16,5],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[5,0,34,10,16,2],
+"d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#a641c7de3e527dcdff07b3f602880b5c8":[6,0,12,10,16,2],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[5,0,34,10,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#aa404c94fec05b825454a7309827767c6":[6,0,12,10,16,0],
 "d3/daf/classWorldPackets_1_1Misc_1_1Weather.html#ac37cee2364921a50e2b1ec1b19ed69b7":[5,0,34,10,16,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX108 =
 "d3/db1/structnpc__tortured__rifleman.html#a04210cb211db92a1be6de7bc28953953":[6,0,2212,6],
 "d3/db1/structnpc__tortured__rifleman.html#a1eddbbfa45174c05a24ad01f200983e3":[6,0,2212,3],
 "d3/db1/structnpc__tortured__rifleman.html#a5ab42b048c14838b6992716f62200c57":[6,0,2212,0],
-"d3/db1/structnpc__tortured__rifleman.html#a82f84e5b66d8cbcb25267e0eeb5ce65c":[6,0,2212,1]
+"d3/db1/structnpc__tortured__rifleman.html#a82f84e5b66d8cbcb25267e0eeb5ce65c":[6,0,2212,1],
+"d3/db1/structnpc__tortured__rifleman.html#aa794584f9a842f9725f1f926b4099181":[6,0,2212,7],
+"d3/db1/structnpc__tortured__rifleman.html#aafd02b19ba0280db3eacc21b24d3ceaa":[6,0,2212,2],
+"d3/db1/structnpc__tortured__rifleman.html#ab60cf1d4e6a58613a032b25b043aceea":[6,0,2212,5],
+"d3/db1/structnpc__tortured__rifleman.html#abb8349f4f1c19a60c7566f1801ae3087":[6,0,2212,4],
+"d3/db2/classgo__resonite__cask.html":[6,0,1194]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX211 =
 {
-"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a09205661674dd011ffe425deaadde053":[6,0,2146,0,1],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a5c6f9bca1004af163ddb074b606330be":[6,0,2146,0,0],
 "d7/dcf/NetworkThread_8h.html":[7,0,0,0,1,4,1,1],
 "d7/dcf/structCreatureModel.html":[6,0,949],
@@ -249,5 +248,6 @@ var NAVTREEINDEX211 =
 "d7/de4/structGossipTextOption.html#a8d64d7b8fcdbd995cc11e22adde8c0de":[6,0,1236,5],
 "d7/de7/classTriggerWickedSpirit.html":[6,0,4520],
 "d7/de7/classTriggerWickedSpirit.html#a24b85a62208f881418f97b0a8cb10f27":[6,0,4520,2],
-"d7/de7/classTriggerWickedSpirit.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d":[6,0,4520,1]
+"d7/de7/classTriggerWickedSpirit.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d":[6,0,4520,1],
+"d7/de7/classTriggerWickedSpirit.html#ab460675158bfedd7f17a4b8e1cc06b3c":[6,0,4520,3]
 };

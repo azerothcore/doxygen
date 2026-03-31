@@ -1,6 +1,5 @@
 var NAVTREEINDEX160 =
 {
-"d5/dd1/structnpc__ulduar__flames__initial.html#af50c950610f5277a755d1786b596b9d7":[6,0,2234,4],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html":[6,0,2131,0],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0bc792b39b9d17a71c86756d2c7b9af0":[6,0,2131,0,1],
 "d5/dd2/structnpc__simone_1_1npc__simoneAI.html#a0d07b3f85a99ce3c0a1d4c482547113f":[6,0,2131,0,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX160 =
 "d5/de0/classspell__yogg__saron__brain__link.html#a599f604e872d3a5a4ed2b155caefdc9f":[6,0,4349,1],
 "d5/de0/classspell__yogg__saron__brain__link.html#ab79041a2536878498744555475bce5c8":[6,0,4349,2],
 "d5/de0/classspell__yogg__saron__brain__link.html#adaeee235184ddc36e90e532091183056":[6,0,4349,0],
-"d5/de1/classnpc__lord__arete.html":[6,0,1954]
+"d5/de1/classnpc__lord__arete.html":[6,0,1954],
+"d5/de1/classnpc__lord__arete.html#a212d003e9acb5f141197b5c4d10163a4":[6,0,1954,2]
 };

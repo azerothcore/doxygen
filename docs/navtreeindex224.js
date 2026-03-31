@@ -1,6 +1,5 @@
 var NAVTREEINDEX224 =
 {
-"d8/d74/classWorldSession.html#aa9a93e7e9225ac1972872ae207b5bce8":[4,1,19,543],
 "d8/d74/classWorldSession.html#aa9fa6163391e03108b723196ab3d2474":[4,1,19,134],
 "d8/d74/classWorldSession.html#aaa1c32324631882129fb6b00c262947b":[4,1,19,387],
 "d8/d74/classWorldSession.html#aaa9f00667aa975814b8dd074117c36f2":[4,1,19,297],
@@ -249,5 +248,6 @@ var NAVTREEINDEX224 =
 "d8/d77/classachievement__save__the__day.html#a95cfea6cd9ff955ba6800ebdf3a30eb7":[6,0,89,1],
 "d8/d77/classspell__item__hourglass__sand.html":[6,0,3385],
 "d8/d77/classspell__item__hourglass__sand.html#a334563491c3cbb9daa9d97dad738e9e5":[6,0,3385,0],
-"d8/d77/classspell__item__hourglass__sand.html#a69fe453f3c6764c3977c539d5fc71049":[6,0,3385,1]
+"d8/d77/classspell__item__hourglass__sand.html#a69fe453f3c6764c3977c539d5fc71049":[6,0,3385,1],
+"d8/d77/classspell__item__hourglass__sand.html#af0ab473a4ec7f1eebb70d0f2344de8ca":[6,0,3385,3]
 };

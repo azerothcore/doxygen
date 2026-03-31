@@ -1,11 +1,5 @@
 var NAVTREEINDEX329 =
 {
-"dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3a125fbd2981202cf891395e9588d6f7b4":[7,0,0,0,1,3,2,6,0,23,3],
-"dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3a4096389ac7ae398fbf4ff16ea63946c8":[7,0,0,0,1,3,2,6,0,23,2],
-"dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3a9114c886e3fd9e6982472be76c145da8":[7,0,0,0,1,3,2,6,0,23,1],
-"dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3ab62f3e421ce27e15d2b48ed3f8733658":[7,0,0,0,1,3,2,6,0,23,0],
-"dc/dec/chapter1_8cpp.html#ab36fb5898313f01df12c91aca8341be3ad7f03f3a9e0bd32ed13f8503fb71b3f9":[7,0,0,0,1,3,2,6,0,23,4],
-"dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6f":[7,0,0,0,1,3,2,6,0,18],
 "dc/dec/chapter1_8cpp.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b":[7,0,0,0,1,3,2,6,0,18,0],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7ea":[7,0,0,0,1,3,2,6,0,21],
 "dc/dec/chapter1_8cpp.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de":[7,0,0,0,1,3,2,6,0,21,13],
@@ -175,10 +169,10 @@ var NAVTREEINDEX329 =
 "dc/df7/classspell__wg__reduce__damage__by__distance.html#ae9a4734c9b12473f86c91a49860d56dd":[6,0,4328,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[6,0,0,2,5],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html":[5,0,1,4,5],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[6,0,0,2,5,1],
-"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a44829d44e78247991d9c3dde270cab5c":[5,0,1,4,5,1],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[5,0,1,4,5,3],
+"dc/df8/structAcore_1_1Crypto_1_1TOTP.html#a885fc6c1a5bda166416f161ea202eb72":[6,0,0,2,5,3],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[6,0,0,2,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#aae38427994c1f4ddf3838c4e1f3f7e03":[5,0,1,4,5,0],
 "dc/df8/structAcore_1_1Crypto_1_1TOTP.html#ab6b27542814e577106ad587a5807d663":[5,0,1,4,5,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX329 =
 "dc/dfc/classByteBufferPositionException.html#aba8b7764a5517fa3e4a26d7ced1ad38f":[6,0,843,1],
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html":[6,0,1267,0],
 "dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#a16fe41ae30d54abaf12f68672b93dc32":[6,0,1267,0,6],
-"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#a88961dfe4100dfe207af693a1eed86ad":[6,0,1267,0,0]
+"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#a88961dfe4100dfe207af693a1eed86ad":[6,0,1267,0,0],
+"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#a8b6e4c2acb09c65f2dbebbd21df4f29e":[6,0,1267,0,3],
+"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#a8d56205206f3e14184922f96873456ad":[6,0,1267,0,5],
+"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#ac87ee12d4487971b68c70f06f63eb410":[6,0,1267,0,2],
+"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#aef38e83e90c322bbef18b78e6339ef2e":[6,0,1267,0,1],
+"dc/dfc/structguard__shattrath__aldor_1_1guard__shattrath__aldorAI.html#af4d933b56431d2f2755d87fb05922458":[6,0,1267,0,4],
+"dc/dfd/classspell__gen__throw__shield.html":[6,0,3114]
 };

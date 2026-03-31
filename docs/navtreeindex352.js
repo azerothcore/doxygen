@@ -1,11 +1,5 @@
 var NAVTREEINDEX352 =
 {
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0a9acfde63edd0a825a1e5a69925d754":[7,0,0,0,1,3,5,10,1,3,4,28],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a11f55759520d9287f96f62c91a16d870":[7,0,0,0,1,3,5,10,1,3,4,21],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1214b7579787f881b7fea53b30a5f85a":[7,0,0,0,1,3,5,10,1,3,4,11],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a159ed2a289301849be1a0a518ac1c228":[7,0,0,0,1,3,5,10,1,3,4,5],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a197224a605f7525b070e97728863f7cf":[7,0,0,0,1,3,5,10,1,3,4,10],
-"dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1a43102f999dba2560706db5fb71ffec":[7,0,0,0,1,3,5,10,1,3,4,27],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2e2c3189550e01b923cdb036f9c0880a":[7,0,0,0,1,3,5,10,1,3,4,24],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f95d289b386e3edf7bded33573d1cf6":[7,0,0,0,1,3,5,10,1,3,4,13],
 "dd/dfd/boss__ymiron_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a325b7e249f71dddb28363807e9b1af59":[7,0,0,0,1,3,5,10,1,3,4,15],
@@ -132,8 +126,8 @@ var NAVTREEINDEX352 =
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#aaf9b034a97510ce7d58aa2d9ecfc0c14":[6,0,1736,0,3],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#acf6f70f93dbca7f5139af17ec411b971":[6,0,1736,0,15],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae0c99157db5daa07643715a56217bccd":[6,0,1736,0,11],
-"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae424685131ee51e8d6390e4ddb341b04":[6,0,1736,0,7],
 "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae727d192e29c63d5aa699b491425cdc6":[6,0,1736,0,2],
+"de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#af883cb5fd419eaf1c82a21f980d3e893":[6,0,1736,0,7],
 "de/d02/structnpc__pet__dk__ghoul.html":[6,0,2033],
 "de/d02/structnpc__pet__dk__ghoul.html#a55ed58a264bd30cc4f891dc1e6d2fe03":[6,0,2033,3],
 "de/d02/structnpc__pet__dk__ghoul.html#a6095e3619b470283b9875b90e2805b54":[6,0,2033,2],
@@ -249,5 +243,11 @@ var NAVTREEINDEX352 =
 "de/d06/structboss__headless__horseman.html#ad98d9d303815f538e194a55578ae909a":[6,0,537,8],
 "de/d06/structboss__headless__horseman.html#aea5a5ee1fce56cefd84ebde29bcc5a1d":[6,0,537,4],
 "de/d06/structboss__headless__horseman.html#af0ee0c6da6398d6a84457aab942bb29c":[6,0,537,19],
-"de/d06/structboss__headless__horseman.html#afa5e099de3899e41b3ee04f348c3d6a0":[6,0,537,13]
+"de/d06/structboss__headless__horseman.html#afa5e099de3899e41b3ee04f348c3d6a0":[6,0,537,13],
+"de/d07/blood__furnace_8h.html":[7,0,0,0,1,3,7,4,0,0],
+"de/d07/blood__furnace_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,4,0,0,1],
+"de/d07/blood__furnace_8h.html#a059e1a38f9d79807d65ad8edfd39138f":[7,0,0,0,1,3,7,4,0,0,0],
+"de/d07/blood__furnace_8h.html#a4aa87dfa17e2fb43b14c2ca77bb22aeb":[7,0,0,0,1,3,7,4,0,0,6],
+"de/d07/blood__furnace_8h.html#a681938cba5eeb9c62242905fbed9b7ab":[7,0,0,0,1,3,7,4,0,0,2],
+"de/d07/blood__furnace_8h.html#a74a34510d05b4c79015fd0ba024b4e27":[7,0,0,0,1,3,7,4,0,0,4]
 };

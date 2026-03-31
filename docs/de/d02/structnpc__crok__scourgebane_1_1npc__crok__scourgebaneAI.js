@@ -7,7 +7,7 @@ var structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI =
     [ "Reset", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a6c1d480fff0a4a6361986dc82a945534", null ],
     [ "SetGUID", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a185a5ebbf77067ce9e233c55d47f84d0", null ],
     [ "UpdateAI", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a109b1bf28de7903557c9c03957fa7d71", null ],
-    [ "UpdateEscortAI", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#ae424685131ee51e8d6390e4ddb341b04", null ],
+    [ "UpdateEscortAI", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#af883cb5fd419eaf1c82a21f980d3e893", null ],
     [ "WaypointReached", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a58c3e2ed37552b3adde1aa4f1a8ba0ba", null ],
     [ "WaypointReached", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
     [ "WaypointStart", "de/d02/structnpc__crok__scourgebane_1_1npc__crok__scourgebaneAI.html#a900611179c3c9d4ceffd86261f62151b", null ],

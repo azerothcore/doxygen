@@ -1,10 +1,5 @@
 var NAVTREEINDEX25 =
 {
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a21f91de064bec6943aae5d710e6ec485":[6,0,1790,0,3],
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a258d870137c02dd74ff23b94cb3f90d1":[6,0,1790,0,11],
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a2b11d54ff39f568cf26845251a38a612":[6,0,1790,0,12],
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a3f3da888c1076f4f728157f7ba9edf1c":[6,0,1790,0,9],
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a62dee89eca10f43af3051800e4a69c74":[6,0,1790,0,16],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a8ba92ce2b32b70e1275f551871d640fe":[6,0,1790,0,13],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a8c012a9c083921770980fb8c037d6ccc":[6,0,1790,0,5],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a8d30f6f513ee7e195dbef56071f136fc":[6,0,1790,0,17],
@@ -249,5 +244,10 @@ var NAVTREEINDEX25 =
 "d1/d16/classSpell.html#a60270bcdc75f67903cafd81eaf9a398a":[6,0,2605,199],
 "d1/d16/classSpell.html#a6032f8f164df1d6fc2607e4ca5c35ce5":[6,0,2605,229],
 "d1/d16/classSpell.html#a60b216a1bca90c36cfd69edddcbbf0ca":[6,0,2605,291],
-"d1/d16/classSpell.html#a6128294a5ab1a765cc51d55c31edb3f4":[6,0,2605,48]
+"d1/d16/classSpell.html#a6128294a5ab1a765cc51d55c31edb3f4":[6,0,2605,48],
+"d1/d16/classSpell.html#a613280e0bb3fb91996ef0b44b89d4a1a":[6,0,2605,289],
+"d1/d16/classSpell.html#a61abfe0ff8dd599877e543deb4977af0":[6,0,2605,365],
+"d1/d16/classSpell.html#a61b0b397250bb79024c8657e28323879":[6,0,2605,318],
+"d1/d16/classSpell.html#a61c5e93627b85645d6a3b0a5af13d58a":[6,0,2605,297],
+"d1/d16/classSpell.html#a61fa27111203c2e2f55a4ca7e20dc708":[6,0,2605,249]
 };

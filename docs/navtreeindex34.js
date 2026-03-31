@@ -1,10 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adb9d8d679681eb112bdb7817e710f8d1":[7,0,0,0,1,3,2,1,1,12,6,3],
-"d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0c41ea1eb5f716fa3e1729642029213":[7,0,0,0,1,3,2,1,1,12,6,0],
-"d1/d58/boss__the__beast_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae345a8c03e1eb0a7d4c52bc06361dffd":[7,0,0,0,1,3,2,1,1,12,6,2],
-"d1/d59/structboss__headless__horseman__pumpkin.html":[6,0,539],
-"d1/d59/structboss__headless__horseman__pumpkin.html#a1f236cdfeec366f0d830e0fceafa6d25":[6,0,539,6],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a212f9803f66d297cd276ef842247776a":[6,0,539,2],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a2d7cb1bc5f25f87b1452d6c1267958c4":[6,0,539,1],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a401db237c45efde3a30cdca6cb4f95c0":[6,0,539,4],
@@ -203,8 +198,8 @@ var NAVTREEINDEX34 =
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,12,15,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,15,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,15,1,1],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,15,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,15,1,0],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[6,0,12,15,1,0],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[5,0,34,15,1,2],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a41eebde65aa696c2dec812da0aeab633":[6,0,12,15,1,2],
 "d1/d63/GameTime_8h.html":[7,0,0,0,1,2,44,1],
@@ -227,12 +222,12 @@ var NAVTREEINDEX34 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3923],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#a487fa0e6b5f2682349b22737ceeae50c":[6,0,3923,3],
 "d1/d64/classspell__q14112__14145__chum__the__water.html#acbf74d85d9d8ce8e9ce0546c90cb7efa":[6,0,3923,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX34 =
 "d1/d66/TargetedMovementGenerator_8cpp.html#a53d496abdea10dead20c7e6a9cb09cd6":[7,0,0,0,1,2,31,0,18,3],
 "d1/d66/TargetedMovementGenerator_8cpp.html#a56719695683e0a1fbeaeb49d31f62d74":[7,0,0,0,1,2,31,0,18,1],
 "d1/d66/TargetedMovementGenerator_8cpp.html#a955c196fa9c96bf11e2d887d6cbac50c":[7,0,0,0,1,2,31,0,18,2],
-"d1/d66/TargetedMovementGenerator_8cpp.html#ada5b031ff95410ba84fd734c95c68099":[7,0,0,0,1,2,31,0,18,5]
+"d1/d66/TargetedMovementGenerator_8cpp.html#ada5b031ff95410ba84fd734c95c68099":[7,0,0,0,1,2,31,0,18,5],
+"d1/d67/classspell__item__aegis__of__preservation.html":[6,0,3310],
+"d1/d67/classspell__item__aegis__of__preservation.html#a2e1b7aed322de7023075fdd69660f2f6":[6,0,3310,2],
+"d1/d67/classspell__item__aegis__of__preservation.html#a37d8d2e9c4618ecbbf314b98286e28b9":[6,0,3310,1],
+"d1/d67/classspell__item__aegis__of__preservation.html#a6e807b19f98f8237e5d6f254cb0987a6":[6,0,3310,3],
+"d1/d67/classspell__item__aegis__of__preservation.html#a9d23a4c0986f56e08c5e687ddae621f9":[6,0,3310,0]
 };

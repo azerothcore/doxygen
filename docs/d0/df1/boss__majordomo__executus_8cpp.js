@@ -23,12 +23,7 @@ var boss__majordomo__executus_8cpp =
       [ "EVENT_RAGNAROS_EMERGE", "d0/df1/boss__majordomo__executus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a36860346dd46572b05507fd2a120b061", null ]
     ] ],
     [ "Misc", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
-      [ "TEXT_ID_SUMMON_1", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7f12f8c75420a3eb590d9a5a5e07558e", null ],
-      [ "TEXT_ID_SUMMON_2", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1044bbc68f6aa25eb49d526cdebfeac9", null ],
-      [ "TEXT_ID_SUMMON_3", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a785a3b31c57721023e7c4c22191e24a0", null ],
-      [ "GOSSIP_ITEM_SUMMON_1", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a367b393515f1671e40dd6a169aea15f8", null ],
-      [ "GOSSIP_ITEM_SUMMON_2", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa149845214279680b1cde7ab022b8033", null ],
-      [ "GOSSIP_ITEM_SUMMON_3", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae3e1f1be61f3d243de0cf2d7f03c0583", null ],
+      [ "MENU_ID_RAGNAROS_SUMMON", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a50de6b9989b59df9b7ab2dcde0c5592a", null ],
       [ "FACTION_MAJORDOMO_FRIENDLY", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afba753ad41eca923af6245603dd0c380", null ],
       [ "SUMMON_GROUP_ADDS", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a27dc74a7ca72691e25a0d6f5978057fb", null ],
       [ "POINT_RAGNAROS_SUMMON", "d0/df1/boss__majordomo__executus_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac6009ed4080909bdd62ab6175ce26709", null ],

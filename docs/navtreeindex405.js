@@ -1,11 +1,5 @@
 var NAVTREEINDEX405 =
 {
-"df/da7/classBattleground.html#a0aaf48a0b3b4241015d9dad82f6c55e4":[6,0,326,175],
-"df/da7/classBattleground.html#a0c51accd8da002ba439ef97a73f3c5e4":[6,0,326,20],
-"df/da7/classBattleground.html#a0d0353c4244b88c61de0c6124aab70fd":[6,0,326,178],
-"df/da7/classBattleground.html#a0d8aefed33201996044179dbc248a169":[6,0,326,39],
-"df/da7/classBattleground.html#a0da7cf3c47f49da20ce93c4bd4bc9970":[6,0,326,162],
-"df/da7/classBattleground.html#a0e23512a1aa9e333dc861e5a46b09f24":[6,0,326,18],
 "df/da7/classBattleground.html#a0f2b5179c9b91b5410f84eb199320720":[6,0,326,95],
 "df/da7/classBattleground.html#a11f638dab7a0cf67b8a3588fd7f30cc5":[6,0,326,195],
 "df/da7/classBattleground.html#a12ddf932b09155555372b37c8bb8534f":[6,0,326,189],
@@ -244,10 +238,16 @@ var NAVTREEINDEX405 =
 "df/da7/classBattleground.html#afbde4350b02c7e487dd5ea210afaabad":[6,0,326,242],
 "df/da7/classBattleground.html#afef70e73ce842087a658dd7e9b2ca777":[6,0,326,23],
 "df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,326,252],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,12,2,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,12,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,12,2,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1]
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,12,2,9,2],
+"df/da7/classspell__gen__clear__debuffs.html":[6,0,3003],
+"df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,3003,2],
+"df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,3003,0],
+"df/da7/classspell__gen__clear__debuffs.html#ae4177c84bf0c63aadaa7486603df04d0":[6,0,3003,1]
 };

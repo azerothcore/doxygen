@@ -1,11 +1,5 @@
 var NAVTREEINDEX310 =
 {
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca405b5bcd301c3aba10e40bd3abca482b":[7,0,0,0,1,3,7,4,2,0,11,10],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd":[7,0,0,0,1,3,7,4,2,0,11,6],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca7b2e0054b2bac6795ae520c16a9ffde0":[7,0,0,0,1,3,7,4,2,0,11,16],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca8343d12d67c98d10cfb35faefefebdb8":[7,0,0,0,1,3,7,4,2,0,11,15],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca83be3e6f56ef7747fd0271ef7c6a5089":[7,0,0,0,1,3,7,4,2,0,11,12],
-"dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916bd21fa88c60027979b87e50b84882":[7,0,0,0,1,3,7,4,2,0,11,4],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4":[7,0,0,0,1,3,7,4,2,0,11,7],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca99dfcda224e38c33771d6bf70abb5b66":[7,0,0,0,1,3,7,4,2,0,11,13],
 "dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8":[7,0,0,0,1,3,7,4,2,0,11,9],
@@ -249,5 +243,11 @@ var NAVTREEINDEX310 =
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a298fca0637eb5191e39f6010adc78c43":[6,0,683,0,9],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a3126cc2c35dc81a76b43d615bfa1bc4f":[6,0,683,0,4],
 "dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a40a022ee337caaf0bb59f4beb8d9d3e8":[6,0,683,0,6],
-"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4d20aa2066110c45ea06024dda04bb32":[6,0,683,0,1]
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4d20aa2066110c45ea06024dda04bb32":[6,0,683,0,1],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a4ea0982f190aa21077b6237cac4e4368":[6,0,683,0,12],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5b73fdcb503cef89e87a1e50cc11e825":[6,0,683,0,14],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a5cdc692e17c3d331f1f1b12c8160408e":[6,0,683,0,8],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6c5b5a7bc419b30a8814ada3f95f0c3a":[6,0,683,0,0],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a6d3bb24f1b0475a04182d959f2f41b5d":[6,0,683,0,15],
+"dc/d0a/structboss__razuvious_1_1boss__razuviousAI.html#a9e9137c0c730435f2b2b3e8a731878e8":[6,0,683,0,3]
 };

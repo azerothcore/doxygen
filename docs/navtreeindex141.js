@@ -1,6 +1,5 @@
 var NAVTREEINDEX141 =
 {
-"d4/dd8/structAchievementCriteriaData.html#af417eb1063ef86212128bdc05c6f278a":[6,0,113,19],
 "d4/dd9/classALEScript.html":[6,0,147],
 "d4/dd9/classALEScript.html#a109b1cb14f602065ce4346d0370407a7":[6,0,147,2],
 "d4/dd9/classALEScript.html#a3949e8bd9d83297871c60778f3fe9f9e":[6,0,147,0],
@@ -140,10 +139,10 @@ var NAVTREEINDEX141 =
 "d4/dda/classFixOrientation.html#a5f12db3774bdeef25a300780c00db1fb":[6,0,1070,2],
 "d4/dda/classFixOrientation.html#a7af72679731c9b86b9ae36d19d1621e5":[6,0,1070,1],
 "d4/dda/classFixOrientation.html#ac4a9654d37a73f9d5ddc73ff90ce145b":[6,0,1070,0],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[6,0,12,20],
-"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html":[5,0,34,20],
 "d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[5,0,34,20,0],
+"d4/dda/classWorldPackets_1_1IllegalHyperlinkException.html#a4bcd96d907fb882d147b0e29495f5c1d":[6,0,12,20,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html":[6,0,1910,0],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a514556f4a81c6f1f8b7caaa526c08662":[6,0,1910,0,2],
 "d4/dda/structnpc__injured__draenei_1_1npc__injured__draeneiAI.html#a6832ec8b005e75ff66b0fd04e5ff3daa":[6,0,1910,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX141 =
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a6d39eb1f177e8670169f18fcfa2e3c4e":[6,0,1670,0,1],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a788141bf9be03161741d01d0aa4fe227":[6,0,1670,0,8],
 "d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#a85d27ac9fb0b9dbb92b2b17a99eaa612":[6,0,1670,0,3],
-"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#ad7251cda20f3e2821077d2327528fd2d":[6,0,1670,0,2]
+"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#ad7251cda20f3e2821077d2327528fd2d":[6,0,1670,0,2],
+"d4/ddf/structnpc__big__ooze_1_1npc__big__oozeAI.html#af5c34c976137e456d1779ca944f88639":[6,0,1670,0,7]
 };

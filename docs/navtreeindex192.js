@@ -1,6 +1,5 @@
 var NAVTREEINDEX192 =
 {
-"d7/d27/structboss__kologarn.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed":[6,0,588,10],
 "d7/d27/structboss__kologarn.html#a1b1929673af5db04cf3b00400784b06d":[6,0,588,7],
 "d7/d27/structboss__kologarn.html#a3c449eaadc7e505c91ff60ee240f5a3c":[6,0,588,15],
 "d7/d27/structboss__kologarn.html#a4ad6f7048bf3ba0bb39294cf4a7ca118":[6,0,588,21],
@@ -185,14 +184,14 @@ var NAVTREEINDEX192 =
 "d7/d32/classBIH_1_1BuildStats.html#acd34211244a97c08193421818f326ff9":[6,0,371,1,6],
 "d7/d32/classBIH_1_1BuildStats.html#ae8cf4ba9eaa7dc424914483ab3fafeba":[6,0,371,1,4],
 "d7/d32/classBIH_1_1BuildStats.html#afbedc638e0117b7ca5c5f1e447846717":[6,0,371,1,12],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,12,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[5,0,34,12,3],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html":[6,0,12,12,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[5,0,34,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a035aeb40e5de8b5d3d5d9703ad0f19c9":[6,0,12,12,3,0],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[5,0,34,12,3,3],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06e6bff9d70996ba890c31ea74363dad":[6,0,12,12,3,3],
-"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,12,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[5,0,34,12,3,1],
+"d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#a06f3c97d815a3e8de55bcd2b3eecdb64":[6,0,12,12,3,1],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[6,0,12,12,3,2],
 "d7/d33/classWorldPackets_1_1Pet_1_1PetDismissSound.html#aba65e6547adde55978ce7b2abb779d51":[5,0,34,12,3,2],
 "d7/d33/classnpc__ravenous__worg.html":[6,0,2095],
@@ -249,5 +248,6 @@ var NAVTREEINDEX192 =
 "d7/d34/GridDefines_8h.html#ae6e326739a8733a22249048253475f90":[7,0,0,0,1,2,19,3,21],
 "d7/d34/GridDefines_8h.html#ae75b2d7e464f342de7d9db88ca816b29":[7,0,0,0,1,2,19,3,16],
 "d7/d34/GridDefines_8h.html#af056a475dba505792191bc6e8c3370a5":[7,0,0,0,1,2,19,3,26],
-"d7/d34/GridDefines_8h.html#af248e8cd4ecc7161bfb1e6aa879f3cd5":[7,0,0,0,1,2,19,3,34]
+"d7/d34/GridDefines_8h.html#af248e8cd4ecc7161bfb1e6aa879f3cd5":[7,0,0,0,1,2,19,3,34],
+"d7/d35/structnpc__still__at__it__trigger_1_1npc__still__at__it__triggerAI.html":[6,0,2150,0]
 };

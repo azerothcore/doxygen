@@ -1,10 +1,5 @@
 var NAVTREEINDEX105 =
 {
-"d3/d92/classGameEventMgr.html#a58234f75e541fdaeccc43ddd1c6b9c8b":[6,0,1096,66],
-"d3/d92/classGameEventMgr.html#a5834c7f7adaadf33f926d40782c69152":[6,0,1096,77],
-"d3/d92/classGameEventMgr.html#a61419244efe985de58d3459749ec6c86":[6,0,1096,57],
-"d3/d92/classGameEventMgr.html#a626716a2a50a4d425dddaef336977f84":[6,0,1096,36],
-"d3/d92/classGameEventMgr.html#a65ba6db1e7b1dff64c9aab596426ab27":[6,0,1096,73],
 "d3/d92/classGameEventMgr.html#a697b1b2025a5856289e3be12f54473a8":[6,0,1096,7],
 "d3/d92/classGameEventMgr.html#a6c843d3098a8ca9b40198f0460749160":[6,0,1096,37],
 "d3/d92/classGameEventMgr.html#a6e86d2b9b7f4ec4ba511ae13910efe09":[6,0,1096,29],
@@ -249,5 +244,10 @@ var NAVTREEINDEX105 =
 "d3/d9d/classBoundaryIntersectBoundary.html#ad92d938418434a1cb6a0eb68c88d281c":[6,0,827,0],
 "d3/d9d/classspell__item__goblin__weather__machine.html":[6,0,3375],
 "d3/d9d/classspell__item__goblin__weather__machine.html#a479832175a4c77ce0c0a2f3d3f98f08c":[6,0,3375,1],
-"d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[6,0,3375,0]
+"d3/d9d/classspell__item__goblin__weather__machine.html#a94bbfc928beab8c8f27d84d1c9ab1558":[6,0,3375,0],
+"d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[6,0,3375,2],
+"d3/d9d/structChrRacesEntry.html":[6,0,889],
+"d3/d9d/structChrRacesEntry.html#a33a01b1c26b21706d9898af246f2a0df":[6,0,889,2],
+"d3/d9d/structChrRacesEntry.html#a44c3824aef4f4724c189727f12801a5b":[6,0,889,1],
+"d3/d9d/structChrRacesEntry.html#a4807227fd863e247b18d29db0ea8236a":[6,0,889,6]
 };

@@ -1,11 +1,5 @@
 var NAVTREEINDEX369 =
 {
-"de/d25/ObjectMgr_8h.html#a1f440c1d3e6bc78eb3a79264459aac65":[7,0,0,0,1,2,18,3,72],
-"de/d25/ObjectMgr_8h.html#a260daf2379f66c27770f8fdc2e527bce":[7,0,0,0,1,2,18,3,82],
-"de/d25/ObjectMgr_8h.html#a26eae10ee9ee858f1011c67d8a293de6":[7,0,0,0,1,2,18,3,102],
-"de/d25/ObjectMgr_8h.html#a2806b86f3c2ca37ebed1aa50d750f878":[7,0,0,0,1,2,18,3,29],
-"de/d25/ObjectMgr_8h.html#a2ad132fddd19ad8df26de7ecc08f925f":[7,0,0,0,1,2,18,3,73],
-"de/d25/ObjectMgr_8h.html#a2e3e576d2e15a5033a24dec106b42453":[7,0,0,0,1,2,18,3,99],
 "de/d25/ObjectMgr_8h.html#a2f79d1bd10a4458336bb9739571c8d95":[7,0,0,0,1,2,18,3,87],
 "de/d25/ObjectMgr_8h.html#a31e2e322f98986408891d1bf43eca059":[7,0,0,0,1,2,18,3,43],
 "de/d25/ObjectMgr_8h.html#a34339a53afbec181844cc9d936d1d9a2":[7,0,0,0,1,2,18,3,97],
@@ -249,5 +243,11 @@ var NAVTREEINDEX369 =
 "de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d":[7,0,0,0,1,2,16,1,2,31,3],
 "de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55":[7,0,0,0,1,2,16,1,2,31,7],
 "de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b":[7,0,0,0,1,2,16,1,2,31,6],
-"de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7":[7,0,0,0,1,2,16,1,2,31,4]
+"de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7":[7,0,0,0,1,2,16,1,2,31,4],
+"de/d2f/CreatureData_8h.html#ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c":[7,0,0,0,1,2,16,1,2,31,1],
+"de/d2f/CreatureData_8h.html#ab73ac085ce9072e26a505e0098969d7f":[7,0,0,0,1,2,16,1,2,24],
+"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846":[7,0,0,0,1,2,16,1,2,36],
+"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a6a061313d22e51e0f25b7cd4dc065233":[7,0,0,0,1,2,16,1,2,36,3],
+"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052":[7,0,0,0,1,2,16,1,2,36,2],
+"de/d2f/CreatureData_8h.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62":[7,0,0,0,1,2,16,1,2,36,0]
 };

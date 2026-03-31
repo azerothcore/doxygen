@@ -1,6 +1,5 @@
 var NAVTREEINDEX161 =
 {
-"d5/de1/classnpc__lord__arete.html#a212d003e9acb5f141197b5c4d10163a4":[6,0,1954,2],
 "d5/de1/classnpc__lord__arete.html#a929e3f3346bf4dbaee127463eaf4ffcc":[6,0,1954,1],
 "d5/de1/structboss__alythess.html":[6,0,385],
 "d5/de1/structboss__alythess.html#a5509c9f0d979a2d9d70a8f4f9e7971a0":[6,0,385,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX161 =
 "d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
 "d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
 "d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
-"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,12,6,29]
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,12,6,29],
+"d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29]
 };

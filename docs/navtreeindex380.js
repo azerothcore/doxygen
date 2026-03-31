@@ -1,11 +1,5 @@
 var NAVTREEINDEX380 =
 {
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab34fe1b0bac1a694c6e76d3cebf67172":[6,0,1724,0,7],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab639db8fe4637a2068d94bb5e99d88ea":[6,0,1724,0,3],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7":[6,0,1724,0,18],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#acd3edee41c80992ee97130eac6912c18":[6,0,1724,0,2],
-"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aee85ef406a6bc0644ec2e35a4a7f22d5":[6,0,1724,0,4],
-"de/d92/classLootTemplate_1_1LootGroup.html":[6,0,1479,0],
 "de/d92/classLootTemplate_1_1LootGroup.html#a0bf71d71cb78e1e8864feac535adf100":[6,0,1479,0,2],
 "de/d92/classLootTemplate_1_1LootGroup.html#a0cc5c4a880c400b432d2ac0c482430ed":[6,0,1479,0,10],
 "de/d92/classLootTemplate_1_1LootGroup.html#a0f9d7b304045ed812b6203376dc442db":[6,0,1479,0,12],
@@ -249,5 +243,11 @@ var NAVTREEINDEX380 =
 "de/d9e/classgo__tele__to__dalaran__crystal.html":[6,0,1210],
 "de/d9e/classgo__tele__to__dalaran__crystal.html#a7f754a29249653ca7848494310ef1a8d":[6,0,1210,1],
 "de/d9e/classgo__tele__to__dalaran__crystal.html#ab41268b7d568e8f189338f27cd90a62c":[6,0,1210,0],
-"de/d9f/cs__cheat_8cpp.html":[7,0,0,0,1,3,0,10]
+"de/d9f/cs__cheat_8cpp.html":[7,0,0,0,1,3,0,10],
+"de/d9f/cs__cheat_8cpp.html#aafc88882ff0af0beb4632ec2c929fc8c":[7,0,0,0,1,3,0,10,1],
+"de/d9f/structSkillPerfectItemEntry.html":[6,0,2577],
+"de/d9f/structSkillPerfectItemEntry.html#a057605f8867d4df5cb290318598a2908":[6,0,2577,3],
+"de/d9f/structSkillPerfectItemEntry.html#a678f9908440187faad38c0e1ffaf82de":[6,0,2577,1],
+"de/d9f/structSkillPerfectItemEntry.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3":[6,0,2577,0],
+"de/d9f/structSkillPerfectItemEntry.html#a750d5ab6bc3df0026e640f1c84de8547":[6,0,2577,2]
 };

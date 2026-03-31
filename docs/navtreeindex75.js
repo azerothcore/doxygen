@@ -1,10 +1,5 @@
 var NAVTREEINDEX75 =
 {
-"d2/dd1/structMovementInfo.html#a01585307a3db62a34f7d2e243dd52265":[6,0,1560,8],
-"d2/dd1/structMovementInfo.html#a10c1c9721558fd98d33bb43b3bfff837":[6,0,1560,18],
-"d2/dd1/structMovementInfo.html#a683565ad0865709083e81d07a8ce1395":[6,0,1560,13],
-"d2/dd1/structMovementInfo.html#a6f0c8141058d03f214afbd779a3420ee":[6,0,1560,7],
-"d2/dd1/structMovementInfo.html#a7a9353ff367c80cddeaddd63fcd32ddb":[6,0,1560,5],
 "d2/dd1/structMovementInfo.html#a809340998de55a9ffa895f7b27e1f2c3":[6,0,1560,2],
 "d2/dd1/structMovementInfo.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2":[6,0,1560,23],
 "d2/dd1/structMovementInfo.html#a920a536b873fcc63dd6bb22882a7a8ea":[6,0,1560,19],
@@ -58,10 +53,10 @@ var NAVTREEINDEX75 =
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[6,0,12,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[6,0,12,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[6,0,12,2,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[6,0,12,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[7,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5":[7,0,0,0,1,3,5,8,1,5,4],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44":[7,0,0,0,1,3,5,8,1,5,4,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX75 =
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ad84905d1385bce0e431c2baf1158a343":[6,0,2063,0,3],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ade1c91217b6c6e33bfca60a69a51bbc0":[6,0,2063,0,8],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae03f3fef42fcbcecedaf38692d1e9131":[6,0,2063,0,0],
-"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae095fa3ceb484cc289a086be8c2f2552":[6,0,2063,0,4]
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae095fa3ceb484cc289a086be8c2f2552":[6,0,2063,0,4],
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce":[6,0,2063,0,11],
+"d2/de0/CharacterCache_8h.html":[7,0,0,0,1,2,9,1],
+"d2/de0/CharacterCache_8h.html#a7a32c898b33d6163d83a32f46d58517c":[7,0,0,0,1,2,9,1,2],
+"d2/de0/GuildHandler_8cpp.html":[7,0,0,0,1,2,22,14],
+"d2/de0/classspell__dreamwalker__summoner.html":[6,0,2853]
 };

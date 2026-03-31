@@ -1,11 +1,5 @@
 var NAVTREEINDEX347 =
 {
-"dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5ae7c9032b51dfabf24dd1352a067172d8":[7,0,0,0,1,3,5,9,2,10,13,0],
-"dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5afb84b30ba4c23c80deadb9adf45231cb":[7,0,0,0,1,3,5,9,2,10,13,4],
-"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,9,2,10,12],
-"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a016dba85209f85b317b9d392b2976670":[7,0,0,0,1,3,5,9,2,10,12,12],
-"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a15982677aef290f07f3736d4466a417f":[7,0,0,0,1,3,5,9,2,10,12,10],
-"dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a1a57f6dae04ab7b8dbc0fb44044c5aa4":[7,0,0,0,1,3,5,9,2,10,12,4],
 "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a26a5a7aa2a2ca884f3e3606264303863":[7,0,0,0,1,3,5,9,2,10,12,9],
 "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2a6cc03cfde7611787dafe4c158b68cc":[7,0,0,0,1,3,5,9,2,10,12,1],
 "dd/dca/boss__razorscale_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a470d03afa22c989a62d65ba1ce60863b":[7,0,0,0,1,3,5,9,2,10,12,3],
@@ -249,5 +243,11 @@ var NAVTREEINDEX347 =
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aedc5e7ab1568e27c0725eebf5376d451":[7,0,0,0,1,2,38,0,77,1,134],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af6b1f556c93039f69df4d7ee8396ea3b":[7,0,0,0,1,2,38,0,77,1,181],
 "dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357af7e3ef246f7ba465f6c8b859252198d4":[7,0,0,0,1,2,38,0,77,1,167],
-"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbcb68272cac4d449ddf9cc227de1e7f":[7,0,0,0,1,2,38,0,77,1,10]
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbcb68272cac4d449ddf9cc227de1e7f":[7,0,0,0,1,2,38,0,77,1,10],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbd9701605e22153c142fa8f2f9808f4":[7,0,0,0,1,2,38,0,77,1,178],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afbe2e6ea23061a8bc765c1c75cd17ae4":[7,0,0,0,1,2,38,0,77,1,6],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357afe7a533dee07e957c76bc6dde9ed44c9":[7,0,0,0,1,2,38,0,77,1,83],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aff039f45bb556c0812237f31d398672f":[7,0,0,0,1,2,38,0,77,1,1],
+"dd/dcb/PlayerScript_8h.html#a7d525e751616f7554a64c9ae6e12a357aff744efd312592f289d8950287bcd6d2":[7,0,0,0,1,2,38,0,77,1,135],
+"dd/dcb/classChaseMovementGenerator.html":[6,0,882]
 };

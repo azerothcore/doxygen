@@ -1,11 +1,5 @@
 var NAVTREEINDEX256 =
 {
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab750f4548d2ae4ceb6d7f904f37963d5":[7,0,0,0,1,2,48,4,1,294],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab77427da7dfe42dc3356adb6a660e8cb":[7,0,0,0,1,2,48,4,1,123],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab80c7b8fe3f2967f24799a6d8dee10ef":[7,0,0,0,1,2,48,4,1,85],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab8469e6a35b02dd3c58e698ce282a54c":[7,0,0,0,1,2,48,4,1,176],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab8e63943b07e5b57a123347504bb8a85":[7,0,0,0,1,2,48,4,1,98],
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab8efa6eed3a7e3a06020c07eee1c4225":[7,0,0,0,1,2,48,4,1,254],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab9489897fbe12ae9d2de3df9f35600bc":[7,0,0,0,1,2,48,4,1,420],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab98bc19e298768e137f85e592d07867b":[7,0,0,0,1,2,48,4,1,164],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0aba64cff7540e041dd3671da84f5213a8":[7,0,0,0,1,2,48,4,1,443],
@@ -249,5 +243,11 @@ var NAVTREEINDEX256 =
 "da/d07/classByteBuffer.html#afc443ee2b0c09e7578b8af8dfb493cf7":[6,0,840,5],
 "da/d07/classByteBuffer.html#afdb94a533a871475d9de79b78dae4ffc":[6,0,840,11],
 "da/d07/classByteBuffer.html#afe554eb627ce4c5761ac6975f186c546":[6,0,840,75],
-"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html":[6,0,1830,0]
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html":[6,0,1830,0],
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1830,0,4],
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#a34d57ef71b60fe71c749f790cecf70b2":[6,0,1830,0,2],
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#a9308c73760e50e0f3d04031b508526d1":[6,0,1830,0,3],
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#ae9ba65652db3d2d32920d1a98594727a":[6,0,1830,0,1],
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html#af22e42b2180987febd964784b6d49b5e":[6,0,1830,0,0],
+"da/d08/ChatPackets_8h.html":[7,0,0,0,1,2,39,0,8]
 };

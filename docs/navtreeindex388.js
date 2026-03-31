@@ -1,11 +1,5 @@
 var NAVTREEINDEX388 =
 {
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a858ba1dc5b34b3ff5f41a194feea519f":[7,0,0,0,1,3,5,6,9,39,4],
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a9c239808144c052e62a74c886940c5cf":[7,0,0,0,1,3,5,6,9,39,6],
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5aaea73c4632244cbfac967715128d3a9a":[7,0,0,0,1,3,5,6,9,39,7],
-"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5ace38a09cc1f837573e30f48a568ff0d3":[7,0,0,0,1,3,5,6,9,39,5],
-"de/de5/boss__sindragosa_8cpp.html#a9d436986474fe6c18924870bd5e72966":[7,0,0,0,1,3,5,6,9,45],
-"de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,6,9,42],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,6,9,42,10],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a2674fbc35711af6aa98124aa789bfd5b":[7,0,0,0,1,3,5,6,9,42,12],
 "de/de5/boss__sindragosa_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a298aa81cc7a711503124972bc1e8f1d4":[7,0,0,0,1,3,5,6,9,42,7],
@@ -249,5 +243,11 @@ var NAVTREEINDEX388 =
 "de/dee/classcast__commandscript.html#a9c657d2c5404149a45a2db748d23fc2f":[6,0,853,0],
 "de/dee/classcast__commandscript.html#aa72bd317a3498ef07007c1a9e81e2796":[6,0,853,10],
 "de/dee/classcast__commandscript.html#aabbcac8e85c6a64a647d71bb22bebede":[6,0,853,8],
-"de/dee/classcast__commandscript.html#ab0890c036a8d301b382fdd1b6371f671":[6,0,853,3]
+"de/dee/classcast__commandscript.html#ab0890c036a8d301b382fdd1b6371f671":[6,0,853,3],
+"de/dee/classcast__commandscript.html#ac28430cc0623209b891bacbb4845509b":[6,0,853,6],
+"de/df0/SpellInfoCorrections_8cpp.html":[7,0,0,0,1,2,41,7],
+"de/df0/SpellInfoCorrections_8cpp.html#ab2692a866ddb9539875213c10f37b84e":[7,0,0,0,1,2,41,7,0],
+"de/df0/structArenaSeasonReward.html":[6,0,189],
+"de/df0/structArenaSeasonReward.html#a2f04bbb871ab3b90f5dc3121e2bff213":[6,0,189,1],
+"de/df0/structArenaSeasonReward.html#ab3144a4701e1ebd88a3a94544ee76cdf":[6,0,189,2]
 };

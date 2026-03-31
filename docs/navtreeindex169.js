@@ -1,6 +1,5 @@
 var NAVTREEINDEX169 =
 {
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#af82baa22ae49ba268f494cb07287845e":[6,0,2196,0,1],
 "d6/d24/GridObjectLoader_8cpp.html":[7,0,0,0,1,2,19,4],
 "d6/d25/WardenMac_8cpp.html":[7,0,0,0,1,2,46,6],
 "d6/d26/classBattlefield.html":[6,0,322],
@@ -249,5 +248,6 @@ var NAVTREEINDEX169 =
 "d6/d2b/classspell__warl__shadowburn.html#a65fa925d99065d028e328a92f2a13805":[6,0,4283,0],
 "d6/d2b/classspell__warl__shadowburn.html#a95dc732286adf4327f68e23015d58c21":[6,0,4283,1],
 "d6/d2c/classspell__gen__baby__murloc.html":[6,0,2986],
-"d6/d2c/classspell__gen__baby__murloc.html#a3d6b6ae0bde8ae51362c95df82604d68":[6,0,2986,0]
+"d6/d2c/classspell__gen__baby__murloc.html#a3d6b6ae0bde8ae51362c95df82604d68":[6,0,2986,0],
+"d6/d2c/classspell__gen__baby__murloc.html#a97370dd3f7c3e58a719090176c397386":[6,0,2986,3]
 };

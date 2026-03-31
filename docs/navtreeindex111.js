@@ -1,10 +1,5 @@
 var NAVTREEINDEX111 =
 {
-"d3/dcf/Battleground_8h.html#aaa1e2b3f4c075da1b36c31b45f74dde0ab2e543b35bf3651ec86d731f2e9f36f2":[7,0,0,0,1,2,8,10,24,4],
-"d3/dcf/Battleground_8h.html#aaa1e2b3f4c075da1b36c31b45f74dde0ae6e81ec1672abe114ee9b7a100f91163":[7,0,0,0,1,2,8,10,24,3],
-"d3/dcf/Battleground_8h.html#ab01c53aafb7c5dd0eab9a4ba908cda4c":[7,0,0,0,1,2,8,10,6],
-"d3/dcf/Battleground_8h.html#ab34783939c140297c9d0c3fb18a5024e":[7,0,0,0,1,2,8,10,29],
-"d3/dcf/Battleground_8h.html#ab34783939c140297c9d0c3fb18a5024ea215d25d95dd0e794e6a0bc5d796a3593":[7,0,0,0,1,2,8,10,29,3],
 "d3/dcf/Battleground_8h.html#ab34783939c140297c9d0c3fb18a5024ea261ca5caf00fde7d8e757463571d6775":[7,0,0,0,1,2,8,10,29,2],
 "d3/dcf/Battleground_8h.html#ab34783939c140297c9d0c3fb18a5024ea3dbe7ee4fca2142cdc89a29d2497dd16":[7,0,0,0,1,2,8,10,29,0],
 "d3/dcf/Battleground_8h.html#ab34783939c140297c9d0c3fb18a5024ead07abb84199c4f2954a050e411c61d48":[7,0,0,0,1,2,8,10,29,4],
@@ -249,5 +244,10 @@ var NAVTREEINDEX111 =
 "d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164ca6c06b920a3bf968aa5ad6974c7d32f34":[7,0,0,0,1,4,0,2,22,4],
 "d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164ca9c232bf8f0a7262392568f28b30b1266":[7,0,0,0,1,4,0,2,22,3],
 "d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164caad5d4e0bf07462c5bd4c2b560a38a681":[7,0,0,0,1,4,0,2,22,1],
-"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164cab533fbeed7847b02f72e23b47c22904a":[7,0,0,0,1,4,0,2,22,2]
+"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164cab533fbeed7847b02f72e23b47c22904a":[7,0,0,0,1,4,0,2,22,2],
+"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164cab74d205840ac342931fb5f862d825aa4":[7,0,0,0,1,4,0,2,22,8],
+"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164cac157a1fa3b9e2c1ebca0716ca7d1d3fc":[7,0,0,0,1,4,0,2,22,7],
+"d3/dd1/DBCEnums_8h.html#a7610697e1175bfdb17c7d746e244164cae756d2a4ecef9e02f84e851dd1b0fe0c":[7,0,0,0,1,4,0,2,22,0],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19":[7,0,0,0,1,4,0,2,15],
+"d3/dd1/DBCEnums_8h.html#a796cde2fc6e2eaed4c657203ed43cd19a026ae1686d5a974ddf5362ba49c2dad9":[7,0,0,0,1,4,0,2,15,68]
 };

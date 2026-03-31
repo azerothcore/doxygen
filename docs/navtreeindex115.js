@@ -1,10 +1,5 @@
 var NAVTREEINDEX115 =
 {
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a23c01cdbd8ce485aa4d64fd8e5530158":[7,0,0,0,1,2,8,1,3,19,20],
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a255455e34f9600d30736e9453dd7eecc":[7,0,0,0,1,2,8,1,3,19,63],
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a29e87512fc7878795fa9ea59aa3d23d5":[7,0,0,0,1,2,8,1,3,19,12],
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a2a9e97247dfddc99131eecd19263d2a7":[7,0,0,0,1,2,8,1,3,19,49],
-"d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a321d21c8cbb746178ac8968d2988c7ee":[7,0,0,0,1,2,8,1,3,19,41],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a332f7faa56d719c52d9b645465d9b438":[7,0,0,0,1,2,8,1,3,19,39],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a3af12ccc05951097477bb9ae8aa41fef":[7,0,0,0,1,2,8,1,3,19,18],
 "d3/dd4/BattlegroundAV_8h.html#acf9b441a5ca76e5a780d043ec5721258a3cfea6194d9ebb60df2bd099afb936ef":[7,0,0,0,1,2,8,1,3,19,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX115 =
 "d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611":[7,0,0,0,1,3,4,4,2,3,0],
 "d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04":[7,0,0,0,1,3,4,4,2,3,4],
 "d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9":[7,0,0,0,1,3,4,4,2,3,3],
-"d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22":[7,0,0,0,1,3,4,4,2,3,2]
+"d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22":[7,0,0,0,1,3,4,4,2,3,2],
+"d3/ddf/onyxias__lair_8h.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931":[7,0,0,0,1,3,4,4,2,3,1],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html":[6,0,628,0],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a44ebee45de335ff6f653e9d60a364458":[6,0,628,0,1],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a54deac512294bb0901d072faef3166b1":[6,0,628,0,3],
+"d3/ddf/structboss__meathook_1_1boss__meathookAI.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc":[6,0,628,0,6]
 };
