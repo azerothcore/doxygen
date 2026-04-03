@@ -1,5 +1,6 @@
 var NAVTREEINDEX69 =
 {
+"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#acfa320b33c00883a78c3696bbbeb7eb0":[6,0,3086,0],
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html":[6,0,2014,0],
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a04e43a623d16b4cf8d80552d649d90ca":[6,0,2014,0,3],
 "d2/d79/structnpc__oculus__drakegiver_1_1npc__oculus__drakegiverAI.html#a069e202a84d99cd757862bd1a43b5562":[6,0,2014,0,4],
@@ -160,8 +161,8 @@ var NAVTREEINDEX69 =
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html":[6,0,0,3,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[6,0,0,3,1,1],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a2b0f76655d4e56d8a7aa9a98de87f6cf":[5,0,1,5,1,1],
-"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
 "d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[5,0,1,5,1,0],
+"d2/d89/structAcore_1_1Encoding_1_1Base64.html#a9c18a834b227a8f60104100bd5c47df5":[6,0,0,3,1,0],
 "d2/d8a/TicketScript_8cpp.html":[7,0,0,0,1,2,38,0,82],
 "d2/d8a/TicketScript_8cpp.html#a3455c8aecfa91396c5eb215ecbce5583":[7,0,0,0,1,2,38,0,82,0],
 "d2/d8a/classat__dragonspire__hall.html":[6,0,221],
@@ -200,16 +201,16 @@ var NAVTREEINDEX69 =
 "d2/d8b/structArenaTeamStats.html#ab43875cc3ae58eb636a490c2c0f5c1f6":[6,0,205,1],
 "d2/d8b/structArenaTeamStats.html#ad274601b85ea634524b1c00979e09465":[6,0,205,3],
 "d2/d8c/Packet_8h.html":[7,0,0,0,1,2,39,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[5,0,1,66],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html":[6,0,0,54],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[6,0,0,54,3],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a54ba98f393a8bdf710f6bd65abee526c":[5,0,1,66,3],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[6,0,0,54,0],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a628fe94ce054a868977ef2a981bc5d6c":[5,0,1,66,0],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[5,0,1,66,1],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9":[6,0,0,54,1],
-"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[6,0,0,54,4],
+"d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#a7f34521e8789a1e1dabb867ed82ff438":[5,0,1,66,4],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[5,0,1,66,2],
 "d2/d8c/classAcore_1_1FriendlyMissingBuffInRange.html#aba43edf48b2b0184b52143707c3531f4":[6,0,0,54,2],
 "d2/d8c/classnpc__scholomance__occultist.html":[6,0,2115],
@@ -248,6 +249,5 @@ var NAVTREEINDEX69 =
 "d2/d8e/boss__emerald__dragons_8cpp.html#a6737c15f2eda4a41312e2ca1366fe0e6a529a83b6506bc0567da3876e73b811e6":[7,0,0,0,1,3,10,3,28,1],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762":[7,0,0,0,1,3,10,3,25],
 "d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a06418808c696e688f006dcf08820b8f9":[7,0,0,0,1,3,10,3,25,4],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a363c3e7f7bb9a12d4924a79c97581a56":[7,0,0,0,1,3,10,3,25,2],
-"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a38eeee81428ca2033a198b7bce3e3d53":[7,0,0,0,1,3,10,3,25,0]
+"d2/d8e/boss__emerald__dragons_8cpp.html#a7751dddcaf4c588f4cfb32cf55a19762a363c3e7f7bb9a12d4924a79c97581a56":[7,0,0,0,1,3,10,3,25,2]
 };

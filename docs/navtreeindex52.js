@@ -1,5 +1,6 @@
 var NAVTREEINDEX52 =
 {
+"d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a95188ce1d3abba7dfeef5a9cbd6d3306":[6,0,2219,0,4],
 "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a9908c43715426b75c06c1e2032f4fcca":[6,0,2219,0,9],
 "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#a9fd1519e6196ba4db30740b16904964b":[6,0,2219,0,2],
 "d2/d19/structnpc__twiggy__flathead_1_1npc__twiggy__flatheadAI.html#aa510117962fc5294113f2f88a1f2a652":[6,0,2219,0,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX52 =
 "d2/d20/GridTerrainLoader_8cpp.html":[7,0,0,0,1,2,19,10],
 "d2/d20/classat__cthun__stomach__exit.html":[6,0,220],
 "d2/d20/classat__cthun__stomach__exit.html#ab37174eff353cdbba1f300464645ac63":[6,0,220,0],
-"d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[6,0,220,1],
-"d2/d20/structWorldPackets_1_1Guild_1_1GuildBankItemInfo.html":[5,0,34,6,5]
+"d2/d20/classat__cthun__stomach__exit.html#ab56dca3fe200dc7822459a22912247bf":[6,0,220,1]
 };

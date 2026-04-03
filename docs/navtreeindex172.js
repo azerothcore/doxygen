@@ -1,5 +1,6 @@
 var NAVTREEINDEX172 =
 {
+"d6/d38/classspell__gen__feign__death__all__flags.html#a8aab4a5dab173bd0296843a0c2991142":[6,0,3028,1],
 "d6/d38/instance__blackfathom__deeps_8cpp.html":[7,0,0,0,1,3,4,0,1],
 "d6/d38/instance__blackfathom__deeps_8cpp.html#a6df6617d1b66a2f3d1f610218af85c18":[7,0,0,0,1,3,4,0,1,2],
 "d6/d38/molten__core_8cpp.html":[7,0,0,0,1,3,2,1,3,11],
@@ -248,6 +249,5 @@ var NAVTREEINDEX172 =
 "d6/d41/classAchievementScript.html#acf6a63ba96da7b33a92d48a95a549d4e":[6,0,123,6],
 "d6/d41/classAchievementScript.html#afac6fc03c2ba91165fbdf2ccc5422063":[6,0,123,5],
 "d6/d41/classAppenderConsole.html":[6,0,159],
-"d6/d41/classAppenderConsole.html#a172563f34a7277f7afb05354c8fbeb1f":[6,0,159,6],
-"d6/d41/classAppenderConsole.html#a1a4deceeafc9a111a519ea55dc646266":[6,0,159,3]
+"d6/d41/classAppenderConsole.html#a172563f34a7277f7afb05354c8fbeb1f":[6,0,159,6]
 };

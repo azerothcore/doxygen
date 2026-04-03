@@ -1,5 +1,12 @@
 var NAVTREEINDEX195 =
 {
+"d7/d46/classAuraEffect.html#ae7c56dc7da49ce169af1d32d111b2a57":[6,0,291,48],
+"d7/d46/classAuraEffect.html#aea3300db680ab47876dbc7ae45c08d18":[6,0,291,229],
+"d7/d46/classAuraEffect.html#aea6f4b8bd401df6979e6df65f3fd841e":[6,0,291,0],
+"d7/d46/classAuraEffect.html#aeeed00e5103faf76fec0eb8f88b8d071":[6,0,291,112],
+"d7/d46/classAuraEffect.html#af27fe9a06b1ec4e7feb0249926d69dba":[6,0,291,69],
+"d7/d46/classAuraEffect.html#af38cb2bbca5005a77d57930e8a9fbb21":[6,0,291,149],
+"d7/d46/classAuraEffect.html#af470ebc0cd402437abab85c0203d0396":[6,0,291,124],
 "d7/d46/classAuraEffect.html#af48521ad2be2b43241c6bc8ca6274bd6":[6,0,291,76],
 "d7/d46/classAuraEffect.html#af498cc64849486b0001f558da9c5c9ef":[6,0,291,202],
 "d7/d46/classAuraEffect.html#af572ebb2a04d65ef7f1544640b5b51ab":[6,0,291,103],
@@ -242,12 +249,5 @@ var NAVTREEINDEX195 =
 "d7/d55/classSpectralBlastCheck.html#ab96456159d61e781aa8d691dd0b1fec1":[6,0,2604,2],
 "d7/d55/classSpectralBlastCheck.html#ada2eda8781891a4049ee30c5ecb81c3c":[6,0,2604,0],
 "d7/d55/classSpectralBlastCheck.html#afbe13a5f90a5b95832e14fe9d7affc9f":[6,0,2604,1],
-"d7/d55/structQuestPOIPoint.html":[6,0,2487],
-"d7/d55/structQuestPOIPoint.html#a2e80e5a83ab336a8b019f38297862efa":[6,0,2487,1],
-"d7/d55/structQuestPOIPoint.html#a45211fd0fbeeb5d9fced2b2c31502851":[6,0,2487,3],
-"d7/d55/structQuestPOIPoint.html#a5e9592283b28cd6ff0610ec0438b2a2d":[6,0,2487,2],
-"d7/d55/structQuestPOIPoint.html#a99aaafe1fdae391c6fba20e0c623ff99":[6,0,2487,0],
-"d7/d56/AutobroadcastMgr_8h.html":[7,0,0,0,1,2,6,1],
-"d7/d56/AutobroadcastMgr_8h.html#a28a4ef2f64643c76d8be05bf9eafc731":[7,0,0,0,1,2,6,1,2],
-"d7/d56/AutobroadcastMgr_8h.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e":[7,0,0,0,1,2,6,1,2,2]
+"d7/d55/structQuestPOIPoint.html":[6,0,2487]
 };

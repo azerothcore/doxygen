@@ -1,5 +1,6 @@
 var NAVTREEINDEX50 =
 {
+"d1/dfa/CreatureTextMgr_8h.html":[7,0,0,0,1,2,42,3],
 "d1/dfa/CreatureTextMgr_8h.html#a2dc428da007cefe454220dcb355a1cde":[7,0,0,0,1,2,42,3,5],
 "d1/dfa/CreatureTextMgr_8h.html#a9baeb5ff5e542c90d9058942cf0b4bbd":[7,0,0,0,1,2,42,3,6],
 "d1/dfa/CreatureTextMgr_8h.html#aad09b58ddf486cb766cdeb242824cd2d":[7,0,0,0,1,2,42,3,7],
@@ -236,10 +237,10 @@ var NAVTREEINDEX50 =
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a25b3a4b44bcda9bec898aca1a88b90ed":[5,0,34,12,2,2],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[6,0,12,12,2,3],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a32b15c490da02bc5020653a9e9bfbd68":[5,0,34,12,2,3],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,34,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[6,0,12,12,2,1],
-"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,34,12,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#a8627631f2eb7d93cda52ce09a749fb0c":[5,0,34,12,2,1],
 "d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[6,0,12,12,2,0],
+"d2/d0b/classWorldPackets_1_1Pet_1_1PetActionSound.html#ae20a837d2b3f647d2a1d7c5e398b7b56":[5,0,34,12,2,0],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html":[6,0,3467],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a19094a96e052ec5b1b82aa9a124b30cc":[6,0,3467,2],
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a29dfea997f49052f683cabdf01295126":[6,0,3467,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX50 =
 "d2/d0b/classspell__item__tiny__abomination__in__a__jar__hero.html#a89982759474f6f2d8f64ae406f722816":[6,0,3467,0],
 "d2/d0c/structAchievementReward.html":[6,0,121],
 "d2/d0c/structAchievementReward.html#a45644f308278529f822080f8274180d8":[6,0,121,3],
-"d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,121,4],
-"d2/d0c/structAchievementReward.html#a94440f7e5c023d929e0e7f7d821bb309":[6,0,121,5]
+"d2/d0c/structAchievementReward.html#a4d57dcb4d130552f5bf756308d79307c":[6,0,121,4]
 };

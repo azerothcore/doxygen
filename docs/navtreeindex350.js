@@ -1,5 +1,12 @@
 var NAVTREEINDEX350 =
 {
+"dd/dda/classnpc__koltira__deathweaver.html":[6,0,1935],
+"dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1935,1],
+"dd/dda/classnpc__koltira__deathweaver.html#afddc561b88679f3dd6ca8b374807b0f0":[6,0,1935,2],
+"dd/dda/classspell__dk__advantage__t10__4p.html":[6,0,2773],
+"dd/dda/classspell__dk__advantage__t10__4p.html#a04258b702d79372c0e9c2e1845a6563e":[6,0,2773,1],
+"dd/dda/classspell__dk__advantage__t10__4p.html#a56eaad6f2b1d14cea5fe3f7f27cdb877":[6,0,2773,3],
+"dd/dda/classspell__dk__advantage__t10__4p.html#a7d829589ea098e002206b72f789c95df":[6,0,2773,0],
 "dd/dda/classspell__dk__advantage__t10__4p.html#af62e0a7a43a6762e8e067931e7ec09af":[6,0,2773,2],
 "dd/dda/structboss__marli.html":[6,0,626],
 "dd/dda/structboss__marli.html#a10ab29949ef17e0f9ebd991dc70262c7":[6,0,626,4],
@@ -241,13 +248,6 @@ var NAVTREEINDEX350 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,3048,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[5,0,1,27,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a5c898c20992999f11204aab6479d71f6":[6,0,0,15,3],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[6,0,0,15,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a64ff0c14c71e218b8f9a8888b1017fec":[5,0,1,27,4],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[5,0,1,27,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a7cce16670c95c19f3eb68e5914160513":[6,0,0,15,2],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56":[6,0,0,15,0]
+"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1]
 };

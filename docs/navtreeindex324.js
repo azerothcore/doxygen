@@ -1,5 +1,12 @@
 var NAVTREEINDEX324 =
 {
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a67050daee69746f58a49b0f131a4a4de":[7,0,0,0,1,2,41,11,72,11],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a7ab83bc59e26f2a76b49c41feebe0726":[7,0,0,0,1,2,41,11,72,21],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9bab1f8dcc1dccde2a98e7f492c9d5a9":[7,0,0,0,1,2,41,11,72,10],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a9c2d093615242927901d1c4c256212b2":[7,0,0,0,1,2,41,11,72,15],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aa70d783c590006f1a8cbf2b3d144e94c":[7,0,0,0,1,2,41,11,72,0],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aaf214dbb6995dfa6ae911fa471484b01":[7,0,0,0,1,2,41,11,72,4],
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ab303f97a56ee2f3d7ecd4e7a7950236c":[7,0,0,0,1,2,41,11,72,23],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ac1dc8a3040268f42f5fbce32d51c71e3":[7,0,0,0,1,2,41,11,72,9],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236ac81ead411b37d2496c7a9993f339a39d":[7,0,0,0,1,2,41,11,72,22],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236aca91b48c557565055039bb70ba1fd2eb":[7,0,0,0,1,2,41,11,72,13],
@@ -242,12 +249,5 @@ var NAVTREEINDEX324 =
 "dc/db8/classspell__dk__necrosis.html#a3867a6c8278dc85b3a429652a7b5e81c":[6,0,2813,2],
 "dc/db8/classspell__dk__necrosis.html#ab38f961abbef4271df4ddce139d890df":[6,0,2813,3],
 "dc/db8/classspell__dk__necrosis.html#ac5020d66d7fca6246a4ccbbf5c681fee":[6,0,2813,4],
-"dc/db8/classspell__dk__necrosis.html#ad100e3d9794da0fac5802e9d059609a8":[6,0,2813,1],
-"dc/db8/structboss__mother__shahraz.html":[6,0,641],
-"dc/db8/structboss__mother__shahraz.html#a021c702e7eff266308fee8a4220a6ec7":[6,0,641,2],
-"dc/db8/structboss__mother__shahraz.html#a81ed314ae9737c0989b62c27c9ce4cc9":[6,0,641,3],
-"dc/db8/structboss__mother__shahraz.html#a821d91439c60a60ffcff07b6bdbbc070":[6,0,641,5],
-"dc/db8/structboss__mother__shahraz.html#ab69d81acde4e6e2a3f6adb032090b958":[6,0,641,1],
-"dc/db8/structboss__mother__shahraz.html#ab9e4162ac92e786b84b6497c37251386":[6,0,641,4],
-"dc/db8/structboss__mother__shahraz.html#adba94363f74975301472d79f24894df8":[6,0,641,0]
+"dc/db8/classspell__dk__necrosis.html#ad100e3d9794da0fac5802e9d059609a8":[6,0,2813,1]
 };

@@ -28,7 +28,16 @@ var boss__skadi_8cpp =
       [ "EVENT_SKADI_RESET_CHECK", "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1acb05ed6426e02f11ad66dc877d0f0574", null ],
       [ "EVENT_GRAUF_START", "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae98aa4808fff120cb256c930036c228c", null ],
       [ "EVENT_GRAUF_LEAVE_BREACH", "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a9d6524d429d14eed9ef2f79200d55b0c", null ],
+      [ "EVENT_GRAUF_BREATH_START", "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ab5a3e6f02b9a8a8321d4c45fc5e35285", null ],
       [ "EVENT_GRAUF_REMOVE_AURA", "d6/dd9/boss__skadi_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a93449238ada2e187e86139afb0273ecb", null ]
+    ] ],
+    [ "GraufPaths", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114", [
+      [ "PATH_INITIAL", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114af62df28b317ea3d1d992203f26578873", null ],
+      [ "PATH_RIGHT", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114a512d2f9436fc74e0f956c8e038144560", null ],
+      [ "PATH_LEFT", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114a03f0df4c6aaf0cc97f8e0220b5e1bb42", null ],
+      [ "PATH_BREACH_RIGHT", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114a10b0dd43337b0e15921912c94360b0a0", null ],
+      [ "PATH_BREACH_LEFT", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114a1faa5fe13284c6f83aa7a0d78129f756", null ],
+      [ "PATH_GAUNTLET_ADDS", "d6/dd9/boss__skadi_8cpp.html#a12da985d4343f92957f864889586f114ac568c1a5bc7385075af4ad0ec09627dd", null ]
     ] ],
     [ "GraufPoints", "d6/dd9/boss__skadi_8cpp.html#a6f293cb72ee53a92661bc493262fa243", [
       [ "POINT_BREACH", "d6/dd9/boss__skadi_8cpp.html#a6f293cb72ee53a92661bc493262fa243aa70b0fa21760e8085aa5b99d6a415b4d", null ],
@@ -77,11 +86,9 @@ var boss__skadi_8cpp =
     ] ],
     [ "AddSC_boss_skadi", "d6/dd9/boss__skadi_8cpp.html#aa42fcae49fd433507a2251bd5975dc84", null ],
     [ "BreachFacing", "d6/dd9/boss__skadi_8cpp.html#a3b338962b46bf75dd39d5d74d3ed2d4a", null ],
+    [ "BreathFacingLeft", "d6/dd9/boss__skadi_8cpp.html#af7146701e6558662ca8246c582516528", null ],
+    [ "BreathFacingRight", "d6/dd9/boss__skadi_8cpp.html#ae8436a255d5f5a1a81b97835376237df", null ],
     [ "FirstWaveLocations", "d6/dd9/boss__skadi_8cpp.html#a84e3caebfdec400bd7dee6f377b1bcd9", null ],
     [ "GraufLoc", "d6/dd9/boss__skadi_8cpp.html#ae8466f23b987c9969a69f679564041dc", null ],
-    [ "PATH_INITIAL", "d6/dd9/boss__skadi_8cpp.html#a1252d20ce81d35de1a1c19e88d7bb3fe", null ],
-    [ "PATH_LEFT", "d6/dd9/boss__skadi_8cpp.html#a8a90a151477c488e9a99edfac71d790c", null ],
-    [ "PATH_RIGHT", "d6/dd9/boss__skadi_8cpp.html#a772180082e8847ff6629da7a7d6262b5", null ],
-    [ "SecondaryWavesInitialPoint", "d6/dd9/boss__skadi_8cpp.html#a229ced0f4d87ae3bf0bbf359d416339f", null ],
     [ "SpawnLoc", "d6/dd9/boss__skadi_8cpp.html#abaec267a581c0b664a964785cf873278", null ]
 ];

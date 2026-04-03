@@ -1,5 +1,12 @@
 var NAVTREEINDEX303 =
 {
+"db/dd5/classCreature.html#a3fbb952be0b9ff2229d88931eac105b2":[6,0,936,22],
+"db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b":[6,0,936,65],
+"db/dd5/classCreature.html#a40c8771f7191916a94a1dd9345c3d949":[6,0,936,64],
+"db/dd5/classCreature.html#a42cd2388a23189619d6c0f8131040132":[6,0,936,20],
+"db/dd5/classCreature.html#a436b88db852badef5f6a10210886b7be":[6,0,936,104],
+"db/dd5/classCreature.html#a44a915b84469dc47aa0af70c4abfd47d":[6,0,936,130],
+"db/dd5/classCreature.html#a44f3a1de88c1b21cd831eccceeef3fe1":[6,0,936,157],
 "db/dd5/classCreature.html#a46a7576522c3b964bd50388091f95951":[6,0,936,111],
 "db/dd5/classCreature.html#a46f2520f25c51c18ee7ff7d4eed4c7dc":[6,0,936,10],
 "db/dd5/classCreature.html#a47a8fb84d400cbaf887915dee7160a18":[6,0,936,189],
@@ -242,12 +249,5 @@ var NAVTREEINDEX303 =
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3556,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1678,0],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1678,0,10],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1678,0,1],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[6,0,1678,0,11],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[6,0,1678,0,4],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[6,0,1678,0,8],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a38e98094f05c09ea19a4f44771194b2e":[6,0,1678,0,12],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a446dc0b76eb3549b0e86b02e541f6296":[6,0,1678,0,3],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a563cd394d72a900d735f8639074deae1":[6,0,1678,0,0],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a6fe7e49f2077ed549a6406592aec345e":[6,0,1678,0,5]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1678,0,1]
 };

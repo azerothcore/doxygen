@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"d0/df4/structPosition.html#a4d45ff71d05bb3ff3d570905460f61cd":[6,0,2442,65],
 "d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b":[6,0,2442,32],
 "d0/df4/structPosition.html#a4f8bb54eef056fd5a230c314d24c2ca6":[6,0,2442,66],
 "d0/df4/structPosition.html#a50fc5314d5bb8bf45e4d29bb28685f55":[6,0,2442,58],
@@ -47,14 +48,14 @@ var NAVTREEINDEX23 =
 "d0/df4/structPosition.html#afbbbf953e0cc505fbc596ff7cee17be0":[6,0,2442,20],
 "d0/df4/structPosition.html#afbd4fcbab4f4c33827141f06a63ae4ad":[6,0,2442,44],
 "d0/df4/structPosition.html#afdbf0a257fcd7a48066fd92c4eacae3b":[6,0,2442,56],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,34,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[6,0,12,2,6],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,34,2,6,2],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html":[5,0,34,2,6],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[6,0,12,2,6,2],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a092b32f76df529a4f1284d7231b8fc6b":[5,0,34,2,6,2],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[5,0,34,2,6,1],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3":[6,0,12,2,6,1],
-"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,34,2,6,0],
 "d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[6,0,12,2,6,0],
+"d0/df6/classWorldPackets_1_1Character_1_1PlayedTimeClient.html#a1c82d4d153606da9887d64599f319883":[5,0,34,2,6,0],
 "d0/df6/classspell__allergies.html":[6,0,2622],
 "d0/df6/classspell__allergies.html#a290913502dfe3dfb42b44a964468b97c":[6,0,2622,1],
 "d0/df6/classspell__allergies.html#ab3bdb3a14c6d130d295553e635acb47c":[6,0,2622,3],
@@ -130,12 +131,12 @@ var NAVTREEINDEX23 =
 "d0/dfc/structNPCStaveQuestAI.html#af7100039ab5cf60a27ead73cc928da32":[6,0,2316,8],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[6,0,0,49],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html":[5,0,1,61],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,1,61,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[6,0,0,49,1],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,61,2],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a133a7bb35e86cf40425910c4f19a3337":[5,0,1,61,1],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[6,0,0,49,2],
-"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,61,4],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#a966b8afcbf5afca3a3466d8e075a9437":[5,0,1,61,2],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[6,0,0,49,4],
+"d0/dfe/classAcore_1_1EmoteChatBuilder.html#abc538e056d91ea1ee8d6203c96174b1d":[5,0,1,61,4],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[6,0,0,49,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#add0630dc3fc76fb4fdb79095e13b2fc0":[5,0,1,61,5],
 "d0/dfe/classAcore_1_1EmoteChatBuilder.html#ae09dbfe01b2a24e57b63b2b1df5ad232":[6,0,0,49,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX23 =
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1abb2c764d972352baa23c884a753e0f1f":[7,0,0,0,1,3,4,1,0,6,5,20],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1acadc4d7c30891e1fbbeb6b8b553735f1":[7,0,0,0,1,3,4,1,0,6,5,11],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1acd79af1d8d7836e691d1cdbe1435a760":[7,0,0,0,1,3,4,1,0,6,5,1],
-"d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1ad35b90ab1a930413b113374f2e0d33eb":[7,0,0,0,1,3,4,1,0,6,5,25],
-"d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1ad9e4abbe68b2c78fe5c5fc7b043d7532":[7,0,0,0,1,3,4,1,0,6,5,44]
+"d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1ad35b90ab1a930413b113374f2e0d33eb":[7,0,0,0,1,3,4,1,0,6,5,25]
 };

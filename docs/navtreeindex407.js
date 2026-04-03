@@ -1,5 +1,12 @@
 var NAVTREEINDEX407 =
 {
+"df/db9/structAddonInfo.html#a60ea66ed93b64c9e182226954a514f53":[6,0,132,0],
+"df/db9/structAddonInfo.html#a75e016fa7abee24757c89b97330a6192":[6,0,132,5],
+"df/db9/structAddonInfo.html#a7f0f2d817a2189b3acee5999f154ba60":[6,0,132,1],
+"df/db9/structAddonInfo.html#ace9f109c395ed84cc01ca4381222c25b":[6,0,132,2],
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html":[6,0,1964,0],
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1964,0,8],
+"df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a295cbae9196e320fabbb4cfb9dc33150":[6,0,1964,0,6],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2a0ec4a496c7352ba88ceef99eb769e4":[6,0,1964,0,2],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f":[6,0,1964,0,10],
 "df/db9/structnpc__maghar__captive_1_1npc__maghar__captiveAI.html#a31613adba706f3b5f948f2f7c4222038":[6,0,1964,0,11],
@@ -77,8 +84,8 @@ var NAVTREEINDEX407 =
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a6c1c4e5b85f6f7958578afb6c6f2af98":[5,0,1,89,4],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[5,0,1,89,3],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a88be7342d10008fc394f21b9a5e14162":[6,0,0,77,3],
-"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[6,0,0,77,1],
+"df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#a8deef14a2c11f9ccd9613614124a7d8e":[5,0,1,89,1],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[5,0,1,89,0],
 "df/dbd/classAcore_1_1NearestAttackableUnitInObjectRangeCheck.html#ae2f43e2036047622ec88de3db08ea668":[6,0,0,77,0],
 "df/dbd/structnpc__pallid__horror.html":[6,0,2024],
@@ -213,8 +220,8 @@ var NAVTREEINDEX407 =
 "df/dc7/classOPvPCapturePointEP__PWT.html#af1cffc64adac5b64c04175ad1685d0b8":[6,0,2339,5],
 "df/dc7/classOPvPCapturePointEP__PWT.html#af30325b43d2861eb667b33dcb23ffc1e":[6,0,2339,7],
 "df/dc7/classOPvPCapturePointEP__PWT.html#afeefd804849b925e6d0a880d8efb5319":[6,0,2339,8],
-"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[5,0,34,2,1],
+"df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html":[6,0,12,2,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[5,0,34,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a12f9e56c2ee59f5a084e8aef3fdfad97":[6,0,12,2,1,1],
 "df/dc7/classWorldPackets_1_1Character_1_1LogoutCancelAck.html#a2c261c1cdd4c29658c5160e8fe44ac58":[5,0,34,2,1,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX407 =
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca":[7,0,0,0,0,9,3,1,2],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc":[7,0,0,0,0,9,3,1,6],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5":[7,0,0,0,0,9,3,1,11],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7":[7,0,0,0,0,9,3,1,13],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2":[7,0,0,0,0,9,3,1,8],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81":[7,0,0,0,0,9,3,1,10],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3":[7,0,0,0,0,9,3,1,0],
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88":[7,0,0,0,0,9,3,1,1],
-"df/dc8/classNullCreatureAI.html":[6,0,2319],
-"df/dc8/classNullCreatureAI.html#a12c54c92a08e81751563ec9522236b28":[6,0,2319,5],
-"df/dc8/classNullCreatureAI.html#a191e098763d9b73db74f843aa77115e6":[6,0,2319,4]
+"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7":[7,0,0,0,0,9,3,1,13]
 };

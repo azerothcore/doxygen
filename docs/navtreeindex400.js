@@ -1,5 +1,12 @@
 var NAVTREEINDEX400 =
 {
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a63c01c89920b9bc855b18a70ed13909f":[7,0,0,0,1,3,5,1,0,0,12,22],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70ceee8880401687f5067294f655d614":[7,0,0,0,1,3,5,1,0,0,12,19],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70feb01007c465ac33ad93c191b3fa4d":[7,0,0,0,1,3,5,1,0,0,12,31],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a74fddf7bab846f2879795ac85c557620":[7,0,0,0,1,3,5,1,0,0,12,5],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a7546dea65ed8e4f6a278f5ad7c4651c0":[7,0,0,0,1,3,5,1,0,0,12,9],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a7cf0326f02fb828c7faae0123822d316":[7,0,0,0,1,3,5,1,0,0,12,16],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a91542eda521e747d31274b874023f0d9":[7,0,0,0,1,3,5,1,0,0,12,12],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a92e18cfaa7fe96daa6d1d024bf18994c":[7,0,0,0,1,3,5,1,0,0,12,23],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a9d7ece5d1928364268a131ed2ee56435":[7,0,0,0,1,3,5,1,0,0,12,3],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1aa0d9a2d5d70e4a9f8d94cdae975a5e72":[7,0,0,0,1,3,5,1,0,0,12,28],
@@ -242,12 +249,5 @@ var NAVTREEINDEX400 =
 "df/d7b/classAuraMunchingQueue.html#add694e24c38d585784f236acf9118b76":[6,0,293,2],
 "df/d7b/structQuestGreeting.html":[6,0,2480],
 "df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[6,0,2480,0],
-"df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[6,0,2480,2],
-"df/d7b/structQuestGreeting.html#aa5189cb250b3f46086ecd69dee23414b":[6,0,2480,1],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html":[6,0,4224],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a1f9fb1f258613ca6657abba26969961f":[6,0,4224,0],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#a35a7758630c1769228fedff84ad929e8":[6,0,4224,2],
-"df/d7c/classspell__valanar__kinetic__bomb__knockback.html#acf66a4b14ffce76b6c8dc7cc5906f229":[6,0,4224,1],
-"df/d7c/structboss__taldaram.html":[6,0,731],
-"df/d7c/structboss__taldaram.html#a06efb376b0d08207a0efce74770f21dc":[6,0,731,14]
+"df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[6,0,2480,2]
 };

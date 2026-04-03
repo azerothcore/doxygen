@@ -1,5 +1,6 @@
 var NAVTREEINDEX77 =
 {
+"d2/de9/classSpellInfo.html#a8cfaa909a0cfb808c1a7bee63a66e863":[6,0,4391,19],
 "d2/de9/classSpellInfo.html#a8d3ee150861a5b9789e8fd75e729e70c":[6,0,4391,33],
 "d2/de9/classSpellInfo.html#a8dc618d81b8658f72b686f8ac9e90829":[6,0,4391,48],
 "d2/de9/classSpellInfo.html#a8e4b04d3fad5a1296dc83d49ec1fc2ab":[6,0,4391,131],
@@ -248,6 +249,5 @@ var NAVTREEINDEX77 =
 "d2/dea/Guild_8h.html#aff19569a84ef44eea2acf4d6bcb86690ae5477237a42236638c4c00f45b99ad8c":[7,0,0,0,1,2,21,1,20,1],
 "d2/dea/classGameEventAIHookWorker.html":[6,0,1093],
 "d2/dea/classGameEventAIHookWorker.html#a165476edd8b252bbb90b8b78fae963a6":[6,0,1093,3],
-"d2/dea/classGameEventAIHookWorker.html#a23d979ee43838e7d58e9123e36474a5a":[6,0,1093,1],
-"d2/dea/classGameEventAIHookWorker.html#a756665eafa08f3c8c51ccef69bdd619f":[6,0,1093,4]
+"d2/dea/classGameEventAIHookWorker.html#a23d979ee43838e7d58e9123e36474a5a":[6,0,1093,1]
 };

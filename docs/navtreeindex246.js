@@ -1,5 +1,12 @@
 var NAVTREEINDEX246 =
 {
+"d9/d85/structboss__algalon__the__observer.html#a2ea08602c55f3bca4a6d39eb6ccb1f53":[6,0,383,11],
+"d9/d85/structboss__algalon__the__observer.html#a6b0408e45fda19e394c7f59032c9b660":[6,0,383,10],
+"d9/d85/structboss__algalon__the__observer.html#a8f4703505b8f00327fe0405c1d7010eb":[6,0,383,24],
+"d9/d85/structboss__algalon__the__observer.html#a9523f5eb6a9465f8ffcd7c8abf2c6c87":[6,0,383,17],
+"d9/d85/structboss__algalon__the__observer.html#a969adb280ab53ffec6d7b3f3fa1cb2cc":[6,0,383,12],
+"d9/d85/structboss__algalon__the__observer.html#a9976bad2fdff356ae3739a90a9761798":[6,0,383,6],
+"d9/d85/structboss__algalon__the__observer.html#aa1a53d920464a31a22612e5463187da0":[6,0,383,13],
 "d9/d85/structboss__algalon__the__observer.html#aa291c5d670ba6e69fa7c6cf4cf899e41":[6,0,383,22],
 "d9/d85/structboss__algalon__the__observer.html#ab9deffb6af78a88e000b206632e801f9":[6,0,383,4],
 "d9/d85/structboss__algalon__the__observer.html#abbd0be74c681da6606d79a1b6a210ffa":[6,0,383,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d90/classspell__item__defibrillate.html#a6a7ad6c9bb9bee3b093bd06b1b259468":[6,0,3341,2],
 "d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[6,0,3341,1],
 "d9/d90/classspell__item__defibrillate.html#ab64fdd36fc646ca0bcb2010380199ede":[6,0,3341,0],
-"d9/d90/classspell__item__defibrillate.html#ad2faa26a2874f68e8e419e59cafbf10b":[6,0,3341,3],
-"d9/d90/classspell__item__defibrillate.html#ad871a6bef7ba074f32abe1bf062dffe1":[6,0,3341,4],
-"d9/d90/classspell__razelikh__teleport__group.html":[6,0,3946],
-"d9/d90/classspell__razelikh__teleport__group.html#a1d9cfdc65bd5ae76376e709d0ac891c0":[6,0,3946,2],
-"d9/d90/classspell__razelikh__teleport__group.html#a9ef5a491b5a06c31cdb0249dc086e32f":[6,0,3946,3],
-"d9/d90/classspell__razelikh__teleport__group.html#aa537704c2066df4f5b4c60a775026a83":[6,0,3946,0],
-"d9/d90/classspell__razelikh__teleport__group.html#ac500902c22102ebfc6dcf6f78f0dd8c1":[6,0,3946,1],
-"d9/d90/structnpc__pet__gen__soul__trader__beacon.html":[6,0,2041]
+"d9/d90/classspell__item__defibrillate.html#ad2faa26a2874f68e8e419e59cafbf10b":[6,0,3341,3]
 };

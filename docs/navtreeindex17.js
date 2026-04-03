@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"d0/dae/classItem.html#ab0b94825178d37e1d0eb35f2d3f817ba":[6,0,1396,112],
 "d0/dae/classItem.html#ab2c788fbc44138fc51bb69b4cfd9cafa":[6,0,1396,54],
 "d0/dae/classItem.html#ab481001878b59e35889e750156f3d558":[6,0,1396,78],
 "d0/dae/classItem.html#ab5a28c653c52c8e5f1ed534bd5dfd2ad":[6,0,1396,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "d0/db8/classDelayedWindstoneSummonEvent.html#af9804d276da5daebab3a37f2c75301ea":[6,0,997,3],
 "d0/dba/SpellInfo_8h.html":[7,0,0,0,1,2,41,6],
 "d0/dba/SpellInfo_8h.html#a0a81cd007334dc93766a3232dd6706eb":[7,0,0,0,1,2,41,6,9],
-"d0/dba/SpellInfo_8h.html#a0a81cd007334dc93766a3232dd6706eba4d5cf0d4a9e4b12de975cea878643ff1":[7,0,0,0,1,2,41,6,9,2],
-"d0/dba/SpellInfo_8h.html#a0a81cd007334dc93766a3232dd6706ebacc77c2db92ab9e96d86307679d393718":[7,0,0,0,1,2,41,6,9,0]
+"d0/dba/SpellInfo_8h.html#a0a81cd007334dc93766a3232dd6706eba4d5cf0d4a9e4b12de975cea878643ff1":[7,0,0,0,1,2,41,6,9,2]
 };

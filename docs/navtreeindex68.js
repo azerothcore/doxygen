@@ -1,5 +1,6 @@
 var NAVTREEINDEX68 =
 {
+"d2/d73/classScriptMgr.html#a9b7af42a9e3606be67d77e3a00684873":[6,0,2542,222],
 "d2/d73/classScriptMgr.html#a9c4e24b21281ec13b8140c3d7e34c16f":[6,0,2542,214],
 "d2/d73/classScriptMgr.html#a9d1ff94d4a386e82cf07dca82f8efad7":[6,0,2542,306],
 "d2/d73/classScriptMgr.html#a9d3b77e0f03db72a454fde2b5b919b9f":[6,0,2542,380],
@@ -248,6 +249,5 @@ var NAVTREEINDEX68 =
 "d2/d78/IWorld_8h.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68":[7,0,0,0,1,2,48,0,2,1],
 "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html":[6,0,3086],
 "d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a0d95f8ad8d05d2c0b100dc10988d00c9":[6,0,3086,2],
-"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a6d251ba1e88d4349dcffa96978389a7f":[6,0,3086,1],
-"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#acfa320b33c00883a78c3696bbbeb7eb0":[6,0,3086,0]
+"d2/d79/classspell__gen__rallying__cry__of__the__dragonslayer.html#a6d251ba1e88d4349dcffa96978389a7f":[6,0,3086,1]
 };

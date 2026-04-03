@@ -1,5 +1,6 @@
 var NAVTREEINDEX91 =
 {
+"d3/d03/structAUTH__LOGON__CHALLENGE__C.html#afc0d27e7213846988c0ee7ccc5e54ee0":[6,0,299,9],
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html":[6,0,517,0],
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a0421082f444bc4234012362b92cac132":[6,0,517,0,11],
 "d3/d03/structboss__gormok_1_1boss__gormokAI.html#a244f37a3c6a1037100de20a074c74a63":[6,0,517,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX91 =
 "d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#a9b8c97a29af60ec4a72d2ea85f5c08c4":[6,0,4040,3],
 "d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#ac1f447ca57dd6410d9c8686c7c2b7b2a":[6,0,4040,2],
 "d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#ad37f40743c1435df6e89187e2677a3f8":[6,0,4040,1],
-"d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#addcb648b62f4503f090c248b8d97eb4e":[6,0,4040,0],
-"d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#afec1afc80df1793d98371609e31b1401":[6,0,4040,4]
+"d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#addcb648b62f4503f090c248b8d97eb4e":[6,0,4040,0]
 };

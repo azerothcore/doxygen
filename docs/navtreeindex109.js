@@ -1,5 +1,6 @@
 var NAVTREEINDEX109 =
 {
+"d3/db2/classgo__resonite__cask.html":[6,0,1194],
 "d3/db2/classgo__resonite__cask.html#a5a89aa97a4cd31d7ae183649ee750b74":[6,0,1194,0],
 "d3/db2/classgo__resonite__cask.html#aae8591d53a6983886b52d404acdba293":[6,0,1194,1],
 "d3/db2/cs__instance_8cpp.html":[7,0,0,0,1,3,0,22],
@@ -20,12 +21,12 @@ var NAVTREEINDEX109 =
 "d3/db3/DynamicTree_8h.html":[7,0,0,0,0,1,7],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[6,0,10,19],
 "d3/db3/classVMAP_1_1TriBoundFunc.html":[5,0,31,19],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,31,19,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[6,0,10,19,1],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,31,19,2],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a026d443e9156f884a21351700b6c69dd":[5,0,31,19,1],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[6,0,10,19,2],
-"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,10,19,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb":[5,0,31,19,2],
 "d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[5,0,31,19,0],
+"d3/db3/classVMAP_1_1TriBoundFunc.html#a42711c10595c048420a09e35e3345229":[6,0,10,19,0],
 "d3/db3/structNpcFlagText.html":[6,0,2313],
 "d3/db3/structNpcFlagText.html#a87700bc5f863f448b346c2aec2152ba4":[6,0,2313,1],
 "d3/db3/structNpcFlagText.html#ae1419ecdb46b888ad0250ff77ccb9b6e":[6,0,2313,0],
@@ -143,12 +144,12 @@ var NAVTREEINDEX109 =
 "d3/dbc/classnpc__toc__mage.html#a8270875c1da3e2e96f767362ef90cdc6":[6,0,2199,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[5,0,21,0,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html":[6,0,6,0,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,21,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[6,0,6,0,2,1],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,21,0,2,2],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a32f39a07562c47be0a311d7959678044":[5,0,21,0,2,1],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[6,0,6,0,2,2],
-"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,21,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a6e708a591e7b5597e129a653e1379a1e":[5,0,21,0,2,2],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[6,0,6,0,2,3],
+"d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#a9b880e84fa1d07e414e9a9a62a20969c":[5,0,21,0,2,3],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[6,0,6,0,2,0],
 "d3/dbc/structMMAP_1_1Config_1_1TileOverride.html#af8d2e9bccb8f6bbb36065e686ea39626":[5,0,21,0,2,0],
 "d3/dbc/structUpdateFetcher_1_1DirectoryEntry.html":[6,0,4544,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX109 =
 "d3/dbf/classnpc__ritual__channeler.html#adab372002549b009e3f937ec67e49f3f":[6,0,2103,1],
 "d3/dc1/GridTerrainLoader_8h.html":[7,0,0,0,1,2,19,11],
 "d3/dc1/classnpc__steam__powered__auctioneer.html":[6,0,2147],
-"d3/dc1/classnpc__steam__powered__auctioneer.html#a39a2f0c187078c759bc4a391e0a81068":[6,0,2147,2],
-"d3/dc1/classnpc__steam__powered__auctioneer.html#ae8c918c639ce0c3ddc14b8cf7f0ef855":[6,0,2147,1]
+"d3/dc1/classnpc__steam__powered__auctioneer.html#a39a2f0c187078c759bc4a391e0a81068":[6,0,2147,2]
 };

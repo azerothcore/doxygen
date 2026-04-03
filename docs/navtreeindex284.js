@@ -1,5 +1,12 @@
 var NAVTREEINDEX284 =
 {
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,720,0,7],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,720,0,6],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[6,0,720,0,4],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a58e1188a418acdc1f327e7df90c5c122":[6,0,720,0,1],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a636ca76497c33a5175986e80bbcda44a":[6,0,720,0,2],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a8759163de40d04d53c5e5ed8d8192aa7":[6,0,720,0,5],
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ac30b38805d0421b1be509c7d5609c648":[6,0,720,0,3],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ad85e2fd51d67739026a96bc757bc7801":[6,0,720,0,0],
 "db/d2b/classnpc__captain__arnath.html":[6,0,1701],
 "db/d2b/classnpc__captain__arnath.html#a302ec007389e677011334d78f410207b":[6,0,1701,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX284 =
 "db/d3d/structnpc__supervisor__raelen.html#ae3e44b8f29f05c771137c5b9afd5da56":[6,0,2161,6],
 "db/d3e/classnpc__icc__vengeful__fleshreaper.html":[6,0,1897],
 "db/d3e/classnpc__icc__vengeful__fleshreaper.html#aa95ec1e021f3d123e5a95c356765ac36":[6,0,1897,1],
-"db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1897,2],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html":[6,0,3954],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5":[6,0,3954,2],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a6adc572bb13dde9b83a44a1c27833019":[6,0,3954,0],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a877c26735531508d1806273117f3e8bc":[6,0,3954,1],
-"db/d3e/classspell__reliquary__of__souls__spite__aura.html#a8c45ba806d865f7b9d56950013bdd81c":[6,0,3954,3],
-"db/d3e/structQEmote.html":[6,0,2470],
-"db/d3e/structQEmote.html#a701c902af6f7f472511727bcc88ceeef":[6,0,2470,1]
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1897,2]
 };

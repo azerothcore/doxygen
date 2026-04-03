@@ -1,5 +1,6 @@
 var NAVTREEINDEX54 =
 {
+"d2/d27/QuestDef_8h.html#a198acf8afc6a434e2a7f2d574520e18fa89932eb633b107826e9dbd9a01b20d87":[7,0,0,0,1,2,36,2,15,4],
 "d2/d27/QuestDef_8h.html#a198acf8afc6a434e2a7f2d574520e18fa89e5220155ad05d0a11e8a0f9d32d3cb":[7,0,0,0,1,2,36,2,15,9],
 "d2/d27/QuestDef_8h.html#a198acf8afc6a434e2a7f2d574520e18fa8c7847cc142b47d740a77d44a9a359f2":[7,0,0,0,1,2,36,2,15,1],
 "d2/d27/QuestDef_8h.html#a198acf8afc6a434e2a7f2d574520e18fab1743dc9f2777d67b8bbfaa440940d94":[7,0,0,0,1,2,36,2,15,10],
@@ -152,8 +153,8 @@ var NAVTREEINDEX54 =
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#a2ecc50fa3c14918b6eace63eac75eb96":[6,0,3174,1],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#abb4f53a42e701323b2fc66598ec3503c":[6,0,3174,2],
 "d2/d29/classspell__hallows__end__candy__pirate__costume.html#ad1ff6d29459d9a38fcdef3f6c7007f6b":[6,0,3174,3],
-"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[6,0,0,119],
+"d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html":[5,0,1,131],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[6,0,0,119,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a51fa6de40d065bd7ba52f4dc982f9a5e":[5,0,1,131,0],
 "d2/d29/structAcore_1_1WorldObjectSpellConeTargetCheck.html#a8f946789292320ea8b205dec5d1e1975":[5,0,1,131,2],
@@ -175,10 +176,10 @@ var NAVTREEINDEX54 =
 "d2/d2b/classConfusedMovementGenerator.html#ad7b5bb65d55f6149e8df8cb4e2cdda50":[6,0,918,12],
 "d2/d2b/classConfusedMovementGenerator.html#aea922e45838ab8a9cfe1787f0f7c169c":[6,0,918,1],
 "d2/d2b/classConfusedMovementGenerator.html#af597e5c544e56c255b179a08290f4ccb":[6,0,918,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,34,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[6,0,12,10,3],
-"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,34,10,3,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html":[5,0,34,10,3],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[6,0,12,10,3,1],
+"d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a35a93d9abeeb029f3da080487423f495":[5,0,34,10,3,1],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[6,0,12,10,3,0],
 "d2/d2b/classWorldPackets_1_1Misc_1_1DurabilityDamageDeath.html#a9b4350d37291b9b714be1563b28dcb43":[5,0,34,10,3,0],
 "d2/d2b/structnpc__pool__of__tar.html":[6,0,2060],
@@ -248,6 +249,5 @@ var NAVTREEINDEX54 =
 "d2/d2d/classDamageInfo.html#a8e8b4c4ca4ef62b353c5868d5954bfcd":[6,0,969,17],
 "d2/d2d/classDamageInfo.html#a90be517686a8d78e0c585e1535e39567":[6,0,969,23],
 "d2/d2d/classDamageInfo.html#a92d500e09cf80873f1c9751841dede58":[6,0,969,27],
-"d2/d2d/classDamageInfo.html#a9b39c211a157092dbd0111ac46bef8a4":[6,0,969,28],
-"d2/d2d/classDamageInfo.html#aa241087126e9dd972944dee7225783a8":[6,0,969,2]
+"d2/d2d/classDamageInfo.html#a9b39c211a157092dbd0111ac46bef8a4":[6,0,969,28]
 };

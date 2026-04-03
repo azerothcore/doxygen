@@ -1,5 +1,12 @@
 var NAVTREEINDEX283 =
 {
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#ac78f94033239dcf247be9a48d0535081":[6,0,1758,0,7],
+"db/d1a/structnpc__deaths__door__fell__cannon__target__bunny_1_1npc__deaths__door__fell__cannon__target__bunnyAI.html#acf362c9e3eb844db9f66cc8c969cd22e":[6,0,1758,0,8],
+"db/d1b/SkillExtraItems_8cpp.html":[7,0,0,0,1,2,40,2],
+"db/d1b/SkillExtraItems_8cpp.html#a121df170a82be5ab5b05999a6be27b69":[7,0,0,0,1,2,40,2,7],
+"db/d1b/SkillExtraItems_8cpp.html#a3244d04018405bafe21acc8bc96cc743":[7,0,0,0,1,2,40,2,6],
+"db/d1b/SkillExtraItems_8cpp.html#a49687e255d65fa15dac5e6a428c5739d":[7,0,0,0,1,2,40,2,4],
+"db/d1b/SkillExtraItems_8cpp.html#a818c557864790091814604b6d2175e52":[7,0,0,0,1,2,40,2,5],
 "db/d1b/SkillExtraItems_8cpp.html#a9ba2d7d2e815aee57a701990b858db7b":[7,0,0,0,1,2,40,2,2],
 "db/d1b/SkillExtraItems_8cpp.html#ac676f0acbf782fa2d31bd66b8eaa8260":[7,0,0,0,1,2,40,2,9],
 "db/d1b/SkillExtraItems_8cpp.html#acc52416c05fbae29bcbfa9f0683485cd":[7,0,0,0,1,2,40,2,8],
@@ -125,8 +132,8 @@ var NAVTREEINDEX283 =
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22a7a404e3bb6896f313f8b373d80f52d19":[7,0,0,0,1,3,2,7,0,4,6],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ab2d23e7fb40444532cb5cbf0a1aef485":[7,0,0,0,1,3,2,7,0,4,9],
 "db/d20/instance__scarlet__monastery_8cpp.html#afb6eb4f28419b652027fad41104a6d22ad9a2909a4cd4c59bd1d47c84ead1be8c":[7,0,0,0,1,3,2,7,0,4,0],
-"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[5,0,1,7,6],
+"db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html":[6,0,0,4,6],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[5,0,1,7,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#aca1cbcd3319031b549c0ec6441b2c821":[6,0,0,4,6,0],
 "db/d20/structAcore_1_1Hyperlinks_1_1QuestLinkData.html#ad162701af62caac909ef9f57f68bf848":[6,0,0,4,6,1],
@@ -146,8 +153,8 @@ var NAVTREEINDEX283 =
 "db/d20/structnpc__image__of__medivh_1_1npc__image__of__medivhAI.html#af2e7dd7f1038bb5662fe7375a7e052c4":[6,0,1904,0,3],
 "db/d21/BattlefieldMgr_8h.html":[7,0,0,0,1,2,7,5],
 "db/d21/BattlefieldMgr_8h.html#a4545b2a440043037e8dad52c0f644f48":[7,0,0,0,1,2,7,5,1],
-"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[6,0,12,6,40,0],
+"db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html":[5,0,34,6,40,0],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[6,0,12,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#aa7bb5355ee174f3b9dd32c659e0f7806":[5,0,34,6,40,0,1],
 "db/d21/structWorldPackets_1_1Guild_1_1GuildPermissionsQueryResults_1_1GuildRankTabPermissions.html#af1d25fa760cdbfa907a1b6e0002f0e70":[6,0,12,6,40,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX283 =
 "db/d2a/classspell__warr__extra__proc.html#a95c26300614ecdab588ddcc256fc1fd6":[6,0,4301,1],
 "db/d2a/classspell__warr__extra__proc.html#ab012775206fb6011eff8fbed293319c8":[6,0,4301,3],
 "db/d2a/classspell__warr__extra__proc.html#afb32150ac10ad392b63f40db05433835":[6,0,4301,2],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,720,0],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,720,0,7],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,720,0,6],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[6,0,720,0,4],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a58e1188a418acdc1f327e7df90c5c122":[6,0,720,0,1],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a636ca76497c33a5175986e80bbcda44a":[6,0,720,0,2],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a8759163de40d04d53c5e5ed8d8192aa7":[6,0,720,0,5],
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#ac30b38805d0421b1be509c7d5609c648":[6,0,720,0,3]
+"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,720,0]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX292 =
 {
+"db/d86/boss__malygos_8cpp.html#ac7fb08307734367ba9b7f205c3cc94b7":[7,0,0,0,1,3,5,8,0,0,15],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cc":[7,0,0,0,1,3,5,8,0,0,17],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca0d596f17046558d54d8682b419504d33":[7,0,0,0,1,3,5,8,0,0,17,28],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca0d6a87830adddb7a1ae14d8d447ad2bc":[7,0,0,0,1,3,5,8,0,0,17,32],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca1cd628fe8ad12d4928e8a1c4eb98ef76":[7,0,0,0,1,3,5,8,0,0,17,2],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca2540a47ff8857839a4ebbc67ec05b566":[7,0,0,0,1,3,5,8,0,0,17,26],
+"db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca2732c5cf318e5e59e92861ae3cedd89d":[7,0,0,0,1,3,5,8,0,0,17,35],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca28a4e676373a783496c1784ecd7b16df":[7,0,0,0,1,3,5,8,0,0,17,17],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca298ce1d34272beb5393b71b66d3207ef":[7,0,0,0,1,3,5,8,0,0,17,10],
 "db/d86/boss__malygos_8cpp.html#ad5cfd97bbf560536284181a43d0e88cca2fa72050b4af000c4fa4cb021bd09fdc":[7,0,0,0,1,3,5,8,0,0,17,12],
@@ -70,12 +77,12 @@ var NAVTREEINDEX292 =
 "db/d88/utgarde__keep_8cpp.html#aa19590ca509e049e2c92b727b48b6649":[7,0,0,0,1,3,5,10,0,4,10],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045":[7,0,0,0,1,3,5,10,0,4,5],
 "db/d88/utgarde__keep_8cpp.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe":[7,0,0,0,1,3,5,10,0,4,5,0],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[6,0,12,13,1],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html":[5,0,34,13,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[6,0,12,13,1,2],
-"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a52528a68f1c86196e7428f196f93d12b":[5,0,34,13,1,2],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[6,0,12,13,1,0],
+"db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#a7dc5a2dceb475303db4b4ab0c0a6d23c":[5,0,34,13,1,0],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[6,0,12,13,1,1],
 "db/d89/classWorldPackets_1_1Query_1_1NameQuery.html#ae4a16ebe5372214d3aec65b056a9426e":[5,0,34,13,1,1],
 "db/d89/classspell__item__dimensional__ripper__area52.html":[6,0,3346],
@@ -242,12 +249,5 @@ var NAVTREEINDEX292 =
 "db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffea70447d3b5d0258c286b0901389240fa7":[7,0,0,0,1,2,16,4,6,41,13],
 "db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffea7081b977056069f5be5f0ee06ec0ef84":[7,0,0,0,1,2,16,4,6,41,3],
 "db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffea806133726d53455c5a9a4da71274f474":[7,0,0,0,1,2,16,4,6,41,23],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffea858a28fa799a3e79eeda66f698b821c1":[7,0,0,0,1,2,16,4,6,41,22],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffea9acd8f680ae23a62e6d8fb7c56a14642":[7,0,0,0,1,2,16,4,6,41,5],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffeaa236d0cf02aa0615cf505bd0ea259141":[7,0,0,0,1,2,16,4,6,41,19],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffeab46294f21eef282f368ba642418e6ee3":[7,0,0,0,1,2,16,4,6,41,30],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffeab80e9173eaafe9f065f277fb8c3d0a41":[7,0,0,0,1,2,16,4,6,41,25],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffeaba8494807989f98c8d2e017a65a18e7c":[7,0,0,0,1,2,16,4,6,41,11],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffeabf6c8094f30666906547d2226e6612fe":[7,0,0,0,1,2,16,4,6,41,27],
-"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffeac6ca52f749cb287c5407de0604662db6":[7,0,0,0,1,2,16,4,6,41,4]
+"db/d8b/ItemTemplate_8h.html#a279e25c40ca23b1bb52b931202fa9ffea858a28fa799a3e79eeda66f698b821c1":[7,0,0,0,1,2,16,4,6,41,22]
 };

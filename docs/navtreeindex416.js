@@ -1,5 +1,12 @@
 var NAVTREEINDEX416 =
 {
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ab28467f9b11a87162dae0306a1f2fb20":[6,0,416,0,0],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#abc58e7c6c384ea4c342d6b153557c4b1":[6,0,416,0,10],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#ac617b5511beacd7b98d0e9ae8773e7dc":[6,0,416,0,17],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aca37d322e154ae01ceb4e96b3b42d5d0":[6,0,416,0,21],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#acb939a02a912d1db13947a939f4c554c":[6,0,416,0,5],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#aebb53f7599dd3a55953946b7cc9e76d6":[6,0,416,0,8],
+"df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#af808b2b543ea9b27b4b03d0e561fb90e":[6,0,416,0,20],
 "df/df4/structboss__blood__queen__lana__thel_1_1boss__blood__queen__lana__thelAI.html#afb02799e3fad05e2e0d48ea5b3be7526":[6,0,416,0,4],
 "df/df5/BattlefieldMgr_8cpp.html":[7,0,0,0,1,2,7,4],
 "df/df5/structboss__nefarian.html":[6,0,648],
@@ -242,12 +249,5 @@ var NAVTREEINDEX416 =
 "dir_7c8cab10b3149c3fa669be6ae86b4819.html":[7,0,0,0,1,2,44],
 "dir_7cceb56be83a77325820340cc4b7f0cb.html":[7,0,0,0,1,2,16,5],
 "dir_7e58d5bd8d8b82079418e9e537265afd.html":[7,0,0,0,1,3,5,9,0],
-"dir_7ee4929d46277e5eb29eea0f8a31fa60.html":[7,0,0,0,2,2,0,8],
-"dir_816589248c496bc2270bc4e83dc7035c.html":[7,0,0,0,3,1],
-"dir_81f27dfa25f27c55a8e8044b1a11fbfb.html":[7,0,0,0,1,3,5],
-"dir_824c567499771b11a8d1959386aa27e6.html":[7,0,0,0,1,2,38],
-"dir_8303d6c15c2da3f083d7d0da7d55e7c8.html":[7,0,0,0,2,2,0,6],
-"dir_8439b06d1222f15d9722cd90fc7c13a2.html":[7,0,0,0,1,3,2,3],
-"dir_847bfdbe3e0168e0f84c6c83bf557aa9.html":[7,0,0,0,1,3,5,8,0],
-"dir_86b42cc1a54e6d04672764bc481d77b5.html":[7,0,0,0,1,3,3,0]
+"dir_7ee4929d46277e5eb29eea0f8a31fa60.html":[7,0,0,0,2,2,0,8]
 };

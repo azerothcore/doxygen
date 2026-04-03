@@ -1,5 +1,6 @@
 var NAVTREEINDEX34 =
 {
+"d1/d59/structboss__headless__horseman__pumpkin.html#a1f236cdfeec366f0d830e0fceafa6d25":[6,0,539,6],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a212f9803f66d297cd276ef842247776a":[6,0,539,2],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a2d7cb1bc5f25f87b1452d6c1267958c4":[6,0,539,1],
 "d1/d59/structboss__headless__horseman__pumpkin.html#a401db237c45efde3a30cdca6cb4f95c0":[6,0,539,4],
@@ -194,8 +195,8 @@ var NAVTREEINDEX34 =
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a234135e6bea0d91611fbdbae4dec2ea1":[6,0,2064,0,2],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#a76818ee5fcfcc5678fa9d0957a424d9b":[6,0,2064,0,1],
 "d1/d61/structnpc__pos__freed__slave_1_1npc__pos__freed__slaveAI.html#ad5728e427f9f4a65cea13ec2c5a01453":[6,0,2064,0,0],
-"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,15,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[6,0,12,15,1],
+"d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html":[5,0,34,15,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[5,0,34,15,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2":[6,0,12,15,1,1],
 "d1/d62/classWorldPackets_1_1Totem_1_1TotemDestroyed.html#a3bcaa030b2c15d54617564cf0f5e4c36":[5,0,34,15,1,0],
@@ -222,10 +223,10 @@ var NAVTREEINDEX34 =
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a08f8e473914c8a7bddbf26568294c18b":[6,0,0,76,1],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[5,0,1,88,0],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a1f0bf90a7b9c57d05c54e3db6827aec1":[6,0,0,76,0],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[5,0,1,88,3],
-"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a64f58427bbab3276bdc53450b33eca12":[6,0,0,76,3],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[6,0,0,76,2],
+"d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#a949ff3bcc3530206d83512d293647a2b":[5,0,1,88,2],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[6,0,0,76,4],
 "d1/d64/classAcore_1_1NearestAttackableNoTotemUnitInObjectRangeCheck.html#af52388830cec17e32b1d368739b4555a":[5,0,1,88,4],
 "d1/d64/classspell__q14112__14145__chum__the__water.html":[6,0,3923],
@@ -248,6 +249,5 @@ var NAVTREEINDEX34 =
 "d1/d67/classspell__item__aegis__of__preservation.html":[6,0,3310],
 "d1/d67/classspell__item__aegis__of__preservation.html#a2e1b7aed322de7023075fdd69660f2f6":[6,0,3310,2],
 "d1/d67/classspell__item__aegis__of__preservation.html#a37d8d2e9c4618ecbbf314b98286e28b9":[6,0,3310,1],
-"d1/d67/classspell__item__aegis__of__preservation.html#a6e807b19f98f8237e5d6f254cb0987a6":[6,0,3310,3],
-"d1/d67/classspell__item__aegis__of__preservation.html#a9d23a4c0986f56e08c5e687ddae621f9":[6,0,3310,0]
+"d1/d67/classspell__item__aegis__of__preservation.html#a6e807b19f98f8237e5d6f254cb0987a6":[6,0,3310,3]
 };

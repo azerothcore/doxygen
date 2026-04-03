@@ -1,5 +1,6 @@
 var NAVTREEINDEX40 =
 {
+"d1/daa/structboss__high__interrogator__gerstahn.html#aedd3fd6f34db795625835ac12c4c9bd8":[6,0,545,7],
 "d1/daa/structboss__high__interrogator__gerstahn.html#afaff4a9b18a2dc433ad9cfc73cd2cc01":[6,0,545,0],
 "d1/daa/structboss__highlord__omokk.html":[6,0,549],
 "d1/daa/structboss__highlord__omokk.html#a0bd4e1e0f72a0b6a8792d508c401caf8":[6,0,549,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX40 =
 "d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a0f966a2f1219b75a945c686c3cad21e4":[7,0,0,0,1,2,16,10,5,54,3],
 "d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae":[7,0,0,0,1,2,16,10,5,54,0],
 "d1/daf/Unit_8h.html#a85524ab4e1fb005ed500bd190f79c352aa2557af152c5f2b27bbf59915cbd1670":[7,0,0,0,1,2,16,10,5,54,2],
-"d1/daf/Unit_8h.html#a89a822f82e3d3eafe03f7ae0d1310300":[7,0,0,0,1,2,16,10,5,22],
-"d1/daf/Unit_8h.html#a8c9f2cb96962bbba77bd38e8bd014659":[7,0,0,0,1,2,16,10,5,23]
+"d1/daf/Unit_8h.html#a89a822f82e3d3eafe03f7ae0d1310300":[7,0,0,0,1,2,16,10,5,22]
 };

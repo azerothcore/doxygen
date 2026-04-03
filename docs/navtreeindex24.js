@@ -1,5 +1,6 @@
 var NAVTREEINDEX24 =
 {
+"d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1ad9e4abbe68b2c78fe5c5fc7b043d7532":[7,0,0,0,1,3,4,1,0,6,5,44],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1addcb97e624c9e529f2b4d2cd4f50edac":[7,0,0,0,1,3,4,1,0,6,5,41],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1adf7de74cce713de00b61f691f479f585":[7,0,0,0,1,3,4,1,0,6,5,17],
 "d0/dff/hyjal_8h.html#a9e8dc23238e4b54d4a243b454a29c0e1ae0f7af5cdcdf5ce8ce7c26a8fd47e21a":[7,0,0,0,1,3,4,1,0,6,5,18],
@@ -122,8 +123,8 @@ var NAVTREEINDEX24 =
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a1ccdf24be9a20c824b479af014f4fcb0":[6,0,12,16,1,0],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[6,0,12,16,1,2],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a51fa2401d8af4c1c7848b423cb6f056f":[5,0,34,16,1,2],
-"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,34,16,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[6,0,12,16,1,1],
+"d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#a76a4c5d6a06ce8d86a2d3f04f68e838d":[5,0,34,16,1,1],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[5,0,34,16,1,3],
 "d1/d02/classWorldPackets_1_1WorldState_1_1UpdateWorldState.html#aa73278b324822f509f48e6edcdaed457":[6,0,12,16,1,3],
 "d1/d02/classspell__dk__unholy__blight.html":[6,0,2831],
@@ -164,10 +165,10 @@ var NAVTREEINDEX24 =
 "d1/d05/classspell__war__sudden__death__aura.html#a3df5a215670c7a1e07bc901e442bb11c":[6,0,4245,2],
 "d1/d05/classspell__war__sudden__death__aura.html#a947c7b94512fbfdd8b51cfa8044d2e6c":[6,0,4245,0],
 "d1/d05/classspell__war__sudden__death__aura.html#aa184faf59edbad97ec361e66169137b9":[6,0,4245,1],
-"d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,114],
 "d1/d05/structAcore_1_1VisibleNotifier.html":[5,0,1,126],
-"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,114,6],
+"d1/d05/structAcore_1_1VisibleNotifier.html":[6,0,0,114],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[5,0,1,126,6],
+"d1/d05/structAcore_1_1VisibleNotifier.html#a019182fa8a629d796982f9cc565d9bc3":[6,0,0,114,6],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[6,0,0,114,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a34d766816baaad7b1b3623360ec9abeb":[5,0,1,126,8],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a49da99cbbcf8f839d810d6ac6a2502e0":[6,0,0,114,4],
@@ -180,10 +181,10 @@ var NAVTREEINDEX24 =
 "d1/d05/structAcore_1_1VisibleNotifier.html#a8dafcbc64e004aea196aec47fb2bb175":[5,0,1,126,3],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[6,0,0,114,1],
 "d1/d05/structAcore_1_1VisibleNotifier.html#a95d1c60911cfed9e4f0e034afbf11482":[5,0,1,126,1],
-"d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[5,0,1,126,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[6,0,0,114,7],
-"d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[5,0,1,126,0],
+"d1/d05/structAcore_1_1VisibleNotifier.html#aaa324b9a9cffd59c7cbab0c08cf68395":[5,0,1,126,7],
 "d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[6,0,0,114,0],
+"d1/d05/structAcore_1_1VisibleNotifier.html#ae449b96de3eff1759869438dd90f6513":[5,0,1,126,0],
 "d1/d05/structMmapTileRecastConfig.html":[6,0,1540],
 "d1/d05/structMmapTileRecastConfig.html#a16440d4ea4533b065cfa8aac216c275a":[6,0,1540,11],
 "d1/d05/structMmapTileRecastConfig.html#a37b48fdf0ff629ff18e262cf1b74604a":[6,0,1540,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX24 =
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a21f91de064bec6943aae5d710e6ec485":[6,0,1790,0,3],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a258d870137c02dd74ff23b94cb3f90d1":[6,0,1790,0,11],
 "d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a2b11d54ff39f568cf26845251a38a612":[6,0,1790,0,12],
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a3f3da888c1076f4f728157f7ba9edf1c":[6,0,1790,0,9],
-"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a62dee89eca10f43af3051800e4a69c74":[6,0,1790,0,16]
+"d1/d09/structnpc__eris__hevenfire_1_1npc__eris__hevenfireAI.html#a3f3da888c1076f4f728157f7ba9edf1c":[6,0,1790,0,9]
 };

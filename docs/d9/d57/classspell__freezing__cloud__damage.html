@@ -326,12 +326,12 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  591</span>    {</div>
-<div class="line"><span class="lineno">  592</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>()))</div>
-<div class="line"><span class="lineno">  593</span>            <span class="keywordflow">if</span> (aur-&gt;GetOwner() != <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4e53f9ab5182bab19267607e4d33c5d7">GetOwner</a>())</div>
-<div class="line"><span class="lineno">  594</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  595</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  596</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  617</span>    {</div>
+<div class="line"><span class="lineno">  618</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dce/classAura.html">Aura</a>* aur = target-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a135e4d345c338da83450a60528f71222">GetAura</a>(<a class="code hl_function" href="../../d5/d0f/classAuraScript.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>()))</div>
+<div class="line"><span class="lineno">  619</span>            <span class="keywordflow">if</span> (aur-&gt;GetOwner() != <a class="code hl_function" href="../../d5/d0f/classAuraScript.html#a4e53f9ab5182bab19267607e4d33c5d7">GetOwner</a>())</div>
+<div class="line"><span class="lineno">  620</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  621</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  622</span>    }</div>
 <div class="ttc" id="aclassAuraScript_html_a4e53f9ab5182bab19267607e4d33c5d7"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a4e53f9ab5182bab19267607e4d33c5d7">AuraScript::GetOwner</a></div><div class="ttdeci">WorldObject * GetOwner() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1040</div></div>
 <div class="ttc" id="aclassAuraScript_html_afca894c30f544ccf512e0966eb7e10ce"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#afca894c30f544ccf512e0966eb7e10ce">AuraScript::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition</b> SpellScript.cpp:1025</div></div>
 <div class="ttc" id="aclassAura_html"><div class="ttname"><a href="../../db/dce/classAura.html">Aura</a></div><div class="ttdef"><b>Definition</b> SpellAuras.h:87</div></div>
@@ -339,7 +339,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l05845">Unit::GetAura()</a>, <a class="el" href="../../#l01025">AuraScript::GetId()</a>, and <a class="el" href="../../#l01040">AuraScript::GetOwner()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00598">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00624">Register()</a>.</p>
 
 </div>
 </div>
@@ -393,14 +393,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/ddb/class__SpellScript.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  599</span>    {</div>
-<div class="line"><span class="lineno">  600</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405">DoCheckAreaTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826">AuraCheckAreaTargetFn</a>(<a class="code hl_function" href="../../d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b">spell_freezing_cloud_damage::CanBeAppliedOn</a>);</div>
-<div class="line"><span class="lineno">  601</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  625</span>    {</div>
+<div class="line"><span class="lineno">  626</span>        <a class="code hl_variable" href="../../d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405">DoCheckAreaTarget</a> += <a class="code hl_define" href="../../dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826">AuraCheckAreaTargetFn</a>(<a class="code hl_function" href="../../d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b">spell_freezing_cloud_damage::CanBeAppliedOn</a>);</div>
+<div class="line"><span class="lineno">  627</span>    }</div>
 <div class="ttc" id="aSpellScript_8h_html_ae48944a76973e5072df96136a9e79826"><div class="ttname"><a href="../../dc/db2/SpellScript_8h.html#ae48944a76973e5072df96136a9e79826">AuraCheckAreaTargetFn</a></div><div class="ttdeci">#define AuraCheckAreaTargetFn(F)</div><div class="ttdef"><b>Definition</b> SpellScript.h:733</div></div>
 <div class="ttc" id="aclassAuraScript_html_a9afe5ca2d01661fb7fab59aa5d58c405"><div class="ttname"><a href="../../d5/d0f/classAuraScript.html#a9afe5ca2d01661fb7fab59aa5d58c405">AuraScript::DoCheckAreaTarget</a></div><div class="ttdeci">HookList&lt; CheckAreaTargetHandler &gt; DoCheckAreaTarget</div><div class="ttdef"><b>Definition</b> SpellScript.h:732</div></div>
-<div class="ttc" id="aclassspell__freezing__cloud__damage_html_ad92126f58e8ac8c83449725bc29fda8b"><div class="ttname"><a href="../../d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b">spell_freezing_cloud_damage::CanBeAppliedOn</a></div><div class="ttdeci">bool CanBeAppliedOn(Unit *target)</div><div class="ttdef"><b>Definition</b> boss_skadi.cpp:590</div></div>
+<div class="ttc" id="aclassspell__freezing__cloud__damage_html_ad92126f58e8ac8c83449725bc29fda8b"><div class="ttname"><a href="../../d9/d57/classspell__freezing__cloud__damage.html#ad92126f58e8ac8c83449725bc29fda8b">spell_freezing_cloud_damage::CanBeAppliedOn</a></div><div class="ttdeci">bool CanBeAppliedOn(Unit *target)</div><div class="ttdef"><b>Definition</b> boss_skadi.cpp:616</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00733">AuraCheckAreaTargetFn</a>, <a class="el" href="../../#l00590">CanBeAppliedOn()</a>, and <a class="el" href="../../#l00732">AuraScript::DoCheckAreaTarget</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00733">AuraCheckAreaTargetFn</a>, <a class="el" href="../../#l00616">CanBeAppliedOn()</a>, and <a class="el" href="../../#l00732">AuraScript::DoCheckAreaTarget</a>.</p>
 
 </div>
 </div>
@@ -413,7 +413,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d57/classspell__freezing__cloud__damage.html">spell_freezing_cloud_damage</a></li>
-    <li class="footer">Generated on Thu Apr 2 2026 07:08:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Apr 3 2026 07:04:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

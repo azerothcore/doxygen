@@ -1,5 +1,6 @@
 var NAVTREEINDEX38 =
 {
+"d1/d8e/structboss__anub__arak.html#a823906227e56408dc4c052154e4997fc":[6,0,391,5],
 "d1/d8e/structboss__anub__arak.html#a8a82bc0717073a7e9835358926cb9b5e":[6,0,391,16],
 "d1/d8e/structboss__anub__arak.html#a8f17a42c83d660236db4b00e164e214a":[6,0,391,15],
 "d1/d8e/structboss__anub__arak.html#a8f4da00dd29ec67806feb69a6f48922e":[6,0,391,11],
@@ -236,18 +237,17 @@ var NAVTREEINDEX38 =
 "d1/d9d/classSpellProcPPMModifierTest.html#a7dbbfc5825a36bf3950a8dff54e0ca5a":[6,0,4419,3],
 "d1/d9d/classSpellProcPPMModifierTest.html#ab58c026bc6bbcf94aaec896c654e949f":[6,0,4419,0],
 "d1/d9d/classSpellProcPPMModifierTest.html#ac960eb9c5e15274b63b684d8908ed68b":[6,0,4419,2],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[6,0,12,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[5,0,34,0,0],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[5,0,34,0,0,0],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html":[6,0,12,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[6,0,12,0,0,0],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a02d39ddc9eda90be709b2fa9c1f6023d":[5,0,34,0,0,0],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[6,0,12,0,0,2],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a69f9b65ecb778c94c6e9278e5f98d31b":[5,0,34,0,0,2],
-"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[6,0,12,0,0,1],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[5,0,34,0,0,1],
+"d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a8651192c6040cdf5d257c134dde1208c":[6,0,12,0,0,1],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[5,0,34,0,0,3],
 "d1/d9d/classWorldPackets_1_1Bank_1_1AutoBankItem.html#a970f2ca85a76de1a25ad40a9ebf0029f":[6,0,12,0,0,3],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html":[6,0,2162,0],
 "d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a1443e8311b6e2d61d6f9abd2e5f40793":[6,0,2162,0,3],
-"d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a35ec340b2d02a14707fc353428b1298d":[6,0,2162,0,2],
-"d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a3e171216b2d53e00f8e504f47759d9a6":[6,0,2162,0,4]
+"d1/d9e/structnpc__suppresser_1_1npc__suppresserAI.html#a35ec340b2d02a14707fc353428b1298d":[6,0,2162,0,2]
 };

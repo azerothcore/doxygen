@@ -1,5 +1,6 @@
 var NAVTREEINDEX89 =
 {
+"d2/def/classspell__warr__shattering__throw.html":[6,0,4317],
 "d2/def/classspell__warr__shattering__throw.html#a22b9877e2cd27c925ae7b351d3d6f41b":[6,0,4317,2],
 "d2/def/classspell__warr__shattering__throw.html#a60454f2c1ba8d1ea160350b5e02bf56d":[6,0,4317,1],
 "d2/def/classspell__warr__shattering__throw.html#ab2bad52272a5cd7167a7601fdfa02b1d":[6,0,4317,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX89 =
 "d2/df6/DBCStores_8h.html#ace1d6388921a595b4037c0d6bfa176b8":[7,0,0,0,1,2,14,1,73],
 "d2/df6/DBCStores_8h.html#ace7930a262ef76b4cc7119616a3da108":[7,0,0,0,1,2,14,1,111],
 "d2/df6/DBCStores_8h.html#ace991d7104725f1660247ecac608db7b":[7,0,0,0,1,2,14,1,44],
-"d2/df6/DBCStores_8h.html#ad13489edad1412e25a659cc4a745337c":[7,0,0,0,1,2,14,1,136],
-"d2/df6/DBCStores_8h.html#ad273fb1c7cc66994ee00cdf303a396ae":[7,0,0,0,1,2,14,1,70]
+"d2/df6/DBCStores_8h.html#ad13489edad1412e25a659cc4a745337c":[7,0,0,0,1,2,14,1,136]
 };

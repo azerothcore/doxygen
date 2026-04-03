@@ -1,5 +1,12 @@
 var NAVTREEINDEX286 =
 {
+"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a88e6c4f12619d8678a93725c2560ccbf":[7,0,0,0,1,3,4,8,4,8,3],
+"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,4,8,4,8,2],
+"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc65c64262072ed5f836e4378433067":[7,0,0,0,1,3,4,8,4,8,0],
+"db/d4e/boss__ossirian_8cpp.html#af8d4cf87cdc6c4b3e2a903610294a592":[7,0,0,0,1,3,4,8,4,15],
+"db/d4e/boss__ossirian_8cpp.html#af9c6051ecc2a3d0ec0dfc3dd0567a96e":[7,0,0,0,1,3,4,8,4,17],
+"db/d4e/structboss__grizzle.html":[6,0,524],
+"db/d4e/structboss__grizzle.html#a220d7e426d7bd2034cf2dc70d0a18f26":[6,0,524,3],
 "db/d4e/structboss__grizzle.html#a72c28686adf331ed291585f830041041":[6,0,524,2],
 "db/d4e/structboss__grizzle.html#ad925b3a8190037e1768b1c5565656be7":[6,0,524,1],
 "db/d4e/structboss__grizzle.html#af5d864d2e06859a3c21506b8def424d0":[6,0,524,0],
@@ -84,12 +91,12 @@ var NAVTREEINDEX286 =
 "db/d53/boss__prince__taldaram_8cpp.html#a5bd342133be8c2137b831460acc9298caf472362d4c8e8c0e8ff85589d9361236":[7,0,0,0,1,3,5,0,0,5,8,13],
 "db/d53/boss__prince__taldaram_8cpp.html#aa3f47aadb111d63bb162b2e6e52341f9":[7,0,0,0,1,3,5,0,0,5,11],
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[6,0,3173],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[6,0,3173,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[6,0,3173,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX286 =
 "db/d5a/classAuctionHouseObject.html#abc1f401b8f18c6d5003fa337ed1e76bc":[6,0,268,2],
 "db/d5a/classAuctionHouseObject.html#ac22a84a7e3f2c6baf5e40a1a43bbf098":[6,0,268,5],
 "db/d5a/classAuctionHouseObject.html#ae769fbe419c78c580fc0c6d6b91a6e28":[6,0,268,6],
-"db/d5a/classAuctionHouseObject.html#ae980b3dc0cb776fa77810d488c0144aa":[6,0,268,1],
-"db/d5a/classAuctionHouseObject.html#ae9a2bed6b57af310230134cdf2cfd46a":[6,0,268,10],
-"db/d5a/classAuctionHouseObject.html#af760e3c74242ab2bbc0cfb03a9224aff":[6,0,268,9],
-"db/d5a/classnpc__sinkhole__kill__credit.html":[6,0,2134],
-"db/d5a/classnpc__sinkhole__kill__credit.html#a4d734432f132bea2c4525d049fbcfa67":[6,0,2134,2],
-"db/d5a/classnpc__sinkhole__kill__credit.html#a627d01aaaa3408986f2b4d171624e680":[6,0,2134,1],
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html":[6,0,2406,0],
-"db/d5b/structPlayer_1_1BgBattlegroundQueueID__Rec.html#a171a9be34883429a97f6f2e3035b5fca":[6,0,2406,0,0]
+"db/d5a/classAuctionHouseObject.html#ae980b3dc0cb776fa77810d488c0144aa":[6,0,268,1]
 };

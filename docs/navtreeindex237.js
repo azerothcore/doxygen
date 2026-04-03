@@ -1,5 +1,12 @@
 var NAVTREEINDEX237 =
 {
+"d9/d17/structBattlegroundObjectInfo.html#a848f2b15f47ceeb91c40e916d5659486":[6,0,345,0],
+"d9/d17/structBattlegroundObjectInfo.html#ae0233a1078bc735e40855ea7608f5f11":[6,0,345,2],
+"d9/d18/MySQLThreading_8cpp.html":[7,0,0,0,1,1,0,19],
+"d9/d18/Vehicle_8h.html":[7,0,0,0,1,2,16,11,1],
+"d9/d19/structboss__warmaster__voone.html":[6,0,791],
+"d9/d19/structboss__warmaster__voone.html#a2ff38398f38e61f91bd1aa7222867fd3":[6,0,791,2],
+"d9/d19/structboss__warmaster__voone.html#a48e135857ef9e7e524e07ed979f137e6":[6,0,791,1],
 "d9/d19/structboss__warmaster__voone.html#a5dd3b0140dda8ef141c9598a427f6633":[6,0,791,0],
 "d9/d19/structboss__warmaster__voone.html#a961113ecf4c46f52001d153a60ea238a":[6,0,791,3],
 "d9/d1b/cs__autobroadcast_8cpp.html":[7,0,0,0,1,3,0,3],
@@ -190,8 +197,8 @@ var NAVTREEINDEX237 =
 "d9/d29/classspell__item__goblin__bomb.html#a6ad225a1bcd7bdad7ee1751766e7c129":[6,0,3373,1],
 "d9/d29/classspell__item__goblin__bomb.html#a884ab3487725dbdd5b069f3a45b7164b":[6,0,3373,0],
 "d9/d29/classspell__item__goblin__bomb.html#ad784bb6b5d3588965492b102f2b2898e":[6,0,3373,3],
-"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[6,0,12,14,2],
+"d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html":[5,0,34,14,2],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[6,0,12,14,2,0],
 "d9/d29/structWorldPackets_1_1Strings_1_1NoHyperlinks.html#aefab7047da58a45e9ef17b5ea7de505e":[5,0,34,14,2,0],
 "d9/d2b/boss__maiden__of__virtue_8cpp.html":[7,0,0,0,1,3,2,4,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ab642188631b67ae5ff5fd312eaf37ff0":[6,0,2113,0,3],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ac37287a77e37785b606c742ff8d6eeeb":[6,0,2113,0,4],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#add19812d92d62b602f96ffc5fb513d6c":[6,0,2113,0,2],
-"d9/d2d/zone__desolace_8cpp.html":[7,0,0,0,1,3,4,18],
-"d9/d2d/zone__desolace_8cpp.html#a4242da8a27377879882360b83ee517d5":[7,0,0,0,1,3,4,18,6],
-"d9/d2d/zone__desolace_8cpp.html#a626ec1db47701aabca9f7bda1c8b7c7a":[7,0,0,0,1,3,4,18,5],
-"d9/d2d/zone__desolace_8cpp.html#a74a579d621e86ff3a69ffef7b34efe7e":[7,0,0,0,1,3,4,18,7],
-"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728":[7,0,0,0,1,3,4,18,3],
-"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712":[7,0,0,0,1,3,4,18,3,0],
-"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a3ac8ce9d7c78aa74818eb286eb1530ba":[7,0,0,0,1,3,4,18,3,5],
-"d9/d2d/zone__desolace_8cpp.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362":[7,0,0,0,1,3,4,18,3,12]
+"d9/d2d/zone__desolace_8cpp.html":[7,0,0,0,1,3,4,18]
 };

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['w_0',['w',['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w'],['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W']]],
+  ['w_0',['w',['../dc/dc7/structQuaternion.html#adc2e55b935dcc2daefd60739bdb31cec',1,'Quaternion::W'],['../db/df4/structTransportRotationEntry.html#a4158a2babefbf4e148a64fe16bf113f6',1,'TransportRotationEntry::W'],['../dc/d84/structQuaternionData.html#a1f5567b478ebb94161786c85a29ad66a',1,'QuaternionData::w']]],
   ['wait_5ftimer_1',['wait_timer',['../d9/d1c/structnpc__unworthy__initiate_1_1npc__unworthy__initiateAI.html#a9270c6e57cf77805769cfe692beefbe0',1,'npc_unworthy_initiate::npc_unworthy_initiateAI']]],
   ['waittime_2',['waitTime',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#aa794f234bf93e66916f7eadb986f17ef',1,'lfg::LfgQueueStatusData']]],
   ['waittimeavg_3',['waitTimeAvg',['../da/d5e/structlfg_1_1LfgQueueStatusData.html#af44b91dd7ddfb702662663f989f026fc',1,'lfg::LfgQueueStatusData']]],
@@ -92,7 +92,7 @@ var searchData=
   ['whirlwindtimer_89',['whirlwindtimer',['../d3/dcf/structnpc__varian__wrynn_1_1npc__varian__wrynnAI.html#a46b8bf23bd9c395358b66a9e62b719f6',1,'npc_varian_wrynn::npc_varian_wrynnAI::whirlwindTimer'],['../d8/d4e/structboss__drekthar_1_1boss__drektharAI.html#aef399775e552d7e80224fbb0c2f62aff',1,'boss_drekthar::boss_drektharAI::WhirlwindTimer']]],
   ['whisperedtargets_90',['whisperedTargets',['../dc/dab/classnear__scarshield__infiltrator.html#a5655e241d2551798a960cb6375c7df23',1,'near_scarshield_infiltrator']]],
   ['whisperlist_91',['WhisperList',['../d2/d4b/classPlayer.html#ab425be503b461f439a83cb6ce519c3a1',1,'Player']]],
-  ['width_92',['width',['../d9/d1c/structAreaTrigger.html#af914195a4e7f2314a6241fb81cc8cfa8',1,'AreaTrigger::width'],['../d7/d94/structmap__liquidHeader.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed',1,'map_liquidHeader::width'],['../d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3',1,'adt_liquid_instance::Width']]],
+  ['width_92',['width',['../d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3',1,'adt_liquid_instance::Width'],['../d9/d1c/structAreaTrigger.html#af914195a4e7f2314a6241fb81cc8cfa8',1,'AreaTrigger::width'],['../d7/d94/structmap__liquidHeader.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed',1,'map_liquidHeader::width']]],
   ['win_5farena_93',['win_arena',['../d4/dd9/structAchievementCriteriaEntry.html#a468d4d0517bd27749f6e8dae24493472',1,'AchievementCriteriaEntry']]],
   ['win_5fbg_94',['win_bg',['../d4/dd9/structAchievementCriteriaEntry.html#a90c270ee22472624d509424b1b731ae5',1,'AchievementCriteriaEntry']]],
   ['win_5fduel_95',['win_duel',['../d4/dd9/structAchievementCriteriaEntry.html#aa10eeb8c1dbca200501eb9d2848aa1b0',1,'AchievementCriteriaEntry']]],
@@ -127,7 +127,7 @@ var searchData=
   ['worldmapareaentryfmt_124',['WorldMapAreaEntryfmt',['../d8/dd6/DBCfmt_8h.html#ad4c1a6dedecbad2cc8d408c4f235ec5a',1,'DBCfmt.h']]],
   ['worldmapoverlayentryfmt_125',['WorldMapOverlayEntryfmt',['../d8/dd6/DBCfmt_8h.html#ab0eaceb243d0f66908b69a408e41ac3a',1,'DBCfmt.h']]],
   ['worldrotation_126',['WorldRotation',['../de/d1c/classGameObject.html#a783520d842e4147f88945f4d04ee0d6c',1,'GameObject']]],
-  ['worldstate_127',['worldstate',['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate'],['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState']]],
+  ['worldstate_127',['worldstate',['../d2/d3e/structWintergraspBuildingSpawnData.html#a4b4881aba2d297e125443f0c8ccab618',1,'WintergraspBuildingSpawnData::WorldState'],['../d0/dbb/structWGWorkshopData.html#a342ef087df4f9326952728c2192a3da3',1,'WGWorkshopData::worldstate'],['../d9/d28/structAreaPOIEntry.html#a9d745d26316726c861cc5a242f6a4f57',1,'AreaPOIEntry::worldState']]],
   ['worldstate1_128',['worldState1',['../dd/d3b/structGameObjectTemplate.html#afc807e66fd487510edaa21cfa5930e5e',1,'GameObjectTemplate']]],
   ['worldstate2_129',['worldstate2',['../dd/d3b/structGameObjectTemplate.html#a08af1aef620d8dfa8c1ec9566f6c746e',1,'GameObjectTemplate']]],
   ['worldstate3_130',['worldstate3',['../dd/d3b/structGameObjectTemplate.html#a050e002c4a6bf7eb71ea6027587db6ac',1,'GameObjectTemplate']]],

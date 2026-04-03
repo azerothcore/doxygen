@@ -1,5 +1,6 @@
 var NAVTREEINDEX105 =
 {
+"d3/d92/classGameEventMgr.html#a65ba6db1e7b1dff64c9aab596426ab27":[6,0,1096,73],
 "d3/d92/classGameEventMgr.html#a697b1b2025a5856289e3be12f54473a8":[6,0,1096,7],
 "d3/d92/classGameEventMgr.html#a6c843d3098a8ca9b40198f0460749160":[6,0,1096,37],
 "d3/d92/classGameEventMgr.html#a6e86d2b9b7f4ec4ba511ae13910efe09":[6,0,1096,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX105 =
 "d3/d9d/classspell__item__goblin__weather__machine.html#aff9efad03d94958c29c84ea3c0d19fdb":[6,0,3375,2],
 "d3/d9d/structChrRacesEntry.html":[6,0,889],
 "d3/d9d/structChrRacesEntry.html#a33a01b1c26b21706d9898af246f2a0df":[6,0,889,2],
-"d3/d9d/structChrRacesEntry.html#a44c3824aef4f4724c189727f12801a5b":[6,0,889,1],
-"d3/d9d/structChrRacesEntry.html#a4807227fd863e247b18d29db0ea8236a":[6,0,889,6]
+"d3/d9d/structChrRacesEntry.html#a44c3824aef4f4724c189727f12801a5b":[6,0,889,1]
 };

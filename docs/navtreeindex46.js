@@ -1,5 +1,6 @@
 var NAVTREEINDEX46 =
 {
+"d1/dd0/classboss__mal__ganis.html#aa747abd11310c3535ea2ea37e4aac28b":[6,0,622,2],
 "d1/dd0/classspell__sha__stoneclaw__totem.html":[6,0,4062],
 "d1/dd0/classspell__sha__stoneclaw__totem.html#a190b802f3b09655886e5bbb9980375af":[6,0,4062,3],
 "d1/dd0/classspell__sha__stoneclaw__totem.html#a5bbcb05b82e0953c82f2a0d96bd79eab":[6,0,4062,0],
@@ -18,12 +19,12 @@ var NAVTREEINDEX46 =
 "d1/dd1/structboss__gahzranka.html#ad68be854f95c398dc5dd9e5b22f538a8":[6,0,500,1],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[5,0,31,27],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html":[6,0,10,27],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[6,0,10,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[5,0,31,27,0],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,10,27,2],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a652bcf37d435efc3fb82f4d8cbf00e51":[6,0,10,27,0],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[5,0,31,27,2],
-"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,10,27,1],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a6b9058e7062c970438c79f08103c3c61":[6,0,10,27,2],
 "d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[5,0,31,27,1],
+"d1/dd3/structVMAP_1_1WorldModel__Raw.html#a79b2d93c2929aaddac1004aed4ecdd85":[6,0,10,27,1],
 "d1/dd4/Item_8h.html":[7,0,0,0,1,2,16,4,3],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20fa":[7,0,0,0,1,2,16,4,3,10],
 "d1/dd4/Item_8h.html#a240a18445bd2335a1829e130126f20faa06048b9e64b69cc90bd4d3cc815eb585":[7,0,0,0,1,2,16,4,3,10,82],
@@ -248,6 +249,5 @@ var NAVTREEINDEX46 =
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570aa4a25c3186114086798366d05ec22d84":[7,0,0,0,1,3,9,11,45,2],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570aa7d60633592b26f90f88af0968c79a0e":[7,0,0,0,1,3,9,11,45,45],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ac618ca1642e0d815aba85db04ce3d0cc":[7,0,0,0,1,3,9,11,45,15],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ac8905c7d8351c06bb14ac5c9d787b9a5":[7,0,0,0,1,3,9,11,45,47],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570acde138e1f674d1e33c52f9344118dc21":[7,0,0,0,1,3,9,11,45,19]
+"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ac8905c7d8351c06bb14ac5c9d787b9a5":[7,0,0,0,1,3,9,11,45,47]
 };

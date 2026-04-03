@@ -1,5 +1,6 @@
 var NAVTREEINDEX37 =
 {
+"d1/d85/classspell__warr__sweeping__strikes.html#ac0cf25901d70e37bb887b3baa38790b5":[6,0,4319,5],
 "d1/d85/classspell__warr__sweeping__strikes.html#ad48f21d3a45e97857265e6047f253910":[6,0,4319,6],
 "d1/d85/classspell__warr__sweeping__strikes.html#ad571b0d2f47cff037030d7a8184f60fd":[6,0,4319,2],
 "d1/d85/structPlayerAbilityStruct.html":[6,0,2409],
@@ -124,8 +125,8 @@ var NAVTREEINDEX37 =
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12":[7,0,0,0,1,3,5,9,2,3,31,9],
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adc052e50f034cb22a759436f67ea9de9":[7,0,0,0,1,3,5,9,2,3,31,6],
 "d1/d88/boss__flame__leviathan_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a":[7,0,0,0,1,3,5,9,2,3,31,8],
-"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[6,0,12,6,18],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[5,0,34,6,18],
+"d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html":[6,0,12,6,18],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[6,0,12,6,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#aa1e25895e246c3a688d7850e517858d3":[5,0,34,6,18,0],
 "d1/d88/classWorldPackets_1_1Guild_1_1GuildBankTextQueryResult.html#abfc5522a0f94086474493db85ed1ef73":[6,0,12,6,18,2],
@@ -198,10 +199,10 @@ var NAVTREEINDEX37 =
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a133cb19ac25d346ba24b8405595dd174":[5,0,1,101,2],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[5,0,1,101,1],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a56f2f2722e7f56857ef1d6e7ae52891d":[6,0,0,89,1],
-"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,89,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,101,4],
-"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a8ebb63f3adccf1bf121f569f1d527e17":[6,0,0,89,3],
+"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,89,4],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#a8ebb63f3adccf1bf121f569f1d527e17":[5,0,1,101,3],
+"d1/d8b/classAcore_1_1ObjectLevelLockable.html#a8ebb63f3adccf1bf121f569f1d527e17":[6,0,0,89,3],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#ae373bee24a50a7eda232b51769c042aa":[5,0,1,101,5],
 "d1/d8b/classAcore_1_1ObjectLevelLockable.html#ae373bee24a50a7eda232b51769c042aa":[6,0,0,89,5],
 "d1/d8b/structLeechingThrowSelector.html":[6,0,1432],
@@ -210,10 +211,10 @@ var NAVTREEINDEX37 =
 "d1/d8b/structLeechingThrowSelector.html#a76c7746a9b0aee52201881c4d9572bde":[6,0,1432,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html":[5,0,22,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html":[6,0,7,0],
-"d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[6,0,7,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[5,0,22,0,2],
-"d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,22,0,0],
+"d1/d8c/structMovement_1_1CommonInitializer.html#a483d83836ccbe90a842c09f7d4906436":[6,0,7,0,2],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[6,0,7,0,0],
+"d1/d8c/structMovement_1_1CommonInitializer.html#ab472ff63e0178a3414630f743d4de906":[5,0,22,0,0],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[5,0,22,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#aba4cce84b89416f54a0a25b1702a322c":[6,0,7,0,1],
 "d1/d8c/structMovement_1_1CommonInitializer.html#ac2f731afc2aae338bb8b1b616b0a39c1":[6,0,7,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX37 =
 "d1/d8e/structboss__anub__arak.html#a1f0a88fc6901fb8e6e684cfe7d96bf17":[6,0,391,9],
 "d1/d8e/structboss__anub__arak.html#a3848a51431973cc4e7ff5543ac1472df":[6,0,391,14],
 "d1/d8e/structboss__anub__arak.html#a42797809823a4fce2bd4d45703a085a2":[6,0,391,12],
-"d1/d8e/structboss__anub__arak.html#a5afeff2e3c18622d534f040edd25bac8":[6,0,391,10],
-"d1/d8e/structboss__anub__arak.html#a823906227e56408dc4c052154e4997fc":[6,0,391,5]
+"d1/d8e/structboss__anub__arak.html#a5afeff2e3c18622d534f040edd25bac8":[6,0,391,10]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX234 =
 {
+"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4":[6,0,4100,0],
+"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a0e8e8685ce8c1eea2b60e8bf6aeed782":[6,0,4100,2],
+"d8/df2/classspell__sindragosa__soul__preservation__aura.html#a879b657d94c1faf6225fe64f907cdf82":[6,0,4100,3],
+"d8/df2/classspell__sindragosa__soul__preservation__aura.html#afcadfbdd84608e827b89c64bf03c8501":[6,0,4100,1],
+"d8/df2/cs__player_8cpp.html":[7,0,0,0,1,3,0,36],
+"d8/df2/cs__player_8cpp.html#a3a4a77162d5b304dab9a8c8e397c3516":[7,0,0,0,1,3,0,36,1],
+"d8/df3/CreatureAIImpl_8h.html":[7,0,0,0,1,2,3,6],
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805":[7,0,0,0,1,2,3,6,3],
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56":[7,0,0,0,1,2,3,6,3,3],
 "d8/df3/CreatureAIImpl_8h.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed":[7,0,0,0,1,2,3,6,3,4],
@@ -235,19 +242,12 @@ var NAVTREEINDEX234 =
 "d8/dfd/boss__jindo_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac366552c654266ed276b5dfc8b840807":[7,0,0,0,1,3,2,16,6,6,2],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html":[6,0,0,117],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html":[5,0,1,129],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a28a30052c55b2ffad85e8d2f4f008ff3":[5,0,1,129,3],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a28a30052c55b2ffad85e8d2f4f008ff3":[6,0,0,117,3],
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a28a30052c55b2ffad85e8d2f4f008ff3":[5,0,1,129,3],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a2910a3c0a932f2d3ea7d10d4541cbb39":[6,0,0,117,8],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a2910a3c0a932f2d3ea7d10d4541cbb39":[5,0,1,129,8],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a42fce9834443194e090e022f3f7618b0":[5,0,1,129,4],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a42fce9834443194e090e022f3f7618b0":[6,0,0,117,4],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a4c8b6202710f1539e55eb8d30031ce62":[5,0,1,129,0],
 "d8/dfd/structAcore_1_1WorldObjectSearcher.html#a4c8b6202710f1539e55eb8d30031ce62":[6,0,0,117,0],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a5688db61fc9d297252987830eadb0ee5":[6,0,0,117,10],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a5688db61fc9d297252987830eadb0ee5":[5,0,1,129,10],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a8f705e476d2a32ca90d589d9b58b2c8d":[5,0,1,129,9],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a8f705e476d2a32ca90d589d9b58b2c8d":[6,0,0,117,9],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa2742bc25a4773a487e9e8ff760644ea":[6,0,0,117,6],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa2742bc25a4773a487e9e8ff760644ea":[5,0,1,129,6],
-"d8/dfd/structAcore_1_1WorldObjectSearcher.html#aa8af931f3d562aa1c31e774347db2e24":[5,0,1,129,7]
+"d8/dfd/structAcore_1_1WorldObjectSearcher.html#a4c8b6202710f1539e55eb8d30031ce62":[5,0,1,129,0]
 };

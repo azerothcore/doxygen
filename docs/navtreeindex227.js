@@ -1,5 +1,12 @@
 var NAVTREEINDEX227 =
 {
+"d8/d93/classspell__trollgore__corpse__explode__aura.html#ac2ac207d2e193a9c2f9904b394113c4d":[6,0,4203,3],
+"d8/d94/PacketLog_8h.html":[7,0,0,0,1,2,39,1,3],
+"d8/d94/PacketLog_8h.html#a14b702138c7f0a62a900dfc8eecc1f6f":[7,0,0,0,1,2,39,1,3,1],
+"d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aa":[7,0,0,0,1,2,39,1,3,2],
+"d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3":[7,0,0,0,1,2,39,1,3,2,1],
+"d8/d94/PacketLog_8h.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476":[7,0,0,0,1,2,39,1,3,2,0],
+"d8/d94/classTradeData.html":[6,0,4500],
 "d8/d94/classTradeData.html#a011acd6730c58aa75d3c27e793748afc":[6,0,4500,4],
 "d8/d94/classTradeData.html#a0dc996fdc9acab409833caff4e6b489b":[6,0,4500,15],
 "d8/d94/classTradeData.html#a1e585dd9ed486381a55e108a709e4db3":[6,0,4500,22],
@@ -95,8 +102,8 @@ var NAVTREEINDEX227 =
 "d8/d9a/structnpc__boss__gothik__minion_1_1npc__boss__gothik__minionAI.html#ae2dde7b4fc655b1ae27410d299776c49":[6,0,1685,0,7],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[6,0,12,3,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html":[5,0,34,3,2],
-"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[6,0,12,3,2,2],
+"d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#a24503de36535106220984ffbf6ba0338":[5,0,34,3,2,2],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[5,0,34,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#abad5fca865b7b99e595ce95137e8105c":[6,0,12,3,2,1],
 "d8/d9b/classWorldPackets_1_1Chat_1_1EmoteClient.html#af98c098cb1019057d8027f39c168e1a9":[5,0,34,3,2,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX227 =
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#a39a222e1eb0a3378c8fcaf1da5629547":[6,0,1776,2],
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#a9d41e8abe764fd0f8cedd888418aafb2":[6,0,1776,0],
 "d8/da4/structnpc__eagle__trash__aggro__trigger.html#aa8892e7f2bec9f26320cd9749e648ebd":[6,0,1776,1],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html":[6,0,461,0],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a1544782732beba5d7114c3bb70419ae1":[6,0,461,0,3],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a16c90dba1f0a7f4cc2025e294dbac455":[6,0,461,0,11],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36":[6,0,461,0,8],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a30ad32a4a63ae17eef4fc703a6749d38":[6,0,461,0,5],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a33ef5a080e457f4e08e7997b467b0974":[6,0,461,0,4],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a5b09dacbddd6075c2ebf4d62a387a8b6":[6,0,461,0,0],
-"d8/da6/structboss__eregos_1_1boss__eregosAI.html#a7a4b4443aed576f080a56a27e15edfd4":[6,0,461,0,1]
+"d8/da6/structboss__eregos_1_1boss__eregosAI.html":[6,0,461,0]
 };

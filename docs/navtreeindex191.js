@@ -1,5 +1,12 @@
 var NAVTREEINDEX191 =
 {
+"d7/d21/classBattlegroundBE.html#ab004984d4b882e72471b0b5a8fca9632":[6,0,331,3],
+"d7/d21/cs__quest_8cpp.html":[7,0,0,0,1,3,0,39],
+"d7/d21/cs__quest_8cpp.html#ae9edb5f21eaacbfd73cc01543cb2fcdd":[7,0,0,0,1,3,0,39,1],
+"d7/d22/boss__sulfuron__harbinger_8cpp.html":[7,0,0,0,1,3,2,1,3,9],
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a311f82bbe3d21c6f1a7e9d5330558a8d":[7,0,0,0,1,3,2,1,3,9,4],
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,1,3,9,3],
+"d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca307882d908ad05c14d5db70f3a0ddff9":[7,0,0,0,1,3,2,1,3,9,3,1],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca4dc0b509ffe06922dcec8a51670f63cf":[7,0,0,0,1,3,2,1,3,9,3,4],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca6d3fa2c8553893a548ccb9dada8f5192":[7,0,0,0,1,3,2,1,3,9,3,5],
 "d7/d22/boss__sulfuron__harbinger_8cpp.html#a5bd342133be8c2137b831460acc9298ca9ff71e63988ee36ea0dfb82be3941636":[7,0,0,0,1,3,2,1,3,9,3,0],
@@ -206,8 +213,8 @@ var NAVTREEINDEX191 =
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22ae405a4644ad229ef399425964bcbee9a":[7,0,0,0,1,3,2,1,0,1,6,35],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22af35cb36a55922c0c6a4fba89d556aa74":[7,0,0,0,1,3,2,1,0,1,6,23],
 "d7/d26/blackrock__depths_8h.html#afb6eb4f28419b652027fad41104a6d22afbd01ac29718f113ae811e86d78ceb70":[7,0,0,0,1,3,2,1,0,1,6,14],
-"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[6,0,12,6,47],
+"d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html":[5,0,34,6,47],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[6,0,12,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a0c4a8b29918d69580c749e3b48485515":[5,0,34,6,47,3],
 "d7/d26/classWorldPackets_1_1Guild_1_1GuildSetRankPermissions.html#a1c02002facce05010028ac8dcae7fa3f":[5,0,34,6,47,7],
@@ -242,12 +249,5 @@ var NAVTREEINDEX191 =
 "d7/d27/classspell__q12690__burst__at__the__seams.html#acaa8f445874270f34ea5b42a506671db":[6,0,3901,0],
 "d7/d27/classspell__q12690__burst__at__the__seams.html#ad790d435f422fabd128e601fb2dff103":[6,0,3901,4],
 "d7/d27/classspell__rog__quick__recovery.html":[6,0,3978],
-"d7/d27/classspell__rog__quick__recovery.html#a019b47e139e155c0803c0ce9a3a42f82":[6,0,3978,0],
-"d7/d27/classspell__rog__quick__recovery.html#a5625b3a60a607bd07d4328aa1886cfc5":[6,0,3978,3],
-"d7/d27/classspell__rog__quick__recovery.html#a91ef63b96918e797e677423d51f94112":[6,0,3978,2],
-"d7/d27/classspell__rog__quick__recovery.html#a92fff2ae3b59c3dd62e92a11312f87ae":[6,0,3978,1],
-"d7/d27/classspell__rog__quick__recovery.html#ab6178007664afc34556336ec9620cd4f":[6,0,3978,4],
-"d7/d27/structboss__kologarn.html":[6,0,588],
-"d7/d27/structboss__kologarn.html#a14aaed01a6d1824521e4e95c751cc248":[6,0,588,13],
-"d7/d27/structboss__kologarn.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed":[6,0,588,10]
+"d7/d27/classspell__rog__quick__recovery.html#a019b47e139e155c0803c0ce9a3a42f82":[6,0,3978,0]
 };

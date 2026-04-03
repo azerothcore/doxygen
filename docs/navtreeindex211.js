@@ -1,5 +1,12 @@
 var NAVTREEINDEX211 =
 {
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a59e8723d8b73f45075db47e1e09e15fb":[6,0,2665,0],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a7bacc1ebd4b98e5e43b74e13471b2063":[6,0,2665,2],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#ab858e9f6505fa32cc7325087d29fee8b":[6,0,2665,4],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#acc4db638e0d858085dc3fb2d6b45f7ec":[6,0,2665,3],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#ae4761ac3bce02903a7266511d80503f9":[6,0,2665,1],
+"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html":[6,0,2146,0],
+"d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a09205661674dd011ffe425deaadde053":[6,0,2146,0,1],
 "d7/dce/structnpc__stable__master_1_1npc__stable__masterAI.html#a5c6f9bca1004af163ddb074b606330be":[6,0,2146,0,0],
 "d7/dcf/NetworkThread_8h.html":[7,0,0,0,1,4,1,1],
 "d7/dcf/structCreatureModel.html":[6,0,949],
@@ -242,12 +249,5 @@ var NAVTREEINDEX211 =
 "d7/de4/structGossipTextOption.html":[6,0,1236],
 "d7/de4/structGossipTextOption.html#a046d637b91807db067c6e7050184322d":[6,0,1236,4],
 "d7/de4/structGossipTextOption.html#a0f67a651fdb3f3217279015c9e3fb292":[6,0,1236,1],
-"d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d":[6,0,1236,2],
-"d7/de4/structGossipTextOption.html#a5c743df7a7ad634c5b3f3376547fda00":[6,0,1236,3],
-"d7/de4/structGossipTextOption.html#a756f24dbee852a7fbe152c0cb082c412":[6,0,1236,0],
-"d7/de4/structGossipTextOption.html#a8d64d7b8fcdbd995cc11e22adde8c0de":[6,0,1236,5],
-"d7/de7/classTriggerWickedSpirit.html":[6,0,4520],
-"d7/de7/classTriggerWickedSpirit.html#a24b85a62208f881418f97b0a8cb10f27":[6,0,4520,2],
-"d7/de7/classTriggerWickedSpirit.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d":[6,0,4520,1],
-"d7/de7/classTriggerWickedSpirit.html#ab460675158bfedd7f17a4b8e1cc06b3c":[6,0,4520,3]
+"d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d":[6,0,1236,2]
 };
