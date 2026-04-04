@@ -1,5 +1,7 @@
 var NAVTREEINDEX403 =
 {
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#a742791e714be1ff713ab87e7d515bd9e":[6,0,2210,0,4],
+"df/d93/structnpc__tooga_1_1npc__toogaAI.html#a9315e8ba2688903aaf5b871a7490a700":[6,0,2210,0,2],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#a938852d834c5eb8ba4abceaf49e9a5da":[6,0,2210,0,5],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#abea9fa4d2623dab4f14978a7f94b595f":[6,0,2210,0,7],
 "df/d93/structnpc__tooga_1_1npc__toogaAI.html#acfedaf5cc989451a4259a65661685f66":[6,0,2210,0,3],
@@ -9,15 +11,15 @@ var NAVTREEINDEX403 =
 "df/d94/classDBCFile_1_1Iterator.html#a2d9cf3e798a1fcce3682c186952290df":[6,0,979,1,10],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,979,1,0],
 "df/d94/classDBCFile_1_1Iterator.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1":[6,0,979,1,1],
-"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,979,1,4],
 "df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,979,1,5],
-"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,979,1,2],
+"df/d94/classDBCFile_1_1Iterator.html#a7b3de0d9987b834eaf6e909dd22f2528":[6,0,979,1,4],
 "df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,979,1,3],
+"df/d94/classDBCFile_1_1Iterator.html#a7c0a38cbd02823479f349bb109a7ccf8":[6,0,979,1,2],
 "df/d94/classDBCFile_1_1Iterator.html#a948512c44e53dfa177b85f82e9fd6160":[6,0,979,1,12],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,979,1,8],
 "df/d94/classDBCFile_1_1Iterator.html#ac57afe01d1ce6c611ca832f10f5d52fd":[6,0,979,1,9],
-"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,979,1,6],
 "df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,979,1,7],
+"df/d94/classDBCFile_1_1Iterator.html#af7dc5aae457d264ebe4aa42f5b700589":[6,0,979,1,6],
 "df/d94/classShockVortexExplodeEvent.html":[6,0,2568],
 "df/d94/classShockVortexExplodeEvent.html#a601f777052b8a142db49e9b0ab1fa81a":[6,0,2568,1],
 "df/d94/classShockVortexExplodeEvent.html#a76b1887e486969fcd7a236a8eb7a9a2a":[6,0,2568,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX403 =
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a0ace29a61792c71d06abb8ca559ea373":[7,0,0,0,1,3,2,27,8,8],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a16efc95ecfb8f279dc55f048fe7ab3ed":[7,0,0,0,1,3,2,27,8,10],
 "df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a171a26261058c6138d6acc350c3fd2d9":[7,0,0,0,1,3,2,27,8,5],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a18fdf10f61e4a27533be8f21d1ae9b6a":[7,0,0,0,1,3,2,27,8,16],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c28745aea8562e2f30166e0ceec0ea":[7,0,0,0,1,3,2,27,8,7],
-"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a20c3614363fa241f02fede94adfb3ae6":[7,0,0,0,1,3,2,27,8,21]
+"df/d9d/zone__isle__of__queldanas_8cpp.html#ae231390315adb8b602044f47f962ce84a18fdf10f61e4a27533be8f21d1ae9b6a":[7,0,0,0,1,3,2,27,8,16]
 };

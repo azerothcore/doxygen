@@ -1,5 +1,6 @@
 var NAVTREEINDEX349 =
 {
+"dd/dd3/zone__netherstorm_8cpp.html#ac333c86fd13e6712ad127ce019744439a5e4744aa231e4fc00af57df04f110f21":[7,0,0,0,1,3,7,12,15,1],
 "dd/dd3/zone__netherstorm_8cpp.html#ae6818d26ba96279223aa6d108a586f2d":[7,0,0,0,1,3,7,12,19],
 "dd/dd3/zone__netherstorm_8cpp.html#af18063468550fc13e844aa9bdecb6ab7":[7,0,0,0,1,3,7,12,17],
 "dd/dd3/zone__netherstorm_8cpp.html#af18063468550fc13e844aa9bdecb6ab7abd31c036b8a79a737cae978516c5f087":[7,0,0,0,1,3,7,12,17,0],
@@ -224,10 +225,10 @@ var NAVTREEINDEX349 =
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a11cf13b65aafbd4dc70399362f4f87fe":[6,0,12,6,6,6],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[5,0,34,6,6,2],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a1daad03864355f94d90315fea68892d4":[6,0,12,6,6,2],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[6,0,12,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[5,0,34,6,6,4],
-"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,12,6,6,1],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a359c633cc0034dc8ae8b7db69d3dd739":[6,0,12,6,6,4],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[5,0,34,6,6,1],
+"dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a7c4db5da5d5e501172b8581e4e7bb865":[6,0,12,6,6,1],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[5,0,34,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a856d32f52e85b2b7329f85b8e04ad0ee":[6,0,12,6,6,3],
 "dd/dd7/structWorldPackets_1_1Guild_1_1GuildBankLogEntry.html#a90e01e455d373204617b2747ca95fe04":[6,0,12,6,6,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX349 =
 "dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a531f51626ae4527282ad1e628911a9ea":[6,0,3843,2],
 "dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a7123c451bce0f95ad75e5acfbe58a135":[6,0,3843,1],
 "dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a770b7ad0bb00114400a73f50c4aa6c81":[6,0,3843,0],
-"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a8af86c58f438e78d8bf878f79d4a27e2":[6,0,3843,4],
-"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#ae68bd9a92239a4796f9d8040787a68b3":[6,0,3843,3]
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a8af86c58f438e78d8bf878f79d4a27e2":[6,0,3843,4]
 };

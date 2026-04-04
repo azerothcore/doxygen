@@ -1,5 +1,7 @@
 var NAVTREEINDEX388 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a1c6e632d42e6df5451aed43bb661d6f0":[7,0,0,0,1,3,5,6,9,39,3],
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a4a31ac9e94cf15cdb51d30c3318b86f5":[7,0,0,0,1,3,5,6,9,39,0],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a73f3cc3fd2bb6150d47689986df1bfd1":[7,0,0,0,1,3,5,6,9,39,2],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a858ba1dc5b34b3ff5f41a194feea519f":[7,0,0,0,1,3,5,6,9,39,4],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a9c239808144c052e62a74c886940c5cf":[7,0,0,0,1,3,5,6,9,39,6],
@@ -247,7 +249,5 @@ var NAVTREEINDEX388 =
 "de/dee/classcast__commandscript.html#a26e6986c45a99e6a94d7ba2d9a810aa3":[6,0,853,4],
 "de/dee/classcast__commandscript.html#a69e88bb174c2518584a9ae622e2850bf":[6,0,853,9],
 "de/dee/classcast__commandscript.html#a964a40278f609a5c5a0bae651484c726":[6,0,853,5],
-"de/dee/classcast__commandscript.html#a9c657d2c5404149a45a2db748d23fc2f":[6,0,853,0],
-"de/dee/classcast__commandscript.html#aa72bd317a3498ef07007c1a9e81e2796":[6,0,853,10],
-"de/dee/classcast__commandscript.html#aabbcac8e85c6a64a647d71bb22bebede":[6,0,853,8]
+"de/dee/classcast__commandscript.html#a9c657d2c5404149a45a2db748d23fc2f":[6,0,853,0]
 };

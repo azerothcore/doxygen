@@ -1,5 +1,6 @@
 var NAVTREEINDEX353 =
 {
+"de/d06/structboss__headless__horseman.html#af0ee0c6da6398d6a84457aab942bb29c":[6,0,537,19],
 "de/d06/structboss__headless__horseman.html#afa5e099de3899e41b3ee04f348c3d6a0":[6,0,537,13],
 "de/d07/blood__furnace_8h.html":[7,0,0,0,1,3,7,4,0,0],
 "de/d07/blood__furnace_8h.html#a042491ef36459046f3866e90f15aae0d":[7,0,0,0,1,3,7,4,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX353 =
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab0abbbe6e90f6b1a74ae0df93d948c2e":[7,0,0,0,1,4,7,63,145],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab131ba4faecc60d6d784383c7f099af4":[7,0,0,0,1,4,7,63,12],
 "de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab1f52c126668dea8e18c0114a30f6a84":[7,0,0,0,1,4,7,63,151],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab516c0be19ade67b7e10a5bf88b85b83":[7,0,0,0,1,4,7,63,16],
-"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab5cb968cf2815acfec1e7a17524e5e64":[7,0,0,0,1,4,7,63,48]
+"de/d0a/SharedDefines_8h.html#a0e527855c554e31654c9beb340145574ab516c0be19ade67b7e10a5bf88b85b83":[7,0,0,0,1,4,7,63,16]
 };

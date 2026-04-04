@@ -1,5 +1,6 @@
 var NAVTREEINDEX367 =
 {
+"de/d12/classspell__q12619__emblazon__runeblade.html#a0a62a0bcf39a781289e1467384ac82cb":[6,0,3891,2],
 "de/d12/classspell__q12619__emblazon__runeblade.html#a29eb3f3dadd45ccab069222fc36cea09":[6,0,3891,0],
 "de/d12/classspell__q12619__emblazon__runeblade.html#aaa8296439ffe69eafdd1cece8ec346ad":[6,0,3891,1],
 "de/d12/classspell__q12851__going__bearback.html":[6,0,3910],
@@ -248,6 +249,5 @@ var NAVTREEINDEX367 =
 "de/d1c/classGameObject.html#a87070ec2ff9d0bcdac6c8759fb8b6d6a":[6,0,1099,85],
 "de/d1c/classGameObject.html#a88f9f8ececd09b4261e5fb38d6c8728c":[6,0,1099,33],
 "de/d1c/classGameObject.html#a8953712262948ed4e7972bffffcb2341":[6,0,1099,145],
-"de/d1c/classGameObject.html#a89600a59c6905011ccd402b8f9caf039":[6,0,1099,4],
-"de/d1c/classGameObject.html#a8c289dddc67ceaeb458a4418e4929f2f":[6,0,1099,58]
+"de/d1c/classGameObject.html#a89600a59c6905011ccd402b8f9caf039":[6,0,1099,4]
 };

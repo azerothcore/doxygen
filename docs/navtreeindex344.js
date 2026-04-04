@@ -1,5 +1,6 @@
 var NAVTREEINDEX344 =
 {
+"dd/daa/classOPvPCapturePointHP.html#a86e849e5387383a6c751e69350ffa07c":[6,0,2341,4],
 "dd/daa/classOPvPCapturePointHP.html#aa0dc544ad3d53255dbfdab7461efcaa1":[6,0,2341,1],
 "dd/daa/classOPvPCapturePointHP.html#aa8d725422951485970d9106450fb6a38":[6,0,2341,2],
 "dd/daa/classOPvPCapturePointHP.html#ad9738c621df084d5a3f0070c80403642":[6,0,2341,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX344 =
 "dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37":[7,0,0,0,1,2,33,1,8,3],
 "dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470":[7,0,0,0,1,2,33,1,8,2],
 "dd/dae/boss__erekem_8cpp.html":[7,0,0,0,1,3,5,12,1],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,1,4],
-"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5":[7,0,0,0,1,3,5,12,1,4,0]
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,1,4]
 };

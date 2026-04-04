@@ -1,5 +1,6 @@
 var NAVTREEINDEX350 =
 {
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#ae68bd9a92239a4796f9d8040787a68b3":[6,0,3843,3],
 "dd/dda/classnpc__koltira__deathweaver.html":[6,0,1935],
 "dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1935,1],
 "dd/dda/classnpc__koltira__deathweaver.html#afddc561b88679f3dd6ca8b374807b0f0":[6,0,1935,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX350 =
 "dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,3048,0],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[6,0,0,15,1],
 "dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1]
 };

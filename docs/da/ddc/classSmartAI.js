@@ -32,6 +32,7 @@ var classSmartAI =
     [ "IsSummonedBy", "da/ddc/classSmartAI.html#a192059f2e78d9584b49f0ca740387e1c", null ],
     [ "JustDied", "da/ddc/classSmartAI.html#a8c376dae3547daad5da5004d39b35383", null ],
     [ "JustEngagedWith", "da/ddc/classSmartAI.html#a77b509bd7e69ed190bf8ca3c37fead8a", null ],
+    [ "JustExitedCombat", "da/ddc/classSmartAI.html#afa437a836288ad0e8c333a95b3906123", null ],
     [ "JustReachedHome", "da/ddc/classSmartAI.html#a570de9866b6412aabe24ca5c07e44aec", null ],
     [ "JustRespawned", "da/ddc/classSmartAI.html#af537d9871fc9a5b5697ccada419c3419", null ],
     [ "JustSummoned", "da/ddc/classSmartAI.html#ac22fe8dcc2724ee26c21f655b55b2682", null ],

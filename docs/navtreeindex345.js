@@ -1,5 +1,6 @@
 var NAVTREEINDEX345 =
 {
+"dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5":[7,0,0,0,1,3,5,12,1,4,0],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a427b9c40709ca27786c5816e36640227":[7,0,0,0,1,3,5,12,1,4,2],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a5fd7be997bc2cd3b4ca83129bf323c60":[7,0,0,0,1,3,5,12,1,4,4],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a698a2a2065c46398098d92e6fee6be00":[7,0,0,0,1,3,5,12,1,4,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX345 =
 "dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[6,0,156,14],
 "dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[6,0,156,11],
 "dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[6,0,156,13],
-"dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[6,0,156,15],
-"dd/db7/classAllSpellScript.html#ae5a4590e4fb49d4cfe73c5ce307773ca":[6,0,156,5]
+"dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[6,0,156,15]
 };

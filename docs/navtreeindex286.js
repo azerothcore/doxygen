@@ -1,5 +1,6 @@
 var NAVTREEINDEX286 =
 {
+"db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4bf0dc30d4fa221656a4e628280e90f3":[7,0,0,0,1,3,4,8,4,8,1],
 "db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a88e6c4f12619d8678a93725c2560ccbf":[7,0,0,0,1,3,4,8,4,8,3],
 "db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316":[7,0,0,0,1,3,4,8,4,8,2],
 "db/d4e/boss__ossirian_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aefc65c64262072ed5f836e4378433067":[7,0,0,0,1,3,4,8,4,8,0],
@@ -93,10 +94,10 @@ var NAVTREEINDEX286 =
 "db/d53/boss__prince__taldaram_8cpp.html#abba5e7f7dee2d39e8b41c5ac0f4b1746":[7,0,0,0,1,3,5,0,0,5,4],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[5,0,34,6,24],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html":[6,0,12,6,24],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[5,0,34,6,24,0],
-"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#a86733335c7b60d5b9eb8616692da3a7f":[6,0,12,6,24,0],
 "db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[5,0,34,6,24,1],
+"db/d54/classWorldPackets_1_1Guild_1_1GuildDelete.html#ae5ca379b187902323638f4c10be0a4d0":[6,0,12,6,24,1],
 "db/d55/classspell__hallows__end__candy.html":[6,0,3173],
 "db/d55/classspell__hallows__end__candy.html#a7e6ecd28a6b1f161619e179bc386388e":[6,0,3173,0],
 "db/d55/classspell__hallows__end__candy.html#a87a787c6ab3804847c90266f570381c6":[6,0,3173,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX286 =
 "db/d5a/classAuctionHouseObject.html#ab05cddc8805f4f6745a620aaf78490e6":[6,0,268,0],
 "db/d5a/classAuctionHouseObject.html#abc1f401b8f18c6d5003fa337ed1e76bc":[6,0,268,2],
 "db/d5a/classAuctionHouseObject.html#ac22a84a7e3f2c6baf5e40a1a43bbf098":[6,0,268,5],
-"db/d5a/classAuctionHouseObject.html#ae769fbe419c78c580fc0c6d6b91a6e28":[6,0,268,6],
-"db/d5a/classAuctionHouseObject.html#ae980b3dc0cb776fa77810d488c0144aa":[6,0,268,1]
+"db/d5a/classAuctionHouseObject.html#ae769fbe419c78c580fc0c6d6b91a6e28":[6,0,268,6]
 };

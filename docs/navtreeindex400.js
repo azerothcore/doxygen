@@ -1,5 +1,7 @@
 var NAVTREEINDEX400 =
 {
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a587f790fb5010bdfd04d89cf0c562f7e":[7,0,0,0,1,3,5,1,0,0,12,2],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a5ac4fbe14d1e35eed8c2be81541a3546":[7,0,0,0,1,3,5,1,0,0,12,18],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a63c01c89920b9bc855b18a70ed13909f":[7,0,0,0,1,3,5,1,0,0,12,22],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70ceee8880401687f5067294f655d614":[7,0,0,0,1,3,5,1,0,0,12,19],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a70feb01007c465ac33ad93c191b3fa4d":[7,0,0,0,1,3,5,1,0,0,12,31],
@@ -247,7 +249,5 @@ var NAVTREEINDEX400 =
 "df/d7b/classAuraMunchingQueue.html#a9cf03046c9595e81bf119b7aacb1a81a":[6,0,293,4],
 "df/d7b/classAuraMunchingQueue.html#abf9787bcfa9393619ffebe2ad7b5cd46":[6,0,293,0],
 "df/d7b/classAuraMunchingQueue.html#add694e24c38d585784f236acf9118b76":[6,0,293,2],
-"df/d7b/structQuestGreeting.html":[6,0,2480],
-"df/d7b/structQuestGreeting.html#a053adbedc95026b192360e13d32c9401":[6,0,2480,0],
-"df/d7b/structQuestGreeting.html#a84aa5fced9b8989487d1468c4eccb976":[6,0,2480,2]
+"df/d7b/structQuestGreeting.html":[6,0,2480]
 };

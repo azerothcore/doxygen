@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"db/dd5/classCreature.html#a3e6c1326418dabc00f77e1efea7f4012":[6,0,936,192],
 "db/dd5/classCreature.html#a3fbb952be0b9ff2229d88931eac105b2":[6,0,936,22],
 "db/dd5/classCreature.html#a406ff2cf337ffe4dde864ecf85a6f54b":[6,0,936,65],
 "db/dd5/classCreature.html#a40c8771f7191916a94a1dd9345c3d949":[6,0,936,64],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#aedcb4513b7c53b9a9e972b9051da0e0f":[6,0,3556,0],
 "db/dd5/classspell__madrigosa__deactivate__barrier.html#afc844250ea7ba48330edfda305fa856c":[6,0,3556,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1678,0],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1678,0,10],
-"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1678,0,1]
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1678,0,10]
 };

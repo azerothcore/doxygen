@@ -18,7 +18,6 @@ var structboss__sartharion =
     [ "below11PctReached", "d9/df5/structboss__sartharion.html#a5c6190735f90121bdcd0572d7a38bae2", null ],
     [ "dragonsCount", "d9/df5/structboss__sartharion.html#a7fd5e7cf7579df3f918f94b4f89456fe", null ],
     [ "extraEvents", "d9/df5/structboss__sartharion.html#a734bc263b462552a633416489aead62c", null ],
-    [ "lastLavaSide", "d9/df5/structboss__sartharion.html#ae38330bb9b7bf3902c2cdfbbe3eb94cf", null ],
     [ "usedBerserk", "d9/df5/structboss__sartharion.html#a8821dec08484bc1794cb3ab5ea961abc", null ],
     [ "volcanoBlows", "d9/df5/structboss__sartharion.html#a4afb5ee2520c9a0648b978b5659d6c3a", null ]
 ];

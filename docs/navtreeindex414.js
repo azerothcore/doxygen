@@ -1,5 +1,7 @@
 var NAVTREEINDEX414 =
 {
+"df/dda/structnpc__ulduar__vx001.html":[6,0,2254],
+"df/dda/structnpc__ulduar__vx001.html#a07d5508590e09dcd6ceab37dfd380d2a":[6,0,2254,14],
 "df/dda/structnpc__ulduar__vx001.html#a09d6c576c0edf23d46e53c3909a82b00":[6,0,2254,17],
 "df/dda/structnpc__ulduar__vx001.html#a0f02c02bcc93afe1059152e72f981ffd":[6,0,2254,7],
 "df/dda/structnpc__ulduar__vx001.html#a10fe94210982e31e3cb48614d74a8e67":[6,0,2254,11],
@@ -115,12 +117,12 @@ var NAVTREEINDEX414 =
 "df/dde/classnpc__rinji.html#af89b9c77b1a57dc506de0398a0d4b957":[6,0,2100,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[5,0,31,23],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html":[6,0,10,23],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,10,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[5,0,31,23,2],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#a014e322fc087c2f07617361e0bc585e3":[6,0,10,23,2],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[5,0,31,23,1],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#a8f658081b44bda2527aa568a139bfd14":[6,0,10,23,1],
-"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,31,23,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[6,0,10,23,3],
+"df/ddf/structVMAP_1_1WModelRayCallBack.html#aaad14391ed1379dc3c367e6e522b1150":[5,0,31,23,3],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[5,0,31,23,0],
 "df/ddf/structVMAP_1_1WModelRayCallBack.html#ac234cf795a07aab6e456c608dd80bbea":[6,0,10,23,0],
 "df/ddf/structboss__thaddius__summon_1_1boss__thaddius__summonAI.html":[6,0,739,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX414 =
 "df/de7/classOutdoorPvPTF.html":[6,0,2366],
 "df/de7/classOutdoorPvPTF.html#a025bf734eb6357a72f2286822f7cc7c6":[6,0,2366,7],
 "df/de7/classOutdoorPvPTF.html#a23ef36361746c9fae0a14b1094914d22":[6,0,2366,4],
-"df/de7/classOutdoorPvPTF.html#a2c79f67ee87306c7944c86e745e1bfc9":[6,0,2366,10],
-"df/de7/classOutdoorPvPTF.html#a36f7e385fa4ca85ec31f96f8ff9b3048":[6,0,2366,12],
-"df/de7/classOutdoorPvPTF.html#a3ea3cd44ae7cbfc5b8dc641f2023e1ed":[6,0,2366,3]
+"df/de7/classOutdoorPvPTF.html#a2c79f67ee87306c7944c86e745e1bfc9":[6,0,2366,10]
 };

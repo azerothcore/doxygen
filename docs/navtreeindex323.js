@@ -1,5 +1,6 @@
 var NAVTREEINDEX323 =
 {
+"dc/da4/azjol__nerub_8h.html#a353c804af4bd1bd2a5d5193704607689a185e4f622f3b411d7980209389e63777":[7,0,0,0,1,3,5,0,1,0,3,0],
 "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365e":[7,0,0,0,1,3,5,0,1,0,4],
 "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea1a73c13c178a2320b1f47ff2f992649f":[7,0,0,0,1,3,5,0,1,0,4,4],
 "dc/da4/azjol__nerub_8h.html#a38e14ca59c29a20c7d83feecae87365ea2d61b5fd45428eb96d2ecd538da08fb6":[7,0,0,0,1,3,5,0,1,0,4,5],
@@ -149,14 +150,14 @@ var NAVTREEINDEX323 =
 "dc/daa/classNullGameObjectAI.html#a850b58bfcc5e613f31fc95e556ed7f91":[6,0,2320,1],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[6,0,12,9,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html":[5,0,34,9,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[6,0,12,9,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[5,0,34,9,0,4],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[6,0,12,9,0,3],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a313c16e84e2cd0b55551d16273e95917":[6,0,12,9,0,4],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[5,0,34,9,0,3],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a3e12e650a1fa573aafd7c03abd970aff":[6,0,12,9,0,3],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[6,0,12,9,0,0],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a50c79bdef7393907673a328bc36ff8ae":[5,0,34,9,0,0],
-"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,12,9,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[5,0,34,9,0,2],
+"dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a587e98d4a1c8ff0cacd459298a4193c8":[6,0,12,9,0,2],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[6,0,12,9,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eaccbeb4fc8b21f5398e216589cb99b":[5,0,34,9,0,6],
 "dc/daa/classWorldPackets_1_1LFG_1_1LFGJoin.html#a5eca5c5a528cf00f1e6aad99ce5386ed":[6,0,12,9,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX323 =
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a35f3fc9519440c5f846a1cb2789706df":[7,0,0,0,1,2,41,11,72,20],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a3d296fe0adb2f6f3c0ae690ef48e0626":[7,0,0,0,1,2,41,11,72,1],
 "dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a419d135d3d232ceabcb89fba6b5cc2b1":[7,0,0,0,1,2,41,11,72,3],
-"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a4bfd62ef873930a2ed1f6da09b85296d":[7,0,0,0,1,2,41,11,72,24],
-"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a59cf037b8b521ba0958c29e7a8a4c262":[7,0,0,0,1,2,41,11,72,14]
+"dc/db2/SpellScript_8h.html#a0106a0551a3a660c390c8335a1655236a4bfd62ef873930a2ed1f6da09b85296d":[7,0,0,0,1,2,41,11,72,24]
 };
