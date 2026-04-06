@@ -1,5 +1,9 @@
 var NAVTREEINDEX385 =
 {
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea98f942453c3a388805f7d6936bf7838c":[7,0,0,0,1,3,7,4,3,5,2,19],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae3b230661d1ce2817df65021744b28b":[7,0,0,0,1,3,7,4,3,5,2,0],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae6f40ad8a42f5bfe6b72df5db730fe2":[7,0,0,0,1,3,7,4,3,5,2,20],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab1c1e7e7e958d45e162c75fccdb3a686":[7,0,0,0,1,3,7,4,3,5,2,7],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab4b41c61d997b638ce0cd5d3edf707ff":[7,0,0,0,1,3,7,4,3,5,2,4],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab8c2d615cf7a50b5182e7b65a452872c":[7,0,0,0,1,3,7,4,3,5,2,10],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eac80c1eab903468e1ad601285c81c9f76":[7,0,0,0,1,3,7,4,3,5,2,15],
@@ -245,9 +249,5 @@ var NAVTREEINDEX385 =
 "de/dbf/structnpc__hallows__end__train__fire.html#a5767b2a5a2ca1813812cf078b0dd1189":[6,0,1851,2],
 "de/dbf/structnpc__hallows__end__train__fire.html#a686a565e1743c31166d8d57f67a0adce":[6,0,1851,3],
 "de/dbf/structnpc__hallows__end__train__fire.html#a7fa7d23a587ab632d1b9a2b803f83cd4":[6,0,1851,4],
-"de/dbf/structnpc__hallows__end__train__fire.html#afdda52e0adce23f56fa9d1357469a17d":[6,0,1851,1],
-"de/dc0/boss__bronjahm_8cpp.html":[7,0,0,0,1,3,5,4,0,0],
-"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,0,0,8],
-"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,4,0,0,8,2],
-"de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,4,0,0,8,0]
+"de/dbf/structnpc__hallows__end__train__fire.html#afdda52e0adce23f56fa9d1357469a17d":[6,0,1851,1]
 };

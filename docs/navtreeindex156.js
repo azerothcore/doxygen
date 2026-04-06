@@ -1,12 +1,12 @@
 var NAVTREEINDEX156 =
 {
-"d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[6,0,10,26,1],
+"d5/db0/classVMAP_1_1WorldModel.html#ae739dd33c5fcfdf4129ec0f9292eb885":[5,0,31,26,1],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[6,0,10,26,8],
 "d5/db0/classVMAP_1_1WorldModel.html#aea4d1e085733b0bbfbb389d7c4ac9bd1":[5,0,31,26,8],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[5,0,31,3],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html":[6,0,10,3],
-"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,10,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[5,0,31,3,0],
+"d5/db0/structVMAP_1_1GroupLocationInfo.html#a4802cb0c38ad72e7671cb77e1f3e6174":[6,0,10,3,0],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[5,0,31,3,1],
 "d5/db0/structVMAP_1_1GroupLocationInfo.html#aa855bd49800e7a3b6713d72f0cf629d5":[6,0,10,3,1],
 "d5/db0/structnpc__midsummer__bonfire__despawner.html":[6,0,1979],

@@ -1,5 +1,8 @@
 var NAVTREEINDEX346 =
 {
+"dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[6,0,156,11],
+"dd/db7/classAllSpellScript.html#ad5dd3e0f697edb93df6ee764fe2a1d99":[6,0,156,13],
+"dd/db7/classAllSpellScript.html#addb78dc29f771ec376922a4a2bff558b":[6,0,156,15],
 "dd/db7/classAllSpellScript.html#ae5a4590e4fb49d4cfe73c5ce307773ca":[6,0,156,5],
 "dd/db7/classAllSpellScript.html#aeb2d438fdd7ca823ce670a94941bafff":[6,0,156,1],
 "dd/db7/classAllSpellScript.html#afe06aa2578b89fbc5ed5784aed38912a":[6,0,156,9],
@@ -52,10 +55,10 @@ var NAVTREEINDEX346 =
 "dd/dba/structboss__moroes.html#ad67598edc4034dd87ba5260d5f19fd3d":[6,0,639,7],
 "dd/dba/structboss__moroes.html#ae1c0474e0a940a803d82d3fe6d3ff37f":[6,0,639,12],
 "dd/dba/structboss__moroes.html#ae477dcfd679dd7943ddd133bb0dd89df":[6,0,639,0],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[6,0,0,5,2,1],
-"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html":[5,0,1,8,2,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[6,0,0,5,2,1,1],
+"dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#a3a97bead5d1614412948b41fe499d50c":[5,0,1,8,2,1,1],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[5,0,1,8,2,1,0],
 "dd/dbb/structAcore_1_1Impl_1_1StringConvertImpl_1_1For_3_01bool_00_01void_01_4.html#acfabf7e368302aa32ae96367f836edd2":[6,0,0,5,2,1,0],
 "dd/dbc/classspell__warr__vigilance__trigger.html":[6,0,4325],
@@ -246,8 +249,5 @@ var NAVTREEINDEX346 =
 "dd/dca/boss__moroes_8cpp.html#a5bd342133be8c2137b831460acc9298caf187c17b13ada97ad71deec1b3277fd4":[7,0,0,0,1,3,2,4,4,4,2],
 "dd/dca/boss__moroes_8cpp.html#aab072245ab577ff0e12efe20a536b99a":[7,0,0,0,1,3,2,4,4,2],
 "dd/dca/boss__moroes_8cpp.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d":[7,0,0,0,1,3,2,4,4,2,0],
-"dd/dca/boss__razorscale_8cpp.html":[7,0,0,0,1,3,5,9,2,10],
-"dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5":[7,0,0,0,1,3,5,9,2,10,13],
-"dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a1b6b311d30a41c76843d08ee09b1034b":[7,0,0,0,1,3,5,9,2,10,13,1],
-"dd/dca/boss__razorscale_8cpp.html#a0e34bfee1d19a882b3f839910a0df5c5a2b576aaa154773b2836817406cbd57af":[7,0,0,0,1,3,5,9,2,10,13,5]
+"dd/dca/boss__razorscale_8cpp.html":[7,0,0,0,1,3,5,9,2,10]
 };

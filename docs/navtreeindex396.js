@@ -1,5 +1,9 @@
 var NAVTREEINDEX396 =
 {
+"df/d30/classThreatReference.html#a469279b622f405ce9049d0c13fe64b62":[6,0,4487,25],
+"df/d30/classThreatReference.html#a4c574bfbfad1b0ca260d294240c1085f":[6,0,4487,9],
+"df/d30/classThreatReference.html#a4daf2582acdc8cfccd18f6a1e96e3091":[6,0,4487,32],
+"df/d30/classThreatReference.html#a6737f529b5ea18201cef1983665eecb0":[6,0,4487,16],
 "df/d30/classThreatReference.html#a702426d7ada863b2f26b909ff12b72c1":[6,0,4487,8],
 "df/d30/classThreatReference.html#a7d9f03e6953250ea6d6999a41c59e24c":[6,0,4487,34],
 "df/d30/classThreatReference.html#a8552434b31a71bef1730a266da3bd8b6":[6,0,4487,18],
@@ -222,8 +226,8 @@ var NAVTREEINDEX396 =
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a25f930852c7124cdfbf73687e62a26d1":[5,0,34,10,14,1],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[6,0,12,10,14,3],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#a5e5cf56b83aca514cff34c1a17f2d3b1":[5,0,34,10,14,3],
-"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[6,0,12,10,14,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[5,0,34,10,14,0],
+"df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#aabd646c82f3dcdff2eef2158c6724dff":[6,0,12,10,14,0],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[5,0,34,10,14,2],
 "df/d3d/classWorldPackets_1_1Misc_1_1StopMirrorTimer.html#ae99dab4406316eac99a6e0e0146d879e":[6,0,12,10,14,2],
 "df/d3d/classspell__pal__item__t6__trinket.html":[6,0,3726],
@@ -241,13 +245,9 @@ var NAVTREEINDEX396 =
 "df/d3e/classlfg_1_1LfgGroupData.html#a0fb4ba9cde3601fda2717615034707fb":[5,0,18,2,5],
 "df/d3e/classlfg_1_1LfgGroupData.html#a0fdd12c20063ae39debb33b5a7a04384":[6,0,5,2,22],
 "df/d3e/classlfg_1_1LfgGroupData.html#a0fdd12c20063ae39debb33b5a7a04384":[5,0,18,2,22],
-"df/d3e/classlfg_1_1LfgGroupData.html#a39d4b9904d783f85b861f18e08a94526":[5,0,18,2,12],
 "df/d3e/classlfg_1_1LfgGroupData.html#a39d4b9904d783f85b861f18e08a94526":[6,0,5,2,12],
-"df/d3e/classlfg_1_1LfgGroupData.html#a443fe6dc1a2569a5bad41e905c98fdc5":[5,0,18,2,15],
+"df/d3e/classlfg_1_1LfgGroupData.html#a39d4b9904d783f85b861f18e08a94526":[5,0,18,2,12],
 "df/d3e/classlfg_1_1LfgGroupData.html#a443fe6dc1a2569a5bad41e905c98fdc5":[6,0,5,2,15],
-"df/d3e/classlfg_1_1LfgGroupData.html#a472237dc72536de9b1f0b6dc36c52285":[6,0,5,2,1],
-"df/d3e/classlfg_1_1LfgGroupData.html#a472237dc72536de9b1f0b6dc36c52285":[5,0,18,2,1],
-"df/d3e/classlfg_1_1LfgGroupData.html#a5a2f71fce87432f13cc372cae89aa6e2":[5,0,18,2,4],
-"df/d3e/classlfg_1_1LfgGroupData.html#a5a2f71fce87432f13cc372cae89aa6e2":[6,0,5,2,4],
-"df/d3e/classlfg_1_1LfgGroupData.html#a645e2fd76111f49ccf80e11bd1e05fd1":[6,0,5,2,11]
+"df/d3e/classlfg_1_1LfgGroupData.html#a443fe6dc1a2569a5bad41e905c98fdc5":[5,0,18,2,15],
+"df/d3e/classlfg_1_1LfgGroupData.html#a472237dc72536de9b1f0b6dc36c52285":[5,0,18,2,1]
 };

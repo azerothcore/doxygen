@@ -30,6 +30,10 @@ var childrens__week_8cpp =
       [ "NPC_SILVERMOON_01_CW_TRIGGER", "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8ebaa7970d45dae9a330fd3e3bd098bb5f97", null ],
       [ "NPC_KRASUS", "dd/d7d/childrens__week_8cpp.html#a389d50377d83a39061dec37bd2ccf8eba055f28e2d12b3f0bdd256be893e30212", null ]
     ] ],
+    [ "eAlexstrasza", "dd/d7d/childrens__week_8cpp.html#ae01e3743fec60ee6af0a308d1d67c583", [
+      [ "SPELL_KEY_TO_FOCUSING_IRIS", "dd/d7d/childrens__week_8cpp.html#ae01e3743fec60ee6af0a308d1d67c583a9e69872de6b0d4686f936046cafeb8a5", null ],
+      [ "SPELL_HEROIC_KEY_TO_FOCUSING_IRIS", "dd/d7d/childrens__week_8cpp.html#ae01e3743fec60ee6af0a308d1d67c583a59fcf6ecfdb452992ffcc6db3fea9fa3", null ]
+    ] ],
     [ "Misc", "dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "SPELL_SNOWBALL", "dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a61d9a2a9228ba23c39e7451235bd37fa", null ],
       [ "SPELL_ORPHAN_OUT", "dd/d7d/childrens__week_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad8f8708c02ec0359a50408a940485630", null ],

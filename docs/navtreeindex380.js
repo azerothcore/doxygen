@@ -1,5 +1,9 @@
 var NAVTREEINDEX380 =
 {
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a85cd2486bad6cda8867eba29538842e9":[6,0,1724,0,14],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a91131055a31dc828ccb2e3ba087d5062":[6,0,1724,0,5],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a94277075d53a9d9115894e3bf378d106":[6,0,1724,0,21],
+"de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#a9af9323b3bf6df4a85445d9859609c78":[6,0,1724,0,24],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aa0d89f971b6e210d8550e89839e28f44":[6,0,1724,0,1],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#aace73f2e878ebaf30634431f9f1068ab":[6,0,1724,0,23],
 "de/d91/structnpc__cork__gizelton_1_1npc__cork__gizeltonAI.html#ab34fe1b0bac1a694c6e76d3cebf67172":[6,0,1724,0,7],
@@ -216,12 +220,12 @@ var NAVTREEINDEX380 =
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html":[6,0,12,6,43],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[6,0,12,6,43,0],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a2161128d6fb6fa53a5129a95ded2b5fc":[5,0,34,6,43,0],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,12,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[5,0,34,6,43,1],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,12,6,43,5],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a544a539999827d4eb8923cbbcdf42bac":[6,0,12,6,43,1],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[5,0,34,6,43,5],
-"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,34,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a5ec2c209558d2c34feee4bfd8cda201c":[6,0,12,6,43,5],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[6,0,12,6,43,4],
+"de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a67b0a12fae93c5807030c1062f328abb":[5,0,34,6,43,4],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[6,0,12,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a964fc72bf3ada77c171fd1f691449241":[5,0,34,6,43,3],
 "de/d9a/classWorldPackets_1_1Guild_1_1GuildRoster.html#a9d457ee8feb6c173d960b360aca90fc6":[6,0,12,6,43,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX380 =
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a20827683249c17625242e205bb51f9e8":[6,0,3151,5],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a4205560054e5baed86aecba3b98fc202":[6,0,3151,3],
 "de/d9d/classspell__hadronox__summon__periodic__aura.html#a4466547bc1a5259a33354f2008d6cce7":[6,0,3151,2],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#a52e45512e2bbe34b0bdbfaa273aeb997":[6,0,3151,7],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#a80cbba741e8005a89a1bbf47a5fc82fb":[6,0,3151,0],
-"de/d9d/classspell__hadronox__summon__periodic__aura.html#abdcc08812e4cf771d4d845ebbbf68790":[6,0,3151,6],
-"de/d9e/classgo__tele__to__dalaran__crystal.html":[6,0,1210],
-"de/d9e/classgo__tele__to__dalaran__crystal.html#a7f754a29249653ca7848494310ef1a8d":[6,0,1210,1]
+"de/d9d/classspell__hadronox__summon__periodic__aura.html#a52e45512e2bbe34b0bdbfaa273aeb997":[6,0,3151,7]
 };

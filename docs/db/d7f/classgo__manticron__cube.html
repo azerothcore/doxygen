@@ -206,7 +206,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  410</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_manticron_cube&quot;</span>) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  411</span>: <a class="code hl_class" href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a>(<span class="stringliteral">&quot;go_manticron_cube&quot;</span>) { }</div>
 <div class="ttc" id="aclassGameObjectScript_html"><div class="ttname"><a href="../../dd/de9/classGameObjectScript.html">GameObjectScript</a></div><div class="ttdef"><b>Definition</b> GameObjectScript.h:25</div></div>
 </div><!-- fragment -->
 </div>
@@ -247,16 +247,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../dd/de9/classGameObjectScript.html#a58b56fc92ae87aea0530eceba1f3088d">GameObjectScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  413</span>    {</div>
-<div class="line"><span class="lineno">  414</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ba7ffb92702e465a5d64e550b7fe252">HasAnyAuras</a>(<a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8">SPELL_MIND_EXHAUSTION</a>, <a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd">SPELL_SHADOW_GRASP</a>))</div>
-<div class="line"><span class="lineno">  415</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  416</span> </div>
-<div class="line"><span class="lineno">  417</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* trigger = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a15d066f41e2f2f523352a34d0fdf20de">NPC_HELLFIRE_RAID_TRIGGER</a>, 10.0f))</div>
-<div class="line"><span class="lineno">  418</span>            trigger-&gt;CastSpell(<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4">SPELL_SHADOW_GRASP_VISUAL</a>);</div>
-<div class="line"><span class="lineno">  419</span> </div>
-<div class="line"><span class="lineno">  420</span>        player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd">SPELL_SHADOW_GRASP</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  421</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  422</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  414</span>    {</div>
+<div class="line"><span class="lineno">  415</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#a5ba7ffb92702e465a5d64e550b7fe252">HasAnyAuras</a>(<a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8">SPELL_MIND_EXHAUSTION</a>, <a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd">SPELL_SHADOW_GRASP</a>))</div>
+<div class="line"><span class="lineno">  416</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  417</span> </div>
+<div class="line"><span class="lineno">  418</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../db/dd5/classCreature.html">Creature</a>* trigger = player-&gt;<a class="code hl_function" href="../../d4/dd0/classWorldObject.html#aa7cc61d571dbc39ca8ac6ac10ffd18ab">FindNearestCreature</a>(<a class="code hl_enumvalue" href="../../da/d83/magtheridons__lair_8h.html#a16c2b8982727dd1439379712d87864b3a15d066f41e2f2f523352a34d0fdf20de">NPC_HELLFIRE_RAID_TRIGGER</a>, 10.0f))</div>
+<div class="line"><span class="lineno">  419</span>            trigger-&gt;CastSpell(<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4">SPELL_SHADOW_GRASP_VISUAL</a>);</div>
+<div class="line"><span class="lineno">  420</span> </div>
+<div class="line"><span class="lineno">  421</span>        player-&gt;<a class="code hl_function" href="../../df/dd9/classUnit.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>((<a class="code hl_class" href="../../df/dd9/classUnit.html">Unit</a>*)<span class="keyword">nullptr</span>, <a class="code hl_enumvalue" href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd">SPELL_SHADOW_GRASP</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  423</span>    }</div>
 <div class="ttc" id="aboss__magtheridon_8cpp_html_a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd"><div class="ttname"><a href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca4ad5ee9c997e4292b92c5affdaffd3cd">SPELL_SHADOW_GRASP</a></div><div class="ttdeci">@ SPELL_SHADOW_GRASP</div><div class="ttdef"><b>Definition</b> boss_magtheridon.cpp:54</div></div>
 <div class="ttc" id="aboss__magtheridon_8cpp_html_a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4"><div class="ttname"><a href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298ca916ee85800181430654a144d3b5b4cd4">SPELL_SHADOW_GRASP_VISUAL</a></div><div class="ttdeci">@ SPELL_SHADOW_GRASP_VISUAL</div><div class="ttdef"><b>Definition</b> boss_magtheridon.cpp:55</div></div>
 <div class="ttc" id="aboss__magtheridon_8cpp_html_a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8"><div class="ttname"><a href="../../dc/d07/boss__magtheridon_8cpp.html#a5bd342133be8c2137b831460acc9298caad47a4ca39b5d74964d313750dc887c8">SPELL_MIND_EXHAUSTION</a></div><div class="ttdeci">@ SPELL_MIND_EXHAUSTION</div><div class="ttdef"><b>Definition</b> boss_magtheridon.cpp:57</div></div>
@@ -280,7 +280,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d7f/classgo__manticron__cube.html">go_manticron_cube</a></li>
-    <li class="footer">Generated on Sun Apr 5 2026 07:01:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Mon Apr 6 2026 07:24:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

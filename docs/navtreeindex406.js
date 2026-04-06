@@ -1,10 +1,14 @@
 var NAVTREEINDEX406 =
 {
+"df/da7/classBattleground.html#affa274dfd2f2e6ce0e7838998f703d2b":[6,0,326,252],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[5,0,34,2,9],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html":[6,0,12,2,9],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[5,0,34,2,9,0],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a67e25a4a39b14e488b5176b02e8dc995":[6,0,12,2,9,0],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[6,0,12,2,9,1],
-"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9e6d525a7104f2a8f81564d3796c6211":[5,0,34,2,9,1],
 "df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[6,0,12,2,9,2],
+"df/da7/classWorldPackets_1_1Character_1_1ShowingHelm.html#a9f3d52d5d6a6fa76b29afbd5a56d5622":[5,0,34,2,9,2],
 "df/da7/classspell__gen__clear__debuffs.html":[6,0,3003],
 "df/da7/classspell__gen__clear__debuffs.html#a88a8534a1dd825a14fd6b10933986eb7":[6,0,3003,2],
 "df/da7/classspell__gen__clear__debuffs.html#aa6104370d5700e43223c7138e941ba05":[6,0,3003,0],
@@ -243,11 +247,7 @@ var NAVTREEINDEX406 =
 "df/db8/structnpc__tito.html#ac357c29e68d8480d94349da844efd3ad":[6,0,2191,2],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[6,0,12,6,50],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html":[5,0,34,6,50],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,12,6,50,1],
 "df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[5,0,34,6,50,1],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,34,6,50,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[6,0,12,6,50,2],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[6,0,12,6,50,0],
-"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#ae1269fb7583f0ce1703cd89d592b1485":[5,0,34,6,50,0],
-"df/db9/structAddonInfo.html":[6,0,132]
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a0427be2f46cba4ff6b2ca072924bca7b":[6,0,12,6,50,1],
+"df/db9/classWorldPackets_1_1Guild_1_1PlayerSaveGuildEmblem.html#a76930d3b74bf7b84a311b24b53d03b21":[5,0,34,6,50,2]
 };

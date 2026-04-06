@@ -1,5 +1,9 @@
 var NAVTREEINDEX388 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a7db4b8be8a011d5120e62e41b9760c3d":[7,0,0,0,1,3,5,6,9,50],
+"de/de5/boss__sindragosa_8cpp.html#a88ac26498cd10ae88b17043588ad3b92":[7,0,0,0,1,3,5,6,9,51],
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5":[7,0,0,0,1,3,5,6,9,39],
+"de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a0930e81ee0cdfdd929154ab1493abb60":[7,0,0,0,1,3,5,6,9,39,1],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a1c6e632d42e6df5451aed43bb661d6f0":[7,0,0,0,1,3,5,6,9,39,3],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a4a31ac9e94cf15cdb51d30c3318b86f5":[7,0,0,0,1,3,5,6,9,39,0],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a73f3cc3fd2bb6150d47689986df1bfd1":[7,0,0,0,1,3,5,6,9,39,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX388 =
 "de/dee/classcast__commandscript.html":[6,0,853],
 "de/dee/classcast__commandscript.html#a14da4e4674b065c8e8f3d1946a037bda":[6,0,853,2],
 "de/dee/classcast__commandscript.html#a156ca81fba7155205dae106aa4c221d6":[6,0,853,7],
-"de/dee/classcast__commandscript.html#a244b2d11a07fdcbb72f3207ab1e46ea5":[6,0,853,1],
-"de/dee/classcast__commandscript.html#a26e6986c45a99e6a94d7ba2d9a810aa3":[6,0,853,4],
-"de/dee/classcast__commandscript.html#a69e88bb174c2518584a9ae622e2850bf":[6,0,853,9],
-"de/dee/classcast__commandscript.html#a964a40278f609a5c5a0bae651484c726":[6,0,853,5],
-"de/dee/classcast__commandscript.html#a9c657d2c5404149a45a2db748d23fc2f":[6,0,853,0]
+"de/dee/classcast__commandscript.html#a244b2d11a07fdcbb72f3207ab1e46ea5":[6,0,853,1]
 };

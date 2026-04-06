@@ -249,5 +249,5 @@ var NAVTREEINDEX241 =
 "d9/d65/structnpc__vilebranch__speaker.html#aa7708f176879db3acd50399b74e4a90c":[6,0,2277,1],
 "d9/d65/structnpc__vilebranch__speaker.html#abd52bbd2ce88b011176d93ae92b851d0":[6,0,2277,5],
 "d9/d65/structnpc__vilebranch__speaker.html#acd8dfc95c5969fe67e1386d5dbd5884b":[6,0,2277,0],
-"d9/d66/classWorldPackets_1_1Item_1_1SellItem.html":[5,0,34,8,14]
+"d9/d66/classWorldPackets_1_1Item_1_1SellItem.html":[6,0,12,8,14]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX350 =
 {
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a531f51626ae4527282ad1e628911a9ea":[6,0,3843,2],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a7123c451bce0f95ad75e5acfbe58a135":[6,0,3843,1],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a770b7ad0bb00114400a73f50c4aa6c81":[6,0,3843,0],
+"dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#a8af86c58f438e78d8bf878f79d4a27e2":[6,0,3843,4],
 "dd/dd8/classspell__q10769__dissension__amongst__the__ranks__aura.html#ae68bd9a92239a4796f9d8040787a68b3":[6,0,3843,3],
 "dd/dda/classnpc__koltira__deathweaver.html":[6,0,1935],
 "dd/dda/classnpc__koltira__deathweaver.html#a5e9fdbc8dc70ce3480906b86aed381a3":[6,0,1935,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX350 =
 "dd/dea/classspell__gen__holiday__buff__food.html":[6,0,3048],
 "dd/dea/classspell__gen__holiday__buff__food.html#a5d125413491dd377d61b8e30c4979fdd":[6,0,3048,2],
 "dd/dea/classspell__gen__holiday__buff__food.html#a6b69d7358eb8cfe6a8f9efd47882eb80":[6,0,3048,3],
-"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,3048,1],
-"dd/dea/classspell__gen__holiday__buff__food.html#afeac0a8393b7d7bf787fca59988d0e14":[6,0,3048,0],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[6,0,0,15],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html":[5,0,1,27],
-"dd/deb/classAcore_1_1AllGameObjectsWithEntryInRange.html#a342aa18d98413620fce4c676fcf75305":[5,0,1,27,1]
+"dd/dea/classspell__gen__holiday__buff__food.html#a7cbcf46dbdddea12fd6ce04bcbcea097":[6,0,3048,1]
 };
