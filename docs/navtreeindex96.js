@@ -1,5 +1,6 @@
 var NAVTREEINDEX96 =
 {
+"d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,5,9,2,13,44],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a01586ebaf80ec7cdd3e1572a843f8815":[7,0,0,0,1,3,5,9,2,13,44,25],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a085edc41c91ca209be06e652d139e18f":[7,0,0,0,1,3,5,9,2,13,44,28],
 "d3/d32/boss__yoggsaron_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a10b4fae16b0a43eeaf55f84e63cfac59":[7,0,0,0,1,3,5,9,2,13,44,35],
@@ -248,6 +249,5 @@ var NAVTREEINDEX96 =
 "d3/d44/structBoneStormMoveTargetSelector.html#a5b53c140d38db0df8faef3dfaf5c458d":[6,0,376,1],
 "d3/d44/structBoneStormMoveTargetSelector.html#acd13e67fbbc29137ca2b77aaf9dc0e77":[6,0,376,0],
 "d3/d45/classgo__beacon.html":[6,0,1144],
-"d3/d45/classgo__beacon.html#abd168f0c1ac9a64cece280758f3120d4":[6,0,1144,2],
-"d3/d45/classgo__beacon.html#ad4224cabdc7210d9a0a46fb1eed1a23b":[6,0,1144,1]
+"d3/d45/classgo__beacon.html#abd168f0c1ac9a64cece280758f3120d4":[6,0,1144,2]
 };

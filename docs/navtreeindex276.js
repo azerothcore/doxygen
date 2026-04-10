@@ -1,6 +1,5 @@
 var NAVTREEINDEX276 =
 {
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4312f74f67649f5f2f3cfaf2a46b09e8":[6,0,556,0,2],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4ae6bd152ccfa4813ba5ea4ba5fd14ee":[6,0,556,0,18],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4c0201fa18a2720548d7f88a6dfd9f36":[6,0,556,0,7],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a5030ce0d8d9fd9e8ef697d6a2ce85d25":[6,0,556,0,0],
@@ -80,12 +79,12 @@ var NAVTREEINDEX276 =
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a218d6cc2e99a6170b1a548fc1531e2e7":[5,0,1,48,6],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[6,0,0,36,3],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#a32a72bf1110179cc58dcf2df914c7389":[5,0,1,48,3],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[6,0,0,36,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[5,0,1,48,1],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[6,0,0,36,5],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaeb91b7fa2efe1dd36802851e204c9c8":[6,0,0,36,1],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[5,0,1,48,5],
-"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[6,0,0,36,2],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#aaed8a84ac72a01824d7d7fc2ea17c9af":[6,0,0,36,5],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[5,0,1,48,2],
+"da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ab84296c320b09a387de6e6e6a2326b83":[6,0,0,36,2],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[6,0,0,36,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ad5ae3b91e81f816ca49f9358222c8b06":[5,0,1,48,0],
 "da/dd1/classAcore_1_1BattlegroundChatBuilder.html#ae73b69d72ddee4e05bb8b634a91e13b7":[5,0,1,48,4],
@@ -120,12 +119,12 @@ var NAVTREEINDEX276 =
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a87623ce14ef1d123d226e37e227a566d":[5,0,18,8,3],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[5,0,18,8,1],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#a91ba12acf66d631af2de45513f20b702":[6,0,5,8,1],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[5,0,18,8,2],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#abd051091fec6835f63bafa98a045142b":[6,0,5,8,2],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[5,0,18,8,4],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#abe9c93ab7f3a421dd3c44414a0987277":[6,0,5,8,4],
-"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,18,8,0],
 "da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[6,0,5,8,0],
+"da/dd7/structlfg_1_1LfgPlayerRewardData.html#afe99288f8d7028a5a54317e73e3f2c01":[5,0,18,8,0],
 "da/dd8/classHashMapHolder.html":[6,0,1278],
 "da/dd8/classHashMapHolder.html#a314b4ce3265136fe326b909fe6ef6716":[6,0,1278,2],
 "da/dd8/classHashMapHolder.html#a52cc052c8d73d5b700c7f9253138942f":[6,0,1278,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX276 =
 "da/ddc/classSmartAI.html#a99edcaa78b6955cf27959e3469389265":[6,0,2584,122],
 "da/ddc/classSmartAI.html#a9a7fa7dee79549501c14b36485190604":[6,0,2584,18],
 "da/ddc/classSmartAI.html#a9c16d3870704c2e0a49dcba7f518c2b4":[6,0,2584,101],
-"da/ddc/classSmartAI.html#a9e31b1d6489daf301ef45a5c0acc8ab6":[6,0,2584,17]
+"da/ddc/classSmartAI.html#a9e31b1d6489daf301ef45a5c0acc8ab6":[6,0,2584,17],
+"da/ddc/classSmartAI.html#a9fcc2ba804b1ad3b0cc020a1f26e39a9":[6,0,2584,86]
 };

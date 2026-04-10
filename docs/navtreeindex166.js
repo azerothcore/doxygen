@@ -1,5 +1,6 @@
 var NAVTREEINDEX166 =
 {
+"d6/d0b/structboss__flame__leviathan__seat.html#a9772b52283f16120dbefb5d218844c38":[6,0,487,7],
 "d6/d0b/structboss__flame__leviathan__seat.html#ac0f5d43d4be0773fdae62d0ab433713f":[6,0,487,2],
 "d6/d0b/structboss__flame__leviathan__seat.html#aec34fec1a6a3857ea7895a2762bf82d0":[6,0,487,4],
 "d6/d0b/structboss__flame__leviathan__seat.html#afe673a7903cffa7acefb725d52efb08a":[6,0,487,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d12/classspell__leotheras__insidious__whisper.html":[6,0,3542],
 "d6/d12/classspell__leotheras__insidious__whisper.html#a8622bc4d61c5c236349d4b12c2a6b10d":[6,0,3542,1],
 "d6/d12/classspell__leotheras__insidious__whisper.html#ac20676c292d87276e444bad56d71960d":[6,0,3542,0],
-"d6/d12/classspell__leotheras__insidious__whisper.html#ae356b768872de3e87806c19bf8cccb08":[6,0,3542,2],
-"d6/d13/classspell__freezing__cloud__area__right.html":[6,0,2954]
+"d6/d12/classspell__leotheras__insidious__whisper.html#ae356b768872de3e87806c19bf8cccb08":[6,0,3542,2]
 };

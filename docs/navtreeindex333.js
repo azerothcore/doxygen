@@ -1,6 +1,5 @@
 var NAVTREEINDEX333 =
 {
-"dd/d27/classspell__mage__dragon__breath.html#a50084bc759ee453a3f5552ca2e039de2":[6,0,3570,1],
 "dd/d27/classspell__mage__dragon__breath.html#ab79fcdd56767e0199b96d24d71bea452":[6,0,3570,2],
 "dd/d27/structSmartAction.html":[6,0,2583],
 "dd/d27/structSmartAction.html#a033767c66047cb24b21bbb97221d78aa":[6,0,2583,189],
@@ -249,5 +248,6 @@ var NAVTREEINDEX333 =
 "dd/d27/structSmartAction.html#acff32c26bdfa92b6b99526b93624c376":[6,0,2583,73],
 "dd/d27/structSmartAction.html#ad03d88052bcb0053febb348db5f9df37":[6,0,2583,306],
 "dd/d27/structSmartAction.html#ad1e4934937d7cb1f10d8d9a2a35b276f":[6,0,2583,53],
-"dd/d27/structSmartAction.html#ad2c39246960bbd9d972982e82a983726":[6,0,2583,66]
+"dd/d27/structSmartAction.html#ad2c39246960bbd9d972982e82a983726":[6,0,2583,66],
+"dd/d27/structSmartAction.html#ad40d05e8ec57edbf7b2593074985d6e1":[6,0,2583,18]
 };

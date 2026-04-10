@@ -1,6 +1,5 @@
 var NAVTREEINDEX320 =
 {
-"dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#a358193e3340112c04f79c043548c3de0":[6,0,2851,1],
 "dc/d74/classspell__dreamwalker__summon__suppresser__aura.html#ac1bace4fc66349364c84b5784967e9bf":[6,0,2851,0],
 "dc/d74/cs__list_8cpp.html":[7,0,0,0,1,3,0,27],
 "dc/d74/cs__list_8cpp.html#a81af00772e7a06ad952109222b1f53a3":[7,0,0,0,1,3,0,27,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX320 =
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a838f1354e24c47e1c52e4b50e2b93c85":[6,0,2016,0,7],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#a89e506868e3191362545e34d21528b8f":[6,0,2016,0,1],
 "dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#ac3e1bc9dc819138741eb3b4448051547":[6,0,2016,0,4],
-"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a":[6,0,2016,0,6]
+"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a":[6,0,2016,0,6],
+"dc/d82/structnpc__ohgan_1_1npc__ohganAI.html#aeb6f6bddf881edf818fdc31fc639d5d5":[6,0,2016,0,8]
 };

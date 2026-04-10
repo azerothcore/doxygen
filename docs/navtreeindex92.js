@@ -1,5 +1,6 @@
 var NAVTREEINDEX92 =
 {
+"d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#addcb648b62f4503f090c248b8d97eb4e":[6,0,4040,0],
 "d3/d0a/classspell__sha__glyph__of__totem__of__wrath.html#afec1afc80df1793d98371609e31b1401":[6,0,4040,4],
 "d3/d0a/structboss__ossirian.html":[6,0,660],
 "d3/d0a/structboss__ossirian.html#a0b5b92a9bce9a5dd0054cb833a56d32f":[6,0,660,9],
@@ -233,12 +234,12 @@ var NAVTREEINDEX92 =
 "d3/d13/structADT_1_1MODF.html":[5,0,3,1],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[6,0,1,1,2],
 "d3/d13/structADT_1_1MODF.html#a06f5e96119239356eea45b9acdadf6e1":[5,0,3,1,2],
-"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[6,0,1,1,7],
 "d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[5,0,3,1,7],
-"d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,3,1,0],
+"d3/d13/structADT_1_1MODF.html#a142716fecae07abc013c7f3bd053c0ea":[6,0,1,1,7],
 "d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[6,0,1,1,0],
-"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,3,1,6],
+"d3/d13/structADT_1_1MODF.html#a1e982b341ac3859fad38b2efc81ab8ea":[5,0,3,1,0],
 "d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[6,0,1,1,6],
+"d3/d13/structADT_1_1MODF.html#a2c04715e800b9f375c287cced96643d1":[5,0,3,1,6],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[6,0,1,1,4],
 "d3/d13/structADT_1_1MODF.html#a55df9aed38d8cf1503b21f5fd9d5e5d0":[5,0,3,1,4],
 "d3/d13/structADT_1_1MODF.html#a749e920740b9e91547fe1f87933d1c7d":[6,0,1,1,8],
@@ -248,6 +249,5 @@ var NAVTREEINDEX92 =
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[5,0,3,1,3],
 "d3/d13/structADT_1_1MODF.html#a952442c180e8d3710af31272b54eb6ec":[6,0,1,1,3],
 "d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[5,0,3,1,1],
-"d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[6,0,1,1,1],
-"d3/d13/structOverrideSpellDataEntry.html":[6,0,2369]
+"d3/d13/structADT_1_1MODF.html#abbf6e50e76b120be17215cfcf227a524":[6,0,1,1,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX94 =
 {
+"d3/d1f/AuthSession_8cpp.html#af848fed368789960f3d9e059f8002e11":[7,0,0,0,1,0,0,2,0,7],
 "d3/d1f/WorldDatabase_8h.html":[7,0,0,0,1,1,0,0,5],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32":[7,0,0,0,1,1,0,0,5,1],
 "d3/d1f/WorldDatabase_8h.html#a736c0fca3c789518de967ddf4d44fc32a030964d0fbfcc43349b200f6e3c576fd":[7,0,0,0,1,1,0,0,5,1,32],
@@ -248,6 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#af344a6e6bb42609887ee8a3022e9d8e5":[6,0,346,0,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,34,13,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[6,0,12,13,4],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[6,0,12,13,4,3],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,34,13,4,3]
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[6,0,12,13,4,3]
 };

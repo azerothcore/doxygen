@@ -1,6 +1,5 @@
 var NAVTREEINDEX386 =
 {
-"de/dc0/boss__bronjahm_8cpp.html":[7,0,0,0,1,3,5,4,0,0],
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3":[7,0,0,0,1,3,5,4,0,0,8],
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,5,4,0,0,8,2],
 "de/dc0/boss__bronjahm_8cpp.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,5,4,0,0,8,0],
@@ -140,20 +139,20 @@ var NAVTREEINDEX386 =
 "de/dc8/classAuthCrypt.html#af30b0691f7089d52c2fbd9c5b9f52e68":[6,0,304,7],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[6,0,0,1,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html":[5,0,1,2,3],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,1,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[6,0,0,1,3,0],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a054c554d9d812e571455bce39655a9ac":[5,0,1,2,3,0],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[6,0,0,1,3,2],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a2d439c3664d398cebfc503b2769bfa9c":[5,0,1,2,3,2],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[5,0,1,2,3,5],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a57892ca7457ca93bdcdbbb8309311c8f":[6,0,0,1,3,5],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,1,2,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[6,0,0,1,3,1],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a5c55c97d4dd08c5e71563596e0c59111":[5,0,1,2,3,1],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[5,0,1,2,3,3],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#a9d4cf547beb996e5945acb84f5305200":[6,0,0,1,3,3],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[6,0,0,1,3,6],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#aef50fdfc79df3ca784eb90a69bd43076":[5,0,1,2,3,6],
-"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,1,2,3,4],
 "de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[6,0,0,1,3,4],
+"de/dc9/structAcore_1_1ChatCommands_1_1Hyperlink.html#afb5bb4e6e4a32db89e3b8a68e9c0d901":[5,0,1,2,3,4],
 "de/dcb/classspell__gen__bonked.html":[6,0,2996],
 "de/dcb/classspell__gen__bonked.html#a04e81472bfefb794024e9c4cc0e4d70b":[6,0,2996,3],
 "de/dcb/classspell__gen__bonked.html#a466db5b8dc15a196d67dfcbef3d810e1":[6,0,2996,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX386 =
 "de/dd2/auchenai__crypts_8h.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8":[7,0,0,0,1,3,7,0,0,0,3,1],
 "de/dd2/auchenai__crypts_8h.html#abf97bec93b670890ad0eaa7d6b4bd4b9":[7,0,0,0,1,3,7,0,0,0,2],
 "de/dd2/classnpc__muglash.html":[6,0,1992],
-"de/dd2/classnpc__muglash.html#a5df1b1cff0acf8be4db77b66f8a0b5f4":[6,0,1992,1]
+"de/dd2/classnpc__muglash.html#a5df1b1cff0acf8be4db77b66f8a0b5f4":[6,0,1992,1],
+"de/dd2/classnpc__muglash.html#a7cfeaf756de85b1bd2fff9163e4bd5e3":[6,0,1992,2]
 };

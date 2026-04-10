@@ -2,10 +2,8 @@ var structboss__ragnaros =
 [
     [ "boss_ragnaros", "d6/d41/structboss__ragnaros.html#af00099111c9f5a722e1a6a3fe0c9f052", null ],
     [ "AttackStart", "d6/d41/structboss__ragnaros.html#a89ea28d81f6d5873f6eb542beaa486cd", null ],
-    [ "CanAIAttack", "d6/d41/structboss__ragnaros.html#a64b8a23a0842d6d11f613936e9a5bff3", null ],
     [ "DamageTaken", "d6/d41/structboss__ragnaros.html#a8bd76b12ba287b79861ccefe6e15c175", null ],
     [ "DoAction", "d6/d41/structboss__ragnaros.html#a4fe9743dd23bb73cbfad3a32f19d3469", null ],
-    [ "EnterEvadeMode", "d6/d41/structboss__ragnaros.html#a8d0650b2bdbd594fb7e02460589e97a4", null ],
     [ "HandleEmerge", "d6/d41/structboss__ragnaros.html#a2d2733ff728c4e8a0855596cb4534906", null ],
     [ "IsVictimWithinMeleeRange", "d6/d41/structboss__ragnaros.html#a9fcad2eeaa0229ca36d685832bad2748", null ],
     [ "JustDied", "d6/d41/structboss__ragnaros.html#a9e159bff9d94150ad6818b1a7ca00c1b", null ],

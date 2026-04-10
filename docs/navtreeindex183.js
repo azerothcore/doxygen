@@ -1,6 +1,5 @@
 var NAVTREEINDEX183 =
 {
-"d6/db2/Hyperlinks_8h.html#aa8156f2996632fd42a2e39b974426995":[7,0,0,0,1,2,11,5,21],
 "d6/db2/Hyperlinks_8h.html#aae3a6cd0fbf426755d93a387882ff767":[7,0,0,0,1,2,11,5,25],
 "d6/db2/Hyperlinks_8h.html#abe0a588f1c0e66d33c8bc7a7d0a04459":[7,0,0,0,1,2,11,5,31],
 "d6/db2/Hyperlinks_8h.html#ae0c637d10c728f04dc2468c15c3f8dca":[7,0,0,0,1,2,11,5,30],
@@ -249,5 +248,6 @@ var NAVTREEINDEX183 =
 "d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,954,2],
 "d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[6,0,954,1],
 "d6/dc0/structCreatureSpellCooldown.html#a6d234a93951992640df5720a2885be3e":[6,0,954,0],
-"d6/dc0/structCreatureSpellCooldown.html#a9c1c5f2b6e9a6cd015085e79b043e483":[6,0,954,3]
+"d6/dc0/structCreatureSpellCooldown.html#a9c1c5f2b6e9a6cd015085e79b043e483":[6,0,954,3],
+"d6/dc1/ChatCommandTags_8h.html":[7,0,0,0,1,2,11,1,7]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX182 =
 {
-"d6/d9a/PetDefines_8h.html#a6950071a5ecec4c8754d5fbb9908bc31afd6db825b6f344f6f64ae53dc19cf503":[7,0,0,0,1,2,16,6,2,7,1],
 "d6/d9a/PetDefines_8h.html#a72390f1dacad9f741f303cec18519217":[7,0,0,0,1,2,16,6,2,16],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6b":[7,0,0,0,1,2,16,6,2,6],
 "d6/d9a/PetDefines_8h.html#a80290db1e4b163e172e9bd2cf5cb6d6ba22f9afd7d3f47ad0de0d10534e0275b1":[7,0,0,0,1,2,16,6,2,6,2],
@@ -53,18 +52,18 @@ var NAVTREEINDEX182 =
 "d6/d9d/EventMap_8cpp.html":[7,0,0,0,0,15,9],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[5,0,34,11,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html":[6,0,12,11,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[6,0,12,11,4,1],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a4d44b3310c3733ae56ffce9a84eff8d1":[5,0,34,11,4,1],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[6,0,12,11,4,5],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a56a96a12b526f0e0cf89a6472c6a206b":[5,0,34,11,4,5],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[6,0,12,11,4,3],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[6,0,12,11,4,4],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#a6b3a33adeeab2c09ac83e7e430312158":[5,0,34,11,4,3],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[5,0,34,11,4,4],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ab5e93d6c38efd311c701401ec03f7958":[6,0,12,11,4,4],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[6,0,12,11,4,2],
-"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#ad88c53405b38f276815e0f013ce5261f":[5,0,34,11,4,2],
 "d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[6,0,12,11,4,0],
+"d6/d9d/classWorldPackets_1_1NPC_1_1TrainerList.html#aebb173d4f46d00f383c4ed62e8b130a7":[5,0,34,11,4,0],
 "d6/d9d/classspell__brewfest__add__mug.html":[6,0,2705],
 "d6/d9d/classspell__brewfest__add__mug.html#a1c69fb2fd3fa623d62647fca738d27d6":[6,0,2705,1],
 "d6/d9d/classspell__brewfest__add__mug.html#a3860ad8a34e37601f7a4cef395f7ab2a":[6,0,2705,0],
@@ -196,8 +195,8 @@ var NAVTREEINDEX182 =
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a2e5f19a0f01eeb3d1585c7b02f2073b2":[6,0,2290,0,1],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#a3760738d61b6148042fc30bd96b88fdc":[6,0,2290,0,0],
 "d6/dad/structnpc__wg__queue_1_1npc__wg__queueAI.html#ab0eb949272e48120cff1c3df27ad8e92":[6,0,2290,0,2],
-"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,12,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[5,0,34,6,22],
+"d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html":[6,0,12,6,22],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[5,0,34,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a4dd11d2c4d009b1e495f792f4842d598":[6,0,12,6,22,0],
 "d6/dae/classWorldPackets_1_1Guild_1_1GuildCreate.html#a7d4573196f53d1f068c43b4e7e466fce":[5,0,34,6,22,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX182 =
 "d6/db2/Hyperlinks_8h.html#a73cc3b14b22adefd27d34c736cafa480":[7,0,0,0,1,2,11,5,17],
 "d6/db2/Hyperlinks_8h.html#a9990339040b491e108594df755f03a6c":[7,0,0,0,1,2,11,5,27],
 "d6/db2/Hyperlinks_8h.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[7,0,0,0,1,2,11,5,28],
-"d6/db2/Hyperlinks_8h.html#aa0ca4a111a856da9091a377934f8de93":[7,0,0,0,1,2,11,5,26]
+"d6/db2/Hyperlinks_8h.html#aa0ca4a111a856da9091a377934f8de93":[7,0,0,0,1,2,11,5,26],
+"d6/db2/Hyperlinks_8h.html#aa8156f2996632fd42a2e39b974426995":[7,0,0,0,1,2,11,5,21]
 };

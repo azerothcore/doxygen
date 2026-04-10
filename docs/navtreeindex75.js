@@ -1,5 +1,6 @@
 var NAVTREEINDEX75 =
 {
+"d2/dd1/structMovementInfo.html#a6f0c8141058d03f214afbd779a3420ee":[6,0,1560,7],
 "d2/dd1/structMovementInfo.html#a7a9353ff367c80cddeaddd63fcd32ddb":[6,0,1560,5],
 "d2/dd1/structMovementInfo.html#a809340998de55a9ffa895f7b27e1f2c3":[6,0,1560,2],
 "d2/dd1/structMovementInfo.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2":[6,0,1560,23],
@@ -54,10 +55,10 @@ var NAVTREEINDEX75 =
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html":[6,0,12,2,8],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[5,0,34,2,8,2],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#aa9eda46557031d67b4a675bd998e5b7d":[6,0,12,2,8,2],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[6,0,12,2,8,0],
-"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[6,0,12,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ac8fcfe92c148787a07b77d0b9ebb45cb":[5,0,34,2,8,0],
 "d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[5,0,34,2,8,1],
+"d2/dd2/classWorldPackets_1_1Character_1_1ShowingCloak.html#ad72ae43efc070655aa078d9985369442":[6,0,12,2,8,1],
 "d2/dd2/instance__nexus_8cpp.html":[7,0,0,0,1,3,5,8,1,5],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5":[7,0,0,0,1,3,5,8,1,5,4],
 "d2/dd2/instance__nexus_8cpp.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44":[7,0,0,0,1,3,5,8,1,5,4,0],
@@ -144,14 +145,14 @@ var NAVTREEINDEX75 =
 "d2/dd7/RegularGrid_8h.html":[7,0,0,0,0,1,8],
 "d2/dd7/RegularGrid_8h.html#a7a4127f14f16563da90eb3c836bc404f":[7,0,0,0,0,1,8,4],
 "d2/dd7/RegularGrid_8h.html#ac836977c6cb1a34ebc070436978fb2bb":[7,0,0,0,0,1,8,5],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html":[6,0,0,40],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html":[5,0,1,52],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[5,0,1,52,3],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a2bcba35930178d1cd094ed1c34320997":[6,0,0,40,3],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[6,0,0,40,1],
-"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a507181347374b55f335a9e872293c6e0":[5,0,1,52,1],
 "d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[6,0,0,40,2],
+"d2/dd7/classAcore_1_1ClassLevelLockable.html#a5bf7608e05250fb524a1229bcf83ece3":[5,0,1,52,2],
 "d2/dd9/SnakeTrapEvadeTest_8cpp.html":[7,0,0,0,2,2,0,1,1],
 "d2/ddb/structPyramidEventData.html":[6,0,2469],
 "d2/ddb/structPyramidEventData.html#a09b48f7f6da7e203ed50a8abc7f24e56":[6,0,2469,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX75 =
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#ae095fa3ceb484cc289a086be8c2f2552":[6,0,2063,0,4],
 "d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce":[6,0,2063,0,11],
 "d2/de0/CharacterCache_8h.html":[7,0,0,0,1,2,9,1],
-"d2/de0/CharacterCache_8h.html#a7a32c898b33d6163d83a32f46d58517c":[7,0,0,0,1,2,9,1,2],
-"d2/de0/GuildHandler_8cpp.html":[7,0,0,0,1,2,22,14]
+"d2/de0/CharacterCache_8h.html#a7a32c898b33d6163d83a32f46d58517c":[7,0,0,0,1,2,9,1,2]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX262 =
 {
-"da/d4c/violet__hold_8h.html#a0699cc64e4985a12f33575524379d1a2":[7,0,0,0,1,3,5,12,9,20],
 "da/d4c/violet__hold_8h.html#a08092587c172c89ac657ede7056068ec":[7,0,0,0,1,3,5,12,9,28],
 "da/d4c/violet__hold_8h.html#a0bb7365a02c1bb98957103454ceb870f":[7,0,0,0,1,3,5,12,9,31],
 "da/d4c/violet__hold_8h.html#a0e79b9b50d9f175b1097eb1edcd0055e":[7,0,0,0,1,3,5,12,9,14],
@@ -249,5 +248,6 @@ var NAVTREEINDEX262 =
 "da/d54/structboss__general__zarithrian_1_1boss__general__zarithrianAI.html#ad385477740b728e63acff7c184df3c09":[6,0,511,0,5],
 "da/d56/BattlegroundRL_8h.html":[7,0,0,0,1,2,8,1,15],
 "da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497a":[7,0,0,0,1,2,8,1,15,1],
-"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1":[7,0,0,0,1,2,8,1,15,1,1]
+"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa13210caaf34c5aa100455cf4f74d43d1":[7,0,0,0,1,2,8,1,15,1,1],
+"da/d56/BattlegroundRL_8h.html#a07ba947d37c83568823ee5313377497aa4af54ddc0fa71a41b26c859580db7fb0":[7,0,0,0,1,2,8,1,15,1,0]
 };

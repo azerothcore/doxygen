@@ -1,6 +1,5 @@
 var NAVTREEINDEX256 =
 {
-"da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab750f4548d2ae4ceb6d7f904f37963d5":[7,0,0,0,1,2,48,4,1,295],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab77427da7dfe42dc3356adb6a660e8cb":[7,0,0,0,1,2,48,4,1,124],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab80c7b8fe3f2967f24799a6d8dee10ef":[7,0,0,0,1,2,48,4,1,85],
 "da/d02/WorldConfig_8h.html#a468ad15992691eb97dd20680046832e0ab8469e6a35b02dd3c58e698ce282a54c":[7,0,0,0,1,2,48,4,1,177],
@@ -249,5 +248,6 @@ var NAVTREEINDEX256 =
 "da/d07/classByteBuffer.html#afab3484e1af821859f16b7bdacf2af9c":[6,0,840,53],
 "da/d07/classByteBuffer.html#afc443ee2b0c09e7578b8af8dfb493cf7":[6,0,840,5],
 "da/d07/classByteBuffer.html#afdb94a533a871475d9de79b78dae4ffc":[6,0,840,11],
-"da/d07/classByteBuffer.html#afe554eb627ce4c5761ac6975f186c546":[6,0,840,75]
+"da/d07/classByteBuffer.html#afe554eb627ce4c5761ac6975f186c546":[6,0,840,75],
+"da/d07/structnpc__gilthares_1_1npc__giltharesAI.html":[6,0,1830,0]
 };

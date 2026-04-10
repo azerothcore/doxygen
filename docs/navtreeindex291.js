@@ -1,13 +1,12 @@
 var NAVTREEINDEX291 =
 {
-"db/d7d/classAcore_1_1MostHPMissingInRange.html":[5,0,1,85],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html":[6,0,0,73],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[6,0,0,73,1],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a420388204d8a1420552b902fbcb2bebe":[5,0,1,85,1],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[5,0,1,85,2],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[6,0,0,73,2],
-"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,85,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a4a70531f3dc19e7a2eedde0a03142297":[5,0,1,85,2],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[6,0,0,73,3],
+"db/d7d/classAcore_1_1MostHPMissingInRange.html#a6f803fd737b4cc81c7b9c890c49b497e":[5,0,1,85,3],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[5,0,1,85,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#acef63da9004997c7f25056651284efa9":[6,0,0,73,4],
 "db/d7d/classAcore_1_1MostHPMissingInRange.html#afaa26b685d4e6b0b8d3e7f062ae9fe72":[6,0,0,73,0],
@@ -18,8 +17,8 @@ var NAVTREEINDEX291 =
 "db/d7e/classspell__gurtogg__bloodboil.html#af1173988538ad44c27ea2ed9d49fe06d":[6,0,3147,2],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[5,0,1,8,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html":[6,0,0,5,0,0],
-"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[5,0,1,8,0,0,0],
+"db/d7e/structAcore_1_1Impl_1_1ChatCommands_1_1are__all__assignable.html#ab8bf92ecae8a3a118570d31adcb08db7":[6,0,0,5,0,0,0],
 "db/d7f/classgo__manticron__cube.html":[6,0,1183],
 "db/d7f/classgo__manticron__cube.html#a87d9571aea57f16d38067ebd9e22200d":[6,0,1183,0],
 "db/d7f/classgo__manticron__cube.html#accab4a61f00f5e465fb795b4cbe672bf":[6,0,1183,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX291 =
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2aab45dda114c653ab1487682013f589c9":[7,0,0,0,1,3,5,8,0,0,19,12],
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2ab5caab15a5cd483adccf2f3fc138ce61":[7,0,0,0,1,3,5,8,0,0,19,9],
 "db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2ab7024638b883ad19a43abac06ad0c1af":[7,0,0,0,1,3,5,8,0,0,19,24],
-"db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,8,0,0,19,0]
+"db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2ad7b3e50b45f9949cd0e4030ca19a6b4f":[7,0,0,0,1,3,5,8,0,0,19,0],
+"db/d86/boss__malygos_8cpp.html#ac2564b09bd904957bfd35edd7138e2f2add493ebca917ea94cc54ada3ed8310e5":[7,0,0,0,1,3,5,8,0,0,19,25]
 };

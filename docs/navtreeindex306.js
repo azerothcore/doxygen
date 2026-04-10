@@ -1,6 +1,5 @@
 var NAVTREEINDEX306 =
 {
-"db/de9/classspell__pursue.html":[6,0,3808],
 "db/de9/classspell__pursue.html#a3d864f0428b7e53774d06069037ca5b2":[6,0,3808,0],
 "db/de9/classspell__pursue.html#aafbd4751a01b4ce62dc94eee2e47f64f":[6,0,3808,2],
 "db/de9/classspell__pursue.html#aef8bfe18b42bcc9ad70378c0d78354e7":[6,0,3808,1],
@@ -186,8 +185,8 @@ var NAVTREEINDEX306 =
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html":[5,0,34,6,2],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[6,0,12,6,2,3],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a50b9a5333e2296e654c90fc6394bdbd3":[5,0,34,6,2,3],
-"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[5,0,34,6,2,0],
+"db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a5b27541a26ada694d9635f6d6873ef20":[6,0,12,6,2,0],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[5,0,34,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a8dbde75aaa3102024aa0ff3a8f3625da":[6,0,12,6,2,1],
 "db/def/classWorldPackets_1_1Guild_1_1GuildBankActivate.html#a9b79075c6ee6a4f73ae18c6956eead7c":[5,0,34,6,2,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX306 =
 "db/df2/classHealInfo.html":[6,0,1280],
 "db/df2/classHealInfo.html#a0a00b20efbeb2e5bf515dc98e96aa12d":[6,0,1280,16],
 "db/df2/classHealInfo.html#a2139bd1efadb23063a67d3fef35b424d":[6,0,1280,7],
-"db/df2/classHealInfo.html#a25fe1984f6c3ef5eeb90049ef4749437":[6,0,1280,0]
+"db/df2/classHealInfo.html#a25fe1984f6c3ef5eeb90049ef4749437":[6,0,1280,0],
+"db/df2/classHealInfo.html#a383cc7bb4d30dd72cbfeaedd9b5d5042":[6,0,1280,15]
 };

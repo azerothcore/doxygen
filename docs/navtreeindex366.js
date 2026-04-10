@@ -1,6 +1,5 @@
 var NAVTREEINDEX366 =
 {
-"de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a505fab60b0cf0d90e2d4d2872391d041":[7,0,0,0,1,4,7,103,3],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a5096e821d15526244e32139884c3b589":[7,0,0,0,1,4,7,103,44],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a51fed4c8e6859ef215b312c2ffa00845":[7,0,0,0,1,4,7,103,60],
 "de/d0a/SharedDefines_8h.html#af4541d30ebbff76b1f9f689519789234a5283fe7140d101b9a2f45ffc629db043":[7,0,0,0,1,4,7,103,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX366 =
 "de/d12/classAllCreatureScript.html#aa193e968ecc1639ca33fee052dafb0b3":[6,0,151,3],
 "de/d12/classAllCreatureScript.html#aa5ba65ba430a95724a814311382c9a67":[6,0,151,9],
 "de/d12/classAllCreatureScript.html#aba119c6b59f3dd4a489bb227c1b1208d":[6,0,151,10],
-"de/d12/classAllCreatureScript.html#abba47678a4f5e73c2db3b27b4cfa3dbe":[6,0,151,7]
+"de/d12/classAllCreatureScript.html#abba47678a4f5e73c2db3b27b4cfa3dbe":[6,0,151,7],
+"de/d12/classAllCreatureScript.html#acad4f67abbd5906f38be136be2ae1f53":[6,0,151,11]
 };

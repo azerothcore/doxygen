@@ -1,5 +1,6 @@
 var NAVTREEINDEX133 =
 {
+"d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a":[7,0,0,0,1,2,3,1,5,1,6],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae":[7,0,0,0,1,2,3,1,5,1,0],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b":[7,0,0,0,1,2,3,1,5,1,1],
 "d4/d84/ScriptedFollowerAI_8h.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6":[7,0,0,0,1,2,3,1,5,1,3],
@@ -103,14 +104,14 @@ var NAVTREEINDEX133 =
 "d4/d8a/classspell__gen__proc__not__self.html#a7693a86824050ff5615996d0d03d0292":[6,0,3081,2],
 "d4/d8a/classspell__gen__proc__not__self.html#aa8dac7f0a238f6f131553cbc7a142594":[6,0,3081,1],
 "d4/d8a/classspell__gen__proc__not__self.html#ab376febda606dba5e9f7f5639f867859":[6,0,3081,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[5,0,1,7,0,8],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html":[6,0,0,4,0,8],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[5,0,1,7,0,8,2],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a3538ae91cb7d37c3d0a6a4964f4baaf9":[6,0,0,4,0,8,2],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[6,0,0,4,0,8,0],
-"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a39c517c76f9109f1bccd27cd04ec88cd":[5,0,1,7,0,8,0],
 "d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[5,0,1,7,0,8,1],
+"d4/d8a/structAcore_1_1Hyperlinks_1_1LinkTags_1_1trade.html#a5658d34ee9af224a3d19ba5d5123535e":[6,0,0,4,0,8,1],
 "d4/d8b/classCharacterCache.html":[6,0,868],
 "d4/d8b/classCharacterCache.html#a194ba3a3ffa63f545f3642c3ed6f1f5b":[6,0,868,16],
 "d4/d8b/classCharacterCache.html#a1dc8aebdaecb5a0bfa84a364161dc260":[6,0,868,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX133 =
 "d4/d8f/classnpc__spring__rabbit.html#a968933658fbcc7f7cbdfca90fd9a68dc":[6,0,2145,2],
 "d4/d8f/classspell__gen__overlords__brand__dot.html":[6,0,3071],
 "d4/d8f/classspell__gen__overlords__brand__dot.html#a33c8ed96d3d4efd8841c10af7b7bf470":[6,0,3071,3],
-"d4/d8f/classspell__gen__overlords__brand__dot.html#a8a66eb1c15d8da265deed2c8a8a9cd50":[6,0,3071,0],
-"d4/d8f/classspell__gen__overlords__brand__dot.html#aa2fd33ce33d6882292ba8ee588743fd3":[6,0,3071,1]
+"d4/d8f/classspell__gen__overlords__brand__dot.html#a8a66eb1c15d8da265deed2c8a8a9cd50":[6,0,3071,0]
 };

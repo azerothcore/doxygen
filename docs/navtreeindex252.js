@@ -1,6 +1,5 @@
 var NAVTREEINDEX252 =
 {
-"d9/dec/structboss__yoggsaron__llane.html":[6,0,814],
 "d9/dec/structboss__yoggsaron__llane.html#a0ae3106eac830ed9f14f17e5fa1d45ec":[6,0,814,3],
 "d9/dec/structboss__yoggsaron__llane.html#a0df3a85717ab26ad1ac889d6fe4d8007":[6,0,814,2],
 "d9/dec/structboss__yoggsaron__llane.html#a3043382e2727bc78a74acaec28697045":[6,0,814,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX252 =
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#a7d6fefed563b0b9763b9c63136c65952":[6,0,1350,0,4],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#ae5cd5cf84e8db976f3006dc52bb5fab4":[6,0,1350,0,6],
 "d9/df5/structinstance__razorfen__downs_1_1instance__razorfen__downs__InstanceMapScript.html#aed9ab9542badb0296ca0660c39541cb8":[6,0,1350,0,2],
-"d9/df6/classat__thaddius__entrance.html":[6,0,251]
+"d9/df6/classat__thaddius__entrance.html":[6,0,251],
+"d9/df6/classat__thaddius__entrance.html#acc869cade2b48ceb782d78aa7df6f246":[6,0,251,1]
 };

@@ -1,6 +1,5 @@
 var NAVTREEINDEX373 =
 {
-"de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18eba016eadb9dc423a41bab04bf6dd09b12d":[7,0,0,0,1,2,15,5,27,15],
 "de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18eba3482293b8477a597f275434ed8a1954f":[7,0,0,0,1,2,15,5,27,7],
 "de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18eba3f5055f96dcf8c7ff3868eb00576ac04":[7,0,0,0,1,2,15,5,27,8],
 "de/d3d/LFGMgr_8h.html#af65dbea5eebf3cd1cd16595508fd18eba5b791ae92e1905f16fbaaa41cc9d8ffd":[7,0,0,0,1,2,15,5,27,10],
@@ -179,8 +178,8 @@ var NAVTREEINDEX373 =
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html":[5,0,21,8],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[6,0,6,8,3],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0b49e8a9b40c7bed81a28fb5b284c735":[5,0,21,8,3],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[6,0,6,8,10],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[5,0,21,8,10],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a0fd92998a753ea4ae76fac8c649645ac":[6,0,6,8,10],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00":[5,0,21,8,5],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a14a858b17d96f6d5945ecfa77bc0fb00":[6,0,6,8,5],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a3513a1b33d8682303eae1eaa30615a07":[6,0,6,8,9],
@@ -193,12 +192,12 @@ var NAVTREEINDEX373 =
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a5501534adbc4018b5047599c12a2e582":[6,0,6,8,8],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[5,0,21,8,1],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#a9e09d86e08925e501f9f9a5d73f9119c":[6,0,6,8,1],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[6,0,6,8,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[5,0,21,8,0],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ad46c79822cfc2af7b0fbcab1f4c617fa":[6,0,6,8,0],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[5,0,21,8,6],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#adba40fb00d24af999a1970e3a5fed198":[6,0,6,8,6],
-"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1":[5,0,21,8,7],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1":[6,0,6,8,7],
+"de/d4a/structMMAP_1_1ResolvedMeshConfig.html#ae7421270c917171607ff972483df0ba1":[5,0,21,8,7],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[5,0,21,8,11],
 "de/d4a/structMMAP_1_1ResolvedMeshConfig.html#afa96a254067d2173288479cc60a6c97c":[6,0,6,8,11],
 "de/d4a/structboss__fathomguard__tidalvess.html":[6,0,476],
@@ -249,5 +248,6 @@ var NAVTREEINDEX373 =
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#ae4ebbccc403bcc3621437a36f8678b93":[6,0,743,0,1],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af81105d937124f49bd722ca787d31d58":[6,0,743,0,15],
 "de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af867d86aa20366bfbbfaf8083fe35271":[6,0,743,0,18],
-"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3":[6,0,743,0,19]
+"de/d4b/structboss__the__lich__king_1_1boss__the__lich__kingAI.html#af948b1ee8415f61e3d4fb8841c1ff9e3":[6,0,743,0,19],
+"de/d4c/CreatureScript_8h.html":[7,0,0,0,1,2,38,0,42]
 };

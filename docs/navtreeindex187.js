@@ -1,6 +1,5 @@
 var NAVTREEINDEX187 =
 {
-"d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7693ca0f68e1a5d3d6c41858ac1587af":[7,0,0,0,1,3,2,12,2,8,14],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a8e83c596817726cf2ebf4e2c63ed89d1":[7,0,0,0,1,3,2,12,2,8,9],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4a4902fa353571f6600bc8932d24587":[7,0,0,0,1,3,2,12,2,8,11],
 "d6/de9/boss__felmyst_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abbedbfba7b17057e4023a239034e5a2d":[7,0,0,0,1,3,2,12,2,8,13],
@@ -74,12 +73,12 @@ var NAVTREEINDEX187 =
 "d6/deb/structnpc__blade__of__azzinoth.html#af2925da1235b809ee81469fe32ab0f92":[6,0,1676,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[6,0,12,11,0],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html":[5,0,34,11,0],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[6,0,12,11,0,1],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,12,11,0,2],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a23da60884c312ba0c4da2aeba3385b53":[5,0,34,11,0,1],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[5,0,34,11,0,2],
-"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#a611072003e33b830146fa158646e8ac5":[6,0,12,11,0,2],
 "d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[6,0,12,11,0,0],
+"d6/dec/classWorldPackets_1_1NPC_1_1Hello.html#ad5db4a2f7844da17680932ef154f6ecc":[5,0,34,11,0,0],
 "d6/dec/classachievement__bg__sa__artillery.html":[6,0,44],
 "d6/dec/classachievement__bg__sa__artillery.html#aa81ae215bc91fd4598d7c9a1b02e3fcc":[6,0,44,0],
 "d6/dec/classachievement__bg__sa__artillery.html#ac24f32f872ae32e90f06f642ea2dfebc":[6,0,44,1],
@@ -94,12 +93,12 @@ var NAVTREEINDEX187 =
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a5348d9887ebfd9c0a0016b31d3db8ffb":[6,0,0,95,1],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[5,0,1,107,4],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a7261e79c2980cfb61686c01254d70c8b":[6,0,0,95,4],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[6,0,0,95,6],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#a9bd8d6c842ac2f4cf1f10441216f906c":[5,0,1,107,6],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[5,0,1,107,0],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#aace01efe09c3190b81651d237e2e9a8a":[6,0,0,95,0],
-"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[6,0,0,95,3],
+"d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac45ae498dc7f74426b66344d9367046a":[5,0,1,107,3],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[5,0,1,107,5],
 "d6/dec/structAcore_1_1PlayerListSearcherWithSharedVision.html#ac8e5495912121d8d3baac9d02e947815":[6,0,0,95,5],
 "d6/dee/boss__nethekurse_8cpp.html":[7,0,0,0,1,3,7,4,3,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX187 =
 "d6/df2/scholomance_8h.html#ab311514c010f1b6d935801145e72f604a1cc2ef31f18a4e605a155f7d8a0825b8":[7,0,0,0,1,3,2,8,4,5,0],
 "d6/df2/scholomance_8h.html#ac4ffb2382a9f9767e8bfc13eaf503753":[7,0,0,0,1,3,2,8,4,6],
 "d6/df2/scholomance_8h.html#ac4ffb2382a9f9767e8bfc13eaf503753aaa7b612a87f8deb0659ae742c7816ec8":[7,0,0,0,1,3,2,8,4,6,0],
-"d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,8,4,4]
+"d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744":[7,0,0,0,1,3,2,8,4,4],
+"d6/df2/scholomance_8h.html#acd8b54d8672687df8df94cb3d9a2a744a0d07a28b09e8fc484a6a41fbf0d78608":[7,0,0,0,1,3,2,8,4,4,2]
 };

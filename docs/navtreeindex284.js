@@ -1,6 +1,5 @@
 var NAVTREEINDEX284 =
 {
-"db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html":[6,0,720,0],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3ab4f94e13d414fd6c9eb0ba63941ca9":[6,0,720,0,7],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a3b91eb7c2aa2aeb356c51e81f449b0a5":[6,0,720,0,6],
 "db/d2a/structboss__slad__ran_1_1boss__slad__ranAI.html#a4700f8c06e5fa43fc1719c19cfe79b24":[6,0,720,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX284 =
 "db/d3d/structnpc__supervisor__raelen.html#ab709a5a975c22556dfe71dce52a3ec2c":[6,0,2161,3],
 "db/d3d/structnpc__supervisor__raelen.html#ae3e44b8f29f05c771137c5b9afd5da56":[6,0,2161,6],
 "db/d3e/classnpc__icc__vengeful__fleshreaper.html":[6,0,1897],
-"db/d3e/classnpc__icc__vengeful__fleshreaper.html#aa95ec1e021f3d123e5a95c356765ac36":[6,0,1897,1]
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html#aa95ec1e021f3d123e5a95c356765ac36":[6,0,1897,1],
+"db/d3e/classnpc__icc__vengeful__fleshreaper.html#abf1903616dbf52718313c8b404b504a5":[6,0,1897,2]
 };

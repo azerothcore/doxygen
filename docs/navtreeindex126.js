@@ -1,5 +1,6 @@
 var NAVTREEINDEX126 =
 {
+"d4/d4a/classspell__dru__dash.html":[6,0,2861],
 "d4/d4a/classspell__dru__dash.html#a50d1284f1113bfdd0b39690efabe6b9b":[6,0,2861,2],
 "d4/d4a/classspell__dru__dash.html#a583e19667a83ada4cd793fbf391f9e93":[6,0,2861,0],
 "d4/d4a/classspell__dru__dash.html#ac6adda0dbe544cf2457060647c01de0f":[6,0,2861,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX126 =
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08aba0093f918c447c2f45a81f92def2d48":[7,0,0,0,1,3,2,15,2,5,5],
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abaea72f32d91c4c2b198760d28abc317":[7,0,0,0,1,3,2,15,2,5,4],
 "d4/d57/boss__hexlord_8cpp.html#a292390cf431fe7e742e797ff157e0b1d":[7,0,0,0,1,3,2,15,2,11],
-"d4/d57/boss__hexlord_8cpp.html#a2cab39858986fd0fc663c84b508ad899":[7,0,0,0,1,3,2,15,2,10],
-"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,15,2,6]
+"d4/d57/boss__hexlord_8cpp.html#a2cab39858986fd0fc663c84b508ad899":[7,0,0,0,1,3,2,15,2,10]
 };

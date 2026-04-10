@@ -1,6 +1,5 @@
 var NAVTREEINDEX408 =
 {
-"df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62":[7,0,0,0,0,9,3,1,5],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66":[7,0,0,0,0,9,3,1,15],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca":[7,0,0,0,0,9,3,1,2],
 "df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc":[7,0,0,0,0,9,3,1,6],
@@ -249,5 +248,6 @@ var NAVTREEINDEX408 =
 "df/dd6/structnpc__ranshalla_1_1npc__ranshallaAI.html#afabe9208f01fe3d2f128feba8f18426d":[6,0,2092,0,8],
 "df/dd8/classDBCStorage.html":[6,0,982],
 "df/dd8/classDBCStorage.html#a00d89ccb706cdf73c3cd3840333504cc":[6,0,982,6],
-"df/dd8/classDBCStorage.html#a1aac83146adf1d72b98f641acf133353":[6,0,982,1]
+"df/dd8/classDBCStorage.html#a1aac83146adf1d72b98f641acf133353":[6,0,982,1],
+"df/dd8/classDBCStorage.html#a2002a0adee55fa79ec5a0cceab48b607":[6,0,982,16]
 };

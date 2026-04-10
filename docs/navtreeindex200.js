@@ -1,6 +1,5 @@
 var NAVTREEINDEX200 =
 {
-"d7/d95/classPoolMgr.html#ab663ca46d1d21386611d941b92e44982":[6,0,2435,31],
 "d7/d95/classPoolMgr.html#ab7cc5975388e76aa4a3d0b4ab878a3fc":[6,0,2435,27],
 "d7/d95/classPoolMgr.html#ab7cc5975388e76aa4a3d0b4ab878a3fc":[6,0,2435,26],
 "d7/d95/classPoolMgr.html#abb7cd094775d8c3a5a43d297758932b3":[6,0,2435,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX200 =
 "d7/d9c/pet__dk_8cpp.html#ac6a5b089240cd6b996928b3e7f9137b3":[7,0,0,0,1,3,8,0,7],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html":[6,0,295,2],
 "d7/d9d/classAuraScript_1_1AuraProcHandler.html#a1c0ad4a28c98d89a0afc2f8eeda9a421":[6,0,295,2,0],
-"d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[6,0,295,2,1]
+"d7/d9d/classAuraScript_1_1AuraProcHandler.html#abc0c3be9dee08e995c282f20900f3c46":[6,0,295,2,1],
+"d7/d9d/classAuraScript_1_1AuraProcHandler.html#ada8d7a5659598b0092739a91ba2653bd":[6,0,295,2,2]
 };

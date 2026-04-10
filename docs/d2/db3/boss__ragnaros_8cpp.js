@@ -14,6 +14,7 @@ var boss__ragnaros_8cpp =
       [ "EVENT_MIGHT_OF_RAGNAROS", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7ec54dce2a596818173b2fe815f4457f", null ],
       [ "EVENT_LAVA_BURST", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae0ed0ed92f8676f6226a5f9b7204e781", null ],
       [ "EVENT_MAGMA_BLAST", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a24dc2e909ec5d3b36617a41f672ec19f", null ],
+      [ "EVENT_MELEE_SCAN", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a24ed6259105f068127938045c579c6d8", null ],
       [ "EVENT_SUBMERGE", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ac03b7f1947bf9753f19061f508b61a73", null ],
       [ "EVENT_LAVA_BURST_TRIGGER", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55569ce7931057033a82a73f91faaf32", null ],
       [ "EVENT_EMERGE", "d2/db3/boss__ragnaros_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a195f6417cd6d29f73dab0b90876d138d", null ],

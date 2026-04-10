@@ -1,5 +1,6 @@
 var NAVTREEINDEX147 =
 {
+"d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca67ed0ad97ee7ee1b27fe6a7edecac561":[7,0,0,0,1,3,7,7,1,0],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca9800763953f1a9c1bcaaed29bcaf48ed":[7,0,0,0,1,3,7,7,1,5],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298ca99eaf912c120c7fa6d85748ebf96aebb":[7,0,0,0,1,3,7,7,1,1],
 "d5/d32/boss__doomwalker_8cpp.html#a5bd342133be8c2137b831460acc9298caa2f301d11bf86d5d4459d0094e2f87d0":[7,0,0,0,1,3,7,7,1,6],
@@ -105,14 +106,14 @@ var NAVTREEINDEX147 =
 "d5/d33/classGlobalCooldownMgr.html#aed6b479416104dc536116fdb1e24fcf3":[6,0,1129,2],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[6,0,0,90],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html":[5,0,1,102],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[6,0,0,90,0],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a40af6d4d15e92aaaf2c9bb53ce9bb290":[5,0,1,102,0],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[6,0,0,90,3],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a70e9a07e4c2c559bc55b8003db3af3be":[5,0,1,102,3],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[6,0,0,90,1],
-"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#a9cbd09a6021bef7819a0002952264293":[5,0,1,102,1],
 "d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[6,0,0,90,2],
+"d5/d34/classAcore_1_1ObjectTypeIdCheck.html#ab08a6e18731ccb822a71a1530f6966c3":[5,0,1,102,2],
 "d5/d34/classspell__item__lifegiving__gem.html":[6,0,3388],
 "d5/d34/classspell__item__lifegiving__gem.html#a4dde221fa768ef5c6b99c981969f35fe":[6,0,3388,0],
 "d5/d34/classspell__item__lifegiving__gem.html#a73458b57dc107b3215cf5d44567d330f":[6,0,3388,3],
@@ -237,10 +238,10 @@ var NAVTREEINDEX147 =
 "d5/d43/TileAssembler_8cpp.html#aaf506ecfd782214a75bd609db9bef004":[7,0,0,0,0,1,1,3,4],
 "d5/d43/TileAssembler_8cpp.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d":[7,0,0,0,0,1,1,3,3],
 "d5/d43/TileAssembler_8cpp.html#abb356574335eee18efd5e1f4ed707637":[7,0,0,0,0,1,1,3,2],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[5,0,1,8,0,28],
-"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html":[6,0,0,5,0,28],
 "d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[5,0,1,8,0,28,0],
+"d5/d43/structAcore_1_1Impl_1_1ChatCommands_1_1MultiConsumer_3_01Tuple_00_01Optional_3_01NestedNextType_01_4_00_01offset_01_4.html#a0e6df60e4195364958e85632e43b4ad0":[6,0,0,5,0,28,0],
 "d5/d44/classspell__item__heartpierce__hero.html":[6,0,3384],
 "d5/d44/classspell__item__heartpierce__hero.html#a331d005fdb7ec53b49c1edc46209d8ea":[6,0,3384,1],
 "d5/d44/classspell__item__heartpierce__hero.html#a8a1afed2a17841f52c355214ab49b3af":[6,0,3384,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX147 =
 "d5/d44/classspell__item__heartpierce__hero.html#af9e07a3f65285bc82126b21b030a69e8":[6,0,3384,3],
 "d5/d44/structadt__liquid__attributes.html":[6,0,134],
 "d5/d44/structadt__liquid__attributes.html#a929299daf6bc46aa775b9b0fa055c9e2":[6,0,134,1],
-"d5/d44/structadt__liquid__attributes.html#a9efcd2f19d9701713666f1ad2285d992":[6,0,134,0],
-"d5/d44/structboss__warlord__kalithresh.html":[6,0,789]
+"d5/d44/structadt__liquid__attributes.html#a9efcd2f19d9701713666f1ad2285d992":[6,0,134,0]
 };
