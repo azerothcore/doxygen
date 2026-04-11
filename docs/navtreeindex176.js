@@ -1,5 +1,8 @@
 var NAVTREEINDEX176 =
 {
+"d6/d5f/boss__pyroguard__emberseer_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aff9ec4d21319a9a6d64c4ccac6bda35f":[7,0,0,0,1,3,2,1,1,8,2,4],
+"d6/d5f/structnpc__ashtongue__channeler.html":[6,0,1645],
+"d6/d5f/structnpc__ashtongue__channeler.html#a4f58bbd2c44f7a3f9835fd55408ffaf4":[6,0,1645,3],
 "d6/d5f/structnpc__ashtongue__channeler.html#ab935559c19b18f9c94dd36c85be5b3b2":[6,0,1645,1],
 "d6/d5f/structnpc__ashtongue__channeler.html#af7217d00f87e56e5cdb411fcad161b51":[6,0,1645,0],
 "d6/d5f/structnpc__ashtongue__channeler.html#af855dfa521404c4e6127a9bf12a75604":[6,0,1645,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX176 =
 "d6/d6e/EnumFlag_8h.html#ac8aaa198de31cb5a3b217d0968f30a3b":[7,0,0,0,0,15,7,6],
 "d6/d6e/EnumFlag_8h.html#ae0992e010612850442fc56bcf2d44b47":[7,0,0,0,0,15,7,3],
 "d6/d6e/classDatabaseScript.html":[6,0,974],
-"d6/d6e/classDatabaseScript.html#a2f4e91e2b1192c0ceb399cd93eb33ee3":[6,0,974,2],
-"d6/d6e/classDatabaseScript.html#aab34b85df1a5ccdf17fede64baca4994":[6,0,974,0],
-"d6/d6e/classDatabaseScript.html#ab52afc833cb462693f5e0d79cff6bb3f":[6,0,974,3],
-"d6/d6e/classDatabaseScript.html#af4321bb95ed9bb3bb0e5a8a93c89c235":[6,0,974,1]
+"d6/d6e/classDatabaseScript.html#a2f4e91e2b1192c0ceb399cd93eb33ee3":[6,0,974,2]
 };

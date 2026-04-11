@@ -1,5 +1,8 @@
 var NAVTREEINDEX266 =
 {
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,10,76],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca0224e46daa4773073e41dcfb7a46a777":[7,0,0,0,1,3,5,6,10,76,34],
+"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca035c38568326173ddf36e33fe40b5455":[7,0,0,0,1,3,5,6,10,76,73],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca04758e6cf7f15ccafe6a2c5e8592227e":[7,0,0,0,1,3,5,6,10,76,31],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca05274cb6d042bf4e612fb2132be19b27":[7,0,0,0,1,3,5,6,10,76,27],
 "da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca0a7756a84f2f30a389576b6c33086973":[7,0,0,0,1,3,5,6,10,76,87],
@@ -230,10 +233,10 @@ var NAVTREEINDEX266 =
 "da/d79/classspell__threatening__gaze__charge.html#a95e85ecfcc5b72c250a0bc184b1d32a7":[6,0,4193,1],
 "da/d7b/MapMgr_8h.html":[7,0,0,0,1,2,26,10],
 "da/d7b/MapMgr_8h.html#a9132749f8376c48b0ca7212eb3293905":[7,0,0,0,1,2,26,10,1],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[6,0,8,0],
-"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html":[5,0,29,0],
 "da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[5,0,29,0,0],
+"da/d7c/structstd_1_1hash_3_01ObjectGuid_01_4.html#abf1eada3c86b3be6a9360e359a59930b":[6,0,8,0,0],
 "da/d7e/boss__kiljaeden_8cpp.html":[7,0,0,0,1,3,2,12,4],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dc":[7,0,0,0,1,3,2,12,4,18],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca0280995450e87c95815ba28d7f860f62":[7,0,0,0,1,3,2,12,4,18,40],
@@ -246,8 +249,5 @@ var NAVTREEINDEX266 =
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca227231850a685cf986fdb700eec0cd8a":[7,0,0,0,1,3,2,12,4,18,12],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca2a812fc5a2a6edf9e839262474e0ca83":[7,0,0,0,1,3,2,12,4,18,33],
 "da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca2a94811cb9ca81a99ff3ad9bc65d776d":[7,0,0,0,1,3,2,12,4,18,47],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca2f13a322afedf18cd500245ea1eb0bff":[7,0,0,0,1,3,2,12,4,18,46],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca3439f89e68f7d40a9745c0875ce13b96":[7,0,0,0,1,3,2,12,4,18,5],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca360556d69ca999828ad6780187315af6":[7,0,0,0,1,3,2,12,4,18,13],
-"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca37804d8d4cad7160be3fbdac4a4c7f57":[7,0,0,0,1,3,2,12,4,18,42]
+"da/d7e/boss__kiljaeden_8cpp.html#a02e384ccca4dd05dad4eab9d15f6a4dca2f13a322afedf18cd500245ea1eb0bff":[7,0,0,0,1,3,2,12,4,18,46]
 };

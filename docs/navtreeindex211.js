@@ -1,5 +1,8 @@
 var NAVTREEINDEX211 =
 {
+"d7/dce/classgo__darkmoon__faire__music.html#ab8dd92213e1c2815ff9498267b09b5f2":[6,0,1159,1],
+"d7/dce/classspell__black__morass__corrupt__medivh.html":[6,0,2665],
+"d7/dce/classspell__black__morass__corrupt__medivh.html#a59e8723d8b73f45075db47e1e09e15fb":[6,0,2665,0],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#a7bacc1ebd4b98e5e43b74e13471b2063":[6,0,2665,2],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#ab858e9f6505fa32cc7325087d29fee8b":[6,0,2665,4],
 "d7/dce/classspell__black__morass__corrupt__medivh.html#acc4db638e0d858085dc3fb2d6b45f7ec":[6,0,2665,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX211 =
 "d7/de4/classachievement__share__the__love.html#a3eaa89eaa356b0e2f8b5c688439baf9c":[6,0,91,0],
 "d7/de4/classachievement__share__the__love.html#a9d6b6d19611d1482111692de9f2b1cc8":[6,0,91,1],
 "d7/de4/structGossipTextOption.html":[6,0,1236],
-"d7/de4/structGossipTextOption.html#a046d637b91807db067c6e7050184322d":[6,0,1236,4],
-"d7/de4/structGossipTextOption.html#a0f67a651fdb3f3217279015c9e3fb292":[6,0,1236,1],
-"d7/de4/structGossipTextOption.html#a33bc5a0c156918b00380710aeb275d3d":[6,0,1236,2],
-"d7/de4/structGossipTextOption.html#a5c743df7a7ad634c5b3f3376547fda00":[6,0,1236,3]
+"d7/de4/structGossipTextOption.html#a046d637b91807db067c6e7050184322d":[6,0,1236,4]
 };

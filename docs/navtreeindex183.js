@@ -1,5 +1,8 @@
 var NAVTREEINDEX183 =
 {
+"d6/db2/Hyperlinks_8h.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec":[7,0,0,0,1,2,11,5,28],
+"d6/db2/Hyperlinks_8h.html#aa0ca4a111a856da9091a377934f8de93":[7,0,0,0,1,2,11,5,26],
+"d6/db2/Hyperlinks_8h.html#aa8156f2996632fd42a2e39b974426995":[7,0,0,0,1,2,11,5,21],
 "d6/db2/Hyperlinks_8h.html#aae3a6cd0fbf426755d93a387882ff767":[7,0,0,0,1,2,11,5,25],
 "d6/db2/Hyperlinks_8h.html#abe0a588f1c0e66d33c8bc7a7d0a04459":[7,0,0,0,1,2,11,5,31],
 "d6/db2/Hyperlinks_8h.html#ae0c637d10c728f04dc2468c15c3f8dca":[7,0,0,0,1,2,11,5,30],
@@ -70,8 +73,8 @@ var NAVTREEINDEX183 =
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0":[7,0,0,0,1,3,10,6,4,2],
 "d6/db9/guards_8cpp.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe":[7,0,0,0,1,3,10,6,4,0],
 "d6/db9/guards_8cpp.html#acba582cbc90c710c629dd30926acdca4":[7,0,0,0,1,3,10,6,5],
-"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[6,0,0,5,0,29],
+"d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html":[5,0,1,8,0,29],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[6,0,0,5,0,29,0],
 "d6/db9/structAcore_1_1Impl_1_1ChatCommands_1_1tag__base.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9":[5,0,1,8,0,29,0],
 "d6/dba/CombatAI_8h.html":[7,0,0,0,1,2,3,0,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX183 =
 "d6/dbf/structInstancePlayerBind.html#abc20bba094d04eb724d03b8290102981":[6,0,1386,0],
 "d6/dc0/structCreatureSpellCooldown.html":[6,0,954],
 "d6/dc0/structCreatureSpellCooldown.html#a27330a80d711087f1894b2ce816c33b8":[6,0,954,2],
-"d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[6,0,954,1],
-"d6/dc0/structCreatureSpellCooldown.html#a6d234a93951992640df5720a2885be3e":[6,0,954,0],
-"d6/dc0/structCreatureSpellCooldown.html#a9c1c5f2b6e9a6cd015085e79b043e483":[6,0,954,3],
-"d6/dc1/ChatCommandTags_8h.html":[7,0,0,0,1,2,11,1,7]
+"d6/dc0/structCreatureSpellCooldown.html#a53364a501b0ce66e05ec0e6638f6cb6e":[6,0,954,1]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX162 =
 {
+"d5/def/boss__slad__ran_8cpp.html#a5bd342133be8c2137b831460acc9298cacc9dae7761c0a41d5d1a75be221bc43b":[7,0,0,0,1,3,5,5,4,5,0],
+"d5/def/boss__slad__ran_8cpp.html#a67931b66fc07e34d3471e3aea9c8376a":[7,0,0,0,1,3,5,5,4,7],
+"d5/def/boss__slad__ran_8cpp.html#af01054686f3a6bc527da61dd2dbfdf1d":[7,0,0,0,1,3,5,5,4,8],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[6,0,12,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html":[5,0,34,6,29],
 "d5/def/classWorldPackets_1_1Guild_1_1GuildEventLogQuery.html#a48881f116070d5a7c03e7cace86656f6":[5,0,34,6,29,1],
@@ -208,10 +211,10 @@ var NAVTREEINDEX162 =
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ab7cd80daa30d8a39289c704cc0a2064f":[6,0,0,72,0],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[5,0,1,84,1],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ad1b4a4894dd652237a7a789ef5619f4b":[6,0,0,72,1],
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[5,0,1,84,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[6,0,0,72,3],
-"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[6,0,0,72,2],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae0d85f9738301b40c3e950b02ee20026":[5,0,1,84,3],
 "d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[5,0,1,84,2],
+"d5/df2/classAcore_1_1MostHPMissingGroupInRange.html#ae61cafc52cb6d33cd78422c41bd3bb08":[6,0,0,72,2],
 "d5/df2/structMySQLType_3_01int8_01_4.html":[6,0,1578],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html":[6,0,1718,0],
 "d5/df2/structnpc__concentrated__ball_1_1npc__concentrated__ballAI.html#a07845a436ded9c799b742ac9e27cc1bd":[6,0,1718,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX162 =
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#aade0fc294bf0044c3702ef1a10c1dbca":[6,0,1355,0,11],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ab0ad333c9e6b819060f2dcb09e4086e8":[6,0,1355,0,10],
 "d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ab2f5b7333d09dd480a60004cc001dad7":[6,0,1355,0,12],
-"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ac321ae0d11075e61b487f7723553a8c6":[6,0,1355,0,8],
-"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#acc973023282f0cc264436f242f640280":[6,0,1355,0,7],
-"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ace5725c66d3c0c19cea850ca6b9fb8f9":[6,0,1355,0,3],
-"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ae28f9a4784448ad00206e88f135c04ab":[6,0,1355,0,9]
+"d5/df4/structinstance__scholomance_1_1instance__scholomance__InstanceMapScript.html#ac321ae0d11075e61b487f7723553a8c6":[6,0,1355,0,8]
 };

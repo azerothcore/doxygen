@@ -1,5 +1,8 @@
 var NAVTREEINDEX218 =
 {
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba44e737c1cd125eaccab2769989e87736":[7,0,0,0,1,1,0,0,3,1,59],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba4a7dcdba7c9e8aeda8e34fba9d1da0b8":[7,0,0,0,1,1,0,0,3,1,99],
+"d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba4f6a2b080a418eb5b82581973b83964b":[7,0,0,0,1,1,0,0,3,1,97],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba501cb23965fc47e1140452ae7cf171be":[7,0,0,0,1,1,0,0,3,1,4],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba51a9baeacbb62b6c0a13f7be09e09792":[7,0,0,0,1,1,0,0,3,1,44],
 "d8/d37/LoginDatabase_8h.html#a2bc6eef17d8ecd1b7027058f5fecc9fba52284772870b1649e11a21df1af04991":[7,0,0,0,1,1,0,0,3,1,48],
@@ -246,8 +249,5 @@ var NAVTREEINDEX218 =
 "d8/d45/classAuraStub.html#a2a520f033919b7debef00f5acda99019":[6,0,297,41],
 "d8/d45/classAuraStub.html#a302b190366d2c9361ef69b86296a36d3":[6,0,297,22],
 "d8/d45/classAuraStub.html#a349ac0a5abc039a57ec407295f5e4007":[6,0,297,6],
-"d8/d45/classAuraStub.html#a399397839eb3f7f72660b0edf4449fda":[6,0,297,20],
-"d8/d45/classAuraStub.html#a3ca4c53254b1d30a5ade59d874cac50b":[6,0,297,3],
-"d8/d45/classAuraStub.html#a447ad026454b641c1410ee46a8ef92ca":[6,0,297,8],
-"d8/d45/classAuraStub.html#a476d62126b1ec72ffcb79c3c89bfead6":[6,0,297,5]
+"d8/d45/classAuraStub.html#a399397839eb3f7f72660b0edf4449fda":[6,0,297,20]
 };

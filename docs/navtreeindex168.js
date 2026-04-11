@@ -1,5 +1,8 @@
 var NAVTREEINDEX168 =
 {
+"d6/d1a/boss__valithria__dreamwalker_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aed28a8be687a7f82b1bd99b946a1f43b":[7,0,0,0,1,3,5,6,11,36,14],
+"d6/d1a/classOutdoorPvPEP.html":[6,0,2359],
+"d6/d1a/classOutdoorPvPEP.html#a09e5cf029656af3fc740b236596d42ee":[6,0,2359,10],
 "d6/d1a/classOutdoorPvPEP.html#a251b154abfaec9cbfb1a56e657ac5214":[6,0,2359,4],
 "d6/d1a/classOutdoorPvPEP.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1":[6,0,2359,11],
 "d6/d1a/classOutdoorPvPEP.html#a7e8fcf50f88bdb56b189877721a1f006":[6,0,2359,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX168 =
 "d6/d23/structSpellValue.html#a69ea555bb8ae6642a0c9c85b3f9b373c":[6,0,4436,5],
 "d6/d23/structSpellValue.html#af44c190ba8a8636d78f8d271656bdd02":[6,0,4436,1],
 "d6/d23/structSpellValue.html#af81b9a29e521e28a4e88b8677f05a93f":[6,0,4436,6],
-"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[6,0,4436,2],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[6,0,2196,0],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[6,0,2196,0,3],
-"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[6,0,2196,0,2]
+"d6/d23/structSpellValue.html#af9d7a902bd7d6a24f2ef9480e725d8e8":[6,0,4436,2]
 };

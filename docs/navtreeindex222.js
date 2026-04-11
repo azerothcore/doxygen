@@ -1,5 +1,8 @@
 var NAVTREEINDEX222 =
 {
+"d8/d70/classboss__renataki.html":[6,0,686],
+"d8/d70/classboss__renataki.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a":[6,0,686,2],
+"d8/d70/classboss__renataki.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6":[6,0,686,1],
 "d8/d71/classspell__item__brittle__armor.html":[6,0,3323],
 "d8/d71/classspell__item__brittle__armor.html#a74dc9d9a57ed410b3c0d690418bfb4eb":[6,0,3323,1],
 "d8/d71/classspell__item__brittle__armor.html#a8769cbce815d1f1c457979743e10535c":[6,0,3323,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX222 =
 "d8/d74/classWorldSession.html#a47f3035a702dcec5384d575593efd0c9":[4,1,19,156],
 "d8/d74/classWorldSession.html#a47fa0d32b0cbbffadfcbf99d0cacc8ec":[4,1,19,531],
 "d8/d74/classWorldSession.html#a47fd2385b73c7888e3048839127ff8f6":[4,1,19,1],
-"d8/d74/classWorldSession.html#a485122853dc7095cbedeea73ec307f43":[4,1,19,437],
-"d8/d74/classWorldSession.html#a48aa6a0623a2a8c3e6bc58753a525d0b":[4,1,19,305],
-"d8/d74/classWorldSession.html#a4926aeffc64b347414dedf9b3076f3df":[4,1,19,591],
-"d8/d74/classWorldSession.html#a4937159253f27798485871f0c0de0427":[4,1,19,72]
+"d8/d74/classWorldSession.html#a485122853dc7095cbedeea73ec307f43":[4,1,19,437]
 };

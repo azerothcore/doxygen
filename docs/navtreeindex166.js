@@ -1,5 +1,8 @@
 var NAVTREEINDEX166 =
 {
+"d6/d0b/structboss__flame__leviathan__seat.html#a303c50b5684410013f95b0202ea33c8e":[6,0,487,5],
+"d6/d0b/structboss__flame__leviathan__seat.html#a490fdbcb665f37f0b40a35a6cebe77cf":[6,0,487,3],
+"d6/d0b/structboss__flame__leviathan__seat.html#a88d8a972e5f079c0111c0f189d599e8c":[6,0,487,1],
 "d6/d0b/structboss__flame__leviathan__seat.html#a9772b52283f16120dbefb5d218844c38":[6,0,487,7],
 "d6/d0b/structboss__flame__leviathan__seat.html#ac0f5d43d4be0773fdae62d0ab433713f":[6,0,487,2],
 "d6/d0b/structboss__flame__leviathan__seat.html#aec34fec1a6a3857ea7895a2762bf82d0":[6,0,487,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX166 =
 "d6/d11/magisters__terrace_8h.html#ace003ea34649a460da4afbd65b38c987":[7,0,0,0,1,3,2,5,5,9],
 "d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3":[7,0,0,0,1,3,2,5,5,5],
 "d6/d11/magisters__terrace_8h.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222":[7,0,0,0,1,3,2,5,5,5,0],
-"d6/d12/classspell__leotheras__insidious__whisper.html":[6,0,3542],
-"d6/d12/classspell__leotheras__insidious__whisper.html#a8622bc4d61c5c236349d4b12c2a6b10d":[6,0,3542,1],
-"d6/d12/classspell__leotheras__insidious__whisper.html#ac20676c292d87276e444bad56d71960d":[6,0,3542,0],
-"d6/d12/classspell__leotheras__insidious__whisper.html#ae356b768872de3e87806c19bf8cccb08":[6,0,3542,2]
+"d6/d12/classspell__leotheras__insidious__whisper.html":[6,0,3542]
 };

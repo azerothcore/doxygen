@@ -1,5 +1,8 @@
 var NAVTREEINDEX385 =
 {
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea63b6a39aa642f2e0d8c55829cf8e7205":[7,0,0,0,1,3,7,4,3,5,2,11],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea980c7943a6b8da340ba5250e5b0d0bc6":[7,0,0,0,1,3,7,4,3,5,2,12],
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea98f942453c3a388805f7d6936bf7838c":[7,0,0,0,1,3,7,4,3,5,2,19],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae3b230661d1ce2817df65021744b28b":[7,0,0,0,1,3,7,4,3,5,2,0],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eaae6f40ad8a42f5bfe6b72df5db730fe2":[7,0,0,0,1,3,7,4,3,5,2,20],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963eab1c1e7e7e958d45e162c75fccdb3a686":[7,0,0,0,1,3,7,4,3,5,2,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX385 =
 "de/dbf/structnpc__hallows__end__train__fire.html":[6,0,1851],
 "de/dbf/structnpc__hallows__end__train__fire.html#a0aacc53a7410590e8d1f05aa8d3e37ba":[6,0,1851,0],
 "de/dbf/structnpc__hallows__end__train__fire.html#a5767b2a5a2ca1813812cf078b0dd1189":[6,0,1851,2],
-"de/dbf/structnpc__hallows__end__train__fire.html#a686a565e1743c31166d8d57f67a0adce":[6,0,1851,3],
-"de/dbf/structnpc__hallows__end__train__fire.html#a7fa7d23a587ab632d1b9a2b803f83cd4":[6,0,1851,4],
-"de/dbf/structnpc__hallows__end__train__fire.html#afdda52e0adce23f56fa9d1357469a17d":[6,0,1851,1],
-"de/dc0/boss__bronjahm_8cpp.html":[7,0,0,0,1,3,5,4,0,0]
+"de/dbf/structnpc__hallows__end__train__fire.html#a686a565e1743c31166d8d57f67a0adce":[6,0,1851,3]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX237 =
 {
+"d9/d17/structBattlegroundObjectInfo.html#a6722b83d6969c1a34b4846f19865075a":[6,0,345,1],
+"d9/d17/structBattlegroundObjectInfo.html#a7eaf1fbe40f3a7918965da8d5ac81a50":[6,0,345,3],
+"d9/d17/structBattlegroundObjectInfo.html#a848f2b15f47ceeb91c40e916d5659486":[6,0,345,0],
 "d9/d17/structBattlegroundObjectInfo.html#ae0233a1078bc735e40855ea7608f5f11":[6,0,345,2],
 "d9/d18/MySQLThreading_8cpp.html":[7,0,0,0,1,1,0,19],
 "d9/d18/Vehicle_8h.html":[7,0,0,0,1,2,16,11,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX237 =
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#a8ee22a276535a3a9c2f12a62e984d55b":[6,0,2113,0,6],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#aa470197f0949a413c421bda8c7c09279":[6,0,2113,0,1],
 "d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ab642188631b67ae5ff5fd312eaf37ff0":[6,0,2113,0,3],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ac37287a77e37785b606c742ff8d6eeeb":[6,0,2113,0,4],
-"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#add19812d92d62b602f96ffc5fb513d6c":[6,0,2113,0,2],
-"d9/d2d/zone__desolace_8cpp.html":[7,0,0,0,1,3,4,18],
-"d9/d2d/zone__desolace_8cpp.html#a4242da8a27377879882360b83ee517d5":[7,0,0,0,1,3,4,18,6]
+"d9/d2d/structnpc__scarlet__courier_1_1npc__scarlet__courierAI.html#ac37287a77e37785b606c742ff8d6eeeb":[6,0,2113,0,4]
 };

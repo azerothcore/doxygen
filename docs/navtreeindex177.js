@@ -1,5 +1,8 @@
 var NAVTREEINDEX177 =
 {
+"d6/d6e/classDatabaseScript.html#aab34b85df1a5ccdf17fede64baca4994":[6,0,974,0],
+"d6/d6e/classDatabaseScript.html#ab52afc833cb462693f5e0d79cff6bb3f":[6,0,974,3],
+"d6/d6e/classDatabaseScript.html#af4321bb95ed9bb3bb0e5a8a93c89c235":[6,0,974,1],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html":[6,0,55],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html#a30a94a92aacc558d6833994c11f3ee8a":[6,0,55,0],
 "d6/d6e/classachievement__flame__leviathan__unbroken.html#a78c69e3217b6598ab238a4f51ba598eb":[6,0,55,1],
@@ -94,10 +97,10 @@ var NAVTREEINDEX177 =
 "d6/d73/classspell__gluth__decimate__damage.html":[6,0,3134],
 "d6/d73/classspell__gluth__decimate__damage.html#a09b852666752f6adde3f9e5bb1f107bc":[6,0,3134,0],
 "d6/d73/classspell__gluth__decimate__damage.html#a80c3077f8f689367276e1054a6236681":[6,0,3134,1],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[6,0,0,5,0,16],
-"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html":[5,0,1,8,0,16],
 "d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[6,0,0,5,0,16,0],
+"d6/d73/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01T_00_01std_1_1enable__if__t_3_01std_1_1is__inc46755e67ecbf9786bd6c03f45bc1af0.html#a3868b3d4e55cdcd1c1591d8bd09bae5d":[5,0,1,8,0,16,0],
 "d6/d73/structnpc__mimirons__inferno.html":[6,0,1983],
 "d6/d73/structnpc__mimirons__inferno.html#a0683c956325801b63e7e31b8485f35bd":[6,0,1983,11],
 "d6/d73/structnpc__mimirons__inferno.html#a0d1122895c25211ca4c71cb651f13cef":[6,0,1983,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX177 =
 "d6/d79/classOPvPCapturePoint.html#a086088ad6ceefa780717788f17452ea5":[6,0,2335,42],
 "d6/d79/classOPvPCapturePoint.html#a091ce24cdf64c5d31902a4977a9ff820":[6,0,2335,31],
 "d6/d79/classOPvPCapturePoint.html#a095a169792ea6bb9793b116b08327286":[6,0,2335,36],
-"d6/d79/classOPvPCapturePoint.html#a1126a3446be336ec8518b9738147d69e":[6,0,2335,39],
-"d6/d79/classOPvPCapturePoint.html#a17b8c218e8bb3b86489b387d56b06373":[6,0,2335,33],
-"d6/d79/classOPvPCapturePoint.html#a1bace9092e2f8dd67546e106c4d1b18a":[6,0,2335,9],
-"d6/d79/classOPvPCapturePoint.html#a2c8be3012fa53c7e166cb8d4072cc858":[6,0,2335,7]
+"d6/d79/classOPvPCapturePoint.html#a1126a3446be336ec8518b9738147d69e":[6,0,2335,39]
 };

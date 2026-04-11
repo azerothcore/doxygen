@@ -1,5 +1,8 @@
 var NAVTREEINDEX169 =
 {
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html":[6,0,2196,0],
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a6bb27baf17f0286db3222287a8073bd7":[6,0,2196,0,3],
+"d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#a82a22a557db647f73690d8838a635eaf":[6,0,2196,0,2],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#adb456f1f93be5329174a3199c9092825":[6,0,2196,0,0],
 "d6/d23/structnpc__toc__druid_1_1npc__toc__druidAI.html#af82baa22ae49ba268f494cb07287845e":[6,0,2196,0,1],
 "d6/d24/GridObjectLoader_8cpp.html":[7,0,0,0,1,2,19,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX169 =
 "d6/d2b/classspell__item__elixir__of__shadows.html#a78f1476ed28eb1e80356dbf3d32918f5":[6,0,3356,2],
 "d6/d2b/classspell__item__elixir__of__shadows.html#acfc69e6323292e6c64fbe8d2e10efcdc":[6,0,3356,1],
 "d6/d2b/classspell__warl__shadowburn.html":[6,0,4283],
-"d6/d2b/classspell__warl__shadowburn.html#a3f474c143f64739187b6049cac5e4b38":[6,0,4283,2],
-"d6/d2b/classspell__warl__shadowburn.html#a65fa925d99065d028e328a92f2a13805":[6,0,4283,0],
-"d6/d2b/classspell__warl__shadowburn.html#a95dc732286adf4327f68e23015d58c21":[6,0,4283,1],
-"d6/d2c/classspell__gen__baby__murloc.html":[6,0,2986]
+"d6/d2b/classspell__warl__shadowburn.html#a3f474c143f64739187b6049cac5e4b38":[6,0,4283,2]
 };

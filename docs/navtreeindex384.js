@@ -1,5 +1,8 @@
 var NAVTREEINDEX384 =
 {
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1baabf12a7652b75fc54ea15fbaeb4604f2":[7,0,0,0,1,3,5,18,48,8],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1baae6508439d3ec392b6c7c900b5eafe59":[7,0,0,0,1,3,5,18,48,1],
+"de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1bae943129e8473a0874e17db0ccafa8e0c":[7,0,0,0,1,3,5,18,48,2],
 "de/da6/zone__dragonblight_8cpp.html#a74712ba5da279277403a405b06b9cd1bafaea8ba1f119c05e016987661eeb632f":[7,0,0,0,1,3,5,18,48,6],
 "de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8":[7,0,0,0,1,3,5,18,49],
 "de/da6/zone__dragonblight_8cpp.html#a7ee124c2a84bf191dfed00367bb387e8a1bb4dd3600a115e8beb46fcbb0a8097d":[7,0,0,0,1,3,5,18,49,2],
@@ -110,16 +113,16 @@ var NAVTREEINDEX384 =
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html":[5,0,1,2,1,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[6,0,0,1,1,0,4],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a107ccda1e3b21600fd133a243a8d2c9c":[5,0,1,2,1,0,4],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[6,0,0,1,1,0,5],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a1f9da7b4e2a968b1cf51b227c79f0d1d":[5,0,1,2,1,0,5],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[5,0,1,2,1,0,6],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#a9567278ccb4896bcb2e8293df0ab909f":[6,0,0,1,1,0,6],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[5,0,1,2,1,0,0],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#aa195cc806a02e56a8125bfc039b83c37":[6,0,0,1,1,0,0],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[6,0,0,1,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[5,0,1,2,1,0,1],
-"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,1,2,1,0,2],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ab0ae915bcd0b6cb738f66398ba06bd63":[6,0,0,1,1,0,1],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[6,0,0,1,1,0,2],
+"de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae0b19dcb745635a783d52bae6f237b47":[5,0,1,2,1,0,2],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[5,0,1,2,1,0,3],
 "de/da7/structAcore_1_1ChatCommands_1_1ChatCommandBuilder_1_1InvokerEntry.html#ae42d24aad13fe622f6d5ec35d72c1c96":[6,0,0,1,1,0,3],
 "de/da9/classMotionTransport.html":[6,0,1553],
@@ -246,8 +249,5 @@ var NAVTREEINDEX384 =
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea29c2c4667cb593f215943bc2329b76d8":[7,0,0,0,1,3,7,4,3,5,2,16],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea31b50415af4b65bac9fc5551b17146a9":[7,0,0,0,1,3,7,4,3,5,2,2],
 "de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea4450f25b134ecf8de8ff18632caf6b4e":[7,0,0,0,1,3,7,4,3,5,2,14],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea468f0aea97332fed71283ff1f48e9600":[7,0,0,0,1,3,7,4,3,5,2,9],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea63b6a39aa642f2e0d8c55829cf8e7205":[7,0,0,0,1,3,7,4,3,5,2,11],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea980c7943a6b8da340ba5250e5b0d0bc6":[7,0,0,0,1,3,7,4,3,5,2,12],
-"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea98f942453c3a388805f7d6936bf7838c":[7,0,0,0,1,3,7,4,3,5,2,19]
+"de/dae/shattered__halls_8h.html#a92f6fd626e1834a4cc509efc1186963ea468f0aea97332fed71283ff1f48e9600":[7,0,0,0,1,3,7,4,3,5,2,9]
 };

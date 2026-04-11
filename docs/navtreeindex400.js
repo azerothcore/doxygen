@@ -1,5 +1,8 @@
 var NAVTREEINDEX400 =
 {
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a37191cdc843aa3fe0d584b06596a4d97":[7,0,0,0,1,3,5,1,0,0,12,20],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a39b1481f7ab3e86f658ff3c8dc0963da":[7,0,0,0,1,3,5,1,0,0,12,0],
+"df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a428948971829548edfb4c152174eeafe":[7,0,0,0,1,3,5,1,0,0,12,4],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a448c0f983380f6c49af3ee7f68c76cc0":[7,0,0,0,1,3,5,1,0,0,12,6],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a4fa2bcbe95f70ba2a555c2560e4fce27":[7,0,0,0,1,3,5,1,0,0,12,30],
 "df/d71/boss__sartharion_8cpp.html#a16774215bba3b38580ea51987d64cff1a5610bf80c0db9f1397f2c4c8158a6034":[7,0,0,0,1,3,5,1,0,0,12,29],
@@ -172,8 +175,8 @@ var NAVTREEINDEX400 =
 "df/d77/classspell__drakkari__colossus__face__me.html#a832f8ab737254760fe2b91f19d119781":[6,0,2844,1],
 "df/d77/classspell__drakkari__colossus__face__me.html#a86f620a16780cef2c09f45eefb6dad9c":[6,0,2844,2],
 "df/d77/classspell__drakkari__colossus__face__me.html#ab9c289e946cfaf2b63f2526914d79812":[6,0,2844,0],
-"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classAcore_1_1SingleThreaded.html":[5,0,1,118],
+"df/d78/classAcore_1_1SingleThreaded.html":[6,0,0,106],
 "df/d78/classspell__dk__ghoul__thrash.html":[6,0,2800],
 "df/d78/classspell__dk__ghoul__thrash.html#a5e06d1aa2864c296b2680a83a9f2187f":[6,0,2800,0],
 "df/d78/classspell__dk__ghoul__thrash.html#a80a748b6a18d26004b04a4486df1ebe3":[6,0,2800,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX400 =
 "df/d7b/classAuraMunchingQueue.html":[6,0,293],
 "df/d7b/classAuraMunchingQueue.html#a441b328296f0b7a75bdaee06d2cb94f1":[6,0,293,7],
 "df/d7b/classAuraMunchingQueue.html#a472aaf46c2f167a10ce38267ace0b8bb":[6,0,293,5],
-"df/d7b/classAuraMunchingQueue.html#a6674c43b906e45e2ad29100a7ff06f44":[6,0,293,6],
-"df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[6,0,293,3],
-"df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[6,0,293,1],
-"df/d7b/classAuraMunchingQueue.html#a9cf03046c9595e81bf119b7aacb1a81a":[6,0,293,4]
+"df/d7b/classAuraMunchingQueue.html#a6674c43b906e45e2ad29100a7ff06f44":[6,0,293,6]
 };

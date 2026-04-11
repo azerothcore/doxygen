@@ -1,5 +1,8 @@
 var NAVTREEINDEX198 =
 {
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a2ba394a2da9f72c7621567092c175f0b":[5,0,1,69,1],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[6,0,0,57,2],
+"d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4298bd100890e61a34e827f96d70e752":[5,0,1,69,2],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[6,0,0,57,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a4573ba382a79a34f6c006b7c175f84f1":[5,0,1,69,4],
 "d7/d77/structAcore_1_1GameObjectLastSearcher.html#a7130ecacc379e9f41779a8e0f422b32c":[5,0,1,69,5],
@@ -36,14 +39,14 @@ var NAVTREEINDEX198 =
 "d7/d7d/classnpc__pet__trainer.html#ac2279bce52e911b1c339da5e68aa2501":[6,0,2052,1],
 "d7/d7e/CreatureScript_8cpp.html":[7,0,0,0,1,2,38,0,41],
 "d7/d7e/CreatureScript_8cpp.html#adb066a45d02e899835d90ecde5d40ccd":[7,0,0,0,1,2,38,0,41,0],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[5,0,34,3,1],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html":[6,0,12,3,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[5,0,34,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a3f5532f40b59f47423d2b4e3749da88e":[6,0,12,3,1,1],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[5,0,34,3,1,2],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#a7f4d3ee4353b408f8c795e6fdc552e76":[6,0,12,3,1,2],
-"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[6,0,12,3,1,3],
+"d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#ab96a1c0933e90872f54eb0995098274a":[5,0,34,3,1,3],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[6,0,12,3,1,0],
 "d7/d7f/classWorldPackets_1_1Chat_1_1Emote.html#acb1620d125ffb11fe43caf4ebf27d1be":[5,0,34,3,1,0],
 "d7/d7f/classspell__q11719__bloodspore__ruination__45997.html":[6,0,3872],
@@ -246,8 +249,5 @@ var NAVTREEINDEX198 =
 "d7/d88/classspell__thaddius__pos__neg__charge.html":[6,0,4146],
 "d7/d88/classspell__thaddius__pos__neg__charge.html#a149db071722ce12cded16087c8eec1df":[6,0,4146,2],
 "d7/d88/classspell__thaddius__pos__neg__charge.html#a177320de9c3a2c2f29120fcaa413ab13":[6,0,4146,4],
-"d7/d88/classspell__thaddius__pos__neg__charge.html#ab8948b09b685ad970f5292ca4c5d97ba":[6,0,4146,0],
-"d7/d88/classspell__thaddius__pos__neg__charge.html#abd073f34a414fab7ee23ee933863f1c7":[6,0,4146,3],
-"d7/d88/classspell__thaddius__pos__neg__charge.html#ac36e689bad93aa17738f390680764a7e":[6,0,4146,1],
-"d7/d89/classnpc__arthas.html":[6,0,1642]
+"d7/d88/classspell__thaddius__pos__neg__charge.html#ab8948b09b685ad970f5292ca4c5d97ba":[6,0,4146,0]
 };

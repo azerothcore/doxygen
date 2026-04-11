@@ -1,5 +1,8 @@
 var NAVTREEINDEX401 =
 {
+"df/d7b/classAuraMunchingQueue.html#a8ac00964608170d5375242c1b19c4be3":[6,0,293,3],
+"df/d7b/classAuraMunchingQueue.html#a8f025a0ea1db81fb283db563402d1c40":[6,0,293,1],
+"df/d7b/classAuraMunchingQueue.html#a9cf03046c9595e81bf119b7aacb1a81a":[6,0,293,4],
 "df/d7b/classAuraMunchingQueue.html#abf9787bcfa9393619ffebe2ad7b5cd46":[6,0,293,0],
 "df/d7b/classAuraMunchingQueue.html#add694e24c38d585784f236acf9118b76":[6,0,293,2],
 "df/d7b/structQuestGreeting.html":[6,0,2480],
@@ -115,8 +118,8 @@ var NAVTREEINDEX401 =
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a048c7ed9de19bcb57c0cdb10e2cf3bef":[5,0,34,6,36,2],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[6,0,12,6,36,0],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a5e0bab98d87000ad796ebb2753cd566b":[5,0,34,6,36,0],
-"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
 "df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[6,0,12,6,36,1],
+"df/d82/classWorldPackets_1_1Guild_1_1GuildInviteByName.html#a91f3fba33e265cbb119f1d3e69d4a8ca":[5,0,34,6,36,1],
 "df/d86/classnpc__professor__phizzlethorpe.html":[6,0,2078],
 "df/d86/classnpc__professor__phizzlethorpe.html#a5eb540d16b2dd123d553ea4ae24d8b53":[6,0,2078,2],
 "df/d86/classnpc__professor__phizzlethorpe.html#a8d32b4a107533c81033c617b0b97027d":[6,0,2078,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX401 =
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644faae4192525f239485e95830c6137c5c47":[7,0,0,0,1,3,5,9,2,4,13,31],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fab3364a2d5e3f2d23a63981fdb298524c":[7,0,0,0,1,3,5,9,2,4,13,34],
 "df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fab95550e3a3a00e02e6db6813cdcc594f":[7,0,0,0,1,3,5,9,2,4,13,25],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabb7aab4925f7809c409cd469c06787f7":[7,0,0,0,1,3,5,9,2,4,13,45],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabc835e39fafdcf421624baa8fd9639c4":[7,0,0,0,1,3,5,9,2,4,13,23],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fac94d8a6a667e828cc2d8fab0f1545e33":[7,0,0,0,1,3,5,9,2,4,13,39],
-"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644facda7b1d376aa194b2afe6abf76356696":[7,0,0,0,1,3,5,9,2,4,13,18]
+"df/d87/boss__freya_8cpp.html#ab11cf06593f4e436af59534b8b96644fabb7aab4925f7809c409cd469c06787f7":[7,0,0,0,1,3,5,9,2,4,13,45]
 };

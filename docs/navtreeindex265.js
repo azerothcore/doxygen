@@ -1,5 +1,8 @@
 var NAVTREEINDEX265 =
 {
+"da/d72/structboss__krosh__firehand.html#ad20c86b4a3d0cccddf91982c26f56c09":[6,0,597,2],
+"da/d72/structboss__krosh__firehand.html#ad6389c357fb6c09fdf4f3f3ef7095395":[6,0,597,3],
+"da/d73/boss__chrono__lord__deja_8cpp.html":[7,0,0,0,1,3,4,1,3,1],
 "da/d73/boss__chrono__lord__deja_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,4,1,3,1,1],
 "da/d73/boss__chrono__lord__deja_8cpp.html#a5bd342133be8c2137b831460acc9298ca38d4d31670f85a60d2944cf10d85f74d":[7,0,0,0,1,3,4,1,3,1,1,3],
 "da/d73/boss__chrono__lord__deja_8cpp.html#a5bd342133be8c2137b831460acc9298ca6b3de83bd164f6cd06ecdec80074e576":[7,0,0,0,1,3,4,1,3,1,1,1],
@@ -17,8 +20,8 @@ var NAVTREEINDEX265 =
 "da/d74/classspell__item__pygmy__oil.html#a3fab2057be5de9e2f7703b8f43a99ed5":[6,0,3429,3],
 "da/d74/classspell__item__pygmy__oil.html#a9ad5691f6049078c45052d07513b35a2":[6,0,3429,2],
 "da/d74/classspell__item__pygmy__oil.html#addfcb17cbbb56bda88997b34ce3e3ddd":[6,0,3429,0],
-"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[5,0,1,75],
 "da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[6,0,0,63],
+"da/d74/structAcore_1_1has__type_3_01T_00_01std_1_1tuple_3_01Us_8_8_8_01_4_01_4.html":[5,0,1,75],
 "da/d74/structAuctionEntryItemEnchants.html":[6,0,265],
 "da/d74/structAuctionEntryItemEnchants.html#a36445b0d9d75886a0697c75513eb6c41":[6,0,265,1],
 "da/d74/structAuctionEntryItemEnchants.html#a583aee5baaad873bcbcc2acad403d0bf":[6,0,265,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX265 =
 "da/d78/boss__the__lich__king_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a807edaf292179bfac5402bc7f5879af9":[7,0,0,0,1,3,5,6,10,70,3],
 "da/d78/boss__the__lich__king_8cpp.html#a3d3d0368b97072191973f8c108f6bb21a975cbaec6928b9d207a9656daaad105b":[7,0,0,0,1,3,5,6,10,70,1],
 "da/d78/boss__the__lich__king_8cpp.html#a3d3d0368b97072191973f8c108f6bb21abb516226f3df30c332c998da773f56db":[7,0,0,0,1,3,5,6,10,70,0],
-"da/d78/boss__the__lich__king_8cpp.html#a5796028fa6754f704c0d20bc5394d7d2":[7,0,0,0,1,3,5,6,10,89],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,5,6,10,76],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca0224e46daa4773073e41dcfb7a46a777":[7,0,0,0,1,3,5,6,10,76,34],
-"da/d78/boss__the__lich__king_8cpp.html#a5bd342133be8c2137b831460acc9298ca035c38568326173ddf36e33fe40b5455":[7,0,0,0,1,3,5,6,10,76,73]
+"da/d78/boss__the__lich__king_8cpp.html#a5796028fa6754f704c0d20bc5394d7d2":[7,0,0,0,1,3,5,6,10,89]
 };

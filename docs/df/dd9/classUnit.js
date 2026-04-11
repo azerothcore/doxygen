@@ -491,6 +491,7 @@ var classUnit =
     [ "HealthAbovePctHealed", "df/dd9/classUnit.html#a33ff2bdff275d8d8e6d881eb0b44839e", null ],
     [ "HealthBelowPct", "df/dd9/classUnit.html#a8bcfed25889f307b4849743956ae67fc", null ],
     [ "HealthBelowPctDamaged", "df/dd9/classUnit.html#ad08665e79b8df4fd5339b05ae1538dd9", null ],
+    [ "IgnoresSchoolImmunityFromFriendlyCaster", "df/dd9/classUnit.html#a77dda9b223ed7e7a060a70377fa06839", null ],
     [ "IncrDiminishing", "df/dd9/classUnit.html#a14a53e0e6edda52c0a9a42af434b6041", null ],
     [ "InitCharmInfo", "df/dd9/classUnit.html#ac0c368d938ea43adbd1a25bafd369313", null ],
     [ "InitStatBuffMods", "df/dd9/classUnit.html#ade4e62c48bf26da6fc1ee071c7e9a933", null ],

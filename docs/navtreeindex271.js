@@ -1,5 +1,8 @@
 var NAVTREEINDEX271 =
 {
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a797ae84dcb0fc13b0799934bde71809c":[6,0,4151,2],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#a8933535f9507b90b54032c17985cc3c6":[6,0,4151,0],
+"da/d9f/classspell__the__black__stalker__levitation__pulse.html#acadb563eaeffac47b3f883f9d8c37994":[6,0,4151,1],
 "da/d9f/classspell__the__black__stalker__levitation__pulse.html#afba2983f5be230dd3b77b3b49fee8a38":[6,0,4151,3],
 "da/da0/SpellProcTestData_8h.html":[7,0,0,0,2,2,0,8,25],
 "da/da0/SpellProcTestData_8h.html#a39025d5b336e745566f739e9d1f68e78":[7,0,0,0,2,2,0,8,25,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX271 =
 "da/da9/classinstance__ruby__sanctum.html#ad0329f328d4be2c475d8bcd5ccefd4e1":[6,0,1352,2],
 "da/da9/classspell__slippery__floor__periodic.html":[6,0,4107],
 "da/da9/classspell__slippery__floor__periodic.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2":[6,0,4107,3],
-"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[6,0,4107,1],
-"da/da9/classspell__slippery__floor__periodic.html#ad4c2bf1a8556b6fb85c05d3c83494fed":[6,0,4107,2],
-"da/da9/classspell__slippery__floor__periodic.html#ad5e905710a20436f120c979c865571c9":[6,0,4107,0],
-"da/daa/BattlegroundRV_8cpp.html":[7,0,0,0,1,2,8,1,16]
+"da/da9/classspell__slippery__floor__periodic.html#ab44aa98f47162b50f30622d67ac75395":[6,0,4107,1]
 };

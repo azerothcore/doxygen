@@ -1,5 +1,8 @@
 var NAVTREEINDEX246 =
 {
+"d9/d85/structboss__algalon__the__observer.html#a05ae39332df494cd98c60d54211510fc":[6,0,383,5],
+"d9/d85/structboss__algalon__the__observer.html#a245eb1b0814cca589e07320dea7e236b":[6,0,383,0],
+"d9/d85/structboss__algalon__the__observer.html#a2ea08602c55f3bca4a6d39eb6ccb1f53":[6,0,383,11],
 "d9/d85/structboss__algalon__the__observer.html#a6b0408e45fda19e394c7f59032c9b660":[6,0,383,10],
 "d9/d85/structboss__algalon__the__observer.html#a8f4703505b8f00327fe0405c1d7010eb":[6,0,383,24],
 "d9/d85/structboss__algalon__the__observer.html#a9523f5eb6a9465f8ffcd7c8abf2c6c87":[6,0,383,17],
@@ -246,8 +249,5 @@ var NAVTREEINDEX246 =
 "d9/d90/classspell__item__defibrillate.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b":[6,0,3341,6],
 "d9/d90/classspell__item__defibrillate.html#a680092f30ebc6b322e5d01a1100b308c":[6,0,3341,5],
 "d9/d90/classspell__item__defibrillate.html#a6a7ad6c9bb9bee3b093bd06b1b259468":[6,0,3341,2],
-"d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[6,0,3341,1],
-"d9/d90/classspell__item__defibrillate.html#ab64fdd36fc646ca0bcb2010380199ede":[6,0,3341,0],
-"d9/d90/classspell__item__defibrillate.html#ad2faa26a2874f68e8e419e59cafbf10b":[6,0,3341,3],
-"d9/d90/classspell__item__defibrillate.html#ad871a6bef7ba074f32abe1bf062dffe1":[6,0,3341,4]
+"d9/d90/classspell__item__defibrillate.html#a7abbc5b8e5c5231d5c6809c45b815b69":[6,0,3341,1]
 };

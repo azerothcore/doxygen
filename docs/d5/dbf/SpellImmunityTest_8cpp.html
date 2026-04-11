@@ -115,6 +115,7 @@ $(document).ready(function(){initNavTree('d5/dbf/SpellImmunityTest_8cpp.html','.
 <p>Tests for spell immunity mechanics.  
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &lt;algorithm&gt;</code><br />
 <code>#include &lt;array&gt;</code><br />
 <code>#include &lt;cstdint&gt;</code><br />
 <code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
@@ -155,6 +156,12 @@ Functions</h2></td></tr>
 <tr class="separator:a33ab344e5a5a3cd55aa736f4c4076e8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a48ed8d85023d0633bff5255d90e5d2be" id="r_a48ed8d85023d0633bff5255d90e5d2be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html#a48ed8d85023d0633bff5255d90e5d2be">TEST</a> (SpellImmunityTest, StunImmunity_DoesNotFullyBlockMixedSpell)</td></tr>
 <tr class="separator:a48ed8d85023d0633bff5255d90e5d2be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99d409636ad41ca419320a0f70bcb382" id="r_a99d409636ad41ca419320a0f70bcb382"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html#a99d409636ad41ca419320a0f70bcb382">TEST</a> (SpellImmunityTest, SchoolImmunity_TemplateStyle_AllowsFriendlySpell)</td></tr>
+<tr class="separator:a99d409636ad41ca419320a0f70bcb382"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a385f0515f873116865149a063124ff11" id="r_a385f0515f873116865149a063124ff11"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html#a385f0515f873116865149a063124ff11">TEST</a> (SpellImmunityTest, SchoolImmunity_ExplicitFriendlyBlockStillApplies)</td></tr>
+<tr class="separator:a385f0515f873116865149a063124ff11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a4c71f3b9310c18fcf0fb7b0c14161a" id="r_a9a4c71f3b9310c18fcf0fb7b0c14161a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html#a9a4c71f3b9310c18fcf0fb7b0c14161a">TEST</a> (SpellImmunityTest, SchoolImmunity_BlocksHostileSpell)</td></tr>
+<tr class="separator:a9a4c71f3b9310c18fcf0fb7b0c14161a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Tests for spell immunity mechanics. </p>
@@ -162,7 +169,7 @@ Functions</h2></td></tr>
 <p class="definition">Definition in file <a class="el" href="../../">SpellImmunityTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
 <a id="a33ab344e5a5a3cd55aa736f4c4076e8d" name="a33ab344e5a5a3cd55aa736f4c4076e8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33ab344e5a5a3cd55aa736f4c4076e8d">&#9670;&#160;</a></span>TEST() <span class="overload">[1/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a33ab344e5a5a3cd55aa736f4c4076e8d">&#9670;&#160;</a></span>TEST() <span class="overload">[1/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -204,7 +211,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a0ceea3be37a3fb8d89b3ef53f31ac777" name="a0ceea3be37a3fb8d89b3ef53f31ac777"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ceea3be37a3fb8d89b3ef53f31ac777">&#9670;&#160;</a></span>TEST() <span class="overload">[2/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ceea3be37a3fb8d89b3ef53f31ac777">&#9670;&#160;</a></span>TEST() <span class="overload">[2/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -239,7 +246,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a7079e204a81977a4f3621da623fde93f" name="a7079e204a81977a4f3621da623fde93f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7079e204a81977a4f3621da623fde93f">&#9670;&#160;</a></span>TEST() <span class="overload">[3/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a7079e204a81977a4f3621da623fde93f">&#9670;&#160;</a></span>TEST() <span class="overload">[3/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -274,7 +281,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="ad0300dc54f7b0fce3c749eea97288ce8" name="ad0300dc54f7b0fce3c749eea97288ce8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0300dc54f7b0fce3c749eea97288ce8">&#9670;&#160;</a></span>TEST() <span class="overload">[4/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0300dc54f7b0fce3c749eea97288ce8">&#9670;&#160;</a></span>TEST() <span class="overload">[4/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -308,7 +315,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a98b2939a7b596ecad1bfe7fc9eea3b10" name="a98b2939a7b596ecad1bfe7fc9eea3b10"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98b2939a7b596ecad1bfe7fc9eea3b10">&#9670;&#160;</a></span>TEST() <span class="overload">[5/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a98b2939a7b596ecad1bfe7fc9eea3b10">&#9670;&#160;</a></span>TEST() <span class="overload">[5/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -345,7 +352,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a93e1a99e06e23b7f476361a13f400619" name="a93e1a99e06e23b7f476361a13f400619"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93e1a99e06e23b7f476361a13f400619">&#9670;&#160;</a></span>TEST() <span class="overload">[6/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a93e1a99e06e23b7f476361a13f400619">&#9670;&#160;</a></span>TEST() <span class="overload">[6/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -381,7 +388,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a8a029b959e38d4926026f7dc1ba4d261" name="a8a029b959e38d4926026f7dc1ba4d261"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a029b959e38d4926026f7dc1ba4d261">&#9670;&#160;</a></span>TEST() <span class="overload">[7/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a029b959e38d4926026f7dc1ba4d261">&#9670;&#160;</a></span>TEST() <span class="overload">[7/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -413,7 +420,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a113ef5bc9c956d6ddee3e2918c3ce3ab" name="a113ef5bc9c956d6ddee3e2918c3ce3ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a113ef5bc9c956d6ddee3e2918c3ce3ab">&#9670;&#160;</a></span>TEST() <span class="overload">[8/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a113ef5bc9c956d6ddee3e2918c3ce3ab">&#9670;&#160;</a></span>TEST() <span class="overload">[8/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -445,7 +452,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a44d3aa6c1687da3b2950b5426d1a72f6" name="a44d3aa6c1687da3b2950b5426d1a72f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44d3aa6c1687da3b2950b5426d1a72f6">&#9670;&#160;</a></span>TEST() <span class="overload">[9/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a44d3aa6c1687da3b2950b5426d1a72f6">&#9670;&#160;</a></span>TEST() <span class="overload">[9/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -480,14 +487,14 @@ Functions</h2></td></tr>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8f"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a></div><div class="ttdeci">SpellSchoolMask</div><div class="ttdef"><b>Definition</b> SharedDefines.h:283</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa53b7883ddb2ff484fe7e089afe2c85dc">SPELL_SCHOOL_MASK_MAGIC</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_MAGIC</div><div class="ttdef"><b>Definition</b> SharedDefines.h:300</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_SPELL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:296</div></div>
-<div class="ttc" id="aclassUnit_html_afeb9e48c2b6a8628f17b45902c8e4c39"><div class="ttname"><a href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a></div><div class="ttdeci">static bool IsImmuneMaskFully(SpellSchoolMask immuneMask, SpellSchoolMask schoolMask)</div><div class="ttdef"><b>Definition</b> Unit.h:1645</div></div>
+<div class="ttc" id="aclassUnit_html_afeb9e48c2b6a8628f17b45902c8e4c39"><div class="ttname"><a href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a></div><div class="ttdeci">static bool IsImmuneMaskFully(SpellSchoolMask immuneMask, SpellSchoolMask schoolMask)</div><div class="ttdef"><b>Definition</b> Unit.h:1646</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01645">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>, and <a class="el" href="../../#l00296">SPELL_SCHOOL_MASK_SPELL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01646">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>, and <a class="el" href="../../#l00296">SPELL_SCHOOL_MASK_SPELL</a>.</p>
 
 </div>
 </div>
 <a id="a101bdde4ca635021674b9c4d547289bf" name="a101bdde4ca635021674b9c4d547289bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a101bdde4ca635021674b9c4d547289bf">&#9670;&#160;</a></span>TEST() <span class="overload">[10/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a101bdde4ca635021674b9c4d547289bf">&#9670;&#160;</a></span>TEST() <span class="overload">[10/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -521,12 +528,12 @@ Functions</h2></td></tr>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8fa65c125a1722e326c066d8aa1350911c8">SPELL_SCHOOL_MASK_ALL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_ALL</div><div class="ttdef"><b>Definition</b> SharedDefines.h:303</div></div>
 <div class="ttc" id="aSharedDefines_8h_html_aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce"><div class="ttname"><a href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FROST</div><div class="ttdef"><b>Definition</b> SharedDefines.h:289</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01645">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00289">SPELL_SCHOOL_MASK_FROST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01646">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00289">SPELL_SCHOOL_MASK_FROST</a>.</p>
 
 </div>
 </div>
 <a id="ac84d48375a4e21b33f5c099b5ddba489" name="ac84d48375a4e21b33f5c099b5ddba489"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac84d48375a4e21b33f5c099b5ddba489">&#9670;&#160;</a></span>TEST() <span class="overload">[11/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ac84d48375a4e21b33f5c099b5ddba489">&#9670;&#160;</a></span>TEST() <span class="overload">[11/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -557,12 +564,12 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  338</span>    EXPECT_TRUE(<a class="code hl_function" href="../../df/dd9/classUnit.html#afeb9e48c2b6a8628f17b45902c8e4c39">Unit::IsImmuneMaskFully</a>(immune, checkMagic));</div>
 <div class="line"><span class="lineno">  339</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01645">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01646">Unit::IsImmuneMaskFully()</a>, <a class="el" href="../../#l00303">SPELL_SCHOOL_MASK_ALL</a>, and <a class="el" href="../../#l00300">SPELL_SCHOOL_MASK_MAGIC</a>.</p>
 
 </div>
 </div>
 <a id="a29cf4cb38c8eafbe22a418f0b08cda79" name="a29cf4cb38c8eafbe22a418f0b08cda79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a29cf4cb38c8eafbe22a418f0b08cda79">&#9670;&#160;</a></span>TEST() <span class="overload">[12/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a29cf4cb38c8eafbe22a418f0b08cda79">&#9670;&#160;</a></span>TEST() <span class="overload">[12/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -597,8 +604,101 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="a9a4c71f3b9310c18fcf0fb7b0c14161a" name="a9a4c71f3b9310c18fcf0fb7b0c14161a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a4c71f3b9310c18fcf0fb7b0c14161a">&#9670;&#160;</a></span>TEST() <span class="overload">[13/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SchoolImmunity_BlocksHostileSpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  379</span>{</div>
+<div class="line"><span class="lineno">  380</span>    EXPECT_TRUE(IsBlockedBySchoolImmunity(<span class="keyword">false</span>, <span class="keyword">false</span>));</div>
+<div class="line"><span class="lineno">  381</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a385f0515f873116865149a063124ff11" name="a385f0515f873116865149a063124ff11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a385f0515f873116865149a063124ff11">&#9670;&#160;</a></span>TEST() <span class="overload">[14/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SchoolImmunity_ExplicitFriendlyBlockStillApplies&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  374</span>{</div>
+<div class="line"><span class="lineno">  375</span>    EXPECT_TRUE(IsBlockedBySchoolImmunity(<span class="keyword">true</span>, <span class="keyword">true</span>));</div>
+<div class="line"><span class="lineno">  376</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a99d409636ad41ca419320a0f70bcb382" name="a99d409636ad41ca419320a0f70bcb382"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99d409636ad41ca419320a0f70bcb382">&#9670;&#160;</a></span>TEST() <span class="overload">[15/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">SpellImmunityTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SchoolImmunity_TemplateStyle_AllowsFriendlySpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  369</span>{</div>
+<div class="line"><span class="lineno">  370</span>    EXPECT_FALSE(IsBlockedBySchoolImmunity(<span class="keyword">true</span>, <span class="keyword">false</span>));</div>
+<div class="line"><span class="lineno">  371</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
 <a id="a579210bd95da263d35a859c51af21bad" name="a579210bd95da263d35a859c51af21bad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a579210bd95da263d35a859c51af21bad">&#9670;&#160;</a></span>TEST() <span class="overload">[13/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a579210bd95da263d35a859c51af21bad">&#9670;&#160;</a></span>TEST() <span class="overload">[16/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -634,7 +734,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="aa825e1abd2f35f0c5dd9ebacc11325f5" name="aa825e1abd2f35f0c5dd9ebacc11325f5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa825e1abd2f35f0c5dd9ebacc11325f5">&#9670;&#160;</a></span>TEST() <span class="overload">[14/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aa825e1abd2f35f0c5dd9ebacc11325f5">&#9670;&#160;</a></span>TEST() <span class="overload">[17/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -671,7 +771,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a364c61e1fd8f2cced1b6473676301fdc" name="a364c61e1fd8f2cced1b6473676301fdc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a364c61e1fd8f2cced1b6473676301fdc">&#9670;&#160;</a></span>TEST() <span class="overload">[15/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a364c61e1fd8f2cced1b6473676301fdc">&#9670;&#160;</a></span>TEST() <span class="overload">[18/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -705,7 +805,7 @@ Functions</h2></td></tr>
 </div>
 </div>
 <a id="a48ed8d85023d0633bff5255d90e5d2be" name="a48ed8d85023d0633bff5255d90e5d2be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a48ed8d85023d0633bff5255d90e5d2be">&#9670;&#160;</a></span>TEST() <span class="overload">[16/16]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a48ed8d85023d0633bff5255d90e5d2be">&#9670;&#160;</a></span>TEST() <span class="overload">[19/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -749,7 +849,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d5/dbf/SpellImmunityTest_8cpp.html">SpellImmunityTest.cpp</a></li>
-    <li class="footer">Generated on Fri Apr 10 2026 07:21:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Apr 11 2026 06:56:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

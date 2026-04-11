@@ -249,5 +249,5 @@ var NAVTREEINDEX94 =
 "d3/d25/classBattlegroundQueue_1_1SelectionPool.html#af344a6e6bb42609887ee8a3022e9d8e5":[6,0,346,0,2],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[5,0,34,13,4],
 "d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html":[6,0,12,13,4],
-"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[6,0,12,13,4,3]
+"d3/d25/classWorldPackets_1_1Query_1_1TimeQueryResponse.html#a4f528e5c08dc67a2c6f7826b21a771ed":[5,0,34,13,4,3]
 };

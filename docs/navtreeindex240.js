@@ -1,5 +1,8 @@
 var NAVTREEINDEX240 =
 {
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b":[6,0,1729,0,2],
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa644050a5fc0b3cd04573e8b3def87ee":[6,0,1729,0,12],
+"d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa757ab2eef813dceaaad65d84681099b":[6,0,1729,0,9],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aa8b9a05d3c7d89aa054af919672a69ec":[6,0,1729,0,5],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aaa8eef94d1707207d241010d066d02fc":[6,0,1729,0,8],
 "d9/d4f/structnpc__cos__stratholme__citizien_1_1npc__cos__stratholme__citizienAI.html#aadae06c487a7755114f856a835d48c7e":[6,0,1729,0,13],
@@ -203,20 +206,20 @@ var NAVTREEINDEX240 =
 "d9/d59/namespaceAcore_1_1ChatCommands.html#ade19080af583292883b932d83992c6fe":[5,0,1,2,12],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[6,0,0,112],
 "d9/d5a/structAcore_1_1UnitSearcher.html":[5,0,1,124],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,1,124,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[6,0,0,112,5],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a3029760131a6f50883246afe2533c062":[5,0,1,124,5],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[5,0,1,124,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a3618df5a6ae33e76b802eae9cac1e1bd":[6,0,0,112,4],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[5,0,1,124,2],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4bf8a315ab9464bbc5b0c8cae5c27fed":[6,0,0,112,2],
-"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[6,0,0,112,0],
+"d9/d5a/structAcore_1_1UnitSearcher.html#a4c50b4594650d9f3f83a40ac02f1a954":[5,0,1,124,0],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[5,0,1,124,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#a5e419d2cb0de5ae58373e521d3a84ac6":[6,0,0,112,1],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[6,0,0,112,6],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ab94911f3f275de6a9ce9f15f1169c81c":[5,0,1,124,6],
-"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,124,3],
 "d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[6,0,0,112,3],
+"d9/d5a/structAcore_1_1UnitSearcher.html#ac65516ed337b509ff5c316fb29727854":[5,0,1,124,3],
 "d9/d5b/classspell__moam__summon__mana__fiends.html":[6,0,3648],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a7e6ec873a252106ba865bdef05f757f5":[6,0,3648,0],
 "d9/d5b/classspell__moam__summon__mana__fiends.html#a98e80c8726c350aca850b6c87c5861da":[6,0,3648,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX240 =
 "d9/d5d/structboss__najentus.html#afee32dd32033c7a45068ce12e961797c":[6,0,645,1],
 "d9/d5e/structnpc__stolen__soul.html":[6,0,2153],
 "d9/d5e/structnpc__stolen__soul.html#a35b3478f2541f7b3d56e0873f96f479f":[6,0,2153,4],
-"d9/d5e/structnpc__stolen__soul.html#a6a1d6da5a448fd4b8910835d3a346e3a":[6,0,2153,2],
-"d9/d5e/structnpc__stolen__soul.html#a6efbe90928119902e4b5a7148b12cfac":[6,0,2153,8],
-"d9/d5e/structnpc__stolen__soul.html#a7bf369dd943ee36600a364d56b85db5a":[6,0,2153,5],
-"d9/d5e/structnpc__stolen__soul.html#a84a0bb8320b2332545748e010d855884":[6,0,2153,0]
+"d9/d5e/structnpc__stolen__soul.html#a6a1d6da5a448fd4b8910835d3a346e3a":[6,0,2153,2]
 };

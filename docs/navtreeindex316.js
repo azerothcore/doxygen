@@ -1,5 +1,8 @@
 var NAVTREEINDEX316 =
 {
+"dc/d3a/world__script__loader_8cpp.html#a5e9656f80b8e7b4176a6271aadc2d8e7":[7,0,0,0,1,3,10,22,15],
+"dc/d3a/world__script__loader_8cpp.html#a81e200e5d045a2403cd76a0559a6fd8c":[7,0,0,0,1,3,10,22,11],
+"dc/d3a/world__script__loader_8cpp.html#a8c20fa2f42eb423e39f2aaafe8fadafc":[7,0,0,0,1,3,10,22,16],
 "dc/d3a/world__script__loader_8cpp.html#a992f2da647f1f8748c7c9239b52079ad":[7,0,0,0,1,3,10,22,2],
 "dc/d3a/world__script__loader_8cpp.html#aabef9c5c7a434027ce4d3af6e2b77430":[7,0,0,0,1,3,10,22,4],
 "dc/d3a/world__script__loader_8cpp.html#aac822f73be6c9bf1dfaa4bbaec0e5aef":[7,0,0,0,1,3,10,22,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX316 =
 "dc/d4a/classAuctionHouseWorkerThread.html#aecd36ccabd34131c42ec1d7964b8840a":[6,0,274,14],
 "dc/d4a/classAuctionHouseWorkerThread.html#af23c367773406ed52439f21d4b288264":[6,0,274,7],
 "dc/d4a/classAuctionHouseWorkerThread.html#af4d4c4672e67953c7c909174652b99d1":[6,0,274,18],
-"dc/d4a/classAuctionHouseWorkerThread.html#afeef919ad04cfedbca376668997a69f4":[6,0,274,1],
-"dc/d4b/AreaDefines_8h.html":[7,0,0,0,1,2,26,2],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cb":[7,0,0,0,1,2,26,2,1],
-"dc/d4b/AreaDefines_8h.html#a6d57376a08b6ff3944dd9a5930a492cba023a49455722ceb380f5cb4b34a5c1be":[7,0,0,0,1,2,26,2,1,75]
+"dc/d4a/classAuctionHouseWorkerThread.html#afeef919ad04cfedbca376668997a69f4":[6,0,274,1]
 };

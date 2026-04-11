@@ -1,5 +1,8 @@
 var NAVTREEINDEX250 =
 {
+"d9/dc6/boss__volkhan_8cpp.html#a9af0523ebe9bbe9f299889c99a519d1c":[7,0,0,0,1,3,5,9,0,3,6],
+"d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53":[7,0,0,0,1,3,5,9,0,3,3],
+"d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a1c755cdad7beeae1a2ef721eba24fa99":[7,0,0,0,1,3,5,9,0,3,3,4],
 "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a5545d513600badfbae47148bc756ed64":[7,0,0,0,1,3,5,9,0,3,3,1],
 "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a67fb1e75418e5f4394f0dea3f005a0bf":[7,0,0,0,1,3,5,9,0,3,3,2],
 "d9/dc6/boss__volkhan_8cpp.html#ab7ca99e4345fc4056cdb5108fc327b53a6acd40cf44ed8481fe099524007d0632":[7,0,0,0,1,3,5,9,0,3,3,5],
@@ -49,8 +52,8 @@ var NAVTREEINDEX250 =
 "d9/dc7/boss__tomb__of__seven_8cpp.html#adfa10abf5147b705424851c637956f84a775b0723e75abd1ec74d73cdc36c4a30":[7,0,0,0,1,3,2,1,0,14,4,2],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[6,0,12,2,7],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html":[5,0,34,2,7],
-"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,12,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[5,0,34,2,7,1],
+"d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#accbe1ced6a10ea2fa699df5e74575795":[6,0,12,2,7,1],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[6,0,12,2,7,0],
 "d9/dc7/classWorldPackets_1_1Character_1_1PlayerLogout.html#afacee5b02c2adc4bec608b6f280fbcf1":[5,0,34,2,7,0],
 "d9/dc7/npc__taxi_8cpp.html":[7,0,0,0,1,3,10,13],
@@ -246,8 +249,5 @@ var NAVTREEINDEX250 =
 "d9/dd1/classspell__q9452__cast__net.html#a76fff3a9d20f48e4814ee0f258be07b8":[6,0,3934,3],
 "d9/dd1/classspell__q9452__cast__net.html#a79a51387f0a515ed07fcc1ac9e428290":[6,0,3934,1],
 "d9/dd1/classspell__q9452__cast__net.html#aa05d48c35f748d93f5d8ff1defe2d3c9":[6,0,3934,5],
-"d9/dd1/classspell__q9452__cast__net.html#ae99a2b4b582c8a2c8921b8921400ffbe":[6,0,3934,0],
-"d9/dd1/classspell__warl__improved__demonic__tactics.html":[6,0,4270],
-"d9/dd1/classspell__warl__improved__demonic__tactics.html#a55aa6c6a23e4db0f407b86bcf95d3761":[6,0,4270,1],
-"d9/dd1/classspell__warl__improved__demonic__tactics.html#a847c1db1bf92baeba47260ffbacbcdd9":[6,0,4270,5]
+"d9/dd1/classspell__q9452__cast__net.html#ae99a2b4b582c8a2c8921b8921400ffbe":[6,0,3934,0]
 };

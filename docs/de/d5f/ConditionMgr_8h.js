@@ -32,7 +32,7 @@ var ConditionMgr_8h =
       [ "CONDITION_SOURCE_TYPE_SPELL", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fab433bd63ced2d7b9d1794d868aaf0975", null ],
       [ "CONDITION_SOURCE_TYPE_SPELL_CLICK_EVENT", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa3a2a275e4c42e0e1191b9196b141f003", null ],
       [ "CONDITION_SOURCE_TYPE_QUEST_AVAILABLE", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7faff018c19627d2a3c3767b8c3665cd1eb", null ],
-      [ "CONDITION_SOURCE_TYPE_UNUSED_20", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fafb0ed10b5ee9fbab98e1cf21c0656d85", null ],
+      [ "CONDITION_SOURCE_TYPE_GOSSIP_HELLO", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa9b2a9a9d3ed88764b210e72378ea01ec", null ],
       [ "CONDITION_SOURCE_TYPE_VEHICLE_SPELL", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa0c1e8f75b594d570e01c08ee7904941a", null ],
       [ "CONDITION_SOURCE_TYPE_SMART_EVENT", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa5bf0865be8b0cc0ee949e4ea3b6f4597", null ],
       [ "CONDITION_SOURCE_TYPE_NPC_VENDOR", "de/d5f/ConditionMgr_8h.html#a5ba040e3c1f6efbefb512efb9bd69a7fa39890b6018a36386cee820c5c5d4b588", null ],

@@ -1728,6 +1728,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1afc1e413f12c5bd7bc00c926fa05833 inherit pub_methods_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3553ad195e44b09a5e46d22b120a4ad0 inherit pub_methods_classUnit" id="r_a3553ad195e44b09a5e46d22b120a4ad0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/classUnit.html#a3553ad195e44b09a5e46d22b120a4ad0">IsImmunedToSpell</a> (<a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> effectMask, <a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *caster=nullptr)</td></tr>
 <tr class="separator:a3553ad195e44b09a5e46d22b120a4ad0 inherit pub_methods_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77dda9b223ed7e7a060a70377fa06839 inherit pub_methods_classUnit" id="r_a77dda9b223ed7e7a060a70377fa06839"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/classUnit.html#a77dda9b223ed7e7a060a70377fa06839">IgnoresSchoolImmunityFromFriendlyCaster</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *caster, <a class="el" href="../../da/d97/Define_8h.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> immunityAuraId, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *immunitySpellInfo) const</td></tr>
+<tr class="separator:a77dda9b223ed7e7a060a70377fa06839 inherit pub_methods_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8efc0a4092b1150c9d2a992e52e7f84c inherit pub_methods_classUnit" id="r_a8efc0a4092b1150c9d2a992e52e7f84c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/classUnit.html#a8efc0a4092b1150c9d2a992e52e7f84c">IsImmunedToDamage</a> (<a class="el" href="../../de/d0a/SharedDefines_8h.html#aff6913cfd69489c107a071be9ec2ec8f">SpellSchoolMask</a> schoolMask) const</td></tr>
 <tr class="separator:a8efc0a4092b1150c9d2a992e52e7f84c inherit pub_methods_classUnit"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe5db1b804a4b24ea5cbd4d2d065cfa9 inherit pub_methods_classUnit" id="r_afe5db1b804a4b24ea5cbd4d2d065cfa9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/classUnit.html#afe5db1b804a4b24ea5cbd4d2d065cfa9">IsImmunedToDamage</a> (<a class="el" href="../../df/dd9/classUnit.html">Unit</a> const *caster, <a class="el" href="../../d2/de9/classSpellInfo.html">SpellInfo</a> const *spellInfo) const</td></tr>
@@ -3587,10 +3589,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aclassCombatManager_html_a03ee94acc2a77233e5a01af65aeb3a91"><div class="ttname"><a href="../../d9/d26/classCombatManager.html#a03ee94acc2a77233e5a01af65aeb3a91">CombatManager::EndAllCombat</a></div><div class="ttdeci">void EndAllCombat()</div><div class="ttdef"><b>Definition</b> CombatManager.h:147</div></div>
 <div class="ttc" id="aclassTestCreature_html_a105e047afc1322cabc0abaa6ed966429"><div class="ttname"><a href="../../dc/d9f/classTestCreature.html#a105e047afc1322cabc0abaa6ed966429">TestCreature::SetInWorld</a></div><div class="ttdeci">void SetInWorld(bool inWorld)</div><div class="ttdef"><b>Definition</b> TestCreature.cpp:101</div></div>
 <div class="ttc" id="aclassThreatManager_html_a77670439a324fb240e3e381234bc0daf"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#a77670439a324fb240e3e381234bc0daf">ThreatManager::ClearAllThreat</a></div><div class="ttdeci">void ClearAllThreat()</div><div class="ttdef"><b>Definition</b> ThreatManager.cpp:580</div></div>
-<div class="ttc" id="aclassUnit_html_a8d7cbf0fef6e7f027aed6c7d93f0efbe"><div class="ttname"><a href="../../df/dd9/classUnit.html#a8d7cbf0fef6e7f027aed6c7d93f0efbe">Unit::m_threatManager</a></div><div class="ttdeci">ThreatManager m_threatManager</div><div class="ttdef"><b>Definition</b> Unit.h:2194</div></div>
-<div class="ttc" id="aclassUnit_html_ae233101a160ef3e8db7f6567fd916c44"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae233101a160ef3e8db7f6567fd916c44">Unit::m_combatManager</a></div><div class="ttdeci">CombatManager m_combatManager</div><div class="ttdef"><b>Definition</b> Unit.h:2195</div></div>
+<div class="ttc" id="aclassUnit_html_a8d7cbf0fef6e7f027aed6c7d93f0efbe"><div class="ttname"><a href="../../df/dd9/classUnit.html#a8d7cbf0fef6e7f027aed6c7d93f0efbe">Unit::m_threatManager</a></div><div class="ttdeci">ThreatManager m_threatManager</div><div class="ttdef"><b>Definition</b> Unit.h:2195</div></div>
+<div class="ttc" id="aclassUnit_html_ae233101a160ef3e8db7f6567fd916c44"><div class="ttname"><a href="../../df/dd9/classUnit.html#ae233101a160ef3e8db7f6567fd916c44">Unit::m_combatManager</a></div><div class="ttdeci">CombatManager m_combatManager</div><div class="ttdef"><b>Definition</b> Unit.h:2196</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00580">ThreatManager::ClearAllThreat()</a>, <a class="el" href="../../#l00147">CombatManager::EndAllCombat()</a>, <a class="el" href="../../#l02195">Unit::m_combatManager</a>, <a class="el" href="../../#l02194">Unit::m_threatManager</a>, and <a class="el" href="../../#l00101">SetInWorld()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00580">ThreatManager::ClearAllThreat()</a>, <a class="el" href="../../#l00147">CombatManager::EndAllCombat()</a>, <a class="el" href="../../#l02196">Unit::m_combatManager</a>, <a class="el" href="../../#l02195">Unit::m_threatManager</a>, and <a class="el" href="../../#l00101">SetInWorld()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00029">~TestCreature()</a>.</p>
 
@@ -3726,7 +3728,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  140</span>}</div>
 <div class="ttc" id="aclassThreatManager_html_ace6f8ec9c26e791c2e7492544f76ec59"><div class="ttname"><a href="../../d5/d1b/classThreatManager.html#ace6f8ec9c26e791c2e7492544f76ec59">ThreatManager::Initialize</a></div><div class="ttdeci">void Initialize()</div><div class="ttdef"><b>Definition</b> ThreatManager.cpp:226</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00226">ThreatManager::Initialize()</a>, and <a class="el" href="../../#l02194">Unit::m_threatManager</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">ThreatManager::Initialize()</a>, and <a class="el" href="../../#l02195">Unit::m_threatManager</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00121">SetupForCombatTest()</a>.</p>
 
@@ -3780,9 +3782,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   99</span>}</div>
 <div class="ttc" id="aUnit_8h_html_a40766b10780b3416efddc6acf0f16306a183b62c7f067711f9c5a54913c054617"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306a183b62c7f067711f9c5a54913c054617">DeathState::Dead</a></div><div class="ttdeci">@ Dead</div></div>
 <div class="ttc" id="aUnit_8h_html_a40766b10780b3416efddc6acf0f16306abd9f7c5d6ab4201b138a3e51dab7056f"><div class="ttname"><a href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306abd9f7c5d6ab4201b138a3e51dab7056f">DeathState::Alive</a></div><div class="ttdeci">@ Alive</div></div>
-<div class="ttc" id="aclassUnit_html_a6095270dbf0be2614592c880d455fa3c"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6095270dbf0be2614592c880d455fa3c">Unit::m_deathState</a></div><div class="ttdeci">DeathState m_deathState</div><div class="ttdef"><b>Definition</b> Unit.h:2153</div></div>
+<div class="ttc" id="aclassUnit_html_a6095270dbf0be2614592c880d455fa3c"><div class="ttname"><a href="../../df/dd9/classUnit.html#a6095270dbf0be2614592c880d455fa3c">Unit::m_deathState</a></div><div class="ttdeci">DeathState m_deathState</div><div class="ttdef"><b>Definition</b> Unit.h:2154</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306abd9f7c5d6ab4201b138a3e51dab7056f">Alive</a>, <a class="el" href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306a183b62c7f067711f9c5a54913c054617">Dead</a>, and <a class="el" href="../../#l02153">Unit::m_deathState</a>.</p>
+<p class="reference">References <a class="el" href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306abd9f7c5d6ab4201b138a3e51dab7056f">Alive</a>, <a class="el" href="../../d1/daf/Unit_8h.html#a40766b10780b3416efddc6acf0f16306a183b62c7f067711f9c5a54913c054617">Dead</a>, and <a class="el" href="../../#l02154">Unit::m_deathState</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00121">SetupForCombatTest()</a>.</p>
 
@@ -3809,9 +3811,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  118</span>    <a class="code hl_function" href="../../df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f">SetUInt32Value</a>(<a class="code hl_enumvalue" href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4fe913762a045b46b4ddbaa227f10bf4">UNIT_FIELD_FACTIONTEMPLATE</a>, faction);</div>
 <div class="line"><span class="lineno">  119</span>}</div>
 <div class="ttc" id="aUpdateFields_8h_html_a0e42dc606678c9df7884e1aad621e881a4fe913762a045b46b4ddbaa227f10bf4"><div class="ttname"><a href="../../df/d21/UpdateFields_8h.html#a0e42dc606678c9df7884e1aad621e881a4fe913762a045b46b4ddbaa227f10bf4">UNIT_FIELD_FACTIONTEMPLATE</a></div><div class="ttdeci">@ UNIT_FIELD_FACTIONTEMPLATE</div><div class="ttdef"><b>Definition</b> UpdateFields.h:115</div></div>
-<div class="ttc" id="aclassUnit_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition</b> Unit.cpp:17327</div></div>
+<div class="ttc" id="aclassUnit_html_ac2bd94b573bcf5e80cba886a8e2f540f"><div class="ttname"><a href="../../df/dd9/classUnit.html#ac2bd94b573bcf5e80cba886a8e2f540f">Unit::SetUInt32Value</a></div><div class="ttdeci">void SetUInt32Value(uint16 index, uint32 value)</div><div class="ttdef"><b>Definition</b> Unit.cpp:17363</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l17327">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00115">UNIT_FIELD_FACTIONTEMPLATE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l17363">Unit::SetUInt32Value()</a>, and <a class="el" href="../../#l00115">UNIT_FIELD_FACTIONTEMPLATE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00064">SetFriendlyFaction()</a>, and <a class="el" href="../../#l00063">SetHostileFaction()</a>.</p>
 
@@ -3925,9 +3927,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
 <div class="line"><span class="lineno">  111</span>    <a class="code hl_function" href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(phase, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  112</span>}</div>
-<div class="ttc" id="aclassUnit_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition</b> Unit.cpp:15278</div></div>
+<div class="ttc" id="aclassUnit_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../df/dd9/classUnit.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition</b> Unit.cpp:15314</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l15278">Unit::SetPhaseMask()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l15314">Unit::SetPhaseMask()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00121">SetupForCombatTest()</a>.</p>
 
@@ -4047,7 +4049,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   76</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/dd9/classUnit.html#ae233101a160ef3e8db7f6567fd916c44">m_combatManager</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02195">Unit::m_combatManager</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02196">Unit::m_combatManager</a>.</p>
 
 </div>
 </div>
@@ -4075,7 +4077,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   75</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/dd9/classUnit.html#a8d7cbf0fef6e7f027aed6c7d93f0efbe">m_threatManager</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02194">Unit::m_threatManager</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02195">Unit::m_threatManager</a>.</p>
 
 </div>
 </div>
@@ -4201,7 +4203,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d9f/classTestCreature.html">TestCreature</a></li>
-    <li class="footer">Generated on Fri Apr 10 2026 07:23:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sat Apr 11 2026 06:58:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

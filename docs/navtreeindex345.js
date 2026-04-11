@@ -1,5 +1,8 @@
 var NAVTREEINDEX345 =
 {
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27":[7,0,0,0,1,2,33,1,8,1],
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37":[7,0,0,0,1,2,33,1,8,3],
+"dd/dad/PetitionMgr_8h.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470":[7,0,0,0,1,2,33,1,8,2],
 "dd/dae/boss__erekem_8cpp.html":[7,0,0,0,1,3,5,12,1],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516":[7,0,0,0,1,3,5,12,1,4],
 "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5":[7,0,0,0,1,3,5,12,1,4,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX345 =
 "dd/db7/classAllSpellScript.html#a54e0b823c538c41507c541db025d5295":[6,0,156,7],
 "dd/db7/classAllSpellScript.html#a5d02de785a4e1cf5103110828fac5e75":[6,0,156,6],
 "dd/db7/classAllSpellScript.html#a95e37ac5e1e253fb6d759103ec55ac7a":[6,0,156,0],
-"dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[6,0,156,10],
-"dd/db7/classAllSpellScript.html#aac6481ca905c3f44f85c55aaf694afca":[6,0,156,12],
-"dd/db7/classAllSpellScript.html#aae718678bb7d9a7ed1e0cbbc59db3049":[6,0,156,14],
-"dd/db7/classAllSpellScript.html#abf3758ff33e5be1492ed4e45979a7a8d":[6,0,156,11]
+"dd/db7/classAllSpellScript.html#aa055f00fe76ba2768f97e23ecf379a18":[6,0,156,10]
 };

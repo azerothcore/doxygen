@@ -1,5 +1,8 @@
 var NAVTREEINDEX388 =
 {
+"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0ea8a524298496082994a3675c6ccf47bdd":[7,0,0,0,1,3,5,6,9,38,1],
+"de/de5/boss__sindragosa_8cpp.html#a714083728aa6a16b553f121358da0e0eac38379126931a364a3a1098005fd96b1":[7,0,0,0,1,3,5,6,9,38,4],
+"de/de5/boss__sindragosa_8cpp.html#a7db4b8be8a011d5120e62e41b9760c3d":[7,0,0,0,1,3,5,6,9,50],
 "de/de5/boss__sindragosa_8cpp.html#a88ac26498cd10ae88b17043588ad3b92":[7,0,0,0,1,3,5,6,9,51],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5":[7,0,0,0,1,3,5,6,9,39],
 "de/de5/boss__sindragosa_8cpp.html#a9858e93f7add1600046aa49088cbebd5a0930e81ee0cdfdd929154ab1493abb60":[7,0,0,0,1,3,5,6,9,39,1],
@@ -246,8 +249,5 @@ var NAVTREEINDEX388 =
 "de/dee/classConditionScript.html#a546130ee7ed33c7763115cb0d1506a1b":[6,0,911,0],
 "de/dee/classConditionScript.html#ac4f8325e3fa1e11437056818a0267342":[6,0,911,1],
 "de/dee/classcast__commandscript.html":[6,0,853],
-"de/dee/classcast__commandscript.html#a14da4e4674b065c8e8f3d1946a037bda":[6,0,853,2],
-"de/dee/classcast__commandscript.html#a156ca81fba7155205dae106aa4c221d6":[6,0,853,7],
-"de/dee/classcast__commandscript.html#a244b2d11a07fdcbb72f3207ab1e46ea5":[6,0,853,1],
-"de/dee/classcast__commandscript.html#a26e6986c45a99e6a94d7ba2d9a810aa3":[6,0,853,4]
+"de/dee/classcast__commandscript.html#a14da4e4674b065c8e8f3d1946a037bda":[6,0,853,2]
 };

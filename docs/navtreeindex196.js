@@ -1,5 +1,8 @@
 var NAVTREEINDEX196 =
 {
+"d7/d55/classSpectralBlastCheck.html#afbe13a5f90a5b95832e14fe9d7affc9f":[6,0,2604,1],
+"d7/d55/structQuestPOIPoint.html":[6,0,2487],
+"d7/d55/structQuestPOIPoint.html#a2e80e5a83ab336a8b019f38297862efa":[6,0,2487,1],
 "d7/d55/structQuestPOIPoint.html#a45211fd0fbeeb5d9fced2b2c31502851":[6,0,2487,3],
 "d7/d55/structQuestPOIPoint.html#a5e9592283b28cd6ff0610ec0438b2a2d":[6,0,2487,2],
 "d7/d55/structQuestPOIPoint.html#a99aaafe1fdae391c6fba20e0c623ff99":[6,0,2487,0],
@@ -205,8 +208,8 @@ var NAVTREEINDEX196 =
 "d7/d61/classFactoryCreatureScript.html#a62cd4db9e8dd3dab606f1166fdf0ce44":[6,0,1057,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[5,0,34,2,3],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html":[6,0,12,2,3],
-"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[6,0,12,2,3,1],
+"d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#a84701a16603f8b0f1e8dda1020ec1161":[5,0,34,2,3,1],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[5,0,34,2,3,0],
 "d7/d61/classWorldPackets_1_1Character_1_1LogoutRequest.html#ab92b0a8a5d3d076adbd465fcf24b7975":[6,0,12,2,3,0],
 "d7/d61/zone__elwynn__forest_8cpp.html":[7,0,0,0,1,3,2,22],
@@ -246,8 +249,5 @@ var NAVTREEINDEX196 =
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf":[7,0,0,0,1,3,2,22,8,17],
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01":[7,0,0,0,1,3,2,22,8,0],
 "d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56":[7,0,0,0,1,3,2,22,8,22],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2":[7,0,0,0,1,3,2,22,8,14],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d":[7,0,0,0,1,3,2,22,8,15],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6":[7,0,0,0,1,3,2,22,8,9],
-"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1":[7,0,0,0,1,3,2,22,8,18]
+"d7/d61/zone__elwynn__forest_8cpp.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2":[7,0,0,0,1,3,2,22,8,14]
 };

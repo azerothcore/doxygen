@@ -1,5 +1,8 @@
 var NAVTREEINDEX278 =
 {
+"da/de8/boss__broggok_8cpp.html#a5bd342133be8c2137b831460acc9298ca6ab0bda74bcf7baf41bcd485a9ce0edc":[7,0,0,0,1,3,7,4,0,1,4,3],
+"da/de8/boss__broggok_8cpp.html#a5bd342133be8c2137b831460acc9298ca9c5d1f42537cacfa5399c0fad0c3e9e4":[7,0,0,0,1,3,7,4,0,1,4,0],
+"da/de8/boss__broggok_8cpp.html#a5bd342133be8c2137b831460acc9298cad985868160cfc9033e029c6112712009":[7,0,0,0,1,3,7,4,0,1,4,1],
 "da/de8/boss__broggok_8cpp.html#a662bbd04ed2e2a16bfda7904ccb2fa9e":[7,0,0,0,1,3,7,4,0,1,5],
 "da/de8/boss__broggok_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68":[7,0,0,0,1,3,7,4,0,1,3],
 "da/de8/boss__broggok_8cpp.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe":[7,0,0,0,1,3,7,4,0,1,3,0],
@@ -246,8 +249,5 @@ var NAVTREEINDEX278 =
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a14e37a1a13bab56bee4263ceb45c69bc":[7,0,0,0,1,3,5,2,1,7,2,2],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2a98fd53128e0c2438aed5eab57b6df9":[7,0,0,0,1,3,5,2,1,7,2,8],
 "da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a2e12d1ea765aace9512a67956586acb7":[7,0,0,0,1,3,5,2,1,7,2,9],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a35c5db18527a5210c35afdda639e5b7d":[7,0,0,0,1,3,5,2,1,7,2,15],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a3f39ff485e4fb79cf75cbe2fb8d634a8":[7,0,0,0,1,3,5,2,1,7,2,7],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a43e3863c1ba486bb4daff98f2a54717c":[7,0,0,0,1,3,5,2,1,7,2,13],
-"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a4a5113216e560776149897fa9b9007d8":[7,0,0,0,1,3,5,2,1,7,2,12]
+"da/de8/trial__of__the__crusader_8h.html#afb6eb4f28419b652027fad41104a6d22a35c5db18527a5210c35afdda639e5b7d":[7,0,0,0,1,3,5,2,1,7,2,15]
 };

@@ -1,5 +1,8 @@
 var NAVTREEINDEX275 =
 {
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a54280d64be122db9921a84e13dcc0d0c":[7,0,0,0,1,2,16,7,5,138,6],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a5778598285eab24b521afbe19c8cfb48":[7,0,0,0,1,2,16,7,5,138,28],
+"da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a5b177695fe9f9c8f4a14993dbc21e6d5":[7,0,0,0,1,2,16,7,5,138,25],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a657cdb25a5d62dfe027214f2103552df":[7,0,0,0,1,2,16,7,5,138,1],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a66be9bd20987f151648d805b283589f0":[7,0,0,0,1,2,16,7,5,138,26],
 "da/dbf/Player_8h.html#ab0ddd46c046b84b12f547fc652ddbcd0a6a3ab596e53d6f891597c53ac12cf0b1":[7,0,0,0,1,2,16,7,5,138,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX275 =
 "da/dca/structCharacterCustomizeInfo.html#aeaa7ce4ecea7f42def63049424a2dd6b":[4,1,16,5],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html":[6,0,556,0],
 "da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a0cc9573f8e2a35faaeee48ff9095e93f":[6,0,556,0,17],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a11dc0853f1262b11c7d58559864698e2":[6,0,556,0,16],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a2eb918a85cd7025f5f65c1aec7e9fd1f":[6,0,556,0,12],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a3b04d35967c6e475f54e7bc52e828954":[6,0,556,0,10],
-"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a4312f74f67649f5f2f3cfaf2a46b09e8":[6,0,556,0,2]
+"da/dca/structboss__ichoron_1_1boss__ichoronAI.html#a11dc0853f1262b11c7d58559864698e2":[6,0,556,0,16]
 };

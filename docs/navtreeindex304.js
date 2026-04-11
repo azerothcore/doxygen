@@ -1,5 +1,8 @@
 var NAVTREEINDEX304 =
 {
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html":[6,0,1678,0],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a05e6dc20409e2271de8fe4f4b3ae7bfa":[6,0,1678,0,10],
+"db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a06e0e0c1e673c13488bd47e130098915":[6,0,1678,0,1],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a25f4056b2d7fda02885f58502f809a9c":[6,0,1678,0,11],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a34a0a856a4a4c05954ba300d8031e374":[6,0,1678,0,4],
 "db/dd5/structnpc__blessed__banner_1_1npc__blessed__bannerAI.html#a369a837b6fa57d0960f24d9ea629ed04":[6,0,1678,0,8],
@@ -163,10 +166,10 @@ var NAVTREEINDEX304 =
 "db/dda/structAccountFlagText.html":[6,0,26],
 "db/dda/structAccountFlagText.html#a3bf2ae3fd8a347ee70e2c537d909ce30":[6,0,26,1],
 "db/dda/structAccountFlagText.html#abde26bce31a9153038294f78e9fdc18c":[6,0,26,0],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[6,0,0,5,0,7],
-"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html":[5,0,1,8,0,7],
 "db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[6,0,0,5,0,7,0],
+"db/dda/structAcore_1_1Impl_1_1ChatCommands_1_1ArgInfo_3_01Quest_01const_01_5_01_4.html#ad05fd0aa821ee47f5bbdac096c421dfa":[5,0,1,8,0,7,0],
 "db/ddb/classConfigException.html":[6,0,914],
 "db/ddb/classConfigException.html#af1f2b8eb0acd137a05eb4417d7e9d626":[6,0,914,0],
 "db/ddb/classTaskContext.html":[6,0,4470],
@@ -215,12 +218,12 @@ var NAVTREEINDEX304 =
 "db/ddb/classnpc__blood__queen__lana__thel.html#a02d928ac4ef1704cee2498ebe6533561":[6,0,1680,2],
 "db/ddb/classnpc__blood__queen__lana__thel.html#a39adef3ae54efd4433805bd8ad4719be":[6,0,1680,1],
 "db/ddc/ItemPackets_8cpp.html":[7,0,0,0,1,2,39,0,17],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,12,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[5,0,34,6,48],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html":[6,0,12,6,48],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[6,0,12,6,48,1],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a7019344fef99c5479602d7bc1176e9ee":[5,0,34,6,48,1],
-"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[6,0,12,6,48,2],
+"db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a786802ce427465d66a4cea1365743975":[5,0,34,6,48,2],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[6,0,12,6,48,0],
 "db/ddd/classWorldPackets_1_1Guild_1_1GuildUpdateInfoText.html#a82afd6cb3240da6870990d6f80f69cd6":[5,0,34,6,48,0],
 "db/ddd/structSpellThreatEntry.html":[6,0,4435],
@@ -246,8 +249,5 @@ var NAVTREEINDEX304 =
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dd":[7,0,0,0,1,3,2,4,9,8],
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dda56e3a3f46b3461af29f9f045686dfe5f":[7,0,0,0,1,3,2,4,9,8,2],
 "db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8dda731300d55e294f9fc40d8bc5e2bd7a55":[7,0,0,0,1,3,2,4,9,8,0],
-"db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8ddad5fe85bcf673fc6b49dca1275a953383":[7,0,0,0,1,3,2,4,9,8,1],
-"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,4,9,4],
-"db/dde/boss__shade__of__aran_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a20029c58282cf9c3559c32a2aed1b1bd":[7,0,0,0,1,3,2,4,9,4,0],
-"db/dde/boss__shade__of__aran_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,4,9,6]
+"db/dde/boss__shade__of__aran_8cpp.html#a13de39ada9b9244fafa537fb0cdba8ddad5fe85bcf673fc6b49dca1275a953383":[7,0,0,0,1,3,2,4,9,8,1]
 };
