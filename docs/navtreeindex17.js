@@ -1,5 +1,10 @@
 var NAVTREEINDEX17 =
 {
+"d0/dae/classItem.html#a9f88246dc5897db068da95ed1f473eec":[6,0,1396,66],
+"d0/dae/classItem.html#a9fa58bddfa32f487e6ab892ec0d938f4":[6,0,1396,58],
+"d0/dae/classItem.html#aaacfba1110503dbaeea53c9a214feb7e":[6,0,1396,17],
+"d0/dae/classItem.html#aabd654a81738e949c2b28e8d78a1d427":[6,0,1396,88],
+"d0/dae/classItem.html#aaf1d2114d3a6258f426384ba2653a492":[6,0,1396,103],
 "d0/dae/classItem.html#ab0b94825178d37e1d0eb35f2d3f817ba":[6,0,1396,112],
 "d0/dae/classItem.html#ab2c788fbc44138fc51bb69b4cfd9cafa":[6,0,1396,54],
 "d0/dae/classItem.html#ab481001878b59e35889e750156f3d558":[6,0,1396,78],
@@ -244,10 +249,5 @@ var NAVTREEINDEX17 =
 "d0/db7/classGroup.html#afdb35f1d4e4528ed5ef3e958975b0d46":[6,0,1249,94],
 "d0/db8/classDelayedWindstoneSummonEvent.html":[6,0,997],
 "d0/db8/classDelayedWindstoneSummonEvent.html#aa413bc8709bc543b89ffb3df42185475":[6,0,997,1],
-"d0/db8/classDelayedWindstoneSummonEvent.html#aa97daf8cf3479395ffd6558b6699436a":[6,0,997,0],
-"d0/db8/classDelayedWindstoneSummonEvent.html#ad83bb6d87b569f59e99abcc16517745b":[6,0,997,2],
-"d0/db8/classDelayedWindstoneSummonEvent.html#af9804d276da5daebab3a37f2c75301ea":[6,0,997,3],
-"d0/dba/SpellInfo_8h.html":[7,0,0,0,1,2,41,6],
-"d0/dba/SpellInfo_8h.html#a0a81cd007334dc93766a3232dd6706eb":[7,0,0,0,1,2,41,6,9],
-"d0/dba/SpellInfo_8h.html#a0a81cd007334dc93766a3232dd6706eba4d5cf0d4a9e4b12de975cea878643ff1":[7,0,0,0,1,2,41,6,9,2]
+"d0/db8/classDelayedWindstoneSummonEvent.html#aa97daf8cf3479395ffd6558b6699436a":[6,0,997,0]
 };

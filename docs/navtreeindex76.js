@@ -1,5 +1,8 @@
 var NAVTREEINDEX76 =
 {
+"d2/ddf/structnpc__pos__deathwhisper__necrolyte_1_1npc__pos__deathwhisper__necrolyteAI.html#afb71e537115d36795c2568360b2d58ce":[6,0,2063,0,11],
+"d2/de0/CharacterCache_8h.html":[7,0,0,0,1,2,9,1],
+"d2/de0/CharacterCache_8h.html#a7a32c898b33d6163d83a32f46d58517c":[7,0,0,0,1,2,9,1,2],
 "d2/de0/GuildHandler_8cpp.html":[7,0,0,0,1,2,22,14],
 "d2/de0/classspell__dreamwalker__summoner.html":[6,0,2853],
 "d2/de0/classspell__dreamwalker__summoner.html#a454a8909be4bb85f255ea696041ea447":[6,0,2853,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX76 =
 "d2/de9/classSpellInfo.html#a86f59d4445fd778eb13ee102eb53d3a8":[6,0,4391,75],
 "d2/de9/classSpellInfo.html#a872cb18421b8e2ebde89d3f0a4a18b49":[6,0,4391,136],
 "d2/de9/classSpellInfo.html#a889b32138b72e5e9fabfc03d9cd3b97a":[6,0,4391,107],
-"d2/de9/classSpellInfo.html#a8a627136cf1624b944f8c12702e1e7ed":[6,0,4391,145],
-"d2/de9/classSpellInfo.html#a8ab6fe71653fb500057fe9ab86025315":[6,0,4391,60],
-"d2/de9/classSpellInfo.html#a8b0406b9d3923cb0f92099f9c12822cb":[6,0,4391,5],
-"d2/de9/classSpellInfo.html#a8ba2153277635fd4503d833931591684":[6,0,4391,8]
+"d2/de9/classSpellInfo.html#a8a627136cf1624b944f8c12702e1e7ed":[6,0,4391,145]
 };

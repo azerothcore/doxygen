@@ -1,7 +1,6 @@
 var boss__cyanigosa_8cpp =
 [
-    [ "boss_cyanigosa", "d8/dbb/classboss__cyanigosa.html", "d8/dbb/classboss__cyanigosa" ],
-    [ "boss_cyanigosa::boss_cyanigosaAI", "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI.html", "dc/dc4/structboss__cyanigosa_1_1boss__cyanigosaAI" ],
+    [ "boss_cyanigosa", "da/d74/structboss__cyanigosa.html", "da/d74/structboss__cyanigosa" ],
     [ "eEvents", "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_SPELL_ARCANE_VACUUM", "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516acb48837ba0691add5fffa4a9f6f0e39a", null ],
       [ "EVENT_SPELL_BLIZZARD", "d4/d24/boss__cyanigosa_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a33b228b7afc7a5c8390ac93fb391dd89", null ],

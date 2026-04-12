@@ -1,6 +1,5 @@
 var NAVTREEINDEX11 =
 {
-"d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa5a9d00590152ece2beb2305c6f271dd9":[7,0,0,0,1,3,5,6,2,20,0],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfa60909c05d10c098adcbe8cb141872ef8":[7,0,0,0,1,3,5,6,2,20,7],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfab254c40fbc2ac116fbb4419b8b523f18":[7,0,0,0,1,3,5,6,2,20,8],
 "d0/d80/boss__deathbringer__saurfang_8cpp.html#a250372292659bed7ae290d8621f88ccfaea03e99f5d2105750a0babff4084813f":[7,0,0,0,1,3,5,6,2,20,5],
@@ -249,5 +248,6 @@ var NAVTREEINDEX11 =
 "d0/d88/boss__hedrum_8cpp.html#a89d9028330c8dc18f9e316257103a7a3":[7,0,0,0,1,3,2,1,0,9,3],
 "d0/d88/structSpellRadiusEntry.html":[6,0,4426],
 "d0/d88/structSpellRadiusEntry.html#a74bb59afb808af45ceff6367468fca1e":[6,0,4426,3],
-"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4426,0]
+"d0/d88/structSpellRadiusEntry.html#aa5db020808990dc98fc143e4a5e0d2b2":[6,0,4426,0],
+"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4426,1]
 };

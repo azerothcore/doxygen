@@ -1,5 +1,7 @@
 var NAVTREEINDEX55 =
 {
+"d2/d2d/classDamageInfo.html#a92d500e09cf80873f1c9751841dede58":[6,0,969,27],
+"d2/d2d/classDamageInfo.html#a9b39c211a157092dbd0111ac46bef8a4":[6,0,969,28],
 "d2/d2d/classDamageInfo.html#aa241087126e9dd972944dee7225783a8":[6,0,969,2],
 "d2/d2d/classDamageInfo.html#aaa739f7998796bd333ee95a8394b0cea":[6,0,969,12],
 "d2/d2d/classDamageInfo.html#aaf007fcfad971a31ad76d293a298575b":[6,0,969,30],
@@ -59,8 +61,8 @@ var NAVTREEINDEX55 =
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html":[5,0,34,7,5],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[5,0,34,7,5,0],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a3adea4e58ba48bc438e11056cb49e5ab":[6,0,12,7,5,0],
-"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[5,0,34,7,5,2],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[6,0,12,7,5,2],
+"d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a5e216ba7ada0d073b5aebaaa3f221752":[5,0,34,7,5,2],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[6,0,12,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#a9e3eaebd002b3ed9599c9c2671f9b78e":[5,0,34,7,5,1],
 "d2/d31/classWorldPackets_1_1Instance_1_1SetDungeonDifficulty.html#aea436cf338c4bd6b0d2dbc11edda9e3e":[6,0,12,7,5,4],
@@ -124,12 +126,12 @@ var NAVTREEINDEX55 =
 "d2/d33/classspell__item__net__o__matic.html#abde4e8528f1af9a595fb32741e397397":[6,0,3411,1],
 "d2/d33/classspell__item__net__o__matic.html#ae1f9429b4e5b8965c65f246e03efbaf0":[6,0,3411,0],
 "d2/d33/classspell__item__net__o__matic.html#af1658e856195d22042de5beab1eec212":[6,0,3411,3],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[6,0,12,2,0],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html":[5,0,34,2,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[5,0,34,2,0,0],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a179fccf74fa969e6a32492f35d6f28c8":[6,0,12,2,0,0],
-"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,12,2,0,1],
 "d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[5,0,34,2,0,1],
+"d2/d34/classWorldPackets_1_1Character_1_1LogoutCancel.html#a9ed27bc4472b7e4e225793b4f2e5a34d":[6,0,12,2,0,1],
 "d2/d35/BattlegroundAB_8h.html":[7,0,0,0,1,2,8,1,1],
 "d2/d35/BattlegroundAB_8h.html#a17477e3186c4fbc193be057a70100139":[7,0,0,0,1,2,8,1,1,16],
 "d2/d35/BattlegroundAB_8h.html#a36633fb23fb5fa96337b4ec4aec93716":[7,0,0,0,1,2,8,1,1,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX55 =
 "d2/d38/northrend__script__loader_8cpp.html#a06823f38ce159119a322b18ac9bbfce8":[7,0,0,0,1,3,5,14,110],
 "d2/d38/northrend__script__loader_8cpp.html#a06842c050193a25a9c1c8cfbc9608227":[7,0,0,0,1,3,5,14,84],
 "d2/d38/northrend__script__loader_8cpp.html#a0793b7a11993f477eea1066a2da4bbb2":[7,0,0,0,1,3,5,14,140],
-"d2/d38/northrend__script__loader_8cpp.html#a09ed7c7f3de43176bd1f2dd593481558":[7,0,0,0,1,3,5,14,88],
-"d2/d38/northrend__script__loader_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea":[7,0,0,0,1,3,5,14,32],
-"d2/d38/northrend__script__loader_8cpp.html#a0f581d4a1a046db6b8b7729c87457646":[7,0,0,0,1,3,5,14,133]
+"d2/d38/northrend__script__loader_8cpp.html#a09ed7c7f3de43176bd1f2dd593481558":[7,0,0,0,1,3,5,14,88]
 };

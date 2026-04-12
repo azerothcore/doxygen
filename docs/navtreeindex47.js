@@ -1,10 +1,5 @@
 var NAVTREEINDEX47 =
 {
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570acde138e1f674d1e33c52f9344118dc21":[7,0,0,0,1,3,9,11,45,19],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad4e434ec7d905a6626250d939cc14334":[7,0,0,0,1,3,9,11,45,53],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad93fdef2facd4fd7450d64a2554d45a6":[7,0,0,0,1,3,9,11,45,16],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ad95ba7ba12fda07f5930c7c223c14f90":[7,0,0,0,1,3,9,11,45,31],
-"d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ae85880434e6eca0282993c615ead7552":[7,0,0,0,1,3,9,11,45,11],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570ae992cd54e249bf6fd8b7da6a4725c38c":[7,0,0,0,1,3,9,11,45,48],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570aebfbd8d130fbd9189f33869fa00c80be":[7,0,0,0,1,3,9,11,45,20],
 "d1/dd5/spell__warlock_8cpp.html#a4245c2f90407b49fba1c8eb66fd58570af041dc2bf0ecf42958a9a8f521460862":[7,0,0,0,1,3,9,11,45,52],
@@ -184,8 +179,8 @@ var NAVTREEINDEX47 =
 "d1/de0/classLootStore.html#afd0762a7391f530009b44bf6b4a3a3be":[6,0,1477,19],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[6,0,12,6,26],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html":[5,0,34,6,26],
-"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[5,0,34,6,26,2],
+"d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#a60c7e56c201d794fb473a62fccc160bb":[6,0,12,6,26,2],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[6,0,12,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aa3d68021828c516d7b1995811e8df7d7":[5,0,34,6,26,0],
 "d1/de0/classWorldPackets_1_1Guild_1_1GuildDemoteMember.html#aca46670c89e3d15df6a3f6694ab3dcb6":[6,0,12,6,26,1],
@@ -249,5 +244,10 @@ var NAVTREEINDEX47 =
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa68a64acab8a94299916178195d003cac":[7,0,0,0,1,3,9,2,194,20],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa69bc0a121d059e4afa51e84d7543593a":[7,0,0,0,1,3,9,2,194,32],
 "d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa6a12983961b2c359d4bdedb6aeb352cf":[7,0,0,0,1,3,9,2,194,34],
-"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa7ff32bcf0145d16bdad8b048e2b212f8":[7,0,0,0,1,3,9,2,194,14]
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa7ff32bcf0145d16bdad8b048e2b212f8":[7,0,0,0,1,3,9,2,194,14],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa960f11fd91f87c9d53376107e6d7dd12":[7,0,0,0,1,3,9,2,194,18],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fa9d0500773a2dac48445fb5cb0d6e1e66":[7,0,0,0,1,3,9,2,194,21],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34faae233451e7927c6cf0b97f9340bb5bfc":[7,0,0,0,1,3,9,2,194,23],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fab4358e90b497dfdba0e47a7ee871154d":[7,0,0,0,1,3,9,2,194,26],
+"d1/de4/spell__generic_8cpp.html#a077c8c5d46462164cfa419b5e5cbb34fabdd64828eb3b9112e567a8c0fff65795":[7,0,0,0,1,3,9,2,194,9]
 };

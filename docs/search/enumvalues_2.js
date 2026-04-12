@@ -2293,7 +2293,7 @@ var searchData=
   ['credit_5ftrot_2290',['CREDIT_TROT',['../dc/ddf/brewfest_8cpp.html#ad4b3aaf9f254862105723498475a0e8ea4c699153018141923bc67370ea550fc2',1,'brewfest.cpp']]],
   ['creeping_5fdoom_5fentry_2291',['CREEPING_DOOM_ENTRY',['../d8/d19/npc__stave__of__ancients_8h.html#ad8c06f7bd08693fefc384a9896581248a9300940a11d265d7b0c4f85422830a50',1,'npc_stave_of_ancients.h']]],
   ['crit_5fpercentage_2292',['CRIT_PERCENTAGE',['../d1/daf/Unit_8h.html#a938646605f1e70b8f1613bf9bdb78b4fa75a0f4d4487127ec7c34e7f0f547efb4',1,'Unit.h']]],
-  ['criteria_5fa_5fvoid_5fdance_2293',['CRITERIA_A_VOID_DANCE',['../da/d4c/violet__hold_8h.html#a9e6830029c6a75798644707b0123f1ffadf51f15d2ff829e0247ca376b02d71a2',1,'violet_hold.h']]],
+  ['criteria_5fa_5fvoid_5fdance_2293',['CRITERIA_A_VOID_DANCE',['../da/d4c/violet__hold_8h.html#a895f0b1a53d4bf190879bf5ebcceef1eadf51f15d2ff829e0247ca376b02d71a2',1,'violet_hold.h']]],
   ['criteria_5famber_5fvoid_2294',['CRITERIA_AMBER_VOID',['../df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eaadbc758e3c1b7e6a6595c6a8178b4737',1,'oculus.h']]],
   ['criteria_5fboned_5f10h_2295',['CRITERIA_BONED_10H',['../d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a3019da6347d1347944026c2f27676da6',1,'icecrown_citadel.h']]],
   ['criteria_5fboned_5f10n_2296',['CRITERIA_BONED_10N',['../d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a08bb47796001cc63db5d6f1d8b3af5d0',1,'icecrown_citadel.h']]],
@@ -2303,8 +2303,8 @@ var searchData=
   ['criteria_5fdances_5fwith_5foozes_5f10n_2300',['CRITERIA_DANCES_WITH_OOZES_10N',['../d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a9b80ab7c10a65f2986e785c042761b9c',1,'icecrown_citadel.h']]],
   ['criteria_5fdances_5fwith_5foozes_5f25h_2301',['CRITERIA_DANCES_WITH_OOZES_25H',['../d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11a9c842791ca03c53cb3f54b089fce41be',1,'icecrown_citadel.h']]],
   ['criteria_5fdances_5fwith_5foozes_5f25n_2302',['CRITERIA_DANCES_WITH_OOZES_25N',['../d9/d6a/icecrown__citadel_8h.html#a28778a1d686a0babf608cbd20d967c11aa7ecfd891ced0228e50c82434657dc72',1,'icecrown_citadel.h']]],
-  ['criteria_5fdefenseless_2303',['CRITERIA_DEFENSELESS',['../da/d4c/violet__hold_8h.html#a9e6830029c6a75798644707b0123f1ffa2c7dcb6d482e7cda899509e5e91d3af9',1,'violet_hold.h']]],
-  ['criteria_5fdehydration_2304',['CRITERIA_DEHYDRATION',['../da/d4c/violet__hold_8h.html#a9e6830029c6a75798644707b0123f1ffa6b837aacbdf0326bdb2026d8c373ed4d',1,'violet_hold.h']]],
+  ['criteria_5fdefenseless_2303',['CRITERIA_DEFENSELESS',['../da/d4c/violet__hold_8h.html#a895f0b1a53d4bf190879bf5ebcceef1ea2c7dcb6d482e7cda899509e5e91d3af9',1,'violet_hold.h']]],
+  ['criteria_5fdehydration_2304',['CRITERIA_DEHYDRATION',['../da/d4c/violet__hold_8h.html#a895f0b1a53d4bf190879bf5ebcceef1ea6b837aacbdf0326bdb2026d8c373ed4d',1,'violet_hold.h']]],
   ['criteria_5fearth_5fwind_5ffire_5f10_2305',['CRITERIA_EARTH_WIND_FIRE_10',['../d7/d0c/vault__of__archavon_8h.html#a28778a1d686a0babf608cbd20d967c11abcae9f8565a66a68ce338e808a699df1',1,'vault_of_archavon.h']]],
   ['criteria_5fearth_5fwind_5ffire_5f25_2306',['CRITERIA_EARTH_WIND_FIRE_25',['../d7/d0c/vault__of__archavon_8h.html#a28778a1d686a0babf608cbd20d967c11a805a284152e067cf32004ddf4abd83a7',1,'vault_of_archavon.h']]],
   ['criteria_5femerald_5fvoid_2307',['CRITERIA_EMERALD_VOID',['../df/d29/oculus_8h.html#a40fe1d92134cb8005a020994cf6edd5eadfdde38b50c8ebe99daea31afb11415d',1,'oculus.h']]],
@@ -2339,6 +2339,6 @@ var searchData=
   ['current_5fmelee_5fspell_2336',['CURRENT_MELEE_SPELL',['../d1/daf/Unit_8h.html#ab791040bd6d685b1fd2cfd12c96d0a1fabf840fee2a2e133105c6a92a7b43a272',1,'Unit.h']]],
   ['custom_2337',['CUSTOM',['../d6/d7f/classUpdateFetcher.html#a67e1565cbdd009909badb09d67eea1cbab25140471fb922c632f3d126d2a3e5b4',1,'UpdateFetcher']]],
   ['cyan_2338',['CYAN',['../df/dc8/AppenderConsole_8h.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc',1,'AppenderConsole.h']]],
-  ['cyanigosa_5fsay_5fspawn_2339',['CYANIGOSA_SAY_SPAWN',['../db/dec/instance__violet__hold_8cpp.html#af81bfaea39a160ddb9422869d6637d65ad55452f43eb6c2a7803dd3a6914ff586',1,'instance_violet_hold.cpp']]],
+  ['cyanigosa_5fsay_5fspawn_2339',['CYANIGOSA_SAY_SPAWN',['../db/dec/instance__violet__hold_8cpp.html#a3b04686d1d725527c68f5a3354f3badcad55452f43eb6c2a7803dd3a6914ff586',1,'instance_violet_hold.cpp']]],
   ['cyclic_2340',['Cyclic',['../db/d9d/classMovement_1_1MoveSplineFlag.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca593416e180d36af9ab09946e90800c0d',1,'Movement::MoveSplineFlag']]]
 ];

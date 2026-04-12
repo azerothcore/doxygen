@@ -108,7 +108,6 @@ $(document).ready(function(){initNavTree('d7/db0/boss__zuramat_8cpp.html','../..
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">boss_zuramat.cpp File Reference</div></div>
@@ -123,19 +122,10 @@ $(document).ready(function(){initNavTree('d7/db0/boss__zuramat_8cpp.html','../..
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d06/classboss__zuramat.html">boss_zuramat</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfd/structboss__zuramat.html">boss_zuramat</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d36/structboss__zuramat_1_1boss__zuramatAI.html">boss_zuramat::boss_zuramatAI</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d9f/structnpc__vh__void__sentry.html">npc_vh_void_sentry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d28/classnpc__vh__void__sentry.html">npc_vh_void_sentry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d34/structnpc__vh__void__sentry_1_1npc__vh__void__sentryAI.html">npc_vh_void_sentry::npc_vh_void_sentryAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ad5b8f2597f257f84fe802e98918f9f6a" id="r_ad5b8f2597f257f84fe802e98918f9f6a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#ad5b8f2597f257f84fe802e98918f9f6a">NPC_VOID_SENTRY_BALL</a>&#160;&#160;&#160;29365</td></tr>
-<tr class="separator:ad5b8f2597f257f84fe802e98918f9f6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
@@ -165,6 +155,9 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:ad55cdc1f9b28ac7c9d9b316ba4b039a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59602e8f26d052c0b6f6bdfe896510b8" id="r_a59602e8f26d052c0b6f6bdfe896510b8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#a59602e8f26d052c0b6f6bdfe896510b8">eCreatures</a> { <a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#a59602e8f26d052c0b6f6bdfe896510b8a7e569fe07b6e4ba76317e1cdd19c0e78">NPC_VOID_SENTRY_BALL</a> = 29365
+ }</td></tr>
+<tr class="separator:a59602e8f26d052c0b6f6bdfe896510b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1d3512b0adb171bd0db6aad2c9e70516" id="r_a1d3512b0adb171bd0db6aad2c9e70516"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516">eEvents</a> { <br />
 &#160;&#160;<a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a417dfef9977f8e27e0e6774c63ddf5f4">EVENT_SPELL_SHROUD_OF_DARKNESS</a> = 1
 , <br />
@@ -174,28 +167,37 @@ Enumerations</h2></td></tr>
 <br />
  }</td></tr>
 <tr class="separator:a1d3512b0adb171bd0db6aad2c9e70516"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7e778bc148b62c65f9c3d97d2817a6c" id="r_aa7e778bc148b62c65f9c3d97d2817a6c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#aa7e778bc148b62c65f9c3d97d2817a6c">eVoidSentryEvents</a> { <a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#aa7e778bc148b62c65f9c3d97d2817a6ca9328835baed390b09e66739d2f0c8ac0">EVENT_CHECK_SUMMONER</a> = 1
+ }</td></tr>
+<tr class="separator:aa7e778bc148b62c65f9c3d97d2817a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a9e93c2654d96f958e082e7985634433c" id="r_a9e93c2654d96f958e082e7985634433c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#a9e93c2654d96f958e082e7985634433c">AddSC_boss_zuramat</a> ()</td></tr>
 <tr class="separator:a9e93c2654d96f958e082e7985634433c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="ad5b8f2597f257f84fe802e98918f9f6a" name="ad5b8f2597f257f84fe802e98918f9f6a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5b8f2597f257f84fe802e98918f9f6a">&#9670;&#160;</a></span>NPC_VOID_SENTRY_BALL</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a59602e8f26d052c0b6f6bdfe896510b8" name="a59602e8f26d052c0b6f6bdfe896510b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59602e8f26d052c0b6f6bdfe896510b8">&#9670;&#160;</a></span>eCreatures</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define NPC_VOID_SENTRY_BALL&#160;&#160;&#160;29365</td>
+          <td class="memname">enum <a class="el" href="../../d3/ddf/onyxias__lair_8h.html#a59602e8f26d052c0b6f6bdfe896510b8">eCreatures</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a59602e8f26d052c0b6f6bdfe896510b8a7e569fe07b6e4ba76317e1cdd19c0e78" name="a59602e8f26d052c0b6f6bdfe896510b8a7e569fe07b6e4ba76317e1cdd19c0e78"></a>NPC_VOID_SENTRY_BALL&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d7/db0/boss__zuramat_8cpp.html#a59602e8f26d052c0b6f6bdfe896510b8a7e569fe07b6e4ba76317e1cdd19c0e78">NPC_VOID_SENTRY_BALL</a>                            = 29365,</div>
+<div class="line"><span class="lineno">   44</span>};</div>
+<div class="ttc" id="aboss__zuramat_8cpp_html_a59602e8f26d052c0b6f6bdfe896510b8a7e569fe07b6e4ba76317e1cdd19c0e78"><div class="ttname"><a href="../../d7/db0/boss__zuramat_8cpp.html#a59602e8f26d052c0b6f6bdfe896510b8a7e569fe07b6e4ba76317e1cdd19c0e78">NPC_VOID_SENTRY_BALL</a></div><div class="ttdeci">@ NPC_VOID_SENTRY_BALL</div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:43</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
 <a id="a1d3512b0adb171bd0db6aad2c9e70516" name="a1d3512b0adb171bd0db6aad2c9e70516"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1d3512b0adb171bd0db6aad2c9e70516">&#9670;&#160;</a></span>eEvents</h2>
 
@@ -245,14 +247,32 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a6b0de37cbb06e1c1747c0a25eb04e98c">SPELL_VOID_SHIFT</a>                                = 54361,</div>
 <div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5c1455269f8b3c292743c460d0a7ad0d">SPELL_SUMMON_VOID_SENTRY</a>                        = 54369,</div>
 <div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa789066f4f1549df8b43a7e090761d37">SPELL_SUMMON_VOID_SENTRY_BALL</a>                   = 58650,</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    <span class="comment">//SPELL_ZURAMAT_ADD_2_N                         = 54342,</span></div>
-<div class="line"><span class="lineno">   41</span>    <span class="comment">//SPELL_ZURAMAT_ADD_2_H                         = 59747,</span></div>
-<div class="line"><span class="lineno">   42</span>};</div>
+<div class="line"><span class="lineno">   39</span>};</div>
 <div class="ttc" id="aboss__zuramat_8cpp_html_ad55cdc1f9b28ac7c9d9b316ba4b039a0a5c1455269f8b3c292743c460d0a7ad0d"><div class="ttname"><a href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a5c1455269f8b3c292743c460d0a7ad0d">SPELL_SUMMON_VOID_SENTRY</a></div><div class="ttdeci">@ SPELL_SUMMON_VOID_SENTRY</div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:37</div></div>
 <div class="ttc" id="aboss__zuramat_8cpp_html_ad55cdc1f9b28ac7c9d9b316ba4b039a0a6b0de37cbb06e1c1747c0a25eb04e98c"><div class="ttname"><a href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0a6b0de37cbb06e1c1747c0a25eb04e98c">SPELL_VOID_SHIFT</a></div><div class="ttdeci">@ SPELL_VOID_SHIFT</div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:36</div></div>
 <div class="ttc" id="aboss__zuramat_8cpp_html_ad55cdc1f9b28ac7c9d9b316ba4b039a0aa789066f4f1549df8b43a7e090761d37"><div class="ttname"><a href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aa789066f4f1549df8b43a7e090761d37">SPELL_SUMMON_VOID_SENTRY_BALL</a></div><div class="ttdeci">@ SPELL_SUMMON_VOID_SENTRY_BALL</div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:38</div></div>
 <div class="ttc" id="aboss__zuramat_8cpp_html_ad55cdc1f9b28ac7c9d9b316ba4b039a0afc4a690985df0b34f970a3f37e93fc8c"><div class="ttname"><a href="../../d7/db0/boss__zuramat_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0afc4a690985df0b34f970a3f37e93fc8c">SPELL_SHROUD_OF_DARKNESS</a></div><div class="ttdeci">@ SPELL_SHROUD_OF_DARKNESS</div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:35</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa7e778bc148b62c65f9c3d97d2817a6c" name="aa7e778bc148b62c65f9c3d97d2817a6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7e778bc148b62c65f9c3d97d2817a6c">&#9670;&#160;</a></span>eVoidSentryEvents</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/db0/boss__zuramat_8cpp.html#aa7e778bc148b62c65f9c3d97d2817a6c">eVoidSentryEvents</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa7e778bc148b62c65f9c3d97d2817a6ca9328835baed390b09e66739d2f0c8ac0" name="aa7e778bc148b62c65f9c3d97d2817a6ca9328835baed390b09e66739d2f0c8ac0"></a>EVENT_CHECK_SUMMONER&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d7/db0/boss__zuramat_8cpp.html#aa7e778bc148b62c65f9c3d97d2817a6ca9328835baed390b09e66739d2f0c8ac0">EVENT_CHECK_SUMMONER</a> = 1,</div>
+<div class="line"><span class="lineno">   56</span>};</div>
+<div class="ttc" id="aboss__zuramat_8cpp_html_aa7e778bc148b62c65f9c3d97d2817a6ca9328835baed390b09e66739d2f0c8ac0"><div class="ttname"><a href="../../d7/db0/boss__zuramat_8cpp.html#aa7e778bc148b62c65f9c3d97d2817a6ca9328835baed390b09e66739d2f0c8ac0">EVENT_CHECK_SUMMONER</a></div><div class="ttdeci">@ EVENT_CHECK_SUMMONER</div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:55</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -307,13 +327,16 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  254</span>{</div>
-<div class="line"><span class="lineno">  255</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/d06/classboss__zuramat.html">boss_zuramat</a>();</div>
-<div class="line"><span class="lineno">  256</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d8/d28/classnpc__vh__void__sentry.html">npc_vh_void_sentry</a>();</div>
-<div class="line"><span class="lineno">  257</span>}</div>
-<div class="ttc" id="aclassboss__zuramat_html"><div class="ttname"><a href="../../da/d06/classboss__zuramat.html">boss_zuramat</a></div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:54</div></div>
-<div class="ttc" id="aclassnpc__vh__void__sentry_html"><div class="ttname"><a href="../../d8/d28/classnpc__vh__void__sentry.html">npc_vh_void_sentry</a></div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:181</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_define" href="../../da/d4c/violet__hold_8h.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d6/dfd/structboss__zuramat.html">boss_zuramat</a>);</div>
+<div class="line"><span class="lineno">  202</span>    <a class="code hl_define" href="../../da/d4c/violet__hold_8h.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a>(<a class="code hl_struct" href="../../d9/d9f/structnpc__vh__void__sentry.html">npc_vh_void_sentry</a>);</div>
+<div class="line"><span class="lineno">  203</span>}</div>
+<div class="ttc" id="astructboss__zuramat_html"><div class="ttname"><a href="../../d6/dfd/structboss__zuramat.html">boss_zuramat</a></div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:59</div></div>
+<div class="ttc" id="astructnpc__vh__void__sentry_html"><div class="ttname"><a href="../../d9/d9f/structnpc__vh__void__sentry.html">npc_vh_void_sentry</a></div><div class="ttdef"><b>Definition</b> boss_zuramat.cpp:141</div></div>
+<div class="ttc" id="aviolet__hold_8h_html_a7f25ee334f81084a21cbbe9079f27bed"><div class="ttname"><a href="../../da/d4c/violet__hold_8h.html#a7f25ee334f81084a21cbbe9079f27bed">RegisterVioletHoldCreatureAI</a></div><div class="ttdeci">#define RegisterVioletHoldCreatureAI(ai_name)</div><div class="ttdef"><b>Definition</b> violet_hold.h:334</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00334">RegisterVioletHoldCreatureAI</a>.</p>
+
 <p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
 </div>
@@ -324,7 +347,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_aa8854523178f757998bc0ad1b9fe275.html">VioletHold</a></li><li class="navelem"><a class="el" href="../../d7/db0/boss__zuramat_8cpp.html">boss_zuramat.cpp</a></li>
-    <li class="footer">Generated on Sat Apr 11 2026 06:56:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Sun Apr 12 2026 07:09:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

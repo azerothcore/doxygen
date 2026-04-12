@@ -1,6 +1,5 @@
 var NAVTREEINDEX12 =
 {
-"d0/d88/structSpellRadiusEntry.html#ab82c1acb9309b17104958182d80b01d1":[6,0,4426,1],
 "d0/d88/structSpellRadiusEntry.html#acaee7da373b94a262e01d4bd3bea4f08":[6,0,4426,2],
 "d0/d89/boss__thorim_8cpp.html":[7,0,0,0,1,3,5,9,2,11],
 "d0/d89/boss__thorim_8cpp.html#a2118c2ec4fb8567bc0c56ce75f139369":[7,0,0,0,1,3,5,9,2,11,18],
@@ -189,6 +188,12 @@ var NAVTREEINDEX12 =
 "d0/d89/structnpc__algalon__worm__hole.html#a546bd0ede2586fcbe3812698b68528d4":[6,0,1611,0],
 "d0/d8a/ScriptMgr_8h.html":[7,0,0,0,1,2,38,3],
 "d0/d8a/ScriptMgr_8h.html#ae8161e629869974bc49b1cbfc73c1087":[7,0,0,0,1,2,38,3,2],
+"d0/d8b/structboss__moragg.html":[6,0,638],
+"d0/d8b/structboss__moragg.html#a0ac597810a43e30c2cffcc4c878a9998":[6,0,638,1],
+"d0/d8b/structboss__moragg.html#a29da7214373c1919b65f3512655c8bc3":[6,0,638,3],
+"d0/d8b/structboss__moragg.html#a42d2508369286e5e635d47cce0b939f4":[6,0,638,0],
+"d0/d8b/structboss__moragg.html#a945fbf776bb47484d7a4434ee3a630ed":[6,0,638,2],
+"d0/d8b/structboss__moragg.html#ab70b1a6d9c05e191880f0532b775c6f2":[6,0,638,4],
 "d0/d8b/structboss__shade__of__akama.html":[6,0,706],
 "d0/d8b/structboss__shade__of__akama.html#a19a1aca1a599704612ac845001895b4f":[6,0,706,4],
 "d0/d8b/structboss__shade__of__akama.html#a25ffed5526b1f25eb1cf790745e2a7c7":[6,0,706,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX12 =
 "d0/d8c/classEnumUtils.html#a48ef8a32325aaec99a40773c3453493a":[6,0,1044,35],
 "d0/d8c/classEnumUtils.html#a49acd4658f9bb3452b8f79af2acd0a6d":[6,0,1044,16],
 "d0/d8c/classEnumUtils.html#a4ad1877db4a83e23ebd8ba3a6e127b48":[6,0,1044,129],
-"d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[6,0,1044,81],
-"d0/d8c/classEnumUtils.html#a51a68a1df95a1dd6497f2d0f05732f59":[6,0,1044,93],
-"d0/d8c/classEnumUtils.html#a530800a1db54a25fc05968066ca6bc00":[6,0,1044,76],
-"d0/d8c/classEnumUtils.html#a5454b740ce1ac05526d97dd35fbc9511":[6,0,1044,37],
-"d0/d8c/classEnumUtils.html#a56feebca73ac73c6f1c0db0105c091a9":[6,0,1044,77],
-"d0/d8c/classEnumUtils.html#a5755b5373878105871fe59b33d8f447a":[6,0,1044,55]
+"d0/d8c/classEnumUtils.html#a4c0b91781978c17d54ad6e5e5011d003":[6,0,1044,81]
 };

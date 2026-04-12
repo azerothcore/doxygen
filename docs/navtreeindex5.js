@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"d0/d43/structboss__supremus.html#a2ae72bfef577654e676a64eb2e4efa7a":[6,0,727,7],
+"d0/d43/structboss__supremus.html#a7265a01fa79213ab6d8b82a4c92b7661":[6,0,727,4],
 "d0/d43/structboss__supremus.html#a7d3a5e2c183db7639a7c25f309359ed1":[6,0,727,3],
 "d0/d43/structboss__supremus.html#a87e3943d6c645138853aa97644f9df0e":[6,0,727,6],
 "d0/d43/structboss__supremus.html#af1f094534b0e2dec70422839a02327cd":[6,0,727,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX5 =
 "d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08":[7,0,0,0,1,3,2,0,0,3],
 "d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a12884f87f1db7a7d4a769f6ccd19025c":[7,0,0,0,1,3,2,0,0,3,4],
 "d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a3820313036f8bbbe8fe3ca86faeae3d6":[7,0,0,0,1,3,2,0,0,3,6],
-"d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a5433f3223c51265d88db74cf6120297b":[7,0,0,0,1,3,2,0,0,3,2],
-"d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a649bbf67f4787cc427c42c7f8587df07":[7,0,0,0,1,3,2,0,0,3,5],
-"d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e":[7,0,0,0,1,3,2,0,0,3,1]
+"d0/d58/alterac__valley_8cpp.html#a25a619e6b66096a4f05d048e4a96df08a5433f3223c51265d88db74cf6120297b":[7,0,0,0,1,3,2,0,0,3,2]
 };

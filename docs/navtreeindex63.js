@@ -1,5 +1,7 @@
 var NAVTREEINDEX63 =
 {
+"d2/d4b/classPlayer.html#adbbf0518398ca3be4017578e21dacf71":[6,0,2406,450],
+"d2/d4b/classPlayer.html#adbf3d3aefc34c7f26a9f57fcfd75bf29":[6,0,2406,1151],
 "d2/d4b/classPlayer.html#adbf5e74a842ac67e823f2b253f0bd038":[6,0,2406,563],
 "d2/d4b/classPlayer.html#adc0453192d4eea68340a7b46291c1627":[6,0,2406,689],
 "d2/d4b/classPlayer.html#adc0aed41f4497697a8d614bcd0b0e754":[6,0,2406,1014],
@@ -180,16 +182,16 @@ var NAVTREEINDEX63 =
 "d2/d4b/classSuckBackEvent.html#a6525e2aefec2680fde20e27ebf962f4c":[6,0,4456,0],
 "d2/d4b/classSuckBackEvent.html#aae1664e6ef9d90ec8a0e12554b991bf0":[6,0,4456,1],
 "d2/d4b/classSuckBackEvent.html#abc54669df2dba0238723a40ababe4c0a":[6,0,4456,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[6,0,12,8,0],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html":[5,0,34,8,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[5,0,34,8,0,1],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a187bcedbc110adc332c0cb1de2bd7d9c":[6,0,12,8,0,1],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[6,0,12,8,0,0],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#a60accc2bf5c484753f94a8fe947e8f36":[5,0,34,8,0,0],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[6,0,12,8,0,2],
-"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#ad8fe37595168bc57fcd4af46bdbfafdc":[5,0,34,8,0,2],
 "d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[5,0,34,8,0,3],
+"d2/d4b/classWorldPackets_1_1Item_1_1AutoEquipItem.html#aee1f081b0775d7fc9eb67764a9249ec5":[6,0,12,8,0,3],
 "d2/d4c/classspell__item__reindeer__transformation.html":[6,0,3432],
 "d2/d4c/classspell__item__reindeer__transformation.html#a8dcd509be4d9034e8c0262bdcb2cf189":[6,0,3432,2],
 "d2/d4c/classspell__item__reindeer__transformation.html#acb0b66631c0b3df227ee371e2e4000ac":[6,0,3432,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX63 =
 "d2/d52/classProcEventInfoBuilder.html#aebac87d053e09dba16456a9f49322973":[6,0,2457,11],
 "d2/d52/classProcEventInfoBuilder.html#aec3496f0ce0cd0be4f8b1b2f48146206":[6,0,2457,7],
 "d2/d52/classProcEventInfoBuilder.html#aefbc707a11b34a2bae78f5cf52d4b7a0":[6,0,2457,23],
-"d2/d52/classProcEventInfoBuilder.html#af39d23e9a51f924215a20a578062a9db":[6,0,2457,8],
-"d2/d52/classProcEventInfoBuilder.html#afbc6d5efae5c965c61ebb7972aafb7f0":[6,0,2457,20],
-"d2/d52/structinstance__obsidian__sanctum_1_1instance__obsidian__sanctum__InstanceMapScript.html":[6,0,1344,0]
+"d2/d52/classProcEventInfoBuilder.html#af39d23e9a51f924215a20a578062a9db":[6,0,2457,8]
 };

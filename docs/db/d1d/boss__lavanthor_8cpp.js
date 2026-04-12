@@ -1,7 +1,6 @@
 var boss__lavanthor_8cpp =
 [
-    [ "boss_lavanthor", "db/dce/classboss__lavanthor.html", "db/dce/classboss__lavanthor" ],
-    [ "boss_lavanthor::boss_lavanthorAI", "d0/dd7/structboss__lavanthor_1_1boss__lavanthorAI.html", "d0/dd7/structboss__lavanthor_1_1boss__lavanthorAI" ],
+    [ "boss_lavanthor", "d7/d22/structboss__lavanthor.html", "d7/d22/structboss__lavanthor" ],
     [ "eEvents", "db/d1d/boss__lavanthor_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_SPELL_FIREBOLT", "db/d1d/boss__lavanthor_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a95277c60fe8071663624057d158348bf", null ],
       [ "EVENT_SPELL_FLAME_BREATH", "db/d1d/boss__lavanthor_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a016dba85209f85b317b9d392b2976670", null ],

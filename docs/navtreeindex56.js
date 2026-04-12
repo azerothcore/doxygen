@@ -1,5 +1,7 @@
 var NAVTREEINDEX56 =
 {
+"d2/d38/northrend__script__loader_8cpp.html#a0f538e4ab511bcb65e4d0abbd76848ea":[7,0,0,0,1,3,5,14,32],
+"d2/d38/northrend__script__loader_8cpp.html#a0f581d4a1a046db6b8b7729c87457646":[7,0,0,0,1,3,5,14,133],
 "d2/d38/northrend__script__loader_8cpp.html#a116cdffd90d146040f32f3a9942e67d6":[7,0,0,0,1,3,5,14,61],
 "d2/d38/northrend__script__loader_8cpp.html#a11e49713c62a5c479f14ca4d3e845eab":[7,0,0,0,1,3,5,14,159],
 "d2/d38/northrend__script__loader_8cpp.html#a147460f9b9b578257acd1ced1ab12cd9":[7,0,0,0,1,3,5,14,123],
@@ -247,7 +249,5 @@ var NAVTREEINDEX56 =
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1":[7,0,0,0,1,3,7,5,0,4,1],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a0dcba09ac1290ee56bf1edbdd8a0ebc2":[7,0,0,0,1,3,7,5,0,4,1,4],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a4d165814197a5f6d1363759f81de9c01":[7,0,0,0,1,3,7,5,0,4,1,3],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55a4d8d2195d3da662a32820222f395e":[7,0,0,0,1,3,7,5,0,4,1,2],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55cee0313eef4b9057384ee25d43b745":[7,0,0,0,1,3,7,5,0,4,1,6],
-"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56f294ddea7a1c6ad5f2ec6d59c407cb":[7,0,0,0,1,3,7,5,0,4,1,8]
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55a4d8d2195d3da662a32820222f395e":[7,0,0,0,1,3,7,5,0,4,1,2]
 };

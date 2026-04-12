@@ -1,13 +1,5 @@
 var NAVTREEINDEX126 =
 {
-"d4/d4a/classspell__dru__dash.html":[6,0,2861],
-"d4/d4a/classspell__dru__dash.html#a50d1284f1113bfdd0b39690efabe6b9b":[6,0,2861,2],
-"d4/d4a/classspell__dru__dash.html#a583e19667a83ada4cd793fbf391f9e93":[6,0,2861,0],
-"d4/d4a/classspell__dru__dash.html#ac6adda0dbe544cf2457060647c01de0f":[6,0,2861,1],
-"d4/d4b/classspell__sha__lightning__shield.html":[6,0,4051],
-"d4/d4b/classspell__sha__lightning__shield.html#a11d7fe14f7b3cca93578926f157ef0d5":[6,0,4051,0],
-"d4/d4b/classspell__sha__lightning__shield.html#a239b3daf5f03f5e5930c7b6712a63d8a":[6,0,4051,3],
-"d4/d4b/classspell__sha__lightning__shield.html#a8af3179c6688cfe0940bcd932f6766fa":[6,0,4051,2],
 "d4/d4b/classspell__sha__lightning__shield.html#a9919c0a8d284a36b3162ed435d2f7711":[6,0,4051,4],
 "d4/d4b/classspell__sha__lightning__shield.html#ac18d7286dd26ebbb868e01d17a412124":[6,0,4051,1],
 "d4/d4b/structnpc__death__ravager_1_1npc__death__ravagerAI.html":[6,0,1757,0],
@@ -249,5 +241,13 @@ var NAVTREEINDEX126 =
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08aba0093f918c447c2f45a81f92def2d48":[7,0,0,0,1,3,2,15,2,5,5],
 "d4/d57/boss__hexlord_8cpp.html#a25a619e6b66096a4f05d048e4a96df08abaea72f32d91c4c2b198760d28abc317":[7,0,0,0,1,3,2,15,2,5,4],
 "d4/d57/boss__hexlord_8cpp.html#a292390cf431fe7e742e797ff157e0b1d":[7,0,0,0,1,3,2,15,2,11],
-"d4/d57/boss__hexlord_8cpp.html#a2cab39858986fd0fc663c84b508ad899":[7,0,0,0,1,3,2,15,2,10]
+"d4/d57/boss__hexlord_8cpp.html#a2cab39858986fd0fc663c84b508ad899":[7,0,0,0,1,3,2,15,2,10],
+"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6":[7,0,0,0,1,3,2,15,2,6],
+"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a92706eb33a08d2af442625bec27cdf3c":[7,0,0,0,1,3,2,15,2,6,1],
+"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab8aaab438cd70047fa9299e78971c4f4":[7,0,0,0,1,3,2,15,2,6,3],
+"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad3a76f7068948a8105e9c5001dbb41d2":[7,0,0,0,1,3,2,15,2,6,2],
+"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6adec9a1ef59ace58f844350cf428842ab":[7,0,0,0,1,3,2,15,2,6,0],
+"d4/d57/boss__hexlord_8cpp.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6afec21b3ce2b83056ea6ccf2336110b3d":[7,0,0,0,1,3,2,15,2,6,4],
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298c":[7,0,0,0,1,3,2,15,2,8],
+"d4/d57/boss__hexlord_8cpp.html#a5bd342133be8c2137b831460acc9298ca12ae7d2e18841c2bf64e5d5143144527":[7,0,0,0,1,3,2,15,2,8,3]
 };

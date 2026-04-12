@@ -1,5 +1,7 @@
 var NAVTREEINDEX57 =
 {
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a55cee0313eef4b9057384ee25d43b745":[7,0,0,0,1,3,7,5,0,4,1,6],
+"d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a56f294ddea7a1c6ad5f2ec6d59c407cb":[7,0,0,0,1,3,7,5,0,4,1,8],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1a7bb4524fb9c690612847210c57c384da":[7,0,0,0,1,3,7,5,0,4,1,7],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1aadf13998632eaa9d781a68474123f21b":[7,0,0,0,1,3,7,5,0,4,1,0],
 "d2/d3d/boss__wrath__scryer__soccothrates_8cpp.html#af60e00b78607064c5be6aa9397ea49c1ae523cbc14c66251128efe20bc56cbbd7":[7,0,0,0,1,3,7,5,0,4,1,5],
@@ -30,8 +32,8 @@ var NAVTREEINDEX57 =
 "d2/d3f/classActivePoolData.html":[6,0,129],
 "d2/d3f/classActivePoolData.html#a04f133b25c58d462c35a62c57862af14":[6,0,129,17],
 "d2/d3f/classActivePoolData.html#a092d75db230d224ef3e322994f1c0076":[6,0,129,9],
-"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,129,0],
 "d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,129,1],
+"d2/d3f/classActivePoolData.html#a0ee3c6f24c51bac7da15c165ff93ab42":[6,0,129,0],
 "d2/d3f/classActivePoolData.html#a1aadfb44076691257dfb9bf97f865957":[6,0,129,16],
 "d2/d3f/classActivePoolData.html#a1aaeb7438df310b28e8c536a1ef83ebb":[6,0,129,14],
 "d2/d3f/classActivePoolData.html#a27d8f244ad75cedce9d0a341411b48b6":[6,0,129,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX57 =
 "d2/d48/classChannel.html#a8cf7e6224ec26b92eefb288e7527c9fe":[6,0,862,91],
 "d2/d48/classChannel.html#a8e17c3e2fcdc3263df462ff431ea6466":[6,0,862,107],
 "d2/d48/classChannel.html#a9092fa951905d666a7726ca7d7ec1a06":[6,0,862,10],
-"d2/d48/classChannel.html#a92c222b10b9d6bf26199598a4f19b0ca":[6,0,862,108],
-"d2/d48/classChannel.html#a979e4236a805cf855b6334311cda5431":[6,0,862,29],
-"d2/d48/classChannel.html#a9accfaa120410157006b1383a5926da8":[6,0,862,18]
+"d2/d48/classChannel.html#a92c222b10b9d6bf26199598a4f19b0ca":[6,0,862,108]
 };

@@ -2,27 +2,17 @@ var violet__hold_8cpp =
 [
     [ "go_vh_activation_crystal", "d8/d92/classgo__vh__activation__crystal.html", "d8/d92/classgo__vh__activation__crystal" ],
     [ "npc_vh_sinclari", "d3/dd8/classnpc__vh__sinclari.html", "d3/dd8/classnpc__vh__sinclari" ],
-    [ "npc_vh_teleportation_portal", "d0/df2/classnpc__vh__teleportation__portal.html", "d0/df2/classnpc__vh__teleportation__portal" ],
-    [ "npc_vh_teleportation_portal::npc_vh_teleportation_portalAI", "da/d8b/structnpc__vh__teleportation__portal_1_1npc__vh__teleportation__portalAI.html", "da/d8b/structnpc__vh__teleportation__portal_1_1npc__vh__teleportation__portalAI" ],
+    [ "npc_vh_teleportation_portal", "d9/d6d/structnpc__vh__teleportation__portal.html", "d9/d6d/structnpc__vh__teleportation__portal" ],
     [ "violet_hold_trashAI", "df/ddb/structviolet__hold__trashAI.html", "df/ddb/structviolet__hold__trashAI" ],
-    [ "npc_azure_invader", "d9/d62/classnpc__azure__invader.html", "d9/d62/classnpc__azure__invader" ],
-    [ "npc_azure_invader::npc_azure_invaderAI", "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI.html", "de/d76/structnpc__azure__invader_1_1npc__azure__invaderAI" ],
-    [ "npc_azure_binder", "da/de9/classnpc__azure__binder.html", "da/de9/classnpc__azure__binder" ],
-    [ "npc_azure_binder::npc_azure_binderAI", "d4/d99/structnpc__azure__binder_1_1npc__azure__binderAI.html", "d4/d99/structnpc__azure__binder_1_1npc__azure__binderAI" ],
-    [ "npc_azure_mage_slayer", "d9/d28/classnpc__azure__mage__slayer.html", "d9/d28/classnpc__azure__mage__slayer" ],
-    [ "npc_azure_mage_slayer::npc_azure_mage_slayerAI", "d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI.html", "d4/dad/structnpc__azure__mage__slayer_1_1npc__azure__mage__slayerAI" ],
-    [ "npc_azure_raider", "dc/de9/classnpc__azure__raider.html", "dc/de9/classnpc__azure__raider" ],
-    [ "npc_azure_raider::npc_azure_raiderAI", "db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI.html", "db/ddd/structnpc__azure__raider_1_1npc__azure__raiderAI" ],
-    [ "npc_azure_stalker", "db/d98/classnpc__azure__stalker.html", "db/d98/classnpc__azure__stalker" ],
-    [ "npc_azure_stalker::npc_azure_stalkerAI", "d1/d28/structnpc__azure__stalker_1_1npc__azure__stalkerAI.html", "d1/d28/structnpc__azure__stalker_1_1npc__azure__stalkerAI" ],
-    [ "npc_azure_spellbreaker", "d0/d7a/classnpc__azure__spellbreaker.html", "d0/d7a/classnpc__azure__spellbreaker" ],
-    [ "npc_azure_spellbreaker::npc_azure_spellbreakerAI", "d4/dfa/structnpc__azure__spellbreaker_1_1npc__azure__spellbreakerAI.html", "d4/dfa/structnpc__azure__spellbreaker_1_1npc__azure__spellbreakerAI" ],
-    [ "npc_azure_captain", "d8/de9/classnpc__azure__captain.html", "d8/de9/classnpc__azure__captain" ],
-    [ "npc_azure_captain::npc_azure_captainAI", "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI.html", "de/dc5/structnpc__azure__captain_1_1npc__azure__captainAI" ],
-    [ "npc_azure_sorceror", "df/de9/classnpc__azure__sorceror.html", "df/de9/classnpc__azure__sorceror" ],
-    [ "npc_azure_sorceror::npc_azure_sorcerorAI", "d7/d7f/structnpc__azure__sorceror_1_1npc__azure__sorcerorAI.html", "d7/d7f/structnpc__azure__sorceror_1_1npc__azure__sorcerorAI" ],
-    [ "npc_azure_saboteur", "dd/de6/classnpc__azure__saboteur.html", "dd/de6/classnpc__azure__saboteur" ],
-    [ "npc_azure_saboteur::npc_azure_saboteurAI", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI.html", "de/d55/structnpc__azure__saboteur_1_1npc__azure__saboteurAI" ],
+    [ "npc_azure_invader", "d2/d27/structnpc__azure__invader.html", "d2/d27/structnpc__azure__invader" ],
+    [ "npc_azure_binder", "dc/dc0/structnpc__azure__binder.html", "dc/dc0/structnpc__azure__binder" ],
+    [ "npc_azure_mage_slayer", "de/d3e/structnpc__azure__mage__slayer.html", "de/d3e/structnpc__azure__mage__slayer" ],
+    [ "npc_azure_raider", "d1/df9/structnpc__azure__raider.html", "d1/df9/structnpc__azure__raider" ],
+    [ "npc_azure_stalker", "d1/db8/structnpc__azure__stalker.html", "d1/db8/structnpc__azure__stalker" ],
+    [ "npc_azure_spellbreaker", "d0/d19/structnpc__azure__spellbreaker.html", "d0/d19/structnpc__azure__spellbreaker" ],
+    [ "npc_azure_captain", "d1/da5/structnpc__azure__captain.html", "d1/da5/structnpc__azure__captain" ],
+    [ "npc_azure_sorceror", "d3/dd5/structnpc__azure__sorceror.html", "d3/dd5/structnpc__azure__sorceror" ],
+    [ "npc_azure_saboteur", "da/d45/structnpc__azure__saboteur.html", "da/d45/structnpc__azure__saboteur" ],
     [ "spell_destroy_door_seal_aura", "d9/d63/classspell__destroy__door__seal__aura.html", "d9/d63/classspell__destroy__door__seal__aura" ],
     [ "npc_violet_hold_defense_system", "d3/d4b/structnpc__violet__hold__defense__system.html", "d3/d4b/structnpc__violet__hold__defense__system" ],
     [ "AzureBinderSpells", "d5/d9c/violet__hold_8cpp.html#ac8ac5bae2b6aba2c00fdae1c893e94f0", [
@@ -68,12 +58,54 @@ var violet__hold_8cpp =
       [ "SPELL_BACKSTAB", "d5/d9c/violet__hold_8cpp.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68", null ],
       [ "SPELL_TACTICAL_BLINK", "d5/d9c/violet__hold_8cpp.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402", null ]
     ] ],
+    [ "BinderEvents", "d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9", [
+      [ "EVENT_BINDER_ARCANE_EXPLOSION", "d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974", null ],
+      [ "EVENT_BINDER_ARCANE_BARRAGE", "d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97", null ],
+      [ "EVENT_BINDER_FROST_NOVA", "d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6", null ],
+      [ "EVENT_BINDER_FROSTBOLT", "d5/d9c/violet__hold_8cpp.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df", null ]
+    ] ],
+    [ "CaptainEvents", "d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3c", [
+      [ "EVENT_CAPTAIN_MORTAL_STRIKE", "d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172", null ],
+      [ "EVENT_CAPTAIN_WHIRLWIND", "d5/d9c/violet__hold_8cpp.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae", null ]
+    ] ],
+    [ "InvaderEvents", "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576d", [
+      [ "EVENT_INVADER_CLEAVE", "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a", null ],
+      [ "EVENT_INVADER_IMPALE", "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459", null ],
+      [ "EVENT_INVADER_BRUTAL_STRIKE", "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f", null ],
+      [ "EVENT_INVADER_SUNDER_ARMOR", "d5/d9c/violet__hold_8cpp.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd", null ]
+    ] ],
+    [ "MageSlayerEvents", "d5/d9c/violet__hold_8cpp.html#a6006a65ff2a4b2635101fb8008f35437", [
+      [ "EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT", "d5/d9c/violet__hold_8cpp.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a", null ],
+      [ "EVENT_MAGE_SLAYER_SPELL_LOCK", "d5/d9c/violet__hold_8cpp.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb", null ]
+    ] ],
     [ "PortalEvents", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177", [
       [ "EVENT_SUMMON_KEEPER_OR_GUARDIAN", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707", null ],
       [ "EVENT_SUMMON_KEEPER_TRASH", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e", null ],
       [ "EVENT_SUMMON_ELITES", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc", null ],
       [ "EVENT_SUMMON_SABOTEOUR", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1", null ],
       [ "EVENT_CHECK_DEATHS", "d5/d9c/violet__hold_8cpp.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96", null ]
+    ] ],
+    [ "RaiderEvents", "d5/d9c/violet__hold_8cpp.html#a06b78ef34eb909dec4b4e0770bf24120", [
+      [ "EVENT_RAIDER_CONCUSSION_BLOW", "d5/d9c/violet__hold_8cpp.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123", null ],
+      [ "EVENT_RAIDER_MAGIC_REFLECTION", "d5/d9c/violet__hold_8cpp.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3", null ]
+    ] ],
+    [ "SaboteurEvents", "d5/d9c/violet__hold_8cpp.html#a61f0eb737d2d6575416d40c84f7d23ac", [
+      [ "EVENT_SABOTEUR_SHIELD_DISRUPTION", "d5/d9c/violet__hold_8cpp.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a", null ],
+      [ "EVENT_SABOTEUR_RELEASE_BOSS", "d5/d9c/violet__hold_8cpp.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a", null ],
+      [ "EVENT_SABOTEUR_DISAPPEAR", "d5/d9c/violet__hold_8cpp.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6", null ]
+    ] ],
+    [ "SorcerorEvents", "d5/d9c/violet__hold_8cpp.html#abc0f0004442b009bb45ce8c8843895f4", [
+      [ "EVENT_SORCEROR_ARCANE_STREAM", "d5/d9c/violet__hold_8cpp.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485", null ],
+      [ "EVENT_SORCEROR_MANA_DETONATION", "d5/d9c/violet__hold_8cpp.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892", null ]
+    ] ],
+    [ "SpellbreakerEvents", "d5/d9c/violet__hold_8cpp.html#a2b26d6e966b782d434f5f6b09f28259b", [
+      [ "EVENT_SPELLBREAKER_ARCANE_BLAST", "d5/d9c/violet__hold_8cpp.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0", null ],
+      [ "EVENT_SPELLBREAKER_SLOW", "d5/d9c/violet__hold_8cpp.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da", null ],
+      [ "EVENT_SPELLBREAKER_CHAINS_OF_ICE", "d5/d9c/violet__hold_8cpp.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3", null ],
+      [ "EVENT_SPELLBREAKER_CONE_OF_COLD", "d5/d9c/violet__hold_8cpp.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32", null ]
+    ] ],
+    [ "StalkerEvents", "d5/d9c/violet__hold_8cpp.html#a0f792309511e4c2acaa38c7c4cacacbc", [
+      [ "EVENT_STALKER_BACKSTAB", "d5/d9c/violet__hold_8cpp.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f", null ]
     ] ],
     [ "Texts", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31", [
       [ "GOSSIP_MENU_START_1", "d5/d9c/violet__hold_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a83bd642e6c2dedeeafbca644269a4210", null ],

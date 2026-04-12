@@ -1,10 +1,5 @@
 var NAVTREEINDEX45 =
 {
-"d1/dc3/SmartScriptMgr_8h.html#aab8b231173b2ab83e49abd8195719f0fab0f0bc802d1e710f76f3f94ef8a97c6b":[7,0,0,0,1,2,3,2,5,15,5],
-"d1/dc3/SmartScriptMgr_8h.html#aab8b231173b2ab83e49abd8195719f0faf467df73112a2e21eefc242d32a47155":[7,0,0,0,1,2,3,2,5,15,2],
-"d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08":[7,0,0,0,1,2,3,2,5,25],
-"d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a2f020b237d109691d3a94b6679f63eed":[7,0,0,0,1,2,3,2,5,25,7],
-"d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a3adfcd08f94a949aa38e35d528de9fb6":[7,0,0,0,1,2,3,2,5,25,1],
 "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a45b3e83129018c250a9a46cbc9de5bfb":[7,0,0,0,1,2,3,2,5,25,6],
 "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a4718e6eea137e73dc1ec9d3d48527341":[7,0,0,0,1,2,3,2,5,25,3],
 "d1/dc3/SmartScriptMgr_8h.html#ac838a0f617f2da5e73e5a162f0da7a08a6345ebbed7f4849cf2ea8c248d086908":[7,0,0,0,1,2,3,2,5,25,0],
@@ -36,8 +31,8 @@ var NAVTREEINDEX45 =
 "d1/dc3/classspell__gluth__decimate.html#afa9d5c6fd0666a7fa1a6f4d5acabe782":[6,0,3133,0],
 "d1/dc3/structAcore_1_1dependant__false.html":[6,0,0,48],
 "d1/dc3/structAcore_1_1dependant__false.html":[5,0,1,60],
-"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,1,60,0],
 "d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[6,0,0,48,0],
+"d1/dc3/structAcore_1_1dependant__false.html#aed17402a7e412ef30d1d813a4df18c69":[5,0,1,60,0],
 "d1/dc3/struct__Spell.html":[6,0,16],
 "d1/dc3/struct__Spell.html#a16909465a3a20dbab6e3ca2e3c807f17":[6,0,16,2],
 "d1/dc3/struct__Spell.html#a39657ff9e561a3c86a671f7b3c78ef98":[6,0,16,6],
@@ -169,8 +164,8 @@ var NAVTREEINDEX45 =
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#a6be9d8d3f564621780e458c4a785b709":[6,0,12,8,3,3],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[5,0,34,8,3,2],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#ac4faf4646da9a9fe7c1567527ca28a27":[6,0,12,8,3,2],
-"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[5,0,34,8,3,1],
 "d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[6,0,12,8,3,1],
+"d1/dc8/classWorldPackets_1_1Item_1_1BuybackItem.html#aefe27701674c75f8937f72ee418a6692":[5,0,34,8,3,1],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html":[6,0,3760],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html#a642f2d3992e7e3a4393d2b0c6b521597":[6,0,3760,2],
 "d1/dc8/classspell__pilgrims__bounty__pass__generic.html#a68a6e9b307500a56e66bc19c41daf9dc":[6,0,3760,3],
@@ -232,8 +227,8 @@ var NAVTREEINDEX45 =
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a6e1026191fd4b1b45696a60f45b1b7b8":[5,0,1,37,1],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[6,0,0,25,2],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#a9ebd1a1d9716dfda55509396947c1a83":[5,0,1,37,2],
-"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[5,0,1,37,3],
 "d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[6,0,0,25,3],
+"d1/dcf/classAcore_1_1AnyFriendlyUnitInObjectRangeCheck.html#adacade7450b0af19540ea705e1bd438b":[5,0,1,37,3],
 "d1/dd0/BankHandler_8cpp.html":[7,0,0,0,1,2,22,5],
 "d1/dd0/EventProcessor_8h.html":[7,0,0,0,0,15,12],
 "d1/dd0/EventProcessor_8h.html#a393840b719db78b29da806c1237fceb0":[7,0,0,0,0,15,12,3],
@@ -249,5 +244,10 @@ var NAVTREEINDEX45 =
 "d1/dd0/classStaticVMapCollisionData.html#ad5b245ec62bf370a479c8fdb0eec1f40":[6,0,4451,2],
 "d1/dd0/classStaticVMapCollisionData.html#afcbfd82bc43ad5dbce5edc35608a0d38":[6,0,4451,1],
 "d1/dd0/classboss__mal__ganis.html":[6,0,622],
-"d1/dd0/classboss__mal__ganis.html#a604becb65e766f4fb71d2ae168d1be4e":[6,0,622,1]
+"d1/dd0/classboss__mal__ganis.html#a604becb65e766f4fb71d2ae168d1be4e":[6,0,622,1],
+"d1/dd0/classboss__mal__ganis.html#aa747abd11310c3535ea2ea37e4aac28b":[6,0,622,2],
+"d1/dd0/classspell__sha__stoneclaw__totem.html":[6,0,4062],
+"d1/dd0/classspell__sha__stoneclaw__totem.html#a190b802f3b09655886e5bbb9980375af":[6,0,4062,3],
+"d1/dd0/classspell__sha__stoneclaw__totem.html#a5bbcb05b82e0953c82f2a0d96bd79eab":[6,0,4062,0],
+"d1/dd0/classspell__sha__stoneclaw__totem.html#a7462fbeab2254046e12a262418ec0d2c":[6,0,4062,1]
 };

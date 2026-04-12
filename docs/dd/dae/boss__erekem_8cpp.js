@@ -1,9 +1,7 @@
 var boss__erekem_8cpp =
 [
-    [ "boss_erekem", "d7/d1e/classboss__erekem.html", "d7/d1e/classboss__erekem" ],
-    [ "boss_erekem::boss_erekemAI", "d8/dfb/structboss__erekem_1_1boss__erekemAI.html", "d8/dfb/structboss__erekem_1_1boss__erekemAI" ],
-    [ "npc_erekem_guard", "d5/d03/classnpc__erekem__guard.html", "d5/d03/classnpc__erekem__guard" ],
-    [ "npc_erekem_guard::npc_erekem_guardAI", "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI.html", "d3/d8d/structnpc__erekem__guard_1_1npc__erekem__guardAI" ],
+    [ "boss_erekem", "d8/d6e/structboss__erekem.html", "d8/d6e/structboss__erekem" ],
+    [ "npc_erekem_guard", "de/dc7/structnpc__erekem__guard.html", "de/dc7/structnpc__erekem__guard" ],
     [ "eEvents", "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_SPELL_BLOODLUST", "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a2346af6c9a2eaf63006e8c80d053aff5", null ],
       [ "EVENT_SPELL_BREAK_BONDS", "dd/dae/boss__erekem_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516af7367c4fd2983cfdf945a7c40dae1fe0", null ],

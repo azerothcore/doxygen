@@ -12,8 +12,8 @@ var structviolet__hold__trashAI =
     [ "UpdateAI", "df/ddb/structviolet__hold__trashAI.html#a8647797343650fcd4f6304bce3742883", null ],
     [ "WaypointReached", "df/ddb/structviolet__hold__trashAI.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
     [ "WaypointReached", "df/ddb/structviolet__hold__trashAI.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bAddedWP", "df/ddb/structviolet__hold__trashAI.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "df/ddb/structviolet__hold__trashAI.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "df/ddb/structviolet__hold__trashAI.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "df/ddb/structviolet__hold__trashAI.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "AddedWaypoints", "df/ddb/structviolet__hold__trashAI.html#a726bade10ce5bc233864240fafa65fc1", null ],
+    [ "Instance", "df/ddb/structviolet__hold__trashAI.html#a9ebdc7d8619de49dcd742a1c08005770", null ],
+    [ "PortalLoc", "df/ddb/structviolet__hold__trashAI.html#a17d81d130cfeff5b5ae0ee30c594f5ca", null ],
+    [ "UseAlternate", "df/ddb/structviolet__hold__trashAI.html#aa584f9f52bfc3e37a6d3a80958e51e48", null ]
 ];

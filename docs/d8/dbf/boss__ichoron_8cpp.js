@@ -1,14 +1,19 @@
 var boss__ichoron_8cpp =
 [
-    [ "boss_ichoron", "d8/d6c/classboss__ichoron.html", "d8/d6c/classboss__ichoron" ],
-    [ "boss_ichoron::boss_ichoronAI", "da/dca/structboss__ichoron_1_1boss__ichoronAI.html", "da/dca/structboss__ichoron_1_1boss__ichoronAI" ],
-    [ "npc_ichor_globule", "d0/d38/classnpc__ichor__globule.html", "d0/d38/classnpc__ichor__globule" ],
-    [ "npc_ichor_globule::npc_ichor_globuleAI", "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI.html", "d9/dee/structnpc__ichor__globule_1_1npc__ichor__globuleAI" ],
+    [ "boss_ichoron", "d9/d79/structboss__ichoron.html", "d9/d79/structboss__ichoron" ],
+    [ "npc_ichor_globule", "d6/dd8/structnpc__ichor__globule.html", "d6/dd8/structnpc__ichor__globule" ],
     [ "ACTION_WATER_ELEMENT_HIT", "d8/dbf/boss__ichoron_8cpp.html#a604a96878790aff47651e4539253d716", null ],
     [ "ACTION_WATER_ELEMENT_KILLED", "d8/dbf/boss__ichoron_8cpp.html#a0819f535f9b98d41695eeb883e6d94a4", null ],
     [ "MAX_SPAWN_LOC", "d8/dbf/boss__ichoron_8cpp.html#a986d752f01bfa1c34b10e82145538920", null ],
     [ "eCreatures", "d8/dbf/boss__ichoron_8cpp.html#a59602e8f26d052c0b6f6bdfe896510b8", [
       [ "NPC_ICHOR_GLOBULE", "d8/dbf/boss__ichoron_8cpp.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762", null ]
+    ] ],
+    [ "eEvents", "d8/dbf/boss__ichoron_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
+      [ "EVENT_WATER_BOLT_VOLLEY", "d8/dbf/boss__ichoron_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a55a88334df4c9dca877142d647dd15e8", null ],
+      [ "EVENT_DRAINED_CHECK", "d8/dbf/boss__ichoron_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a79912ffe35cfba5a265e0846f7ec7166", null ]
+    ] ],
+    [ "eGlobuleEvents", "d8/dbf/boss__ichoron_8cpp.html#a5dcf54d6d0f70394db23f08a6ab5d25f", [
+      [ "EVENT_RANGE_CHECK", "d8/dbf/boss__ichoron_8cpp.html#a5dcf54d6d0f70394db23f08a6ab5d25fa7fcd9a3142a87856248cbc51a25268ee", null ]
     ] ],
     [ "eSpells", "d8/dbf/boss__ichoron_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0", [
       [ "SPELL_DRAINED", "d8/dbf/boss__ichoron_8cpp.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0af79cfc4321afabb4a953755504a91ce5", null ],

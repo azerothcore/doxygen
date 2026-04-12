@@ -71,12 +71,13 @@ var searchData=
   ['registerunderbogcreatureai_68',['RegisterUnderbogCreatureAI',['../df/db7/the__underbog_8h.html#afcd42fc90cff2a3292b19b2ea80bdd38',1,'the_underbog.h']]],
   ['registerutgardekeepcreatureai_69',['RegisterUtgardeKeepCreatureAI',['../d1/dbc/utgarde__keep_8h.html#a960a375dc6655df45bd889a1b1487dcc',1,'utgarde_keep.h']]],
   ['registerutgardepinnaclecreatureai_70',['RegisterUtgardePinnacleCreatureAI',['../d8/d3a/utgarde__pinnacle_8h.html#a498b14633fc6249e745f4d7953bbb477',1,'utgarde_pinnacle.h']]],
-  ['registerzulamancreatureai_71',['RegisterZulAmanCreatureAI',['../d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64',1,'zulaman.h']]],
-  ['registerzulgurubcreatureai_72',['RegisterZulGurubCreatureAI',['../dc/df0/zulgurub_8h.html#a666df3882df1d8adf7c3cc6b813c6993',1,'zulgurub.h']]],
-  ['remove_5fviolating_5fflags_73',['REMOVE_VIOLATING_FLAGS',['../d6/da7/WorldSession_8cpp.html#a9d7c4eaedbb2a06f275a5f59222bc747',1,'WorldSession.cpp']]],
-  ['req_5fchain_5fcount_74',['REQ_CHAIN_COUNT',['../dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82',1,'boss_razorscale.cpp']]],
-  ['restoration_5fbuff_5frespawn_5ftime_75',['RESTORATION_BUFF_RESPAWN_TIME',['../d3/dcf/Battleground_8h.html#a8490df1aad5b5ff221deb3de9af2cece',1,'Battleground.h']]],
-  ['resurrection_5finterval_76',['RESURRECTION_INTERVAL',['../d3/dcf/Battleground_8h.html#adb41516553b1ea3899d5aaabe7151aab',1,'Battleground.h']]],
-  ['rubysanctumscriptname_77',['RubySanctumScriptName',['../db/dd6/ruby__sanctum_8h.html#a431c4d3501dcbb28807f6d04208713cf',1,'ruby_sanctum.h']]],
-  ['ruinsofahnqirajscriptname_78',['RuinsOfAhnQirajScriptName',['../d4/d01/ruins__of__ahnqiraj_8h.html#a4b58669c89c6e31a96bed4ead9b3e5aa',1,'ruins_of_ahnqiraj.h']]]
+  ['registervioletholdcreatureai_71',['RegisterVioletHoldCreatureAI',['../da/d4c/violet__hold_8h.html#a7f25ee334f81084a21cbbe9079f27bed',1,'violet_hold.h']]],
+  ['registerzulamancreatureai_72',['RegisterZulAmanCreatureAI',['../d9/d98/zulaman_8h.html#ab29f29115db3f860c14af46fc7bf3b64',1,'zulaman.h']]],
+  ['registerzulgurubcreatureai_73',['RegisterZulGurubCreatureAI',['../dc/df0/zulgurub_8h.html#a666df3882df1d8adf7c3cc6b813c6993',1,'zulgurub.h']]],
+  ['remove_5fviolating_5fflags_74',['REMOVE_VIOLATING_FLAGS',['../d6/da7/WorldSession_8cpp.html#a9d7c4eaedbb2a06f275a5f59222bc747',1,'WorldSession.cpp']]],
+  ['req_5fchain_5fcount_75',['REQ_CHAIN_COUNT',['../dd/dca/boss__razorscale_8cpp.html#acc6ab7dcc4ae71566640f5ecd5bdcf82',1,'boss_razorscale.cpp']]],
+  ['restoration_5fbuff_5frespawn_5ftime_76',['RESTORATION_BUFF_RESPAWN_TIME',['../d3/dcf/Battleground_8h.html#a8490df1aad5b5ff221deb3de9af2cece',1,'Battleground.h']]],
+  ['resurrection_5finterval_77',['RESURRECTION_INTERVAL',['../d3/dcf/Battleground_8h.html#adb41516553b1ea3899d5aaabe7151aab',1,'Battleground.h']]],
+  ['rubysanctumscriptname_78',['RubySanctumScriptName',['../db/dd6/ruby__sanctum_8h.html#a431c4d3501dcbb28807f6d04208713cf',1,'ruby_sanctum.h']]],
+  ['ruinsofahnqirajscriptname_79',['RuinsOfAhnQirajScriptName',['../d4/d01/ruins__of__ahnqiraj_8h.html#a4b58669c89c6e31a96bed4ead9b3e5aa',1,'ruins_of_ahnqiraj.h']]]
 ];

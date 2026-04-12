@@ -1,13 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"d1/d16/classSpell.html#a61fa27111203c2e2f55a4ca7e20dc708":[6,0,2605,249],
-"d1/d16/classSpell.html#a630cf490e573e7f6ec36cfe2e2e47272":[6,0,2605,330],
-"d1/d16/classSpell.html#a63232c6963a69e17139f0084a8167496":[6,0,2605,188],
-"d1/d16/classSpell.html#a646d78d67936422cff9ab9d36e9e2503":[6,0,2605,125],
-"d1/d16/classSpell.html#a6634a11a4bb1806304a33e3bc10b7c28":[6,0,2605,307],
-"d1/d16/classSpell.html#a66c11a144d72113d243e8552c7455d15":[6,0,2605,12],
-"d1/d16/classSpell.html#a66c7bea2221cf2f2ffecdcdd89173ed3":[6,0,2605,294],
-"d1/d16/classSpell.html#a684a3106987a62ce93040b5b5cf76771":[6,0,2605,69],
 "d1/d16/classSpell.html#a68b7071f7708ddf46cb20e2e76e414ad":[6,0,2605,219],
 "d1/d16/classSpell.html#a68f9348b9f781dab56d7d8a194822b3e":[6,0,2605,124],
 "d1/d16/classSpell.html#a69206f5984e77ba464a4f4a135592a94":[6,0,2605,256],
@@ -249,5 +241,13 @@ var NAVTREEINDEX26 =
 "d1/d16/structadt__liquid__instance.html#a4b1bd0f232da1acde53787109e26c9b3":[6,0,135,13],
 "d1/d16/structadt__liquid__instance.html#a5c56ad9303d1b652774019efbe316dbd":[6,0,135,8],
 "d1/d16/structadt__liquid__instance.html#a8facef2fdb586a71f1f740086fe160ab":[6,0,135,1],
-"d1/d16/structadt__liquid__instance.html#a910553870f082a1b8dd47c27c8f981f1":[6,0,135,5]
+"d1/d16/structadt__liquid__instance.html#a910553870f082a1b8dd47c27c8f981f1":[6,0,135,5],
+"d1/d16/structadt__liquid__instance.html#a98bc670c8dd44b210b398f5f014cbbc7":[6,0,135,0],
+"d1/d16/structadt__liquid__instance.html#aa73500f507b6ee2678f3c81328b716e1":[6,0,135,7],
+"d1/d16/structadt__liquid__instance.html#ab1376e3688bcf9110111bf87f8fd940a":[6,0,135,6],
+"d1/d16/structadt__liquid__instance.html#abb92a54ddecdd06c1031bafd41e642dc":[6,0,135,4],
+"d1/d16/structadt__liquid__instance.html#abfe19bd9c6d9d1d41433abe6fae3baea":[6,0,135,10],
+"d1/d16/structadt__liquid__instance.html#aecd2f6f40509d9b65f9f254e59298e8c":[6,0,135,2],
+"d1/d16/structboss__sartharion__vesperon.html":[6,0,700],
+"d1/d16/structboss__sartharion__vesperon.html#a0c45127e9eb2be20765f92e1161e2e5a":[6,0,700,1]
 };

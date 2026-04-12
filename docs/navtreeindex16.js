@@ -1,5 +1,10 @@
 var NAVTREEINDEX16 =
 {
+"d0/da3/structboss__high__priestess__thaurissan.html":[6,0,548],
+"d0/da3/structboss__high__priestess__thaurissan.html#a66612582a2362e4f07d7a2bda529af06":[6,0,548,2],
+"d0/da3/structboss__high__priestess__thaurissan.html#a72b25580dc84301be59d72df45a3ac87":[6,0,548,0],
+"d0/da3/structboss__high__priestess__thaurissan.html#aa8ba467dd5633e96a20c634880710936":[6,0,548,1],
+"d0/da4/classSpellImplicitTargetInfo.html":[6,0,4390],
 "d0/da4/classSpellImplicitTargetInfo.html#a094f5c6bc82196355aeded09cb469b7c":[6,0,4390,5],
 "d0/da4/classSpellImplicitTargetInfo.html#a1822c2908aff0701ab6e56ccf1c83a83":[6,0,4390,4],
 "d0/da4/classSpellImplicitTargetInfo.html#a1a05bbd8400ec4451ca34b2754e056e9":[6,0,4390,12],
@@ -244,10 +249,5 @@ var NAVTREEINDEX16 =
 "d0/dae/classItem.html#a9287453495e250d441f16cb12f9f77f5":[6,0,1396,42],
 "d0/dae/classItem.html#a9299016cce302d89754528f7cb7ffb2d":[6,0,1396,72],
 "d0/dae/classItem.html#a99b0a6a75ee480ff3586f191bb64a19a":[6,0,1396,38],
-"d0/dae/classItem.html#a9cfc6018f00d26fff0ccf082ad2a5599":[6,0,1396,18],
-"d0/dae/classItem.html#a9f88246dc5897db068da95ed1f473eec":[6,0,1396,66],
-"d0/dae/classItem.html#a9fa58bddfa32f487e6ab892ec0d938f4":[6,0,1396,58],
-"d0/dae/classItem.html#aaacfba1110503dbaeea53c9a214feb7e":[6,0,1396,17],
-"d0/dae/classItem.html#aabd654a81738e949c2b28e8d78a1d427":[6,0,1396,88],
-"d0/dae/classItem.html#aaf1d2114d3a6258f426384ba2653a492":[6,0,1396,103]
+"d0/dae/classItem.html#a9cfc6018f00d26fff0ccf082ad2a5599":[6,0,1396,18]
 };

@@ -1,10 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"d0/df1/boss__majordomo__executus_8cpp.html#a5bd342133be8c2137b831460acc9298cafd79f0e7035448d8f649e3282deb75dd":[7,0,0,0,1,3,2,1,3,6,7,0],
-"d0/df1/boss__majordomo__executus_8cpp.html#a88fdc4b1d80593d591bea5e7ae8f0d14":[7,0,0,0,1,3,2,1,3,6,9],
-"d0/df1/boss__majordomo__executus_8cpp.html#a9072d3ad19e730d7b08ce205665dfca0":[7,0,0,0,1,3,2,1,3,6,12],
-"d0/df1/boss__majordomo__executus_8cpp.html#a9dd93200f9bd6f102e42110053662da8":[7,0,0,0,1,3,2,1,3,6,11],
-"d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31":[7,0,0,0,1,3,2,1,3,6,8],
 "d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a04c962d9b6aaafde54ff92a54369135e":[7,0,0,0,1,3,2,1,3,6,8,11],
 "d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a11d5f4893d3991ec7abf4ded345147a0":[7,0,0,0,1,3,2,1,3,6,8,7],
 "d0/df1/boss__majordomo__executus_8cpp.html#aa80bce1d0ea05213c0d6c327126caf31a16df4936b72c37e0c399391bf2d522b0":[7,0,0,0,1,3,2,1,3,6,8,5],
@@ -35,9 +30,6 @@ var NAVTREEINDEX22 =
 "d0/df1/boss__majordomo__executus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1adf09952a1850935570a216250de160aa":[7,0,0,0,1,3,2,1,3,6,5,8],
 "d0/df1/boss__majordomo__executus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1af00e6fc445c7482e49886aa217b507fe":[7,0,0,0,1,3,2,1,3,6,5,3],
 "d0/df1/boss__majordomo__executus_8cpp.html#af60e00b78607064c5be6aa9397ea49c1affd3c84e0ccaed269d8341ed36866de5":[7,0,0,0,1,3,2,1,3,6,5,6],
-"d0/df2/classnpc__vh__teleportation__portal.html":[6,0,2275],
-"d0/df2/classnpc__vh__teleportation__portal.html#a0721c64c01ae69bd78dfc15637c97f49":[6,0,2275,2],
-"d0/df2/classnpc__vh__teleportation__portal.html#a9a554058f594f992a17dbb3887117a6f":[6,0,2275,1],
 "d0/df2/instance__wailing__caverns_8cpp.html":[7,0,0,0,1,3,4,10,0],
 "d0/df2/instance__wailing__caverns_8cpp.html#a67427453c8ec357648c276eaed523225":[7,0,0,0,1,3,4,10,0,2],
 "d0/df2/structSummonPropertiesEntry.html":[6,0,4458],
@@ -249,5 +241,13 @@ var NAVTREEINDEX22 =
 "d0/df4/structPosition.html#a47bfc5f7d4f115e748123f13fc1ad0fb":[6,0,2442,62],
 "d0/df4/structPosition.html#a47dfa17a367a4824c454c3fa0997b2ee":[6,0,2442,45],
 "d0/df4/structPosition.html#a49317e35c16b29cc385c92c34ebf8b06":[6,0,2442,18],
-"d0/df4/structPosition.html#a4aa79a712a89b0c51bf3aa43e593d86c":[6,0,2442,29]
+"d0/df4/structPosition.html#a4aa79a712a89b0c51bf3aa43e593d86c":[6,0,2442,29],
+"d0/df4/structPosition.html#a4d45ff71d05bb3ff3d570905460f61cd":[6,0,2442,65],
+"d0/df4/structPosition.html#a4e813a59345a6275e8b87b96be03e60b":[6,0,2442,32],
+"d0/df4/structPosition.html#a4f8bb54eef056fd5a230c314d24c2ca6":[6,0,2442,66],
+"d0/df4/structPosition.html#a50fc5314d5bb8bf45e4d29bb28685f55":[6,0,2442,58],
+"d0/df4/structPosition.html#a568d4ba1b2f73ad700cbb936d5ddf596":[6,0,2442,7],
+"d0/df4/structPosition.html#a591be9768b6f4f1451e54af79a78ebaf":[6,0,2442,37],
+"d0/df4/structPosition.html#a6d76e3509daa4967ab844badc5e60d26":[6,0,2442,55],
+"d0/df4/structPosition.html#a705e30a9760f5f726a242241823d5718":[6,0,2442,5]
 };

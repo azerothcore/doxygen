@@ -124,7 +124,7 @@ var classMap =
     [ "GetPet", "d7/db0/classMap.html#a1b9c114a6c729559925a9703391b8859", null ],
     [ "GetPlayerCountInZone", "d7/db0/classMap.html#ac5220af343d506037b56fbc5861ae027", null ],
     [ "GetPlayers", "d7/db0/classMap.html#ae37764185b1adf2c6438025e4fa9091a", null ],
-    [ "GetPlayersCountExceptGMs", "d7/db0/classMap.html#abdac644dc3c8b30989d16efe624c8894", null ],
+    [ "GetPlayersCountExceptGMs", "d7/db0/classMap.html#a09d2bb66c91022906584a201ad70a0d1", null ],
     [ "GetSpawnMode", "d7/db0/classMap.html#a43b5bdb50f8e3d9b9305475f62872d6c", null ],
     [ "GetTransport", "d7/db0/classMap.html#af2990e58de7fd1209a0dfaa882e673e2", null ],
     [ "GetTransportForPos", "d7/db0/classMap.html#a3914921342aabf3713b3ec1cdf8109d6", null ],

@@ -3,6 +3,7 @@ var structnpc__belnistrasz_1_1npc__belnistraszAI =
     [ "npc_belnistraszAI", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
     [ "JustDied", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
     [ "JustEngagedWith", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
+    [ "JustExitedCombat", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#a070871d7ece3583ae5304cfdadd807b0", null ],
     [ "MovementInform", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
     [ "Reset", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
     [ "sQuestAccept", "d2/d71/structnpc__belnistrasz_1_1npc__belnistraszAI.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],

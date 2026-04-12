@@ -1,7 +1,6 @@
 var boss__xevozz_8cpp =
 [
-    [ "boss_xevozz", "d8/de4/classboss__xevozz.html", "d8/de4/classboss__xevozz" ],
-    [ "boss_xevozz::boss_xevozzAI", "da/da8/structboss__xevozz_1_1boss__xevozzAI.html", "da/da8/structboss__xevozz_1_1boss__xevozzAI" ],
+    [ "boss_xevozz", "db/d98/structboss__xevozz.html", "db/d98/structboss__xevozz" ],
     [ "eEvents", "d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_SPELL_ARCANE_BARRAGE_VOLLEY", "d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a700906602d16c0752aa1c5e1fa4f70b3", null ],
       [ "EVENT_SPELL_ARCANE_BUFFET", "d3/d21/boss__xevozz_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516a14bb8e4962b33b218755721b24a5c2ea", null ],

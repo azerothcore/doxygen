@@ -1,7 +1,6 @@
 var boss__moragg_8cpp =
 [
-    [ "boss_moragg", "d1/def/classboss__moragg.html", "d1/def/classboss__moragg" ],
-    [ "boss_moragg::boss_moraggAI", "d7/d45/structboss__moragg_1_1boss__moraggAI.html", "d7/d45/structboss__moragg_1_1boss__moraggAI" ],
+    [ "boss_moragg", "d0/d8b/structboss__moragg.html", "d0/d8b/structboss__moragg" ],
     [ "spell_optic_link_aura", "df/d40/classspell__optic__link__aura.html", "df/d40/classspell__optic__link__aura" ],
     [ "eEvents", "d0/d70/boss__moragg_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_SPELL_CORROSIVE_SALIVA", "d0/d70/boss__moragg_8cpp.html#a1d3512b0adb171bd0db6aad2c9e70516aaf03917e0d41000edce6031ef92226ef", null ],

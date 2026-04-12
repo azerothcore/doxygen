@@ -1,5 +1,7 @@
 var NAVTREEINDEX7 =
 {
+"d0/d5b/classPlayerScript.html#afb7a7ef38ae08790d17679d59505dc47":[6,0,2423,21],
+"d0/d5b/classPlayerScript.html#afb8ef3b6b7f2293ad8f08de85a415168":[6,0,2423,106],
 "d0/d5b/classPlayerScript.html#afc51f607a2a09dfbebf941afb6d78848":[6,0,2423,165],
 "d0/d5b/classPlayerScript.html#afd1ea56109b58e3493e4708a7bfdded0":[6,0,2423,32],
 "d0/d5b/classPlayerScript.html#aff27d01a92654d33b6b682df96b72892":[6,0,2423,74],
@@ -233,12 +235,12 @@ var NAVTREEINDEX7 =
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a671bede7fbc68085cd6075f412822869":[6,0,4176,2],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#a67a1cbbf74fe91a32a51d9ad5056f048":[6,0,4176,0],
 "d0/d61/classspell__the__lich__king__shadow__trap__periodic.html#abd32198867e7f01b21b7de6224a597d4":[6,0,4176,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,34,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[6,0,12,2,2],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,12,2,2,1],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html":[5,0,34,2,2],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[5,0,34,2,2,1],
-"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,12,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a0d958bc07b674ed3339833351fec7d3a":[6,0,12,2,2,1],
 "d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[5,0,34,2,2,0],
+"d0/d63/classWorldPackets_1_1Character_1_1LogoutComplete.html#a94f3ea0cd30d1eb44733c1c5aef05ec7":[6,0,12,2,2,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html":[6,0,2328,0],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a3ac18fb8f5d386e3245a2435e31e45e1":[6,0,2328,0,2],
 "d0/d63/structObjectMgr_1_1GameobjectInstanceSavedState.html#a8bc0c5e1cf45073f054c5154c21b3d72":[6,0,2328,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX7 =
 "d0/d64/classsend__commandscript.html#a26938bb54bb3cb678c49737a92cadb56":[6,0,2552,5],
 "d0/d64/classsend__commandscript.html#a2dc60c8c414c9131b4cda1ff82f7beed":[6,0,2552,1],
 "d0/d64/classsend__commandscript.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde":[6,0,2552,0],
-"d0/d64/classsend__commandscript.html#a5ad6f9387c6fb00bf536629c760ba374":[6,0,2552,3],
-"d0/d64/classsend__commandscript.html#a7ffcd07e0ad08be2eb8a1ebac0fec717":[6,0,2552,2],
-"d0/d64/classsend__commandscript.html#a91017e6171ac9e4dfff6c2036228de47":[6,0,2552,4]
+"d0/d64/classsend__commandscript.html#a5ad6f9387c6fb00bf536629c760ba374":[6,0,2552,3]
 };
